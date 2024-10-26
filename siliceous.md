@@ -1,0 +1,21 @@
+- siliceous
+  - 发音
+    - 英 `/sɪ'lɪʃəs/`
+    - 美 `/sɪ'lɪʃəs/`
+  - 词义
+    - adj. 硅酸的；硅土的
+    - `of, relating to, or containing abundant silica `
+  - 同根词
+    - adj.
+      - `silicious` 含硅的；硅土的；硅酸的
+    - n.
+      - `silica` 二氧化硅；[材] 硅土
+      - `silicate` [矿物] 硅酸盐
+  - 短语
+    - `siliceous earth` 硅质土 
+  - 例句
+    - `siliceous deposits`
+      - 
+    - `a siliceous clay`
+      - 
+

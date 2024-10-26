@@ -1,0 +1,15 @@
+- inability
+  - 发音
+    - 英 `/ɪnə'bɪlɪtɪ/`
+    - 美 `/,ɪnə'bɪləti/`
+  - 词义
+    - n. 无能,无力
+    - `the fact of being unable to do something`
+  - 近义词
+    - n. 无能力；无才能
+      - `incapacity`
+      - `incompetency`
+  - 例句
+    - `Her inability to concentrate could cause an accident.`
+      - 她无法集中注意力可能会导致意外。
+

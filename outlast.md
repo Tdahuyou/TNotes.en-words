@@ -1,0 +1,15 @@
+- outlast
+  - 发音
+    - 英 `/ˌaut'lɑːst/`
+    - 美 `/,aʊt'læst/`
+  - 词义
+    - v. 比…长久，比…活得长
+    - `to continue to exist or be effective for a longer time than something else`
+  - 记忆
+    - out (超过) + last (持续) → 比…长久
+  - 例句
+    - `Smith outlasted his rivals in the council to become leader in 1996.`
+      - 史密斯比对手坚持得更久，于1996年成了委员会的领导人。
+    - `A leather sofa will usually outlast a cloth one.`
+      - 皮沙发一般要比布沙发耐用。
+

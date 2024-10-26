@@ -1,0 +1,20 @@
+- pettish
+  - 发音
+    - 英 `/'petɪʃ/`
+    - 美 `/'pɛtɪʃ/`
+  - 词义
+    - adj. 易怒的，闹情绪的
+    - `peevish; petulant `
+  - 同根词
+    - adv.
+      - `pettishly` 任性地；易怒地；怒气冲冲地
+    - n.
+      - `petulance` 易怒；生气；性急；暴躁
+  - 近义词
+    - adj. 易怒的；闹情绪的；怒气冲冲的
+      - `passionate`
+      - `irascible`
+  - 例句
+    - `a pettish child`
+      - 
+

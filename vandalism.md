@@ -1,0 +1,18 @@
+- vandalism
+  - 发音
+    - 英 `/'vænd(ə)lɪz(ə)m/`
+    - 美 `/'vændəlɪzəm/`
+  - 词义
+    - n. 汪达尔人作风；故意毁坏文物的行为；破坏他人财产的行为
+    - `the crime of deliberately damaging things, especially public property`
+  - 同根词
+    - adj.
+      - `vandal` 破坏文化艺术的
+    - n.
+      - `vandal` 文化艺术的破坏者；蓄意破坏者
+    - vt.
+      - `vandalize` 肆意毁坏；摧残（等于vandalise）
+  - 例句
+    - `...a 13-year-old boy whose crime file includes violence, theft, vandalism and bullying.`
+      - …一个犯罪档案中包括暴力、偷窃、破坏公物和恃强凌弱的13岁男孩。
+

@@ -1,0 +1,33 @@
+- luxurious
+  - 发音
+    - 英 `/lʌg'ʒuriəs/`
+    - 美 `/lʌɡ'ʒʊrɪəs/`
+  - 词义
+    - adj. 奢侈的，奢华的
+    - `very expensive, beautiful, and comfortable`
+  - 记忆
+    - 来自luxury(n. 奢侈品； 奢华)
+  - 同根词
+    - adj.
+      - `luxury` 奢侈的
+      - `luxuriant` 繁茂的；丰富的；奢华的；肥沃的
+    - adv.
+      - `luxuriously` 豪华地；奢侈地
+      - `luxuriantly` 丰富地；繁茂地
+    - n.
+      - `luxury` 奢侈，奢华；奢侈品；享受
+      - `luxe` （法）奢侈
+      - `luxuriance` 繁茂；丰富；肥沃；华美
+      - `luxuriousness` 豪华
+    - vi.
+      - `luxuriate` 沉溺；繁茂；生活奢侈
+  - 近义词
+    - adj. 奢侈的；丰富的；放纵的；特级的
+      - `abundant`
+      - `super`
+      - `full`
+      - `extravagant`
+  - 例句
+    - `a luxurious 30-room villa`
+      - 一栋有30个房间的豪华度假别墅
+

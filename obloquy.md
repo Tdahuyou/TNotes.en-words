@@ -1,0 +1,13 @@
+- obloquy
+  - 发音
+    - 英 `/'ɑːbləkwi/`
+    - 美 `/'ɑbləkwi/`
+  - 词义
+    - n. 辱骂，斥责
+    - `very strong offensive criticism`
+  - 记忆
+    - ob(反) + loqu(说话) + y → 说坏话 → 辱骂
+  - 近义词
+    - n. 毁谤；耻辱；漫骂
+      - `stigma`
+      - `humiliation`

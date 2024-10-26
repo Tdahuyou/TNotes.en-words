@@ -1,0 +1,40 @@
+- formalize
+  - 发音
+    - 英 `/'fɔːm(ə)laɪz/`
+    - 美 `/'fɔrməlaɪz/`
+  - 词义
+    - v. 使正式,形式化
+    - `to make a plan, decision, or idea official, especially by deciding and clearly describing all the details`
+  - 同根词
+    - adj.
+      - `former` 从前的，前者的；前任的
+      - `formal` 正式的；拘谨的；有条理的
+      - `formative` 形成的；造型的；格式化的
+      - `formalized` 形式化的；正式的
+      - `formless` 没有形状的；无定形的；形体不明的
+      - `formalistic` 形式主义的，呆板的
+    - adv.
+      - `formally` 正式地；形式上
+    - n.
+      - `form` 形式，形状；形态，外形；方式；表格
+      - `format` 格式；版式；开本
+      - `former` 模型，样板；起形成作用的人
+      - `formal` 正式的社交活动；夜礼服
+      - `formality` 礼节；拘谨；仪式；正式手续
+      - `formative` 构词要素
+      - `formalism` 形式主义；形式体系
+      - `formatting` 格式化
+      - `formalization` 形式化；礼仪化
+    - v.
+      - `formatting` 规定…的格式（format的ing形式）
+      - `formalized` 使正式；使有效（formalize的过去分词）；使定形；拘泥于形式
+    - vi.
+      - `form` 形成，构成；排列
+      - `format` 设计版式
+    - vt.
+      - `form` 构成，组成；排列，组织；产生，塑造
+      - `format` 使格式化；规定…的格式
+  - 例句
+    - `Final arrangements for the takeover have yet to be formalized.`
+      - 这次收购的最后协议还没有正式确定。
+

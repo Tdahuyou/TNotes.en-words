@@ -1,0 +1,25 @@
+- semester
+  - 发音
+    - 英 `/sɪ'mestər/`
+    - 美 `/səˈmɛstɚ/`
+  - 词义
+    - n. 学期
+    - `one of the two periods of time that a year at high schools and universities is divided into, especially in the US`
+  - 记忆
+    - se(看做see， 看) + mester(看做master， 老师) → 在新学期又能看到老师了 → 学期
+  - 同根词
+    - adj.
+      - `semiannual` 一年两次的；半年一次的
+    - adv.
+      - `semiannually` 每半年
+  - 近义词
+    - n. 学期；半年
+      - `session`
+      - `term`
+  - 短语
+    - `fall semester` 秋季班，秋季学期 
+    - `spring semester` 春季学期 
+  - 例句
+    - `the fall semester`
+      - 秋季学期
+

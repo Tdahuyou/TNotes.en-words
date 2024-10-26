@@ -1,0 +1,23 @@
+- mansion
+  - 发音
+    - 英 `/'mænʃn/`
+    - 美 `/'mænʃən/`
+  - 词义
+    - n. 公寓，府邸；大厦
+    - `a very large house`
+  - 记忆
+    - mans(e)(牧师的住宅) + ion → 府邸
+  - 同根词
+    - n.
+      - `manse` 牧师住宅
+  - 近义词
+    - n. 大厦；宅邸
+      - `palace`
+      - `edifice`
+  - 短语
+    - `mansion house` 大厦之屋，民信大厦；府邸 
+    - `executive mansion` n. 白宫；州长官邸 
+  - 例句
+    - `a beautiful country mansion`
+      - 漂亮的乡村宅第
+

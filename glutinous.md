@@ -1,0 +1,24 @@
+- glutinous
+  - 发音
+    - 英 `/'gluːtinəs/`
+    - 美 `/'ɡlutənəs/`
+  - 词义
+    - adj. 黏性的
+    - `very sticky`
+  - 记忆
+    - glu (看作glue， 胶水) + tinous → 黏性的
+  - 同根词
+    - n.
+      - `glutinousness` 粘滞性
+  - 近义词
+    - adj. [植]粘的；粘性的；胶状的
+      - `sticky`
+      - `viscous`
+  - 短语
+    - `glutinous rice` 糯米 
+    - `glutinous rice flour` 糯米粉 
+    - `glutinous rice wine` 糯米酒；黄酒 
+  - 例句
+    - `glutinous mud`
+      - 黏性泥
+

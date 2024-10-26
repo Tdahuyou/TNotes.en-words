@@ -1,0 +1,13 @@
+- intemperance
+  - 发音
+    - 英 `/ɪn'tempərəns/`
+    - 美 `/in'tempərəns/`
+  - 词义
+    - n. 放纵，不节制，过度
+  - 同根词
+    - adj.
+      - `intemperate` 放纵的；酗酒的；酷烈的
+  - 近义词
+    - n. 不节制；酗酒；过度
+      - `alcoholism`
+      - `bibulosity`

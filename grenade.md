@@ -1,0 +1,15 @@
+- grenade
+  - 发音
+    - 英 `/grə'neɪd/`
+    - 美 `/ɡrə'ned/`
+  - 词义
+    - n. 手榴弹；灭火弹
+    - `a small bomb that can be thrown by hand or fired from a gun`
+    - vt. 扔手榴弹；用催泪弹攻击
+  - 短语
+    - `hand grenade` n. 手榴弹；灭火瓶 
+    - `grenade launcher` 枪榴弹发射器 
+  - 例句
+    - `a hand grenade`
+      - 手榴弹
+

@@ -1,0 +1,19 @@
+- staircase
+  - 发音
+    - 英 `/'steəkeɪs/`
+    - 美 `/'stɛrkes/`
+  - 词义
+    - n. 楼梯
+    - `a set of stairs inside a building with its supports and the side parts that you hold on to`
+  - 同根词
+    - n.
+      - `stairway` 阶梯，楼梯
+  - 近义词
+    - n. 楼梯
+      - `apples and pears`
+  - 短语
+    - `spiral staircase` n. 螺旋梯 
+  - 例句
+    - `They walked down the staircase together.`
+      - 他们一起沿楼梯通道往下走。
+

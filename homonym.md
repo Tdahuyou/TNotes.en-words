@@ -1,0 +1,20 @@
+- homonym
+  - 发音
+    - 英 `/'hɔmənim/`
+    - 美 `/'hɑmənɪm/`
+  - 词义
+    - n. 同音异义字，同名异物
+    - `a word that is spelled the same and sounds the same as another, but is different in meaning or origin. For example, the noun ‘bear’ and the verb ‘bear’ are homonyms.`
+  - 记忆
+    - homo (同类的) + (o) nym (名字) → 同名异物 (人)
+  - 同根词
+    - adj.
+      - `homonymous` 同名的；双关的；同音异义的
+      - `homophonic` 齐唱的；同音异义的
+      - `homonymic` 同名的；同音异义字的
+      - `homophonous` 同音的（等于homophonic）；齐唱的；同音异义的
+    - n.
+      - `homonymy` 同音异义
+      - `homology` 同源；相同；异体同形；同族关系
+      - `homophony` 同音异义；齐唱
+      - `homomorphism` [数] 同态，同形；异质同形

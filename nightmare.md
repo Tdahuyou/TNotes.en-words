@@ -1,0 +1,24 @@
+- nightmare
+  - 发音
+    - 英 `/'naɪtmer/`
+    - 美 `/'naɪt'mɛr/`
+  - 词义
+    - n. 噩梦；无法摆脱的恐惧；可怕的事
+    - `a very frightening dream`
+  - 同根词
+    - adj.
+      - `nightmarish` 可怕的；恶梦似的；不愉快的
+  - 近义词
+    - n. 恶梦；梦魇般的经历
+      - `paroniria`
+      - `oneirodynia`
+    - adj. 可怕的；噩梦似的
+      - `terrible`
+      - `horrible`
+      - `awesome`
+      - `fearful`
+      - `dire`
+  - 例句
+    - `a recurring nightmare `
+      - 一再出现的噩梦
+

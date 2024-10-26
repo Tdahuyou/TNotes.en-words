@@ -1,0 +1,8 @@
+- intrusively
+  - 发音
+    - 英 `/ɪn'truːsɪvli/`
+    - 美 `/undefined/`
+  - 词义
+    - adv. 入侵地
+  - 记忆
+    - 来自intrusive(adj. 入侵的， 入侵性)

@@ -1,0 +1,24 @@
+- owl
+  - 发音
+    - 英 `/aul/`
+    - 美 `/aʊl/`
+  - 词义
+    - n. 猫头鹰
+    - `a bird with large eyes that hunts at night`
+  - 记忆
+    - “嗷” → 像猫头鹰的叫声； 注意不要和awl(n. 尖钻)相混
+  - 同根词
+    - adj.
+      - `owlish` 猫头鹰般的；看似聪明的；面孔严肃的
+  - 近义词
+    - n. [鸟]猫头鹰；枭；惯于晚上活动的人
+      - `howlet`
+      - `mopoke`
+  - 短语
+    - `night owl` 猫头鹰；熬夜的人 
+  - 例句
+    - `Rachael:Do you like our owl?`
+      - 瑞切尔：你喜欢我们的猫头鹰吗？
+    - `Some of the more extreme contacts give you "cat eyes" or how about "owl eyes"?`
+      - 一些更酷的隐形眼镜可以给你一双“猫眼”或者是“猫头鹰的眼睛”。
+

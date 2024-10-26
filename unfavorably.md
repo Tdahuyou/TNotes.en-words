@@ -1,0 +1,13 @@
+- unfavorably
+  - 发音
+    - 英 `/undefined/`
+    - 美 `/undefined/`
+  - 词义
+    - adv. 不利地,不适宜地
+  - 同根词
+    - adj.
+      - `unfavorable` 不宜的；令人不快的；不顺利的
+  - 近义词
+    - adv. 不利地；不适宜地
+      - `ill`
+      - `adversely`

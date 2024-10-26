@@ -1,0 +1,22 @@
+- seminal
+  - 发音
+    - 英 `/'semɪn(ə)l/`
+    - 美 `/'sɛmɪnl/`
+  - 词义
+    - adj. 种子的；精液的；生殖的
+    - `producing or containing  semen `
+  - 同根词
+    - adj.
+      - `seminiferous` 输精的，结种子的
+  - 近义词
+    - adj. 种子的；精液的；生殖的
+      - `reproductive`
+      - `spermic`
+  - 短语
+    - `seminal fluid` 精液 
+    - `seminal vesicle` 精囊 
+    - `seminal plasma` 精浆；精清 
+  - 例句
+    - `a seminal study of eighteenth-century France`
+      - 对18世纪法国的开创性研究
+

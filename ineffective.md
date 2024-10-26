@@ -1,0 +1,24 @@
+- ineffective
+  - 发音
+    - 英 `/ɪnɪ'fektɪv/`
+    - 美 `/,ɪnɪ'fɛktɪv/`
+  - 词义
+    - adj. 无效的,(指人)工作效率低的
+    - `something that is ineffective does not achieve what it is intended to achieve`
+  - 同根词
+    - adj.
+      - `ineffectual` 无效的，不起作用的；徒劳无益的
+    - adv.
+      - `ineffectively` 无效地；无用地；无能地
+      - `ineffectually` 无益地；无效地
+    - n.
+      - `ineffectual` 无用的人；无一技之长者
+      - `ineffectiveness` 无效；不起作用
+  - 近义词
+    - adj. 无效的，失效的；不起作用的
+      - `useless`
+      - `invalid`
+  - 例句
+    - `an ineffective marketing campaign`
+      - 一场毫无成效的营销活动
+

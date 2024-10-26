@@ -1,0 +1,22 @@
+- fowl
+  - 发音
+    - 英 `/faʊl/`
+    - 美 `/faʊl/`
+  - 词义
+    - n. 家禽；鸟；飞禽
+    - `a bird, such as a chicken, that is kept for its meat and eggs, or the meat of this type of bird`
+    - v. 打鸟；捕野禽
+  - 同根词
+    - n.
+      - `fowler` 捕野禽者
+  - 近义词
+    - n. [禽]家禽；鸟；飞禽
+      - `bird`
+      - `poultry`
+  - 短语
+    - `silky fowl` 乌骨鸡 
+    - `guinea fowl` n. 珍珠鸡 
+  - 例句
+    - `Carve the fowl into 8 pieces.`
+      - 将这只家禽切成8块。
+

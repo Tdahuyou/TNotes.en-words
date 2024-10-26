@@ -1,0 +1,29 @@
+- vociferous
+  - 发音
+    - 英 `/vəu'sifərəs/`
+    - 美 `/vo'sɪfərəs/`
+  - 词义
+    - adj. 大声叫的，喊叫的；喧嚷的
+    - `expressing your opinions loudly and strongly`
+  - 记忆
+    - voci(看voc， 喊叫) + fer(忍受) + ous → 喊叫声大得叫人不能忍受 → 大声叫的
+  - 同根词
+    - adv.
+      - `vociferously` 喊叫地；吵闹地
+    - n.
+      - `vociferation` 喧嚷；吼叫；大声叫嚷
+      - `vociferator` 喊叫者；大声叫的人
+    - vi.
+      - `vocalize` 发声；喊叫
+      - `vociferate` 大声呼叫
+    - vt.
+      - `vocalize` 使发成元音；使发声
+      - `vociferate` 喊叫；大叫
+  - 近义词
+    - adj. 大声叫的；喊叫的，喧嚷的
+      - `rowdydowdy`
+      - `brawly`
+  - 例句
+    - `a vociferous opponent of the plan`
+      - 这项计划的激烈反对者
+

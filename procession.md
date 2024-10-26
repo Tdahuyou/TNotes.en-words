@@ -1,0 +1,37 @@
+- procession
+  - 发音
+    - 英 `/prə'seʃ(ə)n/`
+    - 美 `/prə'sɛʃən/`
+  - 词义
+    - n. 队伍，行列；一列，一排；列队行进
+    - `a line of people or vehicles moving slowly as part of a ceremony`
+    - vi. 列队行进
+    - vt. 沿著……行进
+  - 同根词
+    - adj.
+      - `process` 经过特殊加工（或处理）的
+      - `processible` 适合加工的；可处理的
+      - `processional` 游行的；列队行进的
+    - n.
+      - `process` 过程，进行；方法，步骤；作用；程序；推移
+      - `proceeding` 进行；程序；诉讼；事项
+      - `processional` 游行圣歌
+    - v.
+      - `proceeding` 开始；继续做；行进（proceed的ing形式）
+    - vi.
+      - `process` 列队前进
+      - `proceed` 开始；继续进行；发生；行进
+    - vt.
+      - `process` 处理；加工
+  - 近义词
+    - n. 队伍，行列；一列，一排；列队行进
+      - `train`
+      - `cavalcade`
+    - vi. 列队行进
+      - `file`
+  - 短语
+    - `funeral procession` 送葬 
+  - 例句
+    - `They marched in procession to the Capitol building.`
+      - 他们列队向国会大厦行进。
+

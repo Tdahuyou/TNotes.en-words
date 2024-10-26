@@ -1,0 +1,25 @@
+- forgive
+  - 发音
+    - 英 `/fə'gɪv/`
+    - 美 `/fɚ'ɡɪv/`
+  - 词义
+    - v. (过去式forgave,过去分词forgiven)原谅；饶恕
+    - `to stop being angry with someone and stop blaming them, although they have done something wrong`
+  - 同根词
+    - adj.
+      - `forgiving` 宽恕的；宽容的；宽大的
+      - `forgivable` 可宽恕的；可原谅的
+    - n.
+      - `forgiveness` 宽恕；宽仁之心
+    - v.
+      - `forgiving` 原谅；豁免（forgive的ing形式）
+  - 近义词
+    - vt. 原谅；免除（债务、义务等）
+      - `discharge`
+      - `pardon for`
+  - 短语
+    - `please forgive me` 请原谅我；请你谅解我吧 
+  - 例句
+    - `He didn’t look the sort of man to forgive and forget (= forgive someone and no longer think about it ) .`
+      - 他看上去不是那种不记仇的人。
+

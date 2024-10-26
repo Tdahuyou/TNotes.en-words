@@ -1,0 +1,18 @@
+- omnivorous
+  - 发音
+    - 英 `/ɔm'nivərəs/`
+    - 美 `/ɑm'nɪvərəs/`
+  - 词义
+    - adj. 杂食的
+    - `an animal that is omnivorous eats both meat and plants`
+  - 记忆
+    - omni (全) + vor (吃) + ous → 全部吃的 → 杂食的
+  - 同根词
+    - adv.
+      - `omnivorously` 随手地
+    - n.
+      - `omnivore` [动] 杂食动物；不偏食的人
+  - 例句
+    - `Brown bears are omnivorous, eating anything that they can get their paws on.`
+      - 棕熊是杂食动物，抓到什么吃什么。
+

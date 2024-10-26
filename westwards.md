@@ -1,0 +1,29 @@
+- westwards
+  - 发音
+    - 英 `/'westwədz/`
+    - 美 `/'wɛstwɚdz/`
+  - 词义
+    - adv. 向西
+    - `Westward or westwards means toward the west`
+    - adj. 向西的
+    - `Westward is also an adjective`
+  - 同根词
+    - adj.
+      - `westward` 向西的；西方的
+      - `westbound` 西行的；向西行的
+      - `westerly` 西的；自西的；向西方的
+    - adv.
+      - `westward` 向西
+      - `westerly` 向西，往西
+    - n.
+      - `westward` 西部；西方
+      - `wester` 西风
+      - `westerly` 西风
+    - vi.
+      - `wester` 向西；西行
+  - 例句
+    - `He sailed westward from Palos de la Frontera.`
+      - 他从帕洛斯·德拉·弗龙特拉港出发向西航行。
+    - `...the one-hour westward flight over the Andes to Lima.`
+      - …越过安第斯山脉到利马一小时的向西飞行。
+

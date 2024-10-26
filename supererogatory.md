@@ -1,0 +1,18 @@
+- supererogatory
+  - 发音
+    - 英 `/ˌsjʊːprə'rɔgətɔːrɪ/`
+    - 美 `/,sju:prə'rɔɡətɔ:ri, -təri/`
+  - 词义
+    - adj. 职责以外的；多余的
+    - `performed to an extent exceeding that required or expected `
+  - 同根词
+    - n.
+      - `superfluity` 奢侈品；额外；过剩
+      - `supererogation` 额外工作，份外工作
+  - 近义词
+    - adj. 额外的，多余的；职责以外的
+      - `additional`
+      - `added`
+      - `extra`
+      - `excess`
+      - `spare`

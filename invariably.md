@@ -1,0 +1,27 @@
+- invariably
+  - 发音
+    - 英 `/ɪn'veərɪəblɪ/`
+    - 美 `/ɪn'vɛrɪəbli/`
+  - 词义
+    - adv. 不变地，始终如一地
+    - `if something invariably happens or is invariably true, it always happens or is true`
+  - 同根词
+    - adj.
+      - `invariant` 不变的
+      - `invariable` 不变的；常数的
+    - n.
+      - `invariant` [数] 不变量；[计] 不变式
+      - `invariable` 常数；不变的东西
+      - `invariance` 不变性；不变式
+      - `invariability` 不变；不变性；安定性
+      - `invariableness` 不变
+  - 近义词
+    - adv. 总是；不变地；一定地
+      - `always`
+      - `toujours`
+  - 例句
+    - `It invariably rains when I go there.`
+      - 我每次去那儿都下雨。
+    - `The security guards were invariably ex-servicemen.`
+      - 保安人员毫无例外地都是退伍军人。
+

@@ -1,0 +1,17 @@
+- stinginess
+  - 发音
+    - 英 `/'stɪndʒinəs/`
+    - 美 `/undefined/`
+  - 词义
+    - n. 小气
+  - 记忆
+    - 来自stingy(adj. 吝啬的)
+  - 同根词
+    - adj.
+      - `stingy` 吝啬的，小气的；有刺的；缺乏的
+    - adv.
+      - `stingily` 刺骨的；吝啬地，小气地
+  - 近义词
+    - n. 吝啬
+      - `parsimony`
+      - `illiberality`

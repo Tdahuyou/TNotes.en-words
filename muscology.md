@@ -1,0 +1,9 @@
+- muscology
+  - 发音
+    - 英 `/undefined/`
+    - 美 `/undefined/`
+  - 词义
+    - n. 苔藓植物学
+  - 近义词
+    - n. [植]苔藓学；苔藓植物学
+      - `bryology`

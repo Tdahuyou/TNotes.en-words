@@ -1,0 +1,39 @@
+- hatch
+  - 发音
+    - 英 `/hætʃ/`
+    - 美 `/hætʃ/`
+  - 词义
+    - v. 孵化，孵出
+    - `if an egg hatches, or if it is hatched, it breaks, letting the young bird, insect etc come out`
+    - n. 开口；舱门
+    - `a hole in a ship or aircraft, usually used for loading goods, or the door that covers it`
+  - 记忆
+    - hat(帽子) + ch → 像扣上一顶帽子一样孵卵 → 孵化
+  - 同根词
+    - adj.
+      - `hatched` 阴影线的
+      - `hatching` 孵化的
+    - n.
+      - `hatching` [禽] 孵化；剖面线；画影线
+      - `hatchling` 人工孵化的鱼苗或小鸟
+      - `hatchway` 舱口；天窗
+    - v.
+      - `hatched` 孵化；策划（hatch的过去分词形式）
+      - `hatching` [禽] 孵化；给…加影线；策划（hatch的ing形式）
+  - 近义词
+    - n. 孵化；[船][航]舱口
+      - `incubation`
+    - vt. [动]孵；策划
+      - `engineer`
+      - `scheme`
+    - vi. 孵化
+      - `incubate`
+  - 短语
+    - `hatch out` 孵出；策划 
+    - `hatch cover` 舱口盖；装货口盖 
+    - `escape hatch` 安全舱口 
+    - `cross hatch` 格子信号，交叉影线；网纹网状线剖面线，网纹网状线 
+  - 例句
+    - `The eggs take three days to hatch.`
+      - 这些蛋要三天时间才能孵化。
+

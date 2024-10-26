@@ -1,0 +1,22 @@
+- unilateral
+  - 发音
+    - 英 `/ˌjuːni'lætərəl/`
+    - 美 `/'jʊnɪ'lætərəl/`
+  - 词义
+    - adj. 一方的；单方的；一侧的，片面的
+    - `a unilateral action or decision is done by only one of the groups involved in a situation`
+  - 记忆
+    - uni (单一的) + later (侧面) + al → 单方面的 → 一方的； 单方的
+  - 同根词
+    - adv.
+      - `unilaterally` 单方面地
+    - n.
+      - `unilateralism` 片面，单方；片面限制武器论；单方面裁军
+      - `unilateralist` 主张片面限武论者；单边主义者
+  - 近义词
+    - adj. [数][植]单边的；[昆]单侧的；单方面的；单边音；（父母）单系的
+      - `one-sided`
+  - 例句
+    - `a unilateral declaration of independence`
+      - 单方面宣布独立
+

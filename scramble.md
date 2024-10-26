@@ -1,0 +1,34 @@
+- scramble
+  - 发音
+    - 英 `/'skræmb(ə)l/`
+    - 美 `/'skræmbl/`
+  - 词义
+    - n&v. 混乱,攀爬
+    - `to climb up, down, or over something quickly and with difficulty, especially using your hands to help you`
+  - 同根词
+    - n.
+      - `scrambled` 密码形式；扰频
+      - `scrambler` 爬行者；[电子] 扰频器；周率扰乱器
+    - v.
+      - `scrambled` 争夺；攀登；搅拌（scramble的过去分词）
+  - 近义词
+    - vt. 攀登；使混杂，仓促凑成；扰乱
+      - `scale`
+      - `climb`
+      - `disorder`
+    - n. 抢夺，争夺；混乱，混乱的一团；爬行，攀登
+      - `chaos`
+      - `disorder`
+      - `confusion`
+      - `involvement`
+      - `mix`
+    - vi. 爬行，攀登；不规则地生长；仓促行动
+      - `scale`
+      - `climb`
+      - `creep`
+  - 短语
+    - `scramble for` 争夺；勉强拼凑 
+  - 例句
+    - `The words in each sentence are scrambled.`
+      - 每个句子中的词语都被打乱了。
+

@@ -1,0 +1,31 @@
+- telegram
+  - 发音
+    - 英 `/'telɪgræm/`
+    - 美 `/'tɛlɪɡræm/`
+  - 词义
+    - n. 电报
+    - `a message sent by telegraph`
+    - vt. 用电报发送
+    - vi. 发电报
+  - 同根词
+    - adj.
+      - `telegraphic` 电信的；电报的；电报机的
+    - adv.
+      - `telegraphically` 通过电报，用电报
+    - n.
+      - `telecasting` 电视广播；大众传播
+      - `telegrapher` 报务员；电报员
+      - `telegraphy` 电信；电报学
+    - v.
+      - `telecasting` 用电视播放（telecast的ing形式）
+  - 近义词
+    - n. [通信]电报
+      - `wire`
+      - `tgm`
+  - 短语
+    - `to send a telegram` 发电报 
+    - `urgent telegram` 急电 
+  - 例句
+    - `The president received a briefing by telegram.`
+      - 总裁收到了一份电报简报。
+

@@ -1,0 +1,26 @@
+- familiarity
+  - 发音
+    - 英 `/fəmɪlɪ'ærɪtɪ/`
+    - 美 `/fə,mɪlɪ'ærəti/`
+  - 词义
+    - n. 熟悉,通晓,精通
+    - `a good knowledge of a particular subject or place`
+  - 同根词
+    - adj.
+      - `familiar` 熟悉的；常见的；亲近的
+    - adv.
+      - `familiarly` 不拘礼节地；亲密地；精通地
+    - n.
+      - `familiar` 常客；密友
+      - `familiarization` 熟悉，精通；亲密
+    - vt.
+      - `familiarize` 使熟悉
+      - `familiarise` 使熟悉（等于familiarize）
+  - 近义词
+    - n. 熟悉，精通；亲密；随便
+      - `up on`
+      - `acquainted with`
+  - 例句
+    - `I miss the familiarity of home.`
+      - 我怀念家的那种亲切感。
+

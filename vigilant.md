@@ -1,0 +1,25 @@
+- vigilant
+  - 发音
+    - 英 `/'vidʒilənt/`
+    - 美 `/'vɪdʒələnt/`
+  - 词义
+    - adj. 警惕着的，警醒的
+    - `giving careful attention to what is happening, so that you will notice any danger or illegal activity`
+  - 记忆
+    - vig (生命) + il + ant → 生命诚可贵， 警惕病来袭 → 警惕着的
+  - 同根词
+    - adv.
+      - `vigilantly` 警惕地；警觉地；留心地
+    - n.
+      - `vigilance` 警戒，警觉；警醒症
+      - `vigil` 守夜；监视；不眠；警戒
+      - `vigilante` 义务警员；治安维持会成员
+      - `vigilantism` （美）治安委员会的政策
+  - 近义词
+    - adj. 警惕的；警醒的；注意的；警戒的
+      - `alert`
+      - `watchful`
+  - 例句
+    - `Please remain vigilant at all times and report anything suspicious.`
+      - 请时刻保持警惕，有可疑情况随时报告。
+

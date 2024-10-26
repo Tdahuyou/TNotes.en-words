@@ -1,0 +1,28 @@
+- occupancy
+  - 发音
+    - 英 `/'ɒkjəpənsɪ/`
+    - 美 `/'ɑkjəpənsi/`
+  - 词义
+    - n. 占有
+    - `the number of people who stay, work, or live in a room or building at the same time`
+  - 同根词
+    - adj.
+      - `occupied` 已占用的；使用中的；无空闲的
+    - n.
+      - `occupation` 职业；占有；消遣；占有期
+      - `occupant` 居住者；占有者
+      - `occupier` 居住人；占有者；占用者
+    - v.
+      - `occupied` 占有（occupy的过去分词）
+    - vt.
+      - `occupy` 占据，占领；居住；使忙碌
+  - 近义词
+    - n. 居住；[数]占有；占用
+      - `residence`
+      - `having`
+  - 短语
+    - `occupancy rate` 居住率；租用率 
+  - 例句
+    - `Hotels in Tokyo enjoy over 90% occupancy.`
+      - 东京的宾馆入住率高达90%以上。
+

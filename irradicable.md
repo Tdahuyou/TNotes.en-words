@@ -1,0 +1,9 @@
+- irradicable
+  - 发音
+    - 英 `/ɪ'rædɪkəbl/`
+    - 美 `/undefined/`
+  - 词义
+    - adj. 无法根除的，根深蒂固的
+  - 近义词
+    - adj. 不能根除的
+      - `ineradicable`

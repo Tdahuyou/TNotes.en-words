@@ -1,0 +1,11 @@
+- roach
+  - 发音
+    - 英 `/rəʊtʃ/`
+    - 美 `/rotʃ/`
+  - 词义
+    - n. （美）蟑螂；[鱼]斜齿鳊
+    - `a  cockroach `
+  - 近义词
+    - n. （美）蟑螂；[鱼]斜齿鳊
+      - `cockroach`
+      - `black beetle`

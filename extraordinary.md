@@ -1,0 +1,29 @@
+- extraordinary
+  - 发音
+    - 英 `/ɪk'strɔːrdəneri/`
+    - 美 `/ɪkˈstrɔrdənerɪ; ɪkˈstrɔrdnˌɛrɪ/`
+  - 词义
+    - adj. 特别的；非凡的
+    - `very much greater or more impressive than usual`
+  - 记忆
+    - extra(以外的) + ordinary(平常的) → 平常之外的 → 特别的
+  - 同根词
+    - adv.
+      - `extraordinarily` 非常；格外地；非凡地
+    - n.
+      - `extraordinariness` 格外
+  - 近义词
+    - adj. 非凡的；特别的；离奇的；临时的；特派的
+      - `remarkable`
+      - `particular`
+      - `temporary`
+      - `special`
+      - `wonder`
+  - 短语
+    - `extraordinary general meeting` 特别会员大会；非常股东大会 
+  - 例句
+    - `a woman of extraordinary beauty`
+      - 容貌出众的女子
+    - `an extraordinary talent`
+      - 非凡的才华
+

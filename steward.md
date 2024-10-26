@@ -1,0 +1,23 @@
+- steward
+  - 发音
+    - 英 `/'stjuːəd/`
+    - 美 `/'stuɚd/`
+  - 词义
+    - n. 乘务员；服务员
+    - `a man whose job is to serve food and drinks to passengers on a plane or ship`
+  - 记忆
+    - ste+ward(保护)→在旅途中保护乘客的人→乘务员
+  - 同根词
+    - n.
+      - `stewardess` 女管家；女干事；女服务员
+      - `stewardship` 管理工作；管事人的职位及职责
+  - 近义词
+    - n. 管家；乘务员；膳务员；工会管事
+      - `chamberlain`
+      - `seneschal`
+    - vt. 管理
+      - `manage`
+      - `conduct`
+      - `run`
+      - `direct`
+      - `control`

@@ -1,0 +1,23 @@
+- introspection
+  - 发音
+    - 英 `/ɪntrə(ʊ)'spekʃ(ə)n/`
+    - 美 `/'ɪntrə'spɛkʃən/`
+  - 词义
+    - n. 内省；反省
+    - `the process of thinking deeply about your own thoughts, feelings, or behaviour`
+  - 同根词
+    - adj.
+      - `introspective` 内省的；反省的
+    - n.
+      - `introspectiveness` 反省；内省；自省
+    - vi.
+      - `introspect` 反省；内省
+    - vt.
+      - `introspect` 对…进行自省
+  - 近义词
+    - n. 反思；[心理]内省；[计]自省
+      - `self-communion`
+  - 例句
+    - `He had always had his moments of quiet introspection.`
+      - 他总有安静自省的时候。
+

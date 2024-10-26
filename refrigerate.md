@@ -1,0 +1,26 @@
+- refrigerate
+  - 发音
+    - 英 `/rɪ'frɪdʒəreɪt/`
+    - 美 `/rɪ'frɪdʒəret/`
+  - 词义
+    - vt. 冷冻，冷藏；使冷却，使变冷
+    - `to make something such as food or liquid cold in a refrigerator in order to preserve it`
+  - 记忆
+    - re + frig(冷的) + er + ate(使…) → 冷冻， 冷藏； 使变冷
+  - 同根词
+    - adj.
+      - `refrigerant` 制冷的；冷却的
+      - `refrigerated` 冷冻的，冷却的
+    - n.
+      - `refrigerator` 冰箱，冷藏库
+      - `refrigeration` 制冷；冷藏；[热] 冷却
+      - `refrigerant` 制冷剂
+    - v.
+      - `refrigerated` 冷藏（refrigerate的过去分词）；使冷却
+  - 近义词
+    - vt. 冷藏，冷冻；使冷却；使清凉
+      - `chill`
+  - 例句
+    - `Refrigerate the mixture overnight.`
+      - 把混合物冷藏过夜。
+

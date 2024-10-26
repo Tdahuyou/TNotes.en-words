@@ -1,0 +1,23 @@
+- rehearse
+  - 发音
+    - 英 `/rɪ'hɜːrs/`
+    - 美 `/rɪ'hɝs/`
+  - 词义
+    - v. 预演，排练；默诵；照搬，重复
+    - `to practise or make people practise something such as a play or concert in order to prepare for a public performance`
+  - 记忆
+    - re(再， 又) + hear(听) + se → 导演在一旁一遍遍听、 看她们排练 → 排练
+  - 同根词
+    - n.
+      - `rehearsal` 排演；预演；练习；训练；叙述
+  - 近义词
+    - vt. 排练；预演
+      - `dry run`
+      - `go though`
+    - vi. 排练；演习
+      - `dry run`
+      - `go though`
+  - 例句
+    - `I think we need to rehearse the first scene again.`
+      - 我想我们需要把第一场再排练一次。
+

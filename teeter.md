@@ -1,0 +1,27 @@
+- teeter
+  - 发音
+    - 英 `/'tiːtə/`
+    - 美 `/'titɚ/`
+  - 词义
+    - v. 摇晃；玩跷跷板；步履蹒跚；摇摇欲坠；岌岌可危
+    - `to stand or walk moving from side to side, as if you are going to fall`
+    - n. 跷跷板；摇摆
+  - 同根词
+    - n.
+      - `teeterboard` 跷跷板
+      - `teetertotter` 跷跷板
+    - vi.
+      - `teetertotter` 上下晃动；玩跷跷板
+  - 近义词
+    - vi. 摇晃；玩跷跷板；步履蹒跚；摇摇欲坠
+      - `rock`
+      - `roll`
+    - vt. 使…摇摆；使…上下晃动
+      - `hotch`
+    - n. 跷跷板；摇摆
+      - `swing`
+      - `ricketiness`
+  - 例句
+    - `She teetered along in her high-heeled shoes.`
+      - 她穿着高跟鞋踉踉跄跄地走着。
+

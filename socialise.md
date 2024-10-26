@@ -1,0 +1,32 @@
+- socialise
+  - 发音
+    - 英 `/'səuʃəlaɪz/`
+    - 美 `/'səuʃəlaiz/`
+  - 词义
+    - v. 来往，交往，交际；使适应社会生活
+  - 同根词
+    - adj.
+      - `social` 社会的，社交的；群居的
+      - `sociable` 社交的；好交际的；友善的
+      - `societal` 社会的
+      - `socialist` 社会主义的
+      - `socialized` 社会化
+      - `socialistic` 社会主义的
+    - adv.
+      - `socially` 在社会上；在社交方面；善于交际地
+    - n.
+      - `society` 社会；交往；社团；社交界
+      - `social` 联谊会；联欢会
+      - `sociable` 联谊会
+      - `socialism` 社会主义
+      - `socialist` 社会主义者；社会党党员
+      - `socialization` 社会化，社会主义化
+      - `sociability` 善于交际；社交性；好交际
+      - `socialisation` 社会化
+      - `sociality` 社会性；社交；好交际
+    - v.
+      - `socialized` 使社会化（socialize的过去分词）；社交
+    - vi.
+      - `socialize` 交际；参与社交
+    - vt.
+      - `socialize` 使社会化；使社会主义化；使适应社会生活

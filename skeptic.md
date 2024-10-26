@@ -1,0 +1,19 @@
+- skeptic
+  - 发音
+    - 英 `/undefined/`
+    - 美 `/'skɛptɪk/`
+  - 词义
+    - n. 怀疑论者；怀疑者；无神论者
+  - 记忆
+    - s + kept(保留) + ic → 持保留态度的人 → 怀疑者
+  - 同根词
+    - adj.
+      - `skeptical` 怀疑的；怀疑论的，不可知论的
+    - adv.
+      - `skeptically` 怀疑地
+    - n.
+      - `skepticism` 怀疑论；怀疑的态度
+  - 近义词
+    - n. 怀疑论者；怀疑者；无神论者
+      - `sceptic`
+      - `atheist`

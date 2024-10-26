@@ -1,0 +1,56 @@
+- plastic
+  - 发音
+    - 英 `/'plæstɪk/`
+    - 美 `/'plæstɪk/`
+  - 词义
+    - n. 塑料
+    - `a light strong material that is produced by a chemical process, and which can be made into different shapes when it is soft`
+    - adj. 塑料的
+    - `made of plastic`
+  - 同根词
+    - n.
+      - `plasticizer` 塑化剂；可塑剂
+      - `plasticity` 塑性，可塑性；适应性；柔软性
+      - `plasticiser` 增塑剂
+      - `plastically` 可塑性
+      - `plastique` 可塑炸弹
+    - vi.
+      - `plasticize` 塑化
+      - `plasticise` （英）增塑（等于plasticize）
+    - vt.
+      - `plasticize` 使塑化
+      - `plasticise` 使成可塑体
+  - 近义词
+    - adj. [塑料][力]塑料的；（外科）造型的；可塑的
+      - `mouldable`
+      - `malleable`
+    - n. [塑料]塑料制品；整形；[力]可塑体
+      - `restricting`
+      - `true-up`
+  - 短语
+    - `plastic deformation` [化]塑性变形，塑性应变 
+    - `plastic film` 塑料薄膜；塑胶膜 
+    - `plastic bag` 塑料袋；塑胶袋 
+    - `plastic packaging` 塑料封装 
+    - `plastic surgery` [医]整形外科 
+    - `reinforced plastic` 增强塑料 
+    - `plastic product` 塑料制品 
+    - `plastic material` 塑性材料，塑料 
+    - `plastic pipe` 塑料管，塑料管材 
+    - `fiber reinforced plastic` 纤维增强塑料 
+    - `plastic strain` 塑性应变 
+    - `plastic part` 塑料件；塑料零件 
+    - `plastic bottle` 塑料瓶 
+    - `plastic welding` 塑态焊接；塑性焊接 
+    - `plastic flow` 塑性流动；塑性流；范性流变；粘（滞）流（动） 
+    - `plastic sheet` 塑料片材；薄片；塑料薄膜 
+    - `plastic packing` 塑料包装；塑料填密 
+    - `rigid plastic` 硬质塑料 
+    - `foam plastic` 泡沫塑料；泡沫塑胶 
+    - `plastic limit` 塑性极限；塑性限度 
+  - 例句
+    - `children’s toys made of plastic`
+      - 塑料儿童玩具
+    - `the plastics industry`
+      - 塑料工业
+

@@ -1,0 +1,14 @@
+- sapiential
+  - 发音
+    - 英 `/ˌseipi'enʃəl/`
+    - 美 `/,sepɪ'ɛnʃəl/`
+  - 词义
+    - adj. 明智的
+    - `showing, having, or providing wisdom `
+  - 同根词
+    - n.
+      - `sapience` 智慧；装聪明
+  - 近义词
+    - adj. 智慧的；明智的；赋予智慧的
+      - `wise`
+      - `sophic`

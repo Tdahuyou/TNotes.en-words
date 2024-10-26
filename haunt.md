@@ -1,0 +1,26 @@
+- haunt
+  - 发音
+    - 英 `/hɔːnt/`
+    - 美 `/hɔnt/`
+  - 词义
+    - vt. 出没于；萦绕在心头；长期缠扰
+    - `if the soul of a dead person haunts a place, it appears there often`
+    - n. 常去的地方
+    - `a place that someone likes to go to often`
+  - 记忆
+    - 姑妈(aunt)常去的地方(haunt)是商店
+  - 同根词
+    - adj.
+      - `haunted` 闹鬼的；反复出现的；受到困扰的
+      - `haunting` 不易忘怀的，萦绕于心头的；给人以强烈感受的
+    - v.
+      - `haunted` 常去；缠住；使担忧（haunt的过去式和过去分词）
+      - `haunting` 常去；缠住某人；萦绕在…心中（haunt的ing形式）
+  - 近义词
+    - n. 栖息地；常去的地方
+      - `habitat`
+      - `purlieu`
+  - 例句
+    - `The pub is said to be haunted by the ghost of a former landlord.`
+      - 据说这个酒吧里经常有一位前任房主的鬼魂出没。
+

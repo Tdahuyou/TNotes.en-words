@@ -1,0 +1,18 @@
+- indolent
+  - 发音
+    - 英 `/'ɪndələnt/`
+    - 美 `/'ɪndələnt/`
+  - 词义
+    - adj. 懒惰的，懒散的；不活跃的
+    - `lazy`
+  - 记忆
+    - in(不) + dol(悲痛) + ent → 无大悲大喜 → 懒惰的
+  - 同根词
+    - adv.
+      - `indolently` 怠惰地；不痛地
+    - n.
+      - `indolence` 懒散，懒惰；无痛
+  - 近义词
+    - adj. 懒惰的；[医]无痛的
+      - `lazy`
+      - `idle`

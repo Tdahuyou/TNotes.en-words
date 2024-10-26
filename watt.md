@@ -1,0 +1,15 @@
+- watt
+  - 发音
+    - 英 `/wɔt/`
+    - 美 `/wɑt/`
+  - 词义
+    - n. 瓦特
+    - `a unit for measuring electrical power`
+  - 同根词
+    - n.
+      - `wattage` 瓦特数，瓦数
+      - `wattmeter` [电] 瓦特计；电力计
+  - 例句
+    - `a 100-watt bulb`
+      - 100瓦的灯泡
+

@@ -1,0 +1,22 @@
+- nomadic
+  - 发音
+    - 英 `/nou'mædɪk/`
+    - 美 `/nəu'mædik, nɔ-/`
+  - 词义
+    - adj. 游牧的；流浪的
+    - `nomadic people are nomads`
+  - 记忆
+    - 来自nomad(n. 游牧民； 流浪者)
+  - 同根词
+    - adj.
+      - `nomad` 游牧的；流浪的
+    - n.
+      - `nomad` 游牧民；流浪者
+  - 近义词
+    - adj. 游牧的；流浪的；游动的
+      - `ragamuffinly`
+      - `migratory`
+  - 例句
+    - `nomadic herdsmen`
+      - 游牧民
+

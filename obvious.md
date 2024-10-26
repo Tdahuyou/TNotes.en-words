@@ -1,0 +1,23 @@
+- obvious
+  - 发音
+    - 英 `/'ɒbvɪəs/`
+    - 美 `/'ɑbvɪəs/`
+  - 词义
+    - adj. 明显的,显而易见的
+    - `easy to notice or understand`
+  - 同根词
+    - adv.
+      - `obviously` 明显地
+    - n.
+      - `obviousness` 显而易见；明显；显著性
+  - 近义词
+    - adj. 明显的；显著的；平淡无奇的
+      - `distinct`
+      - `visible`
+      - `prominent`
+      - `marked`
+      - `evident`
+  - 例句
+    - `The obvious way of reducing pollution is to use cars less.`
+      - 减少污染显而易见的办法就是少用汽车。
+

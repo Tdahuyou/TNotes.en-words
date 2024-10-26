@@ -1,0 +1,48 @@
+- spell
+  - 发音
+    - 英 `/spel/`
+    - 美 `/spɛl/`
+  - 词义
+    - v. 拼写
+    - `to form a word by writing or naming the letters in order`
+  - 记忆
+    - spell还有“拼写”、 “咒语”等意思
+  - 同根词
+    - n.
+      - `spelling` 拼写；拼字；拼法
+      - `spelt` 斯佩耳特小麦
+      - `speller` 拼字的人；拼字课本
+    - v.
+      - `spelling` 拼写；意味着（spell的ing形式）；迷住
+      - `spelt` 拼写（spell的过去式）
+  - 近义词
+    - vt. 拼，拼写；意味着；招致；拼成；迷住；轮值
+      - `possess`
+      - `invite`
+      - `court`
+      - `secure`
+    - n. 符咒；一段时间；魅力
+      - `cycle`
+      - `grace`
+      - `while`
+      - `charm`
+      - `period of time`
+    - vi. 拼字；轮替
+      - `turn taking`
+  - 短语
+    - `spell out` 讲清楚 
+    - `under a spell` adv. 被迷住；被符咒镇住 
+    - `cold spell` 春寒期 
+    - `spell check` 拼写检查 
+    - `dry spell` 干旱期；干期 
+    - `spell checker` [计]拼写检查程序 
+    - `spell over` 读懂；思考；清楚地说明 
+    - `spell able` 干练的；有能力的 
+    - `spell resistance` n. 法术抗力 
+    - `spell books` 符咒书（小说中特有名词）；图书说明 
+  - 例句
+    - `How do you spell ‘juice’?`
+      - juice 怎么拼？
+    - `Pupils should know how to spell commonly used words.`
+      - 小学生应该知道常用词的拼法。
+

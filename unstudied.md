@@ -1,0 +1,13 @@
+- unstudied
+  - 发音
+    - 英 `/ʌn'stʌdɪd/`
+    - 美 `/ʌn'stʌdɪd/`
+  - 词义
+    - adj. 非娇揉造作的,未学过的,不懂的
+    - `natural; unaffected `
+  - 近义词
+    - adj. 不故意做作的；自然的；优雅的
+      - `elegant`
+      - `natural`
+      - `spontaneous`
+      - `graceful`

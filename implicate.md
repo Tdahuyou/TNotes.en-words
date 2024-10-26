@@ -1,0 +1,24 @@
+- implicate
+  - 发音
+    - 英 `/'ɪmplɪkeɪt/`
+    - 美 `/'ɪmplɪket/`
+  - 词义
+    - v. 含意,暗示
+  - 同根词
+    - adj.
+      - `implicit` 含蓄的；暗示的；盲从的
+      - `implicated` 有牵连的
+      - `implicational` 启发的，启示的
+      - `implicative` 含蓄的；连带的
+    - n.
+      - `implication` 含义；暗示；牵连，卷入
+    - v.
+      - `implicated` 纠缠（implicate的过去式和过去分词）
+  - 近义词
+    - vt. 暗示；使牵连其中；含有…的意思
+      - `hint at`
+      - `speak of sth.`
+  - 例句
+    - `The allegations implicated Abe to such an extent he was forced to resign.`
+      - 安倍深受指控牵连，不得不辞职。
+

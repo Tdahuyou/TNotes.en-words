@@ -1,0 +1,17 @@
+- salutatory
+  - 发音
+    - 英 `/sə'luːtətəri/`
+    - 美 `/sə'lju:tətəri/`
+  - 词义
+    - n. 大学毕业典礼的贺词
+  - 同根词
+    - n.
+      - `salute` 致敬，欢迎；敬礼
+    - vi.
+      - `salute` 致意，打招呼；行礼
+    - vt.
+      - `salute` 行礼致敬，欢迎
+  - 近义词
+    - n. 祝词；开幕词
+      - `mazel tov`
+      - `opening address`

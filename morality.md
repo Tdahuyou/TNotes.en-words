@@ -1,0 +1,36 @@
+- morality
+  - 发音
+    - 英 `/məˈræləti/`
+    - 美 `/məˈræləti/`
+  - 词义
+    - n. 道德,品行
+    - `beliefs or ideas about what is right and wrong and about how people should behave`
+  - 同根词
+    - adj.
+      - `moral` 道德的；精神上的；品性端正的
+      - `moralistic` 说教的；道学的；道德家的；注意道德的
+    - adv.
+      - `morally` 道德上；有道德地；确实地
+    - n.
+      - `moral` 道德；寓意
+      - `moralism` 道德主义；格言；教训
+      - `moralist` 道德家；伦理学者
+      - `moralization` 教化；德化；用道德解释
+    - vi.
+      - `moralize` 说教；讲道德
+      - `moralise` 教化；从道德上解释（等于moralize）
+    - vt.
+      - `moralize` 教化，从道德上解释；从…引出道德教训
+      - `moralise` 讲道；说教（等于moralize）
+  - 近义词
+    - n. 道德；品行，美德
+      - `virtue`
+      - `excellence`
+  - 短语
+    - `social morality` 社会道德 
+    - `public morality` 公共道德；社会道德 
+    - `morality play` 道德剧；寓意剧 
+  - 例句
+    - `...standards of morality and justice in society.`
+      - …社会中道德和正义的标准。
+

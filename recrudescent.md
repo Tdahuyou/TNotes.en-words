@@ -1,0 +1,15 @@
+- recrudescent
+  - 发音
+    - 英 `/ˌriːkruː'desənt/`
+    - 美 `/undefined/`
+  - 词义
+    - adj. 复发的
+  - 同根词
+    - n.
+      - `recrudescence` 再发作，复发
+    - vi.
+      - `recrudesce` 复发，再起；再发作
+  - 近义词
+    - adj. 复发的，再发作的
+      - `recurrent`
+      - `palindromic`

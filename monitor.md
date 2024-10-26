@@ -1,0 +1,43 @@
+- monitor
+  - 发音
+    - 英 `/'mɒnɪtə/`
+    - 美 `/'mɔnɪtɚ/`
+  - 词义
+    - n. 班长；监督员
+    - `someone whose job is to watch an activity or a situation to see how it changes or develops, or to make sure that it is fair and legal`
+  - 记忆
+    - mon(忠告) + itor → 给出忠告 → 监控
+  - 同根词
+    - adj.
+      - `monitory` 训戒的
+    - n.
+      - `monitory` 告诫书
+  - 近义词
+    - n. [电子][环境]监视器；[通信][军]监听器；[自]监控器；班长
+      - `detectophone`
+      - `invigilator`
+  - 短语
+    - `monitor system` 监控系统；执行系统 
+    - `computer monitor` 电脑显示器 
+    - `remote monitor` 遥控监视器；远距离监控装置 
+    - `video monitor` 显示器；视频监视器 
+    - `pressure monitor` 压力监测器 
+    - `lcd monitor` 液晶显示器 
+    - `display monitor` 监视器；显示监视器 
+    - `blood pressure monitor` 血压监护仪 
+    - `class monitor` 班长 
+    - `tv monitor` 电视监视器 
+    - `monitor screen` 监视屏 
+    - `line monitor` 线路监听器 
+    - `fire monitor` 防火监控器 
+    - `patient monitor` 病人监护仪 
+    - `performance monitor` 性能监控器 
+    - `christian science monitor` 基督教科学箴言报 
+    - `television monitor` 电视监视器 
+    - `color monitor` [计]彩色监视器 
+    - `power monitor` 功率监控器，功率检查装置 
+    - `digital monitor` 数字监视器 
+  - 例句
+    - `UN monitors will remain in the country to supervise the elections.`
+      - 联合国监督员将留在该国监督选举。
+

@@ -1,0 +1,24 @@
+- lyrically
+  - 发音
+    - 英 `/undefined/`
+    - 美 `/undefined/`
+  - 词义
+    - adv. 抒情地,狂热地
+    - `with beautiful language or music`
+  - 同根词
+    - adj.
+      - `lyric` 抒情的；吟唱的
+      - `lyrical` 抒情诗调的；感情丰富的；充满愉悦的
+    - n.
+      - `lyric` 抒情诗；歌词
+      - `lyricism` 抒情性；抒情诗体；抒情方式抒情
+      - `lyricist` 抒情诗人；（流行歌曲等的）歌词作者
+      - `lyrist` 弹七弦琴的人；抒情诗人
+  - 近义词
+    - adv. 抒情地；诗意地；狂热地
+      - `feverishly`
+      - `crazily`
+  - 例句
+    - `He lyrically described the countryside around his home.`
+      - 他以抒情的笔调描绘了住宅周围的乡村景致。
+

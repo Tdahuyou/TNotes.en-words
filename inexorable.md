@@ -1,0 +1,23 @@
+- inexorable
+  - 发音
+    - 英 `/in'eksərəbl/`
+    - 美 `/ɪn'ɛksərəbl/`
+  - 词义
+    - adj. 无情的
+  - 记忆
+    - in (不) + exorable (可说服的) → 不可说服的， 铁石心肠 → 无情的
+  - 同根词
+    - adv.
+      - `inexorably` 无情地；冷酷地
+    - n.
+      - `inexorability` 冷酷，无情；不赦免
+  - 近义词
+    - adj. 无情的；不屈不挠的；不可阻挡的；无法改变的
+      - `tough`
+      - `relentless`
+      - `ruthless`
+      - `unrelenting`
+  - 例句
+    - `He made an inexorable demand.`
+      - 他提出一个无情的要求。
+

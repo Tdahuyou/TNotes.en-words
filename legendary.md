@@ -1,0 +1,22 @@
+- legendary
+  - 发音
+    - 英 `/'ledʒ(ə)nd(ə)rɪ/`
+    - 美 `/'lɛdʒən'dɛri/`
+  - 词义
+    - adj. 闻名的；传说的
+    - `very famous and admired`
+  - 同根词
+    - n.
+      - `legend` 传奇；说明；图例；刻印文字
+  - 近义词
+    - adj. 传说的，传奇的
+      - `rumorous`
+      - `fabulous`
+    - n. 传说集；圣徒传
+      - `hagiology`
+  - 例句
+    - `Lonnie Johnson, the legendary blues guitarist`
+      - 传奇蓝调吉他手朗尼·约翰逊
+    - `Her singing was legendary.`
+      - 她唱歌非常有名。
+

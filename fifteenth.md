@@ -1,0 +1,26 @@
+- fifteenth
+  - 发音
+    - 英 `/fɪf'tiːnθ/`
+    - 美 `/'fɪf'tinθ/`
+  - 词义
+    - num. 第十五
+  - 同根词
+    - adj.
+      - `fifth` 第五的；五分之一的
+      - `fifteen` 十五的
+      - `fiftieth` 第五十的；五十分之一的
+    - n.
+      - `fifth` 第五；五分之一
+      - `fifteen` 十五；十五个；十五人组成的橄榄球队
+    - num.
+      - `fifth` 第五
+      - `fifteen` 十五
+      - `fiftieth` 第五十；五十分之一
+  - 例句
+    - `So, initially they came up with four lines and then eventually five and even six, and then they went back to five by the fifteenth century.`
+      - 那么,他们最初提出的是四条线,但是最终却是五条线,甚至六条线,然后在十五世纪又回到了五条线
+    - `When oil paint replaced tempera in the fifteenth century, it helped painters to deal with difficult subjects like the human figure because, unlike tempera, oil can be blended and overpainted.`
+      - 油画颜料在十五世纪取代蛋彩的时候, 画家开始能够处理一些诸如人像画等困难的题材, 因为不象蛋彩,油画颜料可以混合和覆盖.
+    - `It is unacceptable that here, in the country that invented the Internet, we fell to fifteenth in the world in broadband deployment.`
+      - 令人无法接受的是，在这个发明互联网的国家，我们宽带数量的排名却滑到了世界第十五位。
+

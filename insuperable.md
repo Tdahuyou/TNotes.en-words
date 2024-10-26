@@ -1,0 +1,22 @@
+- insuperable
+  - 发音
+    - 英 `/ɪn'suːp(ə)rəb(ə)l; ɪn'sjuː/`
+    - 美 `/ɪn'supərəbl/`
+  - 词义
+    - adj. 不能克服的；无敌的
+    - `an insuperable difficulty or problem is impossible to deal with`
+  - 同根词
+    - adj.
+      - `insupportable` 不能忍受的；忍耐不住的
+    - adv.
+      - `insuperably` 不能取胜地；不能超越地；无法克服地；不能制胜地
+  - 近义词
+    - adj. 不能克服的；无敌的
+      - `invincible`
+      - `unsurmountable`
+  - 例句
+    - `There were insuperable obstacles, and the plan was abandoned.`
+      - 由于存在无法克服的障碍，计划被放弃了。
+    - `As usual, the hero was facing insuperable odds.`
+      - 照例，男主角遇到了无法克服的困难。
+

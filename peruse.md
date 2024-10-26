@@ -1,0 +1,19 @@
+- peruse
+  - 发音
+    - 英 `/pə'ruːz/`
+    - 美 `/pə'ruz/`
+  - 词义
+    - v. 熟/精/细读
+    - `to read something, especially in a careful way`
+  - 记忆
+    - per (通过) + use (用) → 通过一次次的细读达到会用的目的 → 细读
+  - 同根词
+    - n.
+      - `perusal` 熟读；精读
+  - 近义词
+    - vt. 详细考察；精读
+      - `con`
+  - 例句
+    - `She leant forward to peruse the document more closely.`
+      - 她俯身向前，更仔细地读那份文件。
+

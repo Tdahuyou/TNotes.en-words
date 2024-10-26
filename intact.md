@@ -1,0 +1,27 @@
+- intact
+  - 发音
+    - 英 `/ɪn'tækt/`
+    - 美 `/ɪn'tækt/`
+  - 词义
+    - adj. 无损伤的，完整的
+    - `not broken, damaged, or spoiled`
+  - 记忆
+    - in(不) + tact(触碰) → 未被触碰过的 → 无损伤的， 完整的
+  - 同根词
+    - n.
+      - `intactness` 未受损伤；完整无缺
+  - 近义词
+    - adj. 完整的；原封不动的；未受损伤的
+      - `whole`
+      - `complete`
+      - `integrated`
+      - `full`
+  - 短语
+    - `intact rock` 完整岩石 
+    - `keep intact` 保持原貌（样） 
+  - 例句
+    - `Only the medieval tower had remained intact.`
+      - 只有这座中世纪塔楼保存完好。
+    - `His reputation survived intact.`
+      - 他的声望丝毫未受影响。
+

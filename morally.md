@@ -1,0 +1,38 @@
+- morally
+  - 发音
+    - 英 `/'mɒrəlɪ/`
+    - 美 `/'mɔrəli/`
+  - 词义
+    - adv. 道德上
+    - `according to moral principles about what is right and wrong`
+  - 同根词
+    - adj.
+      - `moral` 道德的；精神上的；品性端正的
+      - `moralistic` 说教的；道学的；道德家的；注意道德的
+    - n.
+      - `moral` 道德；寓意
+      - `morality` 道德；品行，美德
+      - `moralism` 道德主义；格言；教训
+      - `moralist` 道德家；伦理学者
+      - `moralization` 教化；德化；用道德解释
+    - vi.
+      - `moralize` 说教；讲道德
+      - `moralise` 教化；从道德上解释（等于moralize）
+    - vt.
+      - `moralize` 教化，从道德上解释；从…引出道德教训
+      - `moralise` 讲道；说教（等于moralize）
+  - 近义词
+    - adv. 道德上；有道德地；确实地
+      - `strictly`
+      - `undoubtedly`
+      - `real`
+  - 例句
+    - `What you did wasn’t illegal, but it was morally wrong .`
+      - 你做的事并不违法，但从道义上讲是不对的。
+    - `There is a belief that village life is somehow morally superior to city life.`
+      - 有些人认为乡村生活在道德方面从某种程度上说高于城市生活。
+    - `Such hypocrisy is morally indefensible.`
+      - 这样的虚伪在道德上是说不过去的。
+    - `The Constitution is not morally neutral but is based on certain central values.`
+      - 宪法不是道德上中立，而是以某些中心价值观为基础。
+

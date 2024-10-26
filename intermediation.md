@@ -1,0 +1,25 @@
+- intermediation
+  - 发音
+    - 英 `/ˌintəˌmiːdi'eiʃən/`
+    - 美 `/,ɪntɚ,midɪ'eʃən/`
+  - 词义
+    - n. 调停，仲裁，调解
+  - 同根词
+    - adj.
+      - `intermediate` 中间的，中级的
+      - `intermediary` 中间的；媒介的；中途的
+      - `interlocutory` 中间的；对话的；对话体的
+    - adv.
+      - `intermediately` 在中间
+    - n.
+      - `intermediate` [化学] 中间物；媒介
+      - `intermediary` 中间人；仲裁者；调解者；媒介物
+      - `intermediator` 仲裁者；调解者
+    - vi.
+      - `intermediate` 起媒介作用
+  - 近义词
+    - n. 调解；仲裁；调停；作中间人
+      - `arbitration`
+      - `mediation`
+  - 短语
+    - `financial intermediation` 金融中介 

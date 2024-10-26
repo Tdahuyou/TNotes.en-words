@@ -1,0 +1,16 @@
+- malinger
+  - 发音
+    - 英 `/mə'liŋgə/`
+    - 美 `/mə'lɪŋgɚ/`
+  - 词义
+    - v. 装病
+    - `to avoid work by pretending to be ill`
+  - 记忆
+    - mal (坏) + (l) inger (逗留； 偷懒) → 假装身体不好而逗留 → 装病
+  - 同根词
+    - n.
+      - `malingerer` 装病逃差者
+  - 例句
+    - `He accused Frank of malingering.`
+      - 他指责弗兰克装病逃避工作。
+

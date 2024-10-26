@@ -1,0 +1,21 @@
+- marshy
+  - 发音
+    - 英 `/'mɑːʃɪ/`
+    - 美 `/'mɑ:ʃi/`
+  - 词义
+    - adj. 沼泽般的,湿软的
+    - `Marshy land is always wet and muddy`
+  - 同根词
+    - adj.
+      - `marsh` 沼泽的；生长在沼泽地的
+    - n.
+      - `marsh` 沼泽；湿地
+      - `marshland` 沼泽地，沼泽地区
+  - 近义词
+    - adj. 沼泽的；湿地的
+      - `swampy`
+      - `palustrine`
+  - 例句
+    - `The low, marshy land runs out for miles toward the gulf.`
+      - 这片低洼的沼泽地沿海湾方向延伸数英里。
+

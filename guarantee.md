@@ -1,0 +1,57 @@
+- guarantee
+  - 发音
+    - 英 `/ˌgærən'tiː/`
+    - 美 `/,ɡærən'ti/`
+  - 词义
+    - v. 保证；担保
+    - `to promise that you will pay back money that someone else has borrowed, if they do not pay it back themselves`
+    - n. 保证，担保；保证书
+    - `a formal written promise to repair or replace a product if it breaks within a specific period of time`
+  - 记忆
+    - guar(看做guard， 保卫) + ant(蚂蚁) + ee → 蚁后保证要开展一场保卫战 → 保证
+  - 同根词
+    - adj.
+      - `guaranteed` 有保证的，；有人担保的
+    - n.
+      - `guarantor` [金融] 保证人
+      - `guaranty` 保证；抵押；担保物
+    - v.
+      - `guaranteed` 担保（guarantee的过去式和过去分词）
+    - vt.
+      - `guaranty` 保证；担保；抵押（等于guarantee）
+  - 近义词
+    - n. [金融]保证；[法]担保；保证人；保证书；[经]抵押品
+      - `assurance`
+      - `certification`
+      - `commitment`
+      - `warranty`
+      - `pledge`
+    - vt. [金融]保证；[法]担保
+      - `assure`
+      - `undertake`
+      - `swear for`
+  - 短语
+    - `quality guarantee` 品质保证，质量保证 
+    - `credit guarantee` 信用担保；信贷保证 
+    - `guarantee period` 保修期；保质期 
+    - `loan guarantee` 贷款担保，借款保证函 
+    - `bank guarantee` 银行担保 
+    - `legal guarantee` 法律保证，法律担保 
+    - `letter of guarantee` 保证书；信用保证书 
+    - `guarantee insurance` 保证保险，盗窃意外保险 
+    - `financial guarantee` [经]财务担保 
+    - `performance guarantee` 履行合同保证人；履约保证 
+    - `guarantee fund` [经]保证基金，担保基金 
+    - `payment guarantee` 付款保证书；付款担保 
+    - `guarantee from` v. 保证不 
+    - `guarantee against` 保证不… 
+    - `money back guarantee` [经]保证退款 
+    - `company limited by guarantee` 担保有限公司；保证有限公司 
+    - `guarantee time` 保修期限 
+    - `guarantee value` 保证值 
+    - `guarantee letter` 保函 
+    - `guarantee deposit` 保证金；押金 
+  - 例句
+    - `The bank will only lend me money if my parents guarantee the loan.`
+      - 只有我父母作担保，银行才会给我贷款。
+

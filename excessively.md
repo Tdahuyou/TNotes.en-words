@@ -1,0 +1,17 @@
+- excessively
+  - 发音
+    - 英 `/ek'sesɪvlɪ/`
+    - 美 `/ɪk'sɛsɪvli/`
+  - 词义
+    - adv. 过分地,过度地,极度地
+  - 同根词
+    - adj.
+      - `excess` 额外的，过量的；附加的
+      - `excessive` 过多的，极度的；过分的
+    - n.
+      - `excess` 超过，超额；过度，过量；无节制
+      - `excessiveness` 过度（非常，格外）；冗余
+  - 近义词
+    - adv. 过分地；极度
+      - `obsessively`
+      - `fulsomely`

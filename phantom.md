@@ -1,0 +1,27 @@
+- phantom
+  - 发音
+    - 英 `/'fæntəm/`
+    - 美 `/'fæntəm/`
+  - 词义
+    - n. 幽灵；幻影；虚位
+    - `the image of a dead person or strange thing that someone thinks they see`
+    - adj. 幽灵的；幻觉的；有名无实的
+    - `seeming to appear to someone`
+  - 同根词
+    - adj.
+      - `phantasmagoric` 幻影似的；变幻不定的；幻想的；幽灵的
+      - `phantasmagorical` 幻影似的；变幻无常的
+      - `phantasmal` 幻影的；幽灵的；空想的
+  - 近义词
+    - n. 幽灵；[摄]幻影；虚位
+      - `shadow`
+      - `apparition`
+    - adj. 幽灵的；[心理]幻觉的；有名无实的
+      - `spectral`
+      - `ghostly`
+  - 短语
+    - `phantom limb` [医]幻肢 
+  - 例句
+    - `They vanished down the stairs like two phantoms.`
+      - 他们像两个幽灵似的下楼不见了。
+

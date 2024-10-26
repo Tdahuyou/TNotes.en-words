@@ -1,0 +1,35 @@
+- homeless
+  - 发音
+    - 英 `/'həʊmlɪs/`
+    - 美 `/'homləs/`
+  - 词义
+    - adj. 无家的,无家可归的
+    - `without a home`
+  - 同根词
+    - adj.
+      - `home` 国内的，家庭的；有效的
+      - `homely` 家庭的；平凡的；不好看的
+      - `homing` 回家的；自动导引的；有返回性的
+      - `homeward` 在归途上的，向家的
+      - `homey` 舒适的；家庭似的；自在的
+      - `homy` 家庭般的；自在的
+      - `homelike` 舒适的，自在的；如在家的
+    - adv.
+      - `home` 在家，回家；深入地
+      - `homeward` 在归途上，向家地
+    - n.
+      - `home` 家，住宅；产地；家乡；避难所
+      - `homing` 归航；动物的返回性
+      - `homelessness` 无家可归
+    - v.
+      - `homing` 回家（home的ing形式）
+    - vt.
+      - `home` 归巢，回家
+  - 近义词
+    - adj. 无家可归的
+      - `displaced`
+      - `roofless`
+  - 例句
+    - `Thousands of people have been made homeless .`
+      - 成千上万人被逼得无家可归。
+

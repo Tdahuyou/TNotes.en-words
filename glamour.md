@@ -1,0 +1,33 @@
+- glamour
+  - 发音
+    - 英 `/'ɡlæmə/`
+    - 美 `/'ɡlæmə/`
+  - 词义
+    - n. 魅力，魔力；迷人的美
+    - `the attractive and exciting quality of being connected with wealth and success`
+    - v. 迷惑，迷住
+  - 同根词
+    - adj.
+      - `glamorous` 迷人的，富有魅力的
+      - `glamourous` 富有魅力的；迷人的
+    - n.
+      - `glamor` 魅力；魔法；迷人的美（等于glamour）
+    - vt.
+      - `glamor` 迷惑；使有魅力（等于glamour）
+      - `glamorize` 美化；使有魅力
+      - `glamorise` 使有魅力（等于glamorize）
+      - `glamourize` 使有魔力；使光荣；渲染
+  - 近义词
+    - n. 魅力，魔力；迷人的美
+      - `charm`
+      - `grace`
+      - `fascination`
+    - vt. 迷惑，迷住
+      - `possess`
+      - `spell`
+  - 短语
+    - `cast a glamour over` ◎使迷住，迷住(某人) 
+  - 例句
+    - `...the glamour of show biz.`
+      - …演艺业的诱惑力。
+

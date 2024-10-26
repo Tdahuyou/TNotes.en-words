@@ -1,0 +1,22 @@
+- rewrite
+  - 发音
+    - 英 `/riː'raɪt/`
+    - 美 `/'riraɪt/`
+  - 词义
+    - v. 重写,改写
+    - `to change something that has been written, especially in order to improve it, or because new information is available`
+  - 同根词
+    - n.
+      - `rewriting` 重写；改写
+    - v.
+      - `rewriting` 重写；改写（rewrite的ing形式）
+  - 近义词
+    - vt. 改写；[计]重写
+      - `reword`
+      - `overtype`
+    - vi. 改写；[计]重写
+      - `write over`
+  - 例句
+    - `I’ll have to rewrite most of the essay.`
+      - 这篇论文大部分我都得重写。
+

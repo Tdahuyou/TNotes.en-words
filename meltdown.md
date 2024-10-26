@@ -1,0 +1,17 @@
+- meltdown
+  - 发音
+    - 英 `/'meltdaʊn/`
+    - 美 `/'mɛltdaʊn/`
+  - 词义
+    - n. 彻底垮台
+  - 同根词
+    - n.
+      - `melter` [冶] 熔化器；熔炼工
+  - 近义词
+    - n. 灾难；彻底垮台；熔化；暴跌
+      - `disaster`
+      - `fusion`
+      - `tragedy`
+      - `calamity`
+  - 短语
+    - `financial meltdown` 金融危机；经济下滑 

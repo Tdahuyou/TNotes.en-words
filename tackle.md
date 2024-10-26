@@ -1,0 +1,39 @@
+- tackle
+  - 发音
+    - 英 `/'tækl/`
+    - 美 `/'tækl/`
+  - 词义
+    - v. 对付，处理；阻截；抢球
+    - `to try to deal with a difficult problem`
+    - n. 拦截；用具
+    - `an attempt to stop an opponent by forcing them to the ground, especially in American football or  rugby `
+  - 记忆
+    - tack(大头钉) + le → 大头钉也是一种用具 → 用具
+  - 同根词
+    - n.
+      - `tacking` 定位焊；紧钉；顶风转向
+      - `tackler` 做抓和揪动作的人；阻截队员；抱住并摔倒对方抱球队员者
+    - v.
+      - `tacking` 固定住；暂时缝上；附加；改变航向（tack的ing形式）
+  - 近义词
+    - n. [机]滑车；装备；用具；扭倒
+      - `equipment`
+      - `tool`
+      - `arm`
+      - `setup`
+    - vt. 处理；抓住；固定；与…交涉
+      - `grasp`
+      - `root`
+      - `cope with`
+  - 短语
+    - `fishing tackle` n. 渔具；钓鱼用具 
+    - `block and tackle` 滑车组；滑轮组 
+    - `tackle box` 工具盒；钓具盒 
+    - `lifting tackle` 起重滑车；提升滑轮；滑轮起吊设备 
+    - `sliding tackle` 铲球 
+  - 例句
+    - `There is more than one way to tackle the problem.`
+      - 解决这个问题不止一个办法。
+    - `It took twelve fire engines to tackle the blaze .`
+      - 出动了12辆消防车来扑救那场大火。
+

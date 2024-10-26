@@ -1,0 +1,15 @@
+- felonious
+  - 发音
+    - 英 `/fə'ləʊniəs/`
+    - 美 `/fə'lonɪəs/`
+  - 词义
+    - adj. 极恶的，重罪的
+    - `of, involving, or constituting a felony `
+  - 同根词
+    - n.
+      - `felony` 重罪
+      - `felon` [法] 重罪犯；瘭疽；恶棍
+  - 近义词
+    - adj. 凶恶的；重罪的；极恶的
+      - `enormous`
+      - `atrocious`

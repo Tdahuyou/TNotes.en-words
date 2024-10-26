@@ -1,0 +1,18 @@
+- monasticism
+  - 发音
+    - 英 `/mə'næstɪsɪzəm/`
+    - 美 `/undefined/`
+  - 词义
+    - n. 修道院生活,修道院制度
+    - `the monastic system, movement, or way of life `
+  - 同根词
+    - adj.
+      - `monastic` 修道院的；僧尼的；庙宇的
+      - `monastical` 出家的，僧院的
+    - n.
+      - `monastery` 修道院；僧侣
+      - `monastic` 僧侣；修道士
+  - 近义词
+    - n. 修道院生活；禁欲主义；出家；隐修制度
+      - `monkery`
+      - `asceticism`

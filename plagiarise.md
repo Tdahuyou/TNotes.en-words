@@ -1,0 +1,23 @@
+- plagiarise
+  - 发音
+    - 英 `/'pleɪdʒəraɪz/`
+    - 美 `/undefined/`
+  - 词义
+    - v. 剽窃，抄袭
+  - 记忆
+    - plagi(斜的) + ar + ise → 做歪事 → 剽窃， 抄袭
+  - 同根词
+    - adj.
+      - `plagiaristic` 抄袭的
+    - n.
+      - `plagiarism` 剽窃；剽窃物
+      - `plagiarist` 剽窃者，抄袭者；文抄公
+      - `plagiarizer` 剽窃者
+    - vi.
+      - `plagiarize` 剽窃；抄袭
+    - vt.
+      - `plagiarize` 剽窃；抄袭
+  - 近义词
+    - vt. 剽窃；抄袭
+      - `lift`
+      - `copy`

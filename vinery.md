@@ -1,0 +1,32 @@
+- vinery
+  - 发音
+    - 英 `/'vainəri/`
+    - 美 `/'vaɪnəri/`
+  - 词义
+    - n. 葡萄园；葡萄温室
+    - `a hothouse for growing grapes `
+  - 记忆
+    - 来自vine (n. 葡萄树)
+  - 同根词
+    - adj.
+      - `vintage` 古老的；最佳的；过时的
+      - `vinous` 葡萄酒的；嗜酒的；有葡萄酒性质的
+    - n.
+      - `vintage` 葡萄收获期；葡萄酒酿造期
+      - `vine` 藤；葡萄树；藤本植物；攀缘植物
+      - `vineyard` 葡萄园
+      - `vino` 酒；廉价葡萄酒
+      - `vintner` 葡萄酒商；酿造葡萄酒的人
+      - `viniculture` 葡萄酒酿造学；[园艺] 葡萄栽培法
+      - `vinifera` 酿酒用葡萄
+      - `vinification` [食品] 葡萄酒酿造法
+      - `vintager` 采葡萄的人
+    - vi.
+      - `vintage` 采葡萄
+      - `vine` 长成藤蔓；爬藤
+    - vt.
+      - `vintage` 采葡萄；用葡萄酿酒
+  - 近义词
+    - n. 葡萄园，葡萄温室
+      - `domaine`
+      - `grapery`

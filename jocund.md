@@ -1,0 +1,22 @@
+- jocund
+  - 发音
+    - 英 `/'dʒɔkənd/`
+    - 美 `/'dʒɑkənd/`
+  - 词义
+    - adj. 欢乐的，高兴的
+    - `of a humorous temperament; merry `
+  - 同根词
+    - n.
+      - `jocundity` 欢乐；快活
+  - 近义词
+    - adj. 快活的；高兴的
+      - `happy`
+      - `pleased`
+      - `glad`
+      - `sunny`
+  - 例句
+    - `A poet could not but be gay in such a jocund company.`
+      - 一个诗人在这种兴高采烈的同伴中自然而然地会快乐。
+    - `Her jocund character made her the most popular girl in the county.`
+      - 她快乐的个性使她成为这个郡最受欢迎的女孩。
+

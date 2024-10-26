@@ -1,0 +1,32 @@
+- stall
+  - 发音
+    - 英 `/stɔːl/`
+    - 美 `/stɔl/`
+  - 词义
+    - n. 货摊；畜栏；托辞
+    - `a table or a small shop with an open front, especially outdoors, where goods are sold`
+    - v. 停止，停转；拖延
+    - `if an engine or vehicle stalls, or if you stall it, it stops because there is not enough power or speed to keep it going`
+  - 同根词
+    - n.
+      - `stalemate` 僵局；陷于困境
+    - vi.
+      - `stalemate` 僵持；陷入僵局
+    - vt.
+      - `stalemate` 使僵持；使陷入困境
+  - 近义词
+    - n. [贸易]货摊；畜栏；托辞
+      - `booth`
+      - `concession stand`
+    - vi. 停止，停转；拖延
+      - `desist from`
+      - `come to a stop`
+    - vt. 拖延；使停转；使陷于泥中
+      - `prolong`
+      - `drag on`
+  - 短语
+    - `market stall` 街市档位 
+  - 例句
+    - `a market stall`
+      - 市场摊位
+

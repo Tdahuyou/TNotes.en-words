@@ -1,0 +1,70 @@
+- long
+  - 发音
+    - 英 `/lɒŋ/`
+    - 美 `/lɔŋ/`
+  - 词义
+    - adj. 长的；长时间的
+    - `measuring a great length from one end to the other`
+  - 同根词
+    - adj.
+      - `lengthy` 漫长的，冗长的；啰唆的
+      - `longing` 渴望的，极想得到的
+      - `lengthwise` 纵长的
+      - `longish` 稍长的；略长的
+    - adv.
+      - `lengthwise` 纵长地
+      - `lengthily` 冗长地；长地
+      - `longingly` 渴望地
+      - `longwise` 纵长地
+    - n.
+      - `length` 长度，长；时间的长短；（语）音长
+      - `longing` 渴望，热望；憧憬
+      - `lengthiness` 冗长
+      - `longness` 长度
+    - v.
+      - `longing` 渴望（long的ing形式）
+    - vi.
+      - `lengthen` 延长；变长
+    - vt.
+      - `lengthen` 使延长；加长
+  - 近义词
+    - adj. 长的；过长的；做多头的
+      - `tall`
+      - `full-bottomed`
+    - vi. 渴望；热望
+      - `rare`
+      - `aspire`
+    - adv. 长期地；始终
+      - `chronically`
+      - `ever more`
+  - 短语
+    - `no longer` 不再 
+    - `as long as` 只要；和…一样长 
+    - `long time` adj. 长期的（持久的）；长时间；好久好久 
+    - `for long` 长久 
+    - `for a long time` 很长时间，很久 
+    - `how long` 有多久 
+    - `long term` 长期的 
+    - `so long` 再见 
+    - `long history` 历史悠久 
+    - `long before` 很早以前；在…以前很久 
+    - `long period` 长期的；长周期 
+    - `any longer` （不）再 
+    - `long ago` 很久以前 
+    - `long way` 远路 
+    - `long life` 长寿命；使用期限长的 
+    - `long distance` 长途电话局，长途通迅 
+    - `long run` adj. 长期的 
+    - `long service` 长期服务；发远球 
+    - `long for` 渴望 
+    - `long hair` 长发 
+  - 例句
+    - `a long table`
+      - 一张长桌子
+    - `the longest tunnel in the world`
+      - 世界上最长的隧道
+    - `He stretched out hislong legs.`
+      - 他伸开两条长腿。
+    - `along lineof people`
+      - 长长的一排队伍
+

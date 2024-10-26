@@ -1,0 +1,30 @@
+- mystique
+  - 发音
+    - 英 `/mɪ'stiːk/`
+    - 美 `/mɪ'stik/`
+  - 词义
+    - n. 神秘性,奥秘
+    - `a quality that makes someone or something seem mysterious, exciting, or special`
+  - 同根词
+    - adj.
+      - `mysterious` 神秘的；不可思议的；难解的
+      - `mystic` 神秘的；神秘主义的
+      - `mystical` 神秘的；神秘主义的
+    - adv.
+      - `mysteriously` 神秘地；故弄玄虚地；难以理解地
+      - `mystically` 神秘地
+    - n.
+      - `mystery` 神秘，秘密；奥秘；神秘的事物
+      - `mystic` 神秘主义者
+      - `mysticism` 神秘；神秘主义；谬论
+      - `mystification` 神秘化；困惑不解；骗人的把戏
+    - vt.
+      - `mystify` 使神秘化；使迷惑，使困惑
+  - 近义词
+    - n. 奥秘，秘诀；神秘性
+      - `secret`
+      - `tips`
+  - 例句
+    - `Some of the mystique surrounding the presidency has gone forever.`
+      - 总统职位的某些神秘性已经永远消失了。
+

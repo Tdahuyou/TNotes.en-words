@@ -1,0 +1,37 @@
+- Westerner
+  - 发音
+    - 英 `/undefined/`
+    - 美 `/undefined/`
+  - 词义
+    - n. 西方人
+    - `someone from the western part of the world`
+  - 同根词
+    - adj.
+      - `west` 西方的；朝西的
+      - `western` 西方的，西部的；有西方特征的
+      - `westward` 向西的；西方的
+      - `westerly` 西的；自西的；向西方的
+      - `westernmost` 最西的
+      - `westmost` 最西的；极西的
+    - adv.
+      - `west` 在西方；向西方；自西方
+      - `westward` 向西
+      - `westerly` 向西，往西
+    - n.
+      - `west` 西；西方；西部
+      - `western` 西方人；西部片，西部小说
+      - `westward` 西部；西方
+      - `wester` 西风
+      - `westerly` 西风
+      - `westernization` 西方化；欧美化
+    - vi.
+      - `wester` 向西；西行
+    - vt.
+      - `westernize` 使西洋化，使欧化
+  - 近义词
+    - n. 西方人，欧美人；美国西部的人
+      - `occidental`
+  - 例句
+    - `It's the first time a Westerner has been convicted for a drug-related offence in recent years in China.`
+      - 这是近年来第一次有西方人在中国被判犯有与毒品有关的罪行。
+

@@ -1,0 +1,16 @@
+- extirpation
+  - 发音
+    - 英 `/ˌekstər'peɪʃn/`
+    - 美 `/undefined/`
+  - 词义
+    - n. 消灭，根除
+  - 记忆
+    - 来自extirpate(v. 消灭， 根除)
+  - 同根词
+    - vt.
+      - `extirpate` 使连根拔起；灭绝，破除
+  - 近义词
+    - n. 消灭，根除；毁灭
+      - `destruction`
+      - `death`
+      - `eradication`

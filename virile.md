@@ -1,0 +1,20 @@
+- virile
+  - 发音
+    - 英 `/'virail/`
+    - 美 `/'vɪrəl/`
+  - 词义
+    - adj. 男人的；强壮的；刚健的
+  - 记忆
+    - vir (力量) + ile → 有力量的 → 强壮的
+  - 同根词
+    - n.
+      - `virility` 男子气；男子特点；生殖力
+      - `virilism` [生理] 男性化；[医] 男性化现象
+  - 近义词
+    - adj. 男性的；有男子气概的；刚健的
+      - `male`
+      - `masculine`
+  - 例句
+    - `He wanted his sons to become strong, virile, and athletic like himself.`
+      - 他希望他的儿子们变得像他一样身强力壮、充满阳刚之气，并擅长体育运动。
+

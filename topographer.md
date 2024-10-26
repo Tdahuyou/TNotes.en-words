@@ -1,0 +1,9 @@
+- topographer
+  - 发音
+    - 英 `/tə'pɒɡrəfə/`
+    - 美 `/tə'pɑgrəfɚ/`
+  - 词义
+    - n. 地形学者；地志学者
+  - 近义词
+    - n. 地形学者；地志学者
+      - `physiographer`

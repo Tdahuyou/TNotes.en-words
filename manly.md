@@ -1,0 +1,32 @@
+- manly
+  - 发音
+    - 英 `/'mænlɪ/`
+    - 美 `/'mænli/`
+  - 词义
+    - adj. 男子气概的；强壮的；适于男人的
+    - `having qualities that people expect and admire in a man, such as being brave and strong`
+    - adv. 雄赳赳地
+    - n. (Manly)人名；(英)曼利
+  - 同根词
+    - adj.
+      - `manful` 勇敢的；果断的；有男子气概的
+      - `manless` 无人的；没有男子的；卑鄙的；残忍的
+      - `manlike` 有男子气概的，像男人的；像人的（形容动物）
+      - `mannish` 成人似的；像男子的
+    - adv.
+      - `manfully` 男子气概地；雄伟地
+      - `manlike` 有男子气概地
+    - n.
+      - `man` 人；男人；人类；丈夫；雇工
+      - `manhood` 成年；男子；男子气概
+      - `manliness` 男子气概；勇敢；刚毅
+    - vt.
+      - `man` 操纵；给…配置人员；使增强勇气；在…就位
+  - 近义词
+    - adj. 男子气概的；强壮的；适于男人的
+      - `strong`
+      - `tough`
+  - 例句
+    - `a deep manly voice`
+      - 低沉雄浑的嗓音
+

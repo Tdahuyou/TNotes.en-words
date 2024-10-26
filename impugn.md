@@ -1,0 +1,22 @@
+- impugn
+  - 发音
+    - 英 `/im'pjuːn/`
+    - 美 `/undefined/`
+  - 词义
+    - v. 质疑
+    - `to express doubts about someone’s honesty, courage, ability etc`
+  - 记忆
+    - im (进入) + pugn (打斗) → 因质疑而引起打斗 → 质疑
+  - 同根词
+    - adj.
+      - `impugnable` 可责难的；易遭怀疑的
+    - n.
+      - `impugnation` 指摘；攻击（等于impugnment）
+  - 近义词
+    - vt. 责难；驳斥
+      - `decry`
+      - `durn`
+  - 例句
+    - `I did not mean to impugn her professional abilities.`
+      - 我并不是怀疑她的专业能力。
+

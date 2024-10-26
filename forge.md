@@ -1,0 +1,38 @@
+- forge
+  - 发音
+    - 英 `/fɔːdʒ/`
+    - 美 `/fɔrdʒ/`
+  - 词义
+    - v. 铸造,伪造
+    - `to illegally copy something, especially something printed or written, to make people think that it is real`
+  - 同根词
+    - adj.
+      - `forged` 锻的；锻造的
+    - n.
+      - `forging` 锻造；锻件；伪造
+      - `forgery` 伪造；伪造罪；伪造物
+      - `forger` 铁匠；伪造者
+    - v.
+      - `forged` 伪造（forge的过去式）；锻造（金属）
+      - `forging` 锻造；打制（forge的现在分词）
+  - 近义词
+    - n. 熔炉，锻铁炉；铁工厂
+      - `furnace`
+      - `smelter`
+    - vi. 伪造；做锻工
+      - `trump up`
+      - `to fake`
+    - vt. 伪造；[机]锻造
+      - `doctor`
+      - `trump up`
+  - 短语
+    - `forge ahead` 继续进行，取得进展 
+    - `forge piece` 锻件 
+    - `forge press` 锻压机 
+    - `forge iron` 搅炼生铁；锻铁 
+  - 例句
+    - `Someone stole my credit card and forged my signature.`
+      - 有人偷了我的信用卡，并假冒我的签名。
+    - `a forged passport`
+      - 假护照
+

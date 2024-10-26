@@ -1,0 +1,41 @@
+- optics
+  - 发音
+    - 英 `/'ɔptiks/`
+    - 美 `/'ɑptɪks/`
+  - 词义
+    - n. 光学
+    - `the scientific study of light and the way we see`
+  - 记忆
+    - 来自optic (a. 光学上的)
+  - 同根词
+    - adj.
+      - `optical` 光学的；眼睛的，视觉的
+      - `optic` 光学的；视觉的；眼睛的
+    - adv.
+      - `optically` 光学地；眼睛地；视力地
+    - n.
+      - `optic` 眼睛；镜片
+      - `optician` 眼镜商；光学仪器商；光学仪器制造者
+  - 近义词
+    - n. [光]光学
+      - `photics`
+  - 短语
+    - `geometrical optics` 几何光学 
+    - `adaptive optics` 自适应光学；适应性光学仪器（天文学使用的镜子，其形状可以改变以补偿光线受大气之扭曲） 
+    - `nonlinear optics` 非线性光学 
+    - `quantum optics` 量子光学 
+    - `physical optics` 物理光学 
+    - `geometric optics` 几何光学 
+    - `integrated optics` 集成光学；积体光学；集成光路 
+    - `fibre optics` 纤维光学（等于fiber optics） 
+    - `wave optics` [化]波动光学 
+    - `applied optics` 应用光学 
+    - `precision optics` 精密光学部件 
+  - 例句
+    - `The term "spectrogram" is borrowed from optics .`
+      - “声谱图”一词是从光学借来的。
+    - `The key to success is the combination of transformation optics with another promising new field of science known as plasmonics.`
+      - 成功的关键是转变的光学与另一个有希望的表面电浆子场组合，被称为新的科学。
+    - `But it was, ironically, not until the invention of the laser in 1960 that understanding the quantum nature of optics became crucial.`
+      - 但是，具有讽刺意义的是，直到1960年激光发明后，认识光学的量子本质才变得至关重要。
+

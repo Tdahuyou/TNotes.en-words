@@ -1,0 +1,47 @@
+- subordinate
+  - 发音
+    - 英 `/sə'bɔːdɪnət/`
+    - 美 `/səˈbɔːdɪnɪt (for n. &adj.) ; səˈbɔːdɪˌnet (for v.)/`
+  - 词义
+    - adj. 次要的；下级的
+    - `in a less important position than someone else`
+    - vt. 使处于次要地位，使从属于
+    - `to put someone or something in a less important position`
+    - n. 部属，下属
+    - `someone who has a lower position and less authority than someone else in an organization`
+  - 记忆
+    - sub(在…下面) + ordin(顺序) + ate → 顺序在下 → 次要的
+  - 同根词
+    - adj.
+      - `submissive` 顺从的；服从的；柔顺的
+      - `subordinating` 连接主句和从句的；从属的
+      - `subordinative` 表示从属关系的；从属的
+    - n.
+      - `submission` 投降；提交（物）；服从；（向法官提出的）意见；谦恭
+      - `subordination` 从属；附属；主从关系
+      - `submissiveness` 柔顺；服从
+      - `subordinateness` 下属
+    - v.
+      - `subordinating` 使服从（subordinate的ing形式）；使成为下级
+    - vi.
+      - `submit` 提交；服从
+    - vt.
+      - `submit` 使服从；主张；呈递
+  - 近义词
+    - n. 下属，下级；部属，属下
+      - `inferior`
+      - `underling`
+    - adj. 从属的；次要的
+      - `dependent`
+      - `secondary`
+      - `supporting`
+      - `minor`
+      - `peripheral`
+  - 短语
+    - `subordinate body` 下属机构；附属机构 
+    - `subordinate clause` 从句 
+    - `subordinate staff` 下属人员；从属人员 
+  - 例句
+    - `a subordinate officer`
+      - 下级官员
+

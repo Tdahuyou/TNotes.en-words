@@ -1,0 +1,43 @@
+- synchronizer
+  - 发音
+    - 英 `/'sɪŋkrənaɪzər/`
+    - 美 `/undefined/`
+  - 词义
+    - n. 同步装置
+  - 记忆
+    - syn(相同) + chron(时间) + izer → 使时间相同 → 同步装置
+  - 同根词
+    - adj.
+      - `synchronous` 同步的；同时的
+      - `synchronized` 同步的；同步化的
+      - `synchronic` 不考虑历史上变化的；限于一时的；完全同步的
+      - `synchronised` 同步的
+      - `synchronizing` 同步的
+    - adv.
+      - `synchronously` 同步地；同时地
+    - n.
+      - `synchronization` [物] 同步；同时性
+      - `synchronisation` 同步；同一时刻；同时发生
+      - `synchrony` 同步
+      - `synchrotron` [核] 同步加速器；同步回旋加速器
+      - `synchronicity` 同步性，同时发生
+      - `synchronism` 同时发生，同步性；对照性历史年谱
+      - `synchroniser` 同合器；同步器
+      - `synchronoscope` 同步指示器；同步示波器；同期表；同步表
+      - `synchroscope` 同步检定器；[电子] 同步示波器
+    - v.
+      - `synchronized` 使协调（synchronize的过去分词）；同时发生；校准
+      - `synchronised` 使同时（synchronise的过去式和过去分词）
+      - `synchronizing` 同步，整步（synchronize的ing形式）
+    - vi.
+      - `synchronize` 同步；同时发生
+      - `synchronise` 同步；同时发生
+    - vt.
+      - `synchronize` 使……合拍；使……同步
+      - `synchronise` 使同步；使同时发生（等于synchronize）
+  - 例句
+    - `I created a background synchronizer that used RestKit as it seemed to have everything I needed.`
+      - 我创建了一个背景同步，用restkit好像有我需要的一切。
+    - `A frame synchronizer with recognizer and discriminator is described, which consists mainlyof a type 8951 singlechip computer, a type 8254 programmable counter and a GAL chip.`
+      - 在激光水下通信的节头内插入捕获序列，用8951，8254，GAL等芯片构成识别判决式帧同步器。
+

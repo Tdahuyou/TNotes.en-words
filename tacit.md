@@ -1,0 +1,26 @@
+- tacit
+  - 发音
+    - 英 `/'tæsit/`
+    - 美 `/'tæsɪt/`
+  - 词义
+    - adj. 默许的
+    - `tacit agreement, approval, support etc is given without anything actually being said`
+  - 记忆
+    - tac (安静的) + it → 安静的， 没有任何表示 → 默许的
+  - 同根词
+    - n.
+      - `taciturnity` 沉默寡言；缄默
+  - 近义词
+    - adj. 缄默的；不言而喻的
+      - `reserved`
+      - `self-evident`
+  - 短语
+    - `tacit knowledge` 隐性知识；默会知识 
+    - `tacit understanding` 默契 
+    - `tacit agreement` 默示协议 
+    - `tacit cooperation` 配合默契 
+    - `tacit approval` 默认 
+  - 例句
+    - `a tacit agreement between the three big companies`
+      - 三家大公司之间的默契
+

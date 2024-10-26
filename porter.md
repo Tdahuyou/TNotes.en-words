@@ -1,0 +1,29 @@
+- porter
+  - 发音
+    - 英 `/'pɔːtə/`
+    - 美 `/'pɔrtɚ/`
+  - 词义
+    - n. 守门人；行李搬运工
+    - `someone in charge of the entrance to a hotel, hospital etc`
+  - 记忆
+    - port(拿， 运)+er→搬运工人
+  - 同根词
+    - n.
+      - `port` 港口，口岸；（计算机的）端口；左舷；舱门
+      - `portal` 大门，入口
+      - `portage` 搬运；运输
+      - `porterage` 搬运；搬运业；搬运费
+    - vi.
+      - `port` 转向左舷
+      - `portage` 转到陆上运输
+    - vt.
+      - `port` 持（枪）；左转舵
+      - `portage` 转到陆上运输；经陆上运输绕过
+  - 近义词
+    - n. 门房；服务员；[交]行李搬运工；守门人
+      - `waiter`
+      - `concierge`
+  - 例句
+    - `Our taxi pulled up at Old Delhi station and a porter sprinted to the door.`
+      - 我们的出租车停在老德里车站，一个搬运工疾步跑向车门。
+

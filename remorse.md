@@ -1,0 +1,27 @@
+- remorse
+  - 发音
+    - 英 `/ri'mɔːrs/`
+    - 美 `/rɪ'mɔrs/`
+  - 词义
+    - n. 懊悔；自责；同情，怜悯
+    - `a strong feeling of being sorry that you have done something very bad`
+  - 记忆
+    - re (再次) + morse (咬) → 真后悔没再咬 → 懊悔
+  - 同根词
+    - adj.
+      - `remorseful` 懊悔的；悔恨的
+      - `remorseless` 冷酷的；不知过错的；坚持不懈的；不屈不挠的
+    - adv.
+      - `remorselessly` 无悔意地；冷酷地
+      - `remorsefully` 极为懊悔地
+  - 近义词
+    - n. 懊悔；同情
+      - `feeling`
+      - `compassion`
+      - `sorrow`
+      - `sympathy`
+      - `pity`
+  - 例句
+    - `Throughout the trial, he had shown no remorse .`
+      - 整个审判过程中，他没有表示出一丝悔意。
+

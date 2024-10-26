@@ -1,0 +1,23 @@
+- exhale
+  - 发音
+    - 英 `/eks'heɪl/`
+    - 美 `/ɛks'hel/`
+  - 词义
+    - v. 呼出；散发
+    - `to breathe air, smoke etc out of your mouth`
+  - 记忆
+    - ex(出) + hale(气) → 呼出(气)
+  - 同根词
+    - n.
+      - `exhalation` 蒸发，呼气；散发物
+  - 近义词
+    - vt. 呼气；发出；发散；使蒸发
+      - `emit`
+      - `to send out`
+    - vi. 呼气；发出；发散
+      - `to send out`
+      - `give off`
+  - 例句
+    - `Take a deep breath, then exhale slowly.`
+      - 深吸一口气，然后慢慢呼出。
+

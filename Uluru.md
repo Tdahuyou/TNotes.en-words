@@ -1,0 +1,5 @@
+- Uluru
+  - 发音
+    - 英 `/undefined/`
+    - 美 `/'u:ləru:/`
+  - 词义

@@ -1,0 +1,29 @@
+- fraud
+  - 发音
+    - 英 `/frɔːd/`
+    - 美 `/frɔd/`
+  - 词义
+    - n. 骗子，冒名顶替者；冒牌货；欺骗
+    - `the crime of deceiving people in order to gain something such as money or goods`
+  - 记忆
+    - “富饶的” → 骗子专挑富人区行骗 → 骗子
+  - 同根词
+    - adj.
+      - `fraudulent` 欺骗性的；不正的
+    - n.
+      - `fraudulence` 欺诈；欺骗性
+  - 近义词
+    - n. 欺骗；骗子；诡计
+      - `scheme`
+      - `sharp`
+      - `deception`
+  - 短语
+    - `accounting fraud` 假帐；做假账 
+    - `click fraud` 点击欺诈 
+    - `credit fraud` 信用欺诈 
+  - 例句
+    - `{"COLLOINEXA":["electoral fraud"]}`
+      - 选举欺诈
+    - `She was found guilty of fraud.`
+      - 她被判犯有诈骗罪。
+

@@ -1,0 +1,13 @@
+- pictograph
+  - 发音
+    - 英 `/'piktəˌgrɑːf/`
+    - 美 `/'pɪktoɡræf/`
+  - 词义
+    - n. 统计图表
+  - 同根词
+    - adj.
+      - `pictographic` 象形文字的，绘画文字的
+  - 近义词
+    - n. [语]象形文字；古代石壁画；[统计]统计图表
+      - `hieroglyphic writing`
+      - `ideograph`

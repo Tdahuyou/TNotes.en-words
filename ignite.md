@@ -1,0 +1,29 @@
+- ignite
+  - 发音
+    - 英 `/ɪg'naɪt/`
+    - 美 `/ɪɡ'naɪt/`
+  - 词义
+    - v. 点燃，着火
+    - `to start burning, or to make something start burning`
+  - 记忆
+    - ign(火) + ite → 点燃， 着火
+  - 同根词
+    - adj.
+      - `ignitable` 可着火的；可燃性的
+    - n.
+      - `ignition` 点火，点燃；着火，燃烧；点火开关，点火装置
+      - `igniter` 点火器；点火剂；发火器
+      - `ignitor` 点火器；引爆装置；[电子] 引燃电极
+  - 近义词
+    - vt. 点燃；使燃烧；使激动
+      - `heat`
+      - `light`
+    - vi. 点火；燃烧
+      - `burn`
+      - `light the fire`
+  - 例句
+    - `The petrol tank suddenly ignited.`
+      - 油箱突然着火了。
+    - `The candle ignited the plastic.`
+      - 蜡烛烧着了塑料。
+

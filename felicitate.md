@@ -1,0 +1,20 @@
+- felicitate
+  - 发音
+    - 英 `/fə'lɪsɪteɪt/`
+    - 美 `/undefined/`
+  - 词义
+    - v. 祝贺，庆祝
+    - `to wish joy to; congratulate `
+  - 记忆
+    - felic(幸福的) + itate → 使…幸福 → 祝贺
+  - 同根词
+    - n.
+      - `felicitation` 祝贺；庆祝；庆贺
+  - 近义词
+    - vt. 庆贺；庆祝
+      - `commemorate`
+      - `congratulate`
+  - 例句
+    - `Japan should felicitate the opening of branches of Japanese vessel building industries along the Indian docks and port.`
+      - 日本该庆祝印度港口里日本造船分厂的开设。
+

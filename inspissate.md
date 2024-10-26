@@ -1,0 +1,18 @@
+- inspissate
+  - 发音
+    - 英 `/ɪn'spɪseɪt/`
+    - 美 `/ɪn'spɪsɪt/`
+  - 词义
+    - v. 浓缩
+    - `to thicken, as by evaporation `
+  - 记忆
+    - in + spiss(厚的； 密集的) + ate → 使变密集 → (使)浓缩
+  - 同根词
+    - n.
+      - `inspissation` 浓缩；蒸浓法，浓缩法
+  - 近义词
+    - vt. 使浓缩；使气氛沉重
+      - `dewater`
+    - vi. 浓缩
+      - `concentrate`
+      - `condense`

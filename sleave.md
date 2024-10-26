@@ -1,0 +1,12 @@
+- sleave
+  - 发音
+    - 英 `/sliːv/`
+    - 美 `/sli:v/`
+  - 词义
+    - n. 细丝,乱丝
+  - 近义词
+    - n. 细丝；乱丝，纠缠一团
+      - `filament`
+    - vt. 解开
+      - `unbind`
+      - `unriddle`

@@ -1,0 +1,24 @@
+- insulate
+  - 发音
+    - 英 `/'ɪnsəleɪt/`
+    - 美 `/ˈɪnsəˌleɪt ; ˈɪnsjʊˌleɪt/`
+  - 词义
+    - vt. 使隔离，使隔绝
+    - `to cover or protect something with a material that stops electricity, sound, heat etc from getting in or out`
+  - 记忆
+    - insul(岛屿) + ate(使…) → 使成为孤岛 → 使隔离， 使隔绝
+  - 同根词
+    - adj.
+      - `insular` 孤立的；与世隔绝的；海岛的；岛民的
+    - n.
+      - `insulation` 绝缘；隔离，孤立
+      - `insulator` [物] 绝缘体；从事绝缘工作的工人
+      - `insulant` 绝缘材料，绝缘物质
+  - 近义词
+    - vt. 隔离，使孤立；使绝缘，使隔热
+      - `segregant`
+      - `quarantine`
+  - 例句
+    - `an insulated attic`
+      - 隔热[隔音]的阁楼
+

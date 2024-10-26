@@ -1,0 +1,55 @@
+- flag
+  - 发音
+    - 英 `/flæg/`
+    - 美 `/flæg/`
+  - 词义
+    - n. 旗；旗帜
+    - `a piece of cloth with a coloured pattern or picture on it that represents a country or organization`
+  - 记忆
+    - 他顿时没了力气 (flag)， 不再像一只青蛙 (frog) 似的聒噪
+  - 同根词
+    - adj.
+      - `flagging` 下垂的；衰弱的
+    - n.
+      - `flagship` 旗舰；（作定语）一流；佼佼者
+      - `flagging` 石板路；铺砌石板
+    - v.
+      - `flagging` 悬旗于（flag的现在分词）
+  - 近义词
+    - vi. 标记；衰退；枯萎
+      - `fail`
+      - `decay`
+    - vt. 标记；插旗
+      - `emblemize`
+    - n. 标志；旗子
+      - `symbol`
+      - `seal`
+  - 短语
+    - `red flag` n. 红旗；危险信号；[喻]惹人生气的事物 
+    - `national flag` n. 国旗 
+    - `white flag` 白旗（表示投降）；降旗 
+    - `under the flag of` 受…保护，站在…一边 
+    - `yellow flag` 黄色旗；检疫旗；[植]黄菖蒲 
+    - `blue flag` 蓝旗；蓝菖蒲；蓝鸢尾 
+    - `flag of truce` 白旗，休战旗 
+    - `flag day` n. 美国国旗纪念日（六月十四日） 
+    - `flag state` 船旗国；标记状态 
+    - `with flags flying` 得胜地，征服者似的，得意洋洋地 
+    - `flag of distress` 求救旗号 
+    - `show the flag` [ 口语] 
+    - `hoist the flag` 升旗表示占领新发现的土地 
+    - `keep the flag flying` ◎[口语]不屈服，坚持战斗；继续坚持自己的意见(或想法) 
+    - `flag down` 打信号使停下 
+    - `flag pole` 旗杆 
+    - `black flag` 黑旗（表示囚犯已被处决）；海盗旗；黑旗令（赛车可能有故障） 
+    - `quarantine flag` n. 黄色检疫旗（表示船上未发生疾病的旗帜） 
+    - `flag of convenience` 方便旗（指商船为逃税而向别国注册并挂该国旗帜） 
+    - `wave the flag` 激起爱国热情 
+  - 例句
+    - `Children waving flags greeted the Russian leader.`
+      - 孩子们挥舞着旗帜，欢迎俄罗斯领导人。
+    - `the flag of Kenya`
+      - 肯尼亚国旗
+    - `the Spanish flag`
+      - 西班牙国旗
+

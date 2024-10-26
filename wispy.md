@@ -1,0 +1,23 @@
+- wispy
+  - 发音
+    - 英 `/'wɪspi/`
+    - 美 `/undefined/`
+  - 词义
+    - adj. 成束的；纤细的
+  - 记忆
+    - 来自wisp(n. 小把， 小束)
+  - 同根词
+    - n.
+      - `wisp` 小捆；小束
+    - vi.
+      - `wisp` 卷成一捆
+    - vt.
+      - `wisp` 把…卷成一捆
+  - 近义词
+    - adj. 象小束状的，纤细的；脆弱的
+      - `tender`
+      - `slight`
+  - 例句
+    - `The white floodlight shines through the wispy tule and makes thin shadows.`
+      - 白色的灯光透过一缕缕的湖藨草，投下纤细的影子。
+

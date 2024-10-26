@@ -1,0 +1,23 @@
+- felicity
+  - 发音
+    - 英 `/fə'lisəti/`
+    - 美 `/fə'lɪsəti/`
+  - 词义
+    - n. 幸福，幸运，福气
+    - `happiness`
+  - 记忆
+    - felic (幸福) + ity → 幸福
+  - 同根词
+    - adj.
+      - `felicitous` 恰当的；善于措辞的；幸福的
+  - 近义词
+    - n. 幸福；快乐；幸运
+      - `happiness`
+      - `welfare`
+      - `pleasure`
+      - `joy`
+      - `mercy`
+  - 例句
+    - `domestic felicity`
+      - 家庭幸福
+

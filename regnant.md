@@ -1,0 +1,14 @@
+- regnant
+  - 发音
+    - 英 `/'regnənt/`
+    - 美 `/'reɡnənt/`
+  - 词义
+    - adj. 在位的；占优势的；流行的
+    - `reigning `
+  - 近义词
+    - adj. 统治的；占优势的；流行的，广泛的
+      - `popular`
+      - `extensive`
+      - `widespread`
+      - `ruling`
+      - `dominant`

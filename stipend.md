@@ -1,0 +1,18 @@
+- stipend
+  - 发音
+    - 英 `/'staipend/`
+    - 美 `/'staɪpɛnd/`
+  - 词义
+    - n. 薪金，定期生活津贴
+    - `an amount of money paid regularly to someone, especially a priest, as a salary or as money to live on`
+  - 记忆
+    - sti + pend (花费) → 在别人身上花费 → 薪金
+  - 同根词
+    - adj.
+      - `stipendiary` 领薪金的，有俸给的
+    - n.
+      - `stipendiary` 领薪金者，受俸给者
+  - 近义词
+    - n. 奖学金；固定薪金；定期津贴；养老金
+      - `scholarship`
+      - `fellowship`

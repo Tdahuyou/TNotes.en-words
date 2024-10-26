@@ -1,0 +1,32 @@
+- instruct
+  - 发音
+    - 英 `/ɪn'strʌkt/`
+    - 美 `/ɪn'strʌkt/`
+  - 词义
+    - vt. 指示；教授
+    - `to officially tell someone what to do`
+  - 记忆
+    - in + struct(建筑) → 教人如何建筑 → 教授
+  - 同根词
+    - adj.
+      - `instructive` 有益的；教育性的
+      - `instructional` 教学的；指导的，教育的
+    - adv.
+      - `instructively` 有益地；教育地
+    - n.
+      - `instruction` 指令，命令；指示；教导；用法说明
+      - `instructor` 指导书；教员；指导者
+      - `instructress` 女教师；女指导
+  - 近义词
+    - vt. 指导；通知；命令；教授
+      - `require`
+      - `teach`
+      - `coach`
+      - `message`
+      - `order`
+  - 短语
+    - `instruct in` 指教；教导 
+  - 例句
+    - `Eva went straight to the hotel, as instructed (= as she had been told ).`
+      - 伊娃按照指示径直去了宾馆。
+

@@ -1,0 +1,22 @@
+- strategist
+  - 发音
+    - 英 `/'strætədʒɪst/`
+    - 美 `/'strætədʒɪst/`
+  - 词义
+    - n. 战略家；军事家
+    - `someone who is good at planning things, especially military or political actions`
+  - 同根词
+    - adj.
+      - `strategic` 战略上的，战略的
+    - adv.
+      - `strategically` 战略性地；战略上
+    - n.
+      - `strategy` 战略，策略
+      - `strategics` 兵法；军事学
+  - 近义词
+    - n. 战略家；军事家
+      - `militarist`
+  - 例句
+    - `Military strategists had devised a plan that guaranteed a series of stunning victories.`
+      - 军事战略家们设计了一个保证了一系列惊人胜利的计划。
+

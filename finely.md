@@ -1,0 +1,26 @@
+- finely
+  - 发音
+    - 英 `/'faɪnlɪ/`
+    - 美 `/'faɪnli/`
+  - 词义
+    - adv. 细微地,美好地
+    - `into very thin or very small pieces`
+  - 同根词
+    - adj.
+      - `fine` 好的；优良的；细小的，精美的；健康的；晴朗的
+    - adv.
+      - `fine` 很好地；精巧地
+    - n.
+      - `fine` 罚款
+      - `fineness` 美好；纯度；细微；优雅
+    - vt.
+      - `fine` 罚款；澄清
+  - 近义词
+    - adv. 非常地；细微地；美好地；雅致地
+      - `considerably`
+      - `remarkably`
+      - `tremendously`
+  - 例句
+    - `finely chopped onion`
+      - 剁得细碎的洋葱
+

@@ -1,0 +1,44 @@
+- terminate
+  - 发音
+    - 英 `/'tɜːrmɪneɪt/`
+    - 美 `/'tɝmɪnet/`
+  - 词义
+    - v. 停止，结束
+    - `if something terminates, or if you terminate it, it ends`
+  - 记忆
+    - termin(边界) + ate → (使)停止， 结束
+  - 同根词
+    - adj.
+      - `terminated` 终止的；有限的
+      - `terminable` 可终止的；有期限的
+      - `terminative` 终结的；决定的；结尾的；限定的
+    - n.
+      - `termination` 结束，终止
+      - `terminator` 终结者；终止子；明暗界限
+    - v.
+      - `terminated` 终止；结束；终结（terminate的过去分词）
+  - 近义词
+    - vt. 使终止；使结束；解雇
+      - `fulfill`
+      - `drop`
+      - `kill`
+    - vi. 结束，终止；结果
+      - `result`
+      - `drop`
+      - `determine`
+      - `pass`
+      - `set`
+    - adj. 结束的
+      - `ended`
+      - `closing`
+      - `over`
+      - `past`
+      - `concluding`
+  - 短语
+    - `terminate a contract` 终止合约 
+  - 例句
+    - `The court ruled that the contract must be terminated.`
+      - 法庭裁决该合同必须终止。
+    - `a woman’s decision on whether or not to terminate the pregnancy`
+      - 女子关于是否终止妊娠的决定
+

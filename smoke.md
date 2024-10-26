@@ -1,0 +1,60 @@
+- smoke
+  - 发音
+    - 英 `/sməʊk/`
+    - 美 `/smok/`
+  - 词义
+    - v. 抽烟,吸烟
+    - `to suck or breathe in smoke from a cigarette, pipe etc or to do this regularly as a habit`
+  - 同根词
+    - adj.
+      - `smoking` 准许吸烟的
+      - `smoky` 冒烟的；烟熏味的；熏着的；呛人的；烟状的
+      - `smoked` 熏制的
+      - `smokeless` 无烟的；不冒烟的
+    - adv.
+      - `smoking` 冒着烟
+    - n.
+      - `smoking` 抽烟；冒气
+      - `smoker` 吸烟者；薰制工
+    - v.
+      - `smoking` 吸烟；冒烟（smoke的现在分词）
+      - `smoked` 用烟处理（smoke的过去分词）
+  - 近义词
+    - n. [环境]烟；抽烟；无常的事物
+      - `tobacco`
+      - `ephemerality`
+    - vi. 冒烟，吸烟；抽烟；弥漫
+      - `fume`
+    - vt. 吸烟；抽
+      - `puff on`
+  - 短语
+    - `like smoke` [俚语] 
+    - `tobacco smoke` 烟草烟雾 
+    - `go up in smoke` 化为乌有；被烧光 
+    - `black smoke` 黑烟；浓烟 
+    - `smoke detector` 烟雾报警器 
+    - `have a smoke` 抽一支烟 
+    - `smoke gas` 烟气 
+    - `smoke signal` 烟雾信号 
+    - `smoke density` 烟浓度 
+    - `smoke out` 查出；用烟熏出；使…公诸于世 
+    - `smoke free` 无烟 
+    - `no smoke without fire` 无风不起浪；无火不成烟 
+    - `smoke alarm` 烟雾报警器 
+    - `smoke control system` 排烟控制系统 
+    - `smoke prevention` 防烟法 
+    - `smoke and mirrors` 烟雾和镜子；欺骗性行为；用虚假消息骗人 
+    - `smoke test` 冒烟测试；通烟试验；用烟试验 
+    - `smoke bomb` 烟雾弹 
+    - `smoke generation` 起烟；生烟；烟熏剂 
+    - `smoke damper` 防烟阀；烟道挡板 
+  - 例句
+    - `I don’t smoke and I don’t drink much.`
+      - 我不吸烟，酒也喝得不多。
+    - `Do you mind if I smoke?`
+      - 我抽烟你介意吗？
+    - `He sat on the grass smoking a cigarette.`
+      - 他坐在草地上吸烟。
+    - `He admitted that he had smoked marijuana when he was a student.`
+      - 他承认在读书时吸过大麻。
+

@@ -1,0 +1,32 @@
+- malice
+  - 发音
+    - 英 `/'mælɪs/`
+    - 美 `/'mælɪs/`
+  - 词义
+    - n. 恶意，怨恨
+    - `the desire to harm someone because you hate them`
+  - 记忆
+    - mal(坏， 恶) + ice → 恶意
+  - 同根词
+    - adj.
+      - `malicious` 恶意的；恶毒的；蓄意的；怀恨的
+      - `malignant` [医] 恶性的；有害的；有恶意的
+      - `malevolent` 恶毒的；有恶意的；坏心肠的
+    - adv.
+      - `maliciously` 有敌意地，恶意地
+      - `malevolently` 恶意地；伤害地
+      - `malignantly` 怀恶意
+    - n.
+      - `malignant` 保王党员；怀恶意的人
+      - `malignancy` 恶性（肿瘤等）；恶意
+      - `malevolence` 恶意，怨恨；狠毒
+      - `maliciousness` 恶意
+      - `malignity` 恶意；怨恨；狠毒
+  - 近义词
+    - n. 恶意；怨恨；预谋
+      - `spite`
+      - `malevolence`
+  - 例句
+    - `James bore her no malice (= did not feel any malice towards her ) .`
+      - 詹姆斯对她并无恶意。
+

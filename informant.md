@@ -1,0 +1,32 @@
+- informant
+  - 发音
+    - 英 `/ɪn'fɔːrmənt/`
+    - 美 `/ɪn'fɔrmənt/`
+  - 词义
+    - n. 提供消息或情报的人，线人；提供资料的人；合作者
+    - `someone who secretly gives the police, the army etc information about someone else`
+  - 同根词
+    - adj.
+      - `informed` 消息灵通的；见多识广的
+      - `informational` 情报的；报告的；新闻的
+      - `informing` 增长见闻的；提供情报的；鼓舞的
+      - `informatory` 提供情报的（等于informative）
+    - n.
+      - `information` 信息，资料；知识；情报；通知
+      - `informer` 告密者；通知者；控告人
+      - `informativeness` 信息量；忠实度
+    - v.
+      - `informed` 通知；使了解；提供资料（inform的过去分词）
+      - `informing` 通知；报告；使了解（inform的ing形式）
+    - vi.
+      - `inform` 告发；告密
+    - vt.
+      - `inform` 通知；告诉；报告
+  - 近义词
+    - n. 被调查者；告密者；提供消息者
+      - `tattletale`
+      - `beefer`
+  - 例句
+    - `One of the witnesses was a paid informant for the FBI.`
+      - 目击者之一是联邦调查局出钱雇用的线人。
+

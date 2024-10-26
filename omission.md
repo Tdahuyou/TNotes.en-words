@@ -1,0 +1,14 @@
+- omission
+  - 发音
+    - 英 `/ə(ʊ)'mɪʃ(ə)n/`
+    - 美 `/ə'mɪʃən/`
+  - 词义
+    - n. 冗长,疏漏
+  - 同根词
+    - adj.
+      - `omissible` 可删节的；可省略的
+      - `omissive` 遗漏的；省略的
+  - 近义词
+    - n. 疏忽，遗漏；省略；冗长
+      - `negligence`
+      - `oversight`

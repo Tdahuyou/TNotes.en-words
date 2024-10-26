@@ -1,0 +1,51 @@
+- serve
+  - 发音
+    - 英 `/sɜːv/`
+    - 美 `/sɝv/`
+  - 词义
+    - v. 端上（食物和饮料）；服侍⋯⋯进餐
+    - `to give someone food or drink, especially as part of a meal or in a restaurant, bar etc`
+  - 同根词
+    - adj.
+      - `serving` 用于上菜的
+      - `serviceable` 有用的，可供使用的；耐用的
+    - n.
+      - `server` 发球员；服伺者；服勤者；伺候者
+      - `serving` 服务；上菜；一份食物
+      - `serviceability` 可用性，适用性；使用可靠性；[计] 可服务性；可维修性
+      - `servicing` 维修
+    - v.
+      - `serving` 服务（serve的ing形式）
+      - `servicing` 为…服务（service的ing形式）
+  - 近义词
+    - vt. 招待，供应；为…服务；对…有用；可作…用
+      - `invite`
+      - `attend`
+      - `guest`
+    - vi. 服役，服务；适合，足够；发球；招待，侍候
+      - `gear`
+      - `help`
+  - 短语
+    - `serve as` 担任…，充当…；起…的作用 
+    - `serve for` 充当；被用作；起…的作用 
+    - `serve with` 向……提供 
+    - `serve the people` 为人民服务 
+    - `serve under someone` 在某人部下服役，在某人麾下 
+    - `serve the purpose` 管用；有助于解决 
+    - `serve on` vt. 担任...的职；担当（担任）；成为...中的一员 
+    - `serve two masters` ◎侍奉二主，不忠 
+    - `serve the needs of` 符合……的需要 
+    - `first serve` 第一发球；先招待 
+    - `serve up` 上菜，准备饭菜 
+    - `serve food` 提供食品；上菜 
+    - `serve in the army` 服兵役 
+    - `serve out` 分发口粮，服满 
+    - `right to serve` 发球权 
+    - `serve notice` 正式通知 
+    - `serve dinner` 开晚餐，上菜 
+  - 例句
+    - `The waiter was serving another table.`
+      - 那名侍应生在接待另一桌客人。
+    - `Sprinkle with cheese and serve immediately.`
+      - 撒上干酪立刻上桌。
+

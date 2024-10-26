@@ -1,0 +1,32 @@
+- expedition
+  - 发音
+    - 英 `/ˌekspə'dɪʃn/`
+    - 美 `/,ɛkspə'dɪʃən/`
+  - 词义
+    - n. 远征；探险
+    - `a long and carefully organized journey, especially to a dangerous or unfamiliar place, or the people that make this journey`
+  - 记忆
+    - ex(出) + ped(脚) + ition → 出行 → 远征(队)； 探险(队)
+  - 同根词
+    - adj.
+      - `expedite` 畅通的；迅速的；方便的
+      - `expeditious` 迅速的；敏捷的
+      - `expeditionary` 远征的；探险的；讨伐的；考察的
+    - adv.
+      - `expeditiously` 迅速地；敏捷地
+    - n.
+      - `expeditiousness` 敏捷；迅速
+    - vt.
+      - `expedite` 加快；促进；发出
+  - 近义词
+    - n. 远征；探险队；迅速
+      - `velocity`
+      - `speed`
+  - 短语
+    - `fishing expedition` 审前盘问；非法调查 
+  - 例句
+    - `an expedition to the North Pole`
+      - 北极探险
+    - `another Qomolangma expedition`
+      - 又一次珠穆朗玛峰探险
+

@@ -1,0 +1,10 @@
+- neodoxy
+  - 发音
+    - 英 `/undefined/`
+    - 美 `/undefined/`
+  - 词义
+    - n. 新学说,新见解
+  - 近义词
+    - n. 新学说；新观点
+      - `new perspective`
+      - `new view`

@@ -1,0 +1,23 @@
+- larceny
+  - 发音
+    - 英 `/'lɑːsəni/`
+    - 美 `/'lɑrsəni/`
+  - 词义
+    - n. 盗窃罪
+    - `the act or crime of stealing`
+  - 记忆
+    - larcen (偷窃) + y → 盗窃罪
+  - 同根词
+    - adj.
+      - `larcenous` 盗窃的，偷窃的；犯盗窃罪的
+    - n.
+      - `larcener` [法] 盗窃犯
+      - `larcenist` [法] 盗窃犯；盗贼
+  - 近义词
+    - n. 盗窃；盗窃罪
+      - `theft`
+      - `ripoff`
+  - 例句
+    - `Haggerman now faces two to 20 years in prison on grand larceny charges.`
+      - 哈格曼因重大盗窃罪现在面临2至20年的刑期。
+

@@ -1,0 +1,23 @@
+- lachrymose
+  - 发音
+    - 英 `/'lækrɪmous/`
+    - 美 `/'lækrɪmos/`
+  - 词义
+    - adj. 爱哭的；引人落泪的
+    - `often crying`
+  - 记忆
+    - lachrym(眼泪) + ose → 爱哭的
+  - 同根词
+    - adj.
+      - `lachrymal` 泪腺的；流泪的
+    - n.
+      - `lachrymal` 泪腺
+      - `lachrymation` 流泪；流涎
+  - 近义词
+    - adj. 爱哭的，易流泪的；悲哀的
+      - `sad`
+      - `lacrimose`
+  - 例句
+    - `...the tears of lachrymose mourners.`
+      - ...止不住哭泣的送葬者的泪水。
+

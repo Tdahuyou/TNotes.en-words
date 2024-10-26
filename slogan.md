@@ -1,0 +1,26 @@
+- slogan
+  - 发音
+    - 英 `/'slougən/`
+    - 美 `/'slogən/`
+  - 词义
+    - n. 标语，口号；广告语
+    - `a short phrase that is easy to remember and is used in advertisements, or by politicians, organizations etc`
+  - 记忆
+    - s + log(说) + an → 标语， 口号
+  - 同根词
+    - n.
+      - `sloganeer` 标语口号作者
+    - vi.
+      - `sloganeer` 使用标语口号；大量使用标语
+  - 近义词
+    - n. 标语；呐喊声
+      - `banner`
+      - `catchline`
+  - 例句
+    - `an advertising slogan`
+      - 一句广告口号
+    - `demonstrators shouting political slogans`
+      - 高喊政治口号的示威者
+    - `the Democrats’ campaign slogan`
+      - 民主党的竞选口号
+

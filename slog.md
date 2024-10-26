@@ -1,0 +1,25 @@
+- slog
+  - 发音
+    - 英 `/slɑːg/`
+    - 美 `/slɑɡ/`
+  - 词义
+    - v. 艰难行进；埋头苦干；猛击
+    - `to make a long hard journey somewhere, especially on foot`
+  - 记忆
+    - 扛着木头(log)艰难行进(slog)
+  - 同根词
+    - n.
+      - `slogger` 猛击者；乱打者；勤劳的工作者
+  - 近义词
+    - vt. 猛击；步履艰难地行
+      - `jab at`
+      - `lash out`
+    - vi. 猛击；顽强行进
+      - `drive`
+      - `belt`
+    - n. 苦干；跋涉
+      - `tug`
+  - 例句
+    - `He’s been slogging round the streets delivering catalogues.`
+      - 他奔波在街头递送商品目录。
+

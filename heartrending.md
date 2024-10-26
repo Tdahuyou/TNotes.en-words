@@ -1,0 +1,19 @@
+- heartrending
+  - 发音
+    - 英 `/'hɑːtˌrendiŋ/`
+    - 美 `/undefined/`
+  - 词义
+    - adj. 悲惨的；令人心碎的
+    - `making you feel great pity`
+  - 同根词
+    - adj.
+      - `heartening` 鼓舞人心的，令人振奋的
+      - `heartwarming` 感人的；暖人心房的
+  - 近义词
+    - adj. 悲惨的；令人心碎的
+      - `miserable`
+      - `direful`
+  - 例句
+    - `heartrending stories of children being taken from their parents`
+      - 关于孩子被人从父母身边夺走的悲伤故事
+

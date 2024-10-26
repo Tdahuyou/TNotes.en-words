@@ -1,0 +1,25 @@
+- secretarial
+  - 发音
+    - 英 `/,sekrə'teərɪəl/`
+    - 美 `/'sɛkrə'tɛrɪəl/`
+  - 词义
+    - adj. 秘书的；书记的；部长的
+    - `relating to the work of a secretary`
+  - 同根词
+    - n.
+      - `secretary` 秘书；书记；部长；大臣
+      - `secretariat` 秘书处；书记处；秘书（书记，部长等）之职
+      - `secretaire` 写字台；书桌；秘书
+      - `secretaryship` 书记、秘书等的职务或任期
+  - 近义词
+    - adj. 秘书的；书记的；部长的
+      - `ministerial`
+      - `clerical`
+  - 短语
+    - `secretarial science` 文书学 
+  - 例句
+    - `a secretarial course`
+      - 秘书课程
+    - `secretarial college`
+      - 秘书专科学校
+

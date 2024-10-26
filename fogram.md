@@ -1,0 +1,10 @@
+- fogram
+  - 发音
+    - 英 `/undefined/`
+    - 美 `/undefined/`
+  - 词义
+    - n. 过时的人,守旧的人
+  - 近义词
+    - n. 守旧的人；过时的人
+      - `has-been`
+      - `old-fogy`

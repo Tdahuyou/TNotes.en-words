@@ -1,0 +1,27 @@
+- retract
+  - 发音
+    - 英 `/rɪ'trækt/`
+    - 美 `/rɪ'trækt/`
+  - 词义
+    - v. 收回，撤销；缩回
+    - `if you retract something that you said or agreed, you say that you did not mean it`
+  - 记忆
+    - re(往后) + tract(拉) → 往后拉 → 收回； 缩回
+  - 同根词
+    - adj.
+      - `retractable` 可取消的，可缩回的；伸缩自如的
+      - `retractive` 缩进的
+    - n.
+      - `retraction` 撤回，撤销；收回
+      - `retractor` [外科] 牵开器；收缩筋；食言的人
+  - 近义词
+    - vt. 缩回；缩进；取消
+      - `recall`
+      - `abolish`
+    - vi. 缩回；缩进；撤消
+      - `repeal rescission`
+      - `take back`
+  - 例句
+    - `He confessed to the murder but later retracted his statement.`
+      - 他承认谋杀，但后来又翻供了。
+

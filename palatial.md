@@ -1,0 +1,18 @@
+- palatial
+  - 发音
+    - 英 `/pə'leiʃəl/`
+    - 美 `/pə'leʃl/`
+  - 词义
+    - adj. 富丽堂皇的；宫殿般的
+    - `a palatial building etc is large and beautifully decorated`
+  - 记忆
+    - 来自pala (ce) (宫殿) + tial → 宫殿般的
+  - 近义词
+    - adj. 宫殿似的；宏伟的；壮丽的
+      - `grand`
+      - `magnificent`
+      - `noble`
+  - 例句
+    - `a palatial country residence`
+      - 富丽堂皇的乡村住宅
+

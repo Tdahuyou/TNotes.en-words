@@ -1,0 +1,10 @@
+- sophistical
+  - 发音
+    - 英 `/sə'fistikəl/`
+    - 美 `/sə'fistikl/`
+  - 词义
+    - adj. 诡辩的；强词夺理的
+    - `of or relating to sophists or sophistry `
+  - 近义词
+    - adj. 诡辩的；强词夺理的；诡辩法的
+      - `casuistic`

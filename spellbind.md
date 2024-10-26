@@ -1,0 +1,22 @@
+- spellbind
+  - 发音
+    - 英 `/'spelbaɪnd/`
+    - 美 `/'spɛl,baɪnd/`
+  - 词义
+    - vt. 用妖术迷惑；迷住，使入迷
+    - `to cause to be spellbound; entrance or enthral `
+  - 记忆
+    - spell(咒语) + bind(绑住) → 用咒语将人绑住 → 用妖术迷惑； 迷住
+  - 同根词
+    - adj.
+      - `spellbinding` 引人入胜的
+    - n.
+      - `spelling` 拼写；拼字；拼法
+      - `spellbinder` 能吸引听众的演说家；使人入迷的小说
+    - v.
+      - `spelling` 拼写；意味着（spell的ing形式）；迷住
+      - `spellbinding` 吸引（spellbind的ing形式）
+  - 近义词
+    - vt. 迷住；用妖术迷惑
+      - `possess`
+      - `captivate`

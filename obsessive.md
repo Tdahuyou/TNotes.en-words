@@ -1,0 +1,23 @@
+- obsessive
+  - 发音
+    - 英 `/əb'sesɪv/`
+    - 美 `/əb'sesiv, ɔb-/`
+  - 词义
+    - adj. 强迫性的；着迷的；分神的
+    - `If someone's behaviour is obsessive, they cannot stop doing a particular thing or behaving in a particular way`
+  - 同根词
+    - adv.
+      - `obsessively` 过分地；着迷地，着魔似地
+    - n.
+      - `obsession` 痴迷；困扰；[内科][心理] 强迫观念
+      - `obsessiveness` 执念
+    - vt.
+      - `obsess` 迷住，缠住；使…着迷；使…困扰
+  - 近义词
+    - adj. 强迫性的；着迷的；分神的
+      - `crazy`
+      - `mad`
+  - 例句
+    - `Williams is obsessive about motor racing.`
+      - 威廉斯痴迷于赛车。
+

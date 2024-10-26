@@ -1,0 +1,33 @@
+- religion
+  - 发音
+    - 英 `/rɪ'lɪdʒən/`
+    - 美 `/rɪ'lɪdʒən/`
+  - 词义
+    - n. 宗教；宗教信仰；宗派，教派
+    - `a belief in one or more gods`
+  - 记忆
+    - re(再， 又) + lig(绑) + ion → 一再用思想束缚 → 宗教
+  - 同根词
+    - adj.
+      - `religious` 宗教的；虔诚的；严谨的；修道的
+    - n.
+      - `religious` 修道士；尼姑
+      - `religiosity` 虔诚；宗教狂；虚伪信仰
+      - `religionism` 宗教狂，笃信宗教
+      - `religionist` 笃信宗教者；宗教家
+  - 近义词
+    - n. 宗教；宗教信仰
+      - `deen`
+      - `religious belief`
+  - 短语
+    - `freedom of religion` 宗教自由 
+    - `christian religion` 基督教 
+    - `primitive religion` 原始宗教 
+    - `organized religion` 有组织的宗教；组织宗教 
+    - `philosophy of religion` 宗教哲学；宗教哲学文化 
+  - 例句
+    - `The U.S. Constitution promises freedom of religion.`
+      - 美国宪法保证宗教信仰自由。
+    - `a course on philosophy and religion`
+      - 关于哲学和宗教的课程
+

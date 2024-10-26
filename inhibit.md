@@ -1,0 +1,25 @@
+- inhibit
+  - 发音
+    - 英 `/ɪn'hɪbɪt/`
+    - 美 `/ɪn'hɪbɪt/`
+  - 词义
+    - vt. 阻碍，抑制
+    - `to prevent something from growing or developing well`
+  - 记忆
+    - in(不) + hib(拥有) + it → 使不能拥有 → 阻碍， 抑制
+  - 同根词
+    - adj.
+      - `inhibitory` 禁止的，抑制的
+    - n.
+      - `inhibition` 抑制；压抑；禁止
+      - `inhibitor` [助剂] 抑制剂，抗化剂；抑制者
+  - 近义词
+    - vt. 抑制；禁止
+      - `bar`
+      - `restrain`
+      - `control`
+      - `stay`
+  - 例句
+    - `An unhappy family life may inhibit children’s learning.`
+      - 不幸福的家庭生活可能会阻碍儿童的学习。
+

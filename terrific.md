@@ -1,0 +1,36 @@
+- terrific
+  - 发音
+    - 英 `/tə'rɪfɪk/`
+    - 美 `/tə'rɪfɪk/`
+  - 词义
+    - adj. 极好的；非常的，极度的；可怕的
+    - `very good, especially in a way that makes you feel happy and excited`
+  - 记忆
+    - terr(使惊吓) + ific(做) → 做得吓人 → 非常的； 可怕的
+  - 同根词
+    - adj.
+      - `terrible` 可怕的；很糟的；令人讨厌的
+      - `terrifying` 令人恐惧的；骇人的；极大的
+    - adv.
+      - `terrible` 很，非常
+      - `terribly` 非常；可怕地；极度地
+      - `terrifically` 极端地；可怕地；非常地
+    - n.
+      - `terribleness` 可怕
+    - v.
+      - `terrifying` 使害怕，使恐怖（terrify的现在分词）
+    - vt.
+      - `terrify` 恐吓；使恐怖；使害怕
+  - 近义词
+    - adj. 极好的；极其的，非常的；可怕的
+      - `wonderful`
+      - `excellent`
+      - `famous`
+      - `intense`
+      - `super`
+  - 例句
+    - `That’s a terrific idea!`
+      - 这个主意真棒！
+    - `The actress who played the lawyer was terrific.`
+      - 扮演律师的女演员表演十分出色。
+

@@ -1,0 +1,20 @@
+- shipshape
+  - 发音
+    - 英 `/'ʃɪpʃeɪp/`
+    - 美 `/'ʃɪpʃep/`
+  - 词义
+    - adj. 整洁干净的；井然有序的
+    - `neat and clean`
+  - 记忆
+    - ship(船)+shape(形状) → 船的形状 → 整洁干净的
+  - 近义词
+    - adj. 井然有序的；整整齐齐的；整洁干净的
+      - `well-regulated`
+    - adv. 整齐地；整洁地
+      - `regularly`
+      - `tidily`
+      - `trimly`
+  - 例句
+    - `Let’s get this house shipshape.`
+      - 让我们把这所房子收拾干净。
+

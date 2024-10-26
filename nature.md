@@ -1,0 +1,62 @@
+- nature
+  - 发音
+    - 英 `/'neɪtʃə/`
+    - 美 `/'netʃɚ/`
+  - 词义
+    - n. 大自然；自然界
+    - `everything in the physical world that is not controlled by humans, such as wild plants and animals, earth and rocks, and the weather`
+  - 记忆
+    - nat(出生的)+ure(表状态)→本性
+  - 同根词
+    - adj.
+      - `natural` 自然的；物质的；天生的；不做作的
+      - `naturalist` 自然的（等于naturalistic）；自然主义的；博物学的
+      - `naturalistic` 自然的；自然主义的；博物学的
+      - `naturalized` 归化的；入籍的；[动] 自然化的；驯化的
+    - adv.
+      - `naturally` 自然地
+    - n.
+      - `natural` 自然的事情；白痴；本位音
+      - `naturalist` 自然主义者；博物学者；（英）动物标本剥制者；买卖玩赏动物的商人
+      - `naturalism` 自然主义；本能行动；自然论
+      - `naturalness` 当然，自然
+      - `naturism` 对自然现象的崇拜；裸体主义
+      - `naturopath` 理疗家；自然疗者
+    - v.
+      - `naturalized` 使自然化；接受…入国籍；采纳（naturalize的过去式和过去分词）
+  - 近义词
+    - n. 自然；性质；本性；种类
+      - `property`
+      - `category`
+      - `variety`
+      - `manner`
+      - `kind`
+  - 短语
+    - `in nature` 本质上，事实上 
+    - `human nature` 人性；人类本性 
+    - `by nature` 天生地；生性 
+    - `nature reserve` n. 自然保护区 
+    - `second nature` 第二天性；老习惯 
+    - `true nature` 本性 
+    - `in the nature of` 具有…性质 
+    - `mother nature` 大自然；自然的力量 
+    - `back to nature` 回归自然（牧场物语） 
+    - `beauty of nature` 美丽的大自然，自然美 
+    - `good nature` n. 脾气好；温厚 
+    - `law of nature` 自然法则；自然定律 
+    - `against nature` 违反自然地；奇迹般地 
+    - `all nature` [美国口语]人人，万物 
+    - `physical nature` 物理性质 
+    - `nature protection` 自然保护 
+    - `dual nature` 二重性，双重性 
+    - `sounds of nature` 天籁；大自然的声音 
+    - `balance of nature` 生态平衡；自然平衡；自然生态平衡；自然均衡 
+    - `nature conservation` 自然保护；自然保育；自然保持 
+  - 例句
+    - `We grew up in the countryside, surrounded by the beauties of nature.`
+      - 我们在乡村长大，周围是美丽的大自然。
+    - `nature conservation`
+      - 自然保护
+    - `Disease is nature’s way of keeping the population down.`
+      - 疾病是大自然控制人口的方法。
+

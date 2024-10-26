@@ -1,0 +1,30 @@
+- plantation
+  - 发音
+    - 英 `/plæn'teɪʃn/`
+    - 美 `/plæn'teʃən/`
+  - 词义
+    - n. 种植园；人造林
+    - `a large area of land in a hot country, where crops such as tea, cotton, and sugar are grown`
+  - 记忆
+    - 来自plant(n. 植物； 种植)
+  - 同根词
+    - n.
+      - `plant` 工厂，车间；植物；设备；庄稼
+      - `planter` 种植机，[农机] 播种机；种植者；种植园主；耕作者；殖民者
+      - `planting` 栽培，种植；花圃
+    - v.
+      - `planting` 播种；移植（plant的ing形式）；安置
+    - vi.
+      - `plant` 种植
+    - vt.
+      - `plant` 种植；培养；栽培；安置
+  - 近义词
+    - n. 栽植；殖民；大农场
+      - `settlement`
+      - `colonization`
+  - 短语
+    - `tea plantation` 茶园；茶叶种植场 
+  - 例句
+    - `a rubber plantation`
+      - 橡胶园
+

@@ -1,0 +1,21 @@
+- luminary
+  - 发音
+    - 英 `/'luːminəri/`
+    - 美 `/'lʊmə'nɛri/`
+  - 词义
+    - n. 发光体；才智出众的人
+  - 记忆
+    - lumin (光) + ary (物) → 发光的物体 → 发光体
+  - 同根词
+    - adj.
+      - `luminous` 发光的；明亮的；清楚的
+    - n.
+      - `luminance` [光][电子] 亮度；[光] 发光性（等于luminosity）；光明
+  - 近义词
+    - n. 发光体；杰出人物；知识渊博的人
+      - `worthy`
+      - `luminous body`
+  - 例句
+    - `luminaries of Parisian society`
+      - 巴黎社会的名流
+

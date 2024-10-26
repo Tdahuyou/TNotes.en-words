@@ -1,0 +1,12 @@
+- locution
+  - 发音
+    - 英 `/lə'kjuːʃn/`
+    - 美 `/lo'kjʊʃən/`
+  - 词义
+    - n. 语言风格；惯用语
+    - `a phrase, especially one used in a particular area or by a particular group of people`
+  - 记忆
+    - locu(说话) + tion → 语言风格
+  - 近义词
+    - n. 说话风格；惯用语
+      - `idiomatic expression`

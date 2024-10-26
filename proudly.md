@@ -1,0 +1,19 @@
+- proudly
+  - 发音
+    - 英 `/'praudli/`
+    - 美 `/'praʊdli/`
+  - 词义
+    - adv. 骄傲地
+  - 同根词
+    - adj.
+      - `proud` 自豪的；得意的；自负的
+  - 近义词
+    - adv. 傲慢地，自负地；得意洋洋地
+      - `swaggeringly`
+      - `arrogantly`
+  - 例句
+    - `I view it as a call to action, and proudly sport it as a title.`
+      - 我却把它看作一个行为的调令，并骄傲地将它作为一个标题。
+    - `On the first day he went to school,the boy wore his school cap proudly.`
+      - 上学的第一天，男孩骄傲地戴上了他的校帽。
+

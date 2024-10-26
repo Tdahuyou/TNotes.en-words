@@ -1,0 +1,17 @@
+- reparable
+  - 发音
+    - 英 `/'repərəbl/`
+    - 美 `/'rɛpərəbl/`
+  - 词义
+    - adj. 可修缮的；可赔偿的
+    - `able to be repaired, recovered, or remedied `
+  - 记忆
+    - 来自repa (i) r (修补) + able (可以…的) → 可修缮的
+  - 近义词
+    - adj. 可修缮的；可补偿的；可挽回的
+      - `compensable`
+      - `reimbursable`
+  - 例句
+    - `a reparable loss`
+      - 
+

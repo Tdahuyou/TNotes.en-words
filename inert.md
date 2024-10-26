@@ -1,0 +1,23 @@
+- inert
+  - 发音
+    - 英 `/ɪ'nɜːrt/`
+    - 美 `/ɪ'nɝt/`
+  - 词义
+    - adj. 无活动的，惰性的；不活泼的，迟钝的
+    - `not producing a chemical reaction when combined with other substances`
+  - 记忆
+    - in(不) + ert(工作) → 不工作的 → 无活动的， 惰性的
+  - 同根词
+    - n.
+      - `inertness` 惰性；无生命力；不活泼
+  - 近义词
+    - adj. [化学]惰性的；呆滞的；迟缓的；无效的
+      - `noble`
+      - `useless`
+  - 短语
+    - `inert gas` 惰性气体 
+    - `inert atmosphere` 惰性气氛 
+  - 例句
+    - `inert gases`
+      - 惰性气体
+

@@ -1,0 +1,29 @@
+- incision
+  - 发音
+    - 英 `/ɪn'sɪʒn/`
+    - 美 `/ɪn'sɪʒən/`
+  - 词义
+    - n. 切口；切割
+    - `a neat cut made into something, especially during a medical operation`
+  - 记忆
+    - in(向内) + cis(切) + ion → 切割
+  - 同根词
+    - adj.
+      - `incisive` 深刻的；敏锐的；锋利的
+      - `incised` 雕刻的；切入的；有锯齿状边缘的
+    - n.
+      - `incisor` [解剖] 切牙；门牙
+      - `incisiveness` 敏锐；深刻
+      - `incisure` 切迹
+    - v.
+      - `incised` 雕刻（incise的过去分词）；切入
+    - vt.
+      - `incise` 切；切割；雕刻
+  - 近义词
+    - n. 切口；雕刻，切割；[外科]切开
+      - `sculpture`
+      - `carving`
+  - 例句
+    - `The technique involves making a tiny incision in the skin.`
+      - 该技术需要在皮肤上切个小口。
+

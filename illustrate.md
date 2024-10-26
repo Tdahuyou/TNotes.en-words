@@ -1,0 +1,30 @@
+- illustrate
+  - 发音
+    - 英 `/'ɪləstreɪt/`
+    - 美 `/'ɪləstret/`
+  - 词义
+    - vt. 说明，解释；加插图于；显示…存在
+    - `to make the meaning of something clearer by giving examples`
+  - 记忆
+    - il(向内) + lus(光) + trate → 向内投入光明 → 阐明
+  - 同根词
+    - adj.
+      - `illustrative` 说明的；作例证的；解说的
+    - n.
+      - `illustration` 说明；插图；例证；图解
+      - `illustrator` 插图画家；说明者；图解者
+  - 近义词
+    - vt. 阐明，举例说明；图解
+      - `clarify`
+      - `elucidate`
+    - vi. 举例
+      - `give an example`
+      - `cite an example`
+  - 短语
+    - `illustrate with` 用…来说明；给…加（插图） 
+  - 例句
+    - `Let me give an example to illustrate the point.`
+      - 让我举个例子来说明这一点。
+    - `She illustrated her discussion with diagrams.`
+      - 她用图表来说明她的论述。
+

@@ -1,0 +1,6 @@
+- picayunish
+  - 发音
+    - 英 `/ˌpɪkə'jʊːnɪʃ/`
+    - 美 `/undefined/`
+  - 词义
+    - adj. 微不足道的，不值钱的

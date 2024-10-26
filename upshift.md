@@ -1,0 +1,10 @@
+- upshift
+  - 发音
+    - 英 `/undefined/`
+    - 美 `/undefined/`
+  - 词义
+    - v. (将)(汽车)调高速挡,(使)加速
+  - 近义词
+    - vt. 加速；[公路]换高速档
+      - `soup`
+      - `increase speed`

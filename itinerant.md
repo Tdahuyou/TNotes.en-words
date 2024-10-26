@@ -1,0 +1,30 @@
+- itinerant
+  - 发音
+    - 英 `/ɪ'tɪn(ə)r(ə)nt; aɪ-/`
+    - 美 `/aɪ'tɪnərənt/`
+  - 词义
+    - adj. 巡回的；流动的
+    - `travelling from place to place, especially to work`
+    - n. 巡回者；行商
+  - 同根词
+    - adj.
+      - `itinerary` 旅程的；巡回的
+    - n.
+      - `itinerary` 路线，旅程；旅行指南
+      - `itineration` 巡回；巡回传教
+    - vi.
+      - `itinerate` 巡回；巡回传教
+  - 近义词
+    - adj. 巡回的；流动的
+      - `floating`
+      - `fluid`
+      - `flowing`
+      - `road`
+      - `running`
+    - n. 巡回者；行商
+      - `circuiter`
+      - `pedlery`
+  - 例句
+    - `itinerant labourers`
+      - 流动劳工
+

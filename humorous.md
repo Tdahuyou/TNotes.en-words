@@ -1,0 +1,38 @@
+- humorous
+  - 发音
+    - 英 `/'hjuːm(ə)rəs/`
+    - 美 `/'hjumərəs/`
+  - 词义
+    - adj. 幽默的；滑稽的
+    - `funny and enjoyable`
+  - 记忆
+    - 来自humor(n. 幽默)
+  - 同根词
+    - adj.
+      - `humourous` 幽默的，诙谐的；滑稽的
+      - `humorless` 非常严肃的；缺少幽默感的
+      - `humourless` 缺乏幽默感的；一本正经的
+    - adv.
+      - `humorlessly` 缺乏幽默感地；一本正经地
+      - `humorously` 幽默地；滑稽地
+    - n.
+      - `humor` 幽默，诙谐；心情
+      - `humour` 幽默（等于humor）；诙谐
+      - `humorist` 幽默作家；富于幽默感的人
+      - `humorousness` 幽默；滑稽
+      - `humourist` 幽默家；滑稽者
+    - vt.
+      - `humor` 迎合，迁就；顺应
+      - `humour` 迁就；使满足
+  - 近义词
+    - adj. 诙谐的，幽默的；滑稽的，可笑的
+      - `funny`
+      - `witty`
+  - 短语
+    - `humorous story` 幽默小说 
+  - 例句
+    - `humorous stories`
+      - 诙谐的故事
+    - `The film has some mildly humorous moments.`
+      - 那部电影中有些略显幽默的片段。
+

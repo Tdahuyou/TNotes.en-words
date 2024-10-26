@@ -1,0 +1,30 @@
+- participant
+  - 发音
+    - 英 `/pɑːr'tɪsɪpənt/`
+    - 美 `/pɑr'tɪsəpənt/`
+  - 词义
+    - n. 参与者；参赛者
+    - `someone who is taking part in an activity or event`
+  - 记忆
+    - part(部分) + i + cip(拿， 取) + ant(表人， 名词后缀) → 只拿住部分的人 → 参与者
+  - 同根词
+    - adj.
+      - `participating` 由多人一起参加的；（股票等）持有人有权分享利益的
+      - `participatory` 供人分享的；吸引参与的
+    - n.
+      - `participation` 参与；分享；参股
+    - v.
+      - `participating` 参加（participate的ing形式）
+    - vi.
+      - `participate` 参与，参加；分享
+    - vt.
+      - `participate` 分享；分担
+  - 近义词
+    - adj. 参与的；有关系的
+      - `related`
+  - 短语
+    - `participant observation` 参与观察 
+  - 例句
+    - `40 of the course participants are offered employment with the company.`
+      - 参加课程学习的人中有40名得到了在该公司工作的机会。
+

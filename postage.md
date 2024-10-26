@@ -1,0 +1,32 @@
+- postage
+  - 发音
+    - 英 `/'poustɪdʒ/`
+    - 美 `/'postɪdʒ/`
+  - 词义
+    - n. 邮资，邮费
+    - `the money charged for sending a letter, package etc by post`
+  - 记忆
+    - post(邮寄) + age(集体名词后缀) → 邮资， 邮费
+  - 同根词
+    - adj.
+      - `postal` 邮政的；邮局的
+    - n.
+      - `post` 岗位；邮件；标杆
+      - `postal` 明信片
+      - `posting` 记录；[会计] 过帐；委派
+    - v.
+      - `posting` 公布；邮递；布置（post的ing形式）
+    - vi.
+      - `post` 快速行进
+    - vt.
+      - `post` 张贴；公布；邮递；布置
+  - 近义词
+    - n. [邮]邮资，邮费
+      - `taxe`
+      - `franking`
+  - 短语
+    - `postage stamp` n. 邮票 
+  - 例句
+    - `How much is the postage for a postcard?`
+      - 寄一张明信片的邮资是多少？
+

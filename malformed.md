@@ -1,0 +1,18 @@
+- malformed
+  - 发音
+    - 英 `/undefined/`
+    - 美 `/,mæl'fɔrmd/`
+  - 词义
+    - adj. 畸形的，难看的
+    - `if a part of someone’s body is malformed, it is badly formed`
+  - 同根词
+    - n.
+      - `malformation` 畸形；变形
+  - 近义词
+    - adj. 畸形的，难看的
+      - `thrawn`
+      - `freaky`
+  - 例句
+    - `malformed limbs`
+      - 畸形的四肢
+

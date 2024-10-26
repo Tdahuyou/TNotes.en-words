@@ -1,0 +1,34 @@
+- kinetic
+  - 发音
+    - 英 `/kɪ'netɪk/`
+    - 美 `/kɪ'nɛtɪk/`
+  - 词义
+    - adj. 运动的，运动引起的；动力学的
+    - `relating to movement`
+  - 记忆
+    - kine(动) + tic → 运动的
+  - 同根词
+    - adj.
+      - `kinesthetic` 动觉的（等于kinaesthetic）；肌肉运动知觉的
+    - n.
+      - `kinematics` 运动学；动力学
+      - `kinesiology` 运动机能学；人体运动学
+      - `kinesis` 运动；动作
+      - `kinesthesia` 运动觉，动觉；肌肉运动知觉
+  - 近义词
+    - adj. [力]运动的；活跃的
+      - `active`
+      - `excited`
+      - `sport`
+      - `living`
+      - `athletic`
+  - 短语
+    - `kinetic energy` [物]动能 
+    - `kinetic theory` 动力论；分子运动论 
+    - `kinetic characteristic` 动力学特性，动态特性 
+    - `theorem of kinetic energy` 动能定理 
+    - `kinetic art` 活动艺术；动态艺术 
+  - 例句
+    - `kinetic energy`
+      - 动能
+

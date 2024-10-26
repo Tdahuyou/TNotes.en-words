@@ -1,0 +1,22 @@
+- peppery
+  - 发音
+    - 英 `/'pep(ə)rɪ/`
+    - 美 `/'pɛpəri/`
+  - 词义
+    - adj. 胡椒的,辛辣的
+    - `tasting or smelling of pepper`
+  - 同根词
+    - n.
+      - `pepper` 胡椒；辣椒；胡椒粉
+      - `peppermint` 薄荷；薄荷油；胡椒薄荷；薄荷糖（等于mint）
+      - `peppercorn` 干胡椒；象征性租金；空有其名的象征性房租
+    - vt.
+      - `pepper` 加胡椒粉于；使布满
+  - 近义词
+    - adj. 辛辣的；胡椒味的；暴躁的
+      - `fierce`
+      - `spicy`
+  - 例句
+    - `...a crisp green salad with a few peppery radishes.`
+      - ...用几个辣味萝卜拌的一道脆口蔬菜色拉。
+

@@ -1,0 +1,53 @@
+- instruction
+  - 发音
+    - 英 `/ɪn'strʌkʃn/`
+    - 美 `/ɪn'strʌkʃən/`
+  - 词义
+    - adj. 说明用法的
+    - n. 教导；
+    - `teaching that you are given in a particular skill or subject`
+  - 同根词
+    - adj.
+      - `instructive` 有益的；教育性的
+      - `instructional` 教学的；指导的，教育的
+    - adv.
+      - `instructively` 有益地；教育地
+    - n.
+      - `instructor` 指导书；教员；指导者
+      - `instructress` 女教师；女指导
+    - vt.
+      - `instruct` 指导；通知；命令；教授
+  - 近义词
+    - n. 指令，命令；指示；教导；用法说明
+      - `direction`
+      - `order`
+      - `bidding`
+      - `word`
+      - `charge`
+  - 短语
+    - `classroom instruction` 课堂教学；课程设计 
+    - `instruction set` 指令组（表），指令系统 
+    - `work instruction` 作业指导；工作指令 
+    - `instruction manual` 安装手册，操作工序说明书；工艺规范 
+    - `working instruction` 操作说明书；工作细则 
+    - `medium of instruction` 教学媒体，教学方法 
+    - `operation instruction` 使用说明；操作指令 
+    - `computer-aided instruction` 电脑辅助教学 
+    - `instruction book` 说明书 
+    - `language of instruction` 教学语言 
+    - `special instruction` 特殊指令，专用指令 
+    - `operating instruction` 操作指南；使用说明书 
+    - `instruction sheet` n. 指示表 
+    - `scaffolding instruction` 支架式教学 
+    - `written instruction` 书面指示 
+    - `direct instruction` 直接指令 
+    - `programmed instruction` 程序教学 
+    - `macro instruction` 广义指令，宏指令 
+    - `machine instruction` 机器指令 
+    - `basic instruction` [电]基本指令 
+  - 例句
+    - `religious instruction`
+      - 宗教教义
+    - `driving instruction`
+      - 驾驶技术指导
+

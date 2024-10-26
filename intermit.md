@@ -1,0 +1,20 @@
+- intermit
+  - 发音
+    - 英 `/ˌintə'mit/`
+    - 美 `/'ɪntɚ'mɪt/`
+  - 词义
+    - v. 间歇，中断
+    - `to suspend (activity) or (of activity) to be suspended temporarily or at intervals `
+  - 同根词
+    - adj.
+      - `intermittent` 间歇的，断断续续的
+    - n.
+      - `intermission` 幕间休息；暂停；中断
+      - `intermittence` 时断时续，间歇性；周期性
+      - `intermitter` 间歇抽油装置；间歇调节器
+  - 近义词
+    - vt. 使中断
+      - `disrupt`
+    - vi. 中断
+      - `black out`
+      - `cut off`

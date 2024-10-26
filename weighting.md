@@ -1,0 +1,41 @@
+- weighting
+  - 发音
+    - 英 `/'weitiŋ/`
+    - 美 `/undefined/`
+  - 词义
+    - n. 额外津贴
+    - `additional money that you get paid because of the high cost of living in a particular area`
+  - 同根词
+    - adj.
+      - `weighted` [数] 加权的；加重的；衡量过的
+      - `weighty` 重的；重大的；严肃的
+      - `weightless` 失重的；无重量的
+    - adv.
+      - `weightily` 重要地；沉重地
+    - n.
+      - `weight` 重量，重力；负担；砝码；重要性
+      - `weigh` 权衡；称重量
+      - `weighing` 称重量；考虑权衡；悬浮
+      - `weightlessness` 失重；无重状态
+      - `weightiness` 重；重要性
+    - v.
+      - `weighing` 称量（weigh的现在分词形式）；考虑斟酌
+      - `weighted` 加重量于…；重压（weight的过去分词）
+    - vi.
+      - `weigh` 重量为…；具有重要性；成为…的重荷；起锚
+    - vt.
+      - `weight` 加重量于，使变重
+      - `weigh` 权衡；考虑；称…重量
+  - 近义词
+    - n. 加重，加权；衡量；（英）生活补贴
+      - `measuring`
+      - `scalage`
+  - 短语
+    - `weighting method` 加权法 
+    - `weighting function` 权重函数 
+    - `weighting coefficient` 加权系数 
+    - `weighting factor` 权重因数 
+  - 例句
+    - `salary £24,000 plus £2,400 London weighting`
+      - 2.4万英镑工资，外加2,400英镑伦敦生活补贴
+

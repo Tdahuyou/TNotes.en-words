@@ -1,0 +1,14 @@
+- priggish
+  - 发音
+    - 英 `/'prigiʃ/`
+    - 美 `/'prigiʃ/`
+  - 词义
+    - adj. 自负的
+    - `If you describe someone as priggish, you think that they are a prig`
+  - 同根词
+    - n.
+      - `prig` 一本正经的人；小偷
+  - 近义词
+    - adj. 一本正经的；自负的；死板的
+      - `proud`
+      - `rigid`

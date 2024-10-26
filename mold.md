@@ -1,0 +1,55 @@
+- mold
+  - 发音
+    - 英 `/mould/`
+    - 美 `/mold/`
+  - 词义
+    - n. 霉菌；模型
+    - vt. 塑造
+  - 同根词
+    - adj.
+      - `moldy` 发霉的；乏味的；陈腐的
+      - `moldable` 可塑造的
+    - n.
+      - `molding` 模塑；铸造；装饰用的嵌线
+      - `molder` 铸工；造模者；砂模技工
+      - `moldiness` 霉臭
+    - vi.
+      - `molder` 腐朽；崩塌
+    - vt.
+      - `molder` 使…崩塌；使…腐朽
+  - 近义词
+    - vt. 塑造；使发霉；用模子制作
+      - `model`
+      - `form`
+    - vi. 发霉
+      - `mould`
+    - n. 霉菌；模子
+      - `fungus`
+      - `mycete`
+  - 短语
+    - `injection mold` 注塑模具 
+    - `mold temperature` 模具温度，成型温度；铸模温度 
+    - `mold making` 机械模具 
+    - `casting mold` 铸型，铸模 
+    - `mold cavity` 模穴；铸模型腔；结晶苹 
+    - `sand mold` 砂型，沙模 
+    - `rubber mold` 橡胶模；橡皮铸型 
+    - `mold steel` 模具钢；型模钢 
+    - `permanent mold` 永久铸模；金属铸模 
+    - `open mold` 敝模，明浇铸型 
+    - `mold base` 模胚，模架；塑胶模座；型基体 
+    - `mold core` 型芯；模芯 
+    - `mold release` 脱模剂；脱模 
+    - `plaster mold` 石膏模型 
+    - `die mold` 压模，压铸模 
+    - `permanent mold casting` 金属型铸造；冷硬铸造 
+    - `blow mold` 吹制模 
+    - `green sand mold` 湿砂模；湿砂型 
+    - `gypsum mold` 石膏模型 
+    - `compression mold` 压模 
+  - 例句
+    - `Because of its flexibility, we can mold software into any form to do almost anything.`
+      - 由于灵活性，我们可以将软件塑造成任何形式从而处理几乎所有的问题。
+    - `The women of a nation mold its morals, its religion, and its politics by the lives they live.`
+      - 一个国家的妇女通过她们的生活方式塑造了这个国家的道德、宗教和政治。
+

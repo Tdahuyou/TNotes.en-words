@@ -1,0 +1,51 @@
+- fantasy
+  - 发音
+    - 英 `/'fæntəsi/`
+    - 美 `/'fæntəsi/`
+  - 词义
+    - n. 想象，幻想
+    - `an exciting and unusual experience or situation you imagine happening to you, but which will probably never happen`
+  - 记忆
+    - 游戏《最终幻想》的英文名为Final Fantasy
+  - 同根词
+    - adj.
+      - `fantastic` 奇异的；空想的；极好的；不可思议的
+      - `fantastical` 空想的；捕风捉影的
+    - adv.
+      - `fantastically` 想像中地；奇特地；难以置信地
+    - n.
+      - `fantastic` 古怪的人
+      - `fantasia` 幻想曲；集成曲；幻想作品
+      - `fantasist` 幻想曲作曲家
+      - `fantasm` 幻觉
+      - `fantast` 幻想家；梦想家；脾气古怪的人
+    - vi.
+      - `fantasize` 幻想
+      - `fantasise` 耽于幻想
+    - vt.
+      - `fantasize` 幻想；想像
+      - `fantasise` 幻想（等于fantasize）
+  - 近义词
+    - n. [心理]幻想；白日梦；幻觉
+      - `fancy`
+      - `illusion`
+    - adj. 虚幻的
+      - `visional`
+    - vt. 空想；想像
+      - `imagine`
+      - `picture`
+      - `think of`
+    - vi. 耽于幻想；奏幻想曲（等于phantasy）
+      - `stargaze`
+  - 短语
+    - `sex fantasy` 性幻想 
+  - 例句
+    - `I used to have fantasies about living in Paris with an artist.`
+      - 我过去常幻想着在巴黎与一位艺术家同住。
+    - `sexual fantasies`
+      - 性幻想
+    - `Young children sometimes can’t distinguish between fantasy and reality.`
+      - 小孩子有时不能区分幻想与现实。
+    - `He lived in a fantasy world of his own, even as a small boy.`
+      - 甚至还是个小孩子的时候，他就生活在一个幻想世界里。
+

@@ -1,0 +1,36 @@
+- noticeable
+  - 发音
+    - 英 `/'noutɪsəbl/`
+    - 美 `/'notɪsəbl/`
+  - 词义
+    - adj. 明显的，值得注意的
+    - `easy to notice`
+  - 记忆
+    - notice(注意) + able(能…的) → 值得注意的
+  - 同根词
+    - adj.
+      - `noted` 著名的；显著的；附有乐谱的
+      - `noteworthy` 值得注意的；显著的
+    - adv.
+      - `noticeably` 显著地，明显地；引人注目地
+    - n.
+      - `notice` 通知，布告；注意；公告
+    - v.
+      - `noted` 注意；记下（note的过去式和过去分词）
+    - vi.
+      - `notice` 引起注意
+    - vt.
+      - `notice` 通知；注意到；留心
+  - 近义词
+    - adj. 显而易见的，显著的；值得注意的
+      - `obvious`
+      - `prominent`
+      - `remarkable`
+      - `marked`
+      - `noted`
+  - 例句
+    - `Alcohol has a noticeable effect on the body.`
+      - 酒精对身体有明显的影响。
+    - `It was noticeable that many of them avoided answering the question.`
+      - 显而易见，他们中的许多人对这个问题都避而不答。
+

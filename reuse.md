@@ -1,0 +1,17 @@
+- reuse
+  - 发音
+    - 英 `/riː'juːz/`
+    - 美 `/,ri'jʊs/`
+  - 词义
+    - v. 再次使用；重复利用
+    - `to use something again`
+  - 近义词
+    - n. 重新使用，再用
+      - `reemployment`
+  - 短语
+    - `software reuse` 软件复用；软件重用 
+    - `water reuse` n. 废水利用，回用水 
+  - 例句
+    - `The bottles are designed to be reused up to 20 times.`
+      - 这些瓶子最多可供重复使用20次。
+

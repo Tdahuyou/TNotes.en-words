@@ -1,0 +1,27 @@
+- laxative
+  - 发音
+    - 英 `/'læksətiv/`
+    - 美 `/'læksətɪv/`
+  - 词义
+    - adj. 通便的
+  - 记忆
+    - lax (松) + ative → 放松的； 轻泻药 → 通便的
+  - 同根词
+    - adj.
+      - `lax` 松的；松懈的；腹泻的
+    - adv.
+      - `laxatively` 放肆地
+      - `laxly` 松懈地；缓慢地
+    - n.
+      - `lax` 松元音；泻肚
+      - `laxation` 松弛；松懈；轻泻；排粪
+  - 近义词
+    - n. [药]泻药；缓泻药
+      - `jalap`
+      - `purger`
+    - adj. 通便的
+      - `aperient`
+  - 例句
+    - `Never, under any circumstances, take a sleeping pill and a laxative on the same night.`
+      - 无论，在任何情况下，永远，不要在一个夜晚，同时吃，安眠药，和通便灵。
+

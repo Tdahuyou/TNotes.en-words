@@ -1,0 +1,33 @@
+- retrograde
+  - 发音
+    - 英 `/'retrəuˌgreid/`
+    - 美 `/'rɛtrəɡred/`
+  - 词义
+    - adj. 倒退的
+    - `involving a return to an earlier and worse situation`
+  - 记忆
+    - retro (向后) + grade (步伐； 走) → 向后走 → 倒退的
+  - 同根词
+    - adj.
+      - `retrogressive` 倒退的；退化的
+    - n.
+      - `retrogression` [医] 退化；后退
+    - vi.
+      - `retrogress` 倒退，退化
+  - 近义词
+    - adj. 倒退的；[生物]退化的；次序颠倒的
+      - `reversionary`
+      - `degenerative`
+    - vi. [天]逆行；倒退；退步
+      - `reverse`
+      - `stem`
+    - adv. 倒退地；向后地
+      - `backward`
+      - `sternforemost`
+  - 短语
+    - `in retrograde` 向后；倒退地 
+    - `retrograde amnesia` 逆行性遗忘 
+  - 例句
+    - `The closure of the factories is seen as a retrograde step .`
+      - 工厂的关闭被认为是一个退步。
+

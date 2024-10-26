@@ -1,0 +1,17 @@
+- salvageable
+  - 发音
+    - 英 `/'sælvidʒəbl/`
+    - 美 `/undefined/`
+  - 词义
+    - adj. 可抢救的；可打捞的；可挽救的
+  - 记忆
+    - 来自salvage (v. 抢救) + able → 可抢救的
+  - 同根词
+    - n.
+      - `salvage` 打捞；海上救助；抢救财货；救难的奖金
+      - `salvager` 拯救者；救援人员
+    - vt.
+      - `salvage` 抢救；海上救助
+  - 近义词
+    - adj. 可抢救的；可打捞的；可挽回的；能利用的
+      - `repairable`

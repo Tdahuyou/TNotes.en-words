@@ -1,0 +1,11 @@
+- maestro
+  - 发音
+    - 英 `/'maɪstrəʊ/`
+    - 美 `/'maɪstro/`
+  - 词义
+    - n. 艺术大师,名作曲家
+    - `someone who can do something very well, especially a musician`
+  - 近义词
+    - n. 大师；名家；大音乐家
+      - `artist`
+      - `Morenu`

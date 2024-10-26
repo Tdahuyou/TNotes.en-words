@@ -1,0 +1,25 @@
+- penitent
+  - 发音
+    - 英 `/'penitənt/`
+    - 美 `/'pɛnətənt/`
+  - 词义
+    - adj. 忏悔的；悔过的
+    - `feeling sorry because you have done something wrong, and are intending not to do it again`
+  - 同根词
+    - adj.
+      - `penitentiary` 应处监禁的；监禁的；忏悔的（等于penitential）
+      - `penitential` 赎罪的；后悔的；悔罪的
+    - n.
+      - `penitence` 后悔；赎罪
+      - `penitentiary` 监狱；教养所；宗教裁判所
+      - `penitential` 悔罪规则书；悔罪者
+  - 近义词
+    - adj. 忏悔的，悔过的
+      - `confessional`
+    - n. 悔罪者，忏悔者
+      - `confessor`
+      - `mourner`
+  - 例句
+    - `a penitent expression`
+      - 愧疚的表情
+

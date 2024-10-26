@@ -1,0 +1,25 @@
+- subversive
+  - 发音
+    - 英 `/səb'vɜːrsɪv/`
+    - 美 `/sʌb'vɝsɪv/`
+  - 词义
+    - adj. 颠覆性的，破坏性的
+    - `subversive ideas, activities etc are secret and intended to damage or destroy a government or an established system`
+    - n. 颠覆分子
+    - `someone who secretly tries to damage or destroy the government or an established system`
+  - 记忆
+    - sub(在…下面) + vers(转) + ive(形容词后缀) → 在下面翻转的 → 颠覆性的
+  - 同根词
+    - n.
+      - `subversion` 颠覆；破坏
+      - `subversiveness` 颠覆；破坏
+      - `subverter` 颠覆者；破坏者
+    - vt.
+      - `subvert` 颠覆；推翻；破坏
+  - 近义词
+    - adj. 破坏性的；从事颠覆的
+      - `ruinous`
+  - 例句
+    - `He was engaged in subversive activities .`
+      - 他参与了颠覆活动。
+

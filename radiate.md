@@ -1,0 +1,43 @@
+- radiate
+  - 发音
+    - 英 `/'reɪdieɪt/`
+    - 美 `/'redɪet/`
+  - 词义
+    - v. 辐射，发射；流露，显示；自中心向各方伸展
+    - `if someone radiates a feeling, or if it radiates from them, it is very easy to see that this is how they feel`
+  - 记忆
+    - radi(光线) + ate → 发出光线 → 辐射， 发射
+  - 同根词
+    - adj.
+      - `radial` 半径的；放射状的；光线的；光线状的
+      - `radiant` 辐射的；容光焕发的；光芒四射的
+      - `radiating` [物] 辐射的
+    - adv.
+      - `radially` 放射状地
+    - n.
+      - `radiation` 辐射；发光；放射物
+      - `radial` 射线，光线
+      - `radiator` 散热器；暖气片；辐射体
+      - `radiant` 光点；发光的物体
+      - `radiance` 辐射；光辉；发光；容光焕发
+      - `radiancy` 辐射，辐射率；光彩
+    - v.
+      - `radiating` 辐射（radiate的ing形式）
+  - 近义词
+    - vt. [物]辐射；传播；流露；发射；广播
+      - `release`
+      - `send`
+      - `broadcast`
+      - `beam`
+      - `project`
+    - vi. [物]辐射；流露；发光；从中心向各方伸展
+      - `shine on`
+      - `light emission`
+    - adj. [物]辐射状的，有射线的
+      - `spokewise`
+  - 短语
+    - `radiate from` 从……发出 
+  - 例句
+    - `He radiated calm confidence.`
+      - 他身上散发着沉稳自信的气质。
+

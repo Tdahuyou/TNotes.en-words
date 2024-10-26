@@ -1,0 +1,32 @@
+- hesitation
+  - 发音
+    - 英 `/ˌhezi'teiʃən/`
+    - 美 `/,hɛzə'teʃən/`
+  - 词义
+    - n. 踌躇，含糊；口吃，停顿
+  - 记忆
+    - 来自hesitate (v. 犹豫， 踌躇)
+  - 同根词
+    - adj.
+      - `hesitant` 迟疑的；踌躇的；犹豫不定的
+      - `hesitating` 犹豫的
+      - `hesitative` 支吾其辞的；踌躇的
+    - n.
+      - `hesitance` 踌躇；犹豫
+      - `hesitancy` 踌躇，犹豫
+    - v.
+      - `hesitating` 犹豫（hesitate的ing形式）
+    - vi.
+      - `hesitate` 踌躇，犹豫；不愿
+    - vt.
+      - `hesitate` 踌躇，犹豫；有疑虑，不愿意
+  - 近义词
+    - n. 犹豫
+      - `vibration`
+      - `swither`
+  - 短语
+    - `without hesitation` adj. 毫不犹豫的 
+  - 例句
+    - `After some hesitation one of them began to speak.`
+      - 犹豫了一会儿之后，他们中有一个人开口了。
+

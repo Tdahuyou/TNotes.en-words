@@ -1,0 +1,21 @@
+- gumption
+  - 发音
+    - 英 `/'gʌmpʃn/`
+    - 美 `/'ɡʌmpʃən/`
+  - 词义
+    - n. 进取心，魄力；精明强干
+    - `the ability and determination to decide what needs to be done and to do it`
+  - 同根词
+    - adj.
+      - `gumptious` 机灵的；精明能干的；精力充沛的
+  - 近义词
+    - n. 进取心；气概；精力
+      - `enterprise`
+      - `energy`
+      - `steam`
+      - `push`
+      - `vigor`
+  - 例句
+    - `At least she had the gumption to phone me.`
+      - 至少她有这个头脑，给我打了电话。
+

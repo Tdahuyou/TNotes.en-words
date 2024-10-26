@@ -1,0 +1,27 @@
+- illegitimate
+  - 发音
+    - 英 `/,ɪlɪ'dʒɪtɪmət/`
+    - 美 `/,ɪlɪ'dʒɪtɪmet/`
+  - 词义
+    - adj. 私生的；非法的；不合理的
+    - `born to parents who are not married`
+    - vt. 认做私生子；认为违法
+    - n. 非嫡出子；庶子
+  - 同根词
+    - adv.
+      - `illegally` 非法地
+    - n.
+      - `illegality` 违法；[法] 非法行为；犯规
+      - `illegitimacy` 私生；不法；反常，不合逻辑
+    - vt.
+      - `illegalize` 使成为非法；宣布…为非法；使违规
+  - 近义词
+    - adj. 私生的；非法的；不合理的
+      - `unreasonable`
+      - `unlawful`
+  - 短语
+    - `illegitimate child` 非婚生子女，私生子 
+  - 例句
+    - `his illegitimate son`
+      - 他的私生子
+

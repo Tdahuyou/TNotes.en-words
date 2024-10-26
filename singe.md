@@ -1,0 +1,22 @@
+- singe
+  - 发音
+    - 英 `/sindʒ/`
+    - 美 `/sɪndʒ/`
+  - 词义
+    - v. 烧焦，烤焦
+    - `to burn the surface of something slightly, or to be burned slightly`
+  - 记忆
+    - sing (唱； 作响) + e → 烧焦的木材噼啪作响 → 烧焦
+  - 近义词
+    - vt. 烧焦；烤焦
+      - `air burn`
+      - `scorch`
+    - vi. 烧焦；烤焦
+      - `air burn`
+      - `char`
+    - n. 烧焦；烤焦
+      - `scorch`
+  - 例句
+    - `The flames had singed her hair.`
+      - 火焰燎了她的头发。
+

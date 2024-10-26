@@ -1,0 +1,28 @@
+- hackneyed
+  - 发音
+    - 英 `/'hæknid/`
+    - 美 `/'hæknɪd/`
+  - 词义
+    - adj. 陈腐的；常见的
+    - `a hackneyed phrase is boring and does not have much meaning because it has been used so often`
+  - 记忆
+    - 如今连黑客 (hacker) 都很常见 (hackneyed) 了
+  - 同根词
+    - adj.
+      - `hackney` 供出租的
+    - n.
+      - `hack` 砍，劈；出租马车
+      - `hackney` 乘用马；出租马车；出租汽车；操贱役的人
+    - vi.
+      - `hack` 砍
+    - vt.
+      - `hack` 砍；出租
+      - `hackney` 役使；出租
+  - 近义词
+    - adj. 陈腐的；平庸的
+      - `banal`
+      - `trite`
+  - 例句
+    - `Power corrupts and absolute power corrupts absolutely. That's the old hackneyed phrase, but it's true.`
+      - 权力导致腐败，绝对权力导致绝对腐败。这虽是老生常谈，但无半点虚言。
+

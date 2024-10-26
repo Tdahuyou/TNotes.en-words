@@ -1,0 +1,13 @@
+- inferno
+  - 发音
+    - 英 `/ɪn'fɜːnəʊ/`
+    - 美 `/in'fə:nəu/`
+  - 词义
+    - n. 阴间,地狱
+  - 同根词
+    - adj.
+      - `infernal` 地狱的；恶魔的；可憎的
+  - 近义词
+    - n. 阴间，地狱
+      - `hell`
+      - `nether world`

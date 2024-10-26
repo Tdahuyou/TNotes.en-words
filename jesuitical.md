@@ -1,0 +1,13 @@
+- jesuitical
+  - 发音
+    - 英 `/undefined/`
+    - 美 `/undefined/`
+  - 词义
+    - adj. 阴险的；虚伪的
+  - 同根词
+    - n.
+      - `jesuitry` 狡猾；阴险；耶稣会教义
+  - 近义词
+    - adj. 虚伪的；阴险的
+      - `artificial`
+      - `false`

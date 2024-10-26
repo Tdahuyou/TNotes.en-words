@@ -1,0 +1,22 @@
+- schoolwork
+  - 发音
+    - 英 `/'skuːlwɜːk/`
+    - 美 `/'skʊl,wɝk/`
+  - 词义
+    - n. 学生课业；功课
+    - `work done for or during school classes`
+  - 记忆
+    - school(学校)+work(工作)→学校作业
+  - 同根词
+    - n.
+      - `schooling` 学校教育；学费
+    - v.
+      - `schooling` 教育（school的ing形式）；培养
+  - 近义词
+    - n. 家庭作业；学校作业
+      - `homework`
+      - `home study`
+  - 例句
+    - `My mother would help me with my schoolwork.`
+      - 我的母亲会帮我做功课。
+

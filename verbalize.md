@@ -1,0 +1,30 @@
+- verbalize
+  - 发音
+    - 英 `/'vɜːrbəlaɪz/`
+    - 美 `/'vɝbəlaɪz/`
+  - 词义
+    - v. 用言语表达
+    - `to express something in words`
+  - 记忆
+    - verb(言语) + al + ize(动词后缀) → 用言语(或文字)表达
+  - 同根词
+    - adj.
+      - `verbal` 口头的；言语的；动词的；照字面的
+      - `verb` 动词的；有动词性质的；起动词作用的
+    - adv.
+      - `verbally` 口头地，非书面地；用言辞地
+    - n.
+      - `verbal` 动词的非谓语形式
+      - `verb` 动词；动词词性；动词性短语或从句
+      - `verbosity` 冗长；赘言；唠叨
+      - `verbalism` 咬文嚼字；冗词；言语表达；套话
+      - `verbalization` 以言语表现；冗长；变成动词
+    - vt.
+      - `verbify` 使动词化
+  - 近义词
+    - vi. 累赘；唠叨；以言语表述
+      - `rabbit on`
+  - 例句
+    - `Urge your child to verbalize his feelings.`
+      - 鼓励你的孩子用言语表达自己的情感。
+

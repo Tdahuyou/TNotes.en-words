@@ -1,0 +1,24 @@
+- snob
+  - 发音
+    - 英 `/snɒb/`
+    - 美 `/snɑb/`
+  - 词义
+    - n. 势利小人，势利眼；假内行
+    - `someone who thinks they are better than people from a lower social class – used to show disapproval`
+  - 同根词
+    - adj.
+      - `snobbish` 势利的
+      - `snobby` 势利的（等于snobbish）
+    - n.
+      - `snobbery` 势利，谄上欺下；摆绅士架子；势利的行为或语言
+      - `snobbishness` 势利
+      - `snobbism` 势利
+  - 近义词
+    - n. 势利小人，势利眼；假内行
+      - `tuft-hunter`
+  - 例句
+    - `Stop being such a snob.`
+      - 别这么势利眼。
+    - `I don’t want to sound like a snob, but I thought she was vulgar.`
+      - 我不想像个势利小人，但我觉得她就是庸俗。
+

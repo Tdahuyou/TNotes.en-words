@@ -1,0 +1,20 @@
+- unpopular
+  - 发音
+    - 英 `/ʌn'pɒpjʊlə/`
+    - 美 `/ʌn'pɑpjəlɚ/`
+  - 词义
+    - adj. 不流行的,不受欢迎的
+    - `not liked by most people`
+  - 同根词
+    - n.
+      - `unpopularity` 不受欢迎；不得人心
+  - 近义词
+    - adj. 不流行的，不受欢迎的
+      - `unacceptable`
+      - `undesired`
+  - 例句
+    - `an unpopular choice`
+      - 不得人心的选择
+    - `an unpopular teacher`
+      - 不受欢迎的老师
+

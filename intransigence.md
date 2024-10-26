@@ -1,0 +1,16 @@
+- intransigence
+  - 发音
+    - 英 `/undefined/`
+    - 美 `/in'trænsidʒəns,-dʒənsi/`
+  - 词义
+    - n. 不妥协态度,不让步,不调和
+  - 同根词
+    - adj.
+      - `intransigent` 不妥协的；不让步的
+    - n.
+      - `intransigent` 不妥协的人
+      - `intransigency` 不妥协态度；不让步
+  - 近义词
+    - n. 不妥协；不让步；不调和
+      - `disharmony`
+      - `dissonance`

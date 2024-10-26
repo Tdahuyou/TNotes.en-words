@@ -1,0 +1,23 @@
+- yesterday
+  - 发音
+    - 英 `/ˈjestədɪ;-deɪ/`
+    - 美 `/ˈjɛstɚdɪ;-de/`
+  - 词义
+    - adv. （在）昨天
+    - `on or during the day before today`
+  - 同根词
+    - n.
+      - `yesterdayness` 近来
+  - 近义词
+    - n. 昨天；往昔
+      - `ayer`
+  - 短语
+    - `yesterday morning` 昨天早上 
+    - `yesterday evening` 昨天晚上，前晚 
+    - `day before yesterday` 前天 
+    - `since yesterday` 从昨天 
+    - `born yesterday` 乳臭未干 
+  - 例句
+    - `What did you do yesterday?`
+      - 昨天你做了什么？
+

@@ -1,0 +1,17 @@
+- headquarters
+  - 发音
+    - 英 `/hed'kwɔːtəz/`
+    - 美 `/'hɛdkwɔrtɚz/`
+  - 词义
+    - n. 总部；指挥部；司令部
+    - `the main building or offices used by a large company or organization`
+  - 近义词
+    - n. 总部；指挥部；司令部
+      - `command`
+      - `main office`
+  - 短语
+    - `general headquarters` 陆军总司令部 
+  - 例句
+    - `the headquarters of the United Nations`
+      - 联合国总部
+

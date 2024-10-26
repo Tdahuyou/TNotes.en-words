@@ -1,0 +1,17 @@
+- forehead
+  - 发音
+    - 英 `/'fɔːhed; 'fɒrɪd/`
+    - 美 `/'fɔr'hɛd/`
+  - 词义
+    - n. 额头
+    - `the part of your face above your eyes and below your hair`
+  - 记忆
+    - fore(前)+head(头部)→额
+  - 近义词
+    - n. [解剖]额，前额
+      - `quantum`
+      - `frons`
+  - 例句
+    - `...the lines on her forehead.`
+      - …她前额上的皱纹。
+

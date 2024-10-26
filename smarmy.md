@@ -1,0 +1,17 @@
+- smarmy
+  - 发音
+    - 英 `/'smɑːrmi/`
+    - 美 `/'smɑrmi/`
+  - 词义
+    - adj. 虚情假意的
+  - 同根词
+    - vt.
+      - `smarm` 说奉承话
+  - 近义词
+    - adj. 爱说奉承话的；虚情假意的
+      - `hokey`
+      - `unctuous`
+  - 例句
+    - `smarmy comments`
+      - 奉承话
+

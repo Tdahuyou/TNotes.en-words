@@ -1,0 +1,30 @@
+- genuine
+  - 发音
+    - 英 `/'dʒenjuɪn/`
+    - 美 `/'dʒɛnjʊɪn/`
+  - 词义
+    - adj. 真的，非人造的；真诚的，诚实的
+    - `a genuine feeling, desire etc is one that you really feel, not one you pretend to feel`
+  - 记忆
+    - gen(出生， 产生) + uine → 生来就有的 → 真的
+  - 同根词
+    - adv.
+      - `genuinely` 真诚地；诚实地
+    - n.
+      - `genuineness` 真实，真正；真诚，真挚
+  - 近义词
+    - adj. 真实的，真正的；诚恳的
+      - `actual`
+      - `sincere`
+      - `true`
+      - `real`
+      - `positive`
+  - 短语
+    - `genuine leather` 真皮 
+    - `genuine gold` 纯金，赤金 
+    - `genuine diamond` 真钻石的 
+    - `genuine partnership` 真正的合作伙伴 
+  - 例句
+    - `‘Did he really?’ Her surprise seemed genuine.`
+      - “他真的这样？”她好像是真的惊讶。
+

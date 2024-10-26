@@ -1,0 +1,22 @@
+- outmoded
+  - 发音
+    - 英 `/ˌaut'moudɪd/`
+    - 美 `/,aʊt'modɪd/`
+  - 词义
+    - adj. 过时的
+    - `no longer fashionable or useful`
+  - 记忆
+    - out(出) + mode(时尚) + d → 不再时尚的 → 过时的
+  - 同根词
+    - vi.
+      - `outmode` 变为不流行或过时
+    - vt.
+      - `outmode` 使…过时；使…不流行
+  - 近义词
+    - adj. 过时的，不流行的
+      - `ancient`
+      - `unpopular`
+  - 例句
+    - `outmoded ideas`
+      - 过时的观点
+

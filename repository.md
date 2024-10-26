@@ -1,0 +1,18 @@
+- repository
+  - 发音
+    - 英 `/ri'pɔziˌtəri/`
+    - 美 `/rɪ'pɑzə'tɔri/`
+  - 词义
+    - n. 仓库；学识渊博的人
+  - 记忆
+    - re + pos (放) + itory → 放东西的地方 → 仓库
+  - 同根词
+    - n.
+      - `reposition` 复位；贮藏；放回
+    - vt.
+      - `reposition` 使复位；改变…的位置；使变换阵地
+      - `reposit` 贮藏；使复位
+  - 近义词
+    - n. 贮藏室，仓库；知识库；智囊团
+      - `warehouse`
+      - `stockroom`

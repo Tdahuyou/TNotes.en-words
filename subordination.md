@@ -1,0 +1,22 @@
+- subordination
+  - 发音
+    - 英 `/sə,bɔːdɪ'neɪʃn/`
+    - 美 `/səb,ɔrdn'eʃən/`
+  - 词义
+    - n. 从属；附属；主从关系
+  - 同根词
+    - adj.
+      - `subordinate` 从属的；次要的
+      - `subordinating` 连接主句和从句的；从属的
+      - `subordinative` 表示从属关系的；从属的
+    - n.
+      - `subordinate` 下属，下级；部属，属下
+      - `subordinateness` 下属
+    - v.
+      - `subordinating` 使服从（subordinate的ing形式）；使成为下级
+    - vt.
+      - `subordinate` 使……居下位；使……服从
+  - 近义词
+    - n. 从属；附属；主从关系
+      - `hypotaxis`
+      - `dependency`

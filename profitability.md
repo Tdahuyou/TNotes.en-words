@@ -1,0 +1,24 @@
+- profitability
+  - 发音
+    - 英 `/undefined/`
+    - 美 `/undefined/`
+  - 词义
+    - n. 收益性,利益率
+  - 同根词
+    - adj.
+      - `profitable` 有利可图的；赚钱的；有益的
+      - `profitless` 无益的
+    - adv.
+      - `profitably` 有利地；有益地
+    - n.
+      - `profit` 利润；利益
+      - `profitableness` 有利，有益
+    - vi.
+      - `profit` 获利；有益
+    - vt.
+      - `profit` 有益于
+  - 近义词
+    - n. 赢利能力；收益性；利益率
+      - `rentability`
+  - 短语
+    - `profitability analysis` 获利能力分析；盈利分析 

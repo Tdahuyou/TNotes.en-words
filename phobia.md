@@ -1,0 +1,20 @@
+- phobia
+  - 发音
+    - 英 `/'fəʊbɪə/`
+    - 美 `/'fobɪə/`
+  - 词义
+    - n. 恐怖，憎恶；恐惧症
+    - `a strong unreasonable fear of something`
+  - 同根词
+    - adj.
+      - `phobic` 恐惧症的；病态性恐惧的
+  - 近义词
+    - n. [内科]恐怖，憎恶；恐惧症
+      - `terror`
+      - `ghastfulness`
+  - 短语
+    - `social phobia` 社交恐惧症 
+  - 例句
+    - `Some children suffer from school phobia .`
+      - 有些儿童对上学有恐惧症。
+

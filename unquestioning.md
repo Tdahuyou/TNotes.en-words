@@ -1,0 +1,15 @@
+- unquestioning
+  - 发音
+    - 英 `/ʌn'kwestʃ(ə)nɪŋ/`
+    - 美 `/ʌn'kwɛstʃənɪŋ/`
+  - 词义
+    - adj. 无条件的,不犹豫的
+    - `an unquestioning faith, attitude etc is very certain and without doubts`
+  - 近义词
+    - adj. 不提出疑问的；不犹豫的；盲目的；无异议的；无条件的
+      - `blind`
+      - `unlimited`
+  - 例句
+    - `an unquestioning belief in God`
+      - 对上帝的信不移
+

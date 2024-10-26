@@ -1,0 +1,37 @@
+- truthful
+  - 发音
+    - 英 `/'truːθfʊl; -f(ə)l/`
+    - 美 `/'tru:θful/`
+  - 词义
+    - adj. 诚实的；真实的
+    - `someone who is truthful does not usually tell lies`
+  - 同根词
+    - adj.
+      - `true` 真实的；正确的
+    - adv.
+      - `true` 真实地；准确地
+      - `truly` 真实地，不假；真诚地
+      - `truthfully` 诚实地；深信不疑地
+    - n.
+      - `true` 真实；准确
+      - `truth` 真理；事实；诚实；实质
+      - `truism` 自明之理；老生常谈；老套；众所周知
+      - `truthfulness` 真实；坦率；正当
+      - `trueness` 真实；纯真
+    - vt.
+      - `true` 装准
+  - 近义词
+    - adj. 真实的；诚实的
+      - `actual`
+      - `honest`
+      - `sincere`
+      - `true`
+      - `genuine`
+  - 例句
+    - `a truthful child`
+      - 一个诚实的孩子
+    - `You and I must be truthful with each other.`
+      - 我们俩一定要坦诚相待。
+    - `I have only one question to ask you, and I want a truthful answer.`
+      - 我只有一个问题要问你，希望你如实回答。
+

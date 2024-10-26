@@ -1,0 +1,27 @@
+- handwriting
+  - 发音
+    - 英 `/'hændraɪtɪŋ/`
+    - 美 `/'hænd'raɪtɪŋ/`
+  - 词义
+    - n. 笔迹；书法；书写；手稿
+    - `the style of someone’s writing`
+    - v. 亲手写（handwrite的ing形式）
+  - 同根词
+    - adj.
+      - `handwritten` 手写的
+    - v.
+      - `handwritten` handwrite的过去分词
+    - vt.
+      - `handwrite` 亲手写
+  - 近义词
+    - n. [法]笔迹；书法；书写；手稿
+      - `writing`
+      - `calligraphy`
+  - 短语
+    - `handwriting recognition` 手写识别 
+  - 例句
+    - `I recognised her handwriting on the envelope.`
+      - 我认出了信封上她的笔迹。
+    - `My handwriting has never been very neat.`
+      - 我的字从来都写得不够工整。
+

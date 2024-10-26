@@ -1,0 +1,23 @@
+- limpid
+  - 发音
+    - 英 `/'lɪmpɪd/`
+    - 美 `/'lɪmpɪd/`
+  - 词义
+    - adj. 清澈的
+    - `clear or transparent`
+  - 同根词
+    - adv.
+      - `limpidly` 透明地；清澈地
+    - n.
+      - `limpidity` 清澈；透明
+  - 近义词
+    - adj. [昆]透明的；平静的，无忧虑的
+      - `transparent`
+      - `peaceful`
+      - `pacific`
+      - `calm`
+      - `crystal`
+  - 例句
+    - `limpid blue eyes`
+      - 清澈的蓝眼睛
+

@@ -1,0 +1,20 @@
+- pretext
+  - 发音
+    - 英 `/'priːtekst/`
+    - 美 `/'pritɛkst/`
+  - 词义
+    - n. 借口，托词
+    - `a false reason given for an action, in order to hide the real reason`
+  - 记忆
+    - pre(在…前面) + text(文本) → 预先想好的说法 → 借口
+  - 近义词
+    - n. 借口；托辞
+      - `excuse`
+      - `blind`
+  - 短语
+    - `on the pretext of` 以...为借口 
+    - `find a pretext for` 为…找口实 
+  - 例句
+    - `He’ll phone on some pretext or other.`
+      - 他会以这样或那样的理由打电话的。
+

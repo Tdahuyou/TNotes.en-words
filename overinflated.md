@@ -1,0 +1,9 @@
+- overinflated
+  - 发音
+    - 英 `/ˌouvərɪn'fleɪtɪd/`
+    - 美 `/,ovərɪn'fletɪd/`
+  - 词义
+    - adj. 过度充气的
+  - 近义词
+    - adj. 过于膨胀的；特大的
+      - `extra`

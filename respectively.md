@@ -1,0 +1,19 @@
+- respectively
+  - 发音
+    - 英 `/rɪ'spektɪvlɪ/`
+    - 美 `/rɪ'spɛktɪvli/`
+  - 词义
+    - adv. 分别地,各个地
+    - `in the same order as the things you have just mentioned`
+  - 同根词
+    - adj.
+      - `respective` 分别的，各自的
+  - 近义词
+    - adv. 分别地；各自地，独自地
+      - `separately`
+      - `alone`
+      - `in several`
+  - 例句
+    - `The cups and saucers cost £5 and £3 respectively.`
+      - 茶杯和茶碟的价钱分别为5英镑和3英镑。
+

@@ -1,0 +1,17 @@
+- serenade
+  - 发音
+    - 英 `/serə'neɪd/`
+    - 美 `/,sɛrə'ned/`
+  - 词义
+    - n. 小夜曲
+    - `a song sung to someone, especially one that a man performs for the woman he loves while standing below her window at night`
+    - v. 为…唱小夜曲
+    - `if you serenade someone, you sing or play music to them, especially to show them that you love them`
+  - 近义词
+    - n. 小夜曲
+      - `A Little Night Music`
+      - `notturno`
+  - 例句
+    - `Placido Domingo sang his serenade of love.`
+      - 普拉西多·多明戈演唱他的爱情小夜曲。
+

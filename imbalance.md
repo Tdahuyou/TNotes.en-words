@@ -1,0 +1,20 @@
+- imbalance
+  - 发音
+    - 英 `/ɪm'bæl(ə)ns/`
+    - 美 `/ɪm'bæləns/`
+  - 词义
+    - n. 不平衡,不均衡
+    - `a lack of a fair or correct balance between two things, which results in problems or unfairness`
+  - 同根词
+    - adj.
+      - `imbalanced` 不平衡的；比例失调的
+  - 近义词
+    - n. [医]不平衡；不安定
+      - `instability`
+      - `disbalance`
+  - 短语
+    - `gender imbalance` 性别比例失衡 
+  - 例句
+    - `a hormonal imbalance`
+      - 内分泌失调
+

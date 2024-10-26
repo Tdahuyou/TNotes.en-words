@@ -1,0 +1,34 @@
+- propagate
+  - 发音
+    - 英 `/'prɑːpəgeɪt/`
+    - 美 `/'prɑpə'get/`
+  - 词义
+    - v. 繁殖；散布，传播
+    - `to spread an idea, belief etc to many people`
+  - 记忆
+    - pro(向前) + pag(扎牢， 系牢) + ate → 向前系牢 → 让自己的血统一代代地牢固下去 → 繁殖
+  - 同根词
+    - adj.
+      - `propagandist` 宣传的；传道的
+      - `propagandistic` 宣传的；宣传家的
+      - `propagative` 传播的；繁殖型；繁殖的
+    - n.
+      - `propaganda` 宣传；传道总会
+      - `propagation` 传播；繁殖；增殖
+      - `propagandist` 宣传者；传播者
+      - `propagator` 宣传者；增殖者
+    - vi.
+      - `propagandize` 进行宣传
+    - vt.
+      - `propagandize` 宣传；对…进行宣传
+  - 近义词
+    - vt. 传播；传送；繁殖；宣传
+      - `breed`
+      - `transmit`
+    - vi. 繁殖；增殖
+      - `breed`
+      - `increase`
+  - 例句
+    - `The group launched a website to propagate its ideas .`
+      - 这个团体建了一个网站来宣扬他们的主张。
+

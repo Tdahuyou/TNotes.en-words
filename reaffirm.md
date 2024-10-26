@@ -1,0 +1,18 @@
+- reaffirm
+  - 发音
+    - 英 `/riːə'fɜːm/`
+    - 美 `/'riə'fɝm/`
+  - 词义
+    - v. 再肯定，重申；再断言
+    - `to formally state an opinion, belief, or intention again, especially when someone has questioned you or expressed a doubt`
+  - 同根词
+    - n.
+      - `reaffirmation` 重申；再断言；再确认
+  - 近义词
+    - vt. 再肯定，重申；再断言
+      - `reiterate`
+      - `ingeminate`
+  - 例句
+    - `The party reaffirmed its commitment to nuclear disarmament.`
+      - 该党重申其核裁军承诺。
+

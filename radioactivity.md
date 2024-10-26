@@ -1,0 +1,28 @@
+- radioactivity
+  - 发音
+    - 英 `/,reɪdɪəʊæk'tɪvɪtɪ/`
+    - 美 `/,redɪoæk'tɪvəti/`
+  - 词义
+    - n. 放射能
+    - `the sending out of  radiation (= a form of energy )  when the  nucleus (= central part )  of an atom has broken apart`
+  - 同根词
+    - adj.
+      - `radioactive` [核] 放射性的；有辐射的
+    - n.
+      - `radiography` [核] 放射线照相术；X光线照相术
+      - `radiobiology` [生物物理] 放射生物学
+      - `radiocarbon` [核] 放射性碳
+      - `radiochemistry` [核] 放射化学
+      - `radiographer` 放射线技师，X光照相师
+      - `radioimmunoassay` 放射免疫检定法
+      - `radioisotope` [核] 放射性同位素
+  - 近义词
+    - n. 放射性；[核]放射能力；放射现象
+      - `emissive power`
+      - `gamma activity`
+  - 例句
+    - `the discovery of radioactivity`
+      - 放射现象的发现
+    - `high levels of radioactivity`
+      - 高强度的辐射
+

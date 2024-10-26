@@ -1,0 +1,21 @@
+- majestic
+  - 发音
+    - 英 `/mə'dʒestɪk/`
+    - 美 `/mə'dʒɛstɪk/`
+  - 词义
+    - adj. 雄伟的，壮丽的
+    - `very big, impressive, or beautiful`
+  - 同根词
+    - n.
+      - `majesty` 威严；最高权威，王权；雄伟；权威
+  - 近义词
+    - adj. 庄严的；宏伟的
+      - `grand`
+      - `magnificent`
+      - `solemn`
+      - `sacred`
+      - `noble`
+  - 例句
+    - `This lovely village is surrounded by majestic mountain scenery.`
+      - 这座美丽的村庄四周山色壮丽。
+

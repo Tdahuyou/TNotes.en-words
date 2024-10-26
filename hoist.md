@@ -1,0 +1,30 @@
+- hoist
+  - 发音
+    - 英 `/hɒɪst/`
+    - 美 `/hɔɪst/`
+  - 词义
+    - n. 起重机；升起，吊起
+    - `a piece of equipment used for lifting heavy objects with ropes`
+    - v. 升起；吊起
+    - `to raise, lift, or pull something up, especially using ropes`
+  - 同根词
+    - n.
+      - `hoister` 提升机；起重机
+  - 近义词
+    - n. 起重机；升起，吊起
+      - `crane`
+      - `derrick`
+    - vi. 升起；吊起
+      - `lift`
+      - `heave up`
+  - 短语
+    - `mine hoist` 矿井提升机；矿井吊车 
+    - `electric hoist` 电动起重机；电葫芦；电动卷扬机 
+    - `chain hoist` 链式起重机；手动葫芦 
+    - `hoist crane` 起重机；起重葫芦 
+    - `hoist rope` 起重钢丝绳；卷扬绳 
+    - `main hoist` 主吊车；主升降机构 
+  - 例句
+    - `a boat hoist`
+      - 吊艇机
+

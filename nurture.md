@@ -1,0 +1,35 @@
+- nurture
+  - 发音
+    - 英 `/'nɜːrtʃər/`
+    - 美 `/'nɝtʃɚ/`
+  - 词义
+    - vt. 养育，养护，培养；扶植，支持；滋长，助长
+    - `to feed and take care of a child or a plant while it is growing`
+    - n. 养育，培养
+    - `the education and care that you are given as a child, and the way it affects your later development and attitudes`
+  - 记忆
+    - 大自然(nature)像母亲一样养育(nurture)着人类
+  - 同根词
+    - adj.
+      - `nurturant` 抚育的；抚养的
+    - n.
+      - `nursing` 护理；看护；养育
+      - `nurturance` 养成；教育；培养（形容词nurturant）；养育
+    - v.
+      - `nursing` 看护；养育（nurse的ing形式）
+  - 近义词
+    - vt. 养育；鼓励；培植
+      - `encourage`
+      - `raise`
+      - `heart`
+      - `mother`
+      - `foster`
+    - n. 养育；教养；营养物
+      - `nursing`
+      - `breeding`
+  - 短语
+    - `nature and nurture` 先天与后天，遗传与环境；先天遗传说和后天培养说 
+  - 例句
+    - `plants nurtured in the greenhouse`
+      - 在温室里培育的植物
+

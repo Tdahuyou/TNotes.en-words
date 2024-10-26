@@ -1,0 +1,22 @@
+- prehistoric
+  - 发音
+    - 英 `/ˌpriːhɪ'stɔːrɪk/`
+    - 美 `/,prihɪ'stɔrɪk/`
+  - 词义
+    - adj. 史前的；陈旧的
+    - `relating to the time in history before anything was written down`
+  - 记忆
+    - pre(在…前面) + historic(历史的) → 史前的
+  - 同根词
+    - n.
+      - `prehistory` 史前；史前史；（导致事件、危机等的）背景
+  - 近义词
+    - adj. 史前的；陈旧的
+      - `old`
+      - `ogygian`
+  - 例句
+    - `prehistoric burial grounds`
+      - 史前墓地
+    - `prehistoric animals`
+      - 史前动物
+

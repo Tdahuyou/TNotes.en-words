@@ -1,0 +1,21 @@
+- munificent
+  - 发音
+    - 英 `/mjuː'nifisənt/`
+    - 美 `/mju'nɪfɪsnt/`
+  - 词义
+    - adj. 宽宏的，慷慨的
+    - `very generous`
+  - 记忆
+    - muni (公共) + fic (做) + ent → 为公共事业做 → 慷慨的
+  - 同根词
+    - n.
+      - `munificence` 慷慨给与；宽宏大量
+  - 近义词
+    - adj. 慷慨的；丰厚的；宽宏的
+      - `generous`
+      - `handsome`
+      - `liberal`
+  - 例句
+    - `a munificent gift`
+      - 一份厚礼
+

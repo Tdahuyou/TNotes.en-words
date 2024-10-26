@@ -1,0 +1,20 @@
+- unwilling
+  - 发音
+    - 英 `/ʌn'wɪlɪŋ/`
+    - 美 `/ʌn'wɪlɪŋ/`
+  - 词义
+    - adj. 不愿意的,不情愿的
+    - `not wanting to do something and refusing to do it`
+  - 同根词
+    - adv.
+      - `unwillingly` 不情愿地；勉强地
+    - n.
+      - `unwillingness` 不愿意；不情愿
+  - 近义词
+    - adj. 不愿意的；不情愿的；勉强的
+      - `narrow`
+      - `reluctant`
+  - 例句
+    - `an unwilling helper`
+      - 勉强来帮忙的人
+

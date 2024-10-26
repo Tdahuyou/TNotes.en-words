@@ -1,0 +1,14 @@
+- parsimonious
+  - 发音
+    - 英 `/ˌpɑːsi'məuniəs/`
+    - 美 `/,pɑrsə'monɪəs/`
+  - 词义
+    - adj. 吝啬的；过于俭省的
+    - `extremely unwilling to spend money`
+  - 同根词
+    - n.
+      - `parsimony` 吝啬；过度节俭
+  - 近义词
+    - adj. 吝啬的；过于节俭的；质量差的
+      - `tight`
+      - `stingy`

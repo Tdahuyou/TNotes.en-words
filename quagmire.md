@@ -1,0 +1,17 @@
+- quagmire
+  - 发音
+    - 英 `/'kwægmaiə/`
+    - 美 `/'kwæɡmaiə, 'kwɔ-/`
+  - 词义
+    - n. 沼泽；困境
+    - `an area of soft wet muddy ground`
+  - 记忆
+    - quag (沼泽) + mire (泥潭) → 沼泽
+  - 近义词
+    - n. [地理]沼泽，沼泽地；无法脱身的困境
+      - `wetland`
+      - `cienaga`
+  - 例句
+    - `In the rainy season the roads become a quagmire.`
+      - 在雨季，道路变得一片泥泞。
+

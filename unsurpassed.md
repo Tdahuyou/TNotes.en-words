@@ -1,0 +1,6 @@
+- unsurpassed
+  - 发音
+    - 英 `/ˌʌnsər'pæst/`
+    - 美 `/,ʌnsɚ'pæst/`
+  - 词义
+    - adj. 未被超越的

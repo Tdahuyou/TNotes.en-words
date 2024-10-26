@@ -1,0 +1,23 @@
+- virtuous
+  - 发音
+    - 英 `/'vɜːrtʃuəs/`
+    - 美 `/'vɝtʃuəs/`
+  - 词义
+    - adj. 有道德的，品行端正的，品德高的；〈贬〉自命清高的，自以为是的
+    - `behaving in a very honest and moral way`
+  - 记忆
+    - 来自virtue(n. 美德)
+  - 近义词
+    - adj. 善良的；有道德的；贞洁的；正直的；有效力的
+      - `straight`
+      - `square`
+      - `just`
+  - 短语
+    - `virtuous circle` 良性循环 
+    - `virtuous cycle` 良性循环 
+  - 例句
+    - `a virtuous man`
+      - 品行端正的男子
+    - `Sue considered herself very virtuous because she neither drank nor smoked.`
+      - 休认为自己品行非常端正，因为她既不喝酒也不抽烟。
+

@@ -1,0 +1,24 @@
+- ruffian
+  - 发音
+    - 英 `/'rʌfɪən/`
+    - 美 `/'rʌfɪən/`
+  - 词义
+    - n. 恶棍；流氓；无赖
+    - `a violent man, involved in crime`
+    - adj. 残暴的；凶恶的；无法无天的
+  - 同根词
+    - adj.
+      - `ruffianly` 残暴的；凶恶的；恶棍般的
+    - n.
+      - `ruffianism` 流氓习气；暴徒行为
+  - 近义词
+    - n. 恶棍；流氓；无赖
+      - `tough`
+      - `cad`
+    - adj. 残暴的；凶恶的；无法无天的
+      - `atrocious`
+      - `tyrannical`
+  - 例句
+    - `a gang of ruffians`
+      - 一伙流氓
+

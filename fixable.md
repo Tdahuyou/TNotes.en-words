@@ -1,0 +1,10 @@
+- fixable
+  - 发音
+    - 英 `/'fiksəbl/`
+    - 美 `/undefined/`
+  - 词义
+    - adj. 可固定的；可确定的
+  - 近义词
+    - adj. 可固定的；可确定的；可装置的
+      - `definable`
+      - `ascertainable`

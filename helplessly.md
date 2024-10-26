@@ -1,0 +1,26 @@
+- helplessly
+  - 发音
+    - 英 `/undefined/`
+    - 美 `/undefined/`
+  - 词义
+    - adv. 无能为力地
+  - 同根词
+    - adj.
+      - `helpful` 有帮助的；有益的
+      - `helpless` 无助的；无能的；没用的
+      - `helping` 辅助的；给予帮助的
+    - n.
+      - `help` 帮助；补救办法；帮忙者；有益的东西
+      - `helper` 助手，帮手
+      - `helping` 帮助，协助；一份食物
+      - `helplessness` 无能为力；无可奈何状态
+      - `helpfulness` 有益；有助
+    - v.
+      - `helping` 帮助；扶持（help的ing形式）
+    - vi.
+      - `help` 帮助；有用；招待
+    - vt.
+      - `help` 帮助；促进；治疗；补救
+  - 近义词
+    - adv. 无助地；无能为力地
+      - `impotently`

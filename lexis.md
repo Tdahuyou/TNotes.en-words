@@ -1,0 +1,19 @@
+- lexis
+  - 发音
+    - 英 `/'leksɪs/`
+    - 美 `/'lɛksɪs/`
+  - 词义
+    - n. 词汇；词语
+    - `all the words in a language`
+  - 同根词
+    - adv.
+      - `lexically` 词汇方面；字典地
+    - n.
+      - `lexicology` 词汇学；词典学
+      - `lexicalization` 词汇化
+      - `lexicostatistics` [统计][语] 词汇统计学
+    - vt.
+      - `lexicalize` 编入词汇；使词汇化
+  - 近义词
+    - n. 词汇；词语
+      - `vocabulary`

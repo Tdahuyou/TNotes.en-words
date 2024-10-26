@@ -1,0 +1,31 @@
+- reverent
+  - 发音
+    - 英 `/'revərənt/`
+    - 美 `/'rɛvərənt/`
+  - 词义
+    - adj. 尊敬的，虔诚的
+    - `showing a lot of respect and admiration`
+  - 记忆
+    - 来自revere (v. 尊敬， 敬畏)
+  - 同根词
+    - adj.
+      - `reverend` 教士的；可尊敬的
+      - `reverential` 虔诚的；表示尊敬的；可尊敬的
+    - adv.
+      - `reverently` 虔诚地，恭敬地
+      - `reverentially` 虔诚地；谨慎地
+    - n.
+      - `reverence` 崇敬；尊严；敬礼
+      - `reverend` 教士
+    - vt.
+      - `reverence` 敬畏；尊敬
+      - `revere` 敬畏；尊敬；崇敬
+  - 近义词
+    - adj. 虔诚的；恭敬的；尊敬的
+      - `religious`
+      - `good`
+      - `dear`
+  - 例句
+    - `a hushed reverent voice`
+      - 毕恭毕敬的低语声
+

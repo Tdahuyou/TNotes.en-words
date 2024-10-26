@@ -1,0 +1,27 @@
+- overload
+  - 发音
+    - 英 `/əʊvə'ləʊd/`
+    - 美 `/,ovɚ'lod/`
+  - 词义
+    - vt. 使超载，使过载；使超负荷；给…增加负担
+    - `to put too many things or people on or into something`
+    - n. 超载；超负荷
+  - 同根词
+    - adj.
+      - `overladen` 过分的；装载过多的
+  - 近义词
+    - n. [交][电]超载；负荷过多
+      - `superimposed load`
+      - `surcharge`
+  - 短语
+    - `overload protection` 防止过载，超载防护 
+    - `information overload` 信息过载；信息超载；信息超负荷 
+    - `overload capacity` 过载容量 
+    - `overload operation` 超负荷运行，超载运行 
+    - `thermal overload relay` 热继电器；热过载继电器 
+    - `overload protector` 过载保护器；超负荷保险装置 
+    - `overload relay` 过载继电器；超载替续器 
+  - 例句
+    - `Be careful not to overload the washing machine.`
+      - 注意别让洗衣机负荷过重。
+

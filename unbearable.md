@@ -1,0 +1,24 @@
+- unbearable
+  - 发音
+    - 英 `/ʌn'beərəb(ə)l/`
+    - 美 `/ʌn'bɛrəbl/`
+  - 词义
+    - adj. 难以忍受的；不能容忍的
+    - `too unpleasant, painful, or annoying to deal with`
+  - 记忆
+    - un(不)+bear(忍受)+able(可…的)→无法忍受的
+  - 同根词
+    - adv.
+      - `unbearably` 不堪忍受地；无法容忍地
+  - 近义词
+    - adj. 难以忍受的；承受不住的
+      - `impossible`
+      - `insufferable`
+  - 短语
+    - `unbearable pain` 难以忍受的痛苦 
+  - 例句
+    - `The pain was almost unbearable.`
+      - 那疼痛几乎难以忍受。
+    - `He was making life unbearable for his parents.`
+      - 他把父母的生活弄得不堪忍受。
+

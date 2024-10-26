@@ -1,0 +1,20 @@
+- hermit
+  - 发音
+    - 英 `/'hɜːmɪt/`
+    - 美 `/'hɝmɪt/`
+  - 词义
+    - n. 隐士,隐居者
+    - `someone who lives alone and has a simple way of life, usually for religious reasons`
+  - 同根词
+    - n.
+      - `hermitage` 隐士生活；隐士住处
+  - 近义词
+    - n. （尤指宗教原因的）隐士；隐居者
+      - `anchorite`
+      - `eremite`
+  - 短语
+    - `hermit crab` n. 寄生蟹 
+  - 例句
+    - `I've spent the past ten years living like a hermit.`
+      - 我过去10年里过着隐士般的生活。
+

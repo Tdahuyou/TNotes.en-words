@@ -1,0 +1,19 @@
+- perpetrate
+  - 发音
+    - 英 `/'pɜːpɪtreɪt/`
+    - 美 `/'pɝpətret/`
+  - 词义
+    - v. 犯（罪）；做（恶）
+    - `to do something that is morally wrong or illegal`
+  - 同根词
+    - n.
+      - `perpetrator` 犯罪者；作恶者；行凶者
+      - `perpetration` 犯罪；做坏事
+  - 近义词
+    - vt. 犯（罪）；做（恶）
+      - `come`
+      - `faire`
+  - 例句
+    - `Who could have perpetrated such a dreadful crime?`
+      - 谁会犯下如此可怕的罪行？
+

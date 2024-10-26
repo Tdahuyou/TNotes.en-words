@@ -1,0 +1,31 @@
+- lustrous
+  - 发音
+    - 英 `/'lʌstrəs/`
+    - 美 `/'lʌstrəs/`
+  - 词义
+    - adj. 有光泽的
+    - `shining in a soft gentle way`
+  - 记忆
+    - 来自luster(n. 光辉； 光泽)
+  - 同根词
+    - adj.
+      - `lusterless` 没有光泽的
+      - `lustreless` 无光泽的；平淡乏味的
+    - n.
+      - `luster` [光] 光泽；光彩
+      - `lustre` 光泽，光彩
+      - `lusterware` 表面有金属光泽的陶瓷器
+    - vi.
+      - `luster` 有光泽；发亮
+      - `lustre` 有光泽，发亮
+    - vt.
+      - `luster` 使有光泽
+      - `lustre` 使有光泽
+  - 近义词
+    - adj. 有光泽的；光辉的
+      - `shiny`
+      - `wire-wove`
+  - 例句
+    - `Her hair was beautifully dark and lustrous.`
+      - 她的秀发乌黑光亮。
+

@@ -1,0 +1,44 @@
+- justice
+  - 发音
+    - 英 `/'dʒʌstɪs/`
+    - 美 `/'dʒʌstɪs/`
+  - 词义
+    - n. 法官；司法；正义，公正
+    - `the quality of being right and deserving fair treatment`
+  - 记忆
+    - just(正确的) + ice → 正义， 公正
+  - 同根词
+    - adj.
+      - `justiciary` 司法上的
+    - n.
+      - `justiciary` 高等法院法官；司法官
+  - 近义词
+    - n. 司法，法律制裁；正义；法官，[法]审判员
+      - `judge`
+      - `right`
+      - `judicature`
+  - 短语
+    - `social justice` [法]社会主义 
+    - `justice department` 司法部门 
+    - `administration of justice` 司法；司法行政；执法 
+    - `department of justice` 司法部 
+    - `court of justice` 法院 
+    - `ministry of justice` 司法部 
+    - `procedural justice` 程序公平；过程正义 
+    - `chief justice` 首席法官，法院院长；审判长 
+    - `do justice` 公平对待；和…酷似 
+    - `do justice to oneself` 充分发挥自己的能力 
+    - `criminal justice system` 刑事司法体系；刑事审判系统；刑事法律制度 
+    - `international court of justice` 联合国国际法院 
+    - `distributive justice` 分配公正，分配公平 
+    - `justice of the peace` n. 太平绅士；治安法官；地方执法官 
+    - `temper justice with mercy` 恩威并施 
+    - `civil justice` 民事审判 
+    - `secretary for justice` 律政司司长 
+    - `obstruction of justice` 妨碍司法公正；阻碍司法 
+    - `access to justice` 诉诸司法；实现正义 
+    - `bring to justice` 绳之以法；把…交付审判；使归案受审 
+  - 例句
+    - `No one doubts the justice of our cause.`
+      - 没有人怀疑我们的事业是正义的。
+

@@ -1,0 +1,12 @@
+- xenophobe
+  - 发音
+    - 英 `/'zenəfəub/`
+    - 美 `/undefined/`
+  - 词义
+    - n. 畏惧或憎恨外国人/事物的人
+    - `a person who hates or fears foreigners or strangers `
+  - 记忆
+    - xeno (外国人) + phobe (恨) → 憎恨外国人的人
+  - 近义词
+    - n. 仇外；害怕生人者；畏惧和憎恨外国人的人
+      - `zenophobia`

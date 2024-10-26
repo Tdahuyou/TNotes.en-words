@@ -1,0 +1,53 @@
+- pilot
+  - 发音
+    - 英 `/'paɪlət/`
+    - 美 `/'paɪlət/`
+  - 词义
+    - n. 飞行员
+    - `someone who operates the controls of an aircraft or spacecraft`
+  - 记忆
+    - “派了他” → 派了他去引航 → 引航员
+  - 同根词
+    - adj.
+      - `pilotless` 无驾驶员的
+    - n.
+      - `pilotage` 领航；领港费；驾驶术；领航费
+      - `piloting` 领港；近岸航行法；地标领航；半工厂性检查
+    - v.
+      - `piloting` 驾驶（pilot的ing形式）；领航
+  - 近义词
+    - n. [航]飞行员；[水运]领航员
+      - `aviator`
+      - `amn`
+    - v. [航]驾驶；[水运]领航；试用
+      - `to navigate`
+      - `experiment with`
+  - 短语
+    - `pilot test` 小规模试验；初步试验 
+    - `pilot project` 试点项目，试点工程；样板工程，样板设计 
+    - `pilot study` n. 初步研究；预备试验；飞行员研究 
+    - `pilot plant` n. 试验工场；小规模试验厂 
+    - `pilot scale` 中试规模；试验性规模 
+    - `pilot program` 试点计划，试点工程；实验计画 
+    - `pilot scheme` [经]小规模试验计划 
+    - `fighter pilot` 战斗机飞行员 
+    - `pilot unit` 导向单元 
+    - `pilot production` 试验性生产 
+    - `pilot experiment` 预试验，中间试验 
+    - `airline pilot` 航空公司飞行员 
+    - `pilot valve` 操纵阀，导向阀 
+    - `pilot run` 初步操作试验；试运行 
+    - `test pilot` 试飞员 
+    - `pilot light` 长明小灯；常燃小火；标灯（等于pilot lamp） 
+    - `pilot hole` 导孔；导向钻孔；定位孔 
+    - `pilot system` 引示系统；试验系统 
+    - `pilot operation` 引导操作 
+    - `palm pilot` 掌上电脑 
+  - 例句
+    - `an airline pilot`
+      - 航空公司飞行员
+    - `a fighter pilot`
+      - 战斗机驾驶员
+    - `The official report into the accident says that it was caused by pilot error (= a mistake by the pilot ) .`
+      - 那宗事故的官方报告称事故是由飞行员失误造成的。
+

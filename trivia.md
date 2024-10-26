@@ -1,0 +1,18 @@
+- trivia
+  - 发音
+    - 英 `/'trɪvɪə/`
+    - 美 `/'trɪvɪə/`
+  - 词义
+    - n. 琐事
+    - `unimportant or useless details`
+  - 同根词
+    - n.
+      - `triviality` 浅薄，轻浮；琐事；平凡
+  - 近义词
+    - n. 琐事
+      - `minutia`
+      - `bagatelle`
+  - 例句
+    - `meaningless trivia`
+      - 毫无意义的琐事
+

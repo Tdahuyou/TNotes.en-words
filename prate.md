@@ -1,0 +1,20 @@
+- prate
+  - 发音
+    - 英 `/preit/`
+    - 美 `/pret/`
+  - 词义
+    - v. 唠叨；闲聊
+    - `to talk in a meaningless boring way about something`
+  - 记忆
+    - 私人 (private) 谈话 → 闲聊
+  - 同根词
+    - n.
+      - `prater` 空谈者；多嘴的人
+      - `prattler` 空谈者，闲扯的人；说半截话的人；饶舌的人
+  - 近义词
+    - n. 唠叨；空谈；瞎扯
+      - `talk`
+      - `phrasemongering`
+    - vi. 唠叨
+      - `rabbit on`
+      - `chatter`

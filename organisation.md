@@ -1,0 +1,38 @@
+- organisation
+  - 发音
+    - 英 `/,ɔːɡənaɪ'zeɪʃən/`
+    - 美 `/ɔrɡənəˈzeʃən/`
+  - 词义
+    - n. 组织；团体（等于organization）
+  - 同根词
+    - adj.
+      - `organic` [有化] 有机的；组织的；器官的；根本的
+      - `organized` 有组织的；安排有秩序的；做事有条理的
+      - `organizational` 组织的；编制的
+      - `organised` 有组织的；组织起来的（等于organized）
+      - `organismal` 生物的；有机体的
+    - adv.
+      - `organically` 有机地；有组织地；器官上地
+    - n.
+      - `organization` 组织；机构；体制；团体
+      - `organism` 有机体；生物体；微生物
+      - `organizer` 组织者；承办单位；[生物] 组织导体
+    - v.
+      - `organized` 组织（organize的过去分词）
+      - `organised` 组织；构成（organise的过去式）
+    - vi.
+      - `organize` 组织起来；成立组织
+      - `organise` 组织起来；组织工会
+    - vt.
+      - `organize` 组织；使有系统化；给予生机；组织成立工会等
+      - `organise` 组织（等于organize）；有机化；给予生机
+  - 近义词
+    - n. 组织；团体（等于organization）
+      - `fabric`
+      - `community`
+      - `body`
+      - `group`
+  - 例句
+    - `Please describe the goals your organisation is hoping to achieve through this partnership as well as any recognition you hope to receive for your partnership with the UN.`
+      - 请描述您的组织希望通过这个合作关系实现的目标，以及您希望从与联合国的合作关系得到的任何认可。
+

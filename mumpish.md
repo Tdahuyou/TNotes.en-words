@@ -1,0 +1,9 @@
+- mumpish
+  - 发音
+    - 英 `/undefined/`
+    - 美 `/undefined/`
+  - 词义
+    - adj. 愠怒的
+  - 近义词
+    - adj. 愠怒的；绷着脸不说话的
+      - `sullen`

@@ -1,0 +1,27 @@
+- innate
+  - 发音
+    - 英 `/ɪ'neɪt/`
+    - 美 `/ɪ'net/`
+  - 词义
+    - adj. 天生的，固有的；内在的，直觉的
+    - `an innate quality or ability is something you are born with`
+  - 记忆
+    - in(在内) + nat(出生) + e → 出生时就有的 → 天生的
+  - 同根词
+    - adv.
+      - `innately` 天赋地；与生俱来的
+    - n.
+      - `innateness` 天赋；天生
+  - 近义词
+    - adj. [医]先天的；固有的；与生俱来的
+      - `inherent`
+      - `native`
+      - `intrinsic`
+      - `congenital`
+  - 短语
+    - `innate immunity` 先天免疫；自然免疫 
+    - `innate ability` 天生能力；天赋才能 
+  - 例句
+    - `Children have an innate ability to learn language.`
+      - 儿童学习语言的能力是与生俱来的。
+

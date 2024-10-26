@@ -1,0 +1,22 @@
+- saccharine
+  - 发音
+    - 英 `/'sækərain/`
+    - 美 `/undefined/`
+  - 词义
+    - adj. 糖的，似糖的；产糖的，含糖的
+  - 记忆
+    - 来自sacchar (in) (糖精) + e → 糖 (质) 的， 似糖的
+  - 同根词
+    - n.
+      - `saccharin` [有化] 糖精；邻磺酰苯甲酰亚胺
+      - `saccharinity` 含糖量；甜蜜；甜度
+  - 近义词
+    - adj. 含糖的；极甜的；和颜悦色的
+      - `sugary`
+    - n. （美）糖精
+      - `gluside`
+      - `saxin`
+  - 例句
+    - `I hated the movie’s saccharine ending.`
+      - 我讨厌这部影片煽情的结尾。
+

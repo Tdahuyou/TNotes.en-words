@@ -1,0 +1,25 @@
+- exotic
+  - 发音
+    - 英 `/ɪg'zɑːtɪk/`
+    - 美 `/ɪɡ'zɑtɪk/`
+  - 词义
+    - adj. 外来的，来自异国的；奇异的
+    - `something that is exotic seems unusual and interesting because it is related to a foreign country – use this to show approval`
+  - 记忆
+    - ex(出， 外) + otic → 外来的
+  - 同根词
+    - n.
+      - `exoticism` 异国情调；异国风味；洋派
+  - 近义词
+    - adj. [物]异国的；[语]外来的；异国情调的
+      - `outside`
+      - `extraneous`
+  - 短语
+    - `exotic plant` 外来植物；引入的植物 
+    - `exotic dancer` 脱衣舞女 
+  - 例句
+    - `exotic birds`
+      - 外国的奇异鸟类
+    - `exotic places`
+      - 有异国风情的地方
+

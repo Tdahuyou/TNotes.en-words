@@ -1,0 +1,42 @@
+- synchronise
+  - 发音
+    - 英 `/'sɪŋkrənaɪz/`
+    - 美 `/'sɪŋkrəˌnaɪz/`
+  - 词义
+    - v. 同步发生，同速进行
+  - 同根词
+    - adj.
+      - `synchronous` 同步的；同时的
+      - `synchronized` 同步的；同步化的
+      - `synchronic` 不考虑历史上变化的；限于一时的；完全同步的
+      - `synchro` 同步的
+      - `synchronised` 同步的
+      - `synchronizing` 同步的
+      - `synchromesh` 同步齿合的
+      - `synchronal` 同步的；同时的
+    - n.
+      - `synchronization` [物] 同步；同时性
+      - `synchro` 同步机
+      - `synchronisation` 同步；同一时刻；同时发生
+      - `synchronicity` 同步性，同时发生
+      - `synchronism` 同时发生，同步性；对照性历史年谱
+      - `synchrocyclotron` [核] 同步回旋加速器
+      - `synchromesh` 齿轮的同时咬合装置
+      - `synchroneity` 同时性；对照性历史年谱（等于synchronism）
+      - `synchroniser` 同合器；同步器
+      - `synchronizer` [电] 同步装置；同步闪光装置
+      - `synchronoscope` 同步指示器；同步示波器；同期表；同步表
+    - v.
+      - `synchronized` 使协调（synchronize的过去分词）；同时发生；校准
+      - `synchronised` 使同时（synchronise的过去式和过去分词）
+      - `synchronizing` 同步，整步（synchronize的ing形式）
+    - vi.
+      - `synchronize` 同步；同时发生
+    - vt.
+      - `synchronize` 使……合拍；使……同步
+  - 近义词
+    - vi. 同步；同时发生
+      - `sync up`
+      - `coincide`
+    - vt. 使同步；使同时发生（等于synchronize）
+      - `contemporize`

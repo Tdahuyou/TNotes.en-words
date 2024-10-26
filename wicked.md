@@ -1,0 +1,23 @@
+- wicked
+  - 发音
+    - 英 `/'wɪkɪd/`
+    - 美 `/'wɪkɪd/`
+  - 词义
+    - adj. 邪恶的；恶劣的；不道德的；顽皮的
+    - `behaving in a way that is morally wrong`
+  - 同根词
+    - adv.
+      - `wickedly` 恶劣地；居心叵测地
+    - n.
+      - `wickedness` 邪恶；不道德
+  - 近义词
+    - adj. 邪恶的；恶劣的；不道德的；顽皮的
+      - `evil`
+      - `ill`
+      - `black`
+      - `gross`
+      - `ugly`
+  - 例句
+    - `the wicked stepmother in ‘Hansel and Gretel’`
+      - 《糖果屋》中那个恶毒的继母
+

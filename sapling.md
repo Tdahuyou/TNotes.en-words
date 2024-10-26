@@ -1,0 +1,11 @@
+- sapling
+  - 发音
+    - 英 `/'sæplɪŋ/`
+    - 美 `/'sæplɪŋ/`
+  - 词义
+    - n. 树苗；年轻人
+    - `a young tree`
+  - 近义词
+    - n. 树苗；年轻人
+      - `seedling`
+      - `young adult`

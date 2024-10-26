@@ -1,0 +1,16 @@
+- irrationally
+  - 发音
+    - 英 `/undefined/`
+    - 美 `/undefined/`
+  - 词义
+    - adv. 无理性地,不合理地
+  - 同根词
+    - adj.
+      - `irrational` 不合理的；无理性的；荒谬的
+    - n.
+      - `irrational` [数] 无理数
+      - `irrationality` 不合理，无理性
+  - 近义词
+    - adv. 无理性地，不合理地
+      - `unreasonably`
+      - `preposterously`

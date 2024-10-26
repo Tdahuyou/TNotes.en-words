@@ -1,0 +1,15 @@
+- formidably
+  - 发音
+    - 英 `/'fɔːrmɪdəbli/`
+    - 美 `/undefined/`
+  - 词义
+    - adv. 可怕地，难对付地，强大地
+  - 记忆
+    - 来自formidable(adj. 可怕的， 难对付的)
+  - 同根词
+    - adj.
+      - `formidable` 强大的；可怕的；令人敬畏的；艰难的
+  - 近义词
+    - adv. 强大地；难对付地；可怕地
+      - `powerfully`
+      - `terribly`

@@ -1,0 +1,13 @@
+- perfervid
+  - 发音
+    - 英 `/pə'fɜːrvɪd/`
+    - 美 `/pə:'fə:vid/`
+  - 词义
+    - adj. 过于热心的
+    - `extremely ardent, enthusiastic, or zealous `
+  - 记忆
+    - per(十分， 完全) + ferv(热的) + id → 十分热的 → 过于热心的
+  - 近义词
+    - adj. 非常热心的；热烈的
+      - `passionate`
+      - `fiery`

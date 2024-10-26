@@ -1,0 +1,28 @@
+- monarchy
+  - 发音
+    - 英 `/'mɑːnərki/`
+    - 美 `/'mɑnɚki/`
+  - 词义
+    - n. 君主制；君主国
+    - `the system in which a country is ruled by a king or queen`
+  - 记忆
+    - mon(单个) + archy(统治) → 君主制
+  - 同根词
+    - adj.
+      - `monarchical` 君主的，国王的；君主政治的
+      - `monarchal` 君主的，君主政治的；国王的
+      - `monarchic` 君主政体的；君主的；赞成君主政体的
+    - n.
+      - `monarch` 君主，帝王；最高统治者
+      - `monarchism` 君主主义；君主政体
+      - `monarchist` 君主主义者
+  - 近义词
+    - n. 君主政体；君主国；君主政治
+      - `Caesarism`
+  - 短语
+    - `constitutional monarchy` [法]君主立宪制度 
+    - `absolute monarchy` 专制君主国；君主专制政体 
+  - 例句
+    - `the abolition of the monarchy`
+      - 君主制的废除
+

@@ -1,0 +1,31 @@
+- idolatry
+  - 发音
+    - 英 `/ai'dɔlətri/`
+    - 美 `/aɪ'dɑlətri/`
+  - 词义
+    - n. 偶像崇拜；盲目崇拜
+    - `the practice of worshipping idols`
+  - 记忆
+    - idol (偶像) + a + try (尝试) → 尝试将其作为偶像 → 偶像崇拜
+  - 同根词
+    - adj.
+      - `idolatrous` 盲目崇拜的；崇拜偶像的
+    - n.
+      - `idol` 偶像，崇拜物；幻象；谬论
+      - `idolater` 偶像崇拜者；崇拜者；皈依者
+      - `idolatress` 女性的偶像崇拜者
+      - `idolization` 偶像化；盲目崇拜
+    - vi.
+      - `idolize` 崇拜偶像
+      - `idolise` 崇拜偶像（等于idolize）
+    - vt.
+      - `idolize` 极端崇拜；把...当偶像崇拜
+      - `idolise` 把…当偶像崇拜；偶像化
+  - 近义词
+    - n. 偶像崇拜；盲目崇拜；邪神崇拜
+      - `idol worship`
+      - `iconolatry`
+  - 例句
+    - `Their affection for her soon increased almost to idolatry.`
+      - 他们对她的喜爱几乎发展成了盲目崇拜。
+

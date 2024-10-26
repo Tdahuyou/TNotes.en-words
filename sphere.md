@@ -1,0 +1,31 @@
+- sphere
+  - 发音
+    - 英 `/sfɪr/`
+    - 美 `/sfɪr/`
+  - 词义
+    - n. 球；范围，领域；阶层
+    - `a particular area of activity, work, knowledge etc`
+  - 记忆
+    - spher(球) + e → 球(体)
+  - 同根词
+    - adj.
+      - `spherical` 球形的，球面的；天体的
+      - `spheroidal` 类似球体的，球状的
+    - n.
+      - `sphericity` [数] 球形；球面
+  - 近义词
+    - n. 范围；[数]球体
+      - `extent`
+      - `boundary`
+      - `region`
+      - `scope`
+      - `spectrum`
+      - `territory`
+      - `range`
+    - vt. 包围；放入球内；使…成球形
+      - `case`
+      - `invest`
+  - 例句
+    - `Because the earth spins, it is not a perfect sphere.`
+      - 因为地球旋转，所以它不是个完完全全的球体。
+

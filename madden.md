@@ -1,0 +1,30 @@
+- madden
+  - 发音
+    - 英 `/'mæd(ə)n/`
+    - 美 `/'mædn/`
+  - 词义
+    - v. 使疯狂；激怒
+    - `to make someone very angry or annoyed`
+    - n. (Madden)人名；(英、意、捷)马登
+  - 同根词
+    - adj.
+      - `mad` 疯狂的；发疯的；愚蠢的；着迷的
+      - `maddening` 令人发狂的；使人恼火的
+    - adv.
+      - `madly` 疯狂地；发狂地；精神失常地
+    - n.
+      - `mad` 狂怒
+      - `madness` 疯狂；愚蠢的行为
+    - v.
+      - `maddening` 发狂（madden的现在分词）
+  - 近义词
+    - vt. 使疯狂；激怒
+      - `anger`
+      - `provoke`
+    - vi. 发狂
+      - `go ape`
+      - `go bananas`
+  - 例句
+    - `The unfortunate animal was maddened with pain.`
+      - 那可怜的动物痛得发狂。
+

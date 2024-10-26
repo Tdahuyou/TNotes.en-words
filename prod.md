@@ -1,0 +1,30 @@
+- prod
+  - 发音
+    - 英 `/prɒd/`
+    - 美 `/prɑd/`
+  - 词义
+    - v. 刺
+    - `to quickly push something or someone with your finger or a pointed object`
+  - 同根词
+    - n.
+      - `prodding` 促进；刺激
+    - vt.
+      - `prodding` 刺（prod的现在分词）
+  - 近义词
+    - n. 刺针；刺棒；签子
+      - `cnidocil`
+      - `bodkin`
+    - vt. 刺，戳；刺激
+      - `stick`
+      - `stimulate`
+      - `fan`
+      - `pink`
+    - vi. 刺；捅
+      - `poke`
+      - `run through`
+  - 短语
+    - `on the prod` [美国方言]大发脾气 
+  - 例句
+    - `‘Don’t go to sleep,’ she said, prodding me in the ribs.`
+      - “别睡着。”她边说边捅我的肋骨。
+

@@ -1,0 +1,29 @@
+- sigh
+  - 发音
+    - 英 `/saɪ/`
+    - 美 `/saɪ/`
+  - 词义
+    - v. 叹息；叹气
+    - `to breathe in and out making a long sound, especially because you are bored, disappointed, tired etc`
+    - n. 叹息；叹息声
+    - `an act or sound of sighing`
+  - 记忆
+    - 拍着大腿(thigh)， 大声叹息(sigh)
+  - 近义词
+    - vi. 叹息，叹气
+      - `suspire`
+    - n. 叹息，叹气
+      - `suspiration`
+    - vt. 叹息，叹气
+      - `suspire`
+  - 短语
+    - `with a sigh` 长叹一声 
+    - `deep sigh` 深深的叹息 
+    - `sigh for` 渴望；为……叹息 
+    - `heave a sigh` 叹了口气 
+  - 例句
+    - `‘Well, there’s nothing we can do about it now,’ she sighed.`
+      - “唉，我们现在对此无能为力。”她叹口气说。
+    - `We all breathed a sigh of relief when we heard they were safe.`
+      - 听到他们平安无事，我们都松了一口气。
+

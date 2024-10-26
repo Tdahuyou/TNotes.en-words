@@ -1,0 +1,15 @@
+- stonewalling
+  - 发音
+    - 英 `/ˌstəun'wɔːliŋ/`
+    - 美 `/undefined/`
+  - 词义
+    - n. 妨碍或阻碍议程
+  - 同根词
+    - vi.
+      - `stonewall` 妨碍；阻碍；小心翼翼地打球
+    - vt.
+      - `stonewall` 妨碍；阻碍；小心翼翼地打球
+  - 近义词
+    - v. 妨碍（stonewall的ing形式）
+      - `obstructing`
+      - `stopping`

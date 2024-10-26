@@ -1,0 +1,20 @@
+- pseudonym
+  - 发音
+    - 英 `/'sjuːdənim/`
+    - 美 `/'sudənɪm/`
+  - 词义
+    - n. 假名；笔名
+    - `an invented name that a writer, artist etc uses instead of their real name`
+  - 记忆
+    - pseudo (假) + nym (名字) → 假名
+  - 同根词
+    - adj.
+      - `pseudonymous` 匿名的；使用笔名的；使用假名的
+  - 近义词
+    - n. 笔名；[法]假名
+      - `assumed name`
+      - `nom de plume`
+  - 例句
+    - `Both plays were published under the pseudonym of Philip Dayre.`
+      - 两个剧本都是以菲利普·戴尔的笔名发表的。
+

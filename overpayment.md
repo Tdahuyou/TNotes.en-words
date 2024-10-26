@@ -1,0 +1,11 @@
+- overpayment
+  - 发音
+    - 英 `/undefined/`
+    - 美 `/undefined/`
+  - 词义
+    - n. 多付的款项
+  - 同根词
+    - vi.
+      - `overpay` 多付
+    - vt.
+      - `overpay` 多付；多给报酬

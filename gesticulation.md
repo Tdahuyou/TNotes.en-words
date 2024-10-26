@@ -1,0 +1,24 @@
+- gesticulation
+  - 发音
+    - 英 `/dʒesˌtikju'leiʃən/`
+    - 美 `/dʒes,tikju'leiʃən/`
+  - 词义
+    - n. 姿势；做姿势传达；手势
+  - 记忆
+    - gest (运) + icula + tion (表示名词) → 身体的运动 → 做姿势传达
+  - 同根词
+    - adj.
+      - `gestural` 手势的；示意动作的
+    - n.
+      - `gesture` 姿态；手势
+    - vi.
+      - `gesture` 作手势；用动作示意
+      - `gesticulate` 用姿势示意；（讲话时）做手势
+    - vt.
+      - `gesture` 用动作表示
+      - `gesticulate` 用手势谈话；做姿势表达
+  - 近义词
+    - n. 手势；姿势；示意动作
+      - `attitude`
+      - `motion`
+      - `sign`

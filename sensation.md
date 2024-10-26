@@ -1,0 +1,44 @@
+- sensation
+  - 发音
+    - 英 `/sen'seɪʃ(ə)n/`
+    - 美 `/sɛn'seʃən/`
+  - 词义
+    - n. 感觉,感情
+    - `a feeling that you get from one of your five senses, especially the sense of touch`
+  - 同根词
+    - adj.
+      - `sensible` 明智的；明显的；意识到的；通晓事理的
+      - `sensational` 轰动的；耸人听闻的；非常好的；使人感动的
+      - `sensory` 感觉的；知觉的；传递感觉的
+      - `senseless` 愚蠢的；无知觉的；无意识的
+      - `sensing` 敏感的
+      - `sensorial` 知觉的；感觉的
+      - `sensate` 可感觉的；知觉的
+    - adv.
+      - `senselessly` 毫无知觉地；无意识地；不省人事地
+    - n.
+      - `sense` 感觉，官能；观念；道理；理智
+      - `sensible` 可感觉到的东西；敏感的人
+      - `sensor` 传感器
+      - `sensibility` 情感；敏感性；感觉；识别力
+      - `sensing` 传感；感觉；测知
+      - `sensationalism` 追求轰动效应；哗众取宠
+      - `sensationalist` 感觉论者
+    - v.
+      - `sensing` 感觉，了解（sense的现在分词）
+    - vt.
+      - `sense` 感觉到；检测
+      - `sensibilize` 使感觉敏锐
+  - 近义词
+    - n. [生理]感觉；轰动；感动
+      - `consciousness`
+      - `feel`
+  - 短语
+    - `pleasant sensation` 快感 
+    - `visual sensation` 视觉 
+    - `tactile sensation` 触觉；质感 
+    - `auditory sensation` 听觉 
+  - 例句
+    - `Jerry realized that he had no sensation in his legs.`
+      - 杰里意识到自己双腿都没有了知觉。
+

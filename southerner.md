@@ -1,0 +1,34 @@
+- southerner
+  - 发音
+    - 英 `/'sʌð(ə)nə/`
+    - 美 `/'sʌðɚnɚ/`
+  - 词义
+    - n. 南方人,居住在南方的人
+    - `someone from the southern part of a country`
+  - 同根词
+    - adj.
+      - `south` 南的，南方的
+      - `southern` 南的；南方的
+      - `southwest` 西南的
+      - `southeastern` 东南方的；朝东南的
+      - `southward` 向南的；在南方的
+      - `southerly` 来自南方的；向南的
+      - `southernmost` 最南的
+      - `southmost` 最南的
+    - adv.
+      - `south` 在南方，向南方
+      - `southwest` 往西南；来自西南
+      - `southward` 向南
+      - `southerly` 来自南方；向南
+      - `southwards` 往南地；在南方
+    - n.
+      - `south` 南方，南边；南部
+      - `southern` 南方人
+      - `southwest` 西南方
+      - `southward` 朝南的方向
+      - `souther` 正南强风；南风
+      - `southerly` 南风
+  - 例句
+    - `Bob Wilson is a southerner, from Texas.`
+      - 鲍勃•威尔逊是个南方人，来自得克萨斯州。
+

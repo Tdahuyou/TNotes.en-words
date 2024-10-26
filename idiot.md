@@ -1,0 +1,25 @@
+- idiot
+  - 发音
+    - 英 `/'ɪdɪət/`
+    - 美 `/'ɪdɪət/`
+  - 词义
+    - n. 笨蛋，傻瓜；白痴
+    - `a stupid person or someone who has done something stupid`
+  - 同根词
+    - adj.
+      - `idiotic` 白痴的；愚蠢的
+    - adv.
+      - `idiotically` 白痴地
+  - 近义词
+    - n. 笨蛋，傻瓜；[心理]白痴
+      - `simple`
+      - `turkey`
+      - `natural`
+      - `put`
+      - `stupid`
+  - 短语
+    - `idiot box` 电视机 
+  - 例句
+    - `It was all your fault, you idiot.`
+      - 全是你的错，你这笨蛋。
+

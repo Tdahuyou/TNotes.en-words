@@ -1,0 +1,25 @@
+- scissor
+  - 发音
+    - 英 `/'sɪzər/`
+    - 美 `/'sɪzɚ/`
+  - 词义
+    - n. 剪刀
+    - `of or relating to scissors `
+  - 记忆
+    - sciss(切) + or → 切开时所借助的工具 → 剪刀
+  - 同根词
+    - n.
+      - `scissors` 剪刀；剪式跳法
+    - v.
+      - `scissors` 剪开；删除（scissor的第三人称单数）
+  - 近义词
+    - vt. 用剪刀剪；删去
+      - `cancel`
+      - `stroke out`
+    - n. 剪刀
+      - `forfex`
+      - `cutting tools`
+  - 例句
+    - `a scissor blade`
+      - 
+

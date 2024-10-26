@@ -1,0 +1,36 @@
+- medication
+  - 发音
+    - 英 `/ˌmedɪ'keɪʃn/`
+    - 美 `/'mɛdɪ'keʃən/`
+  - 词义
+    - n. 药物治疗；药物
+    - `medicine or drugs given to people who are ill`
+  - 记忆
+    - med(医疗， 治疗) + ic + ation(表物， 名词后缀) → 药物
+  - 同根词
+    - adj.
+      - `medical` 医学的；药的；内科的
+      - `medicinal` 药的；药用的；治疗的（等于medicinable）；有益的
+      - `medicative` 有药效的；可治病的；有治疗作用的
+    - adv.
+      - `medically` 医学上地；医药上地
+      - `medicinally` 用药物，当做药
+    - n.
+      - `medicine` 药；医学；内科；巫术
+      - `medical` 医生；体格检查
+      - `medic` 医师；医科学生；苜蓿属植物（等于medick）
+      - `medicament` 药剂；医药
+    - vt.
+      - `medicine` 用药物治疗；给…用药
+      - `medicate` 用药治疗；加药品于
+      - `medicament` 用药物治疗
+  - 近义词
+    - n. 药物；药物治疗；药物处理
+      - `drugs`
+      - `pharmaceutical`
+  - 短语
+    - `oral medication` 内服；口服法 
+  - 例句
+    - `When somebody comes for treatment I always ask them if they are on any medication.`
+      - 有人来治疗时，我总是会问他们是否在服药。
+

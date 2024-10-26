@@ -1,0 +1,22 @@
+- fungal
+  - 发音
+    - 英 `/'fʌŋg(ə)l/`
+    - 美 `/'fʌŋɡl/`
+  - 词义
+    - adj. 真菌的
+    - `connected with or caused by a  fungus `
+  - 同根词
+    - adj.
+      - `fungicidal` 真菌的；杀霉菌的
+      - `fungoid` 真菌状的
+      - `fungous` 似真菌的；海绵质的
+    - n.
+      - `fungus` 真菌，霉菌；菌类
+      - `fungicide` 杀真菌剂
+      - `fungoid` 真菌
+  - 短语
+    - `fungal infection` 真菌感染；霉菌感染 
+  - 例句
+    - `a fungal infection`
+      - 真菌感染
+

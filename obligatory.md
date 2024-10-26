@@ -1,0 +1,30 @@
+- obligatory
+  - 发音
+    - 英 `/ə'blɪgət(ə)rɪ/`
+    - 美 `/ə'blɪɡətɔri/`
+  - 词义
+    - adj. 义务的；必须的；义不容辞的
+    - `something that is obligatory must be done because of a law, rule etc`
+  - 同根词
+    - adj.
+      - `obliged` 必须的；感激的；有责任的
+      - `obligate` 有责任的，有义务的；必需的
+      - `obligated` 有义务的；责无旁贷的
+    - n.
+      - `obligation` 义务；职责；债务
+      - `obligated` 使负义务（obligate的过去式）
+    - v.
+      - `obliged` 要求；约束；施恩惠（oblige的过去分词）
+    - vt.
+      - `obligate` 使负义务；强使，强迫；对…施以恩惠
+  - 近义词
+    - adj. [法]义务的；必须的；义不容辞的
+      - `compulsory`
+      - `deontic`
+  - 短语
+    - `obligatory right` 债权 
+    - `obligatory course` 必修课 
+  - 例句
+    - `She offered him the obligatory cup of tea.`
+      - 她照例给他端来一杯茶。
+

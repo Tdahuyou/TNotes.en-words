@@ -1,0 +1,33 @@
+- preach
+  - 发音
+    - 英 `/priːtʃ/`
+    - 美 `/pritʃ/`
+  - 词义
+    - v. 布道，讲道；竭力鼓吹，宣讲，宣传；说教
+    - `to talk about a religious subject in a public place, especially in a church during a service`
+  - 记忆
+    - 布道(preach)是想达到(reach)让他人信服的目的
+  - 同根词
+    - adj.
+      - `preaching` 说教的
+      - `preachy` 爱讲道的；爱唠叨的
+    - n.
+      - `preacher` 牧师；传教士；鼓吹者
+      - `preaching` 讲道；劝诫
+      - `preachment` 讲道；长篇大论；说教
+    - v.
+      - `preaching` 讲道（preach的ing形式）
+    - vi.
+      - `preachify` 说教；唠唠叨叨地讲；讲道
+  - 近义词
+    - vt. 说教；讲道；鼓吹；传道；反复灌输
+      - `drum in`
+    - vi. 说教；讲道；鼓吹；宣扬
+      - `boost`
+      - `sermonize`
+    - n. 说教
+      - `homily`
+  - 例句
+    - `He traveled the southern states, preaching the gospel .`
+      - 他游历南方各州宣讲福音。
+

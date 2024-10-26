@@ -1,0 +1,23 @@
+- parasitic
+  - 发音
+    - 英 `/pærə'sɪtɪk/`
+    - 美 `/,pærə'sɪtɪk/`
+  - 词义
+    - adj. 寄生的,由寄生虫引起的
+    - `living in or on another plant or animal and getting food from them`
+  - 同根词
+    - n.
+      - `parasite` 寄生虫；食客
+      - `parasitism` 寄生状态；寄生病
+      - `parasitemia` [内科] 寄生虫血症
+  - 近义词
+    - adj. 寄生的（等于parasitical）
+      - `autoecious`
+      - `adnascent`
+  - 短语
+    - `parasitic capacitance` [计]寄生电容 
+    - `parasitic oscillation` [电]寄生振荡 
+  - 例句
+    - `parasitic fungi`
+      - 寄生真菌
+

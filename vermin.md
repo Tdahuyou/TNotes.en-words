@@ -1,0 +1,22 @@
+- vermin
+  - 发音
+    - 英 `/'vəːmin/`
+    - 美 `/'vɝmɪn/`
+  - 词义
+    - n. 害虫，害兽，寄生虫
+    - `small animals, birds, and insects that are harmful because they destroy crops, spoil food, and spread disease`
+  - 记忆
+    - verm (蠕虫) + in → 害虫
+  - 同根词
+    - adj.
+      - `verminous` 由害虫引起的；害虫的；卑鄙的；肮脏的
+  - 近义词
+    - n. 害虫；[动]寄生虫；歹徒
+      - `insect pest`
+      - `injurious insect`
+  - 例句
+    - `The beds were filthy and full of vermin.`
+      - 那些床铺肮脏不堪，而且爬满了虫子。
+    - `Foxes are considered vermin.`
+      - 狐狸被认为是害兽。
+

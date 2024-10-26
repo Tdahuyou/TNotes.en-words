@@ -1,0 +1,10 @@
+- springlock
+  - 发音
+    - 英 `/undefined/`
+    - 美 `/undefined/`
+  - 词义
+    - n. 弹簧锁
+  - 近义词
+    - n. 弹簧锁
+      - `snap lock`
+      - `deadlatch`

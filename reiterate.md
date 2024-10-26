@@ -1,0 +1,23 @@
+- reiterate
+  - 发音
+    - 英 `/ri'ɪtəreɪt/`
+    - 美 `/rɪ'ɪtəret/`
+  - 词义
+    - vt. 反复说，重申
+    - `to repeat a statement or opinion in order to make your meaning as clear as possible`
+  - 记忆
+    - re(再， 又) + it(走) + erate → 反复地走 → 反复说， 重申
+  - 同根词
+    - adj.
+      - `reiterative` 反复的
+    - n.
+      - `reiteration` 重复；反复；重说
+      - `reiterative` 叠词
+  - 近义词
+    - vt. 重申；反复地做
+      - `ingeminate`
+      - `restate`
+  - 例句
+    - `Let me reiterate the most important points.`
+      - 我来把最重要的几点重申一遍。
+

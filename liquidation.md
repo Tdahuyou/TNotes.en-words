@@ -1,0 +1,40 @@
+- liquidation
+  - 发音
+    - 英 `/lɪkwɪ'deɪʃ(ə)n/`
+    - 美 `/,lɪkwɪ'deʃən/`
+  - 词义
+    - n. 清算
+    - `the act of closing a company by selling the things that belong to it, in order to pay its debts`
+  - 同根词
+    - adj.
+      - `liquid` 液体的；清澈的；明亮的；易变的
+      - `liquefied` 液化的
+      - `liquefiable` 液化的；可溶解的
+      - `liquescent` 可液化的
+    - n.
+      - `liquid` 液体，流体；流音
+      - `liquidity` 流动性；流动资产；[金融] 偿债能力
+      - `liquefaction` 液化；熔解
+      - `liquidator` 清算人；公司资产清理人
+      - `liquidizer` 榨汁机；食物液化器（等于blender）
+    - v.
+      - `liquefied` 液化；溶解（liquefy的过去分词）
+    - vi.
+      - `liquidate` 清算；清理债务
+      - `liquify` 液化；溶解（等于liquefy）
+      - `liquidize` 液化
+    - vt.
+      - `liquidate` 清算；偿付；消除
+      - `liquefy` 液化；溶解
+      - `liquify` 液化；溶解（等于liquefy）
+      - `liquidise` 使液化（等于liquidize）
+      - `liquidize` 使液化
+  - 近义词
+    - n. [会计]清算；偿还；液化；清除
+      - `payment`
+      - `cleaning`
+      - `repayment`
+  - 例句
+    - `Hundreds of small businesses went into liquidation (= were closed ).`
+      - 数以百计的小公司破产了。
+

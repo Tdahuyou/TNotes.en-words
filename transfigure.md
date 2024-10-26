@@ -1,0 +1,20 @@
+- transfigure
+  - 发音
+    - 英 `/træns'figə/`
+    - 美 `/træns'fɪɡjɚ/`
+  - 词义
+    - v. 美化
+    - `to change the way someone or something looks, especially so that they become more beautiful`
+  - 记忆
+    - trans (改变) + figure (形象) → 改变形象 → 美化
+  - 同根词
+    - n.
+      - `transfiguration` 变形；变容；变貌
+  - 近义词
+    - vt. 使变形；使改观；美化；理想化
+      - `candy`
+      - `deform`
+  - 例句
+    - `Her face was transfigured with joy.`
+      - 她高兴得容光焕发。
+

@@ -1,0 +1,28 @@
+- responsive
+  - 发音
+    - 英 `/rɪ'spɒnsɪv/`
+    - 美 `/rɪ'spɑnsɪv/`
+  - 词义
+    - adj. 响应的,应答的
+    - `reacting quickly, in a positive way`
+  - 同根词
+    - adj.
+      - `respondent` 回答的；应答的
+    - n.
+      - `response` 响应；反应；回答
+      - `respond` 应答；唱和
+      - `respondent` [法] 被告；应答者
+      - `responsiveness` 响应能力；有同情心
+      - `responder` 响应器；回答者
+      - `responsion` 答复；应答
+    - vi.
+      - `respond` 回答；作出反应；承担责任
+    - vt.
+      - `respond` 以…回答
+  - 近义词
+    - adj. 响应的；应答的；回答的
+      - `answering`
+  - 例句
+    - `a car with highly responsive steering`
+      - 方向盘操纵灵活的汽车
+

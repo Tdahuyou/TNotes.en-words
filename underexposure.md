@@ -1,0 +1,13 @@
+- underexposure
+  - 发音
+    - 英 `/ˌʌndəriks'pəuʒə/`
+    - 美 `/undefined/`
+  - 词义
+    - n. 曝光不足
+    - `inadequate exposure to light `
+  - 同根词
+    - vt.
+      - `underexpose` 使曝光不足
+  - 近义词
+    - n. [天][摄]曝光不足
+      - `unfill`

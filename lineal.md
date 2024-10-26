@@ -1,0 +1,20 @@
+- lineal
+  - 发音
+    - 英 `/'lɪniəl/`
+    - 美 `/'lɪnɪəl/`
+  - 词义
+    - adj. 直系的，嫡系的
+    - `related directly to someone who lived a long time before you`
+  - 记忆
+    - lim(线) + eal → 直系的
+  - 同根词
+    - adv.
+      - `lineally` 直系地；嫡系地
+  - 近义词
+    - adj. 直系的；嫡系的；世袭的
+      - `direct`
+      - `patrimonial`
+  - 例句
+    - `lineal descendants`
+      - 直系后代
+

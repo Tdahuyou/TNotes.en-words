@@ -1,0 +1,23 @@
+- nihilism
+  - 发音
+    - 英 `/'naiəˌlizəm/`
+    - 美 `/'naɪɪlɪzəm/`
+  - 词义
+    - n. 虚无主义；怀疑论；无政府主义
+    - `the belief that nothing has any meaning or value`
+  - 记忆
+    - 来自nihil (无) + ism → 虚无主义
+  - 同根词
+    - adj.
+      - `nihilistic` 虚无主义的；无政府主义的
+    - n.
+      - `nihil` 无；虚无；毫无价值的东西
+      - `nihilist` 虚无主义者
+      - `nihility` 虚无
+  - 近义词
+    - n. 虚无主义；无政府主义；恐怖行为
+      - `anarchism`
+  - 例句
+    - `Doris: You have no values. With you it's all nihilism, cynicism, sarcasm, and orgasm.`
+      - 你没有价值观，你拥有的仅仅是虚无主义，犬儒主义，挖苦讽刺和性高潮。 。
+

@@ -1,0 +1,36 @@
+- psychopath
+  - 发音
+    - 英 `/'saɪkəpæθ/`
+    - 美 `/'saɪkəpæθ/`
+  - 词义
+    - n. 精神病患者
+    - `someone who has a serious and permanent mental illness that makes them behave in a violent or criminal way`
+  - 记忆
+    - psycho(精神) + path(病患者) → 精神病患者 → 精神变态者
+  - 同根词
+    - adj.
+      - `psychological` 心理的；心理学的；精神上的
+      - `psychomotor` 精神运动的
+      - `psychopathic` 精神病的；精神错乱的
+      - `psychosexual` 精神性欲的；有性特性的
+      - `psychoneurotic` 患精神神经症的
+      - `psychopathological` 精神病理学的
+    - n.
+      - `psychosis` 精神病；精神错乱
+      - `psychopathology` 精神病理学
+      - `psychopathic` 精神变态者
+      - `psychoneurosis` [内科] 精神神经病（等于neurosis）
+      - `psychoneurotic` 精神性神经病患者（等于psychoneurosis）
+      - `psychopathy` 精神变态，精神病
+      - `psychopharmacology` 精神病药物学；药理学
+      - `psychophysics` 心理物理学；精神物理学
+      - `psychophysiology` 心理生理学；精神生理学
+      - `psychosexuality` 意淫；精神性欲
+  - 近义词
+    - n. 精神病患者
+      - `mental`
+      - `madman`
+  - 例句
+    - `She was abducted by a dangerous psychopath.`
+      - 她被一名危险的精神变态者劫持了。
+

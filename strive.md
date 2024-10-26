@@ -1,0 +1,30 @@
+- strive
+  - 发音
+    - 英 `/straɪv/`
+    - 美 `/straɪv/`
+  - 词义
+    - vi. 奋斗，努力；力求
+    - `to make a great effort to achieve something`
+  - 记忆
+    - s + trive(看做drive， 动力) → 奋斗需要动力 → 奋斗
+  - 同根词
+    - n.
+      - `striving` 努力；斗争
+      - `striver` 奋斗者
+    - v.
+      - `striving` 努力（strive的现在分词）；奋斗；力争
+  - 近义词
+    - vi. 努力；奋斗；抗争
+      - `apply oneself`
+      - `struggle`
+      - `labor`
+  - 短语
+    - `strive for` 争取，奋斗 
+    - `strive to develop` 努力发展；大力发展 
+    - `strive after` 奋斗；争取 
+    - `strive against` 反抗 
+    - `strive for freedom` 力争自由 
+  - 例句
+    - `He strives hard to keep himself very fit.`
+      - 他努力使自己保持非常的健康。
+

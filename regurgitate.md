@@ -1,0 +1,18 @@
+- regurgitate
+  - 发音
+    - 英 `/rɪ'gɜːdʒɪteɪt/`
+    - 美 `/rɪ'ɡɝdʒɪtet/`
+  - 词义
+    - v. 反刍,（液体）回流
+    - `to bring food that you have already swallowed, back into your mouth`
+  - 同根词
+    - n.
+      - `regurgitation` 回流；反刍；流回
+  - 近义词
+    - vi. 回流；回涌；反胃；反刍
+      - `back flow`
+      - `inverse flow`
+  - 例句
+    - `Some birds and animals regurgitate food to feed their young.`
+      - 有些鸟兽会回吐食物以喂哺幼崽。
+

@@ -1,0 +1,20 @@
+- fugacious
+  - 发音
+    - 英 `/fjuː'geiʃəs/`
+    - 美 `/fju:'ɡeiʃəs/`
+  - 词义
+    - adj. 短暂的
+    - `passing quickly away; transitory; fleeting `
+  - 同根词
+    - adj.
+      - `fugitive` 逃亡的；无常的；易变的
+    - n.
+      - `fugitive` 逃亡者；难捕捉之物
+      - `fugacity` 无常；易逃逸；不安定
+  - 近义词
+    - adj. 无常的；短暂的；易逃逸的
+      - `uncertain`
+      - `brief`
+      - `little`
+      - `passing`
+      - `transient`

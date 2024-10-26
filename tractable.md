@@ -1,0 +1,19 @@
+- tractable
+  - 发音
+    - 英 `/'træktəbl/`
+    - 美 `/'træktəbl/`
+  - 词义
+    - adj. 易驾驭的，驯良的；易处理的
+    - `easy to control or deal with`
+  - 记忆
+    - tract (拉) + able (能够…的) → 能够拉的 → 易驾驭的
+  - 同根词
+    - n.
+      - `tractability` 温顺；驯良；易处理
+  - 近义词
+    - adj. 易于管教的；易驾驭的；易处理的；驯良的
+      - `teachable`
+  - 例句
+    - `The issues have proved to be less tractable than expected.`
+      - 结果这些问题比预想的要难以处理。
+

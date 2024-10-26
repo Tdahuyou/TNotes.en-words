@@ -1,0 +1,34 @@
+- neighbouring
+  - 发音
+    - 英 `/'neɪb(ə)rɪŋ/`
+    - 美 `/'neibəriŋ/`
+  - 词义
+    - adj. 邻近的，接壤的
+    - `near the place where you are or the place you are talking about`
+  - 同根词
+    - adj.
+      - `neighbor` 邻近的
+      - `neighbour` 邻居的；邻近的
+      - `neighboring` 邻近的；附近的（等于neighbouring）
+      - `neighbourly` 像邻居的；亲切的；睦邻的
+    - n.
+      - `neighborhood` 附近；街坊；接近
+      - `neighbor` 邻居
+      - `neighbour` 邻居；仁慈的人
+      - `neighbourhood` 邻近；周围；邻居关系；附近一带
+    - v.
+      - `neighboring` 与…为邻；位于附近（neighbor的ing形式）
+    - vi.
+      - `neighbor` 友好；毗邻而居
+      - `neighbour` 住在邻近；毗邻；友善
+    - vt.
+      - `neighbor` 邻接
+      - `neighbour` 邻接
+  - 近义词
+    - adj. 邻近的；附近的；接壤的
+      - `adjacent`
+      - `surrounding`
+  - 例句
+    - `The fair attracted hundreds of people from the neighbouring towns and villages.`
+      - 集市吸引了邻近城镇及村庄的好几百人前来。
+

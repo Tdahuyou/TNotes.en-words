@@ -1,0 +1,21 @@
+- explicable
+  - 发音
+    - 英 `/ɪk'splɪkəb(ə)l; ek-; 'eksplɪ,kəb(ə)l/`
+    - 美 `/ɪk'splɪkəbl/`
+  - 词义
+    - adj. 可解释的，可说明的
+    - `able to be easily understood or explained`
+  - 同根词
+    - n.
+      - `explication` 说明；阐明；展开（花瓣、叶子等的）
+      - `explicandum` 在待解释的术语或陈述
+    - vt.
+      - `explicate` 说明，解释
+  - 近义词
+    - adj. 可解释的，可说明的
+      - `accountable`
+      - `decipherable`
+  - 例句
+    - `The success of the Revolution is explicable in terms of the weakness of the king’s government.`
+      - 革命的成功可归因于国王政府的软弱。
+

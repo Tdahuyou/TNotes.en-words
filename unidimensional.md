@@ -1,0 +1,11 @@
+- unidimensional
+  - 发音
+    - 英 `/ˌjuːnɪdaɪ'menʃənl/`
+    - 美 `/,jʊnɪdɪ'mɛnʃənəl; ,jʊnɪdaɪ'mɛnʃənəl/`
+  - 词义
+    - adj. 一维的
+  - 记忆
+    - uni(单一) + dimensional(空间的) → 一维的
+  - 近义词
+    - adj. [数]一维的；线性的
+      - `straight-line`

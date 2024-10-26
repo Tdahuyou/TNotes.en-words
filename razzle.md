@@ -1,0 +1,10 @@
+- razzle
+  - 发音
+    - 英 `/undefined/`
+    - 美 `/undefined/`
+  - 词义
+    - n. 眼花缭乱,喧闹,旋转木马
+  - 近义词
+    - n. 旋转木马；喧闹
+      - `carousel`
+      - `carrousel`

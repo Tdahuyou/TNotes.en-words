@@ -1,0 +1,17 @@
+- nutritionally
+  - 发音
+    - 英 `/undefined/`
+    - 美 `/undefined/`
+  - 词义
+    - adv. 在营养上,营养方面
+  - 同根词
+    - adj.
+      - `nutrient` 营养的；滋养的
+      - `nutritious` 有营养的，滋养的
+      - `nutritional` 营养的；滋养的
+      - `nutritive` 有营养的；滋养的；有营养成份的；与营养有关的
+    - n.
+      - `nutrient` 营养物；滋养物
+      - `nutrition` 营养，营养学；营养品
+      - `nutritionist` 营养学家
+      - `nutritive` 营养物

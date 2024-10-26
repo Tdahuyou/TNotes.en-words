@@ -1,0 +1,19 @@
+- materialistic
+  - 发音
+    - 英 `/məˌtɪəriə'lɪstɪk/`
+    - 美 `/mə'tɪrɪə'lɪstɪk/`
+  - 词义
+    - adj. 唯物主义的；物质享乐主义的，贪图享乐的
+    - `concerned only with money and possessions rather than things of the mind such as art, religion, or moral beliefs – used in order to show disapproval`
+  - 记忆
+    - 来自material(a. 物质的)
+  - 同根词
+    - n.
+      - `materialism` 唯物主义；唯物论；物质主义
+      - `materialist` 唯物主义者；实利主义者
+  - 例句
+    - `He’s so materialistic.`
+      - 他太实利主义了。
+    - `the materialistic values of American society`
+      - 美国社会的实利主义价值观
+

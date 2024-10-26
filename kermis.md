@@ -1,0 +1,10 @@
+- kermis
+  - 发音
+    - 英 `/'kəːmis/`
+    - 美 `/undefined/`
+  - 词义
+    - n. 义卖市场
+  - 近义词
+    - n. 庙会；义卖会；露天市集
+      - `temple fair`
+      - `kirmess`

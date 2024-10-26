@@ -1,0 +1,11 @@
+- expunge
+  - 发音
+    - 英 `/ɪk'spʌn(d)ʒ; ek-/`
+    - 美 `/ɪk'spʌndʒ/`
+  - 词义
+    - v. 擦去；删掉
+    - `to remove a name from a list, piece of information, or book`
+  - 近义词
+    - vt. 擦去；删掉
+      - `wipe away`
+      - `absterge`

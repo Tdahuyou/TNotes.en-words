@@ -1,0 +1,38 @@
+- lengthen
+  - 发音
+    - 英 `/'leŋθən/`
+    - 美 `/'lɛŋθən/`
+  - 词义
+    - v. 延长，变长
+    - `to make something longer or to become longer`
+  - 记忆
+    - 来自length(n. 长度)
+  - 同根词
+    - adj.
+      - `long` 长的；过长的；做多头的
+      - `lengthy` 漫长的，冗长的；啰唆的
+      - `lengthwise` 纵长的
+      - `longish` 稍长的；略长的
+    - adv.
+      - `long` 长期地；始终
+      - `lengthwise` 纵长地
+      - `lengthily` 冗长地；长地
+      - `longwise` 纵长地
+    - n.
+      - `length` 长度，长；时间的长短；（语）音长
+      - `long` 长时间；[语] 长音节
+      - `lengthiness` 冗长
+      - `longness` 长度
+    - vi.
+      - `long` 渴望；热望
+  - 近义词
+    - vt. 使延长；加长
+      - `elongate`
+    - vi. 延长；变长
+      - `get long`
+  - 例句
+    - `Can you lengthen this skirt for me?`
+      - 你能不能帮我把这条裙子改长？
+    - `The days lengthened as summer approached.`
+      - 随着夏天来临，白天变长了。
+

@@ -1,0 +1,26 @@
+- monstrous
+  - 发音
+    - 英 `/'mɒnstrəs/`
+    - 美 `/'mɑnstrəs/`
+  - 词义
+    - adj. 巨大的；怪异的；荒谬的；畸形的
+    - `unusually large`
+  - 同根词
+    - adj.
+      - `monster` 巨大的，庞大的
+    - adv.
+      - `monstrously` 可怕地；荒唐地；强烈地
+    - n.
+      - `monster` 怪物；巨人，巨兽；残忍的人
+      - `monstrosity` 畸形；可怕的东西；残暴
+  - 近义词
+    - adj. 巨大的；怪异的；荒谬的；畸形的
+      - `huge`
+      - `tremendous`
+      - `enormous`
+      - `massive`
+      - `macro`
+  - 例句
+    - `a monstrous nose`
+      - 很大的鼻子
+

@@ -1,0 +1,20 @@
+- reimburse
+  - 发音
+    - 英 `/ˌriːim'bəːs/`
+    - 美 `/,riɪm'bɝs/`
+  - 词义
+    - v. 偿还
+    - `to pay money back to someone when their money has been spent or lost`
+  - 记忆
+    - re + im (进入) + burse (钱包) → 借出的钱重新进入钱包 → 偿还
+  - 同根词
+    - n.
+      - `reimbursement` 退还，偿还；赔偿
+  - 近义词
+    - vt. 偿还；赔偿
+      - `replace`
+      - `tender`
+  - 例句
+    - `I'll be happy to reimburse you for any expenses you've had.`
+      - 我很乐意报销你的所有花费。
+

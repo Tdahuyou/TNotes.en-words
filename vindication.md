@@ -1,0 +1,17 @@
+- vindication
+  - 发音
+    - 英 `/ˌvɪndɪ'keɪʃn/`
+    - 美 `/,vɪndə'keʃən/`
+  - 词义
+    - n. 证明无罪，辩护
+  - 同根词
+    - adj.
+      - `vindicatory` 惩罚的；报复的；辩护的
+    - n.
+      - `vindicator` 维护者；辩护者；证明者
+    - vt.
+      - `vindicate` 维护；证明…无辜；证明…正确
+  - 近义词
+    - n. 辩护；证明无罪
+      - `apology`
+      - `justification`

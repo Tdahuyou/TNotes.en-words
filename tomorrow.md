@@ -1,0 +1,27 @@
+- tomorrow
+  - 发音
+    - 英 `/tə'mɒrəʊ/`
+    - 美 `/tə'mɔro/`
+  - 词义
+    - n. 明天
+    - `the day after today`
+  - 同根词
+    - n.
+      - `tomorrower` 做事拖拉的人
+  - 近义词
+    - n. 明天；未来
+      - `future`
+      - `demain`
+  - 短语
+    - `tomorrow morning` 明天早上 
+    - `tomorrow afternoon` 明天下午 
+    - `tomorrow is another day` 明天又是崭新的一天 
+    - `day after tomorrow` n. 后天 
+    - `tomorrow night` 明天晚上 
+    - `tomorrow evening` 明天晚上 
+    - `see you tomorrow` 明天见 
+    - `tomorrow never comes` 切莫依赖明天 
+  - 例句
+    - `I’ll see you at tomorrow’s meeting.`
+      - 明天会上见。
+

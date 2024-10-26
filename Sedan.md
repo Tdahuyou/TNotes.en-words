@@ -1,0 +1,13 @@
+- Sedan
+  - 发音
+    - 英 `/sɪ'dæn/`
+    - 美 `/sɪ'dæn/`
+  - 词义
+    - n. 轿车；轿子
+  - 近义词
+    - n. 轿车；轿子
+      - `saloon car`
+      - `passenger car`
+  - 短语
+    - `sedan chair` 轿子 
+    - `sedan car` 小轿车 

@@ -1,0 +1,21 @@
+- resemble
+  - 发音
+    - 英 `/rɪ'zembl/`
+    - 美 `/rɪ'zɛmbl/`
+  - 词义
+    - vt. 与…相似，像
+    - `to look like or be similar to someone or something`
+  - 记忆
+    - re(再， 又) + sembl(一样， 相同) + e → 与…相似， 像
+  - 同根词
+    - n.
+      - `resemblance` 相似；相似之处；相似物；肖像
+  - 近义词
+    - vt. 类似，像
+      - `favor`
+  - 例句
+    - `It’s amazing how closely Brian and Steve resemble each other.`
+      - 布赖恩和史蒂夫真是惊人地相像。
+    - `He grew up to resemble his father.`
+      - 他长大了，很像他父亲。
+

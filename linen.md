@@ -1,0 +1,27 @@
+- linen
+  - 发音
+    - 英 `/'lɪnɪn/`
+    - 美 `/'lɪnɪn/`
+  - 词义
+    - n. 亚麻织品；亚麻布
+    - `cloth made from the flax plant, used to make high quality clothes, home decorations etc`
+  - 记忆
+    - line(线) + n → 用亚麻线一根根织成的 → 亚麻织品
+  - 同根词
+    - n.
+      - `linendraper` 衬衣类商人；亚麻布商
+  - 近义词
+    - n. 亚麻布，亚麻线；[纺]亚麻制品
+      - `flax`
+    - adj. 亚麻的；[纺]亚麻布制的
+      - `flaxen`
+  - 短语
+    - `bed linen` 被单和枕套 
+    - `linen yarn` 亚麻纱 
+    - `dirty linen` 家丑 
+    - `table linen` 餐布，餐桌用布 
+    - `linen cloth` 亚麻布；亚麻织物 
+  - 例句
+    - `a linen jacket`
+      - 亚麻布夹克
+

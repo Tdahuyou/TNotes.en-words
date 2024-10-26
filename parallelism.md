@@ -1,0 +1,27 @@
+- parallelism
+  - 发音
+    - 英 `/'pærəlelɪzəm/`
+    - 美 `/'pærəlɛl'ɪzəm/`
+  - 词义
+    - n. 平行，类似
+    - `the state of being  parallel  with something`
+  - 记忆
+    - parallel(平行的) + ism → 平行， 类似
+  - 同根词
+    - adj.
+      - `parallel` 平行的；类似的，相同的
+    - n.
+      - `parallel` 平行线；对比
+      - `parallelogram` 平行四边形
+      - `parallelepiped` 平行六面体
+    - vt.
+      - `parallel` 使…与…平行
+      - `parallelize` 平行放置；使……平行于……
+  - 近义词
+    - n. [数]平行；类似，对应
+      - `similarity`
+      - `analogy`
+  - 例句
+    - `There is a parallelism between fatigue and the ability to sleep.`
+      - 疲劳与能否入睡有关。
+

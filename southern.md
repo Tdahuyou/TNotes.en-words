@@ -1,0 +1,38 @@
+- southern
+  - 发音
+    - 英 `/'sʌð(ə)n/`
+    - 美 `/'sʌðɚn/`
+  - 词义
+    - adj. 南方的
+    - `in or from the south of a country or area`
+  - 同根词
+    - adj.
+      - `south` 南的，南方的
+      - `southward` 向南的；在南方的
+      - `southerly` 来自南方的；向南的
+      - `southernmost` 最南的
+      - `southmost` 最南的
+    - adv.
+      - `south` 在南方，向南方
+      - `southward` 向南
+      - `southerly` 来自南方；向南
+      - `southwards` 往南地；在南方
+    - n.
+      - `south` 南方，南边；南部
+      - `southerner` 南方人
+      - `southward` 朝南的方向
+      - `souther` 正南强风；南风
+      - `southerly` 南风
+  - 近义词
+    - adj. 南的；南方的
+      - `austral`
+  - 短语
+    - `southern hemisphere` 南半球 
+    - `university of southern california` 南加利福尼亚大学 
+    - `southern cross` [天]南十字星座 
+  - 例句
+    - `a southern accent`
+      - 南部口音
+    - `Southern Italy`
+      - 意大利南部
+

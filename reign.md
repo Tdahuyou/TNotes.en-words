@@ -1,0 +1,31 @@
+- reign
+  - 发音
+    - 英 `/reɪn/`
+    - 美 `/ren/`
+  - 词义
+    - n. 统治，支配；
+    - `the period when someone is king, queen, or  emperor `
+  - 记忆
+    - reig(=reg 统治) + n → 统治
+  - 同根词
+    - adj.
+      - `reigning` 统治的；在位的；本届的；起支配作用的
+    - v.
+      - `reigning` 统治；支配；盛行（reign的ing形式）
+  - 近义词
+    - vi. 统治；支配；盛行；君临
+      - `predominate over`
+      - `to rule`
+    - n. 统治；统治时期；支配
+      - `governance`
+      - `disposal`
+      - `rule`
+      - `dominance`
+  - 短语
+    - `reign over` 统治；盛行 
+    - `reign of terror` 恐怖统治 
+    - `reign supreme` ◎主宰；称雄 
+  - 例句
+    - `...Queen Victoria's reign.`
+      - …维多利亚女王的统治时期。
+

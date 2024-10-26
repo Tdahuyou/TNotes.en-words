@@ -1,0 +1,23 @@
+- intensely
+  - 发音
+    - 英 `/in'tensli/`
+    - 美 `/in'tensli/`
+  - 词义
+    - adv. 激烈地；热切地
+  - 同根词
+    - adj.
+      - `intense` 强烈的；紧张的；非常的；热情的
+      - `intensive` 加强的；集中的；透彻的；加强语气的
+      - `intensional` 内涵的；紧张的
+    - n.
+      - `intensity` 强度；强烈；[电子] 亮度；紧张
+      - `intensive` 加强器
+      - `intension` 强度，烈度；加强，加剧；紧张
+    - vi.
+      - `intensify` 增强，强化；变激烈
+    - vt.
+      - `intensify` 使加强，使强化；使变激烈
+  - 近义词
+    - adv. 强烈地；紧张地；热情地
+      - `warmly`
+      - `consumingly`

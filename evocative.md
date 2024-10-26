@@ -1,0 +1,14 @@
+- evocative
+  - 发音
+    - 英 `/ɪ'vɒkətɪv/`
+    - 美 `/ɪ'vɑkətɪv/`
+  - 词义
+    - adj. 唤起的；唤出的
+    - `making people remember something by producing a feeling or memory in them`
+  - 同根词
+    - n.
+      - `evocation` 招魂；唤起；唤出
+  - 例句
+    - `evocative music`
+      - 勾起回忆的音乐
+

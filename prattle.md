@@ -1,0 +1,22 @@
+- prattle
+  - 发音
+    - 英 `/'prætl/`
+    - 美 `/'prætl/`
+  - 词义
+    - v. 说孩子气的话；闲聊
+  - 记忆
+    - 和rattle (v. 喋喋不休) 一起记
+  - 同根词
+    - n.
+      - `prattler` 空谈者，闲扯的人；说半截话的人；饶舌的人
+  - 近义词
+    - vi. 闲聊；胡说；小孩般说话
+      - `chat about`
+      - `make conversation`
+    - n. 无聊话；咿咿呀呀声
+      - `small change`
+      - `wish-wash`
+  - 例句
+    - `Lou prattled on about various trivialities till I wanted to scream.`
+      - 卢就各种琐碎小事唠叨个没完，一直到我烦得都想尖叫了。
+

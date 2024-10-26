@@ -1,0 +1,9 @@
+- Holly
+  - 发音
+    - 英 `/'hɒlɪ/`
+    - 美 `/'hɑli/`
+  - 词义
+  - 近义词
+    - n. [植]冬青树（等于holm oak）
+      - `evergreen tree`
+      - `wintergreen`

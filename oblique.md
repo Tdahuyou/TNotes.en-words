@@ -1,0 +1,34 @@
+- oblique
+  - 发音
+    - 英 `/ə'bliːk/`
+    - 美 `/ə'blik/`
+  - 词义
+    - adj. 倾斜的；间接的；不坦率的，无诚意的
+    - `not expressed in a direct way`
+  - 记忆
+    - ob (表加强) + lique (歪斜的) → 倾斜的
+  - 同根词
+    - adv.
+      - `obliquely` 倾斜地；转弯抹角地
+    - n.
+      - `obliquity` 倾斜；倾斜度；不正直
+      - `obliqueness` 倾斜；斜度；歪斜
+  - 近义词
+    - adj. [数]斜的；不光明正大的
+      - `off-angle`
+      - `pitched`
+    - vi. 倾斜
+      - `pitch`
+      - `slope`
+      - `lean`
+  - 短语
+    - `oblique angle` 斜角（包括锐角和钝角） 
+    - `oblique incidence` 倾斜入射 
+    - `oblique line` 斜线；一般位置直线 
+    - `oblique section` 斜剖面 
+    - `oblique flow` 斜流 
+    - `oblique shock wave` 斜冲花；斜激波；斜震波 
+  - 例句
+    - `an oblique reference to his drinking problem`
+      - 拐弯抹角地提及他的酗酒问题
+

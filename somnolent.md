@@ -1,0 +1,23 @@
+- somnolent
+  - 发音
+    - 英 `/'sɔmnələnt/`
+    - 美 `/'sɑmnələnt/`
+  - 词义
+    - adj. 想睡的；催眠的
+    - `almost starting to sleep`
+  - 记忆
+    - somn (睡) + olent → 想睡的
+  - 同根词
+    - adj.
+      - `somniferous` 催眠的；使爱睡的；想睡的
+      - `somnific` 催眠的；使爱睡的
+    - n.
+      - `somnolence` 困倦；想睡；嗜眠症
+  - 近义词
+    - adj. 催眠的，想睡的
+      - `hypnogenetic`
+      - `soporiferous`
+  - 例句
+    - `He lay quiet, somnolent after the day’s exertions.`
+      - 他静静地躺着，劳累了一天之后感到十分困倦。
+

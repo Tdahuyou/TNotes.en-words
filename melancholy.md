@@ -1,0 +1,28 @@
+- melancholy
+  - 发音
+    - 英 `/'melənkəli/`
+    - 美 `/'mɛlənkɑli/`
+  - 词义
+    - adj. 忧郁
+    - `very sad`
+  - 记忆
+    - melan (黑色) + chol ( = bile胆汁) + y → 伤心得胆汁都发黑了 → 忧郁的
+  - 同根词
+    - adj.
+      - `melancholic` 忧郁的；抑郁的；患忧郁症的
+      - `melancholiac` 患忧郁症的
+    - n.
+      - `melancholic` 忧郁症患者
+      - `melancholia` 忧郁症
+      - `melancholiac` 忧郁症患者
+  - 近义词
+    - adj. 忧郁的；使人悲伤的
+      - `blue`
+      - `dark`
+    - n. 忧郁；悲哀；愁思
+      - `sadness`
+      - `doldrums`
+  - 例句
+    - `The music suited her melancholy mood.`
+      - 这音乐很适合她的伤感情绪。
+

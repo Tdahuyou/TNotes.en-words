@@ -1,0 +1,25 @@
+- markedly
+  - 发音
+    - 英 `/'mɑːkɪdlɪ/`
+    - 美 `/'ma:kidli/`
+  - 词义
+    - adv. 显著地,明显地
+  - 同根词
+    - adj.
+      - `marked` 显著的；有记号的
+    - n.
+      - `marking` 标志；打分；做记号；斑纹
+    - v.
+      - `marked` 表示（mark的过去分词）；作记号；打分数
+      - `marking` 注意；作记号于；给…打分数（mark的ing形式）
+  - 近义词
+    - adv. 明显地；显著地；引人注目地
+      - `obviously`
+      - `clearly`
+      - `broadly`
+      - `remarkably`
+      - `dramatically`
+  - 例句
+    - `Bankers say that they have got tougher but they have still tightened lending standards less markedly than their counterparts in the euro area as a whole.`
+      - 银行业主说他们已经紧缩了信用，但是整体上他们对借贷标准的收紧并没有像欧洲其他地区的同行那样明显。
+

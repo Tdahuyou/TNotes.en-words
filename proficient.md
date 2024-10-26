@@ -1,0 +1,31 @@
+- proficient
+  - 发音
+    - 英 `/prə'fɪʃnt/`
+    - 美 `/prə'fɪʃnt/`
+  - 词义
+    - adj. 熟练的，精通的
+    - `able to do something well or skilfully`
+  - 记忆
+    - pro(在…前面) + fic(做) + ient → 提前做了， 更熟练 → 熟练的， 精通的
+  - 同根词
+    - adv.
+      - `proficiently` 精通地
+    - n.
+      - `proficiency` 精通，熟练
+      - `professionalism` 专业主义；专家的地位；特性或方法
+  - 近义词
+    - adj. 熟练的，精通的
+      - `experienced`
+      - `skilled`
+      - `accomplished`
+      - `perfect`
+      - `clever`
+    - n. 精通；专家，能手
+      - `expert`
+      - `specialist`
+  - 短语
+    - `proficient in` 精通；熟练 
+  - 例句
+    - `a proficient typist`
+      - 熟练的打字员
+

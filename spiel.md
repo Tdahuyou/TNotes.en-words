@@ -1,0 +1,14 @@
+- spiel
+  - 发音
+    - 英 `/spiːl/`
+    - 美 `/ʃpil/`
+  - 词义
+    - n. 滔滔不绝的讲话
+  - 近义词
+    - vi. 演奏音乐；高谈阔论
+      - `oratorize`
+      - `speechify`
+  - 例句
+    - `A salesman started giving us a spiel about life insurance.`
+      - 一名推销员开始夸夸其谈，向我们推销人寿保险。
+

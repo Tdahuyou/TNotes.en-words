@@ -1,0 +1,23 @@
+- vapid
+  - 发音
+    - 英 `/'væpid/`
+    - 美 `/'væpɪd/`
+  - 词义
+    - adj. 索然乏味的
+    - `lacking intelligence, interest, or imagination`
+  - 记忆
+    - 水蒸气 (vapor) 是索然无味的 → 索然无味的
+  - 同根词
+    - adv.
+      - `vapidly` 无生气地；无趣地
+    - n.
+      - `vapidity` 无生气；无趣；乏味；走气
+      - `vapidness` 无趣
+  - 近义词
+    - adj. 无趣味的；无生气的；索然乏味的
+      - `uninteresting`
+      - `flavourless`
+  - 例句
+    - `vapid conversation`
+      - 平淡乏味的对话
+

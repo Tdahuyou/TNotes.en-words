@@ -1,0 +1,31 @@
+- inviting
+  - 发音
+    - 英 `/ɪn'vaɪtɪŋ/`
+    - 美 `/ɪn'vaɪtɪŋ/`
+  - 词义
+    - adj. 动人的，诱人的；引人注目的
+    - `something that is inviting is very attractive and makes you want to be near it, try it, taste it etc`
+  - 同根词
+    - adj.
+      - `invitational` 邀请的
+      - `invitatory` 邀请的
+    - adv.
+      - `invitingly` 动人地
+    - n.
+      - `invitation` 邀请；引诱
+      - `invite` 邀请
+      - `invitee` 被邀请者
+      - `invitational` 四人两球赛
+      - `invitatory` 请祈祷的赞美诗；宣召
+    - vt.
+      - `invite` 邀请，招待；招致
+  - 近义词
+    - adj. 诱人的；有魅力的
+      - `attractive`
+      - `catching`
+  - 短语
+    - `bid inviting` 招标 
+  - 例句
+    - `The log fire looked warm and inviting.`
+      - 篝火看上去温暖诱人。
+

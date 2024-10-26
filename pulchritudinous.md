@@ -1,0 +1,10 @@
+- pulchritudinous
+  - 发音
+    - 英 `/,pʌlkrɪ'tjuːdɪnəs/`
+    - 美 `/undefined/`
+  - 词义
+    - adj. 美貌的,标致的(常用作诙谐的夸张词)
+  - 近义词
+    - adj. 美貌的
+      - `fine-looking`
+      - `featurely`

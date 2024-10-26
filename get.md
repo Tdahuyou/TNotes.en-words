@@ -1,0 +1,64 @@
+- get
+  - 发音
+    - 英 `/get/`
+    - 美 `/ɡɛt/`
+  - 词义
+    - v. 成为；变成
+    - `to change to a new feeling, situation, or state`
+  - 同根词
+    - adj.
+      - `getable` 能得到的
+      - `getatable` 可接近的；可获得的
+      - `gettable` 能得到的；可以获得的
+    - n.
+      - `getting` 获得；采煤，采掘
+      - `gat` 手枪
+    - v.
+      - `getting` 获得；了解（get的现在分词）；抓住
+      - `gat` 得到（get的过去式）
+  - 近义词
+    - vt. 使得；获得；受到；变成
+      - `acquire`
+      - `make`
+      - `earn`
+      - `buy`
+      - `find`
+    - n. 生殖；幼兽
+      - `generation`
+      - `reproduction`
+    - vi. 成为；变得；到达
+      - `become`
+      - `land`
+  - 短语
+    - `get one's` ◎[美国口语]得到应有的惩罚 
+    - `get something on someone` [口语]抓住某人的把柄 
+    - `get there` 到达那里；取得成功，实现目标 
+    - `get used to` 习惯于… 
+    - `get rid` 摆脱；排除；处理掉 
+    - `get up` 起床，筹备；打扮 
+    - `get out` 离开，出去；泄露；出版 
+    - `get in` 进入；到达；陷入；收获 
+    - `get into` 进入；陷入；穿上；习惯于 
+    - `get back` 回来；恢复；取回；重新上台 
+    - `get on` 上车，上马；进展，使前进 
+    - `get out of` 逃避；避免 
+    - `get married` 结婚 
+    - `get off` v. 动身；免于受罚；从…下来；脱下（衣服等） 
+    - `get better` 变得更好；康复 
+    - `get to know` 了解；认识 
+    - `get through` 通过；到达；做完；接通电话 
+    - `get hold of` 把握；抓住；得到 
+    - `get away` 离开；逃脱；出发 
+    - `get from` 从…处得到… 
+  - 例句
+    - `Don’t get upset.`
+      - 别难过。
+    - `She soon got bored with the job.`
+      - 她不久就厌倦了这份工作。
+    - `He calmed down as he got older.`
+      - 他的性子随着年龄增长变得平和了。
+    - `Eat your dinner before it gets cold.`
+      - 吃饭吧，一会儿就凉了。
+    - `This is getting silly.`
+      - 这事越来越荒唐了。
+

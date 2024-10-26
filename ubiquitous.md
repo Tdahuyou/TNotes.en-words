@@ -1,0 +1,22 @@
+- ubiquitous
+  - 发音
+    - 英 `/juː'bɪkwɪtəs/`
+    - 美 `/ju'bɪkwɪtəs/`
+  - 词义
+    - adj. 到处存在的
+    - `seeming to be everywhere – sometimes used humorously`
+  - 同根词
+    - n.
+      - `ubiquity` 普遍存在；到处存在
+  - 近义词
+    - adj. 普遍存在的；无所不在的
+      - `omnipresent`
+      - `illocal`
+  - 短语
+    - `ubiquitous computing` 普适计算 
+  - 例句
+    - `Coffee shops are ubiquitous these days.`
+      - 如今好像到处都是咖啡馆。
+    - `a French film, starring the ubiquitous Gérard Depardieu`
+      - 一部法国电影，由家喻户晓的热拉尔·德帕迪约主演
+

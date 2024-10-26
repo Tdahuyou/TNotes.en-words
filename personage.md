@@ -1,0 +1,25 @@
+- personage
+  - 发音
+    - 英 `/'pɜːs(ə)nɪdʒ/`
+    - 美 `/'pɝsənɪdʒ/`
+  - 词义
+    - n. 要人；角色；名士
+    - `a person, usually someone famous or important`
+  - 同根词
+    - adj.
+      - `personal` 个人的；身体的；亲自的
+    - n.
+      - `personality` 个性；品格；名人
+      - `personal` 人事消息栏；人称代名词
+      - `person` 人；身体；容貌，外表；人称
+      - `personation` 演角色，装扮；冒名，冒充
+  - 近义词
+    - n. 要人；角色；名士
+      - `role`
+      - `workers`
+      - `character`
+      - `part`
+  - 例句
+    - `a royal personage`
+      - 王室要人
+

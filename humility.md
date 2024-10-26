@@ -1,0 +1,20 @@
+- humility
+  - 发音
+    - 英 `/hjʊ'mɪlɪtɪ/`
+    - 美 `/hju'mɪləti/`
+  - 词义
+    - n. 谦卑
+    - `the quality of not being too proud about yourself – use this to show approval`
+  - 同根词
+    - n.
+      - `humiliation` 丢脸，耻辱；蒙羞；谦卑
+  - 近义词
+    - n. 谦卑，谦逊
+      - `modesty`
+      - `humbleness`
+  - 短语
+    - `with humility` 谦逊地 
+  - 例句
+    - `...a deep sense of humility.`
+      - …深深的谦卑感。
+

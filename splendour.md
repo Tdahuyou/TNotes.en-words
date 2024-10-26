@@ -1,0 +1,17 @@
+- splendour
+  - 发音
+    - 英 `/'splendə/`
+    - 美 `/ˈsplɛndɚ/`
+  - 词义
+    - n. 壮观，杰出，壮丽
+    - `impressive beauty, especially of a large building or large place`
+  - 同根词
+    - n.
+      - `splendor` 光彩；壮丽；显赫
+  - 近义词
+    - n. 显赫（等于splendor）；光彩壮丽
+      - `eminence`
+  - 例句
+    - `The palace has now been restored to its original splendour.`
+      - 宫殿如今已恢复了它昔日的辉煌。
+

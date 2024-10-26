@@ -1,0 +1,29 @@
+- interchangeable
+  - 发音
+    - 英 `/ɪntə'tʃeɪn(d)ʒəbl/`
+    - 美 `/,ɪntɚ'tʃendʒəbl/`
+  - 词义
+    - adj. 可互换的,可交换的
+    - `things that are interchangeable can be used instead of each other`
+  - 同根词
+    - adv.
+      - `interchangeably` [数] 可交换地
+    - n.
+      - `interchange` 互换；立体交叉道
+      - `interchangeableness` 可互换性
+    - vi.
+      - `interchange` 交换；相互交换
+    - vt.
+      - `interchange` （指两人等）交换；互换
+  - 近义词
+    - adj. [计]可互换的；可交换的；可交替的
+      - `exchangeable`
+      - `swappable`
+  - 短语
+    - `interchangeable parts` 通用件；互换部件 
+  - 例句
+    - `These two words are almost interchangeable.`
+      - 这两个单词几乎可以互换使用。
+    - `a camera with interchangeable lenses`
+      - 可换镜头的照相机
+

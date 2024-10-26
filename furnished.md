@@ -1,0 +1,21 @@
+- furnished
+  - 发音
+    - 英 `/'fɜːnɪʃt/`
+    - 美 `/'fɝnɪʃt/`
+  - 词义
+    - adj. 家具，有家具的
+    - `A furnished room or house is available to be rented together with the furniture in it`
+    - v. 供应；装备（furnish的过去分词）
+  - 记忆
+    - 来自furnish (v. 装配， 配备)
+  - 近义词
+    - v. 供应；装备（furnish的过去分词）
+      - `equipped`
+  - 短语
+    - `be furnished with` 提供，备有 
+    - `furnished apartment` 有家具的公寓 
+    - `well furnished` （房间）布置得好；（家俱）陈设得当的 
+  - 例句
+    - `We drank tea by lamplight in his sparsely furnished house.`
+      - 我们在他这间没什么家具的房子里，我们在灯下喝茶。
+

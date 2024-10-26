@@ -1,0 +1,24 @@
+- sordid
+  - 发音
+    - 英 `/'sɔːdid/`
+    - 美 `/'sɔ:did/`
+  - 词义
+    - adj. 肮脏的
+    - `very dirty and unpleasant`
+  - 记忆
+    - “扫地的” → 肮脏的
+  - 同根词
+    - adv.
+      - `sordidly` 污秽地；不洁地；下贱地；卑鄙地
+    - n.
+      - `sordidness` 污秽；卑鄙
+  - 近义词
+    - adj. 肮脏的；卑鄙的；利欲熏心的；色彩暗淡的
+      - `poor`
+      - `mean`
+      - `base`
+      - `dirty`
+  - 例句
+    - `a sordid little room`
+      - 肮脏的小房间
+

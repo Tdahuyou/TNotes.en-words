@@ -1,0 +1,20 @@
+- intricacy
+  - 发音
+    - 英 `/'ɪntrɪkəsi/`
+    - 美 `/'ɪntrɪkəsi/`
+  - 词义
+    - n. 错综复杂
+    - `the complicated details of something`
+  - 记忆
+    - in(在里面) + tric(小障碍物) + acy → 在里面放入很多小障碍物 → 错综复杂
+  - 同根词
+    - adj.
+      - `intricate` 复杂的；错综的，缠结的
+  - 近义词
+    - n. 错综，复杂；难以理解
+      - `complexity`
+      - `sophistication`
+  - 例句
+    - `the intricacies of private banking`
+      - 私人银行业务的错综复杂
+

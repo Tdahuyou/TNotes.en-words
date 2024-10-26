@@ -1,0 +1,42 @@
+- socialization
+  - 发音
+    - 英 `/,səʊʃəlaɪ'zeɪʃən/`
+    - 美 `/,soʃələ'zeʃən/`
+  - 词义
+    - n. 社会化,社会主义化
+    - `the process by which people, especially children, are made to behave in a way that is acceptable in their society`
+  - 同根词
+    - adj.
+      - `social` 社会的，社交的；群居的
+      - `societal` 社会的
+      - `socialist` 社会主义的
+      - `socioeconomic` 社会经济学的
+      - `sociocultural` 社会与文化的
+      - `socialized` 社会化
+      - `socialistic` 社会主义的
+    - adv.
+      - `socially` 在社会上；在社交方面；善于交际地
+    - n.
+      - `society` 社会；交往；社团；社交界
+      - `social` 联谊会；联欢会
+      - `socialism` 社会主义
+      - `socialist` 社会主义者；社会党党员
+      - `socialisation` 社会化
+      - `sociality` 社会性；社交；好交际
+      - `sociobiology` 生物社会学
+      - `sociolinguistics` 社会语言学
+      - `sociobiologist` 社会生物学家
+    - v.
+      - `socialized` 使社会化（socialize的过去分词）；社交
+    - vi.
+      - `socialize` 交际；参与社交
+      - `socialise` 参加社交活动；发生社交往来（等于socialize）
+    - vt.
+      - `socialize` 使社会化；使社会主义化；使适应社会生活
+      - `socialise` 使社会化；使社会主义化
+  - 短语
+    - `political socialization` 政治社会化 
+  - 例句
+    - `Schools play an important part in the socialization of our children.`
+      - 学校对儿童适应社会的过程起着重要的作用。
+

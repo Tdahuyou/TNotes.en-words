@@ -1,0 +1,65 @@
+- primary
+  - 发音
+    - 英 `/'praɪm(ə)rɪ/`
+    - 美 `/'praɪmɛri/`
+  - 词义
+    - adj. 初等的；初级的
+    - `relating to the education of children between 5 and 11 years old`
+  - 记忆
+    - prim(第一) + ary → 最初的； 首要的； 基本的
+  - 同根词
+    - adj.
+      - `prime` 主要的；最好的；基本的
+      - `primal` 原始的；主要的；最初的
+      - `prima` （意）第一的，主要的
+    - adv.
+      - `prime` 极好地
+      - `primarily` 首先；主要地，根本上
+    - n.
+      - `prime` 初期；青年；精华；全盛时期
+      - `primer` 初级读本；识字课本；原始物
+      - `primal` 被压抑童年情绪的释放
+    - vi.
+      - `prime` 作准备
+    - vt.
+      - `prime` 使准备好；填装
+      - `primal` 释放（被压抑的童年情绪）
+  - 近义词
+    - adj. 主要的；[数]初级的；基本的
+      - `elementary`
+      - `major`
+      - `central`
+      - `main`
+      - `leading`
+    - n. 原色；最主要者
+      - `original color`
+      - `fundamental colour`
+  - 短语
+    - `primary school` 小学 
+    - `primary stage` 初始阶段 
+    - `primary purpose` 主要目的；根本目的 
+    - `primary factor` 主因子，准素因子；一次因素 
+    - `primary education` 初等教育 
+    - `primary goal` 首要目标 
+    - `primary function` 主功能；基函数 
+    - `primary energy` 一次能源；最初的电子能量 
+    - `primary air` 一次空气 
+    - `primary source` 主源；第一手来源 
+    - `primary focus` 主焦点；优先考虑 
+    - `primary care` 初级治疗，初级护理；基层医疗 
+    - `primary concern` 主要关心的事 
+    - `primary data` 原始数据；原始资料 
+    - `primary treatment` 一次处理；初级处理 
+    - `primary production` 初级生产 
+    - `primary key` 主关键字，主键标 
+    - `primary health care` 初级保健护理 
+    - `primary culture` 原始培养；初代培养 
+    - `primary market` 初级市场；初次市场（即证券发行机构） 
+  - 例句
+    - `a primary teacher`
+      - 一名小学老师
+    - `primary education`
+      - 小学教育
+    - `teaching at primary level`
+      - 小学程度教学
+

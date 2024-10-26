@@ -1,0 +1,32 @@
+- observance
+  - 发音
+    - 英 `/əb'zɜːv(ə)ns/`
+    - 美 `/əb'zɝvəns/`
+  - 词义
+    - n. 惯例；遵守；仪式；庆祝
+    - `when someone obeys a law or does something because it is part of a religion, custom, or ceremony`
+  - 同根词
+    - adj.
+      - `observed` 观察的；观测的
+      - `observant` 善于观察的；机警的；严格遵守的
+      - `observing` 观察的；注意的；观察力敏锐的
+    - n.
+      - `observer` 观察者；[天] 观测者；遵守者
+    - v.
+      - `observed` 观察；遵守；注意到（observe的过去分词形式）
+      - `observing` 观察；遵守（observe的ing形式）
+    - vi.
+      - `observe` 观察；说；注意到；评论
+    - vt.
+      - `observe` 观察；遵守；说；注意到；评论
+  - 近义词
+    - n. 惯例；遵守；仪式；庆祝
+      - `tradition`
+      - `convention`
+      - `usage`
+      - `ceremony`
+      - `festival`
+  - 例句
+    - `the Memorial Day observance`
+      - 纪念日的习俗
+

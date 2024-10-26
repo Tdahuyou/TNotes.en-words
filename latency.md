@@ -1,0 +1,17 @@
+- latency
+  - 发音
+    - 英 `/'leitnsi/`
+    - 美 `/'letnsi/`
+  - 词义
+    - n. 潜伏，潜在；潜伏物
+  - 记忆
+    - 他潜伏 (latency) 在那里直到很晚 (late)
+  - 同根词
+    - adj.
+      - `latent` 潜在的；潜伏的；隐藏的
+  - 近义词
+    - n. [心理][生理]潜伏；潜在因素
+      - `incubation`
+      - `implicit factor`
+  - 短语
+    - `latency time` 延迟时间，等待时间 

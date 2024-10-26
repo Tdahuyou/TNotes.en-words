@@ -1,0 +1,23 @@
+- quarrelsome
+  - 发音
+    - 英 `/'kwɒr(ə)ls(ə)m/`
+    - 美 `/'kwɔrəlsəm/`
+  - 词义
+    - adj. 喜欢吵架的,好争论的
+    - `someone who is quarrelsome quarrels a lot with people`
+  - 同根词
+    - n.
+      - `quarrel` 吵架；反目；怨言；争吵的原因；方头凿
+      - `quarreler` 争吵者；喜欢埋怨的人
+      - `quarreller` 争吵的人；喜欢埋怨的人
+      - `quarrelsomeness` 喜吵架
+    - vi.
+      - `quarrel` 吵架；争论；挑剔
+  - 近义词
+    - adj. 喜欢吵架的；好争论的
+      - `disputative`
+      - `litigious`
+  - 例句
+    - `He became quarrelsome after drinking too much.`
+      - 他喝多了就爱找人吵架。
+

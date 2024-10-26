@@ -1,0 +1,22 @@
+- parasite
+  - 发音
+    - 英 `/'pærəsaɪt/`
+    - 美 `/'pærəsaɪt/`
+  - 词义
+    - n. 寄生物；食客
+    - `a plant or animal that lives on or in another plant or animal and gets food from it`
+  - 记忆
+    - para(在…旁边) + sit(食物) + e → 坐在旁边白吃的 → 寄生物
+  - 同根词
+    - adj.
+      - `parasitic` 寄生的（等于parasitical）
+    - n.
+      - `parasitism` 寄生状态；寄生病
+  - 近义词
+    - n. [生物][基医]寄生虫；食客
+      - `helminth`
+      - `vermin`
+  - 例句
+    - `Kangaroos harbour a vast range of parasites.`
+      - 袋鼠身上有各种各样的寄生虫。
+

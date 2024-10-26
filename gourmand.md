@@ -1,0 +1,17 @@
+- gourmand
+  - 发音
+    - 英 `/'gurmɑːnd/`
+    - 美 `/'ɡuəmənd/`
+  - 词义
+    - n. 嗜食者
+  - 记忆
+    - g(看作go， 去) + our + man + d → 我们的人都爱去吃各种美食 → 嗜食者
+  - 同根词
+    - n.
+      - `gourmandism` 美食主义
+  - 近义词
+    - n. 美食家；贪食者
+      - `foodie`
+      - `gastronomist`
+    - adj. 贪食的
+      - `hyperphagic`

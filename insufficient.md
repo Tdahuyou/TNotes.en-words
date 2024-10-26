@@ -1,0 +1,32 @@
+- insufficient
+  - 发音
+    - 英 `/ˌɪnsə'fɪʃnt/`
+    - 美 `/,ɪnsə'fɪʃnt/`
+  - 词义
+    - adj. 不足的，不够的
+    - `not enough, or not great enough`
+  - 记忆
+    - in(不) + sufficient(充分的) → 不足的， 不够的
+  - 同根词
+    - adv.
+      - `insufficiently` 不够地；不能胜任地
+    - n.
+      - `insufficiency` 不足，不充分；机能不全；不适当
+  - 近义词
+    - adj. 不足的，不充足的
+      - `short`
+      - `deficient`
+      - `lacking`
+      - `wanting`
+    - n. 不足
+      - `shortage`
+      - `short of`
+      - `lack`
+      - `scarcity`
+  - 短语
+    - `insufficient funds` 存款不足 
+    - `insufficient memory` 内存空间不足 
+  - 例句
+    - `Insufficient resources have been devoted to the health service.`
+      - 用于医疗保健服务的资源不足。
+

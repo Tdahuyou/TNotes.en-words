@@ -1,0 +1,18 @@
+- heartwarming
+  - 发音
+    - 英 `/'hɑːt,wɔːmɪŋ/`
+    - 美 `/'hɑ:t,wɔ:miŋ/`
+  - 词义
+    - adj. 感人的；暖人心房的
+    - `making you feel happy because you see other people being happy or kind to each other`
+  - 同根词
+    - adj.
+      - `heartrending` 悲惨的；令人心碎的
+  - 近义词
+    - adj. 感人的；暖人心房的
+      - `affecting`
+      - `impressive`
+  - 例句
+    - `a heartwarming sight`
+      - 暖人心房的一幕
+

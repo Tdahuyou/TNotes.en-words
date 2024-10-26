@@ -1,0 +1,25 @@
+- subvert
+  - 发音
+    - 英 `/sʌb'vəːt/`
+    - 美 `/sʌb'vɝt/`
+  - 词义
+    - v. 推翻；搅乱，暗中破坏
+    - `to try to destroy the power and influence of a government or the established system`
+  - 记忆
+    - sub (下面) + vert (转) → 转到地下工作 → 暗中破坏
+  - 同根词
+    - adj.
+      - `subversive` 破坏性的；从事颠覆的
+    - n.
+      - `subversive` 危险分子；颠覆分子
+      - `subversion` 颠覆；破坏
+      - `subversiveness` 颠覆；破坏
+      - `subverter` 颠覆者；破坏者
+  - 近义词
+    - vt. 颠覆；推翻；破坏
+      - `destroy`
+      - `upset`
+  - 例句
+    - `an attempt to subvert the democratic process`
+      - 颠覆民主进程的企图
+

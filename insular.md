@@ -1,0 +1,22 @@
+- insular
+  - 发音
+    - 英 `/'ɪnsjʊlə/`
+    - 美 `/'ɪnsəlɚ/`
+  - 词义
+    - adj. 孤立的；与世隔绝的；海岛的；岛民的
+    - `relating to or like an island`
+  - 同根词
+    - n.
+      - `insulation` 绝缘；隔离，孤立
+      - `insularity` （思想、观点等）偏狭，性僵化；岛国性质（或状态）；岛屿生活状况，与外界隔绝的生活状况
+      - `insularism` 岛国特性；胸襟狭窄
+    - vt.
+      - `insulate` 隔离，使孤立；使绝缘，使隔热
+  - 近义词
+    - adj. 孤立的；与世隔绝的；海岛的；岛民的
+      - `enclosed`
+      - `hermitic`
+  - 例句
+    - `an insular community`
+      - 保守封闭的社团
+

@@ -1,0 +1,32 @@
+- propel
+  - 发音
+    - 英 `/prə'pel/`
+    - 美 `/prə'pɛl/`
+  - 词义
+    - vt. 推进，驱使；激励
+    - `to move, drive, or push something forward`
+  - 记忆
+    - pro(向前) + pel(推) → 推进
+  - 同根词
+    - adj.
+      - `propellant` 推进的
+      - `propelling` 推进的
+      - `propellent` 推进的；有推动力的
+    - n.
+      - `propeller` [航][船] 螺旋桨；推进器
+      - `propellant` 推进物；推进燃料；发射火药
+      - `propelling` 推进
+      - `propellent` 推动者；推进物；推进燃料
+      - `propellor` [航][船] 螺旋桨；推进者；[航][船] 推进器
+    - v.
+      - `propelling` 推动（propel的ing形式）
+  - 近义词
+    - vt. 推进；驱使；激励；驱策
+      - `stimulate`
+      - `power`
+  - 例句
+    - `a boat propelled by a small motor`
+      - 由小马达驱动的小船
+    - `One of our students was unable to propel her wheelchair up the ramp.`
+      - 我们有名学生无法把她的轮椅推上坡道。
+

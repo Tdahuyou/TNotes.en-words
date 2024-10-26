@@ -1,0 +1,29 @@
+- quit
+  - 发音
+    - 英 `/kwɪt/`
+    - 美 `/kwɪt/`
+  - 词义
+    - v. 停止；放弃；离开；辞
+    - `to leave a house or apartment that you have been renting`
+  - 同根词
+    - n.
+      - `quitter` 轻易放弃的人；懒人
+      - `quittance` 收据；免除，赦免；报酬，补偿
+  - 近义词
+    - vt. 离开；放弃；停止；使…解除
+      - `yield`
+      - `desert`
+      - `split`
+      - `get out`
+    - vi. 离开；[劳经]辞职；停止
+      - `split`
+      - `get out`
+    - n. 离开；[计]退出
+      - `leaving`
+      - `Gone away`
+  - 短语
+    - `quit smoking` 戒烟 
+  - 例句
+    - `The landlord gave them notice to quit the premises within seven days.`
+      - 房东通知他们七天之内搬出去。
+

@@ -1,0 +1,40 @@
+- sensitize
+  - 发音
+    - 英 `/'sensətaɪz/`
+    - 美 `/'sɛnsətaɪz/`
+  - 词义
+    - v. 使某人或某事物敏感
+    - `to treat a material or a piece of equipment so that it will react to physical or chemical changes`
+  - 记忆
+    - sens(感觉) + itize → 使某人或某事物敏感
+  - 同根词
+    - adj.
+      - `sensitive` 敏感的；[仪] 灵敏的；感光的；易受伤害的
+      - `sensing` 敏感的
+      - `sensitized` [感光] 敏化的；激活的
+    - adv.
+      - `sensitively` 敏感地；易感知地
+    - n.
+      - `sensitivity` 敏感；敏感性；过敏
+      - `sensing` 传感；感觉；测知
+      - `sensitization` 敏化作用；促进感受性；感光度之增强
+      - `sensitiser` 感光剂（等于sensitizer）
+      - `sensitising` 感光
+      - `sensitizer` [感光] 敏化剂；[感光] 感光剂；激敏物
+      - `sensitizing` 光敏处理
+      - `sensitometer` [摄] 感光计；[摄] 曝光表
+    - v.
+      - `sensing` 感觉，了解（sense的现在分词）
+      - `sensitizing` 使敏感（sensitize的ing形式）
+    - vi.
+      - `sensitise` 变得敏感（等于sensitize）
+    - vt.
+      - `sensitise` 使敏感（等于sensitize）
+      - `sensitising` 使感光（sensitise的现在分词形式）
+  - 近义词
+    - vt. 使敏感；使具有感光性
+      - `string up`
+  - 例句
+    - `sensitized photographic paper`
+      - 感光相纸
+

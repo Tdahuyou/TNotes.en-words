@@ -1,0 +1,31 @@
+- inflammatory
+  - 发音
+    - 英 `/in'flæmətəri/`
+    - 美 `/ɪn'flæmə'tɔri/`
+  - 词义
+    - adj. 煽动性的
+    - `an inflammatory speech, piece of writing etc is likely to make people feel angry`
+  - 记忆
+    - in (进入) + flam (火焰) + matory → 火上浇油 → 煽动性的
+  - 同根词
+    - adj.
+      - `inflammable` 易燃的；易怒的；易激动的
+    - n.
+      - `inflammation` [病理] 炎症；[医] 发炎；燃烧；发火
+      - `inflammable` 易燃物
+    - vi.
+      - `inflame` 燃烧；发炎；激动
+    - vt.
+      - `inflame` 激怒；使燃烧；使发炎
+  - 近义词
+    - adj. 炎症性的；煽动性的；激动的
+      - `excited`
+      - `hot`
+  - 短语
+    - `inflammatory reaction` 炎症反应，炎性反应 
+    - `pelvic inflammatory disease` 盆腔炎；骨盆腔发炎；盆腔炎性疾病 
+    - `inflammatory pseudotumor` [医]炎性假瘤 
+  - 例句
+    - `inflammatory remarks`
+      - 煽动性言论
+

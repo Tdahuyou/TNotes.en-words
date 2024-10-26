@@ -1,0 +1,32 @@
+- synthesizer
+  - 发音
+    - 英 `/'sinθisaizə/`
+    - 美 `/'sɪnθəsaɪzɚ/`
+  - 词义
+    - n. 综合者,[电子]合成器
+    - `an electronic instrument that produces the sounds of various musical instruments`
+  - 同根词
+    - adj.
+      - `synthetic` 综合的；合成的，人造的
+    - adv.
+      - `synthetically` 综合地；合成地
+    - n.
+      - `synthetic` 合成物
+      - `synthesis` 综合，[化学] 合成；综合体
+      - `synthesist` 合成法使用者；综合者
+    - vi.
+      - `synthesize` 合成；综合
+      - `synthesise` 合成，接合
+    - vt.
+      - `synthesize` 合成；综合
+      - `synthesise` 综合地处理；人工合成
+  - 近义词
+    - n. [电子]合成器；合成者
+      - `hybrider`
+  - 短语
+    - `frequency synthesizer` [电子]频率合成器 
+    - `voice synthesizer` 语音合成器 
+  - 例句
+    - `Now he can only communicate through a voice synthesizer.`
+      - 如今他只能通过声音合成器来进行交流。
+

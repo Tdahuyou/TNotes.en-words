@@ -1,0 +1,21 @@
+- fireproof
+  - 发音
+    - 英 `/'faɪəpruːf/`
+    - 美 `/'faɪɚpruf/`
+  - 词义
+    - adj. 防火的；耐火的
+    - `a building, piece of cloth etc that is fireproof cannot be badly damaged by flames`
+    - v. 使耐火；使防火
+  - 近义词
+    - adj. [安全]防火的；耐火的
+      - `flameproof`
+      - `fire resistant`
+    - vt. 使耐火；使防水
+      - `waterproof`
+  - 短语
+    - `fireproof material` 耐火材料，防火材料 
+    - `fireproof paint` 防火涂料；耐火涂料 
+  - 例句
+    - `fireproof clothing`
+      - 防火服
+

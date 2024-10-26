@@ -1,0 +1,29 @@
+- reverential
+  - 发音
+    - 英 `/ˌrevə'renʃl/`
+    - 美 `/,rɛvə'rɛnʃl/`
+  - 词义
+    - adj. 表示尊敬的，恭敬的
+    - `showing a lot of respect and admiration`
+  - 同根词
+    - adj.
+      - `reverent` 虔诚的；恭敬的；尊敬的
+      - `reverend` 教士的；可尊敬的
+    - adv.
+      - `reverently` 虔诚地，恭敬地
+      - `reverentially` 虔诚地；谨慎地
+    - n.
+      - `reverence` 崇敬；尊严；敬礼
+      - `reverend` 教士
+    - vt.
+      - `reverence` 敬畏；尊敬
+      - `revere` 敬畏；尊敬；崇敬
+  - 近义词
+    - adj. 虔诚的；表示尊敬的；可尊敬的
+      - `religious`
+      - `good`
+      - `worthy`
+  - 例句
+    - `He spoke in reverential tones.`
+      - 他说话时语气恭敬。
+

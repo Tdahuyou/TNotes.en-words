@@ -1,0 +1,8 @@
+- gullibly
+  - 发音
+    - 英 `/'gʌləbli/`
+    - 美 `/undefined/`
+  - 词义
+    - adv. 轻信地，易受欺骗地
+  - 记忆
+    - 来自gullible(a. 易受骗的)

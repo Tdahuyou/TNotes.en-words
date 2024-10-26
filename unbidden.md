@@ -1,0 +1,13 @@
+- unbidden
+  - 发音
+    - 英 `/ʌn'bɪdn/`
+    - 美 `/ʌn'bɪdn/`
+  - 词义
+    - adj. 未经邀请的
+    - `without being asked for, expected, or invited`
+  - 记忆
+    - un(不)+bid(邀请)+den → 未经邀请的
+  - 近义词
+    - adj. 未受邀请的；未受指使的；自愿的
+      - `willing`
+      - `voluntary`

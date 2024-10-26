@@ -1,0 +1,27 @@
+- ooze
+  - 发音
+    - 英 `/uːz/`
+    - 美 `/uz/`
+  - 词义
+    - v. 渗出，慢慢流出；洋溢着，充满
+    - `if a thick liquid oozes from something or if something oozes a thick liquid, that liquid flows from it very slowly`
+    - n. 泥浆；缓慢渗出
+    - `a slow flowing or leaking `
+  - 记忆
+    - oo(形似泥浆冒的泡泡) + ze → 渗出； 泥浆
+  - 同根词
+    - adj.
+      - `oozy` 渗出的；软泥的
+  - 近义词
+    - vt. 渗出；泄漏
+      - `leak out`
+      - `uncork`
+    - vi. 渗出；泄漏
+      - `leak out`
+      - `seep`
+    - n. [地质]软泥
+      - `slud`
+  - 例句
+    - `A cut on his cheek was still oozing blood.`
+      - 他脸上的伤口还在渗血。
+

@@ -1,0 +1,18 @@
+- veracious
+  - 发音
+    - 英 `/və'reiʃəs/`
+    - 美 `/və'reʃəs/`
+  - 词义
+    - adj. 说真话的，可靠的；真实的，正确的
+  - 记忆
+    - ver (真实) + acious (多…的) → 说有多真实， 就有多真实 → 可靠的
+  - 同根词
+    - n.
+      - `veracity` 诚实；精确性；老实；说真实话
+  - 近义词
+    - adj. 诚实的；真实的
+      - `honest`
+      - `actual`
+      - `sincere`
+      - `true`
+      - `real`

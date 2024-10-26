@@ -1,0 +1,24 @@
+- oscillate
+  - 发音
+    - 英 `/'ɒsɪleɪt/`
+    - 美 `/'ɑsɪlet/`
+  - 词义
+    - v. 振荡
+    - `if an electric current oscillates, it changes direction very regularly and very frequently`
+  - 同根词
+    - adj.
+      - `oscillating` [物] 振荡的
+      - `oscillatory` 振荡的；振动的；动摇的
+    - n.
+      - `oscillation` 振荡；振动；摆动
+      - `oscillator` [电子] 振荡器；摆动物；动摇的人
+  - 近义词
+    - vt. 使振荡；使振动；使动摇
+      - `destabilize`
+    - vi. 振荡；摆动；犹豫
+      - `hesitate`
+      - `to swing`
+  - 例句
+    - `The associated cross-peak amplitude also appears to oscillate.`
+      - 相关的交叉峰的幅度也在振荡。
+

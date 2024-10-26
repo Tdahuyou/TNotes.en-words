@@ -1,0 +1,17 @@
+- tangency
+  - 发音
+    - 英 `/undefined/`
+    - 美 `/undefined/`
+  - 词义
+    - n. 相切，接触
+  - 同根词
+    - adj.
+      - `tangent` 切线的，相切的；接触的；离题的
+    - n.
+      - `tangent` [数] 切线，[数] 正切
+  - 近义词
+    - n. 相切，接触
+      - `contact`
+      - `touch`
+  - 短语
+    - `point of tangency` 切点 

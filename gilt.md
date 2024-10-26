@@ -1,0 +1,31 @@
+- gilt
+  - 发音
+    - 英 `/gilt/`
+    - 美 `/ɡɪlt/`
+  - 词义
+    - n. 金色涂层，镀金材料
+    - `a thin shiny material, such as gold or something similar, used to cover objects for decoration`
+    - adj. 镀金的
+    - `covered with gilt`
+  - 同根词
+    - adj.
+      - `gilded` 镀金的，装饰的；富有的
+    - n.
+      - `gilding` 镀金；虚饰的外观
+      - `gilder` 镀金工人
+    - v.
+      - `gilded` 给…镀金（gild的过去分词）
+      - `gilding` 镀金；虚饰（gild的现在分词）
+    - vt.
+      - `gild` 镀金；虚饰；供给钱
+  - 近义词
+    - n. 镀金；小母猪；眩目的外表
+      - `gold plated`
+      - `gilding`
+    - adj. 镀金的
+      - `gold-plated`
+      - `plated`
+  - 例句
+    - `gilt lettering`
+      - 烫金字
+

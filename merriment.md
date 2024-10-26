@@ -1,0 +1,27 @@
+- merriment
+  - 发音
+    - 英 `/'merimənt/`
+    - 美 `/'merimənt/`
+  - 词义
+    - n. 欢乐；嬉戏
+    - `laughter, fun, and enjoyment`
+  - 同根词
+    - adj.
+      - `merry` 愉快的；微醉的；嬉戏作乐的
+      - `mirthful` 愉快的，高兴的；令人欢乐的
+    - adv.
+      - `mirthfully` 愉快地；热闹地；喜气洋洋地
+    - n.
+      - `merry` 甜樱桃
+      - `mirth` 欢笑；欢乐；高兴
+      - `merrymaker` 嬉戏者；寻欢作乐的人
+  - 近义词
+    - n. 欢喜；嬉戏
+      - `Leta`
+      - `hilarity`
+  - 例句
+    - `Her eyes sparkled with merriment.`
+      - 她的眼里闪现出愉快的神情。
+    - `the sounds of merriment`
+      - 嬉闹的声音
+

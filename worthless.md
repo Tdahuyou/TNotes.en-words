@@ -1,0 +1,26 @@
+- worthless
+  - 发音
+    - 英 `/ˈwəːθlɪs/`
+    - 美 `/ˈwərthləs/`
+  - 词义
+    - adj. 无价值的；不值钱的；卑微的
+    - `something that is worthless has no value, importance, or use`
+  - 同根词
+    - adj.
+      - `worth` 值…的
+      - `worthy` 值得的；有价值的；配得上的，相称的；可尊敬的；应…的
+      - `worthful` 有价值的；可贵的
+    - n.
+      - `worth` 价值；财产
+      - `worthy` 杰出人物；知名人士
+      - `worthiness` 值得；相当；有价值
+  - 近义词
+    - adj. 无价值的；不值钱的；卑微的
+      - `cheap`
+      - `valueless`
+  - 例句
+    - `The house was full of worthless junk.`
+      - 这房子里堆满了没有用的东西。
+    - `The information was worthless to me.`
+      - 这些资料对我毫无用处。
+

@@ -1,0 +1,25 @@
+- mistrust
+  - 发音
+    - 英 `/mɪs'trʌst/`
+    - 美 `/,mɪs'trʌst/`
+  - 词义
+    - n&v. 不信任,猜疑
+    - `the feeling that you cannot trust someone, especially because you think they may treat you unfairly or dishonestly`
+  - 同根词
+    - adj.
+      - `mistrustful` 不信任的；深疑的，多疑的
+  - 近义词
+    - vt. 不信任；怀疑
+      - `dispute`
+      - `question`
+      - `wonder`
+    - vi. 不信任；怀疑
+      - `wonder`
+      - `question`
+    - n. 不信任；怀疑
+      - `doubt`
+      - `challenge`
+  - 例句
+    - `As a very small child she had learned to mistrust adults.`
+      - 她很小的时候就学会了不相信大人。
+

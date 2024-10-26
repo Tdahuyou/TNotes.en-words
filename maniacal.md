@@ -1,0 +1,26 @@
+- maniacal
+  - 发音
+    - 英 `/mə'naɪəkəl/`
+    - 美 `/mə'naɪəkl/`
+  - 词义
+    - adj. 发狂的,狂乱的
+    - `behaving as if you are crazy`
+  - 同根词
+    - adj.
+      - `maniac` 发狂的；狂热的；癫狂的
+      - `manic` 躁狂的；狂热的
+    - n.
+      - `mania` 狂热；狂躁；热衷
+      - `maniac` 疯子，躁狂者
+      - `manic` 躁狂症者
+  - 近义词
+    - adj. 疯狂的，狂热的；躁狂的
+      - `crazy`
+      - `wild`
+      - `possessed`
+      - `mad`
+      - `enthusiastic`
+  - 例句
+    - `He was almost maniacal in his pursuit of sporting records.`
+      - 他对打破体育记录的追求是近乎疯狂的。
+

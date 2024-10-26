@@ -1,0 +1,13 @@
+- malleability
+  - 发音
+    - 英 `/undefined/`
+    - 美 `/undefined/`
+  - 词义
+    - n. 有延展性,柔韧性
+  - 同根词
+    - adj.
+      - `malleable` 可锻的；可塑的；有延展性的；易适应的
+  - 近义词
+    - n. 顺从；可锻性；[力]展延性
+      - `compliance`
+      - `deference`

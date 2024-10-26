@@ -1,0 +1,19 @@
+- verdant
+  - 发音
+    - 英 `/'vəːdənt/`
+    - 美 `/'vɝdnt/`
+  - 词义
+    - adj. 翠绿的，青翠的；生疏的，没有经验的
+  - 记忆
+    - verd (绿色) + ant → 翠绿的
+  - 同根词
+    - n.
+      - `verdancy` 翠绿，新绿；幼稚
+  - 近义词
+    - adj. 青翠的；翠绿的；没有经验的；不老练的
+      - `young`
+      - `unfamiliar`
+  - 例句
+    - `verdant fields`
+      - 葱茏的田野
+

@@ -1,0 +1,15 @@
+- freshman
+  - 发音
+    - 英 `/'freʃmən/`
+    - 美 `/'frɛʃmən/`
+  - 词义
+    - n. 新手，生手；大学一年级学生
+    - `a student in the first year of  high school  or university`
+  - 同根词
+    - n.
+      - `fresher` 新鲜人；大学一年级新生
+      - `freshener` 清凉剂；化妆水；新手
+  - 近义词
+    - n. 新手，生手；大学一年级学生
+      - `rookie`
+      - `tyro`

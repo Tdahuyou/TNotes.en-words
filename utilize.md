@@ -1,0 +1,30 @@
+- utilize
+  - 发音
+    - 英 `/'juːtəlaɪz/`
+    - 美 `/'juːtəlaɪz/`
+  - 词义
+    - vt. 利用
+    - `to use something for a particular purpose`
+  - 记忆
+    - ut(用) + ilize → 利用
+  - 同根词
+    - adj.
+      - `utilized` 被利用的
+      - `utile` 有用的；有益的
+      - `utilizable` 可利用的
+    - n.
+      - `utilization` 利用，使用
+      - `utilizer` 应用者（utilize的名词形式）
+    - v.
+      - `utilized` 利用（utilize的过去分词）
+  - 近义词
+    - vt. 利用
+      - `do with`
+      - `trade on`
+      - `capitalize on`
+      - `avail of`
+      - `presume on`
+  - 例句
+    - `We must consider how best to utilize what resources we have.`
+      - 我们必须考虑怎样充分利用现有的资源。
+

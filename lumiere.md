@@ -1,0 +1,6 @@
+- lumiere
+  - 发音
+    - 英 `/undefined/`
+    - 美 `/undefined/`
+  - 词义
+    - n. 彩色照相术

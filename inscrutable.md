@@ -1,0 +1,22 @@
+- inscrutable
+  - 发音
+    - 英 `/in'skruːtəbl/`
+    - 美 `/ɪn'skrʊtəbl/`
+  - 词义
+    - adj. 难以理解的；高深莫测的
+    - `someone who is inscrutable shows no emotion or reaction in the expression on their face so that it is impossible to know what they are feeling or thinking`
+  - 记忆
+    - in (不) + scrut (理解) + able → 不能理解的 → 难以理解的
+  - 同根词
+    - adv.
+      - `inscrutably` 费解地；高深莫测地
+    - n.
+      - `inscrutability` 不可思议；不能预测
+  - 近义词
+    - adj. 神秘的；不可理解的；不能预测的；不可思议的
+      - `mysterious`
+      - `magic`
+  - 例句
+    - `He stood silent and inscrutable.`
+      - 他静静地站着，让人难以捉摸。
+

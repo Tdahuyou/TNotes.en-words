@@ -1,0 +1,36 @@
+- installment
+  - 发音
+    - 英 `/ɪn'stɔːlmənt/`
+    - 美 `/ɪn'stɔlmənt/`
+  - 词义
+    - n. 分期付款，分期交付；一集；一期
+  - 记忆
+    - 来自install(vt. 安顿， 安置)
+  - 同根词
+    - adj.
+      - `installing` 安装的
+    - n.
+      - `installation` 安装，装置；就职
+      - `instalment` 分期付款；装设；就职
+      - `installing` 安装；插入；任命
+    - v.
+      - `installing` 安装；安置（install的ing形式）；正式任命
+    - vt.
+      - `install` 安装；任命；安顿
+      - `instal` 安装；使就任；设置
+  - 近义词
+    - n. 安装；[会计]分期付款；部分；就职
+      - `setting`
+      - `proportion`
+      - `part`
+      - `percent`
+      - `portion`
+  - 短语
+    - `installment plan` n. 分期付款方式；分期付款购物法 
+    - `installment payment` 分期付款；分期付款帐户 
+    - `payment by installment` 分期付款 
+    - `monthly installment` 按月付款 
+  - 例句
+    - `Now she can reduce the installment size that she can afford to pay, by extending the loan period.`
+      - 现在，她就可通过展延贷款周期来减小自己有能力支付的分期付款的规模。
+

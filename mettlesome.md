@@ -1,0 +1,14 @@
+- mettlesome
+  - 发音
+    - 英 `/'metls(ə)m/`
+    - 美 `/'metlsəm/`
+  - 词义
+    - adj. 精神饱满的,勇敢的
+    - `spirited, courageous, or valiant `
+  - 同根词
+    - n.
+      - `mettle` 勇气；气质；耐力
+  - 近义词
+    - adj. 勇敢的；精神饱满的
+      - `game`
+      - `brave`

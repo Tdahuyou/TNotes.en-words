@@ -1,0 +1,23 @@
+- perspiration
+  - 发音
+    - 英 `/ˌpɜ:spəˈreɪʃn/`
+    - 美 `/,pɝspə'reʃən/`
+  - 词义
+    - n. 汗水，汗
+    - `liquid that appears on your skin when you are hot or nervous`
+  - 同根词
+    - vi.
+      - `perspire` 流汗；分泌；渗出
+    - vt.
+      - `perspire` 使流汗；分泌出
+  - 近义词
+    - n. 汗水；流汗；努力
+      - `effort`
+      - `trial`
+      - `pain`
+      - `struggle`
+      - `try`
+  - 例句
+    - `He wiped the beads of perspiration (= drops ) from his brow.`
+      - 他擦去了额头的汗珠。
+

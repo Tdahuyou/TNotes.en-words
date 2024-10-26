@@ -1,0 +1,31 @@
+- perceptual
+  - 发音
+    - 英 `/ pər 'septʃʊəl /`
+    - 美 `/pɚ'sɛptʃuəl/`
+  - 词义
+    - adj. 感知的，知觉的
+    - `Perceptual means relating to the way people interpret and understand what they see or notice`
+  - 同根词
+    - adj.
+      - `perceptive` 感知的，知觉的；有知觉力的
+      - `perceptible` 可察觉的；可感知的；看得见的
+      - `percipient` 目光敏锐的；有洞察力的
+    - adv.
+      - `perceptively` 知觉地；有洞察力地；敏锐地
+    - n.
+      - `perception` 知觉；[生理] 感觉；看法；洞察力；获取
+      - `perceptiveness` 洞察力；感知力；直觉
+      - `perceptivity` 知觉力，知觉
+      - `percipient` 有感知力的人
+  - 近义词
+    - adj. 知觉的；感知的；有知觉的
+      - `sensory`
+      - `apperceptive`
+  - 短语
+    - `perceptual knowledge` 感性认识 
+    - `perceptual experience` 知觉经验；感性经验 
+    - `perceptual organization` 知觉组织 
+  - 例句
+    - `Some children have more finely trained perceptual skills than others.`
+      - 一些孩子比其他孩子具备更为训练有素的感知技能。
+

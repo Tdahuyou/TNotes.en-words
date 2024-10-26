@@ -1,0 +1,13 @@
+- palmary
+  - 发音
+    - 英 `/'pɑːlmərɪ/`
+    - 美 `/'pælməri/`
+  - 词义
+    - adj. 杰出的
+  - 近义词
+    - adj. 杰出的；卓越的
+      - `excellent`
+      - `remarkable`
+      - `outstanding`
+      - `prominent`
+      - `brilliant`

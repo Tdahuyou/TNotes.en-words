@@ -1,0 +1,19 @@
+- excogitate
+  - 发音
+    - 英 `/eks'kɑːdʒiteɪt/`
+    - 美 `/ɛks'kɑdʒə,tetɪv/`
+  - 词义
+    - v. 认真想出
+    - `to devise, invent, or contrive `
+  - 记忆
+    - ex + co(共同) + g(=ag 开动) + itate → 共同开动脑子 → 认真想出
+  - 同根词
+    - n.
+      - `excogitation` 设计；发明；方案；计划
+  - 近义词
+    - vt. 想出；发明；设计
+      - `design`
+      - `father`
+      - `engineer`
+      - `style`
+      - `project`

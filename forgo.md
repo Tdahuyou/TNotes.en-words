@@ -1,0 +1,18 @@
+- forgo
+  - 发音
+    - 英 `/fɔː'gəu/`
+    - 美 `/fɔr'ɡo/`
+  - 词义
+    - v. 抛弃，放弃
+    - `to not do or have something pleasant or enjoyable`
+  - 记忆
+    - for (出去) + go (走) → 走出去 → 放弃
+  - 近义词
+    - vt. 放弃；停止；对…断念
+      - `desert`
+      - `yield`
+      - `quit`
+  - 例句
+    - `I had to forgo lunch.`
+      - 我只得放弃午餐。
+

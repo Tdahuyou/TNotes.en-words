@@ -1,0 +1,24 @@
+- sagacity
+  - 发音
+    - 英 `/sə'gæsəti/`
+    - 美 `/sə'gæsəti/`
+  - 词义
+    - n. 睿智，聪敏
+    - `good judgment and understanding`
+  - 记忆
+    - sagac (看作sagacious， 精明的) + ity (表示名词) → 聪敏
+  - 同根词
+    - adj.
+      - `sagacious` 睿智的，聪慧的；有远见的，聪慧的
+    - adv.
+      - `sagaciously` 聪敏地
+    - n.
+      - `sagaciousness` 聪敏，睿智
+  - 近义词
+    - n. 睿智；聪敏；有远见
+      - `present wit`
+      - `perspicacity`
+  - 例句
+    - `...a man of great sagacity and immense experience.`
+      - ...一个极为睿智且经验丰富的男人。
+

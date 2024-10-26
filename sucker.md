@@ -1,0 +1,27 @@
+- sucker
+  - 发音
+    - 英 `/'sʌkə/`
+    - 美 `/'sʌkɚ/`
+  - 词义
+    - n. 呆子
+  - 同根词
+    - adj.
+      - `sucking` 吸奶的；授乳的；尚未断奶的；乳臭未干的
+      - `suckling` 尚未断奶的，哺乳的；初出茅庐的
+    - n.
+      - `suck` 吮吸
+      - `suckling` 乳儿；乳臭未干的小子
+    - v.
+      - `sucking` 吸入（suck的ing形式）
+      - `suckling` 哺乳；养育（suckle的ing形式）
+    - vi.
+      - `suck` 吸吮；糟糕；巴结
+    - vt.
+      - `suck` 吸吮；吸取
+  - 近义词
+    - n. [动]吸管；乳儿；易受骗的人
+      - `straw`
+      - `greenhorn`
+  - 短语
+    - `sucker rod` 深井泵活塞杆，抽油杆 
+    - `sucker rod pump` 有杆泵；杆式泵 

@@ -1,0 +1,20 @@
+- patronage
+  - 发音
+    - 英 `/ˈpeɪtrənɪdʒ/`
+    - 美 `/'pætrənɪdʒ/`
+  - 词义
+    - n. 赞助；光顾(买东西)
+    - `the support, especially financial support, that is given to an organization or activity by a patron`
+  - 同根词
+    - n.
+      - `patron` 赞助人；保护人；主顾
+    - vt.
+      - `patronize` 惠顾；资助；保护
+  - 近义词
+    - n. 赞助；光顾；任免权
+      - `sponsorship`
+      - `auspice`
+  - 例句
+    - `Thank you for your patronage.`
+      - 感谢您的惠顾。
+

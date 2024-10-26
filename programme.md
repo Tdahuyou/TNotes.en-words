@@ -1,0 +1,30 @@
+- programme
+  - 发音
+    - 英 `/'prəʊgræm/`
+    - 美 `/proɡrəm/`
+  - 词义
+    - n. 程序,编程
+    - `a course of study`
+  - 同根词
+    - n.
+      - `programming` 设计，规划；编制程序，[计] 程序编制
+      - `programmer` 程序员，[计][自] 程序设计员
+  - 近义词
+    - n. 计划，规划；节目；[计]程序
+      - `plan`
+      - `scheme`
+      - `procedure`
+      - `routine`
+      - `formulation`
+    - vt. 规划；拟…计划
+      - `formulate`
+      - `mark out`
+  - 短语
+    - `world food programme` 世界粮食计划署 
+    - `programme control` 程序控制 
+  - 例句
+    - `Stanford University’s MBA program`
+      - 斯坦福大学的工商管理硕士课程
+    - `a research program`
+      - 研究课程
+

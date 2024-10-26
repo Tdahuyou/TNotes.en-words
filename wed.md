@@ -1,0 +1,26 @@
+- wed
+  - 发音
+    - 英 `/wed/`
+    - 美 `/wɛd/`
+  - 词义
+    - v. 娶,嫁,结婚
+    - `to marry – used especially in literature or newspapers`
+  - 同根词
+    - adj.
+      - `wedded` 结婚的；结合的；已结婚的
+    - n.
+      - `wedding` 婚礼，婚宴；结婚；结合
+    - v.
+      - `wedding` 与…结婚（wed的ing形式）
+      - `wedded` 结婚（wed的变形）；与…结婚
+  - 近义词
+    - vt. 与...结婚；娶；嫁
+      - `marry`
+      - `go to the world`
+    - vi. 结婚；娶；嫁
+      - `get married`
+      - `go to the world`
+  - 例句
+    - `In 1952 she wed film director Roger Vadim.`
+      - 1952年，她嫁给了电影导演罗杰·瓦丹。
+

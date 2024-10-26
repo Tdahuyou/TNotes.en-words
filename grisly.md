@@ -1,0 +1,20 @@
+- grisly
+  - 发音
+    - 英 `/'grizli/`
+    - 美 `/'grɪzli/`
+  - 词义
+    - adj. 恐怖的，可怕的，令人毛骨悚然的
+    - `extremely unpleasant and involving people being killed or injured`
+  - 记忆
+    - g (音似： 赶； 赶快) + ris (看作rise， 起来) + ly → 看到恐怖的东西， 赶紧起身逃跑
+  - 近义词
+    - adj. 可怕的；厉害的；严重的
+      - `acute`
+      - `terrible`
+      - `serious`
+      - `bad`
+      - `smart`
+  - 例句
+    - `a series of grisly murders`
+      - 一连串恐怖的凶杀案
+

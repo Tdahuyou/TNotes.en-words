@@ -1,0 +1,29 @@
+- predict
+  - 发音
+    - 英 `/prɪ'dɪkt/`
+    - 美 `/prɪ'dɪkt/`
+  - 词义
+    - v. 预言，预测
+    - `to say that something will happen, before it happens`
+  - 记忆
+    - pre(在…前面) + dict(说) → 预言， 预测
+  - 同根词
+    - adj.
+      - `predictable` 可预言的
+      - `predictive` 预言性的；成为前兆的
+    - adv.
+      - `predictably` 可预言地
+    - n.
+      - `prediction` 预报；预言
+      - `predictor` [气象] 预报器；预言者
+      - `predictability` 可预测性；可预言
+  - 近义词
+    - vt. 预报，预言；预知
+      - `forecast`
+      - `advance information`
+  - 例句
+    - `Sales were five percent lower than predicted.`
+      - 销售额比预期低5%。
+    - `As Liz had predicted , the rumours were soon forgotten.`
+      - 正如利兹所预料的，流言很快就被淡忘了。
+

@@ -1,0 +1,15 @@
+- misconstrue
+  - 发音
+    - 英 `/ˌmɪskən'struː/`
+    - 美 `/,mɪskən'stru/`
+  - 词义
+    - v. 误解，曲解
+    - `to  misunderstand  something that someone has said or done`
+  - 近义词
+    - vt. 误解，曲解；误会
+      - `misinterpret`
+      - `misread`
+  - 例句
+    - `His behaviour could easily be misconstrued.`
+      - 他的行为容易被误解。
+

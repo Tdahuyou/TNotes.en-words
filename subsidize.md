@@ -1,0 +1,27 @@
+- subsidize
+  - 发音
+    - 英 `/ˈsʌbsɪdaɪz/`
+    - 美 `/'sʌbsə'daɪz/`
+  - 词义
+    - v. 资助,津贴
+    - `if a government or organization subsidizes a company, activity etc, it pays part of its costs`
+  - 同根词
+    - adj.
+      - `subsidized` 补贴的，补助的
+    - n.
+      - `subsidy` 补贴；津贴；补助金
+      - `subsidization` 补助；提供津贴；奖金
+    - v.
+      - `subsidized` 资助或补助（subsidize的过去时和过去分词）
+    - vi.
+      - `subsidise` 消退；下沉；平息
+    - vt.
+      - `subsidise` 资助（等于subsidize）；给...补助金
+  - 近义词
+    - vt. 资助；给与奖助金；向…行贿
+      - `fund`
+      - `stake`
+  - 例句
+    - `Farming is heavily subsidized (= subsidized a lot ) by the government.`
+      - 农业得到政府的大量补贴。
+

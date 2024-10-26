@@ -1,0 +1,18 @@
+- idiosyncratic
+  - 发音
+    - 英 `/ˌɪdiəsɪŋ'krætɪk/`
+    - 美 `/,ɪdɪəsɪŋ'krætɪk/`
+  - 词义
+    - adj. 特殊物质的，特殊的，异质的
+    - `If you describe someone's actions or characteristics as idiosyncratic, you mean that they are somewhat unusual`
+  - 同根词
+    - n.
+      - `idiosyncrasy` 特质；气质；风格
+  - 近义词
+    - adj. 特质的；特殊的；异质的
+      - `foreign`
+      - `specific`
+  - 例句
+    - `...a highly idiosyncratic personality.`
+      - ...一种非常另类的个性。
+

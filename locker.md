@@ -1,0 +1,31 @@
+- locker
+  - 发音
+    - 英 `/'lɒkə/`
+    - 美 `/'lɑkɚ/`
+  - 词义
+    - n. 柜，箱；上锁的人；有锁的橱柜；锁扣装置；有锁的存物柜
+    - `a small cupboard with a lock in a school, sports building, office etc, where you can leave clothes or possessions while you do something`
+  - 同根词
+    - adj.
+      - `locked` 上锁的；不灵活的；下定决心的
+      - `locking` 伏窝孵卵的
+    - n.
+      - `lock` 锁；水闸；刹车
+      - `locking` [电子] 锁定；摇摆舞
+    - v.
+      - `locked` 锁上；紧闭；紧抱住（lock的过去分词）
+      - `locking` 上锁（lock的ing形式）
+    - vi.
+      - `lock` 锁；锁住；卡住
+    - vt.
+      - `lock` 锁，锁上；隐藏
+  - 近义词
+    - n. 柜，箱；上锁的人；有锁的橱柜；锁扣装置；有锁的存物柜
+      - `box`
+      - `case`
+  - 短语
+    - `locker room` 衣帽间 
+  - 例句
+    - `a meat locker`
+      - 肉类冷藏间
+

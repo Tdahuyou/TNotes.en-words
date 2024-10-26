@@ -1,0 +1,21 @@
+- exterminate
+  - 发音
+    - 英 `/ik'stəːmineit/`
+    - 美 `/ɪk'stɝmə'net/`
+  - 词义
+    - v. 消除
+    - `to kill large numbers of people or animals of a particular type so that they no longer exist`
+  - 记忆
+    - ex (出) + term (边界) + in + ate → 消除出边界 → 消除
+  - 同根词
+    - n.
+      - `extermination` 消灭；根绝
+      - `exterminator` 根除者；（美）灭鼠药；（美）职业的消灭害虫者
+  - 近义词
+    - vt. 消灭；根除
+      - `destroy`
+      - `kill off`
+  - 例句
+    - `Staff use the poison to exterminate moles and rabbits.`
+      - 员工用毒药来消灭鼹鼠和野兔。
+

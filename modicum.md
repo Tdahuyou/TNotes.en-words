@@ -1,0 +1,15 @@
+- modicum
+  - 发音
+    - 英 `/'mɒdɪkəm/`
+    - 美 `/'mɑdɪkəm/`
+  - 词义
+    - n. 少量,一点点
+    - `a small amount of something, especially a good quality`
+  - 近义词
+    - n. 少量，一点点
+      - `smidgeon`
+      - `driblet`
+  - 例句
+    - `a modicum of common sense`
+      - 一点常识
+

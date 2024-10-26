@@ -1,0 +1,29 @@
+- loaf
+  - 发音
+    - 英 `/ləʊf/`
+    - 美 `/lof/`
+  - 词义
+    - n. 一条（面包）
+    - `bread that is shaped and baked in one piece and can be cut into slices`
+  - 同根词
+    - n.
+      - `loafer` 游手好闲的人；拖鞋
+  - 近义词
+    - n. 条，一条面包；块；游荡
+      - `bar`
+      - `piece`
+      - `block`
+      - `mass`
+    - vt. 游荡；游手好闲；虚度光阴
+      - `louse around`
+      - `potter about`
+    - vi. 游荡；游手好闲；虚度光阴
+      - `louse around`
+      - `potter about`
+  - 短语
+    - `loaf of bread` 长面包，面包片 
+    - `meat loaf` 肉糜卷；肉馅糕 
+  - 例句
+    - `a loaf of bread`
+      - 一条面包
+

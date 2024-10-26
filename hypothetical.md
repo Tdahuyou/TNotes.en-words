@@ -1,0 +1,28 @@
+- hypothetical
+  - 发音
+    - 英 `/ˌhaɪpə'θetɪkl/`
+    - 美 `/,haɪpə'θɛtɪkl/`
+  - 词义
+    - adj. 假设的
+    - `based on a situation that is not real, but that might happen`
+  - 记忆
+    - hypo(在…下面) + thet(放) + ical → 放在下面的 → 假设的
+  - 同根词
+    - adv.
+      - `hypothetically` 假设地；假想地
+    - n.
+      - `hypothesis` 假设
+    - vi.
+      - `hypothesize` 假设，假定
+      - `hypothesise` （英）假定；设定；假设（等于hypothesize）
+    - vt.
+      - `hypothesize` 假设，假定
+      - `hypothesise` （英）假定；设定；假设（等于hypothesize）
+  - 近义词
+    - adj. 假设的；爱猜想的
+      - `theoretical`
+      - `if-then`
+  - 例句
+    - `The question is purely hypothetical .`
+      - 这个问题完全基于假设。
+

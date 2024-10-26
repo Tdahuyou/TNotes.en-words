@@ -1,0 +1,16 @@
+- jocose
+  - 发音
+    - 英 `/dʒə'kəus/`
+    - 美 `/dʒə'kos/`
+  - 词义
+    - adj. 诙谐的
+  - 同根词
+    - adv.
+      - `jocosely` 诙谐地；开玩笑地
+    - n.
+      - `jocosity` 诙谐，戏谑；开玩笑
+      - `jocularity` 滑稽；幽默；诙谐的言行
+  - 近义词
+    - adj. 诙谐的；开玩笑的
+      - `humorous`
+      - `witty`

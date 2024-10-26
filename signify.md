@@ -1,0 +1,47 @@
+- signify
+  - 发音
+    - 英 `/'sɪgnɪfaɪ/`
+    - 美 `/'sɪɡnɪfaɪ/`
+  - 词义
+    - v. 意味；表示，预示；要紧，有重要性
+    - `to be important enough to have an effect on something`
+  - 记忆
+    - sign(标记) + ify → 加上标记 → 意味
+  - 同根词
+    - adj.
+      - `significant` 重大的；有效的；有意义的；值得注意的；意味深长的
+      - `signed` 有符号的；已签字的；有正负之分的
+      - `significative` 有意义的；表示…的；为…提供推定证据的
+    - adv.
+      - `significantly` 意味深长地；值得注目地
+    - n.
+      - `significant` 象征；有意义的事物
+      - `sign` 迹象；符号；记号；手势
+      - `significance` 意义；重要性；意思
+      - `signage` 引导标示
+      - `signing` 签署；签字
+      - `signer` 签名者；用手势示意者
+      - `signification` 意义；表示
+      - `signifier` 信号物，记号；表示者
+    - v.
+      - `signed` 署名；写下；预示；示意（sign的过去分词）
+      - `signing` 签字；写下；示意（sign的ing形式）
+    - vi.
+      - `sign` 签署；签名
+    - vt.
+      - `sign` 签署；示意
+      - `signalise` 使…显著；用信号通知；庆祝；突出地表明
+  - 近义词
+    - vt. 表示；意味；预示
+      - `indicate`
+      - `bid`
+      - `forecast`
+      - `mean`
+      - `shadow`
+    - vi. 有重要性；要紧；冒充内行
+      - `matter`
+      - `count for`
+  - 例句
+    - `These figures don’t really signify in the overall results.`
+      - 这些数字对于总体结果影响不是很大。
+
