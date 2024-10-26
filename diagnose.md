@@ -1,0 +1,31 @@
+- diagnose
+  - 发音
+    - 英 `/ˌdaɪəg'nous/`
+    - 美 `/,daɪəɡ'nos/`
+  - 词义
+    - v. 诊断；判断
+    - `to find out what illness someone has, or what the cause of a fault is, after doing tests, examinations etc`
+  - 记忆
+    - dia(穿过) + gnos(知道) + e → 古时医生通过望、 闻、 问、 切诊断病情， 透过表面看实质 → 诊断
+  - 同根词
+    - adj.
+      - `diagnostic` 诊断的；特征的
+    - n.
+      - `diagnostic` 诊断法；诊断结论
+      - `diagnosis` 诊断
+      - `diagnostics` 诊断学（用作单数）
+      - `diagnosing` 诊断
+      - `diagnostician` 诊断专家；诊断医生
+    - v.
+      - `diagnosing` 诊断（diagnose的现在分词）
+  - 近义词
+    - vt. 诊断；断定
+      - `tell`
+      - `figure out`
+    - vi. 诊断；判断
+      - `judge of`
+      - `pass upon`
+  - 例句
+    - `The soldiers were diagnosed as having flu.`
+      - 这些士兵被诊断为患了流感。
+

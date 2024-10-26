@@ -1,0 +1,24 @@
+- estimable
+  - 发音
+    - 英 `/'estɪməb(ə)l/`
+    - 美 `/'ɛstɪməbl/`
+  - 词义
+    - adj. 可估计的；可尊敬的；有价值的
+    - `deserving respect and admiration`
+  - 同根词
+    - n.
+      - `estimate` 估计，估价；判断，看法
+      - `estimation` 估计；尊重
+      - `estimator` [统计] 估计量；评价者
+    - vi.
+      - `estimate` 估计，估价
+    - vt.
+      - `estimate` 估计，估量；判断，评价
+  - 近义词
+    - adj. 可估计的；可尊敬的；有价值的
+      - `valuable`
+      - `worthy`
+  - 例句
+    - `...the estimable Miss Cartwright.`
+      - ...令人仰慕的卡特赖特小姐。
+

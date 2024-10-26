@@ -1,0 +1,10 @@
+- bullrush
+  - 发音
+    - 英 `/undefined/`
+    - 美 `/undefined/`
+  - 词义
+    - n. 芦苇
+  - 近义词
+    - n. 芦苇；纸草；香蒲
+      - `Phragmites`
+      - `reed`

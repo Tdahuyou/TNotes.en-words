@@ -1,0 +1,17 @@
+- corpulence
+  - 发音
+    - 英 `/'kɔːpjʊləns/`
+    - 美 `/'kɔrpjələns/`
+  - 词义
+    - n. 肥胖
+  - 同根词
+    - adj.
+      - `corpulent` 肥胖的
+  - 近义词
+    - n. 臃肿，肥胖
+      - `obesity`
+      - `fatness`
+  - 例句
+    - `This article makes a deep analysis of corpulence affecting health from physiology, psychology and sociology and puts forward the effective preventing measures against corpulence.`
+      - 本文针对肥胖发生的机制，从生理、心理和社会适应三方面深入分析了肥胖对健康的影响，并结合实际提出有效的预防措施。
+

@@ -1,0 +1,8 @@
+- chronical
+  - 发音
+    - 英 `/'krɑːnɪkl/`
+    - 美 `/undefined/`
+  - 词义
+    - adj. 慢性的，延续很长的
+  - 记忆
+    - chron(时间) + ical → 长时间的 → 慢性的

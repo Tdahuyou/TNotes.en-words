@@ -1,0 +1,45 @@
+- brace
+  - 发音
+    - 英 `/breɪs/`
+    - 美 `/bres/`
+  - 词义
+    - vt. 绷紧肌肉；使顶住；使防备；加强，加固
+    - `to make something stronger by supporting it`
+    - n. 支架，托架
+    - `something that is used to strengthen or support something, or to make it stiff`
+  - 记忆
+    - b(音似： 绷) + race(赛跑) → 赛跑时肌肉会绷紧 → 绷紧肌肉
+  - 同根词
+    - adj.
+      - `bracing` 令人振奋的；凉爽的
+      - `braced` 支撑的；撑牢的；拉牢的
+    - n.
+      - `bracing` 支撑；支柱；背带
+    - v.
+      - `bracing` 绷紧，顶住（brace的现在分词形式）
+      - `braced` 支撑；使绷紧；做好准备；激励（brace的过去分词）
+  - 近义词
+    - n. 支柱；[计][语]大括号；曲柄
+      - `leg`
+      - `backbone`
+      - `stay`
+      - `mainstay`
+    - vt. [公路]支撑；振作起来；激励；撑牢
+      - `support`
+      - `stimulate`
+      - `uphold`
+      - `power`
+      - `sustain`
+    - vi. 支持；打起精神
+      - `support of`
+      - `stand up for sb`
+  - 短语
+    - `brace up` 下定决心；打起精神 
+    - `brace yourself` 振作精神，振作起来 
+    - `corner brace` 齿轮传动手摇钻，角撑 
+  - 例句
+    - `Wait until we’ve braced the ladder.`
+      - 等我们把梯子支撑住再说。
+    - `Workers used steel beams to brace the roof.`
+      - 工人用钢梁支撑屋顶。
+

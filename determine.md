@@ -1,0 +1,45 @@
+- determine
+  - 发音
+    - 英 `/dɪ'tɜːrmɪn/`
+    - 美 `/dɪ'tɝmɪn/`
+  - 词义
+    - v. 查明，确定；决心，决定；支配，影响
+    - `to find out the facts about something`
+  - 记忆
+    - de + term(边界) + ine → 划定边界 → 确定
+  - 同根词
+    - adj.
+      - `determined` 决定了的；坚决的
+      - `determinant` 决定性的
+      - `deterministic` 确定性的；命运注定论的
+      - `determinate` 确定的；决定的
+      - `determinable` 可决定的
+      - `determinative` 决定的；限定的
+      - `determinist` 决定论的
+    - adv.
+      - `determinedly` 决然地；断然地
+    - n.
+      - `determination` 决心；果断
+      - `determinant` 决定因素；[数] 行列式
+      - `determinism` [力] 决定论
+      - `determiner` [语] 限定词；决定因素
+      - `determinateness` 坚决；确定
+      - `determinative` 限定词；决定的事物
+      - `determinist` 决定论者
+    - v.
+      - `determined` 决定；断定（determine的过去分词）
+    - vt.
+      - `determinate` 确定；弄清楚
+  - 近义词
+    - vt. 决定；判决；使…下定决心
+      - `condition`
+      - `conclude`
+    - vi. 确定；决定；判决，终止
+      - `identify`
+      - `drop`
+      - `finish`
+      - `judge`
+  - 例句
+    - `Investigators are still trying to determine the cause of the fire.`
+      - 调查人员仍在设法弄清失火的原因。
+

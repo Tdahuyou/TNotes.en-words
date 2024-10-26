@@ -1,0 +1,21 @@
+- disable
+  - 发音
+    - 英 `/dɪs'eɪb(ə)l/`
+    - 美 `/dɪs'ebl/`
+  - 词义
+    - v. 使失去能力；使残废；使无资格
+    - `to make someone unable to use a part of their body properly`
+  - 同根词
+    - adj.
+      - `disabled` 残废的，有缺陷的
+    - n.
+      - `disablement` 残废；无资格；损坏
+    - v.
+      - `disabled` 使…失去能力（disable的过去分词）
+  - 近义词
+    - vt. 使失去能力；使残废；使无资格
+      - `maim`
+  - 例句
+    - `Carter was permanently disabled in the war.`
+      - 卡特在那场战争中成了终生残废。
+

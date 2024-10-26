@@ -1,0 +1,16 @@
+- egoistical
+  - 发音
+    - 英 `/ˌegou'ɪstɪk(l)/`
+    - 美 `/undefined/`
+  - 词义
+    - adj. 自我中心的，自私自利的
+  - 同根词
+    - adj.
+      - `egoistic` 自私自利的，自我中心的
+    - n.
+      - `ego` 自我；自负；自我意识
+      - `egoism` 利己主义，自我主义
+      - `egoist` 自我主义者；利己主义者
+  - 近义词
+    - adj. 自私自利的；自我中心的；利已主义的
+      - `self-centred`

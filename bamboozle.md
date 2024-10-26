@@ -1,0 +1,18 @@
+- bamboozle
+  - 发音
+    - 英 `/bæm'buːzl/`
+    - 美 `/bæm'buzl/`
+  - 词义
+    - v. 欺骗，隐瞒
+    - `to deceive, trick, or confuse someone`
+  - 记忆
+    - bamboo(竹子)＋zle → 把东西装在竹筒里 → 欺骗， 隐瞒
+  - 近义词
+    - vt. 欺骗；使迷惑
+      - `sell`
+      - `fox`
+      - `kid`
+  - 例句
+    - `He bamboozled Mercer into defeat.`
+      - 他蒙骗默瑟并击败了他。
+

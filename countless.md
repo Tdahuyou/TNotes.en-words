@@ -1,0 +1,36 @@
+- countless
+  - 发音
+    - 英 `/'kauntləs/`
+    - 美 `/'kaʊntləs/`
+  - 词义
+    - adj. 无数的
+    - `too many to be counted`
+  - 记忆
+    - 来自count (v. 数， 计算)
+  - 同根词
+    - adj.
+      - `counter` 相反的
+      - `countable` 可计算的；能算的
+    - adv.
+      - `counter` 相反地
+    - n.
+      - `count` 计数；计算；伯爵
+      - `counter` 计数器，计算器；柜台；计算者
+      - `counting` [数] 计算，计数
+      - `countable` 可数名词；可数的东西
+    - v.
+      - `counter` 反击；反对
+    - vi.
+      - `count` 计数；有价值
+    - vt.
+      - `count` 计算；认为
+  - 近义词
+    - adj. 无数的；数不尽的
+      - `thousand`
+      - `million`
+      - `infinite`
+      - `innumerable`
+  - 例句
+    - `a famous film clip which has been shown countless times`
+      - 播放了无数次的一段著名电影选段
+

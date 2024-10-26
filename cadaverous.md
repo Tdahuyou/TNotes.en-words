@@ -1,0 +1,20 @@
+- cadaverous
+  - 发音
+    - 英 `/kə'dævərəs/`
+    - 美 `/kə'dævərəs/`
+  - 词义
+    - adj. 像尸体的；苍白的
+  - 记忆
+    - 来自cadaver (n. 死尸， 尸体)
+  - 同根词
+    - adj.
+      - `cadaveric` 尸体的
+    - n.
+      - `cadaver` [医] 尸体；死尸
+  - 近义词
+    - adj. 尸体样的；惨白的
+      - `ghastly`
+  - 例句
+    - `cadaverous cheeks`
+      - 苍白的脸颊
+

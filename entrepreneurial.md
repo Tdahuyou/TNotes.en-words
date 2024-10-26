@@ -1,0 +1,18 @@
+- entrepreneurial
+  - 发音
+    - 英 `/,ɒntrəprə'nɜːrɪəl; -'njʊərɪəl/`
+    - 美 `/,ɑntrəprə'njʊrɪəl/`
+  - 词义
+    - adj. 企业家的,企业性质的
+  - 同根词
+    - n.
+      - `entrepreneur` 企业家；承包人；主办者
+  - 近义词
+    - adj. 企业家的，创业者的；中间商的
+      - `enterpreneurial`
+  - 短语
+    - `entrepreneurial management` 创业管理；企业家管理 
+  - 例句
+    - `...her prodigious entrepreneurial flair.`
+      - …她惊人的创业天赋。
+

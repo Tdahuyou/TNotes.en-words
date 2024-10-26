@@ -1,0 +1,21 @@
+- enrapture
+  - 发音
+    - 英 `/in'ræptʃə/`
+    - 美 `/ɪn'ræptʃɚ/`
+  - 词义
+    - v. 使狂喜
+  - 记忆
+    - en (使…) + rapture (狂喜) → 使狂喜
+  - 同根词
+    - adj.
+      - `enraptured` 狂喜的；著迷的
+    - v.
+      - `enraptured` 狂喜（enrapture的过去式）
+  - 近义词
+    - vt. 使狂喜；使著迷
+      - `transport`
+      - `overjoy`
+  - 例句
+    - `The place at once enraptured me.`
+      - 这个地方立刻把我迷住了。
+

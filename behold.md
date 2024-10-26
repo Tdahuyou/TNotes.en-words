@@ -1,0 +1,28 @@
+- behold
+  - 发音
+    - 英 `/bi'həuld/`
+    - 美 `/bɪ'hold/`
+  - 词义
+    - v. 目睹，看见
+    - `to see or to look at something – sometimes used humorously`
+  - 记忆
+    - 目睹 (behold) 犯罪过程， 亲手捉拿 (hold) 罪犯
+  - 同根词
+    - n.
+      - `beholder` 旁观者；观看者
+  - 近义词
+    - vt. 看；注视；把...视为
+      - `look`
+      - `watch`
+    - vi. 看
+      - `see`
+      - `look`
+    - int. 瞧；看呀
+      - `voila`
+      - `ecce`
+  - 短语
+    - `lo and behold` 你瞧（表示惊讶的感叹词） 
+  - 例句
+    - `She looked into his eyes and beheld madness.`
+      - 透过他的眼睛，她看到了疯狂。
+

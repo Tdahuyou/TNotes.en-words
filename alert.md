@@ -1,0 +1,38 @@
+- alert
+  - 发音
+    - 英 `/ə'lɜːrt/`
+    - 美 `/ə'lɝt/`
+  - 词义
+    - adj. 警觉的，警惕的
+    - `giving all your attention to what is happening, being said etc`
+    - vt. 警告，提醒
+    - `to make someone realize something important or dangerous`
+    - n. 警戒；警报
+    - `a warning to be ready for possible danger`
+  - 记忆
+    - Red Alert“红色警戒”， 20世纪90年代风靡全球的电脑游戏
+  - 同根词
+    - adv.
+      - `alertly` 留意地；提高警觉地
+    - n.
+      - `alertness` 警戒；机敏
+  - 近义词
+    - vt. 警告；使警觉，使意识到
+      - `alarm`
+      - `warn`
+    - adj. [军]警惕的，警觉的；留心的
+      - `vigilant`
+      - `precautious`
+    - n. [军]警戒，警惕；警报
+      - `guard`
+      - `vigilance`
+  - 短语
+    - `alert someone to sth` 使...警觉；使...警惕 
+    - `on the alert` 提防；警戒著；随时准备著 
+    - `red alert` 紧急警报，红色警报；应急状况 
+  - 例句
+    - `The animal raised its head, suddenly alert.`
+      - 那只动物突然警觉地抬起头来。
+    - `Taking notes is one of the best ways to stay alert in lectures.`
+      - 记笔记是听课时集中注意力的最佳方法之一。
+

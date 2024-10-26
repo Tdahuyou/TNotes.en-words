@@ -1,0 +1,22 @@
+- cautionary
+  - 发音
+    - 英 `/'kɔːʃəneri/`
+    - 美 `/'kɔʃənɛri/`
+  - 词义
+    - adj. 劝人谨慎的，警戒的
+    - `giving a warning about what not to do`
+  - 记忆
+    - caution(小心， 谨慎) + ary → 劝人谨慎的， 警戒的
+  - 同根词
+    - n.
+      - `caution` 小心，谨慎；警告，警示
+    - vt.
+      - `caution` 警告
+  - 近义词
+    - adj. 警告的；劝诫的
+      - `warning`
+      - `admonitory`
+  - 例句
+    - `Barely fifteen months later, it has become a cautionary tale of the pitfalls of international mergers and acquisitions.`
+      - 15个月刚过，这便成了一个有关国际并购陷阱的警世故事。
+

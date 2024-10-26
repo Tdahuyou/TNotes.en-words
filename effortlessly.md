@@ -1,0 +1,13 @@
+- effortlessly
+  - 发音
+    - 英 `/'efətlisli/`
+    - 美 `/'efətlisli/`
+  - 词义
+    - adv. 毫不费力地,轻易地
+  - 同根词
+    - adj.
+      - `effortless` 容易的；不费力气的
+  - 近义词
+    - adv. 轻松地；毫不费劲地
+      - `lightly`
+      - `like a cork`

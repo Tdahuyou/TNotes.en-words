@@ -1,0 +1,22 @@
+- custodian
+  - 发音
+    - 英 `/kʌ'stəʊdɪən/`
+    - 美 `/kʌ'stodɪən/`
+  - 词义
+    - n. 管理人
+    - `someone who is responsible for looking after something important or valuable`
+  - 同根词
+    - adj.
+      - `custodial` 保管的；保管人的
+    - n.
+      - `custody` 保管；监护；拘留；抚养权
+      - `custodial` 圣物保管容器
+      - `custodianship` 管理人之职务或地位
+  - 近义词
+    - n. [经管]管理人；监护人；保管人
+      - `administrator`
+      - `supervisor`
+  - 例句
+    - `...the custodian of the holy shrines in Mecca and Medina.`
+      - …在麦加和麦地那的圣地的管理员。
+

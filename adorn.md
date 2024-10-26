@@ -1,0 +1,20 @@
+- adorn
+  - 发音
+    - 英 `/ə'dɔːrn/`
+    - 美 `/ə'dɔrn/`
+  - 词义
+    - vt. 装饰，装扮
+    - `to decorate something`
+  - 记忆
+    - ad + orn(装饰) → 装饰， 装扮
+  - 同根词
+    - n.
+      - `adornment` 装饰；装饰品
+  - 近义词
+    - vt. 装饰；使生色
+      - `paint`
+      - `hang`
+  - 例句
+    - `His watercolour designs adorn a wide range of books.`
+      - 他的水彩设计装饰着各种各样的书籍。
+

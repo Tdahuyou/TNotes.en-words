@@ -1,0 +1,27 @@
+- disseminate
+  - 发音
+    - 英 `/dɪ'semɪneɪt/`
+    - 美 `/dɪ'sɛmɪnet/`
+  - 词义
+    - v. 散布，传播
+    - `to spread information or ideas to as many people as possible`
+  - 记忆
+    - dis(分开) + semin(种子) + ate → 把种子播种在不同的地方 → 散布， 传播
+  - 同根词
+    - adj.
+      - `disseminative` 传播的；散布的
+    - n.
+      - `dissemination` 宣传；散播；传染（病毒）
+      - `disseminator` 传播者；撒种者
+  - 近义词
+    - vt. 宣传，传播；散布
+      - `distribute`
+      - `publicize`
+      - `transmit`
+    - vi. 散布；广为传播
+      - `shed`
+      - `put about`
+  - 例句
+    - `Her findings have been widely disseminated .`
+      - 她的发现已广为传播。
+

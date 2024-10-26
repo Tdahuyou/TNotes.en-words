@@ -1,0 +1,14 @@
+- behaviorist
+  - 发音
+    - 英 `/undefined/`
+    - 美 `/undefined/`
+  - 词义
+    - n. 行为主义者,行为科学家
+  - 例句
+    - `And from a behaviorist point of view this is because of the associative history of these things.`
+      - 在行为主义者看来,这是在这些事物之间的联结历史造成的。
+    - `As the behaviorist tells us, man can be thought of as "an assembled organic machine ready to run.`
+      - 正如行为主义者告诉我们的，一个人被看作是“一台组装好的即将发动的机器”。
+    - `Starting from this manifest falsehood, the behaviorist proposes to operate the "human Ford" the way the operator drives his car.`
+      - 从这个明显谬论开始，行为主义者设想着用驾驶员开车的方式驾驶我们这辆“人类福特”。
+

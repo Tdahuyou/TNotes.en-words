@@ -1,0 +1,26 @@
+- delusion
+  - 发音
+    - 英 `/di'luːʒən/`
+    - 美 `/dɪ'luʒn/`
+  - 词义
+    - n. 错觉
+    - `a false belief about yourself or the situation you are in`
+  - 记忆
+    - de + lus (扮演) + ion (表示名词) → 扮演出假象， 使产生错觉 → 错觉
+  - 同根词
+    - adj.
+      - `delusional` 妄想的
+      - `delusive` 欺瞒的；使迷惑的
+      - `delusory` 迷惑的，困惑的（等于delusive）
+    - adv.
+      - `delusively` 欺瞒地；困惑地
+    - vt.
+      - `delude` 迷惑；逃避；使失望
+  - 近义词
+    - n. 迷惑，欺骗；错觉；幻想
+      - `fraud`
+      - `befuddlement`
+  - 例句
+    - `I was under the delusion that he intended to marry me.`
+      - 我有一种错觉，他要娶我。
+

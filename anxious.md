@@ -1,0 +1,28 @@
+- anxious
+  - 发音
+    - 英 `/'æŋkʃəs/`
+    - 美 `/'æŋkʃəs/`
+  - 词义
+    - adj. 渴望的；担忧的；令人焦虑的
+    - `worried about something`
+  - 同根词
+    - adv.
+      - `anxiously` 不安地，忧虑地
+    - n.
+      - `anxiousness` 焦急
+  - 近义词
+    - adj. 焦虑的；担忧的；渴望的；急切的
+      - `eager`
+      - `hungry`
+      - `desired`
+      - `sick`
+      - `keen`
+  - 短语
+    - `anxious about` 为……担心；对……着急 
+    - `anxious for` 为…而焦虑 
+    - `feel anxious` 变得着急 
+    - `to be anxious` 急于做 
+  - 例句
+    - `She gave me an anxious look.`
+      - 她焦急地看了我一眼。
+

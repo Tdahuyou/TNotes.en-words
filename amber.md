@@ -1,0 +1,22 @@
+- amber
+  - 发音
+    - 英 `/'æmbə/`
+    - 美 `/'æmbɚ/`
+  - 词义
+    - n. 琥珀色；琥珀
+    - `a yellowish brown colour`
+  - 记忆
+    - “爱不” → 爱不释手的珍物 → 琥珀
+  - 同根词
+    - n.
+      - `amberjack` 琥珀鱼
+  - 近义词
+    - n. [林][中医]琥珀；琥珀色
+      - `succinite`
+      - `lamber`
+  - 短语
+    - `amber light` 黄灯；琥珀灯；琥珀色灯光 
+  - 例句
+    - `an amber necklace`
+      - 琥珀项链
+

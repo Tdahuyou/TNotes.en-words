@@ -1,0 +1,43 @@
+- appropriate
+  - 发音
+    - 英 `/əˈprəʊprɪət;(for v.)əˈprəʊprɪeɪt/`
+    - 美 `/əˈproprɪət;(for v.) əˈproprɪet/`
+  - 词义
+    - adj. 适当的
+    - `correct or suitable for a particular time, situation, or purpose`
+    - vt. 拨款；占用，挪用
+    - `to take something for yourself when you do not have the right to do this`
+  - 记忆
+    - ap(向) + propr(自身的， 固有的) + iate → 变为自己的 → 占用， 挪用
+  - 同根词
+    - adv.
+      - `appropriately` 适当地；合适的；相称地
+    - n.
+      - `appropriateness` 适当；适合
+      - `appropriator` 占用者；擅用者
+  - 近义词
+    - adj. 适当的
+      - `suitable`
+      - `proper`
+      - `adequate`
+      - `becoming`
+    - vt. 占用；拨出
+      - `engage`
+      - `take up to`
+  - 短语
+    - `as appropriate` 酌情；[拉丁语]视情况而定 
+    - `appropriate time` 适当时间 
+    - `if appropriate` 任选地；如果有的话 
+    - `appropriate technology` 适当的技术；适用技术 
+    - `be appropriate for` 适合于 
+    - `appropriate authority` 有关当局 
+  - 例句
+    - `The timing of the announcement was particularly appropriate .`
+      - 通告发布的时机很合适。
+    - `Where appropriate , I delegate as much work as possible.`
+      - 只要合适，我就尽量把工作分派出去。
+    - `Mark box 1 or 2, as appropriate .`
+      - 把方框1和2中的合适者标出来。
+    - `I can assure you that appropriate action will be taken.`
+      - 我向你保证会采取适当的行动。
+

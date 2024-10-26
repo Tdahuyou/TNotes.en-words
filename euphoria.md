@@ -1,0 +1,20 @@
+- euphoria
+  - 发音
+    - 英 `/juː'fɔːrɪə/`
+    - 美 `/jʊ'fɔrɪə/`
+  - 词义
+    - n. 精神欢快，[临床]欣快；兴高采烈；欣快症；幸福愉快感
+  - 同根词
+    - adj.
+      - `euphoric` 欣快的；精神愉快的
+      - `euphoriant` 使人欣快的
+    - n.
+      - `euphoriant` 欣快剂
+  - 近义词
+    - n. 精神欢快，[临床]欣快；兴高采烈；欣快症；幸福愉快感
+      - `elation`
+      - `gaiety`
+  - 例句
+    - `There was a general atmosphere of pessimism after the euphoria of last year.`
+      - 去年的狂喜过后出现了普遍的悲观气氛。
+

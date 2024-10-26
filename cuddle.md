@@ -1,0 +1,32 @@
+- cuddle
+  - 发音
+    - 英 `/'kʌd(ə)l/`
+    - 美 `/'kʌdl/`
+  - 词义
+    - v. 拥抱；偎依；舒服地贴著身睡
+    - `to hold someone or something very close to you with your arms around them, especially to show that you love them`
+    - n. 搂抱，拥抱
+    - `an act of cuddling someone`
+  - 同根词
+    - adj.
+      - `cuddly` 令人想拥抱的；喜欢搂搂抱抱的；逗人喜爱的
+      - `cuddlesome` 可爱的；令人想拥抱的
+    - n.
+      - `cuddling` 拥抱，搂抱
+    - v.
+      - `cuddling` 拥抱；偎依（cuddle的现在分词）
+  - 近义词
+    - vi. 拥抱；偎依；舒服地贴著身睡
+      - `embrace`
+      - `nestle up`
+    - vt. 拥抱；亲热地搂住；抚爱地拥抱
+      - `embrace`
+      - `inarm`
+    - n. 搂抱，拥抱
+      - `embracement`
+  - 短语
+    - `cuddle up` 蜷缩着睡 
+  - 例句
+    - `Dawn and her boyfriend were cuddling on the sofa.`
+      - 唐和她的男朋友在沙发上搂搂抱抱。
+

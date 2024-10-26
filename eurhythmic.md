@@ -1,0 +1,11 @@
+- eurhythmic
+  - 发音
+    - 英 `/undefined/`
+    - 美 `/undefined/`
+  - 词义
+    - adj. 音乐舞蹈体操的
+  - 近义词
+    - adj. 协调的；韵律体操的
+      - `harmonious`
+      - `coordinated`
+      - `concerted`

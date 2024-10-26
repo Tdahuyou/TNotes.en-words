@@ -1,0 +1,27 @@
+- benevolence
+  - 发音
+    - 英 `/bə'nevələns/`
+    - 美 `/bə'nɛvələns/`
+  - 词义
+    - n. 仁爱心；善行
+  - 记忆
+    - bene (好) + vol (意志) + ence → 好意 → 仁爱心； 善行
+  - 同根词
+    - adj.
+      - `benevolent` 仁慈的；慈善的；亲切的
+      - `beneficent` 慈善的；善行的
+      - `benignant` 良性的；仁慈的；有益的；和蔼的
+    - adv.
+      - `benevolently` 仁慈地；慷慨地
+      - `benignantly` 有益地；亲切地；仁慈地
+      - `benignly` 亲切地；仁慈地
+    - n.
+      - `beneficence` 慈善；善行；捐款
+      - `benignancy` 仁慈；良性；亲切
+      - `benignity` 仁慈；善举
+  - 近义词
+    - n. 仁慈；善行
+      - `humanity`
+      - `mercy`
+      - `kindness`
+      - `good`

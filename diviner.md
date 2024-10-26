@@ -1,0 +1,21 @@
+- diviner
+  - 发音
+    - 英 `/undefined/`
+    - 美 `/undefined/`
+  - 词义
+    - n. 占卜者,占卦的人
+  - 同根词
+    - adj.
+      - `divine` 神圣的；非凡的；天赐的；极好的
+      - `divinatory` 占卜的；预见的
+    - n.
+      - `divine` 牧师；神学家
+      - `divination` 预测，占卜
+    - vi.
+      - `divine` 占卜；预言；使用占卜勘探矿
+    - vt.
+      - `divine` 占卜；预言；用占卜勘探
+  - 近义词
+    - n. 预言者；占卜者；推测者
+      - `prophet`
+      - `prognosticator`

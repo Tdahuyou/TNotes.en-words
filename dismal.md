@@ -1,0 +1,26 @@
+- dismal
+  - 发音
+    - 英 `/'dɪzməl/`
+    - 美 `/'dɪzməl/`
+  - 词义
+    - adj. 阴沉的，阴郁的；忧郁的，沮丧的；差劲的
+    - `if a situation or a place is dismal, it is so bad that it makes you feel very unhappy and hopeless`
+  - 记忆
+    - 来自拉丁语dies mail， 意为“不吉利的日子”， 后引申为“阴沉的； 忧郁的”
+  - 同根词
+    - adv.
+      - `dismally` 沉闷地；阴暗地
+  - 近义词
+    - adj. 凄凉的，忧郁的；阴沉的，沉闷的；可怕的
+      - `dark`
+      - `blue`
+      - `terrible`
+      - `heavy`
+  - 短语
+    - `dismal science` 忧郁的科学；悲观科学 
+  - 例句
+    - `The future looks pretty dismal right now.`
+      - 目前前景似乎相当暗淡。
+    - `a dismal, grey afternoon`
+      - 一个阴沉灰暗的下午
+

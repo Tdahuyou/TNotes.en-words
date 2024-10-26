@@ -1,0 +1,20 @@
+- brevity
+  - 发音
+    - 英 `/'brevəti/`
+    - 美 `/'brɛvəti/`
+  - 词义
+    - n. 短暂；简短
+    - `the quality of continuing for only a short time`
+  - 记忆
+    - brev (短) + ity (状态) → 简短
+  - 同根词
+    - n.
+      - `breve` （罗马教皇的）谕令；二全音符，短弱音符
+  - 近义词
+    - n. 简洁，简短；短暂，短促
+      - `compactness`
+      - `sententiousness`
+  - 例句
+    - `the brevity of her visit`
+      - 她的短暂来访
+

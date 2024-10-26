@@ -1,0 +1,21 @@
+- corpulent
+  - 发音
+    - 英 `/'kɔːpjulənt/`
+    - 美 `/'kɔrpjələnt/`
+  - 词义
+    - adj. 肥大的，肥胖的
+    - `fat`
+  - 记忆
+    - corp (躯体) + ulent (多…的) → 肥胖的
+  - 同根词
+    - n.
+      - `corpulence` 臃肿，肥胖
+  - 近义词
+    - adj. 肥胖的
+      - `round`
+      - `obese`
+      - `fatty`
+  - 例句
+    - `...a rather corpulent farmer.`
+      - ...一位颇为肥胖的农人。
+

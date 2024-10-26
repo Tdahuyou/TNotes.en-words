@@ -1,0 +1,27 @@
+- accumulate
+  - 发音
+    - 英 `/ə'kjuːmjəleɪt/`
+    - 美 `/ə'kjumjəlet/`
+  - 词义
+    - v. 积累，积聚，堆积
+    - `to gradually get more and more money, possessions, knowledge etc over a period of time`
+  - 记忆
+    - ac(表加强) + cumul(堆积) + ate → 积累， 积聚， 堆积
+  - 同根词
+    - adj.
+      - `accumulated` 累积的；累计的；达到
+      - `accumulative` 累计的；累积的；积聚而成的
+    - n.
+      - `accumulation` 积聚，累积；堆积物
+      - `accumulator` 蓄电池；[计] 累加器；积聚者
+    - v.
+      - `accumulated` 累积（accumulate的过去分词）
+  - 近义词
+    - vi. 累积；积聚
+      - `store up`
+    - vt. 积攒
+      - `scrape up`
+  - 例句
+    - `It is unjust that a privileged few should continue to accumulate wealth.`
+      - 少数特权阶级继续积聚财富，这是不公平的。
+

@@ -1,0 +1,25 @@
+- adultery
+  - 发音
+    - 英 `/ə'dʌlt(ə)rɪ/`
+    - 美 `/ə'dʌltəri/`
+  - 词义
+    - n. 通奸，通奸行为
+    - `sex between someone who is married and someone who is not their wife or husband`
+  - 同根词
+    - adj.
+      - `adulterate` 通奸的；搀杂的
+      - `adulterine` 通奸的；通奸所生的
+      - `adulterous` 通奸的；不贞的
+    - n.
+      - `adulterer` 奸夫；通奸者（尤指男人）
+      - `adulteress` 淫妇；通奸者
+    - vt.
+      - `adulterate` 搀假
+  - 近义词
+    - n. 通奸，通奸行为
+      - `fornication`
+      - `cuckoldry`
+  - 例句
+    - `She had committed adultery on several occasions.`
+      - 她数次与人私通。
+

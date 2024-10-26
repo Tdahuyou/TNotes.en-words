@@ -1,0 +1,31 @@
+- alphabet
+  - 发音
+    - 英 `/'ælfəbet/`
+    - 美 `/'ælfə'bɛt/`
+  - 词义
+    - n. 字母表
+    - `a set of letters, arranged in a particular order, and used in writing`
+  - 记忆
+    - 由希腊字母表中的头两个字母alpha和beta组合而成， 列出从前到后所有的字母就成了字母表
+  - 同根词
+    - adj.
+      - `alphabetical` 字母的；[计] 依字母顺序的
+      - `alphabetic` 字母的；照字母次序的
+    - adv.
+      - `alphabetically` 照字母顺序排列地
+    - n.
+      - `alphabetization` 按照字母顺序排列；拼音化
+    - vt.
+      - `alphabetize` 依字母顺序排列；用字母表示；拼音化
+  - 近义词
+    - n. [语]字母表，字母系统；入门，初步
+      - `ABC`
+      - `rudiments`
+  - 短语
+    - `phonetic alphabet` n. [语]音标字母 
+    - `latin alphabet` 拉丁字母表 
+    - `international phonetic alphabet` 国际音标；国际语音字母 
+  - 例句
+    - `The modern Russian alphabet has 31 letters.`
+      - 现代俄语字母表有31个字母。
+

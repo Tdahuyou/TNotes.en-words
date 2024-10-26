@@ -1,0 +1,23 @@
+- effuse
+  - 发音
+    - 英 `/i'fjuːz/`
+    - 美 `/ɪ'fjʊs/`
+  - 词义
+    - v. 涌出，流出，泻出
+    - `to pour or flow out `
+  - 记忆
+    - ef (看作ex， 出) + fus (倾泻) + e → 流出， 泻出
+  - 同根词
+    - adj.
+      - `effusive` 流出的；感情横溢的
+    - n.
+      - `effusion` 渗出；泻出；渗漏物
+  - 近义词
+    - vt. 流出；涌出；泻出
+      - `stream`
+      - `shed`
+    - vi. 流出；涌出；泻出
+      - `flood`
+      - `discharge`
+      - `issue`
+      - `shed`

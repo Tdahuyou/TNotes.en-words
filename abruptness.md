@@ -1,0 +1,15 @@
+- abruptness
+  - 发音
+    - 英 `/undefined/`
+    - 美 `/undefined/`
+  - 词义
+    - n. 唐突,粗鲁
+  - 同根词
+    - adj.
+      - `abrupt` 生硬的；突然的；唐突的；陡峭的
+    - adv.
+      - `abruptly` 突然地；唐突地
+  - 近义词
+    - n. 突然；唐突；粗鲁无理；急缓度
+      - `all at once`
+      - `suddenness`

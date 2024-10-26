@@ -1,0 +1,35 @@
+- agitated
+  - 发音
+    - 英 `/'ædʒɪteɪtɪd/`
+    - 美 `/'ædʒɪtetɪd/`
+  - 词义
+    - adj. 激动的；不安的
+    - `so nervous or upset that you are unable to keep still or think calmly`
+  - 同根词
+    - adj.
+      - `agitating` 搅拌的，搅动的；不安的；鼓动的
+      - `agitative` 煽动性的
+      - `agitprop` 宣传鼓动的（等于agitprop，agit-prop）
+    - n.
+      - `agitation` 激动；搅动；煽动；烦乱
+      - `agitator` 搅拌器；鼓动者；煽动者
+      - `agitprop` 宣传鼓动；宣传鼓动员（等于agitpropist）；宣传鼓动部门
+    - v.
+      - `agitating` 搅动；煽动；使焦虑（agitate的现在分词）
+    - vi.
+      - `agitate` 煽动
+    - vt.
+      - `agitate` 摇动；骚动；使…激动
+  - 近义词
+    - adj. 激动的；焦虑的；表现不安的
+      - `excited`
+      - `anxious`
+      - `hot`
+      - `heated`
+      - `inflammatory`
+  - 短语
+    - `agitate for` 鼓动 
+  - 例句
+    - `Amanda was getting visibly agitated.`
+      - 看得出来，阿曼达紧张不安。
+

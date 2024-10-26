@@ -1,0 +1,17 @@
+- anyhow
+  - 发音
+    - 英 `/'enɪhaʊ/`
+    - 美 `/'ɛnɪ'haʊ/`
+  - 词义
+    - adv. （也作anyway）无论如何；即使如此
+  - 同根词
+    - adv.
+      - `anyway` 无论如何，不管怎样；总之
+  - 近义词
+    - adv. 总之；无论如何；不管怎样
+      - `anyway`
+      - `however`
+  - 例句
+    - `The scandal could damage her reputation but the press reported it anyhow.`
+      - 这宗丑闻可能损害她的名声，不过报纸还是给登了出来。
+

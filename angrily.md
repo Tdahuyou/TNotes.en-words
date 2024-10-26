@@ -1,0 +1,17 @@
+- angrily
+  - 发音
+    - 英 `/ˈæŋɡrɪlɪ/`
+    - 美 `/'æŋgrɪlɪ/`
+  - 词义
+    - adv. 愤怒地
+  - 同根词
+    - adj.
+      - `angry` 生气的；愤怒的；狂暴的；（伤口等）发炎的
+  - 近义词
+    - adv. 愤怒地
+      - `wrathfully`
+      - `angerly`
+  - 例句
+    - `She crushed up the letter angrily.`
+      - 她愤怒地将信揉成一团。
+

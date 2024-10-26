@@ -1,0 +1,33 @@
+- assert
+  - 发音
+    - 英 `/ə'sɜːrt/`
+    - 美 `/ə'sɝt/`
+  - 词义
+    - v. 断言，声称
+    - `to state firmly that something is true`
+  - 记忆
+    - as(表加强) + sert(放置) → 强行插入观点 → 断言， 声称
+  - 同根词
+    - adj.
+      - `assertive` 肯定的；独断的；坚定而自信的
+      - `asserted` 宣称的；声称的
+      - `assertable` 可断言的
+    - adv.
+      - `assertively` 独断地；断言地
+    - n.
+      - `assertion` 断言，声明；主张，要求；坚持
+    - v.
+      - `asserted` 宣称；声称（assert的过去分词）
+  - 近义词
+    - vt. 维护，坚持；断言；主张；声称
+      - `maintain`
+      - `say`
+      - `submit`
+      - `stay`
+      - `advocate`
+  - 短语
+    - `assert oneself` 坚持自己的权利或意见 
+  - 例句
+    - `French cooking, she asserted, is the best in the world.`
+      - 她坚称法国菜是世界上最好的。
+

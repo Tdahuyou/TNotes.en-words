@@ -1,0 +1,29 @@
+- accelerate
+  - 发音
+    - 英 `/ək'seləreɪt/`
+    - 美 `/əkˈsɛləˌret/`
+  - 词义
+    - v. 加快，加速
+    - `if a process accelerates or if something accelerates it, it happens faster than usual or sooner than you expect`
+  - 记忆
+    - ac(表加强) + celer(快速的) + ate(使…) → (使)加快， 加速
+  - 同根词
+    - adj.
+      - `accelerated` 加速的；加快的
+      - `accelerating` 促进的，[物] 加速的；催化的
+      - `accelerative` 加速的；促进的；催促的
+      - `acceleratory` 加速的；催促的（等于accelerative）
+    - n.
+      - `acceleration` 加速，促进；[物] 加速度
+      - `accelerator` 油门；催化剂；[机] 加速装置
+      - `accelerometer` [航][物] 加速计
+    - v.
+      - `accelerated` 加速；促进（accelerate的变形）
+  - 近义词
+    - vi. 加速；促进；增加
+      - `improve`
+      - `increase speed`
+  - 例句
+    - `measures to accelerate the rate of economic growth`
+      - 加快经济增长速度的措施
+

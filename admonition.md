@@ -1,0 +1,22 @@
+- admonition
+  - 发音
+    - 英 `/ˌædmə'niʃən/`
+    - 美 `/,ædmə'nɪʃən/`
+  - 词义
+    - n. 警告
+    - `a warning or expression of disapproval about someone’s behaviour`
+  - 记忆
+    - 来自admonish (v. 劝告， 训诫)
+  - 同根词
+    - adj.
+      - `admonitory` 劝告的，警告的
+    - n.
+      - `admonishment` 训戒；警告（等于admonition）
+  - 近义词
+    - n. 警告
+      - `warning`
+      - `caveat`
+  - 例句
+    - `She ignored the admonitions of her mother.`
+      - 她无视母亲的警告。
+

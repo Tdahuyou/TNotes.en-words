@@ -1,0 +1,21 @@
+- carnivorous
+  - 发音
+    - 英 `/kɑː'nɪv(ə)rəs/`
+    - 美 `/kɑrˈnɪvərəs/`
+  - 词义
+    - adj. 食肉的,肉食性的
+    - `Carnivorous animals eat meat`
+  - 同根词
+    - adj.
+      - `carnassial` 食肉的
+    - n.
+      - `carnivore` [动] 食肉动物；食虫植物
+      - `carnassial` 裂齿
+  - 近义词
+    - adj. [动]食肉的；肉食性的
+      - `raptatorial`
+      - `zoophagous`
+  - 例句
+    - `Snakes are carnivorous.`
+      - 蛇都是食肉动物。
+

@@ -1,0 +1,32 @@
+- curse
+  - 发音
+    - 英 `/kɜːs/`
+    - 美 `/kɝs/`
+  - 词义
+    - n. 诅咒；咒骂
+    - `a swear word or words that you say because you are very angry`
+    - v. 诅咒；咒骂
+    - `to swear`
+  - 同根词
+    - adj.
+      - `cursed` 被诅咒的
+      - `curst` 被诅咒的；爱吵架的（等于cursed）
+    - v.
+      - `cursed` 诅咒（curse的过去分词）
+      - `curst` 诅咒；使受灾祸（curse的过去式和过去分词）
+  - 近义词
+    - n. 诅咒；咒骂
+      - `oath`
+      - `anathema`
+    - vt. 诅咒；咒骂
+      - `drat`
+      - `beshrew`
+    - vi. 诅咒；咒骂
+      - `swear at`
+      - `Curse of Lola`
+  - 短语
+    - `be cursed with` 深受…之害；因…而遭殃 
+  - 例句
+    - `He muttered a curse under his breath.`
+      - 他低声骂了一句。
+

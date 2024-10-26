@@ -1,0 +1,15 @@
+- citadel
+  - 发音
+    - 英 `/'sɪtədəl/`
+    - 美 `/ˈsɪtədəl/`
+  - 词义
+    - n. 堡垒，要塞
+    - `a strong  fort (= small castle )  built in the past as a place where people could go for safety if their city was attacked`
+  - 近义词
+    - n. 城堡；大本营；避难处
+      - `castle`
+      - `alcazar`
+  - 例句
+    - `The citadel at Besançon towered above the river.`
+      - 贝桑松城堡高过河面。
+

@@ -1,0 +1,25 @@
+- commiserate
+  - 发音
+    - 英 `/kə'mizəreit/`
+    - 美 `/kə'mɪzəret/`
+  - 词义
+    - v. 怜悯，同情
+    - `to express your sympathy for someone who is unhappy about something`
+  - 记忆
+    - com + miser (可怜) + ate → 可怜， 同情
+  - 同根词
+    - adj.
+      - `commiserative` 同情的；可怜的
+    - n.
+      - `commiseration` 怜悯，同情
+  - 近义词
+    - vt. 同情，怜悯
+      - `feel for`
+      - `have pity on`
+    - vi. 同情，怜悯；吊慰
+      - `sympathize`
+      - `feel for`
+  - 例句
+    - `When I lost, he commiserated with me.`
+      - 我失败时，他同情我。
+

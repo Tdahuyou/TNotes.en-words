@@ -1,0 +1,18 @@
+- blurt
+  - 发音
+    - 英 `/blɜːrt/`
+    - 美 `/blɝt/`
+  - 词义
+    - vt. 脱口而出
+    - `If someone blurts something, they say it suddenly, after trying hard to keep quiet or to keep it secret`
+  - 记忆
+    - 脱口而出(blurt)的话往往容易伤人(hurt)
+  - 近义词
+    - vt. 未加思索地冲口说出；突然说出
+      - `ejaculate`
+  - 短语
+    - `blurt out` 开始说话，脱口而出 
+  - 例句
+    - `"I was looking for Sally," he blurted, and his eyes filled with tears.`
+      - 他眼含热泪，突然脱口说道：“我在找莎丽。”
+

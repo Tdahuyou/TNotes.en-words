@@ -1,0 +1,27 @@
+- biochemistry
+  - 发音
+    - 英 `/baɪə(ʊ)'kemɪstrɪ/`
+    - 美 `/'baɪo'kɛmɪstri/`
+  - 词义
+    - n. 生物化学
+    - `the scientific study of the chemistry of living things`
+  - 记忆
+    - bio(生命， 生物)+chemistry(化学)→生物化学
+  - 同根词
+    - adj.
+      - `biochemical` 生物化学的
+      - `bioclimatic` 生物气候学的；有关生物与气候的
+    - n.
+      - `biocatalyst` [生化] 生物催化剂；生物触媒
+      - `biochemist` 生物化学家
+      - `biochip` 生物芯片；生物集成电路片
+      - `bioclimatology` [生态] 生物气候学
+  - 近义词
+    - n. [生化]生物化学
+      - `biological chemistry`
+  - 短语
+    - `plant biochemistry` 植物生化学；植物生物化学 
+  - 例句
+    - `...the effects of air pollutants on the biochemistry of plants or animals.`
+      - …大气污染物对植物或动物生化过程的影响。
+

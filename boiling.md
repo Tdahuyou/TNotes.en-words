@@ -1,0 +1,45 @@
+- boiling
+  - 发音
+    - 英 `/'bɔiliŋ/`
+    - 美 `/'bɔɪlɪŋ/`
+  - 词义
+    - n. 沸腾
+  - 同根词
+    - adj.
+      - `boiled` 煮沸的，煮熟的
+    - n.
+      - `boil` 沸腾，煮沸；疖子
+    - v.
+      - `boiled` 煮（boil的过去式和过去分词）
+    - vi.
+      - `boil` 煮沸，沸腾；激动，激昂
+    - vt.
+      - `boil` 煮沸，烧开；使…激动；使…蒸发
+  - 近义词
+    - adj. [物]沸腾的；激昂的
+      - `heated`
+      - `passionate`
+    - n. [物]沸腾；煮沸；起泡
+      - `ebullition`
+      - `gurgitation`
+  - 短语
+    - `boiling point` 沸点 
+    - `boiling water` 沸水；麻烦事 
+    - `high boiling` 高沸点的 
+    - `nucleate boiling` [物]泡核沸腾 
+    - `low boiling point` 低沸点 
+    - `film boiling` [物理化学]膜状沸腾 
+    - `boiling temperature` 沸点，沸腾温度 
+    - `boiling range` 沸腾范围 
+    - `boiling hot` 滚烫的；炎热的 
+    - `initial boiling point` 初馏点；初沸点 
+    - `boiling point elevation` 沸点升高 
+    - `normal boiling point` 标准沸点 
+  - 例句
+    - `The pan overflowed with boiling milk.`
+      - 煮沸的牛奶溢出了奶锅。
+    - `Hearing the news, we the class are boiling.`
+      - 一听到这个消息，我们全班都沸腾了。
+    - `Place the saucepan over moderate heat until the cider is very hot but not boiling.`
+      - 把炖锅置于中火上加热，直到苹果酒变得很烫，但不要加热到沸腾。
+

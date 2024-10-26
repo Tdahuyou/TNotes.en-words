@@ -1,0 +1,27 @@
+- crudity
+  - 发音
+    - 英 `/'kruːdəti/`
+    - 美 `/'krʊdəti/`
+  - 词义
+    - n. 粗糙，生硬
+  - 记忆
+    - 来自crude(adj. 粗糙的)
+  - 同根词
+    - adj.
+      - `crude` 粗糙的；天然的，未加工的；粗鲁的
+    - adv.
+      - `crudely` 粗糙地；天然地；粗鲁地；不成熟地
+    - n.
+      - `crude` 原油；天然的物质
+      - `crud` 渣滓；脏家伙；搀和物；杂质
+      - `crudeness` 天然的状态；生硬；未成熟
+  - 近义词
+    - n. 粗糙；简陋；未成熟物
+      - `roughness`
+      - `granulation`
+  - 例句
+    - `Fractured zone has a crudity surface with a pitch.`
+      - 断裂带表面粗糙，并带有斜度。
+    - `She has revealed the truth of the common marriage: helplessness and endurance, crudity and warmth.`
+      - 她写出了普通人婚姻的真谛： 无奈与忍耐， 粗糙中温情洋溢。
+

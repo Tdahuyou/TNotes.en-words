@@ -1,0 +1,35 @@
+- aggressive
+  - 发音
+    - 英 `/ə'gresɪv/`
+    - 美 `/ə'ɡrɛsɪv/`
+  - 词义
+    - adj. 侵略的，挑衅的；强有力的；敢作敢为的，有进取心的
+    - `behaving in an angry threatening way, as if you want to fight or attack someone`
+  - 记忆
+    - ag(表加强) + gress(行走) + ive → 到处乱走的 → 侵略的， 挑衅的
+  - 同根词
+    - adv.
+      - `aggressively` 侵略地；攻击地；有闯劲地
+    - n.
+      - `aggression` 侵略；进攻；侵犯；侵害
+      - `aggressiveness` 攻击性；侵犯；进取精神
+      - `aggressor` 侵略者；侵略国；挑衅者
+    - vi.
+      - `aggress` 攻击；侵略
+    - vt.
+      - `aggress` 侵犯；挑畔
+  - 近义词
+    - adj. 侵略性的；好斗的；有进取心的；有闯劲的
+      - `invasive`
+      - `enterprising`
+  - 短语
+    - `aggressive behavior` 攻击行为；侵犯行为 
+    - `aggressive action` 侵蚀作用；腐蚀性 
+    - `aggressive attitude` 侵犯态度 
+    - `aggressive growth` 积极成长型；进取型的投资管理 
+  - 例句
+    - `Jim’s voice became aggressive.`
+      - 吉姆的声音凶了起来。
+    - `Teachers apparently expect a certain amount of aggressive behaviour from boys.`
+      - 老师显然料到男孩子多少会有些好勇斗狠的行为。
+

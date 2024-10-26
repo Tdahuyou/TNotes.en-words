@@ -1,0 +1,24 @@
+- alleviate
+  - 发音
+    - 英 `/ə'liːvieɪt/`
+    - 美 `/ə'livɪ'et/`
+  - 词义
+    - vt. 减轻，缓解，缓和
+    - `to make something less painful or difficult to deal with`
+  - 记忆
+    - al(表加强) + lev(轻) + (i)ate(使…) → 使变轻 → 减轻， 缓解， 缓和
+  - 同根词
+    - adj.
+      - `alleviative` 减轻的；缓解的
+    - n.
+      - `alleviation` 缓和；镇痛物
+      - `alleviative` 缓和剂；使减轻之物
+      - `alleviator` 减轻者；缓和剂
+  - 近义词
+    - vt. 减轻，缓和
+      - `moderate`
+      - `relax`
+  - 例句
+    - `measures to alleviate poverty`
+      - 扶贫措施
+

@@ -1,0 +1,15 @@
+- alms
+  - 发音
+    - 英 `/ɑːmz/`
+    - 美 `/ɑ:mz/`
+  - 词义
+    - n. 捐献；救济物，施舍金
+    - `money, food etc given to poor people in the past`
+  - 同根词
+    - n.
+      - `almsgiver` 施舍者；布施者
+      - `almsgiving` 救济，施舍
+  - 近义词
+    - n. 捐献；救济物，施舍金
+      - `contribution`
+      - `subscription`

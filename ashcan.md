@@ -1,0 +1,11 @@
+- ashcan
+  - 发音
+    - 英 `/'æʃkæn/`
+    - 美 `/'æʃkæn/`
+  - 词义
+    - n. 垃圾桶,深水炸弹
+    - `a  garbage can `
+  - 近义词
+    - n. 垃圾桶；深水炸弹
+      - `trashcan`
+      - `garbage bin`

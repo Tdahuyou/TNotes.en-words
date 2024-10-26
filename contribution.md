@@ -1,0 +1,37 @@
+- contribution
+  - 发音
+    - 英 `/kɒntrɪ'bjuːʃ(ə)n/`
+    - 美 `/,kɑntrɪ'bjuʃən/`
+  - 词义
+    - n. 贡献
+    - `something that you give or do in order to help something be successful`
+  - 同根词
+    - adj.
+      - `contributing` 贡献的；起作用的
+      - `contributory` 捐助的；贡献的；有助于…的
+      - `contributive` 出资的；贡献的；有助于；助长...的
+    - n.
+      - `contributor` 贡献者；投稿者；捐助者
+      - `contributory` 捐助者；贡献人
+    - v.
+      - `contributing` 捐献（contribute的ing形式）
+    - vt.
+      - `contribute` 贡献，出力；投稿；捐献
+      - `contribute` 贡献，出力；投稿；捐献
+  - 近义词
+    - n. 贡献；捐献；投稿
+      - `subscription`
+      - `contributing to`
+  - 短语
+    - `make contribution` 贡献 
+    - `make a contribution to` 捐赠，贡献给；为…做出贡献 
+    - `capital contribution` 资本认购；资本摊缴 
+    - `profit contribution` 利润贡献；毛利 
+    - `financial contribution` 财政捐款 
+    - `marginal contribution` 边际贡献 
+    - `contribution margin` 边际收益；贡献毛利 
+    - `defined contribution` 固定缴款；固定供款计划 
+  - 例句
+    - `All the money has been raised by voluntary contribution.`
+      - 所有这些钱都是靠自愿捐献筹集的。
+

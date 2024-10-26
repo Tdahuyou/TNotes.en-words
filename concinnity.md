@@ -1,0 +1,10 @@
+- concinnity
+  - 发音
+    - 英 `/kən'sɪnɪti/`
+    - 美 `/kən'sɪnəti/`
+  - 词义
+    - n. 优美；雅致；协调
+  - 近义词
+    - n. 优美；雅致；和谐
+      - `accordance`
+      - `elegancy`

@@ -1,0 +1,10 @@
+- cannily
+  - 发音
+    - 英 `/'kænɪli/`
+    - 美 `/'kænili/`
+  - 词义
+    - adv. 机灵地
+  - 近义词
+    - adv. 机灵地；用心地；狡诈地
+      - `shrewdly`
+      - `artfully`

@@ -1,0 +1,14 @@
+- caitiff
+  - 发音
+    - 英 `/'keitif/`
+    - 美 `/'keitif/`
+  - 词义
+    - adj. 卑劣的；胆小的
+    - `cowardly; base `
+  - 近义词
+    - adj. 卑劣的；胆小的
+      - `despicable`
+      - `underhanded`
+    - n. 卑鄙的人；胆小鬼
+      - `sheep`
+      - `insect`

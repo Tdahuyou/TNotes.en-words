@@ -1,0 +1,25 @@
+- amalgamate
+  - 发音
+    - 英 `/ə'mælgəmeɪt/`
+    - 美 `/ə'mælɡəmet/`
+  - 词义
+    - v. 合并；汞齐化；调制汞合金
+    - `if two organizations amalgamate, or if one amalgamates with another, they join and make one big organization`
+  - 同根词
+    - adj.
+      - `amalgamative` 合并的；混汞的
+    - n.
+      - `amalgamation` 融合，混合；合并，联合；[冶] 混汞法，汞齐化法
+      - `amalgam` [材] 汞合金，[化工] 汞齐；混合物
+      - `amalgamator` 合并者；混汞器
+  - 近义词
+    - vi. 合并；汞齐化；调制汞合金
+      - `incorporate with`
+      - `merge`
+    - vt. 合并；使（金属）汞齐化；混合
+      - `compound`
+      - `merge`
+  - 例句
+    - `The firm has amalgamated with another company.`
+      - 这家公司已经与另一家公司合并了。
+

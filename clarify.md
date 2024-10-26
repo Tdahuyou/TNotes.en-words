@@ -1,0 +1,25 @@
+- clarify
+  - 发音
+    - 英 `/'klærəfaɪ/`
+    - 美 `/'klærəfaɪ/`
+  - 词义
+    - vt. 澄清，阐明
+    - `to make something clearer or easier to understand`
+  - 记忆
+    - clar(清楚的) + ify(…化) → 澄清， 阐明
+  - 同根词
+    - adj.
+      - `clarified` 澄清的；透明的
+    - n.
+      - `clarity` 清楚，明晰；透明
+      - `clarification` 澄清，说明；净化
+    - v.
+      - `clarified` 阐明（clarify的过去分词形式）；澄清
+  - 近义词
+    - vt. 澄清；阐明
+      - `illustrate`
+      - `elucidate`
+  - 例句
+    - `Reporters asked him to clarify his position (= say exactly what his beliefs are ) on welfare reform.`
+      - 记者们要求他阐明他在福利改革问题上的立场。
+

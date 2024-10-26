@@ -1,0 +1,26 @@
+- efficacious
+  - 发音
+    - 英 `/,efɪ'keɪʃəs/`
+    - 美 `/,efi'keiʃəs/`
+  - 词义
+    - adj. 有效的,灵验的
+    - `working in the way you intended`
+  - 同根词
+    - adj.
+      - `efficient` 有效率的；有能力的；生效的
+    - adv.
+      - `efficiently` 有效地；效率高地（efficient的副词形式）
+      - `efficaciously` 有效地；灵验地
+    - n.
+      - `efficacy` 功效，效力
+  - 近义词
+    - adj. 有效的；灵验的
+      - `valid`
+      - `available`
+      - `effective`
+      - `virtual`
+      - `telling`
+  - 例句
+    - `an equally efficacious method of treatment`
+      - 同样有效的治疗方法
+

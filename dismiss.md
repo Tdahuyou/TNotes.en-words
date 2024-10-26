@@ -1,0 +1,29 @@
+- dismiss
+  - 发音
+    - 英 `/dɪs'mɪs/`
+    - 美 `/dɪs'mɪs/`
+  - 词义
+    - v. 不再考虑，不接受；消除，摒除；免职，解雇；解散，遣散；驳回，不受理
+    - `to remove someone from their job`
+  - 记忆
+    - dis(分开) + miss(送) → 解散， 遣散
+  - 同根词
+    - adj.
+      - `dismissive` 表示轻视的；解雇的
+      - `dismissible` 可解雇的
+    - n.
+      - `dismissal` 解雇；免职
+      - `dismission` 解散；免职
+  - 近义词
+    - vt. 解散；解雇；开除；让...离开
+      - `remove`
+      - `fire out`
+    - vi. 解散
+      - `disband`
+      - `break up`
+  - 短语
+    - `dismiss from` 解雇；开除 
+  - 例句
+    - `The government has dismissed criticisms that the country’s health policy is a mess.`
+      - 有人认为国家医疗政策一塌糊涂，政府对这种批评持否认态度。
+

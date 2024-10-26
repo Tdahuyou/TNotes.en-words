@@ -1,0 +1,32 @@
+- cosmic
+  - 发音
+    - 英 `/'kɑːzmɪk/`
+    - 美 `/'kɑzmɪk/`
+  - 词义
+    - adj. 宇宙的；无限的
+    - `relating to space or the universe`
+  - 记忆
+    - cosm(宇宙) + ic → 宇宙的
+  - 同根词
+    - adj.
+      - `cosmological` 宇宙论的；宇宙哲学的
+      - `cosmogenic` 宇宙发生的；由宇宙（射）线产生的
+      - `cosmologic` 宇宙哲学的；宇宙论的
+    - n.
+      - `cosmology` [天] 宇宙论，[天] 宇宙学
+      - `cosmogony` 宇宙进化论；宇宙的产生，宇宙的起源
+      - `cosmographer` 宇宙学家；宇宙志学者
+      - `cosmography` 宇宙结构学，宇宙志
+      - `cosmologist` 宇宙论者，宇宙学家
+  - 近义词
+    - adj. 宇宙的（等于cosmical）
+      - `universal`
+      - `mundane`
+  - 短语
+    - `cosmic ray` 宇宙线 
+    - `cosmic dust` 宇宙尘埃 
+    - `cosmic radiation` 宇宙辐射 
+  - 例句
+    - `a scandal of cosmic proportions`
+      - 特大丑闻
+

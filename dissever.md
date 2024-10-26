@@ -1,0 +1,15 @@
+- dissever
+  - 发音
+    - 英 `/dis'sevə/`
+    - 美 `/dɪs'sɛvɚ/`
+  - 词义
+    - v. 割裂；分开
+  - 近义词
+    - vt. 使分离；使分裂
+      - `separate`
+      - `split`
+      - `tear`
+      - `divorce`
+    - vi. 分开；割裂
+      - `come between`
+      - `to separate`

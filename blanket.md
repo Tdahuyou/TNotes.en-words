@@ -1,0 +1,40 @@
+- blanket
+  - 发音
+    - 英 `/'blæŋkɪt/`
+    - 美 `/'blæŋkɪt/`
+  - 词义
+    - n. 毯子；覆盖物
+    - `a cover for a bed, usually made of wool`
+  - 记忆
+    - blank(空的) + et(放在词尾表小玩意) → 毯子铺在一小块空地上 → 毯子
+  - 同根词
+    - adj.
+      - `blankety` 可憎的；可恶的；毫无道理的
+    - adv.
+      - `blankety` 毫无道理地；可恨地
+  - 近义词
+    - n. 毛毯，毯子；毯状物，覆盖层
+      - `soogan`
+      - `sugan`
+    - adj. [经]总括的，全体的；没有限制的
+      - `entire`
+      - `corporate`
+      - `overall`
+      - `universal`
+    - vt. 覆盖，[电子]掩盖；用毯覆盖
+      - `invest`
+      - `house`
+      - `sheet`
+      - `roof`
+      - `cap`
+  - 短语
+    - `rubber blanket` 橡胶垫；橡皮布 
+    - `wet blanket` 扫兴的人；湿毯子；扫兴的事 
+    - `sludge blanket` 污泥层；污泥浮层 
+    - `electric blanket` 电热毯 
+    - `blanket cylinder` 毛毯辊筒；毛毯烘缸；橡皮布滚筒 
+    - `security blanket` 安全毯；带给人安全感的熟悉的物体 
+  - 例句
+    - `The mud disappeared under a blanket of snow.`
+      - 泥地在一层白雪的覆盖下消失不见了。
+

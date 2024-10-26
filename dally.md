@@ -1,0 +1,20 @@
+- dally
+  - 发音
+    - 英 `/'dæli/`
+    - 美 `/'dæli/`
+  - 词义
+    - v. 闲荡，嬉戏
+  - 记忆
+    - 和daily(adj. 每日的)一起记
+  - 近义词
+    - vi. 玩弄；闲荡；轻率地对待
+      - `moon`
+      - `play fast and loose`
+    - vt. 浪费（时间）
+      - `lose`
+      - `spend`
+      - `waste on`
+      - `trifle away`
+      - `hurl away`
+  - 短语
+    - `dally with` 漫不经心地对待；调戏 

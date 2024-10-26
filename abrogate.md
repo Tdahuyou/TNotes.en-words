@@ -1,0 +1,20 @@
+- abrogate
+  - 发音
+    - 英 `/'æbrəgeit/`
+    - 美 `/'æbrəɡet/`
+  - 词义
+    - vt. 废除，取消
+    - `to officially end a legal agreement, practice etc`
+  - 记忆
+    - ab (离去) + rog (要求) + ate → 要求离去 → 废除
+  - 同根词
+    - n.
+      - `abrogation` 废除；取消
+  - 近义词
+    - vt. 废除；取消
+      - `abolish`
+      - `recall`
+  - 例句
+    - `Both governments voted to abrogate the treaty.`
+      - 两国政府均投票通过废除这项条约。
+

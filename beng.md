@@ -1,0 +1,11 @@
+- beng
+  - 发音
+    - 英 `/undefined/`
+    - 美 `/undefined/`
+  - 词义
+    - n. 大麻
+  - 近义词
+    - n. 大麻
+      - `marijuana`
+      - `ganja`
+      - `mezz`

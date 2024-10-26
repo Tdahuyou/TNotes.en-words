@@ -1,0 +1,26 @@
+- balmy
+  - 发音
+    - 英 `/'bɑːmɪ/`
+    - 美 `/'bɑmi/`
+  - 词义
+    - adj. 芳香的,温和的
+    - `balmy air, weather etc is warm and pleasant`
+  - 同根词
+    - adv.
+      - `balmily` 芳香地
+    - n.
+      - `balm` 香油；镇痛软膏；香峰草，香树膏
+      - `balminess` 芳香；爽快
+  - 近义词
+    - adj. 芳香的；温和的；止痛的
+      - `pacific`
+      - `sweet`
+      - `soft`
+      - `moderate`
+      - `gentle`
+  - 短语
+    - `balmy on the crumpet` [俚语]头脑不正常的；疯疯癫癫的 
+  - 例句
+    - `a balmy summer night`
+      - 一个宜人的夏夜
+

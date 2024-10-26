@@ -1,0 +1,15 @@
+- altruist
+  - 发音
+    - 英 `/'æltruist/`
+    - 美 `/undefined/`
+  - 词义
+    - n. 利他主义者
+  - 记忆
+    - altru (其他) + ist (人) → 毫不利己， 专门利人 (其他人) → 利他主义者
+  - 同根词
+    - adj.
+      - `altruistic` 利他的；无私心的
+    - adv.
+      - `altruistically` 利他地；无私地
+    - n.
+      - `altruism` 利他；利他主义

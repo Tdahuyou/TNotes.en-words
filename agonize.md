@@ -1,0 +1,34 @@
+- agonize
+  - 发音
+    - 英 `/'ægənaɪz/`
+    - 美 `/'æɡənaɪz/`
+  - 词义
+    - vi. 苦苦思索；焦虑不已
+    - `to think about a difficult decision very carefully and with a lot of effort`
+  - 记忆
+    - agon(挣扎) + ize → 苦苦挣扎 → 苦苦思索
+  - 同根词
+    - adj.
+      - `agonizing` 苦恼的；痛苦难忍的
+      - `agonized` 感到极度痛苦的，苦闷的
+      - `agonal` （尤指临死时）痛苦的
+    - adv.
+      - `agonizingly` 使人烦恼地；苦闷地
+    - n.
+      - `agony` 苦恼；极大的痛苦；临死的挣扎
+    - v.
+      - `agonized` 使极度痛苦（agonize的过去分词）
+    - vi.
+      - `agonizing` 感到极度痛苦（agonize的ing形式）
+      - `agonise` 感到苦闷；挣扎
+    - vt.
+      - `agonizing` 使极度痛苦；折磨（agonize的ing形式）
+      - `agonise` 挣扎；烦恼
+  - 近义词
+    - vi. 感到极度痛苦；挣扎
+      - `struggle along`
+    - vt. 使极度痛苦；折磨
+      - `harry`
+      - `worry`
+      - `trouble`
+      - `tear`

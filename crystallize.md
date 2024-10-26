@@ -1,0 +1,35 @@
+- crystallize
+  - 发音
+    - 英 `/'krɪstəlaɪz/`
+    - 美 `/'krɪstə'laɪz/`
+  - 词义
+    - v. 结晶；明确
+    - `if a liquid crystallizes, it forms  crystals `
+  - 记忆
+    - crystal(结晶) + lize → (使)结晶
+  - 同根词
+    - adj.
+      - `crystal` 水晶的；透明的，清澈的
+      - `crystallized` 裹有糖霜的；蜜饯的
+    - n.
+      - `crystal` 结晶，晶体；水晶；水晶饰品
+      - `crystallization` 结晶化；具体化
+      - `crystallisation` 结晶；结晶作用
+      - `crystallography` [晶体] 结晶学
+      - `crystallizing` 结晶，晶体形成
+    - v.
+      - `crystallized` 结晶（crystalize的过去分词）
+      - `crystallizing` 使…结晶；具体化（crystallize的ing形式）
+    - vt.
+      - `crystallise` 使…结晶；使具体化（等于crystallize）
+  - 近义词
+    - vt. 使结晶；明确；使具体化；做成蜜饯
+      - `embody`
+      - `nail down`
+    - vi. 结晶，形成结晶；明确；具体化
+      - `grain formation`
+      - `nail down`
+  - 例句
+    - `The liquid will crystallize at 50 degrees centigrade.`
+      - 这种液体在50摄氏度时结晶。
+

@@ -1,0 +1,16 @@
+- befog
+  - 发音
+    - 英 `/bi'fɔg/`
+    - 美 `/bɪ'fɑɡ/`
+  - 词义
+    - v. 罩入雾中；使朦胧；使迷惑
+    - `to surround with fog `
+  - 记忆
+    - be (在…中) + fog (雾) → 罩在雾气中 → 引申为“使迷惑”
+  - 同根词
+    - adj.
+      - `befogged` 喻被困惑的
+  - 近义词
+    - vt. 使困惑，使模糊；罩入雾中
+      - `bepuzzle`
+      - `perplex`

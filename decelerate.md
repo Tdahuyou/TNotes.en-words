@@ -1,0 +1,20 @@
+- decelerate
+  - 发音
+    - 英 `/diː'seləreɪt/`
+    - 美 `/,di'sɛləret/`
+  - 词义
+    - v. 减速，降低速度
+    - `to go slower, especially in a vehicle`
+  - 同根词
+    - n.
+      - `deceleration` 减速
+  - 近义词
+    - vi. 减速，降低速度
+      - `slow down`
+      - `speed reduction`
+    - vt. 使减速
+      - `skid`
+  - 例句
+    - `...the sensation of the train decelerating.`
+      - ... 火车减速的感觉。
+

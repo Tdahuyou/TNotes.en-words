@@ -1,0 +1,22 @@
+- clumsy
+  - 发音
+    - 英 `/'klʌmzi/`
+    - 美 `/'klʌmzi/`
+  - 词义
+    - adj. 笨拙的；不得体的，冒犯人的；复杂难懂的，难处理的
+    - `moving or doing things in a careless way, especially so that you drop things, knock into things etc`
+  - 同根词
+    - adv.
+      - `clumsily` 笨拙地；粗陋地
+    - n.
+      - `clumsiness` 笨拙；粗陋；不漂亮
+  - 近义词
+    - adj. 笨拙的
+      - `awkward`
+      - `inept`
+  - 例句
+    - `A clumsy waiter spilled wine all over her new skirt.`
+      - 一名笨手笨脚的服务员把葡萄酒洒得她新裙子上到处都是。
+    - `a clumsy attempt to catch the ball`
+      - 笨拙的接球动作
+

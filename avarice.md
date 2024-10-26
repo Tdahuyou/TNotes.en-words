@@ -1,0 +1,22 @@
+- avarice
+  - 发音
+    - 英 `/'ævəris/`
+    - 美 `/'ævərɪs/`
+  - 词义
+    - n. 贪财；贪婪
+    - `a desire to have a lot of money that is considered to be too strong`
+  - 记忆
+    - avar (渴望) + ice → 贪婪
+  - 同根词
+    - adj.
+      - `avaricious` 贪婪的；贪得无厌的
+    - adv.
+      - `avariciously` 贪婪地
+  - 近义词
+    - n. 贪婪，贪财
+      - `greed`
+      - `itching palm`
+  - 例句
+    - `He paid a month's rent in advance, just enough to satisfy the landlord's avarice.`
+      - 他预交了一个月的房租，正好满足了房东的贪心。
+

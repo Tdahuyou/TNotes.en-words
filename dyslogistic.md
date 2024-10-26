@@ -1,0 +1,10 @@
+- dyslogistic
+  - 发音
+    - 英 `/,dɪslə'dʒɪstɪk/`
+    - 美 `/,dɪslə'dʒɪstɪk/`
+  - 词义
+    - adj. 责难的
+  - 近义词
+    - adj. 责难的，非议的
+      - `inculpatory`
+      - `criminative`

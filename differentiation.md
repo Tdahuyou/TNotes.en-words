@@ -1,0 +1,33 @@
+- differentiation
+  - 发音
+    - 英 `/ˌdifəˌrenʃi'eiʃən/`
+    - 美 `/,dɪfə,rɛnʃi'eʃən/`
+  - 词义
+    - n. 变异；区别
+  - 同根词
+    - adj.
+      - `differentiated` 分化型；已分化的；可区分的
+    - adv.
+      - `differentially` 区别地
+    - v.
+      - `differentiated` 使有差别（differentiate的过去分词）
+    - vi.
+      - `differentiate` 区分，区别
+    - vt.
+      - `differentiate` 区分，区别
+  - 近义词
+    - n. [生物]变异，分化；区别
+      - `variation`
+      - `distinction`
+      - `discrimination`
+  - 短语
+    - `cell differentiation` [医]细胞分化 
+    - `product differentiation` 产品差异化；产品分化 
+    - `differentiation strategy` 差异化策略 
+    - `numerical differentiation` 微分计算，数值微分；数值微分法 
+    - `process of differentiation` 分异过程 
+    - `tissue differentiation` 组织分化 
+  - 例句
+    - `Excuse me each other a debate on the web, the virtual space, the interaction between people often with a mask, this month, the mirror with water flowers have what differentiation?`
+      - 请问对方辩友，在网上这种虚拟空间中，人与人之间的交往往往带着一个假面具，这与水中月、镜中花有什么区别？
+

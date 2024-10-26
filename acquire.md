@@ -1,0 +1,31 @@
+- acquire
+  - 发音
+    - 英 `/ə'kwaɪər/`
+    - 美 `/ə'kwaɪr/`
+  - 词义
+    - vt. 获得，取得
+    - `to obtain something by buying it or being given it`
+  - 记忆
+    - ac(表加强) + quir(追求) + e → 不断寻求才能获得 → 获得
+  - 同根词
+    - adj.
+      - `acquired` [医] 后天的；已获得的；已成习惯的
+    - n.
+      - `acquiring` 捕获，探测；习得；瞄准
+      - `acquirement` 取得；学得；才能；成就
+    - v.
+      - `acquired` 取得；捕获（acquire的过去分词）
+      - `acquiring` 获得（acquire的ing形式）
+  - 近义词
+    - vt. 获得；取得；学到；捕获
+      - `earn`
+      - `buy`
+      - `score`
+      - `find`
+      - `make`
+  - 例句
+    - `Manning hoped to acquire valuable works of art as cheaply as possible.`
+      - 曼宁希望以尽可能低的价格买到有价值的艺术品。
+    - `She has acquired an email address and a site on the World Wide Web.`
+      - 她获得了一个电子邮件地址和万维网网址。
+

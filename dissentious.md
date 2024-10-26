@@ -1,0 +1,14 @@
+- dissentious
+  - 发音
+    - 英 `/di'senʃəs/`
+    - 美 `/di'senʃəs/`
+  - 词义
+    - adj. 好争论的，争吵的
+    - `argumentative `
+  - 同根词
+    - n.
+      - `dissension` 纠纷；意见不合；争吵；倾轧
+  - 近义词
+    - adj. 争吵的；好争论的
+      - `disputative`
+      - `litigious`

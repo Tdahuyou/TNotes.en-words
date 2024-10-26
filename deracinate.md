@@ -1,0 +1,13 @@
+- deracinate
+  - 发音
+    - 英 `/ˌdiː'ræsɪneɪt/`
+    - 美 `/,di'ræsɪnet/`
+  - 词义
+    - v. 根除，灭绝
+    - `to pull up by or as if by the roots; uproot; extirpate `
+  - 记忆
+    - de + rac(=race种族) + inate → 消灭种族 → 根除
+  - 近义词
+    - vt. 灭绝，根除；使孤立，使隔绝
+      - `die out`
+      - `become extinct`

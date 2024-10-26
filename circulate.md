@@ -1,0 +1,34 @@
+- circulate
+  - 发音
+    - 英 `/'sɜːrkjəleɪt/`
+    - 美 `/'sɝkjəlet/`
+  - 词义
+    - v. 循环；流通；传播，流传
+    - `to move around within a system, or to make something do this`
+  - 记忆
+    - circ(环绕) + ul + ate → (使)循环
+  - 同根词
+    - adj.
+      - `circular` 循环的；圆形的；间接的
+      - `circulating` 循环的；流通的
+      - `circulatory` 循环的
+      - `circulative` 循环性的；促进循环的；（货币、报刊等）具有流通性的
+    - adv.
+      - `circularly` 循环地；圆地
+    - n.
+      - `circulation` 流通，传播；循环；发行量
+      - `circular` 通知，传单
+    - v.
+      - `circulating` 循环（circulate的ing形式）；流通
+  - 近义词
+    - vi. 传播，流传；循环；流通
+      - `spread abroad`
+      - `to disseminate`
+    - vt. 使循环；使流通；使传播
+      - `cycle`
+  - 例句
+    - `Swimming helps to get the blood circulating through the muscles.`
+      - 游泳有助于肌肉的血液循环。
+    - `Ceiling fans circulated warm air around the room.`
+      - 吊扇使暖空气在房间里循环。
+

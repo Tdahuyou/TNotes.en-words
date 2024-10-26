@@ -1,0 +1,27 @@
+- afford
+  - 发音
+    - 英 `/ə'fɔːd/`
+    - 美 `/ə'fɔrd/`
+  - 词义
+    - v. （有财力）买得起，付得起
+    - `to have enough money to buy or pay for something`
+  - 记忆
+    - af + ford(看做Ford， 美国福特家族) → 财大气粗 → 买得起
+  - 同根词
+    - adj.
+      - `affordable` 负担得起的
+  - 近义词
+    - vt. 给予，提供；买得起
+      - `allow`
+      - `deal`
+      - `extend`
+      - `deliver`
+      - `tender`
+  - 短语
+    - `can afford` 买得起；有能力负担 
+  - 例句
+    - `I couldn’t afford the rent on my own.`
+      - 我单靠自己付不起房租。
+    - `How can she afford to eat out every night?`
+      - 每天晚上下馆子她怎么能负担得起？
+

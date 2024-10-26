@@ -1,0 +1,32 @@
+- evaporate
+  - 发音
+    - 英 `/ɪ'væpəreɪt/`
+    - 美 `/ɪ'væpəret/`
+  - 词义
+    - v. 蒸发；消失，不复存在
+    - `if a liquid evaporates, or if heat evaporates it, it changes into a gas`
+  - 记忆
+    - e(出) + vapor(水汽) + ate(使…) → 使水汽出去 → (使)蒸发
+  - 同根词
+    - adj.
+      - `evaporated` 浓缩的；脱水的；蒸发干燥的
+      - `evaporative` 蒸发的，成为蒸气的
+      - `evaporable` 易蒸发性的；易挥发的
+    - n.
+      - `evaporation` 蒸发；消失
+      - `evaporite` [岩] 蒸发岩，蒸发盐
+      - `evaporometer` 蒸发计
+    - v.
+      - `evaporated` 蒸发；消失（evaporate的过去式）；失去水分
+  - 近义词
+    - vt. 使……蒸发；使……脱水；使……消失
+      - `vapor`
+    - vi. 蒸发，挥发；消失，失踪
+      - `disappear`
+      - `blank`
+  - 例句
+    - `Most of the water had evaporated.`
+      - 大部分的水都蒸发了。
+    - `The sun evaporates moisture on the leaves.`
+      - 太阳会蒸发叶子上的水分。
+

@@ -1,0 +1,27 @@
+- collaborate
+  - 发音
+    - 英 `/kə'læbəreɪt/`
+    - 美 `/kə'læbəret/`
+  - 词义
+    - v. 协作，合作；勾结，通敌
+    - `to work together with a person or group in order to achieve something, especially in science or art`
+  - 记忆
+    - col(一起， 共同) + labor(工作) + ate → 协作， 合作
+  - 同根词
+    - adj.
+      - `collaborative` 合作的，协作的
+    - n.
+      - `collaboration` 合作；勾结；通敌
+      - `collaborator` [劳经] 合作者；勾结者；通敌者
+      - `collaborationism` 卖国，通敌
+      - `collaborationist` 通敌卖国者；协助者
+  - 近义词
+    - vi. 合作；勾结，通敌
+      - `team`
+      - `work together`
+  - 短语
+    - `collaborate with` 合作；通敌；与敌人合作 
+  - 例句
+    - `Much later he collaborated with his son Michael on the English translation of a text on food production.`
+      - 后来他和儿子迈克尔合作，把一个有关食品生产的文本翻译成英语。
+

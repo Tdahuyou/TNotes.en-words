@@ -1,0 +1,18 @@
+- conspire
+  - 发音
+    - 英 `/kən'spaɪə/`
+    - 美 `/kən'spaɪɚ/`
+  - 词义
+    - v. 共谋；协力
+    - `to secretly plan with someone else to do something illegal`
+  - 同根词
+    - n.
+      - `conspiracy` 阴谋；共谋；阴谋集团
+  - 近义词
+    - vi. [法]共谋；协力
+      - `cooperate`
+      - `concert`
+  - 例句
+    - `They'd conspired to overthrow the government.`
+      - 他们曾合谋推翻政府。
+

@@ -1,0 +1,31 @@
+- discontinue
+  - 发音
+    - 英 `/ˌdiskən'tinjuː/`
+    - 美 `/,dɪskən'tɪnju/`
+  - 词义
+    - v. 停止，中断
+    - `to stop doing, producing, or providing something`
+  - 记忆
+    - 来自dis (不) + continue (继续) → 不再继续 → 停止， 中断
+  - 同根词
+    - adj.
+      - `discontinued` 停止使用的；不连续的
+    - n.
+      - `discontinuity` 不连续；中断；间断性；断绝
+      - `discontinuation` 中止（等于discontinuance）；停止；废止
+      - `discontinuance` 废止，中止；撤销诉讼
+    - v.
+      - `discontinued` 停止；中断（discontinue的过去分词）
+  - 近义词
+    - vt. 停止；使中止
+      - `cheese`
+      - `quit`
+    - vi. 停止，中断
+      - `desist from`
+      - `come to a stop`
+  - 例句
+    - `Bus route 51 is being discontinued.`
+      - 51 路公共汽车目前停止运营。
+    - `a discontinued china pattern`
+      - 不再使用的瓷器图案
+

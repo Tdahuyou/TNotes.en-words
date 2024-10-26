@@ -1,0 +1,19 @@
+- biannual
+  - 发音
+    - 英 `/baɪ'ænjuəl/`
+    - 美 `/baɪ'ænjuəl/`
+  - 词义
+    - adj. 一年两次的
+    - `happening twice each year`
+  - 记忆
+    - bi(两) + ann(年) + ual → 一年两次的
+  - 同根词
+    - adv.
+      - `biannually` 每半年地
+  - 近义词
+    - adj. 一年两次的
+      - `semiannual`
+  - 例句
+    - `a biannual report`
+      - 半年度报告
+

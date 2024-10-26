@@ -1,0 +1,33 @@
+- dissent
+  - 发音
+    - 英 `/dɪ'sent/`
+    - 美 `/dɪ'sɛnt/`
+  - 词义
+    - vi. 不同意，持异议
+    - `to say that you disagree with an official decision or accepted opinion`
+    - n. 不同意见，异议
+    - `refusal to agree with an official decision or accepted opinion`
+  - 记忆
+    - dis(分离) + sent(送) → 往不同的地方送 → 不同意， 持异议
+  - 同根词
+    - adj.
+      - `dissenting` 不同意的（等于dissentient）
+      - `dissentient` 反对的，持异议的；不赞成的
+    - n.
+      - `dissenter` 持异议者；反对者
+      - `dissentient` 不赞成的人，持异议的
+    - v.
+      - `dissenting` 不同意；持异议（dissent的ing形式）
+  - 近义词
+    - vi. 不同意；不信奉国教
+      - `to disapprove of`
+      - `disagree with`
+    - n. 异议；（大写）不信奉国教
+      - `exception`
+      - `demurral`
+  - 短语
+    - `dissent from` 不赞同；与…意见不同 
+  - 例句
+    - `There are some dissenting voices (= people who do not agree ) among the undergraduates.`
+      - 大学生中有一些反对的呼声。
+

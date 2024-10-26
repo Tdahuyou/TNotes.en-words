@@ -1,0 +1,27 @@
+- emancipate
+  - 发音
+    - 英 `/ɪ'mænsɪpeɪt/`
+    - 美 `/ɪ'mænsɪpet/`
+  - 词义
+    - vt. 解放，解除
+    - `to give someone the political or legal rights that they did not have before`
+  - 记忆
+    - e(外) + man(手) + cip(抓) + ate → 抓着他人的手往外 → 解放
+  - 同根词
+    - adj.
+      - `emancipated` 被解放的
+      - `emancipative` 解放的；有助于解放的
+    - n.
+      - `emancipation` 解放；释放
+      - `emancipationist` 解放主义者；解放论的人
+      - `emancipator` 释放者；解放者
+    - v.
+      - `emancipated` 解放；使…获得自由（emancipate的过去分词）
+  - 近义词
+    - vt. 解放；释放
+      - `deliver`
+      - `manumit`
+  - 例句
+    - `Slaves were emancipated in 1834.`
+      - 奴隶于1834年获得了解放。
+

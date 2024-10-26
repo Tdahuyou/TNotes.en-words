@@ -1,0 +1,10 @@
+- cuspidor
+  - 发音
+    - 英 `/'kʌspɪdɔː/`
+    - 美 `/'kʌspə,dɔr/`
+  - 词义
+    - n. 痰盂
+  - 近义词
+    - n. （美）痰盂
+      - `spittoon`
+      - `goboon`

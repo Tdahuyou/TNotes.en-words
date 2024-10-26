@@ -1,0 +1,22 @@
+- cranium
+  - 发音
+    - 英 `/'kreɪniəm/`
+    - 美 `/'krenɪəm/`
+  - 词义
+    - n. 头颅；头盖
+    - `the part of your head that is made of bone and covers your brain`
+  - 同根词
+    - adj.
+      - `cranial` 头盖的
+      - `craniate` 有头盖的；有头动物的；脊椎动物的
+    - n.
+      - `craniate` 有头动物；脊椎动物
+      - `craniology` 头骨学；头盖学
+  - 近义词
+    - n. [解剖]颅；头盖
+      - `epicranium`
+      - `brainpan`
+  - 例句
+    - `The brain itself does not fossilise, but the inside of the cranium retains an impression of its contours.`
+      - 脑部分本身是不会变成化石的，但在头盖骨内部却还保留着脑的轮廓。
+

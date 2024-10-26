@@ -1,0 +1,37 @@
+- blush
+  - 发音
+    - 英 `/blʌʃ/`
+    - 美 `/blʌʃ/`
+  - 词义
+    - vi. 脸红；羞愧
+    - `to become red in the face, usually because you are embarrassed`
+    - n. 脸上泛起的红晕
+    - `the red colour on your face that appears when you are embarrassed`
+  - 记忆
+    - 果园里一片繁茂(lush)， 苹果红了脸(blush)
+  - 同根词
+    - adj.
+      - `blushing` 脸红的
+      - `blushful` 脸红的；使人脸红的；羞怯的
+    - adv.
+      - `blushingly` 羞愧地；红着脸地
+    - n.
+      - `blushing` [涂料] 雾浊
+      - `blusher` 脸红的人；红色敷面粉
+  - 近义词
+    - vi. 脸红；感到惭愧
+      - `feel cheap`
+    - n. 脸红；红色；羞愧
+      - `red`
+      - `shame`
+  - 短语
+    - `first blush` 乍一看；乍看 
+    - `at first blush` 乍一看；一瞥 
+  - 例句
+    - `Wilson saw she was watching him and blushed.`
+      - 威尔逊看到她在注视着自己，不由得脸红了。
+    - `Joan blushed at the unexpected compliment.`
+      - 这意外的夸奖让琼脸红了。
+    - `Kate blushed scarlet.`
+      - 凯特满脸绯红。
+

@@ -1,0 +1,23 @@
+- disingenuous
+  - 发音
+    - 英 `/ˌdisin'dʒenjuəs/`
+    - 美 `/,dɪsɪn'dʒɛnjuəs/`
+  - 词义
+    - adj. 不真诚的，无诚意的
+    - `not sincere and slightly dishonest`
+  - 记忆
+    - dis (不) + ingenuous (直率的) → 不直率的 → 不真诚的
+  - 同根词
+    - adv.
+      - `disingenuously` 不诚实地
+  - 近义词
+    - adj. 虚伪的；不诚实的；不老实的；狡猾的
+      - `artificial`
+      - `false`
+      - `designing`
+      - `knowing`
+      - `subtle`
+  - 例句
+    - `Keeping the details of the tax changes vague is disingenuous.`
+      - 对税收变革的细节含糊其词并不光明正大。
+

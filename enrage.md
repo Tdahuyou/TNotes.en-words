@@ -1,0 +1,22 @@
+- enrage
+  - 发音
+    - 英 `/in'reidʒ/`
+    - 美 `/in'reidʒ/`
+  - 词义
+    - v. 激怒
+    - `to make someone very angry`
+  - 记忆
+    - en (使…) + rage (怒) → 使怒 → 激怒
+  - 同根词
+    - adj.
+      - `enraged` 暴怒的；忿怒填胸的
+    - v.
+      - `enraged` 使发怒；触怒（enrage的过去分词）
+  - 近义词
+    - vt. 激怒；使暴怒
+      - `anger`
+      - `rub the wrong way`
+  - 例句
+    - `Many readers were enraged by his article.`
+      - 许多读者被他的文章激怒了。
+

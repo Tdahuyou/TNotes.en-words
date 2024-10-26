@@ -1,0 +1,33 @@
+- comic
+  - 发音
+    - 英 `/'kɑːmɪk/`
+    - 美 `/'kɑmɪk/`
+  - 词义
+    - adj. 可笑的，滑稽的；喜剧的
+    - `amusing you and making you want to laugh`
+    - n. 喜剧演员
+    - `someone whose job is to tell jokes and make people laugh`
+  - 同根词
+    - adj.
+      - `comical` 滑稽的，好笑的
+    - adv.
+      - `comically` 滑稽地；诙谐地
+    - n.
+      - `comicality` 诙谐；滑稽
+  - 近义词
+    - adj. 喜剧的；滑稽的；有趣的
+      - `colorful`
+      - `funny`
+    - n. 连环漫画；喜剧演员；滑稽人物
+      - `funny`
+      - `stripcartoon`
+  - 短语
+    - `comic book` 连环漫画册 
+    - `comic strip` 连载漫画；四格漫画 
+    - `comic relief` n. 喜剧性穿插；喜剧性调剂 
+    - `comic and animation` 动漫 
+    - `comic opera` 喜歌剧 
+  - 例句
+    - `a comic novel`
+      - 滑稽小说
+

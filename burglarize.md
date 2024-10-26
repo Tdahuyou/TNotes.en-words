@@ -1,0 +1,20 @@
+- burglarize
+  - 发音
+    - 英 `/'bɜːgləraɪz/`
+    - 美 `/'bɝglə,raɪz/`
+  - 词义
+    - v. 夜盗；行窃
+    - `to go into a building and steal things`
+  - 记忆
+    - burglar(夜盗) + ize → 进行夜盗 → 破门盗窃
+  - 同根词
+    - adj.
+      - `burglarious` 夜盗的，窃盗的
+    - n.
+      - `burglar` 夜贼，窃贼
+      - `burglary` 盗窃，夜盗；盗窃行为
+    - v.
+      - `burglary` 入室行窃
+  - 近义词
+    - vt. 撬窃；行窃
+      - `thieve`

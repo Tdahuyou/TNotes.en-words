@@ -1,0 +1,22 @@
+- acrid
+  - 发音
+    - 英 `/'ækrid/`
+    - 美 `/'ækrɪd/`
+  - 词义
+    - adj. 辛辣的，刻薄的
+    - `an acrid smell or taste is strong and unpleasant and stings your nose or throat`
+  - 记忆
+    - acr (尖， 酸的) + id → 尖酸刻薄 → 辛辣的； 刻薄的
+  - 同根词
+    - n.
+      - `acridity` 辛辣，苦；尖刻的批评
+      - `acridness` 辛辣；刻薄；苦
+  - 近义词
+    - adj. 辛辣的；苦的；刻薄的
+      - `acid`
+      - `bitter`
+      - `spicy`
+  - 例句
+    - `a cloud of acrid smoke`
+      - 一团刺鼻的烟雾
+

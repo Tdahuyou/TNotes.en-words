@@ -1,0 +1,17 @@
+- crestfallen
+  - 发音
+    - 英 `/'krestˌfɔːlən/`
+    - 美 `/'krɛstfɔlən/`
+  - 词义
+    - adj. 垂头丧气的
+    - `looking disappointed and upset`
+  - 记忆
+    - crest (鸟冠) + fallen (倒下的) → 垂头丧气的
+  - 近义词
+    - adj. 垂头丧气的，气馁的
+      - `chapfallen`
+      - `chopfallen`
+  - 例句
+    - `He came back looking crestfallen .`
+      - 他回来时看上去垂头丧气的。
+

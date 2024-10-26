@@ -1,0 +1,16 @@
+- asterisk
+  - 发音
+    - 英 `/'æstərɪsk/`
+    - 美 `/'æstərɪsk/`
+  - 词义
+    - n. 星号
+    - `a mark like a star (*), used especially to show something interesting or important`
+    - v. 注上星号；用星号标出
+  - 例句
+    - `The plug-in names followed by an asterisk are those that were loaded during startup.`
+      - 后面跟有一个星号的插件名是那些在启动的时候就加载的插件。
+    - `The first part is the period asterisk characters, .*, which here means anything before any number of spaces and the group (.*?).`
+      - 第一部分是点号和星号字符 .* ，它们在这里表示 任意数量的空格和 (.*?) 组之前的任何字符 。
+    - `It might be handy to remember that the namestring can contain wildcard characters (asterisk is the only supported character but you can use several in the namestring.`
+      - 记住名称字符串可以包含通配符会很方便（虽然星号是惟一支持的字符，但是可以在名称字符串中使用多个。
+

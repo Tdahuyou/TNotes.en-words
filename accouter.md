@@ -1,0 +1,16 @@
+- accouter
+  - 发音
+    - 英 `/ə'kuːtə/`
+    - 美 `/ə'ku:tə/`
+  - 词义
+    - v. 装备，配备
+    - `to provide with equipment or dress, esp military `
+  - 同根词
+    - n.
+      - `accouterment` 配备；装备；饰物；穿着
+    - vt.
+      - `accoutre` 装备；供以军用品；供以服装
+  - 近义词
+    - vt. 装备；供以军用品，供以服装
+      - `prepare`
+      - `provide`

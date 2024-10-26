@@ -1,0 +1,17 @@
+- divulge
+  - 发音
+    - 英 `/dai'vʌldʒ/`
+    - 美 `/dɪ'vʌldʒ/`
+  - 词义
+    - v. 泄露；暴露
+    - `to give someone information that should be secret`
+  - 记忆
+    - di + vulge (普通) → 使普通 → 透露
+  - 近义词
+    - vt. 泄露；暴露
+      - `reveal`
+      - `ooze out`
+  - 例句
+    - `Officials refuse to divulge details of the negotiations.`
+      - 官员们拒绝透露谈判的细节。
+

@@ -1,0 +1,10 @@
+- barometre
+  - 发音
+    - 英 `/undefined/`
+    - 美 `/undefined/`
+  - 词义
+    - n. 气压表；晴雨表
+  - 近义词
+    - n. 气压表；晴雨表
+      - `variometer`
+      - `weatherglass`

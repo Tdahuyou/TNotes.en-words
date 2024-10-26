@@ -1,0 +1,44 @@
+- argue
+  - 发音
+    - 英 `/'ɑːrgjuː/`
+    - 美 `/'ɑrgjʊ/`
+  - 词义
+    - v. 争论，辩论；主张，论证；说服，劝说
+    - `to disagree with someone in words, often in an angry way`
+  - 记忆
+    - “阿Q” → 阿Q喜欢和人争论 → 争论
+  - 同根词
+    - adj.
+      - `argumentative` 好辩的；辩论的；争辩的
+      - `arguable` 可论证的；可议的；可疑的
+    - adv.
+      - `arguably` 可论证地；可争辩地；正如可提出证据加以证明的那样地
+      - `argumentatively` 激辩地
+    - n.
+      - `argument` 论证；论据；争吵；内容提要
+      - `arguing` 争吵
+      - `argumentation` 论证；争论；辩论
+      - `arguer` 争辩者；辩论者
+    - v.
+      - `arguing` 争吵（argue的ing形式）；争辩
+  - 近义词
+    - vi. 争论，辩论；提出理由
+      - `debate`
+      - `dispute about`
+    - vt. 辩论，争论；证明；说服
+      - `debate`
+      - `discuss`
+      - `demonstrate`
+      - `prove`
+      - `satisfy`
+  - 短语
+    - `argue with` 争论；和…争吵 
+    - `argue about` 争论；议论某事 
+    - `argue for` 赞成；支持；论证 
+    - `argue over` 辩论某事，为…争论 
+    - `argue against` 反对；据理反对；争辩 
+    - `argue on` 辩论（争论）某事 
+  - 例句
+    - `We could hear the neighbours arguing.`
+      - 我们听到邻居在争吵。
+

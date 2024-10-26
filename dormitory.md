@@ -1,0 +1,25 @@
+- dormitory
+  - 发音
+    - 英 `/'dɔːrmətɔːri/`
+    - 美 `/'dɔrmətɔri/`
+  - 词义
+    - n. 宿舍
+    - `a large building at a college or university where students live`
+  - 记忆
+    - dorm(睡眠) + it + ory(表地点， 名词后缀) → 睡觉的地方 → 宿舍
+  - 同根词
+    - n.
+      - `dorm` 宿舍（等于dormitory）
+  - 近义词
+    - n. 宿舍，学生宿舍
+      - `lodging house`
+      - `student hostel`
+    - adj. 住宅区的
+      - `uptown`
+  - 短语
+    - `dormitory building` 宿舍大楼 
+    - `school dormitory` 学校宿舍 
+  - 例句
+    - `She lived in a college dormitory.`
+      - 她住在一幢大学宿舍楼里。
+

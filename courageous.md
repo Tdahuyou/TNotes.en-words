@@ -1,0 +1,25 @@
+- courageous
+  - 发音
+    - 英 `/kə'reɪdʒəs/`
+    - 美 `/kə'redʒəs/`
+  - 词义
+    - adj. 勇敢的，有胆量的
+    - `brave`
+  - 记忆
+    - 来自courage(n. 勇气)
+  - 同根词
+    - adv.
+      - `courageously` 勇敢地
+    - n.
+      - `courage` 勇气；胆量
+      - `courageousness` 勇敢；无畏
+  - 近义词
+    - adj. 有胆量的，勇敢的
+      - `game`
+      - `brave`
+  - 例句
+    - `He was wrong, and courageous enough to admit it.`
+      - 他是错了，而且有勇气承认自己错了。
+    - `a courageous decision`
+      - 勇敢的决定
+

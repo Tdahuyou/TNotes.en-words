@@ -1,0 +1,11 @@
+- backside
+  - 发音
+    - 英 `/bæk'saɪd; 'bæksaɪd/`
+    - 美 `/'bæksaɪd/`
+  - 词义
+    - n. 背部；后方；臀部
+    - `the part of your body that you sit on`
+  - 近义词
+    - n. 背部；后方；臀部
+      - `bottom`
+      - `dorsum`

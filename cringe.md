@@ -1,0 +1,27 @@
+- cringe
+  - 发音
+    - 英 `/krindʒ/`
+    - 美 `/krɪndʒ/`
+  - 词义
+    - v. 畏缩；阿谀，奉承
+    - `to move away from someone or something because you are afraid`
+  - 记忆
+    - c + ring (响铃) + e → 一响铃就退缩 → 畏缩
+  - 同根词
+    - adj.
+      - `cringing` 谄媚（的）
+    - n.
+      - `cringing` 奉承（的）
+  - 近义词
+    - vi. 畏缩；奉承；阿谀
+      - `honey`
+      - `recoil from`
+    - n. 畏缩；奉承
+      - `court`
+      - `flattery`
+  - 例句
+    - `A stray dog was cringing by the door.`
+      - 一条流浪狗畏缩在门旁。
+    - `She cringed away from him.`
+      - 她退缩着躲开他。
+

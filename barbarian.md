@@ -1,0 +1,31 @@
+- barbarian
+  - 发音
+    - 英 `/bɑː'beəriən/`
+    - 美 `/bɑr'bɛrɪən/`
+  - 词义
+    - adj. 粗鲁无礼的；野蛮的
+    - `Barbarian is also an adjective`
+  - 同根词
+    - adj.
+      - `barbaric` 野蛮的，粗野的；原始的
+      - `barbarous` 野蛮的；残暴的
+    - adv.
+      - `barbarously` 野蛮地；下流地
+    - n.
+      - `barbarism` 野蛮；原始；未开化；暴虐
+      - `barbarization` 野蛮化；粗俗化
+    - vi.
+      - `barbarize` 野蛮；变粗野
+    - vt.
+      - `barbarize` 使野蛮
+  - 近义词
+    - adj. 野蛮的；未开化的
+      - `wild`
+      - `brutal`
+    - n. 野蛮人
+      - `Goth`
+      - `Hun`
+  - 例句
+    - `We need to fight this barbarian attitude to science.`
+      - 我们需要向这种对待科学的野蛮态度作斗争。
+

@@ -1,0 +1,60 @@
+- end
+  - 发音
+    - 英 `/end/`
+    - 美 `/ɛnd/`
+  - 词义
+    - n. （时间的）最后一段，末尾
+    - `the last part of a period of time, event, activity, or story`
+    - v. 结束
+    - `to finish what you are doing`
+  - 同根词
+    - adj.
+      - `endless` 无止境的；连续的；环状的；漫无目的的
+      - `endmost` 位于最末端的
+      - `endwise` 直立着的；向前的；末端朝前或向上的（等于endways）
+    - adv.
+      - `endlessly` 不断地；无穷尽地
+      - `endwise` 竖着；末端向前地；两端首尾相接；向着两端（等于endways）
+    - n.
+      - `ending` 结局；结尾
+  - 近义词
+    - n. 结束；目标；尽头；末端；死亡
+      - `completion`
+      - `death`
+      - `target`
+      - `goal`
+      - `object`
+    - vi. 结束，终止；终结
+      - `drop`
+      - `determine`
+      - `pass`
+    - vt. 结束，终止；终结
+      - `conclude`
+      - `bring to a close`
+  - 短语
+    - `the end of` …的最后 
+    - `in the end` 终于，最后 
+    - `at the end` 最终，最后；在终点 
+    - `at the end of` 在……尽头；在……结束时 
+    - `by the end of` 到……结束时；到……时为止；在……之前 
+    - `by the end` 到…末尾；到…为止 
+    - `end up` 结束；死亡 
+    - `from beginning to end` 自始至终 
+    - `to an end` 结束 
+    - `come to an end` v. 结束 
+    - `put an end to` 结束；终止 
+    - `end in` 以…为结果；以…告终 
+    - `no end` 非常；大量；不停地 
+    - `until the end` 直到最后；直到永远 
+    - `on end` 连续地；竖着 
+    - `end with` 以……结束 
+    - `to this end` 为了这个目的 
+    - `high end` 高端 
+    - `front end` 前端 
+    - `end point` 终点；目的 
+  - 例句
+    - `Hooker’s death marked the end of an era.`
+      - 胡克的逝世标志着一个时代的终结。
+    - `I played the tape from beginning to end.`
+      - 我把磁带从头到尾播放了一遍。
+

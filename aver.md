@@ -1,0 +1,18 @@
+- aver
+  - 发音
+    - 英 `/ə'vɜːr/`
+    - 美 `/ə'və:/`
+  - 词义
+    - v. 极力声明；断言；证实
+    - `to say something firmly and strongly because you are sure that it is true`
+  - 记忆
+    - a(向) + ver(真实的) → 向人们说出真相 → 证实
+  - 同根词
+    - n.
+      - `averment` 断言，坚称
+  - 近义词
+    - vt. 断言，极力声明；主张
+      - `maintain`
+      - `submit`
+      - `advocate`
+      - `declare`

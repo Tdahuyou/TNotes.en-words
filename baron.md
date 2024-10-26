@@ -1,0 +1,23 @@
+- baron
+  - 发音
+    - 英 `/'bær(ə)n/`
+    - 美 `/'bærən/`
+  - 词义
+    - n. 男爵；大亨；巨头
+    - `a man who is a member of a low rank of the British  nobility  or of a rank of European  nobility `
+  - 同根词
+    - adj.
+      - `baronial` 宏大的；男爵的
+    - n.
+      - `baroness` 男爵夫人；女男爵；（欧洲某些国家）男爵之女
+      - `baronage` 男爵；贵族
+      - `baronetcy` 从男爵爵位
+      - `barony` 男爵领地；男爵爵位；大片私有土地
+  - 近义词
+    - n. 男爵；大亨；巨头
+      - `tycoon`
+      - `big boy`
+  - 例句
+    - `{"COLLOINEXA":["drug barons"]}`
+      - 大毒枭
+

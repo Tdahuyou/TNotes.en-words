@@ -1,0 +1,27 @@
+- demobilize
+  - 发音
+    - 英 `/diː'moubəlaɪz/`
+    - 美 `/di'mobəlaɪz/`
+  - 词义
+    - vt. 遣散；使复员
+    - `to send home the members of an army, navy etc, especially at the end of a war`
+  - 记忆
+    - de(分离) + mob(移动) + ilize → 向不同的方向移动 → 遣散
+  - 同根词
+    - n.
+      - `demobilization` 复员；遣散（demobilize的名词）
+      - `demob` 复员；遣散
+      - `demobilisation` 出场，遣散
+    - vi.
+      - `demobilise` 遣散军队；实行复员（等于demobilize）
+    - vt.
+      - `demob` 遣散；使复员
+      - `demobilise` 使…复员；遣散
+  - 近义词
+    - vt. 遣散；使复员；使退伍（demobilise）
+      - `deactivate`
+      - `muster out`
+  - 例句
+    - `programmes to help demobilized soldiers fit into civilian life`
+      - 帮助复员军人适应平民生活的方案
+

@@ -1,0 +1,27 @@
+- accustomed
+  - 发音
+    - 英 `/ə'kʌstəmd/`
+    - 美 `/ə'kʌstəmd/`
+  - 词义
+    - adj. 通常的；习惯的
+    - `usual`
+  - 记忆
+    - ac + custom (风俗) + ed → 入乡随俗的 → 习惯的
+  - 同根词
+    - vt.
+      - `accustom` 使习惯于
+  - 近义词
+    - adj. 习惯的；通常的；独有的
+      - `usual`
+      - `used`
+      - `particular`
+      - `common`
+      - `exclusive`
+  - 短语
+    - `become accustomed to` 习惯于；对…变得习以为常 
+    - `get accustomed to` 变得习惯于，习惯于 
+    - `became accustomed to sth` 对…变得习惯起来 
+  - 例句
+    - `The pans were in their accustomed places.`
+      - 那些锅在老地方。
+

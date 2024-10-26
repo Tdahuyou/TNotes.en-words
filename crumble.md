@@ -1,0 +1,28 @@
+- crumble
+  - 发音
+    - 英 `/'krʌmb(ə)l/`
+    - 美 `/'krʌmbl/`
+  - 词义
+    - v. 弄碎,崩溃
+    - `if something, especially something made of stone or rock, is crumbling, small pieces are breaking off it`
+  - 同根词
+    - adj.
+      - `crumbly` 脆的；易碎的
+    - n.
+      - `crumb` 面包屑，碎屑；少许
+      - `crumbliness` 破碎性
+    - vt.
+      - `crumb` 弄碎；捏碎
+  - 近义词
+    - vi. 崩溃；破碎，粉碎
+      - `fall apart at the seams`
+      - `come apart`
+    - vt. 崩溃；弄碎，粉碎
+      - `fall apart at the seams`
+      - `go to pieces`
+  - 例句
+    - `The old stonework was crumbling away.`
+      - 古老的石筑部分逐渐崩塌。
+    - `crumbling colonial buildings`
+      - 逐渐坍塌的殖民时期建筑
+

@@ -1,0 +1,18 @@
+- doldrums
+  - 发音
+    - 英 `/'dɒldrəmz/`
+    - 美 `/'doldrəmz/`
+  - 词义
+    - n. 忧郁；赤道无风带
+    - `if you are in the doldrums, you are feeling sad`
+  - 同根词
+    - adj.
+      - `doleful` 寂寞的；悲哀的；阴沉的；忧郁的
+  - 近义词
+    - n. 忧郁；[气象]赤道无风带
+      - `hyp`
+      - `cafard`
+  - 例句
+    - `Fay is in the doldrums today.`
+      - 今天费伊情绪低落。
+

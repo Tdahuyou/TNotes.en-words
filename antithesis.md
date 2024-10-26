@@ -1,0 +1,17 @@
+- antithesis
+  - 发音
+    - 英 `/æn'tɪθəsɪs/`
+    - 美 `/æn'tɪθəsɪs/`
+  - 词义
+    - n. 对立；相对
+    - `the complete opposite of something`
+  - 记忆
+    - anti(反) + thesis(放) → 反着放 → 对立
+  - 近义词
+    - n. 对立面；对照；对仗
+      - `comparison`
+      - `opposite`
+  - 例句
+    - `The antithesis of the Middle Eastern buyer is the Japanese.`
+      - 与中东买主截然相反的是日本买主。
+

@@ -1,0 +1,13 @@
+- artisan
+  - 发音
+    - 英 `/'ɑːrtəzn/`
+    - 美 `/'ɑrtəzn/`
+  - 词义
+    - n. 工匠，手艺人
+    - `someone who does skilled work, making things with their hands`
+  - 记忆
+    - arti(技术) + s + an(表人， 名词后缀) → 有技术的人 → 工匠， 手艺人
+  - 近义词
+    - n. [劳经]工匠，技工
+      - `workman`
+      - `craftsman`

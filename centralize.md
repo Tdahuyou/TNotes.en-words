@@ -1,0 +1,47 @@
+- centralize
+  - 发音
+    - 英 `/'sentrəlaiz/`
+    - 美 `/'sɛntrəlaɪz/`
+  - 词义
+    - v. 集聚,集中
+    - `to organize the control of a country, organization, or system so that everything is done or decided in one place`
+  - 同根词
+    - adj.
+      - `central` 中心的；主要的；中枢的
+      - `centre` 中央的
+      - `centralized` 集中的；中央集权的
+      - `centric` 中央的，中心的
+      - `centred` 固定于中心的；在中心的
+      - `centralist` 拥护中央集权的
+    - adv.
+      - `centrally` 在中心
+    - n.
+      - `central` 电话总机
+      - `centre` 中心
+      - `centrist` 中立派议员；中间派议员
+      - `centrality` 中心；中央；向心性
+      - `centralization` 集中化；中央集权管理
+      - `centralisation` （英）集中化（等于centralization）
+      - `centrepiece` 中心装饰品
+      - `centralism` 中央集权制；中央集权主义
+      - `centralist` 中央集权主义者
+      - `centrex` 中央交换机；市话交换分局
+      - `centrism` 温和主义，中间路线；中间派的政策
+    - v.
+      - `centralized` 集中（centralize的过去分词）
+      - `centred` 集中（centre的过去分词）；把…置于中央
+    - vi.
+      - `centre` 以…为中心
+    - vt.
+      - `centre` 集中；将…放在中央
+      - `centralise` 把…集中起来；形成中心
+  - 近义词
+    - vt. 使集中；使成为…的中心；使集权
+      - `focus`
+    - vi. 集中；实行中央集权
+      - `concentrate`
+      - `focus`
+  - 例句
+    - `plans to centralize the company’s U.S. activities`
+      - 公司对在美国的业务活动进行统一管理的计划
+

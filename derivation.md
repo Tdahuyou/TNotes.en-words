@@ -1,0 +1,33 @@
+- derivation
+  - 发音
+    - 英 `/ˌderɪ'veɪʃn/`
+    - 美 `/'dɛrə'veʃən/`
+  - 词义
+    - n. 起源，发源；派生
+    - `the origin of something, especially a word`
+  - 记忆
+    - 来自derive(v. 起源)； de + rive(r)(河) → 黄河是中华文明的摇篮 → 起源
+  - 同根词
+    - adj.
+      - `derivative` 派生的；引出的
+      - `derived` 导出的；衍生的，派生的
+      - `derivational` 得来的；诱导的
+      - `derivable` 可诱导的；可推论的；可引出的
+    - n.
+      - `derivative` [化学] 衍生物，派生物
+    - v.
+      - `derived` 得到；推断（derive的过去分词）；由…而来
+    - vi.
+      - `derive` 起源
+    - vt.
+      - `derive` 源于；得自
+  - 近义词
+    - n. 引出；来历；词源
+      - `history`
+      - `story`
+  - 短语
+    - `theoretical derivation` 理论推导 
+  - 例句
+    - `The derivation of its name is obscure.`
+      - 它名字的根源起源鲜为人知。
+

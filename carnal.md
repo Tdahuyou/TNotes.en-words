@@ -1,0 +1,27 @@
+- carnal
+  - 发音
+    - 英 `/'kɑːnəl/`
+    - 美 `/'kɑ:nəl/`
+  - 词义
+    - adj. 肉体的；肉欲的，性欲的，色欲的；淫荡的
+    - `relating to sex or someone’s body`
+  - 记忆
+    - carn (肉) + al (…的) → 肉体的； 肉欲的
+  - 同根词
+    - adv.
+      - `carnally` 世俗地；肉体地
+    - n.
+      - `carnality` 肉欲；淫荡
+    - vt.
+      - `carnalize` 好色；沉湎于肉欲
+  - 近义词
+    - adj. 肉体的；肉欲的；淫荡的；性欲的
+      - `material`
+      - `fleshly`
+  - 短语
+    - `have carnal knowledge of` 与…性交，与…发生两性关系 
+    - `carnal knowledge` 性交；性关系 
+  - 例句
+    - `carnal desires`
+      - 肉欲
+

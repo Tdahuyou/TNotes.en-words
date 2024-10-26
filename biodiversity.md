@@ -1,0 +1,21 @@
+- biodiversity
+  - 发音
+    - 英 `/,baɪə(ʊ)daɪ'vɜːsɪtɪ/`
+    - 美 `/,baɪodaɪ'vɝsəti/`
+  - 词义
+    - n. 生物多样性
+    - `the variety of plants and animals in a particular place`
+  - 同根词
+    - adj.
+      - `biodegradable` 生物所能分解的，能进行生物降解的
+    - vi.
+      - `biodegrade` 进行生物降解
+    - vt.
+      - `biodegrade` 生物递降分解
+  - 近义词
+    - n. [生物]生物多样性
+      - `biological diversity`
+  - 例句
+    - `the biodiversity of the rainforest`
+      - 热带雨林中的生物多样性
+

@@ -1,0 +1,37 @@
+- courtesy
+  - 发音
+    - 英 `/'kɜːtəsi/`
+    - 美 `/'kɝtəsi/`
+  - 词义
+    - n. 谦恭有礼；有礼貌的举止
+    - `polite behaviour and respect for other people`
+  - 记忆
+    - court(法庭)+esy(看作easy， 从容的)→在法庭上既要从容不迫又要谦恭有礼→谦恭有礼
+  - 同根词
+    - adj.
+      - `courteous` 有礼貌的；谦恭的
+      - `courtly` 尊严而有礼貌的；奉承的；有宫廷气派的，威严的
+    - adv.
+      - `courteously` 有礼貌地；亲切地
+    - n.
+      - `court` 法院；球场；朝廷；奉承
+    - vi.
+      - `court` 求爱
+    - vt.
+      - `court` 招致（失败、危险等）；向…献殷勤；设法获得
+  - 近义词
+    - n. 礼貌；好意；恩惠
+      - `grace`
+      - `kindness`
+    - adj. 殷勤的；被承认的；出于礼节的
+      - `red-carpet`
+      - `complaisant`
+  - 短语
+    - `courtesy of` 经由…提供；蒙…好意 
+    - `by courtesy` 礼貌起见 
+    - `by courtesy of` 蒙…的好意；由于…的作用 
+    - `courtesy call` 礼节性拜访 
+  - 例句
+    - `It’s a matter of common courtesy to acknowledge letters.`
+      - 确认收到来信是起码的礼貌。
+

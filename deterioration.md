@@ -1,0 +1,20 @@
+- deterioration
+  - 发音
+    - 英 `/dɪ,tɪərɪə'reɪʃn/`
+    - 美 `/dɪ,tɪrɪə'reʃən/`
+  - 词义
+    - n. 变坏,退化
+  - 同根词
+    - n.
+      - `deteriorator` 堕落者
+    - vi.
+      - `deteriorate` 恶化，变坏
+    - vt.
+      - `deteriorate` 恶化
+  - 近义词
+    - n. 恶化；[生物]退化；堕落
+      - `corruption`
+      - `regression`
+      - `degradation`
+  - 短语
+    - `environmental deterioration` 环境恶化 

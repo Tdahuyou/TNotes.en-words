@@ -1,0 +1,23 @@
+- coastline
+  - 发音
+    - 英 `/'kəʊs(t)laɪn/`
+    - 美 `/'kostlaɪn/`
+  - 词义
+    - n. 海岸线
+    - `the land on the edge of the coast, especially the shape of this land as seen from the air`
+  - 同根词
+    - adj.
+      - `coastal` 沿海的；海岸的
+      - `coastwise` 沿岸的；近海的
+    - adv.
+      - `coastwise` 沿岸；沿着海岸
+  - 近义词
+    - n. [海洋]海岸线
+      - `shoreline`
+      - `sea line`
+  - 例句
+    - `California’s rugged coastline`
+      - 加利福尼亚崎岖的海岸线
+    - `a beautiful stretch of coastline`
+      - 一段景色优美的海岸线
+

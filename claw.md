@@ -1,0 +1,25 @@
+- claw
+  - 发音
+    - 英 `/klɔː/`
+    - 美 `/klɔ/`
+  - 词义
+    - n. (脚)爪
+    - `a sharp curved nail on an animal, bird, or some insects`
+  - 同根词
+    - adj.
+      - `clawed` 有爪或螯的
+    - n.
+      - `clawed` 抓（claw的过去式和过去分词）
+  - 近义词
+    - n. [动]爪；螯，钳；爪形器具
+      - `talon`
+      - `unguis`
+  - 短语
+    - `claw back` 弥补性收入 
+    - `claw hammer` 羊角锤；木工锤；燕尾服；拔钉锤 
+  - 例句
+    - `The cat dug his claws into my leg.`
+      - 猫的爪子抓进了我的腿中。
+    - `lobster claws`
+      - 龙虾的螯
+

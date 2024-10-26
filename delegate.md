@@ -1,0 +1,32 @@
+- delegate
+  - 发音
+    - 英 `/ˈdɛlɪˌɡeɪt; -ɡɪt; (for v.,) ˈdɛlɪˌɡeɪt/`
+    - 美 `/ˈdɛləgɪt; (for v.,) ˈdɛləˌgeɪt/`
+  - 词义
+    - n. 代表
+    - `someone who has been elected or chosen to speak, vote, or take decisions for a group`
+    - vt. 委派…为代表，授权
+    - `to choose someone to do a particular job, or to be a representative of a group, organization etc`
+  - 记忆
+    - de(分离) + leg(送) + ate → 外派出去 → 代表
+  - 同根词
+    - adj.
+      - `delegating` 授权的
+    - n.
+      - `delegation` 代表团；授权；委托
+      - `delegating` 授权；委派；授权式
+      - `delegacy` 代表团；代表的地位；代表制度；代表的派遣
+    - v.
+      - `delegating` 授权（delegate的ing形式）；选举
+  - 近义词
+    - n. 代表
+      - `representation`
+      - `deputy`
+      - `behalf of`
+      - `ambassador`
+  - 短语
+    - `chief delegate` 首席代表 
+  - 例句
+    - `Around 350 delegates attended the conference.`
+      - 大约有350名代表参加了大会。
+

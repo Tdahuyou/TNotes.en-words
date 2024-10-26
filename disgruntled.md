@@ -1,0 +1,20 @@
+- disgruntled
+  - 发音
+    - 英 `/dɪs'grʌntld/`
+    - 美 `/dɪs'ɡrʌntld/`
+  - 词义
+    - adj. 不悦的，不满意的
+    - `annoyed or disappointed, especially because things have not happened in the way that you wanted`
+  - 记忆
+    - dis(不) + gruntle(使高兴) + d → 使不高兴的 → 不悦的
+  - 同根词
+    - vt.
+      - `disgruntle` 使……不高兴
+  - 近义词
+    - adj. 不满的；不高兴的
+      - `malcontented`
+      - `grouchy`
+  - 例句
+    - `a disgruntled client`
+      - 不满的客户
+

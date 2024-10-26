@@ -1,0 +1,22 @@
+- efficiently
+  - 发音
+    - 英 `/i'fiʃəntli/`
+    - 美 `/ɪ'fɪʃəntli/`
+  - 词义
+    - adv. 有效地；能胜任地
+  - 同根词
+    - adj.
+      - `efficient` 有效率的；有能力的；生效的
+      - `efficacious` 有效的；灵验的
+    - adv.
+      - `efficaciously` 有效地；灵验地
+    - n.
+      - `efficiency` 效率；效能；功效
+  - 近义词
+    - adv. 有效地；效率高地（efficient的副词形式）
+      - `effectively`
+      - `usefully`
+  - 例句
+    - `This oil lubricates efficiently.`
+      - 这油能有效地起润滑作用。
+

@@ -1,0 +1,20 @@
+- dilatory
+  - 发音
+    - 英 `/'diləːˌtɔːri/`
+    - 美 `/'dɪlətɔri/`
+  - 词义
+    - adj. 拖拉的
+    - `slow in doing something`
+  - 记忆
+    - di + lat (看作late ， 迟的) + ory (…的) → 因为拖拉而迟 → 拖拉的
+  - 同根词
+    - n.
+      - `dilatoriness` 迟缓；拖延
+  - 近义词
+    - adj. 拖拉的；缓慢的，不慌不忙的
+      - `draggy`
+      - `slow-motion`
+  - 例句
+    - `You might expect politicians to smooth things out when civil servants are being dilatory.`
+      - 当公务员办事拖拉时，你可能期望政治家们能够把事情顺利解决。
+

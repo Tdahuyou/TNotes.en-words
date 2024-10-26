@@ -1,0 +1,10 @@
+- cribber
+  - 发音
+    - 英 `/undefined/`
+    - 美 `/undefined/`
+  - 词义
+    - n. 剽窃者,作弊者
+  - 近义词
+    - n. 剽窃者；作弊者
+      - `borrower`
+      - `plagiarizer`

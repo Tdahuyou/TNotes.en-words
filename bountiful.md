@@ -1,0 +1,32 @@
+- bountiful
+  - 发音
+    - 英 `/'bauntɪfl/`
+    - 美 `/'baʊntɪfl/`
+  - 词义
+    - adj. 慷慨的；大量的，充足的
+    - `if something is bountiful, there is more than enough of it`
+  - 记忆
+    - 来自bounty(n. 慷慨之举)
+  - 同根词
+    - adj.
+      - `bounteous` 慷慨的；丰富的；充裕的
+    - adv.
+      - `bounteously` 丰富地；慷慨地
+      - `bountifully` 慷慨地；丰富地
+    - n.
+      - `bounty` 慷慨；丰富；奖励金；赠款
+    - vi.
+      - `bounty` 以赏金等形式发放
+    - vt.
+      - `bounty` 发给…奖金等；为…而发给赏金
+  - 近义词
+    - adj. 丰富的；慷慨的；宽大的
+      - `abundant`
+      - `generous`
+      - `full`
+      - `handsome`
+      - `ample`
+  - 例句
+    - `bountiful harvests`
+      - 大丰收
+

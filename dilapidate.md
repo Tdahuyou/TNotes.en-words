@@ -1,0 +1,22 @@
+- dilapidate
+  - 发音
+    - 英 `/di'læpideit/`
+    - 美 `/di'læpideit/`
+  - 词义
+    - v. 荒废，毁坏
+  - 记忆
+    - di (二) + lapid (石头) + ate → 石基倒塌成为两半 → (使) 荒废
+  - 同根词
+    - adj.
+      - `dilapidated` 荒废的，要塌似的；破坏的
+    - n.
+      - `dilapidation` 破损；崩塌；荒废
+    - v.
+      - `dilapidated` 变得荒废（dilapidate的过去分词）
+  - 近义词
+    - vi. 毁坏；荒废；浪费
+      - `do for`
+      - `play havoc with`
+    - vt. 荒废；毁坏
+      - `destroy`
+      - `damage`

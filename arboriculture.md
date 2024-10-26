@@ -1,0 +1,18 @@
+- arboriculture
+  - 发音
+    - 英 `/'ɑːbəriˌkʌltʃə/`
+    - 美 `/'ɑrbərɪ'kʌltʃɚ/`
+  - 词义
+    - n. 树木的培植【记】词根记忆：arbor+i+culture→树木的培植
+    - `the cultivation of trees or shrubs, esp for the production of timber `
+  - 同根词
+    - adj.
+      - `arboreal` 树木的；栖息在树上的
+      - `arboraceous` 长满树木的；树木状的
+      - `arboreous` 树木的；树木繁茂的；树木状的
+      - `arborescent` 树木状的
+      - `arborous` 树木茂盛的；树木的（等于arboreous）
+    - n.
+      - `arboretum` 植物园；（供科研等的）树木园
+      - `arboriculturist` 树木培植家
+      - `arborist` 树木栽培家；树木研究者；树艺家

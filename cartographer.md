@@ -1,0 +1,23 @@
+- cartographer
+  - 发音
+    - 英 `/kɑː'tɔgrəfə(r)/`
+    - 美 `/kɑr'tɑɡrəfɚ/`
+  - 词义
+    - n. 地图制作者
+    - `A cartographer is a person whose job is drawing maps`
+  - 记忆
+    - carto ( = card， 纸， 图) + graph (写， 图) + er → 绘制地图者
+  - 同根词
+    - adj.
+      - `cartographic` 地图的；制图的
+    - n.
+      - `carton` 纸板箱；靶心白点
+      - `carte` （法）菜单；地图；（苏）纸牌
+      - `cartography` 地图制作，制图；制图学，绘图法
+    - vi.
+      - `carton` 制作纸箱
+    - vt.
+      - `carton` 用盒包装
+  - 近义词
+    - n. [测]制图师；地图制作者
+      - `mapmaker`

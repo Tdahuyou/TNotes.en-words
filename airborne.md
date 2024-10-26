@@ -1,0 +1,23 @@
+- airborne
+  - 发音
+    - 英 `/'erbɔːrn/`
+    - 美 `/'ɛr'bɔrn/`
+  - 词义
+    - adj. 空气传播的；空运的
+    - `airborne soldiers are trained to fight in areas that they get to by jumping out of a plane`
+  - 记忆
+    - air(空气) + borne(bear的过去分词， 传播) → 空气传播的
+  - 近义词
+    - adj. [航]空运的；空气传播的；风媒的
+      - `abn`
+      - `skyborne`
+  - 短语
+    - `airborne division` 空降师 
+    - `airborne dust` [化]气载尘埃 
+    - `airborne troops` 空降部队；空降兵 
+    - `airborne particle counter` 航空粉尘计数器；空气粒子计数器 
+    - `airborne platform` 机载仪器平台；机载平台 
+  - 例句
+    - `airborne pollutants`
+      - 空气传播的污染物
+

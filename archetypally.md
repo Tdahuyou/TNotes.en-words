@@ -1,0 +1,8 @@
+- archetypally
+  - 发音
+    - 英 `/'ɑːrki'taɪpəli/`
+    - 美 `/undefined/`
+  - 词义
+    - adv. 典型地
+  - 记忆
+    - 来自archetype(n. 典型)

@@ -1,0 +1,40 @@
+- consume
+  - 发音
+    - 英 `/kən'suːm/`
+    - 美 `/kənˈsum/`
+  - 词义
+    - vt. 消耗，损耗；消费；吃，喝；使充满；烧毁，毁灭
+    - `to use time, energy, goods etc`
+  - 记忆
+    - con(表加强) + sum(拿， 取) + e → 全部拿出来(花掉) → 消费
+  - 同根词
+    - adj.
+      - `consuming` 消费的；强烈的
+      - `consumed` 充满的；对…著迷的
+      - `consumable` 可消耗的；可消费的
+      - `consumptive` 消耗性的；浪费的；肺病的
+    - n.
+      - `consumption` 消费；消耗；肺痨
+      - `consumer` 消费者；用户，顾客
+      - `consumable` 消费品；消耗品
+      - `consumerism` 保护消费者利益运动；用户至上主义
+      - `consumptive` 肺病患者；痨病患者
+    - v.
+      - `consuming` 消耗（consume的ing形式）
+      - `consumed` 消耗（consume的过去式和过去分词）
+  - 近义词
+    - vt. 消耗，消费；使…著迷；挥霍
+      - `waste`
+      - `to use up`
+    - vi. 耗尽，毁灭；耗尽生命
+      - `peter`
+      - `spend`
+  - 短语
+    - `propensity to consume` 消费倾向 
+    - `marginal propensity to consume` [经]边际消费倾向 
+  - 例句
+    - `Only 27% of the paper we consume is recycled.`
+      - 我们消耗的纸张只有 27% 得到回收利用。
+    - `A smaller vehicle will consume less fuel.`
+      - 汽车小耗费燃料也少。
+

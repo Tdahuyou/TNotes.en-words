@@ -1,0 +1,27 @@
+- balm
+  - 发音
+    - 英 `/bɑːm/`
+    - 美 `/bɑm/`
+  - 词义
+    - n. 香脂油，药膏；镇痛剂，安慰剂
+    - `an oily liquid with a strong pleasant smell that you rub into your skin, often to reduce pain`
+  - 记忆
+    - 镇痛剂(balm)能让人镇静(calm)下来
+  - 同根词
+    - adj.
+      - `balmy` 芳香的；温和的；止痛的
+      - `balsamic` 香胶或香脂的；如香油的；有镇静作用的
+    - adv.
+      - `balmily` 芳香地
+    - n.
+      - `balminess` 芳香；爽快
+  - 近义词
+    - n. 香油；镇痛软膏；香峰草，[树脂][药]香树膏
+      - `sesame oil`
+  - 短语
+    - `lip balm` 润唇膏 
+    - `tiger balm` 万金油 
+  - 例句
+    - `lip balm`
+      - 润唇膏
+

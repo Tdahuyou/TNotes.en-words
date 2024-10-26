@@ -1,0 +1,30 @@
+- discourage
+  - 发音
+    - 英 `/dɪs'kɜːrɪdʒ/`
+    - 美 `/dɪs'kɝɪdʒ/`
+  - 词义
+    - vt. 使泄气，使灰心；阻止，劝阻
+    - `to make someone less confident or less willing to do something`
+  - 记忆
+    - dis(不) + cour(精神) + age → 使没有精神 → 使泄气
+  - 同根词
+    - adj.
+      - `discouraged` 气馁的
+      - `discouraging` 使人沮丧的；令人气馁的
+    - adv.
+      - `discouragingly` 使人气馁地，使人沮丧地；阻止地
+    - n.
+      - `discouragement` 气馁；挫折；劝阻
+    - v.
+      - `discouraged` 劝阻（discourage的过去分词）；使失去勇气
+      - `discouraging` 沮丧（discourage的ing形式）；失去勇气
+  - 近义词
+    - vt. 阻止；使气馁
+      - `stem`
+      - `block`
+      - `dispute`
+      - `prohibit`
+  - 例句
+    - `You should not let one failure discourage you.`
+      - 你不该失败一次就灰心丧气。
+

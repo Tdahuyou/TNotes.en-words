@@ -1,0 +1,19 @@
+- blithesome
+  - 发音
+    - 英 `/'blaiðsəm/`
+    - 美 `/'blaiðsəm/`
+  - 词义
+    - adj. 愉快的，高兴的
+    - `cheery; merry `
+  - 同根词
+    - adj.
+      - `blithe` 愉快的；快乐无忧的
+    - adv.
+      - `blithely` 快活地；无忧无虑地
+  - 近义词
+    - adj. 愉快的
+      - `good`
+      - `bright`
+      - `fragrant`
+      - `cheerful`
+      - `gleeful`

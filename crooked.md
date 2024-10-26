@@ -1,0 +1,33 @@
+- crooked
+  - 发音
+    - 英 `/'krukɪd/`
+    - 美 `/'krʊkɪd/`
+  - 词义
+    - adj. 不诚实的；欺诈的；弯曲的
+    - `bent, twisted, or not in a straight line`
+  - 记忆
+    - 来自crook(vt. 弯曲)
+  - 同根词
+    - adv.
+      - `crookedly` 弯曲地；不诚实地
+    - n.
+      - `crook` 骗子，坏蛋；弯处，弯曲部分；钩状物
+      - `crookedness` 弯曲；不诚实
+      - `crookneck` （美）一种颈长而弯曲的南瓜
+    - vi.
+      - `crook` 弯曲，成钩形
+    - vt.
+      - `crook` 使弯曲；欺骗，诈骗
+  - 近义词
+    - adj. 弯曲的；歪的；不正当的
+      - `curve`
+      - `winding`
+      - `flexural`
+  - 短语
+    - `crooked line` 曲线；弯曲测线 
+  - 例句
+    - `Your tie’s crooked.`
+      - 你的领带歪了。
+    - `narrow crooked streets`
+      - 狭窄曲折的街道
+

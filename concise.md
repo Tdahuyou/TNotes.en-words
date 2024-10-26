@@ -1,0 +1,23 @@
+- concise
+  - 发音
+    - 英 `/kən'saɪs/`
+    - 美 `/kən'saɪs/`
+  - 词义
+    - adj. 简明的，简练的
+    - `short, with no unnecessary words`
+  - 记忆
+    - con(全部) + cis(切) + e → 把(多余的)全部切掉 → 简明的， 简练的
+  - 同根词
+    - adv.
+      - `concisely` 简明地，简洁地
+    - n.
+      - `conciseness` 简明，简洁；切除
+      - `concision` 简洁，简明
+  - 近义词
+    - adj. 简明的，简洁的
+      - `brief`
+      - `compact`
+  - 例句
+    - `Your summary should be as clear and concise as possible.`
+      - 你的总结应该尽可能地明白简洁。
+

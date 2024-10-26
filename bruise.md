@@ -1,0 +1,31 @@
+- bruise
+  - 发音
+    - 英 `/bruːz/`
+    - 美 `/bruz/`
+  - 词义
+    - v. 出现伤痕；挫伤
+    - `to affect someone badly and make them feel less confident`
+    - n. 伤痕，擦痕，青肿
+    - `a purple or brown mark on your skin that you get because you have fallen, been hit etc`
+  - 记忆
+    - “不如死” → 对她来说， 脸上有伤痕还不如死 → 伤痕
+  - 同根词
+    - adj.
+      - `bruised` 青肿的；瘀紫的
+      - `bruising` 殊死的；十分激烈的
+    - n.
+      - `bruising` 挫伤
+    - v.
+      - `bruised` 擦伤（bruise的过去式）
+      - `bruising` 擦伤（bruise的ing形式）
+  - 近义词
+    - n. 擦伤；挫伤；[外科]青肿
+      - `abrasion`
+      - `brush-burn`
+    - vi. 擦伤；受伤
+      - `wound`
+      - `brush burn`
+  - 例句
+    - `She fell off her bike and bruised her knee.`
+      - 她从自行车上摔下来，擦伤了膝盖。
+

@@ -1,0 +1,27 @@
+- deluxe
+  - 发音
+    - 英 `/də'luks, də'lʌks/`
+    - 美 `/də'lʌks/`
+  - 词义
+    - adj. 高级的；豪华的，奢华的
+    - `of better quality and more expensive than other things of the same type`
+    - adv. 豪华地
+  - 近义词
+    - adj. 高级的；豪华的，奢华的
+      - `senior`
+      - `advanced`
+      - `high`
+      - `grand`
+    - adv. 豪华地
+      - `luxuriously`
+      - `sumptuously`
+  - 短语
+    - `deluxe suite` 高级套房；豪华套间 
+    - `deluxe room` 豪华客房 
+    - `deluxe edition` 豪华版；精装本 
+  - 例句
+    - `a deluxe hotel`
+      - 豪华酒店
+    - `The deluxe model costs a lot more.`
+      - 豪华型的那款要贵很多。
+

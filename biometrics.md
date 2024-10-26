@@ -1,0 +1,18 @@
+- biometrics
+  - 发音
+    - 英 `/ˌbaɪəu'metrɪks/`
+    - 美 `/,baɪə'mɛtrɪks/`
+  - 词义
+    - n. 生物测定学
+    - `the analysis of biological data using mathematical and statistical methods `
+  - 同根词
+    - adj.
+      - `biomedical` 生物医学的
+    - n.
+      - `biomass` （单位面积或体积内的）[生态] 生物量
+      - `biome` [生态] 生物群系；[生态] 生物群落区
+      - `biomedicine` 生物医学
+      - `biometry` 寿命测定（等于biometrics）；生物统计学
+  - 近义词
+    - n. [生物]生物统计学；生物测定学；寿命统计
+      - `biostatistics`

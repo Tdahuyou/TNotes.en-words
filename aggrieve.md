@@ -1,0 +1,17 @@
+- aggrieve
+  - 发音
+    - 英 `/ə'griːv/`
+    - 美 `/ə'griv/`
+  - 词义
+    - v. 使委屈；使苦恼；侵害
+    - `to grieve; distress; afflict `
+  - 记忆
+    - ag + griev (看作grav， 重的) + e → 重负让他很苦恼 → 使苦恼
+  - 近义词
+    - vt. 使悲痛；冒犯；侵害…的合法权利
+      - `distress`
+      - `give offense`
+  - 例句
+    - `it aggrieved her much that she could not go`
+      - 
+

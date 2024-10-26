@@ -1,0 +1,20 @@
+- condole
+  - 发音
+    - 英 `/kən'doul/`
+    - 美 `/kən'dəul/`
+  - 词义
+    - vi. 向…吊唁；慰问
+    - `to express sympathy with someone in grief, pain, etc `
+  - 记忆
+    - con + dol(伤心) + e → 表达伤心 → 慰问
+  - 同根词
+    - adj.
+      - `condolent` 哀悼的；吊慰的
+    - n.
+      - `condolence` 哀悼；慰问
+  - 近义词
+    - vi. 慰问；吊唁；哀悼
+      - `grieve over`
+      - `mourn over`
+  - 短语
+    - `condole with` v. 向...吊慰 

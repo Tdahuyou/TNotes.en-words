@@ -1,0 +1,24 @@
+- emphasize
+  - 发音
+    - 英 `/'emfəsaɪz/`
+    - 美 `/'ɛmfəsaɪz/`
+  - 词义
+    - vt. 强调，着重
+    - `to say something in a strong way`
+  - 记忆
+    - em(表加强) + phas(说) + ize → 强调， 着重
+  - 同根词
+    - n.
+      - `emphasis` 重点；强调；加强语气
+    - vt.
+      - `emphasise` （英）强调；加强…的语气（等于emphasize ）
+  - 近义词
+    - vt. 强调，着重
+      - `stress`
+      - `highlight`
+  - 例句
+    - `The report emphasizes the importance of improving safety standards.`
+      - 报告强调了改进安全标准的重要性。
+    - `Logan made a speech emphasizing the need for more volunteers.`
+      - 罗根发表演讲，强调需要更多的志愿者。
+

@@ -1,0 +1,13 @@
+- contiguity
+  - 发音
+    - 英 `/,kɒntɪ'gjuːɪtɪ/`
+    - 美 `/,kɑntə'gjʊəti/`
+  - 词义
+    - n. 接触,接近,邻近
+  - 同根词
+    - adj.
+      - `contiguous` 连续的；邻近的；接触的
+  - 近义词
+    - n. 邻近，接触
+      - `touch`
+      - `neighbourhood`

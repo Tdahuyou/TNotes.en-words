@@ -1,0 +1,18 @@
+- descendent
+  - 发音
+    - 英 `/di'sendənt/`
+    - 美 `/di'sendənt/`
+  - 词义
+    - adj. 派生的
+  - 同根词
+    - adj.
+      - `descendant` 下降的；祖传的
+    - n.
+      - `descendant` 后裔；子孙
+  - 近义词
+    - adj. 派生的；降落的；世袭的
+      - `derived`
+      - `cadent`
+    - n. 后裔；派生物
+      - `cion`
+      - `derivative`

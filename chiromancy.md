@@ -1,0 +1,12 @@
+- chiromancy
+  - 发音
+    - 英 `/'kaɪrə(ʊ)mænsɪ/`
+    - 美 `/'kaiərəumænsi/`
+  - 词义
+    - n. 手相术
+  - 同根词
+    - n.
+      - `chiromancer` 手相家
+  - 近义词
+    - n. 手相术
+      - `palmistry`

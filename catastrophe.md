@@ -1,0 +1,24 @@
+- catastrophe
+  - 发音
+    - 英 `/kə'tæstrəfi/`
+    - 美 `/kə'tæstrəfi/`
+  - 词义
+    - n. 灾难，灾祸；困难
+    - `a terrible event in which there is a lot of destruction, suffering, or death`
+  - 记忆
+    - cat(a)(落下) + astro(星星) + phe → 星星坠落(古人观天象， 认为星星坠落预示着大难临头) → 灾难
+  - 同根词
+    - adj.
+      - `catastrophic` 灾难的；悲惨的
+  - 近义词
+    - n. 大灾难；大祸；惨败
+      - `fiasco`
+      - `smashup`
+  - 短语
+    - `catastrophe theory` [数]突变理论 
+    - `catastrophe model` 激变模型 
+    - `catastrophe risk` 巨灾风险；特殊风险 
+  - 例句
+    - `From all points of view, war would be a catastrophe.`
+      - 从各个方面来看，战争都会是一场灾难。
+

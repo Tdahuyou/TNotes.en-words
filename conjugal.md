@@ -1,0 +1,17 @@
+- conjugal
+  - 发音
+    - 英 `/'kɔndʒəgəl/`
+    - 美 `/'kɑndʒəɡl/`
+  - 词义
+    - adj. 结婚的，夫妇间的
+    - `relating to marriage`
+  - 记忆
+    - con (共同) + jug (监牢) + al → 如同处在监牢中的 → 结婚的， 夫妇间的
+  - 近义词
+    - adj. 婚姻的；结婚的；夫妻之间的
+      - `married`
+      - `marital`
+  - 例句
+    - `conjugal love`
+      - 夫妻之爱
+

@@ -1,0 +1,22 @@
+- emanate
+  - 发音
+    - 英 `/'eməneɪt/`
+    - 美 `/ˈɛməˌneɪt/`
+  - 词义
+    - v. 散发；表现，显示
+    - `to produce a smell, light etc, or to show a particular quality`
+  - 记忆
+    - e(出， 外) + man(流) + ate → 向外流 → 散发
+  - 同根词
+    - n.
+      - `emanation` 发出，散发
+  - 近义词
+    - vi. 发出；散发；发源
+      - `to send out`
+      - `give off`
+  - 短语
+    - `emanate from` v. 放射；发源于；出自 
+  - 例句
+    - `He emanates tranquility.`
+      - 他身上散发着一种恬静气质。
+

@@ -1,0 +1,20 @@
+- distension
+  - 发音
+    - 英 `/undefined/`
+    - 美 `/dɪ'stɛnʃən/`
+  - 词义
+    - n. 膨胀,延伸
+    - `Distension is abnormal swelling in a person's or animal's body`
+  - 同根词
+    - adj.
+      - `distensible` 扩大的；可扩张的；胀的
+    - n.
+      - `distention` 膨胀，扩张
+    - vi.
+      - `distend` 扩张；膨胀
+    - vt.
+      - `distend` 使…膨胀；使…扩张
+  - 近义词
+    - n. 膨胀，扩张
+      - `expansion`
+      - `inflation`

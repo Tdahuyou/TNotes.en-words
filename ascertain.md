@@ -1,0 +1,21 @@
+- ascertain
+  - 发音
+    - 英 `/ˌæsər'teɪn/`
+    - 美 `/'æsɚ'ten/`
+  - 词义
+    - vt. 弄清，查明
+    - `to find out something`
+  - 记忆
+    - as + cert(确定) + ain → 弄清， 查明
+  - 同根词
+    - adj.
+      - `ascertainable` 可查明的；可确定的
+  - 近义词
+    - vt. 确定；查明；探知
+      - `confirm`
+      - `identify`
+      - `assure oneself`
+  - 例句
+    - `A postmortem was ordered to try to ascertain the cause of death.`
+      - 下令验尸以查明死因。
+

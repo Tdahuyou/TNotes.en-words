@@ -1,0 +1,32 @@
+- constitute
+  - 发音
+    - 英 `/'kɑːnstətjuːt/`
+    - 美 `/'kɑnstətut/`
+  - 词义
+    - v. 组成；设立；制定
+    - `if several people or things constitute something, they are the parts that form it`
+  - 记忆
+    - con(共同) + stit(站立) + ute → 站在一起 → 组成； 设立
+  - 同根词
+    - adj.
+      - `constituent` 构成的；选举的
+      - `constitutive` 基本的；本质的；制定的；构成分子的
+    - n.
+      - `constitution` 宪法；体质；章程；构造
+      - `constituent` 成分；选民；委托人
+      - `constitutive` 要素
+      - `constitutionalism` 立宪；立宪主义，立宪制度
+      - `constitutionalist` 立宪主义者
+  - 近义词
+    - vt. 组成，构成；建立；任命
+      - `install`
+      - `establish`
+      - `form`
+      - `found`
+      - `build`
+  - 短语
+    - `constitute a crime` 构成犯罪；进行犯罪 
+  - 例句
+    - `We must redefine what constitutes a family.`
+      - 我们必须对家庭的构成重新定义。
+

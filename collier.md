@@ -1,0 +1,16 @@
+- collier
+  - 发音
+    - 英 `/'kɔljə/`
+    - 美 `/'kɑljɚ/`
+  - 词义
+    - n. 矿工；运煤船
+    - `someone who works in a coal mine`
+  - 记忆
+    - coll (看作coal, 煤) + ier (人) → 挖煤的人 → 矿工
+  - 同根词
+    - n.
+      - `colliery` 煤矿
+  - 近义词
+    - n. 矿工；[船]运煤船
+      - `miner`
+      - `pitman`

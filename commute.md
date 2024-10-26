@@ -1,0 +1,31 @@
+- commute
+  - 发音
+    - 英 `/kə'mjuːt/`
+    - 美 `/kə'mjʊt/`
+  - 词义
+    - v. 上下班往返，经常往返；代偿；减刑
+    - `to change the punishment given to a criminal to one that is less severe`
+  - 记忆
+    - com(=with以) + mut(改变) + e → 坐车换车 → (乘公交车)上下班往返
+  - 同根词
+    - adj.
+      - `commutative` 交换的，交替的
+      - `commutable` 可取代的；可交换的；可抵偿的
+    - n.
+      - `commuter` 通勤者，经常乘公共车辆往返者；[交] 月季票乘客
+      - `commuting` 乘公交车上下班；经常往来
+      - `commutation` 减刑；交换；经常来往；代偿
+      - `commutator` [电] 换向器；整流器
+      - `commutability` 可代替；[物] 可对易性
+    - vi.
+      - `commutate` 整流；使方向转换
+    - vt.
+      - `commutate` 整流；变换电流方向；转换
+  - 近义词
+    - vt. 减刑；[数]交换；用……交换；使……变成
+      - `exchange for`
+      - `give for`
+  - 例句
+    - `Baldry’s 20-year prison sentence was commuted to three years.`
+      - 鲍德里二十年的刑期被减至三年。
+

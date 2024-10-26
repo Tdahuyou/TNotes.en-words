@@ -1,0 +1,23 @@
+- crucial
+  - 发音
+    - 英 `/'kruːʃl/`
+    - 美 `/'krʊʃəl/`
+  - 词义
+    - adj. 至关重要的，决定性的
+    - `something that is crucial is extremely important, because everything else depends on it`
+  - 记忆
+    - cruc(十字形) + ial(形容词后缀) → 十字路口 → 决定性的
+  - 同根词
+    - adv.
+      - `crucially` 关键地；至关重要地
+  - 近义词
+    - adj. 重要的；决定性的；定局的；决断的
+      - `important`
+      - `considerable`
+      - `material`
+      - `critical`
+      - `big`
+  - 例句
+    - `The conservation of tropical forests is of crucial importance .`
+      - 保护热带雨林至关重要。
+
