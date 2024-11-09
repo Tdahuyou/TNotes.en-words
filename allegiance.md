@@ -1,21 +1,27 @@
 - allegiance
   - 发音
-    - 英 `/ə'liːdʒəns/`
-    - 美 `/ə'lidʒəns/`
+    - 英
+      - `/ə'liːdʒəns/`
+    - 美
+      - `/ə'lidʒəns/`
   - 词义
-    - n. 忠诚，效忠，拥戴
-    - `loyalty to a leader, country, belief etc`
+    - n.
+      - 忠诚，效忠，拥戴
+        - `loyalty to a leader, country, belief etc`
   - 记忆
     - al(向) + leg(法律) + iance → 朝向法律 → 忠诚， 效忠
   - 同根词
     - adj.
-      - `allegiant` 忠实的；忠心的
+      - `allegiant`
+        - 忠实的；忠心的
   - 近义词
-    - n. 效忠，忠诚；忠贞
-      - `loyalty`
-      - `devotion`
+    - n.
+      - 效忠，忠诚；忠贞
+        - `loyalty`
+        - `devotion`
   - 短语
-    - `pledge of allegiance` 效忠誓言 
+    - `pledge of allegiance`
+      - 效忠誓言 
   - 例句
     - `an oath of allegiance`
       - 效忠宣誓

@@ -1,31 +1,41 @@
 - heed
   - 发音
-    - 英 `/hiːd/`
-    - 美 `/hid/`
+    - 英
+      - `/hiːd/`
+    - 美
+      - `/hid/`
   - 词义
-    - n&v. 注意，留心
-    - `to pay attention to someone’s advice or warning`
+    - n&v.
+      - 注意，留心
+        - `to pay attention to someone’s advice or warning`
   - 记忆
     - 上课的时候， 要(need)格外留心(heed)老师讲了些什么
   - 同根词
     - adj.
-      - `heedless` 不注意的；不留心的
-      - `heedful` 注意的；深切注意的；深切留心的
+      - `heedless`
+        - 不注意的；不留心的
+      - `heedful`
+        - 注意的；深切注意的；深切留心的
     - adv.
-      - `heedfully` 深切注意地
-      - `heedlessly` 掉以轻心地；不加注意地
+      - `heedfully`
+        - 深切注意地
+      - `heedlessly`
+        - 掉以轻心地；不加注意地
     - n.
-      - `heedlessness` 不注意
+      - `heedlessness`
+        - 不注意
   - 近义词
-    - vi. 注意，留心
-      - `take care of`
-      - `mind you`
-      - `be mindful of`
-    - vt. 注意，留心
-      - `watching`
-      - `take care of`
-      - `be mindful of`
-      - `mind you`
+    - vi.
+      - 注意，留心
+        - `take care of`
+        - `mind you`
+        - `be mindful of`
+    - vt.
+      - 注意，留心
+        - `watching`
+        - `take care of`
+        - `be mindful of`
+        - `mind you`
   - 例句
     - `If she had only heeded my warnings , none of this would have happened.`
       - 要是她当初听从我的警告，这一切都不会发生。

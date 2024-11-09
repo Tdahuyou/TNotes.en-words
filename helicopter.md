@@ -1,15 +1,19 @@
 - helicopter
   - 发音
-    - 英 `/'helɪkɒptə/`
-    - 美 `/'hɛlɪkɑptɚ/`
+    - 英
+      - `/'helɪkɒptə/`
+    - 美
+      - `/'hɛlɪkɑptɚ/`
   - 词义
-    - n. 直升(飞)机,直升机
-    - `a type of aircraft with large metal blades on top which turn around very quickly to make it fly`
+    - n.
+      - 直升(飞)机,直升机
+        - `a type of aircraft with large metal blades on top which turn around very quickly to make it fly`
   - 近义词
-    - n. [航]直升飞机
-      - `copter`
-      - `whirlybird`
-      - `verticraft`
+    - n.
+      - [航]直升飞机
+        - `copter`
+        - `whirlybird`
+        - `verticraft`
   - 例句
     - `You can helicopter to the island.`
       - 你可以乘坐直升机去那个岛。

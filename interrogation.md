@@ -1,26 +1,37 @@
 - interrogation
   - 发音
-    - 英 `/ɪnˌterə'geɪʃn/`
-    - 美 `/ɪn,tɛrə'geʃən/`
+    - 英
+      - `/ɪnˌterə'geɪʃn/`
+    - 美
+      - `/ɪn,tɛrə'geʃən/`
   - 词义
-    - n. 审问，质问；疑问句
-    - `An interrogation is the act of interrogating someone`
+    - n.
+      - 审问，质问；疑问句
+        - `An interrogation is the act of interrogating someone`
   - 同根词
     - adj.
-      - `interrogative` 疑问的；质问的
-      - `interrogatory` 质问的；疑问的
+      - `interrogative`
+        - 疑问的；质问的
+      - `interrogatory`
+        - 质问的；疑问的
     - n.
-      - `interrogative` 疑问词
-      - `interrogator` 质问者；询问机
-      - `interrogatory` 质问；疑问
+      - `interrogative`
+        - 疑问词
+      - `interrogator`
+        - 质问者；询问机
+      - `interrogatory`
+        - 质问；疑问
     - vi.
-      - `interrogate` 审问；质问
+      - `interrogate`
+        - 审问；质问
     - vt.
-      - `interrogate` 审问；质问；[计] 询问
+      - `interrogate`
+        - 审问；质问；[计] 询问
   - 近义词
-    - n. 讯问；[法]审问；[语]疑问句
-      - `question`
-      - `inquest`
+    - n.
+      - 讯问；[法]审问；[语]疑问句
+        - `question`
+        - `inquest`
   - 例句
     - `...the right to silence in police interrogations.`
       - …在警察审问时保持沉默的权利。

@@ -1,19 +1,24 @@
 - fetid
   - 发音
-    - 英 `/'fetid/`
-    - 美 `/'fɛtɪd/`
+    - 英
+      - `/'fetid/`
+    - 美
+      - `/'fɛtɪd/`
   - 词义
-    - adj. 有恶臭的
-    - `having a strong bad smell`
+    - adj.
+      - 有恶臭的
+        - `having a strong bad smell`
   - 记忆
     - fet (看作fat， 肥的) + id (…的) → 农家肥散发出恶臭 → 有恶臭的
   - 同根词
     - n.
-      - `fetor` 恶臭（等于foetor）；强烈恶臭
+      - `fetor`
+        - 恶臭（等于foetor）；强烈恶臭
   - 近义词
-    - adj. 臭的；恶臭的；腐臭的
-      - `rank`
-      - `olid`
+    - adj.
+      - 臭的；恶臭的；腐臭的
+        - `rank`
+        - `olid`
   - 例句
     - `the black fetid water of the lake`
       - 又黑又臭的湖水

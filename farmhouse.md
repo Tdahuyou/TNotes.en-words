@@ -1,10 +1,13 @@
 - farmhouse
   - 发音
-    - 英 `/'fɑːmhaʊs/`
-    - 美 `/'fɑrm'haʊs/`
+    - 英
+      - `/'fɑːmhaʊs/`
+    - 美
+      - `/'fɑrm'haʊs/`
   - 词义
-    - n. 农家，[农工]农舍
-    - `the main house on a farm, where the farmer lives`
+    - n.
+      - 农家，[农工]农舍
+        - `the main house on a farm, where the farmer lives`
   - 例句
     - `The wolf littered in a deserted farmhouse.`
       - 狼在一个没人居住的农家房子产仔。

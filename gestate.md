@@ -1,20 +1,26 @@
 - gestate
   - 发音
-    - 英 `/'dʒesteit/`
-    - 美 `/'dʒɛstet/`
+    - 英
+      - `/'dʒesteit/`
+    - 美
+      - `/'dʒɛstet/`
   - 词义
-    - v. 孕育；创意
-    - `to carry (developing young) in the uterus during pregnancy `
+    - v.
+      - 孕育；创意
+        - `to carry (developing young) in the uterus during pregnancy `
   - 记忆
     - gest ( = carry， 带有) + ate → 有了 → 孕育新生命
   - 同根词
     - adj.
-      - `gestational` 妊娠期的；受孕的
+      - `gestational`
+        - 妊娠期的；受孕的
     - n.
-      - `gestation` 酝酿；怀孕；妊娠期
+      - `gestation`
+        - 酝酿；怀孕；妊娠期
   - 近义词
-    - vt. 使怀孕
-      - `impregnate`
+    - vt.
+      - 使怀孕
+        - `impregnate`
   - 例句
     - `It is certain that the natural rutile can gestate good photocatalysis activity.`
       - 研究结果表明，该天然含钒金红石孕育有良好的光催化活性。

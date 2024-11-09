@@ -1,16 +1,22 @@
 - salinity
   - 发音
-    - 英 `/səˈlɪnətɪ/`
-    - 美 `/sə'lɪnəti/`
+    - 英
+      - `/səˈlɪnətɪ/`
+    - 美
+      - `/sə'lɪnəti/`
   - 词义
-    - n. 盐分,盐度
+    - n.
+      - 盐分,盐度
   - 同根词
     - adj.
-      - `saline` 盐的；含盐分的
+      - `saline`
+        - 盐的；含盐分的
     - n.
-      - `saline` 盐湖；碱盐泻药
+      - `saline`
+        - 盐湖；碱盐泻药
   - 短语
-    - `soil salinity` 土壤盐渍度；土壤取样器 
+    - `soil salinity`
+      - 土壤盐渍度；土壤取样器 
   - 例句
     - `Each card has not only a date but the latitude and longitude, salinity measures, temperatures and depth of each data point.`
       - 每个卡片不仅记有日期，还有每个数据点的纬度和经度，盐度，温度和深度的测量。

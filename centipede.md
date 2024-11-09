@@ -1,14 +1,18 @@
 - centipede
   - 发音
-    - 英 `/'sentipiːd/`
-    - 美 `/'sɛntɪpid/`
+    - 英
+      - `/'sentipiːd/`
+    - 美
+      - `/'sɛntɪpid/`
   - 词义
-    - n. 蜈蚣
-    - `a small creature like a  worm  with a lot of very small legs`
+    - n.
+      - 蜈蚣
+        - `a small creature like a  worm  with a lot of very small legs`
   - 近义词
-    - n. [无脊椎][中医]蜈蚣
-      - `scolopendra`
-      - `chilopod`
+    - n.
+      - [无脊椎][中医]蜈蚣
+        - `scolopendra`
+        - `chilopod`
   - 例句
     - `Hold your centipede gently in your hand and examine the end of its tail.`
       - 您轻轻按住蜈蚣，在你的手和审查结束它的尾巴。

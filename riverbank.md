@@ -1,10 +1,13 @@
 - riverbank
   - 发音
-    - 英 `/'rɪvəbæŋk/`
-    - 美 `/'rɪvɚbæŋk/`
+    - 英
+      - `/'rɪvəbæŋk/`
+    - 美
+      - `/'rɪvɚbæŋk/`
   - 词义
-    - n. 河堤,河岸
-    - `A riverbank is the land along the edge of a river`
+    - n.
+      - 河堤,河岸
+        - `A riverbank is the land along the edge of a river`
   - 例句
     - `A herd of about 100 African buffalo meanders quietly along a riverbank.`
       - 一群非洲水牛，大约100只，安详地顺着河岸漫步。

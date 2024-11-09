@@ -1,10 +1,13 @@
 - watercraft
   - 发音
-    - 英 `/'wɒtəkræːft/`
-    - 美 `/'wɔtəkræft/`
+    - 英
+      - `/'wɒtəkræːft/`
+    - 美
+      - `/'wɔtəkræft/`
   - 词义
-    - n. 船只
-    - `a boat or ship or such vessels collectively `
+    - n.
+      - 船只
+        - `a boat or ship or such vessels collectively `
   - 例句
     - `Either way it seems certain that these people were using quite sophisticated technology and watercraft to fish offshore.`
       - 不管人们用的那种方法抓鱼，似乎可以肯定，那些人使用了娴熟的技术和船只。

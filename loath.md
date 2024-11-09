@@ -1,20 +1,26 @@
 - loath
   - 发音
-    - 英 `/louθ/`
-    - 美 `/loθ/`
+    - 英
+      - `/louθ/`
+    - 美
+      - `/loθ/`
   - 词义
-    - adj. 不情愿的，勉强的
-    - `If you are loath to do something, you do not want to do it`
+    - adj.
+      - 不情愿的，勉强的
+        - `If you are loath to do something, you do not want to do it`
   - 同根词
     - adj.
-      - `loathly` 讨厌的；可恶的
+      - `loathly`
+        - 讨厌的；可恶的
     - adv.
-      - `loathly` 不情愿地
+      - `loathly`
+        - 不情愿地
   - 近义词
-    - adj. 勉强的；不情愿的（等于loth）
-      - `narrow`
-      - `reluctant`
-      - `unwilling`
+    - adj.
+      - 勉强的；不情愿的（等于loth）
+        - `narrow`
+        - `reluctant`
+        - `unwilling`
   - 例句
     - `Sensing he held the advantage, Mr. Danbar was loath to change the subject.`
       - 丹巴先生觉得占有优势，不愿改变话题。

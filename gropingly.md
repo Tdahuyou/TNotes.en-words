@@ -1,17 +1,25 @@
 - gropingly
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - adv. 摸索着,暗中摸索地
+    - adv.
+      - 摸索着,暗中摸索地
   - 同根词
     - adj.
-      - `groping` 探索的；暗中摸索的
+      - `groping`
+        - 探索的；暗中摸索的
     - n.
-      - `grope` 摸索；触摸
+      - `grope`
+        - 摸索；触摸
     - v.
-      - `groping` 摸索（grope的ing形式）
+      - `groping`
+        - 摸索（grope的ing形式）
     - vi.
-      - `grope` 摸索；探索
+      - `grope`
+        - 摸索；探索
     - vt.
-      - `grope` 摸索
+      - `grope`
+        - 摸索

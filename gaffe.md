@@ -1,18 +1,22 @@
 - gaffe
   - 发音
-    - 英 `/gæf/`
-    - 美 `/ɡæf/`
+    - 英
+      - `/gæf/`
+    - 美
+      - `/ɡæf/`
   - 词义
-    - n. 失礼，失态
-    - `an embarrassing mistake made in a social situation or in public`
+    - n.
+      - 失礼，失态
+        - `an embarrassing mistake made in a social situation or in public`
   - 记忆
     - gaff(鱼叉) + e → 像用鱼叉刺人 → 失言， 失态
   - 近义词
-    - n. 失态；过失
-      - `error`
-      - `mistake`
-      - `sin`
-      - `blame`
+    - n.
+      - 失态；过失
+        - `error`
+        - `mistake`
+        - `sin`
+        - `blame`
   - 例句
     - `The consul’s comments were a major diplomatic gaffe.`
       - 领事的评论是一次重大的外交失言。

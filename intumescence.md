@@ -1,19 +1,25 @@
 - intumescence
   - 发音
-    - 英 `/,ɪntjuː'mesəns/`
-    - 美 `/,ɪntjʊ'mɛsns/`
+    - 英
+      - `/,ɪntjuː'mesəns/`
+    - 美
+      - `/,ɪntjʊ'mɛsns/`
   - 词义
-    - n. 膨胀,肿大
-    - `a swelling up, as with blood or other fluid `
+    - n.
+      - 膨胀,肿大
+        - `a swelling up, as with blood or other fluid `
   - 同根词
     - adj.
-      - `intumescent` 膨胀的；肿大的；隆起的；泡沸的
+      - `intumescent`
+        - 膨胀的；肿大的；隆起的；泡沸的
     - vi.
-      - `intumesce` 膨胀；沸腾
+      - `intumesce`
+        - 膨胀；沸腾
   - 近义词
-    - n. 膨胀；肿大
-      - `expansion`
-      - `inflation`
+    - n.
+      - 膨胀；肿大
+        - `expansion`
+        - `inflation`
   - 例句
     - `Approximate solutions were found for the rate of growth of a bubble in the process of intumescence.`
       - 得到了膨胀过程中气泡生长速率的近似解。

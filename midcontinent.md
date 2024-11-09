@@ -1,6 +1,9 @@
 - midcontinent
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 大陆中部
+    - n.
+      - 大陆中部

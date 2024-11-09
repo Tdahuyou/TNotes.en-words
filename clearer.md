@@ -1,13 +1,17 @@
 - clearer
   - 发音
-    - 英 `/'klɪərə/`
-    - 美 `/'klɪərə/`
+    - 英
+      - `/'klɪərə/`
+    - 美
+      - `/'klɪərə/`
   - 词义
-    - adj. 更清楚的
+    - adj.
+      - 更清楚的
   - 近义词
-    - n. [助剂]澄清剂；清洁器
-      - `clarifiant`
-      - `devaporizer`
+    - n.
+      - [助剂]澄清剂；清洁器
+        - `clarifiant`
+        - `devaporizer`
   - 例句
     - `It will be clearer if you delete the last paragraph.`
       - 如果你删去最后那一段，它将会更清楚。

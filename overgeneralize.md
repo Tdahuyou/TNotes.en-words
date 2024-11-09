@@ -1,6 +1,9 @@
 - overgeneralize
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - v. 太笼统地概括
+    - v.
+      - 太笼统地概括

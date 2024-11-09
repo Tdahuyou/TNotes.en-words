@@ -1,28 +1,36 @@
 - consensus
   - 发音
-    - 英 `/kən'sensəs/`
-    - 美 `/kən'sɛnsəs/`
+    - 英
+      - `/kən'sensəs/`
+    - 美
+      - `/kən'sɛnsəs/`
   - 词义
-    - n. 共识，一致同意；舆论
-    - `an opinion that everyone in a group agrees with or accepts`
+    - n.
+      - 共识，一致同意；舆论
+        - `an opinion that everyone in a group agrees with or accepts`
   - 记忆
     - con(共同) + sens(感觉) + us → 感觉相同 → 共识
   - 同根词
     - adj.
-      - `consentaneous` 同意的，一致的
+      - `consentaneous`
+        - 同意的，一致的
     - n.
-      - `consent` 同意；（意见等的）一致；赞成
+      - `consent`
+        - 同意；（意见等的）一致；赞成
     - vi.
-      - `consent` 同意；赞成；答应
+      - `consent`
+        - 同意；赞成；答应
   - 近义词
-    - n. 一致；舆论；合意
-      - `accordance`
-      - `unity`
-      - `agreement`
-      - `identity`
-      - `keeping`
+    - n.
+      - 一致；舆论；合意
+        - `accordance`
+        - `unity`
+        - `agreement`
+        - `identity`
+        - `keeping`
   - 短语
-    - `reach a consensus` 达成共识 
+    - `reach a consensus`
+      - 达成共识 
   - 例句
     - `The EU Council of Finance Ministers failed to reach a consensus on the pace of integration.`
       - 欧盟财政部长会议未能就一体化的进度达成共识。

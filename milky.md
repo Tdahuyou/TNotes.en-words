@@ -1,24 +1,34 @@
 - milky
   - 发音
-    - 英 `/'mɪlkɪ/`
-    - 美 `/'mɪlki/`
+    - 英
+      - `/'mɪlkɪ/`
+    - 美
+      - `/'mɪlki/`
   - 词义
-    - adj. 牛奶的,乳白色的
-    - `containing a lot of milk`
+    - adj.
+      - 牛奶的,乳白色的
+        - `containing a lot of milk`
   - 同根词
     - n.
-      - `milkman` 牛奶商；送奶工人；挤奶员工
-      - `milk` 牛奶；乳状物
-      - `milker` 乳牛；挤奶人；挤奶器
-      - `milkmaid` 挤奶女工；在牛奶场工作的女工
+      - `milkman`
+        - 牛奶商；送奶工人；挤奶员工
+      - `milk`
+        - 牛奶；乳状物
+      - `milker`
+        - 乳牛；挤奶人；挤奶器
+      - `milkmaid`
+        - 挤奶女工；在牛奶场工作的女工
     - vi.
-      - `milk` 挤奶
+      - `milk`
+        - 挤奶
     - vt.
-      - `milk` 榨取；挤…的奶
+      - `milk`
+        - 榨取；挤…的奶
   - 近义词
-    - adj. 乳白色的；牛奶的；乳状的；柔和的；混浊不清的
-      - `female`
-      - `delicate`
+    - adj.
+      - 乳白色的；牛奶的；乳状的；柔和的；混浊不清的
+        - `female`
+        - `delicate`
   - 例句
     - `a cup of milky coffee`
       - 一杯牛奶咖啡

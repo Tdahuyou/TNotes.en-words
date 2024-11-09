@@ -1,22 +1,30 @@
 - flirtatious
   - 发音
-    - 英 `/flɜ:rˈteɪʃəs/`
-    - 美 `/flɝ'teʃəs/`
+    - 英
+      - `/flɜ:rˈteɪʃəs/`
+    - 美
+      - `/flɝ'teʃəs/`
   - 词义
-    - adj. 爱调情的
-    - `behaving in a way that deliberately tries to attract sexual attention`
+    - adj.
+      - 爱调情的
+        - `behaving in a way that deliberately tries to attract sexual attention`
   - 同根词
     - n.
-      - `flirt` 急扔；调情的人；卖弄风骚的人
-      - `flirtation` 调情；调戏；挑逗；不认真的考虑
+      - `flirt`
+        - 急扔；调情的人；卖弄风骚的人
+      - `flirtation`
+        - 调情；调戏；挑逗；不认真的考虑
     - vi.
-      - `flirt` 调情；玩弄；轻率地对待；摆动
+      - `flirt`
+        - 调情；玩弄；轻率地对待；摆动
     - vt.
-      - `flirt` 挥动；忽然弹出
+      - `flirt`
+        - 挥动；忽然弹出
   - 近义词
-    - adj. 轻浮的；调情的；爱调戏的
-      - `featherbrained`
-      - `light-minded`
+    - adj.
+      - 轻浮的；调情的；爱调戏的
+        - `featherbrained`
+        - `light-minded`
   - 例句
     - `She gave him a flirtatious smile.`
       - 她挑逗地对他笑了一笑。

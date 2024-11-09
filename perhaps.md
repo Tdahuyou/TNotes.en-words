@@ -1,18 +1,23 @@
 - perhaps
   - 发音
-    - 英 `/pəˈhæps/`
-    - 美 `/pərˈhæps/`
+    - 英
+      - `/pəˈhæps/`
+    - 美
+      - `/pərˈhæps/`
   - 词义
-    - adv. 可能；也许
-    - `used to say that something may be true, but you are not sure`
+    - adv.
+      - 可能；也许
+        - `used to say that something may be true, but you are not sure`
   - 近义词
-    - adv. 也许；可能
-      - `maybe`
-      - `possibly`
-      - `like`
-    - n. 假定；猜想；未定之事
-      - `assumption`
-      - `presupposition`
+    - adv.
+      - 也许；可能
+        - `maybe`
+        - `possibly`
+        - `like`
+    - n.
+      - 假定；猜想；未定之事
+        - `assumption`
+        - `presupposition`
   - 例句
     - `Perhaps she’s next door.`
       - 她也许在隔壁。

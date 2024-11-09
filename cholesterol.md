@@ -1,16 +1,22 @@
 - cholesterol
   - 发音
-    - 英 `/kə'lestərɔːl/`
-    - 美 `/kə'lɛstərɔl/`
+    - 英
+      - `/kə'lestərɔːl/`
+    - 美
+      - `/kə'lɛstərɔl/`
   - 词义
-    - n. 胆固醇
-    - `a chemical substance found in your blood. Too much cholesterol in your body may cause heart disease.`
+    - n.
+      - 胆固醇
+        - `a chemical substance found in your blood. Too much cholesterol in your body may cause heart disease.`
   - 记忆
     - chole(胆， 胆汁) + ster(固体的) + ol(油) → 胆固醇
   - 短语
-    - `bad cholesterol` 有害胆固醇 
-    - `cholesterol ester` [化]胆甾醇酯 
-    - `good cholesterol` 有益胆固醇（等于high-density lipoprotein） 
+    - `bad cholesterol`
+      - 有害胆固醇 
+    - `cholesterol ester`
+      - [化]胆甾醇酯 
+    - `good cholesterol`
+      - 有益胆固醇（等于high-density lipoprotein） 
   - 例句
     - `So why would you want to lower your cholesterol?`
       - 那么为什么你想降低你的胆固醇呢？

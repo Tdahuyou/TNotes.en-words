@@ -1,16 +1,22 @@
 - irrespective
   - 发音
-    - 英 `/ɪrɪ'spektɪv/`
-    - 美 `/,ɪrɪ'spɛktɪv/`
+    - 英
+      - `/ɪrɪ'spektɪv/`
+    - 美
+      - `/,ɪrɪ'spɛktɪv/`
   - 词义
-    - adj. 无关的；不考虑的；不顾的
+    - adj.
+      - 无关的；不考虑的；不顾的
   - 近义词
-    - adj. 无关的；不考虑的；不顾的
-      - `unrelated`
-      - `unconcerned`
+    - adj.
+      - 无关的；不考虑的；不顾的
+        - `unrelated`
+        - `unconcerned`
   - 短语
-    - `irrespective of` 不论；不考虑；不顾 
-    - `irrespective of percentage` 不论损失如何全部赔偿 
+    - `irrespective of`
+      - 不论；不考虑；不顾 
+    - `irrespective of percentage`
+      - 不论损失如何全部赔偿 
   - 例句
     - `The modularity system can then match you with what you need irrespective of which module provides it.`
       - 模块化系统可以很好地匹配您的需求，而不需要考虑是哪个模块提供的。

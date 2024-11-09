@@ -1,21 +1,27 @@
 - taciturn
   - 发音
-    - 英 `/'tæsitəːn/`
-    - 美 `/'tæsɪtɝn/`
+    - 英
+      - `/'tæsitəːn/`
+    - 美
+      - `/'tæsɪtɝn/`
   - 词义
-    - adj. 沉默寡言的
-    - `speaking very little, so that you seem unfriendly`
+    - adj.
+      - 沉默寡言的
+        - `speaking very little, so that you seem unfriendly`
   - 记忆
     - tac (安静的) + iturn → 安静的， 不说话 → 沉默寡言的
   - 同根词
     - adv.
-      - `taciturnly` 沉默寡言地
+      - `taciturnly`
+        - 沉默寡言地
     - n.
-      - `taciturnity` 沉默寡言；缄默
+      - `taciturnity`
+        - 沉默寡言；缄默
   - 近义词
-    - adj. 沉默寡言的；无言的，不太说话的
-      - `uncommunicative`
-      - `incommunicative`
+    - adj.
+      - 沉默寡言的；无言的，不太说话的
+        - `uncommunicative`
+        - `incommunicative`
   - 例句
     - `He is a taciturn man who dislikes parties.`
       - 他是一个不喜欢聚会、天性沉默寡言的人。

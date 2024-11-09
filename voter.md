@@ -1,28 +1,39 @@
 - voter
   - 发音
-    - 英 `/'vəʊtə/`
-    - 美 `/'votɚ/`
+    - 英
+      - `/'vəʊtə/`
+    - 美
+      - `/'votɚ/`
   - 词义
-    - n. 投票者
-    - `someone who has the right to vote in a political election, or who votes in a particular election`
+    - n.
+      - 投票者
+        - `someone who has the right to vote in a political election, or who votes in a particular election`
   - 同根词
     - adj.
-      - `voting` 投票的
+      - `voting`
+        - 投票的
     - n.
-      - `vote` 投票，选举；选票；得票数
-      - `voting` 投票；选举
+      - `vote`
+        - 投票，选举；选票；得票数
+      - `voting`
+        - 投票；选举
     - v.
-      - `voting` 投票（vote的ing形式）；选举
+      - `voting`
+        - 投票（vote的ing形式）；选举
     - vi.
-      - `vote` 选举，投票
+      - `vote`
+        - 选举，投票
     - vt.
-      - `vote` 提议，使投票；投票决定；公认
+      - `vote`
+        - 提议，使投票；投票决定；公认
   - 近义词
-    - n. 选举人，投票人；有投票权者
-      - `elector`
-      - `chooser`
+    - n.
+      - 选举人，投票人；有投票权者
+        - `elector`
+        - `chooser`
   - 短语
-    - `voter registration` 选民登记 
+    - `voter registration`
+      - 选民登记 
   - 例句
     - `Voters overwhelmingly rejected the Far Right in the May elections.`
       - 在5月的选举中，选民普遍排斥极右政党。

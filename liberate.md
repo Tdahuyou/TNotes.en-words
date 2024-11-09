@@ -1,25 +1,33 @@
 - liberate
   - 发音
-    - 英 `/'lɪbəreɪt/`
-    - 美 `/'lɪbə'ret/`
+    - 英
+      - `/'lɪbəreɪt/`
+    - 美
+      - `/'lɪbə'ret/`
   - 词义
-    - vt. 解放；释放
-    - `to free prisoners, a city, a country etc from someone’s control`
+    - vt.
+      - 解放；释放
+        - `to free prisoners, a city, a country etc from someone’s control`
   - 记忆
     - liber(自由的) + ate(使…) → 使自由 → 解放； 释放
   - 同根词
     - adj.
-      - `liberated` 无拘束的；放纵的（尤指在社交和性关系方面）
+      - `liberated`
+        - 无拘束的；放纵的（尤指在社交和性关系方面）
     - n.
-      - `liberation` 释放，解放
-      - `liberator` 解放者；释放者
+      - `liberation`
+        - 释放，解放
+      - `liberator`
+        - 解放者；释放者
     - v.
-      - `liberated` 解放；使摆脱束缚（liberate的过去式）
+      - `liberated`
+        - 解放；使摆脱束缚（liberate的过去式）
   - 近义词
-    - vt. 解放；放出；释放
-      - `deliver`
-      - `issue`
-      - `emancipate`
+    - vt.
+      - 解放；放出；释放
+        - `deliver`
+        - `issue`
+        - `emancipate`
   - 例句
     - `A few days later, our armies liberated the city.`
       - 几天以后，我军解放了这座城市。

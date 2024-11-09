@@ -1,19 +1,24 @@
 - evict
   - 发音
-    - 英 `/i'vikt/`
-    - 美 `/ɪ'vɪkt/`
+    - 英
+      - `/i'vikt/`
+    - 美
+      - `/ɪ'vɪkt/`
   - 词义
-    - v. 驱逐
-    - `to tell someone legally that they must leave the house they are living in`
+    - v.
+      - 驱逐
+        - `to tell someone legally that they must leave the house they are living in`
   - 记忆
     - e + vict (征服) → 征服了国家， 驱逐了人民 → 驱逐
   - 同根词
     - n.
-      - `eviction` 逐出；赶出；收回
+      - `eviction`
+        - 逐出；赶出；收回
   - 近义词
-    - vt. 驱逐；逐出
-      - `cast out`
-      - `expel`
+    - vt.
+      - 驱逐；逐出
+        - `cast out`
+        - `expel`
   - 例句
     - `They were evicted from their apartment after their mother became addicted to drugs.`
       - 他们的母亲染上毒瘾后，他们就被逐出了他们的公寓。

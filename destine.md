@@ -1,22 +1,30 @@
 - destine
   - 发音
-    - 英 `/'destɪn/`
-    - 美 `/'dɛstɪn/`
+    - 英
+      - `/'destɪn/`
+    - 美
+      - `/'dɛstɪn/`
   - 词义
-    - v. 注定,预定
+    - v.
+      - 注定,预定
   - 同根词
     - adj.
-      - `destined` 注定的；命定的；去往…的
+      - `destined`
+        - 注定的；命定的；去往…的
     - n.
-      - `destination` 目的地，终点
-      - `destiny` 命运，定数，天命
+      - `destination`
+        - 目的地，终点
+      - `destiny`
+        - 命运，定数，天命
     - v.
-      - `destined` 注定（destine的过去式和过去分词）
+      - `destined`
+        - 注定（destine的过去式和过去分词）
   - 近义词
-    - vt. 注定；命定；预定
-      - `fate`
-      - `engage`
-      - `budget`
+    - vt.
+      - 注定；命定；预定
+        - `fate`
+        - `engage`
+        - `budget`
   - 例句
     - `Over these three years, miss her, read her person, what is he an eldest brother?But his love, destine and leave sorry!`
       - 这三年以来，想她，念她的人，何止他大哥一个？可是他的爱，注定是要留下遗憾的！

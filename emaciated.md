@@ -1,21 +1,28 @@
 - emaciated
   - 发音
-    - 英 `/i'meiʃieitid/`
-    - 美 `/ɪ'meʃɪ'etɪd/`
+    - 英
+      - `/i'meiʃieitid/`
+    - 美
+      - `/ɪ'meʃɪ'etɪd/`
   - 词义
-    - adj. 瘦弱的；衰弱的
-    - `extremely thin from lack of food or illness`
+    - adj.
+      - 瘦弱的；衰弱的
+        - `extremely thin from lack of food or illness`
   - 同根词
     - n.
-      - `emaciation` 消瘦，瘦弱；憔悴
+      - `emaciation`
+        - 消瘦，瘦弱；憔悴
     - vi.
-      - `emaciate` 消瘦下去
+      - `emaciate`
+        - 消瘦下去
     - vt.
-      - `emaciate` 使消瘦；使衰弱；使贫瘠
+      - `emaciate`
+        - 使消瘦；使衰弱；使贫瘠
   - 近义词
-    - adj. 瘦弱的；憔悴的
-      - `weedy`
-      - `scraggy`
+    - adj.
+      - 瘦弱的；憔悴的
+        - `weedy`
+        - `scraggy`
   - 例句
     - `The prisoners were ill and emaciated.`
       - 囚犯们疾病缠身，骨瘦如柴。

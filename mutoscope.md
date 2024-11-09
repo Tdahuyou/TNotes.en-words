@@ -1,6 +1,9 @@
 - mutoscope
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. (早期的)电影放映机
+    - n.
+      - (早期的)电影放映机

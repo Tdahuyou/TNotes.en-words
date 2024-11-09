@@ -1,21 +1,27 @@
 - constituency
   - 发音
-    - 英 `/kən'stɪtjʊənsɪ/`
-    - 美 `/kənˈstɪtʃʊənsɪ/`
+    - 英
+      - `/kən'stɪtjʊənsɪ/`
+    - 美
+      - `/kənˈstɪtʃʊənsɪ/`
   - 词义
-    - n. (选区的)选民,支持者
-    - `an area of a country that elects a representative to a parliament`
+    - n.
+      - (选区的)选民,支持者
+        - `an area of a country that elects a representative to a parliament`
   - 同根词
     - adj.
-      - `constituent` 构成的；选举的
+      - `constituent`
+        - 构成的；选举的
     - n.
-      - `constituent` 成分；选民；委托人
+      - `constituent`
+        - 成分；选民；委托人
   - 近义词
-    - n. （选区的）选民；支持者；（一批）顾客
-      - `customer`
-      - `client`
-      - `guest`
-      - `advocate`
+    - n.
+      - （选区的）选民；支持者；（一批）顾客
+        - `customer`
+        - `client`
+        - `guest`
+        - `advocate`
   - 例句
     - `a rural constituency`
       - 一个乡村选区

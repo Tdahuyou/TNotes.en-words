@@ -1,23 +1,31 @@
 - retaliation
   - 发音
-    - 英 `/rɪˌtæli'eɪʃn/`
-    - 美 `/ri,tæli'eiʃən/`
+    - 英
+      - `/rɪˌtæli'eɪʃn/`
+    - 美
+      - `/ri,tæli'eiʃən/`
   - 词义
-    - n. 报复
-    - `action against someone who has done something bad to you`
+    - n.
+      - 报复
+        - `action against someone who has done something bad to you`
   - 同根词
     - adj.
-      - `retaliatory` 报复的
+      - `retaliatory`
+        - 报复的
     - vi.
-      - `retaliate` 报复；回敬
+      - `retaliate`
+        - 报复；回敬
     - vt.
-      - `retaliate` 报复
+      - `retaliate`
+        - 报复
   - 近义词
-    - n. 报复；反击；回敬
-      - `revenge`
-      - `reprisal`
+    - n.
+      - 报复；反击；回敬
+        - `revenge`
+        - `reprisal`
   - 短语
-    - `massive retaliation` 大规模报复 
+    - `massive retaliation`
+      - 大规模报复 
   - 例句
     - `Industry rivalry and the threat of retaliation.`
       - 同行业竞争和报复的威胁。

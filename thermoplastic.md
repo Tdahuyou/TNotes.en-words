@@ -1,13 +1,19 @@
 - thermoplastic
   - 发音
-    - 英 `/θɜːməʊ'plæstɪk/`
-    - 美 `/,θɝmo'plæstɪk/`
+    - 英
+      - `/θɜːməʊ'plæstɪk/`
+    - 美
+      - `/,θɝmo'plæstɪk/`
   - 词义
-    - adj. 热塑性的
+    - adj.
+      - 热塑性的
   - 短语
-    - `thermoplastic resin` 热塑性树脂 
-    - `thermoplastic material` 热塑材料 
-    - `thermoplastic plastics` 热塑性塑料 
+    - `thermoplastic resin`
+      - 热塑性树脂 
+    - `thermoplastic material`
+      - 热塑材料 
+    - `thermoplastic plastics`
+      - 热塑性塑料 
   - 例句
     - `There's a skeleton made of thermoplastic polymer, actuators that correspond to each muscle and kiteline as tendons.`
       - 他们研制的新型机器人的“骨骼”是由热塑性聚合物和促动器构成的，响应每一块肌肉和类似筋腱的线路的运动。

@@ -1,16 +1,21 @@
 - fivefold
   - 发音
-    - 英 `/'faɪvfəʊld/`
-    - 美 `/'faɪvfold/`
+    - 英
+      - `/'faɪvfəʊld/`
+    - 美
+      - `/'faɪvfold/`
   - 词义
-    - adv. 五倍地；五重地
-    - `by or up to five times as many or as much `
-    - adj. 五倍的；五重的
-    - `equal to or having five times as many or as much `
+    - adv.
+      - 五倍地；五重地
+        - `by or up to five times as many or as much `
+    - adj.
+      - 五倍的；五重的
+        - `equal to or having five times as many or as much `
   - 近义词
-    - adj. 五倍的；五重的
-      - `pentaploid`
-      - `quintuplicate`
+    - adj.
+      - 五倍的；五重的
+        - `pentaploid`
+        - `quintuplicate`
   - 例句
     - `The number of very hot days is forecast to increase fivefold by 2100.`
       - 据预测，到2100年，极热天气的数量将增加五倍。

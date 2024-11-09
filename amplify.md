@@ -1,26 +1,35 @@
 - amplify
   - 发音
-    - 英 `/'æmplɪfaɪ/`
-    - 美 `/'æmplɪfaɪ/`
+    - 英
+      - `/'æmplɪfaɪ/`
+    - 美
+      - `/'æmplɪfaɪ/`
   - 词义
-    - vt. 放大；增强；详述，充实
-    - `to make sound louder, especially musical sound`
+    - vt.
+      - 放大；增强；详述，充实
+        - `to make sound louder, especially musical sound`
   - 记忆
     - ampl(大的) + ify(使…) → 放大； 增强
   - 同根词
     - adv.
-      - `amply` 充足地；广大地
+      - `amply`
+        - 充足地；广大地
     - n.
-      - `amplifier` [电子] 放大器，扩大器；扩音器
-      - `amplification` [电子] 放大（率）；扩大；详述
-      - `ampleness` 富裕；广大
+      - `amplifier`
+        - [电子] 放大器，扩大器；扩音器
+      - `amplification`
+        - [电子] 放大（率）；扩大；详述
+      - `ampleness`
+        - 富裕；广大
   - 近义词
-    - vt. 放大，扩大；增强；详述
-      - `extend`
-      - `zoom up`
-    - vi. 详述
-      - `expand on`
-      - `enlarge on`
+    - vt.
+      - 放大，扩大；增强；详述
+        - `extend`
+        - `zoom up`
+    - vi.
+      - 详述
+        - `expand on`
+        - `enlarge on`
   - 例句
     - `an amplified guitar`
       - 带有扩音设备的电吉他

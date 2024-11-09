@@ -1,19 +1,26 @@
 - rhombus
   - 发音
-    - 英 `/'rɔmbəs/`
-    - 美 `/'rɑmbəs/`
+    - 英
+      - `/'rɔmbəs/`
+    - 美
+      - `/'rɑmbəs/`
   - 词义
-    - n. 菱形
-    - `a shape with four equal straight sides, especially one that is not a square`
+    - n.
+      - 菱形
+        - `a shape with four equal straight sides, especially one that is not a square`
   - 同根词
     - adj.
-      - `rhombohedral` 菱形的，[数] 斜方六面体的
-      - `rhombic` 菱形的；斜方形的；正交的
-      - `rhomboidal` 长斜方形的；偏菱形的
+      - `rhombohedral`
+        - 菱形的，[数] 斜方六面体的
+      - `rhombic`
+        - 菱形的；斜方形的；正交的
+      - `rhomboidal`
+        - 长斜方形的；偏菱形的
   - 近义词
-    - n. [数]菱形；斜方形
-      - `lozenge`
-      - `diamond shape`
+    - n.
+      - [数]菱形；斜方形
+        - `lozenge`
+        - `diamond shape`
   - 例句
     - `There is a small network of rhombus in tokyo astronomical observatory .`
       - 在东京天文台有一个小的菱形台网。

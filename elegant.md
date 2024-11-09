@@ -1,25 +1,34 @@
 - elegant
   - 发音
-    - 英 `/'elɪgənt/`
-    - 美 `/'ɛləgənt/`
+    - 英
+      - `/'elɪgənt/`
+    - 美
+      - `/'ɛləgənt/`
   - 词义
-    - adj. 优美的，高雅的；雅致的，精美的；简练的，简洁的
-    - `beautiful, attractive, or graceful`
+    - adj.
+      - 优美的，高雅的；雅致的，精美的；简练的，简洁的
+        - `beautiful, attractive, or graceful`
   - 记忆
     - e(出) + leg(选择) + ant(形容词后缀) → 精心选出来的 → 优美的， 高雅的
   - 同根词
     - adv.
-      - `elegantly` 优美地
+      - `elegantly`
+        - 优美地
     - n.
-      - `elegance` 典雅；高雅
+      - `elegance`
+        - 典雅；高雅
   - 近义词
-    - adj. 高雅的，优雅的；讲究的
-      - `graceful`
-      - `exquisite`
+    - adj.
+      - 高雅的，优雅的；讲究的
+        - `graceful`
+        - `exquisite`
   - 短语
-    - `elegant appearance` 美观大方 
-    - `elegant demeanour` 风采 
-    - `elegant shape` 式样优雅 
+    - `elegant appearance`
+      - 美观大方 
+    - `elegant demeanour`
+      - 风采 
+    - `elegant shape`
+      - 式样优雅 
   - 例句
     - `a tall, elegant young woman`
       - 身材高挑、举止优雅的年轻女子

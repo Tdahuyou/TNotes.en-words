@@ -1,23 +1,29 @@
 - intricate
   - 发音
-    - 英 `/'ɪntrɪkət/`
-    - 美 `/ˈɪntrəkət/`
+    - 英
+      - `/'ɪntrɪkət/`
+    - 美
+      - `/ˈɪntrəkət/`
   - 词义
-    - adj. 错综复杂的
-    - `containing many small parts or details that all work or fit together`
+    - adj.
+      - 错综复杂的
+        - `containing many small parts or details that all work or fit together`
   - 记忆
     - in(在…里面) + tric(小障碍物) + ate → 里面有小障碍物的 → 错综复杂的
   - 同根词
     - adv.
-      - `intricately` 杂乱地
+      - `intricately`
+        - 杂乱地
     - n.
-      - `intricacy` 错综，复杂；难以理解
+      - `intricacy`
+        - 错综，复杂；难以理解
   - 近义词
-    - adj. 复杂的；错综的，缠结的
-      - `complicated`
-      - `sophisticated`
-      - `involved`
-      - `detailed`
+    - adj.
+      - 复杂的；错综的，缠结的
+        - `complicated`
+        - `sophisticated`
+        - `involved`
+        - `detailed`
   - 例句
     - `intricate patterns`
       - 繁复的图案

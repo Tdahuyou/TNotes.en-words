@@ -1,21 +1,29 @@
 - pumpkin
   - 发音
-    - 英 `/'pʌm(p)kɪn/`
-    - 美 `/'pʌmpkɪn/`
+    - 英
+      - `/'pʌm(p)kɪn/`
+    - 美
+      - `/'pʌmpkɪn/`
   - 词义
-    - n. 南瓜
-    - `a very large orange fruit that grows on the ground, or the inside of this fruit`
+    - n.
+      - 南瓜
+        - `a very large orange fruit that grows on the ground, or the inside of this fruit`
   - 同根词
     - n.
-      - `pumpkinseed` 瓜仁太阳鱼；南瓜籽
+      - `pumpkinseed`
+        - 瓜仁太阳鱼；南瓜籽
   - 近义词
-    - n. 南瓜
-      - `punkin`
-      - `musky ground`
+    - n.
+      - 南瓜
+        - `punkin`
+        - `musky ground`
   - 短语
-    - `pumpkin pie` 南瓜（馅）饼，番瓜饼；南瓜派 
-    - `pumpkin seed` 南瓜子；西葫芦子 
-    - `pumpkin soup` 南瓜汤 
+    - `pumpkin pie`
+      - 南瓜（馅）饼，番瓜饼；南瓜派 
+    - `pumpkin seed`
+      - 南瓜子；西葫芦子 
+    - `pumpkin soup`
+      - 南瓜汤 
   - 例句
     - `pumpkin pie`
       - 南瓜饼

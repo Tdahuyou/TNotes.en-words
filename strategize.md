@@ -1,6 +1,9 @@
 - strategize
   - 发音
-    - 英 `/'strætidʒaiz/`
-    - 美 `/undefined/`
+    - 英
+      - `/'strætidʒaiz/`
+    - 美
+      - `/undefined/`
   - 词义
-    - v. 制订战略；制订行动计划
+    - v.
+      - 制订战略；制订行动计划

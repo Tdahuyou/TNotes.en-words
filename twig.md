@@ -1,28 +1,36 @@
 - twig
   - 发音
-    - 英 `/twɪg/`
-    - 美 `/twɪɡ/`
+    - 英
+      - `/twɪg/`
+    - 美
+      - `/twɪɡ/`
   - 词义
-    - n. 嫩枝，小枝
-    - `a small very thin stem of wood that grows from a branch on a tree`
+    - n.
+      - 嫩枝，小枝
+        - `a small very thin stem of wood that grows from a branch on a tree`
   - 同根词
     - adj.
-      - `twiggy` 多细枝的；苗条的；小枝繁茂的
+      - `twiggy`
+        - 多细枝的；苗条的；小枝繁茂的
   - 近义词
-    - vi. 理解
-      - `cotton on`
-      - `get at`
-    - vt. 理解
-      - `see`
-      - `absorb`
-      - `read`
-      - `seize`
-      - `cotton on`
-    - n. 小枝；嫩枝；末梢
-      - `shoots`
-      - `ramulus`
+    - vi.
+      - 理解
+        - `cotton on`
+        - `get at`
+    - vt.
+      - 理解
+        - `see`
+        - `absorb`
+        - `read`
+        - `seize`
+        - `cotton on`
+    - n.
+      - 小枝；嫩枝；末梢
+        - `shoots`
+        - `ramulus`
   - 短语
-    - `cassia twig` 桂枝 
+    - `cassia twig`
+      - 桂枝 
   - 例句
     - `There is the bird, sitting on a twig halfway up the tree.`
       - 鸟儿在那里，栖息在树中段的一根细枝上。

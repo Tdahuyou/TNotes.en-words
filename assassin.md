@@ -1,22 +1,29 @@
 - assassin
   - 发音
-    - 英 `/ə'sæsin/`
-    - 美 `/ə'sæsn/`
+    - 英
+      - `/ə'sæsin/`
+    - 美
+      - `/ə'sæsn/`
   - 词义
-    - n. 暗杀者；刺客
-    - `someone who murders an important person`
+    - n.
+      - 暗杀者；刺客
+        - `someone who murders an important person`
   - 记忆
     - ass (驴) + as + sin (罪过) → 暗地卸磨杀驴的人 → 暗杀者
   - 同根词
     - n.
-      - `assassination` 暗杀，行刺
-      - `assassinator` 刺客；暗杀者
+      - `assassination`
+        - 暗杀，行刺
+      - `assassinator`
+        - 刺客；暗杀者
     - vt.
-      - `assassinate` 暗杀；行刺
+      - `assassinate`
+        - 暗杀；行刺
   - 近义词
-    - n. 刺客，暗杀者
-      - `stabber`
-      - `triggerman`
+    - n.
+      - 刺客，暗杀者
+        - `stabber`
+        - `triggerman`
   - 例句
     - `Kennedy’s assassin is assumed to have been Lee Harvey Oswald.`
       - 暗杀肯尼迪的人据说是李·哈维·奥斯瓦尔德。

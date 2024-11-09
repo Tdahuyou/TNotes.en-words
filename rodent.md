@@ -1,22 +1,29 @@
 - rodent
   - 发音
-    - 英 `/'roudnt/`
-    - 美 `/'rodnt/`
+    - 英
+      - `/'roudnt/`
+    - 美
+      - `/'rodnt/`
   - 词义
-    - adj. 啮齿目的；咬的
-    - n. 啮齿目动物
-    - `any small animal of the type that has long sharp front teeth, such as a rat or a rabbit`
+    - adj.
+      - 啮齿目的；咬的
+    - n.
+      - 啮齿目动物
+        - `any small animal of the type that has long sharp front teeth, such as a rat or a rabbit`
   - 记忆
     - rod(咬) + ent → 喜欢用牙咬的动物 → 啮齿目动物
   - 同根词
     - n.
-      - `rodentia` 啮齿目；啮齿类
+      - `rodentia`
+        - 啮齿目；啮齿类
   - 近义词
-    - adj. [脊椎]啮齿类的；咬的，嚼的；侵蚀性的
-      - `corrosive`
-      - `erosive`
-    - n. [脊椎]啮齿动物
-      - `gnawer`
+    - adj.
+      - [脊椎]啮齿类的；咬的，嚼的；侵蚀性的
+        - `corrosive`
+        - `erosive`
+    - n.
+      - [脊椎]啮齿动物
+        - `gnawer`
   - 例句
     - `A mouse is a small creature from the rodent family.`
       - 鼠标是一个很小的动物，从啮齿动物的家庭。

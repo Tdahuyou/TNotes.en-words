@@ -1,34 +1,50 @@
 - execute
   - 发音
-    - 英 `/'eksɪkjuːt/`
-    - 美 `/'ɛksɪkjut/`
+    - 英
+      - `/'eksɪkjuːt/`
+    - 美
+      - `/'ɛksɪkjut/`
   - 词义
-    - vt. 执行，履行，实施；将…处死，处决；完成
-    - `to kill someone, especially legally as a punishment`
+    - vt.
+      - 执行，履行，实施；将…处死，处决；完成
+        - `to kill someone, especially legally as a punishment`
   - 记忆
     - ex(表加强) + ecut(追踪) + e → 加强追踪 → 执行
   - 同根词
     - adj.
-      - `executive` 行政的；经营的；执行的，经营管理的
-      - `executed` 已执行的；已生效的
-      - `executable` 可执行的；可实行的
-      - `executory` 实施中的，未生效的
-      - `executorial` 遗嘱执行人的
+      - `executive`
+        - 行政的；经营的；执行的，经营管理的
+      - `executed`
+        - 已执行的；已生效的
+      - `executable`
+        - 可执行的；可实行的
+      - `executory`
+        - 实施中的，未生效的
+      - `executorial`
+        - 遗嘱执行人的
     - n.
-      - `executive` 经理；执行委员会；执行者；经理主管人员
-      - `execution` 执行，实行；完成；死刑
-      - `executor` 执行者；[法] 遗嘱执行人
-      - `executioner` 刽子手，死刑执行人
-      - `executant` 执行者；演奏者；实行者
+      - `executive`
+        - 经理；执行委员会；执行者；经理主管人员
+      - `execution`
+        - 执行，实行；完成；死刑
+      - `executor`
+        - 执行者；[法] 遗嘱执行人
+      - `executioner`
+        - 刽子手，死刑执行人
+      - `executant`
+        - 执行者；演奏者；实行者
     - v.
-      - `executed` 履行（execute的过去分词）
+      - `executed`
+        - 履行（execute的过去分词）
   - 近义词
-    - vt. 实行；执行；处死
-      - `perform`
-      - `implement`
-      - `enforce`
+    - vt.
+      - 实行；执行；处死
+        - `perform`
+        - `implement`
+        - `enforce`
   - 短语
-    - `execute plan` 执行计划 
+    - `execute plan`
+      - 执行计划 
   - 例句
     - `13 people were summarily executed (= killed without any trial or legal process ) by the guerrillas.`
       - 有13人被游击队员就地处决。

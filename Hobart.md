@@ -1,7 +1,9 @@
 - Hobart
   - 发音
-    - 英 `/'həuba:t/`
-    - 美 `/'həuba:t/`
+    - 英
+      - `/'həuba:t/`
+    - 美
+      - `/'həuba:t/`
   - 词义
   - 例句
     - `Hobart Town, by degrees, grew to be a fine city, with handsome buildings and well kept streets.`

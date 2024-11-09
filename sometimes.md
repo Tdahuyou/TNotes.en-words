@@ -1,16 +1,20 @@
 - sometimes
   - 发音
-    - 英 `/'sʌmtaɪmz/`
-    - 美 `/'sʌmtaɪmz/`
+    - 英
+      - `/'sʌmtaɪmz/`
+    - 美
+      - `/'sʌmtaɪmz/`
   - 词义
-    - adv. 有时候；不时
-    - `on some occasions but not always`
+    - adv.
+      - 有时候；不时
+        - `on some occasions but not always`
   - 记忆
     - some(一些)+times(时期)→有时
   - 近义词
-    - adv. 有时，间或
-      - `occasionally`
-      - `betweentimes`
+    - adv.
+      - 有时，间或
+        - `occasionally`
+        - `betweentimes`
   - 例句
     - `I sometimes have to work late.`
       - 我有时得工作到很晚。

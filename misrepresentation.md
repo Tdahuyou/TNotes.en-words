@@ -1,17 +1,23 @@
 - misrepresentation
   - 发音
-    - 英 `/ˌmɪsˌreprɪzen'teɪʃn/`
-    - 美 `/,mɪsrɛprɪzɛn'teʃən/`
+    - 英
+      - `/ˌmɪsˌreprɪzen'teɪʃn/`
+    - 美
+      - `/,mɪsrɛprɪzɛn'teʃən/`
   - 词义
-    - n. 误传，不实的陈述
+    - n.
+      - 误传，不实的陈述
   - 记忆
     - mis(错的) + represent(表达) + ation → 错误的表达 → 误传
   - 同根词
     - vi.
-      - `misrepresent` 虚伪陈述；歪曲报道
+      - `misrepresent`
+        - 虚伪陈述；歪曲报道
     - vt.
-      - `misrepresent` 歪曲，误传；不合适地代表
+      - `misrepresent`
+        - 歪曲，误传；不合适地代表
   - 近义词
-    - n. 歪曲；误传
-      - `violence`
-      - `falsification`
+    - n.
+      - 歪曲；误传
+        - `violence`
+        - `falsification`

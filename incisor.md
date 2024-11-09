@@ -1,20 +1,28 @@
 - incisor
   - 发音
-    - 英 `/ɪn'saɪzə/`
-    - 美 `/ɪn'saɪzɚ/`
+    - 英
+      - `/ɪn'saɪzə/`
+    - 美
+      - `/ɪn'saɪzɚ/`
   - 词义
-    - n. 门牙
-    - `one of the eight flat teeth at the front of your mouth`
+    - n.
+      - 门牙
+        - `one of the eight flat teeth at the front of your mouth`
   - 同根词
     - adj.
-      - `incised` 雕刻的；切入的；有锯齿状边缘的
+      - `incised`
+        - 雕刻的；切入的；有锯齿状边缘的
     - n.
-      - `incision` 切口；雕刻，切割；切开
-      - `incisure` 切迹
+      - `incision`
+        - 切口；雕刻，切割；切开
+      - `incisure`
+        - 切迹
     - v.
-      - `incised` 雕刻（incise的过去分词）；切入
+      - `incised`
+        - 雕刻（incise的过去分词）；切入
     - vt.
-      - `incise` 切；切割；雕刻
+      - `incise`
+        - 切；切割；雕刻
   - 例句
     - `Hirst said the tooth, believed to be a child's incisor, may have come from incidents he had at school.`
       - 赫斯特说，据信是儿童门牙的这个牙齿，可能来自于他在学校念书时所发生的一些事。

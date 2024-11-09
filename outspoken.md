@@ -1,20 +1,26 @@
 - outspoken
   - 发音
-    - 英 `/aut'spoukən/`
-    - 美 `/aʊt'spokən/`
+    - 英
+      - `/aut'spoukən/`
+    - 美
+      - `/aʊt'spokən/`
   - 词义
-    - adj. 直言不讳的，坦率的
-    - `expressing your opinions honestly and directly, even when doing this might annoy some people`
+    - adj.
+      - 直言不讳的，坦率的
+        - `expressing your opinions honestly and directly, even when doing this might annoy some people`
   - 同根词
     - adv.
-      - `outspokenly` 坦率表示地；直言不讳地（outspoken的副词形式）
+      - `outspokenly`
+        - 坦率表示地；直言不讳地（outspoken的副词形式）
     - n.
-      - `outspokenness` 坦白；直言相告
+      - `outspokenness`
+        - 坦白；直言相告
   - 近义词
-    - adj. 坦率的，直言不讳的
-      - `honest`
-      - `transparent`
-      - `open`
+    - adj.
+      - 坦率的，直言不讳的
+        - `honest`
+        - `transparent`
+        - `open`
   - 例句
     - `an outspoken critic of the education reforms`
       - 对教育改革直言不讳的批评者

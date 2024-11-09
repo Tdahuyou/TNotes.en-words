@@ -1,18 +1,24 @@
 - idyllic
   - 发音
-    - 英 `/aɪ'dɪlɪk/`
-    - 美 `/aɪ'dɪlɪk/`
+    - 英
+      - `/aɪ'dɪlɪk/`
+    - 美
+      - `/aɪ'dɪlɪk/`
   - 词义
-    - adj. 田园诗般的，田园风光的，牧歌的
+    - adj.
+      - 田园诗般的，田园风光的，牧歌的
   - 记忆
     - 来自idyll(n. 田园诗)
   - 同根词
     - n.
-      - `idyll` 田园诗；牧歌；田园生活
-      - `idyl` 田园诗；叙事诗；牧歌
+      - `idyll`
+        - 田园诗；牧歌；田园生活
+      - `idyl`
+        - 田园诗；叙事诗；牧歌
   - 近义词
-    - adj. 牧歌的，田园诗的
-      - `bucolic`
+    - adj.
+      - 牧歌的，田园诗的
+        - `bucolic`
   - 例句
     - `This idyllic pastoral scene is only part of the picture.`
       - 但这种田园诗般的乡村风光仅仅是一个侧面。

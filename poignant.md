@@ -1,20 +1,26 @@
 - poignant
   - 发音
-    - 英 `/'pɔinjənt/`
-    - 美 `/'pɔɪnjənt/`
+    - 英
+      - `/'pɔinjənt/`
+    - 美
+      - `/'pɔɪnjənt/`
   - 词义
-    - adj. 强烈的；尖刻的
+    - adj.
+      - 强烈的；尖刻的
   - 记忆
     - poign (刺) + ant → 说话带刺的 → 尖刻的
   - 同根词
     - adv.
-      - `poignantly` 深刻地；辛辣地；令人辛酸地
+      - `poignantly`
+        - 深刻地；辛辣地；令人辛酸地
     - n.
-      - `poignancy` 辛辣；强烈；尖锐；辛酸事
+      - `poignancy`
+        - 辛辣；强烈；尖锐；辛酸事
   - 近义词
-    - adj. 尖锐的；辛酸的；深刻的；切中要害的
-      - `sharpened`
-      - `acerb`
+    - adj.
+      - 尖锐的；辛酸的；深刻的；切中要害的
+        - `sharpened`
+        - `acerb`
   - 例句
     - `Rather than pandering to younger readers, she poured out a poignant tale with the most beautiful language.`
       - 作者没有刻意迎合年轻读者，而是用最美的笔触纵情描绘出寓意深刻的故事。

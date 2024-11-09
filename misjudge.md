@@ -1,10 +1,13 @@
 - misjudge
   - 发音
-    - 英 `/ˌmɪs'dʒʌdʒ/`
-    - 美 `/,mɪs'dʒʌdʒ/`
+    - 英
+      - `/ˌmɪs'dʒʌdʒ/`
+    - 美
+      - `/,mɪs'dʒʌdʒ/`
   - 词义
-    - vt. 判断错误
-    - `to form a wrong or unfair opinion about a person or a situation`
+    - vt.
+      - 判断错误
+        - `to form a wrong or unfair opinion about a person or a situation`
   - 记忆
     - mis(错) + judge(判断) → 判断错误
   - 例句

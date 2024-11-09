@@ -1,17 +1,22 @@
 - lighthouse
   - 发音
-    - 英 `/'laɪthaʊs/`
-    - 美 `/'laɪthaʊs/`
+    - 英
+      - `/'laɪthaʊs/`
+    - 美
+      - `/'laɪthaʊs/`
   - 词义
-    - n. 灯塔
-    - `a tower with a powerful flashing light that guides ships away from danger`
+    - n.
+      - 灯塔
+        - `a tower with a powerful flashing light that guides ships away from danger`
   - 同根词
     - n.
-      - `lightship` 灯塔船；航路标志灯船
+      - `lightship`
+        - 灯塔船；航路标志灯船
   - 近义词
-    - n. [水运]灯塔
-      - `phare`
-      - `beacon`
+    - n.
+      - [水运]灯塔
+        - `phare`
+        - `beacon`
   - 例句
     - `Hundreds of moths flew against the lighthouse windows.`
       - 数以千计的飞蛾扑向灯塔的窗子。

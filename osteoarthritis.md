@@ -1,10 +1,13 @@
 - osteoarthritis
   - 发音
-    - 英 `/,ɒstɪəʊɑː'θraɪtɪs/`
-    - 美 `/'ɑstɪoɑr'θraɪtɪs/`
+    - 英
+      - `/,ɒstɪəʊɑː'θraɪtɪs/`
+    - 美
+      - `/'ɑstɪoɑr'θraɪtɪs/`
   - 词义
-    - n. [外科]骨关节炎
-    - `a medical condition which makes your knees and other joints stiff and painful`
+    - n.
+      - [外科]骨关节炎
+        - `a medical condition which makes your knees and other joints stiff and painful`
   - 例句
     - `Almost all of them have had some problems with cataracts, they can't hear very well and have osteoarthritis.`
       - 几乎他们中所有的人都一直存在白内障的某些问题，他们听力不好并且有骨关节炎。

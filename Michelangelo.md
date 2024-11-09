@@ -1,7 +1,9 @@
 - Michelangelo
   - 发音
-    - 英 `/ˌmaɪkəlˈændʒɪˌləʊ/`
-    - 美 `/ˌmaɪkəlˈændʒəˌlo/`
+    - 英
+      - `/ˌmaɪkəlˈændʒɪˌləʊ/`
+    - 美
+      - `/ˌmaɪkəlˈændʒəˌlo/`
   - 词义
   - 例句
     - `It took Michelangelo 4 years to paint the ceiling. He painted it while lying on his back.`

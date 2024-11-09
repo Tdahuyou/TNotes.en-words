@@ -1,23 +1,33 @@
 - plenteous
   - 发音
-    - 英 `/'plentiəs/`
-    - 美 `/undefined/`
+    - 英
+      - `/'plentiəs/`
+    - 美
+      - `/undefined/`
   - 词义
-    - adj. 许多的，丰饶的，充足的，丰富的
-    - `plentiful`
+    - adj.
+      - 许多的，丰饶的，充足的，丰富的
+        - `plentiful`
   - 同根词
     - adj.
-      - `plenty` 足够的，很多的
-      - `plentiful` 丰富的；许多的；丰饶的
+      - `plenty`
+        - 足够的，很多的
+      - `plentiful`
+        - 丰富的；许多的；丰饶的
     - adv.
-      - `plenty` 足够
-      - `plentifully` 丰富地，富裕地
+      - `plenty`
+        - 足够
+      - `plentifully`
+        - 丰富地，富裕地
     - n.
-      - `plenty` 丰富，大量；充足
-      - `plenitude` 充分；丰富；大量
+      - `plenty`
+        - 丰富，大量；充足
+      - `plenitude`
+        - 充分；丰富；大量
   - 近义词
-    - adj. 丰富的；丰饶的
-      - `abundant`
-      - `full`
-      - `ample`
-      - `luxurious`
+    - adj.
+      - 丰富的；丰饶的
+        - `abundant`
+        - `full`
+        - `ample`
+        - `luxurious`

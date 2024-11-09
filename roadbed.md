@@ -1,17 +1,22 @@
 - roadbed
   - 发音
-    - 英 `/'rəʊdbed/`
-    - 美 `/'rod,bɛd/`
+    - 英
+      - `/'rəʊdbed/`
+    - 美
+      - `/'rod,bɛd/`
   - 词义
-    - n. 路基
-    - `the material used to make a road `
+    - n.
+      - 路基
+        - `the material used to make a road `
   - 同根词
     - n.
-      - `roadway` 道路；路面；车行道；铁路的路基
+      - `roadway`
+        - 道路；路面；车行道；铁路的路基
   - 近义词
-    - n. [公路][铁路]路基；车行道
-      - `subgrade`
-      - `carriage-way`
+    - n.
+      - [公路][铁路]路基；车行道
+        - `subgrade`
+        - `carriage-way`
   - 例句
     - `The earthquake made the roadbed cave in.`
       - 地震后路基沉陷了。

@@ -1,13 +1,17 @@
 - sinusitis
   - 发音
-    - 英 `/,saɪnə'saɪtɪs/`
-    - 美 `/,saɪnə'saɪtɪs/`
+    - 英
+      - `/,saɪnə'saɪtɪs/`
+    - 美
+      - `/,saɪnə'saɪtɪs/`
   - 词义
-    - n. [口腔]窦炎
-    - `a condition in which your sinuses swell up and become painful`
+    - n.
+      - [口腔]窦炎
+        - `a condition in which your sinuses swell up and become painful`
   - 近义词
-    - n. [口腔][耳鼻喉]窦炎
-      - `antritis`
+    - n.
+      - [口腔][耳鼻喉]窦炎
+        - `antritis`
   - 例句
     - `Asthma and sinus infections, or sinusitis, can develop from colds or allergies.`
       - 感冒、过敏还会进一步发展成哮喘、鼻窦感染或者鼻窦炎。

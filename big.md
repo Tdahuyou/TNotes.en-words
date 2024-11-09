@@ -1,49 +1,76 @@
 - big
   - 发音
-    - 英 `/bɪg/`
-    - 美 `/bɪɡ/`
+    - 英
+      - `/bɪg/`
+    - 美
+      - `/bɪɡ/`
   - 词义
-    - adj. 大的
-    - `of more than average size or amount`
+    - adj.
+      - 大的
+        - `of more than average size or amount`
   - 同根词
     - adj.
-      - `bigger` 更大的（big的比较级）
+      - `bigger`
+        - 更大的（big的比较级）
     - n.
-      - `bigness` 大；重大；伟大
+      - `bigness`
+        - 大；重大；伟大
   - 近义词
-    - adj. 大的；重要的；量大的
-      - `larger`
-      - `crucial`
-      - `important`
-      - `considerable`
-      - `material`
-    - adv. 大量地；顺利；夸大地
-      - `largely`
-      - `freely`
-      - `heavy`
-      - `importantly`
-      - `tall`
+    - adj.
+      - 大的；重要的；量大的
+        - `larger`
+        - `crucial`
+        - `important`
+        - `considerable`
+        - `material`
+    - adv.
+      - 大量地；顺利；夸大地
+        - `largely`
+        - `freely`
+        - `heavy`
+        - `importantly`
+        - `tall`
   - 短语
-    - `make big` [美国俚语]飞黄腾达；成功 
-    - `big city` 大城市 
-    - `in a big way` 大规模地，彻底地 
-    - `big problem` 大问题 
-    - `big family` 大家庭 
-    - `big deal` n. 大人物；了不起的事 
-    - `how big` 多大 
-    - `big house` n. 监狱 
-    - `big with` ◎怀着…的，怀(孕)的 
-    - `big eyes` 大眼睛 
-    - `big business` 大企业；财团 
-    - `big brother` 哥哥；老大哥 
-    - `take something big` ◎勇敢地对待某事；感情冲动地对待某事 
-    - `big screen` （电影院的）大银幕 
-    - `big tree` 大树；巨杉 
-    - `talk big` v. 吹牛 
-    - `big fish` 大鱼；重要人物 
-    - `big bang` n. 宇宙大爆炸；创世大爆炸 
-    - `big mouth` 多嘴者 
-    - `big d` 大D城 
+    - `make big`
+      - [美国俚语]飞黄腾达；成功 
+    - `big city`
+      - 大城市 
+    - `in a big way`
+      - 大规模地，彻底地 
+    - `big problem`
+      - 大问题 
+    - `big family`
+      - 大家庭 
+    - `big deal`
+      - n. 大人物；了不起的事 
+    - `how big`
+      - 多大 
+    - `big house`
+      - n. 监狱 
+    - `big with`
+      - ◎怀着…的，怀(孕)的 
+    - `big eyes`
+      - 大眼睛 
+    - `big business`
+      - 大企业；财团 
+    - `big brother`
+      - 哥哥；老大哥 
+    - `take something big`
+      - ◎勇敢地对待某事；感情冲动地对待某事 
+    - `big screen`
+      - （电影院的）大银幕 
+    - `big tree`
+      - 大树；巨杉 
+    - `talk big`
+      - v. 吹牛 
+    - `big fish`
+      - 大鱼；重要人物 
+    - `big bang`
+      - n. 宇宙大爆炸；创世大爆炸 
+    - `big mouth`
+      - 多嘴者 
+    - `big d`
+      - 大D城 
   - 例句
     - `a big house`
       - 大房子

@@ -1,20 +1,26 @@
 - hallowed
   - 发音
-    - 英 `/'hæləud/`
-    - 美 `/'hælod/`
+    - 英
+      - `/'hæləud/`
+    - 美
+      - `/'hælod/`
   - 词义
-    - adj. 神圣的，奉为神圣的
-    - `holy or made holy by religious practices`
+    - adj.
+      - 神圣的，奉为神圣的
+        - `holy or made holy by religious practices`
   - 同根词
     - n.
-      - `hallow` 圣徒
+      - `hallow`
+        - 圣徒
     - vt.
-      - `hallow` 使...神圣；把…视为神圣
+      - `hallow`
+        - 使...神圣；把…视为神圣
   - 近义词
-    - adj. 神圣的，神圣化的
-      - `sacred`
-      - `divine`
-      - `blessed`
+    - adj.
+      - 神圣的，神圣化的
+        - `sacred`
+        - `divine`
+        - `blessed`
   - 例句
     - `The bones will be buried in hallowed ground.`
       - 尸骸将被安葬在神圣的土地上。

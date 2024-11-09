@@ -1,26 +1,35 @@
 - remunerative
   - 发音
-    - 英 `/rɪ'mjuːnərətɪv/`
-    - 美 `/rɪ'mjunərətɪv/`
+    - 英
+      - `/rɪ'mjuːnərətɪv/`
+    - 美
+      - `/rɪ'mjunərətɪv/`
   - 词义
-    - adj. 报酬高的，有利润的
-    - `making a lot of money`
+    - adj.
+      - 报酬高的，有利润的
+        - `making a lot of money`
   - 同根词
     - adj.
-      - `remunerated` 获得酬金的
+      - `remunerated`
+        - 获得酬金的
     - n.
-      - `remuneration` 报酬；酬劳，赔偿
-      - `remunerator` 酬劳者
+      - `remuneration`
+        - 报酬；酬劳，赔偿
+      - `remunerator`
+        - 酬劳者
     - v.
-      - `remunerated` 付给…报酬（remunerate的过去式）
+      - `remunerated`
+        - 付给…报酬（remunerate的过去式）
     - vt.
-      - `remunerate` 酬劳；给与报酬；赔偿
+      - `remunerate`
+        - 酬劳；给与报酬；赔偿
   - 近义词
-    - adj. 有利可图的；有报酬的；合算的
-      - `economical`
-      - `profitable`
-      - `paying`
-      - `lucrative`
+    - adj.
+      - 有利可图的；有报酬的；合算的
+        - `economical`
+        - `profitable`
+        - `paying`
+        - `lucrative`
   - 例句
     - `A doctor advised her to seek remunerative employment.`
       - 一个医生建议她去找有酬劳的工作。

@@ -1,16 +1,23 @@
 - polychrome
   - 发音
-    - 英 `/'pɒlɪkrəʊm/`
-    - 美 `/'pɑlɪ,krom/`
+    - 英
+      - `/'pɒlɪkrəʊm/`
+    - 美
+      - `/'pɑlɪ,krom/`
   - 词义
-    - adj. 彩饰的n多彩艺术品
-    - `having various or changing colours; polychromatic `
+    - adj.
+      - 彩饰的n多彩艺术品
+        - `having various or changing colours; polychromatic `
   - 同根词
     - adj.
-      - `polychromatic` 多色的；色彩变化的（等于polychromic）
-      - `polychromic` 彩饰的
+      - `polychromatic`
+        - 多色的；色彩变化的（等于polychromic）
+      - `polychromic`
+        - 彩饰的
     - n.
-      - `polychromic` 多彩艺术品
+      - `polychromic`
+        - 多彩艺术品
   - 近义词
-    - adj. 多彩的；多色装饰的
-      - `multicolored`
+    - adj.
+      - 多彩的；多色装饰的
+        - `multicolored`

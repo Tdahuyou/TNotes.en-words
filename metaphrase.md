@@ -1,13 +1,17 @@
 - metaphrase
   - 发音
-    - 英 `/'metəfreɪz/`
-    - 美 `/'mɛtə,frez/`
+    - 英
+      - `/'metəfreɪz/`
+    - 美
+      - `/'mɛtə,frez/`
   - 词义
-    - v. 直译
+    - v.
+      - 直译
   - 近义词
-    - n. 直译，逐字翻译
-      - `literal translation`
-      - `literality`
+    - n.
+      - 直译，逐字翻译
+        - `literal translation`
+        - `literality`
   - 例句
     - `If SNS wants to press the meaning of its metaphrase " social network serves " for, the history should be quite long.`
       - SNS假如要按它直译的意思“社会网络服务”来说，历史应该相当悠久。

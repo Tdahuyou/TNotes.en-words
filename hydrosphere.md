@@ -1,10 +1,13 @@
 - hydrosphere
   - 发音
-    - 英 `/'haɪdrəsfɪə/`
-    - 美 `/'haɪdrosfɪr/`
+    - 英
+      - `/'haɪdrəsfɪə/`
+    - 美
+      - `/'haɪdrosfɪr/`
   - 词义
-    - n. 水圈,水气
-    - `the watery part of the earth's surface, including oceans, lakes, water vapour in the atmosphere, etc `
+    - n.
+      - 水圈,水气
+        - `the watery part of the earth's surface, including oceans, lakes, water vapour in the atmosphere, etc `
   - 例句
     - `Geosphere, hydrosphere and atmosphere are fluids in motion; their main difference is their viscosity.`
       - 地圈，水圈和大气是流体；他们的主要差别是他们的黏性。

@@ -1,51 +1,79 @@
 - handle
   - 发音
-    - 英 `/'hændl/`
-    - 美 `/'hændl/`
+    - 英
+      - `/'hændl/`
+    - 美
+      - `/'hændl/`
   - 词义
-    - v. 处理；对待；操纵；触，摸
-    - `to do the things that are necessary to complete a job`
-    - n. 柄，把手，拉手
-    - `the part of a door that you use for opening it`
+    - v.
+      - 处理；对待；操纵；触，摸
+        - `to do the things that are necessary to complete a job`
+    - n.
+      - 柄，把手，拉手
+        - `the part of a door that you use for opening it`
   - 记忆
     - hand(手) + le → 方便手操作的东西 → 柄， 把手
   - 同根词
     - adj.
-      - `handling` 操作的
-      - `handled` 有把手的；有把柄的
+      - `handling`
+        - 操作的
+      - `handled`
+        - 有把手的；有把柄的
     - n.
-      - `handling` 处理
-      - `handler` 处理者；管理者；拳击教练；（犬马等的）训练者
+      - `handling`
+        - 处理
+      - `handler`
+        - 处理者；管理者；拳击教练；（犬马等的）训练者
     - v.
-      - `handling` 负责；对待（handle的ing形式）；触摸
-      - `handled` 使用；负责；触摸；指挥（handle的过去分词）
+      - `handling`
+        - 负责；对待（handle的ing形式）；触摸
+      - `handled`
+        - 使用；负责；触摸；指挥（handle的过去分词）
   - 近义词
-    - n. [建]把手；柄；手感；口实
-      - `shank`
-      - `grip`
-    - vt. 处理；操作；运用；买卖；触摸
-      - `operate`
-      - `feel`
-      - `exert`
-      - `work`
-      - `cope with`
+    - n.
+      - [建]把手；柄；手感；口实
+        - `shank`
+        - `grip`
+    - vt.
+      - 处理；操作；运用；买卖；触摸
+        - `operate`
+        - `feel`
+        - `exert`
+        - `work`
+        - `cope with`
   - 短语
-    - `handle with` 处理 
-    - `door handle` 门把手 
-    - `get a handle on` [口语]控制，掌握，驾驭，左右 
-    - `long handle` 长手柄；[板球]全力击球 
-    - `handle with care` 小心轻放；小心装卸 
-    - `handle bar` 把手；车把 
-    - `lever handle` 手柄；杠杆手柄；杆式手柄；手柄操纵杆 
-    - `metal handle` 金属拉手 
-    - `lock handle` n. 门把；带锁门把 
-    - `selection handle` 选择控点 
-    - `control handle` 控制柄；操纵手柄 
-    - `up to the handle` [美国口语]彻底地，极度地 
-    - `handle a case` 办案 
-    - `brake handle` 闸把，闸柄；制动手把 
-    - `grab handle` 扶手；握柄；车顶安全把手 
-    - `operating handle` 操作手柄；操纵杆 
+    - `handle with`
+      - 处理 
+    - `door handle`
+      - 门把手 
+    - `get a handle on`
+      - [口语]控制，掌握，驾驭，左右 
+    - `long handle`
+      - 长手柄；[板球]全力击球 
+    - `handle with care`
+      - 小心轻放；小心装卸 
+    - `handle bar`
+      - 把手；车把 
+    - `lever handle`
+      - 手柄；杠杆手柄；杆式手柄；手柄操纵杆 
+    - `metal handle`
+      - 金属拉手 
+    - `lock handle`
+      - n. 门把；带锁门把 
+    - `selection handle`
+      - 选择控点 
+    - `control handle`
+      - 控制柄；操纵手柄 
+    - `up to the handle`
+      - [美国口语]彻底地，极度地 
+    - `handle a case`
+      - 办案 
+    - `brake handle`
+      - 闸把，闸柄；制动手把 
+    - `grab handle`
+      - 扶手；握柄；车顶安全把手 
+    - `operating handle`
+      - 操作手柄；操纵杆 
   - 例句
     - `I handled most of the paperwork.`
       - 大部分文书工作是我做的。

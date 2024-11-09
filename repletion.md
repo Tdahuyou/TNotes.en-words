@@ -1,15 +1,21 @@
 - repletion
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 充满,饱满
+    - n.
+      - 充满,饱满
   - 同根词
     - adj.
-      - `replete` 充满的；装满的
+      - `replete`
+        - 充满的；装满的
     - n.
-      - `replete` [昆] 贮蜜蚁
+      - `replete`
+        - [昆] 贮蜜蚁
   - 近义词
-    - n. 充满，饱满；饱食
-      - `filled with`
-      - `fullness`
+    - n.
+      - 充满，饱满；饱食
+        - `filled with`
+        - `fullness`

@@ -1,15 +1,19 @@
 - campfire
   - 发音
-    - 英 `/'kæmpfaɪə(r)/`
-    - 美 `/'kæmpfaɪɚ/`
+    - 英
+      - `/'kæmpfaɪə(r)/`
+    - 美
+      - `/'kæmpfaɪɚ/`
   - 词义
-    - n. 营火
-    - `a fire made outdoors by people who are camping`
+    - n.
+      - 营火
+        - `a fire made outdoors by people who are camping`
   - 记忆
     - camp(露营， 宿营) + fire(火) → 营火
   - 近义词
-    - n. 营火；营火会
-      - `bonfire`
+    - n.
+      - 营火；营火会
+        - `bonfire`
   - 例句
     - `We are sitting by the campfire.`
       - 我们正坐在营火旁。

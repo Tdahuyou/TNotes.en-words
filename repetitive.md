@@ -1,36 +1,54 @@
 - repetitive
   - 发音
-    - 英 `/rɪ'petɪtɪv/`
-    - 美 `/rɪ'pɛtətɪv/`
+    - 英
+      - `/rɪ'petɪtɪv/`
+    - 美
+      - `/rɪ'pɛtətɪv/`
   - 词义
-    - adj. 重复的,反复的
-    - `done many times in the same way, and boring`
+    - adj.
+      - 重复的,反复的
+        - `done many times in the same way, and boring`
   - 同根词
     - adj.
-      - `repeated` 再三的，反复的
-      - `repeatable` 可重复的；可复验的
-      - `repetitious` 重复的；唠唠叨叨的
+      - `repeated`
+        - 再三的，反复的
+      - `repeatable`
+        - 可重复的；可复验的
+      - `repetitious`
+        - 重复的；唠唠叨叨的
     - adv.
-      - `repeatedly` 反复地；再三地；屡次地
-      - `repetitively` 重复地
+      - `repeatedly`
+        - 反复地；再三地；屡次地
+      - `repetitively`
+        - 重复地
     - n.
-      - `repeat` 重复；副本
-      - `repetition` 重复；背诵；副本
-      - `repeater` [通信] 中继器；[通信] 转发器；重复者
-      - `repetitiousness` 重复
-      - `repetitiveness` 重复
+      - `repeat`
+        - 重复；副本
+      - `repetition`
+        - 重复；背诵；副本
+      - `repeater`
+        - [通信] 中继器；[通信] 转发器；重复者
+      - `repetitiousness`
+        - 重复
+      - `repetitiveness`
+        - 重复
     - v.
-      - `repeated` 重复；复述（repeat的过去分词）
+      - `repeated`
+        - 重复；复述（repeat的过去分词）
     - vi.
-      - `repeat` 重做；重复发生
+      - `repeat`
+        - 重做；重复发生
     - vt.
-      - `repeat` 重复；复制；背诵
+      - `repeat`
+        - 重复；复制；背诵
   - 近义词
-    - adj. 重复的
-      - `reduplicative`
-      - `pleonastic`
+    - adj.
+      - 重复的
+        - `reduplicative`
+        - `pleonastic`
   - 短语
-    - `repetitive strain injury` （肢体的）重复性劳损 
+    - `repetitive strain injury`
+      - （肢体的）重复性劳损 
   - 例句
     - `The song was dreary and repetitive.`
       - 这首歌又枯燥又重复。

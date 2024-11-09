@@ -1,21 +1,28 @@
 - aurora
   - 发音
-    - 英 `/ɔː'rɔːrə/`
-    - 美 `/undefined/`
+    - 英
+      - `/ɔː'rɔːrə/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 极光
-    - `an atmospheric phenomenon consisting of bands, curtains, or streamers of light, usually green, red, or yellow, that move across the sky in polar regions`
+    - n.
+      - 极光
+        - `an atmospheric phenomenon consisting of bands, curtains, or streamers of light, usually green, red, or yellow, that move across the sky in polar regions`
   - 记忆
     - 注意和aurore(a. 朝霞色的)相区分
   - 同根词
     - adj.
-      - `auroral` 极光的；曙光的；玫瑰红的
+      - `auroral`
+        - 极光的；曙光的；玫瑰红的
   - 近义词
-    - n. [地物]极光；曙光
-      - `polar lights`
+    - n.
+      - [地物]极光；曙光
+        - `polar lights`
   - 短语
-    - `aurora borealis` 北极光 
-    - `aurora australis` 南极光 
+    - `aurora borealis`
+      - 北极光 
+    - `aurora australis`
+      - 南极光 
   - 例句
     - `The light creates the aurora that we see.`
       - 这些光亮造就了我们所看到的极光。

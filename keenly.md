@@ -1,16 +1,23 @@
 - keenly
   - 发音
-    - 英 `/'ki:nli/`
-    - 美 `/'ki:nli/`
+    - 英
+      - `/'ki:nli/`
+    - 美
+      - `/'ki:nli/`
   - 词义
-    - adv. 敏锐地,强烈地,热心地
+    - adv.
+      - 敏锐地,强烈地,热心地
   - 同根词
     - adj.
-      - `keen` 敏锐的，敏捷的；渴望的；强烈的；热心的；锐利的
+      - `keen`
+        - 敏锐的，敏捷的；渴望的；强烈的；热心的；锐利的
     - n.
-      - `keen` 痛哭，挽歌
-      - `keenness` 敏锐；锐利
+      - `keen`
+        - 痛哭，挽歌
+      - `keenness`
+        - 敏锐；锐利
   - 近义词
-    - adv. 敏锐地；强烈地；锐利地
-      - `sharply`
-      - `observantly`
+    - adv.
+      - 敏锐地；强烈地；锐利地
+        - `sharply`
+        - `observantly`

@@ -1,25 +1,35 @@
 - initially
   - 发音
-    - 英 `/ɪ'nɪʃ(ə)lɪ/`
-    - 美 `/ɪ'nɪʃəli/`
+    - 英
+      - `/ɪ'nɪʃ(ə)lɪ/`
+    - 美
+      - `/ɪ'nɪʃəli/`
   - 词义
-    - adv. 最初，首先；开头
-    - `at the beginning`
+    - adv.
+      - 最初，首先；开头
+        - `at the beginning`
   - 同根词
     - adj.
-      - `initial` 最初的；字首的
+      - `initial`
+        - 最初的；字首的
     - n.
-      - `initial` 词首大写字母
-      - `initialization` [计] 初始化；赋初值
+      - `initial`
+        - 词首大写字母
+      - `initialization`
+        - [计] 初始化；赋初值
     - vt.
-      - `initial` 用姓名的首字母签名
-      - `initialize` 初始化
-      - `initialise` （英）初始化；赋初值；预置（等于initialize）
+      - `initial`
+        - 用姓名的首字母签名
+      - `initialize`
+        - 初始化
+      - `initialise`
+        - （英）初始化；赋初值；预置（等于initialize）
   - 近义词
-    - adv. 最初，首先；开头
-      - `originally`
-      - `firstly`
-      - `primarily`
+    - adv.
+      - 最初，首先；开头
+        - `originally`
+        - `firstly`
+        - `primarily`
   - 例句
     - `Stan initially wanted to go to medical school.`
       - 斯坦最初想进医学院。

@@ -1,18 +1,27 @@
 - jeweler
   - 发音
-    - 英 `/'dʒuələ/`
-    - 美 `/'dʒuələ/`
+    - 英
+      - `/'dʒuələ/`
+    - 美
+      - `/'dʒuələ/`
   - 词义
-    - n. 珠宝商；宝石匠；钟表匠；钟表商
+    - n.
+      - 珠宝商；宝石匠；钟表匠；钟表商
   - 同根词
     - n.
-      - `jewelry` 珠宝；珠宝类
-      - `jewel` 宝石；珠宝
-      - `jewellery` 珠宝（等于jewelry）
-      - `jeweller` 珠宝商；钟表匠，宝石匠
+      - `jewelry`
+        - 珠宝；珠宝类
+      - `jewel`
+        - 宝石；珠宝
+      - `jewellery`
+        - 珠宝（等于jewelry）
+      - `jeweller`
+        - 珠宝商；钟表匠，宝石匠
     - vt.
-      - `jewel` 镶以宝石；饰以珠宝
+      - `jewel`
+        - 镶以宝石；饰以珠宝
   - 近义词
-    - n. 珠宝商；宝石匠；钟表匠；钟表商
-      - `watchmaker`
-      - `horologist`
+    - n.
+      - 珠宝商；宝石匠；钟表匠；钟表商
+        - `watchmaker`
+        - `horologist`

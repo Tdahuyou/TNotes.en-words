@@ -1,9 +1,12 @@
 - agriculturally
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - adv. 农业上
+    - adv.
+      - 农业上
   - 例句
     - `Illinois boasts convenient transportation and developed economy, and is one of the most agriculturally developed regions in the world. `
       - 伊利诺伊州交通便利、经济发达，是世界上农业最发达的地区之一；

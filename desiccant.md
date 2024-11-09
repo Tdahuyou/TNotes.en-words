@@ -1,30 +1,40 @@
 - desiccant
   - 发音
-    - 英 `/'desikənt/`
-    - 美 `/'dɛsəkənt/`
+    - 英
+      - `/'desikənt/`
+    - 美
+      - `/'dɛsəkənt/`
   - 词义
-    - n. 干燥剂
-    - `a substance, such as calcium oxide, that absorbs water and is used to remove moisture; a drying agent `
+    - n.
+      - 干燥剂
+        - `a substance, such as calcium oxide, that absorbs water and is used to remove moisture; a drying agent `
   - 记忆
     - de (加强) + sicc (干的) + ant (使…) → 使很干 → 干燥剂
   - 同根词
     - adj.
-      - `desiccated` 干的（等于desiccate）；粉状的
+      - `desiccated`
+        - 干的（等于desiccate）；粉状的
     - n.
-      - `desiccation` 干燥
+      - `desiccation`
+        - 干燥
     - v.
-      - `desiccated` 使干燥（desiccate的过去式）；变干
+      - `desiccated`
+        - 使干燥（desiccate的过去式）；变干
     - vi.
-      - `desiccate` 变干
+      - `desiccate`
+        - 变干
     - vt.
-      - `desiccate` 使干；干贮
+      - `desiccate`
+        - 使干；干贮
   - 近义词
-    - adj. 去湿的，使干燥的
-      - `exsiccative`
-    - n. [助剂]干燥剂
-      - `dryer`
-      - `drying agent`
-      - `silica fee`
+    - adj.
+      - 去湿的，使干燥的
+        - `exsiccative`
+    - n.
+      - [助剂]干燥剂
+        - `dryer`
+        - `drying agent`
+        - `silica fee`
   - 例句
     - `When the first tower adsorption of water vapor, the second tower after limit online bear the dry air task, and the first tower to regeneration and desiccant.`
       - 当第一个塔吸附水蒸气达极限后，第二个塔上线承担空气干燥任务，而第一个塔离线进行干燥剂再生。

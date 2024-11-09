@@ -1,42 +1,62 @@
 - constituent
   - 发音
-    - 英 `/kən'stɪtʃuənt/`
-    - 美 `/kən'stɪtʃuənt/`
+    - 英
+      - `/kən'stɪtʃuənt/`
+    - 美
+      - `/kən'stɪtʃuənt/`
   - 词义
-    - adj. 有宪法制定或修改权的；组成的，构成的
-    - `being one of the parts of something`
-    - n. 选民；要素，成分
-    - `someone who votes in a particular area`
+    - adj.
+      - 有宪法制定或修改权的；组成的，构成的
+        - `being one of the parts of something`
+    - n.
+      - 选民；要素，成分
+        - `someone who votes in a particular area`
   - 记忆
     - con(共同) + stit(=stat站立) + uent → 站在一起 → 要素， 成分
   - 同根词
     - adj.
-      - `constitutive` 基本的；本质的；制定的；构成分子的
+      - `constitutive`
+        - 基本的；本质的；制定的；构成分子的
     - n.
-      - `constituency` （选区的）选民；支持者；（一批）顾客
-      - `constitutive` 要素
+      - `constituency`
+        - （选区的）选民；支持者；（一批）顾客
+      - `constitutive`
+        - 要素
     - vt.
-      - `constitute` 组成，构成；建立；任命
+      - `constitute`
+        - 组成，构成；建立；任命
   - 近义词
-    - n. 成分；选民；委托人
-      - `element`
-      - `client`
-      - `component`
-      - `principal`
-    - adj. 构成的；选举的
-      - `component`
-      - `electoral`
+    - n.
+      - 成分；选民；委托人
+        - `element`
+        - `client`
+        - `component`
+        - `principal`
+    - adj.
+      - 构成的；选举的
+        - `component`
+        - `electoral`
   - 短语
-    - `constituent structure` 句子结构；成分结构 
-    - `chemical constituent` 化学组分，化学成分 
-    - `active constituent` 活性组分 
-    - `main constituent` 主成分 
-    - `constituent ratio` 构成比，结构相对数 
-    - `effective constituent` 有效成分 
-    - `constituent element` 组元；组成部件 
-    - `constituent stock` 成分股 
-    - `constituent assembly` 立宪会议；国民代表大会 
-    - `mineral constituent` 矿物成分；矿物组成 
+    - `constituent structure`
+      - 句子结构；成分结构 
+    - `chemical constituent`
+      - 化学组分，化学成分 
+    - `active constituent`
+      - 活性组分 
+    - `main constituent`
+      - 主成分 
+    - `constituent ratio`
+      - 构成比，结构相对数 
+    - `effective constituent`
+      - 有效成分 
+    - `constituent element`
+      - 组元；组成部件 
+    - `constituent stock`
+      - 成分股 
+    - `constituent assembly`
+      - 立宪会议；国民代表大会 
+    - `mineral constituent`
+      - 矿物成分；矿物组成 
   - 例句
     - `the EU and its constituent members`
       - 欧盟及其成员国

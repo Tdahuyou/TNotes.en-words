@@ -1,13 +1,17 @@
 - wallpaper
   - 发音
-    - 英 `/'wɔːlpeɪpə/`
-    - 美 `/'wɔlpepɚ/`
+    - 英
+      - `/'wɔːlpeɪpə/`
+    - 美
+      - `/'wɔlpepɚ/`
   - 词义
-    - n. 墙纸
-    - `paper that you stick onto the walls of a room in order to decorate it`
+    - n.
+      - 墙纸
+        - `paper that you stick onto the walls of a room in order to decorate it`
   - 近义词
-    - n. [建]壁纸，墙纸
-      - `papering`
+    - n.
+      - [建]壁纸，墙纸
+        - `papering`
   - 例句
     - `...the wallpaper in the bedroom.`
       - …卧室里的墙纸。

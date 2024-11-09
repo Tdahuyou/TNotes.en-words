@@ -1,14 +1,18 @@
 - histrionics
   - 发音
-    - 英 `/,hɪstrɪ'ɒnɪks/`
-    - 美 `/,histri'ɔniks/`
+    - 英
+      - `/,hɪstrɪ'ɒnɪks/`
+    - 美
+      - `/,histri'ɔniks/`
   - 词义
-    - n. 演戏,表演
+    - n.
+      - 演戏,表演
   - 记忆
     - histrion(演员) + ic → 戏剧的； 注意不要和historic(adj. 历史的)相混
   - 近义词
-    - n. 装腔作势的态度或举止；舞台艺术；表演（histrionic的复数）
-      - `shows`
+    - n.
+      - 装腔作势的态度或举止；舞台艺术；表演（histrionic的复数）
+        - `shows`
   - 例句
     - `These squabbling Tolstoys and their stilted histrionics were conceited and exasperating.`
       - 这些斗嘴的托尔斯泰们和他们夸张的表演真令人恼火。

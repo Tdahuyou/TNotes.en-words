@@ -1,17 +1,23 @@
 - teacup
   - 发音
-    - 英 `/'tiːkʌp/`
-    - 美 `/ˈtiˌkʌp/`
+    - 英
+      - `/'tiːkʌp/`
+    - 美
+      - `/ˈtiˌkʌp/`
   - 词义
-    - n. 茶杯
-    - `a cup that you serve tea in`
+    - n.
+      - 茶杯
+        - `a cup that you serve tea in`
   - 同根词
     - adj.
-      - `teacupful` 满一茶杯的
+      - `teacupful`
+        - 满一茶杯的
     - n.
-      - `teacupful` 一满茶杯的量
+      - `teacupful`
+        - 一满茶杯的量
   - 短语
-    - `storm in a teacup` 小题大做；小事引起的大风波 
+    - `storm in a teacup`
+      - 小题大做；小事引起的大风波 
   - 例句
     - `The rim of the teacup is chipped.`
       - 茶碗缺了个口儿。

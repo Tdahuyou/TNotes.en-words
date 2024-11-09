@@ -1,10 +1,14 @@
 - loder
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. [计]装填器
+    - n.
+      - [计]装填器
   - 近义词
-    - n. 装填器
-      - `loader`
-      - `rammer`
+    - n.
+      - 装填器
+        - `loader`
+        - `rammer`

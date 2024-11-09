@@ -1,12 +1,16 @@
 - prodrome
   - 发音
-    - 英 `/'prəʊdrəʊm; 'prɒdrəʊm/`
-    - 美 `/'prodrom/`
+    - 英
+      - `/'prəʊdrəʊm; 'prɒdrəʊm/`
+    - 美
+      - `/'prodrom/`
   - 词义
-    - n. 前驱症状,序论
+    - n.
+      - 前驱症状,序论
   - 同根词
     - adj.
-      - `prodromal` 前驱的；前驱病状的；有前驱症状的
+      - `prodromal`
+        - 前驱的；前驱病状的；有前驱症状的
   - 例句
     - `It is prodrome respectively period, foreboding period, convulsion period, atony lethargy period and recognizant convalescence.`
       - 分别是前驱症状期、 先兆期、痉挛期、弛缓昏睡期和意识恢复期。

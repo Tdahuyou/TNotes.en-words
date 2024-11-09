@@ -1,11 +1,15 @@
 - asterisk
   - 发音
-    - 英 `/'æstərɪsk/`
-    - 美 `/'æstərɪsk/`
+    - 英
+      - `/'æstərɪsk/`
+    - 美
+      - `/'æstərɪsk/`
   - 词义
-    - n. 星号
-    - `a mark like a star (*), used especially to show something interesting or important`
-    - v. 注上星号；用星号标出
+    - n.
+      - 星号
+        - `a mark like a star (*), used especially to show something interesting or important`
+    - v.
+      - 注上星号；用星号标出
   - 例句
     - `The plug-in names followed by an asterisk are those that were loaded during startup.`
       - 后面跟有一个星号的插件名是那些在启动的时候就加载的插件。

@@ -1,13 +1,18 @@
 - subsequently
   - 发音
-    - 英 `/'sʌbsɪkwəntlɪ/`
-    - 美 `/'sʌbsɪkwəntli/`
+    - 英
+      - `/'sʌbsɪkwəntlɪ/`
+    - 美
+      - `/'sʌbsɪkwəntli/`
   - 词义
-    - adj. 其次，接着
+    - adj.
+      - 其次，接着
   - 同根词
     - adj.
-      - `subsequent` 后来的，随后的
+      - `subsequent`
+        - 后来的，随后的
   - 近义词
-    - adv. 随后，其后；后来
-      - `after`
-      - `since`
+    - adv.
+      - 随后，其后；后来
+        - `after`
+        - `since`

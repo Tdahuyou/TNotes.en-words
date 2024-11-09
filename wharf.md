@@ -1,24 +1,34 @@
 - wharf
   - 发音
-    - 英 `/wɔːf/`
-    - 美 `/wɔrf/`
+    - 英
+      - `/wɔːf/`
+    - 美
+      - `/wɔrf/`
   - 词义
-    - n. 码头
-    - `a structure that is built out into the water so that boats can stop next to it`
-    - v. 靠在码头
+    - n.
+      - 码头
+        - `a structure that is built out into the water so that boats can stop next to it`
+    - v.
+      - 靠在码头
   - 同根词
     - n.
-      - `wharfage` 码头；码头费；码头业务
+      - `wharfage`
+        - 码头；码头费；码头业务
   - 近义词
-    - vt. 使靠码头；为…建码头；把货卸在码头上
-      - `dock`
-    - n. [水运]码头；停泊处
-      - `landing`
-      - `pier`
+    - vt.
+      - 使靠码头；为…建码头；把货卸在码头上
+        - `dock`
+    - n.
+      - [水运]码头；停泊处
+        - `landing`
+        - `pier`
   - 短语
-    - `fisherman's wharf` n. 渔人码头（美国旧金山旅游观光名胜） 
-    - `coal wharf` 煤码头 
-    - `wharf apron` 码头岸肩；自码头货棚至水边间的空间 
+    - `fisherman's wharf`
+      - n. 渔人码头（美国旧金山旅游观光名胜） 
+    - `coal wharf`
+      - 煤码头 
+    - `wharf apron`
+      - 码头岸肩；自码头货棚至水边间的空间 
   - 例句
     - `Our ship is on to the wharf.`
       - 我们的船靠向码头。

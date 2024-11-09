@@ -1,19 +1,26 @@
 - assassination
   - 发音
-    - 英 `/əˌsæsɪˈneɪʃn/`
-    - 美 `/əˌsæsəˈneɪʃn/`
+    - 英
+      - `/əˌsæsɪˈneɪʃn/`
+    - 美
+      - `/əˌsæsəˈneɪʃn/`
   - 词义
-    - n. 暗杀
-    - `the act of murdering an important person`
+    - n.
+      - 暗杀
+        - `the act of murdering an important person`
   - 同根词
     - n.
-      - `assassin` 刺客，暗杀者
-      - `assassinator` 刺客；暗杀者
+      - `assassin`
+        - 刺客，暗杀者
+      - `assassinator`
+        - 刺客；暗杀者
     - vt.
-      - `assassinate` 暗杀；行刺
+      - `assassinate`
+        - 暗杀；行刺
   - 近义词
-    - n. 暗杀，行刺
-      - `thuggism`
+    - n.
+      - 暗杀，行刺
+        - `thuggism`
   - 例句
     - `He narrowly escaped an assassination attempt (=  when someone tries but fails to kill someone else  ) .`
       - 他在一次暗杀行动中死里逃生。

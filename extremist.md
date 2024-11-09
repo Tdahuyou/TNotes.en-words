@@ -1,23 +1,33 @@
 - extremist
   - 发音
-    - 英 `/ɪk'striːmɪst; ek-/`
-    - 美 `/ɪk'strimɪst/`
+    - 英
+      - `/ɪk'striːmɪst; ek-/`
+    - 美
+      - `/ɪk'strimɪst/`
   - 词义
-    - n. 极端主义者，过激分子
-    - `someone who has extreme political opinions and aims, and who is willing to do unusual or illegal things in order to achieve them`
+    - n.
+      - 极端主义者，过激分子
+        - `someone who has extreme political opinions and aims, and who is willing to do unusual or illegal things in order to achieve them`
   - 同根词
     - adj.
-      - `extreme` 极端的；极度的；偏激的；尽头的
+      - `extreme`
+        - 极端的；极度的；偏激的；尽头的
     - adv.
-      - `extremely` 非常，极其；极端地
+      - `extremely`
+        - 非常，极其；极端地
     - n.
-      - `extreme` 极端；末端；最大程度；极端的事物
-      - `extremity` 极端；绝境；非常手段；手足
-      - `extremism` 极端主义（尤指政治上的极右或极左）；极端性；过激主义
-      - `extremeness` 极端；极度
+      - `extreme`
+        - 极端；末端；最大程度；极端的事物
+      - `extremity`
+        - 极端；绝境；非常手段；手足
+      - `extremism`
+        - 极端主义（尤指政治上的极右或极左）；极端性；过激主义
+      - `extremeness`
+        - 极端；极度
   - 近义词
-    - n. 极端主义者，过激分子
-      - `ultra`
+    - n.
+      - 极端主义者，过激分子
+        - `ultra`
   - 例句
     - `The bomb was planted by right-wing extremists.`
       - 炸弹是右翼极端分子放置的。

@@ -1,10 +1,13 @@
 - anyone
   - 发音
-    - 英 `/'enɪwʌn/`
-    - 美 `/'ɛnɪ'wʌn/`
+    - 英
+      - `/'enɪwʌn/`
+    - 美
+      - `/'ɛnɪ'wʌn/`
   - 词义
-    - pron. 任何人
-    - `used to refer to any person, when it is not important to say exactly who`
+    - pron.
+      - 任何人
+        - `used to refer to any person, when it is not important to say exactly who`
   - 记忆
     - any(任何)+one(一个)→任何人
   - 例句

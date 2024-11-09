@@ -1,10 +1,13 @@
 - wren
   - 发音
-    - 英 `/ren/`
-    - 美 `/rɛn/`
+    - 英
+      - `/ren/`
+    - 美
+      - `/rɛn/`
   - 词义
-    - n. [动]鹪鹩
-    - `a very small brown bird`
+    - n.
+      - [动]鹪鹩
+        - `a very small brown bird`
   - 例句
     - `And the lion keeps something for you, and the mangrove swamp and the coral and the spider and the wren.`
       - 狮子，红树林沼泽、珊瑚，还有蜘蛛和鹪鹩也为你保存了某些东西。

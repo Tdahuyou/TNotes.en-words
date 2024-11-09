@@ -1,8 +1,11 @@
 - excluder
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 排除器（等于封隔器）
+    - n.
+      - 排除器（等于封隔器）
   - 记忆
     - 来自exclude(v. 排除)

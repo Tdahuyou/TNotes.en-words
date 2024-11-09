@@ -1,27 +1,41 @@
 - refraction
   - 发音
-    - 英 `/rɪ'frækʃn/`
-    - 美 `/rɪ'frækʃən/`
+    - 英
+      - `/rɪ'frækʃn/`
+    - 美
+      - `/rɪ'frækʃən/`
   - 词义
-    - n. 折射
+    - n.
+      - 折射
   - 记忆
     - re(向后) + fract(折断) + ion → 向后折断 → 折射
   - 同根词
     - adj.
-      - `refractive` 折射的
-      - `refractile` 折射的；有折射力的；能折射的
+      - `refractive`
+        - 折射的
+      - `refractile`
+        - 折射的；有折射力的；能折射的
     - n.
-      - `refractometer` [物] 折射计
-      - `refractivity` [光] 折射率；折射性；[物] 折射本领
+      - `refractometer`
+        - [物] 折射计
+      - `refractivity`
+        - [光] 折射率；折射性；[物] 折射本领
     - vt.
-      - `refract` 使折射
+      - `refract`
+        - 使折射
   - 短语
-    - `refraction index` 折射指数，折光指数 
-    - `index of refraction` [物]折射率 
-    - `negative refraction` 负折射 
-    - `double refraction` 双折射 
-    - `refraction coefficient` 折射系数 
-    - `seismic refraction` 震波折射 
+    - `refraction index`
+      - 折射指数，折光指数 
+    - `index of refraction`
+      - [物]折射率 
+    - `negative refraction`
+      - 负折射 
+    - `double refraction`
+      - 双折射 
+    - `refraction coefficient`
+      - 折射系数 
+    - `seismic refraction`
+      - 震波折射 
   - 例句
     - `The sonobuoy permits recording a refraction profile with only one ship.`
       - 声纳浮标允许只以一艘船来记录折射剖面。

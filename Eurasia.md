@@ -1,9 +1,12 @@
 - Eurasia
   - 发音
-    - 英 `/juə'reiʃə/`
-    - 美 `/juə'reiʃə/`
+    - 英
+      - `/juə'reiʃə/`
+    - 美
+      - `/juə'reiʃə/`
   - 词义
-    - n. 欧亚大陆
+    - n.
+      - 欧亚大陆
   - 例句
     - `The lake is the largest spawning ground for red salmon in Eurasia and the best place for bears.`
       - 这个湖泊是欧亚大陆上最大的，红三文鱼的产卵场所。 也是野熊最爱呆的地方。

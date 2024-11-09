@@ -1,20 +1,27 @@
 - pigeon
   - 发音
-    - 英 `/'pɪdʒɪn/`
-    - 美 `/'pɪdʒɪn/`
+    - 英
+      - `/'pɪdʒɪn/`
+    - 美
+      - `/'pɪdʒɪn/`
   - 词义
-    - n. 鸽子
-    - `a grey bird with short legs that is common in cities`
+    - n.
+      - 鸽子
+        - `a grey bird with short legs that is common in cities`
   - 记忆
     - “批准” → 非常时期养鸽子也要经过批准 → 鸽子
   - 近义词
-    - n. 鸽子
-      - `La paloma`
-      - `dove`
+    - n.
+      - 鸽子
+        - `La paloma`
+        - `dove`
   - 短语
-    - `carrier pigeon` 信鸽 
-    - `homing pigeon` n. 信鸽，传信鸽 
-    - `young pigeon` 乳鸽 
+    - `carrier pigeon`
+      - 信鸽 
+    - `homing pigeon`
+      - n. 信鸽，传信鸽 
+    - `young pigeon`
+      - 乳鸽 
   - 例句
     - `One blue pigeon sitting on a wall.`
       - 一只蓝色的鸽子蹲坐在一堵墙上。

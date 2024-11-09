@@ -1,28 +1,38 @@
 - quiz
   - 发音
-    - 英 `/kwɪz/`
-    - 美 `/kwɪz/`
+    - 英
+      - `/kwɪz/`
+    - 美
+      - `/kwɪz/`
   - 词义
-    - n. 小测验；智力竞赛
-    - `a competition or game in which people have to answer questions`
-    - vt. 测验；盘问，查问，询问
-    - `to ask someone a lot of questions`
+    - n.
+      - 小测验；智力竞赛
+        - `a competition or game in which people have to answer questions`
+    - vt.
+      - 测验；盘问，查问，询问
+        - `to ask someone a lot of questions`
   - 记忆
     - 他最终放弃(quit)了口语测试(quiz)
   - 同根词
     - n.
-      - `quizmaster` 广播电视测验节目主持人
-      - `quizzer` 测验节目；提问者
+      - `quizmaster`
+        - 广播电视测验节目主持人
+      - `quizzer`
+        - 测验节目；提问者
   - 近义词
-    - n. 考查；恶作剧；课堂测验
-      - `trick`
-      - `mischief`
-    - vt. 挖苦；张望；对…进行测验
-      - `dig at`
-      - `test for`
+    - n.
+      - 考查；恶作剧；课堂测验
+        - `trick`
+        - `mischief`
+    - vt.
+      - 挖苦；张望；对…进行测验
+        - `dig at`
+        - `test for`
   - 短语
-    - `quiz show` 机智问答；智力竞争节目 
-    - `quiz game` 答问比赛；智力竞赛 
+    - `quiz show`
+      - 机智问答；智力竞争节目 
+    - `quiz game`
+      - 答问比赛；智力竞赛 
   - 例句
     - `a love quiz in a magazine`
       - 杂志上的爱情问答

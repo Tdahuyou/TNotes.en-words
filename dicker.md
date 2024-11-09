@@ -1,14 +1,18 @@
 - dicker
   - 发音
-    - 英 `/'dɪkər/`
-    - 美 `/'dɪkɚ/`
+    - 英
+      - `/'dɪkər/`
+    - 美
+      - `/'dɪkɚ/`
   - 词义
-    - v. 讨价还价
-    - `to argue about or discuss the details of a sale, agreement etc`
+    - v.
+      - 讨价还价
+        - `to argue about or discuss the details of a sale, agreement etc`
   - 近义词
-    - vi. 易货；[贸易]做小生意；讨价还价
-      - `price bargain`
-      - `bargain with`
+    - vi.
+      - 易货；[贸易]做小生意；讨价还价
+        - `price bargain`
+        - `bargain with`
   - 例句
     - `He would rather die than dicker over prices.`
       - 他宁愿死也不愿意讨价还价。

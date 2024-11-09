@@ -1,13 +1,17 @@
 - menthol
   - 发音
-    - 英 `/'menθɔːl/`
-    - 美 `/'mɛnθɔl/`
+    - 英
+      - `/'menθɔːl/`
+    - 美
+      - `/'mɛnθɔl/`
   - 词义
-    - n. 薄荷醇
-    - `a substance that smells and tastes of  mint  , used to give cigarettes and sweets a special taste`
+    - n.
+      - 薄荷醇
+        - `a substance that smells and tastes of  mint  , used to give cigarettes and sweets a special taste`
   - 同根词
     - adj.
-      - `mentholated` 含薄荷脑的；含薄荷醇的
+      - `mentholated`
+        - 含薄荷脑的；含薄荷醇的
   - 例句
     - `They covered the affected parts with menthol.`
       - 他们在患部涂上薄荷醇。

@@ -1,27 +1,40 @@
 - correlated
   - 发音
-    - 英 `/'kɔːrəleɪtɪd/`
-    - 美 `/'kɔrə,letɪd/`
+    - 英
+      - `/'kɔːrəleɪtɪd/`
+    - 美
+      - `/'kɔrə,letɪd/`
   - 词义
-    - adj. 有相互关系的
+    - adj.
+      - 有相互关系的
   - 同根词
     - adj.
-      - `correlate` 关联的
-      - `correlative` 相关的；有相互关系的
+      - `correlate`
+        - 关联的
+      - `correlative`
+        - 相关的；有相互关系的
     - n.
-      - `correlation` [数] 相关，关联；相互关系
-      - `correlate` 相关物；相关联的人
-      - `correlative` 关联词；相关物
-      - `correlativity` 相关关系；相互关系
+      - `correlation`
+        - [数] 相关，关联；相互关系
+      - `correlate`
+        - 相关物；相关联的人
+      - `correlative`
+        - 关联词；相关物
+      - `correlativity`
+        - 相关关系；相互关系
     - vi.
-      - `correlate` 关联
+      - `correlate`
+        - 关联
     - vt.
-      - `correlate` 使有相互关系；互相有关系
+      - `correlate`
+        - 使有相互关系；互相有关系
   - 近义词
-    - adj. 有相互关系的
-      - `corelative`
+    - adj.
+      - 有相互关系的
+        - `corelative`
   - 短语
-    - `be correlated with` 与…有关 
+    - `be correlated with`
+      - 与…有关 
   - 例句
     - `The amount of love you get from an investment in love is correlated, if only roughly, to the amount of yourself you invest in the relationship.`
       - 你获得的爱与对爱的投入是相互关联的，如果粗略来算，就是与你自己在这段关系中的投入总量相称。

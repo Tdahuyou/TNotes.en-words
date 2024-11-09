@@ -1,13 +1,17 @@
 - xerophyte
   - 发音
-    - 英 `/'zɪərə(ʊ)faɪt; 'ze-/`
-    - 美 `/'zɪrə,faɪt/`
+    - 英
+      - `/'zɪərə(ʊ)faɪt; 'ze-/`
+    - 美
+      - `/'zɪrə,faɪt/`
   - 词义
-    - n. 干燥地带植物
-    - `a xerophilous plant, such as a cactus `
+    - n.
+      - 干燥地带植物
+        - `a xerophilous plant, such as a cactus `
   - 同根词
     - adj.
-      - `xerophytic` 旱生性的；耐旱性的
+      - `xerophytic`
+        - 旱生性的；耐旱性的
   - 例句
     - `Casuarina equisetifolia is a tropical xerophyte species and can adapt in ighlt salinized soil.`
       - 木麻黄是热带旱生类型植物，但能适应轻盐渍土。

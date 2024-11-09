@@ -1,10 +1,13 @@
 - shellfish
   - 发音
-    - 英 `/'ʃelfɪʃ/`
-    - 美 `/'ʃɛl'fɪʃ/`
+    - 英
+      - `/'ʃelfɪʃ/`
+    - 美
+      - `/'ʃɛl'fɪʃ/`
   - 词义
-    - n. 贝类，有壳的水生动物
-    - `an animal that lives in water, has a shell, and can be eaten as food, for example  crab s  ,  lobster s  , and  oyster s `
+    - n.
+      - 贝类，有壳的水生动物
+        - `an animal that lives in water, has a shell, and can be eaten as food, for example  crab s  ,  lobster s  , and  oyster s `
   - 记忆
     - shell(外壳) + fish(鱼) → 有外壳的鱼 → 贝类
   - 例句

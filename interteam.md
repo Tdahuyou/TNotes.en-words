@@ -1,9 +1,12 @@
 - interteam
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - adj. 团队间的
+    - adj.
+      - 团队间的
   - 例句
     - `When we optimize interpersonal and interteam interactions, we reduce the barriers to getting work accomplished.`
       - 当我们优化了人与人之间和团队与团队之间的交互时，我们就减少了完成工作的障碍。

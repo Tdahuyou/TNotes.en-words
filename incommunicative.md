@@ -1,11 +1,15 @@
 - incommunicative
   - 发音
-    - 英 `/ɪnkə'mjuːnɪkətɪv/`
-    - 美 `/,ɪnkə'mjʊnə,ketɪv/`
+    - 英
+      - `/ɪnkə'mjuːnɪkətɪv/`
+    - 美
+      - `/,ɪnkə'mjʊnə,ketɪv/`
   - 词义
-    - adj. 不爱说话的,沉默寡言的
-    - `tending not to communicate with others; taciturn `
+    - adj.
+      - 不爱说话的,沉默寡言的
+        - `tending not to communicate with others; taciturn `
   - 近义词
-    - adj. 沉默寡言的；不爱说话的
-      - `uncommunicative`
-      - `taciturn`
+    - adj.
+      - 沉默寡言的；不爱说话的
+        - `uncommunicative`
+        - `taciturn`

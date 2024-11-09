@@ -1,9 +1,12 @@
 - Patricia
   - 发音
-    - 英 `/pə'triʃə/`
-    - 美 `/pə'triʃə/`
+    - 英
+      - `/pə'triʃə/`
+    - 美
+      - `/pə'triʃə/`
   - 词义
-    - n. 帕特丽夏（女子名）
+    - n.
+      - 帕特丽夏（女子名）
   - 例句
     - `The novel's epigraph states "Promise kept", and at the end Patricia says: "You asked my permission to write your story. `
       - 这本小说的题词为“不渝的承诺”，在书的结尾，帕特丽夏说道：“你问我可不可以写下你的故事。

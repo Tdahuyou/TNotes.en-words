@@ -1,19 +1,25 @@
 - amerce
   - 发音
-    - 英 `/ə'mɜːs/`
-    - 美 `/ə'mə:s/`
+    - 英
+      - `/ə'mɜːs/`
+    - 美
+      - `/ə'mə:s/`
   - 词义
-    - v. 罚款,惩罚
-    - `to punish by a fine `
+    - v.
+      - 罚款,惩罚
+        - `to punish by a fine `
   - 同根词
     - adj.
-      - `amerciable` [经管] 应罚款的
+      - `amerciable`
+        - [经管] 应罚款的
     - n.
-      - `amercement` 罚金
+      - `amercement`
+        - 罚金
   - 近义词
-    - vt. 罚款；惩罚
-      - `fine`
-      - `penalise`
+    - vt.
+      - 罚款；惩罚
+        - `fine`
+        - `penalise`
   - 例句
     - `The thing that you touch is too much also, return amerce!`
       - 你碰的事情也太多了吧，还罚款呢！

@@ -1,17 +1,22 @@
 - hunchback
   - 发音
-    - 英 `/'hʌn(t)ʃbæk/`
-    - 美 `/'hʌntʃbæk/`
+    - 英
+      - `/'hʌn(t)ʃbæk/`
+    - 美
+      - `/'hʌntʃbæk/`
   - 词义
-    - n. 驼背
-    - `an offensive word for someone who has a large raised part on their back because their  spine  curves in an unusual way`
+    - n.
+      - 驼背
+        - `an offensive word for someone who has a large raised part on their back because their  spine  curves in an unusual way`
   - 同根词
     - adj.
-      - `hunchbacked` 驼背的
+      - `hunchbacked`
+        - 驼背的
   - 近义词
-    - n. 驼背
-      - `kyphosis`
-      - `crookback`
+    - n.
+      - 驼背
+        - `kyphosis`
+        - `crookback`
   - 例句
     - `Quasimodo moves into the bell tower of a cathedral and becomes the hunchback of Notre Dame.`
       - 卡西莫多搬进了一座天主教堂的钟楼里，成了巴黎圣母院的敲钟驼背人。

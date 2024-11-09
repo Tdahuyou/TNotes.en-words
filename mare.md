@@ -1,10 +1,14 @@
 - mare
   - 发音
-    - 英 `/meə/`
-    - 美 `/mɛr/`
+    - 英
+      - `/meə/`
+    - 美
+      - `/mɛr/`
   - 词义
-    - n. 母马；母驴；月球表面阴暗部
-    - `a female horse or  donkey `
+    - n.
+      - 母马；母驴；月球表面阴暗部
+        - `a female horse or  donkey `
   - 近义词
-    - n. 母马；母驴；月球表面阴暗部
-      - `jennet`
+    - n.
+      - 母马；母驴；月球表面阴暗部
+        - `jennet`

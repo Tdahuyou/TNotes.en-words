@@ -1,9 +1,12 @@
 - sprained
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - adj. 扭伤的
+    - adj.
+      - 扭伤的
   - 记忆
     - sp ＋ rain(雨) → 雨天路滑， 扭伤了脚 → 扭伤
   - 例句

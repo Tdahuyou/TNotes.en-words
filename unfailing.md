@@ -1,20 +1,25 @@
 - unfailing
   - 发音
-    - 英 `/ʌn'feɪlɪŋ/`
-    - 美 `/ʌn'felɪŋ/`
+    - 英
+      - `/ʌn'feɪlɪŋ/`
+    - 美
+      - `/ʌn'felɪŋ/`
   - 词义
-    - adj. 经久不衰的；可靠的；无穷尽的
-    - `always there, even in times of difficulty or trouble`
+    - adj.
+      - 经久不衰的；可靠的；无穷尽的
+        - `always there, even in times of difficulty or trouble`
   - 同根词
     - adv.
-      - `unfailingly` 可靠地；无穷尽地；不倦地
+      - `unfailingly`
+        - 可靠地；无穷尽地；不倦地
   - 近义词
-    - adj. 经久不衰的；可靠的；无穷尽的
-      - `responsible`
-      - `honest`
-      - `reliable`
-      - `tried`
-      - `safe`
+    - adj.
+      - 经久不衰的；可靠的；无穷尽的
+        - `responsible`
+        - `honest`
+        - `reliable`
+        - `tried`
+        - `safe`
   - 例句
     - `She battled against cancer with unfailing good humour.`
       - 她始终乐观地与癌症抗争。

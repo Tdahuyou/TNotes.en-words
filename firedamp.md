@@ -1,14 +1,18 @@
 - firedamp
   - 发音
-    - 英 `/'faɪədæmp/`
-    - 美 `/undefined/`
+    - 英
+      - `/'faɪədæmp/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 沼气；甲烷
-    - `a mixture of hydrocarbons, chiefly methane, formed in coal mines`
+    - n.
+      - 沼气；甲烷
+        - `a mixture of hydrocarbons, chiefly methane, formed in coal mines`
   - 近义词
-    - n. 沼气；甲烷
-      - `methane`
-      - `sewage gas`
+    - n.
+      - 沼气；甲烷
+        - `methane`
+        - `sewage gas`
   - 例句
     - `This series distribution device is applicable for coal mine with firedamp or coal dust in the ambient.`
       - 本系列配电装置适用于煤矿井下及其周围介质中有甲烷、煤尘等爆炸性混合气体的环境中。

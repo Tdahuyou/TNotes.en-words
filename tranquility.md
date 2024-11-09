@@ -1,23 +1,32 @@
 - tranquility
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 宁静；平静
+    - n.
+      - 宁静；平静
   - 同根词
     - adj.
-      - `tranquil` 安静的，平静的；安宁的；稳定的
+      - `tranquil`
+        - 安静的，平静的；安宁的；稳定的
     - adv.
-      - `tranquilly` 平静地；安静地
+      - `tranquilly`
+        - 平静地；安静地
     - vi.
-      - `tranquillise` 平静；镇静（等于tranquillize，tranquilise，tranquilize）
+      - `tranquillise`
+        - 平静；镇静（等于tranquillize，tranquilise，tranquilize）
     - vt.
-      - `tranquillise` 使安静；使镇定（等于tranquillize，tranquilise，tranquilize）
-      - `tranquillize` 使平静；使安静（等于tranquilize ）
+      - `tranquillise`
+        - 使安静；使镇定（等于tranquillize，tranquilise，tranquilize）
+      - `tranquillize`
+        - 使平静；使安静（等于tranquilize ）
   - 近义词
-    - n. 宁静；平静
-      - `equilibrium`
-      - `serenity`
+    - n.
+      - 宁静；平静
+        - `equilibrium`
+        - `serenity`
   - 例句
     - `Love, happiness and tranquility are all contagious.`
       - 爱、幸福与宁静都是有感染力的。

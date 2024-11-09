@@ -1,27 +1,38 @@
 - razor
   - 发音
-    - 英 `/'reɪzə/`
-    - 美 `/'rezɚ/`
+    - 英
+      - `/'reɪzə/`
+    - 美
+      - `/'rezɚ/`
   - 词义
-    - n. 剃刀，剃须刀
-    - `a tool with a sharp blade, used to remove hair from your skin`
+    - n.
+      - 剃刀，剃须刀
+        - `a tool with a sharp blade, used to remove hair from your skin`
   - 记忆
     - 来自raze(v. 夷为平地)
   - 同根词
     - adj.
-      - `razorback` 山脊尖削的；脊背锋利的
+      - `razorback`
+        - 山脊尖削的；脊背锋利的
     - n.
-      - `razorback` 狭尖的背脊；剃刀鲸；尖背野猪
+      - `razorback`
+        - 狭尖的背脊；剃刀鲸；尖背野猪
   - 近义词
-    - vt. 剃，用剃刀刮
-      - `shave`
-    - n. 剃刀
-      - `shiv`
+    - vt.
+      - 剃，用剃刀刮
+        - `shave`
+    - n.
+      - 剃刀
+        - `shiv`
   - 短语
-    - `razor blade` 刮胡刀刀片；剃须刀片 
-    - `electric razor` 电动剃刀；电动刮胡刀 
-    - `razor wire` 铁丝网；刀片刺网 
-    - `safety razor` 安全剃刀 
+    - `razor blade`
+      - 刮胡刀刀片；剃须刀片 
+    - `electric razor`
+      - 电动剃刀；电动刮胡刀 
+    - `razor wire`
+      - 铁丝网；刀片刺网 
+    - `safety razor`
+      - 安全剃刀 
   - 例句
     - `an electric razor`
       - 电动剃须刀

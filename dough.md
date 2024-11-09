@@ -1,17 +1,22 @@
 - dough
   - 发音
-    - 英 `/dəʊ/`
-    - 美 `/do/`
+    - 英
+      - `/dəʊ/`
+    - 美
+      - `/do/`
   - 词义
-    - n. 生面团
-    - `a mixture of flour and water ready to be baked into bread,  pastry  etc`
+    - n.
+      - 生面团
+        - `a mixture of flour and water ready to be baked into bread,  pastry  etc`
   - 同根词
     - adj.
-      - `doughy` 面团似的；柔软的；苍白的；半熟的
+      - `doughy`
+        - 面团似的；柔软的；苍白的；半熟的
   - 近义词
-    - n. [食品]生面团；金钱
-      - `moola`
-      - `siller`
+    - n.
+      - [食品]生面团；金钱
+        - `moola`
+        - `siller`
   - 例句
     - `Add some raisins to the dough.`
       - 在生面团中加一些葡萄干。

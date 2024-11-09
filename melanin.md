@@ -1,10 +1,13 @@
 - melanin
   - 发音
-    - 英 `/'melənɪn/`
-    - 美 `/'mɛlənɪn/`
+    - 英
+      - `/'melənɪn/`
+    - 美
+      - `/'mɛlənɪn/`
   - 词义
-    - n. 黑色素
-    - `a natural dark brown colour in human skin, hair, and eyes`
+    - n.
+      - 黑色素
+        - `a natural dark brown colour in human skin, hair, and eyes`
   - 例句
     - `If cure is undeserved, activationed its melanin cell, sequential meeting is more serious ah.`
       - 假如治疗不当，激活了它的黑色素细胞，后果会更严重的啊。

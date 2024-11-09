@@ -1,24 +1,35 @@
 - exceptionally
   - 发音
-    - 英 `/ɪk'sepʃ(ə)nəlɪ/`
-    - 美 `/ɪk'sɛpʃənəli/`
+    - 英
+      - `/ɪk'sepʃ(ə)nəlɪ/`
+    - 美
+      - `/ɪk'sɛpʃənəli/`
   - 词义
-    - adv. 格外地,特别地
+    - adv.
+      - 格外地,特别地
   - 同根词
     - adj.
-      - `exceptional` 异常的，例外的
+      - `exceptional`
+        - 异常的，例外的
     - conj.
-      - `except` 除了；要不是
+      - `except`
+        - 除了；要不是
     - n.
-      - `exception` 例外；异议
-      - `exceptional` 超常的学生
+      - `exception`
+        - 例外；异议
+      - `exceptional`
+        - 超常的学生
     - prep.
-      - `except` 除…之外
+      - `except`
+        - 除…之外
     - vi.
-      - `except` 反对
+      - `except`
+        - 反对
     - vt.
-      - `except` 不计；把…除外
+      - `except`
+        - 不计；把…除外
   - 近义词
-    - adv. 异常地；特殊地；例外地
-      - `singularly`
-      - `unconventionally`
+    - adv.
+      - 异常地；特殊地；例外地
+        - `singularly`
+        - `unconventionally`

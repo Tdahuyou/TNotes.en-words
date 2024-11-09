@@ -1,12 +1,16 @@
 - miff
   - 发音
-    - 英 `/mif/`
-    - 美 `/mif/`
+    - 英
+      - `/mif/`
+    - 美
+      - `/mif/`
   - 词义
-    - v. 发脾气，微怒；无谓的争吵
-    - `to take offence or offend `
+    - v.
+      - 发脾气，微怒；无谓的争吵
+        - `to take offence or offend `
   - 记忆
     - 亲密爱人在一起常有小争吵 (miff) ， 分开又彼此想念 (miss)
   - 近义词
-    - vt. 使……恼怒
-      - `bother`
+    - vt.
+      - 使……恼怒
+        - `bother`

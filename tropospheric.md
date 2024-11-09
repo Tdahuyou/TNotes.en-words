@@ -1,9 +1,12 @@
 - tropospheric
   - 发音
-    - 英 `/ˌtrɒpə'sferɪk/`
-    - 美 `/undefined/`
+    - 英
+      - `/ˌtrɒpə'sferɪk/`
+    - 美
+      - `/undefined/`
   - 词义
-    - adj. 对流层的
+    - adj.
+      - 对流层的
   - 例句
     - `Meantime, continuation of low tropospheric jet produces plentiful vapor for formation and continuation of rain gush.`
       - 同时，低空西南急流的维持，为暴雨的产生和维持提供了充足的水汽。

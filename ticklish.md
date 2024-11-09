@@ -1,27 +1,37 @@
 - ticklish
   - 发音
-    - 英 `/'tɪklɪʃ/`
-    - 美 `/'tɪklɪʃ/`
+    - 英
+      - `/'tɪklɪʃ/`
+    - 美
+      - `/'tɪklɪʃ/`
   - 词义
-    - adj. 怕痒的；易怒的
-    - `someone who is ticklish laughs a lot when you tickle them`
+    - adj.
+      - 怕痒的；易怒的
+        - `someone who is ticklish laughs a lot when you tickle them`
   - 记忆
     - 来自tickle(v. 发痒)
   - 同根词
     - n.
-      - `tickle` 胳肢；痒感；使人发痒、高兴的东西
-      - `tickler` 难题；使人痒的东西或人；备忘录；使人高兴的人或物
-      - `tickling` 自旋挠痒法；反馈
+      - `tickle`
+        - 胳肢；痒感；使人发痒、高兴的东西
+      - `tickler`
+        - 难题；使人痒的东西或人；备忘录；使人高兴的人或物
+      - `tickling`
+        - 自旋挠痒法；反馈
     - v.
-      - `tickling` 使发痒（tickle的ing形式）
+      - `tickling`
+        - 使发痒（tickle的ing形式）
     - vi.
-      - `tickle` 觉得痒；（东西）使人发痒
+      - `tickle`
+        - 觉得痒；（东西）使人发痒
     - vt.
-      - `tickle` 使发痒；使高兴；使满足
+      - `tickle`
+        - 使发痒；使高兴；使满足
   - 近义词
-    - adj. 不安定的，不稳定的；难对付的；易倒的；易痒的；忌讳的
-      - `tender`
-      - `unstable`
+    - adj.
+      - 不安定的，不稳定的；难对付的；易倒的；易痒的；忌讳的
+        - `tender`
+        - `unstable`
   - 例句
     - `Handling awkward neighbours can be a ticklish business .`
       - 和难处的邻居打交道有时是件十分棘手的事情。

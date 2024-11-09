@@ -1,19 +1,25 @@
 - circumscribe
   - 发音
-    - 英 `/'sɜːkəmskraɪb/`
-    - 美 `/,sɝkəm'sraɪb/`
+    - 英
+      - `/'sɜːkəmskraɪb/`
+    - 美
+      - `/,sɝkəm'sraɪb/`
   - 词义
-    - v. 在…周围画线；限制
-    - `to limit power, rights, or abilities`
+    - v.
+      - 在…周围画线；限制
+        - `to limit power, rights, or abilities`
   - 同根词
     - adj.
-      - `circumscribed` 外接的；局限的；受限制的
+      - `circumscribed`
+        - 外接的；局限的；受限制的
     - vt.
-      - `circumscribed` 限制（circumscribe的过去分词）；在周围画线；为…划界线
+      - `circumscribed`
+        - 限制（circumscribe的过去分词）；在周围画线；为…划界线
   - 近义词
-    - vt. 限制；在…周围画线
-      - `block`
-      - `set a limit to`
+    - vt.
+      - 限制；在…周围画线
+        - `block`
+        - `set a limit to`
   - 例句
     - `The President’s power is circumscribed by Congress and the Supreme Court.`
       - 总统的权力受到国会和最高法院的制约。

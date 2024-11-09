@@ -1,12 +1,16 @@
 - Babylonian
   - 发音
-    - 英 `/ˌbæbɪ'ləunɪən/`
-    - 美 `/,bæbi'ləunjən/`
+    - 英
+      - `/ˌbæbɪ'ləunɪən/`
+    - 美
+      - `/,bæbi'ləunjən/`
   - 词义
-    - adj. 巴比伦的；奢华的
-    - `of, relating to, or characteristic of ancient Babylon or Babylonia, its people, or their language `
-    - n. 巴比伦人
-    - `an inhabitant of ancient Babylon or Babylonia `
+    - adj.
+      - 巴比伦的；奢华的
+        - `of, relating to, or characteristic of ancient Babylon or Babylonia, its people, or their language `
+    - n.
+      - 巴比伦人
+        - `an inhabitant of ancient Babylon or Babylonia `
   - 例句
     - `So too the stories of Moses and of Samson have Sumerian and Babylonian parallels.`
       - 同样，关于摩西和参孙的传说在苏美尔和巴比伦也有相似的版本。

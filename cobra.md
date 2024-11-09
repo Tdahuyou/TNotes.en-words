@@ -1,16 +1,21 @@
 - cobra
   - 发音
-    - 英 `/'kəʊbrə; 'kɒbrə/`
-    - 美 `/'kobrə/`
+    - 英
+      - `/'kəʊbrə; 'kɒbrə/`
+    - 美
+      - `/'kobrə/`
   - 词义
-    - n. 眼镜蛇；（澳）头颅
-    - `a poisonous African or Asian snake that can spread the skin of its neck to make itself look bigger`
+    - n.
+      - 眼镜蛇；（澳）头颅
+        - `a poisonous African or Asian snake that can spread the skin of its neck to make itself look bigger`
   - 近义词
-    - n. [脊椎]眼镜蛇；（澳）头颅
-      - `Naja`
-      - `elapid`
+    - n.
+      - [脊椎]眼镜蛇；（澳）头颅
+        - `Naja`
+        - `elapid`
   - 短语
-    - `cobra venom` 眼镜蛇毒 
+    - `cobra venom`
+      - 眼镜蛇毒 
   - 例句
     - `A set of changes in the mongoose’s receptor makes it resemble the cobra’s own resistant receptor.`
       - 猫鼬受体的一系列变化使得它们类似于眼镜蛇自己的抗毒液性受体。

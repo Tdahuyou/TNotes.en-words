@@ -1,26 +1,38 @@
 - intermission
   - 发音
-    - 英 `/ˌɪntər'mɪʃn/`
-    - 美 `/'ɪntɚ'mɪʃən/`
+    - 英
+      - `/ˌɪntər'mɪʃn/`
+    - 美
+      - `/'ɪntɚ'mɪʃən/`
   - 词义
-    - n. 暂停，间歇
+    - n.
+      - 暂停，间歇
   - 记忆
     - inter + mission(发送) → 在发送之间 → 间歇
   - 同根词
     - adj.
-      - `intermittent` 间歇的，断断续续的
+      - `intermittent`
+        - 间歇的，断断续续的
     - adv.
-      - `intermittently` 间歇地
+      - `intermittently`
+        - 间歇地
     - n.
-      - `intermezzo` 间奏曲；插曲；幕间剧；芭蕾舞表演
-      - `intermittence` 时断时续，间歇性；周期性
-      - `intermittency` 间歇性；间歇现象；间歇度
-      - `intermitter` 间歇抽油装置；间歇调节器
+      - `intermezzo`
+        - 间奏曲；插曲；幕间剧；芭蕾舞表演
+      - `intermittence`
+        - 时断时续，间歇性；周期性
+      - `intermittency`
+        - 间歇性；间歇现象；间歇度
+      - `intermitter`
+        - 间歇抽油装置；间歇调节器
     - vi.
-      - `intermit` 中断
+      - `intermit`
+        - 中断
     - vt.
-      - `intermit` 使中断
+      - `intermit`
+        - 使中断
   - 近义词
-    - n. 幕间休息；暂停；中断
-      - `break`
-      - `hang`
+    - n.
+      - 幕间休息；暂停；中断
+        - `break`
+        - `hang`

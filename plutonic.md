@@ -1,16 +1,22 @@
 - plutonic
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - adj. 火成岩的
-    - `(of igneous rocks) derived from magma that has cooled and solidified below the surface of the earth `
+    - adj.
+      - 火成岩的
+        - `(of igneous rocks) derived from magma that has cooled and solidified below the surface of the earth `
   - 同根词
     - adj.
-      - `plutonian` 冥王星的；冥界的；深成岩的
+      - `plutonian`
+        - 冥王星的；冥界的；深成岩的
     - n.
-      - `pluto` 冥王；冥王星
-      - `pluton` [地质] 深成岩体
+      - `pluto`
+        - 冥王；冥王星
+      - `pluton`
+        - [地质] 深成岩体
   - 例句
     - `It provides collection of images of minerals in thin sections, and microtextures of plutonic , volcanic and metamorphic rocks.`
       - 网站提供了大量的矿物薄截面、火成岩、火山岩以及变质岩显微质地的图片。

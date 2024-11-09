@@ -1,15 +1,19 @@
 - abalone
   - 发音
-    - 英 `/,æbə'ləʊnɪ/`
-    - 美 `/,æbə'loni/`
+    - 英
+      - `/,æbə'ləʊnɪ/`
+    - 美
+      - `/,æbə'loni/`
   - 词义
-    - n. [动]鲍鱼(软体动物)
-    - `a kind of  shellfish  which is used as food and whose shell contains  mother-of-pearl `
+    - n.
+      - [动]鲍鱼(软体动物)
+        - `a kind of  shellfish  which is used as food and whose shell contains  mother-of-pearl `
   - 近义词
-    - n. [无脊椎]鲍鱼
-      - `paua`
-      - `ormer`
-      - `sea-ear`
+    - n.
+      - [无脊椎]鲍鱼
+        - `paua`
+        - `ormer`
+        - `sea-ear`
   - 例句
     - `The highly reflective surface and the abalone shell made this photograph a real challenge to take.`
       - 高度反光的表面和鲍鱼壳使这张照片的拍摄成为真正的挑战。

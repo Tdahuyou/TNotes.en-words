@@ -1,13 +1,17 @@
 - relievo
   - 发音
-    - 英 `/rɪ'liːvəʊ/`
-    - 美 `/rɪl'jɛvo/`
+    - 英
+      - `/rɪ'liːvəʊ/`
+    - 美
+      - `/rɪl'jɛvo/`
   - 词义
-    - n. 浮雕
+    - n.
+      - 浮雕
   - 近义词
-    - n. 浮雕；浮雕品
-      - `embossing`
-      - `rilievo`
+    - n.
+      - 浮雕；浮雕品
+        - `embossing`
+        - `rilievo`
   - 例句
     - `The snow reprints it as it were in clear white type alto-relievo.`
       - 可以说，雪花用清晰的白色的浮雕又把它印刷出来了。

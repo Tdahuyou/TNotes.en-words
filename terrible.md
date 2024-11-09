@@ -1,35 +1,45 @@
 - terrible
   - 发音
-    - 英 `/ˈterəbl/`
-    - 美 `/'tɛrəbl/`
+    - 英
+      - `/ˈterəbl/`
+    - 美
+      - `/'tɛrəbl/`
   - 词义
-    - adj. 使人烦恼的；可怕的
-    - `making you feel afraid or shocked`
+    - adj.
+      - 使人烦恼的；可怕的
+        - `making you feel afraid or shocked`
   - 同根词
     - adj.
-      - `terrific` 极好的；极其的，非常的；可怕的
+      - `terrific`
+        - 极好的；极其的，非常的；可怕的
     - adv.
-      - `terribly` 非常；可怕地；极度地
-      - `terrifically` 极端地；可怕地；非常地
+      - `terribly`
+        - 非常；可怕地；极度地
+      - `terrifically`
+        - 极端地；可怕地；非常地
     - n.
-      - `terribleness` 可怕
+      - `terribleness`
+        - 可怕
   - 近义词
-    - adj. 可怕的；很糟的；令人讨厌的
-      - `horrible`
-      - `awesome`
-      - `fearful`
-      - `dire`
-      - `formidable`
-    - adv. 很，非常
-      - `greatly`
-      - `quite`
-      - `badly`
-      - `extremely`
-      - `too`
-      - `highly`
-      - `far`
+    - adj.
+      - 可怕的；很糟的；令人讨厌的
+        - `horrible`
+        - `awesome`
+        - `fearful`
+        - `dire`
+        - `formidable`
+    - adv.
+      - 很，非常
+        - `greatly`
+        - `quite`
+        - `badly`
+        - `extremely`
+        - `too`
+        - `highly`
+        - `far`
   - 短语
-    - `feel terrible` 感觉不舒服 
+    - `feel terrible`
+      - 感觉不舒服 
   - 例句
     - `There was a terrible noise and the roof caved in.`
       - 随着一阵可怕的响声，房顶坍塌了。

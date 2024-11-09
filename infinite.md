@@ -1,40 +1,60 @@
 - infinite
   - 发音
-    - 英 `/'ɪnfɪnət/`
-    - 美 `/'ɪnfɪnət/`
+    - 英
+      - `/'ɪnfɪnət/`
+    - 美
+      - `/'ɪnfɪnət/`
   - 词义
-    - adj. 无限的，无穷的
-    - `without limits in space or time`
+    - adj.
+      - 无限的，无穷的
+        - `without limits in space or time`
   - 同根词
     - adj.
-      - `infinitive` 不定式的
-      - `infinitesimal` 无穷小的；无限小的；极小的
+      - `infinitive`
+        - 不定式的
+      - `infinitesimal`
+        - 无穷小的；无限小的；极小的
     - adv.
-      - `infinitely` 无限地；极其
+      - `infinitely`
+        - 无限地；极其
     - n.
-      - `infinity` 无穷；无限大；无限距
-      - `infinitive` 不定式
-      - `infinitesimal` 无限小；极微量；极小量
-      - `infinitude` 无限；无穷
-      - `infiniteness` 无限；无限性
+      - `infinity`
+        - 无穷；无限大；无限距
+      - `infinitive`
+        - 不定式
+      - `infinitesimal`
+        - 无限小；极微量；极小量
+      - `infinitude`
+        - 无限；无穷
+      - `infiniteness`
+        - 无限；无限性
   - 近义词
-    - adj. 无限的，[数]无穷的；无数的；极大的
-      - `huge`
-      - `tremendous`
-      - `thousand`
-      - `million`
-      - `boundless`
-    - n. 无限；[数]无穷大；无限的东西（如空间，时间）
-      - `Mugen`
-      - `immenseness`
+    - adj.
+      - 无限的，[数]无穷的；无数的；极大的
+        - `huge`
+        - `tremendous`
+        - `thousand`
+        - `million`
+        - `boundless`
+    - n.
+      - 无限；[数]无穷大；无限的东西（如空间，时间）
+        - `Mugen`
+        - `immenseness`
   - 短语
-    - `infinite loop` 无限循环 
-    - `infinite space` 无限空间 
-    - `infinite variety` 多种多样 
-    - `infinite bus` 无限大容量母线；无限汇流排 
-    - `infinite dimensional` 无限维的 
-    - `infinite medium` 无限介质，无限媒质 
-    - `infinite distance` 无限远距离，无穷远 
+    - `infinite loop`
+      - 无限循环 
+    - `infinite space`
+      - 无限空间 
+    - `infinite variety`
+      - 多种多样 
+    - `infinite bus`
+      - 无限大容量母线；无限汇流排 
+    - `infinite dimensional`
+      - 无限维的 
+    - `infinite medium`
+      - 无限介质，无限媒质 
+    - `infinite distance`
+      - 无限远距离，无穷远 
   - 例句
     - `The universe is infinite.`
       - 宇宙是无限的。

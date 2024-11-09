@@ -1,20 +1,27 @@
 - circus
   - 发音
-    - 英 `/'sɜːkəs/`
-    - 美 `/'sɝkəs/`
+    - 英
+      - `/'sɜːkəs/`
+    - 美
+      - `/'sɝkəs/`
   - 词义
-    - n. 马戏团，马戏表演
-    - `a group of people and animals who travel to different places performing skilful tricks as entertainment`
+    - n.
+      - 马戏团，马戏表演
+        - `a group of people and animals who travel to different places performing skilful tricks as entertainment`
   - 记忆
     - circ(环绕) ＋ us → 环形广场
   - 近义词
-    - n. 马戏；马戏团
-      - `Circus Troupe`
-      - `Circus Charlie`
+    - n.
+      - 马戏；马戏团
+        - `Circus Troupe`
+        - `Circus Charlie`
   - 短语
-    - `piccadilly circus` 皮卡迪利广场（戏院及娱乐中心） 
-    - `circus wagon` 大篷车；（马戏团的）大篷车 
-    - `circus act` 马戏节目 
+    - `piccadilly circus`
+      - 皮卡迪利广场（戏院及娱乐中心） 
+    - `circus wagon`
+      - 大篷车；（马戏团的）大篷车 
+    - `circus act`
+      - 马戏节目 
   - 例句
     - `My real ambition was to work in a circus.`
       - 我真正的理想是去马戏团工作。

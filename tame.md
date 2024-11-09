@@ -1,28 +1,39 @@
 - tame
   - 发音
-    - 英 `/teɪm/`
-    - 美 `/teɪm/`
+    - 英
+      - `/teɪm/`
+    - 美
+      - `/teɪm/`
   - 词义
-    - adj. 驯服的；沉闷的，乏味的
-    - `dull and disappointing`
-    - vt. 驯化；控制并利用
-    - `If someone tames a wild animal or bird, they train it not to be afraid of humans and to do what they say`
+    - adj.
+      - 驯服的；沉闷的，乏味的
+        - `dull and disappointing`
+    - vt.
+      - 驯化；控制并利用
+        - `If someone tames a wild animal or bird, they train it not to be afraid of humans and to do what they say`
   - 同根词
     - adj.
-      - `tamable` 可驯服的
-      - `tameable` 可驯服的（等于tamable）
+      - `tamable`
+        - 可驯服的
+      - `tameable`
+        - 可驯服的（等于tamable）
     - adv.
-      - `tamely` 驯服地，温顺地；没骨气地
+      - `tamely`
+        - 驯服地，温顺地；没骨气地
     - n.
-      - `tamer` 驯服手
-      - `tameness` 温顺；驯服；开化
+      - `tamer`
+        - 驯服手
+      - `tameness`
+        - 温顺；驯服；开化
   - 近义词
-    - adj. 驯服的；平淡的；乏味的；顺从的
-      - `stupid`
-      - `docile`
-    - vt. 驯养；使变得平淡；制服
-      - `domesticate`
-      - `bring under`
+    - adj.
+      - 驯服的；平淡的；乏味的；顺从的
+        - `stupid`
+        - `docile`
+    - vt.
+      - 驯养；使变得平淡；制服
+        - `domesticate`
+        - `bring under`
   - 例句
     - `Most of the criticism has been pretty tame.`
       - 评论的大部分内容很乏味。

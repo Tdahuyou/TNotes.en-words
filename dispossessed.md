@@ -1,17 +1,23 @@
 - dispossessed
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - adj. 无依无靠的,被逐出的
+    - adj.
+      - 无依无靠的,被逐出的
   - 同根词
     - n.
-      - `dispossession` 剥夺；驱逐；强占不动产
+      - `dispossession`
+        - 剥夺；驱逐；强占不动产
     - vt.
-      - `dispossess` 剥夺；使失去；逐出；霸占
+      - `dispossess`
+        - 剥夺；使失去；逐出；霸占
   - 近义词
-    - adj. 被逐出的；无依无靠的；失去产业的
-      - `friendless`
+    - adj.
+      - 被逐出的；无依无靠的；失去产业的
+        - `friendless`
   - 例句
     - `He has been unjustly dispossessed of his country.`
       - 他被无理驱逐出国。

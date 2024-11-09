@@ -1,15 +1,19 @@
 - fridge
   - 发音
-    - 英 `/frɪdʒ/`
-    - 美 `/frɪdʒ/`
+    - 英
+      - `/frɪdʒ/`
+    - 美
+      - `/frɪdʒ/`
   - 词义
-    - n. 冰箱
-    - `a large piece of electrical kitchen equipment, used for keeping food and drinks cool`
+    - n.
+      - 冰箱
+        - `a large piece of electrical kitchen equipment, used for keeping food and drinks cool`
   - 记忆
     - 冰箱(fridge)里的格层像路桥(bridge)
   - 近义词
-    - n. 电冰箱
-      - `electric refrigerator`
+    - n.
+      - 电冰箱
+        - `electric refrigerator`
   - 例句
     - `It can be anything: spoiled milk from the back of your fridge right down to tar and feathers.`
       - 它可以是任何玩意儿：从你冰箱后面那些变质的牛奶到沥青和羽毛。

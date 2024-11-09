@@ -1,12 +1,16 @@
 - Cuban
   - 发音
-    - 英 `/undefined/`
-    - 美 `/'kju:bən/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/'kju:bən/`
   - 词义
-    - n. 古巴人
-    - `A Cuban is a Cuban citizen, or a person of Cuban origin`
-    - adj. 古巴(人)的
-    - `Cuban means belonging or relating to Cuba, or to its people or culture`
+    - n.
+      - 古巴人
+        - `A Cuban is a Cuban citizen, or a person of Cuban origin`
+    - adj.
+      - 古巴(人)的
+        - `Cuban means belonging or relating to Cuba, or to its people or culture`
   - 例句
     - `But he says pressure for broad reform on the next Cuban leader, from inside Cuba and outside, will grow.`
       - 可是他说，来自古巴境内和境外要求古巴下任领导人进行广泛改革的压力将会增加。

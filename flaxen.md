@@ -1,18 +1,24 @@
 - flaxen
   - 发音
-    - 英 `/'flæks(ə)n/`
-    - 美 `/undefined/`
+    - 英
+      - `/'flæks(ə)n/`
+    - 美
+      - `/undefined/`
   - 词义
-    - adj. 淡黄色的；亚麻的；亚麻色的
-    - `flaxen hair is light yellow in colour`
+    - adj.
+      - 淡黄色的；亚麻的；亚麻色的
+        - `flaxen hair is light yellow in colour`
   - 同根词
     - n.
-      - `flax` 亚麻；亚麻纤维；亚麻布；亚麻织品
-      - `flaxseed` 亚麻仁
+      - `flax`
+        - 亚麻；亚麻纤维；亚麻布；亚麻织品
+      - `flaxseed`
+        - 亚麻仁
   - 近义词
-    - adj. 淡黄色的；亚麻的；亚麻色的
-      - `creamcolored`
-      - `yellowish`
+    - adj.
+      - 淡黄色的；亚麻的；亚麻色的
+        - `creamcolored`
+        - `yellowish`
   - 例句
     - `Aunt Isabella sent papa a beautiful lock of his hair; it was lighter than mine--more flaxen, and quite as fine.`
       - 伊莎贝拉姑姑给过爸爸一绺他的美丽的头发；比我的头发颜色还浅——更淡黄些，而且也相当细。

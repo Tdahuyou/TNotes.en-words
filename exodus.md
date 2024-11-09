@@ -1,10 +1,13 @@
 - exodus
   - 发音
-    - 英 `/'eksədəs/`
-    - 美 `/'ɛksədəs/`
+    - 英
+      - `/'eksədəs/`
+    - 美
+      - `/'ɛksədəs/`
   - 词义
-    - n. 大批离去，成群外出
-    - `If there is an exodus of people from a place, a lot of people leave that place at the same time`
+    - n.
+      - 大批离去，成群外出
+        - `If there is an exodus of people from a place, a lot of people leave that place at the same time`
   - 记忆
     - ex(出) + od(路) + us → 走上外出的道路 → 大批离去
   - 例句

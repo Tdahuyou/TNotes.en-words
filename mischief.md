@@ -1,17 +1,23 @@
 - mischief
   - 发音
-    - 英 `/'mɪstʃɪf/`
-    - 美 `/'mɪstʃɪf/`
+    - 英
+      - `/'mɪstʃɪf/`
+    - 美
+      - `/'mɪstʃɪf/`
   - 词义
-    - n. 恶作剧；伤害；顽皮；不和
-    - `bad behaviour, especially by children, that causes trouble or damage, but no serious harm`
+    - n.
+      - 恶作剧；伤害；顽皮；不和
+        - `bad behaviour, especially by children, that causes trouble or damage, but no serious harm`
   - 近义词
-    - n. 恶作剧；伤害；顽皮；不和
-      - `harm`
-      - `trick`
+    - n.
+      - 恶作剧；伤害；顽皮；不和
+        - `harm`
+        - `trick`
   - 短语
-    - `up to mischief` 打算胡闹，捣乱 
-    - `keep out of mischief` 不胡闹，不搞恶作剧 
+    - `up to mischief`
+      - 打算胡闹，捣乱 
+    - `keep out of mischief`
+      - 不胡闹，不搞恶作剧 
   - 例句
     - `Now run along, and don’t get into mischief .`
       - 好了，走开，不要捣乱。

@@ -1,27 +1,42 @@
 - moderator
   - 发音
-    - 英 `/'mɒdəreɪtə/`
-    - 美 `/'mɑdəretɚ/`
+    - 英
+      - `/'mɒdəreɪtə/`
+    - 美
+      - `/'mɑdəretɚ/`
   - 词义
-    - n. 缓和剂
+    - n.
+      - 缓和剂
   - 同根词
     - adj.
-      - `moderate` 稳健的，温和的；适度的，中等的；有节制的
-      - `moderated` 慢化的，适中的
-      - `moderating` 减速的；慢化的
+      - `moderate`
+        - 稳健的，温和的；适度的，中等的；有节制的
+      - `moderated`
+        - 慢化的，适中的
+      - `moderating`
+        - 减速的；慢化的
     - n.
-      - `moderation` 适度；节制；温和；缓和
-      - `moderated` 指该讨论区设有信件区管理人
-      - `moderateness` 适度；温和；暖和（moderate的名词形式）
-      - `moderatorship` 仲裁；主席职权；仲裁人的职权；教政组织首脑的职权
+      - `moderation`
+        - 适度；节制；温和；缓和
+      - `moderated`
+        - 指该讨论区设有信件区管理人
+      - `moderateness`
+        - 适度；温和；暖和（moderate的名词形式）
+      - `moderatorship`
+        - 仲裁；主席职权；仲裁人的职权；教政组织首脑的职权
     - v.
-      - `moderated` 缓和，节制（moderate的过去分词）
-      - `moderating` 和缓；减轻；主持（moderate的ing形式）
+      - `moderated`
+        - 缓和，节制（moderate的过去分词）
+      - `moderating`
+        - 和缓；减轻；主持（moderate的ing形式）
     - vi.
-      - `moderate` 变缓和，变弱
+      - `moderate`
+        - 变缓和，变弱
     - vt.
-      - `moderate` 节制；减轻
+      - `moderate`
+        - 节制；减轻
   - 近义词
-    - n. [核]慢化剂；仲裁人；调解人；[助剂]缓和剂
-      - `daysman`
-      - `arbitrator`
+    - n.
+      - [核]慢化剂；仲裁人；调解人；[助剂]缓和剂
+        - `daysman`
+        - `arbitrator`

@@ -1,13 +1,17 @@
 - halite
   - 发音
-    - 英 `/'hælaɪt/`
-    - 美 `/'hælaɪt/`
+    - 英
+      - `/'hælaɪt/`
+    - 美
+      - `/'hælaɪt/`
   - 词义
-    - n. [化]岩盐
-    - `a colourless or white mineral sometimes tinted by impurities, found in beds as an evaporite. It is used to produce common salt and chlorine. Composition: sodium chloride. Formula: NaCl. Crystal structure: cubic `
+    - n.
+      - [化]岩盐
+        - `a colourless or white mineral sometimes tinted by impurities, found in beds as an evaporite. It is used to produce common salt and chlorine. Composition: sodium chloride. Formula: NaCl. Crystal structure: cubic `
   - 近义词
-    - n. 岩盐
-      - `rock salt`
+    - n.
+      - 岩盐
+        - `rock salt`
   - 例句
     - `Associated Minerals are halite , calcite , sulfur , pyrite , borax and many others.`
       - 伴生矿物是岩盐， 方解石， 硫， 硫铁矿， 硼砂和其他许多领域。

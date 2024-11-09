@@ -1,20 +1,30 @@
 - urbanize
   - 发音
-    - 英 `/'ɜːb(ə)naɪz/`
-    - 美 `/'ə:bənaiz/`
+    - 英
+      - `/'ɜːb(ə)naɪz/`
+    - 美
+      - `/'ə:bənaiz/`
   - 词义
-    - v. 使都市化,使文雅
-    - `to make (esp a predominantly rural area or country) more industrialized and urban `
+    - v.
+      - 使都市化,使文雅
+        - `to make (esp a predominantly rural area or country) more industrialized and urban `
   - 同根词
     - adj.
-      - `urban` 城市的；住在都市的
-      - `urbane` 彬彬有礼的，温文尔雅的；都市化的
-      - `urbanized` 城市化的
+      - `urban`
+        - 城市的；住在都市的
+      - `urbane`
+        - 彬彬有礼的，温文尔雅的；都市化的
+      - `urbanized`
+        - 城市化的
     - n.
-      - `urbanization` 都市化；文雅化
-      - `urbanity` 都市风格；雅致；有礼貌
+      - `urbanization`
+        - 都市化；文雅化
+      - `urbanity`
+        - 都市风格；雅致；有礼貌
     - v.
-      - `urbanized` 使城市化（urbanize的过去式）
+      - `urbanized`
+        - 使城市化（urbanize的过去式）
   - 近义词
-    - vt. 使都市化；使文雅
-      - `citify`
+    - vt.
+      - 使都市化；使文雅
+        - `citify`

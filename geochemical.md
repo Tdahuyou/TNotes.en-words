@@ -1,13 +1,19 @@
 - geochemical
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - adj. 地球化学的
+    - adj.
+      - 地球化学的
   - 短语
-    - `geochemical prospecting` 地球化学勘探 
-    - `geochemical anomaly` 地球化学异常，地化异常 
-    - `geochemical process` 地球化学酌；地球化学过程 
+    - `geochemical prospecting`
+      - 地球化学勘探 
+    - `geochemical anomaly`
+      - 地球化学异常，地化异常 
+    - `geochemical process`
+      - 地球化学酌；地球化学过程 
   - 例句
     - `But there’s very little doubt that if methane emissions are as large as this, there will be severe biological and geochemical impacts.`
       - 但有一点很肯定，如果甲烷排放量确实是如此大，必将产生严重的生物和地球化学影响。

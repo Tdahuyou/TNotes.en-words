@@ -1,21 +1,31 @@
 - numerology
   - 发音
-    - 英 `/,njuːmə'rɒlədʒɪ/`
-    - 美 `/,numə'rɑlədʒi/`
+    - 英
+      - `/,njuːmə'rɒlədʒɪ/`
+    - 美
+      - `/,numə'rɑlədʒi/`
   - 词义
-    - n. (根据出生日期等数字来解释人的性格或占卜祸福的)数字命理学
-    - `Numerology is the study of particular numbers, such as a person's date of birth, in the belief that they may have special significance in a person's life`
+    - n.
+      - (根据出生日期等数字来解释人的性格或占卜祸福的)数字命理学
+        - `Numerology is the study of particular numbers, such as a person's date of birth, in the belief that they may have special significance in a person's life`
   - 同根词
     - adj.
-      - `numerical` 数值的；数字的；用数字表示的（等于numeric）
-      - `numeric` 数值的（等于mumerical）；数字的
-      - `numeral` 数字的；表示数字的
+      - `numerical`
+        - 数值的；数字的；用数字表示的（等于numeric）
+      - `numeric`
+        - 数值的（等于mumerical）；数字的
+      - `numeral`
+        - 数字的；表示数字的
     - adv.
-      - `numerically` 数字上；用数字表示
+      - `numerically`
+        - 数字上；用数字表示
     - n.
-      - `numeric` 数；数字
-      - `numeral` 数字
-      - `numeration` 计算；数字的读法；[数] 命数法；编号
+      - `numeric`
+        - 数；数字
+      - `numeral`
+        - 数字
+      - `numeration`
+        - 计算；数字的读法；[数] 命数法；编号
   - 例句
     - `Still, Professor Carlson does concede there are two significant aspects about 11/11/11 that can be construed as lucky even by people like him who don't believe in numerology.`
       - 但卡尔森教授仍然勉强同意，甚至像他这样不相信数字命理学的人也得承认，这一天有两个可以称之为幸运的因素。

@@ -1,24 +1,33 @@
 - narrowly
   - 发音
-    - 英 `/'nærəʊlɪ/`
-    - 美 `/'næroli/`
+    - 英
+      - `/'nærəʊlɪ/`
+    - 美
+      - `/'næroli/`
   - 词义
-    - adv. 勉强地,精细地
-    - `by only a small amount`
+    - adv.
+      - 勉强地,精细地
+        - `by only a small amount`
   - 同根词
     - adj.
-      - `narrow` 狭窄的，有限的；勉强的；精密的；度量小的
+      - `narrow`
+        - 狭窄的，有限的；勉强的；精密的；度量小的
     - n.
-      - `narrow` 海峡；狭窄部分，隘路
-      - `narrowness` 狭小，狭窄；小气
+      - `narrow`
+        - 海峡；狭窄部分，隘路
+      - `narrowness`
+        - 狭小，狭窄；小气
     - vi.
-      - `narrow` 变窄
+      - `narrow`
+        - 变窄
     - vt.
-      - `narrow` 使变狭窄
+      - `narrow`
+        - 使变狭窄
   - 近义词
-    - adv. 仔细地；勉强地；狭窄地；严密地
-      - `closely`
-      - `grudgingly`
+    - adv.
+      - 仔细地；勉强地；狭窄地；严密地
+        - `closely`
+        - `grudgingly`
   - 例句
     - `He was narrowly defeated in the election.`
       - 他在选举中以微弱差距败北。

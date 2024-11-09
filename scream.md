@@ -1,29 +1,41 @@
 - scream
   - 发音
-    - 英 `/skriːm/`
-    - 美 `/skrim/`
+    - 英
+      - `/skriːm/`
+    - 美
+      - `/skrim/`
   - 词义
-    - v. /n尖声叫,尖叫声
-    - `to make a loud high noise with your voice because you are hurt, frightened, excited etc`
+    - v.
+      - /n尖声叫,尖叫声
+        - `to make a loud high noise with your voice because you are hurt, frightened, excited etc`
   - 同根词
     - adj.
-      - `screaming` 尖叫的；使人惊叹的；使人捧腹大笑的
+      - `screaming`
+        - 尖叫的；使人惊叹的；使人捧腹大笑的
     - adv.
-      - `screamingly` 尖叫地；令人惊愕地
+      - `screamingly`
+        - 尖叫地；令人惊愕地
     - n.
-      - `screaming` 尖叫声；啸声；振动
-      - `screamer` 尖声叫喊的人；令人惊叹的事；惊叹符号；耸人听闻的标题
+      - `screaming`
+        - 尖叫声；啸声；振动
+      - `screamer`
+        - 尖声叫喊的人；令人惊叹的事；惊叹符号；耸人听闻的标题
     - v.
-      - `screaming` 尖叫；大笑；呼啸着前进（scream的ing形式）
+      - `screaming`
+        - 尖叫；大笑；呼啸着前进（scream的ing形式）
   - 近义词
-    - vi. 尖叫；呼啸；发出尖锐刺耳的声音；令人触目惊心
-      - `pipe`
-      - `shriek`
-    - n. 尖叫声；尖锐刺耳的声音；极其滑稽可笑的人
-      - `squeal`
+    - vi.
+      - 尖叫；呼啸；发出尖锐刺耳的声音；令人触目惊心
+        - `pipe`
+        - `shriek`
+    - n.
+      - 尖叫声；尖锐刺耳的声音；极其滑稽可笑的人
+        - `squeal`
   - 短语
-    - `scream for` 强烈要求；为…而尖叫 
-    - `scream out` 大叫；尖声喊叫 
+    - `scream for`
+      - 强烈要求；为…而尖叫 
+    - `scream out`
+      - 大叫；尖声喊叫 
   - 例句
     - `After the first few shots, people started screaming.`
       - 几声枪响过后，人们开始尖叫起来。

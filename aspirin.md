@@ -1,16 +1,21 @@
 - aspirin
   - 发音
-    - 英 `/'æsp(ə)rɪn/`
-    - 美 `/'æsprɪn/`
+    - 英
+      - `/'æsp(ə)rɪn/`
+    - 美
+      - `/'æsprɪn/`
   - 词义
-    - n. 阿司匹林（解热镇痛药）
-    - `a medicine that reduces pain,  inflammation  , and fever`
+    - n.
+      - 阿司匹林（解热镇痛药）
+        - `a medicine that reduces pain,  inflammation  , and fever`
   - 近义词
-    - n. [药]阿司匹林（解热镇痛药）
-      - `Asprin`
-      - `acetylsalicylic acid`
+    - n.
+      - [药]阿司匹林（解热镇痛药）
+        - `Asprin`
+        - `acetylsalicylic acid`
   - 短语
-    - `take an aspirin` 吃一片阿司匹林 
+    - `take an aspirin`
+      - 吃一片阿司匹林 
   - 例句
     - `The nurse dosed the patient with aspirin.`
       - 护士给病人服阿司匹林。

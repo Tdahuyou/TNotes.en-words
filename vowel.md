@@ -1,17 +1,23 @@
 - vowel
   - 发音
-    - 英 `/'vaʊəl/`
-    - 美 `/'vaʊəl/`
+    - 英
+      - `/'vaʊəl/`
+    - 美
+      - `/'vaʊəl/`
   - 词义
-    - n&a. 元音(的)
-    - `one of the human speech sounds that you make by letting your breath flow out without closing any part of your mouth or throat`
+    - n&a.
+      - 元音(的)
+        - `one of the human speech sounds that you make by letting your breath flow out without closing any part of your mouth or throat`
   - 近义词
-    - n. [语]元音；母音
-      - `vocal`
-    - adj. [语]元音的
-      - `vocalic`
+    - n.
+      - [语]元音；母音
+        - `vocal`
+    - adj.
+      - [语]元音的
+        - `vocalic`
   - 短语
-    - `vowel sound` 元音声 
+    - `vowel sound`
+      - 元音声 
   - 例句
     - `But he could say vowel clearly and began to learn vocabulary.`
       - 但是他已经能清楚地说元音并开始学习词汇。

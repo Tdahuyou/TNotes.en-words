@@ -1,10 +1,13 @@
 - iridium
   - 发音
-    - 英 `/ɪ'rɪdɪəm; aɪ-/`
-    - 美 `/ɪ'rɪdɪəm/`
+    - 英
+      - `/ɪ'rɪdɪəm; aɪ-/`
+    - 美
+      - `/ɪ'rɪdɪəm/`
   - 词义
-    - n. [化]铱
-    - `a hard and very heavy metal that is combined with  platinum  to make jewellery and is used in scientific instruments. It is a chemical  element  : symbol Ir`
+    - n.
+      - [化]铱
+        - `a hard and very heavy metal that is combined with  platinum  to make jewellery and is used in scientific instruments. It is a chemical  element  : symbol Ir`
   - 例句
     - `Analyzing the fossils at this small site, they counted 52 distinct species just below the iridium layer.`
       - 他们分析了这个小地区的化石层，一共计算了在铱层下面的52个不同物种。

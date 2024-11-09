@@ -1,12 +1,16 @@
 - Dutchman
   - 发音
-    - 英 `/'dʌtʃmən/`
-    - 美 `/'dʌtʃmən/`
+    - 英
+      - `/'dʌtʃmən/`
+    - 美
+      - `/'dʌtʃmən/`
   - 词义
-    - n. 荷兰人
-    - `a man from the Netherlands`
+    - n.
+      - 荷兰人
+        - `a man from the Netherlands`
   - 短语
-    - `flying dutchman` 飞翔的荷兰人；大直径单烘缸；侧引滑车 
+    - `flying dutchman`
+      - 飞翔的荷兰人；大直径单烘缸；侧引滑车 
   - 例句
     - `The average Dutchman pedals 541 miles per year.`
       - 荷兰人平均每人每年骑车541英里。

@@ -1,10 +1,13 @@
 - tryptophan
   - 发音
-    - 英 `/'trɪptəfæn/`
-    - 美 `/'trɪptə,fæn/`
+    - 英
+      - `/'trɪptəfæn/`
+    - 美
+      - `/'trɪptə,fæn/`
   - 词义
-    - n. [生化]色氨酸
-    - `an essential amino acid; a component of proteins necessary for growth `
+    - n.
+      - [生化]色氨酸
+        - `an essential amino acid; a component of proteins necessary for growth `
   - 例句
     - `She rates dozens of foods for their levels of tryptophan.`
       - 她对数十种食物的色氨酸水平进行了估计。

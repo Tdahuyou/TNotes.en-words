@@ -1,19 +1,27 @@
 - monochrome
   - 发音
-    - 英 `/'mɒnəkrəʊm; mɒnə(ʊ)'krəʊm/`
-    - 美 `/'mɑnəkrom/`
+    - 英
+      - `/'mɒnəkrəʊm; mɒnə(ʊ)'krəʊm/`
+    - 美
+      - `/'mɑnəkrom/`
   - 词义
-    - n. 单色单色的
+    - n.
+      - 单色单色的
   - 同根词
     - adj.
-      - `monochromatic` 单色的
-      - `monochromic` 单色的
+      - `monochromatic`
+        - 单色的
+      - `monochromic`
+        - 单色的
     - n.
-      - `monochromatism` [眼科] 全色盲；单色视觉
+      - `monochromatism`
+        - [眼科] 全色盲；单色视觉
   - 近义词
-    - n. [光]单色；单色画
-      - `homochromatism`
-      - `solid color`
-    - adj. [光]单色的；黑白的
-      - `unicolor`
-      - `homochromous`
+    - n.
+      - [光]单色；单色画
+        - `homochromatism`
+        - `solid color`
+    - adj.
+      - [光]单色的；黑白的
+        - `unicolor`
+        - `homochromous`

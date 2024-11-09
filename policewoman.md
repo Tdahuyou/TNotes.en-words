@@ -1,10 +1,13 @@
 - policewoman
   - 发音
-    - 英 `/pə'liːswʊmən/`
-    - 美 `/pə'liswʊmən/`
+    - 英
+      - `/pə'liːswʊmən/`
+    - 美
+      - `/pə'liswʊmən/`
   - 词义
-    - n. 女警察；女警官
-    - `a female police officer`
+    - n.
+      - 女警察；女警官
+        - `a female police officer`
   - 例句
     - `IS that policewoman short or tall?`
       - 那个女警察是矮还是高？

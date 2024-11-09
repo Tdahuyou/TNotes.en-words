@@ -1,28 +1,38 @@
 - biased
   - 发音
-    - 英 `/'baiəst/`
-    - 美 `/'baɪəst/`
+    - 英
+      - `/'baiəst/`
+    - 美
+      - `/'baɪəst/`
   - 词义
-    - adj. 有偏见的
-    - `unfairly preferring one person or group over another`
+    - adj.
+      - 有偏见的
+        - `unfairly preferring one person or group over another`
   - 记忆
     - bias (偏见； 偏爱) + ed → 有偏的
   - 同根词
     - adj.
-      - `bias` 偏斜的
+      - `bias`
+        - 偏斜的
     - adv.
-      - `bias` 偏斜地
+      - `bias`
+        - 偏斜地
     - n.
-      - `bias` 偏见；偏爱；斜纹；乖离率
+      - `bias`
+        - 偏见；偏爱；斜纹；乖离率
     - vt.
-      - `bias` 使存偏见
+      - `bias`
+        - 使存偏见
   - 近义词
-    - adj. 有偏见的；结果偏倚的，有偏的
-      - `tendentious`
-      - `jaundiced`
+    - adj.
+      - 有偏见的；结果偏倚的，有偏的
+        - `tendentious`
+        - `jaundiced`
   - 短语
-    - `reverse biased` 反向偏压；反向偏置的 
-    - `biased estimate` 偏差估计 
+    - `reverse biased`
+      - 反向偏压；反向偏置的 
+    - `biased estimate`
+      - 偏差估计 
   - 例句
     - `Of course I’m biased, but I thought my daughter’s paintings were the best.`
       - 当然我有偏心，但我还是认为我女儿的画最好。

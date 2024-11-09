@@ -1,13 +1,17 @@
 - delitescence
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 潜伏期
+    - n.
+      - 潜伏期
   - 近义词
-    - n. 潜伏期；潜伏
-      - `dormant period`
-      - `latency period`
+    - n.
+      - 潜伏期；潜伏
+        - `dormant period`
+        - `latency period`
   - 例句
     - `The result showed: The capsule can obviously decrease the vomiting times and delay the vomiting delitescence (P<0.05, P<0.01 ) .`
       - 结果表明该药可明显减少左旋多巴所致狗和硫酸铜所致家鸽呕吐次数，延长呕吐潜伏期（P＜0.05，P＜0.01）；

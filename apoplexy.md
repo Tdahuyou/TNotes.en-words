@@ -1,20 +1,27 @@
 - apoplexy
   - 发音
-    - 英 `/'æpəpleksɪ/`
-    - 美 `/'æpəplɛksi/`
+    - 英
+      - `/'æpəpleksɪ/`
+    - 美
+      - `/'æpəplɛksi/`
   - 词义
-    - n. [医]中风
-    - `an illness in your brain which causes you to suddenly lose your ability to move or think`
+    - n.
+      - [医]中风
+        - `an illness in your brain which causes you to suddenly lose your ability to move or think`
   - 同根词
     - adj.
-      - `apoplectic` 中风的；易怒的
+      - `apoplectic`
+        - 中风的；易怒的
     - n.
-      - `apoplectic` 中风患者
+      - `apoplectic`
+        - 中风患者
   - 近义词
-    - n. [医]中风
-      - `stroke`
+    - n.
+      - [医]中风
+        - `stroke`
   - 短语
-    - `cerebral apoplexy` 脑溢血 
+    - `cerebral apoplexy`
+      - 脑溢血 
   - 例句
     - `Friedrich Wilhelm Nietzsche, the philosopher, died here today of apoplexy.`
       - 温芝元  译 魏玛，8月25日电  哲学家弗里德里希·威廉·尼采今天于魏玛因中风不幸身亡。

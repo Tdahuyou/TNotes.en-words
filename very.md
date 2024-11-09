@@ -1,33 +1,48 @@
 - very
   - 发音
-    - 英 `/'verɪ/`
-    - 美 `/ˈvɛrɪ/`
+    - 英
+      - `/'verɪ/`
+    - 美
+      - `/ˈvɛrɪ/`
   - 词义
-    - adv. 很，非常
-    - `used to emphasize an adjective, adverb, or phrase`
+    - adv.
+      - 很，非常
+        - `used to emphasize an adjective, adverb, or phrase`
   - 近义词
-    - adj. 恰好是，正是；甚至；十足的；特有的
-      - `typical`
-      - `characteristic`
-      - `proper`
-      - `own`
-    - adv. 非常，很；完全
-      - `badly`
-      - `extremely`
-      - `greatly`
-      - `highly`
-      - `too`
+    - adj.
+      - 恰好是，正是；甚至；十足的；特有的
+        - `typical`
+        - `characteristic`
+        - `proper`
+        - `own`
+    - adv.
+      - 非常，很；完全
+        - `badly`
+        - `extremely`
+        - `greatly`
+        - `highly`
+        - `too`
   - 短语
-    - `thank you very much` 非常感谢 
-    - `from the very beginning` adv. 从最初开始（首先） 
-    - `at the very beginning` 最初；就在刚刚开始；在刚开始的时候；起初；在一开始 
-    - `at the very least` 至少；起码；一点 
-    - `at this very moment` 此时此刻 
-    - `all very well` 顶好 
-    - `be very popular` 非常受欢迎 
-    - `at the very start` 一开始 
-    - `very much so` adv. 正是这样；无疑 
-    - `very beautiful flowers` 姹紫嫣红 
+    - `thank you very much`
+      - 非常感谢 
+    - `from the very beginning`
+      - adv. 从最初开始（首先） 
+    - `at the very beginning`
+      - 最初；就在刚刚开始；在刚开始的时候；起初；在一开始 
+    - `at the very least`
+      - 至少；起码；一点 
+    - `at this very moment`
+      - 此时此刻 
+    - `all very well`
+      - 顶好 
+    - `be very popular`
+      - 非常受欢迎 
+    - `at the very start`
+      - 一开始 
+    - `very much so`
+      - adv. 正是这样；无疑 
+    - `very beautiful flowers`
+      - 姹紫嫣红 
   - 例句
     - `It feels very cold today.`
       - 今天很冷。

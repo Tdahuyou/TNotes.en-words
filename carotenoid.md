@@ -1,10 +1,13 @@
 - carotenoid
   - 发音
-    - 英 `/kə'rɒtɪnɒɪd/`
-    - 美 `/kə'rɑtn,ɔɪd/`
+    - 英
+      - `/kə'rɒtɪnɒɪd/`
+    - 美
+      - `/kə'rɑtn,ɔɪd/`
   - 词义
-    - n. 类胡萝卜素
-    - `any of a group of red or yellow pigments, including carotenes, found in plants and certain animal tissues `
+    - n.
+      - 类胡萝卜素
+        - `any of a group of red or yellow pigments, including carotenes, found in plants and certain animal tissues `
   - 例句
     - `Lutein is one that's a bright yellow. And lycopene is the carotenoid that makes tomatoes red.`
       - 叶黄素就是其中一种鲜明的黄色，而番茄红素是一种使得西红柿变红的类胡萝卜素。

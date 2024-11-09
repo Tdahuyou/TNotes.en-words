@@ -1,24 +1,33 @@
 - bribery
   - 发音
-    - 英 `/'braɪbərɪ/`
-    - 美 `/'braɪbəri/`
+    - 英
+      - `/'braɪbərɪ/`
+    - 美
+      - `/'braɪbəri/`
   - 词义
-    - n. [法]贿赂；受贿；行贿
-    - `the act of giving bribes`
+    - n.
+      - [法]贿赂；受贿；行贿
+        - `the act of giving bribes`
   - 同根词
     - adj.
-      - `bribable` 可收买的，可贿赂的
+      - `bribable`
+        - 可收买的，可贿赂的
     - n.
-      - `bribe` 贿赂
-      - `briber` [法] 行贿者
+      - `bribe`
+        - 贿赂
+      - `briber`
+        - [法] 行贿者
     - vi.
-      - `bribe` 行贿
+      - `bribe`
+        - 行贿
     - vt.
-      - `bribe` 贿赂，收买
+      - `bribe`
+        - 贿赂，收买
   - 近义词
-    - n. [法]贿赂；受贿；行贿
-      - `fix`
-      - `golden key`
+    - n.
+      - [法]贿赂；受贿；行贿
+        - `fix`
+        - `golden key`
   - 例句
     - `We tried everything – persuasion, bribery, threats.`
       - 我们什么都试过——劝过，给过好处，也威胁过。

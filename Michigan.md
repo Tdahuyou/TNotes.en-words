@@ -1,12 +1,17 @@
 - Michigan
   - 发音
-    - 英 `/'miʃigən/`
-    - 美 `/'miʃigən/`
+    - 英
+      - `/'miʃigən/`
+    - 美
+      - `/'miʃigən/`
   - 词义
-    - n. 密歇根州(美国州名)
+    - n.
+      - 密歇根州(美国州名)
   - 短语
-    - `university of michigan` 密歇根大学 
-    - `michigan state university` 密歇根州立大学 
+    - `university of michigan`
+      - 密歇根大学 
+    - `michigan state university`
+      - 密歇根州立大学 
   - 例句
     - `He quotes some students from the University of Michigan.`
       - 他引述了几位密歇根大学学生的话。

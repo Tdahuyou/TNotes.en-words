@@ -1,16 +1,22 @@
 - be
   - 发音
-    - 英 `/biː/`
-    - 美 `/bi/`
+    - 英
+      - `/biː/`
+    - 美
+      - `/bi/`
   - 词义
-    - v. 和现在分词构成动词的进行时态
-    - `used with a present participle to form the  continuous 4  tenses of verbs`
+    - v.
+      - 和现在分词构成动词的进行时态
+        - `used with a present participle to form the  continuous 4  tenses of verbs`
   - 近义词
-    - prep. 在，存在；是
-      - `at`
+    - prep.
+      - 在，存在；是
+        - `at`
   - 短语
-    - `so be it` 诚心所愿；顺其自然 
-    - `let be` 听任；不干涉，不打扰 
+    - `so be it`
+      - 诚心所愿；顺其自然 
+    - `let be`
+      - 听任；不干涉，不打扰 
   - 例句
     - `Don’t disturb me while I’m working.`
       - 我工作的时候不要打扰我。

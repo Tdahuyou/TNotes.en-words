@@ -1,18 +1,25 @@
 - pensioner
   - 发音
-    - 英 `/'penʃ(ə)nə/`
-    - 美 `/'pɛnʃənɚ/`
+    - 英
+      - `/'penʃ(ə)nə/`
+    - 美
+      - `/'pɛnʃənɚ/`
   - 词义
-    - n. 领取养老金者
-    - `someone who receives a pension`
+    - n.
+      - 领取养老金者
+        - `someone who receives a pension`
   - 同根词
     - adj.
-      - `pensionable` 有资格领退休金的；可领退休金的
+      - `pensionable`
+        - 有资格领退休金的；可领退休金的
     - n.
-      - `pension` 退休金，抚恤金；津贴；膳宿费
-      - `pensione` （意）家庭式旅馆；膳宿公寓；寄宿学校
+      - `pension`
+        - 退休金，抚恤金；津贴；膳宿费
+      - `pensione`
+        - （意）家庭式旅馆；膳宿公寓；寄宿学校
     - vt.
-      - `pension` 发给养老金或抚恤金
+      - `pension`
+        - 发给养老金或抚恤金
   - 例句
     - `old age pensioners`
       - 领取养老金[退休金]的老人

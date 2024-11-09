@@ -1,28 +1,37 @@
 - considerable
   - 发音
-    - 英 `/kən'sɪd(ə)rəb(ə)l/`
-    - 美 `/kən'sɪdərəbl/`
+    - 英
+      - `/kən'sɪd(ə)rəb(ə)l/`
+    - 美
+      - `/kən'sɪdərəbl/`
   - 词义
-    - adj. 重要的,相当大的,可观的
-    - `fairly large, especially large enough to have an effect or be important`
+    - adj.
+      - 重要的,相当大的,可观的
+        - `fairly large, especially large enough to have an effect or be important`
   - 同根词
     - adj.
-      - `considered` 经过深思熟虑的；被尊重的
+      - `considered`
+        - 经过深思熟虑的；被尊重的
     - adv.
-      - `considerably` 相当地；非常地
+      - `considerably`
+        - 相当地；非常地
     - n.
-      - `consideration` 考虑；原因；关心；报酬
+      - `consideration`
+        - 考虑；原因；关心；报酬
     - vi.
-      - `consider` 考虑；认为；细想
+      - `consider`
+        - 考虑；认为；细想
     - vt.
-      - `consider` 考虑；认为；考虑到；细想
+      - `consider`
+        - 考虑；认为；考虑到；细想
   - 近义词
-    - adj. 相当大的；重要的，值得考虑的
-      - `crucial`
-      - `important`
-      - `material`
-      - `big`
-      - `major`
+    - adj.
+      - 相当大的；重要的，值得考虑的
+        - `crucial`
+        - `important`
+        - `material`
+        - `big`
+        - `major`
   - 例句
     - `Michael has already spent considerable time in Barcelona.`
       - 迈克尔在巴塞罗那已经待了相当长的时间了。

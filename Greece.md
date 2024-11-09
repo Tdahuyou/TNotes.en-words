@@ -1,11 +1,15 @@
 - Greece
   - 发音
-    - 英 `/undefined/`
-    - 美 `/ɡriːs/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/ɡriːs/`
   - 词义
-    - n. 希腊
+    - n.
+      - 希腊
   - 短语
-    - `ancient greece` 古希腊 
+    - `ancient greece`
+      - 古希腊 
   - 例句
     - `Alexander the Great beat every opponent between Greece and India.`
       - 亚历山大大帝打败了希腊和印度之间的每个敌手。

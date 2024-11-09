@@ -1,18 +1,24 @@
 - suffix
   - 发音
-    - 英 `/'sʌfɪks/`
-    - 美 `/'sʌfɪks/`
+    - 英
+      - `/'sʌfɪks/`
+    - 美
+      - `/'sʌfɪks/`
   - 词义
-    - v. 添后缀
-    - n. 后缀；下标
-    - `a letter or letters added to the end of a word to form a new word, such as ‘ness’ in ‘kindness’ or ‘ly’ in ‘suddenly’`
+    - v.
+      - 添后缀
+    - n.
+      - 后缀；下标
+        - `a letter or letters added to the end of a word to form a new word, such as ‘ness’ in ‘kindness’ or ‘ly’ in ‘suddenly’`
   - 同根词
     - n.
-      - `suffixation` 加后缀；加词尾
+      - `suffixation`
+        - 加后缀；加词尾
   - 近义词
-    - n. [语]后缀；下标
-      - `sufix`
-      - `postfix`
+    - n.
+      - [语]后缀；下标
+        - `sufix`
+        - `postfix`
   - 例句
     - `Otherwise, the suffix will not be added.`
       - 否则，后缀将不会被添加。

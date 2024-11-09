@@ -1,11 +1,15 @@
 - helmsman
   - 发音
-    - 英 `/'helmzmən/`
-    - 美 `/'hɛlmzmən/`
+    - 英
+      - `/'helmzmən/`
+    - 美
+      - `/'hɛlmzmən/`
   - 词义
-    - n. 舵手
-    - `someone who guides a ship or boat`
+    - n.
+      - 舵手
+        - `someone who guides a ship or boat`
   - 近义词
-    - n. 舵手
-      - `timoneer`
-      - `steersman`
+    - n.
+      - 舵手
+        - `timoneer`
+        - `steersman`

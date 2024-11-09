@@ -1,33 +1,47 @@
 - brute
   - 发音
-    - 英 `/bruːt/`
-    - 美 `/brut/`
+    - 英
+      - `/bruːt/`
+    - 美
+      - `/brut/`
   - 词义
-    - adj. 残忍的；无理性的
-    - n. 畜生；残暴的人
-    - `a man who is cruel, violent, and not sensitive`
+    - adj.
+      - 残忍的；无理性的
+    - n.
+      - 畜生；残暴的人
+        - `a man who is cruel, violent, and not sensitive`
   - 同根词
     - adj.
-      - `brutal` 残忍的；野蛮的，不讲理的
-      - `brutish` 粗野的；残忍的；野兽般的
+      - `brutal`
+        - 残忍的；野蛮的，不讲理的
+      - `brutish`
+        - 粗野的；残忍的；野兽般的
     - adv.
-      - `brutally` 残忍地；野蛮地；兽性地
-      - `brutishly` 残酷地；粗野地
+      - `brutally`
+        - 残忍地；野蛮地；兽性地
+      - `brutishly`
+        - 残酷地；粗野地
     - n.
-      - `brutalization` 兽性；残酷
+      - `brutalization`
+        - 兽性；残酷
     - vi.
-      - `brutalize` 变粗暴；变残忍
+      - `brutalize`
+        - 变粗暴；变残忍
     - vt.
-      - `brutalize` 残酷地对待；使像野兽般残忍，使变得残酷无情
+      - `brutalize`
+        - 残酷地对待；使像野兽般残忍，使变得残酷无情
   - 近义词
-    - adj. 残忍的；无理性的
-      - `cruel`
-      - `ferocious`
-    - n. 畜生；残暴的人
-      - `beast`
-      - `subman`
+    - adj.
+      - 残忍的；无理性的
+        - `cruel`
+        - `ferocious`
+    - n.
+      - 畜生；残暴的人
+        - `beast`
+        - `subman`
   - 短语
-    - `brute force` 强力 
+    - `brute force`
+      - 强力 
   - 例句
     - `The brute fact is that the situation will not improve.`
       - 情况不会好转，这是赤裸裸的事实。

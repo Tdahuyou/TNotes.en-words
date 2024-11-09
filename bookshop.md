@@ -1,13 +1,17 @@
 - bookshop
   - 发音
-    - 英 `/'bʊkʃɒp/`
-    - 美 `/'bʊkʃɑp/`
+    - 英
+      - `/'bʊkʃɒp/`
+    - 美
+      - `/'bʊkʃɑp/`
   - 词义
-    - n. 书店
-    - `a shop that sells books`
+    - n.
+      - 书店
+        - `a shop that sells books`
   - 近义词
-    - n. [贸易]书店
-      - `libraire`
+    - n.
+      - [贸易]书店
+        - `libraire`
   - 例句
     - `His friends live above the bookshop.`
       - 他的朋友们住在书店的楼上。

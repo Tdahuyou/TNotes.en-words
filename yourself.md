@@ -1,16 +1,22 @@
 - yourself
   - 发音
-    - 英 `/jɔː'self; jʊə-; jə-/`
-    - 美 `/jɔr'sɛlf/`
+    - 英
+      - `/jɔː'self; jʊə-; jə-/`
+    - 美
+      - `/jɔr'sɛlf/`
   - 词义
-    - pron. (pl.yourselves)你自己
-    - `used when talking to someone to show that they are affected by their own action`
+    - pron.
+      - (pl.yourselves)你自己
+        - `used when talking to someone to show that they are affected by their own action`
   - 记忆
     - your(你的)+self(自己)→你自己
   - 短语
-    - `for yourself` 为你自己 
-    - `by yourself` 独自地，单独地 
-    - `do it yourself` 自己动手干 
+    - `for yourself`
+      - 为你自己 
+    - `by yourself`
+      - 独自地，单独地 
+    - `do it yourself`
+      - 自己动手干 
   - 例句
     - `Look at yourself in the mirror.`
       - 照照镜子吧。

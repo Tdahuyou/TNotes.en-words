@@ -1,10 +1,13 @@
 - we
   - 发音
-    - 英 `/wiː/`
-    - 美 `/wi/`
+    - 英
+      - `/wiː/`
+    - 美
+      - `/wi/`
   - 词义
-    - pron. 我们
-    - `used by the person speaking or writing to refer to himself or herself and one or more other people`
+    - pron.
+      - 我们
+        - `used by the person speaking or writing to refer to himself or herself and one or more other people`
   - 例句
     - `‘Did you go into the supermarket?’ ‘No, we didn’t.’`
       - “你们进超级市场了吗？”“我们没有进去。”

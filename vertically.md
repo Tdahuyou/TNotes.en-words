@@ -1,18 +1,25 @@
 - vertically
   - 发音
-    - 英 `/'və:tikəli/`
-    - 美 `/'vɝtɪkli/`
+    - 英
+      - `/'və:tikəli/`
+    - 美
+      - `/'vɝtɪkli/`
   - 词义
-    - adv. 垂直地
+    - adv.
+      - 垂直地
   - 同根词
     - adj.
-      - `vertical` 垂直的，直立的；[解剖] 头顶的，顶点的
+      - `vertical`
+        - 垂直的，直立的；[解剖] 头顶的，顶点的
     - n.
-      - `vertical` 垂直线，垂直面
-      - `verticalness` 垂直
+      - `vertical`
+        - 垂直线，垂直面
+      - `verticalness`
+        - 垂直
   - 近义词
-    - adv. 垂直地
-      - `perpendicularly`
+    - adv.
+      - 垂直地
+        - `perpendicularly`
   - 例句
     - `Well, we cut it into vertically simple pieces.`
       - 我们把它分割为垂直简单的部分。

@@ -1,10 +1,13 @@
 - plutonium
   - 发音
-    - 英 `/pluː'təʊnɪəm/`
-    - 美 `/plu'tonɪəm/`
+    - 英
+      - `/pluː'təʊnɪəm/`
+    - 美
+      - `/plu'tonɪəm/`
   - 词义
-    - n. [化学]钚（94号元素）
-    - `Plutonium is a radioactive element used especially in nuclear weapons and as a fuel in nuclear power stations`
+    - n.
+      - [化学]钚（94号元素）
+        - `Plutonium is a radioactive element used especially in nuclear weapons and as a fuel in nuclear power stations`
   - 例句
     - `What about plutonium in the drinking water?`
       - 钚会不会存在于饮用水里呢？

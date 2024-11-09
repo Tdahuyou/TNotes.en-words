@@ -1,11 +1,15 @@
 - Ottawa
   - 发音
-    - 英 `/'ɒtəwə/`
-    - 美 `/'ɑtəwə/`
+    - 英
+      - `/'ɒtəwə/`
+    - 美
+      - `/'ɑtəwə/`
   - 词义
-    - n. 渥太华（加拿大首都）
+    - n.
+      - 渥太华（加拿大首都）
   - 短语
-    - `university of ottawa` n. 渥太华大学（加拿大） 
+    - `university of ottawa`
+      - n. 渥太华大学（加拿大） 
   - 例句
     - `When will you be back in Ottawa?`
       - 下次什么时候到渥太华来呀？

@@ -1,25 +1,35 @@
 - mitigate
   - 发音
-    - 英 `/'mɪtɪgeɪt/`
-    - 美 `/'mɪtɪɡet/`
+    - 英
+      - `/'mɪtɪgeɪt/`
+    - 美
+      - `/'mɪtɪɡet/`
   - 词义
-    - v. 减轻,缓和
-    - `to make a situation or the effects of something less unpleasant, harmful, or serious`
+    - v.
+      - 减轻,缓和
+        - `to make a situation or the effects of something less unpleasant, harmful, or serious`
   - 同根词
     - adj.
-      - `mitigative` 缓和的，减轻的；镇静的，平静的
-      - `mitigatory` 减轻的；缓和的；镇静的
+      - `mitigative`
+        - 缓和的，减轻的；镇静的，平静的
+      - `mitigatory`
+        - 减轻的；缓和的；镇静的
     - n.
-      - `mitigation` 减轻；缓和；平静
-      - `mitigative` 镇静剂；缓和
-      - `mitigatory` 镇静剂；缓和剂
+      - `mitigation`
+        - 减轻；缓和；平静
+      - `mitigative`
+        - 镇静剂；缓和
+      - `mitigatory`
+        - 镇静剂；缓和剂
   - 近义词
-    - vt. 使缓和，使减轻
-      - `comfort`
-      - `obtund`
-    - vi. 减轻，缓和下来
-      - `to alleviate`
-      - `ease off`
+    - vt.
+      - 使缓和，使减轻
+        - `comfort`
+        - `obtund`
+    - vi.
+      - 减轻，缓和下来
+        - `to alleviate`
+        - `ease off`
   - 例句
     - `Measures need to be taken to mitigate the environmental effects of burning more coal.`
       - 需要采取措施来减轻燃煤增加对环境造成的影响。

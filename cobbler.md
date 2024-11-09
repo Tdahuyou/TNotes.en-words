@@ -1,19 +1,25 @@
 - cobbler
   - 发音
-    - 英 `/'kɒblə/`
-    - 美 `/'kɑblɚ/`
+    - 英
+      - `/'kɒblə/`
+    - 美
+      - `/'kɑblɚ/`
   - 词义
-    - n. 补鞋匠；工匠；冷饮料；脆皮水果馅饼
-    - `cooked fruit covered with a sweet bread-like mixture`
+    - n.
+      - 补鞋匠；工匠；冷饮料；脆皮水果馅饼
+        - `cooked fruit covered with a sweet bread-like mixture`
   - 同根词
     - n.
-      - `cobble` 鹅卵石，圆石
+      - `cobble`
+        - 鹅卵石，圆石
     - vt.
-      - `cobble` 修，拙劣地修补；铺鹅卵石，用圆石铺面
+      - `cobble`
+        - 修，拙劣地修补；铺鹅卵石，用圆石铺面
   - 近义词
-    - n. 补鞋匠；工匠；冷饮料；脆皮水果馅饼
-      - `craftsman`
-      - `workman`
+    - n.
+      - 补鞋匠；工匠；冷饮料；脆皮水果馅饼
+        - `craftsman`
+        - `workman`
   - 例句
     - `peach cobbler`
       - 酥皮桃肉馅饼

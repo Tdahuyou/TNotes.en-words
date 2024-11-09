@@ -1,16 +1,21 @@
 - porpoise
   - 发音
-    - 英 `/'pɔːpəs; 'pɒpɒɪs/`
-    - 美 `/'pɔrpəs/`
+    - 英
+      - `/'pɔːpəs; 'pɒpɒɪs/`
+    - 美
+      - `/'pɔrpəs/`
   - 词义
-    - n. [动]海豚,小鲸
-    - `a sea animal that looks similar to a  dolphin  and breathes air`
+    - n.
+      - [动]海豚,小鲸
+        - `a sea animal that looks similar to a  dolphin  and breathes air`
   - 近义词
-    - n. [脊椎]海豚；鼠海豚
-      - `sea hog`
-      - `common dolphin`
+    - n.
+      - [脊椎]海豚；鼠海豚
+        - `sea hog`
+        - `common dolphin`
   - 短语
-    - `finless porpoise` 江豚，江猪 
+    - `finless porpoise`
+      - 江豚，江猪 
   - 例句
     - `The rays are often seen gathering in groups near the surface, “flying” through the water by flapping their pectoral fins and sometimes even leaping porpoise-like into the air.`
       - 魟鱼经常会成群的聚集在水面以下，通过拍动胸鳍在水中“飞行”，有时候甚至会像海豚一样跃出海面。

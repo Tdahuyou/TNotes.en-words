@@ -1,24 +1,30 @@
 - splendid
   - 发音
-    - 英 `/'splendɪd/`
-    - 美 `/'splɛndɪd/`
+    - 英
+      - `/'splendɪd/`
+    - 美
+      - `/'splɛndɪd/`
   - 词义
-    - adj. 极好的；壮丽的；辉煌的
-    - `very good`
+    - adj.
+      - 极好的；壮丽的；辉煌的
+        - `very good`
   - 记忆
     - splend(明亮) ＋ id(…的) → 让人眼前一亮的 → 壮丽的
   - 同根词
     - adj.
-      - `splendiferous` 极好的；浮华的
+      - `splendiferous`
+        - 极好的；浮华的
     - adv.
-      - `splendidly` 华丽地；豪华地；壮观地
+      - `splendidly`
+        - 华丽地；豪华地；壮观地
   - 近义词
-    - adj. 辉煌的；灿烂的；极好的；杰出的
-      - `brilliant`
-      - `excellent`
-      - `wonderful`
-      - `famous`
-      - `prominent`
+    - adj.
+      - 辉煌的；灿烂的；极好的；杰出的
+        - `brilliant`
+        - `excellent`
+        - `wonderful`
+        - `famous`
+        - `prominent`
   - 例句
     - `a splendid idea`
       - 很妙的主意

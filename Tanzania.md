@@ -1,9 +1,12 @@
 - Tanzania
   - 发音
-    - 英 `/ˌtænzəˈni:ə/`
-    - 美 `/ˌtænzəˈniə/`
+    - 英
+      - `/ˌtænzəˈni:ə/`
+    - 美
+      - `/ˌtænzəˈniə/`
   - 词义
-    - n. 坦桑尼亚（东非国家）
+    - n.
+      - 坦桑尼亚（东非国家）
   - 例句
     - `We have a good example in Tanzania.`
       - 我们在坦桑尼亚有一个很好的例子。

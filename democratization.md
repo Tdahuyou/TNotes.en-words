@@ -1,23 +1,34 @@
 - democratization
   - 发音
-    - 英 `/dɪ,mɒkrətaɪ'zeɪʃən/`
-    - 美 `/dɪ,mɑkrətɪ'zeʃən/`
+    - 英
+      - `/dɪ,mɒkrətaɪ'zeɪʃən/`
+    - 美
+      - `/dɪ,mɑkrətɪ'zeʃən/`
   - 词义
-    - n. 民主化
+    - n.
+      - 民主化
   - 同根词
     - adj.
-      - `democratic` 民主的；民主政治的；大众的
+      - `democratic`
+        - 民主的；民主政治的；大众的
     - adv.
-      - `democratically` 民主地；民主主义地
+      - `democratically`
+        - 民主地；民主主义地
     - n.
-      - `democracy` 民主，民主主义；民主政治
-      - `democrat` 民主党人；民主主义者；民主政体论者
+      - `democracy`
+        - 民主，民主主义；民主政治
+      - `democrat`
+        - 民主党人；民主主义者；民主政体论者
     - vi.
-      - `democratize` 民主化；大众化
-      - `democratise` 民主化（等于democratize）
+      - `democratize`
+        - 民主化；大众化
+      - `democratise`
+        - 民主化（等于democratize）
     - vt.
-      - `democratize` 使民主化；使大众化
-      - `democratise` 使大众化（等于democratize）
+      - `democratize`
+        - 使民主化；使大众化
+      - `democratise`
+        - 使大众化（等于democratize）
   - 例句
     - `These elections, he said, are “the first take and a test” of Africa’s ability to follow through on increased democratization and transparency.`
       - 他说，这些选举是非洲继续推行提高民主化和透明度进程的能力“首次得到应用和检验”。

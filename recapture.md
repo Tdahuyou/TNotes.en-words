@@ -1,18 +1,23 @@
 - recapture
   - 发音
-    - 英 `/riː'kæptʃə/`
-    - 美 `/,ri'kæptʃɚ/`
+    - 英
+      - `/riː'kæptʃə/`
+    - 美
+      - `/,ri'kæptʃɚ/`
   - 词义
-    - n. 取回，夺回
+    - n.
+      - 取回，夺回
   - 记忆
     - re (重新) + capture (捕获； 占领) → 重新占领 → 取回, 夺回
   - 近义词
-    - vt. 夺回；拿回；再体验；政府征收再经历
-      - `reseize`
-      - `take back`
-    - n. 夺回；取回；政府对公司超额收益或利润的征收
-      - `retrieval`
-      - `reseizure`
+    - vt.
+      - 夺回；拿回；再体验；政府征收再经历
+        - `reseize`
+        - `take back`
+    - n.
+      - 夺回；取回；政府对公司超额收益或利润的征收
+        - `retrieval`
+        - `reseizure`
   - 例句
     - `The armed forces have launched offensives to recapture lost ground.`
       - 这支武装部队已发动进攻要夺回失去的阵地。

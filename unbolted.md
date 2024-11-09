@@ -1,18 +1,24 @@
 - unbolted
   - 发音
-    - 英 `/ʌn'bəʊltɪd/`
-    - 美 `/ʌn'boltɪd/`
+    - 英
+      - `/ʌn'bəʊltɪd/`
+    - 美
+      - `/ʌn'boltɪd/`
   - 词义
-    - adj. 未上栓的
-    - `(of grain, meal, or flour) not sifted `
+    - adj.
+      - 未上栓的
+        - `(of grain, meal, or flour) not sifted `
   - 同根词
     - vi.
-      - `unbolt` 打开；拧松
+      - `unbolt`
+        - 打开；拧松
     - vt.
-      - `unbolt` 拔去门闩；打开；拧松
+      - `unbolt`
+        - 拔去门闩；打开；拧松
   - 近义词
-    - adj. 未上栓的；未筛过的；拔去了门闩的；粗糙的
-      - `crude`
-      - `rough`
-      - `harsh`
-      - `coarse`
+    - adj.
+      - 未上栓的；未筛过的；拔去了门闩的；粗糙的
+        - `crude`
+        - `rough`
+        - `harsh`
+        - `coarse`

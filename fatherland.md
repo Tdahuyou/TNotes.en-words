@@ -1,14 +1,18 @@
 - fatherland
   - 发音
-    - 英 `/'fɑːðəlænd/`
-    - 美 `/'fɑðɚlænd/`
+    - 英
+      - `/'fɑːðəlænd/`
+    - 美
+      - `/'fɑðɚlænd/`
   - 词义
-    - n. 祖国
-    - `the place where someone or their family was born`
+    - n.
+      - 祖国
+        - `the place where someone or their family was born`
   - 近义词
-    - n. 祖国
-      - `motherland`
-      - `homeland`
+    - n.
+      - 祖国
+        - `motherland`
+        - `homeland`
   - 例句
     - `You must love everything that contributes to the glory and honour of the fatherland.`
       - 你一定要热爱那些,能为祖国增添光荣和辉煌的事物

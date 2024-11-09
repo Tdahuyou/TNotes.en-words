@@ -1,10 +1,13 @@
 - Inca
   - 发音
-    - 英 `/'ɪŋkə/`
-    - 美 `/'iŋkə/`
+    - 英
+      - `/'ɪŋkə/`
+    - 美
+      - `/'iŋkə/`
   - 词义
-    - n. 印加人(古代秘鲁土著人)
-    - `a member of a South American Indian people whose great empire centred on Peru lasted from about 1100 ad to the Spanish conquest in the early 1530s and is famed for its complex culture `
+    - n.
+      - 印加人(古代秘鲁土著人)
+        - `a member of a South American Indian people whose great empire centred on Peru lasted from about 1100 ad to the Spanish conquest in the early 1530s and is famed for its complex culture `
   - 例句
     - `With this big stick, Inca kings began eyeing the lands and resources of others.`
       - 有了这根军事大棒，印加帝王开始觊觎别人的土地和资源。

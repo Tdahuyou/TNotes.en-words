@@ -1,10 +1,13 @@
 - sex
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 性别,性
-    - `the physical activity that two people do together in order to produce babies, or for pleasure`
+    - n.
+      - 性别,性
+        - `the physical activity that two people do together in order to produce babies, or for pleasure`
   - 例句
     - `All you see on TV is sex and violence these days.`
       - 如今在电视上看到的尽是性和暴力。

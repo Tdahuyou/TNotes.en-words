@@ -1,14 +1,18 @@
 - stuntman
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 替身演员
-    - `A stuntman is a man whose job is to do dangerous things, either for publicity, or in a movie instead of an actor so that the actor does not risk being injured`
+    - n.
+      - 替身演员
+        - `A stuntman is a man whose job is to do dangerous things, either for publicity, or in a movie instead of an actor so that the actor does not risk being injured`
   - 近义词
-    - n. 特技人，特技替身演员；表演者
-      - `player`
-      - `entertainer`
+    - n.
+      - 特技人，特技替身演员；表演者
+        - `player`
+        - `entertainer`
   - 例句
     - `Both Jacky Chan and Jet Li don't like to use stuntman in their films.`
       - 成龙和李连杰在电影中都不爱用替身演员。

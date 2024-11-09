@@ -1,12 +1,17 @@
 - Texas
   - 发音
-    - 英 `/'teksəs/`
-    - 美 `/undefined/`
+    - 英
+      - `/'teksəs/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 德克萨斯州(美国州名)
+    - n.
+      - 德克萨斯州(美国州名)
   - 短语
-    - `university of texas` 德克萨斯大学 
-    - `texas city` 得克萨斯城 
+    - `university of texas`
+      - 德克萨斯大学 
+    - `texas city`
+      - 得克萨斯城 
   - 例句
     - `They've homesteaded in Texas.`
       - 他们在得克萨斯州定居下来了。

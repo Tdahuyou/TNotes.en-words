@@ -1,11 +1,15 @@
 - Morse
   - 发音
-    - 英 `/mɔ:s/`
-    - 美 `/undefined/`
+    - 英
+      - `/mɔ:s/`
+    - 美
+      - `/undefined/`
   - 词义
   - 短语
-    - `morse code` 莫尔斯电报电码 
-    - `morse taper` 莫尔斯锥度 
+    - `morse code`
+      - 莫尔斯电报电码 
+    - `morse taper`
+      - 莫尔斯锥度 
   - 例句
     - `We only used Morse code to keeo in touch.`
       - 我们只是用摩尔斯密码保持联系。

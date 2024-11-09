@@ -1,19 +1,26 @@
 - deacon
   - 发音
-    - 英 `/'diːk(ə)n/`
-    - 美 `/'di:kən/`
+    - 英
+      - `/'diːk(ə)n/`
+    - 美
+      - `/'di:kən/`
   - 词义
-    - n. 执事；助祭
-    - `a religious official, in some Christian churches, who is just below the rank of a priest`
-    - vt. 朗读；搞欺骗
+    - n.
+      - 执事；助祭
+        - `a religious official, in some Christian churches, who is just below the rank of a priest`
+    - vt.
+      - 朗读；搞欺骗
   - 同根词
     - n.
-      - `deaconess` 女执事；牧师的女助手
+      - `deaconess`
+        - 女执事；牧师的女助手
   - 近义词
-    - n. 执事；助祭
-      - `diaconate`
-    - vt. 朗读；搞欺骗
-      - `do some reading`
+    - n.
+      - 执事；助祭
+        - `diaconate`
+    - vt.
+      - 朗读；搞欺骗
+        - `do some reading`
   - 例句
     - `James Murphy, deacon of the diocese's mother church, the Cathedral of the Blessed Sacrament, said church leaders are always skeptical at first.`
       - 主教教区的天主教大教堂执事詹姆斯·墨菲说，教堂的负责人一开始都对此持怀疑态度。

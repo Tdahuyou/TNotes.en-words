@@ -1,14 +1,18 @@
 - shopkeeper
   - 发音
-    - 英 `/'ʃɒpkiːpə/`
-    - 美 `/'ʃɑp'kipɚ/`
+    - 英
+      - `/'ʃɒpkiːpə/`
+    - 美
+      - `/'ʃɑp'kipɚ/`
   - 词义
-    - n. 店主
-    - `someone who owns or is in charge of a small shop`
+    - n.
+      - 店主
+        - `someone who owns or is in charge of a small shop`
   - 近义词
-    - n. 店主，老板
-      - `boss`
-      - `employer`
+    - n.
+      - 店主，老板
+        - `boss`
+        - `employer`
   - 例句
     - `But one of them, a shopkeeper was sad.`
       - 但他们其中的一个，一位店主有点沮丧。

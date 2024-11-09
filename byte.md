@@ -1,12 +1,16 @@
 - byte
   - 发音
-    - 英 `/baɪt/`
-    - 美 `/baɪt/`
+    - 英
+      - `/baɪt/`
+    - 美
+      - `/baɪt/`
   - 词义
-    - n. 字节；8位元组
-    - `a unit for measuring computer information, equal to eight  bit s (=  the smallest unit on which information is stored on a computer  ) `
+    - n.
+      - 字节；8位元组
+        - `a unit for measuring computer information, equal to eight  bit s (=  the smallest unit on which information is stored on a computer  ) `
   - 短语
-    - `double byte` 双字节，双位元组 
+    - `double byte`
+      - 双字节，双位元组 
   - 例句
     - `Each character requires one byte of storage space.`
       - 每个字符需要一个字节的储存空间。

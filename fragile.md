@@ -1,22 +1,29 @@
 - fragile
   - 发音
-    - 英 `/'frædʒl/`
-    - 美 `/'frædʒəl/`
+    - 英
+      - `/'frædʒl/`
+    - 美
+      - `/'frædʒəl/`
   - 词义
-    - adj. 易碎的；脆弱的；纤巧的；虚弱的
-    - `easily broken or damaged`
+    - adj.
+      - 易碎的；脆弱的；纤巧的；虚弱的
+        - `easily broken or damaged`
   - 记忆
     - frag(打碎) + ile → 容易被打碎的 → 易碎的
   - 同根词
     - n.
-      - `fragility` 脆弱；[力] 易碎性；虚弱
+      - `fragility`
+        - 脆弱；[力] 易碎性；虚弱
   - 近义词
-    - adj. 脆的；易碎的
-      - `delicate`
-      - `crumbly`
+    - adj.
+      - 脆的；易碎的
+        - `delicate`
+        - `crumbly`
   - 短语
-    - `fragile goods` 易碎商品；易碎货物 
-    - `fragile x syndrome` [精神病学]脆性X综合征；X染色体易损综合征 
+    - `fragile goods`
+      - 易碎商品；易碎货物 
+    - `fragile x syndrome`
+      - [精神病学]脆性X综合征；X染色体易损综合征 
   - 例句
     - `Be careful with that vase – it’s very fragile.`
       - 小心那只花瓶——很容易打碎的。

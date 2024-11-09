@@ -1,16 +1,20 @@
 - mankind
   - 发音
-    - 英 `/,mæn'kaɪnd/`
-    - 美 `/mæn'kaɪnd/`
+    - 英
+      - `/,mæn'kaɪnd/`
+    - 美
+      - `/mæn'kaɪnd/`
   - 词义
-    - n. 人类
-    - `all humans considered as a group`
+    - n.
+      - 人类
+        - `all humans considered as a group`
   - 记忆
     - man(人) ＋ kind(种类， 性质) → 人类
   - 近义词
-    - n. 人类；男性
-      - `humanity`
-      - `people`
+    - n.
+      - 人类；男性
+        - `humanity`
+        - `people`
   - 例句
     - `Since earliest times, mankind has been fascinated by fire.`
       - 人类自远古以来就对火很感兴趣。

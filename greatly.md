@@ -1,24 +1,31 @@
 - greatly
   - 发音
-    - 英 `/'greɪtlɪ/`
-    - 美 `/'ɡretli/`
+    - 英
+      - `/'greɪtlɪ/`
+    - 美
+      - `/'ɡretli/`
   - 词义
-    - adv. 很，大大地；非常
-    - `extremely or very much`
+    - adv.
+      - 很，大大地；非常
+        - `extremely or very much`
   - 同根词
     - adj.
-      - `great` 伟大的，重大的；极好的，好的；主要的
+      - `great`
+        - 伟大的，重大的；极好的，好的；主要的
     - n.
-      - `great` 大师；大人物；伟人们
-      - `greatness` 伟大；巨大
+      - `great`
+        - 大师；大人物；伟人们
+      - `greatness`
+        - 伟大；巨大
   - 近义词
-    - adv. 很，大大地；非常
-      - `quite`
-      - `badly`
-      - `too`
-      - `extremely`
-      - `far`
-      - `highly`
+    - adv.
+      - 很，大大地；非常
+        - `quite`
+        - `badly`
+        - `too`
+        - `extremely`
+        - `far`
+        - `highly`
   - 例句
     - `All offers of help will be greatly appreciated .`
       - 如蒙帮助，感激不尽。

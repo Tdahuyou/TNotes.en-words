@@ -1,23 +1,32 @@
 - survive
   - 发音
-    - 英 `/sər'vaɪv/`
-    - 美 `/sɚ'vaɪv/`
+    - 英
+      - `/sər'vaɪv/`
+    - 美
+      - `/sɚ'vaɪv/`
   - 词义
-    - v. 幸免，幸存；继续存在，存货；艰难度过；比…长命
-    - `If a person or living thing survives in a dangerous situation such as an accident or an illness, they do not die`
+    - v.
+      - 幸免，幸存；继续存在，存货；艰难度过；比…长命
+        - `If a person or living thing survives in a dangerous situation such as an accident or an illness, they do not die`
   - 记忆
     - sur + viv(生活) + e → 活下来 → 幸存
   - 同根词
     - adj.
-      - `surviving` 继续存在的；未死的；依然健在的
+      - `surviving`
+        - 继续存在的；未死的；依然健在的
     - n.
-      - `survival` 幸存，残存；幸存者，残存物
-      - `survivor` 幸存者；生还者；残存物
-      - `survivalist` 活命主义者；成功地活下来的人
+      - `survival`
+        - 幸存，残存；幸存者，残存物
+      - `survivor`
+        - 幸存者；生还者；残存物
+      - `survivalist`
+        - 活命主义者；成功地活下来的人
     - v.
-      - `surviving` 生存（survive的ing形式）
+      - `surviving`
+        - 生存（survive的ing形式）
   - 短语
-    - `survive on` 靠…活下来；靠…生存 
+    - `survive on`
+      - 靠…活下来；靠…生存 
   - 例句
     - `...the sequence of events that left the eight pupils battling to survive in icy seas for over four hours.`
       - …使4名小学生在冰冷的海洋中挣扎求生超过4个小时的一连串事件。

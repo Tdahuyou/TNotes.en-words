@@ -1,11 +1,16 @@
 - innately
   - 发音
-    - 英 `/ɪ'netli/`
-    - 美 `/undefined/`
+    - 英
+      - `/ɪ'netli/`
+    - 美
+      - `/undefined/`
   - 词义
-    - adv. 本质地，固有地
+    - adv.
+      - 本质地，固有地
   - 同根词
     - adj.
-      - `innate` 先天的；固有的；与生俱来的
+      - `innate`
+        - 先天的；固有的；与生俱来的
     - n.
-      - `innateness` 天赋；天生
+      - `innateness`
+        - 天赋；天生

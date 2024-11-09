@@ -1,16 +1,21 @@
 - prokaryote
   - 发音
-    - 英 `/prəʊ'kærɪəʊt; -ɒt/`
-    - 美 `/,pro'kærɪɑt/`
+    - 英
+      - `/prəʊ'kærɪəʊt; -ɒt/`
+    - 美
+      - `/,pro'kærɪɑt/`
   - 词义
-    - n. [细胞]原核生物
-    - `any organism having cells in each of which the genetic material is in a single DNA chain, not enclosed in a nucleus`
+    - n.
+      - [细胞]原核生物
+        - `any organism having cells in each of which the genetic material is in a single DNA chain, not enclosed in a nucleus`
   - 同根词
     - adj.
-      - `prokaryotic` 原核的
+      - `prokaryotic`
+        - 原核的
   - 近义词
-    - n. [细胞]原核生物
-      - `procaryote`
+    - n.
+      - [细胞]原核生物
+        - `procaryote`
   - 例句
     - `Turgor The state, in a plant or prokaryote cell, in which the protoplast is exerting a pressure on the cell wall owing to the intake of water by osmosis.`
       - 植物细胞或原生动物细胞由于渗透而大量吸收水分，使原生质体向细胞壁施加压力的状态。

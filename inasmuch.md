@@ -1,11 +1,15 @@
 - inasmuch
   - 发音
-    - 英 `/ɪnəz'mʌtʃ/`
-    - 美 `/,ɪnəz'mʌtʃ/`
+    - 英
+      - `/ɪnəz'mʌtʃ/`
+    - 美
+      - `/,ɪnəz'mʌtʃ/`
   - 词义
-    - adv. 因为，由于
+    - adv.
+      - 因为，由于
   - 短语
-    - `inasmuch as` conj. 因为；由于 
+    - `inasmuch as`
+      - conj. 因为；由于 
   - 例句
     - `Forgive them inasmuch as they are young.`
       - 原谅他们吧，因为他们还年轻。

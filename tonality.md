@@ -1,28 +1,40 @@
 - tonality
   - 发音
-    - 英 `/tə(ʊ)'nælɪtɪ/`
-    - 美 `/to'næləti/`
+    - 英
+      - `/tə(ʊ)'nælɪtɪ/`
+    - 美
+      - `/to'næləti/`
   - 词义
-    - n. 音调,色调
-    - `the character of a piece of music that depends on the  key  of the music and the way in which the tunes and  harmonies  are combined`
+    - n.
+      - 音调,色调
+        - `the character of a piece of music that depends on the  key  of the music and the way in which the tunes and  harmonies  are combined`
   - 同根词
     - adj.
-      - `tonal` 色调的；音调的
-      - `toned` 年久变色的；有声调的，具有……音质的
-      - `toneless` 沉闷的；单调的；缺乏声调的；无声的
+      - `tonal`
+        - 色调的；音调的
+      - `toned`
+        - 年久变色的；有声调的，具有……音质的
+      - `toneless`
+        - 沉闷的；单调的；缺乏声调的；无声的
     - adv.
-      - `tonelessly` 单调地，沉闷地
+      - `tonelessly`
+        - 单调地，沉闷地
     - n.
-      - `tone` 语气；色调；音调；音色
-      - `toner` 调色剂，增色剂；色粉
-    - vi.
-      - `tone` 颜色调和；呈现悦目色调
-    - vt.
-      - `tone` 增强；用某种调子说
-  - 近义词
-    - n. 音调；色调
       - `tone`
-      - `hues`
+        - 语气；色调；音调；音色
+      - `toner`
+        - 调色剂，增色剂；色粉
+    - vi.
+      - `tone`
+        - 颜色调和；呈现悦目色调
+    - vt.
+      - `tone`
+        - 增强；用某种调子说
+  - 近义词
+    - n.
+      - 音调；色调
+        - `tone`
+        - `hues`
   - 例句
     - `Visual coherence can be achieved through the use of analogous color and color tonality.`
       - 可通过利用相似色和色调来形成视觉的连贯性。

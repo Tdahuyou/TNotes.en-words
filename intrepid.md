@@ -1,22 +1,28 @@
 - intrepid
   - 发音
-    - 英 `/ɪn'trepɪd/`
-    - 美 `/ɪn'trɛpɪd/`
+    - 英
+      - `/ɪn'trepɪd/`
+    - 美
+      - `/ɪn'trɛpɪd/`
   - 词义
-    - adj. 勇敢的，无畏的
-    - `willing to do dangerous things or go to dangerous places – often used humorously`
+    - adj.
+      - 勇敢的，无畏的
+        - `willing to do dangerous things or go to dangerous places – often used humorously`
   - 记忆
     - in(不) + trep(害怕) + id → 不害怕的 → 勇敢的， 无畏的
   - 同根词
     - adv.
-      - `intrepidly` 勇猛地；无畏地
+      - `intrepidly`
+        - 勇猛地；无畏地
     - n.
-      - `intrepidity` 无畏；大胆
+      - `intrepidity`
+        - 无畏；大胆
   - 近义词
-    - adj. 无畏的；勇敢的；勇猛的
-      - `game`
-      - `brave`
-      - `dauntless`
+    - adj.
+      - 无畏的；勇敢的；勇猛的
+        - `game`
+        - `brave`
+        - `dauntless`
   - 例句
     - `intrepid explorers`
       - 勇敢的探险家

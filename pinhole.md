@@ -1,16 +1,21 @@
 - pinhole
   - 发音
-    - 英 `/'pɪnhəʊl/`
-    - 美 `/'pɪnhol/`
+    - 英
+      - `/'pɪnhəʊl/`
+    - 美
+      - `/'pɪnhol/`
   - 词义
-    - n. 针孔,小孔
-    - `a very small hole in something, especially one made by a pin`
+    - n.
+      - 针孔,小孔
+        - `a very small hole in something, especially one made by a pin`
   - 近义词
-    - n. [电子]针孔；[纺][冶]小孔
-      - `blacking hole`
-      - `pore`
+    - n.
+      - [电子]针孔；[纺][冶]小孔
+        - `blacking hole`
+        - `pore`
   - 短语
-    - `pinhole camera` 针孔照相机 
+    - `pinhole camera`
+      - 针孔照相机 
   - 例句
     - `The yellow parts has small oval-shaped protrusions, each with one or two “pinhole” depressions.`
       - 黄色部分有小的椭圆形突出，每个突出又有一到二个“针孔”状凹陷。

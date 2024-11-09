@@ -1,42 +1,64 @@
 - repetition
   - 发音
-    - 英 `/ˌrepə'tɪʃn/`
-    - 美 `/'rɛpə'tɪʃən/`
+    - 英
+      - `/ˌrepə'tɪʃn/`
+    - 美
+      - `/'rɛpə'tɪʃən/`
   - 词义
-    - n. 重复，反复；重复的事
-    - `doing or saying the same thing many times`
+    - n.
+      - 重复，反复；重复的事
+        - `doing or saying the same thing many times`
   - 记忆
     - 来自repeat(v. 重复)
   - 同根词
     - adj.
-      - `repetitive` 重复的
-      - `repeated` 再三的，反复的
-      - `repeatable` 可重复的；可复验的
-      - `repetitious` 重复的；唠唠叨叨的
+      - `repetitive`
+        - 重复的
+      - `repeated`
+        - 再三的，反复的
+      - `repeatable`
+        - 可重复的；可复验的
+      - `repetitious`
+        - 重复的；唠唠叨叨的
     - adv.
-      - `repeatedly` 反复地；再三地；屡次地
-      - `repetitively` 重复地
+      - `repeatedly`
+        - 反复地；再三地；屡次地
+      - `repetitively`
+        - 重复地
     - n.
-      - `repeat` 重复；副本
-      - `repeater` [通信] 中继器；[通信] 转发器；重复者
-      - `repetitiousness` 重复
-      - `repetitiveness` 重复
+      - `repeat`
+        - 重复；副本
+      - `repeater`
+        - [通信] 中继器；[通信] 转发器；重复者
+      - `repetitiousness`
+        - 重复
+      - `repetitiveness`
+        - 重复
     - v.
-      - `repeated` 重复；复述（repeat的过去分词）
+      - `repeated`
+        - 重复；复述（repeat的过去分词）
     - vi.
-      - `repeat` 重做；重复发生
+      - `repeat`
+        - 重做；重复发生
     - vt.
-      - `repeat` 重复；复制；背诵
+      - `repeat`
+        - 重复；复制；背诵
   - 近义词
-    - n. 重复；背诵；副本
-      - `reiteration`
-      - `iterance`
+    - n.
+      - 重复；背诵；副本
+        - `reiteration`
+        - `iterance`
   - 短语
-    - `repetition rate` 重复率 
-    - `repetition frequency` [电]重复频；换帧频率 
-    - `pulse repetition frequency` [计]脉冲重复频率 
-    - `repetition measurement` 复测法 
-    - `repetition period` [计]重复周期 
+    - `repetition rate`
+      - 重复率 
+    - `repetition frequency`
+      - [电]重复频；换帧频率 
+    - `pulse repetition frequency`
+      - [计]脉冲重复频率 
+    - `repetition measurement`
+      - 复测法 
+    - `repetition period`
+      - [计]重复周期 
   - 例句
     - `Children used to learn by repetition.`
       - 过去小孩子是通过背诵来学习的。

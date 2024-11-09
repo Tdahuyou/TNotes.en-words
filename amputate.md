@@ -1,21 +1,28 @@
 - amputate
   - 发音
-    - 英 `/'æmpjuteit/`
-    - 美 `/'æmpjutet/`
+    - 英
+      - `/'æmpjuteit/`
+    - 美
+      - `/'æmpjutet/`
   - 词义
-    - v. 切除
-    - `to cut off someone’s arm, leg, finger etc during a medical operation`
+    - v.
+      - 切除
+        - `to cut off someone’s arm, leg, finger etc during a medical operation`
   - 记忆
     - am (看作arm) + put (切除) + ate (做) → 切除 (手臂、 腿等)
   - 同根词
     - n.
-      - `amputation` 截肢；切断（术）
-      - `amputee` 被截肢者
-      - `amputator` 切断者；切断器
+      - `amputation`
+        - 截肢；切断（术）
+      - `amputee`
+        - 被截肢者
+      - `amputator`
+        - 切断者；切断器
   - 近义词
-    - vt. 截肢；切断；删除
-      - `cut off`
-      - `cut out`
+    - vt.
+      - 截肢；切断；删除
+        - `cut off`
+        - `cut out`
   - 例句
     - `Two of her toes were amputated because of frostbite.`
       - 她的两个脚趾因为冻伤被截掉了。

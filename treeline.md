@@ -1,9 +1,12 @@
 - treeline
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - abstract:. 林木线（山顶上树木生长的上限）
+    - abstract:.
+      - 林木线（山顶上树木生长的上限）
   - 例句
     - `Massive tractors and bulldozers are ripping into the treeline, toppling the huge trees.`
       - 巨型拖拉机和推土机正在切割树木线，巨大的树木被放倒。

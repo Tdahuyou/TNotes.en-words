@@ -1,47 +1,74 @@
 - freely
   - 发音
-    - 英 `/'friːlɪ/`
-    - 美 `/'frili/`
+    - 英
+      - `/'friːlɪ/`
+    - 美
+      - `/'frili/`
   - 词义
-    - adv. 自由地；慷慨地
-    - `without anyone stopping or limiting something`
+    - adv.
+      - 自由地；慷慨地
+        - `without anyone stopping or limiting something`
   - 同根词
     - adj.
-      - `free` 免费的；自由的，不受约束的；[化学] 游离的
-      - `freelance` 自由投稿的
-      - `freed` 释放的
-      - `freestyle` 自由式的
-      - `freehearted` 坦白的；爽朗的；慷慨的
-      - `freethinking` 自由思想的
+      - `free`
+        - 免费的；自由的，不受约束的；[化学] 游离的
+      - `freelance`
+        - 自由投稿的
+      - `freed`
+        - 释放的
+      - `freestyle`
+        - 自由式的
+      - `freehearted`
+        - 坦白的；爽朗的；慷慨的
+      - `freethinking`
+        - 自由思想的
     - adv.
-      - `free` 自由地；免费
-      - `freestyle` 自由地；随心所欲地
+      - `free`
+        - 自由地；免费
+      - `freestyle`
+        - 自由地；随心所欲地
     - n.
-      - `freedom` 自由，自主；直率
-      - `freelance` 自由作家；自由记者
-      - `freehold` 自由保有；[会计] 不动产所有权
-      - `freestyle` 自由式
-      - `freeman` 自由民；享有市民权的人；荣誉市民
-      - `freeware` 免费软件；自由软件
-      - `freewheel` 自由轮
-      - `freedwoman` 自由妇女
-      - `freethinker` 自由思想家
-      - `freethinking` 自由思想
+      - `freedom`
+        - 自由，自主；直率
+      - `freelance`
+        - 自由作家；自由记者
+      - `freehold`
+        - 自由保有；[会计] 不动产所有权
+      - `freestyle`
+        - 自由式
+      - `freeman`
+        - 自由民；享有市民权的人；荣誉市民
+      - `freeware`
+        - 免费软件；自由软件
+      - `freewheel`
+        - 自由轮
+      - `freedwoman`
+        - 自由妇女
+      - `freethinker`
+        - 自由思想家
+      - `freethinking`
+        - 自由思想
     - v.
-      - `freed` 使自由；解放（free的过去分词）
+      - `freed`
+        - 使自由；解放（free的过去分词）
     - vi.
-      - `freewheel` 靠惯性滑行；随心所欲
+      - `freewheel`
+        - 靠惯性滑行；随心所欲
     - vt.
-      - `free` 使自由，解放；释放
+      - `free`
+        - 使自由，解放；释放
   - 近义词
-    - adv. 自由地；免费地；大量地；慷慨地；直率地
-      - `largely`
-      - `importantly`
-      - `big`
-      - `heavy`
+    - adv.
+      - 自由地；免费地；大量地；慷慨地；直率地
+        - `largely`
+        - `importantly`
+        - `big`
+        - `heavy`
   - 短语
-    - `breathe freely` 透气；安心 
-    - `freely supported` 自由支承的 
+    - `breathe freely`
+      - 透气；安心 
+    - `freely supported`
+      - 自由支承的 
   - 例句
     - `the country’s first freely elected president`
       - 该国首位自由选举产生的总统

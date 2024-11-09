@@ -1,15 +1,21 @@
 - mammalian
   - 发音
-    - 英 `/mæ'meɪlɪən/`
-    - 美 `/mæˈmeɪlɪən/`
+    - 英
+      - `/mæ'meɪlɪən/`
+    - 美
+      - `/mæˈmeɪlɪən/`
   - 词义
-    - n. 哺乳动物
-    - adj. 哺乳动物的
-    - `In zoology, mammalian means relating to mammals`
+    - n.
+      - 哺乳动物
+    - adj.
+      - 哺乳动物的
+        - `In zoology, mammalian means relating to mammals`
   - 同根词
     - n.
-      - `mammal` [脊椎] 哺乳动物
-      - `mammalogy` [脊椎] 哺乳动物学
+      - `mammal`
+        - [脊椎] 哺乳动物
+      - `mammalogy`
+        - [脊椎] 哺乳动物学
   - 例句
     - `But is it more than just the infusion of the catecholamine neurotransmitter, dopamine, or the mammalian hormone oxytocin?`
       - 而它也许不止是儿茶酚胺类神经递质注入剂、多巴胺、或哺乳类动物的荷尔蒙催产素？

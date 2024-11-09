@@ -1,19 +1,25 @@
 - sultry
   - 发音
-    - 英 `/'sʌltrɪ/`
-    - 美 `/'sʌltri/`
+    - 英
+      - `/'sʌltrɪ/`
+    - 美
+      - `/'sʌltri/`
   - 词义
-    - adj. 闷热的；狂暴的；淫荡的
-    - `weather that is sultry is hot with air that feels wet`
+    - adj.
+      - 闷热的；狂暴的；淫荡的
+        - `weather that is sultry is hot with air that feels wet`
   - 同根词
     - adv.
-      - `sultrily` 闷热地；酷热地；粗暴地
+      - `sultrily`
+        - 闷热地；酷热地；粗暴地
     - n.
-      - `sultriness` 纵情声色；闷热
+      - `sultriness`
+        - 纵情声色；闷热
   - 近义词
-    - adj. 闷热的；狂暴的；淫荡的
-      - `angry`
-      - `stuffy`
+    - adj.
+      - 闷热的；狂暴的；淫荡的
+        - `angry`
+        - `stuffy`
   - 例句
     - `a hot and sultry day`
       - 又热又闷的一天

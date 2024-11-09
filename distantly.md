@@ -1,20 +1,27 @@
 - distantly
   - 发音
-    - 英 `/undefined/`
-    - 美 `/'distəntli/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/'distəntli/`
   - 词义
-    - adj. 疏远的,遥远的
+    - adj.
+      - 疏远的,遥远的
   - 同根词
     - adj.
-      - `distant` 遥远的；冷漠的；远隔的
+      - `distant`
+        - 遥远的；冷漠的；远隔的
     - n.
-      - `distance` 距离；远方；疏远；间隔
+      - `distance`
+        - 距离；远方；疏远；间隔
     - vt.
-      - `distance` 疏远；把…远远甩在后面
+      - `distance`
+        - 疏远；把…远远甩在后面
   - 近义词
-    - adv. 远离地；疏远地；冷淡地
-      - `strange`
-      - `coldly`
+    - adv.
+      - 远离地；疏远地；冷淡地
+        - `strange`
+        - `coldly`
   - 例句
     - `What these pictures demonstrate is that we do feel the pain of others, however distantly.`
       - 这些照片证实了 无论距离的远近 我们都可以感受到他人的痛楚。

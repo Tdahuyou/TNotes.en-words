@@ -1,20 +1,26 @@
 - valorous
   - 发音
-    - 英 `/'vælərəs/`
-    - 美 `/undefined/`
+    - 英
+      - `/'vælərəs/`
+    - 美
+      - `/undefined/`
   - 词义
-    - adj. 勇敢的，无畏的
+    - adj.
+      - 勇敢的，无畏的
   - 记忆
     - val (强大) + orous → 强大的人都很无畏
   - 同根词
     - adv.
-      - `valorously` 勇敢地；无畏地
+      - `valorously`
+        - 勇敢地；无畏地
     - n.
-      - `valor` 英勇；勇猛（等于valour）
+      - `valor`
+        - 英勇；勇猛（等于valour）
   - 近义词
-    - adj. 勇敢的；勇武的
-      - `game`
-      - `brave`
+    - adj.
+      - 勇敢的；勇武的
+        - `game`
+        - `brave`
   - 例句
     - `Seed your tears deep in your heart it will grow up to valorous flowers.`
       - 把眼泪种在心里，会开出勇敢的花朵。

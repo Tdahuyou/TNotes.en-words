@@ -1,18 +1,26 @@
 - meteorologist
   - 发音
-    - 英 `/ˌmiːtiə'rɑːlədʒɪst/`
-    - 美 `/'mitɪə'rɑlədʒɪst/`
+    - 英
+      - `/ˌmiːtiə'rɑːlədʒɪst/`
+    - 美
+      - `/'mitɪə'rɑlədʒɪst/`
   - 词义
-    - n. 气象学者
+    - n.
+      - 气象学者
   - 同根词
     - adj.
-      - `meteorological` 气象的；气象学的
-      - `meteorologic` 气象的；气象学的
+      - `meteorological`
+        - 气象的；气象学的
+      - `meteorologic`
+        - 气象的；气象学的
     - adv.
-      - `meteorologically` 从气象学角度看
+      - `meteorologically`
+        - 从气象学角度看
     - n.
-      - `meteor` 流星；[气象] 大气现象
-      - `meteorology` 气象状态，气象学
+      - `meteor`
+        - 流星；[气象] 大气现象
+      - `meteorology`
+        - 气象状态，气象学
   - 例句
     - `But meteorologist David Beachler from the National Weather Service says not to worry.`
       - 但是国家气象局的气象专家大卫·贝赤勒表示并不需要担心。

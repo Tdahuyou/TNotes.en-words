@@ -1,37 +1,51 @@
 - hop
   - 发音
-    - 英 `/hɑːp/`
-    - 美 `/hɑp/`
+    - 英
+      - `/hɑːp/`
+    - 美
+      - `/hɑp/`
   - 词义
-    - v. 单足跳行；齐足跳行；跳上
-    - `to move by jumping on one foot`
-    - n. 蹦跳；短程旅行
-    - `a short jump`
+    - v.
+      - 单足跳行；齐足跳行；跳上
+        - `to move by jumping on one foot`
+    - n.
+      - 蹦跳；短程旅行
+        - `a short jump`
   - 记忆
     - 憋足气一下跳(hop)到顶部(top)
   - 同根词
     - adj.
-      - `hoppy` 蛇麻草的；啤酒花的；跳动的
+      - `hoppy`
+        - 蛇麻草的；啤酒花的；跳动的
     - n.
-      - `hopper` 料斗；漏斗；单足跳者；跳虫
-      - `hoppy` 吸毒成瘾者
+      - `hopper`
+        - 料斗；漏斗；单足跳者；跳虫
+      - `hoppy`
+        - 吸毒成瘾者
   - 近义词
-    - vt. [计][通信]跳跃；跳过
-      - `jump`
-      - `clear`
-    - n. [计][通信]跳跃；舞会；短途旅行
-      - `jump`
-      - `ball`
-      - `dance`
-      - `spring`
-    - vi. [计][通信]跳跃；单脚跳；作短途旅行
-      - `jump`
-      - `dance`
+    - vt.
+      - [计][通信]跳跃；跳过
+        - `jump`
+        - `clear`
+    - n.
+      - [计][通信]跳跃；舞会；短途旅行
+        - `jump`
+        - `ball`
+        - `dance`
+        - `spring`
+    - vi.
+      - [计][通信]跳跃；单脚跳；作短途旅行
+        - `jump`
+        - `dance`
   - 短语
-    - `hip hop` n. 嘻哈文化（由快板歌、涂墙艺术、霹雳舞等构成的亚文化） 
-    - `hop on` 责骂 
-    - `on the hop` 到处奔忙；忙碌 
-    - `hop off` 起飞；离开 
+    - `hip hop`
+      - n. 嘻哈文化（由快板歌、涂墙艺术、霹雳舞等构成的亚文化） 
+    - `hop on`
+      - 责骂 
+    - `on the hop`
+      - 到处奔忙；忙碌 
+    - `hop off`
+      - 起飞；离开 
   - 例句
     - `a little girl hopping and skipping`
       - 一个蹦蹦跳跳的小女孩

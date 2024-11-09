@@ -1,26 +1,38 @@
 - hairlike
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - adj. 毛一般的,细微的
+    - adj.
+      - 毛一般的,细微的
   - 同根词
     - adj.
-      - `hair` 毛发的；护理毛发的；用毛发制成的
-      - `hairy` 多毛的；毛状的；长毛的
-      - `haired` 有毛发的；长着...头发的（常用以构成复合词）
-      - `hairless` 无毛的；秃顶的
+      - `hair`
+        - 毛发的；护理毛发的；用毛发制成的
+      - `hairy`
+        - 多毛的；毛状的；长毛的
+      - `haired`
+        - 有毛发的；长着...头发的（常用以构成复合词）
+      - `hairless`
+        - 无毛的；秃顶的
     - n.
-      - `hair` 头发；毛发；些微
-      - `hairiness` 有毛；多毛
+      - `hair`
+        - 头发；毛发；些微
+      - `hairiness`
+        - 有毛；多毛
     - vi.
-      - `hair` 生长毛发；形成毛状纤维
+      - `hair`
+        - 生长毛发；形成毛状纤维
     - vt.
-      - `hair` 除去…的毛发
+      - `hair`
+        - 除去…的毛发
   - 近义词
-    - adj. 毛发似的；细微的；细长的
-      - `nice`
-      - `slight`
+    - adj.
+      - 毛发似的；细微的；细长的
+        - `nice`
+        - `slight`
   - 例句
     - `In this depiction of the rod-shaped E. coli, two flagella trail from one end while hairlike pili surround a capsule full of tangled nucleoids.`
       - 在创作这个杆状的大肠杆菌时，其表现出的形式为一端甩出两条鞭毛，同时细微的菌毛围绕在布满凌乱菌核的荚膜上。

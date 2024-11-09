@@ -1,18 +1,25 @@
 - voyager
   - 发音
-    - 英 `/'vɒɪɪdʒə/`
-    - 美 `/'vɔɪɪdʒɚ/`
+    - 英
+      - `/'vɒɪɪdʒə/`
+    - 美
+      - `/'vɔɪɪdʒɚ/`
   - 词义
-    - n. 航行者,航海者
-    - `someone who makes long and often dangerous journeys, especially on the sea`
+    - n.
+      - 航行者,航海者
+        - `someone who makes long and often dangerous journeys, especially on the sea`
   - 同根词
     - n.
-      - `voyage` 航行；航程；旅行记
+      - `voyage`
+        - 航行；航程；旅行记
     - vi.
-      - `voyage` 航行；航海
+      - `voyage`
+        - 航行；航海
     - vt.
-      - `voyage` 飞过；渡过
+      - `voyage`
+        - 飞过；渡过
   - 近义词
-    - n. 航海者，航行者
-      - `coasters`
-      - `seafolk`
+    - n.
+      - 航海者，航行者
+        - `coasters`
+        - `seafolk`

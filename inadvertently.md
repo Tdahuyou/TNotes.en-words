@@ -1,19 +1,25 @@
 - inadvertently
   - 发音
-    - 英 `/,ɪnəd'vɜːt(ə)ntlɪ/`
-    - 美 `/'ɪnəd'vɝtntli/`
+    - 英
+      - `/,ɪnəd'vɜːt(ə)ntlɪ/`
+    - 美
+      - `/'ɪnəd'vɝtntli/`
   - 词义
-    - adv. 非故意地,不注意地
-    - `without realizing what you are doing`
+    - adv.
+      - 非故意地,不注意地
+        - `without realizing what you are doing`
   - 同根词
     - adj.
-      - `inadvertent` 疏忽的；不注意的（副词inadvertently）；无意中做的
+      - `inadvertent`
+        - 疏忽的；不注意的（副词inadvertently）；无意中做的
     - n.
-      - `inadvertence` 不注意；怠慢，疏忽
+      - `inadvertence`
+        - 不注意；怠慢，疏忽
   - 近义词
-    - adv. 非故意地；不注意地
-      - `unintentionally`
-      - `carelessly`
+    - adv.
+      - 非故意地；不注意地
+        - `unintentionally`
+        - `carelessly`
   - 例句
     - `Viruses can be spread inadvertently by email users.`
       - 病毒会被电子邮件用户无意中传播开来。

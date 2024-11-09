@@ -1,14 +1,19 @@
 - archeology
   - 发音
-    - 英 `/ˌɑːki'ɒlədʒi/`
-    - 美 `/,ɑrki'ɑlədʒi/`
+    - 英
+      - `/ˌɑːki'ɒlədʒi/`
+    - 美
+      - `/,ɑrki'ɑlədʒi/`
   - 词义
-    - n. 考古学
+    - n.
+      - 考古学
   - 同根词
     - adj.
-      - `archeological` 考古学的
+      - `archeological`
+        - 考古学的
     - n.
-      - `archeologist` 考古学家
+      - `archeologist`
+        - 考古学家
   - 例句
     - `He has been studying archeology these thirty years.`
       - 他这三十年来一直在研究考古学。

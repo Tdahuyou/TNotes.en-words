@@ -1,9 +1,12 @@
 - Malawi
   - 发音
-    - 英 `/mɑ:'lɑ:wi/`
-    - 美 `/mɑ:'lɑ:wi/`
+    - 英
+      - `/mɑ:'lɑ:wi/`
+    - 美
+      - `/mɑ:'lɑ:wi/`
   - 词义
-    - n. 马拉维（非洲国家）
+    - n.
+      - 马拉维（非洲国家）
   - 例句
     - `Adopting jatropha, he thinks, will be a first step out of poverty for Malawi's farmers, and they seem willing to try.`
       - 他认为，种植麻疯树将是马拉维农民摆脱贫困的第一步，而这些农民似乎也愿意尝试一下。

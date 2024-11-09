@@ -1,19 +1,24 @@
 - indigent
   - 发音
-    - 英 `/'ɪndɪdʒənt/`
-    - 美 `/'ɪndɪdʒənt/`
+    - 英
+      - `/'ɪndɪdʒənt/`
+    - 美
+      - `/'ɪndɪdʒənt/`
   - 词义
-    - adj. 贫困的，贫穷的
-    - `very poor`
+    - adj.
+      - 贫困的，贫穷的
+        - `very poor`
   - 记忆
     - in(里， 内) + dig(需要； 不足) + ent → 内部缺乏的 → 贫困的， 贫穷的
   - 同根词
     - n.
-      - `indigence` 穷困；贫乏；贫穷
+      - `indigence`
+        - 穷困；贫乏；贫穷
   - 近义词
-    - adj. 贫困的；贫穷的（副词indigently）
-      - `poor`
-      - `needy`
+    - adj.
+      - 贫困的；贫穷的（副词indigently）
+        - `poor`
+        - `needy`
   - 例句
     - `No where in the article does it mention her financial status. So…what is it that leads everyone to assume she was indigent?`
       - 在文章中哪也没提及她的财务状况。那么…究竟是什么导致每个人都认为她是贫困的？

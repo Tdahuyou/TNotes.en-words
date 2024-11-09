@@ -1,25 +1,32 @@
 - noxious
   - 发音
-    - 英 `/'nɑːkʃəs/`
-    - 美 `/'nɑkʃəs/`
+    - 英
+      - `/'nɑːkʃəs/`
+    - 美
+      - `/'nɑkʃəs/`
   - 词义
-    - adj. 有害的；有毒的
-    - `harmful or poisonous`
+    - adj.
+      - 有害的；有毒的
+        - `harmful or poisonous`
   - 记忆
     - nox(毒) + ious → 有毒的
   - 同根词
     - n.
-      - `noxiousness` 有毒（noxious 的名词形式）
+      - `noxiousness`
+        - 有毒（noxious 的名词形式）
   - 近义词
-    - adj. 有害的；有毒的；败坏道德的；讨厌的
-      - `harmful`
-      - `toxic`
-      - `evil`
-      - `poisonous`
-      - `rank`
+    - adj.
+      - 有害的；有毒的；败坏道德的；讨厌的
+        - `harmful`
+        - `toxic`
+        - `evil`
+        - `poisonous`
+        - `rank`
   - 短语
-    - `noxious gas` 有害气体 
-    - `noxious fumes` 有毒炮烟 
+    - `noxious gas`
+      - 有害气体 
+    - `noxious fumes`
+      - 有毒炮烟 
   - 例句
     - `noxious fumes`
       - 有毒烟雾

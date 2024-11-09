@@ -1,20 +1,26 @@
 - epitomise
   - 发音
-    - 英 `/ɪ'pɪtəmaɪz/`
-    - 美 `/i'pitəmaiz/`
+    - 英
+      - `/ɪ'pɪtəmaɪz/`
+    - 美
+      - `/i'pitəmaiz/`
   - 词义
-    - v. 象征；体现；代表（等于epitomize）
+    - v.
+      - 象征；体现；代表（等于epitomize）
   - 同根词
     - n.
-      - `epitome` 缩影；摘要；象征
+      - `epitome`
+        - 缩影；摘要；象征
     - vt.
-      - `epitomize` 摘要；概括；成为…的缩影
+      - `epitomize`
+        - 摘要；概括；成为…的缩影
   - 近义词
-    - vt. 象征；体现；代表（等于epitomize）
-      - `indicate`
-      - `image`
-      - `figure`
-      - `embody`
+    - vt.
+      - 象征；体现；代表（等于epitomize）
+        - `indicate`
+        - `image`
+        - `figure`
+        - `embody`
   - 例句
     - `Avarice, embarrassment, boredom, depression, jealousy and love, for example, might epitomise the modern age.`
       - 比如说，有可能象征现代的贪婪，尴尬，乏味，沮丧，嫉妒和爱等。

@@ -1,10 +1,13 @@
 - magnetosphere
   - 发音
-    - 英 `/mæg'niːtəsfɪə/`
-    - 美 `/mæg'nitə,sfɪr/`
+    - 英
+      - `/mæg'niːtəsfɪə/`
+    - 美
+      - `/mæg'nitə,sfɪr/`
   - 词义
-    - n. 磁气圈
-    - `the region surrounding a planet, such as the earth, in which the behaviour of charged particles is controlled by the planet's magnetic field `
+    - n.
+      - 磁气圈
+        - `the region surrounding a planet, such as the earth, in which the behaviour of charged particles is controlled by the planet's magnetic field `
   - 例句
     - `The energy of the particles and the fields in the magnetosphere can vary by large amounts.`
       - 带电粒子的能量大小与磁气圈中的磁场的大小变化极大。

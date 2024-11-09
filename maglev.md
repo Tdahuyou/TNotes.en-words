@@ -1,12 +1,16 @@
 - maglev
   - 发音
-    - 英 `/'mæglev/`
-    - 美 `/'mæglɛv/`
+    - 英
+      - `/'mæglev/`
+    - 美
+      - `/'mæglɛv/`
   - 词义
-    - n. 磁力悬浮火车
-    - `a type of high-speed train that runs on magnets supported by a magnetic field generated around the track `
+    - n.
+      - 磁力悬浮火车
+        - `a type of high-speed train that runs on magnets supported by a magnetic field generated around the track `
   - 短语
-    - `maglev train` 磁悬浮列车 
+    - `maglev train`
+      - 磁悬浮列车 
   - 例句
     - `The engine for maglev trains is rather in noticeable.`
       - 磁悬浮列车的车头是相当值得注意的。

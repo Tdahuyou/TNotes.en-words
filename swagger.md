@@ -1,44 +1,63 @@
 - swagger
   - 发音
-    - 英 `/'swægə/`
-    - 美 `/'swæɡɚ/`
+    - 英
+      - `/'swægə/`
+    - 美
+      - `/'swæɡɚ/`
   - 词义
-    - v. 吓唬；趾高气扬地行走或行事
-    - `to walk proudly, swinging your shoulders in a way that shows you are very confident – used to show disapproval`
-    - n. 大摇大摆；吹牛；威吓；下摆散开状的女式短大衣
-    - `Swagger is also a noun`
-    - adj. 炫耀的；时髦的
+    - v.
+      - 吓唬；趾高气扬地行走或行事
+        - `to walk proudly, swinging your shoulders in a way that shows you are very confident – used to show disapproval`
+    - n.
+      - 大摇大摆；吹牛；威吓；下摆散开状的女式短大衣
+        - `Swagger is also a noun`
+    - adj.
+      - 炫耀的；时髦的
   - 同根词
     - adj.
-      - `swaggering` 大摇大摆的
-      - `swaggie` 时髦的；漂亮的
+      - `swaggering`
+        - 大摇大摆的
+      - `swaggie`
+        - 时髦的；漂亮的
     - n.
-      - `swag` 赃物，掠夺品；摇晃；大量
-      - `swaggie` 吹牛；流浪汉；狂妄自大者
+      - `swag`
+        - 赃物，掠夺品；摇晃；大量
+      - `swaggie`
+        - 吹牛；流浪汉；狂妄自大者
     - vi.
-      - `swag` 垂下；摇晃，倾斜
-      - `swaggering` 威吓；吓唬（swagger的现在分词）
-      - `swaggie` 吹牛；昂首阔步；虚张声势吓人
+      - `swag`
+        - 垂下；摇晃，倾斜
+      - `swaggering`
+        - 威吓；吓唬（swagger的现在分词）
+      - `swaggie`
+        - 吹牛；昂首阔步；虚张声势吓人
     - vt.
-      - `swag` 使……摇摆；用垂挂物装饰
-      - `swaggering` 吹牛；神气活现；昂首阔步（swagger的现在分词）
-      - `swaggie` 恫吓；吓唬
+      - `swag`
+        - 使……摇摆；用垂挂物装饰
+      - `swaggering`
+        - 吹牛；神气活现；昂首阔步（swagger的现在分词）
+      - `swaggie`
+        - 恫吓；吓唬
   - 近义词
-    - vt. 吓唬；趾高气扬地行走或行事
-      - `browbeat`
-      - `gally`
-    - vi. 大摇大摆；吹牛；虚张声势吓人
-      - `hot air`
-      - `talk horse`
-    - n. 大摇大摆；吹牛；威吓；下摆散开状的女式短大衣
-      - `fanfaronade`
-      - `blague`
-    - adj. 炫耀的；时髦的
-      - `modern`
-      - `fashionable`
-      - `tony`
-      - `in`
-      - `ambitious`
+    - vt.
+      - 吓唬；趾高气扬地行走或行事
+        - `browbeat`
+        - `gally`
+    - vi.
+      - 大摇大摆；吹牛；虚张声势吓人
+        - `hot air`
+        - `talk horse`
+    - n.
+      - 大摇大摆；吹牛；威吓；下摆散开状的女式短大衣
+        - `fanfaronade`
+        - `blague`
+    - adj.
+      - 炫耀的；时髦的
+        - `modern`
+        - `fashionable`
+        - `tony`
+        - `in`
+        - `ambitious`
   - 例句
     - `He swaggered over towards me.`
       - 他趾高气扬地向我走来。

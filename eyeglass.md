@@ -1,14 +1,18 @@
 - eyeglass
   - 发音
-    - 英 `/'aɪglɑːs/`
-    - 美 `/'aɪɡlæs/`
+    - 英
+      - `/'aɪglɑːs/`
+    - 美
+      - `/'aɪɡlæs/`
   - 词义
-    - n. 眼镜；镜片
-    - `a lens for one eye, worn to help you see better with that eye`
+    - n.
+      - 眼镜；镜片
+        - `a lens for one eye, worn to help you see better with that eye`
   - 近义词
-    - n. 眼镜；镜片
-      - `googs`
-      - `eye-glasses`
+    - n.
+      - 眼镜；镜片
+        - `googs`
+        - `eye-glasses`
   - 例句
     - `Contact lenses were once thought to be eyeglass killers.`
       - 隐形眼镜一度被认为是普通眼镜的杀手。

@@ -1,14 +1,18 @@
 - pirogue
   - 发音
-    - 英 `/pɪ'rəʊg/`
-    - 美 `/'piroɡ/`
+    - 英
+      - `/pɪ'rəʊg/`
+    - 美
+      - `/'piroɡ/`
   - 词义
-    - n. 独木舟
-    - `any of various kinds of dugout canoes  `
+    - n.
+      - 独木舟
+        - `any of various kinds of dugout canoes  `
   - 近义词
-    - n. 独木舟
-      - `piragua`
-      - `dugout`
+    - n.
+      - 独木舟
+        - `piragua`
+        - `dugout`
   - 例句
     - `He gotta go pole the pirogue down the bayou.`
       - 他驾驶独木舟顺着密西西比河往下游。

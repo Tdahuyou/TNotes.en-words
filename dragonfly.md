@@ -1,15 +1,19 @@
 - dragonfly
   - 发音
-    - 英 `/'drægənflaɪ/`
-    - 美 `/ˈdrægənˌflaɪ/`
+    - 英
+      - `/'drægənflaɪ/`
+    - 美
+      - `/ˈdrægənˌflaɪ/`
   - 词义
-    - n. 蜻蜓
-    - `a brightly-coloured insect with a long thin body and transparent wings which lives near water`
+    - n.
+      - 蜻蜓
+        - `a brightly-coloured insect with a long thin body and transparent wings which lives near water`
   - 近义词
-    - n. [昆]蜻蜓
-      - `mosquito hawk`
-      - `Tombow`
-      - `Shafrir`
+    - n.
+      - [昆]蜻蜓
+        - `mosquito hawk`
+        - `Tombow`
+        - `Shafrir`
   - 例句
     - `It looks like a blue dragonfly.`
       - 它看上去像只蓝色蜻蜓。

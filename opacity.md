@@ -1,21 +1,28 @@
 - opacity
   - 发音
-    - 英 `/ou'pæsəti/`
-    - 美 `/o'pæsəti/`
+    - 英
+      - `/ou'pæsəti/`
+    - 美
+      - `/o'pæsəti/`
   - 词义
-    - n. 不透明性；晦涩
-    - `the quality that something has when it is difficult to see through`
+    - n.
+      - 不透明性；晦涩
+        - `the quality that something has when it is difficult to see through`
   - 同根词
     - n.
-      - `opacification` [眼科] 浑浊化；不透明
+      - `opacification`
+        - [眼科] 浑浊化；不透明
     - vi.
-      - `opacify` 变为不透明
+      - `opacify`
+        - 变为不透明
     - vt.
-      - `opacify` 使…不透明
+      - `opacify`
+        - 使…不透明
   - 近义词
-    - n. [光]不透明；不传导；暧昧
-      - `ambiguity`
-      - `shadiness`
+    - n.
+      - [光]不透明；不传导；暧昧
+        - `ambiguity`
+        - `shadiness`
   - 例句
     - `Opacity of the eye lens can be induced by deficiency of certain vitamins.`
       - 眼球晶状体的混浊可由缺乏某些维生素引起。

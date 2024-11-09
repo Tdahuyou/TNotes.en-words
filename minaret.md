@@ -1,13 +1,17 @@
 - minaret
   - 发音
-    - 英 `/'mɪnəret; ,mɪnə'ret/`
-    - 美 `/,mɪnə'rɛt/`
+    - 英
+      - `/'mɪnəret; ,mɪnə'ret/`
+    - 美
+      - `/,mɪnə'rɛt/`
   - 词义
-    - n. 尖塔
-    - `a tall thin tower on a  mosque  , from which Muslims are called to prayer`
+    - n.
+      - 尖塔
+        - `a tall thin tower on a  mosque  , from which Muslims are called to prayer`
   - 近义词
-    - n. 尖塔
-      - `steeple`
+    - n.
+      - 尖塔
+        - `steeple`
   - 例句
     - `They blasted a minaret too.`
       - 他们还朝一个尖塔开了炮。

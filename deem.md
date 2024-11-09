@@ -1,22 +1,27 @@
 - deem
   - 发音
-    - 英 `/diːm/`
-    - 美 `/dim/`
+    - 英
+      - `/diːm/`
+    - 美
+      - `/dim/`
   - 词义
-    - vt. 认为，相信
-    - `to think of something in a particular way or as having a particular quality`
+    - vt.
+      - 认为，相信
+        - `to think of something in a particular way or as having a particular quality`
   - 记忆
     - 别以为事情表面似乎(seem)是这样， 就认为(deem)八九不离十了
   - 近义词
-    - vt. 认为，视作；相信
-      - `count`
-      - `feel`
-      - `find`
-      - `guess`
-      - `rate`
-    - vi. 认为，持某种看法；作某种评价
-      - `consider`
-      - `take for`
+    - vt.
+      - 认为，视作；相信
+        - `count`
+        - `feel`
+        - `find`
+        - `guess`
+        - `rate`
+    - vi.
+      - 认为，持某种看法；作某种评价
+        - `consider`
+        - `take for`
   - 例句
     - `French and German were deemed essential.`
       - 法语和德语被认为是必需的。

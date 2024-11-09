@@ -1,22 +1,30 @@
 - discoverer
   - 发音
-    - 英 `/undefined/`
-    - 美 `/dis'kʌvərə/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/dis'kʌvərə/`
   - 词义
-    - n. 发现者
+    - n.
+      - 发现者
   - 同根词
     - adj.
-      - `discoverable` 发现的；显露的；泄露的
+      - `discoverable`
+        - 发现的；显露的；泄露的
     - n.
-      - `discovery` 发现，发觉；被发现的事物
+      - `discovery`
+        - 发现，发觉；被发现的事物
     - vi.
-      - `discover` 发现
+      - `discover`
+        - 发现
     - vt.
-      - `discover` 发现；发觉
+      - `discover`
+        - 发现；发觉
   - 近义词
-    - n. 发现者
-      - `detector`
-      - `finder`
+    - n.
+      - 发现者
+        - `detector`
+        - `finder`
   - 例句
     - `Madame Curie will always be remembered as the discoverer of radium.`
       - 居里夫人作为镭的发现者将永远为人们所怀念。

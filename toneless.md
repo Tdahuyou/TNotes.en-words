@@ -1,31 +1,45 @@
 - toneless
   - 发音
-    - 英 `/'təʊnlɪs/`
-    - 美 `/'tonləs/`
+    - 英
+      - `/'təʊnlɪs/`
+    - 美
+      - `/'tonləs/`
   - 词义
-    - adj. 单调的，沉闷的
-    - `a toneless voice does not express any feelings`
+    - adj.
+      - 单调的，沉闷的
+        - `a toneless voice does not express any feelings`
   - 同根词
     - adj.
-      - `tonic` 滋补的；声调的；使精神振作的
-      - `tonal` 色调的；音调的
-      - `toned` 年久变色的；有声调的，具有……音质的
+      - `tonic`
+        - 滋补的；声调的；使精神振作的
+      - `tonal`
+        - 色调的；音调的
+      - `toned`
+        - 年久变色的；有声调的，具有……音质的
     - adv.
-      - `tonelessly` 单调地，沉闷地
+      - `tonelessly`
+        - 单调地，沉闷地
     - n.
-      - `tone` 语气；色调；音调；音色
-      - `toner` 调色剂，增色剂；色粉
-      - `tonic` 补药；主调音或基音
-      - `tonality` 音调；色调
+      - `tone`
+        - 语气；色调；音调；音色
+      - `toner`
+        - 调色剂，增色剂；色粉
+      - `tonic`
+        - 补药；主调音或基音
+      - `tonality`
+        - 音调；色调
     - vi.
-      - `tone` 颜色调和；呈现悦目色调
+      - `tone`
+        - 颜色调和；呈现悦目色调
     - vt.
-      - `tone` 增强；用某种调子说
+      - `tone`
+        - 增强；用某种调子说
   - 近义词
-    - adj. 沉闷的；单调的；缺乏声调的；无声的
-      - `flat`
-      - `blank`
-      - `tedious`
+    - adj.
+      - 沉闷的；单调的；缺乏声调的；无声的
+        - `flat`
+        - `blank`
+        - `tedious`
   - 例句
     - `‘I’m sorry,’ he said, in a flat toneless voice.`
       - “对不起。”他以淡淡的声调说道。

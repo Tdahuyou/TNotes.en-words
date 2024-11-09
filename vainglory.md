@@ -1,18 +1,24 @@
 - vainglory
   - 发音
-    - 英 `/ˌveɪn'glɔːri/`
-    - 美 `/,vein'ɡlɔ:ri/`
+    - 英
+      - `/ˌveɪn'glɔːri/`
+    - 美
+      - `/,vein'ɡlɔ:ri/`
   - 词义
-    - n. 自负；虚荣
-    - `boastfulness or vanity `
+    - n.
+      - 自负；虚荣
+        - `boastfulness or vanity `
   - 同根词
     - adj.
-      - `vain` 徒劳的；虚荣的；空虚的
-      - `vainglorious` 虚荣心强的；非常自负的
+      - `vain`
+        - 徒劳的；虚荣的；空虚的
+      - `vainglorious`
+        - 虚荣心强的；非常自负的
   - 近义词
-    - n. 虚荣；自负
-      - `ego`
-      - `peacockery`
+    - n.
+      - 虚荣；自负
+        - `ego`
+        - `peacockery`
   - 例句
     - `This is the truth by which vainglory is put to flight.`
       - 这是一项真理，它能除去人贪慕虚荣的心。

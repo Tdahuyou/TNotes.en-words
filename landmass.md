@@ -1,16 +1,20 @@
 - landmass
   - 发音
-    - 英 `/'lændmæs/`
-    - 美 `/'lændmæs/`
+    - 英
+      - `/'lændmæs/`
+    - 美
+      - `/'lændmæs/`
   - 词义
-    - n. 大片陆地
-    - `a large area of land such as a continent`
+    - n.
+      - 大片陆地
+        - `a large area of land such as a continent`
   - 记忆
     - land(陆地) + mass(大量) → 大片陆地
   - 近义词
-    - n. 大陆
-      - `mainland`
-      - `continent`
+    - n.
+      - 大陆
+        - `mainland`
+        - `continent`
   - 例句
     - `Antarctica is the earth's coldest landmass.`
       - 南极洲是地球上最冷的大陆。 。

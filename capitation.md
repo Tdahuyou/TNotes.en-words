@@ -1,16 +1,21 @@
 - capitation
   - 发音
-    - 英 `/kæpɪ'teɪʃ(ə)n/`
-    - 美 `/'kæpə'teʃən/`
+    - 英
+      - `/kæpɪ'teɪʃ(ə)n/`
+    - 美
+      - `/'kæpə'teʃən/`
   - 词义
-    - n. 人头税,按人收费
-    - `a tax or payment of the same amount from each person`
+    - n.
+      - 人头税,按人收费
+        - `a tax or payment of the same amount from each person`
   - 同根词
     - adj.
-      - `capitate` 头状花序的
+      - `capitate`
+        - 头状花序的
   - 近义词
-    - n. [税收]人头税；按人收费；每人均摊费
-      - `community charge`
+    - n.
+      - [税收]人头税；按人收费；每人均摊费
+        - `community charge`
   - 例句
     - `No capitation, or other direct, tax shall be laid, unless in proportion to the census or enumeration herein before directed to be taken.`
       - 除按本宪法前文对人口普查或统计结果规定的比例征税外，不得征收人头税或其他直接税。

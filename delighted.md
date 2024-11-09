@@ -1,32 +1,44 @@
 - delighted
   - 发音
-    - 英 `/dɪ'laɪtɪd/`
-    - 美 `/dɪ'laɪtɪd/`
+    - 英
+      - `/dɪ'laɪtɪd/`
+    - 美
+      - `/dɪ'laɪtɪd/`
   - 词义
-    - adj. 快乐的；欣喜的
-    - `very pleased and happy`
+    - adj.
+      - 快乐的；欣喜的
+        - `very pleased and happy`
   - 记忆
     - de(向下) + light(日光) → 沐浴在阳光下 → 快乐， 高兴
   - 同根词
     - adj.
-      - `delightful` 可爱的，可喜的；令人愉快的
-      - `delightsome` 可爱的；狂喜的
+      - `delightful`
+        - 可爱的，可喜的；令人愉快的
+      - `delightsome`
+        - 可爱的；狂喜的
     - adv.
-      - `delightfully` 欣然的，快乐的
-      - `delightedly` 高兴地，欣喜地
+      - `delightfully`
+        - 欣然的，快乐的
+      - `delightedly`
+        - 高兴地，欣喜地
     - n.
-      - `delight` 高兴
+      - `delight`
+        - 高兴
     - vi.
-      - `delight` 高兴
+      - `delight`
+        - 高兴
     - vt.
-      - `delight` 使高兴
+      - `delight`
+        - 使高兴
   - 近义词
-    - adj. 高兴的；欣喜的
-      - `happy`
-      - `pleased`
-      - `glad`
+    - adj.
+      - 高兴的；欣喜的
+        - `happy`
+        - `pleased`
+        - `glad`
   - 短语
-    - `delighted with` 高兴；对…感到高兴 
+    - `delighted with`
+      - 高兴；对…感到高兴 
   - 例句
     - `Her screams of delighted laughter filled the air.`
       - 她喜悦的尖叫声在空中荡漾。

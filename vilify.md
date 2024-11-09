@@ -1,24 +1,32 @@
 - vilify
   - 发音
-    - 英 `/'vilifai/`
-    - 美 `/'vɪlɪfaɪ/`
+    - 英
+      - `/'vilifai/`
+    - 美
+      - `/'vɪlɪfaɪ/`
   - 词义
-    - v. 诽谤，辱骂；贬低，轻视
-    - `If you are vilified by someone, they say or write very unpleasant things about you, so that people will have a low opinion of you`
+    - v.
+      - 诽谤，辱骂；贬低，轻视
+        - `If you are vilified by someone, they say or write very unpleasant things about you, so that people will have a low opinion of you`
   - 记忆
     - 来自vile (a. 卑鄙的)
   - 同根词
     - adj.
-      - `vile` 卑鄙的；邪恶的；低廉的；肮脏的
+      - `vile`
+        - 卑鄙的；邪恶的；低廉的；肮脏的
     - n.
-      - `vilification` 诽谤；中伤；污蔑
-      - `vilifier` 诽谤者
+      - `vilification`
+        - 诽谤；中伤；污蔑
+      - `vilifier`
+        - 诽谤者
     - vt.
-      - `vilipend` 诋毁；轻视
+      - `vilipend`
+        - 诋毁；轻视
   - 近义词
-    - vt. 诽谤；中伤；轻视；贬低
-      - `lower`
-      - `wrong`
+    - vt.
+      - 诽谤；中伤；轻视；贬低
+        - `lower`
+        - `wrong`
   - 例句
     - `The agency has been vilified by some doctors for being unnecessarily slow to approve life-saving drugs.`
       - 该机构因对救生药物的审批速度过慢而备受一些医生的诽谤。

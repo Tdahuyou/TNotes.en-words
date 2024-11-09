@@ -1,22 +1,29 @@
 - monastery
   - 发音
-    - 英 `/'mɑːnəsteri/`
-    - 美 `/'mɑnəstɛri/`
+    - 英
+      - `/'mɑːnəsteri/`
+    - 美
+      - `/'mɑnəstɛri/`
   - 词义
-    - n. 男修道院，寺院
-    - `a place where  monk s  live`
+    - n.
+      - 男修道院，寺院
+        - `a place where  monk s  live`
   - 记忆
     - mon(孤独的) + as + tery(处所) → 孤独者所在之处 → 寺院
   - 同根词
     - adj.
-      - `monastic` 修道院的；僧尼的；庙宇的
+      - `monastic`
+        - 修道院的；僧尼的；庙宇的
     - n.
-      - `monastic` 僧侣；修道士
-      - `monasticism` 修道院生活；禁欲主义；出家；隐修制度
+      - `monastic`
+        - 僧侣；修道士
+      - `monasticism`
+        - 修道院生活；禁欲主义；出家；隐修制度
   - 近义词
-    - n. 修道院；僧侣
-      - `monk`
-      - `Grazie`
+    - n.
+      - 修道院；僧侣
+        - `monk`
+        - `Grazie`
   - 例句
     - `They found an icon in the monastery.`
       - 他们在修道院中发现了一个圣像。

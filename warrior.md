@@ -1,24 +1,32 @@
 - warrior
   - 发音
-    - 英 `/'wɒrɪə/`
-    - 美 `/'wɔrɪɚ/`
+    - 英
+      - `/'wɒrɪə/`
+    - 美
+      - `/'wɔrɪɚ/`
   - 词义
-    - n. 勇士，武士
-    - `a soldier or fighter who is brave and experienced – used about people in the past`
+    - n.
+      - 勇士，武士
+        - `a soldier or fighter who is brave and experienced – used about people in the past`
   - 同根词
     - adj.
-      - `warring` 交战的；敌对的；冲突的
+      - `warring`
+        - 交战的；敌对的；冲突的
     - n.
-      - `warring` 战争；战斗
+      - `warring`
+        - 战争；战斗
     - v.
-      - `warring` 进行战争（war的现在分词形式）
+      - `warring`
+        - 进行战争（war的现在分词形式）
   - 近义词
-    - n. 战士，勇士；鼓吹战争的人
-      - `champion`
-      - `fighter`
-      - `brave`
+    - n.
+      - 战士，勇士；鼓吹战争的人
+        - `champion`
+        - `fighter`
+        - `brave`
   - 短语
-    - `dragon warrior` 龙战士；龙之武士（功夫熊猫中的称号）；神龙大侠；龙勇士 
+    - `dragon warrior`
+      - 龙战士；龙之武士（功夫熊猫中的称号）；神龙大侠；龙勇士 
   - 例句
     - `a noble warrior`
       - 忠勇的战士

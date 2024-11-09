@@ -1,27 +1,37 @@
 - enlightenment
   - 发音
-    - 英 `/ɪn'laɪtnmənt/`
-    - 美 `/ɪn'laɪtnmənt/`
+    - 英
+      - `/ɪn'laɪtnmənt/`
+    - 美
+      - `/ɪn'laɪtnmənt/`
   - 词义
-    - n. 启发，教化，启迪；[theE-]启蒙运动
-    - `Enlightenment means the act of enlightening or the state of being enlightened`
+    - n.
+      - 启发，教化，启迪；[theE-]启蒙运动
+        - `Enlightenment means the act of enlightening or the state of being enlightened`
   - 记忆
     - 来自enlighten(vt. 启发， 启蒙)
   - 同根词
     - adj.
-      - `enlightened` 开明的；文明的；进步的；被启发的
-      - `enlightening` 使人领悟的；有启发作用的
+      - `enlightened`
+        - 开明的；文明的；进步的；被启发的
+      - `enlightening`
+        - 使人领悟的；有启发作用的
     - v.
-      - `enlightened` 启迪（enlighten的过去式）
-      - `enlightening` 启蒙；通知（enlighten的ing形式）
+      - `enlightened`
+        - 启迪（enlighten的过去式）
+      - `enlightening`
+        - 启蒙；通知（enlighten的ing形式）
     - vt.
-      - `enlighten` 启发，启蒙；教导，开导；照耀
+      - `enlighten`
+        - 启发，启蒙；教导，开导；照耀
   - 近义词
-    - n. 启迪；启蒙运动；教化
-      - `cultivation`
-      - `edification`
+    - n.
+      - 启迪；启蒙运动；教化
+        - `cultivation`
+        - `edification`
   - 短语
-    - `age of enlightenment` 启蒙时代；启蒙时期 
+    - `age of enlightenment`
+      - 启蒙时代；启蒙时期 
   - 例句
     - `Stella had a moment of enlightenment.`
       - 斯特拉恍然大悟。

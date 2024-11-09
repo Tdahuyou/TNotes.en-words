@@ -1,19 +1,24 @@
 - tribute
   - 发音
-    - 英 `/'trɪbjuːt/`
-    - 美 `/'trɪbjut/`
+    - 英
+      - `/'trɪbjuːt/`
+    - 美
+      - `/'trɪbjut/`
   - 词义
-    - n. 贡品；颂词，称赞；悼念，致哀；礼物
-    - `something that you say, do, or give in order to express your respect or admiration for someone`
+    - n.
+      - 贡品；颂词，称赞；悼念，致哀；礼物
+        - `something that you say, do, or give in order to express your respect or admiration for someone`
   - 记忆
     - tribut(给予) + e → 给予(皇室)的东西 → 贡品
   - 近义词
-    - n. 礼物；[税收]贡物；颂词
-      - `gift`
-      - `giving`
-      - `present`
+    - n.
+      - 礼物；[税收]贡物；颂词
+        - `gift`
+        - `giving`
+        - `present`
   - 短语
-    - `pay tribute` 致敬；朝贡 
+    - `pay tribute`
+      - 致敬；朝贡 
   - 例句
     - `The players wore black armbands as a tribute to their late teammate.`
       - 球员们戴着黑纱悼念已故的队友。

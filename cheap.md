@@ -1,31 +1,48 @@
 - cheap
   - 发音
-    - 英 `/tʃiːp/`
-    - 美 `/tʃip/`
+    - 英
+      - `/tʃiːp/`
+    - 美
+      - `/tʃip/`
   - 词义
-    - adj. 便宜的
-    - `not at all expensive, or lower in price than you expected`
+    - adj.
+      - 便宜的
+        - `not at all expensive, or lower in price than you expected`
   - 同根词
     - adv.
-      - `cheaply` 便宜地；廉价地
+      - `cheaply`
+        - 便宜地；廉价地
     - n.
-      - `cheapskate` 小气鬼；吝啬鬼
+      - `cheapskate`
+        - 小气鬼；吝啬鬼
   - 近义词
-    - adj. [贸易]便宜的；小气的；不值钱的
-      - `inexpensive`
-      - `ten-cent`
+    - adj.
+      - [贸易]便宜的；小气的；不值钱的
+        - `inexpensive`
+        - `ten-cent`
   - 短语
-    - `on the cheap` 便宜地；经济地 
-    - `cheap labor` 廉价劳动 
-    - `cheap labour` 廉价劳动力；廉价劳工 
-    - `cheap goods` 廉价品 
-    - `good cheap` [古语] 
-    - `cheap and nasty` 不值钱的；价廉物劣的 
-    - `feel cheap` [口]觉得身体不舒服；感到惭愧 
-    - `cheap credit` 低息贷款 
-    - `cheap money` 低利借款；来得容易的非正当收入；在钱上好商量的人 
-    - `cheap shot` 恶意中伤；卑鄙手段 
-    - `dirt cheap` 特别便宜，相当便宜 
+    - `on the cheap`
+      - 便宜地；经济地 
+    - `cheap labor`
+      - 廉价劳动 
+    - `cheap labour`
+      - 廉价劳动力；廉价劳工 
+    - `cheap goods`
+      - 廉价品 
+    - `good cheap`
+      - [古语] 
+    - `cheap and nasty`
+      - 不值钱的；价廉物劣的 
+    - `feel cheap`
+      - [口]觉得身体不舒服；感到惭愧 
+    - `cheap credit`
+      - 低息贷款 
+    - `cheap money`
+      - 低利借款；来得容易的非正当收入；在钱上好商量的人 
+    - `cheap shot`
+      - 恶意中伤；卑鄙手段 
+    - `dirt cheap`
+      - 特别便宜，相当便宜 
   - 例句
     - `cheap rail fares`
       - 便宜的火车票

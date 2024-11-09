@@ -1,13 +1,17 @@
 - bedcover
   - 发音
-    - 英 `/'bedkʌvə/`
-    - 美 `/'bɛdkʌvɚ/`
+    - 英
+      - `/'bedkʌvə/`
+    - 美
+      - `/'bɛdkʌvɚ/`
   - 词义
-    - n. 被面
+    - n.
+      - 被面
   - 近义词
-    - n. 床罩；被面
-      - `bedspread`
-      - `counterpane`
+    - n.
+      - 床罩；被面
+        - `bedspread`
+        - `counterpane`
   - 例句
     - `Seven treasures equitable considering brush-off, on act not be cautious a bedcover pack to suffocate, hurriedly infuse a few orange juices just difficultly keep on swallowing.`
       - 七宝正想拒绝，一不留神被面包噎住，连忙灌了几口橙汁才艰难的咽下去。

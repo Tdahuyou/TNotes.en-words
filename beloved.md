@@ -1,16 +1,21 @@
 - beloved
   - 发音
-    - 英 `/bɪ'lʌvɪd; -'lʌvd/`
-    - 美 `/bɪ'lʌvd/`
+    - 英
+      - `/bɪ'lʌvɪd; -'lʌvd/`
+    - 美
+      - `/bɪ'lʌvd/`
   - 词义
-    - adj. 心爱的n所爱的人
-    - `loved very much by someone`
+    - adj.
+      - 心爱的n所爱的人
+        - `loved very much by someone`
   - 近义词
-    - adj. 心爱的；挚爱的
-      - `blue-eyed`
-    - n. 心爱的人；亲爱的教友
-      - `darling`
-      - `the light of one's eyes`
+    - adj.
+      - 心爱的；挚爱的
+        - `blue-eyed`
+    - n.
+      - 心爱的人；亲爱的教友
+        - `darling`
+        - `the light of one's eyes`
   - 例句
     - `He never recovered from the death of his beloved daughter.`
       - 他一直没有走出失去爱女的阴影。

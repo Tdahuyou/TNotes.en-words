@@ -1,7 +1,9 @@
 - Monet
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
   - 例句
     - `Monet described his attempts to observe and capture the colors in nature thus: “I’m chasing the merest sliver of color.`

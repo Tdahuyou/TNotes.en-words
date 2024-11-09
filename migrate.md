@@ -1,26 +1,36 @@
 - migrate
   - 发音
-    - 英 `/'maɪgreɪt/`
-    - 美 `/'maɪɡret/`
+    - 英
+      - `/'maɪgreɪt/`
+    - 美
+      - `/'maɪɡret/`
   - 词义
-    - v. 迁徙；移居
-    - `if birds or animals migrate, they travel regularly from one part of the world to another`
+    - v.
+      - 迁徙；移居
+        - `if birds or animals migrate, they travel regularly from one part of the world to another`
   - 记忆
     - migr(移动) + ate → 迁徙； 移居
   - 同根词
     - adj.
-      - `migrant` 移居的；流浪的
-      - `migratory` 迁移的；流浪的
+      - `migrant`
+        - 移居的；流浪的
+      - `migratory`
+        - 迁移的；流浪的
     - n.
-      - `migration` 迁移；移民；移动
-      - `migrant` 候鸟；移居者；随季节迁移的民工
-      - `migrator` 移居者；候鸟
+      - `migration`
+        - 迁移；移民；移动
+      - `migrant`
+        - 候鸟；移居者；随季节迁移的民工
+      - `migrator`
+        - 移居者；候鸟
   - 近义词
-    - vi. 移动；随季节而移居；移往
-      - `to move`
-      - `to shift`
-    - vt. 使移居；使移植
-      - `transplant`
+    - vi.
+      - 移动；随季节而移居；移往
+        - `to move`
+        - `to shift`
+    - vt.
+      - 使移居；使移植
+        - `transplant`
   - 例句
     - `People migrate to cities like Jakarta in search of work.`
       - 人们移居到雅加达这样的城市找工作。

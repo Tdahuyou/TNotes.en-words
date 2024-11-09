@@ -1,13 +1,17 @@
 - housewifery
   - 发音
-    - 英 `/'haʊswɪfərɪ/`
-    - 美 `/'hʌzɪfri/`
+    - 英
+      - `/'haʊswɪfərɪ/`
+    - 美
+      - `/'hʌzɪfri/`
   - 词义
-    - n. 家事；家政
+    - n.
+      - 家事；家政
   - 近义词
-    - n. 家事；家政
-      - `husbandry`
-      - `homemaking`
+    - n.
+      - 家事；家政
+        - `husbandry`
+        - `homemaking`
   - 例句
     - `Results The score of somatization and consternation factors in housewifery women were higher than nation norms;`
       - 结果家政女性躯体化、恐怖因子均分高于全国常模；

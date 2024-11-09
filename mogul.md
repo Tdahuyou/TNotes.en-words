@@ -1,13 +1,17 @@
 - mogul
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 显要人物；有权势的人
+    - n.
+      - 显要人物；有权势的人
   - 近义词
-    - n. 有权势的人；显要人物
-      - `mughal`
-      - `mover and shaker`
+    - n.
+      - 有权势的人；显要人物
+        - `mughal`
+        - `mover and shaker`
   - 例句
     - `...an international media mogul.`
       - ...一位国际传媒大亨。

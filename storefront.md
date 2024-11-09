@@ -1,13 +1,17 @@
 - storefront
   - 发音
-    - 英 `/'stɔːfrʌnt/`
-    - 美 `/'stɔr'frʌnt/`
+    - 英
+      - `/'stɔːfrʌnt/`
+    - 美
+      - `/'stɔr'frʌnt/`
   - 词义
-    - n. 店头,店面
-    - `the part of a store that faces the street`
+    - n.
+      - 店头,店面
+        - `the part of a store that faces the street`
   - 近义词
-    - n. [贸易]店面；店头
-      - `shopfront`
+    - n.
+      - [贸易]店面；店头
+        - `shopfront`
   - 例句
     - `A small storefront leads to an English-language school run by Disney.`
       - 一个小的店面通向由迪尼斯经营的英语语言学校。

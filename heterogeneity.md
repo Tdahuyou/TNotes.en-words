@@ -1,19 +1,25 @@
 - heterogeneity
   - 发音
-    - 英 `/ˌhetərəudʒi'niːɪti/`
-    - 美 `/undefined/`
+    - 英
+      - `/ˌhetərəudʒi'niːɪti/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 异质性
+    - n.
+      - 异质性
   - 记忆
     - hetero (异) + gene (产生) + ity → 异质性
   - 同根词
     - adj.
-      - `heterogeneous` [化学] 多相的；异种的；[化学] 不均匀的；由不同成分形成的
-      - `heterogenous` 异质的；[生物] 异源的；异种的
+      - `heterogeneous`
+        - [化学] 多相的；异种的；[化学] 不均匀的；由不同成分形成的
+      - `heterogenous`
+        - 异质的；[生物] 异源的；异种的
   - 近义词
-    - n. [生物]异质性；[物][矿业][化学]不均匀性；多相性
-      - `nonuniformity`
-      - `ununiformity`
+    - n.
+      - [生物]异质性；[物][矿业][化学]不均匀性；多相性
+        - `nonuniformity`
+        - `ununiformity`
   - 例句
     - `Seeral of the findings in the paper indicate an extraordinary degree of heterogeneity in the brain.`
       - 本篇文章中的许多结果都显示了脑中存在的一种特殊的异质性。

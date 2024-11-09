@@ -1,17 +1,22 @@
 - stonemason
   - 发音
-    - 英 `/'stəʊnmeɪs(ə)n/`
-    - 美 `/'stonmesn/`
+    - 英
+      - `/'stəʊnmeɪs(ə)n/`
+    - 美
+      - `/'stonmesn/`
   - 词义
-    - n. 石匠
-    - `someone whose job is cutting stone into pieces to be used in buildings`
+    - n.
+      - 石匠
+        - `someone whose job is cutting stone into pieces to be used in buildings`
   - 同根词
     - n.
-      - `stonecutter` 石匠；琢石机；石工
+      - `stonecutter`
+        - 石匠；琢石机；石工
   - 近义词
-    - n. 石匠；石工；石工锤
-      - `jadder`
-      - `masonry`
+    - n.
+      - 石匠；石工；石工锤
+        - `jadder`
+        - `masonry`
   - 例句
     - `One thinks of Amos the sheepherder, Socrates the stonemason, Omar the tentmaker .`
       - 想想牧羊人阿摩司，石匠苏格拉底，帐蓬制造人奥马尔。

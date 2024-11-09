@@ -1,19 +1,24 @@
 - foliage
   - 发音
-    - 英 `/'fouliɪdʒ/`
-    - 美 `/'folɪɪdʒ/`
+    - 英
+      - `/'fouliɪdʒ/`
+    - 美
+      - `/'folɪɪdʒ/`
   - 词义
-    - n. 叶
-    - `the leaves of a plant`
+    - n.
+      - 叶
+        - `the leaves of a plant`
   - 记忆
     - foli(叶) + age → (植物的)叶
   - 近义词
-    - n. 植物；叶子（总称）
-      - `vegetable`
-      - `leaf`
-      - `plant`
+    - n.
+      - 植物；叶子（总称）
+        - `vegetable`
+        - `leaf`
+        - `plant`
   - 短语
-    - `foliage plant` 观叶植物 
+    - `foliage plant`
+      - 观叶植物 
   - 例句
     - `dark green foliage`
       - 墨绿色的叶子

@@ -1,24 +1,35 @@
 - jewel
   - 发音
-    - 英 `/'dʒuːəl/`
-    - 美 `/'dʒuəl/`
+    - 英
+      - `/'dʒuːəl/`
+    - 美
+      - `/'dʒuəl/`
   - 词义
-    - n. 宝石
-    - `a valuable stone, such as a diamond`
+    - n.
+      - 宝石
+        - `a valuable stone, such as a diamond`
   - 同根词
     - n.
-      - `jewelry` 珠宝；珠宝类
-      - `jewellery` 珠宝（等于jewelry）
-      - `jeweler` 珠宝商；宝石匠；钟表匠；钟表商
-      - `jeweller` 珠宝商；钟表匠，宝石匠
+      - `jewelry`
+        - 珠宝；珠宝类
+      - `jewellery`
+        - 珠宝（等于jewelry）
+      - `jeweler`
+        - 珠宝商；宝石匠；钟表匠；钟表商
+      - `jeweller`
+        - 珠宝商；钟表匠，宝石匠
   - 近义词
-    - n. [宝]宝石；珠宝
-      - `gem`
-      - `gemstone`
+    - n.
+      - [宝]宝石；珠宝
+        - `gem`
+        - `gemstone`
   - 短语
-    - `jewel box` 珠宝盒 
-    - `crown jewel` 皇冠上的宝石；（镶在王冠、权杖等上面以显示王权的）御宝 
-    - `jewel case` 珠宝盒（等于jewel box） 
+    - `jewel box`
+      - 珠宝盒 
+    - `crown jewel`
+      - 皇冠上的宝石；（镶在王冠、权杖等上面以显示王权的）御宝 
+    - `jewel case`
+      - 珠宝盒（等于jewel box） 
   - 例句
     - `She loved dressing up and wearing priceless jewels.`
       - 她喜欢穿上盛装，戴上极为昂贵的珠宝首饰。

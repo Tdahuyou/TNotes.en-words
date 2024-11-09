@@ -1,23 +1,30 @@
 - spendthrift
   - 发音
-    - 英 `/'spendθrɪft/`
-    - 美 `/'spendθrift/`
+    - 英
+      - `/'spendθrɪft/`
+    - 美
+      - `/'spendθrift/`
   - 词义
-    - adj&n. 挥金如土的
-    - `someone who spends money carelessly, even when they do not have a lot of it`
+    - adj&n.
+      - 挥金如土的
+        - `someone who spends money carelessly, even when they do not have a lot of it`
   - 记忆
     - spend(花费)+thrift(节约) → 把节约下来的钱全部花掉 → 挥金如土的
   - 同根词
     - adj.
-      - `spent` 耗尽了的；精疲力尽的
+      - `spent`
+        - 耗尽了的；精疲力尽的
     - n.
-      - `spender` 挥金如土的人；挥霍者；用钱的人
+      - `spender`
+        - 挥金如土的人；挥霍者；用钱的人
     - v.
-      - `spent` 花费（spend的过去分词）；浪费；耗费
+      - `spent`
+        - 花费（spend的过去分词）；浪费；耗费
   - 近义词
-    - adj. 挥霍无度的；浪费的
-      - `wasted`
-      - `dissipative`
+    - adj.
+      - 挥霍无度的；浪费的
+        - `wasted`
+        - `dissipative`
   - 例句
     - `...his father's spendthrift ways.`
       - ...他父亲挥霍金钱的作风。

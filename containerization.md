@@ -1,9 +1,12 @@
 - containerization
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 集装箱化
+    - n.
+      - 集装箱化
   - 例句
     - `I think that containerization is one of the best transportation methods at present.`
       - 我认为是集装箱化是当前的最佳运输方法这一。

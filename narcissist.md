@@ -1,14 +1,19 @@
 - narcissist
   - 发音
-    - 英 `/nɑːr'sɪsɪst/`
-    - 美 `/nɑr'sɪsɪst/`
+    - 英
+      - `/nɑːr'sɪsɪst/`
+    - 美
+      - `/nɑr'sɪsɪst/`
   - 词义
-    - n. 自恋狂，自恋者
+    - n.
+      - 自恋狂，自恋者
   - 同根词
     - adj.
-      - `narcissistic` 自恋的；自我陶醉的
+      - `narcissistic`
+        - 自恋的；自我陶醉的
     - n.
-      - `narcissism` [心理] 自恋，自我陶醉
+      - `narcissism`
+        - [心理] 自恋，自我陶醉
   - 例句
     - `Sister Hibiscus says things as if she is living in a romance novel. Many call her a narcissist, but she prefers the term "self- confidence. ""`
       - 芙蓉姐姐说很多事情看起来像是她生活在浪漫小说里，许多人都称她为自我陶醉者，但她给自己定义为“自信”。

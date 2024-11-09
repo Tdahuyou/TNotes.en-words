@@ -1,27 +1,39 @@
 - adaptability
   - 发音
-    - 英 `/ə,dæptə'bɪlətɪ/`
-    - 美 `/ə,dæptə'bɪləti/`
+    - 英
+      - `/ə,dæptə'bɪlətɪ/`
+    - 美
+      - `/ə,dæptə'bɪləti/`
   - 词义
-    - n. 适应性
+    - n.
+      - 适应性
   - 同根词
     - adj.
-      - `adaptive` 适应的，适合的
-      - `adaptable` 适合的；能适应的；可修改的
+      - `adaptive`
+        - 适应的，适合的
+      - `adaptable`
+        - 适合的；能适应的；可修改的
     - n.
-      - `adapter` 适配器；改编者；接合器；适应者
-      - `adaptation` 适应；改编；改编本，改写本
-      - `adaptor` [通信] 适配器；（美）改编者；转接器（等于adapter）
-      - `adaption` 适应；改编本
+      - `adapter`
+        - 适配器；改编者；接合器；适应者
+      - `adaptation`
+        - 适应；改编；改编本，改写本
+      - `adaptor`
+        - [通信] 适配器；（美）改编者；转接器（等于adapter）
+      - `adaption`
+        - 适应；改编本
     - vi.
-      - `adapt` 适应
+      - `adapt`
+        - 适应
     - vt.
-      - `adapt` 使适应；改编
+      - `adapt`
+        - 使适应；改编
   - 近义词
-    - n. 适应性；可变性；适合性
-      - `flexibility`
-      - `fitness`
-      - `applicability`
+    - n.
+      - 适应性；可变性；适合性
+        - `flexibility`
+        - `fitness`
+        - `applicability`
   - 例句
     - `You can achieve greater flexibility, adaptability, and independence when each layer is only loosely coupled to the layer above and below.`
       - 当每个层仅松散耦合到其上和其下的层时，您可以实现更强的灵活性、适应性和独立性。

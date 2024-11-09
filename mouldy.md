@@ -1,26 +1,37 @@
 - mouldy
   - 发音
-    - 英 `/undefined/`
-    - 美 `/'moldi/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/'moldi/`
   - 词义
-    - adj. 发霉的,腐朽的,旧式的
-    - `covered with  mould `
+    - adj.
+      - 发霉的,腐朽的,旧式的
+        - `covered with  mould `
   - 同根词
     - n.
-      - `mould` 模具；霉
-      - `moulder` 制模工，铸工
+      - `mould`
+        - 模具；霉
+      - `moulder`
+        - 制模工，铸工
     - vi.
-      - `mould` 发霉
-      - `moulder` 腐朽；衰退
+      - `mould`
+        - 发霉
+      - `moulder`
+        - 腐朽；衰退
     - vt.
-      - `mould` 浇铸；用泥土覆盖
-      - `moulder` 使腐朽；使衰退
+      - `mould`
+        - 浇铸；用泥土覆盖
+      - `moulder`
+        - 使腐朽；使衰退
   - 近义词
-    - n. 鱼雷
-      - `torpedo`
-    - adj. 发霉的；旧式的；腐朽的
-      - `moldy`
-      - `musty`
+    - n.
+      - 鱼雷
+        - `torpedo`
+    - adj.
+      - 发霉的；旧式的；腐朽的
+        - `moldy`
+        - `musty`
   - 例句
     - `mouldy cheese`
       - 发霉的奶酪

@@ -1,19 +1,24 @@
 - uncanny
   - 发音
-    - 英 `/ʌn'kæni/`
-    - 美 `/ʌn'kæni/`
+    - 英
+      - `/ʌn'kæni/`
+    - 美
+      - `/ʌn'kæni/`
   - 词义
-    - adj. 神秘的；易乎寻常的
+    - adj.
+      - 神秘的；易乎寻常的
   - 记忆
     - un(不) + can(能) + ny → 不能理解的 → 异乎寻常的
   - 同根词
     - adv.
-      - `uncannily` 惊异地；神秘地；不寻常地；危险地
+      - `uncannily`
+        - 惊异地；神秘地；不寻常地；危险地
   - 近义词
-    - adj. 神秘的；离奇的；可怕的
-      - `extraordinary`
-      - `mysterious`
-      - `terrible`
+    - adj.
+      - 神秘的；离奇的；可怕的
+        - `extraordinary`
+        - `mysterious`
+        - `terrible`
   - 例句
     - `an uncanny coincidence`
       - 不可思议的巧合

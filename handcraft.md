@@ -1,13 +1,17 @@
 - handcraft
   - 发音
-    - 英 `/'hæn(d)krɑːft/`
-    - 美 `/'hændkræft/`
+    - 英
+      - `/'hæn(d)krɑːft/`
+    - 美
+      - `/'hændkræft/`
   - 词义
-    - n. 手工,手艺
+    - n.
+      - 手工,手艺
   - 近义词
-    - n. 手工艺，手艺
-      - `craft`
-      - `workmanship`
+    - n.
+      - 手工艺，手艺
+        - `craft`
+        - `workmanship`
   - 例句
     - `The ruler shaped his course to accelerate agriculture and handcraft industry.`
       - 金统治者先后制定了一系列政策扶持农业和手工业的发展。

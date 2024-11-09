@@ -1,19 +1,25 @@
 - eagerness
   - 发音
-    - 英 `/'iːgənəs/`
-    - 美 `/'i:ɡənis/`
+    - 英
+      - `/'iːgənəs/`
+    - 美
+      - `/'i:ɡənis/`
   - 词义
-    - n. 渴望；热心
+    - n.
+      - 渴望；热心
   - 同根词
     - adj.
-      - `eager` 渴望的；热切的；热心的
+      - `eager`
+        - 渴望的；热切的；热心的
     - adv.
-      - `eagerly` 急切地；渴望地；热心地
+      - `eagerly`
+        - 急切地；渴望地；热心地
   - 近义词
-    - n. 渴望；热心
-      - `enthusiasm`
-      - `aspiration`
-      - `avidness`
+    - n.
+      - 渴望；热心
+        - `enthusiasm`
+        - `aspiration`
+        - `avidness`
   - 例句
     - `The eagerness and belief that filled me then and exacted a pledge from life that life could never fulfill?`
       - 那时我的身心充满了渴望和信念，向生活索求一种生活绝不会满足的保证吗？

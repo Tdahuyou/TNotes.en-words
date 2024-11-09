@@ -1,14 +1,20 @@
 - Berlin
   - 发音
-    - 英 `/bə:'lin/`
-    - 美 `/bɝ'lɪn/`
+    - 英
+      - `/bə:'lin/`
+    - 美
+      - `/bɝ'lɪn/`
   - 词义
-    - n. 柏林[德国]
-    - `a fine wool yarn used for tapestry work, etc `
+    - n.
+      - 柏林[德国]
+        - `a fine wool yarn used for tapestry work, etc `
   - 短语
-    - `berlin wall` n. 柏林墙 
-    - `berlin philharmonic` 柏林爱乐乐团 
-    - `east berlin` n. 东柏林 
+    - `berlin wall`
+      - n. 柏林墙 
+    - `berlin philharmonic`
+      - 柏林爱乐乐团 
+    - `east berlin`
+      - n. 东柏林 
   - 例句
     - `He captained the siege of Berlin.`
       - 他指挥了围攻柏林的战役。

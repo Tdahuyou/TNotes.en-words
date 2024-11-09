@@ -1,18 +1,25 @@
 - astrological
   - 发音
-    - 英 `/,æstrə'lɔdʒik,-kəl/`
-    - 美 `/,æstrə'lɔdʒik,-kəl/`
+    - 英
+      - `/,æstrə'lɔdʒik,-kəl/`
+    - 美
+      - `/,æstrə'lɔdʒik,-kəl/`
   - 词义
-    - adj. 占星的,占星术的
+    - adj.
+      - 占星的,占星术的
   - 同根词
     - n.
-      - `astrology` 占星术；占星学；星座
-      - `astrologer` 占星家
-      - `astrologist` 占星家
+      - `astrology`
+        - 占星术；占星学；星座
+      - `astrologer`
+        - 占星家
+      - `astrologist`
+        - 占星家
   - 近义词
-    - adj. 占星的；占星学的，占星术的
-      - `horoscopic`
-      - `Chaldaean`
+    - adj.
+      - 占星的；占星学的，占星术的
+        - `horoscopic`
+        - `Chaldaean`
   - 例句
     - `So, the problem with astrological predictions is not that they're wrong.`
       - 占星预测的问题并不在于它们是错误的。

@@ -1,12 +1,17 @@
 - USA
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - abbr. 美国(美利坚合众国)
+    - abbr.
+      - 美国(美利坚合众国)
   - 短语
-    - `usa today` 《今日美国》（英文读物） 
-    - `made in usa` 美国制造；美国生产 
+    - `usa today`
+      - 《今日美国》（英文读物） 
+    - `made in usa`
+      - 美国制造；美国生产 
   - 例句
     - `For example, think about the differences we observe with people from different parts of the USA.`
       - 例如，想一想那些来自美国各地的人们，我们可以观察到他们之间的差异。

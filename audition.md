@@ -1,28 +1,40 @@
 - audition
   - 发音
-    - 英 `/ɔː'dɪʃn/`
-    - 美 `/ɔ'dɪʃən/`
+    - 英
+      - `/ɔː'dɪʃn/`
+    - 美
+      - `/ɔ'dɪʃən/`
   - 词义
-    - n. 旁听；试演
-    - `a short performance by an actor, singer etc that someone watches to judge if they are good enough to act in a play, sing in a concert etc`
+    - n.
+      - 旁听；试演
+        - `a short performance by an actor, singer etc that someone watches to judge if they are good enough to act in a play, sing in a concert etc`
   - 同根词
     - adj.
-      - `auditory` 听觉的；耳朵的
-      - `auditive` 耳朵的；听觉的
+      - `auditory`
+        - 听觉的；耳朵的
+      - `auditive`
+        - 耳朵的；听觉的
     - n.
-      - `audit` 审计；[审计] 查帐
-      - `auditor` 审计员；听者；旁听生
-      - `auditory` 听众；礼堂
+      - `audit`
+        - 审计；[审计] 查帐
+      - `auditor`
+        - 审计员；听者；旁听生
+      - `auditory`
+        - 听众；礼堂
     - vi.
-      - `audit` 审计；[审计] 查帐
+      - `audit`
+        - 审计；[审计] 查帐
     - vt.
-      - `audit` （美）旁听
+      - `audit`
+        - （美）旁听
   - 近义词
-    - n. 听力，[生理]听觉；试听
-      - `hearing`
-      - `ear`
+    - n.
+      - 听力，[生理]听觉；试听
+        - `hearing`
+        - `ear`
   - 短语
-    - `audition for` 向…试唱，试演；参加…面试；面试 
+    - `audition for`
+      - 向…试唱，试演；参加…面试；面试 
   - 例句
     - `...an audition for a Broadway musical.`
       - …一部百老汇歌舞剧的试演。

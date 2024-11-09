@@ -1,17 +1,22 @@
 - curio
   - 发音
-    - 英 `/'kjʊərɪəʊ/`
-    - 美 `/'kjʊrɪo/`
+    - 英
+      - `/'kjʊərɪəʊ/`
+    - 美
+      - `/'kjʊrɪo/`
   - 词义
-    - n. 古董,古玩
-    - `a small object that is interesting because it is beautiful or rare`
+    - n.
+      - 古董,古玩
+        - `a small object that is interesting because it is beautiful or rare`
   - 同根词
     - n.
-      - `curiosity` 好奇，好奇心；珍品，古董，古玩
+      - `curiosity`
+        - 好奇，好奇心；珍品，古董，古玩
   - 近义词
-    - n. [古]古董；珍品
-      - `treasure`
-      - `pearl`
+    - n.
+      - [古]古董；珍品
+        - `treasure`
+        - `pearl`
   - 例句
     - `Red and blue spectacles, it was imagined, would be routinely employed to watch a film. Flat projection would be a historical curio.`
       - 当时人们认为那种红蓝3D眼镜将是未来观影必备物品，平板投射技术将成为历史古董。

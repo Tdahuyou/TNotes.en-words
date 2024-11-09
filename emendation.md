@@ -1,14 +1,19 @@
 - emendation
   - 发音
-    - 英 `/,iːmen'deɪʃ(ə)n/`
-    - 美 `/undefined/`
+    - 英
+      - `/,iːmen'deɪʃ(ə)n/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 修订,校正,修正
+    - n.
+      - 修订,校正,修正
   - 同根词
     - vt.
-      - `emend` 修订；改进
+      - `emend`
+        - 修订；改进
   - 近义词
-    - n. 校正；修订；修正
-      - `modification`
-      - `correction`
-      - `revision`
+    - n.
+      - 校正；修订；修正
+        - `modification`
+        - `correction`
+        - `revision`

@@ -1,14 +1,19 @@
 - vainglorious
   - 发音
-    - 英 `/ˌvein'glɔːriəs/`
-    - 美 `/,vein'ɡlɔ:riəs/`
+    - 英
+      - `/ˌvein'glɔːriəs/`
+    - 美
+      - `/,vein'ɡlɔ:riəs/`
   - 词义
-    - adj. 虚荣的
+    - adj.
+      - 虚荣的
   - 同根词
     - adj.
-      - `vain` 徒劳的；虚荣的；空虚的
+      - `vain`
+        - 徒劳的；虚荣的；空虚的
     - n.
-      - `vainglory` 虚荣；自负
+      - `vainglory`
+        - 虚荣；自负
   - 例句
     - `She is a vainglorious woman .`
       - 她是个爱虚荣的女性。

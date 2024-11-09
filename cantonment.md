@@ -1,18 +1,24 @@
 - cantonment
   - 发音
-    - 英 `/kæn'tuːnmənt/`
-    - 美 `/kæn'tɑnmənt/`
+    - 英
+      - `/kæn'tuːnmənt/`
+    - 美
+      - `/kæn'tɑnmənt/`
   - 词义
-    - n. 宿营地，军营，兵营
-    - `a camp where soldiers live`
+    - n.
+      - 宿营地，军营，兵营
+        - `a camp where soldiers live`
   - 同根词
     - n.
-      - `canton` 行政区，州
+      - `canton`
+        - 行政区，州
     - vt.
-      - `canton` 为…分配营房；把…划分成州，把…划成行政区
+      - `canton`
+        - 为…分配营房；把…划分成州，把…划成行政区
   - 近义词
-    - n. 宿营地；兵营
-      - `etape`
+    - n.
+      - 宿营地；兵营
+        - `etape`
   - 例句
     - `Our people's liberation army is now in the cantonment .`
       - 我们的人民解决军现在正在宿营地。

@@ -1,24 +1,32 @@
 - succor
   - 发音
-    - 英 `/'sʌkə/`
-    - 美 `/'sʌkɚ/`
+    - 英
+      - `/'sʌkə/`
+    - 美
+      - `/'sʌkɚ/`
   - 词义
-    - v. 援助，救援
-    - n. 救援；援助者
+    - v.
+      - 援助，救援
+    - n.
+      - 救援；援助者
   - 记忆
     - succ (看作success， 成功) + or (人) → 救援人员成功救助受伤人 → 救援
   - 同根词
     - n.
-      - `succour` 救援物品
+      - `succour`
+        - 救援物品
     - vt.
-      - `succour` 救助
+      - `succour`
+        - 救助
   - 近义词
-    - n. 救援；援助者
-      - `save`
-      - `backer`
-    - vt. 救援；援助
-      - `aid`
-      - `come to the rescue`
+    - n.
+      - 救援；援助者
+        - `save`
+        - `backer`
+    - vt.
+      - 救援；援助
+        - `aid`
+        - `come to the rescue`
   - 例句
     - `These refugees are very grateful to the government's succor.`
       - 这些难民非常感激政府的救援。

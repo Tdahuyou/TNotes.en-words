@@ -1,19 +1,26 @@
 - luminescent
   - 发音
-    - 英 `/ˌljuːmi'nesənt/`
-    - 美 `/,lʊmə'nɛsnt/`
+    - 英
+      - `/ˌljuːmi'nesənt/`
+    - 美
+      - `/,lʊmə'nɛsnt/`
   - 词义
-    - adj. 发冷光的
+    - adj.
+      - 发冷光的
   - 记忆
     - lumin (光) + escent → 发冷光的
   - 同根词
     - n.
-      - `luminescence` [光] 发冷光
+      - `luminescence`
+        - [光] 发冷光
     - vi.
-      - `luminesce` 发冷光
+      - `luminesce`
+        - 发冷光
   - 短语
-    - `luminescent spot` 光点，亮点 
-    - `luminescent material` 发光材料；发光物质 
+    - `luminescent spot`
+      - 光点，亮点 
+    - `luminescent material`
+      - 发光材料；发光物质 
   - 例句
     - `We firmly believe that women themselves will be a luminescent solar heating.`
       - 我们坚信，女人自己就是一个会发光发热的太阳。

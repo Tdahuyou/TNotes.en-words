@@ -1,19 +1,25 @@
 - quail
   - 发音
-    - 英 `/kweil/`
-    - 美 `/kwel/`
+    - 英
+      - `/kweil/`
+    - 美
+      - `/kwel/`
   - 词义
-    - v. 感到恐惧
-    - n. 鹌鹑
-    - `a small fat bird with a short tail that is hunted for food or sport, or the meat from this bird`
+    - v.
+      - 感到恐惧
+    - n.
+      - 鹌鹑
+        - `a small fat bird with a short tail that is hunted for food or sport, or the meat from this bird`
   - 记忆
     - “愧” → 有愧于人 → 畏惧， 颤抖
   - 近义词
-    - vi. 畏缩，胆怯；感到恐惧
-      - `recoil from`
-      - `shrink back from`
+    - vi.
+      - 畏缩，胆怯；感到恐惧
+        - `recoil from`
+        - `shrink back from`
   - 短语
-    - `quail egg` 鹌鹑蛋 
+    - `quail egg`
+      - 鹌鹑蛋 
   - 例句
     - `A wild game bird, such as a duck, goose, or quail .`
       - 野禽，猎鸟一种野生的猎鸟，如野鸭、野鹅或鹌鹑。

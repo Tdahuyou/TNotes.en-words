@@ -1,23 +1,31 @@
 - sadness
   - 发音
-    - 英 `/'sædnəs/`
-    - 美 `/'sædnəs/`
+    - 英
+      - `/'sædnəs/`
+    - 美
+      - `/'sædnəs/`
   - 词义
-    - n. 悲哀,悲伤
-    - `the state of feeling sad`
+    - n.
+      - 悲哀,悲伤
+        - `the state of feeling sad`
   - 同根词
     - adj.
-      - `sad` 难过的；悲哀的，令人悲痛的；凄惨的，阴郁的（形容颜色）
+      - `sad`
+        - 难过的；悲哀的，令人悲痛的；凄惨的，阴郁的（形容颜色）
     - adv.
-      - `sadly` 悲哀地；悲痛地
+      - `sadly`
+        - 悲哀地；悲痛地
     - vi.
-      - `sadden` 悲哀；悲痛
+      - `sadden`
+        - 悲哀；悲痛
     - vt.
-      - `sadden` 使悲伤，使难过；使黯淡
+      - `sadden`
+        - 使悲伤，使难过；使黯淡
   - 近义词
-    - n. 悲哀
-      - `sorriness`
-      - `tristesse`
+    - n.
+      - 悲哀
+        - `sorriness`
+        - `tristesse`
   - 例句
     - `There was a touch of sadness in his voice (= he sounded a little sad ) .`
       - 他的声音里含着一丝悲伤。

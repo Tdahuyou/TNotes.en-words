@@ -1,35 +1,57 @@
 - photoelectric
   - 发音
-    - 英 `/,fəʊtəʊɪ'lektrɪk/`
-    - 美 `/,fotoɪ'lɛktrɪk/`
+    - 英
+      - `/,fəʊtəʊɪ'lektrɪk/`
+    - 美
+      - `/,fotoɪ'lɛktrɪk/`
   - 词义
-    - adj. 光电的
-    - `using an electrical current that is controlled by light`
+    - adj.
+      - 光电的
+        - `using an electrical current that is controlled by light`
   - 同根词
     - adj.
-      - `photoconductive` 光电导的；光敏的
-      - `photoemissive` [电子] 光电发射的
+      - `photoconductive`
+        - 光电导的；光敏的
+      - `photoemissive`
+        - [电子] 光电发射的
     - n.
-      - `photocell` [电] 光电池；[电子] 光电管（等于photoelectric cell）
-      - `photocathode` [电子] 光电阴极
-      - `photoconduction` 光电导
-      - `photoconductivity` [电] 光电导性
-      - `photoelectricity` 光电，光电学；光电现象
-      - `photoelectron` [物][电子] 光电子
-      - `photoemission` [电子] 光电发射；光电效应
+      - `photocell`
+        - [电] 光电池；[电子] 光电管（等于photoelectric cell）
+      - `photocathode`
+        - [电子] 光电阴极
+      - `photoconduction`
+        - 光电导
+      - `photoconductivity`
+        - [电] 光电导性
+      - `photoelectricity`
+        - 光电，光电学；光电现象
+      - `photoelectron`
+        - [物][电子] 光电子
+      - `photoemission`
+        - [电子] 光电发射；光电效应
   - 近义词
-    - adj. [物][电子]光电的
-      - `electro-optic`
+    - adj.
+      - [物][电子]光电的
+        - `electro-optic`
   - 短语
-    - `photoelectric sensor` 光电遥感器，光电传感器 
-    - `photoelectric switch` 光电开关；光电式开关掣 
-    - `photoelectric technology` 光电技术 
-    - `photoelectric encoder` 光电编码器，光电译码器 
-    - `photoelectric detector` 光电探测器 
-    - `photoelectric effect` [化]光效应，光电效应 
-    - `photoelectric conversion` n. 光电转换；光电变换 
-    - `photoelectric cell` 光电池，光电管 
-    - `photoelectric material` 光电材料；光电物质 
+    - `photoelectric sensor`
+      - 光电遥感器，光电传感器 
+    - `photoelectric switch`
+      - 光电开关；光电式开关掣 
+    - `photoelectric technology`
+      - 光电技术 
+    - `photoelectric encoder`
+      - 光电编码器，光电译码器 
+    - `photoelectric detector`
+      - 光电探测器 
+    - `photoelectric effect`
+      - [化]光效应，光电效应 
+    - `photoelectric conversion`
+      - n. 光电转换；光电变换 
+    - `photoelectric cell`
+      - 光电池，光电管 
+    - `photoelectric material`
+      - 光电材料；光电物质 
   - 例句
     - `Advanced imported photoelectric supervision system is used.`
       - 采用先进的进口光电眼监控系统。

@@ -1,27 +1,41 @@
 - fruitful
   - 发音
-    - 英 `/'fruːtfʊl; -f(ə)l/`
-    - 美 `/'frutfl/`
+    - 英
+      - `/'fruːtfʊl; -f(ə)l/`
+    - 美
+      - `/'frutfl/`
   - 词义
-    - adj. 果实结得多的,多产的
-    - `land that is fruitful produces a lot of crops`
+    - adj.
+      - 果实结得多的,多产的
+        - `land that is fruitful produces a lot of crops`
   - 同根词
     - adj.
-      - `fruitless` 不成功的，徒劳的；不结果实的
-      - `fruity` 圆润的；有果味的；果实状的
+      - `fruitless`
+        - 不成功的，徒劳的；不结果实的
+      - `fruity`
+        - 圆润的；有果味的；果实状的
     - adv.
-      - `fruitfully` 产量多地；肥沃地
+      - `fruitfully`
+        - 产量多地；肥沃地
     - n.
-      - `fruit` 水果；产物
-      - `fruition` 完成，成就；结果实
-      - `fruitage` 果实；结果实；[食品] 水果；成果
-      - `fruitfulness` 丰收，丰硕；多实，肥沃
-      - `fruitlet` 小水果；小果实
+      - `fruit`
+        - 水果；产物
+      - `fruition`
+        - 完成，成就；结果实
+      - `fruitage`
+        - 果实；结果实；[食品] 水果；成果
+      - `fruitfulness`
+        - 丰收，丰硕；多实，肥沃
+      - `fruitlet`
+        - 小水果；小果实
     - vi.
-      - `fruit` 结果实
+      - `fruit`
+        - 结果实
     - vt.
-      - `fruit` 使……结果实
+      - `fruit`
+        - 使……结果实
   - 近义词
-    - adj. 富有成效的；多产的；果实结得多的
-      - `productive`
-      - `prolific`
+    - adj.
+      - 富有成效的；多产的；果实结得多的
+        - `productive`
+        - `prolific`

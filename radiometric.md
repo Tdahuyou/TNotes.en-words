@@ -1,11 +1,15 @@
 - radiometric
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - adj. 辐射测量的,辐射度的
+    - adj.
+      - 辐射测量的,辐射度的
   - 短语
-    - `radiometric dating` 放射性定年法；同位素年龄测定 
+    - `radiometric dating`
+      - 放射性定年法；同位素年龄测定 
   - 例句
     - `We also made some radiometric measurements to derive a more precise orbit.`
       - 我们还通过辐射测量的方法矫正了轨道，使之更加精确。

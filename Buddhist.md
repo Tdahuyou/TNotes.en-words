@@ -1,17 +1,25 @@
 - Buddhist
   - 发音
-    - 英 `/undefined/`
-    - 美 `/'budist/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/'budist/`
   - 词义
-    - n. 佛教徒
-    - `A Buddhist is a person whose religion is Buddhism`
-    - adj. 佛教的
-    - `Buddhist means relating or referring to Buddhism`
+    - n.
+      - 佛教徒
+        - `A Buddhist is a person whose religion is Buddhism`
+    - adj.
+      - 佛教的
+        - `Buddhist means relating or referring to Buddhism`
   - 短语
-    - `buddhist temple` 佛寺；佛堂；佛庙 
-    - `buddhist nun` 尼姑 
-    - `buddhist monk` 头陀，和尚；比丘 
-    - `buddhist scriptures` 佛经 
+    - `buddhist temple`
+      - 佛寺；佛堂；佛庙 
+    - `buddhist nun`
+      - 尼姑 
+    - `buddhist monk`
+      - 头陀，和尚；比丘 
+    - `buddhist scriptures`
+      - 佛经 
   - 例句
     - `In this case, I genuinely believe in the Buddhist way of thinking.`
       - 在这种情况下，我真诚地相信佛教徒的思维方式。

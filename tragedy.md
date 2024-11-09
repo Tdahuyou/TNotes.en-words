@@ -1,23 +1,32 @@
 - tragedy
   - 发音
-    - 英 `/'trædʒədi/`
-    - 美 `/'trædʒədi/`
+    - 英
+      - `/'trædʒədi/`
+    - 美
+      - `/'trædʒədi/`
   - 词义
-    - n. 惨事，灾难；悲剧
-    - `a very sad event, that shocks people because it involves death`
+    - n.
+      - 惨事，灾难；悲剧
+        - `a very sad event, that shocks people because it involves death`
   - 同根词
     - adj.
-      - `tragic` 悲剧的；悲痛的，不幸的
-      - `tragical` 悲剧的；悲剧性的；悲惨的；不幸的
+      - `tragic`
+        - 悲剧的；悲痛的，不幸的
+      - `tragical`
+        - 悲剧的；悲剧性的；悲惨的；不幸的
     - adv.
-      - `tragically` 悲剧地；悲惨地
+      - `tragically`
+        - 悲剧地；悲惨地
     - n.
-      - `tragedian` 悲剧演员；悲剧作家
-      - `tragedienne` 悲剧女演员
+      - `tragedian`
+        - 悲剧演员；悲剧作家
+      - `tragedienne`
+        - 悲剧女演员
   - 近义词
-    - n. 悲剧；灾难；惨案
-      - `disaster`
-      - `calamity`
+    - n.
+      - 悲剧；灾难；惨案
+        - `disaster`
+        - `calamity`
   - 例句
     - `The tragedy happened as they were returning home from a night out.`
       - 悲剧发生在他们夜里外出归来的路上。

@@ -1,29 +1,44 @@
 - dietitian
   - 发音
-    - 英 `/daɪə'tɪʃ(ə)n/`
-    - 美 `/,daɪə'tɪʃən/`
+    - 英
+      - `/daɪə'tɪʃ(ə)n/`
+    - 美
+      - `/,daɪə'tɪʃən/`
   - 词义
-    - n. <美>营养学家,营养学家
+    - n.
+      - <美>营养学家,营养学家
   - 同根词
     - adj.
-      - `dietary` 饮食的，饭食的
-      - `dietetic` 饮食的；饮食学的
-      - `dietetical` 饮食的
+      - `dietary`
+        - 饮食的，饭食的
+      - `dietetic`
+        - 饮食的；饮食学的
+      - `dietetical`
+        - 饮食的
     - n.
-      - `diet` 饮食；食物；规定饮食
-      - `dietary` 规定的食物；饮食的规定
-      - `dietician` 营养学家；膳食学家（等于dietitian）
-      - `dieting` 节食；节食减肥
-      - `dietetics` 营养学；饮食学
+      - `diet`
+        - 饮食；食物；规定饮食
+      - `dietary`
+        - 规定的食物；饮食的规定
+      - `dietician`
+        - 营养学家；膳食学家（等于dietitian）
+      - `dieting`
+        - 节食；节食减肥
+      - `dietetics`
+        - 营养学；饮食学
     - v.
-      - `dieting` 给…规定饮食；喂食（diet的ing形式）
+      - `dieting`
+        - 给…规定饮食；喂食（diet的ing形式）
     - vi.
-      - `diet` 节食
+      - `diet`
+        - 节食
     - vt.
-      - `diet` [医] 照规定饮食
+      - `diet`
+        - [医] 照规定饮食
   - 近义词
-    - n. （美）营养学家；饮食学家
-      - `nutritionist`
+    - n.
+      - （美）营养学家；饮食学家
+        - `nutritionist`
   - 例句
     - `A registered dietitian can give you lots of other snack and menu ideas.`
       - 你的营养学家会提供给你一份含各种小食的建议菜单。

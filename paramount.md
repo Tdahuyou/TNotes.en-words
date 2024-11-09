@@ -1,28 +1,36 @@
 - paramount
   - 发音
-    - 英 `/'pærəmaunt/`
-    - 美 `/'pærəmaʊnt/`
+    - 英
+      - `/'pærəmaunt/`
+    - 美
+      - `/'pærəmaʊnt/`
   - 词义
-    - adj. 至为重要的；最高权力的，至尊的
-    - `more important than anything else`
+    - adj.
+      - 至为重要的；最高权力的，至尊的
+        - `more important than anything else`
   - 记忆
     - par + amount(数量) → 在量上超过别的 → 至为重要的
   - 同根词
     - n.
-      - `paramountcy` 最高权威；主权
+      - `paramountcy`
+        - 最高权威；主权
   - 近义词
-    - adj. 最重要的，主要的；至高无上的
-      - `primary`
-      - `main`
-      - `major`
-      - `central`
-      - `great`
-    - n. 最高统治者
-      - `monarch`
-      - `imperator`
+    - adj.
+      - 最重要的，主要的；至高无上的
+        - `primary`
+        - `main`
+        - `major`
+        - `central`
+        - `great`
+    - n.
+      - 最高统治者
+        - `monarch`
+        - `imperator`
   - 短语
-    - `of paramount importance` 最重要的 
-    - `paramount pictures` 派拉蒙电影公司 
+    - `of paramount importance`
+      - 最重要的 
+    - `paramount pictures`
+      - 派拉蒙电影公司 
   - 例句
     - `During a war the interests of the state are paramount, and those of the individual come last.`
       - 战争时期国家利益是首要的，个人利益置于最后。

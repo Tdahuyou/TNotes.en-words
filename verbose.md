@@ -1,23 +1,31 @@
 - verbose
   - 发音
-    - 英 `/vəː'bəus/`
-    - 美 `/vɝ'bos/`
+    - 英
+      - `/vəː'bəus/`
+    - 美
+      - `/vɝ'bos/`
   - 词义
-    - adj. 冗长的；嗦的
-    - `using or containing too many words`
+    - adj.
+      - 冗长的；嗦的
+        - `using or containing too many words`
   - 记忆
     - 来自verb (词语) + ose (多…的) → 冗长的； 嗦的
   - 同根词
     - adv.
-      - `verbosely` 冗长地；啰嗦地
+      - `verbosely`
+        - 冗长地；啰嗦地
     - n.
-      - `verbosity` 冗长；赘言；唠叨
-      - `verbalization` 以言语表现；冗长；变成动词
-      - `verboseness` 冗长，罗唆
+      - `verbosity`
+        - 冗长；赘言；唠叨
+      - `verbalization`
+        - 以言语表现；冗长；变成动词
+      - `verboseness`
+        - 冗长，罗唆
   - 近义词
-    - adj. 冗长的；啰嗦的
-      - `interminable`
-      - `prolix`
+    - adj.
+      - 冗长的；啰嗦的
+        - `interminable`
+        - `prolix`
   - 例句
     - `For once, his usually verbose wife was content to listen.`
       - 他那个一贯唠叨的老婆难得一次愿意倾听。

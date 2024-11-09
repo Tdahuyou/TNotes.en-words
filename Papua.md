@@ -1,10 +1,13 @@
 - Papua
   - 发音
-    - 英 `/'pæpjuə/`
-    - 美 `/'pæpjuə/`
+    - 英
+      - `/'pæpjuə/`
+    - 美
+      - `/'pæpjuə/`
   - 词义
   - 短语
-    - `papua new guinea` 巴布亚新几内亚 
+    - `papua new guinea`
+      - 巴布亚新几内亚 
   - 例句
     - `The extremely limited road system in Papua New Guinea means that we flew to our destination.`
       - 巴布亚新几内亚极其狭窄的道路系统意味着我们需要飞入目的地。

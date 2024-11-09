@@ -1,34 +1,47 @@
 - employ
   - 发音
-    - 英 `/ɪm'plɔɪ/`
-    - 美 `/ɪm'plɔɪ/`
+    - 英
+      - `/ɪm'plɔɪ/`
+    - 美
+      - `/ɪm'plɔɪ/`
   - 词义
-    - vt. 用，使用；雇用
-    - `to pay someone to work for you`
-    - n. 受雇，雇用
-    - `working for someone`
+    - vt.
+      - 用，使用；雇用
+        - `to pay someone to work for you`
+    - n.
+      - 受雇，雇用
+        - `working for someone`
   - 同根词
     - adj.
-      - `employable` 适宜雇用的；有资格任职的
+      - `employable`
+        - 适宜雇用的；有资格任职的
     - n.
-      - `employee` 雇员；从业员工
-      - `employment` 使用；职业；雇用
-      - `employer` 雇主，老板
-      - `employable` 可雇用者；符合最低雇用要求者
+      - `employee`
+        - 雇员；从业员工
+      - `employment`
+        - 使用；职业；雇用
+      - `employer`
+        - 雇主，老板
+      - `employable`
+        - 可雇用者；符合最低雇用要求者
   - 近义词
-    - vt. 使用，采用；雇用；使忙于，使从事于
-      - `introduce`
-      - `make use of`
-      - `fashion`
-      - `exercise`
-    - n. 使用；雇用
-      - `usage`
-      - `utilization`
-      - `use`
-      - `hire`
+    - vt.
+      - 使用，采用；雇用；使忙于，使从事于
+        - `introduce`
+        - `make use of`
+        - `fashion`
+        - `exercise`
+    - n.
+      - 使用；雇用
+        - `usage`
+        - `utilization`
+        - `use`
+        - `hire`
   - 短语
-    - `employ in` 被…雇佣；受聘于 
-    - `in the employ of` adv. 受雇于 
+    - `employ in`
+      - 被…雇佣；受聘于 
+    - `in the employ of`
+      - adv. 受雇于 
   - 例句
     - `The factory employs over 2,000 people.`
       - 这家工厂雇用了2,000多名员工。

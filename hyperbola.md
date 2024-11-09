@@ -1,17 +1,23 @@
 - hyperbola
   - 发音
-    - 英 `/haɪ'pɜːbələ/`
-    - 美 `/haɪ'pɝbələ/`
+    - 英
+      - `/haɪ'pɜːbələ/`
+    - 美
+      - `/haɪ'pɝbələ/`
   - 词义
-    - n. [数]双曲线
-    - `a conic section formed by a plane that cuts both bases of a cone; it consists of two branches asymptotic to two intersecting fixed lines and has two foci`
+    - n.
+      - [数]双曲线
+        - `a conic section formed by a plane that cuts both bases of a cone; it consists of two branches asymptotic to two intersecting fixed lines and has two foci`
   - 同根词
     - adj.
-      - `hyperbolic` 双曲线的；夸张的
-      - `hyperboloidal` 双曲面的；北极的
+      - `hyperbolic`
+        - 双曲线的；夸张的
+      - `hyperboloidal`
+        - 双曲面的；北极的
   - 近义词
-    - n. [数]双曲线
-      - `hyperbolic curve`
+    - n.
+      - [数]双曲线
+        - `hyperbolic curve`
   - 例句
     - `I should be looking only on the hyperbola.`
       - 我应该只看双曲线上的点就足够了。

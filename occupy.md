@@ -1,28 +1,39 @@
 - occupy
   - 发音
-    - 英 `/'ɑːkjupaɪ/`
-    - 美 `/'ɑkjupaɪ/`
+    - 英
+      - `/'ɑːkjupaɪ/`
+    - 美
+      - `/'ɑkjupaɪ/`
   - 词义
-    - vt. 占用；占据，占领；使忙于
-    - `to live or stay in a place`
+    - vt.
+      - 占用；占据，占领；使忙于
+        - `to live or stay in a place`
   - 记忆
     - 发生(occur)大事了， 敌人占领(occupy)了该市
   - 同根词
     - adj.
-      - `occupied` 已占用的；使用中的；无空闲的
-      - `occupational` 职业的；占领的
+      - `occupied`
+        - 已占用的；使用中的；无空闲的
+      - `occupational`
+        - 职业的；占领的
     - n.
-      - `occupancy` 居住；占有；占用
-      - `occupant` 居住者；占有者
-      - `occupier` 居住人；占有者；占用者
+      - `occupancy`
+        - 居住；占有；占用
+      - `occupant`
+        - 居住者；占有者
+      - `occupier`
+        - 居住人；占有者；占用者
     - v.
-      - `occupied` 占有（occupy的过去分词）
+      - `occupied`
+        - 占有（occupy的过去分词）
   - 近义词
-    - vt. 占据，占领；居住；使忙碌
-      - `bag`
-      - `exercise`
+    - vt.
+      - 占据，占领；居住；使忙碌
+        - `bag`
+        - `exercise`
   - 短语
-    - `occupy in` 从事 
+    - `occupy in`
+      - 从事 
   - 例句
     - `He occupies the house without paying any rent.`
       - 他住在这幢房子里，没有付一分钱房租。

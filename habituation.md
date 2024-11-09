@@ -1,25 +1,37 @@
 - habituation
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 适应
+    - n.
+      - 适应
   - 同根词
     - adj.
-      - `habitual` 习惯的；惯常的；习以为常的
+      - `habitual`
+        - 习惯的；惯常的；习以为常的
     - adv.
-      - `habitually` 习惯地；日常地
+      - `habitually`
+        - 习惯地；日常地
     - n.
-      - `habit` 习惯，习性；嗜好
-      - `habitude` 习俗；习惯
-      - `habitus` 习惯；体质；状态
+      - `habit`
+        - 习惯，习性；嗜好
+      - `habitude`
+        - 习俗；习惯
+      - `habitus`
+        - 习惯；体质；状态
     - vi.
-      - `habituate` 上瘾
+      - `habituate`
+        - 上瘾
     - vt.
-      - `habit` 使穿衣
-      - `habituate` 使习惯于，使熟习于
+      - `habit`
+        - 使穿衣
+      - `habituate`
+        - 使习惯于，使熟习于
   - 近义词
-    - n. [生理]习惯，熟习；习惯化
-      - `manner`
-      - `custom`
-      - `way`
+    - n.
+      - [生理]习惯，熟习；习惯化
+        - `manner`
+        - `custom`
+        - `way`

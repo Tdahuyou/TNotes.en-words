@@ -1,29 +1,45 @@
 - seventh
   - 发音
-    - 英 `/'sev(ə)nθ/`
-    - 美 `/'sɛvənθ/`
+    - 英
+      - `/'sev(ə)nθ/`
+    - 美
+      - `/'sɛvənθ/`
   - 词义
-    - num. 第七
-    - `one of seven equal parts of something`
+    - num.
+      - 第七
+        - `one of seven equal parts of something`
   - 同根词
     - adj.
-      - `seven` 七的；七个的
-      - `seventeenth` 第十七的，第十七个的；十七分之一的
-      - `seventieth` 第七十的；七十分之一的
+      - `seven`
+        - 七的；七个的
+      - `seventeenth`
+        - 第十七的，第十七个的；十七分之一的
+      - `seventieth`
+        - 第七十的；七十分之一的
     - adv.
-      - `seventhly` 在第七
+      - `seventhly`
+        - 在第七
     - n.
-      - `seven` 七个，七
-      - `seventeenth` 第十七日；十七分之一
-      - `seventieth` 第七十；七十分之一
+      - `seven`
+        - 七个，七
+      - `seventeenth`
+        - 第十七日；十七分之一
+      - `seventieth`
+        - 第七十；七十分之一
     - num.
-      - `seven` 七个，七
-      - `seventeenth` 第十七
-      - `seventieth` 第七十
+      - `seven`
+        - 七个，七
+      - `seventeenth`
+        - 第十七
+      - `seventieth`
+        - 第七十
   - 短语
-    - `seventh day` 安息日 
-    - `seventh heaven` 极乐世界；七重天 
-    - `seventh avenue` 第七大道 
+    - `seventh day`
+      - 安息日 
+    - `seventh heaven`
+      - 极乐世界；七重天 
+    - `seventh avenue`
+      - 第七大道 
   - 例句
     - `Grint added that he would "definitely" like to be part of the sixth and seventh films.`
       - 格林特还补充说他肯定还会参加第六和第七部哈�波特电影的拍摄。

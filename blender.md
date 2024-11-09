@@ -1,29 +1,40 @@
 - blender
   - 发音
-    - 英 `/'blendə/`
-    - 美 `/'blɛndɚ/`
+    - 英
+      - `/'blendə/`
+    - 美
+      - `/'blɛndɚ/`
   - 词义
-    - n. 搅拌器；果汁机
-    - `an electric machine that you use to mix liquids and soft foods together`
+    - n.
+      - 搅拌器；果汁机
+        - `an electric machine that you use to mix liquids and soft foods together`
   - 同根词
     - adj.
-      - `blending` 混合的
+      - `blending`
+        - 混合的
     - n.
-      - `blend` 混合；掺合物
-      - `blending` 混合；调配；混和物
-      - `blende` [矿物] 闪锌矿；褐色闪光矿物
+      - `blend`
+        - 混合；掺合物
+      - `blending`
+        - 混合；调配；混和物
+      - `blende`
+        - [矿物] 闪锌矿；褐色闪光矿物
     - v.
-      - `blending` 混合；协调（blend的ing形式）
+      - `blending`
+        - 混合；协调（blend的ing形式）
     - vi.
-      - `blend` 混合；协调
+      - `blend`
+        - 混合；协调
     - vt.
-      - `blend` 混合
+      - `blend`
+        - 混合
   - 近义词
-    - n. （美）搅拌机；掺和者；混合物
-      - `mixture`
-      - `hybrid`
-      - `mix`
-      - `compound`
+    - n.
+      - （美）搅拌机；掺和者；混合物
+        - `mixture`
+        - `hybrid`
+        - `mix`
+        - `compound`
   - 例句
     - `Puree cucumber in a blender.`
       - 用搅拌机打成黄瓜泥。

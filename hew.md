@@ -1,23 +1,31 @@
 - hew
   - 发音
-    - 英 `/hjuː/`
-    - 美 `/hju/`
+    - 英
+      - `/hjuː/`
+    - 美
+      - `/hju/`
   - 词义
-    - v. 砍；劈；砍倒
-    - `to cut something with a cutting tool`
-    - n. (Hew)人名；(英)休；(东南亚国家华语)丘
+    - v.
+      - 砍；劈；砍倒
+        - `to cut something with a cutting tool`
+    - n.
+      - (Hew)人名；(英)休；(东南亚国家华语)丘
   - 同根词
     - n.
-      - `hewer` 煤矿工；砍伐者
+      - `hewer`
+        - 煤矿工；砍伐者
   - 近义词
-    - vt. 砍；劈；砍倒
-      - `fall`
-      - `cut sth down`
-    - vi. 砍；劈；坚持
-      - `stay`
-      - `stand on`
+    - vt.
+      - 砍；劈；砍倒
+        - `fall`
+        - `cut sth down`
+    - vi.
+      - 砍；劈；坚持
+        - `stay`
+        - `stand on`
   - 短语
-    - `hew out` 把…开采出来；开辟出 
+    - `hew out`
+      - 把…开采出来；开辟出 
   - 例句
     - `hewn stone`
       - 切割好的石头

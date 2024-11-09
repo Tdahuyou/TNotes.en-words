@@ -1,9 +1,12 @@
 - Obon
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. （日本）盂兰盆节
+    - n.
+      - （日本）盂兰盆节
   - 例句
     - `Obon has a family-reunion element, as the Japanese will return to their ancestral homes to be reunited with relatives living and deceased.`
       - 因为在节日期间，日本人会回到祖籍和那些活着及死去的亲属团聚，盂兰盆节也有了家庭团聚的因素。

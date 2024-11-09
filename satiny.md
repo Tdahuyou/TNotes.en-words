@@ -1,25 +1,32 @@
 - satiny
   - 发音
-    - 英 `/'sætni/`
-    - 美 `/undefined/`
+    - 英
+      - `/'sætni/`
+    - 美
+      - `/undefined/`
   - 词义
-    - adj. 光滑的，柔软的
-    - `smooth, shiny, and soft`
+    - adj.
+      - 光滑的，柔软的
+        - `smooth, shiny, and soft`
   - 记忆
     - satin(缎子) + y → 像缎子一样光滑的 → 光滑的
   - 同根词
     - adj.
-      - `satin` 光滑的；绸缎做的；似缎的
+      - `satin`
+        - 光滑的；绸缎做的；似缎的
     - n.
-      - `satin` 缎子；缎子衣服
-      - `satinet` 假缎子；棉毛缎子；缎纹棉毛呢
+      - `satin`
+        - 缎子；缎子衣服
+      - `satinet`
+        - 假缎子；棉毛缎子；缎纹棉毛呢
   - 近义词
-    - adj. 光滑的，缎子似的，柔软的
-      - `smooth`
-      - `soft`
-      - `tender`
-      - `glossy`
-      - `glabrous`
+    - adj.
+      - 光滑的，缎子似的，柔软的
+        - `smooth`
+        - `soft`
+        - `tender`
+        - `glossy`
+        - `glabrous`
   - 例句
     - `women in tight, satiny dresses`
       - 身穿光滑面料的紧身礼服的女人

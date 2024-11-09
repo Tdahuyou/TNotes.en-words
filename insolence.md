@@ -1,20 +1,26 @@
 - insolence
   - 发音
-    - 英 `/'ɪnsələns/`
-    - 美 `/'insələns/`
+    - 英
+      - `/'ɪnsələns/`
+    - 美
+      - `/'insələns/`
   - 词义
-    - n. 傲慢，无礼
+    - n.
+      - 傲慢，无礼
   - 记忆
     - in(不) + sol(习惯了的) + ence → 不寻常 → 傲慢， 无礼
   - 同根词
     - adj.
-      - `insolent` 无礼的；傲慢的；粗野的；无耻的
+      - `insolent`
+        - 无礼的；傲慢的；粗野的；无耻的
     - adv.
-      - `insolently` 粗鲁地；无礼地；自傲地
+      - `insolently`
+        - 粗鲁地；无礼地；自傲地
   - 近义词
-    - n. 傲慢；傲慢无礼的行为
-      - `importance`
-      - `superciliousness`
+    - n.
+      - 傲慢；傲慢无礼的行为
+        - `importance`
+        - `superciliousness`
   - 例句
     - `His manner partakes of insolence.`
       - 他的态度带有几分傲慢。

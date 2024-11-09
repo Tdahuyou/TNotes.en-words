@@ -1,19 +1,25 @@
 - diaphoresis
   - 发音
-    - 英 `/,daɪəfə'riːsɪs/`
-    - 美 `/undefined/`
+    - 英
+      - `/,daɪəfə'riːsɪs/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 发汗
-    - `a technical name for sweating `
+    - n.
+      - 发汗
+        - `a technical name for sweating `
   - 同根词
     - adj.
-      - `diaphoretic` 发汗的
+      - `diaphoretic`
+        - 发汗的
     - n.
-      - `diaphoretic` 发汗剂
+      - `diaphoretic`
+        - 发汗剂
   - 近义词
-    - n. [医]发汗
-      - `sudation`
-      - `sweating`
+    - n.
+      - [医]发汗
+        - `sudation`
+        - `sweating`
   - 例句
     - `I was overwhelmed with excitement, and became acutely aware of my own tachycardia and diaphoresis.`
       - 我当时兴奋极了，并且敏锐地发现自己出现了心动过速与发汗。

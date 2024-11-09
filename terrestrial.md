@@ -1,30 +1,44 @@
 - terrestrial
   - 发音
-    - 英 `/tə'restriəl/`
-    - 美 `/tə'rɛstrɪəl/`
+    - 英
+      - `/tə'restriəl/`
+    - 美
+      - `/tə'rɛstrɪəl/`
   - 词义
-    - adj. 陆地的，陆生的，陆栖的；地球的
-    - `relating to the Earth rather than to the moon or other  planets `
+    - adj.
+      - 陆地的，陆生的，陆栖的；地球的
+        - `relating to the Earth rather than to the moon or other  planets `
   - 记忆
     - terr(地) + estr + ial → 陆地的， 陆生的
   - 同根词
     - adj.
-      - `terrene` 土的；尘世的；现世的
+      - `terrene`
+        - 土的；尘世的；现世的
     - n.
-      - `terrarium` 玻璃容器；陆地动物饲养所
-      - `terrene` 地球；陆地
+      - `terrarium`
+        - 玻璃容器；陆地动物饲养所
+      - `terrene`
+        - 地球；陆地
   - 近义词
-    - adj. [天]地球的；[生物]陆地的，陆生的；人间的
-      - `earthly`
-      - `telluric`
+    - adj.
+      - [天]地球的；[生物]陆地的，陆生的；人间的
+        - `earthly`
+        - `telluric`
   - 短语
-    - `terrestrial ecosystem` 陆地生态系统 
-    - `terrestrial heat` 地热 
-    - `terrestrial stress` 地应力 
-    - `terrestrial facies` 陆相 
-    - `terrestrial globe` n. 地球；地球仪 
-    - `terrestrial animals` 陆栖动物；陆生动物 
-    - `terrestrial plant` 陆生植物 
+    - `terrestrial ecosystem`
+      - 陆地生态系统 
+    - `terrestrial heat`
+      - 地热 
+    - `terrestrial stress`
+      - 地应力 
+    - `terrestrial facies`
+      - 陆相 
+    - `terrestrial globe`
+      - n. 地球；地球仪 
+    - `terrestrial animals`
+      - 陆栖动物；陆生动物 
+    - `terrestrial plant`
+      - 陆生植物 
   - 例句
     - `...terrestrial life forms.`
       - …地球上的生命形态。

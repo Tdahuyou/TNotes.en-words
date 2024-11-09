@@ -1,19 +1,26 @@
 - slang
   - 发音
-    - 英 `/slæŋ/`
-    - 美 `/slæŋ/`
+    - 英
+      - `/slæŋ/`
+    - 美
+      - `/slæŋ/`
   - 词义
-    - n. 俚语；行话
-    - `very informal, sometimes offensive language that is used especially by people who belong to a particular group, such as young people or criminals`
-    - adj. 俚语的
-    - v. 用粗话骂
+    - n.
+      - 俚语；行话
+        - `very informal, sometimes offensive language that is used especially by people who belong to a particular group, such as young people or criminals`
+    - adj.
+      - 俚语的
+    - v.
+      - 用粗话骂
   - 同根词
     - adj.
-      - `slangy` 俚语的；俗话多的；好用俚语的
+      - `slangy`
+        - 俚语的；俗话多的；好用俚语的
   - 近义词
-    - n. 俚语；行话
-      - `jargon`
-      - `dialect`
+    - n.
+      - 俚语；行话
+        - `jargon`
+        - `dialect`
   - 例句
     - `schoolboy slang`
       - 学生俚语

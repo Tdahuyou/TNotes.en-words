@@ -1,16 +1,21 @@
 - beside
   - 发音
-    - 英 `/bɪ'saɪd/`
-    - 美 `/bɪ'saɪd/`
+    - 英
+      - `/bɪ'saɪd/`
+    - 美
+      - `/bɪ'saɪd/`
   - 词义
-    - prep. 在⋯⋯旁边；在⋯⋯附近
-    - `next to or very close to the side of someone or something`
+    - prep.
+      - 在⋯⋯旁边；在⋯⋯附近
+        - `next to or very close to the side of someone or something`
   - 近义词
-    - prep. 在旁边；与…相比；和…无关
-      - `at the side of`
-      - `in comparison to`
+    - prep.
+      - 在旁边；与…相比；和…无关
+        - `at the side of`
+        - `in comparison to`
   - 短语
-    - `beside oneself` 极度兴奋；发狂 
+    - `beside oneself`
+      - 极度兴奋；发狂 
   - 例句
     - `Wendy came up and sat beside me.`
       - 温迪走过来，坐在我身边。

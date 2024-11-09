@@ -1,31 +1,45 @@
 - grumpy
   - 发音
-    - 英 `/'grʌmpɪ/`
-    - 美 `/'ɡrʌmpi/`
+    - 英
+      - `/'grʌmpɪ/`
+    - 美
+      - `/'ɡrʌmpi/`
   - 词义
-    - adj. 脾气暴躁的；性情乖戾的
-    - `bad-tempered and easily annoyed`
-    - n. 脾气坏的人；爱抱怨的人
+    - adj.
+      - 脾气暴躁的；性情乖戾的
+        - `bad-tempered and easily annoyed`
+    - n.
+      - 脾气坏的人；爱抱怨的人
   - 同根词
     - adj.
-      - `grumble` 抱怨地表示；嘟囔地说
+      - `grumble`
+        - 抱怨地表示；嘟囔地说
     - n.
-      - `grumble` 怨言
-      - `grump` 一阵坏脾气；发火；闹情绪
-      - `grumbler` 爱抱怨的人；发牢骚的人
-      - `grumpiness` 暴躁；乖戾
+      - `grumble`
+        - 怨言
+      - `grump`
+        - 一阵坏脾气；发火；闹情绪
+      - `grumbler`
+        - 爱抱怨的人；发牢骚的人
+      - `grumpiness`
+        - 暴躁；乖戾
     - vi.
-      - `grumble` 抱怨；嘟囔
-      - `grump` 发牢骚；闹情绪
+      - `grumble`
+        - 抱怨；嘟囔
+      - `grump`
+        - 发牢骚；闹情绪
     - vt.
-      - `grumble` 喃喃地说出
+      - `grumble`
+        - 喃喃地说出
   - 近义词
-    - adj. 脾气暴躁的；性情乖戾的
-      - `ill-tempered`
-      - `churlish`
-    - n. 脾气坏的人；爱抱怨的人
-      - `crosspatch`
-      - `curmudgeon`
+    - adj.
+      - 脾气暴躁的；性情乖戾的
+        - `ill-tempered`
+        - `churlish`
+    - n.
+      - 脾气坏的人；爱抱怨的人
+        - `crosspatch`
+        - `curmudgeon`
   - 例句
     - `Mina’s always a bit grumpy first thing in the morning.`
       - 明娜早上起来总是有点脾气。

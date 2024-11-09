@@ -1,21 +1,29 @@
 - sparsely
   - 发音
-    - 英 `/'spa:sli/`
-    - 美 `/'spɑrsli/`
+    - 英
+      - `/'spa:sli/`
+    - 美
+      - `/'spɑrsli/`
   - 词义
-    - adv. 稀疏地
+    - adv.
+      - 稀疏地
   - 同根词
     - adj.
-      - `sparse` 稀疏的；稀少的
+      - `sparse`
+        - 稀疏的；稀少的
     - n.
-      - `sparsity` 稀疏，稀少；贫乏
-      - `sparseness` 稀疏；稀少
+      - `sparsity`
+        - 稀疏，稀少；贫乏
+      - `sparseness`
+        - 稀疏；稀少
   - 近义词
-    - adv. 稀疏地；贫乏地
-      - `thin`
-      - `barely`
+    - adv.
+      - 稀疏地；贫乏地
+        - `thin`
+        - `barely`
   - 短语
-    - `sparsely populated` 人口稀少，人口稀疏 
+    - `sparsely populated`
+      - 人口稀少，人口稀疏 
   - 例句
     - `If an entry is only sparsely filled in, the results may look more like Figure 8.`
       - 如果一个条目只填充了稀疏的内容，那么结果看上去就像图 8 那样。

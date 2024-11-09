@@ -1,13 +1,17 @@
 - ontic
   - 发音
-    - 英 `/'ɒntɪk/`
-    - 美 `/'ɑntɪk/`
+    - 英
+      - `/'ɒntɪk/`
+    - 美
+      - `/'ɑntɪk/`
   - 词义
-    - adj. 本体的,实体的
+    - adj.
+      - 本体的,实体的
   - 近义词
-    - adj. 本体的；实体的
-      - `noumenal`
-      - `hypostatic`
+    - adj.
+      - 本体的；实体的
+        - `noumenal`
+        - `hypostatic`
   - 例句
     - `So government publicity is government ontic being, but not public entity or idiographic publicity.`
       - 因而公共性是政府的实体性存在，而非公共实体和具体的公共性。

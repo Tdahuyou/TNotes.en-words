@@ -1,7 +1,9 @@
 - Trent
   - 发音
-    - 英 `/trent/`
-    - 美 `/trent/`
+    - 英
+      - `/trent/`
+    - 美
+      - `/trent/`
   - 词义
   - 例句
     - `For Tom and Trent, the trap demonstration was a setup on a stage.`

@@ -1,35 +1,50 @@
 - flexibility
   - 发音
-    - 英 `/ˌfleksə'bɪlətɪ/`
-    - 美 `/,flɛksə'bɪləti/`
+    - 英
+      - `/ˌfleksə'bɪlətɪ/`
+    - 美
+      - `/,flɛksə'bɪləti/`
   - 词义
-    - n. 灵活性；弹性，韧性；适应性
-    - `the ability to change or be changed easily to suit a different situation`
+    - n.
+      - 灵活性；弹性，韧性；适应性
+        - `the ability to change or be changed easily to suit a different situation`
   - 记忆
     - 来自flexible(a. 易弯曲的； 柔韧的； 灵活的)； flex(弯曲) + ible(能…的) → 易弯曲的； 柔韧的； 灵活的
   - 同根词
     - adj.
-      - `flexible` 灵活的；柔韧的；易弯曲的
-      - `flex` 弹性工作制的
+      - `flexible`
+        - 灵活的；柔韧的；易弯曲的
+      - `flex`
+        - 弹性工作制的
     - adv.
-      - `flexibly` 灵活地；易曲地；柔软地；有弹性地
+      - `flexibly`
+        - 灵活地；易曲地；柔软地；有弹性地
     - n.
-      - `flex` 屈曲；电线；松紧带
-      - `flexibleness` 可挠性；柔软性
+      - `flex`
+        - 屈曲；电线；松紧带
+      - `flexibleness`
+        - 可挠性；柔软性
     - vi.
-      - `flex` 弯曲；收缩
+      - `flex`
+        - 弯曲；收缩
     - vt.
-      - `flex` 折曲；使收缩
+      - `flex`
+        - 折曲；使收缩
   - 近义词
-    - n. 灵活性；[力]弹性；适应性
-      - `give`
-      - `elasticity`
-      - `adaptability`
+    - n.
+      - 灵活性；[力]弹性；适应性
+        - `give`
+        - `elasticity`
+        - `adaptability`
   - 短语
-    - `flexibility matrix` 柔度矩阵；挠度矩阵 
-    - `strategic flexibility` 战略柔性，战略弹性；策略灵活性 
-    - `flexibility method` [工程]柔度法；挠度法 
-    - `operational flexibility` 操作弹性；运行灵活性 
+    - `flexibility matrix`
+      - 柔度矩阵；挠度矩阵 
+    - `strategic flexibility`
+      - 战略柔性，战略弹性；策略灵活性 
+    - `flexibility method`
+      - [工程]柔度法；挠度法 
+    - `operational flexibility`
+      - 操作弹性；运行灵活性 
   - 例句
     - `Employees expect flexibility in the workplace.`
       - 员工们盼望工作安排有弹性。

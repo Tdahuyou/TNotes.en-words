@@ -1,13 +1,17 @@
 - communique
   - 发音
-    - 英 `/kə'mju:nɪkeɪ/`
-    - 美 `/kə,mjʊnə'ke/`
+    - 英
+      - `/kə'mju:nɪkeɪ/`
+    - 美
+      - `/kə,mjʊnə'ke/`
   - 词义
-    - n. 公报，官报
+    - n.
+      - 公报，官报
   - 近义词
-    - n. 公报，官报
-      - `bulletin`
-      - `government organ`
+    - n.
+      - 公报，官报
+        - `bulletin`
+        - `government organ`
   - 例句
     - `We disagree to the communique.`
       - 我们对公报持异议。

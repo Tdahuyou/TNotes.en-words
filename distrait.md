@@ -1,14 +1,18 @@
 - distrait
   - 发音
-    - 英 `/dɪ'stre/`
-    - 美 `/di:s'tre/`
+    - 英
+      - `/dɪ'stre/`
+    - 美
+      - `/di:s'tre/`
   - 词义
-    - adj. 心不在焉的
-    - `absent-minded; abstracted `
+    - adj.
+      - 心不在焉的
+        - `absent-minded; abstracted `
   - 近义词
-    - adj. （法）心不在焉的（因烦恼、忧惧等）
-      - `abstracted`
-      - `uncaring`
+    - adj.
+      - （法）心不在焉的（因烦恼、忧惧等）
+        - `abstracted`
+        - `uncaring`
   - 例句
     - `The distrait actress fluffed her lines.`
       - 那位心不在焉的女演员忘了台词。

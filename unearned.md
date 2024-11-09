@@ -1,14 +1,18 @@
 - unearned
   - 发音
-    - 英 `/ʌn'ɜːnd/`
-    - 美 `/,ʌn'ɝnd/`
+    - 英
+      - `/ʌn'ɜːnd/`
+    - 美
+      - `/,ʌn'ɝnd/`
   - 词义
-    - adj. 不劳而获的
-    - `not deserved `
+    - adj.
+      - 不劳而获的
+        - `not deserved `
   - 近义词
-    - adj. 不劳而获的；非劳动所得的；不相称的
-      - `inappropriate`
-      - `unsuitable`
+    - adj.
+      - 不劳而获的；非劳动所得的；不相称的
+        - `inappropriate`
+        - `unsuitable`
   - 例句
     - `The abolition of incomes unearned by work.`
       - 第十一条，取缔不劳而获的收入。

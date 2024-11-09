@@ -1,11 +1,15 @@
 - plumpy
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - adj. 丰满的
+    - adj.
+      - 丰满的
   - 近义词
-    - adj. 丰满的
-      - `fat`
-      - `full`
-      - `zoftig`
+    - adj.
+      - 丰满的
+        - `fat`
+        - `full`
+        - `zoftig`

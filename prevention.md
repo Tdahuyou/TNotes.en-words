@@ -1,40 +1,63 @@
 - prevention
   - 发音
-    - 英 `/prɪ'venʃn/`
-    - 美 `/pri'vɛnʃən/`
+    - 英
+      - `/prɪ'venʃn/`
+    - 美
+      - `/pri'vɛnʃən/`
   - 词义
-    - n. 预防,防止
-    - `when something bad is stopped from happening`
+    - n.
+      - 预防,防止
+        - `when something bad is stopped from happening`
   - 同根词
     - adj.
-      - `preventive` 预防的，防止的
-      - `preventable` 可预防的；可阻止的；可防止的
-      - `prevenient` 预期的；以前的；预防的；先行的
+      - `preventive`
+        - 预防的，防止的
+      - `preventable`
+        - 可预防的；可阻止的；可防止的
+      - `prevenient`
+        - 预期的；以前的；预防的；先行的
     - n.
-      - `preventive` 预防药；预防法
+      - `preventive`
+        - 预防药；预防法
     - vi.
-      - `prevent` 妨碍，阻止
+      - `prevent`
+        - 妨碍，阻止
     - vt.
-      - `prevent` 预防，防止；阻止
+      - `prevent`
+        - 预防，防止；阻止
   - 近义词
-    - n. 预防；阻止；妨碍
-      - `intervention`
-      - `violation`
-      - `check`
+    - n.
+      - 预防；阻止；妨碍
+        - `intervention`
+        - `violation`
+        - `check`
   - 短语
-    - `fire prevention` 防火 
-    - `disease prevention` 疾病预防 
-    - `pollution prevention` 污染预防；防止污染 
-    - `disaster prevention` 防灾 
-    - `flood prevention` 防汛；防洪；防洪工作 
-    - `epidemic prevention` 防疫；疫病防治；流行病预防 
-    - `corrosion prevention` 防腐蚀 
-    - `accident prevention` 事故预防；安全措施 
-    - `rust prevention` 防锈处理 
-    - `prevention first` 预防为主 
-    - `sand prevention` 防砂 
-    - `loss prevention` 损失预防；预防损失的措施 
-    - `smoke prevention` 防烟法 
+    - `fire prevention`
+      - 防火 
+    - `disease prevention`
+      - 疾病预防 
+    - `pollution prevention`
+      - 污染预防；防止污染 
+    - `disaster prevention`
+      - 防灾 
+    - `flood prevention`
+      - 防汛；防洪；防洪工作 
+    - `epidemic prevention`
+      - 防疫；疫病防治；流行病预防 
+    - `corrosion prevention`
+      - 防腐蚀 
+    - `accident prevention`
+      - 事故预防；安全措施 
+    - `rust prevention`
+      - 防锈处理 
+    - `prevention first`
+      - 预防为主 
+    - `sand prevention`
+      - 防砂 
+    - `loss prevention`
+      - 损失预防；预防损失的措施 
+    - `smoke prevention`
+      - 防烟法 
   - 例句
     - `a fire prevention officer`
       - 消防官员

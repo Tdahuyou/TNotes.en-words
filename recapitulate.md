@@ -1,25 +1,33 @@
 - recapitulate
   - 发音
-    - 英 `/ˌriːkə'pitʃuleit/`
-    - 美 `/'rikə'pɪtʃə'let/`
+    - 英
+      - `/ˌriːkə'pitʃuleit/`
+    - 美
+      - `/'rikə'pɪtʃə'let/`
   - 词义
-    - v. 扼要重述；概括
-    - `to repeat the main points of something that has just been said`
+    - v.
+      - 扼要重述；概括
+        - `to repeat the main points of something that has just been said`
   - 记忆
     - re (重新) + capit (头) + ulate → 重新把重要的东西放到一起 → 扼要重述
   - 同根词
     - n.
-      - `recap` 翻新的轮胎
-      - `recapitulation` 概括；重述要点；再现部
+      - `recap`
+        - 翻新的轮胎
+      - `recapitulation`
+        - 概括；重述要点；再现部
     - vt.
-      - `recap` 翻新胎面；扼要重述
+      - `recap`
+        - 翻新胎面；扼要重述
   - 近义词
-    - vi. 概括；重述要点；摘要
-      - `sum`
-      - `gather up`
-    - vt. 概括；重述要点；摘要
-      - `abstract`
-      - `brief`
+    - vi.
+      - 概括；重述要点；摘要
+        - `sum`
+        - `gather up`
+    - vt.
+      - 概括；重述要点；摘要
+        - `abstract`
+        - `brief`
   - 例句
     - `Let's just recapitulate the essential points.`
       - 让我们只概述一下基本要点吧。

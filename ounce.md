@@ -1,16 +1,21 @@
 - ounce
   - 发音
-    - 英 `/aʊns/`
-    - 美 `/aʊns/`
+    - 英
+      - `/aʊns/`
+    - 美
+      - `/aʊns/`
   - 词义
-    - n. 盎司
-    - `a unit for measuring weight, equal to 28.35 grams. There are 16 ounces in a pound.`
+    - n.
+      - 盎司
+        - `a unit for measuring weight, equal to 28.35 grams. There are 16 ounces in a pound.`
   - 近义词
-    - n. [金融]盎司；少量；雪豹
-      - `bit`
-      - `tad`
+    - n.
+      - [金融]盎司；少量；雪豹
+        - `bit`
+        - `tad`
   - 短语
-    - `troy ounce` 金衡制盎司 
+    - `troy ounce`
+      - 金衡制盎司 
   - 例句
     - `One ounce of almonds contains nearly half the recommended daily amount.`
       - 一盎司杏仁大约包含每日需求量的一半。

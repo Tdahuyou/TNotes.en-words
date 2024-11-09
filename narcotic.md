@@ -1,26 +1,35 @@
 - narcotic
   - 发音
-    - 英 `/nɑː'kɒtɪk/`
-    - 美 `/nɑr'kɑtɪk/`
+    - 英
+      - `/nɑː'kɒtɪk/`
+    - 美
+      - `/nɑr'kɑtɪk/`
   - 词义
-    - n. 麻醉药,镇静剂
-    - `a type of drug which makes you sleep and reduces pain`
-    - adj. 麻醉的
-    - `a narcotic drug takes away pain or makes you sleep`
+    - n.
+      - 麻醉药,镇静剂
+        - `a type of drug which makes you sleep and reduces pain`
+    - adj.
+      - 麻醉的
+        - `a narcotic drug takes away pain or makes you sleep`
   - 同根词
     - n.
-      - `narcosis` 麻醉；昏迷状态
+      - `narcosis`
+        - 麻醉；昏迷状态
     - vi.
-      - `narcotize` 起麻醉作用
+      - `narcotize`
+        - 起麻醉作用
     - vt.
-      - `narcotize` 麻醉，使昏迷
+      - `narcotize`
+        - 麻醉，使昏迷
   - 近义词
-    - adj. [药]麻醉的；有麻醉作用的；催眠的
-      - `anesthetic`
-      - `anaesthetic`
-    - n. [药]麻醉药；镇静剂；起麻醉作用的事物
-      - `drug`
-      - `banque`
+    - adj.
+      - [药]麻醉的；有麻醉作用的；催眠的
+        - `anesthetic`
+        - `anaesthetic`
+    - n.
+      - [药]麻醉药；镇静剂；起麻醉作用的事物
+        - `drug`
+        - `banque`
   - 例句
     - `The truth of Johnson’s comment was recently brought home to me by the serene calm of a resident who was treating a particularly complicated narcotic-dependent patient.`
       - 最近，一位住院医生对待一位异常复杂的麻醉药依赖病人的平静态度让我领会到了塞缪尔.约翰逊这句话的真谛。

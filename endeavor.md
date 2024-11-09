@@ -1,34 +1,43 @@
 - endeavor
   - 发音
-    - 英 `/ɪn'devər/`
-    - 美 `/ɪn'dɛvɚ/`
+    - 英
+      - `/ɪn'devər/`
+    - 美
+      - `/ɪn'dɛvɚ/`
   - 词义
-    - vi&n. 努力，尽力
+    - vi&n.
+      - 努力，尽力
   - 记忆
     - end(尽头) + eav(看做eager， 热情) + or(看做our， 我们的) → 用尽了我们的热情 → 努力， 尽力
   - 同根词
     - n.
-      - `endeavour` 尽力，竭力
+      - `endeavour`
+        - 尽力，竭力
     - vi.
-      - `endeavour` 竭力；企图
+      - `endeavour`
+        - 竭力；企图
     - vt.
-      - `endeavour` 竭力做到，试图或力图（做某事）
+      - `endeavour`
+        - 竭力做到，试图或力图（做某事）
   - 近义词
-    - n. 努力；尽力（等于endeavour）
-      - `effort`
-      - `pain`
-      - `struggle`
-      - `trial`
-      - `try`
-    - vi. 努力；尽力（等于endeavour）
-      - `apply oneself`
-      - `struggle`
-      - `labor`
-      - `strain`
-      - `try one's best`
-    - vt. 努力；尽力（等于endeavour）
-      - `apply oneself`
-      - `try one's best`
+    - n.
+      - 努力；尽力（等于endeavour）
+        - `effort`
+        - `pain`
+        - `struggle`
+        - `trial`
+        - `try`
+    - vi.
+      - 努力；尽力（等于endeavour）
+        - `apply oneself`
+        - `struggle`
+        - `labor`
+        - `strain`
+        - `try one's best`
+    - vt.
+      - 努力；尽力（等于endeavour）
+        - `apply oneself`
+        - `try one's best`
   - 例句
     - `All accomplishments and success come from sustained endeavor.`
       - 所有的成就都来自于不懈的努力。

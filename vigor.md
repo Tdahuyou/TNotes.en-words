@@ -1,28 +1,37 @@
 - vigor
   - 发音
-    - 英 `/'vɪgər/`
-    - 美 `/'vɪgɚ/`
+    - 英
+      - `/'vɪgər/`
+    - 美
+      - `/'vɪgɚ/`
   - 词义
-    - n. 活力，精力
+    - n.
+      - 活力，精力
   - 记忆
     - vig(生活) + or → 活力， 精力
   - 同根词
     - adj.
-      - `vigorous` 有力的；精力充沛的
+      - `vigorous`
+        - 有力的；精力充沛的
     - adv.
-      - `vigorously` 精神旺盛地，活泼地
+      - `vigorously`
+        - 精神旺盛地，活泼地
     - n.
-      - `vigour` 活力；气势
+      - `vigour`
+        - 活力；气势
   - 近义词
-    - n. [生物]活力，精力
-      - `energy`
-      - `vitality`
-      - `spring`
-      - `steam`
-      - `razzamatazz`
+    - n.
+      - [生物]活力，精力
+        - `energy`
+        - `vitality`
+        - `spring`
+        - `steam`
+        - `razzamatazz`
   - 短语
-    - `vigor and vitality` 生机与活力 
-    - `seed vigor` 种子生活力 
+    - `vigor and vitality`
+      - 生机与活力 
+    - `seed vigor`
+      - 种子生活力 
   - 例句
     - `They are here to drink in vigor from the youth.`
       - 他们来这里是想从年轻人身上得到活力。

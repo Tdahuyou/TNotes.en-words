@@ -1,26 +1,36 @@
 - dodgy
   - 发音
-    - 英 `/'dɒdʒɪ/`
-    - 美 `/'dɑdʒi/`
+    - 英
+      - `/'dɒdʒɪ/`
+    - 美
+      - `/'dɑdʒi/`
   - 词义
-    - adj. 冒险的；困难的
-    - `involving risk or danger`
+    - adj.
+      - 冒险的；困难的
+        - `involving risk or danger`
   - 同根词
     - n.
-      - `dodge` 躲闪；托词
-      - `dodging` 避开；音调改变
-      - `dodger` 欺瞒者；躲避者
+      - `dodge`
+        - 躲闪；托词
+      - `dodging`
+        - 避开；音调改变
+      - `dodger`
+        - 欺瞒者；躲避者
     - vi.
-      - `dodge` 躲避，避开
+      - `dodge`
+        - 躲避，避开
     - vt.
-      - `dodge` 躲避，避开
-      - `dodging` 闪避（dodge的现在分词）
+      - `dodge`
+        - 躲避，避开
+      - `dodging`
+        - 闪避（dodge的现在分词）
   - 近义词
-    - adj. 狡猾的，逃避的；善于骗人的；躲闪的
-      - `designing`
-      - `knowing`
-      - `subtle`
-      - `tricky`
+    - adj.
+      - 狡猾的，逃避的；善于骗人的；躲闪的
+        - `designing`
+        - `knowing`
+        - `subtle`
+        - `tricky`
   - 例句
     - `There were a few dodgy moments.`
       - 有些时候相当危险。

@@ -1,26 +1,33 @@
 - vile
   - 发音
-    - 英 `/vail/`
-    - 美 `/vaɪl/`
+    - 英
+      - `/vail/`
+    - 美
+      - `/vaɪl/`
   - 词义
-    - adj. 卑鄙的，可耻的，恶劣的；坏透的
-    - `extremely unpleasant or bad`
+    - adj.
+      - 卑鄙的，可耻的，恶劣的；坏透的
+        - `extremely unpleasant or bad`
   - 记忆
     - “歪哟” → 卑鄙的人总往歪处想
   - 同根词
     - adv.
-      - `vilely` 讨厌地；卑劣地
+      - `vilely`
+        - 讨厌地；卑劣地
     - n.
-      - `vileness` 卑劣；讨厌
+      - `vileness`
+        - 卑劣；讨厌
     - vt.
-      - `vilify` 诽谤；中伤；轻视；贬低
+      - `vilify`
+        - 诽谤；中伤；轻视；贬低
   - 近义词
-    - adj. 卑鄙的；邪恶的；低廉的；肮脏的
-      - `poor`
-      - `evil`
-      - `base`
-      - `mean`
-      - `ill`
+    - adj.
+      - 卑鄙的；邪恶的；低廉的；肮脏的
+        - `poor`
+        - `evil`
+        - `base`
+        - `mean`
+        - `ill`
   - 例句
     - `This coffee tastes really vile.`
       - 这咖啡太难喝了。

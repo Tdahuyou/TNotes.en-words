@@ -1,21 +1,27 @@
 - notorious
   - 发音
-    - 英 `/nou'tɔːriəs/`
-    - 美 `/no'tɔrɪəs/`
+    - 英
+      - `/nou'tɔːriəs/`
+    - 美
+      - `/no'tɔrɪəs/`
   - 词义
-    - adj. 臭名昭著的，声名狼藉的
-    - `famous or well-known for something bad`
+    - adj.
+      - 臭名昭著的，声名狼藉的
+        - `famous or well-known for something bad`
   - 记忆
     - not(知道) + or + ious → 广为人知的 → 臭名昭著的， 声名狼藉的
   - 同根词
     - adv.
-      - `notoriously` 众所周知地；声名狼藉地；恶名昭彰地
+      - `notoriously`
+        - 众所周知地；声名狼藉地；恶名昭彰地
     - n.
-      - `notoriety` 恶名；声名狼藉；丑名
+      - `notoriety`
+        - 恶名；声名狼藉；丑名
   - 近义词
-    - adj. 声名狼藉的，臭名昭著的
-      - `infamous`
-      - `disreputable`
+    - adj.
+      - 声名狼藉的，臭名昭著的
+        - `infamous`
+        - `disreputable`
   - 例句
     - `a notorious computer hacker`
       - 声名狼藉的电脑黑客

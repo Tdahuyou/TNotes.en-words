@@ -1,24 +1,33 @@
 - hastily
   - 发音
-    - 英 `/'heɪstɪlɪ/`
-    - 美 `/'hestɪli/`
+    - 英
+      - `/'heɪstɪlɪ/`
+    - 美
+      - `/'hestɪli/`
   - 词义
-    - adv. 匆忙地，慌忙地
-    - `quickly, perhaps too quickly`
+    - adv.
+      - 匆忙地，慌忙地
+        - `quickly, perhaps too quickly`
   - 同根词
     - adj.
-      - `hasty` 轻率的；匆忙的；草率的；性怠的
+      - `hasty`
+        - 轻率的；匆忙的；草率的；性怠的
     - n.
-      - `haste` 匆忙；急忙；轻率
-      - `hastiness` 轻率；性急；仓促
+      - `haste`
+        - 匆忙；急忙；轻率
+      - `hastiness`
+        - 轻率；性急；仓促
     - vi.
-      - `haste` 匆忙；赶紧
+      - `haste`
+        - 匆忙；赶紧
     - vt.
-      - `haste` 赶快
+      - `haste`
+        - 赶快
   - 近义词
-    - adv. 匆忙地；急速地；慌忙地
-      - `hurriedly`
-      - `vite`
+    - adv.
+      - 匆忙地；急速地；慌忙地
+        - `hurriedly`
+        - `vite`
   - 例句
     - `a hastily arranged news conference`
       - 仓促安排的记者招待会

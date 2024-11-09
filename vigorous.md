@@ -1,21 +1,27 @@
 - vigorous
   - 发音
-    - 英 `/'vɪg(ə)rəs/`
-    - 美 `/'vɪɡərəs/`
+    - 英
+      - `/'vɪg(ə)rəs/`
+    - 美
+      - `/'vɪɡərəs/`
   - 词义
-    - adj. 精力充沛的,有力的
-    - `using a lot of energy and strength or determination`
+    - adj.
+      - 精力充沛的,有力的
+        - `using a lot of energy and strength or determination`
   - 同根词
     - adv.
-      - `vigorously` 精神旺盛地，活泼地
+      - `vigorously`
+        - 精神旺盛地，活泼地
     - n.
-      - `vigor` [生物] 活力，精力
+      - `vigor`
+        - [生物] 活力，精力
   - 近义词
-    - adj. 有力的；精力充沛的
-      - `male`
-      - `live`
-      - `energetic`
-      - `mighty`
+    - adj.
+      - 有力的；精力充沛的
+        - `male`
+        - `live`
+        - `energetic`
+        - `mighty`
   - 例句
     - `Your dog needs at least 20 minutes of vigorous exercise every day.`
       - 你的狗每天需要进行至少20分钟的剧烈运动。

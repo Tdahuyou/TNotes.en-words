@@ -1,14 +1,18 @@
 - disencumber
   - 发音
-    - 英 `/dɪsɪn'kʌmbə; dɪsen-/`
-    - 美 `/undefined/`
+    - 英
+      - `/dɪsɪn'kʌmbə; dɪsen-/`
+    - 美
+      - `/undefined/`
   - 词义
-    - v. 摆脱烦恼,不受妨碍
-    - `to free from encumbrances `
+    - v.
+      - 摆脱烦恼,不受妨碍
+        - `to free from encumbrances `
   - 近义词
-    - vt. 使解脱；排除障碍
-      - `extricate`
-      - `ease of`
+    - vt.
+      - 使解脱；排除障碍
+        - `extricate`
+        - `ease of`
   - 例句
     - `How can you disencumber Oh?`
       - 怎样才可以摆脱烦恼噢?。

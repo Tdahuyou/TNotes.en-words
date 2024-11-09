@@ -1,34 +1,50 @@
 - fatten
   - 发音
-    - 英 `/'fæt(ə)n/`
-    - 美 `/'fætn/`
+    - 英
+      - `/'fæt(ə)n/`
+    - 美
+      - `/'fætn/`
   - 词义
-    - v. 养肥；使肥沃
-    - `If you say that someone is fattening something such as a business or its profits, you mean that they are increasing the value of the business or its profits, in a way that you disapprove of`
+    - v.
+      - 养肥；使肥沃
+        - `If you say that someone is fattening something such as a business or its profits, you mean that they are increasing the value of the business or its profits, in a way that you disapprove of`
   - 同根词
     - adj.
-      - `fat` 肥的，胖的；油腻的；丰满的
-      - `fatty` 脂肪的；肥胖的；多脂肪的；脂肪过多的
-      - `fattening` 正被养肥的；用于养肥禽畜的
+      - `fat`
+        - 肥的，胖的；油腻的；丰满的
+      - `fatty`
+        - 脂肪的；肥胖的；多脂肪的；脂肪过多的
+      - `fattening`
+        - 正被养肥的；用于养肥禽畜的
     - n.
-      - `fat` 脂肪，肥肉
-      - `fatty` 胖子
-      - `fatness` 肥胖，油腻；肥沃
-      - `fatting` 去脂
+      - `fat`
+        - 脂肪，肥肉
+      - `fatty`
+        - 胖子
+      - `fatness`
+        - 肥胖，油腻；肥沃
+      - `fatting`
+        - 去脂
     - v.
-      - `fattening` 养肥（fatten的ing形式）
-      - `fatting` 使肥胖（fat的ing形式）
+      - `fattening`
+        - 养肥（fatten的ing形式）
+      - `fatting`
+        - 使肥胖（fat的ing形式）
     - vi.
-      - `fat` 长肥
+      - `fat`
+        - 长肥
     - vt.
-      - `fat` 养肥；在…中加入脂肪
+      - `fat`
+        - 养肥；在…中加入脂肪
   - 近义词
-    - vt. 养肥；使肥沃；使充实
-      - `enrich`
-      - `fat up`
-    - vi. 养肥；（靠…）发财
-      - `fat up`
-      - `make a pile`
+    - vt.
+      - 养肥；使肥沃；使充实
+        - `enrich`
+        - `fat up`
+    - vi.
+      - 养肥；（靠…）发财
+        - `fat up`
+        - `make a pile`
   - 例句
     - `They have kept the price of sugar artificially high and so fattened the company's profits.`
       - 他们一直人为地使糖价居高不下，以此为公司牟利。

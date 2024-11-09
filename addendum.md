@@ -1,20 +1,26 @@
 - addendum
   - 发音
-    - 英 `/ə'dendəm/`
-    - 美 `/ə'dɛndəm/`
+    - 英
+      - `/ə'dendəm/`
+    - 美
+      - `/ə'dɛndəm/`
   - 词义
-    - n. 附录；补遗
-    - `something you add to the end of a speech or book to change it or give more information`
+    - n.
+      - 附录；补遗
+        - `something you add to the end of a speech or book to change it or give more information`
   - 记忆
     - add (增加) + end (结尾) + um (表名词) → 附录
   - 近义词
-    - n. 附录，附件；[图情]补遗；附加物
-      - `attachment`
-      - `appendix`
-      - `supplement`
+    - n.
+      - 附录，附件；[图情]补遗；附加物
+        - `attachment`
+        - `appendix`
+        - `supplement`
   - 短语
-    - `addendum circle` 齿冠圆 
-    - `addendum modification` 齿高变位量；齿顶高修正 
+    - `addendum circle`
+      - 齿冠圆 
+    - `addendum modification`
+      - 齿高变位量；齿顶高修正 
   - 例句
     - `The quantum theory is not just an esoteric addendum .`
       - 量子理论并不只是一个深奥的附录。

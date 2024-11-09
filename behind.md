@@ -1,24 +1,34 @@
 - behind
   - 发音
-    - 英 `/bɪ'haɪnd/`
-    - 美 `/bɪ'haɪnd/`
+    - 英
+      - `/bɪ'haɪnd/`
+    - 美
+      - `/bɪ'haɪnd/`
   - 词义
-    - prep. 在⋯⋯后面
-    - `at or towards the back of a thing or person`
+    - prep.
+      - 在⋯⋯后面
+        - `at or towards the back of a thing or person`
   - 近义词
-    - prep. 落后于；支持；晚于
-      - `with`
-      - `past`
-    - n. 屁股
-      - `ass`
-      - `rear`
-      - `pratt`
+    - prep.
+      - 落后于；支持；晚于
+        - `with`
+        - `past`
+    - n.
+      - 屁股
+        - `ass`
+        - `rear`
+        - `pratt`
   - 短语
-    - `from behind` 从…后面 
-    - `drop behind` 落…之后；落伍 
-    - `go behind` 进一步斟酌；探究 
-    - `come from behind` 迎头赶上 
-    - `line up behind` 拥护；追随： 
+    - `from behind`
+      - 从…后面 
+    - `drop behind`
+      - 落…之后；落伍 
+    - `go behind`
+      - 进一步斟酌；探究 
+    - `come from behind`
+      - 迎头赶上 
+    - `line up behind`
+      - 拥护；追随： 
   - 例句
     - `I turned to speak to the person standing behind me.`
       - 我转身和站在我后面的那人说话。

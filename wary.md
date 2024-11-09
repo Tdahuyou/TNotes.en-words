@@ -1,21 +1,28 @@
 - wary
   - 发音
-    - 英 `/'weri/`
-    - 美 `/'wɛri/`
+    - 英
+      - `/'weri/`
+    - 美
+      - `/'wɛri/`
   - 词义
-    - adj. 小心翼翼的，留神的，警惕的
-    - `someone who is wary is careful because they think something might be dangerous or harmful`
+    - adj.
+      - 小心翼翼的，留神的，警惕的
+        - `someone who is wary is careful because they think something might be dangerous or harmful`
   - 同根词
     - adv.
-      - `warily` 警惕地；谨慎地；留心地
+      - `warily`
+        - 警惕地；谨慎地；留心地
     - n.
-      - `wariness` 谨慎，小心
+      - `wariness`
+        - 谨慎，小心
   - 近义词
-    - adj. 谨慎的；机警的；惟恐的；考虑周到的
-      - `cautious`
-      - `prudent`
+    - adj.
+      - 谨慎的；机警的；惟恐的；考虑周到的
+        - `cautious`
+        - `prudent`
   - 短语
-    - `wary of` adj. 小心翼翼的；警觉的；谨防的 
+    - `wary of`
+      - adj. 小心翼翼的；警觉的；谨防的 
   - 例句
     - `Keep a wary eye on the weather before you set sail.`
       - 出航前要密切注意天气。

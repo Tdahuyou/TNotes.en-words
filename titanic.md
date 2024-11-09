@@ -1,16 +1,19 @@
 - Titanic
   - 发音
-    - 英 `/taɪ'tænɪk/`
-    - 美 `/taɪ'tænɪk/`
+    - 英
+      - `/taɪ'tænɪk/`
+    - 美
+      - `/taɪ'tænɪk/`
   - 词义
-    - `a luxury British liner that struck an iceberg near Newfoundland on its maiden voyage on the night of April 14`
+        - `a luxury British liner that struck an iceberg near Newfoundland on its maiden voyage on the night of April 14`
   - 近义词
-    - adj. 巨大的；四价钛的
-      - `huge`
-      - `tremendous`
-      - `enormous`
-      - `massive`
-      - `macro`
+    - adj.
+      - 巨大的；四价钛的
+        - `huge`
+        - `tremendous`
+        - `enormous`
+        - `massive`
+        - `macro`
   - 例句
     - `Directly in back of the building is a lake from which the tips of icebergs protrude, and anchored there is a ship named Titanic, whose deck chairs can be rearranged.`
       - 在建筑物正后面有一个湖，湖里露出冰山的小角，有一艘名叫泰坦尼克的船停在那里，它的甲板椅子可以重新排列。

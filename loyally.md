@@ -1,20 +1,28 @@
 - loyally
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - adv. 忠诚
+    - adv.
+      - 忠诚
   - 同根词
     - adj.
-      - `loyal` 忠诚的，忠心的；忠贞的
+      - `loyal`
+        - 忠诚的，忠心的；忠贞的
     - n.
-      - `loyalty` 忠诚；忠心；忠实
-      - `loyal` 效忠的臣民；忠实信徒
-      - `loyalist` 忠诚的人；反对独立者
+      - `loyalty`
+        - 忠诚；忠心；忠实
+      - `loyal`
+        - 效忠的臣民；忠实信徒
+      - `loyalist`
+        - 忠诚的人；反对独立者
   - 近义词
-    - adv. 忠诚地；诚实地
-      - `genuinely`
-      - `truthfully`
+    - adv.
+      - 忠诚地；诚实地
+        - `genuinely`
+        - `truthfully`
   - 例句
     - `If the consensus is that you should continue, then I will support the government loyally from the backbenches.`
       - 如果一致意见是你应该继续留任，那么我会以一名普通议员的身份忠诚地支持政府。

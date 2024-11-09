@@ -1,29 +1,40 @@
 - vagrant
   - 发音
-    - 英 `/'veɪgrənt/`
-    - 美 `/'veɡrənt/`
+    - 英
+      - `/'veɪgrənt/`
+    - 美
+      - `/'veɡrənt/`
   - 词义
-    - adj. 漂泊的
-    - n. 无业游民，流浪者
-    - `someone who has no home or work, especially someone who begs`
+    - adj.
+      - 漂泊的
+    - n.
+      - 无业游民，流浪者
+        - `someone who has no home or work, especially someone who begs`
   - 记忆
     - vag(漫游) + rant → 无业游民， 流浪者
   - 同根词
     - adj.
-      - `vagabond` 流浪的；流浪者的；浪荡的；漂泊的
+      - `vagabond`
+        - 流浪的；流浪者的；浪荡的；漂泊的
     - n.
-      - `vagabond` 流浪者；浪子；流氓；懒汉
-      - `vagrancy` 流浪；漂泊；思想游移不定
-      - `vagabondage` 流浪；流浪者；流浪生活
+      - `vagabond`
+        - 流浪者；浪子；流氓；懒汉
+      - `vagrancy`
+        - 流浪；漂泊；思想游移不定
+      - `vagabondage`
+        - 流浪；流浪者；流浪生活
     - vi.
-      - `vagabond` 到处流浪
+      - `vagabond`
+        - 到处流浪
   - 近义词
-    - adj. 流浪的；漂泊的；游荡的
-      - `ragamuffinly`
-      - `wandering`
-    - n. 游民；流浪者；无赖；漂泊者
-      - `cad`
-      - `vag`
+    - adj.
+      - 流浪的；漂泊的；游荡的
+        - `ragamuffinly`
+        - `wandering`
+    - n.
+      - 游民；流浪者；无赖；漂泊者
+        - `cad`
+        - `vag`
   - 例句
     - `He lived on the street as a vagrant.`
       - 他作为一个流浪者露宿街头。

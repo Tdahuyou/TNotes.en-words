@@ -1,23 +1,30 @@
 - inconsistent
   - 发音
-    - 英 `/ˌinkən'sistənt/`
-    - 美 `/,ɪnkən'sɪstənt/`
+    - 英
+      - `/ˌinkən'sistənt/`
+    - 美
+      - `/,ɪnkən'sɪstənt/`
   - 词义
-    - adj. 不一致的；不协调的；矛盾
-    - `two statements that are inconsistent cannot both be true`
+    - adj.
+      - 不一致的；不协调的；矛盾
+        - `two statements that are inconsistent cannot both be true`
   - 记忆
     - in + consistent (一致的) → 不一致的
   - 同根词
     - adv.
-      - `inconsistently` 不一致地
+      - `inconsistently`
+        - 不一致地
     - n.
-      - `inconsistency` 不一致；易变
+      - `inconsistency`
+        - 不一致；易变
   - 近义词
-    - adj. 不一致的；前后矛盾的
-      - `nonuniform`
-      - `discordant`
+    - adj.
+      - 不一致的；前后矛盾的
+        - `nonuniform`
+        - `discordant`
   - 短语
-    - `inconsistent with` adj. 与…不一致；与……相矛盾 
+    - `inconsistent with`
+      - adj. 与…不一致；与……相矛盾 
   - 例句
     - `The accounts of the witnesses are inconsistent.`
       - 几位目击者的说法不一致。

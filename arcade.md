@@ -1,17 +1,23 @@
 - arcade
   - 发音
-    - 英 `/ɑː'keɪd/`
-    - 美 `/ɑr'ked/`
+    - 英
+      - `/ɑː'keɪd/`
+    - 美
+      - `/ɑr'ked/`
   - 词义
-    - n. 拱廊
-    - `a covered passage at the side of a row of buildings with  pillar s  and  arch es  supporting it on one side`
+    - n.
+      - 拱廊
+        - `a covered passage at the side of a row of buildings with  pillar s  and  arch es  supporting it on one side`
   - 近义词
-    - n. [建]拱廊；（内设投角子电子游戏机等的）游乐场；有拱廊的街道
-      - `recreation ground`
-      - `amusement parks`
+    - n.
+      - [建]拱廊；（内设投角子电子游戏机等的）游乐场；有拱廊的街道
+        - `recreation ground`
+        - `amusement parks`
   - 短语
-    - `shopping arcade` 购物商场；商店街，商场部 
-    - `arcade game` 电脑游戏（游乐场的） 
+    - `shopping arcade`
+      - 购物商场；商店街，商场部 
+    - `arcade game`
+      - 电脑游戏（游乐场的） 
   - 例句
     - `The short, squat man in the Dallas Cowboys windbreaker staggers out from the arcade, propping himself against the wall.`
       - 身穿达拉斯牛仔风衣的矮胖男人蹒跚的从拱廊走出来，支撑着自己靠在墙上。

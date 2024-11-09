@@ -1,19 +1,27 @@
 - egoistic
   - 发音
-    - 英 `/ˌegou'ɪstɪk(l)/`
-    - 美 `/undefined/`
+    - 英
+      - `/ˌegou'ɪstɪk(l)/`
+    - 美
+      - `/undefined/`
   - 词义
-    - adj. 自我中心的，自私自利的
+    - adj.
+      - 自我中心的，自私自利的
   - 同根词
     - adj.
-      - `egoistical` 自私自利的；自我中心的；利已主义的
+      - `egoistical`
+        - 自私自利的；自我中心的；利已主义的
     - n.
-      - `ego` 自我；自负；自我意识
-      - `egoism` 利己主义，自我主义
-      - `egoist` 自我主义者；利己主义者
+      - `ego`
+        - 自我；自负；自我意识
+      - `egoism`
+        - 利己主义，自我主义
+      - `egoist`
+        - 自我主义者；利己主义者
   - 近义词
-    - adj. 自私自利的，自我中心的
-      - `self-centred`
+    - adj.
+      - 自私自利的，自我中心的
+        - `self-centred`
   - 例句
     - `They are busy carrying food, but the ant colony and egoistic.`
       - 它们忙着搬食物，但蚁群里也有自私自利的家伙。

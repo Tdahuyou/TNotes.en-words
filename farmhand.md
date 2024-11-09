@@ -1,13 +1,17 @@
 - farmhand
   - 发音
-    - 英 `/'fɑːmhænd/`
-    - 美 `/'fɑrmhænd/`
+    - 英
+      - `/'fɑːmhænd/`
+    - 美
+      - `/'fɑrmhænd/`
   - 词义
-    - n. 农业工人，农场工人
-    - `someone who works on a farm`
+    - n.
+      - 农业工人，农场工人
+        - `someone who works on a farm`
   - 近义词
-    - n. [农经]农场工人
-      - `field hand`
+    - n.
+      - [农经]农场工人
+        - `field hand`
   - 例句
     - `She looks better than a farmhand really should.`
       - 她比一个实际的农场工人好看多了。

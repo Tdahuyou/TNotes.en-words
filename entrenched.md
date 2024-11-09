@@ -1,17 +1,22 @@
 - entrenched
   - 发音
-    - 英 `/ɪn'tren(t)ʃt; en-/`
-    - 美 `/undefined/`
+    - 英
+      - `/ɪn'tren(t)ʃt; en-/`
+    - 美
+      - `/undefined/`
   - 词义
-    - adj. 根深蒂固的
-    - `strongly established and not likely to change — often used to show disapproval`
+    - adj.
+      - 根深蒂固的
+        - `strongly established and not likely to change — often used to show disapproval`
   - 近义词
-    - adj. 根深蒂固的；确立的，不容易改的
-      - `rooted`
-      - `inrooted`
-    - v. 确立；保证；挖掘壕沟（entrench的过去分词）
-      - `engaged`
-      - `assured`
+    - adj.
+      - 根深蒂固的；确立的，不容易改的
+        - `rooted`
+        - `inrooted`
+    - v.
+      - 确立；保证；挖掘壕沟（entrench的过去分词）
+        - `engaged`
+        - `assured`
   - 例句
     - `Mayer, for example, notes that women have more opportunities in Silicon Valley because there’s no entrenched hierarchy there.`
       - 例如，迈尔解释说，在硅谷女人拥有更多的机会，因为那里没有根深蒂固的官僚结构。

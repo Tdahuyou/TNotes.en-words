@@ -1,38 +1,53 @@
 - crazy
   - 发音
-    - 英 `/'kreɪzɪ/`
-    - 美 `/'krezi/`
+    - 英
+      - `/'kreɪzɪ/`
+    - 美
+      - `/'krezi/`
   - 词义
-    - adj. 发疯的；荒唐的
-    - `very strange or not sensible`
+    - adj.
+      - 发疯的；荒唐的
+        - `very strange or not sensible`
   - 记忆
     - 电影Crazy Stone 《疯狂的石头》
   - 同根词
     - adj.
-      - `crazed` 疯狂的；癫狂的
+      - `crazed`
+        - 疯狂的；癫狂的
     - adv.
-      - `crazily` 发狂地；狂热地
+      - `crazily`
+        - 发狂地；狂热地
     - n.
-      - `craze` 狂热
-      - `craziness` 愚蠢；狂热；摇摇晃晃
+      - `craze`
+        - 狂热
+      - `craziness`
+        - 愚蠢；狂热；摇摇晃晃
     - v.
-      - `crazed` 使发狂（craze的过去式）
+      - `crazed`
+        - 使发狂（craze的过去式）
     - vi.
-      - `craze` 发狂；产生纹裂
+      - `craze`
+        - 发狂；产生纹裂
     - vt.
-      - `craze` 使发狂；使产生纹裂
+      - `craze`
+        - 使发狂；使产生纹裂
   - 近义词
-    - adj. 疯狂的；狂热的，着迷的
-      - `wild`
-      - `possessed`
-      - `mad`
-      - `enthusiastic`
-      - `insane`
+    - adj.
+      - 疯狂的；狂热的，着迷的
+        - `wild`
+        - `possessed`
+        - `mad`
+        - `enthusiastic`
+        - `insane`
   - 短语
-    - `crazy about` 热衷，着迷；狂热的 
-    - `a little crazy` 有点儿疯狂 
-    - `go crazy` 发疯；疯狂 
-    - `be crazy for` v. 渴望；对…疯狂 
+    - `crazy about`
+      - 热衷，着迷；狂热的 
+    - `a little crazy`
+      - 有点儿疯狂 
+    - `go crazy`
+      - 发疯；疯狂 
+    - `be crazy for`
+      - v. 渴望；对…疯狂 
   - 例句
     - `The neighbours must think we’re crazy.`
       - 邻居一定会认为我们疯了。

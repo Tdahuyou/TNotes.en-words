@@ -1,46 +1,74 @@
 - election
   - 发音
-    - 英 `/ɪ'lekʃ(ə)n/`
-    - 美 `/ɪ'lɛkʃən/`
+    - 英
+      - `/ɪ'lekʃ(ə)n/`
+    - 美
+      - `/ɪ'lɛkʃən/`
   - 词义
-    - n. 选举
-    - `when people vote to choose someone for an official position`
+    - n.
+      - 选举
+        - `when people vote to choose someone for an official position`
   - 同根词
     - adj.
-      - `elect` 选出的；当选的；卓越的
-      - `elective` 选修的；选举的；选任的
-      - `electoral` 选举的；选举人的
-      - `electioneering` 竞选活动的
+      - `elect`
+        - 选出的；当选的；卓越的
+      - `elective`
+        - 选修的；选举的；选任的
+      - `electoral`
+        - 选举的；选举人的
+      - `electioneering`
+        - 竞选活动的
     - n.
-      - `elect` 被选的人；特殊阶层；上帝的选民
-      - `elective` 选修课程
-      - `elector` 选举人；有选举权的人；总统选举人
-      - `electioneer` 从事选举活动；积极竞选的人
-      - `electioneering` 竞选活动
+      - `elect`
+        - 被选的人；特殊阶层；上帝的选民
+      - `elective`
+        - 选修课程
+      - `elector`
+        - 选举人；有选举权的人；总统选举人
+      - `electioneer`
+        - 从事选举活动；积极竞选的人
+      - `electioneering`
+        - 竞选活动
     - v.
-      - `electioneering` 从事选举活动（electioneer的ing形式）
+      - `electioneering`
+        - 从事选举活动（electioneer的ing形式）
     - vi.
-      - `elect` 作出选择；进行选举
-      - `electioneer` 从事选举活动；积极参加竞选
+      - `elect`
+        - 作出选择；进行选举
+      - `electioneer`
+        - 从事选举活动；积极参加竞选
     - vt.
-      - `elect` 选举；选择；推选
-      - `elected` 选举，推选
+      - `elect`
+        - 选举；选择；推选
+      - `elected`
+        - 选举，推选
   - 近义词
-    - n. 选举；当选；选择权；上帝的选拔
-      - `option`
-      - `vote`
-      - `choice`
+    - n.
+      - 选举；当选；选择权；上帝的选拔
+        - `option`
+        - `vote`
+        - `choice`
   - 短语
-    - `presidential election` 总统选举；总统大选 
-    - `general election` 大选，普选 
-    - `election campaign` 竞选运动；选举活动 
-    - `election day` 选举日 
-    - `election committee` 选举委员会 
-    - `primary election` （美）初选；预选 
-    - `by election` 通过选举 
-    - `competitive election` 差额选举 
-    - `special election` 补选 
-    - `snap election` 提前选举；临时选举；仓促的选举 
+    - `presidential election`
+      - 总统选举；总统大选 
+    - `general election`
+      - 大选，普选 
+    - `election campaign`
+      - 竞选运动；选举活动 
+    - `election day`
+      - 选举日 
+    - `election committee`
+      - 选举委员会 
+    - `primary election`
+      - （美）初选；预选 
+    - `by election`
+      - 通过选举 
+    - `competitive election`
+      - 差额选举 
+    - `special election`
+      - 补选 
+    - `snap election`
+      - 提前选举；临时选举；仓促的选举 
   - 例句
     - `The Labour Party won the 2001 election by a huge majority.`
       - 工党在2001年选举中以巨大优势获胜。

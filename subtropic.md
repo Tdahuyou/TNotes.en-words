@@ -1,13 +1,17 @@
 - subtropic
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - adj. 亚热带的,副热带的
+    - adj.
+      - 亚热带的,副热带的
   - 近义词
-    - adj. 亚热带的；副热带的
-      - `sub-tropical`
-      - `semi-tropical`
+    - adj.
+      - 亚热带的；副热带的
+        - `sub-tropical`
+        - `semi-tropical`
   - 例句
     - `The whole area of DingHu mount is in tropic zone, covered with subtropic forests, with unique climate.`
       - 鼎湖山整个地区为热带，亚热带森林所覆盖，气候独特。

@@ -1,10 +1,13 @@
 - Calvinist
   - 发音
-    - 英 `/undefined/`
-    - 美 `/'kælvinist/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/'kælvinist/`
   - 词义
-    - n. 加尔文教徒(见Calvin)
-    - `A Calvinist is a member of the Calvinist church`
+    - n.
+      - 加尔文教徒(见Calvin)
+        - `A Calvinist is a member of the Calvinist church`
   - 例句
     - `Calvinist Christianity has a culture of phenomenal industry.`
       - 基督教加尔文主义拥有瞩目的产业文化。

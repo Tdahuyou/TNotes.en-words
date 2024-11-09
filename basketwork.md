@@ -1,13 +1,17 @@
 - basketwork
   - 发音
-    - 英 `/'bɑːskɪtwɜːk/`
-    - 美 `/'bæskɪtwɝk/`
+    - 英
+      - `/'bɑːskɪtwɜːk/`
+    - 美
+      - `/'bæskɪtwɝk/`
   - 词义
-    - n. 编织物
+    - n.
+      - 编织物
   - 近义词
-    - n. 编织物
-      - `braided fabric`
-      - `fabric tape`
+    - n.
+      - 编织物
+        - `braided fabric`
+        - `fabric tape`
   - 例句
     - `On the metope of smooth simple but elegant, also can hang buy to wait for the basketwork of material make it with bavin, careless, reed, palm, hemp.`
       - 在光滑素雅的墙面上，也可挂置用柴、草、苇、棕、麻等材料做成的编织物。

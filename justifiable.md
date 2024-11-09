@@ -1,36 +1,53 @@
 - justifiable
   - 发音
-    - 英 `/'dʒʌstifaiəbl/`
-    - 美 `/'dʒʌstɪfaɪəbl/`
+    - 英
+      - `/'dʒʌstifaiəbl/`
+    - 美
+      - `/'dʒʌstɪfaɪəbl/`
   - 词义
-    - adj. 有理由的；可辩护的
-    - `actions, reactions, decisions etc that are justifiable are acceptable because they are done for good reasons`
+    - adj.
+      - 有理由的；可辩护的
+        - `actions, reactions, decisions etc that are justifiable are acceptable because they are done for good reasons`
   - 记忆
     - just (正义) + ifi + able (能…的) → 正义肯定是有理的 → 有理由的
   - 同根词
     - adj.
-      - `just` 公正的，合理的；正直的，正义的；正确的；公平的；应得的
-      - `justified` 有正当理由的；合乎情理的；事出有因的
-      - `justificative` 认为正当的；起辩护作用的
-      - `justificatory` 辩护的；认为正当的
+      - `just`
+        - 公正的，合理的；正直的，正义的；正确的；公平的；应得的
+      - `justified`
+        - 有正当理由的；合乎情理的；事出有因的
+      - `justificative`
+        - 认为正当的；起辩护作用的
+      - `justificatory`
+        - 辩护的；认为正当的
     - adv.
-      - `just` 只是，仅仅；刚才，刚刚；正好，恰好；实在；刚要
-      - `justifiably` 无可非议地；言之有理地
-      - `justly` 公正地；正当地；恰当地；正直地
+      - `just`
+        - 只是，仅仅；刚才，刚刚；正好，恰好；实在；刚要
+      - `justifiably`
+        - 无可非议地；言之有理地
+      - `justly`
+        - 公正地；正当地；恰当地；正直地
     - n.
-      - `justification` 理由；辩护；认为有理，认为正当；释罪
-      - `justifier` 辩护者；辩解者；证明者；整版工人
-      - `justness` 公正；正确，精确
+      - `justification`
+        - 理由；辩护；认为有理，认为正当；释罪
+      - `justifier`
+        - 辩护者；辩解者；证明者；整版工人
+      - `justness`
+        - 公正；正确，精确
     - v.
-      - `justified` 调整（justify的过去分词）；证明…正当
+      - `justified`
+        - 调整（justify的过去分词）；证明…正当
     - vi.
-      - `justify` 证明合法；整理版面
+      - `justify`
+        - 证明合法；整理版面
     - vt.
-      - `justify` 证明…是正当的；替…辩护
+      - `justify`
+        - 证明…是正当的；替…辩护
   - 近义词
-    - adj. 可辩解的，有道理的；可证明为正当的
-      - `explainable`
-      - `excusable`
+    - adj.
+      - 可辩解的，有道理的；可证明为正当的
+        - `explainable`
+        - `excusable`
   - 例句
     - `justifiable anger`
       - 情有可原的愤怒

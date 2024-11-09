@@ -1,34 +1,50 @@
 - globe
   - 发音
-    - 英 `/gləʊb/`
-    - 美 `/ɡlob/`
+    - 英
+      - `/gləʊb/`
+    - 美
+      - `/ɡlob/`
   - 词义
-    - n. 球体,地球仪
-    - `a round object with a map of the Earth drawn on it`
+    - n.
+      - 球体,地球仪
+        - `a round object with a map of the Earth drawn on it`
   - 同根词
     - adj.
-      - `global` 全球的；总体的；球形的
+      - `global`
+        - 全球的；总体的；球形的
     - adv.
-      - `globally` 全球的；全局地；世界上
+      - `globally`
+        - 全球的；全局地；世界上
     - n.
-      - `globalization` 全球化
-      - `globosity` 球形，球状
+      - `globalization`
+        - 全球化
+      - `globosity`
+        - 球形，球状
     - vt.
-      - `globalize` 使全球化
+      - `globalize`
+        - 使全球化
   - 近义词
-    - n. [天]地球；地球仪；球体
-      - `this earthly round`
-      - `terra`
-    - vt. 使…成球形
-      - `sphere`
-    - vi. 成球状
-      - `conglobate`
+    - n.
+      - [天]地球；地球仪；球体
+        - `this earthly round`
+        - `terra`
+    - vt.
+      - 使…成球形
+        - `sphere`
+    - vi.
+      - 成球状
+        - `conglobate`
   - 短语
-    - `around the globe` 全球；世界各地；整个世界 
-    - `globe valve` 截止阀；球心阀 
-    - `boston globe` 波士顿环球报 
-    - `globe and mail` 环球邮报 
-    - `terrestrial globe` n. 地球；地球仪 
+    - `around the globe`
+      - 全球；世界各地；整个世界 
+    - `globe valve`
+      - 截止阀；球心阀 
+    - `boston globe`
+      - 波士顿环球报 
+    - `globe and mail`
+      - 环球邮报 
+    - `terrestrial globe`
+      - n. 地球；地球仪 
   - 例句
     - `We export our goods all over the globe.`
       - 我们的商品出口到世界各地。

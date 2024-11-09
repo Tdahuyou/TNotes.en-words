@@ -1,10 +1,13 @@
 - rewind
   - 发音
-    - 英 `/riː'waɪnd/`
-    - 美 `/,ri'waɪnd/`
+    - 英
+      - `/riː'waɪnd/`
+    - 美
+      - `/,ri'waɪnd/`
   - 词义
-    - v. 重绕，倒回
-    - `to make a  cassette  tape or  video  go backwards in order to see or hear it again`
+    - v.
+      - 重绕，倒回
+        - `to make a  cassette  tape or  video  go backwards in order to see or hear it again`
   - 记忆
     - re(重新)+wind(缠绕)→重绕
   - 例句

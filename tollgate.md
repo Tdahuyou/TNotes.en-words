@@ -1,20 +1,30 @@
 - tollgate
   - 发音
-    - 英 `/'təʊlɡeɪt/`
-    - 美 `/'təulɡeit, 'tɔl-/`
+    - 英
+      - `/'təʊlɡeɪt/`
+    - 美
+      - `/'təulɡeit, 'tɔl-/`
   - 词义
-    - n. 征收通行税的关卡,关门
+    - n.
+      - 征收通行税的关卡,关门
   - 同根词
     - n.
-      - `toll` 通行费；代价；钟声
-      - `toller` 鸣钟人；征收通行税的人；钟
-      - `tollhouse` 通行税征收处
-      - `tollkeeper` 通行税征收人
+      - `toll`
+        - 通行费；代价；钟声
+      - `toller`
+        - 鸣钟人；征收通行税的人；钟
+      - `tollhouse`
+        - 通行税征收处
+      - `tollkeeper`
+        - 通行税征收人
     - vi.
-      - `toll` 鸣钟；征税
+      - `toll`
+        - 鸣钟；征税
     - vt.
-      - `toll` 征收；敲钟
+      - `toll`
+        - 征收；敲钟
   - 近义词
-    - n. 关卡；征收通行税的关卡
-      - `checkpoint`
-      - `road-block`
+    - n.
+      - 关卡；征收通行税的关卡
+        - `checkpoint`
+        - `road-block`

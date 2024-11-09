@@ -1,9 +1,12 @@
 - hydroxyapatite
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. [矿]羟磷灰石
+    - n.
+      - [矿]羟磷灰石
   - 例句
     - `Manufacturing the screws out of the hydroxyapatite composite also simplifies production.`
       - 制造羟基磷灰石复合螺钉可以简化生产。

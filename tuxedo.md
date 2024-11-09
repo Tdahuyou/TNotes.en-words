@@ -1,11 +1,15 @@
 - tuxedo
   - 发音
-    - 英 `/tʌk'siːdəʊ/`
-    - 美 `/tʌk'sido/`
+    - 英
+      - `/tʌk'siːdəʊ/`
+    - 美
+      - `/tʌk'sido/`
   - 词义
-    - n. 男士无尾半正式晚礼服
-    - `a man’s  jacket  that is usually black, worn on formal occasions`
+    - n.
+      - 男士无尾半正式晚礼服
+        - `a man’s  jacket  that is usually black, worn on formal occasions`
   - 近义词
-    - n. 男士无尾半正式晚礼服；无尾礼服
-      - `tux`
-      - `dinner jacket`
+    - n.
+      - 男士无尾半正式晚礼服；无尾礼服
+        - `tux`
+        - `dinner jacket`

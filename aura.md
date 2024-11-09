@@ -1,22 +1,28 @@
 - aura
   - 发音
-    - 英 `/'ɔːrə/`
-    - 美 `/'ɔrə/`
+    - 英
+      - `/'ɔːrə/`
+    - 美
+      - `/'ɔrə/`
   - 词义
-    - n. 光环；气氛；（中风等的）预兆；气味
-    - `a quality or feeling that seems to surround or come from a person or a place`
+    - n.
+      - 光环；气氛；（中风等的）预兆；气味
+        - `a quality or feeling that seems to surround or come from a person or a place`
   - 同根词
     - adj.
-      - `aural` 听觉的；耳的；气味的；先兆的
+      - `aural`
+        - 听觉的；耳的；气味的；先兆的
   - 近义词
-    - n. 光环；气氛；（中风等的）预兆；气味
-      - `atmosphere`
-      - `mood`
-      - `warning`
-      - `smell`
-      - `wind`
+    - n.
+      - 光环；气氛；（中风等的）预兆；气味
+        - `atmosphere`
+        - `mood`
+        - `warning`
+        - `smell`
+        - `wind`
   - 短语
-    - `devotion aura` 虔诚光环；专注光环；热血灵光 
+    - `devotion aura`
+      - 虔诚光环；专注光环；热血灵光 
   - 例句
     - `She had an aura of authority.`
       - 她有一种权威气质。

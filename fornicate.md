@@ -1,16 +1,23 @@
 - fornicate
   - 发音
-    - 英 `/'fɔːnɪkeɪt/`
-    - 美 `/'fɔrnɪket/`
+    - 英
+      - `/'fɔːnɪkeɪt/`
+    - 美
+      - `/'fɔrnɪket/`
   - 词义
-    - v. 与…通奸
-    - `a word meaning to have sex with someone who you are not married to - used to show strong disapproval`
-    - adj. 弓形的；拱状的
+    - v.
+      - 与…通奸
+        - `a word meaning to have sex with someone who you are not married to - used to show strong disapproval`
+    - adj.
+      - 弓形的；拱状的
   - 同根词
     - n.
-      - `fornication` 通奸；乱伦
-      - `fornicator` 私通者
+      - `fornication`
+        - 通奸；乱伦
+      - `fornicator`
+        - 私通者
   - 近义词
-    - adj. 弓形的；拱状的
-      - `arcuate`
-      - `arciform`
+    - adj.
+      - 弓形的；拱状的
+        - `arcuate`
+        - `arciform`

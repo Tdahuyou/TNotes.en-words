@@ -1,16 +1,21 @@
 - demographer
   - 发音
-    - 英 `/diː'mɒɡrəfə/`
-    - 美 `/dɪ'mɑgrəfɚ/`
+    - 英
+      - `/diː'mɒɡrəfə/`
+    - 美
+      - `/dɪ'mɑgrəfɚ/`
   - 词义
-    - n. [统计]人口统计学家，人口学家
+    - n.
+      - [统计]人口统计学家，人口学家
   - 记忆
     - demo(人民) + graph(写) + er → 人口统计学家
   - 同根词
     - adj.
-      - `demographic` 人口统计学的；人口学的
+      - `demographic`
+        - 人口统计学的；人口学的
     - n.
-      - `demography` 人口统计学
+      - `demography`
+        - 人口统计学
   - 例句
     - `Male preference in South Korea “is over,” says Monica Das Gupta, a demographer and Asia expert at the World Bank.`
       - 莫妮卡，是人口统计学家，也是世界银行的亚洲专家，她说南韩偏爱男性的时代“结束了”。

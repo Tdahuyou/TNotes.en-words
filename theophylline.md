@@ -1,13 +1,17 @@
 - theophylline
   - 发音
-    - 英 `/θɪə'fɪliːn; -lɪn/`
-    - 美 `/undefined/`
+    - 英
+      - `/θɪə'fɪliːn; -lɪn/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. [有化]茶碱
-    - `a white crystalline slightly water-soluble alkaloid that is an isomer of theobromine: it occurs in plants, such as tea, and is used to treat asthma`
+    - n.
+      - [有化]茶碱
+        - `a white crystalline slightly water-soluble alkaloid that is an isomer of theobromine: it occurs in plants, such as tea, and is used to treat asthma`
   - 近义词
-    - n. [有化]茶碱
-      - `thein`
+    - n.
+      - [有化]茶碱
+        - `thein`
   - 例句
     - `If you take theophylline, your doctor may advise you to avoid caffeine.`
       - 如果你在服用茶碱类药物，你的医生也可能会建议你远离咖啡因。

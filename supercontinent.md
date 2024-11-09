@@ -1,10 +1,13 @@
 - supercontinent
   - 发音
-    - 英 `/'suːpəkɒntɪnənt; 'sjuː-/`
-    - 美 `/'supɚkɑntɪnənt/`
+    - 英
+      - `/'suːpəkɒntɪnənt; 'sjuː-/`
+    - 美
+      - `/'supɚkɑntɪnənt/`
   - 词义
-    - n. [地]超大陆
-    - `a great landmass thought to have existed in the geological past and to have split into smaller landmasses, which drifted and formed the present continents `
+    - n.
+      - [地]超大陆
+        - `a great landmass thought to have existed in the geological past and to have split into smaller landmasses, which drifted and formed the present continents `
   - 例句
     - `The very first supercontinent was called Vaalbara and it started forming more than 3.6 billion years ago.`
       - 真正意义上的第一个超大陆名叫瓦尔巴拉，它从36亿年前就开始形成了。

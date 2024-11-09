@@ -1,9 +1,12 @@
 - endotherms
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 温血动物,恒温动物
+    - n.
+      - 温血动物,恒温动物
   - 例句
     - `For instance, humans are endotherms and maintain an internal temperature of 37℃, no matter whether the environment is warm or cold.`
       - 比如，人是恒温动物，无论环境温度是怎样，体温都维持在37℃。

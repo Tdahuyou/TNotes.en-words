@@ -1,17 +1,23 @@
 - soliloquy
   - 发音
-    - 英 `/sə'liləkwi/`
-    - 美 `/sə'lɪləkwi/`
+    - 英
+      - `/sə'liləkwi/`
+    - 美
+      - `/sə'lɪləkwi/`
   - 词义
-    - n. 自言自语；独白
-    - `a speech in a play in which a character, usually alone on the stage, talks to himself or herself so that the  audience  knows their thoughts`
+    - n.
+      - 自言自语；独白
+        - `a speech in a play in which a character, usually alone on the stage, talks to himself or herself so that the  audience  knows their thoughts`
   - 记忆
     - sol (单独) + i + loqu (说) + y → 单独说 → 自言自语
   - 同根词
     - vi.
-      - `soliloquize` 自言自语；独白
+      - `soliloquize`
+        - 自言自语；独白
     - vt.
-      - `soliloquize` 自言自语地说
+      - `soliloquize`
+        - 自言自语地说
   - 近义词
-    - n. 独白；自言自语
-      - `monologue`
+    - n.
+      - 独白；自言自语
+        - `monologue`

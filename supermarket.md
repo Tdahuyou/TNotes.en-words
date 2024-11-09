@@ -1,10 +1,13 @@
 - supermarket
   - 发音
-    - 英 `/'suːpəmɑːkɪt; 'sjuː-/`
-    - 美 `/'sʊpɚ'mɑrkɪt/`
+    - 英
+      - `/'suːpəmɑːkɪt; 'sjuː-/`
+    - 美
+      - `/'sʊpɚ'mɑrkɪt/`
   - 词义
-    - n. 超市
-    - `a very large shop that sells food, drinks, and things that people need regularly in their homes`
+    - n.
+      - 超市
+        - `a very large shop that sells food, drinks, and things that people need regularly in their homes`
   - 记忆
     - super(超级)+market(市场)→超市
   - 例句

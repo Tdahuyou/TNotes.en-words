@@ -1,9 +1,12 @@
 - anthocyanin
   - 发音
-    - 英 `/,ænθə(ʊ)'saɪənɪn/`
-    - 美 `/,ænθə'saɪənɪn/`
+    - 英
+      - `/,ænθə(ʊ)'saɪənɪn/`
+    - 美
+      - `/,ænθə'saɪənɪn/`
   - 词义
-    - n. [植]花青素,[化]花色醣苔
+    - n.
+      - [植]花青素,[化]花色醣苔
   - 例句
     - `Smith says that some species, most famously maples, produce anthocyanin during autumn as a kind of antioxidant for trees.`
       - 史密斯说，一些物种，例如最有名的枫树，在秋天会产生的一种抗氧化剂的花青素。

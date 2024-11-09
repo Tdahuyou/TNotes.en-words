@@ -1,18 +1,23 @@
 - believable
   - 发音
-    - 英 `/bɪ'liːvəbl/`
-    - 美 `/bi'li:vəbl/`
+    - 英
+      - `/bɪ'liːvəbl/`
+    - 美
+      - `/bi'li:vəbl/`
   - 词义
-    - adj. 可信的
-    - `something that is believable can be believed because it seems possible, likely, or real`
+    - adj.
+      - 可信的
+        - `something that is believable can be believed because it seems possible, likely, or real`
   - 同根词
     - n.
-      - `believability` 可信度
+      - `believability`
+        - 可信度
   - 近义词
-    - adj. 可信的
-      - `trusted`
-      - `credible`
-      - `authentic`
+    - adj.
+      - 可信的
+        - `trusted`
+        - `credible`
+        - `authentic`
   - 例句
     - `a story with believable characters in it`
       - 人物真实可信的故事

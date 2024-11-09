@@ -1,22 +1,29 @@
 - niggard
   - 发音
-    - 英 `/'nɪgəd/`
-    - 美 `/'nɪgɚd/`
+    - 英
+      - `/'nɪgəd/`
+    - 美
+      - `/'nɪgɚd/`
   - 词义
-    - n. 小气鬼
+    - n.
+      - 小气鬼
   - 同根词
     - adj.
-      - `niggardly` 小气的；很少量的
+      - `niggardly`
+        - 小气的；很少量的
     - adv.
-      - `niggardly` 小气地；很少量地
+      - `niggardly`
+        - 小气地；很少量地
   - 近义词
-    - adj. 小气的；吝啬的
-      - `cheap`
-      - `tight`
-      - `closefisted`
-    - n. 吝啬鬼
-      - `screw`
-      - `tightwad`
+    - adj.
+      - 小气的；吝啬的
+        - `cheap`
+        - `tight`
+        - `closefisted`
+    - n.
+      - 吝啬鬼
+        - `screw`
+        - `tightwad`
   - 例句
     - `God is too niggard to give a person all benefits , he may give you good looks instead of wisdom , money instead of health , talent instead of opportunities ….`
       - 上帝太小气不会给一个人所有的好处，他给你外表就不给你睿智，给你钱财就不给你健康，给你天资就不给你机会…

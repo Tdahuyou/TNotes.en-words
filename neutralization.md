@@ -1,33 +1,51 @@
 - neutralization
   - 发音
-    - 英 `/ˌnjuːtrəlai'zeiʃən/`
-    - 美 `/ˌnjutrələˈzeʃən/`
+    - 英
+      - `/ˌnjuːtrəlai'zeiʃən/`
+    - 美
+      - `/ˌnjutrələˈzeʃən/`
   - 词义
-    - n. 中和
+    - n.
+      - 中和
   - 同根词
     - adj.
-      - `neutral` 中立的，中性的；中立国的；非彩色的
-      - `neutralized` 中立化的
+      - `neutral`
+        - 中立的，中性的；中立国的；非彩色的
+      - `neutralized`
+        - 中立化的
     - n.
-      - `neutral` 中立国；中立者；非彩色；齿轮的空档
-      - `neutrality` 中立；中性；中立立场
-      - `neutralisation` 中和；中立状态
-      - `neutralism` 中立；中立主义
-      - `neutralist` 中立主义者
+      - `neutral`
+        - 中立国；中立者；非彩色；齿轮的空档
+      - `neutrality`
+        - 中立；中性；中立立场
+      - `neutralisation`
+        - 中和；中立状态
+      - `neutralism`
+        - 中立；中立主义
+      - `neutralist`
+        - 中立主义者
     - v.
-      - `neutralized` 中立化（neutralize的过去式和过去分词）
+      - `neutralized`
+        - 中立化（neutralize的过去式和过去分词）
     - vi.
-      - `neutralize` 中和；中立化；变无效
-      - `neutralise` 中和
+      - `neutralize`
+        - 中和；中立化；变无效
+      - `neutralise`
+        - 中和
     - vt.
-      - `neutralize` 抵销；使…中和；使…无效；使…中立
-      - `neutralise` 中和；使中立；使无效
+      - `neutralize`
+        - 抵销；使…中和；使…无效；使…中立
+      - `neutralise`
+        - 中和；使中立；使无效
   - 近义词
-    - n. [化学]中和；中和作用；中立状态
-      - `counteraction`
+    - n.
+      - [化学]中和；中和作用；中立状态
+        - `counteraction`
   - 短语
-    - `neutralization reaction` 中和反应 
-    - `neutralization test` 中和试验，中和值测定；中和作用 
+    - `neutralization reaction`
+      - 中和反应 
+    - `neutralization test`
+      - 中和试验，中和值测定；中和作用 
   - 例句
     - `The preparation process consists of pretreatment , acid hydrolysis, neutralization , decoloration and concentration.`
       - 其制备工艺包括原料的预处理、酸水解、中和、脱色和浓缩。

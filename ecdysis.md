@@ -1,14 +1,18 @@
 - ecdysis
   - 发音
-    - 英 `/'ekdɪsɪs; ek'daɪsɪs/`
-    - 美 `/'ɛkdɪsɪs/`
+    - 英
+      - `/'ekdɪsɪs; ek'daɪsɪs/`
+    - 美
+      - `/'ɛkdɪsɪs/`
   - 词义
-    - n. [动]蜕皮,蜕化
-    - `the periodic shedding of the cuticle in insects and other arthropods or the outer epidermal layer in reptiles `
+    - n.
+      - [动]蜕皮,蜕化
+        - `the periodic shedding of the cuticle in insects and other arthropods or the outer epidermal layer in reptiles `
   - 近义词
-    - n. 换羽毛；（蛇等的）[动][昆]蜕皮
-      - `deplumation`
-      - `exuviae`
+    - n.
+      - 换羽毛；（蛇等的）[动][昆]蜕皮
+        - `deplumation`
+        - `exuviae`
   - 例句
     - `The process of toads ecdysis was reported, and the significance of environmental protection and the commercialization of bufonic was discussed.`
       - 报道了中华大蟾蜍自然蜕皮（蟾蜍衣）的过程，并讨论了蟾蜍衣商品化的经济意义和环保意义。

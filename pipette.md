@@ -1,13 +1,17 @@
 - pipette
   - 发音
-    - 英 `/pi'pet/`
-    - 美 `/paɪ'pɛt/`
+    - 英
+      - `/pi'pet/`
+    - 美
+      - `/paɪ'pɛt/`
   - 词义
-    - n. 吸液管
-    - `a thin glass tube for sucking up exact amounts of liquid, used especially in chemistry`
+    - n.
+      - 吸液管
+        - `a thin glass tube for sucking up exact amounts of liquid, used especially in chemistry`
   - 近义词
-    - n. 移液管；吸移管
-      - `piette`
+    - n.
+      - 移液管；吸移管
+        - `piette`
   - 例句
     - `The excess could be siphoned off or removed with a pipette .`
       - 过剩样品可以虹吸出或者用移液管将其除去。

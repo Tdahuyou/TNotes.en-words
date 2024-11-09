@@ -1,18 +1,27 @@
 - ethically
   - 发音
-    - 英 `/'eθikli/`
-    - 美 `/'ɛθɪkli/`
+    - 英
+      - `/'eθikli/`
+    - 美
+      - `/'ɛθɪkli/`
   - 词义
-    - adv. 伦理(学)上
+    - adv.
+      - 伦理(学)上
   - 同根词
     - adj.
-      - `ethical` 伦理的；道德的；凭处方出售的
-      - `ethic` 伦理的；道德的（等于ethical）
+      - `ethical`
+        - 伦理的；道德的；凭处方出售的
+      - `ethic`
+        - 伦理的；道德的（等于ethical）
     - n.
-      - `ethical` 处方药
-      - `ethic` 伦理；道德规范
-      - `ethics` 伦理学；伦理观；道德标准
-      - `ethicist` 伦理学家
+      - `ethical`
+        - 处方药
+      - `ethic`
+        - 伦理；道德规范
+      - `ethics`
+        - 伦理学；伦理观；道德标准
+      - `ethicist`
+        - 伦理学家
   - 例句
     - `What is technically possible and what is ethically appropriate is a matter of heated debate.`
       - 什么在技术上是可行的与什么在伦理上是适当的，这是一个激烈辩论的问题。

@@ -1,22 +1,30 @@
 - injure
   - 发音
-    - 英 `/'ɪndʒə/`
-    - 美 `/'ɪndʒɚ/`
+    - 英
+      - `/'ɪndʒə/`
+    - 美
+      - `/'ɪndʒɚ/`
   - 词义
-    - v. 伤害，损害
-    - `to say unfair or unpleasant things that hurt someone’s pride, feelings etc`
+    - v.
+      - 伤害，损害
+        - `to say unfair or unpleasant things that hurt someone’s pride, feelings etc`
   - 同根词
     - adj.
-      - `injured` 受伤的；受损害的
-      - `injurious` 有害的；诽谤的
+      - `injured`
+        - 受伤的；受损害的
+      - `injurious`
+        - 有害的；诽谤的
     - adv.
-      - `injuriously` 有害地；伤害地
+      - `injuriously`
+        - 有害地；伤害地
     - n.
-      - `injury` 伤害，损害；受伤处
+      - `injury`
+        - 伤害，损害；受伤处
   - 近义词
-    - vt. 伤害，损害
-      - `hurt`
-      - `knife`
+    - vt.
+      - 伤害，损害
+        - `hurt`
+        - `knife`
   - 例句
     - `A number of bombs have exploded, seriously injuring at least five people.`
       - 一些炸弹爆炸了，至少5人严重受伤。

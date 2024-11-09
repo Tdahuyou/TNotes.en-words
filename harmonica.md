@@ -1,10 +1,13 @@
 - harmonica
   - 发音
-    - 英 `/hɑː'mɒnɪkə/`
-    - 美 `/hɑr'mɑnɪkə/`
+    - 英
+      - `/hɑː'mɒnɪkə/`
+    - 美
+      - `/hɑr'mɑnɪkə/`
   - 词义
-    - n. 口琴（等于mouthorgan）
-    - `a small musical instrument that you play by blowing or sucking and moving it from side to side near your mouth`
+    - n.
+      - 口琴（等于mouthorgan）
+        - `a small musical instrument that you play by blowing or sucking and moving it from side to side near your mouth`
   - 例句
     - `Usually Gus would bring his harmonica and, after talking for a little while, they’d play a few songs together.`
       - 通常盖斯会带着他的口琴，在聊了一会儿以后，他们会一起演奏几首歌。

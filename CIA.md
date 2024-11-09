@@ -1,9 +1,11 @@
 - CIA
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - `The CIA is the government organization in the United States that collects secret information about other countries`
+        - `The CIA is the government organization in the United States that collects secret information about other countries`
   - 例句
     - `He was seconded to CIA.`
       - 他被临时调到中央情报局工作去了。

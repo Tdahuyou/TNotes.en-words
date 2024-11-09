@@ -1,14 +1,19 @@
 - isotopic
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - adj. 同位素的,合痕的
+    - adj.
+      - 同位素的,合痕的
   - 同根词
     - n.
-      - `isotope` 同位素
+      - `isotope`
+        - 同位素
   - 短语
-    - `isotopic tracer` 示踪同位素；同位素指示剂；示踪物 
+    - `isotopic tracer`
+      - 示踪同位素；同位素指示剂；示踪物 
   - 例句
     - `The variations in isotopic ratios take place on the right time scale, and they mirror those seen in modern corals, he notes.`
       - 他说，同位素比例变化所发生的时间范围恰到好处，这与在现代珊瑚中的发现保持了一致。

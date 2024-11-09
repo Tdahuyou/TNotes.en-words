@@ -1,14 +1,18 @@
 - bungalow
   - 发音
-    - 英 `/'bʌŋgələʊ/`
-    - 美 `/ˈbʌŋɡəˌlo/`
+    - 英
+      - `/'bʌŋgələʊ/`
+    - 美
+      - `/ˈbʌŋɡəˌlo/`
   - 词义
-    - n. 平房；小屋
-    - `a house that is all on ground level`
+    - n.
+      - 平房；小屋
+        - `a house that is all on ground level`
   - 近义词
-    - n. [建]平房；小屋
-      - `shed`
-      - `cottage`
+    - n.
+      - [建]平房；小屋
+        - `shed`
+        - `cottage`
   - 例句
     - `A bungalow is a small house with one or two bedrooms and usually one bathroom.`
       - 平房是小房子,有一个或两个卧室,通常有一个浴室。

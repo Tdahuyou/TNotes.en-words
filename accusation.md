@@ -1,35 +1,53 @@
 - accusation
   - 发音
-    - 英 `/ækjʊ'zeɪʃ(ə)n/`
-    - 美 `/,ækju'zeʃən/`
+    - 英
+      - `/ækjʊ'zeɪʃ(ə)n/`
+    - 美
+      - `/,ækju'zeʃən/`
   - 词义
-    - n. 谴责,[律]指控
-    - `a statement saying that someone is guilty of a crime or of doing something wrong`
+    - n.
+      - 谴责,[律]指控
+        - `a statement saying that someone is guilty of a crime or of doing something wrong`
   - 同根词
     - adj.
-      - `accused` 被控告的
-      - `accusatory` 非难的，指责的；控诉的，控告的
-      - `accusing` 指责的；非难的；归咎的
-      - `accusative` 宾格的
-      - `accusatorial` 责问的；控告者的
+      - `accused`
+        - 被控告的
+      - `accusatory`
+        - 非难的，指责的；控诉的，控告的
+      - `accusing`
+        - 指责的；非难的；归咎的
+      - `accusative`
+        - 宾格的
+      - `accusatorial`
+        - 责问的；控告者的
     - adv.
-      - `accusingly` 责难地；以谴责的态度
+      - `accusingly`
+        - 责难地；以谴责的态度
     - n.
-      - `accused` 被告
-      - `accuser` 原告；控告者；指责者
-      - `accusative` 宾格
-      - `accusal` 谴责；控告；罪名（等于accusation）
+      - `accused`
+        - 被告
+      - `accuser`
+        - 原告；控告者；指责者
+      - `accusative`
+        - 宾格
+      - `accusal`
+        - 谴责；控告；罪名（等于accusation）
     - v.
-      - `accused` 指责；控告（accuse的过去式）
-      - `accusing` 指责；指控（accuse的ing形式）
+      - `accused`
+        - 指责；控告（accuse的过去式）
+      - `accusing`
+        - 指责；指控（accuse的ing形式）
     - vi.
-      - `accuse` 指责；控告
+      - `accuse`
+        - 指责；控告
     - vt.
-      - `accuse` 控告，指控；谴责；归咎于
+      - `accuse`
+        - 控告，指控；谴责；归咎于
   - 近义词
-    - n. [法]控告，指控；谴责
-      - `charge`
-      - `incrimination`
+    - n.
+      - [法]控告，指控；谴责
+        - `charge`
+        - `incrimination`
   - 例句
     - `The main accusation levelled against him was that he tried to avoid military service.`
       - 对他提出的主要指控是他想逃避兵役。

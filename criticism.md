@@ -1,37 +1,57 @@
 - criticism
   - 发音
-    - 英 `/'krɪtɪsɪz(ə)m/`
-    - 美 `/'krɪtə'sɪzəm/`
+    - 英
+      - `/'krɪtɪsɪz(ə)m/`
+    - 美
+      - `/'krɪtə'sɪzəm/`
   - 词义
-    - n. 批评,批判
-    - `remarks that say what you think is bad about someone or something`
+    - n.
+      - 批评,批判
+        - `remarks that say what you think is bad about someone or something`
   - 同根词
     - adj.
-      - `critical` 鉴定的；[核] 临界的；批评的，爱挑剔的；危险的；决定性的；评论的
+      - `critical`
+        - 鉴定的；[核] 临界的；批评的，爱挑剔的；危险的；决定性的；评论的
     - adv.
-      - `critically` 精密地；危急地；批评性地；用钻研眼光地
+      - `critically`
+        - 精密地；危急地；批评性地；用钻研眼光地
     - n.
-      - `critic` 批评家，评论家；爱挑剔的人
-      - `critique` 批评；评论文章
-      - `criticalness` 批判性
+      - `critic`
+        - 批评家，评论家；爱挑剔的人
+      - `critique`
+        - 批评；评论文章
+      - `criticalness`
+        - 批判性
     - vi.
-      - `criticize` 批评；评论；苛求
-      - `criticise` 批评；吹毛求疵；非难
+      - `criticize`
+        - 批评；评论；苛求
+      - `criticise`
+        - 批评；吹毛求疵；非难
     - vt.
-      - `criticize` 批评；评论；非难
-      - `critique` 批判；评论
-      - `criticise` 批评；吹毛求疵；非难
+      - `criticize`
+        - 批评；评论；非难
+      - `critique`
+        - 批判；评论
+      - `criticise`
+        - 批评；吹毛求疵；非难
   - 近义词
-    - n. 批评；考证；苛求
-      - `comment`
-      - `animadversion`
+    - n.
+      - 批评；考证；苛求
+        - `comment`
+        - `animadversion`
   - 短语
-    - `literary criticism` n. 文艺评论 
-    - `textual criticism` 校勘；考订；版本鉴定 
-    - `new criticism` 新批评主义 
-    - `come under heavy criticism` 遭到严厉的批评 
-    - `adverse criticism` 反向批评；逆向评论 
-    - `criticism and praise` 批评和赞扬 
+    - `literary criticism`
+      - n. 文艺评论 
+    - `textual criticism`
+      - 校勘；考订；版本鉴定 
+    - `new criticism`
+      - 新批评主义 
+    - `come under heavy criticism`
+      - 遭到严厉的批评 
+    - `adverse criticism`
+      - 反向批评；逆向评论 
+    - `criticism and praise`
+      - 批评和赞扬 
   - 例句
     - `Despite strong criticism , the new system is still in place.`
       - 尽管遭到了猛烈的批评，新制度依然原封不动。

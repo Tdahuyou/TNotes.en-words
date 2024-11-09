@@ -1,19 +1,24 @@
 - fang
   - 发音
-    - 英 `/fæŋ/`
-    - 美 `/fæŋ/`
+    - 英
+      - `/fæŋ/`
+    - 美
+      - `/fæŋ/`
   - 词义
-    - n. 毒牙
-    - `a long sharp tooth of an animal such as a snake or wild dog`
+    - n.
+      - 毒牙
+        - `a long sharp tooth of an animal such as a snake or wild dog`
   - 记忆
     - 和tang(n. 强烈的气味)一起记
   - 同根词
     - adj.
-      - `fanged` 有牙根的；有毒牙的，有尖牙的
+      - `fanged`
+        - 有牙根的；有毒牙的，有尖牙的
   - 近义词
-    - n. （犬，狼等的）尖牙；[解剖]牙根；（毒蛇的）[脊椎]毒牙；尖端
-      - `point`
-      - `tip`
+    - n.
+      - （犬，狼等的）尖牙；[解剖]牙根；（毒蛇的）[脊椎]毒牙；尖端
+        - `point`
+        - `tip`
   - 例句
     - `The cobra sank its venomous fangs into his hand.`
       - 眼镜蛇将毒牙咬进他的手。

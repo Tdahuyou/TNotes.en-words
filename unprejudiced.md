@@ -1,11 +1,15 @@
 - unprejudiced
   - 发音
-    - 英 `/ʌn'predʒʊdɪst/`
-    - 美 `/ʌn'prɛdʒədɪst/`
+    - 英
+      - `/ʌn'predʒʊdɪst/`
+    - 美
+      - `/ʌn'prɛdʒədɪst/`
   - 词义
-    - adj. 没有成见的；公平的；无偏见的
-    - `not prejudiced or biased; impartial `
+    - adj.
+      - 没有成见的；公平的；无偏见的
+        - `not prejudiced or biased; impartial `
   - 近义词
-    - adj. 没有成见的；公平的；无偏见的
-      - `fair`
-      - `just`
+    - adj.
+      - 没有成见的；公平的；无偏见的
+        - `fair`
+        - `just`

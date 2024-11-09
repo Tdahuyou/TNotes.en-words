@@ -1,14 +1,18 @@
 - anchorite
   - 发音
-    - 英 `/'æŋkəraɪt/`
-    - 美 `/'æŋkəraɪt/`
+    - 英
+      - `/'æŋkəraɪt/`
+    - 美
+      - `/'æŋkəraɪt/`
   - 词义
-    - n. 隐者,隐士
-    - `a person who lives in seclusion, esp a religious recluse; hermit `
+    - n.
+      - 隐者,隐士
+        - `a person who lives in seclusion, esp a religious recluse; hermit `
   - 近义词
-    - n. 隐士
-      - `hermit`
-      - `eremite`
+    - n.
+      - 隐士
+        - `hermit`
+        - `eremite`
   - 例句
     - `Animal and man come unto me, the anchorite.`
       - 动物和人都来找我这个隐士。

@@ -1,13 +1,17 @@
 - sandpiper
   - 发音
-    - 英 `/'sæn(d)paɪpə/`
-    - 美 `/'sændpaɪpɚ/`
+    - 英
+      - `/'sæn(d)paɪpə/`
+    - 美
+      - `/'sændpaɪpɚ/`
   - 词义
-    - n. [鸟]鹬
-    - `a small bird with long legs and a long beak that lives near the shore`
+    - n.
+      - [鸟]鹬
+        - `a small bird with long legs and a long beak that lives near the shore`
   - 近义词
-    - n. [鸟]鹬
-      - `snipe`
+    - n.
+      - [鸟]鹬
+        - `snipe`
   - 例句
     - `Bishop's sandpiper poet, there in your handout, is obsessed with the mere details of experience, those sand grains, quartz grains.`
       - 毕肖普写鹬的那首诗，你们的讲稿上有，被零星的描写经验的细节所累，描写了那些谷物和石英岩。

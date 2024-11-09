@@ -1,20 +1,30 @@
 - boron
   - 发音
-    - 英 `/'bɔːrɒn/`
-    - 美 `/'borɑn/`
+    - 英
+      - `/'bɔːrɒn/`
+    - 美
+      - `/'borɑn/`
   - 词义
-    - n. [化]硼
-    - `a very hard almost colourless crystalline metalloid element that in impure form exists as a brown amorphous powder. It occurs principally in borax and is used in hardening steel. The naturally occurring isotope boron-10 is used in nuclear control rods and neutron detection instruments. Symbol: B; atomic no: 5; atomic wt: 10.81; valency: 3; relative density: 2.34 (crystalline), 2.37 (amorphous); melting pt: 2092°C; boiling pt: 4002°C `
+    - n.
+      - [化]硼
+        - `a very hard almost colourless crystalline metalloid element that in impure form exists as a brown amorphous powder. It occurs principally in borax and is used in hardening steel. The naturally occurring isotope boron-10 is used in nuclear control rods and neutron detection instruments. Symbol: B; atomic no: 5; atomic wt: 10.81; valency: 3; relative density: 2.34 (crystalline), 2.37 (amorphous); melting pt: 2092°C; boiling pt: 4002°C `
   - 近义词
-    - n. [化学]硼
-      - `boracium`
+    - n.
+      - [化学]硼
+        - `boracium`
   - 短语
-    - `boron nitride` 氮化硼；一氮化硼 
-    - `boron carbide` [化]碳化硼 
-    - `cubic boron nitride` [材料学]立方氮化硼 
-    - `boron trifluoride` 三氟化硼 
-    - `boron steel` 硼钢 
-    - `boron oxide` 氧化硼；二氧化硼 
+    - `boron nitride`
+      - 氮化硼；一氮化硼 
+    - `boron carbide`
+      - [化]碳化硼 
+    - `cubic boron nitride`
+      - [材料学]立方氮化硼 
+    - `boron trifluoride`
+      - 三氟化硼 
+    - `boron steel`
+      - 硼钢 
+    - `boron oxide`
+      - 氧化硼；二氧化硼 
   - 例句
     - `He said there should be an element under boron.`
       - 他认为在，硼的下面也有个元素。

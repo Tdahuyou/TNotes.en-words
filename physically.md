@@ -1,19 +1,27 @@
 - physically
   - 发音
-    - 英 `/'fɪzɪkəllɪ/`
-    - 美 `/'fɪzɪkli/`
+    - 英
+      - `/'fɪzɪkəllɪ/`
+    - 美
+      - `/'fɪzɪkli/`
   - 词义
-    - adv. 身体上地
-    - `in relation to your body rather than your mind or emotions`
+    - adv.
+      - 身体上地
+        - `in relation to your body rather than your mind or emotions`
   - 同根词
     - adj.
-      - `physical` [物] 物理的；身体的；物质的
+      - `physical`
+        - [物] 物理的；身体的；物质的
     - n.
-      - `physical` 体格检查
-      - `physicality` 肉体性
+      - `physical`
+        - 体格检查
+      - `physicality`
+        - 肉体性
   - 短语
-    - `physically challenged` 残疾的；有生理缺陷的 
-    - `physically ill` 不安的，担心的；不舒服的 
+    - `physically challenged`
+      - 残疾的；有生理缺陷的 
+    - `physically ill`
+      - 不安的，担心的；不舒服的 
   - 例句
     - `She is young and physically fit.`
       - 她年轻而且身体健康。

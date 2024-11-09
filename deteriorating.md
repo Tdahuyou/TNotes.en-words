@@ -1,12 +1,16 @@
 - deteriorating
   - 发音
-    - 英 `/dɪ'tɪrɪə,retin/`
-    - 美 `/dɪ'tɪrɪə,retɪŋ/`
+    - 英
+      - `/dɪ'tɪrɪə,retin/`
+    - 美
+      - `/dɪ'tɪrɪə,retɪŋ/`
   - 词义
-    - adj. 恶化的
+    - adj.
+      - 恶化的
   - 近义词
-    - v. 退化，恶化（deteriorate的ing形式）
-      - `exacerbating`
+    - v.
+      - 退化，恶化（deteriorate的ing形式）
+        - `exacerbating`
   - 例句
     - `But in many ways the picture in Washington may be deteriorating.`
       - 但是在华盛顿，许多方面的情况可能是在恶化。

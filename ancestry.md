@@ -1,23 +1,30 @@
 - ancestry
   - 发音
-    - 英 `/'ænsestrɪ/`
-    - 美 `/'ænsɛstri/`
+    - 英
+      - `/'ænsestrɪ/`
+    - 美
+      - `/'ænsɛstri/`
   - 词义
-    - n. 祖先(集合称),血统
-    - `the members of your family who lived a long time ago`
+    - n.
+      - 祖先(集合称),血统
+        - `the members of your family who lived a long time ago`
   - 同根词
     - adj.
-      - `ancestral` 祖先的；祖传的
+      - `ancestral`
+        - 祖先的；祖传的
     - n.
-      - `ancestor` 始祖，祖先；被继承人
-      - `ancestress` 女性祖先；女性被继承人
+      - `ancestor`
+        - 始祖，祖先；被继承人
+      - `ancestress`
+        - 女性祖先；女性被继承人
   - 近义词
-    - n. [生物]祖先；血统
-      - `birth`
-      - `blood`
-      - `father`
-      - `root`
-      - `stem`
+    - n.
+      - [生物]祖先；血统
+        - `birth`
+        - `blood`
+        - `father`
+        - `root`
+        - `stem`
   - 例句
     - `Most people of European or African ancestry have the "wet" kind: thick and sticky.`
       - 大多数欧洲或者非洲血统的人耳垢是湿的，厚的，有粘性的。

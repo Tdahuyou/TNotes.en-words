@@ -1,22 +1,30 @@
 - immediacy
   - 发音
-    - 英 `/ɪ'miːdɪəsɪ/`
-    - 美 `/ɪ'midɪəsi/`
+    - 英
+      - `/ɪ'miːdɪəsɪ/`
+    - 美
+      - `/ɪ'midɪəsi/`
   - 词义
-    - n. 直接
+    - n.
+      - 直接
   - 同根词
     - adj.
-      - `immediate` 立即的；直接的；最接近的
+      - `immediate`
+        - 立即的；直接的；最接近的
     - adv.
-      - `immediately` 立即，立刻；直接地
+      - `immediately`
+        - 立即，立刻；直接地
     - conj.
-      - `immediately` 一…就
+      - `immediately`
+        - 一…就
     - n.
-      - `immediateness` 即刻；直接
+      - `immediateness`
+        - 即刻；直接
   - 近义词
-    - n. 直接；目前
-      - `now`
-      - `directness`
+    - n.
+      - 直接；目前
+        - `now`
+        - `directness`
   - 例句
     - `It erects a barrier that severs the pleasure and immediacy of visceral experience.`
       - 它在单纯的直接的快乐经历和我们之间竖起屏障。

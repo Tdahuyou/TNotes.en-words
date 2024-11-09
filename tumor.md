@@ -1,22 +1,34 @@
 - tumor
   - 发音
-    - 英 `/'tjuːmə/`
-    - 美 `/'tjʊmɚ/`
+    - 英
+      - `/'tjuːmə/`
+    - 美
+      - `/'tjʊmɚ/`
   - 词义
-    - n. 肿瘤
+    - n.
+      - 肿瘤
   - 近义词
-    - n. 肿瘤；肿块；赘生物
-      - `knub`
-      - `phyma`
+    - n.
+      - 肿瘤；肿块；赘生物
+        - `knub`
+        - `phyma`
   - 短语
-    - `malignant tumor` [医]恶性肿瘤；[医]恶瘤 
-    - `tumor cell` 肿瘤细胞 
-    - `brain tumor` 脑瘤，脑癌；脑肿瘤 
-    - `benign tumor` 良性瘤 
-    - `giant cell tumor` 骨巨细胞瘤 
-    - `metastatic tumor` 转移瘤 
-    - `pituitary tumor` 垂体肿瘤，垂体瘤 
-    - `yolk sac tumor` 卵黄囊瘤；卵巢内胚层窦瘤 
+    - `malignant tumor`
+      - [医]恶性肿瘤；[医]恶瘤 
+    - `tumor cell`
+      - 肿瘤细胞 
+    - `brain tumor`
+      - 脑瘤，脑癌；脑肿瘤 
+    - `benign tumor`
+      - 良性瘤 
+    - `giant cell tumor`
+      - 骨巨细胞瘤 
+    - `metastatic tumor`
+      - 转移瘤 
+    - `pituitary tumor`
+      - 垂体肿瘤，垂体瘤 
+    - `yolk sac tumor`
+      - 卵黄囊瘤；卵巢内胚层窦瘤 
   - 例句
     - `When do you think the patient can be operated on for the tumor?`
       - 你认为这个病人什么时候可以做肿瘤手术？

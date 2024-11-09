@@ -1,22 +1,30 @@
 - cod
   - 发音
-    - 英 `/kɒd/`
-    - 美 `/undefined/`
+    - 英
+      - `/kɒd/`
+    - 美
+      - `/undefined/`
   - 词义
-    - abbr. 货到付款(CashonDelivery)n鳕鱼
+    - abbr.
+      - 货到付款(CashonDelivery)n鳕鱼
   - 同根词
     - n.
-      - `codfish` 鳕，鳕鱼
-  - 近义词
-    - n. [鱼]鳕鱼；愚弄；哄骗
-      - `ling`
       - `codfish`
-    - vi. 欺骗；愚弄
-      - `kid`
-      - `pull a fast one`
-    - vt. 愚弄；欺骗
-      - `sell`
-      - `fox`
-      - `make a fool of`
+        - 鳕，鳕鱼
+  - 近义词
+    - n.
+      - [鱼]鳕鱼；愚弄；哄骗
+        - `ling`
+        - `codfish`
+    - vi.
+      - 欺骗；愚弄
+        - `kid`
+        - `pull a fast one`
+    - vt.
+      - 愚弄；欺骗
+        - `sell`
+        - `fox`
+        - `make a fool of`
   - 短语
-    - `cod liver oil` 鱼肝油 
+    - `cod liver oil`
+      - 鱼肝油 

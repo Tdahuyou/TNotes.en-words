@@ -1,34 +1,50 @@
 - candy
   - 发音
-    - 英 `/'kændɪ/`
-    - 美 `/ˈkændɪ/`
+    - 英
+      - `/'kændɪ/`
+    - 美
+      - `/ˈkændɪ/`
   - 词义
-    - n. 糖果
-    - `a sweet food made from sugar or chocolate`
+    - n.
+      - 糖果
+        - `a sweet food made from sugar or chocolate`
   - 同根词
     - adj.
-      - `candied` 甜蜜的；糖制的；甜言蜜语的
+      - `candied`
+        - 甜蜜的；糖制的；甜言蜜语的
     - v.
-      - `candied` 把…制成糖果；美化（candy的过去分词）
+      - `candied`
+        - 把…制成糖果；美化（candy的过去分词）
   - 近义词
-    - vt. 用糖煮；使结晶为砂糖；美化
-      - `glorify`
-      - `glamorize`
-    - n. [食品]糖果（等于sweets）；冰糖（等于sugar candy，rock candy）；毒品
-      - `drug`
-      - `sweet`
-    - adj. 新潮的（服饰）；甜言蜜语的
-      - `together`
-      - `honeylipped`
+    - vt.
+      - 用糖煮；使结晶为砂糖；美化
+        - `glorify`
+        - `glamorize`
+    - n.
+      - [食品]糖果（等于sweets）；冰糖（等于sugar candy，rock candy）；毒品
+        - `drug`
+        - `sweet`
+    - adj.
+      - 新潮的（服饰）；甜言蜜语的
+        - `together`
+        - `honeylipped`
   - 短语
-    - `candy store` 糖果店 
-    - `candy bar` n. 单独包装的块状糖 
-    - `cotton candy` 棉花糖 
-    - `hard candy` 硬糖 
-    - `rock candy` 冰糖 
-    - `eye candy` 花瓶角色；华而不实 
-    - `sugar candy` 冰糖；甜蜜的东西 
-    - `candy cane` 柺杖糖；甘蔗 
+    - `candy store`
+      - 糖果店 
+    - `candy bar`
+      - n. 单独包装的块状糖 
+    - `cotton candy`
+      - 棉花糖 
+    - `hard candy`
+      - 硬糖 
+    - `rock candy`
+      - 冰糖 
+    - `eye candy`
+      - 花瓶角色；华而不实 
+    - `sugar candy`
+      - 冰糖；甜蜜的东西 
+    - `candy cane`
+      - 柺杖糖；甘蔗 
   - 例句
     - `a box of candies`
       - 一盒糖果

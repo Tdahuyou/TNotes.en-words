@@ -1,17 +1,22 @@
 - mastodon
   - 发音
-    - 英 `/'mæstədɒn/`
-    - 美 `/'mæstə,dɑn/`
+    - 英
+      - `/'mæstədɒn/`
+    - 美
+      - `/'mæstə,dɑn/`
   - 词义
-    - n. [古生]乳齿象,庞然大物
-    - `any extinct elephant-like proboscidean mammal of the genus Mammut (or Mastodon), common in Pliocene times `
+    - n.
+      - [古生]乳齿象,庞然大物
+        - `any extinct elephant-like proboscidean mammal of the genus Mammut (or Mastodon), common in Pliocene times `
   - 近义词
-    - n. [古生]乳齿象；庞然大物
-      - `monolith`
-      - `leviathan`
-    - adj. 巨大的；庞大的
-      - `huge`
-      - `enormous`
-      - `tremendous`
-      - `massive`
-      - `macro`
+    - n.
+      - [古生]乳齿象；庞然大物
+        - `monolith`
+        - `leviathan`
+    - adj.
+      - 巨大的；庞大的
+        - `huge`
+        - `enormous`
+        - `tremendous`
+        - `massive`
+        - `macro`

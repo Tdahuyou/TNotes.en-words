@@ -1,9 +1,12 @@
 - undeserving
   - 发音
-    - 英 `/ˌʌndɪ'zɜːrvɪŋ/`
-    - 美 `/,ʌndɪ'zɝvɪŋ/`
+    - 英
+      - `/ˌʌndɪ'zɜːrvɪŋ/`
+    - 美
+      - `/,ʌndɪ'zɝvɪŋ/`
   - 词义
-    - adj. 不值得的
+    - adj.
+      - 不值得的
   - 例句
     - `In this world, nothing was undeserving of the French soldiers!`
       - 这个世界上，没有一样东西是法兰西士兵所不配享有的！

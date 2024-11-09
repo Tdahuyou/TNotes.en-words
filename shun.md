@@ -1,17 +1,22 @@
 - shun
   - 发音
-    - 英 `/ʃʌn/`
-    - 美 `/ʃʌn/`
+    - 英
+      - `/ʃʌn/`
+    - 美
+      - `/ʃʌn/`
   - 词义
-    - v. 避开,避免
-    - `to deliberately avoid someone or something`
+    - v.
+      - 避开,避免
+        - `to deliberately avoid someone or something`
   - 同根词
     - n.
-      - `shunning` 回避
+      - `shunning`
+        - 回避
   - 近义词
-    - vt. 避开，避免；回避
-      - `escape`
-      - `shy off`
+    - vt.
+      - 避开，避免；回避
+        - `escape`
+        - `shy off`
   - 例句
     - `a shy woman who shunned publicity`
       - 不爱抛头露面的羞怯女子

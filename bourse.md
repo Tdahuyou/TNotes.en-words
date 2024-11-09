@@ -1,15 +1,20 @@
 - bourse
   - 发音
-    - 英 `/'buəs/`
-    - 美 `/bʊrs/`
+    - 英
+      - `/'buəs/`
+    - 美
+      - `/bʊrs/`
   - 词义
-    - n. 证券交易所
-    - `The bourse of a European city or region is its stock exchange`
+    - n.
+      - 证券交易所
+        - `The bourse of a European city or region is its stock exchange`
   - 近义词
-    - n. 交易所
-      - `exchange`
+    - n.
+      - 交易所
+        - `exchange`
   - 短语
-    - `paris bourse` 巴黎证券交易所 
+    - `paris bourse`
+      - 巴黎证券交易所 
   - 例句
     - `So should a respectable bourse be offering the stock?`
       - 那么，一家可敬的交易所应该发行这只股票吗？

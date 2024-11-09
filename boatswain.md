@@ -1,14 +1,18 @@
 - boatswain
   - 发音
-    - 英 `/'bəuswein/`
-    - 美 `/'bosn/`
+    - 英
+      - `/'bəuswein/`
+    - 美
+      - `/'bosn/`
   - 词义
-    - n. 水手长
-    - `a petty officer on a merchant ship or a warrant officer on a warship who is responsible for the maintenance of the ship and its equipment `
+    - n.
+      - 水手长
+        - `a petty officer on a merchant ship or a warrant officer on a warship who is responsible for the maintenance of the ship and its equipment `
   - 近义词
-    - n. 水手长
-      - `bosun`
-      - `bos'n`
+    - n.
+      - 水手长
+        - `bosun`
+        - `bos'n`
   - 例句
     - `The head of Job Anderson , the boatswain, appeared at the middle loophole.`
       - 水手长乔伯-安德森的脑袋出现在了中间那个枪眼里。

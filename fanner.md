@@ -1,12 +1,16 @@
 - fanner
   - 发音
-    - 英 `/'fænə/`
-    - 美 `/'fænɚ/`
+    - 英
+      - `/'fænə/`
+    - 美
+      - `/'fænɚ/`
   - 词义
-    - n. 通风机
+    - n.
+      - 通风机
   - 近义词
-    - n. 通风机；电风扇；摇扇人
-      - `ventilating fan`
+    - n.
+      - 通风机；电风扇；摇扇人
+        - `ventilating fan`
   - 例句
     - `If be used on fanner, is kiss formula switch, should look up each to block a distinction between place pilot rotate speed in the check after electrify apparent.`
       - 假如电风扇上使用的是轻触式开关，则应该在通电后检查一下各挡位所控制的转速之间的区别是否明显。

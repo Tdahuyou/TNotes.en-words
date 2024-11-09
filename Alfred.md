@@ -1,12 +1,17 @@
 - Alfred
   - 发音
-    - 英 `/'ælfrid; -fred/`
-    - 美 `/'ælfrɪd/`
+    - 英
+      - `/'ælfrid; -fred/`
+    - 美
+      - `/'ælfrɪd/`
   - 词义
   - 短语
-    - `alfred nobel` 阿尔弗雷德·诺贝尔（瑞典化学家） 
-    - `alfred hitchcock` 阿尔弗雷德·希区柯克（英国导演） 
-    - `alfred north whitehead` 怀德海 
+    - `alfred nobel`
+      - 阿尔弗雷德·诺贝尔（瑞典化学家） 
+    - `alfred hitchcock`
+      - 阿尔弗雷德·希区柯克（英国导演） 
+    - `alfred north whitehead`
+      - 怀德海 
   - 例句
     - `"On going around with the boys, I guess." said Alfred.`
       - “我想是和朋友们一起出去，”艾尔弗雷德说。

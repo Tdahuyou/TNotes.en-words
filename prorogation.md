@@ -1,15 +1,20 @@
 - prorogation
   - 发音
-    - 英 `/,prəʊrəʊ'ɡeɪʃən/`
-    - 美 `/,prɔro'ɡeʃən/`
+    - 英
+      - `/,prəʊrəʊ'ɡeɪʃən/`
+    - 美
+      - `/,prɔro'ɡeʃən/`
   - 词义
-    - n. 休会
+    - n.
+      - 休会
   - 同根词
     - v.
-      - `prorogue` 休会
+      - `prorogue`
+        - 休会
   - 近义词
-    - n. 休会；闭会
-      - `adjournment`
+    - n.
+      - 休会；闭会
+        - `adjournment`
   - 例句
     - `Mr Harper turned a customary recess into prorogation .`
       - 会期内的惯例休会被哈珀拖成了会期间休会。

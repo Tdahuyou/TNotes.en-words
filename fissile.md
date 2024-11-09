@@ -1,30 +1,43 @@
 - fissile
   - 发音
-    - 英 `/'fɪsl/`
-    - 美 `/'fɪsl/`
+    - 英
+      - `/'fɪsl/`
+    - 美
+      - `/'fɪsl/`
   - 词义
-    - adj. 易分裂的
-    - `able to be split by atomic fission`
+    - adj.
+      - 易分裂的
+        - `able to be split by atomic fission`
   - 记忆
     - fiss(裂开) + ile(易…的) → 易分裂的
   - 同根词
     - adj.
-      - `fissionable` 可分裂的；可作核裂变的
-      - `fissiparous` 分裂生殖的；有分裂倾向的
+      - `fissionable`
+        - 可分裂的；可作核裂变的
+      - `fissiparous`
+        - 分裂生殖的；有分裂倾向的
     - n.
-      - `fissure` 裂缝；裂沟（尤指岩石上的）
-      - `fission` 裂变；分裂；分体；分裂生殖法
-      - `fissionable` 可裂变物质
-      - `fissiparity` 分裂裂殖（等于fissiparism）
+      - `fissure`
+        - 裂缝；裂沟（尤指岩石上的）
+      - `fission`
+        - 裂变；分裂；分体；分裂生殖法
+      - `fissionable`
+        - 可裂变物质
+      - `fissiparity`
+        - 分裂裂殖（等于fissiparism）
     - vi.
-      - `fissure` 裂开；分裂
+      - `fissure`
+        - 裂开；分裂
     - vt.
-      - `fissure` 裂开；分裂
+      - `fissure`
+        - 裂开；分裂
   - 近义词
-    - adj. [生物]分裂性的；[地质]易分裂的
-      - `disruptive`
+    - adj.
+      - [生物]分裂性的；[地质]易分裂的
+        - `disruptive`
   - 短语
-    - `fissile material` 核燃料；可裂变物质 
+    - `fissile material`
+      - 核燃料；可裂变物质 
   - 例句
     - `Thus, we need to start getting rid of this material along with fissile material created for weapons use.`
       - 因此，我们在清除用于制造武器的裂变材料的同时也需要开始清除这类材料。

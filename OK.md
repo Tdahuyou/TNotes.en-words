@@ -1,33 +1,44 @@
 - OK
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - int. 行，好（用于表示同意、赞成或理解）
-    - `used to show that you agree with something or give permission for someone to do something`
+    - int.
+      - 行，好（用于表示同意、赞成或理解）
+        - `used to show that you agree with something or give permission for someone to do something`
   - 近义词
-    - adj. 好的；不错的
-      - `good`
-      - `fine`
-      - `great`
-      - `bona`
-    - adv. 行；很好
-      - `certainly`
-      - `very good`
-    - int. 好；可以
-      - `okay`
-      - `zowie`
-    - n. 同意
-      - `agreement`
-      - `yes`
-      - `leave`
-      - `Okay`
-      - `consent`
+    - adj.
+      - 好的；不错的
+        - `good`
+        - `fine`
+        - `great`
+        - `bona`
+    - adv.
+      - 行；很好
+        - `certainly`
+        - `very good`
+    - int.
+      - 好；可以
+        - `okay`
+        - `zowie`
+    - n.
+      - 同意
+        - `agreement`
+        - `yes`
+        - `leave`
+        - `Okay`
+        - `consent`
   - 短语
-    - `that's ok` 可以；那好吧 
-    - `i'm ok` 我很好 
-    - `everything is ok` 万事具备 
-    - `ok button` OK按钮 
+    - `that's ok`
+      - 可以；那好吧 
+    - `i'm ok`
+      - 我很好 
+    - `everything is ok`
+      - 万事具备 
+    - `ok button`
+      - OK按钮 
   - 例句
     - `‘Can I take the car today?’ ‘Okay.’`
       - “今天我能用这辆车吗？”“行啊。”

@@ -1,6 +1,9 @@
 - tressed
   - 发音
-    - 英 `/trest/`
-    - 美 `/trest/`
+    - 英
+      - `/trest/`
+    - 美
+      - `/trest/`
   - 词义
-    - adj. 有一绺绺长发的
+    - adj.
+      - 有一绺绺长发的

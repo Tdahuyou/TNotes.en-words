@@ -1,15 +1,20 @@
 - plutocracy
   - 发音
-    - 英 `/pluː'tɒkrəsɪ/`
-    - 美 `/plu'tɑkrəsi/`
+    - 英
+      - `/pluː'tɒkrəsɪ/`
+    - 美
+      - `/plu'tɑkrəsi/`
   - 词义
-    - n. 富豪统治
-    - `a ruling class or government that consists of rich people, or a country that is governed by rich people`
+    - n.
+      - 富豪统治
+        - `a ruling class or government that consists of rich people, or a country that is governed by rich people`
   - 同根词
     - adj.
-      - `plutocratic` 富豪的；财阀的；有钱有势的
+      - `plutocratic`
+        - 富豪的；财阀的；有钱有势的
     - n.
-      - `plutocrat` 财阀；富豪
+      - `plutocrat`
+        - 财阀；富豪
   - 例句
     - `Financial plutocracy must give way to financial democracy – banking as if people mattered.`
       - 金融富豪必须让位于金融民主-人民做主的金融。

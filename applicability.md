@@ -1,20 +1,28 @@
 - applicability
   - 发音
-    - 英 `/,æplɪkə'bɪlətɪ/`
-    - 美 `/,æplɪkə'bɪləti/`
+    - 英
+      - `/,æplɪkə'bɪlətɪ/`
+    - 美
+      - `/,æplɪkə'bɪləti/`
   - 词义
-    - n. 适用性,适应性
+    - n.
+      - 适用性,适应性
   - 同根词
     - adj.
-      - `applicable` 可适用的；可应用的；合适的
-      - `applicative` 可适用的
-      - `applicatory` 适用的；有用的；可应用的
+      - `applicable`
+        - 可适用的；可应用的；合适的
+      - `applicative`
+        - 可适用的
+      - `applicatory`
+        - 适用的；有用的；可应用的
   - 近义词
-    - n. 适用性；适应性
-      - `flexibility`
-      - `adaptability`
+    - n.
+      - 适用性；适应性
+        - `flexibility`
+        - `adaptability`
   - 短语
-    - `practical applicability` 实用性；专利的实用性 
+    - `practical applicability`
+      - 实用性；专利的实用性 
   - 例句
     - `As a source of knowledge the strength of rational statements lies in reliability and predictability, but not in breadth or applicability.`
       - 作为知识的来源之一，理论叙述的作用在于可靠性和预见性，而不在于广泛性和实用性。

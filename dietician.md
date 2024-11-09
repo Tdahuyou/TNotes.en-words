@@ -1,16 +1,23 @@
 - dietician
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 营养学家；膳食学家（等于dietitian）
-    - `someone who is trained to give people advice about what it is healthy for them to eat and drink`
+    - n.
+      - 营养学家；膳食学家（等于dietitian）
+        - `someone who is trained to give people advice about what it is healthy for them to eat and drink`
   - 同根词
     - adj.
-      - `dietetic` 饮食的；饮食学的
+      - `dietetic`
+        - 饮食的；饮食学的
     - n.
-      - `dietitian` （美）营养学家；饮食学家
-      - `dietetics` 营养学；饮食学
+      - `dietitian`
+        - （美）营养学家；饮食学家
+      - `dietetics`
+        - 营养学；饮食学
   - 近义词
-    - n. 营养学家；[医]膳食学家（等于dietitian）
-      - `nutritionist`
+    - n.
+      - 营养学家；[医]膳食学家（等于dietitian）
+        - `nutritionist`

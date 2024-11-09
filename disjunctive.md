@@ -1,24 +1,33 @@
 - disjunctive
   - 发音
-    - 英 `/dɪs'dʒʌŋ(k)tɪv/`
-    - 美 `/dɪs'dʒʌŋktɪv/`
+    - 英
+      - `/dɪs'dʒʌŋ(k)tɪv/`
+    - 美
+      - `/dɪs'dʒʌŋktɪv/`
   - 词义
-    - adj. 分隔的；分离的
-    - `serving to disconnect or separate `
-    - n. 反意连接词
+    - adj.
+      - 分隔的；分离的
+        - `serving to disconnect or separate `
+    - n.
+      - 反意连接词
   - 同根词
     - adj.
-      - `disjunct` 分离的；头、胸和腹部由缢缩分开的
+      - `disjunct`
+        - 分离的；头、胸和腹部由缢缩分开的
     - n.
-      - `disjunction` 分离；析取；分裂；折断
-      - `disjuncture` 分裂；分离
+      - `disjunction`
+        - 分离；析取；分裂；折断
+      - `disjuncture`
+        - 分裂；分离
   - 近义词
-    - adj. [数]分隔的；分离的
-      - `apart`
-      - `isolated`
-      - `separating`
+    - adj.
+      - [数]分隔的；分离的
+        - `apart`
+        - `isolated`
+        - `separating`
   - 短语
-    - `disjunctive normal form` 析取范式 
+    - `disjunctive normal form`
+      - 析取范式 
   - 例句
     - `Because you let me have that kind of not to think a disjunctive felling.`
       - 因为你让我有了那种不想分离的感觉。

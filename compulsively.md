@@ -1,20 +1,30 @@
 - compulsively
   - 发音
-    - 英 `/kəm'pʌlsɪvli/`
-    - 美 `/undefined/`
+    - 英
+      - `/kəm'pʌlsɪvli/`
+    - 美
+      - `/undefined/`
   - 词义
-    - adv. 强制地；禁不住地
+    - adv.
+      - 强制地；禁不住地
   - 同根词
     - adj.
-      - `compulsory` 义务的；必修的；被强制的
-      - `compulsive` 强制的；强迫的
+      - `compulsory`
+        - 义务的；必修的；被强制的
+      - `compulsive`
+        - 强制的；强迫的
     - adv.
-      - `compulsorily` 强制地；强迫地；必须地
+      - `compulsorily`
+        - 强制地；强迫地；必须地
     - n.
-      - `compulsory` （花样滑冰、竞技体操等的）规定动作
-      - `compulsion` 强制；强迫；强制力
-      - `compulsivity` 强迫性
+      - `compulsory`
+        - （花样滑冰、竞技体操等的）规定动作
+      - `compulsion`
+        - 强制；强迫；强制力
+      - `compulsivity`
+        - 强迫性
   - 近义词
-    - adv. 强制地，强迫地
-      - `by the strong hand`
-      - `forcibly`
+    - adv.
+      - 强制地，强迫地
+        - `by the strong hand`
+        - `forcibly`

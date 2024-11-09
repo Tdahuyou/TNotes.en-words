@@ -1,25 +1,35 @@
 - hardship
   - 发音
-    - 英 `/'hɑːdʃɪp/`
-    - 美 `/'hɑrdʃɪp/`
+    - 英
+      - `/'hɑːdʃɪp/`
+    - 美
+      - `/'hɑrdʃɪp/`
   - 词义
-    - n. 困苦,艰难
-    - `something that makes your life difficult or unpleasant, especially a lack of money, or the condition of having a difficult life`
+    - n.
+      - 困苦,艰难
+        - `something that makes your life difficult or unpleasant, especially a lack of money, or the condition of having a difficult life`
   - 同根词
     - adj.
-      - `hard` 努力的；硬的；困难的；辛苦的；确实的；严厉的；猛烈的；冷酷无情的
-      - `hardy` 坚强的；勇敢的；能吃苦耐劳的；鲁莽的
+      - `hard`
+        - 努力的；硬的；困难的；辛苦的；确实的；严厉的；猛烈的；冷酷无情的
+      - `hardy`
+        - 坚强的；勇敢的；能吃苦耐劳的；鲁莽的
     - adv.
-      - `hard` 努力地；困难地；辛苦地；接近地；猛烈地；牢固地
+      - `hard`
+        - 努力地；困难地；辛苦地；接近地；猛烈地；牢固地
     - n.
-      - `hardness` [物] 硬度；坚硬；困难；冷酷
-      - `hardy` 强壮的人；耐寒植物；方柄凿
+      - `hardness`
+        - [物] 硬度；坚硬；困难；冷酷
+      - `hardy`
+        - 强壮的人；耐寒植物；方柄凿
   - 近义词
-    - n. 困苦；苦难；艰难险阻
-      - `affliction`
-      - `bitterness`
+    - n.
+      - 困苦；苦难；艰难险阻
+        - `affliction`
+        - `bitterness`
   - 短语
-    - `economic hardship` 经济困难 
+    - `economic hardship`
+      - 经济困难 
   - 例句
     - `an economic policy that caused great hardship for many people`
       - 造成许多人贫困的经济政策

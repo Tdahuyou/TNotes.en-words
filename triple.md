@@ -1,42 +1,63 @@
 - triple
   - 发音
-    - 英 `/'trɪpl/`
-    - 美 `/'trɪpl/`
+    - 英
+      - `/'trɪpl/`
+    - 美
+      - `/'trɪpl/`
   - 词义
-    - v. 增至三倍
-    - `to increase by three times as much, or to make something do this`
-    - adj. 三部分的；三方的；三倍的
-    - `having three parts or involving three groups, people, events etc`
+    - v.
+      - 增至三倍
+        - `to increase by three times as much, or to make something do this`
+    - adj.
+      - 三部分的；三方的；三倍的
+        - `having three parts or involving three groups, people, events etc`
   - 记忆
     - tri(三) + ple → 三部分的， 三倍的
   - 同根词
     - n.
-      - `tripling` 群交
-      - `triplicity` 三倍；三位一体；三个一幅
+      - `tripling`
+        - 群交
+      - `triplicity`
+        - 三倍；三位一体；三个一幅
     - v.
-      - `tripling` 使增至三倍；增至三倍（triple的ing形式）
+      - `tripling`
+        - 使增至三倍；增至三倍（triple的ing形式）
   - 近义词
-    - adj. [数]三倍的；三方的
-      - `trinary`
-      - `threefold`
-    - n. [数]三倍数；三个一组
-      - `ternion`
-      - `triad`
-    - vi. 增至三倍
-      - `trifold`
-    - vt. 使成三倍
-      - `treble`
+    - adj.
+      - [数]三倍的；三方的
+        - `trinary`
+        - `threefold`
+    - n.
+      - [数]三倍数；三个一组
+        - `ternion`
+        - `triad`
+    - vi.
+      - 增至三倍
+        - `trifold`
+    - vt.
+      - 使成三倍
+        - `treble`
   - 短语
-    - `triple jump` 三级跳远 
-    - `triple integral` 三重积分 
-    - `triple point` 三相点 
-    - `triple threat` （美）三面手 
-    - `triple junction` 三联点；三重接头；三向连接构造 
-    - `triple a` 三A（由三个表现出众的草坪型高羊茅品种科学配比而成，是市场上很受欢迎的高羊茅混播组合）；三A级；最高信用评级；美国汽车协会（AAA，American Automobile Association） 
-    - `triple crown` n. 三重冠 
-    - `triple prism` 三棱镜 
-    - `triple time` n. [音]三拍子 
-    - `triple play` 三杀（使攻方三个球员同时被杀出局） 
+    - `triple jump`
+      - 三级跳远 
+    - `triple integral`
+      - 三重积分 
+    - `triple point`
+      - 三相点 
+    - `triple threat`
+      - （美）三面手 
+    - `triple junction`
+      - 三联点；三重接头；三向连接构造 
+    - `triple a`
+      - 三A（由三个表现出众的草坪型高羊茅品种科学配比而成，是市场上很受欢迎的高羊茅混播组合）；三A级；最高信用评级；美国汽车协会（AAA，American Automobile Association） 
+    - `triple crown`
+      - n. 三重冠 
+    - `triple prism`
+      - 三棱镜 
+    - `triple time`
+      - n. [音]三拍子 
+    - `triple play`
+      - 三杀（使攻方三个球员同时被杀出局） 
   - 例句
     - `The company has tripled in size .`
       - 这家公司的规模已扩大了两倍。

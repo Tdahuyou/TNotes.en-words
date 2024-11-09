@@ -1,23 +1,34 @@
 - isotope
   - 发音
-    - 英 `/'aɪsətəʊp/`
-    - 美 `/'aɪsə'top/`
+    - 英
+      - `/'aɪsətəʊp/`
+    - 美
+      - `/'aɪsə'top/`
   - 词义
-    - n. 同位素
-    - `one of the possible different forms of an atom of a particular  element `
+    - n.
+      - 同位素
+        - `one of the possible different forms of an atom of a particular  element `
   - 同根词
     - adj.
-      - `isotopic` 同位素的；同位旋的
+      - `isotopic`
+        - 同位素的；同位旋的
   - 近义词
-    - n. [核]同位素
-      - `isotopic element`
+    - n.
+      - [核]同位素
+        - `isotopic element`
   - 短语
-    - `stable isotope` 稳定同位素 
-    - `radioactive isotope` 放射性同位素 
-    - `isotope analysis` 同位素分析 
-    - `isotope separation` 同位素分离 
-    - `isotope geochemistry` 同位素地球化学 
-    - `isotope effect` 同位素效应 
+    - `stable isotope`
+      - 稳定同位素 
+    - `radioactive isotope`
+      - 放射性同位素 
+    - `isotope analysis`
+      - 同位素分析 
+    - `isotope separation`
+      - 同位素分离 
+    - `isotope geochemistry`
+      - 同位素地球化学 
+    - `isotope effect`
+      - 同位素效应 
   - 例句
     - `...tritium, a radioactive isotope of hydrogen.`
       - ...氚，氢的一种放射性同位素。

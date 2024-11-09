@@ -1,20 +1,27 @@
 - remoteness
   - 发音
-    - 英 `/rɪ'moutnəs/`
-    - 美 `/undefined/`
+    - 英
+      - `/rɪ'moutnəs/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 遥远；偏僻
+    - n.
+      - 遥远；偏僻
   - 同根词
     - adj.
-      - `remote` 遥远的；偏僻的；疏远的
+      - `remote`
+        - 遥远的；偏僻的；疏远的
     - adv.
-      - `remotely` 遥远地；偏僻地
+      - `remotely`
+        - 遥远地；偏僻地
     - n.
-      - `remote` 远程
+      - `remote`
+        - 远程
   - 近义词
-    - n. 遥远；偏僻；细微；时间久远
-      - `fineness`
-      - `imperceptibility`
+    - n.
+      - 遥远；偏僻；细微；时间久远
+        - `fineness`
+        - `imperceptibility`
   - 例句
     - `Its development represents man's triumph over remoteness and a harsh landscape.`
       - 澳大利亚的发展，是人类战胜遥远和荒芜的成果。

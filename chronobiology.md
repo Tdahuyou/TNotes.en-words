@@ -1,10 +1,13 @@
 - chronobiology
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. [生]时间生物学,生物钟学
-    - `the branch of biology concerned with the periodicity occurring in living organisms `
+    - n.
+      - [生]时间生物学,生物钟学
+        - `the branch of biology concerned with the periodicity occurring in living organisms `
   - 例句
     - `Once your have familiarized yourself with your patterns, you can take advantage of chronobiology techniques to improve your health and productivity.`
       - 一旦你了解了自身的规律，你便能利用时间生物学的手段增强健康、提高生产率。

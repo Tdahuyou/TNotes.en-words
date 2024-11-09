@@ -1,31 +1,44 @@
 - ethic
   - 发音
-    - 英 `/'eθɪk/`
-    - 美 `/'ɛθɪk/`
+    - 英
+      - `/'eθɪk/`
+    - 美
+      - `/'ɛθɪk/`
   - 词义
-    - n. 伦理；道德体系
-    - `a general idea or belief that influences people’s behaviour and attitudes`
+    - n.
+      - 伦理；道德体系
+        - `a general idea or belief that influences people’s behaviour and attitudes`
   - 记忆
     - eth(习俗) + ic → 道德规范； 伦理学
   - 同根词
     - adj.
-      - `ethical` 伦理的；道德的；凭处方出售的
+      - `ethical`
+        - 伦理的；道德的；凭处方出售的
     - adv.
-      - `ethically` 伦理上
+      - `ethically`
+        - 伦理上
     - n.
-      - `ethical` 处方药
-      - `ethics` 伦理学；伦理观；道德标准
-      - `ethicist` 伦理学家
+      - `ethical`
+        - 处方药
+      - `ethics`
+        - 伦理学；伦理观；道德标准
+      - `ethicist`
+        - 伦理学家
   - 近义词
-    - n. 伦理；道德规范
-      - `moral rule`
-      - `moral appeals`
-    - adj. 伦理的；道德的（等于ethical）
-      - `moral`
+    - n.
+      - 伦理；道德规范
+        - `moral rule`
+        - `moral appeals`
+    - adj.
+      - 伦理的；道德的（等于ethical）
+        - `moral`
   - 短语
-    - `work ethic` 职业道德；职业伦理 
-    - `professional ethic` 职业道德 
-    - `protestant ethic` 新教伦理；新教价值观 
+    - `work ethic`
+      - 职业道德；职业伦理 
+    - `professional ethic`
+      - 职业道德 
+    - `protestant ethic`
+      - 新教伦理；新教价值观 
   - 例句
     - `The old ethic of hard work has given way to a new ethic of instant gratification.`
       - 旧有的崇尚勤勉的道德观已被及时行乐的新观念所取代。

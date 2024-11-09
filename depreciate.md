@@ -1,25 +1,33 @@
 - depreciate
   - 发音
-    - 英 `/di'priːʃieit/`
-    - 美 `/dɪ'priʃɪet/`
+    - 英
+      - `/di'priːʃieit/`
+    - 美
+      - `/dɪ'priʃɪet/`
   - 词义
-    - v. 反对；轻视；折旧，贬值
-    - `to decrease in value or price`
+    - v.
+      - 反对；轻视；折旧，贬值
+        - `to decrease in value or price`
   - 记忆
     - de (否定) + preciate (看作appreciate， 欣赏) → 不欣赏 → 反对
   - 同根词
     - adj.
-      - `depreciative` 蔑视的；贬值的
-      - `depreciatory` 贬值的；蔑视的
+      - `depreciative`
+        - 蔑视的；贬值的
+      - `depreciatory`
+        - 贬值的；蔑视的
     - n.
-      - `depreciation` 折旧；贬值
+      - `depreciation`
+        - 折旧；贬值
   - 近义词
-    - vt. 使贬值；贬低；轻视
-      - `lower`
-      - `slight`
-    - vi. 贬值；轻视；贬低
-      - `to devaluate`
-      - `to become devaluated`
+    - vt.
+      - 使贬值；贬低；轻视
+        - `lower`
+        - `slight`
+    - vi.
+      - 贬值；轻视；贬低
+        - `to devaluate`
+        - `to become devaluated`
   - 例句
     - `New cars depreciate in value quickly.`
       - 新车掉价很快。

@@ -1,39 +1,62 @@
 - musical
   - 发音
-    - 英 `/'mjuːzɪk(ə)l/`
-    - 美 `/'mjuzɪkl/`
+    - 英
+      - `/'mjuːzɪk(ə)l/`
+    - 美
+      - `/'mjuzɪkl/`
   - 词义
-    - adj. 音乐的
-    - `relating to music or consisting of music`
+    - adj.
+      - 音乐的
+        - `relating to music or consisting of music`
   - 记忆
     - music(音乐)+al→音乐的
   - 同根词
     - adv.
-      - `musically` 音乐上地；声音好听地
+      - `musically`
+        - 音乐上地；声音好听地
     - n.
-      - `music` 音乐，乐曲
-      - `musician` 音乐家
-      - `musicality` 音乐性；音感
-      - `musicianship` 音乐才能；音乐鉴赏力；音乐技巧
-      - `musicologist` 音乐学者，音乐理论家
-      - `musicology` 音乐学；音乐理论
+      - `music`
+        - 音乐，乐曲
+      - `musician`
+        - 音乐家
+      - `musicality`
+        - 音乐性；音感
+      - `musicianship`
+        - 音乐才能；音乐鉴赏力；音乐技巧
+      - `musicologist`
+        - 音乐学者，音乐理论家
+      - `musicology`
+        - 音乐学；音乐理论
   - 近义词
-    - adj. 音乐的；悦耳的
-      - `harmonious`
-      - `sweet`
+    - adj.
+      - 音乐的；悦耳的
+        - `harmonious`
+        - `sweet`
   - 短语
-    - `musical instrument` 乐器 
-    - `musical composition` 乐曲 
-    - `musical performance` n. 演奏（会）；音乐表演 
-    - `musical sound` 乐音，音乐声 
-    - `musical notation` 乐谱；音乐符号 
-    - `musical comedy` 音乐喜剧；歌舞喜剧 
-    - `musical note` 音符；律音 
-    - `broadway musical` 百老汇音乐剧 
-    - `numbered musical notation` 简谱 
-    - `musical box` n. 音乐盒 
-    - `musical chairs` 抢椅游戏 
-    - `musical scale` n. 音阶 
+    - `musical instrument`
+      - 乐器 
+    - `musical composition`
+      - 乐曲 
+    - `musical performance`
+      - n. 演奏（会）；音乐表演 
+    - `musical sound`
+      - 乐音，音乐声 
+    - `musical notation`
+      - 乐谱；音乐符号 
+    - `musical comedy`
+      - 音乐喜剧；歌舞喜剧 
+    - `musical note`
+      - 音符；律音 
+    - `broadway musical`
+      - 百老汇音乐剧 
+    - `numbered musical notation`
+      - 简谱 
+    - `musical box`
+      - n. 音乐盒 
+    - `musical chairs`
+      - 抢椅游戏 
+    - `musical scale`
+      - n. 音阶 
   - 例句
     - `a musical version of the fairy tale ‘Cinderella’`
       - 童话故事《灰姑娘》的音乐剧版

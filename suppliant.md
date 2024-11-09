@@ -1,23 +1,33 @@
 - suppliant
   - 发音
-    - 英 `/'sʌpliənt/`
-    - 美 `/undefined/`
+    - 英
+      - `/'sʌpliənt/`
+    - 美
+      - `/undefined/`
   - 词义
-    - adj. 恳求的，哀求的
-    - `expressing entreaty or supplication `
-    - n. 恳求者，哀求者
-    - `a supplicant`
+    - adj.
+      - 恳求的，哀求的
+        - `expressing entreaty or supplication `
+    - n.
+      - 恳求者，哀求者
+        - `a supplicant`
   - 同根词
     - adj.
-      - `supplicatory` 恳求的；祈求的
+      - `supplicatory`
+        - 恳求的；祈求的
     - n.
-      - `supplicant` 恳求者，乞求者
-      - `supplication` 恳求；祈祷
+      - `supplicant`
+        - 恳求者，乞求者
+      - `supplication`
+        - 恳求；祈祷
     - vi.
-      - `supplicate` 哀求；恳请；祈求
+      - `supplicate`
+        - 哀求；恳请；祈求
     - vt.
-      - `supplicate` 恳求，哀求；恳请
+      - `supplicate`
+        - 恳求，哀求；恳请
   - 近义词
-    - adj. 恳求的；哀求的
-      - `precative`
-      - `imploring`
+    - adj.
+      - 恳求的；哀求的
+        - `precative`
+        - `imploring`

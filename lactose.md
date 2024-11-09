@@ -1,15 +1,20 @@
 - lactose
   - 发音
-    - 英 `/'læktəus/`
-    - 美 `/'læktos/`
+    - 英
+      - `/'læktəus/`
+    - 美
+      - `/'læktos/`
   - 词义
-    - n. 乳糖
-    - `a type of sugar found in milk, sometimes used as a food for babies and sick people`
+    - n.
+      - 乳糖
+        - `a type of sugar found in milk, sometimes used as a food for babies and sick people`
   - 近义词
-    - n. [有化]乳糖
-      - `milk sugar`
+    - n.
+      - [有化]乳糖
+        - `milk sugar`
   - 短语
-    - `lactose intolerance` 乳糖不耐症 
+    - `lactose intolerance`
+      - 乳糖不耐症 
   - 例句
     - `Somewhat less than 40% of people in the world retain the ability to digest lactose after childhood.`
       - 全世界大约不到40%的成年人能够在童年过后保留消化乳糖的能力。

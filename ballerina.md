@@ -1,13 +1,17 @@
 - ballerina
   - 发音
-    - 英 `/bælə'riːnə/`
-    - 美 `/,bælə'rinə/`
+    - 英
+      - `/bælə'riːnə/`
+    - 美
+      - `/,bælə'rinə/`
   - 词义
-    - n. 芭蕾舞女演员，芭蕾舞女
-    - `a woman who dances in ballets`
+    - n.
+      - 芭蕾舞女演员，芭蕾舞女
+        - `a woman who dances in ballets`
   - 同根词
     - adj.
-      - `balletic` 似芭蕾舞的
+      - `balletic`
+        - 似芭蕾舞的
   - 例句
     - `She became a ballerina.`
       - 她成了一名演主角的芭蕾舞女演员。

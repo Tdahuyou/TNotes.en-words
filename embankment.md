@@ -1,16 +1,21 @@
 - embankment
   - 发音
-    - 英 `/ɪm'bæŋkm(ə)nt; em-/`
-    - 美 `/ɪm'bæŋkmənt/`
+    - 英
+      - `/ɪm'bæŋkm(ə)nt; em-/`
+    - 美
+      - `/ɪm'bæŋkmənt/`
   - 词义
-    - n. 路堤；堤防
-    - `a wide wall of earth or stones built to stop water from flooding an area, or to support a road or railway`
+    - n.
+      - 路堤；堤防
+        - `a wide wall of earth or stones built to stop water from flooding an area, or to support a road or railway`
   - 同根词
     - vt.
-      - `embank` 筑堤围堵；以堤围绕；以堤防堵挡
+      - `embank`
+        - 筑堤围堵；以堤围绕；以堤防堵挡
   - 近义词
-    - n. [交]路堤；堤防
-      - `dike`
+    - n.
+      - [交]路堤；堤防
+        - `dike`
   - 例句
     - `They climbed a steep embankment.`
       - 他们爬上了一个陡峭的堤岸。

@@ -1,10 +1,13 @@
 - microfilm
   - 发音
-    - 英 `/'maɪkrə(ʊ)fɪlm/`
-    - 美 `/'maɪkrofɪlm/`
+    - 英
+      - `/'maɪkrə(ʊ)fɪlm/`
+    - 美
+      - `/'maɪkrofɪlm/`
   - 词义
-    - n. 微缩胶片
-    - `a type of film on which pictures and writing can be made very small, so that large amounts can be stored easily`
+    - n.
+      - 微缩胶片
+        - `a type of film on which pictures and writing can be made very small, so that large amounts can be stored easily`
   - 例句
     - `It was to harbor drawers brimming with reference books, microfilm and bibliographic cards.`
       - 操作台的抽屉里塞满了参考书、缩微胶片和各种书目卡片。

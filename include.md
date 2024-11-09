@@ -1,27 +1,36 @@
 - include
   - 发音
-    - 英 `/ɪn'kluːd/`
-    - 美 `/ɪn'klud/`
+    - 英
+      - `/ɪn'kluːd/`
+    - 美
+      - `/ɪn'klud/`
   - 词义
-    - v. 包括；把……列为一部分
-    - `if one thing includes another, the second thing is part of the first`
+    - v.
+      - 包括；把……列为一部分
+        - `if one thing includes another, the second thing is part of the first`
   - 记忆
     - in(进入)+clude(关)→关进里面→包括， 包含
   - 同根词
     - adj.
-      - `inclusive` 包括的，包含的
-      - `included` 包括的；[植] 内藏的
+      - `inclusive`
+        - 包括的，包含的
+      - `included`
+        - 包括的；[植] 内藏的
     - n.
-      - `inclusion` 包含；内含物
+      - `inclusion`
+        - 包含；内含物
     - v.
-      - `included` 包括（include的过去式和过去分词）
+      - `included`
+        - 包括（include的过去式和过去分词）
   - 近义词
-    - vt. 包含，包括
-      - `involve`
-      - `contain`
-      - `comprise`
+    - vt.
+      - 包含，包括
+        - `involve`
+        - `contain`
+        - `comprise`
   - 短语
-    - `include in` 包括在…中 
+    - `include in`
+      - 包括在…中 
   - 例句
     - `Does the price include postage?`
       - 这个价格包含邮费吗？

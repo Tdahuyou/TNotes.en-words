@@ -1,9 +1,12 @@
 - Afghanistan
   - 发音
-    - 英 `/æfˈɡænɪˌstɑːn/`
-    - 美 `/æf'gænə,stæn/`
+    - 英
+      - `/æfˈɡænɪˌstɑːn/`
+    - 美
+      - `/æf'gænə,stæn/`
   - 词义
-    - n. 阿富汗(西南亚国家)
+    - n.
+      - 阿富汗(西南亚国家)
   - 例句
     - `We have a factory in Afghanistan.`
       - 在阿富汗我们有一个工厂。

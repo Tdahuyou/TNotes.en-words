@@ -1,20 +1,26 @@
 - mendicant
   - 发音
-    - 英 `/'mendikənt/`
-    - 美 `/'mɛndɪkənt/`
+    - 英
+      - `/'mendikənt/`
+    - 美
+      - `/'mɛndɪkənt/`
   - 词义
-    - n. 乞丐
-    - `someone who asks people for money in order to live, usually for religious reasons`
+    - n.
+      - 乞丐
+        - `someone who asks people for money in order to live, usually for religious reasons`
   - 记忆
     - mend (修补； 改善) + icant → 乞丐的衣服缝缝补补又十年 → 乞丐
   - 同根词
     - n.
-      - `mendicancy` 乞丐生活；乞讨；托钵
-      - `mendicity` 化缘；乞丐生活（等于mendicancy）
+      - `mendicancy`
+        - 乞丐生活；乞讨；托钵
+      - `mendicity`
+        - 化缘；乞丐生活（等于mendicancy）
   - 近义词
-    - n. 乞丐；托钵僧
-      - `panhandler`
-      - `begger`
+    - n.
+      - 乞丐；托钵僧
+        - `panhandler`
+        - `begger`
   - 例句
     - `The mendicant say: "if I called ten sound?" Women happy replied: "that I will give one thousand! "`
       - 乞丐说：“我要是叫十声呢？”富婆开心答道：“那我就给一千！”

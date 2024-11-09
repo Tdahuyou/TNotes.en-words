@@ -1,22 +1,28 @@
 - clever
   - 发音
-    - 英 `/'klevə/`
-    - 美 `/'klɛvɚ/`
+    - 英
+      - `/'klevə/`
+    - 美
+      - `/'klɛvɚ/`
   - 词义
-    - adj. 聪明的；机灵的
-    - `able to learn and understand things quickly`
+    - adj.
+      - 聪明的；机灵的
+        - `able to learn and understand things quickly`
   - 同根词
     - adv.
-      - `cleverly` 聪明地
+      - `cleverly`
+        - 聪明地
     - n.
-      - `cleverness` 聪明；机灵
+      - `cleverness`
+        - 聪明；机灵
   - 近义词
-    - adj. 聪明的；机灵的；熟练的
-      - `intelligent`
-      - `experienced`
-      - `wise`
-      - `skilled`
-      - `smart`
+    - adj.
+      - 聪明的；机灵的；熟练的
+        - `intelligent`
+        - `experienced`
+        - `wise`
+        - `skilled`
+        - `smart`
   - 例句
     - `a clever man`
       - 聪明的人

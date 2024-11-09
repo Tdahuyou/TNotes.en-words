@@ -1,9 +1,12 @@
 - exurban
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - adj. 城市远郊的
+    - adj.
+      - 城市远郊的
   - 例句
     - `Only a decade ago, the place was exurban rice paddies and lychee orchards.`
       - 十年前，这个地方只是一个城市的远郊，种植水稻和荔枝。

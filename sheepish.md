@@ -1,16 +1,21 @@
 - sheepish
   - 发音
-    - 英 `/'ʃiːpɪʃ/`
-    - 美 `/'ʃi:piʃ/`
+    - 英
+      - `/'ʃiːpɪʃ/`
+    - 美
+      - `/'ʃi:piʃ/`
   - 词义
-    - adj. 羞怯的；懦弱的
+    - adj.
+      - 羞怯的；懦弱的
   - 同根词
     - adv.
-      - `sheepishly` 羞怯地；愚蠢地
+      - `sheepishly`
+        - 羞怯地；愚蠢地
   - 近义词
-    - adj. 羞怯的；懦弱的
-      - `modest`
-      - `diffident`
+    - adj.
+      - 羞怯的；懦弱的
+        - `modest`
+        - `diffident`
   - 例句
     - `Sam looked a bit sheepish .`
       - 萨姆看上去有些局促不安。

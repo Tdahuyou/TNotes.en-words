@@ -1,35 +1,54 @@
 - crystallization
   - 发音
-    - 英 `/ˌkristəlai'zeiʃən/`
-    - 美 `/,krɪstlɪ'zeʃən/`
+    - 英
+      - `/ˌkristəlai'zeiʃən/`
+    - 美
+      - `/,krɪstlɪ'zeʃən/`
   - 词义
-    - n. 结晶
+    - n.
+      - 结晶
   - 同根词
     - adj.
-      - `crystal` 水晶的；透明的，清澈的
-      - `crystallized` 裹有糖霜的；蜜饯的
+      - `crystal`
+        - 水晶的；透明的，清澈的
+      - `crystallized`
+        - 裹有糖霜的；蜜饯的
     - n.
-      - `crystal` 结晶，晶体；水晶；水晶饰品
-      - `crystallisation` 结晶；结晶作用
-      - `crystallography` [晶体] 结晶学
-      - `crystallizing` 结晶，晶体形成
+      - `crystal`
+        - 结晶，晶体；水晶；水晶饰品
+      - `crystallisation`
+        - 结晶；结晶作用
+      - `crystallography`
+        - [晶体] 结晶学
+      - `crystallizing`
+        - 结晶，晶体形成
     - v.
-      - `crystallized` 结晶（crystalize的过去分词）
-      - `crystallizing` 使…结晶；具体化（crystallize的ing形式）
+      - `crystallized`
+        - 结晶（crystalize的过去分词）
+      - `crystallizing`
+        - 使…结晶；具体化（crystallize的ing形式）
     - vi.
-      - `crystallize` 结晶，形成结晶；明确；具体化
+      - `crystallize`
+        - 结晶，形成结晶；明确；具体化
     - vt.
-      - `crystallize` 使结晶；明确；使具体化；做成蜜饯
-      - `crystallise` 使…结晶；使具体化（等于crystallize）
+      - `crystallize`
+        - 使结晶；明确；使具体化；做成蜜饯
+      - `crystallise`
+        - 使…结晶；使具体化（等于crystallize）
   - 近义词
-    - n. [晶体]结晶化；具体化
-      - `shape`
-      - `embodiment`
+    - n.
+      - [晶体]结晶化；具体化
+        - `shape`
+        - `embodiment`
   - 短语
-    - `crystallization temperature` 结晶温度 
-    - `fractional crystallization` 分离结晶；分步结晶；分馏结晶作用；分级析晶 
-    - `water of crystallization` 结晶水 
-    - `extractive crystallization` 抽提结晶；萃取结晶 
+    - `crystallization temperature`
+      - 结晶温度 
+    - `fractional crystallization`
+      - 分离结晶；分步结晶；分馏结晶作用；分级析晶 
+    - `water of crystallization`
+      - 结晶水 
+    - `extractive crystallization`
+      - 抽提结晶；萃取结晶 
   - 例句
     - `Mixed with other plasticizers, volatile and can overcome the disadvantages such as low temperature crystallization.`
       - 与其他增塑剂混用，可以克服挥发性大和低温结晶化等缺点。

@@ -1,12 +1,16 @@
 - bromine
   - 发音
-    - 英 `/'brəʊmiːn/`
-    - 美 `/'bromin/`
+    - 英
+      - `/'brəʊmiːn/`
+    - 美
+      - `/'bromin/`
   - 词义
-    - n. [化]溴
-    - `a pungent dark red volatile liquid element of the halogen series that occurs in natural brine and is used in the production of chemicals, esp ethylene dibromide`
+    - n.
+      - [化]溴
+        - `a pungent dark red volatile liquid element of the halogen series that occurs in natural brine and is used in the production of chemicals, esp ethylene dibromide`
   - 短语
-    - `bromine water` [化]溴水 
+    - `bromine water`
+      - [化]溴水 
   - 例句
     - `In this way a bromine 'handle' for adding extra resveratrol units can be placed in one position or in two positions in a controlled manner.`
       - 通过这种方法，一个用于结合其他白藜芦醇单元的溴“把手”就可以可控地放置在一个或两个位置。

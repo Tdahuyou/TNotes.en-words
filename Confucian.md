@@ -1,12 +1,16 @@
 - Confucian
   - 发音
-    - 英 `/kən'fju:ʃjən/`
-    - 美 `/kən'fjʊʃən/`
+    - 英
+      - `/kən'fju:ʃjən/`
+    - 美
+      - `/kən'fjʊʃən/`
   - 词义
-    - adj. 孔子的，儒家的；儒家学说的
-    - `Confucian means relating to Confucianism`
-    - n. 儒家，儒家学者；孔子的门徒
-    - `A Confucian is someone who believes in Confucianism`
+    - adj.
+      - 孔子的，儒家的；儒家学说的
+        - `Confucian means relating to Confucianism`
+    - n.
+      - 儒家，儒家学者；孔子的门徒
+        - `A Confucian is someone who believes in Confucianism`
   - 记忆
     - “孔夫子”
   - 例句

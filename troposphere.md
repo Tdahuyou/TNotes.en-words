@@ -1,10 +1,13 @@
 - troposphere
   - 发音
-    - 英 `/'troupəsfɪr/`
-    - 美 `/'tropəsfɪr/`
+    - 英
+      - `/'troupəsfɪr/`
+    - 美
+      - `/'tropəsfɪr/`
   - 词义
-    - n. 对流层
-    - `the lowest atmospheric layer, about 18 kilometres (11 miles) thick at the equator to about 6 km (4 miles) at the Poles, in which air temperature decreases normally with height at about 6.5°C per km `
+    - n.
+      - 对流层
+        - `the lowest atmospheric layer, about 18 kilometres (11 miles) thick at the equator to about 6 km (4 miles) at the Poles, in which air temperature decreases normally with height at about 6.5°C per km `
   - 例句
     - `The orange layer is known as the troposphere, where all of the weather and clouds are generated and contained.`
       - 橘黄色的那一层被称为“对流层”，那里是所有的气候状况和云层形成和演变的地方。

@@ -1,27 +1,41 @@
 - characterize
   - 发音
-    - 英 `/'kærəktəraɪz/`
-    - 美 `/'kærəktə'raɪz/`
+    - 英
+      - `/'kærəktəraɪz/`
+    - 美
+      - `/'kærəktə'raɪz/`
   - 词义
-    - vt. 以…为特征；刻画；描述
-    - `to describe the qualities of someone or something in a particular way`
+    - vt.
+      - 以…为特征；刻画；描述
+        - `to describe the qualities of someone or something in a particular way`
   - 同根词
     - adj.
-      - `characteristic` 典型的；特有的；表示特性的
-      - `characterized` 以…为特点的
-      - `characterless` 无个性的；缺乏特征的；平凡的
+      - `characteristic`
+        - 典型的；特有的；表示特性的
+      - `characterized`
+        - 以…为特点的
+      - `characterless`
+        - 无个性的；缺乏特征的；平凡的
     - adv.
-      - `characteristically` 典型地；表示特性地
+      - `characteristically`
+        - 典型地；表示特性地
     - n.
-      - `character` 性格，品质；特性；角色；[计] 字符
-      - `characteristic` 特征；特性；特色
-      - `characterization` 描述；特性描述
-      - `characterisation` （英）特性描述；性格化（等于characterization）
+      - `character`
+        - 性格，品质；特性；角色；[计] 字符
+      - `characteristic`
+        - 特征；特性；特色
+      - `characterization`
+        - 描述；特性描述
+      - `characterisation`
+        - （英）特性描述；性格化（等于characterization）
     - vi.
-      - `characterise` 在文艺作品中塑造人物；描绘性格
+      - `characterise`
+        - 在文艺作品中塑造人物；描绘性格
     - vt.
-      - `character` 印，刻；使具有特征
-      - `characterise` 刻划……的性格；表示……的特性
+      - `character`
+        - 印，刻；使具有特征
+      - `characterise`
+        - 刻划……的性格；表示……的特性
   - 例句
     - `Bright colours characterize his paintings.`
       - 明亮的色彩是他绘画作品的特点。

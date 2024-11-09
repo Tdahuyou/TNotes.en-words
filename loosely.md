@@ -1,25 +1,35 @@
 - loosely
   - 发音
-    - 英 `/'lu:slɪ/`
-    - 美 `/'lusli/`
+    - 英
+      - `/'lu:slɪ/`
+    - 美
+      - `/'lusli/`
   - 词义
-    - adv. 松散地
+    - adv.
+      - 松散地
   - 同根词
     - adj.
-      - `loose` 宽松的；散漫的；不牢固的；不精确的
+      - `loose`
+        - 宽松的；散漫的；不牢固的；不精确的
     - adv.
-      - `loose` 松散地
+      - `loose`
+        - 松散地
     - n.
-      - `loose` 放纵；放任；发射
-      - `looseness` 松动；松弛；漠然
+      - `loose`
+        - 放纵；放任；发射
+      - `looseness`
+        - 松动；松弛；漠然
     - vi.
-      - `loose` 变松；开火
+      - `loose`
+        - 变松；开火
     - vt.
-      - `loose` 释放；开船；放枪
+      - `loose`
+        - 释放；开船；放枪
   - 近义词
-    - adv. 宽松地；放荡地；轻率地
-      - `blindly`
-      - `dissolutely`
+    - adv.
+      - 宽松地；放荡地；轻率地
+        - `blindly`
+        - `dissolutely`
   - 例句
     - `If you actually combine the best ideas of both, you end up with an extensible and modular and loosely coupled system.`
       - 如果你真的结合二者的最佳思想，就可以得到一个可扩展的、模块化的、松散耦合的系统。

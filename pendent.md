@@ -1,26 +1,37 @@
 - pendent
   - 发音
-    - 英 `/'pend(ə)nt/`
-    - 美 `/'pɛndənt/`
+    - 英
+      - `/'pend(ə)nt/`
+    - 美
+      - `/'pɛndənt/`
   - 词义
-    - adj. 悬而未决的；下垂的；未定的；向外伸出的
-    - `hanging from something`
+    - adj.
+      - 悬而未决的；下垂的；未定的；向外伸出的
+        - `hanging from something`
   - 同根词
     - adj.
-      - `pending` 未决定的；行将发生的
-      - `pendulous` 下垂的，悬垂的；摇摆的
-      - `pendentive` 穹隅的
+      - `pending`
+        - 未决定的；行将发生的
+      - `pendulous`
+        - 下垂的，悬垂的；摇摆的
+      - `pendentive`
+        - 穹隅的
     - n.
-      - `pendant` 下垂物，垂饰
-      - `pendentive` 穹隅
+      - `pendant`
+        - 下垂物，垂饰
+      - `pendentive`
+        - 穹隅
     - prep.
-      - `pending` 在…期间；直到…时为止；在等待…之际
+      - `pending`
+        - 在…期间；直到…时为止；在等待…之际
     - v.
-      - `pending` 待定；悬而不决（pend的ing形式）
+      - `pending`
+        - 待定；悬而不决（pend的ing形式）
   - 近义词
-    - adj. 悬而未决的；[昆]下垂的；未定的；向外伸出的
-      - `nutant`
-      - `droopy`
+    - adj.
+      - 悬而未决的；[昆]下垂的；未定的；向外伸出的
+        - `nutant`
+        - `droopy`
   - 例句
     - `a pendent lamp`
       - 吊灯

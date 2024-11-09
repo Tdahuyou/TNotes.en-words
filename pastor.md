@@ -1,22 +1,30 @@
 - pastor
   - 发音
-    - 英 `/'pɑːstə/`
-    - 美 `/'pæstɚ/`
+    - 英
+      - `/'pɑːstə/`
+    - 美
+      - `/'pæstɚ/`
   - 词义
-    - n. 牧师
-    - `a Christian priest in some Protestant churches`
+    - n.
+      - 牧师
+        - `a Christian priest in some Protestant churches`
   - 同根词
     - adj.
-      - `pastoral` 牧师的；牧人的；田园生活的；乡村的
+      - `pastoral`
+        - 牧师的；牧人的；田园生活的；乡村的
     - n.
-      - `pastoral` 牧歌；田园诗；田园景色
-      - `pastorate` 牧师团；牧师职务
-      - `pastorship` 牧师职；牧师的教区
+      - `pastoral`
+        - 牧歌；田园诗；田园景色
+      - `pastorate`
+        - 牧师团；牧师职务
+      - `pastorship`
+        - 牧师职；牧师的教区
   - 近义词
-    - n. 牧师
-      - `minister`
-      - `priest`
-      - `preacher`
+    - n.
+      - 牧师
+        - `minister`
+        - `priest`
+        - `preacher`
   - 例句
     - `the pastor of Carr’s Lane Congregational church`
       - 卡尔里公理会教堂的牧师

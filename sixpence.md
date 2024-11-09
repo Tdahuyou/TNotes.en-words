@@ -1,18 +1,24 @@
 - sixpence
   - 发音
-    - 英 `/'sɪksp(ə)ns/`
-    - 美 `/'sɪkspəns/`
+    - 英
+      - `/'sɪksp(ə)ns/`
+    - 美
+      - `/'sɪkspəns/`
   - 词义
-    - n. （英）六便士（硬币）
-    - `a small silver-coloured coin worth six old  pennies  , used in Britain in the past`
+    - n.
+      - （英）六便士（硬币）
+        - `a small silver-coloured coin worth six old  pennies  , used in Britain in the past`
   - 同根词
     - adj.
-      - `sixpenny` 廉价的；六便士的
+      - `sixpenny`
+        - 廉价的；六便士的
     - n.
-      - `sixpenny` 六便士一本的书；电影院的六便士座位；六便士硬币
+      - `sixpenny`
+        - 六便士一本的书；电影院的六便士座位；六便士硬币
   - 近义词
-    - n. （英）六便士（硬币）
-      - `tanner`
+    - n.
+      - （英）六便士（硬币）
+        - `tanner`
   - 例句
     - `I allowed the two pennies to fall against the sixpence in my pocket.`
       - 我把口袋里的两个便士跟六便士撞在一块。

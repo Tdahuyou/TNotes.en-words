@@ -1,6 +1,9 @@
 - paleoecologist
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 古生态学家
+    - n.
+      - 古生态学家

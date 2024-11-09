@@ -1,25 +1,35 @@
 - fingernail
   - 发音
-    - 英 `/'fɪŋgəneɪl/`
-    - 美 `/'fɪŋɡɚnel/`
+    - 英
+      - `/'fɪŋgəneɪl/`
+    - 美
+      - `/'fɪŋɡɚnel/`
   - 词义
-    - n. 手指甲
-    - `the hard flat part that covers the top end of your finger`
+    - n.
+      - 手指甲
+        - `the hard flat part that covers the top end of your finger`
   - 记忆
     - finger(指头)+nail(指甲)→手指甲
   - 同根词
     - adj.
-      - `fingered` 指状的；有指的
+      - `fingered`
+        - 指状的；有指的
     - n.
-      - `finger` 手指；指针，指状物
-      - `fingering` 指法；用指摸弄；手指弹奏；指法符号；细绒线
+      - `finger`
+        - 手指；指针，指状物
+      - `fingering`
+        - 指法；用指摸弄；手指弹奏；指法符号；细绒线
     - v.
-      - `fingering` 用手指拨弄（finger的ing形式）
-      - `fingered` 用手指触摸；指出；谴责；用指弹奏（finger的过去分词）
+      - `fingering`
+        - 用手指拨弄（finger的ing形式）
+      - `fingered`
+        - 用手指触摸；指出；谴责；用指弹奏（finger的过去分词）
     - vi.
-      - `finger` 用指触摸；拨弄
+      - `finger`
+        - 用指触摸；拨弄
     - vt.
-      - `finger` 伸出；用手指拨弄
+      - `finger`
+        - 伸出；用手指拨弄
   - 例句
     - `It takes about 150 days to grow out a full length fingernail.`
       - 大约150天的时间就可以长一个完整的指甲出来。

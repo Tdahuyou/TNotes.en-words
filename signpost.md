@@ -1,14 +1,18 @@
 - signpost
   - 发音
-    - 英 `/'saɪnpəʊst/`
-    - 美 `/'saɪnpost/`
+    - 英
+      - `/'saɪnpəʊst/`
+    - 美
+      - `/'saɪnpost/`
   - 词义
-    - n. 路标；指示牌
-    - `a sign at the side of a road showing directions and distances`
+    - n.
+      - 路标；指示牌
+        - `a sign at the side of a road showing directions and distances`
   - 近义词
-    - n. 路标；指示牌
-      - `roadmap`
-      - `street sign`
+    - n.
+      - 路标；指示牌
+        - `roadmap`
+        - `street sign`
   - 例句
     - `I’m sure that signpost is pointing the wrong way.`
       - 我敢肯定那块路标指错了方向。

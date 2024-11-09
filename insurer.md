@@ -1,28 +1,40 @@
 - insurer
   - 发音
-    - 英 `/ɪn'ʃʊərə/`
-    - 美 `/ɪn'ʃʊrɚ/`
+    - 英
+      - `/ɪn'ʃʊərə/`
+    - 美
+      - `/ɪn'ʃʊrɚ/`
   - 词义
-    - n. 保险公司；承保人
-    - `a person or company that provides insurance`
+    - n.
+      - 保险公司；承保人
+        - `a person or company that provides insurance`
   - 同根词
     - adj.
-      - `insured` 已投保的
-      - `insurable` 可保险的，适合保险的
+      - `insured`
+        - 已投保的
+      - `insurable`
+        - 可保险的，适合保险的
     - n.
-      - `insurance` 保险；保险费；保险契约；赔偿金
-      - `insured` 被保险人
-      - `insurability` [保险] 可保险性
+      - `insurance`
+        - 保险；保险费；保险契约；赔偿金
+      - `insured`
+        - 被保险人
+      - `insurability`
+        - [保险] 可保险性
     - v.
-      - `insured` 确保；给…保险（insure的过去式和过去分词）
+      - `insured`
+        - 确保；给…保险（insure的过去式和过去分词）
     - vi.
-      - `insure` 确保；投保
+      - `insure`
+        - 确保；投保
     - vt.
-      - `insure` 确保，保证；给…保险
+      - `insure`
+        - 确保，保证；给…保险
   - 近义词
-    - n. [保险]保险公司；承保人
-      - `insurance company`
-      - `insurance carrier`
+    - n.
+      - [保险]保险公司；承保人
+        - `insurance company`
+        - `insurance carrier`
   - 例句
     - `This alternative would have to operate as any other insurer, on the basis of the premiums it collects.`
       - 这个选项如同其他的保险公司一样，依靠它收取的保费生存。

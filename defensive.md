@@ -1,43 +1,68 @@
 - defensive
   - 发音
-    - 英 `/dɪ'fensɪv/`
-    - 美 `/dɪ'fɛnsɪv/`
+    - 英
+      - `/dɪ'fensɪv/`
+    - 美
+      - `/dɪ'fɛnsɪv/`
   - 词义
-    - n&a. 防御(的)
+    - n&a.
+      - 防御(的)
   - 同根词
     - adj.
-      - `defending` 卫冕的；防御中的；防守型的
-      - `defensible` 可防御的；可辩护的；可拥护的
-      - `defenseless` 无防备的
-      - `defenceless` （英）无防御的；无保护的
-      - `defendable` 可防御的
+      - `defending`
+        - 卫冕的；防御中的；防守型的
+      - `defensible`
+        - 可防御的；可辩护的；可拥护的
+      - `defenseless`
+        - 无防备的
+      - `defenceless`
+        - （英）无防御的；无保护的
+      - `defendable`
+        - 可防御的
     - adv.
-      - `defensively` 防御地；守势地
+      - `defensively`
+        - 防御地；守势地
     - n.
-      - `defense` 防卫，防护；防御措施；防守；vt. 谋划抵御
-      - `defence` 防御；防卫；答辩；防卫设备
-      - `defender` 防卫者，守卫者；辩护者；拥护者；卫冕者
-      - `defensiveness` 防御；防御性
-      - `defenselessness` 无防御
-      - `defensibility` 防卫的可能性；可防御性
+      - `defense`
+        - 防卫，防护；防御措施；防守；vt. 谋划抵御
+      - `defence`
+        - 防御；防卫；答辩；防卫设备
+      - `defender`
+        - 防卫者，守卫者；辩护者；拥护者；卫冕者
+      - `defensiveness`
+        - 防御；防御性
+      - `defenselessness`
+        - 无防御
+      - `defensibility`
+        - 防卫的可能性；可防御性
     - v.
-      - `defending` 防护；防卫（defend的ing形式）
+      - `defending`
+        - 防护；防卫（defend的ing形式）
     - vi.
-      - `defend` 保卫；防守
+      - `defend`
+        - 保卫；防守
     - vt.
-      - `defend` 辩护；防护
+      - `defend`
+        - 辩护；防护
   - 近义词
-    - adj. 自卫的；防御用的
-      - `self-defensive`
-    - n. 防御；守势
-      - `defence against`
-      - `phylaxis`
+    - adj.
+      - 自卫的；防御用的
+        - `self-defensive`
+    - n.
+      - 防御；守势
+        - `defence against`
+        - `phylaxis`
   - 短语
-    - `on the defensive` 处于防御状态 
-    - `defensive line` [橄榄球]防线 
-    - `defensive end` 防守端锋；防守边锋 
-    - `defensive strategy` 防卫策略；防守战略 
-    - `defensive medicine` 防御式医疗 
+    - `on the defensive`
+      - 处于防御状态 
+    - `defensive line`
+      - [橄榄球]防线 
+    - `defensive end`
+      - 防守端锋；防守边锋 
+    - `defensive strategy`
+      - 防卫策略；防守战略 
+    - `defensive medicine`
+      - 防御式医疗 
   - 例句
     - `This is an example of defensive programming.`
       - 这是一个防御编程的实例。

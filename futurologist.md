@@ -1,9 +1,12 @@
 - futurologist
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 未来学家
+    - n.
+      - 未来学家
   - 例句
     - `Its enthusiastic authors include Zhao Qizheng, a former top Party propaganda official, and John Naisbitt, an American futurologist.`
       - 该书满腔热情的作者包括中共前最高宣传官员赵启正，和美国未来学家约翰·奈斯比特。

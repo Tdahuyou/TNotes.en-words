@@ -1,29 +1,41 @@
 - surgeon
   - 发音
-    - 英 `/'sɜːrdʒən/`
-    - 美 `/'sɝdʒən/`
+    - 英
+      - `/'sɜːrdʒən/`
+    - 美
+      - `/'sɝdʒən/`
   - 词义
-    - n. 外科医师
-    - `a doctor who does operations in a hospital`
+    - n.
+      - 外科医师
+        - `a doctor who does operations in a hospital`
   - 记忆
     - surge(波动) + on → 做外科医师， 情绪不能太波动 → 外科医师
   - 同根词
     - adj.
-      - `surgical` 外科的；手术上的
+      - `surgical`
+        - 外科的；手术上的
     - adv.
-      - `surgically` 如外科手术般地
+      - `surgically`
+        - 如外科手术般地
     - n.
-      - `surgery` 外科；外科手术；手术室；诊疗室
-      - `surgical` 外科手术；外科病房
+      - `surgery`
+        - 外科；外科手术；手术室；诊疗室
+      - `surgical`
+        - 外科手术；外科病房
   - 近义词
-    - n. 外科医生
-      - `sawbones`
-      - `chirurgeon`
+    - n.
+      - 外科医生
+        - `sawbones`
+        - `chirurgeon`
   - 短语
-    - `plastic surgeon` 整形外科医生 
-    - `surgeon general` 卫生局局长；军医处处长 
-    - `orthopedic surgeon` 整形外科医生；骨科医师 
-    - `veterinary surgeon` 兽医 
+    - `plastic surgeon`
+      - 整形外科医生 
+    - `surgeon general`
+      - 卫生局局长；军医处处长 
+    - `orthopedic surgeon`
+      - 整形外科医生；骨科医师 
+    - `veterinary surgeon`
+      - 兽医 
   - 例句
     - `...a heart surgeon.`
       - …一位心脏外科医生。

@@ -1,13 +1,17 @@
 - gratuity
   - 发音
-    - 英 `/grə'tjuːiti/`
-    - 美 `/ɡrə'tuəti/`
+    - 英
+      - `/grə'tjuːiti/`
+    - 美
+      - `/ɡrə'tuəti/`
   - 词义
-    - n. 赠物，赏钱
-    - `a small gift of money given to someone for a service they provided`
+    - n.
+      - 赠物，赏钱
+        - `a small gift of money given to someone for a service they provided`
   - 记忆
     - 滴水之恩 (gratitude) 当以涌泉相报 (gratuity) → 赠物
   - 近义词
-    - n. 赏钱，小费；赠物；[劳经]退职金
-      - `fee`
-      - `tip`
+    - n.
+      - 赏钱，小费；赠物；[劳经]退职金
+        - `fee`
+        - `tip`

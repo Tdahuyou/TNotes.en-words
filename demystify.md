@@ -1,12 +1,16 @@
 - demystify
   - 发音
-    - 英 `/ˌdiː'mɪstɪfaɪ/`
-    - 美 `/,di'mɪstɪfaɪ/`
+    - 英
+      - `/ˌdiː'mɪstɪfaɪ/`
+    - 美
+      - `/,di'mɪstɪfaɪ/`
   - 词义
-    - v. 减少…的神秘性
+    - v.
+      - 减少…的神秘性
   - 记忆
     - de(去掉) + mystify(使迷惑) → 去掉迷惑 → 减少…的神秘性
   - 近义词
-    - vt. 使非神秘化；阐明；启发
-      - `suggest`
-      - `illustrate`
+    - vt.
+      - 使非神秘化；阐明；启发
+        - `suggest`
+        - `illustrate`

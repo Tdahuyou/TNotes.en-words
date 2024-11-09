@@ -1,12 +1,16 @@
 - Austrian
   - 发音
-    - 英 `/undefined/`
-    - 美 `/'ɔstriən/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/'ɔstriən/`
   - 词义
-    - n. 奥地利人
-    - `someone from Austria`
-    - adj. 奥地利的,奥地利人的
-    - `relating to Austria or its people`
+    - n.
+      - 奥地利人
+        - `someone from Austria`
+    - adj.
+      - 奥地利的,奥地利人的
+        - `relating to Austria or its people`
   - 例句
     - `When I began to cough, I blamed it on the Austrian cigarettes.`
       - 当我开始咳嗽时，我把这事怪在抽奥地利的香烟上。

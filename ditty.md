@@ -1,14 +1,18 @@
 - ditty
   - 发音
-    - 英 `/'dɪtɪ/`
-    - 美 `/'dɪti/`
+    - 英
+      - `/'dɪtɪ/`
+    - 美
+      - `/'dɪti/`
   - 词义
-    - n. 小曲；小调
-    - `A ditty is a short or light-hearted song or poem`
+    - n.
+      - 小曲；小调
+        - `A ditty is a short or light-hearted song or poem`
   - 近义词
-    - n. 小曲；小调
-      - `minor`
-      - `canzonet`
+    - n.
+      - 小曲；小调
+        - `minor`
+        - `canzonet`
   - 例句
     - `Regardless, the little ditty conveyed foundational information in a happy little package.`
       - 不管怎样，这首小调在欢快的节奏下传递了基本的信息。

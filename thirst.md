@@ -1,31 +1,45 @@
 - thirst
   - 发音
-    - 英 `/θɜːst/`
-    - 美 `/θɝst/`
+    - 英
+      - `/θɜːst/`
+    - 美
+      - `/θɝst/`
   - 词义
-    - n. 口渴,热望
-    - `the feeling of wanting or needing a drink`
-    - v. 渴望
-    - `to be thirsty`
+    - n.
+      - 口渴,热望
+        - `the feeling of wanting or needing a drink`
+    - v.
+      - 渴望
+        - `to be thirsty`
   - 同根词
     - adj.
-      - `thirsty` 口渴的，口干的；渴望的，热望的
+      - `thirsty`
+        - 口渴的，口干的；渴望的，热望的
     - adv.
-      - `thirstily` 口渴地；如饥似渴地
+      - `thirstily`
+        - 口渴地；如饥似渴地
   - 近义词
-    - n. 渴望；口渴；热望
-      - `aspiration`
-      - `longing for`
-    - vi. 渴望；口渴
-      - `rare`
-      - `aspire`
+    - n.
+      - 渴望；口渴；热望
+        - `aspiration`
+        - `longing for`
+    - vi.
+      - 渴望；口渴
+        - `rare`
+        - `aspire`
   - 短语
-    - `thirst for` v. 渴望；热望 
-    - `thirst for knowledge` 渴望求知，求知欲 
-    - `have a thirst` [口语]想喝杯酒 
-    - `die of thirst` 口渴死 
-    - `thirst for revenge` 渴望复仇 
-    - `thirst after` 非常渴望 
+    - `thirst for`
+      - v. 渴望；热望 
+    - `thirst for knowledge`
+      - 渴望求知，求知欲 
+    - `have a thirst`
+      - [口语]想喝杯酒 
+    - `die of thirst`
+      - 口渴死 
+    - `thirst for revenge`
+      - 渴望复仇 
+    - `thirst after`
+      - 非常渴望 
   - 例句
     - `Ice water is the only thing that really quenches my thirst (= gets rid of it ) .`
       - 只有冰水才能让我真正解渴。

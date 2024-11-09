@@ -1,36 +1,52 @@
 - righteous
   - 发音
-    - 英 `/'raɪtʃəs/`
-    - 美 `/'raɪtʃəs/`
+    - 英
+      - `/'raɪtʃəs/`
+    - 美
+      - `/'raɪtʃəs/`
   - 词义
-    - adj. 正直的，公正的；正义的，正当的
-    - `strong feelings of anger when you think a situation is not morally right or fair`
+    - adj.
+      - 正直的，公正的；正义的，正当的
+        - `strong feelings of anger when you think a situation is not morally right or fair`
   - 记忆
     - right(正直， 公正) + eous → 正直的， 公正的
   - 同根词
     - adj.
-      - `right` 正确的；直接的；右方的
-      - `rightful` 合法的；正当的；公正的；正直的
+      - `right`
+        - 正确的；直接的；右方的
+      - `rightful`
+        - 合法的；正当的；公正的；正直的
     - adv.
-      - `right` 正确地；恰当地；彻底地
-      - `rightly` 正确地；恰当地；公正地；合适地
-      - `rightfully` 正当地；正直地
-      - `righteously` 正直地；公正地
+      - `right`
+        - 正确地；恰当地；彻底地
+      - `rightly`
+        - 正确地；恰当地；公正地；合适地
+      - `rightfully`
+        - 正当地；正直地
+      - `righteously`
+        - 正直地；公正地
     - n.
-      - `right` 正确；右边；正义
-      - `righteousness` 正义；正直；公正；正当
-      - `rightness` 公正；正直；廉正；贴切
-      - `rightfulness` 公正；合理；正直
+      - `right`
+        - 正确；右边；正义
+      - `righteousness`
+        - 正义；正直；公正；正当
+      - `rightness`
+        - 公正；正直；廉正；贴切
+      - `rightfulness`
+        - 公正；合理；正直
     - vi.
-      - `right` 复正；恢复平稳
+      - `right`
+        - 复正；恢复平稳
     - vt.
-      - `right` 纠正
+      - `right`
+        - 纠正
   - 近义词
-    - adj. 正义的；正直的；公正的
-      - `judicial`
-      - `straight`
-      - `just`
-      - `square`
+    - adj.
+      - 正义的；正直的；公正的
+        - `judicial`
+        - `straight`
+        - `just`
+        - `square`
   - 例句
     - `He was full of righteous indignation about the attack.`
       - 他对这次袭击事件义愤填膺。

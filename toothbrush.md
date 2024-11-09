@@ -1,12 +1,16 @@
 - toothbrush
   - 发音
-    - 英 `/'tuːθbrʌʃ/`
-    - 美 `/'tuθbrʌʃ/`
+    - 英
+      - `/'tuːθbrʌʃ/`
+    - 美
+      - `/'tuθbrʌʃ/`
   - 词义
-    - n. 牙刷
-    - `a small brush that you use for cleaning your teeth`
+    - n.
+      - 牙刷
+        - `a small brush that you use for cleaning your teeth`
   - 短语
-    - `electric toothbrush` 电动牙刷 
+    - `electric toothbrush`
+      - 电动牙刷 
   - 例句
     - `How do you choose your toothbrush?`
       - 你是如何选择你的牙刷的？

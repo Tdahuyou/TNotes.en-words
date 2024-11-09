@@ -1,29 +1,42 @@
 - bless
   - 发音
-    - 英 `/bles/`
-    - 美 `/blɛs/`
+    - 英
+      - `/bles/`
+    - 美
+      - `/blɛs/`
   - 词义
-    - v. 祝福,保佑
-    - `used to show that you are fond of someone, amused by them, or pleased by something they have done`
+    - v.
+      - 祝福,保佑
+        - `used to show that you are fond of someone, amused by them, or pleased by something they have done`
   - 同根词
     - adj.
-      - `blessed` 幸福的；受祝福的；神圣的
-      - `blest` 幸福的；被祝福的
+      - `blessed`
+        - 幸福的；受祝福的；神圣的
+      - `blest`
+        - 幸福的；被祝福的
     - adv.
-      - `blessedly` 神圣地；幸福地
+      - `blessedly`
+        - 神圣地；幸福地
     - n.
-      - `blessing` 祝福；赐福；祷告
-      - `blessedness` 幸福；福音
+      - `blessing`
+        - 祝福；赐福；祷告
+      - `blessedness`
+        - 幸福；福音
     - v.
-      - `blessing` 使幸福（bless的ing形式）；使神圣化；为…祈神赐福
-      - `blessed` 祝福（bless的过去分词）
-      - `blest` 祝福；保佑（bless的过去分词形式）
+      - `blessing`
+        - 使幸福（bless的ing形式）；使神圣化；为…祈神赐福
+      - `blessed`
+        - 祝福（bless的过去分词）
+      - `blest`
+        - 祝福；保佑（bless的过去分词形式）
   - 近义词
-    - vt. 祝福；保佑；赞美
-      - `celebrate`
-      - `praise`
+    - vt.
+      - 祝福；保佑；赞美
+        - `celebrate`
+        - `praise`
   - 短语
-    - `god bless` 上帝保佑 
+    - `god bless`
+      - 上帝保佑 
   - 例句
     - `He’s always willing to help. Bless him!`
       - 他一向乐于助人，愿上帝保佑他！

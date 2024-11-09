@@ -1,29 +1,41 @@
 - prevent
   - 发音
-    - 英 `/prɪ'vent/`
-    - 美 `/pri'vɛnt/`
+    - 英
+      - `/prɪ'vent/`
+    - 美
+      - `/pri'vɛnt/`
   - 词义
-    - v. 防止,预防
-    - `to stop something from happening, or stop someone from doing something`
+    - v.
+      - 防止,预防
+        - `to stop something from happening, or stop someone from doing something`
   - 同根词
     - adj.
-      - `preventive` 预防的，防止的
-      - `preventable` 可预防的；可阻止的；可防止的
-      - `prevenient` 预期的；以前的；预防的；先行的
+      - `preventive`
+        - 预防的，防止的
+      - `preventable`
+        - 可预防的；可阻止的；可防止的
+      - `prevenient`
+        - 预期的；以前的；预防的；先行的
     - n.
-      - `prevention` 预防；阻止；妨碍
-      - `preventive` 预防药；预防法
+      - `prevention`
+        - 预防；阻止；妨碍
+      - `preventive`
+        - 预防药；预防法
   - 近义词
-    - vt. 预防，防止；阻止
-      - `dispute`
-      - `stem`
-      - `block`
-    - vi. 妨碍，阻止
-      - `stem`
-      - `hinder from`
+    - vt.
+      - 预防，防止；阻止
+        - `dispute`
+        - `stem`
+        - `block`
+    - vi.
+      - 妨碍，阻止
+        - `stem`
+        - `hinder from`
   - 短语
-    - `prevent from` 阻止，制止；妨碍 
-    - `prevent and control pollution` 防治污染；预防和控制污染 
+    - `prevent from`
+      - 阻止，制止；妨碍 
+    - `prevent and control pollution`
+      - 防治污染；预防和控制污染 
   - 例句
     - `The rules are intended to prevent accidents.`
       - 这些规定旨在预防事故。

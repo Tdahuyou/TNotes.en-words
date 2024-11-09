@@ -1,14 +1,18 @@
 - corselet
   - 发音
-    - 英 `/'kɔːs(ə)lɪt/`
-    - 美 `/'kɔrslɪt/`
+    - 英
+      - `/'kɔːs(ə)lɪt/`
+    - 美
+      - `/'kɔrslɪt/`
   - 词义
-    - n. 盔甲,胸衣
-    - `a piece of armour for the top part of the body `
+    - n.
+      - 盔甲,胸衣
+        - `a piece of armour for the top part of the body `
   - 近义词
-    - n. 胸衣，妇女的胸衣；盔甲
-      - `mail`
-      - `armour`
+    - n.
+      - 胸衣，妇女的胸衣；盔甲
+        - `mail`
+        - `armour`
   - 例句
     - `Cutlass and corselet of steel, and his trusty sword of Damascus.`
       - 钢刀，盔甲，和他素来倚重的大马士革利剑。

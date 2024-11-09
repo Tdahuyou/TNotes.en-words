@@ -1,15 +1,19 @@
 - versus
   - 发音
-    - 英 `/'vɜːrsəs/`
-    - 美 `/'vɝsəs/`
+    - 英
+      - `/'vɜːrsəs/`
+    - 美
+      - `/'vɝsəs/`
   - 词义
-    - prep. 对，对抗；与…相对，与…相比
-    - `used to show that two people or teams are competing against each other in a game or court case`
+    - prep.
+      - 对，对抗；与…相对，与…相比
+        - `used to show that two people or teams are competing against each other in a game or court case`
   - 记忆
     - vers(转) + us → 转向→ 与…相对； 常缩写成vs
   - 近义词
-    - prep. 对；与...相对；对抗
-      - `in the teeth of`
+    - prep.
+      - 对；与...相对；对抗
+        - `in the teeth of`
   - 例句
     - `the New York Knicks versus the LA Lakers`
       - 纽约尼克斯队对洛杉矶湖人队

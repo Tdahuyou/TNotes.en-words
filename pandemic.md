@@ -1,19 +1,24 @@
 - pandemic
   - 发音
-    - 英 `/pæn'demik/`
-    - 美 `/pæn'dɛmɪk/`
+    - 英
+      - `/pæn'demik/`
+    - 美
+      - `/pæn'dɛmɪk/`
   - 词义
-    - adj. 大范围流行的
+    - adj.
+      - 大范围流行的
   - 记忆
     - pan (全部) + dem (人民) + ic → 全国人民动起来 → 大范围流行的
   - 近义词
-    - adj. [医]全国流行的；普遍的
-      - `widespread`
-      - `universal`
-      - `ruling`
-      - `generalized`
+    - adj.
+      - [医]全国流行的；普遍的
+        - `widespread`
+        - `universal`
+        - `ruling`
+        - `generalized`
   - 短语
-    - `pandemic influenza` 大流行性流感 
+    - `pandemic influenza`
+      - 大流行性流感 
   - 例句
     - `As announced earlier this month, the world is at the start of the 2009 influenza pandemic.`
       - 正如我们在本月初宣布的那样，世界已进入2009年流感大流行初期。

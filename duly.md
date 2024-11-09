@@ -1,20 +1,26 @@
 - duly
   - 发音
-    - 英 `/'djuːlɪ/`
-    - 美 `/'dʊli/`
+    - 英
+      - `/'djuːlɪ/`
+    - 美
+      - `/'dʊli/`
   - 词义
-    - adv. 适当地；充分地；按时地
-    - `in the proper or expected way`
-    - n. (Duly)人名；(英)杜利
+    - adv.
+      - 适当地；充分地；按时地
+        - `in the proper or expected way`
+    - n.
+      - (Duly)人名；(英)杜利
   - 近义词
-    - adv. 适当地；充分地；按时地
-      - `properly`
-      - `fully`
-      - `well`
-      - `adequately`
-      - `appropriately`
+    - adv.
+      - 适当地；充分地；按时地
+        - `properly`
+        - `fully`
+        - `well`
+        - `adequately`
+        - `appropriately`
   - 短语
-    - `duly authorized` 经正式授权的 
+    - `duly authorized`
+      - 经正式授权的 
   - 例句
     - `Here are your travel documents, all duly signed.`
       - 这是你的旅行证件，都签好了。

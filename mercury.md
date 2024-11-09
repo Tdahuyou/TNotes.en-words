@@ -1,28 +1,40 @@
 - mercury
   - 发音
-    - 英 `/'mɜːrkjəri/`
-    - 美 `/undefined/`
+    - 英
+      - `/'mɜːrkjəri/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. [M-]水星；水银，汞
-    - `Mercury is a silver-coloured liquid metal that is used especially in thermometers and barometers`
+    - n.
+      - [M-]水星；水银，汞
+        - `Mercury is a silver-coloured liquid metal that is used especially in thermometers and barometers`
   - 记忆
     - mer(音似： 没) + cury(看做cure， 治愈) → 水银中毒没治了 → 水银
   - 同根词
     - adj.
-      - `mercurial` 水银的；水星的；墨丘利神的；雄辩机智的；活泼善变的
-      - `mercuric` [无化] 汞的；水银的
-      - `mercurous` 水银的；[无化] 亚汞的；含水银的
+      - `mercurial`
+        - 水银的；水星的；墨丘利神的；雄辩机智的；活泼善变的
+      - `mercuric`
+        - [无化] 汞的；水银的
+      - `mercurous`
+        - 水银的；[无化] 亚汞的；含水银的
     - n.
-      - `mercurial` 汞剂；水银剂
+      - `mercurial`
+        - 汞剂；水银剂
   - 近义词
-    - n. [化学]水银；水银柱；精神
-      - `energy`
-      - `spirit`
-      - `soul`
-      - `mind`
-      - `genius`
+    - n.
+      - [化学]水银；水银柱；精神
+        - `energy`
+        - `spirit`
+        - `soul`
+        - `mind`
+        - `genius`
   - 短语
-    - `mercury vapor` 汞蒸气；水银蒸汽 
-    - `mercury lamp` 汞灯；水银灯 
-    - `mercury contamination` 汞污染 
-    - `mercury chloride` 氯化汞 
+    - `mercury vapor`
+      - 汞蒸气；水银蒸汽 
+    - `mercury lamp`
+      - 汞灯；水银灯 
+    - `mercury contamination`
+      - 汞污染 
+    - `mercury chloride`
+      - 氯化汞 

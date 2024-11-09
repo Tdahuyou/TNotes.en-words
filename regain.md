@@ -1,24 +1,32 @@
 - regain
   - 发音
-    - 英 `/rɪ'geɪn/`
-    - 美 `/rɪ'ɡen/`
+    - 英
+      - `/rɪ'geɪn/`
+    - 美
+      - `/rɪ'ɡen/`
   - 词义
-    - v. 收回；恢复
-    - `to get something back, especially an ability or quality, that you have lost`
+    - v.
+      - 收回；恢复
+        - `to get something back, especially an ability or quality, that you have lost`
   - 近义词
-    - vt. 恢复；重新获得；收回
-      - `restore`
-      - `repair`
-      - `resume`
-    - vi. 上涨
-      - `advance`
-      - `to go up`
-    - n. 收复；取回
-      - `retrieval`
-      - `resumption`
+    - vt.
+      - 恢复；重新获得；收回
+        - `restore`
+        - `repair`
+        - `resume`
+    - vi.
+      - 上涨
+        - `advance`
+        - `to go up`
+    - n.
+      - 收复；取回
+        - `retrieval`
+        - `resumption`
   - 短语
-    - `moisture regain` 吸湿（性）；回潮率；回潮 
-    - `regain consciousness` 苏醒；恢复知觉 
+    - `moisture regain`
+      - 吸湿（性）；回潮率；回潮 
+    - `regain consciousness`
+      - 苏醒；恢复知觉 
   - 例句
     - `The family never quite regained its former influence.`
       - 这个家族再也没有恢复往昔的影响力。

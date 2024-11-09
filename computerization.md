@@ -1,32 +1,51 @@
 - computerization
   - 发音
-    - 英 `/kəmˌpjuːtərai'zeiʃən/`
-    - 美 `/undefined/`
+    - 英
+      - `/kəmˌpjuːtərai'zeiʃən/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 计算机化
+    - n.
+      - 计算机化
   - 同根词
     - adj.
-      - `computational` 计算的
-      - `computerized` 电脑的；电脑化的；用电脑处理的
-      - `computerised` 电脑化的；计算化的
-      - `computable` 可计算的
+      - `computational`
+        - 计算的
+      - `computerized`
+        - 电脑的；电脑化的；用电脑处理的
+      - `computerised`
+        - 电脑化的；计算化的
+      - `computable`
+        - 可计算的
     - n.
-      - `computer` 计算机；电脑；电子计算机
-      - `computation` 估计，计算
-      - `compute` 计算；估计；推断
-      - `computing` 计算；处理；从事电脑工作
+      - `computer`
+        - 计算机；电脑；电子计算机
+      - `computation`
+        - 估计，计算
+      - `compute`
+        - 计算；估计；推断
+      - `computing`
+        - 计算；处理；从事电脑工作
     - v.
-      - `computing` 计算（compute的现在分词形式）
-      - `computerized` 用电子计算机控制（computerize的过去分词）
-      - `computerised` 使电脑化（computerise的过去分词形式）；用电脑处理
+      - `computing`
+        - 计算（compute的现在分词形式）
+      - `computerized`
+        - 用电子计算机控制（computerize的过去分词）
+      - `computerised`
+        - 使电脑化（computerise的过去分词形式）；用电脑处理
     - vi.
-      - `compute` 计算；估算；推断
+      - `compute`
+        - 计算；估算；推断
     - vt.
-      - `compute` 计算；估算；用计算机计算
-      - `computerize` 使电脑化；使计算机化；用电脑处理
-      - `computerise` （英）用计算机处理；给…装备计算机（等于computerize）
+      - `compute`
+        - 计算；估算；用计算机计算
+      - `computerize`
+        - 使电脑化；使计算机化；用电脑处理
+      - `computerise`
+        - （英）用计算机处理；给…装备计算机（等于computerize）
   - 短语
-    - `accounting computerization` 会计电算化 
+    - `accounting computerization`
+      - 会计电算化 
   - 例句
     - `As for the influence of computerization, nowhere but in U. S. have we seen the result so clearly.`
       - 至于计算机化的影响，我们在哪里也不如在美国看到的结果更清楚。

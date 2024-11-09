@@ -1,15 +1,19 @@
 - Satan
   - 发音
-    - 英 `/'seɪtn/`
-    - 美 `/'setn/`
+    - 英
+      - `/'seɪtn/`
+    - 美
+      - `/'setn/`
   - 词义
-    - n. 撒旦（魔鬼）
-    - `the Devil, considered to be the main evil power and God’s opponent`
+    - n.
+      - 撒旦（魔鬼）
+        - `the Devil, considered to be the main evil power and God’s opponent`
   - 近义词
-    - n. 撒旦；魔鬼
-      - `devil`
-      - `prince of darkness`
-      - `Old Harry`
+    - n.
+      - 撒旦；魔鬼
+        - `devil`
+        - `prince of darkness`
+        - `Old Harry`
   - 例句
     - `Satan uses this secret aspect of the occult to weave his deception.`
       - 撒旦用这个秘密装出神秘的样子来编织它的骗术。

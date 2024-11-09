@@ -1,14 +1,18 @@
 - unguent
   - 发音
-    - 英 `/'ʌŋgwənt/`
-    - 美 `/'ʌŋgwənt/`
+    - 英
+      - `/'ʌŋgwənt/`
+    - 美
+      - `/'ʌŋgwənt/`
   - 词义
-    - n. 油膏
-    - `an oily substance used on your skin`
+    - n.
+      - 油膏
+        - `an oily substance used on your skin`
   - 近义词
-    - n. 药膏，软膏
-      - `ointment`
-      - `chrisma`
+    - n.
+      - 药膏，软膏
+        - `ointment`
+        - `chrisma`
   - 例句
     - `Objective To explore the anti-inflammatory and analgesic action of Yantongxiao unguent.`
       - 目的观察炎痛消软膏的抗炎镇痛作用。

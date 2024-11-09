@@ -1,10 +1,13 @@
 - Spaniard
   - 发音
-    - 英 `/'spænjəd/`
-    - 美 `/'spænjəd/`
+    - 英
+      - `/'spænjəd/`
+    - 美
+      - `/'spænjəd/`
   - 词义
-    - n. 西班牙人
-    - `someone from Spain`
+    - n.
+      - 西班牙人
+        - `someone from Spain`
   - 例句
     - `“I think the Spanish and Italian people are very similar in terms of their character so I feel comfortable here, ” began the Spaniard.`
       - “我认为西班牙人和意大利人性格特征非常相似，因此我在这里感到非常舒适。” 这个西班牙人说。

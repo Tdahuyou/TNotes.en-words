@@ -1,14 +1,19 @@
 - obbligato
   - 发音
-    - 英 `/,ɒblɪ'gɑːtəʊ/`
-    - 美 `/,ɑblɪ'ɡɑto/`
+    - 英
+      - `/,ɒblɪ'gɑːtəʊ/`
+    - 美
+      - `/,ɑblɪ'ɡɑto/`
   - 词义
-    - n. 伴奏
+    - n.
+      - 伴奏
   - 近义词
-    - n. 伴奏；助奏
-      - `accompaniment`
-    - adj. 不可缺少的
-      - `indispensable to`
+    - n.
+      - 伴奏；助奏
+        - `accompaniment`
+    - adj.
+      - 不可缺少的
+        - `indispensable to`
   - 例句
     - `Soon his right arm reached around to the other side of the child and he added a running obbligato.`
       - 很快，他的右臂绕过小男孩的另一侧，增加了一段连续的伴奏。

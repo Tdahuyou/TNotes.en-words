@@ -1,36 +1,56 @@
 - formally
   - 发音
-    - 英 `/'fɔːməlɪ/`
-    - 美 `/'fɔrmli/`
+    - 英
+      - `/'fɔːməlɪ/`
+    - 美
+      - `/'fɔrmli/`
   - 词义
-    - adv. 正式地,形式上
-    - `officially`
+    - adv.
+      - 正式地,形式上
+        - `officially`
   - 同根词
     - adj.
-      - `former` 从前的，前者的；前任的
-      - `formal` 正式的；拘谨的；有条理的
-      - `formalized` 形式化的；正式的
-      - `formless` 没有形状的；无定形的；形体不明的
-      - `formalistic` 形式主义的，呆板的
+      - `former`
+        - 从前的，前者的；前任的
+      - `formal`
+        - 正式的；拘谨的；有条理的
+      - `formalized`
+        - 形式化的；正式的
+      - `formless`
+        - 没有形状的；无定形的；形体不明的
+      - `formalistic`
+        - 形式主义的，呆板的
     - n.
-      - `form` 形式，形状；形态，外形；方式；表格
-      - `former` 模型，样板；起形成作用的人
-      - `formal` 正式的社交活动；夜礼服
-      - `formality` 礼节；拘谨；仪式；正式手续
-      - `formalism` 形式主义；形式体系
-      - `formalization` 形式化；礼仪化
+      - `form`
+        - 形式，形状；形态，外形；方式；表格
+      - `former`
+        - 模型，样板；起形成作用的人
+      - `formal`
+        - 正式的社交活动；夜礼服
+      - `formality`
+        - 礼节；拘谨；仪式；正式手续
+      - `formalism`
+        - 形式主义；形式体系
+      - `formalization`
+        - 形式化；礼仪化
     - v.
-      - `formalized` 使正式；使有效（formalize的过去分词）；使定形；拘泥于形式
+      - `formalized`
+        - 使正式；使有效（formalize的过去分词）；使定形；拘泥于形式
     - vi.
-      - `form` 形成，构成；排列
-      - `formalize` 拘泥于形式
+      - `form`
+        - 形成，构成；排列
+      - `formalize`
+        - 拘泥于形式
     - vt.
-      - `form` 构成，组成；排列，组织；产生，塑造
-      - `formalize` 使形式化；使正式；拘泥礼仪
+      - `form`
+        - 构成，组成；排列，组织；产生，塑造
+      - `formalize`
+        - 使形式化；使正式；拘泥礼仪
   - 近义词
-    - adv. 正式地；形式上
-      - `officially`
-      - `in state`
+    - adv.
+      - 正式地；形式上
+        - `officially`
+        - `in state`
   - 例句
     - `We announced a decision formally recognizing the new government.`
       - 我们宣布了一个决定，正式承认新政府。

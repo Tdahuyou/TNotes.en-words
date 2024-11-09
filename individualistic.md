@@ -1,23 +1,33 @@
 - individualistic
   - 发音
-    - 英 `/,ɪndɪvɪdjʊə'lɪstɪk/`
-    - 美 `/ˌɪndɪˌvɪdʒʊr'lɪstɪk/`
+    - 英
+      - `/,ɪndɪvɪdjʊə'lɪstɪk/`
+    - 美
+      - `/ˌɪndɪˌvɪdʒʊr'lɪstɪk/`
   - 词义
-    - adj. 个人主义的
-    - `If you say that someone is individualistic, you mean that they like to think and do things in their own way, rather than imitating other people. You can also say that a society is individualistic if it encourages people to behave in this way. `
+    - adj.
+      - 个人主义的
+        - `If you say that someone is individualistic, you mean that they like to think and do things in their own way, rather than imitating other people. You can also say that a society is individualistic if it encourages people to behave in this way. `
   - 同根词
     - adj.
-      - `individual` 个人的；个别的；独特的
-      - `individualized` 个人的；有个性的；具有个人特色的
+      - `individual`
+        - 个人的；个别的；独特的
+      - `individualized`
+        - 个人的；有个性的；具有个人特色的
     - n.
-      - `individual` 个人，个体
-      - `individualism` 个人主义；利己主义；个人特征
-      - `individualist` 利己主义者，个人主义者
+      - `individual`
+        - 个人，个体
+      - `individualism`
+        - 个人主义；利己主义；个人特征
+      - `individualist`
+        - 利己主义者，个人主义者
     - v.
-      - `individualized` 使…个性化；分别详述（individualize的过去分词）
+      - `individualized`
+        - 使…个性化；分别详述（individualize的过去分词）
   - 近义词
-    - adj. 个人主义的；利己主义的
-      - `selfish`
+    - adj.
+      - 个人主义的；利己主义的
+        - `selfish`
   - 例句
     - `Most artists are very individualistic.`
       - 大多数艺术家都非常我行我素。

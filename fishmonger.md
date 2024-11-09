@@ -1,10 +1,13 @@
 - fishmonger
   - 发音
-    - 英 `/'fɪʃmʌŋgə/`
-    - 美 `/'fɪʃ'mʌŋgɚ/`
+    - 英
+      - `/'fɪʃmʌŋgə/`
+    - 美
+      - `/'fɪʃ'mʌŋgɚ/`
   - 词义
-    - n. 鱼贩；鱼商
-    - `someone who sells fish`
+    - n.
+      - 鱼贩；鱼商
+        - `someone who sells fish`
   - 例句
     - `Some people go back to local small businesses: the Asian greengrocer, a Greek baker and a Greek fishmonger.`
       - 一些人愿意与当地的小商贩打交道，比如：亚洲菜贩，希腊面包师和希腊鱼贩。

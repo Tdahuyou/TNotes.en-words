@@ -1,16 +1,20 @@
 - colloquium
   - 发音
-    - 英 `/kə'ləʊkwɪəm/`
-    - 美 `/kə'lokwɪəm/`
+    - 英
+      - `/kə'ləʊkwɪəm/`
+    - 美
+      - `/kə'lokwɪəm/`
   - 词义
-    - n. 讨论会
-    - `a  conference `
+    - n.
+      - 讨论会
+        - `a  conference `
   - 近义词
-    - n. 讨论会；专题座谈会
-      - `forum`
-      - `consultation`
-      - `seminar`
-      - `symposium`
+    - n.
+      - 讨论会；专题座谈会
+        - `forum`
+        - `consultation`
+        - `seminar`
+        - `symposium`
   - 例句
     - `In this context, I am very grateful to President Havel for having organized a colloquium for dialogue recently here in Prague.`
       - 我非常感谢哈韦尔总统最近在布拉格组织的一次对话式的讨论会。

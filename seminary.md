@@ -1,19 +1,24 @@
 - seminary
   - 发音
-    - 英 `/'seminəri/`
-    - 美 `/'sɛmə'nɛri/`
+    - 英
+      - `/'seminəri/`
+    - 美
+      - `/'sɛmə'nɛri/`
   - 词义
-    - n. 神学院
-    - `a college for training priests or ministers`
+    - n.
+      - 神学院
+        - `a college for training priests or ministers`
   - 记忆
     - 研究讨论 (seminar) 神学的地方 → 神学院
   - 同根词
     - n.
-      - `seminarian` 神学校学生
+      - `seminarian`
+        - 神学校学生
   - 近义词
-    - n. 神学院；学校；发源地；高级中学
-      - `divinity school`
-      - `Regent College`
+    - n.
+      - 神学院；学校；发源地；高级中学
+        - `divinity school`
+        - `Regent College`
   - 例句
     - `I vacillated for a long time between medicine and seminary .`
       - 在学医和进神学院之间我犹豫了很久。

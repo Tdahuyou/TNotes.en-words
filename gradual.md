@@ -1,31 +1,45 @@
 - gradual
   - 发音
-    - 英 `/'grædʒuəl/`
-    - 美 `/'ɡrædʒuəl/`
+    - 英
+      - `/'grædʒuəl/`
+    - 美
+      - `/'ɡrædʒuəl/`
   - 词义
-    - adj. 逐渐的，逐步的；坡度平缓的，不陡的
-    - `happening slowly over a long period of time`
+    - adj.
+      - 逐渐的，逐步的；坡度平缓的，不陡的
+        - `happening slowly over a long period of time`
   - 记忆
     - grad(走) + ual → 一步步地行走 → 逐渐的， 逐步的
   - 同根词
     - adv.
-      - `gradually` 逐步地；渐渐地
+      - `gradually`
+        - 逐步地；渐渐地
     - n.
-      - `grade` 年级；等级；成绩；级别；阶段
-      - `gradualness` 逐渐；渐次；循序性
+      - `grade`
+        - 年级；等级；成绩；级别；阶段
+      - `gradualness`
+        - 逐渐；渐次；循序性
     - vi.
-      - `grade` 分等级；逐渐变化
-      - `gradate` 逐渐转化；顺次排列
+      - `grade`
+        - 分等级；逐渐变化
+      - `gradate`
+        - 逐渐转化；顺次排列
     - vt.
-      - `grade` 评分；把…分等级
-      - `gradate` 使逐渐转化；使顺次排列
+      - `grade`
+        - 评分；把…分等级
+      - `gradate`
+        - 使逐渐转化；使顺次排列
   - 近义词
-    - adj. 逐渐的；平缓的
-      - `piecemeal`
+    - adj.
+      - 逐渐的；平缓的
+        - `piecemeal`
   - 短语
-    - `gradual change` 渐变柔光，渐变 
-    - `gradual transition` 渐变；逐次跃迁；缓变结 
-    - `gradual advance` 逐渐上升，渐升 
+    - `gradual change`
+      - 渐变柔光，渐变 
+    - `gradual transition`
+      - 渐变；逐次跃迁；缓变结 
+    - `gradual advance`
+      - 逐渐上升，渐升 
   - 例句
     - `There has been a gradual change in climate.`
       - 气候渐渐发生了变化。

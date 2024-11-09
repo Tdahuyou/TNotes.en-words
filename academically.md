@@ -1,18 +1,25 @@
 - academically
   - 发音
-    - 英 `/,ækə'demɪkəlɪ/`
-    - 美 `/,ækə'dɛmɪkəli/`
+    - 英
+      - `/,ækə'demɪkəlɪ/`
+    - 美
+      - `/,ækə'dɛmɪkəli/`
   - 词义
-    - adv. 学业上
+    - adv.
+      - 学业上
   - 同根词
     - adj.
-      - `academic` 学术的；理论的；学院的
+      - `academic`
+        - 学术的；理论的；学院的
     - n.
-      - `academic` 大学生，大学教师；学者
-      - `academia` 学术界；学术生涯
+      - `academic`
+        - 大学生，大学教师；学者
+      - `academia`
+        - 学术界；学术生涯
   - 近义词
-    - adv. 学术上；学业上
-      - `technically`
+    - adv.
+      - 学术上；学业上
+        - `technically`
   - 例句
     - `Challenge yourself academically, but give yourself plenty of time for fun as well.`
       - 学业上要努力，但也要给自己充足的娱乐时间。

@@ -1,16 +1,20 @@
 - behavious
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 行为
+    - n.
+      - 行为
   - 近义词
-    - n. 行为
-      - `dealing`
-      - `going`
-      - `act`
-      - `work`
-      - `conduct`
+    - n.
+      - 行为
+        - `dealing`
+        - `going`
+        - `act`
+        - `work`
+        - `conduct`
   - 例句
     - `Although some behavious don't hurt anyone, they hurt our society.`
       - 尽管有些行为没有伤害他人，但是伤害了我们的社会。

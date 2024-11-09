@@ -1,16 +1,22 @@
 - horseshoe
   - 发音
-    - 英 `/'hɔːsʃuː; -ʃʃ-/`
-    - 美 `/'hɔrʃʃu/`
+    - 英
+      - `/'hɔːsʃuː; -ʃʃ-/`
+    - 美
+      - `/'hɔrʃʃu/`
   - 词义
-    - n. 马蹄铁
-    - `a U-shaped piece of iron that is fixed onto the bottom of a horse’s foot`
+    - n.
+      - 马蹄铁
+        - `a U-shaped piece of iron that is fixed onto the bottom of a horse’s foot`
   - 同根词
     - n.
-      - `horseshoer` 马蹄铁工
+      - `horseshoer`
+        - 马蹄铁工
   - 短语
-    - `horseshoe crab` 鲎 
-    - `horseshoe kidney` 马蹄肾 
+    - `horseshoe crab`
+      - 鲎 
+    - `horseshoe kidney`
+      - 马蹄肾 
   - 例句
     - `The smith forged the horseshoe with great skill.`
       - 那铁匠非常熟练地锻造马蹄铁。

@@ -1,21 +1,28 @@
 - repugnance
   - 发音
-    - 英 `/rɪ'pʌgnəns/`
-    - 美 `/rɪ'pʌɡnəns/`
+    - 英
+      - `/rɪ'pʌgnəns/`
+    - 美
+      - `/rɪ'pʌɡnəns/`
   - 词义
-    - n. 嫌恶，反感
-    - `a strong feeling of dislike for something`
+    - n.
+      - 嫌恶，反感
+        - `a strong feeling of dislike for something`
   - 同根词
     - adj.
-      - `repugnant` 讨厌的；矛盾的；敌对的
+      - `repugnant`
+        - 讨厌的；矛盾的；敌对的
     - vi.
-      - `repugn` 反抗，反对
+      - `repugn`
+        - 反抗，反对
     - vt.
-      - `repugn` 反抗；反对
+      - `repugn`
+        - 反抗；反对
   - 近义词
-    - n. 反感；厌恶；不一致，抵触
-      - `hate`
-      - `variance`
+    - n.
+      - 反感；厌恶；不一致，抵触
+        - `hate`
+        - `variance`
   - 例句
     - `The woman tried to fight down a feeling of repugnance to speak to her ex-husband.`
       - 那女人努力抑制反感来跟她前夫说话。

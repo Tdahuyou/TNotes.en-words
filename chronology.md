@@ -1,24 +1,34 @@
 - chronology
   - 发音
-    - 英 `/krə'nɒlədʒɪ/`
-    - 美 `/krə'nɑlədʒi/`
+    - 英
+      - `/krə'nɒlədʒɪ/`
+    - 美
+      - `/krə'nɑlədʒi/`
   - 词义
-    - n. 年代学,年表
-    - `an account of events in the order in which they happened`
+    - n.
+      - 年代学,年表
+        - `an account of events in the order in which they happened`
   - 同根词
     - adj.
-      - `chronological` 按年代顺序排列的；依时间前后排列而记载的
+      - `chronological`
+        - 按年代顺序排列的；依时间前后排列而记载的
     - adv.
-      - `chronologically` 按年代地
+      - `chronologically`
+        - 按年代地
     - n.
-      - `chronicle` 编年史，年代记；记录
-      - `chronicler` 记录者；年代史编者
+      - `chronicle`
+        - 编年史，年代记；记录
+      - `chronicler`
+        - 记录者；年代史编者
     - vt.
-      - `chronicle` 记录；把…载入编年史
-      - `chronologize` [统计] 按年代排列；作年表
+      - `chronicle`
+        - 记录；把…载入编年史
+      - `chronologize`
+        - [统计] 按年代排列；作年表
   - 近义词
-    - n. [图情]年表；年代学
-      - `Fasti`
+    - n.
+      - [图情]年表；年代学
+        - `Fasti`
   - 例句
     - `The book includes a chronology of his life and works.`
       - 本书附有他的生平和著作年表。

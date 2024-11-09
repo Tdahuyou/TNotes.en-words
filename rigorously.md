@@ -1,23 +1,33 @@
 - rigorously
   - 发音
-    - 英 `/'rigərəsli/`
-    - 美 `/'rigərəsli/`
+    - 英
+      - `/'rigərəsli/`
+    - 美
+      - `/'rigərəsli/`
   - 词义
-    - adv. 严格地
+    - adv.
+      - 严格地
   - 同根词
     - adj.
-      - `rigorous` 严格的，严厉的；严密的；严酷的
+      - `rigorous`
+        - 严格的，严厉的；严密的；严酷的
     - adv.
-      - `rigidly` 严格地；坚硬地；严厉地；牢牢地
+      - `rigidly`
+        - 严格地；坚硬地；严厉地；牢牢地
     - n.
-      - `rigor` 严厉；精确；苛刻；僵硬
-      - `rigour` 严格；严厉；苛刻；精确
-      - `rigidness` 坚硬；严厉
-      - `rigorousness` 残酷，严厉
+      - `rigor`
+        - 严厉；精确；苛刻；僵硬
+      - `rigour`
+        - 严格；严厉；苛刻；精确
+      - `rigidness`
+        - 坚硬；严厉
+      - `rigorousness`
+        - 残酷，严厉
   - 近义词
-    - adv. 严厉地；残酷地
-      - `severely`
-      - `harshly`
+    - adv.
+      - 严厉地；残酷地
+        - `severely`
+        - `harshly`
   - 例句
     - `You then can a multi-group either diffusion equation or solve these types of equations and more rigorously.`
       - 然后你有一个多群的或者是扩散等式,或者更严厉地解决这些等式。

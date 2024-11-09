@@ -1,37 +1,47 @@
 - ally
   - 发音
-    - 英 `/'ælaɪ/`
-    - 美 `/'ælaɪ/`
+    - 英
+      - `/'ælaɪ/`
+    - 美
+      - `/'ælaɪ/`
   - 词义
-    - v. 结盟
-    - `to help and support other people or countries, especially in a war or disagreement`
-    - n. 同盟国；结盟者，支持者
-    - `a country that agrees to help or support another country in a war`
+    - v.
+      - 结盟
+        - `to help and support other people or countries, especially in a war or disagreement`
+    - n.
+      - 同盟国；结盟者，支持者
+        - `a country that agrees to help or support another country in a war`
   - 记忆
     - all(所有) + y → 所有人站在一起 → (使)结盟
   - 同根词
     - adj.
-      - `allied` 联合的；同盟的；与…同属一系
+      - `allied`
+        - 联合的；同盟的；与…同属一系
     - v.
-      - `allied` 联合（ally的过去分词）
+      - `allied`
+        - 联合（ally的过去分词）
   - 近义词
-    - n. 同盟国；伙伴；同盟者；助手
-      - `friend`
-      - `partner`
-      - `assistant`
-      - `comrade`
-      - `aid`
-    - vt. 使联盟；使联合
-      - `combine`
-      - `associate`
-    - vi. 联合；结盟
-      - `band`
-      - `combine`
-      - `connect`
-      - `league`
-      - `hand in hand`
+    - n.
+      - 同盟国；伙伴；同盟者；助手
+        - `friend`
+        - `partner`
+        - `assistant`
+        - `comrade`
+        - `aid`
+    - vt.
+      - 使联盟；使联合
+        - `combine`
+        - `associate`
+    - vi.
+      - 联合；结盟
+        - `band`
+        - `combine`
+        - `connect`
+        - `league`
+        - `hand in hand`
   - 短语
-    - `ally with` 与…结盟 
+    - `ally with`
+      - 与…结盟 
   - 例句
     - `He will have no choice but to ally himself with the new movement.`
       - 他将别无选择，只能与这个新运动结盟。

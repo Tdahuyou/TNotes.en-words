@@ -1,16 +1,21 @@
 - iridescent
   - 发音
-    - 英 `/,ɪrɪ'des(ə)nt/`
-    - 美 `/,ɪrɪ'dɛsnt/`
+    - 英
+      - `/,ɪrɪ'des(ə)nt/`
+    - 美
+      - `/,ɪrɪ'dɛsnt/`
   - 词义
-    - adj. 闪光的，现晕光的
+    - adj.
+      - 闪光的，现晕光的
   - 同根词
     - n.
-      - `iridescence` 彩虹色
+      - `iridescence`
+        - 彩虹色
   - 近义词
-    - adj. 彩虹色的；闪光的
-      - `shot`
-      - `irised`
+    - adj.
+      - 彩虹色的；闪光的
+        - `shot`
+        - `irised`
   - 例句
     - `small iridescent blue flies`
       - 色彩变幻的蓝色小苍蝇

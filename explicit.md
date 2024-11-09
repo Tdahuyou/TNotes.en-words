@@ -1,30 +1,41 @@
 - explicit
   - 发音
-    - 英 `/ɪk'splɪsɪt/`
-    - 美 `/ɪk'splɪsɪt/`
+    - 英
+      - `/ɪk'splɪsɪt/`
+    - 美
+      - `/ɪk'splɪsɪt/`
   - 词义
-    - adj. 清楚的；直率的
-    - `expressed in a way that is very clear and direct`
+    - adj.
+      - 清楚的；直率的
+        - `expressed in a way that is very clear and direct`
   - 记忆
     - ex(外) + plic(重叠) + it → 把重叠在一起向外展开 → 清楚的
   - 同根词
     - adv.
-      - `explicitly` 明确地；明白地
+      - `explicitly`
+        - 明确地；明白地
     - n.
-      - `explicitness` 直言不讳；明确性
+      - `explicitness`
+        - 直言不讳；明确性
   - 近义词
-    - adj. 明确的；清楚的；直率的；详述的
-      - `precise`
-      - `decided`
-      - `distinct`
-      - `specific`
-      - `express`
+    - adj.
+      - 明确的；清楚的；直率的；详述的
+        - `precise`
+        - `decided`
+        - `distinct`
+        - `specific`
+        - `express`
   - 短语
-    - `explicit expression` 显式表达式 
-    - `explicit knowledge` 显性知识；外显知识 
-    - `explicit memory` 外显记忆 
-    - `explicit function` 显函数 
-    - `explicit formulation` 显式 
+    - `explicit expression`
+      - 显式表达式 
+    - `explicit knowledge`
+      - 显性知识；外显知识 
+    - `explicit memory`
+      - 外显记忆 
+    - `explicit function`
+      - 显函数 
+    - `explicit formulation`
+      - 显式 
   - 例句
     - `The contrast could not have been made more explicit.`
       - 这个对比再清楚不过了。

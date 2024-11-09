@@ -1,17 +1,22 @@
 - nightgown
   - 发音
-    - 英 `/'naɪtgaʊn/`
-    - 美 `/'naɪtɡaʊn/`
+    - 英
+      - `/'naɪtgaʊn/`
+    - 美
+      - `/'naɪtɡaʊn/`
   - 词义
-    - n. 睡衣（等于dressinggown或nightdress）
-    - `a nightdress`
+    - n.
+      - 睡衣（等于dressinggown或nightdress）
+        - `a nightdress`
   - 同根词
     - n.
-      - `nightdress` 女式睡衣；孩子穿的睡衣
+      - `nightdress`
+        - 女式睡衣；孩子穿的睡衣
   - 近义词
-    - n. 睡衣（等于dressing gown或nightdress）
-      - `bedgown`
-      - `night attire`
+    - n.
+      - 睡衣（等于dressing gown或nightdress）
+        - `bedgown`
+        - `night attire`
   - 例句
     - `I gave her the silk nightgown.`
       - 我把丝绸睡衣送给了她。

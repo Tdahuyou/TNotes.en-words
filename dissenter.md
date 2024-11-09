@@ -1,27 +1,37 @@
 - dissenter
   - 发音
-    - 英 `/dɪ'sentər/`
-    - 美 `/di'sentə/`
+    - 英
+      - `/dɪ'sentər/`
+    - 美
+      - `/di'sentə/`
   - 词义
-    - n. 不同意者，反对者
-    - `a person or organization that disagrees with an official decision or accepted opinion`
+    - n.
+      - 不同意者，反对者
+        - `a person or organization that disagrees with an official decision or accepted opinion`
   - 记忆
     - dis(分离) + sent(想法) + er(表人， 名词后缀) → 没有相同想法的人 → 不同意者
   - 同根词
     - adj.
-      - `dissenting` 不同意的（等于dissentient）
-      - `dissentient` 反对的，持异议的；不赞成的
+      - `dissenting`
+        - 不同意的（等于dissentient）
+      - `dissentient`
+        - 反对的，持异议的；不赞成的
     - n.
-      - `dissent` 异议；（大写）不信奉国教
-      - `dissentient` 不赞成的人，持异议的
+      - `dissent`
+        - 异议；（大写）不信奉国教
+      - `dissentient`
+        - 不赞成的人，持异议的
     - v.
-      - `dissenting` 不同意；持异议（dissent的ing形式）
+      - `dissenting`
+        - 不同意；持异议（dissent的ing形式）
     - vi.
-      - `dissent` 不同意；不信奉国教
+      - `dissent`
+        - 不同意；不信奉国教
   - 近义词
-    - n. 持异议者；反对者
-      - `anti`
-      - `opponent`
+    - n.
+      - 持异议者；反对者
+        - `anti`
+        - `opponent`
   - 例句
     - `Political dissenters were imprisoned.`
       - 持不同政见者遭到监禁。

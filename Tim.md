@@ -1,10 +1,13 @@
 - Tim
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
   - 短语
-    - `tim burton` 蒂姆·伯顿（美国著名导演） 
+    - `tim burton`
+      - 蒂姆·伯顿（美国著名导演） 
   - 例句
     - `I realize that I'm seeing Tim as he is in the world, with no reference to me at all.`
       - 我意识到我所看到的，是蒂姆在他的世界里的生活，而这个世界和我一点关系也没有。

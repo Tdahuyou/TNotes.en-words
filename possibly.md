@@ -1,22 +1,29 @@
 - possibly
   - 发音
-    - 英 `/'pɒsɪblɪ/`
-    - 美 `/'pɑsəbli/`
+    - 英
+      - `/'pɒsɪblɪ/`
+    - 美
+      - `/'pɑsəbli/`
   - 词义
-    - adv. 可能地；也许；大概
-    - `used when saying that something may be true or likely, although you are not completely certain`
+    - adv.
+      - 可能地；也许；大概
+        - `used when saying that something may be true or likely, although you are not completely certain`
   - 同根词
     - adj.
-      - `possible` 可能的；合理的；合适的
+      - `possible`
+        - 可能的；合理的；合适的
     - n.
-      - `possible` 可能性；合适的人；可能的事物
-      - `possibility` 可能性；可能发生的事物
+      - `possible`
+        - 可能性；合适的人；可能的事物
+      - `possibility`
+        - 可能性；可能发生的事物
   - 近义词
-    - adv. 可能地；也许；大概
-      - `probably`
-      - `maybe`
-      - `perhaps`
-      - `potentially`
+    - adv.
+      - 可能地；也许；大概
+        - `probably`
+        - `maybe`
+        - `perhaps`
+        - `potentially`
   - 例句
     - `This last task is possibly the most difficult.`
       - 这最后一项任务也许是最难的。

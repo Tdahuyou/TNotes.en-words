@@ -1,9 +1,12 @@
 - amorousness
   - 发音
-    - 英 `/'æmərəs/`
-    - 美 `/undefined/`
+    - 英
+      - `/'æmərəs/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 爱情；色情
+    - n.
+      - 爱情；色情
   - 例句
     - `What can people do not need, and amorousness.`
       - 人不可以什么都不需要，而谈情说爱。

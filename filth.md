@@ -1,21 +1,28 @@
 - filth
   - 发音
-    - 英 `/fɪlθ/`
-    - 美 `/fɪlθ/`
+    - 英
+      - `/fɪlθ/`
+    - 美
+      - `/fɪlθ/`
   - 词义
-    - n. 污秽；肮脏；猥亵；不洁
-    - `dirt, especially a lot of it`
+    - n.
+      - 污秽；肮脏；猥亵；不洁
+        - `dirt, especially a lot of it`
   - 同根词
     - adj.
-      - `filthy` 肮脏的；污秽的；猥亵的
+      - `filthy`
+        - 肮脏的；污秽的；猥亵的
     - adv.
-      - `filthily` 污秽地；丑恶地
+      - `filthily`
+        - 污秽地；丑恶地
     - n.
-      - `filthiness` 污秽；肮脏，不洁
+      - `filthiness`
+        - 污秽；肮脏，不洁
   - 近义词
-    - n. 污秽；肮脏；猥亵；不洁
-      - `griminess`
-      - `squalidity`
+    - n.
+      - 污秽；肮脏；猥亵；不洁
+        - `griminess`
+        - `squalidity`
   - 例句
     - `a mound of filth and rubbish`
       - 一堆脏东西和垃圾

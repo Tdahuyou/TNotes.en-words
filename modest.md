@@ -1,21 +1,27 @@
 - modest
   - 发音
-    - 英 `/'mɑːdɪst/`
-    - 美 `/'mɑdɪst/`
+    - 英
+      - `/'mɑːdɪst/`
+    - 美
+      - `/'mɑdɪst/`
   - 词义
-    - adj. 谦虚的；适度的
-    - `someone who is modest does not want to talk about their abilities or achievements`
+    - adj.
+      - 谦虚的；适度的
+        - `someone who is modest does not want to talk about their abilities or achievements`
   - 记忆
     - mod(适合) + est → 适合的 → 谦虚的； 适度的
   - 同根词
     - adv.
-      - `modestly` 谨慎地；适当地
+      - `modestly`
+        - 谨慎地；适当地
     - n.
-      - `modesty` 谦逊；质朴；稳重
+      - `modesty`
+        - 谦逊；质朴；稳重
   - 近义词
-    - adj. 谦虚的，谦逊的；适度的；端庄的；羞怯的
-      - `odest`
-      - `inobtrusive`
+    - adj.
+      - 谦虚的，谦逊的；适度的；端庄的；羞怯的
+        - `odest`
+        - `inobtrusive`
   - 例句
     - `You’re too modest! You’ve been a huge help to us.`
       - 你太谦虚了！你帮了我们大忙呢。

@@ -1,25 +1,39 @@
 - anthropologist
   - 发音
-    - 英 `/,ænθrə'pɒlədʒɪst/`
-    - 美 `/,ænθrə'pɑlədʒɪst/`
+    - 英
+      - `/,ænθrə'pɒlədʒɪst/`
+    - 美
+      - `/,ænθrə'pɑlədʒɪst/`
   - 词义
-    - n. 人类学家
+    - n.
+      - 人类学家
   - 同根词
     - adj.
-      - `anthropogenic` 人为的；[人类] 人类起源的
-      - `anthropological` 人类学的；人类学上的
-      - `anthropic` 有关人类的，人类的
-      - `anthropocentric` 以人类为中心的；以人类观点解释宇宙万物的
-      - `anthropogenetic` 人类起源学的；人类起源的
+      - `anthropogenic`
+        - 人为的；[人类] 人类起源的
+      - `anthropological`
+        - 人类学的；人类学上的
+      - `anthropic`
+        - 有关人类的，人类的
+      - `anthropocentric`
+        - 以人类为中心的；以人类观点解释宇宙万物的
+      - `anthropogenetic`
+        - 人类起源学的；人类起源的
     - n.
-      - `anthropology` 人类学
-      - `anthropocentrism` 人类本位说；人类中心说
-      - `anthropogenesis` 人类起源；人类发生
-      - `anthropogeny` 人类起源论（等于anthropogenesis）
-      - `anthropolatry` 人类崇拜
+      - `anthropology`
+        - 人类学
+      - `anthropocentrism`
+        - 人类本位说；人类中心说
+      - `anthropogenesis`
+        - 人类起源；人类发生
+      - `anthropogeny`
+        - 人类起源论（等于anthropogenesis）
+      - `anthropolatry`
+        - 人类崇拜
   - 近义词
-    - n. [人类]人类学家；人类学者
-      - `humanist`
+    - n.
+      - [人类]人类学家；人类学者
+        - `humanist`
   - 例句
     - `This is something I learned as an anthropologist –people love to tell their stories.`
       - 这是我作为一名人类学家所理解的----人们喜欢讲述自己的故事。

@@ -1,29 +1,42 @@
 - flavouring
   - 发音
-    - 英 `/undefined/`
-    - 美 `/'fleivəriŋ/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/'fleivəriŋ/`
   - 词义
-    - n. 调味料
-    - `a substance used to give something a particular flavour or increase its flavour`
+    - n.
+      - 调味料
+        - `a substance used to give something a particular flavour or increase its flavour`
   - 同根词
     - adj.
-      - `flavourful` 有风趣的；有香味的；美味的；味浓的；可口的
-      - `flavourless` 无趣味的；[食品] 无味的
+      - `flavourful`
+        - 有风趣的；有香味的；美味的；味浓的；可口的
+      - `flavourless`
+        - 无趣味的；[食品] 无味的
     - n.
-      - `flavor` 情味，风味；香料；滋味
-      - `flavour` 香味；滋味
-      - `flavoring` 调味品（等于flavour）
+      - `flavor`
+        - 情味，风味；香料；滋味
+      - `flavour`
+        - 香味；滋味
+      - `flavoring`
+        - 调味品（等于flavour）
     - v.
-      - `flavoring` 加味于…（flavor的ing形式）
+      - `flavoring`
+        - 加味于…（flavor的ing形式）
     - vt.
-      - `flavor` 加味于
-      - `flavour` 给……调味；给……增添风趣
+      - `flavor`
+        - 加味于
+      - `flavour`
+        - 给……调味；给……增添风趣
   - 近义词
-    - n. 香料；调味料
-      - `stacte`
-      - `fines herbs`
+    - n.
+      - 香料；调味料
+        - `stacte`
+        - `fines herbs`
   - 短语
-    - `flavouring agent` 调味剂；食用香料；增香剂 
+    - `flavouring agent`
+      - 调味剂；食用香料；增香剂 
   - 例句
     - `artificial flavourings`
       - 人工调味品

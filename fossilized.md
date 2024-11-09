@@ -1,28 +1,40 @@
 - fossilized
   - 发音
-    - 英 `/'fɑːsəlaɪzd/`
-    - 美 `/'fɔsilaizd/`
+    - 英
+      - `/'fɑːsəlaɪzd/`
+    - 美
+      - `/'fɔsilaizd/`
   - 词义
-    - adj. 变成化石的
+    - adj.
+      - 变成化石的
   - 记忆
     - 来自fossilize(v. 变成化石)
   - 同根词
     - adj.
-      - `fossil` 化石的；陈腐的，守旧的
+      - `fossil`
+        - 化石的；陈腐的，守旧的
     - n.
-      - `fossil` 化石；僵化的事物；顽固不化的人
-      - `fossilization` 石化；僵化
-      - `fossilisation` 化石化
+      - `fossil`
+        - 化石；僵化的事物；顽固不化的人
+      - `fossilization`
+        - 石化；僵化
+      - `fossilisation`
+        - 化石化
     - vi.
-      - `fossilize` 变成化石；变陈腐；使过时或固定不变；搜集（或发掘）化石标本
-      - `fossilise` 变成化石（等于fossilize）
+      - `fossilize`
+        - 变成化石；变陈腐；使过时或固定不变；搜集（或发掘）化石标本
+      - `fossilise`
+        - 变成化石（等于fossilize）
     - vt.
-      - `fossilize` 使成化石；使陈腐
-      - `fossilise` 使成化石（等于fossilize）
+      - `fossilize`
+        - 使成化石；使陈腐
+      - `fossilise`
+        - 使成化石（等于fossilize）
   - 近义词
-    - adj. 石化的；僵化的；老化的
-      - `petrochemical`
-      - `rigescent`
+    - adj.
+      - 石化的；僵化的；老化的
+        - `petrochemical`
+        - `rigescent`
   - 例句
     - `The notion of using fossilized dead forests to prevent the destruction of living forests and all that they hold, is apt.`
       - 用煤炭这种已死树木的化石来防止对现有森林及其相关生态系统的破坏，这是非常聪明的想法。

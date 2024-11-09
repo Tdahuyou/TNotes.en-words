@@ -1,15 +1,19 @@
 - bauble
   - 发音
-    - 英 `/'bɔːbl/`
-    - 美 `/'bɔbl/`
+    - 英
+      - `/'bɔːbl/`
+    - 美
+      - `/'bɔbl/`
   - 词义
-    - n. 小玩意
+    - n.
+      - 小玩意
   - 记忆
     - “玻玻儿” → 玻璃球 → 小玩意
   - 近义词
-    - n. 小玩意；美观而无价值的饰物
-      - `gadget`
-      - `doohickey`
+    - n.
+      - 小玩意；美观而无价值的饰物
+        - `gadget`
+        - `doohickey`
   - 例句
     - `The child was delighted with the bauble she had won in the grab bag.`
       - 这孩子非常喜欢摸彩袋赢得的那个小玩意儿。

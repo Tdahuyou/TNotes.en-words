@@ -1,22 +1,29 @@
 - notebook
   - 发音
-    - 英 `/'nəʊtbʊk/`
-    - 美 `/'notbʊk/`
+    - 英
+      - `/'nəʊtbʊk/`
+    - 美
+      - `/'notbʊk/`
   - 词义
-    - n. 笔记本
-    - `a book made of plain paper on which you can write notes`
+    - n.
+      - 笔记本
+        - `a book made of plain paper on which you can write notes`
   - 记忆
     - note(笔记)+book(书， 卷)→笔记本
   - 同根词
     - n.
-      - `notepaper` 信纸；便条纸；笔记用纸
+      - `notepaper`
+        - 信纸；便条纸；笔记用纸
   - 近义词
-    - n. 笔记本，笔记簿；手册
-      - `manual`
-      - `jotter`
+    - n.
+      - 笔记本，笔记簿；手册
+        - `manual`
+        - `jotter`
   - 短语
-    - `notebook computer` 笔记型电脑 
-    - `notebook pc` 笔记本电脑；笔记本型个人计算机 
+    - `notebook computer`
+      - 笔记型电脑 
+    - `notebook pc`
+      - 笔记本电脑；笔记本型个人计算机 
   - 例句
     - `He brought out a notebook and pen from his pocket.`
       - 他从口袋里掏出了一个笔记本和一支钢笔。

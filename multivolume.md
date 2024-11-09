@@ -1,12 +1,16 @@
 - multivolume
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - adj. 多卷的
+    - adj.
+      - 多卷的
   - 近义词
-    - adj. 多卷的
-      - `voluminous`
+    - adj.
+      - 多卷的
+        - `voluminous`
   - 例句
     - `So he planned a comprehensive, multivolume work to convince scientists and the world.`
       - 所以他计划写出一本无所不包、卷帙浩繁的著作以征服科学家们和这个世界。

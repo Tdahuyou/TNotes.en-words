@@ -1,10 +1,14 @@
 - outre
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - adj. 越出常轨的,过度的
+    - adj.
+      - 越出常轨的,过度的
   - 近义词
-    - adj. 越出常轨的；过度的；荒诞的
-      - `unreasonable`
-      - `exceeded`
+    - adj.
+      - 越出常轨的；过度的；荒诞的
+        - `unreasonable`
+        - `exceeded`

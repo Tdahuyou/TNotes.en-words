@@ -1,22 +1,30 @@
 - championship
   - 发音
-    - 英 `/'tʃæmpiənʃɪp/`
-    - 美 `/'tʃæmpɪənʃɪp/`
+    - 英
+      - `/'tʃæmpiənʃɪp/`
+    - 美
+      - `/'tʃæmpɪənʃɪp/`
   - 词义
-    - n. 锦标赛，冠军赛
-    - `a competition to find which player, team etc is the best in a particular sport`
+    - n.
+      - 锦标赛，冠军赛
+        - `a competition to find which player, team etc is the best in a particular sport`
   - 同根词
     - adj.
-      - `champion` 优胜的；第一流的
+      - `champion`
+        - 优胜的；第一流的
     - n.
-      - `champion` 冠军；拥护者；战士
+      - `champion`
+        - 冠军；拥护者；战士
     - vt.
-      - `champion` 支持；拥护
+      - `champion`
+        - 支持；拥护
   - 近义词
-    - n. 锦标赛；冠军称号；冠军的地位
-      - `tournament`
+    - n.
+      - 锦标赛；冠军称号；冠军的地位
+        - `tournament`
   - 短语
-    - `open championship` 公开锦标赛 
+    - `open championship`
+      - 公开锦标赛 
   - 例句
     - `the women’s figure skating championships`
       - 女子花样滑冰锦标赛

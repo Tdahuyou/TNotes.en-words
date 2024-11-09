@@ -1,18 +1,25 @@
 - summertime
   - 发音
-    - 英 `/'sʌmətaɪm/`
-    - 美 `/'sʌmɚtaɪm/`
+    - 英
+      - `/'sʌmətaɪm/`
+    - 美
+      - `/'sʌmɚtaɪm/`
   - 词义
-    - n. 夏季
-    - `the season when it is summer`
+    - n.
+      - 夏季
+        - `the season when it is summer`
   - 同根词
     - adj.
-      - `summer` 夏季的
-      - `summery` 夏天的；如夏季的
+      - `summer`
+        - 夏季的
+      - `summery`
+        - 夏天的；如夏季的
     - n.
-      - `summer` 夏季；全盛时期
+      - `summer`
+        - 夏季；全盛时期
     - vi.
-      - `summer` 避暑；过夏天
+      - `summer`
+        - 避暑；过夏天
   - 例句
     - `It's a very beautiful place in the summertime.`
       - 这里夏季时很美。

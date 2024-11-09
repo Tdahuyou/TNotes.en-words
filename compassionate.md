@@ -1,24 +1,31 @@
 - compassionate
   - 发音
-    - 英 `/kəm'pæʃənət/`
-    - 美 `/kəm'pæʃənət/`
+    - 英
+      - `/kəm'pæʃənət/`
+    - 美
+      - `/kəm'pæʃənət/`
   - 词义
-    - adj. 富于同情心的
-    - `feeling sympathy for people who are suffering`
+    - adj.
+      - 富于同情心的
+        - `feeling sympathy for people who are suffering`
   - 记忆
     - 来自compassion (n. 同情， 怜悯)
   - 同根词
     - adv.
-      - `compassionately` 同情地；慈悲地；富有同情心地
+      - `compassionately`
+        - 同情地；慈悲地；富有同情心地
     - n.
-      - `compassion` 同情；怜悯
+      - `compassion`
+        - 同情；怜悯
   - 近义词
-    - adj. 慈悲的；富于同情心的
-      - `tender-hearted`
-      - `merciful`
-    - vt. 同情；怜悯
-      - `feel for`
-      - `have pity on`
+    - adj.
+      - 慈悲的；富于同情心的
+        - `tender-hearted`
+        - `merciful`
+    - vt.
+      - 同情；怜悯
+        - `feel for`
+        - `have pity on`
   - 例句
     - `a caring, compassionate man`
       - 有同情心并关爱他人的人

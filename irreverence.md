@@ -1,17 +1,23 @@
 - irreverence
   - 发音
-    - 英 `/ɪ'rev(ə)r(ə)ns/`
-    - 美 `/ɪ'rɛvərəns/`
+    - 英
+      - `/ɪ'rev(ə)r(ə)ns/`
+    - 美
+      - `/ɪ'rɛvərəns/`
   - 词义
-    - adj. 不尊敬的
+    - adj.
+      - 不尊敬的
   - 同根词
     - adj.
-      - `irreverent` 不敬的，无礼的
+      - `irreverent`
+        - 不敬的，无礼的
     - adv.
-      - `irreverently` 不逊地；不敬地
+      - `irreverently`
+        - 不逊地；不敬地
   - 近义词
-    - n. 非礼；不敬行为
-      - `indecorum`
+    - n.
+      - 非礼；不敬行为
+        - `indecorum`
   - 例句
     - `He added humor, irreverence, and a strong speaking style that captivated the audience.`
       - 他的幽默、不恭以及强烈的说话风格吸引了所有的听众。

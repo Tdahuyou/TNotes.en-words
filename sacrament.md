@@ -1,24 +1,33 @@
 - sacrament
   - 发音
-    - 英 `/'sækrəm(ə)nt/`
-    - 美 `/'sækrəmənt/`
+    - 英
+      - `/'sækrəm(ə)nt/`
+    - 美
+      - `/'sækrəmənt/`
   - 词义
-    - n. 圣礼；圣餐；神秘的事物
-    - `the bread and wine that are eaten at  communion (= an important Christian ceremony ) `
-    - vt. 立誓
+    - n.
+      - 圣礼；圣餐；神秘的事物
+        - `the bread and wine that are eaten at  communion (= an important Christian ceremony ) `
+    - vt.
+      - 立誓
   - 同根词
     - adj.
-      - `sacral` 骶骨的；圣礼的；祭典的
-      - `sacramental` 圣礼的；圣餐的；神圣的
+      - `sacral`
+        - 骶骨的；圣礼的；祭典的
+      - `sacramental`
+        - 圣礼的；圣餐的；神圣的
     - n.
-      - `sacramental` 类似圣典之礼仪或事物
+      - `sacramental`
+        - 类似圣典之礼仪或事物
   - 近义词
-    - n. 圣礼；圣餐；神秘的事物
-      - `mystery`
-      - `Eucharist`
-    - vt. 立誓
-      - `impawn`
-      - `take an oath`
+    - n.
+      - 圣礼；圣餐；神秘的事物
+        - `mystery`
+        - `Eucharist`
+    - vt.
+      - 立誓
+        - `impawn`
+        - `take an oath`
   - 例句
     - `...the holy sacrament of baptism.`
       - ...洗礼圣事。

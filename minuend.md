@@ -1,10 +1,13 @@
 - minuend
   - 发音
-    - 英 `/'mɪnjʊend/`
-    - 美 `/'mɪnjʊ,ɛnd/`
+    - 英
+      - `/'mɪnjʊend/`
+    - 美
+      - `/'mɪnjʊ,ɛnd/`
   - 词义
-    - n. [数]被减数
-    - `the number from which another number, the subtrahend, is to be subtracted `
+    - n.
+      - [数]被减数
+        - `the number from which another number, the subtrahend, is to be subtracted `
   - 例句
     - `If the minuend is larger than the subtrahend, the difference will be positive;`
       - 如果减数大于减数，差异将是积极的；

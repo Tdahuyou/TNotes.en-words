@@ -1,27 +1,38 @@
 - dawn
   - 发音
-    - 英 `/dɔːn/`
-    - 美 `/dɔn/`
+    - 英
+      - `/dɔːn/`
+    - 美
+      - `/dɔn/`
   - 词义
-    - n. 破晓，黎明；开始，发端
-    - `the time at the beginning of the day when light first appears`
+    - n.
+      - 破晓，黎明；开始，发端
+        - `the time at the beginning of the day when light first appears`
   - 同根词
     - n.
-      - `dawning` 黎明，拂晓；东
+      - `dawning`
+        - 黎明，拂晓；东
     - v.
-      - `dawning` 破晓；展现；显露（dawn的ing形式）
+      - `dawning`
+        - 破晓；展现；显露（dawn的ing形式）
   - 近义词
-    - n. [天]黎明；开端
-      - `morning`
-      - `origin`
-    - vt. 破晓；出现；被领悟
-      - `come out`
-      - `break of day`
+    - n.
+      - [天]黎明；开端
+        - `morning`
+        - `origin`
+    - vt.
+      - 破晓；出现；被领悟
+        - `come out`
+        - `break of day`
   - 短语
-    - `at dawn` 拂晓；天一亮 
-    - `before dawn` 凌晨；黎明前；拂晓 
-    - `dawn on` 开始被理解；渐渐明白 
-    - `crack of dawn` n. 破晓；黎明 
+    - `at dawn`
+      - 拂晓；天一亮 
+    - `before dawn`
+      - 凌晨；黎明前；拂晓 
+    - `dawn on`
+      - 开始被理解；渐渐明白 
+    - `crack of dawn`
+      - n. 破晓；黎明 
   - 例句
     - `When dawn broke (= the first light of the day appeared ) , we were still 50 miles from Calcutta.`
       - 破晓的时候，我们离加尔各答还有50英里。

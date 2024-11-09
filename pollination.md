@@ -1,16 +1,22 @@
 - pollination
   - 发音
-    - 英 `/ˌpɒləˈneɪʃn/`
-    - 美 `/ˌpɑləˈneʃən/`
+    - 英
+      - `/ˌpɒləˈneɪʃn/`
+    - 美
+      - `/ˌpɑləˈneʃən/`
   - 词义
-    - n. 授粉
+    - n.
+      - 授粉
   - 同根词
     - n.
-      - `pollinator` 授花粉器
+      - `pollinator`
+        - 授花粉器
     - vt.
-      - `pollinate` 对...授粉
+      - `pollinate`
+        - 对...授粉
   - 短语
-    - `artificial pollination` 人工授粉；人工授精 
+    - `artificial pollination`
+      - 人工授粉；人工授精 
   - 例句
     - `The new research provides early evidence that climate change may be playing a role in driving down pollination.`
       - 这项新的研究提供了初步证据，气候变化可能是促使授粉减少的一个因素。

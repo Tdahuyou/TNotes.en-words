@@ -1,12 +1,16 @@
 - trinomial
   - 发音
-    - 英 `/traɪ'nəʊmɪəl/`
-    - 美 `/traɪ'nomɪəl/`
+    - 英
+      - `/traɪ'nəʊmɪəl/`
+    - 美
+      - `/traɪ'nomɪəl/`
   - 词义
-    - n. [数]三项式；[生物]三名法
-    - `a polynomial consisting of three terms, such as ax² + bx + c `
-    - adj. 三项式的
-    - `consisting of or relating to three terms `
+    - n.
+      - [数]三项式；[生物]三名法
+        - `a polynomial consisting of three terms, such as ax² + bx + c `
+    - adj.
+      - 三项式的
+        - `consisting of or relating to three terms `
   - 例句
     - `It is set up trinomial equation for fractured well on low-permeability gas reservoirs based on percolation mechanics.`
       - 文章从渗流力学基本理论出发，建立了低渗透气藏压裂井三项式产能方程。

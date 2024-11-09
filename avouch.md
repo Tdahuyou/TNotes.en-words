@@ -1,18 +1,23 @@
 - avouch
   - 发音
-    - 英 `/ə'vaʊtʃ/`
-    - 美 `/ə'vautʃ/`
+    - 英
+      - `/ə'vaʊtʃ/`
+    - 美
+      - `/ə'vautʃ/`
   - 词义
-    - v. 确保
-    - `to vouch for; guarantee `
+    - v.
+      - 确保
+        - `to vouch for; guarantee `
   - 同根词
     - n.
-      - `avouchment` 保证；断言
+      - `avouchment`
+        - 保证；断言
   - 近义词
-    - vt. 断言；保证
-      - `undertake`
-      - `assure`
-      - `declare`
+    - vt.
+      - 断言；保证
+        - `undertake`
+        - `assure`
+        - `declare`
   - 例句
     - `He offered to avouch his innocence with his sword.`
       - 他表示愿以剑来保证他是无辜的。

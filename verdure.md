@@ -1,10 +1,13 @@
 - verdure
   - 发音
-    - 英 `/'vɜːdjə; -jʊə/`
-    - 美 `/'vɝdjɚ/`
+    - 英
+      - `/'vɜːdjə; -jʊə/`
+    - 美
+      - `/'vɝdjɚ/`
   - 词义
-    - n. 碧绿
-    - `flourishing green vegetation or its colour `
+    - n.
+      - 碧绿
+        - `flourishing green vegetation or its colour `
   - 例句
     - `Yet much of the land—moist black soil and extraordinary verdure—was all but empty.`
       - 这里的土壤是潮湿的黑土，植被格外翠绿，然而大部分土地上却空空如也。

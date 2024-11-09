@@ -1,23 +1,32 @@
 - captivate
   - 发音
-    - 英 `/'kæptɪveɪt/`
-    - 美 `/'kæptɪvet/`
+    - 英
+      - `/'kæptɪveɪt/`
+    - 美
+      - `/'kæptɪvet/`
   - 词义
-    - v. 迷住,迷惑
-    - `to attract someone very much, and hold their attention`
+    - v.
+      - 迷住,迷惑
+        - `to attract someone very much, and hold their attention`
   - 同根词
     - adj.
-      - `captive` 被俘虏的；被迷住的
-      - `captivating` 迷人的；有魅力的
+      - `captive`
+        - 被俘虏的；被迷住的
+      - `captivating`
+        - 迷人的；有魅力的
     - n.
-      - `captive` 俘虏；迷恋者
-      - `captivation` 魅力；着迷；迷惑
+      - `captive`
+        - 俘虏；迷恋者
+      - `captivation`
+        - 魅力；着迷；迷惑
     - v.
-      - `captivating` 使…着迷（captivate的ing形式）
+      - `captivating`
+        - 使…着迷（captivate的ing形式）
   - 近义词
-    - vt. 迷住，迷惑
-      - `possess`
-      - `spell`
+    - vt.
+      - 迷住，迷惑
+        - `possess`
+        - `spell`
   - 例句
     - `I was captivated by her brilliant mind.`
       - 我为她的聪慧所迷。

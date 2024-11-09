@@ -1,13 +1,17 @@
 - outwash
   - 发音
-    - 英 `/'aʊtwɒʃ/`
-    - 美 `/'aʊtwɑʃ/`
+    - 英
+      - `/'aʊtwɒʃ/`
+    - 美
+      - `/'aʊtwɑʃ/`
   - 词义
-    - n. [地质]冰水沉积
-    - `a mass of gravel, sand, etc, carried and deposited by the water derived from melting glaciers `
+    - n.
+      - [地质]冰水沉积
+        - `a mass of gravel, sand, etc, carried and deposited by the water derived from melting glaciers `
   - 近义词
-    - n. [地质]冰水沉积；消融，冲蚀
-      - `ablation`
+    - n.
+      - [地质]冰水沉积；消融，冲蚀
+        - `ablation`
   - 例句
     - `This landslide deposit pretty much rules out the idea that the deposits farther upstream are glacial outwash.`
       - 这个滑坡沉积物大可以排除远离上游的沉积物是冰川沉积的想法。

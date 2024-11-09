@@ -1,14 +1,18 @@
 - cockroach
   - 发音
-    - 英 `/'kɒkrəʊtʃ/`
-    - 美 `/'kɑk'rotʃ/`
+    - 英
+      - `/'kɒkrəʊtʃ/`
+    - 美
+      - `/'kɑk'rotʃ/`
   - 词义
-    - n. [昆]蟑螂
-    - `a large black or brown insect that lives in dirty houses, especially if they are warm and there is food to eat`
+    - n.
+      - [昆]蟑螂
+        - `a large black or brown insect that lives in dirty houses, especially if they are warm and there is food to eat`
   - 近义词
-    - n. [昆]蟑螂
-      - `black beetle`
-      - `roach`
+    - n.
+      - [昆]蟑螂
+        - `black beetle`
+        - `roach`
   - 例句
     - `He stumbled to the door and found a six-foot cockroach standing there.`
       - 他跌跌撞撞地去打开门，见到一只六英尺高的蟑螂站在那儿！

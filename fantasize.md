@@ -1,34 +1,49 @@
 - fantasize
   - 发音
-    - 英 `/'fæntəsaɪz/`
-    - 美 `/'fæntəsaɪz/`
+    - 英
+      - `/'fæntəsaɪz/`
+    - 美
+      - `/'fæntəsaɪz/`
   - 词义
-    - v. 想象，幻想
-    - `to imagine that you are doing something which is very pleasant or exciting, but which is very unlikely to happen`
+    - v.
+      - 想象，幻想
+        - `to imagine that you are doing something which is very pleasant or exciting, but which is very unlikely to happen`
   - 同根词
     - adj.
-      - `fantasy` 虚幻的
+      - `fantasy`
+        - 虚幻的
     - adv.
-      - `fantastically` 想像中地；奇特地；难以置信地
+      - `fantastically`
+        - 想像中地；奇特地；难以置信地
     - n.
-      - `fantasy` 幻想；白日梦；幻觉
-      - `fantasia` 幻想曲；集成曲；幻想作品
-      - `fantasist` 幻想曲作曲家
-      - `fantast` 幻想家；梦想家；脾气古怪的人
+      - `fantasy`
+        - 幻想；白日梦；幻觉
+      - `fantasia`
+        - 幻想曲；集成曲；幻想作品
+      - `fantasist`
+        - 幻想曲作曲家
+      - `fantast`
+        - 幻想家；梦想家；脾气古怪的人
     - vi.
-      - `fantasy` 耽于幻想；奏幻想曲（等于phantasy）
-      - `fantasise` 耽于幻想
+      - `fantasy`
+        - 耽于幻想；奏幻想曲（等于phantasy）
+      - `fantasise`
+        - 耽于幻想
     - vt.
-      - `fantasy` 空想；想像
-      - `fantasise` 幻想（等于fantasize）
+      - `fantasy`
+        - 空想；想像
+      - `fantasise`
+        - 幻想（等于fantasize）
   - 近义词
-    - vt. 幻想；想像
-      - `imagine`
-      - `picture`
-      - `think of`
-    - vi. 幻想
-      - `have vision of`
-      - `fancy`
+    - vt.
+      - 幻想；想像
+        - `imagine`
+        - `picture`
+        - `think of`
+    - vi.
+      - 幻想
+        - `have vision of`
+        - `fancy`
   - 例句
     - `I fantasized about writing music.`
       - 我曾幻想作曲。

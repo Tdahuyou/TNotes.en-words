@@ -1,10 +1,13 @@
 - cinquain
   - 发音
-    - 英 `/sɪŋ'keɪn/`
-    - 美 `/sɪŋ'ken/`
+    - 英
+      - `/sɪŋ'keɪn/`
+    - 美
+      - `/sɪŋ'ken/`
   - 词义
-    - n. 五行诗
-    - `a stanza of five lines`
+    - n.
+      - 五行诗
+        - `a stanza of five lines`
   - 例句
     - `Another simple form of poem that students can easily write is the cinquain, a poem made up of five lines.`
       - 另外一种学生容易写的简体诗是由五行组成的，叫做五行诗。

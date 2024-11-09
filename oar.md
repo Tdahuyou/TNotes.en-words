@@ -1,21 +1,27 @@
 - oar
   - 发音
-    - 英 `/ɔː/`
-    - 美 `/ɔr/`
+    - 英
+      - `/ɔː/`
+    - 美
+      - `/ɔr/`
   - 词义
-    - n. 桨；橹
-    - `a long pole with a wide flat blade at one end, used for rowing a boat`
+    - n.
+      - 桨；橹
+        - `a long pole with a wide flat blade at one end, used for rowing a boat`
   - 记忆
     - 桨橹(oar)是用木板(board)做的
   - 同根词
     - n.
-      - `oarage` 划桨；划桨装置
+      - `oarage`
+        - 划桨；划桨装置
   - 近义词
-    - n. 桨；橹；桨手
-      - `rower`
-      - `yuloh`
-    - vt. 划（船）
-      - `gondole`
+    - n.
+      - 桨；橹；桨手
+        - `rower`
+        - `yuloh`
+    - vt.
+      - 划（船）
+        - `gondole`
   - 例句
     - `Cold worlds shake from the oar.`
       - 冰冷的世界从桨上摇落。

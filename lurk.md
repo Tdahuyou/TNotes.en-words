@@ -1,21 +1,28 @@
 - lurk
   - 发音
-    - 英 `/lɜːk/`
-    - 美 `/lɝk/`
+    - 英
+      - `/lɜːk/`
+    - 美
+      - `/lɝk/`
   - 词义
-    - v. 潜伏；潜藏；埋伏
-    - `to wait somewhere quietly and secretly, usually because you are going to do something wrong`
-    - n. 潜伏；埋伏
+    - v.
+      - 潜伏；潜藏；埋伏
+        - `to wait somewhere quietly and secretly, usually because you are going to do something wrong`
+    - n.
+      - 潜伏；埋伏
   - 同根词
     - n.
-      - `lurker` 潜伏者
+      - `lurker`
+        - 潜伏者
   - 近义词
-    - vi. 潜伏；潜藏；埋伏
-      - `to conceal`
-      - `lie low`
-    - n. 潜伏；埋伏
-      - `latency`
-      - `incubation`
+    - vi.
+      - 潜伏；潜藏；埋伏
+        - `to conceal`
+        - `lie low`
+    - n.
+      - 潜伏；埋伏
+        - `latency`
+        - `incubation`
   - 例句
     - `a dark formless danger, lurking in the shadows`
       - 一种潜藏在阴影里的无形危险

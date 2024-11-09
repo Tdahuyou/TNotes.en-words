@@ -1,7 +1,9 @@
 - Christchurch
   - 发音
-    - 英 `/'kraisttʃə:tʃ/`
-    - 美 `/'kraisttʃə:tʃ/`
+    - 英
+      - `/'kraisttʃə:tʃ/`
+    - 美
+      - `/'kraisttʃə:tʃ/`
   - 词义
   - 例句
     - `The United States stands ready to provide assistance to the government of New Zealand and to the brave people of Christchurch.`

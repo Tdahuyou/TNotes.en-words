@@ -1,14 +1,18 @@
 - apiece
   - 发音
-    - 英 `/ə'piːs/`
-    - 美 `/ə'pis/`
+    - 英
+      - `/ə'piːs/`
+    - 美
+      - `/ə'pis/`
   - 词义
-    - adv. 每个,每人,各
-    - `costing or having a particular amount each`
+    - adv.
+      - 每个,每人,各
+        - `costing or having a particular amount each`
   - 近义词
-    - adv. 每人；每个；各自地
-      - `respectively`
-      - `each`
+    - adv.
+      - 每人；每个；各自地
+        - `respectively`
+        - `each`
   - 例句
     - `The pictures are worth about £10,000 apiece.`
       - 这些画每幅价值约一万英镑。

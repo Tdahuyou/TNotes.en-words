@@ -1,31 +1,41 @@
 - expire
   - 发音
-    - 英 `/ɪk'spaɪər/`
-    - 美 `/ɪk'spaɪɚ/`
+    - 英
+      - `/ɪk'spaɪər/`
+    - 美
+      - `/ɪk'spaɪɚ/`
   - 词义
-    - vi. 到期，期满，失效；断气，去世
-    - `if an official document expires, it can no longer be legally used`
+    - vi.
+      - 到期，期满，失效；断气，去世
+        - `if an official document expires, it can no longer be legally used`
   - 记忆
     - ex(出) + pir(呼吸) + e → 停住了呼吸 → 到期； 去世
   - 同根词
     - adj.
-      - `expired` 过期的；失效的
-      - `expiratory` [生理] 呼气的；吐气的
+      - `expired`
+        - 过期的；失效的
+      - `expiratory`
+        - [生理] 呼气的；吐气的
     - n.
-      - `expiry` 满期，逾期；呼气；终结
-      - `expiration` 呼气；终结；届期
+      - `expiry`
+        - 满期，逾期；呼气；终结
+      - `expiration`
+        - 呼气；终结；届期
     - v.
-      - `expired` 期满（expire的过去分词）
+      - `expired`
+        - 期满（expire的过去分词）
   - 近义词
-    - vi. 期满；终止；死亡；呼气
-      - `die`
-      - `drop`
-      - `determine`
-      - `finish`
-      - `pass`
-    - vt. 呼出（空气）
-      - `breathe out`
-      - `exsufflate`
+    - vi.
+      - 期满；终止；死亡；呼气
+        - `die`
+        - `drop`
+        - `determine`
+        - `finish`
+        - `pass`
+    - vt.
+      - 呼出（空气）
+        - `breathe out`
+        - `exsufflate`
   - 例句
     - `My passport expires next week.`
       - 我的护照下周就到期了。

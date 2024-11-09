@@ -1,27 +1,39 @@
 - dimly
   - 发音
-    - 英 `/'dimli/`
-    - 美 `/'dɪmli/`
+    - 英
+      - `/'dimli/`
+    - 美
+      - `/'dɪmli/`
   - 词义
-    - adv. 微暗,朦胧
+    - adv.
+      - 微暗,朦胧
   - 同根词
     - adj.
-      - `dim` 暗淡的，昏暗的；模糊的，看不清的；悲观的，怀疑的
-      - `dimmed` 无效的；暗灰色的
+      - `dim`
+        - 暗淡的，昏暗的；模糊的，看不清的；悲观的，怀疑的
+      - `dimmed`
+        - 无效的；暗灰色的
     - n.
-      - `dim` 笨蛋，傻子
-      - `dimmer` [车辆] 调光器；光暗掣；衰减器
-      - `dimness` 微暗；不清楚；混沌
+      - `dim`
+        - 笨蛋，傻子
+      - `dimmer`
+        - [车辆] 调光器；光暗掣；衰减器
+      - `dimness`
+        - 微暗；不清楚；混沌
     - v.
-      - `dimmed` 使暗淡；变模糊（dim的过去式）
+      - `dimmed`
+        - 使暗淡；变模糊（dim的过去式）
     - vi.
-      - `dim` 变模糊，变暗淡
+      - `dim`
+        - 变模糊，变暗淡
     - vt.
-      - `dim` 使暗淡，使失去光泽；使变模糊
+      - `dim`
+        - 使暗淡，使失去光泽；使变模糊
   - 近义词
-    - adv. 朦胧地；微暗
-      - `indistinctly`
-      - `hazily`
+    - adv.
+      - 朦胧地；微暗
+        - `indistinctly`
+        - `hazily`
   - 例句
     - `Ecological sciences were only dimly understood in the late 19th century.`
       - 19世纪末，人们对生态科学只有朦胧的认识。

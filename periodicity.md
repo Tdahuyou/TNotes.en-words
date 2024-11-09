@@ -1,23 +1,33 @@
 - periodicity
   - 发音
-    - 英 `/ˌpiəriə'disəti/`
-    - 美 `/,pɪrɪə'dɪsəti/`
+    - 英
+      - `/ˌpiəriə'disəti/`
+    - 美
+      - `/,pɪrɪə'dɪsəti/`
   - 词义
-    - n. 周期性
+    - n.
+      - 周期性
   - 同根词
     - adj.
-      - `period` 某一时代的
-      - `periodical` [数] 周期的；定期的
-      - `periodic` 周期的；定期的
+      - `period`
+        - 某一时代的
+      - `periodical`
+        - [数] 周期的；定期的
+      - `periodic`
+        - 周期的；定期的
     - adv.
-      - `periodically` 定期地；周期性地；偶尔；间歇
+      - `periodically`
+        - 定期地；周期性地；偶尔；间歇
     - n.
-      - `period` 周期，期间；时期；月经；课时
-      - `periodical` 期刊；杂志
+      - `period`
+        - 周期，期间；时期；月经；课时
+      - `periodical`
+        - 期刊；杂志
   - 近义词
-    - n. [数]周期性；频率；定期性
-      - `cyclicity`
-      - `vibration frequency`
+    - n.
+      - [数]周期性；频率；定期性
+        - `cyclicity`
+        - `vibration frequency`
   - 例句
     - `Slubby yarn is divided into periodicity slubby yarn and random slubby yarn.`
       - 将竹节纱分为周期性竹节纱和随机竹节纱。

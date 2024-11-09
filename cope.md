@@ -1,19 +1,25 @@
 - cope
   - 发音
-    - 英 `/kəʊp/`
-    - 美 `/kop/`
+    - 英
+      - `/kəʊp/`
+    - 美
+      - `/kop/`
   - 词义
-    - v. 应付,处理
-    - `to succeed in dealing with a difficult problem or situation`
+    - v.
+      - 应付,处理
+        - `to succeed in dealing with a difficult problem or situation`
   - 近义词
-    - vi. 处理；对付；竞争
-      - `manage`
-      - `contest`
-    - n. 长袍
-      - `gown`
-      - `robe`
+    - vi.
+      - 处理；对付；竞争
+        - `manage`
+        - `contest`
+    - n.
+      - 长袍
+        - `gown`
+        - `robe`
   - 短语
-    - `cope with` 处理，应付 
+    - `cope with`
+      - 处理，应付 
   - 例句
     - `Sometimes I find it hard to cope.`
       - 有时候我觉得很难应付。

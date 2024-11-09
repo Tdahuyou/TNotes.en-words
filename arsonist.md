@@ -1,13 +1,17 @@
 - arsonist
   - 发音
-    - 英 `/'ɑːs(ə)nɪst; 'ɑːsənɪst/`
-    - 美 `/'ɑrsənɪst/`
+    - 英
+      - `/'ɑːs(ə)nɪst; 'ɑːsənɪst/`
+    - 美
+      - `/'ɑrsənɪst/`
   - 词义
-    - n. 纵火犯人
-    - `someone who commits the crime of arson`
+    - n.
+      - 纵火犯人
+        - `someone who commits the crime of arson`
   - 同根词
     - n.
-      - `arson` 纵火；纵火罪
+      - `arson`
+        - 纵火；纵火罪
   - 例句
     - `What makes an arsonist?`
       - 是什么造就了一名纵火犯？

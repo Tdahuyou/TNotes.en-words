@@ -1,17 +1,22 @@
 - bullate
   - 发音
-    - 英 `/'bʊleɪt/`
-    - 美 `/'bʊlɪt/`
+    - 英
+      - `/'bʊleɪt/`
+    - 美
+      - `/'bʊlɪt/`
   - 词义
-    - adj. 起水泡的,肿胀的
-    - `puckered or blistered in appearance `
+    - adj.
+      - 起水泡的,肿胀的
+        - `puckered or blistered in appearance `
   - 同根词
     - adj.
-      - `bulgy` 凸出的；膨胀的；肿胀的
+      - `bulgy`
+        - 凸出的；膨胀的；肿胀的
   - 近义词
-    - adj. [植]隆起的；肿胀的；水泡状的
-      - `ridgy`
-      - `swollen`
+    - adj.
+      - [植]隆起的；肿胀的；水泡状的
+        - `ridgy`
+        - `swollen`
   - 例句
     - `the bullate leaves of the primrose`
       - 

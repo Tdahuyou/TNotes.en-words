@@ -1,20 +1,27 @@
 - jobber
   - 发音
-    - 英 `/'dʒɒbə/`
-    - 美 `/'dʒɑbɚ/`
+    - 英
+      - `/'dʒɒbə/`
+    - 美
+      - `/'dʒɑbɚ/`
   - 词义
-    - n. 临时工,批发商
+    - n.
+      - 临时工,批发商
   - 同根词
     - n.
-      - `job` 工作；职业
+      - `job`
+        - 工作；职业
     - vi.
-      - `job` 做零工
+      - `job`
+        - 做零工
     - vt.
-      - `job` 承包；代客买卖
+      - `job`
+        - 承包；代客买卖
   - 近义词
-    - n. 批发商；[金融]股票经纪人；[劳经]临时工
-      - `wholesaler`
-      - `merchant`
+    - n.
+      - 批发商；[金融]股票经纪人；[劳经]临时工
+        - `wholesaler`
+        - `merchant`
   - 例句
     - `These are the differences between the responsibilities of a broker and a jobber .`
       - 这些是经纪人的职责和一个批发商之间的不同。

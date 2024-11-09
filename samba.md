@@ -1,11 +1,15 @@
 - samba
   - 发音
-    - 英 `/'sæmbə/`
-    - 美 `/'sæmbə/`
+    - 英
+      - `/'sæmbə/`
+    - 美
+      - `/'sæmbə/`
   - 词义
-    - n. 桑巴舞（巴西交谊舞）
-    - `a fast dance from Brazil, or the type of music played for this dance`
-    - v. 跳桑巴舞
+    - n.
+      - 桑巴舞（巴西交谊舞）
+        - `a fast dance from Brazil, or the type of music played for this dance`
+    - v.
+      - 跳桑巴舞
   - 例句
     - `Yet, this is also the land of samba and world-class soccer, a country built by European immigrants and African slaves.`
       - 但这是一块由欧洲殖民者和非洲奴隶建立的国家，是桑巴和世界顶级水平足球诞生的土壤。

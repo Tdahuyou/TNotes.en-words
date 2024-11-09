@@ -1,40 +1,61 @@
 - advertise
   - 发音
-    - 英 `/'ædvərtaɪz/`
-    - 美 `/'ædvɚtaɪz/`
+    - 英
+      - `/'ædvərtaɪz/`
+    - 美
+      - `/'ædvɚtaɪz/`
   - 词义
-    - vt. 为…做广告，宣传；公告，公布
-    - `to tell the public about a product or service in order to persuade them to buy it`
+    - vt.
+      - 为…做广告，宣传；公告，公布
+        - `to tell the public about a product or service in order to persuade them to buy it`
   - 记忆
     - ad(=to) + vert(转) + ise(使…) → 使人们的注意力转向某一方 → 宣传
   - 同根词
     - adj.
-      - `advertising` 广告的；广告业的
-      - `advertised` 广告的
-      - `advertizing` 广告的；广告业务的
+      - `advertising`
+        - 广告的；广告业的
+      - `advertised`
+        - 广告的
+      - `advertizing`
+        - 广告的；广告业务的
     - n.
-      - `advertisement` 广告，宣传
-      - `advertising` 广告；广告业；登广告
-      - `advert` 广告
-      - `advertiser` 广告客户；刊登广告的人
-      - `advertorial` 社论式广告（指常作为杂志中心插页的正式广告文字）
-      - `advertizer` 广告客户；广告者
-      - `advertizing` 广告，广告活动；广告业
+      - `advertisement`
+        - 广告，宣传
+      - `advertising`
+        - 广告；广告业；登广告
+      - `advert`
+        - 广告
+      - `advertiser`
+        - 广告客户；刊登广告的人
+      - `advertorial`
+        - 社论式广告（指常作为杂志中心插页的正式广告文字）
+      - `advertizer`
+        - 广告客户；广告者
+      - `advertizing`
+        - 广告，广告活动；广告业
     - v.
-      - `advertising` 公告；为…做广告（advertise的ing形式）
-      - `advertizing` 登广告（advertize的ing形式）
+      - `advertising`
+        - 公告；为…做广告（advertise的ing形式）
+      - `advertizing`
+        - 登广告（advertize的ing形式）
     - vi.
-      - `advert` 注意；谈到
-      - `advertised` 登广告（advertise的过去式和过去分词）
-      - `advertize` 做广告
+      - `advert`
+        - 注意；谈到
+      - `advertised`
+        - 登广告（advertise的过去式和过去分词）
+      - `advertize`
+        - 做广告
     - vt.
-      - `advertize` 做广告，登广告；通知
+      - `advertize`
+        - 做广告，登广告；通知
   - 近义词
-    - vt. 通知；为…做广告；使突出
-      - `message`
-      - `instruct`
+    - vt.
+      - 通知；为…做广告；使突出
+        - `message`
+        - `instruct`
   - 短语
-    - `advertise for` 登广告征求（寻找）某物；登招请（待聘等）广告 
+    - `advertise for`
+      - 登广告征求（寻找）某物；登招请（待聘等）广告 
   - 例句
     - `They no longer advertise alcohol or cigarettes at sporting events.`
       - 他们不再在体育赛事上做烟酒广告了。

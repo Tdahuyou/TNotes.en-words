@@ -1,27 +1,42 @@
 - neutralize
   - 发音
-    - 英 `/'nju:trəlaiz/`
-    - 美 `/'nʊtrə'laɪz/`
+    - 英
+      - `/'nju:trəlaiz/`
+    - 美
+      - `/'nʊtrə'laɪz/`
   - 词义
-    - v. 压制
+    - v.
+      - 压制
   - 同根词
     - adj.
-      - `neutral` 中立的，中性的；中立国的；非彩色的
-      - `neutralized` 中立化的
+      - `neutral`
+        - 中立的，中性的；中立国的；非彩色的
+      - `neutralized`
+        - 中立化的
     - n.
-      - `neutral` 中立国；中立者；非彩色；齿轮的空档
-      - `neutrality` 中立；中性；中立立场
-      - `neutralization` [化学] 中和；[化学] 中和作用；中立状态
-      - `neutralisation` 中和；中立状态
-      - `neutralism` 中立；中立主义
-      - `neutralist` 中立主义者
+      - `neutral`
+        - 中立国；中立者；非彩色；齿轮的空档
+      - `neutrality`
+        - 中立；中性；中立立场
+      - `neutralization`
+        - [化学] 中和；[化学] 中和作用；中立状态
+      - `neutralisation`
+        - 中和；中立状态
+      - `neutralism`
+        - 中立；中立主义
+      - `neutralist`
+        - 中立主义者
     - v.
-      - `neutralized` 中立化（neutralize的过去式和过去分词）
+      - `neutralized`
+        - 中立化（neutralize的过去式和过去分词）
     - vi.
-      - `neutralise` 中和
+      - `neutralise`
+        - 中和
     - vt.
-      - `neutralise` 中和；使中立；使无效
+      - `neutralise`
+        - 中和；使中立；使无效
   - 近义词
-    - vt. 抵销；使…中和；使…无效；使…中立
-      - `blank`
-      - `cancel out`
+    - vt.
+      - 抵销；使…中和；使…无效；使…中立
+        - `blank`
+        - `cancel out`

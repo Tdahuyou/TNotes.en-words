@@ -1,21 +1,27 @@
 - miser
   - 发音
-    - 英 `/'maizə(r)/`
-    - 美 `/'maɪzɚ/`
+    - 英
+      - `/'maizə(r)/`
+    - 美
+      - `/'maɪzɚ/`
   - 词义
-    - n. 守财奴；吝啬鬼
-    - `someone who is not generous and does not like spending money`
+    - n.
+      - 守财奴；吝啬鬼
+        - `someone who is not generous and does not like spending money`
   - 记忆
     - 守财奴 (miser) 实际上很痛苦 (misery)
   - 同根词
     - adj.
-      - `miserly` 吝啬的；贪婪的
+      - `miserly`
+        - 吝啬的；贪婪的
     - n.
-      - `miserliness` 贪婪；吝啬
+      - `miserliness`
+        - 贪婪；吝啬
   - 近义词
-    - n. 守财奴；吝啬鬼；（石油工程上用的）凿井机
-      - `screw`
-      - `pinchfist`
+    - n.
+      - 守财奴；吝啬鬼；（石油工程上用的）凿井机
+        - `screw`
+        - `pinchfist`
   - 例句
     - `I'm married to a miser.`
       - 我嫁了个守财奴。

@@ -1,23 +1,30 @@
 - indifference
   - 发音
-    - 英 `/ɪn'dɪfrəns/`
-    - 美 `/ɪn'dɪfrəns/`
+    - 英
+      - `/ɪn'dɪfrəns/`
+    - 美
+      - `/ɪn'dɪfrəns/`
   - 词义
-    - n. 冷漠，不关心
-    - `lack of interest or concern`
+    - n.
+      - 冷漠，不关心
+        - `lack of interest or concern`
   - 记忆
     - 来自indifferent(a. 不关心的， 冷漠的)
   - 同根词
     - adj.
-      - `indifferent` 漠不关心的；无关紧要的；中性的，中立的
+      - `indifferent`
+        - 漠不关心的；无关紧要的；中性的，中立的
     - adv.
-      - `indifferently` 冷淡地；漠不关心地；平庸地；相当差地
+      - `indifferently`
+        - 冷淡地；漠不关心地；平庸地；相当差地
   - 近义词
-    - n. 漠不关心；冷淡；不重视；中立
-      - `nonchalance`
-      - `dryness`
+    - n.
+      - 漠不关心；冷淡；不重视；中立
+        - `nonchalance`
+        - `dryness`
   - 短语
-    - `indifference curve` [经]无差异曲线 
+    - `indifference curve`
+      - [经]无差异曲线 
   - 例句
     - `Whether you stay or leave is a matter of total indifference to me (= I do not care ).`
       - 你是留是走我根本无所谓。

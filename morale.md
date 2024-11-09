@@ -1,18 +1,23 @@
 - morale
   - 发音
-    - 英 `/mə'ræl/`
-    - 美 `/mə'ræl/`
+    - 英
+      - `/mə'ræl/`
+    - 美
+      - `/mə'ræl/`
   - 词义
-    - n. 士气，斗志
-    - `the level of confidence and positive feelings that people have, especially people who work together, who belong to the same team etc`
+    - n.
+      - 士气，斗志
+        - `the level of confidence and positive feelings that people have, especially people who work together, who belong to the same team etc`
   - 记忆
     - 和moral(n. 道德)一起记
   - 近义词
-    - n. 士气，斗志
-      - `fight`
-      - `martialism`
+    - n.
+      - 士气，斗志
+        - `fight`
+        - `martialism`
   - 短语
-    - `good morale` 高昂士气；昂扬士气 
+    - `good morale`
+      - 高昂士气；昂扬士气 
   - 例句
     - `A win is always good for morale.`
       - 胜利总是可以鼓舞士气。

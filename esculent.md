@@ -1,14 +1,18 @@
 - esculent
   - 发音
-    - 英 `/'eskjʊlənt/`
-    - 美 `/'eskjulənt/`
+    - 英
+      - `/'eskjʊlənt/`
+    - 美
+      - `/'eskjulənt/`
   - 词义
-    - adj. 可食用的
-    - `edible `
+    - adj.
+      - 可食用的
+        - `edible `
   - 近义词
-    - adj. 可食用的，适于食用的
-      - `edible`
-      - `touchable`
+    - adj.
+      - 可食用的，适于食用的
+        - `edible`
+        - `touchable`
   - 例句
     - `BHA Cell Differential Agent is extracted through botanic extraction technology of Japan macromolecule energy. It is a kind of esculent products with very strong ability to differentiate melanocyte .`
       - BHA细胞分化剂，由日本高分子能量植物提取技术方法提取，可食用的产品，有极强的分化黑色素细胞能力。

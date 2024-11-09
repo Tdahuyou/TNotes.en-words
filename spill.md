@@ -1,37 +1,53 @@
 - spill
   - 发音
-    - 英 `/spɪl/`
-    - 美 `/spɪl/`
+    - 英
+      - `/spɪl/`
+    - 美
+      - `/spɪl/`
   - 词义
-    - v. 溢出，溅出；蜂拥而出
-    - `if you spill a liquid, or if it spills, it accidentally flows over the edge of a container`
-    - n. 溢出，泄漏
-    - `when you spill something, or an amount of something that is spilled`
+    - v.
+      - 溢出，溅出；蜂拥而出
+        - `if you spill a liquid, or if it spills, it accidentally flows over the edge of a container`
+    - n.
+      - 溢出，泄漏
+        - `when you spill something, or an amount of something that is spilled`
   - 记忆
     - s + pill(药丸) → 药丸太满了， 洒了一地 → 溢出
   - 同根词
     - n.
-      - `spillover` 溢出；外流人口
-      - `spillage` 溢出；溢出量
-      - `spiller` 使溢出者；使溅出者
+      - `spillover`
+        - 溢出；外流人口
+      - `spillage`
+        - 溢出；溢出量
+      - `spiller`
+        - 使溢出者；使溅出者
   - 近义词
-    - vt. 使溢出，使流出；使摔下
-      - `drain`
-      - `overflow`
-    - vi. 溢出，流出；摔下；涌流
-      - `discharge`
-      - `issue`
-      - `shed`
-    - n. 溢出，溅出；溢出量；摔下；小塞子
-      - `superflux`
-      - `extravasation`
+    - vt.
+      - 使溢出，使流出；使摔下
+        - `drain`
+        - `overflow`
+    - vi.
+      - 溢出，流出；摔下；涌流
+        - `discharge`
+        - `issue`
+        - `shed`
+    - n.
+      - 溢出，溅出；溢出量；摔下；小塞子
+        - `superflux`
+        - `extravasation`
   - 短语
-    - `oil spill` 漏油；浮油 
-    - `spill over` 溢出 
-    - `spill the beans` 泄密；说漏嘴 
-    - `spill out` （使）溢出，（使）溅出；突然涌出；说出（真相、内情） 
-    - `chemical spill` 化学溢出物；化学品溢漏 
-    - `spill into` 涌进 
+    - `oil spill`
+      - 漏油；浮油 
+    - `spill over`
+      - 溢出 
+    - `spill the beans`
+      - 泄密；说漏嘴 
+    - `spill out`
+      - （使）溢出，（使）溅出；突然涌出；说出（真相、内情） 
+    - `chemical spill`
+      - 化学溢出物；化学品溢漏 
+    - `spill into`
+      - 涌进 
   - 例句
     - `Katie almost spilled her milk.`
       - 凯蒂差点把牛奶洒出来。

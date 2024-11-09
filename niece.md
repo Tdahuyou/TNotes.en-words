@@ -1,10 +1,13 @@
 - niece
   - 发音
-    - 英 `/niːs/`
-    - 美 `/nis/`
+    - 英
+      - `/niːs/`
+    - 美
+      - `/nis/`
   - 词义
-    - n. 侄女；甥女
-    - `the daughter of your brother or sister, or the daughter of your wife’s or husband’s brother or sister`
+    - n.
+      - 侄女；甥女
+        - `the daughter of your brother or sister, or the daughter of your wife’s or husband’s brother or sister`
   - 记忆
     - “妮子”→长辈对侄女的昵称→侄女
   - 例句

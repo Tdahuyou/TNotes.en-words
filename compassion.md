@@ -1,23 +1,30 @@
 - compassion
   - 发音
-    - 英 `/kəm'pæʃ(ə)n/`
-    - 美 `/kəm'pæʃən/`
+    - 英
+      - `/kəm'pæʃ(ə)n/`
+    - 美
+      - `/kəm'pæʃən/`
   - 词义
-    - n. 同情；怜悯
-    - `a strong feeling of sympathy for someone who is suffering, and a desire to help them`
+    - n.
+      - 同情；怜悯
+        - `a strong feeling of sympathy for someone who is suffering, and a desire to help them`
   - 同根词
     - adj.
-      - `compassionate` 慈悲的；富于同情心的
+      - `compassionate`
+        - 慈悲的；富于同情心的
     - adv.
-      - `compassionately` 同情地；慈悲地；富有同情心地
+      - `compassionately`
+        - 同情地；慈悲地；富有同情心地
     - vt.
-      - `compassionate` 同情；怜悯
+      - `compassionate`
+        - 同情；怜悯
   - 近义词
-    - n. 同情；怜悯
-      - `feeling`
-      - `sympathy`
-      - `pity`
-      - `mercy`
+    - n.
+      - 同情；怜悯
+        - `feeling`
+        - `sympathy`
+        - `pity`
+        - `mercy`
   - 例句
     - `I was shocked by the doctor’s lack of compassion .`
       - 我对这个医生如此缺乏同情心感到震惊。

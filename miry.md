@@ -1,20 +1,27 @@
 - miry
   - 发音
-    - 英 `/'maɪrɪ/`
-    - 美 `/'maiəri/`
+    - 英
+      - `/'maɪrɪ/`
+    - 美
+      - `/'maiəri/`
   - 词义
-    - adj. 泥泞的
+    - adj.
+      - 泥泞的
   - 同根词
     - n.
-      - `mire` 泥潭；[地理] 泥沼
+      - `mire`
+        - 泥潭；[地理] 泥沼
     - vi.
-      - `mire` 陷于泥坑；陷入困境
+      - `mire`
+        - 陷于泥坑；陷入困境
     - vt.
-      - `mire` 使陷于泥坑；使陷入困境
+      - `mire`
+        - 使陷于泥坑；使陷入困境
   - 近义词
-    - adj. 泥泞的；脏的
-      - `founderous`
-      - `uliginous`
+    - adj.
+      - 泥泞的；脏的
+        - `founderous`
+        - `uliginous`
   - 例句
     - `But the miry places thereof and the marishes thereof shall not be healed; they shall be given to salt.`
       - 只是泥泞之地与洼湿之处不得治好，必为盐地。

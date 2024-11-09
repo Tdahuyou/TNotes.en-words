@@ -1,22 +1,30 @@
 - semiannual
   - 发音
-    - 英 `/ˌsemi'ænjuəl/`
-    - 美 `/ˌsemɪ'ænjʊrl/`
+    - 英
+      - `/ˌsemi'ænjuəl/`
+    - 美
+      - `/ˌsemɪ'ænjʊrl/`
   - 词义
-    - adj. 每半年的；半年期的
+    - adj.
+      - 每半年的；半年期的
   - 记忆
     - semi (半) + annual (一年一次的) → 半年一次的 → 每半年的； 半年期的
   - 同根词
     - adj.
-      - `semicentennial` 五十周年纪念的；五十年一度的
+      - `semicentennial`
+        - 五十周年纪念的；五十年一度的
     - adv.
-      - `semiannually` 每半年
+      - `semiannually`
+        - 每半年
     - n.
-      - `semester` 学期；半年
-      - `semicentennial` 五十周年；五十周年纪念
+      - `semester`
+        - 学期；半年
+      - `semicentennial`
+        - 五十周年；五十周年纪念
   - 近义词
-    - adj. 一年两次的；半年一次的
-      - `bi-annual`
+    - adj.
+      - 一年两次的；半年一次的
+        - `bi-annual`
   - 例句
     - `...the semiannual meeting of the International Monetary Fund.`
       - ...一年两次的国际货币基金组织会议。

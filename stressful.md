@@ -1,22 +1,30 @@
 - stressful
   - 发音
-    - 英 `/'stresfʊl; -f(ə)l/`
-    - 美 `/'strɛsfl/`
+    - 英
+      - `/'stresfʊl; -f(ə)l/`
+    - 美
+      - `/'strɛsfl/`
   - 词义
-    - adj. 紧张的,压力重的
-    - `a job, experience, or situation that is stressful makes you worry a lot`
+    - adj.
+      - 紧张的,压力重的
+        - `a job, experience, or situation that is stressful makes you worry a lot`
   - 同根词
     - n.
-      - `stress` 压力；强调；紧张；重要性；重读
-      - `stressor` 紧张性刺激；光彩
+      - `stress`
+        - 压力；强调；紧张；重要性；重读
+      - `stressor`
+        - 紧张性刺激；光彩
     - vt.
-      - `stress` 强调；使紧张；加压力于；用重音读
+      - `stress`
+        - 强调；使紧张；加压力于；用重音读
   - 近义词
-    - adj. 紧张的；有压力的
-      - `intense`
-      - `tense`
+    - adj.
+      - 紧张的；有压力的
+        - `intense`
+        - `tense`
   - 短语
-    - `stressful situation` 应激情境；应激情况 
+    - `stressful situation`
+      - 应激情境；应激情况 
   - 例句
     - `Moving to a new house is a very stressful experience.`
       - 搬新家是件很劳心的事。

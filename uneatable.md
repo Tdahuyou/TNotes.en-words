@@ -1,14 +1,18 @@
 - uneatable
   - 发音
-    - 英 `/ʌn'iːtəb(ə)l/`
-    - 美 `/ʌn'itəbl/`
+    - 英
+      - `/ʌn'iːtəb(ə)l/`
+    - 美
+      - `/ʌn'itəbl/`
   - 词义
-    - adj. 不能吃的；不适合食用的
-    - `a word meaning unpleas­ant or unsuitable to eat, that some people think is incorrect`
+    - adj.
+      - 不能吃的；不适合食用的
+        - `a word meaning unpleas­ant or unsuitable to eat, that some people think is incorrect`
   - 近义词
-    - adj. 不能吃的；不适合食用的
-      - `inedible`
-      - `unedible`
+    - adj.
+      - 不能吃的；不适合食用的
+        - `inedible`
+        - `unedible`
   - 例句
     - `The bread, bad enough in the morning, was now positively uneatable; it was so hard that even the strongest jaws could make little impression on it.`
       - 早上的面包已经够糟糕了，晚饭的面包却变本加厉得坏，根本不能吃，它是如此之坚硬，叫牙口最好的人见了也一筹莫展。

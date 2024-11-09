@@ -1,19 +1,24 @@
 - truculent
   - 发音
-    - 英 `/'trʌkjulənt/`
-    - 美 `/'trʊkjʊlənt/`
+    - 英
+      - `/'trʌkjulənt/`
+    - 美
+      - `/'trʊkjʊlənt/`
   - 词义
-    - adj. 好战的；凶狠的
-    - `If you say that someone is truculent, you mean that they are bad-tempered and aggressive`
+    - adj.
+      - 好战的；凶狠的
+        - `If you say that someone is truculent, you mean that they are bad-tempered and aggressive`
   - 记忆
     - truc (凶猛) + ulent → 好战的
   - 同根词
     - n.
-      - `truculence` 野蛮；好战；刻薄；致命性（等于truculency）
+      - `truculence`
+        - 野蛮；好战；刻薄；致命性（等于truculency）
   - 近义词
-    - adj. 好斗的；野蛮的；言词刻毒的
-      - `wild`
-      - `aggressive`
+    - adj.
+      - 好斗的；野蛮的；言词刻毒的
+        - `wild`
+        - `aggressive`
   - 例句
     - `a truculent attitude`
       - 凶狠的态度

@@ -1,21 +1,29 @@
 - dyspepsia
   - 发音
-    - 英 `/dɪs'pepsɪə/`
-    - 美 `/dɪs'pɛpʃə/`
+    - 英
+      - `/dɪs'pepsɪə/`
+    - 美
+      - `/dɪs'pɛpʃə/`
   - 词义
-    - n. [医]消化不良,胃弱
-    - `a problem that your body has in dealing with the food you eat`
+    - n.
+      - [医]消化不良,胃弱
+        - `a problem that your body has in dealing with the food you eat`
   - 同根词
     - adj.
-      - `dyspeptic` 消化不良的；患胃病的；胃弱的
-      - `dysgenic` 非优生学的；对人类有不良影响的
-      - `dysplastic` 发育不良的；发育异常的；[基医] 混合体型
+      - `dyspeptic`
+        - 消化不良的；患胃病的；胃弱的
+      - `dysgenic`
+        - 非优生学的；对人类有不良影响的
+      - `dysplastic`
+        - 发育不良的；发育异常的；[基医] 混合体型
     - n.
-      - `dyspeptic` 消化不良者
+      - `dyspeptic`
+        - 消化不良者
   - 近义词
-    - n. [内科]消化不良；胃弱
-      - `indigestion`
-      - `maldigestion`
+    - n.
+      - [内科]消化不良；胃弱
+        - `indigestion`
+        - `maldigestion`
   - 例句
     - `Finally, it is possible that your symptoms may be caused by functional dyspepsia.`
       - 另外，你的症状也有可能是由功能性消化不良引起的。

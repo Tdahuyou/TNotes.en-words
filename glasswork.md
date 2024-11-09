@@ -1,20 +1,28 @@
 - glasswork
   - 发音
-    - 英 `/'glæs,wərk/`
-    - 美 `/undefined/`
+    - 英
+      - `/'glæs,wərk/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 玻璃制品
-    - `the production of glassware `
-    - v. 制成玻璃状的
+    - n.
+      - 玻璃制品
+        - `the production of glassware `
+    - v.
+      - 制成玻璃状的
   - 同根词
     - adj.
-      - `glassy` 像玻璃的；光亮透明的；呆滞的
+      - `glassy`
+        - 像玻璃的；光亮透明的；呆滞的
     - n.
-      - `glassblower` 吹玻璃的人或机器
-      - `glassmaker` 玻璃工人
+      - `glassblower`
+        - 吹玻璃的人或机器
+      - `glassmaker`
+        - 玻璃工人
   - 近义词
-    - n. 玻璃厂；玻璃制品；玻璃制造业
-      - `glass products`
+    - n.
+      - 玻璃厂；玻璃制品；玻璃制造业
+        - `glass products`
   - 例句
     - `Polymer clay pieces often mimic millefiori, a glasswork technique commonly seen in paperweights.`
       - 软陶经常模仿千花玻璃的工艺，这是通常用于做纸镇的一种玻璃工艺。

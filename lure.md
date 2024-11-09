@@ -1,21 +1,27 @@
 - lure
   - 发音
-    - 英 `/lur/`
-    - 美 `/lʊr/`
+    - 英
+      - `/lur/`
+    - 美
+      - `/lʊr/`
   - 词义
-    - vt. 吸引，诱惑
-    - `to persuade someone to do something, especially something wrong or dangerous, by making it seem attractive or exciting`
-    - n. 诱惑力；诱饵
-    - `something that attracts people, or the quality of being able to do this`
+    - vt.
+      - 吸引，诱惑
+        - `to persuade someone to do something, especially something wrong or dangerous, by making it seem attractive or exciting`
+    - n.
+      - 诱惑力；诱饵
+        - `something that attracts people, or the quality of being able to do this`
   - 记忆
     - 纯(pure)属诱惑(lure)
   - 近义词
-    - n. 诱惑；饵；诱惑物
-      - `temptation`
-      - `gentle`
-    - vt. 诱惑；引诱
-      - `induce`
-      - `tempt`
+    - n.
+      - 诱惑；饵；诱惑物
+        - `temptation`
+        - `gentle`
+    - vt.
+      - 诱惑；引诱
+        - `induce`
+        - `tempt`
   - 例句
     - `He lured her to his home and shot her with his father's gun.`
       - 他把她诱骗到家里，然后用父亲的枪把她打死。

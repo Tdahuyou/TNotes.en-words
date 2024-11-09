@@ -1,24 +1,33 @@
 - epoch
   - 发音
-    - 英 `/'iːpɑːk/`
-    - 美 `/'ɛpək/`
+    - 英
+      - `/'iːpɑːk/`
+    - 美
+      - `/'ɛpək/`
   - 词义
-    - n. 新纪元，时代
-    - `a period of history`
+    - n.
+      - 新纪元，时代
+        - `a period of history`
   - 记忆
     - 听到时代(epoch)的回声(echo)
   - 同根词
     - adj.
-      - `epochal` 划时代的；新纪元的
+      - `epochal`
+        - 划时代的；新纪元的
   - 近义词
-    - n. [地质]世；新纪元；新时代；时间上的一点
-      - `new age`
-      - `New-Era`
+    - n.
+      - [地质]世；新纪元；新时代；时间上的一点
+        - `new age`
+        - `New-Era`
   - 短语
-    - `pleistocene epoch` 更新世 
-    - `holocene epoch` 全新世 
-    - `miocene epoch` [地质]中新世 
-    - `glacial epoch` [地]冰川期；冰河时期 
+    - `pleistocene epoch`
+      - 更新世 
+    - `holocene epoch`
+      - 全新世 
+    - `miocene epoch`
+      - [地质]中新世 
+    - `glacial epoch`
+      - [地]冰川期；冰河时期 
   - 例句
     - `the Victorian epoch`
       - 维多利亚时代

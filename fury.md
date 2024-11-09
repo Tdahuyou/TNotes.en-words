@@ -1,23 +1,31 @@
 - fury
   - 发音
-    - 英 `/'fjʊərɪ/`
-    - 美 `/'fjʊri/`
+    - 英
+      - `/'fjʊərɪ/`
+    - 美
+      - `/'fjʊri/`
   - 词义
-    - n. 狂怒；暴怒；激怒者
-    - `extreme, often uncontrolled anger`
+    - n.
+      - 狂怒；暴怒；激怒者
+        - `extreme, often uncontrolled anger`
   - 同根词
     - adj.
-      - `furious` 激烈的；狂怒的；热烈兴奋的；喧闹的
+      - `furious`
+        - 激烈的；狂怒的；热烈兴奋的；喧闹的
     - adv.
-      - `furiously` 猛烈地；狂暴地
+      - `furiously`
+        - 猛烈地；狂暴地
     - n.
-      - `furiousness` 猛然；狂暴
+      - `furiousness`
+        - 猛然；狂暴
   - 近义词
-    - n. 狂怒；暴怒；激怒者
-      - `agriothymia`
-      - `hopping mad`
+    - n.
+      - 狂怒；暴怒；激怒者
+        - `agriothymia`
+        - `hopping mad`
   - 短语
-    - `sound and fury` 大吵大闹；喧嚣与愤怒 
+    - `sound and fury`
+      - 大吵大闹；喧嚣与愤怒 
   - 例句
     - `I was shaking with fury .`
       - 我气得发抖。

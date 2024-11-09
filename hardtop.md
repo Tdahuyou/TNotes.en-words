@@ -1,12 +1,17 @@
 - hardtop
   - 发音
-    - 英 `/'hɑːdtɒp/`
-    - 美 `/'hɑrdtɑp/`
+    - 英
+      - `/'hɑːdtɒp/`
+    - 美
+      - `/'hɑrdtɑp/`
   - 词义
-    - n. 有金属顶盖的汽车；室内电影院
-    - `a car equipped with a metal or plastic roof that is sometimes detachable `
-    - adj. 有金属顶盖的
-    - vt. 给…铺硬质路面
+    - n.
+      - 有金属顶盖的汽车；室内电影院
+        - `a car equipped with a metal or plastic roof that is sometimes detachable `
+    - adj.
+      - 有金属顶盖的
+    - vt.
+      - 给…铺硬质路面
   - 例句
     - `Sadly, air conditioning, an automatic transmission and a hardtop are not currently available.`
       - 遗憾的是，你暂时还不能拥有空调，自动变速箱或者金属顶盖。

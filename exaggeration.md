@@ -1,25 +1,34 @@
 - exaggeration
   - 发音
-    - 英 `/ɪg,zædʒə'reɪʃ(ə)n/`
-    - 美 `/ɪɡ,zædʒə'reʃən/`
+    - 英
+      - `/ɪg,zædʒə'reɪʃ(ə)n/`
+    - 美
+      - `/ɪɡ,zædʒə'reʃən/`
   - 词义
-    - n. 夸张
-    - `a statement or way of saying something that makes something seem better, larger etc than it really is`
+    - n.
+      - 夸张
+        - `a statement or way of saying something that makes something seem better, larger etc than it really is`
   - 同根词
     - adj.
-      - `exaggerated` 夸张的，言过其实的
+      - `exaggerated`
+        - 夸张的，言过其实的
     - adv.
-      - `exaggeratedly` 夸张地
+      - `exaggeratedly`
+        - 夸张地
     - v.
-      - `exaggerated` 夸张，夸大（exaggerate的过去式）
+      - `exaggerated`
+        - 夸张，夸大（exaggerate的过去式）
     - vi.
-      - `exaggerate` 夸大；夸张
+      - `exaggerate`
+        - 夸大；夸张
     - vt.
-      - `exaggerate` 使扩大；使增大
+      - `exaggerate`
+        - 使扩大；使增大
   - 近义词
-    - n. 夸张；夸大之词；夸张的手法
-      - `inflation`
-      - `grandiosity`
+    - n.
+      - 夸张；夸大之词；夸张的手法
+        - `inflation`
+        - `grandiosity`
   - 例句
     - `It would be an exaggeration to say that we were close friends.`
       - 说我们是密友不免言过其实了。

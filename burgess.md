@@ -1,15 +1,20 @@
 - burgess
   - 发音
-    - 英 `/'bɜːdʒɪs/`
-    - 美 `/'bɝdʒɪs/`
+    - 英
+      - `/'bɜːdʒɪs/`
+    - 美
+      - `/'bɝdʒɪs/`
   - 词义
-    - n. (英国)市民，镇民
-    - `any inhabitant of a borough `
+    - n.
+      - (英国)市民，镇民
+        - `any inhabitant of a borough `
   - 同根词
     - n.
-      - `burgher` 市民（现主要指某些欧洲国家中产阶级的市民或镇民）；公民
+      - `burgher`
+        - 市民（现主要指某些欧洲国家中产阶级的市民或镇民）；公民
   - 近义词
-    - n. （英）自由民；市民；议员；（美）镇行政官
-      - `citizen`
-      - `member`
-      - `municipality`
+    - n.
+      - （英）自由民；市民；议员；（美）镇行政官
+        - `citizen`
+        - `member`
+        - `municipality`

@@ -1,24 +1,33 @@
 - frustration
   - 发音
-    - 英 `/frʌ'streɪʃn/`
-    - 美 `/frʌ'streʃən/`
+    - 英
+      - `/frʌ'streɪʃn/`
+    - 美
+      - `/frʌ'streʃən/`
   - 词义
-    - n. 挫败,挫折
-    - `the fact of being prevented from achieving what you are trying to achieve`
+    - n.
+      - 挫败,挫折
+        - `the fact of being prevented from achieving what you are trying to achieve`
   - 同根词
     - adj.
-      - `frustrate` 挫败的；无益的
-      - `frustrated` 失意的，挫败的；泄气的
+      - `frustrate`
+        - 挫败的；无益的
+      - `frustrated`
+        - 失意的，挫败的；泄气的
     - v.
-      - `frustrated` 挫败；阻挠（frustrate的过去式和过去分词形式）
+      - `frustrated`
+        - 挫败；阻挠（frustrate的过去式和过去分词形式）
     - vi.
-      - `frustrate` 失败；受挫
+      - `frustrate`
+        - 失败；受挫
     - vt.
-      - `frustrate` 挫败；阻挠；使感到灰心
+      - `frustrate`
+        - 挫败；阻挠；使感到灰心
   - 近义词
-    - n. [心理]挫折
-      - `setback`
-      - `clawback`
+    - n.
+      - [心理]挫折
+        - `setback`
+        - `clawback`
   - 例句
     - `There are moments when he feels great frustration and it bursts out of him.`
       - 会有这样的时刻:当他感觉很好挫折和它爆发出来了。

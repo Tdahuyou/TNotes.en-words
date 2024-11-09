@@ -1,11 +1,15 @@
 - Himalaya
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 喜马拉雅山
+    - n.
+      - 喜马拉雅山
   - 短语
-    - `the himalaya mountains` 喜马拉雅山 
+    - `the himalaya mountains`
+      - 喜马拉雅山 
   - 例句
     - `From the deck of a ship, the island makes a startling apparition, like the Himalaya just emerged from the Flood.`
       - 坐船从甲板上看，这个岛屿简直是个惊人的神迹，就像喜马拉雅山在一片洪水中耸立。

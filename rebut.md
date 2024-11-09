@@ -1,28 +1,36 @@
 - rebut
   - 发音
-    - 英 `/ri'bʌt/`
-    - 美 `/ri'bʌt/`
+    - 英
+      - `/ri'bʌt/`
+    - 美
+      - `/ri'bʌt/`
   - 词义
-    - v. 反驳；揭穿
-    - `to prove that a statement or a charge made against you is false`
+    - v.
+      - 反驳；揭穿
+        - `to prove that a statement or a charge made against you is false`
   - 记忆
     - re (反) + but (看作butt， 顶撞) → 反过来顶撞 → 反驳
   - 同根词
     - n.
-      - `rebuttal` 反驳；辩驳；反证
-      - `rebutter` 反驳者；第三次答辩
+      - `rebuttal`
+        - 反驳；辩驳；反证
+      - `rebutter`
+        - 反驳者；第三次答辩
   - 近义词
-    - vt. 反驳；揭露；拒绝
-      - `reveal`
-      - `negative`
-      - `disclose`
-      - `refuse`
-      - `expose`
-    - vi. 反驳；揭露
-      - `open up`
-      - `bring to light`
-    - n. 驳回；提出反证
-      - `disallowance`
+    - vt.
+      - 反驳；揭露；拒绝
+        - `reveal`
+        - `negative`
+        - `disclose`
+        - `refuse`
+        - `expose`
+    - vi.
+      - 反驳；揭露
+        - `open up`
+        - `bring to light`
+    - n.
+      - 驳回；提出反证
+        - `disallowance`
   - 例句
     - `He spent most of his speech rebutting criticisms of his foreign policy.`
       - 他大部分的演讲都用来反驳他在外交政策上受到的各种批评。

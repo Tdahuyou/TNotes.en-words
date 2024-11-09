@@ -1,17 +1,22 @@
 - kilo
   - 发音
-    - 英 `/'kiːləʊ/`
-    - 美 `/'kilo/`
+    - 英
+      - `/'kiːləʊ/`
+    - 美
+      - `/'kilo/`
   - 词义
-    - n. 千克
-    - `a kilogram`
+    - n.
+      - 千克
+        - `a kilogram`
   - 同根词
     - n.
-      - `kilometer` [计量] 公里；[计量] 千米（等于kilometre）
+      - `kilometer`
+        - [计量] 公里；[计量] 千米（等于kilometre）
   - 近义词
-    - n. 千克；公里（等于kilogram）
-      - `klick`
-      - `klik`
+    - n.
+      - 千克；公里（等于kilogram）
+        - `klick`
+        - `klik`
   - 例句
     - `This kind of chocolate is retailed at one pound a kilo.`
       - 这种巧克力糖零售每公斤一英镑。

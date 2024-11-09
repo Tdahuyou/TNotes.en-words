@@ -1,16 +1,21 @@
 - handshake
   - 发音
-    - 英 `/'hæn(d)ʃeɪk/`
-    - 美 `/'hænd'ʃek/`
+    - 英
+      - `/'hæn(d)ʃeɪk/`
+    - 美
+      - `/'hænd'ʃek/`
   - 词义
-    - n. 握手
-    - `the act of taking someone’s right hand and shaking it, which people do when they meet or leave each other or when they have made an agreement`
+    - n.
+      - 握手
+        - `the act of taking someone’s right hand and shaking it, which people do when they meet or leave each other or when they have made an agreement`
   - 同根词
     - n.
-      - `handshaking` 握手；[计][通信] 信号交换
+      - `handshaking`
+        - 握手；[计][通信] 信号交换
   - 近义词
-    - n. 握手
-      - `shake-hands`
+    - n.
+      - 握手
+        - `shake-hands`
   - 例句
     - `He greeted me with a handshake and a glass of wine.`
       - 他与我握手问候，并递给我一杯酒。

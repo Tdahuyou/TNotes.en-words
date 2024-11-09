@@ -1,12 +1,16 @@
 - quickest
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - adj. 最快的
+    - adj.
+      - 最快的
   - 近义词
-    - adj. 最快的
-      - `prestissimo`
+    - adj.
+      - 最快的
+        - `prestissimo`
   - 例句
     - `However, in some instances it is the quickest way to achieve a goal.`
       - 但是，在有些情况下这是达到目标最快的一种方式。

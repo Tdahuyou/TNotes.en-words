@@ -1,21 +1,28 @@
 - fidgety
   - 发音
-    - 英 `/'fidʒiti/`
-    - 美 `/'fɪdʒɪti/`
+    - 英
+      - `/'fidʒiti/`
+    - 美
+      - `/'fɪdʒɪti/`
   - 词义
-    - adj. 坐立不安的，烦躁不安的
-    - `unable to stay still, especially because of being bored or nervous`
+    - adj.
+      - 坐立不安的，烦躁不安的
+        - `unable to stay still, especially because of being bored or nervous`
   - 同根词
     - n.
-      - `fidget` 烦躁；坐立不安；烦躁不安的人
+      - `fidget`
+        - 烦躁；坐立不安；烦躁不安的人
     - vi.
-      - `fidget` 烦躁；坐立不安；玩弄
+      - `fidget`
+        - 烦躁；坐立不安；玩弄
     - vt.
-      - `fidget` 使不安；使烦乱
+      - `fidget`
+        - 使不安；使烦乱
   - 近义词
-    - adj. 不安的，烦躁的；难以取悦的
-      - `troubled`
-      - `uncomfortable`
+    - adj.
+      - 不安的，烦躁的；难以取悦的
+        - `troubled`
+        - `uncomfortable`
   - 例句
     - `The boys get fidgety if they can’t play outside.`
       - 要是不能出去玩，这些男孩子就会坐立不安。

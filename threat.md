@@ -1,32 +1,47 @@
 - threat
   - 发音
-    - 英 `/θret/`
-    - 美 `/θrɛt/`
+    - 英
+      - `/θret/`
+    - 美
+      - `/θrɛt/`
   - 词义
-    - n. 恐吓，威胁；坏兆头，危险迹象
-    - `a statement in which you tell someone that you will cause them harm or trouble if they do not do what you want`
+    - n.
+      - 恐吓，威胁；坏兆头，危险迹象
+        - `a statement in which you tell someone that you will cause them harm or trouble if they do not do what you want`
   - 同根词
     - adj.
-      - `threatened` 受到威胁的
-      - `threatening` 危险的；胁迫的；凶兆的
+      - `threatened`
+        - 受到威胁的
+      - `threatening`
+        - 危险的；胁迫的；凶兆的
     - adv.
-      - `threateningly` 威胁地；危险地；险恶地
+      - `threateningly`
+        - 威胁地；危险地；险恶地
     - v.
-      - `threatened` 威胁（threaten的过去分词）
-      - `threatening` 威胁；恐吓；迫近（threaten的ing形式）
+      - `threatened`
+        - 威胁（threaten的过去分词）
+      - `threatening`
+        - 威胁；恐吓；迫近（threaten的ing形式）
     - vi.
-      - `threaten` 威胁；可能来临
+      - `threaten`
+        - 威胁；可能来临
     - vt.
-      - `threaten` 威胁；恐吓；预示
+      - `threaten`
+        - 威胁；恐吓；预示
   - 近义词
-    - n. 威胁，恐吓；凶兆
-      - `danger`
-      - `intimidation`
+    - n.
+      - 威胁，恐吓；凶兆
+        - `danger`
+        - `intimidation`
   - 短语
-    - `pose a threat` 构成威胁；形成一种威胁 
-    - `security threat` 保安巡逻，对安全的威胁；安全感胁 
-    - `triple threat` （美）三面手 
-    - `imminent threat` 紧迫的威胁；逼近的威胁 
+    - `pose a threat`
+      - 构成威胁；形成一种威胁 
+    - `security threat`
+      - 保安巡逻，对安全的威胁；安全感胁 
+    - `triple threat`
+      - （美）三面手 
+    - `imminent threat`
+      - 紧迫的威胁；逼近的威胁 
   - 例句
     - `Your threats don’t scare me.`
       - 你的那些威胁吓不倒我。

@@ -1,13 +1,17 @@
 - hamster
   - 发音
-    - 英 `/'hæmstə(r)/`
-    - 美 `/'hæmstɚ/`
+    - 英
+      - `/'hæmstə(r)/`
+    - 美
+      - `/'hæmstɚ/`
   - 词义
-    - n. 仓鼠
-    - `a small animal that looks like a mouse with no tail`
+    - n.
+      - 仓鼠
+        - `a small animal that looks like a mouse with no tail`
   - 近义词
-    - n. [脊椎]仓鼠；仓鼠毛皮
-      - `cricetid`
+    - n.
+      - [脊椎]仓鼠；仓鼠毛皮
+        - `cricetid`
   - 例句
     - `Without Leaders, we would be spinning in a hamster wheel with no real vision.`
       - 没有领导型的人，我们就会像仓鼠在轮子里旋转那样，没有远见。

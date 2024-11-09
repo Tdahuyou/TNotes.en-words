@@ -1,15 +1,20 @@
 - antifebrile
   - 发音
-    - 英 `/,æntɪ'fiːbraɪl/`
-    - 美 `/,æntɪ'fibrɪl/`
+    - 英
+      - `/,æntɪ'fiːbraɪl/`
+    - 美
+      - `/,æntɪ'fibrɪl/`
   - 词义
-    - adj. 退热的,解热的
-    - `reducing fever; antipyretic `
+    - adj.
+      - 退热的,解热的
+        - `reducing fever; antipyretic `
   - 近义词
-    - n. 退热药
-      - `febrifugee`
-    - adj. 解热的；退热的
-      - `febrifuge`
+    - n.
+      - 退热药
+        - `febrifugee`
+    - adj.
+      - 解热的；退热的
+        - `febrifuge`
   - 例句
     - `Objective To explore the antifebrile effects and changes of toxicity after compatibility of both compound isatis leaf injection and compound amidopyrine injection.`
       - 目的探索复方大青叶注射液与复方氨基比林注射液配伍后的解热效果及毒性的变化。

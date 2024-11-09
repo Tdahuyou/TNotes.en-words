@@ -1,9 +1,12 @@
 - cloudlike
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - adj. 云雾状的
+    - adj.
+      - 云雾状的
   - 例句
     - `Following an air burst, condensed droplets of water give it a typical white cloudlike appearance.`
       - 空中爆炸过去之后，经过压缩的小水滴使它看上去就像一朵正常的白云一样。

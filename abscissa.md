@@ -1,14 +1,18 @@
 - abscissa
   - 发音
-    - 英 `/æb'sɪsə/`
-    - 美 `/æb'sɪsə/`
+    - 英
+      - `/æb'sɪsə/`
+    - 美
+      - `/æb'sɪsə/`
   - 词义
-    - n. [数][天]横坐标；横线
-    - `the horizontal or x-coordinate of a point in a two-dimensional system of Cartesian coordinates`
+    - n.
+      - [数][天]横坐标；横线
+        - `the horizontal or x-coordinate of a point in a two-dimensional system of Cartesian coordinates`
   - 近义词
-    - n. [数][天]横坐标；[昆]横线
-      - `x axis`
-      - `horizontal line`
+    - n.
+      - [数][天]横坐标；[昆]横线
+        - `x axis`
+        - `horizontal line`
   - 例句
     - `Use a minimum of ordinate and abscissa values so they do not run together.`
       - 使用最低限度的协调与横坐标值使他们不跑在一起。

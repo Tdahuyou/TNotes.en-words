@@ -1,22 +1,31 @@
 - statistician
   - 发音
-    - 英 `/stætɪ'stɪʃn/`
-    - 美 `/,stæti'stiʃən/`
+    - 英
+      - `/stætɪ'stɪʃn/`
+    - 美
+      - `/,stæti'stiʃən/`
   - 词义
-    - n. 统计学家，统计员
-    - `someone who works with statistics`
+    - n.
+      - 统计学家，统计员
+        - `someone who works with statistics`
   - 同根词
     - adj.
-      - `statistic` 统计的，统计学的
-      - `statistical` 统计的；统计学的
+      - `statistic`
+        - 统计的，统计学的
+      - `statistical`
+        - 统计的；统计学的
     - adv.
-      - `statistically` 统计地；统计学上
+      - `statistically`
+        - 统计地；统计学上
     - n.
-      - `statistics` 统计；统计学；[统计] 统计资料
-      - `statistic` 统计数值
+      - `statistics`
+        - 统计；统计学；[统计] 统计资料
+      - `statistic`
+        - 统计数值
   - 近义词
-    - n. 统计学家，统计员
-      - `statistical clerk`
+    - n.
+      - 统计学家，统计员
+        - `statistical clerk`
   - 例句
     - `The statistician diagrammed the statistical results.`
       - 统计员用图表来表示统计结果。

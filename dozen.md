@@ -1,19 +1,28 @@
 - dozen
   - 发音
-    - 英 `/'dʌzn/`
-    - 美 `/'dʌzn/`
+    - 英
+      - `/'dʌzn/`
+    - 美
+      - `/'dʌzn/`
   - 词义
-    - n. 一打，十二个
-    - `twelve`
+    - n.
+      - 一打，十二个
+        - `twelve`
   - 近义词
-    - n. [计量]十二个，一打
-      - `twelve`
+    - n.
+      - [计量]十二个，一打
+        - `twelve`
   - 短语
-    - `dozens of` 几十；许多 
-    - `by the dozen` 成打地；按打计算 
-    - `half a dozen` adj. 半打，六个 
-    - `a dozen eggs` 一打鸡蛋 
-    - `daily dozen` 每日健身操；例行公事 
+    - `dozens of`
+      - 几十；许多 
+    - `by the dozen`
+      - 成打地；按打计算 
+    - `half a dozen`
+      - adj. 半打，六个 
+    - `a dozen eggs`
+      - 一打鸡蛋 
+    - `daily dozen`
+      - 每日健身操；例行公事 
   - 例句
     - `a dozen eggs`
       - 一打鸡蛋

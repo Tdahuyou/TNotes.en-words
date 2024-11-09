@@ -1,21 +1,30 @@
 - enemy
   - 发音
-    - 英 `/'enəmɪ/`
-    - 美 `/'ɛnəmi/`
+    - 英
+      - `/'enəmɪ/`
+    - 美
+      - `/'ɛnəmi/`
   - 词义
-    - n. 敌人；仇人
-    - `someone who hates you and wants to harm you`
+    - n.
+      - 敌人；仇人
+        - `someone who hates you and wants to harm you`
   - 近义词
-    - n. 敌人，仇敌；敌军
-      - `foe`
-      - `hostes`
-    - adj. 敌人的，敌方的
-      - `hostile`
+    - n.
+      - 敌人，仇敌；敌军
+        - `foe`
+        - `hostes`
+    - adj.
+      - 敌人的，敌方的
+        - `hostile`
   - 短语
-    - `natural enemy` 天敌 
-    - `behind enemy lines` 深入敌后（影片名称） 
-    - `public enemy` 公敌；要犯 
-    - `sworn enemy` n. 不共戴天的敌仇 
+    - `natural enemy`
+      - 天敌 
+    - `behind enemy lines`
+      - 深入敌后（影片名称） 
+    - `public enemy`
+      - 公敌；要犯 
+    - `sworn enemy`
+      - n. 不共戴天的敌仇 
   - 例句
     - `She’s a dangerous enemy to have.`
       - 与她为敌很危险。

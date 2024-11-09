@@ -1,38 +1,53 @@
 - originate
   - 发音
-    - 英 `/ə'rɪdʒɪneɪt/`
-    - 美 `/əˈrɪdʒəˌnet/`
+    - 英
+      - `/ə'rɪdʒɪneɪt/`
+    - 美
+      - `/əˈrɪdʒəˌnet/`
   - 词义
-    - v. 起源；发起；创立
-    - `to come from a particular place or start in a particular situation`
+    - v.
+      - 起源；发起；创立
+        - `to come from a particular place or start in a particular situation`
   - 记忆
     - 来自origin(n. 起源)
   - 同根词
     - adj.
-      - `original` 原始的；最初的；独创的；新颖的
-      - `originative` 有创作力的；有发明之才能的
+      - `original`
+        - 原始的；最初的；独创的；新颖的
+      - `originative`
+        - 有创作力的；有发明之才能的
     - adv.
-      - `originally` 最初，起初；本来
+      - `originally`
+        - 最初，起初；本来
     - n.
-      - `original` 原件；原作；原物；原型
-      - `origin` 起源；原点；出身；开端
-      - `originality` 创意；独创性，创造力；原始；新奇
-      - `originator` 发起人；起源；起因
-      - `origination` 起源；开始；起始
+      - `original`
+        - 原件；原作；原物；原型
+      - `origin`
+        - 起源；原点；出身；开端
+      - `originality`
+        - 创意；独创性，创造力；原始；新奇
+      - `originator`
+        - 发起人；起源；起因
+      - `origination`
+        - 起源；开始；起始
   - 近义词
-    - vt. 引起；创作
-      - `attract`
-      - `produce`
-      - `cause`
-      - `occasion`
-      - `operate`
-    - vi. 发源；发生；起航
-      - `happen`
-      - `occur`
-      - `proceed`
+    - vt.
+      - 引起；创作
+        - `attract`
+        - `produce`
+        - `cause`
+        - `occasion`
+        - `operate`
+    - vi.
+      - 发源；发生；起航
+        - `happen`
+        - `occur`
+        - `proceed`
   - 短语
-    - `originate from` 发源于 
-    - `originate in` vt. 起源于（发生于） 
+    - `originate from`
+      - 发源于 
+    - `originate in`
+      - vt. 起源于（发生于） 
   - 例句
     - `How did the plan originate?`
       - 这个计划最早是怎么想到的？

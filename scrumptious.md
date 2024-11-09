@@ -1,19 +1,23 @@
 - scrumptious
   - 发音
-    - 英 `/'skrʌmpʃəs/`
-    - 美 `/'skrʌmpʃəs/`
+    - 英
+      - `/'skrʌmpʃəs/`
+    - 美
+      - `/'skrʌmpʃəs/`
   - 词义
-    - adj. 很可口的，美味的
-    - `food that is scrumptious tastes very good`
+    - adj.
+      - 很可口的，美味的
+        - `food that is scrumptious tastes very good`
   - 记忆
     - 可能来自scrump(v. 偷苹果)， 偷来的苹果最好吃， 所以scrumptious有“可口的”的意思
   - 近义词
-    - adj. 美味的；绝妙的，极好的
-      - `delicious`
-      - `wonderful`
-      - `excellent`
-      - `famous`
-      - `super`
+    - adj.
+      - 美味的；绝妙的，极好的
+        - `delicious`
+        - `wonderful`
+        - `excellent`
+        - `famous`
+        - `super`
   - 例句
     - `a scrumptious chocolate cake`
       - 美味可口的巧克力蛋糕

@@ -1,19 +1,24 @@
 - overlord
   - 发音
-    - 英 `/'əuvəˌlɔːd/`
-    - 美 `/'ovɚlɔrd/`
+    - 英
+      - `/'əuvəˌlɔːd/`
+    - 美
+      - `/'ovɚlɔrd/`
   - 词义
-    - n. 最高统治者；封建君主
-    - `someone with great power over a large number of people, especially in the past`
+    - n.
+      - 最高统治者；封建君主
+        - `someone with great power over a large number of people, especially in the past`
   - 记忆
     - over (在…上) + lord (统治者) → 在统治者之上 → 最高统治者
   - 同根词
     - n.
-      - `overlordship` 封建君主的权位
+      - `overlordship`
+        - 封建君主的权位
   - 近义词
-    - n. 霸王；大君主；最高统治者；封建领主
-      - `monarch`
-      - `imperator`
+    - n.
+      - 霸王；大君主；最高统治者；封建领主
+        - `monarch`
+        - `imperator`
   - 例句
     - `We really don't want to be the overlords of the Palestinian population.`
       - 我们真的不想当巴勒斯坦人的主子。

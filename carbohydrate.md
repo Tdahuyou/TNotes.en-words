@@ -1,19 +1,25 @@
 - carbohydrate
   - 发音
-    - 英 `/ˌkɑːrbou'haɪdreɪt/`
-    - 美 `/,kɑrbo'haɪdret/`
+    - 英
+      - `/ˌkɑːrbou'haɪdreɪt/`
+    - 美
+      - `/,kɑrbo'haɪdret/`
   - 词义
-    - n. 碳水化合物
-    - `a substance that is in foods such as sugar, bread, and potatoes, which provides your body with heat and energy and which consists of oxygen,  hydrogen  , and  carbon `
+    - n.
+      - 碳水化合物
+        - `a substance that is in foods such as sugar, bread, and potatoes, which provides your body with heat and energy and which consists of oxygen,  hydrogen  , and  carbon `
   - 记忆
     - carbo(碳) + hydr(水) + ate → 碳水化合物
   - 近义词
-    - n. [有化]碳水化合物；糖类
-      - `glucide`
-      - `saccharide`
+    - n.
+      - [有化]碳水化合物；糖类
+        - `glucide`
+        - `saccharide`
   - 短语
-    - `carbohydrate metabolism` [医]碳水化合物代谢 
-    - `complex carbohydrate` 复合糖；合成碳水化合物 
+    - `carbohydrate metabolism`
+      - [医]碳水化合物代谢 
+    - `complex carbohydrate`
+      - 复合糖；合成碳水化合物 
   - 例句
     - `You should not have too much carbohydrate in your diet.`
       - 你日常饮食中不该有过多碳水化合物。

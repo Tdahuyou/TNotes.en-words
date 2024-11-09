@@ -1,15 +1,21 @@
 - ductless
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - adj. 无导管的
+    - adj.
+      - 无导管的
   - 同根词
     - n.
-      - `duct` 输送管，导管
-      - `ductule` 小管道；[无脊椎] 小导管
+      - `duct`
+        - 输送管，导管
+      - `ductule`
+        - 小管道；[无脊椎] 小导管
     - vt.
-      - `duct` 用导管输送；以导管封住
+      - `duct`
+        - 用导管输送；以导管封住
   - 例句
     - `Endocrine system: Group of ductless glands that secrete hormones necessary for normal growth and development, reproduction, and homeostasis.`
       - 内分泌系统：由无管腺体组成的系统，分泌激素（荷尔蒙）以供身体正常生长、 发育、繁殖和自我恒定性之需。

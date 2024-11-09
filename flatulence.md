@@ -1,20 +1,27 @@
 - flatulence
   - 发音
-    - 英 `/undefined/`
-    - 美 `/'flætʃələns/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/'flætʃələns/`
   - 词义
-    - n. 肠胃气胀
-    - `the condition of having too much gas in the stomach`
+    - n.
+      - 肠胃气胀
+        - `the condition of having too much gas in the stomach`
   - 同根词
     - adj.
-      - `flatulent` 浮夸的；自负的；肠胃气胀的；空虚的
+      - `flatulent`
+        - 浮夸的；自负的；肠胃气胀的；空虚的
     - n.
-      - `flatus` 一阵风；肠胃胀气；屁；气息
-      - `flatulency` 腹胀；空虚
+      - `flatus`
+        - 一阵风；肠胃胀气；屁；气息
+      - `flatulency`
+        - 腹胀；空虚
   - 近义词
-    - n. [内科]肠胃气胀；浮夸；自负
-      - `ego`
-      - `coxcombry`
+    - n.
+      - [内科]肠胃气胀；浮夸；自负
+        - `ego`
+        - `coxcombry`
   - 例句
     - `It’s also problematic because of a high sodium content, extremely low protein, feelings of weakeness, and increased flatulence.`
       - 这种方法也是存在问题的，因为其中钠含量很高，而蛋白质含量又非常少，会使人感到虚弱,也会增加肠胃气胀。

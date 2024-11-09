@@ -1,28 +1,38 @@
 - protrude
   - 发音
-    - 英 `/prou'truːd/`
-    - 美 `/pro'trud/`
+    - 英
+      - `/prou'truːd/`
+    - 美
+      - `/pro'trud/`
   - 词义
-    - v. 突出，伸出
-    - `to stick out from somewhere`
+    - v.
+      - 突出，伸出
+        - `to stick out from somewhere`
   - 记忆
     - pro(向前) + trud(伸出) + e → 向前伸出 → (使)突出， 伸出
   - 同根词
     - adj.
-      - `protruding` 突出的；伸出的
-      - `protrusive` 突出的；伸出的；招人注意的
+      - `protruding`
+        - 突出的；伸出的
+      - `protrusive`
+        - 突出的；伸出的；招人注意的
     - n.
-      - `protrusion` 突出；突出物
-      - `protuberance` 突起，突出；结节，瘤
+      - `protrusion`
+        - 突出；突出物
+      - `protuberance`
+        - 突起，突出；结节，瘤
     - v.
-      - `protruding` 突出（protrude的现在分词）；伸出
+      - `protruding`
+        - 突出（protrude的现在分词）；伸出
   - 近义词
-    - vt. 使突出，使伸出
-      - `exsert`
-      - `advertise`
-    - vi. 突出，伸出
-      - `stand out`
-      - `excel at`
+    - vt.
+      - 使突出，使伸出
+        - `exsert`
+        - `advertise`
+    - vi.
+      - 突出，伸出
+        - `stand out`
+        - `excel at`
   - 例句
     - `...a huge round mass of smooth rock protruding from the water.`
       - …从水中突出来的一块光滑的圆形巨石。

@@ -1,14 +1,18 @@
 - megalithic
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - adj. 使用巨石的，巨石造成的
+    - adj.
+      - 使用巨石的，巨石造成的
   - 记忆
     - 来自megalith(n. 巨石)
   - 同根词
     - n.
-      - `megalith` 巨石
+      - `megalith`
+        - 巨石
   - 例句
     - `Life’s primal forces are close at hand in Bena, on the island of Flores, where homes shaped like volcanic cones stand beside megalithic gravestones.`
       - 弗洛勒斯岛毕纳村的房屋形状类似火山锥，立在巨石垒成的墓碑旁，生活的原始力量近在咫尺。

@@ -1,26 +1,35 @@
 - terribly
   - 发音
-    - 英 `/'terəbli/`
-    - 美 `/'tɛrəbli/`
+    - 英
+      - `/'terəbli/`
+    - 美
+      - `/'tɛrəbli/`
   - 词义
-    - adv. 可怕地，非常
-    - `very`
+    - adv.
+      - 可怕地，非常
+        - `very`
   - 同根词
     - adj.
-      - `terrific` 极好的；极其的，非常的；可怕的
-      - `terrible` 可怕的；很糟的；令人讨厌的
+      - `terrific`
+        - 极好的；极其的，非常的；可怕的
+      - `terrible`
+        - 可怕的；很糟的；令人讨厌的
     - adv.
-      - `terrible` 很，非常
-      - `terrifically` 极端地；可怕地；非常地
+      - `terrible`
+        - 很，非常
+      - `terrifically`
+        - 极端地；可怕地；非常地
     - n.
-      - `terribleness` 可怕
+      - `terribleness`
+        - 可怕
   - 近义词
-    - adv. 非常；可怕地；极度地
-      - `extremely`
-      - `badly`
-      - `highly`
-      - `greatly`
-      - `too`
+    - adv.
+      - 非常；可怕地；极度地
+        - `extremely`
+        - `badly`
+        - `highly`
+        - `greatly`
+        - `too`
   - 例句
     - `I’m terribly sorry to have kept you waiting.`
       - 很抱歉，让你久等了。

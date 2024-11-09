@@ -1,18 +1,24 @@
 - complicate
   - 发音
-    - 英 `/'kɒmplɪkeɪt/`
-    - 美 `/'kɑmplɪket/`
+    - 英
+      - `/'kɒmplɪkeɪt/`
+    - 美
+      - `/'kɑmplɪket/`
   - 词义
-    - v. (使)变复杂
+    - v.
+      - (使)变复杂
   - 同根词
     - adj.
-      - `complicated` 难懂的，复杂的
+      - `complicated`
+        - 难懂的，复杂的
     - n.
-      - `complication` 并发症；复杂；复杂化；混乱
+      - `complication`
+        - 并发症；复杂；复杂化；混乱
   - 近义词
-    - vt. 使复杂化；使恶化；使卷入
-      - `aggravate`
-      - `exacerbate`
+    - vt.
+      - 使复杂化；使恶化；使卷入
+        - `aggravate`
+        - `exacerbate`
   - 例句
     - `I think that is because we unnecessarily complicate it.`
       - 我想这是因为我们不必要地将生活复杂化了。

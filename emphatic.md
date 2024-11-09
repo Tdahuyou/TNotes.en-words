@@ -1,19 +1,24 @@
 - emphatic
   - 发音
-    - 英 `/ɪm'fætɪk; em-/`
-    - 美 `/ɪm'fætɪk/`
+    - 英
+      - `/ɪm'fætɪk; em-/`
+    - 美
+      - `/ɪm'fætɪk/`
   - 词义
-    - adj. 着重的；加强语气的；显著的
+    - adj.
+      - 着重的；加强语气的；显著的
   - 同根词
     - adv.
-      - `emphatically` 着重地；强调地；断然地
+      - `emphatically`
+        - 着重地；强调地；断然地
   - 近义词
-    - adj. 着重的；加强语气的；显著的
-      - `obvious`
-      - `prominent`
-      - `marked`
-      - `noted`
-      - `outstanding`
+    - adj.
+      - 着重的；加强语气的；显著的
+        - `obvious`
+        - `prominent`
+        - `marked`
+        - `noted`
+        - `outstanding`
   - 例句
     - `an emphatic denial`
       - 断然否认

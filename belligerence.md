@@ -1,22 +1,32 @@
 - belligerence
   - 发音
-    - 英 `/bə'lɪdʒərəns/`
-    - 美 `/bə'lɪdʒərəns/`
+    - 英
+      - `/bə'lɪdʒərəns/`
+    - 美
+      - `/bə'lɪdʒərəns/`
   - 词义
-    - n. 交战；好战性，斗争性
+    - n.
+      - 交战；好战性，斗争性
   - 记忆
     - bell(战斗) + iger + ence → 交战； 好战性
   - 同根词
     - adj.
-      - `belligerent` 交战的；好战的；交战国的
-      - `bellicose` 好战的；好斗的
+      - `belligerent`
+        - 交战的；好战的；交战国的
+      - `bellicose`
+        - 好战的；好斗的
     - adv.
-      - `belligerently` 好战地；好斗地
+      - `belligerently`
+        - 好战地；好斗地
     - n.
-      - `belligerent` 交战国；参加斗殴的人或集团
-      - `bellicosity` 好斗；好战
-      - `belligerency` 交战状态；交战
+      - `belligerent`
+        - 交战国；参加斗殴的人或集团
+      - `bellicosity`
+        - 好斗；好战
+      - `belligerency`
+        - 交战状态；交战
   - 近义词
-    - n. 斗争性；好战性；交战
-      - `engagement`
-      - `minitancy`
+    - n.
+      - 斗争性；好战性；交战
+        - `engagement`
+        - `minitancy`

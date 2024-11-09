@@ -1,13 +1,17 @@
 - goluptious
   - 发音
-    - 英 `/ɡə'lʌpʃəs/`
-    - 美 `/undefined/`
+    - 英
+      - `/ɡə'lʌpʃəs/`
+    - 美
+      - `/undefined/`
   - 词义
-    - adj. 可口的,香喷喷的,好吃的
+    - adj.
+      - 可口的,香喷喷的,好吃的
   - 近义词
-    - adj. 可口的；香喷喷的；好吃的
-      - `delicious`
-      - `flavorful`
+    - adj.
+      - 可口的；香喷喷的；好吃的
+        - `delicious`
+        - `flavorful`
   - 例句
     - `Her humor is good, so the meal that she does is natural also more goluptious .`
       - 她的心情好了，那么她做出来的饭菜也自然就更加可口了。

@@ -1,15 +1,21 @@
 - ferromagnetic
   - 发音
-    - 英 `/,ferə(ʊ)mæg'netɪk/`
-    - 美 `/,fɛromæɡ'nɛtɪk/`
+    - 英
+      - `/,ferə(ʊ)mæg'netɪk/`
+    - 美
+      - `/,fɛromæɡ'nɛtɪk/`
   - 词义
-    - adj. 铁磁的
+    - adj.
+      - 铁磁的
   - 同根词
     - n.
-      - `ferromagnetism` [物] 铁磁性
+      - `ferromagnetism`
+        - [物] 铁磁性
   - 短语
-    - `ferromagnetic material` 铁磁材料；强磁性质 
-    - `ferromagnetic resonance` 铁磁共振 
+    - `ferromagnetic material`
+      - 铁磁材料；强磁性质 
+    - `ferromagnetic resonance`
+      - 铁磁共振 
   - 例句
     - `When they gradually increased the repulsive forces between the atoms, they observed several features indicating that the gas had become ferromagnetic.`
       - 他们利用红外线激光束捕获超冷锂原子气团，将其冷却到仅比绝对零度高亿分之十五开尔文。 当逐渐增加原子间斥力时，研究人员观察到的几个现象表明气体已经变得具有强磁性。

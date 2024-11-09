@@ -1,14 +1,18 @@
 - scriptwriter
   - 发音
-    - 英 `/'skrɪptraɪtə/`
-    - 美 `/'skrɪptraɪtɚ/`
+    - 英
+      - `/'skrɪptraɪtə/`
+    - 美
+      - `/'skrɪptraɪtɚ/`
   - 词义
-    - n. 编剧
-    - `someone who writes the stories and words for films or television programmes`
+    - n.
+      - 编剧
+        - `someone who writes the stories and words for films or television programmes`
   - 近义词
-    - n. 编剧
-      - `screenplay`
-      - `dramatization`
+    - n.
+      - 编剧
+        - `screenplay`
+        - `dramatization`
   - 例句
     - `Leonardo DiCaprio's kiss with his male co-star will be "tender", says the scriptwriter for the movie.`
       - 《胡佛传》的编剧透露，莱昂纳多·迪卡普里奥将在剧中与同性联袂出演温柔一吻。

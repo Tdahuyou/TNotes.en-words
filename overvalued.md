@@ -1,9 +1,12 @@
 - overvalued
   - 发音
-    - 英 `/ˌəuvə'væljud/`
-    - 美 `/undefined/`
+    - 英
+      - `/ˌəuvə'væljud/`
+    - 美
+      - `/undefined/`
   - 词义
-    - adj. 定价过高的，估价过高的
+    - adj.
+      - 定价过高的，估价过高的
   - 例句
     - `We find that both ofcompanies are overvalued at the time of merger, and the America Online are moreovervalued than the Time Warner.`
       - 通过分析我们发现并购中双方公司的价值在并购之前都被高估了；而美国在线的被高估程度更为严重。

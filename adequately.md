@@ -1,21 +1,27 @@
 - adequately
   - 发音
-    - 英 `/'ædikwitli/`
-    - 美 `/'ædikwitli/`
+    - 英
+      - `/'ædikwitli/`
+    - 美
+      - `/'ædikwitli/`
   - 词义
-    - adv. 充分地
+    - adv.
+      - 充分地
   - 同根词
     - adj.
-      - `adequate` 充足的；适当的；胜任的
+      - `adequate`
+        - 充足的；适当的；胜任的
     - n.
-      - `adequacy` 足够；适当；妥善性
+      - `adequacy`
+        - 足够；适当；妥善性
   - 近义词
-    - adv. 充分地；足够地；适当地
-      - `fully`
-      - `properly`
-      - `well`
-      - `enough`
-      - `sufficiently`
+    - adv.
+      - 充分地；足够地；适当地
+        - `fully`
+        - `properly`
+        - `well`
+        - `enough`
+        - `sufficiently`
   - 例句
     - `They had equipped their workers adequately for such dangerous condition.`
       - 他们让工人们充分装备起来， 以应付这样的危险情况。

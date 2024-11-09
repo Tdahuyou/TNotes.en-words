@@ -1,26 +1,39 @@
 - idolatrous
   - 发音
-    - 英 `/aɪ'dɒlətrəs/`
-    - 美 `/aɪ'dɑlətrəs/`
+    - 英
+      - `/aɪ'dɒlətrəs/`
+    - 美
+      - `/aɪ'dɑlətrəs/`
   - 词义
-    - adj. 崇拜偶像的,盲目崇拜的
+    - adj.
+      - 崇拜偶像的,盲目崇拜的
   - 同根词
     - n.
-      - `idol` 偶像，崇拜物；幻象；谬论
-      - `idolatry` 偶像崇拜；盲目崇拜；邪神崇拜
-      - `idolater` 偶像崇拜者；崇拜者；皈依者
-      - `idolatress` 女性的偶像崇拜者
-      - `idolization` 偶像化；盲目崇拜
+      - `idol`
+        - 偶像，崇拜物；幻象；谬论
+      - `idolatry`
+        - 偶像崇拜；盲目崇拜；邪神崇拜
+      - `idolater`
+        - 偶像崇拜者；崇拜者；皈依者
+      - `idolatress`
+        - 女性的偶像崇拜者
+      - `idolization`
+        - 偶像化；盲目崇拜
     - vi.
-      - `idolize` 崇拜偶像
-      - `idolise` 崇拜偶像（等于idolize）
+      - `idolize`
+        - 崇拜偶像
+      - `idolise`
+        - 崇拜偶像（等于idolize）
     - vt.
-      - `idolize` 极端崇拜；把...当偶像崇拜
-      - `idolise` 把…当偶像崇拜；偶像化
+      - `idolize`
+        - 极端崇拜；把...当偶像崇拜
+      - `idolise`
+        - 把…当偶像崇拜；偶像化
   - 近义词
-    - adj. 盲目崇拜的；崇拜偶像的
-      - `iconodulic`
-      - `Baalish`
+    - adj.
+      - 盲目崇拜的；崇拜偶像的
+        - `iconodulic`
+        - `Baalish`
   - 例句
     - `He tells them that their gods are false and that worshipping more than one God is idolatrous .`
       - 他告诉他们，他们的神是假的，而且不止一个崇拜上帝是盲目崇拜。

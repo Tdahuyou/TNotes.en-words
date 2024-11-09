@@ -1,7 +1,9 @@
 - Canberra
   - 发音
-    - 英 `/'kænbərə/`
-    - 美 `/'kænbərə/`
+    - 英
+      - `/'kænbərə/`
+    - 美
+      - `/'kænbərə/`
   - 词义
   - 例句
     - `In Australia, climate change is a political football, kicked about in the power game played in Canberra.`

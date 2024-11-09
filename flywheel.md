@@ -1,12 +1,17 @@
 - flywheel
   - 发音
-    - 英 `/'flaɪwiːl/`
-    - 美 `/'flaɪ'wil/`
+    - 英
+      - `/'flaɪwiːl/`
+    - 美
+      - `/'flaɪ'wil/`
   - 词义
-    - n. [机]飞轮，惯性轮；调速轮
-    - `a heavy wheel that keeps a machine working at a steady speed`
+    - n.
+      - [机]飞轮，惯性轮；调速轮
+        - `a heavy wheel that keeps a machine working at a steady speed`
   - 近义词
-    - n. [机]飞轮，惯性轮；调速轮
-      - `inertia wheel`
+    - n.
+      - [机]飞轮，惯性轮；调速轮
+        - `inertia wheel`
   - 短语
-    - `flywheel ring gear` 飞轮齿圈 
+    - `flywheel ring gear`
+      - 飞轮齿圈 

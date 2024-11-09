@@ -1,33 +1,48 @@
 - educator
   - 发音
-    - 英 `/'edʒʊkeɪtə/`
-    - 美 `/'ɛdʒə'ketɚ/`
+    - 英
+      - `/'edʒʊkeɪtə/`
+    - 美
+      - `/'ɛdʒə'ketɚ/`
   - 词义
-    - n. 教育家
-    - `a teacher or someone involved in the process of educating people`
+    - n.
+      - 教育家
+        - `a teacher or someone involved in the process of educating people`
   - 同根词
     - adj.
-      - `educational` 教育的；有教育意义的
-      - `educated` 受过教育的；有教养的
-      - `educative` 教育的，教育上的
+      - `educational`
+        - 教育的；有教育意义的
+      - `educated`
+        - 受过教育的；有教养的
+      - `educative`
+        - 教育的，教育上的
     - adv.
-      - `educationally` 教育上地
+      - `educationally`
+        - 教育上地
     - n.
-      - `education` 教育；培养；教育学
-      - `educatee` 受教育者
-      - `educationalist` 教育家；教育工作者
-      - `educationist` 教育家；教育理论家
+      - `education`
+        - 教育；培养；教育学
+      - `educatee`
+        - 受教育者
+      - `educationalist`
+        - 教育家；教育工作者
+      - `educationist`
+        - 教育家；教育理论家
     - v.
-      - `educated` 训练；教导；培育（educate的过去分词形式）
+      - `educated`
+        - 训练；教导；培育（educate的过去分词形式）
     - vi.
-      - `educate` 教育；训练
+      - `educate`
+        - 教育；训练
     - vt.
-      - `educate` 教育；培养；训练
+      - `educate`
+        - 教育；培养；训练
   - 近义词
-    - n. 教育家；教育工作者；教师
-      - `teacher`
-      - `professor`
-      - `master`
+    - n.
+      - 教育家；教育工作者；教师
+        - `teacher`
+        - `professor`
+        - `master`
   - 例句
     - `What more could an educator hope for than a student's desire to learn.`
       - 除了学生的学习兴趣，教育者们别无所求。

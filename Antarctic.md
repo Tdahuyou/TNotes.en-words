@@ -1,20 +1,29 @@
 - Antarctic
   - 发音
-    - 英 `/undefined/`
-    - 美 `/æntˈɑrktɪk/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/æntˈɑrktɪk/`
   - 词义
-    - adj. 南极的
-    - `the very cold most southern part of the world`
+    - adj.
+      - 南极的
+        - `the very cold most southern part of the world`
   - 近义词
-    - n. [地理]南极洲；南极地区
-      - `Antarctic region`
-      - `Antarctic continent`
+    - n.
+      - [地理]南极洲；南极地区
+        - `Antarctic region`
+        - `Antarctic continent`
   - 短语
-    - `antarctic peninsula` 南极半岛 
-    - `antarctic circle` 南极圈 
-    - `antarctic treaty` 南极条约 
-    - `antarctic continent` 南极大陆；南极洲 
-    - `antarctic ocean` 南冰洋 
+    - `antarctic peninsula`
+      - 南极半岛 
+    - `antarctic circle`
+      - 南极圈 
+    - `antarctic treaty`
+      - 南极条约 
+    - `antarctic continent`
+      - 南极大陆；南极洲 
+    - `antarctic ocean`
+      - 南冰洋 
   - 例句
     - `'They would, in fact, feel more connected to home than the early Antarctic explorers,' they write in their article.`
       - “事实上，他们会比早期的南极探险者感受到更多与家庭的联系。”他们在文章中写道。

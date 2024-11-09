@@ -1,32 +1,49 @@
 - wavy
   - 发音
-    - 英 `/'weɪvɪ/`
-    - 美 `/'wevi/`
+    - 英
+      - `/'weɪvɪ/`
+    - 美
+      - `/'wevi/`
   - 词义
-    - adj. 波状的,不稳的
-    - `wavy hair grows in waves`
+    - adj.
+      - 波状的,不稳的
+        - `wavy hair grows in waves`
   - 同根词
     - adj.
-      - `waving` 波浪状的
-      - `wavering` 摇摆的；摇幌的
-      - `wavelike` 波状的；波浪般的
+      - `waving`
+        - 波浪状的
+      - `wavering`
+        - 摇摆的；摇幌的
+      - `wavelike`
+        - 波状的；波浪般的
     - adv.
-      - `wavelike` 波状地；波浪般地
+      - `wavelike`
+        - 波状地；波浪般地
     - n.
-      - `wave` 波动；波浪；高潮；挥手示意；卷曲
-      - `waver` 动摇；踌躇；挥动者
-      - `waving` 电流舞；波浪舞
-      - `waviness` 波浪状；波状
+      - `wave`
+        - 波动；波浪；高潮；挥手示意；卷曲
+      - `waver`
+        - 动摇；踌躇；挥动者
+      - `waving`
+        - 电流舞；波浪舞
+      - `waviness`
+        - 波浪状；波状
     - v.
-      - `waving` 波动；飘扬（wave的ing形式）
-      - `wavering` 犹豫不决（waver的ing形式）；摇动
+      - `waving`
+        - 波动；飘扬（wave的ing形式）
+      - `wavering`
+        - 犹豫不决（waver的ing形式）；摇动
     - vi.
-      - `wave` 波动；起伏；挥手示意；摇动；呈波形
-      - `waver` 摇曳；踌躇；摆动
+      - `wave`
+        - 波动；起伏；挥手示意；摇动；呈波形
+      - `waver`
+        - 摇曳；踌躇；摆动
     - vt.
-      - `wave` 卷（烫）发；向…挥手示意；使成波浪形
+      - `wave`
+        - 卷（烫）发；向…挥手示意；使成波浪形
   - 短语
-    - `wavy hair` n. 卷发；波浪发 
+    - `wavy hair`
+      - n. 卷发；波浪发 
   - 例句
     - `She had short, wavy brown hair.`
       - 她有一头又短又卷的褐发。

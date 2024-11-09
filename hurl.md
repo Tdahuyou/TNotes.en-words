@@ -1,21 +1,28 @@
 - hurl
   - 发音
-    - 英 `/hɜːrl/`
-    - 美 `/hɝl/`
+    - 英
+      - `/hɜːrl/`
+    - 美
+      - `/hɝl/`
   - 词义
-    - v. 猛投；大声斥责
-    - `If you hurl abuse or insults at someone, you shout insults at them aggressively`
+    - v.
+      - 猛投；大声斥责
+        - `If you hurl abuse or insults at someone, you shout insults at them aggressively`
   - 记忆
     - 不要大声斥责(hurl)孩子， 以免伤害(hurt)他
   - 同根词
     - n.
-      - `hurling` 爱尔兰式曲棍球；猛投
-      - `hurler` 投手；投掷者
+      - `hurling`
+        - 爱尔兰式曲棍球；猛投
+      - `hurler`
+        - 投手；投掷者
     - v.
-      - `hurling` 用力投掷（hurl的现在分词）
+      - `hurling`
+        - 用力投掷（hurl的现在分词）
   - 近义词
-    - vt. 丢下；用力投掷；愤慨地说出
-      - `let drop`
+    - vt.
+      - 丢下；用力投掷；愤慨地说出
+        - `let drop`
   - 例句
     - `How would you handle being locked in the back of a cab while the driver hurled abuse at you?`
       - 如果你被锁在出租车后座又遭司机谩骂，你会怎么办？

@@ -1,20 +1,27 @@
 - meek
   - 发音
-    - 英 `/miːk/`
-    - 美 `/mik/`
+    - 英
+      - `/miːk/`
+    - 美
+      - `/mik/`
   - 词义
-    - adj. 温顺的；谦恭的；驯服的
-    - `very quiet and gentle and unwilling to argue with people`
-    - n. (Meek)人名；(英)米克
+    - adj.
+      - 温顺的；谦恭的；驯服的
+        - `very quiet and gentle and unwilling to argue with people`
+    - n.
+      - (Meek)人名；(英)米克
   - 同根词
     - adv.
-      - `meekly` 温顺地；逆来顺受地；忠厚地
+      - `meekly`
+        - 温顺地；逆来顺受地；忠厚地
     - n.
-      - `meekness` 温顺；柔和；懦弱
+      - `meekness`
+        - 温顺；柔和；懦弱
   - 近义词
-    - adj. 温顺的；谦恭的；驯服的
-      - `quiet`
-      - `docile`
+    - adj.
+      - 温顺的；谦恭的；驯服的
+        - `quiet`
+        - `docile`
   - 例句
     - `He was always so meek and mild .`
       - 他总是那么温顺。

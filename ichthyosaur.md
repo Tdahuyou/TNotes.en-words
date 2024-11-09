@@ -1,10 +1,13 @@
 - ichthyosaur
   - 发音
-    - 英 `/'ɪkθɪəsɔː/`
-    - 美 `/'ɪkθɪə,sɔr/`
+    - 英
+      - `/'ɪkθɪəsɔː/`
+    - 美
+      - `/'ɪkθɪə,sɔr/`
   - 词义
-    - n. 鱼龙
-    - `any extinct marine Mesozoic reptile of the order Ichthyosauria, which had a porpoise-like body with dorsal and tail fins and paddle-like limbs `
+    - n.
+      - 鱼龙
+        - `any extinct marine Mesozoic reptile of the order Ichthyosauria, which had a porpoise-like body with dorsal and tail fins and paddle-like limbs `
   - 例句
     - `Fossil forensics has now identified the most likely culprit: another ichthyosaur.`
       - 化石证据已锁定了最为可能的凶手：另一条鱼龙。

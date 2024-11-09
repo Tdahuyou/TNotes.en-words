@@ -1,26 +1,33 @@
 - pedigree
   - 发音
-    - 英 `/'pedigriː/`
-    - 美 `/'pɛdɪɡri/`
+    - 英
+      - `/'pedigriː/`
+    - 美
+      - `/'pɛdɪɡri/`
   - 词义
-    - n. 血统；家谱
-    - `the parents and other past family members of an animal or person, or an official written record of this`
+    - n.
+      - 血统；家谱
+        - `the parents and other past family members of an animal or person, or an official written record of this`
   - 记忆
     - ped (脚) + ig + ree (看作tree， 树) → 家族树 → 家谱
   - 同根词
     - adj.
-      - `pedigreed` 血统明白的；有来历的
+      - `pedigreed`
+        - 血统明白的；有来历的
     - v.
-      - `pedigreed` 建立纯种系谱而繁育（pedigree的过去分词）
+      - `pedigreed`
+        - 建立纯种系谱而繁育（pedigree的过去分词）
   - 近义词
-    - n. [遗]血统；家谱
-      - `birth`
-      - `blood`
-      - `stem`
-      - `stock`
-    - adj. 纯种的
-      - `clean-bred`
-      - `pursang`
+    - n.
+      - [遗]血统；家谱
+        - `birth`
+        - `blood`
+        - `stem`
+        - `stock`
+    - adj.
+      - 纯种的
+        - `clean-bred`
+        - `pursang`
   - 例句
     - `60 percent of dogs and ten percent of cats have pedigrees.`
       - 60%的狗和10%的猫都有血统记录。

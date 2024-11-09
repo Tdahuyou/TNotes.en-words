@@ -1,22 +1,30 @@
 - unexpected
   - 发音
-    - 英 `/ʌnɪk'spektɪd; ʌnek-/`
-    - 美 `/'ʌnɪk'spɛktɪd/`
+    - 英
+      - `/ʌnɪk'spektɪd; ʌnek-/`
+    - 美
+      - `/'ʌnɪk'spɛktɪd/`
   - 词义
-    - adj. 想不到的,意外的
-    - `used to describe something that is surprising because you were not expecting it`
+    - adj.
+      - 想不到的,意外的
+        - `used to describe something that is surprising because you were not expecting it`
   - 同根词
     - adv.
-      - `unexpectedly` 出乎意料地，意外地
+      - `unexpectedly`
+        - 出乎意料地，意外地
     - n.
-      - `unexpectedness` 出乎意外，突然
+      - `unexpectedness`
+        - 出乎意外，突然
   - 近义词
-    - adj. 意外的，想不到的
-      - `sudden`
-      - `surprising`
+    - adj.
+      - 意外的，想不到的
+        - `sudden`
+        - `surprising`
   - 短语
-    - `unexpected news` 意外的消息；出乎意料的新闻 
-    - `unexpected accident` 不能预料的事故 
+    - `unexpected news`
+      - 意外的消息；出乎意料的新闻 
+    - `unexpected accident`
+      - 不能预料的事故 
   - 例句
     - `The experiment produced some unexpected results.`
       - 这次试验产生了一些意想不到的结果。

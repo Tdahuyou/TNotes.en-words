@@ -1,24 +1,34 @@
 - equivalence
   - 发音
-    - 英 `/ɪ'kwɪv(ə)l(ə)ns/`
-    - 美 `/ɪ'kwɪvələns/`
+    - 英
+      - `/ɪ'kwɪv(ə)l(ə)ns/`
+    - 美
+      - `/ɪ'kwɪvələns/`
   - 词义
-    - n. 等值；相等
-    - `If there is equivalence between two things, they have the same use, function, size, or value`
+    - n.
+      - 等值；相等
+        - `If there is equivalence between two things, they have the same use, function, size, or value`
   - 同根词
     - adj.
-      - `equivalent` 等价的，相等的；同意义的
+      - `equivalent`
+        - 等价的，相等的；同意义的
     - n.
-      - `equivalent` 等价物，相等物
+      - `equivalent`
+        - 等价物，相等物
   - 近义词
-    - n. 等值；相等
-      - `equation`
-      - `equivalent value`
+    - n.
+      - 等值；相等
+        - `equation`
+        - `equivalent value`
   - 短语
-    - `functional equivalence` 功能对等 
-    - `equivalence relation` 等价关系 
-    - `equivalence principle` 等效性原理；等效原则；等价原理 
-    - `equivalence class` [数]等价类 
+    - `functional equivalence`
+      - 功能对等 
+    - `equivalence relation`
+      - 等价关系 
+    - `equivalence principle`
+      - 等效性原理；等效原则；等价原理 
+    - `equivalence class`
+      - [数]等价类 
   - 例句
     - `...the equivalence of science and rationality.`
       - ...科学和理性的相等。

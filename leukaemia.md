@@ -1,17 +1,22 @@
 - leukaemia
   - 发音
-    - 英 `/luː'kiːmiə/`
-    - 美 `/lju'ki:miə/`
+    - 英
+      - `/luː'kiːmiə/`
+    - 美
+      - `/lju'ki:miə/`
   - 词义
-    - n. 白血病
-    - `Leukaemia is a disease of the blood in which the body produces too many white blood cells`
+    - n.
+      - 白血病
+        - `Leukaemia is a disease of the blood in which the body produces too many white blood cells`
   - 同根词
     - n.
-      - `leukocytosis` 白血球增多；[内科] 白细胞增多
+      - `leukocytosis`
+        - 白血球增多；[内科] 白细胞增多
   - 近义词
-    - n. 白血病
-      - `luckemia`
-      - `leucocythemia`
+    - n.
+      - 白血病
+        - `luckemia`
+        - `leucocythemia`
   - 例句
     - `Can irritability purpura turn into leukaemia?`
       - 过敏性紫癜会转成白血病吗？

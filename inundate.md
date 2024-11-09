@@ -1,21 +1,28 @@
 - inundate
   - 发音
-    - 英 `/'ɪnʌndeɪt/`
-    - 美 `/'ɪnʌndet/`
+    - 英
+      - `/'ɪnʌndeɪt/`
+    - 美
+      - `/'ɪnʌndet/`
   - 词义
-    - v. 淹没
-    - `to cover an area with a large amount of water`
+    - v.
+      - 淹没
+        - `to cover an area with a large amount of water`
   - 同根词
     - adj.
-      - `inundated` 洪泛的
+      - `inundated`
+        - 洪泛的
     - n.
-      - `inundation` 洪水；泛滥
+      - `inundation`
+        - 洪水；泛滥
     - v.
-      - `inundated` 淹没（inundate的过去分词）
+      - `inundated`
+        - 淹没（inundate的过去分词）
   - 近义词
-    - vt. 淹没；泛滥；浸水；（洪水般的）扑来
-      - `flood`
-      - `flow`
+    - vt.
+      - 淹没；泛滥；浸水；（洪水般的）扑来
+        - `flood`
+        - `flow`
   - 例句
     - `The tidal wave inundated vast areas of cropland.`
       - 海啸淹没了大片农田。

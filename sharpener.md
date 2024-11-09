@@ -1,29 +1,41 @@
 - sharpener
   - 发音
-    - 英 `/'ʃɑːpənə/`
-    - 美 `/'ʃɑrpənɚ/`
+    - 英
+      - `/'ʃɑːpənə/`
+    - 美
+      - `/'ʃɑrpənɚ/`
   - 词义
-    - n. 磨具；削具
-    - `a tool or machine for sharpening pencils, knives etc`
+    - n.
+      - 磨具；削具
+        - `a tool or machine for sharpening pencils, knives etc`
   - 同根词
     - adj.
-      - `sharp` 急剧的；锋利的；强烈的；敏捷的；刺耳的
+      - `sharp`
+        - 急剧的；锋利的；强烈的；敏捷的；刺耳的
     - adv.
-      - `sharp` 急剧地；锐利地；突然地
+      - `sharp`
+        - 急剧地；锐利地；突然地
     - n.
-      - `sharp` 尖头；骗子；内行
+      - `sharp`
+        - 尖头；骗子；内行
     - vi.
-      - `sharp` 打扮；升音演奏
-      - `sharpen` 尖锐；变锋利
+      - `sharp`
+        - 打扮；升音演奏
+      - `sharpen`
+        - 尖锐；变锋利
     - vt.
-      - `sharp` 磨快；把音调升高
-      - `sharpen` 削尖；磨快；使敏捷；加重
+      - `sharp`
+        - 磨快；把音调升高
+      - `sharpen`
+        - 削尖；磨快；使敏捷；加重
   - 近义词
-    - n. 卷笔刀；[机]磨具；研磨者
-      - `grinder`
-      - `grinding tool`
+    - n.
+      - 卷笔刀；[机]磨具；研磨者
+        - `grinder`
+        - `grinding tool`
   - 短语
-    - `pencil sharpener` 卷笔刀 
+    - `pencil sharpener`
+      - 卷笔刀 
   - 例句
     - `...a pencil sharpener.`
       - …一个卷笔刀。

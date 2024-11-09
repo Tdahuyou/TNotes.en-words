@@ -1,9 +1,12 @@
 - Belgium
   - 发音
-    - 英 `/'bɛldʒəm/`
-    - 美 `/'bɛldʒəm/`
+    - 英
+      - `/'bɛldʒəm/`
+    - 美
+      - `/'bɛldʒəm/`
   - 词义
-    - n. 比利时（西欧国家，首都布鲁塞尔Brussels）
+    - n.
+      - 比利时（西欧国家，首都布鲁塞尔Brussels）
   - 例句
     - `I remember watching one of my tapes from 1991 when I went to Belgium and looked at myself speaking English.`
       - 我记得我看过一盘我1991年的录像带，那时我刚到比利时，我看着我自己说英语的样子。

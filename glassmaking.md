@@ -1,9 +1,12 @@
 - glassmaking
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 玻璃(或玻璃器皿等)制造(术)
+    - n.
+      - 玻璃(或玻璃器皿等)制造(术)
   - 例句
     - `In 1868, when the industry was still struggling to re-establish other forms of glassmaking, 3,662 tons of beads were exported.`
       - 到了1868年，即便岛上的工匠们在埋头对玻璃吹制技术重新探索时，玻璃珠的出口量也达到了3,662吨。

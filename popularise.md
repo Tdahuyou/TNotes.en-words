@@ -1,30 +1,48 @@
 - popularise
   - 发音
-    - 英 `/'pɒpjʊləraɪz/`
-    - 美 `/'pɔpjuləraiz/`
+    - 英
+      - `/'pɒpjʊləraɪz/`
+    - 美
+      - `/'pɔpjuləraiz/`
   - 词义
-    - v. 推广，普及；使…通俗化（等于popularize）；使…受欢迎
+    - v.
+      - 推广，普及；使…通俗化（等于popularize）；使…受欢迎
   - 同根词
     - abbr.
-      - `pop` 邮局协议（post office protocol）
+      - `pop`
+        - 邮局协议（post office protocol）
     - adj.
-      - `pop` 流行的；通俗的；热门的
-      - `popular` 流行的，通俗的；受欢迎的；大众的；普及的
+      - `pop`
+        - 流行的；通俗的；热门的
+      - `popular`
+        - 流行的，通俗的；受欢迎的；大众的；普及的
     - adv.
-      - `pop` 突然；砰地
-      - `popularly` 流行地；通俗地；普及地；大众地
+      - `pop`
+        - 突然；砰地
+      - `popularly`
+        - 流行地；通俗地；普及地；大众地
     - n.
-      - `pop` 流行音乐；汽水；砰然声；枪击
-      - `popularity` 普及，流行；名气；受大众欢迎
-      - `popularization` 通俗化，大众化；普及
-      - `popularisation` 普及，普通化（等于popularization）
-      - `popularizer` 大众化的人；普及读物；普及者；使普及的人
+      - `pop`
+        - 流行音乐；汽水；砰然声；枪击
+      - `popularity`
+        - 普及，流行；名气；受大众欢迎
+      - `popularization`
+        - 通俗化，大众化；普及
+      - `popularisation`
+        - 普及，普通化（等于popularization）
+      - `popularizer`
+        - 大众化的人；普及读物；普及者；使普及的人
     - vi.
-      - `pop` 突然出现；爆开；射击；瞪大；发出爆裂声
-      - `popularize` 通俗化
+      - `pop`
+        - 突然出现；爆开；射击；瞪大；发出爆裂声
+      - `popularize`
+        - 通俗化
     - vt.
-      - `pop` 取出；开枪打；抛出；突然伸出；突然行动
-      - `popularize` 普及；使通俗化
+      - `pop`
+        - 取出；开枪打；抛出；突然伸出；突然行动
+      - `popularize`
+        - 普及；使通俗化
   - 近义词
-    - vi. 推广，普及；使…通俗化（等于popularize）；使…受欢迎
-      - `gain ground`
+    - vi.
+      - 推广，普及；使…通俗化（等于popularize）；使…受欢迎
+        - `gain ground`

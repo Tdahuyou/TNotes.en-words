@@ -1,14 +1,18 @@
 - aphid
   - 发音
-    - 英 `/'eɪfɪd/`
-    - 美 `/undefined/`
+    - 英
+      - `/'eɪfɪd/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. [动]蚜虫
-    - `a type of small insect that feeds on the juices of plants`
+    - n.
+      - [动]蚜虫
+        - `a type of small insect that feeds on the juices of plants`
   - 近义词
-    - n. [昆]蚜虫
-      - `budworm`
-      - `greenfly`
+    - n.
+      - [昆]蚜虫
+        - `budworm`
+        - `greenfly`
   - 例句
     - `Anyway, Moran sat down at her computer and looked through the aphid genome for the genes that are responsible for carotenoids.`
       - 无论你听说过没有，现在，莫兰正坐在她的电脑前，研究蚜虫基因组的资料，查找负责类胡萝卜素的基因。

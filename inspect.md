@@ -1,22 +1,29 @@
 - inspect
   - 发音
-    - 英 `/ɪn'spekt/`
-    - 美 `/ɪn'spɛkt/`
+    - 英
+      - `/ɪn'spekt/`
+    - 美
+      - `/ɪn'spɛkt/`
   - 词义
-    - vt. 检查，视察
-    - `to examine something carefully in order to find out more about it or to find out what is wrong with it`
+    - vt.
+      - 检查，视察
+        - `to examine something carefully in order to find out more about it or to find out what is wrong with it`
   - 记忆
     - in(向内) + spect(看) → 向内看 → 检查， 视察
   - 同根词
     - n.
-      - `inspection` 视察，检查
-      - `inspector` 检查员；巡视员
-      - `inspectorate` 检查员；视察团；检查员的辖区
+      - `inspection`
+        - 视察，检查
+      - `inspector`
+        - 检查员；巡视员
+      - `inspectorate`
+        - 检查员；视察团；检查员的辖区
   - 近义词
-    - vt. 检查；视察；检阅
-      - `examine`
-      - `review`
-      - `visit`
+    - vt.
+      - 检查；视察；检阅
+        - `examine`
+        - `review`
+        - `visit`
   - 例句
     - `I got out of the car to inspect the damage.`
       - 我下车查看损坏情况。

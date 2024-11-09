@@ -1,13 +1,17 @@
 - breadfruit
   - 发音
-    - 英 `/'bredfruːt/`
-    - 美 `/'brɛdfrut/`
+    - 英
+      - `/'bredfruːt/`
+    - 美
+      - `/'brɛdfrut/`
   - 词义
-    - n. 面包果树
-    - `a large tropical fruit that looks like bread when it is cooked`
+    - n.
+      - 面包果树
+        - `a large tropical fruit that looks like bread when it is cooked`
   - 近义词
-    - n. [园艺]面包果；面包果树
-      - `artocarpus`
+    - n.
+      - [园艺]面包果；面包果树
+        - `artocarpus`
   - 例句
     - `At the Marriott, for example, guests ramble amid breadfruit and frangipani trees and photograph one another by an enormous, amoeba-shaped swimming pool.`
       - 比如，在万豪酒店，客人们可以在面包果树和鸡蛋花树之间徜徉，在硕大的不规则形状游泳池边相互拍照。

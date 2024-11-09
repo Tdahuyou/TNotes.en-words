@@ -1,40 +1,63 @@
 - curvature
   - 发音
-    - 英 `/'kɜːvətʃə/`
-    - 美 `/'kɝvətʃɚ/`
+    - 英
+      - `/'kɜːvətʃə/`
+    - 美
+      - `/'kɝvətʃɚ/`
   - 词义
-    - n. 弯曲,曲率
-    - `the state of being curved, or the degree to which something is curved`
+    - n.
+      - 弯曲,曲率
+        - `the state of being curved, or the degree to which something is curved`
   - 同根词
     - adj.
-      - `curve` 弯曲的；曲线形的
-      - `curved` 弯曲的；弄弯的
-      - `curving` 弯曲的
-      - `curvy` 弯曲的；曲线美的（等于curvaceous）
+      - `curve`
+        - 弯曲的；曲线形的
+      - `curved`
+        - 弯曲的；弄弯的
+      - `curving`
+        - 弯曲的
+      - `curvy`
+        - 弯曲的；曲线美的（等于curvaceous）
     - n.
-      - `curve` 曲线；弯曲；曲线球；曲线图表
-      - `curved` 倒弧角
-      - `curving` 弯曲；曲线；变形
+      - `curve`
+        - 曲线；弯曲；曲线球；曲线图表
+      - `curved`
+        - 倒弧角
+      - `curving`
+        - 弯曲；曲线；变形
     - v.
-      - `curving` 使弯曲；弯成弧形（curve的ing形式）
+      - `curving`
+        - 使弯曲；弯成弧形（curve的ing形式）
     - vi.
-      - `curve` 成曲形
+      - `curve`
+        - 成曲形
     - vt.
-      - `curve` 弯；使弯曲
-      - `curved` 弯曲（curve的过去式）
+      - `curve`
+        - 弯；使弯曲
+      - `curved`
+        - 弯曲（curve的过去式）
   - 近义词
-    - n. 弯曲，[数]曲率
-      - `give`
-      - `winding`
+    - n.
+      - 弯曲，[数]曲率
+        - `give`
+        - `winding`
   - 短语
-    - `curvature radius` 曲率半径 
-    - `radius of curvature` 曲率半径 
-    - `mean curvature` 平均曲率 
-    - `gaussian curvature` 高斯曲率 
-    - `constant curvature` 常曲率 
-    - `field curvature` 场曲率 
-    - `center of curvature` 曲率中心 
-    - `curvature tensor` 曲率张量 
+    - `curvature radius`
+      - 曲率半径 
+    - `radius of curvature`
+      - 曲率半径 
+    - `mean curvature`
+      - 平均曲率 
+    - `gaussian curvature`
+      - 高斯曲率 
+    - `constant curvature`
+      - 常曲率 
+    - `field curvature`
+      - 场曲率 
+    - `center of curvature`
+      - 曲率中心 
+    - `curvature tensor`
+      - 曲率张量 
   - 例句
     - `Matter, energy and dark energy all produce curvature in space-time, however.`
       - 而事实上，物质、能量和暗能量在时空中都会产生弯曲。

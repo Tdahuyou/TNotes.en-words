@@ -1,31 +1,45 @@
 - criticise
   - 发音
-    - 英 `/'krɪtɪsaɪz/`
-    - 美 `/'kriti,saiz/`
+    - 英
+      - `/'krɪtɪsaɪz/`
+    - 美
+      - `/'kriti,saiz/`
   - 词义
-    - v. 批评，评论
+    - v.
+      - 批评，评论
   - 同根词
     - adj.
-      - `critical` 鉴定的；[核] 临界的；批评的，爱挑剔的；危险的；决定性的；评论的
+      - `critical`
+        - 鉴定的；[核] 临界的；批评的，爱挑剔的；危险的；决定性的；评论的
     - adv.
-      - `critically` 精密地；危急地；批评性地；用钻研眼光地
+      - `critically`
+        - 精密地；危急地；批评性地；用钻研眼光地
     - n.
-      - `criticism` 批评；考证；苛求
-      - `critic` 批评家，评论家；爱挑剔的人
-      - `critique` 批评；评论文章
-      - `criticalness` 批判性
+      - `criticism`
+        - 批评；考证；苛求
+      - `critic`
+        - 批评家，评论家；爱挑剔的人
+      - `critique`
+        - 批评；评论文章
+      - `criticalness`
+        - 批判性
     - vi.
-      - `criticize` 批评；评论；苛求
+      - `criticize`
+        - 批评；评论；苛求
     - vt.
-      - `criticize` 批评；评论；非难
-      - `critique` 批判；评论
+      - `criticize`
+        - 批评；评论；非难
+      - `critique`
+        - 批判；评论
   - 近义词
-    - vt. 批评；吹毛求疵；非难
-      - `to criticize`
-      - `find quarrel in a straw`
-    - vi. 批评；吹毛求疵；非难
-      - `to criticize`
-      - `find quarrel in a straw`
+    - vt.
+      - 批评；吹毛求疵；非难
+        - `to criticize`
+        - `find quarrel in a straw`
+    - vi.
+      - 批评；吹毛求疵；非难
+        - `to criticize`
+        - `find quarrel in a straw`
   - 例句
     - `If you or your partner criticise each other habitually, you are attacking their personality.`
       - 如果你或你的伴侣习惯性地批评对方，其实你们是在攻击对方的人格。

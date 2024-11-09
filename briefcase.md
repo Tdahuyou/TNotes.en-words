@@ -1,14 +1,18 @@
 - briefcase
   - 发音
-    - 英 `/'briːfkeɪs/`
-    - 美 `/'brifkes/`
+    - 英
+      - `/'briːfkeɪs/`
+    - 美
+      - `/'brifkes/`
   - 词义
-    - n. 公文包
-    - `a flat case used especially by business people for carrying papers or documents`
+    - n.
+      - 公文包
+        - `a flat case used especially by business people for carrying papers or documents`
   - 近义词
-    - n. 公文包
-      - `portfolio`
-      - `attache case`
+    - n.
+      - 公文包
+        - `portfolio`
+        - `attache case`
   - 例句
     - `He popped a letter out of his briefcase.`
       - 他从公文包里突然掏出一封信。

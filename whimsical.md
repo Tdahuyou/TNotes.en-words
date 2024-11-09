@@ -1,20 +1,27 @@
 - whimsical
   - 发音
-    - 英 `/'hwimzikəl/`
-    - 美 `/'wɪmzɪkl/`
+    - 英
+      - `/'hwimzikəl/`
+    - 美
+      - `/'wɪmzɪkl/`
   - 词义
-    - adj. 异想天开的；反复无常的
-    - `unusual or strange and often amusing`
+    - adj.
+      - 异想天开的；反复无常的
+        - `unusual or strange and often amusing`
   - 同根词
     - adv.
-      - `whimsically` 异想天开地；古怪地；反复无常的
+      - `whimsically`
+        - 异想天开地；古怪地；反复无常的
     - n.
-      - `whimsy` 怪念头；反复无常
-      - `whimsicality` 异想天开；反复无常；怪诞的行为或想法
+      - `whimsy`
+        - 怪念头；反复无常
+      - `whimsicality`
+        - 异想天开；反复无常；怪诞的行为或想法
   - 近义词
-    - adj. 古怪的；异想天开的；反复无常的
-      - `odd`
-      - `curious`
+    - adj.
+      - 古怪的；异想天开的；反复无常的
+        - `odd`
+        - `curious`
   - 例句
     - `He has a wonderful whimsical sense of humour.`
       - 他怪异的幽默感令人惊叹。

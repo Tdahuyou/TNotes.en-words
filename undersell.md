@@ -1,14 +1,18 @@
 - undersell
   - 发音
-    - 英 `/ˌʌndə'sel/`
-    - 美 `/,ʌndɚ'sɛl/`
+    - 英
+      - `/ˌʌndə'sel/`
+    - 美
+      - `/,ʌndɚ'sɛl/`
   - 词义
-    - v. 以低于市价售出；抛售
-    - `to sell goods at a lower price than someone else`
+    - v.
+      - 以低于市价售出；抛售
+        - `to sell goods at a lower price than someone else`
   - 近义词
-    - vt. 抛售；以低于市价售出
-      - `close out`
-      - `dishoard`
+    - vt.
+      - 抛售；以低于市价售出
+        - `close out`
+        - `dishoard`
   - 例句
     - `I think he undersold himself at the interview.`
       - 我认为他在面试时过于自谦了。

@@ -1,19 +1,24 @@
 - callow
   - 发音
-    - 英 `/'kæləu/`
-    - 美 `/'kælo/`
+    - 英
+      - `/'kæləu/`
+    - 美
+      - `/'kælo/`
   - 词义
-    - adj. 年轻而无经验的；未生羽毛的
-    - `A callow young person has very little experience or knowledge of the way they should behave as an adult`
+    - adj.
+      - 年轻而无经验的；未生羽毛的
+        - `A callow young person has very little experience or knowledge of the way they should behave as an adult`
   - 记忆
     - 未长羽毛的 (callow) 鸟叫声 (call) 低 (low)
   - 同根词
     - n.
-      - `callowness` 缺乏经验
+      - `callowness`
+        - 缺乏经验
   - 近义词
-    - adj. 年轻而无经验的；[鸟]羽毛未丰的
-      - `fledgeless`
-      - `unfledged`
+    - adj.
+      - 年轻而无经验的；[鸟]羽毛未丰的
+        - `fledgeless`
+        - `unfledged`
   - 例句
     - `...a callow youth.`
       - ...一个羽翼未丰的年轻人。

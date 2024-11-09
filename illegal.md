@@ -1,28 +1,41 @@
 - illegal
   - 发音
-    - 英 `/i'liːgəl/`
-    - 美 `/ɪ'ligl/`
+    - 英
+      - `/i'liːgəl/`
+    - 美
+      - `/ɪ'ligl/`
   - 词义
-    - adj. 不合法的，非法的
-    - `not allowed by the law`
+    - adj.
+      - 不合法的，非法的
+        - `not allowed by the law`
   - 记忆
     - il (不) + legal (合法的) → 非法的
   - 近义词
-    - adj. [法]非法的；违法的；违反规则的
-      - `unauthorized`
-      - `unlawful`
-    - n. 非法移民；间谍
-      - `espionage`
-      - `secret agent`
+    - adj.
+      - [法]非法的；违法的；违反规则的
+        - `unauthorized`
+        - `unlawful`
+    - n.
+      - 非法移民；间谍
+        - `espionage`
+        - `secret agent`
   - 短语
-    - `illegal activities` 违法行为；不法活动 
-    - `illegal income` 非法所得；不合法收入 
-    - `illegal immigration` 非法移民；非法入境 
-    - `illegal act` 不法行为，非法行为 
-    - `illegal immigrant` 非法移民；非法入境者 
-    - `illegal operation` [计]非法操作 
-    - `illegal profit` 非法利润 
-    - `illegal parking` 违规停车 
+    - `illegal activities`
+      - 违法行为；不法活动 
+    - `illegal income`
+      - 非法所得；不合法收入 
+    - `illegal immigration`
+      - 非法移民；非法入境 
+    - `illegal act`
+      - 不法行为，非法行为 
+    - `illegal immigrant`
+      - 非法移民；非法入境者 
+    - `illegal operation`
+      - [计]非法操作 
+    - `illegal profit`
+      - 非法利润 
+    - `illegal parking`
+      - 违规停车 
   - 例句
     - `illegal drugs`
       - 违禁药品

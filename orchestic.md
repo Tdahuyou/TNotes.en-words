@@ -1,13 +1,17 @@
 - orchestic
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - adj. 舞蹈的
+    - adj.
+      - 舞蹈的
   - 近义词
-    - adj. 舞蹈的
-      - `dance`
-      - `terpsichorean`
+    - adj.
+      - 舞蹈的
+        - `dance`
+        - `terpsichorean`
   - 例句
     - `There are some relations between musical and orchestic symbols .`
       - 音乐符号和舞蹈符号存在着某种互渗互阐。

@@ -1,9 +1,12 @@
 - plover
   - 发音
-    - 英 `/'plʌvə/`
-    - 美 `/'plʌvɚ/`
+    - 英
+      - `/'plʌvə/`
+    - 美
+      - `/'plʌvɚ/`
   - 词义
-    - n. 千鸟
+    - n.
+      - 千鸟
   - 例句
     - `Other species at risk include the red throated diver, golden plover and merlin.`
       - 危及到的物种还包括红喉潜鸟（red throated diver）、金斑鸻（golden plover）及灰背隼（merlin）。

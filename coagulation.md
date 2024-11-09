@@ -1,30 +1,43 @@
 - coagulation
   - 发音
-    - 英 `/kouˌægju'leɪʃn/`
-    - 美 `/koægjə'leʃən/`
+    - 英
+      - `/kouˌægju'leɪʃn/`
+    - 美
+      - `/koægjə'leʃən/`
   - 词义
-    - n. 凝结
+    - n.
+      - 凝结
   - 记忆
     - 来自coagulate(v. 使凝结)
   - 同根词
     - adj.
-      - `coagulable` 可凝结的
+      - `coagulable`
+        - 可凝结的
     - n.
-      - `coagulant` [建][化工] 促凝剂；凝血剂；凝结剂
-      - `coagulase` [生化] 凝固酶；凝固酵素
-      - `coagulator` [助剂] 凝结剂；[化工] 凝结器
-      - `coagulum` 凝结物；凝固物；凝块
+      - `coagulant`
+        - [建][化工] 促凝剂；凝血剂；凝结剂
+      - `coagulase`
+        - [生化] 凝固酶；凝固酵素
+      - `coagulator`
+        - [助剂] 凝结剂；[化工] 凝结器
+      - `coagulum`
+        - 凝结物；凝固物；凝块
     - vi.
-      - `coagulate` 凝结
+      - `coagulate`
+        - 凝结
     - vt.
-      - `coagulate` 使…凝结
+      - `coagulate`
+        - 使…凝结
   - 近义词
-    - n. [物]凝固，凝结；凝结物
-      - `solidification`
-      - `concrete`
+    - n.
+      - [物]凝固，凝结；凝结物
+        - `solidification`
+        - `concrete`
   - 短语
-    - `blood coagulation` [医]血凝固 
-    - `coagulation necrosis` [医]凝固性坏死 
+    - `blood coagulation`
+      - [医]血凝固 
+    - `coagulation necrosis`
+      - [医]凝固性坏死 
   - 例句
     - `Azoth is often associated with the alchemical principle of coagulation.`
       - 水银通常与炼金术中的凝结原理有关。

@@ -1,25 +1,33 @@
 - guilt
   - 发音
-    - 英 `/gɪlt/`
-    - 美 `/ɡɪlt/`
+    - 英
+      - `/gɪlt/`
+    - 美
+      - `/ɡɪlt/`
   - 词义
-    - n. 犯罪，过失；内疚
-    - `a strong feeling of shame and sadness because you know that you have done something wrong`
+    - n.
+      - 犯罪，过失；内疚
+        - `a strong feeling of shame and sadness because you know that you have done something wrong`
   - 同根词
     - adj.
-      - `guilty` 有罪的；内疚的
-      - `guiltless` 无罪的，无辜的；没有…的，不知…的
+      - `guilty`
+        - 有罪的；内疚的
+      - `guiltless`
+        - 无罪的，无辜的；没有…的，不知…的
     - adv.
-      - `guiltily` 内疚地；有罪地
+      - `guiltily`
+        - 内疚地；有罪地
     - n.
-      - `guiltiness` 有罪；自觉有罪；愧疚
+      - `guiltiness`
+        - 有罪；自觉有罪；愧疚
   - 近义词
-    - n. 犯罪，过失；内疚
-      - `error`
-      - `crime`
-      - `mistake`
-      - `sin`
-      - `blame`
+    - n.
+      - 犯罪，过失；内疚
+        - `error`
+        - `crime`
+        - `mistake`
+        - `sin`
+        - `blame`
   - 例句
     - `He used to buy them expensive presents, out of guilt.`
       - 出于内疚，他以前总是给他们买昂贵的礼物。

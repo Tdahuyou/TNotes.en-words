@@ -1,19 +1,28 @@
 - alphabetically
   - 发音
-    - 英 `/,ælfe'bɛtɪkli/`
-    - 美 `/,ælfə'bɛtɪkli/`
+    - 英
+      - `/,ælfe'bɛtɪkli/`
+    - 美
+      - `/,ælfə'bɛtɪkli/`
   - 词义
-    - adv. 按字母表顺序地
+    - adv.
+      - 按字母表顺序地
   - 同根词
     - adj.
-      - `alphabetical` 字母的；[计] 依字母顺序的
-      - `alphabetic` 字母的；照字母次序的
+      - `alphabetical`
+        - 字母的；[计] 依字母顺序的
+      - `alphabetic`
+        - 字母的；照字母次序的
     - n.
-      - `alphabet` 字母表，字母系统；入门，初步
-      - `alpha` 希腊字母的第一个字母；开端；最初
-      - `alphabetization` 按照字母顺序排列；拼音化
+      - `alphabet`
+        - 字母表，字母系统；入门，初步
+      - `alpha`
+        - 希腊字母的第一个字母；开端；最初
+      - `alphabetization`
+        - 按照字母顺序排列；拼音化
     - vt.
-      - `alphabetize` 依字母顺序排列；用字母表示；拼音化
+      - `alphabetize`
+        - 依字母顺序排列；用字母表示；拼音化
   - 例句
     - `For example, you could list your records in your report alphabetically.`
       - 例如，可以在报告中按字母顺序列出记录。

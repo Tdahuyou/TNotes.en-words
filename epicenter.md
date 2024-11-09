@@ -1,18 +1,23 @@
 - epicenter
   - 发音
-    - 英 `/'episentə/`
-    - 美 `/'ɛpɪ,sɛntɚ/`
+    - 英
+      - `/'episentə/`
+    - 美
+      - `/'ɛpɪ,sɛntɚ/`
   - 词义
-    - n. 震中；中心
+    - n.
+      - 震中；中心
   - 记忆
     - epi(挨劈) + center(中心) → 土地挨劈的中心 → 震中
   - 同根词
     - n.
-      - `epicentre` 震中
+      - `epicentre`
+        - 震中
   - 近义词
-    - n. [地震]震中；中心
-      - `focus`
-      - `hub`
+    - n.
+      - [地震]震中；中心
+        - `focus`
+        - `hub`
   - 例句
     - `All but one of the deaths were in Mexico, the epicenter of the outbreak.`
       - 除一人外，其他死亡患者都在疾病爆发的中心地墨西哥。

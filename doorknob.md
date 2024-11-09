@@ -1,13 +1,17 @@
 - doorknob
   - 发音
-    - 英 `/'dɔːnɒb/`
-    - 美 `/'dɔrnɑb/`
+    - 英
+      - `/'dɔːnɒb/`
+    - 美
+      - `/'dɔrnɑb/`
   - 词义
-    - n. 门把手
-    - `a round handle that you turn to open a door`
+    - n.
+      - 门把手
+        - `a round handle that you turn to open a door`
   - 近义词
-    - n. 门把手
-      - `door handle`
+    - n.
+      - 门把手
+        - `door handle`
   - 例句
     - `Another one turned the doorknob but it was locked.`
       - 另一个扭了一下门把手但它是锁住的。

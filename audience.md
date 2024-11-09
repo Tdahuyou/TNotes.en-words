@@ -1,22 +1,31 @@
 - audience
   - 发音
-    - 英 `/'ɔːdiəns/`
-    - 美 `/'ɔdɪəns/`
+    - 英
+      - `/'ɔːdiəns/`
+    - 美
+      - `/'ɔdɪəns/`
   - 词义
-    - n. 听众；观众；读者
-    - `a group of people who come to watch and listen to someone speaking or performing in public`
+    - n.
+      - 听众；观众；读者
+        - `a group of people who come to watch and listen to someone speaking or performing in public`
   - 记忆
     - aud(听) + ience → 听众
   - 近义词
-    - n. 观众；听众；读者；接见
-      - `reader`
-      - `interview`
+    - n.
+      - 观众；听众；读者；接见
+        - `reader`
+        - `interview`
   - 短语
-    - `target audience` 目标受众；目标观众；目标客户 
-    - `audience rating` n. 收视率；视听率 
-    - `mass audience` 大众受众 
-    - `captive audience` 受制而走不开的听众或观众 
-    - `audience share` 收视率；受众份额 
+    - `target audience`
+      - 目标受众；目标观众；目标客户 
+    - `audience rating`
+      - n. 收视率；视听率 
+    - `mass audience`
+      - 大众受众 
+    - `captive audience`
+      - 受制而走不开的听众或观众 
+    - `audience share`
+      - 收视率；受众份额 
   - 例句
     - `The audience began clapping and cheering.`
       - 观众开始鼓掌欢呼。

@@ -1,21 +1,28 @@
 - jostle
   - 发音
-    - 英 `/'dʒɒs(ə)l/`
-    - 美 `/'dʒɑsl/`
+    - 英
+      - `/'dʒɒs(ə)l/`
+    - 美
+      - `/'dʒɑsl/`
   - 词义
-    - v. 推挤，撞；争夺
-    - `to push or knock against someone in a crowd, especially so that you can get somewhere or do something before other people`
-    - n. 推撞，挤拥
+    - v.
+      - 推挤，撞；争夺
+        - `to push or knock against someone in a crowd, especially so that you can get somewhere or do something before other people`
+    - n.
+      - 推撞，挤拥
   - 同根词
     - n.
-      - `jostling` 冲撞别人的马；推撞
+      - `jostling`
+        - 冲撞别人的马；推撞
   - 近义词
-    - vt. 推挤，撞；争夺
-      - `bump against`
-      - `elbow`
-    - vi. 竞争，争夺；推挤
-      - `cope`
-      - `rival`
+    - vt.
+      - 推挤，撞；争夺
+        - `bump against`
+        - `elbow`
+    - vi.
+      - 竞争，争夺；推挤
+        - `cope`
+        - `rival`
   - 例句
     - `A thousand thoughts were jostling around inside my mind.`
       - 千头万绪在我脑海中翻涌。

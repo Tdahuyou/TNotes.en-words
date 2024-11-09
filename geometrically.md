@@ -1,16 +1,23 @@
 - geometrically
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - adv. 成几何级数(图形)地
+    - adv.
+      - 成几何级数(图形)地
   - 同根词
     - adj.
-      - `geometric` 几何学的；[数] 几何学图形的
+      - `geometric`
+        - 几何学的；[数] 几何学图形的
     - n.
-      - `geometry` 几何学
-      - `geometer` [植保] 尺蠖（一种虫子，行动时身体弯成弧状）；几何学者
-      - `geometrician` 几何学者
+      - `geometry`
+        - 几何学
+      - `geometer`
+        - [植保] 尺蠖（一种虫子，行动时身体弯成弧状）；几何学者
+      - `geometrician`
+        - 几何学者
   - 例句
     - `So, geometrically, my function can be represented by this graph, and I fix some point, .`
       - 从几何上看，函数可以用这个图像表示，固定某个点。

@@ -1,16 +1,21 @@
 - poikilotherm
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. [动]变温动物,冷血动物
+    - n.
+      - [动]变温动物,冷血动物
   - 同根词
     - adj.
-      - `poikilothermous` [动] 变温的；冷血的；冷血动物的（等于poikilothermal）
+      - `poikilothermous`
+        - [动] 变温的；冷血的；冷血动物的（等于poikilothermal）
   - 近义词
-    - n. [动]变温动物；冷血动物
-      - `ectotherm`
-      - `cold blooded animal`
+    - n.
+      - [动]变温动物；冷血动物
+        - `ectotherm`
+        - `cold blooded animal`
   - 例句
     - `Fish are poikilotherm whose body temperature changes as the ambient water temperature changes.`
       - 鱼类是变温动物，其体温随环境的水温变化而变化。

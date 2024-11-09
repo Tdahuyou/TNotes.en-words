@@ -1,17 +1,21 @@
 - underline
   - 发音
-    - 英 `/ʌndə'laɪn/`
-    - 美 `/'ʌndəlaɪn/`
+    - 英
+      - `/ʌndə'laɪn/`
+    - 美
+      - `/'ʌndəlaɪn/`
   - 词义
-    - v. 画底线标出；强调
-    - `to draw a line under a word to show that it is important`
+    - v.
+      - 画底线标出；强调
+        - `to draw a line under a word to show that it is important`
   - 记忆
     - under(下)+line(画线)→在…下画线
   - 近义词
-    - vt. 强调；在…下面划线；预告
-      - `emphasize`
-      - `stress`
-      - `highlight`
+    - vt.
+      - 强调；在…下面划线；预告
+        - `emphasize`
+        - `stress`
+        - `highlight`
   - 例句
     - `Underline the following that apply to you.`
       - 在以下适用于你的部分下面划线。

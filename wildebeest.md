@@ -1,14 +1,18 @@
 - wildebeest
   - 发音
-    - 英 `/'wɪldəbiːst; 'vɪ-/`
-    - 美 `/'wɪldəbist/`
+    - 英
+      - `/'wɪldəbiːst; 'vɪ-/`
+    - 美
+      - `/'wɪldəbist/`
   - 词义
-    - n. 羚羊(其中一种)
-    - `a large Southern African animal with a tail and curved horns`
+    - n.
+      - 羚羊(其中一种)
+        - `a large Southern African animal with a tail and curved horns`
   - 近义词
-    - n. 羚羊的一种；牛羚（产于非洲）
-      - `bongo`
-      - `gnu`
+    - n.
+      - 羚羊的一种；牛羚（产于非洲）
+        - `bongo`
+        - `gnu`
   - 例句
     - `Next there are springbok and kudu, then wildebeest and zebra, grazing in a private game reserve.`
       - 接着又有羚羊和条纹羚，牛羚和斑马，它们被放养在私人野生动物保护地里。

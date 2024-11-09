@@ -1,26 +1,37 @@
 - legislate
   - 发音
-    - 英 `/'ledʒɪsleɪt/`
-    - 美 `/'lɛdʒɪslet/`
+    - 英
+      - `/'ledʒɪsleɪt/`
+    - 美
+      - `/'lɛdʒɪslet/`
   - 词义
-    - v. 制定法律；通过立法
-    - `to make a law about something`
+    - v.
+      - 制定法律；通过立法
+        - `to make a law about something`
   - 记忆
     - leg(法律) + isl + ate(使…) → 使成为法律 → 制定法律； 通过立法
   - 同根词
     - adj.
-      - `legislative` 立法的；有立法权的
+      - `legislative`
+        - 立法的；有立法权的
     - adv.
-      - `legislatively` 立法地
+      - `legislatively`
+        - 立法地
     - n.
-      - `legislation` 立法；法律
-      - `legislative` 立法权；立法机构
-      - `legislature` 立法机关；立法机构
-      - `legislator` 立法者
-      - `legislatorship` 立法者的身份
+      - `legislation`
+        - 立法；法律
+      - `legislative`
+        - 立法权；立法机构
+      - `legislature`
+        - 立法机关；立法机构
+      - `legislator`
+        - 立法者
+      - `legislatorship`
+        - 立法者的身份
   - 近义词
-    - vi. 立法；制定法律
-      - `pass laws`
+    - vi.
+      - 立法；制定法律
+        - `pass laws`
   - 例句
     - `Most member countries have already legislated against excessive overtime.`
       - 大部分成员国已经立法禁止过度加班。

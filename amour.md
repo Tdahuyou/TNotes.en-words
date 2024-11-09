@@ -1,13 +1,17 @@
 - amour
   - 发音
-    - 英 `/ə'muə/`
-    - 美 `/ə'mʊr/`
+    - 英
+      - `/ə'muə/`
+    - 美
+      - `/ə'mʊr/`
   - 词义
-    - n. 奸情；恋情
-    - `An amour is a love affair, especially one that is kept secret`
+    - n.
+      - 奸情；恋情
+        - `An amour is a love affair, especially one that is kept secret`
   - 近义词
-    - n. 恋情；偷情，奸情
-      - `illicit intercourse`
+    - n.
+      - 恋情；偷情，奸情
+        - `illicit intercourse`
   - 例句
     - `The moundsman has a transitory amour.`
       - 那个棒球投手和她有段短暂恋情。

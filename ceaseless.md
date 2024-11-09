@@ -1,24 +1,32 @@
 - ceaseless
   - 发音
-    - 英 `/'siːslɪs/`
-    - 美 `/ˈsislɪs/`
+    - 英
+      - `/'siːslɪs/`
+    - 美
+      - `/ˈsislɪs/`
   - 词义
-    - adj. 不断的；不停的
-    - `happening for a long time without stopping`
+    - adj.
+      - 不断的；不停的
+        - `happening for a long time without stopping`
   - 同根词
     - adv.
-      - `ceaselessly` 不停地
+      - `ceaselessly`
+        - 不停地
     - n.
-      - `cease` 停止
+      - `cease`
+        - 停止
     - vi.
-      - `cease` 停止；终了
+      - `cease`
+        - 停止；终了
     - vt.
-      - `cease` 停止；结束
+      - `cease`
+        - 停止；结束
   - 近义词
-    - adj. 不断的；不停的
-      - `unceasing`
-      - `loud`
-      - `incessant`
+    - adj.
+      - 不断的；不停的
+        - `unceasing`
+        - `loud`
+        - `incessant`
   - 例句
     - `the ceaseless fight against crime`
       - 对犯罪的持续打击

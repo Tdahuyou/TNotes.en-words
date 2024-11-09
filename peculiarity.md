@@ -1,24 +1,31 @@
 - peculiarity
   - 发音
-    - 英 `/pɪ,kjuːlɪ'ærɪtɪ/`
-    - 美 `/pɪ'kjʊlɪ'ærəti/`
+    - 英
+      - `/pɪ,kjuːlɪ'ærɪtɪ/`
+    - 美
+      - `/pɪ'kjʊlɪ'ærəti/`
   - 词义
-    - n. 特性,怪癖
-    - `something that is a feature of only one particular place, person, situation etc`
+    - n.
+      - 特性,怪癖
+        - `something that is a feature of only one particular place, person, situation etc`
   - 同根词
     - adj.
-      - `peculiar` 特殊的；独特的；奇怪的；罕见的
+      - `peculiar`
+        - 特殊的；独特的；奇怪的；罕见的
     - adv.
-      - `peculiarly` 特别；尤其；古怪地；奇怪地
+      - `peculiarly`
+        - 特别；尤其；古怪地；奇怪地
     - n.
-      - `peculiar` 特权；特有财产
+      - `peculiar`
+        - 特权；特有财产
   - 近义词
-    - n. 特性；特质；怪癖；奇特
-      - `quality`
-      - `tang`
-      - `identity`
-      - `specific`
-      - `character`
+    - n.
+      - 特性；特质；怪癖；奇特
+        - `quality`
+        - `tang`
+        - `identity`
+        - `specific`
+        - `character`
   - 例句
     - `Margaret regarded her mother’s peculiarities with a fond tolerance.`
       - 玛格丽特宽容地看待母亲的怪癖。

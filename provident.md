@@ -1,22 +1,31 @@
 - provident
   - 发音
-    - 英 `/'prɔvidənt/`
-    - 美 `/'prɑvɪdənt/`
+    - 英
+      - `/'prɔvidənt/`
+    - 美
+      - `/'prɑvɪdənt/`
   - 词义
-    - adj. 有远见的
-    - `careful and sensible in the way you plan things, especially by saving money for the future`
+    - adj.
+      - 有远见的
+        - `careful and sensible in the way you plan things, especially by saving money for the future`
   - 记忆
     - pro (向前) + vid (看) + ent → 向前看的 → 有远见的
   - 同根词
     - adv.
-      - `providently` 有远虑地
+      - `providently`
+        - 有远虑地
     - n.
-      - `providence` 天意；深谋远虑
+      - `providence`
+        - 天意；深谋远虑
   - 近义词
-    - adj. 节俭的；有先见之明的；顾及未来的
-      - `frugal`
-      - `prudent`
+    - adj.
+      - 节俭的；有先见之明的；顾及未来的
+        - `frugal`
+        - `prudent`
   - 短语
-    - `provident fund` 公积金；福利基金；准备基金 
-    - `mandatory provident fund` 强制性公积金 
-    - `urban housing provident fund` 城镇住房公积金 
+    - `provident fund`
+      - 公积金；福利基金；准备基金 
+    - `mandatory provident fund`
+      - 强制性公积金 
+    - `urban housing provident fund`
+      - 城镇住房公积金 

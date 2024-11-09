@@ -1,22 +1,30 @@
 - remind
   - 发音
-    - 英 `/rɪ'maɪnd/`
-    - 美 `/rɪ'maɪnd/`
+    - 英
+      - `/rɪ'maɪnd/`
+    - 美
+      - `/rɪ'maɪnd/`
   - 词义
-    - vt. 提醒；使想起；使发生联想
-    - `to make someone remember something that they must do`
+    - vt.
+      - 提醒；使想起；使发生联想
+        - `to make someone remember something that they must do`
   - 同根词
     - adj.
-      - `remindful` 提醒的；留意的
+      - `remindful`
+        - 提醒的；留意的
     - n.
-      - `reminder` 暗示；提醒的人/物；催单
+      - `reminder`
+        - 暗示；提醒的人/物；催单
   - 近义词
-    - vt. 提醒；使想起
-      - `jack`
-      - `put in mind`
+    - vt.
+      - 提醒；使想起
+        - `jack`
+        - `put in mind`
   - 短语
-    - `remind of` 提醒；使记起；使回想起 
-    - `that reminds me` [用来转换话题]我想起来了 
+    - `remind of`
+      - 提醒；使记起；使回想起 
+    - `that reminds me`
+      - [用来转换话题]我想起来了 
   - 例句
     - `Yes, I’ll be there. Thanks for reminding me.`
       - 是的，我会去那里的。 谢谢提醒。

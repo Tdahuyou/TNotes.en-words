@@ -1,32 +1,44 @@
 - superficial
   - 发音
-    - 英 `/ˌsuːpər'fɪʃl/`
-    - 美 `/,supɚ'fɪʃl/`
+    - 英
+      - `/ˌsuːpər'fɪʃl/`
+    - 美
+      - `/,supɚ'fɪʃl/`
   - 词义
-    - adj. 肤浅的，浅薄的；表面的，外表的，外层的
-    - `not studying or looking at something carefully and only seeing the most noticeable things`
+    - adj.
+      - 肤浅的，浅薄的；表面的，外表的，外层的
+        - `not studying or looking at something carefully and only seeing the most noticeable things`
   - 记忆
     - super(在…上面) + fic(做) + ial → 只在上面做 → 肤浅的
   - 同根词
     - adv.
-      - `superficially` 表面地；浅薄地
+      - `superficially`
+        - 表面地；浅薄地
     - n.
-      - `superficiality` 浅薄，肤浅；表面性的事物
-      - `superficies` 外表，表面；面积
+      - `superficiality`
+        - 浅薄，肤浅；表面性的事物
+      - `superficies`
+        - 外表，表面；面积
   - 近义词
-    - adj. 表面的；肤浅的
-      - `surface`
-      - `external`
-      - `facial`
-      - `shallow`
-    - n. 表面文章；外表；浅薄的人
-      - `person`
-      - `garment`
+    - adj.
+      - 表面的；肤浅的
+        - `surface`
+        - `external`
+        - `facial`
+        - `shallow`
+    - n.
+      - 表面文章；外表；浅薄的人
+        - `person`
+        - `garment`
   - 短语
-    - `superficial velocity` 空塔速度；表面速度 
-    - `superficial layer` 浅层；表面层 
-    - `superficial area` 表面积 
-    - `superficial fascia` 浅筋膜 
+    - `superficial velocity`
+      - 空塔速度；表面速度 
+    - `superficial layer`
+      - 浅层；表面层 
+    - `superficial area`
+      - 表面积 
+    - `superficial fascia`
+      - 浅筋膜 
   - 例句
     - `They only have the most superficial understanding of prison life.`
       - 他们对监狱生活只有最粗浅的了解。

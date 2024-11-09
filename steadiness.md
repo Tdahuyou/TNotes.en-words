@@ -1,27 +1,39 @@
 - steadiness
   - 发音
-    - 英 `/'stedinəs/`
-    - 美 `/undefined/`
+    - 英
+      - `/'stedinəs/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 稳健，坚定
+    - n.
+      - 稳健，坚定
   - 同根词
     - adj.
-      - `steady` 稳定的；不变的；沉着的
-      - `steadfast` 坚定的；不变的
+      - `steady`
+        - 稳定的；不变的；沉着的
+      - `steadfast`
+        - 坚定的；不变的
     - adv.
-      - `steady` 稳定地；稳固地
-      - `steadily` 稳定地；稳固地；有规则地
-      - `steadfastly` 踏实地；不变地
+      - `steady`
+        - 稳定地；稳固地
+      - `steadily`
+        - 稳定地；稳固地；有规则地
+      - `steadfastly`
+        - 踏实地；不变地
     - n.
-      - `steady` 关系固定的情侣；固定支架
+      - `steady`
+        - 关系固定的情侣；固定支架
     - vi.
-      - `steady` 稳固
+      - `steady`
+        - 稳固
     - vt.
-      - `steady` 使稳定；稳固；使坚定
+      - `steady`
+        - 使稳定；稳固；使坚定
   - 近义词
-    - n. 稳定；稳健；不变；稳固
-      - `stabilization`
-      - `invariableness`
+    - n.
+      - 稳定；稳健；不变；稳固
+        - `stabilization`
+        - `invariableness`
   - 例句
     - `This paper studied emphatically the heat steadiness of naphthaline and compatibility of naphthaline with carbon steel.`
       - 本文着重对萘的热稳定性以及碳钢萘间的相容性进行实验研究。

@@ -1,15 +1,21 @@
 - therewith
   - 发音
-    - 英 `/ðeə'wɪð/`
-    - 美 `/undefined/`
+    - 英
+      - `/ðeə'wɪð/`
+    - 美
+      - `/undefined/`
   - 词义
-    - adv. 随其；于是；以其；与此
-    - `with or in addition to that `
+    - adv.
+      - 随其；于是；以其；与此
+        - `with or in addition to that `
   - 同根词
     - adv.
-      - `thereupon` 于是；随即；关于那，在其上
-      - `therewithal` 于是；因此；随其；此外
+      - `thereupon`
+        - 于是；随即；关于那，在其上
+      - `therewithal`
+        - 于是；因此；随其；此外
   - 近义词
-    - adv. 随其；于是；以其；与此
-      - `accordingly`
-      - `then`
+    - adv.
+      - 随其；于是；以其；与此
+        - `accordingly`
+        - `then`

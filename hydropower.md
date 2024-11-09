@@ -1,13 +1,18 @@
 - hydropower
   - 发音
-    - 英 `/'haɪdrə(ʊ)paʊə/`
-    - 美 `/'haɪdro,paʊɚ/`
+    - 英
+      - `/'haɪdrə(ʊ)paʊə/`
+    - 美
+      - `/'haɪdro,paʊɚ/`
   - 词义
-    - n. 水力发出的电力
-    - `hydroelectric power `
+    - n.
+      - 水力发出的电力
+        - `hydroelectric power `
   - 短语
-    - `hydropower station` 水电站 
-    - `hydropower engineering` 水利水电工程；水力工程学；水利工程 
+    - `hydropower station`
+      - 水电站 
+    - `hydropower engineering`
+      - 水利水电工程；水力工程学；水利工程 
   - 例句
     - `If we do it ourselves, only cheap energy from hydropower will do.`
       - 如果靠自力更生，只有靠水电站带来的廉价能源了。

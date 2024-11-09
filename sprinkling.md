@@ -1,23 +1,32 @@
 - sprinkling
   - 发音
-    - 英 `/'sprɪŋklɪŋ/`
-    - 美 `/'sprɪŋklɪŋ/`
+    - 英
+      - `/'sprɪŋklɪŋ/`
+    - 美
+      - `/'sprɪŋklɪŋ/`
   - 词义
-    - vbl. 洒水
+    - vbl.
+      - 洒水
   - 同根词
     - n.
-      - `sprinkle` 撒，洒；少量
-      - `sprinkler` 洒水车；洒水器
+      - `sprinkle`
+        - 撒，洒；少量
+      - `sprinkler`
+        - 洒水车；洒水器
     - vi.
-      - `sprinkle` 洒，撒；下稀疏小雨；喷撒
+      - `sprinkle`
+        - 洒，撒；下稀疏小雨；喷撒
     - vt.
-      - `sprinkle` 洒；微雨；散置
+      - `sprinkle`
+        - 洒；微雨；散置
   - 近义词
-    - n. 少量；点滴；喷雾
-      - `bit`
-      - `driblet`
-    - v. 洒；点缀（sprinkle的现在分词）
-      - `interspersing`
+    - n.
+      - 少量；点滴；喷雾
+        - `bit`
+        - `driblet`
+    - v.
+      - 洒；点缀（sprinkle的现在分词）
+        - `interspersing`
   - 例句
     - `Through faith he kept the passover, and the sprinkling of blood, lest he that destroyed the firstborn should touch them.`
       - 他因着信，就守逾越节，（守或作立）行洒血的礼，免得那灭长子的临近以色列人。

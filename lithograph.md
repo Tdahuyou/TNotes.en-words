@@ -1,19 +1,27 @@
 - lithograph
   - 发音
-    - 英 `/'lɪθəgrɑːf; 'laɪ-/`
-    - 美 `/'lɪθəɡræf/`
+    - 英
+      - `/'lɪθəgrɑːf; 'laɪ-/`
+    - 美
+      - `/'lɪθəɡræf/`
   - 词义
-    - n. 石版画,平版印刷
-    - `a printed picture produced by lithography`
+    - n.
+      - 石版画,平版印刷
+        - `a printed picture produced by lithography`
   - 同根词
     - adj.
-      - `lithographic` 平版的；平版印刷的
+      - `lithographic`
+        - 平版的；平版印刷的
     - n.
-      - `lithography` [印刷] 平版印刷术，石印术
-      - `lithographer` 石版家；石印工
+      - `lithography`
+        - [印刷] 平版印刷术，石印术
+      - `lithographer`
+        - 石版家；石印工
   - 近义词
-    - n. 平版印刷
-      - `offset`
-      - `planography`
-    - vt. 用平版印刷术印刷
-      - `offset`
+    - n.
+      - 平版印刷
+        - `offset`
+        - `planography`
+    - vt.
+      - 用平版印刷术印刷
+        - `offset`

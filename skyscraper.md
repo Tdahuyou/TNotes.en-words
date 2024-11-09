@@ -1,10 +1,13 @@
 - skyscraper
   - 发音
-    - 英 `/'skaɪskreɪpər/`
-    - 美 `/'skaɪ'skrepɚ/`
+    - 英
+      - `/'skaɪskreɪpər/`
+    - 美
+      - `/'skaɪ'skrepɚ/`
   - 词义
-    - n. 摩天楼
-    - `a very tall modern city building`
+    - n.
+      - 摩天楼
+        - `a very tall modern city building`
   - 记忆
     - sky(天) + scrape(摩擦) + r → 楼高得可以擦到天 → 摩天楼
   - 例句

@@ -1,9 +1,12 @@
 - nowcasting
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 预告
+    - n.
+      - 预告
   - 例句
     - `To better forecast landslide and debris flow, we localized mesoscale model, the well-known MM5, and the nowcasting technique of satellite and radar also were utilized.`
       - 针对滑坡、泥石流，应用MM5中尺度预报模式进行本地化，并结合卫星和雷达的客观雨量预报方法。

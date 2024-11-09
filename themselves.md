@@ -1,12 +1,16 @@
 - themselves
   - 发音
-    - 英 `/ð(ə)m'selvz/`
-    - 美 `/ðɛm'sɛlvz/`
+    - 英
+      - `/ð(ə)m'selvz/`
+    - 美
+      - `/ðɛm'sɛlvz/`
   - 词义
-    - pron. 他(她、它)们自己
-    - `used to show that the people who do something are affected by their own action`
+    - pron.
+      - 他(她、它)们自己
+        - `used to show that the people who do something are affected by their own action`
   - 短语
-    - `by themselves` 独力地 
+    - `by themselves`
+      - 独力地 
   - 例句
     - `Teachers have no choice but to take measures to protect themselves.`
       - 教师们别无选择，只能采取措施来保护自己。

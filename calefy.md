@@ -1,6 +1,9 @@
 - calefy
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - v. (使)变暖
+    - v.
+      - (使)变暖

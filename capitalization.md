@@ -1,29 +1,45 @@
 - capitalization
   - 发音
-    - 英 `/ˌkæpitəlai'zeiʃən/`
-    - 美 `/,kæpɪtəlɪ'zeʃən/`
+    - 英
+      - `/ˌkæpitəlai'zeiʃən/`
+    - 美
+      - `/,kæpɪtəlɪ'zeʃən/`
   - 词义
-    - n. 资本化
-    - `the act of capitalizing `
+    - n.
+      - 资本化
+        - `the act of capitalizing `
   - 同根词
     - adj.
-      - `capital` 首都的；重要的；大写的
-      - `capitalist` 资本主义的；资本家的
-      - `capitalistic` 资本主义的；资本家的
+      - `capital`
+        - 首都的；重要的；大写的
+      - `capitalist`
+        - 资本主义的；资本家的
+      - `capitalistic`
+        - 资本主义的；资本家的
     - n.
-      - `capital` 首都，省会；资金；大写字母；资本家
-      - `capitalism` 资本主义
-      - `capitalist` 资本家；资本主义者
-      - `capitalisation` 市值（等于capitalization）；（英）资本化
+      - `capital`
+        - 首都，省会；资金；大写字母；资本家
+      - `capitalism`
+        - 资本主义
+      - `capitalist`
+        - 资本家；资本主义者
+      - `capitalisation`
+        - 市值（等于capitalization）；（英）资本化
     - vi.
-      - `capitalize` 利用；积累资本
-      - `capitalise` 利用（等于capitalize）
+      - `capitalize`
+        - 利用；积累资本
+      - `capitalise`
+        - 利用（等于capitalize）
     - vt.
-      - `capitalize` 使资本化；以大写字母写；估计…的价值
-      - `capitalise` 用大写字母书写；投资于
+      - `capitalize`
+        - 使资本化；以大写字母写；估计…的价值
+      - `capitalise`
+        - 用大写字母书写；投资于
   - 短语
-    - `market capitalization` [经]（股票等的）市值 
-    - `capitalization rate` 资本化率 
+    - `market capitalization`
+      - [经]（股票等的）市值 
+    - `capitalization rate`
+      - 资本化率 
   - 例句
     - `The world's artwork market capitalization is overwhelming tide and trend.`
       - 世界艺术品市场的资本化是势不可挡的潮流和趋势。

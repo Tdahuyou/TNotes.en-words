@@ -1,20 +1,25 @@
 - lighthearted
   - 发音
-    - 英 `/ˌlaɪt'hɑːrtɪd/`
-    - 美 `/'lait'hɑ:tid/`
+    - 英
+      - `/ˌlaɪt'hɑːrtɪd/`
+    - 美
+      - `/'lait'hɑ:tid/`
   - 词义
-    - adj. 无忧无虑的；愉快的
+    - adj.
+      - 无忧无虑的；愉快的
   - 记忆
     - light(轻的) + hearted(有…心情的) → 心情轻松的 → 无忧无虑的
   - 同根词
     - n.
-      - `lightheartedness` 无忧无虑；自由自在；轻松愉快
+      - `lightheartedness`
+        - 无忧无虑；自由自在；轻松愉快
   - 近义词
-    - adj. 快乐的，心情愉快的；无忧无虑的
-      - `festival`
-      - `cheerful`
-      - `enjoyable`
-      - `gay`
+    - adj.
+      - 快乐的，心情愉快的；无忧无虑的
+        - `festival`
+        - `cheerful`
+        - `enjoyable`
+        - `gay`
   - 例句
     - `"He whistles as he goes, lighthearted wretch, /Cold and yet cheerful" (William Cowper).`
       - 他边走边吹口哨，无忧无虑的小家伙/寒冷但仍然很高兴“ （威廉姆·考珀）。

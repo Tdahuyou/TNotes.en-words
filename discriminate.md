@@ -1,32 +1,45 @@
 - discriminate
   - 发音
-    - 英 `/dɪ'skrɪmɪneɪt/`
-    - 美 `/dɪ'skrɪmɪnet/`
+    - 英
+      - `/dɪ'skrɪmɪneɪt/`
+    - 美
+      - `/dɪ'skrɪmɪnet/`
   - 词义
-    - v. 区别；歧视
-    - `to treat a person or group differently from another in an unfair way`
+    - v.
+      - 区别；歧视
+        - `to treat a person or group differently from another in an unfair way`
   - 记忆
     - dis(分开) + crimin(分开) + ate → 分开对待 → 区别； 歧视
   - 同根词
     - adj.
-      - `discriminatory` 有辨识力的；差别对待的
-      - `discriminating` 识别的；有差别的；有识别力的
-      - `discriminative` 区别的，歧视的；有识别力的
-      - `discriminable` 可辨别的；可分别的
+      - `discriminatory`
+        - 有辨识力的；差别对待的
+      - `discriminating`
+        - 识别的；有差别的；有识别力的
+      - `discriminative`
+        - 区别的，歧视的；有识别力的
+      - `discriminable`
+        - 可辨别的；可分别的
     - n.
-      - `discrimination` 歧视；区别，辨别；识别力
-      - `discriminator` [电子] 鉴别器；辨别者
+      - `discrimination`
+        - 歧视；区别，辨别；识别力
+      - `discriminator`
+        - [电子] 鉴别器；辨别者
     - v.
-      - `discriminating` 识别（discriminate的ing形式）；区别对待
+      - `discriminating`
+        - 识别（discriminate的ing形式）；区别对待
   - 近义词
-    - vt. 歧视；区别；辨别
-      - `tell from`
-      - `distinguish from`
-    - vi. 歧视；区别；辨别
-      - `tell from`
-      - `distinguish from`
+    - vt.
+      - 歧视；区别；辨别
+        - `tell from`
+        - `distinguish from`
+    - vi.
+      - 歧视；区别；辨别
+        - `tell from`
+        - `distinguish from`
   - 短语
-    - `discriminate against` 歧视；排斥 
+    - `discriminate against`
+      - 歧视；排斥 
   - 例句
     - `He is incapable of discriminating between a good idea and a terrible one.`
       - 他没能力在一个好主意和一个坏主意之间进行区分。

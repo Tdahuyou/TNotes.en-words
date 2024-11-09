@@ -1,7 +1,9 @@
 - Caroline
   - 发音
-    - 英 `/undefined/`
-    - 美 `/'kærə,laɪn/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/'kærə,laɪn/`
   - 词义
   - 例句
     - `Caroline, will you be there?`

@@ -1,24 +1,32 @@
 - sluice
   - 发音
-    - 英 `/sluːs/`
-    - 美 `/slus/`
+    - 英
+      - `/sluːs/`
+    - 美
+      - `/slus/`
   - 词义
-    - n. 水闸,泄水
-    - `a passage for water to flow through, with a special gate which can be opened or closed to control it`
+    - n.
+      - 水闸,泄水
+        - `a passage for water to flow through, with a special gate which can be opened or closed to control it`
   - 同根词
     - n.
-      - `sluicing` 洗涤；冲洗；鳞迭矿；水冲开挖；[矿业] 流槽选矿法
+      - `sluicing`
+        - 洗涤；冲洗；鳞迭矿；水冲开挖；[矿业] 流槽选矿法
     - v.
-      - `sluicing` 泄水；开闸放水；冲洗（sluice的ing形式）
+      - `sluicing`
+        - 泄水；开闸放水；冲洗（sluice的ing形式）
   - 近义词
-    - n. [水利]水闸；蓄水；洗矿槽
-      - `milldam`
-      - `water gate`
-    - vt. 冲洗；开闸放水
-      - `syringe`
-      - `irrigate`
+    - n.
+      - [水利]水闸；蓄水；洗矿槽
+        - `milldam`
+        - `water gate`
+    - vt.
+      - 冲洗；开闸放水
+        - `syringe`
+        - `irrigate`
   - 短语
-    - `sluice gate` n. 水闸；水门 
+    - `sluice gate`
+      - n. 水闸；水门 
   - 例句
     - `Experts believe that this sediment will build up behind the dam, with only an unproven system of sluice gates to release it.`
       - 专家认为泥沙将会在大坝后堆积，将仅经过一个未知的水闸系统排放。

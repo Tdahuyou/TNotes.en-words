@@ -1,9 +1,12 @@
 - audiovisuals
   - 发音
-    - 英 `/,ɔːdɪəʊ'vɪzjʊəlz/`
-    - 美 `/,ɔ:diəu'vizjuəlz/`
+    - 英
+      - `/,ɔːdɪəʊ'vɪzjʊəlz/`
+    - 美
+      - `/,ɔ:diəu'vizjuəlz/`
   - 词义
-    - n. 视听教具
+    - n.
+      - 视听教具
   - 例句
     - `According to the 1996 Criminal Procedure Law, audiovisuals is a new kind of proof.`
       - 视听资料是我国1996年《刑事诉讼法》新规定的一种证据形式。

@@ -1,20 +1,27 @@
 - livestock
   - 发音
-    - 英 `/'laɪvstɑːk/`
-    - 美 `/'laɪvstɑk/`
+    - 英
+      - `/'laɪvstɑːk/`
+    - 美
+      - `/'laɪvstɑk/`
   - 词义
-    - n. 〈总称〉家畜，牲畜
-    - `animals such as cows and sheep that are kept on a farm`
+    - n.
+      - 〈总称〉家畜，牲畜
+        - `animals such as cows and sheep that are kept on a farm`
   - 记忆
     - live(活的) + stock(东西) → 活物 → 家畜
   - 近义词
-    - n. 牲畜；[畜牧]家畜
-      - `cattle`
-      - `dumb things`
+    - n.
+      - 牲畜；[畜牧]家畜
+        - `cattle`
+        - `dumb things`
   - 短语
-    - `livestock breeding` 畜牧业，畜牧饲养；家畜繁育 
-    - `livestock farming` 畜牧业；养畜业 
-    - `livestock farm` 畜牧场；禽畜饲养场；牧场 
+    - `livestock breeding`
+      - 畜牧业，畜牧饲养；家畜繁育 
+    - `livestock farming`
+      - 畜牧业；养畜业 
+    - `livestock farm`
+      - 畜牧场；禽畜饲养场；牧场 
   - 例句
     - `The heavy rains and flooding killed scores of livestock.`
       - 大雨和洪水淹死了许多家畜。

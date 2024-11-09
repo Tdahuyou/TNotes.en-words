@@ -1,14 +1,18 @@
 - onrushing
   - 发音
-    - 英 `/undefined/`
-    - 美 `/'ɑn,rʌʃɪŋ/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/'ɑn,rʌʃɪŋ/`
   - 词义
-    - adj. 猛冲的
-    - `Onrushing describes something such as a vehicle that is moving forward so quickly or forcefully that it would be very difficult to stop`
+    - adj.
+      - 猛冲的
+        - `Onrushing describes something such as a vehicle that is moving forward so quickly or forcefully that it would be very difficult to stop`
   - 近义词
-    - adj. 汹涌的；猛冲的；顾前不顾后奔跑的
-      - `billowy`
-      - `surgent`
+    - adj.
+      - 汹涌的；猛冲的；顾前不顾后奔跑的
+        - `billowy`
+        - `surgent`
   - 例句
     - `He was killed by an onrushing locomotive.`
       - 他被飞驰而来的火车头撞死了。

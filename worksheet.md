@@ -1,13 +1,18 @@
 - worksheet
   - 发音
-    - 英 `/'wɜːkʃiːt/`
-    - 美 `/'wɝkʃit/`
+    - 英
+      - `/'wɜːkʃiːt/`
+    - 美
+      - `/'wɝkʃit/`
   - 词义
-    - n. 工作记录表
+    - n.
+      - 工作记录表
   - 同根词
     - n.
-      - `workstation` 工作站；工拙
-      - `worktable` 工作台；缝纫桌
+      - `workstation`
+        - 工作站；工拙
+      - `worktable`
+        - 工作台；缝纫桌
   - 例句
     - `Another thing you can do is save the worksheet and send it to somebody else.`
       - 您可以做的另一件事情是保存工作表并将其发送给其他人。

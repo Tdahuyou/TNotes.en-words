@@ -1,22 +1,28 @@
 - hamper
   - 发音
-    - 英 `/'hæmpər/`
-    - 美 `/'hæmpɚ/`
+    - 英
+      - `/'hæmpər/`
+    - 美
+      - `/'hæmpɚ/`
   - 词义
-    - vt. 妨碍，阻挠
-    - `to make it difficult for someone to do something`
-    - n. 大篮子
-    - `a basket with a lid, which is used for carrying food or sending it to someone as a present`
+    - vt.
+      - 妨碍，阻挠
+        - `to make it difficult for someone to do something`
+    - n.
+      - 大篮子
+        - `a basket with a lid, which is used for carrying food or sending it to someone as a present`
   - 记忆
     - “寒迫” → 饥寒交迫 → 妨碍
   - 近义词
-    - vt. 妨碍；束缚；使困累
-      - `let`
-      - `chain`
-      - `bound`
-    - n. 食盒，食篮；阻碍物
-      - `hindrance`
-      - `incumbrance`
+    - vt.
+      - 妨碍；束缚；使困累
+        - `let`
+        - `chain`
+        - `bound`
+    - n.
+      - 食盒，食篮；阻碍物
+        - `hindrance`
+        - `incumbrance`
   - 例句
     - `She tried to run, but was hampered by her heavy suitcase.`
       - 她想跑，但沉重的旅行箱拖累了她。

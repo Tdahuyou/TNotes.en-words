@@ -1,7 +1,9 @@
 - Garcia
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
   - 例句
     - `After more than two hours in the chocolate, does he still have a taste for it?"Not so much anymore, " Garcia said.`

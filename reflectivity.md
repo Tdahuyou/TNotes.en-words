@@ -1,35 +1,53 @@
 - reflectivity
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 反射率
-    - `a measure of the ability of a surface to reflect radiation, equal to the reflectance of a layer of material sufficiently thick for the reflectance not to depend on the thickness `
+    - n.
+      - 反射率
+        - `a measure of the ability of a surface to reflect radiation, equal to the reflectance of a layer of material sufficiently thick for the reflectance not to depend on the thickness `
   - 同根词
     - adj.
-      - `reflective` 反射的；反映的；沉思的
-      - `reflected` 反射的；得自他人的
-      - `reflecting` 反射的；沉思的
+      - `reflective`
+        - 反射的；反映的；沉思的
+      - `reflected`
+        - 反射的；得自他人的
+      - `reflecting`
+        - 反射的；沉思的
     - adv.
-      - `reflectively` 反映地；反照地
+      - `reflectively`
+        - 反映地；反照地
     - n.
-      - `reflection` 反射；沉思；映象
-      - `reflector` [光] 反射物，[光] 反射镜
-      - `reflectance` [物] 反射比
-      - `reflectiveness` 反省；沉思
-      - `reflectometer` [光] 反射计
+      - `reflection`
+        - 反射；沉思；映象
+      - `reflector`
+        - [光] 反射物，[光] 反射镜
+      - `reflectance`
+        - [物] 反射比
+      - `reflectiveness`
+        - 反省；沉思
+      - `reflectometer`
+        - [光] 反射计
     - v.
-      - `reflected` 反射；思考（reflect的过去式和过去分词）
-      - `reflecting` 反射；表明；考虑（reflect的ing形式）
+      - `reflected`
+        - 反射；思考（reflect的过去式和过去分词）
+      - `reflecting`
+        - 反射；表明；考虑（reflect的ing形式）
     - vi.
-      - `reflect` 反射，映现；深思
+      - `reflect`
+        - 反射，映现；深思
     - vt.
-      - `reflect` 反映；反射，照出；反省
-      - `reflectorize` 加工使其能反射光线
+      - `reflect`
+        - 反映；反射，照出；反省
+      - `reflectorize`
+        - 加工使其能反射光线
   - 近义词
-    - n. [光][物]反射率；反射性；反射比
-      - `reflection power`
-      - `albedo`
+    - n.
+      - [光][物]反射率；反射性；反射比
+        - `reflection power`
+        - `albedo`
   - 例句
     - `With these layers downloaded, you can combine them with the base reflectivity image to produce a more easily readable image map.`
       - 下载了这些图层之后，您可以把它们与基本反射率图像结合起来生成更易于阅读的图像地图。

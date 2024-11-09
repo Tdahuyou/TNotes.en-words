@@ -1,10 +1,13 @@
 - gonorrhea
   - 发音
-    - 英 `/,ɡɒnə'rɪə/`
-    - 美 `/undefined/`
+    - 英
+      - `/,ɡɒnə'rɪə/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. [性病]淋病
-    - `a disease of the sex organs that is passed on during sex`
+    - n.
+      - [性病]淋病
+        - `a disease of the sex organs that is passed on during sex`
   - 例句
     - `I got gonorrhea. `
       - 我得了淋病。

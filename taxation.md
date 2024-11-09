@@ -1,33 +1,50 @@
 - taxation
   - 发音
-    - 英 `/tæk'seɪʃ(ə)n/`
-    - 美 `/tæk'seʃən/`
+    - 英
+      - `/tæk'seɪʃ(ə)n/`
+    - 美
+      - `/tæk'seʃən/`
   - 词义
-    - n. 征税；税款
-    - `the system of charging taxes`
+    - n.
+      - 征税；税款
+        - `the system of charging taxes`
   - 同根词
     - adj.
-      - `taxing` 费力的；繁重的
-      - `taxable` 应纳税的；可征税的
+      - `taxing`
+        - 费力的；繁重的
+      - `taxable`
+        - 应纳税的；可征税的
     - n.
-      - `tax` 税金；重负
-      - `taxability` [税收] 可课税性；可征税性
-      - `taxer` 纳税人；缴税人
+      - `tax`
+        - 税金；重负
+      - `taxability`
+        - [税收] 可课税性；可征税性
+      - `taxer`
+        - 纳税人；缴税人
     - v.
-      - `taxing` 征税（tax的ing形式）
+      - `taxing`
+        - 征税（tax的ing形式）
     - vt.
-      - `tax` 向…课税；使负重担
+      - `tax`
+        - 向…课税；使负重担
   - 近义词
-    - n. 课税，征税；[税收]税款
-      - `imposition of tax`
-      - `taxe`
+    - n.
+      - 课税，征税；[税收]税款
+        - `imposition of tax`
+        - `taxe`
   - 短语
-    - `double taxation` [经]双重征税；[经]重复课税 
-    - `taxation law` 税法；税收法 
-    - `avoidance of double taxation` 避免双重课税 
-    - `international taxation` 国际税收；国际税法 
-    - `taxation treatment` 课税处理方法 
-    - `taxation office` 税务局 
+    - `double taxation`
+      - [经]双重征税；[经]重复课税 
+    - `taxation law`
+      - 税法；税收法 
+    - `avoidance of double taxation`
+      - 避免双重课税 
+    - `international taxation`
+      - 国际税收；国际税法 
+    - `taxation treatment`
+      - 课税处理方法 
+    - `taxation office`
+      - 税务局 
   - 例句
     - `the government’s economic and taxation policy`
       - 政府的经济和税收政策

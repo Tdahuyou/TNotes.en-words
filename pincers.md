@@ -1,13 +1,17 @@
 - pincers
   - 发音
-    - 英 `/'pɪnsəz/`
-    - 美 `/'pinsəz/`
+    - 英
+      - `/'pɪnsəz/`
+    - 美
+      - `/'pinsəz/`
   - 词义
-    - n. 钳子,螯
+    - n.
+      - 钳子,螯
   - 近义词
-    - n. [机]钳子（pincer的复数）；（虾蟹等的）螯
-      - `clippers`
-      - `pliers`
+    - n.
+      - [机]钳子（pincer的复数）；（虾蟹等的）螯
+        - `clippers`
+        - `pliers`
   - 例句
     - `Crabs have two sharp and large pincers.`
       - 螃蟹有两个又大又锋利的钳子。

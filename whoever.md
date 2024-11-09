@@ -1,10 +1,13 @@
 - whoever
   - 发音
-    - 英 `/huːˈɛvə/`
-    - 美 `/hʊ'ɛvɚ/`
+    - 英
+      - `/huːˈɛvə/`
+    - 美
+      - `/hʊ'ɛvɚ/`
   - 词义
-    - pron. 任何人,无论谁
-    - `used to say that it does not matter who does something, is in a particular place etc`
+    - pron.
+      - 任何人,无论谁
+        - `used to say that it does not matter who does something, is in a particular place etc`
   - 例句
     - `I’ll take whoever wants to go.`
       - 谁想去我就带谁去。

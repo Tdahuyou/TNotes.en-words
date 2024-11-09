@@ -1,10 +1,13 @@
 - redwing
   - 发音
-    - 英 `/'redwɪŋ/`
-    - 美 `/'rɛdwɪŋ/`
+    - 英
+      - `/'redwɪŋ/`
+    - 美
+      - `/'rɛdwɪŋ/`
   - 词义
-    - n. [动](欧洲产的)红翼鸫
-    - `a small European thrush, Turdus iliacus, having a speckled breast, reddish flanks, and brown back `
+    - n.
+      - [动](欧洲产的)红翼鸫
+        - `a small European thrush, Turdus iliacus, having a speckled breast, reddish flanks, and brown back `
   - 例句
     - `Hunting of song and mistle thrushes and their cousin the redwing is not illegal, but the methods used are, despite attempts by legislators to introduce exceptions.`
       - 捕猎画眉、 獬鸫 和 红翼鸫 等鸟类并不违法，但使用灌胶陷阱的方法是违法的，立法者试图引入免责条款。

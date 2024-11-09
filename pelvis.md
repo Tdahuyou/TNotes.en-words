@@ -1,19 +1,25 @@
 - pelvis
   - 发音
-    - 英 `/'pelvɪs/`
-    - 美 `/'pɛlvɪs/`
+    - 英
+      - `/'pelvɪs/`
+    - 美
+      - `/'pɛlvɪs/`
   - 词义
-    - n. 骨盆
-    - `the set of large wide curved bones at the base of your  spine  , to which your legs are joined`
+    - n.
+      - 骨盆
+        - `the set of large wide curved bones at the base of your  spine  , to which your legs are joined`
   - 记忆
     - pell(容器) + vis → 骨盆
   - 同根词
     - adj.
-      - `pelvic` 骨盆的
+      - `pelvic`
+        - 骨盆的
     - n.
-      - `pelvimetry` [妇产] 骨盆测量；[妇产] 骨盘测量法
+      - `pelvimetry`
+        - [妇产] 骨盆测量；[妇产] 骨盘测量法
   - 短语
-    - `renal pelvis` 肾盂 
+    - `renal pelvis`
+      - 肾盂 
   - 例句
     - `Scans of his chest, abdomen, and pelvis likewise showed nothing.`
       - 扫描他的胸部，腹部和骨盆也没有什么发现。

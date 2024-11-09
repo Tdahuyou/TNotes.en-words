@@ -1,29 +1,41 @@
 - antagonistic
   - 发音
-    - 英 `/æn,tæg(ə)'nɪstɪk/`
-    - 美 `/æn,tæɡə'nɪstɪk/`
+    - 英
+      - `/æn,tæg(ə)'nɪstɪk/`
+    - 美
+      - `/æn,tæɡə'nɪstɪk/`
   - 词义
-    - adj. 敌对的,对抗性的
-    - `unfriendly; wanting to argue or disagree`
+    - adj.
+      - 敌对的,对抗性的
+        - `unfriendly; wanting to argue or disagree`
   - 同根词
     - adv.
-      - `antagonistically` 反对地
+      - `antagonistically`
+        - 反对地
     - n.
-      - `antagonist` 敌手；[解剖] 对抗肌；[生化] 拮抗物；反协同试剂
-      - `antagonism` 对抗，敌对；对立；敌意
+      - `antagonist`
+        - 敌手；[解剖] 对抗肌；[生化] 拮抗物；反协同试剂
+      - `antagonism`
+        - 对抗，敌对；对立；敌意
     - vi.
-      - `antagonize` 引起反抗
-      - `antagonise` 引起对抗/反感
+      - `antagonize`
+        - 引起反抗
+      - `antagonise`
+        - 引起对抗/反感
     - vt.
-      - `antagonize` 使…敌对；使…对抗；对…起反作用
-      - `antagonise` 使敌对；抵销
+      - `antagonize`
+        - 使…敌对；使…对抗；对…起反作用
+      - `antagonise`
+        - 使敌对；抵销
   - 近义词
-    - adj. 敌对的；对抗性的；反对的
-      - `adverse`
-      - `anti`
-      - `opposed`
+    - adj.
+      - 敌对的；对抗性的；反对的
+        - `adverse`
+        - `anti`
+        - `opposed`
   - 短语
-    - `antagonistic action` 拮抗作用 
+    - `antagonistic action`
+      - 拮抗作用 
   - 例句
     - `an antagonistic attitude`
       - 对抗态度

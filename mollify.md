@@ -1,19 +1,24 @@
 - mollify
   - 发音
-    - 英 `/'mɔlifai/`
-    - 美 `/'mɑlɪfaɪ/`
+    - 英
+      - `/'mɔlifai/`
+    - 美
+      - `/'mɑlɪfaɪ/`
   - 词义
-    - v. 平息
-    - `to make someone feel less angry and upset about something`
+    - v.
+      - 平息
+        - `to make someone feel less angry and upset about something`
   - 记忆
     - moll (软) + ify (使) → 使矛盾软化 → 平息
   - 同根词
     - n.
-      - `mollification` 缓和，减轻；抚慰
+      - `mollification`
+        - 缓和，减轻；抚慰
   - 近义词
-    - vt. 平息，缓和；使…平静；使…变软
-      - `relax`
-      - `assuage`
+    - vt.
+      - 平息，缓和；使…平静；使…变软
+        - `relax`
+        - `assuage`
   - 例句
     - `He attempted to mollify her.`
       - 他想安抚她。

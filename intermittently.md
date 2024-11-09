@@ -1,17 +1,25 @@
 - intermittently
   - 发音
-    - 英 `/intə'mitəntli/`
-    - 美 `/intə'mitəntli/`
+    - 英
+      - `/intə'mitəntli/`
+    - 美
+      - `/intə'mitəntli/`
   - 词义
-    - adv. 间歇地
+    - adv.
+      - 间歇地
   - 同根词
     - adj.
-      - `intermittent` 间歇的，断断续续的
+      - `intermittent`
+        - 间歇的，断断续续的
     - n.
-      - `intermission` 幕间休息；暂停；中断
-      - `intermittence` 时断时续，间歇性；周期性
-      - `intermittency` 间歇性；间歇现象；间歇度
-      - `intermitter` 间歇抽油装置；间歇调节器
+      - `intermission`
+        - 幕间休息；暂停；中断
+      - `intermittence`
+        - 时断时续，间歇性；周期性
+      - `intermittency`
+        - 间歇性；间歇现象；间歇度
+      - `intermitter`
+        - 间歇抽油装置；间歇调节器
   - 例句
     - `The malaria victim fevers intermittently.`
       - 疟疾病人间歇地发热。

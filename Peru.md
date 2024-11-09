@@ -1,11 +1,15 @@
 - Peru
   - 发音
-    - 英 `/pəˈruː/`
-    - 美 `/pə'rʊ/`
+    - 英
+      - `/pəˈruː/`
+    - 美
+      - `/pə'rʊ/`
   - 词义
-    - n. 秘鲁
+    - n.
+      - 秘鲁
   - 短语
-    - `from china to peru` 到处，遍天下 
+    - `from china to peru`
+      - 到处，遍天下 
   - 例句
     - `It sounds as though you enjoyed Peru.`
       - 这听起来好像你喜欢秘鲁。

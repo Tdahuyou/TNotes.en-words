@@ -1,24 +1,33 @@
 - ruminant
   - 发音
-    - 英 `/'ruːmɪnənt/`
-    - 美 `/undefined/`
+    - 英
+      - `/'ruːmɪnənt/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n&a. 反刍动物(的),沉思的
-    - `an animal such as a cow that has several stomachs and eats grass`
+    - n&a.
+      - 反刍动物(的),沉思的
+        - `an animal such as a cow that has several stomachs and eats grass`
   - 同根词
     - adj.
-      - `ruminative` 默想的，沉思的；爱反复思考的
+      - `ruminative`
+        - 默想的，沉思的；爱反复思考的
     - n.
-      - `rumination` 沉思；反刍
-      - `ruminator` 沉思默想的人；好思考的人
+      - `rumination`
+        - 沉思；反刍
+      - `ruminator`
+        - 沉思默想的人；好思考的人
     - vi.
-      - `ruminate` 沉思，反刍
+      - `ruminate`
+        - 沉思，反刍
     - vt.
-      - `ruminate` 反刍；沉思；反复思考
+      - `ruminate`
+        - 反刍；沉思；反复思考
   - 近义词
-    - adj. [脊椎]反刍的；沉思的
-      - `reflecting`
-      - `regurgitant`
+    - adj.
+      - [脊椎]反刍的；沉思的
+        - `reflecting`
+        - `regurgitant`
   - 例句
     - `Food chemists probably can improve upon the efficiency and economics of the ruminant’s conversion of cellulose to nutrients.`
       - 反刍动物将纤维素转化为营养素的效率和经济性有可能经过食品化学家来改进。

@@ -1,15 +1,20 @@
 - chlorophyll
   - 发音
-    - 英 `/'klɔːrəfɪl; 'klɒ-/`
-    - 美 `/'klɔrəfɪl/`
+    - 英
+      - `/'klɔːrəfɪl; 'klɒ-/`
+    - 美
+      - `/'klɔrəfɪl/`
   - 词义
-    - n. [生化]叶绿素
-    - `the green-coloured substance in plants`
+    - n.
+      - [生化]叶绿素
+        - `the green-coloured substance in plants`
   - 同根词
     - adj.
-      - `chlorophyllous` 叶绿素的，含叶绿素的
+      - `chlorophyllous`
+        - 叶绿素的，含叶绿素的
   - 短语
-    - `chlorophyll content` 叶绿素含量 
+    - `chlorophyll content`
+      - 叶绿素含量 
   - 例句
     - `The chlorophyll in wheatgrass also helps to purify the liver.`
       - 麦草中的叶绿素同样可以帮助净化肝脏。

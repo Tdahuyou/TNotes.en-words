@@ -1,10 +1,13 @@
 - subglacial
   - 发音
-    - 英 `/sʌb'gleɪʃ(ə)l; -sɪəl/`
-    - 美 `/sʌb'gleɪʃəl/`
+    - 英
+      - `/sʌb'gleɪʃ(ə)l; -sɪəl/`
+    - 美
+      - `/sʌb'gleɪʃəl/`
   - 词义
-    - adj. 冰川下的
-    - `formed or occurring at the bottom of a glacier `
+    - adj.
+      - 冰川下的
+        - `formed or occurring at the bottom of a glacier `
   - 例句
     - `“It underscores the importance of subglacial methanogenesis,” Skidmore said.`
       - 他表示：“这一发现凸显了冰川下产甲烷菌的重要性。”

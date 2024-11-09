@@ -1,14 +1,18 @@
 - physique
   - 发音
-    - 英 `/fɪ'ziːk/`
-    - 美 `/fɪ'zik/`
+    - 英
+      - `/fɪ'ziːk/`
+    - 美
+      - `/fɪ'zik/`
   - 词义
-    - n. 体格，体形
-    - `the size and appearance of someone’s body`
+    - n.
+      - 体格，体形
+        - `the size and appearance of someone’s body`
   - 近义词
-    - n. 体格，体形
-      - `figure`
-      - `build`
+    - n.
+      - 体格，体形
+        - `figure`
+        - `build`
   - 例句
     - `She didn’t have the physique to be a dancer.`
       - 她没有当舞蹈演员的体形。

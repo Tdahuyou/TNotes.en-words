@@ -1,20 +1,29 @@
 - hexagonal
   - 发音
-    - 英 `/hek'sæɡənəl/`
-    - 美 `/hɛk'sægənl/`
+    - 英
+      - `/hek'sæɡənəl/`
+    - 美
+      - `/hɛk'sægənl/`
   - 词义
-    - adj. 六角形的,六边的
-    - `A hexagonal object or shape has six straight sides`
+    - adj.
+      - 六角形的,六边的
+        - `A hexagonal object or shape has six straight sides`
   - 同根词
     - adj.
-      - `hexagon` 成六角的；成六边的
-      - `hexangular` 六角的
+      - `hexagon`
+        - 成六角的；成六边的
+      - `hexangular`
+        - 六角的
     - n.
-      - `hexagon` 六角形，六边形
-      - `hexagram` [数] 六线形；六角星形
+      - `hexagon`
+        - 六角形，六边形
+      - `hexagram`
+        - [数] 六线形；六角星形
   - 短语
-    - `hexagonal system` 六方晶系，六角晶系 
-    - `hexagonal nut` 六角螺母 
+    - `hexagonal system`
+      - 六方晶系，六角晶系 
+    - `hexagonal nut`
+      - 六角螺母 
   - 例句
     - `Instead it is the Desert Express that pulls in, its nine coaches in smart blue, orange and white livery with large hexagonal windows.`
       - 然而驶进车站的是沙漠快车，它的九节车厢漆成漂亮的蓝色、橙色和白色，带有六边形的车窗。

@@ -1,10 +1,13 @@
 - ours
   - 发音
-    - 英 `/aʊəz/`
-    - 美 `/ɑrz/`
+    - 英
+      - `/aʊəz/`
+    - 美
+      - `/ɑrz/`
   - 词义
-    - pron. 我们的
-    - `used to refer to something that belongs to or is connected with us`
+    - pron.
+      - 我们的
+        - `used to refer to something that belongs to or is connected with us`
   - 例句
     - `I’ll show you to your room. Ours is next door.`
       - 我带你去你的房间，我们的房间在你的隔壁。

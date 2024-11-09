@@ -1,13 +1,16 @@
 - businessman
   - 发音
-    - 英 `/'bɪznɪsmən/`
-    - 美 `/'bɪznəsmæn/`
+    - 英
+      - `/'bɪznɪsmən/`
+    - 美
+      - `/'bɪznəsmæn/`
   - 词义
-    - `a man who works in business`
+        - `a man who works in business`
   - 近义词
-    - n. [贸易]商人
-      - `merchant`
-      - `trader`
+    - n.
+      - [贸易]商人
+        - `merchant`
+        - `trader`
   - 例句
     - `A businessman will grasp at any chance to make a profit.`
       - 一个商人会抓住任何一个机会赚钱。

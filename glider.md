@@ -1,25 +1,34 @@
 - glider
   - 发音
-    - 英 `/'glaɪdə/`
-    - 美 `/'ɡlaɪdɚ/`
+    - 英
+      - `/'glaɪdə/`
+    - 美
+      - `/'ɡlaɪdɚ/`
   - 词义
-    - n. 滑行(或物),滑翔机
-    - `a light plane that flies without an engine`
+    - n.
+      - 滑行(或物),滑翔机
+        - `a light plane that flies without an engine`
   - 同根词
     - adj.
-      - `gliding` 滑行的；流畅的；滑顺的
+      - `gliding`
+        - 滑行的；流畅的；滑顺的
     - n.
-      - `glide` 滑翔；滑行；滑移；滑音
+      - `glide`
+        - 滑翔；滑行；滑移；滑音
     - v.
-      - `gliding` 滑翔；消逝；溜走（glide的ing形式）
+      - `gliding`
+        - 滑翔；消逝；溜走（glide的ing形式）
     - vi.
-      - `glide` 使滑行；使滑动
+      - `glide`
+        - 使滑行；使滑动
     - vt.
-      - `glide` 滑翔；滑行；悄悄地走；消逝
+      - `glide`
+        - 滑翔；滑行；悄悄地走；消逝
   - 近义词
-    - n. [航]滑翔机；滑翔员；滑翔导弹
-      - `sailplane`
-      - `soarer`
+    - n.
+      - [航]滑翔机；滑翔员；滑翔导弹
+        - `sailplane`
+        - `soarer`
   - 例句
     - `And go for a ride on a glider airplane, because who says planes need motors?`
       - 她会去坐滑翔机，因为没人说过飞机一定要有发动机吧？

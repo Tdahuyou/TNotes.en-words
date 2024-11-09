@@ -1,22 +1,29 @@
 - regal
   - 发音
-    - 英 `/'riːg(ə)l/`
-    - 美 `/'ri:ɡəl/`
+    - 英
+      - `/'riːg(ə)l/`
+    - 美
+      - `/'ri:ɡəl/`
   - 词义
-    - adj. 帝王的；王室的；豪华的；庄严的
-    - `typical of a king or queen, suitable for a king or queen, or similar to a king or queen in behaviour, looks etc`
-    - n. (Regal)人名；(英、西、捷)雷加尔
+    - adj.
+      - 帝王的；王室的；豪华的；庄严的
+        - `typical of a king or queen, suitable for a king or queen, or similar to a king or queen in behaviour, looks etc`
+    - n.
+      - (Regal)人名；(英、西、捷)雷加尔
   - 同根词
     - adv.
-      - `regally` 像帝王地；为王
+      - `regally`
+        - 像帝王地；为王
   - 近义词
-    - adj. 帝王的；王室的；豪华的；庄严的
-      - `household`
-      - `grand`
-      - `purple`
-      - `sacred`
+    - adj.
+      - 帝王的；王室的；豪华的；庄严的
+        - `household`
+        - `grand`
+        - `purple`
+        - `sacred`
   - 短语
-    - `chivas regal` 芝华士（公司名称） 
+    - `chivas regal`
+      - 芝华士（公司名称） 
   - 例句
     - `a ceremony of regal splendour`
       - 皇家气派的典礼

@@ -1,22 +1,29 @@
 - pauper
   - 发音
-    - 英 `/'pɔːpə/`
-    - 美 `/'pɔpɚ/`
+    - 英
+      - `/'pɔːpə/`
+    - 美
+      - `/'pɔpɚ/`
   - 词义
-    - n. 乞丐；贫民
-    - `someone who is very poor`
+    - n.
+      - 乞丐；贫民
+        - `someone who is very poor`
   - 记忆
     - paup (少) + er (人) → 钱少的人 → 乞丐； 贫民
   - 同根词
     - n.
-      - `pauperism` 贫困；有被救济的资格
-      - `pauperization` 贫穷化；使成为受救济过活的贫民
+      - `pauperism`
+        - 贫困；有被救济的资格
+      - `pauperization`
+        - 贫穷化；使成为受救济过活的贫民
     - vt.
-      - `pauperize` 使贫穷，使成为贫民
+      - `pauperize`
+        - 使贫穷，使成为贫民
   - 近义词
-    - n. 乞丐；穷人；靠救济度日者
-      - `panhandler`
-      - `begger`
+    - n.
+      - 乞丐；穷人；靠救济度日者
+        - `panhandler`
+        - `begger`
   - 例句
     - `The poor pauper paused on purpose to pawn a porpoise.`
       - 贫穷的乞丐有意停下来典当一只海豚。

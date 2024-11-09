@@ -1,35 +1,53 @@
 - divisible
   - 发音
-    - 英 `/di'vizəbl/`
-    - 美 `/də'vɪzəbl/`
+    - 英
+      - `/di'vizəbl/`
+    - 美
+      - `/də'vɪzəbl/`
   - 词义
-    - adj. 可整除的
-    - `able to be divided, for example by a number`
+    - adj.
+      - 可整除的
+        - `able to be divided, for example by a number`
   - 同根词
     - adj.
-      - `divided` 分裂的；分开的；有分歧的
-      - `divisive` 分裂的；区分的；造成不和的
-      - `dividing` 区分的；起划分作用的
-      - `divisional` 分区的；分割的
-      - `dividable` 可分的
+      - `divided`
+        - 分裂的；分开的；有分歧的
+      - `divisive`
+        - 分裂的；区分的；造成不和的
+      - `dividing`
+        - 区分的；起划分作用的
+      - `divisional`
+        - 分区的；分割的
+      - `dividable`
+        - 可分的
     - n.
-      - `division` [数] 除法；部门；分割；师（军队）；赛区
-      - `divide` [地理] 分水岭，分水线
-      - `divider` [计] 除法器；分隔物；圆规
-      - `divisibility` 可分性；[数] 可除性
+      - `division`
+        - [数] 除法；部门；分割；师（军队）；赛区
+      - `divide`
+        - [地理] 分水岭，分水线
+      - `divider`
+        - [计] 除法器；分隔物；圆规
+      - `divisibility`
+        - 可分性；[数] 可除性
     - v.
-      - `divided` 分开（divide的过去分词）；分离
-      - `dividing` 分开（divide的ing形式）
+      - `divided`
+        - 分开（divide的过去分词）；分离
+      - `dividing`
+        - 分开（divide的ing形式）
     - vi.
-      - `divide` 分开；意见分歧
+      - `divide`
+        - 分开；意见分歧
     - vt.
-      - `divide` 划分；除；分开；使产生分歧
+      - `divide`
+        - 划分；除；分开；使产生分歧
   - 近义词
-    - adj. [数]可分的；可分割的
-      - `partible`
-      - `dissectible`
+    - adj.
+      - [数]可分的；可分割的
+        - `partible`
+        - `dissectible`
   - 短语
-    - `divisible letter of credit` 可分割信用状 
+    - `divisible letter of credit`
+      - 可分割信用状 
   - 例句
     - `Twenty-eight is divisible by seven.`
       - 二十八可以被七整除。

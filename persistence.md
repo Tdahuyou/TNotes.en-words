@@ -1,29 +1,41 @@
 - persistence
   - 发音
-    - 英 `/pə'sɪst(ə)ns/`
-    - 美 `/pɚ'sɪstəns/`
+    - 英
+      - `/pə'sɪst(ə)ns/`
+    - 美
+      - `/pɚ'sɪstəns/`
   - 词义
-    - n. 持续；固执；存留；坚持不懈；毅力
-    - `determination to do something even though it is difficult or other people oppose it`
+    - n.
+      - 持续；固执；存留；坚持不懈；毅力
+        - `determination to do something even though it is difficult or other people oppose it`
   - 同根词
     - adj.
-      - `persistent` 固执的，坚持的；持久稳固的
+      - `persistent`
+        - 固执的，坚持的；持久稳固的
     - adv.
-      - `persistently` 坚持地；固执地
+      - `persistently`
+        - 坚持地；固执地
     - n.
-      - `perseveration` 持续言语（指言语反复不止的病态）；持续重复的行为；执拗
+      - `perseveration`
+        - 持续言语（指言语反复不止的病态）；持续重复的行为；执拗
     - vi.
-      - `persist` 存留，坚持；持续，固执
-      - `persevere` 坚持；不屈不挠；固执己见（在辩论中）
-      - `perseverate` 患持续言语症；表现固执
+      - `persist`
+        - 存留，坚持；持续，固执
+      - `persevere`
+        - 坚持；不屈不挠；固执己见（在辩论中）
+      - `perseverate`
+        - 患持续言语症；表现固执
     - vt.
-      - `persist` 坚持说，反复说
+      - `persist`
+        - 坚持说，反复说
   - 近义词
-    - n. 持续；固执；存留
-      - `duration`
-      - `standing`
+    - n.
+      - 持续；固执；存留
+        - `duration`
+        - `standing`
   - 短语
-    - `persistence of vision` 视觉暂留；视觉残留；持续视觉 
+    - `persistence of vision`
+      - 视觉暂留；视觉残留；持续视觉 
   - 例句
     - `Her persistence paid off when she was offered the job of manager.`
       - 她得到了经理的职位，不懈坚持终于有了回报。

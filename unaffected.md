@@ -1,16 +1,20 @@
 - unaffected
   - 发音
-    - 英 `/ˌʌnə'fektid/`
-    - 美 `/,ʌnə'fɛktɪd/`
+    - 英
+      - `/ˌʌnə'fektid/`
+    - 美
+      - `/,ʌnə'fɛktɪd/`
   - 词义
-    - adj. 不矫揉造作的，自然的；未受影响的
-    - `not changed or influenced by something`
+    - adj.
+      - 不矫揉造作的，自然的；未受影响的
+        - `not changed or influenced by something`
   - 记忆
     - un (不) + affected (做作的) → 不矫揉造作的
   - 近义词
-    - adj. 不受影响的；自然的；真挚的；不矫揉造作的
-      - `natural`
-      - `spontaneous`
+    - adj.
+      - 不受影响的；自然的；真挚的；不矫揉造作的
+        - `natural`
+        - `spontaneous`
   - 例句
     - `her easy unaffected manner`
       - 她那从容而自然的举止

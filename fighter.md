@@ -1,10 +1,13 @@
 - fighter
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 战斗机；斗争者
-    - `a small fast military plane that can destroy other planes`
+    - n.
+      - 战斗机；斗争者
+        - `a small fast military plane that can destroy other planes`
   - 例句
     - `He was shot down by enemy fighters.`
       - 他被敌军战斗机击落。

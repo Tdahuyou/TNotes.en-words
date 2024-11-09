@@ -1,22 +1,30 @@
 - confidentiality
   - 发音
-    - 英 `/ˌkɔnfiˌdenʃi'æləti/`
-    - 美 `/,kɑnfɪ,dɛnʃɪ'æləti/`
+    - 英
+      - `/ˌkɔnfiˌdenʃi'æləti/`
+    - 美
+      - `/,kɑnfɪ,dɛnʃɪ'æləti/`
   - 词义
-    - n. 机密性
-    - `a situation in which you trust someone not to tell secret or private information to anyone else`
+    - n.
+      - 机密性
+        - `a situation in which you trust someone not to tell secret or private information to anyone else`
   - 同根词
     - adj.
-      - `confidential` 机密的；表示信任的；获信任的
+      - `confidential`
+        - 机密的；表示信任的；获信任的
     - adv.
-      - `confidentially` 秘密地；作为心腹话地
+      - `confidentially`
+        - 秘密地；作为心腹话地
   - 近义词
-    - n. [计]机密，机密性
-      - `secret`
-      - `private and confidential`
+    - n.
+      - [计]机密，机密性
+        - `secret`
+        - `private and confidential`
   - 短语
-    - `confidentiality agreement` 机密性协议 
-    - `client confidentiality` 客户保密的责任；机密性客户机程序 
+    - `confidentiality agreement`
+      - 机密性协议 
+    - `client confidentiality`
+      - 客户保密的责任；机密性客户机程序 
   - 例句
     - `The relationship between attorney and client is based on confidentiality.`
       - 律师和委托人之间的关系是建立在保密的基础之上的。

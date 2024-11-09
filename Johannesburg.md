@@ -1,9 +1,12 @@
 - Johannesburg
   - 发音
-    - 英 `/dʒəu'hænisbə:ɡ/`
-    - 美 `/dʒəu'hænisbə:ɡ/`
+    - 英
+      - `/dʒəu'hænisbə:ɡ/`
+    - 美
+      - `/dʒəu'hænisbə:ɡ/`
   - 词义
-    - n. 约翰内斯堡（南非城市）
+    - n.
+      - 约翰内斯堡（南非城市）
   - 例句
     - `She was also one of the first lesbians to live openly in her township near Johannesburg.`
       - 她还是约翰内斯堡附近她所在的镇区第一个公开同性恋身份的人。

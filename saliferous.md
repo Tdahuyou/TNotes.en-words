@@ -1,19 +1,25 @@
 - saliferous
   - 发音
-    - 英 `/sə'lɪf(ə)rəs/`
-    - 美 `/sæ'lɪfərəs/`
+    - 英
+      - `/sə'lɪf(ə)rəs/`
+    - 美
+      - `/sæ'lɪfərəs/`
   - 词义
-    - adj. [地](岩层等)含盐的
-    - `(esp of rock strata) containing or producing salt `
+    - adj.
+      - [地](岩层等)含盐的
+        - `(esp of rock strata) containing or producing salt `
   - 同根词
     - adj.
-      - `saline` 盐的；含盐分的
+      - `saline`
+        - 盐的；含盐分的
     - n.
-      - `saline` 盐湖；碱盐泻药
+      - `saline`
+        - 盐湖；碱盐泻药
   - 近义词
-    - adj. 含盐的
-      - `salt`
-      - `brackish`
+    - adj.
+      - 含盐的
+        - `salt`
+        - `brackish`
   - 例句
     - `By performing core displacement and micro pore model displacement experiments, the mechanism and changing law of saliferous reservoir parameters were studied.`
       - 通过岩心驱替以及砂岩微观孔隙模型驱替实验，研究了高含盐油藏水驱储层参数变化机理和规律。

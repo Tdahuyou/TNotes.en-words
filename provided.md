@@ -1,20 +1,27 @@
 - provided
   - 发音
-    - 英 `/prə'vaɪdɪd/`
-    - 美 `/prə'vaɪdɪd/`
+    - 英
+      - `/prə'vaɪdɪd/`
+    - 美
+      - `/prə'vaɪdɪd/`
   - 词义
-    - conj. 倘若,只要,假如
-    - `used to say that something will only be possible if something else happens or is done`
+    - conj.
+      - 倘若,只要,假如
+        - `used to say that something will only be possible if something else happens or is done`
   - 近义词
-    - conj. 假如；倘若
-      - `if`
-      - `supposing`
-    - v. 提供；给予（provide的过去式）
-      - `gave`
-      - `supplied`
+    - conj.
+      - 假如；倘若
+        - `if`
+        - `supposing`
+    - v.
+      - 提供；给予（provide的过去式）
+        - `gave`
+        - `supplied`
   - 短语
-    - `provided by` 具有；由…提供 
-    - `provided with` 拥有，装备有… 
+    - `provided by`
+      - 具有；由…提供 
+    - `provided with`
+      - 拥有，装备有… 
   - 例句
     - `He can come with us, provided he pays for his own meals.`
       - 只要他付自己的饭钱，就可以跟我们一起来。

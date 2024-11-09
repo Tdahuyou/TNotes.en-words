@@ -1,34 +1,48 @@
 - fully
   - 发音
-    - 英 `/'fʊlɪ/`
-    - 美 `/'fʊli/`
+    - 英
+      - `/'fʊlɪ/`
+    - 美
+      - `/'fʊli/`
   - 词义
-    - adv. 充分地,完全地
-    - `completely`
+    - adv.
+      - 充分地,完全地
+        - `completely`
   - 同根词
     - adj.
-      - `full` 完全的，完整的；满的，充满的；丰富的；完美的；丰满的；详尽的
+      - `full`
+        - 完全的，完整的；满的，充满的；丰富的；完美的；丰满的；详尽的
     - adv.
-      - `full` 十分，非常；完全地；整整
+      - `full`
+        - 十分，非常；完全地；整整
     - n.
-      - `full` 全部；完整
-      - `fullness` 充满；丰富；完全；成熟
+      - `full`
+        - 全部；完整
+      - `fullness`
+        - 充满；丰富；完全；成熟
     - vt.
-      - `full` 把衣服缝得宽大
+      - `full`
+        - 把衣服缝得宽大
   - 近义词
-    - adv. 充分地；完全地；彻底地
-      - `entirely`
-      - `completely`
-      - `totally`
-      - `thoroughly`
-      - `absolutely`
-      - `strictly`
+    - adv.
+      - 充分地；完全地；彻底地
+        - `entirely`
+        - `completely`
+        - `totally`
+        - `thoroughly`
+        - `absolutely`
+        - `strictly`
   - 短语
-    - `fully automatic` 全自动的 
-    - `fully integrated` 完全整合 
-    - `fully loaded` 满载 
-    - `fully paid` [经]全部付讫 
-    - `fully funded (project)` 资金到位 
+    - `fully automatic`
+      - 全自动的 
+    - `fully integrated`
+      - 完全整合 
+    - `fully loaded`
+      - 满载 
+    - `fully paid`
+      - [经]全部付讫 
+    - `fully funded (project)`
+      - 资金到位 
   - 例句
     - `The restaurant is fully booked this evening.`
       - 今晚这家餐厅订满了。

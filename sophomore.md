@@ -1,18 +1,25 @@
 - sophomore
   - 发音
-    - 英 `/'sɒfəmɔː/`
-    - 美 `/'sɑfəmɔr/`
+    - 英
+      - `/'sɒfəmɔː/`
+    - 美
+      - `/'sɑfəmɔr/`
   - 词义
-    - n. 大学二年级生；（美）有二年经验的人
-    - `a student who is in their second year of study at a college or  high school `
-    - adj. 二年级的；二年级学生的
+    - n.
+      - 大学二年级生；（美）有二年经验的人
+        - `a student who is in their second year of study at a college or  high school `
+    - adj.
+      - 二年级的；二年级学生的
   - 同根词
     - adj.
-      - `sophisticated` 复杂的；精致的；久经世故的；富有经验的
+      - `sophisticated`
+        - 复杂的；精致的；久经世故的；富有经验的
     - v.
-      - `sophisticated` 使变得世故；使迷惑；篡改（sophisticate的过去分词形式）
+      - `sophisticated`
+        - 使变得世故；使迷惑；篡改（sophisticate的过去分词形式）
   - 短语
-    - `sophomore class` （大学）二年级 
+    - `sophomore class`
+      - （大学）二年级 
   - 例句
     - `His daughter, Louise, is by now a college sophomore.`
       - 他的女儿，路易斯，现在是大学二年级学生。

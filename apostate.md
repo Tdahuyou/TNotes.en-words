@@ -1,18 +1,24 @@
 - apostate
   - 发音
-    - 英 `/ə'pɔsteit/`
-    - 美 `//əˈpɑːsteɪt//`
+    - 英
+      - `/ə'pɔsteit/`
+    - 美
+      - `//əˈpɑːsteɪt//`
   - 词义
-    - n. 变节者，背教者，脱党者
-    - `someone who has stopped believing in a religion or supporting a political party`
+    - n.
+      - 变节者，背教者，脱党者
+        - `someone who has stopped believing in a religion or supporting a political party`
   - 记忆
     - apo (远离) + state (国家) → 国家有难， 远离国家 → 变节者
   - 同根词
     - n.
-      - `apostasy` 变节；脱党；背教
+      - `apostasy`
+        - 变节；脱党；背教
     - vi.
-      - `apostatize` 变节，脱党；放弃信仰
+      - `apostatize`
+        - 变节，脱党；放弃信仰
   - 近义词
-    - n. 脱党者；变节者；叛教者
-      - `turncoat`
-      - `flopper`
+    - n.
+      - 脱党者；变节者；叛教者
+        - `turncoat`
+        - `flopper`

@@ -1,20 +1,26 @@
 - certainly
   - 发音
-    - 英 `/ˈsəːt(ə)nli/`
-    - 美 `/'sɝtnli/`
+    - 英
+      - `/ˈsəːt(ə)nli/`
+    - 美
+      - `/'sɝtnli/`
   - 词义
-    - adv. 当然；行
-    - `used to agree or give your permission`
+    - adv.
+      - 当然；行
+        - `used to agree or give your permission`
   - 同根词
     - adj.
-      - `certain` 某一；必然的；确信；无疑的；有把握的
+      - `certain`
+        - 某一；必然的；确信；无疑的；有把握的
     - pron.
-      - `certain` 某些；某几个
+      - `certain`
+        - 某些；某几个
   - 近义词
-    - adv. 当然；行（用于回答）；必定
-      - `surely`
-      - `definitely`
-      - `ok`
+    - adv.
+      - 当然；行（用于回答）；必定
+        - `surely`
+        - `definitely`
+        - `ok`
   - 例句
     - `‘I’d like a beer, please.’ ‘Certainly, sir.’`
       - “请给我来杯啤酒。”“好的，先生。”

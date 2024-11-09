@@ -1,14 +1,18 @@
 - nontraditional
   - 发音
-    - 英 `/,nɒntrə'dɪʃənəl/`
-    - 美 `/,nɔntrə'diʃənəl/`
+    - 英
+      - `/,nɒntrə'dɪʃənəl/`
+    - 美
+      - `/,nɔntrə'diʃənəl/`
   - 词义
-    - adj. 非传统的
-    - `not traditional; unconventional `
+    - adj.
+      - 非传统的
+        - `not traditional; unconventional `
   - 近义词
-    - adj. 不符合传统的，非传统的
-      - `unconventional`
-      - `unorthodoxy`
+    - adj.
+      - 不符合传统的，非传统的
+        - `unconventional`
+        - `unorthodoxy`
   - 例句
     - `nontraditional lifestyles`
       - 

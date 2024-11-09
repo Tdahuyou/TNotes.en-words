@@ -1,9 +1,12 @@
 - homeownership
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 房主
+    - n.
+      - 房主
   - 例句
     - `And all of us will pay an even steeper price if we allow this crisis to continue to deepen, a crisis which is unraveling homeownership, the middle class, and the American Dream itself.`
       - 如果我们允许这个危机继续恶化下去，我们所有的人将会付出更大的代价。 这个危机正在瓦解美国人对房屋的拥有权、中产阶级以及美国梦本身。

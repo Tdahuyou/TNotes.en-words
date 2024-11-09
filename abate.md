@@ -1,22 +1,28 @@
 - abate
   - 发音
-    - 英 `/ə'beɪt/`
-    - 美 `/ə'bet/`
+    - 英
+      - `/ə'beɪt/`
+    - 美
+      - `/ə'bet/`
   - 词义
-    - v. 减少，减轻
-    - `to become less strong or decrease`
+    - v.
+      - 减少，减轻
+        - `to become less strong or decrease`
   - 记忆
     - a + bate(减少) → (使)减少， 减轻
   - 同根词
     - n.
-      - `abatement` 减少；消除；减轻
+      - `abatement`
+        - 减少；消除；减轻
   - 近义词
-    - vt. 减轻；减少；废除
-      - `moderate`
-      - `allay`
-    - vi. 减轻；失效
-      - `to alleviate`
-      - `ease off`
+    - vt.
+      - 减轻；减少；废除
+        - `moderate`
+        - `allay`
+    - vi.
+      - 减轻；失效
+        - `to alleviate`
+        - `ease off`
   - 例句
     - `We waited for the storm to abate.`
       - 我们等风暴减弱。

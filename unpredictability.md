@@ -1,16 +1,22 @@
 - unpredictability
   - 发音
-    - 英 `/ˌʌnprɪˌdɪktə'bɪlətɪ/`
-    - 美 `/ˌʌnprɪˌdɪktə'bɪlətɪ/`
+    - 英
+      - `/ˌʌnprɪˌdɪktə'bɪlətɪ/`
+    - 美
+      - `/ˌʌnprɪˌdɪktə'bɪlətɪ/`
   - 词义
-    - n. 不可预测性
+    - n.
+      - 不可预测性
   - 同根词
     - adj.
-      - `unpredictable` 不可预知的；不定的；出乎意料的
+      - `unpredictable`
+        - 不可预知的；不定的；出乎意料的
     - adv.
-      - `unpredictably` 无法预言地）；不可预见地（不能预料地
+      - `unpredictably`
+        - 无法预言地）；不可预见地（不能预料地
     - n.
-      - `unpredictable` 不可预言的事
+      - `unpredictable`
+        - 不可预言的事
   - 例句
     - `The danger lies in its unpredictability. Yet that may also be a reason for hope.`
       - 危险就在于其不可预测性，而这也可能是希望尚存的一个原因吧。

@@ -1,22 +1,33 @@
 - adrenaline
   - 发音
-    - 英 `/ə'drenəlɪn/`
-    - 美 `/æˈdrɛnəˌlɪn/`
+    - 英
+      - `/ə'drenəlɪn/`
+    - 美
+      - `/æˈdrɛnəˌlɪn/`
   - 词义
-    - n. 肾上腺素(使激动兴奋等)
+    - n.
+      - 肾上腺素(使激动兴奋等)
   - 同根词
     - adj.
-      - `adrenal` 肾上腺的
-      - `adrenergic` [生理] 肾上腺素的；释放肾上腺素的
-      - `adrenocortical` 肾上腺皮质的
-      - `adrenocorticotrophic` 促肾上腺皮质的
-      - `adrenocorticotropic` 促肾上腺皮质的
+      - `adrenal`
+        - 肾上腺的
+      - `adrenergic`
+        - [生理] 肾上腺素的；释放肾上腺素的
+      - `adrenocortical`
+        - 肾上腺皮质的
+      - `adrenocorticotrophic`
+        - 促肾上腺皮质的
+      - `adrenocorticotropic`
+        - 促肾上腺皮质的
     - n.
-      - `adrenal` 肾上腺
-      - `adrenalectomy` [泌尿] 肾上腺切除术
+      - `adrenal`
+        - 肾上腺
+      - `adrenalectomy`
+        - [泌尿] 肾上腺切除术
   - 近义词
-    - n. [生化]肾上腺素
-      - `epinephrine`
+    - n.
+      - [生化]肾上腺素
+        - `epinephrine`
   - 例句
     - `But for some people merely imagining this scene creates an adrenaline surge.`
       - 但是对于某些人但是想象这一幕就会肾上腺素激增。

@@ -1,20 +1,27 @@
 - midway
   - 发音
-    - 英 `/'mɪdweɪ; mɪd'weɪ/`
-    - 美 `/'mɪd'we/`
+    - 英
+      - `/'mɪdweɪ; mɪd'weɪ/`
+    - 美
+      - `/'mɪd'we/`
   - 词义
-    - n. 中途,半路
-    - adj. 中途的
-    - `between two places, and the same distance from each of them`
-    - adv. 在中途
-    - `If something is midway between two places, it is between them and the same distance from each of them`
+    - n.
+      - 中途,半路
+    - adj.
+      - 中途的
+        - `between two places, and the same distance from each of them`
+    - adv.
+      - 在中途
+        - `If something is midway between two places, it is between them and the same distance from each of them`
   - 近义词
-    - n. 中途；娱乐场
-      - `casino`
-      - `midcourse`
-    - adj. 中途的
-      - `intermediary`
-      - `halfway`
+    - n.
+      - 中途；娱乐场
+        - `casino`
+        - `midcourse`
+    - adj.
+      - 中途的
+        - `intermediary`
+        - `halfway`
   - 例句
     - `Fresno is close to the midway point between LA and San Francisco.`
       - 弗雷斯诺位于接进洛杉矶和旧金山的中间点。

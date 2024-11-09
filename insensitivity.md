@@ -1,21 +1,30 @@
 - insensitivity
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 感觉迟钝,不灵敏性
+    - n.
+      - 感觉迟钝,不灵敏性
   - 同根词
     - adj.
-      - `insensitive` 感觉迟钝的，对…没有感觉的
-      - `insensible` 昏迷的；无知觉的；麻木不仁的
-      - `insensate` 无感觉的；无情的；无生命的
+      - `insensitive`
+        - 感觉迟钝的，对…没有感觉的
+      - `insensible`
+        - 昏迷的；无知觉的；麻木不仁的
+      - `insensate`
+        - 无感觉的；无情的；无生命的
     - n.
-      - `insensibility` 不关心，不在乎；无感觉
-      - `insensitiveness` 钝性；不灵敏性
+      - `insensibility`
+        - 不关心，不在乎；无感觉
+      - `insensitiveness`
+        - 钝性；不灵敏性
   - 近义词
-    - n. 感觉迟钝；[仪]不灵敏性；昏迷
-      - `hypoesthesia`
-      - `obtusion`
+    - n.
+      - 感觉迟钝；[仪]不灵敏性；昏迷
+        - `hypoesthesia`
+        - `obtusion`
   - 例句
     - `But its insensitivity means the shift is almost too small to measure and complicated to calculate.`
       - 但它的不敏感性意味着偏移小到几乎无法测量和计算复杂到无法计算。

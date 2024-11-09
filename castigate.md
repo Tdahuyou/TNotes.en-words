@@ -1,16 +1,21 @@
 - castigate
   - 发音
-    - 英 `/'kæstigeit/`
-    - 美 `/'kæstiɡeit/`
+    - 英
+      - `/'kæstigeit/`
+    - 美
+      - `/'kæstiɡeit/`
   - 词义
-    - vt. 惩罚；严厉批评
-    - `to criticize or punish someone severely`
+    - vt.
+      - 惩罚；严厉批评
+        - `to criticize or punish someone severely`
   - 记忆
     - cast (扔) + i (我) + gate (门) → 向我的门扔东西 → 惩罚
   - 同根词
     - n.
-      - `castigation` 惩罚；苛评；修订
+      - `castigation`
+        - 惩罚；苛评；修订
   - 近义词
-    - vt. 严惩；苛评；矫正；修订
-      - `chastise`
-      - `throw the book at`
+    - vt.
+      - 严惩；苛评；矫正；修订
+        - `chastise`
+        - `throw the book at`

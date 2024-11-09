@@ -1,27 +1,36 @@
 - testimonial
   - 发音
-    - 英 `/ˌtesti'məuniəl/`
-    - 美 `/,tɛstɪ'monɪəl/`
+    - 英
+      - `/ˌtesti'məuniəl/`
+    - 美
+      - `/,tɛstɪ'monɪəl/`
   - 词义
-    - n. 证明书
-    - `a formal written statement describing someone’s character and abilities`
+    - n.
+      - 证明书
+        - `a formal written statement describing someone’s character and abilities`
   - 记忆
     - testimon (看作testimony， 证明) + ial → 证明书
   - 同根词
     - n.
-      - `testimony` [法] 证词，证言；证据
-      - `testifier` 证明者，证人
+      - `testimony`
+        - [法] 证词，证言；证据
+      - `testifier`
+        - 证明者，证人
     - vi.
-      - `testify` 作证；证明
+      - `testify`
+        - 作证；证明
     - vt.
-      - `testify` 证明，证实；作证
+      - `testify`
+        - 证明，证实；作证
   - 近义词
-    - n. 证明书；推荐书
-      - `ticket`
-      - `reference`
-    - adj. 证明的；褒奖的；表扬的
-      - `manifested`
-      - `probative`
+    - n.
+      - 证明书；推荐书
+        - `ticket`
+        - `reference`
+    - adj.
+      - 证明的；褒奖的；表扬的
+        - `manifested`
+        - `probative`
   - 例句
     - `She could hardly expect her employer to provide her with testimonials to her character and ability.`
       - 她几乎不指望老板会给她写证明她的人品和能力的证明书。

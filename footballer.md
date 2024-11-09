@@ -1,19 +1,25 @@
 - footballer
   - 发音
-    - 英 `/'fʊt,bɔːlə/`
-    - 美 `/'fʊtbɔlɚ/`
+    - 英
+      - `/'fʊt,bɔːlə/`
+    - 美
+      - `/'fʊtbɔlɚ/`
   - 词义
-    - n. 足球运动员；橄榄球运动员
-    - `someone who plays football, especially a professional player`
+    - n.
+      - 足球运动员；橄榄球运动员
+        - `someone who plays football, especially a professional player`
   - 同根词
     - n.
-      - `football` 足球，橄榄球
+      - `football`
+        - 足球，橄榄球
     - vi.
-      - `football` 踢足球；打橄榄球
+      - `football`
+        - 踢足球；打橄榄球
   - 近义词
-    - n. 足球运动员；橄榄球运动员
-      - `soccer player`
-      - `gridder`
+    - n.
+      - 足球运动员；橄榄球运动员
+        - `soccer player`
+        - `gridder`
   - 例句
     - `Ten footballer stood in a row on the sport ground.`
       - 运动场上一字儿站着十名足球运动员。

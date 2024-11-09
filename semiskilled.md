@@ -1,10 +1,13 @@
 - semiskilled
   - 发音
-    - 英 `/,semɪ'skɪld/`
-    - 美 `/,sɛmaɪ'skɪld/`
+    - 英
+      - `/,semɪ'skɪld/`
+    - 美
+      - `/,sɛmaɪ'skɪld/`
   - 词义
-    - adj. 半熟练的
-    - `A semiskilled worker has some training and skills, but not enough to do specialized work`
+    - adj.
+      - 半熟练的
+        - `A semiskilled worker has some training and skills, but not enough to do specialized work`
   - 例句
     - `Branded an intellectual, he spent 10 years working as a semiskilled laborer at the Beijing Heavy Machinery Factory.`
       - 带着知识分子的烙印，余先生在北京重机械厂作为半成品工人工作了10年。

@@ -1,26 +1,36 @@
 - examine
   - 发音
-    - 英 `/ɪg'zæmɪn; eg-/`
-    - 美 `/ɪg'zæmɪn/`
+    - 英
+      - `/ɪg'zæmɪn; eg-/`
+    - 美
+      - `/ɪg'zæmɪn/`
   - 词义
-    - v. 检查,调查,考试
-    - `to look at something carefully and thoroughly because you want to find out more about it`
+    - v.
+      - 检查,调查,考试
+        - `to look at something carefully and thoroughly because you want to find out more about it`
   - 同根词
     - n.
-      - `examination` 考试；检查；查问
-      - `examiner` 检验员；主考人；[专利] 审查员
-      - `examinee` 应试者；受审查者；受检查者
+      - `examination`
+        - 考试；检查；查问
+      - `examiner`
+        - 检验员；主考人；[专利] 审查员
+      - `examinee`
+        - 应试者；受审查者；受检查者
   - 近义词
-    - vt. 检查；调查； 检测；考试
-      - `inspect`
-      - `review`
-      - `survey`
-    - vi. 检查；调查
-      - `probe`
-      - `check for`
+    - vt.
+      - 检查；调查； 检测；考试
+        - `inspect`
+        - `review`
+        - `survey`
+    - vi.
+      - 检查；调查
+        - `probe`
+        - `check for`
   - 短语
-    - `examine and approve` 审批 
-    - `examine and verify` 审核；审计 
+    - `examine and approve`
+      - 审批 
+    - `examine and verify`
+      - 审核；审计 
   - 例句
     - `A team of divers was sent down to examine the wreck.`
       - 一组潜水员被送到水下检查沉船。

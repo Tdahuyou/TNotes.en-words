@@ -1,24 +1,35 @@
 - diabetes
   - 发音
-    - 英 `/,daɪə'biːtiːz/`
-    - 美 `/,daɪə'bitiz/`
+    - 英
+      - `/,daɪə'biːtiːz/`
+    - 美
+      - `/,daɪə'bitiz/`
   - 词义
-    - n. 糖尿病；多尿症
-    - `a serious disease in which there is too much sugar in your blood`
+    - n.
+      - 糖尿病；多尿症
+        - `a serious disease in which there is too much sugar in your blood`
   - 同根词
     - adj.
-      - `diabetic` 糖尿病的，患糖尿病的
+      - `diabetic`
+        - 糖尿病的，患糖尿病的
     - n.
-      - `diabetic` 糖尿病患者
+      - `diabetic`
+        - 糖尿病患者
   - 近义词
-    - n. [内科]糖尿病；多尿症
-      - `polyuria`
+    - n.
+      - [内科]糖尿病；多尿症
+        - `polyuria`
   - 短语
-    - `diabetes mellitus` [医]糖尿病 
-    - `gestational diabetes` 妊娠（期）糖尿病；孕期糖尿病 
-    - `diabetes insipidus` 尿崩症 
-    - `juvenile diabetes` 青少年糖尿病；幼年型糖尿病 
-    - `diabetes and cardiovascular disease` 糖尿病和心血管疾病 
+    - `diabetes mellitus`
+      - [医]糖尿病 
+    - `gestational diabetes`
+      - 妊娠（期）糖尿病；孕期糖尿病 
+    - `diabetes insipidus`
+      - 尿崩症 
+    - `juvenile diabetes`
+      - 青少年糖尿病；幼年型糖尿病 
+    - `diabetes and cardiovascular disease`
+      - 糖尿病和心血管疾病 
   - 例句
     - `You have diabetes, or liver or kidney disease.`
       - 有糖尿病，或者是有肝病或肾病者。

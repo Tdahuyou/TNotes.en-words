@@ -1,14 +1,18 @@
 - airfield
   - 发音
-    - 英 `/'eəfiːld/`
-    - 美 `/'ɛrfild/`
+    - 英
+      - `/'eəfiːld/`
+    - 美
+      - `/'ɛrfild/`
   - 词义
-    - n. 飞机场
-    - `a place where planes can fly from, especially one used by military planes`
+    - n.
+      - 飞机场
+        - `a place where planes can fly from, especially one used by military planes`
   - 近义词
-    - n. [航]飞机场
-      - `drome`
-      - `air-depot`
+    - n.
+      - [航]飞机场
+        - `drome`
+        - `air-depot`
   - 例句
     - `The plane circled over the airfield.`
       - 飞机在机场上空绕圈。

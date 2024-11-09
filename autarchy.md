@@ -1,17 +1,22 @@
 - autarchy
   - 发音
-    - 英 `/'ɔːtɑːki/`
-    - 美 `/'ɔtɑrki/`
+    - 英
+      - `/'ɔːtɑːki/`
+    - 美
+      - `/'ɔtɑrki/`
   - 词义
-    - n. 独裁；专制
-    - `unlimited rule; autocracy `
+    - n.
+      - 独裁；专制
+        - `unlimited rule; autocracy `
   - 同根词
     - adj.
-      - `autarchic` 独裁的；专制国家的
+      - `autarchic`
+        - 独裁的；专制国家的
   - 近义词
-    - n. 专制，独裁；专制国家
-      - `despotism`
-      - `dictature`
+    - n.
+      - 专制，独裁；专制国家
+        - `despotism`
+        - `dictature`
   - 例句
     - `Nowadays many scholars think that the may4th culture conservatism serves for the idea of feudalism returning of the ancients and autarchy culture.`
       - 在当今学术界，许多学者对五四文化保守主义持批判的态度，认定其是为封建复古主义和专制文化服务的。

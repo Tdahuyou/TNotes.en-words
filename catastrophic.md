@@ -1,19 +1,25 @@
 - catastrophic
   - 发音
-    - 英 `/kætə'strɒfɪk/`
-    - 美 `/,kætə'strɑfɪk/`
+    - 英
+      - `/kætə'strɒfɪk/`
+    - 美
+      - `/,kætə'strɑfɪk/`
   - 词义
-    - adj. 悲惨的,灾难的
-    - `Something that is catastrophic involves or causes a sudden terrible disaster`
+    - adj.
+      - 悲惨的,灾难的
+        - `Something that is catastrophic involves or causes a sudden terrible disaster`
   - 同根词
     - n.
-      - `catastrophe` 大灾难；大祸；惨败
+      - `catastrophe`
+        - 大灾难；大祸；惨败
   - 近义词
-    - adj. 灾难的；悲惨的
-      - `miserable`
-      - `calamitous`
+    - adj.
+      - 灾难的；悲惨的
+        - `miserable`
+        - `calamitous`
   - 短语
-    - `catastrophic failure` 突变失效；灾难性故障 
+    - `catastrophic failure`
+      - 突变失效；灾难性故障 
   - 例句
     - `A tidal wave caused by the earthquake hit the coast causing catastrophic damage.`
       - 地震引发的海啸袭击了海岸，造成了灾难性的损失。

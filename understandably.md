@@ -1,23 +1,34 @@
 - understandably
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - adv. 可理解地
+    - adv.
+      - 可理解地
   - 同根词
     - adj.
-      - `understanding` 了解的；聪明的；有理解力的
-      - `understandable` 可以理解的；可以了解的
-      - `understood` 被充分理解的；心照不宣的
+      - `understanding`
+        - 了解的；聪明的；有理解力的
+      - `understandable`
+        - 可以理解的；可以了解的
+      - `understood`
+        - 被充分理解的；心照不宣的
     - n.
-      - `understanding` 谅解，理解；理解力；协议
+      - `understanding`
+        - 谅解，理解；理解力；协议
     - v.
-      - `understanding` 理解；明白（understand的ing形式）
-      - `understood` 明白；懂得（understand的过去分词）；熟悉
+      - `understanding`
+        - 理解；明白（understand的ing形式）
+      - `understood`
+        - 明白；懂得（understand的过去分词）；熟悉
     - vi.
-      - `understand` 理解；懂得；熟悉
+      - `understand`
+        - 理解；懂得；熟悉
     - vt.
-      - `understand` 理解；懂；获悉；推断；省略
+      - `understand`
+        - 理解；懂；获悉；推断；省略
   - 例句
     - `Some parents, understandably, have a very hard time with this one. They may feel that anything their kids do is their business.`
       - 可以理解，有些家长要做到这一条不太容易，他们可能觉得任何孩子的事都是他们的事。

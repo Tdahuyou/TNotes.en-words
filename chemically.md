@@ -1,25 +1,40 @@
 - chemically
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - adv. 用化学,以化学方法
+    - adv.
+      - 用化学,以化学方法
   - 同根词
     - adj.
-      - `chemical` 化学的
-      - `chemic` 化学的；炼金术的
-      - `chemotherapeutic` 化学疗法的
+      - `chemical`
+        - 化学的
+      - `chemic`
+        - 化学的；炼金术的
+      - `chemotherapeutic`
+        - 化学疗法的
     - n.
-      - `chemical` 化学制品，化学药品
-      - `chemistry` 化学；化学过程
-      - `chemist` 化学家；药剂师
-      - `chemic` 炼金术士；化学家
-      - `chemiluminescence` [化学] 化学发光，化合光
-      - `chemisorption` [化学] 化学吸收作用
-      - `chemoreceptor` 化学受体；[生理] 化学感受器（等于chemoceptor）
-      - `chemosynthesis` [化学] 化学合成
+      - `chemical`
+        - 化学制品，化学药品
+      - `chemistry`
+        - 化学；化学过程
+      - `chemist`
+        - 化学家；药剂师
+      - `chemic`
+        - 炼金术士；化学家
+      - `chemiluminescence`
+        - [化学] 化学发光，化合光
+      - `chemisorption`
+        - [化学] 化学吸收作用
+      - `chemoreceptor`
+        - 化学受体；[生理] 化学感受器（等于chemoceptor）
+      - `chemosynthesis`
+        - [化学] 化学合成
     - vt.
-      - `chemisorb` 用化学方法吸收；用化学方法吸附
+      - `chemisorb`
+        - 用化学方法吸收；用化学方法吸附
   - 例句
     - `Biscuits and crackers are chemically leavened.`
       - 饼干和脆饼干是用化学方法发酵的。

@@ -1,13 +1,17 @@
 - penumbra
   - 发音
-    - 英 `/pi'nʌmbrə/`
-    - 美 `/pɪ'nʌmbrə/`
+    - 英
+      - `/pi'nʌmbrə/`
+    - 美
+      - `/pɪ'nʌmbrə/`
   - 词义
-    - n. 半影
-    - `an area of slight darkness`
+    - n.
+      - 半影
+        - `an area of slight darkness`
   - 同根词
     - adj.
-      - `penumbral` 日月半影的；界限不明的
+      - `penumbral`
+        - 日月半影的；界限不明的
   - 例句
     - `In the outer part of that shadow, the penumbra, part of the Sun, is blocked.`
       - 而影子外面部分的半影，被太阳的一部分挡住。

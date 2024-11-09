@@ -1,19 +1,24 @@
 - seditious
   - 发音
-    - 英 `/si'diʃəs/`
-    - 美 `/sɪ'dɪʃəs/`
+    - 英
+      - `/si'diʃəs/`
+    - 美
+      - `/sɪ'dɪʃəs/`
   - 词义
-    - adj. 煽动的；煽动叛变的
-    - `A seditious act, speech, or piece of writing encourages people to fight against or oppose the government`
+    - adj.
+      - 煽动的；煽动叛变的
+        - `A seditious act, speech, or piece of writing encourages people to fight against or oppose the government`
   - 记忆
     - 来自sedition (n. 煽动)
   - 同根词
     - n.
-      - `sedition` 暴动；煽动性的言论或行为；妨害治安
+      - `sedition`
+        - 暴动；煽动性的言论或行为；妨害治安
   - 近义词
-    - adj. 煽动性的；扰乱治安的；参与煽动的
-      - `inflammatory`
-      - `agitative`
+    - adj.
+      - 煽动性的；扰乱治安的；参与煽动的
+        - `inflammatory`
+        - `agitative`
   - 例句
     - `He fell under suspicion for distributing seditious pamphlets.`
       - 他因分发反政府传单而受到怀疑。

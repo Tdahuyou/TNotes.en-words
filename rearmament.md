@@ -1,15 +1,20 @@
 - rearmament
   - 发音
-    - 英 `/undefined/`
-    - 美 `/'ri,ɑrməmənt/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/'ri,ɑrməmənt/`
   - 词义
-    - n. [军]重整军备；改良装备
-    - `Rearmament is the process of building up a new stock of military weapons`
+    - n.
+      - [军]重整军备；改良装备
+        - `Rearmament is the process of building up a new stock of military weapons`
   - 同根词
     - vi.
-      - `rearm` 重新武装，重整军备
+      - `rearm`
+        - 重新武装，重整军备
     - vt.
-      - `rearm` 使重整军备，使重新武装
+      - `rearm`
+        - 使重整军备，使重新武装
   - 例句
     - `He also wants a "large-scale rearmament" of the Army and Navy beginning in 2011.`
       - 他还准备从2011年起，对陆军和海军进行“大规模重新装备”。

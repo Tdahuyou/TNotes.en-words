@@ -1,24 +1,34 @@
 - terrify
   - 发音
-    - 英 `/'terifai/`
-    - 美 `/ˈtɛrəˌfaɪ/`
+    - 英
+      - `/'terifai/`
+    - 美
+      - `/ˈtɛrəˌfaɪ/`
   - 词义
-    - v. 使害怕，使惊恐
-    - `to make someone extremely afraid`
+    - v.
+      - 使害怕，使惊恐
+        - `to make someone extremely afraid`
   - 同根词
     - adj.
-      - `terrific` 极好的；极其的，非常的；可怕的
-      - `terrified` 感到恐惧的；受惊吓的
-      - `terrifying` 令人恐惧的；骇人的；极大的
+      - `terrific`
+        - 极好的；极其的，非常的；可怕的
+      - `terrified`
+        - 感到恐惧的；受惊吓的
+      - `terrifying`
+        - 令人恐惧的；骇人的；极大的
     - n.
-      - `terror` 恐怖；恐怖行动；恐怖时期；可怕的人
+      - `terror`
+        - 恐怖；恐怖行动；恐怖时期；可怕的人
     - v.
-      - `terrified` 使恐惧；恐吓（terrify的过去分词）
-      - `terrifying` 使害怕，使恐怖（terrify的现在分词）
+      - `terrified`
+        - 使恐惧；恐吓（terrify的过去分词）
+      - `terrifying`
+        - 使害怕，使恐怖（terrify的现在分词）
   - 近义词
-    - vt. 恐吓；使恐怖；使害怕
-      - `gallow`
-      - `intimidate`
+    - vt.
+      - 恐吓；使恐怖；使害怕
+        - `gallow`
+        - `intimidate`
   - 例句
     - `Her husband’s violence terrified her.`
       - 丈夫的暴力行为让她感到害怕。

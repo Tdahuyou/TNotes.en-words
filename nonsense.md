@@ -1,25 +1,33 @@
 - nonsense
   - 发音
-    - 英 `/'nɑːnsens/`
-    - 美 `/'nɑnsɛns/`
+    - 英
+      - `/'nɑːnsens/`
+    - 美
+      - `/'nɑnsɛns/`
   - 词义
-    - n. 胡说，废话；冒失的行为
-    - `ideas, opinions, statements etc that are not true or that seem very stupid`
+    - n.
+      - 胡说，废话；冒失的行为
+        - `ideas, opinions, statements etc that are not true or that seem very stupid`
   - 记忆
     - non(不) + sense(意义) → 无意义的话 → 废话
   - 同根词
     - adj.
-      - `nonsensical` 无意义的；荒谬的
+      - `nonsensical`
+        - 无意义的；荒谬的
   - 近义词
-    - n. 胡说；废话
-      - `bullshit`
-      - `kibosh`
-    - adj. 荒谬的
-      - `ridiculous`
-      - `preposterous`
+    - n.
+      - 胡说；废话
+        - `bullshit`
+        - `kibosh`
+    - adj.
+      - 荒谬的
+        - `ridiculous`
+        - `preposterous`
   - 短语
-    - `talk nonsense` 胡说八道 
-    - `sheer nonsense` 一派胡言 
+    - `talk nonsense`
+      - 胡说八道 
+    - `sheer nonsense`
+      - 一派胡言 
   - 例句
     - `‘I’m a prisoner in my own home.’ ‘Nonsense!’`
       - “我在自己家里就像个囚犯。”“胡说！”

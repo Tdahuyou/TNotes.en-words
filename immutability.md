@@ -1,15 +1,21 @@
 - immutability
   - 发音
-    - 英 `/ɪˌmjuːtə'bɪləti/`
-    - 美 `/undefined/`
+    - 英
+      - `/ɪˌmjuːtə'bɪləti/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 不变，不变性
+    - n.
+      - 不变，不变性
   - 同根词
     - adj.
-      - `immutable` 不变的；不可变的；不能变的
+      - `immutable`
+        - 不变的；不可变的；不能变的
     - adv.
-      - `immutably` 不变地；永恒地
+      - `immutably`
+        - 不变地；永恒地
   - 近义词
-    - n. 不变；永恒性；不变性
-      - `invariability`
-      - `unchangeableness`
+    - n.
+      - 不变；永恒性；不变性
+        - `invariability`
+        - `unchangeableness`

@@ -1,27 +1,37 @@
 - disappoint
   - 发音
-    - 英 `/ˌdɪsə'pɔɪnt/`
-    - 美 `/'dɪsə'pɔɪnt/`
+    - 英
+      - `/ˌdɪsə'pɔɪnt/`
+    - 美
+      - `/'dɪsə'pɔɪnt/`
   - 词义
-    - v. 失望，扫兴
-    - `to make someone feel unhappy because something they hoped for did not happen or was not as good as they expected`
+    - v.
+      - 失望，扫兴
+        - `to make someone feel unhappy because something they hoped for did not happen or was not as good as they expected`
   - 记忆
     - dis(不) + appoint(任命) → 没被任命， 所以失望 → 使失望
   - 同根词
     - adj.
-      - `disappointed` 失望的，沮丧的；受挫折的
-      - `disappointing` 令人失望的；令人扫兴的
+      - `disappointed`
+        - 失望的，沮丧的；受挫折的
+      - `disappointing`
+        - 令人失望的；令人扫兴的
     - adv.
-      - `disappointedly` 失望地
-      - `disappointingly` 令人失望地
+      - `disappointedly`
+        - 失望地
+      - `disappointingly`
+        - 令人失望地
     - n.
-      - `disappointment` 失望；沮丧
+      - `disappointment`
+        - 失望；沮丧
     - v.
-      - `disappointing` 令人失望（disappoint的ing形式）；辜负…的期望
+      - `disappointing`
+        - 令人失望（disappoint的ing形式）；辜负…的期望
   - 近义词
-    - vt. 使失望
-      - `fail`
-      - `let down`
+    - vt.
+      - 使失望
+        - `fail`
+        - `let down`
   - 例句
     - `I hated to disappoint her.`
       - 我不愿意让她失望。

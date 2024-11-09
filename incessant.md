@@ -1,25 +1,32 @@
 - incessant
   - 发音
-    - 英 `/ɪn'sesnt/`
-    - 美 `/ɪn'sɛsnt/`
+    - 英
+      - `/ɪn'sesnt/`
+    - 美
+      - `/ɪn'sɛsnt/`
   - 词义
-    - adj. 不断的，不停的
-    - `continuing without stopping`
+    - adj.
+      - 不断的，不停的
+        - `continuing without stopping`
   - 记忆
     - in(不) + cess(走) + ant → 走个不停 → 不断的， 不停的
   - 同根词
     - adv.
-      - `incessantly` 不停地，不间断地
+      - `incessantly`
+        - 不停地，不间断地
     - n.
-      - `incessancy` 持续不断；频繁性
-      - `incessantness` 不间断
+      - `incessancy`
+        - 持续不断；频繁性
+      - `incessantness`
+        - 不间断
   - 近义词
-    - adj. 不断的；不停的；连续的
-      - `continuing`
-      - `straight`
-      - `endless`
-      - `ceaseless`
-      - `running`
+    - adj.
+      - 不断的；不停的；连续的
+        - `continuing`
+        - `straight`
+        - `endless`
+        - `ceaseless`
+        - `running`
   - 例句
     - `The child’s incessant talking started to irritate her.`
       - 这孩子喋喋不休，她开始烦躁起来。

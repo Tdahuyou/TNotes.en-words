@@ -1,47 +1,73 @@
 - varied
   - 发音
-    - 英 `/'veərɪd/`
-    - 美 `/'vɛrɪd/`
+    - 英
+      - `/'veərɪd/`
+    - 美
+      - `/'vɛrɪd/`
   - 词义
-    - adj. 各种各样的；各不相同的
-    - `consisting of or including many different kinds of things or people, especially in a way that seems interesting`
+    - adj.
+      - 各种各样的；各不相同的
+        - `consisting of or including many different kinds of things or people, especially in a way that seems interesting`
   - 记忆
     - vari(改变， 变化) + ed → 各式各样的
   - 同根词
     - adj.
-      - `variable` 变量的；可变的；易变的，多变的；变异的，[生物] 畸变的
-      - `variant` 不同的；多样的
-      - `varying` 不同的；变化的
-      - `variegated` 杂色的；斑驳的；富于变化的
-      - `varicoloured` 各种各样颜色的；杂色的，五颜六色的
+      - `variable`
+        - 变量的；可变的；易变的，多变的；变异的，[生物] 畸变的
+      - `variant`
+        - 不同的；多样的
+      - `varying`
+        - 不同的；变化的
+      - `variegated`
+        - 杂色的；斑驳的；富于变化的
+      - `varicoloured`
+        - 各种各样颜色的；杂色的，五颜六色的
     - adv.
-      - `variably` 易变地；不定地
+      - `variably`
+        - 易变地；不定地
     - n.
-      - `variety` 多样；种类；杂耍
-      - `variable` [数] 变量；可变物，可变因素
-      - `variant` 变体；转化
-      - `variability` 可变性，变化性；[生物][数] 变异性
-      - `variate` [数] 变量；改变
-      - `variedness` 变化；杂色
+      - `variety`
+        - 多样；种类；杂耍
+      - `variable`
+        - [数] 变量；可变物，可变因素
+      - `variant`
+        - 变体；转化
+      - `variability`
+        - 可变性，变化性；[生物][数] 变异性
+      - `variate`
+        - [数] 变量；改变
+      - `variedness`
+        - 变化；杂色
     - v.
-      - `varying` 变化，改变（vary的现在分词）
-      - `variegated` 成为杂色（variegate的过去式）
+      - `varying`
+        - 变化，改变（vary的现在分词）
+      - `variegated`
+        - 成为杂色（variegate的过去式）
     - vi.
-      - `vary` 变化；变异；违反
+      - `vary`
+        - 变化；变异；违反
     - vt.
-      - `vary` 改变；使多样化；变奏
-      - `variegate` 使多样化，使丰富多彩；使成杂色
+      - `vary`
+        - 改变；使多样化；变奏
+      - `variegate`
+        - 使多样化，使丰富多彩；使成杂色
   - 近义词
-    - adj. 多变的；各式各样的；杂色的
-      - `shot`
-      - `polytropical`
-    - v. 改变；使多样化（vary的过去式和过去分词形式）
-      - `changed`
+    - adj.
+      - 多变的；各式各样的；杂色的
+        - `shot`
+        - `polytropical`
+    - v.
+      - 改变；使多样化（vary的过去式和过去分词形式）
+        - `changed`
   - 短语
-    - `vary with` 随…而变化 
-    - `vary from` 不同 
-    - `vary in` 在……方面变化；在……方面有差异 
-    - `vary in size` 大小不同 
+    - `vary with`
+      - 随…而变化 
+    - `vary from`
+      - 不同 
+    - `vary in`
+      - 在……方面变化；在……方面有差异 
+    - `vary in size`
+      - 大小不同 
   - 例句
     - `a varied diet`
       - 丰富多样的饮食

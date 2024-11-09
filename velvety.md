@@ -1,22 +1,30 @@
 - velvety
   - 发音
-    - 英 `/'velviti/`
-    - 美 `/'vɛlvəti/`
+    - 英
+      - `/'velviti/`
+    - 美
+      - `/'vɛlvəti/`
   - 词义
-    - adj. 像天鹅绒的，柔软的
-    - `looking, feeling, tasting, or sounding smooth and soft`
+    - adj.
+      - 像天鹅绒的，柔软的
+        - `looking, feeling, tasting, or sounding smooth and soft`
   - 同根词
     - adj.
-      - `velvet` 天鹅绒的
+      - `velvet`
+        - 天鹅绒的
     - n.
-      - `velvet` 天鹅绒，丝绒；天鹅绒似的东西
-      - `velour` 丝绒；天鹅绒；毡（等于velours）
+      - `velvet`
+        - 天鹅绒，丝绒；天鹅绒似的东西
+      - `velour`
+        - 丝绒；天鹅绒；毡（等于velours）
   - 近义词
-    - adj. 天鹅绒般柔软的；醇和的，可口的
-      - `delicious`
-      - `flavorful`
+    - adj.
+      - 天鹅绒般柔软的；醇和的，可口的
+        - `delicious`
+        - `flavorful`
   - 短语
-    - `velvety texture` 柔软光滑的质地 
+    - `velvety texture`
+      - 柔软光滑的质地 
   - 例句
     - `the velvety texture of her skin`
       - 她肌肤那天鹅绒般柔滑的质地

@@ -1,15 +1,19 @@
 - carcinogen
   - 发音
-    - 英 `/kɑː'sɪnədʒ(ə)n/`
-    - 美 `/kɑr'sɪnədʒən/`
+    - 英
+      - `/kɑː'sɪnədʒ(ə)n/`
+    - 美
+      - `/kɑr'sɪnədʒən/`
   - 词义
-    - n. 致癌物质
-    - `a substance that can cause  cancer `
+    - n.
+      - 致癌物质
+        - `a substance that can cause  cancer `
   - 记忆
     - carcino(ma)(癌) + gen(产生) → 产生癌 → 致癌物
   - 同根词
     - adj.
-      - `carcinogenic` 致癌的；致癌物的
+      - `carcinogenic`
+        - 致癌的；致癌物的
   - 例句
     - `Paraffin is a known carcinogen, and hydrogen peroxide can harm the digestive system. Chopsticks irresponsibly disposed of can contaminate water and soil quality.`
       - 石蜡是一种已知的致癌物，而过氧化氢则对消化系统有害。随意丢弃木筷则可能污染水和土壤质量。

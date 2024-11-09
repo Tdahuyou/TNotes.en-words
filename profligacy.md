@@ -1,21 +1,29 @@
 - profligacy
   - 发音
-    - 英 `/'prɑːflɪgəsi/`
-    - 美 `/'prɔfliɡəsi/`
+    - 英
+      - `/'prɑːflɪgəsi/`
+    - 美
+      - `/'prɔfliɡəsi/`
   - 词义
-    - n. 放荡；肆意挥霍
-    - `Profligacy is the spending of too much money or the using of too much of something`
+    - n.
+      - 放荡；肆意挥霍
+        - `Profligacy is the spending of too much money or the using of too much of something`
   - 同根词
     - adj.
-      - `profuse` 丰富的；很多的；慷慨的；浪费的
-      - `profligate` 放荡的，不检点的；恣意挥霍的
+      - `profuse`
+        - 丰富的；很多的；慷慨的；浪费的
+      - `profligate`
+        - 放荡的，不检点的；恣意挥霍的
     - n.
-      - `profligate` 放荡者；享乐者
-      - `profuseness` 挥霍；丰富
+      - `profligate`
+        - 放荡者；享乐者
+      - `profuseness`
+        - 挥霍；丰富
   - 近义词
-    - n. 肆意挥霍；放荡；浪费
-      - `waste`
-      - `dissipation`
+    - n.
+      - 肆意挥霍；放荡；浪费
+        - `waste`
+        - `dissipation`
   - 例句
     - `...the continuing profligacy of certain states.`
       - ...某些州持续存在的挥霍浪费现象。

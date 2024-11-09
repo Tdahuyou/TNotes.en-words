@@ -1,15 +1,18 @@
 - smarter
   - 发音
-    - 英 `/'smɑ:tə/`
-    - 美 `/undefined/`
+    - 英
+      - `/'smɑ:tə/`
+    - 美
+      - `/undefined/`
   - 词义
   - 近义词
-    - adj. 聪明的；精明的（smart的比较级）
-      - `intelligent`
-      - `clever`
-      - `wise`
-      - `bright`
-      - `understanding`
+    - adj.
+      - 聪明的；精明的（smart的比较级）
+        - `intelligent`
+        - `clever`
+        - `wise`
+        - `bright`
+        - `understanding`
   - 例句
     - `If he is smarter than you ,he is great,but you are fool.`
       - 如果他比你聪明，他就是有智慧，而你是傻瓜。

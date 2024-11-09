@@ -1,9 +1,12 @@
 - Jewett
   - 发音
-    - 英 `/'dʒu:it/`
-    - 美 `/'dʒu:it/`
+    - 英
+      - `/'dʒu:it/`
+    - 美
+      - `/'dʒu:it/`
   - 词义
-    - n. 朱厄特（姓氏）
+    - n.
+      - 朱厄特（姓氏）
   - 例句
     - `Then, she took Sarah Orne Jewett's suggestion to write novels about Nebraska life.`
       - 后来，她听从萨拉·奥恩·朱维特的建议开始创作反映内布拉斯加生活的小说。

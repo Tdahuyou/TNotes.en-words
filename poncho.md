@@ -1,13 +1,17 @@
 - poncho
   - 发音
-    - 英 `/'pɑːntʃou/`
-    - 美 `/'pɑntʃo/`
+    - 英
+      - `/'pɑːntʃou/`
+    - 美
+      - `/'pɑntʃo/`
   - 词义
-    - n. 斗篷；雨披
-    - `a type of coat consisting of one large piece of cloth, with a hole in the middle for your head`
+    - n.
+      - 斗篷；雨披
+        - `a type of coat consisting of one large piece of cloth, with a hole in the middle for your head`
   - 近义词
-    - n. 雨披；南美披风
-      - `raincape`
+    - n.
+      - 雨披；南美披风
+        - `raincape`
   - 例句
     - `The poncho is made of nylon.`
       - 这雨披是用尼龙制造的。

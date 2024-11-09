@@ -1,24 +1,33 @@
 - no
   - 发音
-    - 英 `/nəʊ/`
-    - 美 `/no/`
+    - 英
+      - `/nəʊ/`
+    - 美
+      - `/no/`
   - 词义
-    - adv. 不，不是；没有（用于表示否定的回答）
-    - `used to give a negative reply to a question, offer, or request`
+    - adv.
+      - 不，不是；没有（用于表示否定的回答）
+        - `used to give a negative reply to a question, offer, or request`
   - 同根词
     - adv.
-      - `nowise` 决不，毫不
+      - `nowise`
+        - 决不，毫不
   - 近义词
-    - adv. 不
-      - `not`
-      - `non`
-      - `n't`
-    - adj. 没有；不是
-      - `nah`
+    - adv.
+      - 不
+        - `not`
+        - `non`
+        - `n't`
+    - adj.
+      - 没有；不是
+        - `nah`
   - 短语
-    - `no longer` 不再 
-    - `no more` 不再 
-    - `no less than` 不少于，多达…；正如 
+    - `no longer`
+      - 不再 
+    - `no more`
+      - 不再 
+    - `no less than`
+      - 不少于，多达…；正如 
   - 例句
     - `‘Are you Italian?’ ‘No, I’m Spanish.’`
       - “你是意大利人吗？”“不，我是西班牙人。”

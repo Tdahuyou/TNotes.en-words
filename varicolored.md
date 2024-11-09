@@ -1,14 +1,18 @@
 - varicolored
   - 发音
-    - 英 `/'vɛəri,kʌləd/`
-    - 美 `/'vɛəri,kʌləd/`
+    - 英
+      - `/'vɛəri,kʌləd/`
+    - 美
+      - `/'vɛəri,kʌləd/`
   - 词义
-    - adj. 杂色的,多色的
-    - `having many colours; variegated; motley `
+    - adj.
+      - 杂色的,多色的
+        - `having many colours; variegated; motley `
   - 近义词
-    - adj. 五颜六色的；杂色的
-      - `shot`
-      - `versicolor`
+    - adj.
+      - 五颜六色的；杂色的
+        - `shot`
+        - `versicolor`
   - 例句
     - `I hope one day I can sit on the green grassland and watch varicolored fireworks with my girlfriend.`
       - 我希望有一天和我的女朋友坐在绿色的草地上看五颜六色的烟花。

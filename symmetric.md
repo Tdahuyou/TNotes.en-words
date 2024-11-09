@@ -1,16 +1,21 @@
 - symmetric
   - 发音
-    - 英 `/sɪ'metrɪk/`
-    - 美 `/sɪ'mɛtrɪk/`
+    - 英
+      - `/sɪ'metrɪk/`
+    - 美
+      - `/sɪ'mɛtrɪk/`
   - 词义
-    - adj. 对称的；匀称的
-    - `(of a relation) holding between a pair of arguments x and y when and only when it holds between y and x, as `
+    - adj.
+      - 对称的；匀称的
+        - `(of a relation) holding between a pair of arguments x and y when and only when it holds between y and x, as `
   - 近义词
-    - adj. 对称的；匀称的
-      - `meristic`
-      - `well-proportioned`
+    - adj.
+      - 对称的；匀称的
+        - `meristic`
+        - `well-proportioned`
   - 短语
-    - `symmetric matrix` 对称矩阵 
+    - `symmetric matrix`
+      - 对称矩阵 
   - 例句
     - `Not surprisingly, the system is symmetric and comprehensive.`
       - 系统是对称和全面的，这不足为奇。

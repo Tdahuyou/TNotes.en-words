@@ -1,14 +1,18 @@
 - backache
   - 发音
-    - 英 `/'bækeɪk/`
-    - 美 `/ˈbækˌeɪk/`
+    - 英
+      - `/'bækeɪk/`
+    - 美
+      - `/ˈbækˌeɪk/`
   - 词义
-    - n. 背痛；腰痛
-    - `a pain in your back`
+    - n.
+      - 背痛；腰痛
+        - `a pain in your back`
   - 近义词
-    - n. [临床]背痛；腰痛
-      - `dorsalgia`
-      - `notalgia`
+    - n.
+      - [临床]背痛；腰痛
+        - `dorsalgia`
+        - `notalgia`
   - 例句
     - `Many workers go home from their first day on the job with either a bad headache or a backache—undoubtedly the result of nervous tension.`
       - 许多员工在第一天上班的时候会带着头痛或背痛回家，这无疑就是紧张情绪造成的结果。

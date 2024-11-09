@@ -1,17 +1,23 @@
 - glial
   - 发音
-    - 英 `/'ɡlaɪəl/`
-    - 美 `/'ɡlaɪə/`
+    - 英
+      - `/'ɡlaɪəl/`
+    - 美
+      - `/'ɡlaɪə/`
   - 词义
-    - adj. 神经胶质的
+    - adj.
+      - 神经胶质的
   - 同根词
     - n.
-      - `glia` 神经胶质（等于neuroglia）
+      - `glia`
+        - 神经胶质（等于neuroglia）
   - 近义词
-    - adj. 神经胶质的
-      - `neuroglial`
+    - adj.
+      - 神经胶质的
+        - `neuroglial`
   - 短语
-    - `glial cell` 胶质细胞；神经胶质细胞 
+    - `glial cell`
+      - 胶质细胞；神经胶质细胞 
   - 例句
     - `The glial tissue is where the largest percentage of brain tumors begin.`
       - 胶质组织是绝大多数脑部肿瘤的起源。

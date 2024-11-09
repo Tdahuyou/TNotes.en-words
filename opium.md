@@ -1,18 +1,25 @@
 - opium
   - 发音
-    - 英 `/'əʊpɪəm/`
-    - 美 `/'opɪəm/`
+    - 英
+      - `/'əʊpɪəm/`
+    - 美
+      - `/'opɪəm/`
   - 词义
-    - n. 鸦片；麻醉剂
-    - `a powerful illegal drug made from poppy seeds. Drugs made from opium are used to reduce severe pain.`
-    - adj. 鸦片的
+    - n.
+      - 鸦片；麻醉剂
+        - `a powerful illegal drug made from poppy seeds. Drugs made from opium are used to reduce severe pain.`
+    - adj.
+      - 鸦片的
   - 近义词
-    - n. [毒物][药]鸦片；麻醉剂
-      - `meconium`
-      - `detoxicator`
+    - n.
+      - [毒物][药]鸦片；麻醉剂
+        - `meconium`
+        - `detoxicator`
   - 短语
-    - `opium war` n. [史]鸦片战争（1839-1842年中英间的战争） 
-    - `opium poppy` n. 罂粟 
+    - `opium war`
+      - n. [史]鸦片战争（1839-1842年中英间的战争） 
+    - `opium poppy`
+      - n. 罂粟 
   - 例句
     - `Strychnine, arsenic, and opium are poison.`
       - 马钱子碱、砷和鸦片都是毒药。

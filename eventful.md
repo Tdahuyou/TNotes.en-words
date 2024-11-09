@@ -1,21 +1,27 @@
 - eventful
   - 发音
-    - 英 `/ɪ'ventfʊl; -f(ə)l/`
-    - 美 `/ɪ'vɛntfl/`
+    - 英
+      - `/ɪ'ventfʊl; -f(ə)l/`
+    - 美
+      - `/ɪ'vɛntfl/`
   - 词义
-    - adj. 多事的；重要的；多变故的；重大的
-    - `full of interesting or important events`
+    - adj.
+      - 多事的；重要的；多变故的；重大的
+        - `full of interesting or important events`
   - 同根词
     - n.
-      - `event` 事件，大事；项目；结果
-      - `eve` 前夕；傍晚；重大事件关头
+      - `event`
+        - 事件，大事；项目；结果
+      - `eve`
+        - 前夕；傍晚；重大事件关头
   - 近义词
-    - adj. 多事的；重要的；多变故的；重大的
-      - `important`
-      - `crucial`
-      - `considerable`
-      - `material`
-      - `big`
+    - adj.
+      - 多事的；重要的；多变故的；重大的
+        - `important`
+        - `crucial`
+        - `considerable`
+        - `material`
+        - `big`
   - 例句
     - `She’s led an eventful life.`
       - 她一生历尽沧桑。

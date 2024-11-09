@@ -1,10 +1,13 @@
 - bleachers
   - 发音
-    - 英 `/'bli:tʃəz/`
-    - 美 `/'blitʃɚz/`
+    - 英
+      - `/'bli:tʃəz/`
+    - 美
+      - `/'blitʃɚz/`
   - 词义
-    - n. <美>(运动场的)露天看台
-    - `long wooden  bench es  arranged in rows, where you sit to watch sport`
+    - n.
+      - <美>(运动场的)露天看台
+        - `long wooden  bench es  arranged in rows, where you sit to watch sport`
   - 例句
     - `She took me to the bleachers in Fenway Park to watch Ted Williams play left field for the Boston Red Sox.`
       - 她载我到芬威公园的露天看台去看特德威廉姆斯在波斯顿红袜队打左路。

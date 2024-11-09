@@ -1,23 +1,32 @@
 - proprietor
   - 发音
-    - 英 `/prə'praɪətər/`
-    - 美 `/prə'praɪətɚ/`
+    - 英
+      - `/prə'praɪətər/`
+    - 美
+      - `/prə'praɪətɚ/`
   - 词义
-    - n. 所有者，业主
-    - `an owner of a business`
+    - n.
+      - 所有者，业主
+        - `an owner of a business`
   - 同根词
     - adj.
-      - `proprietary` 所有的；专利的；私人拥有的
+      - `proprietary`
+        - 所有的；专利的；私人拥有的
     - n.
-      - `proprietary` 所有权；所有人
-      - `proprietorship` 所有权
-      - `proprietress` 女业主；女所有人
+      - `proprietary`
+        - 所有权；所有人
+      - `proprietorship`
+        - 所有权
+      - `proprietress`
+        - 女业主；女所有人
   - 近义词
-    - n. [工经]业主；[经]所有者；经营者
-      - `operator`
-      - `building owner`
+    - n.
+      - [工经]业主；[经]所有者；经营者
+        - `operator`
+        - `building owner`
   - 短语
-    - `sole proprietor` 独资企业；独资经营者 
+    - `sole proprietor`
+      - 独资企业；独资经营者 
   - 例句
     - `...the proprietor of a local restaurant.`
       - …一家当地餐馆的业主。

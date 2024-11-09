@@ -1,23 +1,32 @@
 - conjurer
   - 发音
-    - 英 `/'kʌndʒərə/`
-    - 美 `/'kʌndʒərə/`
+    - 英
+      - `/'kʌndʒərə/`
+    - 美
+      - `/'kʌndʒərə/`
   - 词义
-    - n. 魔术师
-    - `someone who entertains people by performing clever tricks in which things seem to appear, disappear, or change by magic`
+    - n.
+      - 魔术师
+        - `someone who entertains people by performing clever tricks in which things seem to appear, disappear, or change by magic`
   - 同根词
     - n.
-      - `conjuring` 魔术
-      - `conjuration` 魔法；祈祷；咒语
-      - `conjury` 变戏法；魔法
+      - `conjuring`
+        - 魔术
+      - `conjuration`
+        - 魔法；祈祷；咒语
+      - `conjury`
+        - 变戏法；魔法
     - vi.
-      - `conjure` 以念咒召唤神灵；施魔法，变魔术
+      - `conjure`
+        - 以念咒召唤神灵；施魔法，变魔术
     - vt.
-      - `conjure` 想象；念咒召唤；用魔法变出
+      - `conjure`
+        - 想象；念咒召唤；用魔法变出
   - 近义词
-    - n. 魔术师；巫师
-      - `magician`
-      - `sorcerer`
+    - n.
+      - 魔术师；巫师
+        - `magician`
+        - `sorcerer`
   - 例句
     - `They were watching me as they would watch a conjurer about to perform a trick.`
       - 他们也望着我，就像是在等着看什么魔术师施展戏法。

@@ -1,21 +1,26 @@
 - annulment
   - 发音
-    - 英 `/ə'nʌlmənt/`
-    - 美 `/ə'nʌlmənt/`
+    - 英
+      - `/ə'nʌlmənt/`
+    - 美
+      - `/ə'nʌlmənt/`
   - 词义
-    - n. 废除，取消
+    - n.
+      - 废除，取消
   - 记忆
     - an(表加强) + nul(毫无， 没有) + ment(名词后缀) → 废除， 取消
   - 同根词
     - vt.
-      - `annul` 取消；废除；宣告无效
+      - `annul`
+        - 取消；废除；宣告无效
   - 近义词
-    - n. 取消；废除
-      - `cancellation`
-      - `withdrawal`
-      - `revocation`
-      - `rescission`
-      - `recision`
+    - n.
+      - 取消；废除
+        - `cancellation`
+        - `withdrawal`
+        - `revocation`
+        - `rescission`
+        - `recision`
   - 例句
     - `Law An annulment acquittal ; dismissal, of a court order.`
       - 取消， 宣告无罪； 法院命令的撤销。

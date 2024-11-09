@@ -1,22 +1,30 @@
 - transmutation
   - 发音
-    - 英 `/trænzmjuː'teɪʃ(ə)n; trɑːnz-; -ns-/`
-    - 美 `/,trænsmjʊ'teʃən/`
+    - 英
+      - `/trænzmjuː'teɪʃ(ə)n; trɑːnz-; -ns-/`
+    - 美
+      - `/,trænsmjʊ'teʃən/`
   - 词义
-    - n. 变形；变化；演变
+    - n.
+      - 变形；变化；演变
   - 同根词
     - adj.
-      - `transmutable` 可变形的
+      - `transmutable`
+        - 可变形的
     - n.
-      - `transmutability` 可变化；可变性
+      - `transmutability`
+        - 可变化；可变性
     - vi.
-      - `transmute` 变形；变质
+      - `transmute`
+        - 变形；变质
     - vt.
-      - `transmute` 使变形；使变质
+      - `transmute`
+        - 使变形；使变质
   - 近义词
-    - n. 变形；变化；演变
-      - `deformation`
-      - `variation`
-      - `evolution`
-      - `distortion`
-      - `shift`
+    - n.
+      - 变形；变化；演变
+        - `deformation`
+        - `variation`
+        - `evolution`
+        - `distortion`
+        - `shift`

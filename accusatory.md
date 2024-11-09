@@ -1,31 +1,46 @@
 - accusatory
   - 发音
-    - 英 `/ə'kjuːzətəri/`
-    - 美 `/ə'kjuzətɔri/`
+    - 英
+      - `/ə'kjuːzətəri/`
+    - 美
+      - `/ə'kjuzətɔri/`
   - 词义
-    - adj. 非难的，控诉的，指责的
-    - `an accusatory remark or look from someone shows that they think you have done something wrong`
+    - adj.
+      - 非难的，控诉的，指责的
+        - `an accusatory remark or look from someone shows that they think you have done something wrong`
   - 同根词
     - adj.
-      - `accused` 被控告的
-      - `accusing` 指责的；非难的；归咎的
-      - `accusatorial` 责问的；控告者的
+      - `accused`
+        - 被控告的
+      - `accusing`
+        - 指责的；非难的；归咎的
+      - `accusatorial`
+        - 责问的；控告者的
     - n.
-      - `accusation` 控告，指控；谴责
-      - `accused` 被告
-      - `accuser` 原告；控告者；指责者
-      - `accusal` 谴责；控告；罪名（等于accusation）
+      - `accusation`
+        - 控告，指控；谴责
+      - `accused`
+        - 被告
+      - `accuser`
+        - 原告；控告者；指责者
+      - `accusal`
+        - 谴责；控告；罪名（等于accusation）
     - v.
-      - `accused` 指责；控告（accuse的过去式）
-      - `accusing` 指责；指控（accuse的ing形式）
+      - `accused`
+        - 指责；控告（accuse的过去式）
+      - `accusing`
+        - 指责；指控（accuse的ing形式）
     - vi.
-      - `accuse` 指责；控告
+      - `accuse`
+        - 指责；控告
     - vt.
-      - `accuse` 控告，指控；谴责；归咎于
+      - `accuse`
+        - 控告，指控；谴责；归咎于
   - 近义词
-    - adj. 非难的，指责的；控诉的，控告的
-      - `objurgatory`
-      - `denunciatory`
+    - adj.
+      - 非难的，指责的；控诉的，控告的
+        - `objurgatory`
+        - `denunciatory`
   - 例句
     - `...the accusatory tone of the questions.`
       - ...这些问题的非难语气。

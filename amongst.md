@@ -1,13 +1,17 @@
 - amongst
   - 发音
-    - 英 `/ə'mʌŋst/`
-    - 美 `/ə'mʌŋst/`
+    - 英
+      - `/ə'mʌŋst/`
+    - 美
+      - `/ə'mʌŋst/`
   - 词义
-    - prep. 在……中间，在……之中
-    - `in or through the middle of a group of people or things`
+    - prep.
+      - 在……中间，在……之中
+        - `in or through the middle of a group of people or things`
   - 记忆
     - 来自among(prep. 在…中)
   - 近义词
-    - prep. 在…之中；在…当中（等于among）
-      - `in the midst of`
-      - `amidst`
+    - prep.
+      - 在…之中；在…当中（等于among）
+        - `in the midst of`
+        - `amidst`

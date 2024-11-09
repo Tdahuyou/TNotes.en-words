@@ -1,17 +1,22 @@
 - breakwater
   - 发音
-    - 英 `/'breɪkwɔːtə(r)/`
-    - 美 `/'brek'wɔtɚ/`
+    - 英
+      - `/'breɪkwɔːtə(r)/`
+    - 美
+      - `/'brek'wɔtɚ/`
   - 词义
-    - n. 防浪堤
-    - `a wall built out into the sea to protect the shore from the force of the waves`
+    - n.
+      - 防浪堤
+        - `a wall built out into the sea to protect the shore from the force of the waves`
   - 记忆
     - break(超过) + water(水) → 超过水位 → 防浪堤
   - 近义词
-    - n. [水运]防浪堤
-      - `digue`
+    - n.
+      - [水运]防浪堤
+        - `digue`
   - 短语
-    - `mound breakwater` 堆石防波堤；斜坡式防波堤 
+    - `mound breakwater`
+      - 堆石防波堤；斜坡式防波堤 
   - 例句
     - `They riprapped the breakwater with stone.`
       - 他们以乱石基巩固防波堤。

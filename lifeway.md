@@ -1,14 +1,18 @@
 - lifeway
   - 发音
-    - 英 `/'laɪfweɪ/`
-    - 美 `/'laɪf,we/`
+    - 英
+      - `/'laɪfweɪ/`
+    - 美
+      - `/'laɪf,we/`
   - 词义
-    - n. 生活方式,生活
+    - n.
+      - 生活方式,生活
   - 近义词
-    - n. 生活方式；生活
-      - `existence`
-      - `livelihood`
-      - `way of life`
+    - n.
+      - 生活方式；生活
+        - `existence`
+        - `livelihood`
+        - `way of life`
   - 例句
     - `That alternative is to bring freedom back into existence by taking it back - back to the love of freedom, to our lifeway.`
       - 那选择是把自由带回生活存在 夺回来 回到自由的爱 回到我们生活的路.

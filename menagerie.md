@@ -1,13 +1,17 @@
 - menagerie
   - 发音
-    - 英 `/mə'nædʒ(ə)rɪ/`
-    - 美 `/mə'nædʒəri/`
+    - 英
+      - `/mə'nædʒ(ə)rɪ/`
+    - 美
+      - `/mə'nædʒəri/`
   - 词义
-    - n. 动物园,动物展览
+    - n.
+      - 动物园,动物展览
   - 近义词
-    - n. 动物园；动物展览；（马戏团豢养的）兽群
-      - `zoological garden`
-      - `zoological park`
+    - n.
+      - 动物园；动物展览；（马戏团豢养的）兽群
+        - `zoological garden`
+        - `zoological park`
   - 例句
     - `Hey, Beethoven: Get a full-time job, a part-time business, a spouse, a few kids, and a menagerie of pets and wait till you see how many symphonies you can crank out!`
       - 嘿，贝多芬：找到一个全职工作，兼职经商，一个配偶，几个孩子，和一个动物园的宠物，然后等待看你能够制造出多少交响乐。

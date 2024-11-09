@@ -1,11 +1,15 @@
 - Armstrong
   - 发音
-    - 英 `/'ɑːmstrɒŋ/`
-    - 美 `/'ɑ:mstrɔŋ/`
+    - 英
+      - `/'ɑːmstrɒŋ/`
+    - 美
+      - `/'ɑ:mstrɔŋ/`
   - 词义
   - 短语
-    - `neil armstrong` 尼尔·阿姆斯特朗（第一个离开地球踏上月球的人） 
-    - `louis armstrong` 路易斯·阿姆斯特朗（爵士乐家） 
+    - `neil armstrong`
+      - 尼尔·阿姆斯特朗（第一个离开地球踏上月球的人） 
+    - `louis armstrong`
+      - 路易斯·阿姆斯特朗（爵士乐家） 
   - 例句
     - `"One small step for man, " Neil Armstrong said.`
       - “个人一小步”，尼尔.阿姆斯特朗说道。

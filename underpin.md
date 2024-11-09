@@ -1,17 +1,21 @@
 - underpin
   - 发音
-    - 英 `/ˌʌndə'pɪn/`
-    - 美 `/,ʌndɚ'pɪn/`
+    - 英
+      - `/ˌʌndə'pɪn/`
+    - 美
+      - `/,ʌndɚ'pɪn/`
   - 词义
-    - vt. 加固…的基础；加强，巩固
-    - `to give strength or support to something and to help it succeed`
+    - vt.
+      - 加固…的基础；加强，巩固
+        - `to give strength or support to something and to help it succeed`
   - 近义词
-    - vt. 巩固；支持；从下面支撑；加强…的基础
-      - `cement`
-      - `encourage`
-      - `strengthen`
-      - `carry`
-      - `second`
+    - vt.
+      - 巩固；支持；从下面支撑；加强…的基础
+        - `cement`
+        - `encourage`
+        - `strengthen`
+        - `carry`
+        - `second`
   - 例句
     - `the theories that underpin his teaching method`
       - 支持他的教学方法的理论

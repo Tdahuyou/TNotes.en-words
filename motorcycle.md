@@ -1,38 +1,59 @@
 - motorcycle
   - 发音
-    - 英 `/'məʊtəsaɪk(ə)l/`
-    - 美 `/'motɚ'saɪkl/`
+    - 英
+      - `/'məʊtəsaɪk(ə)l/`
+    - 美
+      - `/'motɚ'saɪkl/`
   - 词义
-    - n. 摩托车,机车
-    - `a fast two-wheeled vehicle with an engine`
+    - n.
+      - 摩托车,机车
+        - `a fast two-wheeled vehicle with an engine`
   - 同根词
     - adj.
-      - `motor` 汽车的；机动的
-      - `motorized` 摩托化的；机动化的
+      - `motor`
+        - 汽车的；机动的
+      - `motorized`
+        - 摩托化的；机动化的
     - n.
-      - `motor` 发动机，马达；汽车
-      - `motorcycling` 摩托运动
-      - `motorcyclist` 骑摩托车的人；乘机车者
-      - `motorization` 摩托化；动力化
+      - `motor`
+        - 发动机，马达；汽车
+      - `motorcycling`
+        - 摩托运动
+      - `motorcyclist`
+        - 骑摩托车的人；乘机车者
+      - `motorization`
+        - 摩托化；动力化
     - v.
-      - `motorized` 使…机械化（motorize的过去分词）
-      - `motorcycling` 骑摩托车（motorcycle的ing形式）
+      - `motorized`
+        - 使…机械化（motorize的过去分词）
+      - `motorcycling`
+        - 骑摩托车（motorcycle的ing形式）
     - vi.
-      - `motor` 乘汽车
+      - `motor`
+        - 乘汽车
     - vt.
-      - `motor` 以汽车载运
-      - `motorize` 使摩托化；使机动化
+      - `motor`
+        - 以汽车载运
+      - `motorize`
+        - 使摩托化；使机动化
   - 近义词
-    - n. [车辆]摩托车；机动车
-      - `autocycle`
-      - `motor van`
+    - n.
+      - [车辆]摩托车；机动车
+        - `autocycle`
+        - `motor van`
   - 短语
-    - `motorcycle accessories` 摩托车配件 
-    - `motorcycle engine` 摩托车发动机；摩托车引擎 
-    - `motorcycle helmet` 摩托车头盔 
-    - `motorcycle racing` 摩托车赛 
-    - `motorcycle battery` 摩托车电池 
-    - `motorcycle chain` 摩托车链条 
+    - `motorcycle accessories`
+      - 摩托车配件 
+    - `motorcycle engine`
+      - 摩托车发动机；摩托车引擎 
+    - `motorcycle helmet`
+      - 摩托车头盔 
+    - `motorcycle racing`
+      - 摩托车赛 
+    - `motorcycle battery`
+      - 摩托车电池 
+    - `motorcycle chain`
+      - 摩托车链条 
   - 例句
     - `You'd better encash your motorcycle at once.`
       - 你最好马上卖掉摩托车换成现款。

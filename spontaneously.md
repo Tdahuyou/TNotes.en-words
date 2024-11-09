@@ -1,19 +1,26 @@
 - spontaneously
   - 发音
-    - 英 `/spɒn'teɪnɪəslɪ/`
-    - 美 `/spɔn'teniəsli/`
+    - 英
+      - `/spɒn'teɪnɪəslɪ/`
+    - 美
+      - `/spɔn'teniəsli/`
   - 词义
-    - adv. 自发地
+    - adv.
+      - 自发地
   - 同根词
     - adj.
-      - `spontaneous` 自发的；自然的；无意识的
+      - `spontaneous`
+        - 自发的；自然的；无意识的
     - n.
-      - `spontaneity` 自发性；自然发生
-      - `spontaneousness` 自然；任意
+      - `spontaneity`
+        - 自发性；自然发生
+      - `spontaneousness`
+        - 自然；任意
   - 近义词
-    - adv. 自发地；自然地；不由自主地
-      - `naturally`
-      - `in spite of oneself`
+    - adv.
+      - 自发地；自然地；不由自主地
+        - `naturally`
+        - `in spite of oneself`
   - 例句
     - `Science predicts that many different kinds of universe will be spontaneously created out of nothing.`
       - 霍：科学预言许多不同种类的宇宙会自发地从“无”中被创造出来。

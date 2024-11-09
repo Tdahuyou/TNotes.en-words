@@ -1,10 +1,13 @@
 - mudstone
   - 发音
-    - 英 `/'mʌdstəʊn/`
-    - 美 `/'mʌd,ston/`
+    - 英
+      - `/'mʌdstəʊn/`
+    - 美
+      - `/'mʌd,ston/`
   - 词义
-    - n. [地]泥岩
-    - `a dark grey clay rock similar to shale but with the lamination less well developed `
+    - n.
+      - [地]泥岩
+        - `a dark grey clay rock similar to shale but with the lamination less well developed `
   - 例句
     - `Rocks sculptured by erosion, richly tinted mudstone hills and canyons, luminous sand dunes, and lush oases populate Death Valley National Park.`
       - 在死亡谷国家公园里，有着腐蚀而成的岩石雕刻、富有着色泥岩的山丘和峡谷、发光的沙丘和郁郁葱葱的绿洲。

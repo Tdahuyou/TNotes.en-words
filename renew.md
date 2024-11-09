@@ -1,26 +1,36 @@
 - renew
   - 发音
-    - 英 `/rɪ'njuː/`
-    - 美 `/rɪ'nʊ/`
+    - 英
+      - `/rɪ'njuː/`
+    - 美
+      - `/rɪ'nʊ/`
   - 词义
-    - vt. 使…续期；重新开始；重申；修复
-    - `to begin doing something again after a period of not doing it`
+    - vt.
+      - 使…续期；重新开始；重申；修复
+        - `to begin doing something again after a period of not doing it`
   - 同根词
     - adj.
-      - `renewable` 可再生的；可更新的；可继续的
-      - `renewed` 更新的；复兴的；重建的
+      - `renewable`
+        - 可再生的；可更新的；可继续的
+      - `renewed`
+        - 更新的；复兴的；重建的
     - n.
-      - `renewal` 更新，恢复；复兴；补充；革新；续借；重申
-      - `renewable` 再生性能源
+      - `renewal`
+        - 更新，恢复；复兴；补充；革新；续借；重申
+      - `renewable`
+        - 再生性能源
     - v.
-      - `renewed` 更新；恢复（renew的过去分词）
+      - `renewed`
+        - 更新；恢复（renew的过去分词）
   - 近义词
-    - vt. 使更新；续借；复兴；重申
-      - `reiterate`
-      - `reaffirm`
-    - vi. 更新；重新开始
-      - `to update`
-      - `start over`
+    - vt.
+      - 使更新；续借；复兴；重申
+        - `reiterate`
+        - `reaffirm`
+    - vi.
+      - 更新；重新开始
+        - `to update`
+        - `start over`
   - 例句
     - `Local people have renewed their efforts to save the school.`
       - 当地居民再一次作出努力，挽救这所学校。

@@ -1,21 +1,27 @@
 - contrived
   - 发音
-    - 英 `/kən'traɪvd/`
-    - 美 `/kən'traɪvd/`
+    - 英
+      - `/kən'traɪvd/`
+    - 美
+      - `/kən'traɪvd/`
   - 词义
-    - adj. 不自然的；人为的
-    - `seeming false and not natural`
+    - adj.
+      - 不自然的；人为的
+        - `seeming false and not natural`
   - 记忆
     - contri(看作contra， 反) + ve(=vene走) + d → 故意反着走 → 不自然的； 人为的
   - 同根词
     - vi.
-      - `contrive` 谋划；设法做到
+      - `contrive`
+        - 谋划；设法做到
     - vt.
-      - `contrive` 设计；发明；图谋
+      - `contrive`
+        - 设计；发明；图谋
   - 近义词
-    - adj. 人为的；做作的；不自然的
-      - `affected`
-      - `factitious`
+    - adj.
+      - 人为的；做作的；不自然的
+        - `affected`
+        - `factitious`
   - 例句
     - `The characters are as contrived as the plot.`
       - 这些人物和情节一样不自然。

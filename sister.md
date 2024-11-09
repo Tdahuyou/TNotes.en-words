@@ -1,35 +1,56 @@
 - sister
   - 发音
-    - 英 `/'sɪstə/`
-    - 美 `/'sɪstɚ/`
+    - 英
+      - `/'sɪstə/`
+    - 美
+      - `/'sɪstɚ/`
   - 词义
-    - n. 姐；妹
-    - `a girl or woman who has the same parents as you`
+    - n.
+      - 姐；妹
+        - `a girl or woman who has the same parents as you`
   - 同根词
     - adj.
-      - `sisterly` 像姊妹的；姊妹一般的
+      - `sisterly`
+        - 像姊妹的；姊妹一般的
     - n.
-      - `sis` 姐妹（等于sister）
-      - `sisterhood` 姐妹关系；妇女团体
-      - `sistership` 姐妹之谊；姐妹关系；妇女团体（等于sisterhood）
-  - 近义词
-    - n. 姐妹；修女；护士
       - `sis`
-      - `tittie`
+        - 姐妹（等于sister）
+      - `sisterhood`
+        - 姐妹关系；妇女团体
+      - `sistership`
+        - 姐妹之谊；姐妹关系；妇女团体（等于sisterhood）
+  - 近义词
+    - n.
+      - 姐妹；修女；护士
+        - `sis`
+        - `tittie`
   - 短语
-    - `younger sister` 妹妹 
-    - `elder sister` 姐姐，姊姊 
-    - `little sister` 小妹妹，小女孩 
-    - `older sister` 姐姐 
-    - `twin sister` 双胞胎姐妹之一 
-    - `eldest sister` 长姊，大姐 
-    - `sister company` 姐妹公司 
-    - `sister school` 姊妹校 
-    - `sister chromatid` 姊妹染色半体 
-    - `sister city` 姐妹城市；友好城市 
-    - `sister in law` 嫂子；姑子；姨子；弟媳；妯娌 
-    - `sister ship` 姐妹船，姊妹船；同型船；姊妹舰 
-    - `half sister` 同父异母或同母异父姐妹 
+    - `younger sister`
+      - 妹妹 
+    - `elder sister`
+      - 姐姐，姊姊 
+    - `little sister`
+      - 小妹妹，小女孩 
+    - `older sister`
+      - 姐姐 
+    - `twin sister`
+      - 双胞胎姐妹之一 
+    - `eldest sister`
+      - 长姊，大姐 
+    - `sister company`
+      - 姐妹公司 
+    - `sister school`
+      - 姊妹校 
+    - `sister chromatid`
+      - 姊妹染色半体 
+    - `sister city`
+      - 姐妹城市；友好城市 
+    - `sister in law`
+      - 嫂子；姑子；姨子；弟媳；妯娌 
+    - `sister ship`
+      - 姐妹船，姊妹船；同型船；姊妹舰 
+    - `half sister`
+      - 同父异母或同母异父姐妹 
   - 例句
     - `Janet and Abby are sisters.`
       - 珍妮特和阿比是两姐妹。

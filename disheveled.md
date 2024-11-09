@@ -1,22 +1,29 @@
 - disheveled
   - 发音
-    - 英 `/dɪ'ʃevld/`
-    - 美 `/undefined/`
+    - 英
+      - `/dɪ'ʃevld/`
+    - 美
+      - `/undefined/`
   - 词义
-    - adj. 不整的，凌乱的
+    - adj.
+      - 不整的，凌乱的
   - 记忆
     - 来自dishevel(v. 使蓬乱)
   - 同根词
     - adj.
-      - `dishevelled` 散乱的；蓬乱的
+      - `dishevelled`
+        - 散乱的；蓬乱的
     - v.
-      - `dishevelled` 使蓬乱；使头发凌乱；使衣服弄皱（dishevel的过去式）
+      - `dishevelled`
+        - 使蓬乱；使头发凌乱；使衣服弄皱（dishevel的过去式）
     - vt.
-      - `dishevel` 使蓬乱；使头发凌乱；弄乱
+      - `dishevel`
+        - 使蓬乱；使头发凌乱；弄乱
   - 近义词
-    - adj. 不整洁的；凌乱的
-      - `untidy`
-      - `draggly`
+    - adj.
+      - 不整洁的；凌乱的
+        - `untidy`
+        - `draggly`
   - 例句
     - `A disheveled pile of books on the library table.`
       - 图书馆的桌子上摆着一堆凌乱不整的书。

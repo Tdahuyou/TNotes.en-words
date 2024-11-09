@@ -1,25 +1,34 @@
 - crave
   - 发音
-    - 英 `/kreɪv/`
-    - 美 `/krev/`
+    - 英
+      - `/kreɪv/`
+    - 美
+      - `/krev/`
   - 词义
-    - v. 渴望；恳求
-    - `to have an extremely strong desire for something`
-    - n. (Crave)人名；(法)克拉夫
+    - v.
+      - 渴望；恳求
+        - `to have an extremely strong desire for something`
+    - n.
+      - (Crave)人名；(法)克拉夫
   - 同根词
     - n.
-      - `craving` 渴望；热望
+      - `craving`
+        - 渴望；热望
     - v.
-      - `craving` 渴望；恳求（crave的ing形式）
+      - `craving`
+        - 渴望；恳求（crave的ing形式）
   - 近义词
-    - vt. 渴望；恳求
-      - `wish`
-      - `long for`
-    - vi. 渴望；恳求
-      - `rare`
-      - `aspire`
+    - vt.
+      - 渴望；恳求
+        - `wish`
+        - `long for`
+    - vi.
+      - 渴望；恳求
+        - `rare`
+        - `aspire`
   - 短语
-    - `crave for` 渴望 
+    - `crave for`
+      - 渴望 
   - 例句
     - `an insecure child who craves attention`
       - 缺乏安全感、渴望被关注的孩子

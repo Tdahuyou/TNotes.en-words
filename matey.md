@@ -1,24 +1,32 @@
 - matey
   - 发音
-    - 英 `/'meɪtɪ/`
-    - 美 `/'meti/`
+    - 英
+      - `/'meɪtɪ/`
+    - 美
+      - `/'meti/`
   - 词义
-    - adj. 平易近人的,友好的
-    - `behaving as if you were someone’s friend`
+    - adj.
+      - 平易近人的,友好的
+        - `behaving as if you were someone’s friend`
   - 同根词
     - n.
-      - `mate` 助手，大副；配偶；同事；配对物
+      - `mate`
+        - 助手，大副；配偶；同事；配对物
     - vi.
-      - `mate` 交配；成配偶；紧密配合
+      - `mate`
+        - 交配；成配偶；紧密配合
     - vt.
-      - `mate` 使配对；使一致；结伴
+      - `mate`
+        - 使配对；使一致；结伴
   - 近义词
-    - adj. 友好的；易为人亲近的
-      - `friendly`
-      - `amicable`
-    - n. 伙伴；朋友
-      - `friend`
-      - `partner`
-      - `comrade`
-      - `fellow`
-      - `cobber`
+    - adj.
+      - 友好的；易为人亲近的
+        - `friendly`
+        - `amicable`
+    - n.
+      - 伙伴；朋友
+        - `friend`
+        - `partner`
+        - `comrade`
+        - `fellow`
+        - `cobber`

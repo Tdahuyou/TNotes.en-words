@@ -1,28 +1,39 @@
 - humid
   - 发音
-    - 英 `/'hjuːmɪd/`
-    - 美 `/'hjumɪd/`
+    - 英
+      - `/'hjuːmɪd/`
+    - 美
+      - `/'hjumɪd/`
   - 词义
-    - adj. 湿的，潮湿的；湿润的
-    - `if the weather is humid, you feel uncomfortable because the air is very wet and usually hot`
+    - adj.
+      - 湿的，潮湿的；湿润的
+        - `if the weather is humid, you feel uncomfortable because the air is very wet and usually hot`
   - 记忆
     - hum(嗡嗡声) + id → 蚊虫发出嗡嗡声， 潮湿的地方多蚊虫 → 潮湿的
   - 同根词
     - adj.
-      - `humectant` 湿润的；湿润剂的
+      - `humectant`
+        - 湿润的；湿润剂的
     - n.
-      - `humidity` [气象] 湿度；湿气
-      - `humectant` [助剂] 湿润剂
+      - `humidity`
+        - [气象] 湿度；湿气
+      - `humectant`
+        - [助剂] 湿润剂
     - vt.
-      - `humidify` 使潮湿；使湿润
+      - `humidify`
+        - 使潮湿；使湿润
   - 近义词
-    - adj. [气象][物]潮湿的；湿润的；多湿气的
-      - `wet`
-      - `moisty`
+    - adj.
+      - [气象][物]潮湿的；湿润的；多湿气的
+        - `wet`
+        - `moisty`
   - 短语
-    - `humid climate` 湿润气候；潮湿气候 
-    - `humid air` 湿空气 
-    - `humid heat` 湿比热；湿润比热 
+    - `humid climate`
+      - 湿润气候；潮湿气候 
+    - `humid air`
+      - 湿空气 
+    - `humid heat`
+      - 湿比热；湿润比热 
   - 例句
     - `Tokyo is extremely humid in mid-summer.`
       - 仲夏的东京十分潮湿。

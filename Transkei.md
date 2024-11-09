@@ -1,9 +1,12 @@
 - Transkei
   - 发音
-    - 英 `/træns'kei; -'kai/`
-    - 美 `/træns'kei; -'kai/`
+    - 英
+      - `/træns'kei; -'kai/`
+    - 美
+      - `/træns'kei; -'kai/`
   - 词义
-    - n. 特兰斯凯（南非东南部一地区）
+    - n.
+      - 特兰斯凯（南非东南部一地区）
   - 例句
     - `Nelson Mandela was born in a small village in the Transkei region of South Africa. He eas born on 18th July, 1918.`
       - 纳尔森·曼德拉1918年七月18日出生在南非特兰斯凯地区的一个小村庄。

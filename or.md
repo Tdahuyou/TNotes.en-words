@@ -1,14 +1,18 @@
 - or
   - 发音
-    - 英 `/ɔː/`
-    - 美 `/ɔr/`
+    - 英
+      - `/ɔː/`
+    - 美
+      - `/ɔr/`
   - 词义
-    - conj. 或者
-    - `used between two words or phrases to show that either of two things is possible, or used before the last in a list of possibilities or choices`
+    - conj.
+      - 或者
+        - `used between two words or phrases to show that either of two things is possible, or used before the last in a list of possibilities or choices`
   - 近义词
-    - conj. 或，或者；还是
-      - `either`
-      - `ossia`
+    - conj.
+      - 或，或者；还是
+        - `either`
+        - `ossia`
   - 例句
     - `Shall we go out to the cinema or stay at home?`
       - 我们是出去看电影还是待在家里？

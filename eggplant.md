@@ -1,16 +1,20 @@
 - eggplant
   - 发音
-    - 英 `/'egplɑːnt/`
-    - 美 `/'ɛɡplænt/`
+    - 英
+      - `/'egplɑːnt/`
+    - 美
+      - `/'ɛɡplænt/`
   - 词义
-    - n. 茄子
-    - `a large vegetable with smooth purple skin`
+    - n.
+      - 茄子
+        - `a large vegetable with smooth purple skin`
   - 记忆
     - egg(蛋) +plant(植物) →蛋形的植物→茄子
   - 近义词
-    - n. [园艺]茄子
-      - `brinjal`
-      - `egg apple`
+    - n.
+      - [园艺]茄子
+        - `brinjal`
+        - `egg apple`
   - 例句
     - `Spinach and eggplant.`
       - 菠菜和茄子。

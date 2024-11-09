@@ -1,19 +1,27 @@
 - mottle
   - 发音
-    - 英 `/'mɒt(ə)l/`
-    - 美 `/'mɑtl/`
+    - 英
+      - `/'mɒt(ə)l/`
+    - 美
+      - `/'mɑtl/`
   - 词义
-    - v. 使有斑点n杂色,斑点
-    - `to colour with streaks or blotches of different shades `
+    - v.
+      - 使有斑点n杂色,斑点
+        - `to colour with streaks or blotches of different shades `
   - 同根词
     - adj.
-      - `mottled` 斑驳的，杂色的
+      - `mottled`
+        - 斑驳的，杂色的
     - n.
-      - `mottling` 斑点状阴影
+      - `mottling`
+        - 斑点状阴影
     - v.
-      - `mottled` 使成杂色（mottle的过去分词）
-      - `mottling` 使成杂色（mottle的ing形式）
+      - `mottled`
+        - 使成杂色（mottle的过去分词）
+      - `mottling`
+        - 使成杂色（mottle的ing形式）
   - 近义词
-    - n. 斑点；杂色；斑驳
-      - `spot`
-      - `patch`
+    - n.
+      - 斑点；杂色；斑驳
+        - `spot`
+        - `patch`

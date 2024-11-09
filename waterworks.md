@@ -1,14 +1,18 @@
 - waterworks
   - 发音
-    - 英 `/'wɔːtəwɜːks/`
-    - 美 `/'wɔtɚwɝks/`
+    - 英
+      - `/'wɔːtəwɜːks/`
+    - 美
+      - `/'wɔtɚwɝks/`
   - 词义
-    - n. 自来水厂,供水系统
-    - `the system of pipes and water supplies in a town or city`
+    - n.
+      - 自来水厂,供水系统
+        - `the system of pipes and water supplies in a town or city`
   - 近义词
-    - n. 自来水厂；供水系统；喷泉；眼泪
-      - `tears`
-      - `geyser`
+    - n.
+      - 自来水厂；供水系统；喷泉；眼泪
+        - `tears`
+        - `geyser`
   - 例句
     - `He has a job at the waterworks.`
       - 他在自来水厂工作。

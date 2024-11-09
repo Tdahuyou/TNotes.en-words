@@ -1,28 +1,39 @@
 - interrogate
   - 发音
-    - 英 `/ɪn'terəgeɪt/`
-    - 美 `/ɪn'tɛrəɡet/`
+    - 英
+      - `/ɪn'terəgeɪt/`
+    - 美
+      - `/ɪn'tɛrəɡet/`
   - 词义
-    - vt. 审问，讯问，盘问
-    - `to ask someone a lot of questions for a long time in order to get information, sometimes using threats`
+    - vt.
+      - 审问，讯问，盘问
+        - `to ask someone a lot of questions for a long time in order to get information, sometimes using threats`
   - 记忆
     - inter(在…之间) + rog(问) + ate → 在中间问 → 审问， 讯问， 盘问
   - 同根词
     - adj.
-      - `interrogative` 疑问的；质问的
-      - `interrogatory` 质问的；疑问的
+      - `interrogative`
+        - 疑问的；质问的
+      - `interrogatory`
+        - 质问的；疑问的
     - n.
-      - `interrogation` 讯问；审问；[语] 疑问句
-      - `interrogative` 疑问词
-      - `interrogator` 质问者；询问机
-      - `interrogatory` 质问；疑问
+      - `interrogation`
+        - 讯问；审问；[语] 疑问句
+      - `interrogative`
+        - 疑问词
+      - `interrogator`
+        - 质问者；询问机
+      - `interrogatory`
+        - 质问；疑问
   - 近义词
-    - vt. 审问；质问；[计]询问
-      - `question`
-      - `query`
-    - vi. 审问；质问
-      - `question`
-      - `bring to account`
+    - vt.
+      - 审问；质问；[计]询问
+        - `question`
+        - `query`
+    - vi.
+      - 审问；质问
+        - `question`
+        - `bring to account`
   - 例句
     - `The police interrogated the suspect for several hours.`
       - 警察盘问了这名嫌疑犯好几个小时。

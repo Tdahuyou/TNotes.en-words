@@ -1,16 +1,20 @@
 - tripod
   - 发音
-    - 英 `/'traipɔd/`
-    - 美 `/'traɪpɑd/`
+    - 英
+      - `/'traipɔd/`
+    - 美
+      - `/'traɪpɑd/`
   - 词义
-    - n. 三脚桌；三脚架
-    - `a support with three legs, used for a piece of equipment, camera etc`
+    - n.
+      - 三脚桌；三脚架
+        - `a support with three legs, used for a piece of equipment, camera etc`
   - 记忆
     - tri (三) + pod (脚) → 三脚架
   - 近义词
-    - n. [摄]三脚架；三脚桌
-      - `spider`
-      - `trivet`
+    - n.
+      - [摄]三脚架；三脚桌
+        - `spider`
+        - `trivet`
   - 例句
     - `I need a tripod for my camera.`
       - 我要给我的照相机买一部三脚架。

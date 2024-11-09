@@ -1,28 +1,40 @@
 - famous
   - 发音
-    - 英 `/'feɪməs/`
-    - 美 `/'feməs/`
+    - 英
+      - `/'feɪməs/`
+    - 美
+      - `/'feməs/`
   - 词义
-    - adj. 著名的
-    - `known about by many people in many places`
+    - adj.
+      - 著名的
+        - `known about by many people in many places`
   - 同根词
     - adv.
-      - `famously` 著名地；极好地
+      - `famously`
+        - 著名地；极好地
   - 近义词
-    - adj. 著名的；极好的，非常令人满意的
-      - `noted`
-      - `wonderful`
-      - `excellent`
-      - `super`
-      - `great`
+    - adj.
+      - 著名的；极好的，非常令人满意的
+        - `noted`
+        - `wonderful`
+        - `excellent`
+        - `super`
+        - `great`
   - 短语
-    - `famous brand` 名牌，名牌货 
-    - `famous for` 以…著称，闻名 
-    - `famous trademark` 著名商标；驰名商标 
-    - `famous scenic spot` 胜地 
-    - `famous cultural city` 文化名城 
-    - `famous works of art` 著名的艺术作品 
-    - `famous historical city` 历史名城 
+    - `famous brand`
+      - 名牌，名牌货 
+    - `famous for`
+      - 以…著称，闻名 
+    - `famous trademark`
+      - 著名商标；驰名商标 
+    - `famous scenic spot`
+      - 胜地 
+    - `famous cultural city`
+      - 文化名城 
+    - `famous works of art`
+      - 著名的艺术作品 
+    - `famous historical city`
+      - 历史名城 
   - 例句
     - `a famous actor`
       - 著名演员

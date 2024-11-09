@@ -1,10 +1,13 @@
 - bushfire
   - 发音
-    - 英 `/'bʊʃ,faɪə/`
-    - 美 `/'buʃ,faiə/`
+    - 英
+      - `/'bʊʃ,faɪə/`
+    - 美
+      - `/'buʃ,faiə/`
   - 词义
-    - n. 林区大火
-    - `an uncontrolled fire in the bush; a scrub or forest fire `
+    - n.
+      - 林区大火
+        - `an uncontrolled fire in the bush; a scrub or forest fire `
   - 例句
     - `A smouldering cigarette can kindle a devastating bushfire.`
       - 闷燃着的香烟会引起毁灭性的林区大火。

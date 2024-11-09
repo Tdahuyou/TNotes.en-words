@@ -1,9 +1,12 @@
 - Freddy
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 弗雷迪（男名）
+    - n.
+      - 弗雷迪（男名）
   - 例句
     - `Freddy the Pharisee: Rigid, narrow-minded, and legalistic, he has a rule for everything.`
       - 弗雷迪 法利赛人：顽固，狭隘，墨守陈规，他对一切事物都制定了规则。

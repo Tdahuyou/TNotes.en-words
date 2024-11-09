@@ -1,14 +1,18 @@
 - marsupial
   - 发音
-    - 英 `/mɑː'suːpɪəl/`
-    - 美 `/mɑr'supɪəl/`
+    - 英
+      - `/mɑː'suːpɪəl/`
+    - 美
+      - `/mɑr'supɪəl/`
   - 词义
-    - n. 有袋动物a有袋动物的
-    - `an animal such as a  kangaroo  which carries its babies in a pocket of skin on its body`
+    - n.
+      - 有袋动物a有袋动物的
+        - `an animal such as a  kangaroo  which carries its babies in a pocket of skin on its body`
   - 近义词
-    - adj. [脊椎]有袋的；袋状的
-      - `pouchy`
-      - `baggy`
+    - adj.
+      - [脊椎]有袋的；袋状的
+        - `pouchy`
+        - `baggy`
   - 例句
     - `A University of Muenster team drew up a marsupial family tree based on DNA.`
       - 明斯特的一所大学的研究小组构建了一株有袋类动物家族的DNA基因树图谱。

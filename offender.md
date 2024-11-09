@@ -1,34 +1,50 @@
 - offender
   - 发音
-    - 英 `/ə'fendə(r)/`
-    - 美 `/ə'fɛndɚ/`
+    - 英
+      - `/ə'fendə(r)/`
+    - 美
+      - `/ə'fɛndɚ/`
   - 词义
-    - n. 罪犯；冒犯者；违法者
-    - `someone who is guilty of a crime`
+    - n.
+      - 罪犯；冒犯者；违法者
+        - `someone who is guilty of a crime`
   - 同根词
     - adj.
-      - `offensive` 攻击的；冒犯的；无礼的；讨厌的
-      - `offending` 不愉快的；厌恶的
+      - `offensive`
+        - 攻击的；冒犯的；无礼的；讨厌的
+      - `offending`
+        - 不愉快的；厌恶的
     - adv.
-      - `offensively` 冒犯地；讨厌地
+      - `offensively`
+        - 冒犯地；讨厌地
     - n.
-      - `offensive` 攻势；攻击
-      - `offence` 犯罪；违反；过错；攻击
-      - `offense` 犯罪，过错；进攻；触怒；引起反感的事物
-      - `offensiveness` 冒犯；令人讨厌；进攻
+      - `offensive`
+        - 攻势；攻击
+      - `offence`
+        - 犯罪；违反；过错；攻击
+      - `offense`
+        - 犯罪，过错；进攻；触怒；引起反感的事物
+      - `offensiveness`
+        - 冒犯；令人讨厌；进攻
     - v.
-      - `offending` 冒犯（offend的ing形式）
+      - `offending`
+        - 冒犯（offend的ing形式）
     - vi.
-      - `offend` 违反；进攻；引起不舒服
+      - `offend`
+        - 违反；进攻；引起不舒服
     - vt.
-      - `offend` 冒犯；使…不愉快
+      - `offend`
+        - 冒犯；使…不愉快
   - 近义词
-    - n. 罪犯；冒犯者；违法者
-      - `criminal`
-      - `culprit`
+    - n.
+      - 罪犯；冒犯者；违法者
+        - `criminal`
+        - `culprit`
   - 短语
-    - `sex offender` 性犯罪者 
-    - `criminal offender` 罪犯；犯罪者 
+    - `sex offender`
+      - 性犯罪者 
+    - `criminal offender`
+      - 罪犯；犯罪者 
   - 例句
     - `Community punishment is used for less serious offenders.`
       - 社区服务刑被用来处罚犯罪情节较轻者。

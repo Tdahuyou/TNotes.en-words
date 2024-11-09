@@ -1,18 +1,26 @@
 - holographic
   - 发音
-    - 英 `/,hɒlə'ɡræfɪk/`
-    - 美 `/,hɑlə'ɡræfɪk/`
+    - 英
+      - `/,hɒlə'ɡræfɪk/`
+    - 美
+      - `/,hɑlə'ɡræfɪk/`
   - 词义
-    - adj. 全息照相的
-    - `of, relating to, or produced using holograms; three-dimensional `
+    - adj.
+      - 全息照相的
+        - `of, relating to, or produced using holograms; three-dimensional `
   - 同根词
     - n.
-      - `hologram` [激光] 全息图；全息摄影，全息照相
-      - `holography` 全息术；全息摄影；[摄][激光] 全息照相术
+      - `hologram`
+        - [激光] 全息图；全息摄影，全息照相
+      - `holography`
+        - 全息术；全息摄影；[摄][激光] 全息照相术
   - 短语
-    - `holographic interferometry` 全息干涉量度学 
-    - `holographic grating` [化]全息照相栅 
-    - `holographic technique` 全息摄影技术 
+    - `holographic interferometry`
+      - 全息干涉量度学 
+    - `holographic grating`
+      - [化]全息照相栅 
+    - `holographic technique`
+      - 全息摄影技术 
   - 例句
     - `When Hogan first realised this, he wondered if any experiment might be able to detect the holographic blurriness of space-time.`
       - 当霍根第一次意识到这一点时，他急欲知道是否有实验能够探测时空的全息模糊度。

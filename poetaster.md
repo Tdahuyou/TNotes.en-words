@@ -1,11 +1,15 @@
 - poetaster
   - 发音
-    - 英 `/,pəʊɪ'tæstə/`
-    - 美 `/'poɪ,tæstɚ/`
+    - 英
+      - `/,pəʊɪ'tæstə/`
+    - 美
+      - `/'poɪ,tæstɚ/`
   - 词义
-    - n. 打油诗人,劣等诗人
-    - `a writer of inferior verse `
+    - n.
+      - 打油诗人,劣等诗人
+        - `a writer of inferior verse `
   - 近义词
-    - n. 打油诗人；蹩脚诗人
-      - `versemonger`
-      - `rimester`
+    - n.
+      - 打油诗人；蹩脚诗人
+        - `versemonger`
+        - `rimester`

@@ -1,22 +1,31 @@
 - extroversion
   - 发音
-    - 英 `/ˌekstrə'vəːʃən/`
-    - 美 `/,ɛkstro'vɝʃən/`
+    - 英
+      - `/ˌekstrə'vəːʃən/`
+    - 美
+      - `/,ɛkstro'vɝʃən/`
   - 词义
-    - n. 外向；外倾
-    - `the directing of one's interest outwards, esp towards social contacts `
+    - n.
+      - 外向；外倾
+        - `the directing of one's interest outwards, esp towards social contacts `
   - 同根词
     - adj.
-      - `extroverted` 性格外向的；外向性的；喜社交的
-      - `extroversive` 外向的；向外翻的；外倾的
-      - `extrovertish` 如外向者的；外向者的
-      - `extrovertive` 偏向于外向的；外向的
+      - `extroverted`
+        - 性格外向的；外向性的；喜社交的
+      - `extroversive`
+        - 外向的；向外翻的；外倾的
+      - `extrovertish`
+        - 如外向者的；外向者的
+      - `extrovertive`
+        - 偏向于外向的；外向的
     - n.
-      - `extrovert` 外向；外倾者；性格外向者（等于extravert）
+      - `extrovert`
+        - 外向；外倾者；性格外向者（等于extravert）
   - 近义词
-    - n. [心理]外向性；[医]外翻
-      - `exstrophy`
-      - `ectropion`
+    - n.
+      - [心理]外向性；[医]外翻
+        - `exstrophy`
+        - `ectropion`
   - 例句
     - `An ordinary person comparative extroversion of personality.`
       - 是一个普通的人，性格比较外向的。

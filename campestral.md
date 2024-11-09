@@ -1,14 +1,18 @@
 - campestral
   - 发音
-    - 英 `/kæm'pestrəl/`
-    - 美 `/kæm'pɛstrəl/`
+    - 英
+      - `/kæm'pestrəl/`
+    - 美
+      - `/kæm'pɛstrəl/`
   - 词义
-    - adj. 田野的,乡间的
-    - `of or relating to open fields or country `
+    - adj.
+      - 田野的,乡间的
+        - `of or relating to open fields or country `
   - 近义词
-    - adj. [动]田野的；农村的
-      - `rural`
-      - `sylvan`
+    - adj.
+      - [动]田野的；农村的
+        - `rural`
+        - `sylvan`
   - 例句
     - `On the molecular level becoming a kind of maize inbred line, finding a certain similarity on the campestral agronomic characters.`
       - 自交系各处理分子上聚为一类的材料，在田间的农艺性状表现出一定相似性。

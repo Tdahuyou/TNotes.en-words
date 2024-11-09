@@ -1,18 +1,25 @@
 - inanity
   - 发音
-    - 英 `/ɪ'nænəti/`
-    - 美 `/i'nænəti/`
+    - 英
+      - `/ɪ'nænəti/`
+    - 美
+      - `/i'nænəti/`
   - 词义
-    - n. 空虚，空洞；无意义的事物
+    - n.
+      - 空虚，空洞；无意义的事物
   - 同根词
     - adj.
-      - `inane` 空洞的，空虚的；愚蠢的
+      - `inane`
+        - 空洞的，空虚的；愚蠢的
     - adv.
-      - `inanely` 空洞地；愚蠢地
+      - `inanely`
+        - 空洞地；愚蠢地
     - n.
-      - `inanition` 空虚；营养不足；死气沉沉
+      - `inanition`
+        - 空虚；营养不足；死气沉沉
   - 近义词
-    - n. 空虚；愚蠢；浅薄
-      - `blank`
-      - `emptiness`
-      - `simplicity`
+    - n.
+      - 空虚；愚蠢；浅薄
+        - `blank`
+        - `emptiness`
+        - `simplicity`

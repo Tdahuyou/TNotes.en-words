@@ -1,25 +1,37 @@
 - bacterium
   - 发音
-    - 英 `/bæk'tɪərɪəm/`
-    - 美 `/bæk'tɪrɪəm/`
+    - 英
+      - `/bæk'tɪərɪəm/`
+    - 美
+      - `/bæk'tɪrɪəm/`
   - 词义
-    - n. 细菌
+    - n.
+      - 细菌
   - 同根词
     - adj.
-      - `bacteriological` 细菌学的，[微] 细菌学上的
-      - `bacteriologic` 细菌学的
-      - `bacteriostatic` 阻止细菌繁殖法的，抑制细菌的
-      - `bacteroidal` 细菌性的；假细菌的
+      - `bacteriological`
+        - 细菌学的，[微] 细菌学上的
+      - `bacteriologic`
+        - 细菌学的
+      - `bacteriostatic`
+        - 阻止细菌繁殖法的，抑制细菌的
+      - `bacteroidal`
+        - 细菌性的；假细菌的
     - n.
-      - `bacteriology` 细菌学
-      - `bacteriolysis` [生化] 溶菌作用；细菌分解处理
-      - `bacteriostasis` 细菌抑制，[微] 制菌作用
+      - `bacteriology`
+        - 细菌学
+      - `bacteriolysis`
+        - [生化] 溶菌作用；细菌分解处理
+      - `bacteriostasis`
+        - 细菌抑制，[微] 制菌作用
   - 近义词
-    - n. [微]细菌；杆菌属
-      - `microbe`
-      - `bacilus`
+    - n.
+      - [微]细菌；杆菌属
+        - `microbe`
+        - `bacilus`
   - 短语
-    - `acetic acid bacterium` 醋细菌 
+    - `acetic acid bacterium`
+      - 醋细菌 
   - 例句
     - `It was so large and complex, they initially assumed it was a bacterium.`
       - 由于它们是如此庞大和复杂，最初被认为是一种细菌。

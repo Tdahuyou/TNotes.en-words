@@ -1,14 +1,22 @@
 - rusticate
   - 发音
-    - 英 `/'rʌstɪkeɪt/`
-    - 美 `/'rʌstɪ,ket/`
+    - 英
+      - `/'rʌstɪkeɪt/`
+    - 美
+      - `/'rʌstɪ,ket/`
   - 词义
-    - v. 去乡下,使定居乡下
+    - v.
+      - 去乡下,使定居乡下
   - 同根词
     - adj.
-      - `rustic` 乡村的；纯朴的；粗野的；手工粗糙的
+      - `rustic`
+        - 乡村的；纯朴的；粗野的；手工粗糙的
     - n.
-      - `rustic` 乡下人；乡巴佬
-      - `rustication` 乡村生活；停学
-      - `rusticism` 乡土用语；乡土行为
-      - `rusticity` 质朴；乡村式；田园生活；乡气
+      - `rustic`
+        - 乡下人；乡巴佬
+      - `rustication`
+        - 乡村生活；停学
+      - `rusticism`
+        - 乡土用语；乡土行为
+      - `rusticity`
+        - 质朴；乡村式；田园生活；乡气

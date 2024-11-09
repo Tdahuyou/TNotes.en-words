@@ -1,16 +1,21 @@
 - contuse
   - 发音
-    - 英 `/kən'tjuːz/`
-    - 美 `/kən'tjʊz/`
+    - 英
+      - `/kən'tjuːz/`
+    - 美
+      - `/kən'tjʊz/`
   - 词义
-    - v. 打伤,挫伤,撞伤
-    - `to injure (the body) without breaking the skin; bruise `
+    - v.
+      - 打伤,挫伤,撞伤
+        - `to injure (the body) without breaking the skin; bruise `
   - 同根词
     - n.
-      - `contusion` 挫伤；撞伤；青肿
+      - `contusion`
+        - 挫伤；撞伤；青肿
   - 近义词
-    - vt. 挫伤；撞伤；捣碎
-      - `quash`
+    - vt.
+      - 挫伤；撞伤；捣碎
+        - `quash`
   - 例句
     - `The sports trauma not only damage their health, which contuse the enthusiasm of physical activity, but also effect normal study living, indeed the suffering of mentally and physical.`
       - 学生在运动中受了伤，不仅损害健康，挫伤体育活动的积极性，而且影响正常的生活、学习，甚至给学生造成生理和心理上的痛苦。

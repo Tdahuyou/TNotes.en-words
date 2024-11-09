@@ -1,23 +1,34 @@
 - historian
   - 发音
-    - 英 `/hɪ'stɔːrɪən/`
-    - 美 `/hɪ'stɔrɪən/`
+    - 英
+      - `/hɪ'stɔːrɪən/`
+    - 美
+      - `/hɪ'stɔrɪən/`
   - 词义
-    - n. 历史学家
-    - `A historian is a person who specializes in the study of history, and who writes books and articles about it`
+    - n.
+      - 历史学家
+        - `A historian is a person who specializes in the study of history, and who writes books and articles about it`
   - 同根词
     - adj.
-      - `historical` 历史的；史学的；基于史实的
-      - `historic` 有历史意义的；历史上著名的
-      - `historied` 有历史的；史上所载的
+      - `historical`
+        - 历史的；史学的；基于史实的
+      - `historic`
+        - 有历史意义的；历史上著名的
+      - `historied`
+        - 有历史的；史上所载的
     - adv.
-      - `historically` 历史上地；从历史观点上说
+      - `historically`
+        - 历史上地；从历史观点上说
     - n.
-      - `history` 历史，历史学；历史记录；来历
-      - `historiography` 编史；历史编纂学
-      - `historiographer` 历史学家；史料编纂者
+      - `history`
+        - 历史，历史学；历史记录；来历
+      - `historiography`
+        - 编史；历史编纂学
+      - `historiographer`
+        - 历史学家；史料编纂者
   - 短语
-    - `natural historian` 博物学家 
+    - `natural historian`
+      - 博物学家 
   - 例句
     - `I am a historian, and I teach in an American university.`
       - 我是一位历史学家，在美国一所大学任教。

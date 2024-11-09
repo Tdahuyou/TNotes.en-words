@@ -1,25 +1,34 @@
 - disabled
   - 发音
-    - 英 `/dɪs'eɪbld/`
-    - 美 `/dɪs'ebld/`
+    - 英
+      - `/dɪs'eɪbld/`
+    - 美
+      - `/dɪs'ebld/`
   - 词义
-    - adj. 伤残的
-    - `someone who is disabled cannot use a part of their body properly, or cannot learn easily`
+    - adj.
+      - 伤残的
+        - `someone who is disabled cannot use a part of their body properly, or cannot learn easily`
   - 记忆
     - dis(消失) ＋ able(能…的) → (使)能力消失 → 丧失能力
   - 同根词
     - n.
-      - `disablement` 残废；无资格；损坏
+      - `disablement`
+        - 残废；无资格；损坏
     - vt.
-      - `disable` 使失去能力；使残废；使无资格
+      - `disable`
+        - 使失去能力；使残废；使无资格
   - 近义词
-    - adj. [劳经]残废的，有缺陷的
-      - `deficient`
-      - `flawed`
+    - adj.
+      - [劳经]残废的，有缺陷的
+        - `deficient`
+        - `flawed`
   - 短语
-    - `disabled people` 残疾人 
-    - `disabled person` 残废人 
-    - `learning disabled` 有学习障碍的；无学习能力的 
+    - `disabled people`
+      - 残疾人 
+    - `disabled person`
+      - 残废人 
+    - `learning disabled`
+      - 有学习障碍的；无学习能力的 
   - 例句
     - `a support group for parents of disabled children`
       - 帮助残障儿童父母的援助团

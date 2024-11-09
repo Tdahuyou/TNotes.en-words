@@ -1,12 +1,16 @@
 - basaltic
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - adj. 玄武岩的
+    - adj.
+      - 玄武岩的
   - 同根词
     - n.
-      - `basalt` [岩] 玄武岩；黑陶器
+      - `basalt`
+        - [岩] 玄武岩；黑陶器
   - 例句
     - `Frantz Josef Land is a basaltic plateau split into many islands and covered with ice.`
       - 法兰仕约瑟夫地的群岛是由一个玄武岩高原分裂而成的，终年覆盖着冰雪。

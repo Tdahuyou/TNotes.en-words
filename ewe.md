@@ -1,10 +1,13 @@
 - ewe
   - 发音
-    - 英 `/juː/`
-    - 美 `/ju/`
+    - 英
+      - `/juː/`
+    - 美
+      - `/ju/`
   - 词义
-    - n. [畜牧]母羊
-    - `a female sheep`
+    - n.
+      - [畜牧]母羊
+        - `a female sheep`
   - 例句
     - `The ewe milks well.`
       - 这头母羊出奶率高。

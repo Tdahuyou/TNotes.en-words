@@ -1,12 +1,16 @@
 - liter
   - 发音
-    - 英 `/ˈli:tə(r)/`
-    - 美 `/litɚ/`
+    - 英
+      - `/ˈli:tə(r)/`
+    - 美
+      - `/litɚ/`
   - 词义
-    - n. 公升
+    - n.
+      - 公升
   - 近义词
-    - n. [计量]公升（容量单位）
-      - `litre`
+    - n.
+      - [计量]公升（容量单位）
+        - `litre`
   - 例句
     - `So this is moles per liter per second, right? It's disappearance of some concentration for time.`
       - 所以这里的单位是摩尔每升每秒，对吗？这代表浓度随着时间的减少。

@@ -1,57 +1,91 @@
 - useful
   - 发音
-    - 英 `/'juːsfʊl; -f(ə)l/`
-    - 美 `/'jusfl/`
+    - 英
+      - `/'juːsfʊl; -f(ə)l/`
+    - 美
+      - `/'jusfl/`
   - 词义
-    - adj. 有用的；有益的
-    - `helping you to do or get what you want`
+    - adj.
+      - 有用的；有益的
+        - `helping you to do or get what you want`
   - 记忆
     - use(使用)+ful(形容词后缀)→有用的
   - 同根词
     - adj.
-      - `usable` 可用的；合用的（等于useable）
-      - `used` 习惯的；二手的，使用过的
-      - `useless` 无用的；无效的
-      - `useable` 可用的；便于使用的（等于usable）
+      - `usable`
+        - 可用的；合用的（等于useable）
+      - `used`
+        - 习惯的；二手的，使用过的
+      - `useless`
+        - 无用的；无效的
+      - `useable`
+        - 可用的；便于使用的（等于usable）
     - adv.
-      - `usefully` 有效地，有用地
-      - `uselessly` 无用地；无益地
+      - `usefully`
+        - 有效地，有用地
+      - `uselessly`
+        - 无用地；无益地
     - n.
-      - `usage` 使用；用法；惯例
-      - `use` 使用；用途；发挥
-      - `using` 使用；利用
-      - `user` 用户；使用者
-      - `usefulness` 有用；有效性；有益
-      - `usability` 合用，可用；可用性
-      - `usableness` 可用；使用方便
-      - `uselessness` 无用，无效
+      - `usage`
+        - 使用；用法；惯例
+      - `use`
+        - 使用；用途；发挥
+      - `using`
+        - 使用；利用
+      - `user`
+        - 用户；使用者
+      - `usefulness`
+        - 有用；有效性；有益
+      - `usability`
+        - 合用，可用；可用性
+      - `usableness`
+        - 可用；使用方便
+      - `uselessness`
+        - 无用，无效
     - v.
-      - `used` 用；习惯（use的过去式）
-      - `using` 使用（use的ing形式）
+      - `used`
+        - 用；习惯（use的过去式）
+      - `using`
+        - 使用（use的ing形式）
     - vi.
-      - `use` 使用，运用
+      - `use`
+        - 使用，运用
     - vt.
-      - `use` 利用；耗费
+      - `use`
+        - 利用；耗费
   - 近义词
-    - adj. 有用的，有益的；有帮助的
-      - `helpful`
-      - `beneficial`
-      - `advantageous`
-      - `conducive`
-      - `assistant`
+    - adj.
+      - 有用的，有益的；有帮助的
+        - `helpful`
+        - `beneficial`
+        - `advantageous`
+        - `conducive`
+        - `assistant`
   - 短语
-    - `be useful for` 对…有用；具有…用途 
-    - `useful life` 使用寿命；有效期 
-    - `useful data` 有用数据和资料 
-    - `extremely useful` 非常有用 
-    - `make oneself useful` 帮忙 
-    - `useful work` 有效功；有用功 
-    - `useful time` 使用寿命，使用时间 
-    - `useful value` 使用价值 
-    - `useful animal` 益兽 
-    - `useful energy` 有效能；有用能 
-    - `useful power` 有效功率，有效能量 
-    - `useful plant` 有用植物 
+    - `be useful for`
+      - 对…有用；具有…用途 
+    - `useful life`
+      - 使用寿命；有效期 
+    - `useful data`
+      - 有用数据和资料 
+    - `extremely useful`
+      - 非常有用 
+    - `make oneself useful`
+      - 帮忙 
+    - `useful work`
+      - 有效功；有用功 
+    - `useful time`
+      - 使用寿命，使用时间 
+    - `useful value`
+      - 使用价值 
+    - `useful animal`
+      - 益兽 
+    - `useful energy`
+      - 有效能；有用能 
+    - `useful power`
+      - 有效功率，有效能量 
+    - `useful plant`
+      - 有用植物 
   - 例句
     - `useful information`
       - 有用的信息

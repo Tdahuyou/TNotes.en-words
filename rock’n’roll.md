@@ -1,7 +1,9 @@
 - rock’n’roll
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
   - 例句
     - `He entered into a bright new era. Rock n Roll was in full swing.`

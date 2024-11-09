@@ -1,57 +1,93 @@
 - crystal
   - 发音
-    - 英 `/'krɪstl/`
-    - 美 `/'krɪstl/`
+    - 英
+      - `/'krɪstl/`
+    - 美
+      - `/'krɪstl/`
   - 词义
-    - n. 水晶；晶体，
-    - `very high quality clear glass`
+    - n.
+      - 水晶；晶体，
+        - `very high quality clear glass`
   - 记忆
     - cry(哭泣) + stal(看做star， 星星) → 水晶犹如星星哭泣时掉下的泪 → 水晶
   - 同根词
     - adj.
-      - `crystalline` 透明的；水晶般的；水晶制的
-      - `crystallized` 裹有糖霜的；蜜饯的
+      - `crystalline`
+        - 透明的；水晶般的；水晶制的
+      - `crystallized`
+        - 裹有糖霜的；蜜饯的
     - n.
-      - `crystallization` 结晶化；具体化
-      - `crystallisation` 结晶；结晶作用
-      - `crystallography` [晶体] 结晶学
-      - `crystallizing` 结晶，晶体形成
+      - `crystallization`
+        - 结晶化；具体化
+      - `crystallisation`
+        - 结晶；结晶作用
+      - `crystallography`
+        - [晶体] 结晶学
+      - `crystallizing`
+        - 结晶，晶体形成
     - v.
-      - `crystallized` 结晶（crystalize的过去分词）
-      - `crystallizing` 使…结晶；具体化（crystallize的ing形式）
+      - `crystallized`
+        - 结晶（crystalize的过去分词）
+      - `crystallizing`
+        - 使…结晶；具体化（crystallize的ing形式）
     - vi.
-      - `crystallize` 结晶，形成结晶；明确；具体化
+      - `crystallize`
+        - 结晶，形成结晶；明确；具体化
     - vt.
-      - `crystallize` 使结晶；明确；使具体化；做成蜜饯
-      - `crystallise` 使…结晶；使具体化（等于crystallize）
+      - `crystallize`
+        - 使结晶；明确；使具体化；做成蜜饯
+      - `crystallise`
+        - 使…结晶；使具体化（等于crystallize）
   - 近义词
-    - n. [晶体]结晶，晶体；[矿物]水晶；水晶饰品
-      - `Irish diamond`
-    - adj. [矿物]水晶的；透明的，清澈的
-      - `transparent`
-      - `liquid`
-      - `clear`
+    - n.
+      - [晶体]结晶，晶体；[矿物]水晶；水晶饰品
+        - `Irish diamond`
+    - adj.
+      - [矿物]水晶的；透明的，清澈的
+        - `transparent`
+        - `liquid`
+        - `clear`
   - 短语
-    - `liquid crystal` 液晶 
-    - `crystal structure` 晶体结构，结晶组织 
-    - `single crystal` 单晶 
-    - `liquid crystal display` 液晶显示；液晶显示器 
-    - `liquid crystal display (LCD)` 液晶体显示 
-    - `liquid crystal display (lcd)` 液晶体显示 
-    - `crystal growth` 晶体生长 
-    - `crystal clear` 完全透明的；[喻]极其明白，十分清楚 
-    - `quartz crystal` 石英晶体 
-    - `crystal ball` （占卜用的）水晶球；预言未来的方法 
-    - `crystal glass` 水晶玻璃；结晶玻璃；晶质玻璃；富铅玻璃 
-    - `crystal grain` 晶粒 
-    - `crystal size` [化]晶粒大小，晶体粒度 
-    - `crystal lattice` 晶格，晶体点阵 
-    - `crystal palace` 水晶宫；水晶宫队 
-    - `crystal oscillator` 晶体振荡器 
-    - `white crystal` 白水晶；白色晶体 
-    - `ice crystal` 冰晶 
-    - `crystal morphology` [晶]晶体形态学；形态结晶学；晶体结构 
-    - `single crystal silicon` 单晶硅 
+    - `liquid crystal`
+      - 液晶 
+    - `crystal structure`
+      - 晶体结构，结晶组织 
+    - `single crystal`
+      - 单晶 
+    - `liquid crystal display`
+      - 液晶显示；液晶显示器 
+    - `liquid crystal display (LCD)`
+      - 液晶体显示 
+    - `liquid crystal display (lcd)`
+      - 液晶体显示 
+    - `crystal growth`
+      - 晶体生长 
+    - `crystal clear`
+      - 完全透明的；[喻]极其明白，十分清楚 
+    - `quartz crystal`
+      - 石英晶体 
+    - `crystal ball`
+      - （占卜用的）水晶球；预言未来的方法 
+    - `crystal glass`
+      - 水晶玻璃；结晶玻璃；晶质玻璃；富铅玻璃 
+    - `crystal grain`
+      - 晶粒 
+    - `crystal size`
+      - [化]晶粒大小，晶体粒度 
+    - `crystal lattice`
+      - 晶格，晶体点阵 
+    - `crystal palace`
+      - 水晶宫；水晶宫队 
+    - `crystal oscillator`
+      - 晶体振荡器 
+    - `white crystal`
+      - 白水晶；白色晶体 
+    - `ice crystal`
+      - 冰晶 
+    - `crystal morphology`
+      - [晶]晶体形态学；形态结晶学；晶体结构 
+    - `single crystal silicon`
+      - 单晶硅 
   - 例句
     - `a set of six crystal glasses`
       - 六件套水晶玻璃杯

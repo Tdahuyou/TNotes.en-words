@@ -1,23 +1,31 @@
 - scrutinize
   - 发音
-    - 英 `/'skruːtənaɪz/`
-    - 美 `/'skrutənaɪz/`
+    - 英
+      - `/'skruːtənaɪz/`
+    - 美
+      - `/'skrutənaɪz/`
   - 词义
-    - v. 仔细检查，细察
-    - `to examine someone or something very carefully`
+    - v.
+      - 仔细检查，细察
+        - `to examine someone or something very carefully`
   - 记忆
     - scrut(检查) + in + ize(动词后缀) → 仔细检查， 细察
   - 同根词
     - n.
-      - `scrutiny` 详细审查；监视；细看；选票复查
-      - `scrutineer` 检查者；监票人
+      - `scrutiny`
+        - 详细审查；监视；细看；选票复查
+      - `scrutineer`
+        - 检查者；监票人
     - vi.
-      - `scrutinise` 作仔细检查；细致观察
+      - `scrutinise`
+        - 作仔细检查；细致观察
     - vt.
-      - `scrutinise` 细看；仔细观察或检查；核对（等于scrutinize）
+      - `scrutinise`
+        - 细看；仔细观察或检查；核对（等于scrutinize）
   - 近义词
-    - vt. 详细检查；细看
-      - `scan`
+    - vt.
+      - 详细检查；细看
+        - `scan`
   - 例句
     - `He scrutinized the document.`
       - 他细阅了这份文件。

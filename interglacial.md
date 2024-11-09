@@ -1,10 +1,13 @@
 - interglacial
   - 发音
-    - 英 `/ɪntə'gleɪsɪəl; -ʃ(ə)l/`
-    - 美 `/,ɪntɚ'gleʃəl/`
+    - 英
+      - `/ɪntə'gleɪsɪəl; -ʃ(ə)l/`
+    - 美
+      - `/,ɪntɚ'gleʃəl/`
   - 词义
-    - adj. 间冰期的
-    - `occurring or formed between periods of glacial action `
+    - adj.
+      - 间冰期的
+        - `occurring or formed between periods of glacial action `
   - 例句
     - `This new investigation shows temperature 'spikes' within some of the interglacial periods over the last 340,000 years.`
       - 这项新的调查显示在过去的340,000年气温都“被钉在”间冰期内。

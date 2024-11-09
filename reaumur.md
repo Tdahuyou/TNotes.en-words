@@ -1,6 +1,9 @@
 - reaumur
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n&a. 列氏温度计(的)
+    - n&a.
+      - 列氏温度计(的)

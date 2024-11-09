@@ -1,20 +1,27 @@
 - cuneiform
   - 发音
-    - 英 `/'kjuːnɪfɔːrm/`
-    - 美 `/'kjʊnɪə,fɔrm/`
+    - 英
+      - `/'kjuːnɪfɔːrm/`
+    - 美
+      - `/'kjʊnɪə,fɔrm/`
   - 词义
-    - adj. 〔古代美索不达米亚人使用的〕楔形文字的
-    - `relating to the writing used by the people of ancient Mesopotamia`
+    - adj.
+      - 〔古代美索不达米亚人使用的〕楔形文字的
+        - `relating to the writing used by the people of ancient Mesopotamia`
   - 同根词
     - adj.
-      - `cuneal` 楔形的
-      - `cuneate` [生物] 楔形的（等于cuneated）
+      - `cuneal`
+        - 楔形的
+      - `cuneate`
+        - [生物] 楔形的（等于cuneated）
   - 近义词
-    - adj. [解剖][生物]楔形的；楔形文字的；楔状骨的
-      - `wedgy`
-      - `sphenoidal`
-    - n. 楔形文字；[解剖]楔状骨
-      - `sphenoid`
+    - adj.
+      - [解剖][生物]楔形的；楔形文字的；楔状骨的
+        - `wedgy`
+        - `sphenoidal`
+    - n.
+      - 楔形文字；[解剖]楔状骨
+        - `sphenoid`
   - 例句
     - `The chicken scratch is cuneiform.`
       - 鸡爪印是楔形文字。

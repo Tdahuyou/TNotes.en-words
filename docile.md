@@ -1,19 +1,24 @@
 - docile
   - 发音
-    - 英 `/'dəusail/`
-    - 美 `/ˈdoʊˌsaɪl/`
+    - 英
+      - `/'dəusail/`
+    - 美
+      - `/ˈdoʊˌsaɪl/`
   - 词义
-    - adj. 听话的，温顺的
-    - `quiet and easily controlled`
+    - adj.
+      - 听话的，温顺的
+        - `quiet and easily controlled`
   - 记忆
     - “多赛” → 这匹马很听话， 需要多赛一场就多赛一场 → 听话的， 温顺的
   - 同根词
     - n.
-      - `docility` 温顺；顺从
+      - `docility`
+        - 温顺；顺从
   - 近义词
-    - adj. 温顺的，驯服的；容易教的
-      - `quiet`
-      - `meek`
+    - adj.
+      - 温顺的，驯服的；容易教的
+        - `quiet`
+        - `meek`
   - 例句
     - `Labradors are gentle, docile dogs.`
       - 拉布拉多犬温和驯服。

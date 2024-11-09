@@ -1,10 +1,13 @@
 - nuance
   - 发音
-    - 英 `/'njuːɑːns/`
-    - 美 `/'nju:ɑ:ns, nju:'ɑ:ns/`
+    - 英
+      - `/'njuːɑːns/`
+    - 美
+      - `/'nju:ɑ:ns, nju:'ɑ:ns/`
   - 词义
-    - n. 细微差别
-    - `a very slight, hardly noticeable difference in manner, colour, meaning etc`
+    - n.
+      - 细微差别
+        - `a very slight, hardly noticeable difference in manner, colour, meaning etc`
   - 记忆
     - nuisance (讨厌人的东西) 和nuance (细微差别) 在拼写上只有细微差别
   - 例句

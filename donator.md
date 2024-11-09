@@ -1,12 +1,16 @@
 - donator
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 捐赠者
+    - n.
+      - 捐赠者
   - 近义词
-    - n. 捐赠者
-      - `donor`
+    - n.
+      - 捐赠者
+        - `donor`
   - 例句
     - `Out of pressing need, the mother complies but the donator disappeared without forking up.`
       - 迫于所需的母亲照办了，但是捐赠者却食言消失了。

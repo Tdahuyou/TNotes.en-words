@@ -1,21 +1,28 @@
 - statesman
   - 发音
-    - 英 `/'steɪtsmən/`
-    - 美 `/'stetsmən/`
+    - 英
+      - `/'steɪtsmən/`
+    - 美
+      - `/'stetsmən/`
   - 词义
-    - n. 政治家
-    - `a political or government leader, especially one who is respected as being wise and fair`
+    - n.
+      - 政治家
+        - `a political or government leader, especially one who is respected as being wise and fair`
   - 记忆
     - states(国家， 政府) + man(人) → 管理国家事务的人 → 政治家
   - 同根词
     - adj.
-      - `statesmanlike` 与政治家相称的；有政治家风度的
-      - `statesmanly` 与政治家身份相称的；像政治家的
+      - `statesmanlike`
+        - 与政治家相称的；有政治家风度的
+      - `statesmanly`
+        - 与政治家身份相称的；像政治家的
     - n.
-      - `statesmanship` 政治才能；政治家的风度
+      - `statesmanship`
+        - 政治才能；政治家的风度
   - 近义词
-    - n. 政治家；国务活动家
-      - `politician`
+    - n.
+      - 政治家；国务活动家
+        - `politician`
   - 例句
     - `a respected elder statesman`
       - 一位受人尊敬的政界元老

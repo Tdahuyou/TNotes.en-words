@@ -1,30 +1,42 @@
 - gentleman
   - 发音
-    - 英 `/'dʒent(ə)lmən/`
-    - 美 `/'dʒɛntlmən/`
+    - 英
+      - `/'dʒent(ə)lmən/`
+    - 美
+      - `/'dʒɛntlmən/`
   - 词义
-    - n. 先生；男士
-    - `a polite word for a man, used especially when talking to or about a man you do not know`
+    - n.
+      - 先生；男士
+        - `a polite word for a man, used especially when talking to or about a man you do not know`
   - 记忆
     - gentle(温和的， 文雅的)+man(人)→有教养的人
   - 同根词
     - adj.
-      - `gentlemanlike` 绅士的；举止高雅的
-      - `gentlemanly` 绅士的，绅士派头的
+      - `gentlemanlike`
+        - 绅士的；举止高雅的
+      - `gentlemanly`
+        - 绅士的，绅士派头的
     - n.
-      - `gent` 绅士；假绅士；男子；男厕
+      - `gent`
+        - 绅士；假绅士；男子；男厕
   - 近义词
-    - n. 先生；绅士；有身分的人
-      - `sir`
-      - `don`
-      - `Mister`
-      - `Monsieur`
+    - n.
+      - 先生；绅士；有身分的人
+        - `sir`
+        - `don`
+        - `Mister`
+        - `Monsieur`
   - 短语
-    - `old gentleman` n. 恶魔；魔王 
-    - `ladies and gentleman` 女士们先生们 
-    - `the gentleman from` [美国英语](美国众议院)某某州(选出的)议员 
-    - `fine gentleman` (穿着时髦的)花花公子，闲雅男士 
-    - `gentleman in brown` [戏谑语、委婉语]臭虫 
+    - `old gentleman`
+      - n. 恶魔；魔王 
+    - `ladies and gentleman`
+      - 女士们先生们 
+    - `the gentleman from`
+      - [美国英语](美国众议院)某某州(选出的)议员 
+    - `fine gentleman`
+      - (穿着时髦的)花花公子，闲雅男士 
+    - `gentleman in brown`
+      - [戏谑语、委婉语]臭虫 
   - 例句
     - `Could you serve this gentleman please, Miss Bath?`
       - 巴思小姐，请你接待一下这位先生好吗？

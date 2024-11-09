@@ -1,22 +1,28 @@
 - announce
   - 发音
-    - 英 `/ə'nauns/`
-    - 美 `/ə'naʊns/`
+    - 英
+      - `/ə'nauns/`
+    - 美
+      - `/ə'naʊns/`
   - 词义
-    - vt. 宣布；通知；声称，宣称；广播，播音
-    - `to officially tell people about something, especially about a plan or a decision`
+    - vt.
+      - 宣布；通知；声称，宣称；广播，播音
+        - `to officially tell people about something, especially about a plan or a decision`
   - 记忆
     - an(=ad 向) + nounc(讲话) + e → 向他人讲话 → 宣布； 通知； 广播
   - 同根词
     - n.
-      - `announcement` 公告；宣告；发表；通告
-      - `announcer` [广播] 广播员；宣告者
+      - `announcement`
+        - 公告；宣告；发表；通告
+      - `announcer`
+        - [广播] 广播员；宣告者
   - 近义词
-    - vt. 宣布；述说；预示；播报
-      - `indicate`
-      - `bill`
-      - `forecast`
-      - `shadow`
+    - vt.
+      - 宣布；述说；预示；播报
+        - `indicate`
+        - `bill`
+        - `forecast`
+        - `shadow`
   - 例句
     - `They announced their engagement in ‘The Times’.`
       - 他们在《泰晤士报》上宣布了订婚的消息。

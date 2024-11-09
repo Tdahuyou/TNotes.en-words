@@ -1,18 +1,23 @@
 - pharaoh
   - 发音
-    - 英 `/'ferou/`
-    - 美 `/undefined/`
+    - 英
+      - `/'ferou/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 法老
+    - n.
+      - 法老
   - 记忆
     - “法老”
   - 同根词
     - adj.
-      - `pharaonic` 古埃及法老王的
+      - `pharaonic`
+        - 古埃及法老王的
   - 近义词
-    - n. 法老；暴君
-      - `tyrant`
-      - `Caesar`
+    - n.
+      - 法老；暴君
+        - `tyrant`
+        - `Caesar`
   - 例句
     - `They were not quasi-divine overmen like pharaoh or minos or the monarchs of mesopotamia.`
       - 他们并不像法老、弥诺斯或美索不达米亚君主那样类似上帝的超人。

@@ -1,15 +1,19 @@
 - fealty
   - 发音
-    - 英 `/‘fi:əlti/`
-    - 美 `/'fi:əlti/`
+    - 英
+      - `/‘fi:əlti/`
+    - 美
+      - `/'fi:əlti/`
   - 词义
-    - n. 忠诚
-    - `loyalty to a king, queen etc`
+    - n.
+      - 忠诚
+        - `loyalty to a king, queen etc`
   - 近义词
-    - n. 忠诚；忠实
-      - `faith`
-      - `loyalty`
-      - `devotion`
+    - n.
+      - 忠诚；忠实
+        - `faith`
+        - `loyalty`
+        - `devotion`
   - 例句
     - `When they act with predictability, restraint, and fealty to the rule of law, ordinary people gain faith in their government.`
       - 当警察的行为有规可循、有节制并忠诚于法治时，会加深普通人民对政府的信任。

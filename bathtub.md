@@ -1,10 +1,13 @@
 - bathtub
   - 发音
-    - 英 `/'bɑːθtʌb/`
-    - 美 `/bæθtʌb/`
+    - 英
+      - `/'bɑːθtʌb/`
+    - 美
+      - `/bæθtʌb/`
   - 词义
-    - n. 浴缸；澡盆
-    - `a long large container that you fill with water and sit or lie in to wash yourself`
+    - n.
+      - 浴缸；澡盆
+        - `a long large container that you fill with water and sit or lie in to wash yourself`
   - 例句
     - `His students are generally much better at bathtub dynamics by the end of his course, which gives him hope.`
       - 在完成他的课程之后，他的学生对浴缸动力学的理解普遍好多了，这给了他希望。

@@ -1,19 +1,25 @@
 - concatenation
   - 发音
-    - 英 `/kənkætə'neɪʃn/`
-    - 美 `/kən'kætə'neʃən/`
+    - 英
+      - `/kənkætə'neɪʃn/`
+    - 美
+      - `/kən'kætə'neʃən/`
   - 词义
-    - n. 串联
-    - `a series of events or things joined together one after another`
+    - n.
+      - 串联
+        - `a series of events or things joined together one after another`
   - 同根词
     - adj.
-      - `concatenate` 连结的；连锁的
+      - `concatenate`
+        - 连结的；连锁的
     - vt.
-      - `concatenate` 连结；使连锁
+      - `concatenate`
+        - 连结；使连锁
   - 近义词
-    - n. 串联，连结
-      - `tandem connection`
-      - `connection in series`
+    - n.
+      - 串联，连结
+        - `tandem connection`
+        - `connection in series`
   - 例句
     - `Listing 2 shows a sample algorithm which creates such a key by string concatenation.`
       - 清单 2 显示了一个通过字符串串联创建此类键的示例算法。

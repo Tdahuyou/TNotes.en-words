@@ -1,13 +1,17 @@
 - turbot
   - 发音
-    - 英 `/'tɜːbət/`
-    - 美 `/'tɝbət/`
+    - 英
+      - `/'tɜːbət/`
+    - 美
+      - `/'tɝbət/`
   - 词义
-    - n. 大比目鱼
+    - n.
+      - 大比目鱼
   - 近义词
-    - n. 大比目鱼
-      - `halibut`
-      - `holibut`
+    - n.
+      - 大比目鱼
+        - `halibut`
+        - `holibut`
   - 例句
     - `We can get the most wonderful red clams, eels and frogs' legs, kingfish, turbot and live hamachi (yellowtail tuna).`
       - 我们可以得到最上乘的蛤蜊、鳝鱼、田鸡腿、无鳔石首鱼、大比目鱼和活油甘鱼（黄色尾巴的金枪鱼）。

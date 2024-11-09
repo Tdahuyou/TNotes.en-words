@@ -1,14 +1,18 @@
 - crayfish
   - 发音
-    - 英 `/'kreɪfɪʃ/`
-    - 美 `/'kre'fɪʃ/`
+    - 英
+      - `/'kreɪfɪʃ/`
+    - 美
+      - `/'kre'fɪʃ/`
   - 词义
-    - n. 小龙虾
-    - `A crayfish is a small shellfish with five pairs of legs which lives in rivers and streams. You can eat some types of crayfish. `
+    - n.
+      - 小龙虾
+        - `A crayfish is a small shellfish with five pairs of legs which lives in rivers and streams. You can eat some types of crayfish. `
   - 近义词
-    - n. 小龙虾
-      - `lobsterling`
-      - `crawfish`
+    - n.
+      - 小龙虾
+        - `lobsterling`
+        - `crawfish`
   - 例句
     - `Earthworms, crayfish and tadpoles are examples.`
       - 蚯蚓、小龙虾和蝌蚪都是实例。

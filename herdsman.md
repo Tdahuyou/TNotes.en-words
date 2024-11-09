@@ -1,17 +1,22 @@
 - herdsman
   - 发音
-    - 英 `/'hɜːdzmən/`
-    - 美 `/'hɝdzmən/`
+    - 英
+      - `/'hɜːdzmən/`
+    - 美
+      - `/'hɝdzmən/`
   - 词义
-    - n. 牧人
-    - `a man who looks after a herd of animals`
+    - n.
+      - 牧人
+        - `a man who looks after a herd of animals`
   - 同根词
     - n.
-      - `herder` 牧人；（美俚）监狱看守
+      - `herder`
+        - 牧人；（美俚）监狱看守
   - 近义词
-    - n. 牧人
-      - `wrangler`
-      - `vaquero`
+    - n.
+      - 牧人
+        - `wrangler`
+        - `vaquero`
   - 例句
     - `You don't need a humanistic education in order to become a herdsman.`
       - 要成为一个牧人，你不需要接受人文主义的教育。

@@ -1,21 +1,27 @@
 - proliferate
   - 发音
-    - 英 `/prə'lɪfəreɪt/`
-    - 美 `/prə'lɪfə'ret/`
+    - 英
+      - `/prə'lɪfəreɪt/`
+    - 美
+      - `/prə'lɪfə'ret/`
   - 词义
-    - vi. 激增，迅速繁殖
-    - `if something proliferates, it increases quickly and spreads to many different places`
+    - vi.
+      - 激增，迅速繁殖
+        - `if something proliferates, it increases quickly and spreads to many different places`
   - 记忆
     - prol(i)(子孙) + fer(带来) + ate → 带来子孙后代 → 迅速繁殖
   - 同根词
     - n.
-      - `proliferation` 增殖，扩散；分芽繁殖
+      - `proliferation`
+        - 增殖，扩散；分芽繁殖
   - 近义词
-    - vi. 增殖；扩散；激增
-      - `surge`
-      - `sharp rise`
-    - vt. 使激增
-      - `balloon`
+    - vi.
+      - 增殖；扩散；激增
+        - `surge`
+        - `sharp rise`
+    - vt.
+      - 使激增
+        - `balloon`
   - 例句
     - `Computer courses continue to proliferate.`
       - 计算机课程层出不穷。

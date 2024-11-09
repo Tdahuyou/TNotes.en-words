@@ -1,23 +1,30 @@
 - overriding
   - 发音
-    - 英 `/ˌouvər'raɪdɪŋ/`
-    - 美 `/,ovɚ'raɪdɪŋ/`
+    - 英
+      - `/ˌouvər'raɪdɪŋ/`
+    - 美
+      - `/,ovɚ'raɪdɪŋ/`
   - 词义
-    - adj. 最主要的，优先的
-    - `more important than anything else`
+    - adj.
+      - 最主要的，优先的
+        - `more important than anything else`
   - 同根词
     - n.
-      - `override` 代理佣金
+      - `override`
+        - 代理佣金
     - vt.
-      - `override` 推翻；不顾；践踏
+      - `override`
+        - 推翻；不顾；践踏
   - 近义词
-    - adj. 高于一切的，最重要的
-      - `supreme`
-      - `principal`
-      - `main`
-      - `lead`
+    - adj.
+      - 高于一切的，最重要的
+        - `supreme`
+        - `principal`
+        - `main`
+        - `lead`
   - 短语
-    - `manual override` 手动超越控制；并联手动阀 
+    - `manual override`
+      - 手动超越控制；并联手动阀 
   - 例句
     - `a question of overriding importance`
       - 高于一切的重要问题

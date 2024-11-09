@@ -1,13 +1,17 @@
 - pinniped
   - 发音
-    - 英 `/'pɪnɪped/`
-    - 美 `/'pɪnəpɛd/`
+    - 英
+      - `/'pɪnɪped/`
+    - 美
+      - `/'pɪnəpɛd/`
   - 词义
-    - adj. 鳍足类的
-    - `of, relating to, or belonging to the Pinnipedia, an order of aquatic placental mammals having a streamlined body and limbs specialized as flippers: includes seals, sea lions, and the walrus `
+    - adj.
+      - 鳍足类的
+        - `of, relating to, or belonging to the Pinnipedia, an order of aquatic placental mammals having a streamlined body and limbs specialized as flippers: includes seals, sea lions, and the walrus `
   - 同根词
     - n.
-      - `pinnipedia` 鳍脚目；鳍足亚目
+      - `pinnipedia`
+        - 鳍脚目；鳍足亚目
   - 例句
     - `The legs were strong and ended in long feet very much like those of a modern pinniped.`
       - 它的后肢很强壮，底部有长足，非常像现在的鳍足类动物。

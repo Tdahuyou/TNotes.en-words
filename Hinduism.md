@@ -1,10 +1,13 @@
 - Hinduism
   - 发音
-    - 英 `/'hinduizəm/`
-    - 美 `/'hinduizəm/`
+    - 英
+      - `/'hinduizəm/`
+    - 美
+      - `/'hinduizəm/`
   - 词义
-    - n. 印度教
-    - `the main religion in India, which includes belief in  reincarnation `
+    - n.
+      - 印度教
+        - `the main religion in India, which includes belief in  reincarnation `
   - 例句
     - `This concept is one of the fundamental doctrines in Buddhism and Hinduism.`
       - 这一概念是佛教和印度教最基本的教义之一。

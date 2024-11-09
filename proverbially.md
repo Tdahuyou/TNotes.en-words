@@ -1,11 +1,15 @@
 - proverbially
   - 发音
-    - 英 `/prə'vɜːrbiəli/`
-    - 美 `/undefined/`
+    - 英
+      - `/prə'vɜːrbiəli/`
+    - 美
+      - `/undefined/`
   - 词义
-    - adv. 人皆尽知地
+    - adv.
+      - 人皆尽知地
   - 记忆
     - 来自proverb(n. 谚语)
   - 同根词
     - adj.
-      - `proverbial` 谚语的；众所周知的；谚语式的
+      - `proverbial`
+        - 谚语的；众所周知的；谚语式的

@@ -1,25 +1,34 @@
 - troublesome
   - 发音
-    - 英 `/'trʌb(ə)ls(ə)m/`
-    - 美 `/'trʌblsəm/`
+    - 英
+      - `/'trʌb(ə)ls(ə)m/`
+    - 美
+      - `/'trʌblsəm/`
   - 词义
-    - adj. 带来麻烦的；使人心烦的
-    - `causing problems, in an annoying way`
+    - adj.
+      - 带来麻烦的；使人心烦的
+        - `causing problems, in an annoying way`
   - 同根词
     - n.
-      - `trouble` 麻烦；烦恼；故障；动乱
-      - `troublemaker` 捣乱者，闹事者；惹麻烦的人
-      - `troubleshooter` 故障检修工；解决纠纷者；解决麻烦问题的能手
+      - `trouble`
+        - 麻烦；烦恼；故障；动乱
+      - `troublemaker`
+        - 捣乱者，闹事者；惹麻烦的人
+      - `troubleshooter`
+        - 故障检修工；解决纠纷者；解决麻烦问题的能手
     - vi.
-      - `trouble` 费心，烦恼
+      - `trouble`
+        - 费心，烦恼
     - vt.
-      - `trouble` 麻烦；使烦恼；折磨
+      - `trouble`
+        - 麻烦；使烦恼；折磨
   - 近义词
-    - adj. 麻烦的；讨厌的；使人苦恼的
-      - `tight`
-      - `evil`
-      - `rank`
-      - `unpleasant`
+    - adj.
+      - 麻烦的；讨厌的；使人苦恼的
+        - `tight`
+        - `evil`
+        - `rank`
+        - `unpleasant`
   - 例句
     - `a troublesome child`
       - 烦人的孩子

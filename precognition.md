@@ -1,14 +1,18 @@
 - precognition
   - 发音
-    - 英 `/,priːkɒg'nɪʃ(ə)n/`
-    - 美 `/,prikɑɡ'nɪʃən/`
+    - 英
+      - `/,priːkɒg'nɪʃ(ə)n/`
+    - 美
+      - `/,prikɑɡ'nɪʃən/`
   - 词义
-    - n. 预知
-    - `the knowledge that something will happen before it actually does`
+    - n.
+      - 预知
+        - `the knowledge that something will happen before it actually does`
   - 近义词
-    - n. [心理]预知；先知
-      - `prophet`
-      - `prognosis`
+    - n.
+      - [心理]预知；先知
+        - `prophet`
+        - `prognosis`
   - 例句
     - `It's long been regarded as pseudoscience, but precognition–that is, the ability to not just predict but to actually perceive the future–is getting a fair shake in some scientific circles lately.`
       - 长期以来，人们一直认为预知是伪科学，但最近在某些科学家圈子里，预知——不仅是预测还包括准确感知未来的能力——开始得到了一定的认可。

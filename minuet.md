@@ -1,10 +1,13 @@
 - minuet
   - 发音
-    - 英 `/ˌmɪnju'et/`
-    - 美 `/,mɪnju'ɛt/`
+    - 英
+      - `/ˌmɪnju'et/`
+    - 美
+      - `/,mɪnju'ɛt/`
   - 词义
-    - n. 小步舞
-    - `a slow dance of the 17th and 18th centuries, or a piece of music for this dance`
+    - n.
+      - 小步舞
+        - `a slow dance of the 17th and 18th centuries, or a piece of music for this dance`
   - 记忆
     - min(小的) + uet → 小步舞
   - 例句

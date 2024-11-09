@@ -1,24 +1,34 @@
 - widely
   - 发音
-    - 英 `/'waɪdlɪ/`
-    - 美 `/'waɪdli/`
+    - 英
+      - `/'waɪdlɪ/`
+    - 美
+      - `/'waɪdli/`
   - 词义
-    - adv. 广泛地；普遍地
-    - `in a lot of different places or by a lot of people`
+    - adv.
+      - 广泛地；普遍地
+        - `in a lot of different places or by a lot of people`
   - 同根词
     - adj.
-      - `wide` 广泛的；宽的，广阔的；张大的；远离目标的
-      - `widespread` 普遍的，广泛的；分布广的
-      - `widish` 稍宽的；较广的
+      - `wide`
+        - 广泛的；宽的，广阔的；张大的；远离目标的
+      - `widespread`
+        - 普遍的，广泛的；分布广的
+      - `widish`
+        - 稍宽的；较广的
     - adv.
-      - `wide` 广泛地；广阔地；充分地
+      - `wide`
+        - 广泛地；广阔地；充分地
     - n.
-      - `width` 宽度；广度
-      - `wide` 大千世界
+      - `width`
+        - 宽度；广度
+      - `wide`
+        - 大千世界
   - 近义词
-    - adv. 广泛地
-      - `far and wide`
-      - `diffusely`
+    - adv.
+      - 广泛地
+        - `far and wide`
+        - `diffusely`
   - 例句
     - `Organic food is now widely available.`
       - 现在有机食品很多地方都可买到。

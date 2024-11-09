@@ -1,14 +1,18 @@
 - anole
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 变色龙
-    - `any small arboreal tropical American insectivorous lizards of the genus Anolis, such as A. carolinensis (green anole): family Iguanidae (iguanas). They are able to change the colour of their skin `
+    - n.
+      - 变色龙
+        - `any small arboreal tropical American insectivorous lizards of the genus Anolis, such as A. carolinensis (green anole): family Iguanidae (iguanas). They are able to change the colour of their skin `
   - 近义词
-    - n. [脊椎]变色龙
-      - `chameleon`
-      - `Zelig`
+    - n.
+      - [脊椎]变色龙
+        - `chameleon`
+        - `Zelig`
   - 例句
     - `Blind anole still has the ability to change color to adapt to surrounding environment.`
       - 瞎眼的变色龙，还是有能力变色来适应周遭环境的。

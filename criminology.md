@@ -1,23 +1,33 @@
 - criminology
   - 发音
-    - 英 `/,krɪmɪ'nɒlədʒɪ/`
-    - 美 `/,krɪmɪ'nɑlədʒi/`
+    - 英
+      - `/,krɪmɪ'nɒlədʒɪ/`
+    - 美
+      - `/,krɪmɪ'nɑlədʒi/`
   - 词义
-    - n. 犯罪学；刑事学
-    - `the scientific study of crime and criminals`
+    - n.
+      - 犯罪学；刑事学
+        - `the scientific study of crime and criminals`
   - 记忆
     - crimin(犯罪) + ology(学科) → 犯罪学
   - 同根词
     - adj.
-      - `criminal` 刑事的；犯罪的；罪恶的
-      - `criminological` 犯罪学的
+      - `criminal`
+        - 刑事的；犯罪的；罪恶的
+      - `criminological`
+        - 犯罪学的
     - n.
-      - `crime` 罪行，犯罪；罪恶；犯罪活动
-      - `criminal` 罪犯
-      - `criminality` 有罪，犯罪；犯罪行为
-      - `criminologist` 犯罪学者；刑事学家
+      - `crime`
+        - 罪行，犯罪；罪恶；犯罪活动
+      - `criminal`
+        - 罪犯
+      - `criminality`
+        - 有罪，犯罪；犯罪行为
+      - `criminologist`
+        - 犯罪学者；刑事学家
     - vt.
-      - `crime` 控告……违反纪律
+      - `crime`
+        - 控告……违反纪律
   - 例句
     - `Are you fascinated by criminology, forensics, and detective work?`
       - 你是否有迷上犯罪学、法医和侦查工作？

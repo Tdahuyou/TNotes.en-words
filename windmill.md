@@ -1,18 +1,23 @@
 - windmill
   - 发音
-    - 英 `/'wɪn(d)mɪl/`
-    - 美 `/'wɪnd'mɪl/`
+    - 英
+      - `/'wɪn(d)mɪl/`
+    - 美
+      - `/'wɪnd'mɪl/`
   - 词义
-    - n. 风车
-    - `a building or structure with parts that turn around in the wind, used for producing electrical power or crushing grain`
+    - n.
+      - 风车
+        - `a building or structure with parts that turn around in the wind, used for producing electrical power or crushing grain`
   - 近义词
-    - n. [动力]风车；风车房；旋转玩具；直升飞机
-      - `winnower`
-      - `helicopter`
-    - vt. 使旋转
-      - `turn`
-      - `spin`
-      - `swing`
+    - n.
+      - [动力]风车；风车房；旋转玩具；直升飞机
+        - `winnower`
+        - `helicopter`
+    - vt.
+      - 使旋转
+        - `turn`
+        - `spin`
+        - `swing`
   - 例句
     - `Only in Portugal can you rent your own windmill-inspired house on top of its own mini-mountain for under $800 per week.`
       - 要想以每周800美金的价格租到风车旅馆，而且是建在属于旅馆自有小山上的，你只能来葡萄牙。

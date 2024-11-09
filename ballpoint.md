@@ -1,15 +1,20 @@
 - ballpoint
   - 发音
-    - 英 `/undefined/`
-    - 美 `/'bɔlpɔɪnt/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/'bɔlpɔɪnt/`
   - 词义
-    - n. 圆珠笔
-    - `a pen with a ball at the end that rolls ink onto the paper`
+    - n.
+      - 圆珠笔
+        - `a pen with a ball at the end that rolls ink onto the paper`
   - 近义词
-    - n. 圆珠笔
-      - `ball-point pen`
+    - n.
+      - 圆珠笔
+        - `ball-point pen`
   - 短语
-    - `ballpoint pen` n. 原子笔，圆珠笔 
+    - `ballpoint pen`
+      - n. 原子笔，圆珠笔 
   - 例句
     - `To mouse proof your house, check all small openings with a ballpoint pen - if it fits the hole, it will let mice in.`
       - 要使你的房子里没有小老鼠，用圆珠笔来检查下所有的小洞，如果圆珠笔能放进去的话，那小老鼠就可能钻进去。

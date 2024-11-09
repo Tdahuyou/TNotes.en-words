@@ -1,15 +1,20 @@
 - phonograph
   - 发音
-    - 英 `/'fəʊnəgrɑːf/`
-    - 美 `/'fonəɡræf/`
+    - 英
+      - `/'fəʊnəgrɑːf/`
+    - 美
+      - `/'fonəɡræf/`
   - 词义
-    - n. 留声机,电唱机
-    - `a  record player `
+    - n.
+      - 留声机,电唱机
+        - `a  record player `
   - 近义词
-    - n. 留声机；[电子]电唱机
-      - `grammy`
+    - n.
+      - 留声机；[电子]电唱机
+        - `grammy`
   - 短语
-    - `phonograph record` n. 唱片 
+    - `phonograph record`
+      - n. 唱片 
   - 例句
     - `Edison is credited with the invention of the phonograph.`
       - 留声机的发明应归功于爱迪生。

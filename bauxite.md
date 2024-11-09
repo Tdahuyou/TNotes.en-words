@@ -1,16 +1,21 @@
 - bauxite
   - 发音
-    - 英 `/'bɔːksait/`
-    - 美 `/'bɔksaɪt/`
+    - 英
+      - `/'bɔːksait/`
+    - 美
+      - `/'bɔksaɪt/`
   - 词义
-    - n. 铝氧石
+    - n.
+      - 铝氧石
   - 同根词
     - adj.
-      - `bauxitic` 铁铝氧石的
+      - `bauxitic`
+        - 铁铝氧石的
   - 近义词
-    - n. [矿物]矾土，铁铝氧石；铝土矿
-      - `alumina`
-      - `beauxite`
+    - n.
+      - [矿物]矾土，铁铝氧石；铝土矿
+        - `alumina`
+        - `beauxite`
   - 例句
     - `They have developed a new process for extracting aluminium from bauxite.`
       - 他们开发了一种从铝氧石中提炼铝的新工艺。

@@ -1,23 +1,35 @@
 - younger
   - 发音
-    - 英 `/'jʌŋɡə/`
-    - 美 `/'jʌŋɡɚ/`
+    - 英
+      - `/'jʌŋɡə/`
+    - 美
+      - `/'jʌŋɡɚ/`
   - 词义
   - 同根词
     - adj.
-      - `young` 年轻的；初期的；没有经验的
-      - `youthful` 年轻的
-      - `youngish` 还年轻的，颇年轻的
+      - `young`
+        - 年轻的；初期的；没有经验的
+      - `youthful`
+        - 年轻的
+      - `youngish`
+        - 还年轻的，颇年轻的
     - adv.
-      - `youthfully` 年轻地，无经验地；精神饱满地
+      - `youthfully`
+        - 年轻地，无经验地；精神饱满地
     - n.
-      - `youth` 青年；青春；年轻；青少年时期
-      - `young` 年轻人；（动物的）崽，仔
-      - `youngster` 年轻人；少年
+      - `youth`
+        - 青年；青春；年轻；青少年时期
+      - `young`
+        - 年轻人；（动物的）崽，仔
+      - `youngster`
+        - 年轻人；少年
   - 短语
-    - `younger brother` 弟弟 
-    - `younger sister` 妹妹 
-    - `younger generation` 年轻一代；青年一代 
+    - `younger brother`
+      - 弟弟 
+    - `younger sister`
+      - 妹妹 
+    - `younger generation`
+      - 年轻一代；青年一代 
   - 例句
     - `The younger people might not like the idea.`
       - 年轻一些的人可能不喜欢这个主意。

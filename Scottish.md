@@ -1,9 +1,12 @@
 - Scottish
   - 发音
-    - 英 `/'skɔtiʃ/`
-    - 美 `/'skɔtiʃ/`
+    - 英
+      - `/'skɔtiʃ/`
+    - 美
+      - `/'skɔtiʃ/`
   - 词义
-    - n. 苏格兰人(的),苏格兰语（的）
+    - n.
+      - 苏格兰人(的),苏格兰语（的）
   - 例句
     - `You know, Gordon, I should not like you. You are Scottish, we have nothing in common and you are an economist.`
       - 你知道吗，戈登，我不应该喜欢你，你是苏格兰人，又是个经济学家，我们没有任何共同的地方。

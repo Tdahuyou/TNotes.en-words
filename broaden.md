@@ -1,27 +1,38 @@
 - broaden
   - 发音
-    - 英 `/'brɔːd(ə)n/`
-    - 美 `/'brɔdn/`
+    - 英
+      - `/'brɔːd(ə)n/`
+    - 美
+      - `/'brɔdn/`
   - 词义
-    - v. 放宽,变宽,扩大,加宽
-    - `to affect or include more people or things, or to make something affect or include more people or things`
+    - v.
+      - 放宽,变宽,扩大,加宽
+        - `to affect or include more people or things, or to make something affect or include more people or things`
   - 同根词
     - adj.
-      - `broad` 宽的，辽阔的；显著的；大概的
+      - `broad`
+        - 宽的，辽阔的；显著的；大概的
     - adv.
-      - `broad` 宽阔地
-      - `broadly` 明显地；宽广地；概括地；露骨地；粗鄙地
+      - `broad`
+        - 宽阔地
+      - `broadly`
+        - 明显地；宽广地；概括地；露骨地；粗鄙地
     - n.
-      - `broad` 宽阔部分
-      - `breadth` 宽度，幅度；宽宏
-      - `broadness` 宽阔；广大；粗野；露骨；宽宏大量
+      - `broad`
+        - 宽阔部分
+      - `breadth`
+        - 宽度，幅度；宽宏
+      - `broadness`
+        - 宽阔；广大；粗野；露骨；宽宏大量
   - 近义词
-    - vi. 扩大，变阔；变宽，加宽
-      - `enlarge`
-      - `extend`
-    - vt. 使扩大；使变宽
-      - `exaggerate`
-      - `bulk out`
+    - vi.
+      - 扩大，变阔；变宽，加宽
+        - `enlarge`
+        - `extend`
+    - vt.
+      - 使扩大；使变宽
+        - `exaggerate`
+        - `bulk out`
   - 例句
     - `Mr Mates said the party must broaden its appeal to younger voters.`
       - 梅茨先生说该党必须扩大在年轻选民中的影响。

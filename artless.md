@@ -1,19 +1,25 @@
 - artless
   - 发音
-    - 英 `/'ɑːtlis/`
-    - 美 `/'ɑrtləs/`
+    - 英
+      - `/'ɑːtlis/`
+    - 美
+      - `/'ɑrtləs/`
   - 词义
-    - adj. 朴实的
-    - `natural, honest, and sincere`
+    - adj.
+      - 朴实的
+        - `natural, honest, and sincere`
   - 同根词
     - adv.
-      - `artlessly` 天真烂漫地
+      - `artlessly`
+        - 天真烂漫地
     - n.
-      - `artlessness` 天真烂漫；淳朴；笨拙
+      - `artlessness`
+        - 天真烂漫；淳朴；笨拙
   - 近义词
-    - adj. 天真的；朴实的；无虚饰的
-      - `simple`
-      - `naive`
+    - adj.
+      - 天真的；朴实的；无虚饰的
+        - `simple`
+        - `naive`
   - 例句
     - `artless sincerity`
       - 天真烂漫

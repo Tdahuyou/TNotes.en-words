@@ -1,47 +1,71 @@
 - trail
   - 发音
-    - 英 `/treɪl/`
-    - 美 `/trel/`
+    - 英
+      - `/treɪl/`
+    - 美
+      - `/trel/`
   - 词义
-    - n. 踪迹
-    - `a long line or a series of marks that have been left by someone or something`
-    - v. 追踪
-    - `to follow someone by looking for signs that they have gone in a particular direction`
+    - n.
+      - 踪迹
+        - `a long line or a series of marks that have been left by someone or something`
+    - v.
+      - 追踪
+        - `to follow someone by looking for signs that they have gone in a particular direction`
   - 同根词
     - adj.
-      - `trailing` 后面的；拖尾的；牵引的；被拖动的；蔓延的
+      - `trailing`
+        - 后面的；拖尾的；牵引的；被拖动的；蔓延的
     - n.
-      - `trailer` 拖车；[电视] 预告片；追踪者
-      - `trailing` 拖尾；泥浆彩饰
+      - `trailer`
+        - 拖车；[电视] 预告片；追踪者
+      - `trailing`
+        - 拖尾；泥浆彩饰
     - v.
-      - `trailing` 尾随（trail的ing形式）
+      - `trailing`
+        - 尾随（trail的ing形式）
     - vi.
-      - `trailer` 乘拖车式活动房屋旅行
+      - `trailer`
+        - 乘拖车式活动房屋旅行
     - vt.
-      - `trailer` 用拖车载运
+      - `trailer`
+        - 用拖车载运
   - 近义词
-    - vt. 追踪；拖；蔓延；落后于
-      - `trace`
-      - `pull`
-    - n. 小径；痕迹；尾部；踪迹
-      - `mark`
-      - `track`
-      - `tail`
-    - vi. 飘出；[植]蔓生；垂下；[古生]拖曳
-      - `hang`
-      - `drag`
+    - vt.
+      - 追踪；拖；蔓延；落后于
+        - `trace`
+        - `pull`
+    - n.
+      - 小径；痕迹；尾部；踪迹
+        - `mark`
+        - `track`
+        - `tail`
+    - vi.
+      - 飘出；[植]蔓生；垂下；[古生]拖曳
+        - `hang`
+        - `drag`
   - 短语
-    - `on the trail` 追踪，寻找；在山径上 
-    - `audit trail` 审查跟踪，尾随审查；查帐索引；逐位跟踪 
-    - `follow the trail` 顺着足迹 
-    - `in trail` adv. 成一列纵队；挨次 
-    - `on the trail of` 跟踪追赶 
-    - `paper trail` 书面记录 
-    - `blaze a trail` 开辟道路；在树上作记号指路 
-    - `nature trail` 通往自然景观的小径 
-    - `off the trail` 出轨；失去踪迹；偏离目标 
-    - `appalachian trail` 阿巴拉契亚山道；阿帕拉契山径 
-    - `on trail` 受审；试行；在实验中 
+    - `on the trail`
+      - 追踪，寻找；在山径上 
+    - `audit trail`
+      - 审查跟踪，尾随审查；查帐索引；逐位跟踪 
+    - `follow the trail`
+      - 顺着足迹 
+    - `in trail`
+      - adv. 成一列纵队；挨次 
+    - `on the trail of`
+      - 跟踪追赶 
+    - `paper trail`
+      - 书面记录 
+    - `blaze a trail`
+      - 开辟道路；在树上作记号指路 
+    - `nature trail`
+      - 通往自然景观的小径 
+    - `off the trail`
+      - 出轨；失去踪迹；偏离目标 
+    - `appalachian trail`
+      - 阿巴拉契亚山道；阿帕拉契山径 
+    - `on trail`
+      - 受审；试行；在实验中 
   - 例句
     - `The hunters lost the tiger’s trail in the middle of the jungle.`
       - 猎人们在丛林深处失去了老虎的踪迹。

@@ -1,18 +1,24 @@
 - songbird
   - 发音
-    - 英 `/'sɒŋbɜːd/`
-    - 美 `/'sɔŋbɝd/`
+    - 英
+      - `/'sɒŋbɜːd/`
+    - 美
+      - `/'sɔŋbɝd/`
   - 词义
-    - n. 鸣禽,鸣鸟
-    - `a bird that can make musical sounds`
+    - n.
+      - 鸣禽,鸣鸟
+        - `a bird that can make musical sounds`
   - 同根词
     - n.
-      - `songster` 歌手；作曲者；诗人
-      - `songstress` 女歌手；女诗人；雌鸣禽
+      - `songster`
+        - 歌手；作曲者；诗人
+      - `songstress`
+        - 女歌手；女诗人；雌鸣禽
   - 近义词
-    - n. 鸣禽，鸣鸟；女歌手；告密者
-      - `accentor`
-      - `warbler`
+    - n.
+      - 鸣禽，鸣鸟；女歌手；告密者
+        - `accentor`
+        - `warbler`
   - 例句
     - `The zebra finch is a tiny Australian songbird.`
       - 斑胸草雀是一种来自澳洲的小型鸣禽。

@@ -1,13 +1,18 @@
 - falcon
   - 发音
-    - 英 `/'fælkən/`
-    - 美 `/'fælkən/`
+    - 英
+      - `/'fælkən/`
+    - 美
+      - `/'fælkən/`
   - 词义
-    - n. 猎鹰，隼
-    - `a bird that kills and eats other animals and can be trained to hunt`
+    - n.
+      - 猎鹰，隼
+        - `a bird that kills and eats other animals and can be trained to hunt`
   - 同根词
     - n.
-      - `falconer` 以鹰狩猎者；放鹰者；饲养和训练猎鹰的人
+      - `falconer`
+        - 以鹰狩猎者；放鹰者；饲养和训练猎鹰的人
   - 近义词
-    - n. [鸟]猎鹰；隼
-      - `peregrin`
+    - n.
+      - [鸟]猎鹰；隼
+        - `peregrin`

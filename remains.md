@@ -1,25 +1,34 @@
 - remains
   - 发音
-    - 英 `/rɪ'meɪnz/`
-    - 美 `/rɪ'menz/`
+    - 英
+      - `/rɪ'meɪnz/`
+    - 美
+      - `/rɪ'menz/`
   - 词义
-    - n. 剩余物，残留物；古代遗物，遗迹，遗址；遗骸
-    - `the parts of something that are left after the rest has been destroyed or has disappeared`
+    - n.
+      - 剩余物，残留物；古代遗物，遗迹，遗址；遗骸
+        - `the parts of something that are left after the rest has been destroyed or has disappeared`
   - 同根词
     - adj.
-      - `remainder` 剩余的；吃剩的
+      - `remainder`
+        - 剩余的；吃剩的
     - n.
-      - `remainder` [数] 余数，残余；剩余物；其余的人
+      - `remainder`
+        - [数] 余数，残余；剩余物；其余的人
     - vi.
-      - `remainder` 廉价出售；削价出售
+      - `remainder`
+        - 廉价出售；削价出售
     - vt.
-      - `remainder` 廉价出售；削价出售
+      - `remainder`
+        - 廉价出售；削价出售
   - 近义词
-    - n. 残余；遗骸
-      - `leaving`
-      - `vestige`
+    - n.
+      - 残余；遗骸
+        - `leaving`
+        - `vestige`
   - 短语
-    - `still remains` 仍然是 
+    - `still remains`
+      - 仍然是 
   - 例句
     - `extensive Roman remains (= of ancient buildings ) at Arles`
       - 阿尔勒的一大片古罗马遗迹

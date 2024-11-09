@@ -1,26 +1,38 @@
 - monopolize
   - 发音
-    - 英 `/mə'nɔpəlaiz/`
-    - 美 `/mə'nɑpə'laɪz/`
+    - 英
+      - `/mə'nɔpəlaiz/`
+    - 美
+      - `/mə'nɑpə'laɪz/`
   - 词义
-    - v. 独占,垄断
-    - `to have complete control over something so that other people cannot share it or take part in it`
+    - v.
+      - 独占,垄断
+        - `to have complete control over something so that other people cannot share it or take part in it`
   - 同根词
     - adj.
-      - `monopolistic` 垄断的；独占性的；专利的
+      - `monopolistic`
+        - 垄断的；独占性的；专利的
     - n.
-      - `monopoly` 垄断；垄断者；专卖权
-      - `monopolist` 垄断者；独占者；专利者
-      - `monopsony` [贸易] 买主独家垄断，买主垄断
-      - `monopolisation` 独占；垄断
-      - `monopolization` 垄断；专卖；独占
-      - `monopolizer` 垄断者；独占的人
+      - `monopoly`
+        - 垄断；垄断者；专卖权
+      - `monopolist`
+        - 垄断者；独占者；专利者
+      - `monopsony`
+        - [贸易] 买主独家垄断，买主垄断
+      - `monopolisation`
+        - 独占；垄断
+      - `monopolization`
+        - 垄断；专卖；独占
+      - `monopolizer`
+        - 垄断者；独占的人
     - vt.
-      - `monopolise` 垄断，获得专卖权（等于monopolize）
+      - `monopolise`
+        - 垄断，获得专卖权（等于monopolize）
   - 近义词
-    - vt. 垄断；独占；拥有…的专卖权
-      - `corner`
-      - `forestall`
+    - vt.
+      - 垄断；独占；拥有…的专卖权
+        - `corner`
+        - `forestall`
   - 例句
     - `The company has monopolized the soft drinks market.`
       - 该公司垄断了软饮料市场。

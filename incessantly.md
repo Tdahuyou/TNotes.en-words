@@ -1,18 +1,24 @@
 - incessantly
   - 发音
-    - 英 `/ɪn'sesntlɪ/`
-    - 美 `/in'sesntli/`
+    - 英
+      - `/ɪn'sesntlɪ/`
+    - 美
+      - `/in'sesntli/`
   - 词义
-    - adv. 不断地
+    - adv.
+      - 不断地
   - 同根词
     - adj.
-      - `incessant` 不断的；不停的；连续的
+      - `incessant`
+        - 不断的；不停的；连续的
     - n.
-      - `incessantness` 不间断
+      - `incessantness`
+        - 不间断
   - 近义词
-    - adv. 不停地，不间断地
-      - `ceaselessly`
-      - `uninterruptedly`
+    - adv.
+      - 不停地，不间断地
+        - `ceaselessly`
+        - `uninterruptedly`
   - 例句
     - `It rained incessantly for the whole two weeks.`
       - 雨不间断地下了整整两个星期。

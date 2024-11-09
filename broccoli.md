@@ -1,14 +1,18 @@
 - broccoli
   - 发音
-    - 英 `/'brɒkəlɪ/`
-    - 美 `/'brɑkəli/`
+    - 英
+      - `/'brɒkəlɪ/`
+    - 美
+      - `/'brɑkəli/`
   - 词义
-    - n. 花椰菜；西兰花
-    - `a green vegetable that has short branch-like stems`
+    - n.
+      - 花椰菜；西兰花
+        - `a green vegetable that has short branch-like stems`
   - 近义词
-    - n. [园艺]花椰菜；西兰花
-      - `cauliflower`
-      - `Brokkoli`
+    - n.
+      - [园艺]花椰菜；西兰花
+        - `cauliflower`
+        - `Brokkoli`
   - 例句
     - `If you want a vegetable, go eat broccoli.`
       - 如果你想要蔬菜，你可以去吃花椰菜。

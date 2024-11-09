@@ -1,17 +1,22 @@
 - bigamy
   - 发音
-    - 英 `/'bigəmi/`
-    - 美 `/'bɪɡəmi/`
+    - 英
+      - `/'bigəmi/`
+    - 美
+      - `/'bɪɡəmi/`
   - 词义
-    - n. 重婚；重婚罪
-    - `the crime of being married to two people at the same time`
+    - n.
+      - 重婚；重婚罪
+        - `the crime of being married to two people at the same time`
   - 记忆
     - bi (两) + gam (婚姻) + y → 重婚； 重婚罪
   - 同根词
     - adj.
-      - `bigamous` 重婚的；犯重婚罪的
+      - `bigamous`
+        - 重婚的；犯重婚罪的
     - n.
-      - `bigamist` 重婚者
+      - `bigamist`
+        - 重婚者
   - 例句
     - `It would be a rare case involving a foreigner if Frank is convicted of bigamy.`
       - 如果弗兰克被判重婚罪，此案将因外国人介入成为罕见案例。

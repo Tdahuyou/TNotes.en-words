@@ -1,9 +1,12 @@
 - Auckland
   - 发音
-    - 英 `/'ɔ:klənd/`
-    - 美 `/ˈɔːklənd/`
+    - 英
+      - `/'ɔ:klənd/`
+    - 美
+      - `/ˈɔːklənd/`
   - 词义
-    - n. 奥克兰（新西兰北岛西北岸港口城市）
+    - n.
+      - 奥克兰（新西兰北岛西北岸港口城市）
   - 例句
     - `I lived in Auckland, New Zealand, in my own flat with my dog.`
       - 我住在新西兰的奥克兰，我与我的狗住在我自己的公寓里。

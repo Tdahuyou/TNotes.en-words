@@ -1,16 +1,21 @@
 - octagon
   - 发音
-    - 英 `/'ɔktəgən/`
-    - 美 `/'ɑktəɡɑn/`
+    - 英
+      - `/'ɔktəgən/`
+    - 美
+      - `/'ɑktəɡɑn/`
   - 词义
-    - n. 八边形
-    - `a flat shape with eight sides and eight angles`
+    - n.
+      - 八边形
+        - `a flat shape with eight sides and eight angles`
   - 同根词
     - adj.
-      - `octagonal` 八角形的，八边形的
+      - `octagonal`
+        - 八角形的，八边形的
   - 近义词
-    - n. [数]八边形，八角形
-      - `eight-square`
+    - n.
+      - [数]八边形，八角形
+        - `eight-square`
   - 例句
     - `Various windows embellish the corridor, with the shape of square, circle, hexagon and octagon.`
       - 走廊的窗户形状各异，有方形，有圆形，有六角形，也有八角形。

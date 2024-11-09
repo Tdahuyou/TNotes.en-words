@@ -1,19 +1,26 @@
 - appraiser
   - 发音
-    - 英 `/ə'preizə/`
-    - 美 `/ə'prezɚ/`
+    - 英
+      - `/ə'preizə/`
+    - 美
+      - `/ə'prezɚ/`
   - 词义
-    - n. 鉴定人；估价人
+    - n.
+      - 鉴定人；估价人
   - 同根词
     - n.
-      - `appraisal` 评价；估价（尤指估价财产，以便征税）；估计
+      - `appraisal`
+        - 评价；估价（尤指估价财产，以便征税）；估计
     - v.
-      - `appraising` 鉴定；估价；评价
+      - `appraising`
+        - 鉴定；估价；评价
     - vt.
-      - `appraise` 评价，鉴定；估价
+      - `appraise`
+        - 评价，鉴定；估价
   - 近义词
-    - n. [法]鉴定人，[保险]评价人；估价官
-      - `identifier`
+    - n.
+      - [法]鉴定人，[保险]评价人；估价官
+        - `identifier`
   - 例句
     - `Judicial expertise institution and judicial appraiser should be neutral.`
       - 司法鉴定机构和司法鉴定人应该中立。

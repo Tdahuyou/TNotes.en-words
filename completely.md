@@ -1,30 +1,40 @@
 - completely
   - 发音
-    - 英 `/kəm'pliːtlɪ/`
-    - 美 `/kəm'plitli/`
+    - 英
+      - `/kəm'pliːtlɪ/`
+    - 美
+      - `/kəm'plitli/`
   - 词义
-    - adv. 彻底地，完全地
-    - `to the greatest degree possible`
+    - adv.
+      - 彻底地，完全地
+        - `to the greatest degree possible`
   - 同根词
     - adj.
-      - `complete` 完整的；完全的；彻底的
-      - `completed` 完整的；完全的
+      - `complete`
+        - 完整的；完全的；彻底的
+      - `completed`
+        - 完整的；完全的
     - n.
-      - `completion` 完成，结束；实现
-      - `completeness` 完整；完全；完成；圆满；结束
+      - `completion`
+        - 完成，结束；实现
+      - `completeness`
+        - 完整；完全；完成；圆满；结束
     - v.
-      - `completed` 完成（complete的过去分词）
+      - `completed`
+        - 完成（complete的过去分词）
     - vt.
-      - `complete` 完成
+      - `complete`
+        - 完成
   - 近义词
-    - adv. 完全地，彻底地；完整地
-      - `entirely`
-      - `totally`
-      - `thoroughly`
-      - `fully`
-      - `absolutely`
-      - `strictly`
-      - `perfectly`
+    - adv.
+      - 完全地，彻底地；完整地
+        - `entirely`
+        - `totally`
+        - `thoroughly`
+        - `fully`
+        - `absolutely`
+        - `strictly`
+        - `perfectly`
   - 例句
     - `I completely forgot that it’s his birthday today.`
       - 我完全忘了今天是他的生日。

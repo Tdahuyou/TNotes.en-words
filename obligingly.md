@@ -1,19 +1,25 @@
 - obligingly
   - 发音
-    - 英 `/ə'blaidʒiŋli/`
-    - 美 `/undefined/`
+    - 英
+      - `/ə'blaidʒiŋli/`
+    - 美
+      - `/undefined/`
   - 词义
-    - adv. 亲切地
+    - adv.
+      - 亲切地
   - 同根词
     - adj.
-      - `obliging` 乐于助人的；有礼貌的；体贴的；亲切的
+      - `obliging`
+        - 乐于助人的；有礼貌的；体贴的；亲切的
     - v.
-      - `obliging` 迫使；约束（oblige的现在分词）
+      - `obliging`
+        - 迫使；约束（oblige的现在分词）
   - 近义词
-    - adv. 亲切地
-      - `warmly`
-      - `kindly`
-      - `lovingly`
+    - adv.
+      - 亲切地
+        - `warmly`
+        - `kindly`
+        - `lovingly`
   - 例句
     - `We had just come home from a good tromp in the bush and he was just getting comfortable when, very obligingly, he posed for me.`
       - 我们刚从灌木丛中回家。 他变得惬意起来，还亲切地在我面前摆起了姿势。

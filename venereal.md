@@ -1,12 +1,17 @@
 - venereal
   - 发音
-    - 英 `/vəˈnɪəriəl/`
-    - 美 `/və'nɪrɪəl/`
+    - 英
+      - `/vəˈnɪəriəl/`
+    - 美
+      - `/və'nɪrɪəl/`
   - 词义
-    - adj. 性病的；性交的；由性交传染的
-    - `of, relating to, or infected with venereal disease `
+    - adj.
+      - 性病的；性交的；由性交传染的
+        - `of, relating to, or infected with venereal disease `
   - 近义词
-    - adj. 性病的；性交的；由性交传染的
-      - `coital`
+    - adj.
+      - 性病的；性交的；由性交传染的
+        - `coital`
   - 短语
-    - `venereal disease` [医]性病；花柳病 
+    - `venereal disease`
+      - [医]性病；花柳病 

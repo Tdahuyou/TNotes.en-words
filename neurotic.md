@@ -1,37 +1,58 @@
 - neurotic
   - 发音
-    - 英 `/njʊə'rɒtɪk/`
-    - 美 `/nʊ'rɑtɪk/`
+    - 英
+      - `/njʊə'rɒtɪk/`
+    - 美
+      - `/nʊ'rɑtɪk/`
   - 词义
-    - adj. 神经过敏的；神经病的
-    - `unreasonably anxious or afraid`
-    - n. 神经病患者；神经过敏者
-    - `A neurotic is someone who is neurotic`
+    - adj.
+      - 神经过敏的；神经病的
+        - `unreasonably anxious or afraid`
+    - n.
+      - 神经病患者；神经过敏者
+        - `A neurotic is someone who is neurotic`
   - 同根词
     - adj.
-      - `neuropsychiatric` 神经精神病学的
-      - `neurotoxic` 毒害神经的
-      - `neurotropic` [生物] 亲神经的；[生物] 嗜神经组织的
+      - `neuropsychiatric`
+        - 神经精神病学的
+      - `neurotoxic`
+        - 毒害神经的
+      - `neurotropic`
+        - [生物] 亲神经的；[生物] 嗜神经组织的
     - adv.
-      - `neurotically` 神经质地；神经过敏地
+      - `neurotically`
+        - 神经质地；神经过敏地
     - n.
-      - `neurosis` [心理] 神经症；神经衰弱症
-      - `neurotransmitter` [生理] 神经递质；[生理] 神经传递素
-      - `neuroscience` 神经系统科学（指神经病学、 神经化学等）
-      - `neuroticism` 神经质，[心理] 神经过敏症
-      - `neuroscientist` 神经系统科学家
-      - `neurosurgeon` 神经外科医生
-      - `neurosurgery` [外科] 神经外科
-      - `neuropsychiatry` 神经精神病学
-      - `neuropsychology` 神经心理学
-      - `neurosyphilis` [性病] 神经梅毒
-      - `neurotoxin` [生化] 神经毒素
+      - `neurosis`
+        - [心理] 神经症；神经衰弱症
+      - `neurotransmitter`
+        - [生理] 神经递质；[生理] 神经传递素
+      - `neuroscience`
+        - 神经系统科学（指神经病学、 神经化学等）
+      - `neuroticism`
+        - 神经质，[心理] 神经过敏症
+      - `neuroscientist`
+        - 神经系统科学家
+      - `neurosurgeon`
+        - 神经外科医生
+      - `neurosurgery`
+        - [外科] 神经外科
+      - `neuropsychiatry`
+        - 神经精神病学
+      - `neuropsychology`
+        - 神经心理学
+      - `neurosyphilis`
+        - [性病] 神经梅毒
+      - `neurotoxin`
+        - [生化] 神经毒素
   - 近义词
-    - adj. 神经过敏的；神经病的
-      - `jittery`
-      - `ouchy`
-    - n. 神经病患者；神经过敏者
-      - `nervous wreck`
+    - adj.
+      - 神经过敏的；神经病的
+        - `jittery`
+        - `ouchy`
+    - n.
+      - 神经病患者；神经过敏者
+        - `nervous wreck`
   - 例句
     - `He seemed a neurotic, self-obsessed man.`
       - 他似乎是个神经过敏又自恋的人。

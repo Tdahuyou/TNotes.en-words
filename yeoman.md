@@ -1,14 +1,19 @@
 - yeoman
   - 发音
-    - 英 `/'jəʊmən/`
-    - 美 `/'jomən/`
+    - 英
+      - `/'jəʊmən/`
+    - 美
+      - `/'jomən/`
   - 词义
-    - n. 自耕农；自由民；仆人
-    - `a farmer in Britain in the past who owned and worked on his own land`
+    - n.
+      - 自耕农；自由民；仆人
+        - `a farmer in Britain in the past who owned and worked on his own land`
   - 同根词
     - n.
-      - `yeomanry` 自由民；自耕农；（英）义勇骑兵队
+      - `yeomanry`
+        - 自由民；自耕农；（英）义勇骑兵队
   - 近义词
-    - n. [农经]自耕农；自由民；仆人
-      - `servant`
-      - `dirt farmer`
+    - n.
+      - [农经]自耕农；自由民；仆人
+        - `servant`
+        - `dirt farmer`

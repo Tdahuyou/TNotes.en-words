@@ -1,32 +1,48 @@
 - oversupply
   - 发音
-    - 英 `/əʊvəsə'plaɪ/`
-    - 美 `/'ovəsə,plaɪ/`
+    - 英
+      - `/əʊvəsə'plaɪ/`
+    - 美
+      - `/'ovəsə,plaɪ/`
   - 词义
-    - n. [经]供给过多；过多的供应品
-    - `the state of having more of something than you need or can sell`
-    - v. 过度供给
-    - `to supply too much (material, etc) or too many (goods, people, etc) `
+    - n.
+      - [经]供给过多；过多的供应品
+        - `the state of having more of something than you need or can sell`
+    - v.
+      - 过度供给
+        - `to supply too much (material, etc) or too many (goods, people, etc) `
   - 记忆
     - over(过多) + supply(供应) → 过多供给
   - 同根词
     - adj.
-      - `overstuffed` 垫得又软又厚的；冗长的；多油的
+      - `overstuffed`
+        - 垫得又软又厚的；冗长的；多油的
     - n.
-      - `overstock` [经管] 库存过剩
-      - `overstress` 过分的强调；紧张过度
-      - `overstrain` 过度紧张；过劳
+      - `overstock`
+        - [经管] 库存过剩
+      - `overstress`
+        - 过分的强调；紧张过度
+      - `overstrain`
+        - 过度紧张；过劳
     - v.
-      - `overstuffed` 装填过度；涂油过多（overstuff的过去分词）
+      - `overstuffed`
+        - 装填过度；涂油过多（overstuff的过去分词）
     - vi.
-      - `overstock` 进货过多
-      - `overstrain` 过度紧张
+      - `overstock`
+        - 进货过多
+      - `overstrain`
+        - 过度紧张
     - vt.
-      - `overstock` 使进货过多
-      - `overstress` 过分强调；过分拉紧（或紧张）
-      - `overstrain` 使过度紧张；使工作过度；伸张过度
-      - `overstuff` 装填过度；给（软椅、沙发等）加厚软垫
-      - `overtire` 使过度劳累
+      - `overstock`
+        - 使进货过多
+      - `overstress`
+        - 过分强调；过分拉紧（或紧张）
+      - `overstrain`
+        - 使过度紧张；使工作过度；伸张过度
+      - `overstuff`
+        - 装填过度；给（软椅、沙发等）加厚软垫
+      - `overtire`
+        - 使过度劳累
   - 例句
     - `an oversupply of computers`
       - 计算机供应过量

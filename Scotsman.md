@@ -1,10 +1,13 @@
 - Scotsman
   - 发音
-    - 英 `/'skɔtsmən/`
-    - 美 `/'skɔtsmən/`
+    - 英
+      - `/'skɔtsmən/`
+    - 美
+      - `/'skɔtsmən/`
   - 词义
-    - n. 苏格兰人
-    - `a man from Scotland`
+    - n.
+      - 苏格兰人
+        - `a man from Scotland`
   - 例句
     - `We met, the Scotsman and I, one summer at the Edinburgh Festival.`
       - 在爱丁堡艺术节的一个夏天，我与那个苏格兰人相遇了。

@@ -1,16 +1,21 @@
 - electrocardiogram
   - 发音
-    - 英 `/ɪ,lektrəʊ'kɑːdɪəgræm/`
-    - 美 `/ɪ,lɛktro'kɑrdɪoɡræm/`
+    - 英
+      - `/ɪ,lektrəʊ'kɑːdɪəgræm/`
+    - 美
+      - `/ɪ,lɛktro'kɑrdɪoɡræm/`
   - 词义
-    - n. [医]心电图
-    - `an ecg2`
+    - n.
+      - [医]心电图
+        - `an ecg2`
   - 同根词
     - adj.
-      - `electrocardiographic` 心电图描记的（electrocardiograph的形容词）
+      - `electrocardiographic`
+        - 心电图描记的（electrocardiograph的形容词）
   - 近义词
-    - n. [内科]心电图
-      - `cardiogram`
+    - n.
+      - [内科]心电图
+        - `cardiogram`
   - 例句
     - `A disposable electrocardiogram machine the size of a Band-Aid monitors a heart patient.`
       - 一个邦迪大小的一次性心电图仪器监视着一个心脏病人。

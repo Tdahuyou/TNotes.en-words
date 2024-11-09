@@ -1,19 +1,27 @@
 - diarrhea
   - 发音
-    - 英 `/,daɪə'riə/`
-    - 美 `/,daɪə'riə/`
+    - 英
+      - `/,daɪə'riə/`
+    - 美
+      - `/,daɪə'riə/`
   - 词义
-    - n. 腹泻
+    - n.
+      - 腹泻
   - 同根词
     - adj.
-      - `diarrheal` 腹泻的
-      - `diarrheic` 腹泻的（等于diarrheal）
-      - `diarrhoeal` 腹泻的
+      - `diarrheal`
+        - 腹泻的
+      - `diarrheic`
+        - 腹泻的（等于diarrheal）
+      - `diarrhoeal`
+        - 腹泻的
   - 近义词
-    - n. 腹泻，痢疾
-      - `dysentery`
+    - n.
+      - 腹泻，痢疾
+        - `dysentery`
   - 短语
-    - `infantile diarrhea` 幼儿腹泻；婴儿腹泻 
+    - `infantile diarrhea`
+      - 幼儿腹泻；婴儿腹泻 
   - 例句
     - `Never prepare food for others if you have diarrhea or vomiting.`
       - 如果你腹泻或呕吐，千万不要为他人准备食物。

@@ -1,16 +1,21 @@
 - decant
   - 发音
-    - 英 `/dɪ'kænt/`
-    - 美 `/dɪ'kænt/`
+    - 英
+      - `/dɪ'kænt/`
+    - 美
+      - `/dɪ'kænt/`
   - 词义
-    - v. 轻轻倒出
-    - `If you decant a liquid into another container, you put it into another container`
+    - v.
+      - 轻轻倒出
+        - `If you decant a liquid into another container, you put it into another container`
   - 记忆
     - de(离开) + cant(瓶口) → 轻轻倒出
   - 同根词
     - n.
-      - `decanter` 玻璃水瓶；滗析器；倾注洗涤器
-      - `decantation` [化工] 倾析；倾注
+      - `decanter`
+        - 玻璃水瓶；滗析器；倾注洗涤器
+      - `decantation`
+        - [化工] 倾析；倾注
   - 例句
     - `Vintage ports must be decanted to remove natural sediments.`
       - 优质的葡萄酒必须倒出以清除其中自然沉淀的杂质。

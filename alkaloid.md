@@ -1,13 +1,17 @@
 - alkaloid
   - 发音
-    - 英 `/'ælkəlɒɪd/`
-    - 美 `/'ælkə'lɔɪd/`
+    - 英
+      - `/'ælkəlɒɪd/`
+    - 美
+      - `/'ælkə'lɔɪd/`
   - 词义
-    - n. [化]生物碱
-    - `any of a group of nitrogenous basic compounds found in plants, typically insoluble in water and physiologically active`
+    - n.
+      - [化]生物碱
+        - `any of a group of nitrogenous basic compounds found in plants, typically insoluble in water and physiologically active`
   - 同根词
     - adj.
-      - `alkaloidal` 含碱的；生物碱的（等于alkalogenic）
+      - `alkaloidal`
+        - 含碱的；生物碱的（等于alkalogenic）
   - 例句
     - `Cocaine is a crystalline tropane alkaloid that is obtained from the leaves of the coca plant.`
       - 可卡因是一种结晶状的莨菪生物碱，是从古柯叶中提取得来的。

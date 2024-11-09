@@ -1,22 +1,30 @@
 - odorless
   - 发音
-    - 英 `/'oudərləs/`
-    - 美 `/undefined/`
+    - 英
+      - `/'oudərləs/`
+    - 美
+      - `/undefined/`
   - 词义
-    - adj. 无嗅的，没有气味的
+    - adj.
+      - 无嗅的，没有气味的
   - 记忆
     - 来自odor(n. 气味， 香气)
   - 同根词
     - adj.
-      - `odorous` 香的；有气味的；难闻的
-      - `odoriferous` 臭的，散发气味的；芬芳的
+      - `odorous`
+        - 香的；有气味的；难闻的
+      - `odoriferous`
+        - 臭的，散发气味的；芬芳的
     - n.
-      - `odor` 气味；名声
+      - `odor`
+        - 气味；名声
     - vt.
-      - `odorize` 洒香水于；给…添味，给…加臭味
+      - `odorize`
+        - 洒香水于；给…添味，给…加臭味
   - 近义词
-    - adj. 没有气味的
-      - `inodorous`
+    - adj.
+      - 没有气味的
+        - `inodorous`
   - 例句
     - `Install a CO detector to alert you of the presence of the deadly, odorless, colorless gas.`
       - 安装一氧化碳检测器来警告是否存在这种致命的、无色无味的气体。

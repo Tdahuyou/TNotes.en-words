@@ -1,25 +1,33 @@
 - ancestor
   - 发音
-    - 英 `/'ænsestər/`
-    - 美 `/'ænsɛstɚ/`
+    - 英
+      - `/'ænsestər/`
+    - 美
+      - `/'ænsɛstɚ/`
   - 词义
-    - n. 祖先，祖宗；原种；原型
-    - `a member of your family who lived a long time ago`
+    - n.
+      - 祖先，祖宗；原种；原型
+        - `a member of your family who lived a long time ago`
   - 记忆
     - ance(在…前面) + cest(走) + or(表人， 名词后缀) → 走在前面的人 → 祖先
   - 同根词
     - adj.
-      - `ancestral` 祖先的；祖传的
+      - `ancestral`
+        - 祖先的；祖传的
     - n.
-      - `ancestry` 祖先；血统
-      - `ancestress` 女性祖先；女性被继承人
+      - `ancestry`
+        - 祖先；血统
+      - `ancestress`
+        - 女性祖先；女性被继承人
   - 近义词
-    - n. 始祖，[生物]祖先；被继承人
-      - `father`
-      - `root`
-      - `grandfather`
+    - n.
+      - 始祖，[生物]祖先；被继承人
+        - `father`
+        - `root`
+        - `grandfather`
   - 短语
-    - `ancestor worship` 祖先崇拜；祭祖；敬奉祖先 
+    - `ancestor worship`
+      - 祖先崇拜；祭祖；敬奉祖先 
   - 例句
     - `My ancestors were French.`
       - 我的祖先是法国人。

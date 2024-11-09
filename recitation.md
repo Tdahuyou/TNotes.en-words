@@ -1,27 +1,37 @@
 - recitation
   - 发音
-    - 英 `/ˌresi'teiʃən/`
-    - 美 `/,rɛsɪ'teʃən/`
+    - 英
+      - `/ˌresi'teiʃən/`
+    - 美
+      - `/,rɛsɪ'teʃən/`
   - 词义
-    - n. 朗诵，背诵；叙述
-    - `an act of saying a poem, piece of literature etc that you have learned, for people to listen to`
+    - n.
+      - 朗诵，背诵；叙述
+        - `an act of saying a poem, piece of literature etc that you have learned, for people to listen to`
   - 记忆
     - 来自recite (v. 朗诵， 背诵)
   - 同根词
     - adj.
-      - `recitative` 吟诵的；背诵的；叙述的
+      - `recitative`
+        - 吟诵的；背诵的；叙述的
     - n.
-      - `recital` 朗诵，吟诵；独奏会；背诵；独唱会
-      - `recitative` 朗诵调；宣叙调
-      - `reciter` 朗诵者；背诵者
+      - `recital`
+        - 朗诵，吟诵；独奏会；背诵；独唱会
+      - `recitative`
+        - 朗诵调；宣叙调
+      - `reciter`
+        - 朗诵者；背诵者
     - vi.
-      - `recite` 背诵；叙述
+      - `recite`
+        - 背诵；叙述
     - vt.
-      - `recite` 背诵；叙述；列举
+      - `recite`
+        - 背诵；叙述；列举
   - 近义词
-    - n. 背诵；朗诵；详述；背诵的诗
-      - `specification`
-      - `repetition`
+    - n.
+      - 背诵；朗诵；详述；背诵的诗
+        - `specification`
+        - `repetition`
   - 例句
     - `recitations from the great poets`
       - 背诵伟大诗人的诗

@@ -1,25 +1,34 @@
 - frolic
   - 发音
-    - 英 `/'frɒlɪk/`
-    - 美 `/'frɑlɪk/`
+    - 英
+      - `/'frɒlɪk/`
+    - 美
+      - `/'frɑlɪk/`
   - 词义
-    - adj. 嬉戏的，欢乐的
-    - n. 嬉闹，嬉戏
-    - `a fun enjoyable game or activity`
-    - v. 嬉戏
-    - `to play in an active happy way`
+    - adj.
+      - 嬉戏的，欢乐的
+    - n.
+      - 嬉闹，嬉戏
+        - `a fun enjoyable game or activity`
+    - v.
+      - 嬉戏
+        - `to play in an active happy way`
   - 同根词
     - adj.
-      - `frolicsome` 嬉戏的，爱闹着玩的
+      - `frolicsome`
+        - 嬉戏的，爱闹着玩的
   - 近义词
-    - adj. 嬉戏的，欢乐的
-      - `larkish`
-      - `festive`
-    - n. 嬉闹，嬉戏
-      - `playfulness`
-      - `larkishness`
-    - vi. 嬉戏
-      - `spaniel`
+    - adj.
+      - 嬉戏的，欢乐的
+        - `larkish`
+        - `festive`
+    - n.
+      - 嬉闹，嬉戏
+        - `playfulness`
+        - `larkishness`
+    - vi.
+      - 嬉戏
+        - `spaniel`
   - 例句
     - `A group of Australian sea lions relax and frolic in a sea grass meadow near Little Hopkins Island South Australia.`
       - 一群澳大利亚海狮在海草草甸中休憩、嬉戏，是在澳大利亚南部的小霍普金斯岛附近拍的。

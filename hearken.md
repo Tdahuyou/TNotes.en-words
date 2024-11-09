@@ -1,19 +1,24 @@
 - hearken
   - 发音
-    - 英 `/'hɑːrkən/`
-    - 美 `/'hɑrkən/`
+    - 英
+      - `/'hɑːrkən/`
+    - 美
+      - `/'hɑrkən/`
   - 词义
-    - v. 倾听
-    - `to listen`
+    - v.
+      - 倾听
+        - `to listen`
   - 记忆
     - 来自hear(v. 听)
   - 近义词
-    - vi. 倾听；听给予注意
-      - `listen for`
-      - `lend an ear`
-    - vt. 留心；听明白
-      - `notice`
-      - `look out for`
+    - vi.
+      - 倾听；听给予注意
+        - `listen for`
+        - `lend an ear`
+    - vt.
+      - 留心；听明白
+        - `notice`
+        - `look out for`
   - 例句
     - `Give ye ear, and hear my voice; hearken, and hear my speech.`
       - 你们当侧耳听我的声音，留心听我的言语。

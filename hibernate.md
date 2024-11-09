@@ -1,17 +1,22 @@
 - hibernate
   - 发音
-    - 英 `/'haɪbəneɪt/`
-    - 美 `/'haɪbɚnet/`
+    - 英
+      - `/'haɪbəneɪt/`
+    - 美
+      - `/'haɪbɚnet/`
   - 词义
-    - v. 冬眠
-    - `if an animal hibernates, it sleeps for the whole winter`
+    - v.
+      - 冬眠
+        - `if an animal hibernates, it sleeps for the whole winter`
   - 同根词
     - n.
-      - `hibernation` 冬眠；过冬；避寒
+      - `hibernation`
+        - 冬眠；过冬；避寒
   - 近义词
-    - vi. 过冬；（动物）冬眠；（人等）避寒
-      - `overwinter`
-      - `winter dormancy`
+    - vi.
+      - 过冬；（动物）冬眠；（人等）避寒
+        - `overwinter`
+        - `winter dormancy`
   - 例句
     - `Dormice hibernate from October to May.`
       - 睡鼠从10月到5月冬眠。

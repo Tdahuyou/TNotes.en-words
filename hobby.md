@@ -1,19 +1,24 @@
 - hobby
   - 发音
-    - 英 `/'hɒbɪ/`
-    - 美 `/'hɑbi/`
+    - 英
+      - `/'hɒbɪ/`
+    - 美
+      - `/'hɑbi/`
   - 词义
-    - n. 业余爱好
-    - `an activity that you enjoy doing in your free time`
+    - n.
+      - 业余爱好
+        - `an activity that you enjoy doing in your free time`
   - 同根词
     - n.
-      - `hobbyist` 业余爱好者；沉溺于某嗜好之人
+      - `hobbyist`
+        - 业余爱好者；沉溺于某嗜好之人
   - 近义词
-    - n. 嗜好；业余爱好
-      - `weakness`
-      - `habit`
-      - `appetite`
-      - `liking`
+    - n.
+      - 嗜好；业余爱好
+        - `weakness`
+        - `habit`
+        - `appetite`
+        - `liking`
   - 例句
     - `What are your hobbies?`
       - 你有些什么爱好？

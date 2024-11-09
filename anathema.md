@@ -1,20 +1,28 @@
 - anathema
   - 发音
-    - 英 `/ə'næθəmə/`
-    - 美 `/ə'næθəmə/`
+    - 英
+      - `/ə'næθəmə/`
+    - 美
+      - `/ə'næθəmə/`
   - 词义
-    - n. 诅咒
+    - n.
+      - 诅咒
   - 同根词
     - vi.
-      - `anathematise` 咒骂；强烈谴责（等于anathematize）
-      - `anathematize` 诅咒；强烈遣责；开除教籍
+      - `anathematise`
+        - 咒骂；强烈谴责（等于anathematize）
+      - `anathematize`
+        - 诅咒；强烈遣责；开除教籍
     - vt.
-      - `anathematise` 诅咒；宣布将…革出教门（等于anathematize）
-      - `anathematize` 诅咒；强烈遣责；宣布革出教门
+      - `anathematise`
+        - 诅咒；宣布将…革出教门（等于anathematize）
+      - `anathematize`
+        - 诅咒；强烈遣责；宣布革出教门
   - 近义词
-    - n. 诅咒；革出教门；被诅咒者；令人厌恶的人
-      - `curse`
-      - `malison`
+    - n.
+      - 诅咒；革出教门；被诅咒者；令人厌恶的人
+        - `curse`
+        - `malison`
   - 例句
     - `Campbell summed up by saying that nutrition is holistic, a concept which is “anathema” to most scientists’ method.`
       - 坎贝尔总结说，营养是全面的，这个概念是对大多数科学家的方法的“诅咒”。

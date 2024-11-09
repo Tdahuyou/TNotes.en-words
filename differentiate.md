@@ -1,32 +1,44 @@
 - differentiate
   - 发音
-    - 英 `/ˌdɪfə'renʃieɪt /`
-    - 美 `/,dɪfə'rɛnʃɪet/`
+    - 英
+      - `/ˌdɪfə'renʃieɪt /`
+    - 美
+      - `/,dɪfə'rɛnʃɪet/`
   - 词义
-    - v. 不同，区别
-    - `to recognize or express the difference between things or people`
+    - v.
+      - 不同，区别
+        - `to recognize or express the difference between things or people`
   - 记忆
     - 来自different(a. 不同的)
   - 同根词
     - adj.
-      - `differentiated` 分化型；已分化的；可区分的
-      - `differentiable` [数] 可微的；可辨的；可区分的
+      - `differentiated`
+        - 分化型；已分化的；可区分的
+      - `differentiable`
+        - [数] 可微的；可辨的；可区分的
     - adv.
-      - `differentially` 区别地
+      - `differentially`
+        - 区别地
     - n.
-      - `differentiation` 变异，[生物] 分化；区别
-      - `differentiator` [自] 微分器；微分电路；区分者
+      - `differentiation`
+        - 变异，[生物] 分化；区别
+      - `differentiator`
+        - [自] 微分器；微分电路；区分者
     - v.
-      - `differentiated` 使有差别（differentiate的过去分词）
+      - `differentiated`
+        - 使有差别（differentiate的过去分词）
   - 近义词
-    - vi. 区分，区别
-      - `to distinguish`
-      - `tell apart`
-    - vt. 区分，区别
-      - `to distinguish`
-      - `tell apart`
+    - vi.
+      - 区分，区别
+        - `to distinguish`
+        - `tell apart`
+    - vt.
+      - 区分，区别
+        - `to distinguish`
+        - `tell apart`
   - 短语
-    - `differentiate from` 将…区别开来 
+    - `differentiate from`
+      - 将…区别开来 
   - 例句
     - `What differentiates these two periods of history?`
       - 这两个历史时期的差别在哪里？

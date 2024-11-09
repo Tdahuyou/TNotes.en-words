@@ -1,20 +1,27 @@
 - disorientation
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 迷失方向,迷惑
+    - n.
+      - 迷失方向,迷惑
   - 同根词
     - adj.
-      - `disoriented` 无判断力的；分不清方向或目标的
+      - `disoriented`
+        - 无判断力的；分不清方向或目标的
     - v.
-      - `disoriented` 使…迷惑（disorient的过去时和过去分词）
+      - `disoriented`
+        - 使…迷惑（disorient的过去时和过去分词）
     - vt.
-      - `disorientate` 使迷惑；使失去方向感
+      - `disorientate`
+        - 使迷惑；使失去方向感
   - 近义词
-    - n. 迷失方向；迷惑
-      - `delusion`
-      - `fog`
+    - n.
+      - 迷失方向；迷惑
+        - `delusion`
+        - `fog`
   - 例句
     - `She was assigned a job to help Jews by talking to them and helping them cope with shock and disorientation at the train station.`
       - 工作的内容是用来帮助犹太人与他们谈话，并帮助他们应付犹太人的冲突和犹太人在火车站迷失方向事情。

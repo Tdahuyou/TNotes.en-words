@@ -1,22 +1,31 @@
 - landscapist
   - 发音
-    - 英 `/'lænd,skeɪpɪst/`
-    - 美 `/'lænd,skeipist/`
+    - 英
+      - `/'lænd,skeɪpɪst/`
+    - 美
+      - `/'lænd,skeipist/`
   - 词义
-    - n. 风景画家
-    - `a painter of landscapes `
+    - n.
+      - 风景画家
+        - `a painter of landscapes `
   - 同根词
     - n.
-      - `landscape` 风景，景色；山水画
-      - `landscaping` 景观美化
-      - `landscaper` 庭园设计家
+      - `landscape`
+        - 风景，景色；山水画
+      - `landscaping`
+        - 景观美化
+      - `landscaper`
+        - 庭园设计家
     - vi.
-      - `landscape` 从事景观美化工作
+      - `landscape`
+        - 从事景观美化工作
     - vt.
-      - `landscape` 美化…景观
+      - `landscape`
+        - 美化…景观
   - 近义词
-    - n. 风景画家
-      - `landscape painter`
+    - n.
+      - 风景画家
+        - `landscape painter`
   - 例句
     - `The third, draw the art history in the scenery up, the different landscapist has different beauty appreciation.`
       - 第三，在风景画艺术史上，不同的风景画家有着不同的审美取向。

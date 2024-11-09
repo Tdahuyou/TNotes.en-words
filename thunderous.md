@@ -1,29 +1,41 @@
 - thunderous
   - 发音
-    - 英 `/'θʌnd(ə)rəs/`
-    - 美 `/'θʌndərəs/`
+    - 英
+      - `/'θʌnd(ə)rəs/`
+    - 美
+      - `/'θʌndərəs/`
   - 词义
-    - adj. 打雷的,雷鸣般的
-    - `extremely loud`
+    - adj.
+      - 打雷的,雷鸣般的
+        - `extremely loud`
   - 同根词
     - adj.
-      - `thundering` 如雷鸣的；非常的；异乎寻常的
-      - `thundery` 雷鸣般的；情形不妙的
+      - `thundering`
+        - 如雷鸣的；非常的；异乎寻常的
+      - `thundery`
+        - 雷鸣般的；情形不妙的
     - adv.
-      - `thundering` 非常，异常
+      - `thundering`
+        - 非常，异常
     - n.
-      - `thunder` 雷；轰隆声；恐吓
-      - `thundering` 打雷
+      - `thunder`
+        - 雷；轰隆声；恐吓
+      - `thundering`
+        - 打雷
     - v.
-      - `thundering` 打雷；发出雷鸣般声响；大声吼叫（thunder的ing形式）
+      - `thundering`
+        - 打雷；发出雷鸣般声响；大声吼叫（thunder的ing形式）
     - vi.
-      - `thunder` 打雷；怒喝
+      - `thunder`
+        - 打雷；怒喝
     - vt.
-      - `thunder` 轰隆地发出；大声喊出
+      - `thunder`
+        - 轰隆地发出；大声喊出
   - 近义词
-    - adj. 像打雷的，隆轰隆响的；多雷的，强有力的
-      - `powerful`
-      - `cogent`
+    - adj.
+      - 像打雷的，隆轰隆响的；多雷的，强有力的
+        - `powerful`
+        - `cogent`
   - 例句
     - `His speech was greeted with thunderous applause .`
       - 他的演讲赢得雷鸣般的掌声。

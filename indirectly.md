@@ -1,18 +1,24 @@
 - indirectly
   - 发音
-    - 英 `/,ɪndɪ'rek(t)lɪ/`
-    - 美 `/,ɪndə'rɛktli/`
+    - 英
+      - `/,ɪndɪ'rek(t)lɪ/`
+    - 美
+      - `/,ɪndə'rɛktli/`
   - 词义
-    - adv. 间接地
+    - adv.
+      - 间接地
   - 同根词
     - adj.
-      - `indirect` 间接的；迂回的；非直截了当的
+      - `indirect`
+        - 间接的；迂回的；非直截了当的
     - n.
-      - `indirection` 间接；迂回；不坦率
+      - `indirection`
+        - 间接；迂回；不坦率
   - 近义词
-    - adv. 间接地；不诚实；迂回地
-      - `circuitously`
-      - `round about`
+    - adv.
+      - 间接地；不诚实；迂回地
+        - `circuitously`
+        - `round about`
   - 例句
     - `I heard the news indirectly.`
       - 这消息我是间接听来的。

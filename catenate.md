@@ -1,20 +1,28 @@
 - catenate
   - 发音
-    - 英 `/'kætɪneɪt/`
-    - 美 `/'kætineit/`
+    - 英
+      - `/'kætɪneɪt/`
+    - 美
+      - `/'kætineit/`
   - 词义
-    - v. 连接,使连续
+    - v.
+      - 连接,使连续
   - 同根词
     - adj.
-      - `catenary` 悬链线的；垂曲线的
-      - `catenulate` [生物] 链状的；成链形的
+      - `catenary`
+        - 悬链线的；垂曲线的
+      - `catenulate`
+        - [生物] 链状的；成链形的
     - n.
-      - `catenary` 链；悬链线；链状物
-      - `catena` 连续，系列；彼此相连接的东西；（尤指）专业丛书
+      - `catenary`
+        - 链；悬链线；链状物
+      - `catena`
+        - 连续，系列；彼此相连接的东西；（尤指）专业丛书
   - 近义词
-    - vt. 连接；把…连接成链状
-      - `couple`
-      - `connect with`
+    - vt.
+      - 连接；把…连接成链状
+        - `couple`
+        - `connect with`
   - 例句
     - `The word 'concatenate' is just a verbose synonym for 'catenate'.`
       - “连接”只是“连接”的较为详细的同义词（看英文吧）。

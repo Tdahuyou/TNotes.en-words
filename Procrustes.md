@@ -1,9 +1,11 @@
 - Procrustes
   - 发音
-    - 英 `/prəu'krʌsti:z/`
-    - 美 `/prəu'krʌsti:z/`
+    - 英
+      - `/prəu'krʌsti:z/`
+    - 美
+      - `/prəu'krʌsti:z/`
   - 词义
-    - `a robber, who put travellers in his bed, stretching or lopping off their limbs so that they fitted it`
+        - `a robber, who put travellers in his bed, stretching or lopping off their limbs so that they fitted it`
   - 例句
     - `Near to the banks of the Cephissus lived the giant Procrustes , of whom (as was the case with other giants) Theseus had heard long before he met him.`
       - 在科菲索斯河岸边住着巨人普洛克洛斯忒斯，就象其它的巨人一样，忒修斯早就听说了他的情况。

@@ -1,28 +1,40 @@
 - judicature
   - 发音
-    - 英 `/'dʒuːdikətʃə/`
-    - 美 `/'dʒudɪkətʃɚ/`
+    - 英
+      - `/'dʒuːdikətʃə/`
+    - 美
+      - `/'dʒudɪkətʃɚ/`
   - 词义
-    - n. 司法
-    - `judges as a group, and the organization, power etc of the law`
+    - n.
+      - 司法
+        - `judges as a group, and the organization, power etc of the law`
   - 同根词
     - adj.
-      - `judiciary` 司法的；法官的；法院的
-      - `judicatory` 司法的；判决的
+      - `judiciary`
+        - 司法的；法官的；法院的
+      - `judicatory`
+        - 司法的；判决的
     - n.
-      - `judge` 法官；裁判员
-      - `judiciary` 司法部；法官；司法制度
-      - `judgeship` 法官的职权；法官的地位
-      - `judicatory` 法庭；法院系统
-    - vi.
-      - `judge` 审判；判决
-    - vt.
-      - `judge` 判断；审判
-  - 近义词
-    - n. [法]司法；法官；司法权；法官的职位
-      - `jurisdiction`
       - `judge`
-      - `bands`
+        - 法官；裁判员
+      - `judiciary`
+        - 司法部；法官；司法制度
+      - `judgeship`
+        - 法官的职权；法官的地位
+      - `judicatory`
+        - 法庭；法院系统
+    - vi.
+      - `judge`
+        - 审判；判决
+    - vt.
+      - `judge`
+        - 判断；审判
+  - 近义词
+    - n.
+      - [法]司法；法官；司法权；法官的职位
+        - `jurisdiction`
+        - `judge`
+        - `bands`
   - 例句
     - `Can you explain to me the function of judicature?`
       - 你能给我解释一下司法系统的功能吗？

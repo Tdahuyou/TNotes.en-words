@@ -1,15 +1,19 @@
 - monocle
   - 发音
-    - 英 `/'mɑːnəkl/`
-    - 美 `/'mɑnəkl/`
+    - 英
+      - `/'mɑːnəkl/`
+    - 美
+      - `/'mɑnəkl/`
   - 词义
-    - n. 单片眼镜
-    - `a round piece of glass that you put in front of one eye to help you see better`
+    - n.
+      - 单片眼镜
+        - `a round piece of glass that you put in front of one eye to help you see better`
   - 记忆
     - mon(单个的) + oc(眼睛) + le → 单片眼镜
   - 同根词
     - adj.
-      - `monocled` 戴单眼镜的
+      - `monocled`
+        - 戴单眼镜的
   - 例句
     - `What about a monocle?`
       - 单片眼镜怎么样？

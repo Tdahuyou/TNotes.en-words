@@ -1,23 +1,30 @@
 - everywhere
   - 发音
-    - 英 `/'evrɪweə/`
-    - 美 `/'ɛvrɪwɛr/`
+    - 英
+      - `/'evrɪweə/`
+    - 美
+      - `/'ɛvrɪwɛr/`
   - 词义
-    - adv. 到处；处处
-    - `in or to every place`
+    - adv.
+      - 到处；处处
+        - `in or to every place`
   - 记忆
     - every(每个)+where(哪里)→到处
   - 同根词
     - adj.
-      - `every` 每一的，每个的；每隔…的
+      - `every`
+        - 每一的，每个的；每隔…的
   - 近义词
-    - adv. 到处
-      - `around`
-      - `throughout`
-      - `about`
+    - adv.
+      - 到处
+        - `around`
+        - `throughout`
+        - `about`
   - 短语
-    - `almost everywhere` 几乎所有 
-    - `everywhere you go` 无论你去哪里（歌词） 
+    - `almost everywhere`
+      - 几乎所有 
+    - `everywhere you go`
+      - 无论你去哪里（歌词） 
   - 例句
     - `I’ve looked everywhere but I can’t find the map.`
       - 我到处都找过了，但就是找不到地图。

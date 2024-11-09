@@ -1,37 +1,50 @@
 - counterfeit
   - 发音
-    - 英 `/'kauntərfɪt/`
-    - 美 `/'kaʊntɚ'fɪt/`
+    - 英
+      - `/'kauntərfɪt/`
+    - 美
+      - `/'kaʊntɚ'fɪt/`
   - 词义
-    - adj. 伪造的，假冒的
-    - `made to look exactly like something else, in order to deceive people`
-    - n. 赝品
-    - `Counterfeit is also a noun`
-    - vt. 伪造，仿造
-    - `to copy something exactly in order to deceive people`
+    - adj.
+      - 伪造的，假冒的
+        - `made to look exactly like something else, in order to deceive people`
+    - n.
+      - 赝品
+        - `Counterfeit is also a noun`
+    - vt.
+      - 伪造，仿造
+        - `to copy something exactly in order to deceive people`
   - 记忆
     - counter(反) + feit(做) → 反着做 → 伪造， 仿造
   - 同根词
     - n.
-      - `counterfeiter` [法] 伪造者；货币伪造者
+      - `counterfeiter`
+        - [法] 伪造者；货币伪造者
   - 近义词
-    - vt. [法]伪造，仿造；假装，伪装
-      - `simulate`
-      - `doctor`
-      - `come`
-    - vi. 仿造；假装
-      - `act`
-      - `put on`
-    - n. 赝品；冒牌货；[法]伪造品
-      - `stumour`
-      - `shoddy`
-    - adj. 假冒的，[法]伪造的；虚伪的
-      - `artificial`
-      - `false`
+    - vt.
+      - [法]伪造，仿造；假装，伪装
+        - `simulate`
+        - `doctor`
+        - `come`
+    - vi.
+      - 仿造；假装
+        - `act`
+        - `put on`
+    - n.
+      - 赝品；冒牌货；[法]伪造品
+        - `stumour`
+        - `shoddy`
+    - adj.
+      - 假冒的，[法]伪造的；虚伪的
+        - `artificial`
+        - `false`
   - 短语
-    - `counterfeit money` 假币；伪钞 
-    - `counterfeit products` 假货；仿造产品 
-    - `counterfeit software` 盗版软件 
+    - `counterfeit money`
+      - 假币；伪钞 
+    - `counterfeit products`
+      - 假货；仿造产品 
+    - `counterfeit software`
+      - 盗版软件 
   - 例句
     - `He admitted possessing and delivering counterfeit currency.`
       - 他承认持有和运送了假币。

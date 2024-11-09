@@ -1,7 +1,9 @@
 - Paula
   - 发音
-    - 英 `/'pɔ:lə/`
-    - 美 `/'pɔ:lə/`
+    - 英
+      - `/'pɔ:lə/`
+    - 美
+      - `/'pɔ:lə/`
   - 词义
   - 例句
     - `Peter asks Paula to go to dinner.`

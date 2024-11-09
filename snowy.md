@@ -1,22 +1,30 @@
 - snowy
   - 发音
-    - 英 `/'snəʊɪ/`
-    - 美 `/'snoɪ/`
+    - 英
+      - `/'snəʊɪ/`
+    - 美
+      - `/'snoɪ/`
   - 词义
-    - adj. 多雪的；下雪的
-    - `with a lot of snow`
+    - adj.
+      - 多雪的；下雪的
+        - `with a lot of snow`
   - 同根词
     - n.
-      - `snow` 雪，积雪；下雪
+      - `snow`
+        - 雪，积雪；下雪
     - vi.
-      - `snow` 降雪
+      - `snow`
+        - 降雪
     - vt.
-      - `snow` 使纷纷落下；使变白
+      - `snow`
+        - 使纷纷落下；使变白
   - 近义词
-    - adj. 下雪的，多雪的；被雪覆盖的；洁白无瑕的
-      - `nival`
+    - adj.
+      - 下雪的，多雪的；被雪覆盖的；洁白无瑕的
+        - `nival`
   - 短语
-    - `snowy white` n. 雪白色 
+    - `snowy white`
+      - n. 雪白色 
   - 例句
     - `the snowy fields`
       - 被雪覆盖的田野

@@ -1,22 +1,30 @@
 - switchboard
   - 发音
-    - 英 `/'swɪtʃbɔːd/`
-    - 美 `/'swɪtʃbɔrd/`
+    - 英
+      - `/'swɪtʃbɔːd/`
+    - 美
+      - `/'swɪtʃbɔrd/`
   - 词义
-    - n. 配电盘；接线总机
-    - `a system used to connect telephone calls in an office building, hotel etc, or the people who operate the system`
+    - n.
+      - 配电盘；接线总机
+        - `a system used to connect telephone calls in an office building, hotel etc, or the people who operate the system`
   - 同根词
     - n.
-      - `switching` [电] 开关；转换；整流；配电
+      - `switching`
+        - [电] 开关；转换；整流；配电
     - v.
-      - `switching` 转换（switch的ing形式）
+      - `switching`
+        - 转换（switch的ing形式）
   - 近义词
-    - n. [电]配电盘；接线总机
-      - `distribution panel`
-      - `cabinet panel`
+    - n.
+      - [电]配电盘；接线总机
+        - `distribution panel`
+        - `cabinet panel`
   - 短语
-    - `telephone switchboard` 电话交换台，电话交换机 
-    - `switchboard operator` 接线员 
+    - `telephone switchboard`
+      - 电话交换台，电话交换机 
+    - `switchboard operator`
+      - 接线员 
   - 例句
     - `switchboard operators`
       - 电话总机接线员

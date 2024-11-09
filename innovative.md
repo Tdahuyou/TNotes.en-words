@@ -1,27 +1,39 @@
 - innovative
   - 发音
-    - 英 `/'ɪnəveɪtɪv/`
-    - 美 `/'ɪnəvetɪv/`
+    - 英
+      - `/'ɪnəveɪtɪv/`
+    - 美
+      - `/'ɪnəvetɪv/`
   - 词义
-    - adj. 革新的，创新的；富有革新精神的
-    - `an innovative idea or way of doing something is new, different, and better than those that existed before`
+    - adj.
+      - 革新的，创新的；富有革新精神的
+        - `an innovative idea or way of doing something is new, different, and better than those that existed before`
   - 同根词
     - adj.
-      - `innovational` 革新的；富有革新精神的
+      - `innovational`
+        - 革新的；富有革新精神的
     - n.
-      - `innovation` 创新，革新；新方法
-      - `innovator` 改革者，创新者
-      - `innovativeness` 创新性，创新精神
+      - `innovation`
+        - 创新，革新；新方法
+      - `innovator`
+        - 改革者，创新者
+      - `innovativeness`
+        - 创新性，创新精神
     - vi.
-      - `innovate` 创新；改革；革新
+      - `innovate`
+        - 创新；改革；革新
     - vt.
-      - `innovate` 改变；创立；创始；引人
+      - `innovate`
+        - 改变；创立；创始；引人
   - 近义词
-    - adj. 革新的，创新的
-      - `reformatory`
+    - adj.
+      - 革新的，创新的
+        - `reformatory`
   - 短语
-    - `innovative design` 创新设计 
-    - `innovative business` 创新企业；创新经营 
+    - `innovative design`
+      - 创新设计 
+    - `innovative business`
+      - 创新企业；创新经营 
   - 例句
     - `an innovative approach to language teaching`
       - 创新的语言教学法

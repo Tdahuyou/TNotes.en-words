@@ -1,22 +1,28 @@
 - torrid
   - 发音
-    - 英 `/'tɒrɪd/`
-    - 美 `/'tɔrɪd/`
+    - 英
+      - `/'tɒrɪd/`
+    - 美
+      - `/'tɔrɪd/`
   - 词义
-    - adj. 晒热的,热情的
-    - `involving strong emotions, especially of sexual love`
+    - adj.
+      - 晒热的,热情的
+        - `involving strong emotions, especially of sexual love`
   - 同根词
     - n.
-      - `torridity` 炎热
+      - `torridity`
+        - 炎热
   - 近义词
-    - adj. [气象]晒热的；热情的
-      - `intense`
-      - `warm`
-      - `hot`
-      - `tropical`
-      - `enthusiastic`
+    - adj.
+      - [气象]晒热的；热情的
+        - `intense`
+        - `warm`
+        - `hot`
+        - `tropical`
+        - `enthusiastic`
   - 短语
-    - `torrid zone` n. 热带 
+    - `torrid zone`
+      - n. 热带 
   - 例句
     - `a torrid love affair`
       - 狂热的风流韵事

@@ -1,10 +1,13 @@
 - asthenosphere
   - 发音
-    - 英 `/əs'θenəsfɪə/`
-    - 美 `/æs'θinə,sfɪr/`
+    - 英
+      - `/əs'θenəsfɪə/`
+    - 美
+      - `/æs'θinə,sfɪr/`
   - 词义
-    - n. 岩流圈
-    - `a thin semifluid layer of the earth (100`
+    - n.
+      - 岩流圈
+        - `a thin semifluid layer of the earth (100`
   - 例句
     - `The mesosphere comprises the rest of the mantle below the asthenosphere.`
       - 中间圈包括岩流圈以下地幔的其余部分。

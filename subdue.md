@@ -1,23 +1,29 @@
 - subdue
   - 发音
-    - 英 `/səb'duː/`
-    - 美 `/səb'du/`
+    - 英
+      - `/səb'duː/`
+    - 美
+      - `/səb'du/`
   - 词义
-    - vt. 制服，征服；抑制，克制
-    - `to defeat or control a person or group, especially using force`
+    - vt.
+      - 制服，征服；抑制，克制
+        - `to defeat or control a person or group, especially using force`
   - 记忆
     - sub(在…下面) + due(音似： 丢) → 打得敌人丢盔弃甲 → 制服， 征服
   - 同根词
     - adj.
-      - `subdued` 减弱的；被制服的；被抑制的
+      - `subdued`
+        - 减弱的；被制服的；被抑制的
     - v.
-      - `subdued` 使服从，压制，减弱（subdue 的过去式和过去分词）
+      - `subdued`
+        - 使服从，压制，减弱（subdue 的过去式和过去分词）
   - 近义词
-    - vt. 征服；抑制；减轻
-      - `master`
-      - `stay`
-      - `restrain`
-      - `moderate`
+    - vt.
+      - 征服；抑制；减轻
+        - `master`
+        - `stay`
+        - `restrain`
+        - `moderate`
   - 例句
     - `Police managed to subdue the angry crowd.`
       - 警察设法控制住了愤怒的人群。

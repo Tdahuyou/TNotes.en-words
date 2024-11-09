@@ -1,20 +1,29 @@
 - tentatively
   - 发音
-    - 英 `/'tentətivli/`
-    - 美 `/'tɛntətɪvli/`
+    - 英
+      - `/'tentətivli/`
+    - 美
+      - `/'tɛntətɪvli/`
   - 词义
-    - adv. 试验性地,犹豫不决地
+    - adv.
+      - 试验性地,犹豫不决地
   - 同根词
     - adj.
-      - `tentative` 试验性的，暂定的；踌躇的
+      - `tentative`
+        - 试验性的，暂定的；踌躇的
     - n.
-      - `tentative` 假设，试验
-      - `tent` 帐篷；住处；帷幕
+      - `tentative`
+        - 假设，试验
+      - `tent`
+        - 帐篷；住处；帷幕
     - vi.
-      - `tent` 住帐蓬；暂时居住
+      - `tent`
+        - 住帐蓬；暂时居住
     - vt.
-      - `tent` 用帐篷遮盖；使在帐篷里住宿
+      - `tent`
+        - 用帐篷遮盖；使在帐篷里住宿
   - 近义词
-    - adv. 暂时地；试验性地
-      - `briefly`
-      - `pro tem`
+    - adv.
+      - 暂时地；试验性地
+        - `briefly`
+        - `pro tem`

@@ -1,54 +1,85 @@
 - company
   - 发音
-    - 英 `/'kʌmp(ə)nɪ/`
-    - 美 `/'kʌmpəni/`
+    - 英
+      - `/'kʌmp(ə)nɪ/`
+    - 美
+      - `/'kʌmpəni/`
   - 词义
-    - n. 公司；剧团
-    - `a business organization that makes or sells goods or services`
+    - n.
+      - 公司；剧团
+        - `a business organization that makes or sells goods or services`
   - 同根词
     - adj.
-      - `companionable` 好交往的；友善的；适于做朋友的
-      - `companionate` 伙伴的，同伴的；友爱的，友好的
+      - `companionable`
+        - 好交往的；友善的；适于做朋友的
+      - `companionate`
+        - 伙伴的，同伴的；友爱的，友好的
     - n.
-      - `companion` 同伴；朋友；指南；手册
-      - `companionship` 友谊；陪伴；交谊
+      - `companion`
+        - 同伴；朋友；指南；手册
+      - `companionship`
+        - 友谊；陪伴；交谊
     - vt.
-      - `companion` 陪伴
+      - `companion`
+        - 陪伴
   - 近义词
-    - n. [贸易]公司；陪伴，同伴；连队
-      - `corporation`
-      - `establishment`
-      - `firm`
-      - `incorporation`
-    - vi. 交往
-      - `travel`
-      - `associate`
-      - `sort`
-      - `mix`
-    - vt. 陪伴
-      - `attend`
-      - `accompany`
+    - n.
+      - [贸易]公司；陪伴，同伴；连队
+        - `corporation`
+        - `establishment`
+        - `firm`
+        - `incorporation`
+    - vi.
+      - 交往
+        - `travel`
+        - `associate`
+        - `sort`
+        - `mix`
+    - vt.
+      - 陪伴
+        - `attend`
+        - `accompany`
   - 短语
-    - `limited company` 有限公司；（英）股份有限公司（等于limited-liability company） 
-    - `in company` 一起；当众 
-    - `company with` 奉陪；与…一起 
-    - `for company` 陪伴，作伴 
-    - `trading company` 贸易公司 
-    - `insurance company` 保险公司 
-    - `liability company` 有限公司 
-    - `company limited` 有限公司 
-    - `listed company` 上市公司，股票上市的公司 
-    - `group company` 集团公司 
-    - `limited liability company` 股份有限公司 
-    - `construction company` 建筑公司 
-    - `company profile` 公司简介；公司概况；企业介绍 
-    - `development company` 开发公司 
-    - `power company` 电力公司 
-    - `manufacturing company` 制造企业，制造公司 
-    - `holding company` 控股公司；股权公司 
-    - `shipping company` 航运公司；船舶公司 
-    - `parent company` 总公司，母公司 
-    - `company law` [经]公司法 
+    - `limited company`
+      - 有限公司；（英）股份有限公司（等于limited-liability company） 
+    - `in company`
+      - 一起；当众 
+    - `company with`
+      - 奉陪；与…一起 
+    - `for company`
+      - 陪伴，作伴 
+    - `trading company`
+      - 贸易公司 
+    - `insurance company`
+      - 保险公司 
+    - `liability company`
+      - 有限公司 
+    - `company limited`
+      - 有限公司 
+    - `listed company`
+      - 上市公司，股票上市的公司 
+    - `group company`
+      - 集团公司 
+    - `limited liability company`
+      - 股份有限公司 
+    - `construction company`
+      - 建筑公司 
+    - `company profile`
+      - 公司简介；公司概况；企业介绍 
+    - `development company`
+      - 开发公司 
+    - `power company`
+      - 电力公司 
+    - `manufacturing company`
+      - 制造企业，制造公司 
+    - `holding company`
+      - 控股公司；股权公司 
+    - `shipping company`
+      - 航运公司；船舶公司 
+    - `parent company`
+      - 总公司，母公司 
+    - `company law`
+      - [经]公司法 
   - 例句
     - `Which company do you work for?`
       - 你在哪家公司上班？

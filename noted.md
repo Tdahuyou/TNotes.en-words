@@ -1,38 +1,56 @@
 - noted
   - 发音
-    - 英 `/'noutɪd/`
-    - 美 `/'notɪd/`
+    - 英
+      - `/'noutɪd/`
+    - 美
+      - `/'notɪd/`
   - 词义
-    - adj. 著名的
-    - `well known or famous, especially because of some special quality or ability`
+    - adj.
+      - 著名的
+        - `well known or famous, especially because of some special quality or ability`
   - 同根词
     - adj.
-      - `notable` 值得注意的，显著的；著名的
-      - `noticeable` 显而易见的，显著的；值得注意的
-      - `noteworthy` 值得注意的；显著的
+      - `notable`
+        - 值得注意的，显著的；著名的
+      - `noticeable`
+        - 显而易见的，显著的；值得注意的
+      - `noteworthy`
+        - 值得注意的；显著的
     - adv.
-      - `notably` 显著地；尤其
-      - `noticeably` 显著地，明显地；引人注目地
+      - `notably`
+        - 显著地；尤其
+      - `noticeably`
+        - 显著地，明显地；引人注目地
     - n.
-      - `note` 笔记；音符；票据；注解；纸币；便笺；照会；调子
-      - `notice` 通知，布告；注意；公告
-      - `notation` 符号；乐谱；注释；记号法
-      - `notable` 名人，显要人物
-      - `notability` 显著；显要人物
+      - `note`
+        - 笔记；音符；票据；注解；纸币；便笺；照会；调子
+      - `notice`
+        - 通知，布告；注意；公告
+      - `notation`
+        - 符号；乐谱；注释；记号法
+      - `notable`
+        - 名人，显要人物
+      - `notability`
+        - 显著；显要人物
     - vi.
-      - `notice` 引起注意
+      - `notice`
+        - 引起注意
     - vt.
-      - `note` 注意；记录；注解
-      - `notice` 通知；注意到；留心
+      - `note`
+        - 注意；记录；注解
+      - `notice`
+        - 通知；注意到；留心
   - 近义词
-    - adj. 著名的；显著的；附有乐谱的
-      - `famous`
-      - `obvious`
-      - `prominent`
-      - `marked`
-      - `outstanding`
+    - adj.
+      - 著名的；显著的；附有乐谱的
+        - `famous`
+        - `obvious`
+        - `prominent`
+        - `marked`
+        - `outstanding`
   - 短语
-    - `noted for` 因……而著名 
+    - `noted for`
+      - 因……而著名 
   - 例句
     - `a noted author`
       - 著名作家

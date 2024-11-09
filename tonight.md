@@ -1,10 +1,13 @@
 - tonight
   - 发音
-    - 英 `/tə'naɪt/`
-    - 美 `/tə'naɪt/`
+    - 英
+      - `/tə'naɪt/`
+    - 美
+      - `/tə'naɪt/`
   - 词义
-    - adv. （在）今晚；（在）今夜
-    - `during the night of this day`
+    - adv.
+      - （在）今晚；（在）今夜
+        - `during the night of this day`
   - 例句
     - `I think I’ll go to bed early tonight.`
       - 我想今晚我会早点上床睡觉。

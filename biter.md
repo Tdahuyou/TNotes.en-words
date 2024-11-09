@@ -1,32 +1,47 @@
 - biter
   - 发音
-    - 英 `/'baɪtə/`
-    - 美 `/'baɪtɚ/`
+    - 英
+      - `/'baɪtə/`
+    - 美
+      - `/'baɪtɚ/`
   - 词义
-    - n. 咬人的动物,骗子
+    - n.
+      - 咬人的动物,骗子
   - 同根词
     - abbr.
-      - `bite` 机内测试设备（Built-In Test Equipment）
+      - `bite`
+        - 机内测试设备（Built-In Test Equipment）
     - adj.
-      - `bit` 很小的；微不足道的
-      - `biting` 刺痛的；辛辣的
+      - `bit`
+        - 很小的；微不足道的
+      - `biting`
+        - 刺痛的；辛辣的
     - adv.
-      - `bit` 有点儿；相当
+      - `bit`
+        - 有点儿；相当
     - n.
-      - `bit` [计] 比特（二进位制信息单位）；少量；马嚼子；辅币；老一套
-      - `bite` 咬；一口；咬伤；刺痛
+      - `bit`
+        - [计] 比特（二进位制信息单位）；少量；马嚼子；辅币；老一套
+      - `bite`
+        - 咬；一口；咬伤；刺痛
     - v.
-      - `bit` 咬（bite的过去式和过去分词）
-      - `biting` 咬；抓住；刺进；欺骗（bite的ing形式）
+      - `bit`
+        - 咬（bite的过去式和过去分词）
+      - `biting`
+        - 咬；抓住；刺进；欺骗（bite的ing形式）
     - vi.
-      - `bite` 咬；刺痛
+      - `bite`
+        - 咬；刺痛
     - vt.
-      - `bit` 控制
-      - `bite` 咬；刺痛
+      - `bit`
+        - 控制
+      - `bite`
+        - 咬；刺痛
   - 近义词
-    - n. 咬人的动物；骗子
-      - `fraud`
-      - `sharp`
+    - n.
+      - 咬人的动物；骗子
+        - `fraud`
+        - `sharp`
   - 例句
     - `The kids already know that biting hurts, so after removing the biter from the situation, focus all your concern on the victim.`
       - 孩子是知道咬会伤人的，因此把咬人的孩子抱离后，集中关心一下被咬的孩子。

@@ -1,28 +1,44 @@
 - algebra
   - 发音
-    - 英 `/'ældʒɪbrə/`
-    - 美 `/'ældʒɪbrə/`
+    - 英
+      - `/'ældʒɪbrə/`
+    - 美
+      - `/'ældʒɪbrə/`
   - 词义
-    - n. 代数
-    - `a type of mathematics that uses letters and other signs to represent numbers and values`
+    - n.
+      - 代数
+        - `a type of mathematics that uses letters and other signs to represent numbers and values`
   - 同根词
     - adj.
-      - `algebraic` [数] 代数的；关于代数学的
-      - `algebraical` 代数学的（等于algebraic）
+      - `algebraic`
+        - [数] 代数的；关于代数学的
+      - `algebraical`
+        - 代数学的（等于algebraic）
     - adv.
-      - `algebraically` 用代数方法
+      - `algebraically`
+        - 用代数方法
     - n.
-      - `algebraist` 代数学家
+      - `algebraist`
+        - 代数学家
   - 短语
-    - `linear algebra` 线性代数 
-    - `boolean algebra` 布尔代数 
-    - `lie algebra` 李代数，李氏代数 
-    - `relational algebra` [数]关系代数 
-    - `advanced algebra` 高等代数，大代数 
-    - `elementary algebra` 初等代数 
-    - `matrix algebra` [数]矩阵代数 
-    - `modern algebra` 近世代数 
-    - `abstract algebra` 抽象代数 
+    - `linear algebra`
+      - 线性代数 
+    - `boolean algebra`
+      - 布尔代数 
+    - `lie algebra`
+      - 李代数，李氏代数 
+    - `relational algebra`
+      - [数]关系代数 
+    - `advanced algebra`
+      - 高等代数，大代数 
+    - `elementary algebra`
+      - 初等代数 
+    - `matrix algebra`
+      - [数]矩阵代数 
+    - `modern algebra`
+      - 近世代数 
+    - `abstract algebra`
+      - 抽象代数 
   - 例句
     - `On the basis of minimax algebra theory, this paper provides an algebra method of solving countable stages decision problems in the dynamic programming.`
       - 本文根据极大极小代数理论，给出了一种用以求解动态规划中有限多阶段决策问题的代数算法。

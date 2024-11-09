@@ -1,18 +1,24 @@
 - skipper
   - 发音
-    - 英 `/'skɪpə/`
-    - 美 `/'skɪpɚ/`
+    - 英
+      - `/'skɪpə/`
+    - 美
+      - `/'skɪpɚ/`
   - 词义
-    - n. 队长；船长；机长
-    - `the person in charge of a ship`
-    - v. 带领；作…的船长（或机长）
+    - n.
+      - 队长；船长；机长
+        - `the person in charge of a ship`
+    - v.
+      - 带领；作…的船长（或机长）
   - 近义词
-    - n. 队长；船长；机长
-      - `officer`
-      - `sea captain`
-    - vt. 带领；作…的船长（或机长）
-      - `guide`
-      - `lead through`
+    - n.
+      - 队长；船长；机长
+        - `officer`
+        - `sea captain`
+    - vt.
+      - 带领；作…的船长（或机长）
+        - `guide`
+        - `lead through`
   - 例句
     - `I was skipper for the first time against Copenhagen at Old Trafford last season, but to do it again against a team like Roma was a real privilege.`
       - 上赛季在老特拉福德对哥本哈根的比赛时我第一次成为队长，但在对罗马这样的比赛中再次成为队长是非常荣耀的。

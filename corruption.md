@@ -1,32 +1,48 @@
 - corruption
   - 发音
-    - 英 `/kə'rʌpʃ(ə)n/`
-    - 美 `/kə'rʌpʃən/`
+    - 英
+      - `/kə'rʌpʃ(ə)n/`
+    - 美
+      - `/kə'rʌpʃən/`
   - 词义
-    - n. 腐化；贪污
-    - `dishonest, illegal, or immoral behaviour, especially from someone with power`
+    - n.
+      - 腐化；贪污
+        - `dishonest, illegal, or immoral behaviour, especially from someone with power`
   - 同根词
     - adj.
-      - `corrupt` 腐败的，贪污的；堕落的
-      - `corruptible` 易腐败的；易堕落的；可以贿赂的
-      - `corruptive` 使堕落的；腐败性的；使腐坏的
+      - `corrupt`
+        - 腐败的，贪污的；堕落的
+      - `corruptible`
+        - 易腐败的；易堕落的；可以贿赂的
+      - `corruptive`
+        - 使堕落的；腐败性的；使腐坏的
     - n.
-      - `corruptibility` 堕落性；腐败性；易腐败的倾向
-      - `corruptionist` 行贿者；舞弊政治家
-      - `corruptness` 腐败；堕落
+      - `corruptibility`
+        - 堕落性；腐败性；易腐败的倾向
+      - `corruptionist`
+        - 行贿者；舞弊政治家
+      - `corruptness`
+        - 腐败；堕落
     - vi.
-      - `corrupt` 堕落，腐化；腐烂
+      - `corrupt`
+        - 堕落，腐化；腐烂
     - vt.
-      - `corrupt` 使腐烂；使堕落，使恶化
+      - `corrupt`
+        - 使腐烂；使堕落，使恶化
   - 近义词
-    - n. [法]贪污，腐败；堕落
-      - `degradation`
-      - `deterioration`
+    - n.
+      - [法]贪污，腐败；堕落
+        - `degradation`
+        - `deterioration`
   - 短语
-    - `combat corruption` 反腐；惩治腐败 
-    - `crime of corruption` 贪污罪；腐化罪 
-    - `fighting corruption` 对抗贪污；打击贪污 
-    - `data corruption` 资料损坏 
+    - `combat corruption`
+      - 反腐；惩治腐败 
+    - `crime of corruption`
+      - 贪污罪；腐化罪 
+    - `fighting corruption`
+      - 对抗贪污；打击贪污 
+    - `data corruption`
+      - 资料损坏 
   - 例句
     - `officials charged with bribery and corruption`
       - 被指控受贿和贪污的官员

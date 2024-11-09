@@ -1,15 +1,20 @@
 - collagen
   - 发音
-    - 英 `/'kɒlədʒ(ə)n/`
-    - 美 `/'kɑlədʒən/`
+    - 英
+      - `/'kɒlədʒ(ə)n/`
+    - 美
+      - `/'kɑlədʒən/`
   - 词义
-    - n. 胶原质
-    - `a  protein  found in people and animals. It is often used in beauty products and treatments to make people look younger and more attractive.`
+    - n.
+      - 胶原质
+        - `a  protein  found in people and animals. It is often used in beauty products and treatments to make people look younger and more attractive.`
   - 同根词
     - adj.
-      - `collagenic` 胶原的；产生胶原的
+      - `collagenic`
+        - 胶原的；产生胶原的
   - 短语
-    - `collagen fibre` 胶原纤维；骨胶纤维 
+    - `collagen fibre`
+      - 胶原纤维；骨胶纤维 
   - 例句
     - `Lemons, oranges and any other citrus fruit form collagen resulting to holding the skin cells together. It is necessary to drink fruit juices and eat fruit every day.`
       - 柠檬，橘子和任何其他柑橘类水果形成胶原蛋白，从而新生皮肤细胞组织，所以每天要多喝果汁多吃水果。

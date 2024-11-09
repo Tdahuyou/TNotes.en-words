@@ -1,26 +1,38 @@
 - math
   - 发音
-    - 英 `/mæθ/`
-    - 美 `/mæθ/`
+    - 英
+      - `/mæθ/`
+    - 美
+      - `/mæθ/`
   - 词义
-    - n. 数学
-    - `mathematics`
+    - n.
+      - 数学
+        - `mathematics`
   - 同根词
     - adj.
-      - `mathematical` 数学的，数学上的；精确的
+      - `mathematical`
+        - 数学的，数学上的；精确的
     - adv.
-      - `mathematically` 算术地，数学上地
+      - `mathematically`
+        - 算术地，数学上地
     - n.
-      - `mathematics` 数学；数学运算
-      - `maths` 数学（等于mathematics）
-      - `mathematician` 数学家
+      - `mathematics`
+        - 数学；数学运算
+      - `maths`
+        - 数学（等于mathematics）
+      - `mathematician`
+        - 数学家
   - 近义词
-    - n. 数学（等于mathematics）
-      - `arith`
+    - n.
+      - 数学（等于mathematics）
+        - `arith`
   - 短语
-    - `math problem` 数学题 
-    - `math test` 数学考试 
-    - `math book` 数学书 
+    - `math problem`
+      - 数学题 
+    - `math test`
+      - 数学考试 
+    - `math book`
+      - 数学书 
   - 例句
     - `Tim’s good at math and science.`
       - 蒂姆的数学和自然科学很好。

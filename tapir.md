@@ -1,10 +1,13 @@
 - tapir
   - 发音
-    - 英 `/'teɪpə; -ɪə/`
-    - 美 `/undefined/`
+    - 英
+      - `/'teɪpə; -ɪə/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. [动]貘
-    - `an animal like a pig with thick legs, a short tail, and a long nose, that lives in tropical America and Southeast Asia`
+    - n.
+      - [动]貘
+        - `an animal like a pig with thick legs, a short tail, and a long nose, that lives in tropical America and Southeast Asia`
   - 例句
     - `It is a small six-legged herbivore called a HEXAPEDE, about the size of a tapir.`
       - 这是一个小型六足草食动物 被称为 孔雀鹿 大概有貘那么大。

@@ -1,20 +1,26 @@
 - volition
   - 发音
-    - 英 `/vəu'liʃən/`
-    - 美 `/vəˈlɪʃən/`
+    - 英
+      - `/vəu'liʃən/`
+    - 美
+      - `/vəˈlɪʃən/`
   - 词义
-    - n. 意志
+    - n.
+      - 意志
   - 记忆
     - vol (意志) + ition → 意志； 决断力
   - 同根词
     - adj.
-      - `volitional` 意志的；凭意志的
+      - `volitional`
+        - 意志的；凭意志的
     - adv.
-      - `volitionally` 意志地；有意志力地
+      - `volitionally`
+        - 意志地；有意志力地
   - 近义词
-    - n. 意志，意志力；决断力
-      - `purpose`
-      - `psychokinesis`
+    - n.
+      - 意志，意志力；决断力
+        - `purpose`
+        - `psychokinesis`
   - 例句
     - `And in every instance, you did so on you own volition.`
       - 每一次你都是按自己的意志去做的。 。

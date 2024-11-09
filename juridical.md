@@ -1,25 +1,34 @@
 - juridical
   - 发音
-    - 英 `/dʒu'rɪdɪkl/`
-    - 美 `/dʒʊ'rɪdɪkl/`
+    - 英
+      - `/dʒu'rɪdɪkl/`
+    - 美
+      - `/dʒʊ'rɪdɪkl/`
   - 词义
-    - adj. 法律的，司法的
-    - `relating to judges or the law`
+    - adj.
+      - 法律的，司法的
+        - `relating to judges or the law`
   - 记忆
     - jur(正确的) + id + ical → 法律的， 司法的
   - 同根词
     - adj.
-      - `jurisdictional` 管辖权的；司法的；司法权的；裁判权的
-      - `juridic` 司法上的；法律的
+      - `jurisdictional`
+        - 管辖权的；司法的；司法权的；裁判权的
+      - `juridic`
+        - 司法上的；法律的
     - n.
-      - `jurisdiction` 司法权，审判权，管辖权；权限，权力
-      - `jurisprudence` 法律体系；法学及其分支；法律知识；法院审判规程
+      - `jurisdiction`
+        - 司法权，审判权，管辖权；权限，权力
+      - `jurisprudence`
+        - 法律体系；法学及其分支；法律知识；法院审判规程
   - 近义词
-    - adj. 司法的；法院的；裁判上的
-      - `forensic`
-      - `judicative`
+    - adj.
+      - 司法的；法院的；裁判上的
+        - `forensic`
+        - `judicative`
   - 短语
-    - `juridical person` 法人 
+    - `juridical person`
+      - 法人 
   - 例句
     - `A juridical precedent is nothing but "authenticated custom".`
       - 司法惯例只不过是“权威的惯例”罢了。

@@ -1,35 +1,49 @@
 - glad
   - 发音
-    - 英 `/glæd/`
-    - 美 `/ɡlæd/`
+    - 英
+      - `/glæd/`
+    - 美
+      - `/ɡlæd/`
   - 词义
-    - adj. 高兴的；欢喜的
-    - `pleased and happy about something`
+    - adj.
+      - 高兴的；欢喜的
+        - `pleased and happy about something`
   - 同根词
     - adj.
-      - `gladsome` 高兴的；可喜的
+      - `gladsome`
+        - 高兴的；可喜的
     - adv.
-      - `gladly` 乐意地；高兴地；欢喜地
+      - `gladly`
+        - 乐意地；高兴地；欢喜地
     - n.
-      - `gladness` 愉快，高兴
+      - `gladness`
+        - 愉快，高兴
     - vi.
-      - `gladden` 喜悦
+      - `gladden`
+        - 喜悦
     - vt.
-      - `gladden` 使喜悦，使高兴
+      - `gladden`
+        - 使喜悦，使高兴
   - 近义词
-    - adj. 高兴的；乐意的；令人高兴的；灿烂美丽的
-      - `happy`
-      - `pleased`
-      - `willing`
-      - `delighted`
-    - vt. 使高兴
-      - `pleasure`
-      - `satisfy`
+    - adj.
+      - 高兴的；乐意的；令人高兴的；灿烂美丽的
+        - `happy`
+        - `pleased`
+        - `willing`
+        - `delighted`
+    - vt.
+      - 使高兴
+        - `pleasure`
+        - `satisfy`
   - 短语
-    - `glad to meet you` 见到你很高兴 
-    - `glad to see you` 见到你很高兴 
-    - `glad of` 对……感到高兴 
-    - `glad eye` n. [口]媚眼；秋波 
+    - `glad to meet you`
+      - 见到你很高兴 
+    - `glad to see you`
+      - 见到你很高兴 
+    - `glad of`
+      - 对……感到高兴 
+    - `glad eye`
+      - n. [口]媚眼；秋波 
   - 例句
     - `We’re so glad you came.`
       - 你来了我们真高兴。

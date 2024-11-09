@@ -1,28 +1,36 @@
 - gracious
   - 发音
-    - 英 `/'greɪʃəs/`
-    - 美 `/'ɡreʃəs/`
+    - 英
+      - `/'greɪʃəs/`
+    - 美
+      - `/'ɡreʃəs/`
   - 词义
-    - adj. 亲切的；高尚的；和蔼的；雅致的
-    - `behaving in a polite, kind, and generous way, especially to people of a lower rank`
-    - int. 天哪；哎呀
+    - adj.
+      - 亲切的；高尚的；和蔼的；雅致的
+        - `behaving in a polite, kind, and generous way, especially to people of a lower rank`
+    - int.
+      - 天哪；哎呀
   - 同根词
     - adv.
-      - `graciously` 和蔼地；仁慈地；雅致地
+      - `graciously`
+        - 和蔼地；仁慈地；雅致地
     - n.
-      - `graciousness` 亲切，和蔼；好心
+      - `graciousness`
+        - 亲切，和蔼；好心
   - 近义词
-    - adj. 亲切的；高尚的；和蔼的；雅致的
-      - `nice`
-      - `friendly`
-      - `sweet`
-      - `delicate`
-      - `magnificent`
-    - int. 天哪；哎呀
-      - `oh`
-      - `my`
-      - `dear`
-      - `egad`
+    - adj.
+      - 亲切的；高尚的；和蔼的；雅致的
+        - `nice`
+        - `friendly`
+        - `sweet`
+        - `delicate`
+        - `magnificent`
+    - int.
+      - 天哪；哎呀
+        - `oh`
+        - `my`
+        - `dear`
+        - `egad`
   - 例句
     - `Sibyl was the most gracious, helpful, and generous person to work with.`
       - 西比尔非常和蔼，乐于助人，而且为人慷慨，和她共事最愉快。

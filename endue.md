@@ -1,19 +1,24 @@
 - endue
   - 发音
-    - 英 `/in'djuː/`
-    - 美 `/undefined/`
+    - 英
+      - `/in'djuː/`
+    - 美
+      - `/undefined/`
   - 词义
-    - v. 授予，赋予
-    - `to invest or provide, as with some quality or trait `
+    - v.
+      - 授予，赋予
+        - `to invest or provide, as with some quality or trait `
   - 近义词
-    - vt. 授予，赋予；穿上
-      - `award`
-      - `grant`
-      - `give`
-      - `gift`
-      - `don`
+    - vt.
+      - 授予，赋予；穿上
+        - `award`
+        - `grant`
+        - `give`
+        - `gift`
+        - `don`
   - 短语
-    - `endue with` v. 赋予；使穿上 
+    - `endue with`
+      - v. 赋予；使穿上 
   - 例句
     - `He prayed to God night and day endue him with the spirit of holiness.`
       - 他日夜祈求上帝赋予他虔敬的心。

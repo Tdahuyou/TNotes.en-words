@@ -1,22 +1,29 @@
 - exert
   - 发音
-    - 英 `/ɪg'zɜːrt/`
-    - 美 `/ɪɡ'zɝt/`
+    - 英
+      - `/ɪg'zɜːrt/`
+    - 美
+      - `/ɪɡ'zɝt/`
   - 词义
-    - vt. 运用，行使；施加；努力，竭力
-    - `to use your power, influence etc in order to make something happen`
+    - vt.
+      - 运用，行使；施加；努力，竭力
+        - `to use your power, influence etc in order to make something happen`
   - 记忆
     - ex(出， 外) + ert(=sert放置) → 把力量放出去 → 运用； 施加
   - 同根词
     - n.
-      - `exertion` 发挥；运用；努力
+      - `exertion`
+        - 发挥；运用；努力
   - 近义词
-    - vt. 运用，发挥；施以影响
-      - `handle`
-      - `to put to use`
+    - vt.
+      - 运用，发挥；施以影响
+        - `handle`
+        - `to put to use`
   - 短语
-    - `exert oneself` 努力；尽力 
-    - `exert an influence on` 对……产生影响 
+    - `exert oneself`
+      - 努力；尽力 
+    - `exert an influence on`
+      - 对……产生影响 
   - 例句
     - `They exerted considerable influence within the school.`
       - 他们在校内施加了很大的影响力。

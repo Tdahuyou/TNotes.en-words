@@ -1,20 +1,27 @@
 - nasty
   - 发音
-    - 英 `/'nɑːstɪ/`
-    - 美 `/'næsti/`
+    - 英
+      - `/'nɑːstɪ/`
+    - 美
+      - `/'næsti/`
   - 词义
-    - adj. 下流的；肮脏的；脾气不好的；险恶的
-    - `nasty behaviour or remarks are extremely unkind and unpleasant`
-    - n. 令人不快的事物
+    - adj.
+      - 下流的；肮脏的；脾气不好的；险恶的
+        - `nasty behaviour or remarks are extremely unkind and unpleasant`
+    - n.
+      - 令人不快的事物
   - 同根词
     - adv.
-      - `nastily` 污秽地；不洁地；讨厌地
+      - `nastily`
+        - 污秽地；不洁地；讨厌地
     - n.
-      - `nastiness` 不洁，污秽
+      - `nastiness`
+        - 不洁，污秽
   - 近义词
-    - adj. 肮脏的；下流的；险恶的；脾气不好的
-      - `blue`
-      - `dirty`
+    - adj.
+      - 肮脏的；下流的；险恶的；脾气不好的
+        - `blue`
+        - `dirty`
   - 例句
     - `a nasty temper`
       - 坏脾气

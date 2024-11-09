@@ -1,13 +1,17 @@
 - unclad
   - 发音
-    - 英 `/ʌn'klæd/`
-    - 美 `/,ʌn'klæd/`
+    - 英
+      - `/ʌn'klæd/`
+    - 美
+      - `/,ʌn'klæd/`
   - 词义
-    - adj. 赤裸裸的,没穿衣服的
-    - `having no clothes on; naked `
+    - adj.
+      - 赤裸裸的,没穿衣服的
+        - `having no clothes on; naked `
   - 近义词
-    - adj. 赤裸裸的；没穿衣服的
-      - `full-frontal`
+    - adj.
+      - 赤裸裸的；没穿衣服的
+        - `full-frontal`
   - 例句
     - `She bore no clothing upon her body thus in this unclad state she could be seen to be dark green of complexion.`
       - 在她的身上并没有穿着衣物或者铠甲，因此可以看到她裸露着的深绿色的皮肤。

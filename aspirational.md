@@ -1,25 +1,36 @@
 - aspirational
   - 发音
-    - 英 `/ˌæspəˈreɪʃənl/`
-    - 美 `/,æspə'reʃənl/`
+    - 英
+      - `/ˌæspəˈreɪʃənl/`
+    - 美
+      - `/,æspə'reʃənl/`
   - 词义
-    - adj. 渴望成功的的
-    - `having a strong desire to have or achieve something`
+    - adj.
+      - 渴望成功的的
+        - `having a strong desire to have or achieve something`
   - 同根词
     - adj.
-      - `aspiring` 有抱负的；追求…的；高耸的
-      - `aspirant` 上进的；有野心的
+      - `aspiring`
+        - 有抱负的；追求…的；高耸的
+      - `aspirant`
+        - 上进的；有野心的
     - n.
-      - `aspiration` 渴望；抱负；呼气；吸引术
-      - `aspirant` 有抱负的人；野心家
-      - `aspirer` 热望者；追求者
+      - `aspiration`
+        - 渴望；抱负；呼气；吸引术
+      - `aspirant`
+        - 有抱负的人；野心家
+      - `aspirer`
+        - 热望者；追求者
     - v.
-      - `aspiring` 立志（aspire的ing形式）
+      - `aspiring`
+        - 立志（aspire的ing形式）
     - vi.
-      - `aspire` 渴望；立志；追求
+      - `aspire`
+        - 渴望；立志；追求
   - 近义词
-    - adj. 有雄心壮志的；（生活形态等）梦寐以求的
-      - `coveted`
+    - adj.
+      - 有雄心壮志的；（生活形态等）梦寐以求的
+        - `coveted`
   - 例句
     - `aspirational young women`
       - 有抱负的年轻女性

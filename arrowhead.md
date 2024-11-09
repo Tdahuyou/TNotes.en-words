@@ -1,10 +1,13 @@
 - arrowhead
   - 发音
-    - 英 `/'ærəʊhed/`
-    - 美 `/'ærohɛd/`
+    - 英
+      - `/'ærəʊhed/`
+    - 美
+      - `/'ærohɛd/`
   - 词义
-    - n. 箭头
-    - `the sharp pointed end of an arrow`
+    - n.
+      - 箭头
+        - `the sharp pointed end of an arrow`
   - 例句
     - `In  Figure 2, each arrowhead represents an interface.`
       - 在  图2中，每个箭头表示一个接口。

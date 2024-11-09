@@ -1,27 +1,38 @@
 - sedative
   - 发音
-    - 英 `/'sedətiv/`
-    - 美 `/'sɛdətɪv/`
+    - 英
+      - `/'sedətiv/`
+    - 美
+      - `/'sɛdətɪv/`
   - 词义
-    - adj. 镇静的，止痛的
-    - n. 镇静剂，止痛药
-    - `a drug used to make someone calm or go to sleep`
+    - adj.
+      - 镇静的，止痛的
+    - n.
+      - 镇静剂，止痛药
+        - `a drug used to make someone calm or go to sleep`
   - 同根词
     - adj.
-      - `sedate` 安静的；沉着的
+      - `sedate`
+        - 安静的；沉着的
     - adv.
-      - `sedately` 安详地；镇静地
+      - `sedately`
+        - 安详地；镇静地
     - n.
-      - `sedation` 镇静；镇静作用；镇静状态
-      - `sedateness` 安详；镇静
+      - `sedation`
+        - 镇静；镇静作用；镇静状态
+      - `sedateness`
+        - 安详；镇静
     - vt.
-      - `sedate` 给…服镇静剂
+      - `sedate`
+        - 给…服镇静剂
   - 近义词
-    - n. [药][医]镇静剂；能使安静的东西；止痛药
-      - `killer`
-      - `tranquillizer`
-    - adj. [医]使镇静的；使安静的
-      - `calmative`
+    - n.
+      - [药][医]镇静剂；能使安静的东西；止痛药
+        - `killer`
+        - `tranquillizer`
+    - adj.
+      - [医]使镇静的；使安静的
+        - `calmative`
   - 例句
     - `Valerian is a safe and effective sedative with reliable results for most kids.`
       - 缬草是安全有效的镇静剂，对大多数儿童很有效。

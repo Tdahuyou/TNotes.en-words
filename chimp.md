@@ -1,13 +1,17 @@
 - chimp
   - 发音
-    - 英 `/tʃɪmp/`
-    - 美 `/tʃɪmp/`
+    - 英
+      - `/tʃɪmp/`
+    - 美
+      - `/tʃɪmp/`
   - 词义
-    - n. (非洲)黑猩猩
+    - n.
+      - (非洲)黑猩猩
   - 近义词
-    - n. （非洲的）黑猩猩
-      - `jocko`
-      - `pongo`
+    - n.
+      - （非洲的）黑猩猩
+        - `jocko`
+        - `pongo`
   - 例句
     - `At one point, she even yells for the police to shoot the chimp to stop the attack.`
       - 有一次，她甚至大叫着让警察向黑猩猩射击，以便阻止他的攻击。

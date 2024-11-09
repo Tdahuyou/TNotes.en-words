@@ -1,10 +1,13 @@
 - muon
   - 发音
-    - 英 `/'mjuːɒn/`
-    - 美 `/'mjʊ,ɑn/`
+    - 英
+      - `/'mjuːɒn/`
+    - 美
+      - `/'mjʊ,ɑn/`
   - 词义
-    - n. [高能]μ介子
-    - `a positive or negative elementary particle with a mass 207 times that of an electron and spin `
+    - n.
+      - [高能]μ介子
+        - `a positive or negative elementary particle with a mass 207 times that of an electron and spin `
   - 例句
     - `The team prepares a beam of just one type, muon neutrinos, sending them from Cern to an underground laboratory at Gran Sasso in Italy to see how many show up as a different type, tau neutrinos.`
       - 这个小组准备了一束单一类别的中微子即μ介子中微子并将它们由研究所射向位于意大利Gran Sasso地下的实验室来观察有多少变换了种类，τ介子中微子。

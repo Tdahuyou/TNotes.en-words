@@ -1,13 +1,18 @@
 - them
   - 发音
-    - 英 `/ðem; ðəm/`
-    - 美 `/ðɛm; ðəm/`
+    - 英
+      - `/ðem; ðəm/`
+    - 美
+      - `/ðɛm; ðəm/`
   - 词义
-    - pron. （宾格）他们，她们，它们
-    - `used to refer to two or more people or things that have already been mentioned or are already known about`
+    - pron.
+      - （宾格）他们，她们，它们
+        - `used to refer to two or more people or things that have already been mentioned or are already known about`
   - 短语
-    - `one of them` 他们中的一个 
-    - `all of them` 他们全部；他们大家 
+    - `one of them`
+      - 他们中的一个 
+    - `all of them`
+      - 他们全部；他们大家 
   - 例句
     - `Has anyone seen my keys? I can’t find them anywhere.`
       - 有人见到我的钥匙吗？我哪儿都找不到。

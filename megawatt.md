@@ -1,10 +1,13 @@
 - megawatt
   - 发音
-    - 英 `/'megəwɒt/`
-    - 美 `/'mɛɡəwɑt/`
+    - 英
+      - `/'megəwɒt/`
+    - 美
+      - `/'mɛɡəwɑt/`
   - 词义
-    - n. 兆瓦特
-    - `a million  watt s `
+    - n.
+      - 兆瓦特
+        - `a million  watt s `
   - 例句
     - `A megawatt is an instantaneous measure of power.`
       - 一兆瓦是电力的瞬间衡量指标。

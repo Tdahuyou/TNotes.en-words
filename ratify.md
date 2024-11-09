@@ -1,24 +1,31 @@
 - ratify
   - 发音
-    - 英 `/'rætɪfaɪ/`
-    - 美 `/'rætɪfaɪ/`
+    - 英
+      - `/'rætɪfaɪ/`
+    - 美
+      - `/'rætɪfaɪ/`
   - 词义
-    - vt. 正式批准，使正式生效
-    - `to make a written agreement official by signing it`
+    - vt.
+      - 正式批准，使正式生效
+        - `to make a written agreement official by signing it`
   - 记忆
     - rat(清点) + ify → 一一清点 → 正式批准
   - 同根词
     - adj.
-      - `ratified` 批准的
+      - `ratified`
+        - 批准的
     - n.
-      - `ratification` 批准；承认，认可
+      - `ratification`
+        - 批准；承认，认可
     - vt.
-      - `ratified` 批准（ratify的过去式）
+      - `ratified`
+        - 批准（ratify的过去式）
   - 近义词
-    - vt. 批准；认可
-      - `confirm`
-      - `allow`
-      - `authorize`
+    - vt.
+      - 批准；认可
+        - `confirm`
+        - `allow`
+        - `authorize`
   - 例句
     - `The parliaments of Australia and Indonesia have yet to ratify the treaty.`
       - 澳大利亚和印度尼西亚议会还未批准该条约。

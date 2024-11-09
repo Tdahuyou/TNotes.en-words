@@ -1,13 +1,17 @@
 - vicissitude
   - 发音
-    - 英 `/vɪ'sɪsɪtjuːd; vaɪ-/`
-    - 美 `/vɪ'sɪsɪtud/`
+    - 英
+      - `/vɪ'sɪsɪtjuːd; vaɪ-/`
+    - 美
+      - `/vɪ'sɪsɪtud/`
   - 词义
-    - n. 变迁兴衰
+    - n.
+      - 变迁兴衰
   - 近义词
-    - n. 变迁；盛衰；变化无常；变迁兴衰
-      - `flux`
-      - `ups and downs`
+    - n.
+      - 变迁；盛衰；变化无常；变迁兴衰
+        - `flux`
+        - `ups and downs`
   - 例句
     - `It reflects the vicissitude of society.`
       - 它反映了社会的变迁兴衰。

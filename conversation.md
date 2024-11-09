@@ -1,37 +1,56 @@
 - conversation
   - 发音
-    - 英 `/kɒnvə'seɪʃ(ə)n/`
-    - 美 `/,kɑnvɚ'seʃən/`
+    - 英
+      - `/kɒnvə'seɪʃ(ə)n/`
+    - 美
+      - `/,kɑnvɚ'seʃən/`
   - 词义
-    - n. 谈话；交谈
-    - `an informal talk in which people exchange news, feelings, and thoughts`
+    - n.
+      - 谈话；交谈
+        - `an informal talk in which people exchange news, feelings, and thoughts`
   - 记忆
     - 来自converse(vi. 交谈， 会话)
   - 同根词
     - adj.
-      - `converse` 相反的，逆向的；颠倒的
-      - `conversational` 对话的；健谈的
+      - `converse`
+        - 相反的，逆向的；颠倒的
+      - `conversational`
+        - 对话的；健谈的
     - adv.
-      - `conversationally` 会话地
+      - `conversationally`
+        - 会话地
     - n.
-      - `converse` 逆行，逆向；倒；相反的事物
-      - `conversationalist` 健谈的人
+      - `converse`
+        - 逆行，逆向；倒；相反的事物
+      - `conversationalist`
+        - 健谈的人
     - vi.
-      - `converse` 交谈，谈话；认识
+      - `converse`
+        - 交谈，谈话；认识
   - 近义词
-    - n. 交谈；会话；社交
-      - `congress`
-      - `dialog`
+    - n.
+      - 交谈；会话；社交
+        - `congress`
+        - `dialog`
   - 短语
-    - `in conversation` 在谈话；交谈中 
-    - `english conversation` 英语会话；英文会话 
-    - `telephone conversation` 打电话 
-    - `man-machine conversation` 人机对话 
-    - `private conversation` 私人通话 
-    - `make conversation` 交谈；闲聊；找话谈 
-    - `in conversation with` 和……谈话 
-    - `make a conversation` 会话 
-    - `conversation with god` 与神对话（影片名称） 
+    - `in conversation`
+      - 在谈话；交谈中 
+    - `english conversation`
+      - 英语会话；英文会话 
+    - `telephone conversation`
+      - 打电话 
+    - `man-machine conversation`
+      - 人机对话 
+    - `private conversation`
+      - 私人通话 
+    - `make conversation`
+      - 交谈；闲聊；找话谈 
+    - `in conversation with`
+      - 和……谈话 
+    - `make a conversation`
+      - 会话 
+    - `conversation with god`
+      - 与神对话（影片名称） 
   - 例句
     - `a telephone conversation`
       - 电话交谈

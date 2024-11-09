@@ -1,22 +1,33 @@
 - newsprint
   - 发音
-    - 英 `/'njuːzprɪnt/`
-    - 美 `/'nuzprɪnt/`
+    - 英
+      - `/'njuːzprɪnt/`
+    - 美
+      - `/'nuzprɪnt/`
   - 词义
-    - n. 新闻纸
-    - `cheap paper used mostly for printing newspapers on`
+    - n.
+      - 新闻纸
+        - `cheap paper used mostly for printing newspapers on`
   - 同根词
     - adj.
-      - `newsless` 没有新闻的
-      - `newsy` 多新闻的；爱闲话的；成话题的
+      - `newsless`
+        - 没有新闻的
+      - `newsy`
+        - 多新闻的；爱闲话的；成话题的
     - n.
-      - `newspaper` 报纸
-      - `newsmonger` 饶舌者；爱传播新闻的人
-      - `newspapering` 报业；新闻业
-      - `newsreader` （英）新闻广播员；报纸读者
-      - `newsy` 报童
+      - `newspaper`
+        - 报纸
+      - `newsmonger`
+        - 饶舌者；爱传播新闻的人
+      - `newspapering`
+        - 报业；新闻业
+      - `newsreader`
+        - （英）新闻广播员；报纸读者
+      - `newsy`
+        - 报童
   - 短语
-    - `newsprint paper` 新闻纸 
+    - `newsprint paper`
+      - 新闻纸 
   - 例句
     - `...a newsprint warehouse.`
       - …一个新闻纸货仓。

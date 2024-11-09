@@ -1,10 +1,13 @@
 - imago
   - 发音
-    - 英 `/ɪ'meɪgəʊ/`
-    - 美 `/ɪ'mego/`
+    - 英
+      - `/ɪ'meɪgəʊ/`
+    - 美
+      - `/ɪ'mego/`
   - 词义
-    - n. 意象,成虫
-    - `an adult sexually mature insect produced after metamorphosis `
+    - n.
+      - 意象,成虫
+        - `an adult sexually mature insect produced after metamorphosis `
   - 例句
     - `Colin, the theory of urban imago of Kevin.`
       - 凯文·林奇的“城市意象”理论；

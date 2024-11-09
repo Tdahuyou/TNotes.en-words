@@ -1,12 +1,16 @@
 - checkbook
   - 发音
-    - 英 `/'tʃekbuk/`
-    - 美 `/'tʃekbuk/`
+    - 英
+      - `/'tʃekbuk/`
+    - 美
+      - `/'tʃekbuk/`
   - 词义
-    - n. 支票簿
+    - n.
+      - 支票簿
   - 近义词
-    - n. 支票簿
-      - `cheque-book`
+    - n.
+      - 支票簿
+        - `cheque-book`
   - 例句
     - `He detached a check from the checkbook.`
       - 他从支票簿上撕下一张支票。

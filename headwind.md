@@ -1,14 +1,18 @@
 - headwind
   - 发音
-    - 英 `/undefined/`
-    - 美 `/'hɛdwɪnd/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/'hɛdwɪnd/`
   - 词义
-    - n. 逆风；顶头风
-    - `a wind that blows directly towards you when you are moving`
+    - n.
+      - 逆风；顶头风
+        - `a wind that blows directly towards you when you are moving`
   - 近义词
-    - n. 逆风；顶头风
-      - `contrary wind`
-      - `against the wind`
+    - n.
+      - 逆风；顶头风
+        - `contrary wind`
+        - `against the wind`
   - 例句
     - `The plane bucked a strong headwind.`
       - 飞机顶着强逆风飞行。

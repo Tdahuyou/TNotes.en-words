@@ -1,22 +1,29 @@
 - translucent
   - 发音
-    - 英 `/træns'luːsnt/`
-    - 美 `/træns'lusnt/`
+    - 英
+      - `/træns'luːsnt/`
+    - 美
+      - `/træns'lusnt/`
   - 词义
-    - adj. 半透明的
-    - `not trans-parent, but clear enough to allow light to pass through`
+    - adj.
+      - 半透明的
+        - `not trans-parent, but clear enough to allow light to pass through`
   - 记忆
     - trans(穿过) + luc(光) + ent → 光线能穿过的 → 半透明的
   - 同根词
     - n.
-      - `translucence` 半透明
-      - `translucency` 半透明
+      - `translucence`
+        - 半透明
+      - `translucency`
+        - 半透明
   - 近义词
-    - adj. [光]透明的；半透明的
-      - `crystal`
-      - `limpid`
+    - adj.
+      - [光]透明的；半透明的
+        - `crystal`
+        - `limpid`
   - 短语
-    - `translucent paper` 半透明纸，半透媒；不透明纸 
+    - `translucent paper`
+      - 半透明纸，半透媒；不透明纸 
   - 例句
     - `Blue veins showed through her translucent skin.`
       - 她半透明的皮肤下青筋显现。

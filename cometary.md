@@ -1,14 +1,18 @@
 - cometary
   - 发音
-    - 英 `/'kɔmɪtərɪ/`
-    - 美 `/undefined/`
+    - 英
+      - `/'kɔmɪtərɪ/`
+    - 美
+      - `/undefined/`
   - 词义
-    - adj. 彗星的，彗星似的
+    - adj.
+      - 彗星的，彗星似的
   - 记忆
     - 来自comet(n. 彗星)
   - 同根词
     - n.
-      - `comet` [天] 彗星
+      - `comet`
+        - [天] 彗星
   - 例句
     - `The cometary ejection play a crucial role in formation and evolution of the meteoroid stream.`
       - 彗星的喷发速度在流星群的演化过程中起着重要作用。

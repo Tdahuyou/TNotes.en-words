@@ -1,22 +1,28 @@
 - cognate
   - 发音
-    - 英 `/'kɔgneit/`
-    - 美 `/'kɑɡnet/`
+    - 英
+      - `/'kɔgneit/`
+    - 美
+      - `/'kɑɡnet/`
   - 词义
-    - adj. 同词源的，同类的
-    - `cognate words or languages have the same origin`
+    - adj.
+      - 同词源的，同类的
+        - `cognate words or languages have the same origin`
   - 记忆
     - cogn (认识) + ate → 认识的 → 同类的
   - 同根词
     - n.
-      - `cognation` 同族，血亲；血族关系
+      - `cognation`
+        - 同族，血亲；血族关系
   - 近义词
-    - adj. [地质]同源的；同类的
-      - `congenetic`
-      - `isogenous`
-    - n. 同族；同根词
-      - `consanguinity`
-      - `homologous series`
+    - adj.
+      - [地质]同源的；同类的
+        - `congenetic`
+        - `isogenous`
+    - n.
+      - 同族；同根词
+        - `consanguinity`
+        - `homologous series`
   - 例句
     - `Another cognate cause of crime of violence was the family tyranny.`
       - 导致凶暴的犯罪行为的另一个同类的原因是家庭内的专制主义。

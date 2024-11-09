@@ -1,20 +1,27 @@
 - astrology
   - 发音
-    - 英 `/ə'strɒlədʒɪ/`
-    - 美 `/ə'strɑlədʒi/`
+    - 英
+      - `/ə'strɒlədʒɪ/`
+    - 美
+      - `/ə'strɑlədʒi/`
   - 词义
-    - n. 占星术；占星学；星座
-    - `the study of the positions and movements of the stars and how they might influence people and events`
+    - n.
+      - 占星术；占星学；星座
+        - `the study of the positions and movements of the stars and how they might influence people and events`
   - 同根词
     - adj.
-      - `astrological` 占星的；占星学的，占星术的
+      - `astrological`
+        - 占星的；占星学的，占星术的
     - n.
-      - `astrologer` 占星家
-      - `astrologist` 占星家
+      - `astrologer`
+        - 占星家
+      - `astrologist`
+        - 占星家
   - 近义词
-    - n. [天]占星术；占星学；星座
-      - `horoscope`
-      - `constellation`
+    - n.
+      - [天]占星术；占星学；星座
+        - `horoscope`
+        - `constellation`
   - 例句
     - `Astronomy inherits from astrology.`
       - 天文学的前身是占星术。

@@ -1,29 +1,39 @@
 - wholly
   - 发音
-    - 英 `/'həʊllɪ; 'həʊlɪ/`
-    - 美 `/'holli/`
+    - 英
+      - `/'həʊllɪ; 'həʊlɪ/`
+    - 美
+      - `/'holli/`
   - 词义
-    - adv. 整个,全部
+    - adv.
+      - 整个,全部
   - 同根词
     - adj.
-      - `whole` 完整的；纯粹的
-      - `wholesome` 健全的；有益健康的；合乎卫生的；审慎的
+      - `whole`
+        - 完整的；纯粹的
+      - `wholesome`
+        - 健全的；有益健康的；合乎卫生的；审慎的
     - adv.
-      - `wholesomely` 卫生地；有益健康地；审慎地；安全地
+      - `wholesomely`
+        - 卫生地；有益健康地；审慎地；安全地
     - n.
-      - `whole` 整体；全部
-      - `wholeness` 完整；完全；全体
+      - `whole`
+        - 整体；全部
+      - `wholeness`
+        - 完整；完全；全体
   - 近义词
-    - adv. 完全地；全部；统统
-      - `totally`
-      - `entirely`
-      - `completely`
-      - `absolutely`
-      - `thoroughly`
-      - `strictly`
-      - `fully`
+    - adv.
+      - 完全地；全部；统统
+        - `totally`
+        - `entirely`
+        - `completely`
+        - `absolutely`
+        - `thoroughly`
+        - `strictly`
+        - `fully`
   - 短语
-    - `wholly owned subsidiary` 全资子公司；全资附属机构；全资拥有子公司 
+    - `wholly owned subsidiary`
+      - 全资子公司；全资附属机构；全资拥有子公司 
   - 例句
     - `They contract work out wholly.`
       - 他们把工作全部包了出去。

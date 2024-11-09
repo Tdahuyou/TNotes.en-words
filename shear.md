@@ -1,54 +1,87 @@
 - shear
   - 发音
-    - 英 `/ʃɪr/`
-    - 美 `/ʃɪr/`
+    - 英
+      - `/ʃɪr/`
+    - 美
+      - `/ʃɪr/`
   - 词义
-    - v. 剪；切断，剪切
-    - `To shear a sheep means to cut its wool off`
+    - v.
+      - 剪；切断，剪切
+        - `To shear a sheep means to cut its wool off`
   - 记忆
     - sh(看做she， 她) + ear(耳朵) → 她剪了个齐耳短发 → 剪(头发等)
   - 同根词
     - adj.
-      - `shorn` 剪了毛的；被剥夺了的
-      - `sheared` 修剪的
+      - `shorn`
+        - 剪了毛的；被剥夺了的
+      - `sheared`
+        - 修剪的
     - n.
-      - `shearing` 剪羊毛；剪取的羊毛
-      - `shearer` 剪切机；剪切者
+      - `shearing`
+        - 剪羊毛；剪取的羊毛
+      - `shearer`
+        - 剪切机；剪切者
     - v.
-      - `shearing` 剪羊毛（shear的现在分词）；修剪
-      - `shorn` 抢夺（shear的过去分词）
-      - `sheared` 修剪（shear的过去分词）
+      - `shearing`
+        - 剪羊毛（shear的现在分词）；修剪
+      - `shorn`
+        - 抢夺（shear的过去分词）
+      - `sheared`
+        - 修剪（shear的过去分词）
   - 近义词
-    - vt. 剪；修剪；剥夺
-      - `crop`
-      - `clip`
-    - vi. 剪；[机]剪切；修剪
-      - `trim off`
-      - `to prune`
-    - n. [力]切变；修剪；大剪刀
-      - `cutting back`
-      - `clipper`
+    - vt.
+      - 剪；修剪；剥夺
+        - `crop`
+        - `clip`
+    - vi.
+      - 剪；[机]剪切；修剪
+        - `trim off`
+        - `to prune`
+    - n.
+      - [力]切变；修剪；大剪刀
+        - `cutting back`
+        - `clipper`
   - 短语
-    - `shear stress` [物]剪应力；剪切应力 
-    - `shear strength` 切变强度 
-    - `shear wall` 剪力墙；抗震墙，耐震壁；风力墙 
-    - `shear zone` 剪切区域；剪碎带 
-    - `shear rate` 剪切率；切变速率 
-    - `shear deformation` 剪力变形；剪切形变 
-    - `shear force` 剪力，剪切力 
-    - `shear wave` 横波；剪波 
-    - `shear test` [机]抗剪试验 
-    - `shear lag` 剪滞；剪力滞后 
-    - `flying shear` 飞剪；飞剪机；随动剪机 
-    - `shear strain` 剪切应变 
-    - `shear modulus` 剪切模量；剪切弹性模数 
-    - `shear wall structure` 剪力墙（结构墙）结构 
-    - `high shear` 高剪切 
-    - `shear flow` 剪切流 
-    - `direct shear` 直剪；直接剪切 
-    - `shear resistance` [流体力学]剪切阻力；剪切强度 
-    - `shear failure` 剪切破坏；剪破裂；剪切断裂 
-    - `wind shear` 风切变；乱流 
+    - `shear stress`
+      - [物]剪应力；剪切应力 
+    - `shear strength`
+      - 切变强度 
+    - `shear wall`
+      - 剪力墙；抗震墙，耐震壁；风力墙 
+    - `shear zone`
+      - 剪切区域；剪碎带 
+    - `shear rate`
+      - 剪切率；切变速率 
+    - `shear deformation`
+      - 剪力变形；剪切形变 
+    - `shear force`
+      - 剪力，剪切力 
+    - `shear wave`
+      - 横波；剪波 
+    - `shear test`
+      - [机]抗剪试验 
+    - `shear lag`
+      - 剪滞；剪力滞后 
+    - `flying shear`
+      - 飞剪；飞剪机；随动剪机 
+    - `shear strain`
+      - 剪切应变 
+    - `shear modulus`
+      - 剪切模量；剪切弹性模数 
+    - `shear wall structure`
+      - 剪力墙（结构墙）结构 
+    - `high shear`
+      - 高剪切 
+    - `shear flow`
+      - 剪切流 
+    - `direct shear`
+      - 直剪；直接剪切 
+    - `shear resistance`
+      - [流体力学]剪切阻力；剪切强度 
+    - `shear failure`
+      - 剪切破坏；剪破裂；剪切断裂 
+    - `wind shear`
+      - 风切变；乱流 
   - 例句
     - `Competitors have six minutes to shear four sheep.`
       - 参赛者们有6分钟的时间来给4只羊剪毛。

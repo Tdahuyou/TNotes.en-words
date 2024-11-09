@@ -1,26 +1,38 @@
 - childish
   - 发音
-    - 英 `/'tʃaɪldɪʃ/`
-    - 美 `/'tʃaɪldɪʃ/`
+    - 英
+      - `/'tʃaɪldɪʃ/`
+    - 美
+      - `/'tʃaɪldɪʃ/`
   - 词义
-    - adj. 幼稚的，孩子气的
-    - `relating to or typical of a child`
+    - adj.
+      - 幼稚的，孩子气的
+        - `relating to or typical of a child`
   - 同根词
     - adj.
-      - `childlike` 天真烂漫的；孩子似的
-      - `childless` 无子女的
-      - `childly` 孩子似的
+      - `childlike`
+        - 天真烂漫的；孩子似的
+      - `childless`
+        - 无子女的
+      - `childly`
+        - 孩子似的
     - adv.
-      - `childishly` 天真地，幼小地；幼稚地
-      - `childly` 孩子似地
+      - `childishly`
+        - 天真地，幼小地；幼稚地
+      - `childly`
+        - 孩子似地
     - n.
-      - `child` 儿童，孩子；产物；子孙
-      - `childhood` 童年时期；幼年时代
-      - `childishness` 童心；幼稚
+      - `child`
+        - 儿童，孩子；产物；子孙
+      - `childhood`
+        - 童年时期；幼年时代
+      - `childishness`
+        - 童心；幼稚
   - 近义词
-    - adj. 幼稚的，孩子气的
-      - `tender`
-      - `puerile`
+    - adj.
+      - 幼稚的，孩子气的
+        - `tender`
+        - `puerile`
   - 例句
     - `a high childish laugh`
       - 孩子气的高声大笑

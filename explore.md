@@ -1,25 +1,33 @@
 - explore
   - 发音
-    - 英 `/ɪk'splɔːr/`
-    - 美 `/ɪk'splɔr/`
+    - 英
+      - `/ɪk'splɔːr/`
+    - 美
+      - `/ɪk'splɔr/`
   - 词义
-    - v. 探索，勘探；探险；探究
-    - `to discuss or think about something carefully`
+    - v.
+      - 探索，勘探；探险；探究
+        - `to discuss or think about something carefully`
   - 记忆
     - ex(出) + plor(哭泣， 流泪) + e → 使流泪 → 探索
   - 同根词
     - adj.
-      - `explorative` 探究的；探险的；探测的
+      - `explorative`
+        - 探究的；探险的；探测的
     - n.
-      - `exploration` 探测；探究；踏勘
-      - `explorer` 探险家；探测者，探测器
+      - `exploration`
+        - 探测；探究；踏勘
+      - `explorer`
+        - 探险家；探测者，探测器
   - 近义词
-    - vt. 探索；探测；探险
-      - `detect`
-      - `probe into`
-    - vi. 探索；探测；探险
-      - `probe into`
-      - `search after`
+    - vt.
+      - 探索；探测；探险
+        - `detect`
+        - `probe into`
+    - vi.
+      - 探索；探测；探险
+        - `probe into`
+        - `search after`
   - 例句
     - `Management need to explore ways of improving office security.`
       - 管理层需要探讨如何加强办事处的安全措施。

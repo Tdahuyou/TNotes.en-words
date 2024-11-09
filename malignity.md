@@ -1,29 +1,43 @@
 - malignity
   - 发音
-    - 英 `/mə'lɪɡnɪtɪ/`
-    - 美 `/mə'lɪgnəti/`
+    - 英
+      - `/mə'lɪɡnɪtɪ/`
+    - 美
+      - `/mə'lɪgnəti/`
   - 词义
-    - n. 狠毒
-    - `the condition or quality of being malign, malevolent, or deadly `
+    - n.
+      - 狠毒
+        - `the condition or quality of being malign, malevolent, or deadly `
   - 同根词
     - adj.
-      - `malicious` 恶意的；恶毒的；蓄意的；怀恨的
-      - `malignant` [医] 恶性的；有害的；有恶意的
-      - `malign` 恶意的，恶性的；有害的
+      - `malicious`
+        - 恶意的；恶毒的；蓄意的；怀恨的
+      - `malignant`
+        - [医] 恶性的；有害的；有恶意的
+      - `malign`
+        - 恶意的，恶性的；有害的
     - adv.
-      - `maliciously` 有敌意地，恶意地
-      - `malignantly` 怀恶意
+      - `maliciously`
+        - 有敌意地，恶意地
+      - `malignantly`
+        - 怀恶意
     - n.
-      - `malignant` 保王党员；怀恶意的人
-      - `malice` 恶意；怨恨；预谋
-      - `malignancy` 恶性（肿瘤等）；恶意
-      - `maliciousness` 恶意
+      - `malignant`
+        - 保王党员；怀恶意的人
+      - `malice`
+        - 恶意；怨恨；预谋
+      - `malignancy`
+        - 恶性（肿瘤等）；恶意
+      - `maliciousness`
+        - 恶意
     - vt.
-      - `malign` 诽谤，污蔑；中伤，说坏话
+      - `malign`
+        - 诽谤，污蔑；中伤，说坏话
   - 近义词
-    - n. 恶意；怨恨；狠毒
-      - `spite`
-      - `malevolence`
+    - n.
+      - 恶意；怨恨；狠毒
+        - `spite`
+        - `malevolence`
   - 例句
     - `Scorn, bitterness, unprovoked malignity, gratuitous desire of ill, ridicule of whatever was good and holy, all awoke, to tempt, even while they frightened him.`
       - 轻蔑、狠毒、无缘无故的恶言秽行和歹意；对善良和神圣的事物妄加嘲弄，这一切全都绘唤醒起来，虽说把他吓得要命，却仍在诱惑着他。

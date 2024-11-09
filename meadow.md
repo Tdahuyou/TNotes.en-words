@@ -1,18 +1,24 @@
 - meadow
   - 发音
-    - 英 `/'medəʊ/`
-    - 美 `/'mɛdo/`
+    - 英
+      - `/'medəʊ/`
+    - 美
+      - `/'mɛdo/`
   - 词义
-    - n. 草地,牧场
-    - `a field with wild grass and flowers`
+    - n.
+      - 草地,牧场
+        - `a field with wild grass and flowers`
   - 近义词
-    - n. [畜牧]草地；牧场
-      - `grass`
-      - `field`
-      - `lawn`
+    - n.
+      - [畜牧]草地；牧场
+        - `grass`
+        - `field`
+        - `lawn`
   - 短语
-    - `alpine meadow` 高山草甸 
-    - `meadow soil` 草甸土；湿草原土 
+    - `alpine meadow`
+      - 高山草甸 
+    - `meadow soil`
+      - 草甸土；湿草原土 
   - 例句
     - `The meadow has been ploughed up.`
       - 那片草地已用犁翻过。

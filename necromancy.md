@@ -1,17 +1,22 @@
 - necromancy
   - 发音
-    - 英 `/undefined/`
-    - 美 `/'nɛkromænsi/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/'nɛkromænsi/`
   - 词义
-    - n. 巫术
-    - `magic, especially evil magic`
+    - n.
+      - 巫术
+        - `magic, especially evil magic`
   - 同根词
     - adj.
-      - `necromantic` 妖术的；降神术的
+      - `necromantic`
+        - 妖术的；降神术的
   - 近义词
-    - n. 巫术，妖术
-      - `medicine`
-      - `witchcraft`
+    - n.
+      - 巫术，妖术
+        - `medicine`
+        - `witchcraft`
   - 例句
     - `With his deadly sickle and necromancy, Dutin becomes one of the most dangerous warriors in Ruminater now.`
       - 现在，藉著他的致命镰刀与死灵术，杜丁成为了反刍者中最危险的战士之一。

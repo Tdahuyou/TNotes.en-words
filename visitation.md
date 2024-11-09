@@ -1,26 +1,36 @@
 - visitation
   - 发音
-    - 英 `/vɪzɪ'teɪʃ(ə)n/`
-    - 美 `/'vɪzə'teʃən/`
+    - 英
+      - `/vɪzɪ'teɪʃ(ə)n/`
+    - 美
+      - `/'vɪzə'teʃən/`
   - 词义
-    - n. 访问；探视；视察；正式访问
-    - `an official visit to a place or person`
+    - n.
+      - 访问；探视；视察；正式访问
+        - `an official visit to a place or person`
   - 同根词
     - adj.
-      - `visitant` 来访的
+      - `visitant`
+        - 来访的
     - n.
-      - `visit` 访问；参观；逗留
-      - `visitor` 访问者，参观者；视察者；候鸟
-      - `visitant` 访客；幽魂；候鸟
+      - `visit`
+        - 访问；参观；逗留
+      - `visitor`
+        - 访问者，参观者；视察者；候鸟
+      - `visitant`
+        - 访客；幽魂；候鸟
     - vi.
-      - `visit` 访问；暂住；闲谈
+      - `visit`
+        - 访问；暂住；闲谈
     - vt.
-      - `visit` 访问；参观；视察
+      - `visit`
+        - 访问；参观；视察
   - 近义词
-    - n. 访问；探视；视察；正式访问
-      - `inspection`
-      - `call`
-      - `addressing`
+    - n.
+      - 访问；探视；视察；正式访问
+        - `inspection`
+        - `call`
+        - `addressing`
   - 例句
     - `visitation rights`
       - 探视权

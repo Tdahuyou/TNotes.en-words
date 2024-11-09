@@ -1,23 +1,30 @@
 - confront
   - 发音
-    - 英 `/kən'frʌnt/`
-    - 美 `/kən'frʌnt/`
+    - 英
+      - `/kən'frʌnt/`
+    - 美
+      - `/kən'frʌnt/`
   - 词义
-    - vt. 使面临，使遭遇；对抗
-    - `if a problem, difficulty etc confronts you, it appears and needs to be dealt with`
+    - vt.
+      - 使面临，使遭遇；对抗
+        - `if a problem, difficulty etc confronts you, it appears and needs to be dealt with`
   - 记忆
     - con(共同) + front(额头， 脸) → 对顶额头 → 使面临； 对抗
   - 同根词
     - adj.
-      - `confrontational` 对抗的；对抗性的
+      - `confrontational`
+        - 对抗的；对抗性的
     - n.
-      - `confrontation` 对抗；面对；对质
+      - `confrontation`
+        - 对抗；面对；对质
   - 近义词
-    - vt. 面对；遭遇；比较
-      - `front`
-      - `compare`
+    - vt.
+      - 面对；遭遇；比较
+        - `front`
+        - `compare`
   - 短语
-    - `confront with` 使面临 
+    - `confront with`
+      - 使面临 
   - 例句
     - `The problems confronting the new government were enormous.`
       - 新政府面临的难题是巨大的。

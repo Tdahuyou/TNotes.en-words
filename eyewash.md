@@ -1,11 +1,15 @@
 - eyewash
   - 发音
-    - 英 `/'aɪwɒʃ/`
-    - 美 `/'aɪwɔʃ/`
+    - 英
+      - `/'aɪwɒʃ/`
+    - 美
+      - `/'aɪwɔʃ/`
   - 词义
-    - n. 无稽之谈；骗局；洗眼水；表面文章
-    - `a mild solution for applying to the eyes for relief of irritation, etc `
+    - n.
+      - 无稽之谈；骗局；洗眼水；表面文章
+        - `a mild solution for applying to the eyes for relief of irritation, etc `
   - 近义词
-    - n. 无稽之谈；骗局；洗眼水；表面文章
-      - `cock and bull story`
-      - `a tale of a tub`
+    - n.
+      - 无稽之谈；骗局；洗眼水；表面文章
+        - `cock and bull story`
+        - `a tale of a tub`

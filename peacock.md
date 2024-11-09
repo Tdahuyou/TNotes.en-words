@@ -1,18 +1,27 @@
 - peacock
   - 发音
-    - 英 `/'piːkɒk/`
-    - 美 `/'pikɑk/`
+    - 英
+      - `/'piːkɒk/`
+    - 美
+      - `/'pikɑk/`
   - 词义
-    - n. 孔雀；雄孔雀；爱虚荣的人
-    - `a large bird, the male of which has long blue and green tail feathers that it can lift up and spread out`
-    - vi. 炫耀；神气活现地走
+    - n.
+      - 孔雀；雄孔雀；爱虚荣的人
+        - `a large bird, the male of which has long blue and green tail feathers that it can lift up and spread out`
+    - vi.
+      - 炫耀；神气活现地走
   - 近义词
-    - n. 孔雀；雄孔雀；爱虚荣的人
-      - `peafowl`
-    - vi. 炫耀；神气活现地走
-      - `show off`
-      - `brag about`
+    - n.
+      - 孔雀；雄孔雀；爱虚荣的人
+        - `peafowl`
+    - vi.
+      - 炫耀；神气活现地走
+        - `show off`
+        - `brag about`
   - 短语
-    - `proud as a peacock` 目空一切，十分高傲，自高自大 
-    - `play the peacock` 炫耀自己；沾沾自喜 
-    - `peacock blue` n. 孔雀蓝 
+    - `proud as a peacock`
+      - 目空一切，十分高傲，自高自大 
+    - `play the peacock`
+      - 炫耀自己；沾沾自喜 
+    - `peacock blue`
+      - n. 孔雀蓝 

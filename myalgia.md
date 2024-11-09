@@ -1,13 +1,17 @@
 - myalgia
   - 发音
-    - 英 `/maɪ'ældʒə/`
-    - 美 `/maɪ'ældʒə/`
+    - 英
+      - `/maɪ'ældʒə/`
+    - 美
+      - `/maɪ'ældʒə/`
   - 词义
-    - n. 肌痛
-    - `pain in a muscle or a group of muscles `
+    - n.
+      - 肌痛
+        - `pain in a muscle or a group of muscles `
   - 同根词
     - adj.
-      - `myalgic` 肌痛的
+      - `myalgic`
+        - 肌痛的
   - 例句
     - `The main symptoms are fever, chills, headache, malaise and muscle pain (myalgia).`
       - 主要症状为发热、寒战、头痛、倦怠和肌痛。

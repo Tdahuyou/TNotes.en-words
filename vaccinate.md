@@ -1,18 +1,26 @@
 - vaccinate
   - 发音
-    - 英 `/'væksɪneɪt/`
-    - 美 `/'væksə'net/`
+    - 英
+      - `/'væksɪneɪt/`
+    - 美
+      - `/'væksə'net/`
   - 词义
-    - v. 接种疫苗，给…打防疫针
-    - `to protect a person or animal from a disease by giving them a vaccine`
+    - v.
+      - 接种疫苗，给…打防疫针
+        - `to protect a person or animal from a disease by giving them a vaccine`
   - 同根词
     - adj.
-      - `vaccine` 疫苗的；牛痘的
+      - `vaccine`
+        - 疫苗的；牛痘的
     - n.
-      - `vaccine` 疫苗；牛痘苗
-      - `vaccination` 接种疫苗；种痘
-      - `vaccinator` 牛痘接种员；种痘刀
-      - `vaccinia` [兽医] 牛痘
+      - `vaccine`
+        - 疫苗；牛痘苗
+      - `vaccination`
+        - 接种疫苗；种痘
+      - `vaccinator`
+        - 牛痘接种员；种痘刀
+      - `vaccinia`
+        - [兽医] 牛痘
   - 例句
     - `Dogs must be vaccinated against distemper.`
       - 犬类必须接种疫苗以防犬热病。

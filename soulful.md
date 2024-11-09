@@ -1,23 +1,32 @@
 - soulful
   - 发音
-    - 英 `/'soulfl/`
-    - 美 `/'solfl/`
+    - 英
+      - `/'soulfl/`
+    - 美
+      - `/'solfl/`
   - 词义
-    - adj. 充满感情的，深情的
-    - `expressing deep, usually sad, emotions`
+    - adj.
+      - 充满感情的，深情的
+        - `expressing deep, usually sad, emotions`
   - 同根词
     - adj.
-      - `soul` 美国黑人文化的
-      - `soulless` 没有灵魂的；没有精神的；卑鄙的；无情的
+      - `soul`
+        - 美国黑人文化的
+      - `soulless`
+        - 没有灵魂的；没有精神的；卑鄙的；无情的
     - adv.
-      - `soulfully` 充满感情地；感情深切地；过于激动地
+      - `soulfully`
+        - 充满感情地；感情深切地；过于激动地
     - n.
-      - `soul` 灵魂；心灵；精神；鬼魂
-      - `soulfulness` 充满感情；感情深切
+      - `soul`
+        - 灵魂；心灵；精神；鬼魂
+      - `soulfulness`
+        - 充满感情；感情深切
   - 近义词
-    - adj. 感情上的；高尚的；充满精神的
-      - `magnificent`
-      - `noble`
+    - adj.
+      - 感情上的；高尚的；充满精神的
+        - `magnificent`
+        - `noble`
   - 例句
     - `He looked up with those great soulful eyes .`
       - 他抬头望着，眼神非常忧郁。

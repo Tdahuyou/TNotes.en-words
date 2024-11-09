@@ -1,19 +1,24 @@
 - umpteen
   - 发音
-    - 英 `/ʌm(p)'tiːn; 'ʌm(p)tiːn/`
-    - 美 `/,ʌmp'tin/`
+    - 英
+      - `/ʌm(p)'tiːn; 'ʌm(p)tiːn/`
+    - 美
+      - `/,ʌmp'tin/`
   - 词义
-    - adj. 无数的
+    - adj.
+      - 无数的
   - 同根词
     - adj.
-      - `umpteenth` 第无数次的
+      - `umpteenth`
+        - 第无数次的
   - 近义词
-    - adj. 无数的；很多的
-      - `numerous`
-      - `thousand`
-      - `countless`
-      - `million`
-      - `plenty`
+    - adj.
+      - 无数的；很多的
+        - `numerous`
+        - `thousand`
+        - `countless`
+        - `million`
+        - `plenty`
   - 例句
     - `I couldn't go beyond the doorway; that doorway that my father had told us umpteen times was the doorway of love. He had first glimpsed my mother through this door and fallen in love with her.`
       - 走到门口时，我停下了脚步：爸爸曾无数次地告诉我们说，这里是爱之门，他第一次就是通过这扇门瞥了妈妈一眼，然后就爱上了她。

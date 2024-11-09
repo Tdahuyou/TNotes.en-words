@@ -1,21 +1,29 @@
 - purplish
   - 发音
-    - 英 `/'pɜːplɪʃ/`
-    - 美 `/'pɝplɪʃ/`
+    - 英
+      - `/'pɜːplɪʃ/`
+    - 美
+      - `/'pɝplɪʃ/`
   - 词义
-    - adj. 略带紫色的
-    - `slightly purple`
+    - adj.
+      - 略带紫色的
+        - `slightly purple`
   - 同根词
     - adj.
-      - `purple` 紫色的；帝王的；华而不实的
+      - `purple`
+        - 紫色的；帝王的；华而不实的
     - n.
-      - `purple` 紫色；紫袍
+      - `purple`
+        - 紫色；紫袍
     - vi.
-      - `purple` 变成紫色
+      - `purple`
+        - 变成紫色
     - vt.
-      - `purple` 使成紫色
+      - `purple`
+        - 使成紫色
   - 短语
-    - `purplish blue` 紫蓝；海军蓝；藏蓝 
+    - `purplish blue`
+      - 紫蓝；海军蓝；藏蓝 
   - 例句
     - `This year, we used the purplish tuber in taro and pumpkin tofu puffs.`
       - 这年，我们用紫色块茎中的芋头，南瓜豆腐泡。

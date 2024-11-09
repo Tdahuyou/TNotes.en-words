@@ -1,17 +1,24 @@
 - homophobia
   - 发音
-    - 英 `/,hɒmə'fəʊbɪə; ,həʊmə-/`
-    - 美 `/'homə'fobɪə/`
+    - 英
+      - `/,hɒmə'fəʊbɪə; ,həʊmə-/`
+    - 美
+      - `/'homə'fobɪə/`
   - 词义
-    - n. 对同性恋的憎恶
-    - `hatred and fear of  homosexuals `
+    - n.
+      - 对同性恋的憎恶
+        - `hatred and fear of  homosexuals `
   - 同根词
     - adj.
-      - `homosexual` 同性恋的
-      - `homophobic` 害怕同性恋的
+      - `homosexual`
+        - 同性恋的
+      - `homophobic`
+        - 害怕同性恋的
     - n.
-      - `homosexual` 同性恋者
-      - `homosexuality` 同性恋
+      - `homosexual`
+        - 同性恋者
+      - `homosexuality`
+        - 同性恋
   - 例句
     - `Personally, I think Adams’s collective work on homophobia is terribly important.`
       - 个人来说，我认为亚当斯关于同性恋憎恶的集体工作极其重要。

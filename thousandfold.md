@@ -1,10 +1,14 @@
 - thousandfold
   - 发音
-    - 英 `/'θaʊzəndfəʊld/`
-    - 美 `/'θaʊznd'fold/`
+    - 英
+      - `/'θaʊzəndfəʊld/`
+    - 美
+      - `/'θaʊznd'fold/`
   - 词义
-    - adv. 千倍地
-    - adj. 千倍的
+    - adv.
+      - 千倍地
+    - adj.
+      - 千倍的
   - 例句
     - `He suffers a thousandfold more from his so-called freedom than from his imprisonment in natural existence.`
       - 比之人所谓的天赋存在的自由，他遭受千倍的是天赋存在的枷锁。

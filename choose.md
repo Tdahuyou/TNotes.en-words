@@ -1,25 +1,35 @@
 - choose
   - 发音
-    - 英 `/tʃuːz/`
-    - 美 `/tʃuz/`
+    - 英
+      - `/tʃuːz/`
+    - 美
+      - `/tʃuz/`
   - 词义
-    - v. 选择；挑选
-    - `to decide which one of a number of things or people you want`
+    - v.
+      - 选择；挑选
+        - `to decide which one of a number of things or people you want`
   - 同根词
     - n.
-      - `chooser` 选择器；选举人；选择者；投票者
+      - `chooser`
+        - 选择器；选举人；选择者；投票者
   - 近义词
-    - vt. 选择，决定
-      - `condition`
-      - `conclude`
-    - vi. 选择，挑选
-      - `opt for`
-      - `to make a choice`
+    - vt.
+      - 选择，决定
+        - `condition`
+        - `conclude`
+    - vi.
+      - 选择，挑选
+        - `opt for`
+        - `to make a choice`
   - 短语
-    - `choose from` 挑选，从…中选择 
-    - `as you choose` 随你的便 
-    - `choose to do` 选择去做某事 
-    - `cannot choose but` 只得；只好；不得不 
+    - `choose from`
+      - 挑选，从…中选择 
+    - `as you choose`
+      - 随你的便 
+    - `choose to do`
+      - 选择去做某事 
+    - `cannot choose but`
+      - 只得；只好；不得不 
   - 例句
     - `It took us ages to choose a new carpet.`
       - 我们挑选新地毯花了很长时间。

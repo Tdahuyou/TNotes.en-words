@@ -1,21 +1,30 @@
 - appetizing
   - 发音
-    - 英 `/'æpɪtaɪzɪŋ/`
-    - 美 `/'æpə'taɪzɪŋ/`
+    - 英
+      - `/'æpɪtaɪzɪŋ/`
+    - 美
+      - `/'æpə'taɪzɪŋ/`
   - 词义
-    - adj. 美味可口的，促进食欲的
-    - `food that is appetizing smells or looks very good, making you want to eat it`
+    - adj.
+      - 美味可口的，促进食欲的
+        - `food that is appetizing smells or looks very good, making you want to eat it`
   - 同根词
     - adj.
-      - `appetising` 促进食欲的；美味可口的；开胃的，诱人的
-      - `appetitive` 食欲的；有食欲的；开胃的
+      - `appetising`
+        - 促进食欲的；美味可口的；开胃的，诱人的
+      - `appetitive`
+        - 食欲的；有食欲的；开胃的
     - n.
-      - `appetite` 食欲；嗜好
-      - `appetizer` 开胃物，开胃食品
-      - `appetiser` 吊胃口的东西；开胃食品（等于appetizer）
+      - `appetite`
+        - 食欲；嗜好
+      - `appetizer`
+        - 开胃物，开胃食品
+      - `appetiser`
+        - 吊胃口的东西；开胃食品（等于appetizer）
   - 近义词
-    - adj. 开胃的；促进食欲的
-      - `stomachal`
+    - adj.
+      - 开胃的；促进食欲的
+        - `stomachal`
   - 例句
     - `an appetizing aroma`
       - 令人垂涎的香味

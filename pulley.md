@@ -1,20 +1,29 @@
 - pulley
   - 发音
-    - 英 `/'puli/`
-    - 美 `/'pʊli/`
+    - 英
+      - `/'puli/`
+    - 美
+      - `/'pʊli/`
   - 词义
-    - n. 滑轮
-    - `a piece of equipment consisting of a wheel over which a rope or chain is pulled to lift heavy things`
+    - n.
+      - 滑轮
+        - `a piece of equipment consisting of a wheel over which a rope or chain is pulled to lift heavy things`
   - 近义词
-    - n. [机]滑轮；皮带轮；滑车
-      - `tackle-block`
-      - `trochlea`
+    - n.
+      - [机]滑轮；皮带轮；滑车
+        - `tackle-block`
+        - `trochlea`
   - 短语
-    - `belt pulley` 皮带轮；皮带盘 
-    - `guide pulley` 导向轮；压带轮 
-    - `pulley block` 滑轮组 
-    - `motor pulley` 电动机皮带轮 
-    - `crank pulley` 曲轴皮带轮 
+    - `belt pulley`
+      - 皮带轮；皮带盘 
+    - `guide pulley`
+      - 导向轮；压带轮 
+    - `pulley block`
+      - 滑轮组 
+    - `motor pulley`
+      - 电动机皮带轮 
+    - `crank pulley`
+      - 曲轴皮带轮 
   - 例句
     - `One inquires, Why is there no bucket and pulley to this?`
       - 我们问：“为什么那口井没有吊桶和滑车了呢？”

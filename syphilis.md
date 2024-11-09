@@ -1,21 +1,28 @@
 - syphilis
   - 发音
-    - 英 `/'sɪfɪlɪs/`
-    - 美 `/'sɪfɪlɪs/`
+    - 英
+      - `/'sɪfɪlɪs/`
+    - 美
+      - `/'sɪfɪlɪs/`
   - 词义
-    - n. [性病]梅毒
-    - `a very serious disease that is passed from one person to another during sexual activity`
+    - n.
+      - [性病]梅毒
+        - `a very serious disease that is passed from one person to another during sexual activity`
   - 同根词
     - adj.
-      - `syphilitic` 梅毒的；感染梅毒的
+      - `syphilitic`
+        - 梅毒的；感染梅毒的
     - n.
-      - `syphilitic` 梅毒病人
+      - `syphilitic`
+        - 梅毒病人
   - 近义词
-    - n. [性病]梅毒
-      - `siff`
-      - `lues`
+    - n.
+      - [性病]梅毒
+        - `siff`
+        - `lues`
   - 短语
-    - `secondary syphilis` [医]二期梅毒 
+    - `secondary syphilis`
+      - [医]二期梅毒 
   - 例句
     - `In pregnant women with untreated early syphilis, 25% of pregnancies result in stillbirth and 14% in neonatal death – an overall perinatal mortality of about 40%.`
       - 患有早期梅毒但未经治疗的孕妇，有25%的妊娠结果为死胎，14%为新生儿死亡 − 总的围产儿死亡率约为40%。

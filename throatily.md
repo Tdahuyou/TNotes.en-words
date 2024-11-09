@@ -1,9 +1,13 @@
 - throatily
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - adv. 喉音地；嘶哑地
+    - adv.
+      - 喉音地；嘶哑地
   - 近义词
-    - adv. 喉音地；嘶哑地
-      - `hoarsely`
+    - adv.
+      - 喉音地；嘶哑地
+        - `hoarsely`

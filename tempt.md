@@ -1,31 +1,42 @@
 - tempt
   - 发音
-    - 英 `/tempt/`
-    - 美 `/tɛmpt/`
+    - 英
+      - `/tempt/`
+    - 美
+      - `/tɛmpt/`
   - 词义
-    - vt. 引诱，诱惑；吸引
-    - `to make someone want to have or do something, even though they know they really should not`
+    - vt.
+      - 引诱，诱惑；吸引
+        - `to make someone want to have or do something, even though they know they really should not`
   - 记忆
     - 本身为词根， 意为“尝试” → 受到诱惑， 要尝试 → 引诱， 诱惑
   - 同根词
     - adj.
-      - `tempting` 吸引人的；诱惑人的
-      - `temptable` 可诱惑的；易被诱惑的
+      - `tempting`
+        - 吸引人的；诱惑人的
+      - `temptable`
+        - 可诱惑的；易被诱惑的
     - adv.
-      - `temptingly` 诱惑人地；迷人地
+      - `temptingly`
+        - 诱惑人地；迷人地
     - n.
-      - `temptation` 引诱；诱惑物
-      - `temptress` 引诱男人的女性
-      - `tempter` 诱惑者；魔鬼；撒旦
+      - `temptation`
+        - 引诱；诱惑物
+      - `temptress`
+        - 引诱男人的女性
+      - `tempter`
+        - 诱惑者；魔鬼；撒旦
     - v.
-      - `tempting` 引诱（tempt的ing形式）
+      - `tempting`
+        - 引诱（tempt的ing形式）
   - 近义词
-    - vt. 诱惑；引起；冒…的风险；使感兴趣
-      - `attract`
-      - `produce`
-      - `cause`
-      - `operate`
-      - `occasion`
+    - vt.
+      - 诱惑；引起；冒…的风险；使感兴趣
+        - `attract`
+        - `produce`
+        - `cause`
+        - `operate`
+        - `occasion`
   - 例句
     - `If you leave valuables in your car it will tempt thieves.`
       - 如果把贵重物品留在车上，会招来小偷的。

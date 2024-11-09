@@ -1,33 +1,48 @@
 - quietly
   - 发音
-    - 英 `/ˈkwaɪətli/`
-    - 美 `/ˈkwaɪətli/`
+    - 英
+      - `/ˈkwaɪətli/`
+    - 美
+      - `/ˈkwaɪətli/`
   - 词义
-    - adv. 平静地,寂静地
-    - `without making much noise`
+    - adv.
+      - 平静地,寂静地
+        - `without making much noise`
   - 同根词
     - adj.
-      - `quiet` 安静的；安定的；不动的；温顺的
-      - `quietist` 寂静主义的
+      - `quiet`
+        - 安静的；安定的；不动的；温顺的
+      - `quietist`
+        - 寂静主义的
     - n.
-      - `quiet` 安静；和平
-      - `quietness` 平静，安静
-      - `quietism` 寂静主义；清静无为
-      - `quietist` 寂静主义者
+      - `quiet`
+        - 安静；和平
+      - `quietness`
+        - 平静，安静
+      - `quietism`
+        - 寂静主义；清静无为
+      - `quietist`
+        - 寂静主义者
     - vi.
-      - `quiet` 平静下来
-      - `quieten` 变安静
+      - `quiet`
+        - 平静下来
+      - `quieten`
+        - 变安静
     - vt.
-      - `quiet` 使平息；安慰
-      - `quieten` 抚慰；使安静
+      - `quiet`
+        - 使平息；安慰
+      - `quieten`
+        - 抚慰；使安静
   - 近义词
-    - adv. 安静地；秘密地；平稳地
-      - `smoothly`
-      - `underground`
-      - `privately`
-      - `secretly`
+    - adv.
+      - 安静地；秘密地；平稳地
+        - `smoothly`
+        - `underground`
+        - `privately`
+        - `secretly`
   - 短语
-    - `sit quietly` 静静地坐着 
+    - `sit quietly`
+      - 静静地坐着 
   - 例句
     - `Rosa shut the door quietly.`
       - 罗莎悄悄关上门。

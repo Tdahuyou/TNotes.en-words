@@ -1,9 +1,12 @@
 - reelect
   - 发音
-    - 英 `/,ri:i'lekt/`
-    - 美 `/,riə'lɛkt/`
+    - 英
+      - `/,ri:i'lekt/`
+    - 美
+      - `/,riə'lɛkt/`
   - 词义
-    - v. 重选,改选
+    - v.
+      - 重选,改选
   - 例句
     - `There are some objections to the proposal to reelect the chairman.`
       - 对重新选举董事长的提议有人持反对意见。

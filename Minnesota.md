@@ -1,11 +1,15 @@
 - Minnesota
   - 发音
-    - 英 `/,mini'səutə/`
-    - 美 `/,mini'səutə/`
+    - 英
+      - `/,mini'səutə/`
+    - 美
+      - `/,mini'səutə/`
   - 词义
-    - n. 明尼苏达州(美国州名)
+    - n.
+      - 明尼苏达州(美国州名)
   - 短语
-    - `university of minnesota` 明尼苏达大学（美国） 
+    - `university of minnesota`
+      - 明尼苏达大学（美国） 
   - 例句
     - `This is a picture of a weasel I found in Northern Minnesota.`
       - 这是我在明尼苏达州北部所发现的一只黄鼠的照片。

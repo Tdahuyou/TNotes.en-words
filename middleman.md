@@ -1,23 +1,31 @@
 - middleman
   - 发音
-    - 英 `/'mɪdlmæn/`
-    - 美 `/'mɪdl'mæn/`
+    - 英
+      - `/'mɪdlmæn/`
+    - 美
+      - `/'mɪdl'mæn/`
   - 词义
-    - n. 中间人，调解人；经纪人
-    - `someone who buys things in order to sell them to someone else, or who helps to arrange business deals for other people`
+    - n.
+      - 中间人，调解人；经纪人
+        - `someone who buys things in order to sell them to someone else, or who helps to arrange business deals for other people`
   - 同根词
     - adj.
-      - `middling` 中等的；第二流的
+      - `middling`
+        - 中等的；第二流的
     - adv.
-      - `middling` 中等
+      - `middling`
+        - 中等
     - n.
-      - `middling` 中级品
+      - `middling`
+        - 中级品
     - v.
-      - `middling` 把…放在中间（middle的ing形式）
+      - `middling`
+        - 把…放在中间（middle的ing形式）
   - 近义词
-    - n. 中间人；经纪人；调解人
-      - `intermediary`
-      - `Tweener`
+    - n.
+      - 中间人；经纪人；调解人
+        - `intermediary`
+        - `Tweener`
   - 例句
     - `He acts as a middleman for British companies seeking contracts in the Gulf.`
       - 他给在海湾地区寻找商机的英国公司当中间人。

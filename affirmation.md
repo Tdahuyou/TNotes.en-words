@@ -1,27 +1,37 @@
 - affirmation
   - 发音
-    - 英 `/ˌæfər'meɪʃn/`
-    - 美 `/,æfɚ'meʃən/`
+    - 英
+      - `/ˌæfər'meɪʃn/`
+    - 美
+      - `/,æfɚ'meʃən/`
   - 词义
-    - n. 肯定；断言
+    - n.
+      - 肯定；断言
   - 同根词
     - adj.
-      - `affirmative` 肯定的；积极的
-      - `affirmable` 可断言的；可确定的
+      - `affirmative`
+        - 肯定的；积极的
+      - `affirmable`
+        - 可断言的；可确定的
     - adv.
-      - `affirmatively` 肯定地；断然地
+      - `affirmatively`
+        - 肯定地；断然地
     - n.
-      - `affirmative` 肯定语；赞成的一方
+      - `affirmative`
+        - 肯定语；赞成的一方
     - vi.
-      - `affirm` 确认；断言
+      - `affirm`
+        - 确认；断言
     - vt.
-      - `affirm` 肯定；断言
+      - `affirm`
+        - 肯定；断言
   - 近义词
-    - n. 主张，肯定；断言
-      - `opinion`
-      - `assurance`
-      - `claim`
-      - `advocacy`
+    - n.
+      - 主张，肯定；断言
+        - `opinion`
+        - `assurance`
+        - `claim`
+        - `advocacy`
   - 例句
     - `In other words, we must return attention to the affirmation.`
       - 换句话说，我们必须回到对肯定的注意。

@@ -1,20 +1,26 @@
 - chivalrous
   - 发音
-    - 英 `/'ʃɪvlrəs/`
-    - 美 `/'ʃɪvəlrəs/`
+    - 英
+      - `/'ʃɪvlrəs/`
+    - 美
+      - `/'ʃɪvəlrəs/`
   - 词义
-    - adj. 有骑士精神的；彬彬有礼的，殷勤的
-    - `a man who is chivalrous behaves in a polite, kind, generous, and honourable way, especially towards women`
+    - adj.
+      - 有骑士精神的；彬彬有礼的，殷勤的
+        - `a man who is chivalrous behaves in a polite, kind, generous, and honourable way, especially towards women`
   - 记忆
     - chival(=caval马) + rous → 骑马的 → 骑士的 → 有骑士精神的； 殷勤的
   - 同根词
     - adj.
-      - `chivalric` 骑士的；有武士气概的
+      - `chivalric`
+        - 骑士的；有武士气概的
     - adv.
-      - `chivalrously` 象骑士一样地；侠义地
+      - `chivalrously`
+        - 象骑士一样地；侠义地
   - 近义词
-    - adj. 侠义的；骑士的；有武士风度的
-      - `knightly`
+    - adj.
+      - 侠义的；骑士的；有武士风度的
+        - `knightly`
   - 例句
     - `He was handsome, upright, and chivalrous.`
       - 他英俊、正直、对女士彬彬有礼。

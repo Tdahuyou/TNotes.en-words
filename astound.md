@@ -1,16 +1,21 @@
 - astound
   - 发音
-    - 英 `/ə'staʊnd/`
-    - 美 `/ə'staʊnd/`
+    - 英
+      - `/ə'staʊnd/`
+    - 美
+      - `/ə'staʊnd/`
   - 词义
-    - v. 使惊骇,使大吃一惊
+    - v.
+      - 使惊骇,使大吃一惊
   - 同根词
     - adj.
-      - `astounding` 令人震惊的；令人惊骇的
+      - `astounding`
+        - 令人震惊的；令人惊骇的
   - 近义词
-    - vt. 使惊骇；使震惊
-      - `shock`
-      - `appall`
+    - vt.
+      - 使惊骇；使震惊
+        - `shock`
+        - `appall`
   - 例句
     - `If we did all the things we are capable of, we would literally astound ourselves.`
       - 如果我们所做的都是我们擅长的事情，我们最终将使自己大吃一惊。

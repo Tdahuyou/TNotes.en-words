@@ -1,28 +1,37 @@
 - benign
   - 发音
-    - 英 `/bɪ'naɪn/`
-    - 美 `/bɪ'naɪn/`
+    - 英
+      - `/bɪ'naɪn/`
+    - 美
+      - `/bɪ'naɪn/`
   - 词义
-    - adj. 良性的；有利的；善良的，和蔼的
-    - `a benign  tumour (=  unnatural growth in the body  )  is not caused by  cancer `
+    - adj.
+      - 良性的；有利的；善良的，和蔼的
+        - `a benign  tumour (=  unnatural growth in the body  )  is not caused by  cancer `
   - 记忆
     - ben(好的) + ign → 良性的； 有利的
   - 同根词
     - adj.
-      - `benignant` 良性的；仁慈的；有益的；和蔼的
+      - `benignant`
+        - 良性的；仁慈的；有益的；和蔼的
     - adv.
-      - `benignantly` 有益地；亲切地；仁慈地
-      - `benignly` 亲切地；仁慈地
+      - `benignantly`
+        - 有益地；亲切地；仁慈地
+      - `benignly`
+        - 亲切地；仁慈地
     - n.
-      - `benignancy` 仁慈；良性；亲切
+      - `benignancy`
+        - 仁慈；良性；亲切
   - 近义词
-    - adj. [肿瘤]良性的；和蔼的，亲切的；吉利的
-      - `nice`
-      - `friendly`
-      - `sweet`
-      - `kind`
+    - adj.
+      - [肿瘤]良性的；和蔼的，亲切的；吉利的
+        - `nice`
+        - `friendly`
+        - `sweet`
+        - `kind`
   - 短语
-    - `benign tumor` 良性瘤 
+    - `benign tumor`
+      - 良性瘤 
   - 例句
     - `He shook his head in benign amusement.`
       - 他被逗乐了，和蔼地摇了摇头。

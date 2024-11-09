@@ -1,28 +1,40 @@
 - joyous
   - 发音
-    - 英 `/'dʒɒɪəs/`
-    - 美 `/'dʒɔɪəs/`
+    - 英
+      - `/'dʒɒɪəs/`
+    - 美
+      - `/'dʒɔɪəs/`
   - 词义
-    - adj. 快乐的,高兴的
-    - `very happy, or likely to make people very happy`
+    - adj.
+      - 快乐的,高兴的
+        - `very happy, or likely to make people very happy`
   - 同根词
     - adj.
-      - `joyful` 欢喜的；令人高兴的
-      - `joyless` 不高兴的，不快乐的
-    - adv.
-      - `joyfully` 高兴地，喜悦地
-      - `joyously` 快乐地
-    - n.
-      - `joy` 欢乐，快乐；乐趣；高兴
-      - `joyousness` 高兴；快乐
-    - vi.
-      - `joy` 欣喜，欢喜
-    - vt.
-      - `joy` 高兴，使快乐
-  - 近义词
-    - adj. 令人高兴的；充满欢乐的（等于joyful）
-      - `glad`
       - `joyful`
+        - 欢喜的；令人高兴的
+      - `joyless`
+        - 不高兴的，不快乐的
+    - adv.
+      - `joyfully`
+        - 高兴地，喜悦地
+      - `joyously`
+        - 快乐地
+    - n.
+      - `joy`
+        - 欢乐，快乐；乐趣；高兴
+      - `joyousness`
+        - 高兴；快乐
+    - vi.
+      - `joy`
+        - 欣喜，欢喜
+    - vt.
+      - `joy`
+        - 高兴，使快乐
+  - 近义词
+    - adj.
+      - 令人高兴的；充满欢乐的（等于joyful）
+        - `glad`
+        - `joyful`
   - 例句
     - `a joyous occasion`
       - 欢乐的场合

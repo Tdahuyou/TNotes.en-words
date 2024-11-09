@@ -1,18 +1,23 @@
 - gregarious
   - 发音
-    - 英 `/grɪ'geriəs/`
-    - 美 `/grɪ'gɛrɪəs/`
+    - 英
+      - `/grɪ'geriəs/`
+    - 美
+      - `/grɪ'gɛrɪəs/`
   - 词义
-    - adj. 群居的；合群的，爱社交的
-    - `friendly and preferring to be with other people`
+    - adj.
+      - 群居的；合群的，爱社交的
+        - `friendly and preferring to be with other people`
   - 记忆
     - greg(群体) + ari + ous → 群居的
   - 同根词
     - n.
-      - `gregariousness` 群集度；合群性
+      - `gregariousness`
+        - 群集度；合群性
   - 近义词
-    - adj. 社交的；群居的
-      - `social`
+    - adj.
+      - 社交的；群居的
+        - `social`
   - 例句
     - `She is such a gregarious and outgoing person.`
       - 她就是这样一个爱社交而且外向的人。

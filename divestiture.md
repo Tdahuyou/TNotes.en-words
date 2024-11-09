@@ -1,13 +1,18 @@
 - divestiture
   - 发音
-    - 英 `/daɪ'vestɪtʃə; dɪ-/`
-    - 美 `/dɪ'vɛstɪtʃɚ/`
+    - 英
+      - `/daɪ'vestɪtʃə; dɪ-/`
+    - 美
+      - `/dɪ'vɛstɪtʃɚ/`
   - 词义
-    - n. (头衔,财产权利等的)剥夺,脱衣
+    - n.
+      - (头衔,财产权利等的)剥夺,脱衣
   - 同根词
     - vt.
-      - `divest` 剥夺；使脱去，迫使放弃
+      - `divest`
+        - 剥夺；使脱去，迫使放弃
   - 近义词
-    - n. 脱衣；剥夺
-      - `deprivation`
-      - `despoilment`
+    - n.
+      - 脱衣；剥夺
+        - `deprivation`
+        - `despoilment`

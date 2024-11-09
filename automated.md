@@ -1,37 +1,57 @@
 - automated
   - 发音
-    - 英 `/'ɔːtəmeɪtɪd/`
-    - 美 `/ɔtəˌmetɪd/`
+    - 英
+      - `/'ɔːtəmeɪtɪd/`
+    - 美
+      - `/ɔtəˌmetɪd/`
   - 词义
-    - adj. 自动的
-    - `using computers and machines to do a job, rather than people`
+    - adj.
+      - 自动的
+        - `using computers and machines to do a job, rather than people`
   - 同根词
     - adj.
-      - `automatic` 自动的；无意识的；必然的
-      - `automatically` 不经思索的
+      - `automatic`
+        - 自动的；无意识的；必然的
+      - `automatically`
+        - 不经思索的
     - adv.
-      - `automatically` 自动地；机械地；无意识地
+      - `automatically`
+        - 自动地；机械地；无意识地
     - n.
-      - `automatic` 自动机械；自动手枪
-      - `automation` 自动化；自动操作
-      - `automaton` 自动机；机器人；自动机器
-      - `automat` 自动售货机；[自] 自动机；自动贩卖式餐馆
-      - `automatism` 自动作用；[医] 自动症；自动性
+      - `automatic`
+        - 自动机械；自动手枪
+      - `automation`
+        - 自动化；自动操作
+      - `automaton`
+        - 自动机；机器人；自动机器
+      - `automat`
+        - 自动售货机；[自] 自动机；自动贩卖式餐馆
+      - `automatism`
+        - 自动作用；[医] 自动症；自动性
     - vi.
-      - `automate` 自动化，自动操作
-      - `automatize` 自动化
+      - `automate`
+        - 自动化，自动操作
+      - `automatize`
+        - 自动化
     - vt.
-      - `automate` 使自动化，使自动操作
-      - `automatise` （英）使自动化（等于automatize）
-      - `automatize` 使自动化
+      - `automate`
+        - 使自动化，使自动操作
+      - `automatise`
+        - （英）使自动化（等于automatize）
+      - `automatize`
+        - 使自动化
   - 近义词
-    - adj. [自]自动化的；机械化的
-      - `mechanized`
-      - `push-button`
+    - adj.
+      - [自]自动化的；机械化的
+        - `mechanized`
+        - `push-button`
   - 短语
-    - `automated machine` 自动化机械；自动化的机器 
-    - `automated teller machine` 自动柜员机 
-    - `automated welding` 自动焊接 
+    - `automated machine`
+      - 自动化机械；自动化的机器 
+    - `automated teller machine`
+      - 自动柜员机 
+    - `automated welding`
+      - 自动焊接 
   - 例句
     - `a highly automated factory`
       - 高度自动化的工厂

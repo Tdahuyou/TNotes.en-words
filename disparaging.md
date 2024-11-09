@@ -1,24 +1,33 @@
 - disparaging
   - 发音
-    - 英 `/dɪ'spærɪdʒɪŋ/`
-    - 美 `/dɪs'pærɪdʒɪŋ/`
+    - 英
+      - `/dɪ'spærɪdʒɪŋ/`
+    - 美
+      - `/dɪs'pærɪdʒɪŋ/`
   - 词义
-    - adj. 毁谤的；轻蔑的
-    - v. 蔑视（disparage的ing形式）
+    - adj.
+      - 毁谤的；轻蔑的
+    - v.
+      - 蔑视（disparage的ing形式）
   - 记忆
     - 来自disparage(v. 蔑视， 贬低)， dis(不) + par(平等) + age → 不平等看人 → 贬低的
   - 同根词
     - adv.
-      - `disparagingly` 以轻视的态度，蔑视地；以贬抑的口吻
+      - `disparagingly`
+        - 以轻视的态度，蔑视地；以贬抑的口吻
     - n.
-      - `disparagement` 轻蔑；轻视
-      - `disparager` 毁谤者
+      - `disparagement`
+        - 轻蔑；轻视
+      - `disparager`
+        - 毁谤者
     - vt.
-      - `disparage` 蔑视；毁谤
+      - `disparage`
+        - 蔑视；毁谤
   - 近义词
-    - adj. 毁谤的；轻蔑的
-      - `scornful`
-      - `contemptuous`
+    - adj.
+      - 毁谤的；轻蔑的
+        - `scornful`
+        - `contemptuous`
   - 例句
     - `In one study, for instance, subjects were asked to listen to recordings of people supposedly saying disparaging things about them.`
       - 例如，在一份调查中，受调查者被安排听别人毁谤自己的录音。

@@ -1,14 +1,20 @@
 - pragmatics
   - 发音
-    - 英 `/præɡ'mætiks/`
-    - 美 `/præg'mætɪks/`
+    - 英
+      - `/præɡ'mætiks/`
+    - 美
+      - `/præg'mætɪks/`
   - 词义
-    - n. 语用学
-    - `the study of how words and phrases are used with special meanings in particular situations`
+    - n.
+      - 语用学
+        - `the study of how words and phrases are used with special meanings in particular situations`
   - 短语
-    - `pragmatic competence` 语用能力 
-    - `pragmatic failure` 语用失误；语用失效 
-    - `pragmatic approach` 实际的方法；重实效的方法 
+    - `pragmatic competence`
+      - 语用能力 
+    - `pragmatic failure`
+      - 语用失误；语用失效 
+    - `pragmatic approach`
+      - 实际的方法；重实效的方法 
   - 例句
     - `The choice will be influenced by selection of business partners in the value chain, emerging standards and pragmatics of a solution.`
       - 这种选择将会受到价值链中业务合作伙伴的选取、出现的标准和解决方案的语用学的影响。

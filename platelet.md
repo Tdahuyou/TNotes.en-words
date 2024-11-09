@@ -1,17 +1,23 @@
 - platelet
   - 发音
-    - 英 `/'pleɪtlɪt/`
-    - 美 `/'pletlət/`
+    - 英
+      - `/'pleɪtlɪt/`
+    - 美
+      - `/'pletlət/`
   - 词义
-    - n. [解]血小板
-    - `one of the very small flat round cells in your blood that help it become solid when you bleed, so that you stop bleeding`
+    - n.
+      - [解]血小板
+        - `one of the very small flat round cells in your blood that help it become solid when you bleed, so that you stop bleeding`
   - 近义词
-    - n. [组织][生物]血小板；薄片
-      - `slice`
-      - `thrombocyte`
+    - n.
+      - [组织][生物]血小板；薄片
+        - `slice`
+        - `thrombocyte`
   - 短语
-    - `platelet aggregation` 血小板聚集 
-    - `blood platelet` n. 血小板；凝血细胞 
+    - `platelet aggregation`
+      - 血小板聚集 
+    - `blood platelet`
+      - n. 血小板；凝血细胞 
   - 例句
     - `Others have shown garlic prevents platelet aggregation and reduces high blood pressure.`
       - 其他资料提出大蒜防止血小板凝聚，减少高血压。

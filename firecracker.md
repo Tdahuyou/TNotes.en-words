@@ -1,14 +1,18 @@
 - firecracker
   - 发音
-    - 英 `/'faɪəkrækə/`
-    - 美 `/'faɪɚkrækɚ/`
+    - 英
+      - `/'faɪəkrækə/`
+    - 美
+      - `/'faɪɚkrækɚ/`
   - 词义
-    - n. 鞭炮，爆竹
-    - `a small  firework  that explodes loudly`
+    - n.
+      - 鞭炮，爆竹
+        - `a small  firework  that explodes loudly`
   - 近义词
-    - n. 鞭炮，爆竹
-      - `banger`
-      - `cracker`
+    - n.
+      - 鞭炮，爆竹
+        - `banger`
+        - `cracker`
   - 例句
     - `I played firecracker but I hurt my finger with the fire.`
       - 在我玩爆竹的时候，伤着了我的手指。

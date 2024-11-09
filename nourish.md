@@ -1,22 +1,29 @@
 - nourish
   - 发音
-    - 英 `/'nɜːrɪʃ/`
-    - 美 `/'nɜrɪʃ/`
+    - 英
+      - `/'nɜːrɪʃ/`
+    - 美
+      - `/'nɜrɪʃ/`
   - 词义
-    - vt. 滋养；养育
-    - `to give a person or other living thing the food and other substances they need in order to live, grow, and stay healthy`
+    - vt.
+      - 滋养；养育
+        - `to give a person or other living thing the food and other substances they need in order to live, grow, and stay healthy`
   - 记忆
     - nouri(=nutri滋养， 孕育) + sh → 滋养； 养育
   - 同根词
     - adj.
-      - `nourishing` 有营养的；滋养多的
+      - `nourishing`
+        - 有营养的；滋养多的
     - n.
-      - `nourishment` 食物；营养品；滋养品
+      - `nourishment`
+        - 食物；营养品；滋养品
     - v.
-      - `nourishing` 滋养；养育（nourish的ing形式）
+      - `nourishing`
+        - 滋养；养育（nourish的ing形式）
   - 近义词
-    - vt. 滋养；怀有；使健壮
-      - `harbor`
+    - vt.
+      - 滋养；怀有；使健壮
+        - `harbor`
   - 例句
     - `The cream contains vitamin A to nourish the skin.`
       - 这种护肤霜含有滋养肌肤的维生素A。

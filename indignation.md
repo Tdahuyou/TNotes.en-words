@@ -1,20 +1,27 @@
 - indignation
   - 发音
-    - 英 `/ɪndɪg'neɪʃ(ə)n/`
-    - 美 `/,ɪndɪɡ'neʃən/`
+    - 英
+      - `/ɪndɪg'neɪʃ(ə)n/`
+    - 美
+      - `/,ɪndɪɡ'neʃən/`
   - 词义
-    - n. 愤慨；愤怒；义愤
-    - `feelings of anger and surprise because you feel insulted or unfairly treated`
+    - n.
+      - 愤慨；愤怒；义愤
+        - `feelings of anger and surprise because you feel insulted or unfairly treated`
   - 同根词
     - adj.
-      - `indignant` 愤愤不平的；义愤的
-      - `indign` 不值得的；可耻的
+      - `indignant`
+        - 愤愤不平的；义愤的
+      - `indign`
+        - 不值得的；可耻的
     - adv.
-      - `indignantly` 愤怒地；愤慨地
+      - `indignantly`
+        - 愤怒地；愤慨地
   - 近义词
-    - n. 愤慨；愤怒；义愤
-      - `anger`
-      - `wrath`
+    - n.
+      - 愤慨；愤怒；义愤
+        - `anger`
+        - `wrath`
   - 例句
     - `To his indignation, Charles found that his name was not on the list.`
       - 查尔斯发现他的名字没有出现在名单上，这让他深感愤慨。

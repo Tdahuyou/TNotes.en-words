@@ -1,18 +1,26 @@
 - volleyball
   - 发音
-    - 英 `/'vɒlɪbɔːl/`
-    - 美 `/'vɑlɪbɔl/`
+    - 英
+      - `/'vɒlɪbɔːl/`
+    - 美
+      - `/'vɑlɪbɔl/`
   - 词义
-    - n. 排球
-    - `a game in which two teams use their hands to hit a ball over a high net`
+    - n.
+      - 排球
+        - `a game in which two teams use their hands to hit a ball over a high net`
   - 近义词
-    - n. 排球
-      - `center forward`
+    - n.
+      - 排球
+        - `center forward`
   - 短语
-    - `beach volleyball` 沙滩排球，排球 
-    - `volleyball team` 排球队 
-    - `volleyball game` 排球赛 
-    - `volleyball court` 排球场 
+    - `beach volleyball`
+      - 沙滩排球，排球 
+    - `volleyball team`
+      - 排球队 
+    - `volleyball game`
+      - 排球赛 
+    - `volleyball court`
+      - 排球场 
   - 例句
     - `I like playing beach volleyball.`
       - 我喜欢打沙滩排球。

@@ -1,47 +1,71 @@
 - build
   - 发音
-    - 英 `/bɪld/`
-    - 美 `/bɪld/`
+    - 英
+      - `/bɪld/`
+    - 美
+      - `/bɪld/`
   - 词义
-    - v. (built)建造
-    - `to make something, especially a building or something large`
+    - v.
+      - (built)建造
+        - `to make something, especially a building or something large`
   - 同根词
     - adj.
-      - `built` 身段优美的；…建成的
+      - `built`
+        - 身段优美的；…建成的
     - n.
-      - `building` 建筑；建筑物
-      - `builder` 建筑者；建立者
+      - `building`
+        - 建筑；建筑物
+      - `builder`
+        - 建筑者；建立者
     - v.
-      - `building` 建筑；建立；增加（build的ing形式）
-      - `built` 建造（build的过去分词）
+      - `building`
+        - 建筑；建立；增加（build的ing形式）
+      - `built`
+        - 建造（build的过去分词）
   - 近义词
-    - vt. 建立；建筑
-      - `establish`
-      - `found`
-      - `constitute`
-    - vi. 建筑；建造
-      - `engineer`
-      - `put up`
-    - n. 构造；体形；体格
-      - `formation`
-      - `constructing`
-      - `fabric`
-      - `structure`
-      - `figure`
+    - vt.
+      - 建立；建筑
+        - `establish`
+        - `found`
+        - `constitute`
+    - vi.
+      - 建筑；建造
+        - `engineer`
+        - `put up`
+    - n.
+      - 构造；体形；体格
+        - `formation`
+        - `constructing`
+        - `fabric`
+        - `structure`
+        - `figure`
   - 短语
-    - `build up` 增进，加强 
-    - `build on` 依赖，依靠…；建立于；把…建立于…；以…为基础 
-    - `build in` 插入；嵌入 
-    - `build of` 用…建造 
-    - `build a bridge` 建立好关系；修建桥梁 
-    - `build upon` 指望；依赖；建立于 
-    - `build confidence` 树立信心 
-    - `build into` 使固定于；使成为组成部分 
-    - `contract to build` 承建 
-    - `medium build` 中等身材；中等体格 
-    - `body build` 体格 
-    - `build up from nothing` 白手起家 
-    - `build up your confidence` 建立你的自信心 
+    - `build up`
+      - 增进，加强 
+    - `build on`
+      - 依赖，依靠…；建立于；把…建立于…；以…为基础 
+    - `build in`
+      - 插入；嵌入 
+    - `build of`
+      - 用…建造 
+    - `build a bridge`
+      - 建立好关系；修建桥梁 
+    - `build upon`
+      - 指望；依赖；建立于 
+    - `build confidence`
+      - 树立信心 
+    - `build into`
+      - 使固定于；使成为组成部分 
+    - `contract to build`
+      - 承建 
+    - `medium build`
+      - 中等身材；中等体格 
+    - `body build`
+      - 体格 
+    - `build up from nothing`
+      - 白手起家 
+    - `build up your confidence`
+      - 建立你的自信心 
   - 例句
     - `The purpose is to build new houses for local people.`
       - 目的是要为当地居民建造新的住宅。

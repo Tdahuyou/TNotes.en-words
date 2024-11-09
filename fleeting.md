@@ -1,31 +1,45 @@
 - fleeting
   - 发音
-    - 英 `/'fliːtɪŋ/`
-    - 美 `/'flitɪŋ/`
+    - 英
+      - `/'fliːtɪŋ/`
+    - 美
+      - `/'flitɪŋ/`
   - 词义
-    - adj. 飞逝的,短暂的"
+    - adj.
+      - 飞逝的,短暂的"
   - 记忆
     - 舰队(fleet)遇到问题赶紧逃跑(flee)
   - 同根词
     - adj.
-      - `fleet` 快速的，敏捷的
+      - `fleet`
+        - 快速的，敏捷的
     - adv.
-      - `fleetly` 快速地；转瞬即逝地
+      - `fleetly`
+        - 快速地；转瞬即逝地
     - n.
-      - `fleet` 舰队；港湾；小河
-      - `fleetness` 快速；无常
+      - `fleet`
+        - 舰队；港湾；小河
+      - `fleetness`
+        - 快速；无常
     - vi.
-      - `fleet` 飞逝；疾驰；掠过
+      - `fleet`
+        - 飞逝；疾驰；掠过
     - vt.
-      - `fleet` 消磨
+      - `fleet`
+        - 消磨
   - 近义词
-    - v. 迅速移动（fleet的ing形式）
-      - `zapping`
+    - v.
+      - 迅速移动（fleet的ing形式）
+        - `zapping`
   - 短语
-    - `a fleet of` 机群；一队… 
-    - `fleet management` 车队管理；船队管理 
-    - `fleet street` 佛里特街（英国几家报馆办事处所在地）；伦敦报业；伦敦新闻界 
-    - `merchant fleet` 商船队 
+    - `a fleet of`
+      - 机群；一队… 
+    - `fleet management`
+      - 车队管理；船队管理 
+    - `fleet street`
+      - 佛里特街（英国几家报馆办事处所在地）；伦敦报业；伦敦新闻界 
+    - `merchant fleet`
+      - 商船队 
   - 例句
     - `Time is fleeting.; Time flies.`
       - 时光飞逝。

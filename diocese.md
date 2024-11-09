@@ -1,10 +1,13 @@
 - diocese
   - 发音
-    - 英 `/'daɪəsɪs/`
-    - 美 `/'daɪəsɪs/`
+    - 英
+      - `/'daɪəsɪs/`
+    - 美
+      - `/'daɪəsɪs/`
   - 词义
-    - n. 主教教区
-    - `the area under the control of a  bishop  in some Christian churches`
+    - n.
+      - 主教教区
+        - `the area under the control of a  bishop  in some Christian churches`
   - 例句
     - `The diocese does not deny the copying, but says he probably did not know of the reassignment.`
       - 主教教区没有否认那个记录但是表示它或许对于重新任职一无所知。

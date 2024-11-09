@@ -1,22 +1,30 @@
 - avian
   - 发音
-    - 英 `/'eɪvɪən/`
-    - 美 `/'evɪən/`
+    - 英
+      - `/'eɪvɪən/`
+    - 美
+      - `/'evɪən/`
   - 词义
-    - adj. 鸟的；鸟类的
-    - `of, relating to, or resembling a bird `
-    - n. 鸟
+    - adj.
+      - 鸟的；鸟类的
+        - `of, relating to, or resembling a bird `
+    - n.
+      - 鸟
   - 记忆
     - avi(鸟) + an → 鸟； 鸟类的
   - 近义词
-    - n. 鸟
-      - `bird`
-      - `jay`
-      - `niao`
+    - n.
+      - 鸟
+        - `bird`
+        - `jay`
+        - `niao`
   - 短语
-    - `avian influenza` 禽流感；家禽流行性感冒 
-    - `avian flu` 禽流感 
-    - `avian influenza virus` 禽流感病毒 
+    - `avian influenza`
+      - 禽流感；家禽流行性感冒 
+    - `avian flu`
+      - 禽流感 
+    - `avian influenza virus`
+      - 禽流感病毒 
   - 例句
     - `Scientists set up an avian casino in which pigeons could place their bets on one of two symbols.`
       - 科学家们设置了一个鸟类的“卡西诺赌场”，在那里放上两个标志以供鸽子下赌注。

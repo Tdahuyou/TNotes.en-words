@@ -1,19 +1,27 @@
 - lionize
   - 发音
-    - 英 `/'laɪənaɪz/`
-    - 美 `/'laɪənaɪz/`
+    - 英
+      - `/'laɪənaɪz/`
+    - 美
+      - `/'laɪənaɪz/`
   - 词义
-    - v. 崇拜，看重
+    - v.
+      - 崇拜，看重
   - 记忆
     - lion(狮子； 名流) + ize → 视为名流 → 崇拜
   - 同根词
     - n.
-      - `lion` 狮子；名人；勇猛的人；社交场合的名流
-      - `lionise` 巴结名流；游览名胜（等于lionize）
+      - `lion`
+        - 狮子；名人；勇猛的人；社交场合的名流
+      - `lionise`
+        - 巴结名流；游览名胜（等于lionize）
     - vt.
-      - `lionise` 把…作为名流看待；崇拜
+      - `lionise`
+        - 把…作为名流看待；崇拜
   - 近义词
-    - vt. 把……奉为名人；游览名胜
-      - `see the lions`
-    - vi. 游览名胜
-      - `see the lions`
+    - vt.
+      - 把……奉为名人；游览名胜
+        - `see the lions`
+    - vi.
+      - 游览名胜
+        - `see the lions`

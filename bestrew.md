@@ -1,10 +1,14 @@
 - bestrew
   - 发音
-    - 英 `/bi'struː/`
-    - 美 `/bi'stru:/`
+    - 英
+      - `/bi'struː/`
+    - 美
+      - `/bi'stru:/`
   - 词义
-    - v. 散布，布满
+    - v.
+      - 散布，布满
   - 近义词
-    - vt. 布满；散布
-      - `distribute`
-      - `spread`
+    - vt.
+      - 布满；散布
+        - `distribute`
+        - `spread`

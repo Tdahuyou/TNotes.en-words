@@ -1,14 +1,18 @@
 - streetcar
   - 发音
-    - 英 `/'striːtkɑː/`
-    - 美 `/'stritkɑr/`
+    - 英
+      - `/'striːtkɑː/`
+    - 美
+      - `/'stritkɑr/`
   - 词义
-    - n. 路面电车
-    - `a type of bus that runs on electricity along metal tracks in the road`
+    - n.
+      - 路面电车
+        - `a type of bus that runs on electricity along metal tracks in the road`
   - 近义词
-    - n. [车辆]有轨电车
-      - `trolley car`
-      - `trolley-bus`
+    - n.
+      - [车辆]有轨电车
+        - `trolley car`
+        - `trolley-bus`
   - 例句
     - `She was wearing a uniform jacket and skirt, and I realized that she was streetcar conductor.`
       - 她穿着制服上衣和裙子，我明白她原来是有轨电车检票员。

@@ -1,18 +1,23 @@
 - hodgepodge
   - 发音
-    - 英 `/'hɔdʒpɔdʒ/`
-    - 美 `/'hɑdʒpɑdʒ/`
+    - 英
+      - `/'hɔdʒpɔdʒ/`
+    - 美
+      - `/'hɑdʒpɑdʒ/`
   - 词义
-    - n. 大杂烩
+    - n.
+      - 大杂烩
   - 记忆
     - hodge (庄稼汉) + podge (矮胖的人) → 这个矮胖的庄稼汉爱做大杂烩 → 大杂烩
   - 近义词
-    - n. 大杂烩；混煮；一团糟
-      - `salmagundi`
-      - `smorgasbord`
-    - vt. 使混乱
-      - `cloud`
-      - `confuse`
+    - n.
+      - 大杂烩；混煮；一团糟
+        - `salmagundi`
+        - `smorgasbord`
+    - vt.
+      - 使混乱
+        - `cloud`
+        - `confuse`
   - 例句
     - `Your last paragraph made it very clear to me that Benjamin's work is basically a hodgepodge from Kantian rationality through to more updated theories.`
       - 你最后一段话让它很清楚的告诉我，本雅明的工作是基本上一个大杂烩，从康德的批判理性一直到更新的理论。

@@ -1,19 +1,24 @@
 - equanimity
   - 发音
-    - 英 `/ˌekwə'nimiti/`
-    - 美 `/,ɛkwə'nɪməti/`
+    - 英
+      - `/ˌekwə'nimiti/`
+    - 美
+      - `/,ɛkwə'nɪməti/`
   - 词义
-    - n. 平静，沉着，镇定
-    - `calmness in the way that you react to things, which means that you do not become upset or annoyed`
+    - n.
+      - 平静，沉着，镇定
+        - `calmness in the way that you react to things, which means that you do not become upset or annoyed`
   - 记忆
     - equ + anim (精神， 生命) + ity → 精神平静 → 沉着
   - 同根词
     - adj.
-      - `equanimous` 安静的；镇定的
+      - `equanimous`
+        - 安静的；镇定的
   - 近义词
-    - n. 平静；镇定
-      - `peace`
-      - `equilibrium`
+    - n.
+      - 平静；镇定
+        - `peace`
+        - `equilibrium`
   - 例句
     - `He received the news with surprising equanimity.`
       - 他得到消息时显得异常镇静。

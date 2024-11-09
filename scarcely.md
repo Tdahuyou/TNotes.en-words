@@ -1,22 +1,30 @@
 - scarcely
   - 发音
-    - 英 `/'skeəslɪ/`
-    - 美 `/'skɛrsli/`
+    - 英
+      - `/'skeəslɪ/`
+    - 美
+      - `/'skɛrsli/`
   - 词义
-    - adv. 几乎不,简直没有
-    - `almost not or almost none at all`
+    - adv.
+      - 几乎不,简直没有
+        - `almost not or almost none at all`
   - 同根词
     - adj.
-      - `scarce` 缺乏的，不足的；稀有的
+      - `scarce`
+        - 缺乏的，不足的；稀有的
     - adv.
-      - `scarce` 仅仅；几乎不；几乎没有
+      - `scarce`
+        - 仅仅；几乎不；几乎没有
   - 近义词
-    - adv. 几乎不，简直不；简直没有
-      - `ill`
-      - `barely`
+    - adv.
+      - 几乎不，简直不；简直没有
+        - `ill`
+        - `barely`
   - 短语
-    - `scarcely any` 几乎没有 
-    - `scarcely ever` 几乎从不；很少；极难得 
+    - `scarcely any`
+      - 几乎没有 
+    - `scarcely ever`
+      - 几乎从不；很少；极难得 
   - 例句
     - `The city had scarcely changed in 20 years.`
       - 这座城市20年中几乎没有什么改变。

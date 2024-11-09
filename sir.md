@@ -1,16 +1,21 @@
 - sir
   - 发音
-    - 英 `/sɜː/`
-    - 美 `/sɝ/`
+    - 英
+      - `/sɜː/`
+    - 美
+      - `/sɝ/`
   - 词义
-    - n. 先生；长官
-    - `used when speaking to a man in order to be polite or show respect`
+    - n.
+      - 先生；长官
+        - `used when speaking to a man in order to be polite or show respect`
   - 近义词
-    - n. 阁下，先生
-      - `don`
-      - `gentleman`
+    - n.
+      - 阁下，先生
+        - `don`
+        - `gentleman`
   - 短语
-    - `dear sir or madam` 尊敬的先生或女士（信笺的开头语） 
+    - `dear sir or madam`
+      - 尊敬的先生或女士（信笺的开头语） 
   - 例句
     - `‘Report back to me in an hour, sergeant.’ ‘Yes, sir.’`
       - “一小时后向我报告，中士。”“是，长官。”

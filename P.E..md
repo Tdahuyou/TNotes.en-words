@@ -1,9 +1,12 @@
 - P.E.
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. (physicaleducation)体育
+    - n.
+      - (physicaleducation)体育
   - 例句
     - `Some parents like the idea of avoiding competitive sports in P.E. class.`
       - 一些家长支持不在体育课里教授竞技体育的想法。

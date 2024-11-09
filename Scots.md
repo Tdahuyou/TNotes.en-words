@@ -1,12 +1,16 @@
 - Scots
   - 发音
-    - 英 `/skɔts/`
-    - 美 `/skɑts/`
+    - 英
+      - `/skɔts/`
+    - 美
+      - `/skɑts/`
   - 词义
-    - adj. 苏格兰的；苏格兰人的；苏格兰英语的
-    - `Scottish`
-    - n. 苏格兰人；苏格兰语
-    - `any of the English dialects spoken or written in Scotland `
+    - adj.
+      - 苏格兰的；苏格兰人的；苏格兰英语的
+        - `Scottish`
+    - n.
+      - 苏格兰人；苏格兰语
+        - `any of the English dialects spoken or written in Scotland `
   - 例句
     - `But where were the Scots from?`
       - 但是，苏格兰人又是从哪里来的？

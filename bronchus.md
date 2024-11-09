@@ -1,21 +1,29 @@
 - bronchus
   - 发音
-    - 英 `/'brɔŋkəs/`
-    - 美 `/'brɑŋkəs/`
+    - 英
+      - `/'brɔŋkəs/`
+    - 美
+      - `/'brɑŋkəs/`
   - 词义
-    - n. 【解】支气管
-    - `either of the two main branches of the trachea, which contain cartilage within their walls `
+    - n.
+      - 【解】支气管
+        - `either of the two main branches of the trachea, which contain cartilage within their walls `
   - 同根词
     - adj.
-      - `bronchial` 支气管的
-      - `bronchitic` 支气管炎的
-      - `bronchoscopic` 支气管镜的
+      - `bronchial`
+        - 支气管的
+      - `bronchitic`
+        - 支气管炎的
+      - `bronchoscopic`
+        - 支气管镜的
     - n.
-      - `bronchodilator` [内科][药] 支气管扩张剂；支气管扩张器
+      - `bronchodilator`
+        - [内科][药] 支气管扩张剂；支气管扩张器
   - 近义词
-    - n. 支气管
-      - `bronchial tube`
-      - `branchus`
+    - n.
+      - 支气管
+        - `bronchial tube`
+        - `branchus`
   - 例句
     - `Small branch of the bronchus that carries air to and from the alveoli.`
       - 细支气管-- 支气管的细小分支，输送空气进出肺泡。

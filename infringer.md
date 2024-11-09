@@ -1,9 +1,12 @@
 - infringer
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. [法]侵权人
+    - n.
+      - [法]侵权人
   - 记忆
     - 来自infringe(v. 侵犯)
   - 例句

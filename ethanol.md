@@ -1,14 +1,18 @@
 - ethanol
   - 发音
-    - 英 `/'eθənɒl/`
-    - 美 `/'ɛθənɔl/`
+    - 英
+      - `/'eθənɒl/`
+    - 美
+      - `/'ɛθənɔl/`
   - 词义
-    - n. [有化]乙醇，[有化]酒精
-    - `the type of alcohol in alcoholic drinks, which can also be used as a fuel for cars`
+    - n.
+      - [有化]乙醇，[有化]酒精
+        - `the type of alcohol in alcoholic drinks, which can also be used as a fuel for cars`
   - 近义词
-    - n. 乙醇，[有化]酒精
-      - `ethyl alcohol`
-      - `alki`
+    - n.
+      - 乙醇，[有化]酒精
+        - `ethyl alcohol`
+        - `alki`
   - 例句
     - `But the significance of the quarrel goes well beyond ethanol.`
       - 但是这场争论的意义远远不止于乙醇问题。

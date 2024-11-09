@@ -1,13 +1,17 @@
 - cello
   - 发音
-    - 英 `/'tʃeləʊ/`
-    - 美 `/'tʃɛlo/`
+    - 英
+      - `/'tʃeləʊ/`
+    - 美
+      - `/'tʃɛlo/`
   - 词义
-    - n. 大提琴
-    - `a musical instrument like a large  violin  that you hold between your knees and play by pulling a  bow (= special stick )  across the strings`
+    - n.
+      - 大提琴
+        - `a musical instrument like a large  violin  that you hold between your knees and play by pulling a  bow (= special stick )  across the strings`
   - 近义词
-    - n. 大提琴
-      - `violoncello`
+    - n.
+      - 大提琴
+        - `violoncello`
   - 例句
     - `All this from playing the violin and the cello.`
       - 所有这些都来自于小提琴和大提琴的演奏。

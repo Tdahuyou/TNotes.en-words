@@ -1,10 +1,13 @@
 - Esperanto
   - 发音
-    - 英 `/,espə'ræntəu/`
-    - 美 `/,espə'ræntəu/`
+    - 英
+      - `/,espə'ræntəu/`
+    - 美
+      - `/,espə'ræntəu/`
   - 词义
-    - n. 世界语
-    - `an artificial language invented in 1887 to help people from different countries in the world speak to each other`
+    - n.
+      - 世界语
+        - `an artificial language invented in 1887 to help people from different countries in the world speak to each other`
   - 例句
     - `He wants to learn Esperanto.`
       - 他要学世界语。

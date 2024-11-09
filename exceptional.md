@@ -1,37 +1,54 @@
 - exceptional
   - 发音
-    - 英 `/ik'sepʃənəl/`
-    - 美 `/ɪk'sɛpʃənl/`
+    - 英
+      - `/ik'sepʃənəl/`
+    - 美
+      - `/ɪk'sɛpʃənl/`
   - 词义
-    - adj. 例外的，异常的，特殊的；优越的
-    - `Exceptional situations and incidents are unusual and only likely to happen infrequently`
+    - adj.
+      - 例外的，异常的，特殊的；优越的
+        - `Exceptional situations and incidents are unusual and only likely to happen infrequently`
   - 记忆
     - except (例外) + ion + al (…的) → 例外的
   - 同根词
     - adv.
-      - `exceptionally` 异常地；特殊地；例外地
+      - `exceptionally`
+        - 异常地；特殊地；例外地
     - conj.
-      - `except` 除了；要不是
+      - `except`
+        - 除了；要不是
     - n.
-      - `exception` 例外；异议
+      - `exception`
+        - 例外；异议
     - prep.
-      - `except` 除…之外
+      - `except`
+        - 除…之外
     - vi.
-      - `except` 反对
+      - `except`
+        - 反对
     - vt.
-      - `except` 不计；把…除外
+      - `except`
+        - 不计；把…除外
   - 近义词
-    - adj. 异常的，例外的
-      - `novel`
-      - `exquisite`
+    - adj.
+      - 异常的，例外的
+        - `novel`
+        - `exquisite`
   - 短语
-    - `exceptional circumstances` 特殊情况；例外情况 
-    - `exceptional child` n. 特殊（异常）儿童 
-    - `exceptional performance` 非同一般的表现 
-    - `truly exceptional` 无与伦比 
-    - `exceptional case` 例外事件；特殊情况 
-    - `exceptional ability` 特殊才能，特殊能力 
-    - `exceptional value` 例外值 
+    - `exceptional circumstances`
+      - 特殊情况；例外情况 
+    - `exceptional child`
+      - n. 特殊（异常）儿童 
+    - `exceptional performance`
+      - 非同一般的表现 
+    - `truly exceptional`
+      - 无与伦比 
+    - `exceptional case`
+      - 例外事件；特殊情况 
+    - `exceptional ability`
+      - 特殊才能，特殊能力 
+    - `exceptional value`
+      - 例外值 
   - 例句
     - `A review panel concluded that there were no exceptional circumstances that would warrant a lesser penalty for him.`
       - 一个评估小组作出结论：没有什么例外情况可使他获得从轻惩罚。

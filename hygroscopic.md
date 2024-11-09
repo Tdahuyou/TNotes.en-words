@@ -1,17 +1,23 @@
 - hygroscopic
   - 发音
-    - 英 `/haɪgrə(ʊ)'skɒpɪk/`
-    - 美 `/,haɪgrə'skɑpɪk/`
+    - 英
+      - `/haɪgrə(ʊ)'skɒpɪk/`
+    - 美
+      - `/,haɪgrə'skɑpɪk/`
   - 词义
-    - adj. 吸湿的
-    - `(of a substance) tending to absorb water from the air `
+    - adj.
+      - 吸湿的
+        - `(of a substance) tending to absorb water from the air `
   - 同根词
     - n.
-      - `hygrometer` 湿度计
-      - `hygroscope` [气象] 湿度计；验湿器
+      - `hygrometer`
+        - 湿度计
+      - `hygroscope`
+        - [气象] 湿度计；验湿器
   - 近义词
-    - adj. [化学]吸湿的；湿度计的；易潮湿的
-      - `hydrophil`
+    - adj.
+      - [化学]吸湿的；湿度计的；易潮湿的
+        - `hydrophil`
   - 例句
     - `Bentonite clay is also hygroscopic and absorbs water`
       - 膨润土也是一种吸湿剂，可以吸收周围空气中的水分。 在包装和搬运时要特别注意上述材料不能碰水，以免浪费。

@@ -1,21 +1,27 @@
 - treacherous
   - 发音
-    - 英 `/'tretʃərəs/`
-    - 美 `/'trɛtʃərəs/`
+    - 英
+      - `/'tretʃərəs/`
+    - 美
+      - `/'trɛtʃərəs/`
   - 词义
-    - adj. 背叛的，背信弃义的
-    - `someone who is treacherous cannot be trusted because they are not loyal and secretly intend to harm you`
+    - adj.
+      - 背叛的，背信弃义的
+        - `someone who is treacherous cannot be trusted because they are not loyal and secretly intend to harm you`
   - 记忆
     - 来自treachery (n. 阴险， 背叛)
   - 同根词
     - adv.
-      - `treacherously` 背叛地；危险地；靠不住地
+      - `treacherously`
+        - 背叛地；危险地；靠不住地
     - n.
-      - `treachery` 背叛；变节；背叛行为
+      - `treachery`
+        - 背叛；变节；背叛行为
   - 近义词
-    - adj. 奸诈的，叛逆的，背叛的；危险的；不牢靠的
-      - `dangerous`
-      - `critical`
+    - adj.
+      - 奸诈的，叛逆的，背叛的；危险的；不牢靠的
+        - `dangerous`
+        - `critical`
   - 例句
     - `a sly and treacherous woman`
       - 一个阴险狡诈的女人

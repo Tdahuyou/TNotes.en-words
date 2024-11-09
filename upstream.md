@@ -1,22 +1,33 @@
 - upstream
   - 发音
-    - 英 `/'ʌpstriːm/`
-    - 美 `/,ʌp'strim/`
+    - 英
+      - `/'ʌpstriːm/`
+    - 美
+      - `/,ʌp'strim/`
   - 词义
-    - adv. 逆流地；向上游
-    - `along a river, in the opposite direction from the way the water is flowing`
-    - adj. 向上游的；逆流而上的
-    - `Upstream is also an adjective`
-    - n. 上游部门
+    - adv.
+      - 逆流地；向上游
+        - `along a river, in the opposite direction from the way the water is flowing`
+    - adj.
+      - 向上游的；逆流而上的
+        - `Upstream is also an adjective`
+    - n.
+      - 上游部门
   - 近义词
-    - adv. 逆流地；[水文]向上游
-      - `upwards`
+    - adv.
+      - 逆流地；[水文]向上游
+        - `upwards`
   - 短语
-    - `upstream slope` 上游坡；上游坡度 
-    - `upstream water` 上层带水 
-    - `upstream face` n. 上游面；入水面 
-    - `swimming upstream` 脱泳而出（电影名称） 
-    - `upstream side` 上游侧 
+    - `upstream slope`
+      - 上游坡；上游坡度 
+    - `upstream water`
+      - 上层带水 
+    - `upstream face`
+      - n. 上游面；入水面 
+    - `swimming upstream`
+      - 脱泳而出（电影名称） 
+    - `upstream side`
+      - 上游侧 
   - 例句
     - `Fish instinctively fight their way upstream against the current.`
       - 鱼本能地奋力逆流而上。

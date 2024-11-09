@@ -1,41 +1,61 @@
 - giant
   - 发音
-    - 英 `/'dʒaɪənt/`
-    - 美 `/'dʒaɪənt/`
+    - 英
+      - `/'dʒaɪənt/`
+    - 美
+      - `/'dʒaɪənt/`
   - 词义
-    - adj. 巨大的；超群的
-    - `extremely big, and much bigger than other things of the same type`
-    - n. 巨大的动物；才智超群的人
-    - `an extremely tall strong man, who is often bad and cruel, in children’s stories`
+    - adj.
+      - 巨大的；超群的
+        - `extremely big, and much bigger than other things of the same type`
+    - n.
+      - 巨大的动物；才智超群的人
+        - `an extremely tall strong man, who is often bad and cruel, in children’s stories`
   - 记忆
     - gi + ant(蚂蚁) → 蚂蚁虽小， 但团结起来力量却很大 → 巨大的
   - 同根词
     - n.
-      - `giantess` 女巨人
-      - `giantism` 巨大；[医] 巨大畸形
+      - `giantess`
+        - 女巨人
+      - `giantism`
+        - 巨大；[医] 巨大畸形
   - 近义词
-    - n. 巨人；伟人；[植][动]巨大的动物
-      - `Titan`
-      - `jotun`
-    - adj. [动]巨大的；巨人般的
-      - `huge`
-      - `tremendous`
-      - `enormous`
-      - `massive`
-      - `macro`
+    - n.
+      - 巨人；伟人；[植][动]巨大的动物
+        - `Titan`
+        - `jotun`
+    - adj.
+      - [动]巨大的；巨人般的
+        - `huge`
+        - `tremendous`
+        - `enormous`
+        - `massive`
+        - `macro`
   - 短语
-    - `giant panda` [动]大熊猫；大猫熊 
-    - `giant cell` 巨细胞；巨胞 
-    - `giant star` 巨星 
-    - `giant cell tumor` 骨巨细胞瘤 
-    - `giant buddha` 巨佛；天坛大佛 
-    - `giant salamander` 鲵；娃娃鱼 
-    - `giant slalom` 大回转（高山滑雪项目） 
-    - `red giant` n. [天]红巨星 
-    - `giant planet` 巨行星 
-    - `giant squid` [生]巨型乌贼；大王乌贼 
-    - `giant molecule` 巨分子 
-    - `sleeping giant` 沉睡的巨人（潜力还未充分发挥的大公司或组织） 
+    - `giant panda`
+      - [动]大熊猫；大猫熊 
+    - `giant cell`
+      - 巨细胞；巨胞 
+    - `giant star`
+      - 巨星 
+    - `giant cell tumor`
+      - 骨巨细胞瘤 
+    - `giant buddha`
+      - 巨佛；天坛大佛 
+    - `giant salamander`
+      - 鲵；娃娃鱼 
+    - `giant slalom`
+      - 大回转（高山滑雪项目） 
+    - `red giant`
+      - n. [天]红巨星 
+    - `giant planet`
+      - 巨行星 
+    - `giant squid`
+      - [生]巨型乌贼；大王乌贼 
+    - `giant molecule`
+      - 巨分子 
+    - `sleeping giant`
+      - 沉睡的巨人（潜力还未充分发挥的大公司或组织） 
   - 例句
     - `a giant electronics company`
       - 一家电子产品巨头

@@ -1,15 +1,19 @@
 - satiric
   - 发音
-    - 英 `/sə'tɪrɪk/`
-    - 美 `/sə'tɪrɪk/`
+    - 英
+      - `/sə'tɪrɪk/`
+    - 美
+      - `/sə'tɪrɪk/`
   - 词义
-    - adj. 讽刺的，嘲讽的
+    - adj.
+      - 讽刺的，嘲讽的
   - 记忆
     - 来自satire(n. 讽刺)
   - 近义词
-    - adj. 讽刺的；挖苦的
-      - `acid`
-      - `ironic`
+    - adj.
+      - 讽刺的；挖苦的
+        - `acid`
+        - `ironic`
   - 例句
     - `Among her early works is a satiric portrayal of the upper-middle class imagery of a woman working within the peach trees, or in a flower garden.`
       - 梁缨早期的作品当中的意境饱含对中产及以上阶级的讽刺与挖苦，例如描绘桃树下或花园中散步的女人。

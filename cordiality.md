@@ -1,21 +1,28 @@
 - cordiality
   - 发音
-    - 英 `/ˌkɔːr'dʒɪlətɪ/`
-    - 美 `/kɔr'dʒæləti/`
+    - 英
+      - `/ˌkɔːr'dʒɪlətɪ/`
+    - 美
+      - `/kɔr'dʒæləti/`
   - 词义
-    - n. 诚恳，热诚
-    - `warmth of feeling `
+    - n.
+      - 诚恳，热诚
+        - `warmth of feeling `
   - 同根词
     - adj.
-      - `cordial` 热忱的，诚恳的；兴奋的
+      - `cordial`
+        - 热忱的，诚恳的；兴奋的
     - adv.
-      - `cordially` 诚挚地，诚恳地；友善地
+      - `cordially`
+        - 诚挚地，诚恳地；友善地
     - n.
-      - `cordial` 补品；兴奋剂；甜香酒，甘露酒
+      - `cordial`
+        - 补品；兴奋剂；甜香酒，甘露酒
   - 近义词
-    - n. 热诚；真挚
-      - `good faith`
-      - `zeal`
+    - n.
+      - 热诚；真挚
+        - `good faith`
+        - `zeal`
   - 例句
     - `My hostess greeted me with unexpected cordiality.`
       - 我的女主人以出乎意外的热诚迎接我。

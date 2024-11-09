@@ -1,14 +1,20 @@
 - autarky
   - 发音
-    - 英 `/'ɔːtɑːki/`
-    - 美 `/'ɔtɑrki/`
+    - 英
+      - `/'ɔːtɑːki/`
+    - 美
+      - `/'ɔtɑrki/`
   - 词义
-    - n. 闭关自守；自给自足
-    - `(esp of a political unit) a system or policy of economic self-sufficiency aimed at removing the need for imports `
+    - n.
+      - 闭关自守；自给自足
+        - `(esp of a political unit) a system or policy of economic self-sufficiency aimed at removing the need for imports `
   - 同根词
     - adj.
-      - `autarkic` 经济独立的，自给自足的
-      - `autarkical` 经济独立的；自给自足的
+      - `autarkic`
+        - 经济独立的，自给自足的
+      - `autarkical`
+        - 经济独立的；自给自足的
   - 近义词
-    - n. [经]自给自足
-      - `self-sufficiency`
+    - n.
+      - [经]自给自足
+        - `self-sufficiency`

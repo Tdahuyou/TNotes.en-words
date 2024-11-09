@@ -1,13 +1,17 @@
 - unconsolidated
   - 发音
-    - 英 `/ˌʌnkən'sɑːlɪdeɪtɪd/`
-    - 美 `/undefined/`
+    - 英
+      - `/ˌʌnkən'sɑːlɪdeɪtɪd/`
+    - 美
+      - `/undefined/`
   - 词义
-    - adj. 松散的，疏松的
+    - adj.
+      - 松散的，疏松的
   - 近义词
-    - adj. 疏松的；松散的
-      - `puffed`
-      - `incompact`
+    - adj.
+      - 疏松的；松散的
+        - `puffed`
+        - `incompact`
   - 例句
     - `A series of defects exist in the cup circulation pack sand control tools and slip filling sand control tools currently used in Binnan unconsolidated sandstone reservoir.`
       - 针对滨南采油厂疏松砂岩出砂油藏所用皮碗式循环充填防砂工具和卡瓦式充填防砂工具存在的一系列弊端，研制应用了新型无卡瓦胶筒式循环充填工具。

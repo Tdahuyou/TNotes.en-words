@@ -1,14 +1,18 @@
 - forecourt
   - 发音
-    - 英 `/'fɔːkɔːt/`
-    - 美 `/undefined/`
+    - 英
+      - `/'fɔːkɔːt/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 前院；前场
-    - `a large open area in front of a building such as a garage or hotel`
+    - n.
+      - 前院；前场
+        - `a large open area in front of a building such as a garage or hotel`
   - 近义词
-    - n. 前院；前场
-      - `parvis`
-      - `frontcourt`
+    - n.
+      - 前院；前场
+        - `parvis`
+        - `frontcourt`
   - 例句
     - `The graveled forecourt in front of the manor was crowded with cars, and they weren't nun cars.`
       - 庄园前院挤满了高档轿车，而且它们肯定不可能时修女们能负担地的起的。

@@ -1,22 +1,29 @@
 - odoriferous
   - 发音
-    - 英 `/ˌəudə'rifərəs/`
-    - 美 `/,odə'rɪfərəs/`
+    - 英
+      - `/ˌəudə'rifərəs/`
+    - 美
+      - `/,odə'rɪfərəs/`
   - 词义
-    - adj. 有香气的
-    - `having or emitting an odour, esp a fragrant one `
+    - adj.
+      - 有香气的
+        - `having or emitting an odour, esp a fragrant one `
   - 记忆
     - odor (气味) + i + fer (带有) + ous → 带有香味的 → 有香气的
   - 同根词
     - adj.
-      - `odorless` 没有气味的
-      - `odorous` 香的；有气味的；难闻的
+      - `odorless`
+        - 没有气味的
+      - `odorous`
+        - 香的；有气味的；难闻的
     - n.
-      - `odor` 气味；名声
+      - `odor`
+        - 气味；名声
   - 近义词
-    - adj. 臭的，散发气味的；芬芳的
-      - `olid`
-      - `fetid`
+    - adj.
+      - 臭的，散发气味的；芬芳的
+        - `olid`
+        - `fetid`
   - 例句
     - `The odoriferous spices stimulated her jaded appetite.`
       - 香料的芬芳刺激她疲惫的胃口。

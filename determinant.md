@@ -1,45 +1,68 @@
 - determinant
   - 发音
-    - 英 `/dɪ'tɜːmɪnənt/`
-    - 美 `/dɪ'tɝmɪnənt/`
+    - 英
+      - `/dɪ'tɜːmɪnənt/`
+    - 美
+      - `/dɪ'tɝmɪnənt/`
   - 词义
-    - adj. 决定性的
-    - n. 决定因素
-    - `something that strongly influences what you do or how you behave`
+    - adj.
+      - 决定性的
+    - n.
+      - 决定因素
+        - `something that strongly influences what you do or how you behave`
   - 同根词
     - adj.
-      - `determined` 决定了的；坚决的
-      - `determinate` 确定的；决定的
-      - `determinable` 可决定的
-      - `determinative` 决定的；限定的
-      - `determinist` 决定论的
+      - `determined`
+        - 决定了的；坚决的
+      - `determinate`
+        - 确定的；决定的
+      - `determinable`
+        - 可决定的
+      - `determinative`
+        - 决定的；限定的
+      - `determinist`
+        - 决定论的
     - adv.
-      - `determinedly` 决然地；断然地
+      - `determinedly`
+        - 决然地；断然地
     - n.
-      - `determination` 决心；果断
-      - `determinism` [力] 决定论
-      - `determiner` [语] 限定词；决定因素
-      - `determinateness` 坚决；确定
-      - `determinative` 限定词；决定的事物
-      - `determinist` 决定论者
+      - `determination`
+        - 决心；果断
+      - `determinism`
+        - [力] 决定论
+      - `determiner`
+        - [语] 限定词；决定因素
+      - `determinateness`
+        - 坚决；确定
+      - `determinative`
+        - 限定词；决定的事物
+      - `determinist`
+        - 决定论者
     - v.
-      - `determined` 决定；断定（determine的过去分词）
+      - `determined`
+        - 决定；断定（determine的过去分词）
     - vi.
-      - `determine` 确定；决定；判决，终止
+      - `determine`
+        - 确定；决定；判决，终止
     - vt.
-      - `determine` 决定；判决；使…下定决心
-      - `determinate` 确定；弄清楚
+      - `determine`
+        - 决定；判决；使…下定决心
+      - `determinate`
+        - 确定；弄清楚
   - 近义词
-    - adj. 决定性的
-      - `crucial`
-      - `critical`
-      - `final`
-      - `decisive`
-      - `conclusive`
-    - n. 决定因素；[数]行列式
-      - `Determinants and Permanents`
+    - adj.
+      - 决定性的
+        - `crucial`
+        - `critical`
+        - `final`
+        - `decisive`
+        - `conclusive`
+    - n.
+      - 决定因素；[数]行列式
+        - `Determinants and Permanents`
   - 短语
-    - `determinant factor` 决定因素；[石油]行列式因子 
+    - `determinant factor`
+      - 决定因素；[石油]行列式因子 
   - 例句
     - `I used this to remember how to calculate the determinant of a matrix.`
       - 我就用过这个方法来记住怎么算矩阵中的决定因素。

@@ -1,18 +1,24 @@
 - obsequiousness
   - 发音
-    - 英 `/əb'siːkwiəsnəs/`
-    - 美 `/undefined/`
+    - 英
+      - `/əb'siːkwiəsnəs/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 谄媚
+    - n.
+      - 谄媚
   - 同根词
     - adj.
-      - `obsequious` 谄媚的；奉承的；顺从的
+      - `obsequious`
+        - 谄媚的；奉承的；顺从的
     - adv.
-      - `obsequiously` 谄媚地；奉承地
+      - `obsequiously`
+        - 谄媚地；奉承地
   - 近义词
-    - n. 谄媚；奉承
-      - `court`
-      - `sycophancy`
+    - n.
+      - 谄媚；奉承
+        - `court`
+        - `sycophancy`
   - 例句
     - `He was free from all sycophancy or obsequiousness in the face of the reactionary ruling class.`
       - 他在反动统治阶级面前没有丝毫的奴颜与媚骨。

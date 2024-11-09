@@ -1,10 +1,13 @@
 - thespian
   - 发音
-    - 英 `/'θespiən/`
-    - 美 `/'θɛspɪən/`
+    - 英
+      - `/'θespiən/`
+    - 美
+      - `/'θɛspɪən/`
   - 词义
-    - adj. 戏剧的
-    - `Thespian means relating to drama and the theatre`
+    - adj.
+      - 戏剧的
+        - `Thespian means relating to drama and the theatre`
   - 记忆
     - 来自古希腊悲剧创始者Thespis
   - 例句

@@ -1,16 +1,21 @@
 - unbelievable
   - 发音
-    - 英 `/ʌnbɪ'liːvəb(ə)l/`
-    - 美 `/,ʌnbɪ'livəbl/`
+    - 英
+      - `/ʌnbɪ'liːvəb(ə)l/`
+    - 美
+      - `/,ʌnbɪ'livəbl/`
   - 词义
-    - adj. 难以置信的
+    - adj.
+      - 难以置信的
   - 同根词
     - adv.
-      - `unbelievably` 难以置信地；不可信地
+      - `unbelievably`
+        - 难以置信地；不可信地
   - 近义词
-    - adj. 难以置信的；不可信的
-      - `incredible`
-      - `fabulous`
+    - adj.
+      - 难以置信的；不可信的
+        - `incredible`
+        - `fabulous`
   - 例句
     - `It is unbelievable, but I like that.`
       - 这很难以置信，但是我喜欢它。

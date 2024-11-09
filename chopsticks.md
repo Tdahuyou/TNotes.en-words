@@ -1,12 +1,15 @@
 - chopsticks
   - 发音
-    - 英 `/'tʃɒpstɪks/`
-    - 美 `/'tʃɑp,stɪks/`
+    - 英
+      - `/'tʃɒpstɪks/`
+    - 美
+      - `/'tʃɑp,stɪks/`
   - 词义
   - 记忆
     - chop(砍) +sticks(棍) →砍成两半的棍子→筷子
   - 短语
-    - `disposable chopsticks` 一次性筷子 
+    - `disposable chopsticks`
+      - 一次性筷子 
   - 例句
     - `We still lack a pair of chopsticks.`
       - 还少一双筷子。

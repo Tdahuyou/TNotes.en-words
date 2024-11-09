@@ -1,22 +1,30 @@
 - conglomerate
   - 发音
-    - 英 `/kən'glɒm(ə)rət/`
-    - 美 `/kən'ɡlɑːmərət/`
+    - 英
+      - `/kən'glɒm(ə)rət/`
+    - 美
+      - `/kən'ɡlɑːmərət/`
   - 词义
-    - v. 聚结
-    - n. 企业集团
-    - `a large business organization consisting of several different companies that have joined together`
+    - v.
+      - 聚结
+    - n.
+      - 企业集团
+        - `a large business organization consisting of several different companies that have joined together`
   - 同根词
     - n.
-      - `conglomeration` 聚集（物）；团块；凝聚；混合物
+      - `conglomeration`
+        - 聚集（物）；团块；凝聚；混合物
   - 近义词
-    - n. [岩]砾岩；企业集团；[动]聚合物
-      - `enterprise group`
-      - `keiretsu`
-    - adj. 成团的；砾岩性的
-      - `volumed`
+    - n.
+      - [岩]砾岩；企业集团；[动]聚合物
+        - `enterprise group`
+        - `keiretsu`
+    - adj.
+      - 成团的；砾岩性的
+        - `volumed`
   - 短语
-    - `conglomerate reservoir` 砾岩储集层 
+    - `conglomerate reservoir`
+      - 砾岩储集层 
   - 例句
     - `an international conglomerate`
       - 国际大型联合企业

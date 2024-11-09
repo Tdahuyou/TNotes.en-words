@@ -1,20 +1,27 @@
 - expertly
   - 发音
-    - 英 `/undefined/`
-    - 美 `/'ɛkspɚtli/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/'ɛkspɚtli/`
   - 词义
-    - adv. 熟练地
+    - adv.
+      - 熟练地
   - 同根词
     - adj.
-      - `expert` 熟练的；内行的；老练的
+      - `expert`
+        - 熟练的；内行的；老练的
     - n.
-      - `expert` 专家；行家；能手
+      - `expert`
+        - 专家；行家；能手
     - vt.
-      - `expert` 当专家；在…中当行家
+      - `expert`
+        - 当专家；在…中当行家
   - 近义词
-    - adv. 熟练地；巧妙地
-      - `skilfully`
-      - `adroitly`
+    - adv.
+      - 熟练地；巧妙地
+        - `skilfully`
+        - `adroitly`
   - 例句
     - `The nurse dressed the wound expertly.`
       - 护士熟练地敷药包扎了伤口。

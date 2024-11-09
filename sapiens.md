@@ -1,9 +1,12 @@
 - sapiens
   - 发音
-    - 英 `/'seɪpjənz/`
-    - 美 `/ˈsepiəns, -ɛnz/`
+    - 英
+      - `/'seɪpjənz/`
+    - 美
+      - `/ˈsepiəns, -ɛnz/`
   - 词义
-    - adj. （拉）现代人的
+    - adj.
+      - （拉）现代人的
   - 例句
     - `Homo sapiens are one of the most notable exceptions, leading some scientists to think fatherhood is an important part of what makes us human.`
       - 现代人是最值得注意的一个例外，致使一些科学家认为父道在培养孩子富有人情味方面起着重要作用。

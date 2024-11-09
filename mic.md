@@ -1,9 +1,12 @@
 - mic
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - abbr. 扩音器，麦克风
+    - abbr.
+      - 扩音器，麦克风
   - 例句
     - `I sat down in the dark hall with 600 other nervous kids and the lecturer booms out over the mic, “How do you get workers to work harder?`
       - 我和其他600个紧张的孩子坐在暗暗的大厅，演讲者透过麦克风发出低沉的声音：“如何使员工们工作更努力？”

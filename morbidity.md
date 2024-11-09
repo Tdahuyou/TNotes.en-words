@@ -1,23 +1,31 @@
 - morbidity
   - 发音
-    - 英 `/mɔː'bɪdətɪ/`
-    - 美 `/mɔr'bɪdəti/`
+    - 英
+      - `/mɔː'bɪdətɪ/`
+    - 美
+      - `/mɔr'bɪdəti/`
   - 词义
-    - n. 病态,不健全,发病率
-    - `the state of being morbid `
+    - n.
+      - 病态,不健全,发病率
+        - `the state of being morbid `
   - 同根词
     - adj.
-      - `morbid` 病态的；由病引起的；恐怖的；病变部位的
+      - `morbid`
+        - 病态的；由病引起的；恐怖的；病变部位的
     - adv.
-      - `morbidly` 病态地
+      - `morbidly`
+        - 病态地
     - n.
-      - `morbidness` 病态；不健全的状态
+      - `morbidness`
+        - 病态；不健全的状态
   - 近义词
-    - n. [医]发病率；病态；不健全
-      - `incidence of a disease`
-      - `incidence rate`
+    - n.
+      - [医]发病率；病态；不健全
+        - `incidence of a disease`
+        - `incidence rate`
   - 短语
-    - `morbidity rate` 患病率；发病率 
+    - `morbidity rate`
+      - 患病率；发病率 
   - 例句
     - `They do not need a third burden of high morbidity and mortality from crashes, accidents, injuries, and violence.`
       - 它们不需要因撞车、事故、伤害 和暴力造成高度发病率和死亡率的第三种负担。

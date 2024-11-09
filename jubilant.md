@@ -1,25 +1,35 @@
 - jubilant
   - 发音
-    - 英 `/'dʒuːbilənt/`
-    - 美 `/'dʒubɪlənt/`
+    - 英
+      - `/'dʒuːbilənt/`
+    - 美
+      - `/'dʒubɪlənt/`
   - 词义
-    - adj. 欢呼的
-    - `extremely happy and pleased because of a success`
+    - adj.
+      - 欢呼的
+        - `extremely happy and pleased because of a success`
   - 记忆
     - jubil (大叫) + ant → 高兴得大叫 → 欢呼的
   - 同根词
     - adv.
-      - `jubilantly` 欢欣地
+      - `jubilantly`
+        - 欢欣地
     - n.
-      - `jubilation` 喜欢；庆祝；欢呼
-      - `jubilance` 喜洋洋；欢呼
-      - `jubilancy` 喜气洋洋；欢呼
-      - `jubilate` 欢呼
+      - `jubilation`
+        - 喜欢；庆祝；欢呼
+      - `jubilance`
+        - 喜洋洋；欢呼
+      - `jubilancy`
+        - 喜气洋洋；欢呼
+      - `jubilate`
+        - 欢呼
     - vi.
-      - `jubilate` 欢喜；扬声欢呼
+      - `jubilate`
+        - 欢喜；扬声欢呼
   - 近义词
-    - adj. 欢呼的；喜洋洋的
-      - `acclamatory`
+    - adj.
+      - 欢呼的；喜洋洋的
+        - `acclamatory`
   - 例句
     - `Radicals were jubilant at getting rid of him.`
       - 激进分子因为除掉了他而欣喜若狂。

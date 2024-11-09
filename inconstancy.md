@@ -1,18 +1,23 @@
 - inconstancy
   - 发音
-    - 英 `/ɪn'kɑːnstənsi/`
-    - 美 `/undefined/`
+    - 英
+      - `/ɪn'kɑːnstənsi/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 反复无常
+    - n.
+      - 反复无常
   - 记忆
     - in(不) + constancy(恒久不变) → 反复无常
   - 同根词
     - adj.
-      - `inconstant` 变化无常的；易变的；多变的
+      - `inconstant`
+        - 变化无常的；易变的；多变的
   - 近义词
-    - n. 反复无常，易变；不定性
-      - `volatility`
-      - `caprice`
+    - n.
+      - 反复无常，易变；不定性
+        - `volatility`
+        - `caprice`
   - 例句
     - `The perfume of this passionate plant may turn a maiden's head, hence wild honeysuckle is a symbol of inconstancy in love.`
       - 充满激情的忍冬所散发的香气令少女却步回首，因此野生忍冬象征着爱情的反复无常。

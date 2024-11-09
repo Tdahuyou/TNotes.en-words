@@ -1,26 +1,33 @@
 - illustrious
   - 发音
-    - 英 `/i'lʌstriəs/`
-    - 美 `/ɪ'lʌstrɪəs/`
+    - 英
+      - `/i'lʌstriəs/`
+    - 美
+      - `/ɪ'lʌstrɪəs/`
   - 词义
-    - adj. 杰出的，著名的，光荣的；辉煌的，灿烂的
-    - `famous and admired because of what you have achieved`
+    - adj.
+      - 杰出的，著名的，光荣的；辉煌的，灿烂的
+        - `famous and admired because of what you have achieved`
   - 记忆
     - il (进入) + lustr (光泽) + ious → 进入到父辈的光泽中， 自己也有光彩 → 著名的； 辉煌的
   - 同根词
     - undefined.
-      - `illustriousness` 优秀
+      - `illustriousness`
+        - 优秀
     - adv.
-      - `illustriously` 有名地；优秀地
+      - `illustriously`
+        - 有名地；优秀地
     - n.
-      - `illustriousness` 有名
+      - `illustriousness`
+        - 有名
   - 近义词
-    - adj. 著名的，杰出的；辉煌的
-      - `famous`
-      - `noted`
-      - `excellent`
-      - `prominent`
-      - `brilliant`
+    - adj.
+      - 著名的，杰出的；辉煌的
+        - `famous`
+        - `noted`
+        - `excellent`
+        - `prominent`
+        - `brilliant`
   - 例句
     - `She has had an illustrious career.`
       - 她已经有了辉煌的事业。

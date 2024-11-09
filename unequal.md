@@ -1,17 +1,22 @@
 - unequal
   - 发音
-    - 英 `/ʌn'iːkwəl/`
-    - 美 `/ʌn'ikwəl/`
+    - 英
+      - `/ʌn'iːkwəl/`
+    - 美
+      - `/ʌn'ikwəl/`
   - 词义
-    - adj. 不同的，不相等的；不平等的，不相称的；不胜任的
-    - `used to describe a situation or a social system which is unfair because some groups or people have more power than others`
+    - adj.
+      - 不同的，不相等的；不平等的，不相称的；不胜任的
+        - `used to describe a situation or a social system which is unfair because some groups or people have more power than others`
   - 同根词
     - adv.
-      - `unequally` 不相等地；不均匀地；不公平地
+      - `unequally`
+        - 不相等地；不均匀地；不公平地
   - 近义词
-    - adj. [数]不平等的；不规则的；不胜任的
-      - `abnormal`
-      - `inequal`
+    - adj.
+      - [数]不平等的；不规则的；不胜任的
+        - `abnormal`
+        - `inequal`
   - 例句
     - `an unequal contest`
       - 不公平的竞赛

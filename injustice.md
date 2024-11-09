@@ -1,14 +1,18 @@
 - injustice
   - 发音
-    - 英 `/ɪn'dʒʌstɪs/`
-    - 美 `/ɪn'dʒʌstɪs/`
+    - 英
+      - `/ɪn'dʒʌstɪs/`
+    - 美
+      - `/ɪn'dʒʌstɪs/`
   - 词义
-    - n. 不公平，非正义
-    - `a situation in which people are treated very unfairly and not given their rights`
+    - n.
+      - 不公平，非正义
+        - `a situation in which people are treated very unfairly and not given their rights`
   - 近义词
-    - n. [法]不公正；不讲道义
-      - `wrong`
-      - `iniquity`
+    - n.
+      - [法]不公正；不讲道义
+        - `wrong`
+        - `iniquity`
   - 例句
     - `The movie deals with injustices suffered by Native Americans.`
       - 这部电影讲述印第安人受到的不公正待遇。

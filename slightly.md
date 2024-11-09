@@ -1,23 +1,32 @@
 - slightly
   - 发音
-    - 英 `/'slaɪtlɪ/`
-    - 美 `/'slaɪtli/`
+    - 英
+      - `/'slaɪtlɪ/`
+    - 美
+      - `/'slaɪtli/`
   - 词义
-    - adv. 稍稍；轻微地
-    - `Slightly means to some degree but not to a very large degree`
+    - adv.
+      - 稍稍；轻微地
+        - `Slightly means to some degree but not to a very large degree`
   - 记忆
     - slight(轻微的) + ly(…地) → 轻微地
   - 同根词
     - adj.
-      - `slight` 轻微的，少量的；脆弱的；细长的；不重要的
-      - `slighting` 轻视的；忽视的；轻蔑的
+      - `slight`
+        - 轻微的，少量的；脆弱的；细长的；不重要的
+      - `slighting`
+        - 轻视的；忽视的；轻蔑的
     - adv.
-      - `slightingly` 疏忽地；轻视地
+      - `slightingly`
+        - 疏忽地；轻视地
     - n.
-      - `slight` 怠慢；轻蔑
-      - `slightness` 细长；少许；些微
+      - `slight`
+        - 怠慢；轻蔑
+      - `slightness`
+        - 细长；少许；些微
     - vt.
-      - `slight` 轻视，忽略；怠慢
+      - `slight`
+        - 轻视，忽略；怠慢
   - 例句
     - `His family then moved to a slightly larger house.`
       - 他的家后来搬到了一间稍微大一点儿的房子。

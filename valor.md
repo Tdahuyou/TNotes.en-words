@@ -1,22 +1,29 @@
 - valor
   - 发音
-    - 英 `/'vælə/`
-    - 美 `/'vælə/`
+    - 英
+      - `/'vælə/`
+    - 美
+      - `/'vælə/`
   - 词义
-    - n. 英勇，勇猛
+    - n.
+      - 英勇，勇猛
   - 记忆
     - val (强壮的) + or → 勇武， 英勇
   - 同根词
     - adj.
-      - `valorous` 勇敢的；勇武的
+      - `valorous`
+        - 勇敢的；勇武的
     - adv.
-      - `valorously` 勇敢地；无畏地
+      - `valorously`
+        - 勇敢地；无畏地
     - n.
-      - `valour` 勇猛
+      - `valour`
+        - 勇猛
   - 近义词
-    - n. 英勇；勇猛（等于valour）
-      - `prowess`
-      - `heroism`
+    - n.
+      - 英勇；勇猛（等于valour）
+        - `prowess`
+        - `heroism`
   - 例句
     - `The troops showed great valor .`
       - 军队表现出极大的英勇。

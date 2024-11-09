@@ -1,17 +1,23 @@
 - lemonade
   - 发音
-    - 英 `/lemə'neɪd/`
-    - 美 `/,lɛmə'ned/`
+    - 英
+      - `/lemə'neɪd/`
+    - 美
+      - `/,lɛmə'ned/`
   - 词义
-    - n. 柠檬水
-    - `a sweet fizzy drink that tastes of lemons`
+    - n.
+      - 柠檬水
+        - `a sweet fizzy drink that tastes of lemons`
   - 同根词
     - adj.
-      - `lemonlike` 似柠檬的
-      - `lemony` 柠檬的
+      - `lemonlike`
+        - 似柠檬的
+      - `lemony`
+        - 柠檬的
   - 近义词
-    - n. 柠檬水
-      - `lemon squash`
+    - n.
+      - 柠檬水
+        - `lemon squash`
   - 例句
     - `a glass of lemonade`
       - 一杯柠檬汽水

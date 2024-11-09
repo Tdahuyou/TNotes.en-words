@@ -1,29 +1,40 @@
 - perish
   - 发音
-    - 英 `/'perɪʃ/`
-    - 美 `/'pɛrɪʃ/`
+    - 英
+      - `/'perɪʃ/`
+    - 美
+      - `/'pɛrɪʃ/`
   - 词义
-    - v. 灭亡；湮灭，毁灭；老化
-    - `to die, especially in a terrible or sudden way`
+    - v.
+      - 灭亡；湮灭，毁灭；老化
+        - `to die, especially in a terrible or sudden way`
   - 记忆
     - 珍惜(cherish)生命， 不应随意毁灭(perish)
   - 同根词
     - adj.
-      - `perishable` 易腐坏的；易毁灭的；会枯萎的
+      - `perishable`
+        - 易腐坏的；易毁灭的；会枯萎的
     - n.
-      - `perishable` 容易腐坏的东西
-      - `perishability` 非持久性；易腐性
-      - `perishableness` 腐败性；易朽性
-      - `perisher` 讨厌的人；死亡的东西；做事卤莽的人
+      - `perishable`
+        - 容易腐坏的东西
+      - `perishability`
+        - 非持久性；易腐性
+      - `perishableness`
+        - 腐败性；易朽性
+      - `perisher`
+        - 讨厌的人；死亡的东西；做事卤莽的人
   - 近义词
-    - vt. 使麻木；毁坏
-      - `destroy`
-      - `damage`
-    - vi. 死亡；毁灭；腐烂；枯萎
-      - `die`
-      - `flag`
+    - vt.
+      - 使麻木；毁坏
+        - `destroy`
+        - `damage`
+    - vi.
+      - 死亡；毁灭；腐烂；枯萎
+        - `die`
+        - `flag`
   - 短语
-    - `perish the thought` 打消念头 
+    - `perish the thought`
+      - 打消念头 
   - 例句
     - `Hundreds perished when the ship went down.`
       - 轮船沉没，数百人罹难。

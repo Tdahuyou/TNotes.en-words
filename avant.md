@@ -1,15 +1,20 @@
 - avant
   - 发音
-    - 英 `/ə'vɒnt/`
-    - 美 `/ə'vɑnt/`
+    - 英
+      - `/ə'vɒnt/`
+    - 美
+      - `/ə'vɑnt/`
   - 词义
-    - adj. 先锋的,激进的
+    - adj.
+      - 先锋的,激进的
   - 近义词
-    - adj. 激进的；先锋派的
-      - `radical`
-      - `underground`
-    - prep. 在…之前
-      - `before`
+    - adj.
+      - 激进的；先锋派的
+        - `radical`
+        - `underground`
+    - prep.
+      - 在…之前
+        - `before`
   - 例句
     - `The first Dada performances were put on by a group of avant-garde poets, writers and performances artists at Cabaret Voltaire.`
       - 第一个达达表演是由一群先锋派诗人、作家和表演艺术家们在伏尔泰夜总会上演的。

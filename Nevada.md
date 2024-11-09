@@ -1,11 +1,15 @@
 - Nevada
   - 发音
-    - 英 `/ni'vædə; -'vɑ:-/`
-    - 美 `/nə'vædə/`
+    - 英
+      - `/ni'vædə; -'vɑ:-/`
+    - 美
+      - `/nə'vædə/`
   - 词义
-    - n. 内华达州(美国西部内陆州)
+    - n.
+      - 内华达州(美国西部内陆州)
   - 短语
-    - `sierra nevada` n. 内华达山脉（位于美国加州） 
+    - `sierra nevada`
+      - n. 内华达山脉（位于美国加州） 
   - 例句
     - `If you did all that and come from a broken home in Nevada, so much the better.`
       - 如果你做到了以上所有这些并且来自内华达州的一个破裂家庭，那就更好了。

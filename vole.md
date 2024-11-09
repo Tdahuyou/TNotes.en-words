@@ -1,14 +1,18 @@
 - vole
   - 发音
-    - 英 `/vəʊl/`
-    - 美 `/vol/`
+    - 英
+      - `/vəʊl/`
+    - 美
+      - `/vol/`
   - 词义
-    - n. 田鼠
-    - `a small animal like a mouse with a short tail that lives in fields and woods and near rivers`
+    - n.
+      - 田鼠
+        - `a small animal like a mouse with a short tail that lives in fields and woods and near rivers`
   - 近义词
-    - n. 大满贯；野鼠
-      - `Slamvan`
-      - `grand slam`
+    - n.
+      - 大满贯；野鼠
+        - `Slamvan`
+        - `grand slam`
   - 例句
     - `And because of the oxytocin and vasopressin, they want to have sex with the same vole.`
       - 又因为催产素和垂体后叶加压素的作用，它们只想与同一田鼠做爱。

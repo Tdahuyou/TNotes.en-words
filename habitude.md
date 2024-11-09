@@ -1,29 +1,39 @@
 - habitude
   - 发音
-    - 英 `/'hæbitjuːd/`
-    - 美 `/undefined/`
+    - 英
+      - `/'hæbitjuːd/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 习俗
-    - `habit or tendency `
+    - n.
+      - 习俗
+        - `habit or tendency `
   - 同根词
     - adj.
-      - `habitual` 习惯的；惯常的；习以为常的
+      - `habitual`
+        - 习惯的；惯常的；习以为常的
     - adv.
-      - `habitually` 习惯地；日常地
+      - `habitually`
+        - 习惯地；日常地
     - n.
-      - `habituation` 习惯，熟习；[生理] 习惯化
-      - `habitus` 习惯；体质；状态
+      - `habituation`
+        - 习惯，熟习；[生理] 习惯化
+      - `habitus`
+        - 习惯；体质；状态
     - vi.
-      - `habituate` 上瘾
+      - `habituate`
+        - 上瘾
     - vt.
-      - `habituate` 使习惯于，使熟习于
+      - `habituate`
+        - 使习惯于，使熟习于
   - 近义词
-    - n. 习俗；习惯
-      - `manner`
-      - `institution`
-      - `convention`
-      - `custom`
-      - `way`
+    - n.
+      - 习俗；习惯
+        - `manner`
+        - `institution`
+        - `convention`
+        - `custom`
+        - `way`
   - 例句
     - `Chapter tuo analysed the cause of mongolian living habitude changed historical background and societal economy.`
       - 第二章为近代以来内蒙古东部地区蒙古人生活习俗发生变化的历史背景和社会经济原因。

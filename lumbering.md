@@ -1,25 +1,35 @@
 - lumbering
   - 发音
-    - 英 `/'lʌmb(ə)rɪŋ/`
-    - 美 `/undefined/`
+    - 英
+      - `/'lʌmb(ə)rɪŋ/`
+    - 美
+      - `/undefined/`
   - 词义
-    - adj. 笨拙的，动作迟缓的
+    - adj.
+      - 笨拙的，动作迟缓的
   - 记忆
     - 和timber(n. 木材)一起记
   - 同根词
     - n.
-      - `lumber` 木材；废物，无用的杂物；隆隆声
-      - `lumberjack` 伐木工人；木材商的佣工；短茄克衫
-      - `lumberman` 伐木工人；木材商
-      - `lumberyard` 木材堆置场；贮木场
+      - `lumber`
+        - 木材；废物，无用的杂物；隆隆声
+      - `lumberjack`
+        - 伐木工人；木材商的佣工；短茄克衫
+      - `lumberman`
+        - 伐木工人；木材商
+      - `lumberyard`
+        - 木材堆置场；贮木场
     - vi.
-      - `lumber` 伐木；喧闹地向前走；笨重地行动，缓慢地移动
+      - `lumber`
+        - 伐木；喧闹地向前走；笨重地行动，缓慢地移动
     - vt.
-      - `lumber` 砍伐木材；乱堆
+      - `lumber`
+        - 砍伐木材；乱堆
   - 近义词
-    - adj. 笨拙的；动作迟缓的
-      - `clumsy`
-      - `awkward`
+    - adj.
+      - 笨拙的；动作迟缓的
+        - `clumsy`
+        - `awkward`
   - 例句
     - `The lumbering, Luddite world of automobiles has a special attraction for Silicon Valley entrepreneurs.`
       - 笨拙守旧的汽车业一向对硅谷企业家们有着特殊的诱惑。

@@ -1,20 +1,27 @@
 - petrology
   - 发音
-    - 英 `/pɪ'trɒlədʒɪ/`
-    - 美 `/pə'trɑlədʒi/`
+    - 英
+      - `/pɪ'trɒlədʒɪ/`
+    - 美
+      - `/pə'trɑlədʒi/`
   - 词义
-    - n. [地]岩石学
-    - `the study of the composition, origin, structure, and formation of rocks `
+    - n.
+      - [地]岩石学
+        - `the study of the composition, origin, structure, and formation of rocks `
   - 同根词
     - adj.
-      - `petrous` 岩石的；岩石般的；坚硬的
+      - `petrous`
+        - 岩石的；岩石般的；坚硬的
   - 近义词
-    - n. [岩]岩石学
-      - `lithology`
-      - `geognosy`
+    - n.
+      - [岩]岩石学
+        - `lithology`
+        - `geognosy`
   - 短语
-    - `igneous petrology` 火成岩岩石学 
-    - `metamorphic petrology` 变质岩石学 
+    - `igneous petrology`
+      - 火成岩岩石学 
+    - `metamorphic petrology`
+      - 变质岩石学 
   - 例句
     - `Alkaline rocks from the Three Rivers region are characterized by unique geology, petrology and Petrochemistry.`
       - 三江地区的碱性岩有其独特的地质、岩石学与岩石化学特征；

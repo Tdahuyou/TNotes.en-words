@@ -1,19 +1,24 @@
 - firmament
   - 发音
-    - 英 `/'fɜːməm(ə)nt/`
-    - 美 `/'fɝməmənt/`
+    - 英
+      - `/'fɜːməm(ə)nt/`
+    - 美
+      - `/'fɝməmənt/`
   - 词义
-    - n. 天空,太空,苍天
-    - `the sky or heaven`
+    - n.
+      - 天空,太空,苍天
+        - `the sky or heaven`
   - 同根词
     - adj.
-      - `firmamental` 苍天的；天空的
+      - `firmamental`
+        - 苍天的；天空的
   - 近义词
-    - n. 天空；苍天
-      - `heaven`
-      - `sky`
-      - `air`
-      - `high`
+    - n.
+      - 天空；苍天
+        - `heaven`
+        - `sky`
+        - `air`
+        - `high`
   - 例句
     - `There are no stars in the firmament.`
       - 天空没有星星。

@@ -1,7 +1,9 @@
 - Nullarbor
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
   - 例句
     - `We needed it, for the last leg was the toughest of all: the Nullarbor Plain, which stretches across the south of the country.`

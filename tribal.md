@@ -1,24 +1,33 @@
 - tribal
   - 发音
-    - 英 `/'traɪbl/`
-    - 美 `/'traɪbl/`
+    - 英
+      - `/'traɪbl/`
+    - 美
+      - `/'traɪbl/`
   - 词义
-    - adj. 部落的，宗族的；种族的
-    - `relating to a tribe or tribes`
+    - adj.
+      - 部落的，宗族的；种族的
+        - `relating to a tribe or tribes`
   - 记忆
     - 来自tribe(n. 部落)
   - 同根词
     - n.
-      - `tribe` 部落；族；宗族；一伙
-      - `tribalism` 部落文化；部落制；部落制度
-      - `tribesman` 部落男子；部落成员
-      - `tribalization` 部落化
+      - `tribe`
+        - 部落；族；宗族；一伙
+      - `tribalism`
+        - 部落文化；部落制；部落制度
+      - `tribesman`
+        - 部落男子；部落成员
+      - `tribalization`
+        - 部落化
   - 近义词
-    - adj. 部落的；种族的
-      - `ethnic`
-      - `racial`
+    - adj.
+      - 部落的；种族的
+        - `ethnic`
+        - `racial`
   - 短语
-    - `tribal society` 部落社会 
+    - `tribal society`
+      - 部落社会 
   - 例句
     - `a tribal dance`
       - 部落舞蹈

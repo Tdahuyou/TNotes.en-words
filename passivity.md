@@ -1,18 +1,26 @@
 - passivity
   - 发音
-    - 英 `/pæ'sivəti/`
-    - 美 `/pæ'sɪvəti/`
+    - 英
+      - `/pæ'sivəti/`
+    - 美
+      - `/pæ'sɪvəti/`
   - 词义
-    - n. 被动
+    - n.
+      - 被动
   - 同根词
     - adj.
-      - `passive` 被动的，消极的；被动语态的
+      - `passive`
+        - 被动的，消极的；被动语态的
     - adv.
-      - `passively` 被动地；顺从地
+      - `passively`
+        - 被动地；顺从地
     - n.
-      - `passive` 被动语态
-      - `passiveness` 被动；顺从
-      - `passivism` 消极主义；被动性
+      - `passive`
+        - 被动语态
+      - `passiveness`
+        - 被动；顺从
+      - `passivism`
+        - 消极主义；被动性
   - 例句
     - `Such superiority or inferiority is the objective basis of initiative or passivity.`
       - 这种优势或劣势，是主动或被动的客观基矗。

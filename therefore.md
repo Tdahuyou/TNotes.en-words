@@ -1,22 +1,29 @@
 - therefore
   - 发音
-    - 英 `/'ðerfɔːr/`
-    - 美 `/'ðɛrfɔr/`
+    - 英
+      - `/'ðerfɔːr/`
+    - 美
+      - `/'ðɛrfɔr/`
   - 词义
-    - adv. 因此，从而
-    - `as a result of something that has just been mentioned`
-    - conj. 因此
+    - adv.
+      - 因此，从而
+        - `as a result of something that has just been mentioned`
+    - conj.
+      - 因此
   - 同根词
     - adv.
-      - `thereby` 从而，因此；在那附近；在那方面
-      - `therefor` 因此；所以
+      - `thereby`
+        - 从而，因此；在那附近；在那方面
+      - `therefor`
+        - 因此；所以
   - 近义词
-    - adv. 因此；所以
-      - `hence`
-      - `accordingly`
-      - `consequently`
-      - `thus`
-      - `as a result of`
+    - adv.
+      - 因此；所以
+        - `hence`
+        - `accordingly`
+        - `consequently`
+        - `thus`
+        - `as a result of`
   - 例句
     - `Their car was bigger and therefore more comfortable.`
       - 他们的车大些，所以更舒适些。

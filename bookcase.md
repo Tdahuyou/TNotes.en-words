@@ -1,16 +1,20 @@
 - bookcase
   - 发音
-    - 英 `/'bʊkkeɪs/`
-    - 美 `/'bʊkkes/`
+    - 英
+      - `/'bʊkkeɪs/`
+    - 美
+      - `/'bʊkkes/`
   - 词义
-    - n. 书架；书柜
-    - `a piece of furniture with shelves to hold books`
+    - n.
+      - 书架；书柜
+        - `a piece of furniture with shelves to hold books`
   - 记忆
     - book(书)+case(容器)→装书的容器→书柜， 书架
   - 近义词
-    - n. [家具]书柜，书架
-      - `book cabinet`
-      - `credenza`
+    - n.
+      - [家具]书柜，书架
+        - `book cabinet`
+        - `credenza`
   - 例句
     - `This bookcase has five shelves.`
       - 这书架有五格。

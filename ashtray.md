@@ -1,13 +1,17 @@
 - ashtray
   - 发音
-    - 英 `/'æʃtreɪ/`
-    - 美 `/'æʃtre/`
+    - 英
+      - `/'æʃtreɪ/`
+    - 美
+      - `/'æʃtre/`
   - 词义
-    - n. 烟灰缸
-    - `a small dish where you put used cigarettes`
+    - n.
+      - 烟灰缸
+        - `a small dish where you put used cigarettes`
   - 近义词
-    - n. 烟灰缸
-      - `tobacco jar`
+    - n.
+      - 烟灰缸
+        - `tobacco jar`
   - 例句
     - `I ground my cigarette into the ashtray.`
       - 我把香烟掐灭后扔入烟灰缸。

@@ -1,27 +1,42 @@
 - spiritedness
   - 发音
-    - 英 `/'spɪrɪtɪdnəs/`
-    - 美 `/undefined/`
+    - 英
+      - `/'spɪrɪtɪdnəs/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 有精神，活泼
+    - n.
+      - 有精神，活泼
   - 同根词
     - adj.
-      - `spiritual` 精神的，心灵的
-      - `spirited` 英勇的；生机勃勃的
+      - `spiritual`
+        - 精神的，心灵的
+      - `spirited`
+        - 英勇的；生机勃勃的
     - adv.
-      - `spiritedly` 活泼地；有精神地
+      - `spiritedly`
+        - 活泼地；有精神地
     - n.
-      - `spirit` 精神；心灵；情绪；志气；烈酒
-      - `spiritual` 圣歌（尤指美国南部黑人的）
-      - `spirituality` 灵性；精神性
-      - `spiritualisation` 精神化
-      - `spiritualization` 精神化；净化；神灵化
+      - `spirit`
+        - 精神；心灵；情绪；志气；烈酒
+      - `spiritual`
+        - 圣歌（尤指美国南部黑人的）
+      - `spirituality`
+        - 灵性；精神性
+      - `spiritualisation`
+        - 精神化
+      - `spiritualization`
+        - 精神化；净化；神灵化
     - v.
-      - `spirited` 鼓舞（spirit的过去分词）
-      - `spiritualise` 使成精神上
+      - `spirited`
+        - 鼓舞（spirit的过去分词）
+      - `spiritualise`
+        - 使成精神上
     - vt.
-      - `spirit` 鼓励；鼓舞；诱拐
+      - `spirit`
+        - 鼓励；鼓舞；诱拐
   - 近义词
-    - n. 有精神；活泼；勇敢
-      - `animation`
-      - `brightness`
+    - n.
+      - 有精神；活泼；勇敢
+        - `animation`
+        - `brightness`

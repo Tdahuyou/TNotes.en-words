@@ -1,19 +1,23 @@
 - evoke
   - 发音
-    - 英 `/ɪ'vouk/`
-    - 美 `/ɪ'vok/`
+    - 英
+      - `/ɪ'vouk/`
+    - 美
+      - `/ɪ'vok/`
   - 词义
-    - vt. 唤起，引起，激起
-    - `to produce a strong feeling or memory in someone`
+    - vt.
+      - 唤起，引起，激起
+        - `to produce a strong feeling or memory in someone`
   - 记忆
     - e(出) + vok(叫喊) + e → 喊出来 → 唤起， 引起， 激起
   - 近义词
-    - vt. 引起，唤起；博得
-      - `earn`
-      - `attract`
-      - `cause`
-      - `produce`
-      - `occasion`
+    - vt.
+      - 引起，唤起；博得
+        - `earn`
+        - `attract`
+        - `cause`
+        - `produce`
+        - `occasion`
   - 例句
     - `The photographs evoked strong memories of our holidays in France.`
       - 那些照片勾起了我们到法国度假的深刻回忆。

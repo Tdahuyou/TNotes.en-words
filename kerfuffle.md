@@ -1,20 +1,25 @@
 - kerfuffle
   - 发音
-    - 英 `/kə'fʌf(ə)l/`
-    - 美 `/kɚ'fʌfl/`
+    - 英
+      - `/kə'fʌf(ə)l/`
+    - 美
+      - `/kɚ'fʌfl/`
   - 词义
-    - n. 混乱,动乱
-    - `unnecessary noise and activity`
+    - n.
+      - 混乱,动乱
+        - `unnecessary noise and activity`
   - 近义词
-    - n. 混乱；动乱
-      - `disorder`
-      - `chaos`
-      - `confusion`
-      - `trouble`
-      - `turmoil`
-    - v. 使混乱；弄乱
-      - `make hay of`
-      - `ball up`
+    - n.
+      - 混乱；动乱
+        - `disorder`
+        - `chaos`
+        - `confusion`
+        - `trouble`
+        - `turmoil`
+    - v.
+      - 使混乱；弄乱
+        - `make hay of`
+        - `ball up`
   - 例句
     - `A minor diplomatic kerfuffle ensued as it turned out the cream was being illegally imported from Vietnam.`
       - 随后就引发一场小型外交动乱，因为美白乳是从越南非法进口的。

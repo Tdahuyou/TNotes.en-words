@@ -1,16 +1,20 @@
 - artefact
   - 发音
-    - 英 `/'ɑːtɪfækt/`
-    - 美 `/undefined/`
+    - 英
+      - `/'ɑːtɪfækt/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 人工制品，手工艺品
-    - `an object such as a tool, weapon etc that was made in the past and is historically important`
+    - n.
+      - 人工制品，手工艺品
+        - `an object such as a tool, weapon etc that was made in the past and is historically important`
   - 记忆
     - arte(技巧) + fact(制作) → 用技巧制作的东西 → 人工制品
   - 近义词
-    - n. 人工制品，加工品
-      - `artifact`
-      - `manmade`
+    - n.
+      - 人工制品，加工品
+        - `artifact`
+        - `manmade`
   - 例句
     - `ancient Egyptian artefacts`
       - 古埃及手工艺品

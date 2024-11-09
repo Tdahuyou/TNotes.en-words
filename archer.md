@@ -1,30 +1,44 @@
 - archer
   - 发音
-    - 英 `/'ɑːtʃə/`
-    - 美 `/'ɑrtʃɚ/`
+    - 英
+      - `/'ɑːtʃə/`
+    - 美
+      - `/'ɑrtʃɚ/`
   - 词义
-    - n. 弓箭手
-    - `someone who shoots  arrow s  from a  bow `
+    - n.
+      - 弓箭手
+        - `someone who shoots  arrow s  from a  bow `
   - 同根词
     - adj.
-      - `arch` 主要的
-      - `arched` 拱形的；有拱的；弓形结构的
-      - `arching` 形成拱的
+      - `arch`
+        - 主要的
+      - `arched`
+        - 拱形的；有拱的；弓形结构的
+      - `arching`
+        - 形成拱的
     - n.
-      - `arch` 弓形，拱形；拱门
-      - `archery` 箭术
-      - `arching` 弓状结构；拱架；拱作用
+      - `arch`
+        - 弓形，拱形；拱门
+      - `archery`
+        - 箭术
+      - `arching`
+        - 弓状结构；拱架；拱作用
     - v.
-      - `arched` 成弓形弯曲；成弓形（arch的过去分词形式）
-      - `arching` 成弓形弯曲；成弓形（arch的ing形式）
+      - `arched`
+        - 成弓形弯曲；成弓形（arch的过去分词形式）
+      - `arching`
+        - 成弓形弯曲；成弓形（arch的ing形式）
     - vi.
-      - `arch` 拱起；成为弓形
+      - `arch`
+        - 拱起；成为弓形
     - vt.
-      - `arch` 使…弯成弓形；用拱连接
+      - `arch`
+        - 使…弯成弓形；用拱连接
   - 近义词
-    - n. 弓箭手
-      - `bowman`
-      - `sagittary`
+    - n.
+      - 弓箭手
+        - `bowman`
+        - `sagittary`
   - 例句
     - `He's an archer, I think.`
       - 我觉得他是一个弓箭手。

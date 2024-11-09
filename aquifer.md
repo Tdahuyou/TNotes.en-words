@@ -1,18 +1,24 @@
 - aquifer
   - 发音
-    - 英 `/'ækwɪfər/`
-    - 美 `/'ækwɪfɚ/`
+    - 英
+      - `/'ækwɪfər/`
+    - 美
+      - `/'ækwɪfɚ/`
   - 词义
-    - n. 含水土层
-    - `In geology, an aquifer is an area of rock underneath the surface of the earth which absorbs and holds water`
+    - n.
+      - 含水土层
+        - `In geology, an aquifer is an area of rock underneath the surface of the earth which absorbs and holds water`
   - 记忆
     - aqui(=aqua水) + fer(带来) → 带来水的地方 → 含水土层
   - 同根词
     - adj.
-      - `aquiferous` 含水的；[地质] 蓄水的
+      - `aquiferous`
+        - 含水的；[地质] 蓄水的
   - 短语
-    - `confined aquifer` 承压含水层；被封含水层 
-    - `unconfined aquifer` 非承压含水层；不受压含水层；无压含水层 
+    - `confined aquifer`
+      - 承压含水层；被封含水层 
+    - `unconfined aquifer`
+      - 非承压含水层；不受压含水层；无压含水层 
   - 例句
     - `A long-term maintenance regime relies solely on natural methods to protect the watershed and aquifer.`
       - 而对于流域及蓄水层的长期性维护制度将仅依靠自然实现。

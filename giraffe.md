@@ -1,10 +1,13 @@
 - giraffe
   - 发音
-    - 英 `/dʒɪˈrɑ:f/`
-    - 美 `/dʒəˈræf; dʒəˈræf/`
+    - 英
+      - `/dʒɪˈrɑ:f/`
+    - 美
+      - `/dʒəˈræf; dʒəˈræf/`
   - 词义
-    - n. 长颈鹿
-    - `a tall African animal with a very long neck and legs and dark spots on its yellow-brown fur`
+    - n.
+      - 长颈鹿
+        - `a tall African animal with a very long neck and legs and dark spots on its yellow-brown fur`
   - 例句
     - `Can I get the mommy giraffe for Christmas?`
       - 我在圣诞节能得到一个长颈鹿妈妈吗？

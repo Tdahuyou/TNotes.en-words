@@ -1,9 +1,12 @@
 - Euphrates
   - 发音
-    - 英 `/ju:'freiti:z/`
-    - 美 `/undefined/`
+    - 英
+      - `/ju:'freiti:z/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 幼发拉底河
+    - n.
+      - 幼发拉底河
   - 例句
     - `These grew up in the world's great fertile river valleys, the Euphrates, the Tigris and the Indus, but I want to start with the most famous river of them all, the Nile.`
       - 最早期的城市与国家崛起于世界上伟大的肥沃河谷里，幼发拉底河、底格里斯河、印度河等等，然而我想从这所有河流中最著名的尼罗河开始。

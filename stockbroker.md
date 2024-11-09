@@ -1,27 +1,39 @@
 - stockbroker
   - 发音
-    - 英 `/'stɒkbrəʊkə/`
-    - 美 `/'stɑkbrokɚ/`
+    - 英
+      - `/'stɒkbrəʊkə/`
+    - 美
+      - `/'stɑkbrokɚ/`
   - 词义
-    - n. [金融]股票经纪人
-    - `a person or organization whose job is to buy and sell  shares  ,  bonds  etc for people`
+    - n.
+      - [金融]股票经纪人
+        - `a person or organization whose job is to buy and sell  shares  ,  bonds  etc for people`
   - 同根词
     - adj.
-      - `stock` 存货的，常备的；平凡的
-      - `stockholding` 持有股份的
+      - `stock`
+        - 存货的，常备的；平凡的
+      - `stockholding`
+        - 持有股份的
     - n.
-      - `stock` 股份，股票；库存；血统；树干
-      - `stockholder` 股东；股票持有人
-      - `stockholding` 持有的股票（或证券）
-      - `stockjobber` 证券公司；[金融] 股票经纪人；股票投机商
+      - `stock`
+        - 股份，股票；库存；血统；树干
+      - `stockholder`
+        - 股东；股票持有人
+      - `stockholding`
+        - 持有的股票（或证券）
+      - `stockjobber`
+        - 证券公司；[金融] 股票经纪人；股票投机商
     - vi.
-      - `stock` 囤积；办货；出新芽
+      - `stock`
+        - 囤积；办货；出新芽
     - vt.
-      - `stock` 进货；备有；装把手于…
+      - `stock`
+        - 进货；备有；装把手于…
   - 近义词
-    - n. [金融]股票经纪人
-      - `brokedealer`
-      - `sharebroker`
+    - n.
+      - [金融]股票经纪人
+        - `brokedealer`
+        - `sharebroker`
   - 例句
     - `Over the next five months, every one of them discouraged me from becoming a stockbroker.`
       - 接下来的五个月中，他们每个人都劝阻我不要做股票经纪人。

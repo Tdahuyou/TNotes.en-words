@@ -1,18 +1,23 @@
 - blatant
   - 发音
-    - 英 `/'bleitənt/`
-    - 美 `/'bleitənt/`
+    - 英
+      - `/'bleitənt/`
+    - 美
+      - `/'bleitənt/`
   - 词义
-    - adj. 明显的；明目张胆的；厚颜无耻的
+    - adj.
+      - 明显的；明目张胆的；厚颜无耻的
   - 记忆
     - blat (闲聊) + ant → 侃大山 → 厚颜无耻的
   - 同根词
     - adv.
-      - `blatantly` 公然地；喧闹地；看穿了地
+      - `blatantly`
+        - 公然地；喧闹地；看穿了地
   - 近义词
-    - adj. 喧嚣的；公然的；炫耀的；俗丽的
-      - `declared`
-      - `ambitious`
+    - adj.
+      - 喧嚣的；公然的；炫耀的；俗丽的
+        - `declared`
+        - `ambitious`
   - 例句
     - `blatant discrimination`
       - 公然的歧视

@@ -1,14 +1,18 @@
 - schoolroom
   - 发音
-    - 英 `/'skuːlruːm; -rʊm/`
-    - 美 `/'skulrum/`
+    - 英
+      - `/'skuːlruːm; -rʊm/`
+    - 美
+      - `/'skulrum/`
   - 词义
-    - n. 教室
-    - `a room used for teaching in a small school`
+    - n.
+      - 教室
+        - `a room used for teaching in a small school`
   - 近义词
-    - n. 教室；讲堂
-      - `classroom`
-      - `teaching room`
+    - n.
+      - 教室；讲堂
+        - `classroom`
+        - `teaching room`
   - 例句
     - `They seemed like so many little flags dotted about the schoolroom.`
       - 这些卡片就像无数面小旗点缀着教室。

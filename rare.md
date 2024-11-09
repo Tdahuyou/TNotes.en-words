@@ -1,60 +1,93 @@
 - rare
   - 发音
-    - 英 `/rer/`
-    - 美 `/rɛr/`
+    - 英
+      - `/rer/`
+    - 美
+      - `/rɛr/`
   - 词义
-    - adj. 稀有的，罕见的；半熟的
-    - `not seen or found very often, or not happening very often`
+    - adj.
+      - 稀有的，罕见的；半熟的
+        - `not seen or found very often, or not happening very often`
   - 记忆
     - 稀有的(rare)东西要小心(care)对待
   - 同根词
     - adj.
-      - `rarefied` 稀薄的；纯化的
-      - `rarified` 纯净的；稀薄的
-      - `raring` 渴望的；急切的
+      - `rarefied`
+        - 稀薄的；纯化的
+      - `rarified`
+        - 纯净的；稀薄的
+      - `raring`
+        - 渴望的；急切的
     - adv.
-      - `rarely` 很少地；难得；罕有地
+      - `rarely`
+        - 很少地；难得；罕有地
     - n.
-      - `rarefaction` [声] 稀疏；（气体）稀薄
-      - `rareness` 稀薄；稀罕；珍奇
+      - `rarefaction`
+        - [声] 稀疏；（气体）稀薄
+      - `rareness`
+        - 稀薄；稀罕；珍奇
     - v.
-      - `rarified` 使变稀薄（rarify的过去式）
-      - `raring` 渴望（rare的ing形式）；用后腿站起
+      - `rarified`
+        - 使变稀薄（rarify的过去式）
+      - `raring`
+        - 渴望（rare的ing形式）；用后腿站起
     - vi.
-      - `rarefy` 变稀薄；纯化
-      - `rarify` 变稀薄；纯化
+      - `rarefy`
+        - 变稀薄；纯化
+      - `rarify`
+        - 变稀薄；纯化
     - vt.
-      - `rarefy` 使纯化；变稀薄；精选
-      - `rarify` 使成精细；使变稀薄
+      - `rarefy`
+        - 使纯化；变稀薄；精选
+      - `rarify`
+        - 使成精细；使变稀薄
   - 近义词
-    - adj. 稀有的；半熟的；稀薄的
-      - `thin`
-      - `subtle`
-    - adv. 非常；极其
-      - `extremely`
-      - `badly`
-      - `highly`
-      - `greatly`
-      - `too`
-    - vi. 用后腿站起；渴望
-      - `aspire`
-      - `long for`
+    - adj.
+      - 稀有的；半熟的；稀薄的
+        - `thin`
+        - `subtle`
+    - adv.
+      - 非常；极其
+        - `extremely`
+        - `badly`
+        - `highly`
+        - `greatly`
+        - `too`
+    - vi.
+      - 用后腿站起；渴望
+        - `aspire`
+        - `long for`
   - 短语
-    - `rare earth` 稀土元素的氧化物 
-    - `rare and` [英国方言] 非常，极 
-    - `rare opportunity` 稀有机会，难得机会 
-    - `rare earth element` [化]稀土元素 
-    - `rare metal` 稀有金属 
-    - `rare earth metal` 稀土金属 
-    - `rare old` [口语]极度的，非常的 
-    - `rare animal` 稀有动物 
-    - `rare earth oxide` 稀土氧化物；氧化稀土 
-    - `rare book` 珍本书，善本 
-    - `rare plant` 稀有植物；珍奇植物 
-    - `rare bird` 珍品；稀有之人或物 
-    - `rare breed` 凤毛麟角；稀有品种 
-    - `rare gas` 稀有气体 
-    - `medium rare` 四分熟 
+    - `rare earth`
+      - 稀土元素的氧化物 
+    - `rare and`
+      - [英国方言] 非常，极 
+    - `rare opportunity`
+      - 稀有机会，难得机会 
+    - `rare earth element`
+      - [化]稀土元素 
+    - `rare metal`
+      - 稀有金属 
+    - `rare earth metal`
+      - 稀土金属 
+    - `rare old`
+      - [口语]极度的，非常的 
+    - `rare animal`
+      - 稀有动物 
+    - `rare earth oxide`
+      - 稀土氧化物；氧化稀土 
+    - `rare book`
+      - 珍本书，善本 
+    - `rare plant`
+      - 稀有植物；珍奇植物 
+    - `rare bird`
+      - 珍品；稀有之人或物 
+    - `rare breed`
+      - 凤毛麟角；稀有品种 
+    - `rare gas`
+      - 稀有气体 
+    - `medium rare`
+      - 四分熟 
   - 例句
     - `This species of plant is becoming increasingly rare.`
       - 这种植物越来越罕见。

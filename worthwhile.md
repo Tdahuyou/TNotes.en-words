@@ -1,16 +1,22 @@
 - worthwhile
   - 发音
-    - 英 `/wɜːθ'waɪl/`
-    - 美 `/'wɝθ'waɪl/`
+    - 英
+      - `/wɜːθ'waɪl/`
+    - 美
+      - `/'wɝθ'waɪl/`
   - 词义
-    - adj. 值得做的
-    - `if something is worthwhile, it is important or useful, or you gain something from it`
+    - adj.
+      - 值得做的
+        - `if something is worthwhile, it is important or useful, or you gain something from it`
   - 同根词
     - adj.
-      - `worthy` 值得的；有价值的；配得上的，相称的；可尊敬的；应…的
+      - `worthy`
+        - 值得的；有价值的；配得上的，相称的；可尊敬的；应…的
     - n.
-      - `worthy` 杰出人物；知名人士
-      - `worthiness` 值得；相当；有价值
+      - `worthy`
+        - 杰出人物；知名人士
+      - `worthiness`
+        - 值得；相当；有价值
   - 例句
     - `He wanted to do a worthwhile job.`
       - 他想做有意义的工作。

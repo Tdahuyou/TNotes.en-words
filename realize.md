@@ -1,38 +1,57 @@
 - realize
   - 发音
-    - 英 `/'riːəlaɪz/`
-    - 美 `/rɪəˌlaɪz/`
+    - 英
+      - `/'riːəlaɪz/`
+    - 美
+      - `/rɪəˌlaɪz/`
   - 词义
-    - v. 认识到,了解
-    - `to know and understand something, or suddenly begin to understand it`
+    - v.
+      - 认识到,了解
+        - `to know and understand something, or suddenly begin to understand it`
   - 同根词
     - adj.
-      - `real` 实际的；真实的；实在的
-      - `realized` 实现的；已实现
-      - `realizable` [数] 可实现的；可实行的；可感觉到的
+      - `real`
+        - 实际的；真实的；实在的
+      - `realized`
+        - 实现的；已实现
+      - `realizable`
+        - [数] 可实现的；可实行的；可感觉到的
     - adv.
-      - `really` 实际上，事实上；真正地，真实地；真的吗？（表语气）
-      - `real` 真正地；确实地
+      - `really`
+        - 实际上，事实上；真正地，真实地；真的吗？（表语气）
+      - `real`
+        - 真正地；确实地
     - n.
-      - `reality` 现实；实际；真实
-      - `real` 现实；实数
-      - `realization` 实现；领悟
-      - `realism` 现实主义；实在论；现实主义的态度和行为
-      - `realist` 现实主义者；实在论者
-      - `realness` 真诚；真实性
+      - `reality`
+        - 现实；实际；真实
+      - `real`
+        - 现实；实数
+      - `realization`
+        - 实现；领悟
+      - `realism`
+        - 现实主义；实在论；现实主义的态度和行为
+      - `realist`
+        - 现实主义者；实在论者
+      - `realness`
+        - 真诚；真实性
     - vt.
-      - `realized` 实现（realize的过去式及过去分词）
+      - `realized`
+        - 实现（realize的过去式及过去分词）
   - 近义词
-    - vt. 实现；认识到；了解；将某物卖得
-      - `come true`
-      - `accomplish`
-      - `carry out`
-      - `fulfill`
-      - `implement`
+    - vt.
+      - 实现；认识到；了解；将某物卖得
+        - `come true`
+        - `accomplish`
+        - `carry out`
+        - `fulfill`
+        - `implement`
   - 短语
-    - `realize the value` 实现价值 
-    - `come to realize` 认识到，开始意识到 
-    - `realize on` 变卖产业；变卖产业以得现款 
+    - `realize the value`
+      - 实现价值 
+    - `come to realize`
+      - 认识到，开始意识到 
+    - `realize on`
+      - 变卖产业；变卖产业以得现款 
   - 例句
     - `It took us a while to realize the extent of the tragedy.`
       - 我们过了一段时间才意识到这场悲剧有多严重。

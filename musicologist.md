@@ -1,21 +1,32 @@
 - musicologist
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 音乐学者
+    - n.
+      - 音乐学者
   - 同根词
     - adj.
-      - `musical` 音乐的；悦耳的
+      - `musical`
+        - 音乐的；悦耳的
     - adv.
-      - `musically` 音乐上地；声音好听地
+      - `musically`
+        - 音乐上地；声音好听地
     - n.
-      - `music` 音乐，乐曲
-      - `musical` 音乐片
-      - `musician` 音乐家
-      - `musicality` 音乐性；音感
-      - `musicianship` 音乐才能；音乐鉴赏力；音乐技巧
-      - `musicology` 音乐学；音乐理论
+      - `music`
+        - 音乐，乐曲
+      - `musical`
+        - 音乐片
+      - `musician`
+        - 音乐家
+      - `musicality`
+        - 音乐性；音感
+      - `musicianship`
+        - 音乐才能；音乐鉴赏力；音乐技巧
+      - `musicology`
+        - 音乐学；音乐理论
   - 例句
     - `Rakae Jamil, a musicologist with the Sanjan Nagar Institute of Philosophy and Arts in Lahore, says there is no doubt that Michael Jackson influenced the pop scene in Pakistan.`
       - 拉齐.贾米尔是拉合尔的桑贾恩.纳加尔哲学和艺术研究所的音乐理论家。 他说，迈克尔.杰克逊影响了巴基斯坦的流行歌坛，这点是毫无疑问的。

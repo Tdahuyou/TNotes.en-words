@@ -1,26 +1,39 @@
 - symbolically
   - 发音
-    - 英 `/sim'bɔlikəli/`
-    - 美 `/sim'bɔlikəli/`
+    - 英
+      - `/sim'bɔlikəli/`
+    - 美
+      - `/sim'bɔlikəli/`
   - 词义
-    - adv. 象征(性)地
+    - adv.
+      - 象征(性)地
   - 同根词
     - adj.
-      - `symbolic` 象征的；符号的；使用符号的
+      - `symbolic`
+        - 象征的；符号的；使用符号的
     - n.
-      - `symbol` 象征；符号；标志
-      - `symbolism` 象征，象征主义；符号论；记号
-      - `symbolization` 象征；符号表现；象征作用
-      - `symbology` 符号学，符号使用；象征学，象征的使用
-      - `symbolisation` 象征，记号表现（等于symbolization）
-      - `symbolist` 象征主义者；符号学者；记号使用者
+      - `symbol`
+        - 象征；符号；标志
+      - `symbolism`
+        - 象征，象征主义；符号论；记号
+      - `symbolization`
+        - 象征；符号表现；象征作用
+      - `symbology`
+        - 符号学，符号使用；象征学，象征的使用
+      - `symbolisation`
+        - 象征，记号表现（等于symbolization）
+      - `symbolist`
+        - 象征主义者；符号学者；记号使用者
     - vi.
-      - `symbolize` 采用象征；使用符号；作为…的象征
+      - `symbolize`
+        - 采用象征；使用符号；作为…的象征
     - vt.
-      - `symbolize` 象征；用符号表现
+      - `symbolize`
+        - 象征；用符号表现
   - 近义词
-    - adv. 象征性地；象征意义地
-      - `figuratively`
+    - adv.
+      - 象征性地；象征意义地
+        - `figuratively`
   - 例句
     - `Say I have an online resource that I want you to symbolically pay for.`
       - 比如，我有一个在线资源，希望您能象征性地为其付出代价。

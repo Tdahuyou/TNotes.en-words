@@ -1,27 +1,38 @@
 - emancipation
   - 发音
-    - 英 `/iˌmænsi'peiʃən/`
-    - 美 `/ɪ,mænsə'peʃən/`
+    - 英
+      - `/iˌmænsi'peiʃən/`
+    - 美
+      - `/ɪ,mænsə'peʃən/`
   - 词义
-    - n. 释放，解放
+    - n.
+      - 释放，解放
   - 同根词
     - adj.
-      - `emancipated` 被解放的
-      - `emancipative` 解放的；有助于解放的
+      - `emancipated`
+        - 被解放的
+      - `emancipative`
+        - 解放的；有助于解放的
     - n.
-      - `emancipationist` 解放主义者；解放论的人
-      - `emancipator` 释放者；解放者
+      - `emancipationist`
+        - 解放主义者；解放论的人
+      - `emancipator`
+        - 释放者；解放者
     - v.
-      - `emancipated` 解放；使…获得自由（emancipate的过去分词）
+      - `emancipated`
+        - 解放；使…获得自由（emancipate的过去分词）
     - vt.
-      - `emancipate` 解放；释放
+      - `emancipate`
+        - 解放；释放
   - 近义词
-    - n. 解放；释放
-      - `liberation`
-      - `release`
-      - `enfranchisement`
+    - n.
+      - 解放；释放
+        - `liberation`
+        - `release`
+        - `enfranchisement`
   - 短语
-    - `emancipation proclamation` 奴隶解放宣言 
+    - `emancipation proclamation`
+      - 奴隶解放宣言 
   - 例句
     - `We must arouse them to fight for their own emancipation.`
       - 我们必须唤起他们为其自身的解放而斗争。

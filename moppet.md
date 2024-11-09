@@ -1,14 +1,18 @@
 - moppet
   - 发音
-    - 英 `/'mɒpɪt/`
-    - 美 `/'mɑpɪt/`
+    - 英
+      - `/'mɒpɪt/`
+    - 美
+      - `/'mɑpɪt/`
   - 词义
-    - n. 小孩,娃娃,宝宝
-    - `a small child`
+    - n.
+      - 小孩,娃娃,宝宝
+        - `a small child`
   - 近义词
-    - n. 娃娃；小孩；宝宝
-      - `kid`
-      - `kiddie`
+    - n.
+      - 娃娃；小孩；宝宝
+        - `kid`
+        - `kiddie`
   - 例句
     - `This little blond moppet, gentle and kind and interested in the world.`
       - 这个金发的小娃娃，温顺而友好，对世界充满了兴趣。

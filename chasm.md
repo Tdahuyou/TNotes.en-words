@@ -1,17 +1,21 @@
 - chasm
   - 发音
-    - 英 `/'kæzəm/`
-    - 美 `/'kæzəm/`
+    - 英
+      - `/'kæzəm/`
+    - 美
+      - `/'kæzəm/`
   - 词义
-    - n. 深坑，裂口
-    - `a very deep space between two areas of rock or ice, especially one that is dangerous`
+    - n.
+      - 深坑，裂口
+        - `a very deep space between two areas of rock or ice, especially one that is dangerous`
   - 记忆
     - cha (音似： 茶) + sm → 峡谷产好茶 → 深坑， 裂口
   - 近义词
-    - n. 峡谷；裂口；分歧；深坑
-      - `canyon`
-      - `pit`
-      - `variance`
+    - n.
+      - 峡谷；裂口；分歧；深坑
+        - `canyon`
+        - `pit`
+        - `variance`
   - 例句
     - `a rope bridge across the chasm`
       - 峡谷上的索桥

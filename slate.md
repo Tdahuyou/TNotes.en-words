@@ -1,28 +1,41 @@
 - slate
   - 发音
-    - 英 `/sleɪt/`
-    - 美 `/slet/`
+    - 英
+      - `/sleɪt/`
+    - 美
+      - `/slet/`
   - 词义
-    - n. 板岩,石板
-    - `a dark grey rock that can easily be split into flat thin pieces`
+    - n.
+      - 板岩,石板
+        - `a dark grey rock that can easily be split into flat thin pieces`
   - 同根词
     - adj.
-      - `slaty` 石板色的；石板一样的；板岩的
+      - `slaty`
+        - 石板色的；石板一样的；板岩的
     - n.
-      - `slat` 板条；狭板
-      - `slater` 石板瓦工；等足类甲壳动物
-      - `slating` 石板瓦；叱责
+      - `slat`
+        - 板条；狭板
+      - `slater`
+        - 石板瓦工；等足类甲壳动物
+      - `slating`
+        - 石板瓦；叱责
     - vt.
-      - `slat` 用板条做或装备；用条板制造
+      - `slat`
+        - 用板条做或装备；用条板制造
   - 近义词
-    - n. [岩]板岩；[地质]石板；蓝色；石片
-      - `blue`
-      - `flagstone`
+    - n.
+      - [岩]板岩；[地质]石板；蓝色；石片
+        - `blue`
+        - `flagstone`
   - 短语
-    - `clean slate` n. 清白历史 
-    - `wipe the slate clean` 勾销往事 
-    - `on the slate` [英国口语]赊账，挂账 
-    - `clean the slate` v. 了结往事；免除义务 
+    - `clean slate`
+      - n. 清白历史 
+    - `wipe the slate clean`
+      - 勾销往事 
+    - `on the slate`
+      - [英国口语]赊账，挂账 
+    - `clean the slate`
+      - v. 了结往事；免除义务 
   - 例句
     - `There were several slates missing from the roof.`
       - 房顶有几块石板瓦掉了。

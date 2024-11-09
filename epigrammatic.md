@@ -1,16 +1,21 @@
 - epigrammatic
   - 发音
-    - 英 `/,epɪgrə'mætɪk/`
-    - 美 `/ɛpɪgrə'mætɪk/`
+    - 英
+      - `/,epɪgrə'mætɪk/`
+    - 美
+      - `/ɛpɪgrə'mætɪk/`
   - 词义
-    - adj. 警句的,讽刺的
+    - adj.
+      - 警句的,讽刺的
   - 同根词
     - n.
-      - `epigram` 警句；讽刺短诗；隽语
+      - `epigram`
+        - 警句；讽刺短诗；隽语
   - 近义词
-    - adj. 警句的；讽刺的
-      - `acid`
-      - `ironic`
+    - adj.
+      - 警句的；讽刺的
+        - `acid`
+        - `ironic`
   - 例句
     - `Even in his style there is something of a modern epigrammatic ring.`
       - 即使在他的风格中也可见几分现代警句的感觉。

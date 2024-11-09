@@ -1,16 +1,21 @@
 - effulgence
   - 发音
-    - 英 `/i'fʌldʒəns/`
-    - 美 `/undefined/`
+    - 英
+      - `/i'fʌldʒəns/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 光辉，灿烂
+    - n.
+      - 光辉，灿烂
   - 同根词
     - adj.
-      - `effulgent` 光辉灿烂的
+      - `effulgent`
+        - 光辉灿烂的
   - 近义词
-    - n. 灿烂；光辉
-      - `flame`
-      - `brilliance`
+    - n.
+      - 灿烂；光辉
+        - `flame`
+        - `brilliance`
   - 例句
     - `If the effulgence of a thousand suns simultaneously were to blaze forth in the firmament ;`
       - 假如天空中有一千个太阳同时放射光芒，或许才可以和至尊人格神宇宙形象的辉煌灿烂相媲美。

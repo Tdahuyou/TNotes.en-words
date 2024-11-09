@@ -1,29 +1,45 @@
 - poverty
   - 发音
-    - 英 `/'pɑːvərti/`
-    - 美 `/'pɑvɚti/`
+    - 英
+      - `/'pɑːvərti/`
+    - 美
+      - `/'pɑvɚti/`
   - 词义
-    - n. 贫穷，贫困
-    - `the situation or experience of being poor`
+    - n.
+      - 贫穷，贫困
+        - `the situation or experience of being poor`
   - 近义词
-    - n. 贫困；困难；缺少；低劣
-      - `difficulty`
-      - `shortage`
-      - `hardness`
-      - `want`
+    - n.
+      - 贫困；困难；缺少；低劣
+        - `difficulty`
+        - `shortage`
+        - `hardness`
+        - `want`
   - 短语
-    - `in poverty` 贫困；处于贫困当中 
-    - `poverty alleviation` 扶贫 
-    - `poverty line` 贫困线；贫穷线（指维持一般生活所需收入的最低标准） 
-    - `extreme poverty` 极端贫穷 
-    - `eliminate poverty` 消除贫困 
-    - `live in poverty` 过着贫穷的生活 
-    - `shake off poverty` 摆脱贫困，脱贫 
-    - `absolute poverty` 绝对贫困 
-    - `abject poverty` 赤贫 
-    - `poverty level` 贫困水平 
-    - `poverty trap` 贫困陷阱 
-    - `poverty gap` 贫富差距 
+    - `in poverty`
+      - 贫困；处于贫困当中 
+    - `poverty alleviation`
+      - 扶贫 
+    - `poverty line`
+      - 贫困线；贫穷线（指维持一般生活所需收入的最低标准） 
+    - `extreme poverty`
+      - 极端贫穷 
+    - `eliminate poverty`
+      - 消除贫困 
+    - `live in poverty`
+      - 过着贫穷的生活 
+    - `shake off poverty`
+      - 摆脱贫困，脱贫 
+    - `absolute poverty`
+      - 绝对贫困 
+    - `abject poverty`
+      - 赤贫 
+    - `poverty level`
+      - 贫困水平 
+    - `poverty trap`
+      - 贫困陷阱 
+    - `poverty gap`
+      - 贫富差距 
   - 例句
     - `Millions of elderly people live in poverty .`
       - 数百万老年人生活在贫困之中。

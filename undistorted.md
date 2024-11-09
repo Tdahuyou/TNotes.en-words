@@ -1,13 +1,17 @@
 - undistorted
   - 发音
-    - 英 `/ˌʌndɪ'stɔːrtɪd/`
-    - 美 `/undefined/`
+    - 英
+      - `/ˌʌndɪ'stɔːrtɪd/`
+    - 美
+      - `/undefined/`
   - 词义
-    - adj. 未失真的
+    - adj.
+      - 未失真的
   - 近义词
-    - adj. 未失真的；不偏激的；[电子]无畸变的
-      - `orthoscopic`
-      - `distortionless`
+    - adj.
+      - 未失真的；不偏激的；[电子]无畸变的
+        - `orthoscopic`
+        - `distortionless`
   - 例句
     - `But how do we know we have the true, undistorted picture of reality?`
       - 然而我们如何敢断定自己看到的现实景象是真切的、不失真的呢？

@@ -1,23 +1,32 @@
 - twelve
   - 发音
-    - 英 `/twelv/`
-    - 美 `/twɛlv/`
+    - 英
+      - `/twelv/`
+    - 美
+      - `/twɛlv/`
   - 词义
-    - num. 十二
-    - `the number 12`
+    - num.
+      - 十二
+        - `the number 12`
   - 同根词
     - adj.
-      - `twelfth` 第十二的，第十二个的；十二分之一的
+      - `twelfth`
+        - 第十二的，第十二个的；十二分之一的
     - n.
-      - `twelfth` 第十二；月的第十二日
+      - `twelfth`
+        - 第十二；月的第十二日
   - 近义词
-    - n. 十二；十二个
-      - `dozen`
-    - adj. 十二的；十二个的
-      - `duodenary`
+    - n.
+      - 十二；十二个
+        - `dozen`
+    - adj.
+      - 十二的；十二个的
+        - `duodenary`
   - 短语
-    - `strike twelve` 获得最大成就；达到最高目标；显出全副本领 
-    - `twelve apostles` 耶稣之十二信徒 
+    - `strike twelve`
+      - 获得最大成就；达到最高目标；显出全副本领 
+    - `twelve apostles`
+      - 耶稣之十二信徒 
   - 例句
     - `He received a twelve-month jail sentence.`
       - 他获刑12个月。

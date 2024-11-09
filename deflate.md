@@ -1,26 +1,36 @@
 - deflate
   - 发音
-    - 英 `/dɪ'fleɪt/`
-    - 美 `/dɪ'flet/`
+    - 英
+      - `/dɪ'fleɪt/`
+    - 美
+      - `/dɪ'flet/`
   - 词义
-    - v. 放气；使缩小；紧缩通货；打击；使泄气
-    - `if a tyre,  balloon  etc deflates, or if you deflate it, it gets smaller because the gas inside it comes out`
+    - v.
+      - 放气；使缩小；紧缩通货；打击；使泄气
+        - `if a tyre,  balloon  etc deflates, or if you deflate it, it gets smaller because the gas inside it comes out`
   - 同根词
     - adj.
-      - `deflated` 泄气的
-      - `deflationary` 通货紧缩的
+      - `deflated`
+        - 泄气的
+      - `deflationary`
+        - 通货紧缩的
     - n.
-      - `deflation` 通货紧缩；放气
-      - `deflator` 紧缩指数；平减物价指数；扣除通货膨胀因素的价格指数
+      - `deflation`
+        - 通货紧缩；放气
+      - `deflator`
+        - 紧缩指数；平减物价指数；扣除通货膨胀因素的价格指数
     - v.
-      - `deflated` 抽气；使泄气（deflate的过去式和过去分词）
+      - `deflated`
+        - 抽气；使泄气（deflate的过去式和过去分词）
   - 近义词
-    - vt. 放气；使缩小；紧缩通货；打击；使泄气
-      - `dong`
-      - `air escape`
-    - vi. 缩小；物价下降
-      - `reduce`
-      - `zoom out`
+    - vt.
+      - 放气；使缩小；紧缩通货；打击；使泄气
+        - `dong`
+        - `air escape`
+    - vi.
+      - 缩小；物价下降
+        - `reduce`
+        - `zoom out`
   - 例句
     - `She was deflated when Fen made no comment on her achievement.`
       - 芬对她的成就没作任何评论，她很泄气。

@@ -1,11 +1,15 @@
 - Indonesia
   - 发音
-    - 英 `/'indəu'ni:zjə,-ʒə/`
-    - 美 `/'indəu'ni:zjə,-ʒə/`
+    - 英
+      - `/'indəu'ni:zjə,-ʒə/`
+    - 美
+      - `/'indəu'ni:zjə,-ʒə/`
   - 词义
-    - n. 印尼(东南亚岛国)
+    - n.
+      - 印尼(东南亚岛国)
   - 短语
-    - `republic of indonesia` 印度尼西亚共和国 
+    - `republic of indonesia`
+      - 印度尼西亚共和国 
   - 例句
     - `We have the example of Aceh, Indonesia, to guide us.`
       - 我们可用印尼亚齐省这一范例指导我们的工作。

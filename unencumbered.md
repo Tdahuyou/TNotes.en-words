@@ -1,13 +1,17 @@
 - unencumbered
   - 发音
-    - 英 `/ˌʌnɪn'kʌmbərd/`
-    - 美 `/,ʌnɪn'kʌmbɚd/`
+    - 英
+      - `/ˌʌnɪn'kʌmbərd/`
+    - 美
+      - `/,ʌnɪn'kʌmbɚd/`
   - 词义
-    - adj. 无阻碍的
-    - `not burdened, impeded, or hampered `
+    - adj.
+      - 无阻碍的
+        - `not burdened, impeded, or hampered `
   - 近义词
-    - adj. 没有阻碍的；[经]没有负担的；不受妨碍的
-      - `unhindered`
+    - adj.
+      - 没有阻碍的；[经]没有负担的；不受妨碍的
+        - `unhindered`
   - 例句
     - `Why not travel alone , in single blessedness , unencumbered and swiftly pursuing one's goal?`
       - 为何不单独旅行，一个人， 无拘无束，快速的去追求自己的目标呢?。

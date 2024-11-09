@@ -1,19 +1,25 @@
 - aphasia
   - 发音
-    - 英 `/ə'feɪzɪə/`
-    - 美 `/ə'feʒɪə/`
+    - 英
+      - `/ə'feɪzɪə/`
+    - 美
+      - `/ə'feʒɪə/`
   - 词义
-    - n. 失语症
-    - `Aphasia is a mental condition in which people are often unable to remember simple words or communicate`
+    - n.
+      - 失语症
+        - `Aphasia is a mental condition in which people are often unable to remember simple words or communicate`
   - 同根词
     - adj.
-      - `aphasic` 失语症的，患失语症的
+      - `aphasic`
+        - 失语症的，患失语症的
     - n.
-      - `aphasic` 失语症患者
+      - `aphasic`
+        - 失语症患者
   - 近义词
-    - n. [内科]失语症（形容词aphasic）
-      - `alogia`
-      - `aphemia`
+    - n.
+      - [内科]失语症（形容词aphasic）
+        - `alogia`
+        - `aphemia`
   - 例句
     - `There are disorders of language like aphasia.`
       - 还有很多的语言障碍,诸如失语症

@@ -1,19 +1,25 @@
 - lunacy
   - 发音
-    - 英 `/'luːnəsɪ/`
-    - 美 `/'lunəsi/`
+    - 英
+      - `/'luːnəsɪ/`
+    - 美
+      - `/'lunəsi/`
   - 词义
-    - n. 精神失常；愚蠢的行为
-    - `mental illness`
+    - n.
+      - 精神失常；愚蠢的行为
+        - `mental illness`
   - 同根词
     - adj.
-      - `lunatic` 疯狂的；精神错乱的；愚蠢的
+      - `lunatic`
+        - 疯狂的；精神错乱的；愚蠢的
     - n.
-      - `lunatic` 疯子；疯人
+      - `lunatic`
+        - 疯子；疯人
   - 近义词
-    - n. 精神失常；愚蠢的行为
-      - `simple`
-      - `madness`
+    - n.
+      - 精神失常；愚蠢的行为
+        - `simple`
+        - `madness`
   - 例句
     - `It would be sheer lunacy to turn down a job offer like that.`
       - 拒绝那样的工作简直是发疯了。

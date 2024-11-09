@@ -1,23 +1,31 @@
 - choir
   - 发音
-    - 英 `/'kwaɪər/`
-    - 美 `/'kwaɪɚ/`
+    - 英
+      - `/'kwaɪər/`
+    - 美
+      - `/'kwaɪɚ/`
   - 词义
-    - vi. 合唱
-    - n. 唱诗班，合唱队
-    - `a group of people who sing together for other people to listen to`
+    - vi.
+      - 合唱
+    - n.
+      - 唱诗班，合唱队
+        - `a group of people who sing together for other people to listen to`
   - 记忆
     - 坐在椅子(chair)上合唱(choir)一首歌
   - 同根词
     - n.
-      - `choirmaster` 唱诗班指挥
+      - `choirmaster`
+        - 唱诗班指挥
   - 近义词
-    - n. 唱诗班；合唱队；舞蹈队
-      - `chorus`
-    - vt. 合唱
-      - `chorus`
-    - vi. 合唱
-      - `chorus`
+    - n.
+      - 唱诗班；合唱队；舞蹈队
+        - `chorus`
+    - vt.
+      - 合唱
+        - `chorus`
+    - vi.
+      - 合唱
+        - `chorus`
   - 例句
     - `The boy sings bass in the choir.`
       - 那男孩在合唱团里唱男低音。

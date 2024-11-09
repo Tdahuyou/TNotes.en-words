@@ -1,10 +1,13 @@
 - curfew
   - 发音
-    - 英 `/'kɜːfjuː/`
-    - 美 `/'kɝfju/`
+    - 英
+      - `/'kɜːfjuː/`
+    - 美
+      - `/'kɝfju/`
   - 词义
-    - n. 宵禁；宵禁令；晚钟；打晚钟时刻
-    - `a law that forces people to stay indoors after a particular time at night, or the time people must be indoors`
+    - n.
+      - 宵禁；宵禁令；晚钟；打晚钟时刻
+        - `a law that forces people to stay indoors after a particular time at night, or the time people must be indoors`
   - 例句
     - `The government imposed a night-time curfew throughout the country.`
       - 政府在全国实施宵禁。

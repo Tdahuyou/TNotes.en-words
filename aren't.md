@@ -1,7 +1,9 @@
 - aren't
   - 发音
-    - 英 `/ɑ:nt/`
-    - 美 `/ɑrnt/`
+    - 英
+      - `/ɑ:nt/`
+    - 美
+      - `/ɑrnt/`
   - 词义
   - 例句
     - `And that's the secret about cheap people: They aren't necessarily cheap on all fronts. Some spring for education or vacations, or they're generous with others if not with themselves.`

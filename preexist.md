@@ -1,14 +1,19 @@
 - preexist
   - 发音
-    - 英 `/'priːɪɡ'zɪst/`
-    - 美 `/priɪg'zɪst/`
+    - 英
+      - `/'priːɪɡ'zɪst/`
+    - 美
+      - `/priɪg'zɪst/`
   - 词义
-    - v. 先前存在
+    - v.
+      - 先前存在
   - 同根词
     - adj.
-      - `preexistent` 先在的；事先存在
+      - `preexistent`
+        - 先在的；事先存在
     - n.
-      - `preexistence` 前世；先存在；灵魂先存
+      - `preexistence`
+        - 前世；先存在；灵魂先存
   - 例句
     - `Often, the target is created when the consolidation pattern is first applied so that no access controls preexist and possibly need to be defined.`
       - 通常在首次应用整合模式时创建目标，这样不存在任何访问控制，所以可能需要对其进行定义。

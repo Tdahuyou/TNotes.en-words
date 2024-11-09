@@ -1,18 +1,26 @@
 - aliment
   - 发音
-    - 英 `/'ælimənt/`
-    - 美 `/'ælɪmɛnt/`
+    - 英
+      - `/'ælimənt/`
+    - 美
+      - `/'ælɪmɛnt/`
   - 词义
-    - n. 食物；养料
+    - n.
+      - 食物；养料
   - 同根词
     - adj.
-      - `alimentary` 滋养的；食物的
-      - `alimental` 食物的；富有养分的
-      - `alimentative` 富于营养的；补给的
+      - `alimentary`
+        - 滋养的；食物的
+      - `alimental`
+        - 食物的；富有养分的
+      - `alimentative`
+        - 富于营养的；补给的
     - n.
-      - `alimentation` 营养
+      - `alimentation`
+        - 营养
   - 近义词
-    - n. 滋养品；[食品]食物
-      - `food`
-      - `diet`
-      - `eating`
+    - n.
+      - 滋养品；[食品]食物
+        - `food`
+        - `diet`
+        - `eating`

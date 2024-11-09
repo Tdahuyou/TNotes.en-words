@@ -1,10 +1,13 @@
 - melatonin
   - 发音
-    - 英 `/ˌmelə'təunɪn/`
-    - 美 `/,mɛlə'tonɪn/`
+    - 英
+      - `/ˌmelə'təunɪn/`
+    - 美
+      - `/,mɛlə'tonɪn/`
   - 词义
-    - n. 褪黑激素
-    - `a  hormone  that is sometimes used as a drug to help you sleep`
+    - n.
+      - 褪黑激素
+        - `a  hormone  that is sometimes used as a drug to help you sleep`
   - 例句
     - `Sunlight can refrain the growth of melatonin in the body.`
       - 阳光能抑制身体中褪黑激素的生长。

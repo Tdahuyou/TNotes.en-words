@@ -1,27 +1,38 @@
 - anaesthetic
   - 发音
-    - 英 `/,ænɪs'θetɪk/`
-    - 美 `/,ænis'θetik/`
+    - 英
+      - `/,ænɪs'θetɪk/`
+    - 美
+      - `/,ænis'θetik/`
   - 词义
-    - adj. 麻醉的
-    - n. 麻醉剂；麻药
-    - `a drug that stops you feeling pain`
+    - adj.
+      - 麻醉的
+    - n.
+      - 麻醉剂；麻药
+        - `a drug that stops you feeling pain`
   - 同根词
     - n.
-      - `anaesthesia` 麻醉；麻木；感觉缺失（等于anesthesia）
-      - `anaesthetist` 麻醉师（等于anesthetist）
+      - `anaesthesia`
+        - 麻醉；麻木；感觉缺失（等于anesthesia）
+      - `anaesthetist`
+        - 麻醉师（等于anesthetist）
     - vt.
-      - `anaesthetise` 使麻醉
-      - `anaesthetize` 使麻醉；使麻木
+      - `anaesthetise`
+        - 使麻醉
+      - `anaesthetize`
+        - 使麻醉；使麻木
   - 近义词
-    - adj. 麻醉的
-      - `anesthetic`
-      - `narcotic`
-    - n. 麻醉剂；麻药
-      - `detoxicator`
-      - `hasheesh`
+    - adj.
+      - 麻醉的
+        - `anesthetic`
+        - `narcotic`
+    - n.
+      - 麻醉剂；麻药
+        - `detoxicator`
+        - `hasheesh`
   - 短语
-    - `local anaesthetic` n. 局部麻醉；局部麻醉剂；局麻药 
+    - `local anaesthetic`
+      - n. 局部麻醉；局部麻醉剂；局麻药 
   - 例句
     - `Wow, no anaesthetic?`
       - 哇，不用麻醉剂？

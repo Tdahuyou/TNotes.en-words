@@ -1,11 +1,15 @@
 - Calgary
   - 发音
-    - 英 `/'kælɡəri/`
-    - 美 `/'kælɡəri/`
+    - 英
+      - `/'kælɡəri/`
+    - 美
+      - `/'kælɡəri/`
   - 词义
-    - n. 卡尔加里（加拿大城市）
+    - n.
+      - 卡尔加里（加拿大城市）
   - 短语
-    - `university of calgary` 卡尔加里大学（位于加拿大） 
+    - `university of calgary`
+      - 卡尔加里大学（位于加拿大） 
   - 例句
     - `We also have a women working group in our Consulate General in Calgary. And the chair of the group, Ms. Yan, is just sitting over there.`
       - 驻卡尔加里总领馆也有一个妇女工作小组，严萍女士就是这个小组的组长，她也参加了今天的活动。

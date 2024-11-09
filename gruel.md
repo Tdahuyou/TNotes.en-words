@@ -1,21 +1,31 @@
 - gruel
   - 发音
-    - 英 `/'grʊəl/`
-    - 美 `/'ɡruəl/`
+    - 英
+      - `/'grʊəl/`
+    - 美
+      - `/'ɡruəl/`
   - 词义
-    - vt. 使极度疲劳；累垮
-    - n. 稀粥
-    - `a food made of  oats  cooked in water or milk, which poor people ate in the past`
+    - vt.
+      - 使极度疲劳；累垮
+    - n.
+      - 稀粥
+        - `a food made of  oats  cooked in water or milk, which poor people ate in the past`
   - 同根词
     - adj.
-      - `grueling` 累垮人的；折磨人的
-      - `gruelling` 折磨人的；繁重累人的；使人精疲力尽的
+      - `grueling`
+        - 累垮人的；折磨人的
+      - `gruelling`
+        - 折磨人的；繁重累人的；使人精疲力尽的
     - n.
-      - `grueling` 惩罚；劳累
-      - `gruelling` 惩罚；痛打
+      - `grueling`
+        - 惩罚；劳累
+      - `gruelling`
+        - 惩罚；痛打
     - v.
-      - `grueling` 使极度疲劳；累垮（gruel的ing形式）
-      - `gruelling` 累垮；惩罚（gruel的ing形式）
+      - `grueling`
+        - 使极度疲劳；累垮（gruel的ing形式）
+      - `gruelling`
+        - 累垮；惩罚（gruel的ing形式）
   - 例句
     - `This gruel is too thin.`
       - 粥太稀了。

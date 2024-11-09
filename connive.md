@@ -1,23 +1,30 @@
 - connive
   - 发音
-    - 英 `/kə'naɪv/`
-    - 美 `/kə'naɪv/`
+    - 英
+      - `/kə'naɪv/`
+    - 美
+      - `/kə'naɪv/`
   - 词义
-    - v. 默许；纵容；共谋
-    - `to not try to stop something wrong from happening`
+    - v.
+      - 默许；纵容；共谋
+        - `to not try to stop something wrong from happening`
   - 记忆
     - con + nive(眨眼睛) → 互相眨眼睛 → 共谋
   - 同根词
     - adj.
-      - `conniving` 纵容的；默许的
+      - `conniving`
+        - 纵容的；默许的
     - n.
-      - `connivance` 纵容；默许；假装不见
+      - `connivance`
+        - 纵容；默许；假装不见
     - v.
-      - `conniving` 纵容；默许；假装不见；共谋（connive的ing形式）
+      - `conniving`
+        - 纵容；默许；假装不见；共谋（connive的ing形式）
   - 近义词
-    - vi. 共谋；纵容；默许
-      - `conspire`
-      - `collude`
+    - vi.
+      - 共谋；纵容；默许
+        - `conspire`
+        - `collude`
   - 例句
     - `He accused them of conniving with foreign companies to weaken employment rights.`
       - 他指控他们与外国公司共谋来削弱雇用权。

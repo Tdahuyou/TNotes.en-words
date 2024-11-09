@@ -1,32 +1,45 @@
 - barbaric
   - 发音
-    - 英 `/bɑː'bærɪk/`
-    - 美 `/bɑr'bærɪk/`
+    - 英
+      - `/bɑː'bærɪk/`
+    - 美
+      - `/bɑr'bærɪk/`
   - 词义
-    - adj. 野蛮的，粗野的；原始的
-    - `very cruel and violent`
+    - adj.
+      - 野蛮的，粗野的；原始的
+        - `very cruel and violent`
   - 同根词
     - adj.
-      - `barbarian` 野蛮的；未开化的
-      - `barbarous` 野蛮的；残暴的
+      - `barbarian`
+        - 野蛮的；未开化的
+      - `barbarous`
+        - 野蛮的；残暴的
     - adv.
-      - `barbarously` 野蛮地；下流地
+      - `barbarously`
+        - 野蛮地；下流地
     - n.
-      - `barbarian` 野蛮人
-      - `barbarism` 野蛮；原始；未开化；暴虐
-      - `barbarity` 残暴；粗野
-      - `barbarization` 野蛮化；粗俗化
+      - `barbarian`
+        - 野蛮人
+      - `barbarism`
+        - 野蛮；原始；未开化；暴虐
+      - `barbarity`
+        - 残暴；粗野
+      - `barbarization`
+        - 野蛮化；粗俗化
     - vi.
-      - `barbarize` 野蛮；变粗野
+      - `barbarize`
+        - 野蛮；变粗野
     - vt.
-      - `barbarize` 使野蛮
+      - `barbarize`
+        - 使野蛮
   - 近义词
-    - adj. 野蛮的，粗野的；原始的
-      - `wild`
-      - `robust`
-      - `gross`
-      - `rough`
-      - `country`
+    - adj.
+      - 野蛮的，粗野的；原始的
+        - `wild`
+        - `robust`
+        - `gross`
+        - `rough`
+        - `country`
   - 例句
     - `The way the whales are killed is nothing short of barbaric.`
       - 对鲸的捕杀方式简直就是野蛮。

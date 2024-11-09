@@ -1,16 +1,22 @@
 - enormously
   - 发音
-    - 英 `/ɪ'nɔːməslɪ/`
-    - 美 `/ɪ'nɔrməsli/`
+    - 英
+      - `/ɪ'nɔːməslɪ/`
+    - 美
+      - `/ɪ'nɔrməsli/`
   - 词义
-    - adv. 极度,大量
+    - adv.
+      - 极度,大量
   - 同根词
     - adj.
-      - `enormous` 庞大的，巨大的；凶暴的，极恶的
+      - `enormous`
+        - 庞大的，巨大的；凶暴的，极恶的
     - n.
-      - `enormity` 巨大；暴行；极恶
+      - `enormity`
+        - 巨大；暴行；极恶
   - 近义词
-    - adv. 巨大地，庞大地；非常地，在极大程度上
-      - `hugely`
-      - `considerably`
-      - `remarkably`
+    - adv.
+      - 巨大地，庞大地；非常地，在极大程度上
+        - `hugely`
+        - `considerably`
+        - `remarkably`

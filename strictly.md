@@ -1,27 +1,36 @@
 - strictly
   - 发音
-    - 英 `/'strɪk(t)lɪ/`
-    - 美 `/'strɪktli/`
+    - 英
+      - `/'strɪk(t)lɪ/`
+    - 美
+      - `/'strɪktli/`
   - 词义
-    - adv. 严格地
-    - `in a way that must be obeyed`
+    - adv.
+      - 严格地
+        - `in a way that must be obeyed`
   - 同根词
     - adj.
-      - `strict` 严格的；绝对的；精确的；详细的
+      - `strict`
+        - 严格的；绝对的；精确的；详细的
     - n.
-      - `strictness` 严格；严密；严重
+      - `strictness`
+        - 严格；严密；严重
   - 近义词
-    - adv. 严格地；完全地；确实地
-      - `totally`
-      - `entirely`
-      - `completely`
-      - `absolutely`
-      - `thoroughly`
-      - `fully`
+    - adv.
+      - 严格地；完全地；确实地
+        - `totally`
+        - `entirely`
+        - `completely`
+        - `absolutely`
+        - `thoroughly`
+        - `fully`
   - 短语
-    - `strictly speaking` adv. 严格地说；严格来说 
-    - `strictly confidential` 绝密；极机密 
-    - `strictly prohibit` 严禁 
+    - `strictly speaking`
+      - adv. 严格地说；严格来说 
+    - `strictly confidential`
+      - 绝密；极机密 
+    - `strictly prohibit`
+      - 严禁 
   - 例句
     - `Alcohol is strictly forbidden on school premises.`
       - 校内严禁喝酒。

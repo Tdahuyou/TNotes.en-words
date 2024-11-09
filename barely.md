@@ -1,17 +1,21 @@
 - barely
   - 发音
-    - 英 `/'beəlɪ/`
-    - 美 `/'bɛrli/`
+    - 英
+      - `/'beəlɪ/`
+    - 美
+      - `/'bɛrli/`
   - 词义
-    - adv. 仅仅,几乎不能
-    - `almost not`
+    - adv.
+      - 仅仅,几乎不能
+        - `almost not`
   - 近义词
-    - adv. 仅仅，勉强；几乎不；公开地；贫乏地
-      - `merely`
-      - `simply`
-      - `just`
-      - `only`
-      - `but`
+    - adv.
+      - 仅仅，勉强；几乎不；公开地；贫乏地
+        - `merely`
+        - `simply`
+        - `just`
+        - `only`
+        - `but`
   - 例句
     - `She was barely aware of his presence.`
       - 她几乎没有注意到他的存在。

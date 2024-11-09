@@ -1,27 +1,35 @@
 - bridle
   - 发音
-    - 英 `/'braidl/`
-    - 美 `/'braɪdl/`
+    - 英
+      - `/'braidl/`
+    - 美
+      - `/'braɪdl/`
   - 词义
-    - v. 上笼头；昂首；抑制
-    - `to put a bridle on a horse`
-    - n. 马勒，缰绳
-    - `a set of leather bands put around a horse’s head and used to control its movements`
+    - v.
+      - 上笼头；昂首；抑制
+        - `to put a bridle on a horse`
+    - n.
+      - 马勒，缰绳
+        - `a set of leather bands put around a horse’s head and used to control its movements`
   - 近义词
-    - n. 缰绳；马勒；系带；约束物
-      - `trace`
-      - `haltere`
-    - vt. 控制；给装马勒
-      - `possess`
-      - `contain`
-      - `regulate`
-      - `bit`
-      - `bottle`
-    - vi. 昂首表示轻蔑；生气
-      - `pet`
-      - `take offense`
+    - n.
+      - 缰绳；马勒；系带；约束物
+        - `trace`
+        - `haltere`
+    - vt.
+      - 控制；给装马勒
+        - `possess`
+        - `contain`
+        - `regulate`
+        - `bit`
+        - `bottle`
+    - vi.
+      - 昂首表示轻蔑；生气
+        - `pet`
+        - `take offense`
   - 短语
-    - `put a bridle on` 约束，控制 
+    - `put a bridle on`
+      - 约束，控制 
   - 例句
     - `The metal mouthpiece of a bridle, serving to control, curb, and direct an animal.`
       - 马勒， 嚼子放在嘴里的金属制马勒，用于控制约束和驾御牲畜。

@@ -1,14 +1,18 @@
 - protons
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. [物]质子；氢核（proton的复数）
-    - `A proton is an atomic particle that has a positive electrical charge`
+    - n.
+      - [物]质子；氢核（proton的复数）
+        - `A proton is an atomic particle that has a positive electrical charge`
   - 记忆
     - proto(原始) + n → 原始的东西 → 质子
   - 短语
-    - `proton pump` 质子泵 
+    - `proton pump`
+      - 质子泵 
   - 例句
     - `We cannot do anything about protons, they are buried in the nucleus, but we can add or subtract electrons.`
       - 我们不能改变质子，它们埋藏在原子核内，但是我们能够增加或减少电子。

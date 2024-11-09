@@ -1,34 +1,49 @@
 - obstruction
   - 发音
-    - 英 `/əb'strʌkʃ(ə)n/`
-    - 美 `/əb'strʌkʃən, ɔb-/`
+    - 英
+      - `/əb'strʌkʃ(ə)n/`
+    - 美
+      - `/əb'strʌkʃən, ɔb-/`
   - 词义
-    - n. 阻塞,妨碍
-    - `when something blocks a road, passage, tube etc, or the thing that blocks it`
+    - n.
+      - 阻塞,妨碍
+        - `when something blocks a road, passage, tube etc, or the thing that blocks it`
   - 同根词
     - adj.
-      - `obstructive` 阻碍的；妨碍的
-      - `obstructionist` 阻挠议事的；蓄意阻挠的
+      - `obstructive`
+        - 阻碍的；妨碍的
+      - `obstructionist`
+        - 阻挠议事的；蓄意阻挠的
     - n.
-      - `obstructive` 妨碍物；障碍物
-      - `obstructionist` 妨碍者；蓄意阻挠者
-      - `obstructer` 障碍物；妨碍者
-      - `obstructionism` 蓄意阻挠
-      - `obstructor` 阻碍者；阻碍物
+      - `obstructive`
+        - 妨碍物；障碍物
+      - `obstructionist`
+        - 妨碍者；蓄意阻挠者
+      - `obstructer`
+        - 障碍物；妨碍者
+      - `obstructionism`
+        - 蓄意阻挠
+      - `obstructor`
+        - 阻碍者；阻碍物
     - vi.
-      - `obstruct` 阻塞；设障碍
+      - `obstruct`
+        - 阻塞；设障碍
     - vt.
-      - `obstruct` 妨碍；阻塞；遮断
+      - `obstruct`
+        - 妨碍；阻塞；遮断
   - 近义词
-    - n. 障碍；[化学]阻碍；妨碍
-      - `intervention`
-      - `prevention`
-      - `let`
-      - `bar`
-      - `dam`
+    - n.
+      - 障碍；[化学]阻碍；妨碍
+        - `intervention`
+        - `prevention`
+        - `let`
+        - `bar`
+        - `dam`
   - 短语
-    - `intestinal obstruction` 肠梗阻 
-    - `obstruction of justice` 妨碍司法公正；阻碍司法 
+    - `intestinal obstruction`
+      - 肠梗阻 
+    - `obstruction of justice`
+      - 妨碍司法公正；阻碍司法 
   - 例句
     - `an operation to remove an obstruction from her throat`
       - 去除她喉咙里阻塞物的手术

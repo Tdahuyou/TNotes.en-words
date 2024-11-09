@@ -1,23 +1,32 @@
 - lantern
   - 发音
-    - 英 `/'læntən/`
-    - 美 `/'læntɚn/`
+    - 英
+      - `/'læntən/`
+    - 美
+      - `/'læntɚn/`
   - 词义
-    - n. 灯笼
-    - `a lamp that you can carry, consisting of a metal container with glass sides that surrounds a flame or light`
+    - n.
+      - 灯笼
+        - `a lamp that you can carry, consisting of a metal container with glass sides that surrounds a flame or light`
   - 记忆
     - Lantern Festival 元宵节
   - 同根词
     - n.
-      - `lanternfish` 发光的鱼，灯笼鱼
+      - `lanternfish`
+        - 发光的鱼，灯笼鱼
   - 近义词
-    - n. 灯笼；提灯；灯笼式天窗
-      - `scaldfish`
+    - n.
+      - 灯笼；提灯；灯笼式天窗
+        - `scaldfish`
   - 短语
-    - `lantern festival` 元宵节，灯节 
-    - `chinese lantern` 可以折叠起来的灯笼 
-    - `palace lantern` 宫灯 
-    - `lantern show` 灯展 
+    - `lantern festival`
+      - 元宵节，灯节 
+    - `chinese lantern`
+      - 可以折叠起来的灯笼 
+    - `palace lantern`
+      - 宫灯 
+    - `lantern show`
+      - 灯展 
   - 例句
     - `Light the lantern, take it and go down stairs.`
       - 你把这灯笼点起来，带着它下楼去。

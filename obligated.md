@@ -1,31 +1,45 @@
 - obligated
   - 发音
-    - 英 `/'ɑːblɪgeɪtɪd/`
-    - 美 `/'ɑblɪɡetɪd/`
+    - 英
+      - `/'ɑːblɪgeɪtɪd/`
+    - 美
+      - `/'ɑblɪɡetɪd/`
   - 词义
-    - adj. 有义务的，有责任的
-    - `If you feel obligated to do something, you feel that it is your duty to do it. If you are obligated to someone, you feel that it is your duty to take care of them. `
+    - adj.
+      - 有义务的，有责任的
+        - `If you feel obligated to do something, you feel that it is your duty to do it. If you are obligated to someone, you feel that it is your duty to take care of them. `
   - 同根词
     - adj.
-      - `obliged` 必须的；感激的；有责任的
-      - `obligatory` 义务的；必须的；义不容辞的
-      - `obligate` 有责任的，有义务的；必需的
-      - `obliging` 乐于助人的；有礼貌的；体贴的；亲切的
+      - `obliged`
+        - 必须的；感激的；有责任的
+      - `obligatory`
+        - 义务的；必须的；义不容辞的
+      - `obligate`
+        - 有责任的，有义务的；必需的
+      - `obliging`
+        - 乐于助人的；有礼貌的；体贴的；亲切的
     - n.
-      - `obligation` 义务；职责；债务
+      - `obligation`
+        - 义务；职责；债务
     - v.
-      - `obliged` 要求；约束；施恩惠（oblige的过去分词）
-      - `obliging` 迫使；约束（oblige的现在分词）
+      - `obliged`
+        - 要求；约束；施恩惠（oblige的过去分词）
+      - `obliging`
+        - 迫使；约束（oblige的现在分词）
     - vi.
-      - `oblige` 帮忙；施恩惠
+      - `oblige`
+        - 帮忙；施恩惠
     - vt.
-      - `oblige` 迫使；强制；赐，施恩惠；责成
-      - `obligate` 使负义务；强使，强迫；对…施以恩惠
+      - `oblige`
+        - 迫使；强制；赐，施恩惠；责成
+      - `obligate`
+        - 使负义务；强使，强迫；对…施以恩惠
   - 近义词
-    - adj. 有义务的；责无旁贷的
-      - `bound`
-      - `liable`
-      - `indispensable`
+    - adj.
+      - 有义务的；责无旁贷的
+        - `bound`
+        - `liable`
+        - `indispensable`
   - 例句
     - `I felt obligated to let him read the letter.`
       - 我觉得有责任让他读到这封信。

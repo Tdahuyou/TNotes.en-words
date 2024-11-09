@@ -1,25 +1,34 @@
 - bravery
   - 发音
-    - 英 `/'breɪv(ə)rɪ/`
-    - 美 `/'brevəri/`
+    - 英
+      - `/'breɪv(ə)rɪ/`
+    - 美
+      - `/'brevəri/`
   - 词义
-    - n. 勇敢
-    - `actions, behaviour, or an attitude that shows courage and confidence`
+    - n.
+      - 勇敢
+        - `actions, behaviour, or an attitude that shows courage and confidence`
   - 同根词
     - adj.
-      - `brave` 勇敢的；华丽的
+      - `brave`
+        - 勇敢的；华丽的
     - adv.
-      - `bravely` 勇敢地；华丽地
+      - `bravely`
+        - 勇敢地；华丽地
     - n.
-      - `brave` 勇士
-      - `braveness` 勇敢；华饰
+      - `brave`
+        - 勇士
+      - `braveness`
+        - 勇敢；华饰
     - vt.
-      - `brave` 勇敢地面对
+      - `brave`
+        - 勇敢地面对
   - 近义词
-    - n. 勇敢；勇气
-      - `courage`
-      - `nerve`
-      - `heart`
+    - n.
+      - 勇敢；勇气
+        - `courage`
+        - `nerve`
+        - `heart`
   - 例句
     - `an act of great bravery`
       - 非常勇敢的行为

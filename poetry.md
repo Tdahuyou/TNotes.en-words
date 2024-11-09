@@ -1,34 +1,49 @@
 - poetry
   - 发音
-    - 英 `/'pouətri/`
-    - 美 `/'poətri/`
+    - 英
+      - `/'pouətri/`
+    - 美
+      - `/'poətri/`
   - 词义
-    - n. 诗歌；诗集；诗意
-    - `poems in general, or the art of writing them`
+    - n.
+      - 诗歌；诗集；诗意
+        - `poems in general, or the art of writing them`
   - 记忆
     - 来自poet(n. 诗人)
   - 同根词
     - adj.
-      - `poetic` 诗的，诗歌的；诗意的；诗人的
+      - `poetic`
+        - 诗的，诗歌的；诗意的；诗人的
     - adv.
-      - `poetically` 用韵文；有诗意地
+      - `poetically`
+        - 用韵文；有诗意地
     - n.
-      - `poetic` 诗学，诗论
-      - `poetics` 诗学；诗论；诗情
+      - `poetic`
+        - 诗学，诗论
+      - `poetics`
+        - 诗学；诗论；诗情
     - vi.
-      - `poetize` 作诗
+      - `poetize`
+        - 作诗
     - vt.
-      - `poetize` 作诗；有诗意地描写
+      - `poetize`
+        - 作诗；有诗意地描写
   - 近义词
-    - n. 诗；诗意，诗情；诗歌艺术
-      - `poem`
-      - `verse`
+    - n.
+      - 诗；诗意，诗情；诗歌艺术
+        - `poem`
+        - `verse`
   - 短语
-    - `poetry creation` 诗歌文本 
-    - `lyric poetry` 抒情诗 
-    - `epic poetry` 史诗 
-    - `poetry reading` 诗歌朗诵 
-    - `misty poetry` 朦胧诗 
+    - `poetry creation`
+      - 诗歌文本 
+    - `lyric poetry`
+      - 抒情诗 
+    - `epic poetry`
+      - 史诗 
+    - `poetry reading`
+      - 诗歌朗诵 
+    - `misty poetry`
+      - 朦胧诗 
   - 例句
     - `He reads a lot of poetry.`
       - 他大量阅读诗歌。

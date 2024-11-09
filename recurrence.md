@@ -1,35 +1,50 @@
 - recurrence
   - 发音
-    - 英 `/rɪ'kʌrəns/`
-    - 美 `/rɪ'kɝəns/`
+    - 英
+      - `/rɪ'kʌrəns/`
+    - 美
+      - `/rɪ'kɝəns/`
   - 词义
-    - n. 复发,重现
-    - `an occasion when something that has happened before happens again`
+    - n.
+      - 复发,重现
+        - `an occasion when something that has happened before happens again`
   - 同根词
     - adj.
-      - `recurring` 循环的；再发的
-      - `recursive` [数] 递归的；循环的
-      - `recurrent` 复发的；周期性的，经常发生的
+      - `recurring`
+        - 循环的；再发的
+      - `recursive`
+        - [数] 递归的；循环的
+      - `recurrent`
+        - 复发的；周期性的，经常发生的
     - adv.
-      - `recurrently` 循环地（周而复始地）
+      - `recurrently`
+        - 循环地（周而复始地）
     - n.
-      - `recursion` [数] 递归，循环；递归式
+      - `recursion`
+        - [数] 递归，循环；递归式
     - v.
-      - `recurring` 返回（recur的现在分词）
+      - `recurring`
+        - 返回（recur的现在分词）
     - vi.
-      - `recur` 复发；重现；采用；再来；循环；递归
+      - `recur`
+        - 复发；重现；采用；再来；循环；递归
   - 近义词
-    - n. 再发生；循环；重现；重新提起
-      - `circulation`
-      - `revolution`
-      - `rotation`
-      - `cycle`
-      - `round`
+    - n.
+      - 再发生；循环；重现；重新提起
+        - `circulation`
+        - `revolution`
+        - `rotation`
+        - `cycle`
+        - `round`
   - 短语
-    - `recurrence rate` [计]重复率；[医]再发率 
-    - `recurrence formula` 递推公式；递归公式；循环公式 
-    - `recurrence interval` 重现期，重复周期；脉冲周期 
-    - `recurrence relation` [计]递归关系，递推关系 
+    - `recurrence rate`
+      - [计]重复率；[医]再发率 
+    - `recurrence formula`
+      - 递推公式；递归公式；循环公式 
+    - `recurrence interval`
+      - 重现期，重复周期；脉冲周期 
+    - `recurrence relation`
+      - [计]递归关系，递推关系 
   - 例句
     - `If you have a recurrence, talk to your doctor about getting a new biopsy before settling on treatment.`
       - 如果你存在复发，那么跟你的医生谈论在制定治疗方案前再做一次新的活检。

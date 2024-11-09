@@ -1,24 +1,30 @@
 - comport
   - 发音
-    - 英 `/kəm'pɔːt/`
-    - 美 `/kəm'pɔ:t/`
+    - 英
+      - `/kəm'pɔːt/`
+    - 美
+      - `/kəm'pɔ:t/`
   - 词义
-    - v. 举止
-    - `to behave in a particular way`
+    - v.
+      - 举止
+        - `to behave in a particular way`
   - 记忆
     - com + port (带) → 一个人带有的全部仪态 → 举止
   - 同根词
     - n.
-      - `comportment` 举止，态度；动作
+      - `comportment`
+        - 举止，态度；动作
   - 近义词
-    - vi. 相称；适合；一致
-      - `gear`
-      - `cotton`
-      - `suit`
-      - `balance`
-      - `identify`
+    - vi.
+      - 相称；适合；一致
+        - `gear`
+        - `cotton`
+        - `suit`
+        - `balance`
+        - `identify`
   - 短语
-    - `comport with` 适合，一致 
+    - `comport with`
+      - 适合，一致 
   - 例句
     - `He comported himself in a way that won him respect.`
       - 他的行为为自己赢得了尊重。

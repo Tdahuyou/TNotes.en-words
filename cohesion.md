@@ -1,34 +1,47 @@
 - cohesion
   - 发音
-    - 英 `/kou'hiːʒn/`
-    - 美 `/ko'hiʒən/`
+    - 英
+      - `/kou'hiːʒn/`
+    - 美
+      - `/ko'hiʒən/`
   - 词义
-    - n. 内聚力；凝聚力；团结，结合
-    - `if there is cohesion among a group of people, a set of ideas etc, all the parts or members of it are connected or related in a reasonable way to form a whole`
+    - n.
+      - 内聚力；凝聚力；团结，结合
+        - `if there is cohesion among a group of people, a set of ideas etc, all the parts or members of it are connected or related in a reasonable way to form a whole`
   - 记忆
     - co(共同) + hes(黏附) + ion → 黏在一起 → 团结， 结合
   - 同根词
     - adj.
-      - `coherent` 连贯的，一致的；明了的；清晰的；凝聚性的；互相偶合的；粘在一起的
-      - `cohesive` 有结合力的；紧密结合的；有粘着力的
+      - `coherent`
+        - 连贯的，一致的；明了的；清晰的；凝聚性的；互相偶合的；粘在一起的
+      - `cohesive`
+        - 有结合力的；紧密结合的；有粘着力的
     - adv.
-      - `coherently` 连贯地；前后一致地；条理清楚地；互相偶合地；凝聚性地
+      - `coherently`
+        - 连贯地；前后一致地；条理清楚地；互相偶合地；凝聚性地
     - n.
-      - `coherence` 一致；连贯性；凝聚
-      - `cohesiveness` 凝聚力；粘结性；内聚力
+      - `coherence`
+        - 一致；连贯性；凝聚
+      - `cohesiveness`
+        - 凝聚力；粘结性；内聚力
     - vi.
-      - `cohere` 凝聚；连贯；粘着；一致
+      - `cohere`
+        - 凝聚；连贯；粘着；一致
   - 近义词
-    - n. 凝聚；结合；[通信][计][力][数]内聚力
-      - `combination`
-      - `coupling`
-      - `wedding`
-      - `bond`
-      - `join`
+    - n.
+      - 凝聚；结合；[通信][计][力][数]内聚力
+        - `combination`
+        - `coupling`
+        - `wedding`
+        - `bond`
+        - `join`
   - 短语
-    - `national cohesion` 民族凝聚力 
-    - `social cohesion` 社会凝聚力 
-    - `cohesion force` 内聚力，抱合力 
+    - `national cohesion`
+      - 民族凝聚力 
+    - `social cohesion`
+      - 社会凝聚力 
+    - `cohesion force`
+      - 内聚力，抱合力 
   - 例句
     - `a sense of community and social cohesion`
       - 社区意识和社会凝聚力

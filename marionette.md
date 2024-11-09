@@ -1,10 +1,13 @@
 - marionette
   - 发音
-    - 英 `/,mærɪə'net/`
-    - 美 `/,mærɪə'nɛt/`
+    - 英
+      - `/,mærɪə'net/`
+    - 美
+      - `/,mærɪə'nɛt/`
   - 词义
-    - n. 牵线木偶
-    - `a  puppet  whose arms and legs are moved by pulling strings`
+    - n.
+      - 牵线木偶
+        - `a  puppet  whose arms and legs are moved by pulling strings`
   - 例句
     - `Then slowly slide down the wall, falling forward from the waist—like a marionette with slack strings.`
       - 然后缓慢顺墙滑身而下，而腰部向前落——就像是松紧线牵动的木偶。

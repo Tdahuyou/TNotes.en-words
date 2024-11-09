@@ -1,25 +1,38 @@
 - parental
   - 发音
-    - 英 `/pə'rentl/`
-    - 美 `/pə'rɛntl/`
+    - 英
+      - `/pə'rentl/`
+    - 美
+      - `/pə'rɛntl/`
   - 词义
-    - adj. 父母的
-    - `relating to being a parent and especially to being responsible for a child’s safety and development`
+    - adj.
+      - 父母的
+        - `relating to being a parent and especially to being responsible for a child’s safety and development`
   - 同根词
     - adj.
-      - `parentless` 无父母的
+      - `parentless`
+        - 无父母的
     - adv.
-      - `parentally` 像双亲地
+      - `parentally`
+        - 像双亲地
     - n.
-      - `parent` 父亲（或母亲）；父母亲；根源
-      - `parenthood` 亲子关系；父母身分
-      - `parentage` 出身；亲子关系；门第；起源
+      - `parent`
+        - 父亲（或母亲）；父母亲；根源
+      - `parenthood`
+        - 亲子关系；父母身分
+      - `parentage`
+        - 出身；亲子关系；门第；起源
   - 短语
-    - `parental control` 家长控制 
-    - `parental guidance` 部分不适合儿童观看的；父母的指导 
-    - `parental love` 父母的爱 
-    - `parental leave` 亲职假；育婴假 
-    - `parental care` 亲代抚育 
+    - `parental control`
+      - 家长控制 
+    - `parental guidance`
+      - 部分不适合儿童观看的；父母的指导 
+    - `parental love`
+      - 父母的爱 
+    - `parental leave`
+      - 亲职假；育婴假 
+    - `parental care`
+      - 亲代抚育 
   - 例句
     - `parental responsibility`
       - 父母的责任

@@ -1,9 +1,12 @@
 - Leningrad
   - 发音
-    - 英 `/'leninɡræd/`
-    - 美 `/'leninɡræd/`
+    - 英
+      - `/'leninɡræd/`
+    - 美
+      - `/'leninɡræd/`
   - 词义
-    - n. 列宁格勒（苏联城市）
+    - n.
+      - 列宁格勒（苏联城市）
   - 例句
     - `A farewell in Leningrad, in the spring of 1942.`
       - 1942年春天，在列宁格勒的一场送别仪式。

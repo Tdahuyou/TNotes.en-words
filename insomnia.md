@@ -1,14 +1,18 @@
 - insomnia
   - 发音
-    - 英 `/ɪn'sɒmnɪə/`
-    - 美 `/ɪn'sɑmnɪə/`
+    - 英
+      - `/ɪn'sɒmnɪə/`
+    - 美
+      - `/ɪn'sɑmnɪə/`
   - 词义
-    - n. 失眠症，失眠
-    - `if you suffer from insomnia, you are not able to sleep`
+    - n.
+      - 失眠症，失眠
+        - `if you suffer from insomnia, you are not able to sleep`
   - 近义词
-    - n. [内科]失眠症，失眠
-      - `sleeplessness`
-      - `agrypnia`
+    - n.
+      - [内科]失眠症，失眠
+        - `sleeplessness`
+        - `agrypnia`
   - 例句
     - `If you have insomnia, try my simple cure.`
       - 如果你有失眠症，试试我的简单疗法。

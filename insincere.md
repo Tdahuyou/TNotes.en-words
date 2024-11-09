@@ -1,19 +1,25 @@
 - insincere
   - 发音
-    - 英 `/ɪnsɪn'sɪə/`
-    - 美 `/,ɪnsɪn'sɪr/`
+    - 英
+      - `/ɪnsɪn'sɪə/`
+    - 美
+      - `/,ɪnsɪn'sɪr/`
   - 词义
-    - adj. 不诚实的；虚假的
-    - `pretending to be pleased, sympathetic etc, especially by saying nice things, but not really meaning what you say`
+    - adj.
+      - 不诚实的；虚假的
+        - `pretending to be pleased, sympathetic etc, especially by saying nice things, but not really meaning what you say`
   - 同根词
     - adv.
-      - `insincerely` 无诚意地；不诚实地
+      - `insincerely`
+        - 无诚意地；不诚实地
     - n.
-      - `insincerity` 伪善；无诚意；不诚实
+      - `insincerity`
+        - 伪善；无诚意；不诚实
   - 近义词
-    - adj. 不诚实的；虚假的
-      - `dishonest`
-      - `unfaithful`
+    - adj.
+      - 不诚实的；虚假的
+        - `dishonest`
+        - `unfaithful`
   - 例句
     - `an insincere smile`
       - 虚伪的微笑

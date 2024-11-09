@@ -1,12 +1,16 @@
 - myself
   - 发音
-    - 英 `/maɪ'self/`
-    - 美 `/maɪ'sɛlf/`
+    - 英
+      - `/maɪ'self/`
+    - 美
+      - `/maɪ'sɛlf/`
   - 词义
-    - pron. 我自己
-    - `used by the person speaking or writing to show that they are affected by their own action`
+    - pron.
+      - 我自己
+        - `used by the person speaking or writing to show that they are affected by their own action`
   - 短语
-    - `by myself` 独立完成 
+    - `by myself`
+      - 独立完成 
   - 例句
     - `I blame myself for what has happened.`
       - 发生这一切都怪我自己。

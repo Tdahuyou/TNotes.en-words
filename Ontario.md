@@ -1,11 +1,15 @@
 - Ontario
   - 发音
-    - 英 `/ɔn'tεəriəu/`
-    - 美 `/ɔn'tεəriəu/`
+    - 英
+      - `/ɔn'tεəriəu/`
+    - 美
+      - `/ɔn'tεəriəu/`
   - 词义
-    - n. 安大略湖[北美洲]
+    - n.
+      - 安大略湖[北美洲]
   - 短语
-    - `university of western ontario` 西安大略大学 
+    - `university of western ontario`
+      - 西安大略大学 
   - 例句
     - `We’re going to see your mother, in Toronto, Ontario.`
       - 我们要去安大略湖的多伦多看你的妈妈。

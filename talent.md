@@ -1,35 +1,52 @@
 - talent
   - 发音
-    - 英 `/'tælənt/`
-    - 美 `/'tælənt/`
+    - 英
+      - `/'tælənt/`
+    - 美
+      - `/'tælənt/`
   - 词义
-    - n. 天赋；才干；人才
-    - `a natural ability to do something well`
+    - n.
+      - 天赋；才干；人才
+        - `a natural ability to do something well`
   - 记忆
     - tal(看做tall， 高的) + ent(表人) → 高人 → 人才
   - 同根词
     - adj.
-      - `talented` 有才能的；多才的
-      - `talentless` 无能的
+      - `talented`
+        - 有才能的；多才的
+      - `talentless`
+        - 无能的
   - 近义词
-    - n. 才能；天才；天资
-      - `capability`
-      - `ability`
-      - `quality`
-      - `genius`
-      - `endowment`
+    - n.
+      - 才能；天才；天资
+        - `capability`
+        - `ability`
+        - `quality`
+        - `genius`
+        - `endowment`
   - 短语
-    - `talent for` 天才；有…的天赋 
-    - `talent development` 人才开发；才能发展 
-    - `talent show` 才艺表演会；业余演出比赛 
-    - `talent education` 才能教育 
-    - `artistic talent` 艺术才能 
-    - `talent pool` 人才库 
-    - `literary talent` 文才；文学天赋 
-    - `natural talent` 天赋，自然禀赋 
-    - `talent scout` n. 人才发掘者；伯乐 
-    - `inter-disciplinary talent` 复合型人才 
-    - `talent agency` 人才机构 
+    - `talent for`
+      - 天才；有…的天赋 
+    - `talent development`
+      - 人才开发；才能发展 
+    - `talent show`
+      - 才艺表演会；业余演出比赛 
+    - `talent education`
+      - 才能教育 
+    - `artistic talent`
+      - 艺术才能 
+    - `talent pool`
+      - 人才库 
+    - `literary talent`
+      - 文才；文学天赋 
+    - `natural talent`
+      - 天赋，自然禀赋 
+    - `talent scout`
+      - n. 人才发掘者；伯乐 
+    - `inter-disciplinary talent`
+      - 复合型人才 
+    - `talent agency`
+      - 人才机构 
   - 例句
     - `He has a lot of talent , and his work is fresh and interesting.`
       - 他很有天赋，作品新颖有趣。

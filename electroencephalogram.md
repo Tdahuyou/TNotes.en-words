@@ -1,14 +1,19 @@
 - electroencephalogram
   - 发音
-    - 英 `/ɪ,lektrəʊɪn'sef(ə)ləgræm; -'kef-/`
-    - 美 `/undefined/`
+    - 英
+      - `/ɪ,lektrəʊɪn'sef(ə)ləgræm; -'kef-/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. [医]脑电图
-    - `an eeg2`
+    - n.
+      - [医]脑电图
+        - `an eeg2`
   - 同根词
     - adj.
-      - `electrocardiographic` 心电图描记的（electrocardiograph的形容词）
-      - `electroencephalographic` 脑电图仪的；脑电图学的
+      - `electrocardiographic`
+        - 心电图描记的（electrocardiograph的形容词）
+      - `electroencephalographic`
+        - 脑电图仪的；脑电图学的
   - 例句
     - `The brain, too, sends out brain waves of electricity, which can be recorded in an electroencephalogram.`
       - 大脑也是一样，会发出脑电波，而脑电波可以在脑电图中记录。

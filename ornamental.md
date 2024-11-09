@@ -1,32 +1,45 @@
 - ornamental
   - 发音
-    - 英 `/ˌɔːrnə'mentl/`
-    - 美 `/,ɔrnə'mɛntl/`
+    - 英
+      - `/ˌɔːrnə'mentl/`
+    - 美
+      - `/,ɔrnə'mɛntl/`
   - 词义
-    - adj. 装饰性的，装饰用的
-    - `designed to make something look attractive rather than to be used for a particular purpose`
-    - n. 装饰物
+    - adj.
+      - 装饰性的，装饰用的
+        - `designed to make something look attractive rather than to be used for a particular purpose`
+    - n.
+      - 装饰物
   - 记忆
     - orn(装饰) + a + ment(名词后缀) + al(形容词后缀) → 装饰性的
   - 同根词
     - adv.
-      - `ornamentally` 装饰地；用作装饰品地
+      - `ornamentally`
+        - 装饰地；用作装饰品地
     - n.
-      - `ornament` 装饰；[建][服装] 装饰物；教堂用品
-      - `ornamentation` 装饰物
-      - `ornamentalist` 装饰家；设计家
+      - `ornament`
+        - 装饰；[建][服装] 装饰物；教堂用品
+      - `ornamentation`
+        - 装饰物
+      - `ornamentalist`
+        - 装饰家；设计家
     - vt.
-      - `ornament` 装饰，修饰
+      - `ornament`
+        - 装饰，修饰
   - 近义词
-    - adj. 装饰的，装饰性的
-      - `decorative`
-      - `illuminative`
-    - n. 观赏植物；装饰品
-      - `decoration`
-      - `trimming`
+    - adj.
+      - 装饰的，装饰性的
+        - `decorative`
+        - `illuminative`
+    - n.
+      - 观赏植物；装饰品
+        - `decoration`
+        - `trimming`
   - 短语
-    - `ornamental plant` 观赏植物 
-    - `ornamental stone` 饰石，装饰石 
+    - `ornamental plant`
+      - 观赏植物 
+    - `ornamental stone`
+      - 饰石，装饰石 
   - 例句
     - `ornamental gardens`
       - 装饰性花园

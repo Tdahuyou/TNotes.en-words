@@ -1,56 +1,89 @@
 - benefit
   - 发音
-    - 英 `/'benɪfɪt/`
-    - 美 `/'bɛnɪfɪt/`
+    - 英
+      - `/'benɪfɪt/`
+    - 美
+      - `/'bɛnɪfɪt/`
   - 词义
-    - v. 受益；得益于
-    - `if you benefit from something, or it benefits you, it gives you an advantage, improves your life, or helps you in some way`
-    - n. 益处，好处；恩惠；津贴
-    - `an advantage, improvement, or help that you get from something`
+    - v.
+      - 受益；得益于
+        - `if you benefit from something, or it benefits you, it gives you an advantage, improves your life, or helps you in some way`
+    - n.
+      - 益处，好处；恩惠；津贴
+        - `an advantage, improvement, or help that you get from something`
   - 记忆
     - bene(善， 好) + fit(做) → 益处， 好处
   - 同根词
     - adj.
-      - `beneficial` 有益的，有利的；可享利益的
-      - `beneficiary` 拥有封地的；受圣俸的
-      - `benefic` 有益的
-      - `benignant` 良性的；仁慈的；有益的；和蔼的
+      - `beneficial`
+        - 有益的，有利的；可享利益的
+      - `beneficiary`
+        - 拥有封地的；受圣俸的
+      - `benefic`
+        - 有益的
+      - `benignant`
+        - 良性的；仁慈的；有益的；和蔼的
     - adv.
-      - `beneficially` 受益地；获利地；有使用权地
-      - `benignantly` 有益地；亲切地；仁慈地
+      - `beneficially`
+        - 受益地；获利地；有使用权地
+      - `benignantly`
+        - 有益地；亲切地；仁慈地
     - n.
-      - `beneficiary` [金融] 受益人，受惠者；封臣
+      - `beneficiary`
+        - [金融] 受益人，受惠者；封臣
   - 近义词
-    - n. 利益，好处；救济金
-      - `behalf`
-      - `sake`
-      - `profit`
-      - `advantage`
-      - `plus`
-    - vt. 有益于，对…有益
-      - `profit`
-      - `be good for`
+    - n.
+      - 利益，好处；救济金
+        - `behalf`
+        - `sake`
+        - `profit`
+        - `advantage`
+        - `plus`
+    - vt.
+      - 有益于，对…有益
+        - `profit`
+        - `be good for`
   - 短语
-    - `economic benefit` 经济效益 
-    - `benefit from` 得益于；得利于；因…而得到好处 
-    - `mutual benefit` 互惠互利 
-    - `social benefit` 社会公益 
-    - `for the benefit of` 为…的利益 
-    - `equality and mutual benefit` 平等互利 
-    - `benefit by` 得益于 
-    - `in benefit` 有资格得到救济金(或补助费、抚恤金、保险金) 
-    - `of benefit to` 对...有好处 
-    - `ecological benefit` 生态效益，生态效应 
-    - `public benefit` 公益 
-    - `maximum benefit` 最大利益 
-    - `benefit of the doubt` 假定其无过失或无罪（因无充分证据证明某人有罪）；裁判员对可疑情况无把握时不对有关运动员作不利判定 
-    - `common benefit` 公共福利 
-    - `reciprocity and mutual benefit` 互惠互利 
-    - `benefit package` 给付项目；福利待遇 
-    - `benefit system` 福利制度；职工福利制度 
-    - `unemployment benefit` 失业救济金；失业津贴 
-    - `tax benefit` 税收利益；赋税优惠 
-    - `additional benefit` 附加利益；额外利益；附加利益（人身保险） 
+    - `economic benefit`
+      - 经济效益 
+    - `benefit from`
+      - 得益于；得利于；因…而得到好处 
+    - `mutual benefit`
+      - 互惠互利 
+    - `social benefit`
+      - 社会公益 
+    - `for the benefit of`
+      - 为…的利益 
+    - `equality and mutual benefit`
+      - 平等互利 
+    - `benefit by`
+      - 得益于 
+    - `in benefit`
+      - 有资格得到救济金(或补助费、抚恤金、保险金) 
+    - `of benefit to`
+      - 对...有好处 
+    - `ecological benefit`
+      - 生态效益，生态效应 
+    - `public benefit`
+      - 公益 
+    - `maximum benefit`
+      - 最大利益 
+    - `benefit of the doubt`
+      - 假定其无过失或无罪（因无充分证据证明某人有罪）；裁判员对可疑情况无把握时不对有关运动员作不利判定 
+    - `common benefit`
+      - 公共福利 
+    - `reciprocity and mutual benefit`
+      - 互惠互利 
+    - `benefit package`
+      - 给付项目；福利待遇 
+    - `benefit system`
+      - 福利制度；职工福利制度 
+    - `unemployment benefit`
+      - 失业救济金；失业津贴 
+    - `tax benefit`
+      - 税收利益；赋税优惠 
+    - `additional benefit`
+      - 附加利益；额外利益；附加利益（人身保险） 
   - 例句
     - `They are working together to benefit the whole community.`
       - 他们在为整个社区的利益共同努力。

@@ -1,23 +1,32 @@
 - lazily
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - adv. 懒洋洋地
+    - adv.
+      - 懒洋洋地
   - 同根词
     - adj.
-      - `lazy` 懒惰的；懒洋洋的；怠惰的；慢吞吞的
+      - `lazy`
+        - 懒惰的；懒洋洋的；怠惰的；慢吞吞的
     - n.
-      - `laziness` 怠惰；无精打采
-      - `laze` 闲散
+      - `laziness`
+        - 怠惰；无精打采
+      - `laze`
+        - 闲散
     - vi.
-      - `laze` 闲散；混日子；游手好闲
+      - `laze`
+        - 闲散；混日子；游手好闲
     - vt.
-      - `laze` 消磨（时光）；懒散
+      - `laze`
+        - 消磨（时光）；懒散
   - 近义词
-    - adv. 懒洋洋地；怠惰地，懒散地
-      - `drowsily`
-      - `indolently`
+    - adv.
+      - 懒洋洋地；怠惰地，懒散地
+        - `drowsily`
+        - `indolently`
   - 例句
     - `A thin curl of smoke arose lazily from the cobin.`
       - 一缕薄烟懒洋洋地从小屋升起。

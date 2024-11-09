@@ -1,28 +1,37 @@
 - recruit
   - 发音
-    - 英 `/rɪ'kruːt/`
-    - 美 `/rɪ'krut/`
+    - 英
+      - `/rɪ'kruːt/`
+    - 美
+      - `/rɪ'krut/`
   - 词义
-    - v. 招募，征募
-    - `to get people to join the army, navy etc`
-    - n. 新兵；新成员
-    - `someone who has just joined the army, navy, or  air force `
+    - v.
+      - 招募，征募
+        - `to get people to join the army, navy etc`
+    - n.
+      - 新兵；新成员
+        - `someone who has just joined the army, navy, or  air force `
   - 记忆
     - re + cruit(=cres成长) → 使部队成长壮大 → 招募(新兵)
   - 同根词
     - n.
-      - `recruitment` 补充；征募新兵
-      - `recruiter` 招聘人员，征兵人员
+      - `recruitment`
+        - 补充；征募新兵
+      - `recruiter`
+        - 招聘人员，征兵人员
   - 近义词
-    - n. 招聘；新兵；新成员
-      - `hands wanted`
-      - `big john`
-    - vt. 补充；聘用；征募；使…恢复健康
-      - `supply`
-      - `to replenish`
-    - vi. 复原；征募新兵；得到补充；恢复健康
-      - `be cured of`
-      - `pull round`
+    - n.
+      - 招聘；新兵；新成员
+        - `hands wanted`
+        - `big john`
+    - vt.
+      - 补充；聘用；征募；使…恢复健康
+        - `supply`
+        - `to replenish`
+    - vi.
+      - 复原；征募新兵；得到补充；恢复健康
+        - `be cured of`
+        - `pull round`
   - 例句
     - `Most of the men in the village were recruited that day.`
       - 村里的大多数男子在那一天应征入伍。

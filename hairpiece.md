@@ -1,14 +1,18 @@
 - hairpiece
   - 发音
-    - 英 `/'heəpiːs/`
-    - 美 `/'hɛrpis/`
+    - 英
+      - `/'heəpiːs/`
+    - 美
+      - `/'hɛrpis/`
   - 词义
-    - n. 假发
-    - `a piece of false hair that you wear on your head to make your own hair look thicker`
+    - n.
+      - 假发
+        - `a piece of false hair that you wear on your head to make your own hair look thicker`
   - 近义词
-    - n. 假发
-      - `toup`
-      - `wiggery`
+    - n.
+      - 假发
+        - `toup`
+        - `wiggery`
   - 例句
     - `Wearing the hairpiece helped me realize the power of looks.`
       - 戴了假发，让我发现外表会起很大的作用。

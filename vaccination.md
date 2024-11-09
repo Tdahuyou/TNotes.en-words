@@ -1,22 +1,31 @@
 - vaccination
   - 发音
-    - 英 `/,væksɪ'neɪʃən/`
-    - 美 `/,væksn'eʃən/`
+    - 英
+      - `/,væksɪ'neɪʃən/`
+    - 美
+      - `/,væksn'eʃən/`
   - 词义
-    - n. 接种疫苗
+    - n.
+      - 接种疫苗
   - 记忆
     - vaccin(牛痘) + ation → 接种牛痘 → 接种疫苗
   - 同根词
     - adj.
-      - `vaccine` 疫苗的；牛痘的
+      - `vaccine`
+        - 疫苗的；牛痘的
     - n.
-      - `vaccine` 疫苗；牛痘苗
-      - `vaccinate` 被接种牛痘者
-      - `vaccinator` 牛痘接种员；种痘刀
+      - `vaccine`
+        - 疫苗；牛痘苗
+      - `vaccinate`
+        - 被接种牛痘者
+      - `vaccinator`
+        - 牛痘接种员；种痘刀
     - vi.
-      - `vaccinate` 接种疫苗
+      - `vaccinate`
+        - 接种疫苗
     - vt.
-      - `vaccinate` 给…注射疫苗
+      - `vaccinate`
+        - 给…注射疫苗
   - 例句
     - `People should therefore continue to seek seasonal influenza vaccination like any other year.`
       - 因此，人们应当像以往一样继续接种季节性流感疫苗。

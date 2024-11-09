@@ -1,16 +1,21 @@
 - goblet
   - 发音
-    - 英 `/'gɑːblət/`
-    - 美 `/'ɡɑblət/`
+    - 英
+      - `/'gɑːblət/`
+    - 美
+      - `/'ɡɑblət/`
   - 词义
-    - n. 高脚酒杯
-    - `a cup made of glass or metal, with a base and a stem but no handle`
+    - n.
+      - 高脚酒杯
+        - `a cup made of glass or metal, with a base and a stem but no handle`
   - 近义词
-    - n. 酒杯；高脚杯
-      - `drinking cup`
-      - `Tassie`
+    - n.
+      - 酒杯；高脚杯
+        - `drinking cup`
+        - `Tassie`
   - 短语
-    - `goblet cell` 杯状细胞 
+    - `goblet cell`
+      - 杯状细胞 
   - 例句
     - `The goblet was mantling with foam.`
       - 这个高脚杯盖满了泡沫。

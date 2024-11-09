@@ -1,25 +1,32 @@
 - preside
   - 发音
-    - 英 `/prɪ'zaɪd/`
-    - 美 `/prɪ'zaɪd/`
+    - 英
+      - `/prɪ'zaɪd/`
+    - 美
+      - `/prɪ'zaɪd/`
   - 词义
-    - vi. 担任主席；主持；掌管
-    - `to be in charge of a formal event, organization, ceremony etc`
+    - vi.
+      - 担任主席；主持；掌管
+        - `to be in charge of a formal event, organization, ceremony etc`
   - 记忆
     - pre(在…前面) + sid(坐) + e → 坐在前面 → 担任主席
   - 近义词
-    - vi. 主持，担任会议主席
-      - `to chair`
-      - `run the show`
-    - vt. 管理
-      - `manage`
-      - `conduct`
-      - `run`
-      - `direct`
-      - `control`
+    - vi.
+      - 主持，担任会议主席
+        - `to chair`
+        - `run the show`
+    - vt.
+      - 管理
+        - `manage`
+        - `conduct`
+        - `run`
+        - `direct`
+        - `control`
   - 短语
-    - `preside over` 主持；负责 
-    - `preside at` 主持；负责 
+    - `preside over`
+      - 主持；负责 
+    - `preside at`
+      - 主持；负责 
   - 例句
     - `I shall be pleased to preside at your meetings.`
       - 我很高兴主持你们的会议。

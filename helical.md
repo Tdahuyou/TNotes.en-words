@@ -1,23 +1,35 @@
 - helical
   - 发音
-    - 英 `/'helɪk(ə)l; 'hiː-/`
-    - 美 `/'hɛlɪkl/`
+    - 英
+      - `/'helɪk(ə)l; 'hiː-/`
+    - 美
+      - `/'hɛlɪkl/`
   - 词义
-    - adj. 螺旋状的
-    - `of or shaped like a helix; spiral `
+    - adj.
+      - 螺旋状的
+        - `of or shaped like a helix; spiral `
   - 近义词
-    - adj. 螺旋形的
-      - `spiral`
-      - `gyroidal`
+    - adj.
+      - 螺旋形的
+        - `spiral`
+        - `gyroidal`
   - 短语
-    - `helical gear` 斜齿轮 
-    - `helical spring` 螺旋弹簧 
-    - `helical blade` 螺旋叶片 
-    - `helical surface` 螺旋面 
-    - `helical curve` 螺旋形曲线 
-    - `helical line` 螺旋线 
-    - `helical antenna` 螺旋形天线 
-    - `helical groove` 螺旋槽 
+    - `helical gear`
+      - 斜齿轮 
+    - `helical spring`
+      - 螺旋弹簧 
+    - `helical blade`
+      - 螺旋叶片 
+    - `helical surface`
+      - 螺旋面 
+    - `helical curve`
+      - 螺旋形曲线 
+    - `helical line`
+      - 螺旋线 
+    - `helical antenna`
+      - 螺旋形天线 
+    - `helical groove`
+      - 螺旋槽 
   - 例句
     - `They are stabilized in a helical shape that stays active longer in the body.`
       - 这种肽能够以螺旋形状稳定存在，并能够在体内保持长期活性。

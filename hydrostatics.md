@@ -1,13 +1,17 @@
 - hydrostatics
   - 发音
-    - 英 `/ˌhaɪdrəʊ'stætɪks/`
-    - 美 `/,haɪdrə'stætɪks/`
+    - 英
+      - `/ˌhaɪdrəʊ'stætɪks/`
+    - 美
+      - `/,haɪdrə'stætɪks/`
   - 词义
-    - n. 流体静力学
-    - `the branch of science concerned with the mechanical properties and behaviour of fluids that are not in motion `
+    - n.
+      - 流体静力学
+        - `the branch of science concerned with the mechanical properties and behaviour of fluids that are not in motion `
   - 同根词
     - adj.
-      - `hydrostatic` 流体静力学的；静水力学的
+      - `hydrostatic`
+        - 流体静力学的；静水力学的
   - 例句
     - `Fluids: pressure, hydrostatics, Euler and Lagrange variables of a continuum, continuity equation, Euler equation of motion.`
       - 流体：压力，流体静力学，欧拉和一个统一体，连续性方程，欧拉运动方程拉格朗日变量。

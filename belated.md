@@ -1,18 +1,23 @@
 - belated
   - 发音
-    - 英 `/bi'leitid/`
-    - 美 `/bɪ'letɪd/`
+    - 英
+      - `/bi'leitid/`
+    - 美
+      - `/bɪ'letɪd/`
   - 词义
-    - adj. 误期的；迟来的
-    - `happening or arriving late`
+    - adj.
+      - 误期的；迟来的
+        - `happening or arriving late`
   - 记忆
     - be (使…成为) + late (迟) + d → 迟来的
   - 同根词
     - adv.
-      - `belatedly` 延迟地；延续地
+      - `belatedly`
+        - 延迟地；延续地
   - 近义词
-    - adj. 迟来的；误期的
-      - `lated`
+    - adj.
+      - 迟来的；误期的
+        - `lated`
   - 例句
     - `a belated attempt to increase support`
       - 一个迟来的增加资助的举措

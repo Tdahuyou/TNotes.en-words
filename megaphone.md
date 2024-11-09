@@ -1,17 +1,23 @@
 - megaphone
   - 发音
-    - 英 `/'megəfəʊn/`
-    - 美 `/'mɛɡəfon/`
+    - 英
+      - `/'megəfəʊn/`
+    - 美
+      - `/'mɛɡəfon/`
   - 词义
-    - n. 扩音器，喇叭筒
-    - `a piece of equipment like a large horn which you talk through to make your voice sound louder, when you are speaking to a crowd`
-    - vt. 用扩音器对…讲话
-    - vi. 用扩音器传达
+    - n.
+      - 扩音器，喇叭筒
+        - `a piece of equipment like a large horn which you talk through to make your voice sound louder, when you are speaking to a crowd`
+    - vt.
+      - 用扩音器对…讲话
+    - vi.
+      - 用扩音器传达
   - 近义词
-    - n. 扩音器，[电子]喇叭筒
-      - `mike`
-      - `microphone`
-      - `amplifier`
+    - n.
+      - 扩音器，[电子]喇叭筒
+        - `mike`
+        - `microphone`
+        - `amplifier`
   - 例句
     - `The Mega-Sonic Scatter-Cat Repeller looks like a megaphone because it actually is one.`
       - 这个超音波驱猫器看上去像个扩音器，因为它的确是的。

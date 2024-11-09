@@ -1,32 +1,41 @@
 - stab
   - 发音
-    - 英 `/stæb/`
-    - 美 `/stæb/`
+    - 英
+      - `/stæb/`
+    - 美
+      - `/stæb/`
   - 词义
-    - v. 刺；戳；刺伤
-    - `to push a knife into someone or something`
+    - v.
+      - 刺；戳；刺伤
+        - `to push a knife into someone or something`
   - 记忆
     - 手要稳(stable)才能刺(stab)得准
   - 同根词
     - adj.
-      - `stabbing` 刺穿的，尖利的；令人伤心的
+      - `stabbing`
+        - 刺穿的，尖利的；令人伤心的
     - n.
-      - `stabber` 刺客；锥子；刺的东西
+      - `stabber`
+        - 刺客；锥子；刺的东西
     - v.
-      - `stabbing` 刺（stab的ing形式）
+      - `stabbing`
+        - 刺（stab的ing形式）
   - 近义词
-    - vt. 刺；刺伤；戳；刺穿；直入
-      - `stick`
-      - `pink`
-    - vi. 刺；刺伤；戳；刺痛
-      - `smart`
-      - `puncture wound`
-    - n. 刺；戳；尝试；突发的一阵
-      - `stroke`
-      - `experiment`
-      - `go`
-      - `try`
-      - `thorn`
+    - vt.
+      - 刺；刺伤；戳；刺穿；直入
+        - `stick`
+        - `pink`
+    - vi.
+      - 刺；刺伤；戳；刺痛
+        - `smart`
+        - `puncture wound`
+    - n.
+      - 刺；戳；尝试；突发的一阵
+        - `stroke`
+        - `experiment`
+        - `go`
+        - `try`
+        - `thorn`
   - 例句
     - `He was stabbed to death in a fight.`
       - 他在一次打斗中被捅死了。

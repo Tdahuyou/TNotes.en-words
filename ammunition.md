@@ -1,18 +1,25 @@
 - ammunition
   - 发音
-    - 英 `/æmjʊ'nɪʃ(ə)n/`
-    - 美 `/,æmju'nɪʃən/`
+    - 英
+      - `/æmjʊ'nɪʃ(ə)n/`
+    - 美
+      - `/,æmju'nɪʃən/`
   - 词义
-    - n. 弹药；军火
-    - `bullets, shells (  shell  ) etc that are fired from guns`
-    - vt. 装弹药于
-    - vi. 装弹药
+    - n.
+      - 弹药；军火
+        - `bullets, shells (  shell  ) etc that are fired from guns`
+    - vt.
+      - 装弹药于
+    - vi.
+      - 装弹药
   - 近义词
-    - n. [军]弹药；军火
-      - `ammo`
-      - `cartridge`
+    - n.
+      - [军]弹药；军火
+        - `ammo`
+        - `cartridge`
   - 短语
-    - `live ammunition` [军]实弹 
+    - `live ammunition`
+      - [军]实弹 
   - 例句
     - `He had only seven rounds of ammunition for the revolver.`
       - 他只有7发左轮手枪的弹药。

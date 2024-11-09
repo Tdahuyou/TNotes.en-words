@@ -1,21 +1,28 @@
 - pilfer
   - 发音
-    - 英 `/'pɪlfər/`
-    - 美 `/'pilfə/`
+    - 英
+      - `/'pɪlfər/`
+    - 美
+      - `/'pilfə/`
   - 词义
-    - v. 偷窃
-    - `to steal things that are not worth much, especially from the place where you work`
+    - v.
+      - 偷窃
+        - `to steal things that are not worth much, especially from the place where you work`
   - 同根词
     - n.
-      - `pilferage` 偷盗，行窃；脏物
-      - `pilferer` 小偷
+      - `pilferage`
+        - 偷盗，行窃；脏物
+      - `pilferer`
+        - 小偷
   - 近义词
-    - vi. [法]偷窃；小偷小摸
-      - `boost`
-      - `pick pocket`
-    - vt. 窃；[法]偷窃；小偷小摸
-      - `steal`
-      - `scrump`
+    - vi.
+      - [法]偷窃；小偷小摸
+        - `boost`
+        - `pick pocket`
+    - vt.
+      - 窃；[法]偷窃；小偷小摸
+        - `steal`
+        - `scrump`
   - 例句
     - `The staff were pilfering behind the bar.`
       - 工作人员在吧台后面偷东西。

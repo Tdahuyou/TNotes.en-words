@@ -1,36 +1,56 @@
 - nervous
   - 发音
-    - 英 `/'nɜːvəs/`
-    - 美 `/'nɝvəs/`
+    - 英
+      - `/'nɜːvəs/`
+    - 美
+      - `/'nɝvəs/`
   - 词义
-    - adj. 情绪不安的；紧张的
-    - `worried or frightened about something, and unable to relax`
+    - adj.
+      - 情绪不安的；紧张的
+        - `worried or frightened about something, and unable to relax`
   - 同根词
     - adj.
-      - `nervy` 有勇气的；易激动的；紧张不安的
+      - `nervy`
+        - 有勇气的；易激动的；紧张不安的
     - adv.
-      - `nervously` 神经质地；焦急地；提心吊胆地
-      - `nervily` 大胆地；强壮地；神经过敏地
+      - `nervously`
+        - 神经质地；焦急地；提心吊胆地
+      - `nervily`
+        - 大胆地；强壮地；神经过敏地
     - n.
-      - `nerve` 神经；勇气；[植] 叶脉
-      - `nervousness` 神经质；[心理] 神经过敏；紧张不安
+      - `nerve`
+        - 神经；勇气；[植] 叶脉
+      - `nervousness`
+        - 神经质；[心理] 神经过敏；紧张不安
     - vt.
-      - `nerve` 鼓起勇气
+      - `nerve`
+        - 鼓起勇气
   - 近义词
-    - adj. [解剖]神经的；紧张不安的；强健有力的
-      - `neural`
-      - `jittery`
+    - adj.
+      - [解剖]神经的；紧张不安的；强健有力的
+        - `neural`
+        - `jittery`
   - 短语
-    - `nervous system` 神经系统 
-    - `central nervous system` 中枢神经系统 
-    - `autonomic nervous system` 植物性神经系统，自主神经系统 
-    - `feel nervous` 感到紧张；发慌 
-    - `get nervous` 变得紧张 
-    - `nervous breakdown` 精神崩溃 
-    - `sympathetic nervous system` 交感神经系统 
-    - `peripheral nervous system` [解]周围神经系统 
-    - `nervous tension` 神经紧张 
-    - `nervous tissue` 神经组织 
+    - `nervous system`
+      - 神经系统 
+    - `central nervous system`
+      - 中枢神经系统 
+    - `autonomic nervous system`
+      - 植物性神经系统，自主神经系统 
+    - `feel nervous`
+      - 感到紧张；发慌 
+    - `get nervous`
+      - 变得紧张 
+    - `nervous breakdown`
+      - 精神崩溃 
+    - `sympathetic nervous system`
+      - 交感神经系统 
+    - `peripheral nervous system`
+      - [解]周围神经系统 
+    - `nervous tension`
+      - 神经紧张 
+    - `nervous tissue`
+      - 神经组织 
   - 例句
     - `I wish you’d stop looking at me like that. You’re making me nervous.`
       - 我希望你不要再那样看着我了，你让我紧张。

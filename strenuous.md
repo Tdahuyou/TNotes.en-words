@@ -1,24 +1,31 @@
 - strenuous
   - 发音
-    - 英 `/'strenjuəs/`
-    - 美 `/'strɛnjuəs/`
+    - 英
+      - `/'strenjuəs/`
+    - 美
+      - `/'strɛnjuəs/`
   - 词义
-    - adj. 费劲的，费力的，艰苦的；精力充沛的；奋力的
-    - `needing a lot of effort or strength`
+    - adj.
+      - 费劲的，费力的，艰苦的；精力充沛的；奋力的
+        - `needing a lot of effort or strength`
   - 记忆
     - stren(=stern僵硬的) + uous → 身体累得僵硬 → 费劲的
   - 同根词
     - adv.
-      - `strenuously` 勤奋地；费力地
+      - `strenuously`
+        - 勤奋地；费力地
     - n.
-      - `strenuosity` 费力；艰辛；艰苦努力
+      - `strenuosity`
+        - 费力；艰辛；艰苦努力
   - 近义词
-    - adj. 紧张的；费力的；奋发的；艰苦的；热烈的
-      - `intense`
-      - `tough`
-      - `rough`
+    - adj.
+      - 紧张的；费力的；奋发的；艰苦的；热烈的
+        - `intense`
+        - `tough`
+        - `rough`
   - 短语
-    - `strenuous exercise` 剧烈运动 
+    - `strenuous exercise`
+      - 剧烈运动 
   - 例句
     - `a strenuous climb`
       - 艰难的攀登

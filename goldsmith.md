@@ -1,10 +1,13 @@
 - goldsmith
   - 发音
-    - 英 `/'gəʊl(d)smɪθ/`
-    - 美 `/'gold'smɪθ/`
+    - 英
+      - `/'gəʊl(d)smɪθ/`
+    - 美
+      - `/'gold'smɪθ/`
   - 词义
-    - n. 金匠
-    - `someone who makes or sells things made from gold`
+    - n.
+      - 金匠
+        - `someone who makes or sells things made from gold`
   - 例句
     - `They had safes in their shop and some people would say to the goldsmith I have some valuables.`
       - 他们在自己的店里有保险柜,有些人会对这些金匠说,我有一些贵重物品。

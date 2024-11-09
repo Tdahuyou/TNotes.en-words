@@ -1,42 +1,60 @@
 - resolve
   - 发音
-    - 英 `/rɪ'zɑːlv/`
-    - 美 `/rɪ'zɑlv/`
+    - 英
+      - `/rɪ'zɑːlv/`
+    - 美
+      - `/rɪ'zɑlv/`
   - 词义
-    - v. 解决；决定，决心；分解；显现
-    - `to find a satisfactory way of dealing with a problem or difficulty`
-    - n. 决心，决议
-    - `strong determination to succeed in doing something`
+    - v.
+      - 解决；决定，决心；分解；显现
+        - `to find a satisfactory way of dealing with a problem or difficulty`
+    - n.
+      - 决心，决议
+        - `strong determination to succeed in doing something`
   - 记忆
     - re(完全) + solv(解开) + e → 完全解开 → 解决
   - 同根词
     - adj.
-      - `resolved` 下定决心的；已解决的；断然的
-      - `resolvable` 可分解的；可解决的；可溶解的
-      - `resolvent` 分解的；有溶解力的；消散的
+      - `resolved`
+        - 下定决心的；已解决的；断然的
+      - `resolvable`
+        - 可分解的；可解决的；可溶解的
+      - `resolvent`
+        - 分解的；有溶解力的；消散的
     - adv.
-      - `resolutely` 坚决地；毅然地
+      - `resolutely`
+        - 坚决地；毅然地
     - n.
-      - `resolution` [物] 分辨率；决议；解决；决心
-      - `resolving` 分解；解析
-      - `resolvent` 溶剂；分解物；消肿药
+      - `resolution`
+        - [物] 分辨率；决议；解决；决心
+      - `resolving`
+        - 分解；解析
+      - `resolvent`
+        - 溶剂；分解物；消肿药
     - v.
-      - `resolved` 解决；决定；分解；转变（resolve的过去分词）
-      - `resolving` 分辨（resolve的ing形式）；分解；决定；解决矛盾
+      - `resolved`
+        - 解决；决定；分解；转变（resolve的过去分词）
+      - `resolving`
+        - 分辨（resolve的ing形式）；分解；决定；解决矛盾
   - 近义词
-    - vt. 决定；溶解；使…分解；决心要做…
-      - `solve`
-      - `condition`
-      - `conclude`
-    - vi. 解决；决心；分解
-      - `settle`
-      - `work out`
-      - `figure out`
-    - n. 坚决；决定要做的事
-      - `determinateness`
+    - vt.
+      - 决定；溶解；使…分解；决心要做…
+        - `solve`
+        - `condition`
+        - `conclude`
+    - vi.
+      - 解决；决心；分解
+        - `settle`
+        - `work out`
+        - `figure out`
+    - n.
+      - 坚决；决定要做的事
+        - `determinateness`
   - 短语
-    - `resolve into` 使分解为…；归结为 
-    - `fail to resolve` 解决未果 
+    - `resolve into`
+      - 使分解为…；归结为 
+    - `fail to resolve`
+      - 解决未果 
   - 例句
     - `Barnet was desperate for money to resolve his financial problems.`
       - 巴尼特急需钱来解决他的经济问题。

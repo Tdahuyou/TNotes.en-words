@@ -1,20 +1,27 @@
 - connotative
   - 发音
-    - 英 `/'kɔnəuteitiv/`
-    - 美 `/'kɔnəuteitiv/`
+    - 英
+      - `/'kɔnəuteitiv/`
+    - 美
+      - `/'kɔnəuteitiv/`
   - 词义
-    - adj. 隐含的,内涵的
+    - adj.
+      - 隐含的,内涵的
   - 同根词
     - n.
-      - `connotation` 内涵；含蓄；暗示，隐含意义；储蓄的东西（词、语等）
+      - `connotation`
+        - 内涵；含蓄；暗示，隐含意义；储蓄的东西（词、语等）
     - vt.
-      - `connote` 意味着；含言外之意
+      - `connote`
+        - 意味着；含言外之意
   - 近义词
-    - adj. 内涵的；隐含的；含蓄的
-      - `implicit`
-      - `intensional`
+    - adj.
+      - 内涵的；隐含的；含蓄的
+        - `implicit`
+        - `intensional`
   - 短语
-    - `connotative meaning` 内涵意义；涵义 
+    - `connotative meaning`
+      - 内涵意义；涵义 
   - 例句
     - `The most common tools for mapping semantically connotative URIs to internally structured ones simply perform replacements based on regular expressions.`
       - 将语义含糊的 URI 映射为反映内部结构的 URI 的工具常常仅仅根据正则表达式执行替换。

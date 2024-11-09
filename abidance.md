@@ -1,30 +1,41 @@
 - abidance
   - 发音
-    - 英 `/ə'baidəns/`
-    - 美 `/ə'baɪdns/`
+    - 英
+      - `/ə'baidəns/`
+    - 美
+      - `/ə'baɪdns/`
   - 词义
-    - n. 居住；遵守
+    - n.
+      - 居住；遵守
   - 同根词
     - adj.
-      - `abiding` 持久的，永久的；不变的
+      - `abiding`
+        - 持久的，永久的；不变的
     - n.
-      - `abode` 住处；营业所
+      - `abode`
+        - 住处；营业所
     - v.
-      - `abode` 遵守；停留；忍受（abide的过去分词）
-      - `abiding` 遵守；容忍；继续存在（abide的现在分词）
+      - `abode`
+        - 遵守；停留；忍受（abide的过去分词）
+      - `abiding`
+        - 遵守；容忍；继续存在（abide的现在分词）
     - vi.
-      - `abide` 持续；忍受；停留
+      - `abide`
+        - 持续；忍受；停留
     - vt.
-      - `abide` 忍受，容忍；停留
+      - `abide`
+        - 忍受，容忍；停留
   - 近义词
-    - n. 持续；[法]遵守；居住
-      - `duration`
-      - `residence`
-      - `keeping`
-      - `standing`
-      - `persistence`
+    - n.
+      - 持续；[法]遵守；居住
+        - `duration`
+        - `residence`
+        - `keeping`
+        - `standing`
+        - `persistence`
   - 短语
-    - `abidance by` 遵守，遵循 
+    - `abidance by`
+      - 遵守，遵循 
   - 例句
     - `The coach demanded abidance by the rules of the game.`
       - 教授指示他的学生要遵守实验规则。

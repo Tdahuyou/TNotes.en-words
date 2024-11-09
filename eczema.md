@@ -1,10 +1,13 @@
 - eczema
   - 发音
-    - 英 `/'eksɪmə; 'ekzɪmə/`
-    - 美 `/ɪɡ'zimə/`
+    - 英
+      - `/'eksɪmə; 'ekzɪmə/`
+    - 美
+      - `/ɪɡ'zimə/`
   - 词义
-    - n. [皮肤]湿疹
-    - `a condition in which your skin becomes dry, red, and swollen`
+    - n.
+      - [皮肤]湿疹
+        - `a condition in which your skin becomes dry, red, and swollen`
   - 例句
     - `Better still, though, would be to work out what aspect of modern life causes eczema.`
       - 但是更好的办法是弄清楚现代生活的哪些方面会引起湿疹。

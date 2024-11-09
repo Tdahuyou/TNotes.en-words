@@ -1,15 +1,20 @@
 - conduce
   - 发音
-    - 英 `/kən'djuːs/`
-    - 美 `/kən'dju:s/`
+    - 英
+      - `/kən'djuːs/`
+    - 美
+      - `/kən'dju:s/`
   - 词义
-    - v. 有益于，有助于；导致
-    - `to lead or contribute (to a result) `
+    - v.
+      - 有益于，有助于；导致
+        - `to lead or contribute (to a result) `
   - 同根词
     - adj.
-      - `conducive` 有益的；有助于…的
+      - `conducive`
+        - 有益的；有助于…的
   - 近义词
-    - vi. 导致；有益，有贡献于
-      - `result in`
-      - `account`
-      - `profit`
+    - vi.
+      - 导致；有益，有贡献于
+        - `result in`
+        - `account`
+        - `profit`

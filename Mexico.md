@@ -1,14 +1,21 @@
 - Mexico
   - 发音
-    - 英 `/'meksɪkəʊ/`
-    - 美 `/'mɛksɪko/`
+    - 英
+      - `/'meksɪkəʊ/`
+    - 美
+      - `/'mɛksɪko/`
   - 词义
-    - n. 墨西哥(拉丁美洲国家)
+    - n.
+      - 墨西哥(拉丁美洲国家)
   - 短语
-    - `gulf of mexico` 墨西哥湾（位于北美东南部边缘） 
-    - `new mexico` 美国新墨西哥州 
-    - `mexico city` 墨西哥城 
-    - `university of new mexico` 新墨西哥大学 
+    - `gulf of mexico`
+      - 墨西哥湾（位于北美东南部边缘） 
+    - `new mexico`
+      - 美国新墨西哥州 
+    - `mexico city`
+      - 墨西哥城 
+    - `university of new mexico`
+      - 新墨西哥大学 
   - 例句
     - `We want to prove that in Mexico.`
       - 我们要在墨西哥证明这一点。

@@ -1,21 +1,27 @@
 - sunder
   - 发音
-    - 英 `/'sʌndər/`
-    - 美 `/'sʌndɚ/`
+    - 英
+      - `/'sʌndər/`
+    - 美
+      - `/'sʌndɚ/`
   - 词义
-    - v. 分裂，分离
-    - `If people or things are sundered, they are separated or split by something`
+    - v.
+      - 分裂，分离
+        - `If people or things are sundered, they are separated or split by something`
   - 记忆
     - “散的” → 分离
   - 近义词
-    - vt. 切开；切断
-      - `excide`
-      - `slice from`
-    - vi. 分离；断开
-      - `keep apart`
-      - `draw apart`
+    - vt.
+      - 切开；切断
+        - `excide`
+        - `slice from`
+    - vi.
+      - 分离；断开
+        - `keep apart`
+        - `draw apart`
   - 短语
-    - `in sunder` 分开着，个别地 
+    - `in sunder`
+      - 分开着，个别地 
   - 例句
     - `The city is being sundered by racial tension.`
       - 该城市因民族关系紧张而正在分裂。

@@ -1,10 +1,13 @@
 - moraine
   - 发音
-    - 英 `/mə'reɪn/`
-    - 美 `/mə'ren/`
+    - 英
+      - `/mə'reɪn/`
+    - 美
+      - `/mə'ren/`
   - 词义
-    - n. 冰碛
-    - `a mass of earth or pieces of rock moved along by a  glacier  and left in a line at the bottom of it`
+    - n.
+      - 冰碛
+        - `a mass of earth or pieces of rock moved along by a  glacier  and left in a line at the bottom of it`
   - 例句
     - `The ground is covered with moraine.`
       - 地表覆盖着冰碛石。

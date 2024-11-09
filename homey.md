@@ -1,39 +1,59 @@
 - homey
   - 发音
-    - 英 `/'həʊmɪ/`
-    - 美 `/undefined/`
+    - 英
+      - `/'həʊmɪ/`
+    - 美
+      - `/undefined/`
   - 词义
-    - adj. 舒适的；家庭似的；自在的
-    - `pleasant, like home`
-    - n. (Homey)人名；(德)霍迈
+    - adj.
+      - 舒适的；家庭似的；自在的
+        - `pleasant, like home`
+    - n.
+      - (Homey)人名；(德)霍迈
   - 同根词
     - adj.
-      - `home` 国内的，家庭的；有效的
-      - `homeless` 无家可归的
-      - `homely` 家庭的；平凡的；不好看的
-      - `homing` 回家的；自动导引的；有返回性的
-      - `homeward` 在归途上的，向家的
-      - `homy` 家庭般的；自在的
-      - `homelike` 舒适的，自在的；如在家的
+      - `home`
+        - 国内的，家庭的；有效的
+      - `homeless`
+        - 无家可归的
+      - `homely`
+        - 家庭的；平凡的；不好看的
+      - `homing`
+        - 回家的；自动导引的；有返回性的
+      - `homeward`
+        - 在归途上的，向家的
+      - `homy`
+        - 家庭般的；自在的
+      - `homelike`
+        - 舒适的，自在的；如在家的
     - adv.
-      - `home` 在家，回家；深入地
-      - `homeward` 在归途上，向家地
+      - `home`
+        - 在家，回家；深入地
+      - `homeward`
+        - 在归途上，向家地
     - n.
-      - `home` 家，住宅；产地；家乡；避难所
-      - `homework` 家庭作业，课外作业
-      - `homing` 归航；动物的返回性
-      - `homelessness` 无家可归
+      - `home`
+        - 家，住宅；产地；家乡；避难所
+      - `homework`
+        - 家庭作业，课外作业
+      - `homing`
+        - 归航；动物的返回性
+      - `homelessness`
+        - 无家可归
     - v.
-      - `homing` 回家（home的ing形式）
+      - `homing`
+        - 回家（home的ing形式）
     - vt.
-      - `home` 归巢，回家
+      - `home`
+        - 归巢，回家
   - 近义词
-    - adj. 舒适的；家庭似的；自在的
-      - `comfortable`
-      - `pleasant`
-      - `easy`
-      - `relaxed`
-      - `cozy`
+    - adj.
+      - 舒适的；家庭似的；自在的
+        - `comfortable`
+        - `pleasant`
+        - `easy`
+        - `relaxed`
+        - `cozy`
   - 例句
     - `The restaurant has a relaxed homey atmosphere.`
       - 那家餐馆有一种宾至如归的自在气氛。

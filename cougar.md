@@ -1,14 +1,18 @@
 - cougar
   - 发音
-    - 英 `/'kuːgə/`
-    - 美 `/'kuɡɚ/`
+    - 英
+      - `/'kuːgə/`
+    - 美
+      - `/'kuɡɚ/`
   - 词义
-    - n. [动]美洲狮(尤指Felisconcolor)
-    - `a large brown wild cat from the mountains of western North America and South America`
+    - n.
+      - [动]美洲狮(尤指Felisconcolor)
+        - `a large brown wild cat from the mountains of western North America and South America`
   - 近义词
-    - n. [脊椎]美洲狮，美洲豹（特指Felis concolor）
-      - `mountain lion`
-      - `leopard`
+    - n.
+      - [脊椎]美洲狮，美洲豹（特指Felis concolor）
+        - `mountain lion`
+        - `leopard`
   - 例句
     - `Then Mrs. McAlister grabbed a shovel in the yard and swung it at the cougar.`
       - 于是阿里斯特太太抓起后院的一把铁锹对着美洲狮挥来挥去。

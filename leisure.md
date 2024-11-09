@@ -1,33 +1,50 @@
 - leisure
   - 发音
-    - 英 `/'liːʒər/`
-    - 美 `/'liʒɚ/`
+    - 英
+      - `/'liːʒər/`
+    - 美
+      - `/'liʒɚ/`
   - 词义
-    - n. 空闲，闲暇
-    - `time when you are not working or studying and can relax and do things you enjoy`
+    - n.
+      - 空闲，闲暇
+        - `time when you are not working or studying and can relax and do things you enjoy`
   - 同根词
     - adj.
-      - `leisurely` 悠闲的；从容的
-      - `leisured` 从容的；有闲的
-      - `leisureful` 从容不迫的（等于leisurely）
+      - `leisurely`
+        - 悠闲的；从容的
+      - `leisured`
+        - 从容的；有闲的
+      - `leisureful`
+        - 从容不迫的（等于leisurely）
     - adv.
-      - `leisurely` 悠闲地；从容不迫地
+      - `leisurely`
+        - 悠闲地；从容不迫地
   - 近义词
-    - n. [劳经]闲暇；空闲；安逸
-      - `ease`
-      - `idlesse`
-    - adj. 空闲的；有闲的；业余的
-      - `available`
-      - `off`
+    - n.
+      - [劳经]闲暇；空闲；安逸
+        - `ease`
+        - `idlesse`
+    - adj.
+      - 空闲的；有闲的；业余的
+        - `available`
+        - `off`
   - 短语
-    - `leisure time` 业余时间 
-    - `at leisure` 从容地；闲着地 
-    - `leisure industry` 娱乐产业；休闲服务业 
-    - `leisure center` 休闲中心；体育活动中心 
-    - `leisure area` 休闲区，空闲地 
-    - `leisure for` 有空做某事 
-    - `leisure wear` 休闲装；家居服 
-    - `leisure class` 有闲阶级 
+    - `leisure time`
+      - 业余时间 
+    - `at leisure`
+      - 从容地；闲着地 
+    - `leisure industry`
+      - 娱乐产业；休闲服务业 
+    - `leisure center`
+      - 休闲中心；体育活动中心 
+    - `leisure area`
+      - 休闲区，空闲地 
+    - `leisure for`
+      - 有空做某事 
+    - `leisure wear`
+      - 休闲装；家居服 
+    - `leisure class`
+      - 有闲阶级 
   - 例句
     - `Most people now enjoy shorter working hours and more leisure time.`
       - 现在大多数人都喜欢工作时间短些，闲暇时间多些。

@@ -1,16 +1,21 @@
 - hilt
   - 发音
-    - 英 `/hɪlt/`
-    - 美 `/hɪlt/`
+    - 英
+      - `/hɪlt/`
+    - 美
+      - `/hɪlt/`
   - 词义
-    - n. 刀把，柄
-    - `the handle of a sword or knife, where the blade is attached`
+    - n.
+      - 刀把，柄
+        - `the handle of a sword or knife, where the blade is attached`
   - 近义词
-    - n. 刀把，柄
-      - `handle`
-      - `shank`
+    - n.
+      - 刀把，柄
+        - `handle`
+        - `shank`
   - 短语
-    - `to the hilt` 最大限度地；完全地 
+    - `to the hilt`
+      - 最大限度地；完全地 
   - 例句
     - `The golden hilt is ornamented with three large emeralds, topped by a golden watch with an emerald lid.`
       - 金制的刀柄装饰有三颗大绿宝石，顶部是金色手表和翠绿色的盖子。

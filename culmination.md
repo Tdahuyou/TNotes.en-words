@@ -1,24 +1,30 @@
 - culmination
   - 发音
-    - 英 `/ˌkʌlmi'neiʃən/`
-    - 美 `/'kʌlmə'neʃən/`
+    - 英
+      - `/ˌkʌlmi'neiʃən/`
+    - 美
+      - `/'kʌlmə'neʃən/`
   - 词义
-    - n. 顶点
-    - `something, especially something important, that happens at the end of a long period of effort or development`
+    - n.
+      - 顶点
+        - `something, especially something important, that happens at the end of a long period of effort or development`
   - 记忆
     - 来自culminate (v. 达到顶点)
   - 同根词
     - vi.
-      - `culminate` 到绝顶；达到高潮；达到顶点
+      - `culminate`
+        - 到绝顶；达到高潮；达到顶点
     - vt.
-      - `culminate` 使结束；使达到高潮
+      - `culminate`
+        - 使结束；使达到高潮
   - 近义词
-    - n. 顶点；高潮
-      - `height`
-      - `summit`
-      - `sky`
-      - `peak`
-      - `apex`
+    - n.
+      - 顶点；高潮
+        - `height`
+        - `summit`
+        - `sky`
+        - `peak`
+        - `apex`
   - 例句
     - `This little book represented the culmination of 15 years’ work.`
       - 这本小书是15年工作的结晶。

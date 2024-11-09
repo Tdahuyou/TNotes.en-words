@@ -1,27 +1,36 @@
 - menacing
   - 发音
-    - 英 `/'menəsiŋ/`
-    - 美 `/'mɛnəsɪŋ/`
+    - 英
+      - `/'menəsiŋ/`
+    - 美
+      - `/'mɛnəsɪŋ/`
   - 词义
-    - adj. 威胁的；险恶的
-    - `making you expect something unpleasant`
+    - adj.
+      - 威胁的；险恶的
+        - `making you expect something unpleasant`
   - 记忆
     - 来自menace (v. 威胁， 威吓)
   - 同根词
     - adv.
-      - `menacingly` 胁迫地；险恶地
+      - `menacingly`
+        - 胁迫地；险恶地
     - n.
-      - `menace` 威胁；恐吓
+      - `menace`
+        - 威胁；恐吓
     - vi.
-      - `menace` 恐吓；进行威胁
+      - `menace`
+        - 恐吓；进行威胁
     - vt.
-      - `menace` 威胁；恐吓
+      - `menace`
+        - 威胁；恐吓
   - 近义词
-    - adj. 威胁的；险恶的
-      - `intimidatory`
-      - `minatory`
-    - v. 威胁（menace的ing形式）；恐吓
-      - `threatening`
+    - adj.
+      - 威胁的；险恶的
+        - `intimidatory`
+        - `minatory`
+    - v.
+      - 威胁（menace的ing形式）；恐吓
+        - `threatening`
   - 例句
     - `dark menacing clouds`
       - 可怕的乌云

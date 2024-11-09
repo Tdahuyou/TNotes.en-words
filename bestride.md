@@ -1,9 +1,12 @@
 - bestride
   - 发音
-    - 英 `/bi'straid/`
-    - 美 `/bi'straid/`
+    - 英
+      - `/bi'straid/`
+    - 美
+      - `/bi'straid/`
   - 词义
-    - v. 骑
+    - v.
+      - 骑
   - 记忆
     - be + stride (跨) → 跨 → 骑
   - 例句

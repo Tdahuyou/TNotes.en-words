@@ -1,30 +1,46 @@
 - effectiveness
   - 发音
-    - 英 `/ɪ'fektɪvnɪs/`
-    - 美 `/ə'fɛktɪvnɪs/`
+    - 英
+      - `/ɪ'fektɪvnɪs/`
+    - 美
+      - `/ə'fɛktɪvnɪs/`
   - 词义
-    - n. 效力
+    - n.
+      - 效力
   - 同根词
     - adj.
-      - `effective` 有效的，起作用的；实际的，实在的；给人深刻印象
-      - `effectual` 奏效的；会应验的；有法律效力的
+      - `effective`
+        - 有效的，起作用的；实际的，实在的；给人深刻印象
+      - `effectual`
+        - 奏效的；会应验的；有法律效力的
     - adv.
-      - `effectively` 有效地，生效地；有力地；实际上
+      - `effectively`
+        - 有效地，生效地；有力地；实际上
     - n.
-      - `effect` 影响；效果；作用
-      - `effector` [生理] 效应器；[遗] 效应物；操纵装置
-      - `effectivity` 有效；功效
+      - `effect`
+        - 影响；效果；作用
+      - `effector`
+        - [生理] 效应器；[遗] 效应物；操纵装置
+      - `effectivity`
+        - 有效；功效
     - vt.
-      - `effect` 产生；达到目的
+      - `effect`
+        - 产生；达到目的
   - 近义词
-    - n. 效力
-      - `efficacy`
+    - n.
+      - 效力
+        - `efficacy`
   - 短语
-    - `cost effectiveness` 成本效率 
-    - `battle effectiveness` n. 战斗力 
-    - `advertising effectiveness` 广告效果 
-    - `organizational effectiveness` 组织有效性 
-    - `effectiveness theory` 效益理论；可行性理论 
+    - `cost effectiveness`
+      - 成本效率 
+    - `battle effectiveness`
+      - n. 战斗力 
+    - `advertising effectiveness`
+      - 广告效果 
+    - `organizational effectiveness`
+      - 组织有效性 
+    - `effectiveness theory`
+      - 效益理论；可行性理论 
   - 例句
     - `Sometimes you have to sacrifice efficiency for effectiveness.`
       - 有时候你需要牺牲效率来达到效果。

@@ -1,29 +1,46 @@
 - psychiatric
   - 发音
-    - 英 `/ˌsaɪki'ætrɪk/`
-    - 美 `/,saɪkɪ'ætrɪk/`
+    - 英
+      - `/ˌsaɪki'ætrɪk/`
+    - 美
+      - `/,saɪkɪ'ætrɪk/`
   - 词义
-    - adj. 精神病的；治疗精神病的
-    - `relating to the study and treatment of mental illness`
+    - adj.
+      - 精神病的；治疗精神病的
+        - `relating to the study and treatment of mental illness`
   - 同根词
     - adj.
-      - `psychic` 精神的；心灵的；灵魂的；超自然的
-      - `psycho` 精神病的；精神病学的
-      - `psychoactive` 影响心理状态的；作用于精神的
-      - `psychoanalytic` 精神分析的；心理分析的
-      - `psychiatrical` 精神病治疗的；精神病学的
+      - `psychic`
+        - 精神的；心灵的；灵魂的；超自然的
+      - `psycho`
+        - 精神病的；精神病学的
+      - `psychoactive`
+        - 影响心理状态的；作用于精神的
+      - `psychoanalytic`
+        - 精神分析的；心理分析的
+      - `psychiatrical`
+        - 精神病治疗的；精神病学的
     - adv.
-      - `psychically` 精神上
+      - `psychically`
+        - 精神上
     - n.
-      - `psychiatrist` 精神病学家，精神病医生
-      - `psychic` 灵媒；巫师
-      - `psycho` 心理分析，精神分析；精神病患者
-      - `psychiatry` 精神病学；精神病治疗法
-      - `psychoanalysis` 精神分析；心理分析
-      - `psychoanalyst` 精神分析学家；心理分析学家
+      - `psychiatrist`
+        - 精神病学家，精神病医生
+      - `psychic`
+        - 灵媒；巫师
+      - `psycho`
+        - 心理分析，精神分析；精神病患者
+      - `psychiatry`
+        - 精神病学；精神病治疗法
+      - `psychoanalysis`
+        - 精神分析；心理分析
+      - `psychoanalyst`
+        - 精神分析学家；心理分析学家
   - 短语
-    - `psychiatric disorders` 精神疾病 
-    - `psychiatric nursing` 精神病护理 
+    - `psychiatric disorders`
+      - 精神疾病 
+    - `psychiatric nursing`
+      - 精神病护理 
   - 例句
     - `a psychiatric hospital`
       - 精神病医院

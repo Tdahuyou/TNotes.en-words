@@ -1,26 +1,35 @@
 - coincidentally
   - 发音
-    - 英 `/kouˌɪnsɪ'dentəli/`
-    - 美 `/kəu,insi'dentli/`
+    - 英
+      - `/kouˌɪnsɪ'dentəli/`
+    - 美
+      - `/kəu,insi'dentli/`
   - 词义
-    - adv. 巧合地
-    - `You use coincidentally when you want to draw attention to a coincidence`
+    - adv.
+      - 巧合地
+        - `You use coincidentally when you want to draw attention to a coincidence`
   - 记忆
     - 来自coincident(adj. 巧合的)
   - 同根词
     - adj.
-      - `coincident` 一致的；符合的；同时发生的
-      - `coincidental` 巧合的；符合的；暗合的；一致的
+      - `coincident`
+        - 一致的；符合的；同时发生的
+      - `coincidental`
+        - 巧合的；符合的；暗合的；一致的
     - adv.
-      - `coincidently` 巧合地
+      - `coincidently`
+        - 巧合地
     - n.
-      - `coincidence` 巧合；一致；同时发生
+      - `coincidence`
+        - 巧合；一致；同时发生
     - vi.
-      - `coincide` 一致，符合；同时发生
+      - `coincide`
+        - 一致，符合；同时发生
   - 近义词
-    - adv. 巧合地；一致地
-      - `consistently`
-      - `uniformly`
+    - adv.
+      - 巧合地；一致地
+        - `consistently`
+        - `uniformly`
   - 例句
     - `Coincidentally, I had once found myself in a similar situation.`
       - 碰巧的是，我有一次发现自己曾处于类似的境地。

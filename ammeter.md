@@ -1,14 +1,18 @@
 - ammeter
   - 发音
-    - 英 `/'æmɪtə/`
-    - 美 `/'æmitɚ/`
+    - 英
+      - `/'æmɪtə/`
+    - 美
+      - `/'æmitɚ/`
   - 词义
-    - n. [电]安培计；[电]电流计
-    - `a piece of equipment used to measure the strength of an electric current`
+    - n.
+      - [电]安培计；[电]电流计
+        - `a piece of equipment used to measure the strength of an electric current`
   - 近义词
-    - n. [电]安培计；电流计
-      - `amperometer`
-      - `rheometer`
+    - n.
+      - [电]安培计；电流计
+        - `amperometer`
+        - `rheometer`
   - 例句
     - `A shunt ammeter can be modeled as a voltmeter with a resistor across the input.`
       - 分流型安培计可以看成是在其输入端跨接了电阻器的电压表。

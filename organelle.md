@@ -1,17 +1,23 @@
 - organelle
   - 发音
-    - 英 `/ˌɔːgə'nel/`
-    - 美 `/,ɔrgə'nɛl/`
+    - 英
+      - `/ˌɔːgə'nel/`
+    - 美
+      - `/,ɔrgə'nɛl/`
   - 词义
-    - n. 细胞器
-    - `a structural and functional unit, such as a mitochondrion, in a cell or unicellular organism `
+    - n.
+      - 细胞器
+        - `a structural and functional unit, such as a mitochondrion, in a cell or unicellular organism `
   - 同根词
     - adj.
-      - `organic` [有化] 有机的；组织的；器官的；根本的
+      - `organic`
+        - [有化] 有机的；组织的；器官的；根本的
     - adv.
-      - `organically` 有机地；有组织地；器官上地
+      - `organically`
+        - 有机地；有组织地；器官上地
     - n.
-      - `organicism` 有机体说；唯器官变化论
+      - `organicism`
+        - 有机体说；唯器官变化论
   - 例句
     - `There were basically complete organelle structure in matural oocyte .`
       - 成熟卵子内已有基本完整的细胞器结构。

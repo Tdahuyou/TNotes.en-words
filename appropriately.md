@@ -1,23 +1,30 @@
 - appropriately
   - 发音
-    - 英 `/əˈprəʊpriətli/`
-    - 美 `/ə'proprɪ,etlɪ/`
+    - 英
+      - `/əˈprəʊpriətli/`
+    - 美
+      - `/ə'proprɪ,etlɪ/`
   - 词义
-    - adv. 适当地
+    - adv.
+      - 适当地
   - 同根词
     - adj.
-      - `appropriate` 适当的
+      - `appropriate`
+        - 适当的
     - n.
-      - `appropriateness` 适当；适合
+      - `appropriateness`
+        - 适当；适合
     - vt.
-      - `appropriate` 占用；拨出
+      - `appropriate`
+        - 占用；拨出
   - 近义词
-    - adv. 适当地；合适的；相称地
-      - `properly`
-      - `well`
-      - `adequately`
-      - `duly`
-      - `suitably`
+    - adv.
+      - 适当地；合适的；相称地
+        - `properly`
+        - `well`
+        - `adequately`
+        - `duly`
+        - `suitably`
   - 例句
     - `Try to dress appropriately for each occasion.`
       - 试图为每个场合适当地打扮。

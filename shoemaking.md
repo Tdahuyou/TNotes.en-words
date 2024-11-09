@@ -1,9 +1,12 @@
 - shoemaking
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 制鞋
+    - n.
+      - 制鞋
   - 例句
     - `In fact, he once took a hiatus from acting to study shoemaking.`
       - 事实上，他曾经一度中断演艺生涯跑去学习制鞋。

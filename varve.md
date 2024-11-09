@@ -1,10 +1,13 @@
 - varve
   - 发音
-    - 英 `/vɑːv/`
-    - 美 `/vɑrv/`
+    - 英
+      - `/vɑːv/`
+    - 美
+      - `/vɑrv/`
   - 词义
-    - n. [地质]纹泥
-    - `a typically thin band of sediment deposited annually in glacial lakes, consisting of a light layer and a dark layer deposited at different seasons `
+    - n.
+      - [地质]纹泥
+        - `a typically thin band of sediment deposited annually in glacial lakes, consisting of a light layer and a dark layer deposited at different seasons `
   - 例句
     - `Recently the study of maar lake and varve chronology is becoming a new field for palaeoclimate research.`
       - 火山活动是影响全球变化的重要因素之一，玛珥湖和纹泥年代学是近年来古气候研究的新领域。

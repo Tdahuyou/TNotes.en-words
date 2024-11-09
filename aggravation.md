@@ -1,19 +1,28 @@
 - aggravation
   - 发音
-    - 英 `/ˌægrə'veiʃən/`
-    - 美 `/,ægrə'veʃən/`
+    - 英
+      - `/ˌægrə'veiʃən/`
+    - 美
+      - `/,ægrə'veʃən/`
   - 词义
-    - n. 加重，恶化；恼怒
+    - n.
+      - 加重，恶化；恼怒
   - 同根词
     - adj.
-      - `aggravated` 加重的；恶化的
-      - `aggravating` 加重的；令人恼怒的
+      - `aggravated`
+        - 加重的；恶化的
+      - `aggravating`
+        - 加重的；令人恼怒的
     - v.
-      - `aggravated` 加重；恶化（aggravate的过去分词）；刺激
-      - `aggravating` 使恶化；激怒（aggravate的ing形式）
+      - `aggravated`
+        - 加重；恶化（aggravate的过去分词）；刺激
+      - `aggravating`
+        - 使恶化；激怒（aggravate的ing形式）
     - vt.
-      - `aggravate` 加重；使恶化；激怒
+      - `aggravate`
+        - 加重；使恶化；激怒
   - 近义词
-    - n. 加剧；激怒；更恶化
-      - `wrath`
-      - `intension`
+    - n.
+      - 加剧；激怒；更恶化
+        - `wrath`
+        - `intension`

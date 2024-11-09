@@ -1,33 +1,48 @@
 - darkness
   - 发音
-    - 英 `/undefined/`
-    - 美 `/'dɑrknəs/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/'dɑrknəs/`
   - 词义
-    - n. 黑暗,漆黑
-    - `when there is no light`
+    - n.
+      - 黑暗,漆黑
+        - `when there is no light`
   - 同根词
     - adj.
-      - `dark` 黑暗的，深色的；模糊的；无知的；忧郁的
-      - `darkish` 浅黑的，微暗的
-      - `darkling` 黑暗中的；恐怖的
+      - `dark`
+        - 黑暗的，深色的；模糊的；无知的；忧郁的
+      - `darkish`
+        - 浅黑的，微暗的
+      - `darkling`
+        - 黑暗中的；恐怖的
     - adv.
-      - `darkly` 黑暗地；模糊地；阴郁地；秘密地
-      - `darkling` 在黑暗中
+      - `darkly`
+        - 黑暗地；模糊地；阴郁地；秘密地
+      - `darkling`
+        - 在黑暗中
     - n.
-      - `dark` 黑暗；夜；黄昏；模糊
-      - `darky` 黑人，黑家伙
+      - `dark`
+        - 黑暗；夜；黄昏；模糊
+      - `darky`
+        - 黑人，黑家伙
     - v.
-      - `darkling` 使暗（darkle的ing形式）
+      - `darkling`
+        - 使暗（darkle的ing形式）
     - vi.
-      - `darken` 变黑；变得模糊
+      - `darken`
+        - 变黑；变得模糊
     - vt.
-      - `darken` 使变暗；使模糊
+      - `darken`
+        - 使变暗；使模糊
   - 近义词
-    - n. 黑暗；模糊；无知；阴郁
-      - `night`
-      - `ignorance`
+    - n.
+      - 黑暗；模糊；无知；阴郁
+        - `night`
+        - `ignorance`
   - 短语
-    - `heart of darkness` 黑暗之心 
+    - `heart of darkness`
+      - 黑暗之心 
   - 例句
     - `the long hours of darkness during winter`
       - 冬季漫长的黑夜

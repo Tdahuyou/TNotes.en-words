@@ -1,22 +1,33 @@
 - glucose
   - 发音
-    - 英 `/'gluːkəus/`
-    - 美 `/'ɡlukos/`
+    - 英
+      - `/'gluːkəus/`
+    - 美
+      - `/'ɡlukos/`
   - 词义
-    - n. 葡萄糖
-    - `a natural form of sugar that exists in fruit`
+    - n.
+      - 葡萄糖
+        - `a natural form of sugar that exists in fruit`
   - 近义词
-    - n. [有化]葡萄糖；葡糖（等于dextrose）
-      - `D-glucose`
-      - `grape sugar`
+    - n.
+      - [有化]葡萄糖；葡糖（等于dextrose）
+        - `D-glucose`
+        - `grape sugar`
   - 短语
-    - `blood glucose` 血糖 
-    - `glucose tolerance` 葡萄糖耐量；葡萄糖耐受性 
-    - `glucose oxidase` 葡糖氧化酶 
-    - `glucose injection` 葡萄糖注射液 
-    - `glucose syrup` 葡萄糖浆 
-    - `glucose tolerance test` [病理学]葡萄糖耐量试验 
-    - `liquid glucose` 液状葡萄糖 
+    - `blood glucose`
+      - 血糖 
+    - `glucose tolerance`
+      - 葡萄糖耐量；葡萄糖耐受性 
+    - `glucose oxidase`
+      - 葡糖氧化酶 
+    - `glucose injection`
+      - 葡萄糖注射液 
+    - `glucose syrup`
+      - 葡萄糖浆 
+    - `glucose tolerance test`
+      - [病理学]葡萄糖耐量试验 
+    - `liquid glucose`
+      - 液状葡萄糖 
   - 例句
     - `Now, if the insulin "key" cannot open up the cell to glucose, there is something interfering with it.`
       - 现在，如果胰岛素这把“钥匙”无法打开细胞让葡萄糖进入，一定是有东西干扰。

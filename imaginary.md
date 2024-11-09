@@ -1,31 +1,45 @@
 - imaginary
   - 发音
-    - 英 `/ɪ'mædʒɪneri/`
-    - 美 `/ɪ'mædʒɪnɛri/`
+    - 英
+      - `/ɪ'mædʒɪneri/`
+    - 美
+      - `/ɪ'mædʒɪnɛri/`
   - 词义
-    - adj. 想象中的，虚构的，假想的
-    - `not real, but produced from pictures or ideas in your mind`
+    - adj.
+      - 想象中的，虚构的，假想的
+        - `not real, but produced from pictures or ideas in your mind`
   - 同根词
     - adj.
-      - `imaginative` 虚构的；富于想像的；有创造力的
-      - `imaginable` 可能的；可想像的
+      - `imaginative`
+        - 虚构的；富于想像的；有创造力的
+      - `imaginable`
+        - 可能的；可想像的
     - n.
-      - `imaging` 成像
+      - `imaging`
+        - 成像
     - v.
-      - `imaging` 想像（image的ing形式）；画…的像
+      - `imaging`
+        - 想像（image的ing形式）；画…的像
     - vi.
-      - `imagine` 想像；猜想；想像起来
+      - `imagine`
+        - 想像；猜想；想像起来
     - vt.
-      - `imagine` 想像；猜想；臆断
+      - `imagine`
+        - 想像；猜想；臆断
   - 近义词
-    - adj. [计][摄]虚构的，[心理]假想的；想像的；虚数的
-      - `fictitious`
-      - `figmentary`
+    - adj.
+      - [计][摄]虚构的，[心理]假想的；想像的；虚数的
+        - `fictitious`
+        - `figmentary`
   - 短语
-    - `imaginary part` [计]虚部 
-    - `imaginary line` 假想线；虚线 
-    - `imaginary number` 虚数 
-    - `imaginary circle` 虚圆 
+    - `imaginary part`
+      - [计]虚部 
+    - `imaginary line`
+      - 假想线；虚线 
+    - `imaginary number`
+      - 虚数 
+    - `imaginary circle`
+      - 虚圆 
   - 例句
     - `As she listened, she played an imaginary piano on her knees.`
       - 她边听边在膝盖上作弹钢琴状。

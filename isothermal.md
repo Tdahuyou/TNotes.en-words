@@ -1,26 +1,40 @@
 - isothermal
   - 发音
-    - 英 `/ˌaisəu'θəːməl/`
-    - 美 `/,aɪsə'θɝml/`
+    - 英
+      - `/ˌaisəu'θəːməl/`
+    - 美
+      - `/,aɪsə'θɝml/`
   - 词义
-    - n. 等温线
+    - n.
+      - 等温线
   - 同根词
     - adj.
-      - `isothermic` 等温的；等温线的
+      - `isothermic`
+        - 等温的；等温线的
     - n.
-      - `isotherm` [气象] 等温线
+      - `isotherm`
+        - [气象] 等温线
   - 近义词
-    - n. [气象][物]等温线
-      - `choroisotherm`
+    - n.
+      - [气象][物]等温线
+        - `choroisotherm`
   - 短语
-    - `isothermal forging` 恒温锻造 
-    - `isothermal quenching` 等温淬火 
-    - `isothermal compression` 等温压缩 
-    - `isothermal condition` 等温情况；等温条件 
-    - `isothermal adsorption` 等温吸附 
-    - `isothermal transformation` 等温转变；恒温变态 
-    - `isothermal annealing` 等温退火，再结晶退火 
-    - `isothermal process` 等温过程 
+    - `isothermal forging`
+      - 恒温锻造 
+    - `isothermal quenching`
+      - 等温淬火 
+    - `isothermal compression`
+      - 等温压缩 
+    - `isothermal condition`
+      - 等温情况；等温条件 
+    - `isothermal adsorption`
+      - 等温吸附 
+    - `isothermal transformation`
+      - 等温转变；恒温变态 
+    - `isothermal annealing`
+      - 等温退火，再结晶退火 
+    - `isothermal process`
+      - 等温过程 
   - 例句
     - `This results agree with that of isothermal crystallization kinetics.`
       - 这一结果同等温结晶相一致。

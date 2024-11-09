@@ -1,12 +1,16 @@
 - pressboard
   - 发音
-    - 英 `/'presbɔːd/`
-    - 美 `/'prɛs,bord/`
+    - 英
+      - `/'presbɔːd/`
+    - 美
+      - `/'prɛs,bord/`
   - 词义
-    - n. 纸板；绝缘用合成纤维板；小熨烫板
+    - n.
+      - 纸板；绝缘用合成纤维板；小熨烫板
   - 记忆
     - press(压) + board(板) → 压出的板 → 压制板
   - 近义词
-    - n. 纸板；绝缘用合成纤维板；小熨烫板
-      - `boards`
-      - `chipboard`
+    - n.
+      - 纸板；绝缘用合成纤维板；小熨烫板
+        - `boards`
+        - `chipboard`

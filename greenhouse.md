@@ -1,20 +1,27 @@
 - greenhouse
   - 发音
-    - 英 `/'griːnhaʊs/`
-    - 美 `/'ɡrinhaʊs/`
+    - 英
+      - `/'griːnhaʊs/`
+    - 美
+      - `/'ɡrinhaʊs/`
   - 词义
-    - n. 温室,花房
-    - `a glass building used for growing plants that need warmth, light, and protection`
+    - n.
+      - 温室,花房
+        - `a glass building used for growing plants that need warmth, light, and protection`
   - 同根词
     - n.
-      - `greenery` 绿色植物；温室
+      - `greenery`
+        - 绿色植物；温室
   - 近义词
-    - n. [园艺]温室
-      - `heated housing`
-      - `glasshouse`
+    - n.
+      - [园艺]温室
+        - `heated housing`
+        - `glasshouse`
   - 短语
-    - `greenhouse gas` n. 二氧化碳、甲烷等导致温室效应的气体 
-    - `greenhouse effect` [化]温室效应 
+    - `greenhouse gas`
+      - n. 二氧化碳、甲烷等导致温室效应的气体 
+    - `greenhouse effect`
+      - [化]温室效应 
   - 例句
     - `But these two countries are responsible for almost half of all greenhouse gas emissions.`
       - 但是这两个国家的温室气体排放量几乎占了全世界的一半。

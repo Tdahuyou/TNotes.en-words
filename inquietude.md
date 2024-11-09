@@ -1,15 +1,19 @@
 - inquietude
   - 发音
-    - 英 `/ɪn'kwaɪətjuːd/`
-    - 美 `/in'kwaiətju:d/`
+    - 英
+      - `/ɪn'kwaɪətjuːd/`
+    - 美
+      - `/in'kwaiətju:d/`
   - 词义
-    - n. 不安
-    - `a feeling of anxiety`
+    - n.
+      - 不安
+        - `a feeling of anxiety`
   - 近义词
-    - n. 不安；焦虑
-      - `anxiety`
-      - `tension`
-      - `unrest`
+    - n.
+      - 不安；焦虑
+        - `anxiety`
+        - `tension`
+        - `unrest`
   - 例句
     - `Also, the apocalyptic and oracular tone provides the spectators with a glimpse of the anxiety and inquietude penetrating current Japanese society.`
       - 其天启式、神谕性的基调让观众一睹渗透整个日本社会的焦虑和不安情绪。

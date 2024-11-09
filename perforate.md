@@ -1,24 +1,32 @@
 - perforate
   - 发音
-    - 英 `/'pəːfəreit/`
-    - 美 `/'pɝfə'ret/`
+    - 英
+      - `/'pəːfəreit/`
+    - 美
+      - `/'pɝfə'ret/`
   - 词义
-    - v. 打孔
-    - `to make a hole or holes in something`
+    - v.
+      - 打孔
+        - `to make a hole or holes in something`
   - 记忆
     - per (全部) + forate ( = pierce， 刺穿) → 穿透 → 打洞
   - 同根词
     - adj.
-      - `perforated` 穿孔的；有排孔的
-      - `perfoliate` 茎贯穿叶而生长的；贯穿性的；[植] 抱茎状的
+      - `perforated`
+        - 穿孔的；有排孔的
+      - `perfoliate`
+        - 茎贯穿叶而生长的；贯穿性的；[植] 抱茎状的
     - n.
-      - `perforation` 穿孔；贯穿
+      - `perforation`
+        - 穿孔；贯穿
     - v.
-      - `perforated` 穿孔（perforate的过去分词）
+      - `perforated`
+        - 穿孔（perforate的过去分词）
   - 近义词
-    - vi. 穿过，贯穿；[古生]穿孔
-      - `move through`
-      - `go across`
+    - vi.
+      - 穿过，贯穿；[古生]穿孔
+        - `move through`
+        - `go across`
   - 例句
     - `A broken rib had perforated her lung.`
       - 一根肋骨骨折，刺穿了她的肺部。

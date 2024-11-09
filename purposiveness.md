@@ -1,14 +1,18 @@
 - purposiveness
   - 发音
-    - 英 `/'pɜːrpəsɪvnəs/`
-    - 美 `/undefined/`
+    - 英
+      - `/'pɜːrpəsɪvnəs/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 目的性
+    - n.
+      - 目的性
   - 记忆
     - 来自purpose(n. 目的)
   - 近义词
-    - n. 目的性
-      - `teleonomy`
+    - n.
+      - 目的性
+        - `teleonomy`
   - 例句
     - `The general principle of law should be involved in purposiveness, relevance and acceptability.`
       - 该原则为行政法上一般法律原则，必须具备合目的性、关联性、可接受性三大要素。

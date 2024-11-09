@@ -1,9 +1,12 @@
 - underestimated
   - 发音
-    - 英 `/ˌʌndər'estɪmeɪtɪd/`
-    - 美 `//ˌʌndərˈestɪmeɪt//`
+    - 英
+      - `/ˌʌndər'estɪmeɪtɪd/`
+    - 美
+      - `//ˌʌndərˈestɪmeɪt//`
   - 词义
-    - adj. 低估的
+    - adj.
+      - 低估的
   - 记忆
     - 来自underestimate(v. 低估)
   - 例句

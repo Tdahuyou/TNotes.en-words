@@ -1,26 +1,33 @@
 - prosecute
   - 发音
-    - 英 `/'prɑːsɪkjuːt/`
-    - 美 `/'prɑsɪ'kjʊt/`
+    - 英
+      - `/'prɑːsɪkjuːt/`
+    - 美
+      - `/'prɑsɪ'kjʊt/`
   - 词义
-    - v. 起诉，控告，检举；担任控方律师；继续从事
-    - `to charge someone with a crime and try to show that they are guilty of it in a court of law`
+    - v.
+      - 起诉，控告，检举；担任控方律师；继续从事
+        - `to charge someone with a crime and try to show that they are guilty of it in a court of law`
   - 记忆
     - pro(在…前面) + secut(跟随) + e → 在大家采取行动前跟随 → 事先追踪行迹 → 起诉
   - 同根词
     - n.
-      - `prosecution` 起诉，检举；进行；经营
-      - `prosecutor` 检察官；公诉人；[法] 起诉人；实行者
+      - `prosecution`
+        - 起诉，检举；进行；经营
+      - `prosecutor`
+        - 检察官；公诉人；[法] 起诉人；实行者
   - 近义词
-    - vt. 检举；贯彻；从事；依法进行
-      - `carry out`
-      - `undertake`
-      - `pursue`
-      - `address`
-      - `have`
-    - vi. 起诉；告发；作检察官
-      - `law`
-      - `take legal action`
+    - vt.
+      - 检举；贯彻；从事；依法进行
+        - `carry out`
+        - `undertake`
+        - `pursue`
+        - `address`
+        - `have`
+    - vi.
+      - 起诉；告发；作检察官
+        - `law`
+        - `take legal action`
   - 例句
     - `Shoplifters will be prosecuted.`
       - 在商店行窃者将被起诉。

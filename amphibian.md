@@ -1,19 +1,25 @@
 - amphibian
   - 发音
-    - 英 `/æm'fɪbɪən/`
-    - 美 `/æm'fɪbɪən/`
+    - 英
+      - `/æm'fɪbɪən/`
+    - 美
+      - `/æm'fɪbɪən/`
   - 词义
-    - n. 两栖动物
-    - `an animal such as a  frog  that can live both on land and in water`
+    - n.
+      - 两栖动物
+        - `an animal such as a  frog  that can live both on land and in water`
   - 同根词
     - adj.
-      - `amphibious` [生物] 两栖的，水陆两用的；具有双重性的
+      - `amphibious`
+        - [生物] 两栖的，水陆两用的；具有双重性的
     - n.
-      - `amphibia` 两栖类，两栖纲
+      - `amphibia`
+        - 两栖类，两栖纲
   - 近义词
-    - n. [脊椎]两栖动物；[车辆]水陆两用飞机；具有双重性格的人
-      - `Batrachia`
-      - `amphibious plane`
+    - n.
+      - [脊椎]两栖动物；[车辆]水陆两用飞机；具有双重性格的人
+        - `Batrachia`
+        - `amphibious plane`
   - 例句
     - `At first this amphibian deals with the cooler days by burying itself in the soil.`
       - 起初，天气乍凉的时候，这种两栖动物将自己埋在土壤里。

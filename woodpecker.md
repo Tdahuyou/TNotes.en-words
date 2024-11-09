@@ -1,15 +1,19 @@
 - woodpecker
   - 发音
-    - 英 `/'wʊdpekə/`
-    - 美 `/'wʊdpɛkɚ/`
+    - 英
+      - `/'wʊdpekə/`
+    - 美
+      - `/'wʊdpɛkɚ/`
   - 词义
-    - n. [鸟]啄木鸟
-    - `a bird with a long beak that it uses to make holes in trees`
+    - n.
+      - [鸟]啄木鸟
+        - `a bird with a long beak that it uses to make holes in trees`
   - 近义词
-    - n. [鸟]啄木鸟
-      - `peckerwood`
-      - `Marc Dorcel`
-      - `hickwall`
+    - n.
+      - [鸟]啄木鸟
+        - `peckerwood`
+        - `Marc Dorcel`
+        - `hickwall`
   - 例句
     - `A woodcutter and a woodpecker lived in the forest.`
       - 森林里居住着一个樵夫和一个啄木鸟。

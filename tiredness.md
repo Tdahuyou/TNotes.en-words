@@ -1,30 +1,44 @@
 - tiredness
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 疲劳,疲倦
+    - n.
+      - 疲劳,疲倦
   - 同根词
     - adj.
-      - `tired` 疲倦的；厌倦的，厌烦的
-      - `tiring` 累人的；麻烦的；无聊的；引起疲劳的
-      - `tireless` 不知疲倦的；不疲劳的
+      - `tired`
+        - 疲倦的；厌倦的，厌烦的
+      - `tiring`
+        - 累人的；麻烦的；无聊的；引起疲劳的
+      - `tireless`
+        - 不知疲倦的；不疲劳的
     - adv.
-      - `tirelessly` 不知疲倦地；不屈不挠地
-      - `tiresomely` 令人厌倦地；累人地
+      - `tirelessly`
+        - 不知疲倦地；不屈不挠地
+      - `tiresomely`
+        - 令人厌倦地；累人地
     - n.
-      - `tire` 轮胎；头饰
+      - `tire`
+        - 轮胎；头饰
     - v.
-      - `tired` 疲倦；对…腻烦（tire的过去分词形式）
-      - `tiring` 厌倦；使劳累（tire的ing形式）；感到疲倦
+      - `tired`
+        - 疲倦；对…腻烦（tire的过去分词形式）
+      - `tiring`
+        - 厌倦；使劳累（tire的ing形式）；感到疲倦
     - vi.
-      - `tire` 疲劳；厌倦
+      - `tire`
+        - 疲劳；厌倦
     - vt.
-      - `tire` 使…疲倦；使…厌烦
+      - `tire`
+        - 使…疲倦；使…厌烦
   - 近义词
-    - n. 疲劳；疲倦
-      - `fatigue`
-      - `weariness`
+    - n.
+      - 疲劳；疲倦
+        - `fatigue`
+        - `weariness`
   - 例句
     - `Her arm muscles have knotted with tiredness.`
       - 她手臂的肌肉由于疲劳而突出出来。

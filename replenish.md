@@ -1,19 +1,24 @@
 - replenish
   - 发音
-    - 英 `/rɪ'plenɪʃ/`
-    - 美 `/rɪ'plɛnɪʃ/`
+    - 英
+      - `/rɪ'plenɪʃ/`
+    - 美
+      - `/rɪ'plɛnɪʃ/`
   - 词义
-    - vt. 添加，补充
-    - `to put new supplies into something, or to fill something again`
+    - vt.
+      - 添加，补充
+        - `to put new supplies into something, or to fill something again`
   - 记忆
     - re(再， 又) + plen(填满) + ish → 添加， 补充
   - 同根词
     - n.
-      - `replenishment` 补充，补给
+      - `replenishment`
+        - 补充，补给
   - 近义词
-    - vt. 补充，再装满；把…装满；给…添加燃料
-      - `supply`
-      - `to supplement`
+    - vt.
+      - 补充，再装满；把…装满；给…添加燃料
+        - `supply`
+        - `to supplement`
   - 例句
     - `More vaccines are needed to replenish our stocks.`
       - 还需要更多的疫苗来补充我们的储备。

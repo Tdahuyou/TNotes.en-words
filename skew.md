@@ -1,26 +1,37 @@
 - skew
   - 发音
-    - 英 `/skjuː/`
-    - 美 `/skju/`
+    - 英
+      - `/skjuː/`
+    - 美
+      - `/skju/`
   - 词义
-    - adj. 歪斜的
-    - vt. 使偏；曲解
-    - `if something skews the results of a test etc, it affects them, making them incorrect`
+    - adj.
+      - 歪斜的
+    - vt.
+      - 使偏；曲解
+        - `if something skews the results of a test etc, it affects them, making them incorrect`
   - 同根词
     - adj.
-      - `skewed` 歪斜的；曲解的
+      - `skewed`
+        - 歪斜的；曲解的
     - n.
-      - `skewness` 歪斜
+      - `skewness`
+        - 歪斜
   - 近义词
-    - n. 斜交；[计]歪斜
-      - `heterotropic`
-      - `obliqueness`
-    - adj. 斜交的；[计]歪斜的
-      - `wobbly`
+    - n.
+      - 斜交；[计]歪斜
+        - `heterotropic`
+        - `obliqueness`
+    - adj.
+      - 斜交的；[计]歪斜的
+        - `wobbly`
   - 短语
-    - `clock skew` [计]时钟歪斜；时钟脉冲相位差 
-    - `skew bridge` [建]斜交桥（与河堤斜交的桥） 
-    - `skew angle` 倾斜角；斜交角 
+    - `clock skew`
+      - [计]时钟歪斜；时钟脉冲相位差 
+    - `skew bridge`
+      - [建]斜交桥（与河堤斜交的桥） 
+    - `skew angle`
+      - 倾斜角；斜交角 
   - 例句
     - `However there is some notable right skew.`
       - 但是有一个非常显著的右歪斜。

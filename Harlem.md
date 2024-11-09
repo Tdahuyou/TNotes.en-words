@@ -1,11 +1,15 @@
 - Harlem
   - 发音
-    - 英 `/'hɑləm/`
-    - 美 `/'hɑləm/`
+    - 英
+      - `/'hɑləm/`
+    - 美
+      - `/'hɑləm/`
   - 词义
-    - n. (纽约的）黑人住宅区
+    - n.
+      - (纽约的）黑人住宅区
   - 短语
-    - `harlem renaissance` 哈莱姆文艺复兴 
+    - `harlem renaissance`
+      - 哈莱姆文艺复兴 
   - 例句
     - `It was winter, and I was in Harlem.`
       - 这是一个冬天，我是在黑人住宅区。

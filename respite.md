@@ -1,16 +1,21 @@
 - respite
   - 发音
-    - 英 `/'respit/`
-    - 美 `/'rɛspɪt/`
+    - 英
+      - `/'respit/`
+    - 美
+      - `/'rɛspɪt/`
   - 词义
-    - v. 暂缓
+    - v.
+      - 暂缓
   - 记忆
     - re (一再) + spite (烦扰) → 一拖再拖， 一再烦扰 → 暂缓
   - 近义词
-    - n. 缓解；暂缓；暂时的休息；[法]缓期执行
-      - `remission`
-    - vt. 使缓解；使暂缓；使延期；[法]缓期执行
-      - `stay of execution`
+    - n.
+      - 缓解；暂缓；暂时的休息；[法]缓期执行
+        - `remission`
+    - vt.
+      - 使缓解；使暂缓；使延期；[法]缓期执行
+        - `stay of execution`
   - 例句
     - `There was no respite from the suffocating heat.`
       - 闷热的天气根本没有缓解。

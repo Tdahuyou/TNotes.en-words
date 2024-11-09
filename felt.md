@@ -1,30 +1,43 @@
 - felt
   - 发音
-    - 英 `/felt/`
-    - 美 `/fɛlt/`
+    - 英
+      - `/felt/`
+    - 美
+      - `/fɛlt/`
   - 词义
   - 同根词
     - adj.
-      - `feeling` 有感觉的；有同情心的；富于感情的
+      - `feeling`
+        - 有感觉的；有同情心的；富于感情的
     - adv.
-      - `feelingly` 感动地，充满感情地；衷心地
+      - `feelingly`
+        - 感动地，充满感情地；衷心地
     - n.
-      - `feel` 感觉；触摸
-      - `feeling` 感觉，触觉；感情，情绪；同情
+      - `feel`
+        - 感觉；触摸
+      - `feeling`
+        - 感觉，触觉；感情，情绪；同情
     - v.
-      - `feeling` 感觉；认为（feel的现在分词）；触摸
+      - `feeling`
+        - 感觉；认为（feel的现在分词）；触摸
     - vi.
-      - `feel` 觉得；摸索
+      - `feel`
+        - 觉得；摸索
     - vt.
-      - `feel` 感觉；认为；触摸；试探
+      - `feel`
+        - 感觉；认为；触摸；试探
   - 近义词
-    - n. 毡；[纺]毡制品
-      - `velour`
-    - v. 感觉（feel的过去式）
-      - `sensed`
+    - n.
+      - 毡；[纺]毡制品
+        - `velour`
+    - v.
+      - 感觉（feel的过去式）
+        - `sensed`
   - 短语
-    - `asphalt felt` 油毡纸；沥青毡 
-    - `wool felt` 羊毛毡 
+    - `asphalt felt`
+      - 油毡纸；沥青毡 
+    - `wool felt`
+      - 羊毛毡 
   - 例句
     - `He felt the press of modern life.`
       - 他感觉到现代生活的压力。

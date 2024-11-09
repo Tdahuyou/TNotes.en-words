@@ -1,32 +1,46 @@
 - embryo
   - 发音
-    - 英 `/'embriou/`
-    - 美 `/'ɛmbrɪo/`
+    - 英
+      - `/'embriou/`
+    - 美
+      - `/'ɛmbrɪo/`
   - 词义
-    - n. 胚，胚胎；雏形
-    - `an animal or human that has not yet been born, and has just begun to develop`
+    - n.
+      - 胚，胚胎；雏形
+        - `an animal or human that has not yet been born, and has just begun to develop`
   - 记忆
     - em + bryo(变大) → 种子等变大 → 胚胎
   - 同根词
     - adj.
-      - `embryonic` [胚] 胚胎的；似胚胎的
-      - `embryonal` 胚的；胚芽的
+      - `embryonic`
+        - [胚] 胚胎的；似胚胎的
+      - `embryonal`
+        - 胚的；胚芽的
     - n.
-      - `embryology` [胚] 胚胎学
+      - `embryology`
+        - [胚] 胚胎学
   - 近义词
-    - n. [胚]胚胎；胚芽；初期
-      - `morning`
-      - `prime`
-    - adj. [胚]胚胎的；初期的
-      - `earlier`
-      - `young`
+    - n.
+      - [胚]胚胎；胚芽；初期
+        - `morning`
+        - `prime`
+    - adj.
+      - [胚]胚胎的；初期的
+        - `earlier`
+        - `young`
   - 短语
-    - `embryo transfer` 胚胎移植；胚胎转移；胚胎植入 
-    - `in embryo` 未发展的；在筹划中的；在萌芽时期的 
-    - `embryo sac` 胚囊 
-    - `embryo culture` 胚培养，胚胎培养 
-    - `mature embryo` 成熟胚 
-    - `somatic embryo` 体细胞胚 
+    - `embryo transfer`
+      - 胚胎移植；胚胎转移；胚胎植入 
+    - `in embryo`
+      - 未发展的；在筹划中的；在萌芽时期的 
+    - `embryo sac`
+      - 胚囊 
+    - `embryo culture`
+      - 胚培养，胚胎培养 
+    - `mature embryo`
+      - 成熟胚 
+    - `somatic embryo`
+      - 体细胞胚 
   - 例句
     - `The system already exists in embryo.`
       - 该体系已具雏形。

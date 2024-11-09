@@ -1,18 +1,24 @@
 - inculpate
   - 发音
-    - 英 `/'ɪnkʌlpeɪt/`
-    - 美 `/'inkʌlpeit/`
+    - 英
+      - `/'ɪnkʌlpeɪt/`
+    - 美
+      - `/'inkʌlpeit/`
   - 词义
-    - v. 控告；归咎于
-    - `to incriminate; cause blame to be imputed to `
+    - v.
+      - 控告；归咎于
+        - `to incriminate; cause blame to be imputed to `
   - 记忆
     - in(使) + culp(错， 罪) + ate → 使(别人)有罪 → 控告
   - 同根词
     - adj.
-      - `inculpatory` 使人负罪的；责难的
+      - `inculpatory`
+        - 使人负罪的；责难的
     - n.
-      - `inculpation` 连累；归罪；责难
+      - `inculpation`
+        - 连累；归罪；责难
   - 近义词
-    - vt. 使连累；使负罪；控告
-      - `law`
-      - `sue for`
+    - vt.
+      - 使连累；使负罪；控告
+        - `law`
+        - `sue for`

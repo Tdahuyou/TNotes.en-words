@@ -1,11 +1,15 @@
 - purblind
   - 发音
-    - 英 `/'pɜːblaɪnd/`
-    - 美 `/'pɝ,blaɪnd/`
+    - 英
+      - `/'pɜːblaɪnd/`
+    - 美
+      - `/'pɝ,blaɪnd/`
   - 词义
-    - adj. 半盲的,惺松眼的,迟钝的
-    - `partly or nearly blind `
+    - adj.
+      - 半盲的,惺松眼的,迟钝的
+        - `partly or nearly blind `
   - 近义词
-    - adj. 半盲的；愚钝的；惺松眼的
-      - `dense`
-      - `crass`
+    - adj.
+      - 半盲的；愚钝的；惺松眼的
+        - `dense`
+        - `crass`

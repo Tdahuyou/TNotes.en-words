@@ -1,27 +1,37 @@
 - multinational
   - 发音
-    - 英 `/mʌltɪ'næʃ(ə)n(ə)l/`
-    - 美 `/,mʌltɪ'næʃnəl/`
+    - 英
+      - `/mʌltɪ'næʃ(ə)n(ə)l/`
+    - 美
+      - `/,mʌltɪ'næʃnəl/`
   - 词义
-    - adj. 跨国公司的；多国的
-    - `a multinational company has factories, offices, and business activities in many different countries`
-    - n. 跨国公司
-    - `a large company that has offices, factories etc in many different countries`
+    - adj.
+      - 跨国公司的；多国的
+        - `a multinational company has factories, offices, and business activities in many different countries`
+    - n.
+      - 跨国公司
+        - `a large company that has offices, factories etc in many different countries`
   - 同根词
     - adj.
-      - `multilateral` [数] 多边的；多国的，多国参加的
-      - `multipartite` 多歧的；多国参加的；分成多部分的
+      - `multilateral`
+        - [数] 多边的；多国的，多国参加的
+      - `multipartite`
+        - 多歧的；多国参加的；分成多部分的
   - 近义词
-    - n. 跨国公司
-      - `transnational corporation`
-      - `international corporation`
-      - `transnational company`
-      - `transnational coorporation`
-      - `worldwide corporation`
+    - n.
+      - 跨国公司
+        - `transnational corporation`
+        - `international corporation`
+        - `transnational company`
+        - `transnational coorporation`
+        - `worldwide corporation`
   - 短语
-    - `multinational company` 多国公司 
-    - `multinational corporation` 跨国公司 
-    - `multinational enterprise` 跨国公司 
+    - `multinational company`
+      - 多国公司 
+    - `multinational corporation`
+      - 跨国公司 
+    - `multinational enterprise`
+      - 跨国公司 
   - 例句
     - `a multinational media corporation`
       - 跨国传媒公司

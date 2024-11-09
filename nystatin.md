@@ -1,13 +1,17 @@
 - nystatin
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. [微]制霉菌素
-    - `an antibiotic obtained from the bacterium Streptomyces noursei: used in the treatment of infections caused by certain fungi, esp Candida albicans `
+    - n.
+      - [微]制霉菌素
+        - `an antibiotic obtained from the bacterium Streptomyces noursei: used in the treatment of infections caused by certain fungi, esp Candida albicans `
   - 近义词
-    - n. [药]制真菌素，制霉菌素
-      - `fungicidin`
+    - n.
+      - [药]制真菌素，制霉菌素
+        - `fungicidin`
   - 例句
     - `Localised disease may be treated at first with relatively inexpensive drugs such as nystatin, miconazole or clotrimazole.`
       - 治疗局部感染可先使用较为便宜的药物，如制霉菌素、咪康唑或克霉唑等。

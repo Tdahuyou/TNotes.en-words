@@ -1,29 +1,42 @@
 - strange
   - 发音
-    - 英 `/streɪndʒ/`
-    - 美 `/strendʒ/`
+    - 英
+      - `/streɪndʒ/`
+    - 美
+      - `/strendʒ/`
   - 词义
-    - adj. 奇怪的
-    - `unusual or surprising, especially in a way that is difficult to explain or understand`
+    - adj.
+      - 奇怪的
+        - `unusual or surprising, especially in a way that is difficult to explain or understand`
   - 同根词
     - adv.
-      - `strangely` 奇怪地；奇妙地；不可思议地
+      - `strangely`
+        - 奇怪地；奇妙地；不可思议地
     - n.
-      - `stranger` 陌生人；外地人；局外人
-      - `strangeness` 陌生；冷淡；[高能] 奇异性
+      - `stranger`
+        - 陌生人；外地人；局外人
+      - `strangeness`
+        - 陌生；冷淡；[高能] 奇异性
   - 近义词
-    - adj. 奇怪的；陌生的；外行的
-      - `unknown`
-      - `lay`
-    - adv. 奇怪地；陌生地，冷淡地
-      - `queerly`
-      - `anticly`
+    - adj.
+      - 奇怪的；陌生的；外行的
+        - `unknown`
+        - `lay`
+    - adv.
+      - 奇怪地；陌生地，冷淡地
+        - `queerly`
+        - `anticly`
   - 短语
-    - `feel strange` 感到不舒服 
-    - `strange to say` 说来奇怪 
-    - `look strange` ◎显得奇怪，显得不寻常 
-    - `make strange` [主方言]表现得不友好，表现得令人吃惊 
-    - `strange attractor` 奇异吸引体 
+    - `feel strange`
+      - 感到不舒服 
+    - `strange to say`
+      - 说来奇怪 
+    - `look strange`
+      - ◎显得奇怪，显得不寻常 
+    - `make strange`
+      - [主方言]表现得不友好，表现得令人吃惊 
+    - `strange attractor`
+      - 奇异吸引体 
   - 例句
     - `strange noises`
       - 奇怪的噪声

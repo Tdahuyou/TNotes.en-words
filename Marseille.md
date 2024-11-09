@@ -1,10 +1,13 @@
 - Marseille
   - 发音
-    - 英 `/ma:'seil/`
-    - 美 `/ma:'seil/`
+    - 英
+      - `/ma:'seil/`
+    - 美
+      - `/ma:'seil/`
   - 词义
-    - n. 马赛(法国港口城市)
-    - `a strong cotton fabric with a raised pattern, used for bedspreads, etc `
+    - n.
+      - 马赛(法国港口城市)
+        - `a strong cotton fabric with a raised pattern, used for bedspreads, etc `
   - 例句
     - `It is believed the girl lives in Marseille and was travelling with her mother to the Comoros.`
       - 确信这名小女孩住在马赛勒正准备和她妈妈一起到科摩罗斯旅行。

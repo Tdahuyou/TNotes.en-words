@@ -1,22 +1,29 @@
 - tawdry
   - 发音
-    - 英 `/'tɔːdri/`
-    - 美 `/'tɔdri/`
+    - 英
+      - `/'tɔːdri/`
+    - 美
+      - `/'tɔdri/`
   - 词义
-    - adj. 俗丽的；花哨而庸俗的
-    - `If you describe something such as clothes or decorations as tawdry, you mean that they are cheap and show a lack of taste`
+    - adj.
+      - 俗丽的；花哨而庸俗的
+        - `If you describe something such as clothes or decorations as tawdry, you mean that they are cheap and show a lack of taste`
   - 记忆
     - taw (看作raw， 生的) + dry (干的) → 仔细推敲有些华丽的辞藻， 会发现它们很干巴、 生硬 → 俗丽的
   - 同根词
     - adv.
-      - `tawdrily` 俗丽地
+      - `tawdrily`
+        - 俗丽地
     - n.
-      - `tawdriness` 俗丽而不值钱；庸俗
+      - `tawdriness`
+        - 俗丽而不值钱；庸俗
   - 近义词
-    - adj. 非常华丽的；廉价而俗丽的
-      - `brummagem`
-    - n. 俗丽的东西；廉价而俗丽之物
-      - `tinsel`
+    - adj.
+      - 非常华丽的；廉价而俗丽的
+        - `brummagem`
+    - n.
+      - 俗丽的东西；廉价而俗丽之物
+        - `tinsel`
   - 例句
     - `...tawdry jewellery.`
       - ... 廉价而俗丽的珠宝。

@@ -1,19 +1,27 @@
 - among
   - 发音
-    - 英 `/ə'mʌŋ/`
-    - 美 `/ə'mʌŋ/`
+    - 英
+      - `/ə'mʌŋ/`
+    - 美
+      - `/ə'mʌŋ/`
   - 词义
-    - prep. 在⋯⋯之中
-    - `used to talk about a particular person, thing, or group as belonging to a larger group`
+    - prep.
+      - 在⋯⋯之中
+        - `used to talk about a particular person, thing, or group as belonging to a larger group`
   - 近义词
-    - prep. 在…中间；在…之中
-      - `in the middle of`
-      - `in the midst of`
+    - prep.
+      - 在…中间；在…之中
+        - `in the middle of`
+        - `in the midst of`
   - 短语
-    - `from among` 从…中间；从…当中 
-    - `among others` 其中；尤其；除了别的之外 
-    - `among the rest` adv. 在其中 
-    - `among the number` 在其中，包括在内 
+    - `from among`
+      - 从…中间；从…当中 
+    - `among others`
+      - 其中；尤其；除了别的之外 
+    - `among the rest`
+      - adv. 在其中 
+    - `among the number`
+      - 在其中，包括在内 
   - 例句
     - `She was the eldest among them.`
       - 她是他们当中年纪最大的。

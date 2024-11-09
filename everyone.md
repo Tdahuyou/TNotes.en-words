@@ -1,15 +1,19 @@
 - everyone
   - 发音
-    - 英 `/'evrɪwʌn/`
-    - 美 `/'ɛvrɪwʌn/`
+    - 英
+      - `/'evrɪwʌn/`
+    - 美
+      - `/'ɛvrɪwʌn/`
   - 词义
-    - pron. 大家；每人
-    - `every person`
+    - pron.
+      - 大家；每人
+        - `every person`
   - 近义词
-    - n. 每个人
-      - `each one`
-      - `everybody (a term of address)`
-      - `Every Body`
+    - n.
+      - 每个人
+        - `each one`
+        - `everybody (a term of address)`
+        - `Every Body`
   - 例句
     - `If everyone is ready, I’ll begin.`
       - 如果大家都准备好了，我就开始。

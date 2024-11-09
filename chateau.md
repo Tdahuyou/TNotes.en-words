@@ -1,14 +1,18 @@
 - chateau
   - 发音
-    - 英 `/'ʃætəʊ/`
-    - 美 `/ʃæ'to/`
+    - 英
+      - `/'ʃætəʊ/`
+    - 美
+      - `/ʃæ'to/`
   - 词义
-    - n. 城堡
-    - `a castle or large country house in France`
+    - n.
+      - 城堡
+        - `a castle or large country house in France`
   - 近义词
-    - n. （法国封建时代的）城堡；（尤指法国的）别墅
-      - `villa`
-      - `castle`
+    - n.
+      - （法国封建时代的）城堡；（尤指法国的）别墅
+        - `villa`
+        - `castle`
   - 例句
     - `I followed him to this island chateau where he's holding a party.`
       - 我跟踪他来到这座岛上城堡。他将在这里举办宴会。

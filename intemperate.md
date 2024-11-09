@@ -1,17 +1,22 @@
 - intemperate
   - 发音
-    - 英 `/ɪn'temp(ə)rət/`
-    - 美 `/ɪn'tɛmpərət/`
+    - 英
+      - `/ɪn'temp(ə)rət/`
+    - 美
+      - `/ɪn'tɛmpərət/`
   - 词义
-    - adj. 放纵的
-    - `intemperate language or behaviour shows a lack of control, which other people think is unacceptable`
+    - adj.
+      - 放纵的
+        - `intemperate language or behaviour shows a lack of control, which other people think is unacceptable`
   - 同根词
     - n.
-      - `intemperance` 不节制；酗酒；过度
+      - `intemperance`
+        - 不节制；酗酒；过度
   - 近义词
-    - adj. 放纵的；酗酒的；酷烈的
-      - `luxurious`
-      - `indulgent`
+    - adj.
+      - 放纵的；酗酒的；酷烈的
+        - `luxurious`
+        - `indulgent`
   - 例句
     - `the judge’s intemperate outburst`
       - 裁判员的情绪失控

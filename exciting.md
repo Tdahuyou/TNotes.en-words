@@ -1,45 +1,70 @@
 - exciting
   - 发音
-    - 英 `/ɪk'saɪtɪŋ; ek-/`
-    - 美 `/ɪk'saɪtɪŋ/`
+    - 英
+      - `/ɪk'saɪtɪŋ; ek-/`
+    - 美
+      - `/ɪk'saɪtɪŋ/`
   - 词义
-    - adj. 令人激动的；使人兴奋的
-    - `making you feel excited`
+    - adj.
+      - 令人激动的；使人兴奋的
+        - `making you feel excited`
   - 同根词
     - adj.
-      - `excited` 兴奋的；激动的；活跃的
-      - `excitable` 易激动的；易兴奋的；易怒的
-      - `excitatory` 兴奋的；刺激性的
-      - `excitant` 刺激性的；使兴奋的
-      - `excitative` 有刺激性的；激发的
+      - `excited`
+        - 兴奋的；激动的；活跃的
+      - `excitable`
+        - 易激动的；易兴奋的；易怒的
+      - `excitatory`
+        - 兴奋的；刺激性的
+      - `excitant`
+        - 刺激性的；使兴奋的
+      - `excitative`
+        - 有刺激性的；激发的
     - adv.
-      - `excitedly` 兴奋地；激动地
-      - `excitingly` 刺激地；振奋人心地
+      - `excitedly`
+        - 兴奋地；激动地
+      - `excitingly`
+        - 刺激地；振奋人心地
     - n.
-      - `excitement` 兴奋；刺激；令人兴奋的事物
-      - `excitation` 激发，刺激；激励；激动
-      - `excitability` [生理] 兴奋性，应激性；可激发性
-      - `excitant` [药] 兴奋剂；刺激物
+      - `excitement`
+        - 兴奋；刺激；令人兴奋的事物
+      - `excitation`
+        - 激发，刺激；激励；激动
+      - `excitability`
+        - [生理] 兴奋性，应激性；可激发性
+      - `excitant`
+        - [药] 兴奋剂；刺激物
     - v.
-      - `excited` 激动；唤起（excite的过去分词）
+      - `excited`
+        - 激动；唤起（excite的过去分词）
     - vi.
-      - `excite` 激动
+      - `excite`
+        - 激动
     - vt.
-      - `excite` 激起；刺激…，使…兴奋
+      - `excite`
+        - 激起；刺激…，使…兴奋
   - 近义词
-    - adj. 令人兴奋的；使人激动的
-      - `infusive`
-      - `thrilling`
-    - v. 激动；刺激（excite的ing形式）；唤起
-      - `motivating`
-      - `stimulating`
+    - adj.
+      - 令人兴奋的；使人激动的
+        - `infusive`
+        - `thrilling`
+    - v.
+      - 激动；刺激（excite的ing形式）；唤起
+        - `motivating`
+        - `stimulating`
   - 短语
-    - `exciting force` 激发力 
-    - `exciting experience` 一次刺激的旅行 
-    - `exciting current` 励磁电流；[电]激磁电流 
-    - `exciting winding` 励磁绕组；激励线圈 
-    - `exciting field` 激磁场；励磁场 
-    - `exciting light` 激发光；激励光；激活光 
+    - `exciting force`
+      - 激发力 
+    - `exciting experience`
+      - 一次刺激的旅行 
+    - `exciting current`
+      - 励磁电流；[电]激磁电流 
+    - `exciting winding`
+      - 励磁绕组；激励线圈 
+    - `exciting field`
+      - 激磁场；励磁场 
+    - `exciting light`
+      - 激发光；激励光；激活光 
   - 例句
     - `an exciting discovery`
       - 激动人心的发现

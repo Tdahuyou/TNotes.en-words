@@ -1,18 +1,26 @@
 - heath
   - 发音
-    - 英 `/hiːθ/`
-    - 美 `/hiθ/`
+    - 英
+      - `/hiːθ/`
+    - 美
+      - `/hiθ/`
   - 词义
-    - n. 石南，石南植物；荒野
-    - `an area of open land where grass, bushes, and other small plants grow, especially in Britain`
-    - adj. 杜鹃花科木本植物的
+    - n.
+      - 石南，石南植物；荒野
+        - `an area of open land where grass, bushes, and other small plants grow, especially in Britain`
+    - adj.
+      - 杜鹃花科木本植物的
   - 同根词
     - adj.
-      - `heather` 杂色的；似石南的
+      - `heather`
+        - 杂色的；似石南的
     - n.
-      - `heather` 石南属植物
-      - `heathland` （英）欧石南丛生的荒野
+      - `heather`
+        - 石南属植物
+      - `heathland`
+        - （英）欧石南丛生的荒野
   - 近义词
-    - n. 石南，石南植物；荒野
-      - `wild`
-      - `briar`
+    - n.
+      - 石南，石南植物；荒野
+        - `wild`
+        - `briar`

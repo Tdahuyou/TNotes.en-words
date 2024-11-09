@@ -1,20 +1,27 @@
 - encyclopedia
   - 发音
-    - 英 `/ɪnˌsaɪkləˈpiːdiə/`
-    - 美 `/ɪnˌsaɪkləˈpidiɚ/`
+    - 英
+      - `/ɪnˌsaɪkləˈpiːdiə/`
+    - 美
+      - `/ɪnˌsaɪkləˈpidiɚ/`
   - 词义
-    - n. 百科全书
-    - `a book or cd, or a set of these, containing facts about many different subjects, or containing detailed facts about one subject`
+    - n.
+      - 百科全书
+        - `a book or cd, or a set of these, containing facts about many different subjects, or containing detailed facts about one subject`
   - 同根词
     - adj.
-      - `encyclopaedic` 百科全书的；广博的；如百科辞典的
+      - `encyclopaedic`
+        - 百科全书的；广博的；如百科辞典的
     - n.
-      - `encyclopedism` 百科全书的知识；广博知识
+      - `encyclopedism`
+        - 百科全书的知识；广博知识
   - 近义词
-    - n. 百科全书
-      - `cyclopaedia`
+    - n.
+      - 百科全书
+        - `cyclopaedia`
   - 短语
-    - `encyclopedia britannica` 大英百科全书 
+    - `encyclopedia britannica`
+      - 大英百科全书 
   - 例句
     - `the Encyclopedia of Music`
       - 音乐百科全书

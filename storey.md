@@ -1,16 +1,21 @@
 - storey
   - 发音
-    - 英 `/'stɔːrɪ/`
-    - 美 `/'stɔri/`
+    - 英
+      - `/'stɔːrɪ/`
+    - 美
+      - `/'stɔri/`
   - 词义
-    - n. [建]楼层；叠架的一层
-    - `a floor or level of a building`
+    - n.
+      - [建]楼层；叠架的一层
+        - `a floor or level of a building`
   - 同根词
     - adj.
-      - `storeyed` 有…层楼的
+      - `storeyed`
+        - 有…层楼的
   - 近义词
-    - n. [建]楼层；叠架的一层
-      - `floor`
+    - n.
+      - [建]楼层；叠架的一层
+        - `floor`
   - 例句
     - `A staircase leads to the upper storey .`
       - 有一段楼梯通往上面一层。

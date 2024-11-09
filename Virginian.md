@@ -1,9 +1,12 @@
 - Virginian
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 弗吉尼亚州的人
+    - n.
+      - 弗吉尼亚州的人
   - 例句
     - `He was Robert E. Lee. Lee was a Virginian and had served in the United States army for more than thirty years.`
       - 李是维吉尼亚人，他在美国军队中服役已有三十多年时间。

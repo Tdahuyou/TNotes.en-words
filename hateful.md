@@ -1,25 +1,35 @@
 - hateful
   - 发音
-    - 英 `/'heɪtfʊl; -f(ə)l/`
-    - 美 `/'hetfəl/`
+    - 英
+      - `/'heɪtfʊl; -f(ə)l/`
+    - 美
+      - `/'hetfəl/`
   - 词义
-    - adj. 可憎的；可恨的；可恶的
-    - `very bad, unpleasant, or unkind`
+    - adj.
+      - 可憎的；可恨的；可恶的
+        - `very bad, unpleasant, or unkind`
   - 同根词
     - adv.
-      - `hatefully` 可憎地；憎恨地
+      - `hatefully`
+        - 可憎地；憎恨地
     - n.
-      - `hate` 憎恨；反感
-      - `hater` 怀恨者
-      - `hatefulness` 可恶
+      - `hate`
+        - 憎恨；反感
+      - `hater`
+        - 怀恨者
+      - `hatefulness`
+        - 可恶
     - vi.
-      - `hate` 仇恨
+      - `hate`
+        - 仇恨
     - vt.
-      - `hate` 憎恨；厌恶；遗憾
+      - `hate`
+        - 憎恨；厌恶；遗憾
   - 近义词
-    - adj. 可憎的；可恨的；可恶的
-      - `detestable`
-      - `blanky`
+    - adj.
+      - 可憎的；可恨的；可恶的
+        - `detestable`
+        - `blanky`
   - 例句
     - `It was all the fault of that hateful man!`
       - 都是那个可恶的人造的孽！

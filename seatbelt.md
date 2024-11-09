@@ -1,9 +1,12 @@
 - seatbelt
   - 发音
-    - 英 `/si:tbelt/`
-    - 美 `/si:tbelt/`
+    - 英
+      - `/si:tbelt/`
+    - 美
+      - `/si:tbelt/`
   - 词义
-    - n. 座位安全带
+    - n.
+      - 座位安全带
   - 例句
     - `Data typically collected includes speed at time of impact, steering angle, whether brakes were applied, and seatbelt usage during the crash.`
       - 主要收集的数据包括受到影响时的速度，方向盘角度，是否踩了刹车，以及撞车时安全带使用情况。

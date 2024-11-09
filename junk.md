@@ -1,30 +1,41 @@
 - junk
   - 发音
-    - 英 `/dʒʌŋk/`
-    - 美 `/dʒʌŋk/`
+    - 英
+      - `/dʒʌŋk/`
+    - 美
+      - `/dʒʌŋk/`
   - 词义
-    - n. 垃圾；废旧杂物
-    - `old or unwanted objects that have no use or value`
+    - n.
+      - 垃圾；废旧杂物
+        - `old or unwanted objects that have no use or value`
   - 记忆
     - junk mail(垃圾邮件)
   - 同根词
     - adj.
-      - `junky` 无价值的；质量低劣的
+      - `junky`
+        - 无价值的；质量低劣的
     - n.
-      - `junky` 吸毒者；毒品贩子；废旧品商人
+      - `junky`
+        - 吸毒者；毒品贩子；废旧品商人
   - 近义词
-    - n. 垃圾，废物；[船]舢板
-      - `refuse`
-      - `garbage`
-      - `waste`
-      - `rubbish`
-      - `trash`
+    - n.
+      - 垃圾，废物；[船]舢板
+        - `refuse`
+        - `garbage`
+        - `waste`
+        - `rubbish`
+        - `trash`
   - 短语
-    - `junk food` 垃圾食物；无营养的速食；华而不实的东西 
-    - `junk mail` n. （美）垃圾邮件；邮寄宣传品 
-    - `space junk` 太空垃圾，空间垃圾 
-    - `junk bond` 垃圾债券；价格低但风险大的债券 
-    - `junk shop` 旧货商店；无意义信号；报废卫星；碎片 
+    - `junk food`
+      - 垃圾食物；无营养的速食；华而不实的东西 
+    - `junk mail`
+      - n. （美）垃圾邮件；邮寄宣传品 
+    - `space junk`
+      - 太空垃圾，空间垃圾 
+    - `junk bond`
+      - 垃圾债券；价格低但风险大的债券 
+    - `junk shop`
+      - 旧货商店；无意义信号；报废卫星；碎片 
   - 例句
     - `This cupboard’s full of junk.`
       - 这个壁橱里塞满了杂物。

@@ -1,19 +1,23 @@
 - insignia
   - 发音
-    - 英 `/ɪn'sɪgniə/`
-    - 美 `/ɪn'sɪɡnɪə/`
+    - 英
+      - `/ɪn'sɪgniə/`
+    - 美
+      - `/ɪn'sɪɡnɪə/`
   - 词义
-    - n. 徽章
-    - `a badge or sign that shows what official or military rank someone has, or which group or organization they belong to`
+    - n.
+      - 徽章
+        - `a badge or sign that shows what official or military rank someone has, or which group or organization they belong to`
   - 记忆
     - in + sign(标志， 记号) + ia → 作为标志的东西 → 徽章
   - 近义词
-    - n. 记号，标志；徽章；荣誉
-      - `symbol`
-      - `honor`
-      - `glory`
-      - `seal`
-      - `flag`
+    - n.
+      - 记号，标志；徽章；荣誉
+        - `symbol`
+        - `honor`
+        - `glory`
+        - `seal`
+        - `flag`
   - 例句
     - `the royal insignia`
       - 皇家的徽章

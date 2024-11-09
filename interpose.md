@@ -1,30 +1,39 @@
 - interpose
   - 发音
-    - 英 `/ˌintə'pəuz/`
-    - 美 `/'ɪntɚ'poz/`
+    - 英
+      - `/ˌintə'pəuz/`
+    - 美
+      - `/'ɪntɚ'poz/`
   - 词义
-    - v. 插入
-    - `to put yourself or something else between two other things`
+    - v.
+      - 插入
+        - `to put yourself or something else between two other things`
   - 记忆
     - inter (在…之间) + pose (放置) → 在两者之间放置 → 插入
   - 同根词
     - n.
-      - `interpolation` 插入；篡改；添写
-      - `interposition` 干涉，介入；插入，放入
+      - `interpolation`
+        - 插入；篡改；添写
+      - `interposition`
+        - 干涉，介入；插入，放入
     - vi.
-      - `interpolate` 插入；篡改
+      - `interpolate`
+        - 插入；篡改
     - vt.
-      - `interpolate` 篡改；插入新语句
+      - `interpolate`
+        - 篡改；插入新语句
   - 近义词
-    - vt. 提出（异议等）；使插入；使干涉
-      - `introduce`
-      - `present`
-      - `prefer`
-      - `file`
-      - `advance`
-    - vi. 干预；插入；调停
-      - `intervene in`
-      - `take a hand in`
+    - vt.
+      - 提出（异议等）；使插入；使干涉
+        - `introduce`
+        - `present`
+        - `prefer`
+        - `file`
+        - `advance`
+    - vi.
+      - 干预；插入；调停
+        - `intervene in`
+        - `take a hand in`
   - 例句
     - `She interposed herself between the general and his wife.`
       - 她挡在将军和他妻子之间。

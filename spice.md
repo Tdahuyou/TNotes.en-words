@@ -1,29 +1,41 @@
 - spice
   - 发音
-    - 英 `/spaɪs/`
-    - 美 `/spaɪs/`
+    - 英
+      - `/spaɪs/`
+    - 美
+      - `/spaɪs/`
   - 词义
-    - n. 香料，调味品；趣味，情趣
-    - `a type of powder or seed, taken from plants, that you put into food you are cooking to give it a special taste`
-    - vt. 加香料于；给…增添趣味
-    - `to add interest or excitement to something`
+    - n.
+      - 香料，调味品；趣味，情趣
+        - `a type of powder or seed, taken from plants, that you put into food you are cooking to give it a special taste`
+    - vt.
+      - 加香料于；给…增添趣味
+        - `to add interest or excitement to something`
   - 同根词
     - adj.
-      - `spicy` 辛辣的；香的，多香料的；下流的
+      - `spicy`
+        - 辛辣的；香的，多香料的；下流的
     - adv.
-      - `spicily` 讽刺地；痛快地；芳香地
+      - `spicily`
+        - 讽刺地；痛快地；芳香地
     - n.
-      - `spicery` 香料；香味；药料；调味品
-      - `spiciness` 香馥；富于香料；辛辣
+      - `spicery`
+        - 香料；香味；药料；调味品
+      - `spiciness`
+        - 香馥；富于香料；辛辣
   - 近义词
-    - n. 香料；情趣；[食品]调味品；少许
-      - `flavor`
-      - `little`
-      - `touch`
+    - n.
+      - 香料；情趣；[食品]调味品；少许
+        - `flavor`
+        - `little`
+        - `touch`
   - 短语
-    - `spice of life` 生活的调味品；使人高兴的事 
-    - `spice girls` 英国辣妹组合 
-    - `spice islands` 香料群岛（等于Moluccas，印度尼西亚东北部马鲁古群岛） 
+    - `spice of life`
+      - 生活的调味品；使人高兴的事 
+    - `spice girls`
+      - 英国辣妹组合 
+    - `spice islands`
+      - 香料群岛（等于Moluccas，印度尼西亚东北部马鲁古群岛） 
   - 例句
     - `herbs and spices`
       - 香草和香料

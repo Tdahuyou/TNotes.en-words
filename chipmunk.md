@@ -1,13 +1,17 @@
 - chipmunk
   - 发音
-    - 英 `/'tʃɪpmʌŋk/`
-    - 美 `/'tʃɪpmʌŋk/`
+    - 英
+      - `/'tʃɪpmʌŋk/`
+    - 美
+      - `/'tʃɪpmʌŋk/`
   - 词义
-    - n. [动]花栗鼠
-    - `a small American animal similar to a  squirrel  with black lines on its fur`
+    - n.
+      - [动]花栗鼠
+        - `a small American animal similar to a  squirrel  with black lines on its fur`
   - 近义词
-    - n. [脊椎]花栗鼠；金花鼠
-      - `flickertail`
+    - n.
+      - [脊椎]花栗鼠；金花鼠
+        - `flickertail`
   - 例句
     - `The boy stood motionless, like a mouse or a chipmunk when it knows you're watching.`
       - 男孩一动不动站着，好像一只老鼠或花栗鼠知道有人在盯着它一样。

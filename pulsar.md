@@ -1,21 +1,31 @@
 - pulsar
   - 发音
-    - 英 `/'pʌlsɑː/`
-    - 美 `/'pʌlsɑr/`
+    - 英
+      - `/'pʌlsɑː/`
+    - 美
+      - `/'pʌlsɑr/`
   - 词义
-    - n. 脉冲星
-    - `an object like a star that is far away in space and produces  radiation  and  radio wave s `
+    - n.
+      - 脉冲星
+        - `an object like a star that is far away in space and produces  radiation  and  radio wave s `
   - 同根词
     - adj.
-      - `pulsating` 脉动的；脉冲的；搏动的
-      - `pulsing` 脉冲的
-      - `pulsed` 脉冲的；跳动的；脉冲调制的
+      - `pulsating`
+        - 脉动的；脉冲的；搏动的
+      - `pulsing`
+        - 脉冲的
+      - `pulsed`
+        - 脉冲的；跳动的；脉冲调制的
     - n.
-      - `pulsing` 脉动
+      - `pulsing`
+        - 脉动
     - v.
-      - `pulsating` 颤动；有规律地跳动（pulsate的现在分词）
-      - `pulsing` 使跳动；搏动（pulse的ing形式）
-      - `pulsed` 使跳动；使摆动（pulse的过去分词）
+      - `pulsating`
+        - 颤动；有规律地跳动（pulsate的现在分词）
+      - `pulsing`
+        - 使跳动；搏动（pulse的ing形式）
+      - `pulsed`
+        - 使跳动；使摆动（pulse的过去分词）
   - 例句
     - `Most important in this case, one pulsar eclipses the other briefly every couple of hours.`
       - 更重要的是，每隔几个小时，其中的一颗脉冲星会遮挡另外一颗。

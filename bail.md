@@ -1,26 +1,37 @@
 - bail
   - 发音
-    - 英 `/beɪl/`
-    - 美 `/bel/`
+    - 英
+      - `/beɪl/`
+    - 美
+      - `/bel/`
   - 词义
-    - n. 保释，保释人；保释金；杓
-    - `money left with a court of law to make sure that a prisoner will return when their  trial  starts`
-    - v. 保释，帮助某人脱离困境；往外舀水
-    - `to escape from a situation that you do not want to be in any more`
+    - n.
+      - 保释，保释人；保释金；杓
+        - `money left with a court of law to make sure that a prisoner will return when their  trial  starts`
+    - v.
+      - 保释，帮助某人脱离困境；往外舀水
+        - `to escape from a situation that you do not want to be in any more`
   - 同根词
     - adj.
-      - `bailable` 可交保的；可保释的
+      - `bailable`
+        - 可交保的；可保释的
     - n.
-      - `bailment` 寄托，委托；保释；寄托买卖
-      - `bailor` 寄托人；[法] 委托人
+      - `bailment`
+        - 寄托，委托；保释；寄托买卖
+      - `bailor`
+        - 寄托人；[法] 委托人
   - 近义词
-    - n. [法]保释，保释人；保释金；杓
-      - `mainprise`
-    - vt. [法]保释，帮助某人脱离困境；往外舀水
-      - `help someone out`
+    - n.
+      - [法]保释，保释人；保释金；杓
+        - `mainprise`
+    - vt.
+      - [法]保释，帮助某人脱离困境；往外舀水
+        - `help someone out`
   - 短语
-    - `bail out` 跳伞；保释；舀出 
-    - `on bail` 保释；保释中 
+    - `bail out`
+      - 跳伞；保释；舀出 
+    - `on bail`
+      - 保释；保释中 
   - 例句
     - `Carpenter is free on bail while he appeals his conviction.`
       - 卡彭特取保获释，同时对判决提出上诉。

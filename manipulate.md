@@ -1,30 +1,41 @@
 - manipulate
   - 发音
-    - 英 `/mə'nɪpjuleɪt/`
-    - 美 `/mə'nɪpjulet/`
+    - 英
+      - `/mə'nɪpjuleɪt/`
+    - 美
+      - `/mə'nɪpjulet/`
   - 词义
-    - vt. 操作，处理；利用，操纵
-    - `to make someone think and behave exactly as you want them to, by skilfully deceiving or influencing them`
+    - vt.
+      - 操作，处理；利用，操纵
+        - `to make someone think and behave exactly as you want them to, by skilfully deceiving or influencing them`
   - 记忆
     - mani(手) + pul(拉) + ate → 用手拉 → 操作， 处理； 利用， 操纵
   - 同根词
     - adj.
-      - `manipulative` 巧妙处理的；操纵的，用手控制的
-      - `manned` 有人驾驶的；有人操纵的；配备齐船员的
-      - `manipulable` 可操纵自如的；可以操作的
+      - `manipulative`
+        - 巧妙处理的；操纵的，用手控制的
+      - `manned`
+        - 有人驾驶的；有人操纵的；配备齐船员的
+      - `manipulable`
+        - 可操纵自如的；可以操作的
     - n.
-      - `manipulation` 操纵；操作；处理；篡改
-      - `manipulability` 可操纵性
+      - `manipulation`
+        - 操纵；操作；处理；篡改
+      - `manipulability`
+        - 可操纵性
     - v.
-      - `manned` 给…配备人员（man的过去分词）
+      - `manned`
+        - 给…配备人员（man的过去分词）
   - 近义词
-    - vt. 操纵；操作；巧妙地处理；篡改
-      - `man`
-      - `guide`
-      - `work`
-      - `handle`
+    - vt.
+      - 操纵；操作；巧妙地处理；篡改
+        - `man`
+        - `guide`
+        - `work`
+        - `handle`
   - 短语
-    - `manipulate data` 操作数据 
+    - `manipulate data`
+      - 操作数据 
   - 例句
     - `He was one of those men who manipulated people.`
       - 他是那种要摆布别人的人。

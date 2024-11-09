@@ -1,21 +1,28 @@
 - bombastic
   - 发音
-    - 英 `/bɑːm'bæstɪk/`
-    - 美 `/bɑm'bæstɪk/`
+    - 英
+      - `/bɑːm'bæstɪk/`
+    - 美
+      - `/bɑm'bæstɪk/`
   - 词义
-    - adj. 夸夸其谈的
-    - `If you describe someone as bombastic, you are criticizing them for trying to impress other people by saying things that sound impressive but have little meaning`
+    - adj.
+      - 夸夸其谈的
+        - `If you describe someone as bombastic, you are criticizing them for trying to impress other people by saying things that sound impressive but have little meaning`
   - 同根词
     - adj.
-      - `bombast` 夸大的
+      - `bombast`
+        - 夸大的
     - adv.
-      - `bombastically` 夸大地；浮华地；言过其实地；矫揉造作地
+      - `bombastically`
+        - 夸大地；浮华地；言过其实地；矫揉造作地
     - n.
-      - `bombast` 夸大的言辞
+      - `bombast`
+        - 夸大的言辞
   - 近义词
-    - adj. 夸大的；言过其实的
-      - `tall`
-      - `exaggeratory`
+    - adj.
+      - 夸大的；言过其实的
+        - `tall`
+        - `exaggeratory`
   - 例句
     - `He was vain and bombastic.`
       - 他既虚荣又浮夸。

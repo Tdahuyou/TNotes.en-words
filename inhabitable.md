@@ -1,23 +1,34 @@
 - inhabitable
   - 发音
-    - 英 `/ɪn'hæbɪtəbl/`
-    - 美 `/undefined/`
+    - 英
+      - `/ɪn'hæbɪtəbl/`
+    - 美
+      - `/undefined/`
   - 词义
-    - adj. 适于居住的；可居住的，可栖居的
+    - adj.
+      - 适于居住的；可居住的，可栖居的
   - 同根词
     - adj.
-      - `inhabited` 有人居住的
+      - `inhabited`
+        - 有人居住的
     - n.
-      - `inhabitant` 居民；居住者
-      - `inhabitancy` 居住，住所；有人居住的状态
-      - `inhabitation` 居住；栖息
+      - `inhabitant`
+        - 居民；居住者
+      - `inhabitancy`
+        - 居住，住所；有人居住的状态
+      - `inhabitation`
+        - 居住；栖息
     - v.
-      - `inhabited` 占据（inhabit的过去分词）；居住于
+      - `inhabited`
+        - 占据（inhabit的过去分词）；居住于
     - vi.
-      - `inhabit` （古）居住；栖息
+      - `inhabit`
+        - （古）居住；栖息
     - vt.
-      - `inhabit` 栖息；居住于；占据
+      - `inhabit`
+        - 栖息；居住于；占据
   - 近义词
-    - adj. 适于居住的；可居住的，可栖居的
-      - `habitable`
-      - `livable`
+    - adj.
+      - 适于居住的；可居住的，可栖居的
+        - `habitable`
+        - `livable`

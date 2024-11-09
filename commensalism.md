@@ -1,18 +1,24 @@
 - commensalism
   - 发音
-    - 英 `/kə'mens(ə)lɪz(ə)m/`
-    - 美 `/kə'mɛnsəlɪzəm/`
+    - 英
+      - `/kə'mens(ə)lɪz(ə)m/`
+    - 美
+      - `/kə'mɛnsəlɪzəm/`
   - 词义
-    - n. 共栖
+    - n.
+      - 共栖
   - 同根词
     - adj.
-      - `commensal` 共生的；共餐的；同桌的
+      - `commensal`
+        - 共生的；共餐的；同桌的
     - n.
-      - `commensal` 共餐者；[生态] 共生体
+      - `commensal`
+        - 共餐者；[生态] 共生体
   - 近义词
-    - n. [生态]共栖；共生
-      - `messmateism`
-      - `mutualism`
+    - n.
+      - [生态]共栖；共生
+        - `messmateism`
+        - `mutualism`
   - 例句
     - `Some associations of species are almost a form of commensalism.`
       - 有些种类的组合几乎是共栖的形式。

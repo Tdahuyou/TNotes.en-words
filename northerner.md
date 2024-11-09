@@ -1,34 +1,57 @@
 - northerner
   - 发音
-    - 英 `/'nɔːð(ə)nə/`
-    - 美 `/'nɔrðənɚ/`
+    - 英
+      - `/'nɔːð(ə)nə/`
+    - 美
+      - `/'nɔrðənɚ/`
   - 词义
-    - n. 北国人,北方人
-    - `A northerner is a person who was born in or who lives in the north of a place or country`
+    - n.
+      - 北国人,北方人
+        - `A northerner is a person who was born in or who lives in the north of a place or country`
   - 同根词
     - adj.
-      - `north` 北方的；朝北的
-      - `northern` 北部的；北方的
-      - `northeastern` 在东北的；东北方的；来自东北的
-      - `northward` 向北的
-      - `northbound` 北行的；向北方的
-      - `northerly` 北方的，向北的；来自北方的
-      - `northernmost` 最北的
-      - `northmost` 极北的（等于northernmost）
-      - `northwestern` 来自西北的；西北方的；在西北部的
-      - `northwestward` 向西北的
+      - `north`
+        - 北方的；朝北的
+      - `northern`
+        - 北部的；北方的
+      - `northeastern`
+        - 在东北的；东北方的；来自东北的
+      - `northward`
+        - 向北的
+      - `northbound`
+        - 北行的；向北方的
+      - `northerly`
+        - 北方的，向北的；来自北方的
+      - `northernmost`
+        - 最北的
+      - `northmost`
+        - 极北的（等于northernmost）
+      - `northwestern`
+        - 来自西北的；西北方的；在西北部的
+      - `northwestward`
+        - 向西北的
     - adv.
-      - `north` 在北方，向北方
-      - `northward` 向北
-      - `northerly` 向北；来自北方
-      - `northwestward` 向西北方
+      - `north`
+        - 在北方，向北方
+      - `northward`
+        - 向北
+      - `northerly`
+        - 向北；来自北方
+      - `northwestward`
+        - 向西北方
     - n.
-      - `north` 北，北方
-      - `northern` 北部方言
-      - `northward` 北方
-      - `norther` 酷寒北风；强烈北风
-      - `northerly` 北风
-      - `northwestward` 西北方
+      - `north`
+        - 北，北方
+      - `northern`
+        - 北部方言
+      - `northward`
+        - 北方
+      - `norther`
+        - 酷寒北风；强烈北风
+      - `northerly`
+        - 北风
+      - `northwestward`
+        - 西北方
   - 例句
     - `I like the openness and directness of northerners.`
       - 我喜欢北方人的豪爽和直率。

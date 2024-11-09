@@ -1,32 +1,43 @@
 - ornament
   - 发音
-    - 英 `/'ɔːnəm(ə)nt/`
-    - 美 `/'ɔrnəmənt/`
+    - 英
+      - `/'ɔːnəm(ə)nt/`
+    - 美
+      - `/'ɔrnəmənt/`
   - 词义
-    - n. 装饰
-    - `a small object that you keep in your house because it is beautiful rather than useful`
-    - vt. 装饰，点缀
-    - `to be decorated with something`
+    - n.
+      - 装饰
+        - `a small object that you keep in your house because it is beautiful rather than useful`
+    - vt.
+      - 装饰，点缀
+        - `to be decorated with something`
   - 记忆
     - orn(装饰) + ament → 装饰(品)
   - 同根词
     - adj.
-      - `ornamental` 装饰的，装饰性的
+      - `ornamental`
+        - 装饰的，装饰性的
     - adv.
-      - `ornamentally` 装饰地；用作装饰品地
+      - `ornamentally`
+        - 装饰地；用作装饰品地
     - n.
-      - `ornamental` 观赏植物；装饰品
-      - `ornamentation` 装饰物
-      - `ornamentalist` 装饰家；设计家
+      - `ornamental`
+        - 观赏植物；装饰品
+      - `ornamentation`
+        - 装饰物
+      - `ornamentalist`
+        - 装饰家；设计家
   - 近义词
-    - n. [建][服装]装饰；装饰物；教堂用品
-      - `decoration`
-      - `adornment`
-    - vt. [建][服装]装饰，修饰
-      - `paint`
-      - `hang`
-      - `modify`
-      - `bedeck`
+    - n.
+      - [建][服装]装饰；装饰物；教堂用品
+        - `decoration`
+        - `adornment`
+    - vt.
+      - [建][服装]装饰，修饰
+        - `paint`
+        - `hang`
+        - `modify`
+        - `bedeck`
   - 例句
     - `a shelf covered with books and ornaments`
       - 摆满书籍和装饰品的架子

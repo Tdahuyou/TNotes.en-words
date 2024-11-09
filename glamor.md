@@ -1,30 +1,43 @@
 - glamor
   - 发音
-    - 英 `/'ɡlæmə/`
-    - 美 `/'glæmɚ/`
+    - 英
+      - `/'ɡlæmə/`
+    - 美
+      - `/'glæmɚ/`
   - 词义
-    - n. 魅力；魔法；迷人的美（等于glamour）
-    - vt. 迷惑；使有魅力（等于glamour）
+    - n.
+      - 魅力；魔法；迷人的美（等于glamour）
+    - vt.
+      - 迷惑；使有魅力（等于glamour）
   - 同根词
     - adj.
-      - `glamorous` 迷人的，富有魅力的
-      - `glamourous` 富有魅力的；迷人的
+      - `glamorous`
+        - 迷人的，富有魅力的
+      - `glamourous`
+        - 富有魅力的；迷人的
     - n.
-      - `glamour` 魅力，魔力；迷人的美
+      - `glamour`
+        - 魅力，魔力；迷人的美
     - vt.
-      - `glamour` 迷惑，迷住
-      - `glamorize` 美化；使有魅力
-      - `glamorise` 使有魅力（等于glamorize）
-      - `glamourize` 使有魔力；使光荣；渲染
+      - `glamour`
+        - 迷惑，迷住
+      - `glamorize`
+        - 美化；使有魅力
+      - `glamorise`
+        - 使有魅力（等于glamorize）
+      - `glamourize`
+        - 使有魔力；使光荣；渲染
   - 近义词
-    - n. 魅力；魔法；迷人的美（等于glamour）
-      - `charm`
-      - `grace`
-      - `enchantment`
-      - `fascination`
-    - vt. 迷惑；使有魅力（等于glamour）
-      - `ensorcel`
-      - `bamboozled`
+    - n.
+      - 魅力；魔法；迷人的美（等于glamour）
+        - `charm`
+        - `grace`
+        - `enchantment`
+        - `fascination`
+    - vt.
+      - 迷惑；使有魅力（等于glamour）
+        - `ensorcel`
+        - `bamboozled`
   - 例句
     - `But when it comes down to it, we cannot ignore a film franchise that has been successfully thrilling us with action and glamor for over 40 years.`
       - 但是说起这类影片的时候，我们就无法忽视一部电影的特殊魅力。 它成功地运用动作特技和魅力吸引了我们40多年。

@@ -1,15 +1,21 @@
 - insularity
   - 发音
-    - 英 `/ˌɪnsju'lærəti/`
-    - 美 `/undefined/`
+    - 英
+      - `/ˌɪnsju'lærəti/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 岛国；与外界隔绝的生活状况；褊狭
+    - n.
+      - 岛国；与外界隔绝的生活状况；褊狭
   - 同根词
     - adj.
-      - `insular` 孤立的；与世隔绝的；海岛的；岛民的
+      - `insular`
+        - 孤立的；与世隔绝的；海岛的；岛民的
     - n.
-      - `insularism` 岛国特性；胸襟狭窄
+      - `insularism`
+        - 岛国特性；胸襟狭窄
   - 近义词
-    - n. （思想、观点等）偏狭，性僵化；岛国性质（或状态）；岛屿生活状况，与外界隔绝的生活状况
-      - `parochialism`
-      - `intolerance`
+    - n.
+      - （思想、观点等）偏狭，性僵化；岛国性质（或状态）；岛屿生活状况，与外界隔绝的生活状况
+        - `parochialism`
+        - `intolerance`

@@ -1,31 +1,44 @@
 - familiar
   - 发音
-    - 英 `/fə'mɪlɪə/`
-    - 美 `/fə'mɪljɚ/`
+    - 英
+      - `/fə'mɪlɪə/`
+    - 美
+      - `/fə'mɪljɚ/`
   - 词义
-    - adj. 熟悉的,常见的
-    - `someone or something that is familiar is well-known to you and easy to recognize`
+    - adj.
+      - 熟悉的,常见的
+        - `someone or something that is familiar is well-known to you and easy to recognize`
   - 同根词
     - adv.
-      - `familiarly` 不拘礼节地；亲密地；精通地
+      - `familiarly`
+        - 不拘礼节地；亲密地；精通地
     - n.
-      - `familiarity` 熟悉，精通；亲密；随便
-      - `familiarization` 熟悉，精通；亲密
+      - `familiarity`
+        - 熟悉，精通；亲密；随便
+      - `familiarization`
+        - 熟悉，精通；亲密
     - vt.
-      - `familiarize` 使熟悉
-      - `familiarise` 使熟悉（等于familiarize）
+      - `familiarize`
+        - 使熟悉
+      - `familiarise`
+        - 使熟悉（等于familiarize）
   - 近义词
-    - adj. 熟悉的；常见的；亲近的
-      - `conventional`
-      - `near`
-      - `close`
-    - n. 常客；密友
-      - `frequenter`
-      - `regular customer`
+    - adj.
+      - 熟悉的；常见的；亲近的
+        - `conventional`
+        - `near`
+        - `close`
+    - n.
+      - 常客；密友
+        - `frequenter`
+        - `regular customer`
   - 短语
-    - `familiar with` 熟悉 
-    - `get familiar with` 熟悉；变得熟悉 
-    - `familiar style` 简体，非正式文体；家常体 
+    - `familiar with`
+      - 熟悉 
+    - `get familiar with`
+      - 熟悉；变得熟悉 
+    - `familiar style`
+      - 简体，非正式文体；家常体 
   - 例句
     - `a familiar tune`
       - 熟悉的曲调

@@ -1,14 +1,19 @@
 - hamstring
   - 发音
-    - 英 `/'hæmstrɪŋ/`
-    - 美 `/'hæmstriŋ/`
+    - 英
+      - `/'hæmstrɪŋ/`
+    - 美
+      - `/'hæmstriŋ/`
   - 词义
-    - n. 腿筋
-    - v. 切断腿筋使成跛腿；使残废
+    - n.
+      - 腿筋
+    - v.
+      - 切断腿筋使成跛腿；使残废
   - 近义词
-    - vt. 切断腿筋使成跛腿；使残废
-      - `disable`
-      - `maim`
+    - vt.
+      - 切断腿筋使成跛腿；使残废
+        - `disable`
+        - `maim`
   - 例句
     - `Meanwhile, work on strengthening and stretching your hip, hamstring and lower-back muscles.`
       - 与此同时还要拉伸和增强你臀部、腿筋和腰背部的肌肉。

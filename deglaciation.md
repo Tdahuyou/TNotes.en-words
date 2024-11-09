@@ -1,9 +1,12 @@
 - deglaciation
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 冰消作用
+    - n.
+      - 冰消作用
   - 例句
     - `Can deglaciation trigger earthquakes in N. America?`
       - 冰川消退能触发北美洲的地震吗?。

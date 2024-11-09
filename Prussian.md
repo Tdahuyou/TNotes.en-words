@@ -1,12 +1,17 @@
 - Prussian
   - 发音
-    - 英 `/'prʌʃən/`
-    - 美 `/'prʌʃən/`
+    - 英
+      - `/'prʌʃən/`
+    - 美
+      - `/'prʌʃən/`
   - 词义
-    - adj. 普鲁士的
-    - n. 普鲁士人
+    - adj.
+      - 普鲁士的
+    - n.
+      - 普鲁士人
   - 短语
-    - `prussian blue` 普鲁士蓝；铁蓝 
+    - `prussian blue`
+      - 普鲁士蓝；铁蓝 
   - 例句
     - `But there were no models outside the church and the military, so investigators into the train-wreck disaster [of 1841, in New York state] looked to the Prussian army for a model.`
       - 但当时除了教会和军队以外，也找不到其他管理 模型以供参考。 所以1841年纽约那场火车失事的调查者把目光投向了普鲁士军队，从那里寻找模型。

@@ -1,28 +1,40 @@
 - after
   - 发音
-    - 英 `/'ɑːftə/`
-    - 美 `/'æftɚ/`
+    - 英
+      - `/'ɑːftə/`
+    - 美
+      - `/'æftɚ/`
   - 词义
-    - prep. 在⋯⋯后
-    - `when a particular event or time has happened, or when someone has done something`
+    - prep.
+      - 在⋯⋯后
+        - `when a particular event or time has happened, or when someone has done something`
   - 同根词
     - adj.
-      - `aftermost` 最后的；最后部的；最靠近船尾的
+      - `aftermost`
+        - 最后的；最后部的；最靠近船尾的
     - adv.
-      - `afterward` 以后，后来
+      - `afterward`
+        - 以后，后来
   - 近义词
-    - adv. 后来，以后
-      - `since`
-      - `subsequently`
-    - prep. 在……之后
-      - `in the back of`
-    - adj. 以后的
-      - `succeeding`
+    - adv.
+      - 后来，以后
+        - `since`
+        - `subsequently`
+    - prep.
+      - 在……之后
+        - `in the back of`
+    - adj.
+      - 以后的
+        - `succeeding`
   - 短语
-    - `after all` 毕竟；终究 
-    - `go after` 追求，追逐 
-    - `ever after` 从此以后一直 
-    - `after hours` adv. 下班；工作完毕后 
+    - `after all`
+      - 毕竟；终究 
+    - `go after`
+      - 追求，追逐 
+    - `ever after`
+      - 从此以后一直 
+    - `after hours`
+      - adv. 下班；工作完毕后 
   - 例句
     - `After the war many soldiers stayed in France.`
       - 战后，许多士兵留在法国。

@@ -1,14 +1,18 @@
 - poikilothermic
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - adj. [动]变温的,冷血动物的
-    - `(of all animals except birds and mammals) having a body temperature that varies with the temperature of the surroundings `
+    - adj.
+      - [动]变温的,冷血动物的
+        - `(of all animals except birds and mammals) having a body temperature that varies with the temperature of the surroundings `
   - 近义词
-    - adj. [动]变温的；冷血的；冷血动物的
-      - `hematocryal`
-      - `fish-blooded`
+    - adj.
+      - [动]变温的；冷血的；冷血动物的
+        - `hematocryal`
+        - `fish-blooded`
   - 例句
     - `Unlike most terrestrial animals, aquatic animal species used for human consumption are poikilothermic, meaning their body temperatures vary according to ambient temperatures.`
       - 与大多数陆地动物不同，供人类消费的水生动物为冷血品种，也就是说它们的体温会根据环境温度而变化。

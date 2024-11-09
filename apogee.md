@@ -1,15 +1,19 @@
 - apogee
   - 发音
-    - 英 `/'æpədʒiː/`
-    - 美 `/'æpədʒi/`
+    - 英
+      - `/'æpədʒiː/`
+    - 美
+      - `/'æpədʒi/`
   - 词义
-    - n. 远地点
+    - n.
+      - 远地点
   - 记忆
     - apo (远离) + gee ( = geo， 地球) → 远地点
   - 近义词
-    - n. [军]最高点，极点；[天][航]远地点
-      - `peak`
-      - `pole`
+    - n.
+      - [军]最高点，极点；[天][航]远地点
+        - `peak`
+        - `pole`
   - 例句
     - `If this is an ellipse around the Earth, then this would be perigee and this would be apogee .`
       - 如果这是一个围绕，地球的椭圆形轨道，那么这是近地点，这是远地点。

@@ -1,14 +1,18 @@
 - tocsin
   - 发音
-    - 英 `/'tɒksɪn/`
-    - 美 `/'tɑksɪn/`
+    - 英
+      - `/'tɒksɪn/`
+    - 美
+      - `/'tɑksɪn/`
   - 词义
-    - n. 警钟,警报
-    - `a loud warning bell, used in the past`
+    - n.
+      - 警钟,警报
+        - `a loud warning bell, used in the past`
   - 近义词
-    - n. 警钟；警报
-      - `larum`
-      - `wake-up call`
+    - n.
+      - 警钟；警报
+        - `larum`
+        - `wake-up call`
   - 例句
     - `The Government, with an army in its hand, hesitated; the night was almost upon them, and the Saint-Merry tocsin began to make itself heard.`
       - 政府手里有着军队，却还在犹豫不决，天快黑了，人们开始听到圣美里的警钟。

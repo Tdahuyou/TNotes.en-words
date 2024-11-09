@@ -1,23 +1,30 @@
 - swindler
   - 发音
-    - 英 `/'swɪndlə/`
-    - 美 `/'swɪndlɚ/`
+    - 英
+      - `/'swɪndlə/`
+    - 美
+      - `/'swɪndlɚ/`
   - 词义
-    - n. 骗子
+    - n.
+      - 骗子
   - 同根词
     - n.
-      - `swindle` 欺诈；骗局
+      - `swindle`
+        - 欺诈；骗局
     - vi.
-      - `swindle` 诈骗
+      - `swindle`
+        - 诈骗
     - vt.
-      - `swindle` 诈骗；骗取
+      - `swindle`
+        - 诈骗；骗取
   - 近义词
-    - n. [法]骗子
-      - `fraud`
-      - `sharp`
-      - `bilker`
-      - `confidence man`
-      - `cajoler`
+    - n.
+      - [法]骗子
+        - `fraud`
+        - `sharp`
+        - `bilker`
+        - `confidence man`
+        - `cajoler`
   - 例句
     - `The swindler tried to baffle him out of his money, but in vain.`
       - 骗子想骗取他的钱，可是没成功。

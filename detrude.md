@@ -1,11 +1,15 @@
 - detrude
   - 发音
-    - 英 `/dɪ'truːd/`
-    - 美 `/di'tru:d/`
+    - 英
+      - `/dɪ'truːd/`
+    - 美
+      - `/di'tru:d/`
   - 词义
-    - vt. 推倒,扔掉
-    - `to force down or thrust away or out `
+    - vt.
+      - 推倒,扔掉
+        - `to force down or thrust away or out `
   - 近义词
-    - vt. 推出；扔掉；逐出
-      - `thrust out`
-      - `exclude`
+    - vt.
+      - 推出；扔掉；逐出
+        - `thrust out`
+        - `exclude`

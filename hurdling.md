@@ -1,23 +1,32 @@
 - hurdling
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 跨栏赛跑
-    - `Hurdles is a race in which people have to jump over a number of obstacles that are also called hurdles. You can use hurdles to refer to one or more races. `
+    - n.
+      - 跨栏赛跑
+        - `Hurdles is a race in which people have to jump over a number of obstacles that are also called hurdles. You can use hurdles to refer to one or more races. `
   - 同根词
     - n.
-      - `hurdle` 障碍；栏；跳栏
-      - `hurdler` 制造竹篱笆者；跳栏比赛选手
+      - `hurdle`
+        - 障碍；栏；跳栏
+      - `hurdler`
+        - 制造竹篱笆者；跳栏比赛选手
     - vi.
-      - `hurdle` 克服；跳过
+      - `hurdle`
+        - 克服；跳过
     - vt.
-      - `hurdle` 克服
+      - `hurdle`
+        - 克服
   - 近义词
-    - n. 跳栏赛跑
-      - `hurdle race`
+    - n.
+      - 跳栏赛跑
+        - `hurdle race`
   - 短语
-    - `hurdle race` n. 障碍竞赛；跳栏赛跑 
+    - `hurdle race`
+      - n. 障碍竞赛；跳栏赛跑 
   - 例句
     - `Davis won the 400 metre hurdles in a new Olympic time of 49.3 sec.`
       - 戴维斯以49.3秒这一新的奥运会记录在400米跨栏赛跑中夺冠。

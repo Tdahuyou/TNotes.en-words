@@ -1,10 +1,13 @@
 - sinecure
   - 发音
-    - 英 `/'sainikjuə/`
-    - 美 `/'saɪnɪkjʊr/`
+    - 英
+      - `/'sainikjuə/`
+    - 美
+      - `/'saɪnɪkjʊr/`
   - 词义
-    - n. 工作清闲而报酬丰厚的职位，挂名职务，闲职
-    - `a job which you get paid for even though you do not have to do very much work`
+    - n.
+      - 工作清闲而报酬丰厚的职位，挂名职务，闲职
+        - `a job which you get paid for even though you do not have to do very much work`
   - 记忆
     - secure (无虑的) 中间加个in → 处于无忧无虑的状态 → 闲职
   - 例句

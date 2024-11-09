@@ -1,14 +1,18 @@
 - fiasco
   - 发音
-    - 英 `/fɪ'æskəʊ/`
-    - 美 `/fɪ'æsko/`
+    - 英
+      - `/fɪ'æskəʊ/`
+    - 美
+      - `/fɪ'æsko/`
   - 词义
-    - n. 惨败
-    - `an event that is completely unsuccessful, in a way that is very embarrassing or disappointing`
+    - n.
+      - 惨败
+        - `an event that is completely unsuccessful, in a way that is very embarrassing or disappointing`
   - 近义词
-    - n. 惨败
-      - `catastrophe`
-      - `smashup`
+    - n.
+      - 惨败
+        - `catastrophe`
+        - `smashup`
   - 例句
     - `The first lecture I ever gave was a complete fiasco .`
       - 我第一次讲课糟得一塌糊涂。

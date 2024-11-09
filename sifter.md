@@ -1,20 +1,28 @@
 - sifter
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 负责筛选的人,筛子
-    - `a container with a handle and a lot of small holes on the bottom, used for removing large pieces from flour or for mixing flour and other dry things together in cooking`
+    - n.
+      - 负责筛选的人,筛子
+        - `a container with a handle and a lot of small holes on the bottom, used for removing large pieces from flour or for mixing flour and other dry things together in cooking`
   - 同根词
     - n.
-      - `sifting` 过筛，过滤；筛选
+      - `sifting`
+        - 过筛，过滤；筛选
     - v.
-      - `sifting` 筛撒，纷落，详察（sift的现在分词形式）
+      - `sifting`
+        - 筛撒，纷落，详察（sift的现在分词形式）
     - vi.
-      - `sift` 筛；详查；撒下；细究
+      - `sift`
+        - 筛；详查；撒下；细究
     - vt.
-      - `sift` 筛选；撒；过滤；详查
+      - `sift`
+        - 筛选；撒；过滤；详查
   - 近义词
-    - n. [粮食][矿业]筛子；负责筛选的人
-      - `boult`
-      - `sieve`
+    - n.
+      - [粮食][矿业]筛子；负责筛选的人
+        - `boult`
+        - `sieve`

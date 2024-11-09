@@ -1,10 +1,13 @@
 - neutrino
   - 发音
-    - 英 `/njuː'triːnəʊ/`
-    - 美 `/nu'trino/`
+    - 英
+      - `/njuː'triːnəʊ/`
+    - 美
+      - `/nu'trino/`
   - 词义
-    - n. 【核物理学】中微子
-    - `something that is smaller than an atom and has no electrical charge`
+    - n.
+      - 【核物理学】中微子
+        - `something that is smaller than an atom and has no electrical charge`
   - 例句
     - `When a neutron inside an atom decays, it produces a proton, an electron, and a neutrino.`
       - 原子内的一个中子衰变后会产生一个质子、一个电子和一个中微子。

@@ -1,24 +1,35 @@
 - intently
   - 发音
-    - 英 `/ɪn'tentlɪ/`
-    - 美 `/ɪn'tɛntli/`
+    - 英
+      - `/ɪn'tentlɪ/`
+    - 美
+      - `/ɪn'tɛntli/`
   - 词义
-    - adv. 专心地,集中地
+    - adv.
+      - 专心地,集中地
   - 同根词
     - adj.
-      - `intent` 专心的；急切的；坚决的
-      - `intentional` 故意的；蓄意的；策划的
+      - `intent`
+        - 专心的；急切的；坚决的
+      - `intentional`
+        - 故意的；蓄意的；策划的
     - adv.
-      - `intentionally` 故意地，有意地
+      - `intentionally`
+        - 故意地，有意地
     - n.
-      - `intention` 意图；目的；意向；愈合
-      - `intent` 意图；目的；含义
-      - `intentionality` 意向性，意图性
-      - `intentness` 热心；专心
+      - `intention`
+        - 意图；目的；意向；愈合
+      - `intent`
+        - 意图；目的；含义
+      - `intentionality`
+        - 意向性，意图性
+      - `intentness`
+        - 热心；专心
   - 近义词
-    - adv. 专心地；一心一意地；心无旁物地
-      - `single-mindedly`
-      - `devotedly`
+    - adv.
+      - 专心地；一心一意地；心无旁物地
+        - `single-mindedly`
+        - `devotedly`
   - 例句
     - `As we walked alongside each other, she listened intently as I told her about you, about us, about the wonderful times we shared.`
       - 我们肩并肩地走着,她专心地听着我讲述你,讲述我们,以及我们一起分享的那些美好时光。

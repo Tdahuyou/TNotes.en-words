@@ -1,14 +1,20 @@
 - strontium
   - 发音
-    - 英 `/'strɒntɪəm; 'strɒnʃ(ɪ)əm/`
-    - 美 `/'strɑntɪəm/`
+    - 英
+      - `/'strɒntɪəm; 'strɒnʃ(ɪ)əm/`
+    - 美
+      - `/'strɑntɪəm/`
   - 词义
-    - n. [化学]锶
-    - `a soft silver-white metal that is used to make  firework s  . It is a chemical  element : symbol Sr`
+    - n.
+      - [化学]锶
+        - `a soft silver-white metal that is used to make  firework s  . It is a chemical  element : symbol Sr`
   - 短语
-    - `strontium carbonate` 碳酸锶 
-    - `strontium titanate` 钛酸锶 
-    - `strontium chloride` 氯化锶 
+    - `strontium carbonate`
+      - 碳酸锶 
+    - `strontium titanate`
+      - 钛酸锶 
+    - `strontium chloride`
+      - 氯化锶 
   - 例句
     - `Others decay more slowly, like some cesium, iodine, strontium, and argon.`
       - 剩下的一些延迟消退的很慢，比如铯、碘、锶和氩。

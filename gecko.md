@@ -1,13 +1,17 @@
 - gecko
   - 发音
-    - 英 `/'gekəʊ/`
-    - 美 `/'gɛko/`
+    - 英
+      - `/'gekəʊ/`
+    - 美
+      - `/'gɛko/`
   - 词义
-    - n. [脊椎]壁虎
-    - `a type of small lizard`
+    - n.
+      - [脊椎]壁虎
+        - `a type of small lizard`
   - 近义词
-    - n. [脊椎]壁虎
-      - `grebe`
+    - n.
+      - [脊椎]壁虎
+        - `grebe`
   - 例句
     - `The only catch is, you might get a house gecko infestation next.`
       - 唯一的风险是，接下来你有可能要面对壁虎成灾噢。

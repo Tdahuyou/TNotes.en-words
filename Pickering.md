@@ -1,7 +1,9 @@
 - Pickering
   - 发音
-    - 英 `/'pikəriŋ/`
-    - 美 `/'pikəriŋ/`
+    - 英
+      - `/'pikəriŋ/`
+    - 美
+      - `/'pikəriŋ/`
   - 词义
   - 例句
     - `“We are now at the beginning of the beginning” of a new relationship, Pickering said.`

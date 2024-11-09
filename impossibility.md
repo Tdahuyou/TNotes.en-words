@@ -1,19 +1,26 @@
 - impossibility
   - 发音
-    - 英 `/ɪm,pɒsɪ'bɪlɪtɪ/`
-    - 美 `/ɪm,pɑsə'bɪləti/`
+    - 英
+      - `/ɪm,pɒsɪ'bɪlɪtɪ/`
+    - 美
+      - `/ɪm,pɑsə'bɪləti/`
   - 词义
-    - n. 不可能；不可能的事
+    - n.
+      - 不可能；不可能的事
   - 同根词
     - adj.
-      - `impossible` 不可能的；不可能存在的；难以忍受的；不真实的
+      - `impossible`
+        - 不可能的；不可能存在的；难以忍受的；不真实的
     - adv.
-      - `impossibly` 不可能地；难以置信地；无法可想地
+      - `impossibly`
+        - 不可能地；难以置信地；无法可想地
     - n.
-      - `impossible` 不可能；不可能的事
+      - `impossible`
+        - 不可能；不可能的事
   - 近义词
-    - n. [数]不可能；不可能的事
-      - `a blue moon`
+    - n.
+      - [数]不可能；不可能的事
+        - `a blue moon`
   - 例句
     - `Obviously, given that impossibility, we have to do the next best thing.`
       - 明显地，考虑到那是不可能的，我们必须做好下一个事情。

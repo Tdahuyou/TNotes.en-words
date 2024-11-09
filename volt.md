@@ -1,16 +1,21 @@
 - volt
   - 发音
-    - 英 `/vəʊlt; vɒlt/`
-    - 美 `/volt/`
+    - 英
+      - `/vəʊlt; vɒlt/`
+    - 美
+      - `/volt/`
   - 词义
-    - n. (马术中的)环骑,[电工]伏特
-    - `a unit for measuring the force of an electric current`
+    - n.
+      - (马术中的)环骑,[电工]伏特
+        - `a unit for measuring the force of an electric current`
   - 同根词
     - n.
-      - `voltmeter` [电] 伏特计，电压计
+      - `voltmeter`
+        - [电] 伏特计，电压计
   - 近义词
-    - n. 伏特（电压单位）；环骑；闪避
-      - `jook`
+    - n.
+      - 伏特（电压单位）；环骑；闪避
+        - `jook`
   - 例句
     - `That is one electron volt.`
       - 就是一单位的电子伏特。

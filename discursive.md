@@ -1,15 +1,21 @@
 - discursive
   - 发音
-    - 英 `/dɪs'kɜːsɪv/`
-    - 美 `/dɪs'kɝsɪv/`
+    - 英
+      - `/dɪs'kɜːsɪv/`
+    - 美
+      - `/dɪs'kɝsɪv/`
   - 词义
-    - adj. 不着边际的
+    - adj.
+      - 不着边际的
   - 同根词
     - adv.
-      - `discursively` 东拉西扯地；推论地
+      - `discursively`
+        - 东拉西扯地；推论地
     - n.
-      - `discursiveness` 推论；漫谈离题
+      - `discursiveness`
+        - 推论；漫谈离题
   - 近义词
-    - adj. 散漫的；离题的；东拉西扯的；无层次的
-      - `loose`
-      - `excursive`
+    - adj.
+      - 散漫的；离题的；东拉西扯的；无层次的
+        - `loose`
+        - `excursive`

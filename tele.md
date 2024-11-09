@@ -1,15 +1,19 @@
 - tele
   - 发音
-    - 英 `/'telɪ/`
-    - 美 `/'tɛli/`
+    - 英
+      - `/'telɪ/`
+    - 美
+      - `/'tɛli/`
   - 词义
-    - n. 电视
+    - n.
+      - 电视
   - 近义词
-    - n. 电视（等于television）
-      - `video`
-      - `telly`
-      - `small screen`
-      - `telvision`
+    - n.
+      - 电视（等于television）
+        - `video`
+        - `telly`
+        - `small screen`
+        - `telvision`
   - 例句
     - `You might think of this new medium as books we watch, or tele­vision we read.`
       - 你可以将这种全新的媒体想象成自己所看的书，也可以将它们想象成电视。

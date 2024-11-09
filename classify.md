@@ -1,34 +1,50 @@
 - classify
   - 发音
-    - 英 `/'klæsɪfaɪ/`
-    - 美 `/'klæsɪfaɪ/`
+    - 英
+      - `/'klæsɪfaɪ/`
+    - 美
+      - `/'klæsɪfaɪ/`
   - 词义
-    - vt. 分类；分等
-    - `to decide what group something belongs to`
+    - vt.
+      - 分类；分等
+        - `to decide what group something belongs to`
   - 记忆
     - class(类别) + ify(使…) → 分类
   - 同根词
     - adj.
-      - `class` 极好的
-      - `classified` 分类的；类别的；机密的
-      - `classy` 优等的；上等的；漂亮的
-      - `classifiable` 可分类的
-      - `classificatory` 类别的；分类上的
+      - `class`
+        - 极好的
+      - `classified`
+        - 分类的；类别的；机密的
+      - `classy`
+        - 优等的；上等的；漂亮的
+      - `classifiable`
+        - 可分类的
+      - `classificatory`
+        - 类别的；分类上的
     - n.
-      - `class` 阶级；班级；种类
-      - `classification` 分类；类别，等级
-      - `classified` 分类广告
-      - `classifier` [测][遥感] 分类器；分类者；分类词
+      - `class`
+        - 阶级；班级；种类
+      - `classification`
+        - 分类；类别，等级
+      - `classified`
+        - 分类广告
+      - `classifier`
+        - [测][遥感] 分类器；分类者；分类词
     - v.
-      - `classified` 把…分类（classify的过去分词）
+      - `classified`
+        - 把…分类（classify的过去分词）
     - vt.
-      - `class` 分类；把…分等级
+      - `class`
+        - 分类；把…分等级
   - 近义词
-    - vt. 分类；分等
-      - `categorize`
-      - `sort through`
+    - vt.
+      - 分类；分等
+        - `categorize`
+        - `sort through`
   - 短语
-    - `classify as` 把…分类为… 
+    - `classify as`
+      - 把…分类为… 
   - 例句
     - `We’d classify Drabble’s novels under ‘Romance’.`
       - 我们把德拉布尔的小说归类为“言情小说”。

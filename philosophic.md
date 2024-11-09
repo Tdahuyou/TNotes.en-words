@@ -1,27 +1,39 @@
 - philosophic
   - 发音
-    - 英 `/,fɪlə'sɒfɪk/`
-    - 美 `/,fɪlə'sɑfɪkl/`
+    - 英
+      - `/,fɪlə'sɒfɪk/`
+    - 美
+      - `/,fɪlə'sɑfɪkl/`
   - 词义
-    - adj. 哲学的,哲学家的
+    - adj.
+      - 哲学的,哲学家的
   - 同根词
     - adv.
-      - `philosophically` 哲学上；贤明地
+      - `philosophically`
+        - 哲学上；贤明地
     - n.
-      - `philosophy` 哲学；哲理；人生观
-      - `philosopher` 哲学家；哲人
-      - `philosophizing` 哲学思维
+      - `philosophy`
+        - 哲学；哲理；人生观
+      - `philosopher`
+        - 哲学家；哲人
+      - `philosophizing`
+        - 哲学思维
     - v.
-      - `philosophizing` 理性地思考；从哲学角度解释（philosophize的ing形式）
+      - `philosophizing`
+        - 理性地思考；从哲学角度解释（philosophize的ing形式）
     - vi.
-      - `philosophize` 进行哲学探讨，理性地思考
+      - `philosophize`
+        - 进行哲学探讨，理性地思考
     - vt.
-      - `philosophize` 使哲学化；像哲学家般思考或辩论
+      - `philosophize`
+        - 使哲学化；像哲学家般思考或辩论
   - 近义词
-    - adj. 哲学的；贤明的
-      - `wiser`
+    - adj.
+      - 哲学的；贤明的
+        - `wiser`
   - 短语
-    - `philosophic thinking` 哲学思想 
+    - `philosophic thinking`
+      - 哲学思想 
   - 例句
     - `But such acuteness is mistaken in the conceit that, when it examines these objects and pronounces what they ought to be, it is dealing with questions of philosophic science.`
       - 但是，如果把能够指出周围琐屑事物的不满处与应当处的这一点聪明，便当成在讨论哲学这门科学上的问题，那就错了。

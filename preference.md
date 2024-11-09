@@ -1,41 +1,63 @@
 - preference
   - 发音
-    - 英 `/'prefrəns/`
-    - 美 `/'prɛfrəns/`
+    - 英
+      - `/'prefrəns/`
+    - 美
+      - `/'prɛfrəns/`
   - 词义
-    - n. 偏爱；优先
-    - `if you have a preference for something, you like it more than another thing and will choose it if you can`
+    - n.
+      - 偏爱；优先
+        - `if you have a preference for something, you like it more than another thing and will choose it if you can`
   - 同根词
     - adj.
-      - `preferred` 优先的；首选的
-      - `preferential` 优先的；选择的；特惠的；先取的
+      - `preferred`
+        - 优先的；首选的
+      - `preferential`
+        - 优先的；选择的；特惠的；先取的
     - adv.
-      - `preferentially` 优先地；优惠地
+      - `preferentially`
+        - 优先地；优惠地
     - n.
-      - `preferment` 晋升；优先权；酶原
+      - `preferment`
+        - 晋升；优先权；酶原
     - v.
-      - `preferred` 偏爱（prefer的过去分词）
+      - `preferred`
+        - 偏爱（prefer的过去分词）
   - 近义词
-    - n. 偏爱，倾向；[经][计]优先权
-      - `tendency`
-      - `liability`
-      - `priority`
-      - `trend`
-      - `favour`
+    - n.
+      - 偏爱，倾向；[经][计]优先权
+        - `tendency`
+        - `liability`
+        - `priority`
+        - `trend`
+        - `favour`
   - 短语
-    - `preference for` 偏爱… 
-    - `preference to sth` 优先 
-    - `tax preference` 税收优惠 
-    - `personal preference` 个人喜好 
-    - `in preference to` 优先于…… 
-    - `consumer preference` 消费者偏好，消费偏爱 
-    - `by preference` 最好，首先 
-    - `sexual preference` 性取向；性偏好；性爱好 
-    - `preference share` 优先股；红利先取股 
-    - `time preference` 时间的优先选择 
-    - `color preference` 色彩的嗜好；颜色爱好 
-    - `margin of preference` [经]优惠幅度；[经]优惠差额 
-    - `liquidity preference` [经]流动性偏好 
+    - `preference for`
+      - 偏爱… 
+    - `preference to sth`
+      - 优先 
+    - `tax preference`
+      - 税收优惠 
+    - `personal preference`
+      - 个人喜好 
+    - `in preference to`
+      - 优先于…… 
+    - `consumer preference`
+      - 消费者偏好，消费偏爱 
+    - `by preference`
+      - 最好，首先 
+    - `sexual preference`
+      - 性取向；性偏好；性爱好 
+    - `preference share`
+      - 优先股；红利先取股 
+    - `time preference`
+      - 时间的优先选择 
+    - `color preference`
+      - 色彩的嗜好；颜色爱好 
+    - `margin of preference`
+      - [经]优惠幅度；[经]优惠差额 
+    - `liquidity preference`
+      - [经]流动性偏好 
   - 例句
     - `Do you have a colour preference ?`
       - 你有什么颜色上的偏好吗？

@@ -1,25 +1,36 @@
 - fiberglass
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 玻璃纤维；玻璃丝
+    - n.
+      - 玻璃纤维；玻璃丝
   - 同根词
     - adj.
-      - `fibrillate` 有原纤维组织的
+      - `fibrillate`
+        - 有原纤维组织的
     - n.
-      - `fiber` 纤维；光纤（等于fibre）
-      - `fibrillation` [医] 纤维性颤动，[生物] 原纤维形成
-      - `fibrinogen` [生化] 纤维蛋白原；纤朊原
-      - `fibrinolysis` [生化] 纤维蛋白溶解
+      - `fiber`
+        - 纤维；光纤（等于fibre）
+      - `fibrillation`
+        - [医] 纤维性颤动，[生物] 原纤维形成
+      - `fibrinogen`
+        - [生化] 纤维蛋白原；纤朊原
+      - `fibrinolysis`
+        - [生化] 纤维蛋白溶解
     - vi.
-      - `fibrillate` 形成原纤维
+      - `fibrillate`
+        - 形成原纤维
     - vt.
-      - `fibrillate` 使…形成原纤维
+      - `fibrillate`
+        - 使…形成原纤维
   - 近义词
-    - n. 玻璃纤维；玻璃丝
-      - `thread`
-      - `fibre glass`
+    - n.
+      - 玻璃纤维；玻璃丝
+        - `thread`
+        - `fibre glass`
   - 例句
     - `The body is fiberglass and carbon fiber.`
       - 车身材料为玻璃纤维和碳纤维。

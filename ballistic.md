@@ -1,22 +1,30 @@
 - ballistic
   - 发音
-    - 英 `/bə'lɪstɪk/`
-    - 美 `/bə'lɪstɪk/`
+    - 英
+      - `/bə'lɪstɪk/`
+    - 美
+      - `/bə'lɪstɪk/`
   - 词义
-    - adj. 弹道的；射击的
-    - `Ballistic means relating to ballistics`
+    - adj.
+      - 弹道的；射击的
+        - `Ballistic means relating to ballistics`
   - 记忆
     - ball(子弹) + istic → 发射子弹的 → 弹道的
   - 同根词
     - n.
-      - `ballistics` 发射学，弹道学
+      - `ballistics`
+        - 发射学，弹道学
   - 近义词
-    - adj. [航][军]弹道的；射击的
-      - `gunshot`
+    - adj.
+      - [航][军]弹道的；射击的
+        - `gunshot`
   - 短语
-    - `ballistic missile` n. 弹道飞弹，弹道导弹 
-    - `ballistic trajectory` 射击弹导；弹道轨迹 
-    - `intercontinental ballistic missile` 洲际弹道导弹；洲际导弹 
+    - `ballistic missile`
+      - n. 弹道飞弹，弹道导弹 
+    - `ballistic trajectory`
+      - 射击弹导；弹道轨迹 
+    - `intercontinental ballistic missile`
+      - 洲际弹道导弹；洲际导弹 
   - 例句
     - `...ballistic missiles.`
       - ...弹道导弹。

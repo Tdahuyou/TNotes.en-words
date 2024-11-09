@@ -1,14 +1,19 @@
 - bayonet
   - 发音
-    - 英 `/'beɪənɪt/`
-    - 美 `/'beənət/`
+    - 英
+      - `/'beɪənɪt/`
+    - 美
+      - `/'beənət/`
   - 词义
-    - n. 刺刀；卡销
-    - `a long knife that is fixed to the end of a  rifle (=  long gun  ) `
-    - v. 用刺刀刺
-    - `to push the point of a bayonet into someone`
+    - n.
+      - 刺刀；卡销
+        - `a long knife that is fixed to the end of a  rifle (=  long gun  ) `
+    - v.
+      - 用刺刀刺
+        - `to push the point of a bayonet into someone`
   - 短语
-    - `bayonet socket` n. 插接座；卡口灯座 
+    - `bayonet socket`
+      - n. 插接座；卡口灯座 
   - 例句
     - `This man had no bayonet.`
       - 这人并没有刺刀。

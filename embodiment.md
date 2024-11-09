@@ -1,18 +1,23 @@
 - embodiment
   - 发音
-    - 英 `/ɪm'bɒdɪmənt/`
-    - 美 `/ɪm'bɑdɪmənt/`
+    - 英
+      - `/ɪm'bɒdɪmənt/`
+    - 美
+      - `/ɪm'bɑdɪmənt/`
   - 词义
-    - n. 体现,具体化,化身
-    - `someone or something that represents or is very typical of an idea or quality`
+    - n.
+      - 体现,具体化,化身
+        - `someone or something that represents or is very typical of an idea or quality`
   - 同根词
     - vt.
-      - `embody` 体现，使具体化；具体表达
+      - `embody`
+        - 体现，使具体化；具体表达
   - 近义词
-    - n. 体现；化身；具体化
-      - `picture`
-      - `shape`
-      - `pink`
+    - n.
+      - 体现；化身；具体化
+        - `picture`
+        - `shape`
+        - `pink`
   - 例句
     - `He is the embodiment of evil.`
       - 他是邪恶的化身。

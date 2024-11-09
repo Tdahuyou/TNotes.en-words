@@ -1,7 +1,9 @@
 - Shipley
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
   - 例句
     - `The Linthicum Zip Code, which includes the community of Linthicum, Linthicum Heights, and Shipley, is just minutes from Baltimore.`

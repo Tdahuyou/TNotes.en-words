@@ -1,22 +1,31 @@
 - sepsis
   - 发音
-    - 英 `/'sepsɪs/`
-    - 美 `/'sɛpsɪs/`
+    - 英
+      - `/'sepsɪs/`
+    - 美
+      - `/'sɛpsɪs/`
   - 词义
-    - n. [医]脓毒病,脓血症
-    - `an infection in part of the body, in which  pus  is produced`
+    - n.
+      - [医]脓毒病,脓血症
+        - `an infection in part of the body, in which  pus  is produced`
   - 同根词
     - adj.
-      - `septic` 败血症的；[医] 脓毒性的；腐败的
-      - `septicemic` 败血病的
+      - `septic`
+        - 败血症的；[医] 脓毒性的；腐败的
+      - `septicemic`
+        - 败血病的
     - n.
-      - `septic` 腐烂物
-      - `septicemia` 败血症；败血病
-      - `septicaemia` 败血症；败血病
-  - 近义词
-    - n. 败血症，[外科][医]脓毒病；腐败作用
+      - `septic`
+        - 腐烂物
       - `septicemia`
-      - `blood poisoning`
+        - 败血症；败血病
+      - `septicaemia`
+        - 败血症；败血病
+  - 近义词
+    - n.
+      - 败血症，[外科][医]脓毒病；腐败作用
+        - `septicemia`
+        - `blood poisoning`
   - 例句
     - `Treatment should be discontinued for serious infection or sepsis.`
       - 出现严重感染或脓毒症应该中断治疗。

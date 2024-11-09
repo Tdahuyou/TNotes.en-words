@@ -1,32 +1,47 @@
 - charm
   - 发音
-    - 英 `/tʃɑːm/`
-    - 美 `/tʃɑrm/`
+    - 英
+      - `/tʃɑːm/`
+    - 美
+      - `/tʃɑrm/`
   - 词义
-    - n. 吸引力,魅力
-    - `a special quality someone or something has that makes people like them, feel attracted to them, or be easily influenced by them – used to show approval`
-    - v. 迷人,使陶醉
+    - n.
+      - 吸引力,魅力
+        - `a special quality someone or something has that makes people like them, feel attracted to them, or be easily influenced by them – used to show approval`
+    - v.
+      - 迷人,使陶醉
   - 同根词
     - adj.
-      - `charming` 迷人的；可爱的
-      - `charismatic` 超凡魅力的；神赐能力的
-      - `charmed` 着迷的；喜悦的
+      - `charming`
+        - 迷人的；可爱的
+      - `charismatic`
+        - 超凡魅力的；神赐能力的
+      - `charmed`
+        - 着迷的；喜悦的
     - n.
-      - `charmer` 魔术师；可爱的人
+      - `charmer`
+        - 魔术师；可爱的人
     - v.
-      - `charming` 使陶醉（charm的现在分词）
-      - `charmed` 迷住；对…行魔法；哄诱（charm的过去分词）
+      - `charming`
+        - 使陶醉（charm的现在分词）
+      - `charmed`
+        - 迷住；对…行魔法；哄诱（charm的过去分词）
   - 近义词
-    - n. 魅力，吸引力；魔力
-      - `grace`
-      - `appeal`
-      - `fascination`
-    - vt. 使陶醉；行魔法
-      - `intoxicate`
+    - n.
+      - 魅力，吸引力；魔力
+        - `grace`
+        - `appeal`
+        - `fascination`
+    - vt.
+      - 使陶醉；行魔法
+        - `intoxicate`
   - 短语
-    - `artistic charm` 艺术魅力 
-    - `like a charm` 效验如神地；异常成功地 
-    - `lucky charm` 幸运符；护身符 
+    - `artistic charm`
+      - 艺术魅力 
+    - `like a charm`
+      - 效验如神地；异常成功地 
+    - `lucky charm`
+      - 幸运符；护身符 
   - 例句
     - `Joe’s boyish charm`
       - 乔身上的稚趣

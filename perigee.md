@@ -1,10 +1,13 @@
 - perigee
   - 发音
-    - 英 `/'perɪdʒiː/`
-    - 美 `/'pɛrɪdʒi/`
+    - 英
+      - `/'perɪdʒiː/`
+    - 美
+      - `/'pɛrɪdʒi/`
   - 词义
-    - n. [天]近地点
-    - `the point in its orbit around the earth when the moon or an artificial satellite is nearest the earth `
+    - n.
+      - [天]近地点
+        - `the point in its orbit around the earth when the moon or an artificial satellite is nearest the earth `
   - 例句
     - `If this is an ellipse around the Earth, then this would be perigee and this would be apogee.`
       - 如果这是一个围绕,地球的椭圆形轨道,那么这是近地点，这是远地点。

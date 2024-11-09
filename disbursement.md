@@ -1,22 +1,29 @@
 - disbursement
   - 发音
-    - 英 `/dɪs'bɜːsm(ə)nt/`
-    - 美 `/dɪs'bɝsmənt/`
+    - 英
+      - `/dɪs'bɜːsm(ə)nt/`
+    - 美
+      - `/dɪs'bɝsmənt/`
   - 词义
-    - n. 支付,支出
-    - `Disbursement is the paying out of a sum of money, especially from a fund`
+    - n.
+      - 支付,支出
+        - `Disbursement is the paying out of a sum of money, especially from a fund`
   - 同根词
     - n.
-      - `disbursal` 支出
-      - `disburser` 付出者；支付者
+      - `disbursal`
+        - 支出
+      - `disburser`
+        - 付出者；支付者
     - vt.
-      - `disburse` 支付；支出
+      - `disburse`
+        - 支付；支出
   - 近义词
-    - n. [会计]支出，支付
-      - `expenditure`
-      - `payment`
-      - `paying`
-      - `defrayment`
+    - n.
+      - [会计]支出，支付
+        - `expenditure`
+        - `payment`
+        - `paying`
+        - `defrayment`
   - 例句
     - `Let's switch the talk to disbursement.`
       - 咱们换个话题，谈一谈款项支出吧。

@@ -1,16 +1,21 @@
 - saxophone
   - 发音
-    - 英 `/'sæksəfəʊn/`
-    - 美 `/'sæksəfon/`
+    - 英
+      - `/'sæksəfəʊn/`
+    - 美
+      - `/'sæksəfon/`
   - 词义
-    - n. 萨克斯管
-    - `a curved musical instrument made of metal that you play by blowing into it and pressing buttons, used especially in popular music and  jazz `
+    - n.
+      - 萨克斯管
+        - `a curved musical instrument made of metal that you play by blowing into it and pressing buttons, used especially in popular music and  jazz `
   - 同根词
     - n.
-      - `saxophonist` 萨克斯管吹奏者
+      - `saxophonist`
+        - 萨克斯管吹奏者
   - 近义词
-    - n. 萨克斯管
-      - `sax`
+    - n.
+      - 萨克斯管
+        - `sax`
   - 例句
     - `The pianist doubles on saxophone.`
       - 那钢琴演奏者兼作萨克斯管吹奏员。

@@ -1,24 +1,35 @@
 - jurisprudence
   - 发音
-    - 英 `/ˌdʒuəris'pruːdəns/`
-    - 美 `/,dʒʊrɪs'prudns/`
+    - 英
+      - `/ˌdʒuəris'pruːdəns/`
+    - 美
+      - `/,dʒʊrɪs'prudns/`
   - 词义
-    - n. 法律学
-    - `the science or study of law`
+    - n.
+      - 法律学
+        - `the science or study of law`
   - 记忆
     - juris (法律) + prudence (审慎) → 法律知识 → 法律学
   - 同根词
     - adj.
-      - `juridical` 司法的；法院的；裁判上的
-      - `jural` 法律上的；法制的；权利义务相关的
-      - `juridic` 司法上的；法律的
-      - `jurisprudential` 法律学的；法律学上的
-      - `juristic` 法律的；法理学的，法学的
+      - `juridical`
+        - 司法的；法院的；裁判上的
+      - `jural`
+        - 法律上的；法制的；权利义务相关的
+      - `juridic`
+        - 司法上的；法律的
+      - `jurisprudential`
+        - 法律学的；法律学上的
+      - `juristic`
+        - 法律的；法理学的，法学的
     - n.
-      - `jurisdiction` 司法权，审判权，管辖权；权限，权力
-      - `jurist` 法学家；法官；律师；法律著作家
+      - `jurisdiction`
+        - 司法权，审判权，管辖权；权限，权力
+      - `jurist`
+        - 法学家；法官；律师；法律著作家
   - 短语
-    - `medical jurisprudence` 法医学 
+    - `medical jurisprudence`
+      - 法医学 
   - 例句
     - `In jurisprudence it is a well-known principle that justice should not merely be done but should also be seen to be done.`
       - 在法理学方面，人所共知的原则是：对受害者不仅应该公正对待，而且应当让人们看到他得到了公正的对待。

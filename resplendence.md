@@ -1,20 +1,27 @@
 - resplendence
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 辉煌,灿烂
+    - n.
+      - 辉煌,灿烂
   - 同根词
     - adj.
-      - `resplendent` 光辉的；华丽的
+      - `resplendent`
+        - 光辉的；华丽的
     - adv.
-      - `resplendently` 耀眼地；灿烂地
+      - `resplendently`
+        - 耀眼地；灿烂地
     - vi.
-      - `resplend` 发亮；灿烂
+      - `resplend`
+        - 发亮；灿烂
   - 近义词
-    - n. 辉煌；灿烂
-      - `refulgence`
-      - `effulgence`
+    - n.
+      - 辉煌；灿烂
+        - `refulgence`
+        - `effulgence`
   - 例句
     - `We do not pursue one resplendence but development for ever.`
       - 我们不求一时之辉煌，但求永远的发展。

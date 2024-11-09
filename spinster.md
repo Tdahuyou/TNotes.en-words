@@ -1,13 +1,17 @@
 - spinster
   - 发音
-    - 英 `/'spɪnstə/`
-    - 美 `/'spɪnstɚ/`
+    - 英
+      - `/'spɪnstə/`
+    - 美
+      - `/'spɪnstɚ/`
   - 词义
-    - n. 老姑娘；未婚女人
-    - `an unmarried woman, usually one who is no longer young and seems unlikely to marry`
+    - n.
+      - 老姑娘；未婚女人
+        - `an unmarried woman, usually one who is no longer young and seems unlikely to marry`
   - 同根词
     - n.
-      - `spinsterhood` 未婚；独身
+      - `spinsterhood`
+        - 未婚；独身
   - 例句
     - `These households comprised of an old man and an old spinster are not rare, and always have the touching aspect of two weaknesses leaning on each other for support.`
       - 这种由一个老头子和一个老姑娘组成的家庭是一点不稀罕的，那种两老相依为命的情景总会令人怅然神往。

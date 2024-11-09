@@ -1,28 +1,40 @@
 - catalysis
   - 发音
-    - 英 `/kə'tælɪsɪs/`
-    - 美 `/kə'tælɪsɪs/`
+    - 英
+      - `/kə'tælɪsɪs/`
+    - 美
+      - `/kə'tælɪsɪs/`
   - 词义
-    - n. 催化作用
-    - `the process of making a chemical reaction quicker by adding a catalyst`
+    - n.
+      - 催化作用
+        - `the process of making a chemical reaction quicker by adding a catalyst`
   - 同根词
     - adj.
-      - `catalytic` 接触反应的；起催化作用的
+      - `catalytic`
+        - 接触反应的；起催化作用的
     - adv.
-      - `catalytically` 催化地
+      - `catalytically`
+        - 催化地
     - n.
-      - `catalyst` [物化] 催化剂；刺激因素
-      - `catalytic` 催化剂；刺激因素
+      - `catalyst`
+        - [物化] 催化剂；刺激因素
+      - `catalytic`
+        - 催化剂；刺激因素
     - vt.
-      - `catalyze` 催化；刺激，促进
-      - `catalyse` 催化；促成（等于catalyze）
+      - `catalyze`
+        - 催化；刺激，促进
+      - `catalyse`
+        - 催化；促成（等于catalyze）
   - 近义词
-    - n. 催化作用；刺激作用
-      - `katalysis`
-      - `catalytic action`
+    - n.
+      - 催化作用；刺激作用
+        - `katalysis`
+        - `catalytic action`
   - 短语
-    - `heterogeneous catalysis` 多相催化 
-    - `homogeneous catalysis` 均相催化 
+    - `heterogeneous catalysis`
+      - 多相催化 
+    - `homogeneous catalysis`
+      - 均相催化 
   - 例句
     - `He invented ammonia synthesis with catalysis by iron.`
       - 它发现了铁催化合成氨的催化反应。

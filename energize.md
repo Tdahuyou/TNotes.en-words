@@ -1,23 +1,31 @@
 - energize
   - 发音
-    - 英 `/'enədʒaɪz/`
-    - 美 `/'ɛnɚdʒaɪz/`
+    - 英
+      - `/'enədʒaɪz/`
+    - 美
+      - `/'ɛnɚdʒaɪz/`
   - 词义
-    - v. 激励；使活跃；供给…能量
-    - `To energize someone means to give them the enthusiasm and determination to do something`
+    - v.
+      - 激励；使活跃；供给…能量
+        - `To energize someone means to give them the enthusiasm and determination to do something`
   - 同根词
     - n.
-      - `energy` [物] 能量；精力；活力；精神
-      - `energizer` 激发器，增能器；情绪兴奋剂
+      - `energy`
+        - [物] 能量；精力；活力；精神
+      - `energizer`
+        - 激发器，增能器；情绪兴奋剂
     - vt.
-      - `energise` 供给…能量；使精力充沛（等于energize）
+      - `energise`
+        - 供给…能量；使精力充沛（等于energize）
   - 近义词
-    - vt. 激励；使活跃；供给…能量
-      - `stimulate`
-      - `power`
-    - vi. 活动；用力
-      - `function`
-      - `exercise one's activity`
+    - vt.
+      - 激励；使活跃；供给…能量
+        - `stimulate`
+        - `power`
+    - vi.
+      - 活动；用力
+        - `function`
+        - `exercise one's activity`
   - 例句
     - `He helped energize and mobilize millions of people around the nation.`
       - 他参与激励并动员了全国数百万人。

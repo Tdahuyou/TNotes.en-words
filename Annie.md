@@ -1,7 +1,9 @@
 - Annie
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
   - 例句
     - `After the movie was finished, my husband reminded me that I am an Annie Sullivan.`

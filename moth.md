@@ -1,24 +1,33 @@
 - moth
   - 发音
-    - 英 `/mɔːθ/`
-    - 美 `/mɔθ/`
+    - 英
+      - `/mɔːθ/`
+    - 美
+      - `/mɔθ/`
   - 词义
-    - n. 蛾
-    - `an insect related to the  butterfly  that flies mainly at night and is attracted to lights. Some moths eat holes in cloth.`
+    - n.
+      - 蛾
+        - `an insect related to the  butterfly  that flies mainly at night and is attracted to lights. Some moths eat holes in cloth.`
   - 记忆
     - “莫死” → 不畏死 → 飞蛾扑火不畏死 → 蛾
   - 同根词
     - adj.
-      - `mothy` 多蛾的；虫蛀的
+      - `mothy`
+        - 多蛾的；虫蛀的
   - 近义词
-    - n. [昆]蛾；蛀虫
-      - `miller`
-      - `deathwatch beetle`
+    - n.
+      - [昆]蛾；蛀虫
+        - `miller`
+        - `deathwatch beetle`
   - 短语
-    - `diamondback moth` 小菜蛾 
-    - `silkworm moth` 蚕蛾 
-    - `gypsy moth` 舞毒蛾（等于Porthetria dispar） 
-    - `silk moth` 蚕蛾 
+    - `diamondback moth`
+      - 小菜蛾 
+    - `silkworm moth`
+      - 蚕蛾 
+    - `gypsy moth`
+      - 舞毒蛾（等于Porthetria dispar） 
+    - `silk moth`
+      - 蚕蛾 
   - 例句
     - `What do a hummingbird, a moth, and a maple tree have in common?`
       - 蜂鸟、蛾子和枫树之间有什么共同之处呢？

@@ -1,18 +1,24 @@
 - awkwardness
   - 发音
-    - 英 `/'ɔːkwədnəs/`
-    - 美 `/'ɔ:kwədnis/`
+    - 英
+      - `/'ɔːkwədnəs/`
+    - 美
+      - `/'ɔ:kwədnis/`
   - 词义
-    - n. 尴尬；笨拙
+    - n.
+      - 尴尬；笨拙
   - 同根词
     - adj.
-      - `awkward` 尴尬的；笨拙的；棘手的；不合适的
+      - `awkward`
+        - 尴尬的；笨拙的；棘手的；不合适的
     - adv.
-      - `awkwardly` 笨拙地；无技巧地
+      - `awkwardly`
+        - 笨拙地；无技巧地
   - 近义词
-    - n. 尴尬；笨拙
-      - `pretty pass`
-      - `clumsiness`
+    - n.
+      - 尴尬；笨拙
+        - `pretty pass`
+        - `clumsiness`
   - 例句
     - `After all, among the "stressors" cited by one participant was "awkwardness re: who should pay at a restaurant.`
       - 毕竟，这些”强压人群“被另一个参与者引用为”尴尬者：谁应该为吃饭付钱。

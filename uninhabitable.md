@@ -1,10 +1,13 @@
 - uninhabitable
   - 发音
-    - 英 `/ʌnɪn'hæbɪtəb(ə)l/`
-    - 美 `/,ʌnɪn'hæbɪtəbl/`
+    - 英
+      - `/ʌnɪn'hæbɪtəb(ə)l/`
+    - 美
+      - `/,ʌnɪn'hæbɪtəbl/`
   - 词义
-    - adj. 不适宜居住的
-    - `if a place is uninhabitable, it is impossible to live in`
+    - adj.
+      - 不适宜居住的
+        - `if a place is uninhabitable, it is impossible to live in`
   - 例句
     - `Much of the country is uninhabitable because it is desert.`
       - 由于地处沙漠，这个国家的许多地区不适宜居住。

@@ -1,23 +1,31 @@
 - flatter
   - 发音
-    - 英 `/'flætə/`
-    - 美 `/'flætɚ/`
+    - 英
+      - `/'flætə/`
+    - 美
+      - `/'flætɚ/`
   - 词义
-    - v. 过分夸赞,奉承,使满意
-    - `If someone flatters you, they praise you in an exaggerated way that is not sincere, because they want to please you or to persuade you to do something`
+    - v.
+      - 过分夸赞,奉承,使满意
+        - `If someone flatters you, they praise you in an exaggerated way that is not sincere, because they want to please you or to persuade you to do something`
   - 同根词
     - adj.
-      - `flattering` 奉承的；谄媚的
+      - `flattering`
+        - 奉承的；谄媚的
     - n.
-      - `flattery` 奉承；谄媚；恭维话
-      - `flatterer` 奉承者；阿谀者；谄媚者
+      - `flattery`
+        - 奉承；谄媚；恭维话
+      - `flatterer`
+        - 奉承者；阿谀者；谄媚者
   - 近义词
-    - vt. 奉承；谄媚；使高兴
-      - `please`
-      - `glad`
-      - `satisfy`
+    - vt.
+      - 奉承；谄媚；使高兴
+        - `please`
+        - `glad`
+        - `satisfy`
   - 短语
-    - `flatter oneself` 自鸣得意；自以为是 
+    - `flatter oneself`
+      - 自鸣得意；自以为是 
   - 例句
     - `I knew she was just flattering me.`
       - 我知道她只是在奉承我。

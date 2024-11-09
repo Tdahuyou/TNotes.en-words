@@ -1,14 +1,18 @@
 - cannonball
   - 发音
-    - 英 `/'kænənbɔːl/`
-    - 美 `/'kænənbɔl/`
+    - 英
+      - `/'kænənbɔːl/`
+    - 美
+      - `/'kænənbɔl/`
   - 词义
-    - n. 炮弹
-    - `a heavy iron ball fired from a cannon`
+    - n.
+      - 炮弹
+        - `a heavy iron ball fired from a cannon`
   - 近义词
-    - n. 炮弹
-      - `shot`
-      - `shell`
+    - n.
+      - 炮弹
+        - `shot`
+        - `shell`
   - 例句
     - `Shoot the red ball with a humanoid cannonball.`
       - 用类似人形的炮弹射击红色的求。

@@ -1,10 +1,13 @@
 - footbridge
   - 发音
-    - 英 `/'fʊtbrɪdʒ/`
-    - 美 `/'fʊtbrɪdʒ/`
+    - 英
+      - `/'fʊtbrɪdʒ/`
+    - 美
+      - `/'fʊtbrɪdʒ/`
   - 词义
-    - n. [交]人行桥
-    - `a narrow bridge used by people who are walking`
+    - n.
+      - [交]人行桥
+        - `a narrow bridge used by people who are walking`
   - 例句
     - `She forgot about Mandeni coming and met him on the footbridge.`
       - 她忘了玛德尼正往这走，一下子在人行桥上撞见了他。

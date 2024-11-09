@@ -1,24 +1,35 @@
 - difficult
   - 发音
-    - 英 `/ˈdɪfɪkəlt/`
-    - 美 `/ˈdɪfɪkəlt/`
+    - 英
+      - `/ˈdɪfɪkəlt/`
+    - 美
+      - `/ˈdɪfɪkəlt/`
   - 词义
-    - adj. 难对付的
-    - `hard to do, understand, or deal with`
+    - adj.
+      - 难对付的
+        - `hard to do, understand, or deal with`
   - 同根词
     - n.
-      - `difficulty` 困难，困境
+      - `difficulty`
+        - 困难，困境
   - 近义词
-    - adj. 困难的；不随和的；执拗的
-      - `hard`
-      - `tough`
+    - adj.
+      - 困难的；不随和的；执拗的
+        - `hard`
+        - `tough`
   - 短语
-    - `difficult problem` 难题；难问题 
-    - `difficult point` 难点 
-    - `difficult thing` 困难的事；难事 
-    - `difficult of access` (某地)难进入；(某人)难接近 
-    - `difficult choice` 艰难的选择 
-    - `difficult ground` 问题地区；特殊土地区；非凡土地区 
+    - `difficult problem`
+      - 难题；难问题 
+    - `difficult point`
+      - 难点 
+    - `difficult thing`
+      - 困难的事；难事 
+    - `difficult of access`
+      - (某地)难进入；(某人)难接近 
+    - `difficult choice`
+      - 艰难的选择 
+    - `difficult ground`
+      - 问题地区；特殊土地区；非凡土地区 
   - 例句
     - `a difficult question`
       - 难解的问题

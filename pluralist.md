@@ -1,19 +1,30 @@
 - pluralist
   - 发音
-    - 英 `/'plurəlɪst/`
-    - 美 `/'pluərəlist/`
+    - 英
+      - `/'plurəlɪst/`
+    - 美
+      - `/'pluərəlist/`
   - 词义
-    - n. 兼任数个宗教职位者，兼职者
+    - n.
+      - 兼任数个宗教职位者，兼职者
   - 同根词
     - adj.
-      - `plural` 复数的
-      - `pluralistic` 兼职的；兼管数个教堂的
+      - `plural`
+        - 复数的
+      - `pluralistic`
+        - 兼职的；兼管数个教堂的
     - n.
-      - `plural` 复数
-      - `pluralism` 多元主义；多元论；兼任
-      - `plurality` 多数；复数；兼职；胜出票数
+      - `plural`
+        - 复数
+      - `pluralism`
+        - 多元主义；多元论；兼任
+      - `plurality`
+        - 多数；复数；兼职；胜出票数
     - vi.
-      - `pluralize` 兼职；成复数
+      - `pluralize`
+        - 兼职；成复数
     - vt.
-      - `pluralise` （英）使…成复数（等于pluralize）
-      - `pluralize` 使成复数；以复数表示
+      - `pluralise`
+        - （英）使…成复数（等于pluralize）
+      - `pluralize`
+        - 使成复数；以复数表示

@@ -1,24 +1,31 @@
 - thirsty
   - 发音
-    - 英 `/'θɜːstɪ/`
-    - 美 `/'θɝsti/`
+    - 英
+      - `/'θɜːstɪ/`
+    - 美
+      - `/'θɝsti/`
   - 词义
-    - adj. 渴的
-    - `feeling that you want or need a drink`
+    - adj.
+      - 渴的
+        - `feeling that you want or need a drink`
   - 同根词
     - adv.
-      - `thirstily` 口渴地；如饥似渴地
+      - `thirstily`
+        - 口渴地；如饥似渴地
     - n.
-      - `thirst` 渴望；口渴；热望
+      - `thirst`
+        - 渴望；口渴；热望
     - vi.
-      - `thirst` 渴望；口渴
+      - `thirst`
+        - 渴望；口渴
   - 近义词
-    - adj. 口渴的，口干的；渴望的，热望的
-      - `dry`
-      - `eager`
-      - `hungry`
-      - `anxious`
-      - `desired`
+    - adj.
+      - 口渴的，口干的；渴望的，热望的
+        - `dry`
+        - `eager`
+        - `hungry`
+        - `anxious`
+        - `desired`
   - 例句
     - `Can I have a glass of water? I’m really thirsty.`
       - 我能喝一杯水吗？ 我太渴了。

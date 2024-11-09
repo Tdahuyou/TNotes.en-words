@@ -1,21 +1,28 @@
 - alienated
   - 发音
-    - 英 `/'eiljəneitid/`
-    - 美 `/'eljənetɪd/`
+    - 英
+      - `/'eiljəneitid/`
+    - 美
+      - `/'eljənetɪd/`
   - 词义
-    - adj. 疏离的
+    - adj.
+      - 疏离的
   - 记忆
     - alien(外国的) + ate → 把别人当外国人 → 使疏远
   - 同根词
     - n.
-      - `alienation` 异化；疏远；转让；[内科] 精神错乱；间离效果（alienation effect）
-      - `alienator` 疏远者；赠予者；转让者
+      - `alienation`
+        - 异化；疏远；转让；[内科] 精神错乱；间离效果（alienation effect）
+      - `alienator`
+        - 疏远者；赠予者；转让者
     - vt.
-      - `alienate` 使疏远，离间；让与
+      - `alienate`
+        - 使疏远，离间；让与
   - 近义词
-    - adj. 疏远的；被疏远的
-      - `remote`
-      - `estranged`
+    - adj.
+      - 疏远的；被疏远的
+        - `remote`
+        - `estranged`
   - 例句
     - `His behavior alienated him and his brother.`
       - 他的行为使他跟哥哥疏远了。

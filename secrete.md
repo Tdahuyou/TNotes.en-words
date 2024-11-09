@@ -1,26 +1,37 @@
 - secrete
   - 发音
-    - 英 `/sɪ'kriːt/`
-    - 美 `/sɪ'krit/`
+    - 英
+      - `/sɪ'kriːt/`
+    - 美
+      - `/sɪ'krit/`
   - 词义
-    - vt. 分泌；藏匿，躲藏
-    - `to hide something`
+    - vt.
+      - 分泌；藏匿，躲藏
+        - `to hide something`
   - 记忆
     - 他把那封秘密(secret)信件藏(secrete)在角落里
   - 同根词
     - adj.
-      - `secretive` 秘密的；偷偷摸摸的；促进分泌的
-      - `secretory` 分泌的；促进分泌的
+      - `secretive`
+        - 秘密的；偷偷摸摸的；促进分泌的
+      - `secretory`
+        - 分泌的；促进分泌的
     - adv.
-      - `secretively` 隐匿地
+      - `secretively`
+        - 隐匿地
     - n.
-      - `secretion` 分泌；分泌物；藏匿；隐藏
-      - `secretory` 分泌器官；分泌腺
-      - `secretiveness` 隐匿；分泌
-      - `secretor` 分泌器；分泌腺
+      - `secretion`
+        - 分泌；分泌物；藏匿；隐藏
+      - `secretory`
+        - 分泌器官；分泌腺
+      - `secretiveness`
+        - 隐匿；分泌
+      - `secretor`
+        - 分泌器；分泌腺
   - 近义词
-    - vt. 分泌；藏匿；私下侵吞
-      - `excrete`
+    - vt.
+      - 分泌；藏匿；私下侵吞
+        - `excrete`
   - 例句
     - `The money had been secreted in a Swiss bank account.`
       - 这笔钱藏匿在一个瑞士银行账户里。

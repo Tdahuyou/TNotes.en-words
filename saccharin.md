@@ -1,23 +1,32 @@
 - saccharin
   - 发音
-    - 英 `/'sækərɪn/`
-    - 美 `/'sækərɪn/`
+    - 英
+      - `/'sækərɪn/`
+    - 美
+      - `/'sækərɪn/`
   - 词义
-    - n. 糖精
-    - `a chemical substance that tastes sweet and is used instead of sugar in drinks`
+    - n.
+      - 糖精
+        - `a chemical substance that tastes sweet and is used instead of sugar in drinks`
   - 同根词
     - adj.
-      - `saccharine` 含糖的；极甜的；和颜悦色的
+      - `saccharine`
+        - 含糖的；极甜的；和颜悦色的
     - n.
-      - `saccharine` （美）糖精
-      - `saccharinity` 含糖量；甜蜜；甜度
+      - `saccharine`
+        - （美）糖精
+      - `saccharinity`
+        - 含糖量；甜蜜；甜度
   - 近义词
-    - n. [有化]糖精；邻磺酰苯甲酰亚胺
-      - `gluside`
-      - `saxin`
+    - n.
+      - [有化]糖精；邻磺酰苯甲酰亚胺
+        - `gluside`
+        - `saxin`
   - 短语
-    - `saccharin sodium` 糖精钠 
-    - `sodium saccharin` [化]糖精钠 
+    - `saccharin sodium`
+      - 糖精钠 
+    - `sodium saccharin`
+      - [化]糖精钠 
   - 例句
     - `The saccharin-fed animals, on the other hand, showed no such rise in temperature.`
       - 另一方面，食用糖精的小白鼠并没有出现体温升高的现象。

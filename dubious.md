@@ -1,24 +1,31 @@
 - dubious
   - 发音
-    - 英 `/'duːbiəs/`
-    - 美 `/'dubɪəs/`
+    - 英
+      - `/'duːbiəs/`
+    - 美
+      - `/'dubɪəs/`
   - 词义
-    - adj. 怀疑的，拿不准的；可疑的，靠不住的
-    - `probably not honest, true, right etc`
+    - adj.
+      - 怀疑的，拿不准的；可疑的，靠不住的
+        - `probably not honest, true, right etc`
   - 记忆
     - dub(二， 双) + ious → 前后两种态度的 → 可疑的
   - 同根词
     - adj.
-      - `dubitable` 可疑的；不确定的
+      - `dubitable`
+        - 可疑的；不确定的
     - adv.
-      - `dubiously` 怀疑地；可疑地
+      - `dubiously`
+        - 怀疑地；可疑地
     - n.
-      - `dubiety` 可疑的东西；可疑性
+      - `dubiety`
+        - 可疑的东西；可疑性
   - 近义词
-    - adj. 可疑的；暧昧的；无把握的；半信半疑的
-      - `suspicious`
-      - `doubtful`
-      - `questionable`
+    - adj.
+      - 可疑的；暧昧的；无把握的；半信半疑的
+        - `suspicious`
+        - `doubtful`
+        - `questionable`
   - 例句
     - `The firm was accused of dubious accounting practices.`
       - 该公司被指控有不诚实的会计行为。

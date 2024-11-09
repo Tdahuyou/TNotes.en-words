@@ -1,28 +1,37 @@
 - check
   - 发音
-    - 英 `/tʃek/`
-    - 美 `/tʃɛk/`
+    - 英
+      - `/tʃek/`
+    - 美
+      - `/tʃɛk/`
   - 词义
-    - v. 检查；查看
-    - `to do something in order to find out whether something really is correct, true, or in good condition`
+    - v.
+      - 检查；查看
+        - `to do something in order to find out whether something really is correct, true, or in good condition`
   - 同根词
     - adj.
-      - `checked` 选中的；格子花纹的
+      - `checked`
+        - 选中的；格子花纹的
     - n.
-      - `checker` 检验员；收银员；棋子；方格图案；制止者
+      - `checker`
+        - 检验员；收银员；棋子；方格图案；制止者
     - v.
-      - `checked` 检查（check的过去式和过去分词）
+      - `checked`
+        - 检查（check的过去式和过去分词）
     - vt.
-      - `checker` 把…画成棋盘形方格图案；使多样化
+      - `checker`
+        - 把…画成棋盘形方格图案；使多样化
   - 近义词
-    - vt. 检查；制止；寄存
-      - `examine`
-      - `inspect`
-      - `review`
-      - `park`
-    - n. [金融]支票；阻止；阻止物
-      - `prevention`
-      - `cheque`
+    - vt.
+      - 检查；制止；寄存
+        - `examine`
+        - `inspect`
+        - `review`
+        - `park`
+    - n.
+      - [金融]支票；阻止；阻止物
+        - `prevention`
+        - `cheque`
   - 例句
     - `Check the tiles carefully before you buy them.`
       - 购买之前要把瓷砖仔细检查一下。

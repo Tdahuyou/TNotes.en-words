@@ -1,18 +1,24 @@
 - ellipsis
   - 发音
-    - 英 `/ɪ'lɪpsɪs/`
-    - 美 `/ɪ'lɪpsɪs/`
+    - 英
+      - `/ɪ'lɪpsɪs/`
+    - 美
+      - `/ɪ'lɪpsɪs/`
   - 词义
-    - n. 省略,省略符号
-    - `when words are deliberately left out of a sentence, though the meaning can still be understood. For example, you may say ‘He’s leaving but I’m not’ instead of saying ‘He’s leaving but I’m not leaving.’`
+    - n.
+      - 省略,省略符号
+        - `when words are deliberately left out of a sentence, though the meaning can still be understood. For example, you may say ‘He’s leaving but I’m not’ instead of saying ‘He’s leaving but I’m not leaving.’`
   - 同根词
     - adj.
-      - `elliptical` 椭圆的；省略的
-      - `elliptic` 椭圆形的；省略的
+      - `elliptical`
+        - 椭圆的；省略的
+      - `elliptic`
+        - 椭圆形的；省略的
   - 近义词
-    - n. [语]省略；省略符号；脱漏
-      - `omis`
-      - `apostrophe`
+    - n.
+      - [语]省略；省略符号；脱漏
+        - `omis`
+        - `apostrophe`
   - 例句
     - `You no doubt noticed the ellipsis in the code above.`
       - 您一定注意到上述代码中的省略号。

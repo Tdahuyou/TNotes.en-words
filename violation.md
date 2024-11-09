@@ -1,30 +1,41 @@
 - violation
   - 发音
-    - 英 `/ˌvaiə'leiʃən/`
-    - 美 `/,vaɪə'leʃən/`
+    - 英
+      - `/ˌvaiə'leiʃən/`
+    - 美
+      - `/,vaɪə'leʃən/`
   - 词义
-    - n. 违反，违背；妨碍，侵害
-    - `an action that breaks a law, agreement, principle etc`
+    - n.
+      - 违反，违背；妨碍，侵害
+        - `an action that breaks a law, agreement, principle etc`
   - 记忆
     - 来自violate (v. 违犯， 侵犯)
   - 同根词
     - adj.
-      - `violable` 易受侵犯的；可亵渎的；可违反的
-      - `violative` 违犯的；违背的；违反的
+      - `violable`
+        - 易受侵犯的；可亵渎的；可违反的
+      - `violative`
+        - 违犯的；违背的；违反的
     - n.
-      - `violator` 违背者；违反者；妨碍者
+      - `violator`
+        - 违背者；违反者；妨碍者
     - vt.
-      - `violate` 违反；侵犯，妨碍；亵渎
+      - `violate`
+        - 违反；侵犯，妨碍；亵渎
   - 近义词
-    - n. 违反；妨碍，侵害；违背；强奸
-      - `intervention`
-      - `prevention`
-      - `infringement`
-      - `breach`
+    - n.
+      - 违反；妨碍，侵害；违背；强奸
+        - `intervention`
+        - `prevention`
+        - `infringement`
+        - `breach`
   - 短语
-    - `in violation of` adj. 违反（违背） 
-    - `violation of laws` 违法；违章 
-    - `access violation` 访问破坏；访问违例 
+    - `in violation of`
+      - adj. 违反（违背） 
+    - `violation of laws`
+      - 违法；违章 
+    - `access violation`
+      - 访问破坏；访问违例 
   - 例句
     - `human rights violations`
       - 违反人权

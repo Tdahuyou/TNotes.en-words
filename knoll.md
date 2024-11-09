@@ -1,14 +1,18 @@
 - knoll
   - 发音
-    - 英 `/nəʊl/`
-    - 美 `/nol/`
+    - 英
+      - `/nəʊl/`
+    - 美
+      - `/nol/`
   - 词义
-    - n. 小山
-    - `a small round hill`
+    - n.
+      - 小山
+        - `a small round hill`
   - 近义词
-    - n. 小山
-      - `hill`
-      - `rises`
+    - n.
+      - 小山
+        - `hill`
+        - `rises`
   - 例句
     - `Right about here, Seidler said, pointing to a gap of sage between our knoll and the houses, is where most of the pronghorn seem to cross through.`
       - 塞德勒指着我们所在小山和房屋间的鼠尾草豁口说，看起来大多数叉角羚就从这里通过。

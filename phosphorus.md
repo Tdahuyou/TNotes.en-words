@@ -1,18 +1,28 @@
 - phosphorus
   - 发音
-    - 英 `/'fɒsf(ə)rəs/`
-    - 美 `/'fɑsfərəs/`
+    - 英
+      - `/'fɒsf(ə)rəs/`
+    - 美
+      - `/'fɑsfərəs/`
   - 词义
-    - n. 磷
-    - `Phosphorus is a poisonous yellowish-white chemical element. It glows slightly, and burns when air touches it. `
+    - n.
+      - 磷
+        - `Phosphorus is a poisonous yellowish-white chemical element. It glows slightly, and burns when air touches it. `
   - 短语
-    - `total phosphorus` 总磷 
-    - `yellow phosphorus` 黄磷 
-    - `red phosphorus` 红磷；赤磷 
-    - `phosphorus trichloride` 三氯化磷 
-    - `phosphorus oxychloride` [化]磷酰氯；三氯氧化磷 
-    - `white phosphorus` 白磷；黄磷 
-    - `phosphorus pentoxide` 五氧化二磷 
+    - `total phosphorus`
+      - 总磷 
+    - `yellow phosphorus`
+      - 黄磷 
+    - `red phosphorus`
+      - 红磷；赤磷 
+    - `phosphorus trichloride`
+      - 三氯化磷 
+    - `phosphorus oxychloride`
+      - [化]磷酰氯；三氯氧化磷 
+    - `white phosphorus`
+      - 白磷；黄磷 
+    - `phosphorus pentoxide`
+      - 五氧化二磷 
   - 例句
     - `Because scientists have found a bacterium that can do without phosphorus—live on arsenic instead.`
       - 因为科学家已经发现了一种细菌，可以无需磷生活而以砷代替。

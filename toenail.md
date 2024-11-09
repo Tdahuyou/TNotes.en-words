@@ -1,10 +1,13 @@
 - toenail
   - 发音
-    - 英 `/'təʊneɪl/`
-    - 美 `/'tonel/`
+    - 英
+      - `/'təʊneɪl/`
+    - 美
+      - `/'tonel/`
   - 词义
-    - n. 脚趾甲；[木]斜钉
-    - `the hard part that covers the top of each of your toes`
+    - n.
+      - 脚趾甲；[木]斜钉
+        - `the hard part that covers the top of each of your toes`
   - 例句
     - `This kind of fungal infection on feet and toenail can be prevented if you practice barefoot walking and give the scope to the feet to breath normally.`
       - 如果你练习光着脚走路，并且使你的脚能得到正常呼吸的机会，那么这种脚部及脚趾甲的真菌感染就可以得到抑制。

@@ -1,45 +1,75 @@
 - shopping
   - 发音
-    - 英 `/'ʃɒpɪŋ/`
-    - 美 `/'ʃɑpɪŋ/`
+    - 英
+      - `/'ʃɒpɪŋ/`
+    - 美
+      - `/'ʃɑpɪŋ/`
   - 词义
-    - n. 购物
-    - `the activity of going to shops and buying things`
+    - n.
+      - 购物
+        - `the activity of going to shops and buying things`
   - 同根词
     - adj.
-      - `shopaholic` 购物狂的
+      - `shopaholic`
+        - 购物狂的
     - n.
-      - `shop` 商店；店铺
-      - `shopper` 购物者；顾客
-      - `shopaholic` 购物狂
+      - `shop`
+        - 商店；店铺
+      - `shopper`
+        - 购物者；顾客
+      - `shopaholic`
+        - 购物狂
     - vi.
-      - `shop` 购物；买东西
+      - `shop`
+        - 购物；买东西
     - vt.
-      - `shop` 购物
+      - `shop`
+        - 购物
   - 近义词
-    - n. [贸易]购物，买东西
-      - `trading`
+    - n.
+      - [贸易]购物，买东西
+        - `trading`
   - 短语
-    - `go shopping` 去买东西 
-    - `shopping mall` 大商场，大型购物中心 
-    - `shopping center` 商店区，购物中心 
-    - `online shopping` 网络购物 
-    - `shopping centre` 购物中心 
-    - `shopping bag` n. 购物袋 
-    - `shopping cart` 购物手推车 
-    - `shopping list` 购物单 
-    - `shopping online` 网上购物 
-    - `shopping arcade` 购物商场；商店街，商场部 
-    - `christmas shopping` 圣诞节购物；圣诞采购 
-    - `do some shopping` 买东西；购物 
-    - `one-stop shopping` 一站式购物；一站式采购 
-    - `shopping plaza` n. 购物广场 
-    - `shopping street` 商业街 
-    - `shopping spree` 疯狂购物；抢购狂欢 
-    - `shopping basket` 购物篮；提篮 
-    - `home shopping` 家庭购物（指邮购、电视、电话或电脑购物） 
-    - `window shopping` 逛商店；看橱窗 
-    - `do the shopping` 购物，买东西 
+    - `go shopping`
+      - 去买东西 
+    - `shopping mall`
+      - 大商场，大型购物中心 
+    - `shopping center`
+      - 商店区，购物中心 
+    - `online shopping`
+      - 网络购物 
+    - `shopping centre`
+      - 购物中心 
+    - `shopping bag`
+      - n. 购物袋 
+    - `shopping cart`
+      - 购物手推车 
+    - `shopping list`
+      - 购物单 
+    - `shopping online`
+      - 网上购物 
+    - `shopping arcade`
+      - 购物商场；商店街，商场部 
+    - `christmas shopping`
+      - 圣诞节购物；圣诞采购 
+    - `do some shopping`
+      - 买东西；购物 
+    - `one-stop shopping`
+      - 一站式购物；一站式采购 
+    - `shopping plaza`
+      - n. 购物广场 
+    - `shopping street`
+      - 商业街 
+    - `shopping spree`
+      - 疯狂购物；抢购狂欢 
+    - `shopping basket`
+      - 购物篮；提篮 
+    - `home shopping`
+      - 家庭购物（指邮购、电视、电话或电脑购物） 
+    - `window shopping`
+      - 逛商店；看橱窗 
+    - `do the shopping`
+      - 购物，买东西 
   - 例句
     - `Late-night shopping is becoming very popular.`
       - 深夜购物越来越普遍了。

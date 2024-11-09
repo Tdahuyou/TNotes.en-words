@@ -1,16 +1,21 @@
 - reaffirmation
   - 发音
-    - 英 `/ˌriːˌæfər'meɪʃn/`
-    - 美 `/undefined/`
+    - 英
+      - `/ˌriːˌæfər'meɪʃn/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 再肯定
+    - n.
+      - 再肯定
   - 同根词
     - vt.
-      - `reaffirm` 再肯定，重申；再断言
+      - `reaffirm`
+        - 再肯定，重申；再断言
   - 近义词
-    - n. 重申；再断言；再确认
-      - `renewal`
-      - `reconfirmation`
+    - n.
+      - 重申；再断言；再确认
+        - `renewal`
+        - `reconfirmation`
   - 例句
     - `He mentioned the recent NDRC-World Bank Report as a positive reaffirmation of future policy directions which leading foreign investors hope to see realized.`
       - 他提到近期国家发改委及世界银行的报告再次肯定了未来政策的走向，使外国投资者对政策的落实寄予厚望。

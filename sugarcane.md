@@ -1,12 +1,16 @@
 - sugarcane
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. [植]甘蔗
-    - `a tall tropical plant from whose stems sugar is obtained`
+    - n.
+      - [植]甘蔗
+        - `a tall tropical plant from whose stems sugar is obtained`
   - 短语
-    - `sugarcane juice` 蔗汁 
+    - `sugarcane juice`
+      - 蔗汁 
   - 例句
     - `He cut the sugarcane into several pieces.`
       - 他把甘蔗截成几节。

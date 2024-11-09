@@ -1,18 +1,23 @@
 - defilade
   - 发音
-    - 英 `/,defɪ'leɪd/`
-    - 美 `/,dɛfə'led/`
+    - 英
+      - `/,defɪ'leɪd/`
+    - 美
+      - `/,dɛfə'led/`
   - 词义
-    - vt. 遮蔽
-    - `to provide protection for by defilade `
+    - vt.
+      - 遮蔽
+        - `to provide protection for by defilade `
   - 近义词
-    - vt. 遮蔽
-      - `shadow`
-      - `shield`
-      - `curtain`
-    - n. 遮蔽
-      - `obscur`
-      - `shading`
+    - vt.
+      - 遮蔽
+        - `shadow`
+        - `shield`
+        - `curtain`
+    - n.
+      - 遮蔽
+        - `obscur`
+        - `shading`
   - 例句
     - `The measurement and plotting of defilade angle is a very important training subject even if using real radar set.`
       - 即使是在真实装备中，测量与绘制雷达遮蔽角也是一个非常重要的训练科目。

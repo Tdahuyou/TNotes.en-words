@@ -1,12 +1,16 @@
 - indium
   - 发音
-    - 英 `/'ɪndɪəm/`
-    - 美 `/'ɪndiəm/`
+    - 英
+      - `/'ɪndɪəm/`
+    - 美
+      - `/'ɪndiəm/`
   - 词义
-    - n. [化]铟
-    - `a rare soft silvery metallic element associated with zinc ores: used in alloys, electronics, and electroplating`
+    - n.
+      - [化]铟
+        - `a rare soft silvery metallic element associated with zinc ores: used in alloys, electronics, and electroplating`
   - 短语
-    - `indium oxide` 氧化铟 
+    - `indium oxide`
+      - 氧化铟 
   - 例句
     - `Photovoltaic cells rely on amorphous or crystalline silicon, cadmium telluride, or copper indium selenide and sulfide.`
       - 光伏电池依赖于非晶态或晶态的硅，碲化镉或者硒化、硫化铜铟。

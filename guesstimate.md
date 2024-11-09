@@ -1,24 +1,34 @@
 - guesstimate
   - 发音
-    - 英 `/ˈgestɪmət/`
-    - 美 `/'ɡɛstɪmet/`
+    - 英
+      - `/ˈgestɪmət/`
+    - 美
+      - `/'ɡɛstɪmet/`
   - 词义
-    - n. 大概估计，瞎猜估计
-    - `an attempt to judge a quantity by guessing it`
+    - n.
+      - 大概估计，瞎猜估计
+        - `an attempt to judge a quantity by guessing it`
   - 同根词
     - n.
-      - `guess` 猜测；推测
-      - `guesser` 推测者；猜测者
-      - `guestimate` 推测
+      - `guess`
+        - 猜测；推测
+      - `guesser`
+        - 推测者；猜测者
+      - `guestimate`
+        - 推测
     - vi.
-      - `guess` 猜；推测；猜中
+      - `guess`
+        - 猜；推测；猜中
     - vt.
-      - `guess` 猜测；认为；推测；猜中
-      - `guestimate` 推测
+      - `guess`
+        - 猜测；认为；推测；猜中
+      - `guestimate`
+        - 推测
   - 近义词
-    - vt. 瞎猜；估计
-      - `estimate`
-      - `gauge`
+    - vt.
+      - 瞎猜；估计
+        - `estimate`
+        - `gauge`
   - 例句
     - `Could you give us a guesstimate of the numbers involved?`
       - 你能给我们大致估计一下相关数字吗？

@@ -1,34 +1,52 @@
 - labourer
   - 发音
-    - 英 `/'leɪb(ə)rə/`
-    - 美 `/'lebərɚ/`
+    - 英
+      - `/'leɪb(ə)rə/`
+    - 美
+      - `/'lebərɚ/`
   - 词义
-    - n. 劳动者；劳工
-    - `someone whose work needs physical strength, for example building work`
+    - n.
+      - 劳动者；劳工
+        - `someone whose work needs physical strength, for example building work`
   - 同根词
     - adj.
-      - `labored` 吃力的；费劲的；不自然的
-      - `laboring` 劳动的
-      - `labouring` 劳动的；费劲的
+      - `labored`
+        - 吃力的；费劲的；不自然的
+      - `laboring`
+        - 劳动的
+      - `labouring`
+        - 劳动的；费劲的
     - n.
-      - `labor` 劳动；工作；劳工；分娩
-      - `labour` 劳动力，人工；分娩
-      - `laborer` 劳动者；工人
-      - `laboring` 劳动；操劳
-      - `labouring` 劳动
-      - `labourite` 英国劳工工党党员；工党党员
+      - `labor`
+        - 劳动；工作；劳工；分娩
+      - `labour`
+        - 劳动力，人工；分娩
+      - `laborer`
+        - 劳动者；工人
+      - `laboring`
+        - 劳动；操劳
+      - `labouring`
+        - 劳动
+      - `labourite`
+        - 英国劳工工党党员；工党党员
     - v.
-      - `labored` 工作；劳动；分娩（labor的过去分词）
-      - `labouring` 劳动；努力；为…所苦恼；艰难地行进（labour的ing形式）
+      - `labored`
+        - 工作；劳动；分娩（labor的过去分词）
+      - `labouring`
+        - 劳动；努力；为…所苦恼；艰难地行进（labour的ing形式）
     - vi.
-      - `labor` 劳动；努力；苦干
-      - `labour` 劳动；分娩；费力地前进
+      - `labor`
+        - 劳动；努力；苦干
+      - `labour`
+        - 劳动；分娩；费力地前进
     - vt.
-      - `labor` 详细分析；使厌烦
+      - `labor`
+        - 详细分析；使厌烦
   - 近义词
-    - n. 劳动者；[劳经]劳工
-      - `worker`
-      - `toiler`
+    - n.
+      - 劳动者；[劳经]劳工
+        - `worker`
+        - `toiler`
   - 例句
     - `a farm labourer`
       - 农场工人

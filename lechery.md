@@ -1,24 +1,34 @@
 - lechery
   - 发音
-    - 英 `/'letʃ(ə)rɪ/`
-    - 美 `/'lɛtʃɚi/`
+    - 英
+      - `/'letʃ(ə)rɪ/`
+    - 美
+      - `/'lɛtʃɚi/`
   - 词义
-    - n. 好色,淫荡,纵欲
-    - `sexual desire or pleasure that is considered bad because it is not part of a romantic relationship`
+    - n.
+      - 好色,淫荡,纵欲
+        - `sexual desire or pleasure that is considered bad because it is not part of a romantic relationship`
   - 同根词
     - adj.
-      - `lecherous` 好色的；淫荡的；引起淫欲的
-      - `lech` 好色的
+      - `lecherous`
+        - 好色的；淫荡的；引起淫欲的
+      - `lech`
+        - 好色的
     - n.
-      - `lecher` 好色之徒；纵欲的人
-      - `lech` 肉欲；好色的人
+      - `lecher`
+        - 好色之徒；纵欲的人
+      - `lech`
+        - 肉欲；好色的人
     - vi.
-      - `lecher` 纵欲
-      - `lech` 好色；纵欲
+      - `lecher`
+        - 纵欲
+      - `lech`
+        - 好色；纵欲
   - 近义词
-    - n. 好色；淫荡
-      - `sensuality`
-      - `lasciviousness`
+    - n.
+      - 好色；淫荡
+        - `sensuality`
+        - `lasciviousness`
   - 例句
     - `There was a hint of lechery in his eyes.`
       - 他的眼神里带着一丝淫欲。

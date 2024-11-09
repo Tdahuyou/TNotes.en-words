@@ -1,13 +1,18 @@
 - panther
   - 发音
-    - 英 `/'pænθə/`
-    - 美 `/'pænθɚ/`
+    - 英
+      - `/'pænθə/`
+    - 美
+      - `/'pænθɚ/`
   - 词义
-    - n. 豹；黑豹；美洲豹
-    - `a large wild animal that is black and a member of the cat family`
+    - n.
+      - 豹；黑豹；美洲豹
+        - `a large wild animal that is black and a member of the cat family`
   - 近义词
-    - n. [脊椎]豹；黑豹；美洲豹
-      - `leopard`
-      - `pard`
+    - n.
+      - [脊椎]豹；黑豹；美洲豹
+        - `leopard`
+        - `pard`
   - 短语
-    - `black panther` 黑豹 
+    - `black panther`
+      - 黑豹 

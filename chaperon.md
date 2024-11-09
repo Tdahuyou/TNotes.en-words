@@ -1,16 +1,21 @@
 - chaperon
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 女伴
+    - n.
+      - 女伴
   - 近义词
-    - vt. 陪伴；护送
-      - `attend`
-      - `keep company`
-    - n. 年长女伴（陪伴未婚少女上社交场所的）；监护人（青年社交聚会时在场的）
-      - `keeper`
-      - `guardian`
+    - vt.
+      - 陪伴；护送
+        - `attend`
+        - `keep company`
+    - n.
+      - 年长女伴（陪伴未婚少女上社交场所的）；监护人（青年社交聚会时在场的）
+        - `keeper`
+        - `guardian`
   - 例句
     - `Every girl needs a chaperon. Cosette could not have come without M. Fauchelevent.`
       - 女孩子都需要一个年长的人陪伴，没有割风先生，珂赛特就不可能来。

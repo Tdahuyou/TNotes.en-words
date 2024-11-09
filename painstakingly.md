@@ -1,18 +1,26 @@
 - painstakingly
   - 发音
-    - 英 `/'peɪnzteɪkɪŋli/`
-    - 美 `/'peins,teikiŋli/`
+    - 英
+      - `/'peɪnzteɪkɪŋli/`
+    - 美
+      - `/'peins,teikiŋli/`
   - 词义
-    - adv. 细心地，专注地；辛苦地
+    - adv.
+      - 细心地，专注地；辛苦地
   - 同根词
     - adj.
-      - `painstaking` 艰苦的；勤勉的；小心的
+      - `painstaking`
+        - 艰苦的；勤勉的；小心的
     - adv.
-      - `painfully` 痛苦地，费力地
-      - `painlessly` 无痛苦地，不费力地
+      - `painfully`
+        - 痛苦地，费力地
+      - `painlessly`
+        - 无痛苦地，不费力地
     - n.
-      - `painstaking` 辛苦；勤勉
+      - `painstaking`
+        - 辛苦；勤勉
   - 近义词
-    - adv. 煞费苦心地；费力地
-      - `strenuously`
-      - `laboriously`
+    - adv.
+      - 煞费苦心地；费力地
+        - `strenuously`
+        - `laboriously`

@@ -1,17 +1,23 @@
 - signet
   - 发音
-    - 英 `/'sɪgnɪt/`
-    - 美 `/'sɪgnɪt/`
+    - 英
+      - `/'sɪgnɪt/`
+    - 美
+      - `/'sɪgnɪt/`
   - 词义
-    - n. 印；图章
-    - `a metal object used for printing a small pattern in  wax  as an official  seal 1 2 `
-    - vt. 盖章于
-    - `to stamp or authenticate with a signet `
+    - n.
+      - 印；图章
+        - `a metal object used for printing a small pattern in  wax  as an official  seal 1 2 `
+    - vt.
+      - 盖章于
+        - `to stamp or authenticate with a signet `
   - 近义词
-    - n. 印；图章
-      - `print...`
+    - n.
+      - 印；图章
+        - `print...`
   - 短语
-    - `signet ring` n. 图章戒指 
+    - `signet ring`
+      - n. 图章戒指 
   - 例句
     - `If I had been, I would have set my signet on the biter.`
       - 如果我被咬了，我会在咬我的狗上留下印章的。

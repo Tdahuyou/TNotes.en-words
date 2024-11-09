@@ -1,18 +1,26 @@
 - aorta
   - 发音
-    - 英 `/eɪ'ɔːtə/`
-    - 美 `/e'ɔrtə/`
+    - 英
+      - `/eɪ'ɔːtə/`
+    - 美
+      - `/e'ɔrtə/`
   - 词义
-    - n. 大动脉
-    - `the largest  artery  that takes blood away from your heart`
+    - n.
+      - 大动脉
+        - `the largest  artery  that takes blood away from your heart`
   - 同根词
     - adj.
-      - `aortal` 主动脉的；织脉的
+      - `aortal`
+        - 主动脉的；织脉的
   - 短语
-    - `abdominal aorta` 腹主动脉；腹织脉 
-    - `thoracic aorta` 胸主动脉；胸织脉；胸总动脉 
-    - `ascending aorta` 升主动脉；上行织脉[医] 
-    - `descending aorta` 降主动脉；下行织脉；下行支大动脉 
+    - `abdominal aorta`
+      - 腹主动脉；腹织脉 
+    - `thoracic aorta`
+      - 胸主动脉；胸织脉；胸总动脉 
+    - `ascending aorta`
+      - 升主动脉；上行织脉[医] 
+    - `descending aorta`
+      - 降主动脉；下行织脉；下行支大动脉 
   - 例句
     - `And because it is from a reconstituted aorta, the doctors do not need to administer anti-rejection drugs, which react to cancer treatments.`
       - 由于人工气管是由再造主动脉制成，医生不需要是用抗排斥药物来应对癌症治疗过程中的反应。

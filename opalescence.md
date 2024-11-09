@@ -1,20 +1,29 @@
 - opalescence
   - 发音
-    - 英 `/ˌoupə'lesns/`
-    - 美 `/undefined/`
+    - 英
+      - `/ˌoupə'lesns/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 乳白光
+    - n.
+      - 乳白光
   - 同根词
     - adj.
-      - `opalescent` 乳白色的；发乳白光的
-      - `opaline` 蛋白石的，蛋白石状的；发乳光的；乳白色的
+      - `opalescent`
+        - 乳白色的；发乳白光的
+      - `opaline`
+        - 蛋白石的，蛋白石状的；发乳光的；乳白色的
     - n.
-      - `opal` 猫眼石，蛋白石；乳白玻璃
-      - `opaline` 乳白色；乳白玻璃
+      - `opal`
+        - 猫眼石，蛋白石；乳白玻璃
+      - `opaline`
+        - 乳白色；乳白玻璃
     - vi.
-      - `opalesce` 发出乳白色光，发乳白光
+      - `opalesce`
+        - 发出乳白色光，发乳白光
     - vt.
-      - `opalize` 使成乳色；使发乳白光
+      - `opalize`
+        - 使成乳色；使发乳白光
   - 例句
     - `The color space charts , opalescence and reflected fluorescence spectra curve were plotted.`
       - 绘制乳光瓷样本的色度空间图和不同品牌乳光瓷的乳光和荧光光谱曲线。

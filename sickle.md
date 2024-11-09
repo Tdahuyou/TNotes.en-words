@@ -1,18 +1,25 @@
 - sickle
   - 发音
-    - 英 `/'sɪk(ə)l/`
-    - 美 `/'sɪkl/`
+    - 英
+      - `/'sɪk(ə)l/`
+    - 美
+      - `/'sɪkl/`
   - 词义
-    - n. 镰刀
-    - `a tool with a blade in the shape of a hook, used for cutting wheat or long grass`
+    - n.
+      - 镰刀
+        - `a tool with a blade in the shape of a hook, used for cutting wheat or long grass`
   - 近义词
-    - n. [农机]镰刀
-      - `grasshook`
-      - `reaphook`
+    - n.
+      - [农机]镰刀
+        - `grasshook`
+        - `reaphook`
   - 短语
-    - `sickle cell` 镰状细胞；镰形红细胞 
-    - `sickle cell disease` 贫血；镰状细胞疾病 
-    - `sickle cell anemia` [医]镰状细胞性贫血 
+    - `sickle cell`
+      - 镰状细胞；镰形红细胞 
+    - `sickle cell disease`
+      - 贫血；镰状细胞疾病 
+    - `sickle cell anemia`
+      - [医]镰状细胞性贫血 
   - 例句
     - `He swished the tops off weeds with a sickle.`
       - 他挥动镰刀嗖嗖地割掉了杂草的草尖。

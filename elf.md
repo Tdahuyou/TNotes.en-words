@@ -1,17 +1,22 @@
 - elf
   - 发音
-    - 英 `/elf/`
-    - 美 `/ɛlf/`
+    - 英
+      - `/elf/`
+    - 美
+      - `/ɛlf/`
   - 词义
-    - n. 小精灵；淘气鬼
-    - `an imaginary creature like a small person with pointed ears and magical powers`
+    - n.
+      - 小精灵；淘气鬼
+        - `an imaginary creature like a small person with pointed ears and magical powers`
   - 同根词
     - adj.
-      - `elfish` 如小精灵的；好恶作剧的；小妖精的；顽皮的
+      - `elfish`
+        - 如小精灵的；好恶作剧的；小妖精的；顽皮的
   - 近义词
-    - n. 小精灵；淘气鬼
-      - `fairy`
-      - `little people`
+    - n.
+      - 小精灵；淘气鬼
+        - `fairy`
+        - `little people`
   - 例句
     - `Xia has created a mediaeval town full of elf princesses and knights, a busy modern city with young students pursuing dreams, and a quiet ancient town with innocent children and mysterious legends.`
       - 夏达的笔下有满是精灵公主和武士的中世纪小镇，有青年学生逐梦的繁华都市，有生活着一群天真儿童，蕴藏神秘传说的宁静古镇。

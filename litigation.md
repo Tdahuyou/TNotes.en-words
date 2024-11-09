@@ -1,29 +1,42 @@
 - litigation
   - 发音
-    - 英 `/lɪtɪ'geɪʃ(ə)n/`
-    - 美 `/'lɪtə'geʃən/`
+    - 英
+      - `/lɪtɪ'geɪʃ(ə)n/`
+    - 美
+      - `/'lɪtə'geʃən/`
   - 词义
-    - n. 诉讼；起诉
-    - `the process of taking claims to a court of law`
+    - n.
+      - 诉讼；起诉
+        - `the process of taking claims to a court of law`
   - 同根词
     - adj.
-      - `litigant` 诉讼的
-      - `litigious` 好诉讼的；好争论的
+      - `litigant`
+        - 诉讼的
+      - `litigious`
+        - 好诉讼的；好争论的
     - n.
-      - `litigant` 诉讼当事人
-      - `litigator` 诉讼律师；诉讼人
+      - `litigant`
+        - 诉讼当事人
+      - `litigator`
+        - 诉讼律师；诉讼人
     - vi.
-      - `litigate` 对簿法庭
+      - `litigate`
+        - 对簿法庭
     - vt.
-      - `litigate` 在法庭相争；提出诉讼
+      - `litigate`
+        - 在法庭相争；提出诉讼
   - 近义词
-    - n. 诉讼；起诉
-      - `prosecution`
-      - `legal proceeding`
+    - n.
+      - 诉讼；起诉
+        - `prosecution`
+        - `legal proceeding`
   - 短语
-    - `litigation law` 诉讼法学 
-    - `litigation costs` 诉讼费用 
-    - `commercial litigation` 商业诉讼；商事诉讼 
+    - `litigation law`
+      - 诉讼法学 
+    - `litigation costs`
+      - 诉讼费用 
+    - `commercial litigation`
+      - 商业诉讼；商事诉讼 
   - 例句
     - `The threat of litigation can be a deciding factor in some business decisions.`
       - 诉讼的威胁会成为有些经营决策的决定性因素。

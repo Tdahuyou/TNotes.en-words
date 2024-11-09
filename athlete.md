@@ -1,21 +1,27 @@
 - athlete
   - 发音
-    - 英 `/'æθliːt/`
-    - 美 `/'æθlit/`
+    - 英
+      - `/'æθliːt/`
+    - 美
+      - `/'æθlit/`
   - 词义
-    - n. 运动员，体育家
-    - `someone who competes in sports competitions, especially running, jumping, and throwing`
+    - n.
+      - 运动员，体育家
+        - `someone who competes in sports competitions, especially running, jumping, and throwing`
   - 记忆
     - “爱死你的” → 运动员体格健美， 让人喜爱 → 运动员
   - 同根词
     - adj.
-      - `athletic` 运动的，运动员的；体格健壮的
+      - `athletic`
+        - 运动的，运动员的；体格健壮的
     - n.
-      - `athleticism` 崇尚运动，竞技热；运动竞赛
+      - `athleticism`
+        - 崇尚运动，竞技热；运动竞赛
   - 近义词
-    - n. 运动员，体育家；身强力壮的人
-      - `player`
-      - `sportsman`
+    - n.
+      - 运动员，体育家；身强力壮的人
+        - `player`
+        - `sportsman`
   - 例句
     - `a professional athlete`
       - 一位专业运动员

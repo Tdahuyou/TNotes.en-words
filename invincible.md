@@ -1,24 +1,32 @@
 - invincible
   - 发音
-    - 英 `/in'vinsibl/`
-    - 美 `/ɪn'vɪnsəbl/`
+    - 英
+      - `/in'vinsibl/`
+    - 美
+      - `/ɪn'vɪnsəbl/`
   - 词义
-    - adj. 不能征服的；无敌的
-    - `too strong to be destroyed or defeated`
+    - adj.
+      - 不能征服的；无敌的
+        - `too strong to be destroyed or defeated`
   - 记忆
     - in (不) + vincible (容易征服的) → 不能征服的
   - 同根词
     - adv.
-      - `invincibly` 无敌地；不屈不挠地
+      - `invincibly`
+        - 无敌地；不屈不挠地
     - n.
-      - `invincibility` 无敌；不可战胜
+      - `invincibility`
+        - 无敌；不可战胜
   - 近义词
-    - adj. 无敌的；不能征服的
-      - `unbeatable`
-      - `unrivaled`
+    - adj.
+      - 无敌的；不能征服的
+        - `unbeatable`
+        - `unrivaled`
   - 短语
-    - `remain invincible` 立于不败之地 
-    - `invincible position` 不败之地 
+    - `remain invincible`
+      - 立于不败之地 
+    - `invincible position`
+      - 不败之地 
   - 例句
     - `an invincible army`
       - 无敌的军队

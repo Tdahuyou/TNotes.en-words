@@ -1,25 +1,34 @@
 - exportation
   - 发音
-    - 英 `/,ekspɔː'teɪʃən/`
-    - 美 `/,ɛkspɔr'teʃən/`
+    - 英
+      - `/,ekspɔː'teɪʃən/`
+    - 美
+      - `/,ɛkspɔr'teʃən/`
   - 词义
-    - n. 出口
-    - `the act, business, or process of exporting goods or services `
+    - n.
+      - 出口
+        - `the act, business, or process of exporting goods or services `
   - 同根词
     - adj.
-      - `exportable` 可输出的；可出口的
+      - `exportable`
+        - 可输出的；可出口的
     - n.
-      - `export` 输出，出口；出口商品
-      - `exporter` 出口商；输出国
+      - `export`
+        - 输出，出口；出口商品
+      - `exporter`
+        - 出口商；输出国
     - vi.
-      - `export` 输出物资
+      - `export`
+        - 输出物资
     - vt.
-      - `export` 输出，出口
+      - `export`
+        - 输出，出口
   - 近义词
-    - n. [贸易]出口
-      - `exit`
-      - `way out`
-      - `debouche`
+    - n.
+      - [贸易]出口
+        - `exit`
+        - `way out`
+        - `debouche`
   - 例句
     - `"The laws prohibiting such exportation must be reinstated as soon as possible, " he said.`
       - “关于禁止出口珍稀林木的法案必须尽快得到恢复，”他说。

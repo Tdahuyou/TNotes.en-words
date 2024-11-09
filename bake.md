@@ -1,30 +1,44 @@
 - bake
   - 发音
-    - 英 `/beɪk/`
-    - 美 `/bek/`
+    - 英
+      - `/beɪk/`
+    - 美
+      - `/bek/`
   - 词义
-    - v. 烘，烤，焙
-    - `to cook something using dry heat, in an  oven `
+    - v.
+      - 烘，烤，焙
+        - `to cook something using dry heat, in an  oven `
   - 同根词
     - adj.
-      - `baked` 烤的；烘焙的
-      - `baking` 烘烤的
+      - `baked`
+        - 烤的；烘焙的
+      - `baking`
+        - 烘烤的
     - n.
-      - `bakery` 面包店
-      - `baker` 面包师；面包工人；（便携式）烘炉
-      - `baking` 烘焙，烘烤；一次烘焙的量
+      - `bakery`
+        - 面包店
+      - `baker`
+        - 面包师；面包工人；（便携式）烘炉
+      - `baking`
+        - 烘焙，烘烤；一次烘焙的量
     - v.
-      - `baked` 烘培；烧制（bake的过去分词）
-      - `baking` 烤，烘焙；烧硬，烘干（bake的ing形式）
+      - `baked`
+        - 烘培；烧制（bake的过去分词）
+      - `baking`
+        - 烤，烘焙；烧硬，烘干（bake的ing形式）
   - 近义词
-    - vt. 烤，烘焙
-      - `to roast`
-      - `torrefy`
-    - n. 烤；烘烤食品
-      - `spitchcock`
+    - vt.
+      - 烤，烘焙
+        - `to roast`
+        - `torrefy`
+    - n.
+      - 烤；烘烤食品
+        - `spitchcock`
   - 短语
-    - `bake bread` 烤面包 
-    - `bake a cake` 烘蛋糕 
+    - `bake bread`
+      - 烤面包 
+    - `bake a cake`
+      - 烘蛋糕 
   - 例句
     - `I’m baking some bread.`
       - 我在烤一些面包。

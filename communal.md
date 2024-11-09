@@ -1,29 +1,43 @@
 - communal
   - 发音
-    - 英 `/kə'mjuːnl/`
-    - 美 `/kəˈmjunəl/`
+    - 英
+      - `/kə'mjuːnl/`
+    - 美
+      - `/kəˈmjunəl/`
   - 词义
-    - adj. 公共的，共享的；社区的
-    - `shared by a group of people or animals, especially a group who live together`
+    - adj.
+      - 公共的，共享的；社区的
+        - `shared by a group of people or animals, especially a group who live together`
   - 记忆
     - com(共同) + mun(服务) + al → 为大家服务的 → 公共的
   - 同根词
     - adv.
-      - `communally` 社区地；公有地
+      - `communally`
+        - 社区地；公有地
     - n.
-      - `community` 社区；[生态] 群落；共同体；团体
-      - `commune` 公社
-      - `communalism` 地方自治主义；社群主义
-      - `communalist` 地方自治主义者
-      - `communization` 共产化；共有化
+      - `community`
+        - 社区；[生态] 群落；共同体；团体
+      - `commune`
+        - 公社
+      - `communalism`
+        - 地方自治主义；社群主义
+      - `communalist`
+        - 地方自治主义者
+      - `communization`
+        - 共产化；共有化
     - vi.
-      - `commune` 谈心，亲密交谈；密切联系
+      - `commune`
+        - 谈心，亲密交谈；密切联系
     - vt.
-      - `communalize` 使公有化
-      - `communise` 使…为公有财产（等于communize）
-      - `communize` 使为社会公有
+      - `communalize`
+        - 使公有化
+      - `communise`
+        - 使…为公有财产（等于communize）
+      - `communize`
+        - 使为社会公有
   - 短语
-    - `communal property` 公有产业；公有财产；公共产业 
+    - `communal property`
+      - 公有产业；公有财产；公共产业 
   - 例句
     - `a communal bathroom`
       - 一个公用浴室

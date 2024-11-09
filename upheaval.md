@@ -1,19 +1,24 @@
 - upheaval
   - 发音
-    - 英 `/ʌp'hiːvl/`
-    - 美 `/ʌp'hivl/`
+    - 英
+      - `/ʌp'hiːvl/`
+    - 美
+      - `/ʌp'hivl/`
   - 词义
-    - n. 剧变，动乱，大变动
-    - `a very big change that often causes problems`
+    - n.
+      - 剧变，动乱，大变动
+        - `a very big change that often causes problems`
   - 记忆
     - 来自upheave(v. 举起， 鼓起)
   - 同根词
     - vt.
-      - `upheave` 鼓起；举起；使隆起
+      - `upheave`
+        - 鼓起；举起；使隆起
   - 近义词
-    - n. 剧变；隆起；举起
-      - `up with`
-      - `lift`
+    - n.
+      - 剧变；隆起；举起
+        - `up with`
+        - `lift`
   - 例句
     - `political upheaval`
       - 政治剧变

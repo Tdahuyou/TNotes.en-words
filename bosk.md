@@ -1,14 +1,19 @@
 - bosk
   - 发音
-    - 英 `/bɒsk/`
-    - 美 `/bɔsk/`
+    - 英
+      - `/bɒsk/`
+    - 美
+      - `/bɔsk/`
   - 词义
-    - n. 丛林,树丛,灌木丛
-    - `a small wood of bushes and small trees `
+    - n.
+      - 丛林,树丛,灌木丛
+        - `a small wood of bushes and small trees `
   - 同根词
     - adj.
-      - `bosky` 有丛林的；有树荫的；矮林丛生的
+      - `bosky`
+        - 有丛林的；有树荫的；矮林丛生的
   - 近义词
-    - n. 丛林；小树丛
-      - `mott`
-      - `chaparral`
+    - n.
+      - 丛林；小树丛
+        - `mott`
+        - `chaparral`

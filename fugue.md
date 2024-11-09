@@ -1,13 +1,17 @@
 - fugue
   - 发音
-    - 英 `/fjuːg/`
-    - 美 `/fjuɡ/`
+    - 英
+      - `/fjuːg/`
+    - 美
+      - `/fjuɡ/`
   - 词义
-    - n. 赋格曲
-    - `a piece of music with a tune that is repeated regularly in different  keys  by different voices or instruments`
+    - n.
+      - 赋格曲
+        - `a piece of music with a tune that is repeated regularly in different  keys  by different voices or instruments`
   - 同根词
     - adj.
-      - `fugal` 赋格曲的
+      - `fugal`
+        - 赋格曲的
   - 例句
     - `I'm going to play you a Bach fugue.`
       - 我要给你演奏巴赫的一首赋格曲。

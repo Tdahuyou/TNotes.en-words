@@ -1,32 +1,45 @@
 - bother
   - 发音
-    - 英 `/'bɒðə/`
-    - 美 `/'bɑðɚ/`
+    - 英
+      - `/'bɒðə/`
+    - 美
+      - `/'bɑðɚ/`
   - 词义
-    - v&n. 烦扰,打扰v
-    - `to annoy someone, especially by interrupting them when they are trying to do something`
+    - v&n.
+      - 烦扰,打扰v
+        - `to annoy someone, especially by interrupting them when they are trying to do something`
   - 同根词
     - adj.
-      - `bothersome` 麻烦的；令人讨厌的
+      - `bothersome`
+        - 麻烦的；令人讨厌的
     - n.
-      - `botheration` 麻烦；烦恼
+      - `botheration`
+        - 麻烦；烦恼
   - 近义词
-    - vt. 烦扰，打扰；使……不安；使……恼怒
-      - `eat`
-      - `burden`
-    - vi. 操心，麻烦；烦恼
-      - `worry`
-      - `go to trouble`
-    - n. 麻烦；烦恼
-      - `trouble`
-      - `worry`
-      - `headache`
+    - vt.
+      - 烦扰，打扰；使……不安；使……恼怒
+        - `eat`
+        - `burden`
+    - vi.
+      - 操心，麻烦；烦恼
+        - `worry`
+        - `go to trouble`
+    - n.
+      - 麻烦；烦恼
+        - `trouble`
+        - `worry`
+        - `headache`
   - 短语
-    - `don't bother` 不用麻烦了；不打扰了 
-    - `bother about` 烦恼 
-    - `bother with` 为…而费心，为…操心；用…打扰 
-    - `can't be bothered` 不想出力，不愿找麻烦 
-    - `bother to do sth` 费心去做某事 
+    - `don't bother`
+      - 不用麻烦了；不打扰了 
+    - `bother about`
+      - 烦恼 
+    - `bother with`
+      - 为…而费心，为…操心；用…打扰 
+    - `can't be bothered`
+      - 不想出力，不愿找麻烦 
+    - `bother to do sth`
+      - 费心去做某事 
   - 例句
     - `Danny, don’t bother Ellen while she’s reading.`
       - 丹尼，埃伦看书的时候不要去打扰她 。

@@ -1,31 +1,47 @@
 - sixth
   - 发音
-    - 英 `/sɪksθ/`
-    - 美 `/sɪksθ/`
+    - 英
+      - `/sɪksθ/`
+    - 美
+      - `/sɪksθ/`
   - 词义
-    - num. 第六
-    - `one of six equal parts of something`
+    - num.
+      - 第六
+        - `one of six equal parts of something`
   - 同根词
     - adj.
-      - `sixteen` 十六的，十六个的
-      - `sixteenth` 第十六的；十六分之一的
-      - `sixtieth` 第六十的；六十分之一的
+      - `sixteen`
+        - 十六的，十六个的
+      - `sixteenth`
+        - 第十六的；十六分之一的
+      - `sixtieth`
+        - 第六十的；六十分之一的
     - adv.
-      - `sixthly` 在第六
+      - `sixthly`
+        - 在第六
     - n.
-      - `six` 六，六个
-      - `sixtieth` 第六十；六十分之一
+      - `six`
+        - 六，六个
+      - `sixtieth`
+        - 第六十；六十分之一
     - num.
-      - `six` 六，六个
-      - `sixteen` 十六
-      - `sixteenth` 第十六；十六分之一
-      - `sixtieth` 第六十；六十分之一
+      - `six`
+        - 六，六个
+      - `sixteen`
+        - 十六
+      - `sixteenth`
+        - 第十六；十六分之一
+      - `sixtieth`
+        - 第六十；六十分之一
   - 近义词
-    - adj. （与 the 连用）第六的，第六个的；六分之一的
-      - `sextus`
+    - adj.
+      - （与 the 连用）第六的，第六个的；六分之一的
+        - `sextus`
   - 短语
-    - `sixth sense` 第六感，直觉 
-    - `sixth form` n. （英国中学里的）六年级，最高年级 
+    - `sixth sense`
+      - 第六感，直觉 
+    - `sixth form`
+      - n. （英国中学里的）六年级，最高年级 
   - 例句
     - `About one sixth of the children admitted to taking drugs.`
       - 大约六分之一的儿童承认吸毒。

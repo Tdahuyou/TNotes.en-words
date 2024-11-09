@@ -1,26 +1,35 @@
 - enlighten
   - 发音
-    - 英 `/ɪn'laɪtn/`
-    - 美 `/ɪn'laɪtn/`
+    - 英
+      - `/ɪn'laɪtn/`
+    - 美
+      - `/ɪn'laɪtn/`
   - 词义
-    - vt. 启发，启迪；开导；阐明
-    - `to explain something to someone`
+    - vt.
+      - 启发，启迪；开导；阐明
+        - `to explain something to someone`
   - 记忆
     - en + light(点亮) + en → 点亮心灵 → 启发， 启迪
   - 同根词
     - adj.
-      - `enlightened` 开明的；文明的；进步的；被启发的
-      - `enlightening` 使人领悟的；有启发作用的
+      - `enlightened`
+        - 开明的；文明的；进步的；被启发的
+      - `enlightening`
+        - 使人领悟的；有启发作用的
     - n.
-      - `enlightenment` 启迪；启蒙运动；教化
+      - `enlightenment`
+        - 启迪；启蒙运动；教化
     - v.
-      - `enlightened` 启迪（enlighten的过去式）
-      - `enlightening` 启蒙；通知（enlighten的ing形式）
+      - `enlightened`
+        - 启迪（enlighten的过去式）
+      - `enlightening`
+        - 启蒙；通知（enlighten的ing形式）
   - 近义词
-    - vt. 启发，启蒙；教导，开导；照耀
-      - `suggest`
-      - `channel`
-      - `wise`
+    - vt.
+      - 启发，启蒙；教导，开导；照耀
+        - `suggest`
+        - `channel`
+        - `wise`
   - 例句
     - `A few dedicated doctors have fought for years to enlighten the profession.`
       - 少数富有献身精神的医生为启蒙这一行业而奋斗多年。

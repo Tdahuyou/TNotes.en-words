@@ -1,13 +1,18 @@
 - unfailingly
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - adv. 无穷尽地,可靠地
+    - adv.
+      - 无穷尽地,可靠地
   - 同根词
     - adj.
-      - `unfailing` 经久不衰的；可靠的；无穷尽的
+      - `unfailing`
+        - 经久不衰的；可靠的；无穷尽的
   - 近义词
-    - adv. 可靠地；无穷尽地；不倦地
-      - `reliably`
-      - `credibly`
+    - adv.
+      - 可靠地；无穷尽地；不倦地
+        - `reliably`
+        - `credibly`

@@ -1,18 +1,24 @@
 - russet
   - 发音
-    - 英 `/'rʌsɪt/`
-    - 美 `/'rʌsɪt/`
+    - 英
+      - `/'rʌsɪt/`
+    - 美
+      - `/'rʌsɪt/`
   - 词义
-    - adj. 黄褐色的，赤褐色的
-    - n. 赤褐色，黄褐色；冬季粗皮苹果（黄色苹果之一种）
-    - `a reddish brown colour`
+    - adj.
+      - 黄褐色的，赤褐色的
+    - n.
+      - 赤褐色，黄褐色；冬季粗皮苹果（黄色苹果之一种）
+        - `a reddish brown colour`
   - 近义词
-    - adj. 黄褐色的，赤褐色的
-      - `fulvous`
-      - `snuffcoloured`
-    - n. 赤褐色，黄褐色；冬季粗皮苹果（黄色苹果之一种）
-      - `auburn`
-      - `tabac`
+    - adj.
+      - 黄褐色的，赤褐色的
+        - `fulvous`
+        - `snuffcoloured`
+    - n.
+      - 赤褐色，黄褐色；冬季粗皮苹果（黄色苹果之一种）
+        - `auburn`
+        - `tabac`
   - 例句
     - `The light touched to russet the rings of dark hair escaping from her braids, and made her pale face paler.`
       - 亮光使她发辫上散逸出的浅黑色发鬈变成了黄褐色，并使她苍白的脸色更加苍白。

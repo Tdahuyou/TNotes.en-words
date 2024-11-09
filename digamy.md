@@ -1,12 +1,16 @@
 - digamy
   - 发音
-    - 英 `/'dɪɡəmɪ/`
-    - 美 `/undefined/`
+    - 英
+      - `/'dɪɡəmɪ/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 再婚
-    - `a second marriage contracted after the termination of the first by death or divorce `
+    - n.
+      - 再婚
+        - `a second marriage contracted after the termination of the first by death or divorce `
   - 近义词
-    - n. 再婚
-      - `remarriage`
-      - `deuterogamy`
-      - `marriage after divorce`
+    - n.
+      - 再婚
+        - `remarriage`
+        - `deuterogamy`
+        - `marriage after divorce`

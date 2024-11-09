@@ -1,29 +1,39 @@
 - comprehend
   - 发音
-    - 英 `/ˌkɑːmprɪ'hend/`
-    - 美 `/,kɑmprɪ'hɛnd/`
+    - 英
+      - `/ˌkɑːmprɪ'hend/`
+    - 美
+      - `/,kɑmprɪ'hɛnd/`
   - 词义
-    - v. 理解，领会；包括，由…组成
-    - `to understand something that is complicated or difficult`
+    - v.
+      - 理解，领会；包括，由…组成
+        - `to understand something that is complicated or difficult`
   - 记忆
     - com(全部) + prehend(抓住) → 全部抓住要领 → 理解， 领会
   - 同根词
     - adj.
-      - `comprehensive` 综合的；广泛的；有理解力的
-      - `comprehensible` 可理解的
+      - `comprehensive`
+        - 综合的；广泛的；有理解力的
+      - `comprehensible`
+        - 可理解的
     - adv.
-      - `comprehensively` 包括地；包括一切地
+      - `comprehensively`
+        - 包括地；包括一切地
     - n.
-      - `comprehensive` 综合学校；专业综合测验
-      - `comprehension` 理解；包含
-      - `comprehensibility` 可了解性；能理解
+      - `comprehensive`
+        - 综合学校；专业综合测验
+      - `comprehension`
+        - 理解；包含
+      - `comprehensibility`
+        - 可了解性；能理解
   - 近义词
-    - vt. 理解；包含；由…组成
-      - `involve`
-      - `see`
-      - `contain`
-      - `absorb`
-      - `read`
+    - vt.
+      - 理解；包含；由…组成
+        - `involve`
+        - `see`
+        - `contain`
+        - `absorb`
+        - `read`
   - 例句
     - `She cannot comprehend the extent of the disaster.`
       - 她无法理解这场灾难的严重程度。

@@ -1,21 +1,27 @@
 - brackish
   - 发音
-    - 英 `/'brækɪʃ/`
-    - 美 `/'brækɪʃ/`
+    - 英
+      - `/'brækɪʃ/`
+    - 美
+      - `/'brækɪʃ/`
   - 词义
-    - adj. 微咸的；难吃的
-    - `brackish water is not pure because it is slightly salty`
+    - adj.
+      - 微咸的；难吃的
+        - `brackish water is not pure because it is slightly salty`
   - 记忆
     - brack(看作black) + ish(看作fish) → 黑色的咸鱼 → 微咸的
   - 同根词
     - n.
-      - `brackishness` 半咸性
+      - `brackishness`
+        - 半咸性
   - 近义词
-    - adj. 含盐的；令人不快的；难吃的
-      - `painful`
-      - `salt`
+    - adj.
+      - 含盐的；令人不快的；难吃的
+        - `painful`
+        - `salt`
   - 短语
-    - `brackish water` 苦咸水（碱性水）；微咸水；半咸水；淡盐水（盐分界于河海水之间） 
+    - `brackish water`
+      - 苦咸水（碱性水）；微咸水；半咸水；淡盐水（盐分界于河海水之间） 
   - 例句
     - `Any of numerous small fishes of the family Cyprinodontidae, including the guppy and mosquito fish, inhabiting chiefly fresh and brackish waters in warm regions.`
       - 鳉鱼属于鳉科的许多种小型鱼，包括虹鳉和蚊鱼，主要栖居在温暖地带的淡水和咸水中。

@@ -1,16 +1,21 @@
 - proton
   - 发音
-    - 英 `/'prəʊtɒn/`
-    - 美 `/'protɑn/`
+    - 英
+      - `/'prəʊtɒn/`
+    - 美
+      - `/'protɑn/`
   - 词义
-    - n. 质子
-    - `a very small piece of matter with a positive electrical  charge  that is in the central part of an atom`
+    - n.
+      - 质子
+        - `a very small piece of matter with a positive electrical  charge  that is in the central part of an atom`
   - 近义词
-    - n. [物]质子
-      - `merron`
-      - `uron`
+    - n.
+      - [物]质子
+        - `merron`
+        - `uron`
   - 短语
-    - `proton pump` 质子泵 
+    - `proton pump`
+      - 质子泵 
   - 例句
     - `So we get at the number of neutrons indirectly because we know the proton number here.`
       - 所以，我们可以间接得到中子数,因为我们知道质子数了。

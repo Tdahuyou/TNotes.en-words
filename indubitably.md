@@ -1,20 +1,26 @@
 - indubitably
   - 发音
-    - 英 `/ɪn'duːbɪtəbli/`
-    - 美 `/undefined/`
+    - 英
+      - `/ɪn'duːbɪtəbli/`
+    - 美
+      - `/undefined/`
   - 词义
-    - adv. 无疑地，确实地
-    - `certainly or without doubt`
+    - adv.
+      - 无疑地，确实地
+        - `certainly or without doubt`
   - 同根词
     - adj.
-      - `indubitable` 不容置疑的；明确的
+      - `indubitable`
+        - 不容置疑的；明确的
     - n.
-      - `indubitability` 毋庸置疑
+      - `indubitability`
+        - 毋庸置疑
   - 近义词
-    - adv. 无疑地，不容置疑地，不容置疑地
-      - `easily`
-      - `no doubt`
-      - `clearly`
+    - adv.
+      - 无疑地，不容置疑地，不容置疑地
+        - `easily`
+        - `no doubt`
+        - `clearly`
   - 例句
     - `Mr Sachs is indubitably charming.`
       - 毫无疑问萨克斯先生很有魅力。

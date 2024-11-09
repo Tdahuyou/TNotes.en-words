@@ -1,14 +1,18 @@
 - amulet
   - 发音
-    - 英 `/'æmjʊlɪt/`
-    - 美 `/'æmjʊlət/`
+    - 英
+      - `/'æmjʊlɪt/`
+    - 美
+      - `/'æmjʊlət/`
   - 词义
-    - n. 护身符
-    - `a small piece of jewellery worn to protect against bad luck, disease etc`
+    - n.
+      - 护身符
+        - `a small piece of jewellery worn to protect against bad luck, disease etc`
   - 近义词
-    - n. 护身符，避邪物
-      - `periapt`
-      - `menat`
+    - n.
+      - 护身符，避邪物
+        - `periapt`
+        - `menat`
   - 例句
     - `When the farmer opened the tightly sealed amulet a dog jumped out and ran away, along with his successful crops.`
       - 当农民打开了紧紧密封的护身符，一只小狗狗跳出来，跑了，一并带走的还有他丰收的好运。

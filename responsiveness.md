@@ -1,17 +1,25 @@
 - responsiveness
   - 发音
-    - 英 `/ri'spɔnsivnis/`
-    - 美 `/rɪ'spɑnsɪvnɪs/`
+    - 英
+      - `/ri'spɔnsivnis/`
+    - 美
+      - `/rɪ'spɑnsɪvnɪs/`
   - 词义
-    - n. 响应能力,有同情心
+    - n.
+      - 响应能力,有同情心
   - 同根词
     - adj.
-      - `responsible` 负责的，可靠的；有责任的
-      - `responsive` 响应的；应答的；回答的
+      - `responsible`
+        - 负责的，可靠的；有责任的
+      - `responsive`
+        - 响应的；应答的；回答的
     - n.
-      - `response` 响应；反应；回答
-      - `responder` 响应器；回答者
-      - `responsion` 答复；应答
+      - `response`
+        - 响应；反应；回答
+      - `responder`
+        - 响应器；回答者
+      - `responsion`
+        - 答复；应答
   - 例句
     - `Performance testing to gauge the scalability and responsiveness of new services should always be part of the plan.`
       - 性能测试用于测定新服务的可伸缩性和响应能力，应当是计划的一部分。

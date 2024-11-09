@@ -1,11 +1,15 @@
 - crustacean
   - 发音
-    - 英 `/krʌ'steɪʃn/`
-    - 美 `/krʌ'steʃən/`
+    - 英
+      - `/krʌ'steɪʃn/`
+    - 美
+      - `/krʌ'steʃən/`
   - 词义
-    - adj. 甲壳类的
-    - n. 甲壳类动物
-    - `an animal such as a  lobster  or a  crab  that has a hard outer shell and several pairs of legs, and usually lives in water`
+    - adj.
+      - 甲壳类的
+    - n.
+      - 甲壳类动物
+        - `an animal such as a  lobster  or a  crab  that has a hard outer shell and several pairs of legs, and usually lives in water`
   - 记忆
     - crust(外壳) + acean(看做ocean， 海洋) → 海洋中的有壳动物 → 甲壳类动物
   - 例句

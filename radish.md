@@ -1,17 +1,23 @@
 - radish
   - 发音
-    - 英 `/'rædɪʃ/`
-    - 美 `/'rædɪʃ/`
+    - 英
+      - `/'rædɪʃ/`
+    - 美
+      - `/'rædɪʃ/`
   - 词义
-    - n. [植]萝卜
-    - `a small vegetable whose red or white root is eaten raw and has a strong spicy taste`
+    - n.
+      - [植]萝卜
+        - `a small vegetable whose red or white root is eaten raw and has a strong spicy taste`
   - 近义词
-    - n. [园艺]萝卜，小萝卜
-      - `daikon`
-      - `neep`
+    - n.
+      - [园艺]萝卜，小萝卜
+        - `daikon`
+        - `neep`
   - 短语
-    - `chinese radish` 萝卜 
-    - `radish seed` [植]莱菔子；萝卜籽 
+    - `chinese radish`
+      - 萝卜 
+    - `radish seed`
+      - [植]莱菔子；萝卜籽 
   - 例句
     - `She carved a flower out of a radish.`
       - 她把萝卜刻成一朵花。

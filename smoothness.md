@@ -1,27 +1,39 @@
 - smoothness
   - 发音
-    - 英 `/undefined/`
-    - 美 `/'smʊðnɪs/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/'smʊðnɪs/`
   - 词义
-    - n. 平坦，光滑
+    - n.
+      - 平坦，光滑
   - 同根词
     - adj.
-      - `smooth` 顺利的；光滑的；平稳的
+      - `smooth`
+        - 顺利的；光滑的；平稳的
     - adv.
-      - `smooth` 光滑地；平稳地；流畅地
-      - `smoothly` 平稳地，平滑地；流畅地，流利地
+      - `smooth`
+        - 光滑地；平稳地；流畅地
+      - `smoothly`
+        - 平稳地，平滑地；流畅地，流利地
     - n.
-      - `smooth` 平滑部分；一块平地
-      - `smoother` [公路] 路面平整机；弄平的人；[机] 修光工具；滤波器
+      - `smooth`
+        - 平滑部分；一块平地
+      - `smoother`
+        - [公路] 路面平整机；弄平的人；[机] 修光工具；滤波器
     - vi.
-      - `smooth` 变平静；变平滑
+      - `smooth`
+        - 变平静；变平滑
     - vt.
-      - `smooth` 使光滑；消除（障碍等）；使优雅；缓和
-      - `smoothen` 使平滑，使平和；使平息
+      - `smooth`
+        - 使光滑；消除（障碍等）；使优雅；缓和
+      - `smoothen`
+        - 使平滑，使平和；使平息
   - 近义词
-    - n. 平滑；柔滑；平坦
-      - `flatness`
-      - `evenness`
+    - n.
+      - 平滑；柔滑；平坦
+        - `flatness`
+        - `evenness`
   - 例句
     - `Feel the cold, glass-like smoothness and the crevices and lines that make me what I am.`
       - 感觉玻璃般的冰冷与光滑，以及其中的裂缝和刮痕，感受我的存在。

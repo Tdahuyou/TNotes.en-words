@@ -1,13 +1,18 @@
 - forwarder
   - 发音
-    - 英 `/'fɔːwədə/`
-    - 美 `/'fɔrwɚdɚ/`
+    - 英
+      - `/'fɔːwədə/`
+    - 美
+      - `/'fɔrwɚdɚ/`
   - 词义
-    - n. 转运商，代运人
-    - `a person or thing that forwards `
+    - n.
+      - 转运商，代运人
+        - `a person or thing that forwards `
   - 近义词
-    - n. 运送者，促进者；传送装置
-      - `carrier`
-      - `conveyor`
+    - n.
+      - 运送者，促进者；传送装置
+        - `carrier`
+        - `conveyor`
   - 短语
-    - `freight forwarder` 货运代理；货运代理人 
+    - `freight forwarder`
+      - 货运代理；货运代理人 

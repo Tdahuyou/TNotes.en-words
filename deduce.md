@@ -1,25 +1,33 @@
 - deduce
   - 发音
-    - 英 `/di'djuːs/`
-    - 美 `/dɪ'dʊs/`
+    - 英
+      - `/di'djuːs/`
+    - 美
+      - `/dɪ'dʊs/`
   - 词义
-    - v. 推论，演绎出
-    - `to use the knowledge and information you have in order to understand something or form an opinion about it`
+    - v.
+      - 推论，演绎出
+        - `to use the knowledge and information you have in order to understand something or form an opinion about it`
   - 记忆
     - de (向下) + duce (引导) → 向下引 → 推论， 演绎出
   - 同根词
     - adj.
-      - `deductive` 演绎的；推论的；推断的
-      - `deducible` 可推论的
+      - `deductive`
+        - 演绎的；推论的；推断的
+      - `deducible`
+        - 可推论的
     - n.
-      - `deduction` 扣除，减除；推论；减除额
+      - `deduction`
+        - 扣除，减除；推论；减除额
   - 近义词
-    - vt. 推论，推断；[数][计]演绎出
-      - `understand`
-      - `reason`
-      - `conclude`
+    - vt.
+      - 推论，推断；[数][计]演绎出
+        - `understand`
+        - `reason`
+        - `conclude`
   - 短语
-    - `deduce from` 推断；从…得出结论 
+    - `deduce from`
+      - 推断；从…得出结论 
   - 例句
     - `Alison cleverly deduced that I was the author of the letter.`
       - 艾莉森聪明地推断出我是这封信的作者。

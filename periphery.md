@@ -1,21 +1,27 @@
 - periphery
   - 发音
-    - 英 `/pə'rɪfəri/`
-    - 美 `/pə'rɪfəri/`
+    - 英
+      - `/pə'rɪfəri/`
+    - 美
+      - `/pə'rɪfəri/`
   - 词义
-    - n. 外围，边缘
-    - `the edge of an area`
+    - n.
+      - 外围，边缘
+        - `the edge of an area`
   - 记忆
     - peri(周围) + pher(带来) + y → 带到周围 → 外围， 边缘
   - 同根词
     - adj.
-      - `peripheral` 外围的；次要的
+      - `peripheral`
+        - 外围的；次要的
     - adv.
-      - `peripherally` 周边地；外围地；次要地
+      - `peripherally`
+        - 周边地；外围地；次要地
   - 近义词
-    - n. 外围，[地理]边缘；圆周；圆柱体表面
-      - `margin`
-      - `suburb`
+    - n.
+      - 外围，[地理]边缘；圆周；圆柱体表面
+        - `margin`
+        - `suburb`
   - 例句
     - `extremists on the periphery of the animal rights movement`
       - 处于动物权利运动边缘的极端分子

@@ -1,9 +1,12 @@
 - domelike
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - adj. 穹顶状的
+    - adj.
+      - 穹顶状的
   - 例句
     - `A domelike gunner's enclosure projecting from the fuselage of a combat aircraft.`
       - 战斗机上圆顶形的封闭式结构，炮手的位置，从飞机机身上突出。

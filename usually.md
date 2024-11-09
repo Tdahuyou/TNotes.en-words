@@ -1,17 +1,22 @@
 - usually
   - 发音
-    - 英 `/ˈjuːʒʊəlɪ/`
-    - 美 `/juʒəlɪ/`
+    - 英
+      - `/ˈjuːʒʊəlɪ/`
+    - 美
+      - `/juʒəlɪ/`
   - 词义
-    - adv. 通常
-    - `used to talk about what happens on most occasions or in most situations`
+    - adv.
+      - 通常
+        - `used to talk about what happens on most occasions or in most situations`
   - 同根词
     - adj.
-      - `usual` 通常的，惯例的；平常的
+      - `usual`
+        - 通常的，惯例的；平常的
   - 近义词
-    - adv. 通常，经常
-      - `generally`
-      - `mostly`
+    - adv.
+      - 通常，经常
+        - `generally`
+        - `mostly`
   - 例句
     - `Women usually live longer than men.`
       - 女人通常比男人长寿。

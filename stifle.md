@@ -1,21 +1,28 @@
 - stifle
   - 发音
-    - 英 `/'staɪf(ə)l/`
-    - 美 `/'staɪfl/`
+    - 英
+      - `/'staɪf(ə)l/`
+    - 美
+      - `/'staɪfl/`
   - 词义
-    - v. 窒息,抑制
-    - `to stop something from happening or developing`
+    - v.
+      - 窒息,抑制
+        - `to stop something from happening or developing`
   - 同根词
     - adj.
-      - `stifling` 令人窒息的；沉闷的
+      - `stifling`
+        - 令人窒息的；沉闷的
     - v.
-      - `stifling` 使窒息；粉碎（stifle的现在分词）
+      - `stifling`
+        - 使窒息；粉碎（stifle的现在分词）
   - 近义词
-    - vt. 扼杀；使窒息；藏匿
-      - `kill`
-      - `snuff out`
-    - vi. 窒息；被扼杀
-      - `choke`
+    - vt.
+      - 扼杀；使窒息；藏匿
+        - `kill`
+        - `snuff out`
+    - vi.
+      - 窒息；被扼杀
+        - `choke`
   - 例句
     - `rules and regulations that stifle innovation`
       - 压制创新的规章制度

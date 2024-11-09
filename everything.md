@@ -1,16 +1,22 @@
 - everything
   - 发音
-    - 英 `/'evrɪθɪŋ/`
-    - 美 `/'ɛvrɪ'θɪŋ/`
+    - 英
+      - `/'evrɪθɪŋ/`
+    - 美
+      - `/'ɛvrɪ'θɪŋ/`
   - 词义
-    - pron. 每样事物；每件事；所有事物
-    - `each thing or all things`
+    - pron.
+      - 每样事物；每件事；所有事物
+        - `each thing or all things`
   - 记忆
     - every(每一个)+thing(事情)→每件事
   - 短语
-    - `and everything` 一切事物；以及其他等等 
-    - `have everything` [口语]具有各种优点(或吸引力、所需之物等) 
-    - `like everything` [口语] 
+    - `and everything`
+      - 一切事物；以及其他等等 
+    - `have everything`
+      - [口语]具有各种优点(或吸引力、所需之物等) 
+    - `like everything`
+      - [口语] 
   - 例句
     - `Everything was covered in a thick layer of dust.`
       - 所有东西上面都蒙着厚厚一层灰。

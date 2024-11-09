@@ -1,23 +1,35 @@
 - traditionally
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - adv. 传统上,照惯例
+    - adv.
+      - 传统上,照惯例
   - 同根词
     - adj.
-      - `traditional` 传统的；惯例的
-      - `trad` 传统的
-      - `traditionalist` 传统主义者的（等于traditionalistic）
-      - `traditionalistic` 传统派的；传统主义者的
+      - `traditional`
+        - 传统的；惯例的
+      - `trad`
+        - 传统的
+      - `traditionalist`
+        - 传统主义者的（等于traditionalistic）
+      - `traditionalistic`
+        - 传统派的；传统主义者的
     - n.
-      - `tradition` 惯例，传统；传说
-      - `trad` 传统主义
-      - `traditionalist` 传统主义者；因循守旧者
-      - `traditionalism` 传统主义
+      - `tradition`
+        - 惯例，传统；传说
+      - `trad`
+        - 传统主义
+      - `traditionalist`
+        - 传统主义者；因循守旧者
+      - `traditionalism`
+        - 传统主义
   - 近义词
-    - adv. 传统上；习惯上；传说上
-      - `customarily`
+    - adv.
+      - 传统上；习惯上；传说上
+        - `customarily`
   - 例句
     - `Women have had to prove themselves in every field that they have traditionally be barred from.`
       - 女性必须在那些传统上被禁止的每一个领域中证明自己。

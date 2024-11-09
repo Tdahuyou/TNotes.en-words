@@ -1,22 +1,29 @@
 - microorganism
   - 发音
-    - 英 `/ˌmaɪkrou'ɔːrgənɪzəm/`
-    - 美 `/,maɪkro'ɔrgən,ɪzəm/`
+    - 英
+      - `/ˌmaɪkrou'ɔːrgənɪzəm/`
+    - 美
+      - `/,maɪkro'ɔrgən,ɪzəm/`
   - 词义
-    - n. 微生物
-    - `a living thing that is so small that it cannot be seen without a  microscope `
+    - n.
+      - 微生物
+        - `a living thing that is so small that it cannot be seen without a  microscope `
   - 记忆
     - micro(微小的) + organism(生物) → 微生物
   - 同根词
     - n.
-      - `micrometeorite` 微小陨石
-      - `micropaleontology` 微体古生物学
+      - `micrometeorite`
+        - 微小陨石
+      - `micropaleontology`
+        - 微体古生物学
   - 近义词
-    - n. [微]微生物；微小动植物
-      - `organism`
-      - `animalcule`
+    - n.
+      - [微]微生物；微小动植物
+        - `organism`
+        - `animalcule`
   - 短语
-    - `pathogenic microorganism` 病原微生物；致病微生物 
+    - `pathogenic microorganism`
+      - 病原微生物；致病微生物 
   - 例句
     - `Observe microorganism in the water and in the sediment by a microscope.`
       - 用显微镜观察水样本和基质样本中的微生物。

@@ -1,22 +1,31 @@
 - acidify
   - 发音
-    - 英 `/ə'sidifai/`
-    - 美 `/ə'sɪdə'fai/`
+    - 英
+      - `/ə'sidifai/`
+    - 美
+      - `/ə'sɪdə'fai/`
   - 词义
-    - v. 使酸化，使成酸性
-    - `to become an acid or make something become an acid`
+    - v.
+      - 使酸化，使成酸性
+        - `to become an acid or make something become an acid`
   - 记忆
     - acid (酸， 酸的) + ify (使) → 使酸化， 使成酸性
   - 同根词
     - adj.
-      - `acid` 酸的；讽刺的；刻薄的
+      - `acid`
+        - 酸的；讽刺的；刻薄的
     - n.
-      - `acid` 酸；<俚>迷幻药
-      - `acidity` 酸度；酸性；酸过多；胃酸过多
-      - `acidification` [化学] 酸化；成酸性；使……发酸
+      - `acid`
+        - 酸；<俚>迷幻药
+      - `acidity`
+        - 酸度；酸性；酸过多；胃酸过多
+      - `acidification`
+        - [化学] 酸化；成酸性；使……发酸
     - vt.
-      - `acidulate` 使尖刻；使酸化
+      - `acidulate`
+        - 使尖刻；使酸化
   - 近义词
-    - vi. [化学]酸化；变酸
-      - `go bad`
-      - `go sour`
+    - vi.
+      - [化学]酸化；变酸
+        - `go bad`
+        - `go sour`

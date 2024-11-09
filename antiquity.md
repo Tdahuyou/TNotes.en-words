@@ -1,21 +1,28 @@
 - antiquity
   - 发音
-    - 英 `/æn'tɪkwɪtɪ/`
-    - 美 `/æn'tɪkwəti/`
+    - 英
+      - `/æn'tɪkwɪtɪ/`
+    - 美
+      - `/æn'tɪkwəti/`
   - 词义
-    - n. 古代
-    - `ancient times`
+    - n.
+      - 古代
+        - `ancient times`
   - 同根词
     - adj.
-      - `antique` 古老的，年代久远的；过时的，古董的；古风的，古式的
+      - `antique`
+        - 古老的，年代久远的；过时的，古董的；古风的，古式的
     - n.
-      - `antique` 古董，古玩；古风，古希腊和古罗马艺术风格
+      - `antique`
+        - 古董，古玩；古风，古希腊和古罗马艺术风格
     - vi.
-      - `antique` 觅购古玩
+      - `antique`
+        - 觅购古玩
   - 近义词
-    - n. 高龄；古物；古代的遗物
-      - `eld`
-      - `advanced age`
+    - n.
+      - 高龄；古物；古代的遗物
+        - `eld`
+        - `advanced age`
   - 例句
     - `a building of great antiquity`
       - 非常古老的建筑物

@@ -1,30 +1,40 @@
 - lick
   - 发音
-    - 英 `/lɪk/`
-    - 美 `/lɪk/`
+    - 英
+      - `/lɪk/`
+    - 美
+      - `/lɪk/`
   - 词义
-    - v. 舔；卷过；鞭打
-    - `to move your tongue across the surface of something in order to eat it, wet it, clean it etc`
-    - n. 舔；打；少许
-    - `when you move your tongue across the surface of something`
+    - v.
+      - 舔；卷过；鞭打
+        - `to move your tongue across the surface of something in order to eat it, wet it, clean it etc`
+    - n.
+      - 舔；打；少许
+        - `when you move your tongue across the surface of something`
   - 同根词
     - adv.
-      - `licking` 猛烈地
+      - `licking`
+        - 猛烈地
     - n.
-      - `licking` 舔；舔一舔；鞭打
+      - `licking`
+        - 舔；舔一舔；鞭打
     - v.
-      - `licking` 舔（lick的ing形式）
+      - `licking`
+        - 舔（lick的ing形式）
   - 近义词
-    - vt. 舔；卷过；鞭打
-      - `tongue`
-      - `hide`
-    - n. 舔；打；少许
-      - `hit`
-      - `little`
-      - `touch`
-      - `beating`
+    - vt.
+      - 舔；卷过；鞭打
+        - `tongue`
+        - `hide`
+    - n.
+      - 舔；打；少许
+        - `hit`
+        - `little`
+        - `touch`
+        - `beating`
   - 短语
-    - `lick up` v. 舔光；吞噬 
+    - `lick up`
+      - v. 舔光；吞噬 
   - 例句
     - `The dog jumped up and licked her face.`
       - 那只狗跳起来舔她的脸。

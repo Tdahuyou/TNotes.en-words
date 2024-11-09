@@ -1,15 +1,19 @@
 - latchet
   - 发音
-    - 英 `/'lætʃɪt/`
-    - 美 `/'lætʃit/`
+    - 英
+      - `/'lætʃɪt/`
+    - 美
+      - `/'lætʃit/`
   - 词义
-    - n. 鞋带
-    - `a shoe fastening, such as a thong or lace `
+    - n.
+      - 鞋带
+        - `a shoe fastening, such as a thong or lace `
   - 近义词
-    - n. 鞋带
-      - `tie`
-      - `shoelace`
-      - `bootlace`
+    - n.
+      - 鞋带
+        - `tie`
+        - `shoelace`
+        - `bootlace`
   - 例句
     - `He it is, who coming after me is preferred before me, whose shoe's latchet I am not worthy to unloose.`
       - 就是那在我以后来的，我给他解鞋带，也不配。

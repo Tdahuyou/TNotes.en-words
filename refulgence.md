@@ -1,16 +1,21 @@
 - refulgence
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 光辉
+    - n.
+      - 光辉
   - 同根词
     - adj.
-      - `refulgent` 辉煌的；灿烂的
+      - `refulgent`
+        - 辉煌的；灿烂的
   - 近义词
-    - n. 辉煌；光辉；灿烂
-      - `flame`
-      - `resplendency`
+    - n.
+      - 辉煌；光辉；灿烂
+        - `flame`
+        - `resplendency`
   - 例句
     - `By the reappearance of the different types, different symbols torii in Huizhou, it posts the refulgence and heaviness of the traditional culture of Huizhou.`
       - 通过徽州大地上不同类型、不同象徵意义牌坊的再现，揭示了徽州这一传统文化形态的辉煌与沉重。

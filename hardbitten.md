@@ -1,10 +1,14 @@
 - hardbitten
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - adj. 顽强的；经过磨炼的
+    - adj.
+      - 顽强的；经过磨炼的
   - 近义词
-    - adj. 顽强的；经过磨炼的
-      - `tenacious`
-      - `stubborn`
+    - adj.
+      - 顽强的；经过磨炼的
+        - `tenacious`
+        - `stubborn`

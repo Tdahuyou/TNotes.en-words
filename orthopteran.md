@@ -1,10 +1,13 @@
 - orthopteran
   - 发音
-    - 英 `/ɔː'θɒpt(ə)rən/`
-    - 美 `/ɔr'θɑptərən/`
+    - 英
+      - `/ɔː'θɒpt(ə)rən/`
+    - 美
+      - `/ɔr'θɑptərən/`
   - 词义
-    - n. 直翅类的昆虫
-    - `any orthopterous insect `
+    - n.
+      - 直翅类的昆虫
+        - `any orthopterous insect `
   - 例句
     - `On the whole, the orthopteran communities'diversity in edge zone are higher than those in the interior of adjacent communities at the similar edges.`
       - 分析各边缘地带直翅目昆虫群落多样性发现，所有边缘类型的边缘处直翅目昆虫多样性明显高于其相邻的生态系统。

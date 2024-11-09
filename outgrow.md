@@ -1,14 +1,18 @@
 - outgrow
   - 发音
-    - 英 `/aʊt'grəʊ/`
-    - 美 `/,aʊt'ɡro/`
+    - 英
+      - `/aʊt'grəʊ/`
+    - 美
+      - `/,aʊt'ɡro/`
   - 词义
-    - v. 过大而不适于；出生；长大成熟而不再
-    - `to grow too big for something`
+    - v.
+      - 过大而不适于；出生；长大成熟而不再
+        - `to grow too big for something`
   - 近义词
-    - vt. 过大而不适于；出生；长大成熟而不再
-      - `come into the world`
-      - `see the sun`
+    - vt.
+      - 过大而不适于；出生；长大成熟而不再
+        - `come into the world`
+        - `see the sun`
   - 例句
     - `They outgrow their clothes so quickly.`
       - 他们长得这么快，衣服很快就穿不下了。

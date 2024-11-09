@@ -1,14 +1,19 @@
 - speechwriter
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 演讲稿撰写人
-    - `someone whose job is to write speeches for other people`
+    - n.
+      - 演讲稿撰写人
+        - `someone whose job is to write speeches for other people`
   - 同根词
     - n.
-      - `speech` 演讲；讲话；[语] 语音；演说
-      - `speechmaker` 演讲人；演说家
+      - `speech`
+        - 演讲；讲话；[语] 语音；演说
+      - `speechmaker`
+        - 演讲人；演说家
   - 例句
     - `And if you came up with more than one, you’re probably either a former presidential speechwriter or a historian.`
       - 如果你能说出不止一个，你很可能是一位前总统演讲撰稿人或者历史学家。

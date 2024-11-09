@@ -1,14 +1,18 @@
 - iridescence
   - 发音
-    - 英 `/ˌɪrɪ'desns/`
-    - 美 `/undefined/`
+    - 英
+      - `/ˌɪrɪ'desns/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 彩虹色
+    - n.
+      - 彩虹色
   - 记忆
     - irid(＝iris虹光) ＋ escence → 彩虹色
   - 同根词
     - adj.
-      - `iridescent` 彩虹色的；闪光的
+      - `iridescent`
+        - 彩虹色的；闪光的
   - 例句
     - `You can see the iridescence on their faces.`
       - 你可以看到他们脸上的彩虹色。

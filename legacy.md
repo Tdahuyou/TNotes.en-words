@@ -1,21 +1,28 @@
 - legacy
   - 发音
-    - 英 `/'legəsɪ/`
-    - 美 `/'lɛgəsi/`
+    - 英
+      - `/'legəsɪ/`
+    - 美
+      - `/'lɛgəsi/`
   - 词义
-    - n. 遗赠(物),遗产
-    - `something that happens or exists as a result of things that happened at an earlier time`
+    - n.
+      - 遗赠(物),遗产
+        - `something that happens or exists as a result of things that happened at an earlier time`
   - 同根词
     - n.
-      - `legate` 罗马教皇的使节；使者
+      - `legate`
+        - 罗马教皇的使节；使者
     - vt.
-      - `legate` 当做遗产让与
+      - `legate`
+        - 当做遗产让与
   - 近义词
-    - n. 遗赠，[法]遗产
-      - `heritage`
-      - `inheritance`
+    - n.
+      - 遗赠，[法]遗产
+        - `heritage`
+        - `inheritance`
   - 短语
-    - `legacy system` 遗留系统 
+    - `legacy system`
+      - 遗留系统 
   - 例句
     - `She received a small legacy from her aunt.`
       - 她从姨妈那里继承了一小笔遗产。

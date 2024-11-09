@@ -1,18 +1,24 @@
 - tenth
   - 发音
-    - 英 `/tenθ/`
-    - 美 `/tɛnθ/`
+    - 英
+      - `/tenθ/`
+    - 美
+      - `/tɛnθ/`
   - 词义
-    - num. 第十
-    - `one of ten equal parts of something`
+    - num.
+      - 第十
+        - `one of ten equal parts of something`
   - 同根词
     - adv.
-      - `tenthly` 第十
+      - `tenthly`
+        - 第十
   - 近义词
-    - adj. 十分之一的；第十个的
-      - `decimus`
+    - adj.
+      - 十分之一的；第十个的
+        - `decimus`
   - 短语
-    - `nine tenths` 几乎全部 
+    - `nine tenths`
+      - 几乎全部 
   - 例句
     - `He has just published his tenth novel.`
       - 他刚刚发表了他的第十本小说。

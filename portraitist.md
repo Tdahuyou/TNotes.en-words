@@ -1,19 +1,27 @@
 - portraitist
   - 发音
-    - 英 `/'pɔːtrɪtɪst/`
-    - 美 `/'pɔrtrətɪst/`
+    - 英
+      - `/'pɔːtrɪtɪst/`
+    - 美
+      - `/'pɔrtrətɪst/`
   - 词义
-    - n. 肖像画家
-    - `A portraitist is an artist who paints or draws people's portraits`
+    - n.
+      - 肖像画家
+        - `A portraitist is an artist who paints or draws people's portraits`
   - 同根词
     - n.
-      - `portrait` 肖像；描写；半身雕塑像
-      - `portrayal` 描绘；画像，肖像
-      - `portraiture` 肖像画；肖像绘制；人像摄影
-      - `portrayer` 记述者；描画者；肖像画家
+      - `portrait`
+        - 肖像；描写；半身雕塑像
+      - `portrayal`
+        - 描绘；画像，肖像
+      - `portraiture`
+        - 肖像画；肖像绘制；人像摄影
+      - `portrayer`
+        - 记述者；描画者；肖像画家
   - 近义词
-    - n. 肖像画家；人像摄影师
-      - `iconographer`
+    - n.
+      - 肖像画家；人像摄影师
+        - `iconographer`
   - 例句
     - `Rembrandt began to work as a professional portraitist about 1631.`
       - 伦勃朗成为一名职业画家的时间约是1631年。

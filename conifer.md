@@ -1,15 +1,20 @@
 - conifer
   - 发音
-    - 英 `/'kɒnɪfə; 'kəʊn-/`
-    - 美 `/'kɑnəfɚ/`
+    - 英
+      - `/'kɒnɪfə; 'kəʊn-/`
+    - 美
+      - `/'kɑnəfɚ/`
   - 词义
-    - n. [植]松类,针叶树
-    - `a tree such as a  pine  or  fir  that has leaves like needles and produces brown  cones  that contain seeds. Most types of conifer keep their leaves in winter.`
+    - n.
+      - [植]松类,针叶树
+        - `a tree such as a  pine  or  fir  that has leaves like needles and produces brown  cones  that contain seeds. Most types of conifer keep their leaves in winter.`
   - 同根词
     - adj.
-      - `coniferous` 结球果的；松柏科的
+      - `coniferous`
+        - 结球果的；松柏科的
     - n.
-      - `coniferophyta` 松柏植物门
+      - `coniferophyta`
+        - 松柏植物门
   - 例句
     - `Red squirrels cut conifer cones from trees and bury them in plant litter on the forest floor.`
       - 红松鼠会将针叶树上的果实割下来，然后埋在森林地面的落叶中。

@@ -1,25 +1,34 @@
 - militant
   - 发音
-    - 英 `/'mɪlɪtənt/`
-    - 美 `/'mɪlɪtənt/`
+    - 英
+      - `/'mɪlɪtənt/`
+    - 美
+      - `/'mɪlɪtənt/`
   - 词义
-    - adj. 好战的，好暴力的
-    - `a militant organization or person is willing to use strong or violent action in order to achieve political or social change`
-    - n. 激进分子
-    - `Militant is also a noun`
+    - adj.
+      - 好战的，好暴力的
+        - `a militant organization or person is willing to use strong or violent action in order to achieve political or social change`
+    - n.
+      - 激进分子
+        - `Militant is also a noun`
   - 记忆
     - milit(军事， 打斗) + ant → 好战的
   - 同根词
     - n.
-      - `militancy` 战斗性；交战状态
-      - `militarism` 军国主义；尚武精神，好战态度；职业军人的精神
-      - `militance` 战斗性；战斗状态
+      - `militancy`
+        - 战斗性；交战状态
+      - `militarism`
+        - 军国主义；尚武精神，好战态度；职业军人的精神
+      - `militance`
+        - 战斗性；战斗状态
   - 近义词
-    - adj. 好战的
-      - `fighting`
-      - `combative`
-    - n. 富有战斗性的人；好斗者
-      - `gamecock`
+    - adj.
+      - 好战的
+        - `fighting`
+        - `combative`
+    - n.
+      - 富有战斗性的人；好斗者
+        - `gamecock`
   - 例句
     - `militant political activists`
       - 激进的政治活动家

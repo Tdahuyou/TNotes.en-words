@@ -1,25 +1,37 @@
 - pharmacology
   - 发音
-    - 英 `/ˌfɑːrmə'kɑːlədʒi/`
-    - 美 `/fɑrməˈkɑlədʒɪ/`
+    - 英
+      - `/ˌfɑːrmə'kɑːlədʒi/`
+    - 美
+      - `/fɑrməˈkɑlədʒɪ/`
   - 词义
-    - n. 药理学，药物学；药理
-    - `the scientific study of drugs and medicines`
+    - n.
+      - 药理学，药物学；药理
+        - `the scientific study of drugs and medicines`
   - 同根词
     - adj.
-      - `pharmaceutical` 制药（学）的
-      - `pharmacological` 药理学的
-      - `pharmacologic` 药理学的；药物学的
+      - `pharmaceutical`
+        - 制药（学）的
+      - `pharmacological`
+        - 药理学的
+      - `pharmacologic`
+        - 药理学的；药物学的
     - n.
-      - `pharmaceutical` 药物
-      - `pharmacokinetics` 药物（代谢）动力学
-      - `pharmacogenetics` 遗传药理学；药物基因学
-      - `pharmacologist` 药理学家
+      - `pharmaceutical`
+        - 药物
+      - `pharmacokinetics`
+        - 药物（代谢）动力学
+      - `pharmacogenetics`
+        - 遗传药理学；药物基因学
+      - `pharmacologist`
+        - 药理学家
   - 近义词
-    - n. [药]药物学，药理学
-      - `psychopharmacology`
+    - n.
+      - [药]药物学，药理学
+        - `psychopharmacology`
   - 短语
-    - `clinical pharmacology` 临床药理学 
+    - `clinical pharmacology`
+      - 临床药理学 
   - 例句
     - `Some biodegradable polymers such as polyesters hae already been employed as excipients in pharmacology.`
       - 一些生物可降解聚合物，例如聚酯，已经作为辅料应用在药理学中。

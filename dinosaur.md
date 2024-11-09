@@ -1,10 +1,13 @@
 - dinosaur
   - 发音
-    - 英 `/'daɪnəsɔːr/`
-    - 美 `/ˈdaɪnəˌsɔr/`
+    - 英
+      - `/'daɪnəsɔːr/`
+    - 美
+      - `/ˈdaɪnəˌsɔr/`
   - 词义
-    - n. 恐龙
-    - `one of a group of  reptile s  that lived millions of years ago`
+    - n.
+      - 恐龙
+        - `one of a group of  reptile s  that lived millions of years ago`
   - 记忆
     - dino(恐怖的) + saur(蜥蜴) → 恐龙
   - 例句

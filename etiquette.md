@@ -1,17 +1,21 @@
 - etiquette
   - 发音
-    - 英 `/'etɪket/`
-    - 美 `/'ɛtɪkɛt/`
+    - 英
+      - `/'etɪket/`
+    - 美
+      - `/'ɛtɪkɛt/`
   - 词义
-    - n. 礼节，礼仪
-    - `the formal rules for polite behaviour in society or in a particular group`
+    - n.
+      - 礼节，礼仪
+        - `the formal rules for polite behaviour in society or in a particular group`
   - 记忆
     - e + tiquette(=ticket票) → 凭票出入 → 礼节， 礼仪
   - 近义词
-    - n. 礼节，礼仪；规矩
-      - `ceremony`
-      - `manner`
-      - `protocol`
+    - n.
+      - 礼节，礼仪；规矩
+        - `ceremony`
+        - `manner`
+        - `protocol`
   - 例句
     - `strict rules of professional etiquette`
       - 严格的行规

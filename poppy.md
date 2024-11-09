@@ -1,20 +1,28 @@
 - poppy
   - 发音
-    - 英 `/'pɒpɪ/`
-    - 美 `/'pɑpi/`
+    - 英
+      - `/'pɒpɪ/`
+    - 美
+      - `/'pɑpi/`
   - 词义
-    - n. 罂粟花；罂粟属植物；深红色
-    - `a plant that has brightly coloured, usually red, flowers and small black seeds`
-    - adj. 罂粟科的
+    - n.
+      - 罂粟花；罂粟属植物；深红色
+        - `a plant that has brightly coloured, usually red, flowers and small black seeds`
+    - adj.
+      - 罂粟科的
   - 近义词
-    - n. [毒物][植]罂粟花；罂粟属植物；深红色
-      - `papaver`
-      - `coquelicot`
-    - adj. 罂粟科的
-      - `papaveraceous`
+    - n.
+      - [毒物][植]罂粟花；罂粟属植物；深红色
+        - `papaver`
+        - `coquelicot`
+    - adj.
+      - 罂粟科的
+        - `papaveraceous`
   - 短语
-    - `opium poppy` n. 罂粟 
-    - `poppy seed` 罂粟籽 
+    - `opium poppy`
+      - n. 罂粟 
+    - `poppy seed`
+      - 罂粟籽 
   - 例句
     - `We were testing their memory for details; for instance, asking if they had seen a picture of bread topped with sesame or poppy seeds.`
       - 我们当时是在测试他们对于细节的记忆力；然后问他们之前看到的那张面包图片是撒有芝麻的还是罂粟籽。

@@ -1,34 +1,47 @@
 - procurement
   - 发音
-    - 英 `/prə'kjurmənt/`
-    - 美 `/prə'kjʊrmənt/`
+    - 英
+      - `/prə'kjurmənt/`
+    - 美
+      - `/prə'kjʊrmənt/`
   - 词义
-    - n. 取得，获得；采购
-    - `Procurement is the act of obtaining something such as supplies for an army or other organization`
+    - n.
+      - 取得，获得；采购
+        - `Procurement is the act of obtaining something such as supplies for an army or other organization`
   - 记忆
     - 来自动词procure(v. 取得， 获得)
   - 同根词
     - adj.
-      - `procurable` 可得到的；可实现的
+      - `procurable`
+        - 可得到的；可实现的
     - n.
-      - `procurance` 获得；实现
+      - `procurance`
+        - 获得；实现
     - vi.
-      - `procure` 取得
+      - `procure`
+        - 取得
     - vt.
-      - `procure` 获得，取得；导致
+      - `procure`
+        - 获得，取得；导致
   - 近义词
-    - n. 采购；获得，取得
-      - `purchasing`
-      - `acquisition`
-      - `getting`
-      - `taking`
-      - `winning`
+    - n.
+      - 采购；获得，取得
+        - `purchasing`
+        - `acquisition`
+        - `getting`
+        - `taking`
+        - `winning`
   - 短语
-    - `government procurement` 政府采购业务 
-    - `procurement department` 采购部 
-    - `procurement cost` 采购成本 
-    - `procurement contract` 采购合同；订货合同；采办合同 
-    - `procurement division` 采购部门 
+    - `government procurement`
+      - 政府采购业务 
+    - `procurement department`
+      - 采购部 
+    - `procurement cost`
+      - 采购成本 
+    - `procurement contract`
+      - 采购合同；订货合同；采办合同 
+    - `procurement division`
+      - 采购部门 
   - 例句
     - `Russia was cutting procurement of new weapons "by about 80 percent," he said.`
       - 他说俄罗斯正“以大约百分之八十的幅度”削减新武器的补给。

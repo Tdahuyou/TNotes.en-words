@@ -1,10 +1,13 @@
 - subspecies
   - 发音
-    - 英 `/sʌb'spiːʃiːz/`
-    - 美 `/sʌb'spiʃiz/`
+    - 英
+      - `/sʌb'spiːʃiːz/`
+    - 美
+      - `/sʌb'spiʃiz/`
   - 词义
-    - n. 亚种
-    - `a group of similar plants or animals that is smaller than a  species `
+    - n.
+      - 亚种
+        - `a group of similar plants or animals that is smaller than a  species `
   - 记忆
     - sub(在…下面) + species(物种) → 下一等的物种 → 亚种
   - 例句

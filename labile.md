@@ -1,16 +1,20 @@
 - labile
   - 发音
-    - 英 `/'leɪbaɪl/`
-    - 美 `/'lebɪl/`
+    - 英
+      - `/'leɪbaɪl/`
+    - 美
+      - `/'lebɪl/`
   - 词义
-    - adj. 易变化的，不稳定的
-    - `(of a compound) prone to chemical change `
+    - adj.
+      - 易变化的，不稳定的
+        - `(of a compound) prone to chemical change `
   - 近义词
-    - adj. 易变的，不稳定的；不安定的
-      - `mobile`
-      - `variable`
-      - `liquid`
-      - `unstable`
+    - adj.
+      - 易变的，不稳定的；不安定的
+        - `mobile`
+        - `variable`
+        - `liquid`
+        - `unstable`
   - 例句
     - `Such physical entanglements are usually labile.`
       - 这种物理缠结往往是不稳定的。

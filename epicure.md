@@ -1,20 +1,27 @@
 - epicure
   - 发音
-    - 英 `/'epikjuə/`
-    - 美 `/'ɛpɪkjʊr/`
+    - 英
+      - `/'epikjuə/`
+    - 美
+      - `/'ɛpɪkjʊr/`
   - 词义
-    - n. 美食家
-    - `someone who enjoys good food and drink`
+    - n.
+      - 美食家
+        - `someone who enjoys good food and drink`
   - 同根词
     - adj.
-      - `epicurean` 享乐主义的；伊比鸠鲁（学派）的
+      - `epicurean`
+        - 享乐主义的；伊比鸠鲁（学派）的
     - n.
-      - `epicurean` 享乐主义者；美食家
-      - `epicurism` 美食主义；贪口福；讲究饮食者的习惯
+      - `epicurean`
+        - 享乐主义者；美食家
+      - `epicurism`
+        - 美食主义；贪口福；讲究饮食者的习惯
   - 近义词
-    - n. 老饕；美食家；享乐主义者
-      - `gormandizer`
-      - `gourmet`
+    - n.
+      - 老饕；美食家；享乐主义者
+        - `gormandizer`
+        - `gourmet`
   - 例句
     - `Ogre that he was, he spoke like an epicure.`
       - 他虽是个吃人恶魔，说话倒像个美食家。

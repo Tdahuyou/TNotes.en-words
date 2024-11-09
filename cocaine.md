@@ -1,16 +1,21 @@
 - cocaine
   - 发音
-    - 英 `/kə(ʊ)'keɪn/`
-    - 美 `/ko'ken/`
+    - 英
+      - `/kə(ʊ)'keɪn/`
+    - 美
+      - `/ko'ken/`
   - 词义
-    - n. [药]可卡因
-    - `a drug, usually in the form of a white powder, that is taken illegally for pleasure or used in some medical situations to prevent pain`
+    - n.
+      - [药]可卡因
+        - `a drug, usually in the form of a white powder, that is taken illegally for pleasure or used in some medical situations to prevent pain`
   - 近义词
-    - n. [药]可卡因
-      - `coke`
-      - `Bernie`
+    - n.
+      - [药]可卡因
+        - `coke`
+        - `Bernie`
   - 短语
-    - `crack cocaine` 可卡因；快克古柯碱；霹雳可卡因 
+    - `crack cocaine`
+      - 可卡因；快克古柯碱；霹雳可卡因 
   - 例句
     - `The police report said she was doing cocaine.`
       - 警方报告说她正在吸可卡因。

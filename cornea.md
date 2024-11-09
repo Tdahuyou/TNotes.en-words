@@ -1,13 +1,17 @@
 - cornea
   - 发音
-    - 英 `/'kɔːniə/`
-    - 美 `/'kɔrnɪə/`
+    - 英
+      - `/'kɔːniə/`
+    - 美
+      - `/'kɔrnɪə/`
   - 词义
-    - n. 角膜
-    - `the transparent protective covering on the outer surface of your eye`
+    - n.
+      - 角膜
+        - `the transparent protective covering on the outer surface of your eye`
   - 同根词
     - adj.
-      - `corneal` [解剖] 角膜的
+      - `corneal`
+        - [解剖] 角膜的
   - 例句
     - `They accommodate by greatly changing the curvature of the cornea.`
       - 它们由大大地改变角膜曲率的方法来调节。

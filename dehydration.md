@@ -1,22 +1,29 @@
 - dehydration
   - 发音
-    - 英 `/ˌdiːhai'dreiʃən/`
-    - 美 `/,dihaɪ'dreʃən/`
+    - 英
+      - `/ˌdiːhai'dreiʃən/`
+    - 美
+      - `/,dihaɪ'dreʃən/`
   - 词义
-    - n. 干燥；脱水
+    - n.
+      - 干燥；脱水
   - 记忆
     - 来自dehydrate (v. 使脱水)
   - 同根词
     - adj.
-      - `dehydrated` 脱水的
+      - `dehydrated`
+        - 脱水的
     - vi.
-      - `dehydrate` 脱水；去水
+      - `dehydrate`
+        - 脱水；去水
     - vt.
-      - `dehydrate` 使…脱水；使极其口渴；使丧失力量和兴趣等
+      - `dehydrate`
+        - 使…脱水；使极其口渴；使丧失力量和兴趣等
   - 近义词
-    - n. [医][化学]脱水
-      - `anhydration`
-      - `expulsion of water`
+    - n.
+      - [医][化学]脱水
+        - `anhydration`
+        - `expulsion of water`
   - 例句
     - `Early dehydration – no signs or symptoms.`
       - 早期脱水——无迹象或无症状。

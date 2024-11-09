@@ -1,26 +1,36 @@
 - inflationary
   - 发音
-    - 英 `/ɪn'fleɪʃənrɪ/`
-    - 美 `/ɪn'fleʃənɛri/`
+    - 英
+      - `/ɪn'fleɪʃənrɪ/`
+    - 美
+      - `/ɪn'fleʃənɛri/`
   - 词义
-    - adj. 通货膨胀的；通货膨胀倾向的；通货膨胀引起的
-    - `relating to or causing price increases`
+    - adj.
+      - 通货膨胀的；通货膨胀倾向的；通货膨胀引起的
+        - `relating to or causing price increases`
   - 记忆
     - 来自inflate(v. 膨胀)
   - 同根词
     - adj.
-      - `inflated` 通货膨胀的；充了气的；价格飞涨的；（植物）肿胀的
-      - `inflatable` 膨胀的，可充气的；得意的
+      - `inflated`
+        - 通货膨胀的；充了气的；价格飞涨的；（植物）肿胀的
+      - `inflatable`
+        - 膨胀的，可充气的；得意的
     - n.
-      - `inflation` 膨胀；通货膨胀；夸张；自命不凡
+      - `inflation`
+        - 膨胀；通货膨胀；夸张；自命不凡
     - v.
-      - `inflated` 膨胀（inflate的过去式和过去分词）；使充气；抬高（物价）
+      - `inflated`
+        - 膨胀（inflate的过去式和过去分词）；使充气；抬高（物价）
     - vi.
-      - `inflate` 膨胀；充气
+      - `inflate`
+        - 膨胀；充气
     - vt.
-      - `inflate` 使充气；使通货膨胀
+      - `inflate`
+        - 使充气；使通货膨胀
   - 短语
-    - `inflationary pressure` 通货膨胀压力；通胀压力 
+    - `inflationary pressure`
+      - 通货膨胀压力；通胀压力 
   - 例句
     - `inflationary pressures in the economy`
       - 经济上的通货膨胀压力

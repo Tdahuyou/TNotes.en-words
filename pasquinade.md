@@ -1,10 +1,13 @@
 - pasquinade
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 讽刺诗,讽刺文
-    - `an abusive lampoon or satire, esp one posted in a public place `
+    - n.
+      - 讽刺诗,讽刺文
+        - `an abusive lampoon or satire, esp one posted in a public place `
   - 例句
     - `To ridicule with a pasquinade;`
       - 用讽刺文章进行嘲讽；

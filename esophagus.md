@@ -1,19 +1,26 @@
 - esophagus
   - 发音
-    - 英 `/iː'sɔfəgəs/`
-    - 美 `/ɪ'sɑfəɡəs/`
+    - 英
+      - `/iː'sɔfəgəs/`
+    - 美
+      - `/ɪ'sɑfəɡəs/`
   - 词义
-    - n. 食管
+    - n.
+      - 食管
   - 同根词
     - adj.
-      - `esophageal` 食管的；食道的
+      - `esophageal`
+        - 食管的；食道的
   - 近义词
-    - n. 食管；[解剖]食道
-      - `oesophagus`
-      - `gullet`
+    - n.
+      - 食管；[解剖]食道
+        - `oesophagus`
+        - `gullet`
   - 短语
-    - `esophagus cancer` 食道癌 
-    - `carcinoma of esophagus` 食道癌，食管癌 
+    - `esophagus cancer`
+      - 食道癌 
+    - `carcinoma of esophagus`
+      - 食道癌，食管癌 
   - 例句
     - `One is a 9-month-old infant, adopted from Korea, who was born without a windpipe and breathes through a hole in her esophagus.`
       - 其中一位是一个被收养的韩国婴儿，9个月大，她天生就没有气管，只能通过开在食道上的一个孔呼吸。

@@ -1,16 +1,22 @@
 - glassware
   - 发音
-    - 英 `/'glɑːsweə/`
-    - 美 `/undefined/`
+    - 英
+      - `/'glɑːsweə/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 玻璃器具类
-    - `glass objects, especially ones used for drinking and eating`
+    - n.
+      - 玻璃器具类
+        - `glass objects, especially ones used for drinking and eating`
   - 同根词
     - adj.
-      - `glassy` 像玻璃的；光亮透明的；呆滞的
+      - `glassy`
+        - 像玻璃的；光亮透明的；呆滞的
     - n.
-      - `glassblower` 吹玻璃的人或机器
-      - `glassmaker` 玻璃工人
+      - `glassblower`
+        - 吹玻璃的人或机器
+      - `glassmaker`
+        - 玻璃工人
   - 例句
     - `We have replaced the broken glassware.`
       - 破碎的玻璃器皿我们已更换。

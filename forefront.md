@@ -1,10 +1,13 @@
 - forefront
   - 发音
-    - 英 `/'fɔːrfrʌnt/`
-    - 美 `/'fɔrfrʌnt/`
+    - 英
+      - `/'fɔːrfrʌnt/`
+    - 美
+      - `/'fɔrfrʌnt/`
   - 词义
-    - n. 最前沿，最前线；中心
-    - `If you are at the forefront of a campaign or other activity, you have a leading and influential position in it`
+    - n.
+      - 最前沿，最前线；中心
+        - `If you are at the forefront of a campaign or other activity, you have a leading and influential position in it`
   - 记忆
     - fore(前面) + front(前面) → 前面的前面 → 最前沿
   - 例句

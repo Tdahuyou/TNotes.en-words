@@ -1,16 +1,20 @@
 - tornado
   - 发音
-    - 英 `/tɔːr'neɪdou/`
-    - 美 `/tɔr'nedo/`
+    - 英
+      - `/tɔːr'neɪdou/`
+    - 美
+      - `/tɔr'nedo/`
   - 词义
-    - n. 飓风，龙卷风
-    - `an extremely violent storm consisting of air that spins very quickly and causes a lot of damage`
+    - n.
+      - 飓风，龙卷风
+        - `an extremely violent storm consisting of air that spins very quickly and causes a lot of damage`
   - 记忆
     - torn(转动) + ado → 能转动万物的风 → 飓风， 龙卷风
   - 近义词
-    - n. [气象]龙卷风；旋风；暴风；大雷雨
-      - `cyclone`
-      - `Tornado Jockey`
+    - n.
+      - [气象]龙卷风；旋风；暴风；大雷雨
+        - `cyclone`
+        - `Tornado Jockey`
   - 例句
     - `Python: how to return from generator function using tornado?`
       - 如何从生成器函数返回使用龙卷风?。

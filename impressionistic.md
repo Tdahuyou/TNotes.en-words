@@ -1,23 +1,33 @@
 - impressionistic
   - 发音
-    - 英 `/ɪm,preʃə'nɪstɪk/`
-    - 美 `/,ɪmprɛʃə'nɪstɪk/`
+    - 英
+      - `/ɪm,preʃə'nɪstɪk/`
+    - 美
+      - `/,ɪmprɛʃə'nɪstɪk/`
   - 词义
-    - adj. 印象派的,给人深刻印象的
-    - `An impressionistic work of art or piece of writing shows the artist's or writer's impressions of something rather than giving clear details`
+    - adj.
+      - 印象派的,给人深刻印象的
+        - `An impressionistic work of art or piece of writing shows the artist's or writer's impressions of something rather than giving clear details`
   - 同根词
     - n.
-      - `impress` 印象，印记；特征，痕迹
-      - `impression` 印象；效果，影响；压痕，印记；感想
-      - `impressionist` 印象主义者；印象派作家
-      - `impressionism` 印象派，印象主义
+      - `impress`
+        - 印象，印记；特征，痕迹
+      - `impression`
+        - 印象；效果，影响；压痕，印记；感想
+      - `impressionist`
+        - 印象主义者；印象派作家
+      - `impressionism`
+        - 印象派，印象主义
     - vi.
-      - `impress` 给人印象
+      - `impress`
+        - 给人印象
     - vt.
-      - `impress` 盖印；强征；传送；给予某人深刻印象
+      - `impress`
+        - 盖印；强征；传送；给予某人深刻印象
   - 近义词
-    - adj. 印象派的；印象主义的；给人深刻印象的
-      - `imposing`
+    - adj.
+      - 印象派的；印象主义的；给人深刻印象的
+        - `imposing`
   - 例句
     - `His paintings had become more impressionistic as his eyesight dimmed.`
       - 随着他的视力减弱，他的画变得越来越富有印象派风格。

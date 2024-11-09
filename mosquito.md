@@ -1,18 +1,24 @@
 - mosquito
   - 发音
-    - 英 `/mə'skiːtou/`
-    - 美 `/məˈskiːtoʊ/`
+    - 英
+      - `/mə'skiːtou/`
+    - 美
+      - `/məˈskiːtoʊ/`
   - 词义
-    - n. 蚊子
-    - `a small flying insect that sucks the blood of people and animals, sometimes spreading the disease  malaria `
+    - n.
+      - 蚊子
+        - `a small flying insect that sucks the blood of people and animals, sometimes spreading the disease  malaria `
   - 记忆
     - “貌似黑头” → 像鼻子上的黑头 → 蚊子
   - 近义词
-    - n. 蚊子
-      - `skeeter`
+    - n.
+      - 蚊子
+        - `skeeter`
   - 短语
-    - `mosquito net` n. 蚊帐 
-    - `mosquito killer` 蚊香器 
+    - `mosquito net`
+      - n. 蚊帐 
+    - `mosquito killer`
+      - 蚊香器 
   - 例句
     - `The use of mosquito lure female mosquitoes.`
       - 运用蚊子的趋光性引诱雌蚊。

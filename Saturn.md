@@ -1,10 +1,13 @@
 - Saturn
   - 发音
-    - 英 `/'sætɜːrn/`
-    - 美 `/'sætɝn/`
+    - 英
+      - `/'sætɜːrn/`
+    - 美
+      - `/'sætɝn/`
   - 词义
-    - n. 土星
-    - `the  planet  that is sixth in order from the sun and is surrounded by large rings`
+    - n.
+      - 土星
+        - `the  planet  that is sixth in order from the sun and is surrounded by large rings`
   - 例句
     - `Saturn is my surroundings.`
       - 土星是我的环境。

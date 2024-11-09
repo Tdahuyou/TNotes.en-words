@@ -1,14 +1,18 @@
 - actinia
   - 发音
-    - 英 `/æk'tɪnɪə/`
-    - 美 `/æk'tiniə/`
+    - 英
+      - `/æk'tɪnɪə/`
+    - 美
+      - `/æk'tiniə/`
   - 词义
-    - n. [动]海葵
-    - `any sea anemone of the genus Actinia, which are common in rock pools `
+    - n.
+      - [动]海葵
+        - `any sea anemone of the genus Actinia, which are common in rock pools `
   - 近义词
-    - n. 海葵，海葵属
-      - `sea anemone`
-      - `zoantharian`
+    - n.
+      - 海葵，海葵属
+        - `sea anemone`
+        - `zoantharian`
   - 例句
     - `Look at what do Ifind?. actinia.`
       - 看，我发现什么了?…。是海葵。

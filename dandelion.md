@@ -1,13 +1,17 @@
 - dandelion
   - 发音
-    - 英 `/'dændɪlaɪən/`
-    - 美 `/'dændɪlaɪən/`
+    - 英
+      - `/'dændɪlaɪən/`
+    - 美
+      - `/'dændɪlaɪən/`
   - 词义
-    - n. 蒲公英
-    - `a wild plant with a bright yellow flower which later becomes a white ball of seeds that are blown away in the wind`
+    - n.
+      - 蒲公英
+        - `a wild plant with a bright yellow flower which later becomes a white ball of seeds that are blown away in the wind`
   - 近义词
-    - n. 蒲公英
-      - `taraxacum`
+    - n.
+      - 蒲公英
+        - `taraxacum`
   - 例句
     - `The wind puffed away the seeds of the dandelion.`
       - 风吹散了蒲公英的种子。

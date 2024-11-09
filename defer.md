@@ -1,27 +1,37 @@
 - defer
   - 发音
-    - 英 `/dɪ'fɜːr/`
-    - 美 `/dɪ'fɝ/`
+    - 英
+      - `/dɪ'fɜːr/`
+    - 美
+      - `/dɪ'fɝ/`
   - 词义
-    - v. 推迟，延期
-    - `to delay something until a later date`
+    - v.
+      - 推迟，延期
+        - `to delay something until a later date`
   - 记忆
     - de(向下) + fer(搬运) → 向下搬运 → 推迟， 延期
   - 同根词
     - adj.
-      - `deferred` 延期的
+      - `deferred`
+        - 延期的
     - n.
-      - `deference` 顺从
-      - `deferral` 延期；迟延；缓役
-      - `deferment` 延期；迁延
+      - `deference`
+        - 顺从
+      - `deferral`
+        - 延期；迟延；缓役
+      - `deferment`
+        - 延期；迁延
     - v.
-      - `deferred` 推迟（defer的过去式及过去分词形式）
+      - `deferred`
+        - 推迟（defer的过去式及过去分词形式）
   - 近义词
-    - vi. 推迟；延期；服从
-      - `delay`
-      - `to postpone`
-    - vt. 使推迟；使延期
-      - `respite`
+    - vi.
+      - 推迟；延期；服从
+        - `delay`
+        - `to postpone`
+    - vt.
+      - 使推迟；使延期
+        - `respite`
   - 例句
     - `The committee deferred their decision .`
       - 委员会延期作出决定。

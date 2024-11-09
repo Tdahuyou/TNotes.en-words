@@ -1,34 +1,49 @@
 - waken
   - 发音
-    - 英 `/'weɪk(ə)n/`
-    - 美 `/'wekən/`
+    - 英
+      - `/'weɪk(ə)n/`
+    - 美
+      - `/'wekən/`
   - 词义
-    - v. 唤醒；使觉醒
-    - `to wake up, or to wake someone up`
+    - v.
+      - 唤醒；使觉醒
+        - `to wake up, or to wake someone up`
   - 同根词
     - adj.
-      - `waking` 醒着的
-      - `wakeful` 醒着的；失眠的；警觉的
+      - `waking`
+        - 醒着的
+      - `wakeful`
+        - 醒着的；失眠的；警觉的
     - n.
-      - `wake` 尾迹；守夜；守丧
-      - `wakefulness` [生理] 觉醒；不眠
-      - `wakening` 唤醒
+      - `wake`
+        - 尾迹；守夜；守丧
+      - `wakefulness`
+        - [生理] 觉醒；不眠
+      - `wakening`
+        - 唤醒
     - v.
-      - `waking` 醒来，唤醒；唤起（记忆）（wake的现在分词形式）
-      - `wakening` 唤醒；醒来（waken的ing形式）
+      - `waking`
+        - 醒来，唤醒；唤起（记忆）（wake的现在分词形式）
+      - `wakening`
+        - 唤醒；醒来（waken的ing形式）
     - vi.
-      - `wake` 醒来；唤醒；警觉
+      - `wake`
+        - 醒来；唤醒；警觉
     - vt.
-      - `wake` 叫醒；激发
+      - `wake`
+        - 叫醒；激发
   - 近义词
-    - vt. 唤醒；使觉醒
-      - `arouse`
-      - `wake sb. up`
-    - vi. 醒来；觉醒
-      - `wake up`
-      - `awake`
+    - vt.
+      - 唤醒；使觉醒
+        - `arouse`
+        - `wake sb. up`
+    - vi.
+      - 醒来；觉醒
+        - `wake up`
+        - `awake`
   - 短语
-    - `waken up` 醒来 
+    - `waken up`
+      - 醒来 
   - 例句
     - `She gently wakened the sleeping child.`
       - 她轻轻地唤醒睡梦中的孩子。

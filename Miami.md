@@ -1,11 +1,15 @@
 - Miami
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 迈阿密(美国佛罗里州达东南部港市)
+    - n.
+      - 迈阿密(美国佛罗里州达东南部港市)
   - 短语
-    - `miami beach` 迈阿密海滩（位于美国佛罗里达州） 
+    - `miami beach`
+      - 迈阿密海滩（位于美国佛罗里达州） 
   - 例句
     - `Do you have any flights to Miami?`
       - 你们有飞迈阿密的班机吗？

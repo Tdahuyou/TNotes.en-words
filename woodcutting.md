@@ -1,14 +1,19 @@
 - woodcutting
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - adj. 木雕的
-    - n. 伐木,木刻
+    - adj.
+      - 木雕的
+    - n.
+      - 伐木,木刻
   - 近义词
-    - n. [林]伐木；木刻
-      - `felling`
-      - `wood block`
+    - n.
+      - [林]伐木；木刻
+        - `felling`
+        - `wood block`
   - 例句
     - `Roadwork is all done with spades, heavy woodcutting with hand-axes – and all work is to meet specified quotas or food was immediately reduced.`
       - 道路施工都是用铁锹完成的，沉重的伐木工作是用斧头——所有工作都要符合规定的进度，否则立刻就减少食物。

@@ -1,18 +1,25 @@
 - airplane
   - 发音
-    - 英 `/'eəpleɪn/`
-    - 美 `/ˈerpleɪn/`
+    - 英
+      - `/'eəpleɪn/`
+    - 美
+      - `/ˈerpleɪn/`
   - 词义
-    - n. 飞机
-    - `a vehicle that flies through the air and has one or more engines`
+    - n.
+      - 飞机
+        - `a vehicle that flies through the air and has one or more engines`
   - 近义词
-    - n. [航]飞机
-      - `plane`
-      - `aeroplane`
+    - n.
+      - [航]飞机
+        - `plane`
+        - `aeroplane`
   - 短语
-    - `by airplane` 搭飞机 
-    - `model airplane` 航空模型 
-    - `fly an airplane` 开飞机 
+    - `by airplane`
+      - 搭飞机 
+    - `model airplane`
+      - 航空模型 
+    - `fly an airplane`
+      - 开飞机 
   - 例句
     - `The airplane cracked up in landing.`
       - 这架飞机在着陆时坠毁。

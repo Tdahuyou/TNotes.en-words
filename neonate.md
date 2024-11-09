@@ -1,18 +1,23 @@
 - neonate
   - 发音
-    - 英 `/'niːə(ʊ)neɪt/`
-    - 美 `/'nionet/`
+    - 英
+      - `/'niːə(ʊ)neɪt/`
+    - 美
+      - `/'nionet/`
   - 词义
-    - n. 初生婴儿
-    - `a newborn child, esp in the first week of life and up to four weeks old `
+    - n.
+      - 初生婴儿
+        - `a newborn child, esp in the first week of life and up to four weeks old `
   - 同根词
     - adj.
-      - `neonatal` 新生的；初生的
+      - `neonatal`
+        - 新生的；初生的
   - 近义词
-    - n. 婴儿
-      - `baby`
-      - `infant`
-      - `babe`
+    - n.
+      - 婴儿
+        - `baby`
+        - `infant`
+        - `babe`
   - 例句
     - `“Full, unabashed, total irradiation of a neonate,” Dr. Sclafani said, adding, “This poor, defenseless baby.`
       - “对初生婴儿过量的毫不在乎的辐射，”Sclafani医生说，又接着说，“这些可怜的毫无防护能力的婴儿。”

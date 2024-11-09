@@ -1,19 +1,25 @@
 - discoloration
   - 发音
-    - 英 `/,dɪskʌlə'reɪʃn/`
-    - 美 `/,dɪs,kʌlə'reʃən/`
+    - 英
+      - `/,dɪskʌlə'reɪʃn/`
+    - 美
+      - `/,dɪs,kʌlə'reʃən/`
   - 词义
-    - n. 变色,污点
-    - `the process of becoming discoloured`
+    - n.
+      - 变色,污点
+        - `the process of becoming discoloured`
   - 同根词
     - vi.
-      - `discolor` 变色；褪色
+      - `discolor`
+        - 变色；褪色
     - vt.
-      - `discolor` 使变色；使褪色
+      - `discolor`
+        - 使变色；使褪色
   - 近义词
-    - n. 变色；污点
-      - `dipping treatment`
-      - `chromatism`
+    - n.
+      - 变色；污点
+        - `dipping treatment`
+        - `chromatism`
   - 例句
     - `Vitamin K is helpful in reducing discoloration and the appearance of capillaries.`
       - 维生素K能够帮助减少污点和外观毛细血管。

@@ -1,17 +1,23 @@
 - apprentice
   - 发音
-    - 英 `/ə'prentɪs/`
-    - 美 `/ə'prɛntɪs/`
+    - 英
+      - `/ə'prentɪs/`
+    - 美
+      - `/ə'prɛntɪs/`
   - 词义
-    - n. 学徒
-    - v. 当学徒
+    - n.
+      - 学徒
+    - v.
+      - 当学徒
   - 同根词
     - n.
-      - `apprenticeship` 学徒期；学徒身分
+      - `apprenticeship`
+        - 学徒期；学徒身分
   - 近义词
-    - n. 学徒；[劳经]生手
-      - `freshman`
-      - `fresh hand`
+    - n.
+      - 学徒；[劳经]生手
+        - `freshman`
+        - `fresh hand`
   - 例句
     - `The apprentice lingered his work.`
       - 这个徒弟磨洋工。

@@ -1,19 +1,28 @@
 - retrievable
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - adj. 可取回的；可补偿的；可检索的
+    - adj.
+      - 可取回的；可补偿的；可检索的
   - 同根词
     - n.
-      - `retrieve` [计] 检索；恢复，取回
-      - `retrieval` 检索；恢复；取回；拯救
-      - `retriever` （训练成能寻回猎物的）猎犬；取回的人
+      - `retrieve`
+        - [计] 检索；恢复，取回
+      - `retrieval`
+        - 检索；恢复；取回；拯救
+      - `retriever`
+        - （训练成能寻回猎物的）猎犬；取回的人
     - vi.
-      - `retrieve` 找回猎物
+      - `retrieve`
+        - 找回猎物
     - vt.
-      - `retrieve` [计] 检索；恢复；重新得到
+      - `retrieve`
+        - [计] 检索；恢复；重新得到
   - 近义词
-    - adj. 可取回的；可补偿的；可检索的
-      - `compensable`
-      - `reimbursable`
+    - adj.
+      - 可取回的；可补偿的；可检索的
+        - `compensable`
+        - `reimbursable`

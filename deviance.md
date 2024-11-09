@@ -1,20 +1,29 @@
 - deviance
   - 发音
-    - 英 `/'diːviəns/`
-    - 美 `/'divɪəns/`
+    - 英
+      - `/'diːviəns/`
+    - 美
+      - `/'divɪəns/`
   - 词义
-    - n. 异常；偏常行为
+    - n.
+      - 异常；偏常行为
   - 记忆
     - de(偏离) + vi(路) + ance → 偏离正路 → 偏常行为
   - 同根词
     - adj.
-      - `deviant` 不正常的；离经叛道的
-      - `deviationist` 路线偏差分子的；右倾分子的；左倾分子的
+      - `deviant`
+        - 不正常的；离经叛道的
+      - `deviationist`
+        - 路线偏差分子的；右倾分子的；左倾分子的
     - n.
-      - `deviant` 不正常者；偏移值；变异物
-      - `deviationism` 异端
-      - `deviationist` （政党内）路线偏差分子；异端分子
+      - `deviant`
+        - 不正常者；偏移值；变异物
+      - `deviationism`
+        - 异端
+      - `deviationist`
+        - （政党内）路线偏差分子；异端分子
   - 近义词
-    - n. 异常；异常行为
-      - `anomaly`
-      - `abnormality`
+    - n.
+      - 异常；异常行为
+        - `anomaly`
+        - `abnormality`

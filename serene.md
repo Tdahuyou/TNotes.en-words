@@ -1,30 +1,39 @@
 - serene
   - 发音
-    - 英 `/sɪ'riːn/`
-    - 美 `/sə'rin/`
+    - 英
+      - `/sɪ'riːn/`
+    - 美
+      - `/sə'rin/`
   - 词义
-    - adj. 平静的n宁静
-    - `very calm or peaceful`
+    - adj.
+      - 平静的n宁静
+        - `very calm or peaceful`
   - 同根词
     - adv.
-      - `serenely` 安详地；沉着地；宁静地
+      - `serenely`
+        - 安详地；沉着地；宁静地
     - n.
-      - `serenity` 平静，宁静；晴朗，风和日丽
+      - `serenity`
+        - 平静，宁静；晴朗，风和日丽
   - 近义词
-    - adj. 平静的；安详的；清澈的；晴朗的
-      - `peaceful`
-      - `pacific`
-      - `calm`
-      - `liquid`
-      - `clear`
-    - n. 平静；晴朗
-      - `peace`
-      - `equilibrium`
-    - vt. 使平静
-      - `calm`
-      - `compose`
+    - adj.
+      - 平静的；安详的；清澈的；晴朗的
+        - `peaceful`
+        - `pacific`
+        - `calm`
+        - `liquid`
+        - `clear`
+    - n.
+      - 平静；晴朗
+        - `peace`
+        - `equilibrium`
+    - vt.
+      - 使平静
+        - `calm`
+        - `compose`
   - 短语
-    - `all serene` [俚语] 
+    - `all serene`
+      - [俚语] 
   - 例句
     - `The child’s face was serene and beautiful.`
       - 这孩子的神情宁静可爱。

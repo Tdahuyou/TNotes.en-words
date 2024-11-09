@@ -1,53 +1,81 @@
 - motive
   - 发音
-    - 英 `/'moutɪv/`
-    - 美 `/'motɪv/`
+    - 英
+      - `/'moutɪv/`
+    - 美
+      - `/'motɪv/`
   - 词义
-    - adj. 发动的；导致运动的
-    - `the motive power or force for a machine, vehicle etc makes it move`
-    - n. 动机，目的
-    - `the reason that makes someone do something, especially when this reason is kept hidden`
+    - adj.
+      - 发动的；导致运动的
+        - `the motive power or force for a machine, vehicle etc makes it move`
+    - n.
+      - 动机，目的
+        - `the reason that makes someone do something, especially when this reason is kept hidden`
   - 记忆
     - mot(移动) + ive → 有意向某处移动 → 动机， 目的
   - 同根词
     - adj.
-      - `motor` 汽车的；机动的
-      - `motivated` 有动机的；有积极性的
-      - `motionless` 静止的；不运动的
-      - `motivational` 动机的；激发性的；有关动机的；动机说明
-      - `motional` 运动的；起动的
-      - `motiveless` 无动机的
+      - `motor`
+        - 汽车的；机动的
+      - `motivated`
+        - 有动机的；有积极性的
+      - `motionless`
+        - 静止的；不运动的
+      - `motivational`
+        - 动机的；激发性的；有关动机的；动机说明
+      - `motional`
+        - 运动的；起动的
+      - `motiveless`
+        - 无动机的
     - n.
-      - `motion` 动作；移动；手势；请求；意向
-      - `motivation` 动机；积极性；推动
-      - `motor` 发动机，马达；汽车
-      - `motif` 主题；动机；主旨；图形；意念
-      - `motivator` 动力；激励因素
-      - `motivity` 动力；原动力
+      - `motion`
+        - 动作；移动；手势；请求；意向
+      - `motivation`
+        - 动机；积极性；推动
+      - `motor`
+        - 发动机，马达；汽车
+      - `motif`
+        - 主题；动机；主旨；图形；意念
+      - `motivator`
+        - 动力；激励因素
+      - `motivity`
+        - 动力；原动力
     - v.
-      - `motivated` 使产生动机；激发…的积极性（motivate的过去式和过去分词）
+      - `motivated`
+        - 使产生动机；激发…的积极性（motivate的过去式和过去分词）
     - vi.
-      - `motion` 运动；打手势
-      - `motor` 乘汽车
+      - `motion`
+        - 运动；打手势
+      - `motor`
+        - 乘汽车
     - vt.
-      - `motion` 运动；向…打手势
-      - `motivate` 刺激；使有动机；激发…的积极性
-      - `motor` 以汽车载运
+      - `motion`
+        - 运动；向…打手势
+      - `motivate`
+        - 刺激；使有动机；激发…的积极性
+      - `motor`
+        - 以汽车载运
   - 近义词
-    - n. 动机，目的；主题
-      - `incentive`
-      - `goals`
-      - `intention`
-      - `topic`
-      - `purpose`
-    - vt. 使产生动机，激起
-      - `prompt`
-      - `stir up`
+    - n.
+      - 动机，目的；主题
+        - `incentive`
+        - `goals`
+        - `intention`
+        - `topic`
+        - `purpose`
+    - vt.
+      - 使产生动机，激起
+        - `prompt`
+        - `stir up`
   - 短语
-    - `motive force` 动力；起动力，原动力 
-    - `motive power` 动力 
-    - `ulterior motive` 隐秘不明的动机 
-    - `profit motive` 利润动机 
+    - `motive force`
+      - 动力；起动力，原动力 
+    - `motive power`
+      - 动力 
+    - `ulterior motive`
+      - 隐秘不明的动机 
+    - `profit motive`
+      - 利润动机 
   - 例句
     - `Water provided the motive power for the mill.`
       - 水为磨坊提供了动力。

@@ -1,22 +1,32 @@
 - looseness
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 松开,解除
+    - n.
+      - 松开,解除
   - 同根词
     - adj.
-      - `loose` 宽松的；散漫的；不牢固的；不精确的
+      - `loose`
+        - 宽松的；散漫的；不牢固的；不精确的
     - adv.
-      - `loose` 松散地
-      - `loosely` 宽松地；放荡地；轻率地
+      - `loose`
+        - 松散地
+      - `loosely`
+        - 宽松地；放荡地；轻率地
     - n.
-      - `loose` 放纵；放任；发射
+      - `loose`
+        - 放纵；放任；发射
     - vi.
-      - `loose` 变松；开火
+      - `loose`
+        - 变松；开火
     - vt.
-      - `loose` 释放；开船；放枪
+      - `loose`
+        - 释放；开船；放枪
   - 近义词
-    - n. 松动；松弛；漠然
-      - `flab`
-      - `slackness`
+    - n.
+      - 松动；松弛；漠然
+        - `flab`
+        - `slackness`

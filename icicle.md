@@ -1,13 +1,17 @@
 - icicle
   - 发音
-    - 英 `/'aɪsɪk(ə)l/`
-    - 美 `/'aɪsɪkl/`
+    - 英
+      - `/'aɪsɪk(ə)l/`
+    - 美
+      - `/'aɪsɪkl/`
   - 词义
-    - n. 冰柱
-    - `a long thin pointed piece of ice hanging from a roof or other surface`
+    - n.
+      - 冰柱
+        - `a long thin pointed piece of ice hanging from a roof or other surface`
   - 近义词
-    - n. [水文]冰柱；垂冰；冷冰冰的人
-      - `icle`
+    - n.
+      - [水文]冰柱；垂冰；冷冰冰的人
+        - `icle`
   - 例句
     - `Missis walked in', she said, `as chill as an icicle, and as high as a princess.`
       - “夫人走进来了，”她说，“跟个冰柱似的，冷冰冰的，又像个公主似的高不可攀。

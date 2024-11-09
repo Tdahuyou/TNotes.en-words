@@ -1,21 +1,27 @@
 - imply
   - 发音
-    - 英 `/ɪm'plaɪ/`
-    - 美 `/ɪm'plai/`
+    - 英
+      - `/ɪm'plaɪ/`
+    - 美
+      - `/ɪm'plai/`
   - 词义
-    - vt. 意味着，暗示；说明，表明；使有必要
-    - `to suggest that something is true, without saying this directly`
+    - vt.
+      - 意味着，暗示；说明，表明；使有必要
+        - `to suggest that something is true, without saying this directly`
   - 记忆
     - im(在…里面) + ply(重叠) → 在里面重叠 → 暗示
   - 同根词
     - adj.
-      - `implied` 含蓄的；暗指的
+      - `implied`
+        - 含蓄的；暗指的
     - vt.
-      - `implied` 暗示；意味（imply的过去式）
+      - `implied`
+        - 暗示；意味（imply的过去式）
   - 近义词
-    - vt. 意味；暗示；隐含
-      - `mean`
-      - `hint at`
+    - vt.
+      - 意味；暗示；隐含
+        - `mean`
+        - `hint at`
   - 例句
     - `an implied threat`
       - 隐含的威胁

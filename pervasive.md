@@ -1,28 +1,37 @@
 - pervasive
   - 发音
-    - 英 `/pər'veɪsɪv/`
-    - 美 `/pɚ'vesɪv/`
+    - 英
+      - `/pər'veɪsɪv/`
+    - 美
+      - `/pɚ'vesɪv/`
   - 词义
-    - adj. 普遍深入的；遍及的，弥漫的
-    - `existing everywhere`
+    - adj.
+      - 普遍深入的；遍及的，弥漫的
+        - `existing everywhere`
   - 记忆
     - 来自pervade(vt. 弥漫， 遍及)
   - 同根词
     - adj.
-      - `pervious` 能被通过的；能接受的；可渗透的
+      - `pervious`
+        - 能被通过的；能接受的；可渗透的
     - n.
-      - `pervasiveness` 无处不在；广泛性；普遍性
-      - `pervasion` 渗透；扩散；普及；流行
+      - `pervasiveness`
+        - 无处不在；广泛性；普遍性
+      - `pervasion`
+        - 渗透；扩散；普及；流行
     - vt.
-      - `pervade` 遍及；弥漫
+      - `pervade`
+        - 遍及；弥漫
   - 近义词
-    - adj. 普遍的；到处渗透的
-      - `widespread`
-      - `universal`
-      - `ruling`
-      - `generalized`
+    - adj.
+      - 普遍的；到处渗透的
+        - `widespread`
+        - `universal`
+        - `ruling`
+        - `generalized`
   - 短语
-    - `pervasive computing` 普遍计算技术 
+    - `pervasive computing`
+      - 普遍计算技术 
   - 例句
     - `the pervasive influence of television`
       - 电视无所不在的影响

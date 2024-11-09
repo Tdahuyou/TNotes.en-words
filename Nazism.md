@@ -1,10 +1,13 @@
 - Nazism
   - 发音
-    - 英 `/undefined/`
-    - 美 `/'nɑ:tsizəm; 'næ-/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/'nɑ:tsizəm; 'næ-/`
   - 词义
-    - n. 纳粹主义
-    - `Nazism was the political ideas and activities of the German Nazi Party`
+    - n.
+      - 纳粹主义
+        - `Nazism was the political ideas and activities of the German Nazi Party`
   - 例句
     - `The new Nazism is resurging in some places in Germany.`
       - 新纳粹主义正在德国的一些地方复活。

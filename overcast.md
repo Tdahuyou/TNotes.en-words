@@ -1,24 +1,33 @@
 - overcast
   - 发音
-    - 英 `/'əʊvəkɑːst/`
-    - 美 `/,ovɚ'kæst/`
+    - 英
+      - `/'əʊvəkɑːst/`
+    - 美
+      - `/,ovɚ'kæst/`
   - 词义
-    - v. 遮盖,变暗
-    - n. 覆盖,阴天
+    - v.
+      - 遮盖,变暗
+    - n.
+      - 覆盖,阴天
   - 同根词
     - n.
-      - `overcasting` 溢流浇注
+      - `overcasting`
+        - 溢流浇注
     - v.
-      - `overcasting` 使沮丧；遮盖（overcast的ing形式）
+      - `overcasting`
+        - 使沮丧；遮盖（overcast的ing形式）
   - 近义词
-    - adj. [气象]阴天的；阴暗的；愁闷的
-      - `cloudy`
-      - `dull`
-    - vt. 使沮丧；包缝；遮蔽
-      - `shadow`
-      - `shield`
+    - adj.
+      - [气象]阴天的；阴暗的；愁闷的
+        - `cloudy`
+        - `dull`
+    - vt.
+      - 使沮丧；包缝；遮蔽
+        - `shadow`
+        - `shield`
   - 短语
-    - `overcast sky` 阴天 
+    - `overcast sky`
+      - 阴天 
   - 例句
     - `Tomorrow will be overcast.`
       - 明天是阴天。

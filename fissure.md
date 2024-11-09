@@ -1,35 +1,52 @@
 - fissure
   - 发音
-    - 英 `/'fɪʃə/`
-    - 美 `/'fɪʃɚ/`
+    - 英
+      - `/'fɪʃə/`
+    - 美
+      - `/'fɪʃɚ/`
   - 词义
-    - v. 裂开；分裂
-    - n. 裂缝；裂沟（尤指岩石上的）
-    - `a deep crack, especially in rock or earth`
+    - v.
+      - 裂开；分裂
+    - n.
+      - 裂缝；裂沟（尤指岩石上的）
+        - `a deep crack, especially in rock or earth`
   - 同根词
     - adj.
-      - `fissile` 分裂性的；易分裂的
-      - `fissionable` 可分裂的；可作核裂变的
-      - `fissiparous` 分裂生殖的；有分裂倾向的
+      - `fissile`
+        - 分裂性的；易分裂的
+      - `fissionable`
+        - 可分裂的；可作核裂变的
+      - `fissiparous`
+        - 分裂生殖的；有分裂倾向的
     - n.
-      - `fission` 裂变；分裂；分体；分裂生殖法
-      - `fissionable` 可裂变物质
-      - `fissiparity` 分裂裂殖（等于fissiparism）
+      - `fission`
+        - 裂变；分裂；分体；分裂生殖法
+      - `fissionable`
+        - 可裂变物质
+      - `fissiparity`
+        - 分裂裂殖（等于fissiparism）
   - 近义词
-    - vi. 裂开；分裂
-      - `gap`
-      - `seam`
-    - n. [昆]裂缝；裂沟（尤指岩石上的）
-      - `crack`
-      - `split`
-    - vt. 裂开；分裂
-      - `spring off`
-      - `rip through`
+    - vi.
+      - 裂开；分裂
+        - `gap`
+        - `seam`
+    - n.
+      - [昆]裂缝；裂沟（尤指岩石上的）
+        - `crack`
+        - `split`
+    - vt.
+      - 裂开；分裂
+        - `spring off`
+        - `rip through`
   - 短语
-    - `fissure water` 裂隙水；裂缝水 
-    - `anal fissure` 肛裂 
-    - `fissure zone` 裂隙带 
-    - `fissure sealant` 窝沟封闭剂；齿面裂沟封剂 
+    - `fissure water`
+      - 裂隙水；裂缝水 
+    - `anal fissure`
+      - 肛裂 
+    - `fissure zone`
+      - 裂隙带 
+    - `fissure sealant`
+      - 窝沟封闭剂；齿面裂沟封剂 
   - 例句
     - `This is an amazing cave that can be accessed througha fissure in the ground with a rope.`
       - 这是一个非常奇妙的山洞，可以利用绳索从一个地上的裂缝进入其中。

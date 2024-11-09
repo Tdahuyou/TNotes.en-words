@@ -1,22 +1,29 @@
 - inane
   - 发音
-    - 英 `/ɪ'neɪn/`
-    - 美 `/ɪ'nen/`
+    - 英
+      - `/ɪ'neɪn/`
+    - 美
+      - `/ɪ'nen/`
   - 词义
-    - adj. 无意义的，空洞的；愚蠢的
-    - `very stupid or without much meaning`
+    - adj.
+      - 无意义的，空洞的；愚蠢的
+        - `very stupid or without much meaning`
   - 同根词
     - adv.
-      - `inanely` 空洞地；愚蠢地
+      - `inanely`
+        - 空洞地；愚蠢地
     - n.
-      - `inanity` 空虚；愚蠢；浅薄
-      - `inanition` 空虚；营养不足；死气沉沉
+      - `inanity`
+        - 空虚；愚蠢；浅薄
+      - `inanition`
+        - 空虚；营养不足；死气沉沉
   - 近义词
-    - adj. 空洞的，空虚的；愚蠢的
-      - `blank`
-      - `foolish`
-      - `stupid`
-      - `vacant`
+    - adj.
+      - 空洞的，空虚的；愚蠢的
+        - `blank`
+        - `foolish`
+        - `stupid`
+        - `vacant`
   - 例句
     - `Most pop lyrics are pretty inane.`
       - 大部分流行歌曲的歌词都相当空洞。

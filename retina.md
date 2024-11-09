@@ -1,15 +1,20 @@
 - retina
   - 发音
-    - 英 `/'retɪnə/`
-    - 美 `/'rɛtənə/`
+    - 英
+      - `/'retɪnə/`
+    - 美
+      - `/'rɛtənə/`
   - 词义
-    - n. [解剖]视网膜
-    - `the area at the back of your eye that receives light and sends an image of what you see to your brain`
+    - n.
+      - [解剖]视网膜
+        - `the area at the back of your eye that receives light and sends an image of what you see to your brain`
   - 同根词
     - adj.
-      - `retinal` 视网膜的
+      - `retinal`
+        - 视网膜的
     - n.
-      - `retinal` [生化] 视黄醛（等于retinene）
+      - `retinal`
+        - [生化] 视黄醛（等于retinene）
   - 例句
     - `Consider one of the difficulties: every time we move our eyes, the image on our retina moves.`
       - 比如困难之一就是：每当我们的眼球移动时，视网膜上的影像也在移动。

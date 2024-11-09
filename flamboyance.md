@@ -1,19 +1,26 @@
 - flamboyance
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 华丽,火焰
+    - n.
+      - 华丽,火焰
   - 同根词
     - adj.
-      - `flamboyant` 艳丽的；火焰似的；炫耀的
+      - `flamboyant`
+        - 艳丽的；火焰似的；炫耀的
     - n.
-      - `flamboyant` 凤凰木
-      - `flambeau` 火炬；有装饰的、华丽的大烛台
+      - `flamboyant`
+        - 凤凰木
+      - `flambeau`
+        - 火炬；有装饰的、华丽的大烛台
   - 近义词
-    - n. 华丽；炫耀
-      - `display`
-      - `showing off`
+    - n.
+      - 华丽；炫耀
+        - `display`
+        - `showing off`
   - 例句
     - `Therefore, its floral language is flamboyance.`
       - 因此，它的花语就是-华丽。

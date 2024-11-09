@@ -1,13 +1,17 @@
 - clavichord
   - 发音
-    - 英 `/'klævɪkɔːd/`
-    - 美 `/'klævɪkɔrd/`
+    - 英
+      - `/'klævɪkɔːd/`
+    - 美
+      - `/'klævɪkɔrd/`
   - 词义
-    - n. 翼琴(钢琴的前身)
-    - `a musical instrument like a piano, that was played especially in the past`
+    - n.
+      - 翼琴(钢琴的前身)
+        - `a musical instrument like a piano, that was played especially in the past`
   - 近义词
-    - n. 古钢琴，翼琴
-      - `fortepiano`
+    - n.
+      - 古钢琴，翼琴
+        - `fortepiano`
   - 例句
     - `It is called a clavichord.`
       - 它被称作古钢琴。 这是一个被动语态的句子。

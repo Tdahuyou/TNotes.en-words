@@ -1,26 +1,34 @@
 - ask
   - 发音
-    - 英 `/ɑːsk/`
-    - 美 `/æsk/`
+    - 英
+      - `/ɑːsk/`
+    - 美
+      - `/æsk/`
   - 词义
-    - v. 询问；问
-    - `to speak or write to someone in order to get an answer, information, or a solution`
+    - v.
+      - 询问；问
+        - `to speak or write to someone in order to get an answer, information, or a solution`
   - 同根词
     - n.
-      - `asking` 请求
-      - `asker` 请求者；发问者
+      - `asking`
+        - 请求
+      - `asker`
+        - 请求者；发问者
     - v.
-      - `asking` 问（ask的现在分词）
+      - `asking`
+        - 问（ask的现在分词）
   - 近义词
-    - vt. 问，询问；要求；需要；邀请；讨价
-      - `invite`
-      - `lack`
-      - `question`
-      - `desire`
-      - `exact`
-    - vi. 问，询问；要求
-      - `question`
-      - `query`
+    - vt.
+      - 问，询问；要求；需要；邀请；讨价
+        - `invite`
+        - `lack`
+        - `question`
+        - `desire`
+        - `exact`
+    - vi.
+      - 问，询问；要求
+        - `question`
+        - `query`
   - 例句
     - `‘What’s your name?’ she asked.`
       - “你叫什么名字？”她问道 。

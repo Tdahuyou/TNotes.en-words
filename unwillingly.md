@@ -1,18 +1,24 @@
 - unwillingly
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - adv. 不情愿地,勉强地
+    - adv.
+      - 不情愿地,勉强地
   - 同根词
     - adj.
-      - `unwilling` 不愿意的；不情愿的；勉强的
+      - `unwilling`
+        - 不愿意的；不情愿的；勉强的
     - n.
-      - `unwillingness` 不愿意；不情愿
+      - `unwillingness`
+        - 不愿意；不情愿
   - 近义词
-    - adv. 不情愿地；勉强地
-      - `reluctantly`
-      - `grudgingly`
+    - adv.
+      - 不情愿地；勉强地
+        - `reluctantly`
+        - `grudgingly`
   - 例句
     - `Even when I call, he receives unwillingly.`
       - 即使我登门拜访， 他也是很不情愿地接待我。

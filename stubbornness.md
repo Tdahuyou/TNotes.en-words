@@ -1,15 +1,21 @@
 - stubbornness
   - 发音
-    - 英 `/'stʌbənnis/`
-    - 美 `/'stʌbɚnnɪs/`
+    - 英
+      - `/'stʌbənnis/`
+    - 美
+      - `/'stʌbɚnnɪs/`
   - 词义
-    - n. 倔强,顽强
+    - n.
+      - 倔强,顽强
   - 同根词
     - adj.
-      - `stubborn` 顽固的；顽强的；难处理的
+      - `stubborn`
+        - 顽固的；顽强的；难处理的
     - adv.
-      - `stubbornly` 顽固地；倔强地
+      - `stubbornly`
+        - 顽固地；倔强地
   - 近义词
-    - n. 倔强；顽强；棘手
-      - `perverseness`
-      - `wilfulness`
+    - n.
+      - 倔强；顽强；棘手
+        - `perverseness`
+        - `wilfulness`

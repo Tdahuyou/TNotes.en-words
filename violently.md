@@ -1,22 +1,28 @@
 - violently
   - 发音
-    - 英 `/ˈvaɪələntli/`
-    - 美 `/'vaɪələntli/`
+    - 英
+      - `/ˈvaɪələntli/`
+    - 美
+      - `/'vaɪələntli/`
   - 词义
-    - adv. 猛烈地,激烈地
-    - `with a lot of force in a way that is very difficult to control`
+    - adv.
+      - 猛烈地,激烈地
+        - `with a lot of force in a way that is very difficult to control`
   - 同根词
     - adj.
-      - `violent` 暴力的；猛烈的
+      - `violent`
+        - 暴力的；猛烈的
     - n.
-      - `violence` 暴力；侵犯；激烈；歪曲
+      - `violence`
+        - 暴力；侵犯；激烈；歪曲
   - 近义词
-    - adv. 猛烈地，激烈地；极端地
-      - `strongly`
-      - `extremely`
-      - `heavily`
-      - `hard`
-      - `fiercely`
+    - adv.
+      - 猛烈地，激烈地；极端地
+        - `strongly`
+        - `extremely`
+        - `heavily`
+        - `hard`
+        - `fiercely`
   - 例句
     - `Several people have been violently attacked in the subway.`
       - 有几个人在地铁里受到了暴力袭击。

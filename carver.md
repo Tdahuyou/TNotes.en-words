@@ -1,27 +1,38 @@
 - carver
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 雕刻匠
-    - `someone who carves wood or stone`
+    - n.
+      - 雕刻匠
+        - `someone who carves wood or stone`
   - 同根词
     - adj.
-      - `carved` 有雕刻的
-      - `carven` 雕刻的
+      - `carved`
+        - 有雕刻的
+      - `carven`
+        - 雕刻的
     - n.
-      - `carving` 雕刻；雕刻品；雕刻术
+      - `carving`
+        - 雕刻；雕刻品；雕刻术
     - v.
-      - `carved` 雕刻（carve的过去式和过去分词）
-      - `carving` 雕刻（carve的ing形式）
+      - `carved`
+        - 雕刻（carve的过去式和过去分词）
+      - `carving`
+        - 雕刻（carve的ing形式）
     - vi.
-      - `carve` 切开；做雕刻工作
+      - `carve`
+        - 切开；做雕刻工作
     - vt.
-      - `carve` 雕刻；切开；开创
+      - `carve`
+        - 雕刻；切开；开创
   - 近义词
-    - n. 切肉刀；[口腔]雕刻者；切肉的人
-      - `cleaver`
-      - `sculpsit`
+    - n.
+      - 切肉刀；[口腔]雕刻者；切肉的人
+        - `cleaver`
+        - `sculpsit`
   - 例句
     - `The ivory industry employed about a thousand carvers.`
       - 象牙工业雇佣了大约一千个雕刻工。

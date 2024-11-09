@@ -1,14 +1,19 @@
 - ox
   - 发音
-    - 英 `/ɒks/`
-    - 美 `/ɑks/`
+    - 英
+      - `/ɒks/`
+    - 美
+      - `/ɑks/`
   - 词义
-    - n. 牛,公牛
-    - `a bull whose sex organs have been removed, often used for working on farms`
+    - n.
+      - 牛,公牛
+        - `a bull whose sex organs have been removed, often used for working on farms`
   - 同根词
     - adj.
-      - `oxy` 牛的；像牛的；含氧的
+      - `oxy`
+        - 牛的；像牛的；含氧的
   - 近义词
-    - n. [畜牧][脊椎]牛；公牛
-      - `cattle`
-      - `bull`
+    - n.
+      - [畜牧][脊椎]牛；公牛
+        - `cattle`
+        - `bull`

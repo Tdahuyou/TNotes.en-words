@@ -1,23 +1,32 @@
 - colloid
   - 发音
-    - 英 `/'kɔlɔid/`
-    - 美 `/'kɑlɔɪd/`
+    - 英
+      - `/'kɔlɔid/`
+    - 美
+      - `/'kɑlɔɪd/`
   - 词义
-    - n. 胶体
-    - `a mixture having particles of one component, with diameters between 10–7 and 10–9 metres, suspended in a continuous phase of another component`
+    - n.
+      - 胶体
+        - `a mixture having particles of one component, with diameters between 10–7 and 10–9 metres, suspended in a continuous phase of another component`
   - 同根词
     - adj.
-      - `colloidal` 胶体的；胶质的；胶状的
+      - `colloidal`
+        - 胶体的；胶质的；胶状的
   - 近义词
-    - adj. [物化]胶质的
-      - `gluey`
-    - n. [物化]胶质
-      - `gelatine`
-      - `pectin`
+    - adj.
+      - [物化]胶质的
+        - `gluey`
+    - n.
+      - [物化]胶质
+        - `gelatine`
+        - `pectin`
   - 短语
-    - `colloid mill` n. 胶体磨 
-    - `protective colloid` [化]保护胶体 
-    - `colloid chemistry` 胶体化学 
+    - `colloid mill`
+      - n. 胶体磨 
+    - `protective colloid`
+      - [化]保护胶体 
+    - `colloid chemistry`
+      - 胶体化学 
   - 例句
     - `A colloid is a suspension of particles within some substance.`
       - 胶质是某种物质的分子悬浮流体。

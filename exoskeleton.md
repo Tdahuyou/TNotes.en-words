@@ -1,10 +1,13 @@
 - exoskeleton
   - 发音
-    - 英 `/'eksəʊ,skelɪt(ə)n/`
-    - 美 `/'ɛksoskɛlɪtn/`
+    - 英
+      - `/'eksəʊ,skelɪt(ə)n/`
+    - 美
+      - `/'ɛksoskɛlɪtn/`
   - 词义
-    - n. [动]外骨骼
-    - `the hard parts on the outside of the body of creatures such as insects and crabs`
+    - n.
+      - [动]外骨骼
+        - `the hard parts on the outside of the body of creatures such as insects and crabs`
   - 例句
     - `An advanced onboard micro-computer ensures the exoskeleton moves in concert with the operator.`
       - 一种最先进的机载微型电脑确保了外骨骼与操作器一致移动。

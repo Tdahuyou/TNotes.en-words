@@ -1,21 +1,29 @@
 - furious
   - 发音
-    - 英 `/'fjuriəs/`
-    - 美 `/'fjʊrɪəs/`
+    - 英
+      - `/'fjuriəs/`
+    - 美
+      - `/'fjʊrɪəs/`
   - 词义
-    - adj. 狂怒的，狂暴的；强烈的，猛烈的
-    - `very angry`
+    - adj.
+      - 狂怒的，狂暴的；强烈的，猛烈的
+        - `very angry`
   - 同根词
     - adv.
-      - `furiously` 猛烈地；狂暴地
+      - `furiously`
+        - 猛烈地；狂暴地
     - n.
-      - `fury` 狂怒；暴怒；激怒者
-      - `furor` 狂热；激怒；喧闹；感动
-      - `furiousness` 猛然；狂暴
+      - `fury`
+        - 狂怒；暴怒；激怒者
+      - `furor`
+        - 狂热；激怒；喧闹；感动
+      - `furiousness`
+        - 猛然；狂暴
   - 近义词
-    - adj. 激烈的；狂怒的；热烈兴奋的；喧闹的
-      - `acute`
-      - `stinging`
+    - adj.
+      - 激烈的；狂怒的；热烈兴奋的；喧闹的
+        - `acute`
+        - `stinging`
   - 例句
     - `She was absolutely furious .`
       - 她怒不可遏。

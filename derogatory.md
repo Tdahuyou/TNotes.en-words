@@ -1,20 +1,27 @@
 - derogatory
   - 发音
-    - 英 `/dɪ'rɒgət(ə)rɪ/`
-    - 美 `/dɪ'rɑɡətɔri/`
+    - 英
+      - `/dɪ'rɒgət(ə)rɪ/`
+    - 美
+      - `/dɪ'rɑɡətɔri/`
   - 词义
-    - adj. 贬损的
-    - `derogatory remarks, attitudes etc are insulting and disapproving`
+    - adj.
+      - 贬损的
+        - `derogatory remarks, attitudes etc are insulting and disapproving`
   - 同根词
     - vi.
-      - `derogate` 减损；贬损
+      - `derogate`
+        - 减损；贬损
     - vt.
-      - `derogate` 毁损；贬低；诽谤
+      - `derogate`
+        - 毁损；贬低；诽谤
   - 近义词
-    - adj. 贬损的
-      - `uncomplimentary`
+    - adj.
+      - 贬损的
+        - `uncomplimentary`
   - 短语
-    - `derogatory sense` 贬义 
+    - `derogatory sense`
+      - 贬义 
   - 例句
     - `Their conversation contained a number of derogatory racial remarks .`
       - 他们的谈话包含了一些带有种族偏见的侮辱性言论。

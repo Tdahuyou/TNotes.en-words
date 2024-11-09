@@ -1,9 +1,12 @@
 - our
   - 发音
-    - 英 `/aʊə/`
-    - 美 `/aʊr/`
+    - 英
+      - `/aʊə/`
+    - 美
+      - `/aʊr/`
   - 词义
-    - pron. 我们的
+    - pron.
+      - 我们的
   - 例句
     - `We selected him as our monitor.`
       - 我们选他作我们的班长。

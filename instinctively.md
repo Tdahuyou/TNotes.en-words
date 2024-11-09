@@ -1,15 +1,21 @@
 - instinctively
   - 发音
-    - 英 `/in'stiŋktivli/`
-    - 美 `/in'stiŋktivli/`
+    - 英
+      - `/in'stiŋktivli/`
+    - 美
+      - `/in'stiŋktivli/`
   - 词义
-    - adv. 本能地
+    - adv.
+      - 本能地
   - 同根词
     - adj.
-      - `instinct` 充满着的
-      - `instinctive` 本能的；直觉的；天生的
+      - `instinct`
+        - 充满着的
+      - `instinctive`
+        - 本能的；直觉的；天生的
     - n.
-      - `instinct` 本能，直觉；天性
+      - `instinct`
+        - 本能，直觉；天性
   - 例句
     - `What do we instinctively do?`
       - 出于本能，我们会怎么做？

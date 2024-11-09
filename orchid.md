@@ -1,19 +1,24 @@
 - orchid
   - 发音
-    - 英 `/'ɔːrkɪd/`
-    - 美 `/'ɔrkɪd/`
+    - 英
+      - `/'ɔːrkɪd/`
+    - 美
+      - `/'ɔrkɪd/`
   - 词义
-    - n. 兰，兰花
-    - `a plant that has flowers which are brightly coloured and usually shaped`
+    - n.
+      - 兰，兰花
+        - `a plant that has flowers which are brightly coloured and usually shaped`
   - 记忆
     - or + chid(看做child， 孩子) → 孩子天真纯洁像兰花 → 兰花
   - 近义词
-    - n. [园艺]兰花；[植]兰科植物；淡紫色
-      - `cymbidium`
-      - `Arethusa`
-    - adj. 淡紫色的
-      - `violescent`
-      - `lavender`
+    - n.
+      - [园艺]兰花；[植]兰科植物；淡紫色
+        - `cymbidium`
+        - `Arethusa`
+    - adj.
+      - 淡紫色的
+        - `violescent`
+        - `lavender`
   - 例句
     - `'Girls need a laboratory, like an orchid needs a nursery, ' says Ms. Beyer.`
       - 拜尔说，女孩需要一个实验室，就像兰花需要苗圃；

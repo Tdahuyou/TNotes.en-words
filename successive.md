@@ -1,33 +1,45 @@
 - successive
   - 发音
-    - 英 `/sək'sesɪv/`
-    - 美 `/sək'sɛsɪv/`
+    - 英
+      - `/sək'sesɪv/`
+    - 美
+      - `/sək'sɛsɪv/`
   - 词义
-    - adj. 接替的，继承的；接连的，连续的
-    - `coming or following one after the other`
+    - adj.
+      - 接替的，继承的；接连的，连续的
+        - `coming or following one after the other`
   - 记忆
     - suc(在…之下) + cess(走) + ive → 跟在后面走的 → 接替的
   - 同根词
     - adv.
-      - `successively` 相继地；接连着地
+      - `successively`
+        - 相继地；接连着地
     - n.
-      - `succession` 连续；继位；继承权；轮栽
-      - `successor` 继承者；后续的事物
-      - `successiveness` 相继
+      - `succession`
+        - 连续；继位；继承权；轮栽
+      - `successor`
+        - 继承者；后续的事物
+      - `successiveness`
+        - 相继
     - vi.
-      - `succeed` 成功；继承；继任；兴旺
+      - `succeed`
+        - 成功；继承；继任；兴旺
     - vt.
-      - `succeed` 继承；接替；继…之后
+      - `succeed`
+        - 继承；接替；继…之后
   - 近义词
-    - adj. 连续的；继承的；依次的；接替的
-      - `continuing`
-      - `straight`
-      - `endless`
-      - `running`
-      - `serial`
+    - adj.
+      - 连续的；继承的；依次的；接替的
+        - `continuing`
+        - `straight`
+        - `endless`
+        - `running`
+        - `serial`
   - 短语
-    - `successive approximation` 连续的近似值；连续的学习步骤；逐次近似计算法 
-    - `successive elimination` 逐次消元 
+    - `successive approximation`
+      - 连续的近似值；连续的学习步骤；逐次近似计算法 
+    - `successive elimination`
+      - 逐次消元 
   - 例句
     - `The team has had five successive victories.`
       - 这支球队已经连胜五场了。

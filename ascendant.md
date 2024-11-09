@@ -1,43 +1,63 @@
 - ascendant
   - 发音
-    - 英 `/ə'sendənt/`
-    - 美 `/ə'sendənt/`
+    - 英
+      - `/ə'sendənt/`
+    - 美
+      - `/ə'sendənt/`
   - 词义
-    - adj. 上升的；优势的
-    - n. 优越，支配力
+    - adj.
+      - 上升的；优势的
+    - n.
+      - 优越，支配力
   - 记忆
     - a + scend (爬) + ant → 爬到有利的地方去 → 优越
   - 同根词
     - adj.
-      - `ascending` 上升的
-      - `ascendent` 上升的；占优势的
-      - `ascensional` 上升的
-      - `ascensive` 进步的；上升的；强调的
+      - `ascending`
+        - 上升的
+      - `ascendent`
+        - 上升的；占优势的
+      - `ascensional`
+        - 上升的
+      - `ascensive`
+        - 进步的；上升的；强调的
     - n.
-      - `ascent` 上升；上坡路；登高
-      - `ascendancy` 优势；支配地位（等于ascendency，ascendence）
-      - `ascension` 上升；耶稣升天
-      - `ascendance` 优势；权势；支配地位（等于ascendence或者ascendancy）
-      - `ascendency` 优势；权势；优越
-      - `ascendent` 优势；支配力；运道（等于ascendant）
-      - `ascender` 上升的人或物；字母的上半（或下半）出头部分
+      - `ascent`
+        - 上升；上坡路；登高
+      - `ascendancy`
+        - 优势；支配地位（等于ascendency，ascendence）
+      - `ascension`
+        - 上升；耶稣升天
+      - `ascendance`
+        - 优势；权势；支配地位（等于ascendence或者ascendancy）
+      - `ascendency`
+        - 优势；权势；优越
+      - `ascendent`
+        - 优势；支配力；运道（等于ascendant）
+      - `ascender`
+        - 上升的人或物；字母的上半（或下半）出头部分
     - v.
-      - `ascending` 上升；获得（ascend的ing形式）；追溯
+      - `ascending`
+        - 上升；获得（ascend的ing形式）；追溯
     - vi.
-      - `ascend` 上升；登高；追溯
+      - `ascend`
+        - 上升；登高；追溯
     - vt.
-      - `ascend` 攀登，上升
+      - `ascend`
+        - 攀登，上升
   - 近义词
-    - n. 优势；运星；支配地位
-      - `superiority`
-      - `advantage`
-      - `edge`
-      - `dominance`
-      - `predominance`
-    - adj. 上升的；优越的
-      - `rising`
-      - `climbing`
-      - `upward`
+    - n.
+      - 优势；运星；支配地位
+        - `superiority`
+        - `advantage`
+        - `edge`
+        - `dominance`
+        - `predominance`
+    - adj.
+      - 上升的；优越的
+        - `rising`
+        - `climbing`
+        - `upward`
   - 例句
     - `a politically ascendant country`
       - 一个政治影响力越来越大的国家

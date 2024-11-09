@@ -1,16 +1,21 @@
 - gristle
   - 发音
-    - 英 `/'grɪs(ə)l/`
-    - 美 `/'ɡrɪsl/`
+    - 英
+      - `/'grɪs(ə)l/`
+    - 美
+      - `/'ɡrɪsl/`
   - 词义
-    - n. 软骨
-    - `the part of meat that is not soft enough to eat`
+    - n.
+      - 软骨
+        - `the part of meat that is not soft enough to eat`
   - 同根词
     - adj.
-      - `gristly` 软骨的，似软骨的
+      - `gristly`
+        - 软骨的，似软骨的
   - 近义词
-    - n. 软骨；软骨结构
-      - `cartilage`
+    - n.
+      - 软骨；软骨结构
+        - `cartilage`
   - 例句
     - `Chicken skin and gristle contain a good deal of Chondroitin Sulfate which can nourish the skin.`
       - 鸡皮和软骨含有大量能够滋养皮肤的硫酸软骨素。

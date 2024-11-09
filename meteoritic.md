@@ -1,12 +1,16 @@
 - meteoritic
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - adj. 陨星的,陨石的
+    - adj.
+      - 陨星的,陨石的
   - 同根词
     - n.
-      - `meteorite` 陨星；流星
+      - `meteorite`
+        - 陨星；流星
   - 例句
     - `Were they meteoritic matter from space, reflected light from polar icebergs or a high-altitude version of lightning?`
       - 它们是太空里的彗星物质、极地冰山反射的光，还是高空的闪电？

@@ -1,13 +1,17 @@
 - calcite
   - 发音
-    - 英 `/'kælsaɪt/`
-    - 美 `/'kælsaɪt/`
+    - 英
+      - `/'kælsaɪt/`
+    - 美
+      - `/'kælsaɪt/`
   - 词义
-    - n. 方解石
-    - `a colourless or white mineral (occasionally tinged with impurities), found in sedimentary and metamorphic rocks, in veins, in limestone, and in stalagmites and stalactites. It is used in the manufacture of cement, plaster, paint, glass, and fertilizer. Composition: calcium carbonate. Formula: CaCO3. Crystal structure: hexagonal (rhombohedral) `
+    - n.
+      - 方解石
+        - `a colourless or white mineral (occasionally tinged with impurities), found in sedimentary and metamorphic rocks, in veins, in limestone, and in stalagmites and stalactites. It is used in the manufacture of cement, plaster, paint, glass, and fertilizer. Composition: calcium carbonate. Formula: CaCO3. Crystal structure: hexagonal (rhombohedral) `
   - 近义词
-    - n. [矿物]方解石
-      - `limespar`
+    - n.
+      - [矿物]方解石
+        - `limespar`
   - 例句
     - `His team analysed mud samples from Lough Monreagh in Ireland and discovered layers of white sediment made up of calcite crystals from algae.`
       - 他的团队分析了爱尔兰洛蒙雷阿湖泥浆样本，发现了由海藻中方解石晶体构成的白色沉淀物涡旋层。

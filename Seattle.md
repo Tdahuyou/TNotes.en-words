@@ -1,11 +1,15 @@
 - Seattle
   - 发音
-    - 英 `/si'ætl/`
-    - 美 `/si'ætl/`
+    - 英
+      - `/si'ætl/`
+    - 美
+      - `/si'ætl/`
   - 词义
-    - n. 西雅图
+    - n.
+      - 西雅图
   - 短语
-    - `seattle supersonics` 西雅图超音速队 
+    - `seattle supersonics`
+      - 西雅图超音速队 
   - 例句
     - `Where do you live in Seattle?`
       - 你住在西雅图的哪里？

@@ -1,20 +1,28 @@
 - loner
   - 发音
-    - 英 `/'ləʊnə/`
-    - 美 `/'lonɚ/`
+    - 英
+      - `/'ləʊnə/`
+    - 美
+      - `/'lonɚ/`
   - 词义
-    - n. 孤独的人，喜欢独处的人
-    - `someone who prefers to be alone or who has no friends`
+    - n.
+      - 孤独的人，喜欢独处的人
+        - `someone who prefers to be alone or who has no friends`
   - 同根词
     - adj.
-      - `lonely` 寂寞的；偏僻的
-      - `lone` 单身的；独自的；寂寞的；人迹稀少的
+      - `lonely`
+        - 寂寞的；偏僻的
+      - `lone`
+        - 单身的；独自的；寂寞的；人迹稀少的
     - n.
-      - `lonely` 孤独者
-      - `loneliness` 寂寞，孤独
+      - `lonely`
+        - 孤独者
+      - `loneliness`
+        - 寂寞，孤独
   - 近义词
-    - n. 孤独的人；不合群的动物
-      - `hatter`
+    - n.
+      - 孤独的人；不合群的动物
+        - `hatter`
   - 例句
     - `Ken’s always been a bit of a loner.`
       - 肯一直有点孤僻。

@@ -1,14 +1,18 @@
 - nevus
   - 发音
-    - 英 `/'niːvəs/`
-    - 美 `/'ni:vəs/`
+    - 英
+      - `/'niːvəs/`
+    - 美
+      - `/'ni:vəs/`
   - 词义
-    - n. [医]痣
-    - `any congenital growth or pigmented blemish on the skin; birthmark or mole `
+    - n.
+      - [医]痣
+        - `any congenital growth or pigmented blemish on the skin; birthmark or mole `
   - 近义词
-    - n. [皮肤]痣
-      - `naevus`
-      - `mole`
+    - n.
+      - [皮肤]痣
+        - `naevus`
+        - `mole`
   - 例句
     - `Objective: To sieve out the best methods for nevus treatment.`
       - 目的：筛选皮肤色素痣的最佳治疗方法。

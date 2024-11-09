@@ -1,7 +1,9 @@
 - Stonehenge
   - 发音
-    - 英 `/,stəʊn'hendʒ/`
-    - 美 `/,ston'hɛndʒ/`
+    - 英
+      - `/,stəʊn'hendʒ/`
+    - 美
+      - `/,ston'hɛndʒ/`
   - 词义
   - 例句
     - `It will completely change the way we think about the landscape around Stonehenge.`

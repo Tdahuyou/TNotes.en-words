@@ -1,15 +1,20 @@
 - smokestack
   - 发音
-    - 英 `/'sməʊkstæk/`
-    - 美 `/'smokstæk/`
+    - 英
+      - `/'sməʊkstæk/`
+    - 美
+      - `/'smokstæk/`
   - 词义
-    - n. 烟囱，烟窗
-    - `a tall  chimney  at a factory or on a ship`
-    - adj. 低技术制造业的；大工厂的
+    - n.
+      - 烟囱，烟窗
+        - `a tall  chimney  at a factory or on a ship`
+    - adj.
+      - 低技术制造业的；大工厂的
   - 近义词
-    - n. [铁路][船][建]烟囱，烟窗
-      - `lum`
-      - `chimney flue`
+    - n.
+      - [铁路][船][建]烟囱，烟窗
+        - `lum`
+        - `chimney flue`
   - 例句
     - `At the other end of Shenzhen from Longgang, no smoke is visible from the towering smokestack of the Baoan incinerator, built by a company owned by the municipal government.`
       - 深圳龙岗的另一端是宝安垃圾焚烧厂，它由政府所有的一家公司建造，它的烟囱里几乎没有任何可视烟雾排出。

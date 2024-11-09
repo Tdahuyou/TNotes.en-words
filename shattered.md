@@ -1,18 +1,23 @@
 - shattered
   - 发音
-    - 英 `/'ʃætərd/`
-    - 美 `/'ʃætɚd/`
+    - 英
+      - `/'ʃætərd/`
+    - 美
+      - `/'ʃætɚd/`
   - 词义
-    - adj. 破碎的
+    - adj.
+      - 破碎的
   - 记忆
     - 来自shatter(v. 粉碎)
   - 近义词
-    - adj. 破碎的；极度疲劳的
-      - `broken`
-      - `smashed`
-    - v. 打碎；削弱；使心烦意乱（shatter的过去分词）
-      - `broken`
-      - `lowered`
+    - adj.
+      - 破碎的；极度疲劳的
+        - `broken`
+        - `smashed`
+    - v.
+      - 打碎；削弱；使心烦意乱（shatter的过去分词）
+        - `broken`
+        - `lowered`
   - 例句
     - `We had one person who walked out of an interview straight into a glass door. The glass shattered.`
       - 我们面试过的一个人面试完之后径直走出去撞到了玻璃门上。玻璃都碎了。

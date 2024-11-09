@@ -1,20 +1,28 @@
 - freezer
   - 发音
-    - 英 `/'friːzə/`
-    - 美 `/'frizɚ/`
+    - 英
+      - `/'friːzə/`
+    - 美
+      - `/'frizɚ/`
   - 词义
-    - n. 冰箱；冷冻库；制冷工
-    - `a large piece of electrical kitchen equipment in which food can be stored at very low temperatures for a long time`
+    - n.
+      - 冰箱；冷冻库；制冷工
+        - `a large piece of electrical kitchen equipment in which food can be stored at very low temperatures for a long time`
   - 同根词
     - adj.
-      - `freezing` 冰冻的；严寒的；冷冻用的
+      - `freezing`
+        - 冰冻的；严寒的；冷冻用的
     - n.
-      - `freeze` 冻结；凝固
+      - `freeze`
+        - 冻结；凝固
     - vi.
-      - `freeze` 冻结；冷冻；僵硬
+      - `freeze`
+        - 冻结；冷冻；僵硬
     - vt.
-      - `freeze` 使…冻住；使…结冰
+      - `freeze`
+        - 使…冻住；使…结冰
   - 近义词
-    - n. 冰箱；[制冷]冷冻库；制冷工
-      - `refrigerator`
-      - `icebox`
+    - n.
+      - 冰箱；[制冷]冷冻库；制冷工
+        - `refrigerator`
+        - `icebox`

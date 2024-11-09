@@ -1,7 +1,9 @@
 - Atticus
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
   - 例句
     - `Greeks still use some ancient sites, such as the Pnyx and the Theater of Herodes Atticus.`

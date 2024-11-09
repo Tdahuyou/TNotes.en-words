@@ -1,13 +1,17 @@
 - tugboat
   - 发音
-    - 英 `/'tʌɡbəʊt/`
-    - 美 `/'tʌg,bot/`
+    - 英
+      - `/'tʌɡbəʊt/`
+    - 美
+      - `/'tʌg,bot/`
   - 词义
-    - n. 拖船,拖轮
+    - n.
+      - 拖船,拖轮
   - 近义词
-    - n. 拖船（等于towboat或tug）
-      - `towboat`
-      - `towing vessel`
+    - n.
+      - 拖船（等于towboat或tug）
+        - `towboat`
+        - `towing vessel`
   - 例句
     - `Further up the coast in Ofunato, the port’s tugboat still sits in someone’s backyard about a kilometer from the water.`
       - 沿着海岸北行到大渡船市，原来在港湾里的拖船，如今还留在距离港湾一公里远的内陆居民住家的后院。

@@ -1,18 +1,23 @@
 - because
   - 发音
-    - 英 `/bɪ'kɒz/`
-    - 美 `/bɪ'kɔz/`
+    - 英
+      - `/bɪ'kɒz/`
+    - 美
+      - `/bɪ'kɔz/`
   - 词义
-    - conj. 因为
-    - `used when you are giving the reason for something`
+    - conj.
+      - 因为
+        - `used when you are giving the reason for something`
   - 近义词
-    - conj. 因为
-      - `since`
-      - `for`
-      - `seeing`
-      - `that`
+    - conj.
+      - 因为
+        - `since`
+        - `for`
+        - `seeing`
+        - `that`
   - 短语
-    - `because of` adv. 因为；由于 
+    - `because of`
+      - adv. 因为；由于 
   - 例句
     - `We didn’t enjoy the day because the weather was so awful.`
       - 那天我们很不尽兴，因为天气实在太糟。

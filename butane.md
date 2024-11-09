@@ -1,10 +1,13 @@
 - butane
   - 发音
-    - 英 `/bjuː'tein/`
-    - 美 `/'bjʊten/`
+    - 英
+      - `/bjuː'tein/`
+    - 美
+      - `/'bjʊten/`
   - 词义
-    - n. 丁烷
-    - `a gas stored in liquid form, used for cooking and heating`
+    - n.
+      - 丁烷
+        - `a gas stored in liquid form, used for cooking and heating`
   - 例句
     - `Buying a new butane soldering torch was a challenge.`
       - 购买一台新丁烷焊炬是一个挑战。

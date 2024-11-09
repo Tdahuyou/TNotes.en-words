@@ -1,18 +1,23 @@
 - raffle
   - 发音
-    - 英 `/'ræf(ə)l/`
-    - 美 `/'ræfl/`
+    - 英
+      - `/'ræf(ə)l/`
+    - 美
+      - `/'ræfl/`
   - 词义
-    - n. 废物；抽彩售货
-    - `a competition or game in which people buy numbered tickets and can win prizes`
-    - v. 抽彩售货
-    - `If someone raffles something, they give it as a prize in a raffle`
+    - n.
+      - 废物；抽彩售货
+        - `a competition or game in which people buy numbered tickets and can win prizes`
+    - v.
+      - 抽彩售货
+        - `If someone raffles something, they give it as a prize in a raffle`
   - 近义词
-    - n. 废物；抽彩售货
-      - `waste`
-      - `refuse`
-      - `garbage`
-      - `junk`
+    - n.
+      - 废物；抽彩售货
+        - `waste`
+        - `refuse`
+        - `garbage`
+        - `junk`
   - 例句
     - `a woman selling raffle tickets`
       - 一位卖奖券的妇女

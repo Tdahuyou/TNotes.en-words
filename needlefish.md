@@ -1,10 +1,13 @@
 - needlefish
   - 发音
-    - 英 `/'niːd(ə)lfɪʃ/`
-    - 美 `/'nidl,fɪʃ/`
+    - 英
+      - `/'niːd(ə)lfɪʃ/`
+    - 美
+      - `/'nidl,fɪʃ/`
   - 词义
-    - n. [动]颌针鱼(一种长嘴便鳞之海鱼)
-    - `any ferocious teleost fish of the family Belonidae of warm and tropical regions, having an elongated body and long toothed jaws `
+    - n.
+      - [动]颌针鱼(一种长嘴便鳞之海鱼)
+        - `any ferocious teleost fish of the family Belonidae of warm and tropical regions, having an elongated body and long toothed jaws `
   - 例句
     - `We report on an unusual case of penetrating tracheal injury caused by a needlefish.`
       - 我们报告一个被针鱼刺伤穿通气管的罕见个案。

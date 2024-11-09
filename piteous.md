@@ -1,23 +1,31 @@
 - piteous
   - 发音
-    - 英 `/'pitiəs/`
-    - 美 `/'pɪtɪəs/`
+    - 英
+      - `/'pitiəs/`
+    - 美
+      - `/'pɪtɪəs/`
   - 词义
-    - adj. 哀怨的，可怜的
-    - `expressing suffering and sadness in a way that makes you feel pity`
+    - adj.
+      - 哀怨的，可怜的
+        - `expressing suffering and sadness in a way that makes you feel pity`
   - 记忆
     - pite (看作pity, 可怜) + ous → 可怜的
   - 同根词
     - adj.
-      - `pitiful` 可怜的，令人同情的
-      - `pitiable` 可怜的
+      - `pitiful`
+        - 可怜的，令人同情的
+      - `pitiable`
+        - 可怜的
     - adv.
-      - `piteously` 可怜地；慈悲地
-      - `pitiably` 可怜地；卑劣地
+      - `piteously`
+        - 可怜地；慈悲地
+      - `pitiably`
+        - 可怜地；卑劣地
   - 近义词
-    - adj. 可怜的；哀怨的；慈悲的
-      - `poor`
-      - `wretched`
+    - adj.
+      - 可怜的；哀怨的；慈悲的
+        - `poor`
+        - `wretched`
   - 例句
     - `She gave a long piteous cry.`
       - 她发出了一声长长的哀号。

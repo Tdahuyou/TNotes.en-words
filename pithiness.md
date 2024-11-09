@@ -1,20 +1,26 @@
 - pithiness
   - 发音
-    - 英 `/'pɪθɪnəs/`
-    - 美 `/undefined/`
+    - 英
+      - `/'pɪθɪnəs/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 简洁
+    - n.
+      - 简洁
   - 记忆
     - 来自pithy(adj. 精练的)
   - 同根词
     - adj.
-      - `pithy` 有髓的，多髓的；精练的；简洁有力的
+      - `pithy`
+        - 有髓的，多髓的；精练的；简洁有力的
     - adv.
-      - `pithily` 简洁有力地
+      - `pithily`
+        - 简洁有力地
   - 近义词
-    - n. 简洁；有力
-      - `compactness`
-      - `sententiousness`
+    - n.
+      - 简洁；有力
+        - `compactness`
+        - `sententiousness`
   - 例句
     - `Her work is known for pithiness of style.`
       - 她的作品以简洁着称。

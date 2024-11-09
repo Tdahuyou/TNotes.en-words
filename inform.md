@@ -1,37 +1,55 @@
 - inform
   - 发音
-    - 英 `/ɪn'fɔːrm/`
-    - 美 `/ɪn'fɔrm/`
+    - 英
+      - `/ɪn'fɔːrm/`
+    - 美
+      - `/ɪn'fɔrm/`
   - 词义
-    - vt. 通知，通告；了解，熟悉；告发，检举，告密
-    - `If you inform someone of something, you tell them about it`
+    - vt.
+      - 通知，通告；了解，熟悉；告发，检举，告密
+        - `If you inform someone of something, you tell them about it`
   - 记忆
     - in(进入) + form(形式) → 进入形式， 公告于众 → 通知， 通告； 了解
   - 同根词
     - adj.
-      - `informative` 教育性的，有益的；情报的；见闻广博的
-      - `informed` 消息灵通的；见多识广的
-      - `informal` 非正式的；不拘礼节的；通俗的；日常使用的
-      - `informational` 情报的；报告的；新闻的
-      - `informing` 增长见闻的；提供情报的；鼓舞的
+      - `informative`
+        - 教育性的，有益的；情报的；见闻广博的
+      - `informed`
+        - 消息灵通的；见多识广的
+      - `informal`
+        - 非正式的；不拘礼节的；通俗的；日常使用的
+      - `informational`
+        - 情报的；报告的；新闻的
+      - `informing`
+        - 增长见闻的；提供情报的；鼓舞的
     - n.
-      - `information` 信息，资料；知识；情报；通知
-      - `informant` 被调查者；告密者；提供消息者
-      - `informer` 告密者；通知者；控告人
+      - `information`
+        - 信息，资料；知识；情报；通知
+      - `informant`
+        - 被调查者；告密者；提供消息者
+      - `informer`
+        - 告密者；通知者；控告人
     - v.
-      - `informed` 通知；使了解；提供资料（inform的过去分词）
-      - `informing` 通知；报告；使了解（inform的ing形式）
+      - `informed`
+        - 通知；使了解；提供资料（inform的过去分词）
+      - `informing`
+        - 通知；报告；使了解（inform的ing形式）
   - 近义词
-    - vt. 通知；告诉；报告
-      - `message`
-      - `bring in on`
-    - vi. 告发；告密
-      - `tell on`
-      - `blow the whistle`
+    - vt.
+      - 通知；告诉；报告
+        - `message`
+        - `bring in on`
+    - vi.
+      - 告发；告密
+        - `tell on`
+        - `blow the whistle`
   - 短语
-    - `inform against` 检举；告发 
-    - `inform of` 通知；报告 
-    - `inform about` 告发；通知；告诉 
+    - `inform against`
+      - 检举；告发 
+    - `inform of`
+      - 通知；报告 
+    - `inform about`
+      - 告发；通知；告诉 
   - 例句
     - `They would inform him of any progress they had made.`
       - 他们将把自己所取得的任何进展都告诉他。

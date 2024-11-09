@@ -1,18 +1,25 @@
 - aborigine
   - 发音
-    - 英 `/æbə'rɪdʒɪniː/`
-    - 美 `/'æbə'rɪdʒəni/`
+    - 英
+      - `/æbə'rɪdʒɪniː/`
+    - 美
+      - `/'æbə'rɪdʒəni/`
   - 词义
-    - n. 土著居民
-    - `someone who belongs to the race of people who have lived in Australia from the earliest times`
+    - n.
+      - 土著居民
+        - `someone who belongs to the race of people who have lived in Australia from the earliest times`
   - 同根词
     - adj.
-      - `aboriginal` 土著的；原始的
+      - `aboriginal`
+        - 土著的；原始的
     - n.
-      - `aboriginal` 土著居民；土生生物
+      - `aboriginal`
+        - 土著居民；土生生物
   - 近义词
-    - n. 土著；土著居民
-      - `indigenous population`
-      - `native son`
+    - n.
+      - 土著；土著居民
+        - `indigenous population`
+        - `native son`
   - 短语
-    - `australian aborigine` 澳大利亚原住民 
+    - `australian aborigine`
+      - 澳大利亚原住民 

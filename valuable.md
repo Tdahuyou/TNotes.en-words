@@ -1,33 +1,50 @@
 - valuable
   - 发音
-    - 英 `/'væljʊəb(ə)l/`
-    - 美 `/ˈvæljuəbəl; ˈvæljə-/`
+    - 英
+      - `/'væljʊəb(ə)l/`
+    - 美
+      - `/ˈvæljuəbəl; ˈvæljə-/`
   - 词义
-    - adj. 值钱的；有价值的
-    - `worth a lot of money`
+    - adj.
+      - 值钱的；有价值的
+        - `worth a lot of money`
   - 同根词
     - adj.
-      - `valued` 重要的；宝贵的；贵重的；经估价的
-      - `valueless` 无价值的；不值钱的；微不足道的
+      - `valued`
+        - 重要的；宝贵的；贵重的；经估价的
+      - `valueless`
+        - 无价值的；不值钱的；微不足道的
     - n.
-      - `value` 值；价值；价格；重要性；确切涵义
-      - `valuation` 评价，估价；计算
-      - `valuableness` 昂贵；贵重；有价值
-      - `valuer` 评价者；估价者；价格核定人
+      - `value`
+        - 值；价值；价格；重要性；确切涵义
+      - `valuation`
+        - 评价，估价；计算
+      - `valuableness`
+        - 昂贵；贵重；有价值
+      - `valuer`
+        - 评价者；估价者；价格核定人
     - vt.
-      - `value` 评价；重视；估价
-      - `valuate` 对…作估价
+      - `value`
+        - 评价；重视；估价
+      - `valuate`
+        - 对…作估价
   - 近义词
-    - adj. [经]有价值的；贵重的；可估价的
-      - `worthy`
-      - `of value`
-    - n. 贵重物品
-      - `preciosity`
+    - adj.
+      - [经]有价值的；贵重的；可估价的
+        - `worthy`
+        - `of value`
+    - n.
+      - 贵重物品
+        - `preciosity`
   - 短语
-    - `valuable experience` 宝贵的经验 
-    - `valuable information` 有价值的情报 
-    - `most valuable player` 最有价值球员；最优秀选手 
-    - `valuable consideration` n. 与受益价值相等的回报 
+    - `valuable experience`
+      - 宝贵的经验 
+    - `valuable information`
+      - 有价值的情报 
+    - `most valuable player`
+      - 最有价值球员；最优秀选手 
+    - `valuable consideration`
+      - n. 与受益价值相等的回报 
   - 例句
     - `a valuable painting`
       - 一幅名贵的画

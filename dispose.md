@@ -1,35 +1,47 @@
 - dispose
   - 发音
-    - 英 `/dɪ'spouz/`
-    - 美 `/dɪ'spoz/`
+    - 英
+      - `/dɪ'spouz/`
+    - 美
+      - `/dɪ'spoz/`
   - 词义
-    - v. 安排，布置；使倾向于
-    - `to deal with or settle `
+    - v.
+      - 安排，布置；使倾向于
+        - `to deal with or settle `
   - 同根词
     - adj.
-      - `disposable` 可任意处理的；可自由使用的；用完即可丢弃的
-      - `disposed` 有…倾向的；打算做…的；有某种健康状态的
+      - `disposable`
+        - 可任意处理的；可自由使用的；用完即可丢弃的
+      - `disposed`
+        - 有…倾向的；打算做…的；有某种健康状态的
     - n.
-      - `disposal` 处理；支配；清理；安排
-      - `disposition` 处置；[心理] 性情；[军] 部署；倾向
+      - `disposal`
+        - 处理；支配；清理；安排
+      - `disposition`
+        - 处置；[心理] 性情；[军] 部署；倾向
     - v.
-      - `disposed` 处理；配置；使适应（dispose的过去分词）；使有倾向
+      - `disposed`
+        - 处理；配置；使适应（dispose的过去分词）；使有倾向
   - 近义词
-    - vt. 处理；处置；安排
-      - `schedule`
-      - `budget`
-      - `settle`
-      - `place in`
-      - `cope with`
-    - vi. 处理；安排；（能够）决定
-      - `manage`
-      - `place in`
-      - `cope with`
-    - n. 处置；性情
-      - `make`
-      - `temperament`
+    - vt.
+      - 处理；处置；安排
+        - `schedule`
+        - `budget`
+        - `settle`
+        - `place in`
+        - `cope with`
+    - vi.
+      - 处理；安排；（能够）决定
+        - `manage`
+        - `place in`
+        - `cope with`
+    - n.
+      - 处置；性情
+        - `make`
+        - `temperament`
   - 短语
-    - `dispose of` 处理；转让；解决；吃光；除掉；卖掉 
+    - `dispose of`
+      - 处理；转让；解决；吃光；除掉；卖掉 
   - 例句
     - `Chinese vases are disposed around the gallery.`
       - 中国花瓶摆放在展馆四周。

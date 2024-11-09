@@ -1,12 +1,16 @@
 - genu
   - 发音
-    - 英 `/'dʒenjuː/`
-    - 美 `/ˈdʒɛnjuː/`
+    - 英
+      - `/'dʒenjuː/`
+    - 美
+      - `/ˈdʒɛnjuː/`
   - 词义
-    - n. 膝
+    - n.
+      - 膝
   - 近义词
-    - n. [解剖]膝
-      - `knee`
+    - n.
+      - [解剖]膝
+        - `knee`
   - 例句
     - `Have on parental caress by every means, next issueless pester genu disturbing, everyday carefree, live easily comfortable.`
       - 上有父母亲的百般呵护，下无子女的缠膝烦扰，天天无忧无虑的，活得轻松安闲。

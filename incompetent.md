@@ -1,25 +1,33 @@
 - incompetent
   - 发音
-    - 英 `/ɪn'kɒmpɪt(ə)nt/`
-    - 美 `/ɪn'kɑmpɪtənt/`
+    - 英
+      - `/ɪn'kɒmpɪt(ə)nt/`
+    - 美
+      - `/ɪn'kɑmpɪtənt/`
   - 词义
-    - adj. 无能力的，不胜任的；不合适的；不适当的；无力的
-    - `not having the ability or skill to do a job properly`
-    - n. 无能力者
-    - `An incompetent is someone who is incompetent`
+    - adj.
+      - 无能力的，不胜任的；不合适的；不适当的；无力的
+        - `not having the ability or skill to do a job properly`
+    - n.
+      - 无能力者
+        - `An incompetent is someone who is incompetent`
   - 同根词
     - adv.
-      - `incompetently` 无能力地；不胜任地
+      - `incompetently`
+        - 无能力地；不胜任地
     - n.
-      - `incompetence` 无资格，不胜任；无能力；不适当；不熟练
-      - `incompetency` 无能力；不胜任；不适当
+      - `incompetence`
+        - 无资格，不胜任；无能力；不适当；不熟练
+      - `incompetency`
+        - 无能力；不胜任；不适当
   - 近义词
-    - adj. 无能力的，不胜任的；不合适的；不适当的；无力的
-      - `unable`
-      - `weak`
-      - `unhappy`
-      - `inadequate`
-      - `wrong`
+    - adj.
+      - 无能力的，不胜任的；不合适的；不适当的；无力的
+        - `unable`
+        - `weak`
+        - `unhappy`
+        - `inadequate`
+        - `wrong`
   - 例句
     - `an incompetent manager`
       - 不称职的经理

@@ -1,33 +1,49 @@
 - hesitate
   - 发音
-    - 英 `/'hezɪteɪt/`
-    - 美 `/'hɛzɪtet/`
+    - 英
+      - `/'hezɪteɪt/`
+    - 美
+      - `/'hɛzɪtet/`
   - 词义
-    - v. 犹豫,踌躇
+    - v.
+      - 犹豫,踌躇
   - 同根词
     - adj.
-      - `hesitant` 迟疑的；踌躇的；犹豫不定的
-      - `hesitating` 犹豫的
-      - `hesitative` 支吾其辞的；踌躇的
+      - `hesitant`
+        - 迟疑的；踌躇的；犹豫不定的
+      - `hesitating`
+        - 犹豫的
+      - `hesitative`
+        - 支吾其辞的；踌躇的
     - adv.
-      - `hesitantly` 迟疑地；踌躇地
-      - `hesitatingly` 踌躇地；支吾其词地
+      - `hesitantly`
+        - 迟疑地；踌躇地
+      - `hesitatingly`
+        - 踌躇地；支吾其词地
     - n.
-      - `hesitation` 犹豫
-      - `hesitance` 踌躇；犹豫
-      - `hesitancy` 踌躇，犹豫
+      - `hesitation`
+        - 犹豫
+      - `hesitance`
+        - 踌躇；犹豫
+      - `hesitancy`
+        - 踌躇，犹豫
     - v.
-      - `hesitating` 犹豫（hesitate的ing形式）
+      - `hesitating`
+        - 犹豫（hesitate的ing形式）
   - 近义词
-    - vi. 踌躇，犹豫；不愿
-      - `vacillate`
-      - `stand at`
-    - vt. 踌躇，犹豫；有疑虑，不愿意
-      - `stand at`
-      - `hang back`
+    - vi.
+      - 踌躇，犹豫；不愿
+        - `vacillate`
+        - `stand at`
+    - vt.
+      - 踌躇，犹豫；有疑虑，不愿意
+        - `stand at`
+        - `hang back`
   - 短语
-    - `don't hesitate` 别再犹豫了 
-    - `hesitate in` 吞吞吐吐 
+    - `don't hesitate`
+      - 别再犹豫了 
+    - `hesitate in`
+      - 吞吞吐吐 
   - 例句
     - `Some parents hesitate to take these steps because they suspect that their child is exaggerating.`
       - 一些家长迟迟不肯采取这些措施，因为他们怀疑自己的孩子在夸大其词。

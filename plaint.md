@@ -1,17 +1,22 @@
 - plaint
   - 发音
-    - 英 `/pleɪnt/`
-    - 美 `/plent/`
+    - 英
+      - `/pleɪnt/`
+    - 美
+      - `/plent/`
   - 词义
-    - n. [诗]悲叹,抱怨
-    - `A plaint is a complaint or a sad cry`
+    - n.
+      - [诗]悲叹,抱怨
+        - `A plaint is a complaint or a sad cry`
   - 同根词
     - adj.
-      - `plaintive` 哀伤的；悲哀的
+      - `plaintive`
+        - 哀伤的；悲哀的
   - 近义词
-    - n. 感叹；诉苦；悲叹
-      - `regret`
-      - `complaint`
+    - n.
+      - 感叹；诉苦；悲叹
+        - `regret`
+        - `complaint`
   - 例句
     - `..a forlorn, haunting plaint.`
       - ...一种愁苦的、挥之不去的悲叹。

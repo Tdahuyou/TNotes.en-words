@@ -1,17 +1,22 @@
 - maroon
   - 发音
-    - 英 `/mə'ruːn/`
-    - 美 `/mə'run/`
+    - 英
+      - `/mə'ruːn/`
+    - 美
+      - `/mə'run/`
   - 词义
-    - n. 栗色a栗色的
-    - `a dark brownish red colour`
+    - n.
+      - 栗色a栗色的
+        - `a dark brownish red colour`
   - 近义词
-    - n. 栗色；逃亡黑人奴隶；孤立的人
-      - `sorrel`
-      - `chestnut`
-    - adj. 栗色的
-      - `castaneous`
-      - `nut-brown`
+    - n.
+      - 栗色；逃亡黑人奴隶；孤立的人
+        - `sorrel`
+        - `chestnut`
+    - adj.
+      - 栗色的
+        - `castaneous`
+        - `nut-brown`
   - 例句
     - `I wore a maroon velvet trouser suit that my daughter chose, and most of the village came to the reception.`
       - 那天，我穿了女儿为我挑选的栗色天鹅绒裤装，村庄里的大多数人都应邀参加了我的婚礼。

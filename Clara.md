@@ -1,10 +1,13 @@
 - Clara
   - 发音
-    - 英 `/'klara/`
-    - 美 `/'klærə/`
+    - 英
+      - `/'klara/`
+    - 美
+      - `/'klærə/`
   - 词义
   - 短语
-    - `santa clara` 圣克拉拉（美国加利福尼亚州西部城市）；圣克拉拉（古巴中部城市） 
+    - `santa clara`
+      - 圣克拉拉（美国加利福尼亚州西部城市）；圣克拉拉（古巴中部城市） 
   - 例句
     - `Clara, I heard nothing of what you said but that du.`
       - 克拉拉，你说的其他话我都没听见，只听见了那个“你”。

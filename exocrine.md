@@ -1,10 +1,13 @@
 - exocrine
   - 发音
-    - 英 `/'eksə(ʊ)kraɪn; -krɪn/`
-    - 美 `/'ɛksəkrɪn/`
+    - 英
+      - `/'eksə(ʊ)kraɪn; -krɪn/`
+    - 美
+      - `/'ɛksəkrɪn/`
   - 词义
-    - adj. [医]外分泌的
-    - `of or relating to exocrine glands or their secretions `
+    - adj.
+      - [医]外分泌的
+        - `of or relating to exocrine glands or their secretions `
   - 例句
     - `They hitched the genes for these three factors onto a virus that infects another type of pancreatic cell, known as an exocrine cell.`
       - 他们把这三组因子的基因搭载到一种病毒上，再用病毒感染被称作外分泌细胞的另一种类型的胰腺细胞。

@@ -1,7 +1,10 @@
 - danseuse
   - 发音
-    - 英 `/dɒŋ'sɜːz/`
-    - 美 `/dɑn'sɝz/`
+    - 英
+      - `/dɒŋ'sɜːz/`
+    - 美
+      - `/dɑn'sɝz/`
   - 词义
-    - n. 女芭蕾舞演员
-    - `a female ballet dancer `
+    - n.
+      - 女芭蕾舞演员
+        - `a female ballet dancer `

@@ -1,12 +1,17 @@
 - ropeway
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 索道
+    - n.
+      - 索道
   - 近义词
-    - n. 索道；空中缆索
-      - `teleferic`
-      - `tram rail`
+    - n.
+      - 索道；空中缆索
+        - `teleferic`
+        - `tram rail`
   - 短语
-    - `aerial ropeway` 高架索道；架空索道；架空死 
+    - `aerial ropeway`
+      - 高架索道；架空索道；架空死 

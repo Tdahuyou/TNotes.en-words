@@ -1,17 +1,22 @@
 - stratagem
   - 发音
-    - 英 `/'strætədʒəm/`
-    - 美 `/'strætədʒəm/`
+    - 英
+      - `/'strætədʒəm/`
+    - 美
+      - `/'strætədʒəm/`
   - 词义
-    - n. 战略,计谋
-    - `a trick or plan to deceive an enemy or gain an advantage`
+    - n.
+      - 战略,计谋
+        - `a trick or plan to deceive an enemy or gain an advantage`
   - 同根词
     - n.
-      - `strategy` 战略，策略
+      - `strategy`
+        - 战略，策略
   - 近义词
-    - n. 策略；计谋
-      - `device`
-      - `game plan`
+    - n.
+      - 策略；计谋
+        - `device`
+        - `game plan`
   - 例句
     - `Trade discounts may be used as a competitive stratagem to secure customer loyalty.`
       - 商业折扣可以用作保持顾客忠诚度的一种竞争策略。

@@ -1,12 +1,16 @@
 - NBA
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - abbr. 全美篮球协会(NationalBasketballAssociation)，国家篮球协会（美国职业篮球联赛）
-    - `the American organization which arranges professional basketball games`
+    - abbr.
+      - 全美篮球协会(NationalBasketballAssociation)，国家篮球协会（美国职业篮球联赛）
+        - `the American organization which arranges professional basketball games`
   - 短语
-    - `nba history` NBA历史经典战役 
+    - `nba history`
+      - NBA历史经典战役 
   - 例句
     - `Michael Jorden surnamed “Flying Trapezist” has stepped out of the NBA.`
       - “空中飞人”迈克尔乔丹已从NBA中退役了。

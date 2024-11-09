@@ -1,19 +1,27 @@
 - experimentally
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - adv. 实验上，实验性地
-    - `relating to experiments`
+    - adv.
+      - 实验上，实验性地
+        - `relating to experiments`
   - 同根词
     - adj.
-      - `experimental` 实验的；根据实验的；试验性的
+      - `experimental`
+        - 实验的；根据实验的；试验性的
     - n.
-      - `experiment` 实验，试验；尝试
-      - `experimentation` 实验；试验；实验法；实验过程
-      - `experimentalism` 经验主义
+      - `experiment`
+        - 实验，试验；尝试
+      - `experimentation`
+        - 实验；试验；实验法；实验过程
+      - `experimentalism`
+        - 经验主义
     - vi.
-      - `experiment` 尝试；进行实验
+      - `experiment`
+        - 尝试；进行实验
   - 例句
     - `data obtained experimentally`
       - 实验获得的数据

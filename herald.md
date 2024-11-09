@@ -1,24 +1,32 @@
 - herald
   - 发音
-    - 英 `/'herəld/`
-    - 美 `/'hɛrəld/`
+    - 英
+      - `/'herəld/`
+    - 美
+      - `/'hɛrəld/`
   - 词义
-    - vt. 预示；宣布，宣告
-    - `to be a sign of something that is going to come or happen soon`
-    - n. 信使；预示，预兆
-    - `Something that is a herald of a future event or situation is a sign that it is going to happen or appear`
+    - vt.
+      - 预示；宣布，宣告
+        - `to be a sign of something that is going to come or happen soon`
+    - n.
+      - 信使；预示，预兆
+        - `Something that is a herald of a future event or situation is a sign that it is going to happen or appear`
   - 记忆
     - he(他) + rald(看做raid， 突然袭击) → 他带来敌人突然袭击的消息 → 信使
   - 同根词
     - adj.
-      - `heraldic` 纹章的；纹章学的；传令官的；司宗谱纹章官员的
+      - `heraldic`
+        - 纹章的；纹章学的；传令官的；司宗谱纹章官员的
   - 近义词
-    - n. 先驱；传令官；报信者
-      - `precursor`
-      - `forerunner`
+    - n.
+      - 先驱；传令官；报信者
+        - `precursor`
+        - `forerunner`
   - 短语
-    - `international herald tribune` 国际前锋论坛报 
-    - `sydney morning herald` 悉尼先驱晨报 
+    - `international herald tribune`
+      - 国际前锋论坛报 
+    - `sydney morning herald`
+      - 悉尼先驱晨报 
   - 例句
     - `A flash of lightning heralded torrential rain.`
       - 一道闪电预示着暴雨即将来临。

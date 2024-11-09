@@ -1,27 +1,42 @@
 - psychologist
   - 发音
-    - 英 `/saɪ'kɒlədʒɪst/`
-    - 美 `/saɪ'kɑlədʒɪst/`
+    - 英
+      - `/saɪ'kɒlədʒɪst/`
+    - 美
+      - `/saɪ'kɑlədʒɪst/`
   - 词义
-    - n. 心理学者
-    - `someone who is trained in psychology`
+    - n.
+      - 心理学者
+        - `someone who is trained in psychology`
   - 同根词
     - adj.
-      - `psychological` 心理的；心理学的；精神上的
-      - `psychometric` 心理测量的
-      - `psychoanalytic` 精神分析的；心理分析的
-      - `psychogenic` 精神性的，心理性的
-      - `psychopathological` 精神病理学的
+      - `psychological`
+        - 心理的；心理学的；精神上的
+      - `psychometric`
+        - 心理测量的
+      - `psychoanalytic`
+        - 精神分析的；心理分析的
+      - `psychogenic`
+        - 精神性的，心理性的
+      - `psychopathological`
+        - 精神病理学的
     - adv.
-      - `psychologically` 心理上地；心理学地
+      - `psychologically`
+        - 心理上地；心理学地
     - n.
-      - `psychology` 心理学；心理状态
-      - `psycholinguistic` 心理语言学
-      - `psychogenesis` [心理] 心理发生；精神发生
-      - `psychometrics` [心理] 心理测验学
-      - `psychometry` 心理测验；心理测定学；心灵占卜术
+      - `psychology`
+        - 心理学；心理状态
+      - `psycholinguistic`
+        - 心理语言学
+      - `psychogenesis`
+        - [心理] 心理发生；精神发生
+      - `psychometrics`
+        - [心理] 心理测验学
+      - `psychometry`
+        - 心理测验；心理测定学；心灵占卜术
   - 短语
-    - `clinical psychologist` 临床心理学家 
+    - `clinical psychologist`
+      - 临床心理学家 
   - 例句
     - `a clinical psychologist`
       - 临床心理学家

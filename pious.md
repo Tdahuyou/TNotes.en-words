@@ -1,17 +1,22 @@
 - pious
   - 发音
-    - 英 `/'paiəs/`
-    - 美 `/'paɪəs/`
+    - 英
+      - `/'paiəs/`
+    - 美
+      - `/'paɪəs/`
   - 词义
-    - adj. 虔诚的
-    - `having strong religious beliefs, and showing this in the way you behave`
+    - adj.
+      - 虔诚的
+        - `having strong religious beliefs, and showing this in the way you behave`
   - 同根词
     - adv.
-      - `piously` 虔诚地
+      - `piously`
+        - 虔诚地
   - 近义词
-    - adj. 虔诚的；敬神的；可嘉的；尽责的
-      - `religious`
-      - `good`
+    - adj.
+      - 虔诚的；敬神的；可嘉的；尽责的
+        - `religious`
+        - `good`
   - 例句
     - `He was a quiet, pious man.`
       - 他是个文静、虔诚的人。

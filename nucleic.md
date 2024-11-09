@@ -1,11 +1,15 @@
 - nucleic
   - 发音
-    - 英 `/njuː'kliːɪk/`
-    - 美 `/nu'kliɪk/`
+    - 英
+      - `/njuː'kliːɪk/`
+    - 美
+      - `/nu'kliɪk/`
   - 词义
-    - adj. 核的
+    - adj.
+      - 核的
   - 短语
-    - `nucleic acid` [生化]核酸 
+    - `nucleic acid`
+      - [生化]核酸 
   - 例句
     - `Organisms rely on phosphorus to build nucleic acids and other molecules to grow and proliferate.`
       - 有机物依赖于磷来制造核酸和其他生长与繁殖所需的分子。

@@ -1,35 +1,50 @@
 - transmit
   - 发音
-    - 英 `/træns'mɪt/`
-    - 美 `/trænzˈmɪt/`
+    - 英
+      - `/træns'mɪt/`
+    - 美
+      - `/trænzˈmɪt/`
   - 词义
-    - v. 传送，传递，输送；传播，传染
-    - `to send out electronic signals, messages etc using radio, television, or other similar equipment`
+    - v.
+      - 传送，传递，输送；传播，传染
+        - `to send out electronic signals, messages etc using radio, television, or other similar equipment`
   - 记忆
     - trans(穿过) + mit(送) → 从一地送到另一地 → 传送
   - 同根词
     - adj.
-      - `transmitted` 透射的
-      - `transmitting` 传送中
-      - `transmissible` 能传送的；能透射的；可传达的
+      - `transmitted`
+        - 透射的
+      - `transmitting`
+        - 传送中
+      - `transmissible`
+        - 能传送的；能透射的；可传达的
     - n.
-      - `transmission` 传动装置，[机] 变速器；传递；传送；播送
-      - `transmitter` [电讯] 发射机，[通信] 发报机；传达人
-      - `transmittance` [光] 透射比；透明度
-      - `transmittal` 传输；传送；被传送
-      - `transmitting` 传送，传递
+      - `transmission`
+        - 传动装置，[机] 变速器；传递；传送；播送
+      - `transmitter`
+        - [电讯] 发射机，[通信] 发报机；传达人
+      - `transmittance`
+        - [光] 透射比；透明度
+      - `transmittal`
+        - 传输；传送；被传送
+      - `transmitting`
+        - 传送，传递
     - v.
-      - `transmitted` 传输；传送（transmit的过去分词）
-      - `transmitting` 传递，发射（transmite的现在分词形式）
+      - `transmitted`
+        - 传输；传送（transmit的过去分词）
+      - `transmitting`
+        - 传递，发射（transmite的现在分词形式）
   - 近义词
-    - vt. 传输；传播；发射；传达；遗传
-      - `release`
-      - `send`
-      - `communicate`
-      - `project`
-      - `let go`
+    - vt.
+      - 传输；传播；发射；传达；遗传
+        - `release`
+        - `send`
+        - `communicate`
+        - `project`
+        - `let go`
   - 短语
-    - `transmit information` 传输信息 
+    - `transmit information`
+      - 传输信息 
   - 例句
     - `The US Open will be transmitted live via satellite.`
       - 美国公开赛将通过卫星现场直播。

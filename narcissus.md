@@ -1,14 +1,18 @@
 - narcissus
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 水仙
-    - `a yellow or white spring flower, such as the daffodil`
+    - n.
+      - 水仙
+        - `a yellow or white spring flower, such as the daffodil`
   - 近义词
-    - n. 水仙
-      - `daffadilly`
-      - `asphodel`
+    - n.
+      - 水仙
+        - `daffadilly`
+        - `asphodel`
   - 例句
     - `One day, when Posefen played with her friends in the valley, she found a silver narcissus flower.`
       - 有一天，泊瑟芬和同伴们在山谷中的草地上摘花，她惊奇的发现一朵银色的水仙，美的光彩照人。

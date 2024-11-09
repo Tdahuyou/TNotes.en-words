@@ -1,31 +1,42 @@
 - admittance
   - 发音
-    - 英 `/əd'mitəns/`
-    - 美 `/əd'mɪtns/`
+    - 英
+      - `/əd'mitəns/`
+    - 美
+      - `/əd'mɪtns/`
   - 词义
-    - n. 入场许可；准入
+    - n.
+      - 入场许可；准入
   - 记忆
     - 来自admit (容许) + tance → 入场许可
   - 同根词
     - adj.
-      - `admittable` 具有进入的资格的
+      - `admittable`
+        - 具有进入的资格的
     - n.
-      - `admission` 承认；入场费；进入许可；坦白；录用
-      - `admissibility` 可容许；有入场的资格
+      - `admission`
+        - 承认；入场费；进入许可；坦白；录用
+      - `admissibility`
+        - 可容许；有入场的资格
     - vi.
-      - `admit` 承认；容许
+      - `admit`
+        - 承认；容许
     - vt.
-      - `admit` 承认；准许进入；可容纳
+      - `admit`
+        - 承认；准许进入；可容纳
   - 近义词
-    - n. 进入；入场权；通道
-      - `door`
-      - `access`
-      - `exit`
-      - `channel`
-      - `route`
+    - n.
+      - 进入；入场权；通道
+        - `door`
+        - `access`
+        - `exit`
+        - `channel`
+        - `route`
   - 短语
-    - `admittance matrix` 导纳矩阵 
-    - `no admittance` 闲人免进；禁止入内 
+    - `admittance matrix`
+      - 导纳矩阵 
+    - `no admittance`
+      - 闲人免进；禁止入内 
   - 例句
     - `We had not been able to gain admittance to the flat.`
       - 我们还未能获得进入那所公寓的权利。

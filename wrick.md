@@ -1,16 +1,21 @@
 - wrick
   - 发音
-    - 英 `/rɪk/`
-    - 美 `/rɪk/`
+    - 英
+      - `/rɪk/`
+    - 美
+      - `/rɪk/`
   - 词义
-    - v. 扭伤
+    - v.
+      - 扭伤
   - 近义词
-    - n. 扭伤
-      - `strain`
-      - `stremma`
-    - vt. 扭伤
-      - `sprain`
-      - `twist`
+    - n.
+      - 扭伤
+        - `strain`
+        - `stremma`
+    - vt.
+      - 扭伤
+        - `sprain`
+        - `twist`
   - 例句
     - `What is the best way to deal with the acute wrick?`
       - 急性扭伤后应立即采取什么处理办法？

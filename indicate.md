@@ -1,29 +1,40 @@
 - indicate
   - 发音
-    - 英 `/'ɪndɪkeɪt/`
-    - 美 `/'ɪndɪket/`
+    - 英
+      - `/'ɪndɪkeɪt/`
+    - 美
+      - `/'ɪndɪket/`
   - 词义
-    - v. 表明，显示；指出，指示；象征，预示；暗示，间接提及
-    - `to show that a particular situation exists, or that something is likely to be true`
+    - v.
+      - 表明，显示；指出，指示；象征，预示；暗示，间接提及
+        - `to show that a particular situation exists, or that something is likely to be true`
   - 记忆
     - in + dic(说) + ate → 说出 → 指出； 象征
   - 同根词
     - adj.
-      - `indicative` 象征的；指示的；表示…的
-      - `indicant` 指示的；表示的
-      - `indicatory` 表示的；指示的
+      - `indicative`
+        - 象征的；指示的；表示…的
+      - `indicant`
+        - 指示的；表示的
+      - `indicatory`
+        - 表示的；指示的
     - n.
-      - `indicator` 指示器；[试剂] 指示剂；[计] 指示符；压力计
-      - `indication` 指示，指出；迹象；象征
-      - `indicative` 陈述语气；陈述语气的动词形式
-      - `indicant` 指示物
+      - `indicator`
+        - 指示器；[试剂] 指示剂；[计] 指示符；压力计
+      - `indication`
+        - 指示，指出；迹象；象征
+      - `indicative`
+        - 陈述语气；陈述语气的动词形式
+      - `indicant`
+        - 指示物
   - 近义词
-    - vt. 表明；指出；预示；象征
-      - `forecast`
-      - `index`
-      - `image`
-      - `shadow`
-      - `figure`
+    - vt.
+      - 表明；指出；预示；象征
+        - `forecast`
+        - `index`
+        - `image`
+        - `shadow`
+        - `figure`
   - 例句
     - `The study indicates a connection between poverty and crime.`
       - 研究显示贫穷和犯罪有关联。

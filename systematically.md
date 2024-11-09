@@ -1,31 +1,48 @@
 - systematically
   - 发音
-    - 英 `/,sɪstə'mætɪklɪ/`
-    - 美 `/,sɪstə'mætɪkl/`
+    - 英
+      - `/,sɪstə'mætɪklɪ/`
+    - 美
+      - `/,sɪstə'mætɪkl/`
   - 词义
-    - adv. 有系统地,有条理地
+    - adv.
+      - 有系统地,有条理地
   - 同根词
     - adj.
-      - `systematic` 系统的；体系的；有系统的；[图情] 分类的
-      - `systemic` 系统的；全身的；体系的
-      - `systematized` 系统化的
+      - `systematic`
+        - 系统的；体系的；有系统的；[图情] 分类的
+      - `systemic`
+        - 系统的；全身的；体系的
+      - `systematized`
+        - 系统化的
     - n.
-      - `system` 制度，体制；系统；方法
-      - `systematization` 系统化；组织化；分类
-      - `systematics` 系统学；分类学
-      - `systematism` 组织化；系统化；制度化；组织主义
-      - `systematist` 组织主义者
-      - `systematizer` 分类者；组织者；使体系化的人
+      - `system`
+        - 制度，体制；系统；方法
+      - `systematization`
+        - 系统化；组织化；分类
+      - `systematics`
+        - 系统学；分类学
+      - `systematism`
+        - 组织化；系统化；制度化；组织主义
+      - `systematist`
+        - 组织主义者
+      - `systematizer`
+        - 分类者；组织者；使体系化的人
     - v.
-      - `systematized` 系统化，体系化（systematize的过去式）
+      - `systematized`
+        - 系统化，体系化（systematize的过去式）
     - vt.
-      - `systematize` 使系统化；使组织化；将…分类
-      - `systemize` 使……系统化；把……分类；组织化
-      - `systematise` 使系统化；使有秩序（等于systematize）
+      - `systematize`
+        - 使系统化；使组织化；将…分类
+      - `systemize`
+        - 使……系统化；把……分类；组织化
+      - `systematise`
+        - 使系统化；使有秩序（等于systematize）
   - 近义词
-    - adv. 有系统地；有组织地
-      - `organically`
-      - `methodically`
+    - adv.
+      - 有系统地；有组织地
+        - `organically`
+        - `methodically`
   - 例句
     - `Rumours of possible human cases in other parts of the country have been systematically followed up.`
       - 已系统地对关于该国其它地区可能的人间病例的传闻进行跟踪。

@@ -1,33 +1,45 @@
 - suggestion
   - 发音
-    - 英 `/sə'dʒestʃ(ə)n/`
-    - 美 `/sə'dʒɛstʃən/`
+    - 英
+      - `/sə'dʒestʃ(ə)n/`
+    - 美
+      - `/sə'dʒɛstʃən/`
   - 词义
-    - n. 提议；建议
-    - `an idea, plan, or possibility that someone mentions, or the act of mentioning it`
+    - n.
+      - 提议；建议
+        - `an idea, plan, or possibility that someone mentions, or the act of mentioning it`
   - 记忆
     - 来自suggest(v. 建议)
   - 同根词
     - adj.
-      - `suggestive` 暗示的；提示的；影射的
-      - `suggestible` 可建议的；耳根软的；易受影响的
+      - `suggestive`
+        - 暗示的；提示的；影射的
+      - `suggestible`
+        - 可建议的；耳根软的；易受影响的
     - adv.
-      - `suggestively` 提示地；引起联想地；暗示地
+      - `suggestively`
+        - 提示地；引起联想地；暗示地
     - n.
-      - `suggestibility` 暗示感受性；可教唆；被暗示性
+      - `suggestibility`
+        - 暗示感受性；可教唆；被暗示性
     - vt.
-      - `suggest` 提议，建议；启发；使人想起
+      - `suggest`
+        - 提议，建议；启发；使人想起
   - 近义词
-    - n. 建议；示意；微量，细微的迹象
-      - `advice`
-      - `proposal`
-      - `instance`
-      - `recommendation`
-      - `trace`
+    - n.
+      - 建议；示意；微量，细微的迹象
+        - `advice`
+        - `proposal`
+        - `instance`
+        - `recommendation`
+        - `trace`
   - 短语
-    - `make a suggestion` 提出建议 
-    - `suggestion box` n. 意见箱 
-    - `at the suggestion of` 在…的建议下 
+    - `make a suggestion`
+      - 提出建议 
+    - `suggestion box`
+      - n. 意见箱 
+    - `at the suggestion of`
+      - 在…的建议下 
   - 例句
     - `Any suggestions would be welcome.`
       - 任何建议都欢迎。

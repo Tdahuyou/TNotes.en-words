@@ -1,10 +1,13 @@
 - caret
   - 发音
-    - 英 `/'kærət/`
-    - 美 `/'kærət/`
+    - 英
+      - `/'kærət/`
+    - 美
+      - `/'kærət/`
   - 词义
-    - n. 脱字符号(^文章中插字使用)
-    - `a symbol `
+    - n.
+      - 脱字符号(^文章中插字使用)
+        - `a symbol `
   - 例句
     - `A set that begins with a caret (^) matches any character not included in the set.`
       - 以脱字符号 (^) 为开头的集合将匹配集合中不包括的所有字符。

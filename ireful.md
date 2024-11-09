@@ -1,11 +1,16 @@
 - ireful
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - adj. 忿怒的
+    - adj.
+      - 忿怒的
   - 同根词
     - n.
-      - `ire` 忿怒
+      - `ire`
+        - 忿怒
     - vt.
-      - `ire` 使发怒
+      - `ire`
+        - 使发怒

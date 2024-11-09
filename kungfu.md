@@ -1,10 +1,13 @@
 - kungfu
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. （中国）功夫
-    - `an ancient Chinese fighting art in which you attack people with your hands and feet`
+    - n.
+      - （中国）功夫
+        - `an ancient Chinese fighting art in which you attack people with your hands and feet`
   - 例句
     - `See,I can even knock down walls with my kungfu.`
       - 看见没，我用我的功夫把墙都撞倒了

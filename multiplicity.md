@@ -1,33 +1,50 @@
 - multiplicity
   - 发音
-    - 英 `/,mʌltɪ'plɪsɪtɪ/`
-    - 美 `/,mʌltɪ'plɪsəti/`
+    - 英
+      - `/,mʌltɪ'plɪsɪtɪ/`
+    - 美
+      - `/,mʌltɪ'plɪsəti/`
   - 词义
-    - n. 多样性
-    - `a large number or great variety of things`
+    - n.
+      - 多样性
+        - `a large number or great variety of things`
   - 同根词
     - adj.
-      - `multiple` 多重的；多样的；许多的
-      - `multiply` 多层的；多样的
-      - `multiplex` 多样的，多元的；[通信] 多路传输的
+      - `multiple`
+        - 多重的；多样的；许多的
+      - `multiply`
+        - 多层的；多样的
+      - `multiplex`
+        - 多样的，多元的；[通信] 多路传输的
     - adv.
-      - `multiply` 多样地；复合地
+      - `multiply`
+        - 多样地；复合地
     - n.
-      - `multiple` 倍数；[电] 并联
-      - `multiplex` [测] 多倍仪；多重通道
-      - `multiprocessing` [计][通信] 多重处理
-      - `multiprocessor` 多重处理器
+      - `multiple`
+        - 倍数；[电] 并联
+      - `multiplex`
+        - [测] 多倍仪；多重通道
+      - `multiprocessing`
+        - [计][通信] 多重处理
+      - `multiprocessor`
+        - 多重处理器
     - vi.
-      - `multiply` 乘；繁殖；增加
-      - `multiplex` [通信] 多路传输；多工
+      - `multiply`
+        - 乘；繁殖；增加
+      - `multiplex`
+        - [通信] 多路传输；多工
     - vt.
-      - `multiply` 乘；使增加；使繁殖；使相乘
-      - `multiplex` [通信] 多路传输
+      - `multiply`
+        - 乘；使增加；使繁殖；使相乘
+      - `multiplex`
+        - [通信] 多路传输
   - 近义词
-    - n. [物]多样性；[数]多重性
-      - `diversity`
+    - n.
+      - [物]多样性；[数]多重性
+        - `diversity`
   - 短语
-    - `a multiplicity of` 大量，许多 
+    - `a multiplicity of`
+      - 大量，许多 
   - 例句
     - `It also explains why we use a specific multiplicity in the correspondence.`
       - 它还解释了我们在通讯中使用特定多重性的原因。

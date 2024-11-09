@@ -1,24 +1,32 @@
 - mainly
   - 发音
-    - 英 `/'meɪnlɪ/`
-    - 美 `/'menli/`
+    - 英
+      - `/'meɪnlɪ/`
+    - 美
+      - `/'menli/`
   - 词义
-    - adv. 大部分地；主要地
-    - `used to mention the main part or cause of something, the main reason for something etc`
+    - adv.
+      - 大部分地；主要地
+        - `used to mention the main part or cause of something, the main reason for something etc`
   - 同根词
     - adj.
-      - `main` 主要的，最重要的；全力的
+      - `main`
+        - 主要的，最重要的；全力的
     - n.
-      - `main` 主要部分，要点；体力；总管道
-      - `mainstay` 支柱；中流砥柱；主要的依靠；主桅支索
-      - `mainspring` 主要动力；（钟表）主发条；主要原因；主要动机
+      - `main`
+        - 主要部分，要点；体力；总管道
+      - `mainstay`
+        - 支柱；中流砥柱；主要的依靠；主桅支索
+      - `mainspring`
+        - 主要动力；（钟表）主发条；主要原因；主要动机
   - 近义词
-    - adv. 主要地，大体上
-      - `basically`
-      - `mostly`
-      - `largely`
-      - `primarily`
-      - `chief`
+    - adv.
+      - 主要地，大体上
+        - `basically`
+        - `mostly`
+        - `largely`
+        - `primarily`
+        - `chief`
   - 例句
     - `Her illness was caused mainly by stress.`
       - 她的病主要是由精神压力引起的。

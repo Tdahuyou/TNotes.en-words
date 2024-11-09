@@ -1,10 +1,13 @@
 - wildflower
   - 发音
-    - 英 `/'waɪld,flaʊə/`
-    - 美 `/'waild,flauə/`
+    - 英
+      - `/'waɪld,flaʊə/`
+    - 美
+      - `/'waild,flauə/`
   - 词义
-    - n. 野花
-    - `Wildflowers are flowers that grow naturally in the countryside, rather than being grown by people in gardens`
+    - n.
+      - 野花
+        - `Wildflowers are flowers that grow naturally in the countryside, rather than being grown by people in gardens`
   - 例句
     - `And yes,if I see the blue flowers again,you can bet I'll stop and transplant them to my wildflower garden.`
       - 是的，如果我再次看到那些蓝色的花儿，你可以相信，我会停下来把它们移值到我的野花花园里。

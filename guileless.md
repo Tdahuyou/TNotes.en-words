@@ -1,12 +1,16 @@
 - guileless
   - 发音
-    - 英 `/'gaillis/`
-    - 美 `/undefined/`
+    - 英
+      - `/'gaillis/`
+    - 美
+      - `/undefined/`
   - 词义
-    - adj. 坦率的
+    - adj.
+      - 坦率的
   - 记忆
     - 没犯过罪 (guiltless) ， 所以很坦率 (guileless)
   - 近义词
-    - adj. 诚实的
-      - `honest`
-      - `veracious`
+    - adj.
+      - 诚实的
+        - `honest`
+        - `veracious`

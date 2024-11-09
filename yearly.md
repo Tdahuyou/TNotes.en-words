@@ -1,32 +1,46 @@
 - yearly
   - 发音
-    - 英 `/'jɪəlɪ; 'jɜː-/`
-    - 美 `/'jɪrli/`
+    - 英
+      - `/'jɪəlɪ; 'jɜː-/`
+    - 美
+      - `/'jɪrli/`
   - 词义
-    - adj. 每年的
-    - `happening or appearing every year or once a year`
-    - adv. 每年；一年一次
-    - `Yearly is also an adverb`
-    - n. 年刊；年鉴
+    - adj.
+      - 每年的
+        - `happening or appearing every year or once a year`
+    - adv.
+      - 每年；一年一次
+        - `Yearly is also an adverb`
+    - n.
+      - 年刊；年鉴
   - 同根词
     - adj.
-      - `yearlong` 整整一年的；持续一年的
+      - `yearlong`
+        - 整整一年的；持续一年的
     - n.
-      - `year` 年；年度；历年
-      - `yearbook` 年鉴；年刊
+      - `year`
+        - 年；年度；历年
+      - `yearbook`
+        - 年鉴；年刊
   - 近义词
-    - adj. 每年的
-      - `annual`
-      - `etesian`
-    - adv. 每年；一年一次
-      - `annually`
-    - n. 年刊；年鉴
-      - `annual`
-      - `year book`
+    - adj.
+      - 每年的
+        - `annual`
+        - `etesian`
+    - adv.
+      - 每年；一年一次
+        - `annually`
+    - n.
+      - 年刊；年鉴
+        - `annual`
+        - `year book`
   - 短语
-    - `yearly output` 年产量 
-    - `yearly income` 岁入， 年度收入 
-    - `yearly report` 年报 
+    - `yearly output`
+      - 年产量 
+    - `yearly income`
+      - 岁入， 年度收入 
+    - `yearly report`
+      - 年报 
   - 例句
     - `Salary levels are reviewed on a yearly basis.`
       - 工资水平每年都要审查。

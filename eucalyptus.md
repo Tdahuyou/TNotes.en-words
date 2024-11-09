@@ -1,14 +1,20 @@
 - eucalyptus
   - 发音
-    - 英 `/,juːkə'lɪptəs/`
-    - 美 `/,jukə'lɪptəs/`
+    - 英
+      - `/,juːkə'lɪptəs/`
+    - 美
+      - `/,jukə'lɪptəs/`
   - 词义
-    - n. [植]桉树
-    - `a tall tree that produces an oil with a strong smell, used in medicines`
+    - n.
+      - [植]桉树
+        - `a tall tree that produces an oil with a strong smell, used in medicines`
   - 短语
-    - `eucalyptus oil` 桉叶油；桉油；桉树油 
-    - `eucalyptus leaves` 桉树叶；古柯叶（eucalyptus leaf的复数形式） 
-    - `eucalyptus globulus` 蓝桉，蓝桉树；尤加利 
+    - `eucalyptus oil`
+      - 桉叶油；桉油；桉树油 
+    - `eucalyptus leaves`
+      - 桉树叶；古柯叶（eucalyptus leaf的复数形式） 
+    - `eucalyptus globulus`
+      - 蓝桉，蓝桉树；尤加利 
   - 例句
     - `For skin under and around noses that are irritated by too much blowing, menthol and eucalyptus can relieve pain.`
       - 鼻子下面和周围发炎的皮肤是由于过度吹风造成的，薄荷和桉树可以减轻疼痛。

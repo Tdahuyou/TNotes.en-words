@@ -1,19 +1,27 @@
 - racially
   - 发音
-    - 英 `/'reʃəli/`
-    - 美 `/undefined/`
+    - 英
+      - `/'reʃəli/`
+    - 美
+      - `/undefined/`
   - 词义
-    - adv. 种族上地
+    - adv.
+      - 种族上地
   - 同根词
     - adj.
-      - `racial` 种族的；人种的
+      - `racial`
+        - 种族的；人种的
     - n.
-      - `racism` 种族主义，种族歧视；人种偏见
-      - `racialism` 种族主义；种族歧视；人种偏见
-      - `racialist` 种族主义者
+      - `racism`
+        - 种族主义，种族歧视；人种偏见
+      - `racialism`
+        - 种族主义；种族歧视；人种偏见
+      - `racialist`
+        - 种族主义者
   - 近义词
-    - adv. 人种上；按人种
-      - `ethnically`
+    - adv.
+      - 人种上；按人种
+        - `ethnically`
   - 例句
     - `Mr. Obama is the first president since Richard M. Nixon to be elected while living in a city neighborhood, in his case, Chicago’s racially and economically diverse Hyde Park.`
       - 奥巴马是自理查德.尼克松总统以来第一位住在城市社区中当选的总统，奥巴马住在芝加哥种族和经济多元化的海德公园。

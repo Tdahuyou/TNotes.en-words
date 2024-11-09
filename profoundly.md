@@ -1,19 +1,26 @@
 - profoundly
   - 发音
-    - 英 `/prə'faʊndlɪ/`
-    - 美 `/prə'faʊndli/`
+    - 英
+      - `/prə'faʊndlɪ/`
+    - 美
+      - `/prə'faʊndli/`
   - 词义
-    - adv. 深深地,衷心地
+    - adv.
+      - 深深地,衷心地
   - 同根词
     - adj.
-      - `profound` 深厚的；意义深远的；渊博的
+      - `profound`
+        - 深厚的；意义深远的；渊博的
     - n.
-      - `profundity` 深刻；深度；深奥
-      - `profoundness` 深刻；深奥
+      - `profundity`
+        - 深刻；深度；深奥
+      - `profoundness`
+        - 深刻；深奥
   - 近义词
-    - adv. 深刻地；深深地；极度地
-      - `deeply`
-      - `poignantly`
+    - adv.
+      - 深刻地；深深地；极度地
+        - `deeply`
+        - `poignantly`
   - 例句
     - `As he cuddles with her, it feels like he’s doing the same with me — that’s how profoundly I feel we are all intertwined.`
       - 当他搂住她的时候，感觉就像是他也在搂着我——这就是为什么我感到我们被深深地羁绊住了。

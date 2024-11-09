@@ -1,35 +1,51 @@
 - different
   - 发音
-    - 英 `/ˈdɪfrənt/`
-    - 美 `/'dɪfrənt/`
+    - 英
+      - `/ˈdɪfrənt/`
+    - 美
+      - `/'dɪfrənt/`
   - 词义
-    - adj. 不同的
-    - `not like something or someone else, or not like before`
+    - adj.
+      - 不同的
+        - `not like something or someone else, or not like before`
   - 同根词
     - adv.
-      - `differently` 不同地；差异；各种
+      - `differently`
+        - 不同地；差异；各种
     - n.
-      - `difference` 差异；不同；争执
-      - `differentia` 差异；种差；不同点
+      - `difference`
+        - 差异；不同；争执
+      - `differentia`
+        - 差异；种差；不同点
     - vi.
-      - `differ` 相异；意见分歧
+      - `differ`
+        - 相异；意见分歧
     - vt.
-      - `differ` 使…相异；使…不同
+      - `differ`
+        - 使…相异；使…不同
   - 近义词
-    - adj. 不同的；个别的，与众不同的
-      - `diverse`
-      - `unlike`
-      - `unusual`
-      - `individual`
-      - `varying`
+    - adj.
+      - 不同的；个别的，与众不同的
+        - `diverse`
+        - `unlike`
+        - `unusual`
+        - `individual`
+        - `varying`
   - 短语
-    - `different from` 与…不同，不同于 
-    - `different kinds` 不同的种类 
-    - `in different ways` 以不同方式；用不同的方法；通过不同的方式 
-    - `totally different` 完全不同 
-    - `different than` 不同于 
-    - `different responses` 差别反应 
-    - `different in kind` 种类(或性质、本质)不同处 
+    - `different from`
+      - 与…不同，不同于 
+    - `different kinds`
+      - 不同的种类 
+    - `in different ways`
+      - 以不同方式；用不同的方法；通过不同的方式 
+    - `totally different`
+      - 完全不同 
+    - `different than`
+      - 不同于 
+    - `different responses`
+      - 差别反应 
+    - `different in kind`
+      - 种类(或性质、本质)不同处 
   - 例句
     - `The place looks completely different now.`
       - 这地方现在完全变了。

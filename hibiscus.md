@@ -1,12 +1,16 @@
 - hibiscus
   - 发音
-    - 英 `/hɪ'bɪskəs/`
-    - 美 `/hɪ'bɪskəs/`
+    - 英
+      - `/hɪ'bɪskəs/`
+    - 美
+      - `/hɪ'bɪskəs/`
   - 词义
-    - n. 芙蓉属的植物
+    - n.
+      - 芙蓉属的植物
   - 近义词
-    - n. 木槿；芙蓉花
-      - `rose of Sharon`
+    - n.
+      - 木槿；芙蓉花
+        - `rose of Sharon`
   - 例句
     - `Our Galapagos tortoise are responsive to bright coloured, edible flowers and fruit, such as roses, hibiscus, grapes and watermelon.`
       - 加拉巴哥象龟对于颜色鲜艳的可食花草和水果情有独钟，例如玫瑰花，芙蓉，葡萄，西瓜等。

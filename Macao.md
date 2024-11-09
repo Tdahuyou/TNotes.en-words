@@ -1,7 +1,9 @@
 - Macao
   - 发音
-    - 英 `/mə'kau/`
-    - 美 `/mə'kau/`
+    - 英
+      - `/mə'kau/`
+    - 美
+      - `/mə'kau/`
   - 词义
   - 例句
     - `These are ferries that ply between Hong Kong and Macao.`

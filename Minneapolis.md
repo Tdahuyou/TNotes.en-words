@@ -1,9 +1,12 @@
 - Minneapolis
   - 发音
-    - 英 `/,mini'æpəlis/`
-    - 美 `/,mini'æpəlis/`
+    - 英
+      - `/,mini'æpəlis/`
+    - 美
+      - `/,mini'æpəlis/`
   - 词义
-    - n. 明尼苏达[美国州名]
+    - n.
+      - 明尼苏达[美国州名]
   - 例句
     - `There are 57 police officers who are still on the streets of Minneapolis tonight because this plan prevented the layoffs their department was about to make.`
       - 今晚有57位警官仍在明尼阿波利斯的大街上执行公务，正是因为这项计划阻止了当地警局对他们的解雇。

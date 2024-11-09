@@ -1,21 +1,28 @@
 - triumphant
   - 发音
-    - 英 `/traɪ'ʌmf(ə)nt/`
-    - 美 `/traɪ'ʌmfənt/`
+    - 英
+      - `/traɪ'ʌmf(ə)nt/`
+    - 美
+      - `/traɪ'ʌmfənt/`
   - 词义
-    - adj. 成功的；得意洋洋的；狂欢的
-    - `having gained a victory or success`
+    - adj.
+      - 成功的；得意洋洋的；狂欢的
+        - `having gained a victory or success`
   - 同根词
     - adv.
-      - `triumphantly` 成功地；耀武扬威地
+      - `triumphantly`
+        - 成功地；耀武扬威地
     - n.
-      - `triumph` 胜利，凯旋；欢欣
+      - `triumph`
+        - 胜利，凯旋；欢欣
     - vi.
-      - `triumph` 获得胜利，成功
+      - `triumph`
+        - 获得胜利，成功
   - 近义词
-    - adj. 成功的；得意洋洋的；狂欢的
-      - `successful`
-      - `made`
+    - adj.
+      - 成功的；得意洋洋的；狂欢的
+        - `successful`
+        - `made`
   - 例句
     - `the triumphant army`
       - 得胜的军队

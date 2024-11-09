@@ -1,18 +1,26 @@
 - has
   - 发音
-    - 英 `/hæz/`
-    - 美 `/hæz/`
+    - 英
+      - `/hæz/`
+    - 美
+      - `/hæz/`
   - 词义
   - 近义词
-    - vt. 有；吃（have的第三人称单数现在式）；让…作
-      - `hath`
-    - conj. 有
-      - `hadorwould`
+    - vt.
+      - 有；吃（have的第三人称单数现在式）；让…作
+        - `hath`
+    - conj.
+      - 有
+        - `hadorwould`
   - 短语
-    - `has been` 已经 
-    - `has got` 有（用于第三人称单数） 
-    - `has yet to` 有待 
-    - `has gone to` 去了某地 
+    - `has been`
+      - 已经 
+    - `has got`
+      - 有（用于第三人称单数） 
+    - `has yet to`
+      - 有待 
+    - `has gone to`
+      - 去了某地 
   - 例句
     - `Air not only occupies space but it also has weight.`
       - 空气不仅占据空间，而且它还具有重量。

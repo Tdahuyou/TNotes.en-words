@@ -1,13 +1,17 @@
 - sailfish
   - 发音
-    - 英 `/'seɪlfɪʃ/`
-    - 美 `/'seilfiʃ/`
+    - 英
+      - `/'seɪlfɪʃ/`
+    - 美
+      - `/'seilfiʃ/`
   - 词义
-    - n. 旗鱼
-    - `any of several large scombroid game fishes of the genus Istiophorus, such as I`
+    - n.
+      - 旗鱼
+        - `any of several large scombroid game fishes of the genus Istiophorus, such as I`
   - 近义词
-    - n. [鱼]旗鱼
-      - `spearfish`
+    - n.
+      - [鱼]旗鱼
+        - `spearfish`
   - 例句
     - `A fine start to the day, and my first sailfish on a fly.`
       - 这一天的开局真不错，这也是我第一次用飞杆钓到旗鱼。

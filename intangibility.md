@@ -1,18 +1,23 @@
 - intangibility
   - 发音
-    - 英 `/ɪnˌtændʒə'bɪləti/`
-    - 美 `/undefined/`
+    - 英
+      - `/ɪnˌtændʒə'bɪləti/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 无形
+    - n.
+      - 无形
   - 记忆
     - in(不) + tang(触摸) + ibility → 触摸不到的 → 无形
   - 同根词
     - adj.
-      - `intangible` 无形的，触摸不到的；难以理解的
+      - `intangible`
+        - 无形的，触摸不到的；难以理解的
   - 近义词
-    - n. 无形；不能把握；不确定
-      - `uncertainty`
-      - `indetermination`
+    - n.
+      - 无形；不能把握；不确定
+        - `uncertainty`
+        - `indetermination`
   - 例句
     - `IPR generally have the features of intangibility, exclusivity, territoriality and temporality.`
       - 知识产权一般具有无形性、专用性、地域性、时间性特征。

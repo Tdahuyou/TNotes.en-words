@@ -1,52 +1,78 @@
 - moderate
   - 发音
-    - 英 `/'mɒd(ə)rət/`
-    - 美 `/ˈmɑdərɪt; (for v.,) ˈmɑdərˌeɪt/`
+    - 英
+      - `/'mɒd(ə)rət/`
+    - 美
+      - `/ˈmɑdərɪt; (for v.,) ˈmɑdərˌeɪt/`
   - 词义
-    - adj. 适度的；温和的；普通的
-    - `not very large or very small, very hot or very cold, very fast or very slow etc`
-    - v. 缓和，使适中
-    - `If you moderate something or if it moderates, it becomes less extreme or violent and easier to deal with or accept`
-    - n. 持温和意见的人
-    - `someone whose opinions or beliefs, especially about politics, are not extreme and are considered reasonable by most people`
+    - adj.
+      - 适度的；温和的；普通的
+        - `not very large or very small, very hot or very cold, very fast or very slow etc`
+    - v.
+      - 缓和，使适中
+        - `If you moderate something or if it moderates, it becomes less extreme or violent and easier to deal with or accept`
+    - n.
+      - 持温和意见的人
+        - `someone whose opinions or beliefs, especially about politics, are not extreme and are considered reasonable by most people`
   - 记忆
     - mod(适合) + erate → 使适合的 → 适度的
   - 同根词
     - adj.
-      - `moderated` 慢化的，适中的
-      - `moderating` 减速的；慢化的
-      - `moderato` （意）中板的
+      - `moderated`
+        - 慢化的，适中的
+      - `moderating`
+        - 减速的；慢化的
+      - `moderato`
+        - （意）中板的
     - adv.
-      - `moderately` 适度地；中庸地；有节制地
-      - `moderato` （意）中板地；中等速度地
+      - `moderately`
+        - 适度地；中庸地；有节制地
+      - `moderato`
+        - （意）中板地；中等速度地
     - n.
-      - `moderation` 适度；节制；温和；缓和
-      - `moderator` [核] 慢化剂；仲裁人；调解人；缓和剂
-      - `moderated` 指该讨论区设有信件区管理人
-      - `moderateness` 适度；温和；暖和（moderate的名词形式）
+      - `moderation`
+        - 适度；节制；温和；缓和
+      - `moderator`
+        - [核] 慢化剂；仲裁人；调解人；缓和剂
+      - `moderated`
+        - 指该讨论区设有信件区管理人
+      - `moderateness`
+        - 适度；温和；暖和（moderate的名词形式）
     - v.
-      - `moderated` 缓和，节制（moderate的过去分词）
-      - `moderating` 和缓；减轻；主持（moderate的ing形式）
+      - `moderated`
+        - 缓和，节制（moderate的过去分词）
+      - `moderating`
+        - 和缓；减轻；主持（moderate的ing形式）
   - 近义词
-    - adj. 稳健的，温和的；适度的，中等的；有节制的
-      - `pacific`
-      - `medium`
-      - `secondary`
-      - `soft`
-      - `middle`
-    - vi. 变缓和，变弱
-      - `weaken`
-    - vt. 节制；减轻
-      - `deny oneself`
-      - `allay`
+    - adj.
+      - 稳健的，温和的；适度的，中等的；有节制的
+        - `pacific`
+        - `medium`
+        - `secondary`
+        - `soft`
+        - `middle`
+    - vi.
+      - 变缓和，变弱
+        - `weaken`
+    - vt.
+      - 节制；减轻
+        - `deny oneself`
+        - `allay`
   - 短语
-    - `moderate price` 公平价格；公道价格 
-    - `moderate temperature` 中等温度 
-    - `moderate intensity` 中等强度 
-    - `moderate climate` 温和气候 
-    - `moderate size` 不大不小 
-    - `moderate rainfall` 适度降雨量；中等雨量 
-    - `moderate rain` 中雨 
+    - `moderate price`
+      - 公平价格；公道价格 
+    - `moderate temperature`
+      - 中等温度 
+    - `moderate intensity`
+      - 中等强度 
+    - `moderate climate`
+      - 温和气候 
+    - `moderate size`
+      - 不大不小 
+    - `moderate rainfall`
+      - 适度降雨量；中等雨量 
+    - `moderate rain`
+      - 中雨 
   - 例句
     - `Even moderate amounts of alcohol can be dangerous.`
       - 喝酒即使不多也会有危险。

@@ -1,15 +1,19 @@
 - sangfroid
   - 发音
-    - 英 `/sɑːŋ'frwɑː/`
-    - 美 `/undefined/`
+    - 英
+      - `/sɑːŋ'frwɑː/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 沉着，冷静
+    - n.
+      - 沉着，冷静
   - 记忆
     - 来自法语， 原意为“冷血的”； sang(血) + froid(冷的) → 冷血的
   - 近义词
-    - n. 沉着；冷静
-      - `imperturbation`
-      - `composedness`
+    - n.
+      - 沉着；冷静
+        - `imperturbation`
+        - `composedness`
   - 例句
     - `The commander showed great sangfroid and acted without ever losing his composure.`
       - 船长表现得尤其从容镇定，行动中丝毫没有失去冷静。

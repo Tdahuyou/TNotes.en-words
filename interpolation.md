@@ -1,31 +1,51 @@
 - interpolation
   - 发音
-    - 英 `/ɪn,tɜːpəʊ'leɪʃən/`
-    - 美 `/ɪn,tɚpə'leʃən/`
+    - 英
+      - `/ɪn,tɜːpəʊ'leɪʃən/`
+    - 美
+      - `/ɪn,tɚpə'leʃən/`
   - 词义
-    - n. 篡改,添写,插补
+    - n.
+      - 篡改,添写,插补
   - 同根词
     - n.
-      - `interposition` 干涉，介入；插入，放入
+      - `interposition`
+        - 干涉，介入；插入，放入
     - vi.
-      - `interpolate` 插入；篡改
-      - `interpose` 干预；插入；调停
+      - `interpolate`
+        - 插入；篡改
+      - `interpose`
+        - 干预；插入；调停
     - vt.
-      - `interpolate` 篡改；插入新语句
-      - `interpose` 提出（异议等）；使插入；使干涉
+      - `interpolate`
+        - 篡改；插入新语句
+      - `interpose`
+        - 提出（异议等）；使插入；使干涉
   - 近义词
-    - n. 插入；篡改；添写
-      - `insertion`
-      - `manipulation`
+    - n.
+      - 插入；篡改；添写
+        - `insertion`
+        - `manipulation`
   - 短语
-    - `interpolation method` 插值法；内插法；插补方法 
-    - `linear interpolation` 线性插值；线性内插法；直线切削 
-    - `spline interpolation` 样条插值，样条内插；仿样内插法 
-    - `circular interpolation` 环形内插法 
-    - `spatial interpolation` 空间内插，空间插值 
-    - `bilinear interpolation` 双线性插值 
-    - `interpolation error` 内插误差 
-    - `interpolation formula` [计]插值公式 
-    - `quadratic interpolation` 二次插值，二次插值法 
-    - `cubic interpolation` 三次插值；三次内插 
-    - `interpolation polynomial` 插值多项式 
+    - `interpolation method`
+      - 插值法；内插法；插补方法 
+    - `linear interpolation`
+      - 线性插值；线性内插法；直线切削 
+    - `spline interpolation`
+      - 样条插值，样条内插；仿样内插法 
+    - `circular interpolation`
+      - 环形内插法 
+    - `spatial interpolation`
+      - 空间内插，空间插值 
+    - `bilinear interpolation`
+      - 双线性插值 
+    - `interpolation error`
+      - 内插误差 
+    - `interpolation formula`
+      - [计]插值公式 
+    - `quadratic interpolation`
+      - 二次插值，二次插值法 
+    - `cubic interpolation`
+      - 三次插值；三次内插 
+    - `interpolation polynomial`
+      - 插值多项式 

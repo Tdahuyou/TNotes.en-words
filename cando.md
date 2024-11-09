@@ -1,12 +1,16 @@
 - cando
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 私人公寓
+    - n.
+      - 私人公寓
   - 近义词
-    - adj. 热心的，诚挚的
-      - `sincere`
-      - `eager`
-      - `enthusiastic`
-      - `keen`
+    - adj.
+      - 热心的，诚挚的
+        - `sincere`
+        - `eager`
+        - `enthusiastic`
+        - `keen`

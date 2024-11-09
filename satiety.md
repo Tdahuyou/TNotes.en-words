@@ -1,26 +1,37 @@
 - satiety
   - 发音
-    - 英 `/sə'taɪɪtɪ/`
-    - 美 `/sə'taɪəti/`
+    - 英
+      - `/sə'taɪɪtɪ/`
+    - 美
+      - `/sə'taɪəti/`
   - 词义
-    - n. 过饱
-    - `the condition of feeling that you have had enough of something, for example food`
+    - n.
+      - 过饱
+        - `the condition of feeling that you have had enough of something, for example food`
   - 同根词
     - adj.
-      - `satiate` 饱足的；厌腻的
-      - `sated` 充分满足了的；过饱的
-      - `satiable` 可满足的
+      - `satiate`
+        - 饱足的；厌腻的
+      - `sated`
+        - 充分满足了的；过饱的
+      - `satiable`
+        - 可满足的
     - n.
-      - `satisfaction` 满意，满足；赔偿；乐事；赎罪
-      - `satiation` 饱满；饱食；满足；厌腻
+      - `satisfaction`
+        - 满意，满足；赔偿；乐事；赎罪
+      - `satiation`
+        - 饱满；饱食；满足；厌腻
     - v.
-      - `sated` 充分满足；使饱享（sate的过去式）
+      - `sated`
+        - 充分满足；使饱享（sate的过去式）
     - vt.
-      - `satiate` 充分满足；使厌腻
+      - `satiate`
+        - 充分满足；使厌腻
   - 近义词
-    - n. 满足，饱足；过多
-      - `content`
-      - `fill`
+    - n.
+      - 满足，饱足；过多
+        - `content`
+        - `fill`
   - 例句
     - `physical feelings of hunger and satiety`
       - 饥饿和饱足等生理感觉

@@ -1,14 +1,18 @@
 - sanguinary
   - 发音
-    - 英 `/'sængwɪn(ə)rɪ/`
-    - 美 `/undefined/`
+    - 英
+      - `/'sængwɪn(ə)rɪ/`
+    - 美
+      - `/undefined/`
   - 词义
-    - adj. 血腥的；流血的；残暴的
-    - `involving violence and killing`
+    - adj.
+      - 血腥的；流血的；残暴的
+        - `involving violence and killing`
   - 近义词
-    - adj. 血腥的；流血的；残暴的
-      - `bloodier`
-      - `bleeding`
+    - adj.
+      - 血腥的；流血的；残暴的
+        - `bloodier`
+        - `bleeding`
   - 例句
     - `Suicide bombings ensuing due to revenge are prevalent in certain regions where sanguinary conflicts among various ethnic, religious and interest groups are ubiquitous.`
       - 自杀性爆炸事件的接连发生是因为到处存在那些被各种伦理性，宗教性及兴趣的团体在一些发生流血冲突的地区作恶。

@@ -1,13 +1,18 @@
 - occasionally
   - 发音
-    - 英 `/əˈkeɪʒnəli/`
-    - 美 `/o'keʒənəli/`
+    - 英
+      - `/əˈkeɪʒnəli/`
+    - 美
+      - `/o'keʒənəli/`
   - 词义
-    - adv. 有时候,偶而
+    - adv.
+      - 有时候,偶而
   - 同根词
     - adj.
-      - `occasional` 偶然的；临时的；特殊场合的
+      - `occasional`
+        - 偶然的；临时的；特殊场合的
   - 近义词
-    - adv. 偶而，间或
-      - `sometimes`
-      - `betweenwhiles`
+    - adv.
+      - 偶而，间或
+        - `sometimes`
+        - `betweenwhiles`

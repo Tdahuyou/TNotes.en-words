@@ -1,23 +1,31 @@
 - irradiate
   - 发音
-    - 英 `/ɪ'reɪdɪeɪt/`
-    - 美 `/ɪ'redɪɪt/`
+    - 英
+      - `/ɪ'reɪdɪeɪt/`
+    - 美
+      - `/ɪ'redɪɪt/`
   - 词义
-    - v. 照耀；使灿烂；启发；放射；使某物生辉
-    - `if someone or something is irradiated,  x-rays  or  radioactive  beams are passed through them`
-    - adj. 发光的
+    - v.
+      - 照耀；使灿烂；启发；放射；使某物生辉
+        - `if someone or something is irradiated,  x-rays  or  radioactive  beams are passed through them`
+    - adj.
+      - 发光的
   - 同根词
     - n.
-      - `irradiation` 照射；发光，放射
+      - `irradiation`
+        - 照射；发光，放射
   - 近义词
-    - vt. 照耀；使灿烂；启发；放射
-      - `suggest`
-      - `ray`
-    - vi. 照射；使某事物生辉
-      - `beam`
-    - adj. 发光的
-      - `luminous`
-      - `light-emitting`
+    - vt.
+      - 照耀；使灿烂；启发；放射
+        - `suggest`
+        - `ray`
+    - vi.
+      - 照射；使某事物生辉
+        - `beam`
+    - adj.
+      - 发光的
+        - `luminous`
+        - `light-emitting`
   - 例句
     - `...the Chernobyl disaster, which irradiated large parts of Europe.`
       - ...辐射了欧洲大部的切尔诺贝利灾难。

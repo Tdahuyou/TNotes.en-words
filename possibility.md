@@ -1,27 +1,36 @@
 - possibility
   - 发音
-    - 英 `/,pɒsɪ'bɪlɪtɪ/`
-    - 美 `/,pɑsə'bɪləti/`
+    - 英
+      - `/,pɒsɪ'bɪlɪtɪ/`
+    - 美
+      - `/,pɑsə'bɪləti/`
   - 词义
-    - n. 可能性
-    - `if there is a possibility that something is true or that something will happen, it might be true or it might happen`
+    - n.
+      - 可能性
+        - `if there is a possibility that something is true or that something will happen, it might be true or it might happen`
   - 同根词
     - adj.
-      - `possible` 可能的；合理的；合适的
+      - `possible`
+        - 可能的；合理的；合适的
     - adv.
-      - `possibly` 可能地；也许；大概
+      - `possibly`
+        - 可能地；也许；大概
     - n.
-      - `possible` 可能性；合适的人；可能的事物
+      - `possible`
+        - 可能性；合适的人；可能的事物
   - 近义词
-    - n. 可能性；可能发生的事物
-      - `probability`
-      - `feasibility`
-      - `potential`
-      - `maybe`
-      - `chance`
+    - n.
+      - 可能性；可能发生的事物
+        - `probability`
+        - `feasibility`
+        - `potential`
+        - `maybe`
+        - `chance`
   - 短语
-    - `production possibility` 生产可能性 
-    - `by any possibility` 万一；可能 
+    - `production possibility`
+      - 生产可能性 
+    - `by any possibility`
+      - 万一；可能 
   - 例句
     - `There’s always a possibility that he might go back to Seattle.`
       - 他也许会回到西雅图去，这种可能性一直存在。

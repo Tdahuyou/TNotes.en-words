@@ -1,17 +1,22 @@
 - fern
   - 发音
-    - 英 `/fɜːn/`
-    - 美 `/fɝn/`
+    - 英
+      - `/fɜːn/`
+    - 美
+      - `/fɝn/`
   - 词义
-    - n. 蕨类植物
-    - `a type of plant with green leaves shaped like large feathers, but no flowers`
+    - n.
+      - 蕨类植物
+        - `a type of plant with green leaves shaped like large feathers, but no flowers`
   - 同根词
     - adj.
-      - `ferny` 蕨类的；多蕨的；像蕨的
+      - `ferny`
+        - 蕨类的；多蕨的；像蕨的
   - 近义词
-    - n. [植]蕨；蕨类植物
-      - `Pteridophyta`
-      - `filicales`
+    - n.
+      - [植]蕨；蕨类植物
+        - `Pteridophyta`
+        - `filicales`
   - 例句
     - `A ladder fern springs from a crack in the 1979 lava flows from Kilauea Volcano on the Big Island of Hawaii.`
       - 1979年，夏威夷大岛上蕨类植物生长在基拉韦厄火山所流出的阶梯形的岩浆上。

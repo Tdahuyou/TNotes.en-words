@@ -1,10 +1,13 @@
 - Chinatown
   - 发音
-    - 英 `/'tʃaɪnə,taʊn/`
-    - 美 `/'tʃaɪnə,taʊn/`
+    - 英
+      - `/'tʃaɪnə,taʊn/`
+    - 美
+      - `/'tʃaɪnə,taʊn/`
   - 词义
-    - n. 唐人街
-    - `an area in a city where there are Chinese restaurants and shops, and where a lot of Chinese people live`
+    - n.
+      - 唐人街
+        - `an area in a city where there are Chinese restaurants and shops, and where a lot of Chinese people live`
   - 例句
     - `It’s usually available in hardware stores and Chinatown.`
       - 它通常在五金商店和唐人街可以买到。

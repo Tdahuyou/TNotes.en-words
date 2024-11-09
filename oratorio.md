@@ -1,15 +1,19 @@
 - oratorio
   - 发音
-    - 英 `/ˌɔːrə'tɔːriou/`
-    - 美 `/,ɔrə'tɔrɪo/`
+    - 英
+      - `/ˌɔːrə'tɔːriou/`
+    - 美
+      - `/,ɔrə'tɔrɪo/`
   - 词义
-    - n. 清唱剧，宗教剧
-    - `a long piece of music in which a large group of people sing`
+    - n.
+      - 清唱剧，宗教剧
+        - `a long piece of music in which a large group of people sing`
   - 记忆
     - or(说) + at + orio(表音乐类) → 配以说话的音乐 → 清唱剧
   - 近义词
-    - n. 清唱剧；宗教剧
-      - `cantata`
+    - n.
+      - 清唱剧；宗教剧
+        - `cantata`
   - 例句
     - `Its peaks are the symphony and the oratorio.`
       - 其顶峰为交响乐和清唱剧。

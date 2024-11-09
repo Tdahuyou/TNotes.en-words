@@ -1,20 +1,28 @@
 - comically
   - 发音
-    - 英 `/'kɒmɪklɪ/`
-    - 美 `/undefined/`
+    - 英
+      - `/'kɒmɪklɪ/`
+    - 美
+      - `/undefined/`
   - 词义
-    - adv. 滑稽地
+    - adv.
+      - 滑稽地
   - 同根词
     - adj.
-      - `comic` 喜剧的；滑稽的；有趣的
-      - `comical` 滑稽的，好笑的
+      - `comic`
+        - 喜剧的；滑稽的；有趣的
+      - `comical`
+        - 滑稽的，好笑的
     - n.
-      - `comic` 连环漫画；喜剧演员；滑稽人物
-      - `comicality` 诙谐；滑稽
+      - `comic`
+        - 连环漫画；喜剧演员；滑稽人物
+      - `comicality`
+        - 诙谐；滑稽
   - 近义词
-    - adv. 滑稽地；诙谐地
-      - `ludicrously`
-      - `jestingly`
+    - adv.
+      - 滑稽地；诙谐地
+        - `ludicrously`
+        - `jestingly`
   - 例句
     - `On Saturday, they giggled at a Michael Jackson imitator wearing headphones and doing a comically poor imitation of the artist, seemingly for himself.`
       - 一位迈克杰克逊的模仿者逗得他们咯咯笑，他戴着耳机，滑稽地模仿麦克，好像并不为给别人看。

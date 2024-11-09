@@ -1,14 +1,19 @@
 - scallop
   - 发音
-    - 英 `/'skɒləp; 'skæləp/`
-    - 美 `/'skæləp/`
+    - 英
+      - `/'skɒləp; 'skæləp/`
+    - 美
+      - `/'skæləp/`
   - 词义
-    - n. 扇贝，干贝
-    - `a small sea creature that you can eat, with a flat round shell made of two parts that fit together`
-    - v. 使成扇形
+    - n.
+      - 扇贝，干贝
+        - `a small sea creature that you can eat, with a flat round shell made of two parts that fit together`
+    - v.
+      - 使成扇形
   - 近义词
-    - n. [无脊椎]扇贝，[水产]干贝
-      - `scollop`
+    - n.
+      - [无脊椎]扇贝，[水产]干贝
+        - `scollop`
   - 例句
     - `The rays in turn decimated the bay scallop populations around North Carolina.`
       - 而它们转而大量 捕食了美国北卡罗来纳州的海湾扇贝。

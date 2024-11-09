@@ -1,22 +1,29 @@
 - expository
   - 发音
-    - 英 `/ɪk'spɑːzətɔːri/`
-    - 美 `/ɪk'spɑzətɔri/`
+    - 英
+      - `/ɪk'spɑːzətɔːri/`
+    - 美
+      - `/ɪk'spɑzətɔri/`
   - 词义
-    - adj. 说明的
+    - adj.
+      - 说明的
   - 记忆
     - 来自exposit(v. 解释， 说明)
   - 同根词
     - adj.
-      - `expositive` 解释的；说明的
+      - `expositive`
+        - 解释的；说明的
     - n.
-      - `expositor` 解释者；说明者；评注者
+      - `expositor`
+        - 解释者；说明者；评注者
     - vt.
-      - `exposit` 揭示；显示；解释，说明
+      - `exposit`
+        - 揭示；显示；解释，说明
   - 近义词
-    - adj. 说明的；解释的；评注的（等于expositive）
-      - `explanatory`
-      - `illustrative`
+    - adj.
+      - 说明的；解释的；评注的（等于expositive）
+        - `explanatory`
+        - `illustrative`
   - 例句
     - `An expository treatise or series of annotations; an exegesis .`
       - 注释，训诂说明性的论述或一系列注解；

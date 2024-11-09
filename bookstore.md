@@ -1,15 +1,20 @@
 - bookstore
   - 发音
-    - 英 `/'bukstɔːr/`
-    - 美 `/bʊkstɔr/`
+    - 英
+      - `/'bukstɔːr/`
+    - 美
+      - `/bʊkstɔr/`
   - 词义
-    - n. 书店
-    - `a shop that sells books`
+    - n.
+      - 书店
+        - `a shop that sells books`
   - 近义词
-    - n. [贸易]书店（等于bookshop）
-      - `libraire`
+    - n.
+      - [贸易]书店（等于bookshop）
+        - `libraire`
   - 短语
-    - `online bookstore` 在线网上书店 
+    - `online bookstore`
+      - 在线网上书店 
   - 例句
     - `I like to go bookstore on my spare time.`
       - 我喜欢在我的业余时间去书店。

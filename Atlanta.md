@@ -1,11 +1,15 @@
 - Atlanta
   - 发音
-    - 英 `/ætˈlæntə/`
-    - 美 `/æt'læntə/`
+    - 英
+      - `/ætˈlæntə/`
+    - 美
+      - `/æt'læntə/`
   - 词义
-    - n. 亚特兰大（女名；城市名）
+    - n.
+      - 亚特兰大（女名；城市名）
   - 短语
-    - `atlanta hawks` 亚特兰大老鹰队（NBA球队） 
+    - `atlanta hawks`
+      - 亚特兰大老鹰队（NBA球队） 
   - 例句
     - `Atlanta is below Washington.`
       - 亚特兰大比华盛顿更靠南。

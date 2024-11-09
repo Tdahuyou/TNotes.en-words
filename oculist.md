@@ -1,13 +1,17 @@
 - oculist
   - 发音
-    - 英 `/'ɒkjʊlɪst/`
-    - 美 `/'ɑkjəlɪst/`
+    - 英
+      - `/'ɒkjʊlɪst/`
+    - 美
+      - `/'ɑkjəlɪst/`
   - 词义
-    - n. 眼科医生
-    - `a doctor who examines and treats people’s eyes`
+    - n.
+      - 眼科医生
+        - `a doctor who examines and treats people’s eyes`
   - 近义词
-    - n. [眼科]眼科医生，眼科医师
-      - `ophthalmologist`
+    - n.
+      - [眼科]眼科医生，眼科医师
+        - `ophthalmologist`
   - 例句
     - `The father stood there with his son. Before the latter was the great oculist in the act of cutting away the last bandage.`
       - 父与子都站在那里，新郎面前，站着那位眼科专家，正在割断最后一条绷带。

@@ -1,25 +1,33 @@
 - controversial
   - 发音
-    - 英 `/ˌkɑːntrə'vɜːrʃl/`
-    - 美 `/,kɑntrə'vɝʃl/`
+    - 英
+      - `/ˌkɑːntrə'vɜːrʃl/`
+    - 美
+      - `/,kɑntrə'vɝʃl/`
   - 词义
-    - adj. 引起争论的，有争议的
-    - `causing a lot of disagreement, because many people have strong opinions about the subject being discussed`
+    - adj.
+      - 引起争论的，有争议的
+        - `causing a lot of disagreement, because many people have strong opinions about the subject being discussed`
   - 记忆
     - contro(相反) + vers(转) + ial → 反着转 → 引起争论的
   - 同根词
     - adv.
-      - `controversially` 颇有争议地；引起争议地
+      - `controversially`
+        - 颇有争议地；引起争议地
     - n.
-      - `controversy` 争论；论战；辩论
+      - `controversy`
+        - 争论；论战；辩论
     - vi.
-      - `controvert` 争论；辩论
+      - `controvert`
+        - 争论；辩论
     - vt.
-      - `controvert` 驳斥；就…展开争论
+      - `controvert`
+        - 驳斥；就…展开争论
   - 近义词
-    - adj. 有争议的；有争论的
-      - `disputed`
-      - `questioned`
+    - adj.
+      - 有争议的；有争论的
+        - `disputed`
+        - `questioned`
   - 例句
     - `the controversial issue of welfare reform`
       - 福利改革这一有争议的话题

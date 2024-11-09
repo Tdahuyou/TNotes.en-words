@@ -1,16 +1,20 @@
 - apprise
   - 发音
-    - 英 `/ə'praɪz/`
-    - 美 `/ə'praiz/`
+    - 英
+      - `/ə'praɪz/`
+    - 美
+      - `/ə'praiz/`
   - 词义
-    - vt. 通知，告诉
-    - `to tell or give someone information about something`
+    - vt.
+      - 通知，告诉
+        - `to tell or give someone information about something`
   - 记忆
     - ap(向， 往) + pris(拿， 带) + e → 把某物带给某人 → 通知， 告诉
   - 近义词
-    - vt. 通知；报告
-      - `message`
-      - `inform of`
+    - vt.
+      - 通知；报告
+        - `message`
+        - `inform of`
   - 例句
     - `Have customers been fully apprised of the advantages?`
       - 客户有没有被充分告知各项好处呢？

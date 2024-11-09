@@ -1,13 +1,17 @@
 - mammonism
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 拜金主义,贪财
+    - n.
+      - 拜金主义,贪财
   - 近义词
-    - n. 拜金主义；贪财
-      - `money worship`
-      - `plutolatry`
+    - n.
+      - 拜金主义；贪财
+        - `money worship`
+        - `plutolatry`
   - 例句
     - `I don't know somebody who are mammonism .`
       - 我不理解那些拜金主义的人。

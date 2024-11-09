@@ -1,21 +1,27 @@
 - annals
   - 发音
-    - 英 `/'ænlz/`
-    - 美 `/'ænlz/`
+    - 英
+      - `/'ænlz/`
+    - 美
+      - `/'ænlz/`
   - 词义
-    - n. 编年史；年报
-    - `used in the titles of official records of events or activities`
+    - n.
+      - 编年史；年报
+        - `used in the titles of official records of events or activities`
   - 记忆
     - ann (年) + als → 编年史
   - 同根词
     - adj.
-      - `annalistic` 编年史的
+      - `annalistic`
+        - 编年史的
   - 近义词
-    - n. 年报；编年史；[图情]年鉴
-      - `yearly report`
-      - `annual report`
+    - n.
+      - 年报；编年史；[图情]年鉴
+        - `yearly report`
+        - `annual report`
   - 短语
-    - `spring and autumn annals` 春秋（中国史书） 
+    - `spring and autumn annals`
+      - 春秋（中国史书） 
   - 例句
     - `the Annals of the Zoological Society`
       - 《动物学学会年报》

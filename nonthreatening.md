@@ -1,9 +1,12 @@
 - nonthreatening
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - adj. 非胁迫的
+    - adj.
+      - 非胁迫的
   - 例句
     - `Even when issues have come up in the course of implementation, DeSutter said, the ensuing dialogues always have been carried out in a professional, serious and nonthreatening manner.`
       - 德萨特说，即使在执行过程中出现问题，随后开展的对话总是以专业化、严肃和非威胁的方式进行。

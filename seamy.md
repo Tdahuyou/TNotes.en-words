@@ -1,30 +1,41 @@
 - seamy
   - 发音
-    - 英 `/'siːmi/`
-    - 美 `/'simi/`
+    - 英
+      - `/'siːmi/`
+    - 美
+      - `/'simi/`
   - 词义
-    - adj. 丑恶的，污秽的
-    - `involving unpleasant things such as crime, violence, or immorality`
+    - adj.
+      - 丑恶的，污秽的
+        - `involving unpleasant things such as crime, violence, or immorality`
   - 记忆
     - seam(缝)+y → 裂缝里的 → 污秽的
   - 同根词
     - adj.
-      - `seamless` 无缝的；无缝合线的；无伤痕的
-      - `seamed` 有缝的；有皱纹的
+      - `seamless`
+        - 无缝的；无缝合线的；无伤痕的
+      - `seamed`
+        - 有缝的；有皱纹的
     - n.
-      - `seam` 缝；接缝
+      - `seam`
+        - 缝；接缝
     - v.
-      - `seamed` 缝合；接合；使产生皱纹/伤痕；产生裂缝（原形seam）
+      - `seamed`
+        - 缝合；接合；使产生皱纹/伤痕；产生裂缝（原形seam）
     - vi.
-      - `seam` 裂开；产生裂缝
+      - `seam`
+        - 裂开；产生裂缝
     - vt.
-      - `seam` 缝合；接合；使留下伤痕
+      - `seam`
+        - 缝合；接合；使留下伤痕
   - 近义词
-    - adj. 丑恶的；露出线缝的
-      - `hideous`
-      - `misshapen`
+    - adj.
+      - 丑恶的；露出线缝的
+        - `hideous`
+        - `misshapen`
   - 短语
-    - `the seamy side` 阴暗面 
+    - `the seamy side`
+      - 阴暗面 
   - 例句
     - `the seamy side of the World Wide Web`
       - 万维网的阴暗面

@@ -1,10 +1,13 @@
 - Englishman
   - 发音
-    - 英 `/'iŋɡliʃmən/`
-    - 美 `/'iŋɡliʃmən/`
+    - 英
+      - `/'iŋɡliʃmən/`
+    - 美
+      - `/'iŋɡliʃmən/`
   - 词义
-    - n. 英国人
-    - `a man from England`
+    - n.
+      - 英国人
+        - `a man from England`
   - 例句
     - `He was the only Englishman present.`
       - 他是在场的唯一一名英国人。

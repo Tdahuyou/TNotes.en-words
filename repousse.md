@@ -1,12 +1,17 @@
 - repousse
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. （冲压细工制成）凸纹面；凸纹制作术
-    - adj. 凸纹饰的；金属细工的
+    - n.
+      - （冲压细工制成）凸纹面；凸纹制作术
+    - adj.
+      - 凸纹饰的；金属细工的
   - 记忆
     - 来自repous(v. 冲压)
   - 近义词
-    - adj. 凸纹饰的；金属细工的
-      - `toreutic`
+    - adj.
+      - 凸纹饰的；金属细工的
+        - `toreutic`

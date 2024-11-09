@@ -1,33 +1,50 @@
 - excessive
   - 发音
-    - 英 `/ɪk'sesɪv; ek-/`
-    - 美 `/ɪkˈsɛsɪv/`
+    - 英
+      - `/ɪk'sesɪv; ek-/`
+    - 美
+      - `/ɪkˈsɛsɪv/`
   - 词义
-    - adj. 过多的,过分的
-    - `much more than is reasonable or necessary`
+    - adj.
+      - 过多的,过分的
+        - `much more than is reasonable or necessary`
   - 同根词
     - adj.
-      - `excess` 额外的，过量的；附加的
+      - `excess`
+        - 额外的，过量的；附加的
     - adv.
-      - `excessively` 过分地；极度
+      - `excessively`
+        - 过分地；极度
     - n.
-      - `excess` 超过，超额；过度，过量；无节制
-      - `excessiveness` 过度（非常，格外）；冗余
+      - `excess`
+        - 超过，超额；过度，过量；无节制
+      - `excessiveness`
+        - 过度（非常，格外）；冗余
   - 近义词
-    - adj. 过多的，极度的；过分的
-      - `extreme`
-      - `ultra`
-      - `tall`
+    - adj.
+      - 过多的，极度的；过分的
+        - `extreme`
+        - `ultra`
+        - `tall`
   - 短语
-    - `excessive competition` 过度竞争 
-    - `excessive drinking` 酗酒；过度饮酒 
-    - `excessive consumption` 过度消耗；超前消费 
-    - `excessive pressure` 剩余压力；过度压力 
-    - `excessive noise` 过度噪音；过分的吵闹声 
-    - `excessive demand` 过剩需求；过量需求；需求过旺 
-    - `excessive wear` 过度磨损 
-    - `excessive speed` 超速 
-    - `excessive production capacity` 过剩生产能力 
+    - `excessive competition`
+      - 过度竞争 
+    - `excessive drinking`
+      - 酗酒；过度饮酒 
+    - `excessive consumption`
+      - 过度消耗；超前消费 
+    - `excessive pressure`
+      - 剩余压力；过度压力 
+    - `excessive noise`
+      - 过度噪音；过分的吵闹声 
+    - `excessive demand`
+      - 过剩需求；过量需求；需求过旺 
+    - `excessive wear`
+      - 过度磨损 
+    - `excessive speed`
+      - 超速 
+    - `excessive production capacity`
+      - 过剩生产能力 
   - 例句
     - `his excessive drinking`
       - 他的酗酒

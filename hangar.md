@@ -1,14 +1,18 @@
 - hangar
   - 发音
-    - 英 `/'hæŋə/`
-    - 美 `/'hæŋɚ/`
+    - 英
+      - `/'hæŋə/`
+    - 美
+      - `/'hæŋɚ/`
   - 词义
-    - n. 飞机库；飞机棚
-    - `a very large building in which aircraft are kept`
+    - n.
+      - 飞机库；飞机棚
+        - `a very large building in which aircraft are kept`
   - 近义词
-    - n. [航]飞机库；飞机棚
-      - `aerodome`
-      - `garage`
+    - n.
+      - [航]飞机库；飞机棚
+        - `aerodome`
+        - `garage`
   - 例句
     - `Walls on either side of the structure, making it resemble an aircraft hangar, will help isolate debris.`
       - 与飞机库相似，这座建筑的墙在其两端。这两面墙会帮助隔离废墟。

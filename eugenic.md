@@ -1,14 +1,18 @@
 - eugenic
   - 发音
-    - 英 `/juː'dʒenɪk/`
-    - 美 `/undefined/`
+    - 英
+      - `/juː'dʒenɪk/`
+    - 美
+      - `/undefined/`
   - 词义
-    - adj. 优生的
+    - adj.
+      - 优生的
   - 记忆
     - eu(优， 好) + gen(产生) + ic → 优生的
   - 同根词
     - n.
-      - `eugenics` 优生学
+      - `eugenics`
+        - 优生学
   - 例句
     - `Force In order to eugenic and superior nurture, schumann formulated a series of family planning, hope the best with integrity.`
       - 为了优生优育，舒曼制定了一系列的最佳生育计划，希望正直配合。

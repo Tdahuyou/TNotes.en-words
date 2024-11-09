@@ -1,34 +1,55 @@
 - freelance
   - 发音
-    - 英 `/'friːlɑːns/`
-    - 美 `/'frilæns/`
+    - 英
+      - `/'friːlɑːns/`
+    - 美
+      - `/'frilæns/`
   - 词义
-    - n. 自由作家；自由记者
-    - adj. 自由投稿的
-    - `working independently for different companies rather than being employed by one particular company`
+    - n.
+      - 自由作家；自由记者
+    - adj.
+      - 自由投稿的
+        - `working independently for different companies rather than being employed by one particular company`
   - 同根词
     - adj.
-      - `freed` 释放的
-      - `freestyle` 自由式的
-      - `freeborn` 生而自由的；自由民的
-      - `freethinking` 自由思想的
+      - `freed`
+        - 释放的
+      - `freestyle`
+        - 自由式的
+      - `freeborn`
+        - 生而自由的；自由民的
+      - `freethinking`
+        - 自由思想的
     - adv.
-      - `freely` 自由地；免费地；大量地；慷慨地；直率地
-      - `freestyle` 自由地；随心所欲地
+      - `freely`
+        - 自由地；免费地；大量地；慷慨地；直率地
+      - `freestyle`
+        - 自由地；随心所欲地
     - n.
-      - `freedom` 自由，自主；直率
-      - `freehold` 自由保有；[会计] 不动产所有权
-      - `freestyle` 自由式
-      - `freeman` 自由民；享有市民权的人；荣誉市民
-      - `freedman` 自由民；被解放的奴隶
-      - `freedwoman` 自由妇女
-      - `freethinker` 自由思想家
-      - `freethinking` 自由思想
+      - `freedom`
+        - 自由，自主；直率
+      - `freehold`
+        - 自由保有；[会计] 不动产所有权
+      - `freestyle`
+        - 自由式
+      - `freeman`
+        - 自由民；享有市民权的人；荣誉市民
+      - `freedman`
+        - 自由民；被解放的奴隶
+      - `freedwoman`
+        - 自由妇女
+      - `freethinker`
+        - 自由思想家
+      - `freethinking`
+        - 自由思想
     - v.
-      - `freed` 使自由；解放（free的过去分词）
+      - `freed`
+        - 使自由；解放（free的过去分词）
   - 短语
-    - `freelance writer` 自由撰稿人 
-    - `freelance work` 自由职业 
+    - `freelance writer`
+      - 自由撰稿人 
+    - `freelance work`
+      - 自由职业 
   - 例句
     - `Because the reason you freelance is for the freedom, right?`
       - 你选择做自由职业者的原因就是自由，是吧？

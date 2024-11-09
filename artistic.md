@@ -1,35 +1,57 @@
 - artistic
   - 发音
-    - 英 `/ɑːr'tɪstɪk/`
-    - 美 `/ɑr'tɪstɪk/`
+    - 英
+      - `/ɑːr'tɪstɪk/`
+    - 美
+      - `/ɑr'tɪstɪk/`
   - 词义
-    - adj. 艺术的；富有艺术性的，精美的；有艺术天赋的
-    - `relating to art or culture`
+    - adj.
+      - 艺术的；富有艺术性的，精美的；有艺术天赋的
+        - `relating to art or culture`
   - 同根词
     - adv.
-      - `artistically` 在艺术上；富有艺术地
+      - `artistically`
+        - 在艺术上；富有艺术地
     - n.
-      - `artist` 艺术家；美术家（尤指画家）；大师
-      - `artistry` 艺术性；工艺；艺术技巧；艺术效果；艺术工作
+      - `artist`
+        - 艺术家；美术家（尤指画家）；大师
+      - `artistry`
+        - 艺术性；工艺；艺术技巧；艺术效果；艺术工作
   - 近义词
-    - adj. 艺术的；风雅的；有美感的
-      - `art`
+    - adj.
+      - 艺术的；风雅的；有美感的
+        - `art`
   - 短语
-    - `artistic conception` 意境 
-    - `artistic style` 艺术风格 
-    - `artistic form` 艺术形式 
-    - `artistic value` 艺术价值 
-    - `artistic charm` 艺术魅力 
-    - `artistic works` 艺术作品 
-    - `artistic design` 艺术设计；美工设计 
-    - `artistic talent` 艺术才能 
-    - `artistic director` 艺术总监 
-    - `artistic appreciation` 艺术欣赏 
-    - `artistic gymnastics` 艺术体操；竞技体操 
-    - `artistic temperament` 艺术气质 
-    - `artistic culture` 艺术修养 
-    - `artistic merit` 艺术价值；艺术水平；艺术成就 
-    - `artistic ability` 艺术能力 
+    - `artistic conception`
+      - 意境 
+    - `artistic style`
+      - 艺术风格 
+    - `artistic form`
+      - 艺术形式 
+    - `artistic value`
+      - 艺术价值 
+    - `artistic charm`
+      - 艺术魅力 
+    - `artistic works`
+      - 艺术作品 
+    - `artistic design`
+      - 艺术设计；美工设计 
+    - `artistic talent`
+      - 艺术才能 
+    - `artistic director`
+      - 艺术总监 
+    - `artistic appreciation`
+      - 艺术欣赏 
+    - `artistic gymnastics`
+      - 艺术体操；竞技体操 
+    - `artistic temperament`
+      - 艺术气质 
+    - `artistic culture`
+      - 艺术修养 
+    - `artistic merit`
+      - 艺术价值；艺术水平；艺术成就 
+    - `artistic ability`
+      - 艺术能力 
   - 例句
     - `artistic work`
       - 艺术作品

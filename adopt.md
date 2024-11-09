@@ -1,29 +1,41 @@
 - adopt
   - 发音
-    - 英 `/ə'dɑːpt/`
-    - 美 `/ə'dɑpt/`
+    - 英
+      - `/ə'dɑːpt/`
+    - 美
+      - `/ə'dɑpt/`
   - 词义
-    - v. 采用；收养，领养；正式通过，批准
-    - `to take someone else’s child into your home and legally become its parent`
+    - v.
+      - 采用；收养，领养；正式通过，批准
+        - `to take someone else’s child into your home and legally become its parent`
   - 记忆
     - ad + opt(选择) → 采用
   - 同根词
     - adj.
-      - `adopted` 被收养的；被采用的
-      - `adoptive` 采用的；有收养关系的
-      - `adoptable` 可采用的；可收养的
+      - `adopted`
+        - 被收养的；被采用的
+      - `adoptive`
+        - 采用的；有收养关系的
+      - `adoptable`
+        - 可采用的；可收养的
     - n.
-      - `adoption` 采用；收养；接受
-      - `adopter` 养父母；[化工] 接受管
-      - `adoptee` 被收养者；被立嗣者
+      - `adoption`
+        - 采用；收养；接受
+      - `adopter`
+        - 养父母；[化工] 接受管
+      - `adoptee`
+        - 被收养者；被立嗣者
     - v.
-      - `adopted` 采用；接受（adopt的过去式和过去分词）
+      - `adopted`
+        - 采用；接受（adopt的过去式和过去分词）
   - 近义词
-    - vt. 采取；接受；收养；正式通过
-      - `assume`
-      - `take in sth`
+    - vt.
+      - 采取；接受；收养；正式通过
+        - `assume`
+        - `take in sth`
   - 短语
-    - `adopt various methods` 采取不同办法 
+    - `adopt various methods`
+      - 采取不同办法 
   - 例句
     - `Sally was adopted when she was four.`
       - 莎莉四岁时被人收养。

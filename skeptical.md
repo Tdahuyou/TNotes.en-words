@@ -1,21 +1,28 @@
 - skeptical
   - 发音
-    - 英 `/'skeptɪkl/`
-    - 美 `/'skɛptɪkl/`
+    - 英
+      - `/'skeptɪkl/`
+    - 美
+      - `/'skɛptɪkl/`
   - 词义
-    - adj. 怀疑的
+    - adj.
+      - 怀疑的
   - 记忆
     - skep(检查) + tical → 因为怀疑而进行检查 → 怀疑的
   - 同根词
     - adv.
-      - `skeptically` 怀疑地
+      - `skeptically`
+        - 怀疑地
     - n.
-      - `skepticism` 怀疑论；怀疑的态度
-      - `skeptic` 怀疑论者；怀疑者；无神论者
+      - `skepticism`
+        - 怀疑论；怀疑的态度
+      - `skeptic`
+        - 怀疑论者；怀疑者；无神论者
   - 近义词
-    - adj. 怀疑的；怀疑论的，不可知论的
-      - `sceptical`
-      - `suspicious`
+    - adj.
+      - 怀疑的；怀疑论的，不可知论的
+        - `sceptical`
+        - `suspicious`
   - 例句
     - `I think going in they were very skeptical we would get to this point given our history in Seattle.`
       - 我想鉴于西雅图过去的历史，在开始的时候他们对我们能达到这个地步还是有怀疑的。

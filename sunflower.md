@@ -1,16 +1,22 @@
 - sunflower
   - 发音
-    - 英 `/'sʌnflaʊə/`
-    - 美 `/'sʌnflaʊɚ/`
+    - 英
+      - `/'sʌnflaʊə/`
+    - 美
+      - `/'sʌnflaʊɚ/`
   - 词义
-    - n. [植]向日葵
-    - `a very tall plant with a large yellow flower, and seeds that can be eaten`
+    - n.
+      - [植]向日葵
+        - `a very tall plant with a large yellow flower, and seeds that can be eaten`
   - 近义词
-    - n. [作物]向日葵
-      - `helianthus annuus`
+    - n.
+      - [作物]向日葵
+        - `helianthus annuus`
   - 短语
-    - `sunflower oil` 葵花油；向日葵油 
-    - `sunflower seed` 香瓜子，葵花子；向日葵籽 
+    - `sunflower oil`
+      - 葵花油；向日葵油 
+    - `sunflower seed`
+      - 香瓜子，葵花子；向日葵籽 
   - 例句
     - `Do you know how to turn a simple sunflower seed into a piece of delicious meat?`
       - 你知道怎么把一个简单的向日葵花籽变成一片片美味的肉吗？

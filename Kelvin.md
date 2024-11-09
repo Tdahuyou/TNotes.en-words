@@ -1,15 +1,20 @@
 - Kelvin
   - 发音
-    - 英 `/'kelvɪn/`
-    - 美 `/'kɛlvɪn/`
+    - 英
+      - `/'kelvɪn/`
+    - 美
+      - `/'kɛlvɪn/`
   - 词义
-    - n. 绝对温标；凯尔文（男子名）；[热]开尔文（英国物理学家，数学家）
-    - `a scale of temperature in which water freezes at 273.15 K and boils at 373.15 K`
-    - adj. 开氏度的（常作K-）
+    - n.
+      - 绝对温标；凯尔文（男子名）；[热]开尔文（英国物理学家，数学家）
+        - `a scale of temperature in which water freezes at 273.15 K and boils at 373.15 K`
+    - adj.
+      - 开氏度的（常作K-）
   - 近义词
-    - n. 开尔文（英国物理学家，数学家）；凯尔文（男子名）；绝对温标
-      - `absolute scale`
-      - `thermodynamic temperature scale`
+    - n.
+      - 开尔文（英国物理学家，数学家）；凯尔文（男子名）；绝对温标
+        - `absolute scale`
+        - `thermodynamic temperature scale`
   - 例句
     - `He knew he had found Lord Kelvin’s unknown source of heat.`
       - 他知道他发现了开尔文勋爵所说的来源不明的热量。

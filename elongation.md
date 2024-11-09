@@ -1,33 +1,50 @@
 - elongation
   - 发音
-    - 英 `/iːlɒŋ'geɪʃ(ə)n/`
-    - 美 `/ɪ,lɔŋ'ɡeʃən/`
+    - 英
+      - `/iːlɒŋ'geɪʃ(ə)n/`
+    - 美
+      - `/ɪ,lɔŋ'ɡeʃən/`
   - 词义
-    - n. 延长
-    - `the act of elongating or state of being elongated; lengthening `
+    - n.
+      - 延长
+        - `the act of elongating or state of being elongated; lengthening `
   - 同根词
     - adj.
-      - `elongate` 伸长的；延长的
-      - `elongated` 瘦长的，细长的
+      - `elongate`
+        - 伸长的；延长的
+      - `elongated`
+        - 瘦长的，细长的
     - v.
-      - `elongated` 延长（elongate的过去分词）；把…拉长
+      - `elongated`
+        - 延长（elongate的过去分词）；把…拉长
     - vi.
-      - `elongate` 拉长；延长；伸长
+      - `elongate`
+        - 拉长；延长；伸长
     - vt.
-      - `elongate` 拉长；使延长；使伸长
+      - `elongate`
+        - 拉长；使延长；使伸长
   - 近义词
-    - n. 伸长；伸长率；延伸率；延长
-      - `extension`
-      - `stretching`
+    - n.
+      - 伸长；伸长率；延伸率；延长
+        - `extension`
+        - `stretching`
   - 短语
-    - `elongation at break` 断裂伸长；断裂延伸率；破坏时伸长量 
-    - `breaking elongation` 断裂伸长 
-    - `percentage elongation` 伸长率；延伸率 
-    - `elongation percentage` 延伸率；伸长率 
-    - `elongation stage` 拔节期；伸长期 
-    - `tensile elongation` 拉伸，拉伸伸长；延伸率，抗张伸展率 
-    - `specific elongation` 延伸率；伸长率；相对伸长 
-    - `ultimate elongation` 破裂伸长；极限伸长 
+    - `elongation at break`
+      - 断裂伸长；断裂延伸率；破坏时伸长量 
+    - `breaking elongation`
+      - 断裂伸长 
+    - `percentage elongation`
+      - 伸长率；延伸率 
+    - `elongation percentage`
+      - 延伸率；伸长率 
+    - `elongation stage`
+      - 拔节期；伸长期 
+    - `tensile elongation`
+      - 拉伸，拉伸伸长；延伸率，抗张伸展率 
+    - `specific elongation`
+      - 延伸率；伸长率；相对伸长 
+    - `ultimate elongation`
+      - 破裂伸长；极限伸长 
   - 例句
     - `You must be auxin, cause you are causing me to have rapid stem elongation.`
       - 你一定是生长素，因为你让我的茎迅速的延长。

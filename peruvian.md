@@ -1,7 +1,10 @@
 - peruvian
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n&a. 秘鲁人(的)
-    - `A Peruvian is someone who is Peruvian`
+    - n&a.
+      - 秘鲁人(的)
+        - `A Peruvian is someone who is Peruvian`

@@ -1,23 +1,30 @@
 - aberrant
   - 发音
-    - 英 `/æ'berənt/`
-    - 美 `/æ'bɛrənt/`
+    - 英
+      - `/æ'berənt/`
+    - 美
+      - `/æ'bɛrənt/`
   - 词义
-    - adj. 越轨的；异常的
-    - `not usual or normal`
+    - adj.
+      - 越轨的；异常的
+        - `not usual or normal`
   - 记忆
     - ab(离开) + err(徘徊) + ant → 脱离某物徘徊的 → 越轨的； 异常的
   - 同根词
     - n.
-      - `aberration` 失常；离开正路，越轨
-      - `aberrance` 变异；越轨；反常；偏离常轨
-      - `aberrancy` 脱离正道，偏离常轨；反常
+      - `aberration`
+        - 失常；离开正路，越轨
+      - `aberrance`
+        - 变异；越轨；反常；偏离常轨
+      - `aberrancy`
+        - 脱离正道，偏离常轨；反常
   - 近义词
-    - adj. 异常的；畸变的；脱离常轨的；迷乱的
-      - `novel`
-      - `variable`
-      - `exceptional`
-      - `exquisite`
+    - adj.
+      - 异常的；畸变的；脱离常轨的；迷乱的
+        - `novel`
+        - `variable`
+        - `exceptional`
+        - `exquisite`
   - 例句
     - `aberrant behaviour`
       - 异常行为

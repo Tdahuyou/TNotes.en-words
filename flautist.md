@@ -1,10 +1,14 @@
 - flautist
   - 发音
-    - 英 `/'flɔːtɪst/`
-    - 美 `/undefined/`
+    - 英
+      - `/'flɔːtɪst/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 横笛吹奏者（等于flutist）
-    - `A flautist is someone who plays the flute`
+    - n.
+      - 横笛吹奏者（等于flutist）
+        - `A flautist is someone who plays the flute`
   - 近义词
-    - n. 横笛吹奏者（等于flutist）
-      - `flutist`
+    - n.
+      - 横笛吹奏者（等于flutist）
+        - `flutist`

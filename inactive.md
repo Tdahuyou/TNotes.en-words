@@ -1,21 +1,29 @@
 - inactive
   - 发音
-    - 英 `/ɪn'æktɪv/`
-    - 美 `/ɪn'æktɪv/`
+    - 英
+      - `/ɪn'æktɪv/`
+    - 美
+      - `/ɪn'æktɪv/`
   - 词义
-    - adj. 不活动的；怠惰的
-    - `not doing anything, not working, or not moving`
+    - adj.
+      - 不活动的；怠惰的
+        - `not doing anything, not working, or not moving`
   - 同根词
     - n.
-      - `inactivity` 静止；不活泼；休止状态；不放射性
-      - `inaction` 不活动；迟钝
-      - `inactivation` [生物] 失活；[化学] 钝化（作用）
+      - `inactivity`
+        - 静止；不活泼；休止状态；不放射性
+      - `inaction`
+        - 不活动；迟钝
+      - `inactivation`
+        - [生物] 失活；[化学] 钝化（作用）
     - vt.
-      - `inactivate` 使不活动；使不活泼；阻止活动
+      - `inactivate`
+        - 使不活动；使不活泼；阻止活动
   - 近义词
-    - adj. 不活跃的；不活动的；怠惰的；闲置的
-      - `lazy`
-      - `idle`
+    - adj.
+      - 不活跃的；不活动的；怠惰的；闲置的
+        - `lazy`
+        - `idle`
   - 例句
     - `The brain cells are inactive during sleep.`
       - 在睡觉时脑细胞不活跃。

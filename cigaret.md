@@ -1,12 +1,16 @@
 - cigaret
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 香烟；纸烟（等于cigarette）
+    - n.
+      - 香烟；纸烟（等于cigarette）
   - 近义词
-    - n. 香烟；纸烟（等于cigarette）
-      - `coffin nail`
+    - n.
+      - 香烟；纸烟（等于cigarette）
+        - `coffin nail`
   - 例句
     - `The busboy who alerted patrons of the fire at the Hills Super Club said that cigaret butts dumped into soiled tablelinen may have caused the fatal blaze.`
       - 向客人惊呼希尔斯高级俱乐部起火了的餐厅侍者说，这场损失惨重的大火很可能是由于把香烟蒂到在弄脏了的桌布里引起的。

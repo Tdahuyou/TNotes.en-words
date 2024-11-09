@@ -1,13 +1,17 @@
 - anile
   - 发音
-    - 英 `/'eɪnaɪl/`
-    - 美 `/'einail/`
+    - 英
+      - `/'eɪnaɪl/`
+    - 美
+      - `/'einail/`
   - 词义
-    - adj. 衰老的,似老妪的
+    - adj.
+      - 衰老的,似老妪的
   - 近义词
-    - adj. 衰老的；似老妪的
-      - `decrepit`
-      - `senescent`
+    - adj.
+      - 衰老的；似老妪的
+        - `decrepit`
+        - `senescent`
   - 例句
     - `More serious consequence is to cause the joint layer between derma and skin to become thinner and thinner, skin can present anile evidence very quickly.`
       - 更严重的后果是造成真皮与表皮间的接合层变得越来越薄，肌肤就会很快呈现衰老的迹象。

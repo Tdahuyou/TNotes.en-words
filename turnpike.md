@@ -1,10 +1,13 @@
 - turnpike
   - 发音
-    - 英 `/'tɜːrnpaɪk/`
-    - 美 `/'tɝn'paɪk/`
+    - 英
+      - `/'tɜːrnpaɪk/`
+    - 美
+      - `/'tɝn'paɪk/`
   - 词义
-    - n. 收费公路
-    - `a large road for fast traffic that drivers have to pay to use`
+    - n.
+      - 收费公路
+        - `a large road for fast traffic that drivers have to pay to use`
   - 记忆
     - turn(转动) + pike(横杆) → 转动收费杆 → 收费公路
   - 例句

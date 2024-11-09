@@ -1,21 +1,28 @@
 - illiteracy
   - 发音
-    - 英 `/ɪ'lɪt(ə)rəsɪ/`
-    - 美 `/ɪ'lɪtərəsi/`
+    - 英
+      - `/ɪ'lɪt(ə)rəsɪ/`
+    - 美
+      - `/ɪ'lɪtərəsi/`
   - 词义
-    - n. 文盲；无知
-    - `Illiteracy is the state of not knowing how to read or write`
+    - n.
+      - 文盲；无知
+        - `Illiteracy is the state of not knowing how to read or write`
   - 同根词
     - adj.
-      - `illiterate` 文盲的；不识字的；没受教育的
+      - `illiterate`
+        - 文盲的；不识字的；没受教育的
     - n.
-      - `illiterate` 文盲
+      - `illiterate`
+        - 文盲
   - 近义词
-    - n. 文盲；无知
-      - `darkness`
-      - `ignorance`
+    - n.
+      - 文盲；无知
+        - `darkness`
+        - `ignorance`
   - 短语
-    - `eliminate illiteracy` 扫盲，扫除文盲 
+    - `eliminate illiteracy`
+      - 扫盲，扫除文盲 
   - 例句
     - `India tolerated dissent, but it also tolerated inefficiency, disease and illiteracy.`
       - 印度容许异议，但同时它也容忍了无能、疾病与文盲。

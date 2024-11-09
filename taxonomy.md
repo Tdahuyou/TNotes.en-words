@@ -1,24 +1,34 @@
 - taxonomy
   - 发音
-    - 英 `/tæk'sɒnəmɪ/`
-    - 美 `/tæk'sɑnəmi/`
+    - 英
+      - `/tæk'sɒnəmɪ/`
+    - 美
+      - `/tæk'sɑnəmi/`
   - 词义
-    - n. 分类法,分类学
-    - `the process or a system of organizing things into different groups that show their natural relationships, especially plants or animals`
+    - n.
+      - 分类法,分类学
+        - `the process or a system of organizing things into different groups that show their natural relationships, especially plants or animals`
   - 同根词
     - adj.
-      - `taxonomic` [生物] 分类的；[生物] 分类学的
-      - `taxon` 分类的；分类学的
+      - `taxonomic`
+        - [生物] 分类的；[生物] 分类学的
+      - `taxon`
+        - 分类的；分类学的
     - adv.
-      - `taxonomically` 分类学的
+      - `taxonomically`
+        - 分类学的
     - n.
-      - `taxis` 整腹法；反射运动；分类法；（古希腊军队的）分队；排列
-      - `taxon` [生物] 分类单元；分类学
-      - `taxonomist` 分类学者
-  - 近义词
-    - n. [生物]分类学；分类法
-      - `systematics`
       - `taxis`
+        - 整腹法；反射运动；分类法；（古希腊军队的）分队；排列
+      - `taxon`
+        - [生物] 分类单元；分类学
+      - `taxonomist`
+        - 分类学者
+  - 近义词
+    - n.
+      - [生物]分类学；分类法
+        - `systematics`
+        - `taxis`
   - 例句
     - `However, some people consider glossary and taxonomy as metadata as well.`
       - 不过，有些人认为词汇表和分类法也属于元数据的范畴。

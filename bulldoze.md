@@ -1,13 +1,18 @@
 - bulldoze
   - 发音
-    - 英 `/'bʊldəʊz/`
-    - 美 `/'bʊldoz/`
+    - 英
+      - `/'bʊldəʊz/`
+    - 美
+      - `/'bʊldoz/`
   - 词义
-    - v. 威吓,欺负
+    - v.
+      - 威吓,欺负
   - 同根词
     - n.
-      - `bulldozer` 推土机；欺凌者，威吓者
+      - `bulldozer`
+        - 推土机；欺凌者，威吓者
   - 近义词
-    - vt. 强迫；恫吓；用推土机清除
-      - `force`
-      - `enforce`
+    - vt.
+      - 强迫；恫吓；用推土机清除
+        - `force`
+        - `enforce`

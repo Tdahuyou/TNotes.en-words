@@ -1,13 +1,17 @@
 - bifocal
   - 发音
-    - 英 `/baɪ'fəʊk(ə)l/`
-    - 美 `/'baɪ'fokl/`
+    - 英
+      - `/baɪ'fəʊk(ə)l/`
+    - 美
+      - `/'baɪ'fokl/`
   - 词义
-    - adj. 双焦点的
-    - `having two different focuses `
+    - adj.
+      - 双焦点的
+        - `having two different focuses `
   - 同根词
     - n.
-      - `bifocals` 远视近视两用的眼镜
+      - `bifocals`
+        - 远视近视两用的眼镜
   - 例句
     - `He had beautiful skin, with rosy cheeks, blue eyes, rimless round bifocal spectacles, resting on the tip of his nose.`
       - 他皮肤很好，面颊红润，眼睛深蓝，鼻梁上架着一副无框双焦眼镜。

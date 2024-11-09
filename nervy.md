@@ -1,21 +1,29 @@
 - nervy
   - 发音
-    - 英 `/'nɜːvɪ/`
-    - 美 `/'nɝvi/`
+    - 英
+      - `/'nɜːvɪ/`
+    - 美
+      - `/'nɝvi/`
   - 词义
-    - adj. 肌肉发达的,有勇气的,冷静的
+    - adj.
+      - 肌肉发达的,有勇气的,冷静的
   - 同根词
     - adj.
-      - `nervous` 神经的；紧张不安的；强健有力的
+      - `nervous`
+        - 神经的；紧张不安的；强健有力的
     - n.
-      - `nerve` 神经；勇气；[植] 叶脉
-      - `nervousness` 神经质；[心理] 神经过敏；紧张不安
+      - `nerve`
+        - 神经；勇气；[植] 叶脉
+      - `nervousness`
+        - 神经质；[心理] 神经过敏；紧张不安
     - vt.
-      - `nerve` 鼓起勇气
+      - `nerve`
+        - 鼓起勇气
   - 近义词
-    - adj. 有勇气的；易激动的；紧张不安的
-      - `emotional`
-      - `plucky`
+    - adj.
+      - 有勇气的；易激动的；紧张不安的
+        - `emotional`
+        - `plucky`
   - 例句
     - `She was all tired and nervy.`
       - 她很累，又很紧张。

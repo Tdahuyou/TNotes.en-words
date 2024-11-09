@@ -1,10 +1,13 @@
 - CEO
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 〔大公司的〕总裁，首席执行官
-    - `the person with the most authority in a large company`
+    - n.
+      - 〔大公司的〕总裁，首席执行官
+        - `the person with the most authority in a large company`
   - 例句
     - `The book will show you what the best CEO should know.`
       - 这本书会告诉你最好的执行总裁该了解什么。

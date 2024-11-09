@@ -1,18 +1,25 @@
 - calefaction
   - 发音
-    - 英 `/,kælɪ'fækʃən/`
-    - 美 `/,kæli'fækʃən/`
+    - 英
+      - `/,kælɪ'fækʃən/`
+    - 美
+      - `/,kæli'fækʃən/`
   - 词义
-    - n. 加热；热污染（等于thermalpollution）；温暖（的状态）
+    - n.
+      - 加热；热污染（等于thermalpollution）；温暖（的状态）
   - 记忆
     - cale(热) + fact(做) + ion → 加热
   - 同根词
     - adj.
-      - `calefactive` 温的；升温的；暖的
-      - `calefactory` 温暖的；增温的
+      - `calefactive`
+        - 温的；升温的；暖的
+      - `calefactory`
+        - 温暖的；增温的
     - n.
-      - `calefactory` 取暖房；增温物质
+      - `calefactory`
+        - 取暖房；增温物质
   - 近义词
-    - n. 加热；热污染（等于thermal pollution）；温暖（的状态）
-      - `heating up`
-      - `thermal pollution`
+    - n.
+      - 加热；热污染（等于thermal pollution）；温暖（的状态）
+        - `heating up`
+        - `thermal pollution`

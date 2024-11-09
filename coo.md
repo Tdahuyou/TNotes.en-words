@@ -1,19 +1,26 @@
 - coo
   - 发音
-    - 英 `/kuː/`
-    - 美 `/ku/`
+    - 英
+      - `/kuː/`
+    - 美
+      - `/ku/`
   - 词义
-    - vt. 柔声地说
-    - `to make soft quiet sounds, or to speak in a soft quiet way`
+    - vt.
+      - 柔声地说
+        - `to make soft quiet sounds, or to speak in a soft quiet way`
   - 同根词
     - n.
-      - `cooing` 喔啊声；轻柔低语；鸽子咕咕叫
-      - `cooer` 鸽；鸠
+      - `cooing`
+        - 喔啊声；轻柔低语；鸽子咕咕叫
+      - `cooer`
+        - 鸽；鸠
     - v.
-      - `cooing` 鸽子咕咕叫；温声细语（coo的ing形式）
+      - `cooing`
+        - 鸽子咕咕叫；温声细语（coo的ing形式）
   - 近义词
-    - n. 咕咕声；鸽子的叫声
-      - `cuckoo`
+    - n.
+      - 咕咕声；鸽子的叫声
+        - `cuckoo`
   - 例句
     - `‘Darling,’ she cooed.`
       - “亲爱的。”她柔声说道。

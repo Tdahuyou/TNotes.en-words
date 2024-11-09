@@ -1,22 +1,27 @@
 - impart
   - 发音
-    - 英 `/ɪm'pɑːrt/`
-    - 美 `/ɪm'pɑrt/`
+    - 英
+      - `/ɪm'pɑːrt/`
+    - 美
+      - `/ɪm'pɑrt/`
   - 词义
-    - vt. 传授；传达；给予
-    - `to give a particular quality to something`
+    - vt.
+      - 传授；传达；给予
+        - `to give a particular quality to something`
   - 记忆
     - im + part(部分) → 把(知识等)分给某人 → 传授
   - 同根词
     - n.
-      - `impartation` 给予；告知
+      - `impartation`
+        - 给予；告知
   - 近义词
-    - vt. 给予（尤指抽象事物），传授；告知，透露
-      - `afford`
-      - `allow`
-      - `deal`
-      - `reveal`
-      - `extend`
+    - vt.
+      - 给予（尤指抽象事物），传授；告知，透露
+        - `afford`
+        - `allow`
+        - `deal`
+        - `reveal`
+        - `extend`
   - 例句
     - `She had information that she couldn’t wait to impart.`
       - 她得到了消息，迫不及待地想告诉别人。

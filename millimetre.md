@@ -1,17 +1,22 @@
 - millimetre
   - 发音
-    - 英 `/undefined/`
-    - 美 `/'mili,mi:tə/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/'mili,mi:tə/`
   - 词义
-    - n. 毫米；公厘
-    - `a unit for measuring length. There are 1,000 millimetres in one metre.`
+    - n.
+      - 毫米；公厘
+        - `a unit for measuring length. There are 1,000 millimetres in one metre.`
   - 同根词
     - n.
-      - `millimeter` [计量] 毫米
+      - `millimeter`
+        - [计量] 毫米
   - 近义词
-    - n. 毫米；公厘
-      - `strich`
-      - `milimetre`
+    - n.
+      - 毫米；公厘
+        - `strich`
+        - `milimetre`
   - 例句
     - `The creature is a tiny centipede, just 10 millimetres long.`
       - 那个生物是一只很小的蜈蚣，只有10毫米长。

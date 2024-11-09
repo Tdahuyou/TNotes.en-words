@@ -1,21 +1,28 @@
 - wily
   - 发音
-    - 英 `/'waili/`
-    - 美 `/'waɪli/`
+    - 英
+      - `/'waili/`
+    - 美
+      - `/'waɪli/`
   - 词义
-    - adj. 老谋深算的
+    - adj.
+      - 老谋深算的
   - 记忆
     - 来自wile (v. / n. 诡计)
   - 同根词
     - n.
-      - `wile` 诡计，阴谋
-      - `wiliness` 狡猾；诡计多端
+      - `wile`
+        - 诡计，阴谋
+      - `wiliness`
+        - 狡猾；诡计多端
     - vt.
-      - `wile` 欺骗，诱骗；消遣
+      - `wile`
+        - 欺骗，诱骗；消遣
   - 近义词
-    - adj. 狡猾的；诡计多端的
-      - `designing`
-      - `knowing`
-      - `subtle`
-      - `tricky`
-      - `guileful`
+    - adj.
+      - 狡猾的；诡计多端的
+        - `designing`
+        - `knowing`
+        - `subtle`
+        - `tricky`
+        - `guileful`

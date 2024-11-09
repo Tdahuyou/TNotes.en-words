@@ -1,10 +1,14 @@
 - reenter
   - 发音
-    - 英 `/,riː'entə/`
-    - 美 `/ri'ɛntɚ/`
+    - 英
+      - `/,riː'entə/`
+    - 美
+      - `/ri'ɛntɚ/`
   - 词义
-    - n. 重进入,再加入
-    - v. 重返
+    - n.
+      - 重进入,再加入
+    - v.
+      - 重返
   - 例句
     - `After waiting a while, and with a fresh canary, the miners could safely reenter the mine.`
       - 过一段时间之后，如果新换上的金丝雀安然无恙，矿工们又可以安全地重返矿井。

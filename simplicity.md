@@ -1,27 +1,36 @@
 - simplicity
   - 发音
-    - 英 `/sɪm'plɪsəti/`
-    - 美 `/sɪm'plɪsəti/`
+    - 英
+      - `/sɪm'plɪsəti/`
+    - 美
+      - `/sɪm'plɪsəti/`
   - 词义
-    - n. 简单，容易；朴素，质朴
-    - `the quality of being simple and not complicated, especially when this is attractive or useful`
+    - n.
+      - 简单，容易；朴素，质朴
+        - `the quality of being simple and not complicated, especially when this is attractive or useful`
   - 记忆
     - simpl(e)(简单的) + ic + ity(表性质、 状态， 名词后缀) → 简单(性)
   - 同根词
     - adj.
-      - `simple` 简单的；单纯的；天真的
+      - `simple`
+        - 简单的；单纯的；天真的
     - adv.
-      - `simply` 简单地；仅仅；简直；朴素地；坦白地
+      - `simply`
+        - 简单地；仅仅；简直；朴素地；坦白地
     - n.
-      - `simple` 笨蛋；愚蠢的行为；出身低微者
+      - `simple`
+        - 笨蛋；愚蠢的行为；出身低微者
     - vt.
-      - `simplify` 简化；使单纯；使简易
+      - `simplify`
+        - 简化；使单纯；使简易
   - 近义词
-    - n. 朴素；简易；天真；愚蠢
-      - `homeliness`
-      - `austerity`
+    - n.
+      - 朴素；简易；天真；愚蠢
+        - `homeliness`
+        - `austerity`
   - 短语
-    - `for simplicity` 为简单起见 
+    - `for simplicity`
+      - 为简单起见 
   - 例句
     - `Mona wrote with a beautiful simplicity of style.`
       - 莫娜的文笔朴实优美。

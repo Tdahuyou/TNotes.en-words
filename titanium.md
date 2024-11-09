@@ -1,23 +1,38 @@
 - titanium
   - 发音
-    - 英 `/taɪ'teɪnɪəm; tɪ-/`
-    - 美 `/taɪ'tenɪəm; tɪ-/`
+    - 英
+      - `/taɪ'teɪnɪəm; tɪ-/`
+    - 美
+      - `/taɪ'tenɪəm; tɪ-/`
   - 词义
-    - n. [化]钛
-    - `a strong light silver-white metal that is used to make aircraft and spacecraft, and is often combined with other metals. It is a chemical  element  : symbol Ti`
+    - n.
+      - [化]钛
+        - `a strong light silver-white metal that is used to make aircraft and spacecraft, and is often combined with other metals. It is a chemical  element  : symbol Ti`
   - 短语
-    - `titanium alloy` 钛合金 
-    - `titanium dioxide` 二氧化钛 
-    - `titanium white` 钛白 
-    - `titanium oxide` 三氧化钛 
-    - `titanium pigment` 钛白粉；钛颜料 
-    - `titanium sponge` 海绵钛 
-    - `titanium tetrachloride` 四氯化钛 
-    - `sponge titanium` 海绵钛 
-    - `titanium nitride` 氮化钛 
-    - `titanium sulfate` n. 硫酸钛 
-    - `titanium carbide` 碳化钡 
-    - `titanium steel` 钛钢 
+    - `titanium alloy`
+      - 钛合金 
+    - `titanium dioxide`
+      - 二氧化钛 
+    - `titanium white`
+      - 钛白 
+    - `titanium oxide`
+      - 三氧化钛 
+    - `titanium pigment`
+      - 钛白粉；钛颜料 
+    - `titanium sponge`
+      - 海绵钛 
+    - `titanium tetrachloride`
+      - 四氯化钛 
+    - `sponge titanium`
+      - 海绵钛 
+    - `titanium nitride`
+      - 氮化钛 
+    - `titanium sulfate`
+      - n. 硫酸钛 
+    - `titanium carbide`
+      - 碳化钡 
+    - `titanium steel`
+      - 钛钢 
   - 例句
     - `And, this is a really clever reaction because titanium tetrachloride is a gas.`
       - 这是一个非常巧妙的反应,因为四氯化钛是一种气体。

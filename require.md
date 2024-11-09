@@ -1,26 +1,33 @@
 - require
   - 发音
-    - 英 `/rɪ'kwaɪə/`
-    - 美 `/rɪ'kwaɪr/`
+    - 英
+      - `/rɪ'kwaɪə/`
+    - 美
+      - `/rɪ'kwaɪr/`
   - 词义
-    - v. 需要
-    - `to need something`
+    - v.
+      - 需要
+        - `to need something`
   - 记忆
     - re(再， 又) + quir(=quest追求) + e → 需要
   - 同根词
     - adj.
-      - `required` 必需的；（美）必修的
+      - `required`
+        - 必需的；（美）必修的
     - n.
-      - `requirement` 要求；必要条件；必需品
+      - `requirement`
+        - 要求；必要条件；必需品
     - v.
-      - `required` 需要（require的过去式及过去分词形式）；要求
+      - `required`
+        - 需要（require的过去式及过去分词形式）；要求
   - 近义词
-    - vt. 需要；要求；命令
-      - `lack`
-      - `exact`
-      - `desire`
-      - `order`
-      - `command`
+    - vt.
+      - 需要；要求；命令
+        - `lack`
+        - `exact`
+        - `desire`
+        - `order`
+        - `command`
   - 例句
     - `Campbell’s broken leg will probably require surgery.`
       - 坎贝尔的一条腿骨折，可能需要手术。

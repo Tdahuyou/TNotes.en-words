@@ -1,26 +1,35 @@
 - admissible
   - 发音
-    - 英 `/əd'misəbl/`
-    - 美 `/əd'mɪsəbl/`
+    - 英
+      - `/əd'misəbl/`
+    - 美
+      - `/əd'mɪsəbl/`
   - 词义
-    - adj. 容许的；可采纳的
-    - `admissible reasons, facts etc are acceptable or allowed, especially in a court of law`
+    - adj.
+      - 容许的；可采纳的
+        - `admissible reasons, facts etc are acceptable or allowed, especially in a court of law`
   - 记忆
     - admiss (看作admit， 容许； 采纳) + ible (可…的) → 可容许的； 可采纳的
   - 同根词
     - adj.
-      - `admissive` 认可的；容许的
+      - `admissive`
+        - 认可的；容许的
     - n.
-      - `admission` 承认；入场费；进入许可；坦白；录用
-      - `admissibility` 可容许；有入场的资格
+      - `admission`
+        - 承认；入场费；进入许可；坦白；录用
+      - `admissibility`
+        - 可容许；有入场的资格
     - vi.
-      - `admit` 承认；容许
+      - `admit`
+        - 承认；容许
     - vt.
-      - `admit` 承认；准许进入；可容纳
+      - `admit`
+        - 承认；准许进入；可容纳
   - 近义词
-    - adj. 可容许的；可采纳的；可接受的
-      - `accepted`
-      - `receivable`
+    - adj.
+      - 可容许的；可采纳的；可接受的
+        - `accepted`
+        - `receivable`
   - 例句
     - `{"COLLOINEXA":["admissible evidence"]}`
       - 可采信的证据

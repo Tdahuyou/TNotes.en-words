@@ -1,29 +1,40 @@
 - scenery
   - 发音
-    - 英 `/'siːn(ə)rɪ/`
-    - 美 `/'sinəri/`
+    - 英
+      - `/'siːn(ə)rɪ/`
+    - 美
+      - `/'sinəri/`
   - 词义
-    - n. 风景,景色
-    - `the natural features of a particular part of a country that you can see, such as mountains, forests, deserts etc`
+    - n.
+      - 风景,景色
+        - `the natural features of a particular part of a country that you can see, such as mountains, forests, deserts etc`
   - 同根词
     - adj.
-      - `scenic` 风景优美的；舞台的；戏剧的
+      - `scenic`
+        - 风景优美的；舞台的；戏剧的
     - adv.
-      - `scenically` 布景地；风景优美地
+      - `scenically`
+        - 布景地；风景优美地
     - n.
-      - `scenic` 风景胜地；风景照片
-      - `sceneshifter` 换布景者
+      - `scenic`
+        - 风景胜地；风景照片
+      - `sceneshifter`
+        - 换布景者
   - 近义词
-    - n. 风景；景色；舞台布景
-      - `landscape`
-      - `view`
-      - `picture`
-      - `prospect`
-      - `outlook`
+    - n.
+      - 风景；景色；舞台布景
+        - `landscape`
+        - `view`
+        - `picture`
+        - `prospect`
+        - `outlook`
   - 短语
-    - `natural scenery` 自然风光 
-    - `picturesque scenery` 山清水秀；景色如画 
-    - `scenery spot` 景点；风景区 
+    - `natural scenery`
+      - 自然风光 
+    - `picturesque scenery`
+      - 山清水秀；景色如画 
+    - `scenery spot`
+      - 景点；风景区 
   - 例句
     - `The best part of the trip was the fantastic scenery.`
       - 此次旅行最精彩之处就是那美妙绝伦的风景。

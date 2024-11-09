@@ -1,9 +1,13 @@
 - Americanism
   - 发音
-    - 英 `/ə'merikənizəm/`
-    - 美 `/ə'merikənizəm/`
+    - 英
+      - `/ə'merikənizəm/`
+    - 美
+      - `/ə'merikənizəm/`
   - 词义
-    - adj. 美国所创,美国风俗,美国精神
+    - adj.
+      - 美国所创,美国风俗,美国精神
   - 同根词
     - n.
-      - `america` 美国；美洲（包括北美和南美洲）
+      - `america`
+        - 美国；美洲（包括北美和南美洲）

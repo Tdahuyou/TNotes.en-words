@@ -1,10 +1,13 @@
 - topsoil
   - 发音
-    - 英 `/'tɑːpsɔɪl/`
-    - 美 `/'tɑp'sɔɪl/`
+    - 英
+      - `/'tɑːpsɔɪl/`
+    - 美
+      - `/'tɑp'sɔɪl/`
   - 词义
-    - n. 表层土
-    - `the upper level of soil in which most plants have their roots`
+    - n.
+      - 表层土
+        - `the upper level of soil in which most plants have their roots`
   - 记忆
     - top(顶上的) + soil(土地) → 表层土
   - 例句

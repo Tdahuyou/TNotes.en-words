@@ -1,26 +1,37 @@
 - originality
   - 发音
-    - 英 `/ə,rɪdʒɪ'nælɪtɪ/`
-    - 美 `/ə'rɪdʒə'næləti/`
+    - 英
+      - `/ə,rɪdʒɪ'nælɪtɪ/`
+    - 美
+      - `/ə'rɪdʒə'næləti/`
   - 词义
-    - n. 独创性
-    - `when something is completely new and different from anything that anyone has thought of before`
+    - n.
+      - 独创性
+        - `when something is completely new and different from anything that anyone has thought of before`
   - 同根词
     - adj.
-      - `original` 原始的；最初的；独创的；新颖的
-      - `originative` 有创作力的；有发明之才能的
+      - `original`
+        - 原始的；最初的；独创的；新颖的
+      - `originative`
+        - 有创作力的；有发明之才能的
     - n.
-      - `original` 原件；原作；原物；原型
-      - `origin` 起源；原点；出身；开端
-      - `origination` 起源；开始；起始
+      - `original`
+        - 原件；原作；原物；原型
+      - `origin`
+        - 起源；原点；出身；开端
+      - `origination`
+        - 起源；开始；起始
     - vi.
-      - `originate` 发源；发生；起航
+      - `originate`
+        - 发源；发生；起航
     - vt.
-      - `originate` 引起；创作
+      - `originate`
+        - 引起；创作
   - 近义词
-    - n. 创意；独创性，创造力；原始；新奇
-      - `creativity`
-      - `novelty`
+    - n.
+      - 创意；独创性，创造力；原始；新奇
+        - `creativity`
+        - `novelty`
   - 例句
     - `Her earlier work shows a lot of originality.`
       - 她的早期作品显示出丰富的独创性。

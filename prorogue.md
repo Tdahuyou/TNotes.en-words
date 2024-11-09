@@ -1,12 +1,16 @@
 - prorogue
   - 发音
-    - 英 `/prəʊ'rəʊg/`
-    - 美 `/prəu'rəuɡ/`
+    - 英
+      - `/prəʊ'rəʊg/`
+    - 美
+      - `/prəu'rəuɡ/`
   - 词义
-    - v. 休会；延期
-    - `to discontinue the meetings of (a legislative body) without dissolving it `
+    - v.
+      - 休会；延期
+        - `to discontinue the meetings of (a legislative body) without dissolving it `
   - 记忆
     - pro(前面) + rog(问) + ue → 在前面通知下次开会(的日期) → 休会
   - 同根词
     - n.
-      - `prorogation` 休会；闭会
+      - `prorogation`
+        - 休会；闭会

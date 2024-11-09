@@ -1,18 +1,24 @@
 - stubbornly
   - 发音
-    - 英 `/'stʌbɚnli/`
-    - 美 `/'stʌbɚnli/`
+    - 英
+      - `/'stʌbɚnli/`
+    - 美
+      - `/'stʌbɚnli/`
   - 词义
-    - adv. 固执地
+    - adv.
+      - 固执地
   - 同根词
     - adj.
-      - `stubborn` 顽固的；顽强的；难处理的
+      - `stubborn`
+        - 顽固的；顽强的；难处理的
     - n.
-      - `stubbornness` 倔强；顽强；棘手
+      - `stubbornness`
+        - 倔强；顽强；棘手
   - 近义词
-    - adv. 顽固地；倔强地
-      - `obstinately`
-      - `obdurately`
+    - adv.
+      - 顽固地；倔强地
+        - `obstinately`
+        - `obdurately`
   - 例句
     - `And for those who stubbornly suggest pricing above what I believe the market will bear, I say 'best of luck to you.`
       - 对于那些顽固地要求比我认为市场能承受的更高的价码的卖主，我会说上一句：“祝您好运”。

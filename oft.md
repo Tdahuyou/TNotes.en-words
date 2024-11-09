@@ -1,18 +1,23 @@
 - oft
   - 发音
-    - 英 `/ɒft/`
-    - 美 `/ɔft/`
+    - 英
+      - `/ɒft/`
+    - 美
+      - `/ɔft/`
   - 词义
-    - adv. 常常,再三
-    - `often`
+    - adv.
+      - 常常,再三
+        - `often`
   - 同根词
     - adv.
-      - `often` 常常，时常
-  - 近义词
-    - adv. 常常；再三
       - `often`
-      - `forever`
-      - `always`
+        - 常常，时常
+  - 近义词
+    - adv.
+      - 常常；再三
+        - `often`
+        - `forever`
+        - `always`
   - 例句
     - `Then came to him the disciples of John, saying, Why do we and the Pharisees fast oft, but thy disciples fast not?`
       - 那时，约翰的门徒来见耶稣说，我们和法利赛人常常禁食，你的门徒倒不禁食，这是为什么呢。

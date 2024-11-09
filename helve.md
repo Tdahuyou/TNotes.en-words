@@ -1,11 +1,15 @@
 - helve
   - 发音
-    - 英 `/helv/`
-    - 美 `/hɛlv/`
+    - 英
+      - `/helv/`
+    - 美
+      - `/hɛlv/`
   - 词义
-    - n. 柄
-    - `the handle of a hand tool such as an axe or pick `
+    - n.
+      - 柄
+        - `the handle of a hand tool such as an axe or pick `
   - 近义词
-    - n. 柄
-      - `handle`
-      - `shank`
+    - n.
+      - 柄
+        - `handle`
+        - `shank`

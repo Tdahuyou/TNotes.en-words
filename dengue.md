@@ -1,13 +1,18 @@
 - dengue
   - 发音
-    - 英 `/'deŋgɪ/`
-    - 美 `/'dɛŋɡi/`
+    - 英
+      - `/'deŋgɪ/`
+    - 美
+      - `/'dɛŋɡi/`
   - 词义
-    - n. [内科]登革热
-    - `an acute viral disease transmitted by mosquitoes, characterized by headache, fever, pains in the joints, and skin rash `
+    - n.
+      - [内科]登革热
+        - `an acute viral disease transmitted by mosquitoes, characterized by headache, fever, pains in the joints, and skin rash `
   - 短语
-    - `dengue fever` 登革热（一种传染病） 
-    - `dengue virus` 登革病毒 
+    - `dengue fever`
+      - 登革热（一种传染病） 
+    - `dengue virus`
+      - 登革病毒 
   - 例句
     - `This region, in particular, knows the costs and disruption caused by outbreaks of dengue and Japanese encephalitis.`
       - 这个区域尤其了解登革热和日本脑炎暴发所造成的费用和破坏。

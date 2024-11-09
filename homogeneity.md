@@ -1,18 +1,25 @@
 - homogeneity
   - 发音
-    - 英 `/ˌhɔməudʒe'niːiti/`
-    - 美 `/,hɑmədʒə'niəti/`
+    - 英
+      - `/ˌhɔməudʒe'niːiti/`
+    - 美
+      - `/,hɑmədʒə'niəti/`
   - 词义
-    - n. 同种；同质
+    - n.
+      - 同种；同质
   - 记忆
     - homo (同类) + gene (基因) + ity (表性质) → 具有同种基因 → 同种； 同质
   - 同根词
     - adj.
-      - `homogeneous` 均匀的；[数] 齐次的；同种的
-      - `homogenous` [生物] 同质的；同类的
+      - `homogeneous`
+        - 均匀的；[数] 齐次的；同种的
+      - `homogenous`
+        - [生物] 同质的；同类的
     - n.
-      - `homoeopathy` 顺势疗法；同种疗法
-      - `homogeneousness` 均质性
+      - `homoeopathy`
+        - 顺势疗法；同种疗法
+      - `homogeneousness`
+        - 均质性
   - 例句
     - `The theory is based on the assumption of labor homogeneity.`
       - 劳动价值论是建立在劳动同质性假设基础上的。

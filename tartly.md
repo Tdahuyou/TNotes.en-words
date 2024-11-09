@@ -1,18 +1,26 @@
 - tartly
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - adv. 辛辣地；锋利地
+    - adv.
+      - 辛辣地；锋利地
   - 同根词
     - adj.
-      - `tart` 酸的；锋利的；尖刻的
+      - `tart`
+        - 酸的；锋利的；尖刻的
     - n.
-      - `tart` 果馅饼；妓女
-      - `tartness` 尖酸；锋利；辛辣；讥讽
+      - `tart`
+        - 果馅饼；妓女
+      - `tartness`
+        - 尖酸；锋利；辛辣；讥讽
     - vt.
-      - `tart` 打扮
+      - `tart`
+        - 打扮
   - 近义词
-    - adv. 辛辣地；锋利地
-      - `piquantly`
-      - `saltly`
+    - adv.
+      - 辛辣地；锋利地
+        - `piquantly`
+        - `saltly`

@@ -1,29 +1,41 @@
 - botany
   - 发音
-    - 英 `/'bɑːtəni/`
-    - 美 `/'bɑtəni/`
+    - 英
+      - `/'bɑːtəni/`
+    - 美
+      - `/'bɑtəni/`
   - 词义
-    - n. 植物学；植物
-    - `the scientific study of plants`
+    - n.
+      - 植物学；植物
+        - `the scientific study of plants`
   - 记忆
     - bot(看做about， 关于) + any(任何) → 关于任何(植物) → 植物学
   - 同根词
     - adj.
-      - `botanical` 植物学的
-      - `botanic` 植物的；植物学的
+      - `botanical`
+        - 植物学的
+      - `botanic`
+        - 植物的；植物学的
     - n.
-      - `botanical` 植物性药材
-      - `botanist` 植物学家
-      - `botanize` 研究并采集植物
+      - `botanical`
+        - 植物性药材
+      - `botanist`
+        - 植物学家
+      - `botanize`
+        - 研究并采集植物
     - vi.
-      - `botanize` 研究植物；采集植物
+      - `botanize`
+        - 研究植物；采集植物
     - vt.
-      - `botanize` 调查研究植物生长情况
+      - `botanize`
+        - 调查研究植物生长情况
   - 近义词
-    - n. [植]植物学；地区植物总称
-      - `phytology`
+    - n.
+      - [植]植物学；地区植物总称
+        - `phytology`
   - 短语
-    - `pharmaceutical botany` 药用植物学 
+    - `pharmaceutical botany`
+      - 药用植物学 
   - 例句
     - `He studied botany at university.`
       - 他在大学学习植物学。

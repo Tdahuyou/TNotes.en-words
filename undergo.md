@@ -1,17 +1,21 @@
 - undergo
   - 发音
-    - 英 `/ˌʌndər'gou/`
-    - 美 `/,ʌndɚ'ɡo/`
+    - 英
+      - `/ˌʌndər'gou/`
+    - 美
+      - `/,ʌndɚ'ɡo/`
   - 词义
-    - vt. 经历；遭受
-    - `if you undergo a change, an unpleasant experience etc, it happens to you or is done to you`
+    - vt.
+      - 经历；遭受
+        - `if you undergo a change, an unpleasant experience etc, it happens to you or is done to you`
   - 近义词
-    - vt. 经历，经受；忍受
-      - `experience`
-      - `stand`
-      - `stomach`
-      - `tough`
-      - `abide`
+    - vt.
+      - 经历，经受；忍受
+        - `experience`
+        - `stand`
+        - `stomach`
+        - `tough`
+        - `abide`
   - 例句
     - `The country has undergone massive changes recently.`
       - 这个国家最近经历了巨大的变化。

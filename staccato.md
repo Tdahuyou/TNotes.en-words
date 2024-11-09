@@ -1,16 +1,22 @@
 - staccato
   - 发音
-    - 英 `/stə'kɑːtəʊ/`
-    - 美 `/stə'kɑto/`
+    - 英
+      - `/stə'kɑːtəʊ/`
+    - 美
+      - `/stə'kɑto/`
   - 词义
-    - n. 断奏，断音
-    - adj. 断奏的，断音的
-    - `A staccato noise consists of a series of short, sharp, separate sounds`
-    - adv. 不连贯地
-    - `if music is played staccato, the notes are cut short`
+    - n.
+      - 断奏，断音
+    - adj.
+      - 断奏的，断音的
+        - `A staccato noise consists of a series of short, sharp, separate sounds`
+    - adv.
+      - 不连贯地
+        - `if music is played staccato, the notes are cut short`
   - 近义词
-    - adv. 不连贯地
-      - `disjointedly`
+    - adv.
+      - 不连贯地
+        - `disjointedly`
   - 例句
     - `His thinking, he said, has taken on a “staccato” quality, reflecting the way he quickly scans short passages of text from many sources online.`
       - 他的思想，他说道，已经呈现出一种“断奏”的特性了，这反映为他在线上众多资源中，常常快速浏览短小文章段落的方式上。

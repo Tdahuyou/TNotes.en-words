@@ -1,13 +1,17 @@
 - successional
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - adj. 接连著的,连续性的
+    - adj.
+      - 接连著的,连续性的
   - 近义词
-    - adj. 连续性的；继续的，接连的
-      - `continuing`
-      - `unbroken`
+    - adj.
+      - 连续性的；继续的，接连的
+        - `continuing`
+        - `unbroken`
   - 例句
     - `The style of the website, must have successional , cannot too too bouncing.`
       - 网站的风格，一定要有连续性，不能太过于跳跃。

@@ -1,18 +1,25 @@
 - displease
   - 发音
-    - 英 `/dɪs'pliːz/`
-    - 美 `/dɪs'pliz/`
+    - 英
+      - `/dɪs'pliːz/`
+    - 美
+      - `/dɪs'pliz/`
   - 词义
-    - v. 使生气；触怒
+    - v.
+      - 使生气；触怒
   - 同根词
     - adj.
-      - `displeased` 不快的；生气的
+      - `displeased`
+        - 不快的；生气的
     - v.
-      - `displeased` 使…不快（displease的过去式和过去分词）
+      - `displeased`
+        - 使…不快（displease的过去式和过去分词）
   - 近义词
-    - vt. 使生气；触怒
-      - `bring out in`
-      - `disoblige`
-    - vi. 使生气；使不快
-      - `bring out in`
-      - `jar on`
+    - vt.
+      - 使生气；触怒
+        - `bring out in`
+        - `disoblige`
+    - vi.
+      - 使生气；使不快
+        - `bring out in`
+        - `jar on`

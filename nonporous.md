@@ -1,13 +1,17 @@
 - nonporous
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - adj. 无细孔的
+    - adj.
+      - 无细孔的
   - 近义词
-    - adj. 无孔的，无孔隙的
-      - `mouthless`
-      - `holeless`
+    - adj.
+      - 无孔的，无孔隙的
+        - `mouthless`
+        - `holeless`
   - 例句
     - `As for your cutting board, use glass or plastic, both of which are nonporous and most resistant to germs.`
       - 玻璃或塑料材质的切菜板不会渗漏，预防细菌滋生效果最好。

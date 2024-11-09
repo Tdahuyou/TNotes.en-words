@@ -1,14 +1,18 @@
 - chimpanzee
   - 发音
-    - 英 `/ˌtʃɪmpæn'ziː/`
-    - 美 `/,tʃɪmpæn'zi/`
+    - 英
+      - `/ˌtʃɪmpæn'ziː/`
+    - 美
+      - `/,tʃɪmpæn'zi/`
   - 词义
-    - n. 黑猩猩
-    - `an intelligent African animal that is like a large monkey without a tail`
+    - n.
+      - 黑猩猩
+        - `an intelligent African animal that is like a large monkey without a tail`
   - 近义词
-    - n. [脊椎]黑猩猩
-      - `jocko`
-      - `pongo`
+    - n.
+      - [脊椎]黑猩猩
+        - `jocko`
+        - `pongo`
   - 例句
     - `And in the other room another chimpanzee is placed.`
       - 而在那个房间里有另一只黑猩猩。

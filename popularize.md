@@ -1,34 +1,51 @@
 - popularize
   - 发音
-    - 英 `/'pɔpjuləraiz/`
-    - 美 `/'pɑpjələraɪz/`
+    - 英
+      - `/'pɔpjuləraiz/`
+    - 美
+      - `/'pɑpjələraɪz/`
   - 词义
-    - v. 普及
-    - `to make a difficult subject or idea able to be easily understood by ordinary people who have no special knowledge about it`
+    - v.
+      - 普及
+        - `to make a difficult subject or idea able to be easily understood by ordinary people who have no special knowledge about it`
   - 同根词
     - abbr.
-      - `pop` 邮局协议（post office protocol）
+      - `pop`
+        - 邮局协议（post office protocol）
     - adj.
-      - `pop` 流行的；通俗的；热门的
-      - `popular` 流行的，通俗的；受欢迎的；大众的；普及的
+      - `pop`
+        - 流行的；通俗的；热门的
+      - `popular`
+        - 流行的，通俗的；受欢迎的；大众的；普及的
     - adv.
-      - `pop` 突然；砰地
-      - `popularly` 流行地；通俗地；普及地；大众地
+      - `pop`
+        - 突然；砰地
+      - `popularly`
+        - 流行地；通俗地；普及地；大众地
     - n.
-      - `pop` 流行音乐；汽水；砰然声；枪击
-      - `popularity` 普及，流行；名气；受大众欢迎
-      - `popularization` 通俗化，大众化；普及
-      - `popularisation` 普及，普通化（等于popularization）
-      - `popularizer` 大众化的人；普及读物；普及者；使普及的人
+      - `pop`
+        - 流行音乐；汽水；砰然声；枪击
+      - `popularity`
+        - 普及，流行；名气；受大众欢迎
+      - `popularization`
+        - 通俗化，大众化；普及
+      - `popularisation`
+        - 普及，普通化（等于popularization）
+      - `popularizer`
+        - 大众化的人；普及读物；普及者；使普及的人
     - vi.
-      - `pop` 突然出现；爆开；射击；瞪大；发出爆裂声
-      - `popularise` 推广，普及；使…通俗化（等于popularize）；使…受欢迎
+      - `pop`
+        - 突然出现；爆开；射击；瞪大；发出爆裂声
+      - `popularise`
+        - 推广，普及；使…通俗化（等于popularize）；使…受欢迎
     - vt.
-      - `pop` 取出；开枪打；抛出；突然伸出；突然行动
+      - `pop`
+        - 取出；开枪打；抛出；突然伸出；突然行动
   - 近义词
-    - vt. 普及；使通俗化
-      - `gain ground`
-      - `vulgarize`
+    - vt.
+      - 普及；使通俗化
+        - `gain ground`
+        - `vulgarize`
   - 例句
     - `Skinner was the psychologist who popularized behavior modification.`
       - 斯金纳就是那位使行为矫正概念得到普及的心理学家。

@@ -1,16 +1,21 @@
 - scurf
   - 发音
-    - 英 `/skɜːf/`
-    - 美 `/skɝf/`
+    - 英
+      - `/skɜːf/`
+    - 美
+      - `/skɝf/`
   - 词义
-    - n. 头皮屑
+    - n.
+      - 头皮屑
   - 同根词
     - adj.
-      - `scurfy` 皮屑的；垢般的；满是头屑的；满是头垢的
+      - `scurfy`
+        - 皮屑的；垢般的；满是头屑的；满是头垢的
   - 近义词
-    - n. [皮肤]头皮屑
-      - `dandruff`
-      - `furfur`
+    - n.
+      - [皮肤]头皮屑
+        - `dandruff`
+        - `furfur`
   - 例句
     - `The monkeys are searching each other's fur for scurf.`
       - 这些猴子正在互相找寻皮毛中的皮屑。

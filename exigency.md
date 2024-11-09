@@ -1,15 +1,20 @@
 - exigency
   - 发音
-    - 英 `/'eksɪdʒənsi/`
-    - 美 `/'ɛksədʒənsi/`
+    - 英
+      - `/'eksɪdʒənsi/`
+    - 美
+      - `/'ɛksədʒənsi/`
   - 词义
-    - n. 紧急要求，迫切需要
+    - n.
+      - 紧急要求，迫切需要
   - 记忆
     - ex(外) + ig(驱赶) + ency → 赶到外边 → 紧急要求
   - 同根词
     - adj.
-      - `exigent` 迫切的；紧急的；苛求的
+      - `exigent`
+        - 迫切的；紧急的；苛求的
   - 近义词
-    - n. 紧急；紧急事件
-      - `urgency`
-      - `emergencies`
+    - n.
+      - 紧急；紧急事件
+        - `urgency`
+        - `emergencies`

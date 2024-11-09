@@ -1,26 +1,35 @@
 - precocious
   - 发音
-    - 英 `/pri'kəuʃəs/`
-    - 美 `/prɪ'koʃəs/`
+    - 英
+      - `/pri'kəuʃəs/`
+    - 美
+      - `/prɪ'koʃəs/`
   - 词义
-    - adj. 早熟的
-    - `a precocious child shows intelligence or skill at a very young age, or behaves in an adult way – sometimes used to show disapproval in British English`
+    - adj.
+      - 早熟的
+        - `a precocious child shows intelligence or skill at a very young age, or behaves in an adult way – sometimes used to show disapproval in British English`
   - 记忆
     - pre (预先) + coci (看作coct， 烹调) + ous (…的) → 预先烹调好的 → 早熟的
   - 同根词
     - adj.
-      - `precocial` 早熟性的
+      - `precocial`
+        - 早熟性的
     - adv.
-      - `precociously` 早熟地
+      - `precociously`
+        - 早熟地
     - n.
-      - `precocity` （人或植物等的）早熟
-      - `precociousness` 早熟
+      - `precocity`
+        - （人或植物等的）早熟
+      - `precociousness`
+        - 早熟
   - 近义词
-    - adj. 早熟的；过早发育的
-      - `early`
-      - `ratheripe`
+    - adj.
+      - 早熟的；过早发育的
+        - `early`
+        - `ratheripe`
   - 短语
-    - `precocious puberty` 性早熟；早熟青春期；性早熟症 
+    - `precocious puberty`
+      - 性早熟；早熟青春期；性早熟症 
   - 例句
     - `a precocious child who walked and talked early`
       - 走路和说话都早的早熟儿童

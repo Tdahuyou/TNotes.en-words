@@ -1,10 +1,13 @@
 - simile
   - 发音
-    - 英 `/'sɪməli/`
-    - 美 `/'sɪməli/`
+    - 英
+      - `/'sɪməli/`
+    - 美
+      - `/'sɪməli/`
   - 词义
-    - n. 明喻
-    - `an expression that describes something by comparing it with something else, using the words ‘as’ or ‘like’, for example ‘as white as snow’`
+    - n.
+      - 明喻
+        - `an expression that describes something by comparing it with something else, using the words ‘as’ or ‘like’, for example ‘as white as snow’`
   - 记忆
     - simil(相同) + e → 相同的东西 → 明喻
   - 例句

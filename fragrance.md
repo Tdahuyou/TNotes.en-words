@@ -1,19 +1,25 @@
 - fragrance
   - 发音
-    - 英 `/'freɪgr(ə)ns/`
-    - 美 `/'fregrəns/`
+    - 英
+      - `/'freɪgr(ə)ns/`
+    - 美
+      - `/'fregrəns/`
   - 词义
-    - n. 芬芳,香气
-    - `a pleasant smell`
+    - n.
+      - 芬芳,香气
+        - `a pleasant smell`
   - 同根词
     - adj.
-      - `fragrant` 芳香的；愉快的
+      - `fragrant`
+        - 芳香的；愉快的
     - n.
-      - `fragrancy` 芬芳
+      - `fragrancy`
+        - 芬芳
   - 近义词
-    - n. 香味，芬芳
-      - `flavour`
-      - `redolence`
+    - n.
+      - 香味，芬芳
+        - `flavour`
+        - `redolence`
   - 例句
     - `...a shrubby plant with a strong characteristic fragrance.`
       - …一种有独特浓郁香味的灌木。

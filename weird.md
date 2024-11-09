@@ -1,28 +1,35 @@
 - weird
   - 发音
-    - 英 `/wɪrd/`
-    - 美 `/wɪrd/`
+    - 英
+      - `/wɪrd/`
+    - 美
+      - `/wɪrd/`
   - 词义
-    - adj. 怪异的，神秘的
-    - `very strange and unusual, and difficult to understand or explain`
+    - adj.
+      - 怪异的，神秘的
+        - `very strange and unusual, and difficult to understand or explain`
   - 记忆
     - we(我们) + ird(看做bird， 鸟) → 如果我们都变成鸟会很怪异 → 怪异的
   - 同根词
     - adv.
-      - `weirdly` 古怪地
+      - `weirdly`
+        - 古怪地
     - n.
-      - `weirdness` 命运；不可思议；离奇
+      - `weirdness`
+        - 命运；不可思议；离奇
   - 近义词
-    - adj. 怪异的；不可思议的；超自然的
-      - `magic`
-      - `mysterious`
-      - `fantastic`
-    - n. （苏格兰）命运；预言
-      - `fate`
-      - `prediction`
-      - `lot`
-      - `destiny`
-      - `fortune`
+    - adj.
+      - 怪异的；不可思议的；超自然的
+        - `magic`
+        - `mysterious`
+        - `fantastic`
+    - n.
+      - （苏格兰）命运；预言
+        - `fate`
+        - `prediction`
+        - `lot`
+        - `destiny`
+        - `fortune`
   - 例句
     - `A really weird thing happened last night.`
       - 昨晚发生了一件非常奇怪的事。

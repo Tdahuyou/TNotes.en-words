@@ -1,27 +1,43 @@
 - southward
   - 发音
-    - 英 `/'saʊθwəd/`
-    - 美 `/'sʌðəd/`
+    - 英
+      - `/'saʊθwəd/`
+    - 美
+      - `/'sʌðəd/`
   - 词义
-    - adj. 向南a向南的
-    - `Southward is also an adjective`
+    - adj.
+      - 向南a向南的
+        - `Southward is also an adjective`
   - 同根词
     - adj.
-      - `south` 南的，南方的
-      - `southern` 南的；南方的
-      - `southerly` 来自南方的；向南的
-      - `southernmost` 最南的
-      - `southmost` 最南的
+      - `south`
+        - 南的，南方的
+      - `southern`
+        - 南的；南方的
+      - `southerly`
+        - 来自南方的；向南的
+      - `southernmost`
+        - 最南的
+      - `southmost`
+        - 最南的
     - adv.
-      - `south` 在南方，向南方
-      - `southerly` 来自南方；向南
-      - `southwards` 往南地；在南方
+      - `south`
+        - 在南方，向南方
+      - `southerly`
+        - 来自南方；向南
+      - `southwards`
+        - 往南地；在南方
     - n.
-      - `south` 南方，南边；南部
-      - `southern` 南方人
-      - `southerner` 南方人
-      - `souther` 正南强风；南风
-      - `southerly` 南风
+      - `south`
+        - 南方，南边；南部
+      - `southern`
+        - 南方人
+      - `southerner`
+        - 南方人
+      - `souther`
+        - 正南强风；南风
+      - `southerly`
+        - 南风
   - 例句
     - `Instead of her normal southward course towards Alexandria and home, she headed west.`
       - 她不走平常向南去亚历山大和家乡的路，而是向西走。

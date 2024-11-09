@@ -1,14 +1,18 @@
 - equipoise
   - 发音
-    - 英 `/'ekwipɔiz/`
-    - 美 `/undefined/`
+    - 英
+      - `/'ekwipɔiz/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 平衡；均衡
-    - `even balance of weight or other forces; equilibrium `
+    - n.
+      - 平衡；均衡
+        - `even balance of weight or other forces; equilibrium `
   - 近义词
-    - n. 平衡；均势
-      - `balance`
-      - `trimm`
+    - n.
+      - 平衡；均势
+        - `balance`
+        - `trimm`
   - 例句
     - `The weights of a scale in equipoise;`
       - 处于平衡状态的秤盘法码；

@@ -1,16 +1,22 @@
 - homestead
   - 发音
-    - 英 `/'houmsted/`
-    - 美 `/'homstɛd/`
+    - 英
+      - `/'houmsted/`
+    - 美
+      - `/'homstɛd/`
   - 词义
-    - n. 家宅，农庄；宅地
-    - `a farm and the area of land around it`
+    - n.
+      - 家宅，农庄；宅地
+        - `a farm and the area of land around it`
   - 同根词
     - n.
-      - `homesteader` 农场所有人；分得土地之定居者；自耕农
+      - `homesteader`
+        - 农场所有人；分得土地之定居者；自耕农
   - 近义词
-    - n. 宅地；家园；田产
-      - `curtilage`
-      - `toft`
+    - n.
+      - 宅地；家园；田产
+        - `curtilage`
+        - `toft`
   - 短语
-    - `homestead act` （美）宅地法 
+    - `homestead act`
+      - （美）宅地法 

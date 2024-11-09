@@ -1,26 +1,34 @@
 - hinder
   - 发音
-    - 英 `/'hɪndər/`
-    - 美 `/'hɪndɚ/`
+    - 英
+      - `/'hɪndər/`
+    - 美
+      - `/'hɪndɚ/`
   - 词义
-    - vt. 阻碍，妨碍
-    - `to make it difficult for something to develop or succeed`
+    - vt.
+      - 阻碍，妨碍
+        - `to make it difficult for something to develop or succeed`
   - 记忆
     - hind(后面的) + er → 落在后面， 拖后腿 → 阻碍， 妨碍
   - 同根词
     - adj.
-      - `hindermost` 最后面的，最靠近后方的
-      - `hindmost` 最后面的，最后部的
+      - `hindermost`
+        - 最后面的，最靠近后方的
+      - `hindmost`
+        - 最后面的，最后部的
     - n.
-      - `hindrance` 障碍；妨碍；妨害；阻碍物
+      - `hindrance`
+        - 障碍；妨碍；妨害；阻碍物
   - 近义词
-    - vt. 阻碍；打扰
-      - `slow`
-      - `impede`
-    - adj. 后面的
-      - `latter`
-      - `back`
-      - `rear`
+    - vt.
+      - 阻碍；打扰
+        - `slow`
+        - `impede`
+    - adj.
+      - 后面的
+        - `latter`
+        - `back`
+        - `rear`
   - 例句
     - `His career has been hindered by injury.`
       - 由于受伤，他的事业受到了阻碍。

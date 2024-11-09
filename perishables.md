@@ -1,12 +1,17 @@
 - perishables
   - 发音
-    - 英 `/'periʃəblz/`
-    - 美 `/'pɛrɪʃəblz/`
+    - 英
+      - `/'periʃəblz/`
+    - 美
+      - `/'pɛrɪʃəblz/`
   - 词义
-    - n. 易腐食品
+    - n.
+      - 易腐食品
   - 短语
-    - `perishable goods` 易腐货物；易损物品 
-    - `perishable food` 容易腐坏的食品；易腐食品 
+    - `perishable goods`
+      - 易腐货物；易损物品 
+    - `perishable food`
+      - 容易腐坏的食品；易腐食品 
   - 例句
     - `The model is applied to optimal control of perishables.`
       - 应用此模型可对易腐产品的库存控制做出最优的决策。

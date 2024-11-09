@@ -1,17 +1,22 @@
 - subliminal
   - 发音
-    - 英 `/ˌsʌb'lɪmɪnl/`
-    - 美 `/,sʌb'lɪmɪnl/`
+    - 英
+      - `/ˌsʌb'lɪmɪnl/`
+    - 美
+      - `/,sʌb'lɪmɪnl/`
   - 词义
-    - adj. 下意识的，潜意识的
-    - `affecting your mind in a way that you are not conscious of`
+    - adj.
+      - 下意识的，潜意识的
+        - `affecting your mind in a way that you are not conscious of`
   - 记忆
     - sub(在…下面) + limin(=limen最小限度的神经刺激) + al → 下意识的， 潜意识的
   - 近义词
-    - adj. [生理]阈下的；潜在意识的；微小得难以察觉的
-      - `subthreshold`
-    - n. 潜意识；阈下意识
-      - `subconsciousness`
+    - adj.
+      - [生理]阈下的；潜在意识的；微小得难以察觉的
+        - `subthreshold`
+    - n.
+      - 潜意识；阈下意识
+        - `subconsciousness`
   - 例句
     - `a subliminal message`
       - 潜在的含义

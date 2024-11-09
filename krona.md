@@ -1,14 +1,18 @@
 - krona
   - 发音
-    - 英 `/'krəunə/`
-    - 美 `/'kronə/`
+    - 英
+      - `/'krəunə/`
+    - 美
+      - `/'kronə/`
   - 词义
-    - n. 克朗
-    - `the standard unit of money in Sweden and Iceland`
+    - n.
+      - 克朗
+        - `the standard unit of money in Sweden and Iceland`
   - 近义词
-    - n. 克朗（瑞典及冰岛的货币单位）
-      - `SEK`
-      - `koruna`
+    - n.
+      - 克朗（瑞典及冰岛的货币单位）
+        - `SEK`
+        - `koruna`
   - 例句
     - `Pound swedish krona swiss franc and canadian dollararealsotrading well above their burger benchmark.`
       - 英镑瑞典克朗瑞士法郎和加拿大元的汇率同样也是高于其汉堡包基准。

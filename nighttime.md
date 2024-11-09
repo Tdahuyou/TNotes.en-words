@@ -1,21 +1,29 @@
 - nighttime
   - 发音
-    - 英 `/'naɪttaɪm/`
-    - 美 `/'naɪt,taɪm/`
+    - 英
+      - `/'naɪttaɪm/`
+    - 美
+      - `/'naɪt,taɪm/`
   - 词义
-    - n. 夜间
-    - `the time during the night`
+    - n.
+      - 夜间
+        - `the time during the night`
   - 同根词
     - adj.
-      - `nightly` 夜间的；每夜的
+      - `nightly`
+        - 夜间的；每夜的
     - adv.
-      - `nightly` 每夜
+      - `nightly`
+        - 每夜
     - n.
-      - `nightrider` 三K党员；美国南部夜间骑马为非作歹的人
-      - `nightwalker` 夜里徘徊者，梦游病患者；夜盗，夜行动物
+      - `nightrider`
+        - 三K党员；美国南部夜间骑马为非作歹的人
+      - `nightwalker`
+        - 夜里徘徊者，梦游病患者；夜盗，夜行动物
   - 近义词
-    - n. 夜间
-      - `nite`
+    - n.
+      - 夜间
+        - `nite`
   - 例句
     - `During the riots last year, the nighttime patrol force was beefed up with volunteers.`
       - 去年骚乱期间志愿者增加了夜间巡逻力量。

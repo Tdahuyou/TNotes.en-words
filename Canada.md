@@ -1,12 +1,17 @@
 - Canada
   - 发音
-    - 英 `/'kænədə/`
-    - 美 `/'kænədə/`
+    - 英
+      - `/'kænədə/`
+    - 美
+      - `/'kænədə/`
   - 词义
   - 短语
-    - `air canada` n. 加拿大航空公司 
-    - `statistics canada` 加拿大统计局 
-    - `canada day` 加拿大国庆日 
+    - `air canada`
+      - n. 加拿大航空公司 
+    - `statistics canada`
+      - 加拿大统计局 
+    - `canada day`
+      - 加拿大国庆日 
   - 例句
     - `She was domiciliated in Canada.`
       - 她在加拿大定居。

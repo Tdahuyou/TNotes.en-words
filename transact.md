@@ -1,24 +1,31 @@
 - transact
   - 发音
-    - 英 `/træn'zækt/`
-    - 美 `/træn'zækt/`
+    - 英
+      - `/træn'zækt/`
+    - 美
+      - `/træn'zækt/`
   - 词义
-    - v. 交易；执行，处理
-    - `to do business with someone`
+    - v.
+      - 交易；执行，处理
+        - `to do business with someone`
   - 记忆
     - trans(穿过) + act(做) → 在两者之间进行 → 交易
   - 同根词
     - n.
-      - `transaction` 交易；事务；办理；会报，学报
-      - `transactor` 办理人；做交易的人；处理者
+      - `transaction`
+        - 交易；事务；办理；会报，学报
+      - `transactor`
+        - 办理人；做交易的人；处理者
   - 近义词
-    - vi. 交易；谈判
-      - `trade`
-      - `traffic`
-      - `exchange`
-    - vt. 办理；处理
-      - `to handle`
-      - `cope with`
+    - vi.
+      - 交易；谈判
+        - `trade`
+        - `traffic`
+        - `exchange`
+    - vt.
+      - 办理；处理
+        - `to handle`
+        - `cope with`
   - 例句
     - `Most deals are transacted over the phone.`
       - 大多数生意都是在电话里成交的。

@@ -1,14 +1,18 @@
 - undaunted
   - 发音
-    - 英 `/ʌn'dɔːntɪd/`
-    - 美 `/,ʌn'dɔntɪd/`
+    - 英
+      - `/ʌn'dɔːntɪd/`
+    - 美
+      - `/,ʌn'dɔntɪd/`
   - 词义
-    - adj. 大无畏的,勇敢的
-    - `not afraid of continuing to try to do something in spite of difficulties or danger`
+    - adj.
+      - 大无畏的,勇敢的
+        - `not afraid of continuing to try to do something in spite of difficulties or danger`
   - 近义词
-    - adj. 勇敢的，无畏的
-      - `game`
-      - `brave`
+    - adj.
+      - 勇敢的，无畏的
+        - `game`
+        - `brave`
   - 例句
     - `But for those undaunted, here's our guide to circumventing internet censorship.`
       - 但是对于那些大无畏者，这里是我们的绕过互联网审查的指南。

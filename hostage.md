@@ -1,21 +1,28 @@
 - hostage
   - 发音
-    - 英 `/'hɒstɪdʒ/`
-    - 美 `/'hɑstɪdʒ/`
+    - 英
+      - `/'hɒstɪdʒ/`
+    - 美
+      - `/'hɑstɪdʒ/`
   - 词义
-    - n. 人质；抵押品
-    - `someone who is kept as a prisoner by an enemy so that the other side will do what the enemy demands`
+    - n.
+      - 人质；抵押品
+        - `someone who is kept as a prisoner by an enemy so that the other side will do what the enemy demands`
   - 同根词
     - n.
-      - `host` [计] 主机；主人；主持人；许多
+      - `host`
+        - [计] 主机；主人；主持人；许多
     - vi.
-      - `host` 群集；做主人
+      - `host`
+        - 群集；做主人
     - vt.
-      - `host` 主持；当主人招待
+      - `host`
+        - 主持；当主人招待
   - 近义词
-    - n. 人质；抵押品
-      - `guarantee`
-      - `pledge`
+    - n.
+      - 人质；抵押品
+        - `guarantee`
+        - `pledge`
   - 例句
     - `The group are holding two tourists hostage (= keeping them as hostages ) .`
       - 这伙人挟持了两名游客作为人质。

@@ -1,9 +1,12 @@
 - aviator
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 飞行员
+    - n.
+      - 飞行员
   - 例句
     - `Like his father, he hopes to become a naval aviator.`
       - 与父亲一样，他希望成为海军飞行员。

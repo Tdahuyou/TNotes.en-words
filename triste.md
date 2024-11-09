@@ -1,11 +1,15 @@
 - triste
   - 发音
-    - 英 `/triːst/`
-    - 美 `/tri:st/`
+    - 英
+      - `/triːst/`
+    - 美
+      - `/tri:st/`
   - 词义
-    - adj. <法>悲哀的
+    - adj.
+      - <法>悲哀的
   - 近义词
-    - adj. 忧郁的；悲哀的；沉闷的
-      - `sad`
-      - `blue`
-      - `dark`
+    - adj.
+      - 忧郁的；悲哀的；沉闷的
+        - `sad`
+        - `blue`
+        - `dark`

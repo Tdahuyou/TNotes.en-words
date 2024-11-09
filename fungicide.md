@@ -1,18 +1,25 @@
 - fungicide
   - 发音
-    - 英 `/'fʌn(d)ʒɪsaɪd; 'fʌŋgɪ-/`
-    - 美 `/'fʌŋgə'saɪd/`
+    - 英
+      - `/'fʌn(d)ʒɪsaɪd; 'fʌŋgɪ-/`
+    - 美
+      - `/'fʌŋgə'saɪd/`
   - 词义
-    - n. 杀真菌剂
-    - `a chemical used for destroying fungus`
+    - n.
+      - 杀真菌剂
+        - `a chemical used for destroying fungus`
   - 同根词
     - adj.
-      - `fungal` 真菌的（等于fungous）
-      - `fungicidal` 真菌的；杀霉菌的
-      - `fungous` 似真菌的；海绵质的
+      - `fungal`
+        - 真菌的（等于fungous）
+      - `fungicidal`
+        - 真菌的；杀霉菌的
+      - `fungous`
+        - 似真菌的；海绵质的
   - 近义词
-    - n. [药]杀真菌剂
-      - `antifungal agent`
+    - n.
+      - [药]杀真菌剂
+        - `antifungal agent`
   - 例句
     - `For one thing, they’re not confined to rats or to the fungicide he fed them.`
       - 一方面，他们不局限于他所喂养的老鼠及他喂给老鼠的杀菌剂。

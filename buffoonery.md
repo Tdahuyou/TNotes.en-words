@@ -1,19 +1,24 @@
 - buffoonery
   - 发音
-    - 英 `/bə'fuːnəri/`
-    - 美 `/bʌ'fʊnəri/`
+    - 英
+      - `/bə'fuːnəri/`
+    - 美
+      - `/bʌ'fʊnəri/`
   - 词义
-    - n. 打诨；滑稽
-    - `Buffoonery is foolish behaviour that makes you laugh`
+    - n.
+      - 打诨；滑稽
+        - `Buffoonery is foolish behaviour that makes you laugh`
   - 记忆
     - 小丑 (buffoon) 爱插科打诨 (buffoonery)
   - 同根词
     - n.
-      - `buffoon` 丑角；滑稽剧演员
+      - `buffoon`
+        - 丑角；滑稽剧演员
   - 近义词
-    - n. 滑稽；打诨
-      - `clownery`
-      - `farcicality`
+    - n.
+      - 滑稽；打诨
+        - `clownery`
+        - `farcicality`
   - 例句
     - `The buffoonery and derision of Language also have very strong comedy result .`
       - 语言上的插科打诨、揶揄嘲笑也有很强的喜剧效果。

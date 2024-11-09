@@ -1,23 +1,30 @@
 - bravo
   - 发音
-    - 英 `/'brɑːvəu/`
-    - 美 `/,brɑ'vo/`
+    - 英
+      - `/'brɑːvəu/`
+    - 美
+      - `/,brɑ'vo/`
   - 词义
-    - n. 亡命徒；喝彩
-    - `used to show your approval when someone, especially a performer, has done something very well`
-    - int. 好啊！妙！
-    - `used to show your approval when someone, especially a performer, has done something very well`
+    - n.
+      - 亡命徒；喝彩
+        - `used to show your approval when someone, especially a performer, has done something very well`
+    - int.
+      - 好啊！妙！
+        - `used to show your approval when someone, especially a performer, has done something very well`
   - 记忆
     - “不赖哦” → 喝彩， 拍手叫好
   - 近义词
-    - n. 喝彩；亡命徒
-      - `plaudit`
-      - `acclamation`
-    - vt. 喝彩
-      - `to applaud`
-      - `cheer for`
-    - int. 好极了
-      - `marvy`
+    - n.
+      - 喝彩；亡命徒
+        - `plaudit`
+        - `acclamation`
+    - vt.
+      - 喝彩
+        - `to applaud`
+        - `cheer for`
+    - int.
+      - 好极了
+        - `marvy`
   - 例句
     - `Bravo! Encore!`
       - 好极了！ 再来一个！

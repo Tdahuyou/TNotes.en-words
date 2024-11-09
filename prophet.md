@@ -1,28 +1,38 @@
 - prophet
   - 发音
-    - 英 `/'prɑːfɪt/`
-    - 美 `/'prɑfɪt/`
+    - 英
+      - `/'prɑːfɪt/`
+    - 美
+      - `/'prɑfɪt/`
   - 词义
-    - n. 先知；预言者；拥护者，鼓吹者
-    - `a man who people in the Christian, Jewish, or Muslim religion believe has been sent by God to lead them and teach them their religion`
+    - n.
+      - 先知；预言者；拥护者，鼓吹者
+        - `a man who people in the Christian, Jewish, or Muslim religion believe has been sent by God to lead them and teach them their religion`
   - 记忆
     - pro(在…前面) + phe(说) + t → 提前说出 → 先知； 预言者
   - 同根词
     - adj.
-      - `prophetic` 预言的，预示的；先知的
+      - `prophetic`
+        - 预言的，预示的；先知的
     - adv.
-      - `prophetically` 预言地
+      - `prophetically`
+        - 预言地
     - n.
-      - `prophecy` 预言；预言书；预言能力
-      - `prophetess` 女先知；女预言家
+      - `prophecy`
+        - 预言；预言书；预言能力
+      - `prophetess`
+        - 女先知；女预言家
     - vi.
-      - `prophesy` 预言；预报；传教
+      - `prophesy`
+        - 预言；预报；传教
     - vt.
-      - `prophesy` 预言；预告
+      - `prophesy`
+        - 预言；预告
   - 近义词
-    - n. 先知；预言者；提倡者
-      - `advocate`
-      - `farseer`
+    - n.
+      - 先知；预言者；提倡者
+        - `advocate`
+        - `farseer`
   - 例句
     - `the prophet Elijah`
       - 先知以利亚

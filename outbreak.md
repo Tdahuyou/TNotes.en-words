@@ -1,20 +1,25 @@
 - outbreak
   - 发音
-    - 英 `/'autbreɪk/`
-    - 美 `/'aʊtbrek/`
+    - 英
+      - `/'autbreɪk/`
+    - 美
+      - `/'aʊtbrek/`
   - 词义
-    - n. 发作；爆发
-    - `if there is an outbreak of fighting or disease in an area, it suddenly starts to happen`
+    - n.
+      - 发作；爆发
+        - `if there is an outbreak of fighting or disease in an area, it suddenly starts to happen`
   - 记忆
     - 来自词组break out(突发， 爆发)
   - 近义词
-    - n. （战争的）爆发；（疾病的）发作
-      - `explosion`
-      - `burst`
-      - `fit`
-    - vi. 爆发
-      - `burst`
-      - `blow up`
+    - n.
+      - （战争的）爆发；（疾病的）发作
+        - `explosion`
+        - `burst`
+        - `fit`
+    - vi.
+      - 爆发
+        - `burst`
+        - `blow up`
   - 例句
     - `a cholera outbreak`
       - 霍乱的爆发

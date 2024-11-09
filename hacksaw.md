@@ -1,11 +1,15 @@
 - hacksaw
   - 发音
-    - 英 `/'hæksɔː/`
-    - 美 `/'hæksɔ/`
+    - 英
+      - `/'hæksɔː/`
+    - 美
+      - `/'hæksɔ/`
   - 词义
-    - n. 钢锯；可锯金属的弓形锯
-    - `a cutting tool with small teeth on its blade, used especially for cutting metal`
-    - vt. 用钢锯锯断
+    - n.
+      - 钢锯；可锯金属的弓形锯
+        - `a cutting tool with small teeth on its blade, used especially for cutting metal`
+    - vt.
+      - 用钢锯锯断
   - 例句
     - `A tube cutter works best but you can use a hacksaw.`
       - 最好用截管器，不过用钢锯也能凑合。

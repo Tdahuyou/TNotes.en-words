@@ -1,33 +1,49 @@
 - exchanger
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 交换器,换热器
-    - `a person or thing that exchanges `
+    - n.
+      - 交换器,换热器
+        - `a person or thing that exchanges `
   - 同根词
     - adj.
-      - `exchanged` 交换的
-      - `exchangeable` 可交换的；可兑换的；可替换的
+      - `exchanged`
+        - 交换的
+      - `exchangeable`
+        - 可交换的；可兑换的；可替换的
     - n.
-      - `exchange` 交换；交流；交易所；兑换
-      - `exchangeability` [贸易] 可交换性
+      - `exchange`
+        - 交换；交流；交易所；兑换
+      - `exchangeability`
+        - [贸易] 可交换性
     - v.
-      - `exchanged` 交换（exchange的过去式）
+      - `exchanged`
+        - 交换（exchange的过去式）
     - vi.
-      - `exchange` 交换；交易；兑换
+      - `exchange`
+        - 交换；交易；兑换
     - vt.
-      - `exchange` 交换；交易；兑换
+      - `exchange`
+        - 交换；交易；兑换
   - 近义词
-    - n. 交换器；交易所；交换程序
-      - `bourse`
-      - `interchanger`
+    - n.
+      - 交换器；交易所；交换程序
+        - `bourse`
+        - `interchanger`
   - 短语
-    - `heat exchanger` 热交换器 
-    - `plate heat exchanger` 板式换热器；膜片式热交换器 
-    - `ion exchanger` [化]离子交换剂 
-    - `anion exchanger` 阴离子交换剂 
-    - `cation exchanger` 阳离子交换器，阳离子交换剂 
+    - `heat exchanger`
+      - 热交换器 
+    - `plate heat exchanger`
+      - 板式换热器；膜片式热交换器 
+    - `ion exchanger`
+      - [化]离子交换剂 
+    - `anion exchanger`
+      - 阴离子交换剂 
+    - `cation exchanger`
+      - 阳离子交换器，阳离子交换剂 
   - 例句
     - `The Zurich laboratory has already constructed a prototype that feeds the water from the chips into a heat-exchanger.`
       - 苏黎世实验室已经建造了一个模型，把从芯片中流出的水引入一个热交换器。

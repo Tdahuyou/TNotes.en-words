@@ -1,12 +1,16 @@
 - Nazi
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 纳粹党人
-    - `a member of the National Socialist Party of Adolf Hitler which controlled Germany from 1933 to 1945`
-    - adj. 纳粹党的
-    - `You use Nazi to say that something relates to the Nazis`
+    - n.
+      - 纳粹党人
+        - `a member of the National Socialist Party of Adolf Hitler which controlled Germany from 1933 to 1945`
+    - adj.
+      - 纳粹党的
+        - `You use Nazi to say that something relates to the Nazis`
   - 例句
     - `What percentage of the audiences is Nazi?`
       - 观众中纳粹的百分率是多少？

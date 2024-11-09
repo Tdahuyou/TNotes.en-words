@@ -1,20 +1,29 @@
 - rentable
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - adj. 可出租的
+    - adj.
+      - 可出租的
   - 同根词
     - adj.
-      - `rental` 租赁的；收取租金的
+      - `rental`
+        - 租赁的；收取租金的
     - n.
-      - `rent` 租金
-      - `rental` 租金收入，租金；租赁
-      - `renter` 承租人；佃户；房东；（英）影片出租商
+      - `rent`
+        - 租金
+      - `rental`
+        - 租金收入，租金；租赁
+      - `renter`
+        - 承租人；佃户；房东；（英）影片出租商
     - vi.
-      - `rent` 租；出租
+      - `rent`
+        - 租；出租
     - vt.
-      - `rent` 出租；租用；租借
+      - `rent`
+        - 出租；租用；租借
   - 例句
     - `Taller buildings also tended to taper inwards, further reducing rentable space; the cost of moving materials and people also soars.`
       - 更高建筑的内部也开始变尖了，进一步减少了可出租的空间；运人运货的成本也直线上升。

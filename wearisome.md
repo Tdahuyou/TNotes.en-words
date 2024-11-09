@@ -1,30 +1,41 @@
 - wearisome
   - 发音
-    - 英 `/'wiərisəm/`
-    - 美 `/'wɪrɪsəm/`
+    - 英
+      - `/'wiərisəm/`
+    - 美
+      - `/'wɪrɪsəm/`
   - 词义
-    - adj. 使疲倦的，使厌倦的，乏味的
-    - `making you feel bored, tired, or annoyed`
+    - adj.
+      - 使疲倦的，使厌倦的，乏味的
+        - `making you feel bored, tired, or annoyed`
   - 记忆
     - 频繁的战争 (war) 让士兵疲倦 (wearisome)
   - 同根词
     - adj.
-      - `weary` 疲倦的；厌烦的；令人厌烦的
-      - `wearing` 磨损的；穿用的；令人疲倦的
+      - `weary`
+        - 疲倦的；厌烦的；令人厌烦的
+      - `wearing`
+        - 磨损的；穿用的；令人疲倦的
     - adv.
-      - `wearily` 疲倦地；无聊地；厌倦地
+      - `wearily`
+        - 疲倦地；无聊地；厌倦地
     - n.
-      - `weariness` 疲倦，疲劳；厌倦
+      - `weariness`
+        - 疲倦，疲劳；厌倦
     - v.
-      - `wearing` 穿着；磨损（wear的ing形式）
+      - `wearing`
+        - 穿着；磨损（wear的ing形式）
     - vi.
-      - `weary` 疲倦；厌烦
+      - `weary`
+        - 疲倦；厌烦
     - vt.
-      - `weary` 使疲倦；使厌烦
+      - `weary`
+        - 使疲倦；使厌烦
   - 近义词
-    - adj. 使疲倦的；使厌倦的；乏味的
-      - `stupid`
-      - `pathetic`
+    - adj.
+      - 使疲倦的；使厌倦的；乏味的
+        - `stupid`
+        - `pathetic`
   - 例句
     - `a wearisome task`
       - 烦人的任务

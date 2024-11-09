@@ -1,17 +1,21 @@
 - treatise
   - 发音
-    - 英 `/'triːtiz/`
-    - 美 `/'tritɪs/`
+    - 英
+      - `/'triːtiz/`
+    - 美
+      - `/'tritɪs/`
   - 词义
-    - n. 论文；论述
-    - `a serious book or article about a particular subject`
+    - n.
+      - 论文；论述
+        - `a serious book or article about a particular subject`
   - 记忆
     - treat (请客) + ise → 为了论文过关， 请导师吃饭 → 论文
   - 近义词
-    - n. 论述；论文；专著
-      - `thesis`
-      - `dissertation`
-      - `discourse`
+    - n.
+      - 论述；论文；专著
+        - `thesis`
+        - `dissertation`
+        - `discourse`
   - 例句
     - `...Locke's Treatise on Civil Government.`
       - ...洛克的《政府论》。

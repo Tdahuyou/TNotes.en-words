@@ -1,18 +1,23 @@
 - hectic
   - 发音
-    - 英 `/'hektik/`
-    - 美 `/'hɛktɪk/`
+    - 英
+      - `/'hektik/`
+    - 美
+      - `/'hɛktɪk/`
   - 词义
-    - adj. 发烧的，发热的；兴奋的
+    - adj.
+      - 发烧的，发热的；兴奋的
   - 记忆
     - “害咳的” → 发烧的
   - 近义词
-    - n. 脸红；患肺结核
-      - `flushing`
-    - adj. 兴奋的，狂热的；脸上发红；肺病的
-      - `crazy`
-      - `wild`
-      - `enthusiastic`
+    - n.
+      - 脸红；患肺结核
+        - `flushing`
+    - adj.
+      - 兴奋的，狂热的；脸上发红；肺病的
+        - `crazy`
+        - `wild`
+        - `enthusiastic`
   - 例句
     - `I’ve had a pretty hectic day.`
       - 我忙乱了一整天。

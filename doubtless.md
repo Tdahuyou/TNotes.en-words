@@ -1,35 +1,47 @@
 - doubtless
   - 发音
-    - 英 `/'daʊtlɪs/`
-    - 美 `/'daʊtləs/`
+    - 英
+      - `/'daʊtlɪs/`
+    - 美
+      - `/'daʊtləs/`
   - 词义
-    - adv. 无疑地；确定地；大概，多半
-    - `used when saying that something is almost certain to happen or be true`
-    - adj. 无疑的；确定的
+    - adv.
+      - 无疑地；确定地；大概，多半
+        - `used when saying that something is almost certain to happen or be true`
+    - adj.
+      - 无疑的；确定的
   - 同根词
     - adj.
-      - `doubtful` 可疑的；令人生疑的；疑心的；不能确定的
-      - `doubting` 不相信的；有疑心的
+      - `doubtful`
+        - 可疑的；令人生疑的；疑心的；不能确定的
+      - `doubting`
+        - 不相信的；有疑心的
     - adv.
-      - `doubtfully` 怀疑地；含糊地
+      - `doubtfully`
+        - 怀疑地；含糊地
     - n.
-      - `doubt` 怀疑；疑问；疑惑
-      - `doubter` 抱怀疑态度的人；不信宗教的人；怀疑论者
+      - `doubt`
+        - 怀疑；疑问；疑惑
+      - `doubter`
+        - 抱怀疑态度的人；不信宗教的人；怀疑论者
     - v.
-      - `doubt` 怀疑；不信；恐怕；拿不准
+      - `doubt`
+        - 怀疑；不信；恐怕；拿不准
   - 近义词
-    - adv. 无疑地；确定地；大概，多半
-      - `easily`
-      - `no doubt`
-      - `probably`
-      - `clearly`
-      - `possibly`
-    - adj. 无疑的；确定的
-      - `established`
-      - `fixed`
-      - `defined`
-      - `certain`
-      - `positive`
+    - adv.
+      - 无疑地；确定地；大概，多半
+        - `easily`
+        - `no doubt`
+        - `probably`
+        - `clearly`
+        - `possibly`
+    - adj.
+      - 无疑的；确定的
+        - `established`
+        - `fixed`
+        - `defined`
+        - `certain`
+        - `positive`
   - 例句
     - `Doubtless there would be lots of rumours.`
       - 无疑会谣言四起。

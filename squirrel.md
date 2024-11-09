@@ -1,18 +1,25 @@
 - squirrel
   - 发音
-    - 英 `/'skwɜːrəl/`
-    - 美 `/ˈskwɜ:rəl; skwɝ​əl/`
+    - 英
+      - `/'skwɜːrəl/`
+    - 美
+      - `/ˈskwɜ:rəl; skwɝ​əl/`
   - 词义
-    - n. 松鼠
-    - `a small animal with a long furry tail that climbs trees and eats nuts`
+    - n.
+      - 松鼠
+        - `a small animal with a long furry tail that climbs trees and eats nuts`
   - 近义词
-    - vt. 贮藏
-      - `store`
-      - `reposit`
+    - vt.
+      - 贮藏
+        - `store`
+        - `reposit`
   - 短语
-    - `squirrel cage` adj. 鼠笼式的 
-    - `ground squirrel` [动]地松鼠 
-    - `flying squirrel` [动]鼯鼠 
+    - `squirrel cage`
+      - adj. 鼠笼式的 
+    - `ground squirrel`
+      - [动]地松鼠 
+    - `flying squirrel`
+      - [动]鼯鼠 
   - 例句
     - `It was moving fast like a squirrel, but it was as loud as a bear.`
       - 它像松鼠一样快速的移动但那声音却像是熊发出的似的。

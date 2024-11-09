@@ -1,28 +1,40 @@
 - questionable
   - 发音
-    - 英 `/'kwestʃ(ə)nəb(ə)l/`
-    - 美 `/'kwɛstʃənəbl/`
+    - 英
+      - `/'kwestʃ(ə)nəb(ə)l/`
+    - 美
+      - `/'kwɛstʃənəbl/`
   - 词义
-    - adj. 可疑的
-    - `not likely to be true or correct`
+    - adj.
+      - 可疑的
+        - `not likely to be true or correct`
   - 同根词
     - adv.
-      - `questionably` 可疑地，不清楚地；不可靠地
-      - `questioningly` 怀疑地；质问地
+      - `questionably`
+        - 可疑地，不清楚地；不可靠地
+      - `questioningly`
+        - 怀疑地；质问地
     - n.
-      - `question` 问题，疑问；询问；疑问句
-      - `questioning` 质问
-      - `questioner` 发问者；质问者
+      - `question`
+        - 问题，疑问；询问；疑问句
+      - `questioning`
+        - 质问
+      - `questioner`
+        - 发问者；质问者
     - v.
-      - `questioning` 询问，审问（question的现在分词）
+      - `questioning`
+        - 询问，审问（question的现在分词）
     - vi.
-      - `question` 询问；怀疑；审问
+      - `question`
+        - 询问；怀疑；审问
     - vt.
-      - `question` 询问；怀疑；审问
+      - `question`
+        - 询问；怀疑；审问
   - 近义词
-    - adj. 可疑的；有问题的
-      - `suspicious`
-      - `doubtful`
+    - adj.
+      - 可疑的；有问题的
+        - `suspicious`
+        - `doubtful`
   - 例句
     - `The statistics are highly questionable.`
       - 这个统计数据大有问题。

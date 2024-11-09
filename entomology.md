@@ -1,19 +1,26 @@
 - entomology
   - 发音
-    - 英 `/,entə'mɒlədʒɪ/`
-    - 美 `/,ɛntə'mɑlədʒi/`
+    - 英
+      - `/,entə'mɒlədʒɪ/`
+    - 美
+      - `/,ɛntə'mɑlədʒi/`
   - 词义
-    - n. 昆虫学
-    - `the scientific study of insects`
+    - n.
+      - 昆虫学
+        - `the scientific study of insects`
   - 同根词
     - adj.
-      - `entomologic` 昆虫学的（等于entomological）
-      - `entomological` 昆虫学的
+      - `entomologic`
+        - 昆虫学的（等于entomological）
+      - `entomological`
+        - 昆虫学的
     - n.
-      - `entomologist` 昆虫学者
+      - `entomologist`
+        - 昆虫学者
   - 近义词
-    - n. [昆]昆虫学
-      - `insectology`
+    - n.
+      - [昆]昆虫学
+        - `insectology`
   - 例句
     - `“We’ve learned quite a lot, ” said K.A. Monney, a professor in the university’s entomology and wildlife department.`
       - “我们学到了很多，”该大学的昆虫学和野生动物系教授K·A·曼尼说。

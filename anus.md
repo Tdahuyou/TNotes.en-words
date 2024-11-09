@@ -1,14 +1,18 @@
 - anus
   - 发音
-    - 英 `/'eɪnəs/`
-    - 美 `/'enəs/`
+    - 英
+      - `/'eɪnəs/`
+    - 美
+      - `/'enəs/`
   - 词义
-    - n. [解剖]肛门
-    - `the hole in your bottom through which solid waste leaves your body`
+    - n.
+      - [解剖]肛门
+        - `the hole in your bottom through which solid waste leaves your body`
   - 近义词
-    - n. [解剖]肛门
-      - `archos`
-      - `arsehole`
+    - n.
+      - [解剖]肛门
+        - `archos`
+        - `arsehole`
   - 例句
     - `The coccyx also supports the position of the anus.`
       - 尾椎骨还对于肛门的部位起到了支撑。

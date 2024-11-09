@@ -1,19 +1,24 @@
 - revile
   - 发音
-    - 英 `/ri'vail/`
-    - 美 `/rɪ'vaɪl/`
+    - 英
+      - `/ri'vail/`
+    - 美
+      - `/rɪ'vaɪl/`
   - 词义
-    - v. 辱骂，斥责
-    - `to express hatred of someone or something`
+    - v.
+      - 辱骂，斥责
+        - `to express hatred of someone or something`
   - 记忆
     - re + vile (卑鄙的， 邪恶的) → 辱骂
   - 同根词
     - n.
-      - `revilement` 辱骂；诽谤
+      - `revilement`
+        - 辱骂；诽谤
   - 近义词
-    - vt. 辱骂；斥责
-      - `abuse`
-      - `tongue`
+    - vt.
+      - 辱骂；斥责
+        - `abuse`
+        - `tongue`
   - 例句
     - `The President was now reviled by the same party he had helped to lead.`
       - 如今谩骂总统的正是他曾经协助领导的那个政党。

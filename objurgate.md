@@ -1,13 +1,18 @@
 - objurgate
   - 发音
-    - 英 `/'ɒbdʒəgeɪt/`
-    - 美 `/əb'dʒɝɡet/`
+    - 英
+      - `/'ɒbdʒəgeɪt/`
+    - 美
+      - `/əb'dʒɝɡet/`
   - 词义
-    - v. 申斥,非难
+    - v.
+      - 申斥,非难
   - 同根词
     - n.
-      - `objurgation` 非难；叱责
+      - `objurgation`
+        - 非难；叱责
   - 近义词
-    - vt. 痛骂；训斥
-      - `ball out`
-      - `bawl out`
+    - vt.
+      - 痛骂；训斥
+        - `ball out`
+        - `bawl out`

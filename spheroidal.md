@@ -1,28 +1,40 @@
 - spheroidal
   - 发音
-    - 英 `/sfɪə'rɒɪdəl/`
-    - 美 `/undefined/`
+    - 英
+      - `/sfɪə'rɒɪdəl/`
+    - 美
+      - `/undefined/`
   - 词义
-    - adj. 球状的
-    - `shaped like an ellipsoid of revolution; approximately spherical `
+    - adj.
+      - 球状的
+        - `shaped like an ellipsoid of revolution; approximately spherical `
   - 同根词
     - adj.
-      - `sphere` 球体的
+      - `sphere`
+        - 球体的
     - adv.
-      - `spherically` 球地；球状地
+      - `spherically`
+        - 球地；球状地
     - n.
-      - `sphere` 范围；球体
-      - `spheroid` 球状体；回转椭球体
-      - `spherule` 小球；小球体
+      - `sphere`
+        - 范围；球体
+      - `spheroid`
+        - 球状体；回转椭球体
+      - `spherule`
+        - 小球；小球体
     - vt.
-      - `sphere` 包围；放入球内；使…成球形
+      - `sphere`
+        - 包围；放入球内；使…成球形
   - 近义词
-    - adj. [数]类似球体的，球状的
-      - `globose`
-      - `bulbiform`
+    - adj.
+      - [数]类似球体的，球状的
+        - `globose`
+        - `bulbiform`
   - 短语
-    - `spheroidal graphite` 球状石墨 
-    - `spheroidal graphite cast iron` 球墨铸铁 
+    - `spheroidal graphite`
+      - 球状石墨 
+    - `spheroidal graphite cast iron`
+      - 球墨铸铁 
   - 例句
     - `For another, the clouds don't look like the disheveled spheroidal dwarf galaxies that closely orbit the Milky Way and other major spirals.`
       - 另一方面，这些星云看上去并不像结构松散的球状矮星系一样紧紧地围绕银河系和其它主要的漩涡星系的轨道运行。

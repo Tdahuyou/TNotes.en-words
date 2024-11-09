@@ -1,10 +1,13 @@
 - semicolon
   - 发音
-    - 英 `/,semɪ'kəʊlən; -'kəʊlɒn/`
-    - 美 `/'sɛmɪkolən/`
+    - 英
+      - `/,semɪ'kəʊlən; -'kəʊlɒn/`
+    - 美
+      - `/'sɛmɪkolən/`
   - 词义
-    - n. 分号
-    - `a  punctuation mark  (;) used to separate different parts of a sentence or list`
+    - n.
+      - 分号
+        - `a  punctuation mark  (;) used to separate different parts of a sentence or list`
   - 例句
     - `Edit the file, and add the semicolon, if necessary.`
       - 编辑该文件并添加分号（如果有必要）。

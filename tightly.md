@@ -1,23 +1,33 @@
 - tightly
   - 发音
-    - 英 `/'taɪtlɪ/`
-    - 美 `/'taɪtli/`
+    - 英
+      - `/'taɪtlɪ/`
+    - 美
+      - `/'taɪtli/`
   - 词义
-    - adv. 紧紧地,坚固地
+    - adv.
+      - 紧紧地,坚固地
   - 同根词
     - adj.
-      - `tight` 紧的；密封的；绷紧的；麻烦的；严厉的；没空的；吝啬的
+      - `tight`
+        - 紧的；密封的；绷紧的；麻烦的；严厉的；没空的；吝啬的
     - adv.
-      - `tight` 紧紧地；彻底地
+      - `tight`
+        - 紧紧地；彻底地
     - n.
-      - `tightness` 紧密，坚固
+      - `tightness`
+        - 紧密，坚固
     - vi.
-      - `tighten` 绷紧；变紧
+      - `tighten`
+        - 绷紧；变紧
     - vt.
-      - `tighten` 变紧；使变紧
+      - `tighten`
+        - 变紧；使变紧
   - 近义词
-    - adv. 紧紧地；坚固地
-      - `firmly`
-      - `fast`
+    - adv.
+      - 紧紧地；坚固地
+        - `firmly`
+        - `fast`
   - 短语
-    - `tightly coupled` 紧耦合的；紧密耦合 
+    - `tightly coupled`
+      - 紧耦合的；紧密耦合 

@@ -1,13 +1,19 @@
 - valse
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - v. 轻轻地走
-    - n. 华尔兹
+    - v.
+      - 轻轻地走
+    - n.
+      - 华尔兹
   - 近义词
-    - n. 圆舞曲；华尔兹舞
-      - `round dance`
-    - vi. 轻轻地走；跳华尔兹舞
-      - `catfoot`
-      - `tread lightly`
+    - n.
+      - 圆舞曲；华尔兹舞
+        - `round dance`
+    - vi.
+      - 轻轻地走；跳华尔兹舞
+        - `catfoot`
+        - `tread lightly`

@@ -1,30 +1,42 @@
 - erode
   - 发音
-    - 英 `/ɪ'roud/`
-    - 美 `/ɪ'rod/`
+    - 英
+      - `/ɪ'roud/`
+    - 美
+      - `/ɪ'rod/`
   - 词义
-    - v. 侵蚀，腐蚀
-    - `if the weather erodes rock or soil, or if rock or soil erodes, its surface is gradually destroyed`
+    - v.
+      - 侵蚀，腐蚀
+        - `if the weather erodes rock or soil, or if rock or soil erodes, its surface is gradually destroyed`
   - 记忆
     - e(去掉) + rod(咬) + e → 咬掉 → 侵蚀， 腐蚀
   - 同根词
     - adj.
-      - `eroded` 被侵蚀的，损坏了
-      - `eroding` 侵蚀的
-      - `erose` 啮蚀状的；凹凸不平的；不规则形状的
-      - `erosive` 腐蚀的；冲蚀的；侵蚀性的
+      - `eroded`
+        - 被侵蚀的，损坏了
+      - `eroding`
+        - 侵蚀的
+      - `erose`
+        - 啮蚀状的；凹凸不平的；不规则形状的
+      - `erosive`
+        - 腐蚀的；冲蚀的；侵蚀性的
     - n.
-      - `erosion` 侵蚀，腐蚀
+      - `erosion`
+        - 侵蚀，腐蚀
     - v.
-      - `eroded` 侵蚀；损坏（erode的过去分词形式）
-      - `eroding` 侵蚀；磨损（erode的ing形式）
+      - `eroded`
+        - 侵蚀；损坏（erode的过去分词形式）
+      - `eroding`
+        - 侵蚀；磨损（erode的ing形式）
   - 近义词
-    - vt. 腐蚀，侵蚀
-      - `weather`
-      - `eat into`
-    - vi. 侵蚀；受腐蚀
-      - `eat into`
-      - `burn into`
+    - vt.
+      - 腐蚀，侵蚀
+        - `weather`
+        - `eat into`
+    - vi.
+      - 侵蚀；受腐蚀
+        - `eat into`
+        - `burn into`
   - 例句
     - `The cliffs are being constantly eroded by heavy seas.`
       - 悬崖正不断受到汹涌海浪的侵蚀。

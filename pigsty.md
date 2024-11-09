@@ -1,17 +1,22 @@
 - pigsty
   - 发音
-    - 英 `/'pɪgstaɪ/`
-    - 美 `/'pɪɡstaɪ/`
+    - 英
+      - `/'pɪgstaɪ/`
+    - 美
+      - `/'pɪɡstaɪ/`
   - 词义
-    - n. 猪舍；木垛；脏乱的地方
-    - `a very dirty or untidy place`
+    - n.
+      - 猪舍；木垛；脏乱的地方
+        - `a very dirty or untidy place`
   - 同根词
     - n.
-      - `pigpen` 猪舍；猪舍似的地方
-  - 近义词
-    - n. 猪舍；木垛；脏乱的地方
       - `pigpen`
-      - `piggery`
+        - 猪舍；猪舍似的地方
+  - 近义词
+    - n.
+      - 猪舍；木垛；脏乱的地方
+        - `pigpen`
+        - `piggery`
   - 例句
     - `The house was a pigsty, as usual.`
       - 那房子和平时一样，脏得像个猪窝。

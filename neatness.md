@@ -1,20 +1,27 @@
 - neatness
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 整洁,干净
+    - n.
+      - 整洁,干净
   - 同根词
     - adj.
-      - `neat` 灵巧的；整洁的；优雅的；齐整的；未搀水的；平滑的
+      - `neat`
+        - 灵巧的；整洁的；优雅的；齐整的；未搀水的；平滑的
     - adv.
-      - `neatly` 整洁地；熟练地；灵巧地
+      - `neatly`
+        - 整洁地；熟练地；灵巧地
     - vt.
-      - `neaten` 整理；整顿
+      - `neaten`
+        - 整理；整顿
   - 近义词
-    - n. 干净，整洁
-      - `orderliness`
-      - `neat typing`
+    - n.
+      - 干净，整洁
+        - `orderliness`
+        - `neat typing`
   - 例句
     - `My sister has been preaching at me again about my lack of neatness.`
       - 因我不爱整洁姐姐又向我没完没了地劝告。

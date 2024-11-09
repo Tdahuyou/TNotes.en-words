@@ -1,13 +1,17 @@
 - porcine
   - 发音
-    - 英 `/'pɔːsaɪn/`
-    - 美 `/ˈpɔːrsaɪn/`
+    - 英
+      - `/'pɔːsaɪn/`
+    - 美
+      - `/ˈpɔːrsaɪn/`
   - 词义
-    - adj. 猪的
-    - `looking like or relating to pigs`
+    - adj.
+      - 猪的
+        - `looking like or relating to pigs`
   - 近义词
-    - adj. 猪的，像猪的
-      - `swinish`
+    - adj.
+      - 猪的，像猪的
+        - `swinish`
   - 例句
     - `It also became apparent that the new virus contains bits and pieces derived from avian and human strains of influenza, as well as porcine ones, further muddying its origins.`
       - 后来也发现这种新病毒混合了鸡鸭的禽流感、人类的流行感冒、加上一些类似于猪的病毒，使新型流感的起源更加扑朔迷离。

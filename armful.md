@@ -1,15 +1,19 @@
 - armful
   - 发音
-    - 英 `/'ɑːmful/`
-    - 美 `/'ɑ:mful/`
+    - 英
+      - `/'ɑːmful/`
+    - 美
+      - `/'ɑ:mful/`
   - 词义
-    - n. 一抱之量
-    - `the amount of something that you can hold in one or both arms`
+    - n.
+      - 一抱之量
+        - `the amount of something that you can hold in one or both arms`
   - 记忆
     - arm (臂) + ful (充满时的量) → 一臂围住的量 → 一抱之量
   - 近义词
-    - n. 一抱之量；双手合抱量
-      - `armload`
+    - n.
+      - 一抱之量；双手合抱量
+        - `armload`
   - 例句
     - `He hurried out with an armful of brochures.`
       - 他抱着一摞小册子匆忙出去了。

@@ -1,9 +1,12 @@
 - pointillist
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 点彩派画家
+    - n.
+      - 点彩派画家
   - 例句
     - `The book is composed, like a pointillist painting, of thousands of factual details.`
       - 这本书像是一副点彩画，由成千上万证据确凿的细节组合而成。

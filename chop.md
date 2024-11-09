@@ -1,27 +1,36 @@
 - chop
   - 发音
-    - 英 `/tʃɒp/`
-    - 美 `/tʃɑp/`
+    - 英
+      - `/tʃɒp/`
+    - 美
+      - `/tʃɑp/`
   - 词义
-    - v. 砍，劈，斩
-    - `to cut something into smaller pieces`
+    - v.
+      - 砍，劈，斩
+        - `to cut something into smaller pieces`
   - 同根词
     - n.
-      - `chopper` [电子] 斩波器；斧头；切碎机
+      - `chopper`
+        - [电子] 斩波器；斧头；切碎机
     - vi.
-      - `chopper` 乘直升机飞行
+      - `chopper`
+        - 乘直升机飞行
     - vt.
-      - `chopper` 用直升机运送
+      - `chopper`
+        - 用直升机运送
   - 近义词
-    - n. 砍；排骨；削球；商标
-      - `brand`
-      - `label`
-      - `logo`
-      - `cut`
-    - vt. 砍；剁碎
-      - `hew`
-    - vi. 砍；突然转向
-      - `hew`
+    - n.
+      - 砍；排骨；削球；商标
+        - `brand`
+        - `label`
+        - `logo`
+        - `cut`
+    - vt.
+      - 砍；剁碎
+        - `hew`
+    - vi.
+      - 砍；突然转向
+        - `hew`
   - 例句
     - `He went outside to chop some more wood for the fire.`
       - 他出去再砍些木材来生火。

@@ -1,7 +1,9 @@
 - Regan
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
   - 例句
     - `She also says that on one occasion, Regan hung up on her in the middle of a phone conversation.`

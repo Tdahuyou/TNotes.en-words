@@ -1,37 +1,56 @@
 - magnetism
   - 发音
-    - 英 `/'mægnɪtɪz(ə)m/`
-    - 美 `/'mægnə'tɪzəm/`
+    - 英
+      - `/'mægnɪtɪz(ə)m/`
+    - 美
+      - `/'mægnə'tɪzəm/`
   - 词义
-    - n. 磁,磁力,吸引力,磁学
-    - `the physical force that makes two metal objects pull towards each other or push each other apart`
+    - n.
+      - 磁,磁力,吸引力,磁学
+        - `the physical force that makes two metal objects pull towards each other or push each other apart`
   - 同根词
     - adj.
-      - `magnetic` 地磁的；有磁性的；有吸引力的
-      - `magnetized` 已磁化的
+      - `magnetic`
+        - 地磁的；有磁性的；有吸引力的
+      - `magnetized`
+        - 已磁化的
     - adv.
-      - `magnetically` 有磁力地；有吸引力地
+      - `magnetically`
+        - 有磁力地；有吸引力地
     - n.
-      - `magnet` 磁铁；[电磁] 磁体；磁石
-      - `magnetization` 磁化
-      - `magnetics` [电磁] 磁学
-      - `magnetometer` 磁强计；[电磁] 磁力计
-      - `magnetisation` 磁化强度（等于magnetization）
-      - `magnetograph` 磁力记录计
+      - `magnet`
+        - 磁铁；[电磁] 磁体；磁石
+      - `magnetization`
+        - 磁化
+      - `magnetics`
+        - [电磁] 磁学
+      - `magnetometer`
+        - 磁强计；[电磁] 磁力计
+      - `magnetisation`
+        - 磁化强度（等于magnetization）
+      - `magnetograph`
+        - 磁力记录计
     - v.
-      - `magnetized` 磁化（magnetize的过去分词）；吸引
+      - `magnetized`
+        - 磁化（magnetize的过去分词）；吸引
     - vi.
-      - `magnetize` 磁化；受磁
+      - `magnetize`
+        - 磁化；受磁
     - vt.
-      - `magnetize` 吸引；使磁化
-      - `magnetise` 使……磁化；使……有磁力
+      - `magnetize`
+        - 吸引；使磁化
+      - `magnetise`
+        - 使……磁化；使……有磁力
   - 近义词
-    - n. 磁性，磁力；[电磁]磁学；吸引力
-      - `appeal`
-      - `charm`
+    - n.
+      - 磁性，磁力；[电磁]磁学；吸引力
+        - `appeal`
+        - `charm`
   - 短语
-    - `permanent magnetism` 永磁；永久磁性 
-    - `residual magnetism` [物]残余磁性 
+    - `permanent magnetism`
+      - 永磁；永久磁性 
+    - `residual magnetism`
+      - [物]残余磁性 
   - 例句
     - `his personal magnetism`
       - 他的个人魅力

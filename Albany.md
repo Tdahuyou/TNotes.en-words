@@ -1,7 +1,9 @@
 - Albany
   - 发音
-    - 英 `/'ɔ:bəni/`
-    - 美 `/'ɔ:bəni/`
+    - 英
+      - `/'ɔ:bəni/`
+    - 美
+      - `/'ɔ:bəni/`
   - 词义
   - 例句
     - `One of my students from Albany, NY was suffering from bouts of severe depression.`

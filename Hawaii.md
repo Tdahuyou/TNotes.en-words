@@ -1,11 +1,15 @@
 - Hawaii
   - 发音
-    - 英 `/hə'waii:/`
-    - 美 `/hə'waii:/`
+    - 英
+      - `/hə'waii:/`
+    - 美
+      - `/hə'waii:/`
   - 词义
-    - n. 夏威夷
+    - n.
+      - 夏威夷
   - 短语
-    - `hawaii volcanoes national park` 夏威夷火山国家公园 
+    - `hawaii volcanoes national park`
+      - 夏威夷火山国家公园 
   - 例句
     - `They've hopped to Hawaii for holidays.`
       - 他们已坐飞机到夏威夷度假去了。

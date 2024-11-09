@@ -1,17 +1,23 @@
 - grimly
   - 发音
-    - 英 `/'grɪmli/`
-    - 美 `/'grɪmlɪ/`
+    - 英
+      - `/'grɪmli/`
+    - 美
+      - `/'grɪmlɪ/`
   - 词义
-    - adv. 冷酷地；严肃地；坚定地
+    - adv.
+      - 冷酷地；严肃地；坚定地
   - 记忆
     - 来自grim(a. 严肃的； 坚定的； 阴冷的)
   - 同根词
     - adj.
-      - `grim` 冷酷的；糟糕的；残忍的
+      - `grim`
+        - 冷酷的；糟糕的；残忍的
     - n.
-      - `grimness` 严峻；严格；无情
+      - `grimness`
+        - 严峻；严格；无情
   - 近义词
-    - adv. 可怕地；冷酷地；严格地
-      - `strictly`
-      - `severely`
+    - adv.
+      - 可怕地；冷酷地；严格地
+        - `strictly`
+        - `severely`

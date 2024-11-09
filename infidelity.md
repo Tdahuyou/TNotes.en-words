@@ -1,15 +1,21 @@
 - infidelity
   - 发音
-    - 英 `/ɪnfɪ'delɪtɪ/`
-    - 美 `/,ɪnfɪ'dɛləti/`
+    - 英
+      - `/ɪnfɪ'delɪtɪ/`
+    - 美
+      - `/,ɪnfɪ'dɛləti/`
   - 词义
-    - n. 无信仰，不信神；背信
+    - n.
+      - 无信仰，不信神；背信
   - 同根词
     - adj.
-      - `infidel` 异教徒的；无宗教信仰的
+      - `infidel`
+        - 异教徒的；无宗教信仰的
     - n.
-      - `infidel` 异教徒；无信仰者
+      - `infidel`
+        - 异教徒；无信仰者
   - 近义词
-    - n. 无信仰，不信神；背信
-      - `atheism`
-      - `faithlessness`
+    - n.
+      - 无信仰，不信神；背信
+        - `atheism`
+        - `faithlessness`

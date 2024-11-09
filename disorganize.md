@@ -1,17 +1,24 @@
 - disorganize
   - 发音
-    - 英 `/dɪs'ɔːgənaɪz/`
-    - 美 `/dis'ɔ:ɡənaiz/`
+    - 英
+      - `/dɪs'ɔːgənaɪz/`
+    - 美
+      - `/dis'ɔ:ɡənaiz/`
   - 词义
-    - v. 扰乱，使混乱
+    - v.
+      - 扰乱，使混乱
   - 同根词
     - adj.
-      - `disorganized` 紊乱的；无组织的
+      - `disorganized`
+        - 紊乱的；无组织的
     - n.
-      - `disorganization` 解体；混乱；组织的破坏；瓦解
+      - `disorganization`
+        - 解体；混乱；组织的破坏；瓦解
     - vt.
-      - `disorganise` 瓦解；扰乱（等于disorganize）
+      - `disorganise`
+        - 瓦解；扰乱（等于disorganize）
   - 近义词
-    - vt. 扰乱；瓦解；使…混乱；破坏组织
-      - `perturb`
-      - `upset`
+    - vt.
+      - 扰乱；瓦解；使…混乱；破坏组织
+        - `perturb`
+        - `upset`

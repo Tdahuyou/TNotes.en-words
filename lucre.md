@@ -1,20 +1,25 @@
 - lucre
   - 发音
-    - 英 `/'luːkər/`
-    - 美 `/'lukɚ/`
+    - 英
+      - `/'luːkər/`
+    - 美
+      - `/'lukɚ/`
   - 词义
-    - n. 〈贬〉钱，利益
+    - n.
+      - 〈贬〉钱，利益
   - 记忆
     - lucr(获利) + e → 利益
   - 近义词
-    - n. 收益；钱财；利润
-      - `margin`
-      - `profit`
-      - `gain`
-      - `proceeds`
-      - `yield`
+    - n.
+      - 收益；钱财；利润
+        - `margin`
+        - `profit`
+        - `gain`
+        - `proceeds`
+        - `yield`
   - 短语
-    - `filthy lucre` n. 不义之财 
+    - `filthy lucre`
+      - n. 不义之财 
   - 例句
     - `...so they can feel less guilty about their piles of filthy lucre.`
       - ...这样他们就可以对那大把大把的黑心钱感到不那么内疚了。

@@ -1,18 +1,24 @@
 - goalkeeper
   - 发音
-    - 英 `/'gəʊlkiːpə/`
-    - 美 `/'ɡolkipɚ/`
+    - 英
+      - `/'gəʊlkiːpə/`
+    - 美
+      - `/'ɡolkipɚ/`
   - 词义
-    - n. 守门员
-    - `the player in a sports team whose job is to try to stop the ball going into the goal`
+    - n.
+      - 守门员
+        - `the player in a sports team whose job is to try to stop the ball going into the goal`
   - 同根词
     - n.
-      - `goalie` 守门员（等于goalkeeper）
-      - `goaltender` （足球等运动的）守门员（等于goalkeeper）
+      - `goalie`
+        - 守门员（等于goalkeeper）
+      - `goaltender`
+        - （足球等运动的）守门员（等于goalkeeper）
   - 近义词
-    - n. 守门员
-      - `netkeeper`
-      - `wicket-keeper`
+    - n.
+      - 守门员
+        - `netkeeper`
+        - `wicket-keeper`
   - 例句
     - `...the league's two best goalkeepers.`
       - ...这届联赛的两名最佳守门员。

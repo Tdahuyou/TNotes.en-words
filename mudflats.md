@@ -1,10 +1,13 @@
 - mudflats
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 泥滩
-    - `Mudflats are areas of flat empty land at the coast which are covered by the sea only when the tide is in`
+    - n.
+      - 泥滩
+        - `Mudflats are areas of flat empty land at the coast which are covered by the sea only when the tide is in`
   - 例句
     - `They feature a complex network of tidal waterways, mudflats and small islands of salt-tolerant mangrove forests.`
       - 以潮汐水道的繁复、泥滩和耐盐的红树林的小岛屿而著名。

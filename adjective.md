@@ -1,20 +1,27 @@
 - adjective
   - 发音
-    - 英 `/'ædʒɪktɪv/`
-    - 美 `/'ædʒɪktɪv/`
+    - 英
+      - `/'ædʒɪktɪv/`
+    - 美
+      - `/'ædʒɪktɪv/`
   - 词义
-    - adj. 形容词的；从属的
-    - n. 形容词
-    - `a word that describes a noun or  pronoun  . In the phrase ‘black hat’, ‘black’ is an adjective and in the sentence ‘It makes her happy’, ‘happy’ is an adjective.`
+    - adj.
+      - 形容词的；从属的
+    - n.
+      - 形容词
+        - `a word that describes a noun or  pronoun  . In the phrase ‘black hat’, ‘black’ is an adjective and in the sentence ‘It makes her happy’, ‘happy’ is an adjective.`
   - 同根词
     - adj.
-      - `adjectival` 形容词的
+      - `adjectival`
+        - 形容词的
     - adv.
-      - `adjectivally` 作形容词用地；形容词般地
+      - `adjectivally`
+        - 作形容词用地；形容词般地
   - 近义词
-    - adj. [语]形容词的；从属的
-      - `dependent`
-      - `under`
+    - adj.
+      - [语]形容词的；从属的
+        - `dependent`
+        - `under`
   - 例句
     - `In “the black cat” the adjective “black”modifies the noun “cat”.`
       - 在“那只黑猫”中，形容词“黑的”修饰名词“猫”。

@@ -1,12 +1,17 @@
 - Pennsylvania
   - 发音
-    - 英 `/,pensil'veinjə/`
-    - 美 `/,pɛnsəl'veɪnjə/`
+    - 英
+      - `/,pensil'veinjə/`
+    - 美
+      - `/,pɛnsəl'veɪnjə/`
   - 词义
-    - n. 宾夕法尼亚州（美国州名）
+    - n.
+      - 宾夕法尼亚州（美国州名）
   - 短语
-    - `university of pennsylvania` （美国）宾夕法尼亚大学；宾州大学 
-    - `pennsylvania avenue` 宾夕法尼亚大道（在美国首都华盛顿） 
+    - `university of pennsylvania`
+      - （美国）宾夕法尼亚大学；宾州大学 
+    - `pennsylvania avenue`
+      - 宾夕法尼亚大道（在美国首都华盛顿） 
   - 例句
     - `The letter was mailed from Pennsylvania to me.`
       - 信已由宾夕法尼亚州寄到我这里。

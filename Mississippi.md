@@ -1,11 +1,15 @@
 - Mississippi
   - 发音
-    - 英 `/ˌmisiˈsipi/`
-    - 美 `/ˌmisiˈsipi/`
+    - 英
+      - `/ˌmisiˈsipi/`
+    - 美
+      - `/ˌmisiˈsipi/`
   - 词义
-    - n. 密西西比河,密西西比州(美国州名)
+    - n.
+      - 密西西比河,密西西比州(美国州名)
   - 短语
-    - `mississippi river` 密西西比河 
+    - `mississippi river`
+      - 密西西比河 
   - 例句
     - `That means the Arctic has lost an area greater than all the U.S. states east of the Mississippi.`
       - 这就意味着北极失去的领地面积比密西西比河以东的所有州的面积还要大。

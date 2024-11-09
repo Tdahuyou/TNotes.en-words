@@ -1,26 +1,37 @@
 - plenary
   - 发音
-    - 英 `/'pliːnərɪ/`
-    - 美 `/'plɛnəri/`
+    - 英
+      - `/'pliːnərɪ/`
+    - 美
+      - `/'plɛnəri/`
   - 词义
-    - adj. 充分的；全体出席的
-    - `involving all the members of a committee, organization etc`
-    - n. 全体会议
-    - `Plenary is also a noun`
+    - adj.
+      - 充分的；全体出席的
+        - `involving all the members of a committee, organization etc`
+    - n.
+      - 全体会议
+        - `Plenary is also a noun`
   - 同根词
     - adv.
-      - `plenarily` 充分地；完全地；有全权地
+      - `plenarily`
+        - 充分地；完全地；有全权地
     - n.
-      - `plenum` 全体会议；充满；充满物质的空间
-      - `plenitude` 充分；丰富；大量
-      - `plentitude` 充分（表示情况、状态丰富）
+      - `plenum`
+        - 全体会议；充满；充满物质的空间
+      - `plenitude`
+        - 充分；丰富；大量
+      - `plentitude`
+        - 充分（表示情况、状态丰富）
   - 近义词
-    - adj. 充分的；全体出席的
-      - `sufficient`
-      - `wealthy`
+    - adj.
+      - 充分的；全体出席的
+        - `sufficient`
+        - `wealthy`
   - 短语
-    - `plenary meeting` 全会；全体会议 
-    - `plenary session` 全体大会 
+    - `plenary meeting`
+      - 全会；全体会议 
+    - `plenary session`
+      - 全体大会 
   - 例句
     - `The conference ended with a plenary debate.`
       - 这次会议以一场全体辩论结束。

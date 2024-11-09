@@ -1,7 +1,9 @@
 - Crete
   - 发音
-    - 英 `/kri:t/`
-    - 美 `/kri:t/`
+    - 英
+      - `/kri:t/`
+    - 美
+      - `/kri:t/`
   - 词义
   - 例句
     - `Pavlos Tsimas says some people commit suicide in a public way, like the businessman in Crete.`

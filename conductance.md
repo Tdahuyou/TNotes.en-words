@@ -1,32 +1,48 @@
 - conductance
   - 发音
-    - 英 `/kən'dʌkt(ə)ns/`
-    - 美 `/kən'dʌktəns/`
+    - 英
+      - `/kən'dʌkt(ə)ns/`
+    - 美
+      - `/kən'dʌktəns/`
   - 词义
-    - n. 电导,导率
-    - `the ability of a system to conduct electricity, measured by the ratio of the current flowing through the system to the potential difference across it; the reciprocal of resistance`
+    - n.
+      - 电导,导率
+        - `the ability of a system to conduct electricity, measured by the ratio of the current flowing through the system to the potential difference across it; the reciprocal of resistance`
   - 同根词
     - adj.
-      - `conductive` 传导的；传导性的；有传导力的
+      - `conductive`
+        - 传导的；传导性的；有传导力的
     - n.
-      - `conduct` 进行；行为；实施
-      - `conductor` 导体；售票员；领导者；管理人
-      - `conduction` [生理] 传导
-      - `conductivity` 导电性；[物][生理] 传导性
-      - `conductress` 女向导；女车长；女指挥；女售票员
+      - `conduct`
+        - 进行；行为；实施
+      - `conductor`
+        - 导体；售票员；领导者；管理人
+      - `conduction`
+        - [生理] 传导
+      - `conductivity`
+        - 导电性；[物][生理] 传导性
+      - `conductress`
+        - 女向导；女车长；女指挥；女售票员
     - vi.
-      - `conduct` 导电；带领
+      - `conduct`
+        - 导电；带领
     - vt.
-      - `conduct` 管理；引导；表现
+      - `conduct`
+        - 管理；引导；表现
   - 近义词
-    - n. [电]电导；导率；电导系数
-      - `electric conduction`
-      - `electrical conduction`
+    - n.
+      - [电]电导；导率；电导系数
+        - `electric conduction`
+        - `electrical conduction`
   - 短语
-    - `thermal conductance` 导热性；热传导；热导率 
-    - `electrical conductance` 电导，电导率 
-    - `specific conductance` [电]电导率 
-    - `skin conductance` 皮肤电传导 
+    - `thermal conductance`
+      - 导热性；热传导；热导率 
+    - `electrical conductance`
+      - 电导，电导率 
+    - `specific conductance`
+      - [电]电导率 
+    - `skin conductance`
+      - 皮肤电传导 
   - 例句
     - `They measure skin conductance, or sweating response.`
       - 这些措施皮肤电导，或出汗的反应。

@@ -1,16 +1,20 @@
 - acumen
   - 发音
-    - 英 `/'ækjəmən/`
-    - 美 `/əˈkjumən/`
+    - 英
+      - `/'ækjəmən/`
+    - 美
+      - `/əˈkjumən/`
   - 词义
-    - n. 敏锐，聪明
-    - `the ability to think quickly and make good judgments`
+    - n.
+      - 敏锐，聪明
+        - `the ability to think quickly and make good judgments`
   - 记忆
     - acu(尖的， 锐利的) + men → 敏锐
   - 近义词
-    - n. 聪明，敏锐
-      - `brightness`
-      - `wiseness`
+    - n.
+      - 聪明，敏锐
+        - `brightness`
+        - `wiseness`
   - 例句
     - `His business acumen helped him to succeed where others had failed.`
       - 他在商业上的敏锐帮他在其他人失败的地方获得成功。

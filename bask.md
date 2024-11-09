@@ -1,13 +1,17 @@
 - bask
   - 发音
-    - 英 `/bɑːsk/`
-    - 美 `/bæsk/`
+    - 英
+      - `/bɑːsk/`
+    - 美
+      - `/bæsk/`
   - 词义
-    - v. 晒太阳
-    - `to enjoy sitting or lying in the heat of the sun or a fire`
+    - v.
+      - 晒太阳
+        - `to enjoy sitting or lying in the heat of the sun or a fire`
   - 近义词
-    - vi. 晒太阳；取暖；愉快或舒适
-      - `lie in the sun`
+    - vi.
+      - 晒太阳；取暖；愉快或舒适
+        - `lie in the sun`
   - 例句
     - `All through the hot, still days of their holiday Amy basked in the sun.`
       - 在整个炎热、寂静的假期里埃米都在晒太阳。

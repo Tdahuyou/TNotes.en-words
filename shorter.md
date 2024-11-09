@@ -1,7 +1,9 @@
 - shorter
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
   - 例句
     - `The idea is to finish a job in a shorter time as measured by an external clock, even if at the cost of more hardware and programming complexity.`

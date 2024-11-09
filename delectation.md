@@ -1,20 +1,25 @@
 - delectation
   - 发音
-    - 英 `/ˌdiːlek'teɪʃn/`
-    - 美 `/,dilɛk'teʃən/`
+    - 英
+      - `/ˌdiːlek'teɪʃn/`
+    - 美
+      - `/,dilɛk'teʃən/`
   - 词义
-    - n. 享受，愉快
-    - `if you do something for someone’s delectation, you do it to give them enjoyment, pleasure, or amusement`
+    - n.
+      - 享受，愉快
+        - `if you do something for someone’s delectation, you do it to give them enjoyment, pleasure, or amusement`
   - 同根词
     - adj.
-      - `delectable` 美味的；令人愉快的
+      - `delectable`
+        - 美味的；令人愉快的
   - 近义词
-    - n. 愉快；款待；享受
-      - `sunshine`
-      - `entertainment`
-      - `luxury`
-      - `treat`
-      - `enjoyment`
+    - n.
+      - 愉快；款待；享受
+        - `sunshine`
+        - `entertainment`
+        - `luxury`
+        - `treat`
+        - `enjoyment`
   - 例句
     - `Wish we cooperate the delectation!`
       - 祝愿我们合作愉快！

@@ -1,26 +1,34 @@
 - indigenous
   - 发音
-    - 英 `/ɪn'dɪdʒənəs/`
-    - 美 `/ɪn'dɪdʒənəs/`
+    - 英
+      - `/ɪn'dɪdʒənəs/`
+    - 美
+      - `/ɪn'dɪdʒənəs/`
   - 词义
-    - adj. 本地的，本土的；土产的；土著的
-    - `indigenous people or things have always been in the place where they are, rather than being brought there from somewhere else`
+    - adj.
+      - 本地的，本土的；土产的；土著的
+        - `indigenous people or things have always been in the place where they are, rather than being brought there from somewhere else`
   - 记忆
     - indi(内部) + gen(产生) + ous → 内部产生的 → 本地的
   - 同根词
     - adv.
-      - `indigenously` 该土地所固有
+      - `indigenously`
+        - 该土地所固有
     - n.
-      - `indigen` 本地人；土著；动植物的自生种；本地产的动植物（等于indigene）
+      - `indigen`
+        - 本地人；土著；动植物的自生种；本地产的动植物（等于indigene）
   - 近义词
-    - adj. 本土的；土著的；国产的；固有的
-      - `native`
-      - `inherent`
-      - `mainland`
-      - `intrinsic`
+    - adj.
+      - 本土的；土著的；国产的；固有的
+        - `native`
+        - `inherent`
+        - `mainland`
+        - `intrinsic`
   - 短语
-    - `indigenous population` 土著，土著居民 
-    - `indigenous knowledge` 本地知识；乡土知识；土著知识 
+    - `indigenous population`
+      - 土著，土著居民 
+    - `indigenous knowledge`
+      - 本地知识；乡土知识；土著知识 
   - 例句
     - `the many indigenous cultures which existed in Siberia`
       - 存在于西伯利亚的许多当地文化

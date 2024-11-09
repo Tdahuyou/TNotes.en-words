@@ -1,22 +1,31 @@
 - oyster
   - 发音
-    - 英 `/'ɔɪstər/`
-    - 美 `/'ɔɪstɚ/`
+    - 英
+      - `/'ɔɪstər/`
+    - 美
+      - `/'ɔɪstɚ/`
   - 词义
-    - n. 牡蛎，蚝
-    - `a type of shellfish that can be eaten cooked or uncooked, and that produces a jewel called a pearl`
+    - n.
+      - 牡蛎，蚝
+        - `a type of shellfish that can be eaten cooked or uncooked, and that produces a jewel called a pearl`
   - 记忆
     - 妹妹(sister)爱吃牡蛎(oyster)
   - 近义词
-    - n. 牡蛎，[无脊椎]蚝；沉默寡言的人
-      - `Gigas`
-      - `ostracean`
+    - n.
+      - 牡蛎，[无脊椎]蚝；沉默寡言的人
+        - `Gigas`
+        - `ostracean`
   - 短语
-    - `oyster sauce` 蚝油，蚝油酱 
-    - `oyster mushroom` 平菇；蚝蘑；侧耳（等于oyster cap） 
-    - `oyster shell` 牡蛎，牡蛎壳；贝壳 
-    - `pearl oyster` n. 珍珠贝（等于pearl shell） 
-    - `oyster oil` 蚝油 
+    - `oyster sauce`
+      - 蚝油，蚝油酱 
+    - `oyster mushroom`
+      - 平菇；蚝蘑；侧耳（等于oyster cap） 
+    - `oyster shell`
+      - 牡蛎，牡蛎壳；贝壳 
+    - `pearl oyster`
+      - n. 珍珠贝（等于pearl shell） 
+    - `oyster oil`
+      - 蚝油 
   - 例句
     - `He had two dozen oysters and enjoyed every one of them.`
       - 他吃了两打牡蛎，每一个都吃得津津有味。

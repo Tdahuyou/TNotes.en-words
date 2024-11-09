@@ -1,14 +1,19 @@
 - mycology
   - 发音
-    - 英 `/maɪ'kɒlədʒɪ/`
-    - 美 `/maɪ'kɑlədʒi/`
+    - 英
+      - `/maɪ'kɒlədʒɪ/`
+    - 美
+      - `/maɪ'kɑlədʒi/`
   - 词义
-    - n. [植]真菌学
-    - `the study of different types of  fungus `
+    - n.
+      - [植]真菌学
+        - `the study of different types of  fungus `
   - 同根词
     - n.
-      - `mycotoxin` 霉菌毒素，真菌毒素；毒枝菌素
-      - `mycologist` 真菌学家；霉菌学家
+      - `mycotoxin`
+        - 霉菌毒素，真菌毒素；毒枝菌素
+      - `mycologist`
+        - 真菌学家；霉菌学家
   - 例句
     - `It is active in under- and postgraduate training in the fields of botany, mycology , and plant physiology.`
       - 该所积极参于植物学，真菌学，和植物生理学领域的本科生和研究生训练。

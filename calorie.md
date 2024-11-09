@@ -1,14 +1,20 @@
 - calorie
   - 发音
-    - 英 `/'kælərɪ/`
-    - 美 `/'kæləri/`
+    - 英
+      - `/'kælərɪ/`
+    - 美
+      - `/'kæləri/`
   - 词义
-    - n. 卡路里
-    - `a unit for measuring the amount of  energy  that food will produce`
+    - n.
+      - 卡路里
+        - `a unit for measuring the amount of  energy  that food will produce`
   - 短语
-    - `low calorie` 低卡路里 
-    - `calorie intake` 卡路里摄入量；热量摄取 
-    - `calorie value` 热量值，卡值 
+    - `low calorie`
+      - 低卡路里 
+    - `calorie intake`
+      - 卡路里摄入量；热量摄取 
+    - `calorie value`
+      - 热量值，卡值 
   - 例句
     - `A potato has about 90 calories.`
       - 一个马铃薯大约有90卡路里的热量。

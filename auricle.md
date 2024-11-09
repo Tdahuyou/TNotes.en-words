@@ -1,14 +1,18 @@
 - auricle
   - 发音
-    - 英 `/'ɔːrikl/`
-    - 美 `/'ɔrɪkl/`
+    - 英
+      - `/'ɔːrikl/`
+    - 美
+      - `/'ɔrɪkl/`
   - 词义
-    - n. 外耳
-    - `a small sac in the atrium of the heart `
+    - n.
+      - 外耳
+        - `a small sac in the atrium of the heart `
   - 近义词
-    - n. 耳廓；外耳；[解剖][脊椎]心耳
-      - `external ear`
-      - `outer ear`
+    - n.
+      - 耳廓；外耳；[解剖][脊椎]心耳
+        - `external ear`
+        - `outer ear`
   - 例句
     - `The control relationship between the auricle and the body.`
       - 根据耳廓与人体控制关系。

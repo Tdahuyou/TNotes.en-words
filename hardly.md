@@ -1,22 +1,30 @@
 - hardly
   - 发音
-    - 英 `/'hɑːdlɪ/`
-    - 美 `/'hɑrdli/`
+    - 英
+      - `/'hɑːdlɪ/`
+    - 美
+      - `/'hɑrdli/`
   - 词义
-    - adv. 几乎不；几乎没
-    - `almost not`
+    - adv.
+      - 几乎不；几乎没
+        - `almost not`
   - 近义词
-    - adv. 几乎不，简直不；刚刚
-      - `just`
-      - `ill`
-      - `fresh`
-      - `scarcely`
-      - `barely`
+    - adv.
+      - 几乎不，简直不；刚刚
+        - `just`
+        - `ill`
+        - `fresh`
+        - `scarcely`
+        - `barely`
   - 短语
-    - `hardly any` 几乎没有 
-    - `hardly ever` 几乎不；几乎从来不 
-    - `hardly more than` 不足；仅仅 
-    - `hardly when` 几乎未来得及就…；刚一…就… 
+    - `hardly any`
+      - 几乎没有 
+    - `hardly ever`
+      - 几乎不；几乎从来不 
+    - `hardly more than`
+      - 不足；仅仅 
+    - `hardly when`
+      - 几乎未来得及就…；刚一…就… 
   - 例句
     - `My parents divorced when I was six, and I hardly knew my father.`
       - 我六岁时父母离婚，我对父亲几乎一无所知。

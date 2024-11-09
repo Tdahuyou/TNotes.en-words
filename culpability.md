@@ -1,17 +1,23 @@
 - culpability
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 可责；有过失；有罪
+    - n.
+      - 可责；有过失；有罪
   - 记忆
     - 来自culpable(a. 有罪的)， culp(罪行) + able(有…的) → 有罪的
   - 同根词
     - adj.
-      - `culpable` 有罪的；该责备的；不周到的；应受处罚的
+      - `culpable`
+        - 有罪的；该责备的；不周到的；应受处罚的
     - adv.
-      - `culpably` 该罚地；可恶地
+      - `culpably`
+        - 该罚地；可恶地
   - 近义词
-    - n. 可责；有过失；[法]有罪
-      - `criminality`
-      - `sinfulness`
+    - n.
+      - 可责；有过失；[法]有罪
+        - `criminality`
+        - `sinfulness`

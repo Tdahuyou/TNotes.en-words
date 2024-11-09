@@ -1,13 +1,18 @@
 - spinach
   - 发音
-    - 英 `/'spɪnɪdʒ; -ɪtʃ/`
-    - 美 `/'spɪnɪtʃ/`
+    - 英
+      - `/'spɪnɪdʒ; -ɪtʃ/`
+    - 美
+      - `/'spɪnɪtʃ/`
   - 词义
-    - n. 菠菜
-    - `a vegetable with large dark green leaves`
+    - n.
+      - 菠菜
+        - `a vegetable with large dark green leaves`
   - 短语
-    - `water spinach` n. 空心菜；雍菜；瓮菜 
-    - `spinach salad` 菠菜沙拉 
+    - `water spinach`
+      - n. 空心菜；雍菜；瓮菜 
+    - `spinach salad`
+      - 菠菜沙拉 
   - 例句
     - `The spinach is shrivelled up.`
       - 菠菜蔫了。

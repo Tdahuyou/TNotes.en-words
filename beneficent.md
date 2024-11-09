@@ -1,22 +1,30 @@
 - beneficent
   - 发音
-    - 英 `/bɪ'nefɪsnt/`
-    - 美 `/bɪ'nɛfɪsnt/`
+    - 英
+      - `/bɪ'nefɪsnt/`
+    - 美
+      - `/bɪ'nɛfɪsnt/`
   - 词义
-    - adj. 有益的；行善的，慈善的
-    - `helping people, or resulting in something good`
+    - adj.
+      - 有益的；行善的，慈善的
+        - `helping people, or resulting in something good`
   - 记忆
     - bene(善， 好) + fic(做) + ent → 有益的； 行善的， 慈善的
   - 同根词
     - adj.
-      - `benevolent` 仁慈的；慈善的；亲切的
+      - `benevolent`
+        - 仁慈的；慈善的；亲切的
     - n.
-      - `benevolence` 仁慈；善行
-      - `beneficence` 慈善；善行；捐款
-      - `benefaction` 善行；捐赠；恩惠
+      - `benevolence`
+        - 仁慈；善行
+      - `beneficence`
+        - 慈善；善行；捐款
+      - `benefaction`
+        - 善行；捐赠；恩惠
   - 近义词
-    - adj. 慈善的；善行的
-      - `eleemosynary`
+    - adj.
+      - 慈善的；善行的
+        - `eleemosynary`
   - 例句
     - `the beneficent properties of natural remedies`
       - 自然疗法的益处

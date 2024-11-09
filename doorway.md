@@ -1,15 +1,19 @@
 - doorway
   - 发音
-    - 英 `/'dɔːweɪ/`
-    - 美 `/'dɔr'we/`
+    - 英
+      - `/'dɔːweɪ/`
+    - 美
+      - `/'dɔr'we/`
   - 词义
-    - n. 门口
-    - `the space where a door opens into a room or building`
+    - n.
+      - 门口
+        - `the space where a door opens into a room or building`
   - 近义词
-    - n. 门口；途径
-      - `mechanism`
-      - `approach`
-      - `pass`
+    - n.
+      - 门口；途径
+        - `mechanism`
+        - `approach`
+        - `pass`
   - 例句
     - `Hannah looked up to see David and another man standing in the doorway.`
       - 汉纳抬起头，看到戴维和另一个男人站在门口。

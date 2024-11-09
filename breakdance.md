@@ -1,9 +1,12 @@
 - breakdance
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 霹雳舞
+    - n.
+      - 霹雳舞
   - 例句
     - `You dance well. Do you breakdance?`
       - 你的舞跳得真好，你跳霹雳舞吗？

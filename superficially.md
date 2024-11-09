@@ -1,20 +1,28 @@
 - superficially
   - 发音
-    - 英 `/ˌsuːpər'fɪʃəli/`
-    - 美 `/'sʊpɚ'fɪʃəli/`
+    - 英
+      - `/ˌsuːpər'fɪʃəli/`
+    - 美
+      - `/'sʊpɚ'fɪʃəli/`
   - 词义
-    - adv. 表面上地
+    - adv.
+      - 表面上地
   - 同根词
     - adj.
-      - `superficial` 表面的；肤浅的
+      - `superficial`
+        - 表面的；肤浅的
     - n.
-      - `superficial` 表面文章；外表；浅薄的人
-      - `superficiality` 浅薄，肤浅；表面性的事物
-      - `superficies` 外表，表面；面积
+      - `superficial`
+        - 表面文章；外表；浅薄的人
+      - `superficiality`
+        - 浅薄，肤浅；表面性的事物
+      - `superficies`
+        - 外表，表面；面积
   - 近义词
-    - adv. 表面地；浅薄地
-      - `surfacely`
-      - `ectally`
+    - adv.
+      - 表面地；浅薄地
+        - `surfacely`
+        - `ectally`
   - 例句
     - `Narcissists aren't just attractive to themselves. They are, at least superficially, attractive to other people.`
       - 自恋者不只是对自己有吸引力。至少从表面上看，他们对其他人也有吸引力。

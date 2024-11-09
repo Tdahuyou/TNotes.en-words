@@ -1,28 +1,39 @@
 - curiosity
   - 发音
-    - 英 `/ˌkjuri'ɑːsəti/`
-    - 美 `/,kjʊrɪ'ɑsəti/`
+    - 英
+      - `/ˌkjuri'ɑːsəti/`
+    - 美
+      - `/,kjʊrɪ'ɑsəti/`
   - 词义
-    - n. 好奇心，求知欲；罕见而有趣之物，珍品
-    - `the desire to know about something`
+    - n.
+      - 好奇心，求知欲；罕见而有趣之物，珍品
+        - `the desire to know about something`
   - 记忆
     - cur(注意) + ios + ity → 多加注意 → 好奇心
   - 同根词
     - adj.
-      - `curious` 好奇的，有求知欲的；古怪的；爱挑剔的
+      - `curious`
+        - 好奇的，有求知欲的；古怪的；爱挑剔的
     - adv.
-      - `curiously` 好奇地
+      - `curiously`
+        - 好奇地
     - n.
-      - `curio` 古董；珍品
-      - `curiousness` 好学；好奇；不寻常
-      - `curiosa` 珍品；奇品；黄色书刊
+      - `curio`
+        - 古董；珍品
+      - `curiousness`
+        - 好学；好奇；不寻常
+      - `curiosa`
+        - 珍品；奇品；黄色书刊
   - 近义词
-    - n. 好奇，好奇心；珍品，古董，古玩
-      - `treasure`
-      - `pearl`
+    - n.
+      - 好奇，好奇心；珍品，古董，古玩
+        - `treasure`
+        - `pearl`
   - 短语
-    - `out of curiosity` 出于好奇心 
-    - `intellectual curiosity` 求知欲 
+    - `out of curiosity`
+      - 出于好奇心 
+    - `intellectual curiosity`
+      - 求知欲 
   - 例句
     - `I opened the packet just to satisfy my curiosity .`
       - 我打开包裹只是为了满足我的好奇心。

@@ -1,16 +1,21 @@
 - molasses
   - 发音
-    - 英 `/mə'læsɪz/`
-    - 美 `/mə'læsɪz/`
+    - 英
+      - `/mə'læsɪz/`
+    - 美
+      - `/mə'læsɪz/`
   - 词义
-    - n. <美>糖蜜
-    - `a thick dark sweet liquid that is obtained from raw sugar plants when they are being made into sugar`
+    - n.
+      - <美>糖蜜
+        - `a thick dark sweet liquid that is obtained from raw sugar plants when they are being made into sugar`
   - 近义词
-    - n. [食品]糖蜜，糖浆
-      - `treacle`
-      - `sirup`
+    - n.
+      - [食品]糖蜜，糖浆
+        - `treacle`
+        - `sirup`
   - 短语
-    - `cane molasses` 蔗糖蜜；甘蔗糖蜜 
+    - `cane molasses`
+      - 蔗糖蜜；甘蔗糖蜜 
   - 例句
     - `A better natural substitute would be Manuka honey or molasses but only in very small amounts.`
       - 一个天然替代品是麦卢卡蜂蜜或者糖蜜，但是也只能非常小的量。

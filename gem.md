@@ -1,23 +1,29 @@
 - gem
   - 发音
-    - 英 `/dʒem/`
-    - 美 `/dʒɛm/`
+    - 英
+      - `/dʒem/`
+    - 美
+      - `/dʒɛm/`
   - 词义
-    - n. 宝石，珍品；美丽绝伦的事物
-    - `a beautiful stone that has been cut into a special shape`
+    - n.
+      - 宝石，珍品；美丽绝伦的事物
+        - `a beautiful stone that has been cut into a special shape`
   - 同根词
     - adj.
-      - `gemmed` 镶上宝石的
+      - `gemmed`
+        - 镶上宝石的
   - 近义词
-    - n. [宝]宝石；精华；珍品；宝物；美玉
-      - `essence`
-      - `elite`
-      - `flower`
-      - `treasure`
-      - `pearl`
-    - vt. 点缀；用宝石镶嵌；饰以宝石
-      - `lie around`
-      - `set sth off`
+    - n.
+      - [宝]宝石；精华；珍品；宝物；美玉
+        - `essence`
+        - `elite`
+        - `flower`
+        - `treasure`
+        - `pearl`
+    - vt.
+      - 点缀；用宝石镶嵌；饰以宝石
+        - `lie around`
+        - `set sth off`
   - 例句
     - `precious gems`
       - 珍贵的宝石

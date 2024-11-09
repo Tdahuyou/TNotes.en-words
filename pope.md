@@ -1,22 +1,30 @@
 - pope
   - 发音
-    - 英 `/pəʊp/`
-    - 美 `/pop/`
+    - 英
+      - `/pəʊp/`
+    - 美
+      - `/pop/`
   - 词义
-    - n. 教皇，罗马教皇；权威，大师
-    - `Thepope is the head of the Roman Catholic Church`
+    - n.
+      - 教皇，罗马教皇；权威，大师
+        - `Thepope is the head of the Roman Catholic Church`
   - 同根词
     - adj.
-      - `popish` 天主教的；教皇制度的
+      - `popish`
+        - 天主教的；教皇制度的
     - n.
-      - `popery` 罗马天主教
+      - `popery`
+        - 罗马天主教
   - 近义词
-    - n. 教皇，罗马教皇；权威，大师
-      - `authority`
-      - `artist`
+    - n.
+      - 教皇，罗马教皇；权威，大师
+        - `authority`
+        - `artist`
   - 短语
-    - `pope benedict xvi` 教皇本笃十六世（现任天主教教宗） 
-    - `alexander pope` 亚历山大·蒲柏（英国诗人） 
+    - `pope benedict xvi`
+      - 教皇本笃十六世（现任天主教教宗） 
+    - `alexander pope`
+      - 亚历山大·蒲柏（英国诗人） 
   - 例句
     - `The highlight of the pope's visit will be his message to the people.`
       - 教皇访问的亮点是，他将给人们传达训诫。

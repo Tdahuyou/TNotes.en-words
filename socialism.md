@@ -1,47 +1,74 @@
 - socialism
   - 发音
-    - 英 `/'səʊʃəlɪz(ə)m/`
-    - 美 `/'soʃəlɪzəm/`
+    - 英
+      - `/'səʊʃəlɪz(ə)m/`
+    - 美
+      - `/'soʃəlɪzəm/`
   - 词义
-    - n. 社会主义
-    - `an economic and political system in which large industries are owned by the government, and taxes are used to take some wealth away from richer citizens and give it to poorer citizens`
+    - n.
+      - 社会主义
+        - `an economic and political system in which large industries are owned by the government, and taxes are used to take some wealth away from richer citizens and give it to poorer citizens`
   - 记忆
     - social(社会的) ＋ ism(主义) → 社会主义
   - 同根词
     - adj.
-      - `social` 社会的，社交的；群居的
-      - `societal` 社会的
-      - `socialist` 社会主义的
-      - `socialized` 社会化
-      - `socialistic` 社会主义的
+      - `social`
+        - 社会的，社交的；群居的
+      - `societal`
+        - 社会的
+      - `socialist`
+        - 社会主义的
+      - `socialized`
+        - 社会化
+      - `socialistic`
+        - 社会主义的
     - adv.
-      - `socially` 在社会上；在社交方面；善于交际地
+      - `socially`
+        - 在社会上；在社交方面；善于交际地
     - n.
-      - `society` 社会；交往；社团；社交界
-      - `social` 联谊会；联欢会
-      - `socialist` 社会主义者；社会党党员
-      - `socialization` 社会化，社会主义化
-      - `socialisation` 社会化
-      - `sociality` 社会性；社交；好交际
-      - `sociobiologist` 社会生物学家
+      - `society`
+        - 社会；交往；社团；社交界
+      - `social`
+        - 联谊会；联欢会
+      - `socialist`
+        - 社会主义者；社会党党员
+      - `socialization`
+        - 社会化，社会主义化
+      - `socialisation`
+        - 社会化
+      - `sociality`
+        - 社会性；社交；好交际
+      - `sociobiologist`
+        - 社会生物学家
     - v.
-      - `socialized` 使社会化（socialize的过去分词）；社交
+      - `socialized`
+        - 使社会化（socialize的过去分词）；社交
     - vi.
-      - `socialize` 交际；参与社交
-      - `socialise` 参加社交活动；发生社交往来（等于socialize）
+      - `socialize`
+        - 交际；参与社交
+      - `socialise`
+        - 参加社交活动；发生社交往来（等于socialize）
     - vt.
-      - `socialize` 使社会化；使社会主义化；使适应社会生活
-      - `socialise` 使社会化；使社会主义化
+      - `socialize`
+        - 使社会化；使社会主义化；使适应社会生活
+      - `socialise`
+        - 使社会化；使社会主义化
   - 近义词
-    - n. 社会主义
-      - `social justice`
-      - `social democracy`
+    - n.
+      - 社会主义
+        - `social justice`
+        - `social democracy`
   - 短语
-    - `scientific socialism` 科学社会主义 
-    - `market socialism` 市场社会主义（20世纪30年代由鄂图蓝格提出的市场经济理论） 
-    - `democratic socialism` 民主社会主义 
-    - `utopian socialism` 空想社会主义；乌托邦社会主义 
-    - `national socialism` n. （德）国家社会主义（纳粹主义） 
+    - `scientific socialism`
+      - 科学社会主义 
+    - `market socialism`
+      - 市场社会主义（20世纪30年代由鄂图蓝格提出的市场经济理论） 
+    - `democratic socialism`
+      - 民主社会主义 
+    - `utopian socialism`
+      - 空想社会主义；乌托邦社会主义 
+    - `national socialism`
+      - n. （德）国家社会主义（纳粹主义） 
   - 例句
     - `They declared for socialism.`
       - 他们表示拥护社会主义。

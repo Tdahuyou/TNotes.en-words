@@ -1,10 +1,13 @@
 - Whitney
   - 发音
-    - 英 `/'wɪtnɪ/`
-    - 美 `/'hwɪtni/`
+    - 英
+      - `/'wɪtnɪ/`
+    - 美
+      - `/'hwɪtni/`
   - 词义
   - 短语
-    - `whitney houston` 惠特尼·休斯顿（女歌手） 
+    - `whitney houston`
+      - 惠特尼·休斯顿（女歌手） 
   - 例句
     - `That may be extreme, but Ms. Whitney argues that the boom years are not coming back anytime soon.`
       - 这也许有点极端，但是惠特尼女士还是坚持繁荣的年代还没有到来的观点。

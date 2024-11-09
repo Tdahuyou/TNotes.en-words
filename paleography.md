@@ -1,12 +1,16 @@
 - paleography
   - 发音
-    - 英 `/,peɪlɪ'ɒɡrəfiː/`
-    - 美 `/,pelɪ'ɑgrəfi/`
+    - 英
+      - `/,peɪlɪ'ɒɡrəfiː/`
+    - 美
+      - `/,pelɪ'ɑgrəfi/`
   - 词义
-    - n. 古文书,古文书学
+    - n.
+      - 古文书,古文书学
   - 同根词
     - n.
-      - `paleographer` 古文书学家
+      - `paleographer`
+        - 古文书学家
   - 例句
     - `Courses include Latin, paleography, as well as courses in the history and literature of these periods.`
       - 课程包括拉丁语、古文字学和那些时期的历史文学。

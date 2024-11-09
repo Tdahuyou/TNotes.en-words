@@ -1,9 +1,12 @@
 - useless
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - adj. 无用的,无效的
+    - adj.
+      - 无用的,无效的
   - 例句
     - `The editor killed a few useless lines.`
       - 编辑删掉了几行无用的文字。

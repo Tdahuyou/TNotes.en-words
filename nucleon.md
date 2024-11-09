@@ -1,13 +1,17 @@
 - nucleon
   - 发音
-    - 英 `/'njuːkliɔn/`
-    - 美 `/'nʊklɪɑn/`
+    - 英
+      - `/'njuːkliɔn/`
+    - 美
+      - `/'nʊklɪɑn/`
   - 词义
-    - n. 核子
-    - `a proton or neutron, esp one present in an atomic nucleus `
+    - n.
+      - 核子
+        - `a proton or neutron, esp one present in an atomic nucleus `
   - 同根词
     - n.
-      - `nucleonics` 核子学；原子核物理学
+      - `nucleonics`
+        - 核子学；原子核物理学
   - 例句
     - `The greatest amount of nuclear binding energy per nucleon occurs for nuclei in the vicinity of iron.`
       - 按每个核子计，最大的核结合能量出现在铁附近的核中。

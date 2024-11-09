@@ -1,24 +1,33 @@
 - dappled
   - 发音
-    - 英 `/undefined/`
-    - 美 `/'dæpld/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/'dæpld/`
   - 词义
-    - adj. 斑纹的；有斑点的；花的
-    - `marked with spots of colour, light, or shade`
-    - v. 起斑纹（dapple的过去式和过去分词）
+    - adj.
+      - 斑纹的；有斑点的；花的
+        - `marked with spots of colour, light, or shade`
+    - v.
+      - 起斑纹（dapple的过去式和过去分词）
   - 同根词
     - adj.
-      - `dapple` 有斑纹的
+      - `dapple`
+        - 有斑纹的
     - n.
-      - `dapple` 斑纹；花马
+      - `dapple`
+        - 斑纹；花马
     - vi.
-      - `dapple` 起斑纹
+      - `dapple`
+        - 起斑纹
     - vt.
-      - `dapple` 使有斑点
+      - `dapple`
+        - 使有斑点
   - 近义词
-    - adj. 斑纹的；有斑点的；花的
-      - `spotted`
-      - `floral`
+    - adj.
+      - 斑纹的；有斑点的；花的
+        - `spotted`
+        - `floral`
   - 例句
     - `the dappled shade of the trees`
       - 斑驳的树影

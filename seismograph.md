@@ -1,22 +1,32 @@
 - seismograph
   - 发音
-    - 英 `/'saɪzməgræf/`
-    - 美 `/'saɪzməɡræf/`
+    - 英
+      - `/'saɪzməgræf/`
+    - 美
+      - `/'saɪzməɡræf/`
   - 词义
-    - n. 地震仪，测震仪
-    - `an instrument that measures and records the movement of the earth during an  earthquake `
+    - n.
+      - 地震仪，测震仪
+        - `an instrument that measures and records the movement of the earth during an  earthquake `
   - 记忆
     - seism(震动) + o + graph(写； 图) → 能描绘地震情况的(仪器) → 地震仪
   - 同根词
     - adj.
-      - `seismic` 地震的；因地震而引起的
-      - `seismal` 地震的
-      - `seismologic` 地震学的
-      - `seismological` 地震学上的
+      - `seismic`
+        - 地震的；因地震而引起的
+      - `seismal`
+        - 地震的
+      - `seismologic`
+        - 地震学的
+      - `seismological`
+        - 地震学上的
     - n.
-      - `seismology` 地震学
-      - `seism` 地震
-      - `seismography` 地震定测法；地震学（等于seismology）
+      - `seismology`
+        - 地震学
+      - `seism`
+        - 地震
+      - `seismography`
+        - 地震定测法；地震学（等于seismology）
   - 例句
     - `On the right waist have a seismograph, it tender prior to the earthquake forecast the earthquake.`
       - 在右腰上有一个地震仪，它嫩在地震前预报地震。

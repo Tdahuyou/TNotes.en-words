@@ -1,9 +1,12 @@
 - skeletally
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - adj. 骨骼的,梗概的
+    - adj.
+      - 骨骼的,梗概的
   - 例句
     - `Adolescent patients should be skeletally mature with documented closure of growth plates (eg, 15 years or older).`
       - 青少年患者应骨性）成熟的旧记录生长板关闭的（例如，15年。

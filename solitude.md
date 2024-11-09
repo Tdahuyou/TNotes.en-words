@@ -1,22 +1,29 @@
 - solitude
   - 发音
-    - 英 `/'sɑːlətjuːd/`
-    - 美 `/'sɑlətud/`
+    - 英
+      - `/'sɑːlətjuːd/`
+    - 美
+      - `/'sɑlətud/`
   - 词义
-    - n. 孤独，单独；独处，独居；隐居处
-    - `when you are alone, especially when this is what you enjoy`
+    - n.
+      - 孤独，单独；独处，独居；隐居处
+        - `when you are alone, especially when this is what you enjoy`
   - 记忆
     - sol(独自的) + itude → 孤独， 单独
   - 同根词
     - adj.
-      - `solitary` 孤独的；独居的
+      - `solitary`
+        - 孤独的；独居的
     - n.
-      - `solitary` 独居者；隐士
-      - `solitariness` 隐居；单独
+      - `solitary`
+        - 独居者；隐士
+      - `solitariness`
+        - 隐居；单独
   - 近义词
-    - n. 孤独；隐居；荒僻的地方
-      - `privacy`
-      - `loneliness`
+    - n.
+      - 孤独；隐居；荒僻的地方
+        - `privacy`
+        - `loneliness`
   - 例句
     - `the solitude of her house on the lake`
       - 她湖边那所房子的清静

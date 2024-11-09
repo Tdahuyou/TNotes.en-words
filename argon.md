@@ -1,18 +1,26 @@
 - argon
   - 发音
-    - 英 `/'ɑːgɒn/`
-    - 美 `/'ɑrgɑn/`
+    - 英
+      - `/'ɑːgɒn/`
+    - 美
+      - `/'ɑrgɑn/`
   - 词义
-    - n. [化]氩
-    - `a colourless gas that is found in very small quantities in the air and is sometimes used in electric light  bulb s  . It is a chemical  element  : symbol Ar`
+    - n.
+      - [化]氩
+        - `a colourless gas that is found in very small quantities in the air and is sometimes used in electric light  bulb s  . It is a chemical  element  : symbol Ar`
   - 近义词
-    - n. [化学]氩（18号元素）
-      - `ary`
+    - n.
+      - [化学]氩（18号元素）
+        - `ary`
   - 短语
-    - `argon arc` 氩弧焊 
-    - `argon arc welding` 氩弧焊 
-    - `argon laser` [光]氩激光器 
-    - `liquid argon` 液氩 
+    - `argon arc`
+      - 氩弧焊 
+    - `argon arc welding`
+      - 氩弧焊 
+    - `argon laser`
+      - [光]氩激光器 
+    - `liquid argon`
+      - 液氩 
   - 例句
     - `We could use argon ion.`
       - 我们可以用氩离子。

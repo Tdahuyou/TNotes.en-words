@@ -1,18 +1,24 @@
 - opulence
   - 发音
-    - 英 `/'ɒpjələns/`
-    - 美 `/'ɑpjələns/`
+    - 英
+      - `/'ɒpjələns/`
+    - 美
+      - `/'ɑpjələns/`
   - 词义
-    - n. 财富，富裕；丰富，富饶
+    - n.
+      - 财富，富裕；丰富，富饶
   - 同根词
     - adj.
-      - `opulent` 丰富的；富裕的；大量的
+      - `opulent`
+        - 丰富的；富裕的；大量的
     - adv.
-      - `opulently` 富裕地，丰裕地
+      - `opulently`
+        - 富裕地，丰裕地
   - 近义词
-    - n. 富裕；[经]丰富
-      - `abundance`
-      - `plenty`
-      - `pregnancy`
-      - `amplitude`
-      - `richness`
+    - n.
+      - 富裕；[经]丰富
+        - `abundance`
+        - `plenty`
+        - `pregnancy`
+        - `amplitude`
+        - `richness`

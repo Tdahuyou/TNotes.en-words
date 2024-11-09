@@ -1,11 +1,15 @@
 - silage
   - 发音
-    - 英 `/'saɪlɪdʒ/`
-    - 美 `/'saɪlɪdʒ/`
+    - 英
+      - `/'saɪlɪdʒ/`
+    - 美
+      - `/'saɪlɪdʒ/`
   - 词义
-    - vt. 青贮；把放入青贮窖
-    - n. 青贮饲料
-    - `grass or other plants cut and stored so that they can be used as winter food for cattle`
+    - vt.
+      - 青贮；把放入青贮窖
+    - n.
+      - 青贮饲料
+        - `grass or other plants cut and stored so that they can be used as winter food for cattle`
   - 例句
     - `For example, silage production is not common, thus precluding the use of microbial cultures.`
       - 例如，由于青贮饲料的生产并不普遍，因而阻碍了微生物培养物的使用。

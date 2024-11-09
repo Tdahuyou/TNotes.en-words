@@ -1,10 +1,13 @@
 - jabber
   - 发音
-    - 英 `/'dʒæbər/`
-    - 美 `/'dʒæbɚ/`
+    - 英
+      - `/'dʒæbər/`
+    - 美
+      - `/'dʒæbɚ/`
   - 词义
-    - v. 快而含糊地说
-    - `to talk quickly in an excited and unclear way – used to show disapproval`
+    - v.
+      - 快而含糊地说
+        - `to talk quickly in an excited and unclear way – used to show disapproval`
   - 记忆
     - “结巴” → 快而含糊地说
   - 例句

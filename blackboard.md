@@ -1,17 +1,22 @@
 - blackboard
   - 发音
-    - 英 `/'blækbɔːd/`
-    - 美 `/'blækbɔrd/`
+    - 英
+      - `/'blækbɔːd/`
+    - 美
+      - `/'blækbɔrd/`
   - 词义
-    - n. 黑板
-    - `a board with a dark smooth surface, used in schools for writing on with  chalk `
+    - n.
+      - 黑板
+        - `a board with a dark smooth surface, used in schools for writing on with  chalk `
   - 记忆
     - black(黑色的)+board(板， 木板)→黑板
   - 近义词
-    - n. 黑板
-      - `chalkboard`
+    - n.
+      - 黑板
+        - `chalkboard`
   - 短语
-    - `blackboard eraser` n. 黑板擦 
+    - `blackboard eraser`
+      - n. 黑板擦 
   - 例句
     - `She marked a square on the blackboard.`
       - 她在黑板上画了个正方形。

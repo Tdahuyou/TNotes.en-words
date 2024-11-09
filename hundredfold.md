@@ -1,15 +1,21 @@
 - hundredfold
   - 发音
-    - 英 `/'hʌndrədfəʊld/`
-    - 美 `/'hʌndrəd,fold/`
+    - 英
+      - `/'hʌndrədfəʊld/`
+    - 美
+      - `/'hʌndrəd,fold/`
   - 词义
-    - adj. 百倍的
-    - n. 百倍,百重
+    - adj.
+      - 百倍的
+    - n.
+      - 百倍,百重
   - 近义词
-    - n. [数]百倍
-      - `centuplicate`
-    - adj. [数]百倍的
-      - `centuple`
+    - n.
+      - [数]百倍
+        - `centuplicate`
+    - adj.
+      - [数]百倍的
+        - `centuple`
   - 例句
     - `The eminent writers duly propose a huge (nay, hundredfold) boost in funding to help the poor cope with a shifting climate—through drought-resistant crops, for example.`
       - 许多著名的作家适时地提出了一个大量（不仅如此，百倍的）增加资金帮助那些穷人应对一个正在转变的气候——例如，通过抗旱作物。

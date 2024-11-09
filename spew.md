@@ -1,21 +1,28 @@
 - spew
   - 发音
-    - 英 `/spjuː/`
-    - 美 `/spju/`
+    - 英
+      - `/spjuː/`
+    - 美
+      - `/spju/`
   - 词义
-    - v. 喷涌；射出；呕吐，呕出
-    - `to flow out of something quickly in large quantities, or to make something flow out in this way`
-    - n. 喷出物
+    - v.
+      - 喷涌；射出；呕吐，呕出
+        - `to flow out of something quickly in large quantities, or to make something flow out in this way`
+    - n.
+      - 喷出物
   - 同根词
     - n.
-      - `spewer` 呕吐者
+      - `spewer`
+        - 呕吐者
   - 近义词
-    - vt. 喷出；呕吐
-      - `belch out`
-      - `spout out`
-    - vi. 喷涌；呕吐
-      - `shoot the cat`
-      - `hork`
+    - vt.
+      - 喷出；呕吐
+        - `belch out`
+        - `spout out`
+    - vi.
+      - 喷涌；呕吐
+        - `shoot the cat`
+        - `hork`
   - 例句
     - `Factory chimneys spewed fumes out into the sky.`
       - 工厂的烟囱向空中喷吐浓烟。

@@ -1,50 +1,83 @@
 - loop
   - 发音
-    - 英 `/luːp/`
-    - 美 `/lup/`
+    - 英
+      - `/luːp/`
+    - 美
+      - `/lup/`
   - 词义
-    - n. 环,回路
-    - `a shape like a curve or a circle made by a line curving back towards itself, or a piece of wire, string etc that has this shape`
-    - v. 使成环,打环
-    - `If you loop something such as a piece of rope around an object, you tie a length of it in a loop around the object, for example, in order to fasten it to the object`
+    - n.
+      - 环,回路
+        - `a shape like a curve or a circle made by a line curving back towards itself, or a piece of wire, string etc that has this shape`
+    - v.
+      - 使成环,打环
+        - `If you loop something such as a piece of rope around an object, you tie a length of it in a loop around the object, for example, in order to fasten it to the object`
   - 同根词
     - adj.
-      - `looped` 成圈的；酩酊大醉的
-      - `looping` 循环的；环状的
-      - `loopy` 多圈的；呆头呆脑的
+      - `looped`
+        - 成圈的；酩酊大醉的
+      - `looping`
+        - 循环的；环状的
+      - `loopy`
+        - 多圈的；呆头呆脑的
     - n.
-      - `looper` 打环的人；打环装置；尺蠖（等于measuring worm）
-      - `looping` 循环；回路法；构成环形
+      - `looper`
+        - 打环的人；打环装置；尺蠖（等于measuring worm）
+      - `looping`
+        - 循环；回路法；构成环形
     - v.
-      - `looped` 成圈；打环（loop的过去式和过去分词）
-      - `looping` 打成环状；把导线连成回路；缠（loop的ing形式）
+      - `looped`
+        - 成圈；打环（loop的过去式和过去分词）
+      - `looping`
+        - 打成环状；把导线连成回路；缠（loop的ing形式）
   - 近义词
-    - vi. 打环；[航]翻筋斗
-      - `somersault`
-    - n. 环；圈；弯曲部分；[航]翻筋斗
-      - `annulus`
-      - `anulus`
+    - vi.
+      - 打环；[航]翻筋斗
+        - `somersault`
+    - n.
+      - 环；圈；弯曲部分；[航]翻筋斗
+        - `annulus`
+        - `anulus`
   - 短语
-    - `closed loop` 闭环，闭合环路 
-    - `loop control` 循环控制 
-    - `loop system` 环形系统，环状管网；闭合系统 
-    - `open loop` 开环 
-    - `control loop` 控制回路，操纵系统 
-    - `closed loop system` [计]闭循环系统 
-    - `feedback loop` [计]反馈环路，反馈回路 
-    - `phase-locked loop` 锁相回路 
-    - `current loop` [电]电流环路 
-    - `hysteresis loop` 滞后回线，磁滞回线 
-    - `in the loop` 在消息圈内；在决策圈内；在参与机密的智囊团内 
-    - `closed loop control system` 闭环控制系统 
-    - `inner loop` 内循环；内环路；局部回路 
-    - `double loop` 双箕；双环路 
-    - `phase locked loop` 锁相环路，锁相回路 
-    - `outer loop` 外侧环路；外层循环 
-    - `infinite loop` 无限循环 
-    - `loop filter` 回路滤波器 
-    - `position loop` 位置回路 
-    - `single loop` 单回路的；单环路 
+    - `closed loop`
+      - 闭环，闭合环路 
+    - `loop control`
+      - 循环控制 
+    - `loop system`
+      - 环形系统，环状管网；闭合系统 
+    - `open loop`
+      - 开环 
+    - `control loop`
+      - 控制回路，操纵系统 
+    - `closed loop system`
+      - [计]闭循环系统 
+    - `feedback loop`
+      - [计]反馈环路，反馈回路 
+    - `phase-locked loop`
+      - 锁相回路 
+    - `current loop`
+      - [电]电流环路 
+    - `hysteresis loop`
+      - 滞后回线，磁滞回线 
+    - `in the loop`
+      - 在消息圈内；在决策圈内；在参与机密的智囊团内 
+    - `closed loop control system`
+      - 闭环控制系统 
+    - `inner loop`
+      - 内循环；内环路；局部回路 
+    - `double loop`
+      - 双箕；双环路 
+    - `phase locked loop`
+      - 锁相环路，锁相回路 
+    - `outer loop`
+      - 外侧环路；外层循环 
+    - `infinite loop`
+      - 无限循环 
+    - `loop filter`
+      - 回路滤波器 
+    - `position loop`
+      - 位置回路 
+    - `single loop`
+      - 单回路的；单环路 
   - 例句
     - `He looped the rope over the wood.`
       - 他把绳子打了环系在木头上。

@@ -1,14 +1,18 @@
 - interconnected
   - 发音
-    - 英 `/ˌɪntərkə'nektɪd/`
-    - 美 `/,ɪntɚkə'nɛkt/`
+    - 英
+      - `/ˌɪntərkə'nektɪd/`
+    - 美
+      - `/,ɪntɚkə'nɛkt/`
   - 词义
-    - adj. 相互连接的
+    - adj.
+      - 相互连接的
   - 记忆
     - inter(在…中间) + connect(连接) + ed → 在中间连接 → 相互连接的
   - 近义词
-    - adj. 连通的；有联系的
-      - `connected`
+    - adj.
+      - 连通的；有联系的
+        - `connected`
   - 例句
     - `The plates are bounded by an interconnected network of ridges, transform faults, and trenches.`
       - 板块以一个由洋中脊、转换断层和海沟相互连接形成的网络为界。

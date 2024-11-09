@@ -1,16 +1,21 @@
 - thumbtack
   - 发音
-    - 英 `/'θʌmtæk/`
-    - 美 `/'θʌmtæk/`
+    - 英
+      - `/'θʌmtæk/`
+    - 美
+      - `/'θʌmtæk/`
   - 词义
-    - n. 图钉
-    - `a short pin with a flat top that is used for fixing notices on walls`
-    - v. 用图钉钉住
+    - n.
+      - 图钉
+        - `a short pin with a flat top that is used for fixing notices on walls`
+    - v.
+      - 用图钉钉住
   - 近义词
-    - n. 图钉
-      - `pushpin`
-      - `drawing pin`
-      - `thumb pin`
+    - n.
+      - 图钉
+        - `pushpin`
+        - `drawing pin`
+        - `thumb pin`
   - 例句
     - `Also there is a more sarcastic way, which is not recommended, that is, put a thumbtack into the tire.`
       - 还有一种更损的方式，不值得推荐，那就是在车胎上按上个图钉。

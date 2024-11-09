@@ -1,17 +1,24 @@
 - histogram
   - 发音
-    - 英 `/'hɪstəgræm/`
-    - 美 `/'hɪstəɡræm/`
+    - 英
+      - `/'hɪstəgræm/`
+    - 美
+      - `/'hɪstəɡræm/`
   - 词义
-    - n. [统计]直方图；柱状图
-    - `a  bar chart `
+    - n.
+      - [统计]直方图；柱状图
+        - `a  bar chart `
   - 近义词
-    - n. [统计]直方图；柱状图
-      - `column diagram`
+    - n.
+      - [统计]直方图；柱状图
+        - `column diagram`
   - 短语
-    - `histogram equalization` 直方图均衡化 
-    - `frequency histogram` 频率直方图；柱形统计图 
-    - `histogram specification` [计]直方图规定化 
+    - `histogram equalization`
+      - 直方图均衡化 
+    - `frequency histogram`
+      - 频率直方图；柱形统计图 
+    - `histogram specification`
+      - [计]直方图规定化 
   - 例句
     - `One way to quickly check out if there's any area in your shot that is overexposed to this degree is to view the histogram on your shot.`
       - 一个方法来快速检查在你的拍摄中是否有过度曝光到这种程度的情况发生可用拍摄中的直方图。

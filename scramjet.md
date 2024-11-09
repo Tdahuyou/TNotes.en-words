@@ -1,10 +1,13 @@
 - scramjet
   - 发音
-    - 英 `/'skræmdʒet/`
-    - 美 `/'skræm,dʒɛt/`
+    - 英
+      - `/'skræmdʒet/`
+    - 美
+      - `/'skræm,dʒɛt/`
   - 词义
-    - n. 超音速燃烧冲压喷气发动机
-    - `a type of powerful engine that can make an aircraft fly at more than ten times the speed of sound`
+    - n.
+      - 超音速燃烧冲压喷气发动机
+        - `a type of powerful engine that can make an aircraft fly at more than ten times the speed of sound`
   - 例句
     - `Earlier this week, the Air Force announced that the X-51 WaveRider, a wingless scramjet, would make its first hypersonic flight.`
       - 本周初，美国空军宣布，超音速燃烧冲压发动机驱动的X-51“驭波者”将进行其首次超音速飞行。

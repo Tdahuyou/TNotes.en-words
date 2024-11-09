@@ -1,17 +1,23 @@
 - embezzle
   - 发音
-    - 英 `/im'bezl/`
-    - 美 `/ɪm'bɛzl/`
+    - 英
+      - `/im'bezl/`
+    - 美
+      - `/ɪm'bɛzl/`
   - 词义
-    - v. 盗用；挪用
-    - `to steal money from the place where you work`
+    - v.
+      - 盗用；挪用
+        - `to steal money from the place where you work`
   - 同根词
     - n.
-      - `embezzlement` 侵占；挪用；盗用
-      - `embezzler` 侵占公款犯，盗用公款者
+      - `embezzlement`
+        - 侵占；挪用；盗用
+      - `embezzler`
+        - 侵占公款犯，盗用公款者
   - 近义词
-    - vt. 盗用；挪用；贪污
-      - `misappropriate`
+    - vt.
+      - 盗用；挪用；贪污
+        - `misappropriate`
   - 例句
     - `Two managers were charged with embezzling $400,000.`
       - 两名经理被控挪用了40万美元。

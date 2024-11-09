@@ -1,18 +1,23 @@
 - immolate
   - 发音
-    - 英 `/'ɪməleɪt/`
-    - 美 `/'ɪməlet/`
+    - 英
+      - `/'ɪməleɪt/`
+    - 美
+      - `/'ɪməlet/`
   - 词义
-    - v. 牺牲，献祭
+    - v.
+      - 牺牲，献祭
   - 记忆
     - im(在…之上) + mola(用作祭品的肉) + te → 放上祭品 → 牺牲
   - 同根词
     - n.
-      - `immolation` 祭物，供奉牲礼；宰杀，祭品
+      - `immolation`
+        - 祭物，供奉牲礼；宰杀，祭品
   - 近义词
-    - vt. 献祭；牺牲；为供神而宰杀
-      - `sacrifice to`
-      - `give for`
+    - vt.
+      - 献祭；牺牲；为供神而宰杀
+        - `sacrifice to`
+        - `give for`
   - 例句
     - `He would immolate himself for their noble cause .`
       - 他愿意为他们的崇高事业牺牲自己。

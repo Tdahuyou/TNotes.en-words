@@ -1,18 +1,25 @@
 - beneath
   - 发音
-    - 英 `/bɪ'niːθ/`
-    - 美 `/bɪˈniːθ/`
+    - 英
+      - `/bɪ'niːθ/`
+    - 美
+      - `/bɪˈniːθ/`
   - 词义
-    - prep. 在…下,(地位等)低于
-    - adv. 在下方
-    - `in or to a lower position than something, or directly under something`
+    - prep.
+      - 在…下,(地位等)低于
+    - adv.
+      - 在下方
+        - `in or to a lower position than something, or directly under something`
   - 近义词
-    - prep. 在…之下
-      - `neath`
-    - adv. 在下方
-      - `under`
+    - prep.
+      - 在…之下
+        - `neath`
+    - adv.
+      - 在下方
+        - `under`
   - 短语
-    - `beneath one` 不会做出；不合身份 
+    - `beneath one`
+      - 不会做出；不合身份 
   - 例句
     - `The dolphins disappeared beneath the waves.`
       - 海豚消失在波涛中。

@@ -1,33 +1,44 @@
 - inhabit
   - 发音
-    - 英 `/ɪn'hæbɪt/`
-    - 美 `/ɪn'hæbɪt/`
+    - 英
+      - `/ɪn'hæbɪt/`
+    - 美
+      - `/ɪn'hæbɪt/`
   - 词义
-    - vt. 居住于，栖居于
-    - `if animals or people inhabit an area or place, they live there`
+    - vt.
+      - 居住于，栖居于
+        - `if animals or people inhabit an area or place, they live there`
   - 记忆
     - in(在…里面) + hab(居住， 生活) + it → 住在里面 → 居住于， 栖居于
   - 同根词
     - adj.
-      - `inhabited` 有人居住的
-      - `inhabitable` 适于居住的；可居住的，可栖居的
+      - `inhabited`
+        - 有人居住的
+      - `inhabitable`
+        - 适于居住的；可居住的，可栖居的
     - n.
-      - `inhabitant` 居民；居住者
-      - `inhabitancy` 居住，住所；有人居住的状态
-      - `inhabitation` 居住；栖息
+      - `inhabitant`
+        - 居民；居住者
+      - `inhabitancy`
+        - 居住，住所；有人居住的状态
+      - `inhabitation`
+        - 居住；栖息
     - v.
-      - `inhabited` 占据（inhabit的过去分词）；居住于
+      - `inhabited`
+        - 占据（inhabit的过去分词）；居住于
   - 近义词
-    - vt. 栖息；居住于；占据
-      - `people`
-      - `occupy`
-      - `bag`
-    - vi. （古）居住；栖息
-      - `belong`
-      - `room`
-      - `harbor`
-      - `live`
-      - `dwell`
+    - vt.
+      - 栖息；居住于；占据
+        - `people`
+        - `occupy`
+        - `bag`
+    - vi.
+      - （古）居住；栖息
+        - `belong`
+        - `room`
+        - `harbor`
+        - `live`
+        - `dwell`
   - 例句
     - `The woods are inhabited by many wild animals.`
       - 很多野生动物栖居在这片森林里。

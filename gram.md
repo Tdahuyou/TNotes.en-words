@@ -1,21 +1,31 @@
 - gram
   - 发音
-    - 英 `/ɡræm/`
-    - 美 `/ɡræm/`
+    - 英
+      - `/ɡræm/`
+    - 美
+      - `/ɡræm/`
   - 词义
-    - n. 克
-    - `the basic unit for measuring weight in the  metric system `
+    - n.
+      - 克
+        - `the basic unit for measuring weight in the  metric system `
   - 近义词
-    - n. 克；鹰嘴豆（用作饲料）
-      - `garbanzo`
-      - `chick-pea`
+    - n.
+      - 克；鹰嘴豆（用作饲料）
+        - `garbanzo`
+        - `chick-pea`
   - 短语
-    - `gram negative` adj. 革兰氏阴性的；革兰氏〔染色）阴性的 
-    - `gram positive` [生]革兰氏（染色）阳性 
-    - `gram negative bacteria` 革兰氏阴性细菌 
-    - `gram stain` 革兰氏染色剂 
-    - `gram force` 克力 
-    - `gram weight` 克重 
+    - `gram negative`
+      - adj. 革兰氏阴性的；革兰氏〔染色）阴性的 
+    - `gram positive`
+      - [生]革兰氏（染色）阳性 
+    - `gram negative bacteria`
+      - 革兰氏阴性细菌 
+    - `gram stain`
+      - 革兰氏染色剂 
+    - `gram force`
+      - 克力 
+    - `gram weight`
+      - 克重 
   - 例句
     - `Then they chose one gram for weighing water in a cubic centimetre.`
       - 然后他们将一立方厘米的水的重量定为一克。

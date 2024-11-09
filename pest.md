@@ -1,30 +1,43 @@
 - pest
   - 发音
-    - 英 `/pest/`
-    - 美 `/pɛst/`
+    - 英
+      - `/pest/`
+    - 美
+      - `/pɛst/`
   - 词义
-    - n. 害虫；令人讨厌的人
-    - `an annoying person, especially a child`
+    - n.
+      - 害虫；令人讨厌的人
+        - `an annoying person, especially a child`
   - 记忆
     - “拍死它” → 见到害虫就拍死它 → 害虫
   - 同根词
     - adj.
-      - `pesky` 讨厌的；麻烦的
-      - `pestilent` 致命的；有害的；恼人的；危害社会的
-      - `pestiferous` 传播疾病的；有害的，毒害的；邪恶的
-      - `pestilential` 引起瘟疫的；瘟疫似的；讨厌的
+      - `pesky`
+        - 讨厌的；麻烦的
+      - `pestilent`
+        - 致命的；有害的；恼人的；危害社会的
+      - `pestiferous`
+        - 传播疾病的；有害的，毒害的；邪恶的
+      - `pestilential`
+        - 引起瘟疫的；瘟疫似的；讨厌的
     - adv.
-      - `pesky` 极端
+      - `pesky`
+        - 极端
     - n.
-      - `pestilence` 瘟疫（尤指鼠疫）；有害的事物
+      - `pestilence`
+        - 瘟疫（尤指鼠疫）；有害的事物
   - 近义词
-    - n. 害虫；[植保]有害之物；讨厌的人
-      - `verm`
-      - `injurious insect`
+    - n.
+      - 害虫；[植保]有害之物；讨厌的人
+        - `verm`
+        - `injurious insect`
   - 短语
-    - `pest control` 害虫防治 
-    - `pest management` 病虫害控制；病虫害治理；有害生物管理 
-    - `insect pest` 害虫 
+    - `pest control`
+      - 害虫防治 
+    - `pest management`
+      - 病虫害控制；病虫害治理；有害生物管理 
+    - `insect pest`
+      - 害虫 
   - 例句
     - `a chemical used in pest control`
       - 用于防治虫害的一种化学品

@@ -1,14 +1,18 @@
 - stanza
   - 发音
-    - 英 `/'stænzə/`
-    - 美 `/'stænzə/`
+    - 英
+      - `/'stænzə/`
+    - 美
+      - `/'stænzə/`
   - 词义
-    - n. 节，段
-    - `a group of lines in a repeated pattern forming part of a poem`
+    - n.
+      - 节，段
+        - `a group of lines in a repeated pattern forming part of a poem`
   - 近义词
-    - n. 演出期；局；场；诗的一节
-      - `bureau`
-      - `department`
+    - n.
+      - 演出期；局；场；诗的一节
+        - `bureau`
+        - `department`
   - 例句
     - `The poem's first stanza tells how the speaker meets a fellow "nobody" — a friend.`
       - 这首诗的第一段描写诗人如何遇到了另一位“无名小卒”-- 一位朋友。

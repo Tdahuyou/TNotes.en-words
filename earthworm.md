@@ -1,16 +1,20 @@
 - earthworm
   - 发音
-    - 英 `/'ɜːθwɜːm/`
-    - 美 `/'ɝθwɝm/`
+    - 英
+      - `/'ɜːθwɜːm/`
+    - 美
+      - `/'ɝθwɝm/`
   - 词义
-    - n. 蚯蚓
-    - `a common type of long thin brown worm that lives in soil`
+    - n.
+      - 蚯蚓
+        - `a common type of long thin brown worm that lives in soil`
   - 近义词
-    - n. [无脊椎]蚯蚓
-      - `fishworm`
-      - `angleworm`
-      - `Hode`
-      - `rainworm`
+    - n.
+      - [无脊椎]蚯蚓
+        - `fishworm`
+        - `angleworm`
+        - `Hode`
+        - `rainworm`
   - 例句
     - `The earthworm is a useful animal. On the ground it is food for other animals. Under the ground, it makes rich soil for fields and gardens.`
       - 蚯蚓是一种有益的动物。在地面上它是其他动物的食物。在地下，它为田园和花园制造肥沃的土壤。

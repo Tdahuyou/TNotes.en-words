@@ -1,21 +1,27 @@
 - ruthless
   - 发音
-    - 英 `/'ruːθləs/`
-    - 美 `/'rʊθləs/`
+    - 英
+      - `/'ruːθləs/`
+    - 美
+      - `/'rʊθləs/`
   - 词义
-    - adj. 无情的，残酷的，冷酷的；坚决的，彻底的
-    - `so determined to get what you want that you do not care if you have to hurt other people in order to do it`
+    - adj.
+      - 无情的，残酷的，冷酷的；坚决的，彻底的
+        - `so determined to get what you want that you do not care if you have to hurt other people in order to do it`
   - 记忆
     - ruth(怜悯) + less(无) → 毫无怜悯之心的 → 无情的
   - 同根词
     - adv.
-      - `ruthlessly` 无情地；残忍地；冷酷地
+      - `ruthlessly`
+        - 无情地；残忍地；冷酷地
     - n.
-      - `ruthlessness` 无情；冷酷；残忍
+      - `ruthlessness`
+        - 无情；冷酷；残忍
   - 近义词
-    - adj. 无情的，残忍的
-      - `cruel`
-      - `relentless`
+    - adj.
+      - 无情的，残忍的
+        - `cruel`
+        - `relentless`
   - 例句
     - `a ruthless dictator`
       - 无情的独裁者

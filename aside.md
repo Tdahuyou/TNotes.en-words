@@ -1,24 +1,34 @@
 - aside
   - 发音
-    - 英 `/ə'saɪd/`
-    - 美 `/ə'saɪd/`
+    - 英
+      - `/ə'saɪd/`
+    - 美
+      - `/ə'saɪd/`
   - 词义
-    - adv. 在旁边,到旁边
-    - `moved to one side or away from you`
+    - adv.
+      - 在旁边,到旁边
+        - `moved to one side or away from you`
   - 近义词
-    - adv. 离开，撇开；在旁边
-      - `away from`
-      - `alongside`
-    - n. 旁白；私语，悄悄话；离题的话
-      - `voice-over`
-      - `whisper`
-    - prep. 在…旁边
-      - `at the side of`
+    - adv.
+      - 离开，撇开；在旁边
+        - `away from`
+        - `alongside`
+    - n.
+      - 旁白；私语，悄悄话；离题的话
+        - `voice-over`
+        - `whisper`
+    - prep.
+      - 在…旁边
+        - `at the side of`
   - 短语
-    - `set aside` 留出；驳回，撤销；不顾 
-    - `aside from` 除…以外 
-    - `put aside` v. 撇开；储存…备用 
-    - `lay aside` 搁置；储蓄；留存 
+    - `set aside`
+      - 留出；驳回，撤销；不顾 
+    - `aside from`
+      - 除…以外 
+    - `put aside`
+      - v. 撇开；储存…备用 
+    - `lay aside`
+      - 搁置；储蓄；留存 
   - 例句
     - `He pushed his half-eaten salad aside and left.`
       - 他推开吃了一半的色拉走了。

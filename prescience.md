@@ -1,18 +1,23 @@
 - prescience
   - 发音
-    - 英 `/'presiəns/`
-    - 美 `/'prɛʃɪəns/`
+    - 英
+      - `/'presiəns/`
+    - 美
+      - `/'prɛʃɪəns/`
   - 词义
-    - n. 预知；先见
+    - n.
+      - 预知；先见
   - 记忆
     - 来自prescien (t) (有先见之明的) + ce → 预知； 先见
   - 同根词
     - adj.
-      - `prescient` 预知的；有先见之明的
+      - `prescient`
+        - 预知的；有先见之明的
   - 近义词
-    - n. 先见；预知
-      - `prognosis`
-      - `foresight`
+    - n.
+      - 先见；预知
+        - `prognosis`
+        - `foresight`
   - 例句
     - `Over the years he's demonstrated a certain prescience in foreign affairs.`
       - 这些年来，他已经在外交事务方面表现出一定的预见性。 。

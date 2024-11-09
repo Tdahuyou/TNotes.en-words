@@ -1,26 +1,36 @@
 - fervor
   - 发音
-    - 英 `/'fɜːrvər/`
-    - 美 `/'fə:və/`
+    - 英
+      - `/'fɜːrvər/`
+    - 美
+      - `/'fə:və/`
   - 词义
-    - n. 热情，热烈
+    - n.
+      - 热情，热烈
   - 同根词
     - adj.
-      - `fervent` 热心的；强烈的；炽热的；热烈的
-      - `fervid` 热的；热心的
+      - `fervent`
+        - 热心的；强烈的；炽热的；热烈的
+      - `fervid`
+        - 热的；热心的
     - adv.
-      - `fervently` 热心地；热诚地
-      - `fervidly` 激情地，热情地
+      - `fervently`
+        - 热心地；热诚地
+      - `fervidly`
+        - 激情地，热情地
     - n.
-      - `fervour` 热情（等于fervor）
-      - `fervency` 热情；炽热；热烈
+      - `fervour`
+        - 热情（等于fervor）
+      - `fervency`
+        - 热情；炽热；热烈
   - 近义词
-    - n. 热情；热烈；热心；炽热
-      - `passion`
-      - `flame`
-      - `heat`
-      - `fire`
-      - `warmth`
+    - n.
+      - 热情；热烈；热心；炽热
+        - `passion`
+        - `flame`
+        - `heat`
+        - `fire`
+        - `warmth`
   - 例句
     - `He took up the cause with evangelical fervor .`
       - 他以传道者般的热情投身于这一事业。

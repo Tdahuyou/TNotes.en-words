@@ -1,13 +1,18 @@
 - beige
   - 发音
-    - 英 `/beɪʒ; beɪdʒ/`
-    - 美 `/beʒ/`
+    - 英
+      - `/beɪʒ; beɪdʒ/`
+    - 美
+      - `/beʒ/`
   - 词义
-    - n. 米黄色
-    - `a pale brown colour`
-    - adj. 浅褐色的；米黄色的；枯燥乏味的
+    - n.
+      - 米黄色
+        - `a pale brown colour`
+    - adj.
+      - 浅褐色的；米黄色的；枯燥乏味的
   - 短语
-    - `beige book` 褐皮书；黄皮书（由美国联邦储备委员会公布的经济报告） 
+    - `beige book`
+      - 褐皮书；黄皮书（由美国联邦储备委员会公布的经济报告） 
   - 例句
     - `The most popular colours appeared to be “white, ” “black” and “beige”.`
       - “白色”、“黑色”和“米色”是出现频率最高的颜色。

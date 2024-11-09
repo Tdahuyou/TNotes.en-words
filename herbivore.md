@@ -1,19 +1,24 @@
 - herbivore
   - 发音
-    - 英 `/'hɜːrbɪvɔːr/`
-    - 美 `/ɝ​bəˌvɔr/`
+    - 英
+      - `/'hɜːrbɪvɔːr/`
+    - 美
+      - `/ɝ​bəˌvɔr/`
   - 词义
-    - n. 食草动物
-    - `an animal that only eats plants`
+    - n.
+      - 食草动物
+        - `an animal that only eats plants`
   - 记忆
     - herb(i)(草) + vor(吃) + e → 食草动物
   - 同根词
     - adj.
-      - `herbivorous` [动] 食草的
+      - `herbivorous`
+        - [动] 食草的
   - 近义词
-    - n. [动]食草动物
-      - `phytophagans`
-      - `primary consumer`
+    - n.
+      - [动]食草动物
+        - `phytophagans`
+        - `primary consumer`
   - 例句
     - `Most herbivore teeth are grinders, canines are usually absent.`
       - 食草动物的牙齿大部分是臼齿，通常没有犬齿。

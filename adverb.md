@@ -1,18 +1,25 @@
 - adverb
   - 发音
-    - 英 `/'ædvɜːb/`
-    - 美 `/'ædvɝb/`
+    - 英
+      - `/'ædvɜːb/`
+    - 美
+      - `/'ædvɝb/`
   - 词义
-    - n. 副词
-    - `a word that adds to the meaning of a verb, an adjective, another adverb, or a whole sentence, such as ‘slowly’ in ‘He ran slowly’, ‘very’ in ‘It’s very hot’, or ‘naturally’ in ‘Naturally, we want you to come.’`
-    - adj. 副词的
+    - n.
+      - 副词
+        - `a word that adds to the meaning of a verb, an adjective, another adverb, or a whole sentence, such as ‘slowly’ in ‘He ran slowly’, ‘very’ in ‘It’s very hot’, or ‘naturally’ in ‘Naturally, we want you to come.’`
+    - adj.
+      - 副词的
   - 同根词
     - adj.
-      - `adverbial` 状语的；副词的
+      - `adverbial`
+        - 状语的；副词的
     - adv.
-      - `adverbially` 当副词地
+      - `adverbially`
+        - 当副词地
     - n.
-      - `adverbial` 状语
+      - `adverbial`
+        - 状语
   - 例句
     - `Will you please compare the adverb “well”?`
       - 请你说出副词“well”的原级、比较级和最高级好吗?

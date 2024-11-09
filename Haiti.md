@@ -1,9 +1,12 @@
 - Haiti
   - 发音
-    - 英 `/'heiti/`
-    - 美 `/undefined/`
+    - 英
+      - `/'heiti/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 海地
+    - n.
+      - 海地
   - 例句
     - `We went through this after the Haiti earthquake, and all of the arguments which applied there apply to Japan as well.`
       - 我们在海地地震后讨论过这个，并且相信所有适用于那里的论断同样会在适用于日本。

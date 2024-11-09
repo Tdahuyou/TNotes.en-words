@@ -1,18 +1,24 @@
 - aridity
   - 发音
-    - 英 `/ə'rɪdətɪ/`
-    - 美 `/æ'rɪdəti/`
+    - 英
+      - `/ə'rɪdətɪ/`
+    - 美
+      - `/æ'rɪdəti/`
   - 词义
-    - n. 干旱,乏味
+    - n.
+      - 干旱,乏味
   - 同根词
     - adj.
-      - `arid` 干旱的；不毛的，[农] 荒芜的
+      - `arid`
+        - 干旱的；不毛的，[农] 荒芜的
     - n.
-      - `aridness` 干燥
+      - `aridness`
+        - 干燥
   - 近义词
-    - n. [气候]干旱；乏味
-      - `drought`
-      - `tediousness`
+    - n.
+      - [气候]干旱；乏味
+        - `drought`
+        - `tediousness`
   - 例句
     - `"Increased aridity is making the drylands the most conflict prone region of the world, " he said.`
       - “干旱的增加正使旱地成为世界上最容易发生冲突的地区，”他说。

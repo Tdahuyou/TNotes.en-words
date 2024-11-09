@@ -1,28 +1,40 @@
 - ventilate
   - 发音
-    - 英 `/'ventɪleɪt/`
-    - 美 `/'vɛntɪlet/`
+    - 英
+      - `/'ventɪleɪt/`
+    - 美
+      - `/'vɛntɪlet/`
   - 词义
-    - v. 使通风；给…装通风设备；宣布
-    - `to let fresh air into a room, building etc`
+    - v.
+      - 使通风；给…装通风设备；宣布
+        - `to let fresh air into a room, building etc`
   - 同根词
     - adj.
-      - `ventilated` 通风的
-      - `ventilatory` 通气的，通风的
+      - `ventilated`
+        - 通风的
+      - `ventilatory`
+        - 通气的，通风的
     - n.
-      - `vent` （感情的）发泄；出口；通风孔
-      - `ventilation` 通风设备；空气流通
-      - `ventilator` 通风设备；换气扇
+      - `vent`
+        - （感情的）发泄；出口；通风孔
+      - `ventilation`
+        - 通风设备；空气流通
+      - `ventilator`
+        - 通风设备；换气扇
     - v.
-      - `ventilated` 发表；使…通风（ventilate的过去分词）
+      - `ventilated`
+        - 发表；使…通风（ventilate的过去分词）
     - vi.
-      - `vent` 放出；（通过排泄等）减轻压力
+      - `vent`
+        - 放出；（通过排泄等）减轻压力
     - vt.
-      - `vent` 发泄感情；放出…；给…开孔
+      - `vent`
+        - 发泄感情；放出…；给…开孔
   - 近义词
-    - vt. 使通风；给…装通风设备；宣布
-      - `air`
-      - `bill`
+    - vt.
+      - 使通风；给…装通风设备；宣布
+        - `air`
+        - `bill`
   - 例句
     - `Both patients are sedated and ventilated.`
       - 两位病人都用了镇静剂和呼吸机。

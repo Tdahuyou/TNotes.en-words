@@ -1,24 +1,33 @@
 - stagnation
   - 发音
-    - 英 `/stæɡ'neɪʃən/`
-    - 美 `/stæg'neʃən/`
+    - 英
+      - `/stæɡ'neɪʃən/`
+    - 美
+      - `/stæg'neʃən/`
   - 词义
-    - n. 停滞；滞止
+    - n.
+      - 停滞；滞止
   - 同根词
     - adj.
-      - `stagnant` 停滞的；不景气的；污浊的；迟钝的
+      - `stagnant`
+        - 停滞的；不景气的；污浊的；迟钝的
     - n.
-      - `stagnancy` 停滞；迟钝；萧条；不景气
+      - `stagnancy`
+        - 停滞；迟钝；萧条；不景气
     - vi.
-      - `stagnate` 停滞；淤塞；变萧条
+      - `stagnate`
+        - 停滞；淤塞；变萧条
     - vt.
-      - `stagnate` 使淤塞；使沉滞；使萧条
+      - `stagnate`
+        - 使淤塞；使沉滞；使萧条
   - 近义词
-    - n. [水文]停滞；滞止
-      - `stasis`
-      - `bogged down`
+    - n.
+      - [水文]停滞；滞止
+        - `stasis`
+        - `bogged down`
   - 短语
-    - `stagnation point` 驻点；滞留点 
+    - `stagnation point`
+      - 驻点；滞留点 
   - 例句
     - `Is there anything that could protect us from the dangers of stagnation or a double dip?`
       - 那么有什么方法能够保护我们免受停滞或二次探底的危险吗？

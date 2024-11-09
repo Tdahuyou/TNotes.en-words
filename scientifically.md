@@ -1,18 +1,25 @@
 - scientifically
   - 发音
-    - 英 `/saiən'tifikli/`
-    - 美 `/saɪən'tɪfɪkli/`
+    - 英
+      - `/saiən'tifikli/`
+    - 美
+      - `/saɪən'tɪfɪkli/`
   - 词义
-    - adv. 科学地,系统地
+    - adv.
+      - 科学地,系统地
   - 同根词
     - adj.
-      - `scientific` 科学的，系统的
+      - `scientific`
+        - 科学的，系统的
     - n.
-      - `science` 科学；技术；学科；理科
-      - `scientist` 科学家
+      - `science`
+        - 科学；技术；学科；理科
+      - `scientist`
+        - 科学家
   - 近义词
-    - adv. 系统地；合乎科学地；学问上
-      - `systematacially`
+    - adv.
+      - 系统地；合乎科学地；学问上
+        - `systematacially`
   - 例句
     - `He explained scientifically the most important questions of political economy.`
       - 他科学地阐述了政治经济学中一些最重要的问题。

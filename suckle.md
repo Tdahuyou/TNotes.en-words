@@ -1,23 +1,30 @@
 - suckle
   - 发音
-    - 英 `/'sʌk(ə)l/`
-    - 美 `/'sʌkl/`
+    - 英
+      - `/'sʌk(ə)l/`
+    - 美
+      - `/'sʌkl/`
   - 词义
-    - v. 给…哺乳；吮吸；养育
-    - `to feed a baby or young animal with milk from the breast`
+    - v.
+      - 给…哺乳；吮吸；养育
+        - `to feed a baby or young animal with milk from the breast`
   - 同根词
     - adj.
-      - `suckling` 尚未断奶的，哺乳的；初出茅庐的
+      - `suckling`
+        - 尚未断奶的，哺乳的；初出茅庐的
     - n.
-      - `suckling` 乳儿；乳臭未干的小子
+      - `suckling`
+        - 乳儿；乳臭未干的小子
     - v.
-      - `suckling` 哺乳；养育（suckle的ing形式）
+      - `suckling`
+        - 哺乳；养育（suckle的ing形式）
   - 近义词
-    - vt. 给…哺乳；吮吸；养育
-      - `raise`
-      - `mother`
-      - `foster`
-      - `breed`
+    - vt.
+      - 给…哺乳；吮吸；养育
+        - `raise`
+        - `mother`
+        - `foster`
+        - `breed`
   - 例句
     - `a sheep suckling her lamb`
       - 一只给羊羔喂奶的绵羊

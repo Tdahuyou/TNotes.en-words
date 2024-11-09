@@ -1,17 +1,23 @@
 - eclectic
   - 发音
-    - 英 `/ɪ'klektɪk/`
-    - 美 `/ɪ'klɛktɪk/`
+    - 英
+      - `/ɪ'klektɪk/`
+    - 美
+      - `/ɪ'klɛktɪk/`
   - 词义
-    - adj. 折衷的
-    - n. 折衷主义者
+    - adj.
+      - 折衷的
+    - n.
+      - 折衷主义者
   - 同根词
     - n.
-      - `eclecticism` 折衷主义，折衷说
+      - `eclecticism`
+        - 折衷主义，折衷说
   - 近义词
-    - adj. 折衷的；选择的；折衷学派的
-      - `preferential`
-      - `selectional`
+    - adj.
+      - 折衷的；选择的；折衷学派的
+        - `preferential`
+        - `selectional`
   - 例句
     - `But they are the tip of an eclectic iceberg in the country.`
       - 其实这只不过是折衷主义在这个国家表现出来的冰山一角。

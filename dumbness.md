@@ -1,18 +1,24 @@
 - dumbness
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 无言，沉默
+    - n.
+      - 无言，沉默
   - 同根词
     - adj.
-      - `dumb` 哑的，无说话能力的；不说话的，无声音的
+      - `dumb`
+        - 哑的，无说话能力的；不说话的，无声音的
     - adv.
-      - `dumbly` 默默地；无言地
+      - `dumbly`
+        - 默默地；无言地
   - 近义词
-    - n. 无言，沉默
-      - `silence`
-      - `muteness`
+    - n.
+      - 无言，沉默
+        - `silence`
+        - `muteness`
   - 例句
     - `But on the few occasions when this had happened he could never think of anything to say and he suffered agonies of embarrassment at his dumbness.`
       - 但在少数场合，当这种情况发生时，他却根本想不起说什么话来，对于自己的垭口无言感到极大的苦恼和困惑。

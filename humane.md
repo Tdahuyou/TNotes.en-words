@@ -1,41 +1,63 @@
 - humane
   - 发音
-    - 英 `/hjuː'mein/`
-    - 美 `/hju'men/`
+    - 英
+      - `/hjuː'mein/`
+    - 美
+      - `/hju'men/`
   - 词义
-    - adj. 有人性的，有同情心的
-    - `treating people or animals in a way that is not cruel and causes them as little suffering as possible`
+    - adj.
+      - 有人性的，有同情心的
+        - `treating people or animals in a way that is not cruel and causes them as little suffering as possible`
   - 记忆
     - 来自human (n. 人)
   - 同根词
     - adj.
-      - `humanitarian` 人道主义的；博爱的；基督凡人论的
-      - `humanistic` 人文主义的；人道主义的
-      - `humanism` 人文主义的；人道主义的
-      - `humanist` 人文主义的；人道主义的
+      - `humanitarian`
+        - 人道主义的；博爱的；基督凡人论的
+      - `humanistic`
+        - 人文主义的；人道主义的
+      - `humanism`
+        - 人文主义的；人道主义的
+      - `humanist`
+        - 人文主义的；人道主义的
     - adv.
-      - `humanly` 以人力；像人地；在人力所能及的范围
-      - `humanely` 人道地；富人情地；慈悲地
+      - `humanly`
+        - 以人力；像人地；在人力所能及的范围
+      - `humanely`
+        - 人道地；富人情地；慈悲地
     - n.
-      - `humanity` 人类；人道；仁慈；人文学科
-      - `humanitarian` 人道主义者；慈善家；博爱主义者；基督凡人论者
-      - `humanism` 人道主义
-      - `humanist` 人道主义者；人类学者，人文学者；人文主义者
-      - `humanitarianism` 人道主义；博爱主义
-      - `humaneness` 深情；慈悲
-      - `humanise` 变得有人性；变得仁慈；有教化力（等于humanize）
-      - `humanness` 为人，为人的资格；人性
+      - `humanity`
+        - 人类；人道；仁慈；人文学科
+      - `humanitarian`
+        - 人道主义者；慈善家；博爱主义者；基督凡人论者
+      - `humanism`
+        - 人道主义
+      - `humanist`
+        - 人道主义者；人类学者，人文学者；人文主义者
+      - `humanitarianism`
+        - 人道主义；博爱主义
+      - `humaneness`
+        - 深情；慈悲
+      - `humanise`
+        - 变得有人性；变得仁慈；有教化力（等于humanize）
+      - `humanness`
+        - 为人，为人的资格；人性
     - vi.
-      - `humanize` 变为有人性；有教化
+      - `humanize`
+        - 变为有人性；有教化
     - vt.
-      - `humanize` 教化；赋予人性；使通人情
-      - `humanise` （英）使人性化；使文明化
+      - `humanize`
+        - 教化；赋予人性；使通人情
+      - `humanise`
+        - （英）使人性化；使文明化
   - 近义词
-    - adj. 仁慈的，人道的；高尚的
-      - `magnificent`
-      - `noble`
+    - adj.
+      - 仁慈的，人道的；高尚的
+        - `magnificent`
+        - `noble`
   - 短语
-    - `humane society` 人道协会；保护动物协会 
+    - `humane society`
+      - 人道协会；保护动物协会 
   - 例句
     - `the campaign for the humane treatment of criminals`
       - 提倡人道地对待罪犯的运动

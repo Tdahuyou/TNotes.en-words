@@ -1,21 +1,31 @@
 - homosexuality
   - 发音
-    - 英 `/ˌhouməˌsekʃu'æləti/`
-    - 美 `/,homəsɛkʃʊ'æləti/`
+    - 英
+      - `/ˌhouməˌsekʃu'æləti/`
+    - 美
+      - `/,homəsɛkʃʊ'æləti/`
   - 词义
-    - n. 同性恋；同性恋行为
+    - n.
+      - 同性恋；同性恋行为
   - 同根词
     - adj.
-      - `homosexual` 同性恋的
-      - `homophobic` 害怕同性恋的
-      - `homophile` 关心同性恋者权利的；同性恋的（等于homosexual）
+      - `homosexual`
+        - 同性恋的
+      - `homophobic`
+        - 害怕同性恋的
+      - `homophile`
+        - 关心同性恋者权利的；同性恋的（等于homosexual）
     - n.
-      - `homosexual` 同性恋者
-      - `homophobia` 对同性恋的恐惧；对同性恋的憎恶
-      - `homophile` 同性恋者；同性恋权力支持者
+      - `homosexual`
+        - 同性恋者
+      - `homophobia`
+        - 对同性恋的恐惧；对同性恋的憎恶
+      - `homophile`
+        - 同性恋者；同性恋权力支持者
   - 近义词
-    - n. [心理]同性恋
-      - `uranism`
+    - n.
+      - [心理]同性恋
+        - `uranism`
   - 例句
     - `At that time, I thought homosexuality is what hooligans do .`
       - 那时候，我认为同性恋都是些流氓痞子。

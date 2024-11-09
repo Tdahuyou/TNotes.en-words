@@ -1,28 +1,46 @@
 - psychiatry
   - 发音
-    - 英 `/saɪ'kaɪətrɪ/`
-    - 美 `/saɪ'kaɪətri/`
+    - 英
+      - `/saɪ'kaɪətrɪ/`
+    - 美
+      - `/saɪ'kaɪətri/`
   - 词义
-    - n. 精神病学；精神病治疗法
-    - `the study and treatment of mental illnesses`
+    - n.
+      - 精神病学；精神病治疗法
+        - `the study and treatment of mental illnesses`
   - 同根词
     - adj.
-      - `psychic` 精神的；心灵的；灵魂的；超自然的
-      - `psychiatric` 精神病学的；精神病治疗的
-      - `psycho` 精神病的；精神病学的
-      - `psychoactive` 影响心理状态的；作用于精神的
-      - `psychoanalytic` 精神分析的；心理分析的
-      - `psychiatrical` 精神病治疗的；精神病学的
-      - `psychoanalytical` 精神分析的
+      - `psychic`
+        - 精神的；心灵的；灵魂的；超自然的
+      - `psychiatric`
+        - 精神病学的；精神病治疗的
+      - `psycho`
+        - 精神病的；精神病学的
+      - `psychoactive`
+        - 影响心理状态的；作用于精神的
+      - `psychoanalytic`
+        - 精神分析的；心理分析的
+      - `psychiatrical`
+        - 精神病治疗的；精神病学的
+      - `psychoanalytical`
+        - 精神分析的
     - adv.
-      - `psychically` 精神上
+      - `psychically`
+        - 精神上
     - n.
-      - `psychiatrist` 精神病学家，精神病医生
-      - `psychic` 灵媒；巫师
-      - `psycho` 心理分析，精神分析；精神病患者
-      - `psychoanalysis` 精神分析；心理分析
-      - `psychoanalyst` 精神分析学家；心理分析学家
+      - `psychiatrist`
+        - 精神病学家，精神病医生
+      - `psychic`
+        - 灵媒；巫师
+      - `psycho`
+        - 心理分析，精神分析；精神病患者
+      - `psychoanalysis`
+        - 精神分析；心理分析
+      - `psychoanalyst`
+        - 精神分析学家；心理分析学家
     - vt.
-      - `psychoanalyze` 用精神分析疗法治疗分析
+      - `psychoanalyze`
+        - 用精神分析疗法治疗分析
   - 短语
-    - `forensic psychiatry` 司法精神病学；法医精神病学 
+    - `forensic psychiatry`
+      - 司法精神病学；法医精神病学 

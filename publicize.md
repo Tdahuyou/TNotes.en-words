@@ -1,30 +1,42 @@
 - publicize
   - 发音
-    - 英 `/'pʌblɪsaɪz/`
-    - 美 `/'pʌblɪsaɪz/`
+    - 英
+      - `/'pʌblɪsaɪz/`
+    - 美
+      - `/'pʌblɪsaɪz/`
   - 词义
-    - vt. 宣传，推广，宣扬
-    - `to give information about something to the public, so that they know about it`
+    - vt.
+      - 宣传，推广，宣扬
+        - `to give information about something to the public, so that they know about it`
   - 记忆
     - public(公众) + ize → 使广为公众所知 → 宣传， 推广
   - 同根词
     - adj.
-      - `public` 公众的；政府的；公用的；公立的
+      - `public`
+        - 公众的；政府的；公用的；公立的
     - adv.
-      - `publicly` 公然地；以公众名义
+      - `publicly`
+        - 公然地；以公众名义
     - n.
-      - `public` 公众；社会；公共场所
-      - `publicity` 宣传，宣扬；公开；广告；注意
-      - `publicist` 国际法学家；宣传人员；公法学家
+      - `public`
+        - 公众；社会；公共场所
+      - `publicity`
+        - 宣传，宣扬；公开；广告；注意
+      - `publicist`
+        - 国际法学家；宣传人员；公法学家
     - vi.
-      - `publish` 出版；发行；刊印
+      - `publish`
+        - 出版；发行；刊印
     - vt.
-      - `publish` 出版；发表；公布
-      - `publicise` 宣传，宣扬；公布，颂
+      - `publish`
+        - 出版；发表；公布
+      - `publicise`
+        - 宣传，宣扬；公布，颂
   - 近义词
-    - vt. 宣传；公布
-      - `post`
-      - `give publicity to`
+    - vt.
+      - 宣传；公布
+        - `post`
+        - `give publicity to`
   - 例句
     - `television’s failure to publicize the unemployment issue`
       - 电视未能报道失业问题

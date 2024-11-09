@@ -1,10 +1,13 @@
 - pillowcase
   - 发音
-    - 英 `/'pɪləʊkeɪs/`
-    - 美 `/'pɪlokes/`
+    - 英
+      - `/'pɪləʊkeɪs/`
+    - 美
+      - `/'pɪlokes/`
   - 词义
-    - n. 枕头套（等于pillowslip）
-    - `a cloth cover for a pillow`
+    - n.
+      - 枕头套（等于pillowslip）
+        - `a cloth cover for a pillow`
   - 例句
     - `A: Fold up your bedding, and change the pillowcase.`
       - 整理好你的床铺，同时换一下枕套。

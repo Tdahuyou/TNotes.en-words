@@ -1,61 +1,93 @@
 - figure
   - 发音
-    - 英 `/'fɪgjər/`
-    - 美 `/'fɪɡjɚ/`
+    - 英
+      - `/'fɪgjər/`
+    - 美
+      - `/'fɪɡjɚ/`
   - 词义
-    - n. 身材，体形；轮廓；数字；图形，图表；人物，
-    - `the shape of a woman’s body`
+    - n.
+      - 身材，体形；轮廓；数字；图形，图表；人物，
+        - `the shape of a woman’s body`
   - 记忆
     - “菲戈”(著名球星) → 人物
   - 同根词
     - adj.
-      - `figurative` 比喻的；修饰丰富的；形容多的
-      - `figured` 华丽的；有形状的；用图画表现的；有图案的
-      - `figural` 借喻的；具有人的形象的；比喻的
+      - `figurative`
+        - 比喻的；修饰丰富的；形容多的
+      - `figured`
+        - 华丽的；有形状的；用图画表现的；有图案的
+      - `figural`
+        - 借喻的；具有人的形象的；比喻的
     - n.
-      - `figuration` 成形；外形；定形；比喻表达法；图案装饰法
-      - `figurant` （戏剧电影中的）群众演员；男配角演员
+      - `figuration`
+        - 成形；外形；定形；比喻表达法；图案装饰法
+      - `figurant`
+        - （戏剧电影中的）群众演员；男配角演员
     - v.
-      - `figured` 以图画或图表描绘；设想（figure的过去式和过去分词）
+      - `figured`
+        - 以图画或图表描绘；设想（figure的过去式和过去分词）
   - 近义词
-    - n. [数]数字；人物；图形；价格；（人的）体形；画像
-      - `digital`
-      - `price`
-      - `value`
-      - `number`
-      - `rate`
-    - vi. 计算；出现；扮演角色
-      - `occur`
-      - `cast`
-      - `offer`
-      - `come out`
-    - vt. 计算；认为；描绘；象征
-      - `indicate`
-      - `expect`
-      - `guess`
-      - `find`
-      - `feel`
+    - n.
+      - [数]数字；人物；图形；价格；（人的）体形；画像
+        - `digital`
+        - `price`
+        - `value`
+        - `number`
+        - `rate`
+    - vi.
+      - 计算；出现；扮演角色
+        - `occur`
+        - `cast`
+        - `offer`
+        - `come out`
+    - vt.
+      - 计算；认为；描绘；象征
+        - `indicate`
+        - `expect`
+        - `guess`
+        - `find`
+        - `feel`
   - 短语
-    - `public figure` 社会名人 
-    - `figure out` 解决；算出；想出；理解；断定 
-    - `figure in` 算进；包括进 
-    - `father figure` n. 长者；父亲般的人物；领袖 
-    - `good figure` 良好图形；良型 
-    - `figure on` [美口]指望；[英口]打算；料想；把…估计在内 
-    - `figure of speech` 修辞；比喻说法 
-    - `figure skating` 花式溜冰 
-    - `figure it out` 弄明白；搞定它 
-    - `figure for` 谋取；企图获得 
-    - `go figure` 猜猜看；想想看吧 
-    - `ballpark figure` 大略估计 
-    - `key figure` 关键人物 
-    - `geometric figure` 几何图形 
-    - `noise figure` 噪声因数 
-    - `figure as` 扮演…角色 
-    - `figure of merit` 品质因数；灵敏值 
-    - `plane figure` 平面图形 
-    - `pole figure` 极像图 
-    - `action figure` 动作人物；可动人型；玩具人；活动人 
+    - `public figure`
+      - 社会名人 
+    - `figure out`
+      - 解决；算出；想出；理解；断定 
+    - `figure in`
+      - 算进；包括进 
+    - `father figure`
+      - n. 长者；父亲般的人物；领袖 
+    - `good figure`
+      - 良好图形；良型 
+    - `figure on`
+      - [美口]指望；[英口]打算；料想；把…估计在内 
+    - `figure of speech`
+      - 修辞；比喻说法 
+    - `figure skating`
+      - 花式溜冰 
+    - `figure it out`
+      - 弄明白；搞定它 
+    - `figure for`
+      - 谋取；企图获得 
+    - `go figure`
+      - 猜猜看；想想看吧 
+    - `ballpark figure`
+      - 大略估计 
+    - `key figure`
+      - 关键人物 
+    - `geometric figure`
+      - 几何图形 
+    - `noise figure`
+      - 噪声因数 
+    - `figure as`
+      - 扮演…角色 
+    - `figure of merit`
+      - 品质因数；灵敏值 
+    - `plane figure`
+      - 平面图形 
+    - `pole figure`
+      - 极像图 
+    - `action figure`
+      - 动作人物；可动人型；玩具人；活动人 
   - 例句
     - `She has a good figure .`
       - 她身材很好。

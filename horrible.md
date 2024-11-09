@@ -1,29 +1,39 @@
 - horrible
   - 发音
-    - 英 `/'hɒrəb(ə)l/`
-    - 美 `/ˈhɑːrəbl/`
+    - 英
+      - `/'hɒrəb(ə)l/`
+    - 美
+      - `/ˈhɑːrəbl/`
   - 词义
-    - adj. 可怕的；恐怖的
-    - `very unpleasant and often frightening, worrying, or upsetting`
+    - adj.
+      - 可怕的；恐怖的
+        - `very unpleasant and often frightening, worrying, or upsetting`
   - 记忆
     - horr(害怕)+ible(形容词后缀)→令人害怕的→恐怖的
   - 同根词
     - adj.
-      - `horrid` 可怕的；恐怖的；极讨厌的
-      - `horrendous` 可怕的；惊人的
-      - `horrific` 可怕的；令人毛骨悚然的
+      - `horrid`
+        - 可怕的；恐怖的；极讨厌的
+      - `horrendous`
+        - 可怕的；惊人的
+      - `horrific`
+        - 可怕的；令人毛骨悚然的
     - adv.
-      - `horribly` 可怕地；非常地
-      - `horridly` 可怕地；讨厌地
+      - `horribly`
+        - 可怕地；非常地
+      - `horridly`
+        - 可怕地；讨厌地
     - n.
-      - `horridness` 怕人；讨厌
+      - `horridness`
+        - 怕人；讨厌
   - 近义词
-    - adj. 可怕的；极讨厌的
-      - `terrible`
-      - `awesome`
-      - `fearful`
-      - `dire`
-      - `dreadful`
+    - adj.
+      - 可怕的；极讨厌的
+        - `terrible`
+        - `awesome`
+        - `fearful`
+        - `dire`
+        - `dreadful`
   - 例句
     - `a horrible dream`
       - 噩梦

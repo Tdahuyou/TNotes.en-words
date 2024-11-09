@@ -1,23 +1,30 @@
 - chapel
   - 发音
-    - 英 `/'tʃæpl/`
-    - 美 `/'tʃæpl/`
+    - 英
+      - `/'tʃæpl/`
+    - 美
+      - `/'tʃæpl/`
   - 词义
-    - n. 教堂；祈祷室
-    - `a building where Christians who are Nonconformists have religious services`
+    - n.
+      - 教堂；祈祷室
+        - `a building where Christians who are Nonconformists have religious services`
   - 记忆
     - c + hap(运气) + el → 祈祷自己好运 → 祈祷室
   - 同根词
     - n.
-      - `chaplaincy` 礼拜堂牧师之职位或任期
+      - `chaplaincy`
+        - 礼拜堂牧师之职位或任期
   - 近义词
-    - n. 小礼拜堂，[建]小教堂；礼拜
-      - `church`
-      - `exercise`
-      - `worship`
+    - n.
+      - 小礼拜堂，[建]小教堂；礼拜
+        - `church`
+        - `exercise`
+        - `worship`
   - 短语
-    - `sistine chapel` （罗马梵蒂冈的）西斯廷教堂 
-    - `chapel hill` 教堂山（美国一小镇） 
+    - `sistine chapel`
+      - （罗马梵蒂冈的）西斯廷教堂 
+    - `chapel hill`
+      - 教堂山（美国一小镇） 
   - 例句
     - `Bethan goes to chapel every Sunday.`
       - 贝唐每个星期天都去教堂做礼拜。

@@ -1,23 +1,29 @@
 - overpass
   - 发音
-    - 英 `/'əuvəpɑːs/`
-    - 美 `/'ovɚpæs/`
+    - 英
+      - `/'əuvəpɑːs/`
+    - 美
+      - `/'ovɚpæs/`
   - 词义
-    - n. 过街天桥
+    - n.
+      - 过街天桥
   - 记忆
     - over (在…之上) + pass (通过) → 从上面通过 → 过街天桥
   - 近义词
-    - vt. 超越；胜过；忽略
-      - `forget`
-      - `top`
-      - `exceed`
-      - `surpass`
-      - `cap`
-    - n. 天桥；陆桥
-      - `platform bridge`
-      - `overhead bridge`
+    - vt.
+      - 超越；胜过；忽略
+        - `forget`
+        - `top`
+        - `exceed`
+        - `surpass`
+        - `cap`
+    - n.
+      - 天桥；陆桥
+        - `platform bridge`
+        - `overhead bridge`
   - 短语
-    - `pedestrian overpass` 步行天桥；人行天桥 
+    - `pedestrian overpass`
+      - 步行天桥；人行天桥 
   - 例句
     - `An overpass is being put up at the corner of the street.`
       - 在那条街的拐角处正在建起一个过街天桥。

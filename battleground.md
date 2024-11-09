@@ -1,13 +1,17 @@
 - battleground
   - 发音
-    - 英 `/undefined/`
-    - 美 `/'bætlɡraund/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/'bætlɡraund/`
   - 词义
-    - n. 战场
+    - n.
+      - 战场
   - 近义词
-    - n. 战场
-      - `field`
-      - `ground`
+    - n.
+      - 战场
+        - `field`
+        - `ground`
   - 例句
     - `But all too often, a relationship becomes a battleground where each partner becomes well schooled in the art of inflicting pain on the other.`
       - 不过一切太频繁，一段关系成为一个战场，在每一方在对别人造成伤害的艺术中成为好的学校。

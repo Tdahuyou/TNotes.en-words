@@ -1,27 +1,39 @@
 - infinity
   - 发音
-    - 英 `/ɪn'fɪnɪtɪ/`
-    - 美 `/ɪn'fɪnəti/`
+    - 英
+      - `/ɪn'fɪnɪtɪ/`
+    - 美
+      - `/ɪn'fɪnəti/`
   - 词义
-    - n. 无穷；无限大；无限距
-    - `a space or distance without limits or an end`
+    - n.
+      - 无穷；无限大；无限距
+        - `a space or distance without limits or an end`
   - 同根词
     - adj.
-      - `infinite` 无限的，无穷的；无数的；极大的
-      - `infinitesimal` 无穷小的；无限小的；极小的
+      - `infinite`
+        - 无限的，无穷的；无数的；极大的
+      - `infinitesimal`
+        - 无穷小的；无限小的；极小的
     - adv.
-      - `infinitely` 无限地；极其
+      - `infinitely`
+        - 无限地；极其
     - n.
-      - `infinite` 无限；[数] 无穷大；无限的东西（如空间，时间）
-      - `infinitesimal` 无限小；极微量；极小量
-      - `infinitude` 无限；无穷
-      - `infiniteness` 无限；无限性
+      - `infinite`
+        - 无限；[数] 无穷大；无限的东西（如空间，时间）
+      - `infinitesimal`
+        - 无限小；极微量；极小量
+      - `infinitude`
+        - 无限；无穷
+      - `infiniteness`
+        - 无限；无限性
   - 近义词
-    - n. [数]无穷；无限大；无限距
-      - `boundlessness`
-      - `without end`
+    - n.
+      - [数]无穷；无限大；无限距
+        - `boundlessness`
+        - `without end`
   - 短语
-    - `at infinity` 在无穷远处 
+    - `at infinity`
+      - 在无穷远处 
   - 例句
     - `the infinity of space`
       - 太空的无边无际

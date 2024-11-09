@@ -1,14 +1,18 @@
 - marquetry
   - 发音
-    - 英 `/'mɑːkɪtrɪ/`
-    - 美 `/undefined/`
+    - 英
+      - `/'mɑːkɪtrɪ/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 镶嵌细工
-    - `a pattern made of coloured pieces of wood laid together, or the art of making these patterns`
+    - n.
+      - 镶嵌细工
+        - `a pattern made of coloured pieces of wood laid together, or the art of making these patterns`
   - 近义词
-    - n. [木]镶嵌细工
-      - `buhl`
-      - `boulle`
+    - n.
+      - [木]镶嵌细工
+        - `buhl`
+        - `boulle`
   - 例句
     - `As with Hakone marquetry, cherry-bark goods involve the decorative veneer of the bark being affixed to different base woods.`
       - 正如箱根的镶嵌细工一样，樱桃树皮商品包括树皮装饰单板，可以贴在不同树板的底部。

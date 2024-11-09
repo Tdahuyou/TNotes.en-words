@@ -1,31 +1,45 @@
 - carelessly
   - 发音
-    - 英 `/'kɛəlisli/`
-    - 美 `/'kɛəlisli/`
+    - 英
+      - `/'kɛəlisli/`
+    - 美
+      - `/'kɛəlisli/`
   - 词义
-    - adv. 粗心地；疏忽地
-    - `If someone does something carelessly, they do it without much thought or effort`
+    - adv.
+      - 粗心地；疏忽地
+        - `If someone does something carelessly, they do it without much thought or effort`
   - 同根词
     - adj.
-      - `careful` 仔细的，小心的
-      - `careless` 粗心的；无忧无虑的；淡漠的
-      - `caring` 有同情心的；表示或感到关怀或关心的
-      - `carefree` 无忧无虑的；不负责的
+      - `careful`
+        - 仔细的，小心的
+      - `careless`
+        - 粗心的；无忧无虑的；淡漠的
+      - `caring`
+        - 有同情心的；表示或感到关怀或关心的
+      - `carefree`
+        - 无忧无虑的；不负责的
     - adv.
-      - `carefully` 小心地
+      - `carefully`
+        - 小心地
     - n.
-      - `care` 关怀；照料；谨慎；忧虑
-      - `carelessness` 粗心大意
+      - `care`
+        - 关怀；照料；谨慎；忧虑
+      - `carelessness`
+        - 粗心大意
     - v.
-      - `caring` 关心；照顾（care的现在分词）
+      - `caring`
+        - 关心；照顾（care的现在分词）
     - vi.
-      - `care` 照顾；关心；喜爱；顾虑
+      - `care`
+        - 照顾；关心；喜爱；顾虑
     - vt.
-      - `care` 在意；希望或喜欢
+      - `care`
+        - 在意；希望或喜欢
   - 近义词
-    - adv. 粗心地；不注意地；无忧无虑地
-      - `sloppily`
-      - `inadvertently`
+    - adv.
+      - 粗心地；不注意地；无忧无虑地
+        - `sloppily`
+        - `inadvertently`
   - 例句
     - `He carelessly left the door unlocked.`
       - 他很粗心，没锁上门。

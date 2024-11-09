@@ -1,27 +1,37 @@
 - fraternal
   - 发音
-    - 英 `/frə'təːnl/`
-    - 美 `/frə'tɝnl/`
+    - 英
+      - `/frə'təːnl/`
+    - 美
+      - `/frə'tɝnl/`
   - 词义
-    - adj. 兄弟的；兄弟般的；友爱的
-    - `relating to brothers`
+    - adj.
+      - 兄弟的；兄弟般的；友爱的
+        - `relating to brothers`
   - 记忆
     - fratern (兄弟) + al → 兄弟的
   - 同根词
     - n.
-      - `fraternity` 友爱；兄弟会；互助会；大学生联谊会
-      - `frat` 兄弟会
-      - `fratricide` 杀害兄弟者；杀兄弟的行为
+      - `fraternity`
+        - 友爱；兄弟会；互助会；大学生联谊会
+      - `frat`
+        - 兄弟会
+      - `fratricide`
+        - 杀害兄弟者；杀兄弟的行为
     - vi.
-      - `fraternize` 友善；结有深交
+      - `fraternize`
+        - 友善；结有深交
     - vt.
-      - `fraternize` 使…亲如兄弟；使…友善
+      - `fraternize`
+        - 使…亲如兄弟；使…友善
   - 近义词
-    - adj. 兄弟般的；友好的
-      - `friendly`
-      - `amicable`
+    - adj.
+      - 兄弟般的；友好的
+        - `friendly`
+        - `amicable`
   - 短语
-    - `fraternal twins` 异卵双生 
+    - `fraternal twins`
+      - 异卵双生 
   - 例句
     - `fraternal loyalty`
       - 兄弟之间的忠义

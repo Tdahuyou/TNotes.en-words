@@ -1,15 +1,21 @@
 - archaeological
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - adj. 考古学的
+    - adj.
+      - 考古学的
   - 同根词
     - n.
-      - `archaeology` 考古学
-      - `archaeologist` 考古学家
+      - `archaeology`
+        - 考古学
+      - `archaeologist`
+        - 考古学家
   - 短语
-    - `archaeological site` 考古遗址；遗迹 
+    - `archaeological site`
+      - 考古遗址；遗迹 
   - 例句
     - `The work fills (in) a gap which has hitherto existed in our archaeological literature.`
       - 这部著作填补了我国考古学文献中的一个空白。

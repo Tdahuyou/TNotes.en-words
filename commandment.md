@@ -1,20 +1,27 @@
 - commandment
   - 发音
-    - 英 `/kə'mɑːndmənt/`
-    - 美 `/kə'mændmənt/`
+    - 英
+      - `/kə'mɑːndmənt/`
+    - 美
+      - `/kə'mændmənt/`
   - 词义
-    - n. 戒律
+    - n.
+      - 戒律
   - 同根词
     - n.
-      - `command` 指挥，控制；命令；司令部
+      - `command`
+        - 指挥，控制；命令；司令部
     - vi.
-      - `command` 命令，指挥；控制
+      - `command`
+        - 命令，指挥；控制
     - vt.
-      - `command` 命令，指挥；控制；远望
+      - `command`
+        - 命令，指挥；控制；远望
   - 近义词
-    - n. 戒律；法令
-      - `act`
-      - `ordinance`
+    - n.
+      - 戒律；法令
+        - `act`
+        - `ordinance`
   - 例句
     - `So you would not break the third commandment.`
       - 那么你就不会违反第三条戒律。

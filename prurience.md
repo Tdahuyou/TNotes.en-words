@@ -1,22 +1,30 @@
 - prurience
   - 发音
-    - 英 `/undefined/`
-    - 美 `/'pruəriəns/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/'pruəriəns/`
   - 词义
-    - n. 好色,渴望
-    - `Prurience is a strong interest in sexual matters`
+    - n.
+      - 好色,渴望
+        - `Prurience is a strong interest in sexual matters`
   - 同根词
     - adj.
-      - `prurient` 好色的；淫乱的；渴望的
+      - `prurient`
+        - 好色的；淫乱的；渴望的
     - adv.
-      - `pruriently` 挑逗性地；好色地
+      - `pruriently`
+        - 挑逗性地；好色地
     - n.
-      - `prurient` 好色之徒
-      - `pruriency` 好色；淫乱
+      - `prurient`
+        - 好色之徒
+      - `pruriency`
+        - 好色；淫乱
   - 近义词
-    - n. 淫乱；好色
-      - `lasciviousness`
-      - `sensuality`
+    - n.
+      - 淫乱；好色
+        - `lasciviousness`
+        - `sensuality`
   - 例句
     - `Nobody ever lost money by overestimating the public's prurience.`
       - 没有人在高估公众的色欲上输过钱。

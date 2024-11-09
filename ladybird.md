@@ -1,13 +1,17 @@
 - ladybird
   - 发音
-    - 英 `/undefined/`
-    - 美 `/'ledɪbɝd/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/'ledɪbɝd/`
   - 词义
-    - n. 瓢虫
-    - `a small round beetle(= a type of insect ) that is usually red with black spots`
+    - n.
+      - 瓢虫
+        - `a small round beetle(= a type of insect ) that is usually red with black spots`
   - 近义词
-    - n. 瓢虫
-      - `lady beetle`
+    - n.
+      - 瓢虫
+        - `lady beetle`
   - 例句
     - `These eggs turn into ladybird larvae, which are among the biggest friends we gardeners have. They're ferocious predators on problem whitefly and red spider mite.`
       - 这些卵变成幼瓢虫之后就是园丁们最好的朋友之一了，它们是凶猛的食肉动物，尤其针对粉虱与红蜘蛛。

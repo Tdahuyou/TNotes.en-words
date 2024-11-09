@@ -1,22 +1,27 @@
 - infamous
   - 发音
-    - 英 `/'infəməs/`
-    - 美 `/'ɪnfəməs/`
+    - 英
+      - `/'infəməs/`
+    - 美
+      - `/'ɪnfəməs/`
   - 词义
-    - adj. 声名狼藉的
-    - `well known for being bad or evil`
+    - adj.
+      - 声名狼藉的
+        - `well known for being bad or evil`
   - 记忆
     - in (不) + famous (著名的) → 声名狼藉的
   - 同根词
     - n.
-      - `infamy` 声名狼籍；恶行
+      - `infamy`
+        - 声名狼籍；恶行
   - 近义词
-    - adj. 声名狼藉的；无耻的；邪恶的；不名誉的
-      - `evil`
-      - `ill`
-      - `black`
-      - `ugly`
-      - `notorious`
+    - adj.
+      - 声名狼藉的；无耻的；邪恶的；不名誉的
+        - `evil`
+        - `ill`
+        - `black`
+        - `ugly`
+        - `notorious`
   - 例句
     - `an infamous killer`
       - 臭名昭著的杀手

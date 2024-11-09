@@ -1,14 +1,18 @@
 - terylene
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 涤纶
-    - `a synthetic polyester fibre or fabric based on terephthalic acid, characterized by lightness and crease resistance and used for clothing, sheets, ropes, sails, etc `
+    - n.
+      - 涤纶
+        - `a synthetic polyester fibre or fabric based on terephthalic acid, characterized by lightness and crease resistance and used for clothing, sheets, ropes, sails, etc `
   - 近义词
-    - n. 涤纶（英国合成纤维之一，商标名）
-      - `poliestere`
-      - `dacron`
+    - n.
+      - 涤纶（英国合成纤维之一，商标名）
+        - `poliestere`
+        - `dacron`
   - 例句
     - `The company supplies rayon embroidery threads, terylene profiled-and-fixing embroidery threads, color threads and metallic yarn .`
       - 本公司现有人造丝绣花线及涤纶异形固色绣花线、七彩线、金银线等产品。

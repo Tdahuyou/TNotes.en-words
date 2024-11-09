@@ -1,9 +1,12 @@
 - Americanisation
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 美国化
+    - n.
+      - 美国化
   - 例句
     - `Hitherto, Budweiser has been at the forefront of the Americanisation of the world, often to the dismay of foreign drinkers of traditional beers who regard a Bud as a glass of water spoiled.`
       - 至今，百威啤酒一直是世界上最具美国特色的龙头产品，但常常令传统的外国品尝者失望，他们认为一杯百威只是一杯被变质的水。

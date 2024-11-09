@@ -1,19 +1,23 @@
 - dearth
   - 发音
-    - 英 `/dɜːrθ/`
-    - 美 `/də:θ/`
+    - 英
+      - `/dɜːrθ/`
+    - 美
+      - `/də:θ/`
   - 词义
-    - n. 缺乏，短缺
-    - `a situation in which there are very few of something that people want or need`
+    - n.
+      - 缺乏，短缺
+        - `a situation in which there are very few of something that people want or need`
   - 记忆
     - 物以稀(dearth)为贵(dear)
   - 近义词
-    - n. 缺乏；饥馑；粮食不足
-      - `shortage`
-      - `deficiency`
-      - `short of`
-      - `need`
-      - `drought`
+    - n.
+      - 缺乏；饥馑；粮食不足
+        - `shortage`
+        - `deficiency`
+        - `short of`
+        - `need`
+        - `drought`
   - 例句
     - `EXCEPT as Pearl, in the dearth of human playmates, was thrown more upon the visionary throng which she created.`
       - 只不过是由于缺乏玩伴，她同自己创造出来的幻想中的人群更加接近而己。

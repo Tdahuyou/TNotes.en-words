@@ -1,14 +1,18 @@
 - lychee
   - 发音
-    - 英 `/'laɪtʃiː; 'lɪ-/`
-    - 美 `/'laɪtʃi; 'lɪ-/`
+    - 英
+      - `/'laɪtʃiː; 'lɪ-/`
+    - 美
+      - `/'laɪtʃi; 'lɪ-/`
   - 词义
-    - n. [园艺]荔枝（等于litchi）
-    - `a small round fruit with a rough pink-brown shell outside and sweet white flesh inside`
+    - n.
+      - [园艺]荔枝（等于litchi）
+        - `a small round fruit with a rough pink-brown shell outside and sweet white flesh inside`
   - 近义词
-    - n. [园艺]荔枝（等于litchi）
-      - `litchi`
-      - `leechee`
+    - n.
+      - [园艺]荔枝（等于litchi）
+        - `litchi`
+        - `leechee`
   - 例句
     - `Only a decade ago, the place was exurban rice paddies and lychee orchards.`
       - 十年前，这个地方只是一个城市的远郊，种植水稻和荔枝。

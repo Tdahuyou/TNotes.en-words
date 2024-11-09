@@ -1,16 +1,24 @@
 - ideologically
   - 发音
-    - 英 `/,aidiə'lɔdʒikali/`
-    - 美 `/,aidiə'lɔdʒikali/`
+    - 英
+      - `/,aidiə'lɔdʒikali/`
+    - 美
+      - `/,aidiə'lɔdʒikali/`
   - 词义
-    - adv. 意识形态上地,思想上地
+    - adv.
+      - 意识形态上地,思想上地
   - 同根词
     - adj.
-      - `ideological` 思想的；意识形态的
+      - `ideological`
+        - 思想的；意识形态的
     - n.
-      - `ideology` 意识形态；思想意识；观念学
-      - `ideologue` 思想家，理论家，空想家
-      - `ideologist` 思想家；理论家
+      - `ideology`
+        - 意识形态；思想意识；观念学
+      - `ideologue`
+        - 思想家，理论家，空想家
+      - `ideologist`
+        - 思想家；理论家
   - 近义词
-    - adv. 思想上；意识形态上
-      - `inwardly`
+    - adv.
+      - 思想上；意识形态上
+        - `inwardly`

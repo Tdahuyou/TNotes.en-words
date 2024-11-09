@@ -1,27 +1,38 @@
 - tempting
   - 发音
-    - 英 `/'temptɪŋ/`
-    - 美 `/'tɛmptɪŋ/`
+    - 英
+      - `/'temptɪŋ/`
+    - 美
+      - `/'tɛmptɪŋ/`
   - 词义
-    - adj. 诱惑人的
-    - `something that is tempting seems very good and you would like to have it or do it`
+    - adj.
+      - 诱惑人的
+        - `something that is tempting seems very good and you would like to have it or do it`
   - 同根词
     - adj.
-      - `temptable` 可诱惑的；易被诱惑的
+      - `temptable`
+        - 可诱惑的；易被诱惑的
     - adv.
-      - `temptingly` 诱惑人地；迷人地
+      - `temptingly`
+        - 诱惑人地；迷人地
     - n.
-      - `temptation` 引诱；诱惑物
-      - `temptress` 引诱男人的女性
-      - `tempter` 诱惑者；魔鬼；撒旦
+      - `temptation`
+        - 引诱；诱惑物
+      - `temptress`
+        - 引诱男人的女性
+      - `tempter`
+        - 诱惑者；魔鬼；撒旦
     - vt.
-      - `tempt` 诱惑；引起；冒…的风险；使感兴趣
+      - `tempt`
+        - 诱惑；引起；冒…的风险；使感兴趣
   - 近义词
-    - adj. 吸引人的；诱惑人的
-      - `attractive`
-      - `absorbing`
-    - v. 引诱（tempt的ing形式）
-      - `enticing`
+    - adj.
+      - 吸引人的；诱惑人的
+        - `attractive`
+        - `absorbing`
+    - v.
+      - 引诱（tempt的ing形式）
+        - `enticing`
   - 例句
     - `a tempting job offer`
       - 一个诱人的工作机会

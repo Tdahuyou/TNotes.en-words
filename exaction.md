@@ -1,23 +1,32 @@
 - exaction
   - 发音
-    - 英 `/ɪg'zækʃ(ə)n; eg-/`
-    - 美 `/undefined/`
+    - 英
+      - `/ɪg'zækʃ(ə)n; eg-/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 勒索,苛求
+    - n.
+      - 勒索,苛求
   - 同根词
     - adj.
-      - `exact` 准确的，精密的；精确的
-      - `exacting` 严格的；苛求的；吃力的
+      - `exact`
+        - 准确的，精密的；精确的
+      - `exacting`
+        - 严格的；苛求的；吃力的
     - v.
-      - `exacting` 逼取；急需（exact的ing形式）
+      - `exacting`
+        - 逼取；急需（exact的ing形式）
     - vi.
-      - `exact` 勒索钱财
+      - `exact`
+        - 勒索钱财
     - vt.
-      - `exact` 要求；强求；急需
+      - `exact`
+        - 要求；强求；急需
   - 近义词
-    - n. 强求；勒索；榨取；苛捐杂税
-      - `importunity`
-      - `extortion`
+    - n.
+      - 强求；勒索；榨取；苛捐杂税
+        - `importunity`
+        - `extortion`
   - 例句
     - `All was, alas, worse than vanity - injustice, punishment, exaction, death.`
       - 唉，一切比虚空还糟糕——冤屈，惩罚，苛求，死亡。

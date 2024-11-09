@@ -1,20 +1,27 @@
 - cab
   - 发音
-    - 英 `/kæb/`
-    - 美 `/kæb/`
+    - 英
+      - `/kæb/`
+    - 美
+      - `/kæb/`
   - 词义
-    - n. 出租汽车
-    - `a taxi`
+    - n.
+      - 出租汽车
+        - `a taxi`
   - 同根词
     - n.
-      - `cabdriver` 马车夫；计程车司机
+      - `cabdriver`
+        - 马车夫；计程车司机
   - 近义词
-    - n. [车辆]驾驶室；出租汽车；出租马车
-      - `taxi`
-      - `wheelhouse`
+    - n.
+      - [车辆]驾驶室；出租汽车；出租马车
+        - `taxi`
+        - `wheelhouse`
   - 短语
-    - `call a cab` 骑士骑马跨跃栅栏时挥动一只手臂以保持平衡 
-    - `cab driver` 出租车司机 
+    - `call a cab`
+      - 骑士骑马跨跃栅栏时挥动一只手臂以保持平衡 
+    - `cab driver`
+      - 出租车司机 
   - 例句
     - `New York’s yellow cabs`
       - 纽约的黄色出租车

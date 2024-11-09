@@ -1,23 +1,31 @@
 - purchaser
   - 发音
-    - 英 `/'pɜːtʃɪsə(r)/`
-    - 美 `/'pɝtʃəsɚ/`
+    - 英
+      - `/'pɜːtʃɪsə(r)/`
+    - 美
+      - `/'pɝtʃəsɚ/`
   - 词义
-    - n. 买方；购买者
+    - n.
+      - 买方；购买者
   - 记忆
     - 来自purchase(v. 购买)
   - 同根词
     - adj.
-      - `purchasable` 可买的；可买到的
+      - `purchasable`
+        - 可买的；可买到的
     - n.
-      - `purchase` 购买；紧握；起重装置
+      - `purchase`
+        - 购买；紧握；起重装置
     - vi.
-      - `purchase` 购买东西
+      - `purchase`
+        - 购买东西
     - vt.
-      - `purchase` 购买；赢得
+      - `purchase`
+        - 购买；赢得
   - 近义词
-    - n. 买方；[贸易]购买者
-      - `vendee`
+    - n.
+      - 买方；[贸易]购买者
+        - `vendee`
   - 例句
     - `The purchaser is the primary actor.`
       - 购买者是主要的参与者。

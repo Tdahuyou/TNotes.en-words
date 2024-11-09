@@ -1,31 +1,46 @@
 - stinking
   - 发音
-    - 英 `/'stɪŋkɪŋ/`
-    - 美 `/'stɪŋkɪŋ/`
+    - 英
+      - `/'stɪŋkɪŋ/`
+    - 美
+      - `/'stɪŋkɪŋ/`
   - 词义
-    - adj. 臭的,烂醉的,讨厌的
-    - `having a very strong unpleasant smell`
+    - adj.
+      - 臭的,烂醉的,讨厌的
+        - `having a very strong unpleasant smell`
   - 同根词
     - adj.
-      - `stinky` 发恶臭的
+      - `stinky`
+        - 发恶臭的
     - n.
-      - `stink` 臭味；讨厌的人
-      - `stinky` 全景雷达；环视雷达站
-      - `stinker` 发恶臭之人，臭鬼
-      - `stinkpot` 恶臭弹；（产于美国东南部的）一种小麝龟
-      - `stinkweed` 发出臭味的植物
+      - `stink`
+        - 臭味；讨厌的人
+      - `stinky`
+        - 全景雷达；环视雷达站
+      - `stinker`
+        - 发恶臭之人，臭鬼
+      - `stinkpot`
+        - 恶臭弹；（产于美国东南部的）一种小麝龟
+      - `stinkweed`
+        - 发出臭味的植物
     - vi.
-      - `stink` 发出臭味；招人讨厌
+      - `stink`
+        - 发出臭味；招人讨厌
     - vt.
-      - `stink` 使发出臭气；用臭味驱赶
+      - `stink`
+        - 使发出臭气；用臭味驱赶
   - 近义词
-    - adj. 发恶臭的；非常讨厌的；烂醉如泥的
-      - `pickled`
-      - `blotto`
+    - adj.
+      - 发恶臭的；非常讨厌的；烂醉如泥的
+        - `pickled`
+        - `blotto`
   - 短语
-    - `stink of something` ◎散发某种气味 
-    - `stink of` 发恶臭；散发出…的气味；[口]含有…的迹象（尤指不良的） 
-    - `like stink` [俚语]飞快地；拼命地 
+    - `stink of something`
+      - ◎散发某种气味 
+    - `stink of`
+      - 发恶臭；散发出…的气味；[口]含有…的迹象（尤指不良的） 
+    - `like stink`
+      - [俚语]飞快地；拼命地 
   - 例句
     - `stinking garbage cans`
       - 臭烘烘的垃圾箱

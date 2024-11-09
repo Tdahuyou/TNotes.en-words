@@ -1,13 +1,17 @@
 - sloop
   - 发音
-    - 英 `/sluːp/`
-    - 美 `/slup/`
+    - 英
+      - `/sluːp/`
+    - 美
+      - `/slup/`
   - 词义
-    - n. 单桅帆船
-    - `a small ship with one central  mast (= pole for sails ) `
+    - n.
+      - 单桅帆船
+        - `a small ship with one central  mast (= pole for sails ) `
   - 近义词
-    - n. [船]单桅帆船
-      - `knockabout`
+    - n.
+      - [船]单桅帆船
+        - `knockabout`
   - 例句
     - `This means that the mainsail and head sail of a ketch are generally smaller than on a sloop, but the mizzen sail roughly makes up the difference.`
       - 这意味着双桅帆上的主帆和前帆通常要比单桅帆船上的小一些，而尾桅帆的面积则恰好弥补了这一差距。

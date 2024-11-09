@@ -1,13 +1,17 @@
 - dejection
   - 发音
-    - 英 `/dɪ'dʒekʃ(ə)n/`
-    - 美 `/dɪ'dʒɛkʃən/`
+    - 英
+      - `/dɪ'dʒekʃ(ə)n/`
+    - 美
+      - `/dɪ'dʒɛkʃən/`
   - 词义
-    - n. 沮丧,粪便
+    - n.
+      - 沮丧,粪便
   - 近义词
-    - n. 沮丧；粪便
-      - `depression`
-      - `disappointment`
+    - n.
+      - 沮丧；粪便
+        - `depression`
+        - `disappointment`
   - 例句
     - `Over the past four years, I have seen his face evolve into picture of dejection.`
       - 在过去的四年多的时间里，他的面容逐渐变成一副沮丧的样子。

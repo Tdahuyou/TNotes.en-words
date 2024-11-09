@@ -1,18 +1,24 @@
 - electroplate
   - 发音
-    - 英 `/ɪ'lektrə(ʊ)pleɪt; ɪ,lektrə(ʊ)'pleɪt/`
-    - 美 `/ɪ'lɛktrəplet/`
+    - 英
+      - `/ɪ'lektrə(ʊ)pleɪt; ɪ,lektrə(ʊ)'pleɪt/`
+    - 美
+      - `/ɪ'lɛktrəplet/`
   - 词义
-    - v. 电镀
-    - `to put a very thin layer of metal onto the surface of an object, using electrolysis`
-    - n. 电镀物品
-    - `electroplated articles collectively, esp when plated with silver `
+    - v.
+      - 电镀
+        - `to put a very thin layer of metal onto the surface of an object, using electrolysis`
+    - n.
+      - 电镀物品
+        - `electroplated articles collectively, esp when plated with silver `
   - 同根词
     - n.
-      - `electroplater` 电镀工，电镀器
+      - `electroplater`
+        - 电镀工，电镀器
   - 近义词
-    - vt. 电镀
-      - `plate`
+    - vt.
+      - 电镀
+        - `plate`
   - 例句
     - `Got also in recent years large electroplate the industry, the factory house and the zeal support of the colleague, and approve.`
       - 近年来并得到了广大电镀业界，厂家及同仁的热诚支持，并认可。

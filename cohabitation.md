@@ -1,18 +1,23 @@
 - cohabitation
   - 发音
-    - 英 `/ˌkouˌhæbɪ'teɪʃn/`
-    - 美 `/ko,hæbə'teʃən/`
+    - 英
+      - `/ˌkouˌhæbɪ'teɪʃn/`
+    - 美
+      - `/ko,hæbə'teʃən/`
   - 词义
-    - n. 同居，同住
+    - n.
+      - 同居，同住
   - 记忆
     - 来自cohabit(vi. 同居， 同住)
   - 同根词
     - vi.
-      - `cohabit` 同居（尤指未婚而同居者）
+      - `cohabit`
+        - 同居（尤指未婚而同居者）
   - 近义词
-    - n. 同居；共栖；同居生活
-      - `messmateism`
-      - `mutualism`
+    - n.
+      - 同居；共栖；同居生活
+        - `messmateism`
+        - `mutualism`
   - 例句
     - `The obligation of cohabitation of spouses is the basis of marital rights.`
       - 夫妻间的同居义务是夫妻其他权利与义务的基础。

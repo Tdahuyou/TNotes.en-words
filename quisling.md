@@ -1,14 +1,18 @@
 - quisling
   - 发音
-    - 英 `/'kwɪzlɪŋ/`
-    - 美 `/'kwɪzlɪŋ/`
+    - 英
+      - `/'kwɪzlɪŋ/`
+    - 美
+      - `/'kwɪzlɪŋ/`
   - 词义
-    - n. 卖国贼
-    - `someone who helps an enemy country that has taken control of their own country`
+    - n.
+      - 卖国贼
+        - `someone who helps an enemy country that has taken control of their own country`
   - 近义词
-    - n. 卖国贼；内奸
-      - `traitor`
-      - `agent provocateur`
+    - n.
+      - 卖国贼；内奸
+        - `traitor`
+        - `agent provocateur`
   - 例句
     - `He is a quisling.`
       - 他是一个卖国贼。

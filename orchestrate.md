@@ -1,17 +1,24 @@
 - orchestrate
   - 发音
-    - 英 `/'ɔːkɪstreɪt/`
-    - 美 `/'ɔrkɪstret/`
+    - 英
+      - `/'ɔːkɪstreɪt/`
+    - 美
+      - `/'ɔrkɪstret/`
   - 词义
-    - v. 把…编成管弦乐曲；（美）精心安排；把…协调地结合起来
-    - `to organize an important event or a complicated plan, especially secretly`
+    - v.
+      - 把…编成管弦乐曲；（美）精心安排；把…协调地结合起来
+        - `to organize an important event or a complicated plan, especially secretly`
   - 同根词
     - adj.
-      - `orchestral` 管弦乐的；管弦乐队的
+      - `orchestral`
+        - 管弦乐的；管弦乐队的
     - n.
-      - `orchestra` 管弦乐队；乐队演奏处
-      - `orchestration` 管弦乐编曲；和谐的结合
-      - `orchestrator` 管弦乐演奏家；管弦乐编曲家
+      - `orchestra`
+        - 管弦乐队；乐队演奏处
+      - `orchestration`
+        - 管弦乐编曲；和谐的结合
+      - `orchestrator`
+        - 管弦乐演奏家；管弦乐编曲家
   - 例句
     - `The riots were orchestrated by anti-government forces.`
       - 骚乱是由反政府势力策动的。

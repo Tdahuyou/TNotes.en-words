@@ -1,38 +1,56 @@
 - careless
   - 发音
-    - 英 `/'keələs/`
-    - 美 `/'kɛrləs/`
+    - 英
+      - `/'keələs/`
+    - 美
+      - `/'kɛrləs/`
   - 词义
-    - adj. 粗心的；疏忽的
-    - `not paying enough attention to what you are doing, so that you make mistakes, damage things etc`
+    - adj.
+      - 粗心的；疏忽的
+        - `not paying enough attention to what you are doing, so that you make mistakes, damage things etc`
   - 记忆
     - care(关心)+less(少的)→缺少关心→粗心的； 漫不经心的
   - 同根词
     - adj.
-      - `careful` 仔细的，小心的
-      - `caring` 有同情心的；表示或感到关怀或关心的
-      - `carefree` 无忧无虑的；不负责的
+      - `careful`
+        - 仔细的，小心的
+      - `caring`
+        - 有同情心的；表示或感到关怀或关心的
+      - `carefree`
+        - 无忧无虑的；不负责的
     - adv.
-      - `carefully` 小心地
-      - `carelessly` 粗心地；不注意地；无忧无虑地
+      - `carefully`
+        - 小心地
+      - `carelessly`
+        - 粗心地；不注意地；无忧无虑地
     - n.
-      - `care` 关怀；照料；谨慎；忧虑
-      - `carelessness` 粗心大意
+      - `care`
+        - 关怀；照料；谨慎；忧虑
+      - `carelessness`
+        - 粗心大意
     - v.
-      - `caring` 关心；照顾（care的现在分词）
+      - `caring`
+        - 关心；照顾（care的现在分词）
     - vi.
-      - `care` 照顾；关心；喜爱；顾虑
+      - `care`
+        - 照顾；关心；喜爱；顾虑
     - vt.
-      - `care` 在意；希望或喜欢
+      - `care`
+        - 在意；希望或喜欢
   - 近义词
-    - adj. 粗心的；无忧无虑的；淡漠的
-      - `unwary`
-      - `sloppy`
+    - adj.
+      - 粗心的；无忧无虑的；淡漠的
+        - `unwary`
+        - `sloppy`
   - 短语
-    - `careless of` 不顾；不关心；不在乎；不感兴趣；无忧无虑 
-    - `careless driving` 不小心驾驶；粗心驾车 
-    - `careless mistake` 粗心错误，疏忽 
-    - `careless about` 对…粗心 
+    - `careless of`
+      - 不顾；不关心；不在乎；不感兴趣；无忧无虑 
+    - `careless driving`
+      - 不小心驾驶；粗心驾车 
+    - `careless mistake`
+      - 粗心错误，疏忽 
+    - `careless about`
+      - 对…粗心 
   - 例句
     - `It was careless of him to leave the door unlocked.`
       - 他忘了锁门，真是粗心大意。

@@ -1,19 +1,24 @@
 - platoon
   - 发音
-    - 英 `/plə'tuːn/`
-    - 美 `/plə'tun/`
+    - 英
+      - `/plə'tuːn/`
+    - 美
+      - `/plə'tun/`
   - 词义
-    - n. 排，团；一组
-    - `a small group of soldiers which is part of a  company  and is led by a  lieutenant `
+    - n.
+      - 排，团；一组
+        - `a small group of soldiers which is part of a  company  and is led by a  lieutenant `
   - 近义词
-    - n. 排，团；一组
-      - `row`
-      - `rank`
-      - `range`
-      - `line`
-      - `mass`
+    - n.
+      - 排，团；一组
+        - `row`
+        - `rank`
+        - `range`
+        - `line`
+        - `mass`
   - 短语
-    - `platoon leader` n. 排长 
+    - `platoon leader`
+      - n. 排长 
   - 例句
     - `I have stationed another platoon on the island.`
       - 我已向那个岛派出了又一个排的守军。

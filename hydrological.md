@@ -1,13 +1,19 @@
 - hydrological
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - adj. 水文学的
+    - adj.
+      - 水文学的
   - 短语
-    - `hydrological cycle` 水循环；水分循环 
-    - `hydrological regime` 水文状况，水分状况 
-    - `hydrological forecast` 水文预报；水文预告 
+    - `hydrological cycle`
+      - 水循环；水分循环 
+    - `hydrological regime`
+      - 水文状况，水分状况 
+    - `hydrological forecast`
+      - 水文预报；水文预告 
   - 例句
     - `The theme addresses the role of forests and trees outside forests to help moderate soil, hydrological and aquatic systems.`
       - 本主题处理森林及森林外树木帮助调节土壤、水文以及水生系统的作用。

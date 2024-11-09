@@ -1,32 +1,45 @@
 - comprehension
   - 发音
-    - 英 `/kɒmprɪ'henʃ(ə)n/`
-    - 美 `/,kɑmprɪ'hɛnʃən/`
+    - 英
+      - `/kɒmprɪ'henʃ(ə)n/`
+    - 美
+      - `/,kɑmprɪ'hɛnʃən/`
   - 词义
-    - n. 理解,包含
-    - `the ability to understand something`
+    - n.
+      - 理解,包含
+        - `the ability to understand something`
   - 同根词
     - adj.
-      - `comprehensive` 综合的；广泛的；有理解力的
-      - `comprehensible` 可理解的
+      - `comprehensive`
+        - 综合的；广泛的；有理解力的
+      - `comprehensible`
+        - 可理解的
     - adv.
-      - `comprehensively` 包括地；包括一切地
+      - `comprehensively`
+        - 包括地；包括一切地
     - n.
-      - `comprehensive` 综合学校；专业综合测验
-      - `comprehensibility` 可了解性；能理解
+      - `comprehensive`
+        - 综合学校；专业综合测验
+      - `comprehensibility`
+        - 可了解性；能理解
     - vt.
-      - `comprehend` 理解；包含；由…组成
+      - `comprehend`
+        - 理解；包含；由…组成
   - 近义词
-    - n. 理解；包含
-      - `containing`
-      - `grasp`
-      - `understanding`
-      - `involved in`
-      - `involvement`
+    - n.
+      - 理解；包含
+        - `containing`
+        - `grasp`
+        - `understanding`
+        - `involved in`
+        - `involvement`
   - 短语
-    - `reading comprehension` 阅读理解；阅读测验 
-    - `listening comprehension` 听力理解；听懂；听力测验 
-    - `comprehension and translation` 理解与翻译 
+    - `reading comprehension`
+      - 阅读理解；阅读测验 
+    - `listening comprehension`
+      - 听力理解；听懂；听力测验 
+    - `comprehension and translation`
+      - 理解与翻译 
   - 例句
     - `Why you let her talk you into doing such a foolish thing is beyond my comprehension (= impossible for me to understand ) .`
       - 你怎么会被她说服去做这种蠢事，我实在是无法理解。

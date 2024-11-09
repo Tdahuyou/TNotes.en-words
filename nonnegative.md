@@ -1,13 +1,17 @@
 - nonnegative
   - 发音
-    - 英 `/nɒn'neɡətɪv/`
-    - 美 `/nɔn'neɡətiv/`
+    - 英
+      - `/nɒn'neɡətɪv/`
+    - 美
+      - `/nɔn'neɡətiv/`
   - 词义
-    - adj. 正的，非负的
+    - adj.
+      - 正的，非负的
   - 近义词
-    - adj. 正的，[数]非负的
-      - `positive`
-      - `plus`
+    - adj.
+      - 正的，[数]非负的
+        - `positive`
+        - `plus`
   - 例句
     - `Its optimal solution is obtained by finding a nonnegative solution of compatible equations.`
       - 其最优解是通过求一个相容方程组的非负解而得到。

@@ -1,15 +1,21 @@
 - microbiologist
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 微生物学家
+    - n.
+      - 微生物学家
   - 同根词
     - adj.
-      - `microbial` 微生物的；由细菌引起的
-      - `microbic` 微生物的；细菌的
+      - `microbial`
+        - 微生物的；由细菌引起的
+      - `microbic`
+        - 微生物的；细菌的
     - n.
-      - `microbiology` 微生物学
+      - `microbiology`
+        - 微生物学
   - 例句
     - `I remember when Jurassic Park came out, a microbiologist friend constantly told me how outlandish it was, but within a few years, he said it was interesting how far things have come.`
       - 我记得当《侏罗纪公园》出现的时候，一个微生物学家朋友不断的告诉我这影片太奇异了，但是在几年之内，他说影片中的科技到底还有多久才能实现很令人感兴趣。

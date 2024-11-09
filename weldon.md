@@ -1,6 +1,9 @@
 - weldon
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 韦尔登（男子名）
+    - n.
+      - 韦尔登（男子名）

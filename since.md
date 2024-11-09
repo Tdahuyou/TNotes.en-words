@@ -1,26 +1,35 @@
 - since
   - 发音
-    - 英 `/sɪns/`
-    - 美 `/sɪns/`
+    - 英
+      - `/sɪns/`
+    - 美
+      - `/sɪns/`
   - 词义
-    - prep. 自……以来
-    - `from a particular time or event in the past until the present, or in that period of time`
-    - conj. 自……以来
+    - prep.
+      - 自……以来
+        - `from a particular time or event in the past until the present, or in that period of time`
+    - conj.
+      - 自……以来
   - 近义词
-    - conj. 因为；由于；既然；自…以来；自…以后
-      - `because`
-      - `for`
-      - `seeing`
-      - `when`
-      - `now`
-    - adv. 后来
-      - `after`
-      - `subsequently`
-      - `later on`
+    - conj.
+      - 因为；由于；既然；自…以来；自…以后
+        - `because`
+        - `for`
+        - `seeing`
+        - `when`
+        - `now`
+    - adv.
+      - 后来
+        - `after`
+        - `subsequently`
+        - `later on`
   - 短语
-    - `ever since` adv. 从那时到现在 
-    - `long since` 很久以前；从前 
-    - `since when` 自什么时候起，打什么时候开始 
+    - `ever since`
+      - adv. 从那时到现在 
+    - `long since`
+      - 很久以前；从前 
+    - `since when`
+      - 自什么时候起，打什么时候开始 
   - 例句
     - `We’ve been waiting here since two o’clock.`
       - 我们从两点钟开始就在这里等了。

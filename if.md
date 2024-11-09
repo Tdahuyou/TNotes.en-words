@@ -1,29 +1,43 @@
 - if
   - 发音
-    - 英 `/ɪf/`
-    - 美 `/ɪf/`
+    - 英
+      - `/ɪf/`
+    - 美
+      - `/ɪf/`
   - 词义
-    - conj. 如果；若
-    - `used when talking about something that might happen or be true, or might have happened`
+    - conj.
+      - 如果；若
+        - `used when talking about something that might happen or be true, or might have happened`
   - 近义词
-    - conj. （表条件）如果；即使；是否；（表假设）假如
-      - `whether`
-      - `provided`
-    - n. 条件；设想
-      - `condition`
-      - `qualification`
-      - `conception`
-      - `assumption`
+    - conj.
+      - （表条件）如果；即使；是否；（表假设）假如
+        - `whether`
+        - `provided`
+    - n.
+      - 条件；设想
+        - `condition`
+        - `qualification`
+        - `conception`
+        - `assumption`
   - 短语
-    - `as if` 犹如，好似 
-    - `if any` 若有的话；即便要 
-    - `if so` 如果是这样的话；要是这样 
-    - `if only` 只要；要是…多好 
-    - `if ever` 假如，要是；如果真有(我当真) 
-    - `if at all` 如果某事真会发生的话；如果某人真要做某事的话 
-    - `if and when` 万一，如果；只有当…之时 
-    - `if you please` 请；对不起 
-    - `ifs and buts` 假设和转折；遁词；借口；推托 
+    - `as if`
+      - 犹如，好似 
+    - `if any`
+      - 若有的话；即便要 
+    - `if so`
+      - 如果是这样的话；要是这样 
+    - `if only`
+      - 只要；要是…多好 
+    - `if ever`
+      - 假如，要是；如果真有(我当真) 
+    - `if at all`
+      - 如果某事真会发生的话；如果某人真要做某事的话 
+    - `if and when`
+      - 万一，如果；只有当…之时 
+    - `if you please`
+      - 请；对不起 
+    - `ifs and buts`
+      - 假设和转折；遁词；借口；推托 
   - 例句
     - `We’ll stay at home if it rains.`
       - 如果下雨，我们就待在家里。

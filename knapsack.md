@@ -1,16 +1,21 @@
 - knapsack
   - 发音
-    - 英 `/'næpsæk/`
-    - 美 `/'næpsæk/`
+    - 英
+      - `/'næpsæk/`
+    - 美
+      - `/'næpsæk/`
   - 词义
-    - n. 背包
-    - `a bag that you carry on your shoulders`
+    - n.
+      - 背包
+        - `a bag that you carry on your shoulders`
   - 近义词
-    - n. 背包
-      - `pack`
-      - `back-packing`
+    - n.
+      - 背包
+        - `pack`
+        - `back-packing`
   - 短语
-    - `knapsack problem` [数]渐缩问题 
+    - `knapsack problem`
+      - [数]渐缩问题 
   - 例句
     - `Squatting by one of the walls, I took a little book from my knapsack.`
       - 我蹲在胡同的墙根，从背包里拿出一本最近出版的小开本的书。

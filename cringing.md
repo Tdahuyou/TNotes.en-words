@@ -1,20 +1,26 @@
 - cringing
   - 发音
-    - 英 `/'krɪndʒɪŋ/`
-    - 美 `/undefined/`
+    - 英
+      - `/'krɪndʒɪŋ/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n&adj. 谄媚，奉承
+    - n&adj.
+      - 谄媚，奉承
   - 记忆
     - cring(= cringe 畏缩) + ing → 一直向后退缩 → 谄媚的
   - 同根词
     - n.
-      - `cringe` 畏缩；奉承
+      - `cringe`
+        - 畏缩；奉承
     - vi.
-      - `cringe` 畏缩；奉承；阿谀
+      - `cringe`
+        - 畏缩；奉承；阿谀
   - 近义词
-    - n. 奉承（的）
-      - `court`
-      - `flattery`
+    - n.
+      - 奉承（的）
+        - `court`
+        - `flattery`
   - 例句
     - `Their servile lives were spent in grovelling and cringing and toiling and running about like little dogs at the behest of their numerous masters.`
       - 他们卑躬屈节的一生是在拍马奉承、拼命干活中度过的，他们象小狗般的奔走在无数主人膝下。

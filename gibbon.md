@@ -1,10 +1,13 @@
 - gibbon
   - 发音
-    - 英 `/'gɪb(ə)n/`
-    - 美 `/'ɡɪbən/`
+    - 英
+      - `/'gɪb(ə)n/`
+    - 美
+      - `/'ɡɪbən/`
   - 词义
-    - n. 长臂猿
-    - `a small animal like a monkey, with long arms and no tail, that lives in trees in Asia`
+    - n.
+      - 长臂猿
+        - `a small animal like a monkey, with long arms and no tail, that lives in trees in Asia`
   - 例句
     - `Beverly: Why else would you grow a pancreas in a teenaged gibbon?`
       - 要不然在年轻长臂猿体内培育人类胰腺干什么?

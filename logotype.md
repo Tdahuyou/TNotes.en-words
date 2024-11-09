@@ -1,15 +1,19 @@
 - logotype
   - 发音
-    - 英 `/'lɒgə(ʊ)taɪp/`
-    - 美 `/'lɔɡotaɪp/`
+    - 英
+      - `/'lɒgə(ʊ)taɪp/`
+    - 美
+      - `/'lɔɡotaɪp/`
   - 词义
-    - n. 连合活字；标识；商标
-    - `a piece of type with several uncombined characters cast on it `
+    - n.
+      - 连合活字；标识；商标
+        - `a piece of type with several uncombined characters cast on it `
   - 近义词
-    - n. 连合活字；标识；商标
-      - `brand`
-      - `label`
-      - `identifying`
+    - n.
+      - 连合活字；标识；商标
+        - `brand`
+        - `label`
+        - `identifying`
   - 例句
     - `Some identifiers are hybrid, or combinations of symbol and logotype.`
       - 有些标识是杂交，或符号和标识的组合。

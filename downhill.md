@@ -1,9 +1,12 @@
 - downhill
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - adv. 下坡；向下
+    - adv.
+      - 下坡；向下
   - 例句
     - `She bent at the knee when she skied downhill.`
       - 她滑雪下山时曲膝下蹲。

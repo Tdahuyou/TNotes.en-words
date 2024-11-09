@@ -1,8 +1,11 @@
 - boastfulness
   - 发音
-    - 英 `/'boustflnəs/`
-    - 美 `/undefined/`
+    - 英
+      - `/'boustflnəs/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 自吹自擂；浮夸
+    - n.
+      - 自吹自擂；浮夸
   - 记忆
     - 来自boast(v. 自夸， 自吹自擂)

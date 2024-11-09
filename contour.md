@@ -1,18 +1,25 @@
 - contour
   - 发音
-    - 英 `/'kɑːntur/`
-    - 美 `/'kɑntʊr/`
+    - 英
+      - `/'kɑːntur/`
+    - 美
+      - `/'kɑntʊr/`
   - 词义
-    - n. 等高线；轮廓
-    - `the shape of the outer edges of something such as an area of land or someone’s body`
+    - n.
+      - 等高线；轮廓
+        - `the shape of the outer edges of something such as an area of land or someone’s body`
   - 近义词
-    - n. 轮廓；[气象]等高线；[数]周线；电路；概要
-      - `profile`
-      - `brief`
+    - n.
+      - 轮廓；[气象]等高线；[数]周线；电路；概要
+        - `profile`
+        - `brief`
   - 短语
-    - `contour line` 轮廓线；等高线 
-    - `contour map` 等高线图；等值线图 
-    - `depth contour` 等深线；等海深线；等水深线 
+    - `contour line`
+      - 轮廓线；等高线 
+    - `contour map`
+      - 等高线图；等值线图 
+    - `depth contour`
+      - 等深线；等海深线；等水深线 
   - 例句
     - `the contours of the hills`
       - 群山的轮廓

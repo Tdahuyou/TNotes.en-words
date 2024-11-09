@@ -1,27 +1,35 @@
 - discredit
   - 发音
-    - 英 `/dɪs'kredɪt/`
-    - 美 `/dɪs'krɛdɪt/`
+    - 英
+      - `/dɪs'kredɪt/`
+    - 美
+      - `/dɪs'krɛdɪt/`
   - 词义
-    - vt. 使丧失声誉；使怀疑
-    - `To discredit someone or something means to cause them to lose people's respect or trust`
-    - n. 名誉丧失
-    - `the loss of other people’s respect or trust`
+    - vt.
+      - 使丧失声誉；使怀疑
+        - `To discredit someone or something means to cause them to lose people's respect or trust`
+    - n.
+      - 名誉丧失
+        - `the loss of other people’s respect or trust`
   - 记忆
     - dis(不) + cred(相信) + it → 不信 → 使怀疑
   - 同根词
     - adj.
-      - `discreditable` 丢脸的；不名誉的；有损信用的；败坏名声的
+      - `discreditable`
+        - 丢脸的；不名誉的；有损信用的；败坏名声的
     - adv.
-      - `discreditably` 丢脸地；有损信用地
+      - `discreditably`
+        - 丢脸地；有损信用地
   - 近义词
-    - vt. 不信；使……丢脸
-      - `misbelieve`
-      - `disbelieve`
-    - n. 怀疑；无信用；名声的败坏
-      - `doubt`
-      - `challenge`
-      - `suspicion`
+    - vt.
+      - 不信；使……丢脸
+        - `misbelieve`
+        - `disbelieve`
+    - n.
+      - 怀疑；无信用；名声的败坏
+        - `doubt`
+        - `challenge`
+        - `suspicion`
   - 例句
     - `...a secret unit within the company that had been set up to discredit its major rival.`
       - …为破坏其主要竞争对手声誉而设的一个公司内秘密单位。

@@ -1,36 +1,55 @@
 - nutrition
   - 发音
-    - 英 `/nu'trɪʃn/`
-    - 美 `/nu'trɪʃən/`
+    - 英
+      - `/nu'trɪʃn/`
+    - 美
+      - `/nu'trɪʃən/`
   - 词义
-    - n. 营养；营养学
-    - `the process of giving or getting the right type of food for good health and growth`
+    - n.
+      - 营养；营养学
+        - `the process of giving or getting the right type of food for good health and growth`
   - 记忆
     - nutri(营养) + tion → 营养； 营养学
   - 同根词
     - adj.
-      - `nutrient` 营养的；滋养的
-      - `nutritious` 有营养的，滋养的
-      - `nutritional` 营养的；滋养的
-      - `nutritive` 有营养的；滋养的；有营养成份的；与营养有关的
+      - `nutrient`
+        - 营养的；滋养的
+      - `nutritious`
+        - 有营养的，滋养的
+      - `nutritional`
+        - 营养的；滋养的
+      - `nutritive`
+        - 有营养的；滋养的；有营养成份的；与营养有关的
     - adv.
-      - `nutritionally` 滋养地
+      - `nutritionally`
+        - 滋养地
     - n.
-      - `nutrient` 营养物；滋养物
-      - `nutritionist` 营养学家
-      - `nutriment` 营养物；促进生长的东西
-      - `nutritive` 营养物
-      - `nutritiousness` 有营养成份
+      - `nutrient`
+        - 营养物；滋养物
+      - `nutritionist`
+        - 营养学家
+      - `nutriment`
+        - 营养物；促进生长的东西
+      - `nutritive`
+        - 营养物
+      - `nutritiousness`
+        - 有营养成份
   - 近义词
-    - n. [生物]营养，营养学；营养品
-      - `alimentation`
-      - `threpsology`
+    - n.
+      - [生物]营养，营养学；营养品
+        - `alimentation`
+        - `threpsology`
   - 短语
-    - `animal nutrition` 动物营养学 
-    - `human nutrition` 人类营养学，人体营养 
-    - `nutrition and health care` 营养与保健 
-    - `nutrition facts` 营养标示；营养表 
-    - `nutrition and food hygiene` 营养与食品卫生学 
+    - `animal nutrition`
+      - 动物营养学 
+    - `human nutrition`
+      - 人类营养学，人体营养 
+    - `nutrition and health care`
+      - 营养与保健 
+    - `nutrition facts`
+      - 营养标示；营养表 
+    - `nutrition and food hygiene`
+      - 营养与食品卫生学 
   - 例句
     - `Nutrition and exercise are essential to fitness and health.`
       - 营养和运动是保持健康所必不可少的。

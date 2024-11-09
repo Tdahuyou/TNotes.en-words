@@ -1,12 +1,17 @@
 - Utah
   - 发音
-    - 英 `/'ju:tɑ:/`
-    - 美 `/'ju:tɑ:/`
+    - 英
+      - `/'ju:tɑ:/`
+    - 美
+      - `/'ju:tɑ:/`
   - 词义
-    - n. 犹他州(略作Ut,UT)
+    - n.
+      - 犹他州(略作Ut,UT)
   - 短语
-    - `university of utah` 犹他大学 
-    - `utah jazz` 犹他爵士队（美国篮球队） 
+    - `university of utah`
+      - 犹他大学 
+    - `utah jazz`
+      - 犹他爵士队（美国篮球队） 
   - 例句
     - `I even moved to Utah to be with him.`
       - 我甚至搬到了犹他州，为了和他在一起。

@@ -1,14 +1,18 @@
 - handgun
   - 发音
-    - 英 `/'hæn(d)gʌn/`
-    - 美 `/'hænd'gʌn/`
+    - 英
+      - `/'hæn(d)gʌn/`
+    - 美
+      - `/'hænd'gʌn/`
   - 词义
-    - n. 手枪
-    - `a small gun that you hold in one hand when you fire it`
+    - n.
+      - 手枪
+        - `a small gun that you hold in one hand when you fire it`
   - 近义词
-    - n. 手枪
-      - `betsy`
-      - `pistol`
+    - n.
+      - 手枪
+        - `betsy`
+        - `pistol`
   - 例句
     - `Stumbling through the smoke, the pilot emerged from the forward compartment, fumbled for the handgun at his belt.`
       - 烟雾间出现了飞行员跌跌撞撞的身影，他的手笨拙地摸索着腰带上的手枪。

@@ -1,13 +1,17 @@
 - governess
   - 发音
-    - 英 `/'gʌv(ə)nɪs/`
-    - 美 `/'gʌvɚnəs/`
+    - 英
+      - `/'gʌv(ə)nɪs/`
+    - 美
+      - `/'gʌvɚnəs/`
   - 词义
-    - n. 女家庭教师
-    - `a female teacher in the past, who lived with a rich family and taught their children at home`
+    - n.
+      - 女家庭教师
+        - `a female teacher in the past, who lived with a rich family and taught their children at home`
   - 近义词
-    - n. 女家庭教师
-      - `tutress`
+    - n.
+      - 女家庭教师
+        - `tutress`
   - 例句
     - `So the people of the manor lived peacefully, and Lizette’s governess taught her painting and piano and herbalism and manners, and her Grandfather taught her romping and riding and forestry.`
       - 于是人们在庄园里过着安静祥和的生活。 莉莎特的家庭女教师教她绘画、钢琴、草药和礼仪，祖父则教她玩耍、骑术以及森林学。

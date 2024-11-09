@@ -1,31 +1,45 @@
 - funny
   - 发音
-    - 英 `/'fʌnɪ/`
-    - 美 `/'fʌni/`
+    - 英
+      - `/'fʌnɪ/`
+    - 美
+      - `/'fʌni/`
   - 词义
-    - adj. 有趣的
-    - `making you laugh`
+    - adj.
+      - 有趣的
+        - `making you laugh`
   - 同根词
     - adj.
-      - `fun` 供娱乐用的
+      - `fun`
+        - 供娱乐用的
     - adv.
-      - `funnily` 有趣地，滑稽地；古怪的
+      - `funnily`
+        - 有趣地，滑稽地；古怪的
     - n.
-      - `fun` 乐趣；玩笑；有趣的人或事
+      - `fun`
+        - 乐趣；玩笑；有趣的人或事
     - vi.
-      - `fun` 开玩笑
+      - `fun`
+        - 开玩笑
   - 近义词
-    - adj. 有趣的；滑稽的；奇异的
-      - `colorful`
-      - `fantastic`
-    - n. 滑稽人物
-      - `comedian`
+    - adj.
+      - 有趣的；滑稽的；奇异的
+        - `colorful`
+        - `fantastic`
+    - n.
+      - 滑稽人物
+        - `comedian`
   - 短语
-    - `feel funny` [口语] 
-    - `funny story` 幽默故事 
-    - `funny bone` 肘的尺骨端；幽默感 
-    - `funny picture` 有趣的图片 
-    - `funny business` n. 不道德的行为；不规矩的事 
+    - `feel funny`
+      - [口语] 
+    - `funny story`
+      - 幽默故事 
+    - `funny bone`
+      - 肘的尺骨端；幽默感 
+    - `funny picture`
+      - 有趣的图片 
+    - `funny business`
+      - n. 不道德的行为；不规矩的事 
   - 例句
     - `the funniest man in Britain`
       - 英国最滑稽的男人

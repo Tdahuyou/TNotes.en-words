@@ -1,32 +1,45 @@
 - saying
   - 发音
-    - 英 `/'seɪɪŋ/`
-    - 美 `/'seɪŋ/`
+    - 英
+      - `/'seɪɪŋ/`
+    - 美
+      - `/'seɪŋ/`
   - 词义
-    - n. 名言
-    - `a well-known short statement that expresses an idea most people believe is true and wise`
+    - n.
+      - 名言
+        - `a well-known short statement that expresses an idea most people believe is true and wise`
   - 记忆
     - say(说)+ing(名词后缀)→所说的话→言语
   - 同根词
     - adj.
-      - `said` 上述的，该
+      - `said`
+        - 上述的，该
     - n.
-      - `sayer` 说话的人
+      - `sayer`
+        - 说话的人
     - v.
-      - `said` 说（say的过去式和过去分词）
+      - `said`
+        - 说（say的过去式和过去分词）
     - vi.
-      - `say` 讲；表示；念；假定；背诵
+      - `say`
+        - 讲；表示；念；假定；背诵
     - vt.
-      - `say` 讲；说明；例如；声称；假设；指明
+      - `say`
+        - 讲；说明；例如；声称；假设；指明
   - 近义词
-    - n. 话；谚语；言论
-      - `saw`
-      - `proverb`
+    - n.
+      - 话；谚语；言论
+        - `saw`
+        - `proverb`
   - 短语
-    - `as the saying goes` 常言道，正如俗语所说 
-    - `common saying` n. 俗谚 
-    - `saying and doing` 言行 
-    - `go without saying` 不言而喻；理所当然；自不待言 
+    - `as the saying goes`
+      - 常言道，正如俗语所说 
+    - `common saying`
+      - n. 俗谚 
+    - `saying and doing`
+      - 言行 
+    - `go without saying`
+      - 不言而喻；理所当然；自不待言 
   - 例句
     - `You can’t judge a book by its cover, as the old saying goes.`
       - 老话说得好，人不可貌相。

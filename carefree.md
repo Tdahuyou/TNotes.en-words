@@ -1,19 +1,25 @@
 - carefree
   - 发音
-    - 英 `/'keəfriː/`
-    - 美 `/'kɛrfri/`
+    - 英
+      - `/'keəfriː/`
+    - 美
+      - `/'kɛrfri/`
   - 词义
-    - adj. 无忧无虑的；不负责的
-    - `having no worries or problems`
+    - adj.
+      - 无忧无虑的；不负责的
+        - `having no worries or problems`
   - 同根词
     - adj.
-      - `careless` 粗心的；无忧无虑的；淡漠的
+      - `careless`
+        - 粗心的；无忧无虑的；淡漠的
     - adv.
-      - `carelessly` 粗心地；不注意地；无忧无虑地
+      - `carelessly`
+        - 粗心地；不注意地；无忧无虑地
   - 近义词
-    - adj. 无忧无虑的；不负责的
-      - `worry-free`
-      - `light-hearted`
+    - adj.
+      - 无忧无虑的；不负责的
+        - `worry-free`
+        - `light-hearted`
   - 例句
     - `He thought back to the carefree days of his childhood.`
       - 他回想起自己无忧无虑的童年时代。

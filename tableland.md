@@ -1,14 +1,18 @@
 - tableland
   - 发音
-    - 英 `/'teɪbllænd/`
-    - 美 `/'tebllænd/`
+    - 英
+      - `/'teɪbllænd/`
+    - 美
+      - `/'tebllænd/`
   - 词义
-    - n. 高原，台地
-    - `a large area of high flat land`
+    - n.
+      - 高原，台地
+        - `a large area of high flat land`
   - 近义词
-    - n. [地理]高原；台地
-      - `meseta`
-      - `altiplano`
+    - n.
+      - [地理]高原；台地
+        - `meseta`
+        - `altiplano`
   - 例句
     - `The forests have changed into bare little hills; the riverbed has become a high tableland.`
       - 森林变成了光秃秃的浅山，河床变成了高高的台地。

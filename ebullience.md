@@ -1,20 +1,26 @@
 - ebullience
   - 发音
-    - 英 `/i'bʌljəns/`
-    - 美 `/undefined/`
+    - 英
+      - `/i'bʌljəns/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 奔放的；兴高采烈的
+    - n.
+      - 奔放的；兴高采烈的
   - 记忆
     - e (出) + bull (看作boil， 沸腾) + ience → 高兴得好像血要沸腾出来了 → 兴高采烈的
   - 同根词
     - adj.
-      - `ebullient` 热情洋溢的；沸腾的
+      - `ebullient`
+        - 热情洋溢的；沸腾的
     - n.
-      - `ebullition` [物] 沸腾；感情迸发；冒泡
+      - `ebullition`
+        - [物] 沸腾；感情迸发；冒泡
   - 近义词
-    - n. 奔放；兴高采烈；[物]沸腾；冒泡
-      - `elation`
-      - `bubbling`
+    - n.
+      - 奔放；兴高采烈；[物]沸腾；冒泡
+        - `elation`
+        - `bubbling`
   - 例句
     - `She burst into the room with her usual ebullience.`
       - 她像往常一样兴高采烈地冲进了房间。

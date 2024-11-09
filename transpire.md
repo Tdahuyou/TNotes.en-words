@@ -1,22 +1,28 @@
 - transpire
   - 发音
-    - 英 `/træn'spaiə/`
-    - 美 `/træn'spaɪɚ/`
+    - 英
+      - `/træn'spaiə/`
+    - 美
+      - `/træn'spaɪɚ/`
   - 词义
-    - v. 发生；使蒸发；使排出；泄露
-    - `to happen`
+    - v.
+      - 发生；使蒸发；使排出；泄露
+        - `to happen`
   - 记忆
     - trans (改变) + pir (通过) + e → 通过改变发生了 → 发生
   - 同根词
     - n.
-      - `transpiration` 蒸发，散发；[植] 蒸腾作用；[航] 流逸
+      - `transpiration`
+        - 蒸发，散发；[植] 蒸腾作用；[航] 流逸
   - 近义词
-    - vi. 发生；蒸发；泄露
-      - `occur`
-      - `happen`
-      - `proceed`
-    - vt. 使蒸发；使排出
-      - `exhale`
+    - vi.
+      - 发生；蒸发；泄露
+        - `occur`
+        - `happen`
+        - `proceed`
+    - vt.
+      - 使蒸发；使排出
+        - `exhale`
   - 例句
     - `Exactly what transpired remains unknown.`
       - 究竟发生了什么一直无人知晓。

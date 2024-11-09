@@ -1,24 +1,33 @@
 - haggle
   - 发音
-    - 英 `/'hæg(ə)l/`
-    - 美 `/'hæɡl/`
+    - 英
+      - `/'hæg(ə)l/`
+    - 美
+      - `/'hæɡl/`
   - 词义
-    - n. 讨价还价；争论
-    - v. 乱劈；乱砍
+    - n.
+      - 讨价还价；争论
+    - v.
+      - 乱劈；乱砍
   - 同根词
     - n.
-      - `haggling` 讨价还价；争论
+      - `haggling`
+        - 讨价还价；争论
     - v.
-      - `haggling` 讨价还价；争辩（haggle的ing形式）
+      - `haggling`
+        - 讨价还价；争辩（haggle的ing形式）
   - 近义词
-    - n. [贸易]讨价还价；争论
-      - `controversy`
-      - `combat`
-    - vt. 乱劈；乱砍
-      - `cut and carve`
-    - vi. 争论；乱劈
-      - `debate`
-      - `argue with`
+    - n.
+      - [贸易]讨价还价；争论
+        - `controversy`
+        - `combat`
+    - vt.
+      - 乱劈；乱砍
+        - `cut and carve`
+    - vi.
+      - 争论；乱劈
+        - `debate`
+        - `argue with`
   - 例句
     - `In many countries you have to haggle before you buy anything.`
       - 在许多国家里买东西之前都得讨价还价。

@@ -1,18 +1,26 @@
 - inherently
   - 发音
-    - 英 `/ɪn'hɪrəntli/`
-    - 美 `/ɪnˈhɪrəntlɪ/`
+    - 英
+      - `/ɪn'hɪrəntli/`
+    - 美
+      - `/ɪnˈhɪrəntlɪ/`
   - 词义
-    - adv. 固有地，天性地
+    - adv.
+      - 固有地，天性地
   - 同根词
     - adj.
-      - `inherent` 固有的；内在的；与生俱来的，遗传的
+      - `inherent`
+        - 固有的；内在的；与生俱来的，遗传的
     - n.
-      - `inherence` 内在；固有；天赋
-      - `inherency` 固有；内在性
+      - `inherence`
+        - 内在；固有；天赋
+      - `inherency`
+        - 固有；内在性
     - vi.
-      - `inhere` 固有；生来即存在；本质上即属
+      - `inhere`
+        - 固有；生来即存在；本质上即属
   - 近义词
-    - adv. 内在地；固有地；天性地
-      - `internally`
-      - `intrinsically`
+    - adv.
+      - 内在地；固有地；天性地
+        - `internally`
+        - `intrinsically`

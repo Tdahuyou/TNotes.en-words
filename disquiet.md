@@ -1,32 +1,42 @@
 - disquiet
   - 发音
-    - 英 `/dɪs'kwaɪət/`
-    - 美 `/dɪs'kwaɪət/`
+    - 英
+      - `/dɪs'kwaɪət/`
+    - 美
+      - `/dɪs'kwaɪət/`
   - 词义
-    - v. 不安，忧虑
-    - n. 不安，忧虑
-    - `anxiety or unhappiness about something`
+    - v.
+      - 不安，忧虑
+    - n.
+      - 不安，忧虑
+        - `anxiety or unhappiness about something`
   - 记忆
     - dis(不) + quiet(安静的) → 不安
   - 同根词
     - adj.
-      - `disquieting` 令人不安的；令人忧虑的
+      - `disquieting`
+        - 令人不安的；令人忧虑的
     - adv.
-      - `disquietingly` 令人心烦地
+      - `disquietingly`
+        - 令人心烦地
     - n.
-      - `disquietude` 不安，忧虑，焦虑
+      - `disquietude`
+        - 不安，忧虑，焦虑
     - v.
-      - `disquieting` 使不安；使忧虑（disquiet的ing形式）
+      - `disquieting`
+        - 使不安；使忧虑（disquiet的ing形式）
   - 近义词
-    - vt. 使不安；使担心，使忧虑
-      - `concern`
-      - `discompose`
-    - n. 担心，不安；焦虑，忧虑
-      - `worry`
-      - `anxiety`
-      - `tension`
-      - `fear`
-      - `care`
+    - vt.
+      - 使不安；使担心，使忧虑
+        - `concern`
+        - `discompose`
+    - n.
+      - 担心，不安；焦虑，忧虑
+        - `worry`
+        - `anxiety`
+        - `tension`
+        - `fear`
+        - `care`
   - 例句
     - `The disquiet will boil over in the long run.`
       - 这种不安情绪终有一天会爆发的。

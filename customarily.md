@@ -1,22 +1,30 @@
 - customarily
   - 发音
-    - 英 `/'kʌstəm(ə)rɪlɪ/`
-    - 美 `/'kʌstəmərəli/`
+    - 英
+      - `/'kʌstəm(ə)rɪlɪ/`
+    - 美
+      - `/'kʌstəmərəli/`
   - 词义
-    - adv. 通常,习惯上
+    - adv.
+      - 通常,习惯上
   - 同根词
     - adj.
-      - `custom` 定制的，定做的
-      - `customary` 习惯的；通常的
+      - `custom`
+        - 定制的，定做的
+      - `customary`
+        - 习惯的；通常的
     - n.
-      - `custom` 习惯；风俗；海关
-      - `customary` 习惯法汇编
+      - `custom`
+        - 习惯；风俗；海关
+      - `customary`
+        - 习惯法汇编
   - 近义词
-    - adv. 通常，习惯上
-      - `usually`
-      - `generally`
-      - `mostly`
-      - `traditionally`
+    - adv.
+      - 通常，习惯上
+        - `usually`
+        - `generally`
+        - `mostly`
+        - `traditionally`
   - 例句
     - `This transformation is customarily called the Industrial Revolution.`
       - 习惯上，这种转变被称为“产业革命”。

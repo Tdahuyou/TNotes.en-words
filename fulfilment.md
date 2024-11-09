@@ -1,22 +1,28 @@
 - fulfilment
   - 发音
-    - 英 `/ful'filmənt/`
-    - 美 `/ful'filmənt/`
+    - 英
+      - `/ful'filmənt/`
+    - 美
+      - `/ful'filmənt/`
   - 词义
-    - n. 实现；成就
-    - `when something you wanted happens or is given to you`
+    - n.
+      - 实现；成就
+        - `when something you wanted happens or is given to you`
   - 同根词
     - vt.
-      - `fulfill` 履行；实现；满足；使结束（等于fulfil）
-      - `fulfil` 履行；完成；实践；满足
+      - `fulfill`
+        - 履行；实现；满足；使结束（等于fulfil）
+      - `fulfil`
+        - 履行；完成；实践；满足
   - 近义词
-    - n. 实现；成就
-      - `realization`
-      - `implementation`
-      - `achievement`
-      - `effort`
-      - `completion`
-      - `success`
+    - n.
+      - 实现；成就
+        - `realization`
+        - `implementation`
+        - `achievement`
+        - `effort`
+        - `completion`
+        - `success`
   - 例句
     - `...professional fulfilment.`
       - …职业成就感。

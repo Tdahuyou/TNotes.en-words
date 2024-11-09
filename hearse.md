@@ -1,14 +1,18 @@
 - hearse
   - 发音
-    - 英 `/hɜːs/`
-    - 美 `/hɝs/`
+    - 英
+      - `/hɜːs/`
+    - 美
+      - `/hɝs/`
   - 词义
-    - n. 灵车；棺材
-    - `a large car used to carry a dead body in a coffin at a funeral`
+    - n.
+      - 灵车；棺材
+        - `a large car used to carry a dead body in a coffin at a funeral`
   - 近义词
-    - n. [车辆]灵车；棺材
-      - `catafalque`
-      - `coffin`
+    - n.
+      - [车辆]灵车；棺材
+        - `catafalque`
+        - `coffin`
   - 例句
     - `Father Fauchelevent, we must come to a decision: I must either be caught here, or accept this escape through the hearse.`
       - 割风爷，得拿定主意了：或是在这里等人家来捉，或是接受由灵车带出去的办法。

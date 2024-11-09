@@ -1,9 +1,12 @@
 - graminaceous
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - adj. 草(似),[植]禾本的
+    - adj.
+      - 草(似),[植]禾本的
   - 例句
     - `The application of RFLP Linkage genetic maps in the graminaceous crops; . 3)Following the tracks and appraisal of the chromosome or.`
       - RFLP连锁遗传因在禾本科植物中的应用，（3）跟踪、鉴定染色体或其片段、分析系统发育；

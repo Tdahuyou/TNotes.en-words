@@ -1,25 +1,35 @@
 - domestication
   - 发音
-    - 英 `/dəʊ,mestɪkeɪʃən/`
-    - 美 `/də,mɛstə'keʃən/`
+    - 英
+      - `/dəʊ,mestɪkeɪʃən/`
+    - 美
+      - `/də,mɛstə'keʃən/`
   - 词义
-    - n. 驯养,教化
+    - n.
+      - 驯养,教化
   - 同根词
     - adj.
-      - `domestic` 国内的；家庭的；驯养的；一心只管家务的
-      - `domesticated` 家养的；驯服的；喜欢家庭生活的
+      - `domestic`
+        - 国内的；家庭的；驯养的；一心只管家务的
+      - `domesticated`
+        - 家养的；驯服的；喜欢家庭生活的
     - n.
-      - `domestic` 国货；佣人
+      - `domestic`
+        - 国货；佣人
     - v.
-      - `domesticated` 驯养（domesticate的过去分词）；使习惯于家庭生活
+      - `domesticated`
+        - 驯养（domesticate的过去分词）；使习惯于家庭生活
     - vi.
-      - `domesticate` 驯养；使习惯于或喜爱家务和家庭生活
+      - `domesticate`
+        - 驯养；使习惯于或喜爱家务和家庭生活
     - vt.
-      - `domesticate` 驯养；教化；引进
+      - `domesticate`
+        - 驯养；教化；引进
   - 近义词
-    - n. [生物]驯养；教化
-      - `cultivation`
-      - `enlightenment`
+    - n.
+      - [生物]驯养；教化
+        - `cultivation`
+        - `enlightenment`
   - 例句
     - `They might be the result of human domestication, institutionalization, or public schooling.`
       - 它们可能是人类教化、制度化或公共教育的结果。

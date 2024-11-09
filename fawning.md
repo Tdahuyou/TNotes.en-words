@@ -1,15 +1,20 @@
 - fawning
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - adj. 奉承的
+    - adj.
+      - 奉承的
   - 近义词
-    - adj. 奉承的；摇尾乞怜的
-      - `flattering`
-      - `subservient`
+    - adj.
+      - 奉承的；摇尾乞怜的
+        - `flattering`
+        - `subservient`
   - 短语
-    - `fawn on` v. 奉承；讨好 
+    - `fawn on`
+      - v. 奉承；讨好 
   - 例句
     - `The game is played out in endless fawning speeches, flattering remarks and fake smiles.`
       - 于是 这个游戏中充斥着无穷无尽的恭维式讲话、奉承式言谈和虚伪的笑容。

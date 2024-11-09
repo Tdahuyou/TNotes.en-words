@@ -1,7 +1,9 @@
 - Pompeii
   - 发音
-    - 英 `/pɔm'peii:; -'pei/`
-    - 美 `/pɔm'peii:; -'pei/`
+    - 英
+      - `/pɔm'peii:; -'pei/`
+    - 美
+      - `/pɔm'peii:; -'pei/`
   - 词义
   - 例句
     - `Pompeii was a cultural center and vacation destination for Roman high society until it was destroyed in 79 A.D. by the eruption of Mount Vesuvius.`

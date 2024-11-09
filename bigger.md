@@ -1,13 +1,17 @@
 - bigger
   - 发音
-    - 英 `/bɪgə(r)/`
-    - 美 `/bɪgə(r)/`
+    - 英
+      - `/bɪgə(r)/`
+    - 美
+      - `/bɪgə(r)/`
   - 词义
   - 同根词
     - adj.
-      - `big` 大的；重要的；量大的
+      - `big`
+        - 大的；重要的；量大的
     - adv.
-      - `big` 大量地；顺利；夸大地
+      - `big`
+        - 大量地；顺利；夸大地
   - 例句
     - `That uncertain thing was swelled bigger.`
       - 那个不知叫什么的东西膨胀得更大了。

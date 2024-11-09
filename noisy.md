@@ -1,30 +1,42 @@
 - noisy
   - 发音
-    - 英 `/ˈnɔɪzɪ/`
-    - 美 `/ˈnɔɪzɪ/`
+    - 英
+      - `/ˈnɔɪzɪ/`
+    - 美
+      - `/ˈnɔɪzɪ/`
   - 词义
-    - adj. 吵闹的
-    - `someone or something that is noisy makes a lot of noise`
+    - adj.
+      - 吵闹的
+        - `someone or something that is noisy makes a lot of noise`
   - 同根词
     - adv.
-      - `noisily` 吵闹地，喧闹地
+      - `noisily`
+        - 吵闹地，喧闹地
     - n.
-      - `noise` [环境] 噪音；响声；杂音
-      - `noisemaker` 会高声喧闹的人
-      - `noisiness` 吵闹
+      - `noise`
+        - [环境] 噪音；响声；杂音
+      - `noisemaker`
+        - 会高声喧闹的人
+      - `noisiness`
+        - 吵闹
     - vi.
-      - `noise` 发出声音；大声议论
+      - `noise`
+        - 发出声音；大声议论
     - vt.
-      - `noise` 谣传
+      - `noise`
+        - 谣传
   - 近义词
-    - adj. 嘈杂的；喧闹的；聒噪的
-      - `furious`
-      - `boisterous`
-    - n. 响声；嘈杂声
-      - `klang`
-      - `babelism`
+    - adj.
+      - 嘈杂的；喧闹的；聒噪的
+        - `furious`
+        - `boisterous`
+    - n.
+      - 响声；嘈杂声
+        - `klang`
+        - `babelism`
   - 短语
-    - `noisy channel` 有噪声信道；噪声信道 
+    - `noisy channel`
+      - 有噪声信道；噪声信道 
   - 例句
     - `The kids have been really noisy today.`
       - 孩子们今天实在是吵。

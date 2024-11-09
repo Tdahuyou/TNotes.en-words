@@ -1,19 +1,27 @@
 - sect
   - 发音
-    - 英 `/sekt/`
-    - 美 `/sɛkt/`
+    - 英
+      - `/sekt/`
+    - 美
+      - `/sɛkt/`
   - 词义
-    - n. 宗派,教派
-    - `a group of people with their own particular set of beliefs and practices, especially within or separated from a larger religious group`
+    - n.
+      - 宗派,教派
+        - `a group of people with their own particular set of beliefs and practices, especially within or separated from a larger religious group`
   - 同根词
     - adj.
-      - `sectarian` 宗派的；偏狭的；党派心强的
+      - `sectarian`
+        - 宗派的；偏狭的；党派心强的
     - n.
-      - `sectarian` 属于宗派的人；宗派心强的人；宗派主义者
-      - `sectarianism` 宗派主义；教派意识
-      - `sectary` 宗派成员；非教会派的新教徒
+      - `sectarian`
+        - 属于宗派的人；宗派心强的人；宗派主义者
+      - `sectarianism`
+        - 宗派主义；教派意识
+      - `sectary`
+        - 宗派成员；非教会派的新教徒
   - 短语
-    - `religious sect` 宗教派别 
+    - `religious sect`
+      - 宗教派别 
   - 例句
     - `The sect, which broke from the Church of Jesus Christ of Latter-Day Saints more than a century ago, believes polygamy brings glorification in heaven.`
       - 这个教派，原本是一个多世纪以前从摩门教末世圣徒教会分离出来的，相信一夫多妻制可以升上天堂。

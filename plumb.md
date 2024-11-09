@@ -1,34 +1,48 @@
 - plumb
   - 发音
-    - 英 `/plʌm/`
-    - 美 `/plʌm/`
+    - 英
+      - `/plʌm/`
+    - 美
+      - `/plʌm/`
   - 词义
-    - v. （用铅垂）测量,探测
+    - v.
+      - （用铅垂）测量,探测
   - 同根词
     - adj.
-      - `plumbous` 铅的
+      - `plumbous`
+        - 铅的
     - n.
-      - `plumber` 水管工；堵漏人员
-      - `plumbing` 铅工业；铅管品制造
-      - `plumbery` 铅工业；管工车间
-      - `plumbism` [内科] 铅中毒
+      - `plumber`
+        - 水管工；堵漏人员
+      - `plumbing`
+        - 铅工业；铅管品制造
+      - `plumbery`
+        - 铅工业；管工车间
+      - `plumbism`
+        - [内科] 铅中毒
     - v.
-      - `plumbing` 探究；垂直悬挂；用铅锤测量；灌铅以增重（plumb的现在分词）
+      - `plumbing`
+        - 探究；垂直悬挂；用铅锤测量；灌铅以增重（plumb的现在分词）
   - 近义词
-    - vt. [数]使垂直；探测，探索
-      - `detect`
-      - `explore`
-    - n. [数]垂直；[测]铅锤
-      - `verticalness`
-      - `perpendicularity`
-    - adv. 恰恰，正；[数]垂直地
-      - `precisely`
-      - `due`
-    - adj. [数]垂直的
-      - `vertical`
-      - `perpendicular`
+    - vt.
+      - [数]使垂直；探测，探索
+        - `detect`
+        - `explore`
+    - n.
+      - [数]垂直；[测]铅锤
+        - `verticalness`
+        - `perpendicularity`
+    - adv.
+      - 恰恰，正；[数]垂直地
+        - `precisely`
+        - `due`
+    - adj.
+      - [数]垂直的
+        - `vertical`
+        - `perpendicular`
   - 短语
-    - `plumb line` 铅垂线（等于plumb rule） 
+    - `plumb line`
+      - 铅垂线（等于plumb rule） 
   - 例句
     - `When his wife left him, Matt plumbed the very depths of despair.`
       - 妻子离他而去，马特陷入了绝望的深渊。

@@ -1,27 +1,41 @@
 - nutritionist
   - 发音
-    - 英 `/njʊ'trɪʃ(ə)nɪst/`
-    - 美 `/nu'trɪʃənɪst/`
+    - 英
+      - `/njʊ'trɪʃ(ə)nɪst/`
+    - 美
+      - `/nu'trɪʃənɪst/`
   - 词义
-    - n. 营养学家
-    - `someone who has a special knowledge of nutrition`
+    - n.
+      - 营养学家
+        - `someone who has a special knowledge of nutrition`
   - 同根词
     - adj.
-      - `nutrient` 营养的；滋养的
-      - `nutritious` 有营养的，滋养的
-      - `nutritional` 营养的；滋养的
-      - `nutritive` 有营养的；滋养的；有营养成份的；与营养有关的
+      - `nutrient`
+        - 营养的；滋养的
+      - `nutritious`
+        - 有营养的，滋养的
+      - `nutritional`
+        - 营养的；滋养的
+      - `nutritive`
+        - 有营养的；滋养的；有营养成份的；与营养有关的
     - adv.
-      - `nutritionally` 滋养地
+      - `nutritionally`
+        - 滋养地
     - n.
-      - `nutrient` 营养物；滋养物
-      - `nutrition` 营养，营养学；营养品
-      - `nutriment` 营养物；促进生长的东西
-      - `nutritive` 营养物
-      - `nutritiousness` 有营养成份
+      - `nutrient`
+        - 营养物；滋养物
+      - `nutrition`
+        - 营养，营养学；营养品
+      - `nutriment`
+        - 营养物；促进生长的东西
+      - `nutritive`
+        - 营养物
+      - `nutritiousness`
+        - 有营养成份
   - 近义词
-    - n. 营养学家
-      - `dietitian`
+    - n.
+      - 营养学家
+        - `dietitian`
   - 例句
     - `Nutritionists say only 33 percent of our calorie intake should be from fat.`
       - 营养学家说我们所摄入的卡路里中只应有33%来自脂肪。

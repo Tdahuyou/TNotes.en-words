@@ -1,13 +1,17 @@
 - crayon
   - 发音
-    - 英 `/ˈkreɪən/`
-    - 美 `/kreən/`
+    - 英
+      - `/ˈkreɪən/`
+    - 美
+      - `/kreən/`
   - 词义
-    - n. 蜡笔
-    - `a stick of coloured  wax  or  chalk  that children use to draw pictures`
+    - n.
+      - 蜡笔
+        - `a stick of coloured  wax  or  chalk  that children use to draw pictures`
   - 近义词
-    - n. [轻]蜡笔，有色粉笔
-      - `pastels`
+    - n.
+      - [轻]蜡笔，有色粉笔
+        - `pastels`
   - 例句
     - `He coloured the picture with crayon.`
       - 他用蜡笔给画上色。

@@ -1,26 +1,34 @@
 - asteroid
   - 发音
-    - 英 `/'æstərɔɪd/`
-    - 美 `/'æstərɔɪd/`
+    - 英
+      - `/'æstərɔɪd/`
+    - 美
+      - `/'æstərɔɪd/`
   - 词义
-    - n. 小行星
-    - `one of the many small  planet s  that move around the Sun, especially between Mars and Jupiter`
+    - n.
+      - 小行星
+        - `one of the many small  planet s  that move around the Sun, especially between Mars and Jupiter`
   - 记忆
     - aster(星星) + oid(形状) → 小行星
   - 同根词
     - adj.
-      - `asteroidal` 星状的
+      - `asteroidal`
+        - 星状的
     - n.
-      - `aster` [植] 紫菀属植物；星状体
+      - `aster`
+        - [植] 紫菀属植物；星状体
   - 近义词
-    - n. [天]小行星；[无脊椎]海盘车；小游星
-      - `planetoid`
-      - `sunstar`
-    - adj. 星状的
-      - `stellated`
-      - `astroid`
+    - n.
+      - [天]小行星；[无脊椎]海盘车；小游星
+        - `planetoid`
+        - `sunstar`
+    - adj.
+      - 星状的
+        - `stellated`
+        - `astroid`
   - 短语
-    - `asteroid belt` 小行星带 
+    - `asteroid belt`
+      - 小行星带 
   - 例句
     - `Astronomers have detected an asteroid not far from Earth, moving in the same orbit around the Sun.`
       - 天文学家在距离地球不远处发现一颗与地球绕日轨道相同的小行星。

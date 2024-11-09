@@ -1,18 +1,24 @@
 - bower
   - 发音
-    - 英 `/'baʊə/`
-    - 美 `/'baʊɚ/`
+    - 英
+      - `/'baʊə/`
+    - 美
+      - `/'baʊɚ/`
   - 词义
-    - n. 凉亭
+    - n.
+      - 凉亭
   - 同根词
     - adj.
-      - `bowery` 有亭子的；有树荫的
+      - `bowery`
+        - 有亭子的；有树荫的
     - n.
-      - `bowery` 种植园或农场；酒徒充斥的街区
+      - `bowery`
+        - 种植园或农场；酒徒充斥的街区
   - 近义词
-    - n. 凉亭；树阴处
-      - `kiosk`
-      - `arbour`
+    - n.
+      - 凉亭；树阴处
+        - `kiosk`
+        - `arbour`
   - 例句
     - `Build of your imaginings a bower in the wilderness ere you build a house within the city walls.`
       - 在你们建房于城墙内之前，先用你们的想像在旷野建一所凉亭。

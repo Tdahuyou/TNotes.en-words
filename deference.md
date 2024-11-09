@@ -1,23 +1,31 @@
 - deference
   - 发音
-    - 英 `/'def(ə)r(ə)ns/`
-    - 美 `/'dɛfərəns/`
+    - 英
+      - `/'def(ə)r(ə)ns/`
+    - 美
+      - `/'dɛfərəns/`
   - 词义
-    - n. 顺从,尊重
-    - `polite behaviour that shows that you respect someone and are therefore willing to accept their opinions or judgment`
+    - n.
+      - 顺从,尊重
+        - `polite behaviour that shows that you respect someone and are therefore willing to accept their opinions or judgment`
   - 同根词
     - adj.
-      - `deferential` 恭敬的；惯于顺从的
+      - `deferential`
+        - 恭敬的；惯于顺从的
     - vi.
-      - `defer` 推迟；延期；服从
+      - `defer`
+        - 推迟；延期；服从
     - vt.
-      - `defer` 使推迟；使延期
+      - `defer`
+        - 使推迟；使延期
   - 近义词
-    - n. 顺从
-      - `compliance`
-      - `Friend VS Lover`
+    - n.
+      - 顺从
+        - `compliance`
+        - `Friend VS Lover`
   - 短语
-    - `in deference to` 鉴于；听从 
+    - `in deference to`
+      - 鉴于；听从 
   - 例句
     - `...the older political tradition of deference to great leaders.`
       - …敬重伟大领导人的较老的政治传统。

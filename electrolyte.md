@@ -1,22 +1,31 @@
 - electrolyte
   - 发音
-    - 英 `/i'lektrəuˌlait/`
-    - 美 `/ɪ'lɛktrəlaɪt/`
+    - 英
+      - `/i'lektrəuˌlait/`
+    - 美
+      - `/ɪ'lɛktrəlaɪt/`
   - 词义
-    - n. 电解质
-    - `a liquid that allows electricity to pass through it`
+    - n.
+      - 电解质
+        - `a liquid that allows electricity to pass through it`
   - 同根词
     - adj.
-      - `electrolytic` 电解的；电解质的；由电解产生的
+      - `electrolytic`
+        - 电解的；电解质的；由电解产生的
     - n.
-      - `electrolysis` [化学] 电解，[化学] 电解作用；以电针除痣
+      - `electrolysis`
+        - [化学] 电解，[化学] 电解作用；以电针除痣
   - 近义词
-    - n. [化学]电解液，电解质；电解
-      - `Nafion`
+    - n.
+      - [化学]电解液，电解质；电解
+        - `Nafion`
   - 短语
-    - `supporting electrolyte` 支持电解质 
-    - `battery electrolyte` 蓄电池电解质；电池电解液 
-    - `electrolyte metabolism` 电解质代谢 
+    - `supporting electrolyte`
+      - 支持电解质 
+    - `battery electrolyte`
+      - 蓄电池电解质；电池电解液 
+    - `electrolyte metabolism`
+      - 电解质代谢 
   - 例句
     - `The water saturated with electrolyte.`
       - 水中的电解质饱和了。

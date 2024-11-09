@@ -1,11 +1,15 @@
 - tramontane
   - 发音
-    - 英 `/trə'mɒnteɪn/`
-    - 美 `/'træmənten/`
+    - 英
+      - `/trə'mɒnteɪn/`
+    - 美
+      - `/'træmənten/`
   - 词义
-    - adj. 野蛮的,来自群山彼边的
-    - `being or coming from the far side of the mountains, esp from the other side of the Alps as seen from Italy `
+    - adj.
+      - 野蛮的,来自群山彼边的
+        - `being or coming from the far side of the mountains, esp from the other side of the Alps as seen from Italy `
   - 近义词
-    - adj. 野蛮的；来自群山彼边的
-      - `wild`
-      - `brutal`
+    - adj.
+      - 野蛮的；来自群山彼边的
+        - `wild`
+        - `brutal`

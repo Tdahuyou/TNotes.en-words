@@ -1,22 +1,31 @@
 - lenient
   - 发音
-    - 英 `/'liːnɪənt/`
-    - 美 `/'linɪənt/`
+    - 英
+      - `/'liːnɪənt/`
+    - 美
+      - `/'linɪənt/`
   - 词义
-    - adj. 宽大的；仁慈的
-    - `not strict in the way you punish someone or in the standard you expect`
-    - n. (Lenient)人名；(法)勒尼安
+    - adj.
+      - 宽大的；仁慈的
+        - `not strict in the way you punish someone or in the standard you expect`
+    - n.
+      - (Lenient)人名；(法)勒尼安
   - 同根词
     - adv.
-      - `leniently` 宽大地；温和地
+      - `leniently`
+        - 宽大地；温和地
     - n.
-      - `leniency` 宽大，仁慈；温和
-      - `lenience` 仁慈；宽厚
-      - `lenity` 慈悲；宽大处理；宽大的行为
+      - `leniency`
+        - 宽大，仁慈；温和
+      - `lenience`
+        - 仁慈；宽厚
+      - `lenity`
+        - 慈悲；宽大处理；宽大的行为
   - 近义词
-    - adj. 宽大的；仁慈的
-      - `liberal`
-      - `humane`
+    - adj.
+      - 宽大的；仁慈的
+        - `liberal`
+        - `humane`
   - 例句
     - `the lenient sentences handed down by some judges`
       - 一些法官作出的宽大判决

@@ -1,14 +1,18 @@
 - vibrato
   - 发音
-    - 英 `/vɪ'brɑːtəʊ/`
-    - 美 `/vɪ'brɑto/`
+    - 英
+      - `/vɪ'brɑːtəʊ/`
+    - 美
+      - `/vɪ'brɑto/`
   - 词义
-    - n. 颤音,振动
-    - `a way of singing or playing a musical note so that it goes up and down very slightly in pitch`
+    - n.
+      - 颤音,振动
+        - `a way of singing or playing a musical note so that it goes up and down very slightly in pitch`
   - 近义词
-    - n. （意）颤音；抑扬顿挫
-      - `tremolo`
-      - `roulade`
+    - n.
+      - （意）颤音；抑扬顿挫
+        - `tremolo`
+        - `roulade`
   - 例句
     - `So at first glance, the idea of a seasonal flamenco Christmas performance seems as wobbly as a cantaora's vibrato.`
       - 所以初看上去，弗拉门戈舞作为圣诞季节的表演与女歌星Cantaora 的颤音一样令人心颤而略带伤感。

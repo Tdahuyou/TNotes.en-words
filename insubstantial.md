@@ -1,19 +1,24 @@
 - insubstantial
   - 发音
-    - 英 `/ˌɪnsəb'stænʃl/`
-    - 美 `/,ɪnsəb'stænʃl/`
+    - 英
+      - `/ˌɪnsəb'stænʃl/`
+    - 美
+      - `/,ɪnsəb'stænʃl/`
   - 词义
-    - adj. 无实体的；脆弱的
-    - `not solid, large, strong, or definite`
+    - adj.
+      - 无实体的；脆弱的
+        - `not solid, large, strong, or definite`
   - 记忆
     - in(不) + substantial(实体的； 坚固的) → 无实体的； 脆弱的
   - 同根词
     - n.
-      - `insubstantiality` 虚体
+      - `insubstantiality`
+        - 虚体
   - 近义词
-    - adj. 脆弱的；无实体的；幻想的，非真实的
-      - `tender`
-      - `slight`
+    - adj.
+      - 脆弱的；无实体的；幻想的，非真实的
+        - `tender`
+        - `slight`
   - 例句
     - `The evidence seemed very insubstantial.`
       - 证据看起来很不可靠。

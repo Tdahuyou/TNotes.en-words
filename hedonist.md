@@ -1,20 +1,28 @@
 - hedonist
   - 发音
-    - 英 `/undefined/`
-    - 美 `/'hidənɪst/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/'hidənɪst/`
   - 词义
-    - n. 快乐主义者；享乐主义者
-    - `someone who believes that pleasure is the most important thing in life`
-    - adj. 享乐主义者的
+    - n.
+      - 快乐主义者；享乐主义者
+        - `someone who believes that pleasure is the most important thing in life`
+    - adj.
+      - 享乐主义者的
   - 同根词
     - adj.
-      - `hedonic` 享乐的；快乐的；快乐论的
+      - `hedonic`
+        - 享乐的；快乐的；快乐论的
     - n.
-      - `hedonism` 快乐主义；快乐论
-      - `hedonic` 快乐论
+      - `hedonism`
+        - 快乐主义；快乐论
+      - `hedonic`
+        - 快乐论
   - 近义词
-    - n. 快乐主义者；享乐主义者
-      - `epicure`
+    - n.
+      - 快乐主义者；享乐主义者
+        - `epicure`
   - 例句
     - `That's how the hedonist says we should think about it.`
       - 享乐主义者认为我们该那样思考问题。

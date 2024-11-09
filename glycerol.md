@@ -1,15 +1,20 @@
 - glycerol
   - 发音
-    - 英 `/'glisərɔl/`
-    - 美 `/'glɪsə,rol/`
+    - 英
+      - `/'glisərɔl/`
+    - 美
+      - `/'glɪsə,rol/`
   - 词义
-    - n. 甘油
-    - `a colourless or pale yellow odourless sweet-tasting syrupy liquid; 1,2,3-propanetriol: a by-product of soap manufacture, used as a solvent, antifreeze, plasticizer, and sweetener (E422)`
+    - n.
+      - 甘油
+        - `a colourless or pale yellow odourless sweet-tasting syrupy liquid; 1,2,3-propanetriol: a by-product of soap manufacture, used as a solvent, antifreeze, plasticizer, and sweetener (E422)`
   - 近义词
-    - n. [有化]甘油；丙三醇
-      - `propanetriol`
+    - n.
+      - [有化]甘油；丙三醇
+        - `propanetriol`
   - 短语
-    - `glycerol monostearate` 单硬脂酸甘油酯 
+    - `glycerol monostearate`
+      - 单硬脂酸甘油酯 
   - 例句
     - `A syrupy acid obtained by oxidation of glycerol or glyceraldehyde .`
       - 一种浆状的酸，由甘油和甘油醛氧化后获得。

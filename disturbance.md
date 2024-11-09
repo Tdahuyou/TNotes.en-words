@@ -1,41 +1,60 @@
 - disturbance
   - 发音
-    - 英 `/dɪ'stɜːrbəns/`
-    - 美 `/dɪ'stɝbəns/`
+    - 英
+      - `/dɪ'stɜːrbəns/`
+    - 美
+      - `/dɪ'stɝbəns/`
   - 词义
-    - n. 打扰；骚动；心神不安，烦恼
-    - `a situation in which people behave violently in public`
+    - n.
+      - 打扰；骚动；心神不安，烦恼
+        - `a situation in which people behave violently in public`
   - 记忆
     - dis(分开) + turb(搅动) + ance → 搅开 → 打扰
   - 同根词
     - adj.
-      - `disturbing` 令人不安的；烦扰的
-      - `disturbed` 扰乱的；为心理失常者而设的
+      - `disturbing`
+        - 令人不安的；烦扰的
+      - `disturbed`
+        - 扰乱的；为心理失常者而设的
     - n.
-      - `disturber` 打扰者；干扰发射机
+      - `disturber`
+        - 打扰者；干扰发射机
     - v.
-      - `disturbing` 干扰；打断（disturb的ing形式）
-      - `disturbed` 干扰（disturb的过去分词）
+      - `disturbing`
+        - 干扰；打断（disturb的ing形式）
+      - `disturbed`
+        - 干扰（disturb的过去分词）
     - vi.
-      - `disturb` 打扰；妨碍
+      - `disturb`
+        - 打扰；妨碍
     - vt.
-      - `disturb` 打扰；妨碍；使不安；弄乱；使恼怒
+      - `disturb`
+        - 打扰；妨碍；使不安；弄乱；使恼怒
   - 近义词
-    - n. [通信][电子]干扰；骚乱；忧虑
-      - `interference`
-      - `care`
-      - `obstacle`
-      - `disorder`
-      - `worries`
+    - n.
+      - [通信][电子]干扰；骚乱；忧虑
+        - `interference`
+        - `care`
+        - `obstacle`
+        - `disorder`
+        - `worries`
   - 短语
-    - `external disturbance` 外扰，外部干扰 
-    - `emotional disturbance` 情绪困扰 
-    - `disturbance voltage` 干扰电压 
-    - `metabolic disturbance` [生理]代谢紊乱 
-    - `wave disturbance` n. 波扰动；[气象学]波状扰动 
-    - `disturbance power` 骚扰功率；干扰功率 
-    - `disturbance of consciousness` 意识障碍 
-    - `visual disturbance` 视力障碍；视觉障碍 
+    - `external disturbance`
+      - 外扰，外部干扰 
+    - `emotional disturbance`
+      - 情绪困扰 
+    - `disturbance voltage`
+      - 干扰电压 
+    - `metabolic disturbance`
+      - [生理]代谢紊乱 
+    - `wave disturbance`
+      - n. 波扰动；[气象学]波状扰动 
+    - `disturbance power`
+      - 骚扰功率；干扰功率 
+    - `disturbance of consciousness`
+      - 意识障碍 
+    - `visual disturbance`
+      - 视力障碍；视觉障碍 
   - 例句
     - `There were disturbances in the crowd as fans left the stadium.`
       - 球迷离开体育场时，人群中发生了骚乱。

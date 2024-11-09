@@ -1,13 +1,17 @@
 - moat
   - 发音
-    - 英 `/məʊt/`
-    - 美 `/mot/`
+    - 英
+      - `/məʊt/`
+    - 美
+      - `/mot/`
   - 词义
-    - n. 护城河,城壕
-    - `a deep wide hole, usually filled with water, dug around a castle as a defence`
+    - n.
+      - 护城河,城壕
+        - `a deep wide hole, usually filled with water, dug around a castle as a defence`
   - 近义词
-    - n. [建]护城河；壕沟
-      - `fosse`
+    - n.
+      - [建]护城河；壕沟
+        - `fosse`
   - 例句
     - `Certainly no one in the media would deny the attraction of living behind a deep moat, even if it is filled with sharks.`
       - 当然，在媒体业，没有人会否认围在深深的护城河里面过日子的吸引力，即使那河里满是鲨鱼在游来游去。

@@ -1,19 +1,24 @@
 - mutable
   - 发音
-    - 英 `/'mjuːtəbl/`
-    - 美 `/'mjutəbl/`
+    - 英
+      - `/'mjuːtəbl/`
+    - 美
+      - `/'mjutəbl/`
   - 词义
-    - adj. 可变的；易变的
-    - `able or likely to change`
+    - adj.
+      - 可变的；易变的
+        - `able or likely to change`
   - 同根词
     - n.
-      - `mutability` 易变性；性情不定；突变性
+      - `mutability`
+        - 易变性；性情不定；突变性
   - 近义词
-    - adj. 易变的，不定的；性情不定的
-      - `mobile`
-      - `variable`
-      - `liquid`
-      - `unstable`
+    - adj.
+      - 易变的，不定的；性情不定的
+        - `mobile`
+        - `variable`
+        - `liquid`
+        - `unstable`
   - 例句
     - `Urban lifestyle retreats are in high demand and they are much more than mutable trends.`
       - 城市的生活方式，退有很高的需求，他们更比变动趋势。

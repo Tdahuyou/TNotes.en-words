@@ -1,12 +1,16 @@
 - nonzero
   - 发音
-    - 英 `/nɒn'zɪərəʊ/`
-    - 美 `/nɑn'zɪro/`
+    - 英
+      - `/nɒn'zɪərəʊ/`
+    - 美
+      - `/nɑn'zɪro/`
   - 词义
-    - adj. 非零的
+    - adj.
+      - 非零的
   - 近义词
-    - adj. [数]非零的
-      - `nonvanishing`
+    - adj.
+      - [数]非零的
+        - `nonvanishing`
   - 例句
     - `It does so and prints out the loop count with nonzero value.`
       - 程序按这种方式执行并打印具有非零值循环计数。

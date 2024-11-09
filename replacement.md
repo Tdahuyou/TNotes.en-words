@@ -1,28 +1,41 @@
 - replacement
   - 发音
-    - 英 `/rɪ'pleɪsm(ə)nt/`
-    - 美 `/rɪ'plesmənt/`
+    - 英
+      - `/rɪ'pleɪsm(ə)nt/`
+    - 美
+      - `/rɪ'plesmənt/`
   - 词义
-    - n. 代替，更换
-    - `when you get something that is newer or better than the one you had before`
+    - n.
+      - 代替，更换
+        - `when you get something that is newer or better than the one you had before`
   - 同根词
     - adj.
-      - `replaceable` 可替换的；可置换的；可放在原处的
+      - `replaceable`
+        - 可替换的；可置换的；可放在原处的
     - n.
-      - `replaceability` 可替换性，替代性；置换能力
+      - `replaceability`
+        - 可替换性，替代性；置换能力
     - vt.
-      - `replace` 取代，代替；替换，更换；归还，偿还；把…放回原处
+      - `replace`
+        - 取代，代替；替换，更换；归还，偿还；把…放回原处
   - 近义词
-    - n. 更换；复位；代替者；补充兵员
-      - `restoration`
-      - `substitute`
+    - n.
+      - 更换；复位；代替者；补充兵员
+        - `restoration`
+        - `substitute`
   - 短语
-    - `hormone replacement therapy` n. 激素取代疗法 
-    - `replacement cost` 重置成本 
-    - `replacement ratio` 替代率；补偿比率 
-    - `replacement rate` 更新率；替换率 
-    - `replacement of assets` 资产置换 
-    - `replacement value` 重置价值 
+    - `hormone replacement therapy`
+      - n. 激素取代疗法 
+    - `replacement cost`
+      - 重置成本 
+    - `replacement ratio`
+      - 替代率；补偿比率 
+    - `replacement rate`
+      - 更新率；替换率 
+    - `replacement of assets`
+      - 资产置换 
+    - `replacement value`
+      - 重置价值 
   - 例句
     - `Our old car is badly in need of replacement.`
       - 我们的旧车急需更换。

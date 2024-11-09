@@ -1,39 +1,62 @@
 - definite
   - 发音
-    - 英 `/'defɪnət/`
-    - 美 `/'dɛfɪnət/`
+    - 英
+      - `/'defɪnət/`
+    - 美
+      - `/'dɛfɪnət/`
   - 词义
-    - adj. 清楚的，确切的；肯定的
-    - `clearly known, seen, or stated`
+    - adj.
+      - 清楚的，确切的；肯定的
+        - `clearly known, seen, or stated`
   - 记忆
     - 来自define(v. 下定义； 限定)
   - 同根词
     - adj.
-      - `defined` 有定义的，确定的；清晰的，轮廓分明的
-      - `definitive` 决定性的；最后的；限定的
-      - `defining` 最典型的；起决定性作用的
-      - `definable` 可下定义的；可确定的；可限定的
+      - `defined`
+        - 有定义的，确定的；清晰的，轮廓分明的
+      - `definitive`
+        - 决定性的；最后的；限定的
+      - `defining`
+        - 最典型的；起决定性作用的
+      - `definable`
+        - 可下定义的；可确定的；可限定的
     - adv.
-      - `definitely` 清楚地，当然；明确地，肯定地
+      - `definitely`
+        - 清楚地，当然；明确地，肯定地
     - n.
-      - `definition` 定义；[物] 清晰度；解说
-      - `definitive` 限定词
-      - `definiteness` 确定性，定指；明确；清晰度；梅性
+      - `definition`
+        - 定义；[物] 清晰度；解说
+      - `definitive`
+        - 限定词
+      - `definiteness`
+        - 确定性，定指；明确；清晰度；梅性
     - v.
-      - `defined` 使明确；给...下定义；使...的轮廓分明（define的过去分词）
-      - `defining` 规定（define的ing形式）；给…下定义；表明特征
+      - `defined`
+        - 使明确；给...下定义；使...的轮廓分明（define的过去分词）
+      - `defining`
+        - 规定（define的ing形式）；给…下定义；表明特征
     - vt.
-      - `define` 定义；使明确；规定
+      - `define`
+        - 定义；使明确；规定
   - 短语
-    - `definite integral` 定积分 
-    - `positive definite` [计]正定的 
-    - `definite time` 定时 
-    - `definite value` 定值 
-    - `positive definite matrix` 正定矩阵 
-    - `definite condition` 定解条件 
-    - `definite article` 定冠词the 
-    - `definite form` 定号形式 
-    - `definite quantity` 定量 
+    - `definite integral`
+      - 定积分 
+    - `positive definite`
+      - [计]正定的 
+    - `definite time`
+      - 定时 
+    - `definite value`
+      - 定值 
+    - `positive definite matrix`
+      - 正定矩阵 
+    - `definite condition`
+      - 定解条件 
+    - `definite article`
+      - 定冠词the 
+    - `definite form`
+      - 定号形式 
+    - `definite quantity`
+      - 定量 
   - 例句
     - `It’s impossible for me to give you a definite answer.`
       - 我不可能给你明确的答复。

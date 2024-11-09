@@ -1,34 +1,50 @@
 - formality
   - 发音
-    - 英 `/fɔ'mæləti/`
-    - 美 `/fɔr'mæləti/`
+    - 英
+      - `/fɔ'mæləti/`
+    - 美
+      - `/fɔr'mæləti/`
   - 词义
-    - n. 礼节；拘谨；仪式；正式手续
-    - `something that you must do as a formal or official part of an activity or process`
+    - n.
+      - 礼节；拘谨；仪式；正式手续
+        - `something that you must do as a formal or official part of an activity or process`
   - 同根词
     - adj.
-      - `formal` 正式的；拘谨的；有条理的
-      - `formalized` 形式化的；正式的
+      - `formal`
+        - 正式的；拘谨的；有条理的
+      - `formalized`
+        - 形式化的；正式的
     - adv.
-      - `formally` 正式地；形式上
+      - `formally`
+        - 正式地；形式上
     - n.
-      - `form` 形式，形状；形态，外形；方式；表格
-      - `formal` 正式的社交活动；夜礼服
-      - `formalism` 形式主义；形式体系
-      - `formalization` 形式化；礼仪化
+      - `form`
+        - 形式，形状；形态，外形；方式；表格
+      - `formal`
+        - 正式的社交活动；夜礼服
+      - `formalism`
+        - 形式主义；形式体系
+      - `formalization`
+        - 形式化；礼仪化
     - v.
-      - `formalized` 使正式；使有效（formalize的过去分词）；使定形；拘泥于形式
+      - `formalized`
+        - 使正式；使有效（formalize的过去分词）；使定形；拘泥于形式
     - vi.
-      - `form` 形成，构成；排列
-      - `formalize` 拘泥于形式
+      - `form`
+        - 形成，构成；排列
+      - `formalize`
+        - 拘泥于形式
     - vt.
-      - `form` 构成，组成；排列，组织；产生，塑造
-      - `formalize` 使形式化；使正式；拘泥礼仪
+      - `form`
+        - 构成，组成；排列，组织；产生，塑造
+      - `formalize`
+        - 使形式化；使正式；拘泥礼仪
   - 近义词
-    - n. 礼节；拘谨；仪式；正式手续
-      - `ceremony`
-      - `service`
-      - `etiquette`
+    - n.
+      - 礼节；拘谨；仪式；正式手续
+        - `ceremony`
+        - `service`
+        - `etiquette`
   - 例句
     - `the formalities necessary for a valid marriage`
       - 有效婚姻所需的正式手续

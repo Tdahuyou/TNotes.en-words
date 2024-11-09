@@ -1,38 +1,59 @@
 - humor
   - 发音
-    - 英 `/ˈhjuːmə/`
-    - 美 `/'hjʊmɚ/`
+    - 英
+      - `/ˈhjuːmə/`
+    - 美
+      - `/'hjʊmɚ/`
   - 词义
-    - n. 幽默,诙谐
+    - n.
+      - 幽默,诙谐
   - 同根词
     - adj.
-      - `humorous` 诙谐的，幽默的；滑稽的，可笑的
-      - `humorless` 非常严肃的；缺少幽默感的
-      - `humourless` 缺乏幽默感的；一本正经的
+      - `humorous`
+        - 诙谐的，幽默的；滑稽的，可笑的
+      - `humorless`
+        - 非常严肃的；缺少幽默感的
+      - `humourless`
+        - 缺乏幽默感的；一本正经的
     - adv.
-      - `humorlessly` 缺乏幽默感地；一本正经地
-      - `humorously` 幽默地；滑稽地
+      - `humorlessly`
+        - 缺乏幽默感地；一本正经地
+      - `humorously`
+        - 幽默地；滑稽地
     - n.
-      - `humour` 幽默（等于humor）；诙谐
-      - `humorist` 幽默作家；富于幽默感的人
-      - `humorousness` 幽默；滑稽
-      - `humourist` 幽默家；滑稽者
+      - `humour`
+        - 幽默（等于humor）；诙谐
+      - `humorist`
+        - 幽默作家；富于幽默感的人
+      - `humorousness`
+        - 幽默；滑稽
+      - `humourist`
+        - 幽默家；滑稽者
     - vt.
-      - `humour` 迁就；使满足
+      - `humour`
+        - 迁就；使满足
   - 近义词
-    - n. 幽默，诙谐；心情
-      - `breast`
-      - `drollness`
-    - vt. 迎合，迁就；顺应
-      - `cater for`
-      - `pander to`
+    - n.
+      - 幽默，诙谐；心情
+        - `breast`
+        - `drollness`
+    - vt.
+      - 迎合，迁就；顺应
+        - `cater for`
+        - `pander to`
   - 短语
-    - `sense of humor` 幽默感，幽默 
-    - `good humor` n. 高兴；心情好 
-    - `black humor` 黑色幽默（一种病态或异乎寻常的幽默） 
-    - `aqueous humor` 房水；水状液；眼房水 
-    - `gallows humor` 充满怨恨的幽默；化解严重场面或僵局的幽默（等于gallows humour） 
-    - `ill humor` n. 怒气；不悦 
+    - `sense of humor`
+      - 幽默感，幽默 
+    - `good humor`
+      - n. 高兴；心情好 
+    - `black humor`
+      - 黑色幽默（一种病态或异乎寻常的幽默） 
+    - `aqueous humor`
+      - 房水；水状液；眼房水 
+    - `gallows humor`
+      - 充满怨恨的幽默；化解严重场面或僵局的幽默（等于gallows humour） 
+    - `ill humor`
+      - n. 怒气；不悦 
   - 例句
     - `I like your sense of humor.`
       - 我喜欢你的 幽默感。

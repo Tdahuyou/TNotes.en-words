@@ -1,20 +1,27 @@
 - pessimist
   - 发音
-    - 英 `/'pesimist/`
-    - 美 `/'pɛsɪmɪst/`
+    - 英
+      - `/'pesimist/`
+    - 美
+      - `/'pɛsɪmɪst/`
   - 词义
-    - n. 悲观主义者
-    - `someone who always expects that bad things will happen`
+    - n.
+      - 悲观主义者
+        - `someone who always expects that bad things will happen`
   - 同根词
     - adj.
-      - `pessimistic` 悲观的，厌世的；悲观主义的
+      - `pessimistic`
+        - 悲观的，厌世的；悲观主义的
     - adv.
-      - `pessimistically` 悲观地
+      - `pessimistically`
+        - 悲观地
     - n.
-      - `pessimism` 悲观，悲观情绪；厌世主义
+      - `pessimism`
+        - 悲观，悲观情绪；厌世主义
   - 近义词
-    - n. 悲观主义者
-      - `Jer.`
+    - n.
+      - 悲观主义者
+        - `Jer.`
   - 例句
     - `Don’t be such a pessimist!`
       - 别这么悲观！

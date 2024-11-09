@@ -1,18 +1,24 @@
 - dike
   - 发音
-    - 英 `/daɪk/`
-    - 美 `/daɪk/`
+    - 英
+      - `/daɪk/`
+    - 美
+      - `/daɪk/`
   - 词义
-    - n. 堤防
-    - `A dike is a thick wall that is built to stop water flooding onto very low-lying land from a river or from the ocean`
-    - v. 筑堤提防
+    - n.
+      - 堤防
+        - `A dike is a thick wall that is built to stop water flooding onto very low-lying land from a river or from the ocean`
+    - v.
+      - 筑堤提防
   - 近义词
-    - n. 堤防，堤坝；障碍物；（英）壕沟
-      - `barrier`
-      - `block`
-      - `bottleneck`
+    - n.
+      - 堤防，堤坝；障碍物；（英）壕沟
+        - `barrier`
+        - `block`
+        - `bottleneck`
   - 短语
-    - `spur dike` 丁坝；排水坝；挑水坝 
+    - `spur dike`
+      - 丁坝；排水坝；挑水坝 
   - 例句
     - `When the river dike is completed, the crops will be safe against floods.`
       - 修好河堤， 庄稼就不怕淹了。

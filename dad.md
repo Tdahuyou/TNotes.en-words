@@ -1,20 +1,25 @@
 - dad
   - 发音
-    - 英 `/dæd/`
-    - 美 `/dæd/`
+    - 英
+      - `/dæd/`
+    - 美
+      - `/dæd/`
   - 词义
-    - n. 爸爸
-    - `father`
+    - n.
+      - 爸爸
+        - `father`
   - 同根词
     - n.
-      - `daddy` 爸爸
-  - 近义词
-    - n. 爸爸；爹爹
-      - `father`
       - `daddy`
-      - `da`
-      - `pa`
-      - `papa`
+        - 爸爸
+  - 近义词
+    - n.
+      - 爸爸；爹爹
+        - `father`
+        - `daddy`
+        - `da`
+        - `pa`
+        - `papa`
   - 例句
     - `She lives with her mom and dad.`
       - 她和爸爸妈妈一起住。

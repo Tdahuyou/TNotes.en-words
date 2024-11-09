@@ -1,16 +1,23 @@
 - trumpeter
   - 发音
-    - 英 `/'trʌmpɪtə/`
-    - 美 `/'trʌmpɪtɚ/`
+    - 英
+      - `/'trʌmpɪtə/`
+    - 美
+      - `/'trʌmpɪtɚ/`
   - 词义
-    - n. 喇叭手,号兵
-    - `A trumpeter is someone who plays a trumpet`
+    - n.
+      - 喇叭手,号兵
+        - `A trumpeter is someone who plays a trumpet`
   - 同根词
     - n.
-      - `trumpet` 喇叭；喇叭声
+      - `trumpet`
+        - 喇叭；喇叭声
     - vi.
-      - `trumpet` 吹喇叭；发出喇叭般的声音
+      - `trumpet`
+        - 吹喇叭；发出喇叭般的声音
     - vt.
-      - `trumpet` 吹喇叭；吹嘘
+      - `trumpet`
+        - 吹喇叭；吹嘘
   - 短语
-    - `trumpeter swan` [鸟]喇叭天鹅 
+    - `trumpeter swan`
+      - [鸟]喇叭天鹅 

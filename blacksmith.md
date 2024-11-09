@@ -1,14 +1,18 @@
 - blacksmith
   - 发音
-    - 英 `/'blæksmɪθ/`
-    - 美 `/'blæksmɪθ/`
+    - 英
+      - `/'blæksmɪθ/`
+    - 美
+      - `/'blæksmɪθ/`
   - 词义
-    - n. 锻工,铁匠
-    - `someone who makes and repairs things made of iron, especially  horseshoe s `
+    - n.
+      - 锻工,铁匠
+        - `someone who makes and repairs things made of iron, especially  horseshoe s `
   - 近义词
-    - n. 铁匠；[机]锻工
-      - `smith`
-      - `ironsmith`
+    - n.
+      - 铁匠；[机]锻工
+        - `smith`
+        - `ironsmith`
   - 例句
     - `In my youth my father bound me to a blacksmith.`
       - 在我年轻时我父亲立契让我给一名铁匠当学徒。

@@ -1,18 +1,24 @@
 - extermination
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 消灭,根绝
+    - n.
+      - 消灭,根绝
   - 同根词
     - n.
-      - `exterminator` 根除者；（美）灭鼠药；（美）职业的消灭害虫者
+      - `exterminator`
+        - 根除者；（美）灭鼠药；（美）职业的消灭害虫者
     - vt.
-      - `exterminate` 消灭；根除
+      - `exterminate`
+        - 消灭；根除
   - 近义词
-    - n. 消灭；根绝
-      - `extinction`
-      - `eradication`
+    - n.
+      - 消灭；根绝
+        - `extinction`
+        - `eradication`
   - 例句
     - `The following is a list of roach extermination techniques using simple tools.`
       - 下面列出了一系列使用简单工具的小强消灭术。

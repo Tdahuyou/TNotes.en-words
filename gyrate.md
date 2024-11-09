@@ -1,26 +1,34 @@
 - gyrate
   - 发音
-    - 英 `/ˌdʒaiə'reit/`
-    - 美 `/'dʒaɪret/`
+    - 英
+      - `/ˌdʒaiə'reit/`
+    - 美
+      - `/'dʒaɪret/`
   - 词义
-    - v. 回旋
-    - `to turn around fast in circles`
+    - v.
+      - 回旋
+        - `to turn around fast in circles`
   - 记忆
     - gyr (转) + ate (使) → 使转动 → 回旋
   - 同根词
     - adj.
-      - `gyral` 旋转的
+      - `gyral`
+        - 旋转的
     - n.
-      - `gyration` 旋转，[力] 回转；螺层
-      - `gyre` 回转；旋回；旋转
+      - `gyration`
+        - 旋转，[力] 回转；螺层
+      - `gyre`
+        - 回转；旋回；旋转
     - vi.
-      - `gyre` 旋回
+      - `gyre`
+        - 旋回
   - 近义词
-    - vi. [机]旋转
-      - `wheel`
-      - `circle`
-      - `spin`
-      - `go round and round`
+    - vi.
+      - [机]旋转
+        - `wheel`
+        - `circle`
+        - `spin`
+        - `go round and round`
   - 例句
     - `The dancers gyrated wildly to the beat of the music.`
       - 舞蹈员随着音乐的节奏疯狂地旋转起舞。

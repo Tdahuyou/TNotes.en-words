@@ -1,21 +1,28 @@
 - inhumane
   - 发音
-    - 英 `/ɪnhjʊ'meɪn/`
-    - 美 `/'ɪnhjʊ'men/`
+    - 英
+      - `/ɪnhjʊ'meɪn/`
+    - 美
+      - `/'ɪnhjʊ'men/`
   - 词义
-    - adj. 残忍的；无人情味的
-    - `extremely cruel and causing unacceptable suffering`
+    - adj.
+      - 残忍的；无人情味的
+        - `extremely cruel and causing unacceptable suffering`
   - 同根词
     - adj.
-      - `inhuman` 残忍的；野蛮的；无人性的
+      - `inhuman`
+        - 残忍的；野蛮的；无人性的
     - adv.
-      - `inhumanely` 没人性地；残忍地
+      - `inhumanely`
+        - 没人性地；残忍地
     - n.
-      - `inhumanity` 不人道，无人性；残暴
+      - `inhumanity`
+        - 不人道，无人性；残暴
   - 近义词
-    - adj. 残忍的；无人情味的
-      - `cruel`
-      - `brutal`
+    - adj.
+      - 残忍的；无人情味的
+        - `cruel`
+        - `brutal`
   - 例句
     - `the inhumane treatment of political prisoners`
       - 对政治犯的虐待

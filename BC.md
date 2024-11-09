@@ -1,9 +1,11 @@
 - BC
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - `(before Christ) used after a date to show that it was before the birth of Christ`
+        - `(before Christ) used after a date to show that it was before the birth of Christ`
   - 例句
     - `The first significant civilizations of Europe formed in the second millennium BC.`
       - 欧洲第一个重要的文明出现在公元前第二世纪。

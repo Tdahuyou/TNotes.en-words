@@ -1,19 +1,25 @@
 - amatory
   - 发音
-    - 英 `/'æmətəri/`
-    - 美 `/'æmətəri, ,æmə'tɔ:riəl, ,æmə'tɔ:riəs/`
+    - 英
+      - `/'æmətəri/`
+    - 美
+      - `/'æmətəri, ,æmə'tɔ:riəl, ,æmə'tɔ:riəs/`
   - 词义
-    - adj. 恋爱的；情人的
-    - `expressing sexual or romantic love`
+    - adj.
+      - 恋爱的；情人的
+        - `expressing sexual or romantic love`
   - 同根词
     - adj.
-      - `amative` 恋爱的；好色的，色情的
+      - `amative`
+        - 恋爱的；好色的，色情的
     - n.
-      - `amativeness` 恋爱；色情
+      - `amativeness`
+        - 恋爱；色情
   - 近义词
-    - adj. 恋爱的，情人的
-      - `loved`
-      - `amorous`
+    - adj.
+      - 恋爱的，情人的
+        - `loved`
+        - `amorous`
   - 例句
     - `Her amatory affairs ; a romantic adventure .`
       - 她的恋爱故事：浪漫的冒险。

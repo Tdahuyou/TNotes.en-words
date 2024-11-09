@@ -1,28 +1,38 @@
 - impending
   - 发音
-    - 英 `/ɪm'pendɪŋ/`
-    - 美 `/ɪm'pɛndɪŋ/`
+    - 英
+      - `/ɪm'pendɪŋ/`
+    - 美
+      - `/ɪm'pɛndɪŋ/`
   - 词义
-    - adj. 即将发生的，迫近的
-    - `an impending event or situation, especially an unpleasant one, is going to happen very soon`
+    - adj.
+      - 即将发生的，迫近的
+        - `an impending event or situation, especially an unpleasant one, is going to happen very soon`
   - 记忆
     - 来自impend(vi. 即将发生)
   - 同根词
     - adj.
-      - `impendent` 即将发生的；迫近的
+      - `impendent`
+        - 即将发生的；迫近的
     - n.
-      - `impendence` 迫切；危急
-      - `impendency` 迫切；危急
+      - `impendence`
+        - 迫切；危急
+      - `impendency`
+        - 迫切；危急
     - vi.
-      - `impend` 迫近；即将发生
+      - `impend`
+        - 迫近；即将发生
   - 近义词
-    - adj. 即将发生的；迫切的；悬挂的
-      - `pressing`
-      - `stringent`
-    - v. 迫近；悬空（impend的现在分词）
-      - `threatening`
+    - adj.
+      - 即将发生的；迫切的；悬挂的
+        - `pressing`
+        - `stringent`
+    - v.
+      - 迫近；悬空（impend的现在分词）
+        - `threatening`
   - 短语
-    - `impending death` 濒死；垂死 
+    - `impending death`
+      - 濒死；垂死 
   - 例句
     - `On the morning of the expedition, I awoke with a feeling of impending disaster.`
       - 远征出发的那天早上，我醒来就有一种大难临头的感觉。

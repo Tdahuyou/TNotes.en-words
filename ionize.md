@@ -1,23 +1,34 @@
 - ionize
   - 发音
-    - 英 `/'aɪənaɪz/`
-    - 美 `/'aɪənaɪz/`
+    - 英
+      - `/'aɪənaɪz/`
+    - 美
+      - `/'aɪənaɪz/`
   - 词义
-    - v. 使离子化,电离
-    - `to form ions or make them form`
+    - v.
+      - 使离子化,电离
+        - `to form ions or make them form`
   - 同根词
     - adj.
-      - `ionizing` [化学][物] 电离的；离子化的
-      - `ionized` [化学][物] 电离的；已电离的
+      - `ionizing`
+        - [化学][物] 电离的；离子化的
+      - `ionized`
+        - [化学][物] 电离的；已电离的
     - n.
-      - `ion` [化学] 离子
-      - `ionization` [化学] 离子化
-      - `ionisation` 电离作用（等于ionization）
+      - `ion`
+        - [化学] 离子
+      - `ionization`
+        - [化学] 离子化
+      - `ionisation`
+        - 电离作用（等于ionization）
     - v.
-      - `ionizing` 电离；使离子化（ionize的现在分词）
-      - `ionized` 使电离，电离（ionize的过去式）
+      - `ionizing`
+        - 电离；使离子化（ionize的现在分词）
+      - `ionized`
+        - 使电离，电离（ionize的过去式）
     - vt.
-      - `ionise` 电离（等于ionize）
+      - `ionise`
+        - 电离（等于ionize）
   - 例句
     - `So if we can figure out the binding energy, we can also figure out how much energy we have to put into our atom in order to a eject or ionize an electron.`
       - 所以如果我们可以计算出结合能，我们也可以计算出,我们需要注入多少能量到原子中,去逐出或电离一个电子。

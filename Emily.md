@@ -1,10 +1,13 @@
 - Emily
   - 发音
-    - 英 `/'eməlɪ/`
-    - 美 `/'emili/`
+    - 英
+      - `/'eməlɪ/`
+    - 美
+      - `/'emili/`
   - 词义
   - 短语
-    - `emily dickinson` n. 艾米莉·迪金森（美国十九世纪著名女诗人） 
+    - `emily dickinson`
+      - n. 艾米莉·迪金森（美国十九世纪著名女诗人） 
   - 例句
     - `At times, Henrietta would tell me she felt slightly guilty that Emily enjoyed staying with her so much.`
       - 有时，亨利埃塔会对我说，埃米莉如此喜欢和她待在一起，让她感到有些内疚。

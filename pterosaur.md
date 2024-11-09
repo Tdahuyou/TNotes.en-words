@@ -1,10 +1,13 @@
 - pterosaur
   - 发音
-    - 英 `/'terəsɔː/`
-    - 美 `/'tɛrə,sɔr/`
+    - 英
+      - `/'terəsɔː/`
+    - 美
+      - `/'tɛrə,sɔr/`
   - 词义
-    - n. 翼龙
-    - `any extinct flying reptile of the order Pterosauria, of Jurassic and Cretaceous times: included the pterodactyls `
+    - n.
+      - 翼龙
+        - `any extinct flying reptile of the order Pterosauria, of Jurassic and Cretaceous times: included the pterodactyls `
   - 例句
     - `This is huge for a pterosaur.`
       - 这对翼龙来说非常巨大。

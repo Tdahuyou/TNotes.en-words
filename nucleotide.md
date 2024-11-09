@@ -1,12 +1,16 @@
 - nucleotide
   - 发音
-    - 英 `/'njuːklɪətaɪd/`
-    - 美 `/'njʊklɪətɪd/`
+    - 英
+      - `/'njuːklɪətaɪd/`
+    - 美
+      - `/'njʊklɪətɪd/`
   - 词义
-    - n. 核苷；核甘酸
-    - `a compound consisting of a nucleoside linked to phosphoric acid`
+    - n.
+      - 核苷；核甘酸
+        - `a compound consisting of a nucleoside linked to phosphoric acid`
   - 短语
-    - `nucleotide sequence` 核苷酸序列；核酸序列；核苷酸顺序 
+    - `nucleotide sequence`
+      - 核苷酸序列；核酸序列；核苷酸顺序 
   - 例句
     - `The breakthrough permits direct detection of each nucleotide, allowing an entire gene to be sequenced in about an hour.`
       - 这个重大的突破允许直接检测每个核苷酸，可以在大约一小时之内测序整个基因。

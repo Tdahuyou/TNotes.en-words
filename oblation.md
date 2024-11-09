@@ -1,19 +1,25 @@
 - oblation
   - 发音
-    - 英 `/ə'bleɪʃ(ə)n/`
-    - 美 `/ob'leʃən/`
+    - 英
+      - `/ə'bleɪʃ(ə)n/`
+    - 美
+      - `/ob'leʃən/`
   - 词义
-    - n. 祭品
-    - `a gift that is offered to God or a god, or the act of offering the gift`
+    - n.
+      - 祭品
+        - `a gift that is offered to God or a god, or the act of offering the gift`
   - 同根词
     - adj.
-      - `oblate` 扁圆的；扁平的；奉为神圣的
+      - `oblate`
+        - 扁圆的；扁平的；奉为神圣的
     - n.
-      - `oblate` 献身于修道院生活的人
+      - `oblate`
+        - 献身于修道院生活的人
   - 近义词
-    - n. 祭品，奉献物
-      - `offering`
-      - `sacrifice`
+    - n.
+      - 祭品，奉献物
+        - `offering`
+        - `sacrifice`
   - 例句
     - `Then the king Nebuchadnezzar fell upon his face, and worshipped Daniel, and commanded that they should offer an oblation and sweet odours unto him.`
       - 当时，尼布甲尼撒王俯伏在地，向但以理下拜，并且吩咐人给他奉上供物和香品。

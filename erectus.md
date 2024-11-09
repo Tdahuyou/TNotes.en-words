@@ -1,9 +1,12 @@
 - erectus
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - adj. [拉丁语]直立的
+    - adj.
+      - [拉丁语]直立的
   - 例句
     - `Her team is also interested in asking similar questions about human ancestors from East Africa, as well as later species of hominin, such as Homo erectus.`
       - 她的团队对于回答有关人类祖先来自东非的类似问题也有兴趣，以及原始人类的人种问题，比如原始人类的直立行走。

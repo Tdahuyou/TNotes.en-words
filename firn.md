@@ -1,13 +1,17 @@
 - firn
   - 发音
-    - 英 `/'fɪən/`
-    - 美 `/fɪrn/`
+    - 英
+      - `/'fɪən/`
+    - 美
+      - `/fɪrn/`
   - 词义
-    - n. 粒雪,积雪
+    - n.
+      - 粒雪,积雪
   - 近义词
-    - n. 积雪；[水文]粒雪
-      - `neve`
-      - `granular snow`
+    - n.
+      - 积雪；[水文]粒雪
+        - `neve`
+        - `granular snow`
   - 例句
     - `Snowslide, The Flow of snow in wind, firn, it is snow Disaster in alp.`
       - 雪崩、风吹雪及厚层积雪，是高山和严寒地区特有的一种自然灾害。

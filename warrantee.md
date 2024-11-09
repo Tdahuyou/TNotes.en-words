@@ -1,23 +1,34 @@
 - warrantee
   - 发音
-    - 英 `/ˌwɔrən'tiː/`
-    - 美 `/,wɔrən'ti/`
+    - 英
+      - `/ˌwɔrən'tiː/`
+    - 美
+      - `/,wɔrən'ti/`
   - 词义
-    - n. 被保证人
-    - `a person to whom a warranty is given `
+    - n.
+      - 被保证人
+        - `a person to whom a warranty is given `
   - 同根词
     - adj.
-      - `warranted` 保证的；担保的
+      - `warranted`
+        - 保证的；担保的
     - n.
-      - `warranty` 保证；担保；授权；（正当）理由
-      - `warrant` 根据；证明；正当理由；委任状
-      - `warranter` 担保人
-      - `warrantor` 保证人；担保人
+      - `warranty`
+        - 保证；担保；授权；（正当）理由
+      - `warrant`
+        - 根据；证明；正当理由；委任状
+      - `warranter`
+        - 担保人
+      - `warrantor`
+        - 保证人；担保人
     - v.
-      - `warranted` 批准（warrant的过去分词）；授权
+      - `warranted`
+        - 批准（warrant的过去分词）；授权
     - vt.
-      - `warrant` 保证；担保；批准；辩解
+      - `warrant`
+        - 保证；担保；批准；辩解
   - 近义词
-    - n. 被保证人；被担保人
-      - `warantee`
-      - `vouchee`
+    - n.
+      - 被保证人；被担保人
+        - `warantee`
+        - `vouchee`

@@ -1,13 +1,17 @@
 - baleen
   - 发音
-    - 英 `/bə'liːn/`
-    - 美 `/bə'li:n/`
+    - 英
+      - `/bə'liːn/`
+    - 美
+      - `/bə'li:n/`
   - 词义
-    - n. 鲸须
-    - `whalebone`
+    - n.
+      - 鲸须
+        - `whalebone`
   - 近义词
-    - n. [脊椎]鲸须
-      - `whalebone`
+    - n.
+      - [脊椎]鲸须
+        - `whalebone`
   - 例句
     - `Large baleen whales are of special concern.`
       - 大型鲸须鲸是最受关注的物种。

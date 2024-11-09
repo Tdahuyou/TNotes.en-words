@@ -1,19 +1,24 @@
 - divest
   - 发音
-    - 英 `/dai'vest/`
-    - 美 `/daɪ'vɛst/`
+    - 英
+      - `/dai'vest/`
+    - 美
+      - `/daɪ'vɛst/`
   - 词义
-    - v. 剥夺，脱去
-    - `If something or someone is divested of a particular quality, they lose that quality or it is taken away from them`
+    - v.
+      - 剥夺，脱去
+        - `If something or someone is divested of a particular quality, they lose that quality or it is taken away from them`
   - 记忆
     - 大公司的投资 (invest) 剥夺 (divest) 了小公司的自主权
   - 同根词
     - n.
-      - `divestiture` 脱衣；剥夺
+      - `divestiture`
+        - 脱衣；剥夺
   - 近义词
-    - vt. 剥夺；使脱去，迫使放弃
-      - `shear`
-      - `strip of`
+    - vt.
+      - 剥夺；使脱去，迫使放弃
+        - `shear`
+        - `strip of`
   - 例句
     - `...in the 1960s, when sexual love had been divested of sin.`
       - ...在二十世纪60年代，性爱不再被当做犯罪的年代。

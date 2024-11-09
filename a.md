@@ -1,10 +1,13 @@
 - a
   - 发音
-    - 英 `/ə; eɪ/`
-    - 美 `/ə; e/`
+    - 英
+      - `/ə; eɪ/`
+    - 美
+      - `/ə; e/`
   - 词义
-    - art. 一（个，件⋯⋯）
-    - `used to show that you are talking about someone or something that has not been mentioned before, or that your listener does not know about`
+    - art.
+      - 一（个，件⋯⋯）
+        - `used to show that you are talking about someone or something that has not been mentioned before, or that your listener does not know about`
   - 例句
     - `We have a problem.`
       - 我们遇到了一个麻烦。

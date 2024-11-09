@@ -1,23 +1,33 @@
 - expendable
   - 发音
-    - 英 `/ɪk'spendəb(ə)l; ek-/`
-    - 美 `/ɪk'spɛndəbl/`
+    - 英
+      - `/ɪk'spendəb(ə)l; ek-/`
+    - 美
+      - `/ɪk'spɛndəbl/`
   - 词义
-    - n. 消耗品,可牺牲的
+    - n.
+      - 消耗品,可牺牲的
   - 同根词
     - n.
-      - `expense` 损失，代价；消费；开支
-      - `expenditure` 支出，花费；经费，消费额
+      - `expense`
+        - 损失，代价；消费；开支
+      - `expenditure`
+        - 支出，花费；经费，消费额
     - vi.
-      - `expense` 被花掉
+      - `expense`
+        - 被花掉
     - vt.
-      - `expense` 向…收取费用
-      - `expend` 花费；消耗；用光；耗尽
+      - `expense`
+        - 向…收取费用
+      - `expend`
+        - 花费；消耗；用光；耗尽
   - 近义词
-    - adj. 可消费的；排出的；不重复使用的；可牺牲的
-      - `consumable`
-    - n. 消耗品
-      - `consumable supplies`
+    - adj.
+      - 可消费的；排出的；不重复使用的；可牺牲的
+        - `consumable`
+    - n.
+      - 消耗品
+        - `consumable supplies`
   - 例句
     - `You may be doing what could just as easily be done by someone else, which means you’re highly expendable. You may be playing follow the follower.`
       - 你可能在做一些其他也能轻易完成的事，那可能意味着你是完全可牺牲的，你可能是追随追随者的人。

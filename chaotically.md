@@ -1,12 +1,17 @@
 - chaotically
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - adv. 浑沌地
+    - adv.
+      - 浑沌地
   - 同根词
     - adj.
-      - `chaotic` 混沌的；混乱的，无秩序的
+      - `chaotic`
+        - 混沌的；混乱的，无秩序的
   - 近义词
-    - adv. 混乱地
-      - `confusedly`
+    - adv.
+      - 混乱地
+        - `confusedly`

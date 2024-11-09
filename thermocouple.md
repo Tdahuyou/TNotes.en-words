@@ -1,21 +1,29 @@
 - thermocouple
   - 发音
-    - 英 `/'θɜːməʊkʌp(ə)l/`
-    - 美 `/'θɝmə,kʌpl/`
+    - 英
+      - `/'θɜːməʊkʌp(ə)l/`
+    - 美
+      - `/'θɝmə,kʌpl/`
   - 词义
-    - n. [电]热电偶
-    - `a device for measuring temperature consisting of a pair of wires of different metals or semiconductors joined at both ends. One junction is at the temperature to be measured, the second at a fixed temperature. The electromotive force generated depends upon the temperature difference `
+    - n.
+      - [电]热电偶
+        - `a device for measuring temperature consisting of a pair of wires of different metals or semiconductors joined at both ends. One junction is at the temperature to be measured, the second at a fixed temperature. The electromotive force generated depends upon the temperature difference `
   - 同根词
     - adj.
-      - `thermoelectric` [电] 热电的（等于thermoelectrical）
-      - `thermionic` 热电子的，[物] 热离子的
+      - `thermoelectric`
+        - [电] 热电的（等于thermoelectrical）
+      - `thermionic`
+        - 热电子的，[物] 热离子的
     - n.
-      - `thermion` [物] 热离子；热电子
-      - `thermoelectricity` [电] 温差电学，[物] 热电学
+      - `thermion`
+        - [物] 热离子；热电子
+      - `thermoelectricity`
+        - [电] 温差电学，[物] 热电学
   - 近义词
-    - n. [电]热电偶
-      - `thermal couple`
-      - `thermoelectric pair`
+    - n.
+      - [电]热电偶
+        - `thermal couple`
+        - `thermoelectric pair`
   - 例句
     - `It could be resistivity, if you have a thermocouple.`
       - 如果你有个热电偶，它也可以是电阻率。

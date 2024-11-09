@@ -1,21 +1,29 @@
 - harp
   - 发音
-    - 英 `/hɑːp/`
-    - 美 `/hɑrp/`
+    - 英
+      - `/hɑːp/`
+    - 美
+      - `/hɑrp/`
   - 词义
-    - v. 弹奏竖琴；喋喋不休；不停地说
-    - n. 竖琴
-    - `a large musical instrument with strings that are stretched across a vertical frame with three corners, and that you play with your fingers`
+    - v.
+      - 弹奏竖琴；喋喋不休；不停地说
+    - n.
+      - 竖琴
+        - `a large musical instrument with strings that are stretched across a vertical frame with three corners, and that you play with your fingers`
   - 同根词
     - n.
-      - `harper` 竖琴演奏人
-      - `harpist` 竖琴师；弹竖琴者
+      - `harper`
+        - 竖琴演奏人
+      - `harpist`
+        - 竖琴师；弹竖琴者
   - 近义词
-    - vi. 弹奏竖琴；喋喋不休；不停地说
-      - `go on about sth`
-      - `witter`
+    - vi.
+      - 弹奏竖琴；喋喋不休；不停地说
+        - `go on about sth`
+        - `witter`
   - 短语
-    - `harp on` 喋喋不休 
+    - `harp on`
+      - 喋喋不休 
   - 例句
     - `She began to harp us to drink after dinner.`
       - 用餐后，她开始弹奏起竖琴让我们饮酒消食。

@@ -1,10 +1,13 @@
 - gorilla
   - 发音
-    - 英 `/gə'rɪlə/`
-    - 美 `/ɡə'rɪlə/`
+    - 英
+      - `/gə'rɪlə/`
+    - 美
+      - `/ɡə'rɪlə/`
   - 词义
-    - n. 大猩猩
-    - `a very large African monkey that is the largest of the  apes `
+    - n.
+      - 大猩猩
+        - `a very large African monkey that is the largest of the  apes `
   - 记忆
     - go(去) + rill(小河) + a → 到小河边去看大猩猩 → 大猩猩
   - 例句

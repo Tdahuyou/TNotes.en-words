@@ -1,15 +1,19 @@
 - aperiodic
   - 发音
-    - 英 `/,eɪpɪərɪ'ɒdɪk/`
-    - 美 `/,epɪrɪ'ɑdɪk/`
+    - 英
+      - `/,eɪpɪərɪ'ɒdɪk/`
+    - 美
+      - `/,epɪrɪ'ɑdɪk/`
   - 词义
-    - adj. 不定期的；非周期性的
-    - `not periodic; not occurring at regular intervals `
+    - adj.
+      - 不定期的；非周期性的
+        - `not periodic; not occurring at regular intervals `
   - 记忆
     - a(不) + period(周期) + ic → 不定期的， 非周期性的
   - 近义词
-    - adj. 不定期的；[数]非周期性的
-      - `nonscheduled`
+    - adj.
+      - 不定期的；[数]非周期性的
+        - `nonscheduled`
   - 例句
     - `Most of the sequences are aperiodic with recurrence intervals varying from a few minutes to hundreds of days.`
       - 大部分相似地震的活动表现为非周期性，重复间隔从数分钟到数百天不等。

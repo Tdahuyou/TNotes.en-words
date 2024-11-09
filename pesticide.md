@@ -1,23 +1,30 @@
 - pesticide
   - 发音
-    - 英 `/'pestɪsaɪd/`
-    - 美 `/'pɛstɪsaɪd/`
+    - 英
+      - `/'pestɪsaɪd/`
+    - 美
+      - `/'pɛstɪsaɪd/`
   - 词义
-    - n. 杀虫剂，农药
-    - `a chemical substance used to kill insects and small animals that destroy crops`
+    - n.
+      - 杀虫剂，农药
+        - `a chemical substance used to kill insects and small animals that destroy crops`
   - 记忆
     - pest(瘟疫) + i + cide(杀) → 杀虫剂
   - 近义词
-    - n. [农药]杀虫剂
-      - `insecticide`
-      - `insect repellent`
-      - `insect killer`
-      - `insect spray`
-      - `anabasin`
+    - n.
+      - [农药]杀虫剂
+        - `insecticide`
+        - `insect repellent`
+        - `insect killer`
+        - `insect spray`
+        - `anabasin`
   - 短语
-    - `pesticide residue` [药]农药残留（量） 
-    - `organophosphorus pesticide` 有机磷农药 
-    - `chemical pesticide` 化学农药 
+    - `pesticide residue`
+      - [药]农药残留（量） 
+    - `organophosphorus pesticide`
+      - 有机磷农药 
+    - `chemical pesticide`
+      - 化学农药 
   - 例句
     - `They sprinkled pesticide to bug the potatoes .`
       - 他们喷撒杀虫剂给马铃薯除虫。

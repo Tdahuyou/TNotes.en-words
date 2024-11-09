@@ -1,26 +1,37 @@
 - nominee
   - 发音
-    - 英 `/ˌnɑːmɪ'niː/`
-    - 美 `/,nɑmɪ'ni/`
+    - 英
+      - `/ˌnɑːmɪ'niː/`
+    - 美
+      - `/,nɑmɪ'ni/`
   - 词义
-    - n. 被提名者，被任命者
-    - `someone who has been officially suggested for an important position, duty, or prize`
+    - n.
+      - 被提名者，被任命者
+        - `someone who has been officially suggested for an important position, duty, or prize`
   - 同根词
     - adj.
-      - `nominated` 被提名的；被任命的
-      - `nominative` 主格的；记名的；被提名的
+      - `nominated`
+        - 被提名的；被任命的
+      - `nominative`
+        - 主格的；记名的；被提名的
     - n.
-      - `nomination` 任命，提名；提名权
-      - `nominative` 主格
-      - `nominator` 提名者；任命者；续任者
+      - `nomination`
+        - 任命，提名；提名权
+      - `nominative`
+        - 主格
+      - `nominator`
+        - 提名者；任命者；续任者
     - v.
-      - `nominated` 提名；任命（nominate的过去分词）
+      - `nominated`
+        - 提名；任命（nominate的过去分词）
     - vt.
-      - `nominate` 推荐；提名；任命；指定
+      - `nominate`
+        - 推荐；提名；任命；指定
   - 近义词
-    - n. 被任命者；被提名的人；代名人
-      - `appointee`
-      - `designee`
+    - n.
+      - 被任命者；被提名的人；代名人
+        - `appointee`
+        - `designee`
   - 例句
     - `the Democratic Party presidential nominee`
       - 民主党被提名的总统候选人

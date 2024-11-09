@@ -1,11 +1,15 @@
 - torrefy
   - 发音
-    - 英 `/'tɒrɪfaɪ/`
-    - 美 `/'tɔrɪfaɪ/`
+    - 英
+      - `/'tɒrɪfaɪ/`
+    - 美
+      - `/'tɔrɪfaɪ/`
   - 词义
-    - vt. 焙,烤
-    - `to dry (drugs, ores, etc) by subjection to intense heat; roast `
+    - vt.
+      - 焙,烤
+        - `to dry (drugs, ores, etc) by subjection to intense heat; roast `
   - 近义词
-    - vt. 焙；烤；烘
-      - `to roast`
-      - `bake`
+    - vt.
+      - 焙；烤；烘
+        - `to roast`
+        - `bake`

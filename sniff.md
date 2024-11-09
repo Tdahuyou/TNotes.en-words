@@ -1,32 +1,42 @@
 - sniff
   - 发音
-    - 英 `/snɪf/`
-    - 美 `/snɪf/`
+    - 英
+      - `/snɪf/`
+    - 美
+      - `/snɪf/`
   - 词义
-    - v. 用鼻子吸；嗅；闻
-    - `to breathe air into your nose noisily, for example when you are crying or have a cold`
+    - v.
+      - 用鼻子吸；嗅；闻
+        - `to breathe air into your nose noisily, for example when you are crying or have a cold`
   - 记忆
     - 站在悬崖(cliff)上嗅(sniff)到了危险的气息
   - 同根词
     - adj.
-      - `sniffy` 嗤之以鼻的；自命不凡的；微臭的
+      - `sniffy`
+        - 嗤之以鼻的；自命不凡的；微臭的
     - n.
-      - `sniffer` 嗅探器；嗅探犬；以鼻吸毒者
+      - `sniffer`
+        - 嗅探器；嗅探犬；以鼻吸毒者
   - 近义词
-    - vi. 嗅；嗤之以鼻
-      - `smell`
-      - `snuff at`
-    - vt. 嗅；闻；用力吸；发觉
-      - `smell`
-      - `nose`
-      - `discover`
-    - n. 吸，闻；嗤之以鼻；气味；以鼻吸气；吸气声
-      - `suction`
-      - `smell`
-      - `wind`
+    - vi.
+      - 嗅；嗤之以鼻
+        - `smell`
+        - `snuff at`
+    - vt.
+      - 嗅；闻；用力吸；发觉
+        - `smell`
+        - `nose`
+        - `discover`
+    - n.
+      - 吸，闻；嗤之以鼻；气味；以鼻吸气；吸气声
+        - `suction`
+        - `smell`
+        - `wind`
   - 短语
-    - `sniff out` 发现；寻找 
-    - `sniff at` 嗤之以鼻；嗅；轻视 
+    - `sniff out`
+      - 发现；寻找 
+    - `sniff at`
+      - 嗤之以鼻；嗅；轻视 
   - 例句
     - `Margaret sniffed miserably and nodded.`
       - 玛格丽特可怜地抽泣着点了点头。

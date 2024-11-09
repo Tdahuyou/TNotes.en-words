@@ -1,14 +1,18 @@
 - sampan
   - 发音
-    - 英 `/'sæmpæn/`
-    - 美 `/'sæmpæn/`
+    - 英
+      - `/'sæmpæn/`
+    - 美
+      - `/'sæmpæn/`
   - 词义
-    - n. 舢板；小船
-    - `a small boat used in China and Southeast Asia`
+    - n.
+      - 舢板；小船
+        - `a small boat used in China and Southeast Asia`
   - 近义词
-    - n. 舢板；小船
-      - `boat`
-      - `tender`
+    - n.
+      - 舢板；小船
+        - `boat`
+        - `tender`
   - 例句
     - `Lifeguard driving a sampan came to church with the priest said: "Father, come as soon as possible on!`
       - 一个救生员驾着舢板来到教堂，跟神父说：“神父，赶快上来吧！

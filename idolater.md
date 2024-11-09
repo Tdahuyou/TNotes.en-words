@@ -1,24 +1,37 @@
 - idolater
   - 发音
-    - 英 `/aɪ'dɒlətə/`
-    - 美 `/ai'dɔlətə/`
+    - 英
+      - `/aɪ'dɒlətə/`
+    - 美
+      - `/ai'dɔlətə/`
   - 词义
-    - n. 偶像崇拜者,崇拜者,皈依者,追星族
+    - n.
+      - 偶像崇拜者,崇拜者,皈依者,追星族
   - 同根词
     - adj.
-      - `idolatrous` 盲目崇拜的；崇拜偶像的
+      - `idolatrous`
+        - 盲目崇拜的；崇拜偶像的
     - n.
-      - `idol` 偶像，崇拜物；幻象；谬论
-      - `idolatry` 偶像崇拜；盲目崇拜；邪神崇拜
-      - `idolatress` 女性的偶像崇拜者
-      - `idolization` 偶像化；盲目崇拜
+      - `idol`
+        - 偶像，崇拜物；幻象；谬论
+      - `idolatry`
+        - 偶像崇拜；盲目崇拜；邪神崇拜
+      - `idolatress`
+        - 女性的偶像崇拜者
+      - `idolization`
+        - 偶像化；盲目崇拜
     - vi.
-      - `idolize` 崇拜偶像
-      - `idolise` 崇拜偶像（等于idolize）
+      - `idolize`
+        - 崇拜偶像
+      - `idolise`
+        - 崇拜偶像（等于idolize）
     - vt.
-      - `idolize` 极端崇拜；把...当偶像崇拜
-      - `idolise` 把…当偶像崇拜；偶像化
+      - `idolize`
+        - 极端崇拜；把...当偶像崇拜
+      - `idolise`
+        - 把…当偶像崇拜；偶像化
   - 近义词
-    - n. 偶像崇拜者；崇拜者；皈依者
-      - `worshiper`
-      - `adorer`
+    - n.
+      - 偶像崇拜者；崇拜者；皈依者
+        - `worshiper`
+        - `adorer`

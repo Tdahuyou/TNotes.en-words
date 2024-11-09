@@ -1,14 +1,18 @@
 - Thanksgiving
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - `a public holiday in the US and in Canada when families have a large meal together to celebrate and be thankful for food, health, families etc`
+        - `a public holiday in the US and in Canada when families have a large meal together to celebrate and be thankful for food, health, families etc`
   - 记忆
     - thanks(感谢) ＋ giving(给予) → 感谢上帝的给予 → 感恩节
   - 短语
-    - `thanksgiving day` 感恩节 
-    - `thanksgiving dinner` 感恩节晚餐 
+    - `thanksgiving day`
+      - 感恩节 
+    - `thanksgiving dinner`
+      - 感恩节晚餐 
   - 例句
     - `That we all have Thanksgiving dinner together?`
       - 我们会一起用感恩节晚餐吗？

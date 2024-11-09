@@ -1,25 +1,36 @@
 - sizeable
   - 发音
-    - 英 `/undefined/`
-    - 美 `/'saɪzəbl/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/'saɪzəbl/`
   - 词义
-    - adj. 大的，相当大的
-    - `fairly large`
+    - adj.
+      - 大的，相当大的
+        - `fairly large`
   - 同根词
     - adj.
-      - `size` 一定尺寸的
-      - `sizable` 相当大的；大小相当的
-      - `sized` 有…大小的
+      - `size`
+        - 一定尺寸的
+      - `sizable`
+        - 相当大的；大小相当的
+      - `sized`
+        - 有…大小的
     - n.
-      - `size` 大小；尺寸
+      - `size`
+        - 大小；尺寸
     - v.
-      - `sized` 相比（size的过去分词）；按大小分类
+      - `sized`
+        - 相比（size的过去分词）；按大小分类
     - vi.
-      - `size` 可比拟
+      - `size`
+        - 可比拟
     - vt.
-      - `size` 依大小排列
+      - `size`
+        - 依大小排列
   - 近义词
-    - adj. 大的，相当大的
-      - `larger`
-      - `considerable`
-      - `big`
+    - adj.
+      - 大的，相当大的
+        - `larger`
+        - `considerable`
+        - `big`

@@ -1,10 +1,13 @@
 - freelancer
   - 发音
-    - 英 `/'friːlɑːnsə(r)/`
-    - 美 `/'frilænsɚ/`
+    - 英
+      - `/'friːlɑːnsə(r)/`
+    - 美
+      - `/'frilænsɚ/`
   - 词义
-    - n. 自由职业者
-    - `A freelancer is someone who does freelance work`
+    - n.
+      - 自由职业者
+        - `A freelancer is someone who does freelance work`
   - 例句
     - `Are you the average business owner or freelancer like I am?`
       - 你是像我一样的中型企业主或者自由作家吗？

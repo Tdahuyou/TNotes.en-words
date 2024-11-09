@@ -1,23 +1,34 @@
 - spinner
   - 发音
-    - 英 `/'spɪnə/`
-    - 美 `/'spɪnɚ/`
+    - 英
+      - `/'spɪnə/`
+    - 美
+      - `/'spɪnɚ/`
   - 词义
-    - n. 纺纱机；纺纱工人；旋床工人；旋式诱饵
-    - `someone whose job is to make thread by twisting cotton, wool etc`
+    - n.
+      - 纺纱机；纺纱工人；旋床工人；旋式诱饵
+        - `someone whose job is to make thread by twisting cotton, wool etc`
   - 同根词
     - adj.
-      - `spinning` 纺织的
-      - `spinnable` 可纺织的
+      - `spinning`
+        - 纺织的
+      - `spinnable`
+        - 可纺织的
     - n.
-      - `spin` 旋转；疾驰
-      - `spinning` 纺纱
+      - `spin`
+        - 旋转；疾驰
+      - `spinning`
+        - 纺纱
     - v.
-      - `spinning` 旋转，纺织（spin的现在分词）
+      - `spinning`
+        - 旋转，纺织（spin的现在分词）
     - vi.
-      - `spin` 旋转；纺纱；吐丝；晕眩
+      - `spin`
+        - 旋转；纺纱；吐丝；晕眩
     - vt.
-      - `spin` 使旋转；纺纱；编造；结网
+      - `spin`
+        - 使旋转；纺纱；编造；结网
   - 近义词
-    - n. [纺]纺纱机；纺纱工人；旋床工人；旋式诱饵
-      - `spinning machine`
+    - n.
+      - [纺]纺纱机；纺纱工人；旋床工人；旋式诱饵
+        - `spinning machine`

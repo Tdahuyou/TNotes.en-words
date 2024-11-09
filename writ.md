@@ -1,16 +1,20 @@
 - writ
   - 发音
-    - 英 `/rɪt/`
-    - 美 `/rɪt/`
+    - 英
+      - `/rɪt/`
+    - 美
+      - `/rɪt/`
   - 词义
-    - n. 令状；书面命令
-    - `a document from a court that orders someone to do or not to do something`
+    - n.
+      - 令状；书面命令
+        - `a document from a court that orders someone to do or not to do something`
   - 记忆
     - write去掉e就变成了writ
   - 近义词
-    - n. [法]令状；文书；法院命令
-      - `clerical assistant`
-      - `diploma`
+    - n.
+      - [法]令状；文书；法院命令
+        - `clerical assistant`
+        - `diploma`
   - 例句
     - `He issued a writ against the newspaper.`
       - 他签发了传讯这家报纸的令状。

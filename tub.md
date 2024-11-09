@@ -1,26 +1,38 @@
 - tub
   - 发音
-    - 英 `/tʌb/`
-    - 美 `/tʌb/`
+    - 英
+      - `/tʌb/`
+    - 美
+      - `/tʌb/`
   - 词义
-    - n. 浴盆；桶
-    - `a large container in which you sit to wash yourself`
-    - vt. 把…装入桶；为…洗盆浴
-    - vi. 洗盆浴；（衣服等）被放在桶里洗
+    - n.
+      - 浴盆；桶
+        - `a large container in which you sit to wash yourself`
+    - vt.
+      - 把…装入桶；为…洗盆浴
+    - vi.
+      - 洗盆浴；（衣服等）被放在桶里洗
   - 同根词
     - adj.
-      - `tubby` 桶状的；发钝音的；肥胖的
+      - `tubby`
+        - 桶状的；发钝音的；肥胖的
     - n.
-      - `tubber` 桶匠
-      - `tubbiness` 粗短；钝音；桶状
+      - `tubber`
+        - 桶匠
+      - `tubbiness`
+        - 粗短；钝音；桶状
   - 近义词
-    - n. 浴盆；桶
-      - `bath`
-      - `barrel`
+    - n.
+      - 浴盆；桶
+        - `bath`
+        - `barrel`
   - 短语
-    - `in the tub` 破产 
-    - `bath tub` 浴盆；盆形燃烧室 
-    - `hot tub` 热水澡桶；热水浴缸 
+    - `in the tub`
+      - 破产 
+    - `bath tub`
+      - 浴盆；盆形燃烧室 
+    - `hot tub`
+      - 热水澡桶；热水浴缸 
   - 例句
     - `I had a long soak in the tub.`
       - 我在浴缸里泡了很久。

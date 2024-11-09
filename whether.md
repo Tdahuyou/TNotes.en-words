@@ -1,17 +1,22 @@
 - whether
   - 发音
-    - 英 `/'weðə/`
-    - 美 `/'wɛðɚ/`
+    - 英
+      - `/'weðə/`
+    - 美
+      - `/'wɛðɚ/`
   - 词义
-    - conj. 是否
-    - `used when talking about a choice you have to make or about something that is not certain`
+    - conj.
+      - 是否
+        - `used when talking about a choice you have to make or about something that is not certain`
   - 记忆
     - 注意不要和weather (n. 天气) 相混
   - 近义词
-    - conj. 是否；不论
-      - `if`
+    - conj.
+      - 是否；不论
+        - `if`
   - 短语
-    - `whether or` 是…还是… 
+    - `whether or`
+      - 是…还是… 
   - 例句
     - `Maurice asked me whether I needed any help.`
       - 莫里斯问我是否需要帮助。

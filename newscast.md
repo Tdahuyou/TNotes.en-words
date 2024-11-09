@@ -1,20 +1,28 @@
 - newscast
   - 发音
-    - 英 `/'njuːzkɑːst/`
-    - 美 `/'njʊzkæst/`
+    - 英
+      - `/'njuːzkɑːst/`
+    - 美
+      - `/'njʊzkæst/`
   - 词义
-    - n. <美>新闻广播
-    - `a news programme on radio or television`
+    - n.
+      - <美>新闻广播
+        - `a news programme on radio or television`
   - 同根词
     - adj.
-      - `newsless` 没有新闻的
+      - `newsless`
+        - 没有新闻的
     - n.
-      - `newscaster` 新闻广播员；新闻评论广播员
-      - `newsmonger` 饶舌者；爱传播新闻的人
-      - `newspapering` 报业；新闻业
+      - `newscaster`
+        - 新闻广播员；新闻评论广播员
+      - `newsmonger`
+        - 饶舌者；爱传播新闻的人
+      - `newspapering`
+        - 报业；新闻业
   - 近义词
-    - n. 新闻广播
-      - `news broadcast`
+    - n.
+      - 新闻广播
+        - `news broadcast`
   - 例句
     - `Radio and television anchors usually appear on more than one newscast per day.`
       - 广播电视的主播通常要在每天的新闻节目中多次出现。

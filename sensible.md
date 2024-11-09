@@ -1,47 +1,71 @@
 - sensible
   - 发音
-    - 英 `/'sensəbl/`
-    - 美 `/'sɛnsəbl/`
+    - 英
+      - `/'sensəbl/`
+    - 美
+      - `/'sɛnsəbl/`
   - 词义
-    - adj. 可察觉的，可感知的；明智的；切合实际的；意识到的
-    - `reasonable, practical, and showing good judgment`
+    - adj.
+      - 可察觉的，可感知的；明智的；切合实际的；意识到的
+        - `reasonable, practical, and showing good judgment`
   - 记忆
     - sens(感觉) + ible(能…的) → 能感觉到的 → 可察觉的
   - 同根词
     - adj.
-      - `sensitive` 敏感的；[仪] 灵敏的；感光的；易受伤害的
-      - `senseless` 愚蠢的；无知觉的；无意识的
-      - `sensing` 敏感的
-      - `sensate` 可感觉的；知觉的
+      - `sensitive`
+        - 敏感的；[仪] 灵敏的；感光的；易受伤害的
+      - `senseless`
+        - 愚蠢的；无知觉的；无意识的
+      - `sensing`
+        - 敏感的
+      - `sensate`
+        - 可感觉的；知觉的
     - adv.
-      - `sensibly` 明显地；容易感知地；聪明地
-      - `sensitively` 敏感地；易感知地
-      - `senselessly` 毫无知觉地；无意识地；不省人事地
+      - `sensibly`
+        - 明显地；容易感知地；聪明地
+      - `sensitively`
+        - 敏感地；易感知地
+      - `senselessly`
+        - 毫无知觉地；无意识地；不省人事地
     - n.
-      - `sense` 感觉，官能；观念；道理；理智
-      - `sensation` 感觉；轰动；感动
-      - `sensitivity` 敏感；敏感性；过敏
-      - `sensibility` 情感；敏感性；感觉；识别力
-      - `sensing` 传感；感觉；测知
-      - `sensationalist` 感觉论者
+      - `sense`
+        - 感觉，官能；观念；道理；理智
+      - `sensation`
+        - 感觉；轰动；感动
+      - `sensitivity`
+        - 敏感；敏感性；过敏
+      - `sensibility`
+        - 情感；敏感性；感觉；识别力
+      - `sensing`
+        - 传感；感觉；测知
+      - `sensationalist`
+        - 感觉论者
     - v.
-      - `sensing` 感觉，了解（sense的现在分词）
+      - `sensing`
+        - 感觉，了解（sense的现在分词）
     - vi.
-      - `sensitise` 变得敏感（等于sensitize）
+      - `sensitise`
+        - 变得敏感（等于sensitize）
     - vt.
-      - `sense` 感觉到；检测
-      - `sensibilize` 使感觉敏锐
-      - `sensitise` 使敏感（等于sensitize）
+      - `sense`
+        - 感觉到；检测
+      - `sensibilize`
+        - 使感觉敏锐
+      - `sensitise`
+        - 使敏感（等于sensitize）
   - 近义词
-    - adj. 明智的；明显的；意识到的；通晓事理的
-      - `obvious`
-      - `aware`
-      - `distinct`
-      - `wise`
-      - `visible`
+    - adj.
+      - 明智的；明显的；意识到的；通晓事理的
+        - `obvious`
+        - `aware`
+        - `distinct`
+        - `wise`
+        - `visible`
   - 短语
-    - `sensible heat` 显热；焓 
-    - `sensible of` 察觉；了解 
+    - `sensible heat`
+      - 显热；焓 
+    - `sensible of`
+      - 察觉；了解 
   - 例句
     - `She seems very sensible.`
       - 她好像很明智。

@@ -1,20 +1,30 @@
 - fertiliser
   - 发音
-    - 英 `/'fɜːtəlaɪzə/`
-    - 美 `/'fə:tilaisə/`
+    - 英
+      - `/'fɜːtəlaɪzə/`
+    - 美
+      - `/'fə:tilaisə/`
   - 词义
-    - n. 肥料
+    - n.
+      - 肥料
   - 同根词
     - adj.
-      - `fertile` 富饶的，肥沃的；能生育的
-      - `fertilizable` 可受精的；可施肥的
+      - `fertile`
+        - 富饶的，肥沃的；能生育的
+      - `fertilizable`
+        - 可受精的；可施肥的
     - n.
-      - `fertile` 肥沃，多产
-      - `fertilizer` [肥料] 肥料；受精媒介物；促进发展者
-      - `fertilisation` 受精（等于fertilization）；肥沃
+      - `fertile`
+        - 肥沃，多产
+      - `fertilizer`
+        - [肥料] 肥料；受精媒介物；促进发展者
+      - `fertilisation`
+        - 受精（等于fertilization）；肥沃
     - vt.
-      - `fertilize` 使受精；使肥沃
-      - `fertilise` 使受精；施肥于；使肥沃
+      - `fertilize`
+        - 使受精；使肥沃
+      - `fertilise`
+        - 使受精；施肥于；使肥沃
   - 例句
     - `Why do Americans spend such huge amounts of time, money, water, fertiliser and fuel on growing a useless smooth expanse of grass?`
       - 为什么美国人要把如此大量的时间、金钱、水、化肥和燃料花在一大片平整却毫无用处的草地上呢？

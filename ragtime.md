@@ -1,15 +1,20 @@
 - ragtime
   - 发音
-    - 英 `/'rægtaɪm/`
-    - 美 `/'ræɡtaɪm/`
+    - 英
+      - `/'rægtaɪm/`
+    - 美
+      - `/'ræɡtaɪm/`
   - 词义
-    - n. 拉格泰姆音乐
-    - `a type of music and dancing that has a strong beat and was popular in the US in the early part of the 20th century`
-    - adj. 使人发笑的
+    - n.
+      - 拉格泰姆音乐
+        - `a type of music and dancing that has a strong beat and was popular in the US in the early part of the 20th century`
+    - adj.
+      - 使人发笑的
   - 近义词
-    - adj. 滑稽的；不严肃的
-      - `funny`
-      - `humouristic`
+    - adj.
+      - 滑稽的；不严肃的
+        - `funny`
+        - `humouristic`
   - 例句
     - `Joplin is considered the foremost composer of ragtime music.`
       - 吉普林被认为是拉格泰姆（Ragtime）音乐最重要的作曲家。

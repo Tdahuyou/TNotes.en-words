@@ -1,13 +1,18 @@
 - splendor
   - 发音
-    - 英 `/'splendə/`
-    - 美 `/'splendə/`
+    - 英
+      - `/'splendə/`
+    - 美
+      - `/'splendə/`
   - 词义
-    - n. 光彩,壮观,杰出
+    - n.
+      - 光彩,壮观,杰出
   - 同根词
     - n.
-      - `splendour` 显赫（等于splendor）；光彩壮丽
+      - `splendour`
+        - 显赫（等于splendor）；光彩壮丽
   - 近义词
-    - n. 光彩；壮丽；显赫
-      - `gloss`
-      - `grandeur`
+    - n.
+      - 光彩；壮丽；显赫
+        - `gloss`
+        - `grandeur`

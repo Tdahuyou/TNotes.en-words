@@ -1,10 +1,13 @@
 - horticulturalist
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 园艺家
-    - `A horticulturalist is a person who grows flowers, fruit, and vegetables, especially as their job`
+    - n.
+      - 园艺家
+        - `A horticulturalist is a person who grows flowers, fruit, and vegetables, especially as their job`
   - 例句
     - `The progress of the bloom was checked closely by museum horticulturalist Zac Stayton.`
       - 博物馆的园艺学家扎克•斯泰顿严密监测着开花的过程。

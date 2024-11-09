@@ -1,13 +1,18 @@
 - insomuch
   - 发音
-    - 英 `/ɪnsə(ʊ)'mʌtʃ/`
-    - 美 `/,insəu'mʌtʃ/`
+    - 英
+      - `/ɪnsə(ʊ)'mʌtʃ/`
+    - 美
+      - `/,insəu'mʌtʃ/`
   - 词义
-    - adv. 就此程度而言；由于
-    - `to such an extent or degree `
+    - adv.
+      - 就此程度而言；由于
+        - `to such an extent or degree `
   - 近义词
-    - adv. 就此程度而言；由于
-      - `because of`
-      - `as a result of`
+    - adv.
+      - 就此程度而言；由于
+        - `because of`
+        - `as a result of`
   - 短语
-    - `insomuch as` 由于（因为） 
+    - `insomuch as`
+      - 由于（因为） 

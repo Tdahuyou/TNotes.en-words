@@ -1,26 +1,37 @@
 - resurgence
   - 发音
-    - 英 `/ri'sə:dʒəns/`
-    - 美 `/rɪ'sɝdʒəns/`
+    - 英
+      - `/ri'sə:dʒəns/`
+    - 美
+      - `/rɪ'sɝdʒəns/`
   - 词义
-    - adj. 复苏
+    - adj.
+      - 复苏
   - 同根词
     - adj.
-      - `resurgent` 复活的；复苏的
+      - `resurgent`
+        - 复活的；复苏的
     - n.
-      - `resurrection` 复活；恢复；复兴
-      - `resurgent` 复活者
+      - `resurrection`
+        - 复活；恢复；复兴
+      - `resurgent`
+        - 复活者
     - vi.
-      - `resurrect` 复活
-      - `resurge` 复活；再起
+      - `resurrect`
+        - 复活
+      - `resurge`
+        - 复活；再起
     - vt.
-      - `resurrect` 使复活；复兴；挖出
+      - `resurrect`
+        - 使复活；复兴；挖出
   - 近义词
-    - n. 复活；再现；再起
-      - `revival`
-      - `regenesis`
+    - n.
+      - 复活；再现；再起
+        - `revival`
+        - `regenesis`
   - 短语
-    - `economic resurgence` 经济复生 
+    - `economic resurgence`
+      - 经济复生 
   - 例句
     - `My Bostonian bug turned out to be one of many on the forefront of an unprecedented resurgence.`
       - 我的这只来自波士顿的臭虫被证明是前所未有的复苏的众多臭虫中的一只。

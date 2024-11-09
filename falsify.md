@@ -1,26 +1,35 @@
 - falsify
   - 发音
-    - 英 `/'fɔːlsifai/`
-    - 美 `/'fɔlsɪfaɪ/`
+    - 英
+      - `/'fɔːlsifai/`
+    - 美
+      - `/'fɔlsɪfaɪ/`
   - 词义
-    - v. 伪造
-    - `to change figures, records etc so that they contain false information`
+    - v.
+      - 伪造
+        - `to change figures, records etc so that they contain false information`
   - 记忆
     - fals (看作fall， 欺骗) + ify (使…) → 欺骗 → 伪造
   - 同根词
     - adj.
-      - `false` 错误的；虚伪的；伪造的
+      - `false`
+        - 错误的；虚伪的；伪造的
     - adv.
-      - `false` 欺诈地
+      - `false`
+        - 欺诈地
     - n.
-      - `falsification` 伪造；歪曲；[审计] 篡改；证明是假
-      - `falsifier` [法] 伪造者；伪证的人；撒谎的人
+      - `falsification`
+        - 伪造；歪曲；[审计] 篡改；证明是假
+      - `falsifier`
+        - [法] 伪造者；伪证的人；撒谎的人
   - 近义词
-    - vt. 伪造；篡改；歪曲；证明...虚假
-      - `colour`
-      - `doctor`
-    - vi. 撒谎
-      - `tell a lie`
+    - vt.
+      - 伪造；篡改；歪曲；证明...虚假
+        - `colour`
+        - `doctor`
+    - vi.
+      - 撒谎
+        - `tell a lie`
   - 例句
     - `The file was altered to falsify the evidence.`
       - 文件被动了手脚，以此伪造证据。

@@ -1,29 +1,39 @@
 - pragmatic
   - 发音
-    - 英 `/præg'mætɪk/`
-    - 美 `/præg'mætɪk/`
+    - 英
+      - `/præg'mætɪk/`
+    - 美
+      - `/præg'mætɪk/`
   - 词义
-    - adj. 务实的，注重实效的，实用的
-    - `dealing with problems in a sensible practical way instead of strictly following a set of ideas`
+    - adj.
+      - 务实的，注重实效的，实用的
+        - `dealing with problems in a sensible practical way instead of strictly following a set of ideas`
   - 记忆
     - prag(做) + matic → 用实际行动表示的 → 务实的， 注重实效的
   - 同根词
     - adv.
-      - `pragmatically` 讲究实效地；实用主义地
+      - `pragmatically`
+        - 讲究实效地；实用主义地
     - n.
-      - `pragmatism` 实用主义；独断
-      - `pragmatist` 实用主义者；爱管闲事的人
+      - `pragmatism`
+        - 实用主义；独断
+      - `pragmatist`
+        - 实用主义者；爱管闲事的人
   - 近义词
-    - adj. 实际的；实用主义的；国事的
-      - `practical`
-      - `actual`
-      - `effective`
-      - `real`
-      - `positive`
+    - adj.
+      - 实际的；实用主义的；国事的
+        - `practical`
+        - `actual`
+        - `effective`
+        - `real`
+        - `positive`
   - 短语
-    - `pragmatic competence` 语用能力 
-    - `pragmatic failure` 语用失误；语用失效 
-    - `pragmatic approach` 实际的方法；重实效的方法 
+    - `pragmatic competence`
+      - 语用能力 
+    - `pragmatic failure`
+      - 语用失误；语用失效 
+    - `pragmatic approach`
+      - 实际的方法；重实效的方法 
   - 例句
     - `Williams took a more pragmatic approach to management problems.`
       - 威廉斯在管理问题上采用的是一种更务实的做法。

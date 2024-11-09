@@ -1,10 +1,13 @@
 - subsume
   - 发音
-    - 英 `/səb'suːm/`
-    - 美 `/səb'sʊm/`
+    - 英
+      - `/səb'suːm/`
+    - 美
+      - `/səb'sʊm/`
   - 词义
-    - v. 包含，包括
-    - `If something is subsumed within a larger group or class, it is included within it, rather than being considered as something separate`
+    - v.
+      - 包含，包括
+        - `If something is subsumed within a larger group or class, it is included within it, rather than being considered as something separate`
   - 记忆
     - sub(下面)+sume(拿) → 拿在下面 → 包含
   - 例句

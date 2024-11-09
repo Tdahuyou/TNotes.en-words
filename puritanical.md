@@ -1,10 +1,13 @@
 - puritanical
   - 发音
-    - 英 `/ˌpjurɪ'tænɪkl/`
-    - 美 `/'pjʊrə'tænɪkl/`
+    - 英
+      - `/ˌpjurɪ'tænɪkl/`
+    - 美
+      - `/'pjʊrə'tænɪkl/`
   - 词义
-    - adj. 极守道德的
-    - `very strict about moral matters, especially sex – used in order to show disapproval`
+    - adj.
+      - 极守道德的
+        - `very strict about moral matters, especially sex – used in order to show disapproval`
   - 记忆
     - puritan(清教徒) + ical → 如清教徒的 → 极守道德的
   - 例句

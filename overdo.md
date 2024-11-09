@@ -1,37 +1,57 @@
 - overdo
   - 发音
-    - 英 `/əʊvə'duː/`
-    - 美 `/'ovɚ'dʊ/`
+    - 英
+      - `/əʊvə'duː/`
+    - 美
+      - `/'ovɚ'dʊ/`
   - 词义
-    - v. 把…做得过分；使过于疲劳；对…表演过火；夸张
-    - `to do something more than is suitable or natural`
+    - v.
+      - 把…做得过分；使过于疲劳；对…表演过火；夸张
+        - `to do something more than is suitable or natural`
   - 同根词
     - adj.
-      - `overdone` 煮得太久的；做得过分的
-      - `overconfident` 过于自信的；自负的
-      - `overcurious` 多问的；过分好奇的
-      - `overdressed` 过分打扮的；穿着过于讲究的
-      - `overeager` 过于热切的，过于渴望的
+      - `overdone`
+        - 煮得太久的；做得过分的
+      - `overconfident`
+        - 过于自信的；自负的
+      - `overcurious`
+        - 多问的；过分好奇的
+      - `overdressed`
+        - 过分打扮的；穿着过于讲究的
+      - `overeager`
+        - 过于热切的，过于渴望的
     - n.
-      - `overdrive` 超速档；[机] 超速传动
-      - `overconfidence` 自负；过分相信
-      - `overdress` [服装] 外衣
+      - `overdrive`
+        - 超速档；[机] 超速传动
+      - `overconfidence`
+        - 自负；过分相信
+      - `overdress`
+        - [服装] 外衣
     - v.
-      - `overdone` 把…煮得过久；过于劳累；把…做得过度（overdo的过去分词）
+      - `overdone`
+        - 把…煮得过久；过于劳累；把…做得过度（overdo的过去分词）
     - vi.
-      - `overdress` 穿得过分讲究；穿得过多
-      - `overcompensate` 过度补偿
+      - `overdress`
+        - 穿得过分讲究；穿得过多
+      - `overcompensate`
+        - 过度补偿
     - vt.
-      - `overdrive` 驱使过度；虐待；工作过度
-      - `overdress` 过度装饰；使穿著过分讲究
-      - `overcompensate` 给与…过分的补偿
-      - `overdramatize` 过分夸大；过分戏剧性地表达
+      - `overdrive`
+        - 驱使过度；虐待；工作过度
+      - `overdress`
+        - 过度装饰；使穿著过分讲究
+      - `overcompensate`
+        - 给与…过分的补偿
+      - `overdramatize`
+        - 过分夸大；过分戏剧性地表达
   - 近义词
-    - vt. 把…做得过分；使过于疲劳；对…表演过火；夸张
-      - `put it on`
-      - `pile it on`
-    - vi. 做得过分；表演过火
-      - `ham`
+    - vt.
+      - 把…做得过分；使过于疲劳；对…表演过火；夸张
+        - `put it on`
+        - `pile it on`
+    - vi.
+      - 做得过分；表演过火
+        - `ham`
   - 例句
     - `Analysts believe that worries about the economy are overdone.`
       - 分析人士认为对经济的担忧有些过火了。

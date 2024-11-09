@@ -1,15 +1,21 @@
 - misanthrope
   - 发音
-    - 英 `/'mɪsənθroup/`
-    - 美 `/'mɪsənθrop/`
+    - 英
+      - `/'mɪsənθroup/`
+    - 美
+      - `/'mɪsənθrop/`
   - 词义
-    - n. 厌恶人类者
-    - `A misanthrope is a person who does not like other people`
+    - n.
+      - 厌恶人类者
+        - `A misanthrope is a person who does not like other people`
   - 记忆
     - mis(恨) + anthrop(人类) + e → 恨人类的人 → 厌恶人类者
   - 同根词
     - adj.
-      - `misanthropic` 厌恶人类的；不愿与人来往的
+      - `misanthropic`
+        - 厌恶人类的；不愿与人来往的
     - n.
-      - `misanthropist` 厌世者；厌恶人类者
-      - `misanthropy` 厌恶人类；厌世，愤世嫉俗
+      - `misanthropist`
+        - 厌世者；厌恶人类者
+      - `misanthropy`
+        - 厌恶人类；厌世，愤世嫉俗

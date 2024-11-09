@@ -1,17 +1,22 @@
 - ethology
   - 发音
-    - 英 `/iː'θɒlədʒɪ/`
-    - 美 `/undefined/`
+    - 英
+      - `/iː'θɒlədʒɪ/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 动物行动学,人种学
-    - `the study of the behaviour of animals in their normal environment `
+    - n.
+      - 动物行动学,人种学
+        - `the study of the behaviour of animals in their normal environment `
   - 同根词
     - n.
-      - `ethologist` 动物行为学家；（个体）生态学研究者
+      - `ethologist`
+        - 动物行为学家；（个体）生态学研究者
   - 近义词
-    - n. 动物行动学；道德体系学；个体生态学
-      - `hexiology`
-      - `autecology`
+    - n.
+      - 动物行动学；道德体系学；个体生态学
+        - `hexiology`
+        - `autecology`
   - 例句
     - `On the next page, we'll delve into the world of ethology .`
       - 下面一页我们将探究一下动物行为学的世界。

@@ -1,9 +1,12 @@
 - unconquerable
   - 发音
-    - 英 `/ˌʌn'kɒŋkərəbl/`
-    - 美 `/ʌn'kɑŋkərəbl/`
+    - 英
+      - `/ˌʌn'kɒŋkərəbl/`
+    - 美
+      - `/ʌn'kɑŋkərəbl/`
   - 词义
-    - adj. 不可征服的
+    - adj.
+      - 不可征服的
   - 例句
     - `For my unconquerable soul.`
       - 不可征服的灵魂。

@@ -1,42 +1,63 @@
 - psychic
   - 发音
-    - 英 `/'saikik/`
-    - 美 `/'saɪkɪk/`
+    - 英
+      - `/'saikik/`
+    - 美
+      - `/'saɪkɪk/`
   - 词义
-    - adj. 精神的；超自然的
-    - `relating to the power of the human mind to do strange or surprising things that cannot be explained by reason`
+    - adj.
+      - 精神的；超自然的
+        - `relating to the power of the human mind to do strange or surprising things that cannot be explained by reason`
   - 记忆
     - psych (精神) + ic → 精神的
   - 同根词
     - adj.
-      - `psychiatric` 精神病学的；精神病治疗的
-      - `psycho` 精神病的；精神病学的
-      - `psychoactive` 影响心理状态的；作用于精神的
-      - `psychoanalytic` 精神分析的；心理分析的
-      - `psychiatrical` 精神病治疗的；精神病学的
-      - `psychoanalytical` 精神分析的
+      - `psychiatric`
+        - 精神病学的；精神病治疗的
+      - `psycho`
+        - 精神病的；精神病学的
+      - `psychoactive`
+        - 影响心理状态的；作用于精神的
+      - `psychoanalytic`
+        - 精神分析的；心理分析的
+      - `psychiatrical`
+        - 精神病治疗的；精神病学的
+      - `psychoanalytical`
+        - 精神分析的
     - adv.
-      - `psychically` 精神上
+      - `psychically`
+        - 精神上
     - n.
-      - `psychiatrist` 精神病学家，精神病医生
-      - `psyche` 灵魂；心智
-      - `psycho` 心理分析，精神分析；精神病患者
-      - `psychiatry` 精神病学；精神病治疗法
-      - `psychoanalysis` 精神分析；心理分析
-      - `psychoanalyst` 精神分析学家；心理分析学家
-      - `psychogenesis` [心理] 心理发生；精神发生
+      - `psychiatrist`
+        - 精神病学家，精神病医生
+      - `psyche`
+        - 灵魂；心智
+      - `psycho`
+        - 心理分析，精神分析；精神病患者
+      - `psychiatry`
+        - 精神病学；精神病治疗法
+      - `psychoanalysis`
+        - 精神分析；心理分析
+      - `psychoanalyst`
+        - 精神分析学家；心理分析学家
+      - `psychogenesis`
+        - [心理] 心理发生；精神发生
     - vt.
-      - `psychoanalyze` 用精神分析疗法治疗分析
+      - `psychoanalyze`
+        - 用精神分析疗法治疗分析
   - 近义词
-    - adj. 精神的；心灵的；灵魂的；超自然的
-      - `mental`
-      - `spiritual`
-      - `inner`
-    - n. 灵媒；巫师
-      - `conjurator`
-      - `shaman`
+    - adj.
+      - 精神的；心灵的；灵魂的；超自然的
+        - `mental`
+        - `spiritual`
+        - `inner`
+    - n.
+      - 灵媒；巫师
+        - `conjurator`
+        - `shaman`
   - 短语
-    - `psychic trauma` 精神创伤 
+    - `psychic trauma`
+      - 精神创伤 
   - 例句
     - `a spiritual healer with psychic powers`
       - 有超自然力量的精神治疗师

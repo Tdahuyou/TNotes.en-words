@@ -1,12 +1,16 @@
 - yeah
   - 发音
-    - 英 `/jeə; je/`
-    - 美 `/jɛə/`
+    - 英
+      - `/jeə; je/`
+    - 美
+      - `/jɛə/`
   - 词义
-    - interj. 是的；对
-    - `yes`
+    - interj.
+      - 是的；对
+        - `yes`
   - 近义词
-    - adv. 是
-      - `yes`
-      - `yep`
-      - `yeh`
+    - adv.
+      - 是
+        - `yes`
+        - `yep`
+        - `yeh`

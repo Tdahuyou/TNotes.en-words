@@ -1,14 +1,18 @@
 - foreshore
   - 发音
-    - 英 `/'fɔːʃɔː/`
-    - 美 `/'fɔrʃɔr/`
+    - 英
+      - `/'fɔːʃɔː/`
+    - 美
+      - `/'fɔrʃɔr/`
   - 词义
-    - n. 海滩；前滩
-    - `the part of the shore between the highest and lowest levels that the sea reaches`
+    - n.
+      - 海滩；前滩
+        - `the part of the shore between the highest and lowest levels that the sea reaches`
   - 近义词
-    - n. 海滩；前滩
-      - `sea beach`
-      - `lagune`
+    - n.
+      - 海滩；前滩
+        - `sea beach`
+        - `lagune`
   - 例句
     - `Heritage falls apart on the harbor's shore, iron rusts and there is no foreshore access.`
       - 港口海岸上的遗迹已经分崩离析，钢铁生锈； 没有可以进入的海滩。

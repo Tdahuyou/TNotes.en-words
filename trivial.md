@@ -1,25 +1,33 @@
 - trivial
   - 发音
-    - 英 `/'trɪviəl/`
-    - 美 `/'trɪvɪəl/`
+    - 英
+      - `/'trɪviəl/`
+    - 美
+      - `/'trɪvɪəl/`
   - 词义
-    - adj. 琐碎的，微不足道的
-    - `not serious, important, or valuable`
+    - adj.
+      - 琐碎的，微不足道的
+        - `not serious, important, or valuable`
   - 记忆
     - tri(三) + vi(路) + al → 三条路的会合点(古罗马妇女喜欢停在十字路口闲聊些无关紧要的事) → 琐碎的， 微不足道的
   - 同根词
     - adv.
-      - `trivially` 琐细地；平凡地；无能地
+      - `trivially`
+        - 琐细地；平凡地；无能地
     - n.
-      - `triviality` 浅薄，轻浮；琐事；平凡
+      - `triviality`
+        - 浅薄，轻浮；琐事；平凡
     - vt.
-      - `trivialize` 使平凡；使琐碎
+      - `trivialize`
+        - 使平凡；使琐碎
   - 近义词
-    - adj. 不重要的，琐碎的；琐细的
-      - `small`
-      - `unimportant`
+    - adj.
+      - 不重要的，琐碎的；琐细的
+        - `small`
+        - `unimportant`
   - 短语
-    - `trivial matters` 无关重要的事情（trivial matter的复数形式） 
+    - `trivial matters`
+      - 无关重要的事情（trivial matter的复数形式） 
   - 例句
     - `a trivial sum`
       - 一笔极小的金额

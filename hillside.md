@@ -1,14 +1,18 @@
 - hillside
   - 发音
-    - 英 `/'hɪlsaɪd/`
-    - 美 `/'hɪl'saɪd/`
+    - 英
+      - `/'hɪlsaɪd/`
+    - 美
+      - `/'hɪl'saɪd/`
   - 词义
-    - n. 山腰
-    - `the sloping side of a hill`
+    - n.
+      - 山腰
+        - `the sloping side of a hill`
   - 近义词
-    - n. 山坡，山腹；山腰
-      - `mountainside`
-      - `brae`
+    - n.
+      - 山坡，山腹；山腰
+        - `mountainside`
+        - `brae`
   - 例句
     - `The airplane crashed on a hillside.`
       - 飞机在山坡上坠毁。

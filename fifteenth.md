@@ -1,21 +1,32 @@
 - fifteenth
   - 发音
-    - 英 `/fɪf'tiːnθ/`
-    - 美 `/'fɪf'tinθ/`
+    - 英
+      - `/fɪf'tiːnθ/`
+    - 美
+      - `/'fɪf'tinθ/`
   - 词义
-    - num. 第十五
+    - num.
+      - 第十五
   - 同根词
     - adj.
-      - `fifth` 第五的；五分之一的
-      - `fifteen` 十五的
-      - `fiftieth` 第五十的；五十分之一的
+      - `fifth`
+        - 第五的；五分之一的
+      - `fifteen`
+        - 十五的
+      - `fiftieth`
+        - 第五十的；五十分之一的
     - n.
-      - `fifth` 第五；五分之一
-      - `fifteen` 十五；十五个；十五人组成的橄榄球队
+      - `fifth`
+        - 第五；五分之一
+      - `fifteen`
+        - 十五；十五个；十五人组成的橄榄球队
     - num.
-      - `fifth` 第五
-      - `fifteen` 十五
-      - `fiftieth` 第五十；五十分之一
+      - `fifth`
+        - 第五
+      - `fifteen`
+        - 十五
+      - `fiftieth`
+        - 第五十；五十分之一
   - 例句
     - `So, initially they came up with four lines and then eventually five and even six, and then they went back to five by the fifteenth century.`
       - 那么,他们最初提出的是四条线,但是最终却是五条线,甚至六条线,然后在十五世纪又回到了五条线

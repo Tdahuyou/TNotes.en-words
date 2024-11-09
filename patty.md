@@ -1,14 +1,18 @@
 - patty
   - 发音
-    - 英 `/'pætɪ/`
-    - 美 `/'pæti/`
+    - 英
+      - `/'pætɪ/`
+    - 美
+      - `/'pæti/`
   - 词义
-    - n. 小馅饼,
-    - `small, flat pieces of cooked meat or other food`
+    - n.
+      - 小馅饼,
+        - `small, flat pieces of cooked meat or other food`
   - 近义词
-    - n. 肉饼；小馅饼
-      - `meat pie`
-      - `bakemeat`
+    - n.
+      - 肉饼；小馅饼
+        - `meat pie`
+        - `bakemeat`
   - 例句
     - `a beef patty`
       - 牛肉饼

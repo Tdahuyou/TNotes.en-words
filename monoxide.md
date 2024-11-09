@@ -1,12 +1,17 @@
 - monoxide
   - 发音
-    - 英 `/mə'nɒksaɪd/`
-    - 美 `/mɔ'nɔksaid, mə-/`
+    - 英
+      - `/mə'nɒksaɪd/`
+    - 美
+      - `/mɔ'nɔksaid, mə-/`
   - 词义
-    - n. 一氧化物
+    - n.
+      - 一氧化物
   - 短语
-    - `carbon monoxide` 一氧化碳 
-    - `carbon monoxide poisoning` 一氧化碳中毒 
+    - `carbon monoxide`
+      - 一氧化碳 
+    - `carbon monoxide poisoning`
+      - 一氧化碳中毒 
   - 例句
     - `Then, if the mix of waste is correct, the carbon and oxygen atoms involved recombine to form carbon monoxide and the hydrogen atoms link up into diatomic hydrogen molecules.`
       - 接下去，如果废物的组合是合适的，碳原子和氧原子会重新组合形成一氧化碳，而氢原子则结合起来形成双原子的氢分子。

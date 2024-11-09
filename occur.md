@@ -1,27 +1,35 @@
 - occur
   - 发音
-    - 英 `/ə'kɜːr/`
-    - 美 `/ə'kɝ/`
+    - 英
+      - `/ə'kɜːr/`
+    - 美
+      - `/ə'kɝ/`
   - 词义
-    - vi. 发生，出现；存在于
-    - `to happen`
+    - vi.
+      - 发生，出现；存在于
+        - `to happen`
   - 记忆
     - oc(向) + cur(跑) → 跑向 → 发生， 出现
   - 同根词
     - adj.
-      - `occurrent` 正在发生的；偶然发生的
+      - `occurrent`
+        - 正在发生的；偶然发生的
     - n.
-      - `occurrence` 发生；出现；事件；发现
+      - `occurrence`
+        - 发生；出现；事件；发现
   - 近义词
-    - vi. 发生；出现；存在
-      - `happen`
-      - `exist`
-      - `proceed`
-      - `figure`
-      - `offer`
+    - vi.
+      - 发生；出现；存在
+        - `happen`
+        - `exist`
+        - `proceed`
+        - `figure`
+        - `offer`
   - 短语
-    - `occur as` 以...的形式出现 
-    - `occur for` 发生在…时候 
+    - `occur as`
+      - 以...的形式出现 
+    - `occur for`
+      - 发生在…时候 
   - 例句
     - `A third of accidental deaths occur in the home.`
       - 有三分之一的意外死亡发生在家里。

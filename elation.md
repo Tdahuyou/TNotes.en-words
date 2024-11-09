@@ -1,18 +1,26 @@
 - elation
   - 发音
-    - 英 `/i'leiʃən/`
-    - 美 `/ɪ'leʃən/`
+    - 英
+      - `/i'leiʃən/`
+    - 美
+      - `/ɪ'leʃən/`
   - 词义
-    - n. 得意洋洋
+    - n.
+      - 得意洋洋
   - 同根词
     - adj.
-      - `elated` 兴高采烈的；得意洋洋的
-      - `elate` 得意的
+      - `elated`
+        - 兴高采烈的；得意洋洋的
+      - `elate`
+        - 得意的
     - v.
-      - `elated` 使兴奋（elate的过去式和过去分词）
+      - `elated`
+        - 使兴奋（elate的过去式和过去分词）
     - vt.
-      - `elate` 使…欢欣；使…兴高采烈
+      - `elate`
+        - 使…欢欣；使…兴高采烈
   - 近义词
-    - n. 兴高采烈，得意洋洋
-      - `exaltation`
-      - `rapture`
+    - n.
+      - 兴高采烈，得意洋洋
+        - `exaltation`
+        - `rapture`

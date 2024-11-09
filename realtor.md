@@ -1,16 +1,20 @@
 - realtor
   - 发音
-    - 英 `/'riːəltər/`
-    - 美 `/undefined/`
+    - 英
+      - `/'riːəltər/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 房地产经纪人
-    - `A Realtor is a person whose job is to sell houses, buildings, and land, and who is a member of the National Association of Realtors`
+    - n.
+      - 房地产经纪人
+        - `A Realtor is a person whose job is to sell houses, buildings, and land, and who is a member of the National Association of Realtors`
   - 记忆
     - real(不动产的) + tor → 房地产经纪人
   - 近义词
-    - n. （美）房地产经纪人
-      - `real-estate agent`
-      - `real estate broker`
+    - n.
+      - （美）房地产经纪人
+        - `real-estate agent`
+        - `real estate broker`
   - 例句
     - `In england they call a realtor a land agent .`
       - 在英国他们叫作房地产经纪人。

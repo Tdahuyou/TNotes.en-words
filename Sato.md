@@ -1,7 +1,9 @@
 - Sato
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
   - 例句
     - `"I have reason to think this person is missing," a friend seeking Kimiko Sato wrote on the site.`

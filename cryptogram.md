@@ -1,25 +1,37 @@
 - cryptogram
   - 发音
-    - 英 `/'krɪptə(ʊ)græm/`
-    - 美 `/'krɪptə,græm/`
+    - 英
+      - `/'krɪptə(ʊ)græm/`
+    - 美
+      - `/'krɪptə,græm/`
   - 词义
-    - n. 密码
+    - n.
+      - 密码
   - 同根词
     - adj.
-      - `cryptographic` 关于暗号的，用密码写的
-      - `cryptological` 暗号的；密码术的
+      - `cryptographic`
+        - 关于暗号的，用密码写的
+      - `cryptological`
+        - 暗号的；密码术的
     - adv.
-      - `cryptographically` 密码地；用暗号地
+      - `cryptographically`
+        - 密码地；用暗号地
     - n.
-      - `cryptography` 密码学；密码使用法
-      - `cryptanalysis` 密码分析
-      - `cryptographer` 译解密码者；担任密码者
-      - `cryptologic` [通信] 密码逻辑
-      - `cryptology` [军][通信] 密码学；密码术；隐语
+      - `cryptography`
+        - 密码学；密码使用法
+      - `cryptanalysis`
+        - 密码分析
+      - `cryptographer`
+        - 译解密码者；担任密码者
+      - `cryptologic`
+        - [通信] 密码逻辑
+      - `cryptology`
+        - [军][通信] 密码学；密码术；隐语
   - 近义词
-    - n. [计][通信]密码
-      - `password`
-      - `secret code`
+    - n.
+      - [计][通信]密码
+        - `password`
+        - `secret code`
   - 例句
     - `He regarded the universe as a cryptogram set by the Almighty—just as he himself wrapt the discovery of the calculus in cryptogram when he communicated with Leibnitz.`
       - 他将宇宙视为上帝用密文书写的文件——恰如他与莱布尼兹通信时，把自己关于微积分的发现用一种加密的方式书写一样。

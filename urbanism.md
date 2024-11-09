@@ -1,13 +1,17 @@
 - urbanism
   - 发音
-    - 英 `/'ɜːbənɪzəm/`
-    - 美 `/'ɝbən,ɪzəm/`
+    - 英
+      - `/'ɜːbənɪzəm/`
+    - 美
+      - `/'ɝbən,ɪzəm/`
   - 词义
-    - n. 都市生活,都市化
-    - `the character of city life `
+    - n.
+      - 都市生活,都市化
+        - `the character of city life `
   - 近义词
-    - n. 都市生活；都市集中
-      - `urban life`
+    - n.
+      - 都市生活；都市集中
+        - `urban life`
   - 例句
     - `There is no magic formula explaining our attraction to architecture, construction, destruction, cultures and urbanism.`
       - 没有魔法公式能够解释建筑物、建筑、毁坏、文化和都市生活对我们的吸引力。

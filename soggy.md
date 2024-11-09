@@ -1,14 +1,18 @@
 - soggy
   - 发音
-    - 英 `/'sɒgɪ/`
-    - 美 `/'sɑgi/`
+    - 英
+      - `/'sɒgɪ/`
+    - 美
+      - `/'sɑgi/`
   - 词义
-    - adj. 浸水的；透湿的；沉闷的
-    - `unpleasantly wet and soft`
+    - adj.
+      - 浸水的；透湿的；沉闷的
+        - `unpleasantly wet and soft`
   - 近义词
-    - adj. 浸水的；透湿的；沉闷的
-      - `tedious`
-      - `waterishlogged`
+    - adj.
+      - 浸水的；透湿的；沉闷的
+        - `tedious`
+        - `waterishlogged`
   - 例句
     - `The ground was soggy from the rain.`
       - 雨后地面湿透了。

@@ -1,24 +1,32 @@
 - extinguish
   - 发音
-    - 英 `/ɪk'stɪŋgwɪʃ/`
-    - 美 `/ɪk'stɪŋɡwɪʃ/`
+    - 英
+      - `/ɪk'stɪŋgwɪʃ/`
+    - 美
+      - `/ɪk'stɪŋɡwɪʃ/`
   - 词义
-    - vt. 熄灭，扑灭；消灭，毁灭，使破灭
-    - `to make a fire or light stop burning or shining`
+    - vt.
+      - 熄灭，扑灭；消灭，毁灭，使破灭
+        - `to make a fire or light stop burning or shining`
   - 记忆
     - ex(没有) + ting(刺) + uish → 用针刺使没有 → 熄灭， 扑灭； 消灭
   - 同根词
     - adj.
-      - `extinct` 灭绝的，绝种的；熄灭的
-      - `extinguishable` 可熄灭的；可灭绝的
+      - `extinct`
+        - 灭绝的，绝种的；熄灭的
+      - `extinguishable`
+        - 可熄灭的；可灭绝的
     - n.
-      - `extinguisher` 灭火器；消灭者；熄灭者
+      - `extinguisher`
+        - 灭火器；消灭者；熄灭者
     - vt.
-      - `extinct` 使熄灭
+      - `extinct`
+        - 使熄灭
   - 近义词
-    - vt. 熄灭；压制；偿清
-      - `silence`
-      - `go out`
+    - vt.
+      - 熄灭；压制；偿清
+        - `silence`
+        - `go out`
   - 例句
     - `Please extinguish all cigarettes.`
       - 请把香烟都熄灭了。

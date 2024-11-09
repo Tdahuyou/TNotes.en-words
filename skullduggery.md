@@ -1,15 +1,19 @@
 - skullduggery
   - 发音
-    - 英 `/skʌl'dʌgərɪ/`
-    - 美 `/skʌl'dʌɡəri/`
+    - 英
+      - `/skʌl'dʌgərɪ/`
+    - 美
+      - `/skʌl'dʌɡəri/`
   - 词义
-    - n. 欺骗，使诈
+    - n.
+      - 欺骗，使诈
   - 记忆
     - skull(头颅， 脑袋) ＋ dug(挖) ＋ gery → 挖脑袋 → 想方设法作假 → 欺骗， 使诈
   - 近义词
-    - n. 欺骗；使诈
-      - `fraud`
-      - `deception`
+    - n.
+      - 欺骗；使诈
+        - `fraud`
+        - `deception`
   - 例句
     - `There must be political skullduggery afoot!`
       - 一定是政治欺骗。

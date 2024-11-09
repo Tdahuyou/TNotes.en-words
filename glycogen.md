@@ -1,21 +1,28 @@
 - glycogen
   - 发音
-    - 英 `/'glaikəudʒən/`
-    - 美 `/'glaɪkodʒən/`
+    - 英
+      - `/'glaikəudʒən/`
+    - 美
+      - `/'glaɪkodʒən/`
   - 词义
-    - n. 糖原
-    - `a polysaccharide consisting of glucose units: the form in which carbohydrate is stored in the liver and muscles in man and animals`
+    - n.
+      - 糖原
+        - `a polysaccharide consisting of glucose units: the form in which carbohydrate is stored in the liver and muscles in man and animals`
   - 同根词
     - adj.
-      - `glycogenic` 生糖原的；糖原的
+      - `glycogenic`
+        - 生糖原的；糖原的
     - n.
-      - `glycogenesis` [生化] 糖原生成（作用）
+      - `glycogenesis`
+        - [生化] 糖原生成（作用）
   - 近义词
-    - n. [生化]糖原；动物淀粉
-      - `hepatin`
-      - `glucogen`
+    - n.
+      - [生化]糖原；动物淀粉
+        - `hepatin`
+        - `glucogen`
   - 短语
-    - `muscle glycogen` 肌糖原 
+    - `muscle glycogen`
+      - 肌糖原 
   - 例句
     - `Polysaccharides: starch dextrin cellulose and glycogen all of which are made of chains of glucose.`
       - 多糖：淀粉、糊精、纤维素和糖原，而这一切都是由糖链。

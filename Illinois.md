@@ -1,11 +1,15 @@
 - Illinois
   - 发音
-    - 英 `/,ili'nɔi(z)/`
-    - 美 `/,ili'nɔi(z)/`
+    - 英
+      - `/,ili'nɔi(z)/`
+    - 美
+      - `/,ili'nɔi(z)/`
   - 词义
-    - n. 伊利诺斯州(美国州名)
+    - n.
+      - 伊利诺斯州(美国州名)
   - 短语
-    - `university of illinois` 伊利诺伊大学 
+    - `university of illinois`
+      - 伊利诺伊大学 
   - 例句
     - `This year, No Child Left Behind requires 77.5 percent of Illinois students to meet or exceed standards.`
       - 今年，《一个都不能少》规定伊利诺斯州77.5%的学生要达到甚至超过该标准。

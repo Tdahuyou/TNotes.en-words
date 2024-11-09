@@ -1,26 +1,37 @@
 - privatization
   - 发音
-    - 英 `/ˌpraivətai'zeiʃən/`
-    - 美 `/,praɪvətaɪ'zeʃən/`
+    - 英
+      - `/ˌpraivətai'zeiʃən/`
+    - 美
+      - `/,praɪvətaɪ'zeʃən/`
   - 词义
-    - n. 私有化
-    - `the act of privatizing something`
+    - n.
+      - 私有化
+        - `the act of privatizing something`
   - 同根词
     - adj.
-      - `private` 私人的；私有的；私下的
+      - `private`
+        - 私人的；私有的；私下的
     - adv.
-      - `privately` 私下地；秘密地
+      - `privately`
+        - 私下地；秘密地
     - n.
-      - `private` 列兵；二等兵
-      - `privateer` 私掠船；武装民船；私掠船船长；私掠船船员
-      - `privateness` 私人性
+      - `private`
+        - 列兵；二等兵
+      - `privateer`
+        - 私掠船；武装民船；私掠船船长；私掠船船员
+      - `privateness`
+        - 私人性
     - vi.
-      - `privateer` 私掠巡航
+      - `privateer`
+        - 私掠巡航
     - vt.
-      - `privatize` 使私有化；使归私有
+      - `privatize`
+        - 使私有化；使归私有
   - 近义词
-    - n. 私有化
-      - `going private`
+    - n.
+      - 私有化
+        - `going private`
   - 例句
     - `We are a company in the course of privatization, our shares to be issued next month.`
       - 我方为一家正在向私有化转制的公司，我方股票将于下个月发行。 羺。

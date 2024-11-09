@@ -1,9 +1,12 @@
 - bioengineer
   - 发音
-    - 英 `/'baɪəʊ,endʒɪ'nɪə/`
-    - 美 `/'baiəu,endʒi'niə/`
+    - 英
+      - `/'baɪəʊ,endʒɪ'nɪə/`
+    - 美
+      - `/'baiəu,endʒi'niə/`
   - 词义
-    - n. 生物工程师
+    - n.
+      - 生物工程师
   - 记忆
     - bio(生物) + engineer(工程师) → 生物工程师
   - 例句

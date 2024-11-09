@@ -1,14 +1,18 @@
 - bout
   - 发音
-    - 英 `/baʊt/`
-    - 美 `/baʊt/`
+    - 英
+      - `/baʊt/`
+    - 美
+      - `/baʊt/`
   - 词义
-    - n. 回合；较量；发作；一阵
-    - `a short period of time during which you suffer from an illness`
+    - n.
+      - 回合；较量；发作；一阵
+        - `a short period of time during which you suffer from an illness`
   - 近义词
-    - n. 回合；较量；发作；一阵
-      - `blast`
-      - `fit`
+    - n.
+      - 回合；较量；发作；一阵
+        - `blast`
+        - `fit`
   - 例句
     - `a drinking bout`
       - 一番痛饮

@@ -1,9 +1,12 @@
 - unreimbursed
   - 发音
-    - 英 `/ˌʌnriːɪm'bɜːrsd/`
-    - 美 `/undefined/`
+    - 英
+      - `/ˌʌnriːɪm'bɜːrsd/`
+    - 美
+      - `/undefined/`
   - 词义
-    - adj. 未偿还
+    - adj.
+      - 未偿还
   - 记忆
     - 来自reimburse(v. 偿还， 赔付)
   - 例句

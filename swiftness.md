@@ -1,22 +1,30 @@
 - swiftness
   - 发音
-    - 英 `/undefined/`
-    - 美 `/'swiftnis/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/'swiftnis/`
   - 词义
-    - n. 迅速，敏捷
+    - n.
+      - 迅速，敏捷
   - 同根词
     - adj.
-      - `swift` 快的；迅速的；敏捷的；立刻的
+      - `swift`
+        - 快的；迅速的；敏捷的；立刻的
     - adv.
-      - `swift` 迅速地
-      - `swiftly` 很快地；敏捷地；即刻
+      - `swift`
+        - 迅速地
+      - `swiftly`
+        - 很快地；敏捷地；即刻
     - n.
-      - `swift` 褐雨燕
+      - `swift`
+        - 褐雨燕
   - 近义词
-    - n. 迅速，敏捷；快
-      - `velocity`
-      - `speed`
-      - `readiness`
+    - n.
+      - 迅速，敏捷；快
+        - `velocity`
+        - `speed`
+        - `readiness`
   - 例句
     - `The current financial and economic crisis is difficult to appreciate, not only for the drop in elevation, but because of the swiftness of the declines.`
       - 目前的金融与经济危机令我们无所适从，不仅因为经济高度的回落，更是因为回落得如此迅速。

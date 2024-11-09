@@ -1,15 +1,19 @@
 - semicircle
   - 发音
-    - 英 `/'semɪsɜːkl/`
-    - 美 `/'sɛmɪsɝkl/`
+    - 英
+      - `/'semɪsɜːkl/`
+    - 美
+      - `/'sɛmɪsɝkl/`
   - 词义
-    - n. 半圆形
-    - `half a circle`
+    - n.
+      - 半圆形
+        - `half a circle`
   - 记忆
     - semi(半)+circle(圆周，圆形)→半圆
   - 近义词
-    - n. 半圆，半圆形
-      - `hemicycle`
+    - n.
+      - 半圆，半圆形
+        - `hemicycle`
   - 例句
     - `They sit cross-legged in a semicircle and share stories.`
       - 他们盘着腿围成半圆坐在一起讲故事。

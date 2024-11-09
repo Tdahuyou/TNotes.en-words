@@ -1,9 +1,12 @@
 - Norway
   - 发音
-    - 英 `/'nɔ:weɪ/`
-    - 美 `/'nɔrweɪ/`
+    - 英
+      - `/'nɔ:weɪ/`
+    - 美
+      - `/'nɔrweɪ/`
   - 词义
-    - n. 挪威(北欧国家)
+    - n.
+      - 挪威(北欧国家)
   - 例句
     - `Sweden borders Norway and Finland.`
       - 瑞典与挪威、芬兰接壤。

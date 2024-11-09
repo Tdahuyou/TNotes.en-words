@@ -1,11 +1,15 @@
 - Shakespeare
   - 发音
-    - 英 `/ˈʃeɪkspɪə/`
-    - 美 `/'ʃekspɪr/`
+    - 英
+      - `/ˈʃeɪkspɪə/`
+    - 美
+      - `/'ʃekspɪr/`
   - 词义
-    - n. 莎士比亚(1564-1616,英国剧作家,诗人)
+    - n.
+      - 莎士比亚(1564-1616,英国剧作家,诗人)
   - 短语
-    - `shakespeare in love` 莎瓮情史（电影名，等于恋爱中的莎士比亚） 
+    - `shakespeare in love`
+      - 莎瓮情史（电影名，等于恋爱中的莎士比亚） 
   - 例句
     - `He turned to the study of Shakespeare.`
       - 他致力于莎士比亚的研究。

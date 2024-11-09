@@ -1,20 +1,25 @@
 - apportion
   - 发音
-    - 英 `/ə'pɔːrʃn/`
-    - 美 `/ə'pɔrʃən/`
+    - 英
+      - `/ə'pɔːrʃn/`
+    - 美
+      - `/ə'pɔrʃən/`
   - 词义
-    - vt. 分配；分派
-    - `to decide how something should be shared among various people`
+    - vt.
+      - 分配；分派
+        - `to decide how something should be shared among various people`
   - 记忆
     - ap + portion(部分) → 分成部分 → 分配
   - 同根词
     - n.
-      - `apportionment` 分摊；分配；分派
+      - `apportionment`
+        - 分摊；分配；分派
   - 近义词
-    - vt. 分配，分派；分摊
-      - `portion`
-      - `part`
-      - `proportion`
+    - vt.
+      - 分配，分派；分摊
+        - `portion`
+        - `part`
+        - `proportion`
   - 例句
     - `It’s not easy to apportion blame (=  say who deserves to be blamed  ) when a marriage breaks up.`
       - 婚姻破裂很难说是谁的错。

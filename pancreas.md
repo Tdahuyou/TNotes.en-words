@@ -1,17 +1,22 @@
 - pancreas
   - 发音
-    - 英 `/'pæŋkriəs/`
-    - 美 `/'pæŋkrɪəs/`
+    - 英
+      - `/'pæŋkriəs/`
+    - 美
+      - `/'pæŋkrɪəs/`
   - 词义
-    - n. 胰腺
-    - `a  gland  inside your body, near your stomach, that produces  insulin  and a liquid that helps your body to use the food that you eat`
+    - n.
+      - 胰腺
+        - `a  gland  inside your body, near your stomach, that produces  insulin  and a liquid that helps your body to use the food that you eat`
   - 记忆
     - pan(全部) + creas(肉) → 给身体生长提供营养的器官 → 胰腺
   - 同根词
     - adj.
-      - `pancreatic` 胰的；胰腺的
+      - `pancreatic`
+        - 胰的；胰腺的
   - 短语
-    - `pancreas islet` 胰岛 
+    - `pancreas islet`
+      - 胰岛 
   - 例句
     - `Tuberous sclerosis can lead to the formation of fibroids or tumors in the pancreas, bone, and liver.`
       - 结节性硬化症可以导致患者的胰腺、骨骼和肝脏发生纤维瘤或其他肿瘤。

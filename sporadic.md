@@ -1,19 +1,24 @@
 - sporadic
   - 发音
-    - 英 `/spə'rædɪk/`
-    - 美 `/spə'rædɪk/`
+    - 英
+      - `/spə'rædɪk/`
+    - 美
+      - `/spə'rædɪk/`
   - 词义
-    - adj. 偶发的，间或出现的，零星的
-    - `happening fairly often, but not regularly`
+    - adj.
+      - 偶发的，间或出现的，零星的
+        - `happening fairly often, but not regularly`
   - 记忆
     - spor(看做sport， 体育) + ad(广告) + ic → 体育广告不定时出现 → 偶发的， 间或出现的
   - 同根词
     - adv.
-      - `sporadically` 零星地；偶发地
+      - `sporadically`
+        - 零星地；偶发地
   - 近义词
-    - adj. 零星的；分散的；不定时发生的
-      - `scattered`
-      - `dispersive`
+    - adj.
+      - 零星的；分散的；不定时发生的
+        - `scattered`
+        - `dispersive`
   - 例句
     - `There has been sporadic violence downtown.`
       - 市中心时有暴力事件发生。

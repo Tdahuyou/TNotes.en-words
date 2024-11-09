@@ -1,14 +1,18 @@
 - imponderable
   - 发音
-    - 英 `/ɪm'pɑːndərəbl/`
-    - 美 `/ɪm'pɑndərəbl/`
+    - 英
+      - `/ɪm'pɑːndərəbl/`
+    - 美
+      - `/ɪm'pɑndərəbl/`
   - 词义
-    - adj. 无法衡量的
+    - adj.
+      - 无法衡量的
   - 记忆
     - im(不) + ponder(仔细考量) + able → 无法衡量的
   - 近义词
-    - adj. 无重量的；无法计算的
-      - `weightless`
+    - adj.
+      - 无重量的；无法计算的
+        - `weightless`
   - 例句
     - `The effect of his new method is imponderable.`
       - 他的新方法所起的作用是无法正确估计的。

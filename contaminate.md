@@ -1,28 +1,37 @@
 - contaminate
   - 发音
-    - 英 `/kən'tæmɪneɪt/`
-    - 美 `/kən'tæmɪnet/`
+    - 英
+      - `/kən'tæmɪneɪt/`
+    - 美
+      - `/kən'tæmɪnet/`
   - 词义
-    - vt. 污染
-    - `to make a place or substance dirty or harmful by putting something such as chemicals or poison in it`
+    - vt.
+      - 污染
+        - `to make a place or substance dirty or harmful by putting something such as chemicals or poison in it`
   - 记忆
     - con(共同) + tamin(触摸) + ate → 共同触摸脏东西 → 污染
   - 同根词
     - adj.
-      - `contaminated` 受污染的；弄脏的
-      - `contaminative` 污损的；弄脏了的
+      - `contaminated`
+        - 受污染的；弄脏的
+      - `contaminative`
+        - 污损的；弄脏了的
     - n.
-      - `contamination` 污染，玷污；污染物
-      - `contaminant` 污染物；致污物
+      - `contamination`
+        - 污染，玷污；污染物
+      - `contaminant`
+        - 污染物；致污物
     - v.
-      - `contaminated` 污染（contaminate的过去式）
+      - `contaminated`
+        - 污染（contaminate的过去式）
   - 近义词
-    - vt. 污染，弄脏
-      - `soil`
-      - `mud`
-      - `spot`
-      - `dirty`
-      - `poison`
+    - vt.
+      - 污染，弄脏
+        - `soil`
+        - `mud`
+        - `spot`
+        - `dirty`
+        - `poison`
   - 例句
     - `Drinking water supplies are believed to have been contaminated.`
       - 据信饮用水已受到污染。

@@ -1,7 +1,9 @@
 - stronger
   - 发音
-    - 英 `/strɒŋgə(r)/`
-    - 美 `/strɔ:ŋɡər/`
+    - 英
+      - `/strɒŋgə(r)/`
+    - 美
+      - `/strɔ:ŋɡər/`
   - 词义
   - 例句
     - `Then you must be stronger than us.`

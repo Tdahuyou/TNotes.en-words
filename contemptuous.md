@@ -1,19 +1,24 @@
 - contemptuous
   - 发音
-    - 英 `/kən'temptʃuəs/`
-    - 美 `/kən'tɛmptʃuəs/`
+    - 英
+      - `/kən'temptʃuəs/`
+    - 美
+      - `/kən'tɛmptʃuəs/`
   - 词义
-    - adj. 轻蔑的，侮辱的
-    - `showing that you think someone or something deserves no respect`
+    - adj.
+      - 轻蔑的，侮辱的
+        - `showing that you think someone or something deserves no respect`
   - 记忆
     - 来自contempt (n. 轻视)
   - 同根词
     - adv.
-      - `contemptuously` 轻蔑地
+      - `contemptuously`
+        - 轻蔑地
   - 近义词
-    - adj. 轻蔑的；侮辱的
-      - `scornful`
-      - `sniffish`
+    - adj.
+      - 轻蔑的；侮辱的
+        - `scornful`
+        - `sniffish`
   - 例句
     - `a contemptuous glance`
       - 轻蔑的一瞥

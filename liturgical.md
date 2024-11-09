@@ -1,15 +1,21 @@
 - liturgical
   - 发音
-    - 英 `/lɪ'tɜːdʒɪk(ə)l/`
-    - 美 `/undefined/`
+    - 英
+      - `/lɪ'tɜːdʒɪk(ə)l/`
+    - 美
+      - `/undefined/`
   - 词义
-    - adj. 礼拜式的
-    - `relating to church services and ceremonies`
+    - adj.
+      - 礼拜式的
+        - `relating to church services and ceremonies`
   - 同根词
     - n.
-      - `liturgy` 礼拜仪式；圣餐仪式；祷告文
-      - `liturgics` 礼拜学；祭典学
-      - `liturgist` 礼拜仪式的权威
+      - `liturgy`
+        - 礼拜仪式；圣餐仪式；祷告文
+      - `liturgics`
+        - 礼拜学；祭典学
+      - `liturgist`
+        - 礼拜仪式的权威
   - 例句
     - `He read it loudly, his hands on his ears, in a passionate voice, following a liturgical rhythm.`
       - 他按照礼拜仪式的韵律，手捂着耳朵，以充满激情的声音大声地朗读起来。

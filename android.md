@@ -1,15 +1,19 @@
 - android
   - 发音
-    - 英 `/'ændrɒɪd/`
-    - 美 `/'ændrɔɪd/`
+    - 英
+      - `/'ændrɒɪd/`
+    - 美
+      - `/'ændrɔɪd/`
   - 词义
-    - n. 机器人
-    - `a  robot  that looks completely human`
+    - n.
+      - 机器人
+        - `a  robot  that looks completely human`
   - 近义词
-    - n. 机器人
-      - `robot`
-      - `droid`
-      - `Automatons`
+    - n.
+      - 机器人
+        - `robot`
+        - `droid`
+        - `Automatons`
   - 例句
     - `Actually, I like being an android.`
       - 事实上，我喜欢做个机器人。

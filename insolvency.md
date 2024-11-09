@@ -1,21 +1,27 @@
 - insolvency
   - 发音
-    - 英 `/ɪn'sɑːlvənsi/`
-    - 美 `/ɪn'sɑlvənsi/`
+    - 英
+      - `/ɪn'sɑːlvənsi/`
+    - 美
+      - `/ɪn'sɑlvənsi/`
   - 词义
-    - n. 无力偿还；破产
-    - `Insolvency is the state of not having enough money to pay your debts`
+    - n.
+      - 无力偿还；破产
+        - `Insolvency is the state of not having enough money to pay your debts`
   - 记忆
     - in(无) + solvency(还债能力) → 无还债能力 → 无力偿还
   - 同根词
     - adj.
-      - `insolvent` 破产的；无力偿还的
+      - `insolvent`
+        - 破产的；无力偿还的
     - n.
-      - `insolvent` 破产者；无力偿还者
+      - `insolvent`
+        - 破产者；无力偿还者
   - 近义词
-    - n. 破产，无力偿还；倒闭
-      - `bankruptcy`
-      - `failure`
+    - n.
+      - 破产，无力偿还；倒闭
+        - `bankruptcy`
+        - `failure`
   - 例句
     - `...eight mortgage companies, seven of which are on the brink of insolvency.`
       - …8家抵押贷款公司，其中7家濒临破产。

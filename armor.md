@@ -1,28 +1,41 @@
 - armor
   - 发音
-    - 英 `/'ɑ:mə/`
-    - 美 `/'ɑrmɚ/`
+    - 英
+      - `/'ɑ:mə/`
+    - 美
+      - `/'ɑrmɚ/`
   - 词义
-    - n. 装甲
-    - v. 为…装甲
+    - n.
+      - 装甲
+    - v.
+      - 为…装甲
   - 同根词
     - adj.
-      - `armed` 武装的；有扶手的；有防卫器官的（指动物）
-      - `armored` 装甲的
+      - `armed`
+        - 武装的；有扶手的；有防卫器官的（指动物）
+      - `armored`
+        - 装甲的
     - n.
-      - `arm` 手臂；武器；袖子；装备
-      - `arming` 武装；装备；徽章
+      - `arm`
+        - 手臂；武器；袖子；装备
+      - `arming`
+        - 武装；装备；徽章
     - vi.
-      - `arm` 武装起来
+      - `arm`
+        - 武装起来
     - vt.
-      - `arm` 武装；备战
+      - `arm`
+        - 武装；备战
   - 近义词
-    - n. [军]装甲；盔甲
-      - `mail`
-      - `helmets`
+    - n.
+      - [军]装甲；盔甲
+        - `mail`
+        - `helmets`
   - 短语
-    - `armor plate` 装甲板 
-    - `body armor` 防弹衣，护身服 
+    - `armor plate`
+      - 装甲板 
+    - `body armor`
+      - 防弹衣，护身服 
   - 例句
     - `The leading role in the film is costumed in medieval armor.`
       - 影片中的主角穿着中古时代的甲胄。

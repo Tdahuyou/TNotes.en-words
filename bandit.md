@@ -1,19 +1,25 @@
 - bandit
   - 发音
-    - 英 `/'bændɪt/`
-    - 美 `/'bændɪt/`
+    - 英
+      - `/'bændɪt/`
+    - 美
+      - `/'bændɪt/`
   - 词义
-    - n. 强盗，土匪；恶棍；敲诈者
-    - `someone who robs people, especially one of a group of people who attack travellers`
+    - n.
+      - 强盗，土匪；恶棍；敲诈者
+        - `someone who robs people, especially one of a group of people who attack travellers`
   - 同根词
     - n.
-      - `banditry` 土匪行为；盗贼行为；贼党
+      - `banditry`
+        - 土匪行为；盗贼行为；贼党
   - 近义词
-    - n. 强盗，土匪；恶棍；敲诈者
-      - `tough`
-      - `robber`
+    - n.
+      - 强盗，土匪；恶棍；敲诈者
+        - `tough`
+        - `robber`
   - 短语
-    - `one-arm bandit` [美俚]吃角子老虎机 
+    - `one-arm bandit`
+      - [美俚]吃角子老虎机 
   - 例句
     - `They travelled 30 miles through bandit country.`
       - 他们走了30英里，穿过强盗横行的乡间。

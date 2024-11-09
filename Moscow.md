@@ -1,7 +1,9 @@
 - Moscow
   - 发音
-    - 英 `/'mɔskəʊ/`
-    - 美 `/ˈmɑsˌkaʊ/`
+    - 英
+      - `/'mɔskəʊ/`
+    - 美
+      - `/ˈmɑsˌkaʊ/`
   - 词义
   - 例句
     - `Must go... to Moscow!`

@@ -1,12 +1,16 @@
 - stygian
   - 发音
-    - 英 `/'stɪdʒiən/`
-    - 美 `/undefined/`
+    - 英
+      - `/'stɪdʒiən/`
+    - 美
+      - `/undefined/`
   - 词义
-    - adj. 阴暗的，阴森森的
+    - adj.
+      - 阴暗的，阴森森的
   - 记忆
     - 来自Styx(n. 地狱冥河)
   - 近义词
-    - adj. 阴暗的，幽暗的；地狱的
-      - `lowery`
-      - `scuzzy`
+    - adj.
+      - 阴暗的，幽暗的；地狱的
+        - `lowery`
+        - `scuzzy`

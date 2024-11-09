@@ -1,13 +1,17 @@
 - amethyst
   - 发音
-    - 英 `/'æməθɪst/`
-    - 美 `/'æməθɪst/`
+    - 英
+      - `/'æməθɪst/`
+    - 美
+      - `/'æməθɪst/`
   - 词义
-    - n. [矿]紫水晶,紫色
-    - `a valuable purple stone used in jewellery`
+    - n.
+      - [矿]紫水晶,紫色
+        - `a valuable purple stone used in jewellery`
   - 近义词
-    - n. [宝]紫水晶；紫晶；紫色
-      - `lila`
+    - n.
+      - [宝]紫水晶；紫晶；紫色
+        - `lila`
   - 例句
     - `The necklace consisted of amethysts set in gold.`
       - 这条项链是金镶紫水晶的。

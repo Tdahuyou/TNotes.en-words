@@ -1,9 +1,12 @@
 - behaviorist
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 行为主义者,行为科学家
+    - n.
+      - 行为主义者,行为科学家
   - 例句
     - `And from a behaviorist point of view this is because of the associative history of these things.`
       - 在行为主义者看来,这是在这些事物之间的联结历史造成的。

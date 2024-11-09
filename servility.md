@@ -1,12 +1,17 @@
 - servility
   - 发音
-    - 英 `/sɜː'vɪlɪtɪ/`
-    - 美 `/undefined/`
+    - 英
+      - `/sɜː'vɪlɪtɪ/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 奴性；奴态；卑屈
+    - n.
+      - 奴性；奴态；卑屈
   - 同根词
     - adj.
-      - `servile` 奴隶的；奴性的；卑屈的；卑屈的
+      - `servile`
+        - 奴隶的；奴性的；卑屈的；卑屈的
   - 近义词
-    - n. 奴性；奴态；卑屈
-      - `slavishness`
+    - n.
+      - 奴性；奴态；卑屈
+        - `slavishness`

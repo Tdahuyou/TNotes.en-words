@@ -1,22 +1,30 @@
 - egoism
   - 发音
-    - 英 `/'iːgəuizəm/`
-    - 美 `/'ɛɡoɪzəm/`
+    - 英
+      - `/'iːgəuizəm/`
+    - 美
+      - `/'ɛɡoɪzəm/`
   - 词义
-    - n. 自我主义；利己主义
+    - n.
+      - 自我主义；利己主义
   - 记忆
     - ego (自己) + ism (表示“主义”) → 只顾自己的主义 → 自我主义
   - 同根词
     - adj.
-      - `egoistic` 自私自利的，自我中心的
-      - `egoistical` 自私自利的；自我中心的；利已主义的
+      - `egoistic`
+        - 自私自利的，自我中心的
+      - `egoistical`
+        - 自私自利的；自我中心的；利已主义的
     - n.
-      - `ego` 自我；自负；自我意识
-      - `egoist` 自我主义者；利己主义者
+      - `ego`
+        - 自我；自负；自我意识
+      - `egoist`
+        - 自我主义者；利己主义者
   - 近义词
-    - n. 利己主义，自我主义
-      - `individualism`
-      - `egocentrism`
+    - n.
+      - 利己主义，自我主义
+        - `individualism`
+        - `egocentrism`
   - 例句
     - `They seemed to love the land and the people with a sort of fierce egoism.`
       - 他们似乎是带著强烈的利己主义来爱这里的人和土地的。

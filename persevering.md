@@ -1,23 +1,32 @@
 - persevering
   - 发音
-    - 英 `/,pɜːsɪ'vɪərɪŋ/`
-    - 美 `/'pɝsə'vɪrɪŋ/`
+    - 英
+      - `/,pɜːsɪ'vɪərɪŋ/`
+    - 美
+      - `/'pɝsə'vɪrɪŋ/`
   - 词义
-    - adj. 坚忍的,不屈不挠的
+    - adj.
+      - 坚忍的,不屈不挠的
   - 同根词
     - adv.
-      - `perseveringly` 坚定地
+      - `perseveringly`
+        - 坚定地
     - n.
-      - `perseverance` 坚持不懈；不屈不挠
+      - `perseverance`
+        - 坚持不懈；不屈不挠
     - vi.
-      - `persevere` 坚持；不屈不挠；固执己见（在辩论中）
+      - `persevere`
+        - 坚持；不屈不挠；固执己见（在辩论中）
   - 近义词
-    - adj. 坚忍的；不屈不挠的
-      - `tough`
-      - `unremitting`
+    - adj.
+      - 坚忍的；不屈不挠的
+        - `tough`
+        - `unremitting`
   - 短语
-    - `persevere in` 坚持 
-    - `persevere with` 坚持 
+    - `persevere in`
+      - 坚持 
+    - `persevere with`
+      - 坚持 
   - 例句
     - `Success belongs to the persevering.`
       - 成功属于不屈不挠的人。

@@ -1,12 +1,16 @@
 - infinitesimally
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - adv. 极小地
+    - adv.
+      - 极小地
   - 近义词
-    - adv. 极小地
-      - `tinily`
+    - adv.
+      - 极小地
+        - `tinily`
   - 例句
     - `That may not seem like much, especially given the proton's infinitesimally tiny size.`
       - 这也许并不起眼，尤其是考虑到质子极小的尺寸。

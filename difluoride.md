@@ -1,9 +1,12 @@
 - difluoride
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 二氟化物
+    - n.
+      - 二氟化物
   - 例句
     - `It reacts violently with oxygen difluoride and barium peroxide .`
       - 一氧化碳同氟化氧、氧化钡会发生剧烈反应。

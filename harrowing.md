@@ -1,27 +1,38 @@
 - harrowing
   - 发音
-    - 英 `/'hærəʊɪŋ/`
-    - 美 `/'hæroɪŋ/`
+    - 英
+      - `/'hærəʊɪŋ/`
+    - 美
+      - `/'hæroɪŋ/`
   - 词义
-    - adj. 痛心的；悲惨的
-    - `very frightening or shocking and making you feel very upset`
-    - v. 使痛苦（harrow的ing形式）；开拓
-    - n. (Harrowing)人名；(英)哈罗因
+    - adj.
+      - 痛心的；悲惨的
+        - `very frightening or shocking and making you feel very upset`
+    - v.
+      - 使痛苦（harrow的ing形式）；开拓
+    - n.
+      - (Harrowing)人名；(英)哈罗因
   - 同根词
     - n.
-      - `harrow` 耙
+      - `harrow`
+        - 耙
     - vi.
-      - `harrow` 被耙松
+      - `harrow`
+        - 被耙松
     - vt.
-      - `harrow` 耙地；使苦恼
+      - `harrow`
+        - 耙地；使苦恼
   - 近义词
-    - adj. 痛心的；悲惨的
-      - `miserable`
-      - `catastrophic`
-    - v. 使痛苦（harrow的ing形式）；开拓
-      - `distressing`
+    - adj.
+      - 痛心的；悲惨的
+        - `miserable`
+        - `catastrophic`
+    - v.
+      - 使痛苦（harrow的ing形式）；开拓
+        - `distressing`
   - 短语
-    - `disc harrow` 圆盘耙；圆片耙 
+    - `disc harrow`
+      - 圆盘耙；圆片耙 
   - 例句
     - `a harrowing experience`
       - 可怕的经历

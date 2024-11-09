@@ -1,25 +1,33 @@
 - reconnoiter
   - 发音
-    - 英 `/ˌrekə'nɔitə/`
-    - 美 `/,rikə'nɔɪtɚ/`
+    - 英
+      - `/ˌrekə'nɔitə/`
+    - 美
+      - `/,rikə'nɔɪtɚ/`
   - 词义
-    - v. 侦察；勘查
+    - v.
+      - 侦察；勘查
   - 记忆
     - re + connoiter (观察， 源自法语) → 侦察
   - 同根词
     - n.
-      - `reconnoitre` 侦察；踏勘
+      - `reconnoitre`
+        - 侦察；踏勘
     - vi.
-      - `reconnoitre` 侦察；勘探
+      - `reconnoitre`
+        - 侦察；勘探
     - vt.
-      - `reconnoitre` 侦察；勘探
+      - `reconnoitre`
+        - 侦察；勘探
   - 近义词
-    - vt. 侦察，勘查
-      - `spy`
-      - `scout around`
-    - vi. 侦察，探究
-      - `scout around`
-      - `probe into`
+    - vt.
+      - 侦察，勘查
+        - `spy`
+        - `scout around`
+    - vi.
+      - 侦察，探究
+        - `scout around`
+        - `probe into`
   - 例句
     - `Conceal, reconnoiter, assault!`
       - 潜伏，侦察，突击！

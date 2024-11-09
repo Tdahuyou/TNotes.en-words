@@ -1,43 +1,69 @@
 - professor
   - 发音
-    - 英 `/prə'fesə/`
-    - 美 `/prə'fɛsɚ/`
+    - 英
+      - `/prə'fesə/`
+    - 美
+      - `/prə'fɛsɚ/`
   - 词义
-    - n. 教授
+    - n.
+      - 教授
   - 同根词
     - adj.
-      - `professed` 声称的；公开承认的；伪称的
-      - `professorial` 教授的；学者派头的；教授似的
+      - `professed`
+        - 声称的；公开承认的；伪称的
+      - `professorial`
+        - 教授的；学者派头的；教授似的
     - adv.
-      - `professedly` 在表面上；公然地；专业地
+      - `professedly`
+        - 在表面上；公然地；专业地
     - n.
-      - `profession` 职业，专业；声明，宣布，表白
-      - `professorship` [劳经] 教授职位
+      - `profession`
+        - 职业，专业；声明，宣布，表白
+      - `professorship`
+        - [劳经] 教授职位
     - v.
-      - `professed` 声称；断言；伪称（profess的过去分词）
+      - `professed`
+        - 声称；断言；伪称（profess的过去分词）
     - vi.
-      - `profess` 声称；承认；当教授
+      - `profess`
+        - 声称；承认；当教授
     - vt.
-      - `profess` 自称；公开表示；宣称信奉；正式准予加入
+      - `profess`
+        - 自称；公开表示；宣称信奉；正式准予加入
   - 近义词
-    - n. 教授；教师；公开表示信仰的人
-      - `teacher`
-      - `master`
+    - n.
+      - 教授；教师；公开表示信仰的人
+        - `teacher`
+        - `master`
   - 短语
-    - `associate professor` 副教授 
-    - `assistant professor` n. 助理教授（级别高于讲师而低于副教授） 
-    - `university professor` 大学教授 
-    - `visiting professor` n. 客座教授 
-    - `college professor` 大学教授 
-    - `absent-minded professor` 做事心不在焉者；无头苍蝇；健忘的人 
-    - `guest professor` 客座教授 
-    - `adjunct professor` 兼职教授，副教授 
-    - `research professor` 研究教授；研究讲座教授 
-    - `distinguished professor` 特聘教授 
-    - `honorary professor` 名誉教授 
-    - `emeritus professor` 名誉教授；荣誉教授；荣誉退休教授 
-    - `full professor` n. 正教授 
-    - `regius professor` （尤指牛津、剑桥大学的）钦定讲座教授 
+    - `associate professor`
+      - 副教授 
+    - `assistant professor`
+      - n. 助理教授（级别高于讲师而低于副教授） 
+    - `university professor`
+      - 大学教授 
+    - `visiting professor`
+      - n. 客座教授 
+    - `college professor`
+      - 大学教授 
+    - `absent-minded professor`
+      - 做事心不在焉者；无头苍蝇；健忘的人 
+    - `guest professor`
+      - 客座教授 
+    - `adjunct professor`
+      - 兼职教授，副教授 
+    - `research professor`
+      - 研究教授；研究讲座教授 
+    - `distinguished professor`
+      - 特聘教授 
+    - `honorary professor`
+      - 名誉教授 
+    - `emeritus professor`
+      - 名誉教授；荣誉教授；荣誉退休教授 
+    - `full professor`
+      - n. 正教授 
+    - `regius professor`
+      - （尤指牛津、剑桥大学的）钦定讲座教授 
   - 例句
     - `The professor improvised a poem in the class.`
       - 教授在课堂上即兴创作了一首诗。

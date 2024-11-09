@@ -1,16 +1,21 @@
 - contumelious
   - 发音
-    - 英 `/,kɒntjʊ'miːlɪəs/`
-    - 美 `/,kɔntju:'mi:ljəs/`
+    - 英
+      - `/,kɒntjʊ'miːlɪəs/`
+    - 美
+      - `/,kɔntju:'mi:ljəs/`
   - 词义
-    - adj. 傲慢的,侮辱性的
+    - adj.
+      - 傲慢的,侮辱性的
   - 同根词
     - n.
-      - `contumely` 侮辱；无礼；傲慢
+      - `contumely`
+        - 侮辱；无礼；傲慢
   - 近义词
-    - adj. 傲慢的；侮辱性的
-      - `assuming`
-      - `arrogant`
+    - adj.
+      - 傲慢的；侮辱性的
+        - `assuming`
+        - `arrogant`
   - 例句
     - `Furthermore, the aggressor wrote contumelious words aft .`
       - 更有甚者， 侵略者在船尾写了侮辱性的话。

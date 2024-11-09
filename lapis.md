@@ -1,11 +1,15 @@
 - lapis
   - 发音
-    - 英 `/'læpɪs/`
-    - 美 `/'lepɪs/`
+    - 英
+      - `/'læpɪs/`
+    - 美
+      - `/'lepɪs/`
   - 词义
-    - n. [化]天青石(常用于化学中的矿物命名)
+    - n.
+      - [化]天青石(常用于化学中的矿物命名)
   - 短语
-    - `lapis lazuli` 天青石；天青石色 
+    - `lapis lazuli`
+      - 天青石；天青石色 
   - 例句
     - `Featuring painting, illumination and calligraphy, the imagery is worked in bright color — predominantly lapis — and several tones of gold.`
       - 图像的色彩绚丽，主要为天青石色，亦配有几种不同色调的金色。

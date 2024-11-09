@@ -1,22 +1,33 @@
 - haystack
   - 发音
-    - 英 `/'heɪstæk/`
-    - 美 `/'hestæk/`
+    - 英
+      - `/'heɪstæk/`
+    - 美
+      - `/'hestæk/`
   - 词义
-    - n. 干草堆
-    - `a large, firmly built pile of hay`
+    - n.
+      - 干草堆
+        - `a large, firmly built pile of hay`
   - 同根词
     - n.
-      - `hay` 干草
-      - `haymaker` 干草机；制作干草的人；强力一击
-      - `haymaking` 制备干草；利用机会
-      - `hayseed` 乡巴佬；干草种子，干草屑
+      - `hay`
+        - 干草
+      - `haymaker`
+        - 干草机；制作干草的人；强力一击
+      - `haymaking`
+        - 制备干草；利用机会
+      - `hayseed`
+        - 乡巴佬；干草种子，干草屑
     - vi.
-      - `hay` 割草晒干
-      - `haymaking` 割晒牧草
+      - `hay`
+        - 割草晒干
+      - `haymaking`
+        - 割晒牧草
     - vt.
-      - `hay` 把晒干
+      - `hay`
+        - 把晒干
   - 近义词
-    - n. 干草堆
-      - `wase`
-      - `rick`
+    - n.
+      - 干草堆
+        - `wase`
+        - `rick`

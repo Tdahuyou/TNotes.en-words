@@ -1,22 +1,30 @@
 - pontiff
   - 发音
-    - 英 `/'pɔntif/`
-    - 美 `/'pɑntɪf/`
+    - 英
+      - `/'pɔntif/`
+    - 美
+      - `/'pɑntɪf/`
   - 词义
-    - n. 罗马教皇；主教
-    - `the Pope`
+    - n.
+      - 罗马教皇；主教
+        - `the Pope`
   - 同根词
     - adj.
-      - `pontifical` 罗马教宗的；主教的
+      - `pontifical`
+        - 罗马教宗的；主教的
     - n.
-      - `pontificate` 教皇的职位
-      - `pontifical` 主教仪典书；主教祭服及徽章
+      - `pontificate`
+        - 教皇的职位
+      - `pontifical`
+        - 主教仪典书；主教祭服及徽章
     - vi.
-      - `pontificate` 执行教皇职务；武断地表示意见
+      - `pontificate`
+        - 执行教皇职务；武断地表示意见
   - 近义词
-    - n. 主教，教皇；罗马教宗
-      - `bishop`
-      - `pope`
+    - n.
+      - 主教，教皇；罗马教宗
+        - `bishop`
+        - `pope`
   - 例句
     - `The Pontiff celebrated mass in Mexico City.`
       - 教皇在墨西哥城主持了弥撒。

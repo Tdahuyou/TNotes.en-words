@@ -1,32 +1,44 @@
 - prose
   - 发音
-    - 英 `/prouz/`
-    - 美 `/proz/`
+    - 英
+      - `/prouz/`
+    - 美
+      - `/proz/`
   - 词义
-    - n. 散文
-    - `language in its usual form, as opposed to poetry`
+    - n.
+      - 散文
+        - `language in its usual form, as opposed to poetry`
   - 记忆
     - p + rose(玫瑰) → 在散文中， 玫瑰象征着美好的爱情 → 散文
   - 同根词
     - adj.
-      - `prosaic` 平凡的，乏味的；散文体的
-      - `prosy` 散文的；散文体的；单调的
+      - `prosaic`
+        - 平凡的，乏味的；散文体的
+      - `prosy`
+        - 散文的；散文体的；单调的
     - adv.
-      - `prosaically` 平凡地；散文式地
-      - `prosily` 无趣味地；用散文体地
+      - `prosaically`
+        - 平凡地；散文式地
+      - `prosily`
+        - 无趣味地；用散文体地
     - n.
-      - `prosiness` 单调，平凡；散文体
+      - `prosiness`
+        - 单调，平凡；散文体
   - 近义词
-    - n. 散文；单调
-      - `essay`
-      - `monotony`
-    - adj. 散文的；平凡的；乏味的
-      - `ordinary`
-      - `stock`
-      - `stupid`
+    - n.
+      - 散文；单调
+        - `essay`
+        - `monotony`
+    - adj.
+      - 散文的；平凡的；乏味的
+        - `ordinary`
+        - `stock`
+        - `stupid`
   - 短语
-    - `prose poem` n. 散文诗 
-    - `descriptive prose` 描写性散文 
+    - `prose poem`
+      - n. 散文诗 
+    - `descriptive prose`
+      - 描写性散文 
   - 例句
     - `Shute's prose is stark and chillingly unsentimental.`
       - 舒特的散文刻板而冷峻。

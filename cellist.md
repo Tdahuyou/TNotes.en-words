@@ -1,10 +1,13 @@
 - cellist
   - 发音
-    - 英 `/'tʃelɪst/`
-    - 美 `/'tʃɛlɪst/`
+    - 英
+      - `/'tʃelɪst/`
+    - 美
+      - `/'tʃɛlɪst/`
   - 词义
-    - n. 大提琴演奏家
-    - `someone who plays the cello`
+    - n.
+      - 大提琴演奏家
+        - `someone who plays the cello`
   - 例句
     - `Who can deny his stature as the world's greatest cellist?`
       - 谁能否认他是世界上最伟大的大提琴演奏家呢? ?。

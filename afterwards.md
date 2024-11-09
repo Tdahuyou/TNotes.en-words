@@ -1,21 +1,27 @@
 - afterwards
   - 发音
-    - 英 `/'ɑːftəwədz/`
-    - 美 `/'æftɚwɚdz/`
+    - 英
+      - `/'ɑːftəwədz/`
+    - 美
+      - `/'æftɚwɚdz/`
   - 词义
-    - adv. 然后,后来地
-    - `after an event or time that has already been mentioned`
+    - adv.
+      - 然后,后来地
+        - `after an event or time that has already been mentioned`
   - 同根词
     - adv.
-      - `afterward` 以后，后来
+      - `afterward`
+        - 以后，后来
     - n.
-      - `afterthought` 事后的想法；后来添加的东西
+      - `afterthought`
+        - 事后的想法；后来添加的东西
   - 近义词
-    - adv. 后来；然后
-      - `then`
-      - `next`
-      - `since`
-      - `subsequently`
+    - adv.
+      - 后来；然后
+        - `then`
+        - `next`
+        - `since`
+        - `subsequently`
   - 例句
     - `Charles arrived shortly afterwards .`
       - 过了不多久，查尔斯来了。

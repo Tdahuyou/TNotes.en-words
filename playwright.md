@@ -1,15 +1,19 @@
 - playwright
   - 发音
-    - 英 `/'pleɪraɪt/`
-    - 美 `/'pleraɪt/`
+    - 英
+      - `/'pleɪraɪt/`
+    - 美
+      - `/'pleraɪt/`
   - 词义
-    - n. 剧作家
-    - `someone who writes plays`
+    - n.
+      - 剧作家
+        - `someone who writes plays`
   - 记忆
     - play(戏剧) + wright(制造者) → 剧作家
   - 近义词
-    - n. 剧作家
-      - `dramatist`
+    - n.
+      - 剧作家
+        - `dramatist`
   - 例句
     - `The playwright does something remarkable in this scene, but without any impression of straining after an effect.`
       - 剧作家在这场中有许多惊人妙笔，但并不给人留下竭力追求表面效果的印象。

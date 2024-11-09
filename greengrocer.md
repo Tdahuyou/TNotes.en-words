@@ -1,15 +1,19 @@
 - greengrocer
   - 发音
-    - 英 `/'griːngrəʊsə/`
-    - 美 `/'ɡrinɡrosɚ/`
+    - 英
+      - `/'griːngrəʊsə/`
+    - 美
+      - `/'ɡrinɡrosɚ/`
   - 词义
-    - n. 果蔬商；蔬菜水果店
-    - `someone who owns or works in a shop selling fruit and vegetables`
+    - n.
+      - 果蔬商；蔬菜水果店
+        - `someone who owns or works in a shop selling fruit and vegetables`
   - 记忆
     - green(绿色的)+grocer(零售商)→蔬菜水果商
   - 同根词
     - n.
-      - `greengrocery` 蔬菜水果零售商
+      - `greengrocery`
+        - 蔬菜水果零售商
   - 例句
     - `a greengrocer’s shop`
       - 蔬菜水果店

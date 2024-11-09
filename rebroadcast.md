@@ -1,18 +1,24 @@
 - rebroadcast
   - 发音
-    - 英 `/rɪ'brɔːdkæst/`
-    - 美 `/,ri'brɔdkæst/`
+    - 英
+      - `/rɪ'brɔːdkæst/`
+    - 美
+      - `/,ri'brɔdkæst/`
   - 词义
-    - v. 重播
+    - v.
+      - 重播
   - 近义词
-    - vt. [广播]重播；转播
-      - `relay broadcasting`
-      - `retransmit`
-    - vi. [广播]重播；转播
-      - `relay broadcasting`
-    - n. [广播]重播；转播；重播（或转播）的节目
-      - `retransmission`
-      - `rediffusion`
+    - vt.
+      - [广播]重播；转播
+        - `relay broadcasting`
+        - `retransmit`
+    - vi.
+      - [广播]重播；转播
+        - `relay broadcasting`
+    - n.
+      - [广播]重播；转播；重播（或转播）的节目
+        - `retransmission`
+        - `rediffusion`
   - 例句
     - `There's no rebroadcast of the soccer game tonight.`
       - 今晚没有足球赛的转播了。

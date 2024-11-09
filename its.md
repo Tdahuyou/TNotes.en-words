@@ -1,11 +1,15 @@
 - its
   - 发音
-    - 英 `/ɪts/`
-    - 美 `/ɪts/`
+    - 英
+      - `/ɪts/`
+    - 美
+      - `/ɪts/`
   - 词义
-    - pron. 它的
+    - pron.
+      - 它的
   - 短语
-    - `as it were` 可以说是，似乎就是；好像 
+    - `as it were`
+      - 可以说是，似乎就是；好像 
   - 例句
     - `He emphasized its importance to me.`
       - 他向我强调它的重要性。

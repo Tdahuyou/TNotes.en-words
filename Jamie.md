@@ -1,11 +1,15 @@
 - Jamie
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 杰米（男名）
+    - n.
+      - 杰米（男名）
   - 短语
-    - `jamie foxx` 杰米·福克斯（美国著名男影星） 
+    - `jamie foxx`
+      - 杰米·福克斯（美国著名男影星） 
   - 例句
     - `"Contractors are using fine print to deny women like Jamie Leigh Jones their day in court, " he said in a Senate debate.`
       - “承包商钻了法律的空子，拒绝类似杰米·雷·琼斯遭遇的妇女走向法庭。” 他在参议院辩论上说。

@@ -1,19 +1,26 @@
 - erase
   - 发音
-    - 英 `/ɪ'reɪz/`
-    - 美 `/ɪ'res/`
+    - 英
+      - `/ɪ'reɪz/`
+    - 美
+      - `/ɪ'res/`
   - 词义
-    - v. 抹去；擦除
-    - `to remove information from a computer memory or recorded sounds from a tape`
+    - v.
+      - 抹去；擦除
+        - `to remove information from a computer memory or recorded sounds from a tape`
   - 同根词
     - adj.
-      - `erasable` 可消除的；可抹去的；可删除的
+      - `erasable`
+        - 可消除的；可抹去的；可删除的
     - n.
-      - `eraser` 擦除器；[计] 清除器
-      - `erasure` 消除；涂擦的痕迹；消磁
+      - `eraser`
+        - 擦除器；[计] 清除器
+      - `erasure`
+        - 消除；涂擦的痕迹；消磁
   - 近义词
-    - vt. 抹去；擦除
-      - `efface`
+    - vt.
+      - 抹去；擦除
+        - `efface`
   - 例句
     - `The computer crashed, and all our records were erased.`
       - 计算机瘫痪了，我们所有的记录都被删除了。

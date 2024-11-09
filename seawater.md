@@ -1,14 +1,18 @@
 - seawater
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 海水
-    - `salty water from the sea`
+    - n.
+      - 海水
+        - `salty water from the sea`
   - 近义词
-    - n. 海水
-      - `marine water`
-      - `saline water`
+    - n.
+      - 海水
+        - `marine water`
+        - `saline water`
   - 例句
     - `Their answer is to spray them with seawater.`
       - 他们的答案是把海水喷到云层上。

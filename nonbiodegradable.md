@@ -1,9 +1,12 @@
 - nonbiodegradable
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - adj. 非生物降解的；不能生物降解的
+    - adj.
+      - 非生物降解的；不能生物降解的
   - 记忆
     - non(不) + bio(生物) + degradable(可降解) → 不能生物降解的
   - 例句

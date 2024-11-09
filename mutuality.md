@@ -1,21 +1,29 @@
 - mutuality
   - 发音
-    - 英 `/'mjuːtʃʊ'ælətɪ/`
-    - 美 `/ˌmjuːtʃuˈæləti/`
+    - 英
+      - `/'mjuːtʃʊ'ælətɪ/`
+    - 美
+      - `/ˌmjuːtʃuˈæləti/`
   - 词义
-    - n. 相互关系,相关
+    - n.
+      - 相互关系,相关
   - 同根词
     - adj.
-      - `mutual` 共同的；相互的，彼此的
+      - `mutual`
+        - 共同的；相互的，彼此的
     - adv.
-      - `mutually` 互相地；互助
+      - `mutually`
+        - 互相地；互助
     - n.
-      - `mutualism` [生态] 共栖，互利共生；互助论
-      - `mutualist` 互助论者；共生生物
+      - `mutualism`
+        - [生态] 共栖，互利共生；互助论
+      - `mutualist`
+        - 互助论者；共生生物
   - 近义词
-    - n. 相互关系，相关；亲密
-      - `correlation`
-      - `interrelation`
+    - n.
+      - 相互关系，相关；亲密
+        - `correlation`
+        - `interrelation`
   - 例句
     - `The idea is create an organisation embracing mutuality as well as free market capitalism.`
       - 其理念是建造一个使互惠关系和自由资本市场兼容并蓄的组织。

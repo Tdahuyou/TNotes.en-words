@@ -1,31 +1,44 @@
 - lawful
   - 发音
-    - 英 `/'lɔːfʊl; -f(ə)l/`
-    - 美 `/'lɔfl/`
+    - 英
+      - `/'lɔːfʊl; -f(ə)l/`
+    - 美
+      - `/'lɔfl/`
   - 词义
-    - adj. 合法的；法定的；法律许可的
-    - `allowed or recognized by law`
+    - adj.
+      - 合法的；法定的；法律许可的
+        - `allowed or recognized by law`
   - 同根词
     - adj.
-      - `lawless` 非法的；无法律的
+      - `lawless`
+        - 非法的；无法律的
     - adv.
-      - `lawfully` 合法地；守法地
-      - `lawlessly` 非法地
+      - `lawfully`
+        - 合法地；守法地
+      - `lawlessly`
+        - 非法地
     - n.
-      - `law` 法律；规律；法治；法学；诉讼；司法界
-      - `lawlessness` 违法；不服从法律；不受法律制约
-      - `lawgiver` 立法者，制定法律者
+      - `law`
+        - 法律；规律；法治；法学；诉讼；司法界
+      - `lawlessness`
+        - 违法；不服从法律；不受法律制约
+      - `lawgiver`
+        - 立法者，制定法律者
     - vi.
-      - `law` 起诉；控告
+      - `law`
+        - 起诉；控告
     - vt.
-      - `law` 控告；对…起诉
+      - `law`
+        - 控告；对…起诉
   - 近义词
-    - adj. 合法的；法定的；法律许可的
-      - `legal`
-      - `legitimate`
-      - `statutory`
+    - adj.
+      - 合法的；法定的；法律许可的
+        - `legal`
+        - `legitimate`
+        - `statutory`
   - 短语
-    - `lawful right` 合法权利；合法权益 
+    - `lawful right`
+      - 合法权利；合法权益 
   - 例句
     - `It is not lawful to kill or injure a pet animal.`
       - 杀死或伤害宠物是犯法的。

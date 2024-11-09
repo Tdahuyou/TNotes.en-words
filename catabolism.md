@@ -1,17 +1,23 @@
 - catabolism
   - 发音
-    - 英 `/kə'tæbəlizəm/`
-    - 美 `/kə'tæbəlɪzəm/`
+    - 英
+      - `/kə'tæbəlizəm/`
+    - 美
+      - `/kə'tæbəlɪzəm/`
   - 词义
-    - n. 分解代谢
-    - `a metabolic process in which complex molecules are broken down into simple ones with the release of energy; destructive metabolism `
+    - n.
+      - 分解代谢
+        - `a metabolic process in which complex molecules are broken down into simple ones with the release of energy; destructive metabolism `
   - 同根词
     - adj.
-      - `catabolic` 分解代谢的；异化的
+      - `catabolic`
+        - 分解代谢的；异化的
     - vi.
-      - `catabolize` 异化；发生分解代谢
+      - `catabolize`
+        - 异化；发生分解代谢
     - vt.
-      - `catabolize` 使异化；使发生分解代谢
+      - `catabolize`
+        - 使异化；使发生分解代谢
   - 例句
     - `A second experiment was designed to look for signs of catabolism.`
       - 第二个设计的实验是企图寻找分解代谢的迹象。

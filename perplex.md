@@ -1,22 +1,30 @@
 - perplex
   - 发音
-    - 英 `/pə'pleks/`
-    - 美 `/pɚ'plɛks/`
+    - 英
+      - `/pə'pleks/`
+    - 美
+      - `/pɚ'plɛks/`
   - 词义
-    - v. 使困惑，使费解
-    - `if something perplexes you, it makes you feel confused and worried because it is difficult to understand`
+    - v.
+      - 使困惑，使费解
+        - `if something perplexes you, it makes you feel confused and worried because it is difficult to understand`
   - 同根词
     - adj.
-      - `perplexing` 复杂的，令人费解的；令人困惑的
-      - `perplexed` 困惑的；不知所措的
+      - `perplexing`
+        - 复杂的，令人费解的；令人困惑的
+      - `perplexed`
+        - 困惑的；不知所措的
     - adv.
-      - `perplexedly` 为难地；困窘地
+      - `perplexedly`
+        - 为难地；困窘地
     - n.
-      - `perplexity` 困惑；混乱
+      - `perplexity`
+        - 困惑；混乱
   - 近义词
-    - vt. 使困惑，使为难；使复杂化
-      - `bepuzzle`
-      - `confuse`
+    - vt.
+      - 使困惑，使为难；使复杂化
+        - `bepuzzle`
+        - `confuse`
   - 例句
     - `Shea’s symptoms perplexed the doctors.`
       - 谢伊的症状令医生们困惑。

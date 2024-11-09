@@ -1,35 +1,49 @@
 - legitimate
   - 发音
-    - 英 `/lɪ'dʒɪtɪmət/`
-    - 美 `/ləˈdʒɪtəmɪt/`
+    - 英
+      - `/lɪ'dʒɪtɪmət/`
+    - 美
+      - `/ləˈdʒɪtəmɪt/`
   - 词义
-    - adj. 合法的，法定的；正当合理的，合情合理的
-    - `fair or reasonable`
+    - adj.
+      - 合法的，法定的；正当合理的，合情合理的
+        - `fair or reasonable`
   - 记忆
     - leg(法律) + itim + ate → 合法的， 法定的
   - 同根词
     - adj.
-      - `legitimatize` 合法的；正当的
+      - `legitimatize`
+        - 合法的；正当的
     - adv.
-      - `legitimately` 合理地；正当地
+      - `legitimately`
+        - 合理地；正当地
     - n.
-      - `legitimacy` 合法；合理；正统
-      - `legitimation` 合法化；承认为嫡出
+      - `legitimacy`
+        - 合法；合理；正统
+      - `legitimation`
+        - 合法化；承认为嫡出
     - vt.
-      - `legitimize` 使…合法；立为嫡嗣
-      - `legitimise` 使合法化（等于legitimize）
-      - `legitimatize` 使合法化（等于legitimize）
+      - `legitimize`
+        - 使…合法；立为嫡嗣
+      - `legitimise`
+        - 使合法化（等于legitimize）
+      - `legitimatize`
+        - 使合法化（等于legitimize）
   - 近义词
-    - adj. 合法的；正当的；合理的；正统的
-      - `legal`
-      - `reasonable`
-      - `valid`
-      - `logical`
-      - `rational`
+    - adj.
+      - 合法的；正当的；合理的；正统的
+        - `legal`
+        - `reasonable`
+        - `valid`
+        - `logical`
+        - `rational`
   - 短语
-    - `legitimate authority` 法定职权；合法权威 
-    - `legitimate interest` 合法权益；合法利益 
-    - `legitimate income` [经]正当收入 
+    - `legitimate authority`
+      - 法定职权；合法权威 
+    - `legitimate interest`
+      - 合法权益；合法利益 
+    - `legitimate income`
+      - [经]正当收入 
   - 例句
     - `That’s a perfectly legitimate question.`
       - 那个问题完全合乎情理。

@@ -1,11 +1,15 @@
 - Pakistan
   - 发音
-    - 英 `/'pækistæn/`
-    - 美 `/'pækistæn/`
+    - 英
+      - `/'pækistæn/`
+    - 美
+      - `/'pækistæn/`
   - 词义
-    - n. 巴基斯坦(南亚国家)
+    - n.
+      - 巴基斯坦(南亚国家)
   - 短语
-    - `east pakistan` n. 东巴基斯坦 
+    - `east pakistan`
+      - n. 东巴基斯坦 
   - 例句
     - `Should I not be worrying about Pakistan?`
       - 我不该担心巴基斯坦问题吗？

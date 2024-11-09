@@ -1,23 +1,31 @@
 - entirety
   - 发音
-    - 英 `/ɪn'taɪərətɪ; -'taɪətɪ; en-/`
-    - 美 `/ɪn'taɪərəti/`
+    - 英
+      - `/ɪn'taɪərətɪ; -'taɪətɪ; en-/`
+    - 美
+      - `/ɪn'taɪərəti/`
   - 词义
-    - n. 全部；完全
-    - `the whole of sth`
+    - n.
+      - 全部；完全
+        - `the whole of sth`
   - 同根词
     - adj.
-      - `entire` 全部的，整个的；全体的
+      - `entire`
+        - 全部的，整个的；全体的
     - adv.
-      - `entirely` 完全地，彻底地
+      - `entirely`
+        - 完全地，彻底地
     - n.
-      - `entireness` 全体；完全；整个
+      - `entireness`
+        - 全体；完全；整个
   - 近义词
-    - n. 全部；完全
-      - `good and`
-      - `full`
+    - n.
+      - 全部；完全
+        - `good and`
+        - `full`
   - 短语
-    - `in its entirety` 全面地，从总体上看 
+    - `in its entirety`
+      - 全面地，从总体上看 
   - 例句
     - `We stayed in the hotel throughout the entirety of the weekend.`
       - 我们整个周末都待在酒店里。

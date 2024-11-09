@@ -1,15 +1,19 @@
 - chronometer
   - 发音
-    - 英 `/krə'nɔmitə/`
-    - 美 `/krə'nɑmɪtɚ/`
+    - 英
+      - `/krə'nɔmitə/`
+    - 美
+      - `/krə'nɑmɪtɚ/`
   - 词义
-    - n. 记时计
-    - `a very exact clock, used for scientific purposes`
+    - n.
+      - 记时计
+        - `a very exact clock, used for scientific purposes`
   - 记忆
     - chron (时间) + o + meter (测量) → 测量时间 → 计时计
   - 同根词
     - n.
-      - `chronograph` 记时计；记秒表
+      - `chronograph`
+        - 记时计；记秒表
   - 例句
     - `Murchison followed with his eye the hand of his chronometer.`
       - 莫奇生的眼睛追随着他的时计的秒针。

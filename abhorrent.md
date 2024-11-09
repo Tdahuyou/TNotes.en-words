@@ -1,22 +1,29 @@
 - abhorrent
   - 发音
-    - 英 `/əb'hɔrənt/`
-    - 美 `/əb'hɔrənt/`
+    - 英
+      - `/əb'hɔrənt/`
+    - 美
+      - `/əb'hɔrənt/`
   - 词义
-    - adj. 可恶的
-    - `something that is abhorrent is completely unacceptable because it seems morally wrong`
+    - adj.
+      - 可恶的
+        - `something that is abhorrent is completely unacceptable because it seems morally wrong`
   - 记忆
     - abhorren (看作abhorrence， 憎恶) + (en)t (…的) → 憎恶的 → 可恶的
   - 同根词
     - n.
-      - `abhorrence` 痛恨，厌恶
-      - `abhorrer` 厌恶者，憎恶者
+      - `abhorrence`
+        - 痛恨，厌恶
+      - `abhorrer`
+        - 厌恶者，憎恶者
     - vt.
-      - `abhor` 痛恨，憎恶
+      - `abhor`
+        - 痛恨，憎恶
   - 近义词
-    - adj. 可恶的；厌恶的；格格不入的
-      - `sick`
-      - `hateworthy`
+    - adj.
+      - 可恶的；厌恶的；格格不入的
+        - `sick`
+        - `hateworthy`
   - 例句
     - `Racial discrimination is abhorrent to my council and our staff.`
       - 我的地方政府和全体工作人员与种族歧视水火不容。

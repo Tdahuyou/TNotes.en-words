@@ -1,20 +1,26 @@
 - rob
   - 发音
-    - 英 `/rɑːb/`
-    - 美 `/rɑb/`
+    - 英
+      - `/rɑːb/`
+    - 美
+      - `/rɑb/`
   - 词义
-    - vt. 抢夺，抢掠；剥夺，使失去
-    - `to steal money or property from a person, bank etc`
+    - vt.
+      - 抢夺，抢掠；剥夺，使失去
+        - `to steal money or property from a person, bank etc`
   - 同根词
     - n.
-      - `robbery` 抢劫，盗窃；抢掠
+      - `robbery`
+        - 抢劫，盗窃；抢掠
   - 近义词
-    - vt. 抢劫；使…丧失；非法剥夺
-      - `hijack`
-      - `spoliate`
-    - vi. 抢劫；掠夺
-      - `prey upon`
-      - `pillage`
+    - vt.
+      - 抢劫；使…丧失；非法剥夺
+        - `hijack`
+        - `spoliate`
+    - vi.
+      - 抢劫；掠夺
+        - `prey upon`
+        - `pillage`
   - 例句
     - `They killed four policemen while robbing a bank.`
       - 他们抢劫一家银行的时候杀了4名警察。

@@ -1,29 +1,40 @@
 - populace
   - 发音
-    - 英 `/'pɔpjuləs/`
-    - 美 `/'pɑpjələs/`
+    - 英
+      - `/'pɔpjuləs/`
+    - 美
+      - `/'pɑpjələs/`
   - 词义
-    - n. 平民
-    - `the people who live in a country`
+    - n.
+      - 平民
+        - `the people who live in a country`
   - 记忆
     - popul (人民) + ace → 平民
   - 同根词
     - adj.
-      - `populated` 粒子数增加的
+      - `populated`
+        - 粒子数增加的
     - adv.
-      - `popularly` 流行地；通俗地；普及地；大众地
+      - `popularly`
+        - 流行地；通俗地；普及地；大众地
     - n.
-      - `popularity` 普及，流行；名气；受大众欢迎
-      - `popularization` 通俗化，大众化；普及
-      - `popularizer` 大众化的人；普及读物；普及者；使普及的人
+      - `popularity`
+        - 普及，流行；名气；受大众欢迎
+      - `popularization`
+        - 通俗化，大众化；普及
+      - `popularizer`
+        - 大众化的人；普及读物；普及者；使普及的人
     - v.
-      - `populated` 居住于…中；构成…的人口（populate的过去分词）
+      - `populated`
+        - 居住于…中；构成…的人口（populate的过去分词）
     - vt.
-      - `populate` 居住于；构成人口；移民于；殖民于
+      - `populate`
+        - 居住于；构成人口；移民于；殖民于
   - 近义词
-    - n. 大众；平民；人口
-      - `common people`
-      - `common man`
+    - n.
+      - 大众；平民；人口
+        - `common people`
+        - `common man`
   - 例句
     - `the effects of the war on the local populace`
       - 战争对当地百姓的影响

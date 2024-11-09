@@ -1,25 +1,34 @@
 - vacillate
   - 发音
-    - 英 `/'væsəleit/`
-    - 美 `/'væsileit/`
+    - 英
+      - `/'væsəleit/`
+    - 美
+      - `/'væsileit/`
   - 词义
-    - v. 摆动，震荡；摇摆不定，犹豫不决
-    - `If you vacillate between two alternatives or choices, you keep changing your mind`
+    - v.
+      - 摆动，震荡；摇摆不定，犹豫不决
+        - `If you vacillate between two alternatives or choices, you keep changing your mind`
   - 记忆
     - vacill (摇摆) + ate → 摇摆不定
   - 同根词
     - adj.
-      - `vacillant` 犹豫不决的；游移的；摇摆不定的
-      - `vacillating` 优柔寡断的；犹豫的
+      - `vacillant`
+        - 犹豫不决的；游移的；摇摆不定的
+      - `vacillating`
+        - 优柔寡断的；犹豫的
     - n.
-      - `vacillation` 踌躇；不果断；游移不定
-      - `vacillator` 犹豫的人
+      - `vacillation`
+        - 踌躇；不果断；游移不定
+      - `vacillator`
+        - 犹豫的人
     - v.
-      - `vacillating` 动摇（vacillate的ing形式）；犹豫
+      - `vacillating`
+        - 动摇（vacillate的ing形式）；犹豫
   - 近义词
-    - vi. 犹豫；踌躇；摇摆
-      - `hesitate`
-      - `daiker`
+    - vi.
+      - 犹豫；踌躇；摇摆
+        - `hesitate`
+        - `daiker`
   - 例句
     - `She vacillates between men twice her age and men younger than she.`
       - 她在两个男人之间摇摆不定，一个年龄比她大一倍，一个比她小。

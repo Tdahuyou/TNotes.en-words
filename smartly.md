@@ -1,21 +1,29 @@
 - smartly
   - 发音
-    - 英 `/undefined/`
-    - 美 `/'sma:tli/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/'sma:tli/`
   - 词义
-    - adv. 潇洒地；漂亮地
+    - adv.
+      - 潇洒地；漂亮地
   - 同根词
     - adj.
-      - `smart` 聪明的；巧妙的；敏捷的；厉害的；潇洒的；剧烈的
-      - `smarting` 剧烈疼痛的
+      - `smart`
+        - 聪明的；巧妙的；敏捷的；厉害的；潇洒的；剧烈的
+      - `smarting`
+        - 剧烈疼痛的
     - n.
-      - `smarting` 剧烈疼痛；刺痛
+      - `smarting`
+        - 剧烈疼痛；刺痛
     - vi.
-      - `smarting` 感到刺痛；感到难受（smart的现在分词）
+      - `smarting`
+        - 感到刺痛；感到难受（smart的现在分词）
   - 近义词
-    - adv. 刺痛地；漂亮地；潇洒地；火辣辣地
-      - `beautifully`
-      - `nicely`
+    - adv.
+      - 刺痛地；漂亮地；潇洒地；火辣辣地
+        - `beautifully`
+        - `nicely`
   - 例句
     - `Many years ago there lived an Emperor who laid so great a value upon new clothes that he spent all his money on them in order to be smartly dressed.`
       - 很久很久以前，有一位皇帝，他是如此的看重新衣服，以至于把他所有的钱都花在上面，以使得自己能穿得潇洒漂亮。

@@ -1,22 +1,28 @@
 - countersign
   - 发音
-    - 英 `/'kauntəsain/`
-    - 美 `/'kaʊntɚsaɪn/`
+    - 英
+      - `/'kauntəsain/`
+    - 美
+      - `/'kaʊntɚsaɪn/`
   - 词义
-    - v. 会签；连署，副署
-    - `to sign a paper that has already been signed by someone else`
+    - v.
+      - 会签；连署，副署
+        - `to sign a paper that has already been signed by someone else`
   - 记忆
     - counter(相反的； 副本) + sign(签署) → 副署
   - 同根词
     - n.
-      - `countersignature` 副署，连署；会签
+      - `countersignature`
+        - 副署，连署；会签
   - 近义词
-    - n. 口令；副署
-      - `password`
-      - `shibboleth`
-    - vt. 副署；会签；确认
-      - `counter signature`
-      - `validate`
+    - n.
+      - 口令；副署
+        - `password`
+        - `shibboleth`
+    - vt.
+      - 副署；会签；确认
+        - `counter signature`
+        - `validate`
   - 例句
     - `The note must be countersigned by a doctor.`
       - 这张证明必须有一个医生连署。

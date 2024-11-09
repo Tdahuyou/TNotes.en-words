@@ -1,24 +1,33 @@
 - backwards
   - 发音
-    - 英 `/'bækwədz/`
-    - 美 `/'bækwɚdz/`
+    - 英
+      - `/'bækwədz/`
+    - 美
+      - `/'bækwɚdz/`
   - 词义
-    - adv. 倒；向后；逆
-    - `in the direction that is behind you`
+    - adv.
+      - 倒；向后；逆
+        - `in the direction that is behind you`
   - 同根词
     - adj.
-      - `backward` 向后的；反向的；发展迟缓的
-      - `backswept` 向后倾斜的；被扫向后面的
+      - `backward`
+        - 向后的；反向的；发展迟缓的
+      - `backswept`
+        - 向后倾斜的；被扫向后面的
     - adv.
-      - `backward` 向后地；相反地
+      - `backward`
+        - 向后地；相反地
     - n.
-      - `backswept` [航] 后掠角
+      - `backswept`
+        - [航] 后掠角
   - 近义词
-    - adv. 倒；向后；逆
-      - `rear`
-      - `fro`
+    - adv.
+      - 倒；向后；逆
+        - `rear`
+        - `fro`
   - 短语
-    - `backwards and forwards` 来回地 
+    - `backwards and forwards`
+      - 来回地 
   - 例句
     - `Hannah took a step backward.`
       - 汉娜往后退了一步。

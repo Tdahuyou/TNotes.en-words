@@ -1,27 +1,39 @@
 - blameworthy
   - 发音
-    - 英 `/'bleɪmwɜːrði/`
-    - 美 `/'blemwɝði/`
+    - 英
+      - `/'bleɪmwɜːrði/`
+    - 美
+      - `/'blemwɝði/`
   - 词义
-    - adj. 该责备的，有过失的
-    - `deserving blame or disapproval`
+    - adj.
+      - 该责备的，有过失的
+        - `deserving blame or disapproval`
   - 同根词
     - adj.
-      - `blamed` 混蛋的，该死的
-      - `blameless` 清白的；无可责备的；无过失的
-      - `blamable` 可责备的；有过失的
-      - `blameable` 有过失的；该责备的
-      - `blameful` 应受责备的；该受谴责的
+      - `blamed`
+        - 混蛋的，该死的
+      - `blameless`
+        - 清白的；无可责备的；无过失的
+      - `blamable`
+        - 可责备的；有过失的
+      - `blameable`
+        - 有过失的；该责备的
+      - `blameful`
+        - 应受责备的；该受谴责的
     - n.
-      - `blame` 责备；责任；过失
+      - `blame`
+        - 责备；责任；过失
     - v.
-      - `blamed` 谴责
+      - `blamed`
+        - 谴责
     - vt.
-      - `blame` 责备；归咎于
+      - `blame`
+        - 责备；归咎于
   - 近义词
-    - adj. 应受谴责的；该受责备的
-      - `reprovable`
-      - `condemnable`
+    - adj.
+      - 应受谴责的；该受责备的
+        - `reprovable`
+        - `condemnable`
   - 例句
     - `blameworthy conduct`
       - 应受谴责的行为

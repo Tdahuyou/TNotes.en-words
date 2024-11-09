@@ -1,10 +1,14 @@
 - puttee
   - 发音
-    - 英 `/'pʌtɪ/`
-    - 美 `/undefined/`
+    - 英
+      - `/'pʌtɪ/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 布绑腿,皮绑腿
-    - `a long piece of cloth that soldiers wrapped around each leg from the knee down, as part of their uniform in the past`
+    - n.
+      - 布绑腿,皮绑腿
+        - `a long piece of cloth that soldiers wrapped around each leg from the knee down, as part of their uniform in the past`
   - 近义词
-    - n. 布绑腿，皮绑腿；裹腿
-      - `legging`
+    - n.
+      - 布绑腿，皮绑腿；裹腿
+        - `legging`

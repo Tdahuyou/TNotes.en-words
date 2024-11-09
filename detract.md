@@ -1,27 +1,36 @@
 - detract
   - 发音
-    - 英 `/dɪ'trækt/`
-    - 美 `/dɪ'trækt/`
+    - 英
+      - `/dɪ'trækt/`
+    - 美
+      - `/dɪ'trækt/`
   - 词义
-    - v. 减损；贬低，诋毁
-    - `If one thing detracts from another, it makes it seem less good or impressive`
+    - v.
+      - 减损；贬低，诋毁
+        - `If one thing detracts from another, it makes it seem less good or impressive`
   - 记忆
     - de(向下) + tract(拉) → 向下拉 → 减损； 贬低
   - 同根词
     - adj.
-      - `detractive` 诽谤的；减损的
+      - `detractive`
+        - 诽谤的；减损的
     - n.
-      - `detractor` 贬低者；诽谤者
-      - `detraction` 诽谤；减损
+      - `detractor`
+        - 贬低者；诽谤者
+      - `detraction`
+        - 诽谤；减损
   - 近义词
-    - vt. 转移，使分心
-      - `shift`
-      - `divert from`
-    - vi. 贬低；减去
-      - `thumb down`
-      - `play down`
+    - vt.
+      - 转移，使分心
+        - `shift`
+        - `divert from`
+    - vi.
+      - 贬低；减去
+        - `thumb down`
+        - `play down`
   - 短语
-    - `detract from` 贬低，减损；使逊色 
+    - `detract from`
+      - 贬低，减损；使逊色 
   - 例句
     - `They feared that the publicity surrounding him would detract from their own election campaigns.`
       - 他们担心围绕他的宣传会有损他们自已的竞选活动。

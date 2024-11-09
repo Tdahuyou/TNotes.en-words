@@ -1,22 +1,28 @@
 - abundantly
   - 发音
-    - 英 `/ə'bʌnd(ə)ntlɪ/`
-    - 美 `/ə'bʌndəntli/`
+    - 英
+      - `/ə'bʌnd(ə)ntlɪ/`
+    - 美
+      - `/ə'bʌndəntli/`
   - 词义
-    - adv. 大量地,丰富地
-    - `in large quantities`
+    - adv.
+      - 大量地,丰富地
+        - `in large quantities`
   - 同根词
     - adj.
-      - `abundant` 丰富的；充裕的；盛产
+      - `abundant`
+        - 丰富的；充裕的；盛产
     - n.
-      - `abundance` 充裕，丰富
+      - `abundance`
+        - 充裕，丰富
   - 近义词
-    - adv. 丰富地；大量地
-      - `largely`
-      - `freely`
-      - `big`
-      - `importantly`
-      - `heavy`
+    - adv.
+      - 丰富地；大量地
+        - `largely`
+        - `freely`
+        - `big`
+        - `importantly`
+        - `heavy`
   - 例句
     - `Melons grow abundantly in this region.`
       - 这个地区盛产甜瓜。

@@ -1,9 +1,11 @@
 - GPS
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - `a system that uses radio signals from  satellites  to show your exact position on the Earth on a special piece of equipment`
+        - `a system that uses radio signals from  satellites  to show your exact position on the Earth on a special piece of equipment`
   - 例句
     - `With GPS, they also now know where you are whenever you have your phone.`
       - 利用全球定位系统，只要你带着电话，他们就知道你在哪里。

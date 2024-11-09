@@ -1,29 +1,42 @@
 - challenge
   - 发音
-    - 英 `/'tʃælɪndʒ/`
-    - 美 `/'tʃælɪndʒ/`
+    - 英
+      - `/'tʃælɪndʒ/`
+    - 美
+      - `/'tʃælɪndʒ/`
   - 词义
-    - n. 挑战；艰巨任务，难题；质疑，质问
-    - `something that tests strength, skill, or ability, especially in a way that is interesting`
-    - vt. 向…挑战；公然反抗；对…质疑
-    - `to refuse to accept that something is right, fair, or legal`
+    - n.
+      - 挑战；艰巨任务，难题；质疑，质问
+        - `something that tests strength, skill, or ability, especially in a way that is interesting`
+    - vt.
+      - 向…挑战；公然反抗；对…质疑
+        - `to refuse to accept that something is right, fair, or legal`
   - 同根词
     - adj.
-      - `challenging` 挑战的；引起挑战性兴趣的
-      - `challengeable` 挑战性的
+      - `challenging`
+        - 挑战的；引起挑战性兴趣的
+      - `challengeable`
+        - 挑战性的
     - n.
-      - `challenger` 挑战者
+      - `challenger`
+        - 挑战者
     - v.
-      - `challenging` 要求；质疑；反对；向…挑战；盘问（challenge的ing形式）
+      - `challenging`
+        - 要求；质疑；反对；向…挑战；盘问（challenge的ing形式）
   - 近义词
-    - n. 挑战；怀疑
-      - `dare`
-      - `doubt`
+    - n.
+      - 挑战；怀疑
+        - `dare`
+        - `doubt`
   - 短语
-    - `meet the challenge` 迎接挑战；满足要求 
-    - `rise to the challenge` 接受挑战，奋起应付挑战 
-    - `take up the challenge` 应战 
-    - `challenge cup` 挑战杯；优胜杯；奖杯 
+    - `meet the challenge`
+      - 迎接挑战；满足要求 
+    - `rise to the challenge`
+      - 接受挑战，奋起应付挑战 
+    - `take up the challenge`
+      - 应战 
+    - `challenge cup`
+      - 挑战杯；优胜杯；奖杯 
   - 例句
     - `They threw down the challenge that he couldn’t wash 40 cars in one hour (= invited him to try to do it ) .`
       - 他们激将他，说他不可能在1小时内擦洗40辆汽车。

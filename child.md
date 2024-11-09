@@ -1,48 +1,79 @@
 - child
   - 发音
-    - 英 `/tʃaɪld/`
-    - 美 `/tʃaɪld/`
+    - 英
+      - `/tʃaɪld/`
+    - 美
+      - `/tʃaɪld/`
   - 词义
-    - n. （14岁以下的）小孩，儿童(pl.children)
-    - `someone who is not yet an adult`
+    - n.
+      - （14岁以下的）小孩，儿童(pl.children)
+        - `someone who is not yet an adult`
   - 同根词
     - adj.
-      - `childish` 幼稚的，孩子气的
-      - `childlike` 天真烂漫的；孩子似的
-      - `childless` 无子女的
-      - `childly` 孩子似的
+      - `childish`
+        - 幼稚的，孩子气的
+      - `childlike`
+        - 天真烂漫的；孩子似的
+      - `childless`
+        - 无子女的
+      - `childly`
+        - 孩子似的
     - adv.
-      - `childly` 孩子似地
+      - `childly`
+        - 孩子似地
     - n.
-      - `childhood` 童年时期；幼年时代
-      - `childishness` 童心；幼稚
+      - `childhood`
+        - 童年时期；幼年时代
+      - `childishness`
+        - 童心；幼稚
   - 近义词
-    - n. 儿童，孩子；产物；子孙
-      - `son`
-      - `creation`
-      - `fruit`
-      - `seed`
+    - n.
+      - 儿童，孩子；产物；子孙
+        - `son`
+        - `creation`
+        - `fruit`
+        - `seed`
   - 短语
-    - `with child` 怀孕 
-    - `child care` 儿童保育 
-    - `only child` 独生子女 
-    - `like a child` 像个孩子 
-    - `younger children` 【法律】不享长子权的子女(包括年纪比长子大的女儿) 
-    - `child abuse` 虐待儿童，摧残儿童 
-    - `from a child` 从幼年起 
-    - `child development` 儿童发展；儿童发育 
-    - `maternal and child health` 妇幼卫生；母婴健康 
-    - `poor child` 可怜的孩子/小孩 
-    - `child labor` 童工 
-    - `problem child` 问题儿童；难管教的儿童 
-    - `child welfare` 儿童福利；保育 
-    - `exceptional child` n. 特殊（异常）儿童 
-    - `adopted child` 养子，养女 
-    - `child psychology` 儿童心理学 
-    - `child labour` 童工 
-    - `child support` 子女抚养费 
-    - `child pornography` 儿童色情作品 
-    - `love child` 私生子 
+    - `with child`
+      - 怀孕 
+    - `child care`
+      - 儿童保育 
+    - `only child`
+      - 独生子女 
+    - `like a child`
+      - 像个孩子 
+    - `younger children`
+      - 【法律】不享长子权的子女(包括年纪比长子大的女儿) 
+    - `child abuse`
+      - 虐待儿童，摧残儿童 
+    - `from a child`
+      - 从幼年起 
+    - `child development`
+      - 儿童发展；儿童发育 
+    - `maternal and child health`
+      - 妇幼卫生；母婴健康 
+    - `poor child`
+      - 可怜的孩子/小孩 
+    - `child labor`
+      - 童工 
+    - `problem child`
+      - 问题儿童；难管教的儿童 
+    - `child welfare`
+      - 儿童福利；保育 
+    - `exceptional child`
+      - n. 特殊（异常）儿童 
+    - `adopted child`
+      - 养子，养女 
+    - `child psychology`
+      - 儿童心理学 
+    - `child labour`
+      - 童工 
+    - `child support`
+      - 子女抚养费 
+    - `child pornography`
+      - 儿童色情作品 
+    - `love child`
+      - 私生子 
   - 例句
     - `The hotel is ideal for families with young children.`
       - 这家宾馆对带小孩的家庭再合适不过。

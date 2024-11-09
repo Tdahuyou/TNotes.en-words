@@ -1,14 +1,18 @@
 - ecliptic
   - 发音
-    - 英 `/ɪ'klɪptɪk/`
-    - 美 `/ɪ'klɪptɪk/`
+    - 英
+      - `/ɪ'klɪptɪk/`
+    - 美
+      - `/ɪ'klɪptɪk/`
   - 词义
-    - n. 【天】
-    - `the path along which the Sun seems to move`
+    - n.
+      - 【天】
+        - `the path along which the Sun seems to move`
   - 记忆
     - ec(没有) + lip(离开) + tic → 因离开而没有了 → 日(或月)食的
   - 短语
-    - `obliquity of the ecliptic` 黄赤交角 
+    - `obliquity of the ecliptic`
+      - 黄赤交角 
   - 例句
     - `On the astrolabe, an off - centered circle represents the orbit of the sun - the ecliptic.`
       - 在星盘上， 一个偏心的圆代表了太阳的运行轨道――黄道。

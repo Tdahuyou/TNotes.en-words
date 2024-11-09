@@ -1,23 +1,32 @@
 - sneeze
   - 发音
-    - 英 `/sniːz/`
-    - 美 `/sniz/`
+    - 英
+      - `/sniːz/`
+    - 美
+      - `/sniz/`
   - 词义
-    - n. 喷嚏vi打喷嚏
-    - `the act or sound of sneezing`
+    - n.
+      - 喷嚏vi打喷嚏
+        - `the act or sound of sneezing`
   - 同根词
     - adj.
-      - `sneezy` 打喷嚏的；有喷嚏的；引起喷嚏的
+      - `sneezy`
+        - 打喷嚏的；有喷嚏的；引起喷嚏的
     - n.
-      - `sneezing` 打喷嚏
-      - `sneezer` 打喷嚏者；鼻子
+      - `sneezing`
+        - 打喷嚏
+      - `sneezer`
+        - 打喷嚏者；鼻子
     - v.
-      - `sneezing` 打喷嚏（sneeze的ing形式）
+      - `sneezing`
+        - 打喷嚏（sneeze的ing形式）
   - 近义词
-    - vi. 打喷嚏
-      - `neeze`
-    - n. 喷嚏
-      - `sternutation`
+    - vi.
+      - 打喷嚏
+        - `neeze`
+    - n.
+      - 喷嚏
+        - `sternutation`
   - 例句
     - `There was a loud sneeze from someone in the back of the audience.`
       - 后面的观众中有人大声打了个喷嚏。

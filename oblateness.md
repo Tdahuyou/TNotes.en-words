@@ -1,17 +1,23 @@
 - oblateness
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 扁圆形；[天]扁率
+    - n.
+      - 扁圆形；[天]扁率
   - 同根词
     - adj.
-      - `oblate` 扁圆的；扁平的；奉为神圣的
+      - `oblate`
+        - 扁圆的；扁平的；奉为神圣的
     - n.
-      - `oblate` 献身于修道院生活的人
+      - `oblate`
+        - 献身于修道院生活的人
   - 近义词
-    - n. 扁圆形；[天]扁率
-      - `flattening`
+    - n.
+      - 扁圆形；[天]扁率
+        - `flattening`
   - 例句
     - `The oblateness tends to decrease since the formation of the earth.`
       - 地球的扁率自形成以来总体趋势在减小。

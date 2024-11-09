@@ -1,28 +1,43 @@
 - sensuous
   - 发音
-    - 英 `/'sensjuəs/`
-    - 美 `/'sɛnʃʊəs/`
+    - 英
+      - `/'sensjuəs/`
+    - 美
+      - `/'sɛnʃʊəs/`
   - 词义
-    - adj. 感觉的
-    - `pleasing to your senses`
+    - adj.
+      - 感觉的
+        - `pleasing to your senses`
   - 记忆
     - sens (感觉) + u + ous (…的) → 感觉的
   - 同根词
     - adj.
-      - `sensory` 感觉的；知觉的；传递感觉的
-      - `sensual` 感觉的；肉欲的；世俗的；感觉论的
-      - `sentient` 有感情的；有感觉力的；意识到的
-      - `sensorimotor` 感觉运动的（等于sensomotor）
-      - `sensorineural` 感觉神经的
+      - `sensory`
+        - 感觉的；知觉的；传递感觉的
+      - `sensual`
+        - 感觉的；肉欲的；世俗的；感觉论的
+      - `sentient`
+        - 有感情的；有感觉力的；意识到的
+      - `sensorimotor`
+        - 感觉运动的（等于sensomotor）
+      - `sensorineural`
+        - 感觉神经的
     - adv.
-      - `sensuously` 感觉上
+      - `sensuously`
+        - 感觉上
     - n.
-      - `sentient` 有知觉的人
-      - `sensorium` 感觉中枢；知觉器官；感觉器官
-      - `sensualism` 感觉论；肉欲主义；好色
-      - `sensualist` 好色者；感觉论者
-      - `sensuousness` 知觉；敏感
-      - `sentience` 感觉性；感觉能力；知觉
+      - `sentient`
+        - 有知觉的人
+      - `sensorium`
+        - 感觉中枢；知觉器官；感觉器官
+      - `sensualism`
+        - 感觉论；肉欲主义；好色
+      - `sensualist`
+        - 好色者；感觉论者
+      - `sensuousness`
+        - 知觉；敏感
+      - `sentience`
+        - 感觉性；感觉能力；知觉
   - 例句
     - `the sensuous feeling of silk on her skin`
       - 丝绸给她皮肤带来的美妙感觉

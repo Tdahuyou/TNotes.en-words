@@ -1,22 +1,29 @@
 - betray
   - 发音
-    - 英 `/bɪ'treɪ/`
-    - 美 `/bɪ'tre/`
+    - 英
+      - `/bɪ'treɪ/`
+    - 美
+      - `/bɪ'tre/`
   - 词义
-    - vt. 出卖，泄露；辜负，对…不忠；流露情感
-    - `to be disloyal to someone who trusts you, so that they are harmed or upset`
+    - vt.
+      - 出卖，泄露；辜负，对…不忠；流露情感
+        - `to be disloyal to someone who trusts you, so that they are harmed or upset`
   - 记忆
     - “被踹” → 被人暗地里踹了一脚 → 出卖
   - 同根词
     - n.
-      - `betrayal` 背叛；辜负；暴露
-      - `betrayer` 叛徒；背信者；告密者
+      - `betrayal`
+        - 背叛；辜负；暴露
+      - `betrayer`
+        - 叛徒；背信者；告密者
   - 近义词
-    - vt. 背叛；出卖；泄露（秘密）；露出…迹象
-      - `reveal`
-      - `sell`
+    - vt.
+      - 背叛；出卖；泄露（秘密）；露出…迹象
+        - `reveal`
+        - `sell`
   - 短语
-    - `betray oneself` 原形毕露 
+    - `betray oneself`
+      - 原形毕露 
   - 例句
     - `He felt that she had betrayed him.`
       - 他感觉她背叛了自己。

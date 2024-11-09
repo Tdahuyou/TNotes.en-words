@@ -1,12 +1,16 @@
 - thistle
   - 发音
-    - 英 `/'θɪs(ə)l/`
-    - 美 `/'θɪsl/`
+    - 英
+      - `/'θɪs(ə)l/`
+    - 美
+      - `/'θɪsl/`
   - 词义
-    - n. [植]蓟
-    - `a wild plant which has leaves with sharp points and purple or white furry flowers`
+    - n.
+      - [植]蓟
+        - `a wild plant which has leaves with sharp points and purple or white furry flowers`
   - 短语
-    - `milk thistle` [生]水飞蓟；[生]奶蓟草；[生]牛奶蓟 
+    - `milk thistle`
+      - [生]水飞蓟；[生]奶蓟草；[生]牛奶蓟 
   - 例句
     - `Goldfinches like thistle seeds, hulled sunflower seeds, and oil-type sunflower seeds.`
       - 金翅雀喜欢蓟的种子、带壳向日葵籽和向日葵油籽。

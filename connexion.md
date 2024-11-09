@@ -1,15 +1,19 @@
 - connexion
   - 发音
-    - 英 `/kə'nekʃn/`
-    - 美 `/kə'nekʃən/`
+    - 英
+      - `/kə'nekʃn/`
+    - 美
+      - `/kə'nekʃən/`
   - 词义
-    - n. 联系，连接
+    - n.
+      - 联系，连接
   - 近义词
-    - n. 连接，联系（等于connection）
-      - `contact`
-      - `link`
-      - `junction`
-      - `join`
+    - n.
+      - 连接，联系（等于connection）
+        - `contact`
+        - `link`
+        - `junction`
+        - `join`
   - 例句
     - `The connexion is not a simple derivation.`
       - 这种连接并不只是衍生性的。

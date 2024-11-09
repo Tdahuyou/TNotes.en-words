@@ -1,21 +1,28 @@
 - indecent
   - 发音
-    - 英 `/ɪn'diːs(ə)nt/`
-    - 美 `/ɪn'disnt/`
+    - 英
+      - `/ɪn'diːs(ə)nt/`
+    - 美
+      - `/ɪn'disnt/`
   - 词义
-    - adj. 下流的；不礼貌的；不得体的
-    - `something that is indecent is shocking and offensive, usually because it involves sex or shows parts of the body that are usually covered`
+    - adj.
+      - 下流的；不礼貌的；不得体的
+        - `something that is indecent is shocking and offensive, usually because it involves sex or shows parts of the body that are usually covered`
   - 同根词
     - adv.
-      - `indecently` 猥亵地；下流地；不堪入目地
+      - `indecently`
+        - 猥亵地；下流地；不堪入目地
     - n.
-      - `indecency` 猥亵；下流；无礼
+      - `indecency`
+        - 猥亵；下流；无礼
   - 近义词
-    - adj. 下流的；不礼貌的；不得体的
-      - `dirty`
-      - `blue`
+    - adj.
+      - 下流的；不礼貌的；不得体的
+        - `dirty`
+        - `blue`
   - 短语
-    - `indecent assault` [法]强暴猥亵罪 
+    - `indecent assault`
+      - [法]强暴猥亵罪 
   - 例句
     - `He was found guilty of possessing indecent photographs.`
       - 他被判藏有淫秽照片罪。

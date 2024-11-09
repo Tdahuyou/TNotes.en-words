@@ -1,27 +1,35 @@
 - stipulation
   - 发音
-    - 英 `/ˌstɪpju'leɪʃn/`
-    - 美 `/,stɪpjə'leʃən/`
+    - 英
+      - `/ˌstɪpju'leɪʃn/`
+    - 美
+      - `/,stɪpjə'leʃən/`
   - 词义
-    - n. 规定，约定
-    - `something that must be done, and which is stated as part of an agreement, law, or rule`
+    - n.
+      - 规定，约定
+        - `something that must be done, and which is stated as part of an agreement, law, or rule`
   - 记忆
     - 来自stipulate(v. 规定， 明确要求)
   - 同根词
     - adj.
-      - `stipulate` 有托叶的
-      - `stipulatory` 合同的；规定的
+      - `stipulate`
+        - 有托叶的
+      - `stipulatory`
+        - 合同的；规定的
     - vi.
-      - `stipulate` 规定；保证
+      - `stipulate`
+        - 规定；保证
     - vt.
-      - `stipulate` 规定；保证
+      - `stipulate`
+        - 规定；保证
   - 近义词
-    - n. 规定；约定；[法]条款；契约
-      - `provision`
-      - `item`
-      - `convention`
-      - `do`
-      - `appointment`
+    - n.
+      - 规定；约定；[法]条款；契约
+        - `provision`
+        - `item`
+        - `convention`
+        - `do`
+        - `appointment`
   - 例句
     - `Its reciprocity is merely an added stipulation.`
       - 它的互惠只是一个附加的约定。

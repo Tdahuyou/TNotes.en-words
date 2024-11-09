@@ -1,17 +1,22 @@
 - headmaster
   - 发音
-    - 英 `/hed'mɑːstə/`
-    - 美 `/,hɛd'mæstɚ/`
+    - 英
+      - `/hed'mɑːstə/`
+    - 美
+      - `/,hɛd'mæstɚ/`
   - 词义
-    - n. 男校长
-    - `a male teacher who is in charge of a school`
+    - n.
+      - 男校长
+        - `a male teacher who is in charge of a school`
   - 同根词
     - n.
-      - `headmistress` 女校长
+      - `headmistress`
+        - 女校长
   - 近义词
-    - n. 校长
-      - `principal`
-      - `president`
+    - n.
+      - 校长
+        - `principal`
+        - `president`
   - 例句
     - `This headmaster is very modest.`
       - 这位校长很谦虚。

@@ -1,30 +1,41 @@
 - pretend
   - 发音
-    - 英 `/prɪ'tend/`
-    - 美 `/prɪ'tɛnd/`
+    - 英
+      - `/prɪ'tend/`
+    - 美
+      - `/prɪ'tɛnd/`
   - 词义
-    - v. 假装，装作
-    - `to behave as if something is true when in fact you know it is not, in order to deceive people or for fun`
+    - v.
+      - 假装，装作
+        - `to behave as if something is true when in fact you know it is not, in order to deceive people or for fun`
   - 同根词
     - adj.
-      - `pretended` 假装的；虚假的
+      - `pretended`
+        - 假装的；虚假的
     - n.
-      - `pretense` 借口；虚假；炫耀；自吹（等于pretence）
-      - `pretence` 假装；借口；虚伪
-      - `pretender` 冒牌者；妄求者；妄提要求者
+      - `pretense`
+        - 借口；虚假；炫耀；自吹（等于pretence）
+      - `pretence`
+        - 假装；借口；虚伪
+      - `pretender`
+        - 冒牌者；妄求者；妄提要求者
     - v.
-      - `pretended` 假装（pretend的过去式和过去分词）；装扮
+      - `pretended`
+        - 假装（pretend的过去式和过去分词）；装扮
   - 近义词
-    - vt. 假装；假扮；伪称
-      - `simulate`
-      - `come`
-    - vi. 假装；伪称
-      - `act`
-      - `fox`
-    - adj. 假装的
-      - `affected`
-      - `assumed`
-      - `simulate`
+    - vt.
+      - 假装；假扮；伪称
+        - `simulate`
+        - `come`
+    - vi.
+      - 假装；伪称
+        - `act`
+        - `fox`
+    - adj.
+      - 假装的
+        - `affected`
+        - `assumed`
+        - `simulate`
   - 例句
     - `Let’s pretend we’re on the moon.`
       - 我们假装自己是在月球上吧。

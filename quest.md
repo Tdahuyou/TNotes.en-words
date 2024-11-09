@@ -1,28 +1,38 @@
 - quest
   - 发音
-    - 英 `/kwest/`
-    - 美 `/kwɛst/`
+    - 英
+      - `/kwest/`
+    - 美
+      - `/kwɛst/`
   - 词义
-    - n. 寻求
-    - `a long search for something that is difficult to find`
-    - v. 追求,探索
-    - `If you are questing for something, you are searching for it`
+    - n.
+      - 寻求
+        - `a long search for something that is difficult to find`
+    - v.
+      - 追求,探索
+        - `If you are questing for something, you are searching for it`
   - 同根词
     - n.
-      - `quester` 探求者；追求者
+      - `quester`
+        - 探求者；追求者
   - 近义词
-    - n. 追求；寻找
-      - `pursuit`
-      - `looking for`
-    - vi. 追求；寻找
-      - `pursue / pursuit`
-      - `go after`
-    - vt. 探索
-      - `explore`
-      - `search after`
+    - n.
+      - 追求；寻找
+        - `pursuit`
+        - `looking for`
+    - vi.
+      - 追求；寻找
+        - `pursue / pursuit`
+        - `go after`
+    - vt.
+      - 探索
+        - `explore`
+        - `search after`
   - 短语
-    - `quest for` 追求；探索，设法找到 
-    - `in quest of` 探寻，寻求；为了追求…… 
+    - `quest for`
+      - 追求；探索，设法找到 
+    - `in quest of`
+      - 探寻，寻求；为了追求…… 
   - 例句
     - `They journeyed to the distant Molucca islands in quest of spices.`
       - 他们远赴摩鹿加群岛寻找香料。

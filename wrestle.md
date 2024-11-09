@@ -1,26 +1,36 @@
 - wrestle
   - 发音
-    - 英 `/'res(ə)l/`
-    - 美 `/'rɛsl/`
+    - 英
+      - `/'res(ə)l/`
+    - 美
+      - `/'rɛsl/`
   - 词义
-    - n. /v摔跤,角力
+    - n.
+      - /v摔跤,角力
   - 同根词
     - n.
-      - `wrestling` 摔跤；扭斗
-      - `wrestler` 摔跤选手，搏斗者
+      - `wrestling`
+        - 摔跤；扭斗
+      - `wrestler`
+        - 摔跤选手，搏斗者
     - v.
-      - `wrestling` 摔跤；格斗（wrestle的ing形式）；与…摔跤；使劲移动
+      - `wrestling`
+        - 摔跤；格斗（wrestle的ing形式）；与…摔跤；使劲移动
   - 近义词
-    - n. 摔跤；搏斗；斗争
-      - `war`
-      - `conflict`
-      - `battle`
-      - `fight`
-    - vi. 摔跤；斗争；斟酌
-      - `fight`
-      - `struggle (with)`
-    - vt. 与摔跤；与…搏斗；使劲搬动
-      - `breast`
-      - `muscle`
+    - n.
+      - 摔跤；搏斗；斗争
+        - `war`
+        - `conflict`
+        - `battle`
+        - `fight`
+    - vi.
+      - 摔跤；斗争；斟酌
+        - `fight`
+        - `struggle (with)`
+    - vt.
+      - 与摔跤；与…搏斗；使劲搬动
+        - `breast`
+        - `muscle`
   - 短语
-    - `wrestle with` 全力对付；努力克服 
+    - `wrestle with`
+      - 全力对付；努力克服 

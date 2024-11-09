@@ -1,14 +1,18 @@
 - comma
   - 发音
-    - 英 `/'kɒmə/`
-    - 美 `/'kɑmə/`
+    - 英
+      - `/'kɒmə/`
+    - 美
+      - `/'kɑmə/`
   - 词义
-    - n. 逗号；停顿
-    - `the mark (,) used in writing to show a short pause or to separate things in a list`
+    - n.
+      - 逗号；停顿
+        - `the mark (,) used in writing to show a short pause or to separate things in a list`
   - 近义词
-    - n. [语]逗号；停顿
-      - `standstill`
-      - `paralysis`
+    - n.
+      - [语]逗号；停顿
+        - `standstill`
+        - `paralysis`
   - 例句
     - `The two clauses are separated by a comma.`
       - 这两个分句由一个逗号分开。

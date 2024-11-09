@@ -1,10 +1,13 @@
 - spaghetti
   - 发音
-    - 英 `/spə'geti/`
-    - 美 `/spə'ɡɛti/`
+    - 英
+      - `/spə'geti/`
+    - 美
+      - `/spə'ɡɛti/`
   - 词义
-    - n. 意大利式细面条
-    - `a type of  pasta  in very long thin pieces, that is cooked in boiling water`
+    - n.
+      - 意大利式细面条
+        - `a type of  pasta  in very long thin pieces, that is cooked in boiling water`
   - 例句
     - `Bill: I would like mashed potato and spaghetti.`
       - 比尔：我想要份土豆泥和意大利面条。

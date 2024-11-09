@@ -1,14 +1,18 @@
 - hyena
   - 发音
-    - 英 `/haɪ'iːnə/`
-    - 美 `/haɪ'inə/`
+    - 英
+      - `/haɪ'iːnə/`
+    - 美
+      - `/haɪ'inə/`
   - 词义
-    - n. [动]土狼,鬣狗
-    - `a wild animal like a dog that makes a sound like a laugh`
+    - n.
+      - [动]土狼,鬣狗
+        - `a wild animal like a dog that makes a sound like a laugh`
   - 近义词
-    - n. [脊椎]鬣狗，土狼
-      - `hyaena`
-      - `aardwolf`
+    - n.
+      - [脊椎]鬣狗，土狼
+        - `hyaena`
+        - `aardwolf`
   - 例句
     - `"Maybe a hyena chewed off the face soon after it died, " White said.`
       - “也许在它死后不久，土狼就咬掉了它的面部，”怀特说。

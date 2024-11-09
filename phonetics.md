@@ -1,20 +1,29 @@
 - phonetics
   - 发音
-    - 英 `/fə'netɪks/`
-    - 美 `/fə'nɛtɪks/`
+    - 英
+      - `/fə'netɪks/`
+    - 美
+      - `/fə'nɛtɪks/`
   - 词义
-    - n. 语音学
-    - `the science and study of speech sounds`
+    - n.
+      - 语音学
+        - `the science and study of speech sounds`
   - 同根词
     - adj.
-      - `phonetic` 语音的，语音学的；音形一致的；发音有细微区别的
-      - `phonic` 有声的，浊音的；声音的，语音的；声学的
-      - `phonologic` 音韵学的；语音体系的
+      - `phonetic`
+        - 语音的，语音学的；音形一致的；发音有细微区别的
+      - `phonic`
+        - 有声的，浊音的；声音的，语音的；声学的
+      - `phonologic`
+        - 音韵学的；语音体系的
     - adv.
-      - `phonetically` 语音学上；按照发音地
+      - `phonetically`
+        - 语音学上；按照发音地
     - n.
-      - `phonology` 音系学；音韵学；语音体系
-      - `phonogram` 音标符号；录音片；语音图；形声字
+      - `phonology`
+        - 音系学；音韵学；语音体系
+      - `phonogram`
+        - 音标符号；录音片；语音图；形声字
   - 例句
     - `Forensics includes many fields of science, including anthropology, biology, chemistry, engineering, genetics, medicine, pathology, phonetics, psychiatry, and toxicology.`
       - 法医物证学涉及到多个科学领域，包括人类学、工程学、医药学、病理学、语音学、精神病学和毒理学。

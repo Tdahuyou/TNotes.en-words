@@ -1,9 +1,12 @@
 - Roderick
   - 发音
-    - 英 `/'rɔdərik/`
-    - 美 `/'rɔdərik/`
+    - 英
+      - `/'rɔdərik/`
+    - 美
+      - `/'rɔdərik/`
   - 词义
-    - n. 罗德里克（男名）
+    - n.
+      - 罗德里克（男名）
   - 例句
     - `Roderick Lewis did three odd things yesterday.`
       - 罗德里克刘易斯昨天做了三件怪事。

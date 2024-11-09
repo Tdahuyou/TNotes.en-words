@@ -1,24 +1,34 @@
 - demobilization
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 复员；遣散（demobilize的名词）
+    - n.
+      - 复员；遣散（demobilize的名词）
   - 记忆
     - 来自demobilize(v. 复员)， de + mobilize(动员) → 动员回家 → 复员
   - 同根词
     - n.
-      - `demob` 复员；遣散
-      - `demobilisation` 出场，遣散
+      - `demob`
+        - 复员；遣散
+      - `demobilisation`
+        - 出场，遣散
     - vi.
-      - `demobilise` 遣散军队；实行复员（等于demobilize）
+      - `demobilise`
+        - 遣散军队；实行复员（等于demobilize）
     - vt.
-      - `demobilize` 遣散；使复员；使退伍（demobilise）
-      - `demob` 遣散；使复员
-      - `demobilise` 使…复员；遣散
+      - `demobilize`
+        - 遣散；使复员；使退伍（demobilise）
+      - `demob`
+        - 遣散；使复员
+      - `demobilise`
+        - 使…复员；遣散
   - 近义词
-    - n. 复员；遣散（demobilize的名词）
-      - `disbandment`
+    - n.
+      - 复员；遣散（demobilize的名词）
+        - `disbandment`
   - 例句
     - `The government established a Commission in 2004 to oversee the demobilization and reintegration of child soldiers into civil society.`
       - 布隆迪政府在2004年成立了一个委员会，负责监督少年兵遣散和帮助他们重新融入社会的问题。

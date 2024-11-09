@@ -1,20 +1,28 @@
 - should
   - 发音
-    - 英 `/ʃəd; strong form ʃʊd/`
-    - 美 `/ʃəd; strong form ʃʊd/`
+    - 英
+      - `/ʃəd; strong form ʃʊd/`
+    - 美
+      - `/ʃəd; strong form ʃʊd/`
   - 词义
-    - v aux. 应该
-    - `You use should when you are saying what would be the right thing to do or the right state for something to be in`
+    - v aux.
+      - 应该
+        - `You use should when you are saying what would be the right thing to do or the right state for something to be in`
   - 近义词
-    - aux. 应该；就；可能；将要
-      - `ought`
-      - `may`
-      - `would`
+    - aux.
+      - 应该；就；可能；将要
+        - `ought`
+        - `may`
+        - `would`
   - 短语
-    - `should be` 应该是 
-    - `should have` 应该有；本应该… 
-    - `what should i do` 我该怎么办；我应该做些什么 
-    - `why should i` 我为什么 
+    - `should be`
+      - 应该是 
+    - `should have`
+      - 应该有；本应该… 
+    - `what should i do`
+      - 我该怎么办；我应该做些什么 
+    - `why should i`
+      - 我为什么 
   - 例句
     - `I should exercise more.`
       - 我应该多锻炼。

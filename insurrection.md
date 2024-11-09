@@ -1,25 +1,37 @@
 - insurrection
   - 发音
-    - 英 `/,ɪnsə'rekʃ(ə)n/`
-    - 美 `/,insə'rekʃən/`
+    - 英
+      - `/,ɪnsə'rekʃ(ə)n/`
+    - 美
+      - `/,insə'rekʃən/`
   - 词义
-    - n. 暴动；叛乱
-    - `an attempt by a large group of people within a country to take control using force and violence`
+    - n.
+      - 暴动；叛乱
+        - `an attempt by a large group of people within a country to take control using force and violence`
   - 同根词
     - adj.
-      - `insurgent` 叛乱的；起义的
-      - `insurrectional` 叛乱的；起义的；暴动的
-      - `insurrectionary` 暴动的；起义的，造反的
+      - `insurgent`
+        - 叛乱的；起义的
+      - `insurrectional`
+        - 叛乱的；起义的；暴动的
+      - `insurrectionary`
+        - 暴动的；起义的，造反的
     - n.
-      - `insurgent` 叛乱者；起义者
-      - `insurgency` 叛乱；暴动；叛乱状态
-      - `insurgence` 暴动；起义；造反；叛乱
-      - `insurrectionary` 暴动者，起义者
-      - `insurrectionist` 起义者；造反者；暴动者
+      - `insurgent`
+        - 叛乱者；起义者
+      - `insurgency`
+        - 叛乱；暴动；叛乱状态
+      - `insurgence`
+        - 暴动；起义；造反；叛乱
+      - `insurrectionary`
+        - 暴动者，起义者
+      - `insurrectionist`
+        - 起义者；造反者；暴动者
   - 近义词
-    - n. 暴动；叛乱
-      - `rebellion`
-      - `sedition`
+    - n.
+      - 暴动；叛乱
+        - `rebellion`
+        - `sedition`
   - 例句
     - `They were plotting to stage an armed insurrection if negotiations with the government should fail.`
       - 他们正在策划如果与政府的谈判失败就发动武装叛乱。

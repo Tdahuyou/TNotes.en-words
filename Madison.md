@@ -1,13 +1,19 @@
 - Madison
   - 发音
-    - 英 `/'mædɪs(ə)n/`
-    - 美 `/'mædisən/`
+    - 英
+      - `/'mædɪs(ə)n/`
+    - 美
+      - `/'mædisən/`
   - 词义
-    - n. 麦迪逊
+    - n.
+      - 麦迪逊
   - 短语
-    - `madison avenue` 美国广告业；美国广告业作风；麦德逊大道（美国广告业中心） 
-    - `james madison` 詹姆斯·麦迪逊（美国前总统） 
-    - `madison square garden` 麦迪逊广场花园（美国纽约曼哈顿的一个大型室内运动场） 
+    - `madison avenue`
+      - 美国广告业；美国广告业作风；麦德逊大道（美国广告业中心） 
+    - `james madison`
+      - 詹姆斯·麦迪逊（美国前总统） 
+    - `madison square garden`
+      - 麦迪逊广场花园（美国纽约曼哈顿的一个大型室内运动场） 
   - 例句
     - `On Monday morning Jemmy sauntered on the road of Madison Square.`
       - 星期一的上午杰米还在麦迪逊广场的马路上闲逛。

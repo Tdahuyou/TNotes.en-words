@@ -1,10 +1,14 @@
 - thimbleful
   - 发音
-    - 英 `/'θɪmb(ə)lfʊl; -f(ə)l/`
-    - 美 `/undefined/`
+    - 英
+      - `/'θɪmb(ə)lfʊl; -f(ə)l/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. (酒等的)极少量
-    - `a very small quantity of liquid`
+    - n.
+      - (酒等的)极少量
+        - `a very small quantity of liquid`
   - 近义词
-    - n. 极少量
-      - `farthing`
+    - n.
+      - 极少量
+        - `farthing`

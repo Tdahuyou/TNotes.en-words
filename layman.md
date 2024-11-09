@@ -1,25 +1,34 @@
 - layman
   - 发音
-    - 英 `/'leɪmən/`
-    - 美 `/'lemən/`
+    - 英
+      - `/'leɪmən/`
+    - 美
+      - `/'lemən/`
   - 词义
-    - n. 外行
-    - `someone who is not trained in a particular subject or type of work, especially when they are being compared with someone who is`
+    - n.
+      - 外行
+        - `someone who is not trained in a particular subject or type of work, especially when they are being compared with someone who is`
   - 同根词
     - adj.
-      - `lay` 世俗的；外行的
+      - `lay`
+        - 世俗的；外行的
     - n.
-      - `lay` 位置；短诗；花纹方向
+      - `lay`
+        - 位置；短诗；花纹方向
     - v.
-      - `lay` 躺；位于（lie的过去式）
+      - `lay`
+        - 躺；位于（lie的过去式）
     - vi.
-      - `lay` 下蛋；打赌
+      - `lay`
+        - 下蛋；打赌
     - vt.
-      - `lay` 躺下；产卵；搁放
+      - `lay`
+        - 躺下；产卵；搁放
   - 近义词
-    - n. 外行；门外汉；俗人；一般信徒
-      - `layperson`
-      - `lay people`
+    - n.
+      - 外行；门外汉；俗人；一般信徒
+        - `layperson`
+        - `lay people`
   - 例句
     - `To the layman (= laymen in general ) all these plants look pretty similar.`
       - 对外行的人来说，这些植物看起来都很相似。

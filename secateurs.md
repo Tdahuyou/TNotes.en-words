@@ -1,13 +1,17 @@
 - secateurs
   - 发音
-    - 英 `/,sekə'tɜːz; 'sekətɜːz/`
-    - 美 `/,sɛkə'tɝz/`
+    - 英
+      - `/,sekə'tɜːz; 'sekətɜːz/`
+    - 美
+      - `/,sɛkə'tɝz/`
   - 词义
-    - n. 修枝夹,剪枝夹
-    - `strong scissors used for cutting plant stems`
+    - n.
+      - 修枝夹,剪枝夹
+        - `strong scissors used for cutting plant stems`
   - 近义词
-    - n. 修枝剪
-      - `pruning shears`
+    - n.
+      - 修枝剪
+        - `pruning shears`
   - 例句
     - `a pair of secateurs`
       - 一把修枝剪

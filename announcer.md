@@ -1,22 +1,30 @@
 - announcer
   - 发音
-    - 英 `/ə'naʊnsə/`
-    - 美 `/ə'naʊnsɚ/`
+    - 英
+      - `/ə'naʊnsə/`
+    - 美
+      - `/ə'naʊnsɚ/`
   - 词义
-    - n. 广播员；告知者；报幕员
-    - `someone who gives information to people using a  loudspeaker  or  microphone  , especially at an airport or railway station`
+    - n.
+      - 广播员；告知者；报幕员
+        - `someone who gives information to people using a  loudspeaker  or  microphone  , especially at an airport or railway station`
   - 同根词
     - n.
-      - `announcement` 公告；宣告；发表；通告
+      - `announcement`
+        - 公告；宣告；发表；通告
     - vi.
-      - `announce` 宣布参加竞选；当播音员
+      - `announce`
+        - 宣布参加竞选；当播音员
     - vt.
-      - `announce` 宣布；述说；预示；播报
+      - `announce`
+        - 宣布；述说；预示；播报
   - 近义词
-    - n. [广播]广播员；宣告者
-      - `broadcaster`
+    - n.
+      - [广播]广播员；宣告者
+        - `broadcaster`
   - 短语
-    - `radio announcer` 电台播音员 
+    - `radio announcer`
+      - 电台播音员 
   - 例句
     - `The radio announcer said it was nine o'clock.`
       - 电台播音员报了9点。

@@ -1,23 +1,31 @@
 - respire
   - 发音
-    - 英 `/rɪ'spaɪər/`
-    - 美 `/rɪ'spaɪɚ/`
+    - 英
+      - `/rɪ'spaɪər/`
+    - 美
+      - `/rɪ'spaɪɚ/`
   - 词义
-    - v. 呼吸
-    - `to breathe`
+    - v.
+      - 呼吸
+        - `to breathe`
   - 记忆
     - re(再， 又) + spir(呼吸) + e → 呼吸
   - 同根词
     - adj.
-      - `respiratory` 呼吸的
+      - `respiratory`
+        - 呼吸的
     - n.
-      - `respiration` 呼吸；呼吸作用
-      - `respirator` 口罩；[医] 呼吸器；防毒面具
+      - `respiration`
+        - 呼吸；呼吸作用
+      - `respirator`
+        - 口罩；[医] 呼吸器；防毒面具
   - 近义词
-    - vt. 呼吸
-      - `breathe`
-    - vi. 呼吸
-      - `breathe`
+    - vt.
+      - 呼吸
+        - `breathe`
+    - vi.
+      - 呼吸
+        - `breathe`
   - 例句
     - `Fish generally respire through gills.`
       - 一般是经由鳃呼吸。

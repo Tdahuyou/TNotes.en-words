@@ -1,18 +1,24 @@
 - ingratitude
   - 发音
-    - 英 `/ɪn'grætɪtjuːd/`
-    - 美 `/ɪn'ɡrætɪtud/`
+    - 英
+      - `/ɪn'grætɪtjuːd/`
+    - 美
+      - `/ɪn'ɡrætɪtud/`
   - 词义
-    - n. 忘恩,不知恩
-    - `the quality of not being grateful`
+    - n.
+      - 忘恩,不知恩
+        - `the quality of not being grateful`
   - 同根词
     - adj.
-      - `ingrate` 忘恩的；不知恩的
+      - `ingrate`
+        - 忘恩的；不知恩的
     - n.
-      - `ingrate` 忘恩负义的人
+      - `ingrate`
+        - 忘恩负义的人
   - 近义词
-    - n. 忘恩负义
-      - `ungratefulness`
+    - n.
+      - 忘恩负义
+        - `ungratefulness`
   - 例句
     - `I’ve never seen such ingratitude!`
       - 我从未见过这样的忘恩负义！

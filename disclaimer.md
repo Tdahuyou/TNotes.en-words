@@ -1,18 +1,24 @@
 - disclaimer
   - 发音
-    - 英 `/dɪs'kleɪmə/`
-    - 美 `/dɪs'klemɚ/`
+    - 英
+      - `/dɪs'kleɪmə/`
+    - 美
+      - `/dɪs'klemɚ/`
   - 词义
-    - n. 放弃,弃权
+    - n.
+      - 放弃,弃权
   - 同根词
     - vi.
-      - `disclaim` 否认；放弃；弃权
+      - `disclaim`
+        - 否认；放弃；弃权
     - vt.
-      - `disclaim` 否认，拒绝；放弃，弃权；拒绝承认
+      - `disclaim`
+        - 否认，拒绝；放弃，弃权；拒绝承认
   - 近义词
-    - n. 不承诺，免责声明；放弃，拒绝
-      - `rejection`
-      - `resignation`
+    - n.
+      - 不承诺，免责声明；放弃，拒绝
+        - `rejection`
+        - `resignation`
   - 例句
     - `However, that method comes with a disclaimer: Do not use it unless you are sure of the result.`
       - 然而，那个方法却有一个放弃声明：不要使用它除非您能确定这个结果。

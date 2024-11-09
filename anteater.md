@@ -1,10 +1,13 @@
 - anteater
   - 发音
-    - 英 `/'æntiːtə/`
-    - 美 `/'æntitɚ/`
+    - 英
+      - `/'æntiːtə/`
+    - 美
+      - `/'æntitɚ/`
   - 词义
-    - n. [动]食蚁动物
-    - `an animal that has a very long nose and eats small insects`
+    - n.
+      - [动]食蚁动物
+        - `an animal that has a very long nose and eats small insects`
   - 例句
     - `Why are you so boring?" the anteater asked.`
       - 食蚁兽问为什么你这么无聊?

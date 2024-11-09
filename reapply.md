@@ -1,9 +1,12 @@
 - reapply
   - 发音
-    - 英 `/ˌriːə'plaɪ/`
-    - 美 `/,riə'plaɪ/`
+    - 英
+      - `/ˌriːə'plaɪ/`
+    - 美
+      - `/,riə'plaɪ/`
   - 词义
-    - v. 再申请；再利用
+    - v.
+      - 再申请；再利用
   - 例句
     - `Professor Dippet told him that he was too young at eighteen, but invited him to reapply in a few years, if he still wished to teach.`
       - 迪佩特教授说他才十八岁，太年轻了，但欢迎他过两年再来申请，如果到那时他还想教书的话。

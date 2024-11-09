@@ -1,19 +1,24 @@
 - gemstone
   - 发音
-    - 英 `/'dʒemstoun/`
-    - 美 `/'dʒɛm,ston/`
+    - 英
+      - `/'dʒemstoun/`
+    - 美
+      - `/'dʒɛm,ston/`
   - 词义
-    - n. 经雕琢的宝石
-    - `A gemstone is a jewel or stone used in jewellery`
+    - n.
+      - 经雕琢的宝石
+        - `A gemstone is a jewel or stone used in jewellery`
   - 记忆
     - gem(宝石) + stone(石头) → 宝石
   - 同根词
     - adj.
-      - `gemmed` 镶上宝石的
+      - `gemmed`
+        - 镶上宝石的
   - 近义词
-    - n. （经雕琢的）[宝]宝石
-      - `gem`
-      - `precious stones`
+    - n.
+      - （经雕琢的）[宝]宝石
+        - `gem`
+        - `precious stones`
   - 例句
     - `Blue turquoise is valued as a gemstone.`
       - 蓝色的绿松石被视为宝石。

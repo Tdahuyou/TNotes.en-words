@@ -1,7 +1,9 @@
 - Cali
   - 发音
-    - 英 `/'kɑ:li/`
-    - 美 `/'kɑ:li/`
+    - 英
+      - `/'kɑ:li/`
+    - 美
+      - `/'kɑ:li/`
   - 词义
   - 例句
     - `We spent close to two months together in Cali, and we met up again in Buenos Aires for two more months.`

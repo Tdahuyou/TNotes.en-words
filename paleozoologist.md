@@ -1,8 +1,11 @@
 - paleozoologist
   - 发音
-    - 英 `/ˌpeɪliəuzəu'ɔlədʒɪst/`
-    - 美 `/undefined/`
+    - 英
+      - `/ˌpeɪliəuzəu'ɔlədʒɪst/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 古动物学家
+    - n.
+      - 古动物学家
   - 记忆
     - paleo(古) + zoo(动物) + logist(学家) → 古动物学家

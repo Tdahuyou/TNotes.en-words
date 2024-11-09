@@ -1,23 +1,30 @@
 - stubborn
   - 发音
-    - 英 `/'stʌbərn/`
-    - 美 `/'stʌbɚn/`
+    - 英
+      - `/'stʌbərn/`
+    - 美
+      - `/'stʌbɚn/`
   - 词义
-    - adj. 顽固的，倔强的；难对付的
-    - `determined not to change your mind, even when people think you are being unreasonable`
+    - adj.
+      - 顽固的，倔强的；难对付的
+        - `determined not to change your mind, even when people think you are being unreasonable`
   - 记忆
     - 生来(born)倔强(stubborn)
   - 同根词
     - adv.
-      - `stubbornly` 顽固地；倔强地
+      - `stubbornly`
+        - 顽固地；倔强地
     - n.
-      - `stubbornness` 倔强；顽强；棘手
+      - `stubbornness`
+        - 倔强；顽强；棘手
   - 近义词
-    - adj. 顽固的；顽强的；难处理的
-      - `resistant`
-      - `problem`
+    - adj.
+      - 顽固的；顽强的；难处理的
+        - `resistant`
+        - `problem`
   - 短语
-    - `facts are stubborn things` 事实是不容改变的东西 
+    - `facts are stubborn things`
+      - 事实是不容改变的东西 
   - 例句
     - `Why are you so stubborn?`
       - 你怎么这么固执？

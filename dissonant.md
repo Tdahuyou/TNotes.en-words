@@ -1,24 +1,31 @@
 - dissonant
   - 发音
-    - 英 `/'disənənt/`
-    - 美 `/'dɪsənənt/`
+    - 英
+      - `/'disənənt/`
+    - 美
+      - `/'dɪsənənt/`
   - 词义
-    - adj. 不和谐的
-    - `discordant; cacophonous `
+    - adj.
+      - 不和谐的
+        - `discordant; cacophonous `
   - 记忆
     - dis (分开) + son (声音) + ant → 声音四分五裂 → 不和谐的
   - 同根词
     - n.
-      - `dissonance` 不一致；不调和；不和谐音
+      - `dissonance`
+        - 不一致；不调和；不和谐音
     - vi.
-      - `dissonate` 刺耳；不协和
+      - `dissonate`
+        - 刺耳；不协和
     - vt.
-      - `dissonate` 使…刺耳；使…不协和
+      - `dissonate`
+        - 使…刺耳；使…不协和
   - 近义词
-    - adj. 刺耳的；不谐和的；不调和的
-      - `grinding`
-      - `sharp`
-      - `harsh`
+    - adj.
+      - 刺耳的；不谐和的；不调和的
+        - `grinding`
+        - `sharp`
+        - `harsh`
   - 例句
     - `The so-called noise is chaotic, dissonant sounds, and more than normal people psychology, the volume of the hearing.`
       - 所谓噪音即是混乱、不谐和的声音，以及超过人们正常心理、听觉的音量。

@@ -1,19 +1,24 @@
 - odour
   - 发音
-    - 英 `/'əʊdə/`
-    - 美 `/'əudə/`
+    - 英
+      - `/'əʊdə/`
+    - 美
+      - `/'əudə/`
   - 词义
-    - n. 气味，臭味
-    - `a smell, especially an unpleasant one`
+    - n.
+      - 气味，臭味
+        - `a smell, especially an unpleasant one`
   - 同根词
     - adj.
-      - `odourless` 无气味的；无臭的
+      - `odourless`
+        - 无气味的；无臭的
   - 近义词
-    - n. 气味；声誉
-      - `smell`
-      - `wind`
-      - `odor`
-      - `prestige`
+    - n.
+      - 气味；声誉
+        - `smell`
+        - `wind`
+        - `odor`
+        - `prestige`
   - 例句
     - `...the lingering odour of car exhaust.`
       - …挥之不去的汽车尾气的独特气味。

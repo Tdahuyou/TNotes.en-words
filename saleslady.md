@@ -1,19 +1,29 @@
 - saleslady
   - 发音
-    - 英 `/'seɪlzleɪdɪ/`
-    - 美 `/'selz,ledi/`
+    - 英
+      - `/'seɪlzleɪdɪ/`
+    - 美
+      - `/'selz,ledi/`
   - 词义
-    - n. 女售货员
+    - n.
+      - 女售货员
   - 同根词
     - adj.
-      - `sales` 销售的，售货的；有关销售的
+      - `sales`
+        - 销售的，售货的；有关销售的
     - n.
-      - `sales` 销售（sale的复数）；销售额
-      - `salesman` 推销员；售货员
-      - `salesperson` 售货员
-      - `salesclerk` 售货员；商店里的店员
-      - `saleswoman` [贸易] 女售货员；[贸易] 女店员
-      - `salesgirl` 女售货员，女店员
+      - `sales`
+        - 销售（sale的复数）；销售额
+      - `salesman`
+        - 推销员；售货员
+      - `salesperson`
+        - 售货员
+      - `salesclerk`
+        - 售货员；商店里的店员
+      - `saleswoman`
+        - [贸易] 女售货员；[贸易] 女店员
+      - `salesgirl`
+        - 女售货员，女店员
   - 例句
     - `"Shall I put him in a box for you?"the saleslady asked.`
       - “我帮你把他放到盒子里，好吗？” 女售货员问道。

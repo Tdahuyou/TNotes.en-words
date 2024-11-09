@@ -1,24 +1,33 @@
 - verbosity
   - 发音
-    - 英 `/vɜːr'bɑːsəti/`
-    - 美 `/undefined/`
+    - 英
+      - `/vɜːr'bɑːsəti/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 冗长
+    - n.
+      - 冗长
   - 同根词
     - adj.
-      - `verbose` 冗长的；啰嗦的
+      - `verbose`
+        - 冗长的；啰嗦的
     - adv.
-      - `verbosely` 冗长地；啰嗦地
+      - `verbosely`
+        - 冗长地；啰嗦地
     - n.
-      - `verboseness` 冗长，罗唆
+      - `verboseness`
+        - 冗长，罗唆
     - vi.
-      - `verbalize` 累赘；唠叨；以言语表述
+      - `verbalize`
+        - 累赘；唠叨；以言语表述
     - vt.
-      - `verbalize` 使…变成动词；用言语表达
+      - `verbalize`
+        - 使…变成动词；用言语表达
   - 近义词
-    - n. 冗长；赘言；唠叨
-      - `lengthiness`
-      - `prolixity`
+    - n.
+      - 冗长；赘言；唠叨
+        - `lengthiness`
+        - `prolixity`
   - 例句
     - `As expressions get more complicated the need to reduce the verbosity of type specification gets more compelling.`
       - 当表达式变得更加复杂，减轻类型说明的冗长的要求变得更加迫切。

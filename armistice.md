@@ -1,15 +1,20 @@
 - armistice
   - 发音
-    - 英 `/'ɑːmɪstɪs/`
-    - 美 `/'ɑrmɪstɪs/`
+    - 英
+      - `/'ɑːmɪstɪs/`
+    - 美
+      - `/'ɑrmɪstɪs/`
   - 词义
-    - n. 停战,休战
-    - `an agreement to stop fighting`
+    - n.
+      - 停战,休战
+        - `an agreement to stop fighting`
   - 近义词
-    - n. [军]停战，休战；休战协议
-      - `truce`
+    - n.
+      - [军]停战，休战；休战协议
+        - `truce`
   - 短语
-    - `armistice day` 休战纪念日 
+    - `armistice day`
+      - 休战纪念日 
   - 例句
     - `Finally, the Bolsheviks signed an armistice with Germany.`
       - 布尔什维克最终与德国签署了停战协议。 

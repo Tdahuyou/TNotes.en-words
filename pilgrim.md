@@ -1,23 +1,31 @@
 - pilgrim
   - 发音
-    - 英 `/'pɪlgrɪm/`
-    - 美 `/'pɪlɡrɪm/`
+    - 英
+      - `/'pɪlgrɪm/`
+    - 美
+      - `/'pɪlɡrɪm/`
   - 词义
-    - n. 朝圣者；漫游者；（美）最初的移民
-    - `a religious person who travels a long way to a holy place`
-    - vi. 去朝圣；漫游
+    - n.
+      - 朝圣者；漫游者；（美）最初的移民
+        - `a religious person who travels a long way to a holy place`
+    - vi.
+      - 去朝圣；漫游
   - 同根词
     - n.
-      - `pilgrimage` 漫游；朝圣之行
+      - `pilgrimage`
+        - 漫游；朝圣之行
     - vi.
-      - `pilgrimage` 朝拜；漫游
+      - `pilgrimage`
+        - 朝拜；漫游
   - 近义词
-    - n. 朝圣者；漫游者；（美）最初的移民
-      - `palmer`
-      - `rover`
-    - vi. 去朝圣；漫游
-      - `range`
-      - `roam about`
+    - n.
+      - 朝圣者；漫游者；（美）最初的移民
+        - `palmer`
+        - `rover`
+    - vi.
+      - 去朝圣；漫游
+        - `range`
+        - `roam about`
   - 例句
     - `pilgrims visiting a holy shrine`
       - 祭拜圣庙的朝圣者

@@ -1,16 +1,22 @@
 - penguin
   - 发音
-    - 英 `/'peŋgwɪn/`
-    - 美 `/'pɛŋɡwɪn/`
+    - 英
+      - `/'peŋgwɪn/`
+    - 美
+      - `/'pɛŋɡwɪn/`
   - 词义
-    - n. 企鹅
-    - `a large black and white Antarctic sea bird, which cannot fly but uses its wings for swimming`
+    - n.
+      - 企鹅
+        - `a large black and white Antarctic sea bird, which cannot fly but uses its wings for swimming`
   - 近义词
-    - n. [鸟]企鹅；空军地勤人员
-      - `penuins`
+    - n.
+      - [鸟]企鹅；空军地勤人员
+        - `penuins`
   - 短语
-    - `king penguin` 国王企鹅；帝企鹅（等于Aptenodytes patagonicus） 
-    - `emperor penguin` n. 皇企鹅 
+    - `king penguin`
+      - 国王企鹅；帝企鹅（等于Aptenodytes patagonicus） 
+    - `emperor penguin`
+      - n. 皇企鹅 
   - 例句
     - `He asked some birds if they knew where the penguin came from. But they ignored him.`
       - 他去问小鸟们，知不知道小企鹅是从哪里来的啊，可是她们却睬都不睬他。

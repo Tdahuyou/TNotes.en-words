@@ -1,10 +1,14 @@
 - freefone
   - 发音
-    - 英 `/'friːfəun/`
-    - 美 `/undefined/`
+    - 英
+      - `/'friːfəun/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 免费电话
-    - `A Freefone telephone number is one which you can dial without having to pay for the call`
+    - n.
+      - 免费电话
+        - `A Freefone telephone number is one which you can dial without having to pay for the call`
   - 近义词
-    - n. 免费电话；话费总付电话
-      - `toll-free number`
+    - n.
+      - 免费电话；话费总付电话
+        - `toll-free number`

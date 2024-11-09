@@ -1,18 +1,26 @@
 - lexicography
   - 发音
-    - 英 `/,leksɪ'kɒgrəfɪ/`
-    - 美 `/,lɛksɪ'kɑɡrəfi/`
+    - 英
+      - `/,leksɪ'kɒgrəfɪ/`
+    - 美
+      - `/,lɛksɪ'kɑɡrəfi/`
   - 词义
-    - n. 词典编纂
-    - `the skill, practice, or profession of writing dictionaries`
+    - n.
+      - 词典编纂
+        - `the skill, practice, or profession of writing dictionaries`
   - 同根词
     - adj.
-      - `lexical` 词汇的；[语] 词典的；词典编纂的
-      - `lexicographical` 辞典编纂的
+      - `lexical`
+        - 词汇的；[语] 词典的；词典编纂的
+      - `lexicographical`
+        - 辞典编纂的
     - n.
-      - `lexicon` 词典，辞典
-      - `lexicographer` 词典编纂者
-      - `lexicology` 词汇学；词典学
+      - `lexicon`
+        - 词典，辞典
+      - `lexicographer`
+        - 词典编纂者
+      - `lexicology`
+        - 词汇学；词典学
   - 例句
     - `It turns out that Corpora have great advantages in lexicography.`
       - 语料库在词典编纂中具有强大的优势。

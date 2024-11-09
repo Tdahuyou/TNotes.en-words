@@ -1,23 +1,31 @@
 - blab
   - 发音
-    - 英 `/blæb/`
-    - 美 `/blæb/`
+    - 英
+      - `/blæb/`
+    - 美
+      - `/blæb/`
   - 词义
-    - v. 泄漏(秘密),胡扯
-    - `If someone blabs about something secret, they tell people about it`
+    - v.
+      - 泄漏(秘密),胡扯
+        - `If someone blabs about something secret, they tell people about it`
   - 同根词
     - n.
-      - `blabber` 多嘴的人；泄密者；胡言乱语
+      - `blabber`
+        - 多嘴的人；泄密者；胡言乱语
     - vi.
-      - `blabber` 胡扯；喋喋不休
+      - `blabber`
+        - 胡扯；喋喋不休
   - 近义词
-    - vt. 泄漏
-      - `leak out`
-      - `uncork`
-    - vi. 胡扯
-      - `maunder`
-    - n. 泄密者；多嘴的人
-      - `prater`
+    - vt.
+      - 泄漏
+        - `leak out`
+        - `uncork`
+    - vi.
+      - 胡扯
+        - `maunder`
+    - n.
+      - 泄密者；多嘴的人
+        - `prater`
   - 例句
     - `Her mistake was to blab about their affair.`
       - 她的错误在于泄露了他们的风流韵事。

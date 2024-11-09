@@ -1,18 +1,25 @@
 - pectoral
   - 发音
-    - 英 `/'pekt(ə)r(ə)l/`
-    - 美 `/'pɛktərəl/`
+    - 英
+      - `/'pekt(ə)r(ə)l/`
+    - 美
+      - `/'pɛktərəl/`
   - 词义
-    - adj. 胸的,肺病的
+    - adj.
+      - 胸的,肺病的
   - 近义词
-    - adj. 胸的；肺病的
-      - `thoracic`
-      - `chested`
-    - n. 胸饰；治疗胸肺药物
-      - `plastron`
+    - adj.
+      - 胸的；肺病的
+        - `thoracic`
+        - `chested`
+    - n.
+      - 胸饰；治疗胸肺药物
+        - `plastron`
   - 短语
-    - `pectoral fin` [鱼]胸鳍 
-    - `pectoral muscle` 胸肌 
+    - `pectoral fin`
+      - [鱼]胸鳍 
+    - `pectoral muscle`
+      - 胸肌 
   - 例句
     - `This gold-and-glass pectoral amulet was discovered in the tomb of Tutankhamun near Luxor, Egypt.`
       - 这个由黄金和玻璃制成的胸饰护身符发现于埃及卢克索附近的图坦卡门陵墓。

@@ -1,21 +1,27 @@
 - precarious
   - 发音
-    - 英 `/prɪ'keərɪəs/`
-    - 美 `/prɪ'kɛrərɪəs/`
+    - 英
+      - `/prɪ'keərɪəs/`
+    - 美
+      - `/prɪ'kɛrərɪəs/`
   - 词义
-    - adj. 危险的,不确定的
-    - `a precarious situation or state is one which may very easily or quickly become worse`
+    - adj.
+      - 危险的,不确定的
+        - `a precarious situation or state is one which may very easily or quickly become worse`
   - 同根词
     - adv.
-      - `precariously` 不安全地；不牢靠地
+      - `precariously`
+        - 不安全地；不牢靠地
     - n.
-      - `precariousness` 不安全；不稳定
+      - `precariousness`
+        - 不安全；不稳定
   - 近义词
-    - adj. 危险的；不确定的
-      - `dangerous`
-      - `critical`
-      - `risky`
-      - `threatening`
+    - adj.
+      - 危险的；不确定的
+        - `dangerous`
+        - `critical`
+        - `risky`
+        - `threatening`
   - 例句
     - `Her health remained precarious, despite the treatment.`
       - 她尽管接受了治疗，但健康状况还是不稳定。

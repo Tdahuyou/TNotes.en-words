@@ -1,21 +1,28 @@
 - tedium
   - 发音
-    - 英 `/'tiːdiəm/`
-    - 美 `/'tidɪəm/`
+    - 英
+      - `/'tiːdiəm/`
+    - 美
+      - `/'tidɪəm/`
   - 词义
-    - n. 单调，乏味
-    - `the feeling of being bored because the things you are doing are not interesting and continue for a long time without changing`
+    - n.
+      - 单调，乏味
+        - `the feeling of being bored because the things you are doing are not interesting and continue for a long time without changing`
   - 同根词
     - adj.
-      - `tedious` 沉闷的；冗长乏味的
+      - `tedious`
+        - 沉闷的；冗长乏味的
     - adv.
-      - `tediously` 沉闷地；冗长而乏味地
+      - `tediously`
+        - 沉闷地；冗长而乏味地
     - n.
-      - `tediousness` 沉闷；乏味
+      - `tediousness`
+        - 沉闷；乏味
   - 近义词
-    - n. 沉闷；单调乏味；厌烦
-      - `heavy-footedness`
-      - `oppression`
+    - n.
+      - 沉闷；单调乏味；厌烦
+        - `heavy-footedness`
+        - `oppression`
   - 例句
     - `We sang while we worked, to relieve the tedium .`
       - 我们边唱歌边干活来排遣无聊。

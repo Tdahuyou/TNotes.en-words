@@ -1,10 +1,13 @@
 - overawe
   - 发音
-    - 英 `/ˌouvər'ɔː/`
-    - 美 `/,auvə'rɔ:/`
+    - 英
+      - `/ˌouvər'ɔː/`
+    - 美
+      - `/,auvə'rɔ:/`
   - 词义
-    - v. 威慑
-    - `to make someone feel respect or fear, so that they are nervous or unable to say or do anything`
+    - v.
+      - 威慑
+        - `to make someone feel respect or fear, so that they are nervous or unable to say or do anything`
   - 记忆
     - over(过度) + awe(敬畏) → 过度敬畏 → 威慑
   - 例句

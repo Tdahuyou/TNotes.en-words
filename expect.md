@@ -1,34 +1,48 @@
 - expect
   - 发音
-    - 英 `/ɪkˈspekt/`
-    - 美 `/ɪk'spɛkt/`
+    - 英
+      - `/ɪkˈspekt/`
+    - 美
+      - `/ɪk'spɛkt/`
   - 词义
-    - v. 预料；预计
-    - `to think that something will happen because it seems likely or has been planned`
+    - v.
+      - 预料；预计
+        - `to think that something will happen because it seems likely or has been planned`
   - 同根词
     - adj.
-      - `expectant` 期待的；怀孕的；预期中的
-      - `expectable` 能预期的；意料中的
+      - `expectant`
+        - 期待的；怀孕的；预期中的
+      - `expectable`
+        - 能预期的；意料中的
     - adv.
-      - `expectantly` 期望地，期待地
+      - `expectantly`
+        - 期望地，期待地
     - n.
-      - `expectation` 期待；预期；指望
-      - `expectancy` 期望，期待
-      - `expectant` 期待者；候选人
+      - `expectation`
+        - 期待；预期；指望
+      - `expectancy`
+        - 期望，期待
+      - `expectant`
+        - 期待者；候选人
   - 近义词
-    - vt. 期望；指望；认为；预料
-      - `promise oneself`
-      - `guess`
-      - `find`
-      - `feel`
-      - `make`
-    - vi. 期待；预期
-      - `look foward to`
-      - `to look forward to`
+    - vt.
+      - 期望；指望；认为；预料
+        - `promise oneself`
+        - `guess`
+        - `find`
+        - `feel`
+        - `make`
+    - vi.
+      - 期待；预期
+        - `look foward to`
+        - `to look forward to`
   - 短语
-    - `expect too much of` 对(某人)期望过高 
-    - `expect of` 对…期望（要求） 
-    - `expect to do` 期待去做；期望做某事 
+    - `expect too much of`
+      - 对(某人)期望过高 
+    - `expect of`
+      - 对…期望（要求） 
+    - `expect to do`
+      - 期待去做；期望做某事 
   - 例句
     - `He will be hard to beat. I fully expect (= am completely sure about ) that and I’m ready.`
       - 他很难击败。我确信这一点，不过我准备好了。

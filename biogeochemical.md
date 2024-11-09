@@ -1,11 +1,15 @@
 - biogeochemical
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - adj. 生物地球化学的
+    - adj.
+      - 生物地球化学的
   - 短语
-    - `biogeochemical cycle` 生物地球化学循环 
+    - `biogeochemical cycle`
+      - 生物地球化学循环 
   - 例句
     - `This correlation suggests that a warming climate is driving this biogeochemical change, Drevnick says.`
       - 德莱夫尼克说，这种关联性表明，气候变暖正在推动这种生物地球化学变化。

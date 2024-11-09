@@ -1,15 +1,20 @@
 - preschooler
   - 发音
-    - 英 `/undefined/`
-    - 美 `/,pri'skʊlɚ/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/,pri'skʊlɚ/`
   - 词义
-    - n. (美)学龄前儿童
-    - `a child who does not yet go to school, or who goes to preschool`
+    - n.
+      - (美)学龄前儿童
+        - `a child who does not yet go to school, or who goes to preschool`
   - 同根词
     - adj.
-      - `preschool` 未满学龄的；就学前的，入学前的
+      - `preschool`
+        - 未满学龄的；就学前的，入学前的
     - n.
-      - `preschool` 幼儿园，育幼院
+      - `preschool`
+        - 幼儿园，育幼院
   - 例句
     - `A preschooler will learn that it's not all right to eat in the classroom, because the teacher says it's not.`
       - 一个学龄前儿童会认识到在教室里吃东西是不对的，因为老师说这样是不对的。

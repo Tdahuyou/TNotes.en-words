@@ -1,18 +1,24 @@
 - kilometer
   - 发音
-    - 英 `/'kɪlə,mitɚ/`
-    - 美 `/ˈkɪləˌmitɚ; kəˈlɑmətɚ/`
+    - 英
+      - `/'kɪlə,mitɚ/`
+    - 美
+      - `/ˈkɪləˌmitɚ; kəˈlɑmətɚ/`
   - 词义
-    - n. 千米,公里
+    - n.
+      - 千米,公里
   - 同根词
     - n.
-      - `kilo` 千克；公里（等于kilogram）
+      - `kilo`
+        - 千克；公里（等于kilogram）
   - 近义词
-    - n. [计量]公里；千米（等于kilometre）
-      - `klick`
-      - `klik`
+    - n.
+      - [计量]公里；千米（等于kilometre）
+        - `klick`
+        - `klik`
   - 短语
-    - `square kilometer` 平方公里 
+    - `square kilometer`
+      - 平方公里 
   - 例句
     - `She had to battle snowstorms, landslides, snakes and loneliness on her 350 kilometer journey.`
       - 在350公里的行程中，她要克服暴风雪、滑坡、蛇和孤独寂寞。

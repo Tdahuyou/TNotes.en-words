@@ -1,32 +1,43 @@
 - decrease
   - 发音
-    - 英 `/dɪ'kriːs/`
-    - 美 `/dɪ'kris/`
+    - 英
+      - `/dɪ'kriːs/`
+    - 美
+      - `/dɪ'kris/`
   - 词义
-    - v. 减少
-    - `to become less or go down to a lower level, or to make something do this`
-    - n. 减少
-    - `the process of becoming less, or the amount by which something becomes less`
+    - v.
+      - 减少
+        - `to become less or go down to a lower level, or to make something do this`
+    - n.
+      - 减少
+        - `the process of becoming less, or the amount by which something becomes less`
   - 记忆
     - de(反) + cre(生长) + ase → 减少
   - 同根词
     - adj.
-      - `decreasing` 渐减的
+      - `decreasing`
+        - 渐减的
     - v.
-      - `decreasing` 减少；缩减（decrease的ing形式）
+      - `decreasing`
+        - 减少；缩减（decrease的ing形式）
   - 近义词
-    - n. 减少，减小；减少量
-      - `reduction`
-      - `loss`
-    - vi. 减少，减小
-      - `to cut down`
-      - `fall off`
-    - vt. 减少，减小
-      - `shorten`
-      - `weaken`
+    - n.
+      - 减少，减小；减少量
+        - `reduction`
+        - `loss`
+    - vi.
+      - 减少，减小
+        - `to cut down`
+        - `fall off`
+    - vt.
+      - 减少，减小
+        - `shorten`
+        - `weaken`
   - 短语
-    - `on the decrease` 在减少中 
-    - `decrease by` 减少了… 
+    - `on the decrease`
+      - 在减少中 
+    - `decrease by`
+      - 减少了… 
   - 例句
     - `The number of people who have the disease has decreased significantly in recent years.`
       - 近年来，这种病的患者人数明显下降。

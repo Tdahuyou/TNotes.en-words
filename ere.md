@@ -1,15 +1,20 @@
 - ere
   - 发音
-    - 英 `/eə/`
-    - 美 `/ɛr/`
+    - 英
+      - `/eə/`
+    - 美
+      - `/ɛr/`
   - 词义
-    - pron&conj. 在…之前
+    - pron&conj.
+      - 在…之前
   - 近义词
-    - prep. 在…以前；毋宁
-      - `until`
-    - conj. 在…以前；毋宁
-      - `until`
-      - `before`
+    - prep.
+      - 在…以前；毋宁
+        - `until`
+    - conj.
+      - 在…以前；毋宁
+        - `until`
+        - `before`
   - 例句
     - `Yet this we ask ere you leave us, that you speak to us and give us of your truth.`
       - 然而在你离开我们之前，对我们说话，把你的真理传述给我们。

@@ -1,21 +1,30 @@
 - locomote
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - v. 移动,行动
+    - v.
+      - 移动,行动
   - 同根词
     - adj.
-      - `locomotive` 火车头的；运动的；移动的
-      - `locomotor` 移动的，运动的；运转的
+      - `locomotive`
+        - 火车头的；运动的；移动的
+      - `locomotor`
+        - 移动的，运动的；运转的
     - n.
-      - `locomotive` 机车；火车头
-      - `locomotion` 运动；移动；旅行
-      - `locomotor` 好旅行的人；有运动力之物；移动发动机
+      - `locomotive`
+        - 机车；火车头
+      - `locomotion`
+        - 运动；移动；旅行
+      - `locomotor`
+        - 好旅行的人；有运动力之物；移动发动机
   - 近义词
-    - vt. 移动；行动
-      - `put`
-      - `to shift`
+    - vt.
+      - 移动；行动
+        - `put`
+        - `to shift`
   - 例句
     - `Since plants cannot locomote , the sensation of experiencing pain would be superfluous. Thus, plants differ completely physiologically from mammals.`
       - 由于植物无法移动，它们不太需要具备感知痛苦的能力，因此，植物与哺乳动物在生理上全然不同。

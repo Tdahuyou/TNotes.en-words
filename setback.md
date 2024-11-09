@@ -1,16 +1,20 @@
 - setback
   - 发音
-    - 英 `/'setbæk/`
-    - 美 `/'sɛtbæk/`
+    - 英
+      - `/'setbæk/`
+    - 美
+      - `/'sɛtbæk/`
   - 词义
-    - n. 挫折，阻碍；倒退
-    - `a problem that delays or prevents progress, or makes things worse than they were`
+    - n.
+      - 挫折，阻碍；倒退
+        - `a problem that delays or prevents progress, or makes things worse than they were`
   - 记忆
     - 来自词组set back(使推迟， 耽误)
   - 近义词
-    - n. 挫折；退步；逆流
-      - `frustration`
-      - `clawback`
+    - n.
+      - 挫折；退步；逆流
+        - `frustration`
+        - `clawback`
   - 例句
     - `The team’s hopes of playing in Europe suffered a setback last night.`
       - 球队赴欧洲参加比赛的希望昨晚遇到了阻碍。

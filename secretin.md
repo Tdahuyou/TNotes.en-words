@@ -1,18 +1,27 @@
 - secretin
   - 发音
-    - 英 `/sɪ'kriːtɪn/`
-    - 美 `/undefined/`
+    - 英
+      - `/sɪ'kriːtɪn/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 分泌素
+    - n.
+      - 分泌素
   - 同根词
     - adj.
-      - `secretive` 秘密的；偷偷摸摸的；促进分泌的
-      - `secretory` 分泌的；促进分泌的
+      - `secretive`
+        - 秘密的；偷偷摸摸的；促进分泌的
+      - `secretory`
+        - 分泌的；促进分泌的
     - n.
-      - `secretion` 分泌；分泌物；藏匿；隐藏
-      - `secretory` 分泌器官；分泌腺
-      - `secretiveness` 隐匿；分泌
-      - `secretor` 分泌器；分泌腺
+      - `secretion`
+        - 分泌；分泌物；藏匿；隐藏
+      - `secretory`
+        - 分泌器官；分泌腺
+      - `secretiveness`
+        - 隐匿；分泌
+      - `secretor`
+        - 分泌器；分泌腺
   - 例句
     - `Acidification of the duodenum and the presence of bile in the duodenum promote secretin release.`
       - 十二指肠酸化和十二指肠内胆汁有存在促进分泌素释放。

@@ -1,19 +1,24 @@
 - motley
   - 发音
-    - 英 `/'mɔtli/`
-    - 美 `/'mɑtli/`
+    - 英
+      - `/'mɔtli/`
+    - 美
+      - `/'mɑtli/`
   - 词义
-    - adj. 混杂的
-    - `a group of people or things that are very different from each other and do not seem to belong together`
+    - adj.
+      - 混杂的
+        - `a group of people or things that are very different from each other and do not seem to belong together`
   - 记忆
     - mot ( = mote， 微粒) + ley → 各种微粒混合 → 混杂的
   - 近义词
-    - adj. 杂色的；混杂的；五颜六色的
-      - `shot`
-      - `varied`
-    - n. 混杂；杂色衣服；小丑
-      - `farrago`
-      - `grab bag`
+    - adj.
+      - 杂色的；混杂的；五颜六色的
+        - `shot`
+        - `varied`
+    - n.
+      - 混杂；杂色衣服；小丑
+        - `farrago`
+        - `grab bag`
   - 例句
     - `I looked at the motley bunch we were sailing with and began to feel uneasy about the trip.`
       - 我看着船上同行的那些杂七杂八的人，对这次航行担心起来。

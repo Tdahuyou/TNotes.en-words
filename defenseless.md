@@ -1,33 +1,51 @@
 - defenseless
   - 发音
-    - 英 `/di'fenslis/`
-    - 美 `/dɪ'fɛnslɪs/`
+    - 英
+      - `/di'fenslis/`
+    - 美
+      - `/dɪ'fɛnslɪs/`
   - 词义
-    - adj. 无防备的
+    - adj.
+      - 无防备的
   - 同根词
     - adj.
-      - `defensive` 自卫的；防御用的
-      - `defending` 卫冕的；防御中的；防守型的
-      - `defenceless` （英）无防御的；无保护的
-      - `defendable` 可防御的
+      - `defensive`
+        - 自卫的；防御用的
+      - `defending`
+        - 卫冕的；防御中的；防守型的
+      - `defenceless`
+        - （英）无防御的；无保护的
+      - `defendable`
+        - 可防御的
     - adv.
-      - `defensively` 防御地；守势地
+      - `defensively`
+        - 防御地；守势地
     - n.
-      - `defense` 防卫，防护；防御措施；防守；vt. 谋划抵御
-      - `defence` 防御；防卫；答辩；防卫设备
-      - `defensive` 防御；守势
-      - `defender` 防卫者，守卫者；辩护者；拥护者；卫冕者
-      - `defensiveness` 防御；防御性
-      - `defenselessness` 无防御
+      - `defense`
+        - 防卫，防护；防御措施；防守；vt. 谋划抵御
+      - `defence`
+        - 防御；防卫；答辩；防卫设备
+      - `defensive`
+        - 防御；守势
+      - `defender`
+        - 防卫者，守卫者；辩护者；拥护者；卫冕者
+      - `defensiveness`
+        - 防御；防御性
+      - `defenselessness`
+        - 无防御
     - v.
-      - `defending` 防护；防卫（defend的ing形式）
+      - `defending`
+        - 防护；防卫（defend的ing形式）
     - vi.
-      - `defend` 保卫；防守
+      - `defend`
+        - 保卫；防守
     - vt.
-      - `defend` 辩护；防护
+      - `defend`
+        - 辩护；防护
   - 近义词
-    - adj. 无防备的
-      - `undefended`
+    - adj.
+      - 无防备的
+        - `undefended`
   - 例句
     - `Without Christ we are defenseless against the Devil, but with "the helmet of salvation" our minds are protected by God.`
       - 没有基督，我们无力防御魔鬼的攻击；但有救恩的头盔，我们的心思便有神的保护。

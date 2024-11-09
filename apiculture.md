@@ -1,13 +1,17 @@
 - apiculture
   - 发音
-    - 英 `/'eɪpɪ,kʌltʃə/`
-    - 美 `/'epɪkʌltʃɚ/`
+    - 英
+      - `/'eɪpɪ,kʌltʃə/`
+    - 美
+      - `/'epɪkʌltʃɚ/`
   - 词义
-    - n. 养蜂
-    - `the breeding and care of bees `
+    - n.
+      - 养蜂
+        - `the breeding and care of bees `
   - 近义词
-    - n. [蜂]养蜂（业）
-      - `bee keeping`
+    - n.
+      - [蜂]养蜂（业）
+        - `bee keeping`
   - 例句
     - `In Asia, apiculture is an important activity in Burma, Bangladesh and India.`
       - 在亚洲缅甸、孟加拉国和印度，养蜂业是一项重要的生产。

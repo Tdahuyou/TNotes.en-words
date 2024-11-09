@@ -1,26 +1,41 @@
 - recruitment
   - 发音
-    - 英 `/rɪ'kruːtm(ə)nt/`
-    - 美 `/rɪ'krʊtmənt/`
+    - 英
+      - `/rɪ'kruːtm(ə)nt/`
+    - 美
+      - `/rɪ'krʊtmənt/`
   - 词义
-    - n. 征募新兵,补充
+    - n.
+      - 征募新兵,补充
   - 同根词
     - n.
-      - `recruit` 招聘；新兵；新成员
-      - `recruiter` 招聘人员，征兵人员
+      - `recruit`
+        - 招聘；新兵；新成员
+      - `recruiter`
+        - 招聘人员，征兵人员
     - vi.
-      - `recruit` 复原；征募新兵；得到补充；恢复健康
+      - `recruit`
+        - 复原；征募新兵；得到补充；恢复健康
     - vt.
-      - `recruit` 补充；聘用；征募；使…恢复健康
+      - `recruit`
+        - 补充；聘用；征募；使…恢复健康
   - 近义词
-    - n. 补充；征募新兵
-      - `supplement`
-      - `renewal`
+    - n.
+      - 补充；征募新兵
+        - `supplement`
+        - `renewal`
   - 短语
-    - `personnel recruitment` 人员招聘，员工招聘 
-    - `recruitment and selection` 招聘与选拔 
-    - `recruitment advertising` 招聘广告 
-    - `recruitment exercise` 招聘工作 
-    - `recruitment drive` 入伍记（游戏） 
-    - `recruitment methods` 招聘方法 
-    - `recruitment policy` 招聘政策 
+    - `personnel recruitment`
+      - 人员招聘，员工招聘 
+    - `recruitment and selection`
+      - 招聘与选拔 
+    - `recruitment advertising`
+      - 招聘广告 
+    - `recruitment exercise`
+      - 招聘工作 
+    - `recruitment drive`
+      - 入伍记（游戏） 
+    - `recruitment methods`
+      - 招聘方法 
+    - `recruitment policy`
+      - 招聘政策 

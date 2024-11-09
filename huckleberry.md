@@ -1,10 +1,13 @@
 - huckleberry
   - 发音
-    - 英 `/'hʌk(ə)lb(ə)rɪ/`
-    - 美 `/'hʌkl'bɛri/`
+    - 英
+      - `/'hʌk(ə)lb(ə)rɪ/`
+    - 美
+      - `/'hʌkl'bɛri/`
   - 词义
-    - n. 越橘类
-    - `any American ericaceous shrub of the genus Gaylussacia, having edible dark blue berries with large seeds `
+    - n.
+      - 越橘类
+        - `any American ericaceous shrub of the genus Gaylussacia, having edible dark blue berries with large seeds `
   - 例句
     - `Groves of stunted red spruce, huckleberry, blueberry, mountain laurel, mountain holly, speckled alder, and cranberry bogs, show combinations of colors throughout the year.`
       - 发育不良云杉的小树林、黑果木、蓝莓、山月桂、山冬青，斑点桤木和种越橘的沼泽地，显示着全年各种颜色的组合。

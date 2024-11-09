@@ -1,9 +1,12 @@
 - Cincinnati
   - 发音
-    - 英 `/,sinsi'næti/`
-    - 美 `/,sɪnsə'næti/`
+    - 英
+      - `/,sinsi'næti/`
+    - 美
+      - `/,sɪnsə'næti/`
   - 词义
-    - n. 辛辛那提（美国俄亥俄州西南部城市）
+    - n.
+      - 辛辛那提（美国俄亥俄州西南部城市）
   - 例句
     - `We never went back. Instead, we moved to a house near Cincinnati, far from the river.`
       - 我们再也没有回去，而是举家迁往离河很远的辛辛那提附近的另一幢房子。

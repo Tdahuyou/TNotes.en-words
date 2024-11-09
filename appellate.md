@@ -1,20 +1,27 @@
 - appellate
   - 发音
-    - 英 `/ə'pelit/`
-    - 美 `/ə'pɛlɪt/`
+    - 英
+      - `/ə'pelit/`
+    - 美
+      - `/ə'pɛlɪt/`
   - 词义
-    - adj. 有权受理上诉的
-    - `of or relating to appeals `
+    - adj.
+      - 有权受理上诉的
+        - `of or relating to appeals `
   - 记忆
     - 和appeal (v. 上诉； 呼吁) 一起记
   - 同根词
     - adj.
-      - `appellant` 上诉的
+      - `appellant`
+        - 上诉的
     - n.
-      - `appellant` 上诉人
+      - `appellant`
+        - 上诉人
   - 短语
-    - `appellate court` 受理上诉的法院 
-    - `appellate jurisdiction` 上诉法院 
+    - `appellate court`
+      - 受理上诉的法院 
+    - `appellate jurisdiction`
+      - 上诉法院 
   - 例句
     - `The appellate court demanded the production of all documents.`
       - 这个受理上诉的法庭要求所有证据的出示。

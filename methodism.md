@@ -1,10 +1,14 @@
 - methodism
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 美以美教派教会,教义和礼拜的方式
+    - n.
+      - 美以美教派教会,教义和礼拜的方式
   - 近义词
-    - n. 墨守成规；拘泥形式
-      - `conventionalism`
-      - `routinism`
+    - n.
+      - 墨守成规；拘泥形式
+        - `conventionalism`
+        - `routinism`

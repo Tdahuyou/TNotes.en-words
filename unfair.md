@@ -1,27 +1,38 @@
 - unfair
   - 发音
-    - 英 `/ʌn'feə/`
-    - 美 `/'ʌn'fɛr/`
+    - 英
+      - `/ʌn'feə/`
+    - 美
+      - `/'ʌn'fɛr/`
   - 词义
-    - adj. 不公平的
-    - `not right or fair, especially because not everyone has an equal opportunity`
+    - adj.
+      - 不公平的
+        - `not right or fair, especially because not everyone has an equal opportunity`
   - 同根词
     - adv.
-      - `unfairly` 不公平地；不正当地
+      - `unfairly`
+        - 不公平地；不正当地
     - n.
-      - `unfairness` 不公平，不公正；不正当
+      - `unfairness`
+        - 不公平，不公正；不正当
   - 近义词
-    - adj. 不公平的，不公正的
-      - `partial`
-      - `unjust`
-      - `inequitable`
-      - `unequitable`
+    - adj.
+      - 不公平的，不公正的
+        - `partial`
+        - `unjust`
+        - `inequitable`
+        - `unequitable`
   - 短语
-    - `unfair competition` 不公平竞争 
-    - `unfair treatment` 不公平待遇；区别对待 
-    - `unfair advantage` 不公平的优势 
-    - `unfair dismissal` 不公平解雇 
-    - `unfair price` 不合理价格 
+    - `unfair competition`
+      - 不公平竞争 
+    - `unfair treatment`
+      - 不公平待遇；区别对待 
+    - `unfair advantage`
+      - 不公平的优势 
+    - `unfair dismissal`
+      - 不公平解雇 
+    - `unfair price`
+      - 不合理价格 
   - 例句
     - `an unfair advantage`
       - 不公平的优势

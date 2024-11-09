@@ -1,32 +1,43 @@
 - designate
   - 发音
-    - 英 `/'dezɪgneɪt/`
-    - 美 `/'dɛzɪɡnet/`
+    - 英
+      - `/'dezɪgneɪt/`
+    - 美
+      - `/'dɛzɪɡnet/`
   - 词义
-    - adj. 已任命但尚未就职的
-    - `used after the name of an official job to show that someone has been chosen for that job but has not yet officially started work`
-    - vt. 命名；任命；指明，标示
-    - `to choose someone or something for a particular job or purpose`
+    - adj.
+      - 已任命但尚未就职的
+        - `used after the name of an official job to show that someone has been chosen for that job but has not yet officially started work`
+    - vt.
+      - 命名；任命；指明，标示
+        - `to choose someone or something for a particular job or purpose`
   - 记忆
     - de + sign(标志) + ate → 给出标志 → 命名
   - 同根词
     - adj.
-      - `designated` 指定的；特指的
-      - `designer` 由设计师专门设计的；享有盛名的；赶时髦的
-      - `designative` 指定的；指明的；指名的
+      - `designated`
+        - 指定的；特指的
+      - `designer`
+        - 由设计师专门设计的；享有盛名的；赶时髦的
+      - `designative`
+        - 指定的；指明的；指名的
     - n.
-      - `designation` 指定；名称；指示；选派
-      - `designer` 设计师；谋划者
+      - `designation`
+        - 指定；名称；指示；选派
+      - `designer`
+        - 设计师；谋划者
   - 近义词
-    - vt. 指定；指派；标出；把…定名为
-      - `specify`
-      - `ticket`
-      - `name`
-      - `appoint`
-    - adj. 指定的；选定的
-      - `assigned`
-      - `named`
-      - `appointed`
+    - vt.
+      - 指定；指派；标出；把…定名为
+        - `specify`
+        - `ticket`
+        - `name`
+        - `appoint`
+    - adj.
+      - 指定的；选定的
+        - `assigned`
+        - `named`
+        - `appointed`
   - 例句
     - `the director designate`
       - 候任董事

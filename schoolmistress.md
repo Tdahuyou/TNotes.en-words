@@ -1,20 +1,28 @@
 - schoolmistress
   - 发音
-    - 英 `/'skuːlmɪstrɪs/`
-    - 美 `/'skʊl'mæstɚ/`
+    - 英
+      - `/'skuːlmɪstrɪs/`
+    - 美
+      - `/'skʊl'mæstɚ/`
   - 词义
-    - n. 女教师；女校长
-    - `a female teacher, especially in a  private school (= one that parents pay to send their children to ) `
+    - n.
+      - 女教师；女校长
+        - `a female teacher, especially in a  private school (= one that parents pay to send their children to ) `
   - 同根词
     - n.
-      - `schoolmaster` 男校长；教导者；男教师
-      - `schoolman` 学校教师；烦琐哲学家；教授
-      - `schoolmarm` 女教师（等于schoolma’am）；装出教师派头的人；女学究
-      - `schoolteacher` 教师
+      - `schoolmaster`
+        - 男校长；教导者；男教师
+      - `schoolman`
+        - 学校教师；烦琐哲学家；教授
+      - `schoolmarm`
+        - 女教师（等于schoolma’am）；装出教师派头的人；女学究
+      - `schoolteacher`
+        - 教师
   - 近义词
-    - n. 女教师；女校长
-      - `preceptress`
-      - `instructress`
+    - n.
+      - 女教师；女校长
+        - `preceptress`
+        - `instructress`
   - 例句
     - `Under the new name of Jane Elliott, she finds a job as village schoolmistress and tries to forget her seemingly hopeless love for Rochester.`
       - 她改名为简·艾略特，找到一份工作，担任乡村小学女教师，竭力想忘掉她对罗切斯特的看来毫无希望的爱情。

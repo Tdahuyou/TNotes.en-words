@@ -1,26 +1,42 @@
 - geologic
   - 发音
-    - 英 `/,dʒɪəʊ'lɒdʒɪk/`
-    - 美 `/dʒɪə'lɑdʒɪk/`
+    - 英
+      - `/,dʒɪəʊ'lɒdʒɪk/`
+    - 美
+      - `/dʒɪə'lɑdʒɪk/`
   - 词义
-    - adj. 地质的
+    - adj.
+      - 地质的
   - 同根词
     - adv.
-      - `geologically` 从地质学角度
+      - `geologically`
+        - 从地质学角度
     - n.
-      - `geology` 地质学；地质情况
-      - `geologist` 地质学家，地质学者
+      - `geology`
+        - 地质学；地质情况
+      - `geologist`
+        - 地质学家，地质学者
   - 短语
-    - `geologic structure` 地质构造；地质结构 
-    - `geologic setting` 地质背景 
-    - `geologic survey` 地质调查，地质勘探；地质测量；地质调查所 
-    - `geologic environment` 地质环境 
-    - `geologic hazard` 地质灾害 
-    - `geologic feature` 地质特征 
-    - `geologic history` n. 地史，地质史 
-    - `geologic time` 地质时期，地质时代；地质年代 
-    - `geologic age` 地质时代，地质年代 
-    - `geologic map` n. 地质图；地质学 
+    - `geologic structure`
+      - 地质构造；地质结构 
+    - `geologic setting`
+      - 地质背景 
+    - `geologic survey`
+      - 地质调查，地质勘探；地质测量；地质调查所 
+    - `geologic environment`
+      - 地质环境 
+    - `geologic hazard`
+      - 地质灾害 
+    - `geologic feature`
+      - 地质特征 
+    - `geologic history`
+      - n. 地史，地质史 
+    - `geologic time`
+      - 地质时期，地质时代；地质年代 
+    - `geologic age`
+      - 地质时代，地质年代 
+    - `geologic map`
+      - n. 地质图；地质学 
   - 例句
     - `The best gauge of quake risk is the geologic record.`
       - 我们最好的测量地震风险的办法是地质记录。

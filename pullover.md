@@ -1,17 +1,23 @@
 - pullover
   - 发音
-    - 英 `/'pʊləʊvə/`
-    - 美 `/'pʊlovɚ/`
+    - 英
+      - `/'pʊləʊvə/`
+    - 美
+      - `/'pʊlovɚ/`
   - 词义
-    - n. 套衫
-    - `a piece of  woollen  clothing without buttons that you wear on the top half of your body`
-    - adj. 套领的
+    - n.
+      - 套衫
+        - `a piece of  woollen  clothing without buttons that you wear on the top half of your body`
+    - adj.
+      - 套领的
   - 近义词
-    - n. 套衫
-      - `overpull`
-      - `slip over`
-    - adj. 套领的
-      - `slipover`
+    - n.
+      - 套衫
+        - `overpull`
+        - `slip over`
+    - adj.
+      - 套领的
+        - `slipover`
   - 例句
     - `This pullover fits you well.`
       - 这件羊毛套衫你穿很合身。

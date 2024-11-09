@@ -1,24 +1,33 @@
 - survivor
   - 发音
-    - 英 `/sə'vaɪvə/`
-    - 美 `/sɚ'vaɪvɚ/`
+    - 英
+      - `/sə'vaɪvə/`
+    - 美
+      - `/sɚ'vaɪvɚ/`
   - 词义
-    - n. 生还者,残存物
-    - `someone who continues to live after an accident, war, or illness`
+    - n.
+      - 生还者,残存物
+        - `someone who continues to live after an accident, war, or illness`
   - 同根词
     - adj.
-      - `surviving` 继续存在的；未死的；依然健在的
+      - `surviving`
+        - 继续存在的；未死的；依然健在的
     - n.
-      - `survival` 幸存，残存；幸存者，残存物
+      - `survival`
+        - 幸存，残存；幸存者，残存物
     - v.
-      - `surviving` 生存（survive的ing形式）
+      - `surviving`
+        - 生存（survive的ing形式）
     - vi.
-      - `survive` 幸存；活下来
+      - `survive`
+        - 幸存；活下来
     - vt.
-      - `survive` 幸存；生还；幸免于；比...活得长
+      - `survive`
+        - 幸存；生还；幸免于；比...活得长
   - 近义词
-    - n. 幸存者；生还者；残存物
-      - `leavings`
+    - n.
+      - 幸存者；生还者；残存物
+        - `leavings`
   - 例句
     - `Don’t worry about Kurt; he’s a survivor.`
       - 不用担心库尔特，他是个坚强的人。

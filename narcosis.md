@@ -1,23 +1,31 @@
 - narcosis
   - 发音
-    - 英 `/nɑː'kəʊsɪs/`
-    - 美 `/undefined/`
+    - 英
+      - `/nɑː'kəʊsɪs/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 昏迷状态,麻醉
-    - `unconsciousness induced by narcotics or general anaesthetics `
+    - n.
+      - 昏迷状态,麻醉
+        - `unconsciousness induced by narcotics or general anaesthetics `
   - 同根词
     - adj.
-      - `narcotic` 麻醉的；有麻醉作用的；催眠的
+      - `narcotic`
+        - 麻醉的；有麻醉作用的；催眠的
     - n.
-      - `narcotic` [药] 麻醉药；镇静剂；起麻醉作用的事物
+      - `narcotic`
+        - [药] 麻醉药；镇静剂；起麻醉作用的事物
     - vi.
-      - `narcotize` 起麻醉作用
+      - `narcotize`
+        - 起麻醉作用
     - vt.
-      - `narcotize` 麻醉，使昏迷
+      - `narcotize`
+        - 麻醉，使昏迷
   - 近义词
-    - n. [外科]麻醉；昏迷状态
-      - `anesthesia`
-      - `anaesthesia`
+    - n.
+      - [外科]麻醉；昏迷状态
+        - `anesthesia`
+        - `anaesthesia`
   - 例句
     - `Patient faint shows narcosis , high fever, convulsions, the skin cadaverous or the purple that show blueness.`
       - 病人昏倒呈昏迷状态，高烧，惊厥，皮肤苍白或呈青紫色。

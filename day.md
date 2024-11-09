@@ -1,47 +1,77 @@
 - day
   - 发音
-    - 英 `/deɪ/`
-    - 美 `/de/`
+    - 英
+      - `/deɪ/`
+    - 美
+      - `/de/`
   - 词义
-    - n. 一天
-    - `a period of 24 hours`
+    - n.
+      - 一天
+        - `a period of 24 hours`
   - 同根词
     - adj.
-      - `daily` 日常的；每日的
+      - `daily`
+        - 日常的；每日的
     - adv.
-      - `daily` 日常地；每日；天天
+      - `daily`
+        - 日常地；每日；天天
     - n.
-      - `daily` 日报；朝来夜去的女佣
-      - `daylight` 白天；日光；黎明；公开
-      - `daycare` 日托；日间照管儿童
+      - `daily`
+        - 日报；朝来夜去的女佣
+      - `daylight`
+        - 白天；日光；黎明；公开
+      - `daycare`
+        - 日托；日间照管儿童
   - 近义词
-    - n. 一天；时期；白昼
-      - `period`
-      - `season`
-      - `page`
-    - adj. 日间的；逐日的
-      - `day-to-day`
+    - n.
+      - 一天；时期；白昼
+        - `period`
+        - `season`
+        - `page`
+    - adj.
+      - 日间的；逐日的
+        - `day-to-day`
   - 短语
-    - `every day` 每天；每个白天 
-    - `one day` （将来）有一天；总有一天；（过去）某一天 
-    - `all day` 整天 
-    - `by day` 在白天；日间 
-    - `day by day` 一天天；逐日 
-    - `of the day` 当时的；当代的 
-    - `first day` n. 星期日 
-    - `next day` 第二天 
-    - `some day` 总有一天；将来有一天；来日 
-    - `other day` 几天前 
-    - `in the day` 在白天；在一天中 
-    - `with each passing day` 日益地，一天天地 
-    - `national day` 国庆节 
-    - `day and night` 日以继夜 
-    - `per day` 每日，每天 
-    - `valentine's day` n. 情人节（每年2月14日） 
-    - `another day` 另一天，又一天；改日；吉日 
-    - `last day` 最后一天；最后审判日 
-    - `on the day` 在那天；（英）到那时 
-    - `the day before` 前一天 
+    - `every day`
+      - 每天；每个白天 
+    - `one day`
+      - （将来）有一天；总有一天；（过去）某一天 
+    - `all day`
+      - 整天 
+    - `by day`
+      - 在白天；日间 
+    - `day by day`
+      - 一天天；逐日 
+    - `of the day`
+      - 当时的；当代的 
+    - `first day`
+      - n. 星期日 
+    - `next day`
+      - 第二天 
+    - `some day`
+      - 总有一天；将来有一天；来日 
+    - `other day`
+      - 几天前 
+    - `in the day`
+      - 在白天；在一天中 
+    - `with each passing day`
+      - 日益地，一天天地 
+    - `national day`
+      - 国庆节 
+    - `day and night`
+      - 日以继夜 
+    - `per day`
+      - 每日，每天 
+    - `valentine's day`
+      - n. 情人节（每年2月14日） 
+    - `another day`
+      - 另一天，又一天；改日；吉日 
+    - `last day`
+      - 最后一天；最后审判日 
+    - `on the day`
+      - 在那天；（英）到那时 
+    - `the day before`
+      - 前一天 
   - 例句
     - `We spent three days in Paris.`
       - 我们在巴黎度过了三天。

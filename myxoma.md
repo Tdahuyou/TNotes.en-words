@@ -1,13 +1,17 @@
 - myxoma
   - 发音
-    - 英 `/mɪk'səʊmə/`
-    - 美 `/mɪk'somə/`
+    - 英
+      - `/mɪk'səʊmə/`
+    - 美
+      - `/mɪk'somə/`
   - 词义
-    - n. [医]粘液瘤
-    - `a tumour composed of mucous connective tissue, usually situated in subcutaneous tissue `
+    - n.
+      - [医]粘液瘤
+        - `a tumour composed of mucous connective tissue, usually situated in subcutaneous tissue `
   - 同根词
     - n.
-      - `myxomatosis` 多发粘液瘤病；[肿瘤] 粘液瘤变性
+      - `myxomatosis`
+        - 多发粘液瘤病；[肿瘤] 粘液瘤变性
   - 例句
     - `Objective To review the experience in the diagnosis and surgical treatment of cardiac myxoma.`
       - 目的探讨心脏黏液瘤的诊断和外科治疗。

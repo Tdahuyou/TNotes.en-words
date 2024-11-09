@@ -1,23 +1,33 @@
 - lone
   - 发音
-    - 英 `/ləʊn/`
-    - 美 `/lon/`
+    - 英
+      - `/ləʊn/`
+    - 美
+      - `/lon/`
   - 词义
-    - adj. 孤独的，寂寞的
-    - `used to talk about the only person or thing in a place, or the only person or thing that does something`
+    - adj.
+      - 孤独的，寂寞的
+        - `used to talk about the only person or thing in a place, or the only person or thing that does something`
   - 同根词
     - adj.
-      - `lonely` 寂寞的；偏僻的
-      - `lonesome` 寂寞的；人迹稀少的
+      - `lonely`
+        - 寂寞的；偏僻的
+      - `lonesome`
+        - 寂寞的；人迹稀少的
     - n.
-      - `lonely` 孤独者
-      - `loneliness` 寂寞，孤独
-      - `lonesome` 自己
-      - `loner` 孤独的人；不合群的动物
+      - `lonely`
+        - 孤独者
+      - `loneliness`
+        - 寂寞，孤独
+      - `lonesome`
+        - 自己
+      - `loner`
+        - 孤独的人；不合群的动物
   - 近义词
-    - adj. 单身的；独自的；寂寞的；人迹稀少的
-      - `alone`
-      - `single`
+    - adj.
+      - 单身的；独自的；寂寞的；人迹稀少的
+        - `alone`
+        - `single`
   - 例句
     - `A lone figure was standing at the bus stop.`
       - 公交车站上站着一个孤单的身影。

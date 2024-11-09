@@ -1,9 +1,12 @@
 - lithospheric
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - adj. 岩石圈的;陆界的
+    - adj.
+      - 岩石圈的;陆界的
   - 例句
     - `A mid-ocean ridge is a boundary between plates where new lithospheric material is injected from below.`
       - 一道中海脊是板块之间的边界，在那里新的岩石圈的物质从下部注入。

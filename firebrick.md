@@ -1,17 +1,22 @@
 - firebrick
   - 发音
-    - 英 `/'faɪəbrɪk/`
-    - 美 `/undefined/`
+    - 英
+      - `/'faɪəbrɪk/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 耐火砖
-    - `a brick that is not damaged by heat, used in chimneys`
+    - n.
+      - 耐火砖
+        - `a brick that is not damaged by heat, used in chimneys`
   - 同根词
     - n.
-      - `fireclay` 火泥；耐火土
+      - `fireclay`
+        - 火泥；耐火土
   - 近义词
-    - n. [建]耐火砖
-      - `refractory brick`
-      - `refractory block`
+    - n.
+      - [建]耐火砖
+        - `refractory brick`
+        - `refractory block`
   - 例句
     - `Stones drilling bit:Use for drilling stones, concrete, firebrick etc. Various type and specification.`
       - 简介：石材钻头：适用于石材、混凝土、耐火材料的钻孔。各种型号及规格。

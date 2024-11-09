@@ -1,18 +1,25 @@
 - disintegration
   - 发音
-    - 英 `/dɪs,ɪntɪ'greɪʃ(ə)n/`
-    - 美 `/dɪs,ɪntə'greʃən/`
+    - 英
+      - `/dɪs,ɪntɪ'greɪʃ(ə)n/`
+    - 美
+      - `/dɪs,ɪntə'greʃən/`
   - 词义
-    - n. 瓦解，崩溃；分解
+    - n.
+      - 瓦解，崩溃；分解
   - 同根词
     - adj.
-      - `disintegrative` 使崩溃的；使分裂的
+      - `disintegrative`
+        - 使崩溃的；使分裂的
     - vi.
-      - `disintegrate` 瓦解；碎裂；衰变
+      - `disintegrate`
+        - 瓦解；碎裂；衰变
     - vt.
-      - `disintegrate` 使分解；使碎裂；使崩溃；使衰变
+      - `disintegrate`
+        - 使分解；使碎裂；使崩溃；使衰变
   - 近义词
-    - n. 瓦解，崩溃；分解
-      - `analysis`
-      - `decomposition`
-      - `crash`
+    - n.
+      - 瓦解，崩溃；分解
+        - `analysis`
+        - `decomposition`
+        - `crash`

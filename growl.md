@@ -1,25 +1,34 @@
 - growl
   - 发音
-    - 英 `/graʊl/`
-    - 美 `/ɡraʊl/`
+    - 英
+      - `/graʊl/`
+    - 美
+      - `/ɡraʊl/`
   - 词义
-    - v. 咆哮着说
-    - n. 咆哮声；吠声；不平
-    - `Growl is also a noun`
+    - v.
+      - 咆哮着说
+    - n.
+      - 咆哮声；吠声；不平
+        - `Growl is also a noun`
   - 同根词
     - adj.
-      - `growling` 咆哮的；隆隆响的
+      - `growling`
+        - 咆哮的；隆隆响的
     - n.
-      - `growler` 鲈类；咆哮的人；短路线圈测试仪
+      - `growler`
+        - 鲈类；咆哮的人；短路线圈测试仪
     - v.
-      - `growling` 咆哮（growl的ing形式）；怒吠
+      - `growling`
+        - 咆哮（growl的ing形式）；怒吠
   - 近义词
-    - vt. 咆哮；（雷电，炮等）[地物]轰鸣
-      - `huff and puff`
-      - `bark`
-    - n. 咆哮声；吠声；不平
-      - `ululation`
-      - `discontentment`
+    - vt.
+      - 咆哮；（雷电，炮等）[地物]轰鸣
+        - `huff and puff`
+        - `bark`
+    - n.
+      - 咆哮声；吠声；不平
+        - `ululation`
+        - `discontentment`
   - 例句
     - `And then the lights go off, and the din of the tourists turns from a momentary grumble of protest to a greedy growl to whispered disappointment.`
       - 这时灯光熄灭了，一时间游客的噪声从短暂的抗议的抱怨声变成了贪婪的咆哮声，接着变成了低语的失望声。

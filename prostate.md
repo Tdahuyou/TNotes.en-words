@@ -1,19 +1,28 @@
 - prostate
   - 发音
-    - 英 `/'prɒsteɪt/`
-    - 美 `/'prɑstet/`
+    - 英
+      - `/'prɒsteɪt/`
+    - 美
+      - `/'prɑstet/`
   - 词义
-    - adj. 前列腺的
-    - n. [解剖]前列腺
-    - `an organ in the body of male  mammal s  that is near the  bladder  and that produces a liquid in which  sperm  are carried`
+    - adj.
+      - 前列腺的
+    - n.
+      - [解剖]前列腺
+        - `an organ in the body of male  mammal s  that is near the  bladder  and that produces a liquid in which  sperm  are carried`
   - 同根词
     - n.
-      - `prostaglandin` [生化] 前列腺素
-      - `prostatectomy` [泌尿] 前列腺切除术
-      - `prostatitis` [泌尿] 前列腺炎，摄护腺炎
+      - `prostaglandin`
+        - [生化] 前列腺素
+      - `prostatectomy`
+        - [泌尿] 前列腺切除术
+      - `prostatitis`
+        - [泌尿] 前列腺炎，摄护腺炎
   - 短语
-    - `prostate cancer` 前列腺癌 
-    - `prostate gland` 前列腺 
+    - `prostate cancer`
+      - 前列腺癌 
+    - `prostate gland`
+      - 前列腺 
   - 例句
     - `Another way to prevent prostate disease is through diet.`
       - 预防前列腺疾病的另一种方法是饮食。

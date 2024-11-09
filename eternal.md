@@ -1,34 +1,48 @@
 - eternal
   - 发音
-    - 英 `/ɪ'tɜːrnl/`
-    - 美 `/ɪ'tɝnl/`
+    - 英
+      - `/ɪ'tɜːrnl/`
+    - 美
+      - `/ɪ'tɝnl/`
   - 词义
-    - adj. 永恒的，不朽的
-    - `continuing for ever and having no end`
+    - adj.
+      - 永恒的，不朽的
+        - `continuing for ever and having no end`
   - 记忆
     - 外面(external)世界是永恒的(eternal)诱惑
   - 同根词
     - adv.
-      - `eternally` 永恒地；不朽地
+      - `eternally`
+        - 永恒地；不朽地
     - n.
-      - `eternity` 来世，来生；不朽；永世
+      - `eternity`
+        - 来世，来生；不朽；永世
     - vt.
-      - `eternalize` 使永恒；使不朽；使不灭（等于eternize）
-      - `eternize` 使不变；使永恒
+      - `eternalize`
+        - 使永恒；使不朽；使不灭（等于eternize）
+      - `eternize`
+        - 使不变；使永恒
   - 近义词
-    - adj. 永恒的；不朽的
-      - `permanent`
-      - `lasting`
-      - `everlasting`
-      - `undying`
-      - `timeless`
+    - adj.
+      - 永恒的；不朽的
+        - `permanent`
+        - `lasting`
+        - `everlasting`
+        - `undying`
+        - `timeless`
   - 短语
-    - `eternal life` [宗]永生；来世 
-    - `eternal glory` 永恒的荣耀 
-    - `eternal flame` 永恒的烈火 
-    - `eternal truth` 永恒的真理 
-    - `eternal city` 永恒之城；不朽之城（罗马城的别称） 
-    - `eternal law` 永恒法 
+    - `eternal life`
+      - [宗]永生；来世 
+    - `eternal glory`
+      - 永恒的荣耀 
+    - `eternal flame`
+      - 永恒的烈火 
+    - `eternal truth`
+      - 永恒的真理 
+    - `eternal city`
+      - 永恒之城；不朽之城（罗马城的别称） 
+    - `eternal law`
+      - 永恒法 
   - 例句
     - `the Christian promise of eternal life`
       - 基督教承诺的永生

@@ -1,8 +1,11 @@
 - antiquarianism
   - 发音
-    - 英 `/ˌænti'kweəriənizəm/`
-    - 美 `/undefined/`
+    - 英
+      - `/ˌænti'kweəriənizəm/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 古物研究，好古癖
+    - n.
+      - 古物研究，好古癖
   - 记忆
     - antiqu(古老的) + arian + ism → 古物研究

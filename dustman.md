@@ -1,14 +1,18 @@
 - dustman
   - 发音
-    - 英 `/'dʌs(t)mən/`
-    - 美 `/'dʌstmən/`
+    - 英
+      - `/'dʌs(t)mən/`
+    - 美
+      - `/'dʌstmən/`
   - 词义
-    - n. 清洁工人
-    - `someone whose job is to remove waste from  dustbin s `
+    - n.
+      - 清洁工人
+        - `someone whose job is to remove waste from  dustbin s `
   - 近义词
-    - n. [环境]清洁工人
-      - `binman`
-      - `dumper`
+    - n.
+      - [环境]清洁工人
+        - `binman`
+        - `dumper`
   - 例句
     - `The old dustman has been working on this street for twenty years.`
       - 这个老清洁工达条街上干了20年了。

@@ -1,9 +1,12 @@
 - preindustrial
   - 发音
-    - 英 `/,priːɪn'dʌstrɪəl/`
-    - 美 `/,priɪn'dʌstriəl/`
+    - 英
+      - `/,priːɪn'dʌstrɪəl/`
+    - 美
+      - `/,priɪn'dʌstriəl/`
   - 词义
-    - adj. 未工业化的,工业化前的
+    - adj.
+      - 未工业化的,工业化前的
   - 例句
     - `Am I suggesting that we should return to the preindustrial mode of production or to nineteenth-century "free enterprise" capitalism?`
       - 我是否在建议我们应回到工业化前的生产模式或回到十九世纪"自由企业"资本主义时期呢？

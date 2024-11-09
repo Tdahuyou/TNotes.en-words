@@ -1,9 +1,12 @@
 - intercommunity
   - 发音
-    - 英 `/ɪntəkə'mjuːnɪtɪ/`
-    - 美 `/,ɪntɚkə'mjʊnəti/`
+    - 英
+      - `/ɪntəkə'mjuːnɪtɪ/`
+    - 美
+      - `/,ɪntɚkə'mjʊnəti/`
   - 词义
-    - n. 共同性,共有
+    - n.
+      - 共同性,共有
   - 例句
     - `In this study, we examine how intercommunity relationships affect the growth of organizational communities.`
       - 在本文中，我们研究了共同性关系是如何影响组织社区的成长的。

@@ -1,14 +1,18 @@
 - cameraman
   - 发音
-    - 英 `/'kæmrəmən/`
-    - 美 `/'kæmrəmən/`
+    - 英
+      - `/'kæmrəmən/`
+    - 美
+      - `/'kæmrəmən/`
   - 词义
-    - n. 照相师，摄影师
-    - `someone who operates a camera for films or television`
+    - n.
+      - 照相师，摄影师
+        - `someone who operates a camera for films or television`
   - 近义词
-    - n. 摄影师；照相师；摄影记者
-      - `photographer`
-      - `lensman`
+    - n.
+      - 摄影师；照相师；摄影记者
+        - `photographer`
+        - `lensman`
   - 例句
     - `An AP cameraman saw a gunman take an unattended laptop and put some other objects into a bag and walk out of the hotel.`
       - 一名美联社摄影记者看到一个枪手拿走了一台没人照看的笔记本和其他东西以后离开了旅馆。

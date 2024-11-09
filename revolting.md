@@ -1,29 +1,40 @@
 - revolting
   - 发音
-    - 英 `/rɪ'vəʊltɪŋ/`
-    - 美 `/rɪ'voltɪŋ/`
+    - 英
+      - `/rɪ'vəʊltɪŋ/`
+    - 美
+      - `/rɪ'voltɪŋ/`
   - 词义
-    - adj. 令人厌恶的
-    - `extremely unpleasant`
+    - adj.
+      - 令人厌恶的
+        - `extremely unpleasant`
   - 记忆
     - re(反) + volt(转) → 反过来转 → 反叛
   - 同根词
     - adv.
-      - `revoltingly` 背叛地；讨厌地；令人恶心地
+      - `revoltingly`
+        - 背叛地；讨厌地；令人恶心地
     - n.
-      - `revolt` 反抗；叛乱；反感
+      - `revolt`
+        - 反抗；叛乱；反感
     - vi.
-      - `revolt` 反抗；反叛；反感，厌恶
+      - `revolt`
+        - 反抗；反叛；反感，厌恶
     - vt.
-      - `revolt` 使反感；使恶心
+      - `revolt`
+        - 使反感；使恶心
   - 近义词
-    - adj. 叛乱的；背叛的；讨厌的
-      - `evil`
-      - `rank`
+    - adj.
+      - 叛乱的；背叛的；讨厌的
+        - `evil`
+        - `rank`
   - 短语
-    - `in revolt` 反抗；造反 
-    - `revolt against` 反感；厌恶 
-    - `revolt at` 厌恶；憎恶 
+    - `in revolt`
+      - 反抗；造反 
+    - `revolt against`
+      - 反感；厌恶 
+    - `revolt at`
+      - 厌恶；憎恶 
   - 例句
     - `The food was revolting!`
       - 这些食物令人作呕！

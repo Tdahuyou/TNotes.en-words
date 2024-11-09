@@ -1,14 +1,18 @@
 - unmatched
   - 发音
-    - 英 `/ʌn'mætʃt/`
-    - 美 `/'ʌn'mætʃt/`
+    - 英
+      - `/ʌn'mætʃt/`
+    - 美
+      - `/'ʌn'mætʃt/`
   - 词义
-    - adj. 无与伦比的,不相配的
-    - `better than any other`
+    - adj.
+      - 无与伦比的,不相配的
+        - `better than any other`
   - 近义词
-    - adj. 无与伦比的；不相配的；无匹敌的
-      - `uneaqualed`
-      - `unrivalled`
+    - adj.
+      - 无与伦比的；不相配的；无匹敌的
+        - `uneaqualed`
+        - `unrivalled`
   - 例句
     - `a woman of unmatched beauty`
       - 美貌绝伦的女子

@@ -1,11 +1,15 @@
 - lope
   - 发音
-    - 英 `/loup/`
-    - 美 `/lop/`
+    - 英
+      - `/loup/`
+    - 美
+      - `/lop/`
   - 词义
-    - vi. 轻松地大步跑
-    - `to run easily with long steps`
-    - n. 轻快的步伐
+    - vi.
+      - 轻松地大步跑
+        - `to run easily with long steps`
+    - n.
+      - 轻快的步伐
   - 记忆
     - 注意不要和lobe(n. 耳垂)相混
   - 例句

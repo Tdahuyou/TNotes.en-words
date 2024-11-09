@@ -1,27 +1,38 @@
 - boxer
   - 发音
-    - 英 `/'bɒksə/`
-    - 美 `/'bɑksɚ/`
+    - 英
+      - `/'bɒksə/`
+    - 美
+      - `/'bɑksɚ/`
   - 词义
-    - n. 拳师，拳击手
-    - `someone who  box es  , especially as a job`
+    - n.
+      - 拳师，拳击手
+        - `someone who  box es  , especially as a job`
   - 同根词
     - n.
-      - `box` 箱，盒子；包厢；一拳
-      - `boxing` 拳击；装箱；围模；做箱的材料
+      - `box`
+        - 箱，盒子；包厢；一拳
+      - `boxing`
+        - 拳击；装箱；围模；做箱的材料
     - v.
-      - `boxing` 将…装入盒中（box的ing形式）
+      - `boxing`
+        - 将…装入盒中（box的ing形式）
     - vi.
-      - `box` 拳击
+      - `box`
+        - 拳击
     - vt.
-      - `box` 拳击；装…入盒中；打耳光
+      - `box`
+        - 拳击；装…入盒中；打耳光
   - 近义词
-    - n. 拳师，拳击手
-      - `pugilist`
-      - `scrapper`
+    - n.
+      - 拳师，拳击手
+        - `pugilist`
+        - `scrapper`
   - 短语
-    - `boxer shorts` n. 拳击运动员短裤；男式平腿泳裤 
-    - `boxer rebellion` 义和团运动 
+    - `boxer shorts`
+      - n. 拳击运动员短裤；男式平腿泳裤 
+    - `boxer rebellion`
+      - 义和团运动 
   - 例句
     - `The boxer punched his opponent on the nose.`
       - 拳击运动员朝对手的鼻子猛击。

@@ -1,17 +1,24 @@
 - gracile
   - 发音
-    - 英 `/'græsaɪl/`
-    - 美 `/'ɡræsail/`
+    - 英
+      - `/'græsaɪl/`
+    - 美
+      - `/'ɡræsail/`
   - 词义
-    - adj. 细弱的，纤细优美的
+    - adj.
+      - 细弱的，纤细优美的
   - 同根词
     - adj.
-      - `graceful` 优雅的；优美的
+      - `graceful`
+        - 优雅的；优美的
     - adv.
-      - `gracelessly` 笨拙地；不优美地
+      - `gracelessly`
+        - 笨拙地；不优美地
     - n.
-      - `gracefulness` 温文，优雅；优美
+      - `gracefulness`
+        - 温文，优雅；优美
   - 近义词
-    - adj. [昆]纤弱的，细长的；纤细优美的
-      - `delicate`
-      - `slender`
+    - adj.
+      - [昆]纤弱的，细长的；纤细优美的
+        - `delicate`
+        - `slender`

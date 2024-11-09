@@ -1,14 +1,18 @@
 - tapeworm
   - 发音
-    - 英 `/'teɪpwɜːm/`
-    - 美 `/'tepwɝm/`
+    - 英
+      - `/'teɪpwɜːm/`
+    - 美
+      - `/'tepwɝm/`
   - 词义
-    - n. [动]绦虫
-    - `a long flat  worm  that lives in the  bowels  of humans and other animals and can make them ill`
+    - n.
+      - [动]绦虫
+        - `a long flat  worm  that lives in the  bowels  of humans and other animals and can make them ill`
   - 近义词
-    - n. [基医]绦虫
-      - `taenia`
-      - `cestode`
+    - n.
+      - [基医]绦虫
+        - `taenia`
+        - `cestode`
   - 例句
     - `The stomach contained a fish hook, bits of digested fish skull and some tapeworm.`
       - 胃里面有个钓鱼钩，少量消化之后残留的鱼骸和一些绦虫。

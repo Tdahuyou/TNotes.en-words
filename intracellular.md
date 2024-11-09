@@ -1,13 +1,17 @@
 - intracellular
   - 发音
-    - 英 `/,ɪntrə'seljʊlə/`
-    - 美 `/,ɪntrə'sɛljəlɚ/`
+    - 英
+      - `/,ɪntrə'seljʊlə/`
+    - 美
+      - `/,ɪntrə'sɛljəlɚ/`
   - 词义
-    - adj. 细胞内的
-    - `situated or occurring inside a cell or cells `
+    - adj.
+      - 细胞内的
+        - `situated or occurring inside a cell or cells `
   - 近义词
-    - adj. [细胞]细胞内的
-      - `endocellular`
+    - adj.
+      - [细胞]细胞内的
+        - `endocellular`
   - 例句
     - `The pool expanded a little bit if we ignored one intracellular parasite; it expanded even more when we looked at core sets of genes of 310 or so.`
       - 如果忽略掉一个细胞内寄生物的话，这个基因库还能扩展一些；当我们审视核心的一组310个基因时，基因库扩大更多。

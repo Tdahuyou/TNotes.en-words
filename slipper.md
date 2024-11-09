@@ -1,20 +1,26 @@
 - slipper
   - 发音
-    - 英 `/'slɪpə/`
-    - 美 `/'slɪpɚ/`
+    - 英
+      - `/'slɪpə/`
+    - 美
+      - `/'slɪpɚ/`
   - 词义
-    - n. 拖鞋
-    - `a light soft shoe that you wear at home`
+    - n.
+      - 拖鞋
+        - `a light soft shoe that you wear at home`
   - 同根词
     - adj.
-      - `slippered` 穿拖鞋的，穿便鞋的
+      - `slippered`
+        - 穿拖鞋的，穿便鞋的
     - v.
-      - `slippered` 用拖鞋打（slipper的过去式）
+      - `slippered`
+        - 用拖鞋打（slipper的过去式）
   - 近义词
-    - n. 拖鞋
-      - `baboosh`
-      - `pantofle`
-      - `chinela`
+    - n.
+      - 拖鞋
+        - `baboosh`
+        - `pantofle`
+        - `chinela`
   - 例句
     - `...a pair of old slippers.`
       - …一双旧拖鞋。

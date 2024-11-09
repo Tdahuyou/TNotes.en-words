@@ -1,27 +1,37 @@
 - restrict
   - 发音
-    - 英 `/rɪ'strɪkt/`
-    - 美 `/rɪ'strɪkt/`
+    - 英
+      - `/rɪ'strɪkt/`
+    - 美
+      - `/rɪ'strɪkt/`
   - 词义
-    - vt. 限制，约束
-    - `to limit or control the size, amount, or range of something`
+    - vt.
+      - 限制，约束
+        - `to limit or control the size, amount, or range of something`
   - 记忆
     - re(再， 又) + strict(严格的) → 一再对人严格 → 限制， 约束
   - 同根词
     - adj.
-      - `restricted` 受限制的；保密的
-      - `restrictive` 限制的；限制性的；约束的
+      - `restricted`
+        - 受限制的；保密的
+      - `restrictive`
+        - 限制的；限制性的；约束的
     - adv.
-      - `restrictively` 限制性地
+      - `restrictively`
+        - 限制性地
     - n.
-      - `restriction` 限制；约束；束缚
-      - `restrictive` 限制词
+      - `restriction`
+        - 限制；约束；束缚
+      - `restrictive`
+        - 限制词
     - v.
-      - `restricted` 限制（restrict的过去式和过去分词）
+      - `restricted`
+        - 限制（restrict的过去式和过去分词）
   - 近义词
-    - vt. 限制；约束；限定
-      - `block`
-      - `set a limit to`
+    - vt.
+      - 限制；约束；限定
+        - `block`
+        - `set a limit to`
   - 例句
     - `The new law restricts the sale of hand guns.`
       - 新法规限制手枪的销售。

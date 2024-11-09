@@ -1,10 +1,13 @@
 - mistral
   - 发音
-    - 英 `/'mɪstrəl/`
-    - 美 `/'mɪstrəl/`
+    - 英
+      - `/'mɪstrəl/`
+    - 美
+      - `/'mɪstrəl/`
   - 词义
-    - n. 寒冷且干燥的强风
-    - `a strong cold dry wind that blows through the Rhône valley and S France to the Mediterranean coast, mainly in the winter `
+    - n.
+      - 寒冷且干燥的强风
+        - `a strong cold dry wind that blows through the Rhône valley and S France to the Mediterranean coast, mainly in the winter `
   - 记忆
     - mist(雾) + ral → 风起雾散 → 寒冷且干燥的强风
   - 例句

@@ -1,10 +1,13 @@
 - unrefined
   - 发音
-    - 英 `/ʌnrɪ'faɪnd/`
-    - 美 `/,ʌnrɪ'faɪnd/`
+    - 英
+      - `/ʌnrɪ'faɪnd/`
+    - 美
+      - `/,ʌnrɪ'faɪnd/`
   - 词义
-    - adj. 未提炼的
-    - `an unrefined sub­stance is in its natural form`
+    - adj.
+      - 未提炼的
+        - `an unrefined sub­stance is in its natural form`
   - 记忆
     - un(非) + refine(提炼) + d(…的) → 未提炼的
   - 例句

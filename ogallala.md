@@ -1,6 +1,9 @@
 - ogallala
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 奥加拉拉(美国地名)
+    - n.
+      - 奥加拉拉(美国地名)

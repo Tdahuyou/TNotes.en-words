@@ -1,18 +1,24 @@
 - glib
   - 发音
-    - 英 `/glɪb/`
-    - 美 `/undefined/`
+    - 英
+      - `/glɪb/`
+    - 美
+      - `/undefined/`
   - 词义
-    - adj. 圆滑的，能言善道的，善辩的
+    - adj.
+      - 圆滑的，能言善道的，善辩的
   - 同根词
     - adv.
-      - `glibly` 流畅地；流利地；油嘴滑舌地
+      - `glibly`
+        - 流畅地；流利地；油嘴滑舌地
     - n.
-      - `glibness` 花言巧语；口若悬河
+      - `glibness`
+        - 花言巧语；口若悬河
   - 近义词
-    - adj. 口齿伶俐的，油嘴滑舌的
-      - `smooth-tongued`
-      - `saponaceous`
+    - adj.
+      - 口齿伶俐的，油嘴滑舌的
+        - `smooth-tongued`
+        - `saponaceous`
   - 例句
     - `glib politicians`
       - 巧舌如簧的政客

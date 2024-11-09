@@ -1,21 +1,29 @@
 - inferiority
   - 发音
-    - 英 `/ɪn,fɪərɪ'ɒrɪtɪ/`
-    - 美 `/ɪn,fɪrɪ'ɔrəti/`
+    - 英
+      - `/ɪn,fɪərɪ'ɒrɪtɪ/`
+    - 美
+      - `/ɪn,fɪrɪ'ɔrəti/`
   - 词义
-    - n. 自卑,次等
+    - n.
+      - 自卑,次等
   - 同根词
     - adj.
-      - `inferior` 差的；自卑的；下级的，下等的
+      - `inferior`
+        - 差的；自卑的；下级的，下等的
     - n.
-      - `inferior` 下级；次品
+      - `inferior`
+        - 下级；次品
   - 近义词
-    - n. [心理]自卑；下属；次等；下部
-      - `self-contempt`
-      - `subordinate`
+    - n.
+      - [心理]自卑；下属；次等；下部
+        - `self-contempt`
+        - `subordinate`
   - 短语
-    - `inferiority complex` 自卑情结；自卑感 
-    - `feeling of inferiority` 自卑感 
+    - `inferiority complex`
+      - 自卑情结；自卑感 
+    - `feeling of inferiority`
+      - 自卑感 
   - 例句
     - `This kind of sentiment is a very interesting combination of superiority and inferiority.`
       - 这种情感是非常有趣的，是一种高傲和自卑的结合体。

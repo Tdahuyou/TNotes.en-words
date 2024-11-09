@@ -1,19 +1,25 @@
 - hurricane
   - 发音
-    - 英 `/'hɜːrəkən/`
-    - 美 `/ˈhʌrɪken/`
+    - 英
+      - `/'hɜːrəkən/`
+    - 美
+      - `/ˈhʌrɪken/`
   - 词义
-    - n. 飓风，暴风
-    - `a storm that has very strong fast winds and that moves over water`
+    - n.
+      - 飓风，暴风
+        - `a storm that has very strong fast winds and that moves over water`
   - 记忆
     - hurri(看做hurry， 匆忙) + cane → 来得很匆忙的风 → 飓风
   - 近义词
-    - n. 飓风，[气象]暴风
-      - `cyclone`
-      - `storms`
+    - n.
+      - 飓风，[气象]暴风
+        - `cyclone`
+        - `storms`
   - 短语
-    - `hurricane katrina` 卡特里娜飓风 
-    - `hurricane lamp` n. 防风灯；飓风灯；马灯 
+    - `hurricane katrina`
+      - 卡特里娜飓风 
+    - `hurricane lamp`
+      - n. 防风灯；飓风灯；马灯 
   - 例句
     - `I still remember a hurricane that hit us thirty years ago.`
       - 我还记得三十年前袭击我们的一次飓风。

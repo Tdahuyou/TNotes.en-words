@@ -1,17 +1,22 @@
 - decorticate
   - 发音
-    - 英 `/diː'kɔːtɪkeɪt/`
-    - 美 `/di'kɔrtə,ket/`
+    - 英
+      - `/diː'kɔːtɪkeɪt/`
+    - 美
+      - `/di'kɔrtə,ket/`
   - 词义
-    - v. 剥皮
-    - `to remove the bark or some other outer layer from `
+    - v.
+      - 剥皮
+        - `to remove the bark or some other outer layer from `
   - 同根词
     - n.
-      - `decortication` 剥外皮；[外科] 去皮质术
+      - `decortication`
+        - 剥外皮；[外科] 去皮质术
   - 近义词
-    - vt. 剥皮；去壳
-      - `skin`
-      - `shell`
+    - vt.
+      - 剥皮；去壳
+        - `skin`
+        - `shell`
   - 例句
     - `The person that decorticate says: 4 city gate, can attack only, attack which?`
       - 剥皮者说：四个城门，只能攻一个，攻哪个？

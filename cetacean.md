@@ -1,13 +1,17 @@
 - cetacean
   - 发音
-    - 英 `/sɪ'teɪʃn/`
-    - 美 `/sɪ'teʃən/`
+    - 英
+      - `/sɪ'teɪʃn/`
+    - 美
+      - `/sɪ'teʃən/`
   - 词义
-    - n. 鲸类动物
-    - `a  mammal  that lives in the sea, such as a  whale `
+    - n.
+      - 鲸类动物
+        - `a  mammal  that lives in the sea, such as a  whale `
   - 同根词
     - adj.
-      - `cetaceous` 鲸类的；鲸鱼的
+      - `cetaceous`
+        - 鲸类的；鲸鱼的
   - 例句
     - `Based on what we know, I’d guess that cetacean culture is intermediate between humans and chimpanzees.`
       - 根据我们所知道的情况，我猜鲸目动物文化介于人类和黑猩猩之间。

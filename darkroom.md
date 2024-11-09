@@ -1,10 +1,13 @@
 - darkroom
   - 发音
-    - 英 `/'dɑːkrum/`
-    - 美 `/'dɑrkrum/`
+    - 英
+      - `/'dɑːkrum/`
+    - 美
+      - `/'dɑrkrum/`
   - 词义
-    - n. 暗室
-    - `a special room with only red light or no light, where film from a camera is made into photographs`
+    - n.
+      - 暗室
+        - `a special room with only red light or no light, where film from a camera is made into photographs`
   - 例句
     - `Through controlling the each step in process of darkroom disposal, improve the quality of the sciagram efficently.`
       - 通过对暗室处理过程中各个环节的控制，有效提高射线底片的质量。

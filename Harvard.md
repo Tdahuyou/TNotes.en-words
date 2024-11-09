@@ -1,12 +1,17 @@
 - Harvard
   - 发音
-    - 英 `/'hɑ:vəd/`
-    - 美 `/'hɑvəd/`
+    - 英
+      - `/'hɑ:vəd/`
+    - 美
+      - `/'hɑvəd/`
   - 词义
-    - n. 哈佛大学(美国)
+    - n.
+      - 哈佛大学(美国)
   - 短语
-    - `harvard university` n. 哈佛大学 
-    - `harvard business school` 哈佛大学商学院 
+    - `harvard university`
+      - n. 哈佛大学 
+    - `harvard business school`
+      - 哈佛大学商学院 
   - 例句
     - `A: He got the scholarship to Harvard.`
       - 他得到了哈佛大学的奖学金。

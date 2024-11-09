@@ -1,22 +1,29 @@
 - resuscitate
   - 发音
-    - 英 `/ri'sʌsiteit/`
-    - 美 `/rɪ'sʌsɪtet/`
+    - 英
+      - `/ri'sʌsiteit/`
+    - 美
+      - `/rɪ'sʌsɪtet/`
   - 词义
-    - v. 复苏；复活
-    - `to make someone breathe again or become conscious after they have almost died`
+    - v.
+      - 复苏；复活
+        - `to make someone breathe again or become conscious after they have almost died`
   - 记忆
     - re + sus (在下面) + cit (引起) + ate → 枯木逢春， 从土下起 → 复苏
   - 同根词
     - n.
-      - `resuscitation` 复苏；复兴；复活
-      - `resuscitator` 使复活的人；人工呼吸器
+      - `resuscitation`
+        - 复苏；复兴；复活
+      - `resuscitator`
+        - 使复活的人；人工呼吸器
   - 近义词
-    - vt. 使复苏；使复兴
-      - `reinvigorate`
-    - vi. 恢复；复兴
-      - `restore`
-      - `recover from`
+    - vt.
+      - 使复苏；使复兴
+        - `reinvigorate`
+    - vi.
+      - 恢复；复兴
+        - `restore`
+        - `recover from`
   - 例句
     - `Doctors managed to resuscitate him.`
       - 医生把他抢救了过来。

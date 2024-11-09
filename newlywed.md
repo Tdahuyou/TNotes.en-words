@@ -1,11 +1,15 @@
 - newlywed
   - 发音
-    - 英 `/'njuːlɪwed/`
-    - 美 `/'njʊlɪ,wɛd/`
+    - 英
+      - `/'njuːlɪwed/`
+    - 美
+      - `/'njʊlɪ,wɛd/`
   - 词义
-    - adj. 新婚的
-    - n. 新婚夫妇
-    - `Newlyweds are a man and woman who have very recently got married to each other`
+    - adj.
+      - 新婚的
+    - n.
+      - 新婚夫妇
+        - `Newlyweds are a man and woman who have very recently got married to each other`
   - 记忆
     - newly(新近地) + wed(结婚) → 新婚的人
   - 例句

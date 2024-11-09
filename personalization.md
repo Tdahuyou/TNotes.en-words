@@ -1,12 +1,16 @@
 - personalization
   - 发音
-    - 英 `/ ˌpɜːsənəlaɪ'zeɪʃn /`
-    - 美 `/undefined/`
+    - 英
+      - `/ ˌpɜːsənəlaɪ'zeɪʃn /`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 个性化
+    - n.
+      - 个性化
   - 近义词
-    - n. 个性化
-      - `individuation`
+    - n.
+      - 个性化
+        - `individuation`
   - 例句
     - `The method is applied in personalization information recommendation and achieves better effect.`
       - 将该方法用于个性化信息检索，取得较好的效果。

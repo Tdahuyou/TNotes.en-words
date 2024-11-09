@@ -1,36 +1,59 @@
 - analytic
   - 发音
-    - 英 `/ˌænə'lɪtɪk(l)/`
-    - 美 `/,ænə'lɪtɪk/`
+    - 英
+      - `/ˌænə'lɪtɪk(l)/`
+    - 美
+      - `/,ænə'lɪtɪk/`
   - 词义
-    - adj. 分析的；分解的
-    - `Analytic means the same as `
+    - adj.
+      - 分析的；分解的
+        - `Analytic means the same as `
   - 同根词
     - adj.
-      - `analytical` 分析的；解析的；善于分析的
-      - `analyzable` 可分析的
+      - `analytical`
+        - 分析的；解析的；善于分析的
+      - `analyzable`
+        - 可分析的
     - adv.
-      - `analytically` 分析地；解析地
+      - `analytically`
+        - 分析地；解析地
     - n.
-      - `analysis` 分析；分解；验定
-      - `analyst` 分析者；精神分析医师；分解者
-      - `analyzer` [计] 分析器；分析者；检偏镜
-      - `analyser` 分析器，分析仪；分析者
-      - `analysand` 接受精神分析的人
-      - `analyticity` 分析性，[数] 解析性
+      - `analysis`
+        - 分析；分解；验定
+      - `analyst`
+        - 分析者；精神分析医师；分解者
+      - `analyzer`
+        - [计] 分析器；分析者；检偏镜
+      - `analyser`
+        - 分析器，分析仪；分析者
+      - `analysand`
+        - 接受精神分析的人
+      - `analyticity`
+        - 分析性，[数] 解析性
     - vt.
-      - `analyse` 分析；分解；细察
-      - `analyze` 对…进行分析，分解（等于analyse）
+      - `analyse`
+        - 分析；分解；细察
+      - `analyze`
+        - 对…进行分析，分解（等于analyse）
   - 短语
-    - `analytic method` 分析法；解析法 
-    - `analytic solution` 解析解法，分析解 
-    - `analytic geometry` 解析几何；分析几何学 
-    - `analytic expression` 解析式；分析式 
-    - `analytic function` 解析函数 
-    - `analytic philosophy` 分析哲学；解析哲学 
-    - `space analytic geometry` 空间解析几何 
-    - `analytic thinking` 分析思维 
-    - `analytic language` 分析性语言 
+    - `analytic method`
+      - 分析法；解析法 
+    - `analytic solution`
+      - 解析解法，分析解 
+    - `analytic geometry`
+      - 解析几何；分析几何学 
+    - `analytic expression`
+      - 解析式；分析式 
+    - `analytic function`
+      - 解析函数 
+    - `analytic philosophy`
+      - 分析哲学；解析哲学 
+    - `space analytic geometry`
+      - 空间解析几何 
+    - `analytic thinking`
+      - 分析思维 
+    - `analytic language`
+      - 分析性语言 
   - 例句
     - `The boy has an analytic mind.`
       - 这男孩有分析的头脑。

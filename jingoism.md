@@ -1,24 +1,33 @@
 - jingoism
   - 发音
-    - 英 `/'dʒiŋgəuizəm/`
-    - 美 `/'dʒɪŋɡoɪzəm/`
+    - 英
+      - `/'dʒiŋgəuizəm/`
+    - 美
+      - `/'dʒɪŋɡoɪzəm/`
   - 词义
-    - n. 沙文主义，侵略主义
-    - `a strong belief that your own country is better than others – used to show disapproval`
+    - n.
+      - 沙文主义，侵略主义
+        - `a strong belief that your own country is better than others – used to show disapproval`
   - 记忆
     - 军国) + ism (主义) → 军国主义 → 沙文主义， 侵略主义
   - 同根词
     - adj.
-      - `jingo` 侵略性的
-      - `jingoist` 侵略主义的；沙文主义的
-      - `jingoistic` 侵略分子的，强硬外交政策的
+      - `jingo`
+        - 侵略性的
+      - `jingoist`
+        - 侵略主义的；沙文主义的
+      - `jingoistic`
+        - 侵略分子的，强硬外交政策的
     - n.
-      - `jingo` 沙文主义者
-      - `jingoist` 沙文主义者；侵略主义者
+      - `jingo`
+        - 沙文主义者
+      - `jingoist`
+        - 沙文主义者；侵略主义者
   - 近义词
-    - n. 侵略主义；沙文主义；武力外交政策
-      - `chauvinism`
-      - `kultur`
+    - n.
+      - 侵略主义；沙文主义；武力外交政策
+        - `chauvinism`
+        - `kultur`
   - 例句
     - `a mood of warlike jingoism`
       - 好战的沙文主义情绪

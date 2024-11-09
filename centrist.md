@@ -1,35 +1,59 @@
 - centrist
   - 发音
-    - 英 `/'sentrɪst/`
-    - 美 `/'sɛntrɪst/`
+    - 英
+      - `/'sentrɪst/`
+    - 美
+      - `/'sɛntrɪst/`
   - 词义
-    - n. 中立派议员；中间派议员
-    - `A centrist is someone with centrist views`
+    - n.
+      - 中立派议员；中间派议员
+        - `A centrist is someone with centrist views`
   - 同根词
     - adj.
-      - `central` 中心的；主要的；中枢的
-      - `centre` 中央的
-      - `centralized` 集中的；中央集权的
-      - `centred` 固定于中心的；在中心的
-      - `centralist` 拥护中央集权的
+      - `central`
+        - 中心的；主要的；中枢的
+      - `centre`
+        - 中央的
+      - `centralized`
+        - 集中的；中央集权的
+      - `centred`
+        - 固定于中心的；在中心的
+      - `centralist`
+        - 拥护中央集权的
     - adv.
-      - `centrally` 在中心
+      - `centrally`
+        - 在中心
     - n.
-      - `central` 电话总机
-      - `centre` 中心
-      - `centrality` 中心；中央；向心性
-      - `centralization` 集中化；中央集权管理
-      - `centralisation` （英）集中化（等于centralization）
-      - `centralism` 中央集权制；中央集权主义
-      - `centralist` 中央集权主义者
-      - `centrism` 温和主义，中间路线；中间派的政策
+      - `central`
+        - 电话总机
+      - `centre`
+        - 中心
+      - `centrality`
+        - 中心；中央；向心性
+      - `centralization`
+        - 集中化；中央集权管理
+      - `centralisation`
+        - （英）集中化（等于centralization）
+      - `centralism`
+        - 中央集权制；中央集权主义
+      - `centralist`
+        - 中央集权主义者
+      - `centrism`
+        - 温和主义，中间路线；中间派的政策
     - v.
-      - `centralized` 集中（centralize的过去分词）
-      - `centred` 集中（centre的过去分词）；把…置于中央
+      - `centralized`
+        - 集中（centralize的过去分词）
+      - `centred`
+        - 集中（centre的过去分词）；把…置于中央
     - vi.
-      - `centre` 以…为中心
-      - `centralize` 集中；实行中央集权
+      - `centre`
+        - 以…为中心
+      - `centralize`
+        - 集中；实行中央集权
     - vt.
-      - `centre` 集中；将…放在中央
-      - `centralize` 使集中；使成为…的中心；使集权
-      - `centralise` 把…集中起来；形成中心
+      - `centre`
+        - 集中；将…放在中央
+      - `centralize`
+        - 使集中；使成为…的中心；使集权
+      - `centralise`
+        - 把…集中起来；形成中心

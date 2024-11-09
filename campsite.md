@@ -1,15 +1,19 @@
 - campsite
   - 发音
-    - 英 `/'kæmpsaɪt/`
-    - 美 `/'kæmpsaɪt/`
+    - 英
+      - `/'kæmpsaɪt/`
+    - 美
+      - `/'kæmpsaɪt/`
   - 词义
-    - n. 营地
-    - `an area where people can camp, often with a water supply and toilets`
+    - n.
+      - 营地
+        - `an area where people can camp, often with a water supply and toilets`
   - 记忆
     - camp(露营) + site(地点) → 露营的地点 → 营地
   - 近义词
-    - n. 营地
-      - `encampment`
+    - n.
+      - 营地
+        - `encampment`
   - 例句
     - `Then the journey continues on to a campsite where camels await you.`
       - 然后继续前往一个营地，在那里会有骆驼恭候大驾。

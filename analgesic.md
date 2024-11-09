@@ -1,22 +1,30 @@
 - analgesic
   - 发音
-    - 英 `/,æn(ə)l'dʒiːzɪk; -sɪk/`
-    - 美 `/'ænl'dʒizɪk/`
+    - 英
+      - `/,æn(ə)l'dʒiːzɪk; -sɪk/`
+    - 美
+      - `/'ænl'dʒizɪk/`
   - 词义
-    - adj. 止痛的,不痛的
+    - adj.
+      - 止痛的,不痛的
   - 同根词
     - adj.
-      - `analgetic` 止痛的（等于analgesic）
+      - `analgetic`
+        - 止痛的（等于analgesic）
     - n.
-      - `analgesia` 止痛；无痛法
-      - `analgetic` 止痛剂
+      - `analgesia`
+        - 止痛；无痛法
+      - `analgetic`
+        - 止痛剂
   - 近义词
-    - n. [药]止痛剂；镇痛剂
-      - `paregoric`
-      - `anodyne`
-    - adj. [药]止痛的
-      - `painkilling`
-      - `antalgic`
+    - n.
+      - [药]止痛剂；镇痛剂
+        - `paregoric`
+        - `anodyne`
+    - adj.
+      - [药]止痛的
+        - `painkilling`
+        - `antalgic`
   - 例句
     - `If approved, the FDA said Cymbalta would be the first nontraditional analgesic approved for chronic pain.`
       - FDA称，如果欣百达获得批准，它将是第一个非传统慢性疼痛止痛药。

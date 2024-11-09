@@ -1,18 +1,23 @@
 - prerogative
   - 发音
-    - 英 `/pri'rɔgətiv/`
-    - 美 `/pri'rɔɡətiv/`
+    - 英
+      - `/pri'rɔgətiv/`
+    - 美
+      - `/pri'rɔɡətiv/`
   - 词义
-    - n. 特权
-    - `a right that someone has, especially because of their importance or social position`
+    - n.
+      - 特权
+        - `a right that someone has, especially because of their importance or social position`
   - 记忆
     - pre (预先) + rog (要求) + ative → 事先要求的权力 → 特权
   - 近义词
-    - n. 特权
-      - `franchise`
-      - `special privilege`
-    - adj. 有特权的
-      - `favoured`
+    - n.
+      - 特权
+        - `franchise`
+        - `special privilege`
+    - adj.
+      - 有特权的
+        - `favoured`
   - 例句
     - `Arriving late is a woman’s prerogative .`
       - 迟到是女人的特权。

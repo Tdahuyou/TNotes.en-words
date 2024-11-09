@@ -1,9 +1,12 @@
 - misinterpreted
   - 发音
-    - 英 `/mɪsɪn'tɜːprɪt/`
-    - 美 `/'mɪsɪn'tɝprɪt/`
+    - 英
+      - `/mɪsɪn'tɜːprɪt/`
+    - 美
+      - `/'mɪsɪn'tɝprɪt/`
   - 词义
-    - adj. 曲解的，误解的
+    - adj.
+      - 曲解的，误解的
   - 记忆
     - mis (错误) + interpret (解释) → 解释错误 → 曲解
   - 例句

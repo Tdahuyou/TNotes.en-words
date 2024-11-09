@@ -1,10 +1,13 @@
 - vodka
   - 发音
-    - 英 `/'vɒdkə/`
-    - 美 `/'vɑdkə/`
+    - 英
+      - `/'vɒdkə/`
+    - 美
+      - `/'vɑdkə/`
   - 词义
-    - n. 伏特加酒
-    - `a strong clear alcoholic drink originally from Russia, or a glass of this`
+    - n.
+      - 伏特加酒
+        - `a strong clear alcoholic drink originally from Russia, or a glass of this`
   - 例句
     - `He downed the vodka in one gulp.`
       - 他将伏特加酒一饮而尽。

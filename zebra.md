@@ -1,19 +1,26 @@
 - zebra
   - 发音
-    - 英 `/'zebrə; 'ziːbrə/`
-    - 美 `/ˈzibrə/`
+    - 英
+      - `/'zebrə; 'ziːbrə/`
+    - 美
+      - `/ˈzibrə/`
   - 词义
-    - n. 斑马
-    - `an animal that looks like a horse but has black and white lines all over its body`
+    - n.
+      - 斑马
+        - `an animal that looks like a horse but has black and white lines all over its body`
   - 近义词
-    - n. [脊椎]斑马
-      - `zabra`
-    - adj. 有斑纹的
-      - `brinded`
-      - `freaked`
+    - n.
+      - [脊椎]斑马
+        - `zabra`
+    - adj.
+      - 有斑纹的
+        - `brinded`
+        - `freaked`
   - 短语
-    - `zebra crossing` n. 斑马线 
-    - `zebra fish` [鱼]斑马鱼（一种有斑马条纹的胎生观赏鱼） 
+    - `zebra crossing`
+      - n. 斑马线 
+    - `zebra fish`
+      - [鱼]斑马鱼（一种有斑马条纹的胎生观赏鱼） 
   - 例句
     - `The neck of the zebra was nipped by a lion.`
       - 狮子咬断了那头斑马的脖子。

@@ -1,18 +1,24 @@
 - caliber
   - 发音
-    - 英 `/'kælibə/`
-    - 美 `/'kæləbɚ/`
+    - 英
+      - `/'kælibə/`
+    - 美
+      - `/'kæləbɚ/`
   - 词义
-    - n. 口径,才干
+    - n.
+      - 口径,才干
   - 同根词
     - n.
-      - `calibre` [军] 口径；才干；水准
+      - `calibre`
+        - [军] 口径；才干；水准
     - vt.
-      - `calibrate` 校正；调整；测定口径
+      - `calibrate`
+        - 校正；调整；测定口径
   - 近义词
-    - n. [军]口径；才干；水准（等于calibre）；器量
-      - `standard`
-      - `savoir-faire`
+    - n.
+      - [军]口径；才干；水准（等于calibre）；器量
+        - `standard`
+        - `savoir-faire`
   - 例句
     - `Perhaps the first thing that students notice about their college is the caliber of their fellow students.`
       - 可能学生们对这所大学关注的第一件事就是同学的才干。

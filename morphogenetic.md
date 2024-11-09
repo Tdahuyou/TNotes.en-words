@@ -1,9 +1,12 @@
 - morphogenetic
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - adj. 有关形态发生的；地貌成因的
+    - adj.
+      - 有关形态发生的；地貌成因的
   - 例句
     - `There, scientists have been manipulating the levels of bone-morphogenetic protein or BMP in the brains of laboratory mice.`
       - 在那里，科学家已经成功操纵了小白鼠大脑中的骨形态发生蛋白（或称BMP）的水平。

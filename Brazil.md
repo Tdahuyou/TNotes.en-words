@@ -1,10 +1,13 @@
 - Brazil
   - 发音
-    - 英 `/brə'zil/`
-    - 美 `/brə'zil/`
+    - 英
+      - `/brə'zil/`
+    - 美
+      - `/brə'zil/`
   - 词义
   - 短语
-    - `brazil nut` 巴西胡桃 
+    - `brazil nut`
+      - 巴西胡桃 
   - 例句
     - `Brazil has a big surplus of coffee.`
       - 巴西有很多剩余咖啡。

@@ -1,26 +1,35 @@
 - pup
   - 发音
-    - 英 `/pʌp/`
-    - 美 `/pʌp/`
+    - 英
+      - `/pʌp/`
+    - 美
+      - `/pʌp/`
   - 词义
-    - n. 小狗；幼畜
-    - `a young dog`
-    - v. 生（小狗等小动物）
+    - n.
+      - 小狗；幼畜
+        - `a young dog`
+    - v.
+      - 生（小狗等小动物）
   - 记忆
     - pub(n. 小酒馆)
   - 同根词
     - adj.
-      - `puppyish` 小狗的；小狗天性的
+      - `puppyish`
+        - 小狗的；小狗天性的
     - n.
-      - `puppy` 小狗，幼犬
-  - 近义词
-    - n. [脊椎]小狗；幼畜
       - `puppy`
-      - `Zergling`
-    - vt. 生（小狗等小动物）
-      - `bring into the world`
+        - 小狗，幼犬
+  - 近义词
+    - n.
+      - [脊椎]小狗；幼畜
+        - `puppy`
+        - `Zergling`
+    - vt.
+      - 生（小狗等小动物）
+        - `bring into the world`
   - 短语
-    - `in pup` (母狗等)怀胎的 
+    - `in pup`
+      - (母狗等)怀胎的 
   - 例句
     - `a spaniel pup`
       - 西班牙猎犬幼崽

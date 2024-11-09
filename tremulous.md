@@ -1,32 +1,45 @@
 - tremulous
   - 发音
-    - 英 `/'tremjələs/`
-    - 美 `/'trɛmjələs/`
+    - 英
+      - `/'tremjələs/`
+    - 美
+      - `/'trɛmjələs/`
   - 词义
-    - adj. 发抖的，颤抖的；害怕的
-    - `shaking slightly, especially because you are nervous`
+    - adj.
+      - 发抖的，颤抖的；害怕的
+        - `shaking slightly, especially because you are nervous`
   - 记忆
     - trem(发抖) + ul + ous → 发抖的； 害怕的
   - 同根词
     - adj.
-      - `trembling` 发抖的；战栗的；哆嗦的
+      - `trembling`
+        - 发抖的；战栗的；哆嗦的
     - adv.
-      - `tremulously` 发抖地；震颤地；歪斜地；过分敏感地
+      - `tremulously`
+        - 发抖地；震颤地；歪斜地；过分敏感地
     - n.
-      - `tremble` 颤抖；战栗；摇晃
-      - `trembling` 发抖；战栗；担心
-      - `tremor` [医] 震颤；颤动
-      - `trembler` 震颤的东西；发抖的人；摇尾鸟
+      - `tremble`
+        - 颤抖；战栗；摇晃
+      - `trembling`
+        - 发抖；战栗；担心
+      - `tremor`
+        - [医] 震颤；颤动
+      - `trembler`
+        - 震颤的东西；发抖的人；摇尾鸟
     - v.
-      - `trembling` 颤抖（tremble的ing形式）；战悚
+      - `trembling`
+        - 颤抖（tremble的ing形式）；战悚
     - vi.
-      - `tremble` 发抖；战栗；焦虑；摇晃
+      - `tremble`
+        - 发抖；战栗；焦虑；摇晃
     - vt.
-      - `tremble` 使挥动；用颤抖的声音说出
+      - `tremble`
+        - 使挥动；用颤抖的声音说出
   - 近义词
-    - adj. 胆小的；战栗的；震颤的
-      - `timid`
-      - `harehearted`
+    - adj.
+      - 胆小的；战栗的；震颤的
+        - `timid`
+        - `harehearted`
   - 例句
     - `a tremulous voice`
       - 颤抖的声音

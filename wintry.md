@@ -1,24 +1,32 @@
 - wintry
   - 发音
-    - 英 `/'wɪntri/`
-    - 美 `/'wɪntri/`
+    - 英
+      - `/'wɪntri/`
+    - 美
+      - `/'wɪntri/`
   - 词义
-    - adj. 冬天的；寒冷的；冷淡的
-    - `cold or typical of winter`
+    - adj.
+      - 冬天的；寒冷的；冷淡的
+        - `cold or typical of winter`
   - 记忆
     - wintr(看做winter， 冬天) + y → 冬天(似)的
   - 同根词
     - adj.
-      - `winter` 冬天的；越冬的
-      - `wintery` 寒冷的；冷淡的（等于wintry）
+      - `winter`
+        - 冬天的；越冬的
+      - `wintery`
+        - 寒冷的；冷淡的（等于wintry）
     - n.
-      - `winter` 冬季；年岁；萧条期
+      - `winter`
+        - 冬季；年岁；萧条期
     - vi.
-      - `winter` 过冬
+      - `winter`
+        - 过冬
   - 近义词
-    - adj. 寒冷的，冬天的；冷淡的
-      - `cold`
-      - `chilly`
+    - adj.
+      - 寒冷的，冬天的；冷淡的
+        - `cold`
+        - `chilly`
   - 例句
     - `a wintry day`
       - 一个冬日

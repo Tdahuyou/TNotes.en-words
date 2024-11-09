@@ -1,23 +1,33 @@
 - phantasmal
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - adj. 幻影的,幽灵的
+    - adj.
+      - 幻影的,幽灵的
   - 同根词
     - adj.
-      - `phantom` 幽灵的；幻觉的；有名无实的
-      - `phantasmagoric` 幻影似的；变幻不定的；幻想的；幽灵的
-      - `phantasmagorical` 幻影似的；变幻无常的
+      - `phantom`
+        - 幽灵的；幻觉的；有名无实的
+      - `phantasmagoric`
+        - 幻影似的；变幻不定的；幻想的；幽灵的
+      - `phantasmagorical`
+        - 幻影似的；变幻无常的
     - n.
-      - `phantom` 幽灵；幻影；虚位
-      - `phantasm` 幻想，幽灵；错觉；空想
-      - `phantasma` 幻像，空想
+      - `phantom`
+        - 幽灵；幻影；虚位
+      - `phantasm`
+        - 幻想，幽灵；错觉；空想
+      - `phantasma`
+        - 幻像，空想
   - 近义词
-    - adj. 幻影的；幽灵的；空想的
-      - `romantic`
-      - `spectral`
-      - `fantastic`
+    - adj.
+      - 幻影的；幽灵的；空想的
+        - `romantic`
+        - `spectral`
+        - `fantastic`
   - 例句
     - `The springs roil the waters they flow into in a phantasmal slipstream.`
       - 泉水涌动着死海的水，形成一种幻影般的水流效果。

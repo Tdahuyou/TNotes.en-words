@@ -1,9 +1,12 @@
 - Switzerland
   - 发音
-    - 英 `/ˈswɪtsələnd/`
-    - 美 `/'swɪtsələnd/`
+    - 英
+      - `/ˈswɪtsələnd/`
+    - 美
+      - `/'swɪtsələnd/`
   - 词义
-    - n. 瑞士(欧洲中部国家)
+    - n.
+      - 瑞士(欧洲中部国家)
   - 例句
     - `The River Rhine rises in Switzerland.`
       - 莱茵河发源于瑞士。

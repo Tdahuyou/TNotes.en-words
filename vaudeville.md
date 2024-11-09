@@ -1,17 +1,22 @@
 - vaudeville
   - 发音
-    - 英 `/'vɔːdəvɪl; 'vəʊd-/`
-    - 美 `/'vɔdəvɪl/`
+    - 英
+      - `/'vɔːdəvɪl; 'vəʊd-/`
+    - 美
+      - `/'vɔdəvɪl/`
   - 词义
-    - n. 歌舞杂耍
-    - `a type of theatre entertainment, popular from the 1880s to the 1950s, in which there were many short performances of different kinds, including singing, dancing, jokes etc`
+    - n.
+      - 歌舞杂耍
+        - `a type of theatre entertainment, popular from the 1880s to the 1950s, in which there were many short performances of different kinds, including singing, dancing, jokes etc`
   - 同根词
     - n.
-      - `vaudevillian` 杂耍演员；轻歌舞剧编剧者
+      - `vaudevillian`
+        - 杂耍演员；轻歌舞剧编剧者
   - 近义词
-    - n. 杂耍；轻歌舞剧；歌舞杂耍表演
-      - `variety`
-      - `jugglery`
+    - n.
+      - 杂耍；轻歌舞剧；歌舞杂耍表演
+        - `variety`
+        - `jugglery`
   - 例句
     - `For the next fifteen years she sang and danced in both Broadway and vaudeville shows.`
       - 在此后的十五年中，她分别在百老汇和歌舞杂耍中演出。

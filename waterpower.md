@@ -1,18 +1,24 @@
 - waterpower
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 水力(水力发电)
+    - n.
+      - 水力(水力发电)
   - 同根词
     - adj.
-      - `waterless` 无水的；干的；不用水的，不需水的
+      - `waterless`
+        - 无水的；干的；不用水的，不需水的
   - 近义词
-    - n. 水力；（磨房的）用水权；水力可利用的水流
-      - `hydraulic power`
-      - `water right`
-    - adj. 水力的
-      - `hydraulic`
+    - n.
+      - 水力；（磨房的）用水权；水力可利用的水流
+        - `hydraulic power`
+        - `water right`
+    - adj.
+      - 水力的
+        - `hydraulic`
   - 例句
     - `In the19th century waterpower was widely utilized to generate electricity.`
       - 在19世纪人们大规模使用水力来发电。

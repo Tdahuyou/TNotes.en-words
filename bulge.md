@@ -1,28 +1,38 @@
 - bulge
   - 发音
-    - 英 `/bʌldʒ/`
-    - 美 `/bʌldʒ/`
+    - 英
+      - `/bʌldʒ/`
+    - 美
+      - `/bʌldʒ/`
   - 词义
-    - n&v. 膨胀，鼓起
-    - `a curved mass on the surface of something, usually caused by something under or inside it`
+    - n&v.
+      - 膨胀，鼓起
+        - `a curved mass on the surface of something, usually caused by something under or inside it`
   - 同根词
     - adj.
-      - `bulbed` 有球茎的；球状的
-      - `bulgy` 凸出的；膨胀的；肿胀的
+      - `bulbed`
+        - 有球茎的；球状的
+      - `bulgy`
+        - 凸出的；膨胀的；肿胀的
     - n.
-      - `bulging` 膨胀，凸出；打气；折皱
+      - `bulging`
+        - 膨胀，凸出；打气；折皱
     - v.
-      - `bulbed` 生球茎；膨胀成球状（bulb的过去分词形式）
+      - `bulbed`
+        - 生球茎；膨胀成球状（bulb的过去分词形式）
   - 近义词
-    - n. 胀；膨胀；凸出部分
-      - `expansion`
-      - `inflation`
-    - vt. 使膨胀；使凸起
-      - `expand`
-      - `plim`
-    - vi. 膨胀；凸出
-      - `fill`
-      - `swell with`
+    - n.
+      - 胀；膨胀；凸出部分
+        - `expansion`
+        - `inflation`
+    - vt.
+      - 使膨胀；使凸起
+        - `expand`
+        - `plim`
+    - vi.
+      - 膨胀；凸出
+        - `fill`
+        - `swell with`
   - 例句
     - `The gun made a bulge under his jacket.`
       - 手枪从他的夹克里面鼓了出来。

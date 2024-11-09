@@ -1,34 +1,47 @@
 - directly
   - 发音
-    - 英 `/dɪ'rektlɪ; daɪ-/`
-    - 美 `/dəˈrektli/`
+    - 英
+      - `/dɪ'rektlɪ; daɪ-/`
+    - 美
+      - `/dəˈrektli/`
   - 词义
-    - adv. 直接地；立即；马上；正好地；坦率地
-    - `with no other person, action, process etc between`
-    - conj. 一…就
-    - `as soon as`
+    - adv.
+      - 直接地；立即；马上；正好地；坦率地
+        - `with no other person, action, process etc between`
+    - conj.
+      - 一…就
+        - `as soon as`
   - 同根词
     - adj.
-      - `direct` 直接的；直系的；亲身的；恰好的
+      - `direct`
+        - 直接的；直系的；亲身的；恰好的
     - adv.
-      - `direct` 直接地；正好；按直系关系
+      - `direct`
+        - 直接地；正好；按直系关系
     - n.
-      - `directness` 直接；率直；笔直
+      - `directness`
+        - 直接；率直；笔直
     - vi.
-      - `direct` 指导；指挥
+      - `direct`
+        - 指导；指挥
     - vt.
-      - `direct` 管理；指挥；导演；指向
+      - `direct`
+        - 管理；指挥；导演；指向
   - 近义词
-    - adv. 直接地；立即；马上；正好地；坦率地
-      - `rapidly`
-      - `straight`
-      - `fair`
-    - conj. 一…就
-      - `immediately`
-      - `than`
+    - adv.
+      - 直接地；立即；马上；正好地；坦率地
+        - `rapidly`
+        - `straight`
+        - `fair`
+    - conj.
+      - 一…就
+        - `immediately`
+        - `than`
   - 短语
-    - `directly proportional` 直接比例的 
-    - `directly address` 直接寻址 
+    - `directly proportional`
+      - 直接比例的 
+    - `directly address`
+      - 直接寻址 
   - 例句
     - `The new property tax law won’t directly affect us.`
       - 新的财产税法不会直接影响到我们。

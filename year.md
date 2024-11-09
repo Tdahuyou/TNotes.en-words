@@ -1,43 +1,70 @@
 - year
   - 发音
-    - 英 `/jɪə; jɜː/`
-    - 美 `/jɪr; yir/`
+    - 英
+      - `/jɪə; jɜː/`
+    - 美
+      - `/jɪr; yir/`
   - 词义
-    - n. 年龄；年
-    - `a period of about 365 days or 12 months, measured from any particular time`
+    - n.
+      - 年龄；年
+        - `a period of about 365 days or 12 months, measured from any particular time`
   - 记忆
     - 是啊(yeah)， 新的一年(year)到了
   - 同根词
     - adj.
-      - `yearly` 每年的
+      - `yearly`
+        - 每年的
     - adv.
-      - `yearly` 每年；一年一次
+      - `yearly`
+        - 每年；一年一次
     - n.
-      - `yearly` 年刊；年鉴
+      - `yearly`
+        - 年刊；年鉴
   - 近义词
-    - n. [天]年；年度；历年
-      - `annum`
+    - n.
+      - [天]年；年度；历年
+        - `annum`
   - 短语
-    - `last year` 去年 
-    - `new year` 新年 
-    - `next year` 明年 
-    - `of the year` 本年度最杰出的 
-    - `for years` 好几年 
-    - `every year` 每一年 
-    - `happy new year` 新年快乐；恭贺新禧 
-    - `year after year` 年复一年地；每年 
-    - `in the year` [口]老早以前 
-    - `year by year` 逐年；年年 
-    - `past year` 去年 
-    - `chinese new year` n. 春节 
-    - `per year` 每年 
-    - `year round` 全年的 
-    - `in years` 年老；几年内；在年龄上 
-    - `during the year` 在这一年里 
-    - `throughout the year` 全年；一整年 
-    - `in the past year` 在过去的一年中 
-    - `lunar new year` 农历新年 
-    - `once a year` 一年一次 
+    - `last year`
+      - 去年 
+    - `new year`
+      - 新年 
+    - `next year`
+      - 明年 
+    - `of the year`
+      - 本年度最杰出的 
+    - `for years`
+      - 好几年 
+    - `every year`
+      - 每一年 
+    - `happy new year`
+      - 新年快乐；恭贺新禧 
+    - `year after year`
+      - 年复一年地；每年 
+    - `in the year`
+      - [口]老早以前 
+    - `year by year`
+      - 逐年；年年 
+    - `past year`
+      - 去年 
+    - `chinese new year`
+      - n. 春节 
+    - `per year`
+      - 每年 
+    - `year round`
+      - 全年的 
+    - `in years`
+      - 年老；几年内；在年龄上 
+    - `during the year`
+      - 在这一年里 
+    - `throughout the year`
+      - 全年；一整年 
+    - `in the past year`
+      - 在过去的一年中 
+    - `lunar new year`
+      - 农历新年 
+    - `once a year`
+      - 一年一次 
   - 例句
     - `I arrived here two years ago.`
       - 我两年前来到这里。

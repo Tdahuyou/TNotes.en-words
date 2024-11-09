@@ -1,16 +1,20 @@
 - amass
   - 发音
-    - 英 `/ə'mæs/`
-    - 美 `/ə'mæs/`
+    - 英
+      - `/ə'mæs/`
+    - 美
+      - `/ə'mæs/`
   - 词义
-    - vt. 积聚
-    - `if you amass money, knowledge, information etc, you gradually collect a large amount of it`
+    - vt.
+      - 积聚
+        - `if you amass money, knowledge, information etc, you gradually collect a large amount of it`
   - 记忆
     - a + mass(团) → 变成一团 → 积聚
   - 近义词
-    - vt. 积聚，积累
-      - `pile up`
-      - `store up`
+    - vt.
+      - 积聚，积累
+        - `pile up`
+        - `store up`
   - 例句
     - `For 25 years, Darwin amassed evidence to support his theories.`
       - 25年间，达尔文收集了大量证据来支持自己的理论。

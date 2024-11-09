@@ -1,28 +1,45 @@
 - southernmost
   - 发音
-    - 英 `/'sʌðənməʊst/`
-    - 美 `/'sʌðɚnmost/`
+    - 英
+      - `/'sʌðənməʊst/`
+    - 美
+      - `/'sʌðɚnmost/`
   - 词义
-    - adj. 最南的
-    - `furthest south`
+    - adj.
+      - 最南的
+        - `furthest south`
   - 同根词
     - adj.
-      - `south` 南的，南方的
-      - `southern` 南的；南方的
-      - `southward` 向南的；在南方的
-      - `southerly` 来自南方的；向南的
-      - `southmost` 最南的
+      - `south`
+        - 南的，南方的
+      - `southern`
+        - 南的；南方的
+      - `southward`
+        - 向南的；在南方的
+      - `southerly`
+        - 来自南方的；向南的
+      - `southmost`
+        - 最南的
     - adv.
-      - `south` 在南方，向南方
-      - `southward` 向南
-      - `southerly` 来自南方；向南
+      - `south`
+        - 在南方，向南方
+      - `southward`
+        - 向南
+      - `southerly`
+        - 来自南方；向南
     - n.
-      - `south` 南方，南边；南部
-      - `southern` 南方人
-      - `southerner` 南方人
-      - `southward` 朝南的方向
-      - `souther` 正南强风；南风
-      - `southerly` 南风
+      - `south`
+        - 南方，南边；南部
+      - `southern`
+        - 南方人
+      - `southerner`
+        - 南方人
+      - `southward`
+        - 朝南的方向
+      - `souther`
+        - 正南强风；南风
+      - `southerly`
+        - 南风
   - 例句
     - `the southernmost tip of India`
       - 印度的最南端

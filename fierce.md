@@ -1,28 +1,38 @@
 - fierce
   - 发音
-    - 英 `/fɪrs/`
-    - 美 `/fɪrs/`
+    - 英
+      - `/fɪrs/`
+    - 美
+      - `/fɪrs/`
   - 词义
-    - adj. 凶猛的，残忍的；狂热的，强烈的；激烈的，猛烈的
-    - `done with a lot of energy and strong feelings, and sometimes violence`
+    - adj.
+      - 凶猛的，残忍的；狂热的，强烈的；激烈的，猛烈的
+        - `done with a lot of energy and strong feelings, and sometimes violence`
   - 记忆
     - 强迫(force)人大冷天光脚， 真是残忍(fierce)
   - 同根词
     - adj.
-      - `fiery` 热烈的，炽烈的；暴躁的；燃烧般的
+      - `fiery`
+        - 热烈的，炽烈的；暴躁的；燃烧般的
     - adv.
-      - `fiercely` 猛烈地；厉害地
-      - `fierily` 炽热地；如火地；猛烈地
+      - `fiercely`
+        - 猛烈地；厉害地
+      - `fierily`
+        - 炽热地；如火地；猛烈地
     - n.
-      - `fierceness` 凶猛；强烈
-      - `fieriness` 火性子；猛烈，热烈
+      - `fierceness`
+        - 凶猛；强烈
+      - `fieriness`
+        - 火性子；猛烈，热烈
   - 近义词
-    - adj. 凶猛的；猛烈的；暴躁的
-      - `fell`
-      - `violent`
-      - `hard`
+    - adj.
+      - 凶猛的；猛烈的；暴躁的
+        - `fell`
+        - `violent`
+        - `hard`
   - 短语
-    - `fierce competition` 激烈的竞争 
+    - `fierce competition`
+      - 激烈的竞争 
   - 例句
     - `fierce fighting in the city`
       - 城里的激烈战斗

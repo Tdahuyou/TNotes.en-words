@@ -1,10 +1,13 @@
 - Briton
   - 发音
-    - 英 `/'britən/`
-    - 美 `/ˈbrɪtən/`
+    - 英
+      - `/'britən/`
+    - 美
+      - `/ˈbrɪtən/`
   - 词义
-    - n. 英国人；大不列颠人
-    - `someone from Britain`
+    - n.
+      - 英国人；大不列颠人
+        - `someone from Britain`
   - 例句
     - `the ancient Britons`
       - 古英国人

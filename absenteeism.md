@@ -1,23 +1,31 @@
 - absenteeism
   - 发音
-    - 英 `/ˌæbsən'tiːɪzəm/`
-    - 美 `/,æbsən'tiɪzəm/`
+    - 英
+      - `/ˌæbsən'tiːɪzəm/`
+    - 美
+      - `/,æbsən'tiɪzəm/`
   - 词义
-    - n. 旷课；旷工
-    - `Absenteeism is the fact or habit of frequently being away from work or school, usually without a good reason`
+    - n.
+      - 旷课；旷工
+        - `Absenteeism is the fact or habit of frequently being away from work or school, usually without a good reason`
   - 记忆
     - absent(缺席的) + ee(表人) + ism(抽象名词后缀) → 旷课； 旷工
   - 同根词
     - adj.
-      - `absent` 缺席的；缺少的；心不在焉的；茫然的
+      - `absent`
+        - 缺席的；缺少的；心不在焉的；茫然的
     - n.
-      - `absence` 没有；缺乏；缺席；不注意
-      - `absentee` 缺席者
+      - `absence`
+        - 没有；缺乏；缺席；不注意
+      - `absentee`
+        - 缺席者
     - vt.
-      - `absent` 使缺席
+      - `absent`
+        - 使缺席
   - 近义词
-    - n. [劳经]旷工；旷课；有计划的怠工；经常无故缺席
-      - `truancy`
+    - n.
+      - [劳经]旷工；旷课；有计划的怠工；经常无故缺席
+        - `truancy`
   - 例句
     - `Alcohol is associated with many serious social and developmental issues, including violence, child neglect and abuse, and absenteeism in the workplace.`
       - 酒精造成许多严重的社会和发展问题，如暴力、儿童遭受忽视和虐待以及旷工等问题。

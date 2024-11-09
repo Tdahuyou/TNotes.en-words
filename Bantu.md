@@ -1,9 +1,12 @@
 - Bantu
   - 发音
-    - 英 `/bæn'tu:/`
-    - 美 `/bæn'tu:/`
+    - 英
+      - `/bæn'tu:/`
+    - 美
+      - `/bæn'tu:/`
   - 词义
-    - n. 班图人,班图语
+    - n.
+      - 班图人,班图语
   - 例句
     - `Americans, they like soft corn, and the Bantu, we like hard corn.`
       - 而班图人喜欢硬质玉米。

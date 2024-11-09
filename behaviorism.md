@@ -1,9 +1,12 @@
 - behaviorism
   - 发音
-    - 英 `/bɪ'heɪvjərɪzəm/`
-    - 美 `/bɪ'hevjɚ,ɪzəm/`
+    - 英
+      - `/bɪ'heɪvjərɪzəm/`
+    - 美
+      - `/bɪ'hevjɚ,ɪzəm/`
   - 词义
-    - n. 行为主义
+    - n.
+      - 行为主义
   - 例句
     - `A psychologist who subscribes to behaviorism .`
       - 赞成行为主义的心理学者。

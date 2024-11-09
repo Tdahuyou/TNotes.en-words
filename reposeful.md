@@ -1,15 +1,19 @@
 - reposeful
   - 发音
-    - 英 `/rɪ'pəʊzfʊl/`
-    - 美 `/ri'pəuzful/`
+    - 英
+      - `/rɪ'pəʊzfʊl/`
+    - 美
+      - `/ri'pəuzful/`
   - 词义
-    - adj. 平稳的,沉着的
+    - adj.
+      - 平稳的,沉着的
   - 近义词
-    - adj. 平稳的；沉着的；恬适的
-      - `composed`
-      - `smooth`
-      - `calm`
-      - `steady`
+    - adj.
+      - 平稳的；沉着的；恬适的
+        - `composed`
+        - `smooth`
+        - `calm`
+        - `steady`
   - 例句
     - `Its running is reposeful. The cutting is accurate, the production efficiency is high. It is assorted equipment of foam foaming machine.`
       - 本机采用变频调速控制技术，运行平稳、生产效率高，是自动发泡的必备配套设备。

@@ -1,25 +1,35 @@
 - cheek
   - 发音
-    - 英 `/tʃiːk/`
-    - 美 `/tʃik/`
+    - 英
+      - `/tʃiːk/`
+    - 美
+      - `/tʃik/`
   - 词义
-    - n. 面颊
-    - `the soft round part of your face below each of your eyes`
+    - n.
+      - 面颊
+        - `the soft round part of your face below each of your eyes`
   - 同根词
     - adj.
-      - `cheeky` 无耻的；厚脸皮的
+      - `cheeky`
+        - 无耻的；厚脸皮的
     - adv.
-      - `cheekily` 厚脸皮地
+      - `cheekily`
+        - 厚脸皮地
     - n.
-      - `cheekiness` 厚脸皮
+      - `cheekiness`
+        - 厚脸皮
   - 近义词
-    - n. 面颊，脸颊；臀部
-      - `bottom`
-      - `vizard`
+    - n.
+      - 面颊，脸颊；臀部
+        - `bottom`
+        - `vizard`
   - 短语
-    - `cheek by jowl` adv. 紧密地 
-    - `turn the other cheek` 容忍；不愿反抗 
-    - `cheek bone` 颧骨 
+    - `cheek by jowl`
+      - adv. 紧密地 
+    - `turn the other cheek`
+      - 容忍；不愿反抗 
+    - `cheek bone`
+      - 颧骨 
   - 例句
     - `Lucy stretched up to kiss his cheek.`
       - 露西伸长了脖子去亲吻他的脸颊。

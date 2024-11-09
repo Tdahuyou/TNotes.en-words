@@ -1,10 +1,13 @@
 - comedienne
   - 发音
-    - 英 `/kəˌmiːdi'en/`
-    - 美 `/kə,midɪ'ɛn/`
+    - 英
+      - `/kəˌmiːdi'en/`
+    - 美
+      - `/kə,midɪ'ɛn/`
   - 词义
-    - n. 喜剧女演员；滑稽人物
-    - `a female comedian`
+    - n.
+      - 喜剧女演员；滑稽人物
+        - `a female comedian`
   - 记忆
     - 来自comedy(n. 喜剧)
   - 例句

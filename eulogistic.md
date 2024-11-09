@@ -1,14 +1,20 @@
 - eulogistic
   - 发音
-    - 英 `/ˌjuːlə'dʒɪstɪk/`
-    - 美 `/undefined/`
+    - 英
+      - `/ˌjuːlə'dʒɪstɪk/`
+    - 美
+      - `/undefined/`
   - 词义
-    - adj. 颂扬的，歌功颂德的
+    - adj.
+      - 颂扬的，歌功颂德的
   - 记忆
     - eu(好的) + log(说) + istic → 说好话的 → 颂扬的
   - 同根词
     - n.
-      - `eulogy` 悼词；颂词；颂扬；赞词
+      - `eulogy`
+        - 悼词；颂词；颂扬；赞词
     - vt.
-      - `eulogize` 颂扬；称赞
-      - `eulogise` （英）颂扬；赞扬（等于eulogize）
+      - `eulogize`
+        - 颂扬；称赞
+      - `eulogise`
+        - （英）颂扬；赞扬（等于eulogize）

@@ -1,9 +1,12 @@
 - Mrs
   - 发音
-    - 英 `/undefined/`
-    - 美 `/ˈmɪsɪz/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/ˈmɪsɪz/`
   - 词义
-    - n. 夫人，太太
+    - n.
+      - 夫人，太太
   - 例句
     - `It is said that Mrs White rules her husband strictly.`
       - 据说怀特夫人对她的丈夫管得很严。

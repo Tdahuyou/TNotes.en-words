@@ -1,17 +1,22 @@
 - nunnery
   - 发音
-    - 英 `/'nʌn(ə)rɪ/`
-    - 美 `/'nʌnəri/`
+    - 英
+      - `/'nʌn(ə)rɪ/`
+    - 美
+      - `/'nʌnəri/`
   - 词义
-    - n. 女修道院,尼姑庵
-    - `a convent`
+    - n.
+      - 女修道院,尼姑庵
+        - `a convent`
   - 同根词
     - n.
-      - `nun` 修女，尼姑
+      - `nun`
+        - 修女，尼姑
   - 近义词
-    - n. 尼姑庵；女修道院
-      - `convent`
-      - `covent`
+    - n.
+      - 尼姑庵；女修道院
+        - `convent`
+        - `covent`
   - 例句
     - `Unsure whether I have been understood, I put in a brisk spurt to the nunnery.`
       - 不知道他是否明白我的意思，我快步冲刺般地朝尼姑庵跑去。

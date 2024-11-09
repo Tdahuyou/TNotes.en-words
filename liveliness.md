@@ -1,34 +1,51 @@
 - liveliness
   - 发音
-    - 英 `/'laɪvlɪnɪs/`
-    - 美 `/'laɪvlɪnɪs/`
+    - 英
+      - `/'laɪvlɪnɪs/`
+    - 美
+      - `/'laɪvlɪnɪs/`
   - 词义
-    - n. 活泼
+    - n.
+      - 活泼
   - 同根词
     - adj.
-      - `live` 活的；生动的；实况转播的；精力充沛的
-      - `lively` 活泼的；生动的；真实的；生气勃勃的
-      - `living` 活的；现存的；活跃的；逼真的
-      - `livable` 适于居住的；生活过得有价值的
+      - `live`
+        - 活的；生动的；实况转播的；精力充沛的
+      - `lively`
+        - 活泼的；生动的；真实的；生气勃勃的
+      - `living`
+        - 活的；现存的；活跃的；逼真的
+      - `livable`
+        - 适于居住的；生活过得有价值的
     - n.
-      - `liver` 肝脏；生活者，居民
-      - `living` 生活；生存；生计
-      - `livelihood` 生计，生活；营生
-      - `liveness` 活性，活跃度；现场感
+      - `liver`
+        - 肝脏；生活者，居民
+      - `living`
+        - 生活；生存；生计
+      - `livelihood`
+        - 生计，生活；营生
+      - `liveness`
+        - 活性，活跃度；现场感
     - v.
-      - `living` 生活；居住（live的ing形式）；度过
+      - `living`
+        - 生活；居住（live的ing形式）；度过
     - vi.
-      - `live` 活；居住；生存
-      - `liven` 快活起来；活跃起来
+      - `live`
+        - 活；居住；生存
+      - `liven`
+        - 快活起来；活跃起来
     - vt.
-      - `live` 经历；度过
-      - `liven` 使高兴，使快活
+      - `live`
+        - 经历；度过
+      - `liven`
+        - 使高兴，使快活
   - 近义词
-    - n. 活泼；热烈；鲜明
-      - `animation`
-      - `heat`
-      - `brightness`
-      - `volatility`
+    - n.
+      - 活泼；热烈；鲜明
+        - `animation`
+        - `heat`
+        - `brightness`
+        - `volatility`
   - 例句
     - `We need to consolidate and develop the current political situation of democracy, solidarity, liveliness, stability and harmony.`
       - 我们要巩固和发展民主团结、生动活泼、安定和谐的政治局面。

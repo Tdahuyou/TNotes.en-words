@@ -1,36 +1,56 @@
 - nursing
   - 发音
-    - 英 `/'nɜːsɪŋ/`
-    - 美 `/'nɝsɪŋ/`
+    - 英
+      - `/'nɜːsɪŋ/`
+    - 美
+      - `/'nɝsɪŋ/`
   - 词义
-    - n. 看护,养育
+    - n.
+      - 看护,养育
   - 同根词
     - n.
-      - `nurture` 养育；教养；营养物
-      - `nurse` 护士；奶妈，保姆
-      - `nurturance` 养成；教育；培养（形容词nurturant）；养育
+      - `nurture`
+        - 养育；教养；营养物
+      - `nurse`
+        - 护士；奶妈，保姆
+      - `nurturance`
+        - 养成；教育；培养（形容词nurturant）；养育
     - vi.
-      - `nurse` 照料，护理；喂奶；当保姆
+      - `nurse`
+        - 照料，护理；喂奶；当保姆
     - vt.
-      - `nurture` 养育；鼓励；培植
-      - `nurse` 看护，护理；照顾；培养；给…喂奶
+      - `nurture`
+        - 养育；鼓励；培植
+      - `nurse`
+        - 看护，护理；照顾；培养；给…喂奶
   - 近义词
-    - n. [临床]护理；看护；养育
-      - `upbringing`
-      - `fosterage`
-    - v. 看护；养育（nurse的ing形式）
-      - `fostering`
-      - `nurturing`
+    - n.
+      - [临床]护理；看护；养育
+        - `upbringing`
+        - `fosterage`
+    - v.
+      - 看护；养育（nurse的ing形式）
+        - `fostering`
+        - `nurturing`
   - 短语
-    - `nursing care` 护理 
-    - `nursing staff` 护理人员 
-    - `nursing home` 私人疗养院 
-    - `nursing department` 护理部 
-    - `nursing personnel` 护理人员 
-    - `nursing school` 护理学院 
-    - `surgical nursing` 外科护理学 
-    - `nursing psychology` 护理心理学 
-    - `psychiatric nursing` 精神病护理 
+    - `nursing care`
+      - 护理 
+    - `nursing staff`
+      - 护理人员 
+    - `nursing home`
+      - 私人疗养院 
+    - `nursing department`
+      - 护理部 
+    - `nursing personnel`
+      - 护理人员 
+    - `nursing school`
+      - 护理学院 
+    - `surgical nursing`
+      - 外科护理学 
+    - `nursing psychology`
+      - 护理心理学 
+    - `psychiatric nursing`
+      - 精神病护理 
   - 例句
     - `The elderly at the nursing home have some protections, but not much.`
       - 看护之家的老人们已经受到一些保护，但这类措施为数不多。

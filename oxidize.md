@@ -1,34 +1,52 @@
 - oxidize
   - 发音
-    - 英 `/'ɔksiˌdaiz/`
-    - 美 `/'ɑksə'daɪz/`
+    - 英
+      - `/'ɔksiˌdaiz/`
+    - 美
+      - `/'ɑksə'daɪz/`
   - 词义
-    - v. 氧化
-    - `to combine with oxygen, or make something combine with oxygen, especially in a way that causes rust`
+    - v.
+      - 氧化
+        - `to combine with oxygen, or make something combine with oxygen, especially in a way that causes rust`
   - 同根词
     - adj.
-      - `oxidative` [化学] 氧化的
-      - `oxidized` 被氧化的；生锈的
-      - `oxidizable` [化学] 可氧化的
+      - `oxidative`
+        - [化学] 氧化的
+      - `oxidized`
+        - 被氧化的；生锈的
+      - `oxidizable`
+        - [化学] 可氧化的
     - n.
-      - `oxidation` [化学] 氧化
-      - `oxidant` 氧化剂
-      - `oxidase` [生化] 氧化酶
-      - `oxidate` 氧化物
-      - `oxidizer` [助剂] 氧化剂
-      - `oxidization` [化学] 氧化，氧化作用
-      - `oxidoreductase` 氧化还原酶
+      - `oxidation`
+        - [化学] 氧化
+      - `oxidant`
+        - 氧化剂
+      - `oxidase`
+        - [生化] 氧化酶
+      - `oxidate`
+        - 氧化物
+      - `oxidizer`
+        - [助剂] 氧化剂
+      - `oxidization`
+        - [化学] 氧化，氧化作用
+      - `oxidoreductase`
+        - 氧化还原酶
     - v.
-      - `oxidized` 氧化；生锈（oxidize的过去分词）
-      - `oxidate` 氧化
+      - `oxidized`
+        - 氧化；生锈（oxidize的过去分词）
+      - `oxidate`
+        - 氧化
     - vi.
-      - `oxidise` 氧化；生锈（等于oxidize）
+      - `oxidise`
+        - 氧化；生锈（等于oxidize）
     - vt.
-      - `oxidise` （英）使氧化；使生锈
+      - `oxidise`
+        - （英）使氧化；使生锈
   - 近义词
-    - vt. 使氧化；使生锈
-      - `oxygenize`
-      - `rust`
+    - vt.
+      - 使氧化；使生锈
+        - `oxygenize`
+        - `rust`
   - 例句
     - `If the organic material decays or is oxidized, it will not form petroleum.`
       - 如果有机物腐烂或氧化，它不会形成石油。

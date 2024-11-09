@@ -1,39 +1,54 @@
 - halt
   - 发音
-    - 英 `/hɔːlt/`
-    - 美 `/hɔlt/`
+    - 英
+      - `/hɔːlt/`
+    - 美
+      - `/hɔlt/`
   - 词义
-    - v. 停住，停下
-    - `to stop moving`
-    - n. 停止，阻止；暂停
-    - `a stop or pause`
+    - v.
+      - 停住，停下
+        - `to stop moving`
+    - n.
+      - 停止，阻止；暂停
+        - `a stop or pause`
   - 记忆
     - h + alt(高) → 高处不胜寒， 该停住了 → 停止
   - 同根词
     - adj.
-      - `halting` 犹豫的；蹒跚的；跛的
+      - `halting`
+        - 犹豫的；蹒跚的；跛的
     - adv.
-      - `haltingly` 迟疑不决地；犹豫地
+      - `haltingly`
+        - 迟疑不决地；犹豫地
     - v.
-      - `halting` 停止；蹒跚；犹豫（halt的ing形式）
+      - `halting`
+        - 停止；蹒跚；犹豫（halt的ing形式）
   - 近义词
-    - vi. 停止；立定；踌躇，犹豫
-      - `desist from`
-      - `come to a stop`
-    - n. 停止；立定；休息
-      - `break`
-      - `stop`
-      - `rest`
-      - `stay`
-      - `stand`
-    - vt. 使停止；使立定
-      - `put a stop to`
+    - vi.
+      - 停止；立定；踌躇，犹豫
+        - `desist from`
+        - `come to a stop`
+    - n.
+      - 停止；立定；休息
+        - `break`
+        - `stop`
+        - `rest`
+        - `stay`
+        - `stand`
+    - vt.
+      - 使停止；使立定
+        - `put a stop to`
   - 短语
-    - `come to a halt` 停止前进；停下来 
-    - `halt on` 出错暂停 
-    - `system halt` 系统中止；系统停止；系统挂起；死机 
-    - `grind to a halt` 慢慢停止 
-    - `call a halt` 命令停止 
+    - `come to a halt`
+      - 停止前进；停下来 
+    - `halt on`
+      - 出错暂停 
+    - `system halt`
+      - 系统中止；系统停止；系统挂起；死机 
+    - `grind to a halt`
+      - 慢慢停止 
+    - `call a halt`
+      - 命令停止 
   - 例句
     - `The parade halted by a busy corner.`
       - 游行队伍在一个热闹的拐角处停下了。

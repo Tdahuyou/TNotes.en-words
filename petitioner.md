@@ -1,21 +1,28 @@
 - petitioner
   - 发音
-    - 英 `/pə'tɪʃənər/`
-    - 美 `/pə'tɪʃənɚ/`
+    - 英
+      - `/pə'tɪʃənər/`
+    - 美
+      - `/pə'tɪʃənɚ/`
   - 词义
-    - n. 请愿人
-    - `someone who writes or signs a petition`
+    - n.
+      - 请愿人
+        - `someone who writes or signs a petition`
   - 记忆
     - 来自petition(v./n. 请愿)
   - 同根词
     - adj.
-      - `petitionary` 请愿的，为请愿的；请求的
+      - `petitionary`
+        - 请愿的，为请愿的；请求的
     - n.
-      - `petition` 请愿；请愿书；祈求；[法] 诉状
+      - `petition`
+        - 请愿；请愿书；祈求；[法] 诉状
     - vi.
-      - `petition` 请愿；请求
+      - `petition`
+        - 请愿；请求
     - vt.
-      - `petition` 请愿；请求；恳求
+      - `petition`
+        - 请愿；请求；恳求
   - 例句
     - `If the petitioner dies or , if there are more than one petitioner , the last remaining petitioner dies.`
       - 如呈请人去世；或如有多于一名呈请人，最后尚存的呈请人去世；

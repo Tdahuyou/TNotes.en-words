@@ -1,42 +1,69 @@
 - hydrogen
   - 发音
-    - 英 `/'haɪdrədʒən/`
-    - 美 `/'haɪdrədʒən/`
+    - 英
+      - `/'haɪdrədʒən/`
+    - 美
+      - `/'haɪdrədʒən/`
   - 词义
-    - n. 氢
-    - `Hydrogen is a colourless gas that is the lightest and commonest element in the universe`
+    - n.
+      - 氢
+        - `Hydrogen is a colourless gas that is the lightest and commonest element in the universe`
   - 记忆
     - hydro(水) + gen(产生) → 参与生成水的物质 → 氢
   - 同根词
     - adj.
-      - `hydrogenated` 氢化的，加氢的
+      - `hydrogenated`
+        - 氢化的，加氢的
     - n.
-      - `hydrogenation` 加氢；[化学] 氢化作用
+      - `hydrogenation`
+        - 加氢；[化学] 氢化作用
     - v.
-      - `hydrogenated` 使氢化（hydrogenate的过去分词）
+      - `hydrogenated`
+        - 使氢化（hydrogenate的过去分词）
     - vt.
-      - `hydrogenate` 使……与氢化合
+      - `hydrogenate`
+        - 使……与氢化合
   - 短语
-    - `hydrogen peroxide` 过氧化氢 
-    - `hydrogen production` 制氢 
-    - `hydrogen sulfide` 硫化氢 
-    - `hydrogen bond` [化]氢键 
-    - `hydrogen content` 氢含量 
-    - `hydrogen chloride` 氯化氢；氢氟酸 
-    - `hydrogen bonding` 氢键；氢键结合 
-    - `hydrogen atom` 氢原子 
-    - `hydrogen embrittlement` [材料学]氢脆 
-    - `hydrogen phosphate` 磷酸氢盐 
-    - `hydrogen sulphide` 硫化氢 
-    - `hydrogen fluoride` 氟化氢 
-    - `hydrogen bomb` 氢弹 
-    - `calcium hydrogen phosphate` 磷酸氢钙 
-    - `hydrogen carbonate` [化]碳酸氢盐 
-    - `hydrogen ion` 氢离子 
-    - `hydrogen sulfate` 硫酸氢盐；氢硫酸根离子 
-    - `atomic hydrogen` 原子氢 
-    - `ammonium hydrogen carbonate` [化]碳酸氢铵 
-    - `sulfureted hydrogen` [化]硫化氢 
+    - `hydrogen peroxide`
+      - 过氧化氢 
+    - `hydrogen production`
+      - 制氢 
+    - `hydrogen sulfide`
+      - 硫化氢 
+    - `hydrogen bond`
+      - [化]氢键 
+    - `hydrogen content`
+      - 氢含量 
+    - `hydrogen chloride`
+      - 氯化氢；氢氟酸 
+    - `hydrogen bonding`
+      - 氢键；氢键结合 
+    - `hydrogen atom`
+      - 氢原子 
+    - `hydrogen embrittlement`
+      - [材料学]氢脆 
+    - `hydrogen phosphate`
+      - 磷酸氢盐 
+    - `hydrogen sulphide`
+      - 硫化氢 
+    - `hydrogen fluoride`
+      - 氟化氢 
+    - `hydrogen bomb`
+      - 氢弹 
+    - `calcium hydrogen phosphate`
+      - 磷酸氢钙 
+    - `hydrogen carbonate`
+      - [化]碳酸氢盐 
+    - `hydrogen ion`
+      - 氢离子 
+    - `hydrogen sulfate`
+      - 硫酸氢盐；氢硫酸根离子 
+    - `atomic hydrogen`
+      - 原子氢 
+    - `ammonium hydrogen carbonate`
+      - [化]碳酸氢铵 
+    - `sulfureted hydrogen`
+      - [化]硫化氢 
   - 例句
     - `At the South Pole, in a region of continuous darkness, humans could access water to produce hydrogen and oxygen.`
       - 月球南极是一个持续黑暗的区域，在这里，人类能够接触到水，以生产氢和氧。

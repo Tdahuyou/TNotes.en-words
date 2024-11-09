@@ -1,34 +1,49 @@
 - transparent
   - 发音
-    - 英 `/træns'pærənt/`
-    - 美 `/træns'pærənt/`
+    - 英
+      - `/træns'pærənt/`
+    - 美
+      - `/træns'pærənt/`
   - 词义
-    - adj. 透明的；明显的，显而易见的；直率的
-    - `if something is transparent, you can see through it`
+    - adj.
+      - 透明的；明显的，显而易见的；直率的
+        - `if something is transparent, you can see through it`
   - 记忆
     - trans(穿过) + par(平等， 相等) + ent → (光)均匀地穿过 → 透明的
   - 同根词
     - adv.
-      - `transparently` 显然地，易觉察地；明亮地
+      - `transparently`
+        - 显然地，易觉察地；明亮地
     - n.
-      - `transparency` 透明，透明度；幻灯片；有图案的玻璃
-      - `transparence` 透明；透明度
+      - `transparency`
+        - 透明，透明度；幻灯片；有图案的玻璃
+      - `transparence`
+        - 透明；透明度
   - 近义词
-    - adj. 透明的；显然的；坦率的；易懂的
-      - `apparent`
-      - `honest`
-      - `decided`
-      - `crystal`
-      - `open`
+    - adj.
+      - 透明的；显然的；坦率的；易懂的
+        - `apparent`
+        - `honest`
+        - `decided`
+        - `crystal`
+        - `open`
   - 短语
-    - `transparent glass` 透明玻璃 
-    - `transparent plastic` 透明塑胶 
-    - `transparent film` 透明薄膜；透谩膜；透明胶片 
-    - `transparent window` 透冒；透明观察孔线 
-    - `transparent color` 透明颜色 
-    - `transparent soap` 透明皂 
-    - `transparent paper` 透明纸；玻璃纸 
-    - `transparent body` 透缅；透明体 
+    - `transparent glass`
+      - 透明玻璃 
+    - `transparent plastic`
+      - 透明塑胶 
+    - `transparent film`
+      - 透明薄膜；透谩膜；透明胶片 
+    - `transparent window`
+      - 透冒；透明观察孔线 
+    - `transparent color`
+      - 透明颜色 
+    - `transparent soap`
+      - 透明皂 
+    - `transparent paper`
+      - 透明纸；玻璃纸 
+    - `transparent body`
+      - 透缅；透明体 
   - 例句
     - `a transparent plastic container`
       - 透明的塑料容器

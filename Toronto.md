@@ -1,11 +1,15 @@
 - Toronto
   - 发音
-    - 英 `/təˈrɒntəʊ/`
-    - 美 `/tə'rɑnto/`
+    - 英
+      - `/təˈrɒntəʊ/`
+    - 美
+      - `/tə'rɑnto/`
   - 词义
-    - n. 多伦多（加拿大）
+    - n.
+      - 多伦多（加拿大）
   - 短语
-    - `university of toronto` 多伦多大学 
+    - `university of toronto`
+      - 多伦多大学 
   - 例句
     - `Julia: What can you do in Toronto?`
       - 朱莉娅：在多伦多能玩些什么？

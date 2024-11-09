@@ -1,14 +1,18 @@
 - headland
   - 发音
-    - 英 `/'hedlənd; -lænd/`
-    - 美 `/'hɛdlənd/`
+    - 英
+      - `/'hedlənd; -lænd/`
+    - 美
+      - `/'hɛdlənd/`
   - 词义
-    - n. 岬
-    - `an area of land that sticks out from the coast into the sea`
+    - n.
+      - 岬
+        - `an area of land that sticks out from the coast into the sea`
   - 近义词
-    - n. [地理]岬
-      - `cape`
-      - `ras`
+    - n.
+      - [地理]岬
+        - `cape`
+        - `ras`
   - 例句
     - `They start as part of a headland or sea cliff connected to land. Smashing waves erode the softer rock, leaving harder rock behind in the form of sea stacks.`
       - 它们开始时作为岬角和海崖的一部分与陆地相连，海浪粉碎地侵蚀了较为脆弱的岩石，而把较硬的岩石留在所形成海栈的后面。

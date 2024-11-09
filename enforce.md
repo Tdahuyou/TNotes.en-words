@@ -1,27 +1,37 @@
 - enforce
   - 发音
-    - 英 `/ɪn'fɔːrs/`
-    - 美 `/ɪn'fɔrs/`
+    - 英
+      - `/ɪn'fɔːrs/`
+    - 美
+      - `/ɪn'fɔrs/`
   - 词义
-    - vt. 实施，生效，执行；强迫，迫使
-    - `to make people obey a rule or law`
+    - vt.
+      - 实施，生效，执行；强迫，迫使
+        - `to make people obey a rule or law`
   - 记忆
     - en(使…) + force(力量) → 使有力量 → 实施； 强迫
   - 同根词
     - adj.
-      - `enforceable` 可实施的；可强行的；可强迫的
-      - `enforced` 实施的；强制执行的
+      - `enforceable`
+        - 可实施的；可强行的；可强迫的
+      - `enforced`
+        - 实施的；强制执行的
     - n.
-      - `enforcement` 执行，实施；强制
-      - `enforcer` 实施者；强制执行者
+      - `enforcement`
+        - 执行，实施；强制
+      - `enforcer`
+        - 实施者；强制执行者
     - v.
-      - `enforced` 执行（enforce的过去分词）
+      - `enforced`
+        - 执行（enforce的过去分词）
   - 近义词
-    - vt. 实施，执行；强迫，强制
-      - `perform`
-      - `actualize`
+    - vt.
+      - 实施，执行；强迫，强制
+        - `perform`
+        - `actualize`
   - 短语
-    - `enforce the law` 执法；执行法律 
+    - `enforce the law`
+      - 执法；执行法律 
   - 例句
     - `Parking restrictions will be strictly enforced.`
       - 停车限制将会严格执行。

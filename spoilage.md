@@ -1,26 +1,36 @@
 - spoilage
   - 发音
-    - 英 `/'spɒɪlɪdʒ/`
-    - 美 `/'spɔɪlɪdʒ/`
+    - 英
+      - `/'spɒɪlɪdʒ/`
+    - 美
+      - `/'spɔɪlɪdʒ/`
   - 词义
-    - n. 损坏
-    - `waste resulting from something being spoiled`
+    - n.
+      - 损坏
+        - `waste resulting from something being spoiled`
   - 同根词
     - adj.
-      - `spoilt` 宠坏的；损坏的
+      - `spoilt`
+        - 宠坏的；损坏的
     - n.
-      - `spoil` 次品；奖品
-      - `spoiler` 扰流器；掠夺者；损坏者
+      - `spoil`
+        - 次品；奖品
+      - `spoiler`
+        - 扰流器；掠夺者；损坏者
     - v.
-      - `spoilt` 宠坏；毁坏（spoil的过去式及过去分词）
+      - `spoilt`
+        - 宠坏；毁坏（spoil的过去式及过去分词）
     - vi.
-      - `spoil` 掠夺；变坏；腐败
+      - `spoil`
+        - 掠夺；变坏；腐败
     - vt.
-      - `spoil` 溺爱；糟蹋；掠夺
+      - `spoil`
+        - 溺爱；糟蹋；掠夺
   - 近义词
-    - n. 损坏，糟蹋；掠夺；损坏物
-      - `lay waste to`
-      - `breaking down`
+    - n.
+      - 损坏，糟蹋；掠夺；损坏物
+        - `lay waste to`
+        - `breaking down`
   - 例句
     - `Nutrition education can help with some problems and may prevent improper storage or spoilage.`
       - 营养教育可以解决一些问题，并能防止不当的贮存或腐坏发生。

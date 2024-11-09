@@ -1,17 +1,23 @@
 - catchment
   - 发音
-    - 英 `/'kætʃm(ə)nt/`
-    - 美 `/'kætʃmənt/`
+    - 英
+      - `/'kætʃm(ə)nt/`
+    - 美
+      - `/'kætʃmənt/`
   - 词义
-    - n. 排水,集水
-    - `In geography, catchment is the process of collecting water, in particular the process of water flowing from the ground and collecting in a river. Catchment is also the water that is collected in this way. `
+    - n.
+      - 排水,集水
+        - `In geography, catchment is the process of collecting water, in particular the process of water flowing from the ground and collecting in a river. Catchment is also the water that is collected in this way. `
   - 近义词
-    - n. 流域；集水
-      - `valley`
-      - `river basin`
+    - n.
+      - 流域；集水
+        - `valley`
+        - `river basin`
   - 短语
-    - `catchment area` 下游区；排水区 
-    - `water catchment` 集水区；汇水 
+    - `catchment area`
+      - 下游区；排水区 
+    - `water catchment`
+      - 集水区；汇水 
   - 例句
     - `But the world is also scattered with tales of roof catchment failures — and academics who say its potential for ending water insecurity is oversold.`
       - 但是全世界也存在着屋顶集水失败的故事——而且也有学术人士说它结束水不安全的潜力被夸大了。

@@ -1,28 +1,39 @@
 - summarize
   - 发音
-    - 英 `/'sʌməraɪz/`
-    - 美 `/'sʌməraɪz/`
+    - 英
+      - `/'sʌməraɪz/`
+    - 美
+      - `/'sʌməraɪz/`
   - 词义
-    - v. 概括，总结
-    - `to make a short statement giving only the main information and not the details of a plan, event, report etc`
+    - v.
+      - 概括，总结
+        - `to make a short statement giving only the main information and not the details of a plan, event, report etc`
   - 记忆
     - 来自summary(n. 摘要， 概要)
   - 同根词
     - adj.
-      - `summative` 总结性；总结的
+      - `summative`
+        - 总结性；总结的
     - n.
-      - `sum` 金额；总数
-      - `summarization` [图情] 摘要；概要
-      - `summarisation` 综述；概括
+      - `sum`
+        - 金额；总数
+      - `summarization`
+        - [图情] 摘要；概要
+      - `summarisation`
+        - 综述；概括
     - vi.
-      - `sum` 概括
+      - `sum`
+        - 概括
     - vt.
-      - `sum` 总结；合计
-      - `summarise` 概括（等于summarize）；相加
+      - `sum`
+        - 总结；合计
+      - `summarise`
+        - 概括（等于summarize）；相加
   - 近义词
-    - vt. 总结；概述
-      - `sum up`
-      - `outline`
+    - vt.
+      - 总结；概述
+        - `sum up`
+        - `outline`
   - 例句
     - `The authors summarize their views in the introduction.`
       - 作者在序言里概述了他们的观点。

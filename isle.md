@@ -1,15 +1,21 @@
 - Isle
   - 发音
-    - 英 `/aɪl/`
-    - 美 `/aɪl/`
+    - 英
+      - `/aɪl/`
+    - 美
+      - `/aɪl/`
   - 词义
-    - n. (小)岛
+    - n.
+      - (小)岛
   - 近义词
-    - n. 岛
-      - `island`
+    - n.
+      - 岛
+        - `island`
   - 短语
-    - `isle of wight` 怀特岛（英国） 
-    - `isle of man` 英国属地曼岛（首都道格拉斯，位于欧洲） 
+    - `isle of wight`
+      - 怀特岛（英国） 
+    - `isle of man`
+      - 英国属地曼岛（首都道格拉斯，位于欧洲） 
   - 例句
     - `We have looked at Lord Foster's plan and he appears to want to place his fantasy Isle of Grain airport on top of the LNG plant and a power station.`
       - 我们已经参看过福斯特爵士的计划，看起来他似乎想把他想象中的谷岛机场安置在液化天然气厂和发电站的顶上。

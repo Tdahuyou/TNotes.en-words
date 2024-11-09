@@ -1,19 +1,25 @@
 - motorbike
   - 发音
-    - 英 `/'məʊtəbaɪk/`
-    - 美 `/'motɚbaɪk/`
+    - 英
+      - `/'məʊtəbaɪk/`
+    - 美
+      - `/'motɚbaɪk/`
   - 词义
-    - n. 摩托车
-    - `a small fast two-wheeled vehicle with an engine`
+    - n.
+      - 摩托车
+        - `a small fast two-wheeled vehicle with an engine`
   - 同根词
     - n.
-      - `motorcycling` 摩托运动
+      - `motorcycling`
+        - 摩托运动
     - v.
-      - `motorcycling` 骑摩托车（motorcycle的ing形式）
+      - `motorcycling`
+        - 骑摩托车（motorcycle的ing形式）
   - 近义词
-    - n. 摩托车
-      - `autocycle`
-      - `motor cycle`
+    - n.
+      - 摩托车
+        - `autocycle`
+        - `motor cycle`
   - 例句
     - `The motorbike is supposed to make annoying noise.`
       - 摩托车当然会发出令人感到烦恼的噪音。

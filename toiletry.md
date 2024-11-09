@@ -1,16 +1,21 @@
 - toiletry
   - 发音
-    - 英 `/'tɔilitri/`
-    - 美 `/'tɔɪlɪtri/`
+    - 英
+      - `/'tɔilitri/`
+    - 美
+      - `/'tɔɪlɪtri/`
   - 词义
-    - n. 化妆品，化妆用具
+    - n.
+      - 化妆品，化妆用具
   - 同根词
     - n.
-      - `toilette` 打扮，化妆；装饰；礼服
+      - `toilette`
+        - 打扮，化妆；装饰；礼服
   - 近义词
-    - n. 化妆品；化妆用具
-      - `cosmetic products`
-      - `make-up`
+    - n.
+      - 化妆品；化妆用具
+        - `cosmetic products`
+        - `make-up`
   - 例句
     - `Be widely applied in medical and health care area, as well as toiletry field.`
       - 被广泛应用于医疗保健和化妆品行业。

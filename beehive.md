@@ -1,16 +1,20 @@
 - beehive
   - 发音
-    - 英 `/'biːhaɪv/`
-    - 美 `/'bihaɪv/`
+    - 英
+      - `/'biːhaɪv/`
+    - 美
+      - `/'bihaɪv/`
   - 词义
-    - n. 蜂窝；蜂箱
-    - `a structure where  bee s  are kept for producing  honey `
+    - n.
+      - 蜂窝；蜂箱
+        - `a structure where  bee s  are kept for producing  honey `
   - 记忆
     - bee(蜜蜂) + hive(蜂房， 蜂箱) → 蜂窝； 蜂箱
   - 近义词
-    - n. 蜂窝；[蜂]蜂箱
-      - `skep`
-      - `honeycombing`
+    - n.
+      - 蜂窝；[蜂]蜂箱
+        - `skep`
+        - `honeycombing`
   - 例句
     - `Let her try and make a beehive out of me.`
       - 就让她试试看，把我变成个蜂窝呀！

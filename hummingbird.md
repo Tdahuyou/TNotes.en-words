@@ -1,19 +1,24 @@
 - hummingbird
   - 发音
-    - 英 `/'hʌmɪŋbɜːrd/`
-    - 美 `/'hʌmɪŋbɝd/`
+    - 英
+      - `/'hʌmɪŋbɜːrd/`
+    - 美
+      - `/'hʌmɪŋbɝd/`
   - 词义
-    - n. 蜂鸟
-    - `A hummingbird is a small brightly coloured bird found in North, Central and South America. It has a long thin beak and powerful narrow wings that can move very fast. `
+    - n.
+      - 蜂鸟
+        - `A hummingbird is a small brightly coloured bird found in North, Central and South America. It has a long thin beak and powerful narrow wings that can move very fast. `
   - 记忆
     - humming(嗡嗡叫) + bird(鸟) → 扇动翅膀发出嗡嗡声的鸟 → 蜂鸟
   - 同根词
     - n.
-      - `hummer` 蜂鸟；蜂鸣器，发嗡嗡声的东西
+      - `hummer`
+        - 蜂鸟；蜂鸣器，发嗡嗡声的东西
   - 近义词
-    - n. [鸟]蜂鸟
-      - `trochilus`
-      - `wood nymph`
+    - n.
+      - [鸟]蜂鸟
+        - `trochilus`
+        - `wood nymph`
   - 例句
     - `Suddenly I saw a young male ruby-throated hummingbird in what had been a patch of flowering tobacco.`
       - 突然，在一块种过烟草花的地里，我看见一只颈部深红色的幼小雄蜂鸟。

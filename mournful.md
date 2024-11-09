@@ -1,24 +1,34 @@
 - mournful
   - 发音
-    - 英 `/'mɔːnfʊl; -f(ə)l/`
-    - 美 `/'mɔrnfl/`
+    - 英
+      - `/'mɔːnfʊl; -f(ə)l/`
+    - 美
+      - `/'mɔrnfl/`
   - 词义
-    - adj. 悲哀的；令人惋惜的
-    - `If you are mournful, you are very sad`
+    - adj.
+      - 悲哀的；令人惋惜的
+        - `If you are mournful, you are very sad`
   - 同根词
     - adv.
-      - `mournfully` 悲哀地；凄惨地
+      - `mournfully`
+        - 悲哀地；凄惨地
     - n.
-      - `mourning` 哀痛；服丧
-      - `mourner` 哀悼者；悲伤者；送葬者；忏悔者
-      - `mournfulness` 悲凄
+      - `mourning`
+        - 哀痛；服丧
+      - `mourner`
+        - 哀悼者；悲伤者；送葬者；忏悔者
+      - `mournfulness`
+        - 悲凄
     - v.
-      - `mourn` 哀悼；忧伤；服丧
-      - `mourning` 哀伤；为…哀悼（mourn的ing形式）
+      - `mourn`
+        - 哀悼；忧伤；服丧
+      - `mourning`
+        - 哀伤；为…哀悼（mourn的ing形式）
   - 近义词
-    - adj. 悲哀的；令人惋惜的
-      - `sad`
-      - `threnetical`
+    - adj.
+      - 悲哀的；令人惋惜的
+        - `sad`
+        - `threnetical`
   - 例句
     - `He looked mournful, even near to tears.`
       - 他看上去很悲伤，几乎要掉泪了。

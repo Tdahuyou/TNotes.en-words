@@ -1,19 +1,25 @@
 - impartiality
   - 发音
-    - 英 `/ˌɪmˌpɑːrʃi'æləti/`
-    - 美 `/,ɪmpɑrʃɪ'æləti/`
+    - 英
+      - `/ˌɪmˌpɑːrʃi'æləti/`
+    - 美
+      - `/,ɪmpɑrʃɪ'æləti/`
   - 词义
-    - n. 公平，公正
+    - n.
+      - 公平，公正
   - 同根词
     - adj.
-      - `impartial` 公平的，公正的；不偏不倚的
+      - `impartial`
+        - 公平的，公正的；不偏不倚的
     - adv.
-      - `impartially` 公平地；无私地
+      - `impartially`
+        - 公平地；无私地
   - 近义词
-    - n. 公正，公平；不偏不倚
-      - `equity`
-      - `fairness`
-      - `righteousness`
+    - n.
+      - 公正，公平；不偏不倚
+        - `equity`
+        - `fairness`
+        - `righteousness`
   - 例句
     - `Selection of auditors and conduct of audits shall ensure objectivity and impartiality of the audit process. Auditors shall not audit their own work.`
       - 审核员的选择和审核的实施应确保审核过程的客观性和公正性。审核员不应审核自己的工作。

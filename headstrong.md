@@ -1,17 +1,22 @@
 - headstrong
   - 发音
-    - 英 `/'hedstrɒŋ/`
-    - 美 `/'hɛdstrɔŋ/`
+    - 英
+      - `/'hedstrɒŋ/`
+    - 美
+      - `/'hɛdstrɔŋ/`
   - 词义
-    - adj. 任性的；顽固的；刚愎的
-    - `very determined to do what you want, even when other people advise you not to do it`
+    - adj.
+      - 任性的；顽固的；刚愎的
+        - `very determined to do what you want, even when other people advise you not to do it`
   - 同根词
     - adj.
-      - `heady` 兴奋的；任性的；性急的；顽固的；使人头晕的
+      - `heady`
+        - 兴奋的；任性的；性急的；顽固的；使人头晕的
   - 近义词
-    - adj. 任性的；顽固的；刚愎的
-      - `resistant`
-      - `self-willed`
+    - adj.
+      - 任性的；顽固的；刚愎的
+        - `resistant`
+        - `self-willed`
   - 例句
     - `He's young, very headstrong, but he's a good man underneath.`
       - 他年轻、任性，但骨子里是个好人。

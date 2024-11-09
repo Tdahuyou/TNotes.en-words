@@ -1,21 +1,27 @@
 - recalcitrant
   - 发音
-    - 英 `/ri'kælsitrənt/`
-    - 美 `/rɪ'kælsɪtrənt/`
+    - 英
+      - `/ri'kælsitrənt/`
+    - 美
+      - `/rɪ'kælsɪtrənt/`
   - 词义
-    - adj. 反抗的，顽强的；不顺从的
-    - `refusing to do what you are told to do, even after you have been punished`
+    - adj.
+      - 反抗的，顽强的；不顺从的
+        - `refusing to do what you are told to do, even after you have been punished`
   - 记忆
     - re + cal (石头) + citrant → 思想都变成石头了 → 不顺从的
   - 同根词
     - n.
-      - `recalcitrance` 反抗，顽抗；固执，不听话
+      - `recalcitrance`
+        - 反抗，顽抗；固执，不听话
     - vi.
-      - `recalcitrate` 不服从；顽抗；踢回去
+      - `recalcitrate`
+        - 不服从；顽抗；踢回去
   - 近义词
-    - adj. 反抗的；反对的；顽强的
-      - `anti`
-      - `resistant`
+    - adj.
+      - 反抗的；反对的；顽强的
+        - `anti`
+        - `resistant`
   - 例句
     - `a recalcitrant pupil`
       - 一名不服管教的学生

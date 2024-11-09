@@ -1,20 +1,25 @@
 - impetus
   - 发音
-    - 英 `/'ɪmpɪtəs/`
-    - 美 `/'ɪmpɪtəs/`
+    - 英
+      - `/'ɪmpɪtəs/`
+    - 美
+      - `/'ɪmpɪtəs/`
   - 词义
-    - n. 促进，推动；刺激；推动力
-    - `an influence that makes something happen or makes it happen more quickly`
+    - n.
+      - 促进，推动；刺激；推动力
+        - `an influence that makes something happen or makes it happen more quickly`
   - 记忆
     - im(内) + pet(追求) + us → 内心追求 → 促进； 刺激
   - 同根词
     - n.
-      - `impetuosity` 性急，冲动；冲力，猛烈
+      - `impetuosity`
+        - 性急，冲动；冲力，猛烈
   - 近义词
-    - n. 动力；促进；冲力
-      - `momentum`
-      - `promotion`
-      - `acceleration`
+    - n.
+      - 动力；促进；冲力
+        - `momentum`
+        - `promotion`
+        - `acceleration`
   - 例句
     - `The discovery gave fresh impetus to the research.`
       - 这个发现为研究带来新动力。

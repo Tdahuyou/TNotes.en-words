@@ -1,29 +1,39 @@
 - confess
   - 发音
-    - 英 `/kən'fes/`
-    - 美 `/kən'fɛs/`
+    - 英
+      - `/kən'fes/`
+    - 美
+      - `/kən'fɛs/`
   - 词义
-    - v. 承认；坦白；忏悔；供认
-    - `to admit, especially to the police, that you have done something wrong or illegal`
+    - v.
+      - 承认；坦白；忏悔；供认
+        - `to admit, especially to the police, that you have done something wrong or illegal`
   - 同根词
     - adj.
-      - `confessional` 忏悔的；自白的
+      - `confessional`
+        - 忏悔的；自白的
     - adv.
-      - `confessedly` 公开承认地；明白供认地；自称地
+      - `confessedly`
+        - 公开承认地；明白供认地；自称地
     - n.
-      - `confession` 忏悔，告解；供认
-      - `confessional` 忏悔室；告解室
-      - `confessor` 忏悔者；为信教而被迫害的教徒
+      - `confession`
+        - 忏悔，告解；供认
+      - `confessional`
+        - 忏悔室；告解室
+      - `confessor`
+        - 忏悔者；为信教而被迫害的教徒
   - 近义词
-    - vt. 承认；坦白；忏悔；[法]供认
-      - `accept`
-      - `recognize`
-      - `agree`
-      - `acknowledge`
-      - `grant`
-    - vi. 承认；坦白；忏悔；[法]供认
-      - `accept`
-      - `recognize`
+    - vt.
+      - 承认；坦白；忏悔；[法]供认
+        - `accept`
+        - `recognize`
+        - `agree`
+        - `acknowledge`
+        - `grant`
+    - vi.
+      - 承认；坦白；忏悔；[法]供认
+        - `accept`
+        - `recognize`
   - 例句
     - `Occasionally people confess to crimes they haven’t committed just to get attention.`
       - 偶尔人们会承认自己并未犯过的罪行，那只是为了引人注意。

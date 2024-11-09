@@ -1,32 +1,41 @@
 - erect
   - 发音
-    - 英 `/ɪ'rekt/`
-    - 美 `/ɪ'rɛkt/`
+    - 英
+      - `/ɪ'rekt/`
+    - 美
+      - `/ɪ'rɛkt/`
   - 词义
-    - adj. 直立的
-    - `in a straight upright position`
-    - vt. 建立；竖立
-    - `to build something such as a building or wall`
+    - adj.
+      - 直立的
+        - `in a straight upright position`
+    - vt.
+      - 建立；竖立
+        - `to build something such as a building or wall`
   - 记忆
     - e(向上) + rect(直) → 直立的； 建立
   - 同根词
     - adv.
-      - `erectly` 直立地
+      - `erectly`
+        - 直立地
     - n.
-      - `erection` 勃起；建造；建筑物；直立
+      - `erection`
+        - 勃起；建造；建筑物；直立
   - 近义词
-    - vt. 使竖立；建造；安装
-      - `construct`
-      - `fit`
-      - `fix`
-      - `structure`
-      - `frame`
-    - adj. 竖立的；笔直的；因性刺激而勃起的
-      - `straight`
-      - `upright`
-    - vi. 直立；勃起
-      - `to stand on end`
-      - `get it up`
+    - vt.
+      - 使竖立；建造；安装
+        - `construct`
+        - `fit`
+        - `fix`
+        - `structure`
+        - `frame`
+    - adj.
+      - 竖立的；笔直的；因性刺激而勃起的
+        - `straight`
+        - `upright`
+    - vi.
+      - 直立；勃起
+        - `to stand on end`
+        - `get it up`
   - 例句
     - `Martin stood erect on the platform.`
       - 马丁在讲台上笔直地站着。

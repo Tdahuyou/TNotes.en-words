@@ -1,9 +1,12 @@
 - Claire
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 克莱尔（女名）
+    - n.
+      - 克莱尔（女名）
   - 例句
     - `Oh, yes, of course. Some old woman, Claire something I guess.`
       - 啊，是的，当然，一个老太太，叫克莱尔还是什么。

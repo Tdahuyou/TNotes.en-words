@@ -1,29 +1,41 @@
 - impossible
   - 发音
-    - 英 `/ɪm'pɒsɪb(ə)l/`
-    - 美 `/ɪm'pɑsəbl/`
+    - 英
+      - `/ɪm'pɒsɪb(ə)l/`
+    - 美
+      - `/ɪm'pɑsəbl/`
   - 词义
-    - adj. （事情）办不到的，不可能的
-    - `something that is impossible cannot happen or be done`
+    - adj.
+      - （事情）办不到的，不可能的
+        - `something that is impossible cannot happen or be done`
   - 记忆
     - 汤姆·克鲁斯(Tom Cruise)主演的动作电影Mission: Impossible 《碟中谍》(直译： 不可能的任务)
   - 同根词
     - adv.
-      - `impossibly` 不可能地；难以置信地；无法可想地
+      - `impossibly`
+        - 不可能地；难以置信地；无法可想地
     - n.
-      - `impossibility` 不可能；不可能的事
+      - `impossibility`
+        - 不可能；不可能的事
   - 近义词
-    - adj. 不可能的；不可能存在的；难以忍受的；不真实的
-      - `incorrect`
-      - `unbearable`
-    - n. 不可能；不可能的事
-      - `a blue moon`
+    - adj.
+      - 不可能的；不可能存在的；难以忍受的；不真实的
+        - `incorrect`
+        - `unbearable`
+    - n.
+      - 不可能；不可能的事
+        - `a blue moon`
   - 短语
-    - `nothing is impossible` 没有什么不可能 
-    - `mission impossible` 不可能的任务，棘手的任务 
-    - `impossible dream` 不可能实现的梦；不可能的梦想 
-    - `next to impossible` 几乎不可能的 
-    - `impossible is nothing` 没有不可能；一切皆有可能 
+    - `nothing is impossible`
+      - 没有什么不可能 
+    - `mission impossible`
+      - 不可能的任务，棘手的任务 
+    - `impossible dream`
+      - 不可能实现的梦；不可能的梦想 
+    - `next to impossible`
+      - 几乎不可能的 
+    - `impossible is nothing`
+      - 没有不可能；一切皆有可能 
   - 例句
     - `‘I want to speak to Mr Franks.’ ‘I’m afraid that’s impossible.’`
       - “我想和弗兰克斯先生谈谈。”“恐怕不行。”

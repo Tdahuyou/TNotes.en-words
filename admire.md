@@ -1,35 +1,49 @@
 - admire
   - 发音
-    - 英 `/əd'maɪər/`
-    - 美 `/ədˈmaɪr/`
+    - 英
+      - `/əd'maɪər/`
+    - 美
+      - `/ədˈmaɪr/`
   - 词义
-    - vt. 钦佩，仰慕；欣赏
-    - `to respect and like someone because they have done something that you think is good`
+    - vt.
+      - 钦佩，仰慕；欣赏
+        - `to respect and like someone because they have done something that you think is good`
   - 记忆
     - ad(表加强) + mir(惊奇) + e → 让人很惊奇 → 钦佩； 欣赏
   - 同根词
     - adj.
-      - `admirable` 令人钦佩的；极好的；值得赞扬的
-      - `admired` 受人钦佩的；感到羡慕的
-      - `admiring` 赞赏的，羡慕的
+      - `admirable`
+        - 令人钦佩的；极好的；值得赞扬的
+      - `admired`
+        - 受人钦佩的；感到羡慕的
+      - `admiring`
+        - 赞赏的，羡慕的
     - adv.
-      - `admirably` 美好地，极好地；令人钦佩地
-      - `admiringly` 钦佩地；羡慕地
+      - `admirably`
+        - 美好地，极好地；令人钦佩地
+      - `admiringly`
+        - 钦佩地；羡慕地
     - n.
-      - `admiration` 钦佩；赞赏；羡慕；赞美
-      - `admirer` 爱慕者；赞赏者；钦佩者
+      - `admiration`
+        - 钦佩；赞赏；羡慕；赞美
+      - `admirer`
+        - 爱慕者；赞赏者；钦佩者
     - v.
-      - `admired` 羡慕，赞美；钦佩（admire的过去分词）
+      - `admired`
+        - 羡慕，赞美；钦佩（admire的过去分词）
   - 近义词
-    - vt. 钦佩；赞美
-      - `praise`
-      - `celebrate`
-      - `bless`
-    - vi. 钦佩；称赞
-      - `speak well of`
-      - `think the world of`
+    - vt.
+      - 钦佩；赞美
+        - `praise`
+        - `celebrate`
+        - `bless`
+    - vi.
+      - 钦佩；称赞
+        - `speak well of`
+        - `think the world of`
   - 短语
-    - `admire for` vt. 赞赏 
+    - `admire for`
+      - vt. 赞赏 
   - 例句
     - `I really admire the way she brings up those kids all on her own.`
       - 我十分佩服她独力把那些孩子抚养大。

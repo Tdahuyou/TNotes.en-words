@@ -1,12 +1,17 @@
 - scorpion
   - 发音
-    - 英 `/'skɔːpɪən/`
-    - 美 `/skɔrpɪən/`
+    - 英
+      - `/'skɔːpɪən/`
+    - 美
+      - `/skɔrpɪən/`
   - 词义
-    - n. 蝎子；蝎尾鞭；心黑的人
-    - `a tropical animal like an insect, with a curving tail and a poisonous sting`
+    - n.
+      - 蝎子；蝎尾鞭；心黑的人
+        - `a tropical animal like an insect, with a curving tail and a poisonous sting`
   - 近义词
-    - n. 蝎子；蝎尾鞭；心黑的人
-      - `defiler`
+    - n.
+      - 蝎子；蝎尾鞭；心黑的人
+        - `defiler`
   - 短语
-    - `scorpion venom` 蝎毒 
+    - `scorpion venom`
+      - 蝎毒 

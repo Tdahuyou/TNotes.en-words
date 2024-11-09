@@ -1,22 +1,30 @@
 - instantly
   - 发音
-    - 英 `/'ɪnst(ə)ntlɪ/`
-    - 美 `/'ɪnstəntli/`
+    - 英
+      - `/'ɪnst(ə)ntlɪ/`
+    - 美
+      - `/'ɪnstəntli/`
   - 词义
-    - adv. 立即地,即刻地
-    - `immediately`
+    - adv.
+      - 立即地,即刻地
+        - `immediately`
   - 同根词
     - adj.
-      - `instant` 立即的；紧急的；紧迫的
+      - `instant`
+        - 立即的；紧急的；紧迫的
     - adv.
-      - `instantaneously` 即刻；突如其来地
+      - `instantaneously`
+        - 即刻；突如其来地
     - n.
-      - `instant` 瞬间；立即；片刻
-      - `instantaneousness` 瞬间；即刻
+      - `instant`
+        - 瞬间；立即；片刻
+      - `instantaneousness`
+        - 瞬间；即刻
   - 近义词
-    - adv. 立即地；马上地；即刻地
-      - `promptly`
-      - `offhandedly`
+    - adv.
+      - 立即地；马上地；即刻地
+        - `promptly`
+        - `offhandedly`
   - 例句
     - `All four victims died instantly.`
       - 四名受害人全部当即死亡。

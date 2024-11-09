@@ -1,18 +1,24 @@
 - wince
   - 发音
-    - 英 `/wɪns/`
-    - 美 `/wɪns/`
+    - 英
+      - `/wɪns/`
+    - 美
+      - `/wɪns/`
   - 词义
-    - v. 畏缩，退避
-    - `to suddenly feel very uncomfortable or embarrassed because of something that happens, something you remember etc`
-    - n. 畏缩；脸部肌肉的抽搐
+    - v.
+      - 畏缩，退避
+        - `to suddenly feel very uncomfortable or embarrassed because of something that happens, something you remember etc`
+    - n.
+      - 畏缩；脸部肌肉的抽搐
   - 近义词
-    - vi. 畏缩，退避
-      - `recoil from`
-      - `shrink back from`
-    - n. 畏缩；脸部肌肉的抽搐
-      - `backwardness`
-      - `self-distrust`
+    - vi.
+      - 畏缩，退避
+        - `recoil from`
+        - `shrink back from`
+    - n.
+      - 畏缩；脸部肌肉的抽搐
+        - `backwardness`
+        - `self-distrust`
   - 例句
     - `Who smile and frown, wince and hiss.`
       - 他们微笑和皱眉，畏缩与嘶嘘。

@@ -1,14 +1,20 @@
 - noodles
   - 发音
-    - 英 `/ˈnu:dlz/`
-    - 美 `/ˈnudlz/`
+    - 英
+      - `/ˈnu:dlz/`
+    - 美
+      - `/ˈnudlz/`
   - 词义
-    - `Noodles are long, thin strips of pasta. They are used especially in Chinese and Italian cooking. `
+        - `Noodles are long, thin strips of pasta. They are used especially in Chinese and Italian cooking. `
   - 短语
-    - `instant noodle` 方便面；速食面；泡面 
-    - `rice noodle` 米线 
-    - `noodle soup` 面汤，清汤面条 
-    - `fried noodle` 炒面；乌东面 
+    - `instant noodle`
+      - 方便面；速食面；泡面 
+    - `rice noodle`
+      - 米线 
+    - `noodle soup`
+      - 面汤，清汤面条 
+    - `fried noodle`
+      - 炒面；乌东面 
   - 例句
     - `Do you like rice or noodles?`
       - 你喜欢米饭还是面条？

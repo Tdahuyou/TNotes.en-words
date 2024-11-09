@@ -1,17 +1,23 @@
 - notoriously
   - 发音
-    - 英 `/nəu'tɔ:riəsli/`
-    - 美 `/noˈtɔːriəsli/`
+    - 英
+      - `/nəu'tɔ:riəsli/`
+    - 美
+      - `/noˈtɔːriəsli/`
   - 词义
-    - adv. 臭名昭著地,众所周知地
+    - adv.
+      - 臭名昭著地,众所周知地
   - 同根词
     - adj.
-      - `notorious` 声名狼藉的，臭名昭著的
+      - `notorious`
+        - 声名狼藉的，臭名昭著的
     - n.
-      - `notoriety` 恶名；声名狼藉；丑名
+      - `notoriety`
+        - 恶名；声名狼藉；丑名
   - 近义词
-    - adv. 众所周知地；声名狼藉地；恶名昭彰地
-      - `arrantly`
+    - adv.
+      - 众所周知地；声名狼藉地；恶名昭彰地
+        - `arrantly`
   - 例句
     - `Could some of the deaths have been prevented in this notoriously high-risk area?`
       - 在这个众所周知的高危地区，有些死亡是否可以避免？

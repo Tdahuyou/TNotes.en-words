@@ -1,14 +1,18 @@
 - outskirts
   - 发音
-    - 英 `/'aʊtskɜːts/`
-    - 美 `/'aʊt'skɝts/`
+    - 英
+      - `/'aʊtskɜːts/`
+    - 美
+      - `/'aʊt'skɝts/`
   - 词义
-    - n. 市郊，郊区
-    - `the parts of a town or city that are furthest from the centre`
+    - n.
+      - 市郊，郊区
+        - `the parts of a town or city that are furthest from the centre`
   - 近义词
-    - n. 市郊，郊区
-      - `suburban district`
-      - `banlieue`
+    - n.
+      - 市郊，郊区
+        - `suburban district`
+        - `banlieue`
   - 例句
     - `On the extreme northwestern outskirts of the city stands the Buddhist temple.`
       - 那所佛教寺院位于市郊的最西北角。

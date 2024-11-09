@@ -1,18 +1,25 @@
 - kettle
   - 发音
-    - 英 `/'ket(ə)l/`
-    - 美 `/'kɛtl/`
+    - 英
+      - `/'ket(ə)l/`
+    - 美
+      - `/'kɛtl/`
   - 词义
-    - n. 壶,罐,釜,鼓
-    - `a container with a lid, a handle, and a spout,used for boiling and pouring water`
+    - n.
+      - 壶,罐,釜,鼓
+        - `a container with a lid, a handle, and a spout,used for boiling and pouring water`
   - 近义词
-    - n. [轻]壶；[化工]釜；罐；鼓
-      - `pot`
-      - `drum`
+    - n.
+      - [轻]壶；[化工]釜；罐；鼓
+        - `pot`
+        - `drum`
   - 短语
-    - `electric kettle` 电热水壶 
-    - `kettle of fish` 混乱；困境 
-    - `reaction kettle` 反应釜 
+    - `electric kettle`
+      - 电热水壶 
+    - `kettle of fish`
+      - 混乱；困境 
+    - `reaction kettle`
+      - 反应釜 
   - 例句
     - `She filled the kettle and switched it on.`
       - 她把水壶灌满，打开了开关。

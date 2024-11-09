@@ -1,7 +1,9 @@
 - ANC
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
   - 例句
     - `You will choose to defend the constitution because that is all we have to protect all of our people from the ANC's power abuse.`

@@ -1,14 +1,18 @@
 - starfish
   - 发音
-    - 英 `/'stɑːfɪʃ/`
-    - 美 `/'stɑr'fɪʃ/`
+    - 英
+      - `/'stɑːfɪʃ/`
+    - 美
+      - `/'stɑr'fɪʃ/`
   - 词义
-    - n. 海星
-    - `a flat sea animal that has five arms forming the shape of a star`
+    - n.
+      - 海星
+        - `a flat sea animal that has five arms forming the shape of a star`
   - 近义词
-    - n. [无脊椎]海星
-      - `sea star`
-      - `asteroidean`
+    - n.
+      - [无脊椎]海星
+        - `sea star`
+        - `asteroidean`
   - 例句
     - `She lays a kindly hand like a tiny starfish on my knee.`
       - 她和善地伸出手，像小海星一样放在我的膝盖上。

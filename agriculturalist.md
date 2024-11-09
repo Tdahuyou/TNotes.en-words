@@ -1,19 +1,26 @@
 - agriculturalist
   - 发音
-    - 英 `/undefined/`
-    - 美 `/,æɡrɪ'kʌltʃərəlɪst/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/,æɡrɪ'kʌltʃərəlɪst/`
   - 词义
-    - n. 农学家
-    - `An agriculturalist is someone who is an expert on agriculture and who advises farmers`
+    - n.
+      - 农学家
+        - `An agriculturalist is someone who is an expert on agriculture and who advises farmers`
   - 同根词
     - adj.
-      - `agricultural` 农业的；农艺的
+      - `agricultural`
+        - 农业的；农艺的
     - n.
-      - `agriculture` 农业；农艺，农学
-      - `agriculturist` 农业家；[农] 农场工作者
+      - `agriculture`
+        - 农业；农艺，农学
+      - `agriculturist`
+        - 农业家；[农] 农场工作者
   - 近义词
-    - n. 农学家（等于agriculturist）
-      - `agronomist`
+    - n.
+      - 农学家（等于agriculturist）
+        - `agronomist`
   - 例句
     - `Thadani runs workshops and seminars on how to be a small-scale agriculturalist -- and the workshops are growing in popularity.`
       - Thadani开办了关于怎样成为一名小小农学家的讲习班和研讨会，讲习班很受欢迎。

@@ -1,7 +1,9 @@
 - Caius
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
   - 例句
     - `On June 5, 1976, Needham delivered his last sermon as Master of Caius College. I quote from that sermon.`

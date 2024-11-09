@@ -1,33 +1,51 @@
 - disaster
   - 发音
-    - 英 `/dɪ'zæstər/`
-    - 美 `/dɪ'zæstɚ/`
+    - 英
+      - `/dɪ'zæstər/`
+    - 美
+      - `/dɪ'zæstɚ/`
   - 词义
-    - n. 灾难；彻底的失败
-    - `a sudden event such as a flood, storm, or accident which causes great damage or suffering`
+    - n.
+      - 灾难；彻底的失败
+        - `a sudden event such as a flood, storm, or accident which causes great damage or suffering`
   - 记忆
     - dis(离开) + aster(星星) → 星位不正， 预示有灾难 → 灾难
   - 近义词
-    - n. 灾难，灾祸；不幸
-      - `tragedy`
-      - `evil`
-      - `calamity`
-      - `grief`
+    - n.
+      - 灾难，灾祸；不幸
+        - `tragedy`
+        - `evil`
+        - `calamity`
+        - `grief`
   - 短语
-    - `natural disaster` 自然灾难，自然灾害 
-    - `disaster relief` 赈灾；灾难援助 
-    - `disaster prevention` 防灾 
-    - `disaster area` 灾区 
-    - `earthquake disaster` 地震灾害 
-    - `disaster recovery` 灾难复原 
-    - `disaster management` 灾难管理；灾备管理 
-    - `environmental disaster` 环境灾难；生态灾害，生态灾难 
-    - `meteorological disaster` 气象灾害 
-    - `disaster preparedness` 防灾准备状态 
-    - `recipe for disaster` 造成灾难的因素 
-    - `social disaster` 社会灾祸 
-    - `disaster recovery plan` 灾难恢复计划 
-    - `disaster film` 灾难片 
+    - `natural disaster`
+      - 自然灾难，自然灾害 
+    - `disaster relief`
+      - 赈灾；灾难援助 
+    - `disaster prevention`
+      - 防灾 
+    - `disaster area`
+      - 灾区 
+    - `earthquake disaster`
+      - 地震灾害 
+    - `disaster recovery`
+      - 灾难复原 
+    - `disaster management`
+      - 灾难管理；灾备管理 
+    - `environmental disaster`
+      - 环境灾难；生态灾害，生态灾难 
+    - `meteorological disaster`
+      - 气象灾害 
+    - `disaster preparedness`
+      - 防灾准备状态 
+    - `recipe for disaster`
+      - 造成灾难的因素 
+    - `social disaster`
+      - 社会灾祸 
+    - `disaster recovery plan`
+      - 灾难恢复计划 
+    - `disaster film`
+      - 灾难片 
   - 例句
     - `One hundred and twenty people died in China’s worst air disaster .`
       - 有120人在中国这起最惨烈的空难事故中丧生。

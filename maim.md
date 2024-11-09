@@ -1,21 +1,29 @@
 - maim
   - 发音
-    - 英 `/meɪm/`
-    - 美 `/mem/`
+    - 英
+      - `/meɪm/`
+    - 美
+      - `/mem/`
   - 词义
-    - v. 使残废
-    - `to wound or injure someone very seriously and often permanently`
-    - n. (Maim)人名；(意、罗)马伊姆
+    - v.
+      - 使残废
+        - `to wound or injure someone very seriously and often permanently`
+    - n.
+      - (Maim)人名；(意、罗)马伊姆
   - 同根词
     - adj.
-      - `maimed` 残废的；受伤的
+      - `maimed`
+        - 残废的；受伤的
     - n.
-      - `maimer` 残害者，残害他人者
+      - `maimer`
+        - 残害者，残害他人者
     - v.
-      - `maimed` 使残废（maim的过去分词）
+      - `maimed`
+        - 使残废（maim的过去分词）
   - 近义词
-    - vt. 使残废
-      - `disable`
+    - vt.
+      - 使残废
+        - `disable`
   - 例句
     - `Landmines still kill or maim about 300 people every month.`
       - 地雷每个月仍造成约300人死伤。

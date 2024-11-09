@@ -1,17 +1,23 @@
 - ferryboat
   - 发音
-    - 英 `/'ferɪbəʊt/`
-    - 美 `/'fɛrɪ,bot/`
+    - 英
+      - `/'ferɪbəʊt/`
+    - 美
+      - `/'fɛrɪ,bot/`
   - 词义
-    - n. 渡船
-    - `a ferry`
+    - n.
+      - 渡船
+        - `a ferry`
   - 同根词
     - n.
-      - `ferry` 渡船；摆渡；渡口
+      - `ferry`
+        - 渡船；摆渡；渡口
     - vi.
-      - `ferry` 摆渡；来往行驶
+      - `ferry`
+        - 摆渡；来往行驶
     - vt.
-      - `ferry` （乘渡船）渡过；用渡船运送；空运
+      - `ferry`
+        - （乘渡船）渡过；用渡船运送；空运
   - 例句
     - `Your brother left his bag of film on the ferryboat.I found it.`
       - 你哥哥把这个装胶卷的提包忘在渡船上。 我看到了。

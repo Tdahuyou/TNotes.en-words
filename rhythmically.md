@@ -1,17 +1,25 @@
 - rhythmically
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - adv. 有节奏地
+    - adv.
+      - 有节奏地
   - 同根词
     - adj.
-      - `rhythmic` [生物] 有节奏的（等于rhythmical）；间歇的；合拍的
-      - `rhythmical` 有节奏的；有韵律的
+      - `rhythmic`
+        - [生物] 有节奏的（等于rhythmical）；间歇的；合拍的
+      - `rhythmical`
+        - 有节奏的；有韵律的
     - n.
-      - `rhythm` 节奏；韵律
-      - `rhythmic` 韵律论（等于rhythmics）
-      - `rhythmicity` 韵律性；节奏性
+      - `rhythm`
+        - 节奏；韵律
+      - `rhythmic`
+        - 韵律论（等于rhythmics）
+      - `rhythmicity`
+        - 韵律性；节奏性
   - 例句
     - `Metal rollers clank rhythmically inside the Imperial Distributors warehouse, as employees slide boxes packed with health and beauty products down the lines.`
       -  帝国经销公司的仓库里，随着员工把装满保健美容产品的箱子从货运线上拖下来，金属滚轴有节奏地叮当作响。

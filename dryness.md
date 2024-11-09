@@ -1,31 +1,46 @@
 - dryness
   - 发音
-    - 英 `/'draɪnɪs/`
-    - 美 `/'draɪnɪs/`
+    - 英
+      - `/'draɪnɪs/`
+    - 美
+      - `/'draɪnɪs/`
   - 词义
-    - n. 干燥
+    - n.
+      - 干燥
   - 同根词
     - adj.
-      - `dry` 干的；口渴的；枯燥无味的；禁酒的
-      - `dried` 干燥的；弄干了的
-      - `dryish` 稍干的；略近干涩的
+      - `dry`
+        - 干的；口渴的；枯燥无味的；禁酒的
+      - `dried`
+        - 干燥的；弄干了的
+      - `dryish`
+        - 稍干的；略近干涩的
     - adv.
-      - `drily` 干燥地；冷淡地；讽刺地
-      - `dryly` 干燥地；冷淡地；枯燥无味地
+      - `drily`
+        - 干燥地；冷淡地；讽刺地
+      - `dryly`
+        - 干燥地；冷淡地；枯燥无味地
     - n.
-      - `drought` 干旱；缺乏
-      - `dry` 干涸
-      - `dryer` 烘干机；[助剂] 干燥剂
+      - `drought`
+        - 干旱；缺乏
+      - `dry`
+        - 干涸
+      - `dryer`
+        - 烘干机；[助剂] 干燥剂
     - v.
-      - `dried` 使干（原形是dry）
+      - `dried`
+        - 使干（原形是dry）
     - vi.
-      - `dry` 变干
+      - `dry`
+        - 变干
     - vt.
-      - `dry` 把…弄干
+      - `dry`
+        - 把…弄干
   - 近义词
-    - n. [气候]干燥；冷淡；干燥无味
-      - `drying`
-      - `desiccation`
+    - n.
+      - [气候]干燥；冷淡；干燥无味
+        - `drying`
+        - `desiccation`
   - 例句
     - `When used in our food, heart-healthy olive oil provides an adequate source of fat to prevent dryness.`
       - 橄榄油用于食物中，能提供充足的脂质以防止食物干燥，而不会加重心脏负担。

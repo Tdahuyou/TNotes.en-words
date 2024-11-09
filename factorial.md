@@ -1,22 +1,32 @@
 - factorial
   - 发音
-    - 英 `/fæk'tɔːrɪəl/`
-    - 美 `/fæk'tɔrɪəl/`
+    - 英
+      - `/fæk'tɔːrɪəl/`
+    - 美
+      - `/fæk'tɔrɪəl/`
   - 词义
-    - adj. 因子的，阶乘的
-    - `of or involving factorials or factors `
-    - n. [数]阶乘
-    - `the result when you multiply a whole number by all the numbers below it`
+    - adj.
+      - 因子的，阶乘的
+        - `of or involving factorials or factors `
+    - n.
+      - [数]阶乘
+        - `the result when you multiply a whole number by all the numbers below it`
   - 同根词
     - n.
-      - `factoring` [数] 因子分解，[数] 因式分解；保付代理
-      - `factorization` [数] 因子分解；[数] 因式分解
+      - `factoring`
+        - [数] 因子分解，[数] 因式分解；保付代理
+      - `factorization`
+        - [数] 因子分解；[数] 因式分解
     - v.
-      - `factoring` 把…因素包括进去（factor的ing形式）
+      - `factoring`
+        - 把…因素包括进去（factor的ing形式）
   - 短语
-    - `factorial analysis` 因子分析，因素分析 
-    - `factorial design` 析因设计；因子设计 
-    - `factorial experiment` 析因实验；因子试验 
+    - `factorial analysis`
+      - 因子分析，因素分析 
+    - `factorial design`
+      - 析因设计；因子设计 
+    - `factorial experiment`
+      - 析因实验；因子试验 
   - 例句
     - `This functionality works well as a recursive application, as shown in the sample factorial function in  Listing 4.`
       - 这个功能作为递归应用程序工作良好，如  清单 4中的样本阶乘函数所示。

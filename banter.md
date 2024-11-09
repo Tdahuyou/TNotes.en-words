@@ -1,22 +1,29 @@
 - banter
   - 发音
-    - 英 `/'bæntə/`
-    - 美 `/'bæntɚ/`
+    - 英
+      - `/'bæntə/`
+    - 美
+      - `/'bæntɚ/`
   - 词义
-    - n. 无恶意的玩笑
-    - `Banter is teasing or joking talk that is amusing and friendly`
+    - n.
+      - 无恶意的玩笑
+        - `Banter is teasing or joking talk that is amusing and friendly`
   - 同根词
     - adv.
-      - `banteringly` 戏谑地；嘲弄地；半开玩笑地
+      - `banteringly`
+        - 戏谑地；嘲弄地；半开玩笑地
   - 近义词
-    - n. （善意的）戏谑；逗弄
-      - `jocosity`
-      - `tantalization`
-    - vt. 善意地取笑；逗弄
-      - `tantalise`
-    - vi. 开玩笑；谈笑
-      - `fool`
-      - `kid around`
+    - n.
+      - （善意的）戏谑；逗弄
+        - `jocosity`
+        - `tantalization`
+    - vt.
+      - 善意地取笑；逗弄
+        - `tantalise`
+    - vi.
+      - 开玩笑；谈笑
+        - `fool`
+        - `kid around`
   - 例句
     - `As she closed the door, she heard Tom exchanging good-natured banter with Jane.`
       - 她关门时听见汤姆与简在开着善意的玩笑。

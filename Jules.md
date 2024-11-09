@@ -1,9 +1,12 @@
 - Jules
   - 发音
-    - 英 `/dʒu:lz/`
-    - 美 `/dʒulz/`
+    - 英
+      - `/dʒu:lz/`
+    - 美
+      - `/dʒulz/`
   - 词义
-    - n. 朱尔斯（男子名）
+    - n.
+      - 朱尔斯（男子名）
   - 例句
     - `This is one of my go to meals now … thank you Jules!`
       - 这是我现在将要去吃的菜之一… 感谢朱尔斯！

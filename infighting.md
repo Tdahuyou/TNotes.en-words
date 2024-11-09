@@ -1,14 +1,19 @@
 - infighting
   - 发音
-    - 英 `/'ɪnfaɪtɪŋ/`
-    - 美 `/'ɪnfaɪtɪŋ/`
+    - 英
+      - `/'ɪnfaɪtɪŋ/`
+    - 美
+      - `/'ɪnfaɪtɪŋ/`
   - 词义
-    - n. 暗斗；混战；接近战
-    - v. 暗斗（infight的ing形式）；近击
+    - n.
+      - 暗斗；混战；接近战
+    - v.
+      - 暗斗（infight的ing形式）；近击
   - 近义词
-    - n. 暗斗；混战；接近战
-      - `melee`
-      - `mix-up`
+    - n.
+      - 暗斗；混战；接近战
+        - `melee`
+        - `mix-up`
   - 例句
     - `Yes, I said, but given the Tuareg history of betrayal and infighting, could the West trust them?`
       - 是的，我说，但考虑到历史上图阿雷格人的背叛和暗斗，西方人能信任他们吗？

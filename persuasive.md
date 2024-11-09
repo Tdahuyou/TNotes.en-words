@@ -1,31 +1,44 @@
 - persuasive
   - 发音
-    - 英 `/pər'sweɪsɪv/`
-    - 美 `/pɚ'swesɪv/`
+    - 英
+      - `/pər'sweɪsɪv/`
+    - 美
+      - `/pɚ'swesɪv/`
   - 词义
-    - adj. 有说服力的，让人信服的
-    - `able to make other people believe something or do what you ask`
+    - adj.
+      - 有说服力的，让人信服的
+        - `able to make other people believe something or do what you ask`
   - 记忆
     - 来自persuade(v. 劝说)
   - 同根词
     - adj.
-      - `persuade` 空闲的，有闲的
-      - `persuadable` 可说服的；可劝说的
-      - `persuasible` 可说服的；听话的
+      - `persuade`
+        - 空闲的，有闲的
+      - `persuadable`
+        - 可说服的；可劝说的
+      - `persuasible`
+        - 可说服的；听话的
     - adv.
-      - `persuasively` 令人信服地；口才好地
+      - `persuasively`
+        - 令人信服地；口才好地
     - n.
-      - `persuasion` 说服；说服力；信念；派别
-      - `persuasiveness` 说服力；信服；口才好
-      - `persuader` 说服者；强制的工具
+      - `persuasion`
+        - 说服；说服力；信念；派别
+      - `persuasiveness`
+        - 说服力；信服；口才好
+      - `persuader`
+        - 说服者；强制的工具
     - vi.
-      - `persuade` 说服；被说服
+      - `persuade`
+        - 说服；被说服
     - vt.
-      - `persuade` 说服，劝说；使某人相信；劝某人做（不做）某事
+      - `persuade`
+        - 说服，劝说；使某人相信；劝某人做（不做）某事
   - 近义词
-    - adj. 有说服力的；劝诱的，劝说的
-      - `convictive`
-      - `forceful`
+    - adj.
+      - 有说服力的；劝诱的，劝说的
+        - `convictive`
+        - `forceful`
   - 例句
     - `Trevor can be very persuasive.`
       - 特雷弗有时很会说服人。

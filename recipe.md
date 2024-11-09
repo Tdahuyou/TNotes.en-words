@@ -1,21 +1,29 @@
 - recipe
   - 发音
-    - 英 `/'resəpi/`
-    - 美 `/'rɛsəpi/`
+    - 英
+      - `/'resəpi/`
+    - 美
+      - `/'rɛsəpi/`
   - 词义
-    - n. 食谱；方法，秘诀，诀窍
-    - `a set of instructions for cooking a particular type of food`
+    - n.
+      - 食谱；方法，秘诀，诀窍
+        - `a set of instructions for cooking a particular type of food`
   - 记忆
     - re + cip(拿， 取) + e → 抓住关键 → 诀窍
   - 近义词
-    - n. 食谱；[临床]处方；秘诀
-      - `secret`
-      - `tips`
+    - n.
+      - 食谱；[临床]处方；秘诀
+        - `secret`
+        - `tips`
   - 短语
-    - `secret recipe` 秘方；秘密配方 
-    - `recipe for disaster` 造成灾难的因素 
-    - `formulating of recipe` 配方设计 
-    - `recipe book` 配方书；食谱书 
+    - `secret recipe`
+      - 秘方；秘密配方 
+    - `recipe for disaster`
+      - 造成灾难的因素 
+    - `formulating of recipe`
+      - 配方设计 
+    - `recipe book`
+      - 配方书；食谱书 
   - 例句
     - `a recipe book`
       - 一本烹饪书

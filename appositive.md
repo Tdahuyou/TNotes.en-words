@@ -1,15 +1,20 @@
 - appositive
   - 发音
-    - 英 `/ə'pɒzɪtɪv/`
-    - 美 `/ə'pɑzətɪv/`
+    - 英
+      - `/ə'pɒzɪtɪv/`
+    - 美
+      - `/ə'pɑzətɪv/`
   - 词义
-    - adj. 同位语
-    - `standing in apposition `
+    - adj.
+      - 同位语
+        - `standing in apposition `
   - 同根词
     - adj.
-      - `appositional` 同位的，同位格的
+      - `appositional`
+        - 同位的，同位格的
     - n.
-      - `apposition` 并置，同格；同位语
+      - `apposition`
+        - 并置，同格；同位语
   - 例句
     - `The average students' mastery level of non-existent appositive clauses in Chinese was 35%.`
       - 学生对于中文是否有同位语之语法结构之精通程度为35%。

@@ -1,21 +1,29 @@
 - inefficiency
   - 发音
-    - 英 `/ˌini'fiʃənsi/`
-    - 美 `/ɪnə'fɪʃənsi/`
+    - 英
+      - `/ˌini'fiʃənsi/`
+    - 美
+      - `/ɪnə'fɪʃənsi/`
   - 词义
-    - n. 无效率；无能
+    - n.
+      - 无效率；无能
   - 同根词
     - adj.
-      - `inefficient` 无效率的，效率低的；无能的
-      - `inefficacious` 无用的；无效果的
+      - `inefficient`
+        - 无效率的，效率低的；无能的
+      - `inefficacious`
+        - 无用的；无效果的
     - adv.
-      - `inefficiently` 无效率地；缺乏能力地
+      - `inefficiently`
+        - 无效率地；缺乏能力地
     - n.
-      - `inefficacy` 无效；无效力
+      - `inefficacy`
+        - 无效；无效力
   - 近义词
-    - n. 效率低；无效率；无能
-      - `disability`
-      - `crippledom`
+    - n.
+      - 效率低；无效率；无能
+        - `disability`
+        - `crippledom`
   - 例句
     - `Every office has its share of favoritism, inefficiency and dumb decisions.`
       - 每个公司都有他的偏袒、无效率和愚蠢的决定。

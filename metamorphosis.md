@@ -1,24 +1,32 @@
 - metamorphosis
   - 发音
-    - 英 `/,metə'mɔːfəsɪs; ,metəmɔː'fəʊsɪs/`
-    - 美 `/'mɛtə'mɔrfəsɪs/`
+    - 英
+      - `/,metə'mɔːfəsɪs; ,metəmɔː'fəʊsɪs/`
+    - 美
+      - `/'mɛtə'mɔrfəsɪs/`
   - 词义
-    - n. 变形
-    - `a process in which something changes completely into something very different`
+    - n.
+      - 变形
+        - `a process in which something changes completely into something very different`
   - 同根词
     - adj.
-      - `metamorphic` 变质的；变性的；变态的
-      - `metamorphous` 变形的；变质的
+      - `metamorphic`
+        - 变质的；变性的；变态的
+      - `metamorphous`
+        - 变形的；变质的
     - n.
-      - `metamorphism` 变质；变形；变态
+      - `metamorphism`
+        - 变质；变形；变态
     - vt.
-      - `metamorphose` 变质；变形；使变成
+      - `metamorphose`
+        - 变质；变形；使变成
   - 近义词
-    - n. 变形；变质
-      - `deformation`
-      - `transformation`
-      - `distortion`
-      - `decomposition`
+    - n.
+      - 变形；变质
+        - `deformation`
+        - `transformation`
+        - `distortion`
+        - `decomposition`
   - 例句
     - `It took me some time to undergo the metamorphosis from teacher to lecturer.`
       - 我经历了很长时间才从普通教师转变成讲师。

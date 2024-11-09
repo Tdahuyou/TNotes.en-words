@@ -1,29 +1,46 @@
 - sulfide
   - 发音
-    - 英 `/'sʌlfaɪd/`
-    - 美 `/'sʌl,faɪd/`
+    - 英
+      - `/'sʌlfaɪd/`
+    - 美
+      - `/'sʌl,faɪd/`
   - 词义
-    - n. <美>[化]硫化物
+    - n.
+      - <美>[化]硫化物
   - 同根词
     - adj.
-      - `sulfuretted` 含硫磺的；被硫化的
-      - `sulfurized` 硫化的
+      - `sulfuretted`
+        - 含硫磺的；被硫化的
+      - `sulfurized`
+        - 硫化的
     - v.
-      - `sulfuretted` 使同硫化合（sulfuret的过去式）
-      - `sulfurized` 使硫化（sulfurize的过去分词）
+      - `sulfuretted`
+        - 使同硫化合（sulfuret的过去式）
+      - `sulfurized`
+        - 使硫化（sulfurize的过去分词）
   - 近义词
-    - n. [化学]硫化物
-      - `sulphide`
+    - n.
+      - [化学]硫化物
+        - `sulphide`
   - 短语
-    - `hydrogen sulfide` 硫化氢 
-    - `sodium sulfide` [化]硫化钠 
-    - `copper sulfide` [化]硫化铜 
-    - `iron sulfide` 硫化铁；硫化亚铁 
-    - `nickel sulfide` 硫化镍 
-    - `dimethyl sulfide` 二甲基硫醚 
-    - `carbonyl sulfide` 硫化羰；羰基硫化物 
-    - `cadmium sulfide` [化]硫化镉 
-    - `ferrous sulfide` 硫化亚铁 
+    - `hydrogen sulfide`
+      - 硫化氢 
+    - `sodium sulfide`
+      - [化]硫化钠 
+    - `copper sulfide`
+      - [化]硫化铜 
+    - `iron sulfide`
+      - 硫化铁；硫化亚铁 
+    - `nickel sulfide`
+      - 硫化镍 
+    - `dimethyl sulfide`
+      - 二甲基硫醚 
+    - `carbonyl sulfide`
+      - 硫化羰；羰基硫化物 
+    - `cadmium sulfide`
+      - [化]硫化镉 
+    - `ferrous sulfide`
+      - 硫化亚铁 
   - 例句
     - `"Show them a metal sulfide deposit on the seafloor and they think it's a six-course banquet, " he joked.`
       - “给他们看海底的金属硫化物保护膜，他们就会认为这是一个六方会谈了”，他开玩笑的说。

@@ -1,22 +1,29 @@
 - subsequent
   - 发音
-    - 英 `/'sʌbsɪkwənt/`
-    - 美 `/'sʌbsɪkwənt/`
+    - 英
+      - `/'sʌbsɪkwənt/`
+    - 美
+      - `/'sʌbsɪkwənt/`
   - 词义
-    - adj. 随后的；并发的
-    - `happening or coming after something else`
+    - adj.
+      - 随后的；并发的
+        - `happening or coming after something else`
   - 记忆
     - sub(在…下面) + sequ(跟随) + ent → 随后的
   - 同根词
     - adv.
-      - `subsequently` 随后，其后；后来
+      - `subsequently`
+        - 随后，其后；后来
   - 近义词
-    - adj. [地质]后来的，随后的
-      - `succeeding`
-      - `pursuant`
+    - adj.
+      - [地质]后来的，随后的
+        - `succeeding`
+        - `pursuant`
   - 短语
-    - `subsequent events` 财务报表编制后发生的事项 
-    - `subsequent handling` 后续工序 
+    - `subsequent events`
+      - 财务报表编制后发生的事项 
+    - `subsequent handling`
+      - 后续工序 
   - 例句
     - `These skills were passed on to subsequent generations.`
       - 这些技能代代相传。

@@ -1,13 +1,17 @@
 - landmine
   - 发音
-    - 英 `/undefined/`
-    - 美 `/'lændmaɪn/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/'lændmaɪn/`
   - 词义
-    - n. 地雷
-    - `a bomb hidden in the ground that explodes when someone walks or drives over it`
+    - n.
+      - 地雷
+        - `a bomb hidden in the ground that explodes when someone walks or drives over it`
   - 近义词
-    - n. 地雷（等于land mine）
-      - `mine`
+    - n.
+      - 地雷（等于land mine）
+        - `mine`
   - 例句
     - `Initially workers thought the copper vessel was a landmine.`
       - 起初，工人以为这个铜罐子是一个地雷。

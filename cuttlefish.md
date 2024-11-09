@@ -1,17 +1,22 @@
 - cuttlefish
   - 发音
-    - 英 `/'kʌt(ə)lfɪʃ/`
-    - 美 `/'kʌtlfɪʃ/`
+    - 英
+      - `/'kʌt(ə)lfɪʃ/`
+    - 美
+      - `/'kʌtlfɪʃ/`
   - 词义
-    - n. [动]墨鱼,乌贼
-    - `a sea creature with ten soft arms`
+    - n.
+      - [动]墨鱼,乌贼
+        - `a sea creature with ten soft arms`
   - 同根词
     - n.
-      - `cuttle` 乌贼，墨鱼
+      - `cuttle`
+        - 乌贼，墨鱼
   - 近义词
-    - n. [无脊椎]乌贼；墨鱼
-      - `inkfish`
-      - `sea sleeve`
+    - n.
+      - [无脊椎]乌贼；墨鱼
+        - `inkfish`
+        - `sea sleeve`
   - 例句
     - `For toothpaste I used washed-up cuttlefish bone with wild fennel seeds, an oddity for a vegan.`
       - 我使用洗过的墨鱼骨头做牙刷，野生茴香籽做牙膏（素食主义者的古怪用品）。

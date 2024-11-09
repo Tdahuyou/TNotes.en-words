@@ -1,21 +1,27 @@
 - suffrage
   - 发音
-    - 英 `/'sʌfridʒ/`
-    - 美 `/'sʌfrɪdʒ/`
+    - 英
+      - `/'sʌfridʒ/`
+    - 美
+      - `/'sʌfrɪdʒ/`
   - 词义
-    - n. 投票；选举权，参政权
-    - `the right to vote in national elections`
+    - n.
+      - 投票；选举权，参政权
+        - `the right to vote in national elections`
   - 记忆
     - suf + frage (表示拥护的喧闹声) → 投票
   - 同根词
     - n.
-      - `suffragist` 妇女政权论者；参政权扩大论者
+      - `suffragist`
+        - 妇女政权论者；参政权扩大论者
   - 近义词
-    - n. 选举权；投票；参政权；代祷；赞成票
-      - `poll`
-      - `referendums`
+    - n.
+      - 选举权；投票；参政权；代祷；赞成票
+        - `poll`
+        - `referendums`
   - 短语
-    - `universal suffrage` 普选权 
+    - `universal suffrage`
+      - 普选权 
   - 例句
     - `...the women's suffrage movement.`
       - ...女性选举权运动。

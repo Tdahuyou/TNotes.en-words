@@ -1,15 +1,21 @@
 - cramming
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 填鸭式教学
+    - n.
+      - 填鸭式教学
   - 近义词
-    - n. 塞满；填鸭式的用功；挤满
-      - `overcrowding`
+    - n.
+      - 塞满；填鸭式的用功；挤满
+        - `overcrowding`
   - 短语
-    - `cram school` 补习班；补习学校，强化学校 
-    - `cram for` 临时抱佛脚；填鸭式地学习；死记硬背 
+    - `cram school`
+      - 补习班；补习学校，强化学校 
+    - `cram for`
+      - 临时抱佛脚；填鸭式地学习；死记硬背 
   - 例句
     - `Such cramming method of teaching is now severely reprobated.`
       - 这种填鸭式的教学法现在受到严厉的谴责。

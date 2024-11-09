@@ -1,25 +1,33 @@
 - dart
   - 发音
-    - 英 `/dɑːt/`
-    - 美 `/dɑrt/`
+    - 英
+      - `/dɑːt/`
+    - 美
+      - `/dɑrt/`
   - 词义
-    - n. 标枪,镖
-    - `A dart is a small, narrow object with a sharp point which can be thrown or shot`
-    - v. 投掷
-    - `If you dart a look at someone or something, or if your eyes dart to them, you look at them very quickly`
+    - n.
+      - 标枪,镖
+        - `A dart is a small, narrow object with a sharp point which can be thrown or shot`
+    - v.
+      - 投掷
+        - `If you dart a look at someone or something, or if your eyes dart to them, you look at them very quickly`
   - 同根词
     - n.
-      - `darter` 飞奔者；投掷者
+      - `darter`
+        - 飞奔者；投掷者
   - 近义词
-    - n. 镖；飞镖；标枪；猛冲
-      - `javelin`
-      - `onrush`
-    - vi. 突进；投掷；猛冲
-      - `pitch`
-      - `throw`
-    - vt. 投掷；投射
-      - `cast`
-      - `toss`
+    - n.
+      - 镖；飞镖；标枪；猛冲
+        - `javelin`
+        - `onrush`
+    - vi.
+      - 突进；投掷；猛冲
+        - `pitch`
+        - `throw`
+    - vt.
+      - 投掷；投射
+        - `cast`
+        - `toss`
   - 例句
     - `Markov died after being struck by a poison dart.`
       - 马尔科夫被毒镖击中后身亡。

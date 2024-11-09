@@ -1,17 +1,22 @@
 - none
   - 发音
-    - 英 `/nʌn/`
-    - 美 `/nʌn/`
+    - 英
+      - `/nʌn/`
+    - 美
+      - `/nʌn/`
   - 词义
-    - pron. 没有一人；没有一个；一点儿也没有
-    - `not any amount of something or not one of a group of people or things`
+    - pron.
+      - 没有一人；没有一个；一点儿也没有
+        - `not any amount of something or not one of a group of people or things`
   - 近义词
-    - adj. 没有的，一点没有的
-      - `lacking`
-      - `void of`
-    - adv. 决不，一点也不
-      - `nothing`
-      - `noway`
+    - adj.
+      - 没有的，一点没有的
+        - `lacking`
+        - `void of`
+    - adv.
+      - 决不，一点也不
+        - `nothing`
+        - `noway`
   - 例句
     - `I wish I could offer you some cake but there’s none left.`
       - 我真想能请你吃些蛋糕，但一点也没剩的了。

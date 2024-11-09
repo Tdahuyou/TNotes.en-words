@@ -1,25 +1,32 @@
 - regiment
   - 发音
-    - 英 `/'redʒɪmənt/`
-    - 美 `/'rɛdʒɪmənt/`
+    - 英
+      - `/'redʒɪmənt/`
+    - 美
+      - `/'rɛdʒɪmənt/`
   - 词义
-    - n. 团；
-    - `a large group of soldiers, usually consisting of several  battalion s `
+    - n.
+      - 团；
+        - `a large group of soldiers, usually consisting of several  battalion s `
   - 记忆
     - reg(统治) + iment → 统治的一群人 → 团； 一大群人
   - 同根词
     - adj.
-      - `regimental` 团的
+      - `regimental`
+        - 团的
     - n.
-      - `regimental` 团；军服
-      - `regimentation` 纪律；系统化；严格控制；团的编制
+      - `regimental`
+        - 团；军服
+      - `regimentation`
+        - 纪律；系统化；严格控制；团的编制
   - 近义词
-    - n. 团；大量
-      - `lots of`
-      - `wealth`
-      - `ocean`
-      - `sea`
-      - `mass`
+    - n.
+      - 团；大量
+        - `lots of`
+        - `wealth`
+        - `ocean`
+        - `sea`
+        - `mass`
   - 例句
     - `They deserted from their regiment.`
       - 他们从团里开了小差。

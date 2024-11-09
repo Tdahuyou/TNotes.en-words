@@ -1,39 +1,58 @@
 - adverse
   - 发音
-    - 英 `/'ædvɜːrs/`
-    - 美 `/ædˈvɚs, ˈædˌvɚs/`
+    - 英
+      - `/'ædvɜːrs/`
+    - 美
+      - `/ædˈvɚs, ˈædˌvɚs/`
   - 词义
-    - adj. 负面的；不利的；逆的
-    - `not good or favourable`
+    - adj.
+      - 负面的；不利的；逆的
+        - `not good or favourable`
   - 记忆
     - ad(向) + vers(转) + e → 转向另一方 → 负面的； 不利的
   - 同根词
     - adj.
-      - `adversative` 反意的；表示相反的
+      - `adversative`
+        - 反意的；表示相反的
     - adv.
-      - `adversely` 不利地；逆地；反对地
+      - `adversely`
+        - 不利地；逆地；反对地
     - n.
-      - `adversative` 反意语；转折词
+      - `adversative`
+        - 反意语；转折词
   - 近义词
-    - adj. 不利的；相反的；[植]敌对的（名词adverseness，副词adversely）
-      - `against`
-      - `contrary`
-      - `opposite`
-      - `counter`
-      - `cross`
+    - adj.
+      - 不利的；相反的；[植]敌对的（名词adverseness，副词adversely）
+        - `against`
+        - `contrary`
+        - `opposite`
+        - `counter`
+        - `cross`
   - 短语
-    - `adverse effect` 不利影响；副作用 
-    - `adverse selection` 逆选择；相反的选择 
-    - `adverse reaction` 不良反应；逆反应；有害反应 
-    - `adverse impact` 负面影响 
-    - `adverse weather` 恶劣天气；不利天气 
-    - `adverse factor` 有害因素；有害因子 
-    - `adverse current` 逆流 
-    - `adverse condition` 不利条件；有害状态 
-    - `adverse balance` 贸易逆差 
-    - `adverse balance of trade` 逆差；贸易逆差 
-    - `adverse pressure` 反压力；反压 
-    - `adverse criticism` 反向批评；逆向评论 
+    - `adverse effect`
+      - 不利影响；副作用 
+    - `adverse selection`
+      - 逆选择；相反的选择 
+    - `adverse reaction`
+      - 不良反应；逆反应；有害反应 
+    - `adverse impact`
+      - 负面影响 
+    - `adverse weather`
+      - 恶劣天气；不利天气 
+    - `adverse factor`
+      - 有害因素；有害因子 
+    - `adverse current`
+      - 逆流 
+    - `adverse condition`
+      - 不利条件；有害状态 
+    - `adverse balance`
+      - 贸易逆差 
+    - `adverse balance of trade`
+      - 逆差；贸易逆差 
+    - `adverse pressure`
+      - 反压力；反压 
+    - `adverse criticism`
+      - 反向批评；逆向评论 
   - 例句
     - `They fear it could have an adverse effect on global financial markets.`
       - 他们担心这会对全球金融市场产生不利影响。

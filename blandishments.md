@@ -1,9 +1,12 @@
 - blandishments
   - 发音
-    - 英 `/undefined/`
-    - 美 `/'blændɪʃmənts/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/'blændɪʃmənts/`
   - 词义
-    - n. 哄骗，劝诱
+    - n.
+      - 哄骗，劝诱
   - 记忆
     - 来自blandish(v. 讨好)
   - 例句

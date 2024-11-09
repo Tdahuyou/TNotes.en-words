@@ -1,27 +1,35 @@
 - squeak
   - 发音
-    - 英 `/skwiːk/`
-    - 美 `/skwik/`
+    - 英
+      - `/skwiːk/`
+    - 美
+      - `/skwik/`
   - 词义
-    - n. 吱吱声
-    - `a very short high noise or cry`
-    - v. 吱吱叫
-    - `to make a short high noise or cry that is not loud`
+    - n.
+      - 吱吱声
+        - `a very short high noise or cry`
+    - v.
+      - 吱吱叫
+        - `to make a short high noise or cry that is not loud`
   - 同根词
     - adj.
-      - `squeaky` 发轧声的；吱吱响的
+      - `squeaky`
+        - 发轧声的；吱吱响的
     - n.
-      - `squeaker` 雏鸽；小猪；咬臼者；吱吱叫的东西；发出短促刺耳声的人（或物）
+      - `squeaker`
+        - 雏鸽；小猪；咬臼者；吱吱叫的东西；发出短促刺耳声的人（或物）
   - 近义词
-    - vi. 告密；吱吱叫；侥幸成功
-      - `inform`
-      - `rat`
-    - n. 吱吱声；机会
-      - `opportunity`
-      - `chance`
-      - `opening`
-      - `room`
-      - `occasion`
+    - vi.
+      - 告密；吱吱叫；侥幸成功
+        - `inform`
+        - `rat`
+    - n.
+      - 吱吱声；机会
+        - `opportunity`
+        - `chance`
+        - `opening`
+        - `room`
+        - `occasion`
   - 例句
     - `With a third group, she activated the squeak as if by accident.`
       - 对于第三组，她则假装吱吱声是偶然发生的。

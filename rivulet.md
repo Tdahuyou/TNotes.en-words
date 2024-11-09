@@ -1,14 +1,18 @@
 - rivulet
   - 发音
-    - 英 `/'rivjulit/`
-    - 美 `/'rɪvjələt/`
+    - 英
+      - `/'rivjulit/`
+    - 美
+      - `/'rɪvjələt/`
   - 词义
-    - n. 小溪
-    - `a very small stream of water or liquid`
+    - n.
+      - 小溪
+        - `a very small stream of water or liquid`
   - 近义词
-    - n. 小溪，小河
-      - `creek`
-      - `burnie`
+    - n.
+      - 小溪，小河
+        - `creek`
+        - `burnie`
   - 例句
     - `The school is located near the rivulet.`
       - 学校坐落在小河附近。

@@ -1,12 +1,16 @@
 - angiosperm
   - 发音
-    - 英 `/'ændʒiouˌspɜːrm/`
-    - 美 `/'ændʒɪo,spɝm/`
+    - 英
+      - `/'ændʒiouˌspɜːrm/`
+    - 美
+      - `/'ændʒɪo,spɝm/`
   - 词义
-    - n. 被子植物
+    - n.
+      - 被子植物
   - 同根词
     - adj.
-      - `angiospermous` 被子的
+      - `angiospermous`
+        - 被子的
   - 例句
     - `This latter statement finds support in contemporary works on angiosperm embryology.`
       - 后者这一说法，在当代被子植物胚胎学研究中获得了支持。

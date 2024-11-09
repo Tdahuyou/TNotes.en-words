@@ -1,11 +1,15 @@
 - monition
   - 发音
-    - 英 `/məu'niʃən/`
-    - 美 `/məu'niʃən/`
+    - 英
+      - `/məu'niʃən/`
+    - 美
+      - `/məu'niʃən/`
   - 词义
-    - n. 忠告；警告
-    - `a warning or caution; admonition `
+    - n.
+      - 忠告；警告
+        - `a warning or caution; admonition `
   - 近义词
-    - n. 忠告；法庭传票；宗教法庭的诫谕
-      - `advice`
-      - `dehortation`
+    - n.
+      - 忠告；法庭传票；宗教法庭的诫谕
+        - `advice`
+        - `dehortation`

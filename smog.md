@@ -1,19 +1,25 @@
 - smog
   - 发音
-    - 英 `/smɒg/`
-    - 美 `/smɑːɡ/`
+    - 英
+      - `/smɒg/`
+    - 美
+      - `/smɑːɡ/`
   - 词义
-    - n. 烟雾
-    - `dirty air that looks like a mixture of smoke and  fog  , caused by smoke from cars and factories in cities`
+    - n.
+      - 烟雾
+        - `dirty air that looks like a mixture of smoke and  fog  , caused by smoke from cars and factories in cities`
   - 同根词
     - adj.
-      - `smoggy` 烟雾弥漫的
+      - `smoggy`
+        - 烟雾弥漫的
   - 近义词
-    - n. [环境]烟雾
-      - `vapor`
-      - `smoke shell`
+    - n.
+      - [环境]烟雾
+        - `vapor`
+        - `smoke shell`
   - 短语
-    - `photochemical smog` n. 光化雾 
+    - `photochemical smog`
+      - n. 光化雾 
   - 例句
     - `Cars cause pollution, both smog and acid rain.`
       - 汽车引起污染，既有烟雾又有酸雨。

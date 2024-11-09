@@ -1,32 +1,49 @@
 - sculptor
   - 发音
-    - 英 `/'skʌlptə/`
-    - 美 `/'skʌlptɚ/`
+    - 英
+      - `/'skʌlptə/`
+    - 美
+      - `/'skʌlptɚ/`
   - 词义
-    - n. 雕刻家
-    - `someone who makes sculptures`
+    - n.
+      - 雕刻家
+        - `someone who makes sculptures`
   - 同根词
     - adj.
-      - `sculptural` 雕刻的；雕刻般的
-      - `sculptured` 用刻纹装饰的；具刻纹的
-      - `sculpturesque` 雕刻般的
+      - `sculptural`
+        - 雕刻的；雕刻般的
+      - `sculptured`
+        - 用刻纹装饰的；具刻纹的
+      - `sculpturesque`
+        - 雕刻般的
     - n.
-      - `sculpture` 雕塑；雕刻；刻蚀
-      - `sculpt` 雕刻品
-      - `sculptress` 女雕刻家
-      - `sculpturer` 雕塑师（等于sculptor）
+      - `sculpture`
+        - 雕塑；雕刻；刻蚀
+      - `sculpt`
+        - 雕刻品
+      - `sculptress`
+        - 女雕刻家
+      - `sculpturer`
+        - 雕塑师（等于sculptor）
     - v.
-      - `sculptured` 雕刻；用雕塑装饰（sculpture的过去式）
+      - `sculptured`
+        - 雕刻；用雕塑装饰（sculpture的过去式）
     - vi.
-      - `sculpture` 从事雕刻
-      - `sculpt` 造型；雕刻
-      - `sculp` 雕塑；雕刻
+      - `sculpture`
+        - 从事雕刻
+      - `sculpt`
+        - 造型；雕刻
+      - `sculp`
+        - 雕塑；雕刻
     - vt.
-      - `sculpture` 雕塑；雕刻；刻蚀
-      - `sculpt` 造型；雕刻
+      - `sculpture`
+        - 雕塑；雕刻；刻蚀
+      - `sculpt`
+        - 造型；雕刻
   - 近义词
-    - n. 雕刻家
-      - `structurer`
+    - n.
+      - 雕刻家
+        - `structurer`
   - 例句
     - `There was a great demand for engravings of his portrait, and his head was being modelled by an admiring sculptor.`
       - 人们强烈要求要帮他做一个雕塑，一位有名的雕刻家正在把他的头像做成模型。

@@ -1,20 +1,25 @@
 - nevertheless
   - 发音
-    - 英 `/ˌnevərðə'les/`
-    - 美 `/,nɛvɚðə'lɛs/`
+    - 英
+      - `/ˌnevərðə'les/`
+    - 美
+      - `/,nɛvɚðə'lɛs/`
   - 词义
-    - adv. 然而，不过
-    - `in spite of a fact that you have just mentioned`
+    - adv.
+      - 然而，不过
+        - `in spite of a fact that you have just mentioned`
   - 近义词
-    - adv. 然而，不过；虽然如此
-      - `though`
-      - `natheless`
-    - conj. 然而，不过
-      - `whereas`
-      - `however`
-      - `while`
-      - `but`
-      - `yet`
+    - adv.
+      - 然而，不过；虽然如此
+        - `though`
+        - `natheless`
+    - conj.
+      - 然而，不过
+        - `whereas`
+        - `however`
+        - `while`
+        - `but`
+        - `yet`
   - 例句
     - `What you said was true. It was, nevertheless, a little unkind.`
       - 你说的都是实话，只不过有点刻薄。

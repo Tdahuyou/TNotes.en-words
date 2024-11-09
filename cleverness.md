@@ -1,18 +1,24 @@
 - cleverness
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 聪明,机灵
+    - n.
+      - 聪明,机灵
   - 同根词
     - adj.
-      - `clever` 聪明的；机灵的；熟练的
+      - `clever`
+        - 聪明的；机灵的；熟练的
     - adv.
-      - `cleverly` 聪明地
+      - `cleverly`
+        - 聪明地
   - 近义词
-    - n. 聪明；机灵
-      - `brightness`
-      - `wiseness`
+    - n.
+      - 聪明；机灵
+        - `brightness`
+        - `wiseness`
   - 例句
     - `Her cleverness and talent helped her look more beautiful than ever.`
       - 她的聪明才智使她更显得美貌非凡。

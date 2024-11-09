@@ -1,21 +1,34 @@
 - agonizingly
   - 发音
-    - 英 `/'ægənaiziŋli/`
-    - 美 `/undefined/`
+    - 英
+      - `/'ægənaiziŋli/`
+    - 美
+      - `/undefined/`
   - 词义
-    - adv. 使人烦恼地；苦闷地
+    - adv.
+      - 使人烦恼地；苦闷地
   - 同根词
     - adj.
-      - `agonizing` 苦恼的；痛苦难忍的
-      - `agonized` 感到极度痛苦的，苦闷的
-      - `agonising` 烦恼的；苦闷的
+      - `agonizing`
+        - 苦恼的；痛苦难忍的
+      - `agonized`
+        - 感到极度痛苦的，苦闷的
+      - `agonising`
+        - 烦恼的；苦闷的
     - v.
-      - `agonized` 使极度痛苦（agonize的过去分词）
+      - `agonized`
+        - 使极度痛苦（agonize的过去分词）
     - vi.
-      - `agonize` 感到极度痛苦；挣扎
-      - `agonizing` 感到极度痛苦（agonize的ing形式）
-      - `agonise` 感到苦闷；挣扎
+      - `agonize`
+        - 感到极度痛苦；挣扎
+      - `agonizing`
+        - 感到极度痛苦（agonize的ing形式）
+      - `agonise`
+        - 感到苦闷；挣扎
     - vt.
-      - `agonize` 使极度痛苦；折磨
-      - `agonizing` 使极度痛苦；折磨（agonize的ing形式）
-      - `agonise` 挣扎；烦恼
+      - `agonize`
+        - 使极度痛苦；折磨
+      - `agonizing`
+        - 使极度痛苦；折磨（agonize的ing形式）
+      - `agonise`
+        - 挣扎；烦恼

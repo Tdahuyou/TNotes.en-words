@@ -1,23 +1,30 @@
 - depraved
   - 发音
-    - 英 `/di'preivd/`
-    - 美 `/dɪ'prevd/`
+    - 英
+      - `/di'preivd/`
+    - 美
+      - `/dɪ'prevd/`
   - 词义
-    - adj. 堕落的，颓废的；邪恶的
-    - `completely evil or morally unacceptable`
+    - adj.
+      - 堕落的，颓废的；邪恶的
+        - `completely evil or morally unacceptable`
   - 同根词
     - n.
-      - `depravity` 堕落；邪恶
-      - `depravation` 恶化；堕落
+      - `depravity`
+        - 堕落；邪恶
+      - `depravation`
+        - 恶化；堕落
     - vt.
-      - `deprave` 使堕落；使腐败
+      - `deprave`
+        - 使堕落；使腐败
   - 近义词
-    - adj. 堕落的；腐化的；卑鄙的
-      - `fallen`
-      - `poor`
-      - `mean`
-      - `base`
-      - `dirty`
+    - adj.
+      - 堕落的；腐化的；卑鄙的
+        - `fallen`
+        - `poor`
+        - `mean`
+        - `base`
+        - `dirty`
   - 例句
     - `a killer’s depraved mind`
       - 凶手邪恶的内心世界

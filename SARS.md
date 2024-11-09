@@ -1,9 +1,12 @@
 - SARS
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - v. 非典型性肺炎；（SevereAcuteRespiratorySyndromes）的缩写
+    - v.
+      - 非典型性肺炎；（SevereAcuteRespiratorySyndromes）的缩写
   - 例句
     - `I know it is importnt to learn how to study after I met with SARS.`
       - 在我经历了非典型肺炎后，我知道学会怎样学习是非常重要的。

@@ -1,9 +1,11 @@
 - Circe
   - 发音
-    - 英 `/'sə:si/`
-    - 美 `/'sə:si/`
+    - 英
+      - `/'sə:si/`
+    - 美
+      - `/'sə:si/`
   - 词义
-    - `an enchantress who detained Odysseus on her island and turned his men into swine`
+        - `an enchantress who detained Odysseus on her island and turned his men into swine`
   - 例句
     - `Cookery means the knowledge of Medea and of Circe and of Helen and of the Queen of Sheba.`
       - 烹饪术包含着美狄娅、瑟西、海伦和希巴女王的学问。

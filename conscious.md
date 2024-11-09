@@ -1,27 +1,36 @@
 - conscious
   - 发音
-    - 英 `/'kɑːnʃəs/`
-    - 美 `/'kɑnʃəs/`
+    - 英
+      - `/'kɑːnʃəs/`
+    - 美
+      - `/'kɑnʃəs/`
   - 词义
-    - adj. 自觉的，意识到的；有知觉的，有意识的；有意的，刻意的
-    - `noticing or realizing something`
+    - adj.
+      - 自觉的，意识到的；有知觉的，有意识的；有意的，刻意的
+        - `noticing or realizing something`
   - 记忆
     - con(共同) + sci(知道) + ous → 共同知道的 → 自觉的
   - 同根词
     - adv.
-      - `consciously` 自觉地；有意识地
+      - `consciously`
+        - 自觉地；有意识地
     - n.
-      - `consciousness` 意识；知觉；觉悟；感觉
+      - `consciousness`
+        - 意识；知觉；觉悟；感觉
   - 近义词
-    - adj. 意识到的；故意的；神志清醒的
-      - `aware`
-      - `intended`
-      - `studied`
-      - `designed`
+    - adj.
+      - 意识到的；故意的；神志清醒的
+        - `aware`
+        - `intended`
+        - `studied`
+        - `designed`
   - 短语
-    - `conscious of` 意识到 
-    - `become conscious of` 观察到 
-    - `safety conscious` adj. 有安全意识的 
+    - `conscious of`
+      - 意识到 
+    - `become conscious of`
+      - 观察到 
+    - `safety conscious`
+      - adj. 有安全意识的 
   - 例句
     - `The driver was still conscious when the ambulance arrived.`
       - 救护车赶到时，司机仍然神志清醒。

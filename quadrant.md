@@ -1,18 +1,24 @@
 - quadrant
   - 发音
-    - 英 `/'kwɔdrənt/`
-    - 美 `/'kwɑdrənt/`
+    - 英
+      - `/'kwɔdrənt/`
+    - 美
+      - `/'kwɑdrənt/`
   - 词义
-    - n. 象限
-    - `an instrument for measuring angles, used when sailing or looking at the stars`
+    - n.
+      - 象限
+        - `an instrument for measuring angles, used when sailing or looking at the stars`
   - 同根词
     - n.
-      - `quad` 四方院子；四胞胎之一；嵌条；成套的四件东西
-      - `quadrantanopia` 象限盲
+      - `quad`
+        - 四方院子；四胞胎之一；嵌条；成套的四件东西
+      - `quadrantanopia`
+        - 象限盲
   - 近义词
-    - n. [海洋][天][数]象限；[水运]象限仪；四分之一圆
-      - `sector`
-      - `orthant`
+    - n.
+      - [海洋][天][数]象限；[水运]象限仪；四分之一圆
+        - `sector`
+        - `orthant`
   - 例句
     - `A symbol appears in an upper quadrant of the screen.`
       - 一个符号出现在屏幕上方的一个象限里。

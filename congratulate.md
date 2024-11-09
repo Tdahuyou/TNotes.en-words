@@ -1,24 +1,32 @@
 - congratulate
   - 发音
-    - 英 `/kən'grætjʊleɪt/`
-    - 美 `/kən'ɡrætʃulet/`
+    - 英
+      - `/kən'grætjʊleɪt/`
+    - 美
+      - `/kən'ɡrætʃulet/`
   - 词义
-    - v. 祝贺；庆贺
-    - `to tell someone that you are happy because they have achieved something or because something nice has happened to them`
+    - v.
+      - 祝贺；庆贺
+        - `to tell someone that you are happy because they have achieved something or because something nice has happened to them`
   - 记忆
     - con(共同) ＋ grat(喜好) ＋ ulate → 同喜同喜 → 向…道喜
   - 同根词
     - adj.
-      - `congratulatory` 祝贺的；庆祝的
+      - `congratulatory`
+        - 祝贺的；庆祝的
     - n.
-      - `congratulation` 祝贺；贺辞
+      - `congratulation`
+        - 祝贺；贺辞
   - 近义词
-    - vt. 祝贺；恭喜；庆贺
-      - `celebrate`
-      - `felicitate`
+    - vt.
+      - 祝贺；恭喜；庆贺
+        - `celebrate`
+        - `felicitate`
   - 短语
-    - `congratulate oneself` v. 感到庆幸 
-    - `congratulate on` v. 祝贺 
+    - `congratulate oneself`
+      - v. 感到庆幸 
+    - `congratulate on`
+      - v. 祝贺 
   - 例句
     - `He never even stopped to congratulate me.`
       - 他甚至没有过来向我祝贺。

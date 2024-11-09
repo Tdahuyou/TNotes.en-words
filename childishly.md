@@ -1,17 +1,25 @@
 - childishly
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - adv. 天真地，幼稚地
+    - adv.
+      - 天真地，幼稚地
   - 同根词
     - adj.
-      - `childish` 幼稚的，孩子气的
-      - `childlike` 天真烂漫的；孩子似的
+      - `childish`
+        - 幼稚的，孩子气的
+      - `childlike`
+        - 天真烂漫的；孩子似的
     - n.
-      - `childhood` 童年时期；幼年时代
-      - `childishness` 童心；幼稚
+      - `childhood`
+        - 童年时期；幼年时代
+      - `childishness`
+        - 童心；幼稚
   - 近义词
-    - adv. 天真地，幼小地；幼稚地
-      - `puerilely`
-      - `fondly`
+    - adv.
+      - 天真地，幼小地；幼稚地
+        - `puerilely`
+        - `fondly`

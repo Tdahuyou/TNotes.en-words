@@ -1,21 +1,26 @@
 - colossal
   - 发音
-    - 英 `/kə'lɒs(ə)l/`
-    - 美 `/kə'lɑsl/`
+    - 英
+      - `/kə'lɒs(ə)l/`
+    - 美
+      - `/kə'lɑsl/`
   - 词义
-    - adj. 巨大的,<口>异常的
-    - `used to emphasize that something is extremely large`
+    - adj.
+      - 巨大的,<口>异常的
+        - `used to emphasize that something is extremely large`
   - 同根词
     - n.
-      - `colossus` 巨像；巨人；巨大的东西
+      - `colossus`
+        - 巨像；巨人；巨大的东西
   - 近义词
-    - adj. 巨大的；异常的，非常的
-      - `huge`
-      - `tremendous`
-      - `enormous`
-      - `massive`
-      - `macro`
-      - `intense`
+    - adj.
+      - 巨大的；异常的，非常的
+        - `huge`
+        - `tremendous`
+        - `enormous`
+        - `massive`
+        - `macro`
+        - `intense`
   - 例句
     - `a colossal statue of the King`
       - 国王的巨大雕像

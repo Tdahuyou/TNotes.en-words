@@ -1,17 +1,22 @@
 - discrepancy
   - 发音
-    - 英 `/dɪs'krep(ə)nsɪ/`
-    - 美 `/dɪs'krɛpənsi/`
+    - 英
+      - `/dɪs'krep(ə)nsɪ/`
+    - 美
+      - `/dɪs'krɛpənsi/`
   - 词义
-    - n. 不符；矛盾；相差
-    - `a difference between two amounts, details, reports etc that should be the same`
+    - n.
+      - 不符；矛盾；相差
+        - `a difference between two amounts, details, reports etc that should be the same`
   - 同根词
     - adj.
-      - `discrepant` 有差异的；相差的；矛盾的
+      - `discrepant`
+        - 有差异的；相差的；矛盾的
   - 近义词
-    - n. 不符；矛盾；相差
-      - `conflict`
-      - `unconformity`
+    - n.
+      - 不符；矛盾；相差
+        - `conflict`
+        - `unconformity`
   - 例句
     - `...the discrepancy between press and radio reports.`
       - …报刊报道与广播报道之间的差异。

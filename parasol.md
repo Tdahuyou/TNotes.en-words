@@ -1,10 +1,13 @@
 - parasol
   - 发音
-    - 英 `/'pærəsɒl/`
-    - 美 `/'pærəsɔl/`
+    - 英
+      - `/'pærəsɒl/`
+    - 美
+      - `/'pærəsɔl/`
   - 词义
-    - n. (女用)阳伞
-    - `a type of  umbrella  used to provide shade from the sun`
+    - n.
+      - (女用)阳伞
+        - `a type of  umbrella  used to provide shade from the sun`
   - 例句
     - `Then the branch wasbroken off for her, and she held it in her delicate hand, and sheltered it with her silk parasol.`
       - 接着这枝子就被折断了。 她把它握在柔嫩的手里，并且还用绸阳伞替它遮住太阳。

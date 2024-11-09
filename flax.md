@@ -1,22 +1,31 @@
 - flax
   - 发音
-    - 英 `/flæks/`
-    - 美 `/flæks/`
+    - 英
+      - `/flæks/`
+    - 美
+      - `/flæks/`
   - 词义
-    - n. 亚麻
-    - `a plant with blue flowers, used for making cloth and oil`
+    - n.
+      - 亚麻
+        - `a plant with blue flowers, used for making cloth and oil`
   - 同根词
     - adj.
-      - `flaxen` 淡黄色的；亚麻的；亚麻色的
+      - `flaxen`
+        - 淡黄色的；亚麻的；亚麻色的
     - n.
-      - `flaxseed` 亚麻仁
+      - `flaxseed`
+        - 亚麻仁
   - 近义词
-    - n. [作物]亚麻；亚麻纤维；亚麻布；亚麻织品
-      - `linen cloth`
+    - n.
+      - [作物]亚麻；亚麻纤维；亚麻布；亚麻织品
+        - `linen cloth`
   - 短语
-    - `flax fiber` 亚麻纤维 
-    - `flax yarn` 亚麻纱 
-    - `flax oil` 亚麻油 
+    - `flax fiber`
+      - 亚麻纤维 
+    - `flax yarn`
+      - 亚麻纱 
+    - `flax oil`
+      - 亚麻油 
   - 例句
     - `Cherries, sunflower and flax seeds have traces of this hormone.`
       - 樱桃，向日葵籽和亚麻籽都含有这种荷尔蒙。

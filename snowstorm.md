@@ -1,14 +1,18 @@
 - snowstorm
   - 发音
-    - 英 `/'snəʊstɔːm/`
-    - 美 `/'snostɔrm/`
+    - 英
+      - `/'snəʊstɔːm/`
+    - 美
+      - `/'snostɔrm/`
   - 词义
-    - n. 暴风雪
-    - `a storm with strong winds and a lot of snow`
+    - n.
+      - 暴风雪
+        - `a storm with strong winds and a lot of snow`
   - 近义词
-    - n. 暴风雪；[气象]雪暴
-      - `blizzard`
-      - `stormy weather`
+    - n.
+      - 暴风雪；[气象]雪暴
+        - `blizzard`
+        - `stormy weather`
   - 例句
     - `The snowstorm added to our difficulties.`
       - 暴风雪增加了我们的困难。

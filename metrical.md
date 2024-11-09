@@ -1,29 +1,40 @@
 - metrical
   - 发音
-    - 英 `/'metrɪkl/`
-    - 美 `/'mɛtrɪkl/`
+    - 英
+      - `/'metrɪkl/`
+    - 美
+      - `/'mɛtrɪkl/`
   - 词义
-    - adj. 测量的；韵律的
-    - `written in the form of poetry, with a pattern of strong and weak beats`
+    - adj.
+      - 测量的；韵律的
+        - `written in the form of poetry, with a pattern of strong and weak beats`
   - 记忆
     - 来自meter(n. 米； 韵律)
   - 同根词
     - adj.
-      - `metric` 公制的；米制的；公尺的
+      - `metric`
+        - 公制的；米制的；公尺的
     - adv.
-      - `metrically` 韵律地；计量地
+      - `metrically`
+        - 韵律地；计量地
     - n.
-      - `metric` 度量标准
-      - `metrics` 度量；作诗法；韵律学
-      - `metre` 米；公尺；韵律
+      - `metric`
+        - 度量标准
+      - `metrics`
+        - 度量；作诗法；韵律学
+      - `metre`
+        - 米；公尺；韵律
     - vi.
-      - `metricate` 施行公制度量衡制度
+      - `metricate`
+        - 施行公制度量衡制度
     - vt.
-      - `metricate` 采用公制，把……改为公制
+      - `metricate`
+        - 采用公制，把……改为公制
   - 近义词
-    - adj. 测量的；韵律的；有韵律的
-      - `metered`
-      - `gauged`
+    - adj.
+      - 测量的；韵律的；有韵律的
+        - `metered`
+        - `gauged`
   - 例句
     - `A particular arrangement of words in poetry, such as iambic pentameter, determined by the kind and number of metrical units in a line.`
       - 格律：诗歌中字词的特定安排，由一行诗中韵律单位的类型和数量而定，如抑扬格五音步诗行。

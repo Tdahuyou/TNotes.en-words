@@ -1,46 +1,70 @@
 - possible
   - 发音
-    - 英 `/'pɒsɪb(ə)l/`
-    - 美 `/'pɑsəbl/`
+    - 英
+      - `/'pɒsɪb(ə)l/`
+    - 美
+      - `/'pɑsəbl/`
   - 词义
-    - adj. 可能的
-    - `if something is possible, it can be done or achieved`
+    - adj.
+      - 可能的
+        - `if something is possible, it can be done or achieved`
   - 同根词
     - adv.
-      - `possibly` 可能地；也许；大概
+      - `possibly`
+        - 可能地；也许；大概
     - n.
-      - `possibility` 可能性；可能发生的事物
+      - `possibility`
+        - 可能性；可能发生的事物
   - 近义词
-    - adj. 可能的；合理的；合适的
-      - `reasonable`
-      - `feasible`
-      - `applicable`
-      - `logical`
-      - `rational`
-    - n. 可能性；合适的人；可能的事物
-      - `probability`
-      - `feasibility`
-      - `potential`
-      - `maybe`
-      - `chance`
+    - adj.
+      - 可能的；合理的；合适的
+        - `reasonable`
+        - `feasible`
+        - `applicable`
+        - `logical`
+        - `rational`
+    - n.
+      - 可能性；合适的人；可能的事物
+        - `probability`
+        - `feasibility`
+        - `potential`
+        - `maybe`
+        - `chance`
   - 短语
-    - `possible for` 可能；对…可能的 
-    - `as much as possible` 尽可能 
-    - `if possible` 如果可能的话；如有可能 
-    - `as far as possible` 尽量；尽可能 
-    - `make it possible` 使它变成可能 
-    - `as quickly as possible` 尽快 
-    - `as early as possible` adv. 尽快地 
-    - `whenever possible` 只要可能 
-    - `as possible as` 尽可能 
-    - `anything is possible` 一切皆有可能 
-    - `everything is possible` 一切皆有可能 
-    - `possible of` 可能…的 
-    - `possible outcome` 可能结果 
-    - `possible values` 可能的值 
-    - `lowest possible price` 最低的价格 
-    - `possible error` 可能误差 
-    - `possible ore` 远景储量；储藏矿量；可能矿量 
+    - `possible for`
+      - 可能；对…可能的 
+    - `as much as possible`
+      - 尽可能 
+    - `if possible`
+      - 如果可能的话；如有可能 
+    - `as far as possible`
+      - 尽量；尽可能 
+    - `make it possible`
+      - 使它变成可能 
+    - `as quickly as possible`
+      - 尽快 
+    - `as early as possible`
+      - adv. 尽快地 
+    - `whenever possible`
+      - 只要可能 
+    - `as possible as`
+      - 尽可能 
+    - `anything is possible`
+      - 一切皆有可能 
+    - `everything is possible`
+      - 一切皆有可能 
+    - `possible of`
+      - 可能…的 
+    - `possible outcome`
+      - 可能结果 
+    - `possible values`
+      - 可能的值 
+    - `lowest possible price`
+      - 最低的价格 
+    - `possible error`
+      - 可能误差 
+    - `possible ore`
+      - 远景储量；储藏矿量；可能矿量 
   - 例句
     - `Is it possible toget tickets for the game?`
       - 有没有可能弄到比赛的门票？

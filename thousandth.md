@@ -1,17 +1,23 @@
 - thousandth
   - 发音
-    - 英 `/'θaʊzəntθ/`
-    - 美 `/'θaʊznθ/`
+    - 英
+      - `/'θaʊzəntθ/`
+    - 美
+      - `/'θaʊznθ/`
   - 词义
-    - adj. 第一千的,千分之一的
+    - adj.
+      - 第一千的,千分之一的
   - 同根词
     - adj.
-      - `thousand` 成千的；无数的
+      - `thousand`
+        - 成千的；无数的
     - n.
-      - `thousand` 一千；一千个；许许多多
+      - `thousand`
+        - 一千；一千个；许许多多
   - 近义词
-    - adj. 千分之一的；[数]第一千的
-      - `millesimal`
+    - adj.
+      - 千分之一的；[数]第一千的
+        - `millesimal`
   - 例句
     - `A micrometer is one thousandth of one millimeter.`
       - 一微米是一毫米的千分之一。

@@ -1,10 +1,13 @@
 - hypochondria
   - 发音
-    - 英 `/,haɪpə'kɒndrɪə/`
-    - 美 `/'haɪpə'kɑndrɪə/`
+    - 英
+      - `/,haɪpə'kɒndrɪə/`
+    - 美
+      - `/'haɪpə'kɑndrɪə/`
   - 词义
-    - n. 忧郁症,臆想病
-    - `when someone continuously worries that there is something wrong with their health, even when they are not ill`
+    - n.
+      - 忧郁症,臆想病
+        - `when someone continuously worries that there is something wrong with their health, even when they are not ill`
   - 例句
     - `In one of his last letters White defends his hypochondria: “I don't regret the time I spent worrying about myself.`
       - 在最后那几年的某一封信中，怀特还为自己的忧郁症做了一下辩护：“花在忧郁上面的时间，我一点都不后悔。”

@@ -1,14 +1,18 @@
 - misconceive
   - 发音
-    - 英 `/mɪskən'siːv/`
-    - 美 `/,mɪskən'siv/`
+    - 英
+      - `/mɪskən'siːv/`
+    - 美
+      - `/,mɪskən'siv/`
   - 词义
-    - vt&vi. 误解
-    - `to have the wrong idea; fail to understand `
+    - vt&vi.
+      - 误解
+        - `to have the wrong idea; fail to understand `
   - 近义词
-    - vt. 误解
-      - `mistake`
-      - `misunderstand`
+    - vt.
+      - 误解
+        - `mistake`
+        - `misunderstand`
   - 例句
     - `Since namely namely misconceive, that explanation clear nice.`
       - 既然是个误会，那解释清楚就好了。

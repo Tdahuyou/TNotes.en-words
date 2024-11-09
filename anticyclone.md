@@ -1,19 +1,24 @@
 - anticyclone
   - 发音
-    - 英 `/ˌænti'saikləun/`
-    - 美 `/,æntɪ'saɪ'klon/`
+    - 英
+      - `/ˌænti'saikləun/`
+    - 美
+      - `/,æntɪ'saɪ'klon/`
   - 词义
-    - n. 反气旋，高气压
-    - `an area of high air pressure that causes calm weather in the place it is moving over`
+    - n.
+      - 反气旋，高气压
+        - `an area of high air pressure that causes calm weather in the place it is moving over`
   - 记忆
     - anti (相反) + cyclone (气旋) → 反气旋
   - 同根词
     - adj.
-      - `anticyclonic` [气象] 反气旋的
+      - `anticyclonic`
+        - [气象] 反气旋的
   - 近义词
-    - n. [气象]反气旋，反旋风；高气压
-      - `high pressure`
-      - `hyperbar`
+    - n.
+      - [气象]反气旋，反旋风；高气压
+        - `high pressure`
+        - `hyperbar`
   - 例句
     - `The anticyclone weather situations are more favorable than the cyclonic ones.`
       - 反气旋天气情况比气旋天气情况更有利些。

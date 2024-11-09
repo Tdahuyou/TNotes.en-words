@@ -1,24 +1,35 @@
 - leukemia
   - 发音
-    - 英 `/lju'ki:miə/`
-    - 美 `/lʊ'kimɪə/`
+    - 英
+      - `/lju'ki:miə/`
+    - 美
+      - `/lʊ'kimɪə/`
   - 词义
-    - n. [内科][肿瘤]白血病
-    - `a type of cancer of the blood, that causes weakness and sometimes death`
+    - n.
+      - [内科][肿瘤]白血病
+        - `a type of cancer of the blood, that causes weakness and sometimes death`
   - 同根词
     - n.
-      - `leukocytosis` 白血球增多；[内科] 白细胞增多
+      - `leukocytosis`
+        - 白血球增多；[内科] 白细胞增多
   - 近义词
-    - n. [内科][肿瘤]白血病
-      - `luckemia`
-      - `leucocythemia`
+    - n.
+      - [内科][肿瘤]白血病
+        - `luckemia`
+        - `leucocythemia`
   - 短语
-    - `acute leukemia` 急性白血病 
-    - `lymphocytic leukemia` 淋巴细胞性白血病；淋巴球性白血病 
-    - `leukemia cell` 白血病细胞 
-    - `acute lymphocytic leukemia` 急性淋巴细胞白血病；急性淋巴细菌性白血病 
-    - `chronic myeloid leukemia` 慢性骨髓白血病；慢性粒细胞白血病 
-    - `hairy cell leukemia` 毛细胞白血病 
+    - `acute leukemia`
+      - 急性白血病 
+    - `lymphocytic leukemia`
+      - 淋巴细胞性白血病；淋巴球性白血病 
+    - `leukemia cell`
+      - 白血病细胞 
+    - `acute lymphocytic leukemia`
+      - 急性淋巴细胞白血病；急性淋巴细菌性白血病 
+    - `chronic myeloid leukemia`
+      - 慢性骨髓白血病；慢性粒细胞白血病 
+    - `hairy cell leukemia`
+      - 毛细胞白血病 
   - 例句
     - `Children are children, whether they have leukemia or not.`
       - 孩子就是孩子，不管他们是否有白血病。

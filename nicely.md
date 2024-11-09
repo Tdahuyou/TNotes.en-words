@@ -1,20 +1,27 @@
 - nicely
   - 发音
-    - 英 `/'naɪslɪ/`
-    - 美 `/'naɪsli/`
+    - 英
+      - `/'naɪslɪ/`
+    - 美
+      - `/'naɪsli/`
   - 词义
-    - adv. 漂亮地；恰好地；精细地
-    - `exactly or carefully`
-    - n. (Nicely)人名；(英)奈斯利
+    - adv.
+      - 漂亮地；恰好地；精细地
+        - `exactly or carefully`
+    - n.
+      - (Nicely)人名；(英)奈斯利
   - 同根词
     - adj.
-      - `nice` 精密的；美好的；细微的；和蔼的
+      - `nice`
+        - 精密的；美好的；细微的；和蔼的
     - n.
-      - `niceness` 美好的事物；讲究；精密
+      - `niceness`
+        - 美好的事物；讲究；精密
   - 近义词
-    - adv. 漂亮地；恰好地；精细地
-      - `exactly`
-      - `beautifully`
+    - adv.
+      - 漂亮地；恰好地；精细地
+        - `exactly`
+        - `beautifully`
   - 例句
     - `a nicely calculated distance`
       - 精确计算出的距离

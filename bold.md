@@ -1,24 +1,32 @@
 - bold
   - 发音
-    - 英 `/bould/`
-    - 美 `/bold/`
+    - 英
+      - `/bould/`
+    - 美
+      - `/bold/`
   - 词义
-    - adj. 大胆的；冒失的；粗体的；醒目的
-    - `not afraid of taking risks and making difficult decisions`
+    - adj.
+      - 大胆的；冒失的；粗体的；醒目的
+        - `not afraid of taking risks and making difficult decisions`
   - 记忆
     - b + old(年长) → 年长的人胆大心细 → 大胆的
   - 同根词
     - adv.
-      - `boldly` 大胆地；冒失地；显眼地
+      - `boldly`
+        - 大胆地；冒失地；显眼地
     - n.
-      - `boldness` 大胆；冒失；显著
+      - `boldness`
+        - 大胆；冒失；显著
   - 近义词
-    - adj. 大胆的，英勇的；[印刷]黑体的；厚颜无耻的；险峻的
-      - `rapid`
-      - `stouthearted`
+    - adj.
+      - 大胆的，英勇的；[印刷]黑体的；厚颜无耻的；险峻的
+        - `rapid`
+        - `stouthearted`
   - 短语
-    - `in bold` 粗体地；黑体的；加粗地 
-    - `bold face` 黑体字；粗体铅字 
+    - `in bold`
+      - 粗体地；黑体的；加粗地 
+    - `bold face`
+      - 黑体字；粗体铅字 
   - 例句
     - `In a surprisingly bold move , he is threatening court action against the company.`
       - 他出人意料地做出一个大胆举动，威胁要起诉这家公司。

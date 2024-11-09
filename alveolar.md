@@ -1,12 +1,18 @@
 - alveolar
   - 发音
-    - 英 `/æl'viələ/`
-    - 美 `/æl'viəlɚ/`
+    - 英
+      - `/æl'viələ/`
+    - 美
+      - `/æl'viəlɚ/`
   - 词义
-    - n. 牙槽部
+    - n.
+      - 牙槽部
   - 同根词
     - adj.
-      - `alveolate` [生物] 蜂窝状的；有肺泡的
+      - `alveolate`
+        - [生物] 蜂窝状的；有肺泡的
   - 短语
-    - `alveolar ridge` [医]牙槽嵴 
-    - `alveolar macrophage` [医]肺泡巨噬细胞 
+    - `alveolar ridge`
+      - [医]牙槽嵴 
+    - `alveolar macrophage`
+      - [医]肺泡巨噬细胞 

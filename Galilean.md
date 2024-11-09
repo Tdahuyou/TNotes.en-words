@@ -1,14 +1,18 @@
 - Galilean
   - 发音
-    - 英 `/,gæli'li(:)ən/`
-    - 美 `/undefined/`
+    - 英
+      - `/,gæli'li(:)ən/`
+    - 美
+      - `/undefined/`
   - 词义
-    - adj. 伽利略的,加利利的（位于巴基斯坦北部）
-    - `of Galilee `
+    - adj.
+      - 伽利略的,加利利的（位于巴基斯坦北部）
+        - `of Galilee `
   - 近义词
-    - n. 加利利人；耶稣；基督教徒
-      - `Jesus`
-      - `Man of Sorrows`
+    - n.
+      - 加利利人；耶稣；基督教徒
+        - `Jesus`
+        - `Man of Sorrows`
   - 例句
     - `59About an hour later another asserted, "Certainly this fellow was with him, for he is a Galilean."`
       - 约过了一小时，又有一个人极力地说：“他实在是同那人一夥的，因为他也是加利利人。”

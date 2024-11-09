@@ -1,20 +1,26 @@
 - impertinent
   - 发音
-    - 英 `/ɪm'pɜːtɪnənt/`
-    - 美 `/ɪm'pɝtnənt/`
+    - 英
+      - `/ɪm'pɜːtɪnənt/`
+    - 美
+      - `/ɪm'pɝtnənt/`
   - 词义
-    - adj. 不恰当的；无礼的；粗鲁的；不相干的
-    - `rude and not respectful, especially to someone who is older or more important`
+    - adj.
+      - 不恰当的；无礼的；粗鲁的；不相干的
+        - `rude and not respectful, especially to someone who is older or more important`
   - 同根词
     - adv.
-      - `impertinently` 不切题地；不恰当地；不礼貌地
+      - `impertinently`
+        - 不切题地；不恰当地；不礼貌地
     - n.
-      - `impertinence` 鲁莽，无理；不恰当
+      - `impertinence`
+        - 鲁莽，无理；不恰当
   - 近义词
-    - adj. 不恰当的；无礼的；粗鲁的；不相干的
-      - `robust`
-      - `crude`
-      - `rude`
+    - adj.
+      - 不恰当的；无礼的；粗鲁的；不相干的
+        - `robust`
+        - `crude`
+        - `rude`
   - 例句
     - `He was always asking impertinent questions.`
       - 他老是问一些唐突的问题。

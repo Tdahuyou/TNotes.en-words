@@ -1,10 +1,13 @@
 - abacus
   - 发音
-    - 英 `/'æbəkəs/`
-    - 美 `/'æbəkəs/`
+    - 英
+      - `/'æbəkəs/`
+    - 美
+      - `/'æbəkəs/`
   - 词义
-    - n. 算盘
-    - `a frame with small balls that can be slid along on thick wires, used for counting and calculating`
+    - n.
+      - 算盘
+        - `a frame with small balls that can be slid along on thick wires, used for counting and calculating`
   - 例句
     - `In English we call it an abacus.`
       - 在英语里我们叫它为一个算盘。

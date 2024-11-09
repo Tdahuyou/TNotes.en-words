@@ -1,50 +1,72 @@
 - prompt
   - 发音
-    - 英 `/prɑːmpt/`
-    - 美 `/prɑmpt/`
+    - 英
+      - `/prɑːmpt/`
+    - 美
+      - `/prɑmpt/`
   - 词义
-    - adj. 敏捷的；及时的，迅速的
-    - `done quickly, immediately, or at the right time`
-    - vt. 促进，推动；提示；鼓励
-    - `to make someone decide to do something`
-    - n. 提词，提示
-    - `a word or words said to an actor in a play, to help them remember what to say`
+    - adj.
+      - 敏捷的；及时的，迅速的
+        - `done quickly, immediately, or at the right time`
+    - vt.
+      - 促进，推动；提示；鼓励
+        - `to make someone decide to do something`
+    - n.
+      - 提词，提示
+        - `a word or words said to an actor in a play, to help them remember what to say`
   - 记忆
     - pro(向前) + mpt(=empt拿) → 向前拿 → 促进， 推动
   - 同根词
     - adv.
-      - `promptly` 迅速地；立即地；敏捷地
+      - `promptly`
+        - 迅速地；立即地；敏捷地
     - n.
-      - `prompting` 激励；提示；刺激
-      - `promptness` 机敏，敏捷；迅速
-      - `prompter` 敦促者；提词员；提示台词的设备
-      - `promptitude` 敏捷，迅速；机敏
+      - `prompting`
+        - 激励；提示；刺激
+      - `promptness`
+        - 机敏，敏捷；迅速
+      - `prompter`
+        - 敦促者；提词员；提示台词的设备
+      - `promptitude`
+        - 敏捷，迅速；机敏
     - v.
-      - `prompting` 促进；激起；鼓舞（prompt的ing形式）
+      - `prompting`
+        - 促进；激起；鼓舞（prompt的ing形式）
   - 近义词
-    - adj. 敏捷的，迅速的；立刻的
-      - `rapid`
-      - `fast`
-      - `fly`
-      - `forward`
-      - `ready`
-    - vt. [计]提示；促进；激起；（给演员）提白
-      - `facilitate`
-      - `boost`
-      - `further`
-    - n. [计]提示；付款期限；DOS命令：改变DOS系统提示符的风格
-      - `cue`
-      - `noting`
-    - adv. 准时地
-      - `punctually`
+    - adj.
+      - 敏捷的，迅速的；立刻的
+        - `rapid`
+        - `fast`
+        - `fly`
+        - `forward`
+        - `ready`
+    - vt.
+      - [计]提示；促进；激起；（给演员）提白
+        - `facilitate`
+        - `boost`
+        - `further`
+    - n.
+      - [计]提示；付款期限；DOS命令：改变DOS系统提示符的风格
+        - `cue`
+        - `noting`
+    - adv.
+      - 准时地
+        - `punctually`
   - 短语
-    - `prompt delivery` 限时专送 
-    - `command prompt` 命令提示符 
-    - `prompt attention` 从速办理 
-    - `prompt payment` 立即付款 
-    - `voice prompt` 语音提示，声音提示 
-    - `prompt shipment` 即期装船 
-    - `prompt in` 对…很迅速 
+    - `prompt delivery`
+      - 限时专送 
+    - `command prompt`
+      - 命令提示符 
+    - `prompt attention`
+      - 从速办理 
+    - `prompt payment`
+      - 立即付款 
+    - `voice prompt`
+      - 语音提示，声音提示 
+    - `prompt shipment`
+      - 即期装船 
+    - `prompt in`
+      - 对…很迅速 
   - 例句
     - `Prompt action must be taken.`
       - 必须立即采取行动。

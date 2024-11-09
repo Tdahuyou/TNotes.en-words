@@ -1,36 +1,52 @@
 - beginning
   - 发音
-    - 英 `/bɪ'gɪnɪŋ/`
-    - 美 `/bɪ'ɡɪnɪŋ/`
+    - 英
+      - `/bɪ'gɪnɪŋ/`
+    - 美
+      - `/bɪ'ɡɪnɪŋ/`
   - 词义
-    - n. 开头，开端
-    - `the start or first part of an event, story, period of time etc`
+    - n.
+      - 开头，开端
+        - `the start or first part of an event, story, period of time etc`
   - 同根词
     - n.
-      - `beginner` 初学者；新手；创始人
+      - `beginner`
+        - 初学者；新手；创始人
     - vi.
-      - `begin` 开始；首先
+      - `begin`
+        - 开始；首先
     - vt.
-      - `begin` 开始
+      - `begin`
+        - 开始
   - 近义词
-    - n. 开始；起点
-      - `threshold`
-      - `opening`
-      - `conception`
-      - `fresh`
-      - `first`
-    - v. 开始；创建（begin的ing形式）
-      - `starting`
-      - `initiating`
+    - n.
+      - 开始；起点
+        - `threshold`
+        - `opening`
+        - `conception`
+        - `fresh`
+        - `first`
+    - v.
+      - 开始；创建（begin的ing形式）
+        - `starting`
+        - `initiating`
   - 短语
-    - `at the beginning` 首先；从一开始；起初；从头开始 
-    - `at the beginning of` 在……的开始 
-    - `from beginning to end` 自始至终 
-    - `from the beginning` 从一开始；从开始到现在；从开始一直 
-    - `in the beginning` 开始，开端；起初 
-    - `from the very beginning` adv. 从最初开始（首先） 
-    - `at the very beginning` 最初；就在刚刚开始；在刚开始的时候；起初；在一开始 
-    - `beginning period` 初期 
+    - `at the beginning`
+      - 首先；从一开始；起初；从头开始 
+    - `at the beginning of`
+      - 在……的开始 
+    - `from beginning to end`
+      - 自始至终 
+    - `from the beginning`
+      - 从一开始；从开始到现在；从开始一直 
+    - `in the beginning`
+      - 开始，开端；起初 
+    - `from the very beginning`
+      - adv. 从最初开始（首先） 
+    - `at the very beginning`
+      - 最初；就在刚刚开始；在刚开始的时候；起初；在一开始 
+    - `beginning period`
+      - 初期 
   - 例句
     - `There’s a short poem at the beginning of every chapter.`
       - 每一章的开头都有一首短诗。

@@ -1,18 +1,22 @@
 - ingress
   - 发音
-    - 英 `/'ɪngres/`
-    - 美 `/'ɪnɡrɛs/`
+    - 英
+      - `/'ɪngres/`
+    - 美
+      - `/'ɪnɡrɛs/`
   - 词义
-    - n. 进入
-    - `the right to enter a place, or the act of entering it`
+    - n.
+      - 进入
+        - `the right to enter a place, or the act of entering it`
   - 记忆
     - in(进去) + gress(走) → 走进去 → 进入
   - 近义词
-    - n. 进入；[计]入口；准许进入；入境
-      - `threshold`
-      - `access`
-      - `portal`
-      - `admittance`
+    - n.
+      - 进入；[计]入口；准许进入；入境
+        - `threshold`
+        - `access`
+        - `portal`
+        - `admittance`
   - 例句
     - `A high seating position makes ingress and egress easy.`
       - 较高的座椅位置使入口和出口容易。

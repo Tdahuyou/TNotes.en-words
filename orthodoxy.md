@@ -1,20 +1,26 @@
 - orthodoxy
   - 发音
-    - 英 `/'ɔːθədɔksi/`
-    - 美 `/'ɔrθədɑksi/`
+    - 英
+      - `/'ɔːθədɔksi/`
+    - 美
+      - `/'ɔrθədɑksi/`
   - 词义
-    - n. 正统
-    - `an idea or set of ideas that is accepted by most people to be correct and right`
+    - n.
+      - 正统
+        - `an idea or set of ideas that is accepted by most people to be correct and right`
   - 记忆
     - 来自orthodox (a. 正统的)
   - 同根词
     - adj.
-      - `orthodox` 正统的；传统的；惯常的
+      - `orthodox`
+        - 正统的；传统的；惯常的
     - n.
-      - `orthodox` 正统的人；正统的事物
+      - `orthodox`
+        - 正统的人；正统的事物
   - 近义词
-    - n. 正统；正教；正统说法
-      - `legitimacy`
+    - n.
+      - 正统；正教；正统说法
+        - `legitimacy`
   - 例句
     - `He challenged the political orthodoxy of his time.`
       - 他对同时代的正统政治观念提出了质疑。

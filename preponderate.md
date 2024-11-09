@@ -1,25 +1,33 @@
 - preponderate
   - 发音
-    - 英 `/pri'pɔndəreit/`
-    - 美 `/undefined/`
+    - 英
+      - `/pri'pɔndəreit/`
+    - 美
+      - `/undefined/`
   - 词义
-    - v. 占优势，超过，胜过
-    - `to be more important or frequent than something else`
+    - v.
+      - 占优势，超过，胜过
+        - `to be more important or frequent than something else`
   - 记忆
     - pre (前) + ponder (重量) + ate → 重量超过前面 → 超过
   - 同根词
     - adj.
-      - `preponderant` 占优势的；突出的；压倒性的
+      - `preponderant`
+        - 占优势的；突出的；压倒性的
     - adv.
-      - `preponderantly` 占优势地，多数地
+      - `preponderantly`
+        - 占优势地，多数地
     - n.
-      - `preponderance` 优势；多数；占优势
+      - `preponderance`
+        - 优势；多数；占优势
   - 近义词
-    - vi. （在重量、数量、力量等方面）占优势
-      - `advantage over`
-      - `prevail over`
-    - vt. 胜过；压倒
-      - `overcome`
-      - `exceed`
-      - `cap`
-      - `transcend`
+    - vi.
+      - （在重量、数量、力量等方面）占优势
+        - `advantage over`
+        - `prevail over`
+    - vt.
+      - 胜过；压倒
+        - `overcome`
+        - `exceed`
+        - `cap`
+        - `transcend`

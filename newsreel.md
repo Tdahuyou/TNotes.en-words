@@ -1,18 +1,26 @@
 - newsreel
   - 发音
-    - 英 `/'njuːzriːl/`
-    - 美 `/'nuzril/`
+    - 英
+      - `/'njuːzriːl/`
+    - 美
+      - `/'nuzril/`
   - 词义
-    - n. 新闻影片
-    - `a short film of news that was shown in cinemas in the past`
+    - n.
+      - 新闻影片
+        - `a short film of news that was shown in cinemas in the past`
   - 同根词
     - adj.
-      - `newsy` 多新闻的；爱闲话的；成话题的
+      - `newsy`
+        - 多新闻的；爱闲话的；成话题的
     - n.
-      - `newsmonger` 饶舌者；爱传播新闻的人
-      - `newspapering` 报业；新闻业
-      - `newsreader` （英）新闻广播员；报纸读者
-      - `newsy` 报童
+      - `newsmonger`
+        - 饶舌者；爱传播新闻的人
+      - `newspapering`
+        - 报业；新闻业
+      - `newsreader`
+        - （英）新闻广播员；报纸读者
+      - `newsy`
+        - 报童
   - 例句
     - `Back then, you got a feature film, a cartoon, a serial, and a newsreel.`
       - 那时的电影有故事片、卡通片、系列影片和新闻纪录片。

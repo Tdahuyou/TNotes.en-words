@@ -1,12 +1,17 @@
 - ethnography
   - 发音
-    - 英 `/eθ'nɒgrəfɪ/`
-    - 美 `/ɛθ'nɑgrəfi/`
+    - 英
+      - `/eθ'nɒgrəfɪ/`
+    - 美
+      - `/ɛθ'nɑgrəfi/`
   - 词义
-    - n. 民族志学,人种学,人种志
-    - `the scientific description of different races of people`
+    - n.
+      - 民族志学,人种学,人种志
+        - `the scientific description of different races of people`
   - 同根词
     - adj.
-      - `ethnographic` 人种志的；民族志学的
+      - `ethnographic`
+        - 人种志的；民族志学的
     - n.
-      - `ethnographer` 人种志学者；民族志学者
+      - `ethnographer`
+        - 人种志学者；民族志学者

@@ -1,25 +1,33 @@
 - meditation
   - 发音
-    - 英 `/medɪ'teɪʃ(ə)n/`
-    - 美 `/,mɛdɪ'teʃən/`
+    - 英
+      - `/medɪ'teɪʃ(ə)n/`
+    - 美
+      - `/,mɛdɪ'teʃən/`
   - 词义
-    - n. 沉思，冥想
-    - `the practice of emptying your mind of thoughts and feelings, in order to relax completely or for religious reasons`
+    - n.
+      - 沉思，冥想
+        - `the practice of emptying your mind of thoughts and feelings, in order to relax completely or for religious reasons`
   - 记忆
     - 来自meditate(v. 沉思)
   - 同根词
     - adj.
-      - `meditative` 冥想的，沉思的；耽于默想的
+      - `meditative`
+        - 冥想的，沉思的；耽于默想的
     - adv.
-      - `meditatively` 沉思地，冥想地
+      - `meditatively`
+        - 沉思地，冥想地
     - vi.
-      - `meditate` 冥想；沉思
+      - `meditate`
+        - 冥想；沉思
     - vt.
-      - `meditate` 考虑；计划；企图
+      - `meditate`
+        - 考虑；计划；企图
   - 近义词
-    - n. 冥想；沉思，深思
-      - `reflection`
-      - `contemplation`
+    - n.
+      - 冥想；沉思，深思
+        - `reflection`
+        - `contemplation`
   - 例句
     - `Yoga involves breathing exercises, stretching, and meditation.`
       - 瑜伽包括呼吸训练、伸展和冥想。

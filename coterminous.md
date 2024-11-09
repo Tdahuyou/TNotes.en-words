@@ -1,13 +1,17 @@
 - coterminous
   - 发音
-    - 英 `/kou'tɜːrmɪnəs/`
-    - 美 `/ko'tɝmɪnəs/`
+    - 英
+      - `/kou'tɜːrmɪnəs/`
+    - 美
+      - `/ko'tɝmɪnəs/`
   - 词义
-    - adj. 毗连的，有共同边界的
-    - `having the same pattern or features`
+    - adj.
+      - 毗连的，有共同边界的
+        - `having the same pattern or features`
   - 记忆
     - co(n)(共同) + termin(边界， 结束) + ous → 有共同边界的
   - 近义词
-    - adj. 相连的；毗连的（等于conterminous）
-      - `adjacent`
-      - `conjoint`
+    - adj.
+      - 相连的；毗连的（等于conterminous）
+        - `adjacent`
+        - `conjoint`

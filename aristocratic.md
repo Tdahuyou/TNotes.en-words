@@ -1,22 +1,29 @@
 - aristocratic
   - 发音
-    - 英 `/əˌrɪstə'krætɪk/`
-    - 美 `/ə,rɪstə'krætɪk/`
+    - 英
+      - `/əˌrɪstə'krætɪk/`
+    - 美
+      - `/ə,rɪstə'krætɪk/`
   - 词义
-    - adj. 贵族的，有贵族气派的
-    - `belonging to or typical of the aristocracy`
+    - adj.
+      - 贵族的，有贵族气派的
+        - `belonging to or typical of the aristocracy`
   - 记忆
     - aristo(最好的) + crat(统治) + ic → 贵族(统治)的
   - 同根词
     - adv.
-      - `aristocratically` 贵族地
+      - `aristocratically`
+        - 贵族地
     - n.
-      - `aristocrat` 贵族
-      - `aristocracy` 贵族；贵族统治；上层社会；贵族政治
+      - `aristocrat`
+        - 贵族
+      - `aristocracy`
+        - 贵族；贵族统治；上层社会；贵族政治
   - 近义词
-    - adj. 贵族的；贵族政治的；有贵族气派的
-      - `noble`
-      - `nobiliary`
+    - adj.
+      - 贵族的；贵族政治的；有贵族气派的
+        - `noble`
+        - `nobiliary`
   - 例句
     - `an aristocratic family`
       - 贵族家庭

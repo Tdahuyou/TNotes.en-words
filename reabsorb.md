@@ -1,12 +1,16 @@
 - reabsorb
   - 发音
-    - 英 `/,riːəb'zɔːb; -'sɔːb/`
-    - 美 `/,ri:əb'sɔ:b/`
+    - 英
+      - `/,riːəb'zɔːb; -'sɔːb/`
+    - 美
+      - `/,ri:əb'sɔ:b/`
   - 词义
-    - v. 再吸附,重吸收
+    - v.
+      - 再吸附,重吸收
   - 同根词
     - n.
-      - `reabsorption` 再吸收
+      - `reabsorption`
+        - 再吸收
   - 例句
     - `It could just be a cyst that would either reabsorb itself into the body or need to be surgically removed.`
       - 它也有可能仅仅是一个囊肿，能被身体再吸收或者通过手术就可以把它给切除掉。

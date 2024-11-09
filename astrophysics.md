@@ -1,15 +1,20 @@
 - astrophysics
   - 发音
-    - 英 `/æstrə(ʊ)'fɪzɪks/`
-    - 美 `/,æstro'fɪzɪks/`
+    - 英
+      - `/æstrə(ʊ)'fɪzɪks/`
+    - 美
+      - `/,æstro'fɪzɪks/`
   - 词义
-    - n. 天体物理学
-    - `the scientific study of the chemical structure of the stars and the forces that influence them`
+    - n.
+      - 天体物理学
+        - `the scientific study of the chemical structure of the stars and the forces that influence them`
   - 同根词
     - adj.
-      - `astrophysical` 天体物理学的
+      - `astrophysical`
+        - 天体物理学的
     - n.
-      - `astrophysicist` 天体物理学家
+      - `astrophysicist`
+        - 天体物理学家
   - 例句
     - `But exactly what cut through the haze has been one of the big questions in astrophysics.`
       - 然而，究竟是什么驱散了烟雾？ 这一直是天体物理学上的一个重大问题之一。

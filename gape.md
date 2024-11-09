@@ -1,21 +1,28 @@
 - gape
   - 发音
-    - 英 `/geɪp/`
-    - 美 `/undefined/`
+    - 英
+      - `/geɪp/`
+    - 美
+      - `/undefined/`
   - 词义
-    - v. 裂开，张开；打呵欠
-    - `If you say that something such as a hole or a wound gapes, you are emphasizing that it is big or wide`
-    - n. 裂口，张嘴；呵欠
+    - v.
+      - 裂开，张开；打呵欠
+        - `If you say that something such as a hole or a wound gapes, you are emphasizing that it is big or wide`
+    - n.
+      - 裂口，张嘴；呵欠
   - 同根词
     - adj.
-      - `gapy` 患张口病的
+      - `gapy`
+        - 患张口病的
   - 近义词
-    - vi. 裂开，张开；[生理]打呵欠
-      - `gap`
-      - `expand`
-    - n. 裂口，张嘴；[生理]呵欠
-      - `breakage`
-      - `chasm`
+    - vi.
+      - 裂开，张开；[生理]打呵欠
+        - `gap`
+        - `expand`
+    - n.
+      - 裂口，张嘴；[生理]呵欠
+        - `breakage`
+        - `chasm`
   - 例句
     - `The front door was missing. A hole gaped in the roof.`
       - 前门没有了，屋顶裂开一个洞。

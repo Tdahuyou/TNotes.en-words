@@ -1,19 +1,25 @@
 - scuttle
   - 发音
-    - 英 `/'skʌtl/`
-    - 美 `/'skʌtl/`
+    - 英
+      - `/'skʌtl/`
+    - 美
+      - `/'skʌtl/`
   - 词义
-    - v. 凿洞沉船
-    - `to sink a ship by making holes in the bottom, especially in order to prevent it being used by an enemy`
+    - v.
+      - 凿洞沉船
+        - `to sink a ship by making holes in the bottom, especially in order to prevent it being used by an enemy`
   - 记忆
     - 凿 (cut) 洞沉船 (scuttle)
   - 近义词
-    - n. [建]天窗；煤桶；筐
-      - `skylight`
-      - `clerestory`
-    - vi. 逃避；急促地跑
-      - `get out of`
-      - `run from`
-    - vt. 使船沉没；破坏
-      - `destroy`
-      - `undermine`
+    - n.
+      - [建]天窗；煤桶；筐
+        - `skylight`
+        - `clerestory`
+    - vi.
+      - 逃避；急促地跑
+        - `get out of`
+        - `run from`
+    - vt.
+      - 使船沉没；破坏
+        - `destroy`
+        - `undermine`

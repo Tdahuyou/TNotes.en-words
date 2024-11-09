@@ -1,17 +1,21 @@
 - athirst
   - 发音
-    - 英 `/ə'θəːst/`
-    - 美 `/ə'θə:st/`
+    - 英
+      - `/ə'θəːst/`
+    - 美
+      - `/ə'θə:st/`
   - 词义
-    - adj. 渴望的
-    - `having an eager desire; longing `
+    - adj.
+      - 渴望的
+        - `having an eager desire; longing `
   - 近义词
-    - adj. 渴望的
-      - `eager`
-      - `desired`
-      - `hungry`
-      - `anxious`
-      - `sick`
+    - adj.
+      - 渴望的
+        - `eager`
+        - `desired`
+        - `hungry`
+        - `anxious`
+        - `sick`
   - 例句
     - `I am athirst for faraway things.`
       - 我渴望着遥远的事物。

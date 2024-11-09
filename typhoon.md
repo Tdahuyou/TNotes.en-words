@@ -1,10 +1,13 @@
 - typhoon
   - 发音
-    - 英 `/taɪ'fuːn/`
-    - 美 `/taɪ'fʊn/`
+    - 英
+      - `/taɪ'fuːn/`
+    - 美
+      - `/taɪ'fʊn/`
   - 词义
-    - n. 台风
-    - `a very violent tropical storm`
+    - n.
+      - 台风
+        - `a very violent tropical storm`
   - 记忆
     - “台风”
   - 例句

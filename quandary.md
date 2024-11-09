@@ -1,13 +1,17 @@
 - quandary
   - 发音
-    - 英 `/'kwɔndəri/`
-    - 美 `/'kwɑndəri/`
+    - 英
+      - `/'kwɔndəri/`
+    - 美
+      - `/'kwɑndəri/`
   - 词义
-    - n. 困惑，窘境，进退两难
-    - `a difficult situation or problem, especially one in which you cannot decide what to do`
+    - n.
+      - 困惑，窘境，进退两难
+        - `a difficult situation or problem, especially one in which you cannot decide what to do`
   - 记忆
     - “渴望得力” → 处于进退两难， 渴望得到力量
   - 近义词
-    - n. 困惑；窘境；为难
-      - `corner`
-      - `confusion`
+    - n.
+      - 困惑；窘境；为难
+        - `corner`
+        - `confusion`

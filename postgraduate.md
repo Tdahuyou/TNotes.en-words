@@ -1,17 +1,23 @@
 - postgraduate
   - 发音
-    - 英 `/pəʊs(t)'grædjʊət/`
-    - 美 `/post'ɡrædjet/`
+    - 英
+      - `/pəʊs(t)'grædjʊət/`
+    - 美
+      - `/post'ɡrædjet/`
   - 词义
-    - n. 研究生
-    - `someone who is studying at a university to get a  master’s degree  or a  phd `
+    - n.
+      - 研究生
+        - `someone who is studying at a university to get a  master’s degree  or a  phd `
   - 近义词
-    - n. 研究生，研究所学生
-      - `graduate student`
-      - `advanced student`
+    - n.
+      - 研究生，研究所学生
+        - `graduate student`
+        - `advanced student`
   - 短语
-    - `postgraduate student` 硕士研究生 
-    - `postgraduate diploma` 研究生文凭；研究生文凭课程 
+    - `postgraduate student`
+      - 硕士研究生 
+    - `postgraduate diploma`
+      - 研究生文凭；研究生文凭课程 
   - 例句
     - `"Given the level of competition in law, I definitely think that my postgraduate degree helped to distinguish me from the crowd, " he says.`
       - 他说，“考虑到在法律行业的竞争水平，我确实认为我的研究生学位让我从众人中脱颖而出”。

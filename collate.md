@@ -1,14 +1,19 @@
 - collate
   - 发音
-    - 英 `/kə'leɪt/`
-    - 美 `/kə'let/`
+    - 英
+      - `/kə'leɪt/`
+    - 美
+      - `/kə'let/`
   - 词义
-    - v. 核对，校对；校勘
-    - `to gather information together, examine it carefully, and compare it with other information to find any differences`
+    - v.
+      - 核对，校对；校勘
+        - `to gather information together, examine it carefully, and compare it with other information to find any differences`
   - 同根词
     - n.
-      - `collation` 校对；斋日的点心；牧师职务
+      - `collation`
+        - 校对；斋日的点心；牧师职务
   - 近义词
-    - vt. 核对，校对；校勘
-      - `check against`
-      - `check through`
+    - vt.
+      - 核对，校对；校勘
+        - `check against`
+        - `check through`

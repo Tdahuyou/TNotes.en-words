@@ -1,14 +1,18 @@
 - headstone
   - 发音
-    - 英 `/'hedstəʊn/`
-    - 美 `/'hɛdston/`
+    - 英
+      - `/'hedstəʊn/`
+    - 美
+      - `/'hɛdston/`
   - 词义
-    - n. 基石；墓石
-    - `a piece of stone on a grave, with the name of the dead person written on it`
+    - n.
+      - 基石；墓石
+        - `a piece of stone on a grave, with the name of the dead person written on it`
   - 近义词
-    - n. 基石；墓石
-      - `footstone`
-      - `foundation stone`
+    - n.
+      - 基石；墓石
+        - `footstone`
+        - `foundation stone`
   - 例句
     - `Michael Jr. puts flowers on a headstone... while Linc leaves an origami crane.`
       - 小迈可将花放在了一个墓石上…林肯将一只纸鹤也放在了上面。

@@ -1,17 +1,22 @@
 - absinth
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 苦艾酒
-    - `a bitter green very strong alcoholic drink`
+    - n.
+      - 苦艾酒
+        - `a bitter green very strong alcoholic drink`
   - 同根词
     - n.
-      - `absinthe` 苦艾；苦艾酒
+      - `absinthe`
+        - 苦艾；苦艾酒
   - 近义词
-    - n. 苦艾酒；苦艾
-      - `vermouth`
-      - `wormwood`
+    - n.
+      - 苦艾酒；苦艾
+        - `vermouth`
+        - `wormwood`
   - 例句
     - `Lovely creamy cocktail for those who like absinth in a different way.`
       - 可爱的奶油鸡尾酒为那些以不同的方式出现的苦艾酒的人准备。

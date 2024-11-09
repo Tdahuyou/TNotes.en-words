@@ -1,15 +1,20 @@
 - bushel
   - 发音
-    - 英 `/'bʊʃ(ə)l/`
-    - 美 `/'bʊʃəl/`
+    - 英
+      - `/'bʊʃ(ə)l/`
+    - 美
+      - `/'bʊʃəl/`
   - 词义
-    - n. 蒲式耳
-    - `A bushel is a unit of volume that is used for measuring agricultural produce such as corn or beans. A bushel is equivalent in volume to eight gallons \(35.2 litres\). `
-    - v. 修整（衣服等）
+    - n.
+      - 蒲式耳
+        - `A bushel is a unit of volume that is used for measuring agricultural produce such as corn or beans. A bushel is equivalent in volume to eight gallons \(35.2 litres\). `
+    - v.
+      - 修整（衣服等）
   - 近义词
-    - vt. 修整（衣服等）
-      - `trim up`
-      - `give shape to`
+    - vt.
+      - 修整（衣服等）
+        - `trim up`
+        - `give shape to`
   - 例句
     - `Grains are sold by the bushel.`
       - 谷物论蒲式耳出售。

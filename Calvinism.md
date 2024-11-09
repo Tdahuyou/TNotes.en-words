@@ -1,10 +1,13 @@
 - Calvinism
   - 发音
-    - 英 `/'kælvinizəm/`
-    - 美 `/'kælvinizəm/`
+    - 英
+      - `/'kælvinizəm/`
+    - 美
+      - `/'kælvinizəm/`
   - 词义
-    - n. 加尔文教义，加尔文主义
-    - `the Christian religious teachings of John Calvin, based on the idea that events on Earth are controlled by God and cannot be changed by humans`
+    - n.
+      - 加尔文教义，加尔文主义
+        - `the Christian religious teachings of John Calvin, based on the idea that events on Earth are controlled by God and cannot be changed by humans`
   - 例句
     - `Calvinism was the most convenient religion since the days of the ancients.`
       - 加尔文主义是自古以来最方便的宗教。

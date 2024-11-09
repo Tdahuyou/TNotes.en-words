@@ -1,15 +1,20 @@
 - dogwood
   - 发音
-    - 英 `/'dɒgwʊd/`
-    - 美 `/'dɔɡwʊd/`
+    - 英
+      - `/'dɒgwʊd/`
+    - 美
+      - `/'dɔɡwʊd/`
   - 词义
-    - n. 山茱萸
+    - n.
+      - 山茱萸
   - 近义词
-    - n. 山茱萸
-      - `cornus`
-      - `common macrocarpium fruit`
-    - adj. 山茱萸科植物的；淡黄褐色的
-      - `fawn-coloured`
+    - n.
+      - 山茱萸
+        - `cornus`
+        - `common macrocarpium fruit`
+    - adj.
+      - 山茱萸科植物的；淡黄褐色的
+        - `fawn-coloured`
   - 例句
     - `Tilly sat in Colleen’s mother’s lap, still eating cake, and Karen ran around the dogwood, chased by one of her cousins.`
       - 蒂莉坐在科琳妈妈的怀里，还在吃蛋糕，卡伦被一个表妹追得绕着山茱萸跑。

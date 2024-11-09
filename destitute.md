@@ -1,24 +1,33 @@
 - destitute
   - 发音
-    - 英 `/'destɪtjuːt/`
-    - 美 `/'dɛstə'tʊt/`
+    - 英
+      - `/'destɪtjuːt/`
+    - 美
+      - `/'dɛstə'tʊt/`
   - 词义
-    - adj. 穷困的；无的；缺乏的
-    - `having no money, no food, no home etc`
-    - n. 赤贫者
-    - vt. 使穷困；夺去
+    - adj.
+      - 穷困的；无的；缺乏的
+        - `having no money, no food, no home etc`
+    - n.
+      - 赤贫者
+    - vt.
+      - 使穷困；夺去
   - 同根词
     - n.
-      - `destitution` 穷困；缺乏
+      - `destitution`
+        - 穷困；缺乏
   - 近义词
-    - adj. 穷困的；无的；缺乏的
-      - `lacking`
-      - `impoverished`
-    - vt. 使穷困；夺去
-      - `carry off`
-      - `take sth off`
+    - adj.
+      - 穷困的；无的；缺乏的
+        - `lacking`
+        - `impoverished`
+    - vt.
+      - 使穷困；夺去
+        - `carry off`
+        - `take sth off`
   - 短语
-    - `destitute of` 剥夺 
+    - `destitute of`
+      - 剥夺 
   - 例句
     - `The floods left many people destitute .`
       - 这场洪水使许多人变得一无所有。

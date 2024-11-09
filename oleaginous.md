@@ -1,14 +1,19 @@
 - oleaginous
   - 发音
-    - 英 `/ˌouli'ædʒɪnəs/`
-    - 美 `/,olɪ'ædʒɪnəs/`
+    - 英
+      - `/ˌouli'ædʒɪnəs/`
+    - 美
+      - `/,olɪ'ædʒɪnəs/`
   - 词义
-    - adj. 油腻的；圆滑的，满口恭维的
-    - `resembling or having the properties of oil `
+    - adj.
+      - 油腻的；圆滑的，满口恭维的
+        - `resembling or having the properties of oil `
   - 同根词
     - n.
-      - `oleaginousness` 含油量
+      - `oleaginousness`
+        - 含油量
   - 近义词
-    - adj. 油质的；油腻的
-      - `fat`
-      - `oily`
+    - adj.
+      - 油质的；油腻的
+        - `fat`
+        - `oily`

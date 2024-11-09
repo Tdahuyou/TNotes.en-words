@@ -1,27 +1,41 @@
 - educationist
   - 发音
-    - 英 `/,edjuː'keɪʃənɪst/`
-    - 美 `/,edju:'keiʃənist/`
+    - 英
+      - `/,edjuː'keɪʃənɪst/`
+    - 美
+      - `/,edju:'keiʃənist/`
   - 词义
-    - n. 教育家；教育理论家
+    - n.
+      - 教育家；教育理论家
   - 同根词
     - adj.
-      - `educational` 教育的；有教育意义的
-      - `educated` 受过教育的；有教养的
-      - `educative` 教育的，教育上的
+      - `educational`
+        - 教育的；有教育意义的
+      - `educated`
+        - 受过教育的；有教养的
+      - `educative`
+        - 教育的，教育上的
     - adv.
-      - `educationally` 教育上地
+      - `educationally`
+        - 教育上地
     - n.
-      - `education` 教育；培养；教育学
-      - `educator` 教育家；教育工作者；教师
-      - `educatee` 受教育者
-      - `educationalist` 教育家；教育工作者
+      - `education`
+        - 教育；培养；教育学
+      - `educator`
+        - 教育家；教育工作者；教师
+      - `educatee`
+        - 受教育者
+      - `educationalist`
+        - 教育家；教育工作者
     - v.
-      - `educated` 训练；教导；培育（educate的过去分词形式）
+      - `educated`
+        - 训练；教导；培育（educate的过去分词形式）
     - vi.
-      - `educate` 教育；训练
+      - `educate`
+        - 教育；训练
     - vt.
-      - `educate` 教育；培养；训练
+      - `educate`
+        - 教育；培养；训练
   - 例句
     - `There has been much debate on the new teaching method invented by a young educationist .`
       - 这个由一位年轻的教育家发明的新教学方法引起了很大的争议。

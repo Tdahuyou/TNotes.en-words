@@ -1,16 +1,20 @@
 - ablution
   - 发音
-    - 英 `/ə'bluːʃən/`
-    - 美 `/əb'lʊʃən/`
+    - 英
+      - `/ə'bluːʃən/`
+    - 美
+      - `/əb'lʊʃən/`
   - 词义
-    - n. 清洗
-    - `the ritual washing of a priest's hands or of sacred vessels `
+    - n.
+      - 清洗
+        - `the ritual washing of a priest's hands or of sacred vessels `
   - 记忆
     - ab + lut (冲， 洗) + ion (动作) → 清洗
   - 近义词
-    - n. 洗礼；洗澡（常用复数）；斋戒沐浴
-      - `baptism`
-      - `christening`
+    - n.
+      - 洗礼；洗澡（常用复数）；斋戒沐浴
+        - `baptism`
+        - `christening`
   - 例句
     - `This is the hour of an ablution heart.`
       - 这是一个洗礼心灵的时刻。

@@ -1,36 +1,52 @@
 - stylish
   - 发音
-    - 英 `/'staɪlɪʃ/`
-    - 美 `/'staɪlɪʃ/`
+    - 英
+      - `/'staɪlɪʃ/`
+    - 美
+      - `/'staɪlɪʃ/`
   - 词义
-    - adj. 漂亮的，时髦的；高雅的，有格调的
-    - `attractive in a fashionable way`
+    - adj.
+      - 漂亮的，时髦的；高雅的，有格调的
+        - `attractive in a fashionable way`
   - 同根词
     - adj.
-      - `stylized` 程式化的；按固定格式的
+      - `stylized`
+        - 程式化的；按固定格式的
     - adv.
-      - `stylishly` 时髦地；新式地
+      - `stylishly`
+        - 时髦地；新式地
     - n.
-      - `style` 风格；时尚；类型；字体
-      - `stylishness` 时髦；新式
-      - `stylization` 格式化；仿效；因袭
+      - `style`
+        - 风格；时尚；类型；字体
+      - `stylishness`
+        - 时髦；新式
+      - `stylization`
+        - 格式化；仿效；因袭
     - v.
-      - `stylized` 风格化；仿效…的风格（stylize的过去式和过去分词）
+      - `stylized`
+        - 风格化；仿效…的风格（stylize的过去式和过去分词）
     - vi.
-      - `style` 设计式样；用刻刀作装饰画
-      - `stylize` 符合特定（或传统）程式
-      - `stylise` 具有某种风格；程式化
+      - `style`
+        - 设计式样；用刻刀作装饰画
+      - `stylize`
+        - 符合特定（或传统）程式
+      - `stylise`
+        - 具有某种风格；程式化
     - vt.
-      - `style` 设计；称呼；使合潮流
-      - `stylize` 使风格化；使程式化
-      - `stylise` 使…风格化；效仿…的风格（等于stylize）
+      - `style`
+        - 设计；称呼；使合潮流
+      - `stylize`
+        - 使风格化；使程式化
+      - `stylise`
+        - 使…风格化；效仿…的风格（等于stylize）
   - 近义词
-    - adj. 时髦的；现代风格的；潇洒的
-      - `modern`
-      - `fashionable`
-      - `tony`
-      - `in`
-      - `smart`
+    - adj.
+      - 时髦的；现代风格的；潇洒的
+        - `modern`
+        - `fashionable`
+        - `tony`
+        - `in`
+        - `smart`
   - 例句
     - `a stylish woman in her forties`
       - 一名40多岁的时髦女子

@@ -1,10 +1,13 @@
 - comestibles
   - 发音
-    - 英 `/kə'mestəblz/`
-    - 美 `/kə'mɛstɪbl/`
+    - 英
+      - `/kə'mestəblz/`
+    - 美
+      - `/kə'mɛstɪbl/`
   - 词义
-    - n. 食物
-    - `food `
+    - n.
+      - 食物
+        - `food `
   - 例句
     - `According to danone wahaha is making and selling pots of yoghurt and other comestibles to erstwhile clients of the venture without putting a penny in the joint cash-till.`
       - 达能表示，娃哈哈在生产酸奶及其它食品，并将其售予合资企业从前的客户，而收入丝毫未由双方共同分享。

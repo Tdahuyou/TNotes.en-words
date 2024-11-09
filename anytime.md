@@ -1,14 +1,18 @@
 - anytime
   - 发音
-    - 英 `/'enɪtaɪm/`
-    - 美 `/'ɛnɪ,taɪm/`
+    - 英
+      - `/'enɪtaɪm/`
+    - 美
+      - `/'ɛnɪ,taɪm/`
   - 词义
-    - adv. 任何时候,无论何时
-    - `at any time`
+    - adv.
+      - 任何时候,无论何时
+        - `at any time`
   - 近义词
-    - adv. 任何时候；无例外地
-      - `in season and out of season`
-      - `unlimitedly`
+    - adv.
+      - 任何时候；无例外地
+        - `in season and out of season`
+        - `unlimitedly`
   - 例句
     - `Call me anytime. I’m always home.`
       - 随时给我打电话，我一直在家。

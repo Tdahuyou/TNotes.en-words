@@ -1,24 +1,31 @@
 - pliable
   - 发音
-    - 英 `/'plaɪəbl/`
-    - 美 `/'plaɪəbl/`
+    - 英
+      - `/'plaɪəbl/`
+    - 美
+      - `/'plaɪəbl/`
   - 词义
-    - adj. 易弯曲的，柔韧的；易受影响的；顺从的
-    - `able to bend without breaking or cracking`
+    - adj.
+      - 易弯曲的，柔韧的；易受影响的；顺从的
+        - `able to bend without breaking or cracking`
   - 记忆
     - pli(=ply弯， 折) + able → 能弯曲的 → 易弯曲的， 柔韧的
   - 同根词
     - n.
-      - `ply` 厚度；板层；褶
+      - `ply`
+        - 厚度；板层；褶
     - vi.
-      - `ply` 辛勤工作；定期地来往（船、车等）
+      - `ply`
+        - 辛勤工作；定期地来往（船、车等）
     - vt.
-      - `ply` 使用，不住地使用；折，弯；从事
+      - `ply`
+        - 使用，不住地使用；折，弯；从事
   - 近义词
-    - adj. 柔韧的；柔软的；圆滑的；易曲折的
-      - `flexible`
-      - `soft`
-      - `tender`
+    - adj.
+      - 柔韧的；柔软的；圆滑的；易曲折的
+        - `flexible`
+        - `soft`
+        - `tender`
   - 例句
     - `a shoe made of soft pliable leather`
       - 柔韧的皮革做成的鞋子

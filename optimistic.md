@@ -1,31 +1,44 @@
 - optimistic
   - 发音
-    - 英 `/ˌɑːptɪ'mɪstɪk/`
-    - 美 `/,ɑptɪ'mɪstɪk/`
+    - 英
+      - `/ˌɑːptɪ'mɪstɪk/`
+    - 美
+      - `/,ɑptɪ'mɪstɪk/`
   - 词义
-    - adj. 乐观的
-    - `believing that good things will happen in the future`
+    - adj.
+      - 乐观的
+        - `believing that good things will happen in the future`
   - 记忆
     - optim(最好的) + istic → 什么都往最好的一面想 → 乐观的
   - 同根词
     - adv.
-      - `optimistically` 乐观地；乐天地
+      - `optimistically`
+        - 乐观地；乐天地
     - n.
-      - `optimism` 乐观；乐观主义
-      - `optimist` 乐观主义者；乐天派
+      - `optimism`
+        - 乐观；乐观主义
+      - `optimist`
+        - 乐观主义者；乐天派
     - vi.
-      - `optimize` 优化；持乐观态度
-      - `optimise` 表示乐观
+      - `optimize`
+        - 优化；持乐观态度
+      - `optimise`
+        - 表示乐观
     - vt.
-      - `optimize` 使最优化，使完善
-      - `optimise` 使优化；充分利用
+      - `optimize`
+        - 使最优化，使完善
+      - `optimise`
+        - 使优化；充分利用
   - 近义词
-    - adj. 乐观的；乐观主义的
-      - `rose-colored`
-      - `rosy`
+    - adj.
+      - 乐观的；乐观主义的
+        - `rose-colored`
+        - `rosy`
   - 短语
-    - `cautiously optimistic` 审慎乐观 
-    - `optimistic estimate` 乐观估计；最乐观时间 
+    - `cautiously optimistic`
+      - 审慎乐观 
+    - `optimistic estimate`
+      - 乐观估计；最乐观时间 
   - 例句
     - `Andrew took a more optimistic view.`
       - 安德鲁抱有更为乐观的想法。

@@ -1,20 +1,25 @@
 - when
   - 发音
-    - 英 `/wen/`
-    - 美 `/hwen; hwɛn/`
+    - 英
+      - `/wen/`
+    - 美
+      - `/hwen; hwɛn/`
   - 词义
-    - adv. 什么时候，何时
-    - `at what time`
+    - adv.
+      - 什么时候，何时
+        - `at what time`
   - 近义词
-    - conj. 考虑到；既然；当…时
-      - `considering`
-      - `since`
-      - `as`
-      - `now`
-    - n. 时间
-      - `time`
-      - `zeit`
-      - `termin`
+    - conj.
+      - 考虑到；既然；当…时
+        - `considering`
+        - `since`
+        - `as`
+        - `now`
+    - n.
+      - 时间
+        - `time`
+        - `zeit`
+        - `termin`
   - 例句
     - `When are we leaving?`
       - 我们什么时候走？

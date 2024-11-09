@@ -1,12 +1,16 @@
 - nephritis
   - 发音
-    - 英 `/nɪ'fraɪtɪs/`
-    - 美 `/nɛ'fraɪtɪs/`
+    - 英
+      - `/nɪ'fraɪtɪs/`
+    - 美
+      - `/nɛ'fraɪtɪs/`
   - 词义
-    - n. 肾炎
-    - `inflammation of a kidney `
+    - n.
+      - 肾炎
+        - `inflammation of a kidney `
   - 短语
-    - `interstitial nephritis` 间质性肾炎 
+    - `interstitial nephritis`
+      - 间质性肾炎 
   - 例句
     - `I have had nephritis, but that was five years ago.`
       - 我有过肾炎，但那是五年前的事了。

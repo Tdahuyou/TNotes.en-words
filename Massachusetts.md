@@ -1,12 +1,16 @@
 - Massachusetts
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 马萨诸塞(美国州名)
-    - `a member of a North American Indian people formerly living around Massachusetts Bay `
+    - n.
+      - 马萨诸塞(美国州名)
+        - `a member of a North American Indian people formerly living around Massachusetts Bay `
   - 短语
-    - `massachusetts institute of technology` 麻省理工学院 
+    - `massachusetts institute of technology`
+      - 麻省理工学院 
   - 例句
     - `I live in Massachusetts.`
       - 我住在马萨诸塞州。

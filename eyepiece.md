@@ -1,13 +1,17 @@
 - eyepiece
   - 发音
-    - 英 `/'aiˌpiːs/`
-    - 美 `/'aɪ'pis/`
+    - 英
+      - `/'aiˌpiːs/`
+    - 美
+      - `/'aɪ'pis/`
   - 词义
-    - n. 接目镜
-    - `the glass piece that you look through in a microscope or telescope`
+    - n.
+      - 接目镜
+        - `the glass piece that you look through in a microscope or telescope`
   - 近义词
-    - n. [光]目镜，接目镜
-      - `ocular lens`
+    - n.
+      - [光]目镜，接目镜
+        - `ocular lens`
   - 例句
     - `The method I developed requires no eyepiece and no control of the RA axis movement.`
       - 小弟开发的方法， 不需要接目镜， 也不用可以控制赤经轴的移动。

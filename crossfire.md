@@ -1,10 +1,13 @@
 - crossfire
   - 发音
-    - 英 `/'krɔːsfaɪər/`
-    - 美 `/'krɔsfaɪɚ/`
+    - 英
+      - `/'krɔːsfaɪər/`
+    - 美
+      - `/'krɔsfaɪɚ/`
   - 词义
-    - n. 交叉火力
-    - `bullets from two or more opposite directions that pass through the same area`
+    - n.
+      - 交叉火力
+        - `bullets from two or more opposite directions that pass through the same area`
   - 记忆
     - cross(交叉) + fire(火) → 交叉火力
   - 例句

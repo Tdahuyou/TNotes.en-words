@@ -1,39 +1,55 @@
 - obligate
   - 发音
-    - 英 `/'ɑːblɪgeɪt/`
-    - 美 `/'ɑblɪ,ɡeɪt/`
+    - 英
+      - `/'ɑːblɪgeɪt/`
+    - 美
+      - `/'ɑblɪ,ɡeɪt/`
   - 词义
-    - vt. 使负义务，强迫
-    - `to make someone have to do something, because it is the law, their duty, or the right thing to do`
+    - vt.
+      - 使负义务，强迫
+        - `to make someone have to do something, because it is the law, their duty, or the right thing to do`
   - 记忆
     - ob(表加强) + lig(捆绑) + ate → 用力捆绑 → 使负义务
   - 同根词
     - adj.
-      - `obliged` 必须的；感激的；有责任的
-      - `obligatory` 义务的；必须的；义不容辞的
-      - `obliging` 乐于助人的；有礼貌的；体贴的；亲切的
-      - `obligated` 有义务的；责无旁贷的
+      - `obliged`
+        - 必须的；感激的；有责任的
+      - `obligatory`
+        - 义务的；必须的；义不容辞的
+      - `obliging`
+        - 乐于助人的；有礼貌的；体贴的；亲切的
+      - `obligated`
+        - 有义务的；责无旁贷的
     - n.
-      - `obligation` 义务；职责；债务
-      - `obligated` 使负义务（obligate的过去式）
-      - `obliger` 施惠与人者
+      - `obligation`
+        - 义务；职责；债务
+      - `obligated`
+        - 使负义务（obligate的过去式）
+      - `obliger`
+        - 施惠与人者
     - v.
-      - `obliged` 要求；约束；施恩惠（oblige的过去分词）
-      - `obliging` 迫使；约束（oblige的现在分词）
+      - `obliged`
+        - 要求；约束；施恩惠（oblige的过去分词）
+      - `obliging`
+        - 迫使；约束（oblige的现在分词）
     - vi.
-      - `oblige` 帮忙；施恩惠
+      - `oblige`
+        - 帮忙；施恩惠
     - vt.
-      - `oblige` 迫使；强制；赐，施恩惠；责成
+      - `oblige`
+        - 迫使；强制；赐，施恩惠；责成
   - 近义词
-    - vt. 使负义务；强使，强迫；对…施以恩惠
-      - `force`
-      - `enforce`
-    - adj. 有责任的，有义务的；必需的
-      - `responsible`
-      - `required`
-      - `bound`
-      - `necessary`
-      - `liable`
+    - vt.
+      - 使负义务；强使，强迫；对…施以恩惠
+        - `force`
+        - `enforce`
+    - adj.
+      - 有责任的，有义务的；必需的
+        - `responsible`
+        - `required`
+        - `bound`
+        - `necessary`
+        - `liable`
   - 例句
     - `The ruling obligates airlines to release information about their flight delays.`
       - 这一裁决迫使航空公司公布航班晚点信息。

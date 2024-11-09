@@ -1,23 +1,33 @@
 - vociferate
   - 发音
-    - 英 `/vəu'sifəreit/`
-    - 美 `/vo'sɪfə,ret/`
+    - 英
+      - `/vəu'sifəreit/`
+    - 美
+      - `/vo'sɪfə,ret/`
   - 词义
-    - v. 大叫，喊叫
-    - `to shout loudly, especially when you are complaining`
+    - v.
+      - 大叫，喊叫
+        - `to shout loudly, especially when you are complaining`
   - 同根词
     - adj.
-      - `vociferous` 大声叫的；喊叫的，喧嚷的
+      - `vociferous`
+        - 大声叫的；喊叫的，喧嚷的
     - adv.
-      - `vociferously` 喊叫地；吵闹地
+      - `vociferously`
+        - 喊叫地；吵闹地
     - n.
-      - `vociferation` 喧嚷；吼叫；大声叫嚷
-      - `vociferator` 喊叫者；大声叫的人
+      - `vociferation`
+        - 喧嚷；吼叫；大声叫嚷
+      - `vociferator`
+        - 喊叫者；大声叫的人
     - vi.
-      - `vocalize` 发声；喊叫
+      - `vocalize`
+        - 发声；喊叫
     - vt.
-      - `vocalize` 使发成元音；使发声
+      - `vocalize`
+        - 使发成元音；使发声
   - 近义词
-    - vt. 喊叫；大叫
-      - `scream out`
-      - `shout out`
+    - vt.
+      - 喊叫；大叫
+        - `scream out`
+        - `shout out`

@@ -1,30 +1,42 @@
 - yielding
   - 发音
-    - 英 `/'jiːldɪŋ/`
-    - 美 `/'jildɪŋ/`
+    - 英
+      - `/'jiːldɪŋ/`
+    - 美
+      - `/'jildɪŋ/`
   - 词义
-    - adj. 易弯曲的，柔软的；顺从的，服从的
-    - `a surface that is yielding is soft and will move or bend when you press it`
+    - adj.
+      - 易弯曲的，柔软的；顺从的，服从的
+        - `a surface that is yielding is soft and will move or bend when you press it`
   - 同根词
     - adv.
-      - `yieldingly` 柔顺地；易弯曲地
+      - `yieldingly`
+        - 柔顺地；易弯曲地
     - n.
-      - `yield` 产量；收益
-      - `yielder` 提供产品的人；让步者，屈服者
+      - `yield`
+        - 产量；收益
+      - `yielder`
+        - 提供产品的人；让步者，屈服者
     - vi.
-      - `yield` 屈服，投降
+      - `yield`
+        - 屈服，投降
     - vt.
-      - `yield` 屈服；出产；放弃
+      - `yield`
+        - 屈服；出产；放弃
   - 近义词
-    - adj. 生产的；屈从的；易弯曲的；柔顺的
-      - `productive`
-      - `flexible`
-    - n. 屈服；让步；可缩性
-      - `concession`
-      - `genuflexion`
+    - adj.
+      - 生产的；屈从的；易弯曲的；柔顺的
+        - `productive`
+        - `flexible`
+    - n.
+      - 屈服；让步；可缩性
+        - `concession`
+        - `genuflexion`
   - 短语
-    - `yielding water` 出水 
-    - `yielding support` 弹性支承；可缩性支座/支架 
+    - `yielding water`
+      - 出水 
+    - `yielding support`
+      - 弹性支承；可缩性支座/支架 
   - 例句
     - `the yielding softness of the bed`
       - 这张床的柔软度

@@ -1,20 +1,32 @@
 - hepatitis
   - 发音
-    - 英 `/,hepə'taɪtɪs/`
-    - 美 `/,hɛpə'taɪtɪs/`
+    - 英
+      - `/,hepə'taɪtɪs/`
+    - 美
+      - `/,hɛpə'taɪtɪs/`
   - 词义
-    - n. 肝炎
-    - `Hepatitis is a serious disease which affects the liver`
+    - n.
+      - 肝炎
+        - `Hepatitis is a serious disease which affects the liver`
   - 短语
-    - `hepatitis b` n. 乙型肝炎 
-    - `hepatitis c` 丙型肝炎；C型肝炎 
-    - `hepatitis b virus` 乙型肝炎病毒；[病毒学]B型肝炎病毒 
-    - `viral hepatitis` 病毒性肝炎 
-    - `hepatitis a` 甲型肝炎，甲肝 
-    - `hepatitis virus` 肝炎病毒 
-    - `virus hepatitis` [医]病毒性肝炎 
-    - `hepatitis b vaccine` n. 乙肝疫苗；乙型肝炎疫苗 
-    - `alcoholic hepatitis` 酒精性肝炎 
+    - `hepatitis b`
+      - n. 乙型肝炎 
+    - `hepatitis c`
+      - 丙型肝炎；C型肝炎 
+    - `hepatitis b virus`
+      - 乙型肝炎病毒；[病毒学]B型肝炎病毒 
+    - `viral hepatitis`
+      - 病毒性肝炎 
+    - `hepatitis a`
+      - 甲型肝炎，甲肝 
+    - `hepatitis virus`
+      - 肝炎病毒 
+    - `virus hepatitis`
+      - [医]病毒性肝炎 
+    - `hepatitis b vaccine`
+      - n. 乙肝疫苗；乙型肝炎疫苗 
+    - `alcoholic hepatitis`
+      - 酒精性肝炎 
   - 例句
     - `What is hepatitis?`
       - 什么是肝炎？

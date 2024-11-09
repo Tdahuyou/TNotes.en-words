@@ -1,22 +1,29 @@
 - indignant
   - 发音
-    - 英 `/ɪn'dɪgnənt/`
-    - 美 `/ɪn'dɪɡnənt/`
+    - 英
+      - `/ɪn'dɪgnənt/`
+    - 美
+      - `/ɪn'dɪɡnənt/`
   - 词义
-    - adj. 愤慨的，恼怒的
-    - `angry and surprised because you feel insulted or unfairly treated`
+    - adj.
+      - 愤慨的，恼怒的
+        - `angry and surprised because you feel insulted or unfairly treated`
   - 记忆
     - in(不) + dign(价值) + ant → 不值得的 → 愤慨的
   - 同根词
     - adj.
-      - `indign` 不值得的；可耻的
+      - `indign`
+        - 不值得的；可耻的
     - adv.
-      - `indignantly` 愤怒地；愤慨地
+      - `indignantly`
+        - 愤怒地；愤慨地
     - n.
-      - `indignation` 愤慨；愤怒；义愤
+      - `indignation`
+        - 愤慨；愤怒；义愤
   - 近义词
-    - adj. 愤愤不平的；义愤的
-      - `aggrieved`
+    - adj.
+      - 愤愤不平的；义愤的
+        - `aggrieved`
   - 例句
     - `an indignant reply`
       - 愤慨的回复

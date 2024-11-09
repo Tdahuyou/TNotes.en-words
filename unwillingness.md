@@ -1,18 +1,24 @@
 - unwillingness
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 不愿意,不情愿
+    - n.
+      - 不愿意,不情愿
   - 同根词
     - adj.
-      - `unwilling` 不愿意的；不情愿的；勉强的
+      - `unwilling`
+        - 不愿意的；不情愿的；勉强的
     - adv.
-      - `unwillingly` 不情愿地；勉强地
+      - `unwillingly`
+        - 不情愿地；勉强地
   - 近义词
-    - n. 不愿意；不情愿
-      - `reluctation`
-      - `indisposition`
+    - n.
+      - 不愿意；不情愿
+        - `reluctation`
+        - `indisposition`
   - 例句
     - `This may, however, not be entirely due to the unwillingness of government's to use their gold reserves to pay back debt.`
       - 然而，这可能不完完全全是由于政府不愿意动用他们的黄金储备来偿还债务。

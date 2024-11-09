@@ -1,12 +1,17 @@
 - tens
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 十位
+    - n.
+      - 十位
   - 短语
-    - `tens of thousands of` 成千上万；数以万计 
-    - `in tens` 以十为计；十进制 
+    - `tens of thousands of`
+      - 成千上万；数以万计 
+    - `in tens`
+      - 以十为计；十进制 
   - 例句
     - `What if there are tens or hundreds of locators in the test code?`
       - 万一这段测试代码里面有几十上百个定位器怎么办？

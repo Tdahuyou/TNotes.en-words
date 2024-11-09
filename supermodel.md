@@ -1,13 +1,17 @@
 - supermodel
   - 发音
-    - 英 `/undefined/`
-    - 美 `/'supɚmɑdl/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/'supɚmɑdl/`
   - 词义
-    - n. 超级名模
-    - `a very famous fashion model`
+    - n.
+      - 超级名模
+        - `a very famous fashion model`
   - 近义词
-    - n. 超级名模
-      - `Zoolander`
+    - n.
+      - 超级名模
+        - `Zoolander`
   - 例句
     - `Jeff: If you were a supermodel, I can see why that would be important.`
       - 杰夫：如果你是一个超级名模我就明白为什么这很重要。

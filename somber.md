@@ -1,25 +1,33 @@
 - somber
   - 发音
-    - 英 `/'sɑːmbər/`
-    - 美 `/ˈsɑːmbər/`
+    - 英
+      - `/'sɑːmbər/`
+    - 美
+      - `/ˈsɑːmbər/`
   - 词义
-    - adj. 昏暗的；忧郁的
+    - adj.
+      - 昏暗的；忧郁的
   - 记忆
     - 冷静的(sober)和忧郁的(somber)有时只差一点点(m)
   - 同根词
     - adj.
-      - `sombre` 阴沉的；忧郁的；昏暗的
+      - `sombre`
+        - 阴沉的；忧郁的；昏暗的
     - adv.
-      - `somberly` 阴沉地；光线昏暗地；忧郁地；严峻地；颜色暗淡地
-      - `sombrely` 昏暗地；阴沉沉地；忧郁地；严肃地
+      - `somberly`
+        - 阴沉地；光线昏暗地；忧郁地；严峻地；颜色暗淡地
+      - `sombrely`
+        - 昏暗地；阴沉沉地；忧郁地；严肃地
     - n.
-      - `somberness` 暗淡；昏暗
+      - `somberness`
+        - 暗淡；昏暗
   - 近义词
-    - adj. 忧郁的；昏暗的；严峻的；阴天的
-      - `severe`
-      - `blue`
-      - `dark`
-      - `lowering`
+    - adj.
+      - 忧郁的；昏暗的；严峻的；阴天的
+        - `severe`
+        - `blue`
+        - `dark`
+        - `lowering`
   - 例句
     - `In the somber archives of a sedate museum a large archaic volume is somewhat conspicuously displayed.`
       - 在一个平静的博物馆中昏暗的档案室里，一本厚厚的古书被摆在了很显著的位置。

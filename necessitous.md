@@ -1,19 +1,23 @@
 - necessitous
   - 发音
-    - 英 `/nɪ'sesɪtəs/`
-    - 美 `/nə'sɛsɪtəs/`
+    - 英
+      - `/nɪ'sesɪtəs/`
+    - 美
+      - `/nə'sɛsɪtəs/`
   - 词义
-    - adj. 贫困的；紧迫的
-    - `very needy; destitute; poverty-stricken `
+    - adj.
+      - 贫困的；紧迫的
+        - `very needy; destitute; poverty-stricken `
   - 记忆
     - 来自necessity(n. 必要， 必然性； 必需品)
   - 近义词
-    - adj. 贫困的，贫穷的；紧急的
-      - `poor`
-      - `urgent`
-      - `emergency`
-      - `instant`
-      - `needy`
+    - adj.
+      - 贫困的，贫穷的；紧急的
+        - `poor`
+        - `urgent`
+        - `emergency`
+        - `instant`
+        - `needy`
   - 例句
     - `True individual freedom cannot exist without economic security and independence, and necessitous men are not free men.`
       - 真正的个人自由在没有经济安全和独立的情况下，是不存在的，贫者无自由。

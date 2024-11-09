@@ -1,29 +1,47 @@
 - psychoanalyst
   - 发音
-    - 英 `/saɪkəʊ'ænəlɪst/`
-    - 美 `/,saɪko'ænəlɪst/`
+    - 英
+      - `/saɪkəʊ'ænəlɪst/`
+    - 美
+      - `/,saɪko'ænəlɪst/`
   - 词义
-    - n. 心理分析学者
-    - `A psychoanalyst is someone who treats people who have mental problems using psychoanalysis`
+    - n.
+      - 心理分析学者
+        - `A psychoanalyst is someone who treats people who have mental problems using psychoanalysis`
   - 同根词
     - adj.
-      - `psychological` 心理的；心理学的；精神上的
-      - `psychic` 精神的；心灵的；灵魂的；超自然的
-      - `psychiatric` 精神病学的；精神病治疗的
-      - `psychoactive` 影响心理状态的；作用于精神的
-      - `psychoanalytic` 精神分析的；心理分析的
-      - `psychiatrical` 精神病治疗的；精神病学的
-      - `psychoanalytical` 精神分析的
-      - `psychogenic` 精神性的，心理性的
+      - `psychological`
+        - 心理的；心理学的；精神上的
+      - `psychic`
+        - 精神的；心灵的；灵魂的；超自然的
+      - `psychiatric`
+        - 精神病学的；精神病治疗的
+      - `psychoactive`
+        - 影响心理状态的；作用于精神的
+      - `psychoanalytic`
+        - 精神分析的；心理分析的
+      - `psychiatrical`
+        - 精神病治疗的；精神病学的
+      - `psychoanalytical`
+        - 精神分析的
+      - `psychogenic`
+        - 精神性的，心理性的
     - adv.
-      - `psychologically` 心理上地；心理学地
-      - `psychically` 精神上
+      - `psychologically`
+        - 心理上地；心理学地
+      - `psychically`
+        - 精神上
     - n.
-      - `psychic` 灵媒；巫师
-      - `psychiatry` 精神病学；精神病治疗法
-      - `psychoanalysis` 精神分析；心理分析
-      - `psycholinguistic` 心理语言学
-      - `psychogenesis` [心理] 心理发生；精神发生
+      - `psychic`
+        - 灵媒；巫师
+      - `psychiatry`
+        - 精神病学；精神病治疗法
+      - `psychoanalysis`
+        - 精神分析；心理分析
+      - `psycholinguistic`
+        - 心理语言学
+      - `psychogenesis`
+        - [心理] 心理发生；精神发生
   - 例句
     - `He's a psychologist-or rather, a psychoanalyst.`
       - 他是一位心理学家——或者更确切地说，一位心理分析学家。

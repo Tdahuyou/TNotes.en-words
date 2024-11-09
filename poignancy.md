@@ -1,19 +1,25 @@
 - poignancy
   - 发音
-    - 英 `/'pɔɪnjənsi/`
-    - 美 `/'pɔɪɡnənsi/`
+    - 英
+      - `/'pɔɪnjənsi/`
+    - 美
+      - `/'pɔɪɡnənsi/`
   - 词义
-    - n. 辛辣，尖锐
-    - `Poignancy is the quality that something has when it affects you deeply and makes you feel very sad`
+    - n.
+      - 辛辣，尖锐
+        - `Poignancy is the quality that something has when it affects you deeply and makes you feel very sad`
   - 同根词
     - adj.
-      - `poignant` 尖锐的；辛酸的；深刻的；切中要害的
+      - `poignant`
+        - 尖锐的；辛酸的；深刻的；切中要害的
     - adv.
-      - `poignantly` 深刻地；辛辣地；令人辛酸地
+      - `poignantly`
+        - 深刻地；辛辣地；令人辛酸地
   - 近义词
-    - n. 辛辣；强烈；尖锐；辛酸事
-      - `intensity`
-      - `mordacity`
+    - n.
+      - 辛辣；强烈；尖锐；辛酸事
+        - `intensity`
+        - `mordacity`
   - 例句
     - `The film contains moments of almost unbearable poignancy.`
       - 电影中有几段令人无法承受的辛酸情节。

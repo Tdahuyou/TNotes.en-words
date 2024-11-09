@@ -1,19 +1,23 @@
 - clandestine
   - 发音
-    - 英 `/klæn'destin/`
-    - 美 `/klæn'dɛstɪn/`
+    - 英
+      - `/klæn'destin/`
+    - 美
+      - `/klæn'dɛstɪn/`
   - 词义
-    - adj. 秘密的
-    - `done or kept secret`
+    - adj.
+      - 秘密的
+        - `done or kept secret`
   - 记忆
     - clan (宗派) + destine (命中注定) → “宗派”和“命定”都有一些“秘密”色彩 → 秘密的
   - 近义词
-    - adj. 秘密的，私下的；偷偷摸摸的
-      - `secret`
-      - `private`
-      - `underground`
-      - `chamber`
-      - `inside`
+    - adj.
+      - 秘密的，私下的；偷偷摸摸的
+        - `secret`
+        - `private`
+        - `underground`
+        - `chamber`
+        - `inside`
   - 例句
     - `a clandestine affair`
       - 秘密关系

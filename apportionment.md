@@ -1,17 +1,22 @@
 - apportionment
   - 发音
-    - 英 `/ə'pɔːrʃnmənt/`
-    - 美 `/ə'pɔrʃənmənt; ə'porʃənmənt/`
+    - 英
+      - `/ə'pɔːrʃnmənt/`
+    - 美
+      - `/ə'pɔrʃənmənt; ə'porʃənmənt/`
   - 词义
-    - n. 分派，分摊，分配
-    - `the act of apportioning `
+    - n.
+      - 分派，分摊，分配
+        - `the act of apportioning `
   - 记忆
     - ap + portion(部分) + ment → 分成部分 → 分派， 分摊
   - 同根词
     - vt.
-      - `apportion` 分配，分派；分摊
+      - `apportion`
+        - 分配，分派；分摊
   - 近义词
-    - n. 分摊；分配；分派
-      - `allocation`
-      - `distribution`
-      - `assignment`
+    - n.
+      - 分摊；分配；分派
+        - `allocation`
+        - `distribution`
+        - `assignment`

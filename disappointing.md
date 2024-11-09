@@ -1,25 +1,35 @@
 - disappointing
   - 发音
-    - 英 `/dɪsə'pɒɪntɪŋ/`
-    - 美 `/,dɪsə'pɔɪntɪŋ/`
+    - 英
+      - `/dɪsə'pɒɪntɪŋ/`
+    - 美
+      - `/,dɪsə'pɔɪntɪŋ/`
   - 词义
-    - adj. 令人失望的；令人扫兴的
-    - `not as good as you hoped or expected`
-    - v. 令人失望（disappoint的ing形式）；辜负…的期望
+    - adj.
+      - 令人失望的；令人扫兴的
+        - `not as good as you hoped or expected`
+    - v.
+      - 令人失望（disappoint的ing形式）；辜负…的期望
   - 同根词
     - adj.
-      - `disappointed` 失望的，沮丧的；受挫折的
+      - `disappointed`
+        - 失望的，沮丧的；受挫折的
     - adv.
-      - `disappointedly` 失望地
-      - `disappointingly` 令人失望地
+      - `disappointedly`
+        - 失望地
+      - `disappointingly`
+        - 令人失望地
     - n.
-      - `disappointment` 失望；沮丧
+      - `disappointment`
+        - 失望；沮丧
     - vt.
-      - `disappoint` 使失望
+      - `disappoint`
+        - 使失望
   - 近义词
-    - adj. 令人失望的；令人扫兴的
-      - `disillusionary`
-      - `cauld`
+    - adj.
+      - 令人失望的；令人扫兴的
+        - `disillusionary`
+        - `cauld`
   - 例句
     - `disappointing profit figures`
       - 令人失望的盈利数字

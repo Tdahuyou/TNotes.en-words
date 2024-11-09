@@ -1,16 +1,21 @@
 - snowman
   - 发音
-    - 英 `/'snəʊmæn/`
-    - 美 `/'snomæn/`
+    - 英
+      - `/'snəʊmæn/`
+    - 美
+      - `/'snomæn/`
   - 词义
-    - `a simple figure of a person made of snow, made especially by children`
+        - `a simple figure of a person made of snow, made especially by children`
   - 近义词
-    - n. 雪人
-      - `yeti`
-      - `Abominable Snowman`
+    - n.
+      - 雪人
+        - `yeti`
+        - `Abominable Snowman`
   - 短语
-    - `make a snowman` 堆雪人 
-    - `abominable snowman` 喜马拉雅雪人；雪人 
+    - `make a snowman`
+      - 堆雪人 
+    - `abominable snowman`
+      - 喜马拉雅雪人；雪人 
   - 例句
     - `The children were balling up snow to make a snowman.`
       - 孩子们正在把雪堆成球状，做一个雪人。

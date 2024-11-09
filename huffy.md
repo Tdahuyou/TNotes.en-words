@@ -1,25 +1,34 @@
 - huffy
   - 发音
-    - 英 `/'hʌfi/`
-    - 美 `/'hʌfi/`
+    - 英
+      - `/'hʌfi/`
+    - 美
+      - `/'hʌfi/`
   - 词义
-    - adj. 愤怒的，恼怒的
-    - `in a bad  mood (= the way that you feel )  , especially because someone has offended you`
+    - adj.
+      - 愤怒的，恼怒的
+        - `in a bad  mood (= the way that you feel )  , especially because someone has offended you`
   - 同根词
     - adj.
-      - `huffish` 发怒的；傲慢的；不高兴的
+      - `huffish`
+        - 发怒的；傲慢的；不高兴的
     - adv.
-      - `huffily` 发怒地；暴躁的
+      - `huffily`
+        - 发怒地；暴躁的
     - n.
-      - `huff` 发怒
+      - `huff`
+        - 发怒
     - vi.
-      - `huff` 吹气；发怒；恫吓
+      - `huff`
+        - 吹气；发怒；恫吓
     - vt.
-      - `huff` 把…吹胀；激怒；蔑视
+      - `huff`
+        - 把…吹胀；激怒；蔑视
   - 近义词
-    - adj. 怒冲冲的；暴躁的
-      - `fierce`
-      - `cranky`
+    - adj.
+      - 怒冲冲的；暴躁的
+        - `fierce`
+        - `cranky`
   - 例句
     - `Some customers get huffy when you ask them for their ID.`
       - 有些顾客如果被要求出示身份证明，就会发火。

@@ -1,16 +1,21 @@
 - lessor
   - 发音
-    - 英 `/le'sɔː/`
-    - 美 `/lɛ'sɔr/`
+    - 英
+      - `/le'sɔː/`
+    - 美
+      - `/lɛ'sɔr/`
   - 词义
-    - n. 出租人
-    - `someone who allows someone else to use their house, building, land etc for a period of time for payment`
+    - n.
+      - 出租人
+        - `someone who allows someone else to use their house, building, land etc for a period of time for payment`
   - 同根词
     - n.
-      - `lessee` 承租人
+      - `lessee`
+        - 承租人
   - 近义词
-    - n. [租赁]出租人
-      - `leaser`
+    - n.
+      - [租赁]出租人
+        - `leaser`
   - 例句
     - `Before the lessor signs the lease, the lessee must receive a copy of the contract.`
       - 在出租人签署租赁合同之前，承租人必须要收到合同副本。

@@ -1,29 +1,40 @@
 - fascinate
   - 发音
-    - 英 `/'fæsɪneɪt/`
-    - 美 `/'fæsə'net/`
+    - 英
+      - `/'fæsɪneɪt/`
+    - 美
+      - `/'fæsə'net/`
   - 词义
-    - v. 深深吸引，迷住
-    - `if someone or something fascinates you, you are attracted to them and think they are extremely interesting`
+    - v.
+      - 深深吸引，迷住
+        - `if someone or something fascinates you, you are attracted to them and think they are extremely interesting`
   - 记忆
     - fasc(看做fast， 彻底) + in(里面) + ate → 彻底陷在里面 → 迷住
   - 同根词
     - adj.
-      - `fascinating` 迷人的；吸引人的；使人神魂颠倒的
-      - `fascinated` 着迷的；被深深吸引的
+      - `fascinating`
+        - 迷人的；吸引人的；使人神魂颠倒的
+      - `fascinated`
+        - 着迷的；被深深吸引的
     - adv.
-      - `fascinatingly` 极有吸引力地；迷人地
+      - `fascinatingly`
+        - 极有吸引力地；迷人地
     - n.
-      - `fascination` 魅力；魔力；入迷
+      - `fascination`
+        - 魅力；魔力；入迷
     - v.
-      - `fascinating` 使…着迷；使…陶醉（fascinate的ing形式）
-      - `fascinated` 使着迷；使陶醉（fascinate的过去分词）
+      - `fascinating`
+        - 使…着迷；使…陶醉（fascinate的ing形式）
+      - `fascinated`
+        - 使着迷；使陶醉（fascinate的过去分词）
   - 近义词
-    - vt. 使着迷，使神魂颠倒
-      - `enthrall`
-      - `beguile`
-    - vi. 入迷
-      - `be carried away`
+    - vt.
+      - 使着迷，使神魂颠倒
+        - `enthrall`
+        - `beguile`
+    - vi.
+      - 入迷
+        - `be carried away`
   - 例句
     - `The idea of travelling through time fascinates me.`
       - 穿越时光的想法深深吸引着我。

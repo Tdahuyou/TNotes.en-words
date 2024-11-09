@@ -1,23 +1,30 @@
 - potent
   - 发音
-    - 英 `/'pəʊt(ə)nt/`
-    - 美 `/'potnt/`
+    - 英
+      - `/'pəʊt(ə)nt/`
+    - 美
+      - `/'potnt/`
   - 词义
-    - adj. 强有力的,有效的
-    - `having a very powerful effect or influence on your body or mind`
+    - adj.
+      - 强有力的,有效的
+        - `having a very powerful effect or influence on your body or mind`
   - 同根词
     - adv.
-      - `potently` 有说服力地；强有力地；有效力地
+      - `potently`
+        - 有说服力地；强有力地；有效力地
     - n.
-      - `potency` 效能；力量；潜力；权势
-      - `potentate` 统治者，君主；有权势的人
+      - `potency`
+        - 效能；力量；潜力；权势
+      - `potentate`
+        - 统治者，君主；有权势的人
   - 近义词
-    - adj. 有效的；强有力的，有权势的；有说服力的
-      - `valid`
-      - `available`
-      - `effective`
-      - `virtual`
-      - `telling`
+    - adj.
+      - 有效的；强有力的，有权势的；有说服力的
+        - `valid`
+        - `available`
+        - `effective`
+        - `virtual`
+        - `telling`
   - 例句
     - `potent drugs`
       - 强效药物

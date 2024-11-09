@@ -1,18 +1,24 @@
 - egalitarian
   - 发音
-    - 英 `/ɪ,gælɪ'teərɪən/`
-    - 美 `/ɪ'gælə'tɛrɪən/`
+    - 英
+      - `/ɪ,gælɪ'teərɪən/`
+    - 美
+      - `/ɪ'gælə'tɛrɪən/`
   - 词义
-    - adj. 平等主义的
-    - `based on the belief that everyone is equal and should have equal rights`
+    - adj.
+      - 平等主义的
+        - `based on the belief that everyone is equal and should have equal rights`
   - 同根词
     - n.
-      - `egalitarianism` 平等主义，[经] 平均主义
-      - `egality` 均等；平等（等于equality）
+      - `egalitarianism`
+        - 平等主义，[经] 平均主义
+      - `egality`
+        - 均等；平等（等于equality）
   - 近义词
-    - n. [经]平等主义；平等主义者
-      - `equalitarianism`
-      - `leveler`
+    - n.
+      - [经]平等主义；平等主义者
+        - `equalitarianism`
+        - `leveler`
   - 例句
     - `an egalitarian society`
       - 人人平等的社会

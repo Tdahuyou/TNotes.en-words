@@ -1,35 +1,50 @@
 - eccentric
   - 发音
-    - 英 `/ɪk'sentrɪk/`
-    - 美 `/ɪk'sɛntrɪk/`
+    - 英
+      - `/ɪk'sentrɪk/`
+    - 美
+      - `/ɪk'sɛntrɪk/`
   - 词义
-    - adj. 古怪的，反常的
-    - `behaving in a way that is unusual and different from most people`
-    - n. 古怪的人
-    - `someone who behaves in a way that is different from what is usual or socially accepted`
+    - adj.
+      - 古怪的，反常的
+        - `behaving in a way that is unusual and different from most people`
+    - n.
+      - 古怪的人
+        - `someone who behaves in a way that is different from what is usual or socially accepted`
   - 记忆
     - ec(出) + centr(中心) + ic → 偏离中心的 → 古怪的， 反常的
   - 同根词
     - adv.
-      - `eccentrically` 反常地；离开中心
+      - `eccentrically`
+        - 反常地；离开中心
     - n.
-      - `eccentricity` 古怪；怪癖；[数] 离心率
+      - `eccentricity`
+        - 古怪；怪癖；[数] 离心率
   - 近义词
-    - adj. 古怪的，反常的
-      - `abnormal`
-      - `odd`
-      - `curious`
-    - n. 古怪的人
-      - `fantastic`
-      - `weirdo`
+    - adj.
+      - 古怪的，反常的
+        - `abnormal`
+        - `odd`
+        - `curious`
+    - n.
+      - 古怪的人
+        - `fantastic`
+        - `weirdo`
   - 短语
-    - `eccentric wheel` 偏心轮 
-    - `eccentric shaft` 偏心轴 
-    - `eccentric load` 偏心载荷 
-    - `eccentric cam` 偏心凸轮 
-    - `eccentric loading` [工程]偏心荷载 
-    - `eccentric sleeve` 偏心套筒 
-    - `eccentric gear` 偏心轮；偏心装置 
+    - `eccentric wheel`
+      - 偏心轮 
+    - `eccentric shaft`
+      - 偏心轴 
+    - `eccentric load`
+      - 偏心载荷 
+    - `eccentric cam`
+      - 偏心凸轮 
+    - `eccentric loading`
+      - [工程]偏心荷载 
+    - `eccentric sleeve`
+      - 偏心套筒 
+    - `eccentric gear`
+      - 偏心轮；偏心装置 
   - 例句
     - `His eccentric behaviour lost him his job.`
       - 他古怪的行为使他丢了工作。

@@ -1,10 +1,13 @@
 - nonagricultural
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - adj. 非农业的
-    - `not of or relating to agriculture `
+    - adj.
+      - 非农业的
+        - `not of or relating to agriculture `
   - 例句
     - `Many causes have been proposed for both the intelligence gap and the Flynn effect, including education, income, and even nonagricultural labor.`
       - 人们对智力差距和弗林效应提出了许多成因，包括教育、收入，甚至还包括非农业劳动。

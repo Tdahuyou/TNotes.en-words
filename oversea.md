@@ -1,15 +1,20 @@
 - oversea
   - 发音
-    - 英 `/'əʊvə'siː/`
-    - 美 `/'ovɚ'si/`
+    - 英
+      - `/'əʊvə'siː/`
+    - 美
+      - `/'ovɚ'si/`
   - 词义
-    - adj. 外国的,海外的
+    - adj.
+      - 外国的,海外的
   - 近义词
-    - adj. 外国的；在海外的
-      - `foreign`
-      - `external`
+    - adj.
+      - 外国的；在海外的
+        - `foreign`
+        - `external`
   - 短语
-    - `oversea chinese` 海外华人 
+    - `oversea chinese`
+      - 海外华人 
   - 例句
     - `It’s a treason terror of the seasonal oversea seafood is reasonable.`
       - 认为季节性的海外海鲜的价格是合理的就是背叛。

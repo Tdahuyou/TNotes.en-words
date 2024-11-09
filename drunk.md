@@ -1,35 +1,51 @@
 - drunk
   - 发音
-    - 英 `/drʌŋk/`
-    - 美 `/drʌŋk/`
+    - 英
+      - `/drʌŋk/`
+    - 美
+      - `/drʌŋk/`
   - 词义
-    - adj. 醉的
-    - `unable to control your behaviour, speech etc because you have drunk too much alcohol`
+    - adj.
+      - 醉的
+        - `unable to control your behaviour, speech etc because you have drunk too much alcohol`
   - 记忆
     - 喝(drink)多了自然会醉(drunk)
   - 同根词
     - adj.
-      - `drunken` 喝醉的；酒醉的；常醉的
-      - `drinkable` 可饮用的；可以喝的
+      - `drunken`
+        - 喝醉的；酒醉的；常醉的
+      - `drinkable`
+        - 可饮用的；可以喝的
     - n.
-      - `drink` 酒，饮料；喝酒
-      - `drinking` 喝，饮；喝酒
-      - `drinkability` 酒劲
-      - `drinkable` 饮料（常用复数）
-      - `drinker` 酒徒；喝的人；酒豪
+      - `drink`
+        - 酒，饮料；喝酒
+      - `drinking`
+        - 喝，饮；喝酒
+      - `drinkability`
+        - 酒劲
+      - `drinkable`
+        - 饮料（常用复数）
+      - `drinker`
+        - 酒徒；喝的人；酒豪
     - v.
-      - `drinking` 饮（drink的ing形式）；喝
+      - `drinking`
+        - 饮（drink的ing形式）；喝
     - vi.
-      - `drink` 喝酒；饮水；干杯
+      - `drink`
+        - 喝酒；饮水；干杯
     - vt.
-      - `drink` 喝，饮；吸收；举杯庆贺
+      - `drink`
+        - 喝，饮；吸收；举杯庆贺
   - 近义词
-    - adj. 喝醉了的
-      - `loaded`
-      - `buffy`
+    - adj.
+      - 喝醉了的
+        - `loaded`
+        - `buffy`
   - 短语
-    - `get drunk` 喝醉 
-    - `drunk driving` 酒后开车 
+    - `get drunk`
+      - 喝醉 
+    - `drunk driving`
+      - 酒后开车 
   - 例句
     - `You’re drunk.`
       - 你喝醉了。

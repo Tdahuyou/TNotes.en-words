@@ -1,10 +1,13 @@
 - counterexample
   - 发音
-    - 英 `/'kaʊntərɪɡ'zɑːmpl/`
-    - 美 `/'kaʊntɚɪg'zæmpl/`
+    - 英
+      - `/'kaʊntərɪɡ'zɑːmpl/`
+    - 美
+      - `/'kaʊntɚɪg'zæmpl/`
   - 词义
-    - n. 反例
-    - `an example or fact that is inconsistent with a hypothesis and may be used in argument against it `
+    - n.
+      - 反例
+        - `an example or fact that is inconsistent with a hypothesis and may be used in argument against it `
   - 例句
     - `Sometimes the best way to illustrate how to do something is by counterexample.`
       - 有时候，说明如何做某事的最好方法是举反例。

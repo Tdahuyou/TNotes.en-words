@@ -1,7 +1,9 @@
 - Becky
   - 发音
-    - 英 `/'beki/`
-    - 美 `/undefined/`
+    - 英
+      - `/'beki/`
+    - 美
+      - `/undefined/`
   - 词义
   - 例句
     - `So John and Becky and their two little girls go on with their semi-rural life in Alaska.`

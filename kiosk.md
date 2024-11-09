@@ -1,13 +1,17 @@
 - kiosk
   - 发音
-    - 英 `/'kiːɒsk/`
-    - 美 `/'kiɑsk/`
+    - 英
+      - `/'kiːɒsk/`
+    - 美
+      - `/'kiɑsk/`
   - 词义
-    - n. 亭子
+    - n.
+      - 亭子
   - 近义词
-    - n. 凉亭；公用电话亭；报摊
-      - `booth`
-      - `bower`
+    - n.
+      - 凉亭；公用电话亭；报摊
+        - `booth`
+        - `bower`
   - 例句
     - `"We went into a market and established a kiosk in that market out of a butcher's shop," Kalanda says.`
       - 卡兰达说，“由于一家肉店，我们进入这个市场，在那个市场我们建立了一个公用电话亭”

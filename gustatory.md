@@ -1,16 +1,21 @@
 - gustatory
   - 发音
-    - 英 `/'gʌstətəri/`
-    - 美 `/'gʌstə,tori/`
+    - 英
+      - `/'gʌstətəri/`
+    - 美
+      - `/'gʌstə,tori/`
   - 词义
-    - adj. 味觉的，品尝的
+    - adj.
+      - 味觉的，品尝的
   - 记忆
     - 来自gustation(n. 味觉； 品尝)
   - 同根词
     - adj.
-      - `gustative` 味觉的；尝味的
+      - `gustative`
+        - 味觉的；尝味的
     - n.
-      - `gustation` 味觉；品尝
+      - `gustation`
+        - 味觉；品尝
   - 例句
     - `A good dish, either smelly or tasty should be pleasant in gustatory sense, and thus stimulates the appetite.`
       - 成功的菜肴在嗅觉上不论是香还是臭，但在味感上是美好的，同样会引起人们的食欲。

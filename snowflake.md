@@ -1,15 +1,19 @@
 - snowflake
   - 发音
-    - 英 `/'snoufleɪk/`
-    - 美 `/'snoflek/`
+    - 英
+      - `/'snoufleɪk/`
+    - 美
+      - `/'snoflek/`
   - 词义
-    - n. 雪花，雪片
-    - `a small soft flat piece of frozen water that falls as snow`
+    - n.
+      - 雪花，雪片
+        - `a small soft flat piece of frozen water that falls as snow`
   - 记忆
     - snow(雪) + flake(薄片) → 雪花， 雪片
   - 近义词
-    - n. [植][气象]雪花；雪片莲；雪巫
-      - `galanthus nivalis`
+    - n.
+      - [植][气象]雪花；雪片莲；雪巫
+        - `galanthus nivalis`
   - 例句
     - `The gift, the snowflake, the starry sky, the moonlight all give you.`
       - 礼物，雪花，满天星斗的天空，在月光下的所有给你。

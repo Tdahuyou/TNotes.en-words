@@ -1,28 +1,42 @@
 - materialist
   - 发音
-    - 英 `/mə'tiəriəlist/`
-    - 美 `/mə'tɪrɪəlɪst/`
+    - 英
+      - `/mə'tiəriəlist/`
+    - 美
+      - `/mə'tɪrɪəlɪst/`
   - 词义
-    - n. 唯物主义者
+    - n.
+      - 唯物主义者
   - 记忆
     - 来自material (a. 物质的)
   - 同根词
     - adj.
-      - `material` 重要的；物质的，实质性的；肉体的
-      - `materialistic` 唯物主义的；唯物论的
+      - `material`
+        - 重要的；物质的，实质性的；肉体的
+      - `materialistic`
+        - 唯物主义的；唯物论的
     - adv.
-      - `materially` 实质地；物质上；极大地
+      - `materially`
+        - 实质地；物质上；极大地
     - n.
-      - `material` 材料，原料；物资；布料
-      - `materialism` 唯物主义；唯物论；物质主义
-      - `materiality` 物质性，重要性；物质
-      - `materialization` 物质化；实体化；具体化
+      - `material`
+        - 材料，原料；物资；布料
+      - `materialism`
+        - 唯物主义；唯物论；物质主义
+      - `materiality`
+        - 物质性，重要性；物质
+      - `materialization`
+        - 物质化；实体化；具体化
     - vi.
-      - `materialize` 实现，成形；突然出现
-      - `materialise` 突然出现（等于materialize）
+      - `materialize`
+        - 实现，成形；突然出现
+      - `materialise`
+        - 突然出现（等于materialize）
     - vt.
-      - `materialize` 使具体化，使有形；使突然出现；使重物质而轻精神
-      - `materialise` 物质化（等于materialize）
+      - `materialize`
+        - 使具体化，使有形；使突然出现；使重物质而轻精神
+      - `materialise`
+        - 物质化（等于materialize）
   - 例句
     - `I have already spoken about the dialectical materialist view of motive and effect.`
       - 关于动机和效果的辩证唯物主义观点，我在前面已经讲过了。

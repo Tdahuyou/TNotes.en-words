@@ -1,43 +1,67 @@
 - addition
   - 发音
-    - 英 `/ə'dɪʃn/`
-    - 美 `/ə'dɪʃən/`
+    - 英
+      - `/ə'dɪʃn/`
+    - 美
+      - `/ə'dɪʃən/`
   - 词义
-    - n. 加，加法；添加，增加
-    - `the act of adding something to something else`
+    - n.
+      - 加，加法；添加，增加
+        - `the act of adding something to something else`
   - 记忆
     - add(加) + ition → 加， 加法
   - 同根词
     - adj.
-      - `additional` 附加的，额外的
-      - `additive` 附加的；[数] 加法的
-      - `addable` 可增加的
-      - `addible` 可增加的，可添加的
+      - `additional`
+        - 附加的，额外的
+      - `additive`
+        - 附加的；[数] 加法的
+      - `addable`
+        - 可增加的
+      - `addible`
+        - 可增加的，可添加的
     - adv.
-      - `additionally` 此外；又，加之
+      - `additionally`
+        - 此外；又，加之
     - n.
-      - `add` 加法，加法运算
-      - `additive` 添加剂，添加物
-      - `adder` 蝰蛇（欧洲产的小毒蛇）；加算器；猪鼻蛇（北美产无毒的）
-    - vi.
-      - `add` 加；增加；加起来；做加法
-    - vt.
-      - `add` 增加，添加；补充说；计算…总和
-  - 近义词
-    - n. 添加；[数]加法；增加物
       - `add`
-      - `accretion`
+        - 加法，加法运算
+      - `additive`
+        - 添加剂，添加物
+      - `adder`
+        - 蝰蛇（欧洲产的小毒蛇）；加算器；猪鼻蛇（北美产无毒的）
+    - vi.
+      - `add`
+        - 加；增加；加起来；做加法
+    - vt.
+      - `add`
+        - 增加，添加；补充说；计算…总和
+  - 近义词
+    - n.
+      - 添加；[数]加法；增加物
+        - `add`
+        - `accretion`
   - 短语
-    - `in addition` 另外，此外 
-    - `addition to sth` 增加 
-    - `with the addition of` 外加 
-    - `addition reaction` [化]加成；加成反应 
-    - `addition agent` 添加剂；助剂；合金元素 
-    - `heat addition` 供热；加热 
-    - `addition process` 加成法；加法工序 
-    - `nucleophilic addition` 亲核加成 
-    - `michael addition` [化]迈克尔加成 
-    - `addition polymerization` 加成聚合反应 
+    - `in addition`
+      - 另外，此外 
+    - `addition to sth`
+      - 增加 
+    - `with the addition of`
+      - 外加 
+    - `addition reaction`
+      - [化]加成；加成反应 
+    - `addition agent`
+      - 添加剂；助剂；合金元素 
+    - `heat addition`
+      - 供热；加热 
+    - `addition process`
+      - 加成法；加法工序 
+    - `nucleophilic addition`
+      - 亲核加成 
+    - `michael addition`
+      - [化]迈克尔加成 
+    - `addition polymerization`
+      - 加成聚合反应 
   - 例句
     - `This is a fine book; a worthy addition to the series.`
       - 这是一本好书——是对这套丛书有价值的增补。

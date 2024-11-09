@@ -1,28 +1,39 @@
 - anesthetic
   - 发音
-    - 英 `/ˌænis'θetik/`
-    - 美 `/,ænɪs'θɛtɪk/`
+    - 英
+      - `/ˌænis'θetik/`
+    - 美
+      - `/,ænɪs'θɛtɪk/`
   - 词义
-    - n. 麻醉剂，麻药
+    - n.
+      - 麻醉剂，麻药
   - 记忆
     - an (无) + esthet (感觉) + ic → 使无感觉 → 麻醉剂
   - 同根词
     - n.
-      - `anesthesia` 麻醉；麻木（等于anaesthesia）
-      - `anesthesiologist` 麻醉学者（医师）
-      - `anesthetist` 麻醉师
+      - `anesthesia`
+        - 麻醉；麻木（等于anaesthesia）
+      - `anesthesiologist`
+        - 麻醉学者（医师）
+      - `anesthetist`
+        - 麻醉师
     - vt.
-      - `anesthetize` 使麻醉（anaesthetize）；使麻痹
+      - `anesthetize`
+        - 使麻醉（anaesthetize）；使麻痹
   - 近义词
-    - adj. 麻醉的；感觉缺失的
-      - `anaesthetic`
-      - `detoxicant`
-    - n. 麻醉剂，麻药
-      - `detoxicator`
-      - `hasheesh`
+    - adj.
+      - 麻醉的；感觉缺失的
+        - `anaesthetic`
+        - `detoxicant`
+    - n.
+      - 麻醉剂，麻药
+        - `detoxicator`
+        - `hasheesh`
   - 短语
-    - `local anesthetic` [医]局部麻醉剂 
-    - `anesthetic effect` 麻醉作用；麻醉效果 
+    - `local anesthetic`
+      - [医]局部麻醉剂 
+    - `anesthetic effect`
+      - 麻醉作用；麻醉效果 
   - 例句
     - `Egotism is the anesthetic that dulls the pain of stupidity.`
       - 自负是为了麻痹因为愚蠢带来痛楚的麻醉剂。

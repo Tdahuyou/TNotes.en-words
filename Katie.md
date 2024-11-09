@@ -1,10 +1,13 @@
 - Katie
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
   - 短语
-    - `katie holmes` 凯蒂·赫尔姆斯（美国著名电影演员） 
+    - `katie holmes`
+      - 凯蒂·赫尔姆斯（美国著名电影演员） 
   - 例句
     - `But Katie, my older sister, is not there.`
       - 但是凯蒂，我的姐姐，她不在那里。

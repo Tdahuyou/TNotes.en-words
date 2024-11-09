@@ -1,15 +1,19 @@
 - intestate
   - 发音
-    - 英 `/ɪn'testeɪt/`
-    - 美 `/ɪn'tɛstet/`
+    - 英
+      - `/ɪn'testeɪt/`
+    - 美
+      - `/ɪn'tɛstet/`
   - 词义
-    - adj. 未留遗嘱的
-    - `(of a person) not having made a will `
+    - adj.
+      - 未留遗嘱的
+        - `(of a person) not having made a will `
   - 记忆
     - in(无) + test(看到) + ate → 没有留下可以看的东西 → 未留遗嘱的
   - 同根词
     - n.
-      - `intestacy` 无遗嘱死亡
+      - `intestacy`
+        - 无遗嘱死亡
   - 例句
     - `The thesis analyses the tendency in correlative aspects of testamental succession and intestate succession.`
       - 从遗嘱继承制度和无遗嘱继承制度的相关方面可了解这一变迁。

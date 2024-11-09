@@ -1,9 +1,12 @@
 - CBA
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - abbr.. 中国篮球协会(ChinaBasketballAssociation)，中国篮球协会（中国职业篮球联赛）
+    - abbr..
+      - 中国篮球协会(ChinaBasketballAssociation)，中国篮球协会（中国职业篮球联赛）
   - 例句
     - `Many players, coaches, executives, and referees have honed their skills in the CBA before going on to NBA careers.`
       - 很多运动员、教练、执行官和裁判在转入NBA职业比赛之前，已在CBA经过了磨练。

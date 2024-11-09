@@ -1,17 +1,21 @@
 - undifferentiated
   - 发音
-    - 英 `/,ʌndɪfə'renʃɪeɪtɪd/`
-    - 美 `/'ʌndɪfə'rɛnʃɪ'etɪd/`
+    - 英
+      - `/,ʌndɪfə'renʃɪeɪtɪd/`
+    - 美
+      - `/'ʌndɪfə'rɛnʃɪ'etɪd/`
   - 词义
-    - adj. 无差别的,一致的
-    - `something which is undifferentiated is not split into parts, or has different parts but you cannot tell the difference between them`
+    - adj.
+      - 无差别的,一致的
+        - `something which is undifferentiated is not split into parts, or has different parts but you cannot tell the difference between them`
   - 近义词
-    - adj. 无差别的；一致的
-      - `united`
-      - `consistent`
-      - `corresponding`
-      - `matching`
-      - `uniform`
+    - adj.
+      - 无差别的；一致的
+        - `united`
+        - `consistent`
+        - `corresponding`
+        - `matching`
+        - `uniform`
   - 例句
     - `shows aimed at large undifferentiated groups of people`
       - 针对不加以细分的大众的节目

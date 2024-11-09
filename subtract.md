@@ -1,24 +1,32 @@
 - subtract
   - 发音
-    - 英 `/səb'trækt/`
-    - 美 `/səb'trækt/`
+    - 英
+      - `/səb'trækt/`
+    - 美
+      - `/səb'trækt/`
   - 词义
-    - vt. 减去
-    - `to take a number or an amount from a larger number or amount`
+    - vt.
+      - 减去
+        - `to take a number or an amount from a larger number or amount`
   - 记忆
     - sub(在…下面) + tract(拉) → 拉下去 → 减去
   - 同根词
     - adj.
-      - `subtractive` 减去的；负的；有负号的
+      - `subtractive`
+        - 减去的；负的；有负号的
     - n.
-      - `subtraction` [数] 减法；减少；差集
-      - `subtracter` [计] 减法器；扣除者
+      - `subtraction`
+        - [数] 减法；减少；差集
+      - `subtracter`
+        - [计] 减法器；扣除者
   - 近义词
-    - vt. 减去；扣掉
-      - `substract`
-      - `subduce`
+    - vt.
+      - 减去；扣掉
+        - `substract`
+        - `subduce`
   - 短语
-    - `subtract from` 减去 
+    - `subtract from`
+      - 减去 
   - 例句
     - `Then the deal is that when you sell the house they subtract -you've got to pay this.`
       - 那么当你售出房子后，他们会从中减去，这个余额，这就是你要付给他们的。

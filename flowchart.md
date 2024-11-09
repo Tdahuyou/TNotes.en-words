@@ -1,9 +1,12 @@
 - flowchart
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. [工业]流程图；作业图
+    - n.
+      - [工业]流程图；作业图
   - 例句
     - `The second decision in the flowchart asks if the package software is immediately useful.`
       - 流程图中的第二个决策就是询问数据包软件是否能立刻起作用。

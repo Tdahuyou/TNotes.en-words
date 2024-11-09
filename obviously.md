@@ -1,22 +1,28 @@
 - obviously
   - 发音
-    - 英 `/'ɒbvɪəslɪ/`
-    - 美 `/'ɑbvɪəsli/`
+    - 英
+      - `/'ɒbvɪəslɪ/`
+    - 美
+      - `/'ɑbvɪəsli/`
   - 词义
-    - adv. 明显地
-    - `used to mean that a fact can easily be noticed or understood`
+    - adv.
+      - 明显地
+        - `used to mean that a fact can easily be noticed or understood`
   - 同根词
     - adj.
-      - `obvious` 明显的；显著的；平淡无奇的
+      - `obvious`
+        - 明显的；显著的；平淡无奇的
     - n.
-      - `obviousness` 显而易见；明显；显著性
+      - `obviousness`
+        - 显而易见；明显；显著性
   - 近义词
-    - adv. 明显地
-      - `clearly`
-      - `broadly`
-      - `markedly`
-      - `distinctly`
-      - `visibly`
+    - adv.
+      - 明显地
+        - `clearly`
+        - `broadly`
+        - `markedly`
+        - `distinctly`
+        - `visibly`
   - 例句
     - `We’re obviously going to need more help.`
       - 显然我们将需要更多的帮助。

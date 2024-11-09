@@ -1,11 +1,15 @@
 - Israel
   - 发音
-    - 英 `/ˈɪzreɪəl/`
-    - 美 `/ˈɪzrɪəl/`
+    - 英
+      - `/ˈɪzreɪəl/`
+    - 美
+      - `/ˈɪzrɪəl/`
   - 词义
-    - n. [地名]以色列
+    - n.
+      - [地名]以色列
   - 短语
-    - `children of israel` n. 以色列人 
+    - `children of israel`
+      - n. 以色列人 
   - 例句
     - `Our only problem is with Israel.`
       - 我们的问题只是以色列。

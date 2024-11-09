@@ -1,24 +1,35 @@
 - motility
   - 发音
-    - 英 `/mou'tɪləti/`
-    - 美 `/moʊˈtɪləti/`
+    - 英
+      - `/mou'tɪləti/`
+    - 美
+      - `/moʊˈtɪləti/`
   - 词义
-    - n. 运动性
+    - n.
+      - 运动性
   - 记忆
     - mot(动) + ility → 运动性
   - 同根词
     - adj.
-      - `motionless` 静止的；不运动的
-      - `motile` [生理] 能动的；显示活力的
-      - `motional` 运动的；起动的
+      - `motionless`
+        - 静止的；不运动的
+      - `motile`
+        - [生理] 能动的；显示活力的
+      - `motional`
+        - 运动的；起动的
     - n.
-      - `motion` 动作；移动；手势；请求；意向
-      - `motivator` 动力；激励因素
-      - `motile` 运动型
+      - `motion`
+        - 动作；移动；手势；请求；意向
+      - `motivator`
+        - 动力；激励因素
+      - `motile`
+        - 运动型
     - vi.
-      - `motion` 运动；打手势
+      - `motion`
+        - 运动；打手势
     - vt.
-      - `motion` 运动；向…打手势
+      - `motion`
+        - 运动；向…打手势
   - 例句
     - `Marijuana can decrease sperm motility and increase the number of abnormal sperm.`
       - 大麻会降低精子能动性和增加不正常精子的数目。

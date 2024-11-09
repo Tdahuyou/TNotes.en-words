@@ -1,32 +1,44 @@
 - plenty
   - 发音
-    - 英 `/'plentɪ/`
-    - 美 `/'plɛnti/`
+    - 英
+      - `/'plentɪ/`
+    - 美
+      - `/'plɛnti/`
   - 词义
-    - pron. 大量；众多
+    - pron.
+      - 大量；众多
   - 同根词
     - adj.
-      - `plentiful` 丰富的；许多的；丰饶的
-      - `plenteous` 丰富的；丰饶的
+      - `plentiful`
+        - 丰富的；许多的；丰饶的
+      - `plenteous`
+        - 丰富的；丰饶的
     - adv.
-      - `plentifully` 丰富地，富裕地
+      - `plentifully`
+        - 丰富地，富裕地
     - n.
-      - `plenitude` 充分；丰富；大量
+      - `plenitude`
+        - 充分；丰富；大量
   - 近义词
-    - n. 丰富，大量；充足
-      - `abundance`
-      - `lots of`
-      - `wealth`
-      - `ocean`
-      - `sea`
-    - adj. 足够的，很多的
-      - `sufficient`
-      - `numerous`
-      - `competent`
+    - n.
+      - 丰富，大量；充足
+        - `abundance`
+        - `lots of`
+        - `wealth`
+        - `ocean`
+        - `sea`
+    - adj.
+      - 足够的，很多的
+        - `sufficient`
+        - `numerous`
+        - `competent`
   - 短语
-    - `plenty of` 大量；很多；许多 
-    - `plenty of time` 大量时间 
-    - `in plenty` 大量；充足 
+    - `plenty of`
+      - 大量；很多；许多 
+    - `plenty of time`
+      - 大量时间 
+    - `in plenty`
+      - 大量；充足 
   - 例句
     - `You have plenty of time to read.`
       - 你有大量的时间读书。

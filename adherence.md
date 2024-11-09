@@ -1,22 +1,31 @@
 - adherence
   - 发音
-    - 英 `/əd'hiərəns/`
-    - 美 `/əd'hɪrəns/`
+    - 英
+      - `/əd'hiərəns/`
+    - 美
+      - `/əd'hɪrəns/`
   - 词义
-    - n. 黏着；坚持；忠诚
+    - n.
+      - 黏着；坚持；忠诚
   - 记忆
     - ad (向…) + her (e) (黏着) + ence (表示名词) → 黏着
   - 同根词
     - adj.
-      - `adherent` 附着的；粘着的
+      - `adherent`
+        - 附着的；粘着的
     - n.
-      - `adherent` 信徒；追随者
-      - `adherend` 被粘物；黏剂
+      - `adherent`
+        - 信徒；追随者
+      - `adherend`
+        - 被粘物；黏剂
     - vi.
-      - `adhere` 坚持；依附；粘着；追随
+      - `adhere`
+        - 坚持；依附；粘着；追随
     - vt.
-      - `adhere` 使粘附
+      - `adhere`
+        - 使粘附
   - 近义词
-    - n. 坚持；[力]依附；忠诚
-      - `loyalty`
-      - `insistence`
+    - n.
+      - 坚持；[力]依附；忠诚
+        - `loyalty`
+        - `insistence`

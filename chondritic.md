@@ -1,14 +1,20 @@
 - chondritic
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - adj. 球粒状陨石的
+    - adj.
+      - 球粒状陨石的
   - 同根词
     - n.
-      - `chondrite` [地质] 球粒状陨石
-      - `chondrule` [地质] 陨石球粒
-      - `chondrus` 陨石球粒；角叉菜属
+      - `chondrite`
+        - [地质] 球粒状陨石
+      - `chondrule`
+        - [地质] 陨石球粒
+      - `chondrus`
+        - 陨石球粒；角叉菜属
   - 例句
     - `The main features of a rare meteorite is rare: 1, non-chondritic meteorites were structure;`
       - 罕见珍稀陨石的主要特征是：1、陨石呈无球粒结构；

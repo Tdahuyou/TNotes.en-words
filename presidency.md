@@ -1,21 +1,28 @@
 - presidency
   - 发音
-    - 英 `/'prezɪdənsi/`
-    - 美 `/'prɛzɪdənsi/`
+    - 英
+      - `/'prezɪdənsi/`
+    - 美
+      - `/'prɛzɪdənsi/`
   - 词义
-    - n. 职位；任期
-    - `the position of being the president of a country or organization, or the period of time during which someone is president`
+    - n.
+      - 职位；任期
+        - `the position of being the president of a country or organization, or the period of time during which someone is president`
   - 同根词
     - adj.
-      - `presidential` 总统的；首长的；统辖的
+      - `presidential`
+        - 总统的；首长的；统辖的
     - n.
-      - `president` 总统；董事长；校长
-      - `presidentship` 总统职位；校长任期
+      - `president`
+        - 总统；董事长；校长
+      - `presidentship`
+        - 总统职位；校长任期
   - 近义词
-    - n. 总统（或董事长、会长、大学校长等）的职位（任期）；管辖；支配
-      - `government`
-      - `disposal`
-      - `ruling`
+    - n.
+      - 总统（或董事长、会长、大学校长等）的职位（任期）；管辖；支配
+        - `government`
+        - `disposal`
+        - `ruling`
   - 例句
     - `Roosevelt was elected four times to the presidency of the US.`
       - 罗斯福四次当选美国总统。

@@ -1,38 +1,54 @@
 - approve
   - 发音
-    - 英 `/ə'pruːv/`
-    - 美 `/ə'prʊv/`
+    - 英
+      - `/ə'pruːv/`
+    - 美
+      - `/ə'prʊv/`
   - 词义
-    - v. 批准；赞成
-    - `to officially accept a plan, proposal etc`
+    - v.
+      - 批准；赞成
+        - `to officially accept a plan, proposal etc`
   - 记忆
     - ap + prove(证实) → 经过证实才能批准 → 批准； 赞成
   - 同根词
     - adj.
-      - `approved` 被认可的；经过检验的
-      - `approving` 赞成的，满意的
+      - `approved`
+        - 被认可的；经过检验的
+      - `approving`
+        - 赞成的，满意的
     - adv.
-      - `approvingly` 赞许地；满意地
+      - `approvingly`
+        - 赞许地；满意地
     - n.
-      - `approval` 批准；认可；赞成
-      - `approver` 批准者；承认者，赞成者
+      - `approval`
+        - 批准；认可；赞成
+      - `approver`
+        - 批准者；承认者，赞成者
     - v.
-      - `approved` 核准；认可（approve的过去式）
-      - `approving` 批准；认可（approve的现在分词形式）；赞成
+      - `approved`
+        - 核准；认可（approve的过去式）
+      - `approving`
+        - 批准；认可（approve的现在分词形式）；赞成
   - 近义词
-    - vt. 批准；赞成；为…提供证据
-      - `confirm`
-      - `agree`
-      - `uphold`
-      - `authorize`
-    - vi. 批准；赞成；满意
-      - `to ratify`
-      - `give someone the green light`
+    - vt.
+      - 批准；赞成；为…提供证据
+        - `confirm`
+        - `agree`
+        - `uphold`
+        - `authorize`
+    - vi.
+      - 批准；赞成；满意
+        - `to ratify`
+        - `give someone the green light`
   - 短语
-    - `approve oneself` [古语]证明为，表明为 
-    - `approve of` 赞成 
-    - `examine and approve` 审批 
-    - `check and approve` 审阅 
+    - `approve oneself`
+      - [古语]证明为，表明为 
+    - `approve of`
+      - 赞成 
+    - `examine and approve`
+      - 审批 
+    - `check and approve`
+      - 审阅 
   - 例句
     - `The conference approved a proposal for a referendum.`
       - 会议通过了举行全民公决的提议。

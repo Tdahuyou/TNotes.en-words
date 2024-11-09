@@ -1,15 +1,19 @@
 - penetralia
   - 发音
-    - 英 `/,penɪ'treɪlɪə/`
-    - 美 `/,peni'treiliə/`
+    - 英
+      - `/,penɪ'treɪlɪə/`
+    - 美
+      - `/,peni'treiliə/`
   - 词义
-    - n. 密室,密事
+    - n.
+      - 密室,密事
   - 近义词
-    - n. 内部，最深处；隐私，密事
-      - `interior`
-      - `inner`
-      - `inside`
-      - `privacy`
+    - n.
+      - 内部，最深处；隐私，密事
+        - `interior`
+        - `inner`
+        - `inside`
+        - `privacy`
   - 例句
     - `Countless mechanical equipment are adumbrative, in the future one day, we are in the murmur in penetralia , will as be in housetop proclaims aloud general.`
       - 无数的机械设备预示着，将来有一天，我们在密室中的低语，将会如同在屋顶大声宣告一般。

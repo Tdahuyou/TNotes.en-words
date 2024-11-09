@@ -1,24 +1,31 @@
 - occasional
   - 发音
-    - 英 `/ə'keɪʒənl/`
-    - 美 `/ə'keʒənl/`
+    - 英
+      - `/ə'keɪʒənl/`
+    - 美
+      - `/ə'keʒənl/`
   - 词义
-    - adj. 偶然的，不经常的；临时的
-    - `happening sometimes but not often or regularly`
+    - adj.
+      - 偶然的，不经常的；临时的
+        - `happening sometimes but not often or regularly`
   - 记忆
     - 来自occasion(n. 时机)
   - 同根词
     - adv.
-      - `occasionally` 偶而，间或
+      - `occasionally`
+        - 偶而，间或
     - n.
-      - `occasion` 时机，机会；场合；理由
+      - `occasion`
+        - 时机，机会；场合；理由
     - vt.
-      - `occasion` 引起，惹起
+      - `occasion`
+        - 引起，惹起
   - 近义词
-    - adj. [生物]偶然的；临时的；特殊场合的
-      - `extraordinary`
-      - `temporary`
-      - `odd`
+    - adj.
+      - [生物]偶然的；临时的；特殊场合的
+        - `extraordinary`
+        - `temporary`
+        - `odd`
   - 例句
     - `He made occasional visits to London.`
       - 他有时候会去伦敦。

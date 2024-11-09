@@ -1,33 +1,49 @@
 - wasteful
   - 发音
-    - 英 `/'weɪstfʊl; -f(ə)l/`
-    - 美 `/'westfl/`
+    - 英
+      - `/'weɪstfʊl; -f(ə)l/`
+    - 美
+      - `/'westfl/`
   - 词义
-    - adj. 浪费的，挥霍的
-    - `using more of something than you should, especially money, time, or effort`
+    - adj.
+      - 浪费的，挥霍的
+        - `using more of something than you should, especially money, time, or effort`
   - 同根词
     - adj.
-      - `waste` 废弃的；多余的；荒芜的
-      - `wasted` 浪费的
-      - `wasting` 浪费的；造成浪费的
+      - `waste`
+        - 废弃的；多余的；荒芜的
+      - `wasted`
+        - 浪费的
+      - `wasting`
+        - 浪费的；造成浪费的
     - adv.
-      - `wastefully` 浪费地；挥霍地
+      - `wastefully`
+        - 浪费地；挥霍地
     - n.
-      - `waste` 浪费；废物；荒地；损耗；地面风化物
-      - `wasting` 浪费
-      - `waster` [环境] 废品；挥霍者，浪费者
-      - `wastrel` 废品；浪费者
-      - `wastefulness` 浪费；挥霍无度
+      - `waste`
+        - 浪费；废物；荒地；损耗；地面风化物
+      - `wasting`
+        - 浪费
+      - `waster`
+        - [环境] 废品；挥霍者，浪费者
+      - `wastrel`
+        - 废品；浪费者
+      - `wastefulness`
+        - 浪费；挥霍无度
     - v.
-      - `wasted` 浪费（waste的过去式）
+      - `wasted`
+        - 浪费（waste的过去式）
     - vi.
-      - `waste` 浪费；变消瘦；挥霍钱财
+      - `waste`
+        - 浪费；变消瘦；挥霍钱财
     - vt.
-      - `waste` 浪费；消耗；使荒芜
+      - `waste`
+        - 浪费；消耗；使荒芜
   - 近义词
-    - adj. 浪费的，不经济的；奢侈的
-      - `luxury`
-      - `dissipative`
+    - adj.
+      - 浪费的，不经济的；奢侈的
+        - `luxury`
+        - `dissipative`
   - 例句
     - `a wasteful use of resources`
       - 滥用资源

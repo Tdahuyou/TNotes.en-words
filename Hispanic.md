@@ -1,10 +1,13 @@
 - Hispanic
   - 发音
-    - 英 `/hi'spænik/`
-    - 美 `/hi'spænik/`
+    - 英
+      - `/hi'spænik/`
+    - 美
+      - `/hi'spænik/`
   - 词义
-    - adj. 西班牙的
-    - `from or relating to countries where Spanish or Portuguese are spoken, especially ones in Latin America`
+    - adj.
+      - 西班牙的
+        - `from or relating to countries where Spanish or Portuguese are spoken, especially ones in Latin America`
   - 例句
     - `Miami’s Hispanic community`
       - 迈阿密的西裔美国人社区

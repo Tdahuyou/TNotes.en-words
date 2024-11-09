@@ -1,30 +1,41 @@
 - divorce
   - 发音
-    - 英 `/dɪ'vɔːrs/`
-    - 美 `/dɪ'vɔrs/`
+    - 英
+      - `/dɪ'vɔːrs/`
+    - 美
+      - `/dɪ'vɔrs/`
   - 词义
-    - v. 与…离婚；使分离，使脱离
-    - `if someone divorces their husband or wife, or if two people divorce, they legally end their marriage`
-    - n. 离婚；分离，脱离
-    - `the legal ending of a marriage`
+    - v.
+      - 与…离婚；使分离，使脱离
+        - `if someone divorces their husband or wife, or if two people divorce, they legally end their marriage`
+    - n.
+      - 离婚；分离，脱离
+        - `the legal ending of a marriage`
   - 记忆
     - di(分开) + vorce(看做voice， 声音) → 夫妻两个发出不同的声音 → 离婚
   - 同根词
     - adj.
-      - `divorced` 离婚的
+      - `divorced`
+        - 离婚的
     - n.
-      - `divorcement` 离婚；分离
+      - `divorcement`
+        - 离婚；分离
   - 近义词
-    - vt. 使离婚，使分离；与…离婚
-      - `separate`
-      - `split`
-    - n. 离婚；分离
-      - `separation`
-      - `detachment`
+    - vt.
+      - 使离婚，使分离；与…离婚
+        - `separate`
+        - `split`
+    - n.
+      - 离婚；分离
+        - `separation`
+        - `detachment`
   - 短语
-    - `divorce rate` 离婚率 
-    - `divorce from` 离婚；分离 
-    - `divorce court` 离婚法庭 
+    - `divorce rate`
+      - 离婚率 
+    - `divorce from`
+      - 离婚；分离 
+    - `divorce court`
+      - 离婚法庭 
   - 例句
     - `David’s parents divorced when he was six.`
       - 戴维的父母在他六岁时离婚了。

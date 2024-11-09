@@ -1,20 +1,27 @@
 - cloister
   - 发音
-    - 英 `/'klɒɪstə/`
-    - 美 `/'klɔɪstɚ/`
+    - 英
+      - `/'klɒɪstə/`
+    - 美
+      - `/'klɔɪstɚ/`
   - 词义
-    - n. 回廊,修道院
-    - `a covered passage that surrounds one side of a square garden in a church,  monastery  etc`
+    - n.
+      - 回廊,修道院
+        - `a covered passage that surrounds one side of a square garden in a church,  monastery  etc`
   - 同根词
     - adj.
-      - `cloistered` 隐居的，与世隔绝的
-      - `cloistral` 修道院的；遁世的；孤独的
+      - `cloistered`
+        - 隐居的，与世隔绝的
+      - `cloistral`
+        - 修道院的；遁世的；孤独的
     - v.
-      - `cloistered` 使与尘世隔绝；在…设回廊（cloister的过去分词）
+      - `cloistered`
+        - 使与尘世隔绝；在…设回廊（cloister的过去分词）
   - 近义词
-    - n. 回廊；修道院；修道院生活；隐居地
-      - `monastery`
-      - `monkery`
+    - n.
+      - 回廊；修道院；修道院生活；隐居地
+        - `monastery`
+        - `monkery`
   - 例句
     - `What you beheld was the interior of a cloister.`
       - 你所看见的是一个修道院的内部。

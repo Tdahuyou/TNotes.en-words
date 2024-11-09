@@ -1,14 +1,18 @@
 - hardboard
   - 发音
-    - 英 `/'hɑːdbɔːd/`
-    - 美 `/'hɑrd'bɔrd/`
+    - 英
+      - `/'hɑːdbɔːd/`
+    - 美
+      - `/'hɑrd'bɔrd/`
   - 词义
-    - n. 硬纸板
-    - `a material made from small pieces of wood pressed together`
+    - n.
+      - 硬纸板
+        - `a material made from small pieces of wood pressed together`
   - 近义词
-    - n. [纸]硬纸板
-      - `strawboard`
-      - `chipboard`
+    - n.
+      - [纸]硬纸板
+        - `strawboard`
+        - `chipboard`
   - 例句
     - `First : we cut the time as soon as piece hardboard.`
       - 第一：我们的时间削减尽快一块硬纸板。

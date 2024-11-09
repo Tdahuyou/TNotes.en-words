@@ -1,22 +1,29 @@
 - symptom
   - 发音
-    - 英 `/'sɪmptəm/`
-    - 美 `/'sɪmptəm/`
+    - 英
+      - `/'sɪmptəm/`
+    - 美
+      - `/'sɪmptəm/`
   - 词义
-    - n. 症状；征兆
-    - `something wrong with your body or mind which shows that you have a particular illness`
+    - n.
+      - 症状；征兆
+        - `something wrong with your body or mind which shows that you have a particular illness`
   - 记忆
     - sym(共同) + pto(掉下) + m → 一起掉下来的东西 → 症状； 征兆
   - 同根词
     - adj.
-      - `symptomatic` 有症状的；症候的
-      - `symptomless` 无症状的
+      - `symptomatic`
+        - 有症状的；症候的
+      - `symptomless`
+        - 无症状的
   - 近义词
-    - n. [临床]症状；征兆
-      - `premonitor`
-      - `prefiguration`
+    - n.
+      - [临床]症状；征兆
+        - `premonitor`
+        - `prefiguration`
   - 短语
-    - `symptom complex` 症候群 
+    - `symptom complex`
+      - 症候群 
   - 例句
     - `One of the most common symptoms of schizophrenia is hearing imaginary voices.`
       - 精神分裂症最常见的症状之一是幻听。

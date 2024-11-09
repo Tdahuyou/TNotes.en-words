@@ -1,10 +1,13 @@
 - earplug
   - 发音
-    - 英 `/'ɪəplʌg/`
-    - 美 `/'ɪrplʌɡ/`
+    - 英
+      - `/'ɪəplʌg/`
+    - 美
+      - `/'ɪrplʌɡ/`
   - 词义
-    - n. 耳栓
-    - `a small piece of rubber that you put inside your ear to keep out noise or water`
+    - n.
+      - 耳栓
+        - `a small piece of rubber that you put inside your ear to keep out noise or water`
   - 例句
     - `The earplug is moved from ear to ear to indicate the current date.`
       - 移动耳塞用来指示相应的日期。

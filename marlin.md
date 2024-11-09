@@ -1,10 +1,13 @@
 - marlin
   - 发音
-    - 英 `/'mɑːlɪn/`
-    - 美 `/'mɑrlɪn/`
+    - 英
+      - `/'mɑːlɪn/`
+    - 美
+      - `/'mɑrlɪn/`
   - 词义
-    - n. 枪鱼
-    - `a large sea fish with a long sharp nose, which people hunt for sport`
+    - n.
+      - 枪鱼
+        - `a large sea fish with a long sharp nose, which people hunt for sport`
   - 例句
     - `He drank a little water before he lashed the marlin to bow and stern of his skiff.`
       - 他喝了一点水，然后把马林鱼捆绑在他那条小船的头部和尾部。

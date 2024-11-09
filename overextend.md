@@ -1,25 +1,36 @@
 - overextend
   - 发音
-    - 英 `/əʊv(ə)rɪk'stend; -rek-/`
-    - 美 `/,ovɚrɪk'stɛnd/`
+    - 英
+      - `/əʊv(ə)rɪk'stend; -rek-/`
+    - 美
+      - `/,ovɚrɪk'stɛnd/`
   - 词义
-    - v. 过分扩展；过分延长；使…承担过多的义务
+    - v.
+      - 过分扩展；过分延长；使…承担过多的义务
   - 记忆
     - over(过度的) + extend(扩展) → 过度扩展
   - 同根词
     - adj.
-      - `overexcited` 过励磁的；过于激动的
-      - `overfeeding` 喂食过多的
+      - `overexcited`
+        - 过励磁的；过于激动的
+      - `overfeeding`
+        - 喂食过多的
     - n.
-      - `overemphasis` 过分强调
-      - `overfeeding` 过量食物；吃得过多
+      - `overemphasis`
+        - 过分强调
+      - `overfeeding`
+        - 过量食物；吃得过多
     - v.
-      - `overexcited` 使过分激动或兴奋（overexcite的过去式）
-      - `overfeeding` 喂食过多；过食（overfeed的ing形式）
+      - `overexcited`
+        - 使过分激动或兴奋（overexcite的过去式）
+      - `overfeeding`
+        - 喂食过多；过食（overfeed的ing形式）
     - vi.
-      - `overemphasize` 过分强调
+      - `overemphasize`
+        - 过分强调
     - vt.
-      - `overemphasize` 过分强调
+      - `overemphasize`
+        - 过分强调
   - 例句
     - `Jackson’s company became overextended financially.`
       - 杰克逊的公司财务上开支过大了。

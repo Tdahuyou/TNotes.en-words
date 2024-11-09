@@ -1,16 +1,22 @@
 - planetarium
   - 发音
-    - 英 `/,plænɪ'teərɪəm/`
-    - 美 `/'plænə'tɛrɪəm/`
+    - 英
+      - `/,plænɪ'teərɪəm/`
+    - 美
+      - `/'plænə'tɛrɪəm/`
   - 词义
-    - n. 天文馆
-    - `a building where lights on a curved ceiling show the movements of planets and stars`
+    - n.
+      - 天文馆
+        - `a building where lights on a curved ceiling show the movements of planets and stars`
   - 同根词
     - adj.
-      - `planetary` 行星的
-      - `planetesimal` 星子的；星子组成的；小行星体的
+      - `planetary`
+        - 行星的
+      - `planetesimal`
+        - 星子的；星子组成的；小行星体的
     - n.
-      - `planetesimal` 小行星体；星子
+      - `planetesimal`
+        - 小行星体；星子
   - 例句
     - `The motions of the stars can be approximated in a planetarium.`
       - 星星的运动可在天文馆里模拟。

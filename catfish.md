@@ -1,10 +1,13 @@
 - catfish
   - 发音
-    - 英 `/'kætfɪʃ/`
-    - 美 `/'kætfɪʃ/`
+    - 英
+      - `/'kætfɪʃ/`
+    - 美
+      - `/'kætfɪʃ/`
   - 词义
-    - n. 鲶鱼
-    - `a type of fish that has whiskers around its mouth and lives in rivers or lakes`
+    - n.
+      - 鲶鱼
+        - `a type of fish that has whiskers around its mouth and lives in rivers or lakes`
   - 例句
     - `Why should we care about catfish?`
       - 我们为什么要关注鲶鱼？

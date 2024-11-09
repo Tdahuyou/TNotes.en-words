@@ -1,20 +1,27 @@
 - reachable
   - 发音
-    - 英 `/'riːtʃəbl/`
-    - 美 `/'ritʃəbl/`
+    - 英
+      - `/'riːtʃəbl/`
+    - 美
+      - `/'ritʃəbl/`
   - 词义
-    - adj. 可达成的,可获得的
+    - adj.
+      - 可达成的,可获得的
   - 同根词
     - n.
-      - `reach` 范围；延伸；河段；横风行驶
+      - `reach`
+        - 范围；延伸；河段；横风行驶
     - vi.
-      - `reach` 达到；延伸；伸出手；传开
+      - `reach`
+        - 达到；延伸；伸出手；传开
     - vt.
-      - `reach` 达到；影响；抵达；伸出
+      - `reach`
+        - 达到；影响；抵达；伸出
   - 近义词
-    - adj. 可获得的；可达成的
-      - `getatable`
-      - `accomplishable`
+    - adj.
+      - 可获得的；可达成的
+        - `getatable`
+        - `accomplishable`
   - 例句
     - `It then traverses the chain of references until all (directly or indirectly) reachable objects from the root set are marked.`
       - 跟踪然后遍历引用链直至标记完根集中所有（直接或间接）可获得的对象。

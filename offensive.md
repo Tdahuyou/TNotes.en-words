@@ -1,43 +1,62 @@
 - offensive
   - 发音
-    - 英 `/ə'fensɪv/`
-    - 美 `/ə'fɛnsɪv/`
+    - 英
+      - `/ə'fensɪv/`
+    - 美
+      - `/ə'fɛnsɪv/`
   - 词义
-    - adj. 攻击性的；冒犯的，使人不快的；攻方的
-    - `very rude or insulting and likely to upset people`
-    - n. 进攻，攻击；攻势
-    - `a planned military attack involving large forces over a long period`
+    - adj.
+      - 攻击性的；冒犯的，使人不快的；攻方的
+        - `very rude or insulting and likely to upset people`
+    - n.
+      - 进攻，攻击；攻势
+        - `a planned military attack involving large forces over a long period`
   - 记忆
     - of + fens(打) + ive → 打击别人 → 攻击性的
   - 同根词
     - adj.
-      - `offending` 不愉快的；厌恶的
-      - `offenseless` 无攻击力的；不惹人的
+      - `offending`
+        - 不愉快的；厌恶的
+      - `offenseless`
+        - 无攻击力的；不惹人的
     - adv.
-      - `offensively` 冒犯地；讨厌地
+      - `offensively`
+        - 冒犯地；讨厌地
     - n.
-      - `offence` 犯罪；违反；过错；攻击
-      - `offender` 罪犯；冒犯者；违法者
-      - `offense` 犯罪，过错；进攻；触怒；引起反感的事物
-      - `offensiveness` 冒犯；令人讨厌；进攻
+      - `offence`
+        - 犯罪；违反；过错；攻击
+      - `offender`
+        - 罪犯；冒犯者；违法者
+      - `offense`
+        - 犯罪，过错；进攻；触怒；引起反感的事物
+      - `offensiveness`
+        - 冒犯；令人讨厌；进攻
     - v.
-      - `offending` 冒犯（offend的ing形式）
+      - `offending`
+        - 冒犯（offend的ing形式）
     - vi.
-      - `offend` 违反；进攻；引起不舒服
+      - `offend`
+        - 违反；进攻；引起不舒服
     - vt.
-      - `offend` 冒犯；使…不愉快
+      - `offend`
+        - 冒犯；使…不愉快
   - 近义词
-    - adj. 攻击的；冒犯的；无礼的；讨厌的
-      - `evil`
-      - `rank`
-    - n. 攻势；攻击
-      - `attack`
-      - `attempt`
-      - `push`
+    - adj.
+      - 攻击的；冒犯的；无礼的；讨厌的
+        - `evil`
+        - `rank`
+    - n.
+      - 攻势；攻击
+        - `attack`
+        - `attempt`
+        - `push`
   - 短语
-    - `offensive player` 进攻球员；进攻队员；进攻型选手 
-    - `offensive team` 攻队；后攻队；进攻球队 
-    - `offensive weapons` 攻击性武器 
+    - `offensive player`
+      - 进攻球员；进攻队员；进攻型选手 
+    - `offensive team`
+      - 攻队；后攻队；进攻球队 
+    - `offensive weapons`
+      - 攻击性武器 
   - 例句
     - `I found her remarks deeply offensive.`
       - 我觉得她的话令人非常恼火。

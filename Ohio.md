@@ -1,14 +1,21 @@
 - Ohio
   - 发音
-    - 英 `/əu'haiəu/`
-    - 美 `/əu'haiəu/`
+    - 英
+      - `/əu'haiəu/`
+    - 美
+      - `/əu'haiəu/`
   - 词义
-    - n. 俄亥俄州(美国州名)
+    - n.
+      - 俄亥俄州(美国州名)
   - 短语
-    - `ohio state` 俄亥俄州立大学 
-    - `ohio state university` 俄亥俄州立大学 
-    - `ohio river` （美）俄亥俄河 
-    - `ohio university` n. 俄亥俄大学 
+    - `ohio state`
+      - 俄亥俄州立大学 
+    - `ohio state university`
+      - 俄亥俄州立大学 
+    - `ohio river`
+      - （美）俄亥俄河 
+    - `ohio university`
+      - n. 俄亥俄大学 
   - 例句
     - `And the next day, he gave a speech in Ohio about faith.`
       - 第二天，他还在俄亥俄州做一场关于信仰的演讲。

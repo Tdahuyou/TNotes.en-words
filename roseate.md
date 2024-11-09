@@ -1,27 +1,40 @@
 - roseate
   - 发音
-    - 英 `/'rouziət/`
-    - 美 `/'rozɪət/`
+    - 英
+      - `/'rouziət/`
+    - 美
+      - `/'rozɪət/`
   - 词义
-    - adj. 玫瑰色的；过分乐观的
-    - `pink`
+    - adj.
+      - 玫瑰色的；过分乐观的
+        - `pink`
   - 同根词
     - adj.
-      - `rosaceous` 玫瑰色的；蔷薇科的；蔷薇似的
-      - `roselike` 似玫瑰的；玫瑰花似的
-    - n.
-      - `rose` 玫瑰，蔷薇；玫瑰红
-      - `rosette` 莲座丛；玫瑰形饰物；[建] 圆花饰
-      - `rosary` 玫瑰园，玫瑰花坛；玫瑰经，诵经用的念珠
-      - `rosebud` 玫瑰花蕾；蔷薇花蕾；妙龄少女
-      - `rosebush` 蔷薇丛；玫瑰丛；灌木
-      - `rosefish` 玫瑰鱼（产于北大西洋）
-    - v.
-      - `rose` 上升（rise的过去式）；增加；起立
-  - 近义词
-    - adj. 玫瑰色的；容光焕发的；乐观的
-      - `optimistic`
       - `rosaceous`
+        - 玫瑰色的；蔷薇科的；蔷薇似的
+      - `roselike`
+        - 似玫瑰的；玫瑰花似的
+    - n.
+      - `rose`
+        - 玫瑰，蔷薇；玫瑰红
+      - `rosette`
+        - 莲座丛；玫瑰形饰物；[建] 圆花饰
+      - `rosary`
+        - 玫瑰园，玫瑰花坛；玫瑰经，诵经用的念珠
+      - `rosebud`
+        - 玫瑰花蕾；蔷薇花蕾；妙龄少女
+      - `rosebush`
+        - 蔷薇丛；玫瑰丛；灌木
+      - `rosefish`
+        - 玫瑰鱼（产于北大西洋）
+    - v.
+      - `rose`
+        - 上升（rise的过去式）；增加；起立
+  - 近义词
+    - adj.
+      - 玫瑰色的；容光焕发的；乐观的
+        - `optimistic`
+        - `rosaceous`
   - 例句
     - `the roseate glow of the evening sun`
       - 夕阳的玫瑰色余晖

@@ -1,19 +1,26 @@
 - brindled
   - 发音
-    - 英 `/'brɪndld/`
-    - 美 `/'brɪndld/`
+    - 英
+      - `/'brɪndld/`
+    - 美
+      - `/'brɪndld/`
   - 词义
-    - adj. 有斑的,有斑纹的
-    - `a brindled animal is brown and has marks or bands of another colour`
+    - adj.
+      - 有斑的,有斑纹的
+        - `a brindled animal is brown and has marks or bands of another colour`
   - 同根词
     - adj.
-      - `brinded` 有斑纹的；有虎斑的（等于brindled）
-      - `brindle` 有斑纹的
+      - `brinded`
+        - 有斑纹的；有虎斑的（等于brindled）
+      - `brindle`
+        - 有斑纹的
     - n.
-      - `brindle` 斑纹；有斑纹的动物
+      - `brindle`
+        - 斑纹；有斑纹的动物
   - 近义词
-    - adj. 有斑的，有斑纹的
-      - `branded`
+    - adj.
+      - 有斑的，有斑纹的
+        - `branded`
   - 例句
     - `I saw his brindled cow feeding on fish remnantsHerman Melville.`
       - 我看见他的用鱼杂碎喂养的斑纹奶牛。

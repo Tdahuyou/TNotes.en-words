@@ -1,11 +1,15 @@
 - vitascope
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 老式放映机
-    - `an early type of film projector `
+    - n.
+      - 老式放映机
+        - `an early type of film projector `
   - 近义词
-    - n. 放映机；老式放映机；维太放映机
-      - `movie projector`
-      - `projection machine`
+    - n.
+      - 放映机；老式放映机；维太放映机
+        - `movie projector`
+        - `projection machine`

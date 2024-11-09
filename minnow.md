@@ -1,14 +1,18 @@
 - minnow
   - 发音
-    - 英 `/'minəu/`
-    - 美 `/'mɪno/`
+    - 英
+      - `/'minəu/`
+    - 美
+      - `/'mɪno/`
   - 词义
-    - n. 鲤类小鱼
-    - `A minnow is a very small fish that lives in lakes and rivers`
+    - n.
+      - 鲤类小鱼
+        - `A minnow is a very small fish that lives in lakes and rivers`
   - 近义词
-    - n. [鱼]鲦鱼（一种小淡水鱼）
-      - `dace`
-      - `chub`
+    - n.
+      - [鱼]鲦鱼（一种小淡水鱼）
+        - `dace`
+        - `chub`
   - 例句
     - `The minnow too had grown and had become a full-fledged fish.`
       - 此时的小鲦鱼也已长大，长成了一条年轻健康的鲦鱼。

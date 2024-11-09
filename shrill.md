@@ -1,31 +1,42 @@
 - shrill
   - 发音
-    - 英 `/ʃrɪl/`
-    - 美 `/ʃrɪl/`
+    - 英
+      - `/ʃrɪl/`
+    - 美
+      - `/ʃrɪl/`
   - 词义
-    - adj. 尖声的
-    - `a shrill sound is very high and unpleasant`
-    - v. 尖声叫出
-    - `to produce a very high and unpleasant sound`
+    - adj.
+      - 尖声的
+        - `a shrill sound is very high and unpleasant`
+    - v.
+      - 尖声叫出
+        - `to produce a very high and unpleasant sound`
   - 同根词
     - adj.
-      - `shrilly` 尖声的；耀眼的
+      - `shrilly`
+        - 尖声的；耀眼的
     - adv.
-      - `shrilly` 尖声地；耀眼地
+      - `shrilly`
+        - 尖声地；耀眼地
     - n.
-      - `shrillness` 尖锐刺耳
+      - `shrillness`
+        - 尖锐刺耳
   - 近义词
-    - adj. [声]尖锐的；刺耳的
-      - `grinding`
-      - `sharp`
-      - `harsh`
-    - adv. [声]尖锐地
-      - `acutely`
-      - `pointedly`
-    - vi. 尖声喊叫
-      - `scream out`
-    - n. 尖叫声
-      - `scream`
+    - adj.
+      - [声]尖锐的；刺耳的
+        - `grinding`
+        - `sharp`
+        - `harsh`
+    - adv.
+      - [声]尖锐地
+        - `acutely`
+        - `pointedly`
+    - vi.
+      - 尖声喊叫
+        - `scream out`
+    - n.
+      - 尖叫声
+        - `scream`
   - 例句
     - `‘That’s not true,’ she protested in a shrill voice.`
       - “不是这样的。”她尖声抗议道。

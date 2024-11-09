@@ -1,20 +1,27 @@
 - pendulous
   - 发音
-    - 英 `/'pendʒələs/`
-    - 美 `/'pɛndʒələs/`
+    - 英
+      - `/'pendʒələs/`
+    - 美
+      - `/'pɛndʒələs/`
   - 词义
-    - adj. 下垂的
-    - `hanging down loosely and swinging freely`
+    - adj.
+      - 下垂的
+        - `hanging down loosely and swinging freely`
   - 同根词
     - adj.
-      - `pendent` 悬而未决的；下垂的；未定的；向外伸出的
+      - `pendent`
+        - 悬而未决的；下垂的；未定的；向外伸出的
     - n.
-      - `pendant` 下垂物，垂饰
-      - `pendulum` 钟摆；摇锤；摇摆不定的事态
+      - `pendant`
+        - 下垂物，垂饰
+      - `pendulum`
+        - 钟摆；摇锤；摇摆不定的事态
   - 近义词
-    - adj. [昆][生物]下垂的，悬垂的；摇摆的
-      - `nutant`
-      - `droopy`
+    - adj.
+      - [昆][生物]下垂的，悬垂的；摇摆的
+        - `nutant`
+        - `droopy`
   - 例句
     - `pendulous breasts`
       - 松垂的乳房

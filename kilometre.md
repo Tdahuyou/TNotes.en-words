@@ -1,16 +1,21 @@
 - kilometre
   - 发音
-    - 英 `/'kɪlə,miːtə; kɪ'lɒmɪtə/`
-    - 美 `/kɪ'lɔmɪtɚ/`
+    - 英
+      - `/'kɪlə,miːtə; kɪ'lɒmɪtə/`
+    - 美
+      - `/kɪ'lɔmɪtɚ/`
   - 词义
-    - n. 千米；公里
-    - `a unit for measuring distance, equal to 1,000 metres`
+    - n.
+      - 千米；公里
+        - `a unit for measuring distance, equal to 1,000 metres`
   - 近义词
-    - n. [计量]公里；千米
-      - `klick`
-      - `klik`
+    - n.
+      - [计量]公里；千米
+        - `klick`
+        - `klik`
   - 短语
-    - `square kilometre` 平方公里 
+    - `square kilometre`
+      - 平方公里 
   - 例句
     - `They ran to the main road and on for a kilometre until ambulances could reach them.`
       - 接着他们就向大道跑去，到了以后再跑了一千米，直到碰到救护车。

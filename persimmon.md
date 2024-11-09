@@ -1,15 +1,20 @@
 - persimmon
   - 发音
-    - 英 `/pə'sɪmən/`
-    - 美 `/pɚ'sɪmən/`
+    - 英
+      - `/pə'sɪmən/`
+    - 美
+      - `/pɚ'sɪmən/`
   - 词义
-    - n. 柿子；柿子树
-    - `a soft orange-coloured fruit that grows in hot countries`
+    - n.
+      - 柿子；柿子树
+        - `a soft orange-coloured fruit that grows in hot countries`
   - 近义词
-    - n. 柿子；[园艺]柿子树
-      - `kaki`
+    - n.
+      - 柿子；[园艺]柿子树
+        - `kaki`
   - 短语
-    - `dried persimmon` 柿饼 
+    - `dried persimmon`
+      - 柿饼 
   - 例句
     - `The persimmon tastes puckery.`
       - 这柿子涩。

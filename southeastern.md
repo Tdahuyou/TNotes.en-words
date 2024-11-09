@@ -1,24 +1,37 @@
 - southeastern
   - 发音
-    - 英 `/,saʊθ'iːstən/`
-    - 美 `/,saʊθ'istɚn/`
+    - 英
+      - `/,saʊθ'iːstən/`
+    - 美
+      - `/,saʊθ'istɚn/`
   - 词义
-    - adj. 东南方的
-    - `in or from the southeast part of a country or area`
+    - adj.
+      - 东南方的
+        - `in or from the southeast part of a country or area`
   - 同根词
     - adj.
-      - `south` 南的，南方的
-      - `southeasterly` 往东南的；来自东南的
-      - `southerly` 来自南方的；向南的
+      - `south`
+        - 南的，南方的
+      - `southeasterly`
+        - 往东南的；来自东南的
+      - `southerly`
+        - 来自南方的；向南的
     - adv.
-      - `south` 在南方，向南方
-      - `southeasterly` 往东南；来自东南
-      - `southerly` 来自南方；向南
+      - `south`
+        - 在南方，向南方
+      - `southeasterly`
+        - 往东南；来自东南
+      - `southerly`
+        - 来自南方；向南
     - n.
-      - `south` 南方，南边；南部
-      - `southerner` 南方人
-      - `southeaster` 东南的强风；东南风
-      - `southerly` 南风
+      - `south`
+        - 南方，南边；南部
+      - `southerner`
+        - 南方人
+      - `southeaster`
+        - 东南的强风；东南风
+      - `southerly`
+        - 南风
   - 例句
     - `southeastern Europe`
       - 东南欧

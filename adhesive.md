@@ -1,45 +1,73 @@
 - adhesive
   - 发音
-    - 英 `/əd'hiːsɪv/`
-    - 美 `/əd'hisɪv/`
+    - 英
+      - `/əd'hiːsɪv/`
+    - 美
+      - `/əd'hisɪv/`
   - 词义
-    - adj. 带黏性的
-    - `An adhesive substance is able to stick firmly to something else`
-    - n. 胶合剂
-    - `a substance such as glue that you use to stick two things together`
+    - adj.
+      - 带黏性的
+        - `An adhesive substance is able to stick firmly to something else`
+    - n.
+      - 胶合剂
+        - `a substance such as glue that you use to stick two things together`
   - 记忆
     - ad(表加强) + hes(=her黏附) + ive → 胶合剂； 带黏性的
   - 同根词
     - n.
-      - `adhesion` 粘附；支持；固守
-      - `adhesiveness` 粘性；粘合度
+      - `adhesion`
+        - 粘附；支持；固守
+      - `adhesiveness`
+        - 粘性；粘合度
   - 近义词
-    - n. [胶粘]粘合剂；胶黏剂
-      - `binder`
-      - `binding agent`
-    - adj. [物]粘着的；带粘性的
-      - `gluey`
+    - n.
+      - [胶粘]粘合剂；胶黏剂
+        - `binder`
+        - `binding agent`
+    - adj.
+      - [物]粘着的；带粘性的
+        - `gluey`
   - 短语
-    - `adhesive tape` 胶布 
-    - `adhesive strength` 粘合强度 
-    - `resin adhesive` 树脂型胶粘剂，树脂胶 
-    - `adhesive force` 粘合力，附着力 
-    - `hot melt adhesive` n. 热熔胶；热熔性胶粘剂 
-    - `pressure sensitive adhesive` 压敏粘着剂；压感胶粘剂；压敏型黏合剂 
-    - `epoxy adhesive` 环氧胶粘剂；环氧尸粘合剂 
-    - `emulsion adhesive` 乳化胶，乳液型粘合剂 
-    - `adhesive property` 粘着性；黏着性；粘结力 
-    - `adhesive plaster` 橡皮膏 
-    - `structural adhesive` 结构型胶粘剂 
-    - `adhesive coating` 粘合层 
-    - `epoxy resin adhesive` 环氧树脂胶；二合一黏合剂 
-    - `adhesive bonding` 粘合剂 
-    - `adhesive wear` [物]粘着磨损 
-    - `adhesive film` 胶膜；粘附膜 
-    - `conductive adhesive` 导电粘合剂 
-    - `adhesive power` 粘合力 
-    - `adhesive ability` 附着能力；粘着能力；粘附能力 
-    - `adhesive label` 胶粘标签；不干胶标签 
+    - `adhesive tape`
+      - 胶布 
+    - `adhesive strength`
+      - 粘合强度 
+    - `resin adhesive`
+      - 树脂型胶粘剂，树脂胶 
+    - `adhesive force`
+      - 粘合力，附着力 
+    - `hot melt adhesive`
+      - n. 热熔胶；热熔性胶粘剂 
+    - `pressure sensitive adhesive`
+      - 压敏粘着剂；压感胶粘剂；压敏型黏合剂 
+    - `epoxy adhesive`
+      - 环氧胶粘剂；环氧尸粘合剂 
+    - `emulsion adhesive`
+      - 乳化胶，乳液型粘合剂 
+    - `adhesive property`
+      - 粘着性；黏着性；粘结力 
+    - `adhesive plaster`
+      - 橡皮膏 
+    - `structural adhesive`
+      - 结构型胶粘剂 
+    - `adhesive coating`
+      - 粘合层 
+    - `epoxy resin adhesive`
+      - 环氧树脂胶；二合一黏合剂 
+    - `adhesive bonding`
+      - 粘合剂 
+    - `adhesive wear`
+      - [物]粘着磨损 
+    - `adhesive film`
+      - 胶膜；粘附膜 
+    - `conductive adhesive`
+      - 导电粘合剂 
+    - `adhesive power`
+      - 粘合力 
+    - `adhesive ability`
+      - 附着能力；粘着能力；粘附能力 
+    - `adhesive label`
+      - 胶粘标签；不干胶标签 
   - 例句
     - `...adhesive tape.`
       - …胶布。

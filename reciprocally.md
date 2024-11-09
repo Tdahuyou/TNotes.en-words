@@ -1,16 +1,22 @@
 - reciprocally
   - 发音
-    - 英 `/rɪ'sɪprəkli/`
-    - 美 `/undefined/`
+    - 英
+      - `/rɪ'sɪprəkli/`
+    - 美
+      - `/undefined/`
   - 词义
-    - adv. 相互地；相反地
+    - adv.
+      - 相互地；相反地
   - 同根词
     - adj.
-      - `reciprocal` 互惠的；相互的；倒数的，彼此相反的
+      - `reciprocal`
+        - 互惠的；相互的；倒数的，彼此相反的
     - n.
-      - `reciprocal` [数] 倒数；互相起作用的事物
+      - `reciprocal`
+        - [数] 倒数；互相起作用的事物
   - 近义词
-    - adv. 相互地；相反地；互惠地
-      - `contrary`
-      - `counter`
-      - `backward`
+    - adv.
+      - 相互地；相反地；互惠地
+        - `contrary`
+        - `counter`
+        - `backward`

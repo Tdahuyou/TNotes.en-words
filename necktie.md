@@ -1,17 +1,22 @@
 - necktie
   - 发音
-    - 英 `/'nektaɪ/`
-    - 美 `/'nɛk'tai/`
+    - 英
+      - `/'nektaɪ/`
+    - 美
+      - `/'nɛk'tai/`
   - 词义
-    - n. 领带
-    - `a man’s tie`
+    - n.
+      - 领带
+        - `a man’s tie`
   - 同根词
     - n.
-      - `neckcloth` 围巾；领带
+      - `neckcloth`
+        - 围巾；领带
   - 近义词
-    - n. 领带
-      - `tie`
-      - `cravat`
+    - n.
+      - 领带
+        - `tie`
+        - `cravat`
   - 例句
     - `Really? I should untie the necktie right now.`
       - 真的吗？那我还是赶紧把领带解了。

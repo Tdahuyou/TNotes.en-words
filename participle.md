@@ -1,18 +1,25 @@
 - participle
   - 发音
-    - 英 `/'pɑːtɪsɪp(ə)l/`
-    - 美 `/'pɑrtə'sɪpl/`
+    - 英
+      - `/'pɑːtɪsɪp(ə)l/`
+    - 美
+      - `/'pɑrtə'sɪpl/`
   - 词义
-    - n. 分词
-    - `one of the forms of a verb that are used to make tenses. In English,  present participle s  end in -ing and  past participle s  usually end in -ed or -en.`
+    - n.
+      - 分词
+        - `one of the forms of a verb that are used to make tenses. In English,  present participle s  end in -ing and  past participle s  usually end in -ed or -en.`
   - 同根词
     - adj.
-      - `participial` 分词的
+      - `participial`
+        - 分词的
     - n.
-      - `participial` 分词
+      - `participial`
+        - 分词
   - 短语
-    - `past participle` 过去分词 
-    - `present participle` 现在分词 
+    - `past participle`
+      - 过去分词 
+    - `present participle`
+      - 现在分词 
   - 例句
     - `Teacher: "John, what is the past participle of the verb to ring?"`
       - 老师：“John，动词ring的过去分词是什么？”

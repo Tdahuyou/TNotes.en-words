@@ -1,19 +1,25 @@
 - flail
   - 发音
-    - 英 `/fleɪl/`
-    - 美 `/flel/`
+    - 英
+      - `/fleɪl/`
+    - 美
+      - `/flel/`
   - 词义
-    - v. 打；用连枷打
-    - `to beat someone or something violently, usually with a stick`
-    - n. 连枷（打谷物用的工具）
-    - `a tool consisting of a stick that swings from a long handle, used in the past to separate grain from wheat by beating it`
+    - v.
+      - 打；用连枷打
+        - `to beat someone or something violently, usually with a stick`
+    - n.
+      - 连枷（打谷物用的工具）
+        - `a tool consisting of a stick that swings from a long handle, used in the past to separate grain from wheat by beating it`
   - 近义词
-    - vt. 打；用连枷打
-      - `strike`
-      - `beat upon`
-    - vi. 打；用连枷打
-      - `strike`
-      - `hit`
+    - vt.
+      - 打；用连枷打
+        - `strike`
+        - `beat upon`
+    - vi.
+      - 打；用连枷打
+        - `strike`
+        - `hit`
   - 例句
     - `I wield the flail of the lashing hail, And whiten the green plains under.`
       - 我挥动冰雹的连枷，把绿色的原野捶打得有如银装素裹；

@@ -1,35 +1,47 @@
 - lodge
   - 发音
-    - 英 `/lɑːdʒ/`
-    - 美 `/lɑdʒ/`
+    - 英
+      - `/lɑːdʒ/`
+    - 美
+      - `/lɑdʒ/`
   - 词义
-    - v. 正式提出；租住，借宿；为…提供住宿；寄存
-    - `to provide someone with a place to stay for a short time`
-    - n. 巢穴；旅社；乡间小屋
-    - `a small house on the land of a large country house, usually at the main entrance gate`
+    - v.
+      - 正式提出；租住，借宿；为…提供住宿；寄存
+        - `to provide someone with a place to stay for a short time`
+    - n.
+      - 巢穴；旅社；乡间小屋
+        - `a small house on the land of a large country house, usually at the main entrance gate`
   - 记忆
     - “落脚” → 落脚的地方 → 巢穴
   - 同根词
     - n.
-      - `lodging` 寄宿；寄宿处；出租的房间、住房
-      - `lodgement` 住宿；寄存；沉积（等于lodgment）
-      - `lodger` 房客；寄宿人；投宿者
+      - `lodging`
+        - 寄宿；寄宿处；出租的房间、住房
+      - `lodgement`
+        - 住宿；寄存；沉积（等于lodgment）
+      - `lodger`
+        - 房客；寄宿人；投宿者
   - 近义词
-    - n. 旅馆；门房；集会处；山林小屋
-      - `hotel`
-      - `fonda`
-    - vt. 提出；寄存；借住；嵌入
-      - `introduce`
-      - `present`
-      - `prefer`
-      - `file`
-      - `advance`
-    - vi. 寄宿；临时住宿
-      - `board`
-      - `guest`
+    - n.
+      - 旅馆；门房；集会处；山林小屋
+        - `hotel`
+        - `fonda`
+    - vt.
+      - 提出；寄存；借住；嵌入
+        - `introduce`
+        - `present`
+        - `prefer`
+        - `file`
+        - `advance`
+    - vi.
+      - 寄宿；临时住宿
+        - `board`
+        - `guest`
   - 短语
-    - `lodge a claim` 提出索赔 
-    - `lodge a complaint` 投诉；对…提出控告 
+    - `lodge a claim`
+      - 提出索赔 
+    - `lodge a complaint`
+      - 投诉；对…提出控告 
   - 例句
     - `a building used to lodge prisoners of war`
       - 一座关押战俘的建筑物

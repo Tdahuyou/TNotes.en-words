@@ -1,20 +1,27 @@
 - bilious
   - 发音
-    - 英 `/'bɪlɪəs/`
-    - 美 `/'bɪlɪəs/`
+    - 英
+      - `/'bɪlɪəs/`
+    - 美
+      - `/'bɪlɪəs/`
   - 词义
-    - adj. 胆汁质的,坏脾气的
-    - `bad-tempered`
+    - adj.
+      - 胆汁质的,坏脾气的
+        - `bad-tempered`
   - 同根词
     - adj.
-      - `biliary` 胆的；胆汁的；输送胆汁的；由于胆汁异状的
+      - `biliary`
+        - 胆的；胆汁的；输送胆汁的；由于胆汁异状的
     - n.
-      - `bile` 胆汁；愤怒
-      - `biliousness` 身体不适感；暴躁
+      - `bile`
+        - 胆汁；愤怒
+      - `biliousness`
+        - 身体不适感；暴躁
   - 近义词
-    - adj. 胆汁的；坏脾气的
-      - `cholic`
-      - `ornery`
+    - adj.
+      - 胆汁的；坏脾气的
+        - `cholic`
+        - `ornery`
   - 例句
     - `She felt a bilious attack coming on.`
       - 她感到一阵恶心。

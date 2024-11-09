@@ -1,15 +1,22 @@
 - viscount
   - 发音
-    - 英 `/'vaɪkaʊnt/`
-    - 美 `/'vaɪkaʊnt/`
+    - 英
+      - `/'vaɪkaʊnt/`
+    - 美
+      - `/'vaɪkaʊnt/`
   - 词义
-    - n. （英国的）子爵
-    - `a British nobleman with a rank between that of an earl and a baron`
+    - n.
+      - （英国的）子爵
+        - `a British nobleman with a rank between that of an earl and a baron`
   - 同根词
     - n.
-      - `viscountcy` 子爵的身份；子爵的头衔
-      - `viscountess` 女子爵；子爵夫人
-      - `viscounty` 子爵的管辖区；身份；地位；头衔
+      - `viscountcy`
+        - 子爵的身份；子爵的头衔
+      - `viscountess`
+        - 女子爵；子爵夫人
+      - `viscounty`
+        - 子爵的管辖区；身份；地位；头衔
   - 近义词
-    - n. （英国的）子爵
-      - `vicomte`
+    - n.
+      - （英国的）子爵
+        - `vicomte`

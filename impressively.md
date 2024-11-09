@@ -1,17 +1,26 @@
 - impressively
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - adj. 令人难忘地,令人印象深刻地
+    - adj.
+      - 令人难忘地,令人印象深刻地
   - 同根词
     - adj.
-      - `impressive` 感人的；令人钦佩的；给人以深刻印象的
-      - `impressionable` 敏感的；易受影响的
-      - `impressible` 敏感的；感受性强烈的；易感动的
+      - `impressive`
+        - 感人的；令人钦佩的；给人以深刻印象的
+      - `impressionable`
+        - 敏感的；易受影响的
+      - `impressible`
+        - 敏感的；感受性强烈的；易感动的
     - n.
-      - `impression` 印象；效果，影响；压痕，印记；感想
-      - `impressiveness` 令人难忘；印象性；感人
+      - `impression`
+        - 印象；效果，影响；压痕，印记；感想
+      - `impressiveness`
+        - 令人难忘；印象性；感人
   - 近义词
-    - adv. 令人难忘地；感人地
-      - `movingly`
+    - adv.
+      - 令人难忘地；感人地
+        - `movingly`

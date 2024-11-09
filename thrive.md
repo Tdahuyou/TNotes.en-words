@@ -1,23 +1,30 @@
 - thrive
   - 发音
-    - 英 `/θraɪv/`
-    - 美 `/θraɪv/`
+    - 英
+      - `/θraɪv/`
+    - 美
+      - `/θraɪv/`
   - 词义
-    - vi. 茂盛；茁壮成长；兴旺，繁荣
-    - `to become very successful or very strong and healthy`
+    - vi.
+      - 茂盛；茁壮成长；兴旺，繁荣
+        - `to become very successful or very strong and healthy`
   - 记忆
     - th + rive(看做river， 河) → 古时大河都是文明的发源地 → 茂盛
   - 同根词
     - adj.
-      - `thriving` 繁荣的；蒸蒸日上的；旺盛的
+      - `thriving`
+        - 繁荣的；蒸蒸日上的；旺盛的
     - v.
-      - `thriving` 兴旺（thrive的ing形式）
+      - `thriving`
+        - 兴旺（thrive的ing形式）
   - 近义词
-    - vi. 繁荣，兴旺；茁壮成长
-      - `succeed`
-      - `flower`
+    - vi.
+      - 繁荣，兴旺；茁壮成长
+        - `succeed`
+        - `flower`
   - 短语
-    - `thrive on` 以……成长 
+    - `thrive on`
+      - 以……成长 
   - 例句
     - `plants that thrive in tropical rain forests`
       - 在热带雨林蓬勃生长的植物

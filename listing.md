@@ -1,29 +1,43 @@
 - listing
   - 发音
-    - 英 `/'listiŋ/`
-    - 美 `/'lɪstɪŋ/`
+    - 英
+      - `/'listiŋ/`
+    - 美
+      - `/'lɪstɪŋ/`
   - 词义
-    - n. 列表
-    - `an official or public list`
+    - n.
+      - 列表
+        - `an official or public list`
   - 同根词
     - adj.
-      - `listed` 列出的；表列的；已登录的
+      - `listed`
+        - 列出的；表列的；已登录的
     - n.
-      - `list` [计] 列表；清单；目录
-      - `lister` 制表人；双耕犁
+      - `list`
+        - [计] 列表；清单；目录
+      - `lister`
+        - 制表人；双耕犁
     - v.
-      - `listed` 列出；登记（list的过去分词）
+      - `listed`
+        - 列出；登记（list的过去分词）
     - vi.
-      - `list` 列于表上
+      - `list`
+        - 列于表上
     - vt.
-      - `list` 列出；记入名单内
+      - `list`
+        - 列出；记入名单内
   - 近义词
-    - n. [计]列表，清单
-      - `statement`
-      - `bill`
-    - v. [计]列表（list的现在分词）
-      - `tabbing`
+    - n.
+      - [计]列表，清单
+        - `statement`
+        - `bill`
+    - v.
+      - [计]列表（list的现在分词）
+        - `tabbing`
   - 短语
-    - `directory listing` [计]目录列表 
-    - `listing price` 牌价；上市价格 
-    - `secondary listing` 第二上市；次上市，次级上市 
+    - `directory listing`
+      - [计]目录列表 
+    - `listing price`
+      - 牌价；上市价格 
+    - `secondary listing`
+      - 第二上市；次上市，次级上市 

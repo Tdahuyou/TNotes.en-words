@@ -1,16 +1,21 @@
 - banality
   - 发音
-    - 英 `/bə'nælɪtɪ/`
-    - 美 `/undefined/`
+    - 英
+      - `/bə'nælɪtɪ/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 平凡,陈腐
+    - n.
+      - 平凡,陈腐
   - 同根词
     - adj.
-      - `banal` 陈腐的；平庸的；老一套的
+      - `banal`
+        - 陈腐的；平庸的；老一套的
   - 近义词
-    - n. 平凡；陈腐；陈词滥调
-      - `ordinariness`
-      - `trivialness`
+    - n.
+      - 平凡；陈腐；陈词滥调
+        - `ordinariness`
+        - `trivialness`
   - 例句
     - `It is a mass-producer of banality.`
       - 这是陈腐平庸的大规模制造者。

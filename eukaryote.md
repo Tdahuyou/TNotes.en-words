@@ -1,16 +1,21 @@
 - eukaryote
   - 发音
-    - 英 `/juː'kærɪəʊt/`
-    - 美 `/jʊ'kæriot; jʊ'kæriət/`
+    - 英
+      - `/juː'kærɪəʊt/`
+    - 美
+      - `/jʊ'kæriot; jʊ'kæriət/`
   - 词义
-    - n. 〈生〉真核细胞
-    - `any member of the Eukarya, a domain of organisms having cells each with a distinct nucleus within which the genetic material is contained`
+    - n.
+      - 〈生〉真核细胞
+        - `any member of the Eukarya, a domain of organisms having cells each with a distinct nucleus within which the genetic material is contained`
   - 同根词
     - adj.
-      - `eukaryotic` 真核的，真核生物的
+      - `eukaryotic`
+        - 真核的，真核生物的
   - 近义词
-    - n. 真核细胞（等于eucaryote）
-      - `eucaryon`
+    - n.
+      - 真核细胞（等于eucaryote）
+        - `eucaryon`
   - 例句
     - `Scientists now know that this common ancestor, 'the first eukaryote', was a lot more sophisticated than any known bacterium.`
       - 科学家现在知道，这个共同的祖先，“第一真核生物”比任何已知的细菌都要复杂得多。

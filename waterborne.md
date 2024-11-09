@@ -1,11 +1,15 @@
 - waterborne
   - 发音
-    - 英 `/'wɔːtəbɔːn/`
-    - 美 `/'wɔtəbɔn/`
+    - 英
+      - `/'wɔːtəbɔːn/`
+    - 美
+      - `/'wɔtəbɔn/`
   - 词义
-    - adv. 水上的,水运的
+    - adv.
+      - 水上的,水运的
   - 短语
-    - `waterborne disease` 水传疾病，水传播病 
+    - `waterborne disease`
+      - 水传疾病，水传播病 
   - 例句
     - `Because they measured success only by the number of wells built and the decline of waterborne illnesses, they missed early signs of the arsenicosis crisis.`
       - 因为他们认为的成功只是水井的数量和减少水传播的疾病，他们忽视掉了早期砷中毒所带来的危机信号。

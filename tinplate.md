@@ -1,14 +1,18 @@
 - tinplate
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 镀锡铁皮,马口铁
-    - `very thin sheets of iron or steel covered with  tin `
+    - n.
+      - 镀锡铁皮,马口铁
+        - `very thin sheets of iron or steel covered with  tin `
   - 近义词
-    - n. [材]马口铁；镀锡铁皮；洋铁
-      - `blik`
-      - `tin`
+    - n.
+      - [材]马口铁；镀锡铁皮；洋铁
+        - `blik`
+        - `tin`
   - 例句
     - `Indian Railway paint and tinplate production sheared.`
       - 生产印铁涂料和马口铁剪切。

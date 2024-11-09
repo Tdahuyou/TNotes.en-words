@@ -1,15 +1,19 @@
 - cosmopolitanism
   - 发音
-    - 英 `/ˌkɑːzmə'pɑːlɪtənɪzəm/`
-    - 美 `/undefined/`
+    - 英
+      - `/ˌkɑːzmə'pɑːlɪtənɪzəm/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 世界性，世界主义
+    - n.
+      - 世界性，世界主义
   - 记忆
     - 来自cosmopolis(n. 国际都市)
   - 近义词
-    - n. 世界主义；世界大同主义；四海一家
-      - `supranationalism`
-      - `Friendly Persuasion`
+    - n.
+      - 世界主义；世界大同主义；四海一家
+        - `supranationalism`
+        - `Friendly Persuasion`
   - 例句
     - `A certain optimism adheres to the notion of a new cosmopolitanism.`
       - 坚持某种乐观的概念，一个新的世界主义。

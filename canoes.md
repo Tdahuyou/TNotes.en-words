@@ -1,10 +1,13 @@
 - canoes
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 独木舟
-    - `A canoe is a small, narrow boat that you move through the water using a stick with a wide end called a paddle`
+    - n.
+      - 独木舟
+        - `A canoe is a small, narrow boat that you move through the water using a stick with a wide end called a paddle`
   - 例句
     - `Nearby were two canoes in which they had cine to the island.`
       - 附近有二条独木舟，他们就是坐这个独木舟来的。

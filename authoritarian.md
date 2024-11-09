@@ -1,18 +1,25 @@
 - authoritarian
   - 发音
-    - 英 `/ɔː,θɒrɪ'teərɪən/`
-    - 美 `/ə,θɔrə'tɛrɪən/`
+    - 英
+      - `/ɔː,θɒrɪ'teərɪən/`
+    - 美
+      - `/ə,θɔrə'tɛrɪən/`
   - 词义
-    - adj. 独裁主义的；权力主义的
-    - `strictly forcing people to obey a set of rules or laws, especially ones that are wrong or unfair`
-    - n. 权力主义者；独裁主义者
+    - adj.
+      - 独裁主义的；权力主义的
+        - `strictly forcing people to obey a set of rules or laws, especially ones that are wrong or unfair`
+    - n.
+      - 权力主义者；独裁主义者
   - 同根词
     - n.
-      - `authority` 权威；权力；当局
-      - `authoritarianism` 独裁主义；权力主义
+      - `authority`
+        - 权威；权力；当局
+      - `authoritarianism`
+        - 独裁主义；权力主义
   - 近义词
-    - n. 权力主义者；独裁主义者
-      - `monocrat`
+    - n.
+      - 权力主义者；独裁主义者
+        - `monocrat`
   - 例句
     - `an authoritarian government`
       - 独裁政府

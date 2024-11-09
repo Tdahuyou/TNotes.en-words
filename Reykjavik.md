@@ -1,9 +1,12 @@
 - Reykjavik
   - 发音
-    - 英 `/'reikjəvik; -vi:k/`
-    - 美 `/'reikjəvik; -vi:k/`
+    - 英
+      - `/'reikjəvik; -vi:k/`
+    - 美
+      - `/'reikjəvik; -vi:k/`
   - 词义
-    - n. 雷克雅末(冰岛首都)
+    - n.
+      - 雷克雅末(冰岛首都)
   - 例句
     - `He has built a comfortable life in Reykjavik with his family. They vacation abroad.`
       - 他和家人在雷克雅维克过得舒舒服服，还能到国外度假。

@@ -1,15 +1,19 @@
 - queasy
   - 发音
-    - 英 `/'kwiːzi/`
-    - 美 `/'kwizi/`
+    - 英
+      - `/'kwiːzi/`
+    - 美
+      - `/'kwizi/`
   - 词义
-    - adj. 令人作恶的；忧虑的
+    - adj.
+      - 令人作恶的；忧虑的
   - 记忆
     - qu (看作quite, 很) + easy (轻松) → 笑一笑， 十年少， 不必忧虑 → 忧虑的
   - 近义词
-    - adj. 呕吐的；不稳定的；催吐的
-      - `unstable`
-      - `volatile`
+    - adj.
+      - 呕吐的；不稳定的；催吐的
+        - `unstable`
+        - `volatile`
   - 例句
     - `The sea got rougher, and I began to feel queasy.`
       - 海上风浪更猛了，我开始感到有点恶心想吐。

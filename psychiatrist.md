@@ -1,28 +1,42 @@
 - psychiatrist
   - 发音
-    - 英 `/saɪ'kaɪətrɪst/`
-    - 美 `/saɪ'kaɪətrɪst/`
+    - 英
+      - `/saɪ'kaɪətrɪst/`
+    - 美
+      - `/saɪ'kaɪətrɪst/`
   - 词义
-    - n. 精神病学家，精神病医生
-    - `a doctor trained in the treatment of mental illness`
+    - n.
+      - 精神病学家，精神病医生
+        - `a doctor trained in the treatment of mental illness`
   - 同根词
     - adj.
-      - `psychic` 精神的；心灵的；灵魂的；超自然的
-      - `psychiatric` 精神病学的；精神病治疗的
-      - `psychoactive` 影响心理状态的；作用于精神的
-      - `psychoanalytic` 精神分析的；心理分析的
-      - `psychiatrical` 精神病治疗的；精神病学的
-      - `psychoanalytical` 精神分析的
+      - `psychic`
+        - 精神的；心灵的；灵魂的；超自然的
+      - `psychiatric`
+        - 精神病学的；精神病治疗的
+      - `psychoactive`
+        - 影响心理状态的；作用于精神的
+      - `psychoanalytic`
+        - 精神分析的；心理分析的
+      - `psychiatrical`
+        - 精神病治疗的；精神病学的
+      - `psychoanalytical`
+        - 精神分析的
     - adv.
-      - `psychically` 精神上
+      - `psychically`
+        - 精神上
     - n.
-      - `psychic` 灵媒；巫师
-      - `psychiatry` 精神病学；精神病治疗法
-      - `psychoanalysis` 精神分析；心理分析
+      - `psychic`
+        - 灵媒；巫师
+      - `psychiatry`
+        - 精神病学；精神病治疗法
+      - `psychoanalysis`
+        - 精神分析；心理分析
   - 近义词
-    - n. [心理][内科]精神病学家，精神病医生
-      - `alienist`
-      - `trick cyclist`
+    - n.
+      - [心理][内科]精神病学家，精神病医生
+        - `alienist`
+        - `trick cyclist`
   - 例句
     - `He and his wife live in North Carolina, where he is a psychiatrist.`
       - 他和妻子住在卡罗莱纳州北部，他是一名精神病医生。

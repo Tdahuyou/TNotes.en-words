@@ -1,10 +1,13 @@
 - townscape
   - 发音
-    - 英 `/'taunskeɪp/`
-    - 美 `/'taʊnskep/`
+    - 英
+      - `/'taunskeɪp/`
+    - 美
+      - `/'taʊnskep/`
   - 词义
-    - n. 市镇风光
-    - `the way a town or large parts of a town look`
+    - n.
+      - 市镇风光
+        - `the way a town or large parts of a town look`
   - 记忆
     - town(市镇) + scape(景色) → 市镇风光
   - 例句

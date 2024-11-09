@@ -1,19 +1,27 @@
 - oceanography
   - 发音
-    - 英 `/,əʊʃə'nɒgrəfɪ/`
-    - 美 `/,oʃə'nɑɡrəfi/`
+    - 英
+      - `/,əʊʃə'nɒgrəfɪ/`
+    - 美
+      - `/,oʃə'nɑɡrəfi/`
   - 词义
-    - n. 海洋学
-    - `the scientific study of the ocean`
+    - n.
+      - 海洋学
+        - `the scientific study of the ocean`
   - 同根词
     - adj.
-      - `oceanic` 海洋的；海洋产出的；在海洋中生活的；广阔无垠的
+      - `oceanic`
+        - 海洋的；海洋产出的；在海洋中生活的；广阔无垠的
     - n.
-      - `ocean` 海洋；大量；广阔
-      - `oceanographer` 海洋学家；海洋研究者
-      - `oceanology` 海洋资源研究；海洋学
+      - `ocean`
+        - 海洋；大量；广阔
+      - `oceanographer`
+        - 海洋学家；海洋研究者
+      - `oceanology`
+        - 海洋资源研究；海洋学
   - 短语
-    - `physical oceanography` 物理海洋学；海洋物理学 
+    - `physical oceanography`
+      - 物理海洋学；海洋物理学 
   - 例句
     - `She wanted to introduce students to oceanography so that they might apply their knowledge to solve global challenges like climate change.`
       - 她要把海洋学介绍给学生们，希望他们能应用他们所学的知识去解决气候变化等全球性难题。

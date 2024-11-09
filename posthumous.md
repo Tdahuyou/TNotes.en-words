@@ -1,15 +1,19 @@
 - posthumous
   - 发音
-    - 英 `/'pɑːstʃəməs/`
-    - 美 `/'pɑstʃəməs/`
+    - 英
+      - `/'pɑːstʃəməs/`
+    - 美
+      - `/'pɑstʃəməs/`
   - 词义
-    - adj. 死后的，身后的
-    - `happening, printed etc after someone’s death`
+    - adj.
+      - 死后的，身后的
+        - `happening, printed etc after someone’s death`
   - 记忆
     - post(在…之后) + hum(人) + ous → 在活着之后的 → 死后的
   - 同根词
     - adv.
-      - `posthumously` 于死后，于身后；于著作者死后出版地
+      - `posthumously`
+        - 于死后，于身后；于著作者死后出版地
   - 例句
     - `a posthumous collection of his articles`
       - 他身后出版的文集

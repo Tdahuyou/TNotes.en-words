@@ -1,17 +1,22 @@
 - hemoglobin
   - 发音
-    - 英 `/ˌhiːməu'gləubin/`
-    - 美 `/,hɛmo'ɡlobɪn/`
+    - 英
+      - `/ˌhiːməu'gləubin/`
+    - 美
+      - `/,hɛmo'ɡlobɪn/`
   - 词义
-    - n. 血红蛋白
-    - `Haemoglobin is the red substance in blood, which combines with oxygen and carries it around the body`
+    - n.
+      - 血红蛋白
+        - `Haemoglobin is the red substance in blood, which combines with oxygen and carries it around the body`
   - 同根词
     - n.
-      - `hemoglobinopathy` [内科] 血红蛋白病（等于haemoglobinopathy ）
+      - `hemoglobinopathy`
+        - [内科] 血红蛋白病（等于haemoglobinopathy ）
   - 近义词
-    - n. [生化]血红蛋白（等于haemoglobin）；血红素
-      - `hematoglobin`
-      - `haemoglobin`
+    - n.
+      - [生化]血红蛋白（等于haemoglobin）；血红素
+        - `hematoglobin`
+        - `haemoglobin`
   - 例句
     - `Please wait for the result of your hemoglobin test.`
       - 请等一下你的血红蛋白化验结果。

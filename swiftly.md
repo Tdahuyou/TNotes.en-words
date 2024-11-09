@@ -1,22 +1,30 @@
 - swiftly
   - 发音
-    - 英 `/'swiftli/`
-    - 美 `/'swɪftli/`
+    - 英
+      - `/'swiftli/`
+    - 美
+      - `/'swɪftli/`
   - 词义
-    - adv. 很快地,即刻
+    - adv.
+      - 很快地,即刻
   - 同根词
     - adj.
-      - `swift` 快的；迅速的；敏捷的；立刻的
+      - `swift`
+        - 快的；迅速的；敏捷的；立刻的
     - adv.
-      - `swift` 迅速地
+      - `swift`
+        - 迅速地
     - n.
-      - `swift` 褐雨燕
-      - `swiftness` 迅速，敏捷；快
+      - `swift`
+        - 褐雨燕
+      - `swiftness`
+        - 迅速，敏捷；快
   - 近义词
-    - adv. 很快地；敏捷地；即刻
-      - `quickly`
-      - `rapidly`
-      - `promptly`
+    - adv.
+      - 很快地；敏捷地；即刻
+        - `quickly`
+        - `rapidly`
+        - `promptly`
   - 例句
     - `As I looked swiftly away, it seemed to me that his glance held some kind of unmet expectation.`
       - 我很快地看向别处，对我来说他的目光里似乎带着某种得不到满足的渴望。

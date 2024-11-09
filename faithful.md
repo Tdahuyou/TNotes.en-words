@@ -1,26 +1,37 @@
 - faithful
   - 发音
-    - 英 `/'feɪθfʊl; -f(ə)l/`
-    - 美 `/'feθfəl/`
+    - 英
+      - `/'feɪθfʊl; -f(ə)l/`
+    - 美
+      - `/'feθfəl/`
   - 词义
-    - adj. 守信的,忠实的
-    - `remaining loyal to a particular person, belief, political party etc and continuing to support them`
+    - adj.
+      - 守信的,忠实的
+        - `remaining loyal to a particular person, belief, political party etc and continuing to support them`
   - 同根词
     - adj.
-      - `faithless` 不忠实的；无信的；无宗教信仰的
+      - `faithless`
+        - 不忠实的；无信的；无宗教信仰的
     - adv.
-      - `faithfully` 忠实地；如实地；诚心诚意地；深信着地
-      - `faithlessly` 靠不住地；不忠实地
+      - `faithfully`
+        - 忠实地；如实地；诚心诚意地；深信着地
+      - `faithlessly`
+        - 靠不住地；不忠实地
     - n.
-      - `faith` 信仰；信念；信任；忠实
-      - `faithfulness` 忠诚；诚实；正确
-      - `faithlessness` 不贞；无信仰；不可信赖
+      - `faith`
+        - 信仰；信念；信任；忠实
+      - `faithfulness`
+        - 忠诚；诚实；正确
+      - `faithlessness`
+        - 不贞；无信仰；不可信赖
   - 近义词
-    - adj. 忠实的，忠诚的；如实的；准确可靠的
-      - `loving`
-      - `devoted`
+    - adj.
+      - 忠实的，忠诚的；如实的；准确可靠的
+        - `loving`
+        - `devoted`
   - 短语
-    - `old faithful` 追随者；忠实的支持者 
+    - `old faithful`
+      - 追随者；忠实的支持者 
   - 例句
     - `a faithful friend`
       - 忠诚的朋友

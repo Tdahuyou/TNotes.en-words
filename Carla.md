@@ -1,9 +1,12 @@
 - Carla
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 卡拉（女名）
+    - n.
+      - 卡拉（女名）
   - 例句
     - `He sees that cancer is a world unto itself; that Carla is now part of this world; and that he is part of it, too.`
       - 他认识到癌症就是一个自我施加的世界；卡拉现在就是这个世界的一部分了；而他自己也是这个世界的一部分。

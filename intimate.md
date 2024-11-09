@@ -1,38 +1,52 @@
 - intimate
   - 发音
-    - 英 `/'ɪntɪmət/`
-    - 美 `/ˈɪntəmɪt/`
+    - 英
+      - `/'ɪntɪmət/`
+    - 美
+      - `/ˈɪntəmɪt/`
   - 词义
-    - adj. 亲密的，密切的；详尽的，精通的；个人隐私的
-    - `having an extremely close friendship`
-    - v. 暗示，透露
-    - `to make people understand what you mean without saying it directly`
-    - n. 至交，密友
-    - `a close personal friend`
+    - adj.
+      - 亲密的，密切的；详尽的，精通的；个人隐私的
+        - `having an extremely close friendship`
+    - v.
+      - 暗示，透露
+        - `to make people understand what you mean without saying it directly`
+    - n.
+      - 至交，密友
+        - `a close personal friend`
   - 记忆
     - in + ti + mate(伙伴) + ate → 互为好伙伴 → 亲密的
   - 同根词
     - adv.
-      - `intimately` 熟悉地；亲切地；私下地
+      - `intimately`
+        - 熟悉地；亲切地；私下地
     - n.
-      - `intimacy` 性行为；亲密；亲昵行为；隐私
-      - `intimation` 暗示；告知；讽示
+      - `intimacy`
+        - 性行为；亲密；亲昵行为；隐私
+      - `intimation`
+        - 暗示；告知；讽示
   - 近义词
-    - adj. 亲密的；私人的；精通的；有性关系的
-      - `private`
-      - `close`
-      - `perfect`
-      - `chamber`
-    - n. 知己；至交
-      - `confidant`
-      - `alter ego`
-    - vt. 暗示；通知；宣布
-      - `bill`
-      - `message`
+    - adj.
+      - 亲密的；私人的；精通的；有性关系的
+        - `private`
+        - `close`
+        - `perfect`
+        - `chamber`
+    - n.
+      - 知己；至交
+        - `confidant`
+        - `alter ego`
+    - vt.
+      - 暗示；通知；宣布
+        - `bill`
+        - `message`
   - 短语
-    - `intimate relationship` 亲密的关系 
-    - `intimate friend` 知交，知己 
-    - `intimate contact` 亲密接触 
+    - `intimate relationship`
+      - 亲密的关系 
+    - `intimate friend`
+      - 知交，知己 
+    - `intimate contact`
+      - 亲密接触 
   - 例句
     - `an intimate friend of Picasso’s`
       - 毕加索的一个密友

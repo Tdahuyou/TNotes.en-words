@@ -1,11 +1,16 @@
 - pluto
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 冥王星,阴间之神
-    - `the god of the underworld; Hades `
+    - n.
+      - 冥王星,阴间之神
+        - `the god of the underworld; Hades `
   - 同根词
     - adj.
-      - `plutonic` 火成岩的；冥王星的
-      - `plutonian` 冥王星的；冥界的；深成岩的
+      - `plutonic`
+        - 火成岩的；冥王星的
+      - `plutonian`
+        - 冥王星的；冥界的；深成岩的

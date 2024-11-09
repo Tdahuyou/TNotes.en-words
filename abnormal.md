@@ -1,32 +1,48 @@
 - abnormal
   - 发音
-    - 英 `/æb'nɔːrml/`
-    - 美 `/æbˈnɔːrml/`
+    - 英
+      - `/æb'nɔːrml/`
+    - 美
+      - `/æbˈnɔːrml/`
   - 词义
-    - adj. 反常的，变态的
-    - `very different from usual in a way that seems strange, worrying, wrong, or dangerous`
+    - adj.
+      - 反常的，变态的
+        - `very different from usual in a way that seems strange, worrying, wrong, or dangerous`
   - 记忆
     - ab(反) + norm(规则) + al → 违反规则的 → 反常的
   - 同根词
     - adv.
-      - `abnormally` 反常地；变态地；不规则地
+      - `abnormally`
+        - 反常地；变态地；不规则地
     - n.
-      - `abnormality` 异常；畸形，变态
-      - `abnormalcy` 反常；变态；畸形（等于abnormality）
+      - `abnormality`
+        - 异常；畸形，变态
+      - `abnormalcy`
+        - 反常；变态；畸形（等于abnormality）
   - 近义词
-    - adj. 反常的，不规则的；变态的
-      - `unnatural`
-      - `eccentric`
+    - adj.
+      - 反常的，不规则的；变态的
+        - `unnatural`
+        - `eccentric`
   - 短语
-    - `abnormal phenomena` 异常现象 
-    - `abnormal behavior` 异常行为；变态行为 
-    - `abnormal condition` 异常情况 
-    - `abnormal psychology` 变态心理学 
-    - `abnormal sound` 不正常声音；杂音 
-    - `abnormal return` 异常返回 
-    - `abnormal situation` 异常情况 
-    - `abnormal distribution` [化]非正态分布 
-    - `abnormal menstruation` 月经失调 
+    - `abnormal phenomena`
+      - 异常现象 
+    - `abnormal behavior`
+      - 异常行为；变态行为 
+    - `abnormal condition`
+      - 异常情况 
+    - `abnormal psychology`
+      - 变态心理学 
+    - `abnormal sound`
+      - 不正常声音；杂音 
+    - `abnormal return`
+      - 异常返回 
+    - `abnormal situation`
+      - 异常情况 
+    - `abnormal distribution`
+      - [化]非正态分布 
+    - `abnormal menstruation`
+      - 月经失调 
   - 例句
     - `abnormal behaviour`
       - 反常行为

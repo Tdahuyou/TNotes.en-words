@@ -1,11 +1,15 @@
 - smelting
   - 发音
-    - 英 `/'smeltɪŋ/`
-    - 美 `/undefined/`
+    - 英
+      - `/'smeltɪŋ/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 冶炼，熔炼
+    - n.
+      - 冶炼，熔炼
   - 短语
-    - `smelting furnace` 冶炼炉；熔化炉 
+    - `smelting furnace`
+      - 冶炼炉；熔化炉 
   - 例句
     - `You see he mentioned smelting.`
       - 你看他提到了熔炼。

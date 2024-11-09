@@ -1,7 +1,9 @@
 - Lausanne
   - 发音
-    - 英 `/ləu'zɑ:n; -'zæn/`
-    - 美 `/lo'zæn/`
+    - 英
+      - `/ləu'zɑ:n; -'zæn/`
+    - 美
+      - `/lo'zæn/`
   - 词义
   - 例句
     - `Well, he was still helping her a year later, then; for somebody met 'em living at Lausanne together.`

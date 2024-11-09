@@ -1,28 +1,39 @@
 - collaborative
   - 发音
-    - 英 `/kə'læbəreɪtɪv/`
-    - 美 `/kə'læbəretɪv/`
+    - 英
+      - `/kə'læbəreɪtɪv/`
+    - 美
+      - `/kə'læbəretɪv/`
   - 词义
-    - adj. 合作的，协作的
-    - `a job or piece of work that involves two or more people working together to achieve something`
+    - adj.
+      - 合作的，协作的
+        - `a job or piece of work that involves two or more people working together to achieve something`
   - 记忆
     - 来自collaborate(v. 合作， 协作)
   - 同根词
     - n.
-      - `collaboration` 合作；勾结；通敌
-      - `collaborator` [劳经] 合作者；勾结者；通敌者
-      - `collaborationist` 通敌卖国者；协助者
+      - `collaboration`
+        - 合作；勾结；通敌
+      - `collaborator`
+        - [劳经] 合作者；勾结者；通敌者
+      - `collaborationist`
+        - 通敌卖国者；协助者
     - vi.
-      - `collaborate` 合作；勾结，通敌
+      - `collaborate`
+        - 合作；勾结，通敌
   - 近义词
-    - adj. 合作的，协作的
-      - `cooperative`
-      - `coefficient`
-      - `synergic`
+    - adj.
+      - 合作的，协作的
+        - `cooperative`
+        - `coefficient`
+        - `synergic`
   - 短语
-    - `collaborative learning` 协作学习；合作学习 
-    - `collaborative filtering` 协同过滤；协作筛选 
-    - `collaborative commerce` 协同商务 
+    - `collaborative learning`
+      - 协作学习；合作学习 
+    - `collaborative filtering`
+      - 协同过滤；协作筛选 
+    - `collaborative commerce`
+      - 协同商务 
   - 例句
     - `...a collaborative research project.`
       - …一个合作研究项目。

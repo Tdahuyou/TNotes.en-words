@@ -1,20 +1,26 @@
 - illiterate
   - 发音
-    - 英 `/ɪ'lɪt(ə)rət/`
-    - 美 `/ɪ'lɪtərət/`
+    - 英
+      - `/ɪ'lɪt(ə)rət/`
+    - 美
+      - `/ɪ'lɪtərət/`
   - 词义
-    - n. 文盲a不识字的
-    - `someone who has not learned to read or write`
+    - n.
+      - 文盲a不识字的
+        - `someone who has not learned to read or write`
   - 同根词
     - n.
-      - `illiteracy` 文盲；无知
+      - `illiteracy`
+        - 文盲；无知
   - 近义词
-    - adj. 文盲的；不识字的；没受教育的
-      - `letterless`
-      - `unlettered`
-    - n. 文盲
-      - `unschooled`
-      - `analphabetic`
+    - adj.
+      - 文盲的；不识字的；没受教育的
+        - `letterless`
+        - `unlettered`
+    - n.
+      - 文盲
+        - `unschooled`
+        - `analphabetic`
   - 例句
     - `...a subclass of illiterates.`
       - …文盲阶层。

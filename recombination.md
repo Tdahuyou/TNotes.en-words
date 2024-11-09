@@ -1,23 +1,32 @@
 - recombination
   - 发音
-    - 英 `/riːˌkɔmbə'neiʃən/`
-    - 美 `/ri'kɑmbə'neʃən/`
+    - 英
+      - `/riːˌkɔmbə'neiʃən/`
+    - 美
+      - `/ri'kɑmbə'neʃən/`
   - 词义
-    - n. 重组
-    - `any of several processes by which genetic material of different origins becomes combined`
+    - n.
+      - 重组
+        - `any of several processes by which genetic material of different origins becomes combined`
   - 同根词
     - vi.
-      - `recombine` 重组；再结合
+      - `recombine`
+        - 重组；再结合
     - vt.
-      - `recombine` 重组；再结合
+      - `recombine`
+        - 重组；再结合
   - 近义词
-    - n. 复合，再结合；[遗]重组
-      - `reorganisation`
-      - `defragmentation`
+    - n.
+      - 复合，再结合；[遗]重组
+        - `reorganisation`
+        - `defragmentation`
   - 短语
-    - `gene recombination` 基因重组；基因重组现象 
-    - `homologous recombination` 同源重组 
-    - `genetic recombination` 遗传重组，基因重组 
+    - `gene recombination`
+      - 基因重组；基因重组现象 
+    - `homologous recombination`
+      - 同源重组 
+    - `genetic recombination`
+      - 遗传重组，基因重组 
   - 例句
     - `The reform with recombination can improve the whole benefit of the state enterprise .`
       - 改革与重组能提高国有企业的整体效益。

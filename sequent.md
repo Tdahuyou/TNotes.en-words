@@ -1,30 +1,39 @@
 - sequent
   - 发音
-    - 英 `/'siːkwənt/`
-    - 美 `/'sikwənt/`
+    - 英
+      - `/'siːkwənt/`
+    - 美
+      - `/'sikwənt/`
   - 词义
-    - adj. 接续而来的
+    - adj.
+      - 接续而来的
   - 同根词
     - adj.
-      - `sequential` 连续的；相继的；有顺序的
+      - `sequential`
+        - 连续的；相继的；有顺序的
     - n.
-      - `sequence` [数][计] 序列；顺序；续发事件
-      - `sequela` [医] 后遗症；结果；后继者
+      - `sequence`
+        - [数][计] 序列；顺序；续发事件
+      - `sequela`
+        - [医] 后遗症；结果；后继者
     - vt.
-      - `sequence` 按顺序排好
+      - `sequence`
+        - 按顺序排好
   - 近义词
-    - adj. 连续的；其次的；作为结果而产生的
-      - `continuing`
-      - `straight`
-      - `endless`
-      - `running`
-      - `serial`
-    - n. 结果；相继发生的事
-      - `outcome`
-      - `product`
-      - `result`
-      - `event`
-      - `consequence`
+    - adj.
+      - 连续的；其次的；作为结果而产生的
+        - `continuing`
+        - `straight`
+        - `endless`
+        - `running`
+        - `serial`
+    - n.
+      - 结果；相继发生的事
+        - `outcome`
+        - `product`
+        - `result`
+        - `event`
+        - `consequence`
   - 例句
     - `In the sequent ten years, he travelled almost the whole country.`
       - 在接下来的十年里他差不多走遍了整个国家。

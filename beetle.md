@@ -1,27 +1,38 @@
 - beetle
   - 发音
-    - 英 `/'biːt(ə)l/`
-    - 美 `/undefined/`
+    - 英
+      - `/'biːt(ə)l/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 甲虫
-    - `an insect with a round hard back that is usually black`
+    - n.
+      - 甲虫
+        - `an insect with a round hard back that is usually black`
   - 同根词
     - adj.
-      - `beetling` 突出的；悬垂的
+      - `beetling`
+        - 突出的；悬垂的
     - n.
-      - `beetling` 搅打，捣碎
+      - `beetling`
+        - 搅打，捣碎
     - v.
-      - `beetling` 匆忙的来回（beetle的ing形式）
+      - `beetling`
+        - 匆忙的来回（beetle的ing形式）
   - 近义词
-    - vi. 急忙来回；突出
-      - `stand out`
-      - `excel at`
-    - n. [昆]甲虫；[建]大槌
-      - `maul`
+    - vi.
+      - 急忙来回；突出
+        - `stand out`
+        - `excel at`
+    - n.
+      - [昆]甲虫；[建]大槌
+        - `maul`
   - 短语
-    - `dung beetle` n. 蜣螂；金龟子科；甲虫 
-    - `ground beetle` 土鳖虫；步甲，步行虫 
-    - `bark beetle` 树皮甲虫 
+    - `dung beetle`
+      - n. 蜣螂；金龟子科；甲虫 
+    - `ground beetle`
+      - 土鳖虫；步甲，步行虫 
+    - `bark beetle`
+      - 树皮甲虫 
   - 例句
     - `He studied the Namib beetle, an ingenious species that lives in one of the driest places on earth.`
       - 他研究了纳米布甲虫，这是一种机灵的物种，生活在世界上最干燥的地方之一。

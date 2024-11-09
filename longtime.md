@@ -1,16 +1,22 @@
 - longtime
   - 发音
-    - 英 `/'lɒŋtaɪm/`
-    - 美 `/'lɔŋtaɪm/`
+    - 英
+      - `/'lɒŋtaɪm/`
+    - 美
+      - `/'lɔŋtaɪm/`
   - 词义
-    - adj. (已持续)长时间的
-    - adv. 长久地
+    - adj.
+      - (已持续)长时间的
+    - adv.
+      - 长久地
   - 同根词
     - adj.
-      - `longstanding` 长期存在的；长时间的
+      - `longstanding`
+        - 长期存在的；长时间的
   - 近义词
-    - adv. 长久地
-      - `muchly`
+    - adv.
+      - 长久地
+        - `muchly`
   - 例句
     - `"Maybe it doesn't mean it's a longtime relationship, but it means there is someone in your life," he said.`
       -  “也许这并不意味着是一段长久的关系，但它意味着在你的生命中有一个人的存在，”他说。

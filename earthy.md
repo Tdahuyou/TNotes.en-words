@@ -1,17 +1,22 @@
 - earthy
   - 发音
-    - 英 `/'ɜːθɪ/`
-    - 美 `/'ɝθi/`
+    - 英
+      - `/'ɜːθɪ/`
+    - 美
+      - `/'ɝθi/`
   - 词义
-    - adj. 土的；土质的；朴实的；粗俗的
-    - `tasting, smelling, or looking like earth or soil`
+    - adj.
+      - 土的；土质的；朴实的；粗俗的
+        - `tasting, smelling, or looking like earth or soil`
   - 同根词
     - n.
-      - `earth` 地球；陆地；泥土；尘世；[电] 地线
+      - `earth`
+        - 地球；陆地；泥土；尘世；[电] 地线
   - 近义词
-    - adj. 土的；土质的；朴实的；粗俗的
-      - `low`
-      - `coarse`
+    - adj.
+      - 土的；土质的；朴实的；粗俗的
+        - `low`
+        - `coarse`
   - 例句
     - `earthy colours`
       - 泥土的颜色

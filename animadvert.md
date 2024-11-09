@@ -1,16 +1,21 @@
 - animadvert
   - 发音
-    - 英 `/ˌænimæd'vəːt/`
-    - 美 `/,ænəmæd'vɝt/`
+    - 英
+      - `/ˌænimæd'vəːt/`
+    - 美
+      - `/,ænəmæd'vɝt/`
   - 词义
-    - v. 批判，非难
+    - v.
+      - 批判，非难
   - 同根词
     - n.
-      - `animadversion` 批评；非难；评语
+      - `animadversion`
+        - 批评；非难；评语
   - 近义词
-    - vi. 批判；非难；责备
-      - `blame for`
-      - `talk to`
+    - vi.
+      - 批判；非难；责备
+        - `blame for`
+        - `talk to`
   - 例句
     - `Historical science's thinking is practice-animadvert's thinking and metaphysics is abstract thinking.`
       - 历史科学思维是实践批判思维，形而上学是抽象思辨思维。

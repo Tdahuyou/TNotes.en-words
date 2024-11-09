@@ -1,15 +1,20 @@
 - Caribbean
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 加勒比海
-    - `The Caribbean is the sea which is between the West Indies, Central America and the north coast of South America`
+    - n.
+      - 加勒比海
+        - `The Caribbean is the sea which is between the West Indies, Central America and the north coast of South America`
   - 近义词
-    - n. 加勒比海
-      - `Caribbean Sea`
+    - n.
+      - 加勒比海
+        - `Caribbean Sea`
   - 短语
-    - `caribbean sea` 加勒比海 
+    - `caribbean sea`
+      - 加勒比海 
   - 例句
     - `Then either you go relax on your Caribbean island, or you try to start another one.`
       - 你或者可以在你的加勒比海小岛上悠哉游哉下去，或者可以考虑开始下一个生意。

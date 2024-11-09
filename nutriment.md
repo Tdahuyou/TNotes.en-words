@@ -1,28 +1,43 @@
 - nutriment
   - 发音
-    - 英 `/'njuːtrimənt/`
-    - 美 `/'njʊtrəmənt/`
+    - 英
+      - `/'njuːtrimənt/`
+    - 美
+      - `/'njʊtrəmənt/`
   - 词义
-    - n. 营养品
-    - `a substance that gives plants and animals what they need in order to live and grow`
+    - n.
+      - 营养品
+        - `a substance that gives plants and animals what they need in order to live and grow`
   - 同根词
     - adj.
-      - `nutrient` 营养的；滋养的
-      - `nutritious` 有营养的，滋养的
-      - `nutritional` 营养的；滋养的
-      - `nutritive` 有营养的；滋养的；有营养成份的；与营养有关的
+      - `nutrient`
+        - 营养的；滋养的
+      - `nutritious`
+        - 有营养的，滋养的
+      - `nutritional`
+        - 营养的；滋养的
+      - `nutritive`
+        - 有营养的；滋养的；有营养成份的；与营养有关的
     - n.
-      - `nutrient` 营养物；滋养物
-      - `nutrition` 营养，营养学；营养品
-      - `nutshell` 坚果的外壳；小的东西，小容器
-      - `nutritionist` 营养学家
-      - `nutritive` 营养物
-      - `nutritiousness` 有营养成份
+      - `nutrient`
+        - 营养物；滋养物
+      - `nutrition`
+        - 营养，营养学；营养品
+      - `nutshell`
+        - 坚果的外壳；小的东西，小容器
+      - `nutritionist`
+        - 营养学家
+      - `nutritive`
+        - 营养物
+      - `nutritiousness`
+        - 有营养成份
     - vt.
-      - `nutshell` 概括
+      - `nutshell`
+        - 概括
   - 近义词
-    - n. 营养物；促进生长的东西
-      - `nurture`
+    - n.
+      - 营养物；促进生长的东西
+        - `nurture`
   - 例句
     - `The yellow, usually spherical portion of an egg of a bird or reptile, surrounded by the albumen and serving as nutriment for the developing young.`
       - 蛋黄鸟类或爬行动物蛋内的黄色的、通常是球形的部分，回周包有蛋白，作为哺育幼鸟（仔）的营养物。

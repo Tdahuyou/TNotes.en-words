@@ -1,13 +1,17 @@
 - elsewhere
   - 发音
-    - 英 `/els'weə; 'elsweə/`
-    - 美 `/undefined/`
+    - 英
+      - `/els'weə; 'elsweə/`
+    - 美
+      - `/undefined/`
   - 词义
-    - adv. 在别处
-    - `in, at, or to another place`
+    - adv.
+      - 在别处
+        - `in, at, or to another place`
   - 近义词
-    - adv. 在别处；到别处
-      - `otherwhere`
+    - adv.
+      - 在别处；到别处
+        - `otherwhere`
   - 例句
     - `She is becoming famous in Australia and elsewhere.`
       - 她在澳大利亚和其他地方渐渐出名了。

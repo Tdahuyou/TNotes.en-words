@@ -1,10 +1,13 @@
 - triennial
   - 发音
-    - 英 `/trai'eniəl/`
-    - 美 `/traɪ'ɛnɪəl/`
+    - 英
+      - `/trai'eniəl/`
+    - 美
+      - `/traɪ'ɛnɪəl/`
   - 词义
-    - adj. 每三年一度的
-    - `happening every three years`
+    - adj.
+      - 每三年一度的
+        - `happening every three years`
   - 记忆
     - tri (三) + enn (年) + ial → 每三年一度的
   - 例句

@@ -1,23 +1,32 @@
 - illegality
   - 发音
-    - 英 `/,ɪliː'ɡælətɪ/`
-    - 美 `/,ɪlɪ'ɡæləti/`
+    - 英
+      - `/,ɪliː'ɡælətɪ/`
+    - 美
+      - `/,ɪlɪ'ɡæləti/`
   - 词义
-    - n. 非法行为,犯规
+    - n.
+      - 非法行为,犯规
   - 同根词
     - adj.
-      - `illegitimate` 私生的；非法的；不合理的
+      - `illegitimate`
+        - 私生的；非法的；不合理的
     - adv.
-      - `illegally` 非法地
+      - `illegally`
+        - 非法地
     - n.
-      - `illegitimate` 非嫡出子；庶子
+      - `illegitimate`
+        - 非嫡出子；庶子
     - vt.
-      - `illegitimate` 认做私生子；认为违法
-      - `illegalize` 使成为非法；宣布…为非法；使违规
+      - `illegitimate`
+        - 认做私生子；认为违法
+      - `illegalize`
+        - 使成为非法；宣布…为非法；使违规
   - 近义词
-    - n. 违法；[法]非法行为；犯规
-      - `lawlessness`
-      - `against the law`
+    - n.
+      - 违法；[法]非法行为；犯规
+        - `lawlessness`
+        - `against the law`
   - 例句
     - `"The problem is: who do I talk to in a context of systematic illegality?" says Cenni.`
       - 问题是：我在这样一个有组织违法行为的大背景下能够和谁谈呢？

@@ -1,23 +1,32 @@
 - meddler
   - 发音
-    - 英 `/'medlə/`
-    - 美 `/undefined/`
+    - 英
+      - `/'medlə/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 爱管闲事的人
+    - n.
+      - 爱管闲事的人
   - 同根词
     - adj.
-      - `meddlesome` 爱管闲事的；好干涉的
-      - `meddling` 干预的
+      - `meddlesome`
+        - 爱管闲事的；好干涉的
+      - `meddling`
+        - 干预的
     - n.
-      - `meddling` 干预；瞎管
+      - `meddling`
+        - 干预；瞎管
     - v.
-      - `meddling` 干预；瞎弄（meddle的ing形式）
+      - `meddling`
+        - 干预；瞎弄（meddle的ing形式）
     - vi.
-      - `meddle` 管闲事，干预他人之事
+      - `meddle`
+        - 管闲事，干预他人之事
   - 近义词
-    - n. 干涉者；爱管闲事的人
-      - `intervener`
-      - `pragmatist`
+    - n.
+      - 干涉者；爱管闲事的人
+        - `intervener`
+        - `pragmatist`
   - 例句
     - `You are Holmes, the meddler.`
       - 你是福尔摩斯，爱管闲事的人。

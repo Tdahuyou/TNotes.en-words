@@ -1,13 +1,17 @@
 - peninsular
   - 发音
-    - 英 `/pi'ninsjulə/`
-    - 美 `/pəˈnɪnsəlɚ/`
+    - 英
+      - `/pi'ninsjulə/`
+    - 美
+      - `/pəˈnɪnsəlɚ/`
   - 词义
-    - adj. 半岛的；半岛的
+    - adj.
+      - 半岛的；半岛的
   - 记忆
     - 来自peninsula (n. 半岛)
   - 短语
-    - `peninsular malaysia` 马来西亚半岛 
+    - `peninsular malaysia`
+      - 马来西亚半岛 
   - 例句
     - `Even further south, reflections from 35 km depth may correspond to the Moho of peninsular India.`
       - 再往南从35公里深度来的反射波是来自印度半岛的莫霍界面。

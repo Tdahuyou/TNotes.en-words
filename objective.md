@@ -1,58 +1,92 @@
 - objective
   - 发音
-    - 英 `/əb'dʒektɪv/`
-    - 美 `/əb'dʒɛktɪv/`
+    - 英
+      - `/əb'dʒektɪv/`
+    - 美
+      - `/əb'dʒɛktɪv/`
   - 词义
-    - adj. 客观的
-    - `based on facts, or making a decision that is based on facts rather than on your feelings or beliefs`
-    - n. 目标，目的
-    - `something that you are trying hard to achieve, especially in business or politics`
+    - adj.
+      - 客观的
+        - `based on facts, or making a decision that is based on facts rather than on your feelings or beliefs`
+    - n.
+      - 目标，目的
+        - `something that you are trying hard to achieve, especially in business or politics`
   - 记忆
     - 和object(n. 目标)一起记
   - 同根词
     - adv.
-      - `objectively` 客观地
+      - `objectively`
+        - 客观地
     - n.
-      - `object` 目标；物体；客体；宾语
-      - `objectivity` 客观；客观性
-      - `objectification` 客观化；对象化
-      - `objectiveness` 客观性
+      - `object`
+        - 目标；物体；客体；宾语
+      - `objectivity`
+        - 客观；客观性
+      - `objectification`
+        - 客观化；对象化
+      - `objectiveness`
+        - 客观性
     - vi.
-      - `object` 反对；拒绝
+      - `object`
+        - 反对；拒绝
     - vt.
-      - `object` 提出…作为反对的理由
-      - `objectify` 使具体化，使客观化；体现
+      - `object`
+        - 提出…作为反对的理由
+      - `objectify`
+        - 使具体化，使客观化；体现
   - 近义词
-    - adj. [医]客观的；目标的；[语]宾格的
-      - `impersonal`
-      - `accusatival`
-    - n. 目的；目标；[光]物镜；[语]宾格
-      - `intention`
-      - `purpose`
-      - `sake`
-      - `target`
-      - `goal`
+    - adj.
+      - [医]客观的；目标的；[语]宾格的
+        - `impersonal`
+        - `accusatival`
+    - n.
+      - 目的；目标；[光]物镜；[语]宾格
+        - `intention`
+        - `purpose`
+        - `sake`
+        - `target`
+        - `goal`
   - 短语
-    - `objective function` 目标函数 
-    - `objective analysis` 目标分析，客观分析 
-    - `objective evaluation` 客观评价 
-    - `strategic objective` 战略目标 
-    - `ultimate objective` 最终目标；最极目标 
-    - `objective laws` 客观规律 
-    - `objective evidence` 客观证据 
-    - `objective condition` 客观条件；客观情况 
-    - `objective factor` 客观因素；物的因素 
-    - `objective lens` 物镜 
-    - `general objective` 一般目标，总目标 
-    - `job objective` 工作目标；求职意向 
-    - `management by objective` 目标管理；目标治理 
-    - `objective value` 客观价值 
-    - `objective test` 客观测验；客观式测验 
-    - `investment objective` 投资目标 
-    - `objective knowledge` 客观知识；客观认识；客观熟悉 
-    - `objective cause` 客观原因 
-    - `performance objective` 绩效目标 
-    - `social objective` 社会目标 
+    - `objective function`
+      - 目标函数 
+    - `objective analysis`
+      - 目标分析，客观分析 
+    - `objective evaluation`
+      - 客观评价 
+    - `strategic objective`
+      - 战略目标 
+    - `ultimate objective`
+      - 最终目标；最极目标 
+    - `objective laws`
+      - 客观规律 
+    - `objective evidence`
+      - 客观证据 
+    - `objective condition`
+      - 客观条件；客观情况 
+    - `objective factor`
+      - 客观因素；物的因素 
+    - `objective lens`
+      - 物镜 
+    - `general objective`
+      - 一般目标，总目标 
+    - `job objective`
+      - 工作目标；求职意向 
+    - `management by objective`
+      - 目标管理；目标治理 
+    - `objective value`
+      - 客观价值 
+    - `objective test`
+      - 客观测验；客观式测验 
+    - `investment objective`
+      - 投资目标 
+    - `objective knowledge`
+      - 客观知识；客观认识；客观熟悉 
+    - `objective cause`
+      - 客观原因 
+    - `performance objective`
+      - 绩效目标 
+    - `social objective`
+      - 社会目标 
   - 例句
     - `Scientists need to be objective when doing research.`
       - 科学家做研究时要客观。

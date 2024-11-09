@@ -1,20 +1,25 @@
 - receptacle
   - 发音
-    - 英 `/rɪ'septəkl/`
-    - 美 `/rɪ'sɛptəkl/`
+    - 英
+      - `/rɪ'septəkl/`
+    - 美
+      - `/rɪ'sɛptəkl/`
   - 词义
-    - n. 容器；插座
-    - `a container for putting things in`
+    - n.
+      - 容器；插座
+        - `a container for putting things in`
   - 记忆
     - re(再， 又) + cept(拿， 取) + acle → 能一再拿住 → 容器
   - 近义词
-    - n. [植]花托；容器；插座
-      - `container`
-      - `vessel`
-      - `jack`
-      - `pocket`
+    - n.
+      - [植]花托；容器；插座
+        - `container`
+        - `vessel`
+        - `jack`
+        - `pocket`
   - 短语
-    - `flower receptacle` 花插 
+    - `flower receptacle`
+      - 花插 
   - 例句
     - `a trash receptacle`
       - 垃圾箱

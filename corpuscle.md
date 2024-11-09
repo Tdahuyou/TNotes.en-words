@@ -1,16 +1,21 @@
 - corpuscle
   - 发音
-    - 英 `/'kɔːpʌs(ə)l/`
-    - 美 `/'kɔrpʌsl/`
+    - 英
+      - `/'kɔːpʌs(ə)l/`
+    - 美
+      - `/'kɔrpʌsl/`
   - 词义
-    - n. 血球,<物理>微粒
-    - `one of the red or white cells in the blood`
+    - n.
+      - 血球,<物理>微粒
+        - `one of the red or white cells in the blood`
   - 近义词
-    - n. [解剖]小体；[光]微粒；血球
-      - `molecule`
-      - `microne`
+    - n.
+      - [解剖]小体；[光]微粒；血球
+        - `molecule`
+        - `microne`
   - 短语
-    - `blood corpuscle` [生]血细胞；[生]血球 
+    - `blood corpuscle`
+      - [生]血细胞；[生]血球 
   - 例句
     - `He called this negative elemental particle the corpuscle.`
       - 他称之为这个负基本粒子叫做,微粒。

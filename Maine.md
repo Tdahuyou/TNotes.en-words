@@ -1,11 +1,15 @@
 - Maine
   - 发音
-    - 英 `/mein/`
-    - 美 `/mein/`
+    - 英
+      - `/mein/`
+    - 美
+      - `/mein/`
   - 词义
-    - n. 缅因州(美国东北角的州)
+    - n.
+      - 缅因州(美国东北角的州)
   - 短语
-    - `university of maine` 缅因大学 
+    - `university of maine`
+      - 缅因大学 
   - 例句
     - `Back in Maine, I began thanking Scott if he threw one dirty shirt into the hamper.`
       - 回到缅因州，要是斯科特把一件脏衣服丢进衣物篮我就开始感谢他。

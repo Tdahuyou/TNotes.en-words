@@ -1,19 +1,23 @@
 - upon
   - 发音
-    - 英 `/ə'pɒn/`
-    - 美 `/ə'pɑn/`
+    - 英
+      - `/ə'pɒn/`
+    - 美
+      - `/ə'pɑn/`
   - 词义
-    - prep. 在⋯⋯上；到⋯⋯上
-    - `used to mean ‘on’ or ‘onto’`
+    - prep.
+      - 在⋯⋯上；到⋯⋯上
+        - `used to mean ‘on’ or ‘onto’`
   - 记忆
     - up(向上)+on(在…上)→在…之上
   - 近义词
-    - prep. 根据；接近；在…之上
-      - `on the basis of`
-      - `in the light of`
-      - `onto`
-      - `toward`
-      - `up`
+    - prep.
+      - 根据；接近；在…之上
+        - `on the basis of`
+        - `in the light of`
+        - `onto`
+        - `toward`
+        - `up`
   - 例句
     - `an honour bestowed upon the association`
       - 授予该协会的荣誉

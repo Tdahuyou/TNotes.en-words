@@ -1,23 +1,31 @@
 - forcible
   - 发音
-    - 英 `/'fɔːsɪb(ə)l/`
-    - 美 `/'fɔrsəbl/`
+    - 英
+      - `/'fɔːsɪb(ə)l/`
+    - 美
+      - `/'fɔrsəbl/`
   - 词义
-    - adj. 强制的；暴力的；有说服力的；强有力的
-    - `done using physical force`
+    - adj.
+      - 强制的；暴力的；有说服力的；强有力的
+        - `done using physical force`
   - 同根词
     - adj.
-      - `forceful` 强有力的；有说服力的；坚强的
+      - `forceful`
+        - 强有力的；有说服力的；坚强的
     - adv.
-      - `forcibly` 用力地；强制地；有说服力地
-      - `forcefully` 强有力地；激烈地；有说服力地
+      - `forcibly`
+        - 用力地；强制地；有说服力地
+      - `forcefully`
+        - 强有力地；激烈地；有说服力地
     - n.
-      - `forcefulness` 有力；坚强
+      - `forcefulness`
+        - 有力；坚强
   - 近义词
-    - adj. 强制的；暴力的；有说服力的；强有力的
-      - `violent`
-      - `powerful`
-      - `mandatory`
+    - adj.
+      - 强制的；暴力的；有说服力的；强有力的
+        - `violent`
+        - `powerful`
+        - `mandatory`
   - 例句
     - `the forcible overthrow of the government`
       - 暴力推翻政府

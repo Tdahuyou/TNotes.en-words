@@ -1,23 +1,33 @@
 - nudity
   - 发音
-    - 英 `/'njuːdətɪ/`
-    - 美 `/'nudəti/`
+    - 英
+      - `/'njuːdətɪ/`
+    - 美
+      - `/'nudəti/`
   - 词义
-    - n. 裸露；裸体像
-    - `the state of not wearing any clothes`
+    - n.
+      - 裸露；裸体像
+        - `the state of not wearing any clothes`
   - 同根词
     - adj.
-      - `nude` 裸的，裸体的；无装饰的；与生俱有的
-      - `nudist` 裸体主义的；裸体主义者的
+      - `nude`
+        - 裸的，裸体的；无装饰的；与生俱有的
+      - `nudist`
+        - 裸体主义的；裸体主义者的
     - n.
-      - `nude` 裸体；裸体画
-      - `nudist` 裸体主义者
-      - `nuda` 无触手纲；裸露
-      - `nudism` 裸体主义
-  - 近义词
-    - n. [生物]裸露；裸体像
-      - `bareness`
+      - `nude`
+        - 裸体；裸体画
+      - `nudist`
+        - 裸体主义者
       - `nuda`
+        - 无触手纲；裸露
+      - `nudism`
+        - 裸体主义
+  - 近义词
+    - n.
+      - [生物]裸露；裸体像
+        - `bareness`
+        - `nuda`
   - 例句
     - `The play contains scenes of nudity.`
       - 该剧有一些裸露场面。

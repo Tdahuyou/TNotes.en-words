@@ -1,17 +1,23 @@
 - connate
   - 发音
-    - 英 `/'kɒneɪt/`
-    - 美 `/'kɔneit/`
+    - 英
+      - `/'kɒneɪt/`
+    - 美
+      - `/'kɔneit/`
   - 词义
-    - adj. 天生的,先天的,同族的
-    - `existing in a person or thing from birth; congenital or innate `
+    - adj.
+      - 天生的,先天的,同族的
+        - `existing in a person or thing from birth; congenital or innate `
   - 同根词
     - adj.
-      - `connatural` 固有的；先天的；同性质的
+      - `connatural`
+        - 固有的；先天的；同性质的
     - n.
-      - `connation` 合生；合生作用；愈合；连着
+      - `connation`
+        - 合生；合生作用；愈合；连着
   - 近义词
-    - adj. 先天的；天赋的
-      - `native`
-      - `congenital`
-      - `innate`
+    - adj.
+      - 先天的；天赋的
+        - `native`
+        - `congenital`
+        - `innate`

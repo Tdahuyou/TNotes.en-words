@@ -1,32 +1,45 @@
 - quicken
   - 发音
-    - 英 `/'kwɪkən/`
-    - 美 `/'kwɪkən/`
+    - 英
+      - `/'kwɪkən/`
+    - 美
+      - `/'kwɪkən/`
   - 词义
-    - v. 加快
-    - `to become quicker or make something quicker`
+    - v.
+      - 加快
+        - `to become quicker or make something quicker`
   - 同根词
     - adj.
-      - `quick` 快的；迅速的，敏捷的；灵敏的
-      - `quickening` 使活泼的；使复苏的
+      - `quick`
+        - 快的；迅速的，敏捷的；灵敏的
+      - `quickening`
+        - 使活泼的；使复苏的
     - adv.
-      - `quickly` 迅速地；很快地
-      - `quick` 迅速地，快
+      - `quickly`
+        - 迅速地；很快地
+      - `quick`
+        - 迅速地，快
     - n.
-      - `quick` 核心；伤口的嫩肉
-      - `quickening` 胎动；兴奋
+      - `quick`
+        - 核心；伤口的嫩肉
+      - `quickening`
+        - 胎动；兴奋
     - v.
-      - `quickening` 加速；活跃（quicken的ing形式）
+      - `quickening`
+        - 加速；活跃（quicken的ing形式）
   - 近义词
-    - vi. 加快；变活跃；进入胎动期
-      - `step on the juice`
-    - vt. 加快；鼓舞；使复活
-      - `stimulate`
-      - `lift`
-      - `spirit`
-      - `inspire`
+    - vi.
+      - 加快；变活跃；进入胎动期
+        - `step on the juice`
+    - vt.
+      - 加快；鼓舞；使复活
+        - `stimulate`
+        - `lift`
+        - `spirit`
+        - `inspire`
   - 短语
-    - `quicken up` 加速 
+    - `quicken up`
+      - 加速 
   - 例句
     - `Ray glanced at his watch and quickened his pace (= began to walk faster ).`
       - 雷瞥了一眼手表，加快了步伐。

@@ -1,9 +1,12 @@
 - folkloric
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - adj. 民间传说的,民俗的
+    - adj.
+      - 民间传说的,民俗的
   - 例句
     - `T here are films as lovely, but none lovelier than "Cinema Paradiso, " a folkloric salute to the medium itself, flickering with yesterday's innocence and lingering on the mind like bubbles in wine.`
       - 世 界上有如《天堂电影院》一般动人的影片，但绝无出其右，一部对媒体自身的民俗的礼赞，闪烁着往日的纯真无邪，如同葡萄酒中的泡泡那般萦绕心头挥之不去。

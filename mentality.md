@@ -1,24 +1,33 @@
 - mentality
   - 发音
-    - 英 `/men'tælɪtɪ/`
-    - 美 `/mɛn'tæləti/`
+    - 英
+      - `/men'tælɪtɪ/`
+    - 美
+      - `/mɛn'tæləti/`
   - 词义
-    - n. 心态；[心理]智力；精神力；头脑作用
-    - `a particular attitude or way of thinking, especially one that you think is wrong or stupid`
+    - n.
+      - 心态；[心理]智力；精神力；头脑作用
+        - `a particular attitude or way of thinking, especially one that you think is wrong or stupid`
   - 同根词
     - adj.
-      - `mental` 精神的；脑力的；疯的
+      - `mental`
+        - 精神的；脑力的；疯的
     - adv.
-      - `mentally` 精神上，智力上；心理上
+      - `mentally`
+        - 精神上，智力上；心理上
     - n.
-      - `mental` 精神病患者
-      - `mentation` 心理状态；精神作用；精神活动
+      - `mental`
+        - 精神病患者
+      - `mentation`
+        - 心理状态；精神作用；精神活动
   - 近义词
-    - n. 心态；[心理]智力；精神力；头脑作用
-      - `intelligence`
-      - `brain`
+    - n.
+      - 心态；[心理]智力；精神力；头脑作用
+        - `intelligence`
+        - `brain`
   - 短语
-    - `negative mentality` 逆反心理；消极心态 
+    - `negative mentality`
+      - 逆反心理；消极心态 
   - 例句
     - `a get-rich-quick mentality`
       - 一夜暴富的心态

@@ -1,28 +1,36 @@
 - siren
   - 发音
-    - 英 `/ˈsaɪrən/`
-    - 美 `/'saɪrən/`
+    - 英
+      - `/ˈsaɪrən/`
+    - 美
+      - `/'saɪrən/`
   - 词义
-    - n. 警报声
-    - `a piece of equipment that makes very loud warning sounds, used on police cars, fire engines etc`
+    - n.
+      - 警报声
+        - `a piece of equipment that makes very loud warning sounds, used on police cars, fire engines etc`
   - 同根词
     - n.
-      - `sire` 陛下；大人；男性祖先；雄性亲畜
+      - `sire`
+        - 陛下；大人；男性祖先；雄性亲畜
     - vt.
-      - `sire` 做…的父亲；生产
+      - `sire`
+        - 做…的父亲；生产
   - 近义词
-    - n. [铁路][船]汽笛；迷人的女人；歌声动人的女歌手
-      - `hooter`
-      - `whistle`
-    - adj. 迷人的
-      - `killing`
-      - `taking`
-      - `engaging`
-      - `charming`
-      - `fascinating`
-    - vt. 引诱
-      - `induce`
-      - `seduce`
+    - n.
+      - [铁路][船]汽笛；迷人的女人；歌声动人的女歌手
+        - `hooter`
+        - `whistle`
+    - adj.
+      - 迷人的
+        - `killing`
+        - `taking`
+        - `engaging`
+        - `charming`
+        - `fascinating`
+    - vt.
+      - 引诱
+        - `induce`
+        - `seduce`
   - 例句
     - `the wail of the ambulance sirens`
       - 救护车汽笛的尖啸

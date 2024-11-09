@@ -1,23 +1,35 @@
 - expressiveness
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 表现,表示
+    - n.
+      - 表现,表示
   - 同根词
     - adj.
-      - `express` 明确的；迅速的；专门的
-      - `expressive` 表现的；有表现力的；表达…的
-      - `expressionless` 无表情的；呆板的
-      - `expressible` 可表现的；可榨出的
+      - `express`
+        - 明确的；迅速的；专门的
+      - `expressive`
+        - 表现的；有表现力的；表达…的
+      - `expressionless`
+        - 无表情的；呆板的
+      - `expressible`
+        - 可表现的；可榨出的
     - adv.
-      - `expressively` 表现地；意味深长地；表示地
+      - `expressively`
+        - 表现地；意味深长地；表示地
     - n.
-      - `express` 快车，快递，专使；捷运公司
-      - `expression` 表达，表示；表情；表现力；措辞
-      - `expressionism` 表现主义
+      - `express`
+        - 快车，快递，专使；捷运公司
+      - `expression`
+        - 表达，表示；表情；表现力；措辞
+      - `expressionism`
+        - 表现主义
     - vt.
-      - `express` 表达；快递
+      - `express`
+        - 表达；快递
   - 例句
     - `Moreover, it offers the expressiveness which helps to “simplify complex tasks”.`
       - 此外，它更具表现力，这有助于“简化复杂任务”。

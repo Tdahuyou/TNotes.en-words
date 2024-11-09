@@ -1,22 +1,30 @@
 - remediation
   - 发音
-    - 英 `/rɪ,miːdɪ'eɪʃ(ə)n/`
-    - 美 `/rɪ,midɪ'eʃən/`
+    - 英
+      - `/rɪ,miːdɪ'eɪʃ(ə)n/`
+    - 美
+      - `/rɪ,midɪ'eʃən/`
   - 词义
-    - n. 补习,补救
-    - `the action of remedying something, esp the reversal or stopping of damage to the environment `
+    - n.
+      - 补习,补救
+        - `the action of remedying something, esp the reversal or stopping of damage to the environment `
   - 同根词
     - adj.
-      - `remedial` 治疗的；补救的；矫正的
-      - `remediable` 可治疗的；可矫正的；可补救的
+      - `remedial`
+        - 治疗的；补救的；矫正的
+      - `remediable`
+        - 可治疗的；可矫正的；可补救的
     - n.
-      - `remedy` 补救；治疗；赔偿
+      - `remedy`
+        - 补救；治疗；赔偿
     - vt.
-      - `remedy` 补救；治疗；纠正
+      - `remedy`
+        - 补救；治疗；纠正
   - 近义词
-    - n. 补救；矫正；补习
-      - `rectification`
-      - `reclamation`
+    - n.
+      - 补救；矫正；补习
+        - `rectification`
+        - `reclamation`
   - 例句
     - `If you do find an infected machine, the jury is out about how best to do remediation.`
       - 如果你在企业网络中发现了一台被感染的机器，那就应该考虑如何来最好的进行补救。

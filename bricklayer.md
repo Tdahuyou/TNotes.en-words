@@ -1,10 +1,13 @@
 - bricklayer
   - 发音
-    - 英 `/'brɪkleɪər/`
-    - 美 `/'brɪkleɚ/`
+    - 英
+      - `/'brɪkleɪər/`
+    - 美
+      - `/'brɪkleɚ/`
   - 词义
-    - n. 砖匠
-    - `someone whose job is to build walls, buildings etc with bricks`
+    - n.
+      - 砖匠
+        - `someone whose job is to build walls, buildings etc with bricks`
   - 记忆
     - brick(砖) + lay(铺设) + er → 铺砖的人 → 砖匠
   - 例句

@@ -1,19 +1,25 @@
 - auburn
   - 发音
-    - 英 `/'ɔːbən/`
-    - 美 `/'ɔbɚn/`
+    - 英
+      - `/'ɔːbən/`
+    - 美
+      - `/'ɔbɚn/`
   - 词义
-    - adj. 赤褐色的
-    - `auburn hair is a reddish brown colour`
-    - n. 赤褐色
+    - adj.
+      - 赤褐色的
+        - `auburn hair is a reddish brown colour`
+    - n.
+      - 赤褐色
   - 记忆
     - au + burn (燃烧) → 像燃烧的火焰 → 赤褐色
   - 近义词
-    - n. 赤褐色
-      - `titian`
-    - adj. 赤褐色的，赭色的
-      - `copper-colored`
-      - `foxy`
+    - n.
+      - 赤褐色
+        - `titian`
+    - adj.
+      - 赤褐色的，赭色的
+        - `copper-colored`
+        - `foxy`
   - 例句
     - `She shook her mane of auburn hair .`
       - （指毛发）“赤褐色的头发”。

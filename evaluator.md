@@ -1,12 +1,17 @@
 - evaluator
   - 发音
-    - 英 `/i'væljueitə/`
-    - 美 `/undefined/`
+    - 英
+      - `/i'væljueitə/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 估价者；评价者
+    - n.
+      - 估价者；评价者
   - 同根词
     - n.
-      - `evaluation` 评价；[审计] 评估；估价；求值
+      - `evaluation`
+        - 评价；[审计] 评估；估价；求值
   - 近义词
-    - n. 评估员；[电子]鉴别器；求值程序
-      - `discriminator`
+    - n.
+      - 评估员；[电子]鉴别器；求值程序
+        - `discriminator`

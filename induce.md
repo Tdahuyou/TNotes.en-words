@@ -1,33 +1,47 @@
 - induce
   - 发音
-    - 英 `/ɪn'djuːs/`
-    - 美 `/ɪn'dus/`
+    - 英
+      - `/ɪn'djuːs/`
+    - 美
+      - `/ɪn'dus/`
   - 词义
-    - vt. 引起，导致；诱使，劝诱；感应
-    - `to persuade someone to do something, especially something that does not seem wise`
+    - vt.
+      - 引起，导致；诱使，劝诱；感应
+        - `to persuade someone to do something, especially something that does not seem wise`
   - 记忆
     - in(向内) + duc(拉) + e → 向内拉 → 引起， 导致
   - 同根词
     - adj.
-      - `inductive` [数] 归纳的；[电] 感应的；诱导的
-      - `induced` 感应的；诱发型
-      - `inducing` 产生诱导作用的
+      - `inductive`
+        - [数] 归纳的；[电] 感应的；诱导的
+      - `induced`
+        - 感应的；诱发型
+      - `inducing`
+        - 产生诱导作用的
     - n.
-      - `induction` [电磁] 感应；归纳法；感应现象
-      - `inducement` 诱因，刺激物
-      - `inductor` 感应器；授职者；圣职授予的人
-      - `inductance` 电感；感应系数；自感应
-      - `inducer` [遗] 诱导物；引诱者；导流片；电感器
+      - `induction`
+        - [电磁] 感应；归纳法；感应现象
+      - `inducement`
+        - 诱因，刺激物
+      - `inductor`
+        - 感应器；授职者；圣职授予的人
+      - `inductance`
+        - 电感；感应系数；自感应
+      - `inducer`
+        - [遗] 诱导物；引诱者；导流片；电感器
     - v.
-      - `induced` 引诱；说服（induce的过去分词）
-      - `inducing` 引起（induce的ing形式）；引诱；劝
+      - `induced`
+        - 引诱；说服（induce的过去分词）
+      - `inducing`
+        - 引起（induce的ing形式）；引诱；劝
   - 近义词
-    - vt. 诱导；引起；引诱；感应
-      - `attract`
-      - `produce`
-      - `cause`
-      - `operate`
-      - `occasion`
+    - vt.
+      - 诱导；引起；引诱；感应
+        - `attract`
+        - `produce`
+        - `cause`
+        - `operate`
+        - `occasion`
   - 例句
     - `She had to be induced because the baby was four weeks late.`
       - 她的孩子晚了四星期仍未出生，因此要给她引产。

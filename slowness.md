@@ -1,26 +1,37 @@
 - slowness
   - 发音
-    - 英 `/undefined/`
-    - 美 `/'slonɪs/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/'slonɪs/`
   - 词义
-    - n. 缓慢,迟钝
+    - n.
+      - 缓慢,迟钝
   - 同根词
     - adj.
-      - `slow` 慢的；减速的；迟钝的
+      - `slow`
+        - 慢的；减速的；迟钝的
     - adv.
-      - `slow` 慢慢地；迟缓地
-      - `slowly` 缓慢地，慢慢地
+      - `slow`
+        - 慢慢地；迟缓地
+      - `slowly`
+        - 缓慢地，慢慢地
     - n.
-      - `slowcoach` 行动迟缓的人；笨拙迟钝的人
-      - `slowpoke` 行动迟缓的人；慢动作的人；迟钝的人
+      - `slowcoach`
+        - 行动迟缓的人；笨拙迟钝的人
+      - `slowpoke`
+        - 行动迟缓的人；慢动作的人；迟钝的人
     - vi.
-      - `slow` 变慢；变萧条
+      - `slow`
+        - 变慢；变萧条
     - vt.
-      - `slow` 放慢；阻碍
+      - `slow`
+        - 放慢；阻碍
   - 近义词
-    - n. 缓慢；迟钝
-      - `tardiness`
-      - `inertia`
+    - n.
+      - 缓慢；迟钝
+        - `tardiness`
+        - `inertia`
   - 例句
     - `Hard working often counterbalances slowness at learning.`
       - 勤奋往往能弥补智力的迟钝。

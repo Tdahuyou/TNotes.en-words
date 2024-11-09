@@ -1,18 +1,25 @@
 - rackety
   - 发音
-    - 英 `/'rækɪtɪ/`
-    - 美 `/'rækɪti/`
+    - 英
+      - `/'rækɪtɪ/`
+    - 美
+      - `/'rækɪti/`
   - 词义
-    - adj. 喧扰的,喜欢吵闹的,摇晃的,不牢固的
-    - `noisy, rowdy, or boisterous `
+    - adj.
+      - 喧扰的,喜欢吵闹的,摇晃的,不牢固的
+        - `noisy, rowdy, or boisterous `
   - 同根词
     - n.
-      - `racket` 球拍；吵闹，喧闹
+      - `racket`
+        - 球拍；吵闹，喧闹
     - vi.
-      - `racket` 过着花天酒地的生活
+      - `racket`
+        - 过着花天酒地的生活
     - vt.
-      - `racket` 过着花天酒地的生活
+      - `racket`
+        - 过着花天酒地的生活
   - 近义词
-    - adj. 喧扰的，喧闹的；不牢固的，摇晃的
-      - `weak`
-      - `loose`
+    - adj.
+      - 喧扰的，喧闹的；不牢固的，摇晃的
+        - `weak`
+        - `loose`

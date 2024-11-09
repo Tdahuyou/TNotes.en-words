@@ -1,18 +1,25 @@
 - rector
   - 发音
-    - 英 `/'rektə/`
-    - 美 `/'rɛktɚ/`
+    - 英
+      - `/'rektə/`
+    - 美
+      - `/'rɛktɚ/`
   - 词义
-    - n. 校长；院长；教区牧师
-    - `a priest in some Christian churches who is responsible for a particular area, group etc`
+    - n.
+      - 校长；院长；教区牧师
+        - `a priest in some Christian churches who is responsible for a particular area, group etc`
   - 同根词
     - n.
-      - `rectory` 教区长的管区
-      - `rectorate` 教区长之职位及任期
-      - `rectorship` 教区长之职位及任期
+      - `rectory`
+        - 教区长的管区
+      - `rectorate`
+        - 教区长之职位及任期
+      - `rectorship`
+        - 教区长之职位及任期
   - 近义词
-    - n. 校长；院长；教区牧师
-      - `principal`
-      - `president`
-      - `headmaster`
-      - `Dean`
+    - n.
+      - 校长；院长；教区牧师
+        - `principal`
+        - `president`
+        - `headmaster`
+        - `Dean`

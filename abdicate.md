@@ -1,26 +1,34 @@
 - abdicate
   - 发音
-    - 英 `/'æbdikeit/`
-    - 美 `/'æbdɪket/`
+    - 英
+      - `/'æbdikeit/`
+    - 美
+      - `/'æbdɪket/`
   - 词义
-    - v. 退位；放弃
-    - `to give up the position of being king or queen`
+    - v.
+      - 退位；放弃
+        - `to give up the position of being king or queen`
   - 记忆
     - ab (离去) + dic (说话) + ate (做) → 说完就离去 → 放弃 (职位， 权利等)
   - 同根词
     - adj.
-      - `abdicable` 可辞职的；可放弃的
+      - `abdicable`
+        - 可辞职的；可放弃的
     - n.
-      - `abdication` 辞职；退位
-      - `abdicator` 让位者；放弃者
+      - `abdication`
+        - 辞职；退位
+      - `abdicator`
+        - 让位者；放弃者
   - 近义词
-    - vi. 退位；放弃
-      - `fall out of`
-      - `render up`
-    - vt. 退位；放弃
-      - `yield`
-      - `desert`
-      - `quit`
+    - vi.
+      - 退位；放弃
+        - `fall out of`
+        - `render up`
+    - vt.
+      - 退位；放弃
+        - `yield`
+        - `desert`
+        - `quit`
   - 例句
     - `King Alfonso XIII abdicated in favour of his eldest son.`
       - 国王阿方索十三世把王位让给了长子。

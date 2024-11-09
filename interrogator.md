@@ -1,23 +1,34 @@
 - interrogator
   - 发音
-    - 英 `/ɪn'terəʊɡeɪtə/`
-    - 美 `/ɪn'tɛrəɡetɚ/`
+    - 英
+      - `/ɪn'terəʊɡeɪtə/`
+    - 美
+      - `/ɪn'tɛrəɡetɚ/`
   - 词义
-    - n. 讯问者，质问者
-    - `a person who interrogates `
+    - n.
+      - 讯问者，质问者
+        - `a person who interrogates `
   - 同根词
     - adj.
-      - `interrogative` 疑问的；质问的
-      - `interrogatory` 质问的；疑问的
+      - `interrogative`
+        - 疑问的；质问的
+      - `interrogatory`
+        - 质问的；疑问的
     - n.
-      - `interrogation` 讯问；审问；[语] 疑问句
-      - `interrogative` 疑问词
-      - `interrogatory` 质问；疑问
+      - `interrogation`
+        - 讯问；审问；[语] 疑问句
+      - `interrogative`
+        - 疑问词
+      - `interrogatory`
+        - 质问；疑问
     - vi.
-      - `interrogate` 审问；质问
+      - `interrogate`
+        - 审问；质问
     - vt.
-      - `interrogate` 审问；质问；[计] 询问
+      - `interrogate`
+        - 审问；质问；[计] 询问
   - 近义词
-    - n. 质问者；[电讯][计]询问机
-      - `querist`
-      - `questioner`
+    - n.
+      - 质问者；[电讯][计]询问机
+        - `querist`
+        - `questioner`

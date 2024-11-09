@@ -1,18 +1,23 @@
 - unwitting
   - 发音
-    - 英 `/ʌn'witiŋ/`
-    - 美 `/ʌn'wɪtɪŋ/`
+    - 英
+      - `/ʌn'witiŋ/`
+    - 美
+      - `/ʌn'wɪtɪŋ/`
   - 词义
-    - adj. 不知情的
+    - adj.
+      - 不知情的
   - 记忆
     - un (不) + wit (才智) + t + ing (…的) → 在这方面没有才智 → 不知情的
   - 同根词
     - adv.
-      - `unwittingly` 不知不觉地；不知情地；不经意地
+      - `unwittingly`
+        - 不知不觉地；不知情地；不经意地
   - 近义词
-    - adj. 不知情的；不知不觉的，无意的
-      - `uninitiated`
-      - `involuntary`
+    - adj.
+      - 不知情的；不知不觉的，无意的
+        - `uninitiated`
+        - `involuntary`
   - 例句
     - `Is he the architect of the evil that has befallen the town, or simply an unwitting pawn?`
       - 他到底是把恶魔引到镇上的罪魁祸首，还是仅仅是一个毫不知情的卒子？

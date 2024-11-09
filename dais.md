@@ -1,16 +1,20 @@
 - dais
   - 发音
-    - 英 `/'deiis/`
-    - 美 `/'deiis/`
+    - 英
+      - `/'deiis/`
+    - 美
+      - `/'deiis/`
   - 词义
-    - n. 台，讲台
-    - `a low stage in a room that you stand on when you are making a speech or performing, so that people can see and hear you`
+    - n.
+      - 台，讲台
+        - `a low stage in a room that you stand on when you are making a speech or performing, so that people can see and hear you`
   - 记忆
     - 老师几乎天天 (days) 上讲台 (dais)
   - 近义词
-    - n. 讲台
-      - `platform`
-      - `lectern`
+    - n.
+      - 讲台
+        - `platform`
+        - `lectern`
   - 例句
     - `There is a female vice premier, she add colour to our dais today.`
       - 其中有一位女性副总理，她为我们今天的讲台增加了一点鲜艳的色彩。

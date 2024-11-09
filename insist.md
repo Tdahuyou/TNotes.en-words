@@ -1,33 +1,44 @@
 - insist
   - 发音
-    - 英 `/ɪn'sɪst/`
-    - 美 `/ɪn'sɪst/`
+    - 英
+      - `/ɪn'sɪst/`
+    - 美
+      - `/ɪn'sɪst/`
   - 词义
-    - v. 坚持要求；坚决主张
-    - `to say firmly and often that something is true, especially when other people think it may not be true`
+    - v.
+      - 坚持要求；坚决主张
+        - `to say firmly and often that something is true, especially when other people think it may not be true`
   - 记忆
     - in(在…里面) + sist(站立) → 一直站在里面 → 坚持要求； 坚决主张
   - 同根词
     - adj.
-      - `insistent` 坚持的；迫切的；显著的；引人注目的；紧急的
+      - `insistent`
+        - 坚持的；迫切的；显著的；引人注目的；紧急的
     - adv.
-      - `insistently` 坚持地；强求地
+      - `insistently`
+        - 坚持地；强求地
     - n.
-      - `insistence` 坚持，强调；坚决主张
-      - `insistency` 坚持；显著或紧急之事；强迫；强调
+      - `insistence`
+        - 坚持，强调；坚决主张
+      - `insistency`
+        - 坚持；显著或紧急之事；强迫；强调
   - 近义词
-    - vt. 坚持，强调
-      - `emphasize`
-      - `stay`
-      - `tough`
-      - `stress`
-      - `highlight`
-    - vi. 坚持，强调
-      - `stay`
-      - `stand on`
+    - vt.
+      - 坚持，强调
+        - `emphasize`
+        - `stay`
+        - `tough`
+        - `stress`
+        - `highlight`
+    - vi.
+      - 坚持，强调
+        - `stay`
+        - `stand on`
   - 短语
-    - `insist on` 坚持，坚决要求；督促，强调 
-    - `insist upon` 坚持… 
+    - `insist on`
+      - 坚持，坚决要求；督促，强调 
+    - `insist upon`
+      - 坚持… 
   - 例句
     - `Stay for supper – I insist!`
       - 留下来吃晚餐——一定的！

@@ -1,44 +1,72 @@
 - purification
   - 发音
-    - 英 `/,pjʊərɪfɪ'keɪʃən/`
-    - 美 `/,pjʊrəfə'keʃən/`
+    - 英
+      - `/,pjʊərɪfɪ'keɪʃən/`
+    - 美
+      - `/,pjʊrəfə'keʃən/`
   - 词义
-    - n. 净化
+    - n.
+      - 净化
   - 同根词
     - adj.
-      - `purified` 净化的；精制的
-      - `purgatory` 涤罪的（等于purgative）
-      - `purgative` 净化的；通便的；赎罪的
-      - `purgatorial` 炼狱的；涤罪的
+      - `purified`
+        - 净化的；精制的
+      - `purgatory`
+        - 涤罪的（等于purgative）
+      - `purgative`
+        - 净化的；通便的；赎罪的
+      - `purgatorial`
+        - 炼狱的；涤罪的
     - n.
-      - `purge` 净化；泻药
-      - `purgatory` 炼狱；涤罪；暂时的苦难
-      - `purifier` [食品] 净化器；清洁者；精炼器；精炼者
-      - `purifying` 净化；精制
-      - `purgative` 泻剂，泻药
+      - `purge`
+        - 净化；泻药
+      - `purgatory`
+        - 炼狱；涤罪；暂时的苦难
+      - `purifier`
+        - [食品] 净化器；清洁者；精炼器；精炼者
+      - `purifying`
+        - 净化；精制
+      - `purgative`
+        - 泻剂，泻药
     - v.
-      - `purified` 使纯净；去除（purify的过去分词）；精炼
-      - `purifying` 使纯净；精炼（purify的ing形式）
+      - `purified`
+        - 使纯净；去除（purify的过去分词）；精炼
+      - `purifying`
+        - 使纯净；精炼（purify的ing形式）
     - vi.
-      - `purge` 净化；通便
-      - `purify` 净化；变纯净
+      - `purge`
+        - 净化；通便
+      - `purify`
+        - 净化；变纯净
     - vt.
-      - `purge` 净化；清洗；通便
-      - `purify` 净化；使纯净
+      - `purge`
+        - 净化；清洗；通便
+      - `purify`
+        - 净化；使纯净
   - 近义词
-    - n. 净化；[化工]提纯；涤罪
-      - `distillation`
-      - `decontamination`
+    - n.
+      - 净化；[化工]提纯；涤罪
+        - `distillation`
+        - `decontamination`
   - 短语
-    - `water purification` 水的净化 
-    - `air purification` 空气净化 
-    - `gas purification` 煤气净化；气体净化 
-    - `purification system` 净化系统 
-    - `purification plant` 净化厂；净化装置 
-    - `sewage purification` 污水净化，污水清化 
-    - `water purification system` 水净化器；水净化系统；纯水系统 
-    - `purification technics` 净化技术 
-    - `water purification plant` 净水厂 
+    - `water purification`
+      - 水的净化 
+    - `air purification`
+      - 空气净化 
+    - `gas purification`
+      - 煤气净化；气体净化 
+    - `purification system`
+      - 净化系统 
+    - `purification plant`
+      - 净化厂；净化装置 
+    - `sewage purification`
+      - 污水净化，污水清化 
+    - `water purification system`
+      - 水净化器；水净化系统；纯水系统 
+    - `purification technics`
+      - 净化技术 
+    - `water purification plant`
+      - 净水厂 
   - 例句
     - `I saw this policy of “purification” up close.`
       - 我目睹的了“净化”政策的整个过程。

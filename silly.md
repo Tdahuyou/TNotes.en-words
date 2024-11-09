@@ -1,30 +1,39 @@
 - silly
   - 发音
-    - 英 `/'sɪlɪ/`
-    - 美 `/'sɪli/`
+    - 英
+      - `/'sɪlɪ/`
+    - 美
+      - `/'sɪli/`
   - 词义
-    - adj. 愚蠢的；傻气的
-    - `not sensible, or showing bad judgment`
+    - adj.
+      - 愚蠢的；傻气的
+        - `not sensible, or showing bad judgment`
   - 同根词
     - n.
-      - `silliness` 愚蠢；糊涂
+      - `silliness`
+        - 愚蠢；糊涂
   - 近义词
-    - adj. 愚蠢的
-      - `foolish`
-      - `stupid`
-      - `mad`
-      - `doltish`
-      - `insipient`
-    - n. 傻瓜
-      - `stupid`
-      - `fool`
-      - `donkey`
-      - `gump`
-      - `aleck`
+    - adj.
+      - 愚蠢的
+        - `foolish`
+        - `stupid`
+        - `mad`
+        - `doltish`
+        - `insipient`
+    - n.
+      - 傻瓜
+        - `stupid`
+        - `fool`
+        - `donkey`
+        - `gump`
+        - `aleck`
   - 短语
-    - `silly season` 新闻缺乏时期 
-    - `silly billy` [口]傻瓜；笨蛋 
-    - `silly idea` 愚蠢的想法 
+    - `silly season`
+      - 新闻缺乏时期 
+    - `silly billy`
+      - [口]傻瓜；笨蛋 
+    - `silly idea`
+      - 愚蠢的想法 
   - 例句
     - `Stop asking silly questions.`
       - 别再问傻问题了。

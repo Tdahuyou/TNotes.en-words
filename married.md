@@ -1,33 +1,50 @@
 - married
   - 发音
-    - 英 `/'mærɪd/`
-    - 美 `/'mærɪd/`
+    - 英
+      - `/'mærɪd/`
+    - 美
+      - `/'mærɪd/`
   - 词义
-    - adj. 已婚的，有配偶的；婚姻的，夫妇的；密切结合的
-    - `having a husband or a wife`
-    - n. 已婚者
-    - v. 结婚，与…结婚（marry的过去式）
+    - adj.
+      - 已婚的，有配偶的；婚姻的，夫妇的；密切结合的
+        - `having a husband or a wife`
+    - n.
+      - 已婚者
+    - v.
+      - 结婚，与…结婚（marry的过去式）
   - 同根词
     - adj.
-      - `marriageable` 可结婚的，适合结婚的
+      - `marriageable`
+        - 可结婚的，适合结婚的
     - n.
-      - `marriage` 结婚；婚姻生活；密切结合，合并
-      - `marriageability` 结婚适龄；适合结婚
+      - `marriage`
+        - 结婚；婚姻生活；密切结合，合并
+      - `marriageability`
+        - 结婚适龄；适合结婚
     - vi.
-      - `marry` 结婚
+      - `marry`
+        - 结婚
     - vt.
-      - `marry` 嫁；娶；与……结婚
+      - `marry`
+        - 嫁；娶；与……结婚
   - 近义词
-    - adj. 已婚的，有配偶的；婚姻的，夫妇的；密切结合的
-      - `marital`
-      - `matrimonial`
+    - adj.
+      - 已婚的，有配偶的；婚姻的，夫妇的；密切结合的
+        - `marital`
+        - `matrimonial`
   - 短语
-    - `get married` 结婚 
-    - `got married` 结婚（get married的过去式） 
-    - `married couple` 新婚夫妻 
-    - `married life` 婚后生活 
-    - `married person` 已婚人士 
-    - `are you married` 你结婚了吗 
+    - `get married`
+      - 结婚 
+    - `got married`
+      - 结婚（get married的过去式） 
+    - `married couple`
+      - 新婚夫妻 
+    - `married life`
+      - 婚后生活 
+    - `married person`
+      - 已婚人士 
+    - `are you married`
+      - 你结婚了吗 
   - 例句
     - `Are you married or single?`
       - 你是已婚还是单身？

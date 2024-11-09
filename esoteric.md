@@ -1,19 +1,25 @@
 - esoteric
   - 发音
-    - 英 `/,esə'terɪk; ,iːsə-/`
-    - 美 `/,ɛsə'tɛrɪk/`
+    - 英
+      - `/,esə'terɪk; ,iːsə-/`
+    - 美
+      - `/,ɛsə'tɛrɪk/`
   - 词义
-    - adj. 秘传的,神秘的,难懂的
-    - `If you describe something as esoteric, you mean it is known, understood, or appreciated by only a small number of people`
+    - adj.
+      - 秘传的,神秘的,难懂的
+        - `If you describe something as esoteric, you mean it is known, understood, or appreciated by only a small number of people`
   - 同根词
     - n.
-      - `esoterica` 秘传的事物；黄色书刊
+      - `esoterica`
+        - 秘传的事物；黄色书刊
   - 近义词
-    - adj. 秘传的；限于圈内人的；难懂的
-      - `complicated`
-      - `elusive`
+    - adj.
+      - 秘传的；限于圈内人的；难懂的
+        - `complicated`
+        - `elusive`
   - 短语
-    - `esoteric buddhism` 密宗（秘教性的佛教） 
+    - `esoteric buddhism`
+      - 密宗（秘教性的佛教） 
   - 例句
     - `...esoteric knowledge.`
       - …深奥难懂的知识。

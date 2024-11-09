@@ -1,24 +1,31 @@
 - mar
   - 发音
-    - 英 `/mɑːr/`
-    - 美 `/mɑr/`
+    - 英
+      - `/mɑːr/`
+    - 美
+      - `/mɑr/`
   - 词义
-    - vt&n. 损坏，损毁
-    - `to make something less attractive or enjoyable`
+    - vt&n.
+      - 损坏，损毁
+        - `to make something less attractive or enjoyable`
   - 记忆
     - “骂” → 弄坏了东西， 所以挨骂 → 损坏
   - 同根词
     - adj.
-      - `marred` 被损毁的
+      - `marred`
+        - 被损毁的
     - v.
-      - `marred` 损毁，损伤（mar的过去式）
+      - `marred`
+        - 损毁，损伤（mar的过去式）
   - 近义词
-    - vt. 损毁；损伤；糟蹋；玷污
-      - `cloud`
-      - `to injure`
-    - n. 污点；瑕疵
-      - `tainture`
-      - `jaup`
+    - vt.
+      - 损毁；损伤；糟蹋；玷污
+        - `cloud`
+        - `to injure`
+    - n.
+      - 污点；瑕疵
+        - `tainture`
+        - `jaup`
   - 例句
     - `Their wedding was marred by the death of Jenny’s mother a week earlier.`
       - 一周之前珍妮母亲的过世使他们的婚礼蒙上了一层阴影。

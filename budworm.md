@@ -1,15 +1,19 @@
 - budworm
   - 发音
-    - 英 `/'bʌdwɜːm/`
-    - 美 `/'bʌdwə:m/`
+    - 英
+      - `/'bʌdwɜːm/`
+    - 美
+      - `/'bʌdwə:m/`
   - 词义
-    - n. 蚜虫
+    - n.
+      - 蚜虫
   - 记忆
     - bud(芽) + worm(虫) → 蚜虫
   - 近义词
-    - n. 蚜虫
-      - `aphid`
-      - `greenfly`
+    - n.
+      - 蚜虫
+        - `aphid`
+        - `greenfly`
   - 例句
     - `A larva of several tortricid moths, especially the spruce budworm , that devours plant buds.`
       - 一些卷叶蛾的幼虫，尤指云杉芽虫，吞食植物的幼芽。

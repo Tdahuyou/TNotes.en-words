@@ -1,17 +1,24 @@
 - rime
   - 发音
-    - 英 `/raɪm/`
-    - 美 `/raɪm/`
+    - 英
+      - `/raɪm/`
+    - 美
+      - `/raɪm/`
   - 词义
-    - n. 结晶,v使蒙霜
+    - n.
+      - 结晶,v使蒙霜
   - 同根词
     - adj.
-      - `rimy` 被霜覆盖的
+      - `rimy`
+        - 被霜覆盖的
     - n.
-      - `riming` 淞化过程
+      - `riming`
+        - 淞化过程
     - v.
-      - `riming` 淞化（rime的现在分词形式）
+      - `riming`
+        - 淞化（rime的现在分词形式）
   - 近义词
-    - n. [水文]雾凇；白霜；结晶
-      - `crystal`
-      - `hoarfrost`
+    - n.
+      - [水文]雾凇；白霜；结晶
+        - `crystal`
+        - `hoarfrost`

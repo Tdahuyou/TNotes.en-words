@@ -1,21 +1,29 @@
 - nearness
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 靠近,接近
+    - n.
+      - 靠近,接近
   - 同根词
     - adj.
-      - `near` 近的；亲近的；近似的
+      - `near`
+        - 近的；亲近的；近似的
     - adv.
-      - `near` 近；接近
-      - `nearly` 差不多，几乎；密切地
+      - `near`
+        - 近；接近
+      - `nearly`
+        - 差不多，几乎；密切地
     - prep.
-      - `near` 靠近；近似于
+      - `near`
+        - 靠近；近似于
   - 近义词
-    - n. 接近；密切；近似
-      - `approach`
-      - `neighborhood`
+    - n.
+      - 接近；密切；近似
+        - `approach`
+        - `neighborhood`
   - 例句
     - `God is nearer to me than I am to myself; my existence depends on the nearness and the presence of God.`
       - 上帝比我更靠近我自己；我的存在取决于上帝的存在以及上帝离我有多近。

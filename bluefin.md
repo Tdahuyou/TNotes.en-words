@@ -1,15 +1,20 @@
 - bluefin
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 金枪鱼
+    - n.
+      - 金枪鱼
   - 近义词
-    - n. （蓝鳍）金枪鱼；作生鱼片的精品鱼肉
-      - `tuna fish`
-      - `tunny`
+    - n.
+      - （蓝鳍）金枪鱼；作生鱼片的精品鱼肉
+        - `tuna fish`
+        - `tunny`
   - 短语
-    - `bluefin tuna` 金枪鱼；蓝鳍金枪鱼 
+    - `bluefin tuna`
+      - 金枪鱼；蓝鳍金枪鱼 
   - 例句
     - `The International Commission for the Conservation of Atlantic Tunas recently voted to lower bluefin fishing quotas.`
       - 大西洋金枪鱼保护国际委员最近宣布了降低金枪鱼捕捞的配额。

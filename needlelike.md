@@ -1,24 +1,33 @@
 - needlelike
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - adj. 针状的
+    - adj.
+      - 针状的
   - 同根词
     - adj.
-      - `needled` 针刺的
+      - `needled`
+        - 针刺的
     - n.
-      - `needle` 针；指针；刺激；针状物
+      - `needle`
+        - 针；指针；刺激；针状物
     - v.
-      - `needled` 用针缝；穿行（needle的过去分词）
+      - `needled`
+        - 用针缝；穿行（needle的过去分词）
     - vi.
-      - `needle` 缝纫；做针线
+      - `needle`
+        - 缝纫；做针线
     - vt.
-      - `needle` 刺激；用针缝
+      - `needle`
+        - 刺激；用针缝
   - 近义词
-    - adj. 针状的
-      - `acerose`
-      - `acicular`
+    - adj.
+      - 针状的
+        - `acerose`
+        - `acicular`
   - 例句
     - `The Pacific viperfish has jagged, needlelike teeth so outsized it can't close its mouth.`
       - 太平洋蝰鱼那锯齿状的针一样的牙齿是如此之大，以至于它不能合上自己的嘴巴。

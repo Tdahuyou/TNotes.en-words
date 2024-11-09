@@ -1,23 +1,31 @@
 - epic
   - 发音
-    - 英 `/'epɪk/`
-    - 美 `/'ɛpɪk/`
+    - 英
+      - `/'epɪk/`
+    - 美
+      - `/'ɛpɪk/`
   - 词义
-    - adj. 史诗般的；艰苦卓绝的；壮丽的，宏大的
-    - `an epic book, poem, or film tells a long story about brave actions and exciting events`
-    - n. 史诗；史诗般的电影；壮举
-    - `a book, poem, or film that tells a long story about brave actions and exciting events`
+    - adj.
+      - 史诗般的；艰苦卓绝的；壮丽的，宏大的
+        - `an epic book, poem, or film tells a long story about brave actions and exciting events`
+    - n.
+      - 史诗；史诗般的电影；壮举
+        - `a book, poem, or film that tells a long story about brave actions and exciting events`
   - 同根词
     - adj.
-      - `epical` 英勇的；叙事诗的；有重大历史意义的
+      - `epical`
+        - 英勇的；叙事诗的；有重大历史意义的
   - 近义词
-    - adj. 史诗的，叙事诗的
-      - `rhapsodical`
-    - n. 史诗；叙事诗；史诗般的作品
-      - `epos`
-      - `heroic`
+    - adj.
+      - 史诗的，叙事诗的
+        - `rhapsodical`
+    - n.
+      - 史诗；叙事诗；史诗般的作品
+        - `epos`
+        - `heroic`
   - 短语
-    - `epic poetry` 史诗 
+    - `epic poetry`
+      - 史诗 
   - 例句
     - `an epic tale of mutiny on the high seas`
       - 关于公海哗变的惊心动魄的故事

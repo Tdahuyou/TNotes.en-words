@@ -1,9 +1,12 @@
 - midlatitude
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 中间纬度
+    - n.
+      - 中间纬度
   - 例句
     - `Fig. 5 depicts the Southern Hemisphere midlatitude 300-hPa geopotential height field.`
       - 图5给出南半球中纬度300百帕位势高度场。

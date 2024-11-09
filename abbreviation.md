@@ -1,25 +1,34 @@
 - abbreviation
   - 发音
-    - 英 `/əbriːvɪ'eɪʃ(ə)n/`
-    - 美 `/əˌbrivɪ'eʃən/`
+    - 英
+      - `/əbriːvɪ'eɪʃ(ə)n/`
+    - 美
+      - `/əˌbrivɪ'eʃən/`
   - 词义
-    - n. 缩写；缩写词
-    - `a short form of a word or expression`
+    - n.
+      - 缩写；缩写词
+        - `a short form of a word or expression`
   - 同根词
     - adj.
-      - `abbreviated` 简短的；小型的；服装超短的
+      - `abbreviated`
+        - 简短的；小型的；服装超短的
     - n.
-      - `abbreviator` 缩写者；节略者
+      - `abbreviator`
+        - 缩写者；节略者
     - v.
-      - `abbreviated` 缩写；节略（abbreviate的过去分词）
+      - `abbreviated`
+        - 缩写；节略（abbreviate的过去分词）
     - vi.
-      - `abbreviate` 使用缩写词
+      - `abbreviate`
+        - 使用缩写词
     - vt.
-      - `abbreviate` 缩写，使省略；使简短
+      - `abbreviate`
+        - 缩写，使省略；使简短
   - 近义词
-    - n. [语]缩写；缩写词
-      - `abridgement`
-      - `sigillum`
+    - n.
+      - [语]缩写；缩写词
+        - `abridgement`
+        - `sigillum`
   - 例句
     - `The abbreviation for Kansas is KS.`
       - 的缩写是。

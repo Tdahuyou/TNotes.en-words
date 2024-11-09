@@ -1,30 +1,47 @@
 - alienation
   - 发音
-    - 英 `/ˌeɪliə'neɪʃn/`
-    - 美 `/,eiljə'neiʃən/`
+    - 英
+      - `/ˌeɪliə'neɪʃn/`
+    - 美
+      - `/,eiljə'neiʃən/`
   - 词义
-    - n. 疏远；离间
-    - `the feeling of not being part of society or a group`
+    - n.
+      - 疏远；离间
+        - `the feeling of not being part of society or a group`
   - 同根词
     - adj.
-      - `alien` 外国的；相异的，性质不同的；不相容的
-      - `alienated` 疏远的；被疏远的
-      - `alienable` 可让与的，可转让的
+      - `alien`
+        - 外国的；相异的，性质不同的；不相容的
+      - `alienated`
+        - 疏远的；被疏远的
+      - `alienable`
+        - 可让与的，可转让的
     - n.
-      - `alien` 外国人，外侨；外星人
-      - `alienator` 疏远者；赠予者；转让者
-      - `alienee` 受让人
-      - `alienism` 外侨身份（等于alienage）；精神错乱
-      - `alienist` 精神病医生；精神病学家
-      - `alienor` 让渡人
+      - `alien`
+        - 外国人，外侨；外星人
+      - `alienator`
+        - 疏远者；赠予者；转让者
+      - `alienee`
+        - 受让人
+      - `alienism`
+        - 外侨身份（等于alienage）；精神错乱
+      - `alienist`
+        - 精神病医生；精神病学家
+      - `alienor`
+        - 让渡人
     - v.
-      - `alienated` 使疏离（alienate的过去式）
+      - `alienated`
+        - 使疏离（alienate的过去式）
     - vt.
-      - `alien` 让渡，转让
-      - `alienate` 使疏远，离间；让与
+      - `alien`
+        - 让渡，转让
+      - `alienate`
+        - 使疏远，离间；让与
   - 近义词
-    - n. 异化；疏远；转让；[内科]精神错乱；间离效果（alienation effect）
-      - `distance`
-      - `negotiation`
+    - n.
+      - 异化；疏远；转让；[内科]精神错乱；间离效果（alienation effect）
+        - `distance`
+        - `negotiation`
   - 短语
-    - `sense of alienation` 疏离感 
+    - `sense of alienation`
+      - 疏离感 

@@ -1,15 +1,20 @@
 - anemone
   - 发音
-    - 英 `/ə'nemənɪ/`
-    - 美 `/ə'nɛməni/`
+    - 英
+      - `/ə'nemənɪ/`
+    - 美
+      - `/ə'nɛməni/`
   - 词义
-    - n. [植]银莲花,[动]海葵
-    - `a plant with red, white, or blue flowers`
+    - n.
+      - [植]银莲花,[动]海葵
+        - `a plant with red, white, or blue flowers`
   - 近义词
-    - n. 银莲花；银莲花属
-      - `windflower`
+    - n.
+      - 银莲花；银莲花属
+        - `windflower`
   - 短语
-    - `sea anemone` [动]海葵 
+    - `sea anemone`
+      - [动]海葵 
   - 例句
     - `In the spring all everything around the place is covered with primroses. At the moment wood anemone is abloom.`
       - 春天来了，这里周围的一切都被樱草花淹没，而此刻银莲花正在愉快的盛放。

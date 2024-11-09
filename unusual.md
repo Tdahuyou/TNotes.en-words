@@ -1,20 +1,26 @@
 - unusual
   - 发音
-    - 英 `/ʌn'juːʒʊəl/`
-    - 美 `/ʌn'jʊʒʊəl/`
+    - 英
+      - `/ʌn'juːʒʊəl/`
+    - 美
+      - `/ʌn'jʊʒʊəl/`
   - 词义
-    - adj. 异常的,独特的
-    - `different from what is usual or normal`
+    - adj.
+      - 异常的,独特的
+        - `different from what is usual or normal`
   - 同根词
     - adv.
-      - `unusually` 非常；异乎寻常地；显著地
+      - `unusually`
+        - 非常；异乎寻常地；显著地
   - 近义词
-    - adj. 不寻常的；与众不同的；不平常的
-      - `different`
-      - `distinctive`
-      - `apart`
+    - adj.
+      - 不寻常的；与众不同的；不平常的
+        - `different`
+        - `distinctive`
+        - `apart`
   - 短语
-    - `unusual weather` 异常天气 
+    - `unusual weather`
+      - 异常天气 
   - 例句
     - `an unusual feature`
       - 不寻常的特点

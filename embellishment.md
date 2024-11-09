@@ -1,19 +1,25 @@
 - embellishment
   - 发音
-    - 英 `/ɪm'belɪʃmənt/`
-    - 美 `/ɪm'bɛlɪʃmənt/`
+    - 英
+      - `/ɪm'belɪʃmənt/`
+    - 美
+      - `/ɪm'bɛlɪʃmənt/`
   - 词义
-    - n. 装饰；装饰品
-    - `An embellishment is a decoration added to something to make it seem more attractive or interesting`
+    - n.
+      - 装饰；装饰品
+        - `An embellishment is a decoration added to something to make it seem more attractive or interesting`
   - 同根词
     - vi.
-      - `embellish` 装饰起来；加以润色
+      - `embellish`
+        - 装饰起来；加以润色
     - vt.
-      - `embellish` 修饰；装饰；润色
+      - `embellish`
+        - 修饰；装饰；润色
   - 近义词
-    - n. [服装]装饰，[建]修饰；润色
-      - `decoration`
-      - `adornment`
+    - n.
+      - [服装]装饰，[建]修饰；润色
+        - `decoration`
+        - `adornment`
   - 例句
     - `...Renaissance embellishments.`
       - ...文艺复兴时期的装饰。

@@ -1,26 +1,36 @@
 - ignorance
   - 发音
-    - 英 `/'ɪgn(ə)r(ə)ns/`
-    - 美 `/'ɪɡnərəns/`
+    - 英
+      - `/'ɪgn(ə)r(ə)ns/`
+    - 美
+      - `/'ɪɡnərəns/`
   - 词义
-    - n. 无知
-    - `lack of knowledge or information about something`
+    - n.
+      - 无知
+        - `lack of knowledge or information about something`
   - 同根词
     - adj.
-      - `ignorant` 无知的；愚昧的
-      - `ignored` 被忽视的；被忽略的
+      - `ignorant`
+        - 无知的；愚昧的
+      - `ignored`
+        - 被忽视的；被忽略的
     - adv.
-      - `ignorantly` 无知地；不学无术地
+      - `ignorantly`
+        - 无知地；不学无术地
     - n.
-      - `ignoramus` 不学无术的人；无知的人
+      - `ignoramus`
+        - 不学无术的人；无知的人
     - v.
-      - `ignored` 忽略；不顾（ignore的过去分词）；不理会
+      - `ignored`
+        - 忽略；不顾（ignore的过去分词）；不理会
     - vt.
-      - `ignore` 驳回诉讼；忽视；不理睬
+      - `ignore`
+        - 驳回诉讼；忽视；不理睬
   - 近义词
-    - n. 无知，愚昧；不知，不懂
-      - `darkness`
-      - `unwisdom`
+    - n.
+      - 无知，愚昧；不知，不懂
+        - `darkness`
+        - `unwisdom`
   - 例句
     - `Excuse my ignorance, but how does it actually work?`
       - 请原谅我的无知，它究竟是如何运作的？

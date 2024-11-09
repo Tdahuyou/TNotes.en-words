@@ -1,10 +1,13 @@
 - everybody
   - 发音
-    - 英 `/'evrɪbɒdɪ/`
-    - 美 `/'ɛvrɪbɑdi/`
+    - 英
+      - `/'evrɪbɒdɪ/`
+    - 美
+      - `/'ɛvrɪbɑdi/`
   - 词义
-    - pron. 每个人
-    - `everyone`
+    - pron.
+      - 每个人
+        - `everyone`
   - 记忆
     - every(每个)+body(身体)→每个身体→每人
   - 例句

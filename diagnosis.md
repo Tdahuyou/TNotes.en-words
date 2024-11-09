@@ -1,36 +1,54 @@
 - diagnosis
   - 发音
-    - 英 `/ˌdaiəg'nəusis/`
-    - 美 `/,daɪəɡ'nosɪs/`
+    - 英
+      - `/ˌdaiəg'nəusis/`
+    - 美
+      - `/,daɪəɡ'nosɪs/`
   - 词义
-    - n. 诊断
-    - `the process of discovering exactly what is wrong with someone or something, by examining them closely`
+    - n.
+      - 诊断
+        - `the process of discovering exactly what is wrong with someone or something, by examining them closely`
   - 记忆
     - di + agnosis (看作cognis， 了解) → 了解病情后诊断 → 诊断
   - 同根词
     - adj.
-      - `diagnostic` 诊断的；特征的
+      - `diagnostic`
+        - 诊断的；特征的
     - n.
-      - `diagnostic` 诊断法；诊断结论
-      - `diagnostics` 诊断学（用作单数）
-      - `diagnosing` 诊断
-      - `diagnostician` 诊断专家；诊断医生
+      - `diagnostic`
+        - 诊断法；诊断结论
+      - `diagnostics`
+        - 诊断学（用作单数）
+      - `diagnosing`
+        - 诊断
+      - `diagnostician`
+        - 诊断专家；诊断医生
     - v.
-      - `diagnosing` 诊断（diagnose的现在分词）
+      - `diagnosing`
+        - 诊断（diagnose的现在分词）
     - vi.
-      - `diagnose` 诊断；判断
+      - `diagnose`
+        - 诊断；判断
     - vt.
-      - `diagnose` 诊断；断定
+      - `diagnose`
+        - 诊断；断定
   - 近义词
-    - n. [临床][计]诊断
-      - `diacrisis`
+    - n.
+      - [临床][计]诊断
+        - `diacrisis`
   - 短语
-    - `fault diagnosis` 故障诊断 
-    - `early diagnosis` 早期诊断 
-    - `differential diagnosis` 鉴别诊断 
-    - `failure diagnosis` 故障诊断，失效诊断 
-    - `prenatal diagnosis` 产前诊断，产前检查 
-    - `business diagnosis` 业务分析，企业诊断 
+    - `fault diagnosis`
+      - 故障诊断 
+    - `early diagnosis`
+      - 早期诊断 
+    - `differential diagnosis`
+      - 鉴别诊断 
+    - `failure diagnosis`
+      - 故障诊断，失效诊断 
+    - `prenatal diagnosis`
+      - 产前诊断，产前检查 
+    - `business diagnosis`
+      - 业务分析，企业诊断 
   - 例句
     - `An exact diagnosis can only be made by obtaining a blood sample.`
       - 只有抽取血样才能作出准确的诊断。

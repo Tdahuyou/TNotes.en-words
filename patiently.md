@@ -1,15 +1,21 @@
 - patiently
   - 发音
-    - 英 `/'peɪʃntlɪ/`
-    - 美 `/'peʃəntli/`
+    - 英
+      - `/'peɪʃntlɪ/`
+    - 美
+      - `/'peʃəntli/`
   - 词义
-    - adv. 耐心地
+    - adv.
+      - 耐心地
   - 同根词
     - adj.
-      - `patient` 有耐性的，能容忍的
+      - `patient`
+        - 有耐性的，能容忍的
     - n.
-      - `patient` 病人；患者
-      - `patience` 耐性，耐心；忍耐，容忍
+      - `patient`
+        - 病人；患者
+      - `patience`
+        - 耐性，耐心；忍耐，容忍
   - 例句
     - `The teacher told him to weigh this matter patiently.`
       - 老师让他耐心考虑这事。

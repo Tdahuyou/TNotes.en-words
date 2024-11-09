@@ -1,15 +1,21 @@
 - bursar
   - 发音
-    - 英 `/'bəːsə/`
-    - 美 `/'bə:sə/`
+    - 英
+      - `/'bəːsə/`
+    - 美
+      - `/'bə:sə/`
   - 词义
-    - n. 会计
+    - n.
+      - 会计
   - 同根词
     - adj.
-      - `bursarial` 会计员的
+      - `bursarial`
+        - 会计员的
     - n.
-      - `bursary` 财务办公室；大学奖学金
+      - `bursary`
+        - 财务办公室；大学奖学金
   - 近义词
-    - n. 财务主管；会计员；领取奖学金的学生
-      - `financial executive`
-      - `financial director`
+    - n.
+      - 财务主管；会计员；领取奖学金的学生
+        - `financial executive`
+        - `financial director`

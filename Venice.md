@@ -1,9 +1,12 @@
 - Venice
   - 发音
-    - 英 `/ˈvɛnɪs/`
-    - 美 `/ˈvɛnɪs/`
+    - 英
+      - `/ˈvɛnɪs/`
+    - 美
+      - `/ˈvɛnɪs/`
   - 词义
-    - n. 威尼斯(意大利港市)
+    - n.
+      - 威尼斯(意大利港市)
   - 例句
     - `They call it “the Venice of the North” and “beauty on water”.`
       - 人们把它叫做北方的威尼斯，或者水上美人。

@@ -1,12 +1,16 @@
 - hers
   - 发音
-    - 英 `/hɜːz/`
-    - 美 `/hɝz/`
+    - 英
+      - `/hɜːz/`
+    - 美
+      - `/hɝz/`
   - 词义
-    - pron. 她的
-    - `used to refer to something that belongs to or is connected with a woman, girl, or female animal that has already been mentioned`
+    - pron.
+      - 她的
+        - `used to refer to something that belongs to or is connected with a woman, girl, or female animal that has already been mentioned`
   - 短语
-    - `of hers` (属于)她的 
+    - `of hers`
+      - (属于)她的 
   - 例句
     - `He bent and touched his mouth to hers.`
       - 他俯身吻她的嘴唇。

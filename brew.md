@@ -1,31 +1,43 @@
 - brew
   - 发音
-    - 英 `/bruː/`
-    - 美 `/brʊ/`
+    - 英
+      - `/bruː/`
+    - 美
+      - `/brʊ/`
   - 词义
-    - v. 酿造；冲泡；酝酿，行将发生
-    - `to make beer`
-    - n. 冲泡的饮料；啤酒
-    - `a drink that is brewed, especially tea`
+    - v.
+      - 酿造；冲泡；酝酿，行将发生
+        - `to make beer`
+    - n.
+      - 冲泡的饮料；啤酒
+        - `a drink that is brewed, especially tea`
   - 记忆
     - 喝下自酿(brew)的苦酒， 他紧皱起眉头(brow)
   - 同根词
     - n.
-      - `brewery` 啤酒厂
-      - `brewing` 酿造；酝酿；计划
-      - `brewer` 啤酒制造者；阴谋家
-      - `brewage` 酿造；酝酿；调制；酿制饮料
+      - `brewery`
+        - 啤酒厂
+      - `brewing`
+        - 酿造；酝酿；计划
+      - `brewer`
+        - 啤酒制造者；阴谋家
+      - `brewage`
+        - 酿造；酝酿；调制；酿制饮料
     - v.
-      - `brewing` 酿造；策划阴谋（brew的ing形式）
+      - `brewing`
+        - 酿造；策划阴谋（brew的ing形式）
   - 近义词
-    - vt. 酿造；酝酿
-      - `vint`
-      - `vinify`
-    - vi. 酿酒；被冲泡；即将发生
-      - `impend`
-    - n. 啤酒；质地
-      - `beer`
-      - `texture`
+    - vt.
+      - 酿造；酝酿
+        - `vint`
+        - `vinify`
+    - vi.
+      - 酿酒；被冲泡；即将发生
+        - `impend`
+    - n.
+      - 啤酒；质地
+        - `beer`
+        - `texture`
   - 例句
     - `Every beer on the menu was brewed locally.`
       - 酒单上的所有啤酒都是本地酿造的。

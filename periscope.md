@@ -1,14 +1,18 @@
 - periscope
   - 发音
-    - 英 `/'periskəup/`
-    - 美 `/'pɛrɪskop/`
+    - 英
+      - `/'periskəup/`
+    - 美
+      - `/'pɛrɪskop/`
   - 词义
-    - n. 潜望镜
-    - `a long tube with mirrors fitted in it, used to look over the top of something, especially to see out of a  submarine `
+    - n.
+      - 潜望镜
+        - `a long tube with mirrors fitted in it, used to look over the top of something, especially to see out of a  submarine `
   - 近义词
-    - n. [光][军][船]潜望镜
-      - `kleptoscope`
-      - `omniscope`
+    - n.
+      - [光][军][船]潜望镜
+        - `kleptoscope`
+        - `omniscope`
   - 例句
     - `The captain of the submarine has got this periscope thing.`
       - 那个潜艇艇长有个类似于潜望镜之类的东西。

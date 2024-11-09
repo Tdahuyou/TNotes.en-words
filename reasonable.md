@@ -1,46 +1,69 @@
 - reasonable
   - 发音
-    - 英 `/'riːznəbl/`
-    - 美 `/'riznəbl/`
+    - 英
+      - `/'riːznəbl/`
+    - 美
+      - `/'riznəbl/`
   - 词义
-    - adj. 合理的，适当的；通情达理的；公道的
-    - `fair and sensible`
+    - adj.
+      - 合理的，适当的；通情达理的；公道的
+        - `fair and sensible`
   - 记忆
     - reason(道理) + able(能…的) → 能讲道理的 → 通情达理的
   - 同根词
     - adj.
-      - `reasoning` 推理的
-      - `reasoned` 详尽论述的；理由充分的；合乎逻辑的
-      - `reasonless` 不合理的；不理智的，无理性的；无推理能力的
+      - `reasoning`
+        - 推理的
+      - `reasoned`
+        - 详尽论述的；理由充分的；合乎逻辑的
+      - `reasonless`
+        - 不合理的；不理智的，无理性的；无推理能力的
     - adv.
-      - `reasonably` 合理地；相当地；适度地
+      - `reasonably`
+        - 合理地；相当地；适度地
     - n.
-      - `reason` 理由；理性；动机
-      - `reasoning` 推理；论证；评理
-      - `reasonableness` 合理；妥当
+      - `reason`
+        - 理由；理性；动机
+      - `reasoning`
+        - 推理；论证；评理
+      - `reasonableness`
+        - 合理；妥当
     - v.
-      - `reasoning` 推论；说服（reason的ing形式）
-      - `reasoned` 说服；推断（reason的过去分词）
+      - `reasoning`
+        - 推论；说服（reason的ing形式）
+      - `reasoned`
+        - 说服；推断（reason的过去分词）
     - vi.
-      - `reason` 推论；劝说
+      - `reason`
+        - 推论；劝说
     - vt.
-      - `reason` 说服；推论；辩论
+      - `reason`
+        - 说服；推论；辩论
   - 近义词
-    - adj. 合理的，公道的；通情达理的
-      - `rational`
-      - `logical`
-      - `possible`
-      - `just`
-      - `legitimate`
+    - adj.
+      - 合理的，公道的；通情达理的
+        - `rational`
+        - `logical`
+        - `possible`
+        - `just`
+        - `legitimate`
   - 短语
-    - `reasonable price` 合理价格；价格公道 
-    - `reasonable distribution` 合理级配 
-    - `reasonable time` 合理期限；适当的时间 
-    - `reasonable profit` 合理的利润 
-    - `reasonable value` 合理价值；合理值 
-    - `reasonable doubt` 合理的怀疑 
-    - `reasonable expenses` 合理费用 
-    - `reasonable excuse` 合理解释，合理的辩解 
+    - `reasonable price`
+      - 合理价格；价格公道 
+    - `reasonable distribution`
+      - 合理级配 
+    - `reasonable time`
+      - 合理期限；适当的时间 
+    - `reasonable profit`
+      - 合理的利润 
+    - `reasonable value`
+      - 合理价值；合理值 
+    - `reasonable doubt`
+      - 合理的怀疑 
+    - `reasonable expenses`
+      - 合理费用 
+    - `reasonable excuse`
+      - 合理解释，合理的辩解 
   - 例句
     - `a reasonable request`
       - 合情合理的要求

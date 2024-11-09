@@ -1,30 +1,45 @@
 - greenish
   - 发音
-    - 英 `/undefined/`
-    - 美 `/'ɡrinɪʃ/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/'ɡrinɪʃ/`
   - 词义
-    - adj. 呈绿色的
-    - `slightly green`
+    - adj.
+      - 呈绿色的
+        - `slightly green`
   - 同根词
     - adj.
-      - `green` 绿色的；青春的
+      - `green`
+        - 绿色的；青春的
     - adv.
-      - `greenly` 绿色地；不熟练地
+      - `greenly`
+        - 绿色地；不熟练地
     - n.
-      - `green` 绿色；青春
-      - `greenery` 绿色植物；温室
-      - `greening` 绿皮苹果
-      - `greenbelt` 城市周围的绿色地带
-      - `greenness` 绿色；未熟；新鲜
-      - `greensickness` 黄萎病；绿色贫血
+      - `green`
+        - 绿色；青春
+      - `greenery`
+        - 绿色植物；温室
+      - `greening`
+        - 绿皮苹果
+      - `greenbelt`
+        - 城市周围的绿色地带
+      - `greenness`
+        - 绿色；未熟；新鲜
+      - `greensickness`
+        - 黄萎病；绿色贫血
     - v.
-      - `greening` 使变绿色（green的ing形式）
+      - `greening`
+        - 使变绿色（green的ing形式）
     - vi.
-      - `green` 变绿色
+      - `green`
+        - 变绿色
     - vt.
-      - `green` 使…变绿色
+      - `green`
+        - 使…变绿色
   - 短语
-    - `greenish yellow` 青黄色 
+    - `greenish yellow`
+      - 青黄色 
   - 例句
     - `...his cold greenish eyes.`
       - ...他冷酷的浅绿色眼睛。

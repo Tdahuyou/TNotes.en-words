@@ -1,14 +1,18 @@
 - drunkard
   - 发音
-    - 英 `/'drʌŋkəd/`
-    - 美 `/'drʌŋkɚd/`
+    - 英
+      - `/'drʌŋkəd/`
+    - 美
+      - `/'drʌŋkɚd/`
   - 词义
-    - n. 酒鬼，醉汉
-    - `A drunkard is someone who frequently gets drunk`
+    - n.
+      - 酒鬼，醉汉
+        - `A drunkard is someone who frequently gets drunk`
   - 近义词
-    - n. 酒鬼，醉汉
-      - `lusher`
-      - `bibber`
+    - n.
+      - 酒鬼，醉汉
+        - `lusher`
+        - `bibber`
   - 例句
     - `Is the beauty a drunkard?`
       - 那美人是酒鬼吗？

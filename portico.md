@@ -1,14 +1,18 @@
 - portico
   - 发音
-    - 英 `/'pɔːtɪkəʊ/`
-    - 美 `/'pɔrtɪko/`
+    - 英
+      - `/'pɔːtɪkəʊ/`
+    - 美
+      - `/'pɔrtɪko/`
   - 词义
-    - n. [建](有圆柱的)门廊,柱廊
-    - `a covered entrance to a building, consisting of a roof supported by  pillar s `
+    - n.
+      - [建](有圆柱的)门廊,柱廊
+        - `a covered entrance to a building, consisting of a roof supported by  pillar s `
   - 近义词
-    - n. （有圆柱的）[建]门廊；柱廊
-      - `porch`
-      - `entrance hall`
+    - n.
+      - （有圆柱的）[建]门廊；柱廊
+        - `porch`
+        - `entrance hall`
   - 例句
     - `We stood on the North Lawn gazing with wonder at her grand portico.`
       - 我们站在南草坪上惊奇地盯着白宫那巨大的圆柱门廊。

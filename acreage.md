@@ -1,17 +1,22 @@
 - acreage
   - 发音
-    - 英 `/'eɪk(ə)rɪdʒ/`
-    - 美 `/'ekərɪdʒ/`
+    - 英
+      - `/'eɪk(ə)rɪdʒ/`
+    - 美
+      - `/'ekərɪdʒ/`
   - 词义
-    - n. 英亩数,面积
-    - `the area of a piece of land measured in acres`
+    - n.
+      - 英亩数,面积
+        - `the area of a piece of land measured in acres`
   - 同根词
     - n.
-      - `acre` 土地，地产；英亩
+      - `acre`
+        - 土地，地产；英亩
   - 近义词
-    - n. 面积，[测]英亩数
-      - `area`
-      - `proportion`
+    - n.
+      - 面积，[测]英亩数
+        - `area`
+        - `proportion`
   - 例句
     - `The Palestinians would balk at that as far too much, even if they got the equivalent acreage back, perhaps adjacent to the Gaza Strip.`
       - 巴基斯坦方对于这个提议望而却步，即便他们能换回同样多的英亩数，还有可能得到加沙地带的邻近区域。

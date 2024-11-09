@@ -1,9 +1,12 @@
 - bureaucratization
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 官化
+    - n.
+      - 官化
   - 例句
     - `At the same time, government experienced the rise of bureaucratization and the administrative state.`
       - 同时，政府经历了官僚化和行政州的风险。

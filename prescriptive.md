@@ -1,25 +1,34 @@
 - prescriptive
   - 发音
-    - 英 `/pri'skriptiv/`
-    - 美 `/prɪ'skrɪptɪv/`
+    - 英
+      - `/pri'skriptiv/`
+    - 美
+      - `/prɪ'skrɪptɪv/`
   - 词义
-    - adj. 说明性的；规定的；约定俗成的
-    - `saying how something should or must be done, or what should be done`
+    - adj.
+      - 说明性的；规定的；约定俗成的
+        - `saying how something should or must be done, or what should be done`
   - 同根词
     - adj.
-      - `prescription` 凭处方方可购买的
-      - `prescript` 规定的；有时效的
+      - `prescription`
+        - 凭处方方可购买的
+      - `prescript`
+        - 规定的；有时效的
     - n.
-      - `prescription` 药方；指示；惯例
-      - `prescript` 规定；命令
-      - `prescriptivism` 规范主义；规约论；指示论
+      - `prescription`
+        - 药方；指示；惯例
+      - `prescript`
+        - 规定；命令
+      - `prescriptivism`
+        - 规范主义；规约论；指示论
   - 近义词
-    - adj. 规定的，规范的；指定的
-      - `specified`
-      - `stated`
-      - `regulation`
-      - `named`
-      - `set`
+    - adj.
+      - 规定的，规范的；指定的
+        - `specified`
+        - `stated`
+        - `regulation`
+        - `named`
+        - `set`
   - 例句
     - `prescriptive teaching methods`
       - 规定的教学方法

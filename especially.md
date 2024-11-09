@@ -1,21 +1,27 @@
 - especially
   - 发音
-    - 英 `/ɪˈspeʃəlɪ/`
-    - 美 `/ɪˈspɛʃlɪ/`
+    - 英
+      - `/ɪˈspeʃəlɪ/`
+    - 美
+      - `/ɪˈspɛʃlɪ/`
   - 词义
-    - adv. 尤其
-    - `used to emphasize that something is more important or happens more with one particular thing than with others`
+    - adv.
+      - 尤其
+        - `used to emphasize that something is more important or happens more with one particular thing than with others`
   - 记忆
     - 来自especial (adj. 特别的)
   - 同根词
     - adj.
-      - `especial` 特殊的，特别的
+      - `especial`
+        - 特殊的，特别的
   - 近义词
-    - adv. 特别；尤其；格外
-      - `peculiarly`
-      - `notably`
+    - adv.
+      - 特别；尤其；格外
+        - `peculiarly`
+        - `notably`
   - 短语
-    - `especially english` 具有英国特征的 
+    - `especially english`
+      - 具有英国特征的 
   - 例句
     - `I never liked long walks, especially in winter.`
       - 我向来不喜欢长距离散步，尤其在冬天。

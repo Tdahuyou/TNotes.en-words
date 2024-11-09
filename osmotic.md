@@ -1,19 +1,28 @@
 - osmotic
   - 发音
-    - 英 `/ɒz'mɒtɪk/`
-    - 美 `/ɑs'motɪk/`
+    - 英
+      - `/ɒz'mɒtɪk/`
+    - 美
+      - `/ɑs'motɪk/`
   - 词义
-    - adj. 渗透性的，渗透的
+    - adj.
+      - 渗透性的，渗透的
   - 近义词
-    - adj. 渗透性的，渗透的
-      - `infiltrative`
-      - `saturated`
+    - adj.
+      - 渗透性的，渗透的
+        - `infiltrative`
+        - `saturated`
   - 短语
-    - `osmotic pressure` 渗透压 
-    - `osmotic potential` 渗透势 
-    - `osmotic regulation` 渗透调节；渗透压调节作用；渗透第；渗透压调筛 
-    - `osmotic fragility` 红细胞渗透脆性；渗透脆性 
-    - `osmotic coefficient` [化]渗透系数 
+    - `osmotic pressure`
+      - 渗透压 
+    - `osmotic potential`
+      - 渗透势 
+    - `osmotic regulation`
+      - 渗透调节；渗透压调节作用；渗透第；渗透压调筛 
+    - `osmotic fragility`
+      - 红细胞渗透脆性；渗透脆性 
+    - `osmotic coefficient`
+      - [化]渗透系数 
   - 例句
     - `Here's my osmotic pressure measurement.`
       - 这是我的渗透压力的测量方法。

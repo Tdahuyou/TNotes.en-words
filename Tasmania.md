@@ -1,9 +1,12 @@
 - Tasmania
   - 发音
-    - 英 `/tæz'meiniə; -njə/`
-    - 美 `/undefined/`
+    - 英
+      - `/tæz'meiniə; -njə/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 塔斯马尼亚岛,塔斯马尼亚州(澳大利亚州名)
+    - n.
+      - 塔斯马尼亚岛,塔斯马尼亚州(澳大利亚州名)
   - 例句
     - `The next partial eclipse of the sun will occur on Nov. 25, 2011, but it will only be visible from Antarctica, Tasmania, New Zealand and southern South Africa.`
       - 下一次的太阳日偏食将发生在2011年11月25日，但它只能从南极洲、塔斯马尼亚岛、新西兰和南非的南部可以见到。

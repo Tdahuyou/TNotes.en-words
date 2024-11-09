@@ -1,10 +1,13 @@
 - him
   - 发音
-    - 英 `/hɪm/`
-    - 美 `/hɪm/`
+    - 英
+      - `/hɪm/`
+    - 美
+      - `/hɪm/`
   - 词义
-    - pron. （宾格）他
-    - `used to refer to a man, boy, or male animal that has already been mentioned or is already known about`
+    - pron.
+      - （宾格）他
+        - `used to refer to a man, boy, or male animal that has already been mentioned or is already known about`
   - 例句
     - `Are you in love with him?`
       - 你爱上他了吗？

@@ -1,19 +1,25 @@
 - anguished
   - 发音
-    - 英 `/'æŋgwɪʃt/`
-    - 美 `/'æŋɡwiʃt/`
+    - 英
+      - `/'æŋgwɪʃt/`
+    - 美
+      - `/'æŋɡwiʃt/`
   - 词义
-    - adj. 痛苦的,苦恼的
-    - `Anguished means showing or feeling great mental suffering or physical pain`
+    - adj.
+      - 痛苦的,苦恼的
+        - `Anguished means showing or feeling great mental suffering or physical pain`
   - 记忆
     - angu(痛苦) + ish → 极大的痛苦
   - 同根词
     - n.
-      - `anguish` 痛苦；苦恼
+      - `anguish`
+        - 痛苦；苦恼
     - vi.
-      - `anguish` 感到极度的痛苦
+      - `anguish`
+        - 感到极度的痛苦
     - vt.
-      - `anguish` 使极度痛苦
+      - `anguish`
+        - 使极度痛苦
   - 例句
     - `She let out an anguished cry.`
       - 她发出了一声极为痛苦的叫喊。

@@ -1,17 +1,23 @@
 - dollop
   - 发音
-    - 英 `/'dɒləp/`
-    - 美 `/'dɑləp/`
+    - 英
+      - `/'dɒləp/`
+    - 美
+      - `/'dɑləp/`
   - 词义
-    - n. 团，块
-    - `a small amount of soft food, usually dropped from a spoon`
-    - vt. 厚厚地涂抹
-    - vi. 啪地落下；噗通一声坠落
+    - n.
+      - 团，块
+        - `a small amount of soft food, usually dropped from a spoon`
+    - vt.
+      - 厚厚地涂抹
+    - vi.
+      - 啪地落下；噗通一声坠落
   - 近义词
-    - n. 团，块
-      - `mass`
-      - `piece`
-      - `block`
+    - n.
+      - 团，块
+        - `mass`
+        - `piece`
+        - `block`
   - 例句
     - `She put a dollop if ice-cream in each bowl.`
       - 她在每个碗里放了一团冰淇淋。

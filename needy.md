@@ -1,21 +1,27 @@
 - needy
   - 发音
-    - 英 `/'niːdi/`
-    - 美 `/'nidi/`
+    - 英
+      - `/'niːdi/`
+    - 美
+      - `/'nidi/`
   - 词义
-    - adj. 贫穷的，贫困的
-    - `having very little food or money`
+    - adj.
+      - 贫穷的，贫困的
+        - `having very little food or money`
   - 记忆
     - need(需要) + y → 什么都需要 → 贫穷的
   - 同根词
     - n.
-      - `neediness` 贫穷
+      - `neediness`
+        - 贫穷
   - 近义词
-    - adj. 贫困的；贫穷的；生活艰苦的
-      - `poor`
-      - `indigent`
+    - adj.
+      - 贫困的；贫穷的；生活艰苦的
+        - `poor`
+        - `indigent`
   - 短语
-    - `needy student` 家庭经济困难的学生 
+    - `needy student`
+      - 家庭经济困难的学生 
   - 例句
     - `a needy family`
       - 贫困家庭

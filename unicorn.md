@@ -1,14 +1,18 @@
 - unicorn
   - 发音
-    - 英 `/'juːnɪkɔːn/`
-    - 美 `/'junɪkɔrn/`
+    - 英
+      - `/'juːnɪkɔːn/`
+    - 美
+      - `/'junɪkɔrn/`
   - 词义
-    - n. 独角兽；麒麟
-    - `an imaginary animal like a white horse with a long straight horn growing on its head`
+    - n.
+      - 独角兽；麒麟
+        - `an imaginary animal like a white horse with a long straight horn growing on its head`
   - 近义词
-    - n. 独角兽；麒麟
-      - `kylin`
-      - `Kirin`
+    - n.
+      - 独角兽；麒麟
+        - `kylin`
+        - `Kirin`
   - 例句
     - `The reason there are so few unicorn sightings today isn't because they are mythical creatures that never existed, but because of modern society's moral depravity.`
       - 这些年很少有人见到独角兽，这并非因为那都是童话，现实里压根就不存在什么的。 而是现代社会人心不古，道德沦丧。

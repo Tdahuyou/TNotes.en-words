@@ -1,15 +1,19 @@
 - celebrity
   - 发音
-    - 英 `/sɪ'lebrɪtɪ/`
-    - 美 `/sə'lɛbrəti/`
+    - 英
+      - `/sɪ'lebrɪtɪ/`
+    - 美
+      - `/sə'lɛbrəti/`
   - 词义
-    - n. 名声,名人
-    - `a famous living person`
+    - n.
+      - 名声,名人
+        - `a famous living person`
   - 近义词
-    - n. 名人；名声
-      - `personality`
-      - `lion`
-      - `fame`
+    - n.
+      - 名人；名声
+        - `personality`
+        - `lion`
+        - `fame`
   - 例句
     - `a sporting celebrity`
       - 体育明星

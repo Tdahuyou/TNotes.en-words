@@ -1,25 +1,35 @@
 - author
   - 发音
-    - 英 `/'ɔːθə/`
-    - 美 `/'ɔθɚ/`
+    - 英
+      - `/'ɔːθə/`
+    - 美
+      - `/'ɔθɚ/`
   - 词义
-    - n. 著者；作家
-    - `someone who has written a book`
+    - n.
+      - 著者；作家
+        - `someone who has written a book`
   - 记忆
     - “奥瑟” → 奥瑟是一位名作家 → 作者
   - 同根词
     - n.
-      - `authorship` （书等的）原创作者，来源；作者的身份；著述业
-      - `authoress` 女作家，女作者
+      - `authorship`
+        - （书等的）原创作者，来源；作者的身份；著述业
+      - `authoress`
+        - 女作家，女作者
   - 近义词
-    - n. [图情]作者；作家；创始人
-      - `writer`
-      - `pen`
+    - n.
+      - [图情]作者；作家；创始人
+        - `writer`
+        - `pen`
   - 短语
-    - `original author` 原著者 
-    - `main author` 主要作者 
-    - `corresponding author` n. 通讯作者；联系人 
-    - `other author` 其他作者 
+    - `original author`
+      - 原著者 
+    - `main author`
+      - 主要作者 
+    - `corresponding author`
+      - n. 通讯作者；联系人 
+    - `other author`
+      - 其他作者 
   - 例句
     - `Nothomb is a Belgian author.`
       - 诺东是位比利时作家。

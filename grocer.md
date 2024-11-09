@@ -1,17 +1,22 @@
 - grocer
   - 发音
-    - 英 `/'grəʊsə/`
-    - 美 `/ɡrosɚ/`
+    - 英
+      - `/'grəʊsə/`
+    - 美
+      - `/ɡrosɚ/`
   - 词义
-    - n. 杂货店；食品商
-    - `someone who owns or works in a shop that sells food and other things used in the home`
+    - n.
+      - 杂货店；食品商
+        - `someone who owns or works in a shop that sells food and other things used in the home`
   - 同根词
     - n.
-      - `grocery` 食品杂货店
+      - `grocery`
+        - 食品杂货店
   - 近义词
-    - n. 杂货店；食品商
-      - `general store`
-      - `variety store`
+    - n.
+      - 杂货店；食品商
+        - `general store`
+        - `variety store`
   - 例句
     - `The cook and the grocer haggled over the price of eggs.`
       - 厨师和杂货商为蛋价计较个没完。

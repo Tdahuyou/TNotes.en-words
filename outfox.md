@@ -1,10 +1,13 @@
 - outfox
   - 发音
-    - 英 `/ˌaut'fɑːks/`
-    - 美 `/,aʊt'fɑks/`
+    - 英
+      - `/ˌaut'fɑːks/`
+    - 美
+      - `/,aʊt'fɑks/`
   - 词义
-    - v. 以机智胜过
-    - `If you outfox someone, you defeat them in some way because you are more clever than they are`
+    - v.
+      - 以机智胜过
+        - `If you outfox someone, you defeat them in some way because you are more clever than they are`
   - 记忆
     - out(出) + fox(狐狸) → 胜过狐狸 → 以机智胜过
   - 例句

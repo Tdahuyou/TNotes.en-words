@@ -1,53 +1,85 @@
 - easy
   - 发音
-    - 英 `/'iːzɪ/`
-    - 美 `/'izi/`
+    - 英
+      - `/'iːzɪ/`
+    - 美
+      - `/'izi/`
   - 词义
-    - adj. 容易的
-    - `not difficult to do, and not needing much effort`
+    - adj.
+      - 容易的
+        - `not difficult to do, and not needing much effort`
   - 同根词
     - adv.
-      - `easily` 容易地；无疑地
+      - `easily`
+        - 容易地；无疑地
     - n.
-      - `ease` 轻松，舒适；安逸，悠闲
-      - `easing` 吃势；容位；松型
-      - `easiness` 容易；舒适；轻松
+      - `ease`
+        - 轻松，舒适；安逸，悠闲
+      - `easing`
+        - 吃势；容位；松型
+      - `easiness`
+        - 容易；舒适；轻松
     - v.
-      - `easing` 释放（ease的现在分词）
+      - `easing`
+        - 释放（ease的现在分词）
     - vi.
-      - `ease` 减轻，缓和；放松；灵活地移动
+      - `ease`
+        - 减轻，缓和；放松；灵活地移动
     - vt.
-      - `ease` 减轻，缓和；使安心
+      - `ease`
+        - 减轻，缓和；使安心
   - 近义词
-    - adj. 容易的；舒适的
-      - `pleasant`
-      - `comfortable`
-      - `light`
-      - `easiest`
-    - adv. 不费力地，从容地
-      - `lightly`
-      - `painlessly`
+    - adj.
+      - 容易的；舒适的
+        - `pleasant`
+        - `comfortable`
+        - `light`
+        - `easiest`
+    - adv.
+      - 不费力地，从容地
+        - `lightly`
+        - `painlessly`
   - 短语
-    - `easy to use` 使用方便；易用性 
-    - `easy to operate` 易操作的 
-    - `so easy` 如此轻而易举；就这么简单 
-    - `simple and easy` 简易明了 
-    - `free and easy` adj. 无拘无束的；过分随便的；马虎的 
-    - `easy way` 休闲小站（餐饮） 
-    - `easy access` 便于检修；容易接近 
-    - `take it easy` 从容；不急；松懈 
-    - `easy installation` 安装方便 
-    - `go easy` 安闲；从容不迫 
-    - `easy on` 节制点；不要太多；对…宽容 
-    - `easy going` 随和；好相处的；从容不迫的 
-    - `on easy street` 生活富裕 
-    - `easy does it` [口语]不着急；小心谨慎 
-    - `easy life` 简单生活；松逸生活；原味生活 
-    - `rest easy` 高枕无忧；大放宽心 
-    - `over easy` 煎半熟蛋；煎两面；结束容易 
-    - `easy of access` 容易接近；容易到达；容易得到的 
-    - `on easy terms` adv. 以分期付款方式；以宽厚的条件 
-    - `easy come easy go` 悖入悖出；来得容易去得也快 
+    - `easy to use`
+      - 使用方便；易用性 
+    - `easy to operate`
+      - 易操作的 
+    - `so easy`
+      - 如此轻而易举；就这么简单 
+    - `simple and easy`
+      - 简易明了 
+    - `free and easy`
+      - adj. 无拘无束的；过分随便的；马虎的 
+    - `easy way`
+      - 休闲小站（餐饮） 
+    - `easy access`
+      - 便于检修；容易接近 
+    - `take it easy`
+      - 从容；不急；松懈 
+    - `easy installation`
+      - 安装方便 
+    - `go easy`
+      - 安闲；从容不迫 
+    - `easy on`
+      - 节制点；不要太多；对…宽容 
+    - `easy going`
+      - 随和；好相处的；从容不迫的 
+    - `on easy street`
+      - 生活富裕 
+    - `easy does it`
+      - [口语]不着急；小心谨慎 
+    - `easy life`
+      - 简单生活；松逸生活；原味生活 
+    - `rest easy`
+      - 高枕无忧；大放宽心 
+    - `over easy`
+      - 煎半熟蛋；煎两面；结束容易 
+    - `easy of access`
+      - 容易接近；容易到达；容易得到的 
+    - `on easy terms`
+      - adv. 以分期付款方式；以宽厚的条件 
+    - `easy come easy go`
+      - 悖入悖出；来得容易去得也快 
   - 例句
     - `The test was easy.`
       - 考试很容易。

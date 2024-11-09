@@ -1,27 +1,36 @@
 - vivacity
   - 发音
-    - 英 `/vi'væsəti/`
-    - 美 `/vi'væsəti/`
+    - 英
+      - `/vi'væsəti/`
+    - 美
+      - `/vi'væsəti/`
   - 词义
-    - n. 活泼
-    - `If you say that someone has vivacity, you mean that they are lively, exciting, and attractive`
+    - n.
+      - 活泼
+        - `If you say that someone has vivacity, you mean that they are lively, exciting, and attractive`
   - 记忆
     - viv (生命) + acity → 活泼
   - 同根词
     - adj.
-      - `vivacious` 活泼的；快活的；有生气的
-      - `vivace` 活泼的
+      - `vivacious`
+        - 活泼的；快活的；有生气的
+      - `vivace`
+        - 活泼的
     - adv.
-      - `vivace` 活泼地
-      - `vivaciously` 愉快地；活泼地；快活地
+      - `vivace`
+        - 活泼地
+      - `vivaciously`
+        - 愉快地；活泼地；快活地
     - n.
-      - `vividness` 生动；活泼；明亮
+      - `vividness`
+        - 生动；活泼；明亮
   - 近义词
-    - n. 活泼；快活；精神充沛
-      - `animation`
-      - `sunshine`
-      - `brightness`
-      - `volatility`
+    - n.
+      - 活泼；快活；精神充沛
+        - `animation`
+        - `sunshine`
+        - `brightness`
+        - `volatility`
   - 例句
     - `He was charmed by her vivacity and high spirits.`
       - 她的活泼与兴高采烈的情绪把他迷住了。

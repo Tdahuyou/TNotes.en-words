@@ -1,15 +1,21 @@
 - oligarch
   - 发音
-    - 英 `/'ɑːləgɑːrk/`
-    - 美 `/'ɑlə'gɑrk/`
+    - 英
+      - `/'ɑːləgɑːrk/`
+    - 美
+      - `/'ɑlə'gɑrk/`
   - 词义
-    - n. 寡头政治；寡头统治集团
-    - `a member of a small group of people who run a country or organization`
+    - n.
+      - 寡头政治；寡头统治集团
+        - `a member of a small group of people who run a country or organization`
   - 记忆
     - olig(少数) ＋ arch(统治) → 由少数人来统治 → 寡头政治
   - 同根词
     - adj.
-      - `oligarchic` 寡头政治的；主张寡头政治的
+      - `oligarchic`
+        - 寡头政治的；主张寡头政治的
     - n.
-      - `oligopoly` 寡占；寡头买主垄断
-      - `oligarchy` 寡头政治
+      - `oligopoly`
+        - 寡占；寡头买主垄断
+      - `oligarchy`
+        - 寡头政治

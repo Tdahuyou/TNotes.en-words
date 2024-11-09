@@ -1,18 +1,24 @@
 - toddle
   - 发音
-    - 英 `/'tɒd(ə)l/`
-    - 美 `/'tɑdl/`
+    - 英
+      - `/'tɒd(ə)l/`
+    - 美
+      - `/'tɑdl/`
   - 词义
-    - n. 东倒西歪的走路；刚学走步的小孩
-    - v. 蹒跚学步；东倒西歪地走；散步
-    - `if a small child toddles, it walks with short, unsteady steps`
+    - n.
+      - 东倒西歪的走路；刚学走步的小孩
+    - v.
+      - 蹒跚学步；东倒西歪地走；散步
+        - `if a small child toddles, it walks with short, unsteady steps`
   - 同根词
     - n.
-      - `toddler` 学步的小孩；幼童装
+      - `toddler`
+        - 学步的小孩；幼童装
   - 近义词
-    - vi. 蹒跚学步；东倒西歪地走；散步
-      - `walk along`
-      - `have a walk`
+    - vi.
+      - 蹒跚学步；东倒西歪地走；散步
+        - `walk along`
+        - `have a walk`
   - 例句
     - `...once your baby starts toddling.`
       - ...一旦你的小孩开始蹒跚学步。

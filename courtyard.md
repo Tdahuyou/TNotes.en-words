@@ -1,17 +1,23 @@
 - courtyard
   - 发音
-    - 英 `/'kɔːtjɑːd/`
-    - 美 `/'kɔrtjɑrd/`
+    - 英
+      - `/'kɔːtjɑːd/`
+    - 美
+      - `/'kɔrtjɑrd/`
   - 词义
-    - n. 庭院,院子
-    - `an open space that is completely or partly surrounded by buildings`
+    - n.
+      - 庭院,院子
+        - `an open space that is completely or partly surrounded by buildings`
   - 近义词
-    - n. 庭院，院子；天井
-      - `yard`
-      - `garth`
+    - n.
+      - 庭院，院子；天井
+        - `yard`
+        - `garth`
   - 短语
-    - `courtyard garden` 庭院花园 
-    - `courtyard economy` 庭院经济 
+    - `courtyard garden`
+      - 庭院花园 
+    - `courtyard economy`
+      - 庭院经济 
   - 例句
     - `the castle courtyard`
       - 城堡的庭院

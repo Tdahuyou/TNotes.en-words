@@ -1,19 +1,26 @@
 - irregularly
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - adv. 不规则地,不整齐地
+    - adv.
+      - 不规则地,不整齐地
   - 同根词
     - adj.
-      - `irregular` 不规则的；无规律的；非正规的；不合法的
+      - `irregular`
+        - 不规则的；无规律的；非正规的；不合法的
     - n.
-      - `irregular` 不规则物；不合规格的产品
-      - `irregularity` 不规则；无规律；不整齐
+      - `irregular`
+        - 不规则物；不合规格的产品
+      - `irregularity`
+        - 不规则；无规律；不整齐
   - 近义词
-    - adv. 不规则地；不整齐地
-      - `patchily`
-      - `brokenly`
+    - adv.
+      - 不规则地；不整齐地
+        - `patchily`
+        - `brokenly`
   - 例句
     - `Good golfers do better if they give themselves little time to prepare for their shots--and even better if they are distracted by researchers asking them to count irregularly spaced sounds.`
       - 优秀的高尔夫球手在击球前准备的时间越少成绩越好—即使被研究人员骚扰，让他们数不规则间隔的声响，最后击球成绩依然不俗。

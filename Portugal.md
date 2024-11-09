@@ -1,9 +1,12 @@
 - Portugal
   - 发音
-    - 英 `/ˈpɔːtjʊɡəl/`
-    - 美 `/'pɔtjuɡəl/`
+    - 英
+      - `/ˈpɔːtjʊɡəl/`
+    - 美
+      - `/'pɔtjuɡəl/`
   - 词义
-    - n. 葡萄牙(欧洲西南部国家)
+    - n.
+      - 葡萄牙(欧洲西南部国家)
   - 例句
     - `Spain is bounded on the east by Portugal.`
       - 西班牙的东面与葡萄牙接壤。

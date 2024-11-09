@@ -1,20 +1,26 @@
 - inhospitable
   - 发音
-    - 英 `/,ɪnhɒ'spɪtəb(ə)l; ɪn'hɒspɪt-/`
-    - 美 `/,ɪnhɑ'spɪtəbl/`
+    - 英
+      - `/,ɪnhɒ'spɪtəb(ə)l; ɪn'hɒspɪt-/`
+    - 美
+      - `/,ɪnhɑ'spɪtəbl/`
   - 词义
-    - adj. 不好客的,不适于居住的
-    - `an inhospitable place is difficult to live or stay in because the weather conditions are unpleasant or there is no shelter`
+    - adj.
+      - 不好客的,不适于居住的
+        - `an inhospitable place is difficult to live or stay in because the weather conditions are unpleasant or there is no shelter`
   - 同根词
     - adv.
-      - `inhospitably` 冷淡地；荒凉地
+      - `inhospitably`
+        - 冷淡地；荒凉地
     - n.
-      - `inhospitality` 冷淡；不好客
+      - `inhospitality`
+        - 冷淡；不好客
   - 近义词
-    - adj. 荒凉的；冷淡的，不好客的；不适居留的
-      - `cold`
-      - `wild`
-      - `desert`
+    - adj.
+      - 荒凉的；冷淡的，不好客的；不适居留的
+        - `cold`
+        - `wild`
+        - `desert`
   - 例句
     - `an inhospitable climate`
       - 不宜人的气候

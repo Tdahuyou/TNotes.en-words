@@ -1,21 +1,27 @@
 - ridiculous
   - 发音
-    - 英 `/rɪ'dɪkjələs/`
-    - 美 `/rɪ'dɪkjələs/`
+    - 英
+      - `/rɪ'dɪkjələs/`
+    - 美
+      - `/rɪ'dɪkjələs/`
   - 词义
-    - adj. 荒唐的，可笑的
-    - `very silly or unreasonable`
+    - adj.
+      - 荒唐的，可笑的
+        - `very silly or unreasonable`
   - 记忆
     - rid(笑) + icul + ous(形容词后缀) → 被人嘲笑的 → 荒唐的， 可笑的
   - 同根词
     - adv.
-      - `ridiculously` 可笑地；荒谬地
+      - `ridiculously`
+        - 可笑地；荒谬地
     - n.
-      - `ridiculousness` 荒谬，滑稽
+      - `ridiculousness`
+        - 荒谬，滑稽
   - 近义词
-    - adj. 可笑的；荒谬的
-      - `laughing`
-      - `preposterous`
+    - adj.
+      - 可笑的；荒谬的
+        - `laughing`
+        - `preposterous`
   - 例句
     - `That’s a ridiculous idea!`
       - 那主意很荒唐！

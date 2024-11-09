@@ -1,34 +1,48 @@
 - argumentation
   - 发音
-    - 英 `/ˌɑːgjumen'teiʃən/`
-    - 美 `/,ɑrɡjumən'teʃən/`
+    - 英
+      - `/ˌɑːgjumen'teiʃən/`
+    - 美
+      - `/,ɑrɡjumən'teʃən/`
   - 词义
-    - n. 论证
-    - `Argumentation is the process of arguing in an organized or logical way, for example, in philosophy`
+    - n.
+      - 论证
+        - `Argumentation is the process of arguing in an organized or logical way, for example, in philosophy`
   - 同根词
     - adj.
-      - `argumentative` 好辩的；辩论的；争辩的
-      - `arguable` 可论证的；可议的；可疑的
+      - `argumentative`
+        - 好辩的；辩论的；争辩的
+      - `arguable`
+        - 可论证的；可议的；可疑的
     - adv.
-      - `arguably` 可论证地；可争辩地；正如可提出证据加以证明的那样地
-      - `argumentatively` 激辩地
+      - `arguably`
+        - 可论证地；可争辩地；正如可提出证据加以证明的那样地
+      - `argumentatively`
+        - 激辩地
     - n.
-      - `argument` 论证；论据；争吵；内容提要
-      - `arguing` 争吵
-      - `arguer` 争辩者；辩论者
+      - `argument`
+        - 论证；论据；争吵；内容提要
+      - `arguing`
+        - 争吵
+      - `arguer`
+        - 争辩者；辩论者
     - v.
-      - `arguing` 争吵（argue的ing形式）；争辩
+      - `arguing`
+        - 争吵（argue的ing形式）；争辩
     - vi.
-      - `argue` 争论，辩论；提出理由
+      - `argue`
+        - 争论，辩论；提出理由
     - vt.
-      - `argue` 辩论，争论；证明；说服
+      - `argue`
+        - 辩论，争论；证明；说服
   - 近义词
-    - n. 论证；争论；辩论
-      - `controversy`
-      - `debate`
-      - `dispute`
-      - `combat`
-      - `reasoning`
+    - n.
+      - 论证；争论；辩论
+        - `controversy`
+        - `debate`
+        - `dispute`
+        - `combat`
+        - `reasoning`
   - 例句
     - `Person-oriented argumentation and fallacy of personal abuse should be distinguished.`
       - “针对人的”论证与“人身攻击”谬误应加以区分。

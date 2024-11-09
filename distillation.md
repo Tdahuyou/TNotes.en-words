@@ -1,46 +1,75 @@
 - distillation
   - 发音
-    - 英 `/ˌdisti'leiʃən/`
-    - 美 `/,dɪstl'eʃən/`
+    - 英
+      - `/ˌdisti'leiʃən/`
+    - 美
+      - `/,dɪstl'eʃən/`
   - 词义
-    - n. 蒸馏
+    - n.
+      - 蒸馏
   - 同根词
     - n.
-      - `distillate` 精华；蒸溜物
-      - `distiller` 蒸馏器；蒸馏酒者
-      - `distillery` 酿酒厂；蒸馏室
-      - `distillment` 蒸馏；蒸馏物；蒸馏法；精华（等于distilment或者distillation）
+      - `distillate`
+        - 精华；蒸溜物
+      - `distiller`
+        - 蒸馏器；蒸馏酒者
+      - `distillery`
+        - 酿酒厂；蒸馏室
+      - `distillment`
+        - 蒸馏；蒸馏物；蒸馏法；精华（等于distilment或者distillation）
     - vi.
-      - `distill` 蒸馏；滴下；作为精华产生（等于distil）
-      - `distil` 蒸馏；提炼；渗出
+      - `distill`
+        - 蒸馏；滴下；作为精华产生（等于distil）
+      - `distil`
+        - 蒸馏；提炼；渗出
     - vt.
-      - `distill` 提取；蒸馏；使滴下
-      - `distil` 蒸馏；提取…的精华；使渗出
+      - `distill`
+        - 提取；蒸馏；使滴下
+      - `distil`
+        - 蒸馏；提取…的精华；使渗出
   - 近义词
-    - n. 蒸馏，净化；[化工]蒸馏法；精华，蒸馏物
-      - `essence`
-      - `purification`
-      - `elite`
-      - `flower`
-      - `prime`
+    - n.
+      - 蒸馏，净化；[化工]蒸馏法；精华，蒸馏物
+        - `essence`
+        - `purification`
+        - `elite`
+        - `flower`
+        - `prime`
   - 短语
-    - `vacuum distillation` 真空蒸馏 
-    - `distillation column` 蒸馏柱 
-    - `steam distillation` 蒸汽蒸馏 
-    - `distillation tower` 蒸馏塔 
-    - `molecular distillation` [化]分子蒸馏；高真空蒸馏 
-    - `batch distillation` 分批蒸馏；间歇式蒸馏 
-    - `distillation method` 蒸馏法 
-    - `azeotropic distillation` 共沸蒸馏 
-    - `atmospheric distillation` 常压蒸馏 
-    - `dry distillation` 干馏（等于destructive distillation） 
-    - `distillation range` [化]馏程；蒸馏区间；沸腾范围 
-    - `reduced pressure distillation` 减压蒸馏 
-    - `fractional distillation` 分馏 
-    - `cryogenic distillation` 低温蒸馏 
-    - `flash distillation` 闪蒸，快速蒸馏 
-    - `distillation curve` 蒸馏曲线 
-    - `distillation apparatus` 蒸馏器；蒸馏装置 
+    - `vacuum distillation`
+      - 真空蒸馏 
+    - `distillation column`
+      - 蒸馏柱 
+    - `steam distillation`
+      - 蒸汽蒸馏 
+    - `distillation tower`
+      - 蒸馏塔 
+    - `molecular distillation`
+      - [化]分子蒸馏；高真空蒸馏 
+    - `batch distillation`
+      - 分批蒸馏；间歇式蒸馏 
+    - `distillation method`
+      - 蒸馏法 
+    - `azeotropic distillation`
+      - 共沸蒸馏 
+    - `atmospheric distillation`
+      - 常压蒸馏 
+    - `dry distillation`
+      - 干馏（等于destructive distillation） 
+    - `distillation range`
+      - [化]馏程；蒸馏区间；沸腾范围 
+    - `reduced pressure distillation`
+      - 减压蒸馏 
+    - `fractional distillation`
+      - 分馏 
+    - `cryogenic distillation`
+      - 低温蒸馏 
+    - `flash distillation`
+      - 闪蒸，快速蒸馏 
+    - `distillation curve`
+      - 蒸馏曲线 
+    - `distillation apparatus`
+      - 蒸馏器；蒸馏装置 
   - 例句
     - `He tried to obtain another material by distillation.`
       - 他试图通过蒸馏法获得另一种物质。

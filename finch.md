@@ -1,10 +1,13 @@
 - finch
   - 发音
-    - 英 `/fɪntʃ/`
-    - 美 `/fɪntʃ/`
+    - 英
+      - `/fɪntʃ/`
+    - 美
+      - `/fɪntʃ/`
   - 词义
-    - n. 雀类
-    - `a small bird with a short beak`
+    - n.
+      - 雀类
+        - `a small bird with a short beak`
   - 记忆
     - fin(鳍， 鱼翅) + ch(音似： 翅) → 雀类和鱼类都有翅 → 雀类
   - 例句

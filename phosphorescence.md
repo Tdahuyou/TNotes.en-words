@@ -1,18 +1,25 @@
 - phosphorescence
   - 发音
-    - 英 `/,fɒsfə'res(ə)ns/`
-    - 美 `/,fɑsfə'rɛsns/`
+    - 英
+      - `/,fɒsfə'res(ə)ns/`
+    - 美
+      - `/,fɑsfə'rɛsns/`
   - 词义
-    - n. 磷光
-    - `a slight steady light that can only be noticed in the dark`
+    - n.
+      - 磷光
+        - `a slight steady light that can only be noticed in the dark`
   - 同根词
     - adj.
-      - `phosphorous` 磷的，含磷的；发磷光的
-      - `phosphorescent` [昆] 发出磷光的；磷光性的
+      - `phosphorous`
+        - 磷的，含磷的；发磷光的
+      - `phosphorescent`
+        - [昆] 发出磷光的；磷光性的
     - n.
-      - `phosphor` 磷光体，磷光剂
+      - `phosphor`
+        - 磷光体，磷光剂
     - vi.
-      - `phosphoresce` 发出磷光
+      - `phosphoresce`
+        - 发出磷光
   - 例句
     - `Besides this, Javert possessed in his eye the feline phosphorescence of night birds.`
       - 况且沙威的眼睛有着夜鸟那种象猫一样的磷光。

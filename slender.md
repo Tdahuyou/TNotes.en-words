@@ -1,25 +1,33 @@
 - slender
   - 发音
-    - 英 `/'slendər/`
-    - 美 `/'slɛndɚ/`
+    - 英
+      - `/'slendər/`
+    - 美
+      - `/'slɛndɚ/`
   - 词义
-    - adj. 细长的；苗条的，纤细的；微薄的，不足的
-    - `thin in an attractive or graceful way`
+    - adj.
+      - 细长的；苗条的，纤细的；微薄的，不足的
+        - `thin in an attractive or graceful way`
   - 记忆
     - 温柔(tender)和纤弱(slender)都是用来形容女孩子的
   - 同根词
     - adv.
-      - `slenderly` 苗条地；细长地
+      - `slenderly`
+        - 苗条地；细长地
     - n.
-      - `slenderness` 细长；苗条
+      - `slenderness`
+        - 细长；苗条
     - vt.
-      - `slenderize` 使苗条；使成细长状
+      - `slenderize`
+        - 使苗条；使成细长状
   - 近义词
-    - adj. 细长的；苗条的；微薄的
-      - `slight`
-      - `spindly`
+    - adj.
+      - 细长的；苗条的；微薄的
+        - `slight`
+        - `spindly`
   - 短语
-    - `slender body` 细长体；瘦长体 
+    - `slender body`
+      - 细长体；瘦长体 
   - 例句
     - `She is slender and stylish.`
       - 她身材修长，穿着时髦。

@@ -1,15 +1,20 @@
 - chitin
   - 发音
-    - 英 `/'kaɪtɪn/`
-    - 美 `/'kaɪtɪn/`
+    - 英
+      - `/'kaɪtɪn/`
+    - 美
+      - `/'kaɪtɪn/`
   - 词义
-    - n. 壳质,角素
+    - n.
+      - 壳质,角素
   - 同根词
     - adj.
-      - `chitinous` 壳质的；几丁质的
+      - `chitinous`
+        - 壳质的；几丁质的
   - 近义词
-    - n. 壳质；[生化]几丁质；角素
-      - `keratin`
+    - n.
+      - 壳质；[生化]几丁质；角素
+        - `keratin`
   - 例句
     - `The organization of a tiny honeybee yields a pattern for its tinier one-tenth of a gram of wing cells, tissue, and chitin.`
       - 一只小蜜蜂的机体所代表的模式，只适用于其十分之一克重的更细小的翅室［5］、组织和壳质。

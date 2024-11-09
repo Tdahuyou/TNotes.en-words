@@ -1,24 +1,33 @@
 - machination
   - 发音
-    - 英 `/ˌmæki'neiʃən/`
-    - 美 `/ˌmækəˈneʃən, ˌmæʃ-/`
+    - 英
+      - `/ˌmæki'neiʃən/`
+    - 美
+      - `/ˌmækəˈneʃən, ˌmæʃ-/`
   - 词义
-    - n. 诡计；阴谋
+    - n.
+      - 诡计；阴谋
   - 记忆
     - machin (计划； 制造) + ation → 制造阴谋 → 诡计
   - 同根词
     - n.
-      - `machine` 机械，机器；机构；机械般工作的人
-      - `machinator` 策划者；阴谋家
+      - `machine`
+        - 机械，机器；机构；机械般工作的人
+      - `machinator`
+        - 策划者；阴谋家
     - vi.
-      - `machinate` 策划；图谋不轨
+      - `machinate`
+        - 策划；图谋不轨
     - vt.
-      - `machine` 用机器制造
-      - `machinate` 策划；图谋
+      - `machine`
+        - 用机器制造
+      - `machinate`
+        - 策划；图谋
   - 近义词
-    - n. 阴谋；诡计
-      - `scheme`
-      - `designing`
-      - `fraud`
-      - `plot`
-      - `conspiracy`
+    - n.
+      - 阴谋；诡计
+        - `scheme`
+        - `designing`
+        - `fraud`
+        - `plot`
+        - `conspiracy`

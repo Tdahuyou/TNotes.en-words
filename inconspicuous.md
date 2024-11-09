@@ -1,17 +1,22 @@
 - inconspicuous
   - 发音
-    - 英 `/ˌɪnkən'spɪkjuəs/`
-    - 美 `/'ɪnkən'spɪkjʊəs/`
+    - 英
+      - `/ˌɪnkən'spɪkjuəs/`
+    - 美
+      - `/'ɪnkən'spɪkjʊəs/`
   - 词义
-    - adj. 不引人瞩目的，不显眼的
-    - `not easily seen or noticed`
+    - adj.
+      - 不引人瞩目的，不显眼的
+        - `not easily seen or noticed`
   - 同根词
     - adv.
-      - `inconspicuously` 难以觉察地；不显著地
+      - `inconspicuously`
+        - 难以觉察地；不显著地
   - 近义词
-    - adj. 不显眼的；不引人注意的；（花）不显著的
-      - `invisible`
-      - `unspectacular`
+    - adj.
+      - 不显眼的；不引人注意的；（花）不显著的
+        - `invisible`
+        - `unspectacular`
   - 例句
     - `an inconspicuous little restaurant`
       - 一家不起眼的小饭店

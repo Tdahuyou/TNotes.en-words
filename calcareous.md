@@ -1,25 +1,35 @@
 - calcareous
   - 发音
-    - 英 `/kæl'keərɪəs/`
-    - 美 `/kæl'kɛrɪəs/`
+    - 英
+      - `/kæl'keərɪəs/`
+    - 美
+      - `/kæl'kɛrɪəs/`
   - 词义
-    - adj. 钙质的,石灰质的
-    - `of, containing, or resembling calcium carbonate; chalky `
+    - adj.
+      - 钙质的,石灰质的
+        - `of, containing, or resembling calcium carbonate; chalky `
   - 同根词
     - adj.
-      - `calcific` 钙化的；石灰质的
+      - `calcific`
+        - 钙化的；石灰质的
     - n.
-      - `calcification` 钙化；石灰化
-      - `calciferol` [生化] 钙化醇；维生素D2
+      - `calcification`
+        - 钙化；石灰化
+      - `calciferol`
+        - [生化] 钙化醇；维生素D2
     - vi.
-      - `calcify` 钙化；变成石灰质
+      - `calcify`
+        - 钙化；变成石灰质
     - vt.
-      - `calcify` 使钙化；使思想僵化
+      - `calcify`
+        - 使钙化；使思想僵化
   - 近义词
-    - adj. 钙质的，[植]石灰质的
-      - `limy`
+    - adj.
+      - 钙质的，[植]石灰质的
+        - `limy`
   - 短语
-    - `calcareous soil` 石灰土 
+    - `calcareous soil`
+      - 石灰土 
   - 例句
     - `The more recent calcareous, or calcium carbonate, deposits that make up the tufa formations are closer to the bottom and lighter in color.`
       - 钙质或碳酸钙越近现代，所构成凝灰岩地层的沉积物越靠近底部，颜色也比较浅。

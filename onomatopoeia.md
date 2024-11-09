@@ -1,14 +1,18 @@
 - onomatopoeia
   - 发音
-    - 英 `/,ɒnə(ʊ)mætə'piːə/`
-    - 美 `/,ɑnə,mætə'piə/`
+    - 英
+      - `/,ɒnə(ʊ)mætə'piːə/`
+    - 美
+      - `/,ɑnə,mætə'piə/`
   - 词义
-    - n. 拟声
-    - `the use of words that sound like the thing that they are describing, for example ‘hiss’ or ‘boom’`
+    - n.
+      - 拟声
+        - `the use of words that sound like the thing that they are describing, for example ‘hiss’ or ‘boom’`
   - 近义词
-    - n. 拟声；声喻法
-      - `whump`
-      - `echoism`
+    - n.
+      - 拟声；声喻法
+        - `whump`
+        - `echoism`
   - 例句
     - `Who cares about onomatopoeia?`
       - 谁在意拟声呢？

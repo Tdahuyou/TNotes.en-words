@@ -1,28 +1,37 @@
 - sedate
   - 发音
-    - 英 `/si'deit/`
-    - 美 `/si'deit/`
+    - 英
+      - `/si'deit/`
+    - 美
+      - `/si'deit/`
   - 词义
-    - adj. 安静的；稳重的
-    - `calm, serious, and formal`
+    - adj.
+      - 安静的；稳重的
+        - `calm, serious, and formal`
   - 记忆
     - sed ( = sid， 坐下) + ate → 坐下来的 → 安静的
   - 同根词
     - adj.
-      - `sedative` 使镇静的；使安静的
+      - `sedative`
+        - 使镇静的；使安静的
     - adv.
-      - `sedately` 安详地；镇静地
+      - `sedately`
+        - 安详地；镇静地
     - n.
-      - `sedative` [药] 镇静剂；能使安静的东西；止痛药
-      - `sedation` 镇静；镇静作用；镇静状态
-      - `sedateness` 安详；镇静
+      - `sedative`
+        - [药] 镇静剂；能使安静的东西；止痛药
+      - `sedation`
+        - 镇静；镇静作用；镇静状态
+      - `sedateness`
+        - 安详；镇静
   - 近义词
-    - adj. 安静的；沉着的
-      - `quiet`
-      - `composed`
-      - `calm`
-      - `steady`
-      - `tranquil`
+    - adj.
+      - 安静的；沉着的
+        - `quiet`
+        - `composed`
+        - `calm`
+        - `steady`
+        - `tranquil`
   - 例句
     - `a sedate seaside town`
       - 宁静的海边小镇

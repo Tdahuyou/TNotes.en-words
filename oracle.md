@@ -1,15 +1,22 @@
 - oracle
   - 发音
-    - 英 `/'ɒrək(ə)l/`
-    - 美 `/'ɔrəkl/`
+    - 英
+      - `/'ɒrək(ə)l/`
+    - 美
+      - `/'ɔrəkl/`
   - 词义
-    - n. 神谕；预言；神谕处；圣人
-    - `someone who the ancient Greeks believed could communicate with the gods, who gave advice to people or told them what would happen`
+    - n.
+      - 神谕；预言；神谕处；圣人
+        - `someone who the ancient Greeks believed could communicate with the gods, who gave advice to people or told them what would happen`
   - 近义词
-    - n. 神谕；预言；神谕处；圣人
-      - `prediction`
-      - `message`
+    - n.
+      - 神谕；预言；神谕处；圣人
+        - `prediction`
+        - `message`
   - 短语
-    - `oracle bone` 甲骨（中国商朝用来刻写占卜文字的龟甲兽骨） 
-    - `oracle bone inscriptions` 甲骨文 
-    - `delphic oracle` 德尔斐神谕 
+    - `oracle bone`
+      - 甲骨（中国商朝用来刻写占卜文字的龟甲兽骨） 
+    - `oracle bone inscriptions`
+      - 甲骨文 
+    - `delphic oracle`
+      - 德尔斐神谕 

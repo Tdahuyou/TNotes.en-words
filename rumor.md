@@ -1,23 +1,31 @@
 - rumor
   - 发音
-    - 英 `/'ruːmər/`
-    - 美 `/'rʊmɚ/`
+    - 英
+      - `/'ruːmər/`
+    - 美
+      - `/'rʊmɚ/`
   - 词义
-    - n. 传闻，谣言
+    - n.
+      - 传闻，谣言
   - 记忆
     - rum(看做run， 跑) + or → 好事不出门， 坏事传千里 → 传闻， 谣言
   - 同根词
     - n.
-      - `rumour` 谣言
-      - `rumormonger` 造谣者；散布谣言者
+      - `rumour`
+        - 谣言
+      - `rumormonger`
+        - 造谣者；散布谣言者
     - vt.
-      - `rumour` 传闻
+      - `rumour`
+        - 传闻
   - 近义词
-    - n. 谣言；传闻
-      - `fame`
-      - `hearsay`
-    - vt. 谣传；传说
-      - `noise`
+    - n.
+      - 谣言；传闻
+        - `fame`
+        - `hearsay`
+    - vt.
+      - 谣传；传说
+        - `noise`
   - 例句
     - `In fact the rumor is without foundation.`
       - 事实上，这个谣传没有根据。

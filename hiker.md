@@ -1,22 +1,30 @@
 - hiker
   - 发音
-    - 英 `/'haɪkə/`
-    - 美 `/'haɪkɚ/`
+    - 英
+      - `/'haɪkə/`
+    - 美
+      - `/'haɪkɚ/`
   - 词义
-    - n. 徒步旅行者
-    - `someone who walks long distances in the mountains or country for pleasure`
+    - n.
+      - 徒步旅行者
+        - `someone who walks long distances in the mountains or country for pleasure`
   - 同根词
     - n.
-      - `hike` 远足；徒步旅行；涨价
-      - `hiking` 徒步旅行
+      - `hike`
+        - 远足；徒步旅行；涨价
+      - `hiking`
+        - 徒步旅行
     - vi.
-      - `hike` 远足；徒步旅行；上升
+      - `hike`
+        - 远足；徒步旅行；上升
     - vt.
-      - `hike` 提高；拉起；使…高涨
+      - `hike`
+        - 提高；拉起；使…高涨
   - 近义词
-    - n. 徒步旅行者
-      - `wayfarer`
-      - `hoofer`
+    - n.
+      - 徒步旅行者
+        - `wayfarer`
+        - `hoofer`
   - 例句
     - `A hiker takes in the view from the trail to King’s Throne in Yukon’s Kluane National Park and Reserve.`
       - 加拿大育空地区的克卢恩国家公园和保护区里，一个徒步旅行者在观看去"国王宝座"的路径。

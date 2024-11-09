@@ -1,10 +1,13 @@
 - continuator
   - 发音
-    - 英 `/kən'tɪnjʊeɪtə/`
-    - 美 `/kən'tɪnjʊ,etɚ/`
+    - 英
+      - `/kən'tɪnjʊeɪtə/`
+    - 美
+      - `/kən'tɪnjʊ,etɚ/`
   - 词义
-    - n. 继续者
-    - `a person who continues something, esp the work of someone else `
+    - n.
+      - 继续者
+        - `a person who continues something, esp the work of someone else `
   - 例句
     - `Whether you are the anti-innovator or the traditional continuator, the indispensable premise and foundation is fully understanding about tradition.`
       - 无论是反传统的革新者，还是维护传统的继承派，都必须充分地认识并理解传统是其必要的前提和基础。

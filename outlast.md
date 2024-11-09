@@ -1,10 +1,13 @@
 - outlast
   - 发音
-    - 英 `/ˌaut'lɑːst/`
-    - 美 `/,aʊt'læst/`
+    - 英
+      - `/ˌaut'lɑːst/`
+    - 美
+      - `/,aʊt'læst/`
   - 词义
-    - v. 比…长久，比…活得长
-    - `to continue to exist or be effective for a longer time than something else`
+    - v.
+      - 比…长久，比…活得长
+        - `to continue to exist or be effective for a longer time than something else`
   - 记忆
     - out (超过) + last (持续) → 比…长久
   - 例句

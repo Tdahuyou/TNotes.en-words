@@ -1,27 +1,38 @@
 - economise
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - v. 节约，节省
+    - v.
+      - 节约，节省
   - 同根词
     - adj.
-      - `economical` 经济的；节约的；合算的
+      - `economical`
+        - 经济的；节约的；合算的
     - n.
-      - `economy` 经济；节约；理财
-      - `economizer` 节约装置；节约者；经济家
-      - `economiser` 节热器
+      - `economy`
+        - 经济；节约；理财
+      - `economizer`
+        - 节约装置；节约者；经济家
+      - `economiser`
+        - 节热器
     - vi.
-      - `economize` 节约，节省；有效地利用
+      - `economize`
+        - 节约，节省；有效地利用
     - vt.
-      - `economize` 节约，节省；有效地利用
+      - `economize`
+        - 节约，节省；有效地利用
   - 近义词
-    - vt. 节约，节省
-      - `economize on`
-      - `save on`
-    - vi. 节约，节省
-      - `save`
-      - `economize on`
+    - vt.
+      - 节约，节省
+        - `economize on`
+        - `save on`
+    - vi.
+      - 节约，节省
+        - `save`
+        - `economize on`
   - 例句
     - `He may even be able to turn the need to economise to his advantage.`
       - 为了获得执政优势，他甚至可能会考虑节省开支。

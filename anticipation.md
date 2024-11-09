@@ -1,32 +1,46 @@
 - anticipation
   - 发音
-    - 英 `/æntɪsɪ'peɪʃ(ə)n/`
-    - 美 `/æn,tɪsɪ'peʃən/`
+    - 英
+      - `/æntɪsɪ'peɪʃ(ə)n/`
+    - 美
+      - `/æn,tɪsɪ'peʃən/`
   - 词义
-    - n. 预期，预想，期待
-    - `when you are expecting something to happen`
+    - n.
+      - 预期，预想，期待
+        - `when you are expecting something to happen`
   - 同根词
     - adj.
-      - `anticipated` 预期的；期望的
-      - `anticipatory` 预期的；提早发生的；期待着的
-      - `anticipant` 期望的
-      - `anticipative` 预期的
+      - `anticipated`
+        - 预期的；期望的
+      - `anticipatory`
+        - 预期的；提早发生的；期待着的
+      - `anticipant`
+        - 期望的
+      - `anticipative`
+        - 预期的
     - n.
-      - `anticipant` 预期者，预言者
-      - `anticipator` 预期者；先发制人者
+      - `anticipant`
+        - 预期者，预言者
+      - `anticipator`
+        - 预期者；先发制人者
     - v.
-      - `anticipated` 预料（anticipate的过去分词）；盼望
+      - `anticipated`
+        - 预料（anticipate的过去分词）；盼望
     - vt.
-      - `anticipate` 预期，期望；占先，抢先；提前使用
+      - `anticipate`
+        - 预期，期望；占先，抢先；提前使用
   - 近义词
-    - n. 希望；预感；先发制人；预支
-      - `wish`
-      - `hope`
-      - `pleasure`
-      - `promise`
+    - n.
+      - 希望；预感；先发制人；预支
+        - `wish`
+        - `hope`
+        - `pleasure`
+        - `promise`
   - 短语
-    - `in anticipation` 预先 
-    - `in anticipation of` 期待，预期 
+    - `in anticipation`
+      - 预先 
+    - `in anticipation of`
+      - 期待，预期 
   - 例句
     - `She waited in eager anticipation for Robert to arrive.`
       - 她急切地期盼着罗伯特到来。

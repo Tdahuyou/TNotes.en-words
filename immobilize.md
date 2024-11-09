@@ -1,24 +1,34 @@
 - immobilize
   - 发音
-    - 英 `/ɪ'məʊbɪlaɪz/`
-    - 美 `/ɪ'mobə'laɪz/`
+    - 英
+      - `/ɪ'məʊbɪlaɪz/`
+    - 美
+      - `/ɪ'mobə'laɪz/`
   - 词义
-    - v. 固定不动
-    - `to prevent someone or something from moving`
+    - v.
+      - 固定不动
+        - `to prevent someone or something from moving`
   - 同根词
     - adj.
-      - `immobile` 固定的；稳定的；不变的
+      - `immobile`
+        - 固定的；稳定的；不变的
     - n.
-      - `immobility` 不动，固定
-      - `immobilization` 使停止流通，固定
-      - `immobilizer` 防盗控制系统；牲畜宰前麻昏器；二氧化碳麻醉槽
-      - `immobilisation` 固定
+      - `immobility`
+        - 不动，固定
+      - `immobilization`
+        - 使停止流通，固定
+      - `immobilizer`
+        - 防盗控制系统；牲畜宰前麻昏器；二氧化碳麻醉槽
+      - `immobilisation`
+        - 固定
     - vt.
-      - `immobilise` 使…不动，使…固定；使…不能调动；使…无机动性
+      - `immobilise`
+        - 使…不动，使…固定；使…不能调动；使…无机动性
   - 近义词
-    - vt. 使固定；使不动；使停止流通
-      - `fix`
-      - `nail`
+    - vt.
+      - 使固定；使不动；使停止流通
+        - `fix`
+        - `nail`
   - 例句
     - `The broken limb must be immobilized immediately.`
       - 断肢必须立即加以固定。

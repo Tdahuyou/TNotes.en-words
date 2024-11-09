@@ -1,17 +1,23 @@
 - usurer
   - 发音
-    - 英 `/'juːʒ(ə)rə/`
-    - 美 `/'juʒərɚ/`
+    - 英
+      - `/'juːʒ(ə)rə/`
+    - 美
+      - `/'juʒərɚ/`
   - 词义
-    - n. 高利贷者；贷款人
-    - `someone who lends money to people and makes them pay interest14`
+    - n.
+      - 高利贷者；贷款人
+        - `someone who lends money to people and makes them pay interest14`
   - 同根词
     - adj.
-      - `usurious` 高利贷的
+      - `usurious`
+        - 高利贷的
     - adv.
-      - `usuriously` 高利贷地；取高利地
+      - `usuriously`
+        - 高利贷地；取高利地
     - n.
-      - `usury` 高利；高利贷；利益
+      - `usury`
+        - 高利；高利贷；利益
   - 例句
     - `The usurer squeezed the poor people.`
       - 高利贷者压榨穷人。

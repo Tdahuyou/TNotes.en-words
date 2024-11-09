@@ -1,21 +1,28 @@
 - inundation
   - 发音
-    - 英 `/,ɪnʌn'deɪʃn/`
-    - 美 `/,ɪnʌn'deʃən/`
+    - 英
+      - `/,ɪnʌn'deɪʃn/`
+    - 美
+      - `/,ɪnʌn'deʃən/`
   - 词义
-    - n. 洪水
+    - n.
+      - 洪水
   - 同根词
     - adj.
-      - `inundated` 洪泛的
+      - `inundated`
+        - 洪泛的
     - v.
-      - `inundated` 淹没（inundate的过去分词）
+      - `inundated`
+        - 淹没（inundate的过去分词）
     - vt.
-      - `inundate` 淹没；泛滥；浸水；（洪水般的）扑来
+      - `inundate`
+        - 淹没；泛滥；浸水；（洪水般的）扑来
   - 近义词
-    - n. 洪水；[水文]泛滥
-      - `flood`
-      - `fresh`
-      - `flow`
+    - n.
+      - 洪水；[水文]泛滥
+        - `flood`
+        - `fresh`
+        - `flow`
   - 例句
     - `Through these comparisons we can not only test to see if our experimental data are accurate, but find the most effective and efficient way to model tsunami inundation and loading.`
       - 通过对比，我们不仅能看到是否我们的实验数据是准确的，而且发现最有效和最高效的方法是建立海啸洪水模型。

@@ -1,12 +1,16 @@
 - minion
   - 发音
-    - 英 `/'mɪnjən/`
-    - 美 `/'mɪnɪən/`
+    - 英
+      - `/'mɪnjən/`
+    - 美
+      - `/'mɪnɪən/`
   - 词义
-    - n. 奴才,宠臣
+    - n.
+      - 奴才,宠臣
   - 近义词
-    - n. 奴才；宠臣
-      - `flunkey`
+    - n.
+      - 奴才；宠臣
+        - `flunkey`
   - 例句
     - `Don’t fall into the trap of becoming a mindless minion.`
       - 不要掉进陷阱，成了没脑子的奴才。

@@ -1,23 +1,32 @@
 - dyslexia
   - 发音
-    - 英 `/dɪs'leksɪə/`
-    - 美 `/dɪs'lɛksɪə/`
+    - 英
+      - `/dɪs'leksɪə/`
+    - 美
+      - `/dɪs'lɛksɪə/`
   - 词义
-    - n. [医]诵读困难
-    - `a condition that makes it difficult for someone to read and spell`
+    - n.
+      - [医]诵读困难
+        - `a condition that makes it difficult for someone to read and spell`
   - 同根词
     - adj.
-      - `dyslexic` 诵读困难的
+      - `dyslexic`
+        - 诵读困难的
     - n.
-      - `dysfunction` 功能紊乱；机能障碍；官能不良
-      - `dyslexic` 诵读困难者
-      - `dysgenesis` 生殖障碍，不孕；发育不全
+      - `dysfunction`
+        - 功能紊乱；机能障碍；官能不良
+      - `dyslexic`
+        - 诵读困难者
+      - `dysgenesis`
+        - 生殖障碍，不孕；发育不全
     - vi.
-      - `dysfunction` 功能失调；出现机能障碍；垮掉
+      - `dysfunction`
+        - 功能失调；出现机能障碍；垮掉
   - 近义词
-    - n. 难语症；[医]诵读困难；阅读障碍
-      - `mogilalia`
-      - `reading disability`
+    - n.
+      - 难语症；[医]诵读困难；阅读障碍
+        - `mogilalia`
+        - `reading disability`
   - 例句
     - `Some children with dyslexia might only have one of these symptoms.`
       - 有的诵读困难者可能只表现出其中的一种症状。

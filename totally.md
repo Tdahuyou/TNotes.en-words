@@ -1,32 +1,43 @@
 - totally
   - 发音
-    - 英 `/'təʊtəlɪ/`
-    - 美 `/'totəli/`
+    - 英
+      - `/'təʊtəlɪ/`
+    - 美
+      - `/'totəli/`
   - 词义
-    - adv. 完全地,整全地
-    - `completely`
+    - adv.
+      - 完全地,整全地
+        - `completely`
   - 同根词
     - adj.
-      - `total` 全部的；完全的；整个的
+      - `total`
+        - 全部的；完全的；整个的
     - n.
-      - `total` 总数，合计
-      - `totality` [天] 全食；全体；总数
+      - `total`
+        - 总数，合计
+      - `totality`
+        - [天] 全食；全体；总数
     - vi.
-      - `total` 合计
+      - `total`
+        - 合计
     - vt.
-      - `total` 总数达
+      - `total`
+        - 总数达
   - 近义词
-    - adv. 完全地
-      - `entirely`
-      - `completely`
-      - `absolutely`
-      - `thoroughly`
-      - `strictly`
-      - `fully`
-      - `perfectly`
+    - adv.
+      - 完全地
+        - `entirely`
+        - `completely`
+        - `absolutely`
+        - `thoroughly`
+        - `strictly`
+        - `fully`
+        - `perfectly`
   - 短语
-    - `totally different` 完全不同 
-    - `totally enclosed` adj. 全封闭的 
+    - `totally different`
+      - 完全不同 
+    - `totally enclosed`
+      - adj. 全封闭的 
   - 例句
     - `That’s a totally different matter.`
       - 那完全是两码事。

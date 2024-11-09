@@ -1,24 +1,33 @@
 - scurrilous
   - 发音
-    - 英 `/'skʌriləs/`
-    - 美 `/ˈskɜrələs/`
+    - 英
+      - `/'skʌriləs/`
+    - 美
+      - `/ˈskɜrələs/`
   - 词义
-    - adj. 说话粗鄙恶劣的；下流的
+    - adj.
+      - 说话粗鄙恶劣的；下流的
   - 记忆
     - 来自scurril (恶语诽谤的) + ous → 说话粗鄙恶劣的
   - 同根词
     - adj.
-      - `scurvy` 卑鄙的，下流的
+      - `scurvy`
+        - 卑鄙的，下流的
     - adv.
-      - `scurrilously` 粗野无礼地；下流地
-      - `scurvily` 下流地；无礼地；卑鄙地
+      - `scurrilously`
+        - 粗野无礼地；下流地
+      - `scurvily`
+        - 下流地；无礼地；卑鄙地
     - n.
-      - `scurvy` [内科] 坏血病
-      - `scurrility` 下流；刻薄嘴；谈吐卑劣粗俗
+      - `scurvy`
+        - [内科] 坏血病
+      - `scurrility`
+        - 下流；刻薄嘴；谈吐卑劣粗俗
   - 近义词
-    - adj. 下流的；说话粗鄙恶劣的；无礼的
-      - `dirty`
-      - `blue`
+    - adj.
+      - 下流的；说话粗鄙恶劣的；无礼的
+        - `dirty`
+        - `blue`
   - 例句
     - `a scurrilous attack on his integrity`
       - 对他正直人格的恶意诋毁

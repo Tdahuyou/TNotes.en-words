@@ -1,38 +1,55 @@
 - communicate
   - 发音
-    - 英 `/kə'mjuːnɪkeɪt/`
-    - 美 `/kə'mjunɪket/`
+    - 英
+      - `/kə'mjuːnɪkeɪt/`
+    - 美
+      - `/kə'mjunɪket/`
   - 词义
-    - v. 联系；交流
-    - `to exchange information or conversation with other people, using words, signs, writing etc`
+    - v.
+      - 联系；交流
+        - `to exchange information or conversation with other people, using words, signs, writing etc`
   - 记忆
     - com(共同) +muni(交流)+c+ate(动词后缀)→共同交流→交际
   - 同根词
     - adj.
-      - `communicating` 交流的；通信的
-      - `communicable` 可传达的；会传染的；爱说话的
-      - `communicant` 传达消息的
-      - `communicational` 通信的；通讯的；交往的
-      - `communicatory` 有关通信的
+      - `communicating`
+        - 交流的；通信的
+      - `communicable`
+        - 可传达的；会传染的；爱说话的
+      - `communicant`
+        - 传达消息的
+      - `communicational`
+        - 通信的；通讯的；交往的
+      - `communicatory`
+        - 有关通信的
     - n.
-      - `communication` 通讯，[通信] 通信；交流
-      - `communicator` 传播者；发报机；通信员
-      - `communicant` 通知者；报导者；领受圣餐者
-      - `communicativeness` 交流；健谈；通信联络
+      - `communication`
+        - 通讯，[通信] 通信；交流
+      - `communicator`
+        - 传播者；发报机；通信员
+      - `communicant`
+        - 通知者；报导者；领受圣餐者
+      - `communicativeness`
+        - 交流；健谈；通信联络
     - v.
-      - `communicating` 交流；传播（communicate的现在分词）；传递
+      - `communicating`
+        - 交流；传播（communicate的现在分词）；传递
   - 近义词
-    - vi. 通讯，传达；相通；感染
-      - `contract`
-      - `intercommunicate`
-    - vt. 传达；感染；显露
-      - `affect`
-      - `catch`
-      - `contract`
-      - `convey`
+    - vi.
+      - 通讯，传达；相通；感染
+        - `contract`
+        - `intercommunicate`
+    - vt.
+      - 传达；感染；显露
+        - `affect`
+        - `catch`
+        - `contract`
+        - `convey`
   - 短语
-    - `communicate with` 沟通；通话 
-    - `communicate in` 用...语言沟通 
+    - `communicate with`
+      - 沟通；通话 
+    - `communicate in`
+      - 用...语言沟通 
   - 例句
     - `We communicated mostly by e-mail.`
       - 我们主要是用电子邮件沟通。

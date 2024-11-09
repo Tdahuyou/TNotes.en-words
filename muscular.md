@@ -1,28 +1,39 @@
 - muscular
   - 发音
-    - 英 `/'mʌskjələr/`
-    - 美 `/'mʌskjəlɚ/`
+    - 英
+      - `/'mʌskjələr/`
+    - 美
+      - `/'mʌskjəlɚ/`
   - 词义
-    - adj. 肌肉的；肌肉发达的；强健的，强壮的
-    - `having large strong muscles`
+    - adj.
+      - 肌肉的；肌肉发达的；强健的，强壮的
+        - `having large strong muscles`
   - 记忆
     - 来自muscul(e)(n. 肌肉)
   - 同根词
     - n.
-      - `muscle` 肌肉；力量
-      - `musculature` 肌肉组织；[解剖] 肌肉系统
-      - `muscularity` 力大；肌肉发达；强壮
+      - `muscle`
+        - 肌肉；力量
+      - `musculature`
+        - 肌肉组织；[解剖] 肌肉系统
+      - `muscularity`
+        - 力大；肌肉发达；强壮
     - vi.
-      - `muscle` 使劲行进
+      - `muscle`
+        - 使劲行进
     - vt.
-      - `muscle` 加强；使劲搬动；使劲挤出
+      - `muscle`
+        - 加强；使劲搬动；使劲挤出
   - 近义词
-    - adj. 肌肉的；肌肉发达的；强健的
-      - `robust`
-      - `intramuscular`
+    - adj.
+      - 肌肉的；肌肉发达的；强健的
+        - `robust`
+        - `intramuscular`
   - 短语
-    - `muscular dystrophy` [医]肌肉萎缩症 
-    - `muscular atrophy` 肌肉萎缩 
+    - `muscular dystrophy`
+      - [医]肌肉萎缩症 
+    - `muscular atrophy`
+      - 肌肉萎缩 
   - 例句
     - `She was fast and strong, with a slender, muscular body.`
       - 她动作敏捷，身体强壮，身材苗条，肌肉结实。

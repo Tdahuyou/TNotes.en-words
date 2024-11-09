@@ -1,20 +1,26 @@
 - chastisement
   - 发音
-    - 英 `/tʃæ'staɪzmənt/`
-    - 美 `/tʃæ'staizmənt/`
+    - 英
+      - `/tʃæ'staɪzmənt/`
+    - 美
+      - `/tʃæ'staizmənt/`
   - 词义
-    - n. 惩罚
+    - n.
+      - 惩罚
   - 同根词
     - vt.
-      - `chastise` 惩罚；严惩；责骂
-      - `chasten` 惩罚；磨炼；抑制
+      - `chastise`
+        - 惩罚；严惩；责骂
+      - `chasten`
+        - 惩罚；磨炼；抑制
   - 近义词
-    - n. 惩罚
-      - `punishment`
-      - `rod`
-      - `payment`
-      - `discipline`
-      - `what-for`
+    - n.
+      - 惩罚
+        - `punishment`
+        - `rod`
+        - `payment`
+        - `discipline`
+        - `what-for`
   - 例句
     - `De Gankelaar: Who taught you that senseless self-chastisement?`
       - 谁教会你那个毫无意义的自我惩罚？

@@ -1,22 +1,30 @@
 - imp
   - 发音
-    - 英 `/ɪmp/`
-    - 美 `/ɪmp/`
+    - 英
+      - `/ɪmp/`
+    - 美
+      - `/ɪmp/`
   - 词义
-    - n. 小鬼,小淘气,顽童
-    - `a child who behaves badly, but in a way that is funny`
+    - n.
+      - 小鬼,小淘气,顽童
+        - `a child who behaves badly, but in a way that is funny`
   - 同根词
     - adj.
-      - `impish` 顽皮的；心地不良的；小鬼般的
+      - `impish`
+        - 顽皮的；心地不良的；小鬼般的
     - adv.
-      - `impishly` 顽皮地；恶作剧地
+      - `impishly`
+        - 顽皮地；恶作剧地
     - n.
-      - `impishness` 顽皮
+      - `impishness`
+        - 顽皮
   - 近义词
-    - n. 顽童，小淘气；小孩
-      - `kid`
-      - `monkey`
-    - vt. 给...装上翅膀；加强
-      - `enhance`
-      - `cement`
-      - `muscle`
+    - n.
+      - 顽童，小淘气；小孩
+        - `kid`
+        - `monkey`
+    - vt.
+      - 给...装上翅膀；加强
+        - `enhance`
+        - `cement`
+        - `muscle`

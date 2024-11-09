@@ -1,21 +1,26 @@
 - unfeigned
   - 发音
-    - 英 `/ʌn'feɪnd/`
-    - 美 `/ʌn'fend/`
+    - 英
+      - `/ʌn'feɪnd/`
+    - 美
+      - `/ʌn'fend/`
   - 词义
-    - adj. 真实的，真诚的
+    - adj.
+      - 真实的，真诚的
   - 记忆
     - un(不) + feigned(假的) → 真实的
   - 同根词
     - adv.
-      - `unfeignedly` 由衷地；不虚伪地；诚心地
+      - `unfeignedly`
+        - 由衷地；不虚伪地；诚心地
   - 近义词
-    - adj. 真实的，不虚伪的
-      - `actual`
-      - `sincere`
-      - `true`
-      - `genuine`
-      - `real`
+    - adj.
+      - 真实的，不虚伪的
+        - `actual`
+        - `sincere`
+        - `true`
+        - `genuine`
+        - `real`
   - 例句
     - `Her interest in people was unfeigned.`
       - 她对人的关心是真诚的。

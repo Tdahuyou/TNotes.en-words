@@ -1,24 +1,33 @@
 - heavily
   - 发音
-    - 英 `/'hevɪlɪ/`
-    - 美 `/'hɛvɪli/`
+    - 英
+      - `/'hevɪlɪ/`
+    - 美
+      - `/'hɛvɪli/`
   - 词义
-    - adv. 在很大程度上，大量地
-    - `in large amounts, to a high degree, or with great severity`
+    - adv.
+      - 在很大程度上，大量地
+        - `in large amounts, to a high degree, or with great severity`
   - 同根词
     - adj.
-      - `heavy` 沉重的；繁重的，巨大的；阴沉的
+      - `heavy`
+        - 沉重的；繁重的，巨大的；阴沉的
     - adv.
-      - `heavy` 大量地；笨重地
+      - `heavy`
+        - 大量地；笨重地
     - n.
-      - `heavy` 重物；严肃角色
-      - `heaviness` 沉重；沉闷；笨拙；迟钝；忧伤
+      - `heavy`
+        - 重物；严肃角色
+      - `heaviness`
+        - 沉重；沉闷；笨拙；迟钝；忧伤
   - 近义词
-    - adv. 沉重地；猛烈地；沉闷地
-      - `strong`
-      - `hard`
+    - adv.
+      - 沉重地；猛烈地；沉闷地
+        - `strong`
+        - `hard`
   - 短语
-    - `rain heavily` 下大雨 
+    - `rain heavily`
+      - 下大雨 
   - 例句
     - `I became heavily involved in politics.`
       - 我深陷政治之中。

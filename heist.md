@@ -1,22 +1,29 @@
 - heist
   - 发音
-    - 英 `/haɪst/`
-    - 美 `/haist/`
+    - 英
+      - `/haɪst/`
+    - 美
+      - `/haist/`
   - 词义
-    - v. 抢劫，拦劫；强夺
-    - n. 抢劫；强夺
-    - `A heist is a robbery, especially one in which money, jewellery, or art is stolen`
+    - v.
+      - 抢劫，拦劫；强夺
+    - n.
+      - 抢劫；强夺
+        - `A heist is a robbery, especially one in which money, jewellery, or art is stolen`
   - 记忆
     - 电影《偷天盗影》的英文是Heist
   - 近义词
-    - vt. 抢劫，拦劫；强夺
-      - `rob of`
-      - `spoliate`
-    - n. 抢劫；强夺
-      - `robbery`
-      - `despoliation`
-    - vi. 抢劫
-      - `rob of`
+    - vt.
+      - 抢劫，拦劫；强夺
+        - `rob of`
+        - `spoliate`
+    - n.
+      - 抢劫；强夺
+        - `robbery`
+        - `despoliation`
+    - vi.
+      - 抢劫
+        - `rob of`
   - 例句
     - `Gather the right crew: You’ll need the right partners in crime to pull the heist.`
       - 召集合适的搭档： 你将需要一些合适的正在犯罪的搭档去抢劫。

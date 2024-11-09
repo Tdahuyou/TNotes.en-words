@@ -1,19 +1,25 @@
 - aboveboard
   - 发音
-    - 英 `/ə,bʌv'bɔːd/`
-    - 美 `/ə'bʌv'bord/`
+    - 英
+      - `/ə,bʌv'bɔːd/`
+    - 美
+      - `/ə'bʌv'bord/`
   - 词义
-    - adv. 光明正大地；率直地
-    - adj. 光明正大的；直率的
-    - `An arrangement or deal that is aboveboard is legal and is being carried out openly and honestly. A person who is aboveboard is open and honest about what they are doing. `
+    - adv.
+      - 光明正大地；率直地
+    - adj.
+      - 光明正大的；直率的
+        - `An arrangement or deal that is aboveboard is legal and is being carried out openly and honestly. A person who is aboveboard is open and honest about what they are doing. `
   - 近义词
-    - adv. 光明正大地；率直地
-      - `unreservedly`
-      - `ingenuously`
-    - adj. 光明正大的；直率的
-      - `explicit`
-      - `naked`
-      - `frank`
+    - adv.
+      - 光明正大地；率直地
+        - `unreservedly`
+        - `ingenuously`
+    - adj.
+      - 光明正大的；直率的
+        - `explicit`
+        - `naked`
+        - `frank`
   - 例句
     - `But while there are certainly aboveboard agents and applications, other recruiters engage in fraudulent behavior.`
       - 但有一些光明正大的代理机构和申请的同时，另一些招生者从事欺诈行为。

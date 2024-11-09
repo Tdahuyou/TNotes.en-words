@@ -1,24 +1,34 @@
 - interferometer
   - 发音
-    - 英 `/,ɪntəfə'rɒmɪtə/`
-    - 美 `/,ɪntɚfɪ'rɑmətɚ/`
+    - 英
+      - `/,ɪntəfə'rɒmɪtə/`
+    - 美
+      - `/,ɪntɚfɪ'rɑmətɚ/`
   - 词义
-    - n. 干涉计
-    - `any acoustic, optical, or microwave instrument that uses interference patterns or fringes to make accurate measurements of wavelength, wave velocity, distance, etc `
+    - n.
+      - 干涉计
+        - `any acoustic, optical, or microwave instrument that uses interference patterns or fringes to make accurate measurements of wavelength, wave velocity, distance, etc `
   - 同根词
     - adj.
-      - `interfering` 干涉的；多管闲事的
+      - `interfering`
+        - 干涉的；多管闲事的
     - n.
-      - `interference` 干扰，冲突；干涉
+      - `interference`
+        - 干扰，冲突；干涉
     - v.
-      - `interfering` 妨碍（interfer的ing形式）
+      - `interfering`
+        - 妨碍（interfer的ing形式）
     - vi.
-      - `interfere` 干涉；妨碍；打扰
+      - `interfere`
+        - 干涉；妨碍；打扰
     - vt.
-      - `interfere` 冲突；介入
+      - `interfere`
+        - 冲突；介入
   - 短语
-    - `laser interferometer` 激光干涉仪 
-    - `michelson interferometer` 迈克耳孙干涉仪 
+    - `laser interferometer`
+      - 激光干涉仪 
+    - `michelson interferometer`
+      - 迈克耳孙干涉仪 
   - 例句
     - `One possibility, according to Hogan, would be to use a device called an atom interferometer.`
       - 霍根说，一种可行方式是使用所谓的“原子干涉仪”设备。

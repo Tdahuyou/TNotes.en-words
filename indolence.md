@@ -1,21 +1,27 @@
 - indolence
   - 发音
-    - 英 `/'indələns/`
-    - 美 `/'ɪndələns/`
+    - 英
+      - `/'indələns/`
+    - 美
+      - `/'ɪndələns/`
   - 词义
-    - n. 懒惰
-    - `Indolence means laziness`
+    - n.
+      - 懒惰
+        - `Indolence means laziness`
   - 记忆
     - 来自indolent (a. 懒惰的)
   - 同根词
     - adj.
-      - `indolent` 懒惰的；无痛的
+      - `indolent`
+        - 懒惰的；无痛的
     - adv.
-      - `indolently` 怠惰地；不痛地
+      - `indolently`
+        - 怠惰地；不痛地
   - 近义词
-    - n. 懒散，懒惰；无痛
-      - `idleness`
-      - `lassitude`
+    - n.
+      - 懒散，懒惰；无痛
+        - `idleness`
+        - `lassitude`
   - 例句
     - `Draw me not aside to indolence and pride.`
       - 不要使我偏离到懒惰和骄傲。

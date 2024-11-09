@@ -1,22 +1,29 @@
 - append
   - 发音
-    - 英 `/ə'pend/`
-    - 美 `/ə'pɛnd/`
+    - 英
+      - `/ə'pend/`
+    - 美
+      - `/ə'pɛnd/`
   - 词义
-    - vt. 附加，增补
-    - `to add something to a piece of writing`
+    - vt.
+      - 附加，增补
+        - `to add something to a piece of writing`
   - 记忆
     - ap(在…之上) + pend(悬挂) → 悬挂在某物之上 → 附加
   - 同根词
     - adj.
-      - `appendant` 附属的；附加的
+      - `appendant`
+        - 附属的；附加的
     - n.
-      - `appendage` 附加物；下属；[动][解剖] 附器（如植物的枝叶和动物的腿尾）
-      - `appendant` 附属物；附属品
+      - `appendage`
+        - 附加物；下属；[动][解剖] 附器（如植物的枝叶和动物的腿尾）
+      - `appendant`
+        - 附属物；附属品
   - 近义词
-    - vt. 附加；贴上；盖章
-      - `attach`
-      - `annex`
+    - vt.
+      - 附加；贴上；盖章
+        - `attach`
+        - `annex`
   - 例句
     - `She appended a note at the end of the letter.`
       - 她在信件尾部附加了一个说明。

@@ -1,18 +1,23 @@
 - ingrate
   - 发音
-    - 英 `/in'greit/`
-    - 美 `/ɪn'ɡret/`
+    - 英
+      - `/in'greit/`
+    - 美
+      - `/ɪn'ɡret/`
   - 词义
-    - n. 忘恩负义者
-    - `an ungrateful person`
+    - n.
+      - 忘恩负义者
+        - `an ungrateful person`
   - 记忆
     - in (不) + grate (感激) → 不知感激 → 忘恩负义者
   - 同根词
     - n.
-      - `ingratitude` 忘恩负义
+      - `ingratitude`
+        - 忘恩负义
   - 近义词
-    - adj. 忘恩的；不知恩的
-      - `thankless`
+    - adj.
+      - 忘恩的；不知恩的
+        - `thankless`
   - 例句
     - `Kick the ingrate out of the country.`
       - 把这个忘恩负义的混蛋踢出我们的国家。

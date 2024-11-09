@@ -1,15 +1,20 @@
 - redolent
   - 发音
-    - 英 `/'redəulənt/`
-    - 美 `/'rɛdələnt/`
+    - 英
+      - `/'redəulənt/`
+    - 美
+      - `/'rɛdələnt/`
   - 词义
-    - adj. 芬芳的
+    - adj.
+      - 芬芳的
   - 记忆
     - red (红色) + olent (有香味的) → 红色的花很芬芳 → 芬芳的
   - 同根词
     - n.
-      - `redolence` 芬芳；香味；香气
+      - `redolence`
+        - 芬芳；香味；香气
   - 近义词
-    - adj. 芬芳的；有…香味的；令人想起…的
-      - `aromatic`
-      - `odoriferous`
+    - adj.
+      - 芬芳的；有…香味的；令人想起…的
+        - `aromatic`
+        - `odoriferous`

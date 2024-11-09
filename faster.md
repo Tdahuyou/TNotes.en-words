@@ -1,7 +1,9 @@
 - faster
   - 发音
-    - 英 `/fɑ:stə(r)/`
-    - 美 `/'fastə/`
+    - 英
+      - `/fɑ:stə(r)/`
+    - 美
+      - `/'fastə/`
   - 词义
   - 例句
     - `Orders are starting to backlog faster than we can process them.`

@@ -1,31 +1,43 @@
 - reverence
   - 发音
-    - 英 `/'rev(ə)r(ə)ns/`
-    - 美 `/'rɛvərəns/`
+    - 英
+      - `/'rev(ə)r(ə)ns/`
+    - 美
+      - `/'rɛvərəns/`
   - 词义
-    - n. 崇敬；尊严；敬礼
-    - `great respect and admiration for someone or something`
-    - v. 敬畏；尊敬
+    - n.
+      - 崇敬；尊严；敬礼
+        - `great respect and admiration for someone or something`
+    - v.
+      - 敬畏；尊敬
   - 同根词
     - adj.
-      - `reverent` 虔诚的；恭敬的；尊敬的
-      - `reverend` 教士的；可尊敬的
-      - `reverential` 虔诚的；表示尊敬的；可尊敬的
+      - `reverent`
+        - 虔诚的；恭敬的；尊敬的
+      - `reverend`
+        - 教士的；可尊敬的
+      - `reverential`
+        - 虔诚的；表示尊敬的；可尊敬的
     - adv.
-      - `reverently` 虔诚地，恭敬地
+      - `reverently`
+        - 虔诚地，恭敬地
     - n.
-      - `reverend` 教士
+      - `reverend`
+        - 教士
     - vt.
-      - `revere` 敬畏；尊敬；崇敬
+      - `revere`
+        - 敬畏；尊敬；崇敬
   - 近义词
-    - n. 崇敬；尊严；敬礼
-      - `dignity`
-      - `sanctity`
-    - vt. 敬畏；尊敬
-      - `honor`
-      - `fear`
-      - `regard`
-      - `worship`
+    - n.
+      - 崇敬；尊严；敬礼
+        - `dignity`
+        - `sanctity`
+    - vt.
+      - 敬畏；尊敬
+        - `honor`
+        - `fear`
+        - `regard`
+        - `worship`
   - 例句
     - `We stand together now in mutual support and in reverence for the dead.`
       - 出于相互支持和对逝者的敬意，我们现在站到了一起。

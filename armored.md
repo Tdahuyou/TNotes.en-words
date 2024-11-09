@@ -1,31 +1,47 @@
 - armored
   - 发音
-    - 英 `/'ɑːrmərd/`
-    - 美 `/'ɑrmɚd/`
+    - 英
+      - `/'ɑːrmərd/`
+    - 美
+      - `/'ɑrmɚd/`
   - 词义
-    - adj. 披甲的，装甲的
+    - adj.
+      - 披甲的，装甲的
   - 同根词
     - adj.
-      - `armed` 武装的；有扶手的；有防卫器官的（指动物）
+      - `armed`
+        - 武装的；有扶手的；有防卫器官的（指动物）
     - n.
-      - `arm` 手臂；武器；袖子；装备
-      - `armor` [军] 装甲；盔甲
-      - `arming` 武装；装备；徽章
+      - `arm`
+        - 手臂；武器；袖子；装备
+      - `armor`
+        - [军] 装甲；盔甲
+      - `arming`
+        - 武装；装备；徽章
     - vi.
-      - `arm` 武装起来
+      - `arm`
+        - 武装起来
     - vt.
-      - `arm` 武装；备战
-      - `armor` 为…装甲
+      - `arm`
+        - 武装；备战
+      - `armor`
+        - 为…装甲
   - 近义词
-    - adj. 装甲的
-      - `steel-clad`
-      - `mailed`
+    - adj.
+      - 装甲的
+        - `steel-clad`
+        - `mailed`
   - 短语
-    - `armored vehicle` 装甲车（辆） 
-    - `armored concrete` n. 钢筋混凝土；钢筋水泥 
-    - `armored car` n. 装甲车 
-    - `armored forces` n. 装甲部队 
-    - `armored division` n. 装甲师 
+    - `armored vehicle`
+      - 装甲车（辆） 
+    - `armored concrete`
+      - n. 钢筋混凝土；钢筋水泥 
+    - `armored car`
+      - n. 装甲车 
+    - `armored forces`
+      - n. 装甲部队 
+    - `armored division`
+      - n. 装甲师 
   - 例句
     - `Thee first "standard" battleship of the Tech Tree armored according to the "all or nothing" concept.`
       - 第一艘按照觨“全有或全没有”的理念进行装甲设计的标准级别战列舰。

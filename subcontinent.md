@@ -1,10 +1,13 @@
 - subcontinent
   - 发音
-    - 英 `/undefined/`
-    - 美 `/,sʌb'kɑntɪnənt/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/,sʌb'kɑntɪnənt/`
   - 词义
-    - n. 次大陆
-    - `a very large area of land that is part of a  continent `
+    - n.
+      - 次大陆
+        - `a very large area of land that is part of a  continent `
   - 例句
     - `Indeed, his descendants, the Mughal Emperors, continued to rule large swathes of the subcontinent until the last of the dynasty was deposed by the British in 1857.`
       - 果不其然，他的后代莫卧尔帝国继续统治大片亚洲次大陆，直到这个帝国的最后一个朝代于1857年被英国废黜。

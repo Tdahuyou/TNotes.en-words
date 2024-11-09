@@ -1,24 +1,33 @@
 - hysterical
   - 发音
-    - 英 `/hi'sterikəl/`
-    - 美 `/hɪ'stɛrɪkl/`
+    - 英
+      - `/hi'sterikəl/`
+    - 美
+      - `/hɪ'stɛrɪkl/`
   - 词义
-    - adj. 情绪异常激动的，歇斯底里的
-    - `unable to control your behaviour or emotions because you are very upset, afraid, excited etc`
+    - adj.
+      - 情绪异常激动的，歇斯底里的
+        - `unable to control your behaviour or emotions because you are very upset, afraid, excited etc`
   - 记忆
     - hyster (看作hyper， 过分地) + ical (…的) → 过分的 → 歇斯底里的
   - 同根词
     - adj.
-      - `hysteric` 歇斯底里的；癔病的；亢奋的
+      - `hysteric`
+        - 歇斯底里的；癔病的；亢奋的
     - adv.
-      - `hysterically` 歇斯底里地
+      - `hysterically`
+        - 歇斯底里地
     - n.
-      - `hysteria` 癔病，歇斯底里；不正常的兴奋
-      - `hysteric` 癔病患者；歇斯底里患者
-      - `hysterics` 歇斯底里症的发作；发疯
+      - `hysteria`
+        - 癔病，歇斯底里；不正常的兴奋
+      - `hysteric`
+        - 癔病患者；歇斯底里患者
+      - `hysterics`
+        - 歇斯底里症的发作；发疯
   - 近义词
-    - adj. 歇斯底里的；异常兴奋的
-      - `fey`
+    - adj.
+      - 歇斯底里的；异常兴奋的
+        - `fey`
   - 例句
     - `Janet became hysterical and began screaming.`
       - 珍妮特歇斯底里起来，开始尖叫。

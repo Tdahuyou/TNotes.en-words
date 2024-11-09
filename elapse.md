@@ -1,18 +1,23 @@
 - elapse
   - 发音
-    - 英 `/ɪ'læps/`
-    - 美 `/ɪ'læps/`
+    - 英
+      - `/ɪ'læps/`
+    - 美
+      - `/ɪ'læps/`
   - 词义
-    - vi. 消逝，流逝
-    - `if a particular period of time elapses, it passes`
+    - vi.
+      - 消逝，流逝
+        - `if a particular period of time elapses, it passes`
   - 记忆
     - e(外) + laps(掉) + e → 向外掉落 → (时间)消逝
   - 近义词
-    - vi. 消逝；时间过去
-      - `ebb away`
-    - n. 流逝；时间的过去
-      - `passing`
-      - `effluxion`
+    - vi.
+      - 消逝；时间过去
+        - `ebb away`
+    - n.
+      - 流逝；时间的过去
+        - `passing`
+        - `effluxion`
   - 例句
     - `Several months elapsed before his case was brought to trial.`
       - 过了几个月他的案子才开审。

@@ -1,16 +1,20 @@
 - obstreperous
   - 发音
-    - 英 `/əb'strepərəs/`
-    - 美 `/əb'strɛpərəs/`
+    - 英
+      - `/əb'strepərəs/`
+    - 美
+      - `/əb'strɛpərəs/`
   - 词义
-    - adj. 喧嚣的；任性的
-    - `noisy and refusing to do what someone asks`
+    - adj.
+      - 喧嚣的；任性的
+        - `noisy and refusing to do what someone asks`
   - 记忆
     - ob + streper (喧闹) + ous → 喧嚣的
   - 近义词
-    - adj. 吵闹的，喧嚣的；难驾驭的
-      - `rip-roaring`
-      - `tumultuous`
+    - adj.
+      - 吵闹的，喧嚣的；难驾驭的
+        - `rip-roaring`
+        - `tumultuous`
   - 例句
     - `You know I have no intention of being awkward and obstreperous.`
       - 你知道我无意存心作对。

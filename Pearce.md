@@ -1,7 +1,9 @@
 - Pearce
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
   - 例句
     - `"Rather like blood circulating in our veins, inside the termites nest it is air that is moved by external temperature and pressures," Pearce explained.`

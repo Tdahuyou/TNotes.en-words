@@ -1,14 +1,18 @@
 - she
   - 发音
-    - 英 `/ʃiː/`
-    - 美 `/ʃi/`
+    - 英
+      - `/ʃiː/`
+    - 美
+      - `/ʃi/`
   - 词义
-    - pron. 她
-    - `used to refer to a woman, girl, or female animal that has already been mentioned or is already known about`
+    - pron.
+      - 她
+        - `used to refer to a woman, girl, or female animal that has already been mentioned or is already known about`
   - 近义词
-    - n. 女人；雌性动物
-      - `female`
-      - `jenny`
+    - n.
+      - 女人；雌性动物
+        - `female`
+        - `jenny`
   - 例句
     - `You could always ask Beth – she’s got plenty of money.`
       - 你总是可以去问贝丝——她有很多钱。

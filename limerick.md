@@ -1,10 +1,13 @@
 - limerick
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 五行打油诗（一种通俗幽默短诗，有五行组成，韵式为aabba）
-    - `a humorous short poem that has five lines that rhyme`
+    - n.
+      - 五行打油诗（一种通俗幽默短诗，有五行组成，韵式为aabba）
+        - `a humorous short poem that has five lines that rhyme`
   - 例句
     - `Or God will toss off a limerick for your pleasure.`
       - 或者上帝为了使你高兴而抛出一首五行打油诗。

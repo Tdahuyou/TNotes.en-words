@@ -1,13 +1,17 @@
 - granary
   - 发音
-    - 英 `/'græn(ə)rɪ/`
-    - 美 `/'grænəri/`
+    - 英
+      - `/'græn(ə)rɪ/`
+    - 美
+      - `/'grænəri/`
   - 词义
-    - n. 谷仓，粮仓
-    - `a place where grain, especially wheat, is stored`
+    - n.
+      - 谷仓，粮仓
+        - `a place where grain, especially wheat, is stored`
   - 近义词
-    - n. [粮食]谷仓，粮仓；盛产粮食的地区
-      - `barn`
+    - n.
+      - [粮食]谷仓，粮仓；盛产粮食的地区
+        - `barn`
   - 例句
     - `The Mid-West is the granary of the U.S.`
       - 中西部是美国的粮仓。

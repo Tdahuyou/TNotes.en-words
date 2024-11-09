@@ -1,11 +1,16 @@
 - fortieth
   - 发音
-    - 英 `/'fɔːtɪɪθ/`
-    - 美 `/undefined/`
+    - 英
+      - `/'fɔːtɪɪθ/`
+    - 美
+      - `/undefined/`
   - 词义
-    - num. 第四十；四十分之一
-    - adj. 第四十的；四十分之一的
-    - n. 第四十；四十分之一
+    - num.
+      - 第四十；四十分之一
+    - adj.
+      - 第四十的；四十分之一的
+    - n.
+      - 第四十；四十分之一
   - 例句
     - `The office ④on the fortieth floor ③of a skyscraper ②in the center ①of New York is the world he works in.`
       - 设在位于①纽约市②中心③一座摩天大楼④第四十层楼里的⑤那间办公室，就是他工作的小天地。

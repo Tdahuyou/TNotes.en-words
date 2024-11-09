@@ -1,14 +1,18 @@
 - petrel
   - 发音
-    - 英 `/'petr(ə)l/`
-    - 美 `/'pitrəl/`
+    - 英
+      - `/'petr(ə)l/`
+    - 美
+      - `/'pitrəl/`
   - 词义
-    - n. 海燕类
-    - `a black and white sea bird`
+    - n.
+      - 海燕类
+        - `a black and white sea bird`
   - 近义词
-    - n. [鸟]海燕
-      - `Mother Carey's chicken`
-      - `salangane`
+    - n.
+      - [鸟]海燕
+        - `Mother Carey's chicken`
+        - `salangane`
   - 例句
     - `The petrel came winnowing in from afar on the sea.`
       - 海燕从海上遥远的地方振翅飞来。

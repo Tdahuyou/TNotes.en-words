@@ -1,25 +1,32 @@
 - bye
   - 发音
-    - 英 `/baɪ/`
-    - 美 `/baɪ/`
+    - 英
+      - `/baɪ/`
+    - 美
+      - `/baɪ/`
   - 词义
-    - int. 再见
-    - `goodbye`
+    - int.
+      - 再见
+        - `goodbye`
   - 近义词
-    - int. 再见
-      - `adios`
-      - `tatas`
-      - `pippip`
-      - `bye-bye`
-    - n. 轮空；次要的东西
-      - `marginalia`
-    - adj. 次要的
-      - `secondary`
-      - `minor`
-      - `supporting`
-      - `peripheral`
+    - int.
+      - 再见
+        - `adios`
+        - `tatas`
+        - `pippip`
+        - `bye-bye`
+    - n.
+      - 轮空；次要的东西
+        - `marginalia`
+    - adj.
+      - 次要的
+        - `secondary`
+        - `minor`
+        - `supporting`
+        - `peripheral`
   - 短语
-    - `bye bye bye` 再见再见再见 
+    - `bye bye bye`
+      - 再见再见再见 
   - 例句
     - `Bye, Dave.`
       - 再见，戴夫。

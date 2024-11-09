@@ -1,12 +1,16 @@
 - ostrich
   - 发音
-    - 英 `/'ɒstrɪtʃ/`
-    - 美 `/'ɔstrɪtʃ/`
+    - 英
+      - `/'ɒstrɪtʃ/`
+    - 美
+      - `/'ɔstrɪtʃ/`
   - 词义
-    - n. 鸵鸟
-    - `a large African bird with long legs, that runs very quickly but cannot fly`
+    - n.
+      - 鸵鸟
+        - `a large African bird with long legs, that runs very quickly but cannot fly`
   - 短语
-    - `ostrich skin` 鸵鸟皮 
+    - `ostrich skin`
+      - 鸵鸟皮 
   - 例句
     - `Some Italians eat donkeys; South Africans eat ostrich.`
       - 有些意大利人吃驴；南非人吃鸵鸟。

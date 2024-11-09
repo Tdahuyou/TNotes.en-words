@@ -1,29 +1,43 @@
 - flavoring
   - 发音
-    - 英 `/'fleɪvərɪŋ/`
-    - 美 `/'flevrɪŋ/`
+    - 英
+      - `/'fleɪvərɪŋ/`
+    - 美
+      - `/'flevrɪŋ/`
   - 词义
-    - n. 调味品（等于flavour）
-    - v. 加味于…（flavor的ing形式）
+    - n.
+      - 调味品（等于flavour）
+    - v.
+      - 加味于…（flavor的ing形式）
   - 同根词
     - adj.
-      - `flavorful` 可口的（等于flavourful）；充满…味道的；有香味的
-      - `flavorous` 有滋味的；美味的
+      - `flavorful`
+        - 可口的（等于flavourful）；充满…味道的；有香味的
+      - `flavorous`
+        - 有滋味的；美味的
     - n.
-      - `flavor` 情味，风味；香料；滋味
-      - `flavour` 香味；滋味
-      - `flavouring` 香料；调味料
+      - `flavor`
+        - 情味，风味；香料；滋味
+      - `flavour`
+        - 香味；滋味
+      - `flavouring`
+        - 香料；调味料
     - v.
-      - `flavouring` 给…加味（flavour的ing形式）
+      - `flavouring`
+        - 给…加味（flavour的ing形式）
     - vt.
-      - `flavor` 加味于
-      - `flavour` 给……调味；给……增添风趣
+      - `flavor`
+        - 加味于
+      - `flavour`
+        - 给……调味；给……增添风趣
   - 近义词
-    - n. 调味品（等于flavour）
-      - `seasoning`
-      - `condiment`
+    - n.
+      - 调味品（等于flavour）
+        - `seasoning`
+        - `condiment`
   - 短语
-    - `flavoring agent` 增味剂；芳香剂 
+    - `flavoring agent`
+      - 增味剂；芳香剂 
   - 例句
     - `It is used as a flavoring or coloring, or for coating a mold.`
       - 焦糖可以用来调味或上色，也可以用来涂抹在模具上。

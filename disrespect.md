@@ -1,19 +1,25 @@
 - disrespect
   - 发音
-    - 英 `/dɪsrɪ'spekt/`
-    - 美 `/,dɪsrɪ'spɛkt/`
+    - 英
+      - `/dɪsrɪ'spekt/`
+    - 美
+      - `/,dɪsrɪ'spɛkt/`
   - 词义
-    - n. 无礼，失礼，不敬
-    - `lack of respect for someone or something`
+    - n.
+      - 无礼，失礼，不敬
+        - `lack of respect for someone or something`
   - 同根词
     - adj.
-      - `disrespectful` 无礼的；失礼的；不尊敬的
+      - `disrespectful`
+        - 无礼的；失礼的；不尊敬的
     - adv.
-      - `disrespectfully` 无礼地；不恭地
+      - `disrespectfully`
+        - 无礼地；不恭地
   - 近义词
-    - n. 无礼，失礼，不敬
-      - `imperence`
-      - `unceremoniousness`
+    - n.
+      - 无礼，失礼，不敬
+        - `imperence`
+        - `unceremoniousness`
   - 例句
     - `Damien has always had a healthy disrespect (= that you think is good ) for media opinion.`
       - 达米安对媒体的观点从来都持合理的不以为然的态度。

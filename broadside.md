@@ -1,16 +1,21 @@
 - broadside
   - 发音
-    - 英 `/'brɔːdsaɪd/`
-    - 美 `/'brɔdsaɪd/`
+    - 英
+      - `/'brɔːdsaɪd/`
+    - 美
+      - `/'brɔdsaɪd/`
   - 词义
-    - n. (船)舷侧
-    - `an attack in which all the guns on one side of a ship are fired at the same time`
+    - n.
+      - (船)舷侧
+        - `an attack in which all the guns on one side of a ship are fired at the same time`
   - 近义词
-    - n. 舷侧；较宽的一面
-      - `shipboard`
-    - adv. 侧面地；胡乱地
-      - `random`
-      - `wild`
+    - n.
+      - 舷侧；较宽的一面
+        - `shipboard`
+    - adv.
+      - 侧面地；胡乱地
+        - `random`
+        - `wild`
   - 例句
     - `The car hit the truck broadside on.`
       - 小汽车撞了卡车的侧面。

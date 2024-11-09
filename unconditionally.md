@@ -1,13 +1,18 @@
 - unconditionally
   - 发音
-    - 英 `/undefined/`
-    - 美 `/,ʌnkən'diʃənəli/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/,ʌnkən'diʃənəli/`
   - 词义
-    - adv. 无条件地
+    - adv.
+      - 无条件地
   - 同根词
     - adj.
-      - `unconditional` 无条件的；绝对的；无限制的
-      - `unconditioned` [数] 无条件的；绝对的
+      - `unconditional`
+        - 无条件的；绝对的；无限制的
+      - `unconditioned`
+        - [数] 无条件的；绝对的
   - 例句
     - `She loves him unconditionally.`
       - 她无条件地爱他。

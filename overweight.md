@@ -1,21 +1,28 @@
 - overweight
   - 发音
-    - 英 `/əuvə'weit/`
-    - 美 `/'ovə'wet/`
+    - 英
+      - `/əuvə'weit/`
+    - 美
+      - `/'ovə'wet/`
   - 词义
-    - n. 超重
+    - n.
+      - 超重
   - 记忆
     - over (超过) + weight (重量， 体重) → 超重
   - 同根词
     - vt.
-      - `overweigh` 价值超出…；比…更重；使苦恼
+      - `overweigh`
+        - 价值超出…；比…更重；使苦恼
   - 近义词
-    - adj. [交]超重的；过重的
-      - `superheavy`
-    - vt. 使负担过重
-      - `load down`
-    - n. [交]超重
-      - `superheavy`
+    - adj.
+      - [交]超重的；过重的
+        - `superheavy`
+    - vt.
+      - 使负担过重
+        - `load down`
+    - n.
+      - [交]超重
+        - `superheavy`
   - 例句
     - `What is the overweight charge?`
       - 超重的是如何收费的？

@@ -1,17 +1,21 @@
 - predicament
   - 发音
-    - 英 `/prɪ'dɪkəm(ə)nt/`
-    - 美 `/prɪ'dɪkəmənt/`
+    - 英
+      - `/prɪ'dɪkəm(ə)nt/`
+    - 美
+      - `/prɪ'dɪkəmənt/`
   - 词义
-    - n. 困境,窘状
-    - `a difficult or unpleasant situation in which you do not know what to do, or in which you have to make a difficult choice`
+    - n.
+      - 困境,窘状
+        - `a difficult or unpleasant situation in which you do not know what to do, or in which you have to make a difficult choice`
   - 近义词
-    - n. 窘况，困境；状态
-      - `difficulty`
-      - `status`
-      - `corner`
-      - `dilemma`
-      - `fix`
+    - n.
+      - 窘况，困境；状态
+        - `difficulty`
+        - `status`
+        - `corner`
+        - `dilemma`
+        - `fix`
   - 例句
     - `the country’s economic predicament`
       - 该国的经济困境

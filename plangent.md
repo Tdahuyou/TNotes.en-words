@@ -1,10 +1,13 @@
 - plangent
   - 发音
-    - 英 `/'plændʒənt/`
-    - 美 `/'plændʒənt/`
+    - 英
+      - `/'plændʒənt/`
+    - 美
+      - `/'plændʒənt/`
   - 词义
-    - adj. 轰鸣的；凄凉的
-    - `a plangent sound is loud and deep and sounds sad`
+    - adj.
+      - 轰鸣的；凄凉的
+        - `a plangent sound is loud and deep and sounds sad`
   - 记忆
     - 来自拉丁文plangere， 意为“拍打胸脯以示哀痛”
   - 例句

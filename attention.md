@@ -1,45 +1,73 @@
 - attention
   - 发音
-    - 英 `/ə'tenʃ(ə)n/`
-    - 美 `/ə'tɛnʃən/`
+    - 英
+      - `/ə'tenʃ(ə)n/`
+    - 美
+      - `/ə'tɛnʃən/`
   - 词义
-    - n. 注意力
-    - `when you carefully listen to, look at, or think about someone or something`
+    - n.
+      - 注意力
+        - `when you carefully listen to, look at, or think about someone or something`
   - 记忆
     - at + tent(伸展) + ion(名词后缀) → 听得伸长了脖子 → 注意(力)
   - 同根词
     - adj.
-      - `attentive` 留意的，注意的
-      - `attentional` 注意的；保养的
+      - `attentive`
+        - 留意的，注意的
+      - `attentional`
+        - 注意的；保养的
     - adv.
-      - `attentively` 注意地；聚精会神地；周到地
+      - `attentively`
+        - 注意地；聚精会神地；周到地
     - n.
-      - `attentiveness` 注意力；专注
+      - `attentiveness`
+        - 注意力；专注
   - 近义词
-    - n. 注意力；关心；立正！（口令）
-      - `consideration`
-      - `thought`
+    - n.
+      - 注意力；关心；立正！（口令）
+        - `consideration`
+        - `thought`
   - 短语
-    - `pay attention` 专心；集中注意力 
-    - `pay more attention to` 更加注意 
-    - `pay close attention to` 密切注意 
-    - `be paid attention to` 关心 
-    - `give one's attention to` v. 注意 
-    - `give attention to` 考虑；注意；关心 
-    - `public attention` 公众的关注 
-    - `attract attention` vi. 引起……的注意 
-    - `for your attention` 请你注意；您的关照 
-    - `draw attention` 引起注意 
-    - `with attention` adj. 留心地，注意地 
-    - `medical attention` 医疗照顾；医疗看护 
-    - `immediate attention` 注视；及时关注 
-    - `pay no attention to` 不注意，不在意 
-    - `matters need attention` 注意事项 
-    - `call attention to` 唤起注意 
-    - `prompt attention` 从速办理 
-    - `undivided attention` 一心一意 
-    - `attention span` 注意广度；注意力的持续时间 
-    - `attention deficit hyperactivity disorder` 过动症，注意力不足过动症；过度活跃症 
+    - `pay attention`
+      - 专心；集中注意力 
+    - `pay more attention to`
+      - 更加注意 
+    - `pay close attention to`
+      - 密切注意 
+    - `be paid attention to`
+      - 关心 
+    - `give one's attention to`
+      - v. 注意 
+    - `give attention to`
+      - 考虑；注意；关心 
+    - `public attention`
+      - 公众的关注 
+    - `attract attention`
+      - vi. 引起……的注意 
+    - `for your attention`
+      - 请你注意；您的关照 
+    - `draw attention`
+      - 引起注意 
+    - `with attention`
+      - adj. 留心地，注意地 
+    - `medical attention`
+      - 医疗照顾；医疗看护 
+    - `immediate attention`
+      - 注视；及时关注 
+    - `pay no attention to`
+      - 不注意，不在意 
+    - `matters need attention`
+      - 注意事项 
+    - `call attention to`
+      - 唤起注意 
+    - `prompt attention`
+      - 从速办理 
+    - `undivided attention`
+      - 一心一意 
+    - `attention span`
+      - 注意广度；注意力的持续时间 
+    - `attention deficit hyperactivity disorder`
+      - 过动症，注意力不足过动症；过度活跃症 
   - 例句
     - `My attention wasn’t really on the game.`
       - 我的注意力其实不在比赛上。

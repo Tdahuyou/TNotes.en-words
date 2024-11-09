@@ -1,16 +1,20 @@
 - ensconce
   - 发音
-    - 英 `/ɪn'skɑːns/`
-    - 美 `/in'skɔns/`
+    - 英
+      - `/ɪn'skɑːns/`
+    - 美
+      - `/in'skɔns/`
   - 词义
-    - vt. 使安顿，安置，使安坐
-    - `to settle yourself in a place where you feel comfortable and safe`
+    - vt.
+      - 使安顿，安置，使安坐
+        - `to settle yourself in a place where you feel comfortable and safe`
   - 记忆
     - en(进入) + sconce(小堡垒) → 进入小堡垒 → 使安顿， 安置， 使安坐
   - 近义词
-    - vt. 安置；安顿下来；使…隐藏
-      - `establish`
-      - `put`
-      - `station`
-      - `bed`
-      - `plant`
+    - vt.
+      - 安置；安顿下来；使…隐藏
+        - `establish`
+        - `put`
+        - `station`
+        - `bed`
+        - `plant`

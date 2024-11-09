@@ -1,17 +1,22 @@
 - plethora
   - 发音
-    - 英 `/'pleθ(ə)rə/`
-    - 美 `/'plɛθərə/`
+    - 英
+      - `/'pleθ(ə)rə/`
+    - 美
+      - `/'plɛθərə/`
   - 词义
-    - n. 过剩,过量
-    - `a very large number of something, usually more than you need`
+    - n.
+      - 过剩,过量
+        - `a very large number of something, usually more than you need`
   - 同根词
     - adj.
-      - `plethoric` 多血症的；过多的
+      - `plethoric`
+        - 多血症的；过多的
   - 近义词
-    - n. 过多；过剩；[医]多血症
-      - `surplus`
-      - `nimiety`
+    - n.
+      - 过多；过剩；[医]多血症
+        - `surplus`
+        - `nimiety`
   - 例句
     - `a plethora of suggestions`
       - 一大堆建议

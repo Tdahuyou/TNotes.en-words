@@ -1,13 +1,18 @@
 - Philippine
   - 发音
-    - 英 `/'filipi:n/`
-    - 美 `/'filipi:n/`
+    - 英
+      - `/'filipi:n/`
+    - 美
+      - `/'filipi:n/`
   - 词义
-    - adj. 菲律宾的,菲律宾人的
-    - `Philippine means belonging or relating to the Philippines, or to their people or culture`
+    - adj.
+      - 菲律宾的,菲律宾人的
+        - `Philippine means belonging or relating to the Philippines, or to their people or culture`
   - 短语
-    - `philippine sea` 菲律宾海 
-    - `philippine islands` 菲律宾群岛 
+    - `philippine sea`
+      - 菲律宾海 
+    - `philippine islands`
+      - 菲律宾群岛 
   - 例句
     - `CMMI certification, she says, would ensure a higher quality of software development and help Philippine software companies compete more effectively, particularly in the international market.`
       - 她说，CMMI认证将确保更高质量的软件开发，帮助菲律宾的软件公司，特别是在国际市场上，更有效地竞争。

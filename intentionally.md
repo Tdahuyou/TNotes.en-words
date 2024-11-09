@@ -1,23 +1,33 @@
 - intentionally
   - 发音
-    - 英 `/ɪn'tenʃənli/`
-    - 美 `/undefined/`
+    - 英
+      - `/ɪn'tenʃənli/`
+    - 美
+      - `/undefined/`
   - 词义
-    - adv. 有意地，故意地
+    - adv.
+      - 有意地，故意地
   - 同根词
     - adj.
-      - `intent` 专心的；急切的；坚决的
-      - `intentional` 故意的；蓄意的；策划的
+      - `intent`
+        - 专心的；急切的；坚决的
+      - `intentional`
+        - 故意的；蓄意的；策划的
     - adv.
-      - `intently` 专心地；一心一意地；心无旁物地
+      - `intently`
+        - 专心地；一心一意地；心无旁物地
     - n.
-      - `intention` 意图；目的；意向；愈合
-      - `intent` 意图；目的；含义
-      - `intentionality` 意向性，意图性
+      - `intention`
+        - 意图；目的；意向；愈合
+      - `intent`
+        - 意图；目的；含义
+      - `intentionality`
+        - 意向性，意图性
   - 近义词
-    - adv. 故意地，有意地
-      - `deliberately`
-      - `purposely`
+    - adv.
+      - 故意地，有意地
+        - `deliberately`
+        - `purposely`
   - 例句
     - `Or you can choose to accelerate your growth and intentionally devour life and all it offers .`
       - 或者你可以选择加速你的成长，有意地吞噬生活及生活所赐予你的一切。

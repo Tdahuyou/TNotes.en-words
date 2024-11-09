@@ -1,46 +1,68 @@
 - spark
   - 发音
-    - 英 `/spɑːrk/`
-    - 美 `/spɑrk/`
+    - 英
+      - `/spɑːrk/`
+    - 美
+      - `/spɑrk/`
   - 词义
-    - v. 激发，引发，触发；
-    - `If a burning object or electricity sparks a fire, it causes a fire`
+    - v.
+      - 激发，引发，触发；
+        - `If a burning object or electricity sparks a fire, it causes a fire`
   - 记忆
     - s + park(公园) → 公园经常是擦出爱情火花的地方 → 火花
   - 同根词
     - adj.
-      - `sparkling` 闪闪发光的，闪烁的；起泡沫的
+      - `sparkling`
+        - 闪闪发光的，闪烁的；起泡沫的
     - n.
-      - `sparker` 电火花器；点火线圈；[海洋] 电火花震源；火花捕捉器
+      - `sparker`
+        - 电火花器；点火线圈；[海洋] 电火花震源；火花捕捉器
     - v.
-      - `sparkling` 闪耀；发出火花；起泡沫（sparkle的ing形式）
+      - `sparkling`
+        - 闪耀；发出火花；起泡沫（sparkle的ing形式）
   - 近义词
-    - n. [电]火花；朝气；闪光
-      - `A FRAME`
-      - `scintilla`
-    - vt. 发动；鼓舞；求婚
-      - `stimulate`
-      - `launch`
-      - `lift`
-      - `drive`
-      - `spirit`
-    - vi. 闪烁；[电]发火花；求婚
-      - `offer`
-      - `coruscate`
+    - n.
+      - [电]火花；朝气；闪光
+        - `A FRAME`
+        - `scintilla`
+    - vt.
+      - 发动；鼓舞；求婚
+        - `stimulate`
+        - `launch`
+        - `lift`
+        - `drive`
+        - `spirit`
+    - vi.
+      - 闪烁；[电]发火花；求婚
+        - `offer`
+        - `coruscate`
   - 短语
-    - `spark plug` n. 火花塞；带头人；中坚分子 
-    - `electric spark` 电火花 
-    - `spark discharge` 火花放电 
-    - `spark gap` 火花隙；电花隙 
-    - `spark ignition` 火花点火 
-    - `spark machining` 电火花加工 
-    - `spark advance` 点火提前；火花提早 
-    - `electric spark machining` [机械]电火花加工；放电加工 
-    - `spark erosion` 火花蚀刻，电火花腐蚀 
-    - `spark of life` 生命的火花 
-    - `make the sparks fly` 干得热火朝天；进行得非常热烈 
-    - `spark timing` 火花定时器 
-    - `not a spark of` 毫不，一点也不 
+    - `spark plug`
+      - n. 火花塞；带头人；中坚分子 
+    - `electric spark`
+      - 电火花 
+    - `spark discharge`
+      - 火花放电 
+    - `spark gap`
+      - 火花隙；电花隙 
+    - `spark ignition`
+      - 火花点火 
+    - `spark machining`
+      - 电火花加工 
+    - `spark advance`
+      - 点火提前；火花提早 
+    - `electric spark machining`
+      - [机械]电火花加工；放电加工 
+    - `spark erosion`
+      - 火花蚀刻，电火花腐蚀 
+    - `spark of life`
+      - 生命的火花 
+    - `make the sparks fly`
+      - 干得热火朝天；进行得非常热烈 
+    - `spark timing`
+      - 火花定时器 
+    - `not a spark of`
+      - 毫不，一点也不 
   - 例句
     - `A dropped cigarette may have sparked the fire.`
       - 一支丢弃的香烟可能引发了这场火灾。

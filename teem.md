@@ -1,23 +1,31 @@
 - teem
   - 发音
-    - 英 `/tiːm/`
-    - 美 `/tim/`
+    - 英
+      - `/tiːm/`
+    - 美
+      - `/tim/`
   - 词义
-    - vi. 充满，到处都是
-    - `If you say that a place is teeming with people or animals, you mean that it is crowded and the people and animals are moving around a lot`
+    - vi.
+      - 充满，到处都是
+        - `If you say that a place is teeming with people or animals, you mean that it is crowded and the people and animals are moving around a lot`
   - 同根词
     - adj.
-      - `teeming` 多产的，丰富的；热闹的
+      - `teeming`
+        - 多产的，丰富的；热闹的
     - v.
-      - `teeming` 充满（teem的现在分词）
+      - `teeming`
+        - 充满（teem的现在分词）
   - 近义词
-    - vi. 大量出现；充满
-      - `abound with`
-      - `be imbued with`
-    - vt. 倒出
-      - `swill`
+    - vi.
+      - 大量出现；充满
+        - `abound with`
+        - `be imbued with`
+    - vt.
+      - 倒出
+        - `swill`
   - 短语
-    - `teem with` 富于；充满 
+    - `teem with`
+      - 富于；充满 
   - 例句
     - `For most of the year, the area is teeming with tourists.`
       - 一年的大部分时间里这个地方都挤满了游客。

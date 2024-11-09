@@ -1,13 +1,17 @@
 - floodplain
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 泛洪平原,漫滩
+    - n.
+      - 泛洪平原,漫滩
   - 近义词
-    - n. 泛滥平原
-      - `sailaba`
-      - `haugh`
+    - n.
+      - 泛滥平原
+        - `sailaba`
+        - `haugh`
   - 例句
     - `Adgantole was a sour-smelling, dusty village beside the Awash River floodplain.`
       - 阿甘图尔一处闻起来有些酸臭到处都是灰尘的村庄，就坐落在阿瓦什河的泛滥平原上。

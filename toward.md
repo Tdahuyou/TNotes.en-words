@@ -1,22 +1,31 @@
 - toward
   - 发音
-    - 英 `/tə'wɔːd; twɔːd; tɔːd/`
-    - 美 `/tɔrd; təˈwɔrd/`
+    - 英
+      - `/tə'wɔːd; twɔːd; tɔːd/`
+    - 美
+      - `/tɔrd; təˈwɔrd/`
   - 词义
-    - prep. 向,朝,接近
+    - prep.
+      - 向,朝,接近
   - 同根词
     - adv.
-      - `to` 向前；（门等）关上
+      - `to`
+        - 向前；（门等）关上
     - prep.
-      - `to` 到；向；（表示时间、方向）朝…方向
+      - `to`
+        - 到；向；（表示时间、方向）朝…方向
   - 近义词
-    - prep. 向；对于；为了；接近
-      - `unto`
-      - `upon`
-      - `out`
-    - adj. 即将来到的，进行中的
-      - `going`
-      - `underway`
+    - prep.
+      - 向；对于；为了；接近
+        - `unto`
+        - `upon`
+        - `out`
+    - adj.
+      - 即将来到的，进行中的
+        - `going`
+        - `underway`
   - 短语
-    - `go toward` 朝...方向走去 
-    - `make toward` 向…延伸；向…前进 
+    - `go toward`
+      - 朝...方向走去 
+    - `make toward`
+      - 向…延伸；向…前进 

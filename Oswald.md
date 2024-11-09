@@ -1,7 +1,9 @@
 - Oswald
   - 发音
-    - 英 `/'ɔzwəld/`
-    - 美 `/'ɔzwəld/`
+    - 英
+      - `/'ɔzwəld/`
+    - 美
+      - `/'ɔzwəld/`
   - 词义
   - 例句
     - `But Oswald stressed that the research looked at the average person, and could not account for everyone.`

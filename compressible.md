@@ -1,29 +1,41 @@
 - compressible
   - 发音
-    - 英 `/kəm'presbl/`
-    - 美 `/undefined/`
+    - 英
+      - `/kəm'presbl/`
+    - 美
+      - `/undefined/`
   - 词义
-    - adj. 可压缩的
+    - adj.
+      - 可压缩的
   - 记忆
     - compress(压缩) + ible(能…的) → 可压缩的； 可压榨的
   - 同根词
     - adj.
-      - `compressed` 被压缩的；扁平的
+      - `compressed`
+        - 被压缩的；扁平的
     - n.
-      - `compression` 压缩，浓缩；压榨，压迫
-      - `compressor` 压缩机；压缩物；收缩肌；[医] 压迫器
-      - `compressibility` 压缩性；压缩系数；压缩率
+      - `compression`
+        - 压缩，浓缩；压榨，压迫
+      - `compressor`
+        - 压缩机；压缩物；收缩肌；[医] 压迫器
+      - `compressibility`
+        - 压缩性；压缩系数；压缩率
     - vi.
-      - `compress` 受压缩小
+      - `compress`
+        - 受压缩小
     - vt.
-      - `compress` 压缩，压紧；精简
+      - `compress`
+        - 压缩，压紧；精简
   - 近义词
-    - adj. 可压缩的；可压榨的
-      - `squeezable`
-      - `condensable`
+    - adj.
+      - 可压缩的；可压榨的
+        - `squeezable`
+        - `condensable`
   - 短语
-    - `compressible fluid` 可压缩流体；可压缩铃 
-    - `compressible flow` 可压缩流；可压缩的流动 
+    - `compressible fluid`
+      - 可压缩流体；可压缩铃 
+    - `compressible flow`
+      - 可压缩流；可压缩的流动 
   - 例句
     - `As a group, multiplayer fabrics have the advantage of a large void volume in the non-compressible bade structure.`
       - 作为一个组织，多层面料的优点是无效体积大在非可压缩八德结构中。

@@ -1,10 +1,13 @@
 - deskill
   - 发音
-    - 英 `/di'skil/`
-    - 美 `/di:'skil/`
+    - 英
+      - `/di'skil/`
+    - 美
+      - `/di:'skil/`
   - 词义
-    - vt. 使非技能化
-    - `If workers are deskilled, they no longer need special skills to do their work, especially because of modern methods of production`
+    - vt.
+      - 使非技能化
+        - `If workers are deskilled, they no longer need special skills to do their work, especially because of modern methods of production`
   - 记忆
     - de(没有)+ skill(技能) → 使非技能化
   - 例句

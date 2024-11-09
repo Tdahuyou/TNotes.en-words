@@ -1,13 +1,17 @@
 - seabird
   - 发音
-    - 英 `/undefined/`
-    - 美 `/'sibɝd/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/'sibɝd/`
   - 词义
-    - n. 海鸟(如海鸥)
-    - `a bird that lives near the sea and finds food in it`
+    - n.
+      - 海鸟(如海鸥)
+        - `a bird that lives near the sea and finds food in it`
   - 近义词
-    - n. [鸟]海鸟（如海鸥，等于seafowl）
-      - `seafowl`
+    - n.
+      - [鸟]海鸟（如海鸥，等于seafowl）
+        - `seafowl`
   - 例句
     - `The island is covered with seabirds.`
       - 这岛上到处都是海鸟。

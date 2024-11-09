@@ -1,28 +1,41 @@
 - legally
   - 发音
-    - 英 `/'li:gəli/`
-    - 美 `/'li:gəli/`
+    - 英
+      - `/'li:gəli/`
+    - 美
+      - `/'li:gəli/`
   - 词义
-    - adv. 法律上,合法地
-    - `according to the law`
+    - adv.
+      - 法律上,合法地
+        - `according to the law`
   - 同根词
     - adj.
-      - `legal` 法律的；合法的；法定的
+      - `legal`
+        - 法律的；合法的；法定的
     - n.
-      - `legality` 合法；合法性；墨守法规
-      - `legalization` [法] 合法化；法律认可
-      - `legalisation` 合法化；正当化
-      - `legalism` 拘泥于法律或规定的人；律法尊重主义者；守法主义；法律术语
-      - `legalese` 法律术语，法律措辞
+      - `legality`
+        - 合法；合法性；墨守法规
+      - `legalization`
+        - [法] 合法化；法律认可
+      - `legalisation`
+        - 合法化；正当化
+      - `legalism`
+        - 拘泥于法律或规定的人；律法尊重主义者；守法主义；法律术语
+      - `legalese`
+        - 法律术语，法律措辞
     - vt.
-      - `legalize` 使合法化；公认；法律上认为…正当
-      - `legalise` 使合法化（等于legalize）
+      - `legalize`
+        - 使合法化；公认；法律上认为…正当
+      - `legalise`
+        - 使合法化（等于legalize）
   - 近义词
-    - adv. 合法地；法律上
-      - `lawfully`
-      - `licity`
+    - adv.
+      - 合法地；法律上
+        - `lawfully`
+        - `licity`
   - 短语
-    - `legally binding` 有法律约束力；受法律约束 
+    - `legally binding`
+      - 有法律约束力；受法律约束 
   - 例句
     - `They are still legally married.`
       - 他们在法律上仍然是夫妻。

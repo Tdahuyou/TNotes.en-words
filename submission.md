@@ -1,35 +1,50 @@
 - submission
   - 发音
-    - 英 `/səb'mɪʃn/`
-    - 美 `/səb'mɪʃən/`
+    - 英
+      - `/səb'mɪʃn/`
+    - 美
+      - `/səb'mɪʃən/`
   - 词义
-    - n. 屈服，服从；提交，呈递；提交物；看法，意见
-    - `the state of being completely controlled by a person or group, and accepting that you have to obey them`
+    - n.
+      - 屈服，服从；提交，呈递；提交物；看法，意见
+        - `the state of being completely controlled by a person or group, and accepting that you have to obey them`
   - 同根词
     - adj.
-      - `subordinate` 从属的；次要的
-      - `submissive` 顺从的；服从的；柔顺的
-      - `subordinating` 连接主句和从句的；从属的
+      - `subordinate`
+        - 从属的；次要的
+      - `submissive`
+        - 顺从的；服从的；柔顺的
+      - `subordinating`
+        - 连接主句和从句的；从属的
     - n.
-      - `subordinate` 下属，下级；部属，属下
-      - `submissiveness` 柔顺；服从
+      - `subordinate`
+        - 下属，下级；部属，属下
+      - `submissiveness`
+        - 柔顺；服从
     - v.
-      - `subordinating` 使服从（subordinate的ing形式）；使成为下级
+      - `subordinating`
+        - 使服从（subordinate的ing形式）；使成为下级
     - vi.
-      - `submit` 提交；服从
+      - `submit`
+        - 提交；服从
     - vt.
-      - `submit` 使服从；主张；呈递
-      - `subordinate` 使……居下位；使……服从
+      - `submit`
+        - 使服从；主张；呈递
+      - `subordinate`
+        - 使……居下位；使……服从
   - 近义词
-    - n. 投降；[计]提交（物）；服从；（向法官提出的）意见；谦恭
-      - `opinion`
-      - `compliance`
-      - `view`
-      - `comment`
-      - `mind`
+    - n.
+      - 投降；[计]提交（物）；服从；（向法官提出的）意见；谦恭
+        - `opinion`
+        - `compliance`
+        - `view`
+        - `comment`
+        - `mind`
   - 短语
-    - `submission date` 提交日期 
-    - `submission of tender` 投标 
+    - `submission date`
+      - 提交日期 
+    - `submission of tender`
+      - 投标 
   - 例句
     - `The deadline for the submission of proposals is May 1st.`
       - 呈交提案的最后期限是 5 月 1 日。

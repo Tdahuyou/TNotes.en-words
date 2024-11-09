@@ -1,11 +1,15 @@
 - defeasible
   - 发音
-    - 英 `/dɪ'fiːzɪb(ə)l/`
-    - 美 `/dɪ'fizəbl/`
+    - 英
+      - `/dɪ'fiːzɪb(ə)l/`
+    - 美
+      - `/dɪ'fizəbl/`
   - 词义
-    - adj. 可废止的
-    - `(of an estate or interest in land) capable of being defeated or rendered void `
+    - adj.
+      - 可废止的
+        - `(of an estate or interest in land) capable of being defeated or rendered void `
   - 近义词
-    - adj. 可作废的，可废止的
-      - `abolishable`
-      - `annullable`
+    - adj.
+      - 可作废的，可废止的
+        - `abolishable`
+        - `annullable`

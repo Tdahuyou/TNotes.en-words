@@ -1,16 +1,21 @@
 - chloroplast
   - 发音
-    - 英 `/'klɔːrəplæst/`
-    - 美 `/'klɔrəplæst/`
+    - 英
+      - `/'klɔːrəplæst/`
+    - 美
+      - `/'klɔrəplæst/`
   - 词义
-    - n. 叶绿体
-    - `a plastid containing chlorophyll and other pigments, occurring in plants and algae that carry out photosynthesis `
+    - n.
+      - 叶绿体
+        - `a plastid containing chlorophyll and other pigments, occurring in plants and algae that carry out photosynthesis `
   - 同根词
     - adj.
-      - `chlorophyllous` 叶绿素的，含叶绿素的
+      - `chlorophyllous`
+        - 叶绿素的，含叶绿素的
   - 近义词
-    - n. [植]叶绿体
-      - `chromatophore`
+    - n.
+      - [植]叶绿体
+        - `chromatophore`
   - 例句
     - `In C4 plants there are two types of chloroplast.`
       - 在C4植物中有两种类型的叶绿体。

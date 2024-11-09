@@ -1,28 +1,38 @@
 - scald
   - 发音
-    - 英 `/skɔːld/`
-    - 美 `/skɔld/`
+    - 英
+      - `/skɔːld/`
+    - 美
+      - `/skɔld/`
   - 词义
-    - v. 烫伤，烫洗
-    - `to burn your skin with hot liquid or steam`
-    - n. 烫伤
-    - `a burn on your skin caused by hot liquid or steam`
+    - v.
+      - 烫伤，烫洗
+        - `to burn your skin with hot liquid or steam`
+    - n.
+      - 烫伤
+        - `a burn on your skin caused by hot liquid or steam`
   - 同根词
     - adj.
-      - `scalding` 滚烫的；尖刻的
+      - `scalding`
+        - 滚烫的；尖刻的
     - n.
-      - `scalding` [外科] 烫伤
+      - `scalding`
+        - [外科] 烫伤
     - v.
-      - `scalding` 烫（scald的ing形式）
+      - `scalding`
+        - 烫（scald的ing形式）
   - 近义词
-    - vt. 烫伤；烫洗；加热；晒焦
-      - `to get a burn`
-      - `heat up`
-    - vi. 烫伤；烫洗；煮沸
-      - `to get a burn`
-      - `boil out`
-    - n. 烫伤；烫洗
-      - `empyrosis`
+    - vt.
+      - 烫伤；烫洗；加热；晒焦
+        - `to get a burn`
+        - `heat up`
+    - vi.
+      - 烫伤；烫洗；煮沸
+        - `to get a burn`
+        - `boil out`
+    - n.
+      - 烫伤；烫洗
+        - `empyrosis`
   - 例句
     - `Don’t scald yourself with that kettle!`
       - 小心别让水壶烫着！

@@ -1,17 +1,23 @@
 - imputation
   - 发音
-    - 英 `/ˌɪmpju'teɪʃn/`
-    - 美 `/,ɪmpjʊ'teʃən/`
+    - 英
+      - `/ˌɪmpju'teɪʃn/`
+    - 美
+      - `/,ɪmpjʊ'teʃən/`
   - 词义
-    - n. 归咎，归罪
+    - n.
+      - 归咎，归罪
   - 记忆
     - im(进入) + put(计算) + ation → 算计别人 → 归罪
   - 同根词
     - adj.
-      - `imputable` 可归因的；可嫁祸的；使负责的
+      - `imputable`
+        - 可归因的；可嫁祸的；使负责的
     - vt.
-      - `impute` 归罪于，归咎于；嫁祸于
+      - `impute`
+        - 归罪于，归咎于；嫁祸于
   - 近义词
-    - n. 归罪；非难；归咎；污名
-      - `reprehension`
-      - `objurgation`
+    - n.
+      - 归罪；非难；归咎；污名
+        - `reprehension`
+        - `objurgation`

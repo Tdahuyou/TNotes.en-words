@@ -1,22 +1,30 @@
 - inquisitive
   - 发音
-    - 英 `/ɪn'kwɪzɪtɪv/`
-    - 美 `/ɪn'kwɪzətɪv/`
+    - 英
+      - `/ɪn'kwɪzɪtɪv/`
+    - 美
+      - `/ɪn'kwɪzətɪv/`
   - 词义
-    - adj. 好奇的；好问的，爱打听的
-    - `asking too many questions and trying to find out too many details about something or someone`
+    - adj.
+      - 好奇的；好问的，爱打听的
+        - `asking too many questions and trying to find out too many details about something or someone`
   - 同根词
     - adv.
-      - `inquisitively` 好问地；过分好奇地
+      - `inquisitively`
+        - 好问地；过分好奇地
     - n.
-      - `inquisition` 调查；宗教法庭；审讯
-      - `inquisitiveness` 好奇；爱打听别人隐私
+      - `inquisition`
+        - 调查；宗教法庭；审讯
+      - `inquisitiveness`
+        - 好奇；爱打听别人隐私
     - vt.
-      - `inquisite` 调查，审讯
+      - `inquisite`
+        - 调查，审讯
   - 近义词
-    - adj. 好奇的；好问的，爱打听的
-      - `curious`
-      - `intrigued`
+    - adj.
+      - 好奇的；好问的，爱打听的
+        - `curious`
+        - `intrigued`
   - 例句
     - `I’d have asked more questions, but I didn’t want to seem inquisitive.`
       - 我本想问更多的问题，但我不想看上去那么爱打听。

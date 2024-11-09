@@ -1,14 +1,18 @@
 - limnetic
   - 发音
-    - 英 `/lɪm'netɪk/`
-    - 美 `/lim'netik/`
+    - 英
+      - `/lɪm'netɪk/`
+    - 美
+      - `/lim'netik/`
   - 词义
-    - adj. 淡水的，湖泊的
-    - `of, relating to, or inhabiting the open water of lakes down to the depth of light penetration `
+    - adj.
+      - 淡水的，湖泊的
+        - `of, relating to, or inhabiting the open water of lakes down to the depth of light penetration `
   - 近义词
-    - adj. 淡水的；湖泊的
-      - `fresh`
-      - `lacustrine`
+    - adj.
+      - 淡水的；湖泊的
+        - `fresh`
+        - `lacustrine`
   - 例句
     - `the limnetic zone`
       - 

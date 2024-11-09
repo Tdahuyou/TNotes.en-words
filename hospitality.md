@@ -1,20 +1,27 @@
 - hospitality
   - 发音
-    - 英 `/hɒspɪ'tælɪtɪ/`
-    - 美 `/,hɑspɪ'tæləti/`
+    - 英
+      - `/hɒspɪ'tælɪtɪ/`
+    - 美
+      - `/,hɑspɪ'tæləti/`
   - 词义
-    - n. 好客；殷勤
-    - `friendly behaviour towards visitors`
+    - n.
+      - 好客；殷勤
+        - `friendly behaviour towards visitors`
   - 同根词
     - n.
-      - `hospital` 医院
+      - `hospital`
+        - 医院
   - 近义词
-    - n. 好客；殷勤
-      - `complaisance`
-      - `gallantry`
+    - n.
+      - 好客；殷勤
+        - `complaisance`
+        - `gallantry`
   - 短语
-    - `hospitality industry` 酒店业；服务业 
-    - `hospitality management` 酒店管理 
+    - `hospitality industry`
+      - 酒店业；服务业 
+    - `hospitality management`
+      - 酒店管理 
   - 例句
     - `Thanks for your hospitality over the past few weeks.`
       - 感谢你几周来的热情款待。

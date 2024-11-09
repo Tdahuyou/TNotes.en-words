@@ -1,12 +1,17 @@
 - centimeter
   - 发音
-    - 英 `/ˈsentɪmiːtə(r)/`
-    - 美 `/'sɛntə,mitɚ/`
+    - 英
+      - `/ˈsentɪmiːtə(r)/`
+    - 美
+      - `/'sɛntə,mitɚ/`
   - 词义
-    - n. 厘米
+    - n.
+      - 厘米
   - 短语
-    - `square centimeter` n. 平方厘米，平方公分 
-    - `cubic centimeter` 立方厘米 
+    - `square centimeter`
+      - n. 平方厘米，平方公分 
+    - `cubic centimeter`
+      - 立方厘米 
   - 例句
     - `Who guesses one centimeter?`
       - 谁觉得是一厘米？

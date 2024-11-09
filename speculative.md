@@ -1,26 +1,38 @@
 - speculative
   - 发音
-    - 英 `/'spekjʊlətɪv/`
-    - 美 `/'spɛkjələtɪv/`
+    - 英
+      - `/'spekjʊlətɪv/`
+    - 美
+      - `/'spɛkjələtɪv/`
   - 词义
-    - adj. 推测的,思索的,投机的
-    - `based on guessing, not on information or facts`
+    - adj.
+      - 推测的,思索的,投机的
+        - `based on guessing, not on information or facts`
   - 同根词
     - n.
-      - `speculation` 投机；推测；思索；投机买卖
-      - `speculator` 投机者；思索者
-      - `speculativeness` 思辩
+      - `speculation`
+        - 投机；推测；思索；投机买卖
+      - `speculator`
+        - 投机者；思索者
+      - `speculativeness`
+        - 思辩
     - vi.
-      - `speculate` 推测；投机；思索
+      - `speculate`
+        - 推测；投机；思索
     - vt.
-      - `speculate` 推断
+      - `speculate`
+        - 推断
   - 近义词
-    - adj. 投机的；推测的；思索性的
-      - `conjectural`
+    - adj.
+      - 投机的；推测的；思索性的
+        - `conjectural`
   - 短语
-    - `speculative capital` 投机资本 
-    - `speculative knowledge` 理论知识 
-    - `speculative market` 投机市场 
+    - `speculative capital`
+      - 投机资本 
+    - `speculative knowledge`
+      - 理论知识 
+    - `speculative market`
+      - 投机市场 
   - 例句
     - `speculative investments`
       - 投机性的投资

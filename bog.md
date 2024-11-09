@@ -1,20 +1,27 @@
 - bog
   - 发音
-    - 英 `/bɒg/`
-    - 美 `/bɑɡ/`
+    - 英
+      - `/bɒg/`
+    - 美
+      - `/bɑɡ/`
   - 词义
-    - n. 沼泽
-    - `an area of low wet muddy ground, sometimes containing bushes or grasses`
+    - n.
+      - 沼泽
+        - `an area of low wet muddy ground, sometimes containing bushes or grasses`
   - 同根词
     - adj.
-      - `boggy` 似沼泽的；沼泽多的
+      - `boggy`
+        - 似沼泽的；沼泽多的
   - 近义词
-    - n. [地理]沼泽；泥塘
-      - `cienaga`
-      - `quagmire`
+    - n.
+      - [地理]沼泽；泥塘
+        - `cienaga`
+        - `quagmire`
   - 短语
-    - `bog down` 停顿；陷入困境 
-    - `peat bog` 泥炭沼，泥炭沼泽 
+    - `bog down`
+      - 停顿；陷入困境 
+    - `peat bog`
+      - 泥炭沼，泥炭沼泽 
   - 例句
     - `Your car will bog down in the mud.`
       - 你的车会陷进泥沼的。

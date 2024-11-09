@@ -1,18 +1,25 @@
 - islet
   - 发音
-    - 英 `/'aɪlɪt/`
-    - 美 `/'aɪlət/`
+    - 英
+      - `/'aɪlɪt/`
+    - 美
+      - `/'aɪlət/`
   - 词义
-    - n. 小岛
-    - `a very small island`
+    - n.
+      - 小岛
+        - `a very small island`
   - 近义词
-    - n. 小岛
-      - `tiny island`
-      - `eyot`
+    - n.
+      - 小岛
+        - `tiny island`
+        - `eyot`
   - 短语
-    - `islet cell` 岛细胞；胰岛细胞 
-    - `pancreas islet` 胰岛 
-    - `pancreatic islet` [医]胰岛；郎格罕氏岛 
+    - `islet cell`
+      - 岛细胞；胰岛细胞 
+    - `pancreas islet`
+      - 胰岛 
+    - `pancreatic islet`
+      - [医]胰岛；郎格罕氏岛 
   - 例句
     - `Because of this, researchers have experimented with other techniques, such as this one, to turn adult cells into beta-islet cells.`
       - 正因为此，研究者们只能使用其他的技术，例如成人干细胞转化胰岛细胞的方法。

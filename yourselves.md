@@ -1,13 +1,19 @@
 - yourselves
   - 发音
-    - 英 `/jɔː'selvz/`
-    - 美 `/jʊə'sɛlvz/`
+    - 英
+      - `/jɔː'selvz/`
+    - 美
+      - `/jʊə'sɛlvz/`
   - 词义
-    - pron. 你们自己；你们本人（yourself的复数）
+    - pron.
+      - 你们自己；你们本人（yourself的复数）
   - 短语
-    - `for yourself` 为你自己 
-    - `by yourself` 独自地，单独地 
-    - `do it yourself` 自己动手干 
+    - `for yourself`
+      - 为你自己 
+    - `by yourself`
+      - 独自地，单独地 
+    - `do it yourself`
+      - 自己动手干 
   - 例句
     - `Believe in yourselves.`
       - 相信你们自己。

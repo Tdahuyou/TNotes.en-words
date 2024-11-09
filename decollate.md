@@ -1,9 +1,13 @@
 - decollate
   - 发音
-    - 英 `/dɪ'kɒleɪt; 'dekəleɪt/`
-    - 美 `/'dɛkəlet/`
+    - 英
+      - `/dɪ'kɒleɪt; 'dekəleɪt/`
+    - 美
+      - `/'dɛkəlet/`
   - 词义
-    - v. 斩首,杀头
+    - v.
+      - 斩首,杀头
   - 近义词
-    - vt. 斩首；杀头
-      - `decapitate`
+    - vt.
+      - 斩首；杀头
+        - `decapitate`

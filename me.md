@@ -1,14 +1,18 @@
 - me
   - 发音
-    - 英 `/miː/`
-    - 美 `/mi/`
+    - 英
+      - `/miː/`
+    - 美
+      - `/mi/`
   - 词义
-    - pron. （宾格）我
-    - `used by the person speaking or writing to refer to himself or herself`
+    - pron.
+      - （宾格）我
+        - `used by the person speaking or writing to refer to himself or herself`
   - 近义词
-    - n. 自我；极端自私的人；自我的一部分
-      - `self`
-      - `ego`
+    - n.
+      - 自我；极端自私的人；自我的一部分
+        - `self`
+        - `ego`
   - 例句
     - `Stop, you’re hurting me.`
       - 住手，你弄疼我了。

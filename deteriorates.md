@@ -1,10 +1,13 @@
 - deteriorates
   - 发音
-    - 英 `/dɪ'tɪərɪəreɪt/`
-    - 美 `/dɪ'tɪrɪəret/`
+    - 英
+      - `/dɪ'tɪərɪəreɪt/`
+    - 美
+      - `/dɪ'tɪrɪəret/`
   - 词义
-    - v. 恶化，变坏
-    - `If something deteriorates, it becomes worse in some way`
+    - v.
+      - 恶化，变坏
+        - `If something deteriorates, it becomes worse in some way`
   - 记忆
     - de(向下) + ter(地) + ior + ate → 朝向地面下降 → 变糟糕 → 变坏， 恶化
   - 例句

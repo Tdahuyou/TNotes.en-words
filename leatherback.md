@@ -1,10 +1,13 @@
 - leatherback
   - 发音
-    - 英 `/'leðəbæk/`
-    - 美 `/'lɛðɚbæk/`
+    - 英
+      - `/'leðəbæk/`
+    - 美
+      - `/'lɛðɚbæk/`
   - 词义
-    - n. 棱龟(大海龟之一种)
-    - `a large turtle, Dermochelys coriacea, of warm and tropical seas, having a ridged leathery carapace: family Dermochelidae `
+    - n.
+      - 棱龟(大海龟之一种)
+        - `a large turtle, Dermochelys coriacea, of warm and tropical seas, having a ridged leathery carapace: family Dermochelidae `
   - 例句
     - `Watch out of Venezuela on the critically endangered leatherback turtles.`
       - 请关注委内瑞拉极度濒危的棱皮龟。

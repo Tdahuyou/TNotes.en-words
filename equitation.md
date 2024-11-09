@@ -1,14 +1,18 @@
 - equitation
   - 发音
-    - 英 `/,ekwɪ'teɪʃ(ə)n/`
-    - 美 `/,ekwi'teiʃən/`
+    - 英
+      - `/,ekwɪ'teɪʃ(ə)n/`
+    - 美
+      - `/,ekwi'teiʃən/`
   - 词义
-    - n. 骑马,骑术
-    - `the study and practice of riding and horsemanship `
+    - n.
+      - 骑马,骑术
+        - `the study and practice of riding and horsemanship `
   - 近义词
-    - n. 骑马；骑术
-      - `horseback riding`
-      - `horsemanship`
+    - n.
+      - 骑马；骑术
+        - `horseback riding`
+        - `horsemanship`
   - 例句
     - `We can admire the grassland scenery, equitation and watch the sunset.`
       - 我们可以一起欣赏草原风光，骑马，看日落。

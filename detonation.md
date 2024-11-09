@@ -1,26 +1,35 @@
 - detonation
   - 发音
-    - 英 `/ˌdetə'neɪʃn/`
-    - 美 `/,dɛtə'neʃən/`
+    - 英
+      - `/ˌdetə'neɪʃn/`
+    - 美
+      - `/,dɛtə'neʃən/`
   - 词义
-    - n. 爆炸，爆炸声
-    - `A detonation is a large or powerful explosion`
+    - n.
+      - 爆炸，爆炸声
+        - `A detonation is a large or powerful explosion`
   - 记忆
     - 来自detonate(v. 引爆)
   - 同根词
     - n.
-      - `detonator` 雷管；炸药；导火索
+      - `detonator`
+        - 雷管；炸药；导火索
     - vi.
-      - `detonate` 引爆，爆炸
+      - `detonate`
+        - 引爆，爆炸
     - vt.
-      - `detonate` 使爆炸
+      - `detonate`
+        - 使爆炸
   - 近义词
-    - n. 爆炸；爆炸声；爆发
-      - `blast`
-      - `burst`
+    - n.
+      - 爆炸；爆炸声；爆发
+        - `blast`
+        - `burst`
   - 短语
-    - `detonation wave` 爆震波 
-    - `detonation velocity` 爆炸速度；起爆速度 
+    - `detonation wave`
+      - 爆震波 
+    - `detonation velocity`
+      - 爆炸速度；起爆速度 
   - 例句
     - `...accidental detonation of nuclear weapons.`
       - ...核武器的意外引爆。

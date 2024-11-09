@@ -1,13 +1,17 @@
 - dungeon
   - 发音
-    - 英 `/'dʌn(d)ʒ(ə)n/`
-    - 美 `/'dʌndʒən/`
+    - 英
+      - `/'dʌn(d)ʒ(ə)n/`
+    - 美
+      - `/'dʌndʒən/`
   - 词义
-    - n. 地牢，土牢
-    - `a dark underground prison, especially under a castle, that was used in the past`
+    - n.
+      - 地牢，土牢
+        - `a dark underground prison, especially under a castle, that was used in the past`
   - 近义词
-    - n. 地牢，土牢
-      - `cachot`
+    - n.
+      - 地牢，土牢
+        - `cachot`
   - 例句
     - `He whom I enclose with my name is weeping in this dungeon.`
       - 有人以我的名字被囚禁起来，正在地牢里哭泣。

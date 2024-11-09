@@ -1,28 +1,40 @@
 - astronomy
   - 发音
-    - 英 `/ə'strɑːnəmi/`
-    - 美 `/ə'strɑnəmi/`
+    - 英
+      - `/ə'strɑːnəmi/`
+    - 美
+      - `/ə'strɑnəmi/`
   - 词义
-    - n. 天文学
-    - `the scientific study of the stars and  planet s `
+    - n.
+      - 天文学
+        - `the scientific study of the stars and  planet s `
   - 记忆
     - astro(星星) + nomy(法则； 学科) → 研究星星的学科 → 天文学
   - 同根词
     - adj.
-      - `astronomical` 天文的，天文学的；极大的
-      - `astronomic` 天文学的；星学的
+      - `astronomical`
+        - 天文的，天文学的；极大的
+      - `astronomic`
+        - 天文学的；星学的
     - adv.
-      - `astronomically` 天文学上地；宇航学地；天体地
+      - `astronomically`
+        - 天文学上地；宇航学地；天体地
     - n.
-      - `astronomer` 天文学家
-      - `astronavigation` 太空航行；[航] 天文导航
+      - `astronomer`
+        - 天文学家
+      - `astronavigation`
+        - 太空航行；[航] 天文导航
   - 近义词
-    - n. [天]天文学
-      - `uranology`
+    - n.
+      - [天]天文学
+        - `uranology`
   - 短语
-    - `radio astronomy` n. 射电天文学 
-    - `physics and astronomy` 物理学和天文学 
-    - `national radio astronomy observatory` 国立射电天文台 
+    - `radio astronomy`
+      - n. 射电天文学 
+    - `physics and astronomy`
+      - 物理学和天文学 
+    - `national radio astronomy observatory`
+      - 国立射电天文台 
   - 例句
     - `The book treats of astronomy.`
       - 这本书是讲天文学的。

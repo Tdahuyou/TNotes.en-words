@@ -1,10 +1,13 @@
 - germanium
   - 发音
-    - 英 `/dʒɜː'meɪnɪəm/`
-    - 美 `/dʒɝ'menɪəm/`
+    - 英
+      - `/dʒɜː'meɪnɪəm/`
+    - 美
+      - `/dʒɝ'menɪəm/`
   - 词义
-    - n. 锗
-    - `a brittle crystalline grey element that is a semiconducting metalloid, occurring principally in zinc ores and argyrodite: used in transistors, as a catalyst, and to strengthen and harden alloys`
+    - n.
+      - 锗
+        - `a brittle crystalline grey element that is a semiconducting metalloid, occurring principally in zinc ores and argyrodite: used in transistors, as a catalyst, and to strengthen and harden alloys`
   - 例句
     - `It s also the first germanium laser to operate at room temperature.`
       - 这同样也是第一速在室温下得到控制的锗激光。

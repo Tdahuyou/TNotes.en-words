@@ -1,22 +1,31 @@
 - tragedian
   - 发音
-    - 英 `/trə'dʒiːdɪən/`
-    - 美 `/trə'dʒidɪən/`
+    - 英
+      - `/trə'dʒiːdɪən/`
+    - 美
+      - `/trə'dʒidɪən/`
   - 词义
-    - n. 悲剧演员；悲剧作家
-    - `an actor or writer of tragedy`
+    - n.
+      - 悲剧演员；悲剧作家
+        - `an actor or writer of tragedy`
   - 同根词
     - adj.
-      - `tragic` 悲剧的；悲痛的，不幸的
-      - `tragical` 悲剧的；悲剧性的；悲惨的；不幸的
+      - `tragic`
+        - 悲剧的；悲痛的，不幸的
+      - `tragical`
+        - 悲剧的；悲剧性的；悲惨的；不幸的
     - adv.
-      - `tragically` 悲剧地；悲惨地
+      - `tragically`
+        - 悲剧地；悲惨地
     - n.
-      - `tragedy` 悲剧；灾难；惨案
-      - `tragedienne` 悲剧女演员
+      - `tragedy`
+        - 悲剧；灾难；惨案
+      - `tragedienne`
+        - 悲剧女演员
   - 近义词
-    - n. 悲剧演员；悲剧作家
-      - `Thespian`
+    - n.
+      - 悲剧演员；悲剧作家
+        - `Thespian`
   - 例句
     - `She is regared as the best tragedian on the English stage.`
       - 她被认为是英国戏剧舞台上最出色的悲剧演员。

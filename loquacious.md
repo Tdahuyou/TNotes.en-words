@@ -1,16 +1,21 @@
 - loquacious
   - 发音
-    - 英 `/ləu'kweiʃəs/`
-    - 美 `/lə'kweʃəs/`
+    - 英
+      - `/ləu'kweiʃəs/`
+    - 美
+      - `/lə'kweʃəs/`
   - 词义
-    - adj. 多话的
-    - `a loquacious person likes to talk a lot`
+    - adj.
+      - 多话的
+        - `a loquacious person likes to talk a lot`
   - 记忆
     - loqu (说话) + aci + ous (…的) → 老说话的 → 多话的
   - 同根词
     - n.
-      - `loquacity` 多话，饶舌；喧噪
+      - `loquacity`
+        - 多话，饶舌；喧噪
   - 近义词
-    - adj. 饶舌的，多话的
-      - `talkative`
-      - `loose-tongued`
+    - adj.
+      - 饶舌的，多话的
+        - `talkative`
+        - `loose-tongued`

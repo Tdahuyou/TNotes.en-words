@@ -1,33 +1,48 @@
 - descend
   - 发音
-    - 英 `/dɪ'send/`
-    - 美 `/dɪ'sɛnd/`
+    - 英
+      - `/dɪ'send/`
+    - 美
+      - `/dɪ'sɛnd/`
   - 词义
-    - v. 遗传；下降；起源；降临，来临
-    - `to move from a higher level to a lower one`
+    - v.
+      - 遗传；下降；起源；降临，来临
+        - `to move from a higher level to a lower one`
   - 记忆
     - de(向下) + scend(爬) → 向下爬 → 下降
   - 同根词
     - adj.
-      - `descendant` 下降的；祖传的
-      - `descending` 下降的；下行的
+      - `descendant`
+        - 下降的；祖传的
+      - `descending`
+        - 下降的；下行的
     - n.
-      - `descendant` 后裔；子孙
-      - `descent` 下降；血统；袭击
-      - `descending` 递减；下行
-      - `descender` 下降物；下降者；下行字母
+      - `descendant`
+        - 后裔；子孙
+      - `descent`
+        - 下降；血统；袭击
+      - `descending`
+        - 递减；下行
+      - `descender`
+        - 下降物；下降者；下行字母
     - v.
-      - `descending` 下降（descend的ing形式）
+      - `descending`
+        - 下降（descend的ing形式）
     - vt.
-      - `descent` 除去…的气味；使…失去香味
+      - `descent`
+        - 除去…的气味；使…失去香味
   - 近义词
-    - vi. 下降；下去；下来；遗传；屈尊
-      - `decline`
-      - `go down`
+    - vi.
+      - 下降；下去；下来；遗传；屈尊
+        - `decline`
+        - `go down`
   - 短语
-    - `descend from` 由…传下来的；起源于 
-    - `descend on` 袭击 
-    - `descend upon` vt. 突然到达）；袭击（突然降临 
+    - `descend from`
+      - 由…传下来的；起源于 
+    - `descend on`
+      - 袭击 
+    - `descend upon`
+      - vt. 突然到达）；袭击（突然降临 
   - 例句
     - `Our plane started to descend.`
       - 我们的飞机开始下降。

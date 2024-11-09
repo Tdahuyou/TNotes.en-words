@@ -1,19 +1,24 @@
 - infest
   - 发音
-    - 英 `/ɪn'fest/`
-    - 美 `/ɪn'fɛst/`
+    - 英
+      - `/ɪn'fest/`
+    - 美
+      - `/ɪn'fɛst/`
   - 词义
-    - vt. 大批滋生，大批出没于
-    - `if insects, rats etc infest a place, there are a lot of them and they usually cause damage`
+    - vt.
+      - 大批滋生，大批出没于
+        - `if insects, rats etc infest a place, there are a lot of them and they usually cause damage`
   - 记忆
     - in(进入) + fest(集会) → 拥挤着参加集会 → 大批滋生
   - 同根词
     - n.
-      - `infestation` 感染；侵扰
+      - `infestation`
+        - 感染；侵扰
   - 近义词
-    - vt. 骚扰；寄生于；大批出没；大批滋生
-      - `harry`
-      - `ply with`
+    - vt.
+      - 骚扰；寄生于；大批出没；大批滋生
+        - `harry`
+        - `ply with`
   - 例句
     - `...pests like aphids which infest cereal crops.`
       - …像蚜虫那样大肆侵害谷类作物的害虫。

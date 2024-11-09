@@ -1,23 +1,33 @@
 - meltwater
   - 发音
-    - 英 `/'meltwɔːtə(r)/`
-    - 美 `/'mɛlt,wɔtɚ/`
+    - 英
+      - `/'meltwɔːtə(r)/`
+    - 美
+      - `/'mɛlt,wɔtɚ/`
   - 词义
-    - n. 冰雪融化成的水
-    - `melted snow or ice `
+    - n.
+      - 冰雪融化成的水
+        - `melted snow or ice `
   - 同根词
     - adj.
-      - `melting` 融化的；溶解的；动人的；感伤的
-      - `melted` 融化的；溶解的
+      - `melting`
+        - 融化的；溶解的；动人的；感伤的
+      - `melted`
+        - 融化的；溶解的
     - n.
-      - `melt` 熔化；熔化物
+      - `melt`
+        - 熔化；熔化物
     - v.
-      - `melting` 融化（melt的ing形式）
-      - `melted` 融化；溶解（melt的过去式）
+      - `melting`
+        - 融化（melt的ing形式）
+      - `melted`
+        - 融化；溶解（melt的过去式）
     - vi.
-      - `melt` 熔化，溶解；渐混
+      - `melt`
+        - 熔化，溶解；渐混
     - vt.
-      - `melt` 使融化；使熔化；使软化；使感动
+      - `melt`
+        - 使融化；使熔化；使软化；使感动
   - 例句
     - `No one quite knows why glaciers and ice shelves are melting so fast, or how a meltwater lake on the Greenland ice sheet covering six square kilometres could drain away in 24 hours, as it did in 2006.`
       - 没有人非常了解为什么冰架这么迅速的融化，也没人知道格林兰冰架上的一个覆盖6平方千米的融水湖会在24小时内流干——这在2006确实发生了。

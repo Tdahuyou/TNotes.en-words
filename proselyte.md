@@ -1,14 +1,20 @@
 - proselyte
   - 发音
-    - 英 `/'prɒsɪlaɪt/`
-    - 美 `/'prɑsl,aɪt/`
+    - 英
+      - `/'prɒsɪlaɪt/`
+    - 美
+      - `/'prɑsl,aɪt/`
   - 词义
-    - n. 改信仰者
-    - `a person newly converted to a religious faith or sect; a convert, esp a gentile converted to Judaism `
+    - n.
+      - 改信仰者
+        - `a person newly converted to a religious faith or sect; a convert, esp a gentile converted to Judaism `
   - 同根词
     - n.
-      - `proselytism` 改变信仰；改信宗教；劝诱
+      - `proselytism`
+        - 改变信仰；改信宗教；劝诱
     - vi.
-      - `proselytize` 劝诱改宗
+      - `proselytize`
+        - 劝诱改宗
     - vt.
-      - `proselytize` 使改宗
+      - `proselytize`
+        - 使改宗

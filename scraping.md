@@ -1,40 +1,61 @@
 - scraping
   - 发音
-    - 英 `/'skreɪpɪŋ/`
-    - 美 `/'skrepɪŋ/`
+    - 英
+      - `/'skreɪpɪŋ/`
+    - 美
+      - `/'skrepɪŋ/`
   - 词义
-    - v&n. 刮，擦
-    - `the act of scraping `
+    - v&n.
+      - 刮，擦
+        - `the act of scraping `
   - 同根词
     - adj.
-      - `scrap` 废弃的；零碎的
+      - `scrap`
+        - 废弃的；零碎的
     - n.
-      - `scrap` 碎片；残余物；打架；少量
-      - `scrape` 刮掉；擦痕；困境；刮擦声
-      - `scraper` 刮刀；铲土机；守财奴
-      - `scraped` 刮掉，刮痕；报废
+      - `scrap`
+        - 碎片；残余物；打架；少量
+      - `scrape`
+        - 刮掉；擦痕；困境；刮擦声
+      - `scraper`
+        - 刮刀；铲土机；守财奴
+      - `scraped`
+        - 刮掉，刮痕；报废
     - v.
-      - `scraped` 刮掉，擦掉（scrape的过去分词）
+      - `scraped`
+        - 刮掉，擦掉（scrape的过去分词）
     - vi.
-      - `scrap` 吵架
-      - `scrape` 刮掉；刮出刺耳声
+      - `scrap`
+        - 吵架
+      - `scrape`
+        - 刮掉；刮出刺耳声
     - vt.
-      - `scrap` 废弃；使解体；拆毁
-      - `scrape` 刮；擦伤；挖成
+      - `scrap`
+        - 废弃；使解体；拆毁
+      - `scrape`
+        - 刮；擦伤；挖成
   - 近义词
-    - n. 刮削下的碎屑；刮擦声；抹去
-      - `rasure`
-    - adj. 刮擦的；吝啬的
-      - `tight`
-      - `stingy`
-    - v. 刮，擦（scrape的现在分词）
-      - `anointing`
+    - n.
+      - 刮削下的碎屑；刮擦声；抹去
+        - `rasure`
+    - adj.
+      - 刮擦的；吝啬的
+        - `tight`
+        - `stingy`
+    - v.
+      - 刮，擦（scrape的现在分词）
+        - `anointing`
   - 短语
-    - `scrape together` 东拼西凑 
-    - `scrape up` vt. 积攒；积蓄；凑集 
-    - `scrape off` 刮掉；擦去 
-    - `scrape along` 勉强糊口 
-    - `scrape through` 勉强通过 
+    - `scrape together`
+      - 东拼西凑 
+    - `scrape up`
+      - vt. 积攒；积蓄；凑集 
+    - `scrape off`
+      - 刮掉；擦去 
+    - `scrape along`
+      - 勉强糊口 
+    - `scrape through`
+      - 勉强通过 
   - 例句
     - `I can't bear the sound of chalk scraping on a blackboard.`
       - 我忍受不了粉笔在黑板上的刮擦声。

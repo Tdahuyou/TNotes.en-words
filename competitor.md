@@ -1,30 +1,41 @@
 - competitor
   - 发音
-    - 英 `/kəm'petɪtə/`
-    - 美 `/kəm'pɛtɪtɚ/`
+    - 英
+      - `/kəm'petɪtə/`
+    - 美
+      - `/kəm'pɛtɪtɚ/`
   - 词义
-    - n. 竞争者
-    - `a person, team, company etc that is competing with another`
+    - n.
+      - 竞争者
+        - `a person, team, company etc that is competing with another`
   - 同根词
     - adj.
-      - `competitive` 竞争的；比赛的；求胜心切的
-      - `competitory` 竞争的（等于competitive）
+      - `competitive`
+        - 竞争的；比赛的；求胜心切的
+      - `competitory`
+        - 竞争的（等于competitive）
     - adv.
-      - `competitively` 有竞争力地；好竞争地
+      - `competitively`
+        - 有竞争力地；好竞争地
     - n.
-      - `competition` 竞争；比赛，竞赛
-      - `competitiveness` 竞争力，好竞争
+      - `competition`
+        - 竞争；比赛，竞赛
+      - `competitiveness`
+        - 竞争力，好竞争
     - vi.
-      - `compete` 竞争；比赛；对抗
+      - `compete`
+        - 竞争；比赛；对抗
   - 近义词
-    - n. [劳经]竞争者，对手
-      - `equal`
-      - `opponent`
-      - `rival`
-      - `match`
-      - `contestant`
+    - n.
+      - [劳经]竞争者，对手
+        - `equal`
+        - `opponent`
+        - `rival`
+        - `match`
+        - `contestant`
   - 短语
-    - `competitor analysis` 竞争者分析 
+    - `competitor analysis`
+      - 竞争者分析 
   - 例句
     - `Last year they sold twice as many computers as their competitors.`
       - 去年他们的计算机销量是竞争对手的两倍。

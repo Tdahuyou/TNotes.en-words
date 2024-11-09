@@ -1,27 +1,36 @@
 - scurvy
   - 发音
-    - 英 `/'skɜːvɪ/`
-    - 美 `/'skɝvi/`
+    - 英
+      - `/'skɜːvɪ/`
+    - 美
+      - `/'skɝvi/`
   - 词义
-    - n. 坏血病
-    - `a disease caused by not eating foods such as fruit and vegetables that contain vitamin C`
+    - n.
+      - 坏血病
+        - `a disease caused by not eating foods such as fruit and vegetables that contain vitamin C`
   - 同根词
     - adj.
-      - `scurrilous` 下流的；说话粗鄙恶劣的；无礼的
+      - `scurrilous`
+        - 下流的；说话粗鄙恶劣的；无礼的
     - adv.
-      - `scurrilously` 粗野无礼地；下流地
-      - `scurvily` 下流地；无礼地；卑鄙地
+      - `scurrilously`
+        - 粗野无礼地；下流地
+      - `scurvily`
+        - 下流地；无礼地；卑鄙地
     - n.
-      - `scurrility` 下流；刻薄嘴；谈吐卑劣粗俗
+      - `scurrility`
+        - 下流；刻薄嘴；谈吐卑劣粗俗
   - 近义词
-    - adj. 卑鄙的，下流的
-      - `poor`
-      - `base`
-      - `dirty`
-      - `mean`
-      - `blue`
-    - n. [内科]坏血病
-      - `scorbutus`
+    - adj.
+      - 卑鄙的，下流的
+        - `poor`
+        - `base`
+        - `dirty`
+        - `mean`
+        - `blue`
+    - n.
+      - [内科]坏血病
+        - `scorbutus`
   - 例句
     - `In humans, vitamin C deficiency causes scurvy, and can eventually cause death.`
       - 人类缺乏维生素C会引起坏血病，最终导致死亡。

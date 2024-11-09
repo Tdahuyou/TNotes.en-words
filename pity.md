@@ -1,38 +1,57 @@
 - pity
   - 发音
-    - 英 `/'pɪtɪ/`
-    - 美 `/'pɪtɪ/`
+    - 英
+      - `/'pɪtɪ/`
+    - 美
+      - `/'pɪtɪ/`
   - 词义
-    - n. 可惜；遗憾
-    - `used to show that you are disappointed about something and you wish things could happen differently`
+    - n.
+      - 可惜；遗憾
+        - `used to show that you are disappointed about something and you wish things could happen differently`
   - 同根词
     - adj.
-      - `pitiful` 可怜的，令人同情的
-      - `pitiable` 可怜的
-      - `pitiless` 冷酷的，无情的；无同情心的
-      - `pitying` 同情的；怜悯的
+      - `pitiful`
+        - 可怜的，令人同情的
+      - `pitiable`
+        - 可怜的
+      - `pitiless`
+        - 冷酷的，无情的；无同情心的
+      - `pitying`
+        - 同情的；怜悯的
     - adv.
-      - `pitifully` 可怜地，令人怜悯地；可恨地
-      - `pitiably` 可怜地；卑劣地
-      - `pitilessly` 无情地；冷酷地
-      - `pityingly` 同情地；怜惜地
+      - `pitifully`
+        - 可怜地，令人怜悯地；可恨地
+      - `pitiably`
+        - 可怜地；卑劣地
+      - `pitilessly`
+        - 无情地；冷酷地
+      - `pityingly`
+        - 同情地；怜惜地
     - n.
-      - `pitilessness` 无情；冷酷
+      - `pitilessness`
+        - 无情；冷酷
     - v.
-      - `pitying` 同情（pity的ing形式）
+      - `pitying`
+        - 同情（pity的ing形式）
   - 近义词
-    - n. 怜悯，同情；遗憾
-      - `regret`
-      - `feeling`
-      - `compassion`
-      - `mercy`
-      - `sympathy`
+    - n.
+      - 怜悯，同情；遗憾
+        - `regret`
+        - `feeling`
+        - `compassion`
+        - `mercy`
+        - `sympathy`
   - 短语
-    - `what a pity` 多可惜啊 
-    - `pity for` v. 怜悯某人 
-    - `out of pity` 出于同情；出于怜悯 
-    - `have pity on` 怜悯，同情 
-    - `take pity on` 怜悯，同情 
+    - `what a pity`
+      - 多可惜啊 
+    - `pity for`
+      - v. 怜悯某人 
+    - `out of pity`
+      - 出于同情；出于怜悯 
+    - `have pity on`
+      - 怜悯，同情 
+    - `take pity on`
+      - 怜悯，同情 
   - 例句
     - `It’s a great pity Joyce wasn’t invited.`
       - 乔伊斯没有受到邀请太遗憾了。

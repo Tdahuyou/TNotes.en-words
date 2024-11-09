@@ -1,51 +1,85 @@
 - synchronization
   - 发音
-    - 英 `/,sɪŋkrənaɪ'zeɪʃən/`
-    - 美 `/,sɪnkrənaɪ'zeʃən/`
+    - 英
+      - `/,sɪŋkrənaɪ'zeɪʃən/`
+    - 美
+      - `/,sɪnkrənaɪ'zeʃən/`
   - 词义
-    - n. 同步化
+    - n.
+      - 同步化
   - 同根词
     - adj.
-      - `synchronous` 同步的；同时的
-      - `synchronized` 同步的；同步化的
-      - `synchronic` 不考虑历史上变化的；限于一时的；完全同步的
-      - `synchronised` 同步的
-      - `synchronizing` 同步的
-      - `synchromesh` 同步齿合的
-      - `synchronal` 同步的；同时的
+      - `synchronous`
+        - 同步的；同时的
+      - `synchronized`
+        - 同步的；同步化的
+      - `synchronic`
+        - 不考虑历史上变化的；限于一时的；完全同步的
+      - `synchronised`
+        - 同步的
+      - `synchronizing`
+        - 同步的
+      - `synchromesh`
+        - 同步齿合的
+      - `synchronal`
+        - 同步的；同时的
     - adv.
-      - `synchronously` 同步地；同时地
+      - `synchronously`
+        - 同步地；同时地
     - n.
-      - `synchronisation` 同步；同一时刻；同时发生
-      - `synchrony` 同步
-      - `synchrotron` [核] 同步加速器；同步回旋加速器
-      - `synchronicity` 同步性，同时发生
-      - `synchronism` 同时发生，同步性；对照性历史年谱
-      - `synchromesh` 齿轮的同时咬合装置
-      - `synchroneity` 同时性；对照性历史年谱（等于synchronism）
-      - `synchroniser` 同合器；同步器
-      - `synchronizer` [电] 同步装置；同步闪光装置
-      - `synchronoscope` 同步指示器；同步示波器；同期表；同步表
-      - `synchroscope` 同步检定器；[电子] 同步示波器
+      - `synchronisation`
+        - 同步；同一时刻；同时发生
+      - `synchrony`
+        - 同步
+      - `synchrotron`
+        - [核] 同步加速器；同步回旋加速器
+      - `synchronicity`
+        - 同步性，同时发生
+      - `synchronism`
+        - 同时发生，同步性；对照性历史年谱
+      - `synchromesh`
+        - 齿轮的同时咬合装置
+      - `synchroneity`
+        - 同时性；对照性历史年谱（等于synchronism）
+      - `synchroniser`
+        - 同合器；同步器
+      - `synchronizer`
+        - [电] 同步装置；同步闪光装置
+      - `synchronoscope`
+        - 同步指示器；同步示波器；同期表；同步表
+      - `synchroscope`
+        - 同步检定器；[电子] 同步示波器
     - v.
-      - `synchronized` 使协调（synchronize的过去分词）；同时发生；校准
-      - `synchronised` 使同时（synchronise的过去式和过去分词）
-      - `synchronizing` 同步，整步（synchronize的ing形式）
+      - `synchronized`
+        - 使协调（synchronize的过去分词）；同时发生；校准
+      - `synchronised`
+        - 使同时（synchronise的过去式和过去分词）
+      - `synchronizing`
+        - 同步，整步（synchronize的ing形式）
     - vi.
-      - `synchronize` 同步；同时发生
-      - `synchronise` 同步；同时发生
+      - `synchronize`
+        - 同步；同时发生
+      - `synchronise`
+        - 同步；同时发生
     - vt.
-      - `synchronize` 使……合拍；使……同步
-      - `synchronise` 使同步；使同时发生（等于synchronize）
+      - `synchronize`
+        - 使……合拍；使……同步
+      - `synchronise`
+        - 使同步；使同时发生（等于synchronize）
   - 近义词
-    - n. [物]同步；同时性
-      - `hold-in`
-      - `in-phase`
+    - n.
+      - [物]同步；同时性
+        - `hold-in`
+        - `in-phase`
   - 短语
-    - `time synchronization` 时间同步；时钟同步 
-    - `data synchronization` 数据同步；数据同步设计 
-    - `frame synchronization` 帧同步；框同步 
-    - `synchronization system` 同步系统 
+    - `time synchronization`
+      - 时间同步；时钟同步 
+    - `data synchronization`
+      - 数据同步；数据同步设计 
+    - `frame synchronization`
+      - 帧同步；框同步 
+    - `synchronization system`
+      - 同步系统 
   - 例句
     - `What happens to systems not under the control of the synchronization service?`
       - 系统不在同步服务的控制范围内，会发生什么？

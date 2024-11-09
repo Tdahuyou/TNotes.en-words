@@ -1,34 +1,46 @@
 - cheat
   - 发音
-    - 英 `/tʃiːt/`
-    - 美 `/tʃit/`
+    - 英
+      - `/tʃiːt/`
+    - 美
+      - `/tʃit/`
   - 词义
-    - v. 欺骗，愚弄
-    - `to behave in a dishonest way in order to win or to get an advantage, especially in a competition, game, or examination`
+    - v.
+      - 欺骗，愚弄
+        - `to behave in a dishonest way in order to win or to get an advantage, especially in a competition, game, or examination`
   - 记忆
     - “欺他”→欺骗他人→欺骗； 骗子
   - 同根词
     - adj.
-      - `cheating` 欺骗的
+      - `cheating`
+        - 欺骗的
     - n.
-      - `cheating` 行骗，欺骗行为
-      - `cheater` 骗子；背叛者；眼镜
+      - `cheating`
+        - 行骗，欺骗行为
+      - `cheater`
+        - 骗子；背叛者；眼镜
   - 近义词
-    - vt. [法]欺骗；骗取
-      - `sell`
-      - `fox`
-      - `kid`
-    - vi. [法]欺骗；作弊
-      - `kid`
-      - `pull a fast one`
-    - n. [法]欺骗，作弊；骗子
-      - `fraud`
-      - `sharp`
-      - `deception`
+    - vt.
+      - [法]欺骗；骗取
+        - `sell`
+        - `fox`
+        - `kid`
+    - vi.
+      - [法]欺骗；作弊
+        - `kid`
+        - `pull a fast one`
+    - n.
+      - [法]欺骗，作弊；骗子
+        - `fraud`
+        - `sharp`
+        - `deception`
   - 短语
-    - `cheat on` vt. 对...不忠 
-    - `cheat death` 逃脱死亡 
-    - `cheat sheet` 小抄；备忘单 
+    - `cheat on`
+      - vt. 对...不忠 
+    - `cheat death`
+      - 逃脱死亡 
+    - `cheat sheet`
+      - 小抄；备忘单 
   - 例句
     - `He had cheated in the test by using a calculator.`
       - 他在考试时作弊，用了计算器。

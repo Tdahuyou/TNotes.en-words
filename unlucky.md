@@ -1,19 +1,24 @@
 - unlucky
   - 发音
-    - 英 `/ʌn'lʌkɪ/`
-    - 美 `/ʌn'lʌki/`
+    - 英
+      - `/ʌn'lʌkɪ/`
+    - 美
+      - `/ʌn'lʌki/`
   - 词义
-    - adj. 倒霉的；不幸的；不吉利的
-    - `having bad luck`
+    - adj.
+      - 倒霉的；不幸的；不吉利的
+        - `having bad luck`
   - 同根词
     - adv.
-      - `unluckily` 不幸地；偏巧；倒霉地
+      - `unluckily`
+        - 不幸地；偏巧；倒霉地
   - 近义词
-    - adj. 不幸的；倒霉的；不吉利的
-      - `evil`
-      - `ill`
-      - `unfortunate`
-      - `tragic`
+    - adj.
+      - 不幸的；倒霉的；不吉利的
+        - `evil`
+        - `ill`
+        - `unfortunate`
+        - `tragic`
   - 例句
     - `Thierry Henry was desperately unlucky not to score when his shot hit the post.`
       - 蒂埃里·亨利太不走运了，射门没进，球打中了门柱。

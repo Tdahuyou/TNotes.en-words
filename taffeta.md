@@ -1,11 +1,15 @@
 - taffeta
   - 发音
-    - 英 `/'tæfɪtə/`
-    - 美 `/'tæfɪtə/`
+    - 英
+      - `/'tæfɪtə/`
+    - 美
+      - `/'tæfɪtə/`
   - 词义
-    - n. 塔夫绸；平纹皱丝织品
-    - `a shiny stiff cloth made from silk or  nylon `
-    - adj. 似塔夫绸的；塔夫绸做的
+    - n.
+      - 塔夫绸；平纹皱丝织品
+        - `a shiny stiff cloth made from silk or  nylon `
+    - adj.
+      - 似塔夫绸的；塔夫绸做的
   - 例句
     - `These Wedding Dresses with Sleeves are usually made of luxury materials like velvet, silk, and taffeta.`
       - 这些带有袖子的结婚礼服通常都是选用一些奢华的布料例如丝绒、丝绸、塔夫绸。

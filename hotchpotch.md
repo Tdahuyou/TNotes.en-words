@@ -1,14 +1,18 @@
 - hotchpotch
   - 发音
-    - 英 `/'hɒtʃpɒtʃ/`
-    - 美 `/'hɑtʃ'pɑtʃ/`
+    - 英
+      - `/'hɒtʃpɒtʃ/`
+    - 美
+      - `/'hɑtʃ'pɑtʃ/`
   - 词义
-    - n. 杂烩
-    - `a number of things mixed up without sensible order or arrangement`
+    - n.
+      - 杂烩
+        - `a number of things mixed up without sensible order or arrangement`
   - 近义词
-    - n. 杂烩
-      - `olio`
-      - `cento`
+    - n.
+      - 杂烩
+        - `olio`
+        - `cento`
   - 例句
     - `In the beginning, postmodernism was not merely ironical, merely gesture, some kind of clever sham, a hotchpotch for the sake of it.`
       - 伊始时，后现代主义还不只是讽刺、手势、颇为聪明的伪装，这些特征融合在一起的大杂烩。

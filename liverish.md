@@ -1,20 +1,28 @@
 - liverish
   - 发音
-    - 英 `/'lɪv(ə)rɪʃ/`
-    - 美 `/'lɪvərɪʃ/`
+    - 英
+      - `/'lɪv(ə)rɪʃ/`
+    - 美
+      - `/'lɪvərɪʃ/`
   - 词义
-    - adj. <口>患肝病的,坏脾气的
+    - adj.
+      - <口>患肝病的,坏脾气的
   - 同根词
     - adj.
-      - `lively` 活泼的；生动的；真实的；生气勃勃的
-      - `livery` 有肝病症状的
+      - `lively`
+        - 活泼的；生动的；真实的；生气勃勃的
+      - `livery`
+        - 有肝病症状的
     - n.
-      - `liver` 肝脏；生活者，居民
-      - `livery` 制服；侍从
+      - `liver`
+        - 肝脏；生活者，居民
+      - `livery`
+        - 制服；侍从
   - 近义词
-    - adj. 肝病的；坏脾气的；似肝的；易怒的
-      - `passionate`
-      - `ornery`
+    - adj.
+      - 肝病的；坏脾气的；似肝的；易怒的
+        - `passionate`
+        - `ornery`
   - 例句
     - `Inevitably HSC will become a promising way for liverish treatment.`
       - HSC无疑给我们肝病的治疗带来了广阔的前景。

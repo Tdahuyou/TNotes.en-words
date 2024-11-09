@@ -1,9 +1,12 @@
 - homestay
   - 发音
-    - 英 `/'həʊmsteɪ/`
-    - 美 `/'homste/`
+    - 英
+      - `/'həʊmsteɪ/`
+    - 美
+      - `/'homste/`
   - 词义
-    - n. 家庭寄宿
+    - n.
+      - 家庭寄宿
   - 例句
     - `Are you getting along well with your homestay family?`
       - 你和你的寄宿家庭相处的好吗？

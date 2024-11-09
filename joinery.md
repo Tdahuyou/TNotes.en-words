@@ -1,13 +1,17 @@
 - joinery
   - 发音
-    - 英 `/'dʒɒɪnərɪ/`
-    - 美 `/'dʒɔɪnəri/`
+    - 英
+      - `/'dʒɒɪnərɪ/`
+    - 美
+      - `/'dʒɔɪnəri/`
   - 词义
-    - n. 木工职业
-    - `the trade and work of a joiner`
+    - n.
+      - 木工职业
+        - `the trade and work of a joiner`
   - 同根词
     - n.
-      - `joiner` 接合者；工匠
+      - `joiner`
+        - 接合者；工匠
   - 例句
     - `It basically is from joinery board in release, also have in coating and paint a few.`
       - 它主要是从细木工板中释放出来的，涂料和油漆中也有少量。

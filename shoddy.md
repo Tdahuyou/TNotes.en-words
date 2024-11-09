@@ -1,25 +1,34 @@
 - shoddy
   - 发音
-    - 英 `/'ʃɒdɪ/`
-    - 美 `/'ʃɑdi/`
+    - 英
+      - `/'ʃɒdɪ/`
+    - 美
+      - `/'ʃɑdi/`
   - 词义
-    - n. 赝品；冒牌货；假装粗俗
-    - adj. 假冒的；劣质的；卑劣的
-    - `made or done cheaply or carelessly`
+    - n.
+      - 赝品；冒牌货；假装粗俗
+    - adj.
+      - 假冒的；劣质的；卑劣的
+        - `made or done cheaply or carelessly`
   - 同根词
     - adv.
-      - `shoddily` 质量很差地；粗制滥造地
+      - `shoddily`
+        - 质量很差地；粗制滥造地
     - n.
-      - `shoddiness` 劣质；粗制滥造
+      - `shoddiness`
+        - 劣质；粗制滥造
   - 近义词
-    - n. 赝品；冒牌货；假装粗俗
-      - `stumour`
-      - `counterfeit`
-    - adj. 假冒的；劣质的；卑劣的
-      - `bad`
-      - `tinpot`
+    - n.
+      - 赝品；冒牌货；假装粗俗
+        - `stumour`
+        - `counterfeit`
+    - adj.
+      - 假冒的；劣质的；卑劣的
+        - `bad`
+        - `tinpot`
   - 短语
-    - `shoddy goods` 次货；次品；劣等品 
+    - `shoddy goods`
+      - 次货；次品；劣等品 
   - 例句
     - `shoddy journalism`
       - 黑暗的新闻业

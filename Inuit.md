@@ -1,10 +1,13 @@
 - Inuit
   - 发音
-    - 英 `/undefined/`
-    - 美 `/'injuit/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/'injuit/`
   - 词义
-    - n. 因纽特人,因纽特语
-    - `The Inuit are the people descended from the original people of Alaska, Eastern Canada, and Greenland`
+    - n.
+      - 因纽特人,因纽特语
+        - `The Inuit are the people descended from the original people of Alaska, Eastern Canada, and Greenland`
   - 例句
     - `He pays heed to the observations of the Inuit.`
       - 他留意到因纽特人的观察结果。

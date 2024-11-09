@@ -1,19 +1,25 @@
 - stationery
   - 发音
-    - 英 `/'steɪʃ(ə)n(ə)rɪ/`
-    - 美 `/'steʃənɛri/`
+    - 英
+      - `/'steɪʃ(ə)n(ə)rɪ/`
+    - 美
+      - `/'steʃənɛri/`
   - 词义
-    - n. 文具；信纸
-    - `paper for writing letters, usually with matching envelopes`
+    - n.
+      - 文具；信纸
+        - `paper for writing letters, usually with matching envelopes`
   - 同根词
     - n.
-      - `stationer` 文具店；文具商
+      - `stationer`
+        - 文具店；文具商
   - 近义词
-    - n. [轻]文具；信纸
-      - `writing materials`
-      - `letter pad`
+    - n.
+      - [轻]文具；信纸
+        - `writing materials`
+        - `letter pad`
   - 短语
-    - `stationery factory` 文具厂 
+    - `stationery factory`
+      - 文具厂 
   - 例句
     - `a letter on hotel stationery`
       - 用酒店信纸写的信

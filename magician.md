@@ -1,20 +1,27 @@
 - magician
   - 发音
-    - 英 `/mə'dʒɪʃ(ə)n/`
-    - 美 `/mə'dʒɪʃən/`
+    - 英
+      - `/mə'dʒɪʃ(ə)n/`
+    - 美
+      - `/mə'dʒɪʃən/`
   - 词义
-    - n. 魔术师；术士
-    - `a man in stories who can use magic`
+    - n.
+      - 魔术师；术士
+        - `a man in stories who can use magic`
   - 同根词
     - adj.
-      - `magic` 不可思议的；有魔力的；魔术的
-      - `magical` 魔术的；有魔力的
+      - `magic`
+        - 不可思议的；有魔力的；魔术的
+      - `magical`
+        - 魔术的；有魔力的
     - n.
-      - `magic` 巫术；魔法；戏法
+      - `magic`
+        - 巫术；魔法；戏法
   - 近义词
-    - n. 魔术师，变戏法的人
-      - `conjuror`
-      - `sorcerer`
+    - n.
+      - 魔术师，变戏法的人
+        - `conjuror`
+        - `sorcerer`
   - 例句
     - `As a magician, his reputation spread all over the world.`
       - 作为一个魔术师，他的名声传播到了世界各地。

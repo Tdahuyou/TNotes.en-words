@@ -1,31 +1,41 @@
 - vulgar
   - 发音
-    - 英 `/'vʌlgər/`
-    - 美 `/'vʌlɡɚ/`
+    - 英
+      - `/'vʌlgər/`
+    - 美
+      - `/'vʌlɡɚ/`
   - 词义
-    - adj. 下流的，粗俗的；普通的，通俗的
-    - `remarks, jokes etc that are vulgar deal with sex in a very rude and offensive way`
+    - adj.
+      - 下流的，粗俗的；普通的，通俗的
+        - `remarks, jokes etc that are vulgar deal with sex in a very rude and offensive way`
   - 记忆
     - vulg(人们， 大众) + ar → 通俗的
   - 同根词
     - adv.
-      - `vulgarly` 通俗地；庸俗地；普通地
+      - `vulgarly`
+        - 通俗地；庸俗地；普通地
     - n.
-      - `vulgarity` 粗俗；粗俗语；粗野的动作
-      - `vulgarism` 粗俗语；粗鄙；下流话
-      - `vulgarization` 通俗化；粗俗化
+      - `vulgarity`
+        - 粗俗；粗俗语；粗野的动作
+      - `vulgarism`
+        - 粗俗语；粗鄙；下流话
+      - `vulgarization`
+        - 通俗化；粗俗化
     - vt.
-      - `vulgarize` 使通俗化；使庸俗化
+      - `vulgarize`
+        - 使通俗化；使庸俗化
   - 近义词
-    - adj. 粗俗的；通俗的；本土的
-      - `popular`
-      - `low`
-      - `mainland`
-      - `coarse`
-      - `informal`
-    - n. 平民，百姓
-      - `populace`
-      - `common man`
+    - adj.
+      - 粗俗的；通俗的；本土的
+        - `popular`
+        - `low`
+        - `mainland`
+        - `coarse`
+        - `informal`
+    - n.
+      - 平民，百姓
+        - `populace`
+        - `common man`
   - 例句
     - `vulgar behaviour`
       - 粗俗的行为

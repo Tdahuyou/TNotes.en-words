@@ -1,12 +1,16 @@
 - penance
   - 发音
-    - 英 `/'penəns/`
-    - 美 `/'pɛnəns/`
+    - 英
+      - `/'penəns/`
+    - 美
+      - `/'pɛnəns/`
   - 词义
-    - n. 自我惩罚
+    - n.
+      - 自我惩罚
   - 记忆
     - pen(惩罚) ＋ ance → 惩罚 → 自我惩罚
   - 近义词
-    - n. 苦修；忏悔
-      - `confession`
-      - `shrift`
+    - n.
+      - 苦修；忏悔
+        - `confession`
+        - `shrift`

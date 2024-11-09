@@ -1,31 +1,43 @@
 - expensive
   - 发音
-    - 英 `/ɪkˈspensɪv/`
-    - 美 `/ɪk'spɛnsɪv/`
+    - 英
+      - `/ɪkˈspensɪv/`
+    - 美
+      - `/ɪk'spɛnsɪv/`
   - 词义
-    - adj. 昂贵的
-    - `costing a lot of money`
+    - adj.
+      - 昂贵的
+        - `costing a lot of money`
   - 记忆
     - ex + pens(花费) + ive → 昂贵的
   - 同根词
     - adv.
-      - `expensively` 昂贵地；乱花钱地
+      - `expensively`
+        - 昂贵地；乱花钱地
     - n.
-      - `expense` 损失，代价；消费；开支
-      - `expensiveness` 高价，昂贵性
+      - `expense`
+        - 损失，代价；消费；开支
+      - `expensiveness`
+        - 高价，昂贵性
     - vi.
-      - `expense` 被花掉
+      - `expense`
+        - 被花掉
     - vt.
-      - `expense` 向…收取费用
+      - `expense`
+        - 向…收取费用
   - 近义词
-    - adj. 昂贵的；花钱的
-      - `rich`
-      - `dear`
-      - `costly`
+    - adj.
+      - 昂贵的；花钱的
+        - `rich`
+        - `dear`
+        - `costly`
   - 短语
-    - `less expensive` adj. 比较便宜的 
-    - `expensive thing` 昂贵的东西 
-    - `a bit expensive` 有点贵 
+    - `less expensive`
+      - adj. 比较便宜的 
+    - `expensive thing`
+      - 昂贵的东西 
+    - `a bit expensive`
+      - 有点贵 
   - 例句
     - `the most expensive restaurant in town`
       - 城里最贵的餐馆

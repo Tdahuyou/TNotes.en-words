@@ -1,24 +1,35 @@
 - tessellation
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 棋盘形嵌石饰
-    - `the act of tessellating `
+    - n.
+      - 棋盘形嵌石饰
+        - `the act of tessellating `
   - 同根词
     - adj.
-      - `tessellate` 镶嵌细工的；嵌成花纹的
-      - `tessellated` 镶嵌成棋盘花纹的；[动] 棋盘格形的；[植] 具方格斑纹的
+      - `tessellate`
+        - 镶嵌细工的；嵌成花纹的
+      - `tessellated`
+        - 镶嵌成棋盘花纹的；[动] 棋盘格形的；[植] 具方格斑纹的
     - n.
-      - `tessella` [建] 小块镶嵌大理石，镶嵌地砖；特塞拉
-      - `tessera` 镶嵌物；入场券；纪念品
+      - `tessella`
+        - [建] 小块镶嵌大理石，镶嵌地砖；特塞拉
+      - `tessera`
+        - 镶嵌物；入场券；纪念品
     - v.
-      - `tessellated` 用小块大理石铺路面；完全嵌合（动词tessellate的过去式和过去分词）
+      - `tessellated`
+        - 用小块大理石铺路面；完全嵌合（动词tessellate的过去式和过去分词）
     - vi.
-      - `tessellate` 完全嵌合
+      - `tessellate`
+        - 完全嵌合
     - vt.
-      - `tessellate` 把…镶装花纹
+      - `tessellate`
+        - 把…镶装花纹
   - 近义词
-    - n. 棋盘形布置；[建]棋盘花纹镶嵌；镶嵌式铺装；镶嵌细工；棋盘花纹
-      - `marquetry`
-      - `buhl`
+    - n.
+      - 棋盘形布置；[建]棋盘花纹镶嵌；镶嵌式铺装；镶嵌细工；棋盘花纹
+        - `marquetry`
+        - `buhl`

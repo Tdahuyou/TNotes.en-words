@@ -1,21 +1,28 @@
 - manicure
   - 发音
-    - 英 `/'mænɪkjʊə/`
-    - 美 `/'mænɪkjʊr/`
+    - 英
+      - `/'mænɪkjʊə/`
+    - 美
+      - `/'mænɪkjʊr/`
   - 词义
-    - v. 修剪，美甲
-    - n. 修指甲，美甲
-    - `a treatment for the hands that includes cutting and polishing the nails`
+    - v.
+      - 修剪，美甲
+    - n.
+      - 修指甲，美甲
+        - `a treatment for the hands that includes cutting and polishing the nails`
   - 同根词
     - n.
-      - `manicurist` 指甲修饰师
+      - `manicurist`
+        - 指甲修饰师
   - 近义词
-    - vt. 修剪
-      - `shear`
-      - `crop`
-      - `trim off`
+    - vt.
+      - 修剪
+        - `shear`
+        - `crop`
+        - `trim off`
   - 短语
-    - `manicure set` 美甲套装；修指甲具 
+    - `manicure set`
+      - 美甲套装；修指甲具 
   - 例句
     - `You might also like a massage, or shoes, or clothes, or a manicure or facial. I’m not that into those things, but you might be.`
       - 你也可以选择一次按摩、鞋子、衣服、或修一次指甲、做一次美容作为奖励，我不用这些奖励，但你可以用。

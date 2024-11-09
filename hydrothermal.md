@@ -1,17 +1,25 @@
 - hydrothermal
   - 发音
-    - 英 `/ˌhaɪdrə'θɜːml/`
-    - 美 `/,haɪdrə'θɝml/`
+    - 英
+      - `/ˌhaɪdrə'θɜːml/`
+    - 美
+      - `/,haɪdrə'θɝml/`
   - 词义
-    - adj. 热液的
+    - adj.
+      - 热液的
   - 记忆
     - hydro(水) + therm(热) + al → 热液的
   - 短语
-    - `hydrothermal solution` 热液溶解作用；热水溶液 
-    - `hydrothermal alteration` 热液蚀变；水热蚀变 
-    - `hydrothermal deposit` 热液矿床 
-    - `hydrothermal process` 热液酌；热液作用 
-    - `hydrothermal vent` 深海热泉；深海热液喷口 
+    - `hydrothermal solution`
+      - 热液溶解作用；热水溶液 
+    - `hydrothermal alteration`
+      - 热液蚀变；水热蚀变 
+    - `hydrothermal deposit`
+      - 热液矿床 
+    - `hydrothermal process`
+      - 热液酌；热液作用 
+    - `hydrothermal vent`
+      - 深海热泉；深海热液喷口 
   - 例句
     - `Banpo antimony deposit is a typical fracture - controlling and hydrothermal fluid filling deposit.`
       - 半坡锑矿床是典型的断裂控矿，热液充填型矿床。

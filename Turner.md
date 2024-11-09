@@ -1,15 +1,20 @@
 - Turner
   - 发音
-    - 英 `/'tɜːnə/`
-    - 美 `/'tɝnɚ/`
+    - 英
+      - `/'tɜːnə/`
+    - 美
+      - `/'tɝnɚ/`
   - 词义
-    - n. 特纳（姓氏）
+    - n.
+      - 特纳（姓氏）
   - 同根词
     - n.
-      - `turnery` 车工工艺；车削产品；车床工厂
+      - `turnery`
+        - 车工工艺；车削产品；车床工厂
   - 近义词
-    - n. [机]车工；体育协会会员
-      - `lathe-hand`
+    - n.
+      - [机]车工；体育协会会员
+        - `lathe-hand`
   - 例句
     - `Turner inherited the right to fish at this spot from his father.`
       - 特纳从父亲那里继承了在这个地点捕鱼的权利。

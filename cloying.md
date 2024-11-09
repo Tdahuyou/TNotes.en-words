@@ -1,13 +1,17 @@
 - cloying
   - 发音
-    - 英 `/undefined/`
-    - 美 `/'klɔɪɪŋ/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/'klɔɪɪŋ/`
   - 词义
-    - adj. 因过量而厌烦的,倒胃口的
+    - adj.
+      - 因过量而厌烦的,倒胃口的
   - 近义词
-    - adj. 厌烦的；倒胃口的；因过量而厌烦的
-      - `tired`
-      - `harassed`
+    - adj.
+      - 厌烦的；倒胃口的；因过量而厌烦的
+        - `tired`
+        - `harassed`
   - 例句
     - `cloying sentimentality`
       - 令人生厌的多愁善感

@@ -1,23 +1,32 @@
 - worse
   - 发音
-    - 英 `/wəːs/`
-    - 美 `/wɜrs/`
+    - 英
+      - `/wəːs/`
+    - 美
+      - `/wɜrs/`
   - 词义
-    - adj. 更糟的；更坏的
-    - `more unpleasant, bad, or severe`
-    - adv. 更糟；更严重
-    - `in a more severe or serious way than before`
+    - adj.
+      - 更糟的；更坏的
+        - `more unpleasant, bad, or severe`
+    - adv.
+      - 更糟；更严重
+        - `in a more severe or serious way than before`
   - 同根词
     - adj.
-      - `worsening` 日益恶化的
+      - `worsening`
+        - 日益恶化的
     - n.
-      - `worsening` 恶化；变坏
+      - `worsening`
+        - 恶化；变坏
     - v.
-      - `worsening` 恶化（worsen的ing形式）；使变得更坏
+      - `worsening`
+        - 恶化（worsen的ing形式）；使变得更坏
     - vi.
-      - `worsen` 恶化；变得更坏；更坏
+      - `worsen`
+        - 恶化；变得更坏；更坏
     - vt.
-      - `worsen` 使恶化；使变得更坏
+      - `worsen`
+        - 使恶化；使变得更坏
   - 例句
     - `The traffic is much worse after five o’clock.`
       - 5点以后交通拥堵严重得多。

@@ -1,19 +1,24 @@
 - coeval
   - 发音
-    - 英 `/kou'iːvl/`
-    - 美 `/ko'ivl/`
+    - 英
+      - `/kou'iːvl/`
+    - 美
+      - `/ko'ivl/`
   - 词义
-    - adj. 同时代的
-    - `of or belonging to the same age or generation `
+    - adj.
+      - 同时代的
+        - `of or belonging to the same age or generation `
   - 记忆
     - co(共同) + ev(时代) + al → 同时代的
   - 近义词
-    - adj. 同时代的
-      - `contemporary`
-      - `coetaneous`
-      - `cotemporaneous`
-    - n. 同时代的人
-      - `contemporary`
+    - adj.
+      - 同时代的
+        - `contemporary`
+        - `coetaneous`
+        - `cotemporaneous`
+    - n.
+      - 同时代的人
+        - `contemporary`
   - 例句
     - `The coeval of sushi afterwards and personage began to spread the creation form of "he tao shi".`
       - 苏轼同时代及其后的文人士子，开始对“和陶诗”这一创作形式加以推广。

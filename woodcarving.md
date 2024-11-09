@@ -1,17 +1,23 @@
 - woodcarving
   - 发音
-    - 英 `/'wʊdkɑːvɪŋ/`
-    - 美 `/'wʊd'kɑrvɪŋ/`
+    - 英
+      - `/'wʊdkɑːvɪŋ/`
+    - 美
+      - `/'wʊd'kɑrvɪŋ/`
   - 词义
-    - n. 木雕,木刻
-    - `the process of shaping wood with special tools, or a piece of art produced in this way`
+    - n.
+      - 木雕,木刻
+        - `the process of shaping wood with special tools, or a piece of art produced in this way`
   - 同根词
     - n.
-      - `woodcarver` 木雕家；木雕艺人
-      - `woodcut` 木刻；木刻印版；木版画
+      - `woodcarver`
+        - 木雕家；木雕艺人
+      - `woodcut`
+        - 木刻；木刻印版；木版画
   - 近义词
-    - n. 木刻，木雕
-      - `wood block`
+    - n.
+      - 木刻，木雕
+        - `wood block`
   - 例句
     - `Masi island is famous woodcarving centre.`
       - 玛斯是该岛著名的木雕中心。

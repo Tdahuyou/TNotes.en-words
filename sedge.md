@@ -1,13 +1,17 @@
 - sedge
   - 发音
-    - 英 `/sedʒ/`
-    - 美 `/sɛdʒ/`
+    - 英
+      - `/sedʒ/`
+    - 美
+      - `/sɛdʒ/`
   - 词义
-    - n. [植]莎草
-    - `a plant similar to grass that grows in wet ground and on the edge of rivers and lakes`
+    - n.
+      - [植]莎草
+        - `a plant similar to grass that grows in wet ground and on the edge of rivers and lakes`
   - 同根词
     - adj.
-      - `sedgy` 莎草的；莎草茂密的
+      - `sedgy`
+        - 莎草的；莎草茂密的
   - 例句
     - `Victims have ranged from the great auk and the lynx to the humble blue stag beetle and Davall's sedge.`
       - 受害者从大型海雀、猞猁到不值一提的蓝色鹿角虫和Davall's莎草。

@@ -1,21 +1,28 @@
 - countercurrent
   - 发音
-    - 英 `/'kaʊntə,kʌrənt/`
-    - 美 `/'kaʊntɚ,kɝənt/`
+    - 英
+      - `/'kaʊntə,kʌrənt/`
+    - 美
+      - `/'kaʊntɚ,kɝənt/`
   - 词义
-    - n. 逆流,反向电流
+    - n.
+      - 逆流,反向电流
   - 近义词
-    - n. 逆流；逆电流
-      - `reflux`
-      - `adverse current`
-    - adv. 相反地
-      - `contrary`
-      - `backward`
-      - `conversely`
-      - `inversely`
+    - n.
+      - 逆流；逆电流
+        - `reflux`
+        - `adverse current`
+    - adv.
+      - 相反地
+        - `contrary`
+        - `backward`
+        - `conversely`
+        - `inversely`
   - 短语
-    - `countercurrent extraction` 逆流萃取；反流提取；逆灵提；逆镣取 
-    - `countercurrent flow` 逆流；反流；对流 
+    - `countercurrent extraction`
+      - 逆流萃取；反流提取；逆灵提；逆镣取 
+    - `countercurrent flow`
+      - 逆流；反流；对流 
   - 例句
     - `The primary technology processes are many scales of countercurrent extraction, vacuum concentration, a drop purification and vacuum drying in low temperature.`
       - 工艺主要流程为茶汤预处理后的多级逆流萃取、真空浓缩、纯化沉析、低温真空干燥。

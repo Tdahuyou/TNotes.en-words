@@ -1,12 +1,16 @@
 - factorage
   - 发音
-    - 英 `/'fæktəridʒ/`
-    - 美 `/'fæktərɪdʒ/`
+    - 英
+      - `/'fæktəridʒ/`
+    - 美
+      - `/'fæktərɪdʒ/`
   - 词义
-    - n. 融资商佣金；代理商佣金
+    - n.
+      - 融资商佣金；代理商佣金
   - 记忆
     - fact(做) + or(说) + age(钱) → 通过说和做来赚钱 → 代理商佣金
   - 近义词
-    - n. [贸易]代理厂商；手续费
-      - `procedure fee`
-      - `handling fee`
+    - n.
+      - [贸易]代理厂商；手续费
+        - `procedure fee`
+        - `handling fee`

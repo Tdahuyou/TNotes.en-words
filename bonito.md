@@ -1,10 +1,13 @@
 - bonito
   - 发音
-    - 英 `/bə'niːtəʊ/`
-    - 美 `/bə'ni:təu/`
+    - 英
+      - `/bə'niːtəʊ/`
+    - 美
+      - `/bə'ni:təu/`
   - 词义
-    - n. 鲣
-    - `any of various small tunny-like marine food fishes of the genus Sarda, of warm Atlantic and Pacific waters: family Scombridae (tunnies and mackerels) `
+    - n.
+      - 鲣
+        - `any of various small tunny-like marine food fishes of the genus Sarda, of warm Atlantic and Pacific waters: family Scombridae (tunnies and mackerels) `
   - 例句
     - `Get ready to savor those bonito flakes.`
       - 准备好去体味那些鲣鱼薄片。

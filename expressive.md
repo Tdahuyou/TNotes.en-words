@@ -1,27 +1,41 @@
 - expressive
   - 发音
-    - 英 `/ɪk'spresɪv/`
-    - 美 `/ɪk'sprɛsɪv/`
+    - 英
+      - `/ɪk'spresɪv/`
+    - 美
+      - `/ɪk'sprɛsɪv/`
   - 词义
-    - adj. 有表现力的，富有表情的；表示…的，表现…的
-    - `If you describe a person or their behaviour as expressive, you mean that their behaviour clearly indicates their feelings or intentions`
+    - adj.
+      - 有表现力的，富有表情的；表示…的，表现…的
+        - `If you describe a person or their behaviour as expressive, you mean that their behaviour clearly indicates their feelings or intentions`
   - 同根词
     - adj.
-      - `express` 明确的；迅速的；专门的
-      - `expressionless` 无表情的；呆板的
-      - `expressible` 可表现的；可榨出的
+      - `express`
+        - 明确的；迅速的；专门的
+      - `expressionless`
+        - 无表情的；呆板的
+      - `expressible`
+        - 可表现的；可榨出的
     - adv.
-      - `expressively` 表现地；意味深长地；表示地
+      - `expressively`
+        - 表现地；意味深长地；表示地
     - n.
-      - `express` 快车，快递，专使；捷运公司
-      - `expression` 表达，表示；表情；表现力；措辞
-      - `expressionism` 表现主义
-      - `expressiveness` 善于表现；表情丰富
+      - `express`
+        - 快车，快递，专使；捷运公司
+      - `expression`
+        - 表达，表示；表情；表现力；措辞
+      - `expressionism`
+        - 表现主义
+      - `expressiveness`
+        - 善于表现；表情丰富
     - vt.
-      - `express` 表达；快递
+      - `express`
+        - 表达；快递
   - 短语
-    - `expressive force` 表现力 
-    - `expressive function` 表达功能；表现功能 
+    - `expressive force`
+      - 表现力 
+    - `expressive function`
+      - 表达功能；表现功能 
   - 例句
     - `You can train people to be more expressive.`
       - 你可以培训人们使其更富于表现力。

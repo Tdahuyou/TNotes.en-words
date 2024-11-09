@@ -1,28 +1,36 @@
 - initiate
   - 发音
-    - 英 `/ɪ'nɪʃɪeɪt/`
-    - 美 `/ɪ'nɪʃɪet/`
+    - 英
+      - `/ɪ'nɪʃɪeɪt/`
+    - 美
+      - `/ɪ'nɪʃɪet/`
   - 词义
-    - vt. 发起，开始，创始；接纳，让…加入
-    - `to arrange for something important to start, such as an official process or a new plan`
-    - n. 新加入组织的人
-    - `someone who has been allowed to join a particular organization, club, or group and has been taught its secrets`
+    - vt.
+      - 发起，开始，创始；接纳，让…加入
+        - `to arrange for something important to start, such as an official process or a new plan`
+    - n.
+      - 新加入组织的人
+        - `someone who has been allowed to join a particular organization, club, or group and has been taught its secrets`
   - 记忆
     - in(向内) + it(走) + iate → 向内走 → 发起， 开始
   - 同根词
     - n.
-      - `initiation` 启蒙，传授；开始；入会
-      - `initiator` 发起人，创始者；教导者；[计] 启动程序；引爆器
+      - `initiation`
+        - 启蒙，传授；开始；入会
+      - `initiator`
+        - 发起人，创始者；教导者；[计] 启动程序；引爆器
   - 近义词
-    - vt. 开始，创始；发起；使初步了解
-      - `institute`
-      - `start in`
-    - n. 开始；新加入者，接受初步知识者
-      - `beginning`
-      - `threshold`
-      - `opening`
-      - `conception`
-      - `fresh`
+    - vt.
+      - 开始，创始；发起；使初步了解
+        - `institute`
+        - `start in`
+    - n.
+      - 开始；新加入者，接受初步知识者
+        - `beginning`
+        - `threshold`
+        - `opening`
+        - `conception`
+        - `fresh`
   - 例句
     - `They have decided to initiate legal proceedings against the newspaper.`
       - 他们决定向该报提起法律诉讼。

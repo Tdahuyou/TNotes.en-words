@@ -1,23 +1,36 @@
 - fourteenth
   - 发音
-    - 英 `/'fɔː'tiːnθ/`
-    - 美 `/'fɔ:'ti:nθ/`
+    - 英
+      - `/'fɔː'tiːnθ/`
+    - 美
+      - `/'fɔ:'ti:nθ/`
   - 词义
-    - adj. 第十四的；第十四个的
-    - n. 第十四；月的第十四日；十四分之一
-    - num. 第十四
+    - adj.
+      - 第十四的；第十四个的
+    - n.
+      - 第十四；月的第十四日；十四分之一
+    - num.
+      - 第十四
   - 同根词
     - adj.
-      - `four` 四的；四个的
-      - `fourth` 第四的，第四个的；四分之一的
-      - `fourteen` 十四的
+      - `four`
+        - 四的；四个的
+      - `fourth`
+        - 第四的，第四个的；四分之一的
+      - `fourteen`
+        - 十四的
     - n.
-      - `fourth` 第四，月的第四日；四分之一
-      - `fourteen` 十四
+      - `fourth`
+        - 第四，月的第四日；四分之一
+      - `fourteen`
+        - 十四
     - num.
-      - `four` 四；四个
-      - `fourth` 第四
-      - `fourteen` 十四
+      - `four`
+        - 四；四个
+      - `fourth`
+        - 第四
+      - `fourteen`
+        - 十四
   - 例句
     - `These evolved, in the thirteenth and fourteenth centuries, into the miracle and mystery plays that combined singing and spoken dialogue.`
       - 这些表演在第十三世纪和第十四世纪演变成结合歌唱和对话的奇事剧和神秘剧。

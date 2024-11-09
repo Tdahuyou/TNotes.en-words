@@ -1,16 +1,22 @@
 - naught
   - 发音
-    - 英 `/nɔːt/`
-    - 美 `/nɔt/`
+    - 英
+      - `/nɔːt/`
+    - 美
+      - `/nɔt/`
   - 词义
-    - n. =naught无，零
+    - n.
+      - =naught无，零
   - 近义词
-    - n. [数]零；无价值
-      - `nothing`
-      - `nought`
-    - adj. 无价值的；无用的
-      - `useless`
-      - `unnecessary`
-      - `worthless`
+    - n.
+      - [数]零；无价值
+        - `nothing`
+        - `nought`
+    - adj.
+      - 无价值的；无用的
+        - `useless`
+        - `unnecessary`
+        - `worthless`
   - 短语
-    - `come to naught` 失败 
+    - `come to naught`
+      - 失败 

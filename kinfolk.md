@@ -1,14 +1,18 @@
 - kinfolk
   - 发音
-    - 英 `/'kɪnfəʊk/`
-    - 美 `/'kinfəuk,-fəuks/`
+    - 英
+      - `/'kɪnfəʊk/`
+    - 美
+      - `/'kinfəuk,-fəuks/`
   - 词义
-    - n. 亲属
-    - `Your kinfolk or kinsfolk are the people who are related to you`
+    - n.
+      - 亲属
+        - `Your kinfolk or kinsfolk are the people who are related to you`
   - 近义词
-    - n. 亲属
-      - `folk`
-      - `family`
+    - n.
+      - 亲属
+        - `folk`
+        - `family`
   - 例句
     - `I sent my other son to the country to stay with kinfolk.`
       - 我把另一个儿子送到乡下和亲戚住在一起。

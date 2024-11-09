@@ -1,35 +1,53 @@
 - divisional
   - 发音
-    - 英 `/dɪ'vɪʒənl/`
-    - 美 `/də'vɪʒənl/`
+    - 英
+      - `/dɪ'vɪʒənl/`
+    - 美
+      - `/də'vɪʒənl/`
   - 词义
-    - adj. 部门的
-    - `relating to one of the parts into which a large organization, group etc is divided`
+    - adj.
+      - 部门的
+        - `relating to one of the parts into which a large organization, group etc is divided`
   - 同根词
     - adj.
-      - `divided` 分裂的；分开的；有分歧的
-      - `divisive` 分裂的；区分的；造成不和的
-      - `divisible` 可分的；可分割的
-      - `dividing` 区分的；起划分作用的
-      - `dividable` 可分的
+      - `divided`
+        - 分裂的；分开的；有分歧的
+      - `divisive`
+        - 分裂的；区分的；造成不和的
+      - `divisible`
+        - 可分的；可分割的
+      - `dividing`
+        - 区分的；起划分作用的
+      - `dividable`
+        - 可分的
     - n.
-      - `division` [数] 除法；部门；分割；师（军队）；赛区
-      - `divide` [地理] 分水岭，分水线
-      - `divider` [计] 除法器；分隔物；圆规
-      - `divisibility` 可分性；[数] 可除性
+      - `division`
+        - [数] 除法；部门；分割；师（军队）；赛区
+      - `divide`
+        - [地理] 分水岭，分水线
+      - `divider`
+        - [计] 除法器；分隔物；圆规
+      - `divisibility`
+        - 可分性；[数] 可除性
     - v.
-      - `divided` 分开（divide的过去分词）；分离
-      - `dividing` 分开（divide的ing形式）
+      - `divided`
+        - 分开（divide的过去分词）；分离
+      - `dividing`
+        - 分开（divide的ing形式）
     - vi.
-      - `divide` 分开；意见分歧
+      - `divide`
+        - 分开；意见分歧
     - vt.
-      - `divide` 划分；除；分开；使产生分歧
+      - `divide`
+        - 划分；除；分开；使产生分歧
   - 近义词
-    - adj. 分区的；分割的
-      - `partitioned`
-      - `segmentary`
+    - adj.
+      - 分区的；分割的
+        - `partitioned`
+        - `segmentary`
   - 短语
-    - `divisional application` 分开申请，分案申请 
+    - `divisional application`
+      - 分开申请，分案申请 
   - 例句
     - `divisional headquarters`
       - 师指挥部

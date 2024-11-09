@@ -1,44 +1,68 @@
 - satisfaction
   - 发音
-    - 英 `/sætɪs'fækʃ(ə)n/`
-    - 美 `/,sætɪs'fækʃən/`
+    - 英
+      - `/sætɪs'fækʃ(ə)n/`
+    - 美
+      - `/,sætɪs'fækʃən/`
   - 词义
-    - n. 满意,满足,令人满意的事物
-    - `a feeling of happiness or pleasure because you have achieved something or got what you wanted`
+    - n.
+      - 满意,满足,令人满意的事物
+        - `a feeling of happiness or pleasure because you have achieved something or got what you wanted`
   - 同根词
     - adj.
-      - `satisfied` 感到满意的
-      - `satisfactory` 满意的；符合要求的；赎罪的
-      - `satisfying` 令人满意的；令人满足的
-      - `satisfiable` 可以满足的；可使满足的
+      - `satisfied`
+        - 感到满意的
+      - `satisfactory`
+        - 满意的；符合要求的；赎罪的
+      - `satisfying`
+        - 令人满意的；令人满足的
+      - `satisfiable`
+        - 可以满足的；可使满足的
     - adv.
-      - `satisfactorily` 令人满意地
-      - `satisfyingly` 使人满意地
+      - `satisfactorily`
+        - 令人满意地
+      - `satisfyingly`
+        - 使人满意地
     - n.
-      - `satiety` 满足，饱足；过多
-      - `satisfier` 致满足物；满意因子
-      - `satisfactoriness` 令人满意
+      - `satiety`
+        - 满足，饱足；过多
+      - `satisfier`
+        - 致满足物；满意因子
+      - `satisfactoriness`
+        - 令人满意
     - v.
-      - `satisfied` 使满意（satisfy的过去式）
+      - `satisfied`
+        - 使满意（satisfy的过去式）
     - vi.
-      - `satisfy` 令人满意；令人满足
+      - `satisfy`
+        - 令人满意；令人满足
     - vt.
-      - `satisfy` 满足；说服，使相信；使满意，使高兴
+      - `satisfy`
+        - 满足；说服，使相信；使满意，使高兴
   - 近义词
-    - n. 满意，满足；赔偿；乐事；赎罪
-      - `content`
-      - `fill`
-      - `satisfied with`
-      - `Lays`
+    - n.
+      - 满意，满足；赔偿；乐事；赎罪
+        - `content`
+        - `fill`
+        - `satisfied with`
+        - `Lays`
   - 短语
-    - `customer satisfaction` 客户满意度 
-    - `with satisfaction` 满意地 
-    - `job satisfaction` 工作满意 
-    - `to the satisfaction of` 使…满意 
-    - `degree of satisfaction` 满意度 
-    - `give satisfaction` v. 使满意；接受挑战 
-    - `constraint satisfaction` 受限制满足；约束补偿 
-    - `demand satisfaction` ◎要求赔偿 
+    - `customer satisfaction`
+      - 客户满意度 
+    - `with satisfaction`
+      - 满意地 
+    - `job satisfaction`
+      - 工作满意 
+    - `to the satisfaction of`
+      - 使…满意 
+    - `degree of satisfaction`
+      - 满意度 
+    - `give satisfaction`
+      - v. 使满意；接受挑战 
+    - `constraint satisfaction`
+      - 受限制满足；约束补偿 
+    - `demand satisfaction`
+      - ◎要求赔偿 
   - 例句
     - `She got great satisfaction from helping people to learn.`
       - 她在帮助人们学习的过程中得到很大的满足。

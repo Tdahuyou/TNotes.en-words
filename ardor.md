@@ -1,18 +1,22 @@
 - ardor
   - 发音
-    - 英 `/'ɑːdə(r)/`
-    - 美 `/'ɑrdɚ/`
+    - 英
+      - `/'ɑːdə(r)/`
+    - 美
+      - `/'ɑrdɚ/`
   - 词义
-    - n. 热情
+    - n.
+      - 热情
   - 记忆
     - ard (热) + or → 热情
   - 近义词
-    - n. 热情；狂热；灼热
-      - `passion`
-      - `flame`
-      - `fire`
-      - `warmth`
-      - `abandon`
+    - n.
+      - 热情；狂热；灼热
+        - `passion`
+        - `flame`
+        - `fire`
+        - `warmth`
+        - `abandon`
   - 例句
     - `The difficulty and failure both didn't cool his ardor.`
       - 困难和失败都没有降低他的热情。

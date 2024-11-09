@@ -1,19 +1,24 @@
 - acerbic
   - 发音
-    - 英 `/ə'səːbik/`
-    - 美 `/ə'sɝbɪk/`
+    - 英
+      - `/ə'səːbik/`
+    - 美
+      - `/ə'sɝbɪk/`
   - 词义
-    - adj. 酸的；尖刻的
-    - `criticizing someone or something in a clever but cruel way`
+    - adj.
+      - 酸的；尖刻的
+        - `criticizing someone or something in a clever but cruel way`
   - 记忆
     - acerb (看作acid， 尖酸) + ic (…的) → 酸的； 尖刻的
   - 同根词
     - adj.
-      - `acerb` 尖锐的；酸涩的；尖酸刻薄的
+      - `acerb`
+        - 尖锐的；酸涩的；尖酸刻薄的
   - 近义词
-    - adj. 尖刻的（等于acerb）；酸的；辛辣的
-      - `acid`
-      - `bitter`
+    - adj.
+      - 尖刻的（等于acerb）；酸的；辛辣的
+        - `acid`
+        - `bitter`
   - 例句
     - `acerbic wit`
       - 尖刻的俏皮话

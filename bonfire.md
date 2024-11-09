@@ -1,14 +1,18 @@
 - bonfire
   - 发音
-    - 英 `/'bɒnfaɪə/`
-    - 美 `/'bɑnfaɪɚ/`
+    - 英
+      - `/'bɒnfaɪə/`
+    - 美
+      - `/'bɑnfaɪɚ/`
   - 词义
-    - n. 篝火；营火
-    - `a large outdoor fire, either for burning waste or for a party`
+    - n.
+      - 篝火；营火
+        - `a large outdoor fire, either for burning waste or for a party`
   - 近义词
-    - n. 篝火；营火
-      - `camp-fire`
-      - `needfire`
+    - n.
+      - 篝火；营火
+        - `camp-fire`
+        - `needfire`
   - 例句
     - `The bonfire blazed away for hours.`
       - 营火继续燃烧了几个钟头

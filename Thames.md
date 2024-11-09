@@ -1,12 +1,17 @@
 - Thames
   - 发音
-    - 英 `/temz/`
-    - 美 `/undefined/`
+    - 英
+      - `/temz/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 泰晤士河(流经牛津,伦敦等)
+    - n.
+      - 泰晤士河(流经牛津,伦敦等)
   - 短语
-    - `river thames` 泰晤士河（英国一河流） 
-    - `thames river` n. 泰晤士河 
+    - `river thames`
+      - 泰晤士河（英国一河流） 
+    - `thames river`
+      - n. 泰晤士河 
   - 例句
     - `Many bridges span the Thames.`
       - 很多桥横亘在泰晤士河上。

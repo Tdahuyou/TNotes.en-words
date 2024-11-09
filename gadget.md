@@ -1,18 +1,24 @@
 - gadget
   - 发音
-    - 英 `/'gædʒɪt/`
-    - 美 `/'gædʒɪt/`
+    - 英
+      - `/'gædʒɪt/`
+    - 美
+      - `/'gædʒɪt/`
   - 词义
-    - n. 小玩意；小器具；小配件；诡计
-    - `A gadget is a small machine or device which does something useful. You sometimes refer to something as a gadget when you are suggesting that it is complicated and unnecessary. `
+    - n.
+      - 小玩意；小器具；小配件；诡计
+        - `A gadget is a small machine or device which does something useful. You sometimes refer to something as a gadget when you are suggesting that it is complicated and unnecessary. `
   - 同根词
     - n.
-      - `gadgetry` 小配件；小玩意；小机件
-      - `gadgeteer` 爱设计小玩意的人
+      - `gadgetry`
+        - 小配件；小玩意；小机件
+      - `gadgeteer`
+        - 爱设计小玩意的人
   - 近义词
-    - n. 小玩意；小器具；小配件；诡计
-      - `scheme`
-      - `fraud`
+    - n.
+      - 小玩意；小器具；小配件；诡计
+        - `scheme`
+        - `fraud`
   - 例句
     - `...sales of kitchen gadgets including toasters, kettles, and percolators.`
       - …厨房小用品的销售，包括烤面包机、水壶和咖啡渗滤壶。

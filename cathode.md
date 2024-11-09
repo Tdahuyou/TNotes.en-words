@@ -1,27 +1,39 @@
 - cathode
   - 发音
-    - 英 `/'kæθəud/`
-    - 美 `/'kæθod/`
+    - 英
+      - `/'kæθəud/`
+    - 美
+      - `/'kæθod/`
   - 词义
-    - n. 阴极
-    - `the negative  electrode  , marked (-), from which an electric current leaves a piece of equipment such as a  battery `
+    - n.
+      - 阴极
+        - `the negative  electrode  , marked (-), from which an electric current leaves a piece of equipment such as a  battery `
   - 记忆
     - 阴 (cathode) 阳 〔anode (n. 阳极， 正极)〕 两级八卦图
   - 同根词
     - adj.
-      - `cathodic` 阴极的；负极的
+      - `cathodic`
+        - 阴极的；负极的
   - 近义词
-    - n. [电子][电]阴极
-      - `kathode`
-      - `negative pole`
+    - n.
+      - [电子][电]阴极
+        - `kathode`
+        - `negative pole`
   - 短语
-    - `cathode ray` 阴极射线 
-    - `cold cathode` [电]冷阴极 
-    - `cathode copper` [冶金]阴极铜；电解铜 
-    - `cathode ray tube` 阴极射线管 
-    - `hollow cathode` 中空阴极，空心阴极 
-    - `cathode current` 阴极电流 
-    - `copper cathode` 电解铜，阴极铜 
+    - `cathode ray`
+      - 阴极射线 
+    - `cold cathode`
+      - [电]冷阴极 
+    - `cathode copper`
+      - [冶金]阴极铜；电解铜 
+    - `cathode ray tube`
+      - 阴极射线管 
+    - `hollow cathode`
+      - 中空阴极，空心阴极 
+    - `cathode current`
+      - 阴极电流 
+    - `copper cathode`
+      - 电解铜，阴极铜 
   - 例句
     - `And if I evacuate it, I have a cathode ray tube.`
       - 如果我对其抽真空，我会得到一根阴极射线管。

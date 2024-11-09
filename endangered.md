@@ -1,14 +1,19 @@
 - endangered
   - 发音
-    - 英 `/ɪn'deɪndʒərd/`
-    - 美 `/ɪn'dendʒɚd/`
+    - 英
+      - `/ɪn'deɪndʒərd/`
+    - 美
+      - `/ɪn'dendʒɚd/`
   - 词义
-    - adj. 濒危的，将要灭绝的
+    - adj.
+      - 濒危的，将要灭绝的
   - 同根词
     - n.
-      - `endangerment` 危害，受到危害
+      - `endangerment`
+        - 危害，受到危害
     - vt.
-      - `endanger` 危及；使遭到危险
+      - `endanger`
+        - 危及；使遭到危险
   - 例句
     - `I think there are many endangered animals in the world, such as tigers and pandas.`
       - 我认为有许多濒临灭绝的动物，如老虎和大熊猫，在世界。

@@ -1,24 +1,32 @@
 - seclusion
   - 发音
-    - 英 `/sɪ'kluːʒn/`
-    - 美 `/sɪ'klʊʒən/`
+    - 英
+      - `/sɪ'kluːʒn/`
+    - 美
+      - `/sɪ'klʊʒən/`
   - 词义
-    - n. 独处，隐居；隔离；与世隔绝，归隐
-    - `the state of being private and away from other people`
+    - n.
+      - 独处，隐居；隔离；与世隔绝，归隐
+        - `the state of being private and away from other people`
   - 同根词
     - adj.
-      - `secluded` 隐蔽的；隐退的，隐居的
+      - `secluded`
+        - 隐蔽的；隐退的，隐居的
     - n.
-      - `secrecy` 保密；秘密；隐蔽
+      - `secrecy`
+        - 保密；秘密；隐蔽
     - v.
-      - `secluded` 隔绝（seclude的过去式）
+      - `secluded`
+        - 隔绝（seclude的过去式）
     - vt.
-      - `seclude` 使隔离，使隔绝
+      - `seclude`
+        - 使隔离，使隔绝
   - 近义词
-    - n. 隔离；隐退；隐蔽的地方
-      - `insulation`
-      - `isolation`
-      - `segregation`
+    - n.
+      - 隔离；隐退；隐蔽的地方
+        - `insulation`
+        - `isolation`
+        - `segregation`
   - 例句
     - `They enjoyed ten days of peace and seclusion.`
       - 他们享受了十天与世隔绝的宁静生活。

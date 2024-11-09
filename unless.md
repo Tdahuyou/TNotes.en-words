@@ -1,17 +1,22 @@
 - unless
   - 发音
-    - 英 `/ʌn'les/`
-    - 美 `/ən'lɛs/`
+    - 英
+      - `/ʌn'les/`
+    - 美
+      - `/ən'lɛs/`
   - 词义
-    - conj. 如果不,除非
-    - `used to say that something will happen or be true if something else does not happen or is not true`
+    - conj.
+      - 如果不,除非
+        - `used to say that something will happen or be true if something else does not happen or is not true`
   - 近义词
-    - prep. 除…之外
-      - `besides`
-      - `except as`
-      - `in addition to`
+    - prep.
+      - 除…之外
+        - `besides`
+        - `except as`
+        - `in addition to`
   - 短语
-    - `unless and until` 直到…才 
+    - `unless and until`
+      - 直到…才 
   - 例句
     - `Unless some extra money is found, the theatre will close.`
       - 要是不能找到更多资金，剧院将要关闭。

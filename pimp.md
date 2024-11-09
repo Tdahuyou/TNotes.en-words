@@ -1,16 +1,21 @@
 - pimp
   - 发音
-    - 英 `/pimp/`
-    - 美 `/pɪmp/`
+    - 英
+      - `/pimp/`
+    - 美
+      - `/pɪmp/`
   - 词义
-    - n. 俚皮条客；男妓
-    - `a man who makes money by controlling  prostitute s `
+    - n.
+      - 俚皮条客；男妓
+        - `a man who makes money by controlling  prostitute s `
   - 近义词
-    - n. 皮条客；男妓
-      - `ponce`
-      - `sweetback`
-    - vi. 拉皮条
-      - `pander`
+    - n.
+      - 皮条客；男妓
+        - `ponce`
+        - `sweetback`
+    - vi.
+      - 拉皮条
+        - `pander`
   - 例句
     - `When you read the testimony and examine the data, legalisation seems more of a present to a pimp and a trafficker than the courage and pragmatism of an enlightened society.`
       - 当你阅读证词和检视数据时，你会发现与一个开明社会的勇气和实用主义相比，卖淫合法化更像是给予皮条客和贩子的一份礼物。

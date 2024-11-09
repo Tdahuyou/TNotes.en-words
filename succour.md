@@ -1,20 +1,27 @@
 - succour
   - 发音
-    - 英 `/undefined/`
-    - 美 `/'sʌkɚ/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/'sʌkɚ/`
   - 词义
-    - n. 救援物品
-    - `help and sympathy that is given to someone`
-    - v. 救助
-    - `to give help and sympathy to someone`
+    - n.
+      - 救援物品
+        - `help and sympathy that is given to someone`
+    - v.
+      - 救助
+        - `to give help and sympathy to someone`
   - 同根词
     - n.
-      - `succor` 救援；援助者
+      - `succor`
+        - 救援；援助者
     - vt.
-      - `succor` 救援；援助
+      - `succor`
+        - 救援；援助
   - 近义词
-    - vt. 救助
-      - `save.`
+    - vt.
+      - 救助
+        - `save.`
   - 例句
     - `They give succour to the victims of war.`
       - 他们向战争受害者提供援助。

@@ -1,13 +1,17 @@
 - dulcimer
   - 发音
-    - 英 `/'dʌlsɪmə/`
-    - 美 `/'dʌlsɪmɚ/`
+    - 英
+      - `/'dʌlsɪmə/`
+    - 美
+      - `/'dʌlsɪmɚ/`
   - 词义
-    - n. [乐]洋琴
-    - `a musical instrument with up to 100 strings, played with light hammers`
+    - n.
+      - [乐]洋琴
+        - `a musical instrument with up to 100 strings, played with light hammers`
   - 近义词
-    - n. 洋琴
-      - `cymbalo`
+    - n.
+      - 洋琴
+        - `cymbalo`
   - 例句
     - `The ancestry of the piano can be traced to the early keyboard instruments of the fifteenth and sixteenth centuries -- the spinet, the dulcimer, and the virginal.`
       - 钢琴的家系可以追溯至15至16世纪早期的键盘乐器，包括小型拨弦琴、洋琴和维金娜琴。

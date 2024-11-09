@@ -1,14 +1,19 @@
 - fertilized
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - adj. 已受精的
+    - adj.
+      - 已受精的
   - 记忆
     - 来自fertilize(v. 使受精)
   - 短语
-    - `fertilized egg` 受精卵，孕卵 
-    - `fertilized ovum` [医]受精卵 
+    - `fertilized egg`
+      - 受精卵，孕卵 
+    - `fertilized ovum`
+      - [医]受精卵 
   - 例句
     - `This made no sense. All the eggs are fertilized already.`
       - 这可说不通，因为所有的卵都已经受精了。

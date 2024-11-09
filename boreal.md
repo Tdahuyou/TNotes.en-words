@@ -1,15 +1,20 @@
 - boreal
   - 发音
-    - 英 `/'bourɪəl/`
-    - 美 `/'borɪəl/`
+    - 英
+      - `/'bourɪəl/`
+    - 美
+      - `/'borɪəl/`
   - 词义
-    - adj. 北方的，北风的
-    - `of or relating to the north or the north wind `
+    - adj.
+      - 北方的，北风的
+        - `of or relating to the north or the north wind `
   - 近义词
-    - adj. 北的，北方的；北风的
-      - `Northern`
+    - adj.
+      - 北的，北方的；北风的
+        - `Northern`
   - 短语
-    - `boreal forest` 北方森林 
+    - `boreal forest`
+      - 北方森林 
   - 例句
     - `The boreal forest is transcontinental.`
       - 北方森林是横贯大陆的。

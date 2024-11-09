@@ -1,20 +1,26 @@
 - throughout
   - 发音
-    - 英 `/θruː'aʊt/`
-    - 美 `/θrʊ'aʊt/`
+    - 英
+      - `/θruː'aʊt/`
+    - 美
+      - `/θrʊ'aʊt/`
   - 词义
-    - prep. 遍及,贯穿
-    - `in every part of a particular area, place etc`
-    - adv. 始终
-    - `Throughout is also an adverb`
+    - prep.
+      - 遍及,贯穿
+        - `in every part of a particular area, place etc`
+    - adv.
+      - 始终
+        - `Throughout is also an adverb`
   - 近义词
-    - adv. 自始至终，到处；全部
-      - `everywhere`
-      - `around`
-      - `wholly`
-      - `about`
-    - prep. 贯穿，遍及
-      - `over all`
+    - adv.
+      - 自始至终，到处；全部
+        - `everywhere`
+        - `around`
+        - `wholly`
+        - `about`
+    - prep.
+      - 贯穿，遍及
+        - `over all`
   - 例句
     - `a large organization with offices throughout the world`
       - 在世界各地都设有办事处的一家大型机构

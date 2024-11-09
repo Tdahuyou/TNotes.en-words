@@ -1,13 +1,17 @@
 - vortices
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 旋涡；（指水或风形成的）涡流(vortex的名词复数)
+    - n.
+      - 旋涡；（指水或风形成的）涡流(vortex的名词复数)
   - 近义词
-    - n. [流]旋涡（vortice的复数形式）
-      - `swirls`
-      - `eddies`
+    - n.
+      - [流]旋涡（vortice的复数形式）
+        - `swirls`
+        - `eddies`
   - 例句
     - `These swirls of light, called optical vortices, could have implications for future laser devices, the physicists said.`
       - 这些光线的漩涡，称为光学旋涡，可能对未来的激光装置产生影响，物理学家说。

@@ -1,27 +1,37 @@
 - vagabond
   - 发音
-    - 英 `/'vægəbɔnd/`
-    - 美 `/'væɡəbɑnd/`
+    - 英
+      - `/'vægəbɔnd/`
+    - 美
+      - `/'væɡəbɑnd/`
   - 词义
-    - adj. 流浪的；漂泊的
-    - n. 流浪者
-    - `someone who has no home and travels from place to place`
+    - adj.
+      - 流浪的；漂泊的
+    - n.
+      - 流浪者
+        - `someone who has no home and travels from place to place`
   - 记忆
     - vag (走) + a + bond (音似： 邦德) → 邦德走天下， 是个流浪者 → 流浪者
   - 同根词
     - adj.
-      - `vagrant` 流浪的；漂泊的；游荡的
+      - `vagrant`
+        - 流浪的；漂泊的；游荡的
     - n.
-      - `vagrant` 游民；流浪者；无赖；漂泊者
-      - `vagrancy` 流浪；漂泊；思想游移不定
-      - `vagabondage` 流浪；流浪者；流浪生活
+      - `vagrant`
+        - 游民；流浪者；无赖；漂泊者
+      - `vagrancy`
+        - 流浪；漂泊；思想游移不定
+      - `vagabondage`
+        - 流浪；流浪者；流浪生活
   - 近义词
-    - adj. 流浪的；流浪者的；浪荡的；漂泊的
-      - `ragamuffinly`
-      - `wandering`
-    - n. 流浪者；浪子；流氓；懒汉
-      - `soldier`
-      - `Nads`
+    - adj.
+      - 流浪的；流浪者的；浪荡的；漂泊的
+        - `ragamuffinly`
+        - `wandering`
+    - n.
+      - 流浪者；浪子；流氓；懒汉
+        - `soldier`
+        - `Nads`
   - 例句
     - `You know my vagabond and restless habits.`
       - 你知道我的这种流浪汉习惯，我是闲不住的。

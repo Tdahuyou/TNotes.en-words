@@ -1,29 +1,41 @@
 - assuredness
   - 发音
-    - 英 `/ə'ʃurdnəs/`
-    - 美 `/undefined/`
+    - 英
+      - `/ə'ʃurdnəs/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 确定；自信
+    - n.
+      - 确定；自信
   - 记忆
     - 来自assure(v. 使确信)
   - 同根词
     - adj.
-      - `assured` 确定的；自信的
-      - `assuring` 保证的；确信的；使人有信心的
+      - `assured`
+        - 确定的；自信的
+      - `assuring`
+        - 保证的；确信的；使人有信心的
     - adv.
-      - `assuredly` 确实地；确信地
+      - `assuredly`
+        - 确实地；确信地
     - n.
-      - `assurance` 保证；保险；确信；断言
-      - `assured` 被保险人
+      - `assurance`
+        - 保证；保险；确信；断言
+      - `assured`
+        - 被保险人
     - v.
-      - `assured` 保证；确实（assure的过去分词）
-      - `assuring` 确信（assure的ing形式）
+      - `assured`
+        - 保证；确实（assure的过去分词）
+      - `assuring`
+        - 确信（assure的ing形式）
     - vt.
-      - `assure` 保证；担保；使确信；弄清楚
+      - `assure`
+        - 保证；担保；使确信；弄清楚
   - 近义词
-    - n. 确实；自信；确信；厚颜
-      - `certainty`
-      - `very like a whale`
+    - n.
+      - 确实；自信；确信；厚颜
+        - `certainty`
+        - `very like a whale`
   - 例句
     - `Say it with assuredness.`
       - 自信地说出来。

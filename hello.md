@@ -1,19 +1,27 @@
 - hello
   - 发音
-    - 英 `/həˈləʊ/`
-    - 美 `/helˈō/`
+    - 英
+      - `/həˈləʊ/`
+    - 美
+      - `/helˈō/`
   - 词义
-    - int. 你好，喂
-    - `used as a greeting when you see or meet someone`
+    - int.
+      - 你好，喂
+        - `used as a greeting when you see or meet someone`
   - 近义词
-    - int. 喂；哈罗
-      - `hallo`
-      - `holloo`
+    - int.
+      - 喂；哈罗
+        - `hallo`
+        - `holloo`
   - 短语
-    - `say hello` 打招呼；问好 
-    - `hello everyone` 大家好 
-    - `hello and welcome` 欢迎莅临 
-    - `hello again` 回魂妻（电影名称） 
+    - `say hello`
+      - 打招呼；问好 
+    - `hello everyone`
+      - 大家好 
+    - `hello and welcome`
+      - 欢迎莅临 
+    - `hello again`
+      - 回魂妻（电影名称） 
   - 例句
     - `Hello, John! How are you?`
       - 喂，约翰！你好吗？

@@ -1,22 +1,29 @@
 - adhere
   - 发音
-    - 英 `/əd'hɪr/`
-    - 美 `/əd'hɪr/`
+    - 英
+      - `/əd'hɪr/`
+    - 美
+      - `/əd'hɪr/`
   - 词义
-    - vi. 黏附，附着；坚持；遵守
-    - `to stick firmly to something`
+    - vi.
+      - 黏附，附着；坚持；遵守
+        - `to stick firmly to something`
   - 记忆
     - ad(表加强) + her(黏附) + e → 黏附； 坚持
   - 同根词
     - adj.
-      - `adherent` 附着的；粘着的
+      - `adherent`
+        - 附着的；粘着的
     - n.
-      - `adherence` 坚持；依附；忠诚
-      - `adherent` 信徒；追随者
+      - `adherence`
+        - 坚持；依附；忠诚
+      - `adherent`
+        - 信徒；追随者
   - 近义词
-    - vi. 坚持；依附；粘着；追随
-      - `stay`
-      - `stand on`
+    - vi.
+      - 坚持；依附；粘着；追随
+        - `stay`
+        - `stand on`
   - 例句
     - `All members of the association adhere to a strict code of practice.`
       - 所有该协会的成员都遵守严格的业务守则。

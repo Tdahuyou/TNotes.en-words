@@ -1,24 +1,33 @@
 - aimless
   - 发音
-    - 英 `/'eɪmlɪs/`
-    - 美 `/'emləs/`
+    - 英
+      - `/'eɪmlɪs/`
+    - 美
+      - `/'emləs/`
   - 词义
-    - adj. 没有目标的；无目的的
-    - `not having a clear purpose or reason`
+    - adj.
+      - 没有目标的；无目的的
+        - `not having a clear purpose or reason`
   - 同根词
     - adv.
-      - `aimlessly` 漫无目的地，无目标地
+      - `aimlessly`
+        - 漫无目的地，无目标地
     - n.
-      - `aim` 目的；目标；对准
-      - `aimlessness` 无目的，盲目性
+      - `aim`
+        - 目的；目标；对准
+      - `aimlessness`
+        - 无目的，盲目性
     - vi.
-      - `aim` 打算；对准目标
+      - `aim`
+        - 打算；对准目标
     - vt.
-      - `aim` 目的在于；引导；把…对准
+      - `aim`
+        - 目的在于；引导；把…对准
   - 近义词
-    - adj. 没有目标的；无目的的
-      - `meaningless`
-      - `directionless`
+    - adj.
+      - 没有目标的；无目的的
+        - `meaningless`
+        - `directionless`
   - 例句
     - `a young man drifting through life in an aimless way`
       - 一个浑浑噩噩度日的年轻人

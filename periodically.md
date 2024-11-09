@@ -1,19 +1,29 @@
 - periodically
   - 发音
-    - 英 `/,pɪərɪ'ɒdɪkəlɪ/`
-    - 美 `/pɪrɪˈɑdɪklɪ/`
+    - 英
+      - `/,pɪərɪ'ɒdɪkəlɪ/`
+    - 美
+      - `/pɪrɪˈɑdɪklɪ/`
   - 词义
-    - adv. 偶然地，定期地
+    - adv.
+      - 偶然地，定期地
   - 同根词
     - adj.
-      - `period` 某一时代的
-      - `periodical` [数] 周期的；定期的
-      - `periodic` 周期的；定期的
+      - `period`
+        - 某一时代的
+      - `periodical`
+        - [数] 周期的；定期的
+      - `periodic`
+        - 周期的；定期的
     - n.
-      - `period` 周期，期间；时期；月经；课时
-      - `periodical` 期刊；杂志
-      - `periodicity` [数] 周期性；频率；定期性
+      - `period`
+        - 周期，期间；时期；月经；课时
+      - `periodical`
+        - 期刊；杂志
+      - `periodicity`
+        - [数] 周期性；频率；定期性
   - 近义词
-    - adv. 定期地；周期性地；偶尔；间歇
-      - `regularly`
-      - `termly`
+    - adv.
+      - 定期地；周期性地；偶尔；间歇
+        - `regularly`
+        - `termly`

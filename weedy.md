@@ -1,27 +1,38 @@
 - weedy
   - 发音
-    - 英 `/'wiːdɪ/`
-    - 美 `/'widi/`
+    - 英
+      - `/'wiːdɪ/`
+    - 美
+      - `/'widi/`
   - 词义
-    - adj. 杂草多的
-    - `full of unwanted wild plants`
+    - adj.
+      - 杂草多的
+        - `full of unwanted wild plants`
   - 同根词
     - adj.
-      - `weeded` 铲除了野草的
-      - `weedless` 没有杂草的
+      - `weeded`
+        - 铲除了野草的
+      - `weedless`
+        - 没有杂草的
     - n.
-      - `weed` 杂草，野草；菸草
-      - `weeder` 除草者；除草机
+      - `weed`
+        - 杂草，野草；菸草
+      - `weeder`
+        - 除草者；除草机
     - v.
-      - `weeded` 铲除野草（weed的过去式）
+      - `weeded`
+        - 铲除野草（weed的过去式）
     - vi.
-      - `weed` 除草
+      - `weed`
+        - 除草
     - vt.
-      - `weed` 除草；铲除
+      - `weed`
+        - 除草；铲除
   - 近义词
-    - adj. 瘦弱的；似杂草的；尽是杂草的
-      - `scraggy`
-      - `emaciated`
+    - adj.
+      - 瘦弱的；似杂草的；尽是杂草的
+        - `scraggy`
+        - `emaciated`
   - 例句
     - `We pulled into the weedy parking lot.`
       - 我们开进了杂草丛生的停车场。

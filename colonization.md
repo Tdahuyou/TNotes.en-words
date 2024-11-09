@@ -1,31 +1,46 @@
 - colonization
   - 发音
-    - 英 `/ˌkɑːlənə'zeɪʃn/`
-    - 美 `/,kɑlənɪ'zeʃən/`
+    - 英
+      - `/ˌkɑːlənə'zeɪʃn/`
+    - 美
+      - `/,kɑlənɪ'zeʃən/`
   - 词义
-    - n. 殖民地化
+    - n.
+      - 殖民地化
   - 记忆
     - 来自colonize(v. 殖民化， 殖民地化)
   - 同根词
     - adj.
-      - `colonial` 殖民地的，殖民的
-      - `colonist` 殖民主义者的；奉行殖民主义的
-      - `colonialist` 殖民主义者的
+      - `colonial`
+        - 殖民地的，殖民的
+      - `colonist`
+        - 殖民主义者的；奉行殖民主义的
+      - `colonialist`
+        - 殖民主义者的
     - n.
-      - `colony` 殖民地；移民队
-      - `colonial` 殖民地居民
-      - `colonist` 殖民者；殖民地居民；移民
-      - `colonialism` 殖民主义；殖民政策
-      - `colonialist` 殖民主义者
-      - `colonizer` 殖民者；殖民地开拓者；移入选民；移民
+      - `colony`
+        - 殖民地；移民队
+      - `colonial`
+        - 殖民地居民
+      - `colonist`
+        - 殖民者；殖民地居民；移民
+      - `colonialism`
+        - 殖民主义；殖民政策
+      - `colonialist`
+        - 殖民主义者
+      - `colonizer`
+        - 殖民者；殖民地开拓者；移入选民；移民
     - vi.
-      - `colonize` 开拓殖民地；移居于殖民地
+      - `colonize`
+        - 开拓殖民地；移居于殖民地
     - vt.
-      - `colonize` 将…开拓为殖民地；移于殖民地；从他地非法把选民移入
+      - `colonize`
+        - 将…开拓为殖民地；移于殖民地；从他地非法把选民移入
   - 近义词
-    - n. 殖民；殖民地化
-      - `settlement`
-      - `plantation`
+    - n.
+      - 殖民；殖民地化
+        - `settlement`
+        - `plantation`
   - 例句
     - `What is the process of colonization?`
       - 殖民地化的过程又是怎样？

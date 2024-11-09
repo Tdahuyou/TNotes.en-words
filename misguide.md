@@ -1,19 +1,25 @@
 - misguide
   - 发音
-    - 英 `/mɪs'gaɪd/`
-    - 美 `/mɪs'gaɪd/`
+    - 英
+      - `/mɪs'gaɪd/`
+    - 美
+      - `/mɪs'gaɪd/`
   - 词义
-    - v. 误导
-    - `to guide or direct wrongly or badly`
+    - v.
+      - 误导
+        - `to guide or direct wrongly or badly`
   - 同根词
     - adj.
-      - `misguided` 被误导的
+      - `misguided`
+        - 被误导的
     - v.
-      - `misguided` 使入歧途（misguide的过去分词）
+      - `misguided`
+        - 使入歧途（misguide的过去分词）
   - 近义词
-    - vt. 误导；使误入歧途
-      - `mislead`
-      - `misdirect`
+    - vt.
+      - 误导；使误入歧途
+        - `mislead`
+        - `misdirect`
   - 例句
     - `In addition, they will also misguide the innocent, which becomes a vicious circle.`
       - 此外，他们将误导那些思想单纯的人，这将导致一个恶心循环。

@@ -1,18 +1,23 @@
 - tenable
   - 发音
-    - 英 `/'tenəbl/`
-    - 美 `/undefined/`
+    - 英
+      - `/'tenəbl/`
+    - 美
+      - `/undefined/`
   - 词义
-    - adj. 守得住的，可防守的；站得住脚的；有条理的
-    - `a belief, argument etc that is tenable is reasonable and can be defended successfully`
+    - adj.
+      - 守得住的，可防守的；站得住脚的；有条理的
+        - `a belief, argument etc that is tenable is reasonable and can be defended successfully`
   - 记忆
     - ten (拿住) + able → 能够拿住的 → 站得住脚的
   - 同根词
     - n.
-      - `tenability` 可防守；站得住脚
+      - `tenability`
+        - 可防守；站得住脚
   - 近义词
-    - adj. （主张等）站得住脚的；可维持的
-      - `maintainable`
+    - adj.
+      - （主张等）站得住脚的；可维持的
+        - `maintainable`
   - 例句
     - `an idea which is no longer tenable`
       - 不再成立的观点

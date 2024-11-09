@@ -1,24 +1,32 @@
 - oneness
   - 发音
-    - 英 `/'wʌnnɪs/`
-    - 美 `/'wʌnnəs/`
+    - 英
+      - `/'wʌnnɪs/`
+    - 美
+      - `/'wʌnnəs/`
   - 词义
-    - n. 单一,统一
-    - `a peaceful feeling of being part of a whole`
+    - n.
+      - 单一,统一
+        - `a peaceful feeling of being part of a whole`
   - 同根词
     - adj.
-      - `one` 一的；唯一的
+      - `one`
+        - 一的；唯一的
     - n.
-      - `one` 一
+      - `one`
+        - 一
     - num.
-      - `one` 一；一个
+      - `one`
+        - 一；一个
     - pron.
-      - `one` 一个人；任何人
+      - `one`
+        - 一个人；任何人
   - 近义词
-    - n. 统一性；单一性；同一性；完整
-      - `integrity`
-      - `identity`
-      - `full`
+    - n.
+      - 统一性；单一性；同一性；完整
+        - `integrity`
+        - `identity`
+        - `full`
   - 例句
     - `Instead of trying to disidentify from the ego, we need to embrace the ego while merging it with a sense of oneness.`
       - 不要试图从 自我作出错误的识别，我们需要在把 自我 与“ 单一性 ”的观念相合并的同时，要去包容 自我 。

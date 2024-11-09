@@ -1,24 +1,32 @@
 - absurd
   - 发音
-    - 英 `/əb'sɜːrd/`
-    - 美 `/əbˈsɝ​d/`
+    - 英
+      - `/əb'sɜːrd/`
+    - 美
+      - `/əbˈsɝ​d/`
   - 词义
-    - adj. 可笑的，荒唐的
-    - `completely stupid or unreasonable`
+    - adj.
+      - 可笑的，荒唐的
+        - `completely stupid or unreasonable`
   - 记忆
     - ab + surd(无道理的) → 不合理的 → 可笑的， 荒唐的
   - 同根词
     - adv.
-      - `absurdly` 荒谬地；愚蠢地；悖理地
+      - `absurdly`
+        - 荒谬地；愚蠢地；悖理地
     - n.
-      - `absurdity` 荒谬；谬论；荒谬的言行
-      - `absurdness` 荒谬；愚蠢；不合理
+      - `absurdity`
+        - 荒谬；谬论；荒谬的言行
+      - `absurdness`
+        - 荒谬；愚蠢；不合理
   - 近义词
-    - adj. 荒谬的；可笑的
-      - `ridiculous`
-      - `preposterous`
+    - adj.
+      - 荒谬的；可笑的
+        - `ridiculous`
+        - `preposterous`
   - 短语
-    - `theatre of the absurd` 荒谬剧场；荒诞派戏剧 
+    - `theatre of the absurd`
+      - 荒谬剧场；荒诞派戏剧 
   - 例句
     - `It seems an absurd idea.`
       - 这似乎是个荒唐的想法。

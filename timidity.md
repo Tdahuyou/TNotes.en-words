@@ -1,23 +1,33 @@
 - timidity
   - 发音
-    - 英 `/tɪ'mɪdətɪ/`
-    - 美 `/tɪ'mɪdəti/`
+    - 英
+      - `/tɪ'mɪdətɪ/`
+    - 美
+      - `/tɪ'mɪdəti/`
   - 词义
-    - n. 胆怯
+    - n.
+      - 胆怯
   - 同根词
     - adj.
-      - `timid` 胆小的；羞怯的
-      - `timorous` 胆怯的；胆小的；羞怯的
+      - `timid`
+        - 胆小的；羞怯的
+      - `timorous`
+        - 胆怯的；胆小的；羞怯的
     - adv.
-      - `timidly` 羞怯地；胆小地
-      - `timorously` 羞怯地；容易受惊地
+      - `timidly`
+        - 羞怯地；胆小地
+      - `timorously`
+        - 羞怯地；容易受惊地
     - n.
-      - `timidness` 羞怯；胆小
-      - `timorousness` 胆怯；容易受惊
-  - 近义词
-    - n. 胆怯，胆小；羞怯
-      - `cowardliness`
+      - `timidness`
+        - 羞怯；胆小
       - `timorousness`
+        - 胆怯；容易受惊
+  - 近义词
+    - n.
+      - 胆怯，胆小；羞怯
+        - `cowardliness`
+        - `timorousness`
   - 例句
     - `They mocked at my timidity.`
       - 他们耻笑我胆小。

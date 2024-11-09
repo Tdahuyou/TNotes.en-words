@@ -1,12 +1,16 @@
 - Pakistani
   - 发音
-    - 英 `/,pæki'stæni/`
-    - 美 `/,pæki'stæni/`
+    - 英
+      - `/,pæki'stæni/`
+    - 美
+      - `/,pæki'stæni/`
   - 词义
-    - adj. 巴基斯坦（人）的
-    - `relating to Pakistan or its people`
-    - n. 巴基斯坦人
-    - `someone from Pakistan`
+    - adj.
+      - 巴基斯坦（人）的
+        - `relating to Pakistan or its people`
+    - n.
+      - 巴基斯坦人
+        - `someone from Pakistan`
   - 例句
     - `We will stand by our friends on the front lines, as we and many nations will do in pledging support for the Pakistani people tomorrow.`
       - 我们将与我们的朋友共同站在第一线，正如明天我们和许多国家将要做的那样，保证为巴基斯坦人民提供援助。

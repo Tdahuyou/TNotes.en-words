@@ -1,18 +1,24 @@
 - estuary
   - 发音
-    - 英 `/'estjʊ(ə)rɪ/`
-    - 美 `/'ɛstʃʊ'ɛri/`
+    - 英
+      - `/'estjʊ(ə)rɪ/`
+    - 美
+      - `/'ɛstʃʊ'ɛri/`
   - 词义
-    - n. 河口,江口
-    - `the wide part of a river where it goes into the sea`
+    - n.
+      - 河口,江口
+        - `the wide part of a river where it goes into the sea`
   - 同根词
     - adj.
-      - `estuarine` 江口的，河口的
-      - `estuarial` 港湾的
+      - `estuarine`
+        - 江口的，河口的
+      - `estuarial`
+        - 港湾的
   - 近义词
-    - n. [地理][水文]河口；江口
-      - `kuala`
-      - `river mouth`
+    - n.
+      - [地理][水文]河口；江口
+        - `kuala`
+        - `river mouth`
   - 例句
     - `the Thames estuary`
       - 泰晤士河河口

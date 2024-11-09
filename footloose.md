@@ -1,14 +1,18 @@
 - footloose
   - 发音
-    - 英 `/'fʊtluːs/`
-    - 美 `/undefined/`
+    - 英
+      - `/'fʊtluːs/`
+    - 美
+      - `/undefined/`
   - 词义
-    - adj. 自由自在的，不受束缚的
-    - `free to do exactly what you want because you have no responsibilities, for example when you are not married or do not have children`
+    - adj.
+      - 自由自在的，不受束缚的
+        - `free to do exactly what you want because you have no responsibilities, for example when you are not married or do not have children`
   - 近义词
-    - adj. 自由自在的，不受束缚的
-      - `untrammeled`
-      - `unrestricted`
+    - adj.
+      - 自由自在的，不受束缚的
+        - `untrammeled`
+        - `unrestricted`
   - 例句
     - `footloose students traveling around Europe`
       - 在欧洲旅游、自由自在的学生

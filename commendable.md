@@ -1,21 +1,28 @@
 - commendable
   - 发音
-    - 英 `/kə'mendəb(ə)l/`
-    - 美 `/kə'mɛndəbl/`
+    - 英
+      - `/kə'mendəb(ə)l/`
+    - 美
+      - `/kə'mɛndəbl/`
   - 词义
-    - adj. 值得表扬的
-    - `deserving praise`
+    - adj.
+      - 值得表扬的
+        - `deserving praise`
   - 同根词
     - n.
-      - `commendation` 推荐；赞扬；奖状
+      - `commendation`
+        - 推荐；赞扬；奖状
     - vi.
-      - `commend` 称赞；表扬
+      - `commend`
+        - 称赞；表扬
     - vt.
-      - `commend` 推荐；称赞；把…委托
+      - `commend`
+        - 推荐；称赞；把…委托
   - 近义词
-    - adj. 值得赞美的；很好的；可推荐的
-      - `recommendable`
-      - `all-right`
+    - adj.
+      - 值得赞美的；很好的；可推荐的
+        - `recommendable`
+        - `all-right`
   - 例句
     - `Your enthusiasm is highly commendable .`
       - 你的热情非常值得嘉许。

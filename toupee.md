@@ -1,14 +1,18 @@
 - toupee
   - 发音
-    - 英 `/'tuːpeɪ/`
-    - 美 `/tu'pe/`
+    - 英
+      - `/'tuːpeɪ/`
+    - 美
+      - `/tu'pe/`
   - 词义
-    - n. 男子假发
-    - `A toupee is a piece of artificial hair worn by a man to cover a patch on his head where he has lost his hair`
+    - n.
+      - 男子假发
+        - `A toupee is a piece of artificial hair worn by a man to cover a patch on his head where he has lost his hair`
   - 近义词
-    - n. 假发；男子假发
-      - `hairpiece`
-      - `wiggery`
+    - n.
+      - 假发；男子假发
+        - `hairpiece`
+        - `wiggery`
   - 例句
     - `How much did you spend on that bad toupee?`
       - 你在那个劣质的假发上花了多少钱？

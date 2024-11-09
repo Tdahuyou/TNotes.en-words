@@ -1,14 +1,19 @@
 - enfeeble
   - 发音
-    - 英 `/ɪn'fiːb(ə)l; en-/`
-    - 美 `/undefined/`
+    - 英
+      - `/ɪn'fiːb(ə)l; en-/`
+    - 美
+      - `/undefined/`
   - 词义
-    - v. 使衰弱；使无力
-    - `to make weak; deprive of strength `
+    - v.
+      - 使衰弱；使无力
+        - `to make weak; deprive of strength `
   - 同根词
     - n.
-      - `enfeeblement` 使衰弱；弄弱
+      - `enfeeblement`
+        - 使衰弱；弄弱
   - 近义词
-    - vt. 使衰弱；使无力
-      - `debilitate`
-      - `devitalize`
+    - vt.
+      - 使衰弱；使无力
+        - `debilitate`
+        - `devitalize`

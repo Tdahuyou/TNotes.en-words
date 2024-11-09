@@ -1,16 +1,22 @@
 - chlorate
   - 发音
-    - 英 `/'klɔːreɪt/`
-    - 美 `/'klorɪt/`
+    - 英
+      - `/'klɔːreɪt/`
+    - 美
+      - `/'klorɪt/`
   - 词义
-    - n. [化]氯酸盐
-    - `any salt of chloric acid, containing the monovalent ion ClO3`
+    - n.
+      - [化]氯酸盐
+        - `any salt of chloric acid, containing the monovalent ion ClO3`
   - 同根词
     - n.
-      - `chlorite` [矿物] 绿泥石；[无化] 亚氯酸盐
+      - `chlorite`
+        - [矿物] 绿泥石；[无化] 亚氯酸盐
   - 短语
-    - `sodium chlorate` [化]氯酸钠 
-    - `potassium chlorate` n. [化]氯酸钾 
+    - `sodium chlorate`
+      - [化]氯酸钠 
+    - `potassium chlorate`
+      - n. [化]氯酸钾 
   - 例句
     - `Electricity is the main material for chlorate production.`
       - 电是生产氯酸盐的主要原料。

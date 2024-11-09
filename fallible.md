@@ -1,25 +1,34 @@
 - fallible
   - 发音
-    - 英 `/'fæləbl/`
-    - 美 `/'fæləbl/`
+    - 英
+      - `/'fæləbl/`
+    - 美
+      - `/'fæləbl/`
   - 词义
-    - adj. 易错的，可能犯错的
-    - `able to make mistakes or be wrong`
+    - adj.
+      - 易错的，可能犯错的
+        - `able to make mistakes or be wrong`
   - 记忆
     - fall (错误) + ible → 易错的
   - 同根词
     - adj.
-      - `false` 错误的；虚伪的；伪造的
+      - `false`
+        - 错误的；虚伪的；伪造的
     - adv.
-      - `false` 欺诈地
-      - `falsely` 错误地；虚伪地；不实地
+      - `false`
+        - 欺诈地
+      - `falsely`
+        - 错误地；虚伪地；不实地
     - n.
-      - `falsehood` 说谎；假话；不真实；错误的信仰
-      - `fallibility` 易误；不可靠；出错性
+      - `falsehood`
+        - 说谎；假话；不真实；错误的信仰
+      - `fallibility`
+        - 易误；不可靠；出错性
   - 近义词
-    - adj. 易犯错误的；不可靠的
-      - `unreliable`
-      - `irresponsible`
+    - adj.
+      - 易犯错误的；不可靠的
+        - `unreliable`
+        - `irresponsible`
   - 例句
     - `Humans are fallible.`
       - 人孰无过。

@@ -1,27 +1,37 @@
 - glossy
   - 发音
-    - 英 `/'glɑːsi/`
-    - 美 `/'ɡlɑsi/`
+    - 英
+      - `/'glɑːsi/`
+    - 美
+      - `/'ɡlɑsi/`
   - 词义
-    - adj. 光滑的；光彩夺目的；浮华的
-    - `shiny and smooth`
+    - adj.
+      - 光滑的；光彩夺目的；浮华的
+        - `shiny and smooth`
   - 记忆
     - 来自gloss(n. 光泽， 光亮)
   - 同根词
     - adv.
-      - `glossily` 光滑地
+      - `glossily`
+        - 光滑地
     - n.
-      - `gloss` 光彩；注释；假象
-      - `glossiness` [光] 光泽度；有光泽
+      - `gloss`
+        - 光彩；注释；假象
+      - `glossiness`
+        - [光] 光泽度；有光泽
     - vt.
-      - `gloss` 使光彩；掩盖；注释
+      - `gloss`
+        - 使光彩；掩盖；注释
   - 近义词
-    - adj. 光滑的；有光泽的
-      - `smooth`
-      - `glabrous`
+    - adj.
+      - 光滑的；有光泽的
+        - `smooth`
+        - `glabrous`
   - 短语
-    - `glossy surface` 光泽面；光亮表面 
-    - `glossy paper` 釉纸；光泽纸；光面纸 
+    - `glossy surface`
+      - 光泽面；光亮表面 
+    - `glossy paper`
+      - 釉纸；光泽纸；光面纸 
   - 例句
     - `her glossy black hair`
       - 她那亮泽的黑发

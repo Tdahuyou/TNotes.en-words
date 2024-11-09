@@ -1,39 +1,57 @@
 - lovely
   - 发音
-    - 英 `/'lʌvlɪ/`
-    - 美 `/'lʌvli/`
+    - 英
+      - `/'lʌvlɪ/`
+    - 美
+      - `/'lʌvli/`
   - 词义
-    - adj. 令人愉快的；可爱的
-    - `beautiful or attractive`
+    - adj.
+      - 令人愉快的；可爱的
+        - `beautiful or attractive`
   - 同根词
     - adj.
-      - `loving` 亲爱的；钟情的；忠诚的
-      - `lovable` 可爱的，讨人喜欢的
-      - `loved` 恋爱的；受珍爱的
-      - `loveless` 不可爱的；无爱情的
-      - `loveable` 可爱的；惹人爱的（等于lovable）
+      - `loving`
+        - 亲爱的；钟情的；忠诚的
+      - `lovable`
+        - 可爱的，讨人喜欢的
+      - `loved`
+        - 恋爱的；受珍爱的
+      - `loveless`
+        - 不可爱的；无爱情的
+      - `loveable`
+        - 可爱的；惹人爱的（等于lovable）
     - adv.
-      - `lovingly` 亲切地；钟爱地
+      - `lovingly`
+        - 亲切地；钟爱地
     - n.
-      - `love` 恋爱；亲爱的；酷爱；喜爱的事物
-      - `lover` 爱人，恋人；爱好者
-      - `loveliness` 可爱；漂亮；魅力；美好
-      - `lovingness` 钟情；爱；忠诚
+      - `love`
+        - 恋爱；亲爱的；酷爱；喜爱的事物
+      - `lover`
+        - 爱人，恋人；爱好者
+      - `loveliness`
+        - 可爱；漂亮；魅力；美好
+      - `lovingness`
+        - 钟情；爱；忠诚
     - v.
-      - `loved` 热爱（love的过去分词）
+      - `loved`
+        - 热爱（love的过去分词）
     - vi.
-      - `love` 爱
+      - `love`
+        - 爱
     - vt.
-      - `love` 喜欢；热爱；爱慕
+      - `love`
+        - 喜欢；热爱；爱慕
   - 近义词
-    - adj. 可爱的；令人愉快的
-      - `pleasant`
-      - `pretty`
-      - `taking`
-      - `grateful`
-      - `cute`
+    - adj.
+      - 可爱的；令人愉快的
+        - `pleasant`
+        - `pretty`
+        - `taking`
+        - `grateful`
+        - `cute`
   - 短语
-    - `lovely girl` 可爱的姑娘 
+    - `lovely girl`
+      - 可爱的姑娘 
   - 例句
     - `She had a lovely face.`
       - 她有一张漂亮的脸蛋。

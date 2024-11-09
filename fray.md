@@ -1,21 +1,27 @@
 - fray
   - 发音
-    - 英 `/freɪ/`
-    - 美 `/fre/`
+    - 英
+      - `/freɪ/`
+    - 美
+      - `/fre/`
   - 词义
-    - vi. 磨损，磨破；烦躁，恼火
-    - `if cloth or other material frays, or if something frays it, the threads become loose because the material is old`
-    - n. 争斗
-    - `an argument or fight`
+    - vi.
+      - 磨损，磨破；烦躁，恼火
+        - `if cloth or other material frays, or if something frays it, the threads become loose because the material is old`
+    - n.
+      - 争斗
+        - `an argument or fight`
   - 记忆
     - f + ray(光线) → 时光催人老 → 磨损， 磨破
   - 近义词
-    - n. 争论；打架；磨损处
-      - `controversy`
-      - `combat`
-      - `fight`
-    - vt. 使磨损；变得令人紧张、急躁
-      - `scuff`
+    - n.
+      - 争论；打架；磨损处
+        - `controversy`
+        - `combat`
+        - `fight`
+    - vt.
+      - 使磨损；变得令人紧张、急躁
+        - `scuff`
   - 例句
     - `The collar had started to fray on Ed’s coat.`
       - 埃德外套的领子开始出现了磨损。

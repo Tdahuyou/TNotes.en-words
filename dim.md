@@ -1,46 +1,63 @@
 - dim
   - 发音
-    - 英 `/dɪm/`
-    - 美 `/dɪm/`
+    - 英
+      - `/dɪm/`
+    - 美
+      - `/dɪm/`
   - 词义
-    - adj. 模糊的；暗淡的；朦胧的；不乐观的
-    - `fairly dark or not giving much light, so that you cannot see well`
-    - v. 变暗淡；变冷漠
-    - `if a light dims, or if you dim it, it becomes less bright`
+    - adj.
+      - 模糊的；暗淡的；朦胧的；不乐观的
+        - `fairly dark or not giving much light, so that you cannot see well`
+    - v.
+      - 变暗淡；变冷漠
+        - `if a light dims, or if you dim it, it becomes less bright`
   - 同根词
     - adj.
-      - `dimmed` 无效的；暗灰色的
+      - `dimmed`
+        - 无效的；暗灰色的
     - adv.
-      - `dimly` 朦胧地；微暗
+      - `dimly`
+        - 朦胧地；微暗
     - n.
-      - `dimmer` [车辆] 调光器；光暗掣；衰减器
-      - `dimness` 微暗；不清楚；混沌
+      - `dimmer`
+        - [车辆] 调光器；光暗掣；衰减器
+      - `dimness`
+        - 微暗；不清楚；混沌
     - v.
-      - `dimmed` 使暗淡；变模糊（dim的过去式）
+      - `dimmed`
+        - 使暗淡；变模糊（dim的过去式）
     - vi.
-      - `diminish` 减少，缩小；变小
+      - `diminish`
+        - 减少，缩小；变小
     - vt.
-      - `diminish` 使减少；使变小
+      - `diminish`
+        - 使减少；使变小
   - 近义词
-    - adj. 暗淡的，昏暗的；模糊的，看不清的；悲观的，怀疑的
-      - `fuzzy`
-      - `dark`
-      - `dirty`
-      - `lowering`
-    - vt. 使暗淡，使失去光泽；使变模糊
-      - `breathe upon`
-    - vi. 变模糊，变暗淡
-      - `fog`
-      - `mist`
-    - n. 笨蛋，傻子
-      - `simple`
-      - `turkey`
-      - `put`
-      - `idiot`
-      - `stupid`
+    - adj.
+      - 暗淡的，昏暗的；模糊的，看不清的；悲观的，怀疑的
+        - `fuzzy`
+        - `dark`
+        - `dirty`
+        - `lowering`
+    - vt.
+      - 使暗淡，使失去光泽；使变模糊
+        - `breathe upon`
+    - vi.
+      - 变模糊，变暗淡
+        - `fog`
+        - `mist`
+    - n.
+      - 笨蛋，傻子
+        - `simple`
+        - `turkey`
+        - `put`
+        - `idiot`
+        - `stupid`
   - 短语
-    - `dim sum` （汉）点心 
-    - `dim light` 微光；弱光；暗光灯 
+    - `dim sum`
+      - （汉）点心 
+    - `dim light`
+      - 微光；弱光；暗光灯 
   - 例句
     - `in the dim light of the early dawn`
       - 在微弱的晨曦里

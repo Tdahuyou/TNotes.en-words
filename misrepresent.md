@@ -1,19 +1,24 @@
 - misrepresent
   - 发音
-    - 英 `/ˌmisrepri'zent/`
-    - 美 `/,mɪs,rɛprɪ'zɛnt/`
+    - 英
+      - `/ˌmisrepri'zent/`
+    - 美
+      - `/,mɪs,rɛprɪ'zɛnt/`
   - 词义
-    - v. 误传
-    - `to deliberately give a wrong description of someone’s opinions or of a situation`
+    - v.
+      - 误传
+        - `to deliberately give a wrong description of someone’s opinions or of a situation`
   - 记忆
     - mis (错误) + represent (表示) → 表示得错误了 → 误传
   - 同根词
     - n.
-      - `misrepresentation` 歪曲；误传
+      - `misrepresentation`
+        - 歪曲；误传
   - 近义词
-    - vt. 歪曲，误传；不合适地代表
-      - `colour`
-      - `misinform`
+    - vt.
+      - 歪曲，误传；不合适地代表
+        - `colour`
+        - `misinform`
   - 例句
     - `These statistics grossly misrepresent the reality.`
       - 这些统计资料严重歪曲了实际情况。

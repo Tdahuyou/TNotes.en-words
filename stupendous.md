@@ -1,22 +1,27 @@
 - stupendous
   - 发音
-    - 英 `/stjuː'pendəs/`
-    - 美 `/stu'pɛndəs/`
+    - 英
+      - `/stjuː'pendəs/`
+    - 美
+      - `/stu'pɛndəs/`
   - 词义
-    - adj. 惊人的；巨大的
-    - `surprisingly large or impressive`
+    - adj.
+      - 惊人的；巨大的
+        - `surprisingly large or impressive`
   - 记忆
     - stu + pend (花费) + ous (多…的) → 花费很多的 → 巨大的
   - 同根词
     - adv.
-      - `stupendously` 巨大地；惊人地
+      - `stupendously`
+        - 巨大地；惊人地
   - 近义词
-    - adj. 惊人的；巨大的
-      - `tremendous`
-      - `huge`
-      - `enormous`
-      - `massive`
-      - `macro`
+    - adj.
+      - 惊人的；巨大的
+        - `tremendous`
+        - `huge`
+        - `enormous`
+        - `massive`
+        - `macro`
   - 例句
     - `a stupendous achievement`
       - 了不起的成就

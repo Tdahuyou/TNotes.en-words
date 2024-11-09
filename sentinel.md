@@ -1,26 +1,36 @@
 - sentinel
   - 发音
-    - 英 `/'sentɪn(ə)l/`
-    - 美 `/'sɛntɪnl/`
+    - 英
+      - `/'sentɪn(ə)l/`
+    - 美
+      - `/'sɛntɪnl/`
   - 词义
-    - n. 哨兵
-    - `a sentry`
-    - vt. 守卫，放哨
+    - n.
+      - 哨兵
+        - `a sentry`
+    - vt.
+      - 守卫，放哨
   - 同根词
     - n.
-      - `sentry` 哨兵；岗哨
+      - `sentry`
+        - 哨兵；岗哨
     - vi.
-      - `sentry` 放哨
+      - `sentry`
+        - 放哨
     - vt.
-      - `sentry` 设岗哨
+      - `sentry`
+        - 设岗哨
   - 近义词
-    - n. 哨兵
-      - `piquet`
-      - `watcher`
-    - vt. 守卫，放哨
-      - `keep watch`
+    - n.
+      - 哨兵
+        - `piquet`
+        - `watcher`
+    - vt.
+      - 守卫，放哨
+        - `keep watch`
   - 短语
-    - `stand sentinel` 站岗，放哨，守卫 
+    - `stand sentinel`
+      - 站岗，放哨，守卫 
   - 例句
     - `She said it is important to remember that in villages, there will always be an increasing number of sentinel birds between vaccination campaigns as chicks are constantly hatching.`
       - 她说，在农村，在接种疫苗的战役之间总是存在数量不断增长的"哨兵"禽类，因为小鸡会不断地孵化出来。 意识到这一点是很重要的。

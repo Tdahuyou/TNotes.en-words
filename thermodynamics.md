@@ -1,20 +1,30 @@
 - thermodynamics
   - 发音
-    - 英 `/,θɜːmə(ʊ)daɪ'næmɪks/`
-    - 美 `/,θɝmodaɪ'næmɪks/`
+    - 英
+      - `/,θɜːmə(ʊ)daɪ'næmɪks/`
+    - 美
+      - `/,θɝmodaɪ'næmɪks/`
   - 词义
-    - n. 热力学
-    - `the science that deals with the relationship between heat and other forms of energy`
+    - n.
+      - 热力学
+        - `the science that deals with the relationship between heat and other forms of energy`
   - 同根词
     - adj.
-      - `thermodynamic` 热力学的；使用热动力的
+      - `thermodynamic`
+        - 热力学的；使用热动力的
   - 短语
-    - `second law of thermodynamics` 热力学第二定律 
-    - `chemical thermodynamics` 化学热力学 
-    - `engineering thermodynamics` 工程热力学 
-    - `first law of thermodynamics` [物]热力学第一定律 
-    - `irreversible thermodynamics` 不可逆过程热力学 
-    - `thermodynamics and statistical physics` 热力学与统计物理 
+    - `second law of thermodynamics`
+      - 热力学第二定律 
+    - `chemical thermodynamics`
+      - 化学热力学 
+    - `engineering thermodynamics`
+      - 工程热力学 
+    - `first law of thermodynamics`
+      - [物]热力学第一定律 
+    - `irreversible thermodynamics`
+      - 不可逆过程热力学 
+    - `thermodynamics and statistical physics`
+      - 热力学与统计物理 
   - 例句
     - `But we know thermodynamics is all about equilibrium.`
       - 但我们知道热力学都是关于平衡的。

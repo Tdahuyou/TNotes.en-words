@@ -1,10 +1,13 @@
 - handstand
   - 发音
-    - 英 `/'hæn(d)stænd/`
-    - 美 `/'hændstænd/`
+    - 英
+      - `/'hæn(d)stænd/`
+    - 美
+      - `/'hændstænd/`
   - 词义
-    - n. 手倒立
-    - `a movement in which you put your hands on the ground and your legs in the air`
+    - n.
+      - 手倒立
+        - `a movement in which you put your hands on the ground and your legs in the air`
   - 例句
     - `When I was just about nine or ten years old, I could hold a headstand for five minutes, and I could kick up against the wall and go into a handstand.`
       - 在九岁左右，我就能够头触地倒立五分钟，还能够借助墙壁完全用手倒立。

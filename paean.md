@@ -1,10 +1,13 @@
 - paean
   - 发音
-    - 英 `/'piːən/`
-    - 美 `/'piən/`
+    - 英
+      - `/'piːən/`
+    - 美
+      - `/'piən/`
   - 词义
-    - n. 赞美歌，颂歌
-    - `a happy song of praise, thanks, or victory`
+    - n.
+      - 赞美歌，颂歌
+        - `a happy song of praise, thanks, or victory`
   - 记忆
     - hymn(n. 赞美歌)
   - 例句

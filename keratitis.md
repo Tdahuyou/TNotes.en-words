@@ -1,13 +1,17 @@
 - keratitis
   - 发音
-    - 英 `/,kerə'taɪtɪs/`
-    - 美 `/,kɛrə'taɪtɪs/`
+    - 英
+      - `/,kerə'taɪtɪs/`
+    - 美
+      - `/,kɛrə'taɪtɪs/`
   - 词义
-    - n. [眼科]角膜炎
-    - `inflammation of the cornea `
+    - n.
+      - [眼科]角膜炎
+        - `inflammation of the cornea `
   - 同根词
     - n.
-      - `keratoplasty` 角膜移植术；[眼科] 角膜成形术
+      - `keratoplasty`
+        - 角膜移植术；[眼科] 角膜成形术
   - 例句
     - `Infection of the cornea (keratitis).`
       - 角膜感染（角膜炎）。

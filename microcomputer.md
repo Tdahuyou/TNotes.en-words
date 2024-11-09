@@ -1,17 +1,24 @@
 - microcomputer
   - 发音
-    - 英 `/'maɪkrə(ʊ)kɒm,pjuːtə/`
-    - 美 `/'maɪkrokəm'pjʊtɚ/`
+    - 英
+      - `/'maɪkrə(ʊ)kɒm,pjuːtə/`
+    - 美
+      - `/'maɪkrokəm'pjʊtɚ/`
   - 词义
-    - n. 微电脑；[计]微型计算机
-    - `a small computer`
+    - n.
+      - 微电脑；[计]微型计算机
+        - `a small computer`
   - 同根词
     - adj.
-      - `microelectronic` [电子] 微电子的
+      - `microelectronic`
+        - [电子] 微电子的
     - n.
-      - `microchip` 微型集成电路片，微芯片
-      - `microcircuit` [电子] 微电路
-      - `microelectronics` 微电子学
+      - `microchip`
+        - 微型集成电路片，微芯片
+      - `microcircuit`
+        - [电子] 微电路
+      - `microelectronics`
+        - 微电子学
   - 例句
     - `The merchant sold electrical appliances, such as microcomputer, microphone, microprocessor and microwave ovens.`
       - 商人卖一些电器，比如微型计算机，话筒，微处理器和微波炉。

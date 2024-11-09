@@ -1,10 +1,13 @@
 - tempera
   - 发音
-    - 英 `/'temp(ə)rə/`
-    - 美 `/undefined/`
+    - 英
+      - `/'temp(ə)rə/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 蛋彩画
-    - `a type of paint in which the colour is mixed with a thick liquid`
+    - n.
+      - 蛋彩画
+        - `a type of paint in which the colour is mixed with a thick liquid`
   - 例句
     - `The acclaimed artist painted landscapes and figure subjects and worked mostly in tempera and watercolor.`
       - 这位著名艺术家的创作多以风景和人物为主题，大多数作品为蛋彩画和水彩画。

@@ -1,18 +1,24 @@
 - tusk
   - 发音
-    - 英 `/tʌsk/`
-    - 美 `/tʌsk/`
+    - 英
+      - `/tʌsk/`
+    - 美
+      - `/tʌsk/`
   - 词义
-    - n. 长牙
-    - `one of a pair of very long pointed teeth, that stick out of the mouth of animals such as  elephants `
-    - v. 以牙刺戳
+    - n.
+      - 长牙
+        - `one of a pair of very long pointed teeth, that stick out of the mouth of animals such as  elephants `
+    - v.
+      - 以牙刺戳
   - 同根词
     - n.
-      - `tusker` 有长牙的动物（象，野猪等）
+      - `tusker`
+        - 有长牙的动物（象，野猪等）
   - 近义词
-    - n. 长牙；尖头，尖形物
-      - `sharp`
-      - `cusp`
+    - n.
+      - 长牙；尖头，尖形物
+        - `sharp`
+        - `cusp`
   - 例句
     - `A huge tusk decorated the wall of his study.`
       - 他书房的墙上装饰着一支巨大的象牙。

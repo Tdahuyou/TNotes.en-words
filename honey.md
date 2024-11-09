@@ -1,36 +1,54 @@
 - honey
   - 发音
-    - 英 `/'hʌnɪ/`
-    - 美 `/'hʌni/`
+    - 英
+      - `/'hʌnɪ/`
+    - 美
+      - `/'hʌni/`
   - 词义
-    - n. (蜂)蜜,宝贝a甜美的
-    - `a sweet sticky substance produced by  bees  , used as food`
+    - n.
+      - (蜂)蜜,宝贝a甜美的
+        - `a sweet sticky substance produced by  bees  , used as food`
   - 同根词
     - adj.
-      - `honeyed` 甜如蜜的；多蜜的；逢迎的；亲昵的
-      - `honied` 甜如蜜的；多蜜的
+      - `honeyed`
+        - 甜如蜜的；多蜜的；逢迎的；亲昵的
+      - `honied`
+        - 甜如蜜的；多蜜的
     - v.
-      - `honied` 对…甜言蜜语；给…加蜜（honey的过去分词）
+      - `honied`
+        - 对…甜言蜜语；给…加蜜（honey的过去分词）
   - 近义词
-    - n. [蜂]蜂蜜；宝贝；甜蜜
-      - `sweet`
-      - `mel`
-    - adj. 甘美的；蜂蜜似的
-      - `luscious`
-      - `nectared`
-    - vi. 奉承；说甜言蜜语
-      - `lick one's boots`
-      - `make up to`
+    - n.
+      - [蜂]蜂蜜；宝贝；甜蜜
+        - `sweet`
+        - `mel`
+    - adj.
+      - 甘美的；蜂蜜似的
+        - `luscious`
+        - `nectared`
+    - vi.
+      - 奉承；说甜言蜜语
+        - `lick one's boots`
+        - `make up to`
   - 短语
-    - `honey bee` n. 蜜蜂 
-    - `honey peach` 水蜜桃 
-    - `chinese honey` 卢柑 
-    - `bee honey` 蜂蜜 
-    - `honey comb` 蜂巢 
-    - `honey locust` 皂荚树（北美产的） 
-    - `pure honey` 纯蜂蜜 
-    - `as sweet as honey` 甜如蜜糖 
-    - `honey wine` （蜂）蜜酒 
+    - `honey bee`
+      - n. 蜜蜂 
+    - `honey peach`
+      - 水蜜桃 
+    - `chinese honey`
+      - 卢柑 
+    - `bee honey`
+      - 蜂蜜 
+    - `honey comb`
+      - 蜂巢 
+    - `honey locust`
+      - 皂荚树（北美产的） 
+    - `pure honey`
+      - 纯蜂蜜 
+    - `as sweet as honey`
+      - 甜如蜜糖 
+    - `honey wine`
+      - （蜂）蜜酒 
   - 例句
     - `Hi, honey.`
       - 嗨，亲爱的。

@@ -1,18 +1,25 @@
 - crematorium
   - 发音
-    - 英 `/,kremə'tɔːrɪəm/`
-    - 美 `/,kri:mə'tɔ:riəm/`
+    - 英
+      - `/,kremə'tɔːrɪəm/`
+    - 美
+      - `/,kri:mə'tɔ:riəm/`
   - 词义
-    - n. 火葬场（等于crematory）
-    - `a building in which the bodies of dead people are burned at a funeral ceremony`
+    - n.
+      - 火葬场（等于crematory）
+        - `a building in which the bodies of dead people are burned at a funeral ceremony`
   - 同根词
     - adj.
-      - `crematory` 火葬的
+      - `crematory`
+        - 火葬的
     - n.
-      - `cremation` 火葬；火化
-      - `crematory` 火葬场；垃圾焚化场
+      - `cremation`
+        - 火葬；火化
+      - `crematory`
+        - 火葬场；垃圾焚化场
     - vt.
-      - `cremate` 火葬；烧成灰
+      - `cremate`
+        - 火葬；烧成灰
   - 例句
     - `More than 250 people at the church and 350 at the crematorium chapel.`
       - 教堂里有超过250人，火葬场的小礼堂里也有350多人。

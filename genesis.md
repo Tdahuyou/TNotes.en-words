@@ -1,25 +1,32 @@
 - genesis
   - 发音
-    - 英 `/'dʒenəsɪs/`
-    - 美 `/'dʒɛnəsɪs/`
+    - 英
+      - `/'dʒenəsɪs/`
+    - 美
+      - `/'dʒɛnəsɪs/`
   - 词义
-    - n. 起源，开端
-    - `the beginning or origin of something`
+    - n.
+      - 起源，开端
+        - `the beginning or origin of something`
   - 记忆
     - gen(出生， 产生) + esis → 起源， 开端
   - 同根词
     - adj.
-      - `genetic` 遗传的；基因的；起源的
-      - `genetical` 遗传的；起源的；创始的
+      - `genetic`
+        - 遗传的；基因的；起源的
+      - `genetical`
+        - 遗传的；起源的；创始的
     - n.
-      - `generator` 发电机；发生器；生产者
+      - `generator`
+        - 发电机；发生器；生产者
   - 近义词
-    - n. [遗]发生；起源
-      - `occurrence`
-      - `origin`
-      - `going on`
-      - `birth`
-      - `emergence`
+    - n.
+      - [遗]发生；起源
+        - `occurrence`
+        - `origin`
+        - `going on`
+        - `birth`
+        - `emergence`
   - 例句
     - `The project had its genesis two years earlier.`
       - 该项目是两年前开始的。

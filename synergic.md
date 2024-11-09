@@ -1,16 +1,20 @@
 - synergic
   - 发音
-    - 英 `/'sɪnərdʒik/`
-    - 美 `/undefined/`
+    - 英
+      - `/'sɪnərdʒik/`
+    - 美
+      - `/undefined/`
   - 词义
-    - adj. 协同作用的
+    - adj.
+      - 协同作用的
   - 记忆
     - 来自synergy(n. 协同作用)
   - 近义词
-    - adj. 合作的，协作的
-      - `cooperative`
-      - `coefficient`
-      - `collaborative`
+    - adj.
+      - 合作的，协作的
+        - `cooperative`
+        - `coefficient`
+        - `collaborative`
   - 例句
     - `The synergic extraction is main to from multicomponent complex of mixed ligand in extractive separation.`
       - 溶剂萃取分离中的协同萃取，是形成混配多元络合物的主要表现。

@@ -1,15 +1,20 @@
 - dagger
   - 发音
-    - 英 `/'dægə/`
-    - 美 `/'dæɡɚ/`
+    - 英
+      - `/'dægə/`
+    - 美
+      - `/'dæɡɚ/`
   - 词义
-    - n. 匕首，短剑
-    - `a short pointed knife used as a weapon`
-    - vt. 用剑刺
+    - n.
+      - 匕首，短剑
+        - `a short pointed knife used as a weapon`
+    - vt.
+      - 用剑刺
   - 近义词
-    - n. 匕首，短剑
-      - `knife`
-      - `stiletto`
+    - n.
+      - 匕首，短剑
+        - `knife`
+        - `stiletto`
   - 例句
     - `He was stabbed with a dagger.`
       - 他被刺了一匕首。

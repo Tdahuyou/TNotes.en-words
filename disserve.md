@@ -1,14 +1,18 @@
 - disserve
   - 发音
-    - 英 `/dɪs'sɜːv/`
-    - 美 `/undefined/`
+    - 英
+      - `/dɪs'sɜːv/`
+    - 美
+      - `/undefined/`
   - 词义
-    - vt. 危害
-    - `to do a disservice to `
+    - vt.
+      - 危害
+        - `to do a disservice to `
   - 近义词
-    - vt. 危害，损害；虐待
-      - `hurt`
-      - `abuse`
+    - vt.
+      - 危害，损害；虐待
+        - `hurt`
+        - `abuse`
   - 例句
     - `Varroa mite is one of the most harmful vermin that disserve the beekeeping in the worldwide.`
       - 大蜂螨是危害世界养蜂业最为严重的害虫之一。

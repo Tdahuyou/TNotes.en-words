@@ -1,22 +1,30 @@
 - also
   - 发音
-    - 英 `/'ɔːlsəʊ/`
-    - 美 `/'ɔlso/`
+    - 英
+      - `/'ɔːlsəʊ/`
+    - 美
+      - `/'ɔlso/`
   - 词义
-    - adv. 也；而且
-    - `in addition to something else that you have mentioned`
+    - adv.
+      - 也；而且
+        - `in addition to something else that you have mentioned`
   - 近义词
-    - adv. 也；而且；同样
-      - `moreover`
-      - `too`
-      - `besides`
-      - `either`
-      - `likewise`
+    - adv.
+      - 也；而且；同样
+        - `moreover`
+        - `too`
+        - `besides`
+        - `either`
+        - `likewise`
   - 短语
-    - `but also` 不仅……而且…… 并且；表强调 
-    - `as also` 同样；照样 
-    - `see also` 参见；另请参阅 
-    - `also notify` 另请通知 
+    - `but also`
+      - 不仅……而且…… 并且；表强调 
+    - `as also`
+      - 同样；照样 
+    - `see also`
+      - 参见；另请参阅 
+    - `also notify`
+      - 另请通知 
   - 例句
     - `Information is also available on women’s health care.`
       - 还可以获得有关女性保健方面的资料。

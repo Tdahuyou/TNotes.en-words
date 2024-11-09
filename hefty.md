@@ -1,30 +1,40 @@
 - hefty
   - 发音
-    - 英 `/'heftɪ/`
-    - 美 `/'hɛfti/`
+    - 英
+      - `/'heftɪ/`
+    - 美
+      - `/'hɛfti/`
   - 词义
-    - adj. 重的；肌肉发达的；异常大的
-    - `big and heavy`
-    - adv. 强有力地；非常
-    - n. 体格健壮的人
+    - adj.
+      - 重的；肌肉发达的；异常大的
+        - `big and heavy`
+    - adv.
+      - 强有力地；非常
+    - n.
+      - 体格健壮的人
   - 同根词
     - n.
-      - `heft` 重量；重要性
+      - `heft`
+        - 重量；重要性
     - vi.
-      - `heft` 称重量
+      - `heft`
+        - 称重量
     - vt.
-      - `heft` 举起；举起试重量
+      - `heft`
+        - 举起；举起试重量
   - 近义词
-    - adj. 重的；肌肉发达的；异常大的
-      - `weighty`
-      - `muscular`
-    - adv. 强有力地；非常
-      - `strongly`
-      - `extremely`
-      - `badly`
-      - `highly`
-      - `greatly`
-      - `too`
+    - adj.
+      - 重的；肌肉发达的；异常大的
+        - `weighty`
+        - `muscular`
+    - adv.
+      - 强有力地；非常
+        - `strongly`
+        - `extremely`
+        - `badly`
+        - `highly`
+        - `greatly`
+        - `too`
   - 例句
     - `a tall hefty man`
       - 一个高大健壮的男人

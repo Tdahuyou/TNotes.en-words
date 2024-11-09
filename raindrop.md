@@ -1,13 +1,17 @@
 - raindrop
   - 发音
-    - 英 `/'reɪndrɒp/`
-    - 美 `/'ren'drɑp/`
+    - 英
+      - `/'reɪndrɒp/`
+    - 美
+      - `/'ren'drɑp/`
   - 词义
-    - n. 雨滴,雨点
-    - `A raindrop is a single drop of rain`
+    - n.
+      - 雨滴,雨点
+        - `A raindrop is a single drop of rain`
   - 近义词
-    - n. [气象]雨滴；雨点
-      - `drip-drop`
+    - n.
+      - [气象]雨滴；雨点
+        - `drip-drop`
   - 例句
     - `If I were a raindrop ... `
       - 如果我是雨滴的话...

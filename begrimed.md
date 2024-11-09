@@ -1,18 +1,24 @@
 - begrimed
   - 发音
-    - 英 `/bɪ'graɪmd/`
-    - 美 `/undefined/`
+    - 英
+      - `/bɪ'graɪmd/`
+    - 美
+      - `/undefined/`
   - 词义
-    - adj. 污秽的
+    - adj.
+      - 污秽的
   - 同根词
     - vt.
-      - `begrime` 弄脏；玷污
+      - `begrime`
+        - 弄脏；玷污
   - 近义词
-    - adj. 污秽的
-      - `dirty`
-      - `mangy`
-    - v. 弄脏；玷污（begrime的过去分词）
-      - `blotted`
+    - adj.
+      - 污秽的
+        - `dirty`
+        - `mangy`
+    - v.
+      - 弄脏；玷污（begrime的过去分词）
+        - `blotted`
   - 例句
     - `His hands were begrimed with oil and dirt.`
       - 他的手被油和污物弄脏。

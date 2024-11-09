@@ -1,19 +1,25 @@
 - intractable
   - 发音
-    - 英 `/ɪn'træktəb(ə)l/`
-    - 美 `/ɪn'træktəbl/`
+    - 英
+      - `/ɪn'træktəb(ə)l/`
+    - 美
+      - `/ɪn'træktəbl/`
   - 词义
-    - adj. 棘手的；难治的；倔强的；不听话的
-    - `having a strong will and difficult to control`
+    - adj.
+      - 棘手的；难治的；倔强的；不听话的
+        - `having a strong will and difficult to control`
   - 同根词
     - adv.
-      - `intractably` 不听话地；倔强地
+      - `intractably`
+        - 不听话地；倔强地
     - n.
-      - `intractability` 棘手；难驾驭
+      - `intractability`
+        - 棘手；难驾驭
   - 近义词
-    - adj. 棘手的；难治的；倔强的；不听话的
-      - `testing`
-      - `awkward`
+    - adj.
+      - 棘手的；难治的；倔强的；不听话的
+        - `testing`
+        - `awkward`
   - 例句
     - `the seemingly intractable problem of human greed`
       - 似乎难以解决的人性贪婪问题

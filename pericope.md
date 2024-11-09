@@ -1,14 +1,18 @@
 - pericope
   - 发音
-    - 英 `/pə'rɪkəpɪ/`
-    - 美 `/pə'rikəpi:/`
+    - 英
+      - `/pə'rɪkəpɪ/`
+    - 美
+      - `/pə'rikəpi:/`
   - 词义
-    - n. (从书中选出的)章节,选段
-    - `a selection from a book, esp a passage from the Bible read at religious services`
+    - n.
+      - (从书中选出的)章节,选段
+        - `a selection from a book, esp a passage from the Bible read at religious services`
   - 近义词
-    - n. （书籍、文章中的）章节；摘录
-      - `section`
-      - `extract`
+    - n.
+      - （书籍、文章中的）章节；摘录
+        - `section`
+        - `extract`
   - 例句
     - `You're going to pay really good attention to all the details of the pericope.`
       - 好好留意,选段的细节。

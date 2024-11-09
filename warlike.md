@@ -1,29 +1,43 @@
 - warlike
   - 发音
-    - 英 `/'wɔːlaɪk/`
-    - 美 `/'wɔrlaɪk/`
+    - 英
+      - `/'wɔːlaɪk/`
+    - 美
+      - `/'wɔrlaɪk/`
   - 词义
-    - adj. 好战的，尚武的，善战的
-    - `liking war and being skilful in it`
+    - adj.
+      - 好战的，尚武的，善战的
+        - `liking war and being skilful in it`
   - 同根词
     - adj.
-      - `warring` 交战的；敌对的；冲突的
-      - `warmongering` 好战者的
+      - `warring`
+        - 交战的；敌对的；冲突的
+      - `warmongering`
+        - 好战者的
     - n.
-      - `warfare` 战争；冲突
-      - `war` 战争，斗争；军事，战术；冲突，对抗，竞争
-      - `warship` 战船，[军] 军舰
-      - `warring` 战争；战斗
-      - `warmonger` 好战者；战争贩子；主战论者
-      - `warmongering` 好战
+      - `warfare`
+        - 战争；冲突
+      - `war`
+        - 战争，斗争；军事，战术；冲突，对抗，竞争
+      - `warship`
+        - 战船，[军] 军舰
+      - `warring`
+        - 战争；战斗
+      - `warmonger`
+        - 好战者；战争贩子；主战论者
+      - `warmongering`
+        - 好战
     - v.
-      - `warring` 进行战争（war的现在分词形式）
+      - `warring`
+        - 进行战争（war的现在分词形式）
     - vi.
-      - `war` 打仗，作战；对抗
+      - `war`
+        - 打仗，作战；对抗
   - 近义词
-    - adj. 战争的；好战的；有战争危险的
-      - `fighting`
-      - `martial`
+    - adj.
+      - 战争的；好战的；有战争危险的
+        - `fighting`
+        - `martial`
   - 例句
     - `a warlike nation`
       - 好战的民族

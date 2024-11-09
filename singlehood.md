@@ -1,13 +1,17 @@
 - singlehood
   - 发音
-    - 英 `/'sɪŋɡlhʊd/`
-    - 美 `/'siŋɡlhud/`
+    - 英
+      - `/'sɪŋɡlhʊd/`
+    - 美
+      - `/'siŋɡlhud/`
   - 词义
-    - n. 单身；未婚
+    - n.
+      - 单身；未婚
   - 近义词
-    - n. 单身；未婚
-      - `bachelordom`
-      - `spinsterhood`
+    - n.
+      - 单身；未婚
+        - `bachelordom`
+        - `spinsterhood`
   - 例句
     - `When you and your maybe-likely-soon-to-be ex cease to be an item and revert to singlehood, when should you revise your online relationship status?`
       - 或许分手已经在即，而当你们要对整个恋爱事件喊停，不要再当彼此的附庸物品并重新回归单身岁月时，你该何时再来修改网上的个人感情状态？

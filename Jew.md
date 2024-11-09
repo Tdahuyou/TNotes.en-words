@@ -1,17 +1,22 @@
 - Jew
   - 发音
-    - 英 `/dʒu:/`
-    - 美 `/dʒu:/`
+    - 英
+      - `/dʒu:/`
+    - 美
+      - `/dʒu:/`
   - 词义
-    - n. 犹太人
-    - `someone whose religion is Judaism, or who is a member of a group whose traditional religion is Judaism`
+    - n.
+      - 犹太人
+        - `someone whose religion is Judaism, or who is a member of a group whose traditional religion is Judaism`
   - 近义词
-    - n. 犹太人；犹太教徒；守财奴
-      - `Israel`
-      - `Jewry`
-    - vt. 杀价；欺骗
-      - `sell`
-      - `fox`
+    - n.
+      - 犹太人；犹太教徒；守财奴
+        - `Israel`
+        - `Jewry`
+    - vt.
+      - 杀价；欺骗
+        - `sell`
+        - `fox`
   - 例句
     - `He was a Jew, just as I was.`
       - 他是一个犹太人，正如我本人一样。

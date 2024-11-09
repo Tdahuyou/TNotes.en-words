@@ -1,16 +1,20 @@
 - kitten
   - 发音
-    - 英 `/'kɪt(ə)n/`
-    - 美 `/'kɪtn/`
+    - 英
+      - `/'kɪt(ə)n/`
+    - 美
+      - `/'kɪtn/`
   - 词义
-    - `a young cat`
+        - `a young cat`
   - 同根词
     - n.
-      - `kitty` 小猫，猫咪
+      - `kitty`
+        - 小猫，猫咪
   - 近义词
-    - n. 小猫；小动物
-      - `beastie`
-      - `catling`
+    - n.
+      - 小猫；小动物
+        - `beastie`
+        - `catling`
   - 例句
     - `She nursed her kitten all evening.`
       - 整个晚上她一直抱着她的小猫咪。

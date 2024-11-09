@@ -1,15 +1,19 @@
 - licit
   - 发音
-    - 英 `/'lisit/`
-    - 美 `/'lɪsɪt/`
+    - 英
+      - `/'lisit/`
+    - 美
+      - `/'lɪsɪt/`
   - 词义
-    - adj. 合法的，正当的
+    - adj.
+      - 合法的，正当的
   - 近义词
-    - adj. 正当的，合法的
-      - `valid`
-      - `legal`
-      - `legitimate`
-      - `lawful`
+    - adj.
+      - 正当的，合法的
+        - `valid`
+        - `legal`
+        - `legitimate`
+        - `lawful`
   - 例句
     - `She made some money by licit means.`
       - 他用正当的手段挣了一些钱。

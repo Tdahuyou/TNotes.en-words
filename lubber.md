@@ -1,15 +1,21 @@
 - lubber
   - 发音
-    - 英 `/'lʌbə/`
-    - 美 `/'lʌbɚ/`
+    - 英
+      - `/'lʌbə/`
+    - 美
+      - `/'lʌbɚ/`
   - 词义
-    - adj. 粗笨的,笨拙的
+    - adj.
+      - 粗笨的,笨拙的
   - 同根词
     - adj.
-      - `lubberly` 粗笨的；笨拙的；低能的
+      - `lubberly`
+        - 粗笨的；笨拙的；低能的
     - adv.
-      - `lubberly` 笨拙地
+      - `lubberly`
+        - 笨拙地
   - 近义词
-    - adj. 粗笨的，笨拙的
-      - `awkward`
-      - `lumpy`
+    - adj.
+      - 粗笨的，笨拙的
+        - `awkward`
+        - `lumpy`

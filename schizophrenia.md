@@ -1,16 +1,22 @@
 - schizophrenia
   - 发音
-    - 英 `/,skɪtsə(ʊ)'friːnɪə/`
-    - 美 `/,skɪtsə'frinɪə/`
+    - 英
+      - `/,skɪtsə(ʊ)'friːnɪə/`
+    - 美
+      - `/,skɪtsə'frinɪə/`
   - 词义
-    - n. [内科]精神分裂症
-    - `a serious mental illness in which someone’s thoughts and feelings are not based on what is really happening around them`
+    - n.
+      - [内科]精神分裂症
+        - `a serious mental illness in which someone’s thoughts and feelings are not based on what is really happening around them`
   - 同根词
     - adj.
-      - `schizophrenic` 精神分裂症的
+      - `schizophrenic`
+        - 精神分裂症的
     - n.
-      - `schizophrenic` 精神分裂症的患者
-      - `schizogony` 分裂生殖
+      - `schizophrenic`
+        - 精神分裂症的患者
+      - `schizogony`
+        - 分裂生殖
   - 例句
     - `People with autism or with schizophrenia find it hard to do that – and they respond less to yawns than do most of us.`
       - 患有自闭症或精神分裂症的人很难做到这一点——他们对打哈欠的反应比我们大多数人都少。

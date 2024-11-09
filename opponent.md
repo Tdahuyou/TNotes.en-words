@@ -1,24 +1,30 @@
 - opponent
   - 发音
-    - 英 `/ə'pounənt/`
-    - 美 `/ə'ponənt/`
+    - 英
+      - `/ə'pounənt/`
+    - 美
+      - `/ə'ponənt/`
   - 词义
-    - adj. 对立的，反对的，对抗的
-    - n. 敌手，对手，反对者
-    - `someone who you try to defeat in a competition, game, fight, or argument`
+    - adj.
+      - 对立的，反对的，对抗的
+    - n.
+      - 敌手，对手，反对者
+        - `someone who you try to defeat in a competition, game, fight, or argument`
   - 记忆
     - op(反) + pon(放) + ent → 放在相反位置的 → 对立的
   - 近义词
-    - n. 对手；反对者；敌手
-      - `equal`
-      - `anti`
-      - `comparative`
-      - `rival`
-      - `match`
-    - adj. 对立的；敌对的
-      - `contrary`
-      - `adverse`
-      - `against`
+    - n.
+      - 对手；反对者；敌手
+        - `equal`
+        - `anti`
+        - `comparative`
+        - `rival`
+        - `match`
+    - adj.
+      - 对立的；敌对的
+        - `contrary`
+        - `adverse`
+        - `against`
   - 例句
     - `Graf’s opponent in today’s final will be Sukova.`
       - 格拉芙今天的决赛对手将是苏科娃。

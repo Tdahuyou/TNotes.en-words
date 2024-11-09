@@ -1,14 +1,19 @@
 - direful
   - 发音
-    - 英 `/'daɪəfʊl; -f(ə)l/`
-    - 美 `/'daiəful/`
+    - 英
+      - `/'daɪəfʊl; -f(ə)l/`
+    - 美
+      - `/'daiəful/`
   - 词义
-    - adj. 可怕的,悲惨的
+    - adj.
+      - 可怕的,悲惨的
   - 同根词
     - adj.
-      - `dire` 可怕的；悲惨的；极端的
+      - `dire`
+        - 可怕的；悲惨的；极端的
   - 近义词
-    - adj. 悲惨的；可怕的
-      - `terrible`
-      - `miserable`
-      - `horrible`
+    - adj.
+      - 悲惨的；可怕的
+        - `terrible`
+        - `miserable`
+        - `horrible`

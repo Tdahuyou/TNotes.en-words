@@ -1,34 +1,49 @@
 - assembler
   - 发音
-    - 英 `/ə'semblə/`
-    - 美 `/ə'sɛmblɚ/`
+    - 英
+      - `/ə'semblə/`
+    - 美
+      - `/ə'sɛmblɚ/`
   - 词义
-    - n. 汇编程序；汇编机；装配工
-    - `An assembler is a person, a machine, or a company that assembles the individual parts of a vehicle or a piece of equipment such as a computer`
+    - n.
+      - 汇编程序；汇编机；装配工
+        - `An assembler is a person, a machine, or a company that assembles the individual parts of a vehicle or a piece of equipment such as a computer`
   - 记忆
     - 来自assemble(v. 集合； 聚集)
   - 同根词
     - adj.
-      - `assembled` 组合的；安装的
-      - `assembling` 装配的；组合的
+      - `assembled`
+        - 组合的；安装的
+      - `assembling`
+        - 装配的；组合的
     - n.
-      - `assembly` 装配；集会，集合
-      - `assembling` 装配；[计] 汇编
-      - `assemblage` 装配；集合；聚集；集会；集合物；聚集的物或人
-      - `assemblyman` 议员；装配工
+      - `assembly`
+        - 装配；集会，集合
+      - `assembling`
+        - 装配；[计] 汇编
+      - `assemblage`
+        - 装配；集合；聚集；集会；集合物；聚集的物或人
+      - `assemblyman`
+        - 议员；装配工
     - v.
-      - `assembled` 装配（assemble的过去分词）；集合
-      - `assembling` 装配（assemble的ing形式）；聚集
+      - `assembled`
+        - 装配（assemble的过去分词）；集合
+      - `assembling`
+        - 装配（assemble的ing形式）；聚集
     - vi.
-      - `assemble` 集合，聚集
+      - `assemble`
+        - 集合，聚集
     - vt.
-      - `assemble` 集合，聚集；装配；收集
+      - `assemble`
+        - 集合，聚集；装配；收集
   - 近义词
-    - n. [计]汇编程序；汇编机；[机]装配工
-      - `assembly program`
-      - `assembly routine`
+    - n.
+      - [计]汇编程序；汇编机；[机]装配工
+        - `assembly program`
+        - `assembly routine`
   - 短语
-    - `assembler language` [计]汇编语言，装配工语言 
+    - `assembler language`
+      - [计]汇编语言，装配工语言 
   - 例句
     - `In this example, the assembler template consists of assembly instructions.`
       - 本例中，汇编程序模板由汇编指令组成。

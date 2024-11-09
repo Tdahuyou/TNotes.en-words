@@ -1,10 +1,13 @@
 - yearling
   - 发音
-    - 英 `/'jiəliŋ/`
-    - 美 `/'jɪrlɪŋ/`
+    - 英
+      - `/'jiəliŋ/`
+    - 美
+      - `/'jɪrlɪŋ/`
   - 词义
-    - n. 一岁家禽
-    - `A yearling is a racehorse or a deer that is one year old`
+    - n.
+      - 一岁家禽
+        - `A yearling is a racehorse or a deer that is one year old`
   - 记忆
     - year (年) + ling (小) → 小动物 → 一岁家禽
   - 例句

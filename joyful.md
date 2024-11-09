@@ -1,27 +1,38 @@
 - joyful
   - 发音
-    - 英 `/'dʒɒɪfʊl; -f(ə)l/`
-    - 美 `/'dʒɔɪfl/`
+    - 英
+      - `/'dʒɒɪfʊl; -f(ə)l/`
+    - 美
+      - `/'dʒɔɪfl/`
   - 词义
-    - adj. 欢喜的；令人高兴的
-    - `very happy, or likely to make people very happy`
+    - adj.
+      - 欢喜的；令人高兴的
+        - `very happy, or likely to make people very happy`
   - 同根词
     - adj.
-      - `joyous` 令人高兴的；充满欢乐的（等于joyful）
-      - `joyless` 不高兴的，不快乐的
+      - `joyous`
+        - 令人高兴的；充满欢乐的（等于joyful）
+      - `joyless`
+        - 不高兴的，不快乐的
     - adv.
-      - `joyfully` 高兴地，喜悦地
+      - `joyfully`
+        - 高兴地，喜悦地
     - n.
-      - `joy` 欢乐，快乐；乐趣；高兴
-      - `joyousness` 高兴；快乐
+      - `joy`
+        - 欢乐，快乐；乐趣；高兴
+      - `joyousness`
+        - 高兴；快乐
     - vi.
-      - `joy` 欣喜，欢喜
+      - `joy`
+        - 欣喜，欢喜
     - vt.
-      - `joy` 高兴，使快乐
+      - `joy`
+        - 高兴，使快乐
   - 近义词
-    - adj. 欢喜的；令人高兴的
-      - `glad`
-      - `fulfilling`
+    - adj.
+      - 欢喜的；令人高兴的
+        - `glad`
+        - `fulfilling`
   - 例句
     - `Christmas is a joyful occasion for children.`
       - 圣诞节是孩子们的开心时刻。

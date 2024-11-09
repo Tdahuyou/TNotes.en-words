@@ -1,28 +1,36 @@
 - hindrance
   - 发音
-    - 英 `/'hindrəns/`
-    - 美 `/'hɪndrəns/`
+    - 英
+      - `/'hindrəns/`
+    - 美
+      - `/'hɪndrəns/`
   - 词义
-    - n. 妨碍，障碍
-    - `something or someone that makes it difficult for you to do something`
+    - n.
+      - 妨碍，障碍
+        - `something or someone that makes it difficult for you to do something`
   - 记忆
     - 来自hinder (v. 妨碍， 打扰)
   - 同根词
     - adj.
-      - `hinder` 后面的
+      - `hinder`
+        - 后面的
     - vi.
-      - `hinder` 成为阻碍
+      - `hinder`
+        - 成为阻碍
     - vt.
-      - `hinder` 阻碍；打扰
+      - `hinder`
+        - 阻碍；打扰
   - 近义词
-    - n. 障碍；妨碍；妨害；[化学]阻碍物
-      - `intervention`
-      - `prevention`
-      - `obstacle`
-      - `let`
-      - `bar`
+    - n.
+      - 障碍；妨碍；妨害；[化学]阻碍物
+        - `intervention`
+        - `prevention`
+        - `obstacle`
+        - `let`
+        - `bar`
   - 短语
-    - `steric hindrance` 位阻，位阻现象 
+    - `steric hindrance`
+      - 位阻，位阻现象 
   - 例句
     - `A degree is more of a hindrance than a help in British industry.`
       - 在英国工业界，学位反倒是个累赘。

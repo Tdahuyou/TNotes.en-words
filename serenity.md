@@ -1,24 +1,32 @@
 - serenity
   - 发音
-    - 英 `/sə'renəti/`
-    - 美 `/si'renəti/`
+    - 英
+      - `/sə'renəti/`
+    - 美
+      - `/si'renəti/`
   - 词义
-    - n. 平静
+    - n.
+      - 平静
   - 记忆
     - seren (看作serene， 平静的) + ity (表示名词) → 平静
   - 同根词
     - adj.
-      - `serene` 平静的；安详的；清澈的；晴朗的
+      - `serene`
+        - 平静的；安详的；清澈的；晴朗的
     - adv.
-      - `serenely` 安详地；沉着地；宁静地
+      - `serenely`
+        - 安详地；沉着地；宁静地
     - n.
-      - `serene` 平静；晴朗
+      - `serene`
+        - 平静；晴朗
     - vt.
-      - `serene` 使平静
+      - `serene`
+        - 使平静
   - 近义词
-    - n. 平静，宁静；晴朗，风和日丽
-      - `equilibrium`
-      - `tranquility`
+    - n.
+      - 平静，宁静；晴朗，风和日丽
+        - `equilibrium`
+        - `tranquility`
   - 例句
     - `It was their serenity which galled her most.`
       - 最让她恼怒的是他们的平静。

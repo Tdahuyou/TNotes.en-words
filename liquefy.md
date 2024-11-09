@@ -1,31 +1,44 @@
 - liquefy
   - 发音
-    - 英 `/'lɪkwɪfaɪ/`
-    - 美 `/'lɪkwɪfaɪ/`
+    - 英
+      - `/'lɪkwɪfaɪ/`
+    - 美
+      - `/'lɪkwɪfaɪ/`
   - 词义
-    - v. 溶解，液化
-    - `to become liquid, or make something become liquid`
+    - v.
+      - 溶解，液化
+        - `to become liquid, or make something become liquid`
   - 记忆
     - liqu(液体) + efy(=ify …化) → (使)液化
   - 同根词
     - adj.
-      - `liquefied` 液化的
-      - `liquefiable` 液化的；可溶解的
-      - `liquescent` 可液化的
+      - `liquefied`
+        - 液化的
+      - `liquefiable`
+        - 液化的；可溶解的
+      - `liquescent`
+        - 可液化的
     - n.
-      - `liquidation` 清算；偿还；液化；清除
-      - `liquefaction` 液化；熔解
+      - `liquidation`
+        - 清算；偿还；液化；清除
+      - `liquefaction`
+        - 液化；熔解
     - v.
-      - `liquefied` 液化；溶解（liquefy的过去分词）
+      - `liquefied`
+        - 液化；溶解（liquefy的过去分词）
     - vi.
-      - `liquidize` 液化
+      - `liquidize`
+        - 液化
     - vt.
-      - `liquidise` 使液化（等于liquidize）
-      - `liquidize` 使液化
+      - `liquidise`
+        - 使液化（等于liquidize）
+      - `liquidize`
+        - 使液化
   - 近义词
-    - vt. 液化；溶解
-      - `solve`
-      - `resolve`
+    - vt.
+      - 液化；溶解
+        - `solve`
+        - `resolve`
   - 例句
     - `A process that is used to liquefy nitrogen.`
       - 用来使氮液化的过程。

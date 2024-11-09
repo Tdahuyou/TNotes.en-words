@@ -1,26 +1,36 @@
 - weaken
   - 发音
-    - 英 `/'wiːk(ə)n/`
-    - 美 `/'wikən/`
+    - 英
+      - `/'wiːk(ə)n/`
+    - 美
+      - `/'wikən/`
   - 词义
-    - v. 削弱,(使)变弱
-    - `to make someone or something less powerful or less important, or to become less powerful`
+    - v.
+      - 削弱,(使)变弱
+        - `to make someone or something less powerful or less important, or to become less powerful`
   - 同根词
     - adj.
-      - `weak` [经] 疲软的；虚弱的；无力的；不牢固的
-      - `weakly` 虚弱的；软弱的
+      - `weak`
+        - [经] 疲软的；虚弱的；无力的；不牢固的
+      - `weakly`
+        - 虚弱的；软弱的
     - adv.
-      - `weakly` 虚弱地；无力地；软弱地；有病地
+      - `weakly`
+        - 虚弱地；无力地；软弱地；有病地
     - n.
-      - `weakness` 弱点；软弱；嗜好
-      - `weakener` 减光板；削弱器
+      - `weakness`
+        - 弱点；软弱；嗜好
+      - `weakener`
+        - 减光板；削弱器
   - 近义词
-    - vt. 减少；使变弱；使变淡
-      - `shorten`
-      - `to cut down`
-    - vi. 变弱；畏缩；变软弱
-      - `moderate`
-      - `recoil from`
+    - vt.
+      - 减少；使变弱；使变淡
+        - `shorten`
+        - `to cut down`
+    - vi.
+      - 变弱；畏缩；变软弱
+        - `moderate`
+        - `recoil from`
   - 例句
     - `Over the last two years the president’s position has weakened.`
       - 过去两年来，总统的地位被削弱了。

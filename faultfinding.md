@@ -1,23 +1,33 @@
 - faultfinding
   - 发音
-    - 英 `/'fɔːltfaɪndɪŋ/`
-    - 美 `/'fɔlt,faɪndɪŋ/`
+    - 英
+      - `/'fɔːltfaɪndɪŋ/`
+    - 美
+      - `/'fɔlt,faɪndɪŋ/`
   - 词义
-    - n. 找茬,挑剔
+    - n.
+      - 找茬,挑剔
   - 同根词
     - n.
-      - `fault` 故障；[地质] 断层；错误；缺点；毛病；（网球等）发球失误
-      - `faulting` [地质] 断层作用；断层错动；故障
-      - `faultfinder` 挑剔；吹毛求疵的人
+      - `fault`
+        - 故障；[地质] 断层；错误；缺点；毛病；（网球等）发球失误
+      - `faulting`
+        - [地质] 断层作用；断层错动；故障
+      - `faultfinder`
+        - 挑剔；吹毛求疵的人
     - v.
-      - `faulting` 挑剔；指责；做错（fault的ing形式）
+      - `faulting`
+        - 挑剔；指责；做错（fault的ing形式）
     - vi.
-      - `fault` 弄错；产生断层
+      - `fault`
+        - 弄错；产生断层
     - vt.
-      - `fault` （通常用于疑问句或否定句）挑剔
+      - `fault`
+        - （通常用于疑问句或否定句）挑剔
   - 近义词
-    - n. 挑剔；吹毛求疵的行为
-      - `critical of`
+    - n.
+      - 挑剔；吹毛求疵的行为
+        - `critical of`
   - 例句
     - `He is a faultfinding man.`
       - 他是一个爱挑剔的人。

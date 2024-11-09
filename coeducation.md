@@ -1,13 +1,17 @@
 - coeducation
   - 发音
-    - 英 `/'kəʊ,edjuːkeɪʃən/`
-    - 美 `/,koɛdʒə'keʃən/`
+    - 英
+      - `/'kəʊ,edjuːkeɪʃən/`
+    - 美
+      - `/,koɛdʒə'keʃən/`
   - 词义
-    - n. 男女同校
-    - `a system in which students of both sexes are educated together`
+    - n.
+      - 男女同校
+        - `a system in which students of both sexes are educated together`
   - 同根词
     - adj.
-      - `coeducational` 男女合校的
+      - `coeducational`
+        - 男女合校的
   - 例句
     - `It is true that a majority of faculty members voted in favor of coeducation, arguing that it would encourage more students to apply to Grove.`
       - 确实有大部分员工投票赞成男女同校，认为这会使更多的学生申请Grove。

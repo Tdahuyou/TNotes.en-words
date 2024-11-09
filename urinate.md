@@ -1,22 +1,31 @@
 - urinate
   - 发音
-    - 英 `/'jʊərɪneɪt/`
-    - 美 `/ˈjʊərɪˌneɪt/`
+    - 英
+      - `/'jʊərɪneɪt/`
+    - 美
+      - `/ˈjʊərɪˌneɪt/`
   - 词义
-    - v. 小便，撒尿
-    - `to get rid of urine from your body`
+    - v.
+      - 小便，撒尿
+        - `to get rid of urine from your body`
   - 同根词
     - adj.
-      - `urinary` 尿的；泌尿的
+      - `urinary`
+        - 尿的；泌尿的
     - n.
-      - `urine` 尿
-      - `urinary` 尿壶；小便池（等于urinal）
-      - `urinal` 尿壶；小便处
-      - `urination` 撒尿，排尿
+      - `urine`
+        - 尿
+      - `urinary`
+        - 尿壶；小便池（等于urinal）
+      - `urinal`
+        - 尿壶；小便处
+      - `urination`
+        - 撒尿，排尿
   - 近义词
-    - vi. 小便，撒尿
-      - `pass water`
-      - `make water`
+    - vi.
+      - 小便，撒尿
+        - `pass water`
+        - `make water`
   - 例句
     - `The Buddhist kneels and hopes that the dog will not urinate at this hallowed moment.`
       - 佛教徒跪下来，心里暗自希望小狗不要在这个神圣的时刻撒尿。

@@ -1,18 +1,24 @@
 - throaty
   - 发音
-    - 英 `/'θrəʊtɪ/`
-    - 美 `/'θroti/`
+    - 英
+      - `/'θrəʊtɪ/`
+    - 美
+      - `/'θroti/`
   - 词义
-    - adj. 喉音的,喉部发出声音的,嘶哑的
-    - `a throaty laugh, cough, voice etc sounds low and rough`
+    - adj.
+      - 喉音的,喉部发出声音的,嘶哑的
+        - `a throaty laugh, cough, voice etc sounds low and rough`
   - 同根词
     - n.
-      - `throat` 喉咙；嗓子，嗓音；窄路
+      - `throat`
+        - 喉咙；嗓子，嗓音；窄路
     - vt.
-      - `throat` 开沟于；用喉音说
+      - `throat`
+        - 开沟于；用喉音说
   - 近义词
-    - adj. 喉音的；嘶哑的；低沉洪亮的
-      - `hoarse`
+    - adj.
+      - 喉音的；嘶哑的；低沉洪亮的
+        - `hoarse`
   - 例句
     - `Her mouth was making croaking, throaty sounds like the toneless cry when we make love.`
       - 当我们做爱时，她的嘴发出蛙叫声，嘶哑的声音像低沉的呼喊。

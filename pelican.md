@@ -1,10 +1,13 @@
 - pelican
   - 发音
-    - 英 `/'pelɪk(ə)n/`
-    - 美 `/'pɛlɪkən/`
+    - 英
+      - `/'pelɪk(ə)n/`
+    - 美
+      - `/'pɛlɪkən/`
   - 词义
-    - n. [鸟]鹈鹕
-    - `a large water bird that catches fish for food and stores them in a deep bag of skin under its beak`
+    - n.
+      - [鸟]鹈鹕
+        - `a large water bird that catches fish for food and stores them in a deep bag of skin under its beak`
   - 例句
     - `When they get a tern or pelican to drop a fish, they plunge down and grab it off the surface of the water, which may have been how this bird got oiled.`
       - 当军舰鸟发现一只燕鸥或者鹈鹕准备冲入水中捕鱼时就猛冲下去，在捕鱼的鸟离开海面时抓住它们，这可能就是这种鸟为何解决到石油的原因。

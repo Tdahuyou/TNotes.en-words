@@ -1,17 +1,23 @@
 - ingoing
   - 发音
-    - 英 `/'ɪngəʊɪŋ/`
-    - 美 `/'ɪn,goɪŋ/`
+    - 英
+      - `/'ɪngəʊɪŋ/`
+    - 美
+      - `/'ɪn,goɪŋ/`
   - 词义
-    - adj. 进入的
-    - `coming or going in; entering `
-    - n. 进入,迁就
+    - adj.
+      - 进入的
+        - `coming or going in; entering `
+    - n.
+      - 进入,迁就
   - 近义词
-    - adj. 新进的；进入的
-      - `entered`
-    - n. 迁入；进入；就任
-      - `access`
-      - `admittance`
+    - adj.
+      - 新进的；进入的
+        - `entered`
+    - n.
+      - 迁入；进入；就任
+        - `access`
+        - `admittance`
   - 例句
     - `The outer firewall has ports open that allow ingoing and outgoing HTTP requests.`
       - 外部的防火墙仅仅允许进出的 HTTP 请求。

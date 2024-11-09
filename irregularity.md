@@ -1,20 +1,27 @@
 - irregularity
   - 发音
-    - 英 `/ɪˌregjə'lærəti/`
-    - 美 `/ɪ'rɛgjə'lærəti/`
+    - 英
+      - `/ɪˌregjə'lærəti/`
+    - 美
+      - `/ɪ'rɛgjə'lærəti/`
   - 词义
-    - n. 不规则，无规律
+    - n.
+      - 不规则，无规律
   - 同根词
     - adj.
-      - `irregular` 不规则的；无规律的；非正规的；不合法的
+      - `irregular`
+        - 不规则的；无规律的；非正规的；不合法的
     - adv.
-      - `irregularly` 不规则地；不整齐地
+      - `irregularly`
+        - 不规则地；不整齐地
     - n.
-      - `irregular` 不规则物；不合规格的产品
+      - `irregular`
+        - 不规则物；不合规格的产品
   - 近义词
-    - n. 不规则；无规律；[电子]不整齐
-      - `anomaly`
-      - `abnormity`
+    - n.
+      - 不规则；无规律；[电子]不整齐
+        - `anomaly`
+        - `abnormity`
   - 例句
     - `Its complexity degree can be quantitatively evaluated using fractal dimension that can describe geometrical irregularity.`
       - 其复杂程度可以用描述几何不规则性的分维来定量评价。

@@ -1,19 +1,25 @@
 - generosity
   - 发音
-    - 英 `/ˌdʒenə'rɔsəti/`
-    - 美 `/,dʒɛnə'rɑsəti/`
+    - 英
+      - `/ˌdʒenə'rɔsəti/`
+    - 美
+      - `/,dʒɛnə'rɑsəti/`
   - 词义
-    - n. 慷慨，宽大
-    - `a generous attitude, or generous behaviour`
+    - n.
+      - 慷慨，宽大
+        - `a generous attitude, or generous behaviour`
   - 同根词
     - adj.
-      - `generous` 慷慨的，大方的；宽宏大量的；有雅量的
+      - `generous`
+        - 慷慨的，大方的；宽宏大量的；有雅量的
     - adv.
-      - `generously` 慷慨地；宽大地；丰盛地
+      - `generously`
+        - 慷慨地；宽大地；丰盛地
   - 近义词
-    - n. 慷慨，大方；宽宏大量
-      - `liberality`
-      - `large-handedness`
+    - n.
+      - 慷慨，大方；宽宏大量
+        - `liberality`
+        - `large-handedness`
   - 例句
     - `an act of great generosity`
       - 十分慷慨的行为

@@ -1,30 +1,43 @@
 - penetrate
   - 发音
-    - 英 `/'penətreɪt/`
-    - 美 `/'pɛnətret/`
+    - 英
+      - `/'penətreɪt/`
+    - 美
+      - `/'pɛnətret/`
   - 词义
-    - v. 刺穿；渗透；洞察
-    - `to enter something and pass or spread through it, especially when this is difficult`
+    - v.
+      - 刺穿；渗透；洞察
+        - `to enter something and pass or spread through it, especially when this is difficult`
   - 同根词
     - adj.
-      - `penetrating` 渗透的；尖锐的；有洞察力的
-      - `penetrable` 可穿透的；可渗透的
+      - `penetrating`
+        - 渗透的；尖锐的；有洞察力的
+      - `penetrable`
+        - 可穿透的；可渗透的
     - n.
-      - `penetration` 渗透；突破；侵入；洞察力
-      - `penetrability` 渗透性；穿透性；透明性
-      - `penetrator` 侵入者，洞察者；渗透者
+      - `penetration`
+        - 渗透；突破；侵入；洞察力
+      - `penetrability`
+        - 渗透性；穿透性；透明性
+      - `penetrator`
+        - 侵入者，洞察者；渗透者
     - v.
-      - `penetrating` 穿透；贯穿（penetrate的ing形式）
+      - `penetrating`
+        - 穿透；贯穿（penetrate的ing形式）
   - 近义词
-    - vt. 渗透；穿透；洞察
-      - `filter`
-      - `permeate`
-    - vi. 渗透；刺入；看透
-      - `sink`
-      - `osmose`
+    - vt.
+      - 渗透；穿透；洞察
+        - `filter`
+        - `permeate`
+    - vi.
+      - 渗透；刺入；看透
+        - `sink`
+        - `osmose`
   - 短语
-    - `penetrate into` 刺入；透入 
-    - `penetrate through` 穿透 
+    - `penetrate into`
+      - 刺入；透入 
+    - `penetrate through`
+      - 穿透 
   - 例句
     - `bullets that penetrate thick armour plating`
       - 穿过厚装甲的子弹

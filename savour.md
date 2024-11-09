@@ -1,29 +1,41 @@
 - savour
   - 发音
-    - 英 `/undefined/`
-    - 美 `/ˈseɪvər/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/ˈseɪvər/`
   - 词义
-    - v. 具有…的特点；加调味品于；使有风味
-    - `to fully enjoy the taste or smell of something`
-    - n. 滋味；风味
-    - `a pleasant taste or smell`
+    - v.
+      - 具有…的特点；加调味品于；使有风味
+        - `to fully enjoy the taste or smell of something`
+    - n.
+      - 滋味；风味
+        - `a pleasant taste or smell`
   - 同根词
     - adj.
-      - `savory` 可口的；风味极佳的；味美的
-      - `savourless` 缺少风味的；不风趣的，无情趣的
+      - `savory`
+        - 可口的；风味极佳的；味美的
+      - `savourless`
+        - 缺少风味的；不风趣的，无情趣的
     - n.
-      - `savor` 滋味；气味；食欲
-      - `savory` 开胃菜；香薄荷
+      - `savor`
+        - 滋味；气味；食欲
+      - `savory`
+        - 开胃菜；香薄荷
     - vi.
-      - `savor` 有…的滋味；带有…的性质
+      - `savor`
+        - 有…的滋味；带有…的性质
     - vt.
-      - `savor` 尽情享受；使有风味；加调味品于
+      - `savor`
+        - 尽情享受；使有风味；加调味品于
   - 近义词
-    - vt. 具有…的特点；加调味品于；使有风味
-      - `typify`
-    - n. 滋味；风味
-      - `flavor`
-      - `tastiness`
+    - vt.
+      - 具有…的特点；加调味品于；使有风味
+        - `typify`
+    - n.
+      - 滋味；风味
+        - `flavor`
+        - `tastiness`
   - 例句
     - `She sipped her wine, savouring every drop.`
       - 她慢慢地啜着酒，细细地品尝每一滴的滋味。

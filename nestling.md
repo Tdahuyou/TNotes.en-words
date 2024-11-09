@@ -1,21 +1,31 @@
 - nestling
   - 发音
-    - 英 `/'nes(t)lɪŋ/`
-    - 美 `/'nɛstlɪŋ/`
+    - 英
+      - `/'nes(t)lɪŋ/`
+    - 美
+      - `/'nɛstlɪŋ/`
   - 词义
-    - n. 尚未离巢的小鸟,婴孩
-    - `a very young bird that cannot leave its nest because it is not yet able to fly`
+    - n.
+      - 尚未离巢的小鸟,婴孩
+        - `a very young bird that cannot leave its nest because it is not yet able to fly`
   - 同根词
     - n.
-      - `nest` 巢，窝；安乐窝；温床
-      - `nester` 穴居的兽；筑巢的鸟；放牧地自耕农；试验筛组的单位筛
+      - `nest`
+        - 巢，窝；安乐窝；温床
+      - `nester`
+        - 穴居的兽；筑巢的鸟；放牧地自耕农；试验筛组的单位筛
     - vi.
-      - `nest` 筑巢；找鸟巢
-      - `nestle` 舒适地坐定；偎依；半隐半现地处于
+      - `nest`
+        - 筑巢；找鸟巢
+      - `nestle`
+        - 舒适地坐定；偎依；半隐半现地处于
     - vt.
-      - `nest` 筑巢；嵌套
-      - `nestle` 抱；安置
+      - `nest`
+        - 筑巢；嵌套
+      - `nestle`
+        - 抱；安置
   - 近义词
-    - n. 婴儿；未离巢的雏鸟
-      - `baby`
-      - `infant`
+    - n.
+      - 婴儿；未离巢的雏鸟
+        - `baby`
+        - `infant`

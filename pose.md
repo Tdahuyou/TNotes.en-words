@@ -1,28 +1,39 @@
 - pose
   - 发音
-    - 英 `/pouz/`
-    - 美 `/poz/`
+    - 英
+      - `/pouz/`
+    - 美
+      - `/poz/`
   - 词义
-    - vt. 摆姿势；造成；提出
-    - `to exist in a way that may cause a problem, danger, difficulty etc`
-    - n. 姿势
-    - `the position in which someone stands or sits, especially in a painting, photograph etc`
+    - vt.
+      - 摆姿势；造成；提出
+        - `to exist in a way that may cause a problem, danger, difficulty etc`
+    - n.
+      - 姿势
+        - `the position in which someone stands or sits, especially in a painting, photograph etc`
   - 同根词
     - n.
-      - `position` 位置，方位；职位，工作；姿态；站位；vt. 安置；把……放在适当位置
-      - `positivism` 实证主义；实证论；积极性；武断
-      - `poser` 难题；装腔作势者；不易处理的事
+      - `position`
+        - 位置，方位；职位，工作；姿态；站位；vt. 安置；把……放在适当位置
+      - `positivism`
+        - 实证主义；实证论；积极性；武断
+      - `poser`
+        - 难题；装腔作势者；不易处理的事
   - 近义词
-    - v. 造成，形成；摆姿势；装模作样；提出…讨论
-      - `take shape`
-      - `shape into`
-    - n. 姿势，姿态；装模作样
-      - `attitude`
-      - `posture`
-    - vi. 摆姿势；佯装；矫揉造作
-      - `posture`
+    - v.
+      - 造成，形成；摆姿势；装模作样；提出…讨论
+        - `take shape`
+        - `shape into`
+    - n.
+      - 姿势，姿态；装模作样
+        - `attitude`
+        - `posture`
+    - vi.
+      - 摆姿势；佯装；矫揉造作
+        - `posture`
   - 短语
-    - `pose a threat` 构成威胁；形成一种威胁 
+    - `pose a threat`
+      - 构成威胁；形成一种威胁 
   - 例句
     - `Rising unemployment is posing serious problems for the administration.`
       - 失业率上升正在给政府造成严重的问题。

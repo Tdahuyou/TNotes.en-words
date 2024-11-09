@@ -1,16 +1,23 @@
 - uniquely
   - 发音
-    - 英 `/ju:'ni:kli/`
-    - 美 `/ju:'ni:kli/`
+    - 英
+      - `/ju:'ni:kli/`
+    - 美
+      - `/ju:'ni:kli/`
   - 词义
-    - adv. adv独特地,唯一地
+    - adv.
+      - adv独特地,唯一地
   - 同根词
     - adj.
-      - `unique` 独特的，稀罕的；[数] 唯一的，独一无二的
+      - `unique`
+        - 独特的，稀罕的；[数] 唯一的，独一无二的
     - n.
-      - `unique` 独一无二的人或物
-      - `uniqueness` 独特性；独一无二；单值性
+      - `unique`
+        - 独一无二的人或物
+      - `uniqueness`
+        - 独特性；独一无二；单值性
   - 近义词
-    - adv. 独特地；珍奇地
-      - `particularly`
-      - `inimitably`
+    - adv.
+      - 独特地；珍奇地
+        - `particularly`
+        - `inimitably`

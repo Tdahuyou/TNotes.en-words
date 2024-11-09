@@ -1,23 +1,29 @@
 - demeanor
   - 发音
-    - 英 `/di'miːnə(r)/`
-    - 美 `/di'mi:nə/`
+    - 英
+      - `/di'miːnə(r)/`
+    - 美
+      - `/di'mi:nə/`
   - 词义
-    - n. 行为，风度
+    - n.
+      - 行为，风度
   - 记忆
     - 和demean (v. 降低身份) 一起记忆
   - 同根词
     - n.
-      - `demeanour` 行为
+      - `demeanour`
+        - 行为
     - vt.
-      - `demean` 贬低...的身分；举止
+      - `demean`
+        - 贬低...的身分；举止
   - 近义词
-    - n. 风度；举止；行为
-      - `behavior`
-      - `dealing`
-      - `presence`
-      - `bearing`
-      - `going`
+    - n.
+      - 风度；举止；行为
+        - `behavior`
+        - `dealing`
+        - `presence`
+        - `bearing`
+        - `going`
   - 例句
     - `Scorpio The Scorpio animus is that intense, magnetic and mysterious creature clearly hiding volumes of dark secrets beneath a super-cool and calculated demeanor.`
       - 天蝎座——天蝎座女性的男性意向热情、极富吸引力、神秘，在他故意耍酷的行为背后无疑隐藏了许多隐秘之事。

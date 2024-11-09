@@ -1,13 +1,17 @@
 - pepsin
   - 发音
-    - 英 `/'pepsin/`
-    - 美 `/'pɛpsɪn/`
+    - 英
+      - `/'pepsin/`
+    - 美
+      - `/'pɛpsɪn/`
   - 词义
-    - n. 胃蛋白酶
-    - `a liquid in your stomach that changes food into a form that your body can use`
+    - n.
+      - 胃蛋白酶
+        - `a liquid in your stomach that changes food into a form that your body can use`
   - 同根词
     - n.
-      - `pepsinogen` 胃蛋白酶原
+      - `pepsinogen`
+        - 胃蛋白酶原
   - 例句
     - `METHODS: Retinal vascular preparations were performed by using trypsin digestion and pepsin-trypsin digestion technique respectively.`
       - 方法：分别用胰蛋白酶消化法及胃蛋白酶-胰蛋白酶联合消化法制备视网膜血管铺片，比较铺片成功率。

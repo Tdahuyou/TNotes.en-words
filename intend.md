@@ -1,29 +1,38 @@
 - intend
   - 发音
-    - 英 `/ɪn'tend/`
-    - 美 `/ɪn'tɛnd/`
+    - 英
+      - `/ɪn'tend/`
+    - 美
+      - `/ɪn'tɛnd/`
   - 词义
-    - v. 计划；打算
-    - `If you intend to do something, you have decided or planned to do it`
+    - v.
+      - 计划；打算
+        - `If you intend to do something, you have decided or planned to do it`
   - 记忆
     - in(向内) ＋ tend(伸展) → 向内伸展 → 想要， 打算
   - 同根词
     - adj.
-      - `intended` 故意的，有意的；打算中的
+      - `intended`
+        - 故意的，有意的；打算中的
     - n.
-      - `intended` 已订婚者
+      - `intended`
+        - 已订婚者
     - v.
-      - `intended` 打算；准备（intend的过去分词）
+      - `intended`
+        - 打算；准备（intend的过去分词）
   - 近义词
-    - vt. 打算；想要；意指
-      - `feel like`
-      - `propose`
-      - `wanna`
-      - `think`
-      - `desire`
+    - vt.
+      - 打算；想要；意指
+        - `feel like`
+        - `propose`
+        - `wanna`
+        - `think`
+        - `desire`
   - 短语
-    - `intend to do` 想要做；想要做某事 
-    - `intend for` 希望有或接到；打算成为…… 
+    - `intend to do`
+      - 想要做；想要做某事 
+    - `intend for`
+      - 希望有或接到；打算成为…… 
   - 例句
     - `Maybe he intends to leave her.`
       - 也许他打算离开她。

@@ -1,24 +1,32 @@
 - ambitious
   - 发音
-    - 英 `/æm'bɪʃəs/`
-    - 美 `/æm'bɪʃəs/`
+    - 英
+      - `/æm'bɪʃəs/`
+    - 美
+      - `/æm'bɪʃəs/`
   - 词义
-    - adj. 有雄心的，有野心的
-    - `determined to be successful, rich, powerful etc`
+    - adj.
+      - 有雄心的，有野心的
+        - `determined to be successful, rich, powerful etc`
   - 记忆
     - 来自ambition(n. 雄心， 野心)
   - 同根词
     - adv.
-      - `ambitiously` 雄心勃勃地；劲头十足地；热切地
+      - `ambitiously`
+        - 雄心勃勃地；劲头十足地；热切地
     - n.
-      - `ambition` 野心，雄心；抱负，志向
-      - `ambitiousness` 不凡的抱负
+      - `ambition`
+        - 野心，雄心；抱负，志向
+      - `ambitiousness`
+        - 不凡的抱负
     - vt.
-      - `ambition` 追求；有…野心
+      - `ambition`
+        - 追求；有…野心
   - 近义词
-    - adj. 野心勃勃的；有雄心的；热望的；炫耀的
-      - `thirsty`
-      - `eager-beaver`
+    - adj.
+      - 野心勃勃的；有雄心的；热望的；炫耀的
+        - `thirsty`
+        - `eager-beaver`
   - 例句
     - `Alfred was intensely ambitious, obsessed with the idea of becoming rich.`
       - 艾尔弗雷德雄心勃勃，一心想着发财。

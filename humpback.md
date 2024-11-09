@@ -1,22 +1,30 @@
 - humpback
   - 发音
-    - 英 `/'hʌm(p)bæk/`
-    - 美 `/'hʌmpbæk/`
+    - 英
+      - `/'hʌm(p)bæk/`
+    - 美
+      - `/'hʌmpbæk/`
   - 词义
-    - n. 驼背；座头鲸
-    - `a  humpback whale `
+    - n.
+      - 驼背；座头鲸
+        - `a  humpback whale `
   - 同根词
     - adj.
-      - `humped` 有瘤的；驼背的；有肉峰的
-      - `humpbacked` 驼背的
+      - `humped`
+        - 有瘤的；驼背的；有肉峰的
+      - `humpbacked`
+        - 驼背的
     - v.
-      - `humped` 使隆起；使烦闷（hump的过去分词）
+      - `humped`
+        - 使隆起；使烦闷（hump的过去分词）
   - 近义词
-    - n. [外科]驼背；座头鲸
-      - `kyphosis`
-      - `hunchback`
+    - n.
+      - [外科]驼背；座头鲸
+        - `kyphosis`
+        - `hunchback`
   - 短语
-    - `humpback whale` 座头鲸；驼背鲸 
+    - `humpback whale`
+      - 座头鲸；驼背鲸 
   - 例句
     - `We camped with a view of the sea and went to see humpback and minke whales spouting yards from the boat.`
       - 我们在能看见海景的地方扎了营，去观赏了座头鲸和小须鲸，它们就在小船几码远的地方喷水。

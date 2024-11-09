@@ -1,13 +1,18 @@
 - lifelong
   - 发音
-    - 英 `/'laɪflɒŋ/`
-    - 美 `/'laɪf'lɔŋ/`
+    - 英
+      - `/'laɪflɒŋ/`
+    - 美
+      - `/'laɪf'lɔŋ/`
   - 词义
-    - adj. 终生的
-    - `continuing or existing all through your life`
+    - adj.
+      - 终生的
+        - `continuing or existing all through your life`
   - 短语
-    - `lifelong learning` 终身学习；终生学习 
-    - `lifelong education` 终身教育；终生教育 
+    - `lifelong learning`
+      - 终身学习；终生学习 
+    - `lifelong education`
+      - 终身教育；终生教育 
   - 例句
     - `She became a lifelong friend of ours.`
       - 她成了我们一辈子的朋友。

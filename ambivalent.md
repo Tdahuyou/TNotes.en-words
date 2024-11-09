@@ -1,19 +1,24 @@
 - ambivalent
   - 发音
-    - 英 `/æm'bɪvələnt/`
-    - 美 `/æm'bɪvələnt/`
+    - 英
+      - `/æm'bɪvələnt/`
+    - 美
+      - `/æm'bɪvələnt/`
   - 词义
-    - adj. 对立的，感情矛盾的
-    - `not sure whether you want or like something or not`
+    - adj.
+      - 对立的，感情矛盾的
+        - `not sure whether you want or like something or not`
   - 记忆
     - ambi(双方的) + val(力量) + ent → 双方都有力量的 → 对立的， 感情矛盾的
   - 同根词
     - n.
-      - `ambivalence` [心理] 矛盾情绪；正反感情并存
+      - `ambivalence`
+        - [心理] 矛盾情绪；正反感情并存
   - 近义词
-    - adj. 矛盾的；好恶相克的
-      - `contradictory`
-      - `conflictive`
+    - adj.
+      - 矛盾的；好恶相克的
+        - `contradictory`
+        - `conflictive`
   - 例句
     - `When it comes to love, we're ambivalent about "opposites attract".`
       - 说到“爱情”，我们对“异性相吸”怀有矛盾的看法。

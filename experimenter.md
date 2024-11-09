@@ -1,13 +1,17 @@
 - experimenter
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 实验者
+    - n.
+      - 实验者
   - 近义词
-    - n. 实验者，试验者
-      - `trier`
-      - `treves`
+    - n.
+      - 实验者，试验者
+        - `trier`
+        - `treves`
   - 例句
     - `The experimenter said “Look at my toy!`
       - 试验者对孩子说：“看看我的玩具！

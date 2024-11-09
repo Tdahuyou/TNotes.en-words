@@ -1,24 +1,31 @@
 - expiate
   - 发音
-    - 英 `/'ekspieit/`
-    - 美 `/'ɛkspɪet/`
+    - 英
+      - `/'ekspieit/`
+    - 美
+      - `/'ɛkspɪet/`
   - 词义
-    - v. 赎罪；补偿
-    - `If you expiate guilty feelings or bad behaviour, you do something to indicate that you are sorry for what you have done`
+    - v.
+      - 赎罪；补偿
+        - `If you expiate guilty feelings or bad behaviour, you do something to indicate that you are sorry for what you have done`
   - 记忆
     - ex (出) + pi ( = pious， 虔诚) + ate → 虔诚地拿出 → 补偿
   - 同根词
     - adj.
-      - `expiatory` 赎罪的；补偿的
+      - `expiatory`
+        - 赎罪的；补偿的
     - n.
-      - `expiation` 补偿；赎罪
+      - `expiation`
+        - 补偿；赎罪
   - 近义词
-    - vt. 赎罪；补偿
-      - `pay`
-      - `make good`
-    - vi. 赎罪；补偿
-      - `make good`
-      - `to make up for`
+    - vt.
+      - 赎罪；补偿
+        - `pay`
+        - `make good`
+    - vi.
+      - 赎罪；补偿
+        - `make good`
+        - `to make up for`
   - 例句
     - `It seemed that Alice was expiating her father's sins with her charity work.`
       - 看来爱丽丝要用自己的善行来赎她父亲的罪恶。

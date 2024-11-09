@@ -1,34 +1,49 @@
 - malign
   - 发音
-    - 英 `/mə'lain/`
-    - 美 `/mə'laɪn/`
+    - 英
+      - `/mə'lain/`
+    - 美
+      - `/mə'laɪn/`
   - 词义
-    - v. 诽谤
-    - `to say unpleasant things about someone that are untrue`
-    - adj. 恶毒的
+    - v.
+      - 诽谤
+        - `to say unpleasant things about someone that are untrue`
+    - adj.
+      - 恶毒的
   - 记忆
     - mal (坏) + ign (看作sign， 记号) → 冠以恶名 → 诽谤
   - 同根词
     - adj.
-      - `malicious` 恶意的；恶毒的；蓄意的；怀恨的
-      - `malignant` [医] 恶性的；有害的；有恶意的
+      - `malicious`
+        - 恶意的；恶毒的；蓄意的；怀恨的
+      - `malignant`
+        - [医] 恶性的；有害的；有恶意的
     - adv.
-      - `maliciously` 有敌意地，恶意地
-      - `malignantly` 怀恶意
+      - `maliciously`
+        - 有敌意地，恶意地
+      - `malignantly`
+        - 怀恶意
     - n.
-      - `malignant` 保王党员；怀恶意的人
-      - `malignancy` 恶性（肿瘤等）；恶意
-      - `maliciousness` 恶意
-      - `maligner` 诽谤者；中伤者
-      - `malignity` 恶意；怨恨；狠毒
+      - `malignant`
+        - 保王党员；怀恶意的人
+      - `malignancy`
+        - 恶性（肿瘤等）；恶意
+      - `maliciousness`
+        - 恶意
+      - `maligner`
+        - 诽谤者；中伤者
+      - `malignity`
+        - 恶意；怨恨；狠毒
   - 近义词
-    - vt. 诽谤，污蔑；中伤，说坏话
-      - `wrong`
-      - `asperse`
-    - adj. 恶意的，恶性的；有害的
-      - `harmful`
-      - `evil`
-      - `vicious`
+    - vt.
+      - 诽谤，污蔑；中伤，说坏话
+        - `wrong`
+        - `asperse`
+    - adj.
+      - 恶意的，恶性的；有害的
+        - `harmful`
+        - `evil`
+        - `vicious`
   - 例句
     - `She had seen herself repeatedly maligned in the newspapers.`
       - 她看到自己在报纸上一再受到诽谤。

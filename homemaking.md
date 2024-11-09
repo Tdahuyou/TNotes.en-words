@@ -1,13 +1,17 @@
 - homemaking
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 家政
+    - n.
+      - 家政
   - 近义词
-    - n. 家政
-      - `housekeeping`
-      - `husbandry`
+    - n.
+      - 家政
+        - `housekeeping`
+        - `husbandry`
   - 例句
     - `Titus 2 instructs older women to mentor younger women, and teach them to care for their husbands and children and homemaking responsibilities.`
       - 泰特斯 2让年长的女人去教导年轻女子，让她们照看好自己的丈夫、孩子和家庭。

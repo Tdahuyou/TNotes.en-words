@@ -1,22 +1,30 @@
 - collapsible
   - 发音
-    - 英 `/kə'læpsəbl/`
-    - 美 `/kə'læpsəbl/`
+    - 英
+      - `/kə'læpsəbl/`
+    - 美
+      - `/kə'læpsəbl/`
   - 词义
-    - adj. 可折叠的;可拆卸的
-    - `something collapsible can be folded so that it uses less space`
+    - adj.
+      - 可折叠的;可拆卸的
+        - `something collapsible can be folded so that it uses less space`
   - 同根词
     - n.
-      - `collapse` 倒塌；失败；衰竭
-      - `collapsibility` 崩散性；易坍塌性
+      - `collapse`
+        - 倒塌；失败；衰竭
+      - `collapsibility`
+        - 崩散性；易坍塌性
     - vi.
-      - `collapse` 倒塌；瓦解；暴跌
+      - `collapse`
+        - 倒塌；瓦解；暴跌
     - vt.
-      - `collapse` 使倒塌，使崩溃；使萎陷
+      - `collapse`
+        - 使倒塌，使崩溃；使萎陷
   - 近义词
-    - adj. 可折叠的；可拆卸的
-      - `folding`
-      - `accordion`
+    - adj.
+      - 可折叠的；可拆卸的
+        - `folding`
+        - `accordion`
   - 例句
     - `a collapsible chair`
       - 折叠式椅子

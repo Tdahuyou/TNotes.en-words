@@ -1,15 +1,21 @@
 - incrustation
   - 发音
-    - 英 `/,ɪnkrʌs'teɪʃən/`
-    - 美 `/,ɪnkrʌ'steʃən/`
+    - 英
+      - `/,ɪnkrʌs'teɪʃən/`
+    - 美
+      - `/,ɪnkrʌ'steʃən/`
   - 词义
-    - n. 结壳,用覆盖物,镶嵌,硬壳
+    - n.
+      - 结壳,用覆盖物,镶嵌,硬壳
   - 同根词
     - vi.
-      - `incrust` 生外皮
+      - `incrust`
+        - 生外皮
     - vt.
-      - `incrust` 覆之以皮；生外皮；包壳；镶饰
+      - `incrust`
+        - 覆之以皮；生外皮；包壳；镶饰
   - 近义词
-    - n. 硬壳；镶嵌物；水锈；痂（等于encrustation）
-      - `duricrust`
-      - `encrustation`
+    - n.
+      - 硬壳；镶嵌物；水锈；痂（等于encrustation）
+        - `duricrust`
+        - `encrustation`

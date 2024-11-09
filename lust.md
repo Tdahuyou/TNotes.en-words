@@ -1,23 +1,31 @@
 - lust
   - 发音
-    - 英 `/lʌst/`
-    - 美 `/lʌst/`
+    - 英
+      - `/lʌst/`
+    - 美
+      - `/lʌst/`
   - 词义
-    - v. 对…有强烈的欲望
-    - n. 性欲；强烈的欲望
-    - `very strong sexual desire, especially when it does not include love`
+    - v.
+      - 对…有强烈的欲望
+    - n.
+      - 性欲；强烈的欲望
+        - `very strong sexual desire, especially when it does not include love`
   - 同根词
     - adj.
-      - `lustful` 好色的；贪欲的；渴望的
+      - `lustful`
+        - 好色的；贪欲的；渴望的
   - 近义词
-    - n. 性欲；强烈的欲望
-      - `sexual desire`
-      - `libido`
-    - vi. 贪求，渴望
-      - `rare`
-      - `aspire`
+    - n.
+      - 性欲；强烈的欲望
+        - `sexual desire`
+        - `libido`
+    - vi.
+      - 贪求，渴望
+        - `rare`
+        - `aspire`
   - 短语
-    - `lust for` 贪求 
+    - `lust for`
+      - 贪求 
   - 例句
     - `My feelings for Lauren were pure lust.`
       - 我对劳伦的感觉纯粹是肉欲。

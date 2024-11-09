@@ -1,16 +1,20 @@
 - brothel
   - 发音
-    - 英 `/'brɒθ(ə)l/`
-    - 美 `/'brɑθl/`
+    - 英
+      - `/'brɒθ(ə)l/`
+    - 美
+      - `/'brɑθl/`
   - 词义
-    - n. 妓院
-    - `a house where men pay to have sex with  prostitute s `
+    - n.
+      - 妓院
+        - `a house where men pay to have sex with  prostitute s `
   - 近义词
-    - n. 妓院
-      - `bordello`
-      - `bawdyhouse`
-      - `lupanar`
-      - `hookshop`
+    - n.
+      - 妓院
+        - `bordello`
+        - `bawdyhouse`
+        - `lupanar`
+        - `hookshop`
   - 例句
     - `When she refused his advances he had her sent to a brothel.`
       - 在遭到阿嘉莎的拒绝后，他把她送到了一所妓院之中。

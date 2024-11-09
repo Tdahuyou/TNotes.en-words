@@ -1,16 +1,22 @@
 - angioplasty
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 血管成形术
-    - `a surgical technique for restoring normal blood flow through an artery narrowed or blocked by atherosclerosis, either by inserting a balloon into the narrowed section and inflating it or by using a laser beam `
+    - n.
+      - 血管成形术
+        - `a surgical technique for restoring normal blood flow through an artery narrowed or blocked by atherosclerosis, either by inserting a balloon into the narrowed section and inflating it or by using a laser beam `
   - 同根词
     - n.
-      - `angiopathy` 血管病；淋巴管病
+      - `angiopathy`
+        - 血管病；淋巴管病
   - 短语
-    - `balloon angioplasty` [外科学]气囊血管成形术；球囊成形术（等于percutaneous transluminal angioplasty） 
-    - `transluminal angioplasty` 腔间血管成形术 
+    - `balloon angioplasty`
+      - [外科学]气囊血管成形术；球囊成形术（等于percutaneous transluminal angioplasty） 
+    - `transluminal angioplasty`
+      - 腔间血管成形术 
   - 例句
     - `My uncle recently had angioplasty done.`
       - 我的叔叔最近做了血管成形术。

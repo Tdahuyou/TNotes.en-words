@@ -1,10 +1,13 @@
 - sidereal
   - 发音
-    - 英 `/saɪ'dɪərɪəl/`
-    - 美 `/saɪ'dɪrɪəl/`
+    - 英
+      - `/saɪ'dɪərɪəl/`
+    - 美
+      - `/saɪ'dɪrɪəl/`
   - 词义
-    - adj. 恒星的
-    - `of, relating to, or involving the stars `
+    - adj.
+      - 恒星的
+        - `of, relating to, or involving the stars `
   - 例句
     - `Tropical year , and sidereal year are two different concepts .`
       - 在即回归年与恒星年是不同的两个概念。

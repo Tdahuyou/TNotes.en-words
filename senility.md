@@ -1,20 +1,29 @@
 - senility
   - 发音
-    - 英 `/sɪ'nɪlɪtɪ/`
-    - 美 `/sɛ'nɪləti/`
+    - 英
+      - `/sɪ'nɪlɪtɪ/`
+    - 美
+      - `/sɛ'nɪləti/`
   - 词义
-    - n. [基医]衰老；高龄；老态龙钟
+    - n.
+      - [基医]衰老；高龄；老态龙钟
   - 同根词
     - adj.
-      - `senile` 高龄的；老衰的；高龄所致的
-      - `senescent` 衰老的；变老的；老化的
+      - `senile`
+        - 高龄的；老衰的；高龄所致的
+      - `senescent`
+        - 衰老的；变老的；老化的
     - n.
-      - `senescence` 衰老
-    - vi.
-      - `senesce` 开始衰老
-  - 近义词
-    - n. [基医]衰老；高龄；老态龙钟
       - `senescence`
-      - `consenescence`
+        - 衰老
+    - vi.
+      - `senesce`
+        - 开始衰老
+  - 近义词
+    - n.
+      - [基医]衰老；高龄；老态龙钟
+        - `senescence`
+        - `consenescence`
   - 短语
-    - `delay senility` 延缓衰老 
+    - `delay senility`
+      - 延缓衰老 

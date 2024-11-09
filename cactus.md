@@ -1,14 +1,18 @@
 - cactus
   - 发音
-    - 英 `/'kæktəs/`
-    - 美 `/'kæktəs/`
+    - 英
+      - `/'kæktəs/`
+    - 美
+      - `/'kæktəs/`
   - 词义
-    - n. 仙人掌
-    - `a desert plant with sharp points instead of leaves`
+    - n.
+      - 仙人掌
+        - `a desert plant with sharp points instead of leaves`
   - 近义词
-    - n. [园艺]仙人掌
-      - `Cholla Stem`
-      - `cholla`
+    - n.
+      - [园艺]仙人掌
+        - `Cholla Stem`
+        - `cholla`
   - 例句
     - `We have to water this cactus once a month.`
       - 我们必须每月给仙人掌浇一次水。

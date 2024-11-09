@@ -1,21 +1,28 @@
 - cozy
   - 发音
-    - 英 `/'kəuzi/`
-    - 美 `/'kozi/`
+    - 英
+      - `/'kəuzi/`
+    - 美
+      - `/'kozi/`
   - 词义
-    - adj. 温暖而舒适的
+    - adj.
+      - 温暖而舒适的
   - 同根词
     - adv.
-      - `cozily` 舒适地；安乐地；安逸地
+      - `cozily`
+        - 舒适地；安乐地；安逸地
     - n.
-      - `coziness` 安逸，舒适；畅快
+      - `coziness`
+        - 安逸，舒适；畅快
   - 近义词
-    - adj. 舒适的，惬意的
-      - `comfortable`
-      - `pleasant`
-      - `easy`
+    - adj.
+      - 舒适的，惬意的
+        - `comfortable`
+        - `pleasant`
+        - `easy`
   - 短语
-    - `cozy up to` 奉承，取悦 
+    - `cozy up to`
+      - 奉承，取悦 
   - 例句
     - `And on that bed there is a granny, a snoring granny on a cozy bed in a napping house, where everyone is sleeping.`
       - 床上有一位老奶奶，一个打着鼾的奶奶睡在舒适的床上，在那打瞌睡的房子里，每个人都在睡觉。

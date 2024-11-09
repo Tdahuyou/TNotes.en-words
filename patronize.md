@@ -1,28 +1,38 @@
 - patronize
   - 发音
-    - 英 `/'peɪtrənaɪz/`
-    - 美 `/ˈpeɪtrəˌnaɪz;ˈpætrənˌaɪz/`
+    - 英
+      - `/'peɪtrənaɪz/`
+    - 美
+      - `/ˈpeɪtrəˌnaɪz;ˈpætrənˌaɪz/`
   - 词义
-    - v. 以高人一等的态度对待；光顾；赞助，资助
-    - `to talk to someone in a way which seems friendly but shows that you think they are not as intelligent or do not know as much as you`
+    - v.
+      - 以高人一等的态度对待；光顾；赞助，资助
+        - `to talk to someone in a way which seems friendly but shows that you think they are not as intelligent or do not know as much as you`
   - 记忆
     - patr(父亲) + on + ize → 扮演父亲的角色 → 赞助
   - 同根词
     - adj.
-      - `patronizing` 要人领情的；屈尊俯就的；以恩人态度自居的
+      - `patronizing`
+        - 要人领情的；屈尊俯就的；以恩人态度自居的
     - n.
-      - `patron` 赞助人；保护人；主顾
-      - `patronage` 赞助；光顾；任免权
-      - `patroness` 女主顾；女资助人；女保护人
+      - `patron`
+        - 赞助人；保护人；主顾
+      - `patronage`
+        - 赞助；光顾；任免权
+      - `patroness`
+        - 女主顾；女资助人；女保护人
     - v.
-      - `patronizing` 屈尊俯就（patronize的现在分词）
+      - `patronizing`
+        - 屈尊俯就（patronize的现在分词）
     - vt.
-      - `patronise` （英）保护（等于patronize）
+      - `patronise`
+        - （英）保护（等于patronize）
   - 近义词
-    - vt. 惠顾；资助；保护
-      - `fund`
-      - `secure`
-      - `preserve`
+    - vt.
+      - 惠顾；资助；保护
+        - `fund`
+        - `secure`
+        - `preserve`
   - 例句
     - `Don’t patronize me!`
       - 别对我摆出一副纡尊降贵的样子！

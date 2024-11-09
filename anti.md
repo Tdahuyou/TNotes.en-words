@@ -1,13 +1,18 @@
 - anti
   - 发音
-    - 英 `/'æntɪ/`
-    - 美 `/'æntaɪ/`
+    - 英
+      - `/'æntɪ/`
+    - 美
+      - `/'æntaɪ/`
   - 词义
-    - n. 反对者a反对的
+    - n.
+      - 反对者a反对的
   - 近义词
-    - adj. 反对的
-      - `averse`
-      - `opposing`
-    - n. 反对者，反对论者
-      - `opponent`
-      - `objector`
+    - adj.
+      - 反对的
+        - `averse`
+        - `opposing`
+    - n.
+      - 反对者，反对论者
+        - `opponent`
+        - `objector`

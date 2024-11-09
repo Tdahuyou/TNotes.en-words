@@ -1,18 +1,25 @@
 - sagacious
   - 发音
-    - 英 `/sə'geiʃəs/`
-    - 美 `/sə'ɡeʃəs/`
+    - 英
+      - `/sə'geiʃəs/`
+    - 美
+      - `/sə'ɡeʃəs/`
   - 词义
-    - adj. 有洞察力的，有远见的；精明的，敏锐的
+    - adj.
+      - 有洞察力的，有远见的；精明的，敏锐的
   - 记忆
     - “是个神子” → 有远见， 像个神的孩子 → 有远见的
   - 同根词
     - adv.
-      - `sagaciously` 聪敏地
+      - `sagaciously`
+        - 聪敏地
     - n.
-      - `sagacity` 睿智；聪敏；有远见
-      - `sagaciousness` 聪敏，睿智
+      - `sagacity`
+        - 睿智；聪敏；有远见
+      - `sagaciousness`
+        - 聪敏，睿智
   - 近义词
-    - adj. 睿智的，聪慧的；有远见的，聪慧的
-      - `forward-looking`
-      - `far-sighted`
+    - adj.
+      - 睿智的，聪慧的；有远见的，聪慧的
+        - `forward-looking`
+        - `far-sighted`

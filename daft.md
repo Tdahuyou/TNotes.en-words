@@ -1,20 +1,27 @@
 - daft
   - 发音
-    - 英 `/dɑːft/`
-    - 美 `/dæft/`
+    - 英
+      - `/dɑːft/`
+    - 美
+      - `/dæft/`
   - 词义
-    - adj. 癫狂的；愚笨的；狂闹的
-    - `silly`
-    - n. (Daft)人名；(英)达夫特
+    - adj.
+      - 癫狂的；愚笨的；狂闹的
+        - `silly`
+    - n.
+      - (Daft)人名；(英)达夫特
   - 同根词
     - adv.
-      - `daftly` 癫狂地；愚蠢地
+      - `daftly`
+        - 癫狂地；愚蠢地
     - n.
-      - `daftness` 癫狂；愚笨
+      - `daftness`
+        - 癫狂；愚笨
   - 近义词
-    - adj. 癫狂的；愚笨的；狂闹的
-      - `imbecilic`
-      - `mullet-headed`
+    - adj.
+      - 癫狂的；愚笨的；狂闹的
+        - `imbecilic`
+        - `mullet-headed`
   - 例句
     - `a daft idea`
       - 傻主意

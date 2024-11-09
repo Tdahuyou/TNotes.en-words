@@ -1,14 +1,18 @@
 - awl
   - 发音
-    - 英 `/ɔːl/`
-    - 美 `/ɔl/`
+    - 英
+      - `/ɔːl/`
+    - 美
+      - `/ɔl/`
   - 词义
-    - n. 锥子,尖钻
-    - `a pointed tool for making holes in leather`
+    - n.
+      - 锥子,尖钻
+        - `a pointed tool for making holes in leather`
   - 近义词
-    - n. [五金]锥子；尖钻
-      - `bodkin`
-      - `pointed drill`
+    - n.
+      - [五金]锥子；尖钻
+        - `bodkin`
+        - `pointed drill`
   - 例句
     - `Again he drove the awl and needle into her.`
       - 他便又一次掏出锥子和针，要扎她。

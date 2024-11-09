@@ -1,32 +1,48 @@
 - rocky
   - 发音
-    - 英 `/'rɒkɪ/`
-    - 美 `/'rɑki/`
+    - 英
+      - `/'rɒkɪ/`
+    - 美
+      - `/'rɑki/`
   - 词义
-    - adj. 岩石的,稳固的
-    - `covered with rocks or made of rock`
+    - adj.
+      - 岩石的,稳固的
+        - `covered with rocks or made of rock`
   - 同根词
     - adj.
-      - `rocklike` 石头般的；坚硬如岩石的
+      - `rocklike`
+        - 石头般的；坚硬如岩石的
     - n.
-      - `rock` 岩石；摇滚乐；暗礁
-      - `rocker` 摇杆；摇的人；镰刀弯；套钩；摇轴
-      - `rockiness` 坚硬性；稳固；冷酷；困难
-      - `rockslide` 岩滑；崩落的岩石
-      - `rockweed` 生在海岸岩石上的海草
+      - `rock`
+        - 岩石；摇滚乐；暗礁
+      - `rocker`
+        - 摇杆；摇的人；镰刀弯；套钩；摇轴
+      - `rockiness`
+        - 坚硬性；稳固；冷酷；困难
+      - `rockslide`
+        - 岩滑；崩落的岩石
+      - `rockweed`
+        - 生在海岸岩石上的海草
     - vi.
-      - `rock` 摇动；摇晃
+      - `rock`
+        - 摇动；摇晃
     - vt.
-      - `rock` 摇动；使摇晃
+      - `rock`
+        - 摇动；使摇晃
   - 近义词
-    - adj. 岩石的，多岩石的；坚如岩石的；摇晃的；头晕目眩的
-      - `petrous`
-      - `lithological`
+    - adj.
+      - 岩石的，多岩石的；坚如岩石的；摇晃的；头晕目眩的
+        - `petrous`
+        - `lithological`
   - 短语
-    - `rocky mountain` 落基山（脉）；洛矶山（脉） 
-    - `rocky desert` 岩质沙漠 
-    - `rocky coast` 岩石海岸 
-    - `rocky road` 坎坷崎岖的路 
+    - `rocky mountain`
+      - 落基山（脉）；洛矶山（脉） 
+    - `rocky desert`
+      - 岩质沙漠 
+    - `rocky coast`
+      - 岩石海岸 
+    - `rocky road`
+      - 坎坷崎岖的路 
   - 例句
     - `a rocky cliff`
       - 岩石嶙峋的峭壁

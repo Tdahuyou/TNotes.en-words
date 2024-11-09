@@ -1,13 +1,17 @@
 - colander
   - 发音
-    - 英 `/'kʌləndə; 'kɒl-/`
-    - 美 `/'kɑləndɚ/`
+    - 英
+      - `/'kʌləndə; 'kɒl-/`
+    - 美
+      - `/'kɑləndɚ/`
   - 词义
-    - n. 滤器,漏锅
-    - `a metal or plastic bowl with a lot of small holes in the bottom and sides, used to separate liquid from food`
+    - n.
+      - 滤器,漏锅
+        - `a metal or plastic bowl with a lot of small holes in the bottom and sides, used to separate liquid from food`
   - 近义词
-    - n. 滤器，滤锅
-      - `cullender`
+    - n.
+      - 滤器，滤锅
+        - `cullender`
   - 例句
     - `She took a colander and, of course, first of all we would wash the lettuce, that goes without saying.`
       - 她会找一个滤锅,当然，先洗菜。

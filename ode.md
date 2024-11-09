@@ -1,14 +1,18 @@
 - ode
   - 发音
-    - 英 `/əʊd/`
-    - 美 `/od/`
+    - 英
+      - `/əʊd/`
+    - 美
+      - `/od/`
   - 词义
-    - n. 赋；颂歌；颂诗
-    - `a poem or song written in order to praise a person or thing`
+    - n.
+      - 赋；颂歌；颂诗
+        - `a poem or song written in order to praise a person or thing`
   - 近义词
-    - n. 赋；颂歌；颂诗
-      - `epithalamion`
-      - `mantra`
+    - n.
+      - 赋；颂歌；颂诗
+        - `epithalamion`
+        - `mantra`
   - 例句
     - `...Keats' "Ode to a Nightingale."`
       - ...济慈的《夜莺颂》。

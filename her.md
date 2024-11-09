@@ -1,10 +1,13 @@
 - her
   - 发音
-    - 英 `/hɜː/`
-    - 美 `/hɚ/`
+    - 英
+      - `/hɜː/`
+    - 美
+      - `/hɚ/`
   - 词义
-    - pron. 她的
-    - `used to refer to a woman, girl, or female animal that has already been mentioned or is already known about`
+    - pron.
+      - 她的
+        - `used to refer to a woman, girl, or female animal that has already been mentioned or is already known about`
   - 例句
     - `Jane? I don’t really know her.`
       - 简？我不太认识她。

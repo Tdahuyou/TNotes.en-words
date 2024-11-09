@@ -1,24 +1,35 @@
 - humanness
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 为人,人性
+    - n.
+      - 为人,人性
   - 同根词
     - adj.
-      - `human` 人的；人类的
-      - `humane` 仁慈的，人道的；高尚的
+      - `human`
+        - 人的；人类的
+      - `humane`
+        - 仁慈的，人道的；高尚的
     - n.
-      - `human` 人；人类
-      - `humanise` 变得有人性；变得仁慈；有教化力（等于humanize）
+      - `human`
+        - 人；人类
+      - `humanise`
+        - 变得有人性；变得仁慈；有教化力（等于humanize）
     - vi.
-      - `humanize` 变为有人性；有教化
+      - `humanize`
+        - 变为有人性；有教化
     - vt.
-      - `humanize` 教化；赋予人性；使通人情
-      - `humanise` （英）使人性化；使文明化
+      - `humanize`
+        - 教化；赋予人性；使通人情
+      - `humanise`
+        - （英）使人性化；使文明化
   - 近义词
-    - n. 为人，为人的资格；人性
-      - `human nature`
+    - n.
+      - 为人，为人的资格；人性
+        - `human nature`
   - 例句
     - `I now ask you to recognize the Christ within, and to return to me my humanness.`
       - 现在我要求你们发现自己的内在基督，把我的人性还给我。

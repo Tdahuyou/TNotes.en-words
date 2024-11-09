@@ -1,21 +1,27 @@
 - inanimate
   - 发音
-    - 英 `/ɪn'ænɪmət/`
-    - 美 `/ɪn'ænɪmət/`
+    - 英
+      - `/ɪn'ænɪmət/`
+    - 美
+      - `/ɪn'ænɪmət/`
   - 词义
-    - adj. 无生命的；无生气的
-    - `not living`
+    - adj.
+      - 无生命的；无生气的
+        - `not living`
   - 记忆
     - in(无) + anim(生命) + ate → 无生命的
   - 同根词
     - n.
-      - `inanimateness` 无生性；非动物（inanimate名词）
+      - `inanimateness`
+        - 无生性；非动物（inanimate名词）
   - 近义词
-    - adj. [医]无生命的；无生气的
-      - `dead`
-      - `lifeless`
+    - adj.
+      - [医]无生命的；无生气的
+        - `dead`
+        - `lifeless`
   - 短语
-    - `inanimate object` 无生物；静物 
+    - `inanimate object`
+      - 无生物；静物 
   - 例句
     - `an inanimate object`
       - 无生命的物体

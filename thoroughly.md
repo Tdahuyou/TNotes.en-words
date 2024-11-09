@@ -1,27 +1,36 @@
 - thoroughly
   - 发音
-    - 英 `/ˈθʌrəli/`
-    - 美 `/ˈθʌrəʊli; θʌroli/`
+    - 英
+      - `/ˈθʌrəli/`
+    - 美
+      - `/ˈθʌrəʊli; θʌroli/`
   - 词义
-    - adv. 十分地,彻底地
-    - `carefully, so that nothing is forgotten`
+    - adv.
+      - 十分地,彻底地
+        - `carefully, so that nothing is forgotten`
   - 同根词
     - adj.
-      - `thorough` 彻底的；十分的；周密的
-      - `thoroughgoing` 完全的，彻底的
+      - `thorough`
+        - 彻底的；十分的；周密的
+      - `thoroughgoing`
+        - 完全的，彻底的
     - n.
-      - `thoroughness` 十分，完全；彻底
+      - `thoroughness`
+        - 十分，完全；彻底
   - 近义词
-    - adv. 彻底地，完全地
-      - `entirely`
-      - `completely`
-      - `totally`
-      - `fully`
-      - `absolutely`
-      - `strictly`
+    - adv.
+      - 彻底地，完全地
+        - `entirely`
+        - `completely`
+        - `totally`
+        - `fully`
+        - `absolutely`
+        - `strictly`
   - 短语
-    - `rinse thoroughly` 彻底清洗 
-    - `thoroughly remould oneself` 脱胎换骨 
+    - `rinse thoroughly`
+      - 彻底清洗 
+    - `thoroughly remould oneself`
+      - 脱胎换骨 
   - 例句
     - `The room had been thoroughly cleaned.`
       - 房间彻底打扫过了。

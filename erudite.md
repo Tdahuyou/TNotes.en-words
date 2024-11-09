@@ -1,24 +1,30 @@
 - erudite
   - 发音
-    - 英 `/'erudait/`
-    - 美 `/'ɛrudaɪt/`
+    - 英
+      - `/'erudait/`
+    - 美
+      - `/'ɛrudaɪt/`
   - 词义
-    - adj. 博学的
-    - `showing a lot of knowledge based on careful study`
+    - adj.
+      - 博学的
+        - `showing a lot of knowledge based on careful study`
   - 记忆
     - e (看作ex， 出) + rud (粗鲁的) + ite → 离开粗鲁的 → 有文化的 → 博学的
   - 同根词
     - adv.
-      - `eruditely` 博学；饱学
+      - `eruditely`
+        - 博学；饱学
     - n.
-      - `erudition` 博学；学识
+      - `erudition`
+        - 博学；学识
   - 近义词
-    - adj. 博学的；有学问的
-      - `learned`
-      - `knowing`
-      - `wise`
-      - `accomplished`
-      - `read`
+    - adj.
+      - 博学的；有学问的
+        - `learned`
+        - `knowing`
+        - `wise`
+        - `accomplished`
+        - `read`
   - 例句
     - `In a word, you are erudite and always open your eyes to new things.`
       - 总之，你是个博学的人，总是敞开胸怀对待新事物。

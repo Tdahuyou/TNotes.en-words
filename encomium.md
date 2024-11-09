@@ -1,14 +1,19 @@
 - encomium
   - 发音
-    - 英 `/en'kəʊmɪəm/`
-    - 美 `/ɛn'komɪəm/`
+    - 英
+      - `/en'kəʊmɪəm/`
+    - 美
+      - `/ɛn'komɪəm/`
   - 词义
-    - n. 赞辞,赞美,称赞
-    - `the expression of a lot of praise`
+    - n.
+      - 赞辞,赞美,称赞
+        - `the expression of a lot of praise`
   - 同根词
     - adj.
-      - `encomiastic` 赞颂的；阿谀的；赞美者的；颂词（似）的
+      - `encomiastic`
+        - 赞颂的；阿谀的；赞美者的；颂词（似）的
   - 近义词
-    - n. 赞美，称赞；赞辞
-      - `praise`
-      - `laudation`
+    - n.
+      - 赞美，称赞；赞辞
+        - `praise`
+        - `laudation`

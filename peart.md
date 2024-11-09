@@ -1,11 +1,15 @@
 - peart
   - 发音
-    - 英 `/pɪət; pjɜːt/`
-    - 美 `/piət/`
+    - 英
+      - `/pɪət; pjɜːt/`
+    - 美
+      - `/piət/`
   - 词义
-    - adj. 有精神的,快活的
-    - `lively; spirited; brisk `
+    - adj.
+      - 有精神的,快活的
+        - `lively; spirited; brisk `
   - 近义词
-    - adj. 有精神的；快活的
-      - `sunny`
-      - `invigorative`
+    - adj.
+      - 有精神的；快活的
+        - `sunny`
+        - `invigorative`

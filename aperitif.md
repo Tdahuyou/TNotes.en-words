@@ -1,15 +1,20 @@
 - aperitif
   - 发音
-    - 英 `/ə'perɪtiːf; ə,perɪ'tiːf/`
-    - 美 `/ə,pɛrə'tif/`
+    - 英
+      - `/ə'perɪtiːf; ə,perɪ'tiːf/`
+    - 美
+      - `/ə,pɛrə'tif/`
   - 词义
-    - n. 开胃酒
-    - `an alcoholic drink that people drink before a meal`
+    - n.
+      - 开胃酒
+        - `an alcoholic drink that people drink before a meal`
   - 近义词
-    - n. 开胃酒
-      - `appetizer wine`
+    - n.
+      - 开胃酒
+        - `appetizer wine`
   - 短语
-    - `aperitif wine` 开胃葡萄酒 
+    - `aperitif wine`
+      - 开胃葡萄酒 
   - 例句
     - `The rise of white wine as an aperitif can be traced to this date, and the co-operative of Plaimont – producers of this wine – were pioneers in the field.`
       - 始自这一时期，白葡萄酒渐渐被作为开胃酒，而制造它们的普莱蒙合作公司就是这一领域的先驱。

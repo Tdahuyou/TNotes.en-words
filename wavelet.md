@@ -1,13 +1,17 @@
 - wavelet
   - 发音
-    - 英 `/'weivlit/`
-    - 美 `/'wevlət/`
+    - 英
+      - `/'weivlit/`
+    - 美
+      - `/'wevlət/`
   - 词义
-    - n. 小浪；微波
-    - `Wavelets are small waves on the surface of a sea or lake`
+    - n.
+      - 小浪；微波
+        - `Wavelets are small waves on the surface of a sea or lake`
   - 近义词
-    - n. 微波，小浪
-      - `microwave`
+    - n.
+      - 微波，小浪
+        - `microwave`
   - 例句
     - `By applying wavelet analysis method to image edge detection, multi scale operator of wavelet analysis functions well for noise resisting ability and picture edge reserving.`
       - 将小波分析方法应用于图像边缘检测领域，小波分析的多尺度算子在抗噪声和保留图像边缘的能力上有比较好的效果。

@@ -1,7 +1,9 @@
 - Greenland
   - 发音
-    - 英 `/'ɡri:nlənd/`
-    - 美 `/'grinlənd/`
+    - 英
+      - `/'ɡri:nlənd/`
+    - 美
+      - `/'grinlənd/`
   - 词义
   - 例句
     - `Regardless of which version of Santa Claus you believe in, however, there is only one thing you need to know – that Santa Claus lives in Greenland.`

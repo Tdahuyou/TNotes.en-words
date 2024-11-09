@@ -1,21 +1,31 @@
 - glassmaker
   - 发音
-    - 英 `/'ɡlɑːs,meɪkə/`
-    - 美 `/'ɡlæs,mekɚ/`
+    - 英
+      - `/'ɡlɑːs,meɪkə/`
+    - 美
+      - `/'ɡlæs,mekɚ/`
   - 词义
-    - n. 玻璃工人
+    - n.
+      - 玻璃工人
   - 同根词
     - adj.
-      - `glassy` 像玻璃的；光亮透明的；呆滞的
+      - `glassy`
+        - 像玻璃的；光亮透明的；呆滞的
     - n.
-      - `glass` 玻璃；玻璃制品；镜子
-      - `glassware` 玻璃器皿；玻璃器具类
-      - `glassblower` 吹玻璃的人或机器
-      - `glasswork` 玻璃厂；玻璃制品；玻璃制造业
+      - `glass`
+        - 玻璃；玻璃制品；镜子
+      - `glassware`
+        - 玻璃器皿；玻璃器具类
+      - `glassblower`
+        - 吹玻璃的人或机器
+      - `glasswork`
+        - 玻璃厂；玻璃制品；玻璃制造业
     - vi.
-      - `glass` 成玻璃状
+      - `glass`
+        - 成玻璃状
     - vt.
-      - `glass` 反映；给某物加玻璃
+      - `glass`
+        - 反映；给某物加玻璃
   - 例句
     - `A glassmaker places a rounded piece of clay material on the end of a long metal stick.`
       - 一个玻璃制造商的地方长的金属棍年底的粘土材料的圆形片。

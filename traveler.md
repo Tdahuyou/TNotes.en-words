@@ -1,14 +1,18 @@
 - traveler
   - 发音
-    - 英 `/'trævələ/`
-    - 美 `/'trævlɚ/`
+    - 英
+      - `/'trævələ/`
+    - 美
+      - `/'trævlɚ/`
   - 词义
-    - n. 旅行者
-    - `a person who is travelling or who often travels`
+    - n.
+      - 旅行者
+        - `a person who is travelling or who often travels`
   - 近义词
-    - n. 旅行者；旅客；旅行推销员（等于traveller）
-      - `passenger`
-      - `tourist`
+    - n.
+      - 旅行者；旅客；旅行推销员（等于traveller）
+        - `passenger`
+        - `tourist`
   - 例句
     - `The message is the traveler, moving from one specific airport to another specific airport.`
       - 消息是这个旅行者，要从一个特定的机场到另一个特定的机场。

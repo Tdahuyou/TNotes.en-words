@@ -1,27 +1,35 @@
 - blunt
   - 发音
-    - 英 `/blʌnt/`
-    - 美 `/blʌnt/`
+    - 英
+      - `/blʌnt/`
+    - 美
+      - `/blʌnt/`
   - 词义
-    - adj. 钝的；不敏感的；直率的
-    - `not sharp or pointed`
-    - vt. 使迟钝；使减弱
-    - `to make a feeling less strong`
+    - adj.
+      - 钝的；不敏感的；直率的
+        - `not sharp or pointed`
+    - vt.
+      - 使迟钝；使减弱
+        - `to make a feeling less strong`
   - 记忆
     - “不拦的” → 口无遮拦的 → 直率的
   - 同根词
     - adv.
-      - `bluntly` 坦率地，直率地；迟钝地
+      - `bluntly`
+        - 坦率地，直率地；迟钝地
     - n.
-      - `bluntness` 钝；迟钝；率直
+      - `bluntness`
+        - 钝；迟钝；率直
   - 近义词
-    - adj. 钝的，不锋利的；生硬的；直率的
-      - `dull`
-      - `explicit`
-      - `naked`
-    - vt. 使迟钝
-      - `dull`
-      - `benumb`
+    - adj.
+      - 钝的，不锋利的；生硬的；直率的
+        - `dull`
+        - `explicit`
+        - `naked`
+    - vt.
+      - 使迟钝
+        - `dull`
+        - `benumb`
   - 例句
     - `Sharpen all your blunt knives.`
       - 把你所有的钝刀子都磨一磨。

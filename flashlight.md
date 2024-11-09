@@ -1,20 +1,28 @@
 - flashlight
   - 发音
-    - 英 `/'flæʃlaɪt/`
-    - 美 `/'flæʃlaɪt/`
+    - 英
+      - `/'flæʃlaɪt/`
+    - 美
+      - `/'flæʃlaɪt/`
   - 词义
-    - n. 闪光信号灯；手电筒；闪光灯
-    - `a small electric light that you can carry in your hand`
+    - n.
+      - 闪光信号灯；手电筒；闪光灯
+        - `a small electric light that you can carry in your hand`
   - 记忆
     - 会闪光(flash)的灯(light)， 猜一家用电器。答案： 手电筒(flashlight)
   - 同根词
     - adj.
-      - `flashing` 闪烁的；闪光的
-      - `flashy` 闪光的；瞬间的；俗丽的；暴躁的
+      - `flashing`
+        - 闪烁的；闪光的
+      - `flashy`
+        - 闪光的；瞬间的；俗丽的；暴躁的
     - n.
-      - `flashing` 闪光；防水板；遮雨板
-      - `flasher` 发出闪光之物；闪光装置
+      - `flashing`
+        - 闪光；防水板；遮雨板
+      - `flasher`
+        - 发出闪光之物；闪光装置
   - 近义词
-    - n. 手电筒；闪光灯
-      - `electric torch`
-      - `falshlight`
+    - n.
+      - 手电筒；闪光灯
+        - `electric torch`
+        - `falshlight`

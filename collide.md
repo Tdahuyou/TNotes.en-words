@@ -1,24 +1,33 @@
 - collide
   - 发音
-    - 英 `/kə'laɪd/`
-    - 美 `/kə'laɪd/`
+    - 英
+      - `/kə'laɪd/`
+    - 美
+      - `/kə'laɪd/`
   - 词义
-    - vi. 碰撞，互撞；冲突，抵触
-    - `to hit something or someone that is moving in a different direction from you`
+    - vi.
+      - 碰撞，互撞；冲突，抵触
+        - `to hit something or someone that is moving in a different direction from you`
   - 同根词
     - adj.
-      - `collisional` 碰撞引起的
-      - `collisionless` 无碰撞的
+      - `collisional`
+        - 碰撞引起的
+      - `collisionless`
+        - 无碰撞的
     - n.
-      - `collision` （意见，看法）的抵触，冲突
-      - `collider` 对撞机；碰撞机
+      - `collision`
+        - （意见，看法）的抵触，冲突
+      - `collider`
+        - 对撞机；碰撞机
   - 近义词
-    - vi. 碰撞；抵触，冲突
-      - `hit`
-      - `impact on`
-      - `crash`
+    - vi.
+      - 碰撞；抵触，冲突
+        - `hit`
+        - `impact on`
+        - `crash`
   - 短语
-    - `collide with` 冲突 
+    - `collide with`
+      - 冲突 
   - 例句
     - `A car and a van collided on the motorway.`
       - 一辆汽车和一辆小型货车在高速公路上相撞了。

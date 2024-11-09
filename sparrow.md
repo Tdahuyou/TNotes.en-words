@@ -1,17 +1,23 @@
 - sparrow
   - 发音
-    - 英 `/'spærəʊ/`
-    - 美 `/'spæro/`
+    - 英
+      - `/'spærəʊ/`
+    - 美
+      - `/'spæro/`
   - 词义
-    - n. [鸟]麻雀
-    - `a small brown bird, very common in many parts of the world`
+    - n.
+      - [鸟]麻雀
+        - `a small brown bird, very common in many parts of the world`
   - 近义词
-    - n. 麻雀；矮小的人
-      - `small`
-      - `spadger`
+    - n.
+      - 麻雀；矮小的人
+        - `small`
+        - `spadger`
   - 短语
-    - `house sparrow` n. 麻雀（等于English sparrow） 
-    - `sparrow hawk` 食雀鹰；鹞 
+    - `house sparrow`
+      - n. 麻雀（等于English sparrow） 
+    - `sparrow hawk`
+      - 食雀鹰；鹞 
   - 例句
     - `The myrtle, dove, sparrow, and swan are sacred to her.`
       - 桃金娘，鸽子，麻雀和天鹅是她的圣物。

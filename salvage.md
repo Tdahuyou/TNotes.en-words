@@ -1,27 +1,39 @@
 - salvage
   - 发音
-    - 英 `/'sælvidʒ/`
-    - 美 `/'sælvɪdʒ/`
+    - 英
+      - `/'sælvidʒ/`
+    - 美
+      - `/'sælvɪdʒ/`
   - 词义
-    - n. 抢救财物
-    - `when you save things from a situation in which other things have already been damaged, destroyed, or lost`
+    - n.
+      - 抢救财物
+        - `when you save things from a situation in which other things have already been damaged, destroyed, or lost`
   - 记忆
     - salv (救) + age → 抢救财物
   - 同根词
     - adj.
-      - `salvageable` 可抢救的；可打捞的；可挽回的；能利用的
-      - `salvific` 救苦救难的；有意救人的
+      - `salvageable`
+        - 可抢救的；可打捞的；可挽回的；能利用的
+      - `salvific`
+        - 救苦救难的；有意救人的
     - n.
-      - `salvation` 拯救；救助
-      - `salvager` 拯救者；救援人员
-      - `salvor` 难船救助者；救难船
+      - `salvation`
+        - 拯救；救助
+      - `salvager`
+        - 拯救者；救援人员
+      - `salvor`
+        - 难船救助者；救难船
   - 近义词
-    - n. 打捞；[水运][安全]海上救助；抢救财货；救难的奖金
-      - `refloatation`
+    - n.
+      - 打捞；[水运][安全]海上救助；抢救财货；救难的奖金
+        - `refloatation`
   - 短语
-    - `salvage operation` 海难救助作业，救助作业；财产抢救；补救手术 
-    - `salvage charges` 救援费；海上打捞费 
-    - `salvage value` 残值 
+    - `salvage operation`
+      - 海难救助作业，救助作业；财产抢救；补救手术 
+    - `salvage charges`
+      - 救援费；海上打捞费 
+    - `salvage value`
+      - 残值 
   - 例句
     - `a massive salvage operation`
       - 大规模的抢救行动

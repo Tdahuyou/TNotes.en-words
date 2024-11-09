@@ -1,9 +1,12 @@
 - mollusk
   - 发音
-    - 英 `/'mɒləsk/`
-    - 美 `/'mɔləsk/`
+    - 英
+      - `/'mɒləsk/`
+    - 美
+      - `/'mɔləsk/`
   - 词义
-    - n. [动]软体动物
+    - n.
+      - [动]软体动物
   - 例句
     - `Atype of mollusk, the lined chiton has colorful lines on its valves andwhite or yellow spots or bands on its girdle.`
       - 条纹石鳖是一种软体动物，瓣膜上有彩色条纹，条带上有白色或黄色斑点或环状物。

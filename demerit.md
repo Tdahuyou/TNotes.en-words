@@ -1,19 +1,24 @@
 - demerit
   - 发音
-    - 英 `/diː'merɪt/`
-    - 美 `/di'mɛrɪt/`
+    - 英
+      - `/diː'merɪt/`
+    - 美
+      - `/di'mɛrɪt/`
   - 词义
-    - n. 缺点,过失
-    - `a bad quality or feature of something`
+    - n.
+      - 缺点,过失
+        - `a bad quality or feature of something`
   - 近义词
-    - n. 缺点，短处；过失
-      - `defect`
-      - `error`
-      - `deficiency`
-      - `disadvantage`
-      - `vice`
+    - n.
+      - 缺点，短处；过失
+        - `defect`
+        - `error`
+        - `deficiency`
+        - `disadvantage`
+        - `vice`
   - 短语
-    - `merit and demerit` 优缺点 
+    - `merit and demerit`
+      - 优缺点 
   - 例句
     - `Demerits were given to students for late attendance at prayers.`
       - 祷告会上迟到的学生被记过了。

@@ -1,7 +1,9 @@
 - Alabama
   - 发音
-    - 英 `/,ælə'bæmə/`
-    - 美 `/,ælə'bæmə/`
+    - 英
+      - `/,ælə'bæmə/`
+    - 美
+      - `/,ælə'bæmə/`
   - 词义
   - 例句
     - `One of the latest casualties is the sewer system of Jefferson county, Alabama.`

@@ -1,28 +1,39 @@
 - lade
   - 发音
-    - 英 `/leɪd/`
-    - 美 `/led/`
+    - 英
+      - `/leɪd/`
+    - 美
+      - `/led/`
   - 词义
-    - v. 装载,装货
+    - v.
+      - 装载,装货
   - 同根词
     - adj.
-      - `laden` 负载的；装满的；苦恼的
+      - `laden`
+        - 负载的；装满的；苦恼的
     - n.
-      - `lading` 装船；装载；船货
+      - `lading`
+        - 装船；装载；船货
     - v.
-      - `laden` 装载（lade的过去分词）
-      - `lading` 装货；载满（lade的ing形式）
+      - `laden`
+        - 装载（lade的过去分词）
+      - `lading`
+        - 装货；载满（lade的ing形式）
     - vi.
-      - `laden` 装载（等于lade）
+      - `laden`
+        - 装载（等于lade）
     - vt.
-      - `laden` 装载（等于lade）
+      - `laden`
+        - 装载（等于lade）
   - 近义词
-    - vt. 装载；装（船）
-      - `onload`
-      - `stow`
-    - vi. （用勺子）舀出；装货
-      - `ladle out`
-      - `scoop out`
+    - vt.
+      - 装载；装（船）
+        - `onload`
+        - `stow`
+    - vi.
+      - （用勺子）舀出；装货
+        - `ladle out`
+        - `scoop out`
   - 例句
     - `Its action is very well for driver controling lade weight, deicing overload and keeping watch on the cargoes , ect.`
       - 对司机把握装载量，防止超载和监控货物等都有很好的作用。

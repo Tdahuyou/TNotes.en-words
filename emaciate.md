@@ -1,20 +1,27 @@
 - emaciate
   - 发音
-    - 英 `/ɪ'meɪʃieɪt/`
-    - 美 `/ɪ'meʃɪ,et/`
+    - 英
+      - `/ɪ'meɪʃieɪt/`
+    - 美
+      - `/ɪ'meʃɪ,et/`
   - 词义
-    - v. 使瘦弱
-    - `to become or cause to become abnormally thin `
+    - v.
+      - 使瘦弱
+        - `to become or cause to become abnormally thin `
   - 记忆
     - e + maci(瘦) + ate → 使瘦弱
   - 同根词
     - adj.
-      - `emaciated` 瘦弱的；憔悴的
+      - `emaciated`
+        - 瘦弱的；憔悴的
     - n.
-      - `emaciation` 消瘦，瘦弱；憔悴
+      - `emaciation`
+        - 消瘦，瘦弱；憔悴
     - v.
-      - `emaciated` 憔悴；消瘦下去（emaciate的过去分词）
+      - `emaciated`
+        - 憔悴；消瘦下去（emaciate的过去分词）
   - 近义词
-    - vt. 使消瘦；使衰弱；使贫瘠
-      - `debilitate`
-      - `devitalize`
+    - vt.
+      - 使消瘦；使衰弱；使贫瘠
+        - `debilitate`
+        - `devitalize`

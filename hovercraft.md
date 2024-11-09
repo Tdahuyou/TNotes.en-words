@@ -1,13 +1,17 @@
 - hovercraft
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 气垫船
-    - `a vehicle that travels just above the surface of land or water, travelling on a strong current of air that the engines produce beneath it`
+    - n.
+      - 气垫船
+        - `a vehicle that travels just above the surface of land or water, travelling on a strong current of air that the engines produce beneath it`
   - 近义词
-    - n. [船]气垫船
-      - `cushioncraft`
+    - n.
+      - [船]气垫船
+        - `cushioncraft`
   - 例句
     - `So you want your very own hovercraft?`
       - 你想拥有自己的气垫船么？

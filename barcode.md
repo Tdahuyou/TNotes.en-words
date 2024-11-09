@@ -1,12 +1,17 @@
 - barcode
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 条形码
+    - n.
+      - 条形码
   - 短语
-    - `barcode printer` 条形码打印机；条码机 
-    - `barcode scanner` 条形码扫描器 
+    - `barcode printer`
+      - 条形码打印机；条码机 
+    - `barcode scanner`
+      - 条形码扫描器 
   - 例句
     - `Many phones can scan and interpret this data using the built in camera and barcode scanning software.`
       - 许多手机可以用内置的摄像头与条形码扫描软件扫描并解析这些数据。

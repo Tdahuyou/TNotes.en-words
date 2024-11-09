@@ -1,22 +1,28 @@
 - kindle
   - 发音
-    - 英 `/'kɪndl/`
-    - 美 `/'kɪndl/`
+    - 英
+      - `/'kɪndl/`
+    - 美
+      - `/'kɪndl/`
   - 词义
-    - v. 点燃，开始燃烧；激起
-    - `if you kindle a fire, or if it kindles, it starts to burn`
+    - v.
+      - 点燃，开始燃烧；激起
+        - `if you kindle a fire, or if it kindles, it starts to burn`
   - 记忆
     - 点燃(kindle)蜡烛(candle)
   - 同根词
     - n.
-      - `kindling` 点火；引火物；兴奋
+      - `kindling`
+        - 点火；引火物；兴奋
   - 近义词
-    - vt. 点燃；激起；照亮
-      - `lamp`
-      - `emblaze`
-    - vi. 发亮；着火；激动起来
-      - `lamp`
-      - `brighten up`
+    - vt.
+      - 点燃；激起；照亮
+        - `lamp`
+        - `emblaze`
+    - vi.
+      - 发亮；着火；激动起来
+        - `lamp`
+        - `brighten up`
   - 例句
     - `The Second World War kindled his enthusiasm for politics.`
       - 第二次世界大战激发了他的政治热情。

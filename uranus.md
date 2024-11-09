@@ -1,6 +1,9 @@
 - uranus
   - 发音
-    - 英 `/ˈjʊərənəs;jʊˈreɪnəs/`
-    - 美 `/ˈjʊrənəs; jʊˈrenəs/`
+    - 英
+      - `/ˈjʊərənəs;jʊˈreɪnəs/`
+    - 美
+      - `/ˈjʊrənəs; jʊˈrenəs/`
   - 词义
-    - n. 天王星
+    - n.
+      - 天王星

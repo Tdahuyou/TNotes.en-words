@@ -1,19 +1,24 @@
 - enactment
   - 发音
-    - 英 `/ɪ'næktmənt/`
-    - 美 `/ɪ'næktmənt/`
+    - 英
+      - `/ɪ'næktmənt/`
+    - 美
+      - `/ɪ'næktmənt/`
   - 词义
-    - n. 制订，颁布；法律，法规
-    - `The enactment of a law is the process in a legislature by which the law is agreed upon and made official`
+    - n.
+      - 制订，颁布；法律，法规
+        - `The enactment of a law is the process in a legislature by which the law is agreed upon and made official`
   - 记忆
     - en(进入) + act(行动) + ment → 制订行动计划 → 颁布
   - 同根词
     - vt.
-      - `enact` 颁布；制定法律；扮演
+      - `enact`
+        - 颁布；制定法律；扮演
   - 近义词
-    - n. 制定，颁布；通过；法令
-      - `establishment`
-      - `act`
+    - n.
+      - 制定，颁布；通过；法令
+        - `establishment`
+        - `act`
   - 例句
     - `We support the call for the enactment of a Bill of Rights.`
       - 我们支持《权利法案》制定的呼吁。

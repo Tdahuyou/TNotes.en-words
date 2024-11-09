@@ -1,35 +1,50 @@
 - comparatively
   - 发音
-    - 英 `/kəm'pærətɪvlɪ/`
-    - 美 `/kəm'pærətɪvli/`
+    - 英
+      - `/kəm'pærətɪvlɪ/`
+    - 美
+      - `/kəm'pærətɪvli/`
   - 词义
-    - adv. 比较地；相当地
-    - `as compared to something else or to a previous state`
+    - adv.
+      - 比较地；相当地
+        - `as compared to something else or to a previous state`
   - 同根词
     - adj.
-      - `comparative` 比较的；相当的
-      - `comparable` 可比较的；比得上的
+      - `comparative`
+        - 比较的；相当的
+      - `comparable`
+        - 可比较的；比得上的
     - adv.
-      - `comparably` 同等地；可比较地
+      - `comparably`
+        - 同等地；可比较地
     - n.
-      - `comparison` 比较；对照；比喻；比较关系
-      - `compare` 比较
-      - `comparative` 比较级；对手
-      - `comparing` 比较
-      - `comparability` 相似性；可比较性
+      - `comparison`
+        - 比较；对照；比喻；比较关系
+      - `compare`
+        - 比较
+      - `comparative`
+        - 比较级；对手
+      - `comparing`
+        - 比较
+      - `comparability`
+        - 相似性；可比较性
     - v.
-      - `comparing` 比较；对照（compare的ing形式）
+      - `comparing`
+        - 比较；对照（compare的ing形式）
     - vi.
-      - `compare` 比较；相比
+      - `compare`
+        - 比较；相比
     - vt.
-      - `compare` 比较；对照；比喻为
+      - `compare`
+        - 比较；对照；比喻为
   - 近义词
-    - adv. 比较地；相当地
-      - `relatively`
-      - `fairly`
-      - `reasonably`
-      - `pretty`
-      - `considerably`
+    - adv.
+      - 比较地；相当地
+        - `relatively`
+        - `fairly`
+        - `reasonably`
+        - `pretty`
+        - `considerably`
   - 例句
     - `a comparatively small number of people`
       - 相对较少的人数

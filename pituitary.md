@@ -1,16 +1,24 @@
 - pituitary
   - 发音
-    - 英 `/pɪ'tjuːɪt(ə)rɪ/`
-    - 美 `/pɪ'tuətɛri/`
+    - 英
+      - `/pɪ'tjuːɪt(ə)rɪ/`
+    - 美
+      - `/pɪ'tuətɛri/`
   - 词义
-    - n. [解]垂体
-    - `the small organ at the base of your brain which produces  hormone s  that control the growth and development of your body`
+    - n.
+      - [解]垂体
+        - `the small organ at the base of your brain which produces  hormone s  that control the growth and development of your body`
   - 短语
-    - `pituitary gland` [解]脑下垂体 
-    - `anterior pituitary` 垂体前叶；脑下腺前叶 
-    - `pituitary tumor` 垂体肿瘤，垂体瘤 
-    - `pituitary stalk` n. 垂体；脑垂腺柄 
-    - `posterior pituitary` n. 脑垂体后叶 
+    - `pituitary gland`
+      - [解]脑下垂体 
+    - `anterior pituitary`
+      - 垂体前叶；脑下腺前叶 
+    - `pituitary tumor`
+      - 垂体肿瘤，垂体瘤 
+    - `pituitary stalk`
+      - n. 垂体；脑垂腺柄 
+    - `posterior pituitary`
+      - n. 脑垂体后叶 
   - 例句
     - `Instead, the team discovered that the pituitary does not lose its ability to respond to insulin.`
       - 这样一来，研究团队发现脑垂体并不会消失对胰岛素响应的能力。

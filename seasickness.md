@@ -1,16 +1,21 @@
 - seasickness
   - 发音
-    - 英 `/'siːsɪknɪs/`
-    - 美 `/'si,sɪknɪs/`
+    - 英
+      - `/'siːsɪknɪs/`
+    - 美
+      - `/'si,sɪknɪs/`
   - 词义
-    - n. 晕船
+    - n.
+      - 晕船
   - 同根词
     - adj.
-      - `seasick` 晕船的
+      - `seasick`
+        - 晕船的
   - 近义词
-    - n. 晕船
-      - `pelagism`
-      - `naupathia`
+    - n.
+      - 晕船
+        - `pelagism`
+        - `naupathia`
   - 例句
     - `Europeans take melons for a preventive against seasickness.`
       - 欧洲人吃瓜作为预防晕船的方法。

@@ -1,25 +1,36 @@
 - standardisation
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 标准化
+    - n.
+      - 标准化
   - 同根词
     - adj.
-      - `standard` 标准的；合规格的；公认为优秀的
-      - `standardized` 标准的；标准化的；定型的
+      - `standard`
+        - 标准的；合规格的；公认为优秀的
+      - `standardized`
+        - 标准的；标准化的；定型的
     - n.
-      - `standard` 标准；水准；旗；度量衡标准
-      - `standardization` 标准化；[数] 规格化；校准
+      - `standard`
+        - 标准；水准；旗；度量衡标准
+      - `standardization`
+        - 标准化；[数] 规格化；校准
     - v.
-      - `standardized` 使合乎标准；按标准校准；制定标准（standardize的过去分词）
+      - `standardized`
+        - 使合乎标准；按标准校准；制定标准（standardize的过去分词）
     - vt.
-      - `standardize` 使标准化；用标准检验
-      - `standardise` 使…符合标准；使…标准化；使…统一
+      - `standardize`
+        - 使标准化；用标准检验
+      - `standardise`
+        - 使…符合标准；使…标准化；使…统一
   - 近义词
-    - n. 标准化
-      - `normalization`
-      - `canonicalization`
+    - n.
+      - 标准化
+        - `normalization`
+        - `canonicalization`
   - 例句
     - `The processes and standardisation were suitable for the pace of market; market allowed such behaviour.`
       - 这些流程和标准化适合市场的步调；市场允许这样的行为。

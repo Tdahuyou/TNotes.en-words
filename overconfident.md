@@ -1,25 +1,34 @@
 - overconfident
   - 发音
-    - 英 `/əʊvə'kɒnfɪd(ə)nt/`
-    - 美 `/undefined/`
+    - 英
+      - `/əʊvə'kɒnfɪd(ə)nt/`
+    - 美
+      - `/undefined/`
   - 词义
-    - adj. 自负的,过于自信的
-    - `excessively confident `
+    - adj.
+      - 自负的,过于自信的
+        - `excessively confident `
   - 同根词
     - adj.
-      - `overdone` 煮得太久的；做得过分的
+      - `overdone`
+        - 煮得太久的；做得过分的
     - n.
-      - `overconfidence` 自负；过分相信
+      - `overconfidence`
+        - 自负；过分相信
     - v.
-      - `overdone` 把…煮得过久；过于劳累；把…做得过度（overdo的过去分词）
+      - `overdone`
+        - 把…煮得过久；过于劳累；把…做得过度（overdo的过去分词）
     - vi.
-      - `overdo` 做得过分；表演过火
+      - `overdo`
+        - 做得过分；表演过火
     - vt.
-      - `overdo` 把…做得过分；使过于疲劳；对…表演过火；夸张
+      - `overdo`
+        - 把…做得过分；使过于疲劳；对…表演过火；夸张
   - 近义词
-    - adj. 过于自信的；自负的
-      - `proud`
-      - `conceited`
+    - adj.
+      - 过于自信的；自负的
+        - `proud`
+        - `conceited`
   - 例句
     - `God warns us never to get cocky and overconfident; that is the recipe for disaster.`
       - 神警告我们绝不可自高过于自信，那是招致灾难的处方。

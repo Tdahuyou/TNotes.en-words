@@ -1,10 +1,13 @@
 - arthropod
   - 发音
-    - 英 `/'ɑːθrəpɒd/`
-    - 美 `/'ɑrθrə,pɑd/`
+    - 英
+      - `/'ɑːθrəpɒd/`
+    - 美
+      - `/'ɑrθrə,pɑd/`
   - 词义
-    - n&a. 节肢动物(的)
-    - `any invertebrate of the phylum Arthropoda, having jointed limbs, a segmented body, and an exoskeleton made of chitin`
+    - n&a.
+      - 节肢动物(的)
+        - `any invertebrate of the phylum Arthropoda, having jointed limbs, a segmented body, and an exoskeleton made of chitin`
   - 例句
     - `The Japanese Spider Crab is the biggest arthropod on Earth--their legs are believed to grow up to 12 feet long.`
       - 日本的蟹型蜘蛛是地球上最大的节肢动物，它们的腿被认为能够长到12英尺长。

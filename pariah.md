@@ -1,13 +1,17 @@
 - pariah
   - 发音
-    - 英 `/pə'raɪə/`
-    - 美 `/pə'raɪə/`
+    - 英
+      - `/pə'raɪə/`
+    - 美
+      - `/pə'raɪə/`
   - 词义
-    - n. 贱民(印度的最下阶级)
+    - n.
+      - 贱民(印度的最下阶级)
   - 近义词
-    - n. 贱民（印度的最下阶级）
-      - `doggery`
-      - `canaille`
+    - n.
+      - 贱民（印度的最下阶级）
+        - `doggery`
+        - `canaille`
   - 例句
     - `First, simply, it was a matter of face, of reducing its pariah-state image —a tangible symbol of being welcomed back into the global community.`
       - 首先，简单地说，这是面子问题，可以弱化它的贱民国家形象——一个欢迎它回归国际社会的切实象征。

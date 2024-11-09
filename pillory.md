@@ -1,10 +1,13 @@
 - pillory
   - 发音
-    - 英 `/'piləri/`
-    - 美 `/'pɪləri/`
+    - 英
+      - `/'piləri/`
+    - 美
+      - `/'pɪləri/`
   - 词义
-    - n. 颈手枷
-    - `a wooden frame with holes for someone’s head and hands to be locked into, used in the past as a way of publicly punishing someone`
+    - n.
+      - 颈手枷
+        - `a wooden frame with holes for someone’s head and hands to be locked into, used in the past as a way of publicly punishing someone`
   - 记忆
     - 著名戏曲《苏三起解》中苏三戴着的刑具就是pillory (颈手枷)
   - 例句

@@ -1,11 +1,15 @@
 - CIF
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - abbr. 到岸价（CostInsuranceandFreight）
+    - abbr.
+      - 到岸价（CostInsuranceandFreight）
   - 短语
-    - `cif value` 到岸价值；起岸价格 
+    - `cif value`
+      - 到岸价值；起岸价格 
   - 例句
     - `Here is our offer, 300 Euro per ton, CIF Singapore.`
       - 我们的报盘，每吨300欧元新加坡到岸价。

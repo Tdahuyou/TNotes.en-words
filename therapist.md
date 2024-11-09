@@ -1,17 +1,27 @@
 - therapist
   - 发音
-    - 英 `/'θerəpɪst/`
-    - 美 `/'θɛrəpɪst/`
+    - 英
+      - `/'θerəpɪst/`
+    - 美
+      - `/'θɛrəpɪst/`
   - 词义
-    - n. 临床医学家
+    - n.
+      - 临床医学家
   - 同根词
     - adj.
-      - `therapeutic` 治疗的；治疗学的；有益于健康的
-      - `therapeutical` 治疗的；治疗学的（等于therapeutic）
+      - `therapeutic`
+        - 治疗的；治疗学的；有益于健康的
+      - `therapeutical`
+        - 治疗的；治疗学的（等于therapeutic）
     - n.
-      - `therapy` 治疗，疗法
-      - `therapeutic` 治疗剂；治疗学家
-      - `therapeutics` 疗法，治疗学
+      - `therapy`
+        - 治疗，疗法
+      - `therapeutic`
+        - 治疗剂；治疗学家
+      - `therapeutics`
+        - 疗法，治疗学
   - 短语
-    - `physical therapist` 物理治疗家；理疗学家 
-    - `occupational therapist` 职业疗法专家 
+    - `physical therapist`
+      - 物理治疗家；理疗学家 
+    - `occupational therapist`
+      - 职业疗法专家 

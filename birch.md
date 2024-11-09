@@ -1,20 +1,28 @@
 - birch
   - 发音
-    - 英 `/bɜːtʃ/`
-    - 美 `/bɝtʃ/`
+    - 英
+      - `/bɜːtʃ/`
+    - 美
+      - `/bɝtʃ/`
   - 词义
-    - n. 桦树,白桦
-    - `a tree with smooth  bark (=  outer covering  )  and thin branches, or the wood from this tree`
+    - n.
+      - 桦树,白桦
+        - `a tree with smooth  bark (=  outer covering  )  and thin branches, or the wood from this tree`
   - 同根词
     - adj.
-      - `birchen` 桦树的；桦木制的；桦木的
+      - `birchen`
+        - 桦树的；桦木制的；桦木的
   - 近义词
-    - n. 桦木；桦树；桦条
-      - `brich`
+    - n.
+      - 桦木；桦树；桦条
+        - `brich`
   - 短语
-    - `white birch` 白桦；白桦树 
-    - `silver birch` [植]欧洲桦；纸皮桦；黄桦 
-    - `birch forest` 桦林；桦手 
+    - `white birch`
+      - 白桦；白桦树 
+    - `silver birch`
+      - [植]欧洲桦；纸皮桦；黄桦 
+    - `birch forest`
+      - 桦林；桦手 
   - 例句
     - `In Finland purists insist that only birch bark should be added.`
       - 在芬兰，纯化论者坚持说只能加白桦树皮。

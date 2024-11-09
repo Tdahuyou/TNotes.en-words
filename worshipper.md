@@ -1,23 +1,32 @@
 - worshipper
   - 发音
-    - 英 `/'wɜːʃɪpə/`
-    - 美 `/'wɝʃɪpɚ/`
+    - 英
+      - `/'wɜːʃɪpə/`
+    - 美
+      - `/'wɝʃɪpɚ/`
   - 词义
-    - n. 礼拜者
+    - n.
+      - 礼拜者
   - 同根词
     - adj.
-      - `worshipful` 崇拜的，虔诚的；尊贵的；尊敬的
+      - `worshipful`
+        - 崇拜的，虔诚的；尊贵的；尊敬的
     - n.
-      - `worship` 崇拜；礼拜；尊敬
-      - `worshiper` 崇拜者；礼拜者（等于worshipper）
+      - `worship`
+        - 崇拜；礼拜；尊敬
+      - `worshiper`
+        - 崇拜者；礼拜者（等于worshipper）
     - vi.
-      - `worship` 拜神；做礼拜
+      - `worship`
+        - 拜神；做礼拜
     - vt.
-      - `worship` 崇拜；尊敬；爱慕
+      - `worship`
+        - 崇拜；尊敬；爱慕
   - 近义词
-    - n. 崇拜者；礼拜者；爱慕者
-      - `adorer`
-      - `venerator`
+    - n.
+      - 崇拜者；礼拜者；爱慕者
+        - `adorer`
+        - `venerator`
   - 例句
     - `If a worshipper should make a mistake, do you not think God will know his intent?`
       - 如果崇拜者犯了错，那么,你以为上帝不知道他的意图吗

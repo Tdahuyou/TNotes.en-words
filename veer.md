@@ -1,30 +1,41 @@
 - veer
   - 发音
-    - 英 `/vɪə/`
-    - 美 `/vɪr/`
+    - 英
+      - `/vɪə/`
+    - 美
+      - `/vɪr/`
   - 词义
-    - v. 转向；改变观点；风向顺时针转；调转船尾向上风
-    - `to change direction`
-    - n. 转向；方向的转变
-    - `a change of course or direction `
+    - v.
+      - 转向；改变观点；风向顺时针转；调转船尾向上风
+        - `to change direction`
+    - n.
+      - 转向；方向的转变
+        - `a change of course or direction `
   - 同根词
     - adj.
-      - `veering` 犹豫的；改变的
+      - `veering`
+        - 犹豫的；改变的
     - n.
-      - `veering` 顺时针转向
+      - `veering`
+        - 顺时针转向
     - v.
-      - `veering` 转变方向；改变观点；顺转（veer的ing形式）
+      - `veering`
+        - 转变方向；改变观点；顺转（veer的ing形式）
   - 近义词
-    - vi. 转向；改变观点；风向顺时针转；调转船尾向上风
-      - `swing`
-      - `turn towards`
-    - vt. 使转向；使顺风；使船尾向上风
-      - `deflect`
-    - n. 转向；方向的转变
-      - `turning`
-      - `obversion`
+    - vi.
+      - 转向；改变观点；风向顺时针转；调转船尾向上风
+        - `swing`
+        - `turn towards`
+    - vt.
+      - 使转向；使顺风；使船尾向上风
+        - `deflect`
+    - n.
+      - 转向；方向的转变
+        - `turning`
+        - `obversion`
   - 短语
-    - `veer away` 松出 
+    - `veer away`
+      - 松出 
   - 例句
     - `The plane veered off course.`
       - 飞机偏离了航线。

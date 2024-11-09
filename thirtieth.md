@@ -1,21 +1,31 @@
 - thirtieth
   - 发音
-    - 英 `/'θɜːtɪɪθ/`
-    - 美 `/'θɝtɪɪθ/`
+    - 英
+      - `/'θɜːtɪɪθ/`
+    - 美
+      - `/'θɝtɪɪθ/`
   - 词义
   - 同根词
     - adj.
-      - `third` 第三的；三分之一的
-      - `thirty` 三十个的
-      - `thirteenth` 第十三的；十三分之一的
+      - `third`
+        - 第三的；三分之一的
+      - `thirty`
+        - 三十个的
+      - `thirteenth`
+        - 第十三的；十三分之一的
     - adv.
-      - `thirdly` 第三
+      - `thirdly`
+        - 第三
     - n.
-      - `thirty` 三十年代
-      - `thirteenth` 第十三；十三分之一
+      - `thirty`
+        - 三十年代
+      - `thirteenth`
+        - 第十三；十三分之一
     - num.
-      - `third` 第三；三分之一
-      - `thirty` 三十
+      - `third`
+        - 第三；三分之一
+      - `thirty`
+        - 三十
   - 例句
     - `Actually I'm not bored at all, " I said, cupping my own breast for the thirtieth time.`
       - 实际上我一点也不。" 我正说著，我托了托双乳，准备拍第十三张。

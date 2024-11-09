@@ -1,19 +1,24 @@
 - impecunious
   - 发音
-    - 英 `/ˌɪmpɪ'kjuːniəs/`
-    - 美 `/,ɪmpɪ'kjunɪəs/`
+    - 英
+      - `/ˌɪmpɪ'kjuːniəs/`
+    - 美
+      - `/,ɪmpɪ'kjunɪəs/`
   - 词义
-    - adj. 不名一文的，没钱的
-    - `having very little money, especially over a long period – sometimes used humorously`
+    - adj.
+      - 不名一文的，没钱的
+        - `having very little money, especially over a long period – sometimes used humorously`
   - 记忆
     - im(无) + pecun(钱) + ious → 没钱的
   - 同根词
     - adj.
-      - `impeccable` 无瑕疵的；没有缺点的
+      - `impeccable`
+        - 无瑕疵的；没有缺点的
   - 近义词
-    - adj. 没有钱的；贫穷的
-      - `poor`
-      - `needy`
+    - adj.
+      - 没有钱的；贫穷的
+        - `poor`
+        - `needy`
   - 例句
     - `He came from a respectable if impecunious family.`
       - 他来自一个没钱但受人尊重的家庭。

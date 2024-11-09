@@ -1,20 +1,26 @@
 - jockey
   - 发音
-    - 英 `/'dʒɑːki/`
-    - 美 `/'dʒɑki/`
+    - 英
+      - `/'dʒɑːki/`
+    - 美
+      - `/'dʒɑki/`
   - 词义
-    - n. 赛马骑师
-    - `someone who rides horses in races`
-    - v. 〔为获得最佳位置、最有利形势或最大权力而〕激烈竞争
-    - `to compete strongly to get into the best position or situation, or to get the most power`
+    - n.
+      - 赛马骑师
+        - `someone who rides horses in races`
+    - v.
+      - 〔为获得最佳位置、最有利形势或最大权力而〕激烈竞争
+        - `to compete strongly to get into the best position or situation, or to get the most power`
   - 近义词
-    - vt. 驾驶；欺骗；移动
-      - `sell`
-      - `drive`
-      - `fox`
-    - n. 操作工；驾驶员；赛马的骑师
-      - `driver`
-      - `navigator`
+    - vt.
+      - 驾驶；欺骗；移动
+        - `sell`
+        - `drive`
+        - `fox`
+    - n.
+      - 操作工；驾驶员；赛马的骑师
+        - `driver`
+        - `navigator`
   - 例句
     - `Falsehood is the jockey of misfortune.`
       - 谎言是灾祸的骑师。

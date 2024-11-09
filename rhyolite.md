@@ -1,13 +1,17 @@
 - rhyolite
   - 发音
-    - 英 `/'raɪəlaɪt/`
-    - 美 `/'raɪə,laɪt/`
+    - 英
+      - `/'raɪəlaɪt/`
+    - 美
+      - `/'raɪə,laɪt/`
   - 词义
-    - n. [地]流纹岩
-    - `a fine-grained igneous rock consisting of quartz, feldspars, and mica or amphibole`
+    - n.
+      - [地]流纹岩
+        - `a fine-grained igneous rock consisting of quartz, feldspars, and mica or amphibole`
   - 近义词
-    - n. [岩]流纹岩；表面光滑的火山岩
-      - `liparite`
+    - n.
+      - [岩]流纹岩；表面光滑的火山岩
+        - `liparite`
   - 例句
     - `Topaz occurs in the igneous rock rhyolite.`
       - 黄晶通常产于火成岩岩石纹。

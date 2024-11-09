@@ -1,17 +1,22 @@
 - symbiosis
   - 发音
-    - 英 `/,sɪmbɪ'əʊsɪs; -baɪ-/`
-    - 美 `/,sɪmbaɪ'osɪs/`
+    - 英
+      - `/,sɪmbɪ'əʊsɪs; -baɪ-/`
+    - 美
+      - `/,sɪmbaɪ'osɪs/`
   - 词义
-    - n. [生]共生(现象),合作关系
-    - `the relationship between different living things that depend on each other`
+    - n.
+      - [生]共生(现象),合作关系
+        - `the relationship between different living things that depend on each other`
   - 同根词
     - adj.
-      - `symbiotic` [生态] 共生的；共栖的
+      - `symbiotic`
+        - [生态] 共生的；共栖的
   - 近义词
-    - n. [生态]共生；合作关系；共栖
-      - `partnership`
-      - `intergrowth`
+    - n.
+      - [生态]共生；合作关系；共栖
+        - `partnership`
+        - `intergrowth`
   - 例句
     - `...the link between bacteria, symbiosis, and the evolution of plants and animals.`
       - ...细菌、共生和动植物进化间的联系。

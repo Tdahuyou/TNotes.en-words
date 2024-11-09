@@ -1,23 +1,35 @@
 - ozone
   - 发音
-    - 英 `/'əuzəun/`
-    - 美 `/'ozon/`
+    - 英
+      - `/'əuzəun/`
+    - 美
+      - `/'ozon/`
   - 词义
-    - n. 臭氧
-    - `a poisonous blue gas that is a type of oxygen`
+    - n.
+      - 臭氧
+        - `a poisonous blue gas that is a type of oxygen`
   - 同根词
     - vi.
-      - `ozonize` 变成臭氧
+      - `ozonize`
+        - 变成臭氧
     - vt.
-      - `ozonize` 使含臭氧；以臭氧处理
+      - `ozonize`
+        - 使含臭氧；以臭氧处理
   - 短语
-    - `ozone layer` 【气】臭氧层 
-    - `ozone generator` 臭氧发生器 
-    - `ozone hole` 臭氧层空洞（等于ozone low） 
-    - `ozone depletion` 臭氧消耗；臭氧枯竭 
-    - `atmospheric ozone` 大气臭氧 
-    - `ozone resistance` 耐臭氧；抗臭氧性 
-    - `ozone treatment` 臭氧处理 
+    - `ozone layer`
+      - 【气】臭氧层 
+    - `ozone generator`
+      - 臭氧发生器 
+    - `ozone hole`
+      - 臭氧层空洞（等于ozone low） 
+    - `ozone depletion`
+      - 臭氧消耗；臭氧枯竭 
+    - `atmospheric ozone`
+      - 大气臭氧 
+    - `ozone resistance`
+      - 耐臭氧；抗臭氧性 
+    - `ozone treatment`
+      - 臭氧处理 
   - 例句
     - `Objective To observe the disinfection effect of gastroscope by ozone water.`
       - 目的观察臭氧水在胃镜体的消毒效果监测。

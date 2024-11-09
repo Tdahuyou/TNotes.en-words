@@ -1,30 +1,47 @@
 - executioner
   - 发音
-    - 英 `/eksɪ'kjuːʃ(ə)nə/`
-    - 美 `/'ɛksɪ'kjʊʃənɚ/`
+    - 英
+      - `/eksɪ'kjuːʃ(ə)nə/`
+    - 美
+      - `/'ɛksɪ'kjʊʃənɚ/`
   - 词义
-    - n. 刽子手，死刑执行人
-    - `someone whose job is to execute criminals`
+    - n.
+      - 刽子手，死刑执行人
+        - `someone whose job is to execute criminals`
   - 同根词
     - abbr.
-      - `exec` 实行（execute）；实行的（executive）
+      - `exec`
+        - 实行（execute）；实行的（executive）
     - adj.
-      - `executive` 行政的；经营的；执行的，经营管理的
-      - `executed` 已执行的；已生效的
-      - `executable` 可执行的；可实行的
-      - `executorial` 遗嘱执行人的
+      - `executive`
+        - 行政的；经营的；执行的，经营管理的
+      - `executed`
+        - 已执行的；已生效的
+      - `executable`
+        - 可执行的；可实行的
+      - `executorial`
+        - 遗嘱执行人的
     - n.
-      - `executive` 经理；执行委员会；执行者；经理主管人员
-      - `execution` 执行，实行；完成；死刑
-      - `executor` 执行者；[法] 遗嘱执行人
-      - `exec` 执行，执行程序；主任参谋，副舰长
-      - `executant` 执行者；演奏者；实行者
-      - `executrix` 女遗嘱执行人
+      - `executive`
+        - 经理；执行委员会；执行者；经理主管人员
+      - `execution`
+        - 执行，实行；完成；死刑
+      - `executor`
+        - 执行者；[法] 遗嘱执行人
+      - `exec`
+        - 执行，执行程序；主任参谋，副舰长
+      - `executant`
+        - 执行者；演奏者；实行者
+      - `executrix`
+        - 女遗嘱执行人
     - v.
-      - `executed` 履行（execute的过去分词）
+      - `executed`
+        - 履行（execute的过去分词）
     - vt.
-      - `execute` 实行；执行；处死
+      - `execute`
+        - 实行；执行；处死
   - 近义词
-    - n. 刽子手，死刑执行人
-      - `slaughterman`
-      - `deathsman`
+    - n.
+      - 刽子手，死刑执行人
+        - `slaughterman`
+        - `deathsman`

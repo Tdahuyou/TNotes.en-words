@@ -1,10 +1,13 @@
 - Sanskrit
   - 发音
-    - 英 `/'sænskrit/`
-    - 美 `/'sænskrit/`
+    - 英
+      - `/'sænskrit/`
+    - 美
+      - `/'sænskrit/`
   - 词义
-    - n& a. 梵语(的)
-    - `an ancient language of India`
+    - n& a.
+      - 梵语(的)
+        - `an ancient language of India`
   - 例句
     - `They got the name from Persian who in turn got it from Sanskrit, from the Indians themselves.`
       - 他们从波斯人那里得知的名字，而波斯人是依次从梵文、从印第安人他们自己得知的名字。

@@ -1,24 +1,32 @@
 - craving
   - 发音
-    - 英 `/'kreɪvɪŋ/`
-    - 美 `/'krevɪŋ/`
+    - 英
+      - `/'kreɪvɪŋ/`
+    - 美
+      - `/'krevɪŋ/`
   - 词义
-    - n. 渴望
-    - `an extremely strong desire for something`
+    - n.
+      - 渴望
+        - `an extremely strong desire for something`
   - 同根词
     - vi.
-      - `crave` 渴望；恳求
+      - `crave`
+        - 渴望；恳求
     - vt.
-      - `crave` 渴望；恳求
+      - `crave`
+        - 渴望；恳求
   - 近义词
-    - n. 渴望；热望
-      - `aspiration`
-      - `longing for`
-    - v. 渴望；恳求（crave的ing形式）
-      - `soliciting`
-      - `longing`
+    - n.
+      - 渴望；热望
+        - `aspiration`
+        - `longing for`
+    - v.
+      - 渴望；恳求（crave的ing形式）
+        - `soliciting`
+        - `longing`
   - 短语
-    - `crave for` 渴望 
+    - `crave for`
+      - 渴望 
   - 例句
     - `"I spent all my time craving some green space, something green to look at," she says.`
       - “我所有的时间都在渴望一些绿色空间，某些看起来绿色的东西，”她说。

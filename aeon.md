@@ -1,11 +1,15 @@
 - aeon
   - 发音
-    - 英 `/'iːən/`
-    - 美 `/'iən/`
+    - 英
+      - `/'iːən/`
+    - 美
+      - `/'iən/`
   - 词义
-    - n. 永世,万古
-    - `an extremely long period of time`
+    - n.
+      - 永世,万古
+        - `an extremely long period of time`
   - 近义词
-    - n. 万古，永世
-      - `eternity`
-      - `eon`
+    - n.
+      - 万古，永世
+        - `eternity`
+        - `eon`

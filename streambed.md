@@ -1,13 +1,17 @@
 - streambed
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 河床
+    - n.
+      - 河床
   - 近义词
-    - n. 河床
-      - `river bed`
-      - `cauce`
+    - n.
+      - 河床
+        - `river bed`
+        - `cauce`
   - 例句
     - `Within 30 minutes, I was marching up a dry streambed, above the trees, on a ridge matted with magenta shrubs and dotted by boulders.`
       - 差不多30分钟的时候，我走在一个干枯的河床，上面长着树，在凸起的地方遍布着红色的灌木丛和星星点点的石头。

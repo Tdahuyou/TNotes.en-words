@@ -1,31 +1,43 @@
 - earring
   - 发音
-    - 英 `/'ɪərɪŋ/`
-    - 美 `/'ɪrɪŋ/`
+    - 英
+      - `/'ɪərɪŋ/`
+    - 美
+      - `/'ɪrɪŋ/`
   - 词义
-    - n. 耳环；耳饰
-    - `a piece of jewellery that you wear on your ear`
+    - n.
+      - 耳环；耳饰
+        - `a piece of jewellery that you wear on your ear`
   - 记忆
     - ear(耳朵) + ring(环) → 耳朵上戴的环 → 耳环， 耳饰
   - 同根词
     - adj.
-      - `eared` 有穗的；有耳的；有把的
-      - `earless` 无穗的；无耳的；听觉不佳的
+      - `eared`
+        - 有穗的；有耳的；有把的
+      - `earless`
+        - 无穗的；无耳的；听觉不佳的
     - n.
-      - `ear` 耳朵；穗；听觉；倾听
-      - `earing` （横帆角上的）耳索
+      - `ear`
+        - 耳朵；穗；听觉；倾听
+      - `earing`
+        - （横帆角上的）耳索
     - v.
-      - `eared` 听；抽穗（ear的过去分词）
+      - `eared`
+        - 听；抽穗（ear的过去分词）
     - vi.
-      - `ear` （美俚）听见；抽穗
+      - `ear`
+        - （美俚）听见；抽穗
   - 近义词
-    - n. 耳环，耳饰
-      - `eardrop`
-      - `dangler`
-    - v. 抽穗；听见（ear的ing形式）
-      - `hearing`
+    - n.
+      - 耳环，耳饰
+        - `eardrop`
+        - `dangler`
+    - v.
+      - 抽穗；听见（ear的ing形式）
+        - `hearing`
   - 短语
-    - `pearl earring` 珍珠耳环 
+    - `pearl earring`
+      - 珍珠耳环 
   - 例句
     - `...a pair of diamond earrings.`
       - …一副钻石耳坠儿。

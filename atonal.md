@@ -1,18 +1,24 @@
 - atonal
   - 发音
-    - 英 `/eɪ'tounl/`
-    - 美 `/e'tonl/`
+    - 英
+      - `/eɪ'tounl/`
+    - 美
+      - `/e'tonl/`
   - 词义
-    - adj. 无调的
-    - `a piece of music that is atonal is not based on a particular  key 2 4 `
+    - adj.
+      - 无调的
+        - `a piece of music that is atonal is not based on a particular  key 2 4 `
   - 记忆
     - a + ton(声音) + al → 无声的 → 无调的
   - 同根词
     - adj.
-      - `atonalistic` 不成调的；无调性的
+      - `atonalistic`
+        - 不成调的；无调性的
     - n.
-      - `atonalism` 无调性
-      - `atonality` 无调性
+      - `atonalism`
+        - 无调性
+      - `atonality`
+        - 无调性
   - 例句
     - `People did not accept atonal music at that time.`
       - 那时，人们还不接受无调性音乐。

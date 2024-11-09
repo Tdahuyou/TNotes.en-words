@@ -1,15 +1,20 @@
 - lineament
   - 发音
-    - 英 `/'lɪnɪəm(ə)nt/`
-    - 美 `/'lɪnɪəmənt/`
+    - 英
+      - `/'lɪnɪəm(ə)nt/`
+    - 美
+      - `/'lɪnɪəmənt/`
   - 词义
-    - n. 面部轮廓
-    - `a feature of your face`
+    - n.
+      - 面部轮廓
+        - `a feature of your face`
   - 同根词
     - n.
-      - `lineation` 划线；轮廓
+      - `lineation`
+        - 划线；轮廓
   - 近义词
-    - n. 容貌；相貌；面部轮廓
-      - `looks`
-      - `person`
-      - `feature`
+    - n.
+      - 容貌；相貌；面部轮廓
+        - `looks`
+        - `person`
+        - `feature`

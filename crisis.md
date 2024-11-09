@@ -1,35 +1,59 @@
 - crisis
   - 发音
-    - 英 `/'kraɪsɪs/`
-    - 美 `/'kraɪsɪs/`
+    - 英
+      - `/'kraɪsɪs/`
+    - 美
+      - `/'kraɪsɪs/`
   - 词义
-    - n. 决定性时刻,危机
-    - `a situation in which there are a lot of problems that must be dealt with quickly so that the situation does not get worse or more dangerous`
+    - n.
+      - 决定性时刻,危机
+        - `a situation in which there are a lot of problems that must be dealt with quickly so that the situation does not get worse or more dangerous`
   - 近义词
-    - n. 危机；危险期；决定性时刻
-      - `defining moment`
-      - `critical stage`
+    - n.
+      - 危机；危险期；决定性时刻
+        - `defining moment`
+        - `critical stage`
   - 短语
-    - `financial crisis` 金融危机；财政危机 
-    - `economic crisis` 经济危机 
-    - `crisis management` 危机管理，处理危急的办法 
-    - `credit crisis` 信用危机 
-    - `energy crisis` 能源危机 
-    - `ecological crisis` 生态危机 
-    - `debt crisis` 债务危机；倒债危机 
-    - `environmental crisis` 环境危机 
-    - `subprime crisis` 次贷危机 
-    - `crisis intervention` [心]危机干预；危机处理；危机介入 
-    - `currency crisis` 货币危机 
-    - `subprime mortgage crisis` 次贷危机 
-    - `crisis of confidence` 信任危机 
-    - `humanitarian crisis` 人道主义危机 
-    - `identity crisis` 认同的转折点 
-    - `liquidity crisis` 流动性危机；清偿危机 
-    - `monetary crisis` 货币危机；金融危机 
-    - `financial crisis in asia` 亚洲金融危机 
-    - `midlife crisis` 中年危机 
-    - `fiscal crisis` 财政危机 
+    - `financial crisis`
+      - 金融危机；财政危机 
+    - `economic crisis`
+      - 经济危机 
+    - `crisis management`
+      - 危机管理，处理危急的办法 
+    - `credit crisis`
+      - 信用危机 
+    - `energy crisis`
+      - 能源危机 
+    - `ecological crisis`
+      - 生态危机 
+    - `debt crisis`
+      - 债务危机；倒债危机 
+    - `environmental crisis`
+      - 环境危机 
+    - `subprime crisis`
+      - 次贷危机 
+    - `crisis intervention`
+      - [心]危机干预；危机处理；危机介入 
+    - `currency crisis`
+      - 货币危机 
+    - `subprime mortgage crisis`
+      - 次贷危机 
+    - `crisis of confidence`
+      - 信任危机 
+    - `humanitarian crisis`
+      - 人道主义危机 
+    - `identity crisis`
+      - 认同的转折点 
+    - `liquidity crisis`
+      - 流动性危机；清偿危机 
+    - `monetary crisis`
+      - 货币危机；金融危机 
+    - `financial crisis in asia`
+      - 亚洲金融危机 
+    - `midlife crisis`
+      - 中年危机 
+    - `fiscal crisis`
+      - 财政危机 
   - 例句
     - `The country now faces an economic crisis .`
       - 该国目前正面临一场经济危机。

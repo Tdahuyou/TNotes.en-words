@@ -1,15 +1,20 @@
 - nor
   - 发音
-    - 英 `/nɔː; nə/`
-    - 美 `/nɔr/`
+    - 英
+      - `/nɔː; nə/`
+    - 美
+      - `/nɔr/`
   - 词义
-    - conj. 也不
-    - `used when mentioning two things that are not true or do not happen`
+    - conj.
+      - 也不
+        - `used when mentioning two things that are not true or do not happen`
   - 近义词
-    - conj. 也不；也不是
-      - `neither`
+    - conj.
+      - 也不；也不是
+        - `neither`
   - 短语
-    - `nor yet` 也没有，也不 
+    - `nor yet`
+      - 也没有，也不 
   - 例句
     - `He can neither read nor write (= he cannot read or write ).`
       - 他既不会读也不会写。

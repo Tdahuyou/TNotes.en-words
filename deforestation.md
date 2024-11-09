@@ -1,13 +1,17 @@
 - deforestation
   - 发音
-    - 英 `/,di,fɔrɪ'steʃən/`
-    - 美 `/undefined/`
+    - 英
+      - `/,di,fɔrɪ'steʃən/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 砍伐森林
-    - `the cutting or burning down of all the trees in an area`
+    - n.
+      - 砍伐森林
+        - `the cutting or burning down of all the trees in an area`
   - 同根词
     - vt.
-      - `deforest` 采伐森林；清除…上的树林
+      - `deforest`
+        - 采伐森林；清除…上的树林
   - 例句
     - `the deforestation of the tropics`
       - 热带森林的毁坏

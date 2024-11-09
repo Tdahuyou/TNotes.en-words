@@ -1,42 +1,70 @@
 - southerly
   - 发音
-    - 英 `/'sʌðəlɪ/`
-    - 美 `/'sʌðɚli/`
+    - 英
+      - `/'sʌðəlɪ/`
+    - 美
+      - `/'sʌðɚli/`
   - 词义
-    - adj. 向南方的ad在南方
-    - `towards or in the south`
+    - adj.
+      - 向南方的ad在南方
+        - `towards or in the south`
   - 同根词
     - adj.
-      - `south` 南的，南方的
-      - `southern` 南的；南方的
-      - `southeast` 东南的；来自东南的
-      - `southwest` 西南的
-      - `southeastern` 东南方的；朝东南的
-      - `southward` 向南的；在南方的
-      - `southbound` 往南的；向南行进的
-      - `southeasterly` 往东南的；来自东南的
-      - `southernmost` 最南的
-      - `southmost` 最南的
+      - `south`
+        - 南的，南方的
+      - `southern`
+        - 南的；南方的
+      - `southeast`
+        - 东南的；来自东南的
+      - `southwest`
+        - 西南的
+      - `southeastern`
+        - 东南方的；朝东南的
+      - `southward`
+        - 向南的；在南方的
+      - `southbound`
+        - 往南的；向南行进的
+      - `southeasterly`
+        - 往东南的；来自东南的
+      - `southernmost`
+        - 最南的
+      - `southmost`
+        - 最南的
     - adv.
-      - `south` 在南方，向南方
-      - `southeast` 来自东南
-      - `southwest` 往西南；来自西南
-      - `southward` 向南
-      - `southeasterly` 往东南；来自东南
-      - `southwards` 往南地；在南方
+      - `south`
+        - 在南方，向南方
+      - `southeast`
+        - 来自东南
+      - `southwest`
+        - 往西南；来自西南
+      - `southward`
+        - 向南
+      - `southeasterly`
+        - 往东南；来自东南
+      - `southwards`
+        - 往南地；在南方
     - n.
-      - `south` 南方，南边；南部
-      - `southern` 南方人
-      - `southeast` 东南；东南地区
-      - `southwest` 西南方
-      - `southerner` 南方人
-      - `southward` 朝南的方向
-      - `southeaster` 东南的强风；东南风
-      - `souther` 正南强风；南风
+      - `south`
+        - 南方，南边；南部
+      - `southern`
+        - 南方人
+      - `southeast`
+        - 东南；东南地区
+      - `southwest`
+        - 西南方
+      - `southerner`
+        - 南方人
+      - `southward`
+        - 朝南的方向
+      - `southeaster`
+        - 东南的强风；东南风
+      - `souther`
+        - 正南强风；南风
   - 近义词
-    - n. 南风
-      - `south wind`
-      - `notos`
+    - n.
+      - 南风
+        - `south wind`
+        - `notos`
   - 例句
     - `Tara walked in a southerly direction .`
       - 塔拉朝南走去。

@@ -1,26 +1,36 @@
 - recall
   - 发音
-    - 英 `/rɪ'kɔːl/`
-    - 美 `/'rikɔl/`
+    - 英
+      - `/rɪ'kɔːl/`
+    - 美
+      - `/'rikɔl/`
   - 词义
-    - v. 回忆起，回想起；召回，叫回；收回，撤销
-    - `to remember a particular fact, event, or situation from the past`
-    - n. 记忆力，记性；召回
-    - `the ability to remember something that you have learned or experienced`
+    - v.
+      - 回忆起，回想起；召回，叫回；收回，撤销
+        - `to remember a particular fact, event, or situation from the past`
+    - n.
+      - 记忆力，记性；召回
+        - `the ability to remember something that you have learned or experienced`
   - 记忆
     - re(再， 又) + call(叫喊) → 再次喊起旧日的小名 → 回忆起
   - 近义词
-    - vt. 召回；回想起，记起；取消
-      - `think of`
-      - `come back`
-    - n. 召回；回忆；撤消
-      - `memory`
-      - `recollection`
+    - vt.
+      - 召回；回想起，记起；取消
+        - `think of`
+        - `come back`
+    - n.
+      - 召回；回忆；撤消
+        - `memory`
+        - `recollection`
   - 短语
-    - `beyond recall` 不可挽回；不能记起 
-    - `recall from` 从…处召回 
-    - `recall to mind` 回想起，回忆起，记得 
-    - `recall ratio` 查全率，检索率 
+    - `beyond recall`
+      - 不可挽回；不能记起 
+    - `recall from`
+      - 从…处召回 
+    - `recall to mind`
+      - 回想起，回忆起，记得 
+    - `recall ratio`
+      - 查全率，检索率 
   - 例句
     - `You don’t happen to recall his name, do you?`
       - 你不会恰巧还想得起他的名字吧？

@@ -1,14 +1,18 @@
 - seafloor
   - 发音
-    - 英 `/undefined/`
-    - 美 `/'si,flor/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/'si,flor/`
   - 词义
-    - n. 海底
-    - `The seafloor is the ground under the sea`
+    - n.
+      - 海底
+        - `The seafloor is the ground under the sea`
   - 近义词
-    - n. 海底
-      - `sea-bed`
-      - `sea bottom`
+    - n.
+      - 海底
+        - `sea-bed`
+        - `sea bottom`
   - 例句
     - `Sea urchins brandish their spines on the seafloor near the Channel Islands.`
       - 海胆在海峡群岛附近的海底挥舞着它们的棘突。

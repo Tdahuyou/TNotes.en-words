@@ -1,16 +1,22 @@
 - gratitude
   - 发音
-    - 英 `/'grætɪtjuːd/`
-    - 美 `/'ɡrætɪtud/`
+    - 英
+      - `/'grætɪtjuːd/`
+    - 美
+      - `/'ɡrætɪtud/`
   - 词义
-    - n. 感激，感恩
-    - `the feeling of being grateful`
+    - n.
+      - 感激，感恩
+        - `the feeling of being grateful`
   - 记忆
     - grat(高兴)+i+tude→感激
   - 短语
-    - `gratitude to sb` 感激某人 
-    - `express gratitude` 表达感谢 
-    - `debt of gratitude` 人情债 
+    - `gratitude to sb`
+      - 感激某人 
+    - `express gratitude`
+      - 表达感谢 
+    - `debt of gratitude`
+      - 人情债 
   - 例句
     - `Tears of gratitude filled her eyes.`
       - 她眼里充满感激的泪水。

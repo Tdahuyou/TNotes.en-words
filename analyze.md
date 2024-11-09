@@ -1,28 +1,41 @@
 - analyze
   - 发音
-    - 英 `/'ænəlaɪz/`
-    - 美 `/'ænə,laɪz/`
+    - 英
+      - `/'ænəlaɪz/`
+    - 美
+      - `/'ænə,laɪz/`
   - 词义
-    - vt. 分析，研究
+    - vt.
+      - 分析，研究
   - 记忆
     - ana(贯穿) + lyz(分开) + e → 整个分开 → 分析
   - 同根词
     - adj.
-      - `analytical` 分析的；解析的；善于分析的
-      - `analytic` 分析的；解析的；善于分析的
-      - `analyzable` 可分析的
+      - `analytical`
+        - 分析的；解析的；善于分析的
+      - `analytic`
+        - 分析的；解析的；善于分析的
+      - `analyzable`
+        - 可分析的
     - adv.
-      - `analytically` 分析地；解析地
+      - `analytically`
+        - 分析地；解析地
     - n.
-      - `analysis` 分析；分解；验定
-      - `analyzer` [计] 分析器；分析者；检偏镜
-      - `analyser` 分析器，分析仪；分析者
-      - `analyticity` 分析性，[数] 解析性
+      - `analysis`
+        - 分析；分解；验定
+      - `analyzer`
+        - [计] 分析器；分析者；检偏镜
+      - `analyser`
+        - 分析器，分析仪；分析者
+      - `analyticity`
+        - 分析性，[数] 解析性
   - 近义词
-    - vt. 对…进行分析，分解（等于analyse）
-      - `break down`
+    - vt.
+      - 对…进行分析，分解（等于analyse）
+        - `break down`
   - 短语
-    - `analyze data` 分析数据；分析资料 
+    - `analyze data`
+      - 分析数据；分析资料 
   - 例句
     - `We have to analyze and solve problems.`
       - 我们要分析问题，解决问题。

@@ -1,14 +1,18 @@
 - antenatal
   - 发音
-    - 英 `/ˌænti'neitəl/`
-    - 美 `/'æntə'netl/`
+    - 英
+      - `/ˌænti'neitəl/`
+    - 美
+      - `/'æntə'netl/`
   - 词义
-    - adj. 【医】出生前的
-    - `relating to the medical care given to women who are going to have a baby`
+    - adj.
+      - 【医】出生前的
+        - `relating to the medical care given to women who are going to have a baby`
   - 近义词
-    - adj. 产前的；[医]出生前的
-      - `prenatal`
-      - `predelivery`
+    - adj.
+      - 产前的；[医]出生前的
+        - `prenatal`
+        - `predelivery`
   - 例句
     - `an antenatal clinic`
       - 产前检查诊所

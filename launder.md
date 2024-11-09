@@ -1,24 +1,33 @@
 - launder
   - 发音
-    - 英 `/'lɔːndə/`
-    - 美 `/'lɔndɚ/`
+    - 英
+      - `/'lɔːndə/`
+    - 美
+      - `/'lɔndɚ/`
   - 词义
-    - v. 洗涤
-    - `to put money which has been obtained illegally into legal businesses and bank accounts, so that you can hide it or use it`
+    - v.
+      - 洗涤
+        - `to put money which has been obtained illegally into legal businesses and bank accounts, so that you can hide it or use it`
   - 同根词
     - n.
-      - `laundry` 洗衣店，洗衣房；要洗的衣服；洗熨；洗好的衣服
-      - `laundering` 洗烫
-      - `laundress` 洗熨衣物的女工
+      - `laundry`
+        - 洗衣店，洗衣房；要洗的衣服；洗熨；洗好的衣服
+      - `laundering`
+        - 洗烫
+      - `laundress`
+        - 洗熨衣物的女工
     - v.
-      - `laundering` 洗涤；洗黑钱（launder的ing形式）
+      - `laundering`
+        - 洗涤；洗黑钱（launder的ing形式）
   - 近义词
-    - vt. 洗涤；清洗；洗黑钱（把来路可疑的钱弄得貌似合法）
-      - `wash`
-      - `purge of`
-    - vi. 洗涤；洗熨；耐洗
-      - `wash well`
-      - `line dry`
+    - vt.
+      - 洗涤；清洗；洗黑钱（把来路可疑的钱弄得貌似合法）
+        - `wash`
+        - `purge of`
+    - vi.
+      - 洗涤；洗熨；耐洗
+        - `wash well`
+        - `line dry`
   - 例句
     - `He was jailed of laundering drug money.`
       - 他因帮毒贩洗钱而锒铛入狱。

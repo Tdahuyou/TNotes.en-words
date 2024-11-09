@@ -1,12 +1,16 @@
 - imbue
   - 发音
-    - 英 `/im'bjuː/`
-    - 美 `/ɪm'bjʊ/`
+    - 英
+      - `/im'bjuː/`
+    - 美
+      - `/ɪm'bjʊ/`
   - 词义
-    - v. 浸透
+    - v.
+      - 浸透
   - 记忆
     - IBM品牌已经浸透 (imbue) 进中国市场
   - 近义词
-    - vt. 灌输；使感染；使渗透
-      - `indoctrinate`
-      - `infuse`
+    - vt.
+      - 灌输；使感染；使渗透
+        - `indoctrinate`
+        - `infuse`

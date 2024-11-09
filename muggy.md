@@ -1,17 +1,22 @@
 - muggy
   - 发音
-    - 英 `/'mʌgi/`
-    - 美 `/'mʌɡi/`
+    - 英
+      - `/'mʌgi/`
+    - 美
+      - `/'mʌɡi/`
   - 词义
-    - adj. 闷热的
-    - `muggy weather is unpleasantly warm and the air seems wet`
+    - adj.
+      - 闷热的
+        - `muggy weather is unpleasantly warm and the air seems wet`
   - 同根词
     - n.
-      - `mugginess` 闷热
+      - `mugginess`
+        - 闷热
   - 近义词
-    - adj. 闷热的；潮湿的
-      - `wet`
-      - `stuffy`
+    - adj.
+      - 闷热的；潮湿的
+        - `wet`
+        - `stuffy`
   - 例句
     - `It was muggy and overcast.`
       - 那天天气闷热又潮湿，阴沉沉的。

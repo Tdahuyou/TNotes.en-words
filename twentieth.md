@@ -1,22 +1,31 @@
 - twentieth
   - 发音
-    - 英 `/ˈtwentɪəθ/`
-    - 美 `/ˈtwɛntɪɪθ/`
+    - 英
+      - `/ˈtwentɪəθ/`
+    - 美
+      - `/ˈtwɛntɪɪθ/`
   - 词义
-    - num. 第二十
+    - num.
+      - 第二十
   - 同根词
     - adj.
-      - `twenty` 二十的
+      - `twenty`
+        - 二十的
     - n.
-      - `twenty` 二十；二十年代
-      - `twenties` 二十几岁；二十年代（1920年到1929年的时期）；一生中20至29岁的十年
+      - `twenty`
+        - 二十；二十年代
+      - `twenties`
+        - 二十几岁；二十年代（1920年到1929年的时期）；一生中20至29岁的十年
     - num.
-      - `twenty` 二十
+      - `twenty`
+        - 二十
   - 近义词
-    - adj. 第二十的；二十分之一的
-      - `vigesimal`
+    - adj.
+      - 第二十的；二十分之一的
+        - `vigesimal`
   - 短语
-    - `the twentieth century` 20世纪 
+    - `the twentieth century`
+      - 20世纪 
   - 例句
     - `This was how I stepped into my twentieth year.`
       - 我就是这样地跨进我的二十岁年纪。

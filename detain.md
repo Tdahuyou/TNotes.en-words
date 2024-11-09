@@ -1,17 +1,22 @@
 - detain
   - 发音
-    - 英 `/dɪ'teɪn/`
-    - 美 `/dɪ'ten/`
+    - 英
+      - `/dɪ'teɪn/`
+    - 美
+      - `/dɪ'ten/`
   - 词义
-    - v. 拘留；留住；耽搁
-    - `to officially prevent someone from leaving a place`
+    - v.
+      - 拘留；留住；耽搁
+        - `to officially prevent someone from leaving a place`
   - 同根词
     - n.
-      - `detainment` 扣留；延误；挽留
+      - `detainment`
+        - 扣留；延误；挽留
   - 近义词
-    - vt. 拘留；留住；耽搁
-      - `hold`
-      - `delay`
+    - vt.
+      - 拘留；留住；耽搁
+        - `hold`
+        - `delay`
   - 例句
     - `Two suspects have been detained by the police for questioning .`
       - 两名嫌疑人被警方拘留审问。

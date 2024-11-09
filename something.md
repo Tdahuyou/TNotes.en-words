@@ -1,41 +1,61 @@
 - something
   - 发音
-    - 英 `/'sʌmθɪŋ/`
-    - 美 `/'sʌmθɪŋ/`
+    - 英
+      - `/'sʌmθɪŋ/`
+    - 美
+      - `/'sʌmθɪŋ/`
   - 词义
-    - pron. 某事物；某种东西
-    - `used to mean a particular thing when you do not know its name or do not know exactly what it is`
+    - pron.
+      - 某事物；某种东西
+        - `used to mean a particular thing when you do not know its name or do not know exactly what it is`
   - 记忆
     - some(某个)+thing(东西)→某物
   - 同根词
     - adj.
-      - `some` 一些；某一；大约
+      - `some`
+        - 一些；某一；大约
     - adv.
-      - `somewhat` 有点；多少；几分；稍微
+      - `somewhat`
+        - 有点；多少；几分；稍微
     - n.
-      - `somewhat` 几分；某物
-      - `somebody` 大人物；重要人物
+      - `somewhat`
+        - 几分；某物
+      - `somebody`
+        - 大人物；重要人物
     - pron.
-      - `some` 一些；若干
-      - `somebody` 有人；某人
+      - `some`
+        - 一些；若干
+      - `somebody`
+        - 有人；某人
   - 近义词
-    - adv. 非常；有点；大约
-      - `extremely`
-      - `badly`
-      - `highly`
-      - `greatly`
-      - `too`
+    - adv.
+      - 非常；有点；大约
+        - `extremely`
+        - `badly`
+        - `highly`
+        - `greatly`
+        - `too`
   - 短语
-    - `something else` 别的东西 
-    - `or something` 或是什么的；诸如此类的什么 
-    - `something like` 有点像；大约；差不多 
-    - `something of` 有几分；在某种意义上 
-    - `something to do with` ◎与…有关 
-    - `something of a` 有几分；有点儿；可以说是一个 
-    - `something for nothing` 不劳而获之利益；轻易得来的利益 
-    - `start something` [美国口语] 制造麻烦；引起争吵(或打斗) 
-    - `something or other` 某事物 
-    - `something tells me` [口语] 我猜疑，我感到，我想 
+    - `something else`
+      - 别的东西 
+    - `or something`
+      - 或是什么的；诸如此类的什么 
+    - `something like`
+      - 有点像；大约；差不多 
+    - `something of`
+      - 有几分；在某种意义上 
+    - `something to do with`
+      - ◎与…有关 
+    - `something of a`
+      - 有几分；有点儿；可以说是一个 
+    - `something for nothing`
+      - 不劳而获之利益；轻易得来的利益 
+    - `start something`
+      - [美国口语] 制造麻烦；引起争吵(或打斗) 
+    - `something or other`
+      - 某事物 
+    - `something tells me`
+      - [口语] 我猜疑，我感到，我想 
   - 例句
     - `There’s something in my eye.`
       - 我眼睛里有什么东西。

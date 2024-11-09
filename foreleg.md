@@ -1,13 +1,17 @@
 - foreleg
   - 发音
-    - 英 `/'fɔːleg/`
-    - 美 `/'fɔrlɛɡ/`
+    - 英
+      - `/'fɔːleg/`
+    - 美
+      - `/'fɔrlɛɡ/`
   - 词义
-    - n. 前肢(指四肢或多肢动物的)前脚
-    - `one of the two front legs of an animal with four legs`
+    - n.
+      - 前肢(指四肢或多肢动物的)前脚
+        - `one of the two front legs of an animal with four legs`
   - 近义词
-    - n. 前脚；前腿
-      - `pud`
+    - n.
+      - 前脚；前腿
+        - `pud`
   - 例句
     - `In a proper depiction the hindleg would be forward too, having moved before the foreleg.`
       - 正确的姿势应是，右后腿早应向前迈，并且应该在跨出前腿之前就迈出后腿。

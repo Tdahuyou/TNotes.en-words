@@ -1,9 +1,12 @@
 - prismy
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - adj. 棱柱的,五光十色的
+    - adj.
+      - 棱柱的,五光十色的
   - 例句
     - `On the monolayer in the absence of additives, the tri-dimensional prismy COM crystals precipitated.`
       - 没有添加剂时，得到的COM为三维的六棱柱和三维的菱形晶体；

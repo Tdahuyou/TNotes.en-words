@@ -1,19 +1,27 @@
 - overwrought
   - 发音
-    - 英 `/əʊvə'rɔːt/`
-    - 美 `/,ovɚ'rɔt/`
+    - 英
+      - `/əʊvə'rɔːt/`
+    - 美
+      - `/,ovɚ'rɔt/`
   - 词义
-    - adj. 过分劳累的，过度兴奋的
+    - adj.
+      - 过分劳累的，过度兴奋的
   - 同根词
     - adj.
-      - `overzealous` 过分热心的
-      - `overweening` 自负的，过于自信的；过分的
+      - `overzealous`
+        - 过分热心的
+      - `overweening`
+        - 自负的，过于自信的；过分的
     - n.
-      - `overwork` 过度工作
+      - `overwork`
+        - 过度工作
     - vi.
-      - `overwork` 工作过度
+      - `overwork`
+        - 工作过度
     - vt.
-      - `overwork` 工作过度
+      - `overwork`
+        - 工作过度
   - 例句
     - `Clara was tired and overwrought after all the problems of the last few days.`
       - 经历了过去几天的重重困难之后，克拉拉既疲惫又紧张。

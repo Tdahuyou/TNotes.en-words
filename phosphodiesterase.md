@@ -1,9 +1,12 @@
 - phosphodiesterase
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. [生化]磷酸二酯酶
+    - n.
+      - [生化]磷酸二酯酶
   - 例句
     - `The inhibitors of phosphodiesterase -4 inhibit the inflammation reaction by regulating cytokine secretion.`
       - 磷酸二酯酶-4抑制剂通过调节细胞因子而抑制炎症反应。

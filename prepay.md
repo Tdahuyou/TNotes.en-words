@@ -1,20 +1,27 @@
 - prepay
   - 发音
-    - 英 `/priː'peɪ/`
-    - 美 `/pri'pe/`
+    - 英
+      - `/priː'peɪ/`
+    - 美
+      - `/pri'pe/`
   - 词义
-    - v. 预付
-    - `to pay for something before you need it or use it`
+    - v.
+      - 预付
+        - `to pay for something before you need it or use it`
   - 同根词
     - adj.
-      - `prepaid` 先付的，已支付的
+      - `prepaid`
+        - 先付的，已支付的
     - n.
-      - `prepayment` 预付款
+      - `prepayment`
+        - 预付款
     - v.
-      - `prepaid` 预付（prepay的过去式和过去分词）
+      - `prepaid`
+        - 预付（prepay的过去式和过去分词）
   - 近义词
-    - vt. 预付；提前缴纳
-      - `pay in advance`
+    - vt.
+      - 预付；提前缴纳
+        - `pay in advance`
   - 例句
     - `Participation in the program would be voluntary and participants could prepay the government loan at any time.`
       - 参加这以项目是自愿的，参与者可以在任何时间将贷款预付给政府。

@@ -1,22 +1,30 @@
 - debatable
   - 发音
-    - 英 `/dɪ'beɪtəbl/`
-    - 美 `/dɪ'betəbəl/`
+    - 英
+      - `/dɪ'beɪtəbl/`
+    - 美
+      - `/dɪ'betəbəl/`
   - 词义
-    - adj. 有争议的
-    - `things that are debatable are not certain because people have different opinions about them`
+    - adj.
+      - 有争议的
+        - `things that are debatable are not certain because people have different opinions about them`
   - 同根词
     - n.
-      - `debate` 辩论；辩论会
-      - `debater` 讨论者；辩论家
+      - `debate`
+        - 辩论；辩论会
+      - `debater`
+        - 讨论者；辩论家
     - vi.
-      - `debate` 辩论，争论，讨论
+      - `debate`
+        - 辩论，争论，讨论
     - vt.
-      - `debate` 辩论，争论，讨论
+      - `debate`
+        - 辩论，争论，讨论
   - 近义词
-    - adj. 成问题的；可争论的；未决定的
-      - `problem`
-      - `unsettled`
+    - adj.
+      - 成问题的；可争论的；未决定的
+        - `problem`
+        - `unsettled`
   - 例句
     - `a debatable point`
       - 有争议的地方

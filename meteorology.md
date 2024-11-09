@@ -1,28 +1,39 @@
 - meteorology
   - 发音
-    - 英 `/ˌmiːtiə'rɑːlədʒi/`
-    - 美 `/,mitɪə'rɑlədʒi/`
+    - 英
+      - `/ˌmiːtiə'rɑːlədʒi/`
+    - 美
+      - `/,mitɪə'rɑlədʒi/`
   - 词义
-    - n. 气象学
-    - `the scientific study of weather conditions`
+    - n.
+      - 气象学
+        - `the scientific study of weather conditions`
   - 记忆
     - meteor(陨石； 天气) + ology(…学) → 古代根据陨石判断天气 → 气象学
   - 同根词
     - adj.
-      - `meteorological` 气象的；气象学的
-      - `meteorologic` 气象的；气象学的
+      - `meteorological`
+        - 气象的；气象学的
+      - `meteorologic`
+        - 气象的；气象学的
     - adv.
-      - `meteorologically` 从气象学角度看
+      - `meteorologically`
+        - 从气象学角度看
     - n.
-      - `meteor` 流星；[气象] 大气现象
-      - `meteorologist` 气象学者
+      - `meteor`
+        - 流星；[气象] 大气现象
+      - `meteorologist`
+        - 气象学者
   - 近义词
-    - n. 气象状态，[气象]气象学
-      - `aerography`
-      - `meteorological optics`
+    - n.
+      - 气象状态，[气象]气象学
+        - `aerography`
+        - `meteorological optics`
   - 短语
-    - `agricultural meteorology` 农业气象学 
-    - `synoptic meteorology` 天气学 
+    - `agricultural meteorology`
+      - 农业气象学 
+    - `synoptic meteorology`
+      - 天气学 
   - 例句
     - `For example geography, meteorology, physics and history.`
       - 例如地理学，气象学，物理（学）和历史。

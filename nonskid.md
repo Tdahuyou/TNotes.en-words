@@ -1,12 +1,16 @@
 - nonskid
   - 发音
-    - 英 `/'nɒn'skɪd/`
-    - 美 `/nɑn'skɪd/`
+    - 英
+      - `/'nɒn'skɪd/`
+    - 美
+      - `/nɑn'skɪd/`
   - 词义
-    - adj. 不滑的
+    - adj.
+      - 不滑的
   - 近义词
-    - adj. （轮胎等）不滑的
-      - `non-slip`
+    - adj.
+      - （轮胎等）不滑的
+        - `non-slip`
   - 例句
     - `This kind of type is characteristic of nonskid stops on wet roads.`
       - 这种轮胎的特点是在潮湿的路面上不打滑。

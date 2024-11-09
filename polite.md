@@ -1,33 +1,44 @@
 - polite
   - 发音
-    - 英 `/pə'laɪt/`
-    - 美 `/pə'laɪt/`
+    - 英
+      - `/pə'laɪt/`
+    - 美
+      - `/pə'laɪt/`
   - 词义
-    - adj. 礼貌的
-    - `behaving or speaking in a way that is correct for the social situation you are in, and showing that you are careful to consider other people’s needs and feelings`
+    - adj.
+      - 礼貌的
+        - `behaving or speaking in a way that is correct for the social situation you are in, and showing that you are careful to consider other people’s needs and feelings`
   - 记忆
     - 警察 (police) 很有礼貌 (polite)
   - 同根词
     - adj.
-      - `polish` 波兰的
+      - `polish`
+        - 波兰的
     - adv.
-      - `politely` 有礼貌地；客气地；委婉地；殷勤地
+      - `politely`
+        - 有礼貌地；客气地；委婉地；殷勤地
     - n.
-      - `polish` 磨光，擦亮；上光剂，擦亮剂；优雅，精良
-      - `politeness` 有礼貌；优雅
+      - `polish`
+        - 磨光，擦亮；上光剂，擦亮剂；优雅，精良
+      - `politeness`
+        - 有礼貌；优雅
     - vi.
-      - `polish` 擦亮，变光滑
+      - `polish`
+        - 擦亮，变光滑
     - vt.
-      - `polish` 磨光，使发亮
+      - `polish`
+        - 磨光，使发亮
   - 近义词
-    - adj. 有礼貌的，客气的；文雅的；上流的；优雅的
-      - `civil`
-      - `elegant`
-      - `gentle`
-      - `mild`
-      - `courteous`
+    - adj.
+      - 有礼貌的，客气的；文雅的；上流的；优雅的
+        - `civil`
+        - `elegant`
+        - `gentle`
+        - `mild`
+        - `courteous`
   - 短语
-    - `polite society` 上流社会；文雅社会 
+    - `polite society`
+      - 上流社会；文雅社会 
   - 例句
     - `She’s always very polite.`
       - 她总是很有礼貌。

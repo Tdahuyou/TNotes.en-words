@@ -1,26 +1,33 @@
 - atone
   - 发音
-    - 英 `/ə'təun/`
-    - 美 `/ə'təun/`
+    - 英
+      - `/ə'təun/`
+    - 美
+      - `/ə'təun/`
   - 词义
-    - vi. 弥补
-    - `to do something to show that you are sorry for having done something wrong`
+    - vi.
+      - 弥补
+        - `to do something to show that you are sorry for having done something wrong`
   - 记忆
     - a + tone (看作stone， 石头) → 女娲以石补天 → 弥补
   - 同根词
     - n.
-      - `atonement` 赎罪；补偿，弥补
+      - `atonement`
+        - 赎罪；补偿，弥补
   - 近义词
-    - vt. 赎罪；弥补；偿还
-      - `replace`
-      - `recover`
-      - `offset`
-      - `tender`
-    - vi. 弥补；赎回
-      - `make up for it`
-      - `make up for sth.`
+    - vt.
+      - 赎罪；弥补；偿还
+        - `replace`
+        - `recover`
+        - `offset`
+        - `tender`
+    - vi.
+      - 弥补；赎回
+        - `make up for it`
+        - `make up for sth.`
   - 短语
-    - `atone for` 赎回；抵偿 
+    - `atone for`
+      - 赎回；抵偿 
   - 例句
     - `He felt he had atoned for what he had done to his son.`
       - 他觉得他已弥补曾对儿子所做的错事。

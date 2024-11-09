@@ -1,39 +1,54 @@
 - awake
   - 发音
-    - 英 `/ə'weɪk/`
-    - 美 `/ə'wek/`
+    - 英
+      - `/ə'weɪk/`
+    - 美
+      - `/ə'wek/`
   - 词义
-    - v. 唤醒；醒；觉醒，醒悟
-    - `to wake up, or to make someone wake up`
-    - adj. 醒着的；警觉的
-    - `not sleeping`
+    - v.
+      - 唤醒；醒；觉醒，醒悟
+        - `to wake up, or to make someone wake up`
+    - adj.
+      - 醒着的；警觉的
+        - `not sleeping`
   - 记忆
     - a + wake(醒来) → 醒过来 → 醒着的
   - 同根词
     - adj.
-      - `awakening` 觉醒中的；正在产生的
+      - `awakening`
+        - 觉醒中的；正在产生的
     - n.
-      - `awakening` 觉醒；唤醒；认识
+      - `awakening`
+        - 觉醒；唤醒；认识
     - v.
-      - `awakening` 唤醒；唤起（awaken的ing形式）
+      - `awakening`
+        - 唤醒；唤起（awaken的ing形式）
     - vi.
-      - `awaken` 觉醒；醒来；意识到
+      - `awaken`
+        - 觉醒；醒来；意识到
     - vt.
-      - `awaken` 唤醒；唤起；使…意识到
+      - `awaken`
+        - 唤醒；唤起；使…意识到
   - 近义词
-    - vi. 觉醒，意识到；醒来；被唤起
-      - `be aware that`
-      - `be on to`
-    - vt. 唤醒；使觉醒；激起，唤起
-      - `arouse`
-      - `wake sb. up`
-    - adj. 醒着的
-      - `waking`
-      - `wakeful`
+    - vi.
+      - 觉醒，意识到；醒来；被唤起
+        - `be aware that`
+        - `be on to`
+    - vt.
+      - 唤醒；使觉醒；激起，唤起
+        - `arouse`
+        - `wake sb. up`
+    - adj.
+      - 醒着的
+        - `waking`
+        - `wakeful`
   - 短语
-    - `stay awake` 保持清醒；保持醒着的 
-    - `wide awake` 清醒的；机警的 
-    - `awake from` 从…中醒来，察觉 
+    - `stay awake`
+      - 保持清醒；保持醒着的 
+    - `wide awake`
+      - 清醒的；机警的 
+    - `awake from`
+      - 从…中醒来，察觉 
   - 例句
     - `It was midday when she awoke.`
       - 她醒来时已是中午。

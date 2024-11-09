@@ -1,16 +1,21 @@
 - grievance
   - 发音
-    - 英 `/'griːv(ə)ns/`
-    - 美 `/'grivəns/`
+    - 英
+      - `/'griːv(ə)ns/`
+    - 美
+      - `/'grivəns/`
   - 词义
-    - n. 委屈,冤情,不平
-    - `a belief that you have been treated unfairly, or an unfair situation or event that affects and upsets you`
+    - n.
+      - 委屈,冤情,不平
+        - `a belief that you have been treated unfairly, or an unfair situation or event that affects and upsets you`
   - 近义词
-    - n. 不满，不平；委屈；冤情
-      - `dissatisfaction`
-      - `complaint`
+    - n.
+      - 不满，不平；委屈；冤情
+        - `dissatisfaction`
+        - `complaint`
   - 短语
-    - `grievance procedure` 冤屈投诉程序；苦情处理制度；抱怨程序；申诉程序 
+    - `grievance procedure`
+      - 冤屈投诉程序；苦情处理制度；抱怨程序；申诉程序 
   - 例句
     - `anyone who has a legitimate grievance against the company`
       - 凡是有正当理由对公司感到不满的人

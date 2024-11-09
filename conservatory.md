@@ -1,31 +1,47 @@
 - conservatory
   - 发音
-    - 英 `/kən'sɜːvət(ə)rɪ/`
-    - 美 `/kən'sɝvətɔri/`
+    - 英
+      - `/kən'sɜːvət(ə)rɪ/`
+    - 美
+      - `/kən'sɝvətɔri/`
   - 词义
-    - n. 温室；公立艺术学校
-    - `a room with glass walls and a glass roof, where plants are grown, that is usually added on to a house`
+    - n.
+      - 温室；公立艺术学校
+        - `a room with glass walls and a glass roof, where plants are grown, that is usually added on to a house`
   - 同根词
     - adj.
-      - `conserved` 保守的
-      - `conserving` 保存的
+      - `conserved`
+        - 保守的
+      - `conserving`
+        - 保存的
     - adv.
-      - `conservatively` 谨慎地；保存地；适当地
+      - `conservatively`
+        - 谨慎地；保存地；适当地
     - n.
-      - `conservation` 保存，保持；保护
-      - `conserve` 果酱；蜜饯
-      - `conservancy` 管理；保护；保存
-      - `conservator` 保护者；管理员
+      - `conservation`
+        - 保存，保持；保护
+      - `conserve`
+        - 果酱；蜜饯
+      - `conservancy`
+        - 管理；保护；保存
+      - `conservator`
+        - 保护者；管理员
     - v.
-      - `conserved` 保存；保全（conserve的过去式）
-      - `conserving` 保护；保藏；糖渍（conserve的ing形式）
+      - `conserved`
+        - 保存；保全（conserve的过去式）
+      - `conserving`
+        - 保护；保藏；糖渍（conserve的ing形式）
     - vt.
-      - `conserve` 保存；将…做成蜜饯；使守恒
+      - `conserve`
+        - 保存；将…做成蜜饯；使守恒
   - 近义词
-    - n. [园艺]温室；音乐学校
-      - `greenhouse`
-      - `heated housing`
-    - adj. 有保存力的；保存性的
-      - `preservative`
+    - n.
+      - [园艺]温室；音乐学校
+        - `greenhouse`
+        - `heated housing`
+    - adj.
+      - 有保存力的；保存性的
+        - `preservative`
   - 短语
-    - `conservatory of music` 音乐学院 
+    - `conservatory of music`
+      - 音乐学院 

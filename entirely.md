@@ -1,25 +1,32 @@
 - entirely
   - 发音
-    - 英 `/ɪn'taɪəlɪ; en-/`
-    - 美 `/ɪn'taɪɚli/`
+    - 英
+      - `/ɪn'taɪəlɪ; en-/`
+    - 美
+      - `/ɪn'taɪɚli/`
   - 词义
-    - adv. 完全地；全然地；整个地
-    - `completely and in every possible way`
+    - adv.
+      - 完全地；全然地；整个地
+        - `completely and in every possible way`
   - 同根词
     - adj.
-      - `entire` 全部的，整个的；全体的
+      - `entire`
+        - 全部的，整个的；全体的
     - n.
-      - `entirety` 全部；完全
-      - `entireness` 全体；完全；整个
+      - `entirety`
+        - 全部；完全
+      - `entireness`
+        - 全体；完全；整个
   - 近义词
-    - adv. 完全地，彻底地
-      - `completely`
-      - `totally`
-      - `thoroughly`
-      - `fully`
-      - `absolutely`
-      - `strictly`
-      - `perfectly`
+    - adv.
+      - 完全地，彻底地
+        - `completely`
+        - `totally`
+        - `thoroughly`
+        - `fully`
+        - `absolutely`
+        - `strictly`
+        - `perfectly`
   - 例句
     - `Our situation is entirely different.`
       - 我们的处境完全不同。

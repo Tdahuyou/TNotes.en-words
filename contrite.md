@@ -1,21 +1,27 @@
 - contrite
   - 发音
-    - 英 `/kən'traɪt/`
-    - 美 `/kən'traɪt/`
+    - 英
+      - `/kən'traɪt/`
+    - 美
+      - `/kən'traɪt/`
   - 词义
-    - adj. 悔罪的，痛悔的
-    - `feeling guilty and sorry for something bad that you have done`
+    - adj.
+      - 悔罪的，痛悔的
+        - `feeling guilty and sorry for something bad that you have done`
   - 记忆
     - con + trit(摩擦) + e → (心灵)摩擦 → 痛悔的
   - 同根词
     - adv.
-      - `contritely` 懊悔地
+      - `contritely`
+        - 懊悔地
     - n.
-      - `contrition` 痛悔；悔悟
+      - `contrition`
+        - 痛悔；悔悟
   - 近义词
-    - adj. 悔悟了的；后悔的；悔罪的
-      - `regretful`
-      - `repentant`
+    - adj.
+      - 悔悟了的；后悔的；悔罪的
+        - `regretful`
+        - `repentant`
   - 例句
     - `a contrite apology`
       - 深感悔悟的道歉

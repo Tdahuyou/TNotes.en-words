@@ -1,27 +1,35 @@
 - preponderant
   - 发音
-    - 英 `/pri'pɔndərənt/`
-    - 美 `/prɪ'pɑndərənt/`
+    - 英
+      - `/pri'pɔndərənt/`
+    - 美
+      - `/prɪ'pɑndərənt/`
   - 词义
-    - adj. 占有优势的
-    - `greater in weight, force, influence, etc `
+    - adj.
+      - 占有优势的
+        - `greater in weight, force, influence, etc `
   - 记忆
     - 来自preponder (ate) (压倒) + ant → 压倒性的 → 占有优势的
   - 同根词
     - adv.
-      - `preponderantly` 占优势地，多数地
+      - `preponderantly`
+        - 占优势地，多数地
     - n.
-      - `preponderance` 优势；多数；占优势
+      - `preponderance`
+        - 优势；多数；占优势
     - vi.
-      - `preponderate` （在重量、数量、力量等方面）占优势
+      - `preponderate`
+        - （在重量、数量、力量等方面）占优势
     - vt.
-      - `preponderate` 胜过；压倒
+      - `preponderate`
+        - 胜过；压倒
   - 近义词
-    - adj. 占优势的；突出的；压倒性的
-      - `prominent`
-      - `dominant`
-      - `pointed`
-      - `striking`
+    - adj.
+      - 占优势的；突出的；压倒性的
+        - `prominent`
+        - `dominant`
+        - `pointed`
+        - `striking`
   - 例句
     - `Livestock husbandry in grassland is the preponderant industry in Inner Mongolia.`
       - 草原畜牧业是内蒙古的优势产业和基础产业。

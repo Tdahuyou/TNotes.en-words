@@ -1,30 +1,48 @@
 - oxidizable
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - adj. 可氧化的
+    - adj.
+      - 可氧化的
   - 同根词
     - adj.
-      - `oxidative` [化学] 氧化的
-      - `oxidized` 被氧化的；生锈的
+      - `oxidative`
+        - [化学] 氧化的
+      - `oxidized`
+        - 被氧化的；生锈的
     - n.
-      - `oxidation` [化学] 氧化
-      - `oxidant` 氧化剂
-      - `oxidase` [生化] 氧化酶
-      - `oxidate` 氧化物
-      - `oxidizer` [助剂] 氧化剂
-      - `oxidization` [化学] 氧化，氧化作用
-      - `oxidoreductase` 氧化还原酶
+      - `oxidation`
+        - [化学] 氧化
+      - `oxidant`
+        - 氧化剂
+      - `oxidase`
+        - [生化] 氧化酶
+      - `oxidate`
+        - 氧化物
+      - `oxidizer`
+        - [助剂] 氧化剂
+      - `oxidization`
+        - [化学] 氧化，氧化作用
+      - `oxidoreductase`
+        - 氧化还原酶
     - v.
-      - `oxidized` 氧化；生锈（oxidize的过去分词）
-      - `oxidate` 氧化
+      - `oxidized`
+        - 氧化；生锈（oxidize的过去分词）
+      - `oxidate`
+        - 氧化
     - vi.
-      - `oxidize` 氧化
-      - `oxidise` 氧化；生锈（等于oxidize）
+      - `oxidize`
+        - 氧化
+      - `oxidise`
+        - 氧化；生锈（等于oxidize）
     - vt.
-      - `oxidize` 使氧化；使生锈
-      - `oxidise` （英）使氧化；使生锈
+      - `oxidize`
+        - 使氧化；使生锈
+      - `oxidise`
+        - （英）使氧化；使生锈
   - 例句
     - `Description: Metal lumps or ingots, silver grey with metallic lustre , easily oxidizable in air.`
       - 说明：金属锭或块，银灰色，有金属光泽，在空气中易氧化。

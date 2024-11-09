@@ -1,36 +1,55 @@
 - striped
   - 发音
-    - 英 `/straɪpt/`
-    - 美 `/'straɪpɪd/`
+    - 英
+      - `/straɪpt/`
+    - 美
+      - `/'straɪpɪd/`
   - 词义
-    - adj. 有条纹的；有斑纹的
-    - `having lines or bands of colour`
-    - v. 被剥去（strip的过去分词）
+    - adj.
+      - 有条纹的；有斑纹的
+        - `having lines or bands of colour`
+    - v.
+      - 被剥去（strip的过去分词）
   - 同根词
     - adj.
-      - `stripped` 剥去的
-      - `stripy` 有条纹的；条纹状的
+      - `stripped`
+        - 剥去的
+      - `stripy`
+        - 有条纹的；条纹状的
     - n.
-      - `strip` 带；条状；脱衣舞
-      - `stripe` 条纹，斑纹；种类
-      - `stripper` 脱衣舞女；剥离器；脱模机
-      - `stripping` 剥离；剥脱；拆封
-      - `striping` 拆开；去膜；加条纹；条纹图案
+      - `strip`
+        - 带；条状；脱衣舞
+      - `stripe`
+        - 条纹，斑纹；种类
+      - `stripper`
+        - 脱衣舞女；剥离器；脱模机
+      - `stripping`
+        - 剥离；剥脱；拆封
+      - `striping`
+        - 拆开；去膜；加条纹；条纹图案
     - v.
-      - `stripped` 剥夺（strip的过去分词形式）；脱衣；把…剪成条状
-      - `stripping` 剥去；脱掉；拆除（strip的ing形式）
-      - `striping` 给…加条纹（strip的ing形式）
+      - `stripped`
+        - 剥夺（strip的过去分词形式）；脱衣；把…剪成条状
+      - `stripping`
+        - 剥去；脱掉；拆除（strip的ing形式）
+      - `striping`
+        - 给…加条纹（strip的ing形式）
     - vi.
-      - `strip` 脱去衣服
+      - `strip`
+        - 脱去衣服
     - vt.
-      - `strip` 剥夺；剥去；脱去衣服
-      - `stripe` 加条纹于…
+      - `strip`
+        - 剥夺；剥去；脱去衣服
+      - `stripe`
+        - 加条纹于…
   - 近义词
-    - adj. 有条纹的；有斑纹的
-      - `streaky`
-      - `brinded`
+    - adj.
+      - 有条纹的；有斑纹的
+        - `streaky`
+        - `brinded`
   - 短语
-    - `magnetic stripe` 磁条，磁片 
+    - `magnetic stripe`
+      - 磁条，磁片 
   - 例句
     - `a blue and white striped shirt`
       - 蓝白条纹的衬衫

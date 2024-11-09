@@ -1,13 +1,18 @@
 - gladiator
   - 发音
-    - 英 `/'glædɪeɪtə/`
-    - 美 `/'ɡlædɪetɚ/`
+    - 英
+      - `/'glædɪeɪtə/`
+    - 美
+      - `/'ɡlædɪetɚ/`
   - 词义
-    - n. 斗剑者；古罗马公开表演的格斗者；争论者
+    - n.
+      - 斗剑者；古罗马公开表演的格斗者；争论者
   - 同根词
     - adj.
-      - `gladiatorial` 争论的；斗剑者的
+      - `gladiatorial`
+        - 争论的；斗剑者的
   - 近义词
-    - n. 斗剑者；古罗马公开表演的格斗者；争论者
-      - `disputer`
-      - `controversialist`
+    - n.
+      - 斗剑者；古罗马公开表演的格斗者；争论者
+        - `disputer`
+        - `controversialist`

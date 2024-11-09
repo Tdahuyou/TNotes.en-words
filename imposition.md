@@ -1,22 +1,31 @@
 - imposition
   - 发音
-    - 英 `/ɪmpə'zɪʃ(ə)n/`
-    - 美 `/,ɪmpə'zɪʃən/`
+    - 英
+      - `/ɪmpə'zɪʃ(ə)n/`
+    - 美
+      - `/,ɪmpə'zɪʃən/`
   - 词义
-    - n. 强迫接受
+    - n.
+      - 强迫接受
   - 同根词
     - adj.
-      - `imposed` 强加的；施加的；应用的
+      - `imposed`
+        - 强加的；施加的；应用的
     - n.
-      - `imposture` 欺诈，欺骗；冒牌
+      - `imposture`
+        - 欺诈，欺骗；冒牌
     - v.
-      - `imposed` 欺骗（impose的过去分词）；把…强加于
+      - `imposed`
+        - 欺骗（impose的过去分词）；把…强加于
     - vi.
-      - `impose` 利用；欺骗；施加影响
+      - `impose`
+        - 利用；欺骗；施加影响
     - vt.
-      - `impose` 强加；征税；以…欺骗
+      - `impose`
+        - 强加；征税；以…欺骗
   - 近义词
-    - n. 征收；强加；欺骗；不公平的负担
-      - `collection`
-      - `fraud`
-      - `expropriation`
+    - n.
+      - 征收；强加；欺骗；不公平的负担
+        - `collection`
+        - `fraud`
+        - `expropriation`

@@ -1,27 +1,36 @@
 - maniac
   - 发音
-    - 英 `/'meɪnɪæk/`
-    - 美 `/'menɪæk/`
+    - 英
+      - `/'meɪnɪæk/`
+    - 美
+      - `/'menɪæk/`
   - 词义
-    - n. 疯子，躁狂者
-    - `someone who behaves in a stupid or dangerous way`
-    - adj. 发狂的；狂热的；癫狂的
-    - `If you describe someone's behaviour as maniac, you are emphasizing that it is extremely foolish and uncontrolled`
+    - n.
+      - 疯子，躁狂者
+        - `someone who behaves in a stupid or dangerous way`
+    - adj.
+      - 发狂的；狂热的；癫狂的
+        - `If you describe someone's behaviour as maniac, you are emphasizing that it is extremely foolish and uncontrolled`
   - 同根词
     - adj.
-      - `manic` 躁狂的；狂热的
-      - `maniacal` 疯狂的，狂热的；躁狂的
+      - `manic`
+        - 躁狂的；狂热的
+      - `maniacal`
+        - 疯狂的，狂热的；躁狂的
     - n.
-      - `manic` 躁狂症者
+      - `manic`
+        - 躁狂症者
   - 近义词
-    - n. 疯子，躁狂者
-      - `nutcase`
-      - `madman`
-    - adj. 发狂的；狂热的；癫狂的
-      - `crazy`
-      - `wild`
-      - `enthusiastic`
-      - `nuts`
+    - n.
+      - 疯子，躁狂者
+        - `nutcase`
+        - `madman`
+    - adj.
+      - 发狂的；狂热的；癫狂的
+        - `crazy`
+        - `wild`
+        - `enthusiastic`
+        - `nuts`
   - 例句
     - `He drove like a maniac to the hospital.`
       - 他像个疯子似的开车去医院。

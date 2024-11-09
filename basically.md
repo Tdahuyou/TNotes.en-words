@@ -1,22 +1,28 @@
 - basically
   - 发音
-    - 英 `/'beɪsɪk(ə)lɪ/`
-    - 美 `/'besɪkli/`
+    - 英
+      - `/'beɪsɪk(ə)lɪ/`
+    - 美
+      - `/'besɪkli/`
   - 词义
-    - adv. 基本上,主要地
-    - `used to emphasize the most important reason or fact about something, or a simple explanation of something`
+    - adv.
+      - 基本上,主要地
+        - `used to emphasize the most important reason or fact about something, or a simple explanation of something`
   - 同根词
     - adj.
-      - `basic` 基本的；基础的
+      - `basic`
+        - 基本的；基础的
     - n.
-      - `basic` 基础；要素
+      - `basic`
+        - 基础；要素
   - 近义词
-    - adv. 主要地，基本上
-      - `mainly`
-      - `mostly`
-      - `largely`
-      - `primarily`
-      - `ultimately`
+    - adv.
+      - 主要地，基本上
+        - `mainly`
+        - `mostly`
+        - `largely`
+        - `primarily`
+        - `ultimately`
   - 例句
     - `Basically, I’m just lazy.`
       - 说穿了，我就是懒。

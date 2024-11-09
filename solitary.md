@@ -1,28 +1,38 @@
 - solitary
   - 发音
-    - 英 `/'sɑːləteri/`
-    - 美 `/'sɑlətɛri/`
+    - 英
+      - `/'sɑːləteri/`
+    - 美
+      - `/'sɑlətɛri/`
   - 词义
-    - adj. 孤独的；单独的，独自的；单个的；唯一的，仅有的
-    - `used to emphasize that there is only one of something`
+    - adj.
+      - 孤独的；单独的，独自的；单个的；唯一的，仅有的
+        - `used to emphasize that there is only one of something`
   - 记忆
     - sol(单独) + it + ary → 孤独的
   - 同根词
     - adv.
-      - `solitarily` 寂寞地；独自一人地
+      - `solitarily`
+        - 寂寞地；独自一人地
     - n.
-      - `solitude` 孤独；隐居；荒僻的地方
-      - `solitariness` 隐居；单独
+      - `solitude`
+        - 孤独；隐居；荒僻的地方
+      - `solitariness`
+        - 隐居；单独
   - 近义词
-    - adj. [动]孤独的；独居的
-      - `alone`
-      - `neighborless`
-    - n. [动]独居者；隐士
-      - `hermit`
-      - `anchorite`
+    - adj.
+      - [动]孤独的；独居的
+        - `alone`
+        - `neighborless`
+    - n.
+      - [动]独居者；隐士
+        - `hermit`
+        - `anchorite`
   - 短语
-    - `solitary wave` 孤立波；独波，孤子波 
-    - `solitary confinement` 单独拘禁（等于solitary） 
+    - `solitary wave`
+      - 孤立波；独波，孤子波 
+    - `solitary confinement`
+      - 单独拘禁（等于solitary） 
   - 例句
     - `the solitary goal of the match`
       - 这场比赛的唯一入球

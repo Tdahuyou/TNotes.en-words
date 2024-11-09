@@ -1,22 +1,29 @@
 - solely
   - 发音
-    - 英 `/'səʊllɪ/`
-    - 美 `/'solli/`
+    - 英
+      - `/'səʊllɪ/`
+    - 美
+      - `/'solli/`
   - 词义
-    - adv. 独自地,单独地
-    - `not involving anything or anyone else`
+    - adv.
+      - 独自地,单独地
+        - `not involving anything or anyone else`
   - 同根词
     - adj.
-      - `sole` 唯一的；单独的；仅有的
+      - `sole`
+        - 唯一的；单独的；仅有的
     - n.
-      - `sole` 鞋底；脚底；基础；鳎目鱼
+      - `sole`
+        - 鞋底；脚底；基础；鳎目鱼
     - vt.
-      - `sole` 触底；上鞋底
+      - `sole`
+        - 触底；上鞋底
   - 近义词
-    - adv. 单独地，唯一地
-      - `alone`
-      - `exclusively`
-      - `individually`
+    - adv.
+      - 单独地，唯一地
+        - `alone`
+        - `exclusively`
+        - `individually`
   - 例句
     - `Scholarships are given solely on the basis of financial need.`
       - 奖学金完全是根据经济需要发放的。

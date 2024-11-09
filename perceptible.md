@@ -1,37 +1,55 @@
 - perceptible
   - 发音
-    - 英 `/pə'septəbl/`
-    - 美 `/pɚ'sɛptəbl/`
+    - 英
+      - `/pə'septəbl/`
+    - 美
+      - `/pɚ'sɛptəbl/`
   - 词义
-    - adj. 可感知的，可以理解的
-    - `something that is perceptible can be noticed, although it is very small`
+    - adj.
+      - 可感知的，可以理解的
+        - `something that is perceptible can be noticed, although it is very small`
   - 记忆
     - 来自percept (n. 感知)
   - 同根词
     - adj.
-      - `perceived` 感知到的；感观的
-      - `perceptive` 感知的，知觉的；有知觉力的
-      - `perceptual` 知觉的；感知的；有知觉的
-      - `perceivable` 可知觉的，可感知的
+      - `perceived`
+        - 感知到的；感观的
+      - `perceptive`
+        - 感知的，知觉的；有知觉力的
+      - `perceptual`
+        - 知觉的；感知的；有知觉的
+      - `perceivable`
+        - 可知觉的，可感知的
     - adv.
-      - `perceptibly` 显然地；可感觉得出地；看得出地
-      - `perceptively` 知觉地；有洞察力地；敏锐地
+      - `perceptibly`
+        - 显然地；可感觉得出地；看得出地
+      - `perceptively`
+        - 知觉地；有洞察力地；敏锐地
     - n.
-      - `perception` 知觉；[生理] 感觉；看法；洞察力；获取
-      - `percept` 认知，认知的对象
-      - `perceptiveness` 洞察力；感知力；直觉
-      - `perceptibility` 感觉力；理解力；可察觉性
-      - `perceptivity` 知觉力，知觉
+      - `perception`
+        - 知觉；[生理] 感觉；看法；洞察力；获取
+      - `percept`
+        - 认知，认知的对象
+      - `perceptiveness`
+        - 洞察力；感知力；直觉
+      - `perceptibility`
+        - 感觉力；理解力；可察觉性
+      - `perceptivity`
+        - 知觉力，知觉
     - v.
-      - `perceived` 感知；认为（perceive的过去分词）；领会
+      - `perceived`
+        - 感知；认为（perceive的过去分词）；领会
     - vi.
-      - `perceive` 感到，感知；认识到
+      - `perceive`
+        - 感到，感知；认识到
     - vt.
-      - `perceive` 察觉，感觉；理解；认知
+      - `perceive`
+        - 察觉，感觉；理解；认知
   - 近义词
-    - adj. 可察觉的；可感知的；看得见的
-      - `seen`
-      - `visible`
+    - adj.
+      - 可察觉的；可感知的；看得见的
+        - `seen`
+        - `visible`
   - 例句
     - `a small but perceptible change`
       - 微小但可以察觉的变化

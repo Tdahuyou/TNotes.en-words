@@ -1,19 +1,24 @@
 - dwindle
   - 发音
-    - 英 `/'dwɪndl/`
-    - 美 `/'dwɪndl/`
+    - 英
+      - `/'dwɪndl/`
+    - 美
+      - `/'dwɪndl/`
   - 词义
-    - v. 减少；缩小
-    - `to gradually become less and less or smaller and smaller`
+    - v.
+      - 减少；缩小
+        - `to gradually become less and less or smaller and smaller`
   - 记忆
     - d + wind(风) + le → 随风而去， 越来越小 → (使)缩小
   - 近义词
-    - vi. 减少；变小
-      - `to cut down`
-      - `fall off`
-    - vt. 使缩小，使减少
-      - `shrink`
-      - `astrict`
+    - vi.
+      - 减少；变小
+        - `to cut down`
+        - `fall off`
+    - vt.
+      - 使缩小，使减少
+        - `shrink`
+        - `astrict`
   - 例句
     - `The elephant population is dwindling.`
       - 大象的数量在减少。

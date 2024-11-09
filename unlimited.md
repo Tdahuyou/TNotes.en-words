@@ -1,16 +1,21 @@
 - unlimited
   - 发音
-    - 英 `/ʌn'lɪmɪtɪd/`
-    - 美 `/ʌn'lɪmɪtɪd/`
+    - 英
+      - `/ʌn'lɪmɪtɪd/`
+    - 美
+      - `/ʌn'lɪmɪtɪd/`
   - 词义
-    - adj. 无限的；过渡的
-    - `without any limit`
+    - adj.
+      - 无限的；过渡的
+        - `without any limit`
   - 近义词
-    - adj. [数]无限制的；无限量的；无条件的
-      - `limitless`
-      - `interminate`
+    - adj.
+      - [数]无限制的；无限量的；无条件的
+        - `limitless`
+        - `interminate`
   - 短语
-    - `unlimited liability` 无限责任 
+    - `unlimited liability`
+      - 无限责任 
   - 例句
     - `The system can support an unlimited number of users.`
       - 该系统可以支持无限多的用户。

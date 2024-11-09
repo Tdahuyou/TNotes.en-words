@@ -1,21 +1,29 @@
 - uniqueness
   - 发音
-    - 英 `/ju:'ni:knis/`
-    - 美 `/jʊ'niknɪs/`
+    - 英
+      - `/ju:'ni:knis/`
+    - 美
+      - `/jʊ'niknɪs/`
   - 词义
-    - n. 唯一性,独特性
+    - n.
+      - 唯一性,独特性
   - 同根词
     - adj.
-      - `unique` 独特的，稀罕的；[数] 唯一的，独一无二的
+      - `unique`
+        - 独特的，稀罕的；[数] 唯一的，独一无二的
     - adv.
-      - `uniquely` 独特地；珍奇地
+      - `uniquely`
+        - 独特地；珍奇地
     - n.
-      - `unique` 独一无二的人或物
+      - `unique`
+        - 独一无二的人或物
   - 近义词
-    - n. 独特性；独一无二；单值性
-      - `one of a kind`
+    - n.
+      - 独特性；独一无二；单值性
+        - `one of a kind`
   - 短语
-    - `uniqueness theorem` 唯一性定理；单值定理 
+    - `uniqueness theorem`
+      - 唯一性定理；单值定理 
   - 例句
     - `Creativity and uniqueness often depends on how well you hide your sources.`
       - 创意和独特性往往取决于如何隐藏你的创意来源。

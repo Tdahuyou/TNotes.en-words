@@ -1,21 +1,28 @@
 - sincerity
   - 发音
-    - 英 `/sɪn'serətɪ/`
-    - 美 `/sɪn'sɪərəti/`
+    - 英
+      - `/sɪn'serətɪ/`
+    - 美
+      - `/sɪn'sɪərəti/`
   - 词义
-    - n. 诚挚,真实
-    - `when someone is sincere and really means what they are saying`
+    - n.
+      - 诚挚,真实
+        - `when someone is sincere and really means what they are saying`
   - 同根词
     - adj.
-      - `sincere` 真诚的；诚挚的；真实的
+      - `sincere`
+        - 真诚的；诚挚的；真实的
     - adv.
-      - `sincerely` 真诚地；由衷地，诚恳地
+      - `sincerely`
+        - 真诚地；由衷地，诚恳地
   - 近义词
-    - n. 真实，诚挚
-      - `reality`
-      - `true`
+    - n.
+      - 真实，诚挚
+        - `reality`
+        - `true`
   - 短语
-    - `in all sincerity` 非常真诚地；衷心地 
+    - `in all sincerity`
+      - 非常真诚地；衷心地 
   - 例句
     - `I don’t doubt her sincerity, but I think she’s got her facts wrong.`
       - 我不怀疑她的诚意，但我认为她没弄清楚事实。

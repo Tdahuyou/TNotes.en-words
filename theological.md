@@ -1,11 +1,15 @@
 - theological
   - 发音
-    - 英 `/θɪə'lɒdʒɪk(ə)l/`
-    - 美 `/,θiə'lɑdʒɪkl/`
+    - 英
+      - `/θɪə'lɒdʒɪk(ə)l/`
+    - 美
+      - `/,θiə'lɑdʒɪkl/`
   - 词义
-    - adj. 神学(上)的
+    - adj.
+      - 神学(上)的
   - 短语
-    - `theological education` 神学教育 
+    - `theological education`
+      - 神学教育 
   - 例句
     - `Did he not offer any reasons for what he did or did he have theological and philosophical discussions with Pilate about his message? `
       - 他没有为他的行为给出任何解释,还是他说了一些神学和哲学的观点,和彼拉多进行了一番讨论呢？

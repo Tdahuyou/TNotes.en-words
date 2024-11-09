@@ -1,7 +1,9 @@
 - Cordelia
   - 发音
-    - 英 `/kɔ:'di:ljə/`
-    - 美 `/kɔ:'di:ljə/`
+    - 英
+      - `/kɔ:'di:ljə/`
+    - 美
+      - `/kɔ:'di:ljə/`
   - 词义
   - 例句
     - `Don't grudge Anne Cordelia her fancies, Diana. I'm always sorry for children who don't spend a few years in fairyland.`

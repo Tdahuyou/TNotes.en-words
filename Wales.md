@@ -1,11 +1,15 @@
 - Wales
   - 发音
-    - 英 `/weilz/`
-    - 美 `/weilz/`
+    - 英
+      - `/weilz/`
+    - 美
+      - `/weilz/`
   - 词义
   - 短语
-    - `prince of wales` n. 威尔士亲王（英国皇太子之封号） 
-    - `princess of wales` n. 威尔斯王妃 
+    - `prince of wales`
+      - n. 威尔士亲王（英国皇太子之封号） 
+    - `princess of wales`
+      - n. 威尔斯王妃 
   - 例句
     - `England, Scotland and Wales compose the island of Great Britain.`
       - 英格兰、苏格兰和威尔士组成大不列颠岛国。

@@ -1,13 +1,18 @@
 - goldfish
   - 发音
-    - 英 `/'gəʊl(d)fɪʃ/`
-    - 美 `/'ɡoldfɪʃ/`
+    - 英
+      - `/'gəʊl(d)fɪʃ/`
+    - 美
+      - `/'ɡoldfɪʃ/`
   - 词义
-    - n. 金鱼
-    - `a small shiny orange fish often kept as a pet`
+    - n.
+      - 金鱼
+        - `a small shiny orange fish often kept as a pet`
   - 短语
-    - `goldfish bowl` 金鱼缸（无法躲开众人耳目的地方） 
-    - `fantail goldfish` 扇尾金鱼 
+    - `goldfish bowl`
+      - 金鱼缸（无法躲开众人耳目的地方） 
+    - `fantail goldfish`
+      - 扇尾金鱼 
   - 例句
     - `I have nine little goldfish .`
       - 我有九条小金鱼。

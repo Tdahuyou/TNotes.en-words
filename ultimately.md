@@ -1,25 +1,34 @@
 - ultimately
   - 发音
-    - 英 `/'ʌltɪmətlɪ/`
-    - 美 `/'ʌltɪmətli/`
+    - 英
+      - `/'ʌltɪmətlɪ/`
+    - 美
+      - `/'ʌltɪmətli/`
   - 词义
-    - adv. 最后，最终
-    - `finally, after everything else has been done or considered`
+    - adv.
+      - 最后，最终
+        - `finally, after everything else has been done or considered`
   - 同根词
     - adj.
-      - `ultimate` 最终的；极限的；根本的
-      - `ultima` 最终的；最后的
+      - `ultimate`
+        - 最终的；极限的；根本的
+      - `ultima`
+        - 最终的；最后的
     - n.
-      - `ultimate` 终极；根本；基本原则
-      - `ultimatum` 最后通牒；最后结论；基本原理
-      - `ultima` 尾音节
+      - `ultimate`
+        - 终极；根本；基本原则
+      - `ultimatum`
+        - 最后通牒；最后结论；基本原理
+      - `ultima`
+        - 尾音节
   - 近义词
-    - adv. 最后；根本；基本上
-      - `eventually`
-      - `finally`
-      - `basically`
-      - `lastly`
-      - `either`
+    - adv.
+      - 最后；根本；基本上
+        - `eventually`
+        - `finally`
+        - `basically`
+        - `lastly`
+        - `either`
   - 例句
     - `Ultimately, the decision rests with the child’s parents.`
       - 最终，决定权在这孩子的父母手中。

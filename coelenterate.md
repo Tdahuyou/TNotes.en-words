@@ -1,16 +1,22 @@
 - coelenterate
   - 发音
-    - 英 `/siː'lent(ə)rət; -reɪt/`
-    - 美 `/sɪ'lɛntəret/`
+    - 英
+      - `/siː'lent(ə)rət; -reɪt/`
+    - 美
+      - `/sɪ'lɛntəret/`
   - 词义
-    - n. [动]腔肠动物
-    - `any invertebrate of the phylum Cnidaria (formerly Coelenterata), having a saclike body with a single opening (mouth), which occurs in polyp and medusa forms`
-    - adj. 腔肠动物的
-    - `(loosely) any invertebrate of the phyla Cnidaria or Ctenophora `
+    - n.
+      - [动]腔肠动物
+        - `any invertebrate of the phylum Cnidaria (formerly Coelenterata), having a saclike body with a single opening (mouth), which occurs in polyp and medusa forms`
+    - adj.
+      - 腔肠动物的
+        - `(loosely) any invertebrate of the phyla Cnidaria or Ctenophora `
   - 同根词
     - n.
-      - `coelenterata` 腔肠动物门
-      - `coelenteron` 腔肠动物的腔肠体
+      - `coelenterata`
+        - 腔肠动物门
+      - `coelenteron`
+        - 腔肠动物的腔肠体
   - 例句
     - `The flat, free-swimming, ciliated larva of a coelenterate.`
       - 自由游动的被囊动物；有时作为一个目。

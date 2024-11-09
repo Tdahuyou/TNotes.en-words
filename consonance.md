@@ -1,26 +1,33 @@
 - consonance
   - 发音
-    - 英 `/'kɑːnsənəns/`
-    - 美 `/'kɑnsənəns/`
+    - 英
+      - `/'kɑːnsənəns/`
+    - 美
+      - `/'kɑnsənəns/`
   - 词义
-    - n. 一致，调和；和音
-    - `agreement, harmony, or accord `
+    - n.
+      - 一致，调和；和音
+        - `agreement, harmony, or accord `
   - 记忆
     - con(共同) ＋ son(声音) ＋ ance → 共同的声音 → 一致， 调和
   - 同根词
     - adj.
-      - `consonant` 辅音的；一致的；和谐的
-      - `consonantal` 带辅音性质的；辅音的；子音的
+      - `consonant`
+        - 辅音的；一致的；和谐的
+      - `consonantal`
+        - 带辅音性质的；辅音的；子音的
     - n.
-      - `consonant` 辅音；辅音字母
+      - `consonant`
+        - 辅音；辅音字母
   - 近义词
-    - n. 一致，调和；和音
-      - `accordance`
-      - `unity`
-      - `agreement`
-      - `coordination`
-      - `identity`
-      - `harmony`
+    - n.
+      - 一致，调和；和音
+        - `accordance`
+        - `unity`
+        - `agreement`
+        - `coordination`
+        - `identity`
+        - `harmony`
   - 例句
     - `Cognitive consonance is a consistency between the knowledge, ideas and beliefs.`
       - 认识一致是知识、思想和信念之间的一致。

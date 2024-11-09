@@ -1,44 +1,68 @@
 - humanity
   - 发音
-    - 英 `/hjuː'mænəti/`
-    - 美 `/hjʊ'mænəti/`
+    - 英
+      - `/hjuː'mænəti/`
+    - 美
+      - `/hjʊ'mænəti/`
   - 词义
-    - n. 人类；人性；人道，仁慈
-    - `people in general`
+    - n.
+      - 人类；人性；人道，仁慈
+        - `people in general`
   - 记忆
     - hum(人) + an + ity(表性质， 名词后缀) → 人类
   - 同根词
     - adj.
-      - `human` 人的；人类的
-      - `humanitarian` 人道主义的；博爱的；基督凡人论的
-      - `humane` 仁慈的，人道的；高尚的
-      - `humanistic` 人文主义的；人道主义的
-      - `humanism` 人文主义的；人道主义的
-      - `humanist` 人文主义的；人道主义的
-      - `humanlike` 似人类的
+      - `human`
+        - 人的；人类的
+      - `humanitarian`
+        - 人道主义的；博爱的；基督凡人论的
+      - `humane`
+        - 仁慈的，人道的；高尚的
+      - `humanistic`
+        - 人文主义的；人道主义的
+      - `humanism`
+        - 人文主义的；人道主义的
+      - `humanist`
+        - 人文主义的；人道主义的
+      - `humanlike`
+        - 似人类的
     - adv.
-      - `humanely` 人道地；富人情地；慈悲地
+      - `humanely`
+        - 人道地；富人情地；慈悲地
     - n.
-      - `human` 人；人类
-      - `humanitarian` 人道主义者；慈善家；博爱主义者；基督凡人论者
-      - `humanism` 人道主义
-      - `humanist` 人道主义者；人类学者，人文学者；人文主义者
-      - `humankind` 人类（总称）
-      - `humanitarianism` 人道主义；博爱主义
-      - `humanization` 人类化；教化
-      - `humaneness` 深情；慈悲
-      - `humanisation` 人类化，教化（等于humanization）
-      - `humanise` 变得有人性；变得仁慈；有教化力（等于humanize）
+      - `human`
+        - 人；人类
+      - `humanitarian`
+        - 人道主义者；慈善家；博爱主义者；基督凡人论者
+      - `humanism`
+        - 人道主义
+      - `humanist`
+        - 人道主义者；人类学者，人文学者；人文主义者
+      - `humankind`
+        - 人类（总称）
+      - `humanitarianism`
+        - 人道主义；博爱主义
+      - `humanization`
+        - 人类化；教化
+      - `humaneness`
+        - 深情；慈悲
+      - `humanisation`
+        - 人类化，教化（等于humanization）
+      - `humanise`
+        - 变得有人性；变得仁慈；有教化力（等于humanize）
     - vt.
-      - `humanise` （英）使人性化；使文明化
+      - `humanise`
+        - （英）使人性化；使文明化
   - 近义词
-    - n. [人类]人类；人道；仁慈；人文学科
-      - `mankind`
-      - `people`
-      - `mercy`
-      - `kindness`
+    - n.
+      - [人类]人类；人道；仁慈；人文学科
+        - `mankind`
+        - `people`
+        - `mercy`
+        - `kindness`
   - 短语
-    - `crime against humanity` 违反人道罪；危害人类罪 
+    - `crime against humanity`
+      - 违反人道罪；危害人类罪 
   - 例句
     - `We want a clean healthy environment for all humanity .`
       - 我们希望全人类拥有一个干净健康的生存环境。

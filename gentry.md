@@ -1,19 +1,24 @@
 - gentry
   - 发音
-    - 英 `/'dʒentrɪ/`
-    - 美 `/'dʒɛntri/`
+    - 英
+      - `/'dʒentrɪ/`
+    - 美
+      - `/'dʒɛntri/`
   - 词义
-    - n. 人们（多用贬义）；贵族们；（英）上流社会人士
-    - `people who belong to a high social class`
+    - n.
+      - 人们（多用贬义）；贵族们；（英）上流社会人士
+        - `people who belong to a high social class`
   - 记忆
     - gen(产生) + try → 出生于高贵门第 → 贵族
   - 同根词
     - n.
-      - `gentlefolk` 上流人士；名门世家
+      - `gentlefolk`
+        - 上流人士；名门世家
   - 近义词
-    - n. 人们（多用贬义）；贵族们；（英）上流社会人士
-      - `folk`
-      - `society people`
+    - n.
+      - 人们（多用贬义）；贵族们；（英）上流社会人士
+        - `folk`
+        - `society people`
   - 例句
     - `a member of the landed gentry`
       - 地主乡绅中的一员

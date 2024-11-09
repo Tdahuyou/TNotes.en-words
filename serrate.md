@@ -1,23 +1,32 @@
 - serrate
   - 发音
-    - 英 `/'sereɪt/`
-    - 美 `/sə'ret/`
+    - 英
+      - `/'sereɪt/`
+    - 美
+      - `/sə'ret/`
   - 词义
-    - adj. 锯齿状的
-    - `(of leaves) having a margin of forward pointing teeth `
+    - adj.
+      - 锯齿状的
+        - `(of leaves) having a margin of forward pointing teeth `
   - 同根词
     - adj.
-      - `serrated` 锯齿状的，有锯齿的
-      - `serrulate` 有细锯齿的；细锯齿状的，细锯齿边的
+      - `serrated`
+        - 锯齿状的，有锯齿的
+      - `serrulate`
+        - 有细锯齿的；细锯齿状的，细锯齿边的
     - n.
-      - `serration` （行扫描起点不一致引起屏幕上的）锯齿状；锯齿状突起（等于serrature）
-      - `serra` [生物] 锯齿状器官
+      - `serration`
+        - （行扫描起点不一致引起屏幕上的）锯齿状；锯齿状突起（等于serrature）
+      - `serra`
+        - [生物] 锯齿状器官
     - v.
-      - `serrated` 使有锯齿（serrate的过去分词）
+      - `serrated`
+        - 使有锯齿（serrate的过去分词）
   - 近义词
-    - adj. [生物]锯齿状的
-      - `jagged`
-      - `saw-toothed`
+    - adj.
+      - [生物]锯齿状的
+        - `jagged`
+        - `saw-toothed`
   - 例句
     - `Trees or shrubs. Leaves petiolate , entire or serrate at margin.`
       - 乔木或灌木叶具叶柄，全缘的或有锯齿在边缘。

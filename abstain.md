@@ -1,22 +1,29 @@
 - abstain
   - 发音
-    - 英 `/əb'stein/`
-    - 美 `/əb'sten/`
+    - 英
+      - `/əb'stein/`
+    - 美
+      - `/əb'sten/`
   - 词义
-    - vi. 禁绝，放弃
-    - `If you abstain during a vote, you do not use your vote`
+    - vi.
+      - 禁绝，放弃
+        - `If you abstain during a vote, you do not use your vote`
   - 记忆
     - abs (不) + tain (拿住) → 不拿住 → 放弃
   - 同根词
     - n.
-      - `abstainer` 节制者；戒酒者；弃权者
+      - `abstainer`
+        - 节制者；戒酒者；弃权者
   - 近义词
-    - vi. 自制；放弃；避免
-      - `contain`
-      - `restrain oneself`
+    - vi.
+      - 自制；放弃；避免
+        - `contain`
+        - `restrain oneself`
   - 短语
-    - `abstain from` 放弃；戒绝 
-    - `abstain from voting` 放弃表决，投票时弃权 
+    - `abstain from`
+      - 放弃；戒绝 
+    - `abstain from voting`
+      - 放弃表决，投票时弃权 
   - 例句
     - `Three countries abstained in the vote.`
       - 三个国家在投票中弃权了。

@@ -1,23 +1,30 @@
 - germination
   - 发音
-    - 英 `/undefined/`
-    - 美 `/,dʒɝmə'neʃən/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/,dʒɝmə'neʃən/`
   - 词义
-    - n. 萌芽,发生
+    - n.
+      - 萌芽,发生
   - 同根词
     - vi.
-      - `germinate` 发芽；生长
+      - `germinate`
+        - 发芽；生长
     - vt.
-      - `germinate` 使发芽；使生长
+      - `germinate`
+        - 使发芽；使生长
   - 近义词
-    - n. [植]发芽；发生；伟晶作用
-      - `occurrence`
-      - `going on`
-      - `emergence`
-      - `becoming`
-      - `generating`
+    - n.
+      - [植]发芽；发生；伟晶作用
+        - `occurrence`
+        - `going on`
+        - `emergence`
+        - `becoming`
+        - `generating`
   - 短语
-    - `germination percentage` 发芽率 
+    - `germination percentage`
+      - 发芽率 
   - 例句
     - `In this way, postmodernism might be seen as the delayed germination of an older seed, planted by artists like Marcel Duchamp, during modernism’s high noon of the 1920s and 1930s.`
       - 按这种理解，后现代主义可被看成一粒过往的种子延迟了的萌芽，这粒种子由马塞尔•杜尚等艺术家种在20世纪二三十年代现代主义的繁盛时期。

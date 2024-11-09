@@ -1,19 +1,24 @@
 - viable
   - 发音
-    - 英 `/'vaɪəbl/`
-    - 美 `/undefined/`
+    - 英
+      - `/'vaɪəbl/`
+    - 美
+      - `/undefined/`
   - 词义
-    - adj. 可行的，可实施的；可生长发育的
-    - `a viable idea, plan, or method can work successfully`
+    - adj.
+      - 可行的，可实施的；可生长发育的
+        - `a viable idea, plan, or method can work successfully`
   - 记忆
     - vi(道路) + able(能…的) → 有路的 → 可行的
   - 同根词
     - n.
-      - `viability` 生存能力，发育能力；可行性
+      - `viability`
+        - 生存能力，发育能力；可行性
   - 近义词
-    - adj. 可行的；能养活的；能生育的
-      - `feasible`
-      - `working`
+    - adj.
+      - 可行的；能养活的；能生育的
+        - `feasible`
+        - `working`
   - 例句
     - `viable seeds`
       - 可存活的种子

@@ -1,46 +1,74 @@
 - life
   - 发音
-    - 英 `/laɪf/`
-    - 美 `/laɪf/`
+    - 英
+      - `/laɪf/`
+    - 美
+      - `/laɪf/`
   - 词义
-    - n. 生活；生命
-    - `the period of time when someone is alive`
+    - n.
+      - 生活；生命
+        - `the period of time when someone is alive`
   - 同根词
     - adj.
-      - `lifeless` 无生命的；死气沉沉的；无趣味的
-      - `lifelike` 栩栩如生的；逼真的
+      - `lifeless`
+        - 无生命的；死气沉沉的；无趣味的
+      - `lifelike`
+        - 栩栩如生的；逼真的
     - adv.
-      - `lifelessly` 无生命地
+      - `lifelessly`
+        - 无生命地
     - n.
-      - `lifelessness` 枯燥无味）；无生命（死
+      - `lifelessness`
+        - 枯燥无味）；无生命（死
   - 近义词
-    - n. 生活，生存；寿命
-      - `existence`
-      - `living`
-      - `age`
-      - `livelihood`
-      - `subsistence`
+    - n.
+      - 生活，生存；寿命
+        - `existence`
+        - `living`
+        - `age`
+        - `livelihood`
+        - `subsistence`
   - 短语
-    - `in life` 一生中 
-    - `service life` 使用寿命；使用期限；耐用年限 
-    - `daily life` 日常生活 
-    - `quality of life` 生活质量；基本生活条件 
-    - `real life` 现实生活（的）；实际生活（的） 
-    - `for life` 终身；为了保命 
-    - `whole life` 一生；终身保险；终身寿险 
-    - `life cycle` 寿命周期；生存期 
-    - `human life` 人类生活；人的生命 
-    - `social life` 社交生活，社会生活 
-    - `walks of life` 各界，各行各业 
-    - `new life` 新生活；新生命 
-    - `long life` 长寿命；使用期限长的 
-    - `happy life` 幸福生活；快乐的人生 
-    - `all walks of life` 各行各业；各界人士 
-    - `way of life` 生活方式；行为准则 
-    - `life style` 生活方式，生活习惯；格调 
-    - `better life` 更美好旳玍活 
-    - `life and death` 生与死，死活 
-    - `fatigue life` 疲劳寿命 
+    - `in life`
+      - 一生中 
+    - `service life`
+      - 使用寿命；使用期限；耐用年限 
+    - `daily life`
+      - 日常生活 
+    - `quality of life`
+      - 生活质量；基本生活条件 
+    - `real life`
+      - 现实生活（的）；实际生活（的） 
+    - `for life`
+      - 终身；为了保命 
+    - `whole life`
+      - 一生；终身保险；终身寿险 
+    - `life cycle`
+      - 寿命周期；生存期 
+    - `human life`
+      - 人类生活；人的生命 
+    - `social life`
+      - 社交生活，社会生活 
+    - `walks of life`
+      - 各界，各行各业 
+    - `new life`
+      - 新生活；新生命 
+    - `long life`
+      - 长寿命；使用期限长的 
+    - `happy life`
+      - 幸福生活；快乐的人生 
+    - `all walks of life`
+      - 各行各业；各界人士 
+    - `way of life`
+      - 生活方式；行为准则 
+    - `life style`
+      - 生活方式，生活习惯；格调 
+    - `better life`
+      - 更美好旳玍活 
+    - `life and death`
+      - 生与死，死活 
+    - `fatigue life`
+      - 疲劳寿命 
   - 例句
     - `Learning goes on throughout life.`
       - 学习是一生的事。

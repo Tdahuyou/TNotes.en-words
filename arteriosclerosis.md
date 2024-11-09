@@ -1,29 +1,44 @@
 - arteriosclerosis
   - 发音
-    - 英 `/ɑː,tɪərɪəʊsklɪə'rəʊsɪs; -sklə-/`
-    - 美 `/ɑr,tɪriosklə'rosɪs/`
+    - 英
+      - `/ɑː,tɪərɪəʊsklɪə'rəʊsɪs; -sklə-/`
+    - 美
+      - `/ɑr,tɪriosklə'rosɪs/`
   - 词义
-    - n. 动脉硬化
-    - `a disease in which your arteries become hard, which makes it difficult for the blood to flow through`
+    - n.
+      - 动脉硬化
+        - `a disease in which your arteries become hard, which makes it difficult for the blood to flow through`
   - 同根词
     - adj.
-      - `arterial` [解剖] 动脉的；干线的；像动脉的
-      - `arteriolar` 小动脉的
-      - `arteriosclerotic` 动脉硬化的
+      - `arterial`
+        - [解剖] 动脉的；干线的；像动脉的
+      - `arteriolar`
+        - 小动脉的
+      - `arteriosclerotic`
+        - 动脉硬化的
     - n.
-      - `artery` 动脉；干道；主流
-      - `arteriole` [解剖] 小动脉；细动脉
-      - `arteriectasis` 动脉扩张
-      - `arteriogram` 动脉波；动脉脉搏图；动脉搏描记图
-      - `arteriography` 动脉 X 线摄影法
-      - `arteritis` [内科] 动脉炎
+      - `artery`
+        - 动脉；干道；主流
+      - `arteriole`
+        - [解剖] 小动脉；细动脉
+      - `arteriectasis`
+        - 动脉扩张
+      - `arteriogram`
+        - 动脉波；动脉脉搏图；动脉搏描记图
+      - `arteriography`
+        - 动脉 X 线摄影法
+      - `arteritis`
+        - [内科] 动脉炎
     - vt.
-      - `arterialize` 化为动脉血
+      - `arterialize`
+        - 化为动脉血
   - 近义词
-    - n. [内科]动脉硬化
-      - `atherosclerosis`
+    - n.
+      - [内科]动脉硬化
+        - `atherosclerosis`
   - 短语
-    - `cerebral arteriosclerosis` 脑动脉硬化 
+    - `cerebral arteriosclerosis`
+      - 脑动脉硬化 
   - 例句
     - `Garlic aids in the digestion of fats and oils, lowers blood pressure, prevents arteriosclerosis, and lowers cholesterol levels.`
       - 大蒜具有帮助消化脂肪和油脂，降低血压，防止动脉硬化和降低固醇水平的功能。

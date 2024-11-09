@@ -1,21 +1,28 @@
 - habitable
   - 发音
-    - 英 `/'hæbitəbl/`
-    - 美 `/'hæbɪtəbl/`
+    - 英
+      - `/'hæbitəbl/`
+    - 美
+      - `/'hæbɪtəbl/`
   - 词义
-    - adj. 可居住的
-    - `good enough for people to live in`
+    - adj.
+      - 可居住的
+        - `good enough for people to live in`
   - 记忆
     - 这里可以居住 (habitable)， 但是要养成好习惯 (habit)
   - 同根词
     - n.
-      - `habitation` 居住；住所
-      - `habitant` 居民，居住者
-      - `habitability` 可居住；适于居住
+      - `habitation`
+        - 居住；住所
+      - `habitant`
+        - 居民，居住者
+      - `habitability`
+        - 可居住；适于居住
   - 近义词
-    - adj. 可居住的；适于居住的
-      - `tenantable`
-      - `inhabitable`
+    - adj.
+      - 可居住的；适于居住的
+        - `tenantable`
+        - `inhabitable`
   - 例句
     - `It would cost a fortune to make the place habitable.`
       - 要想让这个地方可以住人得花一大笔钱。

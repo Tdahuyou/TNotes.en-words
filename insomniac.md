@@ -1,10 +1,13 @@
 - insomniac
   - 发音
-    - 英 `/ɪn'sɒmnɪæk/`
-    - 美 `/in'sɔmniæk/`
+    - 英
+      - `/ɪn'sɒmnɪæk/`
+    - 美
+      - `/in'sɔmniæk/`
   - 词义
-    - n. 失眠症患者
-    - `someone who cannot sleep easily`
+    - n.
+      - 失眠症患者
+        - `someone who cannot sleep easily`
   - 例句
     - `I wish you knew me before I was an insomniac because I used to be a really nice person.`
       - 我希望在我成为失眠症者之前你就认识我，因为我曾经是个地地道道的好人。

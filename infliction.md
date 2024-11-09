@@ -1,18 +1,26 @@
 - infliction
   - 发音
-    - 英 `/ɪn'flɪkʃ(ə)n/`
-    - 美 `/in'flikʃən/`
+    - 英
+      - `/ɪn'flɪkʃ(ə)n/`
+    - 美
+      - `/in'flikʃən/`
   - 词义
-    - n. 施加,使负担
+    - n.
+      - 施加,使负担
   - 同根词
     - adj.
-      - `inflictable` 可处罚的
-      - `inflictive` 加以打击的；使人难过的
+      - `inflictable`
+        - 可处罚的
+      - `inflictive`
+        - 加以打击的；使人难过的
     - n.
-      - `inflicter` 加害者；惩罚者
+      - `inflicter`
+        - 加害者；惩罚者
     - vt.
-      - `inflict` 造成；使遭受（损伤、痛苦等）；给予（打击等）
+      - `inflict`
+        - 造成；使遭受（损伤、痛苦等）；给予（打击等）
   - 近义词
-    - n. 施加；处罚，刑罚
-      - `penalty`
-      - `tarradiddle`
+    - n.
+      - 施加；处罚，刑罚
+        - `penalty`
+        - `tarradiddle`

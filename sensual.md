@@ -1,33 +1,49 @@
 - sensual
   - 发音
-    - 英 `/'senʃuəl/`
-    - 美 `/'sɛnʃuəl/`
+    - 英
+      - `/'senʃuəl/`
+    - 美
+      - `/'sɛnʃuəl/`
   - 词义
-    - adj. 感觉的，感官的；肉欲的；耽于感官享受的
-    - `relating to the feelings of your body rather than your mind`
+    - adj.
+      - 感觉的，感官的；肉欲的；耽于感官享受的
+        - `relating to the feelings of your body rather than your mind`
   - 记忆
     - sens(感觉) + ual → 感觉的， 感官的
   - 同根词
     - adj.
-      - `sensory` 感觉的；知觉的；传递感觉的
-      - `sensuous` 感觉上的，依感观的；诉诸美感的
-      - `sensorial` 知觉的；感觉的
-      - `sensorimotor` 感觉运动的（等于sensomotor）
-      - `sensorineural` 感觉神经的
+      - `sensory`
+        - 感觉的；知觉的；传递感觉的
+      - `sensuous`
+        - 感觉上的，依感观的；诉诸美感的
+      - `sensorial`
+        - 知觉的；感觉的
+      - `sensorimotor`
+        - 感觉运动的（等于sensomotor）
+      - `sensorineural`
+        - 感觉神经的
     - adv.
-      - `sensually` 好色地；官能地
-      - `sensuously` 感觉上
+      - `sensually`
+        - 好色地；官能地
+      - `sensuously`
+        - 感觉上
     - n.
-      - `sensuality` 好色；淫荡；喜爱感官享受
-      - `sensorium` 感觉中枢；知觉器官；感觉器官
-      - `sensualism` 感觉论；肉欲主义；好色
-      - `sensualist` 好色者；感觉论者
+      - `sensuality`
+        - 好色；淫荡；喜爱感官享受
+      - `sensorium`
+        - 感觉中枢；知觉器官；感觉器官
+      - `sensualism`
+        - 感觉论；肉欲主义；好色
+      - `sensualist`
+        - 好色者；感觉论者
     - vt.
-      - `sensualize` 使变成好色；使耽溺于肉欲；使荒淫
+      - `sensualize`
+        - 使变成好色；使耽溺于肉欲；使荒淫
   - 近义词
-    - adj. 感觉的；肉欲的；世俗的；感觉论的
-      - `lay`
-      - `mundane`
+    - adj.
+      - 感觉的；肉欲的；世俗的；感觉论的
+        - `lay`
+        - `mundane`
   - 例句
     - `the sensual pleasure of good food`
       - 美食的感官享受

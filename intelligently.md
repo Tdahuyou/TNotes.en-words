@@ -1,20 +1,28 @@
 - intelligently
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - adv. 聪明地；理智地
+    - adv.
+      - 聪明地；理智地
   - 同根词
     - adj.
-      - `intellectual` 智力的；聪明的；理智的
-      - `intelligent` 智能的；聪明的；理解力强的
+      - `intellectual`
+        - 智力的；聪明的；理智的
+      - `intelligent`
+        - 智能的；聪明的；理解力强的
     - n.
-      - `intellectual` 知识分子；凭理智做事者
-      - `intelligence` 智力；情报工作；情报机关；理解力
+      - `intellectual`
+        - 知识分子；凭理智做事者
+      - `intelligence`
+        - 智力；情报工作；情报机关；理解力
   - 近义词
-    - adv. 聪明地，明智地
-      - `wisely`
-      - `cleverly`
+    - adv.
+      - 聪明地，明智地
+        - `wisely`
+        - `cleverly`
   - 例句
     - `Philosophy is a study that lets us be unhappy more intelligently.`
       - 哲学是让我们更聪明地不快乐的一门学问。

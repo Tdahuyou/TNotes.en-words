@@ -1,23 +1,33 @@
 - trigonometry
   - 发音
-    - 英 `/,trɪgə'nɒmɪtrɪ/`
-    - 美 `/,trɪɡə'nɑmətri/`
+    - 英
+      - `/,trɪgə'nɒmɪtrɪ/`
+    - 美
+      - `/,trɪɡə'nɑmətri/`
   - 词义
-    - n. 三角法
-    - `the part of mathematics concerned with the relationship between the angles and sides of  triangles `
+    - n.
+      - 三角法
+        - `the part of mathematics concerned with the relationship between the angles and sides of  triangles `
   - 同根词
     - adj.
-      - `trigonometric` [数] 三角法的；三角学的
-      - `trig` 潇洒的；整洁的，漂亮的
-      - `trigonal` 三角的；三角形的；三方晶系的
+      - `trigonometric`
+        - [数] 三角法的；三角学的
+      - `trig`
+        - 潇洒的；整洁的，漂亮的
+      - `trigonal`
+        - 三角的；三角形的；三方晶系的
     - n.
-      - `trig` 煞车；垫木，垫石；三角学
-      - `trigon` （占星术12宫中隔120度的）三宫之一组；三角琴；三角形
+      - `trig`
+        - 煞车；垫木，垫石；三角学
+      - `trigon`
+        - （占星术12宫中隔120度的）三宫之一组；三角琴；三角形
     - vt.
-      - `trig` 修饰；煞住；支撑
+      - `trig`
+        - 修饰；煞住；支撑
   - 近义词
-    - n. [数]三角法
-      - `triangular method`
+    - n.
+      - [数]三角法
+        - `triangular method`
   - 例句
     - `He received a low mark for trigonometry.`
       - 他的三角学分数很低。

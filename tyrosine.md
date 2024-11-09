@@ -1,15 +1,20 @@
 - tyrosine
   - 发音
-    - 英 `/'taɪrəsiːn/`
-    - 美 `/'taɪrəsɪn/`
+    - 英
+      - `/'taɪrəsiːn/`
+    - 美
+      - `/'taɪrəsɪn/`
   - 词义
-    - n. [生化]酪氨酸
-    - `an aromatic nonessential amino acid; a component of proteins`
+    - n.
+      - [生化]酪氨酸
+        - `an aromatic nonessential amino acid; a component of proteins`
   - 近义词
-    - n. [生化]酪氨酸
-      - `Tyr`
+    - n.
+      - [生化]酪氨酸
+        - `Tyr`
   - 短语
-    - `tyrosine hydroxylase` [化]酪氨酸羟化酶 
+    - `tyrosine hydroxylase`
+      - [化]酪氨酸羟化酶 
   - 例句
     - `The pleasure-inducing chemical dopamine contains tyrosine and phenylalanine, a pair of amino acids that can be found in protein-packed foods like fish, meat and beans.`
       - 快乐诱导化学多巴胺包含包含酪氨酸和苯丙氨酸，两种可以于富含蛋白质的食品如鱼，肉，豆类等食品中找到的氨基酸。

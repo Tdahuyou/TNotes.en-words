@@ -1,9 +1,12 @@
 - octogenarian
   - 发音
-    - 英 `/,ɒktə(ʊ)dʒɪ'neərɪən/`
-    - 美 `/'ɑktədʒə'nɛrɪən/`
+    - 英
+      - `/,ɒktə(ʊ)dʒɪ'neərɪən/`
+    - 美
+      - `/'ɑktədʒə'nɛrɪən/`
   - 词义
-    - adj. 八十岁的,八十多岁的
+    - adj.
+      - 八十岁的,八十多岁的
   - 例句
     - `Marius on that barricade after the octogenarian was the vision of the young revolution after the apparition of the old.`
       - 马吕斯继那八十岁老人之后，屹立在街垒上，这是继老革命而起的新生革命的形象。

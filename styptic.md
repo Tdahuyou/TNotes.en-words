@@ -1,17 +1,22 @@
 - styptic
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - adj. [医]收敛性的,止血的
-    - `contracting the blood vessels or tissues `
+    - adj.
+      - [医]收敛性的,止血的
+        - `contracting the blood vessels or tissues `
   - 近义词
-    - adj. 止血的；[医]收敛性的
-      - `anthemorrhagic`
-      - `constringent`
-    - n. [医]止血剂，止血药
-      - `hemostat`
-      - `stancher`
+    - adj.
+      - 止血的；[医]收敛性的
+        - `anthemorrhagic`
+        - `constringent`
+    - n.
+      - [医]止血剂，止血药
+        - `hemostat`
+        - `stancher`
   - 例句
     - `A styptic pencil, IE a stick of this, used eg on a cut made while shaving.`
       - 止血笔（用止血剂制成的药棒，如用于刮脸时划破之处）。

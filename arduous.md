@@ -1,25 +1,32 @@
 - arduous
   - 发音
-    - 英 `/'ɑːrdʒuəs/`
-    - 美 `/'ɑrdʒuəs/`
+    - 英
+      - `/'ɑːrdʒuəs/`
+    - 美
+      - `/'ɑrdʒuəs/`
   - 词义
-    - adj. 费力的，艰巨的
-    - `involving a lot of strength and effort`
+    - adj.
+      - 费力的，艰巨的
+        - `involving a lot of strength and effort`
   - 记忆
     - ard(高的) + uous(多…的) → 很高的， 难以攀登的 → 费力的， 艰巨的
   - 同根词
     - adv.
-      - `arduously` 严酷地；费力地
+      - `arduously`
+        - 严酷地；费力地
     - n.
-      - `arduousness` 艰难，艰苦，艰辛，奋斗
+      - `arduousness`
+        - 艰难，艰苦，艰辛，奋斗
   - 近义词
-    - adj. 努力的；费力的；险峻的
-      - `hard`
-      - `rapid`
-      - `bold`
-      - `struggling`
+    - adj.
+      - 努力的；费力的；险峻的
+        - `hard`
+        - `rapid`
+        - `bold`
+        - `struggling`
   - 短语
-    - `make arduous efforts` v. 努力奋斗 
+    - `make arduous efforts`
+      - v. 努力奋斗 
   - 例句
     - `...a long, hot and arduous trip.`
       - …一段漫长、灼热、艰难的旅程。

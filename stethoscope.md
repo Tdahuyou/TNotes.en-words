@@ -1,14 +1,19 @@
 - stethoscope
   - 发音
-    - 英 `/'steθəskəʊp/`
-    - 美 `/'stɛθəskop/`
+    - 英
+      - `/'steθəskəʊp/`
+    - 美
+      - `/'stɛθəskop/`
   - 词义
-    - vt. 用听诊器诊断
-    - n. [临床]听诊器
-    - `an instrument that a doctor uses to listen to your heart or breathing`
+    - vt.
+      - 用听诊器诊断
+    - n.
+      - [临床]听诊器
+        - `an instrument that a doctor uses to listen to your heart or breathing`
   - 近义词
-    - n. [临床]听诊器
-      - `echometer`
+    - n.
+      - [临床]听诊器
+        - `echometer`
   - 例句
     - `Listening to a purring cat through a stethoscope is also a great relaxation technique.`
       - 用听诊器听猫发出呼噜呼噜的声音，也是很好的放松技巧。

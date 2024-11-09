@@ -1,27 +1,38 @@
 - memorize
   - 发音
-    - 英 `/'meməraɪz/`
-    - 美 `/'mɛmə'raɪz/`
+    - 英
+      - `/'meməraɪz/`
+    - 美
+      - `/'mɛmə'raɪz/`
   - 词义
-    - vt. 记住，记忆，熟记
-    - `to learn words, music etc so that you know them perfectly`
+    - vt.
+      - 记住，记忆，熟记
+        - `to learn words, music etc so that you know them perfectly`
   - 记忆
     - memor(记忆) + ize → 记住， 记忆
   - 同根词
     - adj.
-      - `memorial` 记忆的；纪念的，追悼的
+      - `memorial`
+        - 记忆的；纪念的，追悼的
     - n.
-      - `memory` 记忆，记忆力；内存，[计] 存储器；回忆
-      - `memorial` 纪念碑，纪念馆；纪念仪式；纪念物
-      - `memorization` 记住；暗记
-      - `memorability` 值得记忆；难忘的人
-      - `memorizer` [计] 存储器
+      - `memory`
+        - 记忆，记忆力；内存，[计] 存储器；回忆
+      - `memorial`
+        - 纪念碑，纪念馆；纪念仪式；纪念物
+      - `memorization`
+        - 记住；暗记
+      - `memorability`
+        - 值得记忆；难忘的人
+      - `memorizer`
+        - [计] 存储器
     - vt.
-      - `memorise` （英）记忆；存储（等于memorize）
+      - `memorise`
+        - （英）记忆；存储（等于memorize）
   - 近义词
-    - vt. 记住，背熟；记忆
-      - `retain`
-      - `keep in mind`
+    - vt.
+      - 记住，背熟；记忆
+        - `retain`
+        - `keep in mind`
   - 例句
     - `He studied his map, trying to memorize the way to Rose's street.`
       - 他研究了地图，努力记住去罗丝家那条街的路。

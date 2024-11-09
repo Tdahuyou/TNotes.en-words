@@ -1,27 +1,36 @@
 - narration
   - 发音
-    - 英 `/nə'reɪʃ(ə)n/`
-    - 美 `/nə'reʃən/`
+    - 英
+      - `/nə'reɪʃ(ə)n/`
+    - 美
+      - `/nə'reʃən/`
   - 词义
-    - n. 叙述
-    - `the act of telling a story`
+    - n.
+      - 叙述
+        - `the act of telling a story`
   - 同根词
     - adj.
-      - `narrative` 叙事的，叙述的；叙事体的
+      - `narrative`
+        - 叙事的，叙述的；叙事体的
     - n.
-      - `narrative` 叙述；故事；讲述
-      - `narrator` 叙述者；解说员
+      - `narrative`
+        - 叙述；故事；讲述
+      - `narrator`
+        - 叙述者；解说员
     - vi.
-      - `narrate` 叙述；讲述
+      - `narrate`
+        - 叙述；讲述
     - vt.
-      - `narrate` 叙述；给…作旁白
+      - `narrate`
+        - 叙述；给…作旁白
   - 近义词
-    - n. 叙述，讲述；故事
-      - `relation`
-      - `statement`
-      - `story`
-      - `telling`
-      - `tale`
+    - n.
+      - 叙述，讲述；故事
+        - `relation`
+        - `statement`
+        - `story`
+        - `telling`
+        - `tale`
   - 例句
     - `I need some good pictures for narration.`
       - 我需要一些叙述时用的好镜头。

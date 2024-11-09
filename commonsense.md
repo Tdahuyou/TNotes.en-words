@@ -1,13 +1,18 @@
 - commonsense
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - adj. 常识的,具有常识的
+    - adj.
+      - 常识的,具有常识的
   - 同根词
     - adj.
-      - `commonsensical` 有基本常识的；明白事理的
-      - `commonsensible` 常识的
+      - `commonsensical`
+        - 有基本常识的；明白事理的
+      - `commonsensible`
+        - 常识的
   - 例句
     - `I mean, in spite of this commonsense explanation, we are going to see how to prove this.`
       - 我的意思是，不管常识怎么解释的，我们都将看看如何证明这个定理。

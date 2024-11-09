@@ -1,10 +1,13 @@
 - Gentile
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 非犹太人，异教徒
-    - `someone who is not Jewish`
+    - n.
+      - 非犹太人，异教徒
+        - `someone who is not Jewish`
   - 例句
     - `And there are radical messages being spread by people who would kill every moderate Muslim, Jew, Gentile and agnostic alike.`
       - 有人散布激进言论，要杀死每个温和的穆斯林、犹太人、非犹太人和不可知论者。

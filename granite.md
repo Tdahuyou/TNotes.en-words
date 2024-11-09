@@ -1,22 +1,30 @@
 - granite
   - 发音
-    - 英 `/'grænɪt/`
-    - 美 `/'grænɪt/`
+    - 英
+      - `/'grænɪt/`
+    - 美
+      - `/'grænɪt/`
   - 词义
-    - n. 花岗岩，花岗石
-    - `a very hard grey rock, often used in building`
+    - n.
+      - 花岗岩，花岗石
+        - `a very hard grey rock, often used in building`
   - 记忆
     - gran(=grain颗粒) + ite → 颗粒状石头 → 花岗岩
   - 同根词
     - adj.
-      - `granitic` 花岗石的；由花岗岩形成的
+      - `granitic`
+        - 花岗石的；由花岗岩形成的
   - 近义词
-    - n. [岩]花岗岩；坚毅；冷酷无情
-      - `moorstone`
+    - n.
+      - [岩]花岗岩；坚毅；冷酷无情
+        - `moorstone`
   - 短语
-    - `weathered granite` 风化花岗岩；风化石 
-    - `granite porphyry` 花岗斑岩；石英斑岩 
-    - `black granite` 黑色花岗岩；黑花岗石 
+    - `weathered granite`
+      - 风化花岗岩；风化石 
+    - `granite porphyry`
+      - 花岗斑岩；石英斑岩 
+    - `black granite`
+      - 黑色花岗岩；黑花岗石 
   - 例句
     - `A pile of sand is loose, but it mixed with cement, stone, water, the toughness than granite.`
       - 一堆沙子是松散的，可是它和水泥、石子、水混合后，比花岗岩还坚韧。——王杰。

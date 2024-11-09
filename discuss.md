@@ -1,21 +1,28 @@
 - discuss
   - 发音
-    - 英 `/dɪ'skʌs/`
-    - 美 `/dɪ'skʌs/`
+    - 英
+      - `/dɪ'skʌs/`
+    - 美
+      - `/dɪ'skʌs/`
   - 词义
-    - v. 讨论；谈论
-    - `to talk about something with another person or a group in order to exchange ideas or decide something`
+    - v.
+      - 讨论；谈论
+        - `to talk about something with another person or a group in order to exchange ideas or decide something`
   - 同根词
     - n.
-      - `discussion` 讨论，议论
-      - `discussant` 商讨者；讨论者
+      - `discussion`
+        - 讨论，议论
+      - `discussant`
+        - 商讨者；讨论者
   - 近义词
-    - vt. 讨论；论述，辩论
-      - `debate`
-      - `reason`
-      - `argue`
+    - vt.
+      - 讨论；论述，辩论
+        - `debate`
+        - `reason`
+        - `argue`
   - 短语
-    - `discuss with` 商洽；与…谈论 
+    - `discuss with`
+      - 商洽；与…谈论 
   - 例句
     - `Littman refused to discuss the case publicly.`
       - 利特曼拒绝公开讨论此案。

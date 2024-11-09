@@ -1,22 +1,29 @@
 - malfeasance
   - 发音
-    - 英 `/mæl'fiːzəns/`
-    - 美 `/,mæl'fizns/`
+    - 英
+      - `/mæl'fiːzəns/`
+    - 美
+      - `/,mæl'fizns/`
   - 词义
-    - n. 违法行为，渎职
-    - `illegal or dishonest activity`
+    - n.
+      - 违法行为，渎职
+        - `illegal or dishonest activity`
   - 记忆
     - mal (坏) + feas (做， 行为) + ance → 坏的行为 → 违法行为
   - 同根词
     - adj.
-      - `maleficent` 有害的；犯罪的；做坏事的
-      - `malfeasant` 不法行为的；行为不正的
+      - `maleficent`
+        - 有害的；犯罪的；做坏事的
+      - `malfeasant`
+        - 不法行为的；行为不正的
     - n.
-      - `malfeasant` 贪官污吏；犯罪者
+      - `malfeasant`
+        - 贪官污吏；犯罪者
   - 近义词
-    - n. 渎职，违法行为；不正当，坏事
-      - `bad`
-      - `wrong`
+    - n.
+      - 渎职，违法行为；不正当，坏事
+        - `bad`
+        - `wrong`
   - 例句
     - `Of the 22 officials, three were transferred to judicial departments for malfeasance, while the other 19 received administrative punishments.`
       - 在这22人中，有三人因渎职罪被移送司法机关处理，其他19人受到行政处分。

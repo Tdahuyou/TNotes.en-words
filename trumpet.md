@@ -1,24 +1,32 @@
 - trumpet
   - 发音
-    - 英 `/'trʌmpɪt/`
-    - 美 `/'trʌmpɪt/`
+    - 英
+      - `/'trʌmpɪt/`
+    - 美
+      - `/'trʌmpɪt/`
   - 词义
-    - v. 鼓吹，宣扬
-    - `to tell everyone about something that you are proud of, especially in an annoying way`
-    - n. 小号，喇叭
-    - `a musical instrument that you blow into, which consists of a curved metal tube that is wide at the end, and three buttons you press to change the notes`
+    - v.
+      - 鼓吹，宣扬
+        - `to tell everyone about something that you are proud of, especially in an annoying way`
+    - n.
+      - 小号，喇叭
+        - `a musical instrument that you blow into, which consists of a curved metal tube that is wide at the end, and three buttons you press to change the notes`
   - 同根词
     - n.
-      - `trumpeter` 吹鼓手；号兵
+      - `trumpeter`
+        - 吹鼓手；号兵
   - 近义词
-    - n. 喇叭；喇叭声
-      - `horn`
-      - `loudspeaker`
-    - vt. 吹喇叭；吹嘘
-      - `crow about`
-      - `brag about`
-    - vi. 吹喇叭；发出喇叭般的声音
-      - `blow job`
+    - n.
+      - 喇叭；喇叭声
+        - `horn`
+        - `loudspeaker`
+    - vt.
+      - 吹喇叭；吹嘘
+        - `crow about`
+        - `brag about`
+    - vi.
+      - 吹喇叭；发出喇叭般的声音
+        - `blow job`
   - 例句
     - `They are proudly trumpeting the fact that they are creating more jobs.`
       - 他们得意地宣扬他们是在创造更多的工作岗位。

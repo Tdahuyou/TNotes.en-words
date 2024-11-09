@@ -1,16 +1,21 @@
 - unnecessarily
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - adv. 不必要地,徒然
+    - adv.
+      - 不必要地,徒然
   - 同根词
     - adj.
-      - `unnecessary` 不必要的；多余的，无用的
+      - `unnecessary`
+        - 不必要的；多余的，无用的
   - 近义词
-    - adv. 不必要地；多余地
-      - `needlessly`
-      - `redundantly`
+    - adv.
+      - 不必要地；多余地
+        - `needlessly`
+        - `redundantly`
   - 例句
     - `What you should not do is prevent or override it unnecessarily.`
       - 您不应该做的是不必要地阻止或重写它。

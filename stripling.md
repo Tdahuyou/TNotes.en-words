@@ -1,10 +1,14 @@
 - stripling
   - 发音
-    - 英 `/'stripliŋ/`
-    - 美 `/'stripliŋ/`
+    - 英
+      - `/'stripliŋ/`
+    - 美
+      - `/'stripliŋ/`
   - 词义
-    - n. 年轻人
+    - n.
+      - 年轻人
   - 近义词
-    - n. 年轻人，小伙子
-      - `young adult`
-      - `jong`
+    - n.
+      - 年轻人，小伙子
+        - `young adult`
+        - `jong`

@@ -1,31 +1,44 @@
 - retrieval
   - 发音
-    - 英 `/rɪ'triːvl/`
-    - 美 `/rɪ'trivl/`
+    - 英
+      - `/rɪ'triːvl/`
+    - 美
+      - `/rɪ'trivl/`
   - 词义
-    - n. 数据检索；取回，索回
-    - `the process of getting back information stored on a computer system`
+    - n.
+      - 数据检索；取回，索回
+        - `the process of getting back information stored on a computer system`
   - 同根词
     - adj.
-      - `retrievable` 可取回的；可补偿的；可检索的
+      - `retrievable`
+        - 可取回的；可补偿的；可检索的
     - n.
-      - `retrieve` [计] 检索；恢复，取回
-      - `retriever` （训练成能寻回猎物的）猎犬；取回的人
+      - `retrieve`
+        - [计] 检索；恢复，取回
+      - `retriever`
+        - （训练成能寻回猎物的）猎犬；取回的人
     - vi.
-      - `retrieve` 找回猎物
+      - `retrieve`
+        - 找回猎物
     - vt.
-      - `retrieve` [计] 检索；恢复；重新得到
+      - `retrieve`
+        - [计] 检索；恢复；重新得到
   - 近义词
-    - n. 检索；恢复；取回；拯救
-      - `recovery`
-      - `restoration`
-      - `renewal`
-      - `salvation`
+    - n.
+      - 检索；恢复；取回；拯救
+        - `recovery`
+        - `restoration`
+        - `renewal`
+        - `salvation`
   - 短语
-    - `information retrieval` 信息检索；情报检索 
-    - `retrieval system` 检索系统；挽回系统 
-    - `document retrieval` [计]文档检索 
-    - `data retrieval` 数据检索；资料检索；资料信息 
+    - `information retrieval`
+      - 信息检索；情报检索 
+    - `retrieval system`
+      - 检索系统；挽回系统 
+    - `document retrieval`
+      - [计]文档检索 
+    - `data retrieval`
+      - 数据检索；资料检索；资料信息 
   - 例句
     - `a new system that should speed up information retrieval`
       - 能加速信息检索的新系统

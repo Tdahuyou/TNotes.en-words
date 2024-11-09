@@ -1,26 +1,35 @@
 - rely
   - 发音
-    - 英 `/rɪ'laɪ/`
-    - 美 `/rɪ'laɪ/`
+    - 英
+      - `/rɪ'laɪ/`
+    - 美
+      - `/rɪ'laɪ/`
   - 词义
-    - vi. 依赖，依靠；信赖，信任
-    - `If you rely on someone or something, you need them and depend on them in order to live or work properly`
+    - vi.
+      - 依赖，依靠；信赖，信任
+        - `If you rely on someone or something, you need them and depend on them in order to live or work properly`
   - 记忆
     - re(一再) + ly(音似： lie“撒谎”) → 又撒谎了， 不值得信赖 → 信赖
   - 同根词
     - adj.
-      - `reliable` 可靠的；可信赖的
+      - `reliable`
+        - 可靠的；可信赖的
     - adv.
-      - `reliably` 可靠地；确实地
+      - `reliably`
+        - 可靠地；确实地
     - n.
-      - `reliable` 可靠的人
-      - `reliability` 可靠性
+      - `reliable`
+        - 可靠的人
+      - `reliability`
+        - 可靠性
   - 近义词
-    - vi. 依靠；信赖
-      - `trust`
-      - `hope`
+    - vi.
+      - 依靠；信赖
+        - `trust`
+        - `hope`
   - 短语
-    - `rely on` 依靠，依赖 
+    - `rely on`
+      - 依靠，依赖 
   - 例句
     - `They relied heavily on the advice of their professional advisers.`
       - 他们非常依赖专业顾问的建议。

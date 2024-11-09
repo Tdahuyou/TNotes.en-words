@@ -1,19 +1,26 @@
 - larynx
   - 发音
-    - 英 `/'lærɪŋks/`
-    - 美 `/'lærɪŋks/`
+    - 英
+      - `/'lærɪŋks/`
+    - 美
+      - `/'lærɪŋks/`
   - 词义
-    - n. 喉
-    - `the part in your throat where your voice is produced`
+    - n.
+      - 喉
+        - `the part in your throat where your voice is produced`
   - 同根词
     - adj.
-      - `laryngeal` 喉的；喉头治疗用的
+      - `laryngeal`
+        - 喉的；喉头治疗用的
     - n.
-      - `laryngeal` 喉部；喉音
-      - `laryngectomy` [耳鼻喉] 喉头切除术
+      - `laryngeal`
+        - 喉部；喉音
+      - `laryngectomy`
+        - [耳鼻喉] 喉头切除术
   - 近义词
-    - n. [解剖]喉；喉头
-      - `fauces`
+    - n.
+      - [解剖]喉；喉头
+        - `fauces`
   - 例句
     - `The larynx, or voice box, sits lower in the throat in humans than in chimps, one of several .`
       - 人类的喉（亦称音箱），其在咽部的位置要低于黑猩猩，这是人们能说话的原因之一。

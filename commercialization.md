@@ -1,26 +1,38 @@
 - commercialization
   - 发音
-    - 英 `/kə,mɜːʃəlaɪ'zeɪʃən/`
-    - 美 `/kə,mɝʃəlɪ'zeʃən/`
+    - 英
+      - `/kə,mɜːʃəlaɪ'zeɪʃən/`
+    - 美
+      - `/kə,mɝʃəlɪ'zeʃən/`
   - 词义
-    - n. 商品化
+    - n.
+      - 商品化
   - 同根词
     - adj.
-      - `commercial` 商业的；营利的；靠广告收入的
-      - `commercialized` 商业化的
+      - `commercial`
+        - 商业的；营利的；靠广告收入的
+      - `commercialized`
+        - 商业化的
     - adv.
-      - `commercially` 商业上；通商上
+      - `commercially`
+        - 商业上；通商上
     - n.
-      - `commercial` 商业广告
-      - `commerce` 贸易，商业
-      - `commercialism` 商业主义；营利主义；重商主义
+      - `commercial`
+        - 商业广告
+      - `commerce`
+        - 贸易，商业
+      - `commercialism`
+        - 商业主义；营利主义；重商主义
     - v.
-      - `commercialized` 使商品化；靠…赚钱（commercialize的过去分词）
+      - `commercialized`
+        - 使商品化；靠…赚钱（commercialize的过去分词）
     - vt.
-      - `commercialize` 使商业化；使商品化
+      - `commercialize`
+        - 使商业化；使商品化
   - 近义词
-    - n. [贸易]商品化，商业化
-      - `merchandizing`
+    - n.
+      - [贸易]商品化，商业化
+        - `merchandizing`
   - 例句
     - `Hardly anyone can escape the influence of commercialization.`
       - 几乎没有人能逃脱商品化的影响。

@@ -1,11 +1,15 @@
 - lamella
   - 发音
-    - 英 `/lə'melə/`
-    - 美 `/lə'mɛlə/`
+    - 英
+      - `/lə'melə/`
+    - 美
+      - `/lə'mɛlə/`
   - 词义
-    - n. 薄片薄层,薄片,[动]瓣,鳃,壳层,[植]菌褶
-    - `a thin layer, plate, or membrane, esp any of the calcified layers of which bone is formed `
+    - n.
+      - 薄片薄层,薄片,[动]瓣,鳃,壳层,[植]菌褶
+        - `a thin layer, plate, or membrane, esp any of the calcified layers of which bone is formed `
   - 近义词
-    - n. 薄板；薄片；薄层
-      - `Scaleboard`
-      - `Blech`
+    - n.
+      - 薄板；薄片；薄层
+        - `Scaleboard`
+        - `Blech`

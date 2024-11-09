@@ -1,7 +1,10 @@
 - farrow
   - 发音
-    - 英 `/'færəʊ/`
-    - 美 `/undefined/`
+    - 英
+      - `/'færəʊ/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 一窝小猪,猪的一胎,下小猪
-    - `a litter of piglets `
+    - n.
+      - 一窝小猪,猪的一胎,下小猪
+        - `a litter of piglets `

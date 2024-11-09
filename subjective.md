@@ -1,36 +1,54 @@
 - subjective
   - 发音
-    - 英 `/səb'dʒektɪv/`
-    - 美 `/səb'dʒɛktɪv/`
+    - 英
+      - `/səb'dʒektɪv/`
+    - 美
+      - `/səb'dʒɛktɪv/`
   - 词义
-    - adj. 主观的，个人的
-    - `a state-ment, report, attitude etc that is subjective is influenced by personal opinion and can therefore be unfair`
+    - adj.
+      - 主观的，个人的
+        - `a state-ment, report, attitude etc that is subjective is influenced by personal opinion and can therefore be unfair`
   - 记忆
     - subject(主题) + ive → 主观的
   - 同根词
     - adj.
-      - `subject` 服从的；易患…的；受制于…的
-      - `subjectivist` 主观主义的
+      - `subject`
+        - 服从的；易患…的；受制于…的
+      - `subjectivist`
+        - 主观主义的
     - adv.
-      - `subjectively` 主观地；臆想地；内省地
+      - `subjectively`
+        - 主观地；臆想地；内省地
     - n.
-      - `subject` 主题；科目；[语] 主语；国民
-      - `subjectivity` 主观性，主观
-      - `subjectivism` 主观主义；主观性
-      - `subjectivist` 主观主义者
+      - `subject`
+        - 主题；科目；[语] 主语；国民
+      - `subjectivity`
+        - 主观性，主观
+      - `subjectivism`
+        - 主观主义；主观性
+      - `subjectivist`
+        - 主观主义者
     - vt.
-      - `subject` 使…隶属；使屈从于…
+      - `subject`
+        - 使…隶属；使屈从于…
   - 近义词
-    - adj. 主观的；个人的；自觉的
-      - `personal`
-      - `individual`
+    - adj.
+      - 主观的；个人的；自觉的
+        - `personal`
+        - `individual`
   - 短语
-    - `subjective initiative` 主观能动性 
-    - `subjective judgement` n. 主观判断 
-    - `subjective value` 主观价值 
-    - `subjective probability` 主观概率；主观频率 
-    - `subjective assume` 主观臆断 
-    - `subjective test` 主观测验 
+    - `subjective initiative`
+      - 主观能动性 
+    - `subjective judgement`
+      - n. 主观判断 
+    - `subjective value`
+      - 主观价值 
+    - `subjective probability`
+      - 主观概率；主观频率 
+    - `subjective assume`
+      - 主观臆断 
+    - `subjective test`
+      - 主观测验 
   - 例句
     - `As a critic, he is far too subjective.`
       - 作为评论家，他过于主观。

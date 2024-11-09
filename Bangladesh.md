@@ -1,9 +1,12 @@
 - Bangladesh
   - 发音
-    - 英 `/,ba:ŋglə'deʃ/`
-    - 美 `/,ba:ŋglə'deʃ/`
+    - 英
+      - `/,ba:ŋglə'deʃ/`
+    - 美
+      - `/,ba:ŋglə'deʃ/`
   - 词义
-    - n. 孟加拉国（亚洲国家）
+    - n.
+      - 孟加拉国（亚洲国家）
   - 例句
     - `As you know, in Bangladesh rumors go around so fast.`
       - 你也知道，在孟加拉国流言蜚语传播很快。

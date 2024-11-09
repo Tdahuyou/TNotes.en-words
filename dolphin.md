@@ -1,14 +1,18 @@
 - dolphin
   - 发音
-    - 英 `/'dɑːlfɪn/`
-    - 美 `/'dɑlfɪn/`
+    - 英
+      - `/'dɑːlfɪn/`
+    - 美
+      - `/'dɑlfɪn/`
   - 词义
-    - n. 海豚
-    - `a very intelligent sea animal like a fish with a long grey pointed nose`
+    - n.
+      - 海豚
+        - `a very intelligent sea animal like a fish with a long grey pointed nose`
   - 近义词
-    - n. [脊椎]海豚
-      - `sea hog`
-      - `porpoise`
+    - n.
+      - [脊椎]海豚
+        - `sea hog`
+        - `porpoise`
   - 例句
     - `I like dolphin.`
       - 我喜欢海豚。

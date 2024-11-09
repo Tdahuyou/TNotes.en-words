@@ -1,54 +1,89 @@
 - sensory
   - 发音
-    - 英 `/'sensəri/`
-    - 美 `/'sɛnsəri/`
+    - 英
+      - `/'sensəri/`
+    - 美
+      - `/'sɛnsəri/`
   - 词义
-    - adj. 感觉的，感官的
-    - `relating to or using your senses of sight, hearing, smell, taste, or touch`
+    - adj.
+      - 感觉的，感官的
+        - `relating to or using your senses of sight, hearing, smell, taste, or touch`
   - 记忆
     - sens(感觉) + ory → 感觉的
   - 同根词
     - adj.
-      - `sensational` 轰动的；耸人听闻的；非常好的；使人感动的
-      - `sensual` 感觉的；肉欲的；世俗的；感觉论的
-      - `sensuous` 感觉上的，依感观的；诉诸美感的
-      - `senseless` 愚蠢的；无知觉的；无意识的
-      - `sensing` 敏感的
-      - `sensorial` 知觉的；感觉的
-      - `sensorimotor` 感觉运动的（等于sensomotor）
-      - `sensate` 可感觉的；知觉的
-      - `sensorineural` 感觉神经的
+      - `sensational`
+        - 轰动的；耸人听闻的；非常好的；使人感动的
+      - `sensual`
+        - 感觉的；肉欲的；世俗的；感觉论的
+      - `sensuous`
+        - 感觉上的，依感观的；诉诸美感的
+      - `senseless`
+        - 愚蠢的；无知觉的；无意识的
+      - `sensing`
+        - 敏感的
+      - `sensorial`
+        - 知觉的；感觉的
+      - `sensorimotor`
+        - 感觉运动的（等于sensomotor）
+      - `sensate`
+        - 可感觉的；知觉的
+      - `sensorineural`
+        - 感觉神经的
     - adv.
-      - `senselessly` 毫无知觉地；无意识地；不省人事地
-      - `sensuously` 感觉上
+      - `senselessly`
+        - 毫无知觉地；无意识地；不省人事地
+      - `sensuously`
+        - 感觉上
     - n.
-      - `sense` 感觉，官能；观念；道理；理智
-      - `sensation` 感觉；轰动；感动
-      - `sensor` 传感器
-      - `sensing` 传感；感觉；测知
-      - `sensationalist` 感觉论者
-      - `sensorium` 感觉中枢；知觉器官；感觉器官
-      - `sensualism` 感觉论；肉欲主义；好色
-      - `sensualist` 好色者；感觉论者
-      - `sensuousness` 知觉；敏感
+      - `sense`
+        - 感觉，官能；观念；道理；理智
+      - `sensation`
+        - 感觉；轰动；感动
+      - `sensor`
+        - 传感器
+      - `sensing`
+        - 传感；感觉；测知
+      - `sensationalist`
+        - 感觉论者
+      - `sensorium`
+        - 感觉中枢；知觉器官；感觉器官
+      - `sensualism`
+        - 感觉论；肉欲主义；好色
+      - `sensualist`
+        - 好色者；感觉论者
+      - `sensuousness`
+        - 知觉；敏感
     - v.
-      - `sensing` 感觉，了解（sense的现在分词）
+      - `sensing`
+        - 感觉，了解（sense的现在分词）
     - vt.
-      - `sense` 感觉到；检测
+      - `sense`
+        - 感觉到；检测
   - 近义词
-    - adj. [生理]感觉的；知觉的；传递感觉的
-      - `perceptual`
-      - `esthetic`
+    - adj.
+      - [生理]感觉的；知觉的；传递感觉的
+        - `perceptual`
+        - `esthetic`
   - 短语
-    - `sensory evaluation` 感官品评，感官评价 
-    - `sensory quality` 感官品质；感觉性质 
-    - `sensory nerve` [医]感觉神经 
-    - `sensory information` 感觉信息；敏感元件信息 
-    - `sensory perception` n. 感官知觉 
-    - `sensory organ` 感觉器官；感觉器官；感觉瀑 
-    - `sensory test` 灵敏度试验；感官检查 
-    - `sensory system` 感觉系统；敏感度系统 
-    - `sensory nerve ending` 感觉神经末梢 
+    - `sensory evaluation`
+      - 感官品评，感官评价 
+    - `sensory quality`
+      - 感官品质；感觉性质 
+    - `sensory nerve`
+      - [医]感觉神经 
+    - `sensory information`
+      - 感觉信息；敏感元件信息 
+    - `sensory perception`
+      - n. 感官知觉 
+    - `sensory organ`
+      - 感觉器官；感觉器官；感觉瀑 
+    - `sensory test`
+      - 灵敏度试验；感官检查 
+    - `sensory system`
+      - 感觉系统；敏感度系统 
+    - `sensory nerve ending`
+      - 感觉神经末梢 
   - 例句
     - `sensory stimuli such as music`
       - 音乐等的感官刺激

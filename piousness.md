@@ -1,8 +1,11 @@
 - piousness
   - 发音
-    - 英 `/'paɪəsnəs/`
-    - 美 `/undefined/`
+    - 英
+      - `/'paɪəsnəs/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 虔诚
+    - n.
+      - 虔诚
   - 记忆
     - 来自pious(adj. 虔诚的)

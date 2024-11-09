@@ -1,24 +1,33 @@
 - narrator
   - 发音
-    - 英 `/nə'reɪtə/`
-    - 美 `/næ'retɚ/`
+    - 英
+      - `/nə'reɪtə/`
+    - 美
+      - `/næ'retɚ/`
   - 词义
-    - n. 讲述者
-    - `the person who tells the story in a book or a play`
+    - n.
+      - 讲述者
+        - `the person who tells the story in a book or a play`
   - 同根词
     - adj.
-      - `narrative` 叙事的，叙述的；叙事体的
+      - `narrative`
+        - 叙事的，叙述的；叙事体的
     - n.
-      - `narrative` 叙述；故事；讲述
-      - `narration` 叙述，讲述；故事
+      - `narrative`
+        - 叙述；故事；讲述
+      - `narration`
+        - 叙述，讲述；故事
     - vi.
-      - `narrate` 叙述；讲述
+      - `narrate`
+        - 叙述；讲述
     - vt.
-      - `narrate` 叙述；给…作旁白
+      - `narrate`
+        - 叙述；给…作旁白
   - 近义词
-    - n. 叙述者；解说员
-      - `relater`
-      - `commentator`
+    - n.
+      - 叙述者；解说员
+        - `relater`
+        - `commentator`
   - 例句
     - `“I can never look now at the Milky Way”, said the narrator in “The Sentinel”, “without wondering from which of those banked clouds of stars the emissaries are coming.`
       - “现在，我再也看不到银河了。” 在《哨兵》中，他借叙述者的口说道，“没错，那层层叠叠的星云中，我们期待的使者正在向这里赶来。

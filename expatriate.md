@@ -1,15 +1,20 @@
 - expatriate
   - 发音
-    - 英 `/eks'pætrieit/`
-    - 美 `/,ɛks'petrɪət/`
+    - 英
+      - `/eks'pætrieit/`
+    - 美
+      - `/,ɛks'petrɪət/`
   - 词义
-    - v. 逐出国外
+    - v.
+      - 逐出国外
   - 记忆
     - ex (出) + patri (父亲， 引申为国家) + ate (使) → 赶出国门 → 逐出国外
   - 同根词
     - n.
-      - `expatriation` 放弃国籍；流放国外
+      - `expatriation`
+        - 放弃国籍；流放国外
   - 近义词
-    - vt. 使移居国外；流放，放逐；使放弃国籍
-      - `transport`
-      - `banish`
+    - vt.
+      - 使移居国外；流放，放逐；使放弃国籍
+        - `transport`
+        - `banish`

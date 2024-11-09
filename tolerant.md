@@ -1,29 +1,40 @@
 - tolerant
   - 发音
-    - 英 `/'tɑːlərənt/`
-    - 美 `/'tɑlərənt/`
+    - 英
+      - `/'tɑːlərənt/`
+    - 美
+      - `/'tɑlərənt/`
   - 词义
-    - adj. 宽容的；容忍的
-    - `allowing people to do, say, or believe what they want without criticizing or punishing them`
+    - adj.
+      - 宽容的；容忍的
+        - `allowing people to do, say, or believe what they want without criticizing or punishing them`
   - 记忆
     - tol(支撑) + er + ant → 能自我支撑的 → 宽容的； 容忍的
   - 同根词
     - adj.
-      - `tolerable` 可以的；可容忍的
+      - `tolerable`
+        - 可以的；可容忍的
     - adv.
-      - `tolerably` 相当地；可容忍地；差不多地
-      - `tolerantly` 宽容地，容忍地
+      - `tolerably`
+        - 相当地；可容忍地；差不多地
+      - `tolerantly`
+        - 宽容地，容忍地
     - n.
-      - `tolerance` 公差；宽容；容忍；公差
-      - `toleration` 宽容，忍受，默认；耐受性
+      - `tolerance`
+        - 公差；宽容；容忍；公差
+      - `toleration`
+        - 宽容，忍受，默认；耐受性
     - vt.
-      - `tolerate` 忍受；默许；宽恕
+      - `tolerate`
+        - 忍受；默许；宽恕
   - 近义词
-    - adj. 宽容的；容忍的；有耐药力的
-      - `kind`
-      - `good-tempered`
+    - adj.
+      - 宽容的；容忍的；有耐药力的
+        - `kind`
+        - `good-tempered`
   - 短语
-    - `be tolerant of` 对...容忍（或宽容） 
+    - `be tolerant of`
+      - 对...容忍（或宽容） 
   - 例句
     - `a tolerant society`
       - 宽容的社会

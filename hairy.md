@@ -1,31 +1,46 @@
 - hairy
   - 发音
-    - 英 `/'heərɪ/`
-    - 美 `/'hɛri/`
+    - 英
+      - `/'heərɪ/`
+    - 美
+      - `/'hɛri/`
   - 词义
-    - adj. 毛发的，多毛的
-    - `a hairy person or animal has a lot of hair on their body`
+    - adj.
+      - 毛发的，多毛的
+        - `a hairy person or animal has a lot of hair on their body`
   - 同根词
     - adj.
-      - `hair` 毛发的；护理毛发的；用毛发制成的
-      - `haired` 有毛发的；长着...头发的（常用以构成复合词）
-      - `hairless` 无毛的；秃顶的
-      - `hairlike` 毛发似的；细微的；细长的
+      - `hair`
+        - 毛发的；护理毛发的；用毛发制成的
+      - `haired`
+        - 有毛发的；长着...头发的（常用以构成复合词）
+      - `hairless`
+        - 无毛的；秃顶的
+      - `hairlike`
+        - 毛发似的；细微的；细长的
     - n.
-      - `hair` 头发；毛发；些微
-      - `hairiness` 有毛；多毛
+      - `hair`
+        - 头发；毛发；些微
+      - `hairiness`
+        - 有毛；多毛
     - vi.
-      - `hair` 生长毛发；形成毛状纤维
+      - `hair`
+        - 生长毛发；形成毛状纤维
     - vt.
-      - `hair` 除去…的毛发
+      - `hair`
+        - 除去…的毛发
   - 近义词
-    - adj. [昆]多毛的；毛状的；长毛的
-      - `comous`
-      - `pileous`
+    - adj.
+      - [昆]多毛的；毛状的；长毛的
+        - `comous`
+        - `pileous`
   - 短语
-    - `hairy root` 毛状根，发根 
-    - `hairy crab` 大闸蟹，毛蟹 
-    - `hairy cell leukemia` 毛细胞白血病 
+    - `hairy root`
+      - 毛状根，发根 
+    - `hairy crab`
+      - 大闸蟹，毛蟹 
+    - `hairy cell leukemia`
+      - 毛细胞白血病 
   - 例句
     - `a skinny guy with hairy legs`
       - 一个腿上多毛的干瘦男人

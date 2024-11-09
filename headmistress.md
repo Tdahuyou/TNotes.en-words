@@ -1,17 +1,22 @@
 - headmistress
   - 发音
-    - 英 `/ˌhɛdˈmistrəs/`
-    - 美 `/ˌhɛdˈmistrəs/`
+    - 英
+      - `/ˌhɛdˈmistrəs/`
+    - 美
+      - `/ˌhɛdˈmistrəs/`
   - 词义
-    - n. 女校长
-    - `a female teacher who is in charge of a school`
+    - n.
+      - 女校长
+        - `a female teacher who is in charge of a school`
   - 同根词
     - n.
-      - `headmaster` 校长
+      - `headmaster`
+        - 校长
   - 近义词
-    - n. 女校长
-      - `schoolmistress`
-      - `presidentess`
+    - n.
+      - 女校长
+        - `schoolmistress`
+        - `presidentess`
   - 例句
     - `"We've got life-size cutouts of William and Kate, " boasts one headmistress, claiming: "The children are really excited."`
       - “我们制作了真人大小的威廉和凯特的人像，”一名女校长沾沾自喜地炫耀着：“孩子们可兴奋了。”

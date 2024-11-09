@@ -1,20 +1,27 @@
 - Paleolithic
   - 发音
-    - 英 `/ˌpæliə'lɪθɪk/`
-    - 美 `/,pelɪo'lɪθɪk/`
+    - 英
+      - `/ˌpæliə'lɪθɪk/`
+    - 美
+      - `/,pelɪo'lɪθɪk/`
   - 词义
-    - adj. 旧石器时代的
-    - n. 旧石器时代
+    - adj.
+      - 旧石器时代的
+    - n.
+      - 旧石器时代
   - 记忆
     - paleo(旧的) + lith(石头) + ic → 旧石器的 → 旧石器时代的
   - 同根词
     - n.
-      - `paleolith` 旧石器
+      - `paleolith`
+        - 旧石器
   - 近义词
-    - adj. 旧石器时代的
-      - `palaeolithic`
+    - adj.
+      - 旧石器时代的
+        - `palaeolithic`
   - 短语
-    - `paleolithic age` 旧石器时代；旧石票代 
+    - `paleolithic age`
+      - 旧石器时代；旧石票代 
   - 例句
     - `Paleolithic man could only make the most basic stone tools.`
       - 旧石器时代的人类只能制造最简单的石器。

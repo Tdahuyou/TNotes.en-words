@@ -1,14 +1,18 @@
 - earphone
   - 发音
-    - 英 `/'ɪəfəʊn/`
-    - 美 `/'ɪr,fon/`
+    - 英
+      - `/'ɪəfəʊn/`
+    - 美
+      - `/'ɪr,fon/`
   - 词义
-    - n. 耳机
-    - `a small piece of equipment connected by a wire to a radio, personal stereo etc, which you put in or over your ears so that only you can listen to it`
+    - n.
+      - 耳机
+        - `a small piece of equipment connected by a wire to a radio, personal stereo etc, which you put in or over your ears so that only you can listen to it`
   - 近义词
-    - n. [电讯]耳机；听筒
-      - `phone`
-      - `headset`
+    - n.
+      - [电讯]耳机；听筒
+        - `phone`
+        - `headset`
   - 例句
     - `The reason for this is that the useful earphone control button / mic requires special jack.`
       - 这么设计的原因是耳机的控制按钮（同时也是麦克风）需要特殊插孔。

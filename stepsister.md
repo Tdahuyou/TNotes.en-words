@@ -1,13 +1,17 @@
 - stepsister
   - 发音
-    - 英 `/'stepsɪstə/`
-    - 美 `/'stɛpsɪstɚ/`
+    - 英
+      - `/'stepsɪstə/`
+    - 美
+      - `/'stɛpsɪstɚ/`
   - 词义
-    - n. 继姐（妹）
-    - `the daughter of your stepmother or stepfather`
+    - n.
+      - 继姐（妹）
+        - `the daughter of your stepmother or stepfather`
   - 同根词
     - n.
-      - `stepbrother` 同父异母的兄弟；同母异父的兄弟
+      - `stepbrother`
+        - 同父异母的兄弟；同母异父的兄弟
   - 例句
     - `Yes. She is a friend of my stepsister. I know where she lives.`
       - 真的。她是我同母异父（同父异母）姐姐的朋友。我还知道她住在哪里呢。

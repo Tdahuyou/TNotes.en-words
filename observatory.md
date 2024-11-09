@@ -1,20 +1,27 @@
 - observatory
   - 发音
-    - 英 `/əb'zɜːrvətɔːri/`
-    - 美 `/əb'zɝvətɔri/`
+    - 英
+      - `/əb'zɜːrvətɔːri/`
+    - 美
+      - `/əb'zɝvətɔri/`
   - 词义
-    - n. 天文台，天文观测站
-    - `a special building from which scientists watch the moon, stars, weather etc`
+    - n.
+      - 天文台，天文观测站
+        - `a special building from which scientists watch the moon, stars, weather etc`
   - 记忆
     - observ(e)(观察) + at + ory(表地点， 名词后缀) → 天文台， 天文观测站
   - 近义词
-    - n. 天文台；[气象][天]气象台；瞭望台
-      - `meteorological station`
-      - `belvedere`
+    - n.
+      - 天文台；[气象][天]气象台；瞭望台
+        - `meteorological station`
+        - `belvedere`
   - 短语
-    - `astronomical observatory` 天文台 
-    - `meteorological observatory` 气象台；气象观测所 
-    - `national radio astronomy observatory` 国立射电天文台 
+    - `astronomical observatory`
+      - 天文台 
+    - `meteorological observatory`
+      - 气象台；气象观测所 
+    - `national radio astronomy observatory`
+      - 国立射电天文台 
   - 例句
     - `They visited the observatory yesterday.`
       - 他们昨天参观了天文台。

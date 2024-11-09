@@ -1,46 +1,74 @@
 - allocation
   - 发音
-    - 英 `/ælə'keɪʃ(ə)n/`
-    - 美 `/,ælə'keʃən/`
+    - 英
+      - `/ælə'keɪʃ(ə)n/`
+    - 美
+      - `/,ælə'keʃən/`
   - 词义
-    - n. 分配,安置
-    - `the decision to allocate something, or the act of allocating it`
+    - n.
+      - 分配,安置
+        - `the decision to allocate something, or the act of allocating it`
   - 同根词
     - adj.
-      - `allocable` 可拨出的；可分配的
+      - `allocable`
+        - 可拨出的；可分配的
     - n.
-      - `allocator` 分配算符
+      - `allocator`
+        - 分配算符
     - vi.
-      - `allocate` 分配；指定
+      - `allocate`
+        - 分配；指定
     - vt.
-      - `allocate` 分配；拨出；使坐落于
+      - `allocate`
+        - 分配；拨出；使坐落于
   - 近义词
-    - n. 分配，配置；安置
-      - `distribution`
-      - `configuration`
-      - `assignment`
-      - `positioning`
+    - n.
+      - 分配，配置；安置
+        - `distribution`
+        - `configuration`
+        - `assignment`
+        - `positioning`
   - 短语
-    - `resource allocation` 资源分配 
-    - `allocation of resources` 资源配置；资源分配 
-    - `resources allocation` 资源分配 
-    - `optimal allocation` 最优配置 
-    - `allocation problem` 配置问题，分配问题 
-    - `memory allocation` 内存分配；存储器分配 
-    - `capital allocation` 资本分派；资金划拨 
-    - `cost allocation` 成本分配；成本分摊 
-    - `allocation scheme` 分配方式 
-    - `allocation of funds` 资金分配 
-    - `channel allocation` 信道分配，波道分配 
-    - `dynamic allocation` 动态分配；动态配置 
-    - `reliability allocation` 可靠性分配 
-    - `efficient allocation of resources` 资源有效配置 
-    - `optimize resource allocation` 优化资源配置 
-    - `budget allocation` 经费分配；预算分配；预算拨款 
-    - `storage allocation` 存储分配；分配内存；库容分配 
-    - `personnel allocation` 定编；人员配备 
-    - `best allocation` n. 最佳配置 
-    - `optimize allocation of resources` 优化资源配置 
+    - `resource allocation`
+      - 资源分配 
+    - `allocation of resources`
+      - 资源配置；资源分配 
+    - `resources allocation`
+      - 资源分配 
+    - `optimal allocation`
+      - 最优配置 
+    - `allocation problem`
+      - 配置问题，分配问题 
+    - `memory allocation`
+      - 内存分配；存储器分配 
+    - `capital allocation`
+      - 资本分派；资金划拨 
+    - `cost allocation`
+      - 成本分配；成本分摊 
+    - `allocation scheme`
+      - 分配方式 
+    - `allocation of funds`
+      - 资金分配 
+    - `channel allocation`
+      - 信道分配，波道分配 
+    - `dynamic allocation`
+      - 动态分配；动态配置 
+    - `reliability allocation`
+      - 可靠性分配 
+    - `efficient allocation of resources`
+      - 资源有效配置 
+    - `optimize resource allocation`
+      - 优化资源配置 
+    - `budget allocation`
+      - 经费分配；预算分配；预算拨款 
+    - `storage allocation`
+      - 存储分配；分配内存；库容分配 
+    - `personnel allocation`
+      - 定编；人员配备 
+    - `best allocation`
+      - n. 最佳配置 
+    - `optimize allocation of resources`
+      - 优化资源配置 
   - 例句
     - `A State Department spokeswoman said that the aid allocation for Pakistan was still under review.`
       - 国务院的一位女发言人说对巴基斯坦的援助配置仍在审核之中。

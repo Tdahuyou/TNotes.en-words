@@ -1,38 +1,56 @@
 - compare
   - 发音
-    - 英 `/kəm'peə/`
-    - 美 `/kəm'pɛr/`
+    - 英
+      - `/kəm'peə/`
+    - 美
+      - `/kəm'pɛr/`
   - 词义
-    - v. 比较
-    - `to consider two or more things or people, in order to show how they are similar or different`
+    - v.
+      - 比较
+        - `to consider two or more things or people, in order to show how they are similar or different`
   - 记忆
     - com(共同) + par(相等) + e → 放在一起看看是否相等 → 比较， 相比， 对比
   - 同根词
     - adj.
-      - `comparative` 比较的；相当的
-      - `comparable` 可比较的；比得上的
+      - `comparative`
+        - 比较的；相当的
+      - `comparable`
+        - 可比较的；比得上的
     - adv.
-      - `comparatively` 比较地；相当地
-      - `comparably` 同等地；可比较地
+      - `comparatively`
+        - 比较地；相当地
+      - `comparably`
+        - 同等地；可比较地
     - n.
-      - `comparative` 比较级；对手
-      - `comparing` 比较
-      - `comparability` 相似性；可比较性
+      - `comparative`
+        - 比较级；对手
+      - `comparing`
+        - 比较
+      - `comparability`
+        - 相似性；可比较性
     - v.
-      - `comparing` 比较；对照（compare的ing形式）
+      - `comparing`
+        - 比较；对照（compare的ing形式）
   - 近义词
-    - vt. 比较；对照；比喻为
-      - `contradistinguish`
-      - `be confronted with`
-    - vi. 比较；相比
-      - `match`
-    - n. 比较
-      - `parabole`
+    - vt.
+      - 比较；对照；比喻为
+        - `contradistinguish`
+        - `be confronted with`
+    - vi.
+      - 比较；相比
+        - `match`
+    - n.
+      - 比较
+        - `parabole`
   - 短语
-    - `compare with` 与…相比较 
-    - `compare notes` 交换意见 
-    - `compare favourably with` 比…毫不逊色，比得上 
-    - `beyond compare` adv. 非常好；无以伦比 
+    - `compare with`
+      - 与…相比较 
+    - `compare notes`
+      - 交换意见 
+    - `compare favourably with`
+      - 比…毫不逊色，比得上 
+    - `beyond compare`
+      - adv. 非常好；无以伦比 
   - 例句
     - `The report compares the different types of home computer available.`
       - 这份报告比较了市场上不同类型的家用计算机。

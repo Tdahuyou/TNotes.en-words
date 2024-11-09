@@ -1,10 +1,13 @@
 - quadrangle
   - 发音
-    - 英 `/'kwɒdræŋg(ə)l/`
-    - 美 `/'kwɑdræŋgl/`
+    - 英
+      - `/'kwɒdræŋg(ə)l/`
+    - 美
+      - `/'kwɑdræŋgl/`
   - 词义
-    - n. 四边形；方院
-    - `a square open area with buildings all around it, especially at a school or college`
+    - n.
+      - 四边形；方院
+        - `a square open area with buildings all around it, especially at a school or college`
   - 例句
     - `Such quadrangle-shaped logos may fit all kinds of projects: from hotel logos to social initiatives and to real estate agencies.`
       - 这样的四边形logo可适用于各类项目：从旅馆logo到社会创意，再到房地产商。

@@ -1,22 +1,29 @@
 - eradicate
   - 发音
-    - 英 `/ɪ'rædɪkeɪt/`
-    - 美 `/ɪ'rædɪket/`
+    - 英
+      - `/ɪ'rædɪkeɪt/`
+    - 美
+      - `/ɪ'rædɪket/`
   - 词义
-    - vt. 根除，灭绝
-    - `to completely get rid of something such as a disease or a social problem`
+    - vt.
+      - 根除，灭绝
+        - `to completely get rid of something such as a disease or a social problem`
   - 记忆
     - e(出) + radic(根) + ate(使…) → 使连根拔出 → 根除
   - 同根词
     - adj.
-      - `eradicable` 可根除的
+      - `eradicable`
+        - 可根除的
     - n.
-      - `eradication` 消灭，扑灭；根除
-      - `eradicator` 根除者；根除器；去污剂；墨水擦
+      - `eradication`
+        - 消灭，扑灭；根除
+      - `eradicator`
+        - 根除者；根除器；去污剂；墨水擦
   - 近义词
-    - vt. 根除，根绝；消灭
-      - `destroy`
-      - `root out`
+    - vt.
+      - 根除，根绝；消灭
+        - `destroy`
+        - `root out`
   - 例句
     - `an attempt to eradicate inflation`
       - 为消除通货膨胀所作的努力

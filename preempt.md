@@ -1,18 +1,24 @@
 - preempt
   - 发音
-    - 英 `/pri'empt/`
-    - 美 `/,primpt/`
+    - 英
+      - `/pri'empt/`
+    - 美
+      - `/,primpt/`
   - 词义
-    - v. 预先制止；抢在…之前做或说
-    - `If you preempt an action, you prevent it from happening by doing something that makes it unnecessary or impossible`
+    - v.
+      - 预先制止；抢在…之前做或说
+        - `If you preempt an action, you prevent it from happening by doing something that makes it unnecessary or impossible`
   - 记忆
     - pre (预先) + empt (买) → 预先买 → 预先制止
   - 同根词
     - adj.
-      - `preemptive` 优先购买的；先发制人的；有先买权的
+      - `preemptive`
+        - 优先购买的；先发制人的；有先买权的
     - n.
-      - `preemption` 优先购买；强制收购；抢先占有；取代
-      - `preemptor` 获优先购买权者；先取者；先发制人者
+      - `preemption`
+        - 优先购买；强制收购；抢先占有；取代
+      - `preemptor`
+        - 获优先购买权者；先取者；先发制人者
   - 例句
     - `The law would preempt stronger local rules.`
       - 该法律将预先制止更强硬的地方性法规。

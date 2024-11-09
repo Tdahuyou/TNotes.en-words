@@ -1,27 +1,36 @@
 - precede
   - 发音
-    - 英 `/prɪ'siːd/`
-    - 美 `/prɪ'sid/`
+    - 英
+      - `/prɪ'siːd/`
+    - 美
+      - `/prɪ'sid/`
   - 词义
-    - v. 在…之前，先于
-    - `to happen or exist before something or someone, or to come before something else in a series`
+    - v.
+      - 在…之前，先于
+        - `to happen or exist before something or someone, or to come before something else in a series`
   - 记忆
     - pre(在…前面) + ced(走) + e → 走在前面 → 先于
   - 同根词
     - adj.
-      - `precedent` 在前的；在先的
-      - `preceding` 在前的；前述的
+      - `precedent`
+        - 在前的；在先的
+      - `preceding`
+        - 在前的；前述的
     - n.
-      - `precedent` 先例；前例
+      - `precedent`
+        - 先例；前例
     - v.
-      - `preceding` 在...之前（precede的ing形式）
+      - `preceding`
+        - 在...之前（precede的ing形式）
   - 近义词
-    - vt. 领先，在…之前；优于，高于
-      - `take over the lead`
-      - `keep ahead`
-    - vi. 领先，在前面
-      - `take over the lead`
-      - `keep ahead`
+    - vt.
+      - 领先，在…之前；优于，高于
+        - `take over the lead`
+        - `keep ahead`
+    - vi.
+      - 领先，在前面
+        - `take over the lead`
+        - `keep ahead`
   - 例句
     - `a type of cloud that precedes rain`
       - 下雨前出现的一种云

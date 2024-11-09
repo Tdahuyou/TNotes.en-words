@@ -1,9 +1,12 @@
 - Puno
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 普诺（秘鲁）
+    - n.
+      - 普诺（秘鲁）
   - 例句
     - `But he cleared from any liability his close friend, interior deputy minister Rico Puno, saying he did not violate any law or rule.`
       - 但阿基诺三世免除了其密友、内政部副部长普诺(Rico Puno)的所有责任，称他没有违反任何法律法规。

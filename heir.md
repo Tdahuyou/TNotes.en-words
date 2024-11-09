@@ -1,19 +1,25 @@
 - heir
   - 发音
-    - 英 `/eə/`
-    - 美 `/ɛr/`
+    - 英
+      - `/eə/`
+    - 美
+      - `/ɛr/`
   - 词义
-    - n. [法]继承人；后嗣；嗣子
-    - `the person who has the legal right to receive the property or title of another person when they die`
+    - n.
+      - [法]继承人；后嗣；嗣子
+        - `the person who has the legal right to receive the property or title of another person when they die`
   - 同根词
     - n.
-      - `heiress` 女继承人
+      - `heiress`
+        - 女继承人
   - 近义词
-    - n. [法]继承人；后嗣；嗣子
-      - `heritor`
-      - `haeres`
+    - n.
+      - [法]继承人；后嗣；嗣子
+        - `heritor`
+        - `haeres`
   - 短语
-    - `heir apparent` [律]法定继承人，有确定继承权的人 
+    - `heir apparent`
+      - [律]法定继承人，有确定继承权的人 
   - 例句
     - `Jonson was his political heir as leader of the party.`
       - 琼森是他的政治接班人，他将担任该党派的领袖。

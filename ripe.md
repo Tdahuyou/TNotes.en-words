@@ -1,31 +1,41 @@
 - ripe
   - 发音
-    - 英 `/raɪp/`
-    - 美 `/raɪp/`
+    - 英
+      - `/raɪp/`
+    - 美
+      - `/raɪp/`
   - 词义
-    - adj. 熟的；成熟的
-    - `ripe fruit or crops are fully grown and ready to eat`
+    - adj.
+      - 熟的；成熟的
+        - `ripe fruit or crops are fully grown and ready to eat`
   - 记忆
     - 稻熟(ripe)米(rice)香
   - 同根词
     - adv.
-      - `ripely` 圆通地；成熟地
+      - `ripely`
+        - 圆通地；成熟地
     - n.
-      - `ripeness` 成熟；老练；完成；圆通
+      - `ripeness`
+        - 成熟；老练；完成；圆通
     - vi.
-      - `ripen` 成熟
+      - `ripen`
+        - 成熟
     - vt.
-      - `ripen` 使成熟
+      - `ripen`
+        - 使成熟
   - 近义词
-    - adj. [植][医]熟的，成熟的；时机成熟的
-      - `developed`
-      - `mature`
-      - `adult`
-    - vt. 搜查；调查
-      - `examine`
-      - `survey`
+    - adj.
+      - [植][医]熟的，成熟的；时机成熟的
+        - `developed`
+        - `mature`
+        - `adult`
+    - vt.
+      - 搜查；调查
+        - `examine`
+        - `survey`
   - 短语
-    - `ripe for` 时机成熟；为……做好准备 
+    - `ripe for`
+      - 时机成熟；为……做好准备 
   - 例句
     - `Those tomatoes aren’t ripe yet.`
       - 那些番茄还没熟。

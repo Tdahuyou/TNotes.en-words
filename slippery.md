@@ -1,23 +1,31 @@
 - slippery
   - 发音
-    - 英 `/'slɪp(ə)rɪ/`
-    - 美 `/'slɪpəri/`
+    - 英
+      - `/'slɪp(ə)rɪ/`
+    - 美
+      - `/'slɪpəri/`
   - 词义
-    - adj. 滑的,光滑的
-    - `something that is slippery is difficult to hold, walk on etc because it is wet or  greasy `
+    - adj.
+      - 滑的,光滑的
+        - `something that is slippery is difficult to hold, walk on etc because it is wet or  greasy `
   - 同根词
     - n.
-      - `slipperiness` 滑溜
+      - `slipperiness`
+        - 滑溜
   - 近义词
-    - adj. 滑的；狡猾的；不稳定的
-      - `designing`
-      - `knowing`
-      - `subtle`
-      - `unstable`
+    - adj.
+      - 滑的；狡猾的；不稳定的
+        - `designing`
+        - `knowing`
+        - `subtle`
+        - `unstable`
   - 短语
-    - `slippery slope` n. 灾难性的急剧下滑 
-    - `slippery road` 滑路 
-    - `slippery elm` 榆树 
+    - `slippery slope`
+      - n. 灾难性的急剧下滑 
+    - `slippery road`
+      - 滑路 
+    - `slippery elm`
+      - 榆树 
   - 例句
     - `In places, the path can be wet and slippery.`
       - 路上有些地方可能又湿又滑。

@@ -1,24 +1,36 @@
 - overtime
   - 发音
-    - 英 `/'ouvərtaɪm/`
-    - 美 `/,ovə'taɪm/`
+    - 英
+      - `/'ouvərtaɪm/`
+    - 美
+      - `/,ovə'taɪm/`
   - 词义
-    - adv. 加班
-    - adj. 超时的，加班的
+    - adv.
+      - 加班
+    - adj.
+      - 超时的，加班的
   - 同根词
     - n.
-      - `overtaking` 超车；追越；赶上
+      - `overtaking`
+        - 超车；追越；赶上
     - v.
-      - `overtaking` 超过；压倒（overtake的ing形式）
+      - `overtaking`
+        - 超过；压倒（overtake的ing形式）
   - 近义词
-    - n. [劳经]加班时间；延长时间
-      - `extension of time`
+    - n.
+      - [劳经]加班时间；延长时间
+        - `extension of time`
   - 短语
-    - `work overtime` 加班 
-    - `overtime pay` 加班费 
-    - `overtime work` 加班加点工作，超时工作 
-    - `overtime working` 加班工作 
-    - `overtime payment` 加班工资 
+    - `work overtime`
+      - 加班 
+    - `overtime pay`
+      - 加班费 
+    - `overtime work`
+      - 加班加点工作，超时工作 
+    - `overtime working`
+      - 加班工作 
+    - `overtime payment`
+      - 加班工资 
   - 例句
     - `Half say they get no overtime.`
       - 有一半人说他们没有加班。

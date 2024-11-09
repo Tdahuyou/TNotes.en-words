@@ -1,36 +1,55 @@
 - triangle
   - 发音
-    - 英 `/'traɪæŋgl/`
-    - 美 `/'traɪæŋɡl/`
+    - 英
+      - `/'traɪæŋgl/`
+    - 美
+      - `/'traɪæŋɡl/`
   - 词义
-    - n. 三角形；三角形物体
-    - `a flat shape with three straight sides and three angles`
+    - n.
+      - 三角形；三角形物体
+        - `a flat shape with three straight sides and three angles`
   - 记忆
     - tri(三) + angl(角) + e → 三角形
   - 同根词
     - adj.
-      - `triangulate` 由三角形组成的；有三角斑纹的
+      - `triangulate`
+        - 由三角形组成的；有三角斑纹的
     - n.
-      - `triangulation` [测] 三角测量；三角形划分
-      - `triangularity` 成三角形；三角关系
+      - `triangulation`
+        - [测] 三角测量；三角形划分
+      - `triangularity`
+        - 成三角形；三角关系
     - vt.
-      - `triangulate` 把…分成三角形；使…成三角形；对…作三角测量
+      - `triangulate`
+        - 把…分成三角形；使…成三角形；对…作三角测量
   - 近义词
-    - n. [数][昆][测]三角（形）；三角关系；三角形之物；三人一组
-      - `trigona`
-      - `Misumi`
+    - n.
+      - [数][昆][测]三角（形）；三角关系；三角形之物；三人一组
+        - `trigona`
+        - `Misumi`
   - 短语
-    - `golden triangle` 金三角 
-    - `love triangle` 三角恋爱 
-    - `equilateral triangle` 等边三角形 
-    - `right triangle` 直角三角形 
-    - `isosceles triangle` 等腰三角形 
-    - `regular triangle` 正三角形；等边三角形 
-    - `iron triangle` 铁三角；铁三角架 
-    - `triangle belt` 三角皮带，三角带 
-    - `triangle inequality` 三角形公理；三角不等式 
-    - `triangle trade` 三角贸易 
-    - `right-angled triangle` 直角三角形 
+    - `golden triangle`
+      - 金三角 
+    - `love triangle`
+      - 三角恋爱 
+    - `equilateral triangle`
+      - 等边三角形 
+    - `right triangle`
+      - 直角三角形 
+    - `isosceles triangle`
+      - 等腰三角形 
+    - `regular triangle`
+      - 正三角形；等边三角形 
+    - `iron triangle`
+      - 铁三角；铁三角架 
+    - `triangle belt`
+      - 三角皮带，三角带 
+    - `triangle inequality`
+      - 三角形公理；三角不等式 
+    - `triangle trade`
+      - 三角贸易 
+    - `right-angled triangle`
+      - 直角三角形 
   - 例句
     - `a triangle of land`
       - 一块三角地

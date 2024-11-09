@@ -1,18 +1,25 @@
 - landlady
   - 发音
-    - 英 `/'læn(d)leɪdɪ/`
-    - 美 `/'lændledi/`
+    - 英
+      - `/'læn(d)leɪdɪ/`
+    - 美
+      - `/'lændledi/`
   - 词义
-    - n. 女房东；女地主；女店主
-    - `a woman who rents a room, building, or piece of land to someone`
+    - n.
+      - 女房东；女地主；女店主
+        - `a woman who rents a room, building, or piece of land to someone`
   - 同根词
     - n.
-      - `landlord` 房东，老板；地主
-      - `landowner` 地主，土地所有者
-      - `landholder` 地主；土地拥有者
+      - `landlord`
+        - 房东，老板；地主
+      - `landowner`
+        - 地主，土地所有者
+      - `landholder`
+        - 地主；土地拥有者
   - 近义词
-    - n. 女房东；女地主；女店主
-      - `hostess`
+    - n.
+      - 女房东；女地主；女店主
+        - `hostess`
   - 例句
     - `There was a note under the door from my landlady.`
       - 门下有我女房东的一张便条。

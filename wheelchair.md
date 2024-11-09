@@ -1,10 +1,13 @@
 - wheelchair
   - 发音
-    - 英 `/'wiːltʃeə/`
-    - 美 `/'wiltʃɛr/`
+    - 英
+      - `/'wiːltʃeə/`
+    - 美
+      - `/'wiltʃɛr/`
   - 词义
-    - n. 轮椅
-    - `a chair with wheels, used by people who cannot walk`
+    - n.
+      - 轮椅
+        - `a chair with wheels, used by people who cannot walk`
   - 记忆
     - wheel(车轮) + chair(椅子) → 带轮子的椅子 → 轮椅
   - 例句

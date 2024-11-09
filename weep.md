@@ -1,36 +1,51 @@
 - weep
   - 发音
-    - 英 `/wiːp/`
-    - 美 `/wip/`
+    - 英
+      - `/wiːp/`
+    - 美
+      - `/wip/`
   - 词义
-    - v. (过去式wept,过去分词wept)哭泣；流泪
-    - `to cry, especially because you feel very sad`
-    - n. 哭；哭泣
+    - v.
+      - (过去式wept,过去分词wept)哭泣；流泪
+        - `to cry, especially because you feel very sad`
+    - n.
+      - 哭；哭泣
   - 记忆
     - 受伤很深(deep)， 哭(weep)个不停
   - 同根词
     - adj.
-      - `weeping` 哭泣的，滴水的；垂枝的
-      - `weepy` 眼泪汪汪的；要哭的；催人泪下的
+      - `weeping`
+        - 哭泣的，滴水的；垂枝的
+      - `weepy`
+        - 眼泪汪汪的；要哭的；催人泪下的
     - n.
-      - `weeping` 哭泣
-      - `weepy` 使人哭的小说；伤感的电影
-      - `weeper` 哭泣者
+      - `weeping`
+        - 哭泣
+      - `weepy`
+        - 使人哭的小说；伤感的电影
+      - `weeper`
+        - 哭泣者
     - v.
-      - `weeping` 哭泣；悲痛；哀悼（weep的ing形式）
+      - `weeping`
+        - 哭泣；悲痛；哀悼（weep的ing形式）
   - 近义词
-    - vi. 哭泣；流泪；哀悼；滴落；渗出液体
-      - `water`
-      - `shed tears`
-    - vt. 哭泣；流泪；悲叹；流出或渗出液体
-      - `shed tears`
-      - `pipe one's eye`
-    - n. 哭泣；眼泪；滴下
-      - `tears`
-      - `eyedrop`
+    - vi.
+      - 哭泣；流泪；哀悼；滴落；渗出液体
+        - `water`
+        - `shed tears`
+    - vt.
+      - 哭泣；流泪；悲叹；流出或渗出液体
+        - `shed tears`
+        - `pipe one's eye`
+    - n.
+      - 哭泣；眼泪；滴下
+        - `tears`
+        - `eyedrop`
   - 短语
-    - `weep for` 为…而哭泣 
-    - `weep over` 因…而哭泣；为…流泪 
+    - `weep for`
+      - 为…而哭泣 
+    - `weep over`
+      - 因…而哭泣；为…流泪 
   - 例句
     - `James broke down and wept.`
       - 詹姆斯控制不住感情，哭了起来。

@@ -1,22 +1,28 @@
 - naughty
   - 发音
-    - 英 `/'nɔːtɪ/`
-    - 美 `/'nɔti/`
+    - 英
+      - `/'nɔːtɪ/`
+    - 美
+      - `/'nɔti/`
   - 词义
-    - adj. 顽皮的；淘气的
-    - `a naughty child does not obey adults and behaves badly`
+    - adj.
+      - 顽皮的；淘气的
+        - `a naughty child does not obey adults and behaves badly`
   - 同根词
     - adv.
-      - `naughtily` 顽皮地；无礼地
+      - `naughtily`
+        - 顽皮地；无礼地
     - n.
-      - `naughtiness` 顽皮；淘气；无礼
+      - `naughtiness`
+        - 顽皮；淘气；无礼
   - 近义词
-    - adj. 顽皮的，淘气的；不听话的；没规矩的；不适当的；下流的
-      - `blue`
-      - `dirty`
-      - `unhappy`
-      - `inadequate`
-      - `wrong`
+    - adj.
+      - 顽皮的，淘气的；不听话的；没规矩的；不适当的；下流的
+        - `blue`
+        - `dirty`
+        - `unhappy`
+        - `inadequate`
+        - `wrong`
   - 例句
     - `You’re a very naughty boy! Look what you’ve done!`
       - 你真是个淘气鬼！瞧你干了些什么！

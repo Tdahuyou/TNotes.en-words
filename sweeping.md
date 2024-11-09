@@ -1,49 +1,73 @@
 - sweeping
   - 发音
-    - 英 `/'swiːpɪŋ/`
-    - 美 `/'swipɪŋ/`
+    - 英
+      - `/'swiːpɪŋ/`
+    - 美
+      - `/'swipɪŋ/`
   - 词义
-    - adj. 彻底的，广泛的；〈贬〉笼统的，一概而论的
-    - `affecting many things, or making an important difference to something`
-    - n. 清扫，扫除；垃圾
+    - adj.
+      - 彻底的，广泛的；〈贬〉笼统的，一概而论的
+        - `affecting many things, or making an important difference to something`
+    - n.
+      - 清扫，扫除；垃圾
   - 同根词
     - adj.
-      - `swept` 扫频的
+      - `swept`
+        - 扫频的
     - adv.
-      - `sweepingly` 扫荡地；彻底地
+      - `sweepingly`
+        - 扫荡地；彻底地
     - n.
-      - `sweep` 打扫，扫除；范围；全胜
-      - `sweeper` 清洁工；清扫夫；清扫器
+      - `sweep`
+        - 打扫，扫除；范围；全胜
+      - `sweeper`
+        - 清洁工；清扫夫；清扫器
     - v.
-      - `swept` 扫除（sweep的过去式和过去分词）
+      - `swept`
+        - 扫除（sweep的过去式和过去分词）
     - vi.
-      - `sweep` 扫，打扫；席卷；扫视；袭击
+      - `sweep`
+        - 扫，打扫；席卷；扫视；袭击
     - vt.
-      - `sweep` 扫除；猛拉；掸去
+      - `sweep`
+        - 扫除；猛拉；掸去
   - 近义词
-    - n. 扫除；垃圾
-      - `refuse`
-      - `garbage`
-      - `junk`
-    - adj. 彻底的；广泛的；扫荡的
-      - `thorough`
-      - `extensive`
-      - `widespread`
-      - `complete`
-      - `radical`
-    - v. 打扫；扫除（sweep的现在分词形式）
-      - `scavenging`
+    - n.
+      - 扫除；垃圾
+        - `refuse`
+        - `garbage`
+        - `junk`
+    - adj.
+      - 彻底的；广泛的；扫荡的
+        - `thorough`
+        - `extensive`
+        - `widespread`
+        - `complete`
+        - `radical`
+    - v.
+      - 打扫；扫除（sweep的现在分词形式）
+        - `scavenging`
   - 短语
-    - `sweep the floor` 扫地；清洁地面；清扫地板，拖地板 
-    - `sweep away` 清除；一扫而空 
-    - `sweep efficiency` 波及系数 
-    - `clean sweep` 全胜；快速整理 
-    - `frequency sweep` [计]频率扫描 
-    - `sweep up` 大扫除；收拾干净 
-    - `sweep out` 清除；扫除 
-    - `sweep angle` 掠角；扫描角 
-    - `sweep down` 突袭 
-    - `sweep rate` 扫描频率；扫描速度 
+    - `sweep the floor`
+      - 扫地；清洁地面；清扫地板，拖地板 
+    - `sweep away`
+      - 清除；一扫而空 
+    - `sweep efficiency`
+      - 波及系数 
+    - `clean sweep`
+      - 全胜；快速整理 
+    - `frequency sweep`
+      - [计]频率扫描 
+    - `sweep up`
+      - 大扫除；收拾干净 
+    - `sweep out`
+      - 清除；扫除 
+    - `sweep angle`
+      - 掠角；扫描角 
+    - `sweep down`
+      - 突袭 
+    - `sweep rate`
+      - 扫描频率；扫描速度 
   - 例句
     - `sweeping generalizations about women drivers`
       - 对女性司机一概而论的看法

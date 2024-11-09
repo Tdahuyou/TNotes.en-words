@@ -1,14 +1,18 @@
 - baboon
   - 发音
-    - 英 `/bə'buːn/`
-    - 美 `/bæ'buːn/`
+    - 英
+      - `/bə'buːn/`
+    - 美
+      - `/bæ'buːn/`
   - 词义
-    - n. [动]狒狒
-    - `a large monkey that lives in Africa and South Asia`
+    - n.
+      - [动]狒狒
+        - `a large monkey that lives in Africa and South Asia`
   - 近义词
-    - n. [脊椎]狒狒
-      - `gelada`
-      - `hamadryas`
+    - n.
+      - [脊椎]狒狒
+        - `gelada`
+        - `hamadryas`
   - 例句
     - `With the baboon you first reward a hop, then a bigger hop, then an even bigger hop.`
       - 对狒狒，你先奖励它的小进步，然后是大一点的进步，接着是更大的进步。

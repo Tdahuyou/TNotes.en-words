@@ -1,14 +1,18 @@
 - thunderstorm
   - 发音
-    - 英 `/'θʌndəstɔːm/`
-    - 美 `/'θʌndɚstɔrm/`
+    - 英
+      - `/'θʌndəstɔːm/`
+    - 美
+      - `/'θʌndɚstɔrm/`
   - 词义
-    - n. 雷暴雨
-    - `a storm with thunder and lightning`
+    - n.
+      - 雷暴雨
+        - `a storm with thunder and lightning`
   - 近义词
-    - n. [气象]雷暴；雷暴雨；大雷雨
-      - `electrical storm`
-      - `tornado`
+    - n.
+      - [气象]雷暴；雷暴雨；大雷雨
+        - `electrical storm`
+        - `tornado`
   - 例句
     - `We enjoyed the picnic until a thunderstorm intervened.`
       - 一场暴风雨影响了我们野餐时的兴致。

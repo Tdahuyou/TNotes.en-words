@@ -1,9 +1,12 @@
 - Cuzco
   - 发音
-    - 英 `/'ku:skəu/`
-    - 美 `/'ku:skəu/`
+    - 英
+      - `/'ku:skəu/`
+    - 美
+      - `/'ku:skəu/`
   - 词义
-    - n. 库斯科（秘鲁南部城市）
+    - n.
+      - 库斯科（秘鲁南部城市）
   - 例句
     - `In total, slides have killed five people in the Cuzco region.`
       - 在库斯科地区泥石流总共已使5人丧生。

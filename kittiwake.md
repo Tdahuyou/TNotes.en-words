@@ -1,11 +1,15 @@
 - kittiwake
   - 发音
-    - 英 `/'kɪtɪweɪk/`
-    - 美 `/'kitiweik/`
+    - 英
+      - `/'kɪtɪweɪk/`
+    - 美
+      - `/'kitiweik/`
   - 词义
-    - n. 三趾鸥
-    - `either of two oceanic gulls of the genus Rissa, esp R`
+    - n.
+      - 三趾鸥
+        - `either of two oceanic gulls of the genus Rissa, esp R`
   - 近义词
-    - n. 三趾鸥；海鸥（产于北冰洋和北大西洋）
-      - `sea mew`
-      - `sea-gull`
+    - n.
+      - 三趾鸥；海鸥（产于北冰洋和北大西洋）
+        - `sea mew`
+        - `sea-gull`

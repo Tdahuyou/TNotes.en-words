@@ -1,16 +1,20 @@
 - pabulum
   - 发音
-    - 英 `/'pæbjʊləm/`
-    - 美 `/'pæbjələm/`
+    - 英
+      - `/'pæbjʊləm/`
+    - 美
+      - `/'pæbjələm/`
   - 词义
-    - n. 食物,营养,精神食粮
-    - `food `
+    - n.
+      - 食物,营养,精神食粮
+        - `food `
   - 近义词
-    - n. [食品]食物，营养；精神食粮
-      - `nutrition`
-      - `diet`
-      - `eating`
-      - `nourishment`
+    - n.
+      - [食品]食物，营养；精神食粮
+        - `nutrition`
+        - `diet`
+        - `eating`
+        - `nourishment`
   - 例句
     - `In the long history of inspirational pabulum, "follow your passion" has got to be the worst.`
       - 在精神粮食的悠久历史中，“追随你的激情”肯定要算是最糟糕的一句话。

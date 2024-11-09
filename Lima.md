@@ -1,9 +1,12 @@
 - Lima
   - 发音
-    - 英 `/'li:mə/`
-    - 美 `/'limə/`
+    - 英
+      - `/'li:mə/`
+    - 美
+      - `/'limə/`
   - 词义
-    - n. 利马（秘鲁首都）
+    - n.
+      - 利马（秘鲁首都）
   - 例句
     - `In places like Sao Paolo, Mexico City and Lima, the best restaurants are as good as anywhere in the world.`
       - 在圣保罗、墨西哥城和利马，那里最好的餐厅拿到世界上任何地方都是最好的。

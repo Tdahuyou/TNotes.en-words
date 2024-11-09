@@ -1,20 +1,26 @@
 - exemplary
   - 发音
-    - 英 `/ɪg'zempləri/`
-    - 美 `/ɪɡ'zɛmpləri/`
+    - 英
+      - `/ɪg'zempləri/`
+    - 美
+      - `/ɪɡ'zɛmpləri/`
   - 词义
-    - adj. 模范的；典型的
-    - `excellent and providing a good example for people to follow`
+    - adj.
+      - 模范的；典型的
+        - `excellent and providing a good example for people to follow`
   - 记忆
     - ex(外) + empl(拿) + ary → 从外拿(例子)的 → 模范的
   - 同根词
     - n.
-      - `exemplar` 模范，榜样；标本
+      - `exemplar`
+        - 模范，榜样；标本
   - 近义词
-    - adj. 典范的；惩戒性的；可仿效的
-      - `emulable`
+    - adj.
+      - 典范的；惩戒性的；可仿效的
+        - `emulable`
   - 短语
-    - `exemplary damages` [律]惩罚性的损害赔偿 
+    - `exemplary damages`
+      - [律]惩罚性的损害赔偿 
   - 例句
     - `a company with an exemplary record on environmental issues`
       - 在处理环境问题方面可作为楷模的公司

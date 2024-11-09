@@ -1,17 +1,22 @@
 - inoffensive
   - 发音
-    - 英 `/ɪnə'fensɪv/`
-    - 美 `/,ɪnə'fɛnsɪv/`
+    - 英
+      - `/ɪnə'fensɪv/`
+    - 美
+      - `/,ɪnə'fɛnsɪv/`
   - 词义
-    - adj. 不触犯人的,无害的
-    - `unlikely to offend or upset anyone`
+    - adj.
+      - 不触犯人的,无害的
+        - `unlikely to offend or upset anyone`
   - 同根词
     - adv.
-      - `inoffensively` 无害地；不伤害人地
+      - `inoffensively`
+        - 无害地；不伤害人地
   - 近义词
-    - adj. 不触犯人的；无害的；没恶意的
-      - `harmless`
-      - `innocuous`
+    - adj.
+      - 不触犯人的；无害的；没恶意的
+        - `harmless`
+        - `innocuous`
   - 例句
     - `Her husband was a small, inoffensive-looking man.`
       - 她丈夫个子不高，看上去很随和。

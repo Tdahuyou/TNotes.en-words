@@ -1,14 +1,19 @@
 - genotype
   - 发音
-    - 英 `/'dʒenətaɪp; 'dʒiːn-/`
-    - 美 `/'dʒɛno,taɪp/`
+    - 英
+      - `/'dʒenətaɪp; 'dʒiːn-/`
+    - 美
+      - `/'dʒɛno,taɪp/`
   - 词义
-    - n. 基因型
-    - `the  genetic  nature of one type of living thing`
+    - n.
+      - 基因型
+        - `the  genetic  nature of one type of living thing`
   - 同根词
     - adj.
-      - `genotypic` 基因型的
-      - `genotypical` 遗传型的
+      - `genotypic`
+        - 基因型的
+      - `genotypical`
+        - 遗传型的
   - 例句
     - `"It will only be a good idea to know your APOE genotype when there's something we can do about it, " she says.`
       - “只有当我们可以做出改变的时候，知道你的载脂蛋白E基因才 会是一件好事”，她说。

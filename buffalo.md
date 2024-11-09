@@ -1,16 +1,21 @@
 - buffalo
   - 发音
-    - 英 `/'bʌfəlou/`
-    - 美 `/'bʌfəlo/`
+    - 英
+      - `/'bʌfəlou/`
+    - 美
+      - `/'bʌfəlo/`
   - 词义
-    - n. 水牛；野牛
-    - `an African animal similar to a large cow with long curved horns`
+    - n.
+      - 水牛；野牛
+        - `an African animal similar to a large cow with long curved horns`
   - 近义词
-    - n. [畜牧][脊椎]水牛；野牛（产于北美）；水陆两用坦克
-      - `carabao`
-      - `urus`
+    - n.
+      - [畜牧][脊椎]水牛；野牛（产于北美）；水陆两用坦克
+        - `carabao`
+        - `urus`
   - 短语
-    - `water buffalo` 水牛 
+    - `water buffalo`
+      - 水牛 
   - 例句
     - `The hunter trailed the wounded buffalo through the bush.`
       - 猎人在灌木丛中追踪那只受伤的美洲野牛。

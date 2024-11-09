@@ -1,9 +1,12 @@
 - his
   - 发音
-    - 英 `/hɪz/`
-    - 美 `/hɪz/`
+    - 英
+      - `/hɪz/`
+    - 美
+      - `/hɪz/`
   - 词义
-    - pron. 他的
+    - pron.
+      - 他的
   - 例句
     - `That should be his mother.`
       - 那大概是他的母亲。

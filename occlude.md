@@ -1,19 +1,26 @@
 - occlude
   - 发音
-    - 英 `/ə'kluːd/`
-    - 美 `/ə'klud/`
+    - 英
+      - `/ə'kluːd/`
+    - 美
+      - `/ə'klud/`
   - 词义
-    - v. 使闭塞
-    - `to block or stop up (a passage or opening); obstruct `
+    - v.
+      - 使闭塞
+        - `to block or stop up (a passage or opening); obstruct `
   - 记忆
     - oc + clude (关闭) → 关闭通路 → 使闭塞
   - 同根词
     - adj.
-      - `occlusive` 咬合的；闭塞的
+      - `occlusive`
+        - 咬合的；闭塞的
     - n.
-      - `occlusion` 闭塞；吸收；锢囚锋
-      - `occlusive` 闭塞音
+      - `occlusion`
+        - 闭塞；吸收；锢囚锋
+      - `occlusive`
+        - 闭塞音
   - 近义词
-    - vt. 使闭塞；封闭；挡住
-      - `block out`
-      - `seal off`
+    - vt.
+      - 使闭塞；封闭；挡住
+        - `block out`
+        - `seal off`

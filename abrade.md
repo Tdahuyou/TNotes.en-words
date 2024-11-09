@@ -1,26 +1,36 @@
 - abrade
   - 发音
-    - 英 `/ə'breid/`
-    - 美 `/ə'bred/`
+    - 英
+      - `/ə'breid/`
+    - 美
+      - `/ə'bred/`
   - 词义
-    - v. 磨损，摩擦；折磨
-    - `to rub something so hard that the surface becomes damaged`
+    - v.
+      - 磨损，摩擦；折磨
+        - `to rub something so hard that the surface becomes damaged`
   - 记忆
     - ab (分离) + rad (刮擦) + e → 刮擦得已经破了 → 磨损
   - 同根词
     - adj.
-      - `abrasive` 粗糙的；有研磨作用的；伤人感情的
+      - `abrasive`
+        - 粗糙的；有研磨作用的；伤人感情的
     - n.
-      - `abrasion` 磨损；磨耗；擦伤
-      - `abrasive` 研磨料
-      - `abrader` 磨石；研磨器
-      - `abrasiveness` 研磨；磨蚀；[机] 磨损性
+      - `abrasion`
+        - 磨损；磨耗；擦伤
+      - `abrasive`
+        - 研磨料
+      - `abrader`
+        - 磨石；研磨器
+      - `abrasiveness`
+        - 研磨；磨蚀；[机] 磨损性
     - vt.
-      - `abrase` 磨损；擦伤（等于abrade）
+      - `abrase`
+        - 磨损；擦伤（等于abrade）
   - 近义词
-    - vt. 擦伤；磨损
-      - `raw`
-      - `brush burn`
+    - vt.
+      - 擦伤；磨损
+        - `raw`
+        - `brush burn`
   - 例句
     - `My skin was abraded and very tender.`
       - 我的皮肤被擦伤了，非常敏感。

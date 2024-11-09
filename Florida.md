@@ -1,11 +1,15 @@
 - Florida
   - 发音
-    - 英 `/'flɔridə/`
-    - 美 `/undefined/`
+    - 英
+      - `/'flɔridə/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 佛罗里达(美国州名)
+    - n.
+      - 佛罗里达(美国州名)
   - 短语
-    - `florida keys` 佛罗里达群岛（美国佛罗里达半岛南端的岛群） 
+    - `florida keys`
+      - 佛罗里达群岛（美国佛罗里达半岛南端的岛群） 
   - 例句
     - `Well, Florida, we are here to say, not this time.`
       - 那么，佛罗里达，我们在这里说，这次不能如此。

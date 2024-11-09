@@ -1,11 +1,15 @@
 - Qomolangma
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 珠穆朗玛峰
+    - n.
+      - 珠穆朗玛峰
   - 短语
-    - `mount qomolangma` 珠穆朗玛峰 
+    - `mount qomolangma`
+      - 珠穆朗玛峰 
   - 例句
     - `The flag of China was raised on the summit of Mount Qomolangma.`
       - 五星红旗插上了珠穆朗玛峰的顶峰。

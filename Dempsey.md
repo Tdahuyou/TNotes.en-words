@@ -1,7 +1,9 @@
 - Dempsey
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
   - 例句
     - `Prior to the start of the fight, promoter Tex Rickard visits Dempsey and his manager in his dressing room.`

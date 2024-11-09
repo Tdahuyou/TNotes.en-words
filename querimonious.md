@@ -1,9 +1,13 @@
 - querimonious
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - adj. 易发牢骚的
+    - adj.
+      - 易发牢骚的
   - 同根词
     - n.
-      - `querimony` 埋怨；怨言
+      - `querimony`
+        - 埋怨；怨言

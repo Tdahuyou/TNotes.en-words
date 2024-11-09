@@ -1,19 +1,26 @@
 - woodworker
   - 发音
-    - 英 `/'wʊd,wɜːkə/`
-    - 美 `/'wud,wə:kə/`
+    - 英
+      - `/'wʊd,wɜːkə/`
+    - 美
+      - `/'wud,wə:kə/`
   - 词义
-    - n. 木工
-    - `a person who works in wood, such as a carpenter, joiner, or cabinet-maker `
+    - n.
+      - 木工
+        - `a person who works in wood, such as a carpenter, joiner, or cabinet-maker `
   - 同根词
     - adj.
-      - `woodworking` 干木工活的
+      - `woodworking`
+        - 干木工活的
     - n.
-      - `woodwork` 木制品；木工活
-      - `woodworking` 木工；[木] 木工活
+      - `woodwork`
+        - 木制品；木工活
+      - `woodworking`
+        - 木工；[木] 木工活
   - 近义词
-    - n. [木]木工；木工艺家
-      - `carperter`
+    - n.
+      - [木]木工；木工艺家
+        - `carperter`
   - 例句
     - `Recalling the talented woodworker, the finest tools are useless without the creative application of a trained and talented artisan.`
       - 回到前面的木工身上，如果没有天赋和相关的培训，最好的工具也没有用处。

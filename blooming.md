@@ -1,27 +1,37 @@
 - blooming
   - 发音
-    - 英 `/'bluːmɪŋ/`
-    - 美 `/'blumɪŋ/`
+    - 英
+      - `/'bluːmɪŋ/`
+    - 美
+      - `/'blumɪŋ/`
   - 词义
-    - adj. 开着花的；旺盛的
-    - `used for emphasizing a remark, especially when you are angry or surprised`
+    - adj.
+      - 开着花的；旺盛的
+        - `used for emphasizing a remark, especially when you are angry or surprised`
   - 记忆
     - 来自bloom(v. 花； 开花)
   - 同根词
     - n.
-      - `bloom` 花；青春；旺盛
-      - `bloomer` [机] 初轧机；从前女用灯笼裤；纰漏；开花植物
+      - `bloom`
+        - 花；青春；旺盛
+      - `bloomer`
+        - [机] 初轧机；从前女用灯笼裤；纰漏；开花植物
     - vi.
-      - `bloom` 开花；茂盛
+      - `bloom`
+        - 开花；茂盛
     - vt.
-      - `bloom` 使开花；使茂盛
+      - `bloom`
+        - 使开花；使茂盛
   - 近义词
-    - adj. 盛开的；妙龄的
-      - `blown`
-      - `full-blown`
+    - adj.
+      - 盛开的；妙龄的
+        - `blown`
+        - `full-blown`
   - 短语
-    - `blooming mill` n. 初轧机 
-    - `thermal blooming` 热晕 
+    - `blooming mill`
+      - n. 初轧机 
+    - `thermal blooming`
+      - 热晕 
   - 例句
     - `It’s blooming ridiculous!`
       - 这真是太荒唐了！

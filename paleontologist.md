@@ -1,18 +1,27 @@
 - paleontologist
   - 发音
-    - 英 `/,peiliɔn'tɔlədʒist/`
-    - 美 `/,pelɪɑn'tɑlədʒɪst/`
+    - 英
+      - `/,peiliɔn'tɔlədʒist/`
+    - 美
+      - `/,pelɪɑn'tɑlədʒɪst/`
   - 词义
-    - n. 古生物学者
+    - n.
+      - 古生物学者
   - 同根词
     - adj.
-      - `paleontological` 古生物学的
+      - `paleontological`
+        - 古生物学的
     - n.
-      - `paleontology` 古生物学
-      - `paleobiology` 古生物学
-      - `paleobotany` [古植] 古植物学
-      - `paleopathology` 古生物病理学；古病理学
-      - `paleozoology` 古动物学
+      - `paleontology`
+        - 古生物学
+      - `paleobiology`
+        - 古生物学
+      - `paleobotany`
+        - [古植] 古植物学
+      - `paleopathology`
+        - 古生物病理学；古病理学
+      - `paleozoology`
+        - 古动物学
   - 例句
     - `As a result, the research has the potential to change the way a paleontologist views a fossil.`
       - 现在，研究者们已经拥有了改变一个古生物学家观察化石方式的潜力。

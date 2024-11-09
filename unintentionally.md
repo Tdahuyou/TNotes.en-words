@@ -1,12 +1,17 @@
 - unintentionally
   - 发音
-    - 英 `/ʌnɪnˈtɛnʃ(ə)n(ə)li/`
-    - 美 `/ˌʌnɪn'tenʃənəli/`
+    - 英
+      - `/ʌnɪnˈtɛnʃ(ə)n(ə)li/`
+    - 美
+      - `/ˌʌnɪn'tenʃənəli/`
   - 词义
-    - adv. 无意地,非故意地
+    - adv.
+      - 无意地,非故意地
   - 同根词
     - adj.
-      - `unintentional` 非故意的；无意识的
+      - `unintentional`
+        - 非故意的；无意识的
   - 近义词
-    - adv. 无意地；非故意地；非存心地
-      - `inadvertently`
+    - adv.
+      - 无意地；非故意地；非存心地
+        - `inadvertently`

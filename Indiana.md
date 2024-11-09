@@ -1,11 +1,15 @@
 - Indiana
   - 发音
-    - 英 `/,indi'ænə/`
-    - 美 `/,indi'ænə/`
+    - 英
+      - `/,indi'ænə/`
+    - 美
+      - `/,indi'ænə/`
   - 词义
-    - n. 印地安那州
+    - n.
+      - 印地安那州
   - 短语
-    - `indiana university` 印第安纳大学 
+    - `indiana university`
+      - 印第安纳大学 
   - 例句
     - `I own a coffee shop in Southern Indiana. I have a room in the back where I spend most of the week.`
       - 我在南印第安纳州开了间咖啡屋，咖啡屋后面还有间屋子，我就在那度过一周的大部分时间。

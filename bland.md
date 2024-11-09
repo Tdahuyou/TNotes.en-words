@@ -1,24 +1,30 @@
 - bland
   - 发音
-    - 英 `/blænd/`
-    - 美 `/blænd/`
+    - 英
+      - `/blænd/`
+    - 美
+      - `/blænd/`
   - 词义
-    - adj. 平淡的，乏味的；清淡的；沉稳的
-    - `without any excitement, strong opinions, or special character`
+    - adj.
+      - 平淡的，乏味的；清淡的；沉稳的
+        - `without any excitement, strong opinions, or special character`
   - 记忆
     - “布蓝的” → 布是清淡的蓝色 → 清淡的； 注意不要和blend(n./v. 混合)相混
   - 同根词
     - adv.
-      - `blandly` 温和地；殷勤地；温柔地
+      - `blandly`
+        - 温和地；殷勤地；温柔地
     - n.
-      - `blandness` 爽快；温柔
+      - `blandness`
+        - 爽快；温柔
   - 近义词
-    - adj. [食品]乏味的；温和的；冷漠的
-      - `pacific`
-      - `distant`
-      - `soft`
-      - `moderate`
-      - `gentle`
+    - adj.
+      - [食品]乏味的；温和的；冷漠的
+        - `pacific`
+        - `distant`
+        - `soft`
+        - `moderate`
+        - `gentle`
   - 例句
     - `a few bland comments`
       - 不痛不痒的几句评语

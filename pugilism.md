@@ -1,19 +1,25 @@
 - pugilism
   - 发音
-    - 英 `/'pjuːdʒɪlɪz(ə)m/`
-    - 美 `/undefined/`
+    - 英
+      - `/'pjuːdʒɪlɪz(ə)m/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 拳击
-    - `the art, practice, or profession of fighting with the fists; boxing `
+    - n.
+      - 拳击
+        - `the art, practice, or profession of fighting with the fists; boxing `
   - 同根词
     - adj.
-      - `pugilistic` 拳击的；拳击家的
+      - `pugilistic`
+        - 拳击的；拳击家的
     - n.
-      - `pugilist` 拳击手
+      - `pugilist`
+        - 拳击手
   - 近义词
-    - n. 拳击
-      - `boxing`
-      - `fisticuff`
+    - n.
+      - 拳击
+        - `boxing`
+        - `fisticuff`
   - 例句
     - `"Put down pugilism - if I have to wear it night and day, " said the Moral Sentiment of the Community, sternly.`
       - “如果我要日夜带着它的话，我要镇压拳击运动。” 德先生坚决的说。

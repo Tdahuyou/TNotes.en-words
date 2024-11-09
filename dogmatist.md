@@ -1,20 +1,29 @@
 - dogmatist
   - 发音
-    - 英 `/'dɔgmətist/`
-    - 美 `/undefined/`
+    - 英
+      - `/'dɔgmətist/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 武断论者；教条主义者
+    - n.
+      - 武断论者；教条主义者
   - 同根词
     - adj.
-      - `dogmatic` 教条的；武断的
+      - `dogmatic`
+        - 教条的；武断的
     - adv.
-      - `dogmatically` 武断地；教条主义地
+      - `dogmatically`
+        - 武断地；教条主义地
     - n.
-      - `dogmatism` 教条主义；独断，武断
+      - `dogmatism`
+        - 教条主义；独断，武断
     - vi.
-      - `dogmatize` 武断；武断地提出
+      - `dogmatize`
+        - 武断；武断地提出
     - vt.
-      - `dogmatize` 把…作为教条阐述；武断地提出
+      - `dogmatize`
+        - 把…作为教条阐述；武断地提出
   - 近义词
-    - n. 教条主义者；独断家；独断论者
-      - `doctrinaire`
+    - n.
+      - 教条主义者；独断家；独断论者
+        - `doctrinaire`

@@ -1,9 +1,12 @@
 - understory
   - 发音
-    - 英 `/'ʌndə,stɔ:ri/`
-    - 美 `/'ʌndɚ,stɔri; 'ʌndɚ,stori/`
+    - 英
+      - `/'ʌndə,stɔ:ri/`
+    - 美
+      - `/'ʌndɚ,stɔri; 'ʌndɚ,stori/`
   - 词义
-    - n. 林下叶层
+    - n.
+      - 林下叶层
   - 例句
     - `Wild sarsaparilla, wild oats, Solomon's seal and a host of understory plants die off;`
       - 野生撒尔沙、野生燕麦、玉竹和大量的林下叶层植物相继死光；

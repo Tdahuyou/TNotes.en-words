@@ -1,22 +1,28 @@
 - natty
   - 发音
-    - 英 `/'næti/`
-    - 美 `/'næti/`
+    - 英
+      - `/'næti/`
+    - 美
+      - `/'næti/`
   - 词义
-    - adj. 整洁的；敏捷的，灵巧的
-    - `neat and fashionable in appearance`
+    - adj.
+      - 整洁的；敏捷的，灵巧的
+        - `neat and fashionable in appearance`
   - 同根词
     - adv.
-      - `nattily` 整洁地；帅地；灵巧地
+      - `nattily`
+        - 整洁地；帅地；灵巧地
     - n.
-      - `nattiness` 整洁；帅
+      - `nattiness`
+        - 整洁；帅
   - 近义词
-    - adj. 整洁的；敏捷的；考虑周到的；清楚的
-      - `distinct`
-      - `clear`
-      - `sharp`
-      - `fly`
-      - `quick`
+    - adj.
+      - 整洁的；敏捷的；考虑周到的；清楚的
+        - `distinct`
+        - `clear`
+        - `sharp`
+        - `fly`
+        - `quick`
   - 例句
     - `a natty suit`
       - 笔挺时髦的套装

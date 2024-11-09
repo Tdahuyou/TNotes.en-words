@@ -1,32 +1,41 @@
 - arrange
   - 发音
-    - 英 `/ə'reɪndʒ/`
-    - 美 `/ə'rendʒ/`
+    - 英
+      - `/ə'reɪndʒ/`
+    - 美
+      - `/ə'rendʒ/`
   - 词义
-    - v. 布置；安排，筹备
-    - `to organize or make plans for something such as a meeting, party, or trip`
+    - v.
+      - 布置；安排，筹备
+        - `to organize or make plans for something such as a meeting, party, or trip`
   - 记忆
     - ar(表加强) + range(排列) → 有序地排列 → 布置； 安排； 筹备
   - 同根词
     - adj.
-      - `arranged` 安排的
+      - `arranged`
+        - 安排的
     - n.
-      - `arrangement` 布置；整理；准备
+      - `arrangement`
+        - 布置；整理；准备
     - v.
-      - `arranged` 安排；计划；准备（arrange的过去式和过去分词）
+      - `arranged`
+        - 安排；计划；准备（arrange的过去式和过去分词）
   - 近义词
-    - vt. 安排；排列；整理
-      - `schedule`
-      - `budget`
-      - `place in`
-      - `settle`
-      - `form`
-    - vi. 安排；排列；协商
-      - `place in`
-      - `treat`
-      - `form`
+    - vt.
+      - 安排；排列；整理
+        - `schedule`
+        - `budget`
+        - `place in`
+        - `settle`
+        - `form`
+    - vi.
+      - 安排；排列；协商
+        - `place in`
+        - `treat`
+        - `form`
   - 短语
-    - `arrange for` 安排；为…做准备 
+    - `arrange for`
+      - 安排；为…做准备 
   - 例句
     - `Contact your local branch to arrange an appointment.`
       - 请联络当地分部安排预约。

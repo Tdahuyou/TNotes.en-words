@@ -1,18 +1,23 @@
 - wanna
   - 发音
-    - 英 `/'wɔːnə/`
-    - 美 `/ˈwɑnə/`
+    - 英
+      - `/'wɔːnə/`
+    - 美
+      - `/ˈwɑnə/`
   - 词义
-    - v. 想要
+    - v.
+      - 想要
   - 近义词
-    - vt. 想要（等于want to）
-      - `feel like`
-      - `desire`
-      - `mean`
-      - `intend`
-      - `Wanna Be`
+    - vt.
+      - 想要（等于want to）
+        - `feel like`
+        - `desire`
+        - `mean`
+        - `intend`
+        - `Wanna Be`
   - 短语
-    - `wanna live` 要活着；想要生活 
+    - `wanna live`
+      - 要活着；想要生活 
   - 例句
     - `I wanna be with you.`
       - 我想要和你在一起。

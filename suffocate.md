@@ -1,21 +1,28 @@
 - suffocate
   - 发音
-    - 英 `/'sʌfəkeɪt/`
-    - 美 `/'sʌfəket/`
+    - 英
+      - `/'sʌfəkeɪt/`
+    - 美
+      - `/'sʌfəket/`
   - 词义
-    - v. 受阻，受扼制；窒息
-    - `to die or make someone die by preventing them from breathing`
+    - v.
+      - 受阻，受扼制；窒息
+        - `to die or make someone die by preventing them from breathing`
   - 同根词
     - adj.
-      - `suffocative` 令人窒息的，喘不过气的
+      - `suffocative`
+        - 令人窒息的，喘不过气的
     - n.
-      - `suffocation` 窒息；闷死
+      - `suffocation`
+        - 窒息；闷死
   - 近义词
-    - vi. 受阻，受扼制；窒息
-      - `choke`
-    - vt. 压制，阻碍；使……窒息
-      - `silence`
-      - `slow`
+    - vi.
+      - 受阻，受扼制；窒息
+        - `choke`
+    - vt.
+      - 压制，阻碍；使……窒息
+        - `silence`
+        - `slow`
   - 例句
     - `The animal seizes its prey by the throat and suffocates it to death.`
       - 这种动物会抓住猎物的喉咙，使其窒息而死。

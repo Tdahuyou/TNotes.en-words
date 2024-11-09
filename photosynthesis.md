@@ -1,17 +1,22 @@
 - photosynthesis
   - 发音
-    - 英 `/ˌfoutou'sɪnθəsɪs/`
-    - 美 `/,foto'sɪnθəsɪs/`
+    - 英
+      - `/ˌfoutou'sɪnθəsɪs/`
+    - 美
+      - `/,foto'sɪnθəsɪs/`
   - 词义
-    - n. 光合作用
-    - `the production by a green plant of special substances like sugar that it uses as food, caused by the action of sunlight on  chlorophyll (= the green substance in leaves ) `
+    - n.
+      - 光合作用
+        - `the production by a green plant of special substances like sugar that it uses as food, caused by the action of sunlight on  chlorophyll (= the green substance in leaves ) `
   - 记忆
     - photo(光) + synthesis(合成) → 光合作用
   - 同根词
     - adj.
-      - `photosynthetic` [生化] 光合的；光合作用的
+      - `photosynthetic`
+        - [生化] 光合的；光合作用的
   - 短语
-    - `net photosynthesis` 净光合作用；净光能合成 
+    - `net photosynthesis`
+      - 净光合作用；净光能合成 
   - 例句
     - `The belt of vegetation that crosses Africa below the Sahara is very dark because most of the sunlight is absorbed by plants for photosynthesis.`
       - 在撒哈拉沙漠下方，横贯非洲中部的植被带颜色非常深，因为植物由于光合作用吸收了大多数太阳光。

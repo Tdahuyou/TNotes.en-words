@@ -1,16 +1,20 @@
 - odometer
   - 发音
-    - 英 `/ou'dɑːmɪtər/`
-    - 美 `/o'dɑmətɚ/`
+    - 英
+      - `/ou'dɑːmɪtər/`
+    - 美
+      - `/o'dɑmətɚ/`
   - 词义
-    - n. 里程表)
-    - `an instrument in a vehicle that shows how many miles or kilometres the vehicle has travelled`
+    - n.
+      - 里程表)
+        - `an instrument in a vehicle that shows how many miles or kilometres the vehicle has travelled`
   - 记忆
     - od(路) + o + meter(测量) → 测量路程的东西 → 里程表
   - 近义词
-    - n. （汽车的）[车辆]里程表，里程计
-      - `mileage counter`
-      - `odograph`
+    - n.
+      - （汽车的）[车辆]里程表，里程计
+        - `mileage counter`
+        - `odograph`
   - 例句
     - `The odometer shows now 140 miles per hour.`
       - 里程表显示现在的时速为140英里。

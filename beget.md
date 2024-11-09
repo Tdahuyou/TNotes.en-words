@@ -1,22 +1,27 @@
 - beget
   - 发音
-    - 英 `/bi'get/`
-    - 美 `/bɪ'ɡɛt/`
+    - 英
+      - `/bi'get/`
+    - 美
+      - `/bɪ'ɡɛt/`
   - 词义
-    - vt. 做父亲；为…生父；产生；引起，招致
-    - `to become the father of a child`
+    - vt.
+      - 做父亲；为…生父；产生；引起，招致
+        - `to become the father of a child`
   - 记忆
     - be (是) + get (得到) → 是得到了 → 产生
   - 同根词
     - n.
-      - `begetter` 生产者；父
+      - `begetter`
+        - 生产者；父
   - 近义词
-    - vt. 产生；招致；引起；当…的父亲
-      - `effect`
-      - `attract`
-      - `invite`
-      - `produce`
-      - `court`
+    - vt.
+      - 产生；招致；引起；当…的父亲
+        - `effect`
+        - `attract`
+        - `invite`
+        - `produce`
+        - `court`
   - 例句
     - `Hunger begets crime.`
       - 饥饿滋生犯罪。

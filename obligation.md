@@ -1,36 +1,55 @@
 - obligation
   - 发音
-    - 英 `/ɒblɪ'geɪʃ(ə)n/`
-    - 美 `/,ɑblɪ'ɡeʃən/`
+    - 英
+      - `/ɒblɪ'geɪʃ(ə)n/`
+    - 美
+      - `/,ɑblɪ'ɡeʃən/`
   - 词义
-    - n. 义务,职责,债务
-    - `a moral or legal duty to do something`
+    - n.
+      - 义务,职责,债务
+        - `a moral or legal duty to do something`
   - 同根词
     - adj.
-      - `obliged` 必须的；感激的；有责任的
-      - `obligatory` 义务的；必须的；义不容辞的
-      - `obligate` 有责任的，有义务的；必需的
-      - `obligated` 有义务的；责无旁贷的
+      - `obliged`
+        - 必须的；感激的；有责任的
+      - `obligatory`
+        - 义务的；必须的；义不容辞的
+      - `obligate`
+        - 有责任的，有义务的；必需的
+      - `obligated`
+        - 有义务的；责无旁贷的
     - n.
-      - `obligated` 使负义务（obligate的过去式）
+      - `obligated`
+        - 使负义务（obligate的过去式）
     - v.
-      - `obliged` 要求；约束；施恩惠（oblige的过去分词）
+      - `obliged`
+        - 要求；约束；施恩惠（oblige的过去分词）
     - vi.
-      - `oblige` 帮忙；施恩惠
+      - `oblige`
+        - 帮忙；施恩惠
     - vt.
-      - `oblige` 迫使；强制；赐，施恩惠；责成
-      - `obligate` 使负义务；强使，强迫；对…施以恩惠
+      - `oblige`
+        - 迫使；强制；赐，施恩惠；责成
+      - `obligate`
+        - 使负义务；强使，强迫；对…施以恩惠
   - 近义词
-    - n. [法]义务；职责；债务
-      - `debt`
-      - `liability`
+    - n.
+      - [法]义务；职责；债务
+        - `debt`
+        - `liability`
   - 短语
-    - `no obligation` 无义务 
-    - `moral obligation` 道义上的责任 
-    - `legal obligation` n. 法律义务 
-    - `contractual obligation` 合同义务；契约责任 
-    - `without obligation` 不计价 
-    - `financial obligation` 债务；财政承担 
+    - `no obligation`
+      - 无义务 
+    - `moral obligation`
+      - 道义上的责任 
+    - `legal obligation`
+      - n. 法律义务 
+    - `contractual obligation`
+      - 合同义务；契约责任 
+    - `without obligation`
+      - 不计价 
+    - `financial obligation`
+      - 债务；财政承担 
   - 例句
     - `Employers have an obligation to treat all employees equally.`
       - 雇主有责任对所有员工一视同仁。

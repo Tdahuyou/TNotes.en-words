@@ -1,13 +1,17 @@
 - tinge
   - 发音
-    - 英 `/tɪn(d)ʒ/`
-    - 美 `/tɪndʒ/`
+    - 英
+      - `/tɪn(d)ʒ/`
+    - 美
+      - `/tɪndʒ/`
   - 词义
-    - n. (清淡的)色调vt给…着色
+    - n.
+      - (清淡的)色调vt给…着色
   - 近义词
-    - n. 淡色；些许味道；风味
-      - `flavor`
-      - `delicate colour`
+    - n.
+      - 淡色；些许味道；风味
+        - `flavor`
+        - `delicate colour`
   - 例句
     - `This glass has a greenish tinge.`
       - 这块玻璃带点淡淡的绿色。

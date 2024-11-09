@@ -1,18 +1,24 @@
 - uncomfortably
   - 发音
-    - 英 `/undefined/`
-    - 美 `/ʌn'kʌmftəbli/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/ʌn'kʌmftəbli/`
   - 词义
-    - adv. 不舒服的；不自在地
+    - adv.
+      - 不舒服的；不自在地
   - 同根词
     - adj.
-      - `uncomfortable` 不舒服的；不安的
+      - `uncomfortable`
+        - 不舒服的；不安的
     - n.
-      - `uncomfortableness` 不安；不舒适
+      - `uncomfortableness`
+        - 不安；不舒适
   - 近义词
-    - adv. 不舒适地；不自在地；令人不快地
-      - `uneasily`
-      - `undesirably`
+    - adv.
+      - 不舒适地；不自在地；令人不快地
+        - `uneasily`
+        - `undesirably`
   - 例句
     - `I sat uncomfortably in my superseat for the rest of the journey feeling like a rotten heel.`
       - 在余下的旅程中，我浑身不自在地坐在我的“特等座”上，觉得自己差劲透了。

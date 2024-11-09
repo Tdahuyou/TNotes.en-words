@@ -1,18 +1,24 @@
 - bra
   - 发音
-    - 英 `/brɑː/`
-    - 美 `/brɑ/`
+    - 英
+      - `/brɑː/`
+    - 美
+      - `/brɑ/`
   - 词义
-    - n. 胸罩
-    - `a piece of underwear that a woman wears to support her breasts`
+    - n.
+      - 胸罩
+        - `a piece of underwear that a woman wears to support her breasts`
   - 同根词
     - adj.
-      - `braless` 不戴胸罩的
+      - `braless`
+        - 不戴胸罩的
   - 近义词
-    - n. 胸罩
-      - `brassiere`
+    - n.
+      - 胸罩
+        - `brassiere`
   - 短语
-    - `silicone bra` 硅胶胸垫；自粘式硅胶胸罩 
+    - `silicone bra`
+      - 硅胶胸垫；自粘式硅胶胸罩 
   - 例句
     - `What bra should she buy?`
       - 她应该选什么样的文胸？

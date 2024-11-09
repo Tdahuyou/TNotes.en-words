@@ -1,24 +1,32 @@
 - scanty
   - 发音
-    - 英 `/'skæntɪ/`
-    - 美 `/'skænti/`
+    - 英
+      - `/'skæntɪ/`
+    - 美
+      - `/'skænti/`
   - 词义
-    - adj. 缺乏的,不足的
-    - `not enough`
+    - adj.
+      - 缺乏的,不足的
+        - `not enough`
   - 同根词
     - adj.
-      - `scant` 不足的；缺乏的；勉强够的
+      - `scant`
+        - 不足的；缺乏的；勉强够的
     - adv.
-      - `scantily` 缺乏地；吝啬地；不充足地
+      - `scantily`
+        - 缺乏地；吝啬地；不充足地
     - n.
-      - `scantiness` 缺乏；不足
+      - `scantiness`
+        - 缺乏；不足
     - vt.
-      - `scant` 减少；节省；限制
+      - `scant`
+        - 减少；节省；限制
   - 近义词
-    - adj. 缺乏的；吝啬的；仅有的；稀疏的
-      - `tight`
-      - `lacking`
-      - `scarce`
+    - adj.
+      - 缺乏的；吝啬的；仅有的；稀疏的
+        - `tight`
+        - `lacking`
+        - `scarce`
   - 例句
     - `There is only scanty evidence of his involvement.`
       - 显示他牵涉其中的证据不足。

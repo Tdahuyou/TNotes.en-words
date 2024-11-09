@@ -1,13 +1,17 @@
 - kilogramme
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 公斤；千克
+    - n.
+      - 公斤；千克
   - 近义词
-    - n. 公斤；千克
-      - `Kgs.`
-      - `kilogram weight`
+    - n.
+      - 公斤；千克
+        - `Kgs.`
+        - `kilogram weight`
   - 例句
     - `Two years ago, flying goods from Nanjing or Shanghai to Europe cost up to $4 a kilogramme; today it the price is about $2.50.`
       - 两年前，从南京或上海空运货物至欧洲，每公斤运费高达4美元;如今的价格约为2.50美元。

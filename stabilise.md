@@ -1,32 +1,50 @@
 - stabilise
   - 发音
-    - 英 `/'steɪbəlaɪz/`
-    - 美 `/'steɪbəlˌaɪz/`
+    - 英
+      - `/'steɪbəlaɪz/`
+    - 美
+      - `/'steɪbəlˌaɪz/`
   - 词义
-    - v. 稳定，稳固
+    - v.
+      - 稳定，稳固
   - 记忆
     - 来自stable(a. 稳定的)
   - 同根词
     - adj.
-      - `stable` 稳定的；牢固的；坚定的
-      - `stabilized` 稳定的；减摇的
-      - `stabile` 稳定的；固着的
+      - `stable`
+        - 稳定的；牢固的；坚定的
+      - `stabilized`
+        - 稳定的；减摇的
+      - `stabile`
+        - 稳定的；固着的
     - n.
-      - `stable` 马厩；牛棚
-      - `stability` 稳定性；坚定，恒心
-      - `stabilization` 稳定；稳定化
-      - `stabilizer` [助剂] 稳定剂；稳定器；安定装置
-      - `stabilizing` 稳定化；稳定化处理
-      - `stabile` 固定的雕刻物
+      - `stable`
+        - 马厩；牛棚
+      - `stability`
+        - 稳定性；坚定，恒心
+      - `stabilization`
+        - 稳定；稳定化
+      - `stabilizer`
+        - [助剂] 稳定剂；稳定器；安定装置
+      - `stabilizing`
+        - 稳定化；稳定化处理
+      - `stabile`
+        - 固定的雕刻物
     - v.
-      - `stabilized` 稳定（stabilize的过去分词）
-      - `stabilizing` 使安定（stabilize的ing形式）
+      - `stabilized`
+        - 稳定（stabilize的过去分词）
+      - `stabilizing`
+        - 使安定（stabilize的ing形式）
     - vi.
-      - `stable` 被关在马厩
-      - `stabilize` 稳定，安定
+      - `stable`
+        - 被关在马厩
+      - `stabilize`
+        - 稳定，安定
     - vt.
-      - `stable` 赶入马房
-      - `stabilize` 使稳固，使安定
+      - `stable`
+        - 赶入马房
+      - `stabilize`
+        - 使稳固，使安定
   - 例句
     - `However, after three weeks of cold exposure, body weight began to stabilise.`
       - 不过，暴露在寒冷中三周后，体重就开始稳定下来。

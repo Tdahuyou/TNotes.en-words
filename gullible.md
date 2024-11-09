@@ -1,20 +1,27 @@
 - gullible
   - 发音
-    - 英 `/'gʌləbl/`
-    - 美 `/'ɡʌləbl/`
+    - 英
+      - `/'gʌləbl/`
+    - 美
+      - `/'ɡʌləbl/`
   - 词义
-    - adj. 易受骗的
-    - `too ready to believe what other people tell you, so that you are easily tricked`
+    - adj.
+      - 易受骗的
+        - `too ready to believe what other people tell you, so that you are easily tricked`
   - 同根词
     - n.
-      - `gull` [鸟] 鸥；笨人；易受骗之人
-      - `gullibility` 轻信；易受骗
+      - `gull`
+        - [鸟] 鸥；笨人；易受骗之人
+      - `gullibility`
+        - 轻信；易受骗
     - vt.
-      - `gull` 骗；欺诈
+      - `gull`
+        - 骗；欺诈
   - 近义词
-    - adj. 易受骗的；轻信的
-      - `naive`
-      - `credulous`
+    - adj.
+      - 易受骗的；轻信的
+        - `naive`
+        - `credulous`
   - 例句
     - `Plastic replicas of the Greek pottery are sold to gullible tourists.`
       - 仿古希腊陶器的塑料复制品被卖给易受骗的游客。

@@ -1,20 +1,27 @@
 - bureaucracy
   - 发音
-    - 英 `/bju'rɑːkrəsi/`
-    - 美 `/bjʊ'rɑkrəsi/`
+    - 英
+      - `/bju'rɑːkrəsi/`
+    - 美
+      - `/bjʊ'rɑkrəsi/`
   - 词义
-    - n. 官僚主义，官僚作风；政府机构，官僚机构
-    - `a complicated official system that is annoying or confusing because it has a lot of rules, processes etc`
+    - n.
+      - 官僚主义，官僚作风；政府机构，官僚机构
+        - `a complicated official system that is annoying or confusing because it has a lot of rules, processes etc`
   - 记忆
     - bureau(桌子， 引申为“政府的局”) + cracy(统治) → 官僚机构
   - 同根词
     - adj.
-      - `bureaucratic` 官僚的；官僚政治的
+      - `bureaucratic`
+        - 官僚的；官僚政治的
     - adv.
-      - `bureaucratically` 官僚主义地
+      - `bureaucratically`
+        - 官僚主义地
     - n.
-      - `bureaucrat` 官僚；官僚主义者
-      - `bureaucratism` 官僚主义；官僚作风
+      - `bureaucrat`
+        - 官僚；官僚主义者
+      - `bureaucratism`
+        - 官僚主义；官僚作风
   - 例句
     - `the reduction of unnecessary bureaucracy`
       - 消除不必要的官僚体制

@@ -1,10 +1,13 @@
 - alder
   - 发音
-    - 英 `/'ɔːldə/`
-    - 美 `/'ɔldɚ/`
+    - 英
+      - `/'ɔːldə/`
+    - 美
+      - `/'ɔldɚ/`
   - 词义
-    - n. [植]桤木
-    - `An alder is a species of tree or shrub that grows especially in cool, damp places and loses its leaves in winter`
+    - n.
+      - [植]桤木
+        - `An alder is a species of tree or shrub that grows especially in cool, damp places and loses its leaves in winter`
   - 例句
     - `A few scrubby trees, like red alder, have re-established themselves, and ants, frogs, meadowlarks, beavers and other species have moved in.`
       - 一些矮灌木丛，像红桤木很快又长起来了，蚂蚁青蛙草地鸬海狸还有其他一些物种也都迁进来了。

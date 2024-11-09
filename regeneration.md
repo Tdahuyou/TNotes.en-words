@@ -1,25 +1,34 @@
 - regeneration
   - 发音
-    - 英 `/rɪdʒenə'reɪʃn/`
-    - 美 `/ridʒɛnə'reʃən/`
+    - 英
+      - `/rɪdʒenə'reɪʃn/`
+    - 美
+      - `/ridʒɛnə'reʃən/`
   - 词义
-    - n. 再生,重建
+    - n.
+      - 再生,重建
   - 同根词
     - adj.
-      - `regenerate` 再生的；革新的
+      - `regenerate`
+        - 再生的；革新的
     - vi.
-      - `regenerate` 再生；革新
+      - `regenerate`
+        - 再生；革新
     - vt.
-      - `regenerate` 使再生；革新
+      - `regenerate`
+        - 使再生；革新
   - 近义词
-    - n. [生物][化学][物]再生，重生；重建
-      - `reconstruction`
-      - `breeding`
-      - `restructuring`
-      - `rebirth`
+    - n.
+      - [生物][化学][物]再生，重生；重建
+        - `reconstruction`
+        - `breeding`
+        - `restructuring`
+        - `rebirth`
   - 短语
-    - `regeneration capacity` 再生能力 
-    - `regeneration unit` 再生装置 
+    - `regeneration capacity`
+      - 再生能力 
+    - `regeneration unit`
+      - 再生装置 
   - 例句
     - `But they can definitely determine how they plan to grow as more people move in, and also how they want to rehabilitate areas that need regeneration.`
       - 但它们确实可以决定怎样在更多的人迁移进来的同时计划它们的增长，以及它们希望怎样修复需要重建的区域。

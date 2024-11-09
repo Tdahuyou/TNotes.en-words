@@ -1,22 +1,31 @@
 - isotherm
   - 发音
-    - 英 `/'aɪsə(ʊ)θɜːm/`
-    - 美 `/'aɪsə'θɝm/`
+    - 英
+      - `/'aɪsə(ʊ)θɜːm/`
+    - 美
+      - `/'aɪsə'θɝm/`
   - 词义
-    - n. [气象]等温线
-    - `a line on a weather map joining places where the temperature is the same`
+    - n.
+      - [气象]等温线
+        - `a line on a weather map joining places where the temperature is the same`
   - 同根词
     - adj.
-      - `isothermal` 等温的；等温线的
-      - `isothermic` 等温的；等温线的
+      - `isothermal`
+        - 等温的；等温线的
+      - `isothermic`
+        - 等温的；等温线的
     - n.
-      - `isothermal` 等温线
+      - `isothermal`
+        - 等温线
   - 近义词
-    - n. [气象]等温线
-      - `choroisotherm`
+    - n.
+      - [气象]等温线
+        - `choroisotherm`
   - 短语
-    - `adsorption isotherm` 等温吸附线 
-    - `sorption isotherm` 吸着等温线；等温吸附线 
+    - `adsorption isotherm`
+      - 等温吸附线 
+    - `sorption isotherm`
+      - 吸着等温线；等温吸附线 
   - 例句
     - `That's the isotherm here.`
       - 等温线的方程了。

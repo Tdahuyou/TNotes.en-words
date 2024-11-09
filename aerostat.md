@@ -1,13 +1,17 @@
 - aerostat
   - 发音
-    - 英 `/'eərəustæt/`
-    - 美 `/'ɛrəstæt/`
+    - 英
+      - `/'eərəustæt/`
+    - 美
+      - `/'ɛrəstæt/`
   - 词义
-    - n. 航空器
-    - `a lighter-than-air craft, such as a balloon `
+    - n.
+      - 航空器
+        - `a lighter-than-air craft, such as a balloon `
   - 近义词
-    - n. [航]航空器；高空气球
-      - `air craft`
+    - n.
+      - [航]航空器；高空气球
+        - `air craft`
   - 例句
     - `Transient thermal response of a spherical aerostat in rising process was studied based on this model.`
       - 通过建立平流层浮空器的热模型，对球形浮空器升空过程中的瞬态热响应进行了数值模拟。

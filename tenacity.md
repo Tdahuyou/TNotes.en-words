@@ -1,23 +1,31 @@
 - tenacity
   - 发音
-    - 英 `/ti'næsəti/`
-    - 美 `/tə'næsɪti/`
+    - 英
+      - `/ti'næsəti/`
+    - 美
+      - `/tə'næsɪti/`
   - 词义
-    - n. 坚韧
+    - n.
+      - 坚韧
   - 记忆
     - ten (拿住) + acity → 拿住不放 → 坚韧
   - 同根词
     - adj.
-      - `tenacious` 顽强的；坚韧的；固执的；紧握的；黏着力强的
+      - `tenacious`
+        - 顽强的；坚韧的；固执的；紧握的；黏着力强的
     - n.
-      - `tenaciousness` 固执；顽强
+      - `tenaciousness`
+        - 固执；顽强
   - 近义词
-    - n. [力]韧性；固执；不屈不挠；黏性
-      - `toughness`
-      - `perseverance`
+    - n.
+      - [力]韧性；固执；不屈不挠；黏性
+        - `toughness`
+        - `perseverance`
   - 短语
-    - `high tenacity` 高韧性；高韧度 
-    - `breaking tenacity` 断裂强度；扯断力 
+    - `high tenacity`
+      - 高韧性；高韧度 
+    - `breaking tenacity`
+      - 断裂强度；扯断力 
   - 例句
     - `The coating has good tenacity and wearability.`
       - 涂层具有良好的韧性和耐磨性能。

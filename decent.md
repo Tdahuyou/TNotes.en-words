@@ -1,21 +1,27 @@
 - decent
   - 发音
-    - 英 `/'diːsnt/`
-    - 美 `/'disnt/`
+    - 英
+      - `/'diːsnt/`
+    - 美
+      - `/'disnt/`
   - 词义
-    - adj. 体面的；适当的，得体的；令人满意的；正派的
-    - `following moral standards that are acceptable to society`
+    - adj.
+      - 体面的；适当的，得体的；令人满意的；正派的
+        - `following moral standards that are acceptable to society`
   - 记忆
     - dec(变得恰当) + ent → 体面的； 适当的
   - 同根词
     - adv.
-      - `decently` 合适地；高雅地；正派地；亲切地
+      - `decently`
+        - 合适地；高雅地；正派地；亲切地
     - n.
-      - `decency` 正派；体面；庄重；合乎礼仪；礼貌
+      - `decency`
+        - 正派；体面；庄重；合乎礼仪；礼貌
   - 近义词
-    - adj. 正派的；得体的；相当好的
-      - `proper`
-      - `goodish`
+    - adj.
+      - 正派的；得体的；相当好的
+        - `proper`
+        - `goodish`
   - 例句
     - `a decent burial`
       - 得体的葬礼

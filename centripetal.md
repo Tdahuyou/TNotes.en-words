@@ -1,18 +1,23 @@
 - centripetal
   - 发音
-    - 英 `/sen'trɪpɪtl/`
-    - 美 `/sɛn'trɪpɪtl/`
+    - 英
+      - `/sen'trɪpɪtl/`
+    - 美
+      - `/sɛn'trɪpɪtl/`
   - 词义
-    - adj. 向心的
-    - `acting, moving, or tending to move towards a centre `
+    - adj.
+      - 向心的
+        - `acting, moving, or tending to move towards a centre `
   - 记忆
     - centri(中心) + pet(追求) + al → 追求中心 → 向心的
   - 近义词
-    - adj. [力]向心的；利用向心力的
-      - `axipetal`
-      - `endocentric`
+    - adj.
+      - [力]向心的；利用向心力的
+        - `axipetal`
+        - `endocentric`
   - 短语
-    - `centripetal force` 向心力 
+    - `centripetal force`
+      - 向心力 
   - 例句
     - `There is a requirement that there is a centripetal acceleration, which is in this direction, a centripetal.`
       - 前提要求就是，具有向心加速度，朝这个方向，向心力的作用。

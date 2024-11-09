@@ -1,10 +1,13 @@
 - Sabbath
   - 发音
-    - 英 `/'sæbəθ/`
-    - 美 `/'sæbəθ/`
+    - 英
+      - `/'sæbəθ/`
+    - 美
+      - `/'sæbəθ/`
   - 词义
-    - n. 安息日
-    - `to obey or not obey the religious rules of the Sabbath`
+    - n.
+      - 安息日
+        - `to obey or not obey the religious rules of the Sabbath`
   - 例句
     - `You might not even be able to come to church on Sabbath morning.`
       - 或许你们也没法在安息日的早晨来教堂做礼拜。

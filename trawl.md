@@ -1,19 +1,25 @@
 - trawl
   - 发音
-    - 英 `/trɔːl/`
-    - 美 `/trɔl/`
+    - 英
+      - `/trɔːl/`
+    - 美
+      - `/trɔl/`
   - 词义
-    - n. 拖网；排钩
-    - `a wide net that is pulled along the bottom of the sea to catch fish`
-    - v. 用拖网捕鱼
-    - `to fish by pulling a special wide net behind a boat`
+    - n.
+      - 拖网；排钩
+        - `a wide net that is pulled along the bottom of the sea to catch fish`
+    - v.
+      - 用拖网捕鱼
+        - `to fish by pulling a special wide net behind a boat`
   - 同根词
     - n.
-      - `trawler` 拖网渔船；拖网捕鱼的人
+      - `trawler`
+        - 拖网渔船；拖网捕鱼的人
   - 近义词
-    - n. [水产]拖网；排钩
-      - `townet`
-      - `dragnet`
+    - n.
+      - [水产]拖网；排钩
+        - `townet`
+        - `dragnet`
   - 例句
     - `The oil industry uses supercomputers to trawl seismic data before drilling wells.`
       - 石油公司可以在钻井之前先拖网分析地震数据。

@@ -1,25 +1,35 @@
 - telephoto
   - 发音
-    - 英 `/'telɪfəʊtəʊ/`
-    - 美 `/undefined/`
+    - 英
+      - `/'telɪfəʊtəʊ/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 传真照片；传真电报；摄远镜头
-    - adj. 用远距镜头照相的；摄远的
+    - n.
+      - 传真照片；传真电报；摄远镜头
+    - adj.
+      - 用远距镜头照相的；摄远的
   - 记忆
     - tele(远) ＋ photo(照片) → 从远处传过来的照片 → 传真照片
   - 同根词
     - adj.
-      - `telescopic` 望远镜的；[眼科] 远视的；套管式伸缩的；眼力好的；有先见之明的
+      - `telescopic`
+        - 望远镜的；[眼科] 远视的；套管式伸缩的；眼力好的；有先见之明的
     - n.
-      - `teleportation` 心灵传动；远距传动
-      - `telephotography` [摄] 远距离照相术；[通信] 传真电报术
-      - `teleprinter` [通信] 电传打字机，电传打字电报机
+      - `teleportation`
+        - 心灵传动；远距传动
+      - `telephotography`
+        - [摄] 远距离照相术；[通信] 传真电报术
+      - `teleprinter`
+        - [通信] 电传打字机，电传打字电报机
   - 近义词
-    - n. 传真照片；传真电报；摄远镜头
-      - `tpo`
-      - `telautogram`
+    - n.
+      - 传真照片；传真电报；摄远镜头
+        - `tpo`
+        - `telautogram`
   - 短语
-    - `telephoto lens` 远距镜头；长焦镜头；望远透镜 
+    - `telephoto lens`
+      - 远距镜头；长焦镜头；望远透镜 
   - 例句
     - `Perhaps there’ll be 16GB telephoto or 32GB zoom lenses available in the future.`
       - 或许今后还会有16GB的“摄远镜头”或32GB的“全景镜头”可供选择。

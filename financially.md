@@ -1,28 +1,41 @@
 - financially
   - 发音
-    - 英 `/faɪ'nænʃəli/`
-    - 美 `/faɪ'nænʃəli/`
+    - 英
+      - `/faɪ'nænʃəli/`
+    - 美
+      - `/faɪ'nænʃəli/`
   - 词义
-    - adv. 财政上(金融上)
+    - adv.
+      - 财政上(金融上)
   - 同根词
     - adj.
-      - `financial` 金融的；财政的，财务的
+      - `financial`
+        - 金融的；财政的，财务的
     - n.
-      - `finance` 财政，财政学；金融
-      - `financing` 融资；财务；筹措资金
-      - `financier` 金融家；投资家
+      - `finance`
+        - 财政，财政学；金融
+      - `financing`
+        - 融资；财务；筹措资金
+      - `financier`
+        - 金融家；投资家
     - v.
-      - `financing` 筹措资金；财政管理；从事金融活动（finance的ing形式）
+      - `financing`
+        - 筹措资金；财政管理；从事金融活动（finance的ing形式）
     - vi.
-      - `finance` 筹措资金
-      - `financier` 欺骗；从事欺骗性金融活动
+      - `finance`
+        - 筹措资金
+      - `financier`
+        - 欺骗；从事欺骗性金融活动
     - vt.
-      - `finance` 负担经费，供给…经费
-      - `financier` 对…提供资金
+      - `finance`
+        - 负担经费，供给…经费
+      - `financier`
+        - 对…提供资金
   - 近义词
-    - adv. 财政上；金融上
-      - `fiscally`
-      - `moneywise`
+    - adv.
+      - 财政上；金融上
+        - `fiscally`
+        - `moneywise`
   - 例句
     - `After all, your competitors are financially rational.`
       - 至少你的对手财政上是理性的。

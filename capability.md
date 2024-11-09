@@ -1,40 +1,59 @@
 - capability
   - 发音
-    - 英 `/ˌkeɪpə'bɪləti/`
-    - 美 `/ˌkepəˈbɪlətɪ/`
+    - 英
+      - `/ˌkeɪpə'bɪləti/`
+    - 美
+      - `/ˌkepəˈbɪlətɪ/`
   - 词义
-    - n. 能力；性能；容量；潜质
-    - `the natural ability, skill, or power that makes a machine, person, or organization able to do something, especially something difficult`
+    - n.
+      - 能力；性能；容量；潜质
+        - `the natural ability, skill, or power that makes a machine, person, or organization able to do something, especially something difficult`
   - 记忆
     - cap(拿住) + abil(=able 能…的) + ity(名词后缀) → 有能力拿住 → 能力
   - 同根词
     - adj.
-      - `capable` 能干的，能胜任的；有才华的
+      - `capable`
+        - 能干的，能胜任的；有才华的
     - adv.
-      - `capably` 能干地
+      - `capably`
+        - 能干地
     - n.
-      - `capacity` 能力；容量；资格，地位；生产力
-      - `capacitance` [电] 电容；电流容量
-      - `capaciousness` 宽敞；容量大
+      - `capacity`
+        - 能力；容量；资格，地位；生产力
+      - `capacitance`
+        - [电] 电容；电流容量
+      - `capaciousness`
+        - 宽敞；容量大
   - 近义词
-    - n. 才能，能力；性能，容量
-      - `talent`
-      - `ability`
-      - `competence`
-      - `performance`
-      - `property`
-      - `quality`
+    - n.
+      - 才能，能力；性能，容量
+        - `talent`
+        - `ability`
+        - `competence`
+        - `performance`
+        - `property`
+        - `quality`
   - 短语
-    - `process capability` 加工能力；工序能力 
-    - `design capability` 设计能力 
-    - `capability maturity model` 能力成熟度模型；软件能力成熟度模型 
-    - `operational capability` 运算能力；工作能力；作业能力 
-    - `resolution capability` 分辨本领；分辨能力；分解能力 
-    - `power capability` 功率容量 
-    - `operating capability` 管理能力 
-    - `output capability` 输出能力 
-    - `measurement capability` 测量能力 
-    - `load support capability` n. 承载能力 
+    - `process capability`
+      - 加工能力；工序能力 
+    - `design capability`
+      - 设计能力 
+    - `capability maturity model`
+      - 能力成熟度模型；软件能力成熟度模型 
+    - `operational capability`
+      - 运算能力；工作能力；作业能力 
+    - `resolution capability`
+      - 分辨本领；分辨能力；分解能力 
+    - `power capability`
+      - 功率容量 
+    - `operating capability`
+      - 管理能力 
+    - `output capability`
+      - 输出能力 
+    - `measurement capability`
+      - 测量能力 
+    - `load support capability`
+      - n. 承载能力 
   - 例句
     - `the country’s manufacturing capability`
       - 该国的生产能力

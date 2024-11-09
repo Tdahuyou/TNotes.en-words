@@ -1,34 +1,48 @@
 - criticize
   - 发音
-    - 英 `/'krɪtɪsaɪz/`
-    - 美 `/'krɪtə'saɪz/`
+    - 英
+      - `/'krɪtɪsaɪz/`
+    - 美
+      - `/'krɪtə'saɪz/`
   - 词义
-    - v. 批评；吹毛求疵，非难；评论
-    - `to express your disapproval of someone or something, or to talk about their faults`
+    - v.
+      - 批评；吹毛求疵，非难；评论
+        - `to express your disapproval of someone or something, or to talk about their faults`
   - 记忆
     - crit(判断) + ic + ize → 作出判断 → 评论
   - 同根词
     - adj.
-      - `critical` 鉴定的；[核] 临界的；批评的，爱挑剔的；危险的；决定性的；评论的
+      - `critical`
+        - 鉴定的；[核] 临界的；批评的，爱挑剔的；危险的；决定性的；评论的
     - adv.
-      - `critically` 精密地；危急地；批评性地；用钻研眼光地
+      - `critically`
+        - 精密地；危急地；批评性地；用钻研眼光地
     - n.
-      - `criticism` 批评；考证；苛求
-      - `critic` 批评家，评论家；爱挑剔的人
-      - `critique` 批评；评论文章
-      - `criticalness` 批判性
+      - `criticism`
+        - 批评；考证；苛求
+      - `critic`
+        - 批评家，评论家；爱挑剔的人
+      - `critique`
+        - 批评；评论文章
+      - `criticalness`
+        - 批判性
     - vi.
-      - `criticise` 批评；吹毛求疵；非难
+      - `criticise`
+        - 批评；吹毛求疵；非难
     - vt.
-      - `critique` 批判；评论
-      - `criticise` 批评；吹毛求疵；非难
+      - `critique`
+        - 批判；评论
+      - `criticise`
+        - 批评；吹毛求疵；非难
   - 近义词
-    - vt. 批评；评论；非难
-      - `observe on`
-      - `to comment on`
-    - vi. 批评；评论；苛求
-      - `observe on`
-      - `to comment on`
+    - vt.
+      - 批评；评论；非难
+        - `observe on`
+        - `to comment on`
+    - vi.
+      - 批评；评论；苛求
+        - `observe on`
+        - `to comment on`
   - 例句
     - `Ron does nothing but criticize and complain all the time.`
       - 罗恩什么也不干，只是一味指责和抱怨。

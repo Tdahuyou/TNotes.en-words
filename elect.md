@@ -1,40 +1,59 @@
 - elect
   - 发音
-    - 英 `/ɪ'lekt/`
-    - 美 `/ɪ'lɛkt/`
+    - 英
+      - `/ɪ'lekt/`
+    - 美
+      - `/ɪ'lɛkt/`
   - 词义
-    - v. 选举,选择
-    - `to choose someone for an official position by voting`
+    - v.
+      - 选举,选择
+        - `to choose someone for an official position by voting`
   - 同根词
     - adj.
-      - `elective` 选修的；选举的；选任的
-      - `electoral` 选举的；选举人的
-      - `electioneering` 竞选活动的
+      - `elective`
+        - 选修的；选举的；选任的
+      - `electoral`
+        - 选举的；选举人的
+      - `electioneering`
+        - 竞选活动的
     - n.
-      - `election` 选举；当选；选择权；上帝的选拔
-      - `elective` 选修课程
-      - `electorate` 选民；选区
-      - `elector` 选举人；有选举权的人；总统选举人
-      - `electioneer` 从事选举活动；积极竞选的人
-      - `electioneering` 竞选活动
+      - `election`
+        - 选举；当选；选择权；上帝的选拔
+      - `elective`
+        - 选修课程
+      - `electorate`
+        - 选民；选区
+      - `elector`
+        - 选举人；有选举权的人；总统选举人
+      - `electioneer`
+        - 从事选举活动；积极竞选的人
+      - `electioneering`
+        - 竞选活动
     - v.
-      - `electioneering` 从事选举活动（electioneer的ing形式）
+      - `electioneering`
+        - 从事选举活动（electioneer的ing形式）
     - vi.
-      - `electioneer` 从事选举活动；积极参加竞选
+      - `electioneer`
+        - 从事选举活动；积极参加竞选
     - vt.
-      - `elected` 选举，推选
+      - `elected`
+        - 选举，推选
   - 近义词
-    - adj. 选出的；当选的；卓越的
-      - `remarkable`
-      - `excellent`
-      - `prominent`
-    - vt. 选举；选择；推选
-      - `opt for`
-      - `to make a choice`
-    - vi. 作出选择；进行选举
-      - `take one's choice`
+    - adj.
+      - 选出的；当选的；卓越的
+        - `remarkable`
+        - `excellent`
+        - `prominent`
+    - vt.
+      - 选举；选择；推选
+        - `opt for`
+        - `to make a choice`
+    - vi.
+      - 作出选择；进行选举
+        - `take one's choice`
   - 短语
-    - `president elect` 当选总统（尚未就职的） 
+    - `president elect`
+      - 当选总统（尚未就职的） 
   - 例句
     - `the country’s first democratically elected government`
       - 该国第一个民主选举产生的政府

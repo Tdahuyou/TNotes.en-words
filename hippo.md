@@ -1,14 +1,18 @@
 - hippo
   - 发音
-    - 英 `/'hɪpəʊ/`
-    - 美 `/'hɪpo/`
+    - 英
+      - `/'hɪpəʊ/`
+    - 美
+      - `/'hɪpo/`
   - 词义
-    - n. 河马；吐根
-    - `a hippopotamus`
+    - n.
+      - 河马；吐根
+        - `a hippopotamus`
   - 近义词
-    - n. 河马；吐根
-      - `river horse`
-      - `ipecac`
+    - n.
+      - 河马；吐根
+        - `river horse`
+        - `ipecac`
   - 例句
     - `This photo of a hippo at Disney World has absolutely nothing to do with this post and only serves to confuse things.`
       - 这张迪斯尼世界河马照片绝对与本文章毫无关联，放这里只会让你莫名其妙。

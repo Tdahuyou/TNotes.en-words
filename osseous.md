@@ -1,18 +1,23 @@
 - osseous
   - 发音
-    - 英 `/'ɑːsiəs/`
-    - 美 `/'ɑsɪəs/`
+    - 英
+      - `/'ɑːsiəs/`
+    - 美
+      - `/'ɑsɪəs/`
   - 词义
-    - adj. 骨的，多骨的
-    - `consisting of or containing bone, bony `
+    - adj.
+      - 骨的，多骨的
+        - `consisting of or containing bone, bony `
   - 记忆
     - oss(骨) + e + ous → 骨的
   - 近义词
-    - adj. [解剖]骨的；骨质的
-      - `bony`
-      - `osteal`
+    - adj.
+      - [解剖]骨的；骨质的
+        - `bony`
+        - `osteal`
   - 短语
-    - `osseous tissue` 骨组织 
+    - `osseous tissue`
+      - 骨组织 
   - 例句
     - `Objective:To investigate the effect of rapid decalcification by Lightwave/microwave nitric acid method on the antigenicity of osseous tissue.`
       - 目的：探讨光波微波硝酸快速脱钙技术对骨及软组织抗原活性的影响。

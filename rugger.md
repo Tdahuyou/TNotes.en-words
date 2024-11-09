@@ -1,13 +1,17 @@
 - rugger
   - 发音
-    - 英 `/'rʌgə/`
-    - 美 `/'rʌɡɚ/`
+    - 英
+      - `/'rʌgə/`
+    - 美
+      - `/'rʌɡɚ/`
   - 词义
-    - n. 英式橄榄球
-    - `Rugby Union`
+    - n.
+      - 英式橄榄球
+        - `Rugby Union`
   - 近义词
-    - n. 英式橄榄球
-      - `Rugby`
+    - n.
+      - 英式橄榄球
+        - `Rugby`
   - 例句
     - `A playful way of saying that one was playing Rugby football was to call it rugger.`
       - 如果想表达某个球员踢英式橄榄球，也可以用比较俏皮的说法称它是rugger（英式橄榄球）。

@@ -1,20 +1,27 @@
 - evanescent
   - 发音
-    - 英 `/iːvə'nes(ə)nt; ev-/`
-    - 美 `/,ɛvə'nɛsnt/`
+    - 英
+      - `/iːvə'nes(ə)nt; ev-/`
+    - 美
+      - `/,ɛvə'nɛsnt/`
   - 词义
-    - adj. 迅速消失的,短暂的
-    - `something that is evanescent does not last very long`
+    - adj.
+      - 迅速消失的,短暂的
+        - `something that is evanescent does not last very long`
   - 同根词
     - n.
-      - `evanescence` 逐渐消失；瞬息；幻灭
+      - `evanescence`
+        - 逐渐消失；瞬息；幻灭
     - vi.
-      - `evanesce` 消散；逐渐看不见
+      - `evanesce`
+        - 消散；逐渐看不见
   - 近义词
-    - adj. 容易消散的；逐渐消失的；会凋零的
-      - `smorzando`
+    - adj.
+      - 容易消散的；逐渐消失的；会凋零的
+        - `smorzando`
   - 短语
-    - `evanescent wave` 消散波；损耗波；隐失波 
+    - `evanescent wave`
+      - 消散波；损耗波；隐失波 
   - 例句
     - `...the evanescent scents of summer herbs.`
       - ...夏季香草逐渐消散的味道。

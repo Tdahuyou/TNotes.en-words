@@ -1,10 +1,13 @@
 - holster
   - 发音
-    - 英 `/'həʊlstə; 'hɒl-/`
-    - 美 `/'holstɚ/`
+    - 英
+      - `/'həʊlstə; 'hɒl-/`
+    - 美
+      - `/'holstɚ/`
   - 词义
-    - n. 手枪皮套
-    - `a leather object for carrying a small gun, that is worn on a belt`
+    - n.
+      - 手枪皮套
+        - `a leather object for carrying a small gun, that is worn on a belt`
   - 例句
     - `Initially, Colt produced three "revolving" handguns--belt, holster and pocket pistols--and two rifles.`
       - 最初，柯尔特生产三种“转轮”手枪——belt，holster和pocket手枪——以及两种步枪。

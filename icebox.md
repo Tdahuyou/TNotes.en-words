@@ -1,10 +1,14 @@
 - icebox
   - 发音
-    - 英 `/'aɪsbɒks/`
-    - 美 `/'aɪsbɑks/`
+    - 英
+      - `/'aɪsbɒks/`
+    - 美
+      - `/'aɪsbɑks/`
   - 词义
-    - n. 冷藏库
+    - n.
+      - 冷藏库
   - 近义词
-    - n. 冰箱；冷藏库
-      - `refrigerator`
-      - `freezer`
+    - n.
+      - 冰箱；冷藏库
+        - `refrigerator`
+        - `freezer`

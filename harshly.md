@@ -1,20 +1,27 @@
 - harshly
   - 发音
-    - 英 `/'ha:ʃli/`
-    - 美 `/'ha:ʃli/`
+    - 英
+      - `/'ha:ʃli/`
+    - 美
+      - `/'ha:ʃli/`
   - 词义
-    - adv. 严厉地,苛刻地
+    - adv.
+      - 严厉地,苛刻地
   - 同根词
     - adj.
-      - `harsh` 严厉的；严酷的；刺耳的；粗糙的；刺目的
+      - `harsh`
+        - 严厉的；严酷的；刺耳的；粗糙的；刺目的
     - n.
-      - `harshness` 严肃；刺耳；粗糙的事物
+      - `harshness`
+        - 严肃；刺耳；粗糙的事物
     - vt.
-      - `harshen` 使粗糙；使荒凉
+      - `harshen`
+        - 使粗糙；使荒凉
   - 近义词
-    - adv. 严厉地；刺耳地；粗糙地
-      - `roughly`
-      - `severely`
+    - adv.
+      - 严厉地；刺耳地；粗糙地
+        - `roughly`
+        - `severely`
   - 例句
     - `You had little cause to judge him so harshly.`
       - 你没有什么理由这样严厉地批评他。

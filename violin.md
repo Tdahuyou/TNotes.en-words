@@ -1,19 +1,26 @@
 - violin
   - 发音
-    - 英 `/ˌvaɪəˈlɪn/`
-    - 美 `/,vaɪə'lɪn/`
+    - 英
+      - `/ˌvaɪəˈlɪn/`
+    - 美
+      - `/,vaɪə'lɪn/`
   - 词义
-    - n. 小提琴
-    - `a small wooden musical instrument that you hold under your chin and play by pulling a bow(= special stick ) across the strings`
+    - n.
+      - 小提琴
+        - `a small wooden musical instrument that you hold under your chin and play by pulling a bow(= special stick ) across the strings`
   - 同根词
     - n.
-      - `violinist` 小提琴演奏者，小提琴家
+      - `violinist`
+        - 小提琴演奏者，小提琴家
   - 近义词
-    - n. 小提琴；小提琴手
-      - `fiddle`
+    - n.
+      - 小提琴；小提琴手
+        - `fiddle`
   - 短语
-    - `violin concerto` 小提琴协奏曲 
-    - `violin concertos` 小提琴协奏曲；小提琴协奏曲选 
+    - `violin concerto`
+      - 小提琴协奏曲 
+    - `violin concertos`
+      - 小提琴协奏曲；小提琴协奏曲选 
   - 例句
     - `She rippled a lively rhythm on the violin.`
       - 她在小提琴上奏出明快的节奏。

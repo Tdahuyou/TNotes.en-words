@@ -1,23 +1,31 @@
 - denominator
   - 发音
-    - 英 `/di'nɔmiˌneitə/`
-    - 美 `/dɪ'nɑmə'netɚ/`
+    - 英
+      - `/di'nɔmiˌneitə/`
+    - 美
+      - `/dɪ'nɑmə'netɚ/`
   - 词义
-    - n. 标准；分母
-    - `the number below the line in a  fraction `
+    - n.
+      - 标准；分母
+        - `the number below the line in a  fraction `
   - 同根词
     - adj.
-      - `denominate` 有特定名称的
+      - `denominate`
+        - 有特定名称的
     - n.
-      - `denomination` 面额；名称；教派
+      - `denomination`
+        - 面额；名称；教派
     - vt.
-      - `denominate` 为…命名；把…称作…
+      - `denominate`
+        - 为…命名；把…称作…
   - 近义词
-    - n. [数]分母；命名者
-      - `namer`
-      - `nomenclator`
+    - n.
+      - [数]分母；命名者
+        - `namer`
+        - `nomenclator`
   - 短语
-    - `common denominator` [数]公分母 
+    - `common denominator`
+      - [数]公分母 
   - 例句
     - `You have to enter numerator and denominator.`
       - 您需要输入结果的分子和分母。

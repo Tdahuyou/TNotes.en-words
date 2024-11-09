@@ -1,19 +1,27 @@
 - eighteen
   - 发音
-    - 英 `/eɪ'tiːn; 'eɪtiːn/`
-    - 美 `/,e'tin/`
+    - 英
+      - `/eɪ'tiːn; 'eɪtiːn/`
+    - 美
+      - `/,e'tin/`
   - 词义
-    - num. 十八
-    - `the number 18`
+    - num.
+      - 十八
+        - `the number 18`
   - 同根词
     - adj.
-      - `eight` 八的
-      - `eighteenth` 第十八的，第十八个的；十八分之一的
+      - `eight`
+        - 八的
+      - `eighteenth`
+        - 第十八的，第十八个的；十八分之一的
     - n.
-      - `eight` 八字形
+      - `eight`
+        - 八字形
     - num.
-      - `eight` 八；八个；第八
-      - `eighteenth` 第十八；十八分之一
+      - `eight`
+        - 八；八个；第八
+      - `eighteenth`
+        - 第十八；十八分之一
   - 例句
     - `At least eighteen bullets were fired.`
       - 至少射出了18颗子弹。

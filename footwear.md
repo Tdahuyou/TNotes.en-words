@@ -1,15 +1,20 @@
 - footwear
   - 发音
-    - 英 `/'fʊtweə/`
-    - 美 `/'fʊtwɛr/`
+    - 英
+      - `/'fʊtweə/`
+    - 美
+      - `/'fʊtwɛr/`
   - 词义
-    - n. 鞋类
-    - `things that people wear on their feet, such as shoes or boots`
+    - n.
+      - 鞋类
+        - `things that people wear on their feet, such as shoes or boots`
   - 近义词
-    - n. 鞋类
-      - `chaussure`
+    - n.
+      - 鞋类
+        - `chaussure`
   - 短语
-    - `rubber footwear` 橡筋鞋 
+    - `rubber footwear`
+      - 橡筋鞋 
   - 例句
     - `outdoor footwear`
       - 户外用鞋

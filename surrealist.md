@@ -1,18 +1,25 @@
 - surrealist
   - 发音
-    - 英 `/undefined/`
-    - 美 `/sə'riəlɪst/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/sə'riəlɪst/`
   - 词义
-    - n. 超现实主义者
-    - `A surrealist is an artist or writer whose work is based on the ideas of surrealism`
-    - adj. 超现实主义的
-    - `Surrealist means related to or in the style of surrealism`
+    - n.
+      - 超现实主义者
+        - `A surrealist is an artist or writer whose work is based on the ideas of surrealism`
+    - adj.
+      - 超现实主义的
+        - `Surrealist means related to or in the style of surrealism`
   - 同根词
     - adj.
-      - `surreal` 超现实主义的；离奇的；不真实的
-      - `surrealistic` 超现实主义的
+      - `surreal`
+        - 超现实主义的；离奇的；不真实的
+      - `surrealistic`
+        - 超现实主义的
     - n.
-      - `surrealism` 超现实主义
+      - `surrealism`
+        - 超现实主义
   - 例句
     - `Modern art stages this underlying spectre: one can imagine a surrealist painting of a frog embracing a bottle of beer entitled "A man and a woman".`
       - 现代派艺术所展示的正是这种潜在的幽灵：我们可以想象一幅青蛙抱酒瓶的超现实主义画作，而它的名字就叫“一个男人和一个女人”。

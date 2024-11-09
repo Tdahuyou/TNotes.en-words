@@ -1,26 +1,37 @@
 - extemporize
   - 发音
-    - 英 `/ɪk'stempəraɪz/`
-    - 美 `/ɪk'stɛmpəraɪz/`
+    - 英
+      - `/ɪk'stempəraɪz/`
+    - 美
+      - `/ɪk'stɛmpəraɪz/`
   - 词义
-    - v. 即兴演说
-    - `to speak or perform without preparation or practice`
+    - v.
+      - 即兴演说
+        - `to speak or perform without preparation or practice`
   - 记忆
     - ex + tempor(时间) + ize → 不在(安排的)时间之内 → 即兴演说
   - 同根词
     - adj.
-      - `extemporaneous` 即席的，临时的；无准备的；不用讲稿的；善于即席讲话的
-      - `extemporary` 无准备的；即席的；临时的（等于extemporaneous）
-      - `extempore` 当场的，即席的
+      - `extemporaneous`
+        - 即席的，临时的；无准备的；不用讲稿的；善于即席讲话的
+      - `extemporary`
+        - 无准备的；即席的；临时的（等于extemporaneous）
+      - `extempore`
+        - 当场的，即席的
     - adv.
-      - `extemporaneously` 无准备地，临时作成的
-      - `extempore` 无准备地；即兴地
+      - `extemporaneously`
+        - 无准备地，临时作成的
+      - `extempore`
+        - 无准备地；即兴地
     - n.
-      - `extempore` 即席之作
-      - `extemporization` 即席演说；即兴之作
+      - `extempore`
+        - 即席之作
+      - `extemporization`
+        - 即席演说；即兴之作
   - 近义词
-    - vi. 即兴演奏或演说；临时凑合
-      - `improvise`
+    - vi.
+      - 即兴演奏或演说；临时凑合
+        - `improvise`
   - 例句
     - `He completely departed from the text and extemporized in a very energetic fashion.`
       - 他完全脱了稿并以一种精力非常充沛的样子即席演说。

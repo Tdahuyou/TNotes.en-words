@@ -1,15 +1,20 @@
 - milliliter
   - 发音
-    - 英 `/'mili,li:tə/`
-    - 美 `/'mɪlɪˌlitɚ/`
+    - 英
+      - `/'mili,li:tə/`
+    - 美
+      - `/'mɪlɪˌlitɚ/`
   - 词义
-    - n. 毫升
+    - n.
+      - 毫升
   - 同根词
     - n.
-      - `millilitre` [计量] 毫升
+      - `millilitre`
+        - [计量] 毫升
   - 近义词
-    - n. 毫升
-      - `mil`
+    - n.
+      - 毫升
+        - `mil`
   - 例句
     - `An increasing number of physicians now routinely test vitamin D levels in the blood of their female patients, and if it is below 30 nanograms per milliliter, will suggest they take a supplement.`
       - 现在，越来越多的内科医生例行一种对女性病人从血液中检测维生素D水平的方法，如果低于30毫微克每毫升，就会建议她们服用营养制剂。

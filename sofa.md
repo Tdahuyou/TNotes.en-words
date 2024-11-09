@@ -1,17 +1,22 @@
 - sofa
   - 发音
-    - 英 `/'səʊfə/`
-    - 美 `/'sofə/`
+    - 英
+      - `/'səʊfə/`
+    - 美
+      - `/'sofə/`
   - 词义
-    - n. （长）沙发
-    - `a comfortable seat with raised arms and a back, that is wide enough for two or three people to sit on`
+    - n.
+      - （长）沙发
+        - `a comfortable seat with raised arms and a back, that is wide enough for two or three people to sit on`
   - 记忆
     - 发音记忆
   - 近义词
-    - n. [家具]沙发；长椅
-      - `lounges`
+    - n.
+      - [家具]沙发；长椅
+        - `lounges`
   - 短语
-    - `sofa bed` 沙发床，坐卧两用的长沙发 
+    - `sofa bed`
+      - 沙发床，坐卧两用的长沙发 
   - 例句
     - `He sprang up from the sofa.`
       - 他从沙发上猛然跳了起来。

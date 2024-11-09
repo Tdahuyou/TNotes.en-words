@@ -1,27 +1,38 @@
 - invariable
   - 发音
-    - 英 `/ɪn'veərɪəb(ə)l/`
-    - 美 `/ɪn'vɛrərɪəbl/`
+    - 英
+      - `/ɪn'veərɪəb(ə)l/`
+    - 美
+      - `/ɪn'vɛrərɪəbl/`
   - 词义
-    - n&a. 不变的,永恒的
+    - n&a.
+      - 不变的,永恒的
   - 同根词
     - adj.
-      - `invariant` 不变的
+      - `invariant`
+        - 不变的
     - adv.
-      - `invariably` 总是；不变地；一定地
+      - `invariably`
+        - 总是；不变地；一定地
     - n.
-      - `invariant` [数] 不变量；[计] 不变式
-      - `invariance` 不变性；不变式
-      - `invariability` 不变；不变性；安定性
-      - `invariableness` 不变
+      - `invariant`
+        - [数] 不变量；[计] 不变式
+      - `invariance`
+        - 不变性；不变式
+      - `invariability`
+        - 不变；不变性；安定性
+      - `invariableness`
+        - 不变
   - 近义词
-    - adj. 不变的；常数的
-      - `constant`
-      - `permanent`
-      - `steady`
-      - `unchanging`
-    - n. 常数；不变的东西
-      - `constant`
+    - adj.
+      - 不变的；常数的
+        - `constant`
+        - `permanent`
+        - `steady`
+        - `unchanging`
+    - n.
+      - 常数；不变的东西
+        - `constant`
   - 例句
     - `Eluding is the invariable game.`
       - 逃避是不变的游戏。

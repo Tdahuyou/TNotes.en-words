@@ -1,9 +1,12 @@
 - Oceania
   - 发音
-    - 英 `/,əʊsɪ'ɑːnɪə; -ʃɪ-/`
-    - 美 `/,oʃɪ'ænɪə/`
+    - 英
+      - `/,əʊsɪ'ɑːnɪə; -ʃɪ-/`
+    - 美
+      - `/,oʃɪ'ænɪə/`
   - 词义
-    - n. 大洋洲
+    - n.
+      - 大洋洲
   - 例句
     - `The Mummies Of The World exhibition brings together a collection of mummies and related artefacts from South America, Europe, Asia, Oceania and Egypt.`
       - 汇集了来自南美，欧洲，亚洲，大洋洲和埃及的一系列干尸和艺术品将举办全球巡回展览。

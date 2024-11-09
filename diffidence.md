@@ -1,15 +1,21 @@
 - diffidence
   - 发音
-    - 英 `/'dɪfɪd(ə)ns/`
-    - 美 `/'difidəns/`
+    - 英
+      - `/'dɪfɪd(ə)ns/`
+    - 美
+      - `/'difidəns/`
   - 词义
-    - n. 无自信；羞怯；内向
+    - n.
+      - 无自信；羞怯；内向
   - 同根词
     - adj.
-      - `diffident` 羞怯的；缺乏自信的；谦虚谨慎的
+      - `diffident`
+        - 羞怯的；缺乏自信的；谦虚谨慎的
     - adv.
-      - `diffidently` 缺乏自信地；踌躇地；羞怯地
+      - `diffidently`
+        - 缺乏自信地；踌躇地；羞怯地
   - 近义词
-    - n. 无自信；羞怯；内向
-      - `shyness`
-      - `bashfulness`
+    - n.
+      - 无自信；羞怯；内向
+        - `shyness`
+        - `bashfulness`

@@ -1,10 +1,13 @@
 - nubile
   - 发音
-    - 英 `/'nuːbaɪl/`
-    - 美 `/'njʊbɪl/`
+    - 英
+      - `/'nuːbaɪl/`
+    - 美
+      - `/'njʊbɪl/`
   - 词义
-    - adj. 适婚的；性感的
-    - `a woman who is nubile is young and sexually attractive – sometimes used humorously`
+    - adj.
+      - 适婚的；性感的
+        - `a woman who is nubile is young and sexually attractive – sometimes used humorously`
   - 记忆
     - nub(结婚) + ile → 适婚的
   - 例句

@@ -1,17 +1,22 @@
 - collation
   - 发音
-    - 英 `/kə'leɪʃ(ə)n/`
-    - 美 `/kə'leʃən/`
+    - 英
+      - `/kə'leɪʃ(ə)n/`
+    - 美
+      - `/kə'leʃən/`
   - 词义
-    - n. 校勘,整理
-    - `the act or process of collating `
+    - n.
+      - 校勘,整理
+        - `the act or process of collating `
   - 同根词
     - vt.
-      - `collate` 核对，校对；校勘
+      - `collate`
+        - 核对，校对；校勘
   - 近义词
-    - n. 校对；斋日的点心；牧师职务
-      - `lookthrough`
-      - `proofreading`
+    - n.
+      - 校对；斋日的点心；牧师职务
+        - `lookthrough`
+        - `proofreading`
   - 例句
     - `However, the collation would be wrong when the number of digits changed, so leading zeroes are provided.`
       - 不过，如果数字的位数发生了变化，整理就会发生错误， 所以要给出前导的零。

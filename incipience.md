@@ -1,17 +1,23 @@
 - incipience
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 起初,发端
+    - n.
+      - 起初,发端
   - 同根词
     - adj.
-      - `incipient` 初期的；初始的；起初的；发端的
+      - `incipient`
+        - 初期的；初始的；起初的；发端的
     - n.
-      - `incipiency` 起初；发端（等于incipience）
+      - `incipiency`
+        - 起初；发端（等于incipience）
   - 近义词
-    - n. 初期；起初， 发端
-      - `morning`
-      - `prime`
-      - `inception`
-      - `infancy`
+    - n.
+      - 初期；起初， 发端
+        - `morning`
+        - `prime`
+        - `inception`
+        - `infancy`

@@ -1,31 +1,46 @@
 - anesthesia
   - 发音
-    - 英 `/,ænɪs'θiːzɪə/`
-    - 美 `/,ænəs'θiʒə/`
+    - 英
+      - `/,ænɪs'θiːzɪə/`
+    - 美
+      - `/,ænəs'θiʒə/`
   - 词义
-    - n. 麻醉；麻木（等于anaesthesia）
+    - n.
+      - 麻醉；麻木（等于anaesthesia）
   - 记忆
     - an(无) + esthe(感觉) + sia → 无感觉 → 麻醉
   - 同根词
     - adj.
-      - `anesthetic` 麻醉的；感觉缺失的
+      - `anesthetic`
+        - 麻醉的；感觉缺失的
     - n.
-      - `anesthetic` 麻醉剂，麻药
+      - `anesthetic`
+        - 麻醉剂，麻药
     - vt.
-      - `anesthetize` 使麻醉（anaesthetize）；使麻痹
+      - `anesthetize`
+        - 使麻醉（anaesthetize）；使麻痹
   - 近义词
-    - n. [外科]麻醉；麻木（等于anaesthesia）
-      - `anaesthesia`
-      - `narcosis`
+    - n.
+      - [外科]麻醉；麻木（等于anaesthesia）
+        - `anaesthesia`
+        - `narcosis`
   - 短语
-    - `general anesthesia` n. 全身麻醉 
-    - `local anesthesia` 局部麻醉 
-    - `epidural anesthesia` 硬膜外麻醉 
-    - `intravenous anesthesia` 静脉麻醉 
-    - `regional anesthesia` 局部麻醉；传导麻醉 
-    - `spinal anesthesia` 脊髓麻醉；脊髓性感觉缺失 
-    - `anesthesia machine` 麻醉机 
-    - `inhalation anesthesia` 吸入麻醉 
+    - `general anesthesia`
+      - n. 全身麻醉 
+    - `local anesthesia`
+      - 局部麻醉 
+    - `epidural anesthesia`
+      - 硬膜外麻醉 
+    - `intravenous anesthesia`
+      - 静脉麻醉 
+    - `regional anesthesia`
+      - 局部麻醉；传导麻醉 
+    - `spinal anesthesia`
+      - 脊髓麻醉；脊髓性感觉缺失 
+    - `anesthesia machine`
+      - 麻醉机 
+    - `inhalation anesthesia`
+      - 吸入麻醉 
   - 例句
     - `Studies in rodents and monkeys have repeatedly shown that exposure to anesthesia at a very young age kills brain cells.`
       - 对于啮齿动物和猴子的研究也多次说明在年龄非常小的时候接受麻醉会杀死脑细胞。

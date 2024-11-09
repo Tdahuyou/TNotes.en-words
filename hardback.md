@@ -1,22 +1,30 @@
 - hardback
   - 发音
-    - 英 `/'hɑːdbæk/`
-    - 美 `/'hɑrd'bæk/`
+    - 英
+      - `/'hɑːdbæk/`
+    - 美
+      - `/'hɑrd'bæk/`
   - 词义
-    - n. 精装本；[图情]硬封面的书
-    - `a book that has a strong stiff cover`
-    - adj. 精装的；硬封面的
+    - n.
+      - 精装本；[图情]硬封面的书
+        - `a book that has a strong stiff cover`
+    - adj.
+      - 精装的；硬封面的
   - 同根词
     - adj.
-      - `hardcover` 精装的；硬书皮的
+      - `hardcover`
+        - 精装的；硬书皮的
     - n.
-      - `hardcover` 精装书；硬封面的书
+      - `hardcover`
+        - 精装书；硬封面的书
   - 近义词
-    - n. 精装本；[图情]硬封面的书
-      - `deluxe edition`
-    - adj. 精装的；[图情]硬封面的
-      - `casebound`
-      - `clothbound`
+    - n.
+      - 精装本；[图情]硬封面的书
+        - `deluxe edition`
+    - adj.
+      - 精装的；[图情]硬封面的
+        - `casebound`
+        - `clothbound`
   - 例句
     - `There are still traditional readers but, even for them, the hardback library books may evolve in the near future.`
       - 这仍有一般的读者，但即使是对他们来说，精装的图书在不远的未来也可能有了变化。

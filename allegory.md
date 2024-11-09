@@ -1,22 +1,30 @@
 - allegory
   - 发音
-    - 英 `/'ælɪg(ə)rɪ/`
-    - 美 `/'æləɡɔri/`
+    - 英
+      - `/'ælɪg(ə)rɪ/`
+    - 美
+      - `/'æləɡɔri/`
   - 词义
-    - n. 寓言
-    - `a story, painting etc in which the events and characters represent ideas or teach a moral lesson`
+    - n.
+      - 寓言
+        - `a story, painting etc in which the events and characters represent ideas or teach a moral lesson`
   - 同根词
     - adj.
-      - `allegorical` 讽喻的；寓言的，寓意的
-      - `allegoric` 寓言的；譬喻的
+      - `allegorical`
+        - 讽喻的；寓言的，寓意的
+      - `allegoric`
+        - 寓言的；譬喻的
     - adv.
-      - `allegorically` 寓言地；比喻地
+      - `allegorically`
+        - 寓言地；比喻地
     - vt.
-      - `allegorize` 使寓言化；以比喻的方式解释
+      - `allegorize`
+        - 使寓言化；以比喻的方式解释
   - 近义词
-    - n. 寓言
-      - `parable`
-      - `apologue`
+    - n.
+      - 寓言
+        - `parable`
+        - `apologue`
   - 例句
     - `The poem's comic allegory was transparent.`
       - 这首诗歌的喜剧性讽寓很明显。

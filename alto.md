@@ -1,16 +1,21 @@
 - alto
   - 发音
-    - 英 `/'æltəu/`
-    - 美 `/'ælto/`
+    - 英
+      - `/'æltəu/`
+    - 美
+      - `/'ælto/`
   - 词义
-    - n. 女低音；女低音歌手
-    - `a singing voice that is lower than a  soprano  , or a singer with a voice like this`
+    - n.
+      - 女低音；女低音歌手
+        - `a singing voice that is lower than a  soprano  , or a singer with a voice like this`
   - 近义词
-    - n. 女低音；男声最高音；中音乐器
-      - `contralto`
-      - `countertenor`
+    - n.
+      - 女低音；男声最高音；中音乐器
+        - `contralto`
+        - `countertenor`
   - 短语
-    - `palo alto` n. 帕洛阿尔托（美国旧金山附近城市） 
+    - `palo alto`
+      - n. 帕洛阿尔托（美国旧金山附近城市） 
   - 例句
     - `What are you, a soprano, an alto, or.`
       - 你唱什么的， 女高音， 女低音，还是。

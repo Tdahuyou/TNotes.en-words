@@ -1,21 +1,29 @@
 - appendicitis
   - 发音
-    - 英 `/ə,pendɪ'saɪtɪs/`
-    - 美 `/ə,pɛndə'saɪtɪs/`
+    - 英
+      - `/ə,pendɪ'saɪtɪs/`
+    - 美
+      - `/ə,pɛndə'saɪtɪs/`
   - 词义
-    - n. [医]阑尾炎；盲肠炎
-    - `an illness in which your  appendix  swells and causes pain`
+    - n.
+      - [医]阑尾炎；盲肠炎
+        - `an illness in which your  appendix  swells and causes pain`
   - 同根词
     - n.
-      - `appendectomy` [外科] 阑尾切除术
-      - `appendicectomy` 阑尾切除术
+      - `appendectomy`
+        - [外科] 阑尾切除术
+      - `appendicectomy`
+        - 阑尾切除术
   - 近义词
-    - n. [医]阑尾炎；盲肠炎
-      - `ecphyaditis`
-      - `caecitis`
+    - n.
+      - [医]阑尾炎；盲肠炎
+        - `ecphyaditis`
+        - `caecitis`
   - 短语
-    - `acute appendicitis` 急性阑尾炎 
-    - `chronic appendicitis` n. 慢性阑尾炎 
+    - `acute appendicitis`
+      - 急性阑尾炎 
+    - `chronic appendicitis`
+      - n. 慢性阑尾炎 
   - 例句
     - `Do I have appendicitis?`
       - 我得的是阑尾炎吗？

@@ -1,13 +1,17 @@
 - clavicle
   - 发音
-    - 英 `/'klævɪk(ə)l/`
-    - 美 `/'klævəkl/`
+    - 英
+      - `/'klævɪk(ə)l/`
+    - 美
+      - `/'klævəkl/`
   - 词义
-    - n. [解剖]锁骨
-    - `a  collar-bone `
+    - n.
+      - [解剖]锁骨
+        - `a  collar-bone `
   - 近义词
-    - n. [解剖]锁骨
-      - `collarbone`
+    - n.
+      - [解剖]锁骨
+        - `collarbone`
   - 例句
     - `The head of your arm bone (the humerus) meets your collar-bone (the clavicle) and part of the shoulder-blade (scapula).`
       - 你的手臂骨的端头（肱骨）与您的锁骨和肩膀骨片（肩胛部分）在此相遇。

@@ -1,33 +1,50 @@
 - molten
   - 发音
-    - 英 `/'moultən/`
-    - 美 `/'moltən/`
+    - 英
+      - `/'moultən/`
+    - 美
+      - `/'moltən/`
   - 词义
-    - adj. 熔化的，熔融的
-    - `molten metal or rock has been made into a liquid by being heated to a very high temperature`
+    - adj.
+      - 熔化的，熔融的
+        - `molten metal or rock has been made into a liquid by being heated to a very high temperature`
   - 同根词
     - n.
-      - `molt` 换毛；脱皮；换毛期
-      - `molting` 蜕皮；换羽
+      - `molt`
+        - 换毛；脱皮；换毛期
+      - `molting`
+        - 蜕皮；换羽
     - v.
-      - `molting` 脱毛；换羽（molt的ing形式）
+      - `molting`
+        - 脱毛；换羽（molt的ing形式）
     - vi.
-      - `molt` 脱毛；换毛
+      - `molt`
+        - 脱毛；换毛
     - vt.
-      - `molt` 脱毛；换毛
+      - `molt`
+        - 脱毛；换毛
   - 近义词
-    - adj. 熔化的；铸造的；炽热的
-      - `fusional`
-      - `fused`
+    - adj.
+      - 熔化的；铸造的；炽热的
+        - `fusional`
+        - `fused`
   - 短语
-    - `molten steel` 钢水 
-    - `molten iron` 铁水；熔铁 
-    - `molten metal` 熔融金属；熔态金属；金属熔液 
-    - `molten salt` 熔盐 
-    - `molten pool` 熔池 
-    - `molten slag` 熔渣；熔化熔渣 
-    - `molten rock` n. 熔岩；熔融岩石 
-    - `molten glass` 玻璃液；熔化玻璃；熔融态玻璃 
+    - `molten steel`
+      - 钢水 
+    - `molten iron`
+      - 铁水；熔铁 
+    - `molten metal`
+      - 熔融金属；熔态金属；金属熔液 
+    - `molten salt`
+      - 熔盐 
+    - `molten pool`
+      - 熔池 
+    - `molten slag`
+      - 熔渣；熔化熔渣 
+    - `molten rock`
+      - n. 熔岩；熔融岩石 
+    - `molten glass`
+      - 玻璃液；熔化玻璃；熔融态玻璃 
   - 例句
     - `molten iron`
       - 熔铁

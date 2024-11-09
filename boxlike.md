@@ -1,22 +1,32 @@
 - boxlike
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - adj. 象箱子一样的
+    - adj.
+      - 象箱子一样的
   - 同根词
     - adj.
-      - `boxed` 醉酒的
+      - `boxed`
+        - 醉酒的
     - n.
-      - `box` 箱，盒子；包厢；一拳
-      - `boxing` 拳击；装箱；围模；做箱的材料
+      - `box`
+        - 箱，盒子；包厢；一拳
+      - `boxing`
+        - 拳击；装箱；围模；做箱的材料
     - v.
-      - `boxing` 将…装入盒中（box的ing形式）
-      - `boxed` 装箱（box的过去分词）
+      - `boxing`
+        - 将…装入盒中（box的ing形式）
+      - `boxed`
+        - 装箱（box的过去分词）
     - vi.
-      - `box` 拳击
+      - `box`
+        - 拳击
     - vt.
-      - `box` 拳击；装…入盒中；打耳光
+      - `box`
+        - 拳击；装…入盒中；打耳光
   - 例句
     - `Then he lifted his shirt to reveal a heavy, boxlike device dangling from his neck.`
       - 说完之后，他掀开他的衣领，露出一个悬挂在他脖子上的沉重的，盒子样的装置。

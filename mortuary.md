@@ -1,18 +1,24 @@
 - mortuary
   - 发音
-    - 英 `/'mɔːtjʊərɪ; -tʃʊ-/`
-    - 美 `/'mɔrtʃuɛri/`
+    - 英
+      - `/'mɔːtjʊərɪ; -tʃʊ-/`
+    - 美
+      - `/'mɔrtʃuɛri/`
   - 词义
-    - n. 太平间；停尸间
-    - `a building or room, for example in a hospital, where dead bodies are kept before they are buried or  cremate d `
-    - adj. 死的；悲哀的
-    - `connected with death or funerals`
+    - n.
+      - 太平间；停尸间
+        - `a building or room, for example in a hospital, where dead bodies are kept before they are buried or  cremate d `
+    - adj.
+      - 死的；悲哀的
+        - `connected with death or funerals`
   - 近义词
-    - n. 太平间；停尸间
-      - `reposing room`
-    - adj. 死的；悲哀的
-      - `sad`
-      - `belly-up`
+    - n.
+      - 太平间；停尸间
+        - `reposing room`
+    - adj.
+      - 死的；悲哀的
+        - `sad`
+        - `belly-up`
   - 例句
     - `If you try any monkey tricks with me, I will shoot you right away, and your family can come and collect your body in the mortuary.`
       - 如果你们谁敢跟我耍花样，我现在就枪毙了他，他的家人可以等着到太平间里认领他的尸体。

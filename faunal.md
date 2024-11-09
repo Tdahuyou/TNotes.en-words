@@ -1,9 +1,12 @@
 - faunal
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - adj. 动物区系的
+    - adj.
+      - 动物区系的
   - 例句
     - `Nor do we have an idea as to the timing of these faunal connections.`
       - 我们也不知道这些动物物种联系的时间表。

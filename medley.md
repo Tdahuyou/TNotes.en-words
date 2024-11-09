@@ -1,24 +1,32 @@
 - medley
   - 发音
-    - 英 `/'medli/`
-    - 美 `/'mɛdli/`
+    - 英
+      - `/'medli/`
+    - 美
+      - `/'mɛdli/`
   - 词义
-    - adj. 混合的，拼凑的
-    - n. 混合，混杂；集成曲
-    - `a group of songs or tunes sung or played one after the other as a single piece of music`
+    - adj.
+      - 混合的，拼凑的
+    - n.
+      - 混合，混杂；集成曲
+        - `a group of songs or tunes sung or played one after the other as a single piece of music`
   - 近义词
-    - n. 混合；混杂；混合物
-      - `mixture`
-      - `mix`
-      - `hybrid`
-      - `compound`
-    - adj. 混合的；拼凑的
-      - `mixed`
-      - `hybrid`
-      - `compound`
+    - n.
+      - 混合；混杂；混合物
+        - `mixture`
+        - `mix`
+        - `hybrid`
+        - `compound`
+    - adj.
+      - 混合的；拼凑的
+        - `mixed`
+        - `hybrid`
+        - `compound`
   - 短语
-    - `individual medley` 个人混合泳，个人混和式 
-    - `medley relay` 混合泳；混合泳接力 
+    - `individual medley`
+      - 个人混合泳，个人混和式 
+    - `medley relay`
+      - 混合泳；混合泳接力 
   - 例句
     - `On Sunday, he won the 200-meter individual medley and said he needs more practice.`
       - 星期天，他赢得了200米个人混合泳，并表示他需要更多的练习。

@@ -1,18 +1,24 @@
 - intrepidity
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 无畏
+    - n.
+      - 无畏
   - 同根词
     - adj.
-      - `intrepid` 无畏的；勇敢的；勇猛的
+      - `intrepid`
+        - 无畏的；勇敢的；勇猛的
     - adv.
-      - `intrepidly` 勇猛地；无畏地
+      - `intrepidly`
+        - 勇猛地；无畏地
   - 近义词
-    - n. 无畏；大胆
-      - `fearlessness`
-      - `boldness`
+    - n.
+      - 无畏；大胆
+        - `fearlessness`
+        - `boldness`
   - 例句
     - `Due to his intrepidity he may be the last hope of the village.`
       - 因为由于他的无畏他可能是村幸免的最后一个希望。

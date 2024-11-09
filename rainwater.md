@@ -1,14 +1,18 @@
 - rainwater
   - 发音
-    - 英 `/'reɪnwɔːtə/`
-    - 美 `/'renwɔtɚ/`
+    - 英
+      - `/'reɪnwɔːtə/`
+    - 美
+      - `/'renwɔtɚ/`
   - 词义
-    - n. 雨水
-    - `water that has fallen as rain`
+    - n.
+      - 雨水
+        - `water that has fallen as rain`
   - 近义词
-    - n. 雨水；软水
-      - `the rains`
-      - `stormwater`
+    - n.
+      - 雨水；软水
+        - `the rains`
+        - `stormwater`
   - 例句
     - `Farmers say they need less rainwater if they use fertilizer trees.`
       - 农民们说，如果它们使用肥料树，就只需要很少的雨水。

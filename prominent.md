@@ -1,27 +1,35 @@
 - prominent
   - 发音
-    - 英 `/'prɑːmɪnənt/`
-    - 美 `/'prɑmɪnənt/`
+    - 英
+      - `/'prɑːmɪnənt/`
+    - 美
+      - `/'prɑmɪnənt/`
   - 词义
-    - adj. 卓著的，杰出的；突起的，凸出的
-    - `important`
+    - adj.
+      - 卓著的，杰出的；突起的，凸出的
+        - `important`
   - 记忆
     - pro(向前) + min(突出) + ent → 向前突出的 → 突起的； 卓著的
   - 同根词
     - adv.
-      - `prominently` 显著地
+      - `prominently`
+        - 显著地
     - n.
-      - `prominence` 突出；显著；突出物；卓越
+      - `prominence`
+        - 突出；显著；突出物；卓越
   - 近义词
-    - adj. 突出的，显著的；杰出的；卓越的
-      - `obvious`
-      - `excellent`
-      - `remarkable`
-      - `brilliant`
-      - `marked`
+    - adj.
+      - 突出的，显著的；杰出的；卓越的
+        - `obvious`
+        - `excellent`
+        - `remarkable`
+        - `brilliant`
+        - `marked`
   - 短语
-    - `prominent feature` 突出特征；显著地物 
-    - `prominent character` 主要特性 
+    - `prominent feature`
+      - 突出特征；显著地物 
+    - `prominent character`
+      - 主要特性 
   - 例句
     - `a prominent Russian scientist`
       - 杰出的俄罗斯科学家

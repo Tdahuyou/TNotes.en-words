@@ -1,22 +1,32 @@
 - volatility
   - 发音
-    - 英 `/,vɒlə'tɪlətɪ/`
-    - 美 `/,vɑlə'tɪləti/`
+    - 英
+      - `/,vɒlə'tɪlətɪ/`
+    - 美
+      - `/,vɑlə'tɪləti/`
   - 词义
-    - n. 挥发性
+    - n.
+      - 挥发性
   - 同根词
     - adj.
-      - `volatile` [化学] 挥发性的；不稳定的；爆炸性的；反覆无常的
-      - `volatilizable` 可发散的；易挥发的
+      - `volatile`
+        - [化学] 挥发性的；不稳定的；爆炸性的；反覆无常的
+      - `volatilizable`
+        - 可发散的；易挥发的
     - n.
-      - `volatile` 挥发物；有翅的动物
+      - `volatile`
+        - 挥发物；有翅的动物
     - vi.
-      - `volatilize` 挥发
+      - `volatilize`
+        - 挥发
     - vt.
-      - `volatilize` 使挥发；使发散
+      - `volatilize`
+        - 使挥发；使发散
   - 近义词
-    - n. [化学]挥发性；[计]易变；活泼
-      - `animation`
-      - `brightness`
+    - n.
+      - [化学]挥发性；[计]易变；活泼
+        - `animation`
+        - `brightness`
   - 短语
-    - `relative volatility` 相对挥发度 
+    - `relative volatility`
+      - 相对挥发度 

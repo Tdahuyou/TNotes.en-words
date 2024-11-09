@@ -1,16 +1,21 @@
 - seaweed
   - 发音
-    - 英 `/'siːwiːd/`
-    - 美 `/'si'wid/`
+    - 英
+      - `/'siːwiːd/`
+    - 美
+      - `/'si'wid/`
   - 词义
-    - n. 海草,海藻
-    - `a plant that grows in the sea`
+    - n.
+      - 海草,海藻
+        - `a plant that grows in the sea`
   - 近义词
-    - n. 海藻，[植]海草
-      - `varech`
-      - `sea wrack`
+    - n.
+      - 海藻，[植]海草
+        - `varech`
+        - `sea wrack`
   - 短语
-    - `seaweed soup` 紫菜汤 
+    - `seaweed soup`
+      - 紫菜汤 
   - 例句
     - `So the next time you see a chunk of seaweed ... notice the beauty of it, yes.`
       - 所以下次你碰见一大片海藻时，要毫不犹豫的欣赏它的美。

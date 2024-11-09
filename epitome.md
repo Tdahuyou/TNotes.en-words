@@ -1,23 +1,29 @@
 - epitome
   - 发音
-    - 英 `/ɪ'pɪtəmi/`
-    - 美 `/ɪ'pɪtəmi/`
+    - 英
+      - `/ɪ'pɪtəmi/`
+    - 美
+      - `/ɪ'pɪtəmi/`
   - 词义
-    - n. 摘要，梗概；典型，典范
-    - `If you say that a person or thing is the epitome of something, you are emphasizing that they are the best possible example of it`
+    - n.
+      - 摘要，梗概；典型，典范
+        - `If you say that a person or thing is the epitome of something, you are emphasizing that they are the best possible example of it`
   - 记忆
     - epi(在…上面) + tom(切) + e → 切下来放在上面 → 摘要， 梗概； 典型
   - 同根词
     - vt.
-      - `epitomize` 摘要；概括；成为…的缩影
-      - `epitomise` 象征；体现；代表（等于epitomize）
+      - `epitomize`
+        - 摘要；概括；成为…的缩影
+      - `epitomise`
+        - 象征；体现；代表（等于epitomize）
   - 近义词
-    - n. 缩影；[图情]摘要；象征
-      - `symbol`
-      - `abstract`
-      - `brief`
-      - `summary`
-      - `significant`
+    - n.
+      - 缩影；[图情]摘要；象征
+        - `symbol`
+        - `abstract`
+        - `brief`
+        - `summary`
+        - `significant`
   - 例句
     - `Maureen was the epitome of sophistication.`
       - 莫琳曾是老于世故的典型。

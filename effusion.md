@@ -1,27 +1,37 @@
 - effusion
   - 发音
-    - 英 `/i'fjuːʒn/`
-    - 美 `/ɪ'fjuʒn/`
+    - 英
+      - `/i'fjuːʒn/`
+    - 美
+      - `/ɪ'fjuʒn/`
   - 词义
-    - n. 溢出，泻出
-    - `a liquid or gas that flows out of something, or the act of flowing out`
+    - n.
+      - 溢出，泻出
+        - `a liquid or gas that flows out of something, or the act of flowing out`
   - 记忆
     - effus (e) (泻出) + ion (表示名词) → 泻出
   - 同根词
     - adj.
-      - `effusive` 流出的；感情横溢的
-      - `effuse` [植] 疏展的
+      - `effusive`
+        - 流出的；感情横溢的
+      - `effuse`
+        - [植] 疏展的
     - vi.
-      - `effuse` 流出；涌出；泻出
+      - `effuse`
+        - 流出；涌出；泻出
     - vt.
-      - `effuse` 流出；涌出；泻出
+      - `effuse`
+        - 流出；涌出；泻出
   - 近义词
-    - n. [医]渗出；泻出；渗漏物
-      - `leakage`
-      - `exudation`
+    - n.
+      - [医]渗出；泻出；渗漏物
+        - `leakage`
+        - `exudation`
   - 短语
-    - `pleural effusion` [医]胸膜积液；胸膜渗漏 
-    - `pericardial effusion` [医]心包积液；心包渗漏 
+    - `pleural effusion`
+      - [医]胸膜积液；胸膜渗漏 
+    - `pericardial effusion`
+      - [医]心包积液；心包渗漏 
   - 例句
     - `a massive effusion of poisonous gas`
       - 毒气的大量逸出

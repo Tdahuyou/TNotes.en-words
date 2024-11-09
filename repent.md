@@ -1,29 +1,40 @@
 - repent
   - 发音
-    - 英 `/rɪ'pent/`
-    - 美 `/rɪ'pɛnt/`
+    - 英
+      - `/rɪ'pent/`
+    - 美
+      - `/rɪ'pɛnt/`
   - 词义
-    - v. 后悔；忏悔
-    - `to be sorry for something and wish you had not done it – used especially when considering your actions in a religious way`
-    - adj. [植]匍匐生根的；[动]爬行的
-    - `lying or creeping along the ground; reptant `
+    - v.
+      - 后悔；忏悔
+        - `to be sorry for something and wish you had not done it – used especially when considering your actions in a religious way`
+    - adj.
+      - [植]匍匐生根的；[动]爬行的
+        - `lying or creeping along the ground; reptant `
   - 同根词
     - adj.
-      - `repentant` 悔改的；后悔的
+      - `repentant`
+        - 悔改的；后悔的
     - adv.
-      - `repentantly` 悔悟地；后悔地
+      - `repentantly`
+        - 悔悟地；后悔地
     - n.
-      - `repentance` 悔改；后悔
+      - `repentance`
+        - 悔改；后悔
   - 近义词
-    - vi. 后悔；忏悔
-      - `rue`
-    - vt. 后悔；对…感到后悔
-      - `regret`
-    - adj. [植]匍匐生根的；[动]爬行的
-      - `acrawl`
-      - `creepy`
+    - vi.
+      - 后悔；忏悔
+        - `rue`
+    - vt.
+      - 后悔；对…感到后悔
+        - `regret`
+    - adj.
+      - [植]匍匐生根的；[动]爬行的
+        - `acrawl`
+        - `creepy`
   - 短语
-    - `repent of` v. 后悔 
+    - `repent of`
+      - v. 后悔 
   - 例句
     - `Those who refuse to repent, he said, will be punished.`
       - 他说，那些不肯悔悟的人将受到惩罚。

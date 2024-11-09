@@ -1,14 +1,18 @@
 - sibyl
   - 发音
-    - 英 `/'sɪbl/`
-    - 美 `/'sɪbl/`
+    - 英
+      - `/'sɪbl/`
+    - 美
+      - `/'sɪbl/`
   - 词义
-    - n. 女预言家，女先知
-    - `(in ancient Greece and Rome) any of a number of women believed to be oracles or prophetesses, one of the most famous being the sibyl of Cumae, who guided Aeneas through the underworld `
+    - n.
+      - 女预言家，女先知
+        - `(in ancient Greece and Rome) any of a number of women believed to be oracles or prophetesses, one of the most famous being the sibyl of Cumae, who guided Aeneas through the underworld `
   - 近义词
-    - n. 女巫；女预言家
-      - `sybil`
-      - `hag`
+    - n.
+      - 女巫；女预言家
+        - `sybil`
+        - `hag`
   - 例句
     - `The sibyl prophesied victory.`
       - 女预言家预言胜利。

@@ -1,22 +1,30 @@
 - spiteful
   - 发音
-    - 英 `/'spaɪtfʊl; -f(ə)l/`
-    - 美 `/'spaɪtfl/`
+    - 英
+      - `/'spaɪtfʊl; -f(ə)l/`
+    - 美
+      - `/'spaɪtfl/`
   - 词义
-    - adj. 怀恨的，恶意的
-    - `deliberately nasty to someone in order to hurt or upset them`
+    - adj.
+      - 怀恨的，恶意的
+        - `deliberately nasty to someone in order to hurt or upset them`
   - 同根词
     - adv.
-      - `spitefully` 怀恨地；怀有恶意地
+      - `spitefully`
+        - 怀恨地；怀有恶意地
     - n.
-      - `spite` 不顾；恶意；怨恨
-      - `spitefulness` 怀恨在心；充满恶意
+      - `spite`
+        - 不顾；恶意；怨恨
+      - `spitefulness`
+        - 怀恨在心；充满恶意
     - vt.
-      - `spite` 刁难；使恼怒
+      - `spite`
+        - 刁难；使恼怒
   - 近义词
-    - adj. 怀恨的，恶意的
-      - `malicious`
-      - `vicious`
+    - adj.
+      - 怀恨的，恶意的
+        - `malicious`
+        - `vicious`
   - 例句
     - `She was spiteful and unkind, both to Isabel and to her son.`
       - 她又恶毒又刻薄，对伊莎贝尔这样，对她的儿子也这样。

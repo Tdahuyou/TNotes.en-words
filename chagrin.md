@@ -1,21 +1,27 @@
 - chagrin
   - 发音
-    - 英 `/ʃə'grɪn/`
-    - 美 `/ʃə'ɡrɪn/`
+    - 英
+      - `/ʃə'grɪn/`
+    - 美
+      - `/ʃə'ɡrɪn/`
   - 词义
-    - n. 懊恼，失望
-    - `annoyance and disappointment because something has not happened the way you hoped`
+    - n.
+      - 懊恼，失望
+        - `annoyance and disappointment because something has not happened the way you hoped`
   - 记忆
     - cha(拼音： 茶) + grin(苦笑) → 喝茶苦笑 → 懊恼， 失望
   - 同根词
     - adj.
-      - `chagrined` 苦恼的；失望的
+      - `chagrined`
+        - 苦恼的；失望的
     - v.
-      - `chagrined` 使懊恼（chagrin的过去分词）
+      - `chagrined`
+        - 使懊恼（chagrin的过去分词）
   - 近义词
-    - n. 懊恼；委屈；气愤
-      - `complaint`
-      - `grievance`
+    - n.
+      - 懊恼；委屈；气愤
+        - `complaint`
+        - `grievance`
   - 例句
     - `To the chagrin of their parents, neither Phil nor Pam went to church anymore.`
       - 令父母失望的是，菲尔和帕姆都再也不去教堂了。

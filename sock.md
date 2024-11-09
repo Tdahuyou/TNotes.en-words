@@ -1,23 +1,30 @@
 - sock
   - 发音
-    - 英 `/sɒk/`
-    - 美 `/sɑk/`
+    - 英
+      - `/sɒk/`
+    - 美
+      - `/sɑk/`
   - 词义
-    - n. 短袜
-    - `a piece of clothing made of soft material that you wear on your foot inside your shoe`
+    - n.
+      - 短袜
+        - `a piece of clothing made of soft material that you wear on your foot inside your shoe`
   - 记忆
     - 穿着短袜(sock)踢足球(soccer)
   - 近义词
-    - n. [服装]短袜；一击
-      - `bobbysocks`
-      - `anklet`
-    - vt. 重击；给……穿袜
-      - `pound on`
-      - `gang bang`
-    - adv. 正着地；不偏不倚地
-      - `smack-dab`
+    - n.
+      - [服装]短袜；一击
+        - `bobbysocks`
+        - `anklet`
+    - vt.
+      - 重击；给……穿袜
+        - `pound on`
+        - `gang bang`
+    - adv.
+      - 正着地；不偏不倚地
+        - `smack-dab`
   - 短语
-    - `sock in` vt. 阻止…飞行；关闭…不许飞机起落 
+    - `sock in`
+      - vt. 阻止…飞行；关闭…不许飞机起落 
   - 例句
     - `a pair of socks`
       - 一双短袜

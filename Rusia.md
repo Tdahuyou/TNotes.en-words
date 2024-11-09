@@ -1,7 +1,9 @@
 - Rusia
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
   - 例句
     - `Jose Nazario of Arbor Networks in Lexington noticed a stream of data directed at Georgian government sites containing the message: “win+love+in+Rusia.”`

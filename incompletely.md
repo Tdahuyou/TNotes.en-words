@@ -1,12 +1,16 @@
 - incompletely
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - adv. 不完全地
+    - adv.
+      - 不完全地
   - 近义词
-    - adv. 不完全地
-      - `lamely`
+    - adv.
+      - 不完全地
+        - `lamely`
   - 例句
     - `Carbon monoxide is released when carbon in fuel—both plants and fossil fuels like gasoline—burns incompletely.`
       - 当作为燃料的碳——包括植物和化石燃料比如汽油——不完全燃烧时，就会产生一氧化碳。

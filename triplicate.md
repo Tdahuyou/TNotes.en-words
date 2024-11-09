@@ -1,18 +1,24 @@
 - triplicate
   - 发音
-    - 英 `/'triplikət/`
-    - 美 `/'trɪplɪkət/`
+    - 英
+      - `/'triplikət/`
+    - 美
+      - `/'trɪplɪkət/`
   - 词义
-    - adj. 一式三份的
-    - n. 第三份；第二副本
-    - `if a document is in triplicate, there are three copies of it`
+    - adj.
+      - 一式三份的
+    - n.
+      - 第三份；第二副本
+        - `if a document is in triplicate, there are three copies of it`
   - 记忆
     - tri(三) + pli(充满， 满的) + cate → 一式三份的
   - 同根词
     - adj.
-      - `tripartite` 三重的；分成三部分的；一式三份的
+      - `tripartite`
+        - 三重的；分成三部分的；一式三份的
   - 短语
-    - `in triplicate` 一式三份 
+    - `in triplicate`
+      - 一式三份 
   - 例句
     - `This application in triplicate will be retained respectively by personnel department, public security department and the applicant.`
       - 此表一式三份，人事行政部门、公安部门、申请单位或个人各存一份。

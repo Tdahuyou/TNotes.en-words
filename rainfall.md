@@ -1,32 +1,48 @@
 - rainfall
   - 发音
-    - 英 `/'reɪnfɔːl/`
-    - 美 `/'ren'fɔl/`
+    - 英
+      - `/'reɪnfɔːl/`
+    - 美
+      - `/'ren'fɔl/`
   - 词义
-    - n. 降雨；降雨量
-    - `the amount of rain that falls on an area in a particular period of time`
+    - n.
+      - 降雨；降雨量
+        - `the amount of rain that falls on an area in a particular period of time`
   - 记忆
     - rain(雨) + fall(下降) → 降雨
   - 同根词
     - adj.
-      - `rainmaking` 求雨的；造雨的
+      - `rainmaking`
+        - 求雨的；造雨的
     - n.
-      - `raininess` 多雨；雨量强度
-      - `rainmaking` 求雨；[气象] 人工降雨；翻云覆雨；使受委托人得到政治好处
+      - `raininess`
+        - 多雨；雨量强度
+      - `rainmaking`
+        - 求雨；[气象] 人工降雨；翻云覆雨；使受委托人得到政治好处
   - 近义词
-    - n. [气象]降雨；降雨量
-      - `moisture`
-      - `precip`
+    - n.
+      - [气象]降雨；降雨量
+        - `moisture`
+        - `precip`
   - 短语
-    - `rainfall intensity` 降雨强度；降水强度；暴雨强度 
-    - `abundant rainfall` 过量降雨 
-    - `rainfall amount` 雨量 
-    - `rainfall distribution` 雨量分布 
-    - `storm rainfall` 暴雨；风暴雨；暴雨量 
-    - `monsoon rainfall` 季风降雨；季风降水；季风雨量 
-    - `rainfall duration` 降雨持续时间，降雨历时 
-    - `lack of rainfall` 缺雨，少雨 
-    - `moderate rainfall` 适度降雨量；中等雨量 
+    - `rainfall intensity`
+      - 降雨强度；降水强度；暴雨强度 
+    - `abundant rainfall`
+      - 过量降雨 
+    - `rainfall amount`
+      - 雨量 
+    - `rainfall distribution`
+      - 雨量分布 
+    - `storm rainfall`
+      - 暴雨；风暴雨；暴雨量 
+    - `monsoon rainfall`
+      - 季风降雨；季风降水；季风雨量 
+    - `rainfall duration`
+      - 降雨持续时间，降雨历时 
+    - `lack of rainfall`
+      - 缺雨，少雨 
+    - `moderate rainfall`
+      - 适度降雨量；中等雨量 
   - 例句
     - `We’ve had a long period of low rainfall.`
       - 我们已有很长一段时间雨量偏低。

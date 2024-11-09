@@ -1,25 +1,35 @@
 - inhale
   - 发音
-    - 英 `/ɪn'heɪl/`
-    - 美 `/ɪn'hel/`
+    - 英
+      - `/ɪn'heɪl/`
+    - 美
+      - `/ɪn'hel/`
   - 词义
-    - v. 吸入；猛吃猛喝
-    - `to breathe in air, smoke, or gas`
+    - v.
+      - 吸入；猛吃猛喝
+        - `to breathe in air, smoke, or gas`
   - 同根词
     - adj.
-      - `inhalant` 供吸入的
+      - `inhalant`
+        - 供吸入的
     - n.
-      - `inhalation` 吸入；吸入药剂
-      - `inhaler` [临床] 吸入器；空气过滤器；吸入者
-      - `inhalant` 吸入剂；吸入器
-      - `inhalator` [临床] 吸入器；人工呼吸补助器
+      - `inhalation`
+        - 吸入；吸入药剂
+      - `inhaler`
+        - [临床] 吸入器；空气过滤器；吸入者
+      - `inhalant`
+        - 吸入剂；吸入器
+      - `inhalator`
+        - [临床] 吸入器；人工呼吸补助器
   - 近义词
-    - vt. 吸入；猛吃猛喝
-      - `inbreathe`
-      - `to breathe in`
-    - vi. 吸气
-      - `air intake`
-      - `to breathe in`
+    - vt.
+      - 吸入；猛吃猛喝
+        - `inbreathe`
+        - `to breathe in`
+    - vi.
+      - 吸气
+        - `air intake`
+        - `to breathe in`
   - 例句
     - `It is dangerous to inhale ammonia fumes.`
       - 吸入氨气是很危险的。

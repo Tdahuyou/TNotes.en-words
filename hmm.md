@@ -1,6 +1,9 @@
 - hmm
   - 发音
-    - 英 `/(h)m/`
-    - 美 `/undefined/`
+    - 英
+      - `/(h)m/`
+    - 美
+      - `/undefined/`
   - 词义
-    - int. 嗯
+    - int.
+      - 嗯

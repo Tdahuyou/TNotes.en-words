@@ -1,20 +1,27 @@
 - atheist
   - 发音
-    - 英 `/'eɪθɪɪst/`
-    - 美 `/'eθɪɪst/`
+    - 英
+      - `/'eɪθɪɪst/`
+    - 美
+      - `/'eθɪɪst/`
   - 词义
-    - n. 无神论者
-    - `An atheist is a person who believes that there is no God. Compare . `
+    - n.
+      - 无神论者
+        - `An atheist is a person who believes that there is no God. Compare . `
   - 同根词
     - adj.
-      - `atheistic` 无神论的；无神论者的
-      - `atheistical` 无神论的，不信神的；无神论者的
+      - `atheistic`
+        - 无神论的；无神论者的
+      - `atheistical`
+        - 无神论的，不信神的；无神论者的
     - n.
-      - `atheism` 不信神，无神论
+      - `atheism`
+        - 不信神，无神论
   - 近义词
-    - n. 无神论者
-      - `antitheist`
-      - `zendic`
+    - n.
+      - 无神论者
+        - `antitheist`
+        - `zendic`
   - 例句
     - `I was an atheist at the time.`
       - 那个时候我是一个无神论者。

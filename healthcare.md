@@ -1,25 +1,36 @@
 - healthcare
   - 发音
-    - 英 `/'helθ'keə/`
-    - 美 `/'hɛlθ,kɛr/`
+    - 英
+      - `/'helθ'keə/`
+    - 美
+      - `/'hɛlθ,kɛr/`
   - 词义
-    - n. 卫生保健
+    - n.
+      - 卫生保健
   - 同根词
     - [n.
-      - `healthfulness` 于健康有益；卫生
+      - `healthfulness`
+        - 于健康有益；卫生
     - adj.
-      - `healthy` 健康的，健全的；有益于健康的
-      - `healthful` 健康的；有益健康的；卫生的
+      - `healthy`
+        - 健康的，健全的；有益于健康的
+      - `healthful`
+        - 健康的；有益健康的；卫生的
     - adv.
-      - `healthily` 健康地
+      - `healthily`
+        - 健康地
     - n.
-      - `health` 健康；卫生；保健；兴旺
-      - `healthiness` 健康；健全
+      - `health`
+        - 健康；卫生；保健；兴旺
+      - `healthiness`
+        - 健康；健全
   - 近义词
-    - n. 医疗保健；健康护理，健康服务；卫生保健
-      - `health services`
+    - n.
+      - 医疗保健；健康护理，健康服务；卫生保健
+        - `health services`
   - 短语
-    - `healthcare services` 保健服务 
+    - `healthcare services`
+      - 保健服务 
   - 例句
     - `The products are usually used in healthcare area and pharmaceutical area.`
       - 产品通常用于在医疗保健领域和医药领域。

@@ -1,17 +1,23 @@
 - eighth
   - 发音
-    - 英 `/eɪtθ/`
-    - 美 `/etθ/`
+    - 英
+      - `/eɪtθ/`
+    - 美
+      - `/etθ/`
   - 词义
-    - num. 第八
-    - `one of eight equal parts of something`
+    - num.
+      - 第八
+        - `one of eight equal parts of something`
   - 同根词
     - adj.
-      - `eight` 八的
+      - `eight`
+        - 八的
     - n.
-      - `eight` 八字形
+      - `eight`
+        - 八字形
     - num.
-      - `eight` 八；八个；第八
+      - `eight`
+        - 八；八个；第八
   - 例句
     - `But the eighth most-important invention of all time?`
       - 真的是整个时代第八项最重要的发明吗？

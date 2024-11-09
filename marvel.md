@@ -1,26 +1,34 @@
 - marvel
   - 发音
-    - 英 `/'mɑːrvl/`
-    - 美 `/'mɑrvl/`
+    - 英
+      - `/'mɑːrvl/`
+    - 美
+      - `/'mɑrvl/`
   - 词义
-    - v. 对…感到惊异，大为赞叹
-    - `to feel or express great surprise or admiration at something, especially someone’s behaviour`
-    - n. 令人惊异的人，奇迹；不凡的成果
-    - `You can describe something or someone as a marvel to indicate that you think that they are wonderful`
+    - v.
+      - 对…感到惊异，大为赞叹
+        - `to feel or express great surprise or admiration at something, especially someone’s behaviour`
+    - n.
+      - 令人惊异的人，奇迹；不凡的成果
+        - `You can describe something or someone as a marvel to indicate that you think that they are wonderful`
   - 记忆
     - mar(毁坏) + vel(音似： well“好”) → 遭到彻底的毁坏再重建好， 真是奇迹 → 奇迹
   - 同根词
     - adj.
-      - `marvelous` 了不起的；非凡的；令人惊异的；不平常的
+      - `marvelous`
+        - 了不起的；非凡的；令人惊异的；不平常的
     - adv.
-      - `marvelously` 奇迹般地；不可思议地；令人惊讶地
+      - `marvelously`
+        - 奇迹般地；不可思议地；令人惊讶地
   - 近义词
-    - n. 奇迹
-      - `phenomenon`
-      - `miracle`
-      - `wonder`
+    - n.
+      - 奇迹
+        - `phenomenon`
+        - `miracle`
+        - `wonder`
   - 短语
-    - `marvel at` v. 对…惊奇 
+    - `marvel at`
+      - v. 对…惊奇 
   - 例句
     - `‘The man is a genius,’ marvelled Claire.`
       - “这人是个天才。”克莱尔赞叹道。

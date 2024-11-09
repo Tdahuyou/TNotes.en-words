@@ -1,14 +1,19 @@
 - smolder
   - 发音
-    - 英 `/'sməuldə/`
-    - 美 `/'smoldɚ/`
+    - 英
+      - `/'sməuldə/`
+    - 美
+      - `/'smoldɚ/`
   - 词义
-    - v. 郁积,闷烧
+    - v.
+      - 郁积,闷烧
   - 近义词
-    - vi. 闷烧；郁积
-      - `smoulder`
-    - n. 阴燃；闷烧
-      - `smoulder`
+    - vi.
+      - 闷烧；郁积
+        - `smoulder`
+    - n.
+      - 阴燃；闷烧
+        - `smoulder`
   - 例句
     - `What is your brand of charismatic smolder?`
       - 你的超凡魅力闷烧是什么牌子？

@@ -1,25 +1,35 @@
 - putt
   - 发音
-    - 英 `/pʌt/`
-    - 美 `/pʌt/`
+    - 英
+      - `/pʌt/`
+    - 美
+      - `/pʌt/`
   - 词义
-    - v. 短打,把球轻轻打进洞
-    - `to hit a golf ball lightly a short distance along the ground towards the hole`
+    - v.
+      - 短打,把球轻轻打进洞
+        - `to hit a golf ball lightly a short distance along the ground towards the hole`
   - 同根词
     - adj.
-      - `put` 固定不动的
+      - `put`
+        - 固定不动的
     - n.
-      - `put` 掷；笨蛋；投击；怪人
-      - `putting` 投掷；（高尔夫球）打球入洞
+      - `put`
+        - 掷；笨蛋；投击；怪人
+      - `putting`
+        - 投掷；（高尔夫球）打球入洞
     - v.
-      - `putting` 放置（put的ing形式）；轻击球；使球入洞的轻击（putt的ing形式）
+      - `putting`
+        - 放置（put的ing形式）；轻击球；使球入洞的轻击（putt的ing形式）
     - vi.
-      - `put` 出发；击；航行；发芽
+      - `put`
+        - 出发；击；航行；发芽
     - vt.
-      - `put` 放；表达；移动；安置；赋予
+      - `put`
+        - 放；表达；移动；安置；赋予
   - 近义词
-    - vt. 击球入洞
-      - `hole out`
+    - vt.
+      - 击球入洞
+        - `hole out`
   - 例句
     - `Turner, however, putted superbly, twice holing from 40 feet.`
       - 然而，特纳两次在40英尺之外漂亮地把球轻击入洞。

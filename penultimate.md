@@ -1,12 +1,16 @@
 - penultimate
   - 发音
-    - 英 `/peˈnʌltɪmət/`
-    - 美 `/pɪˈnʌltəmɪt/`
+    - 英
+      - `/peˈnʌltɪmət/`
+    - 美
+      - `/pɪˈnʌltəmɪt/`
   - 词义
-    - n. 倒数第二音节
+    - n.
+      - 倒数第二音节
   - 同根词
     - n.
-      - `penult` 倒数第二个；倒数第二音节
+      - `penult`
+        - 倒数第二个；倒数第二音节
   - 例句
     - `Running it on a valid database file, like the penultimate command in  Listing 4, gives a count of the records in the file.`
       - 在有效的数据库文件上运行它，类似  清单 4 中的倒数第二个命令, 则会提供文件中的记录数。

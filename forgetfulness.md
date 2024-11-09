@@ -1,23 +1,32 @@
 - forgetfulness
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 健忘
+    - n.
+      - 健忘
   - 同根词
     - adj.
-      - `forgetful` 健忘的；不注意的；疏忽的；使遗忘的
-      - `forgettable` 可忘记的；容易被忘的
+      - `forgetful`
+        - 健忘的；不注意的；疏忽的；使遗忘的
+      - `forgettable`
+        - 可忘记的；容易被忘的
     - adv.
-      - `forgetfully` 不注意地；健忘地
+      - `forgetfully`
+        - 不注意地；健忘地
     - vi.
-      - `forget` 忘记
+      - `forget`
+        - 忘记
     - vt.
-      - `forget` 忘记；忽略
+      - `forget`
+        - 忘记；忽略
   - 近义词
-    - n. 健忘，忽略
-      - `poor memory`
-      - `bad memory`
+    - n.
+      - 健忘，忽略
+        - `poor memory`
+        - `bad memory`
   - 例句
     - `“The bottom line question to ask is, Is your forgetfulness fundamentally interfering with how you function?`
       - "要问的底线问题是,你的健忘是否真的根本性地妨碍了你的行动?"

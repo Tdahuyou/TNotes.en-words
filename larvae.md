@@ -1,9 +1,12 @@
 - larvae
   - 发音
-    - 英 `/'lɑːviː/`
-    - 美 `/'lɑrvi/`
+    - 英
+      - `/'lɑːviː/`
+    - 美
+      - `/'lɑrvi/`
   - 词义
-    - n. 幼虫
+    - n.
+      - 幼虫
   - 例句
     - `I had some ginger powder in the house, so I tried it with the larvae.`
       - 我家里有些生姜粉，所以我就拿来试探这些幼虫。

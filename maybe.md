@@ -1,27 +1,33 @@
 - maybe
   - 发音
-    - 英 `/'meɪbiː; -bɪ/`
-    - 美 `/'mebi/`
+    - 英
+      - `/'meɪbiː; -bɪ/`
+    - 美
+      - `/'mebi/`
   - 词义
-    - adv. 也许
-    - `used to say that something may happen or may be true but you are not certain`
+    - adv.
+      - 也许
+        - `used to say that something may happen or may be true but you are not certain`
   - 记忆
     - may(可能)+be(是)→也许
   - 同根词
     - aux.
-      - `may` 可能，可以；愿意
+      - `may`
+        - 可能，可以；愿意
   - 近义词
-    - adv. 也许；可能；大概
-      - `perhaps`
-      - `possibly`
-      - `probably`
-      - `like`
-    - n. 可能性；不确定性
-      - `possibility`
-      - `probability`
-      - `feasibility`
-      - `potential`
-      - `chance`
+    - adv.
+      - 也许；可能；大概
+        - `perhaps`
+        - `possibly`
+        - `probably`
+        - `like`
+    - n.
+      - 可能性；不确定性
+        - `possibility`
+        - `probability`
+        - `feasibility`
+        - `potential`
+        - `chance`
   - 例句
     - `Maybe it’s all just a big misunderstanding.`
       - 也许这只是一个很大的误会。

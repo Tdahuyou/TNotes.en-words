@@ -1,26 +1,35 @@
 - excise
   - 发音
-    - 英 `/'eksaɪz/`
-    - 美 `/ɛk'saɪz/`
+    - 英
+      - `/'eksaɪz/`
+    - 美
+      - `/ɛk'saɪz/`
   - 词义
-    - vt. 切除；删去
-    - `to remove or get rid of something, especially by cutting it out`
+    - vt.
+      - 切除；删去
+        - `to remove or get rid of something, especially by cutting it out`
   - 记忆
     - ex(出) + cis(切) + e → 切除
   - 同根词
     - n.
-      - `excision` 删除，切除；切除之物
-      - `exciseman` 收税官
+      - `excision`
+        - 删除，切除；切除之物
+      - `exciseman`
+        - 收税官
   - 近义词
-    - vt. 切除；收税
-      - `resect`
-      - `abscise`
-    - n. [税收]消费税；货物税
-      - `consumption tax`
-      - `goods tax`
+    - vt.
+      - 切除；收税
+        - `resect`
+        - `abscise`
+    - n.
+      - [税收]消费税；货物税
+        - `consumption tax`
+        - `goods tax`
   - 短语
-    - `excise tax` 消费税；特许权税 
-    - `excise office` 税务署 
+    - `excise tax`
+      - 消费税；特许权税 
+    - `excise office`
+      - 税务署 
   - 例句
     - `The tumour was excised.`
       - 肿瘤被切除了。

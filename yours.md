@@ -1,13 +1,18 @@
 - yours
   - 发音
-    - 英 `/jɔːz; jʊəz/`
-    - 美 `/jʊrz/`
+    - 英
+      - `/jɔːz; jʊəz/`
+    - 美
+      - `/jʊrz/`
   - 词义
-    - pron. 你（们）的
-    - `used when speaking or writing to one or more people to refer to something that belongs to them or is connected with them`
+    - pron.
+      - 你（们）的
+        - `used when speaking or writing to one or more people to refer to something that belongs to them or is connected with them`
   - 短语
-    - `of yours` 你(们)的；属于你(们)的 
-    - `all yours` 拿去吧 
+    - `of yours`
+      - 你(们)的；属于你(们)的 
+    - `all yours`
+      - 拿去吧 
   - 例句
     - `This is our room, and yours is just across the hall.`
       - 这是我们的房间，你们的在走廊那边。

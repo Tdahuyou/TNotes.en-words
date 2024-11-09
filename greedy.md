@@ -1,23 +1,30 @@
 - greedy
   - 发音
-    - 英 `/'griːdɪ/`
-    - 美 `/'gridi/`
+    - 英
+      - `/'griːdɪ/`
+    - 美
+      - `/'gridi/`
   - 词义
-    - adj. 贪婪的
-    - `always wanting more food, money, power, possessions etc than you need`
+    - adj.
+      - 贪婪的
+        - `always wanting more food, money, power, possessions etc than you need`
   - 同根词
     - adv.
-      - `greedily` 贪婪地；贪食地
+      - `greedily`
+        - 贪婪地；贪食地
     - n.
-      - `greed` 贪婪，贪心
-      - `greediness` 贪吃；贪欲；嘴馋
+      - `greed`
+        - 贪婪，贪心
+      - `greediness`
+        - 贪吃；贪欲；嘴馋
   - 近义词
-    - adj. 贪婪的；贪吃的；渴望的
-      - `eager`
-      - `hungry`
-      - `anxious`
-      - `desired`
-      - `sick`
+    - adj.
+      - 贪婪的；贪吃的；渴望的
+        - `eager`
+        - `hungry`
+        - `anxious`
+        - `desired`
+        - `sick`
   - 例句
     - `a greedy and selfish society`
       - 一个贪婪自私的社会

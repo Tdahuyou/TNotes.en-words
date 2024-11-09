@@ -1,7 +1,9 @@
 - Tahiti
   - 发音
-    - 英 `/tɑ:'hi:ti; tə-/`
-    - 美 `/tɑ:'hi:ti; tə-/`
+    - 英
+      - `/tɑ:'hi:ti; tə-/`
+    - 美
+      - `/tɑ:'hi:ti; tə-/`
   - 词义
   - 例句
     - `Tahiti lies in the South Pacific.`

@@ -1,46 +1,68 @@
 - exact
   - 发音
-    - 英 `/ɪg'zækt; eg-/`
-    - 美 `/ɪɡ'zækt/`
+    - 英
+      - `/ɪg'zækt; eg-/`
+    - 美
+      - `/ɪɡ'zækt/`
   - 词义
-    - adj. 准确的；确切的
-    - `completely correct in every detail`
+    - adj.
+      - 准确的；确切的
+        - `completely correct in every detail`
   - 记忆
     - ex(出) + act(做) → 做出精确的结果 → 精确的
   - 同根词
     - adj.
-      - `exacting` 严格的；苛求的；吃力的
+      - `exacting`
+        - 严格的；苛求的；吃力的
     - adv.
-      - `exactly` 恰好地；正是；精确地；正确地
+      - `exactly`
+        - 恰好地；正是；精确地；正确地
     - n.
-      - `exactitude` 正确，精确；严格，规规矩矩
-      - `exaction` 强求；勒索；榨取；苛捐杂税
-      - `exactness` 正确；精确
+      - `exactitude`
+        - 正确，精确；严格，规规矩矩
+      - `exaction`
+        - 强求；勒索；榨取；苛捐杂税
+      - `exactness`
+        - 正确；精确
     - v.
-      - `exacting` 逼取；急需（exact的ing形式）
+      - `exacting`
+        - 逼取；急需（exact的ing形式）
   - 近义词
-    - adj. 准确的，精密的；精确的
-      - `nice`
-      - `accurate`
-      - `precise`
-      - `mathematical`
-      - `strict`
-    - vt. 要求；强求；急需
-      - `require`
-      - `desire`
-      - `call for`
+    - adj.
+      - 准确的，精密的；精确的
+        - `nice`
+        - `accurate`
+        - `precise`
+        - `mathematical`
+        - `strict`
+    - vt.
+      - 要求；强求；急需
+        - `require`
+        - `desire`
+        - `call for`
   - 短语
-    - `the exact same` [非规范用语]正是同一个，正是这个；完全相同的 
-    - `exact solution` 精确解 
-    - `exact science` 精密科学（如数学、物理学、化学等） 
-    - `exact measurement` 精密测量 
-    - `be more exact` 更确切地（说） 
-    - `exact in` 对…很严谨 
-    - `exact value` 精确值，准确值 
-    - `exact match` 准确匹配 
-    - `exact quantity` 确数；正确的数量 
-    - `exact test` 精密试验 
-    - `exact formula` 精密公式 
+    - `the exact same`
+      - [非规范用语]正是同一个，正是这个；完全相同的 
+    - `exact solution`
+      - 精确解 
+    - `exact science`
+      - 精密科学（如数学、物理学、化学等） 
+    - `exact measurement`
+      - 精密测量 
+    - `be more exact`
+      - 更确切地（说） 
+    - `exact in`
+      - 对…很严谨 
+    - `exact value`
+      - 精确值，准确值 
+    - `exact match`
+      - 准确匹配 
+    - `exact quantity`
+      - 确数；正确的数量 
+    - `exact test`
+      - 精密试验 
+    - `exact formula`
+      - 精密公式 
   - 例句
     - `Police are still investigating the exact cause of the accident.`
       - 警方还在调查这起事故的确切原因。

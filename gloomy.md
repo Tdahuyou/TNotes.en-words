@@ -1,30 +1,41 @@
 - gloomy
   - 发音
-    - 英 `/'gluːmi/`
-    - 美 `/'ɡlumi/`
+    - 英
+      - `/'gluːmi/`
+    - 美
+      - `/'ɡlumi/`
   - 词义
-    - adj. 忧郁的，令人沮丧的；昏暗的，阴暗的，阴沉的
-    - `making you feel that things will not improve`
+    - adj.
+      - 忧郁的，令人沮丧的；昏暗的，阴暗的，阴沉的
+        - `making you feel that things will not improve`
   - 同根词
     - adv.
-      - `gloomily` 沮丧地；黑暗地；阴沈地
+      - `gloomily`
+        - 沮丧地；黑暗地；阴沈地
     - n.
-      - `gloom` 忧郁；阴暗
-      - `gloominess` 黑暗；沮丧
-      - `glooming` 怒容；皱眉
+      - `gloom`
+        - 忧郁；阴暗
+      - `gloominess`
+        - 黑暗；沮丧
+      - `glooming`
+        - 怒容；皱眉
     - v.
-      - `glooming` 变黑暗；变郁闷（gloom的ing形式）
+      - `glooming`
+        - 变黑暗；变郁闷（gloom的ing形式）
     - vi.
-      - `gloom` 变阴暗；变忧沉；感到沮丧
+      - `gloom`
+        - 变阴暗；变忧沉；感到沮丧
     - vt.
-      - `gloom` 使黑暗；使忧郁
+      - `gloom`
+        - 使黑暗；使忧郁
   - 近义词
-    - adj. 黑暗的；沮丧的；阴郁的
-      - `dark`
-      - `sad`
-      - `blue`
-      - `gray`
-      - `disappointed`
+    - adj.
+      - 黑暗的；沮丧的；阴郁的
+        - `dark`
+        - `sad`
+        - `blue`
+        - `gray`
+        - `disappointed`
   - 例句
     - `The report paints a gloomy picture of the economy.`
       - 这篇报告描绘了一幅惨淡的经济现状。

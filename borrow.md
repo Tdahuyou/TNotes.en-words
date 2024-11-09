@@ -1,28 +1,40 @@
 - borrow
   - 发音
-    - 英 `/'bɒrəʊ/`
-    - 美 `/'bɑro/`
+    - 英
+      - `/'bɒrəʊ/`
+    - 美
+      - `/'bɑro/`
   - 词义
-    - v. 借入；借来
-    - `to use something that belongs to someone else and that you must give back to them later`
+    - v.
+      - 借入；借来
+        - `to use something that belongs to someone else and that you must give back to them later`
   - 记忆
     - 借(borrow)钱不还， 债主心痛(sorrow)
   - 同根词
     - n.
-      - `borrower` 剽窃者，借用人
-      - `borrowing` 借款；借用
+      - `borrower`
+        - 剽窃者，借用人
+      - `borrowing`
+        - 借款；借用
     - v.
-      - `borrowing` 借入；采用（borrow的ing形式）
+      - `borrowing`
+        - 借入；采用（borrow的ing形式）
   - 近义词
-    - vt. 借；借用
-      - `loan`
-      - `scunge`
+    - vt.
+      - 借；借用
+        - `loan`
+        - `scunge`
   - 短语
-    - `borrow money` 借钱；借债 
-    - `borrow from` 向……借 
-    - `borrow trouble` 自找麻烦，杞人忧天 
-    - `ability to borrow` 借款能力；借债能力 
-    - `borrow ideas from` 借鉴 
+    - `borrow money`
+      - 借钱；借债 
+    - `borrow from`
+      - 向……借 
+    - `borrow trouble`
+      - 自找麻烦，杞人忧天 
+    - `ability to borrow`
+      - 借款能力；借债能力 
+    - `borrow ideas from`
+      - 借鉴 
   - 例句
     - `Can I borrow your pen for a minute?`
       - 我可以借你的笔用一下吗？

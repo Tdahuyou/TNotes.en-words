@@ -1,11 +1,15 @@
 - Italy
   - 发音
-    - 英 `/'ɪtəlɪ/`
-    - 美 `/'ɪtəlɪ/`
+    - 英
+      - `/'ɪtəlɪ/`
+    - 美
+      - `/'ɪtəlɪ/`
   - 词义
-    - n. 意大利(欧洲南部国家)
+    - n.
+      - 意大利(欧洲南部国家)
   - 短语
-    - `little italy` 小意大利（美国大城市的意大利移民区） 
+    - `little italy`
+      - 小意大利（美国大城市的意大利移民区） 
   - 例句
     - `They decided to swan around Italy this summer.`
       - 他们决定今年夏天去意大利游逛。

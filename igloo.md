@@ -1,10 +1,13 @@
 - igloo
   - 发音
-    - 英 `/'ɪgluː/`
-    - 美 `/'ɪglʊ/`
+    - 英
+      - `/'ɪgluː/`
+    - 美
+      - `/'ɪglʊ/`
   - 词义
-    - n. 圆顶建筑
-    - `Igloos are dome-shaped houses built from blocks of snow by the Inuit people`
+    - n.
+      - 圆顶建筑
+        - `Igloos are dome-shaped houses built from blocks of snow by the Inuit people`
   - 例句
     - `Defining the town center of Râmnicu Vâlcea is a towering shopping mall that looks like a giant glass igloo.`
       - 沃尔恰市中心的地标性建筑是一座高耸的购物商场，它看上去就像是一座巨型的玻璃圆顶建筑。

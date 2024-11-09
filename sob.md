@@ -1,27 +1,37 @@
 - sob
   - 发音
-    - 英 `/sɒb/`
-    - 美 `/sɑb/`
+    - 英
+      - `/sɒb/`
+    - 美
+      - `/sɑb/`
   - 词义
-    - v. 啜泣；抽噎
-    - `to cry noisily while breathing in short sudden bursts`
-    - n. 啜泣（声）；抽噎（声）
+    - v.
+      - 啜泣；抽噎
+        - `to cry noisily while breathing in short sudden bursts`
+    - n.
+      - 啜泣（声）；抽噎（声）
   - 记忆
     - 不要因为丢了一份工作(job)而哭泣(sob)
   - 同根词
     - adj.
-      - `sobbing` 湿透的
+      - `sobbing`
+        - 湿透的
     - adv.
-      - `sobbingly` 啜泣地；呜咽地
+      - `sobbingly`
+        - 啜泣地；呜咽地
     - v.
-      - `sobbing` 啜泣；哭诉（sob的ing形式）
+      - `sobbing`
+        - 啜泣；哭诉（sob的ing形式）
   - 近义词
-    - vi. 啜泣，呜咽；（风等）发出呜咽声
-      - `pule`
-    - n. 啜泣，呜咽
-      - `snivel`
+    - vi.
+      - 啜泣，呜咽；（风等）发出呜咽声
+        - `pule`
+    - n.
+      - 啜泣，呜咽
+        - `snivel`
   - 短语
-    - `sob story` 非常悲伤的故事 
+    - `sob story`
+      - 非常悲伤的故事 
   - 例句
     - `He began sobbing uncontrollably .`
       - 他不由自主地抽噎起来。

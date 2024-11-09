@@ -1,29 +1,40 @@
 - memorable
   - 发音
-    - 英 `/'mem(ə)rəb(ə)l/`
-    - 美 `/'mɛmərəbl/`
+    - 英
+      - `/'mem(ə)rəb(ə)l/`
+    - 美
+      - `/'mɛmərəbl/`
   - 词义
-    - adj. 难忘的,重大的
-    - `very good, enjoyable, or unusual, and worth remembering`
+    - adj.
+      - 难忘的,重大的
+        - `very good, enjoyable, or unusual, and worth remembering`
   - 同根词
     - adj.
-      - `memorial` 记忆的；纪念的，追悼的
+      - `memorial`
+        - 记忆的；纪念的，追悼的
     - adv.
-      - `memorably` 难忘地；明确地；显著地
+      - `memorably`
+        - 难忘地；明确地；显著地
     - n.
-      - `memorial` 纪念碑，纪念馆；纪念仪式；纪念物
-      - `memento` 纪念品，引起回忆的东西
-      - `memorabilia` 大事记；值得纪念的事物
-      - `memorability` 值得记忆；难忘的人
+      - `memorial`
+        - 纪念碑，纪念馆；纪念仪式；纪念物
+      - `memento`
+        - 纪念品，引起回忆的东西
+      - `memorabilia`
+        - 大事记；值得纪念的事物
+      - `memorability`
+        - 值得记忆；难忘的人
     - vt.
-      - `memorialize` 纪念；请愿；提出请愿书
+      - `memorialize`
+        - 纪念；请愿；提出请愿书
   - 近义词
-    - adj. 显著的，难忘的；值得纪念的
-      - `obvious`
-      - `prominent`
-      - `marked`
-      - `noted`
-      - `outstanding`
+    - adj.
+      - 显著的，难忘的；值得纪念的
+        - `obvious`
+        - `prominent`
+        - `marked`
+        - `noted`
+        - `outstanding`
   - 例句
     - `We want to make this a truly memorable day for the children.`
       - 我们想让今天成为孩子们永远难忘的日子。

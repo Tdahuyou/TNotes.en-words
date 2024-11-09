@@ -1,33 +1,47 @@
 - prior
   - 发音
-    - 英 `/'praɪər/`
-    - 美 `/'praɪɚ/`
+    - 英
+      - `/'praɪər/`
+    - 美
+      - `/'praɪɚ/`
   - 词义
-    - adj. 在…前的；优先的
-    - `existing or arranged before something else or before the present situation`
+    - adj.
+      - 在…前的；优先的
+        - `existing or arranged before something else or before the present situation`
   - 记忆
     - pri(=prim第一的， 首要的) + or → 优先的
   - 同根词
     - n.
-      - `priority` 优先；优先权；[数] 优先次序；优先考虑的事
+      - `priority`
+        - 优先；优先权；[数] 优先次序；优先考虑的事
     - vi.
-      - `prioritize` 把事情按优先顺序排好
+      - `prioritize`
+        - 把事情按优先顺序排好
     - vt.
-      - `prioritize` 把…区分优先次序
+      - `prioritize`
+        - 把…区分优先次序
   - 近义词
-    - adj. [数]优先的；在先的，在前的
-      - `preferred`
-      - `underlying`
-    - adv. 在前，居先
-      - `before`
-      - `antecedently`
+    - adj.
+      - [数]优先的；在先的，在前的
+        - `preferred`
+        - `underlying`
+    - adv.
+      - 在前，居先
+        - `before`
+        - `antecedently`
   - 短语
-    - `prior notice` 事先通知；预先通报 
-    - `prior art` 先前技术 
-    - `prior approval` 事先批准；预先审批；事前批准；事前许可；预先核准 
-    - `prior probability` 先验概率，事前机率 
-    - `prior period` 前期；上期 
-    - `prior condition` 先决条件 
+    - `prior notice`
+      - 事先通知；预先通报 
+    - `prior art`
+      - 先前技术 
+    - `prior approval`
+      - 事先批准；预先审批；事前批准；事前许可；预先核准 
+    - `prior probability`
+      - 先验概率，事前机率 
+    - `prior period`
+      - 前期；上期 
+    - `prior condition`
+      - 先决条件 
   - 例句
     - `You do not need any prior knowledge of the subject.`
       - 你无需事先具备该方面的知识。

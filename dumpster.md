@@ -1,16 +1,24 @@
 - dumpster
   - 发音
-    - 英 `/'dʌmpstə/`
-    - 美 `/'dʌmpstə/`
+    - 英
+      - `/'dʌmpstə/`
+    - 美
+      - `/'dʌmpstə/`
   - 词义
-    - n. 大型垃圾装卸卡车；垃圾大铁桶
-    - `A Dumpster is a large metal container for holding rubbish`
+    - n.
+      - 大型垃圾装卸卡车；垃圾大铁桶
+        - `A Dumpster is a large metal container for holding rubbish`
   - 同根词
     - n.
-      - `dump` 垃圾场
-      - `dumpcart` 倾卸车；垃圾车
-      - `dumpsite` 垃圾场；废物堆场
+      - `dump`
+        - 垃圾场
+      - `dumpcart`
+        - 倾卸车；垃圾车
+      - `dumpsite`
+        - 垃圾场；废物堆场
     - vi.
-      - `dump` 倒垃圾
+      - `dump`
+        - 倒垃圾
     - vt.
-      - `dump` 倾倒；倾卸
+      - `dump`
+        - 倾倒；倾卸

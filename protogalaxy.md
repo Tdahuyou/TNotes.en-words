@@ -1,9 +1,12 @@
 - protogalaxy
   - 发音
-    - 英 `/,prəʊtəʊ'ɡæləksɪ/`
-    - 美 `/undefined/`
+    - 英
+      - `/,prəʊtəʊ'ɡæləksɪ/`
+    - 美
+      - `/undefined/`
   - 词义
-    - abstract:. [天]原星系
+    - abstract:.
+      - [天]原星系
   - 例句
     - `CDM particles in a protogalaxy behave much the same way.`
       - 原星系中的CDM粒子就是以相同的原理运动。

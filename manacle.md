@@ -1,20 +1,26 @@
 - manacle
   - 发音
-    - 英 `/'mænək(ə)l/`
-    - 美 `/'mænəkl/`
+    - 英
+      - `/'mænək(ə)l/`
+    - 美
+      - `/'mænəkl/`
   - 词义
-    - n. 束缚；手铐
-    - `an iron ring on a chain that is put around the wrist or  ankle  of a prisoner`
-    - v. 束缚；给…上手铐
-    - `If a prisoner is manacled, their wrists or legs are put in manacles in order to prevent them from moving or escaping`
+    - n.
+      - 束缚；手铐
+        - `an iron ring on a chain that is put around the wrist or  ankle  of a prisoner`
+    - v.
+      - 束缚；给…上手铐
+        - `If a prisoner is manacled, their wrists or legs are put in manacles in order to prevent them from moving or escaping`
   - 近义词
-    - n. 束缚；手铐
-      - `chain`
-      - `restriction`
-      - `cord`
-    - vt. 束缚；给…上手铐
-      - `chain`
-      - `bound`
+    - n.
+      - 束缚；手铐
+        - `chain`
+        - `restriction`
+        - `cord`
+    - vt.
+      - 束缚；给…上手铐
+        - `chain`
+        - `bound`
   - 例句
     - `The first, of administrative action manacle .`
       - 第一，行政行为的束缚。

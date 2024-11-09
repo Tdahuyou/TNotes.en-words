@@ -1,20 +1,26 @@
 - thorn
   - 发音
-    - 英 `/θɔːrn/`
-    - 美 `/θɔrn/`
+    - 英
+      - `/θɔːrn/`
+    - 美
+      - `/θɔrn/`
   - 词义
-    - n. 刺，荆棘；带刺小灌木
-    - `a sharp point that grows on the stem of a plant such as a rose`
+    - n.
+      - 刺，荆棘；带刺小灌木
+        - `a sharp point that grows on the stem of a plant such as a rose`
   - 记忆
     - t + horn(角) → 尖尖的角 → 刺， 荆棘
   - 同根词
     - adj.
-      - `thorny` 多刺的；痛苦的；令人苦恼的
-      - `thornless` 无刺的
+      - `thorny`
+        - 多刺的；痛苦的；令人苦恼的
+      - `thornless`
+        - 无刺的
   - 近义词
-    - n. [植]刺；荆棘
-      - `thrust`
-      - `spine`
+    - n.
+      - [植]刺；荆棘
+        - `thrust`
+        - `spine`
   - 例句
     - `a long, low hedge of thorns`
       - 一长排矮矮的荆棘树篱

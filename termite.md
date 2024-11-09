@@ -1,13 +1,17 @@
 - termite
   - 发音
-    - 英 `/'tɜːmaɪt/`
-    - 美 `/'tɝmaɪt/`
+    - 英
+      - `/'tɜːmaɪt/`
+    - 美
+      - `/'tɝmaɪt/`
   - 词义
-    - n. 白蚁
-    - `an insect that eats and destroys wood from trees and buildings`
+    - n.
+      - 白蚁
+        - `an insect that eats and destroys wood from trees and buildings`
   - 近义词
-    - n. [昆]白蚁
-      - `white ant`
+    - n.
+      - [昆]白蚁
+        - `white ant`
   - 例句
     - `A German man and woman, their faces in close-up, talked about the good and essential symbiotic nature of termite mounds, with subtitles.`
       - 一个德国男人和女人的脸部特写镜头，他们在谈论白蚁堆美好而必要的共栖性特质，带字幕。

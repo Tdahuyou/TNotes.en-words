@@ -1,19 +1,23 @@
 - consortium
   - 发音
-    - 英 `/kən'sɔːtɪəm/`
-    - 美 `/kənˈsɔrʃiəm/`
+    - 英
+      - `/kən'sɔːtɪəm/`
+    - 美
+      - `/kənˈsɔrʃiəm/`
   - 词义
-    - n. 财团,联合,合伙
-    - `a group of companies or organizations who are working together to do something`
+    - n.
+      - 财团,联合,合伙
+        - `a group of companies or organizations who are working together to do something`
   - 近义词
-    - n. 财团；[生物]联合；合伙
-      - `alliance`
-      - `partnership`
-      - `combined with`
-      - `combination`
-      - `unity`
-      - `union`
-      - `association`
+    - n.
+      - 财团；[生物]联合；合伙
+        - `alliance`
+        - `partnership`
+        - `combined with`
+        - `combination`
+        - `unity`
+        - `union`
+        - `association`
   - 例句
     - `a consortium of oil companies`
       - 石油公司联合企业

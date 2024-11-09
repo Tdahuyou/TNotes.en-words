@@ -1,12 +1,16 @@
 - uncontrollably
   - 发音
-    - 英 `/undefined/`
-    - 美 `/,ʌnkən'trəuləbli/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/,ʌnkən'trəuləbli/`
   - 词义
-    - adj. 无法管束的,控制不住的
+    - adj.
+      - 无法管束的,控制不住的
   - 同根词
     - adj.
-      - `uncontrollable` 无法控制的；无法管束的；难以驾驭的
+      - `uncontrollable`
+        - 无法控制的；无法管束的；难以驾驭的
   - 例句
     - `This means your blood does not clot and you will bleed uncontrollably.`
       - 这意味着你的血液不会凝固，你会控制不住地出血。

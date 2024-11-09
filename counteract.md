@@ -1,26 +1,35 @@
 - counteract
   - 发音
-    - 英 `/ˌkauntər'ækt/`
-    - 美 `/,kaʊntɚ'ækt/`
+    - 英
+      - `/ˌkauntər'ækt/`
+    - 美
+      - `/,kaʊntɚ'ækt/`
   - 词义
-    - vt. 消除；抵消
-    - `to reduce or prevent the bad effect of something, by doing something that has the opposite effect`
+    - vt.
+      - 消除；抵消
+        - `to reduce or prevent the bad effect of something, by doing something that has the opposite effect`
   - 记忆
     - counter(反) + act(动作) → 做相反的动作 → 消除； 抵消
   - 同根词
     - adj.
-      - `counteractive` 反作用的；抵抗的；反对的
+      - `counteractive`
+        - 反作用的；抵抗的；反对的
     - n.
-      - `counterbalance` 平衡力；自动抵销
-      - `counteraction` 中和；反对的行动；抵抗；反动
-      - `counteractive` 反作用；抵抗，对抗；反对
+      - `counterbalance`
+        - 平衡力；自动抵销
+      - `counteraction`
+        - 中和；反对的行动；抵抗；反动
+      - `counteractive`
+        - 反作用；抵抗，对抗；反对
     - vt.
-      - `counterbalance` 使平衡；抵消
+      - `counterbalance`
+        - 使平衡；抵消
   - 近义词
-    - vt. 抵消；中和；阻碍
-      - `offset`
-      - `kill`
-      - `slow`
+    - vt.
+      - 抵消；中和；阻碍
+        - `offset`
+        - `kill`
+        - `slow`
   - 例句
     - `They gave him drugs to counteract his withdrawal symptoms.`
       - 他们给他服药以消除他的脱瘾症状。

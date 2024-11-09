@@ -1,27 +1,38 @@
 - amazement
   - 发音
-    - 英 `/ə'meɪzm(ə)nt/`
-    - 美 `/ə'mezmənt/`
+    - 英
+      - `/ə'meɪzm(ə)nt/`
+    - 美
+      - `/ə'mezmənt/`
   - 词义
-    - n. 惊愕,惊异
-    - `a feeling of great surprise`
+    - n.
+      - 惊愕,惊异
+        - `a feeling of great surprise`
   - 同根词
     - adj.
-      - `amazing` 令人惊异的
-      - `amazed` 惊奇的，吃惊的
+      - `amazing`
+        - 令人惊异的
+      - `amazed`
+        - 惊奇的，吃惊的
     - adv.
-      - `amazingly` 令人惊讶地；惊奇地
+      - `amazingly`
+        - 令人惊讶地；惊奇地
     - v.
-      - `amazing` 使吃惊（amaze的ing形式）
-      - `amazed` 使…吃惊；把…弄糊涂（amaze的过去分词）
+      - `amazing`
+        - 使吃惊（amaze的ing形式）
+      - `amazed`
+        - 使…吃惊；把…弄糊涂（amaze的过去分词）
     - vt.
-      - `amaze` 使吃惊
+      - `amaze`
+        - 使吃惊
   - 近义词
-    - n. 惊异；惊愕
-      - `wonder`
-      - `surprisal`
+    - n.
+      - 惊异；惊愕
+        - `wonder`
+        - `surprisal`
   - 短语
-    - `in amazement` 惊讶地，吃惊地 
+    - `in amazement`
+      - 惊讶地，吃惊地 
   - 例句
     - `I stared at her in amazement.`
       - 我惊讶地盯着她。

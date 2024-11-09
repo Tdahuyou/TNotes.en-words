@@ -1,13 +1,17 @@
 - skinflint
   - 发音
-    - 英 `/'skɪnflɪnt/`
-    - 美 `/'skɪnflɪnt/`
+    - 英
+      - `/'skɪnflɪnt/`
+    - 美
+      - `/'skɪnflɪnt/`
   - 词义
-    - n. 吝啬鬼
-    - `someone who hates spending money or giving it away – used to show disapproval`
+    - n.
+      - 吝啬鬼
+        - `someone who hates spending money or giving it away – used to show disapproval`
   - 记忆
     - skin a flint(爱财如命)
   - 近义词
-    - n. 吝啬鬼；一毛不拔的人
-      - `screw`
-      - `tightwad`
+    - n.
+      - 吝啬鬼；一毛不拔的人
+        - `screw`
+        - `tightwad`

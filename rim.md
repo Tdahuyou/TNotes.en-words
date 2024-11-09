@@ -1,27 +1,37 @@
 - rim
   - 发音
-    - 英 `/rɪm/`
-    - 美 `/rɪm/`
+    - 英
+      - `/rɪm/`
+    - 美
+      - `/rɪm/`
   - 词义
-    - n. 边，轮缘；边界
-    - `the outside edge of something circular`
-    - vt. 给…镶边
-    - `to be around the edge of something`
+    - n.
+      - 边，轮缘；边界
+        - `the outside edge of something circular`
+    - vt.
+      - 给…镶边
+        - `to be around the edge of something`
   - 记忆
     - 打靶(aim)不能打边(rim)
   - 同根词
     - adj.
-      - `rimmed` 有框的；有边缘的
-      - `rimless` 无边的；无框的
+      - `rimmed`
+        - 有框的；有边缘的
+      - `rimless`
+        - 无边的；无框的
     - v.
-      - `rimmed` 给…镶边；沿…边缘滚动；形成边缘（rim的过去分词）
+      - `rimmed`
+        - 给…镶边；沿…边缘滚动；形成边缘（rim的过去分词）
   - 近义词
-    - n. 边，边缘；轮辋；圆圈
-      - `margin`
-      - `suburb`
+    - n.
+      - 边，边缘；轮辋；圆圈
+        - `margin`
+        - `suburb`
   - 短语
-    - `pacific rim` 太平洋沿岸地区；泛太平洋 
-    - `wheel rim` 轮辋；钢圈；轮箍；轮缘 
+    - `pacific rim`
+      - 太平洋沿岸地区；泛太平洋 
+    - `wheel rim`
+      - 轮辋；钢圈；轮箍；轮缘 
   - 例句
     - `She looked at him over the rim of her glass.`
       - 她沿玻璃杯口看着他。

@@ -1,9 +1,12 @@
 - Athens
   - 发音
-    - 英 `/ˈæθɪnz/`
-    - 美 `/'æθɪnz/`
+    - 英
+      - `/ˈæθɪnz/`
+    - 美
+      - `/'æθɪnz/`
   - 词义
-    - n. 雅典(希腊首都)
+    - n.
+      - 雅典(希腊首都)
   - 例句
     - `Can you tell me something about the Acropolis in Athens?`
       - 你能给我讲一些关于雅典卫城的事吗?

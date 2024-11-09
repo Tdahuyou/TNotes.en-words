@@ -1,9 +1,12 @@
 - Henderson
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 亨德森（姓氏）
+    - n.
+      - 亨德森（姓氏）
   - 例句
     - `It was built for one of the Henderson family, right?`
       - 它是为了亨德森家族的一个成员建的，对吧？

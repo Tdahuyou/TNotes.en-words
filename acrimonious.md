@@ -1,20 +1,25 @@
 - acrimonious
   - 发音
-    - 英 `/ˌækrɪ'mouniəs/`
-    - 美 `/,ækri'məunjəs/`
+    - 英
+      - `/ˌækrɪ'mouniəs/`
+    - 美
+      - `/,ækri'məunjəs/`
   - 词义
-    - adj. 尖酸刻薄的，激烈的
-    - `an acrimonious meeting or discussion is one in which people argue a lot and get very angry`
+    - adj.
+      - 尖酸刻薄的，激烈的
+        - `an acrimonious meeting or discussion is one in which people argue a lot and get very angry`
   - 同根词
     - n.
-      - `acrimony` 辛辣；尖刻；严厉
+      - `acrimony`
+        - 辛辣；尖刻；严厉
   - 近义词
-    - adj. 严厉的；辛辣的；刻薄的
-      - `severe`
-      - `tight`
-      - `hard`
-      - `harsh`
-      - `acid`
+    - adj.
+      - 严厉的；辛辣的；刻薄的
+        - `severe`
+        - `tight`
+        - `hard`
+        - `harsh`
+        - `acid`
   - 例句
     - `The meeting ended in an acrimonious dispute.`
       - 会议在激烈的辩论中结束。

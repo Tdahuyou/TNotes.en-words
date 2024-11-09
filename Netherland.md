@@ -1,9 +1,12 @@
 - Netherland
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 荷兰
+    - n.
+      - 荷兰
   - 例句
     - `Some of the best parts of “Netherland” are Chuck’s rambling political and cultural monologues, delivered as Hans drives him around the boroughs.`
       - 《荷兰》的一些最好的部分就是恰克漫谈政治和文化时的独白，是在汉斯开车带他时发表的。

@@ -1,9 +1,12 @@
 - Stamford
   - 发音
-    - 英 `/'stæmfəd/`
-    - 美 `/'stæmfəd/`
+    - 英
+      - `/'stæmfəd/`
+    - 美
+      - `/'stæmfəd/`
   - 词义
-    - n. 斯坦福德[美国康涅狄格州西南部城市]
+    - n.
+      - 斯坦福德[美国康涅狄格州西南部城市]
   - 例句
     - `Jake: Because almost everyone in Stamford used to work at the Yale factory.`
       - 杰克： 因为过去几乎每个斯坦福德人都在耶鲁锁厂工作过。

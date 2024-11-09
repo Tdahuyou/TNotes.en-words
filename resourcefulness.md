@@ -1,16 +1,22 @@
 - resourcefulness
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 足智多谋
+    - n.
+      - 足智多谋
   - 同根词
     - adj.
-      - `resourceful` 资源丰富的；足智多谋的；机智的
+      - `resourceful`
+        - 资源丰富的；足智多谋的；机智的
     - adv.
-      - `resourcefully` 机智地
+      - `resourcefully`
+        - 机智地
     - n.
-      - `resource` 资源，财力；办法；智谋
+      - `resource`
+        - 资源，财力；办法；智谋
   - 例句
     - `What stories can you relay that show your passion, initiative and resourcefulness?`
       - 你可以讲述什么样的故事来展示你的激情，主动和足智多谋呢？

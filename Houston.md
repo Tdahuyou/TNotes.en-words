@@ -1,12 +1,17 @@
 - Houston
   - 发音
-    - 英 `/'hju:stən/`
-    - 美 `/undefined/`
+    - 英
+      - `/'hju:stən/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 休斯顿（美国城市）
+    - n.
+      - 休斯顿（美国城市）
   - 短语
-    - `houston rockets` 休士顿火箭队（NBA篮球队） 
-    - `whitney houston` 惠特尼·休斯顿（女歌手） 
+    - `houston rockets`
+      - 休士顿火箭队（NBA篮球队） 
+    - `whitney houston`
+      - 惠特尼·休斯顿（女歌手） 
   - 例句
     - `"I do think if you can do this work in Houston, then you can do it anywhere, " Spanjian says.`
       - 斯潘健说：“我认为，如果能在休斯顿开展环保项目，那么在其他任何地方都可以做到。”

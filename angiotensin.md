@@ -1,15 +1,20 @@
 - angiotensin
   - 发音
-    - 英 `/,ændʒɪə(ʊ)'tensɪn/`
-    - 美 `/,ændʒɪo'tɛnsən/`
+    - 英
+      - `/,ændʒɪə(ʊ)'tensɪn/`
+    - 美
+      - `/,ændʒɪo'tɛnsən/`
   - 词义
-    - n. [医]血管紧缩素
-    - `a peptide of physiological importance that is capable of causing constriction of blood vessels, which raises blood pressure `
+    - n.
+      - [医]血管紧缩素
+        - `a peptide of physiological importance that is capable of causing constriction of blood vessels, which raises blood pressure `
   - 近义词
-    - n. [生化]血管紧张肽；血管紧缩素
-      - `hypertensin`
+    - n.
+      - [生化]血管紧张肽；血管紧缩素
+        - `hypertensin`
   - 短语
-    - `renin angiotensin system` [生]肾活素血管紧张素系 
+    - `renin angiotensin system`
+      - [生]肾活素血管紧张素系 
   - 例句
     - `The drugs lower blood pressure by stopping the hormone angiotensin narrowing the body's blood vessels.`
       - 这种药物通过阻止激素血管紧缩素缩小身体内的血管，从而降低血压。

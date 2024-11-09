@@ -1,15 +1,19 @@
 - prehension
   - 发音
-    - 英 `/pri'henʃən/`
-    - 美 `/prɪ'hɛnʃən/`
+    - 英
+      - `/pri'henʃən/`
+    - 美
+      - `/prɪ'hɛnʃən/`
   - 词义
-    - n. 抓住；理解
-    - `the act of grasping `
+    - n.
+      - 抓住；理解
+        - `the act of grasping `
   - 近义词
-    - n. 理解；抓住
-      - `grasp`
-      - `understanding`
-      - `comprehension`
+    - n.
+      - 理解；抓住
+        - `grasp`
+        - `understanding`
+        - `comprehension`
   - 例句
     - `The course follows a straightforward teaching process learning vocabulary, practicing reading prehension, and improving test taking strategies.`
       - 课程简单易懂，囊括SAT考试基本词汇，通过练习提高学生的阅读理解，并指导学生掌握最佳应试策略。

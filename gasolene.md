@@ -1,15 +1,19 @@
 - gasolene
   - 发音
-    - 英 `/'gæsəliːn/`
-    - 美 `/undefined/`
+    - 英
+      - `/'gæsəliːn/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 汽油
+    - n.
+      - 汽油
   - 记忆
     - gas(气)+oli(看作oil， 油)＋ne→汽油
   - 近义词
-    - n. 汽油
-      - `gas`
-      - `benzine`
+    - n.
+      - 汽油
+        - `gas`
+        - `benzine`
   - 例句
     - `A car is useless without gasolene.`
       - 汽车没有汽油便无用。

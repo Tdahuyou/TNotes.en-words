@@ -1,7 +1,9 @@
 - Goneril
   - 发音
-    - 英 `/'ɡɔnəril/`
-    - 美 `/'ɡɔnəril/`
+    - 英
+      - `/'ɡɔnəril/`
+    - 美
+      - `/'ɡɔnəril/`
   - 词义
   - 例句
     - `This part is equal in value to what I give to Goneril.`

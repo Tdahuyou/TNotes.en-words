@@ -1,10 +1,14 @@
 - disquisition
   - 发音
-    - 英 `/,dɪskwɪ'zɪʃ(ə)n/`
-    - 美 `/,dɪskwɪ'zɪʃən/`
+    - 英
+      - `/,dɪskwɪ'zɪʃ(ə)n/`
+    - 美
+      - `/,dɪskwɪ'zɪʃən/`
   - 词义
-    - n. 专题论文
+    - n.
+      - 专题论文
   - 近义词
-    - n. 探讨，研究；专题论文
-      - `research`
-      - `study`
+    - n.
+      - 探讨，研究；专题论文
+        - `research`
+        - `study`

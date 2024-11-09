@@ -1,12 +1,16 @@
 - reinterpretation
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 重新解释
+    - n.
+      - 重新解释
   - 同根词
     - vt.
-      - `reinterpret` 重新解释
+      - `reinterpret`
+        - 重新解释
   - 例句
     - `This new perspective -- that a certain unremitting flux is the norm -- has illuminated past data for reinterpretation.`
       - 这个新观点——即某种不停的流动是常态——阐明了用于重新解释的历史数据。

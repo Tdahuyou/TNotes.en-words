@@ -1,17 +1,24 @@
 - antigen
   - 发音
-    - 英 `/'æntɪdʒ(ə)n/`
-    - 美 `/'æntɪdʒən/`
+    - 英
+      - `/'æntɪdʒ(ə)n/`
+    - 美
+      - `/'æntɪdʒən/`
   - 词义
-    - n. <美>[免疫]抗原
-    - `a substance that makes the body produce  antibodies `
+    - n.
+      - <美>[免疫]抗原
+        - `a substance that makes the body produce  antibodies `
   - 同根词
     - adj.
-      - `antigenic` 抗原的
+      - `antigenic`
+        - 抗原的
   - 短语
-    - `surface antigen` 表面抗原 
-    - `carcinoembryonic antigen` 癌胚抗原 
-    - `coating antigen` 包被抗原 
+    - `surface antigen`
+      - 表面抗原 
+    - `carcinoembryonic antigen`
+      - 癌胚抗原 
+    - `coating antigen`
+      - 包被抗原 
   - 例句
     - `Lassa fever is diagnosed by detection of Lassa antigen, anti-Lassa antibodies, or virus isolation techniques.`
       - 拉沙热通过发现拉沙抗原、抗拉沙抗体或病毒分离技术进行诊断。

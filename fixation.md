@@ -1,40 +1,62 @@
 - fixation
   - 发音
-    - 英 `/fɪk'seɪʃ(ə)n/`
-    - 美 `/fɪk'seʃən/`
+    - 英
+      - `/fɪk'seɪʃ(ə)n/`
+    - 美
+      - `/fɪk'seʃən/`
   - 词义
-    - n. 固定,注视
+    - n.
+      - 固定,注视
   - 同根词
     - adj.
-      - `fixed` 固执的；<美口>处境...的；准备好的；确定的
-      - `fixative` 固定的；定色的；防挥发的
+      - `fixed`
+        - 固执的；<美口>处境...的；准备好的；确定的
+      - `fixative`
+        - 固定的；定色的；防挥发的
     - adv.
-      - `fixedly` 固定地；不动，不变
+      - `fixedly`
+        - 固定地；不动，不变
     - n.
-      - `fix` 困境；方位；贿赂
-      - `fixture` 设备；固定装置；固定于某处不大可能移动之物
-      - `fixing` 固定；安装；设备；修理
-      - `fixer` 固定器；[摄] 定影剂；毒贩子；调停者
-      - `fixative` 固定剂；[助剂] 定色剂；定影剂
-      - `fixity` 固定性，不变性；固定物
-      - `fixedness` 固定；稳固；不变
-    - v.
-      - `fixing` 固定（fix的现在分词）
-    - vi.
-      - `fix` 固定；注视
-      - `fixate` 注视；固定下来
-    - vt.
-      - `fix` 使固定；修理；安装；准备
-      - `fixate` 注视…；使固定
-  - 近义词
-    - n. 固定；定位；定影
-      - `positioning`
-      - `localization`
+      - `fix`
+        - 困境；方位；贿赂
+      - `fixture`
+        - 设备；固定装置；固定于某处不大可能移动之物
       - `fixing`
+        - 固定；安装；设备；修理
+      - `fixer`
+        - 固定器；[摄] 定影剂；毒贩子；调停者
+      - `fixative`
+        - 固定剂；[助剂] 定色剂；定影剂
+      - `fixity`
+        - 固定性，不变性；固定物
+      - `fixedness`
+        - 固定；稳固；不变
+    - v.
+      - `fixing`
+        - 固定（fix的现在分词）
+    - vi.
+      - `fix`
+        - 固定；注视
+      - `fixate`
+        - 注视；固定下来
+    - vt.
+      - `fix`
+        - 使固定；修理；安装；准备
+      - `fixate`
+        - 注视…；使固定
+  - 近义词
+    - n.
+      - 固定；定位；定影
+        - `positioning`
+        - `localization`
+        - `fixing`
   - 短语
-    - `nitrogen fixation` [化]固氮作用 
-    - `biological nitrogen fixation` 生物固氮；生物固氮酌；生物固氮作用 
-    - `carbon fixation` [医]碳固定，固碳作用 
+    - `nitrogen fixation`
+      - [化]固氮作用 
+    - `biological nitrogen fixation`
+      - 生物固氮；生物固氮酌；生物固氮作用 
+    - `carbon fixation`
+      - [医]碳固定，固碳作用 
   - 例句
     - `Session fixation allows intruders to intercept authenticated sessions or to create new sessions and to capture the session identifier.`
       - 会话固定允许入侵者截获验证后的会话，或者创建新会话并捕获会话标识符。

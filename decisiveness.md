@@ -1,23 +1,32 @@
 - decisiveness
   - 发音
-    - 英 `/dɪ'saɪsɪvnəs/`
-    - 美 `/dɪ'saɪsɪvnəs/`
+    - 英
+      - `/dɪ'saɪsɪvnəs/`
+    - 美
+      - `/dɪ'saɪsɪvnəs/`
   - 词义
-    - n. 坚决，果断
+    - n.
+      - 坚决，果断
   - 记忆
     - 来自decisive(adj. 坚决的， 果断的)
   - 同根词
     - adj.
-      - `decisive` 决定性的；果断的，坚定的
-      - `decided` 明确的；显然的；坚决的，果断的
+      - `decisive`
+        - 决定性的；果断的，坚定的
+      - `decided`
+        - 明确的；显然的；坚决的，果断的
     - adv.
-      - `decidedly` 果断地；断然地；明显；毫无疑问
-      - `decisively` 果断地；决然地
+      - `decidedly`
+        - 果断地；断然地；明显；毫无疑问
+      - `decisively`
+        - 果断地；决然地
     - n.
-      - `decided` 决定（decide的过去式）
+      - `decided`
+        - 决定（decide的过去式）
   - 近义词
-    - n. 果断
-      - `determination`
+    - n.
+      - 果断
+        - `determination`
   - 例句
     - `His supporters admire his decisiveness.`
       - 他的支持者欣赏他的果决。

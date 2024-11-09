@@ -1,23 +1,30 @@
 - allot
   - 发音
-    - 英 `/ə'lɑːt/`
-    - 美 `/ə'lɑt/`
+    - 英
+      - `/ə'lɑːt/`
+    - 美
+      - `/ə'lɑt/`
   - 词义
-    - vt. 分配，配给，拨给
-    - `to use a particular amount of time for something, or give a particular share of money, space etc to someone or something`
+    - vt.
+      - 分配，配给，拨给
+        - `to use a particular amount of time for something, or give a particular share of money, space etc to someone or something`
   - 记忆
     - all(所有的) + ot → 所有人都有份 → 分配， 配给， 拨给
   - 同根词
     - adj.
-      - `allotted` 专款的；拨出的
+      - `allotted`
+        - 专款的；拨出的
     - n.
-      - `allotment` 分配；分配物；养家费；命运
+      - `allotment`
+        - 分配；分配物；养家费；命运
     - v.
-      - `allotted` 分配；指派；拨给（allot的过去分词）
+      - `allotted`
+        - 分配；指派；拨给（allot的过去分词）
   - 近义词
-    - vt. 分配；拨给；分派
-      - `portion`
-      - `part`
+    - vt.
+      - 分配；拨给；分派
+        - `portion`
+        - `part`
   - 例句
     - `The seats are allotted to the candidates who have won the most votes.`
       - 这些席位被分配给了赢得了最多选票的候选人。

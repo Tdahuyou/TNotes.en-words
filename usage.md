@@ -1,54 +1,85 @@
 - usage
   - 发音
-    - 英 `/'juːzidʒ/`
-    - 美 `/'jusɪdʒ/`
+    - 英
+      - `/'juːzidʒ/`
+    - 美
+      - `/'jusɪdʒ/`
   - 词义
-    - n. 用法，惯用法
-    - `the way that words are used in a language`
+    - n.
+      - 用法，惯用法
+        - `the way that words are used in a language`
   - 记忆
     - 来自us (e) (使用) + age (集合名词) → 用法
   - 同根词
     - adj.
-      - `usable` 可用的；合用的（等于useable）
-      - `useful` 有用的，有益的；有帮助的
-      - `used` 习惯的；二手的，使用过的
-      - `useless` 无用的；无效的
-      - `useable` 可用的；便于使用的（等于usable）
+      - `usable`
+        - 可用的；合用的（等于useable）
+      - `useful`
+        - 有用的，有益的；有帮助的
+      - `used`
+        - 习惯的；二手的，使用过的
+      - `useless`
+        - 无用的；无效的
+      - `useable`
+        - 可用的；便于使用的（等于usable）
     - adv.
-      - `usefully` 有效地，有用地
-      - `uselessly` 无用地；无益地
+      - `usefully`
+        - 有效地，有用地
+      - `uselessly`
+        - 无用地；无益地
     - n.
-      - `use` 使用；用途；发挥
-      - `using` 使用；利用
-      - `user` 用户；使用者
-      - `usefulness` 有用；有效性；有益
-      - `usability` 合用，可用；可用性
-      - `usableness` 可用；使用方便
-      - `uselessness` 无用，无效
-    - v.
-      - `used` 用；习惯（use的过去式）
-      - `using` 使用（use的ing形式）
-    - vi.
-      - `use` 使用，运用
-    - vt.
-      - `use` 利用；耗费
-  - 近义词
-    - n. 使用；[语]用法；惯例
-      - `employment`
-      - `utilization`
-      - `tradition`
       - `use`
-      - `convention`
+        - 使用；用途；发挥
+      - `using`
+        - 使用；利用
+      - `user`
+        - 用户；使用者
+      - `usefulness`
+        - 有用；有效性；有益
+      - `usability`
+        - 合用，可用；可用性
+      - `usableness`
+        - 可用；使用方便
+      - `uselessness`
+        - 无用，无效
+    - v.
+      - `used`
+        - 用；习惯（use的过去式）
+      - `using`
+        - 使用（use的ing形式）
+    - vi.
+      - `use`
+        - 使用，运用
+    - vt.
+      - `use`
+        - 利用；耗费
+  - 近义词
+    - n.
+      - 使用；[语]用法；惯例
+        - `employment`
+        - `utilization`
+        - `tradition`
+        - `use`
+        - `convention`
   - 短语
-    - `usage rate` 使用率 
-    - `long term usage` 长期使用 
-    - `usage time` 使用时间；通信传输时间 
-    - `usage period` 使用期 
-    - `usage data` 惯用数据；使用数据 
-    - `usage factor` 利用率，利用系数 
-    - `usage scenario` 使用场景 
-    - `international usage` 国际惯例；国际习惯 
-    - `trade usage` 贸易惯例，贸易习惯；商业习惯 
+    - `usage rate`
+      - 使用率 
+    - `long term usage`
+      - 长期使用 
+    - `usage time`
+      - 使用时间；通信传输时间 
+    - `usage period`
+      - 使用期 
+    - `usage data`
+      - 惯用数据；使用数据 
+    - `usage factor`
+      - 利用率，利用系数 
+    - `usage scenario`
+      - 使用场景 
+    - `international usage`
+      - 国际惯例；国际习惯 
+    - `trade usage`
+      - 贸易惯例，贸易习惯；商业习惯 
   - 例句
     - `a book on modern English usage`
       - 关于现代英语用法的书

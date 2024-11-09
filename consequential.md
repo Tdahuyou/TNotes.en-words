@@ -1,28 +1,38 @@
 - consequential
   - 发音
-    - 英 `/ˌkɒnsɪ'kwenʃl/`
-    - 美 `/'kɑnsə'kwɛnʃəl/`
+    - 英
+      - `/ˌkɒnsɪ'kwenʃl/`
+    - 美
+      - `/'kɑnsə'kwɛnʃəl/`
   - 词义
-    - adj. 结果的，随之发生的
-    - `happening as a direct result of a particular event or situation`
+    - adj.
+      - 结果的，随之发生的
+        - `happening as a direct result of a particular event or situation`
   - 同根词
     - adj.
-      - `consequent` 随之发生的；作为结果的
+      - `consequent`
+        - 随之发生的；作为结果的
     - adv.
-      - `consequently` 因此；结果；所以
-      - `consequentially` 必然地
+      - `consequently`
+        - 因此；结果；所以
+      - `consequentially`
+        - 必然地
     - n.
-      - `consequence` 结果；重要性；推论
-      - `consequent` 结果
+      - `consequence`
+        - 结果；重要性；推论
+      - `consequent`
+        - 结果
   - 近义词
-    - adj. 间接的；结果的；重要的；随之发生的；自傲的
-      - `crucial`
-      - `important`
-      - `indirect`
-      - `circular`
-      - `material`
+    - adj.
+      - 间接的；结果的；重要的；随之发生的；自傲的
+        - `crucial`
+        - `important`
+        - `indirect`
+        - `circular`
+        - `material`
   - 短语
-    - `consequential loss` 间接损失；从属的损失；后果性损失 
+    - `consequential loss`
+      - 间接损失；从属的损失；后果性损失 
   - 例句
     - `redundancy and the consequential loss of earnings`
       - 裁员以及随之而来的收入损失

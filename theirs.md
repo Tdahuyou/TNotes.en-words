@@ -1,9 +1,11 @@
 - theirs
   - 发音
-    - 英 `/ðeəz/`
-    - 美 `/ðɛrz/`
+    - 英
+      - `/ðeəz/`
+    - 美
+      - `/ðɛrz/`
   - 词义
-    - `used to refer to something that belongs to or is connected with people that have already been mentioned`
+        - `used to refer to something that belongs to or is connected with people that have already been mentioned`
   - 例句
     - `When our washing machine broke, our neighbours let us use theirs.`
       - 我们的洗衣机坏了的时候，邻居就让我们用他们的。

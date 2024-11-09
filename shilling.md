@@ -1,17 +1,21 @@
 - shilling
   - 发音
-    - 英 `/'ʃɪlɪŋ/`
-    - 美 `/'ʃɪlɪŋ/`
+    - 英
+      - `/'ʃɪlɪŋ/`
+    - 美
+      - `/'ʃɪlɪŋ/`
   - 词义
-    - n. 先令（1971年以前的英国货币单位，旧币的12便士）
-    - `an old British coin or unit of money. There were 20 shillings in one pound.`
+    - n.
+      - 先令（1971年以前的英国货币单位，旧币的12便士）
+        - `an old British coin or unit of money. There were 20 shillings in one pound.`
   - 记忆
     - “先令”
   - 近义词
-    - n. 先令
-      - `schelling`
-      - `schilling`
-      - `twelvepence`
+    - n.
+      - 先令
+        - `schelling`
+        - `schilling`
+        - `twelvepence`
   - 例句
     - `In former times, 12 pence went to a shilling.`
       - 过去，十二便士等于一先令。

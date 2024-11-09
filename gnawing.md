@@ -1,24 +1,32 @@
 - gnawing
   - 发音
-    - 英 `/'nɔːɪŋ/`
-    - 美 `/'nɔɪŋ/`
+    - 英
+      - `/'nɔːɪŋ/`
+    - 美
+      - `/'nɔɪŋ/`
   - 词义
-    - adj. 痛苦的，折磨人的
-    - `worrying or painful, especially for a long time`
-    - n. 啃，咬
+    - adj.
+      - 痛苦的，折磨人的
+        - `worrying or painful, especially for a long time`
+    - n.
+      - 啃，咬
   - 记忆
     - 来自gnaw(v. 啃， 咬)
   - 近义词
-    - adj. 令人痛苦的；折磨人的
-      - `torturous`
-      - `cat-and-mouse`
-    - n. 咬；不断的苦痛
-      - `bite`
-    - v. 咬；侵蚀（gnaw的ing形式）
-      - `biting`
-      - `eroding`
+    - adj.
+      - 令人痛苦的；折磨人的
+        - `torturous`
+        - `cat-and-mouse`
+    - n.
+      - 咬；不断的苦痛
+        - `bite`
+    - v.
+      - 咬；侵蚀（gnaw的ing形式）
+        - `biting`
+        - `eroding`
   - 短语
-    - `gnaw at` 啃，咬；侵蚀 
+    - `gnaw at`
+      - 啃，咬；侵蚀 
   - 例句
     - `gnawing doubts`
       - 折磨人的疑虑

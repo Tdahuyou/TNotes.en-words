@@ -1,28 +1,37 @@
 - venturesome
   - 发音
-    - 英 `/'ventʃərsəm/`
-    - 美 `/'vɛntʃɚsəm/`
+    - 英
+      - `/'ventʃərsəm/`
+    - 美
+      - `/'vɛntʃɚsəm/`
   - 词义
-    - adj. 敢于冒险的；有危险的
-    - `willing to take risks`
+    - adj.
+      - 敢于冒险的；有危险的
+        - `willing to take risks`
   - 记忆
     - venture(冒险) + some(充满…的) → 敢于冒险的
   - 同根词
     - adj.
-      - `venturous` 不顾一切的；好冒险的；大胆的
+      - `venturous`
+        - 不顾一切的；好冒险的；大胆的
     - n.
-      - `venture` 企业；风险；冒险
-      - `venturesomeness` 冒险；投机；大胆；危险
+      - `venture`
+        - 企业；风险；冒险
+      - `venturesomeness`
+        - 冒险；投机；大胆；危险
     - vi.
-      - `venture` 冒险；投机
+      - `venture`
+        - 冒险；投机
     - vt.
-      - `venture` 敢于
+      - `venture`
+        - 敢于
   - 近义词
-    - adj. 冒险的；危险的；好冒险的
-      - `dangerous`
-      - `critical`
-      - `risky`
-      - `hazardous`
+    - adj.
+      - 冒险的；危险的；好冒险的
+        - `dangerous`
+        - `critical`
+        - `risky`
+        - `hazardous`
   - 例句
     - `...the venturesome graduate who is determined to succeed.`
       - ...敢闯敢干、下决心要成功的毕业生。

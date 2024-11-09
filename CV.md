@@ -1,10 +1,13 @@
 - CV
   - 发音
-    - 英 `/,si: 'vi:/`
-    - 美 `/undefined/`
+    - 英
+      - `/,si: 'vi:/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 简历，履历
-    - `a short written document that lists your education and previous jobs, which you send to employers when you are looking for a job`
+    - n.
+      - 简历，履历
+        - `a short written document that lists your education and previous jobs, which you send to employers when you are looking for a job`
   - 例句
     - `Send them a copy of your CV.`
       - 给他们寄一份你的简历。

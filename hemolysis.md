@@ -1,17 +1,23 @@
 - hemolysis
   - 发音
-    - 英 `/hi'mɔlisis/`
-    - 美 `/hɪ'mɑlɪsɪs/`
+    - 英
+      - `/hi'mɔlisis/`
+    - 美
+      - `/hɪ'mɑlɪsɪs/`
   - 词义
-    - n. 溶血
+    - n.
+      - 溶血
   - 同根词
     - adj.
-      - `hemolytic` [生理][免疫] 溶血的
+      - `hemolytic`
+        - [生理][免疫] 溶血的
     - n.
-      - `hemolysin` [生化] 溶血素，溶红血球素（等于haemolysin）
+      - `hemolysin`
+        - [生化] 溶血素，溶红血球素（等于haemolysin）
   - 近义词
-    - n. [生理][免疫]溶血（现象）；血细胞溶解
-      - `laking`
+    - n.
+      - [生理][免疫]溶血（现象）；血细胞溶解
+        - `laking`
   - 例句
     - `There are dilatation of blood sinus, hemolysis, macrophage reactions erc.`
       - 脾血窦扩张、溶血及巨噬细胞反应等现象；

@@ -1,22 +1,29 @@
 - monumental
   - 发音
-    - 英 `/ˌmɑːnju'mentl/`
-    - 美 `/,mɑnju'mɛntl/`
+    - 英
+      - `/ˌmɑːnju'mentl/`
+    - 美
+      - `/,mɑnju'mɛntl/`
   - 词义
-    - adj. 纪念碑的；不朽的
-    - `relating to a monument or built as a monument`
+    - adj.
+      - 纪念碑的；不朽的
+        - `relating to a monument or built as a monument`
   - 记忆
     - 来自monument(n. 纪念碑)
   - 同根词
     - n.
-      - `monument` 纪念碑；历史遗迹；不朽的作品
+      - `monument`
+        - 纪念碑；历史遗迹；不朽的作品
     - vt.
-      - `monument` 为…树碑
-      - `monumentalize` 为…立碑纪念
+      - `monument`
+        - 为…树碑
+      - `monumentalize`
+        - 为…立碑纪念
   - 近义词
-    - adj. 不朽的；纪念碑的；非常的
-      - `intense`
-      - `eternal`
+    - adj.
+      - 不朽的；纪念碑的；非常的
+        - `intense`
+        - `eternal`
   - 例句
     - `a monumental arch`
       - 纪念拱门

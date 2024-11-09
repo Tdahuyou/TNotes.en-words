@@ -1,10 +1,13 @@
 - camcorder
   - 发音
-    - 英 `/'kæmkɔːdə/`
-    - 美 `/'kæm'kɔrdɚ/`
+    - 英
+      - `/'kæmkɔːdə/`
+    - 美
+      - `/'kæm'kɔrdɚ/`
   - 词义
-    - n. 摄录像机；便携式摄像机
-    - `a type of camera that records pictures and sound on  videotape `
+    - n.
+      - 摄录像机；便携式摄像机
+        - `a type of camera that records pictures and sound on  videotape `
   - 记忆
     - 和recorder(n. 录音机)一起记
   - 例句

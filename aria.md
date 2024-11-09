@@ -1,13 +1,17 @@
 - aria
   - 发音
-    - 英 `/'ɑːriə/`
-    - 美 `/'ɑrɪə/`
+    - 英
+      - `/'ɑːriə/`
+    - 美
+      - `/'ɑrɪə/`
   - 词义
-    - n. 独唱曲，咏叹调
-    - `a song that is sung by only one person in an  opera  or  oratorio `
+    - n.
+      - 独唱曲，咏叹调
+        - `a song that is sung by only one person in an  opera  or  oratorio `
   - 近义词
-    - n. 咏叹调，独唱曲
-      - `arioso`
+    - n.
+      - 咏叹调，独唱曲
+        - `arioso`
   - 例句
     - `It is a scenic art integrating music, performance, literature, aria, and face-painting.`
       - 这是一个风景艺术集音乐，表演，文学，咏叹调，和画脸。

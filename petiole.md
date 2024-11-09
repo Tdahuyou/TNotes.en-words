@@ -1,14 +1,18 @@
 - petiole
   - 发音
-    - 英 `/'petɪəʊl/`
-    - 美 `/'pɛtɪ,ol/`
+    - 英
+      - `/'petɪəʊl/`
+    - 美
+      - `/'pɛtɪ,ol/`
   - 词义
-    - n. 叶柄,柄部
-    - `the stalk by which a leaf is attached to the rest of the plant `
+    - n.
+      - 叶柄,柄部
+        - `the stalk by which a leaf is attached to the rest of the plant `
   - 近义词
-    - n. [植]叶柄；柄部
-      - `cabo`
-      - `leafstalk`
+    - n.
+      - [植]叶柄；柄部
+        - `cabo`
+        - `leafstalk`
   - 例句
     - `Light green, elliptical, very thin, long flexible petiole. Usually single crown. Large.`
       - 亮绿色椭圆型很薄的叶子，长而有弹性的叶柄。通常单个顶芽。大型。

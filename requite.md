@@ -1,19 +1,24 @@
 - requite
   - 发音
-    - 英 `/ri'kwait/`
-    - 美 `/rɪ'kwaɪt/`
+    - 英
+      - `/ri'kwait/`
+    - 美
+      - `/rɪ'kwaɪt/`
   - 词义
-    - v. 报答，酬谢
-    - `to give or do something in return for something done or given to you`
+    - v.
+      - 报答，酬谢
+        - `to give or do something in return for something done or given to you`
   - 记忆
     - re + quit (免除) + e → 免除农业税， 报答老百姓 → 报答
   - 同根词
     - n.
-      - `requital` 报答；偿还；报仇
+      - `requital`
+        - 报答；偿还；报仇
   - 近义词
-    - vt. 报答，回报；酬谢
-      - `return`
-      - `render back`
+    - vt.
+      - 报答，回报；酬谢
+        - `return`
+        - `render back`
   - 例句
     - `I represent all of the children to guarantee : we 'll study hard to requite you !`
       - 我代表所有的孩子们保证：我们会努力学习来报答您！

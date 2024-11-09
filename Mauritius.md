@@ -1,9 +1,12 @@
 - Mauritius
   - 发音
-    - 英 `/mə'rɪʃəs/`
-    - 美 `/mə'rɪʃɚs/`
+    - 英
+      - `/mə'rɪʃəs/`
+    - 美
+      - `/mə'rɪʃɚs/`
   - 词义
-    - n. 毛里求斯（非洲东部岛国）
+    - n.
+      - 毛里求斯（非洲东部岛国）
   - 例句
     - `I started in France, but my father was a British citizen, born in Mauritius.`
       - 我生在法国，但是我的父亲是英国人，出生于毛里求斯。

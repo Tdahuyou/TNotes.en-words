@@ -1,22 +1,28 @@
 - adjutant
   - 发音
-    - 英 `/'ædʒutənt/`
-    - 美 `/'ædʒʊtənt/`
+    - 英
+      - `/'ædʒutənt/`
+    - 美
+      - `/'ædʒʊtənt/`
   - 词义
-    - adj. 辅助的
-    - n. 副官
-    - `an army officer responsible for office work`
+    - adj.
+      - 辅助的
+    - n.
+      - 副官
+        - `an army officer responsible for office work`
   - 近义词
-    - n. 副官，助手
-      - `friend`
-      - `assistant`
-      - `aid`
-    - adj. 辅助的
-      - `assistant`
-      - `helping`
-      - `subsidiary`
-      - `auxiliary`
-      - `aided`
+    - n.
+      - 副官，助手
+        - `friend`
+        - `assistant`
+        - `aid`
+    - adj.
+      - 辅助的
+        - `assistant`
+        - `helping`
+        - `subsidiary`
+        - `auxiliary`
+        - `aided`
   - 例句
     - `He looked straight into his adjutant's face and did not recognise him.`
       - 他直勾勾地望着他的副官的面孔，没有认出他是谁。

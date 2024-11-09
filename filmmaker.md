@@ -1,16 +1,23 @@
 - filmmaker
   - 发音
-    - 英 `/'fɪlm,meɪkə/`
-    - 美 `/undefined/`
+    - 英
+      - `/'fɪlm,meɪkə/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 电影摄制者
-    - `A filmmaker is someone involved in making films, in particular a director or producer`
+    - n.
+      - 电影摄制者
+        - `A filmmaker is someone involved in making films, in particular a director or producer`
   - 同根词
     - adj.
-      - `filmable` 可拍成电影的
+      - `filmable`
+        - 可拍成电影的
     - n.
-      - `film` 电影；薄膜；胶卷；轻烟
+      - `film`
+        - 电影；薄膜；胶卷；轻烟
     - vi.
-      - `film` 摄制电影；生薄膜；变得朦胧
+      - `film`
+        - 摄制电影；生薄膜；变得朦胧
     - vt.
-      - `film` 在…上覆以薄膜；把…拍成电影
+      - `film`
+        - 在…上覆以薄膜；把…拍成电影

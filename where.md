@@ -1,17 +1,22 @@
 - where
   - 发音
-    - 英 `/weə/`
-    - 美 `/hweə(r); hwɛr/`
+    - 英
+      - `/weə/`
+    - 美
+      - `/hweə(r); hwɛr/`
   - 词义
-    - adv. 在哪里，去哪里
-    - `in or to which place`
+    - adv.
+      - 在哪里，去哪里
+        - `in or to which place`
   - 近义词
-    - n. 地点
-      - `location`
-      - `site`
-      - `spot`
+    - n.
+      - 地点
+        - `location`
+        - `site`
+        - `spot`
   - 短语
-    - `where it is` [口]问题的关键所在；实际情况 
+    - `where it is`
+      - [口]问题的关键所在；实际情况 
   - 例句
     - `Where are you going?`
       - 你要到哪儿去？

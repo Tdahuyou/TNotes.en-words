@@ -1,22 +1,30 @@
 - appendage
   - 发音
-    - 英 `/ə'pendidʒ/`
-    - 美 `/ə'pɛndɪdʒ/`
+    - 英
+      - `/ə'pendidʒ/`
+    - 美
+      - `/ə'pɛndɪdʒ/`
   - 词义
-    - n. 附属肢体
-    - `something that is connected to a larger or more important thing`
+    - n.
+      - 附属肢体
+        - `something that is connected to a larger or more important thing`
   - 同根词
     - adj.
-      - `appendant` 附属的；附加的
+      - `appendant`
+        - 附属的；附加的
     - n.
-      - `append` 设置数据文件的搜索路径
-      - `appendant` 附属物；附属品
+      - `append`
+        - 设置数据文件的搜索路径
+      - `appendant`
+        - 附属物；附属品
     - vt.
-      - `append` 附加；贴上；盖章
+      - `append`
+        - 附加；贴上；盖章
   - 近义词
-    - n. 附加物；下属；[动][解剖]附器（如植物的枝叶和动物的腿尾）
-      - `affixture`
-      - `annexment`
+    - n.
+      - 附加物；下属；[动][解剖]附器（如植物的枝叶和动物的腿尾）
+        - `affixture`
+        - `annexment`
   - 例句
     - `Upon marriage, a woman automatically lost most of her legal rights and became an appendage of her husband.`
       - 结婚后，妇女自动失去自己大部分的法律权利，成为丈夫的附属品。

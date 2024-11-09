@@ -1,17 +1,22 @@
 - petticoat
   - 发音
-    - 英 `/'petɪkəʊt/`
-    - 美 `/'pɛtɪkot/`
+    - 英
+      - `/'petɪkəʊt/`
+    - 美
+      - `/'pɛtɪkot/`
   - 词义
-    - n. 衬裙,裙子
-    - `a piece of women’s underwear like a thin skirt or dress that is worn under a skirt or dress`
+    - n.
+      - 衬裙,裙子
+        - `a piece of women’s underwear like a thin skirt or dress that is worn under a skirt or dress`
   - 近义词
-    - n. 衬裙；裙子
-      - `skirt`
-      - `underskirt`
-    - adj. 女性的
-      - `female`
-      - `feminine`
+    - n.
+      - 衬裙；裙子
+        - `skirt`
+        - `underskirt`
+    - adj.
+      - 女性的
+        - `female`
+        - `feminine`
   - 例句
     - `She stood there, in her red petticoat, with a smile on her face.`
       - 她站在那里，穿着红色的衬裙，脸上带着微笑。

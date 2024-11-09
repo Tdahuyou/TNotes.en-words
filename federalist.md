@@ -1,32 +1,48 @@
 - federalist
   - 发音
-    - 英 `/'fedərəlɪst/`
-    - 美 `/'fɛdərəlɪst/`
+    - 英
+      - `/'fedərəlɪst/`
+    - 美
+      - `/'fɛdərəlɪst/`
   - 词义
-    - n. 联邦党,联邦制拥护者
-    - `Federalist is also a noun`
+    - n.
+      - 联邦党,联邦制拥护者
+        - `Federalist is also a noun`
   - 同根词
     - adj.
-      - `federal` 联邦的；同盟的
-      - `federate` 同盟的；联邦制度下的；联合的
-      - `federated` 联邦的；联合的；结成同盟的
+      - `federal`
+        - 联邦的；同盟的
+      - `federate`
+        - 同盟的；联邦制度下的；联合的
+      - `federated`
+        - 联邦的；联合的；结成同盟的
     - adv.
-      - `federally` 联邦地；联邦政府地；同盟地
+      - `federally`
+        - 联邦地；联邦政府地；同盟地
     - n.
-      - `federal` 北部联邦同盟盟员；北京连邦软件产业发展公司，国内主要的正版软件经销商
-      - `federation` 联合；联邦；联盟；联邦政府
-      - `federalism` 联邦制；联邦主义
-      - `federalization` 联邦化；同盟
+      - `federal`
+        - 北部联邦同盟盟员；北京连邦软件产业发展公司，国内主要的正版软件经销商
+      - `federation`
+        - 联合；联邦；联盟；联邦政府
+      - `federalism`
+        - 联邦制；联邦主义
+      - `federalization`
+        - 联邦化；同盟
     - v.
-      - `federated` 结成同盟；按联邦制组织起来（federate的过去分词）
+      - `federated`
+        - 结成同盟；按联邦制组织起来（federate的过去分词）
     - vi.
-      - `federate` 结成联邦
+      - `federate`
+        - 结成联邦
     - vt.
-      - `federate` 使结成同盟；使结成联邦
-      - `federalize` 使同盟；使成联邦
+      - `federate`
+        - 使结成同盟；使结成联邦
+      - `federalize`
+        - 使同盟；使成联邦
   - 近义词
-    - n. 联邦党；联邦制拥护者；支持北部联邦者
-      - `Federalist Party`
+    - n.
+      - 联邦党；联邦制拥护者；支持北部联邦者
+        - `Federalist Party`
   - 例句
     - `Many Quebeckers are federalists.`
       - 很多魁北克人是联邦主义者。

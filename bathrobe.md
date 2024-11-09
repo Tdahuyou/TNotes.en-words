@@ -1,14 +1,18 @@
 - bathrobe
   - 发音
-    - 英 `/'bɑːθrəʊb/`
-    - 美 `/'bæθrob/`
+    - 英
+      - `/'bɑːθrəʊb/`
+    - 美
+      - `/'bæθrob/`
   - 词义
-    - n. 浴衣；睡衣
-    - `a long loose piece of clothing shaped like a coat, that you wear especially before or after having a bath or  shower `
+    - n.
+      - 浴衣；睡衣
+        - `a long loose piece of clothing shaped like a coat, that you wear especially before or after having a bath or  shower `
   - 近义词
-    - n. 浴衣；睡衣
-      - `yukata`
-      - `blanchet`
+    - n.
+      - 浴衣；睡衣
+        - `yukata`
+        - `blanchet`
   - 例句
     - `Without bothering to dry off, I pulled on my bathrobe.`
       - 还没来得及擦干身子，我就穿上了浴衣。

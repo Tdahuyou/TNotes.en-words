@@ -1,7 +1,9 @@
 - Luke
   - 发音
-    - 英 `/lu:k/`
-    - 美 `/luk/`
+    - 英
+      - `/lu:k/`
+    - 美
+      - `/luk/`
   - 词义
   - 例句
     - `So the first casualty of the expedition was Luke himself, who decided to leave.`

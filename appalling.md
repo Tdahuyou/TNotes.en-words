@@ -1,29 +1,38 @@
 - appalling
   - 发音
-    - 英 `/ə'pɔːliŋ/`
-    - 美 `/ə'pɔlɪŋ/`
+    - 英
+      - `/ə'pɔːliŋ/`
+    - 美
+      - `/ə'pɔlɪŋ/`
   - 词义
-    - adj. 令人震惊的，骇人听闻的
-    - `very unpleasant and shocking`
+    - adj.
+      - 令人震惊的，骇人听闻的
+        - `very unpleasant and shocking`
   - 记忆
     - 来自appall (v. 使惊骇)
   - 同根词
     - adj.
-      - `appalled` 惊骇的；丧胆的
+      - `appalled`
+        - 惊骇的；丧胆的
     - adv.
-      - `appallingly` 令人毛骨悚然地；骇人听闻地
+      - `appallingly`
+        - 令人毛骨悚然地；骇人听闻地
     - vi.
-      - `appal` 减弱；变得苍白；令人发腻
+      - `appal`
+        - 减弱；变得苍白；令人发腻
     - vt.
-      - `appall` 使胆寒；使惊骇
-      - `appal` 使惊骇；惊吓
+      - `appall`
+        - 使胆寒；使惊骇
+      - `appal`
+        - 使惊骇；惊吓
   - 近义词
-    - adj. 可怕的；令人震惊的
-      - `terrible`
-      - `electric`
-      - `horrible`
-      - `awesome`
-      - `fearful`
+    - adj.
+      - 可怕的；令人震惊的
+        - `terrible`
+        - `electric`
+        - `horrible`
+        - `awesome`
+        - `fearful`
   - 例句
     - `She suffered appalling injuries.`
       - 她伤势非常严重。

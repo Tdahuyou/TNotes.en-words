@@ -1,9 +1,12 @@
 - ethological
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 行为性的,行为学的
+    - n.
+      - 行为性的,行为学的
   - 例句
     - `At Agile 2006, she examined the cooperative behavior of Bonobo apes from an ethological perspective and spoke about how “natural” the cooperative aspects of Agile are.`
       - 在Agile2006上，她从动物行为学的角度分析了Bonobo大猩猩的合作行为，并说明了敏捷的合作性是多么“自然”。

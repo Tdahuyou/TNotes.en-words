@@ -1,25 +1,37 @@
 - peninsula
   - 发音
-    - 英 `/pə'nɪnsələ/`
-    - 美 `/pə'nɪnsələ/`
+    - 英
+      - `/pə'nɪnsələ/`
+    - 美
+      - `/pə'nɪnsələ/`
   - 词义
-    - n. 半岛
-    - `a piece of land almost completely surrounded by water but joined to a large area of land`
+    - n.
+      - 半岛
+        - `a piece of land almost completely surrounded by water but joined to a large area of land`
   - 记忆
     - pen(几乎) + insula(岛) → 几乎是岛 → 半岛
   - 近义词
-    - n. [地理]半岛
-      - `byland`
-      - `chersonese`
+    - n.
+      - [地理]半岛
+        - `byland`
+        - `chersonese`
   - 短语
-    - `malay peninsula` 马来半岛 
-    - `arabian peninsula` 阿拉伯半岛 
-    - `balkan peninsula` n. 巴尔干半岛 
-    - `iberian peninsula` 伊比利亚半岛 
-    - `kowloon peninsula` 九龙半岛 
-    - `antarctic peninsula` 南极半岛 
-    - `sinai peninsula` 西奈半岛 
-    - `kola peninsula` 科拉半岛（俄罗斯西北部） 
+    - `malay peninsula`
+      - 马来半岛 
+    - `arabian peninsula`
+      - 阿拉伯半岛 
+    - `balkan peninsula`
+      - n. 巴尔干半岛 
+    - `iberian peninsula`
+      - 伊比利亚半岛 
+    - `kowloon peninsula`
+      - 九龙半岛 
+    - `antarctic peninsula`
+      - 南极半岛 
+    - `sinai peninsula`
+      - 西奈半岛 
+    - `kola peninsula`
+      - 科拉半岛（俄罗斯西北部） 
   - 例句
     - `the Korean peninsula`
       - 朝鲜半岛

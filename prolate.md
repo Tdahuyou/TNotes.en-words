@@ -1,14 +1,18 @@
 - prolate
   - 发音
-    - 英 `/'prəʊleɪt/`
-    - 美 `/'prolet/`
+    - 英
+      - `/'prəʊleɪt/`
+    - 美
+      - `/'prolet/`
   - 词义
-    - adj. 扁长的
-    - `having a polar diameter of greater length than the equatorial diameter `
+    - adj.
+      - 扁长的
+        - `having a polar diameter of greater length than the equatorial diameter `
   - 近义词
-    - adj. [数]扁长的；扩展的
-      - `expanding`
-      - `patulous`
+    - adj.
+      - [数]扁长的；扩展的
+        - `expanding`
+        - `patulous`
   - 例句
     - `Passive energy dissipation existing in the spinner of prolate dual-spin satellite will lead to nutation divergence.`
       - 细长体双自旋卫星自旋部分的能量耗散会导致卫星章动运动的发散。

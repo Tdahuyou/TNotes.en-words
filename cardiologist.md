@@ -1,17 +1,23 @@
 - cardiologist
   - 发音
-    - 英 `/ˌkɑːrdi'ɑːlədʒɪst/`
-    - 美 `/'kɑrdɪ'ɑlədʒɪst/`
+    - 英
+      - `/ˌkɑːrdi'ɑːlədʒɪst/`
+    - 美
+      - `/'kɑrdɪ'ɑlədʒɪst/`
   - 词义
-    - n. 心脏病专家
-    - `a doctor who studies or treats heart diseases`
+    - n.
+      - 心脏病专家
+        - `a doctor who studies or treats heart diseases`
   - 记忆
     - cardi(=card心) + olog(=ology学科) + ist(人) → 研究心脏的人 → 心脏病专家
   - 同根词
     - n.
-      - `cardiology` [内科] 心脏病学
-      - `cardiomegaly` 心脏肥大；心脏扩大症
-      - `cardiopathy` 心脏病
+      - `cardiology`
+        - [内科] 心脏病学
+      - `cardiomegaly`
+        - 心脏肥大；心脏扩大症
+      - `cardiopathy`
+        - 心脏病
   - 例句
     - `That day, Larry's cardiologist called with test results from one of his first checkups.`
       - 那天拉里的心脏病专家医师从他的第一次检查结果得出，拉里需要紧急手术。

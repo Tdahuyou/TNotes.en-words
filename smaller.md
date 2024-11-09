@@ -1,11 +1,14 @@
 - smaller
   - 发音
-    - 英 `/smɔ:lə(r)/`
-    - 美 `/smɔlər/`
+    - 英
+      - `/smɔ:lə(r)/`
+    - 美
+      - `/smɔlər/`
   - 词义
   - 近义词
-    - adj. 较小，更小的
-      - `lesser`
+    - adj.
+      - 较小，更小的
+        - `lesser`
   - 例句
     - `Inside the reactor the large molecules are cracked into smaller molecules.`
       - 在反应堆内部大的分子被裂解为较小的分子。

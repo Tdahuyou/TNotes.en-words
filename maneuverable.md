@@ -1,12 +1,16 @@
 - maneuverable
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - adj. 容易操作的,有机动性的
+    - adj.
+      - 容易操作的,有机动性的
   - 近义词
-    - adj. 有机动性的；容易操作的；可调动的
-      - `manoeuvrable`
+    - adj.
+      - 有机动性的；容易操作的；可调动的
+        - `manoeuvrable`
   - 例句
     - `Smaller cars use less gas, are more maneuverable, cause fewer deaths, use fewer resources.`
       - 小车更节约汽油，更容易操作，造成的死亡率更低，用更少的资源。

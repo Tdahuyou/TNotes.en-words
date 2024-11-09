@@ -1,19 +1,25 @@
 - jealousy
   - 发音
-    - 英 `/'dʒeləsɪ/`
-    - 美 `/'dʒɛləsi/`
+    - 英
+      - `/'dʒeləsɪ/`
+    - 美
+      - `/'dʒɛləsi/`
   - 词义
-    - n. 嫉妒,猜疑
-    - `a feeling of being jealous`
+    - n.
+      - 嫉妒,猜疑
+        - `a feeling of being jealous`
   - 同根词
     - adj.
-      - `jealous` 妒忌的；猜疑的；唯恐失去的；戒备的
+      - `jealous`
+        - 妒忌的；猜疑的；唯恐失去的；戒备的
     - adv.
-      - `jealously` 妒忌地；猜疑地
+      - `jealously`
+        - 妒忌地；猜疑地
   - 近义词
-    - n. 嫉妒；猜忌；戒备
-      - `envy`
-      - `green-eyed monster`
+    - n.
+      - 嫉妒；猜忌；戒备
+        - `envy`
+        - `green-eyed monster`
   - 例句
     - `Sexual jealousy is a common motive for murder.`
       - 性嫉妒是常见的谋杀动机。

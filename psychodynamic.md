@@ -1,9 +1,12 @@
 - psychodynamic
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - adj. 精神动力的
+    - adj.
+      - 精神动力的
   - 例句
     - `In the early 1900s, Sigmund Freud developed the psychodynamic view of human behavior.`
       - 早在20世纪的初期，西格蒙德•弗洛伊德就开发了人类行为的精神动力观。

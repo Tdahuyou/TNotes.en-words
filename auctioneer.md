@@ -1,20 +1,27 @@
 - auctioneer
   - 发音
-    - 英 `/ɔːkʃə'nɪə/`
-    - 美 `/,ɔkʃə'nɪr/`
+    - 英
+      - `/ɔːkʃə'nɪə/`
+    - 美
+      - `/,ɔkʃə'nɪr/`
   - 词义
-    - v. 拍卖
-    - n. 拍卖商
-    - `someone who is in charge of selling the things at an auction and who calls out how much money has already been offered for something`
+    - v.
+      - 拍卖
+    - n.
+      - 拍卖商
+        - `someone who is in charge of selling the things at an auction and who calls out how much money has already been offered for something`
   - 同根词
     - n.
-      - `auction` 拍卖
+      - `auction`
+        - 拍卖
     - vt.
-      - `auction` 拍卖；竞卖
+      - `auction`
+        - 拍卖；竞卖
   - 近义词
-    - vt. [贸易]拍卖
-      - `auction sale`
-      - `be on sale`
+    - vt.
+      - [贸易]拍卖
+        - `auction sale`
+        - `be on sale`
   - 例句
     - `He tried to pass off a false Dagas on the auctioneer.`
       - 他试着把假的德加的画卖给拍卖人。

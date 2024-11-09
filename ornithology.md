@@ -1,15 +1,19 @@
 - ornithology
   - 发音
-    - 英 `/ˌɔːrnɪ'θɑːlədʒi/`
-    - 美 `/,ɔrnɪ'θɑlədʒi/`
+    - 英
+      - `/ˌɔːrnɪ'θɑːlədʒi/`
+    - 美
+      - `/,ɔrnɪ'θɑlədʒi/`
   - 词义
-    - n. 鸟类学
-    - `the scientific study of birds`
+    - n.
+      - 鸟类学
+        - `the scientific study of birds`
   - 记忆
     - ornith(鸟) + ology(…学) → 鸟类学
   - 同根词
     - n.
-      - `ornithologist` 鸟类学者
+      - `ornithologist`
+        - 鸟类学者
   - 例句
     - `Botany, Entomology Herpetology, mammalogy, and ornithology.`
       - 收藏植物学、 虫学、虫学、 乳动物学和鸟类学。

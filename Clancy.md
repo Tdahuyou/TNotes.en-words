@@ -1,9 +1,12 @@
 - Clancy
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 克兰西（男名）
+    - n.
+      - 克兰西（男名）
   - 例句
     - `Clancy however says the announcement of the shortfall could be used positively.`
       - 不过克兰西说，可以正面地利用关于援助不足的消息。

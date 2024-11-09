@@ -1,23 +1,34 @@
 - vas
   - 发音
-    - 英 `/væs/`
-    - 美 `/væs/`
+    - 英
+      - `/væs/`
+    - 美
+      - `/væs/`
   - 词义
-    - n. 血管,脉管
-    - `a vessel, duct, or tube that carries a fluid `
+    - n.
+      - 血管,脉管
+        - `a vessel, duct, or tube that carries a fluid `
   - 同根词
     - adj.
-      - `vasoconstrictor` 血管收缩的
+      - `vasoconstrictor`
+        - 血管收缩的
     - n.
-      - `vasoconstriction` [生理] 血管收缩
-      - `vascularity` 多血管；血管质
-      - `vascularization` 血管化；形成血管
-      - `vasoconstrictor` 血管收缩剂；血管收缩神经
+      - `vasoconstriction`
+        - [生理] 血管收缩
+      - `vascularity`
+        - 多血管；血管质
+      - `vascularization`
+        - 血管化；形成血管
+      - `vasoconstrictor`
+        - 血管收缩剂；血管收缩神经
     - vt.
-      - `vascularize` 血管化，血管形成
+      - `vascularize`
+        - 血管化，血管形成
   - 近义词
-    - n. 血管；[组织]脉管
-      - `vessel`
-      - `vein`
+    - n.
+      - 血管；[组织]脉管
+        - `vessel`
+        - `vein`
   - 短语
-    - `vas deferens` [解]输精管 
+    - `vas deferens`
+      - [解]输精管 

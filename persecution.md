@@ -1,20 +1,26 @@
 - persecution
   - 发音
-    - 英 `/ˌpəːsi'kjuːʃən/`
-    - 美 `/,pɝsɪ'kjʊʃən/`
+    - 英
+      - `/ˌpəːsi'kjuːʃən/`
+    - 美
+      - `/,pɝsɪ'kjʊʃən/`
   - 词义
-    - n. 迫害，烦扰
-    - `Persecution is cruel and unfair treatment of a person or group, especially because of their religious or political beliefs, or their race`
+    - n.
+      - 迫害，烦扰
+        - `Persecution is cruel and unfair treatment of a person or group, especially because of their religious or political beliefs, or their race`
   - 记忆
     - 来自persecute (v. 迫害)
   - 同根词
     - n.
-      - `persecutor` 虐待者；迫害者
+      - `persecutor`
+        - 虐待者；迫害者
     - vt.
-      - `persecute` 迫害；困扰；同…捣乱
+      - `persecute`
+        - 迫害；困扰；同…捣乱
   - 近义词
-    - n. 迫害；烦扰
-      - `feeze`
+    - n.
+      - 迫害；烦扰
+        - `feeze`
   - 例句
     - `...the persecution of minorities.`
       - …对少数派的迫害。

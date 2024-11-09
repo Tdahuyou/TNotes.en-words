@@ -1,23 +1,30 @@
 - annotation
   - 发音
-    - 英 `/ˌænə'teɪʃn/`
-    - 美 `/ˌænəˈteʃən/`
+    - 英
+      - `/ˌænə'teɪʃn/`
+    - 美
+      - `/ˌænəˈteʃən/`
   - 词义
-    - n. 注释，注解
-    - `Annotation is the activity of annotating something`
+    - n.
+      - 注释，注解
+        - `Annotation is the activity of annotating something`
   - 记忆
     - an(加) + not(知道) + ation → 加上文字以让人知道 → 注释， 注解
   - 同根词
     - n.
-      - `annotator` 注解者
+      - `annotator`
+        - 注解者
     - vi.
-      - `annotate` 注释；给…作注释或评注
+      - `annotate`
+        - 注释；给…作注释或评注
     - vt.
-      - `annotate` 注释；作注解
+      - `annotate`
+        - 注释；作注解
   - 近义词
-    - n. [计]注释；注解；释文
-      - `commentary`
-      - `exegesis`
+    - n.
+      - [计]注释；注解；释文
+        - `commentary`
+        - `exegesis`
   - 例句
     - `She retained a number of copies for further annotation.`
       - 她为进一步解释保留了好多复印件。

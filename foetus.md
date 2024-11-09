@@ -1,19 +1,25 @@
 - foetus
   - 发音
-    - 英 `/'fiːtəs/`
-    - 美 `/'fitəs/`
+    - 英
+      - `/'fiːtəs/`
+    - 美
+      - `/'fitəs/`
   - 词义
-    - n. 胎儿
-    - `a baby or young animal before it is born`
+    - n.
+      - 胎儿
+        - `a baby or young animal before it is born`
   - 同根词
     - adj.
-      - `foetal` 胎儿的；似胎儿的
+      - `foetal`
+        - 胎儿的；似胎儿的
   - 近义词
-    - n. 胎儿
-      - `fetus`
-      - `homunculi`
+    - n.
+      - 胎儿
+        - `fetus`
+        - `homunculi`
   - 短语
-    - `foetus education` 胎教 
+    - `foetus education`
+      - 胎教 
   - 例句
     - `In this chapter we will look at what happens when a human foetus receives too much or too little male hormone.`
       - 在这一章里，我们将看看当一个人类胎儿接收了过多或过少的雄性激素会发生什么。

@@ -1,28 +1,39 @@
 - stormy
   - 发音
-    - 英 `/'stɔːmɪ/`
-    - 美 `/'stɔrmi/`
+    - 英
+      - `/'stɔːmɪ/`
+    - 美
+      - `/'stɔrmi/`
   - 词义
-    - adj. 暴风雨的,激烈的,暴怒的
-    - `with strong winds, heavy rain, and dark clouds`
+    - adj.
+      - 暴风雨的,激烈的,暴怒的
+        - `with strong winds, heavy rain, and dark clouds`
   - 同根词
     - adj.
-      - `stormbound` 为风暴所阻的，因暴风雨而被困的
+      - `stormbound`
+        - 为风暴所阻的，因暴风雨而被困的
     - n.
-      - `storm` 暴风雨；大动荡
-      - `storminess` 风暴度；磁暴度；猛烈
+      - `storm`
+        - 暴风雨；大动荡
+      - `storminess`
+        - 风暴度；磁暴度；猛烈
     - vi.
-      - `storm` 起风暴；横冲直撞；狂怒咆哮
+      - `storm`
+        - 起风暴；横冲直撞；狂怒咆哮
     - vt.
-      - `storm` 猛攻；怒骂
+      - `storm`
+        - 猛攻；怒骂
   - 近义词
-    - adj. 暴风雨的；猛烈的；暴躁的
-      - `fierce`
-      - `violent`
-      - `hard`
+    - adj.
+      - 暴风雨的；猛烈的；暴躁的
+        - `fierce`
+        - `violent`
+        - `hard`
   - 短语
-    - `stormy weather` 暴风雨天气；暴风雪 
-    - `stormy sea` 波涛汹涌的海面 
+    - `stormy weather`
+      - 暴风雨天气；暴风雪 
+    - `stormy sea`
+      - 波涛汹涌的海面 
   - 例句
     - `The sky was starting to look stormy.`
       - 开始变天了，看上去暴风雨将至。

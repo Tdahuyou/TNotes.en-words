@@ -1,22 +1,30 @@
 - crackle
   - 发音
-    - 英 `/'kræk(ə)l/`
-    - 美 `/'krækl/`
+    - 英
+      - `/'kræk(ə)l/`
+    - 美
+      - `/'krækl/`
   - 词义
-    - n. 裂纹；龟裂；爆裂声
-    - v. 使发爆裂声；使产生碎裂花纹
-    - `to make repeated short sounds like something burning in a fire`
+    - n.
+      - 裂纹；龟裂；爆裂声
+    - v.
+      - 使发爆裂声；使产生碎裂花纹
+        - `to make repeated short sounds like something burning in a fire`
   - 同根词
     - n.
-      - `crackling` 猪油渣；脆皮；连续的爆裂声
+      - `crackling`
+        - 猪油渣；脆皮；连续的爆裂声
     - v.
-      - `crackling` 发爆裂声；龟裂；充满活力（crackle的ing形式）
+      - `crackling`
+        - 发爆裂声；龟裂；充满活力（crackle的ing形式）
   - 近义词
-    - n. [建]裂纹；龟裂；爆裂声
-      - `checking`
-      - `flaw`
-    - vi. 发劈啪声，发出细碎的爆裂声；表面形成碎裂花纹
-      - `sputter`
+    - n.
+      - [建]裂纹；龟裂；爆裂声
+        - `checking`
+        - `flaw`
+    - vi.
+      - 发劈啪声，发出细碎的爆裂声；表面形成碎裂花纹
+        - `sputter`
   - 例句
     - `logs crackling on the fire`
       - 劈啪作响燃烧着的木头

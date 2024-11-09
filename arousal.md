@@ -1,14 +1,18 @@
 - arousal
   - 发音
-    - 英 `/ə'raʊzl/`
-    - 美 `/ə'raʊzl/`
+    - 英
+      - `/ə'raʊzl/`
+    - 美
+      - `/ə'raʊzl/`
   - 词义
-    - n. 觉醒,激励
+    - n.
+      - 觉醒,激励
   - 近义词
-    - n. [心理]觉醒；激励
-      - `stimulus`
-      - `animation`
-      - `excitation`
+    - n.
+      - [心理]觉醒；激励
+        - `stimulus`
+        - `animation`
+        - `excitation`
   - 例句
     - `It distracts us, and takes our arousal back to the starting blocks.`
       - 它分散我们的注意力，使我们的觉醒又回到了起点。

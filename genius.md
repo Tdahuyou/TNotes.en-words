@@ -1,23 +1,30 @@
 - genius
   - 发音
-    - 英 `/'dʒiːniəs/`
-    - 美 `/'dʒinjəs/`
+    - 英
+      - `/'dʒiːniəs/`
+    - 美
+      - `/'dʒinjəs/`
   - 词义
-    - n. 天才；天赋
-    - `a very high level of intelligence, mental skill, or ability, which only a few people have`
+    - n.
+      - 天才；天赋
+        - `a very high level of intelligence, mental skill, or ability, which only a few people have`
   - 记忆
     - gen(出生) + ius → 天生具有的才能 → 天赋
   - 近义词
-    - n. 天才，天赋；精神
-      - `energy`
-      - `gift`
-      - `spirit`
-      - `soul`
-      - `mind`
+    - n.
+      - 天才，天赋；精神
+        - `energy`
+        - `gift`
+        - `spirit`
+        - `soul`
+        - `mind`
   - 短语
-    - `universal genius` 宇宙级天才；全能之才 
-    - `stroke of genius` 神来一笔；天才之举 
-    - `genius loci` 一个地方的风气或特色；一个地方的守护神 
+    - `universal genius`
+      - 宇宙级天才；全能之才 
+    - `stroke of genius`
+      - 神来一笔；天才之举 
+    - `genius loci`
+      - 一个地方的风气或特色；一个地方的守护神 
   - 例句
     - `The film reveals Fellini’s genius.`
       - 这部影片展现了费里尼的天赋。

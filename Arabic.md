@@ -1,14 +1,20 @@
 - Arabic
   - 发音
-    - 英 `/'ærəbik/`
-    - 美 `/ˈærəbɪk/`
+    - 英
+      - `/'ærəbik/`
+    - 美
+      - `/ˈærəbɪk/`
   - 词义
-    - n. 阿拉伯语
-    - `the language or writing of the Arabs, which is the main language of North Africa and the Middle East`
+    - n.
+      - 阿拉伯语
+        - `the language or writing of the Arabs, which is the main language of North Africa and the Middle East`
   - 短语
-    - `arabic numerals` 阿拉伯数字 
-    - `gum arabic` 阿拉伯树胶；水溶性阿拉伯胶 
-    - `arabic gum` 阿拉伯树胶 
+    - `arabic numerals`
+      - 阿拉伯数字 
+    - `gum arabic`
+      - 阿拉伯树胶；水溶性阿拉伯胶 
+    - `arabic gum`
+      - 阿拉伯树胶 
   - 例句
     - `He has a good command of English, German, French, Russian, Arabic and even Esperanto.`
       - 他精通英语、德语、法语、俄语、阿拉伯语乃至世界语。

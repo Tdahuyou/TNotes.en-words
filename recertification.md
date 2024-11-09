@@ -1,9 +1,12 @@
 - recertification
   - 发音
-    - 英 `/'riːˌsəːtifi'k3ɪʃən/`
-    - 美 `/undefined/`
+    - 英
+      - `/'riːˌsəːtifi'k3ɪʃən/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 换发新证
+    - n.
+      - 换发新证
   - 例句
     - `Certifications which have been revoked may only be reinstated by full examination and recertification per Section 6.0 of this written practice.`
       - 被取消的认证，必须重新通过本书面实施细则第6.0条规定的全部考试之后，才可恢复认证。

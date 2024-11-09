@@ -1,31 +1,46 @@
 - halting
   - 发音
-    - 英 `/'hɔːltɪŋ/`
-    - 美 `/'hɔltɪŋ/`
+    - 英
+      - `/'hɔːltɪŋ/`
+    - 美
+      - `/'hɔltɪŋ/`
   - 词义
-    - adj. 犹豫的；蹒跚的；跛的
-    - v. 停止；蹒跚；犹豫（halt的ing形式）
+    - adj.
+      - 犹豫的；蹒跚的；跛的
+    - v.
+      - 停止；蹒跚；犹豫（halt的ing形式）
   - 同根词
     - adv.
-      - `haltingly` 迟疑不决地；犹豫地
+      - `haltingly`
+        - 迟疑不决地；犹豫地
     - n.
-      - `halt` 停止；立定；休息
+      - `halt`
+        - 停止；立定；休息
     - vi.
-      - `halt` 停止；立定；踌躇，犹豫
+      - `halt`
+        - 停止；立定；踌躇，犹豫
     - vt.
-      - `halt` 使停止；使立定
+      - `halt`
+        - 使停止；使立定
   - 近义词
-    - adj. 犹豫的；蹒跚的；跛的
-      - `juberous`
-      - `hesitating`
-    - v. 停止；蹒跚；犹豫（halt的ing形式）
-      - `stopping`
+    - adj.
+      - 犹豫的；蹒跚的；跛的
+        - `juberous`
+        - `hesitating`
+    - v.
+      - 停止；蹒跚；犹豫（halt的ing形式）
+        - `stopping`
   - 短语
-    - `come to a halt` 停止前进；停下来 
-    - `halt on` 出错暂停 
-    - `system halt` 系统中止；系统停止；系统挂起；死机 
-    - `grind to a halt` 慢慢停止 
-    - `call a halt` 命令停止 
+    - `come to a halt`
+      - 停止前进；停下来 
+    - `halt on`
+      - 出错暂停 
+    - `system halt`
+      - 系统中止；系统停止；系统挂起；死机 
+    - `grind to a halt`
+      - 慢慢停止 
+    - `call a halt`
+      - 命令停止 
   - 例句
     - `We carried on a rather halting conversation.`
       - 我们断断续续地交谈。

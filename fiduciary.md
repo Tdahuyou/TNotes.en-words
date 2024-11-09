@@ -1,21 +1,29 @@
 - fiduciary
   - 发音
-    - 英 `/fi'djuːʃiəri/`
-    - 美 `/fɪ'djʊʃɪ,ɛri/`
+    - 英
+      - `/fi'djuːʃiəri/`
+    - 美
+      - `/fɪ'djʊʃɪ,ɛri/`
   - 词义
-    - adj. 信托的
-    - `Fiduciary is used to talk about things which relate to a trust, or to the people who are in charge of a trust`
-    - n. 受托人
+    - adj.
+      - 信托的
+        - `Fiduciary is used to talk about things which relate to a trust, or to the people who are in charge of a trust`
+    - n.
+      - 受托人
   - 同根词
     - adj.
-      - `fiducial` [测] 基准的；信托的；根据信仰的
+      - `fiducial`
+        - [测] 基准的；信托的；根据信仰的
   - 近义词
-    - n. 受托人；[金融]被信托者
-      - `trustee`
-      - `assignee`
+    - n.
+      - 受托人；[金融]被信托者
+        - `trustee`
+        - `assignee`
   - 短语
-    - `fiduciary duty` 信托责任；诚信义务 
-    - `fiduciary relationship` 信托关系 
+    - `fiduciary duty`
+      - 信托责任；诚信义务 
+    - `fiduciary relationship`
+      - 信托关系 
   - 例句
     - `They have a case against their directors for breach of fiduciary duty.`
       - 他们对董事们违反信托责任提出诉讼。

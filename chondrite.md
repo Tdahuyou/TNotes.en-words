@@ -1,13 +1,17 @@
 - chondrite
   - 发音
-    - 英 `/'kɒndraɪt/`
-    - 美 `/'kɑn,draɪt/`
+    - 英
+      - `/'kɒndraɪt/`
+    - 美
+      - `/'kɑn,draɪt/`
   - 词义
-    - n. 球粒状陨石
-    - `a stony meteorite consisting mainly of silicate minerals in the form of chondrules `
+    - n.
+      - 球粒状陨石
+        - `a stony meteorite consisting mainly of silicate minerals in the form of chondrules `
   - 同根词
     - adj.
-      - `chondritic` 球粒状陨石的
+      - `chondritic`
+        - 球粒状陨石的
   - 例句
     - `The transitional element curves standardized by chondrite were all W type curves inclining gently to the right.`
       - 过渡元素球粒陨石标准化曲线，也均呈微向右倾斜的W形曲线。

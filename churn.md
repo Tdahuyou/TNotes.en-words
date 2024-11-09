@@ -1,24 +1,32 @@
 - churn
   - 发音
-    - 英 `/tʃɜːn/`
-    - 美 `/tʃɝn/`
+    - 英
+      - `/tʃɜːn/`
+    - 美
+      - `/tʃɝn/`
   - 词义
-    - v. 搅拌,搅动
-    - `If something churns water, mud, or dust, it moves it about violently`
+    - v.
+      - 搅拌,搅动
+        - `If something churns water, mud, or dust, it moves it about violently`
   - 同根词
     - n.
-      - `churning` 搅乳；一次提制的奶油
+      - `churning`
+        - 搅乳；一次提制的奶油
     - v.
-      - `churning` 搅拌（churn的ing形式）
+      - `churning`
+        - 搅拌（churn的ing形式）
   - 近义词
-    - vi. 搅拌；搅动
-      - `mix round`
-      - `stir up`
-    - vt. 搅拌；搅动
-      - `mill`
-      - `mix round`
+    - vi.
+      - 搅拌；搅动
+        - `mix round`
+        - `stir up`
+    - vt.
+      - 搅拌；搅动
+        - `mill`
+        - `mix round`
   - 短语
-    - `churn out` 艰苦地做出；大量炮制 
+    - `churn out`
+      - 艰苦地做出；大量炮制 
   - 例句
     - `...dirt roads now churned into mud by the annual rains.`
       - …土路现在被一年一度的雨水搅和得一片泥泞。

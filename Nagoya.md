@@ -1,9 +1,12 @@
 - Nagoya
   - 发音
-    - 英 `/'nɑ:ɡɔ:'jɑ:/`
-    - 美 `/undefined/`
+    - 英
+      - `/'nɑ:ɡɔ:'jɑ:/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 名古屋（日本港市）
+    - n.
+      - 名古屋（日本港市）
   - 例句
     - `Hopefully the agreement reached in Nagoya will change all that.`
       - 在名古屋达成的协议将有望改变这一切。

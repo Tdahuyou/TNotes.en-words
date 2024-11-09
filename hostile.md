@@ -1,25 +1,32 @@
 - hostile
   - 发音
-    - 英 `/'hɑːstl/`
-    - 美 `/ˈhɑstl/`
+    - 英
+      - `/'hɑːstl/`
+    - 美
+      - `/ˈhɑstl/`
   - 词义
-    - adj. 不友好的，敌意的；敌方的
-    - `angry and deliberately unfriendly towards someone, and ready to argue with them`
+    - adj.
+      - 不友好的，敌意的；敌方的
+        - `angry and deliberately unfriendly towards someone, and ready to argue with them`
   - 记忆
     - host(主人) + ile → 鸿门宴的主人 → 不友好的， 敌意的
   - 同根词
     - n.
-      - `hostility` 敌意；战争行动
+      - `hostility`
+        - 敌意；战争行动
   - 近义词
-    - adj. 敌对的，敌方的；怀敌意的
-      - `adverse`
-      - `enemy`
-      - `opposed`
-    - n. 敌对
-      - `opposition`
-      - `antagonism`
+    - adj.
+      - 敌对的，敌方的；怀敌意的
+        - `adverse`
+        - `enemy`
+        - `opposed`
+    - n.
+      - 敌对
+        - `opposition`
+        - `antagonism`
   - 短语
-    - `hostile takeover` 恶性接收；敌意接管 
+    - `hostile takeover`
+      - 恶性接收；敌意接管 
   - 例句
     - `Southampton fans gave their former coach a hostile reception .`
       - 南安普敦队的球迷对球队的前任教练很不友善。

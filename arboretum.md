@@ -1,25 +1,35 @@
 - arboretum
   - 发音
-    - 英 `/ˌɑːbə'riːtəm/`
-    - 美 `/,ɑrbə'ritəm/`
+    - 英
+      - `/ˌɑːbə'riːtəm/`
+    - 美
+      - `/,ɑrbə'ritəm/`
   - 词义
-    - n. 树园，植物园
-    - `a place where trees are grown for scientific study`
+    - n.
+      - 树园，植物园
+        - `a place where trees are grown for scientific study`
   - 记忆
     - arbor (树) + et (小) + um (地点) → 满是树木的小地点 → 植物园
   - 同根词
     - adj.
-      - `arboreal` 树木的；栖息在树上的
-      - `arboraceous` 长满树木的；树木状的
-      - `arboreous` 树木的；树木繁茂的；树木状的
-      - `arborescent` 树木状的
-      - `arborous` 树木茂盛的；树木的（等于arboreous）
+      - `arboreal`
+        - 树木的；栖息在树上的
+      - `arboraceous`
+        - 长满树木的；树木状的
+      - `arboreous`
+        - 树木的；树木繁茂的；树木状的
+      - `arborescent`
+        - 树木状的
+      - `arborous`
+        - 树木茂盛的；树木的（等于arboreous）
     - n.
-      - `arboriculture` 树木的培植/栽培
+      - `arboriculture`
+        - 树木的培植/栽培
   - 近义词
-    - n. 植物园；（供科研等的）[林]树木园
-      - `botanic garden`
-      - `botanical gardens`
+    - n.
+      - 植物园；（供科研等的）[林]树木园
+        - `botanic garden`
+        - `botanical gardens`
   - 例句
     - `Inputted England 1648 , kind in the arboretum in Ao Kesi Ford.`
       - 1648年输入英国， 种在奥克斯福特的植物园里。

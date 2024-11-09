@@ -1,15 +1,22 @@
 - antic
   - 发音
-    - 英 `/'æntɪk/`
-    - 美 `/undefined/`
+    - 英
+      - `/'æntɪk/`
+    - 美
+      - `/undefined/`
   - 词义
-    - adj. 古怪的；滑稽可笑的
-    - n. 滑稽动作；丑角
-    - v. 扮小丑；做滑稽动作
+    - adj.
+      - 古怪的；滑稽可笑的
+    - n.
+      - 滑稽动作；丑角
+    - v.
+      - 扮小丑；做滑稽动作
   - 近义词
-    - adj. 古怪的；滑稽可笑的
-      - `odd`
-      - `curious`
-    - n. 滑稽动作；丑角
-      - `jack-pudding`
-      - `buffoon`
+    - adj.
+      - 古怪的；滑稽可笑的
+        - `odd`
+        - `curious`
+    - n.
+      - 滑稽动作；丑角
+        - `jack-pudding`
+        - `buffoon`

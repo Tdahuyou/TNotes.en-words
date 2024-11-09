@@ -1,15 +1,18 @@
 - heavier
   - 发音
-    - 英 `/'hevɪə/`
-    - 美 `/'hɛvɪɚðən'ɛr/`
+    - 英
+      - `/'hevɪə/`
+    - 美
+      - `/'hɛvɪɚðən'ɛr/`
   - 词义
   - 近义词
-    - adj. 沉重的；巨大的
-      - `huge`
-      - `tremendous`
-      - `enormous`
-      - `massive`
-      - `macro`
+    - adj.
+      - 沉重的；巨大的
+        - `huge`
+        - `tremendous`
+        - `enormous`
+        - `massive`
+        - `macro`
   - 例句
     - `Just as in the sun, the chain reaction in the second stage fuses the hydrogen atoms into heavier helium atoms and releases vast amounts of energy in the process.`
       - 正如在太阳上所进行的反应一样，第二阶段连锁反应将氢原子聚合成较重的氦原子并在这一过程中释放出巨大的能量。

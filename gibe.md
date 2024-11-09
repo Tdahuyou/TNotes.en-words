@@ -1,16 +1,21 @@
 - gibe
   - 发音
-    - 英 `/dʒaɪb/`
-    - 美 `/undefined/`
+    - 英
+      - `/dʒaɪb/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n&v. 嘲弄，讥笑
+    - n&v.
+      - 嘲弄，讥笑
   - 近义词
-    - vt. 嘲笑；愚弄
-      - `laugh at`
-      - `make a mockery of`
-    - vi. 嘲笑；嘲弄
-      - `jeer at`
-      - `laugh at`
+    - vt.
+      - 嘲笑；愚弄
+        - `laugh at`
+        - `make a mockery of`
+    - vi.
+      - 嘲笑；嘲弄
+        - `jeer at`
+        - `laugh at`
   - 例句
     - `It's impolite to gibe at a foreign student's English.`
       - 嘲笑外国学生的英语是不礼貌的。

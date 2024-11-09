@@ -1,25 +1,32 @@
 - momentous
   - 发音
-    - 英 `/mou'mentəs/`
-    - 美 `/mo'mɛntəs/`
+    - 英
+      - `/mou'mentəs/`
+    - 美
+      - `/mo'mɛntəs/`
   - 词义
-    - adj. 重大的，重要的
-    - `a momentous event, change, or decision is very important because it will have a great influence on the future`
+    - adj.
+      - 重大的，重要的
+        - `a momentous event, change, or decision is very important because it will have a great influence on the future`
   - 记忆
     - moment(瞬间) + ous(形容词后缀) → 瞬间就能产生影响的 → 重大的
   - 同根词
     - adv.
-      - `momentously` 重大地
+      - `momentously`
+        - 重大地
     - n.
-      - `moment` 重要，契机；瞬间；重要时刻；指定时刻
-      - `momentousness` 重大；重要性
+      - `moment`
+        - 重要，契机；瞬间；重要时刻；指定时刻
+      - `momentousness`
+        - 重大；重要性
   - 近义词
-    - adj. 重要的；重大的
-      - `important`
-      - `crucial`
-      - `considerable`
-      - `material`
-      - `big`
+    - adj.
+      - 重要的；重大的
+        - `important`
+        - `crucial`
+        - `considerable`
+        - `material`
+        - `big`
   - 例句
     - `a momentous decision`
       - 重大决定

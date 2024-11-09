@@ -1,33 +1,46 @@
 - complain
   - 发音
-    - 英 `/kəm'pleɪn/`
-    - 美 `/kəm'plen/`
+    - 英
+      - `/kəm'pleɪn/`
+    - 美
+      - `/kəm'plen/`
   - 词义
-    - v. 诉苦，抱怨；投诉；控告
-    - `If you complain about a situation, you say that you are not satisfied with it`
+    - v.
+      - 诉苦，抱怨；投诉；控告
+        - `If you complain about a situation, you say that you are not satisfied with it`
   - 记忆
     - com + plain(平淡的) → 太过平淡的生活让人抱怨 → 抱怨
   - 同根词
     - adj.
-      - `complaining` 抱怨的
+      - `complaining`
+        - 抱怨的
     - adv.
-      - `complainingly` 抱怨地；发牢骚地；诉苦地
+      - `complainingly`
+        - 抱怨地；发牢骚地；诉苦地
     - n.
-      - `complaint` 抱怨；诉苦；疾病；委屈
-      - `complainant` [法] 原告；发牢骚的人；抱怨者
-      - `complainer` 老是抱怨的人
+      - `complaint`
+        - 抱怨；诉苦；疾病；委屈
+      - `complainant`
+        - [法] 原告；发牢骚的人；抱怨者
+      - `complainer`
+        - 老是抱怨的人
     - v.
-      - `complaining` 抱怨（complain的ing形式）；控诉
+      - `complaining`
+        - 抱怨（complain的ing形式）；控诉
   - 近义词
-    - vi. 投诉；发牢骚；诉说
-      - `whine about`
-      - `beef`
-    - vt. 抱怨；控诉
-      - `beef about`
-      - `rail against`
+    - vi.
+      - 投诉；发牢骚；诉说
+        - `whine about`
+        - `beef`
+    - vt.
+      - 抱怨；控诉
+        - `beef about`
+        - `rail against`
   - 短语
-    - `complain about` 抱怨 
-    - `complain of` n. 抱怨；抗议 
+    - `complain about`
+      - 抱怨 
+    - `complain of`
+      - n. 抱怨；抗议 
   - 例句
     - `Miners have complained bitterly that the government did not fulfil their promises.`
       - 矿工们已愤愤地抱怨政府没有兑现他们的承诺。

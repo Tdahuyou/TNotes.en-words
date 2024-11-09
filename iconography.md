@@ -1,14 +1,20 @@
 - iconography
   - 发音
-    - 英 `/,aɪkə'nɒgrəfɪ/`
-    - 美 `/'aɪkə'nɑgrəfi/`
+    - 英
+      - `/,aɪkə'nɒgrəfɪ/`
+    - 美
+      - `/'aɪkə'nɑgrəfi/`
   - 词义
-    - n. 肖像学,肖像画法
+    - n.
+      - 肖像学,肖像画法
   - 同根词
     - n.
-      - `icon` 图标；偶像；肖像，画像；圣像
-      - `iconology` 象征主义；肖像学
+      - `icon`
+        - 图标；偶像；肖像，画像；圣像
+      - `iconology`
+        - 象征主义；肖像学
   - 近义词
-    - n. 肖像研究；肖像学；图解
-      - `diagram`
-      - `illustration`
+    - n.
+      - 肖像研究；肖像学；图解
+        - `diagram`
+        - `illustration`

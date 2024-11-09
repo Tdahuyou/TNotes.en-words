@@ -1,9 +1,12 @@
 - Sweden
   - 发音
-    - 英 `/'swidən/`
-    - 美 `/'swidən/`
+    - 英
+      - `/'swidən/`
+    - 美
+      - `/'swidən/`
   - 词义
-    - n. 瑞典
+    - n.
+      - 瑞典
   - 例句
     - `Sweden borders Norway and Finland.`
       - 瑞典与挪威、芬兰接壤。

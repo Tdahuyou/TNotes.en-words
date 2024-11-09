@@ -1,14 +1,18 @@
 - joystick
   - 发音
-    - 英 `/undefined/`
-    - 美 `/'dʒɔɪstɪk/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/'dʒɔɪstɪk/`
   - 词义
-    - n. 操纵杆，[机]控制杆
-    - `an upright handle that you use to control something such as an aircraft or a computer game`
+    - n.
+      - 操纵杆，[机]控制杆
+        - `an upright handle that you use to control something such as an aircraft or a computer game`
   - 近义词
-    - n. [航]操纵杆，[机]控制杆
-      - `operating lever`
-      - `operating handle`
+    - n.
+      - [航]操纵杆，[机]控制杆
+        - `operating lever`
+        - `operating handle`
   - 例句
     - `This was to rule out any effects on the second resting scan that my have been caused by the participants still thinking about that dodgy joystick.`
       - 这是为了排除由于参与者仍在思考如何控制躲闪操纵杆而对第二次扫描产生的影响，与实验本身无关。

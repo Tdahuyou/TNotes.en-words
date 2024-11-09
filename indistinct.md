@@ -1,23 +1,29 @@
 - indistinct
   - 发音
-    - 英 `/ˌindis'tiŋkt/`
-    - 美 `/,ɪndɪ'stɪŋkt/`
+    - 英
+      - `/ˌindis'tiŋkt/`
+    - 美
+      - `/,ɪndɪ'stɪŋkt/`
   - 词义
-    - adj. 不清楚的；模糊的，朦胧的
-    - `an indistinct sound, image, or memory cannot be seen, heard, or remembered clearly`
+    - adj.
+      - 不清楚的；模糊的，朦胧的
+        - `an indistinct sound, image, or memory cannot be seen, heard, or remembered clearly`
   - 记忆
     - in (不) + distinct (清楚的) → 不清楚的
   - 同根词
     - adv.
-      - `indistinctly` 朦胧地；不明了地
+      - `indistinctly`
+        - 朦胧地；不明了地
     - n.
-      - `indistinctness` 不清晰度；模糊
+      - `indistinctness`
+        - 不清晰度；模糊
   - 近义词
-    - adj. 模糊的，不清楚的；朦胧的；难以清楚辨认的
-      - `fuzzy`
-      - `dark`
-      - `vague`
-      - `unclear`
+    - adj.
+      - 模糊的，不清楚的；朦胧的；难以清楚辨认的
+        - `fuzzy`
+        - `dark`
+        - `vague`
+        - `unclear`
   - 例句
     - `She muttered something indistinct.`
       - 她含含糊糊地嘟哝了句什么。

@@ -1,23 +1,32 @@
 - clergyman
   - 发音
-    - 英 `/'klɜːdʒɪmən/`
-    - 美 `/'klɝdʒɪmən/`
+    - 英
+      - `/'klɜːdʒɪmən/`
+    - 美
+      - `/'klɝdʒɪmən/`
   - 词义
-    - n. 牧师,教士
-    - `a male member of the clergy`
+    - n.
+      - 牧师,教士
+        - `a male member of the clergy`
   - 同根词
     - adj.
-      - `clerical` 书记的；牧师的；办事员的
-      - `cleric` 牧师的，教士的
+      - `clerical`
+        - 书记的；牧师的；办事员的
+      - `cleric`
+        - 牧师的，教士的
     - n.
-      - `clerical` 牧师
-      - `clergy` 神职人员；牧师；僧侣
-      - `cleric` 牧师；传教士
+      - `clerical`
+        - 牧师
+      - `clergy`
+        - 神职人员；牧师；僧侣
+      - `cleric`
+        - 牧师；传教士
   - 近义词
-    - n. 牧师；教士
-      - `minister`
-      - `priest`
-      - `preacher`
+    - n.
+      - 牧师；教士
+        - `minister`
+        - `priest`
+        - `preacher`
   - 例句
     - `"Then I need ask no further," said the clergyman, somewhat hastily rising from his chair.`
       - “这样看来，我就不必多问了，”牧师说着，有点匆忙地从椅子上站起身。

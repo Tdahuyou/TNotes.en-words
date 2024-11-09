@@ -1,33 +1,45 @@
 - steadfast
   - 发音
-    - 英 `/'stedfɑːst/`
-    - 美 `/'stɛdfæst/`
+    - 英
+      - `/'stedfɑːst/`
+    - 美
+      - `/'stɛdfæst/`
   - 词义
-    - adj. 稳定的；坚定的，忠实的
-    - `faithful and very loyal`
+    - adj.
+      - 稳定的；坚定的，忠实的
+        - `faithful and very loyal`
   - 记忆
     - stead (看作stand站， 保持) + fast (牢固的) → 保持稳固 → 坚定的， 忠实的
   - 同根词
     - adj.
-      - `steady` 稳定的；不变的；沉着的
+      - `steady`
+        - 稳定的；不变的；沉着的
     - adv.
-      - `steady` 稳定地；稳固地
-      - `steadfastly` 踏实地；不变地
+      - `steady`
+        - 稳定地；稳固地
+      - `steadfastly`
+        - 踏实地；不变地
     - n.
-      - `steady` 关系固定的情侣；固定支架
-      - `steadfastness` 坚定不移
-      - `steadiness` 稳定；稳健；不变；稳固
+      - `steady`
+        - 关系固定的情侣；固定支架
+      - `steadfastness`
+        - 坚定不移
+      - `steadiness`
+        - 稳定；稳健；不变；稳固
     - vi.
-      - `steady` 稳固
+      - `steady`
+        - 稳固
     - vt.
-      - `steady` 使稳定；稳固；使坚定
+      - `steady`
+        - 使稳定；稳固；使坚定
   - 近义词
-    - adj. 坚定的；不变的
-      - `committed`
-      - `firm`
-      - `constant`
-      - `confirmed`
-      - `permanent`
+    - adj.
+      - 坚定的；不变的
+        - `committed`
+        - `firm`
+        - `constant`
+        - `confirmed`
+        - `permanent`
   - 例句
     - `her father’s steadfast love for her`
       - 她父亲对她永不改变的爱

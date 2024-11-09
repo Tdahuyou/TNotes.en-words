@@ -1,18 +1,26 @@
 - totalitarianism
   - 发音
-    - 英 `/,təʊtælɪ'teərɪənɪzəm/`
-    - 美 `/,totælə'tɛrɪən,ɪzəm/`
+    - 英
+      - `/,təʊtælɪ'teərɪənɪzəm/`
+    - 美
+      - `/,totælə'tɛrɪən,ɪzəm/`
   - 词义
-    - n. 极权主义
-    - `Totalitarianism is the ideas, principles, and practices of totalitarian political systems`
+    - n.
+      - 极权主义
+        - `Totalitarianism is the ideas, principles, and practices of totalitarian political systems`
   - 同根词
     - adj.
-      - `totalitarian` 极权主义的
-      - `totalistic` 极权主义的（等于totalitarian）
+      - `totalitarian`
+        - 极权主义的
+      - `totalistic`
+        - 极权主义的（等于totalitarian）
     - n.
-      - `totalitarian` 极权主义者
-      - `totalism` 极权主义
-      - `totalistic` 极权主义者（等于totalitarian）
+      - `totalitarian`
+        - 极权主义者
+      - `totalism`
+        - 极权主义
+      - `totalistic`
+        - 极权主义者（等于totalitarian）
   - 例句
     - `The genealogy of antignosticism is complex, but there is where the origins of totalitarianism are to be found.`
       - 反灵知主义的谱系是复杂的，但是就是在这里我们能够找到极权主义的起源。

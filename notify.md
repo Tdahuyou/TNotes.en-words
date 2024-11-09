@@ -1,28 +1,38 @@
 - notify
   - 发音
-    - 英 `/'noutɪfaɪ/`
-    - 美 `/'notə'fai/`
+    - 英
+      - `/'noutɪfaɪ/`
+    - 美
+      - `/'notə'fai/`
   - 词义
-    - vt. 通报
-    - `to formally or officially tell someone about something`
+    - vt.
+      - 通报
+        - `to formally or officially tell someone about something`
   - 记忆
     - not(知道) + ify(使…) → 使…知道 → 通报
   - 同根词
     - n.
-      - `notice` 通知，布告；注意；公告
-      - `notification` 通知；通告；[法] 告示
+      - `notice`
+        - 通知，布告；注意；公告
+      - `notification`
+        - 通知；通告；[法] 告示
     - vi.
-      - `notice` 引起注意
+      - `notice`
+        - 引起注意
     - vt.
-      - `notice` 通知；注意到；留心
+      - `notice`
+        - 通知；注意到；留心
   - 近义词
-    - vt. 通告，通知；公布
-      - `message`
-      - `post`
-      - `publish`
+    - vt.
+      - 通告，通知；公布
+        - `message`
+        - `post`
+        - `publish`
   - 短语
-    - `notify party` 到货受通知人 
-    - `also notify` 另请通知 
+    - `notify party`
+      - 到货受通知人 
+    - `also notify`
+      - 另请通知 
   - 例句
     - `The skipper notified the coastguard of the tragedy.`
       - 船长通知了海岸警卫队这一灾难。

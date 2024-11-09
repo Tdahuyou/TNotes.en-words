@@ -1,19 +1,25 @@
 - encode
   - 发音
-    - 英 `/ɪn'kəʊd; en-/`
-    - 美 `/ɪn'kod/`
+    - 英
+      - `/ɪn'kəʊd; en-/`
+    - 美
+      - `/ɪn'kod/`
   - 词义
-    - v. 把编码
-    - `to put a message or other information into code`
+    - v.
+      - 把编码
+        - `to put a message or other information into code`
   - 同根词
     - n.
-      - `encoding` [计] 编码
+      - `encoding`
+        - [计] 编码
     - v.
-      - `encoding` [计] 编码（encode的ing形式）
+      - `encoding`
+        - [计] 编码（encode的ing形式）
   - 近义词
-    - vt. [计]编码，译码
-      - `to code`
-      - `to decode`
+    - vt.
+      - [计]编码，译码
+        - `to code`
+        - `to decode`
   - 例句
     - `These changes basically take a section of the description and encode it into RDF serialization.`
       - 这些更改基本上是抽取描述的一部分并将其编码为 RDF 序列化。

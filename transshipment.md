@@ -1,18 +1,24 @@
 - transshipment
   - 发音
-    - 英 `/træns'ʃipmənt/`
-    - 美 `/træns'ʃɪpmənt/`
+    - 英
+      - `/træns'ʃipmənt/`
+    - 美
+      - `/træns'ʃɪpmənt/`
   - 词义
-    - n. 转运
+    - n.
+      - 转运
   - 同根词
     - vi.
-      - `transship` 换船
+      - `transship`
+        - 换船
     - vt.
-      - `transship` 转运，转送；把…转载他船
+      - `transship`
+        - 转运，转送；把…转载他船
   - 近义词
-    - n. 转运；转载
-      - `on-carriage`
-      - `reshipment`
+    - n.
+      - 转运；转载
+        - `on-carriage`
+        - `reshipment`
   - 例句
     - `Shipment from Shanghai to Singapore without partial shipment/transshipment.`
       - 从上海装运到新加坡，不允许分批/转运。

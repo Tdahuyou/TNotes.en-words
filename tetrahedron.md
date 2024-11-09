@@ -1,10 +1,13 @@
 - tetrahedron
   - 发音
-    - 英 `/,tetrə'hiːdrən; -'hed-/`
-    - 美 `/,tɛtrə'hidrən/`
+    - 英
+      - `/,tetrə'hiːdrən; -'hed-/`
+    - 美
+      - `/,tɛtrə'hidrən/`
   - 词义
-    - n. 四面体
-    - `a solid figure having four plane faces`
+    - n.
+      - 四面体
+        - `a solid figure having four plane faces`
   - 例句
     - `And so now I have hydrogens at the four corners of a tetrahedron.`
       - 放在碳正四面体,的四个角上。

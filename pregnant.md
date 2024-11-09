@@ -1,21 +1,29 @@
 - pregnant
   - 发音
-    - 英 `/'pregnənt/`
-    - 美 `/'prɛɡnənt/`
+    - 英
+      - `/'pregnənt/`
+    - 美
+      - `/'prɛɡnənt/`
   - 词义
-    - adj. 怀孕的,重要的
-    - `if a woman or female animal is pregnant, she has an unborn baby growing inside her body`
+    - adj.
+      - 怀孕的,重要的
+        - `if a woman or female animal is pregnant, she has an unborn baby growing inside her body`
   - 同根词
     - n.
-      - `pregnancy` 怀孕；丰富，多产；意义深长
+      - `pregnancy`
+        - 怀孕；丰富，多产；意义深长
   - 近义词
-    - adj. 怀孕的；富有意义的
-      - `cyetic`
-      - `childing`
+    - adj.
+      - 怀孕的；富有意义的
+        - `cyetic`
+        - `childing`
   - 短语
-    - `pregnant woman` 孕妇 
-    - `to be pregnant` 怀孕 
-    - `pregnant solution` 含贵重矿物溶液 
+    - `pregnant woman`
+      - 孕妇 
+    - `to be pregnant`
+      - 怀孕 
+    - `pregnant solution`
+      - 含贵重矿物溶液 
   - 例句
     - `care for pregnant women`
       - 孕妇保健

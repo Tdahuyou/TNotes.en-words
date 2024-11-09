@@ -1,9 +1,12 @@
 - Laos
   - 发音
-    - 英 `/laʊz/`
-    - 美 `/laʊz/`
+    - 英
+      - `/laʊz/`
+    - 美
+      - `/laʊz/`
   - 词义
-    - n. 老挝（东南亚国家）
+    - n.
+      - 老挝（东南亚国家）
   - 例句
     - `Today, Tony from the Vientiane International School in Laos asks the scientists about how long we - or our descendants - might live.`
       - 今天，来自老挝万象国际学校的托尼向科学家提出了关于我们或我们的后代可以活多久的问题。

@@ -1,11 +1,16 @@
 - impermanency
   - 发音
-    - 英 `/im'pə:mənənsi/`
-    - 美 `/undefined/`
+    - 英
+      - `/im'pə:mənənsi/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 非永久性
+    - n.
+      - 非永久性
   - 同根词
     - adj.
-      - `impermanent` 暂时的；非永久的
+      - `impermanent`
+        - 暂时的；非永久的
     - n.
-      - `impermanence` 无常；暂时性
+      - `impermanence`
+        - 无常；暂时性

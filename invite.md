@@ -1,33 +1,46 @@
 - invite
   - 发音
-    - 英 `/ɪn'vaɪt/`
-    - 美 `/ɪn'vaɪt/`
+    - 英
+      - `/ɪn'vaɪt/`
+    - 美
+      - `/ɪn'vaɪt/`
   - 词义
-    - v. 邀请
-    - `to ask someone to come to a party, wedding, meal etc`
+    - v.
+      - 邀请
+        - `to ask someone to come to a party, wedding, meal etc`
   - 同根词
     - adj.
-      - `inviting` 诱人的；有魅力的
-      - `invitational` 邀请的
-      - `invitatory` 邀请的
+      - `inviting`
+        - 诱人的；有魅力的
+      - `invitational`
+        - 邀请的
+      - `invitatory`
+        - 邀请的
     - n.
-      - `invitation` 邀请；引诱
-      - `invitational` 四人两球赛
-      - `invitatory` 请祈祷的赞美诗；宣召
+      - `invitation`
+        - 邀请；引诱
+      - `invitational`
+        - 四人两球赛
+      - `invitatory`
+        - 请祈祷的赞美诗；宣召
     - v.
-      - `inviting` 邀请（invite的ing形式）
+      - `inviting`
+        - 邀请（invite的ing形式）
   - 近义词
-    - vt. 邀请，招待；招致
-      - `serve`
-      - `attend`
-      - `ask`
-      - `court`
-      - `guest`
-    - n. 邀请
-      - `calling`
-      - `invitation to`
+    - vt.
+      - 邀请，招待；招致
+        - `serve`
+        - `attend`
+        - `ask`
+        - `court`
+        - `guest`
+    - n.
+      - 邀请
+        - `calling`
+        - `invitation to`
   - 短语
-    - `invite public bidding` （公开）招标 
+    - `invite public bidding`
+      - （公开）招标 
   - 例句
     - `I’m afraid I wasn’t invited.`
       - 恐怕我没有受到邀请。

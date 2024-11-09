@@ -1,31 +1,43 @@
 - maintain
   - 发音
-    - 英 `/meɪn'teɪn/`
-    - 美 `/men'ten/`
+    - 英
+      - `/meɪn'teɪn/`
+    - 美
+      - `/men'ten/`
   - 词义
-    - vt. 维持，保持；维修，保养；主张，坚持；赡养，负担
-    - `to make something continue in the same way or at the same standard as before`
+    - vt.
+      - 维持，保持；维修，保养；主张，坚持；赡养，负担
+        - `to make something continue in the same way or at the same standard as before`
   - 记忆
     - main(手) + tain(拿) → 用手牢牢拿住 → 维持， 保持
   - 同根词
     - adj.
-      - `maintainable` 可维持的；可主张的；可维修的
+      - `maintainable`
+        - 可维持的；可主张的；可维修的
     - n.
-      - `maintenance` 维护，维修；保持；生活费用
-      - `maintainer` 维修工；保持器
+      - `maintenance`
+        - 维护，维修；保持；生活费用
+      - `maintainer`
+        - 维修工；保持器
   - 近义词
-    - vt. 维持；继续；维修；主张；供养
-      - `pursue`
-      - `submit`
-      - `sustain`
-      - `advocate`
-      - `service`
+    - vt.
+      - 维持；继续；维修；主张；供养
+        - `pursue`
+        - `submit`
+        - `sustain`
+        - `advocate`
+        - `service`
   - 短语
-    - `maintain in` 维持…；保持… 
-    - `maintain order` 维持秩序 
-    - `maintain world peace` 维护世界和平 
-    - `maintain contact with` 与...保持联系 
-    - `maintain discipline` 维持纪律 
+    - `maintain in`
+      - 维持…；保持… 
+    - `maintain order`
+      - 维持秩序 
+    - `maintain world peace`
+      - 维护世界和平 
+    - `maintain contact with`
+      - 与...保持联系 
+    - `maintain discipline`
+      - 维持纪律 
   - 例句
     - `Careers Officers maintain contact with young people when they have left school.`
       - 年轻人离开学校以后，职业指导员和他们保持联系。

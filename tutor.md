@@ -1,30 +1,43 @@
 - tutor
   - 发音
-    - 英 `/'tuːtər/`
-    - 美 `/'tʊtɚ/`
+    - 英
+      - `/'tuːtər/`
+    - 美
+      - `/'tʊtɚ/`
   - 词义
-    - v. 辅导
-    - `to teach someone as a tutor`
-    - n. 导师；家庭教师
-    - `someone who gives private lessons to one student or a small group, and is paid directly by them`
+    - v.
+      - 辅导
+        - `to teach someone as a tutor`
+    - n.
+      - 导师；家庭教师
+        - `someone who gives private lessons to one student or a small group, and is paid directly by them`
   - 同根词
     - adj.
-      - `tutorial` 辅导的；家庭教师的，个别指导的
+      - `tutorial`
+        - 辅导的；家庭教师的，个别指导的
     - n.
-      - `tutorial` 个别指导
-      - `tutelage` 监护；指导
-      - `tutee` 受指导者；受监护者
-      - `tutorship` 辅导；教师职位
+      - `tutorial`
+        - 个别指导
+      - `tutelage`
+        - 监护；指导
+      - `tutee`
+        - 受指导者；受监护者
+      - `tutorship`
+        - 辅导；教师职位
   - 近义词
-    - vt. 辅导；约束
-      - `restrict`
-      - `hold oneself in`
-    - n. 导师；家庭教师；助教
-      - `mentors`
-      - `teacher counselor`
+    - vt.
+      - 辅导；约束
+        - `restrict`
+        - `hold oneself in`
+    - n.
+      - 导师；家庭教师；助教
+        - `mentors`
+        - `teacher counselor`
   - 短语
-    - `private tutor` 私人教师，家庭教师 
-    - `tutor system` 导师制 
+    - `private tutor`
+      - 私人教师，家庭教师 
+    - `tutor system`
+      - 导师制 
   - 例句
     - `He was privately tutored.`
       - 他是由家庭教师教的。

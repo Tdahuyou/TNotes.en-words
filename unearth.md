@@ -1,17 +1,21 @@
 - unearth
   - 发音
-    - 英 `/ʌn'ɜːrθ/`
-    - 美 `/ʌn'ɝθ/`
+    - 英
+      - `/ʌn'ɜːrθ/`
+    - 美
+      - `/ʌn'ɝθ/`
   - 词义
-    - vt. 掘出，发掘；揭露
-    - `to find something after searching for it, especially something that has been buried in the ground or lost for a long time`
+    - vt.
+      - 掘出，发掘；揭露
+        - `to find something after searching for it, especially something that has been buried in the ground or lost for a long time`
   - 记忆
     - un(解开) + earth(地) → 使从地里出来 → 掘出， 发掘
   - 近义词
-    - vt. 发掘；揭露，发现；从洞中赶出
-      - `detect`
-      - `reveal`
-      - `expose`
+    - vt.
+      - 发掘；揭露，发现；从洞中赶出
+        - `detect`
+        - `reveal`
+        - `expose`
   - 例句
     - `Farmers still sometimes unearth human bones here.`
       - 农民们有时仍然能在这里挖到人骨。

@@ -1,28 +1,40 @@
 - supper
   - 发音
-    - 英 `/'sʌpə/`
-    - 美 `/'sʌpɚ/`
+    - 英
+      - `/'sʌpə/`
+    - 美
+      - `/'sʌpɚ/`
   - 词义
-    - n. 晚餐，晚饭；夜宵
-    - `the meal that you have in the early evening`
+    - n.
+      - 晚餐，晚饭；夜宵
+        - `the meal that you have in the early evening`
   - 同根词
     - adj.
-      - `supperless` 未吃晚饭的；没有晚饭的
+      - `supperless`
+        - 未吃晚饭的；没有晚饭的
     - n.
-      - `sup` 一口，少量
-      - `suppertime` 晚饭时间
+      - `sup`
+        - 一口，少量
+      - `suppertime`
+        - 晚饭时间
     - vi.
-      - `sup` 啜饮；吃晚饭
+      - `sup`
+        - 啜饮；吃晚饭
     - vt.
-      - `sup` 招待…吃晚饭；呷，啜
+      - `sup`
+        - 招待…吃晚饭；呷，啜
   - 近义词
-    - n. 晚餐，晚饭
-      - `dinner`
-      - `evening meal`
+    - n.
+      - 晚餐，晚饭
+        - `dinner`
+        - `evening meal`
   - 短语
-    - `after supper` 晚饭后 
-    - `have supper` 吃晚餐，吃晚饭 
-    - `last supper` 最后晚餐 
+    - `after supper`
+      - 晚饭后 
+    - `have supper`
+      - 吃晚餐，吃晚饭 
+    - `last supper`
+      - 最后晚餐 
   - 例句
     - `Why don’t you come over for supper on Friday?`
       - 周五为什么不过来吃晚饭呢？

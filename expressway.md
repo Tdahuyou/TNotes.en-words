@@ -1,16 +1,20 @@
 - expressway
   - 发音
-    - 英 `/ɪk'spresweɪ; ek-/`
-    - 美 `/ɪk'sprɛswe/`
+    - 英
+      - `/ɪk'spresweɪ; ek-/`
+    - 美
+      - `/ɪk'sprɛswe/`
   - 词义
-    - n. （美）高速公路
-    - `a wide road in a city on which cars can travel very quickly without stopping`
+    - n.
+      - （美）高速公路
+        - `a wide road in a city on which cars can travel very quickly without stopping`
   - 近义词
-    - n. （美）[公路]高速公路
-      - `freeway`
-      - `thruway`
-      - `motorway`
-      - `autoroute`
+    - n.
+      - （美）[公路]高速公路
+        - `freeway`
+        - `thruway`
+        - `motorway`
+        - `autoroute`
   - 例句
     - `He barreled along the expressway.`
       - 他沿高速公路高速行驶。

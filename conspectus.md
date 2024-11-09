@@ -1,14 +1,18 @@
 - conspectus
   - 发音
-    - 英 `/kən'spektəs/`
-    - 美 `/kən'spɛktəs/`
+    - 英
+      - `/kən'spektəs/`
+    - 美
+      - `/kən'spɛktəs/`
   - 词义
-    - n. 概论,大纲
-    - `an overall view; survey `
+    - n.
+      - 概论,大纲
+        - `an overall view; survey `
   - 近义词
-    - n. 概论；概观
-      - `overview`
-      - `generality`
+    - n.
+      - 概论；概观
+        - `overview`
+        - `generality`
   - 例句
     - `The first part is conspectus, which including the definition of steel structure architecture and a general background knowledge.`
       - 第一部分为概论，包括钢结构建筑的概念及相关背景知识的阐述。

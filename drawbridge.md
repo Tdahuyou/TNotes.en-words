@@ -1,15 +1,19 @@
 - drawbridge
   - 发音
-    - 英 `/'drɔːbrɪdʒ/`
-    - 美 `/'drɔbrɪdʒ/`
+    - 英
+      - `/'drɔːbrɪdʒ/`
+    - 美
+      - `/'drɔbrɪdʒ/`
   - 词义
-    - n. 可开闭的吊桥
-    - `a bridge that can be pulled up to stop people from entering a castle, or to let ships pass`
+    - n.
+      - 可开闭的吊桥
+        - `a bridge that can be pulled up to stop people from entering a castle, or to let ships pass`
   - 近义词
-    - n. （可开闭的）吊桥
-      - `suspension bridge`
-      - `hanging bridge`
-      - `pontlevis`
+    - n.
+      - （可开闭的）吊桥
+        - `suspension bridge`
+        - `hanging bridge`
+        - `pontlevis`
   - 例句
     - `Hearing the wheels on the drawbridge, Puss in Boots hastened out.`
       - 听见吊桥上车轮的声音，穿靴子的猫急忙跑了出来。

@@ -1,18 +1,25 @@
 - wayside
   - 发音
-    - 英 `/'weɪsaɪd/`
-    - 美 `/'we'saɪd/`
+    - 英
+      - `/'weɪsaɪd/`
+    - 美
+      - `/'we'saɪd/`
   - 词义
-    - n. 路旁
-    - `the side of a road`
-    - adj. 路旁的
+    - n.
+      - 路旁
+        - `the side of a road`
+    - adj.
+      - 路旁的
   - 近义词
-    - n. 路旁
-      - `roadside`
-    - adj. 路旁的
-      - `roadside`
+    - n.
+      - 路旁
+        - `roadside`
+    - adj.
+      - 路旁的
+        - `roadside`
   - 短语
-    - `fall by the wayside` 半途而废；中途退出 
+    - `fall by the wayside`
+      - 半途而废；中途退出 
   - 例句
     - `How is it that the successful motivate themselves to keep at it when others fall by the wayside?`
       - 当其他人跌倒在路旁时，他们是如何激发自己坚持下去的？

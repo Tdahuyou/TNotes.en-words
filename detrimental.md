@@ -1,24 +1,30 @@
 - detrimental
   - 发音
-    - 英 `/ˌdetri'mentəl/`
-    - 美 `/,dɛtrɪ'mɛntl/`
+    - 英
+      - `/ˌdetri'mentəl/`
+    - 美
+      - `/,dɛtrɪ'mɛntl/`
   - 词义
-    - adj. 有害的
-    - `causing harm or damage`
+    - adj.
+      - 有害的
+        - `causing harm or damage`
   - 记忆
     - 来自detriment (n. 损害； 伤害)
   - 同根词
     - adv.
-      - `detrimentally` 有害地；不利地
+      - `detrimentally`
+        - 有害地；不利地
     - n.
-      - `detriment` 损害；伤害；损害物
+      - `detriment`
+        - 损害；伤害；损害物
   - 近义词
-    - adj. 不利的；有害的
-      - `harmful`
-      - `adverse`
-      - `against`
-      - `evil`
-      - `disadvantageous`
+    - adj.
+      - 不利的；有害的
+        - `harmful`
+        - `adverse`
+        - `against`
+        - `evil`
+        - `disadvantageous`
   - 例句
     - `the detrimental effect of pollution on the environment`
       - 污染对环境的不利影响

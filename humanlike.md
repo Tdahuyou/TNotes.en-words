@@ -1,23 +1,35 @@
 - humanlike
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - adj. 似人类的
+    - adj.
+      - 似人类的
   - 同根词
     - adj.
-      - `human` 人的；人类的
-      - `humanist` 人文主义的；人道主义的
+      - `human`
+        - 人的；人类的
+      - `humanist`
+        - 人文主义的；人道主义的
     - n.
-      - `humanity` 人类；人道；仁慈；人文学科
-      - `human` 人；人类
-      - `humanist` 人道主义者；人类学者，人文学者；人文主义者
-      - `humankind` 人类（总称）
-      - `humanization` 人类化；教化
-      - `humanisation` 人类化，教化（等于humanization）
+      - `humanity`
+        - 人类；人道；仁慈；人文学科
+      - `human`
+        - 人；人类
+      - `humanist`
+        - 人道主义者；人类学者，人文学者；人文主义者
+      - `humankind`
+        - 人类（总称）
+      - `humanization`
+        - 人类化；教化
+      - `humanisation`
+        - 人类化，教化（等于humanization）
   - 近义词
-    - adj. 似人类的
-      - `hominoid`
+    - adj.
+      - 似人类的
+        - `hominoid`
   - 例句
     - `In terms of career advice, the most obvious message is: Focus on jobs and areas of expertise that appear to require humanlike general intelligence.`
       - 从职业建议上将，最明显的一点是：关注与那些需要人类总体智能的工作或专业领域。

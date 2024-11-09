@@ -1,13 +1,17 @@
 - hypha
   - 发音
-    - 英 `/'haɪfə/`
-    - 美 `/'haɪfə/`
+    - 英
+      - `/'haɪfə/`
+    - 美
+      - `/'haɪfə/`
   - 词义
-    - n. [植]菌丝
-    - `any of the filaments that constitute the body (mycelium) of a fungus `
+    - n.
+      - [植]菌丝
+        - `any of the filaments that constitute the body (mycelium) of a fungus `
   - 近义词
-    - n. 菌丝
-      - `mycelia`
+    - n.
+      - 菌丝
+        - `mycelia`
   - 例句
     - `The state in certain fungi in which each compartment of a hypha contains two nuclei, each derived from a different parent.`
       - 双核某种真菌中的状态，在这种真菌中，每个菌丝体都含有两个核，而每个核都是从不同的母体上衍生的。

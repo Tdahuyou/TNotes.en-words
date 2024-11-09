@@ -1,23 +1,34 @@
 - heedful
   - 发音
-    - 英 `/'hiːdful/`
-    - 美 `/'hi:dful/`
+    - 英
+      - `/'hiːdful/`
+    - 美
+      - `/'hi:dful/`
   - 词义
-    - adj. 注意的，留心的
+    - adj.
+      - 注意的，留心的
   - 同根词
     - adj.
-      - `heedless` 不注意的；不留心的
+      - `heedless`
+        - 不注意的；不留心的
     - adv.
-      - `heedfully` 深切注意地
-      - `heedlessly` 掉以轻心地；不加注意地
+      - `heedfully`
+        - 深切注意地
+      - `heedlessly`
+        - 掉以轻心地；不加注意地
     - n.
-      - `heed` 注意到；留心到
-      - `heedlessness` 不注意
+      - `heed`
+        - 注意到；留心到
+      - `heedlessness`
+        - 不注意
     - vi.
-      - `heed` 注意，留心
+      - `heed`
+        - 注意，留心
     - vt.
-      - `heed` 注意，留心
+      - `heed`
+        - 注意，留心
   - 近义词
-    - adj. 注意的；深切注意的；深切留心的
-      - `observing`
-      - `watchful`
+    - adj.
+      - 注意的；深切注意的；深切留心的
+        - `observing`
+        - `watchful`

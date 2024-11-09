@@ -1,20 +1,26 @@
 - bashfulness
   - 发音
-    - 英 `/'bæʃflnəs/`
-    - 美 `/undefined/`
+    - 英
+      - `/'bæʃflnəs/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 羞怯
+    - n.
+      - 羞怯
   - 记忆
     - 来自bashful(adj. 羞怯的， 忸怩的)
   - 同根词
     - adj.
-      - `bashful` 害羞的，腼腆的
+      - `bashful`
+        - 害羞的，腼腆的
     - adv.
-      - `bashfully` 羞怯地；易窘迫地；局促不安地
+      - `bashfully`
+        - 羞怯地；易窘迫地；局促不安地
   - 近义词
-    - n. 羞怯；腼腆
-      - `shyness`
-      - `coyness`
+    - n.
+      - 羞怯；腼腆
+        - `shyness`
+        - `coyness`
   - 例句
     - `Though modesty be a virtue , yet bashfulness is a vice.`
       - 尽管谦虚是一种美德，但害羞就成了缺点。

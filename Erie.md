@@ -1,16 +1,22 @@
 - Erie
   - 发音
-    - 英 `/'iəri/`
-    - 美 `/'iəri/`
+    - 英
+      - `/'iəri/`
+    - 美
+      - `/'iəri/`
   - 词义
-    - n. 伊利(人)
-    - `a member of a North American Indian people formerly living south of Lake Erie `
+    - n.
+      - 伊利(人)
+        - `a member of a North American Indian people formerly living south of Lake Erie `
   - 近义词
-    - n. 伊利（美国港市）；伊利湖（北美五大湖之一）；伊利人
-      - `Ely`
+    - n.
+      - 伊利（美国港市）；伊利湖（北美五大湖之一）；伊利人
+        - `Ely`
   - 短语
-    - `lake erie` 伊利湖（北美洲五大湖之一） 
-    - `erie canal` 伊利运河 
+    - `lake erie`
+      - 伊利湖（北美洲五大湖之一） 
+    - `erie canal`
+      - 伊利运河 
   - 例句
     - `They drove north back home, where he would start chemotherapy at a cancer center in Erie.`
       - 他们驱车向北返回家中，要在伊利肿瘤治疗中心开始进行化疗。

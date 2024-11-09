@@ -1,16 +1,23 @@
 - rapture
   - 发音
-    - 英 `/'ræptʃə/`
-    - 美 `/'ræptʃɚ/`
+    - 英
+      - `/'ræptʃə/`
+    - 美
+      - `/'ræptʃɚ/`
   - 词义
-    - n. 兴高采烈
-    - vt. 使…狂喜
+    - n.
+      - 兴高采烈
+    - vt.
+      - 使…狂喜
   - 同根词
     - adj.
-      - `rapturous` 狂喜的；兴高采烈的；欢天喜地的
+      - `rapturous`
+        - 狂喜的；兴高采烈的；欢天喜地的
   - 近义词
-    - n. 兴高采烈
-      - `elation`
-      - `gaiety`
+    - n.
+      - 兴高采烈
+        - `elation`
+        - `gaiety`
   - 短语
-    - `go into raptures` 欣喜若狂 
+    - `go into raptures`
+      - 欣喜若狂 

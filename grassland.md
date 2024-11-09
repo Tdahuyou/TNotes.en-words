@@ -1,14 +1,18 @@
 - grassland
   - 发音
-    - 英 `/'grɑːslænd/`
-    - 美 `/'ɡræslænd/`
+    - 英
+      - `/'grɑːslænd/`
+    - 美
+      - `/'ɡræslænd/`
   - 词义
-    - n. 牧草地,草原
-    - `a large area of land covered with wild grass`
+    - n.
+      - 牧草地,草原
+        - `a large area of land covered with wild grass`
   - 近义词
-    - n. 草原；[畜牧]牧草地
-      - `veldt`
-      - `pastureland`
+    - n.
+      - 草原；[畜牧]牧草地
+        - `veldt`
+        - `pastureland`
   - 例句
     - `...areas of open grassland.`
       - ...开阔的草地区域。

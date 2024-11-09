@@ -1,11 +1,15 @@
 - Mr
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 先生
+    - n.
+      - 先生
   - 短语
-    - `mr right` 白马王子；如意郎君；对先生；理想的丈夫 
+    - `mr right`
+      - 白马王子；如意郎君；对先生；理想的丈夫 
   - 例句
     - `Mr White likes chatting up the girls.`
       - 怀特先生喜欢跟姑娘们搭讪。

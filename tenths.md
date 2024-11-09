@@ -1,11 +1,15 @@
 - tenths
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 十分位（tenth的复数形式）
+    - n.
+      - 十分位（tenth的复数形式）
   - 短语
-    - `nine tenths` 几乎全部 
+    - `nine tenths`
+      - 几乎全部 
   - 例句
     - `This approach shaved a few tenths of a second off the normal running time, and a few seconds off the large-input version.`
       - 这种方法将正常的运行时间削减了十分之几秒，在较大的输入版本的情况下削减了数秒钟。

@@ -1,44 +1,65 @@
 - multiply
   - 发音
-    - 英 `/'mʌltɪplaɪ/`
-    - 美 `/'mʌltɪplaɪ/`
+    - 英
+      - `/'mʌltɪplaɪ/`
+    - 美
+      - `/'mʌltɪplaɪ/`
   - 词义
-    - v. 增加；繁殖；乘
-    - `to breed`
+    - v.
+      - 增加；繁殖；乘
+        - `to breed`
   - 记忆
     - multi(多的) + ply(折叠) → 多重 → (使)增加； (使)繁殖
   - 同根词
     - adj.
-      - `multiple` 多重的；多样的；许多的
-      - `multiplex` 多样的，多元的；[通信] 多路传输的
-      - `multiplicative` [数] 乘法的；增加的
-      - `multipliable` 可增加的；可乘的
-      - `multistorey` 多层的；有多层楼的
-      - `multistory` 多层的；有多层楼的
+      - `multiple`
+        - 多重的；多样的；许多的
+      - `multiplex`
+        - 多样的，多元的；[通信] 多路传输的
+      - `multiplicative`
+        - [数] 乘法的；增加的
+      - `multipliable`
+        - 可增加的；可乘的
+      - `multistorey`
+        - 多层的；有多层楼的
+      - `multistory`
+        - 多层的；有多层楼的
     - n.
-      - `multiple` 倍数；[电] 并联
-      - `multiplication` [数] 乘法；增加
-      - `multiplier` [数] 乘数；[电子] 倍增器；增加者；繁殖者
-      - `multiplex` [测] 多倍仪；多重通道
-      - `multiplicity` 多样性；[物] 多重性
-      - `multiplicative` 乘法；倍数词
+      - `multiple`
+        - 倍数；[电] 并联
+      - `multiplication`
+        - [数] 乘法；增加
+      - `multiplier`
+        - [数] 乘数；[电子] 倍增器；增加者；繁殖者
+      - `multiplex`
+        - [测] 多倍仪；多重通道
+      - `multiplicity`
+        - 多样性；[物] 多重性
+      - `multiplicative`
+        - 乘法；倍数词
     - vi.
-      - `multiplex` [通信] 多路传输；多工
+      - `multiplex`
+        - [通信] 多路传输；多工
     - vt.
-      - `multiplex` [通信] 多路传输
+      - `multiplex`
+        - [通信] 多路传输
   - 近义词
-    - vt. 乘；使增加；使繁殖；使相乘
-      - `ride`
-    - vi. 乘；繁殖；增加
-      - `breed`
-      - `improve`
-      - `accelerate`
-      - `gain`
-    - adj. 多层的；多样的
-      - `diversiform`
-      - `variant`
+    - vt.
+      - 乘；使增加；使繁殖；使相乘
+        - `ride`
+    - vi.
+      - 乘；繁殖；增加
+        - `breed`
+        - `improve`
+        - `accelerate`
+        - `gain`
+    - adj.
+      - 多层的；多样的
+        - `diversiform`
+        - `variant`
   - 短语
-    - `multiply by` 乘以；乘上 
+    - `multiply by`
+      - 乘以；乘上 
   - 例句
     - `Bacteria multiply quickly in warm food.`
       - 细菌在温热的食物里繁殖得很快。

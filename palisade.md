@@ -1,16 +1,21 @@
 - palisade
   - 发音
-    - 英 `/,pælɪ'seɪd/`
-    - 美 `/,pælɪ'sed/`
+    - 英
+      - `/,pælɪ'seɪd/`
+    - 美
+      - `/,pælɪ'sed/`
   - 词义
-    - n. 木栅
-    - `a strong fence made of pointed posts`
+    - n.
+      - 木栅
+        - `a strong fence made of pointed posts`
   - 近义词
-    - n. 栅栏；木桩；细胞层
-      - `rail fence`
-      - `timber pile`
+    - n.
+      - 栅栏；木桩；细胞层
+        - `rail fence`
+        - `timber pile`
   - 短语
-    - `palisade tissue` 栅状组织 
+    - `palisade tissue`
+      - 栅状组织 
   - 例句
     - `protected from spring tides by a palisade`
       - 为了抵御大潮，围了一排栅栏

@@ -1,17 +1,22 @@
 - lessee
   - 发音
-    - 英 `/le'siː/`
-    - 美 `/lɛ'si/`
+    - 英
+      - `/le'siː/`
+    - 美
+      - `/lɛ'si/`
   - 词义
-    - n. 承租人,租户
-    - `someone who is allowed to use a house, building, land etc for a period of time in return for payment to the owner`
+    - n.
+      - 承租人,租户
+        - `someone who is allowed to use a house, building, land etc for a period of time in return for payment to the owner`
   - 同根词
     - n.
-      - `lessor` 出租人
+      - `lessor`
+        - 出租人
   - 近义词
-    - n. [租赁]承租人
-      - `renter`
-      - `tenantry`
+    - n.
+      - [租赁]承租人
+        - `renter`
+        - `tenantry`
   - 例句
     - `A lease is a rental agreement between the lessee and the lessor.`
       - 租赁契约是出租人和承租人之间达成的租用协议。

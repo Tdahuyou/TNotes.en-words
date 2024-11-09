@@ -1,6 +1,9 @@
 - distingusihed
   - 发音
-    - 英 `/dis'tiŋgwiʃt/`
-    - 美 `/undefined/`
+    - 英
+      - `/dis'tiŋgwiʃt/`
+    - 美
+      - `/undefined/`
   - 词义
-    - adj. 著名的，卓越的
+    - adj.
+      - 著名的，卓越的

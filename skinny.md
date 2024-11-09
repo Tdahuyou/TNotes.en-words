@@ -1,34 +1,50 @@
 - skinny
   - 发音
-    - 英 `/'skɪnɪ/`
-    - 美 `/ˈskɪni/`
+    - 英
+      - `/'skɪnɪ/`
+    - 美
+      - `/ˈskɪni/`
   - 词义
-    - n. 机密情报；内部消息；小道消息
-    - adj. 皮的；皮包骨的；紧身的；小气的
-    - `very thin, especially in a way that is unattractive`
+    - n.
+      - 机密情报；内部消息；小道消息
+    - adj.
+      - 皮的；皮包骨的；紧身的；小气的
+        - `very thin, especially in a way that is unattractive`
   - 同根词
     - adj.
-      - `skinned` 剥了皮的；没有草皮的
-      - `skinless` 无皮的
-      - `skintight` 紧身的
+      - `skinned`
+        - 剥了皮的；没有草皮的
+      - `skinless`
+        - 无皮的
+      - `skintight`
+        - 紧身的
     - n.
-      - `skin` 皮肤；外皮
-      - `skinner` 剥皮工人；皮革商；骗子
-      - `skinniness` 消瘦；皮质
-      - `skintight` 紧身衣
+      - `skin`
+        - 皮肤；外皮
+      - `skinner`
+        - 剥皮工人；皮革商；骗子
+      - `skinniness`
+        - 消瘦；皮质
+      - `skintight`
+        - 紧身衣
     - v.
-      - `skinned` 剥皮；给…植皮（skin的过去式和过去分词）
+      - `skinned`
+        - 剥皮；给…植皮（skin的过去式和过去分词）
     - vi.
-      - `skin` 愈合；长皮
+      - `skin`
+        - 愈合；长皮
     - vt.
-      - `skin` 剥皮
+      - `skin`
+        - 剥皮
   - 近义词
-    - n. 机密情报；内部消息；小道消息
-      - `classified information`
-      - `confidential information`
-    - adj. 皮的；皮包骨的；紧身的；小气的
-      - `cheap`
-      - `leather`
+    - n.
+      - 机密情报；内部消息；小道消息
+        - `classified information`
+        - `confidential information`
+    - adj.
+      - 皮的；皮包骨的；紧身的；小气的
+        - `cheap`
+        - `leather`
   - 例句
     - `Some supermodels are far too skinny.`
       - 有些超级模特也太瘦骨嶙峋了。

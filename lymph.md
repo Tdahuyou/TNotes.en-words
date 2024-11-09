@@ -1,26 +1,36 @@
 - lymph
   - 发音
-    - 英 `/lɪmf/`
-    - 美 `/lɪmf/`
+    - 英
+      - `/lɪmf/`
+    - 美
+      - `/lɪmf/`
   - 词义
-    - n. [解剖]淋巴，淋巴液；血清
-    - `a clear liquid that is formed in your body and passes into your blood system to fight against infection`
+    - n.
+      - [解剖]淋巴，淋巴液；血清
+        - `a clear liquid that is formed in your body and passes into your blood system to fight against infection`
   - 记忆
     - “淋” → 淋巴
   - 同根词
     - adj.
-      - `lymphatic` 淋巴的；含淋巴的
+      - `lymphatic`
+        - 淋巴的；含淋巴的
     - n.
-      - `lymphatic` 淋巴管；淋巴腺
-      - `lymphadenopathy` [内科] 淋巴结病
-      - `lymphangiography` 淋巴管造影术
+      - `lymphatic`
+        - 淋巴管；淋巴腺
+      - `lymphadenopathy`
+        - [内科] 淋巴结病
+      - `lymphangiography`
+        - 淋巴管造影术
   - 近义词
-    - n. [解剖]淋巴，淋巴液；血清
-      - `serum`
-      - `chyle`
+    - n.
+      - [解剖]淋巴，淋巴液；血清
+        - `serum`
+        - `chyle`
   - 短语
-    - `lymph node` [医]淋巴结 
-    - `mesenteric lymph nodes` 肠系膜淋巴结 
+    - `lymph node`
+      - [医]淋巴结 
+    - `mesenteric lymph nodes`
+      - 肠系膜淋巴结 
   - 例句
     - `In the first stage, the trypanosomes multiply in subcutaneous tissues, blood and lymph.`
       - 在第一阶段，锥虫在皮下组织、血液和淋巴中繁殖。

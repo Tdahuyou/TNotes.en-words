@@ -1,14 +1,18 @@
 - hotpot
   - 发音
-    - 英 `/'hɒtpɒt/`
-    - 美 `/'hɑtpɑt/`
+    - 英
+      - `/'hɒtpɒt/`
+    - 美
+      - `/'hɑtpɑt/`
   - 词义
-    - n. 火锅
-    - `a piece of electrical equipment with a small container, used to boil water`
+    - n.
+      - 火锅
+        - `a piece of electrical equipment with a small container, used to boil water`
   - 近义词
-    - n. 牛肉，羊肉，马铃薯合敦的菜肴
-      - `beef`
-      - `boeuf`
+    - n.
+      - 牛肉，羊肉，马铃薯合敦的菜肴
+        - `beef`
+        - `boeuf`
   - 例句
     - `Lancashire hotpot: This is another British dish that uses lamb, named after the Lancashire region in the middle of the UK.`
       - 兰克希儿郡火锅 ：这又是一道用羊羔肉做的英式菜肴，以英国中部的兰克希儿地区命名。

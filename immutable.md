@@ -1,22 +1,28 @@
 - immutable
   - 发音
-    - 英 `/ɪ'mjuːtəbl/`
-    - 美 `/ɪ'mjutəbl/`
+    - 英
+      - `/ɪ'mjuːtəbl/`
+    - 美
+      - `/ɪ'mjutəbl/`
   - 词义
-    - adj. 不可改变的，永恒不变的
-    - `never changing or impossible to change`
+    - adj.
+      - 不可改变的，永恒不变的
+        - `never changing or impossible to change`
   - 记忆
     - im(不) + mut(变化) + able(能…的) → 不可改变的， 永恒不变的
   - 同根词
     - adv.
-      - `immutably` 不变地；永恒地
+      - `immutably`
+        - 不变地；永恒地
     - n.
-      - `immutability` 不变；永恒性；不变性
+      - `immutability`
+        - 不变；永恒性；不变性
   - 近义词
-    - adj. 不变的；不可变的；不能变的
-      - `constant`
-      - `permanent`
-      - `steady`
+    - adj.
+      - 不变的；不可变的；不能变的
+        - `constant`
+        - `permanent`
+        - `steady`
   - 例句
     - `This decision should not be seen as immutable.`
       - 不该把这个决定看成是不可改变的。

@@ -1,12 +1,15 @@
 - handtruck
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
   - 近义词
-    - n. 手推运货车，手推车
-      - `pushcart`
-      - `manual truck`
+    - n.
+      - 手推运货车，手推车
+        - `pushcart`
+        - `manual truck`
   - 例句
     - `Hydra selected the step ladder/handtruck.`
       - 而女队则选择推销梯子/手推车。

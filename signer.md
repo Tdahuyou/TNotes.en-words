@@ -1,37 +1,61 @@
 - signer
   - 发音
-    - 英 `/undefined/`
-    - 美 `/'saɪnɚ/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/'saɪnɚ/`
   - 词义
-    - n. 签名人,(用手势)示意者
-    - `The signer of a document such as a contract is the person who has signed it`
+    - n.
+      - 签名人,(用手势)示意者
+        - `The signer of a document such as a contract is the person who has signed it`
   - 同根词
     - adj.
-      - `signal` 显著的；作为信号的
-      - `signed` 有符号的；已签字的；有正负之分的
-      - `signatory` 签署的；签约的
+      - `signal`
+        - 显著的；作为信号的
+      - `signed`
+        - 有符号的；已签字的；有正负之分的
+      - `signatory`
+        - 签署的；签约的
     - n.
-      - `sign` 迹象；符号；记号；手势
-      - `signature` 署名；签名；信号
-      - `signal` 信号；暗号；导火线
-      - `signage` 引导标示
-      - `signatory` 签约国；签名人
-      - `signing` 签署；签字
-      - `signalization` 信号作用
+      - `sign`
+        - 迹象；符号；记号；手势
+      - `signature`
+        - 署名；签名；信号
+      - `signal`
+        - 信号；暗号；导火线
+      - `signage`
+        - 引导标示
+      - `signatory`
+        - 签约国；签名人
+      - `signing`
+        - 签署；签字
+      - `signalization`
+        - 信号作用
     - v.
-      - `signed` 署名；写下；预示；示意（sign的过去分词）
-      - `signing` 签字；写下；示意（sign的ing形式）
+      - `signed`
+        - 署名；写下；预示；示意（sign的过去分词）
+      - `signing`
+        - 签字；写下；示意（sign的ing形式）
     - vi.
-      - `sign` 签署；签名
-      - `signal` 发信号
-      - `signify` 有重要性；要紧；冒充内行
-      - `signalize` 发信号
+      - `sign`
+        - 签署；签名
+      - `signal`
+        - 发信号
+      - `signify`
+        - 有重要性；要紧；冒充内行
+      - `signalize`
+        - 发信号
     - vt.
-      - `sign` 签署；示意
-      - `signal` 标志；用信号通知
-      - `signify` 表示；意味；预示
-      - `signalise` 使…显著；用信号通知；庆祝；突出地表明
-      - `signalize` 使显眼；使著名；向…发信号
+      - `sign`
+        - 签署；示意
+      - `signal`
+        - 标志；用信号通知
+      - `signify`
+        - 表示；意味；预示
+      - `signalise`
+        - 使…显著；用信号通知；庆祝；突出地表明
+      - `signalize`
+        - 使显眼；使著名；向…发信号
   - 例句
     - `You understand that any authorized signer on your current account can access your credit line.`
       - 你要知道你目前银行账户的任何授权的签署人都能够获取你的信贷限额。

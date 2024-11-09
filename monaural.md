@@ -1,13 +1,17 @@
 - monaural
   - 发音
-    - 英 `/mɒn'ɔːr(ə)l/`
-    - 美 `/undefined/`
+    - 英
+      - `/mɒn'ɔːr(ə)l/`
+    - 美
+      - `/undefined/`
   - 词义
-    - adj. 单耳(听觉)的,非立体声的
-    - `relating to, having, or hearing with only one ear `
+    - adj.
+      - 单耳(听觉)的,非立体声的
+        - `relating to, having, or hearing with only one ear `
   - 近义词
-    - adj. 单耳的；[广播]单声道的，非立体声的
-      - `monophonic`
+    - adj.
+      - 单耳的；[广播]单声道的，非立体声的
+        - `monophonic`
   - 例句
     - `Improved control circuit places monaural image in a stereo field.`
       - 在立体声领域，改进控制电路放置非立体声像。

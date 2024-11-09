@@ -1,21 +1,29 @@
 - overgrown
   - 发音
-    - 英 `/əʊvə'grəʊn; 'əʊvəgrəʊn/`
-    - 美 `/,ovɚ'ɡron/`
+    - 英
+      - `/əʊvə'grəʊn; 'əʊvəgrəʊn/`
+    - 美
+      - `/,ovɚ'ɡron/`
   - 词义
-    - adj. 蔓生的；生长过快的
-    - `covered with plants that have grown in an uncontrolled way`
-    - v. 生长过度（overgrow的过去分词）
+    - adj.
+      - 蔓生的；生长过快的
+        - `covered with plants that have grown in an uncontrolled way`
+    - v.
+      - 生长过度（overgrow的过去分词）
   - 同根词
     - n.
-      - `overgrowth` 增生；繁茂；生长过度；过度发育
+      - `overgrowth`
+        - 增生；繁茂；生长过度；过度发育
     - vi.
-      - `overgrow` 生长过度
+      - `overgrow`
+        - 生长过度
     - vt.
-      - `overgrow` 长满于；长得超过
+      - `overgrow`
+        - 长满于；长得超过
   - 近义词
-    - adj. 蔓生的；生长过快的
-      - `sprawling`
+    - adj.
+      - 蔓生的；生长过快的
+        - `sprawling`
   - 例句
     - `a lawn with overgrown grass`
       - 杂草丛生的草地

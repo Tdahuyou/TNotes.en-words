@@ -1,17 +1,26 @@
 - noun
   - 发音
-    - 英 `/naʊn/`
-    - 美 `/naʊn/`
+    - 英
+      - `/naʊn/`
+    - 美
+      - `/naʊn/`
   - 词义
-    - n. 名词
-    - `a word or group of words that represent a person (such as ‘Michael’, ‘teacher’ or ‘police officer’), a place (such as ‘France’ or ‘school’), a thing or activity (such as ‘coffee’ or ‘football’), or a quality or idea (such as ‘danger’ or ‘happiness’). Nouns can be used as the subject or object of a verb (as in ‘The teacher arrived’ or ‘We like the teacher’) or as the object of a preposition (as in ‘good at football’).`
+    - n.
+      - 名词
+        - `a word or group of words that represent a person (such as ‘Michael’, ‘teacher’ or ‘police officer’), a place (such as ‘France’ or ‘school’), a thing or activity (such as ‘coffee’ or ‘football’), or a quality or idea (such as ‘danger’ or ‘happiness’). Nouns can be used as the subject or object of a verb (as in ‘The teacher arrived’ or ‘We like the teacher’) or as the object of a preposition (as in ‘good at football’).`
   - 短语
-    - `noun phrase` 名词短语 
-    - `abstract noun` 抽象名词 
-    - `proper noun` [语]专有名词 
-    - `uncountable noun` 不可数名词 
-    - `plural noun` 复数名词 
-    - `collective noun` n. 集合名词 
+    - `noun phrase`
+      - 名词短语 
+    - `abstract noun`
+      - 抽象名词 
+    - `proper noun`
+      - [语]专有名词 
+    - `uncountable noun`
+      - 不可数名词 
+    - `plural noun`
+      - 复数名词 
+    - `collective noun`
+      - n. 集合名词 
   - 例句
     - `An adjective must agree with  its noun in mumber and case.`
       - 形容词在数和格方面必须符合其所修饰的名词。

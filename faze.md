@@ -1,12 +1,16 @@
 - faze
   - 发音
-    - 英 `/feɪz/`
-    - 美 `/fez/`
+    - 英
+      - `/feɪz/`
+    - 美
+      - `/fez/`
   - 词义
-    - v. 打扰；使狼狈；折磨
+    - v.
+      - 打扰；使狼狈；折磨
   - 近义词
-    - vt. 打扰；使狼狈；折磨
-      - `harry`
-      - `worry`
-      - `trouble`
-      - `tear`
+    - vt.
+      - 打扰；使狼狈；折磨
+        - `harry`
+        - `worry`
+        - `trouble`
+        - `tear`

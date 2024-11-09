@@ -1,13 +1,17 @@
 - slingshot
   - 发音
-    - 英 `/'slɪŋʃɒt/`
-    - 美 `/'slɪŋʃɑt/`
+    - 英
+      - `/'slɪŋʃɒt/`
+    - 美
+      - `/'slɪŋʃɑt/`
   - 词义
-    - n. 弹弓
-    - `a small Y-shaped stick with a thin band of rubber across the top, used to throw stones`
+    - n.
+      - 弹弓
+        - `a small Y-shaped stick with a thin band of rubber across the top, used to throw stones`
   - 近义词
-    - n. 弹弓
-      - `catapult`
+    - n.
+      - 弹弓
+        - `catapult`
   - 例句
     - `He came at Goliath with a slingshot and staff because those were the tools of his trade.`
       - 他用以攻击歌利亚的武器是一个弹弓和一把竹杖，因为这就是他牧羊用的工具。

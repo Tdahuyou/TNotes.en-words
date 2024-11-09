@@ -1,32 +1,46 @@
 - vest
   - 发音
-    - 英 `/vest/`
-    - 美 `/vest/`
+    - 英
+      - `/vest/`
+    - 美
+      - `/vest/`
   - 词义
-    - n. 汗衫vt使穿衣服,授予
-    - `a piece of underwear without sleeves that you wear on the top half of your body`
+    - n.
+      - 汗衫vt使穿衣服,授予
+        - `a piece of underwear without sleeves that you wear on the top half of your body`
   - 同根词
     - adj.
-      - `vested` 既定的；穿着衣服（尤指祭服）的；（美）带背心的（指西服套装）
+      - `vested`
+        - 既定的；穿着衣服（尤指祭服）的；（美）带背心的（指西服套装）
     - n.
-      - `vestment` （作礼拜时教士的）法衣；官服；祭坛布；礼服；衣服
-      - `vesture` 衣裳；覆盖物
+      - `vestment`
+        - （作礼拜时教士的）法衣；官服；祭坛布；礼服；衣服
+      - `vesture`
+        - 衣裳；覆盖物
     - v.
-      - `vested` （财产、权利等）授予（vest的过去式和过去分词）；使穿衣服
+      - `vested`
+        - （财产、权利等）授予（vest的过去式和过去分词）；使穿衣服
     - vt.
-      - `vesture` 使穿衣服；覆盖
+      - `vesture`
+        - 使穿衣服；覆盖
   - 近义词
-    - n. [服装]背心；汗衫
-      - `shirt`
-      - `waistcoat`
-    - vt. 授予；使穿衣
-      - `award`
-      - `grant`
-      - `invest`
-      - `habit`
-      - `give`
+    - n.
+      - [服装]背心；汗衫
+        - `shirt`
+        - `waistcoat`
+    - vt.
+      - 授予；使穿衣
+        - `award`
+        - `grant`
+        - `invest`
+        - `habit`
+        - `give`
   - 短语
-    - `vest in` v. 归属于；授予 
-    - `bulletproof vest` 防弹背心；避弹衣 
-    - `close to the vest` 做事小心谨慎 
-    - `bullet-proof vest` 防弹背心，防弹衣 
+    - `vest in`
+      - v. 归属于；授予 
+    - `bulletproof vest`
+      - 防弹背心；避弹衣 
+    - `close to the vest`
+      - 做事小心谨慎 
+    - `bullet-proof vest`
+      - 防弹背心，防弹衣 

@@ -1,19 +1,31 @@
 - thirteenth
   - 发音
-    - 英 `/'θɜːtiːnθ/`
-    - 美 `/'θɝtinθ/`
+    - 英
+      - `/'θɜːtiːnθ/`
+    - 美
+      - `/'θɝtinθ/`
   - 词义
-    - adj. 第十三的；十三分之一的
-    - n. 第十三；十三分之一
+    - adj.
+      - 第十三的；十三分之一的
+    - n.
+      - 第十三；十三分之一
   - 同根词
     - adj.
-      - `third` 第三的；三分之一的
-      - `thirteen` 十三的；十三个的
-      - `thirtieth` 第三十个的；三十分之一的
+      - `third`
+        - 第三的；三分之一的
+      - `thirteen`
+        - 十三的；十三个的
+      - `thirtieth`
+        - 第三十个的；三十分之一的
     - n.
-      - `thirteen` 十三；十三岁；十三个
-      - `thirtieth` 第三十；三十分之一
+      - `thirteen`
+        - 十三；十三岁；十三个
+      - `thirtieth`
+        - 第三十；三十分之一
     - num.
-      - `third` 第三；三分之一
-      - `thirteen` 十三
-      - `thirtieth` 第三十；三十分之一
+      - `third`
+        - 第三；三分之一
+      - `thirteen`
+        - 十三
+      - `thirtieth`
+        - 第三十；三十分之一

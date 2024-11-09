@@ -1,18 +1,23 @@
 - enrich
   - 发音
-    - 英 `/ɪn'rɪtʃ/`
-    - 美 `/ɪn'rɪtʃ/`
+    - 英
+      - `/ɪn'rɪtʃ/`
+    - 美
+      - `/ɪn'rɪtʃ/`
   - 词义
-    - vt. 使充实；使肥沃；使富裕，使富有
-    - `to improve the quality of something, especially by adding things to it`
+    - vt.
+      - 使充实；使肥沃；使富裕，使富有
+        - `to improve the quality of something, especially by adding things to it`
   - 记忆
     - en(使…) + rich(充足的； 肥沃的) → 使充实； 使肥沃
   - 同根词
     - n.
-      - `enrichment` 丰富；改进；肥沃；发财致富
+      - `enrichment`
+        - 丰富；改进；肥沃；发财致富
   - 近义词
-    - vt. 使充实；使肥沃；使富足
-      - `fertilize`
+    - vt.
+      - 使充实；使肥沃；使富足
+        - `fertilize`
   - 例句
     - `Add fertilizer to enrich the soil.`
       - 施上肥料使土壤肥沃。

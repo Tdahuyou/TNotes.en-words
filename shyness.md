@@ -1,25 +1,35 @@
 - shyness
   - 发音
-    - 英 `/'ʃaɪnɪs/`
-    - 美 `/'ʃainis/`
+    - 英
+      - `/'ʃaɪnɪs/`
+    - 美
+      - `/'ʃainis/`
   - 词义
-    - n. 羞怯,胆怯
+    - n.
+      - 羞怯,胆怯
   - 同根词
     - adj.
-      - `shy` 害羞的；畏缩的，胆怯的
+      - `shy`
+        - 害羞的；畏缩的，胆怯的
     - adv.
-      - `shyly` 害羞地；羞怯地；胆怯地；小心地
-      - `shily` 胆小地；羞怯地
+      - `shyly`
+        - 害羞地；羞怯地；胆怯地；小心地
+      - `shily`
+        - 胆小地；羞怯地
     - n.
-      - `shy` 投掷；惊跳
+      - `shy`
+        - 投掷；惊跳
     - vi.
-      - `shy` 投；畏缩；惊退；厌恶
+      - `shy`
+        - 投；畏缩；惊退；厌恶
     - vt.
-      - `shy` 投；乱掷
+      - `shy`
+        - 投；乱掷
   - 近义词
-    - n. 羞怯
-      - `bashfulness`
-      - `coyness`
+    - n.
+      - 羞怯
+        - `bashfulness`
+        - `coyness`
   - 例句
     - `I endured the shyness and the pain of jealousness.`
       - 我既忍受着羞怯，又忍受着嫉妒的折磨；

@@ -1,17 +1,23 @@
 - rabies
   - 发音
-    - 英 `/'reɪbiːz; -ɪz/`
-    - 美 `/'rebiz/`
+    - 英
+      - `/'reɪbiːz; -ɪz/`
+    - 美
+      - `/'rebiz/`
   - 词义
-    - n. [内科]狂犬病，恐水病
-    - `a very dangerous disease that affects dogs and other animals, and that you can catch if you are bitten by an infected animal`
+    - n.
+      - [内科]狂犬病，恐水病
+        - `a very dangerous disease that affects dogs and other animals, and that you can catch if you are bitten by an infected animal`
   - 近义词
-    - n. [内科]狂犬病，恐水病
-      - `hydrophobia`
-      - `canine madness`
+    - n.
+      - [内科]狂犬病，恐水病
+        - `hydrophobia`
+        - `canine madness`
   - 短语
-    - `rabies vaccine` 狂犬病疫苗 
-    - `rabies virus` 狂犬病病毒 
+    - `rabies vaccine`
+      - 狂犬病疫苗 
+    - `rabies virus`
+      - 狂犬病病毒 
   - 例句
     - `More than 99% of all human deaths from rabies occur in Africa and Asia.`
       - 狂犬病造成的所有人类死亡中，有99%以上发生在非洲和亚洲。

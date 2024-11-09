@@ -1,9 +1,12 @@
 - Konigsberg
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 哥尼斯堡（俄罗斯港市Kaliningrad的旧称）
+    - n.
+      - 哥尼斯堡（俄罗斯港市Kaliningrad的旧称）
   - 例句
     - `Kant lived his entire life in one city of East Prussia, called Konigsberg.`
       - 他住在一个康德的整个东普鲁士的城市生活，被称为柯尼斯堡。

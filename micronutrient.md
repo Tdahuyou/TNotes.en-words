@@ -1,13 +1,17 @@
 - micronutrient
   - 发音
-    - 英 `/maɪkrə(ʊ)'njuːtrɪənt/`
-    - 美 `/,maɪkro'njʊtrɪənt/`
+    - 英
+      - `/maɪkrə(ʊ)'njuːtrɪənt/`
+    - 美
+      - `/,maɪkro'njʊtrɪənt/`
   - 词义
-    - n. [生]微量营养素
-    - `any substance, such as a vitamin or trace element, essential for healthy growth and development but required only in minute amounts `
+    - n.
+      - [生]微量营养素
+        - `any substance, such as a vitamin or trace element, essential for healthy growth and development but required only in minute amounts `
   - 近义词
-    - n. [生化]微量营养素
-      - `nutrilite`
+    - n.
+      - [生化]微量营养素
+        - `nutrilite`
   - 例句
     - `It also recommends using multiple micronutrient powders to fortify foods for children aged between 6 and 23 months.`
       - 还建议利用多种微量营养素粉来强化年龄在6个月和23个月之间儿童的食物。

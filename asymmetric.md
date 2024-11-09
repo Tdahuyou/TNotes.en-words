@@ -1,24 +1,33 @@
 - asymmetric
   - 发音
-    - 英 `/,æsɪ'metrɪk/`
-    - 美 `/,esɪ'mɛtrɪk/`
+    - 英
+      - `/,æsɪ'metrɪk/`
+    - 美
+      - `/,esɪ'mɛtrɪk/`
   - 词义
-    - adj. 不对称的；非对称的
-    - `Asymmetric means the same as `
+    - adj.
+      - 不对称的；非对称的
+        - `Asymmetric means the same as `
   - 同根词
     - adj.
-      - `asymmetrical` [数] 非对称的（等于asymmetric）；不均匀的；不匀称的
+      - `asymmetrical`
+        - [数] 非对称的（等于asymmetric）；不均匀的；不匀称的
     - adv.
-      - `asymmetrically` 不对称地（不平衡地）
+      - `asymmetrically`
+        - 不对称地（不平衡地）
     - n.
-      - `asymmetry` 不对称
+      - `asymmetry`
+        - 不对称
   - 近义词
-    - adj. [数]不对称的；非对称的
-      - `unsymmetric`
-      - `dissymmetric`
+    - adj.
+      - [数]不对称的；非对称的
+        - `unsymmetric`
+        - `dissymmetric`
   - 短语
-    - `asymmetric synthesis` 不对称合成 
-    - `asymmetric carbon` 不对称碳原子 
+    - `asymmetric synthesis`
+      - 不对称合成 
+    - `asymmetric carbon`
+      - 不对称碳原子 
   - 例句
     - `Well, unless you have an asymmetric set-up, in which case the client can POST and/or PUT its order somewhere on the server.`
       - 那么，除非你有一个不对称的设置，在这种情况下，客户端可以POST和/或PUT它的订单到服务器的某处。

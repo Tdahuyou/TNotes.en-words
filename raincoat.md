@@ -1,14 +1,18 @@
 - raincoat
   - 发音
-    - 英 `/'reɪnkəʊt/`
-    - 美 `/ˈreɪnkoʊt/`
+    - 英
+      - `/'reɪnkəʊt/`
+    - 美
+      - `/ˈreɪnkoʊt/`
   - 词义
-    - n. （美）雨衣
-    - `a coat that you wear to protect yourself from rain`
+    - n.
+      - （美）雨衣
+        - `a coat that you wear to protect yourself from rain`
   - 近义词
-    - n. （美）雨衣
-      - `slicker`
-      - `cravenette`
+    - n.
+      - （美）雨衣
+        - `slicker`
+        - `cravenette`
   - 例句
     - `He dipped in his raincoat pocket.`
       - 他把手深深地伸进雨衣口袋里。

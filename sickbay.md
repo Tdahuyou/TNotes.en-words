@@ -1,10 +1,13 @@
 - sickbay
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 船上的医务室
-    - `a room on a ship, in a school etc where there are beds for people who are sick`
+    - n.
+      - 船上的医务室
+        - `a room on a ship, in a school etc where there are beds for people who are sick`
   - 例句
     - `He spent some time In the sickbay not so long ago…`
       - 他前一阵子才花了一点时间待在医务室里面…

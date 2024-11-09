@@ -1,16 +1,22 @@
 - windscreen
   - 发音
-    - 英 `/'wɪn(d)skriːn/`
-    - 美 `/'wɪndskrin/`
+    - 英
+      - `/'wɪn(d)skriːn/`
+    - 美
+      - `/'wɪndskrin/`
   - 词义
-    - n. 汽车挡风玻璃
-    - `the large window at the front of a car, bus etc`
+    - n.
+      - 汽车挡风玻璃
+        - `the large window at the front of a car, bus etc`
   - 同根词
     - n.
-      - `windshield` 挡风玻璃
-      - `windowpane` 窗玻璃
+      - `windshield`
+        - 挡风玻璃
+      - `windowpane`
+        - 窗玻璃
   - 短语
-    - `windscreen wiper` 挡风玻璃刮水器；风档雨雪刷 
+    - `windscreen wiper`
+      - 挡风玻璃刮水器；风档雨雪刷 
   - 例句
     - `My daughter painted a scarlet bear on the windscreen of our car.`
       - 我女儿在我们的挡风玻璃上画了一只鲜红的小熊。

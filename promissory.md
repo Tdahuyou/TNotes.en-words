@@ -1,23 +1,32 @@
 - promissory
   - 发音
-    - 英 `/'prɑːmɪsəri/`
-    - 美 `/'prɑmə,sori/`
+    - 英
+      - `/'prɑːmɪsəri/`
+    - 美
+      - `/'prɑmə,sori/`
   - 词义
-    - adj. 允诺的，约定的
-    - `containing, relating to, or having the nature of a promise `
+    - adj.
+      - 允诺的，约定的
+        - `containing, relating to, or having the nature of a promise `
   - 同根词
     - n.
-      - `promise` 许诺，允诺；希望
+      - `promise`
+        - 许诺，允诺；希望
     - vi.
-      - `promise` 许诺；有指望，有前途
+      - `promise`
+        - 许诺；有指望，有前途
     - vt.
-      - `promise` 允诺，许诺；给人以…的指望或希望
+      - `promise`
+        - 允诺，许诺；给人以…的指望或希望
   - 近义词
-    - adj. 约定的；允诺的；约定支付的
-      - `appointed`
+    - adj.
+      - 约定的；允诺的；约定支付的
+        - `appointed`
   - 短语
-    - `promissory note` [商]本票；[商]期票 
-    - `promissory estoppel` 允诺后不得否认的原则；不得反悔原则 
+    - `promissory note`
+      - [商]本票；[商]期票 
+    - `promissory estoppel`
+      - 允诺后不得否认的原则；不得反悔原则 
   - 例句
     - `It is obvious today that America has defaulted on this promissory note insofar as her citizens of color are concerned.`
       - 美国有在这个约定的笔记上的范围疏怠职责如她的颜色市民的时间就是明显的今天被关心。

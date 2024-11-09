@@ -1,10 +1,13 @@
 - philistine
   - 发音
-    - 英 `/'fɪlɪstiːn/`
-    - 美 `/'fɪlɪstin/`
+    - 英
+      - `/'fɪlɪstiːn/`
+    - 美
+      - `/'fɪlɪstin/`
   - 词义
-    - n. 庸俗的人，对文化艺术无知的人
-    - `someone who does not like or understand art, literature, music etc`
+    - n.
+      - 庸俗的人，对文化艺术无知的人
+        - `someone who does not like or understand art, literature, music etc`
   - 记忆
     - 来自腓力斯人(Philistia)， 是庸俗的市侩阶层
   - 例句

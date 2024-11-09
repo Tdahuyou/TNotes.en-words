@@ -1,15 +1,20 @@
 - republish
   - 发音
-    - 英 `/riː'pʌblɪʃ/`
-    - 美 `/ri'pʌblɪʃ/`
+    - 英
+      - `/riː'pʌblɪʃ/`
+    - 美
+      - `/ri'pʌblɪʃ/`
   - 词义
-    - v. 再版,重新发表
+    - v.
+      - 再版,重新发表
   - 同根词
     - n.
-      - `republication` 再版；再发行
+      - `republication`
+        - 再版；再发行
   - 近义词
-    - vt. 再版，翻版；再发布；重新发表；重订遗嘱
-      - `reprint`
+    - vt.
+      - 再版，翻版；再发布；重新发表；重订遗嘱
+        - `reprint`
   - 例句
     - `If you wish to switch the query mode for a package, you must republish the package with the desired setting.`
       - 如果您希望切换一个程序包的查询模式，必须使用要求的设置重新发布程序包。

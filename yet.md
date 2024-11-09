@@ -1,25 +1,33 @@
 - yet
   - 发音
-    - 英 `/jet/`
-    - 美 `/jɛt/`
+    - 英
+      - `/jet/`
+    - 美
+      - `/jɛt/`
   - 词义
-    - adv. 还，尚（用于表示某事在某一时间尚未发生，但未来也许会发生）
-    - `used to emphasize how much time will pass before something happens, or how long a situation will continue`
+    - adv.
+      - 还，尚（用于表示某事在某一时间尚未发生，但未来也许会发生）
+        - `used to emphasize how much time will pass before something happens, or how long a situation will continue`
   - 近义词
-    - adv. 还；但是；已经
-      - `already`
-      - `too`
-      - `even`
-    - conj. 但是；然而
-      - `but`
-      - `granted`
-      - `whereas`
-      - `and`
-      - `while`
+    - adv.
+      - 还；但是；已经
+        - `already`
+        - `too`
+        - `even`
+    - conj.
+      - 但是；然而
+        - `but`
+        - `granted`
+        - `whereas`
+        - `and`
+        - `while`
   - 短语
-    - `and yet` 可是，然而 
-    - `as yet` 至今仍 
-    - `nor yet` 也没有，也不 
+    - `and yet`
+      - 可是，然而 
+    - `as yet`
+      - 至今仍 
+    - `nor yet`
+      - 也没有，也不 
   - 例句
     - `‘When’s your holiday?’ ‘Oh, not for ages yet.’`
       - “你什么时候去休假？”“噢，不知何年何月呢。”

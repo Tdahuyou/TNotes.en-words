@@ -1,22 +1,32 @@
 - furry
   - 发音
-    - 英 `/'fɜːri/`
-    - 美 `/ˈfɜri/`
+    - 英
+      - `/'fɜːri/`
+    - 美
+      - `/ˈfɜri/`
   - 词义
-    - adj. 毛皮似的；盖着毛皮的；生苔的
-    - `covered with fur or short threads`
+    - adj.
+      - 毛皮似的；盖着毛皮的；生苔的
+        - `covered with fur or short threads`
   - 同根词
     - adj.
-      - `furred` 毛皮制的；穿毛皮的；长着软毛的
+      - `furred`
+        - 毛皮制的；穿毛皮的；长着软毛的
     - n.
-      - `fur` 皮，皮子；毛皮；软毛
-      - `furrier` 毛皮商；毛皮衣制作工
-      - `furring` 镶边；毛皮衬里；钉板条
+      - `fur`
+        - 皮，皮子；毛皮；软毛
+      - `furrier`
+        - 毛皮商；毛皮衣制作工
+      - `furring`
+        - 镶边；毛皮衬里；钉板条
     - v.
-      - `furred` 用毛皮覆盖；使穿毛皮服装（fur的过去分词）
-      - `furring` 用毛皮衬；使生苔（fur的ing形式）
+      - `furred`
+        - 用毛皮覆盖；使穿毛皮服装（fur的过去分词）
+      - `furring`
+        - 用毛皮衬；使生苔（fur的ing形式）
     - vt.
-      - `fur` 用毛皮覆盖；使穿毛皮服装
+      - `fur`
+        - 用毛皮覆盖；使穿毛皮服装
   - 例句
     - `furry kittens`
       - 毛茸茸的小猫

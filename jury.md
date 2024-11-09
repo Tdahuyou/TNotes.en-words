@@ -1,27 +1,40 @@
 - jury
   - 发音
-    - 英 `/'dʒʊərɪ/`
-    - 美 `/'dʒʊri/`
+    - 英
+      - `/'dʒʊərɪ/`
+    - 美
+      - `/'dʒʊri/`
   - 词义
-    - n. [律]陪审团
-    - `a group of 12 ordinary people who listen to the details of a case in court and decide whether someone is guilty or not`
-    - adj. [海]临时应急的
-    - `makeshift `
+    - n.
+      - [律]陪审团
+        - `a group of 12 ordinary people who listen to the details of a case in court and decide whether someone is guilty or not`
+    - adj.
+      - [海]临时应急的
+        - `makeshift `
   - 同根词
     - n.
-      - `juror` 审查委员，陪审员
-      - `juryman` 陪审员
-      - `jurywoman` 女陪审员
+      - `juror`
+        - 审查委员，陪审员
+      - `juryman`
+        - 陪审员
+      - `jurywoman`
+        - 女陪审员
   - 近义词
-    - adj. 应急的
-      - `quick-fix`
-      - `lash-up`
+    - adj.
+      - 应急的
+        - `quick-fix`
+        - `lash-up`
   - 短语
-    - `grand jury` [法]大陪审团 
-    - `jury trial` 陪审团审案 
-    - `trial by jury` 陪审审判 
-    - `judge and jury` 法官与陪审团 
-    - `jury duty` 在陪审团作陪审员时间；陪审员的义务 
+    - `grand jury`
+      - [法]大陪审团 
+    - `jury trial`
+      - 陪审团审案 
+    - `trial by jury`
+      - 陪审审判 
+    - `judge and jury`
+      - 法官与陪审团 
+    - `jury duty`
+      - 在陪审团作陪审员时间；陪审员的义务 
   - 例句
     - `the members of the jury`
       - 陪审团成员

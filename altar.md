@@ -1,15 +1,19 @@
 - altar
   - 发音
-    - 英 `/'ɔːltə/`
-    - 美 `/'ɔltɚ/`
+    - 英
+      - `/'ɔːltə/`
+    - 美
+      - `/'ɔltɚ/`
   - 词义
-    - n. 祭坛，圣坛；讲坛
-    - `a holy table or surface used in religious ceremonies`
+    - n.
+      - 祭坛，圣坛；讲坛
+        - `a holy table or surface used in religious ceremonies`
   - 记忆
     - “饿他” → 饿得他连桌上的供品也吃
   - 近义词
-    - n. 祭坛；圣坛；圣餐台
-      - `prothesis`
+    - n.
+      - 祭坛；圣坛；圣餐台
+        - `prothesis`
   - 例句
     - `a crucifix above the high altar`
       - 主圣坛上方的耶稣受难像

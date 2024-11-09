@@ -1,21 +1,27 @@
 - modus
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 方法,形式
+    - n.
+      - 方法,形式
   - 近义词
-    - n. 方法，方式；程序，样式
-      - `way of`
-      - `manner`
-      - `method`
-      - `procedure`
-      - `mode`
-      - `approach`
-      - `system`
+    - n.
+      - 方法，方式；程序，样式
+        - `way of`
+        - `manner`
+        - `method`
+        - `procedure`
+        - `mode`
+        - `approach`
+        - `system`
   - 短语
-    - `modus operandi` [拉]做法 
-    - `modus vivendi` 生活方式；临时协定；过渡办法 
+    - `modus operandi`
+      - [拉]做法 
+    - `modus vivendi`
+      - 生活方式；临时协定；过渡办法 
   - 例句
     - `The problem is, I do not have any technique, process, or modus operandi.`
       - 问题是，我不知道任何技巧、步骤或操作方式。

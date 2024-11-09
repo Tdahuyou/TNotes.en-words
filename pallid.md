@@ -1,23 +1,29 @@
 - pallid
   - 发音
-    - 英 `/'pælid/`
-    - 美 `/'pælɪd/`
+    - 英
+      - `/'pælid/`
+    - 美
+      - `/'pælɪd/`
   - 词义
-    - adj. 苍白的；暗淡的
-    - `very pale, especially in a way that looks weak or unhealthy`
+    - adj.
+      - 苍白的；暗淡的
+        - `very pale, especially in a way that looks weak or unhealthy`
   - 记忆
     - pall ( = pale， 苍白) + id → 苍白的， 没血色的
   - 同根词
     - adv.
-      - `pallidly` 没有光泽地；无血色地
+      - `pallidly`
+        - 没有光泽地；无血色地
     - n.
-      - `pallor` 苍白（尤指脸色）；青白；灰白
+      - `pallor`
+        - 苍白（尤指脸色）；青白；灰白
   - 近义词
-    - adj. 苍白的；暗淡的；无生气的
-      - `gray`
-      - `dirty`
-      - `pale`
-      - `wan`
+    - adj.
+      - 苍白的；暗淡的；无生气的
+        - `gray`
+        - `dirty`
+        - `pale`
+        - `wan`
   - 例句
     - `pallid cheeks`
       - 苍白的脸颊

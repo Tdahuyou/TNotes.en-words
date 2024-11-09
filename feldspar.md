@@ -1,16 +1,22 @@
 - feldspar
   - 发音
-    - 英 `/'feldspɑː/`
-    - 美 `/'fɛldspɑr/`
+    - 英
+      - `/'feldspɑː/`
+    - 美
+      - `/'fɛldspɑr/`
   - 词义
-    - n. [矿]长石
-    - `a type of grey or white mineral`
+    - n.
+      - [矿]长石
+        - `a type of grey or white mineral`
   - 近义词
-    - n. [矿物]长石
-      - `felspar`
+    - n.
+      - [矿物]长石
+        - `felspar`
   - 短语
-    - `potash feldspar` 钾长石；正长石 
-    - `potassium feldspar` [矿]钾长石 
+    - `potash feldspar`
+      - 钾长石；正长石 
+    - `potassium feldspar`
+      - [矿]钾长石 
   - 例句
     - `The results indicate that the jade mainly consists of illite and a small quantity of feldspar, quartz, hematite, siderite and rutile, which is argillaceous sedimentary rock.`
       - 结果表明，其矿物成分以伊利石为主，含有少量的长石、石英、赤铁矿、菱铁矿和金红石，为泥质沉积岩。

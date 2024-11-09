@@ -1,16 +1,21 @@
 - shamefaced
   - 发音
-    - 英 `/ʃeɪm'feɪst; 'ʃeɪm-/`
-    - 美 `/'ʃem'fest/`
+    - 英
+      - `/ʃeɪm'feɪst; 'ʃeɪm-/`
+    - 美
+      - `/'ʃem'fest/`
   - 词义
-    - adj. 谦逊的；害羞的；不惹眼的
+    - adj.
+      - 谦逊的；害羞的；不惹眼的
   - 同根词
     - adv.
-      - `shamefacedly` 羞愧地；羞怯地；谦卑地
+      - `shamefacedly`
+        - 羞愧地；羞怯地；谦卑地
   - 近义词
-    - adj. 谦逊的；害羞的；不惹眼的
-      - `modest`
-      - `unassuming`
+    - adj.
+      - 谦逊的；害羞的；不惹眼的
+        - `modest`
+        - `unassuming`
   - 例句
     - `Conner looked a little shamefaced.`
       - 康纳看上去略带愧色。

@@ -1,25 +1,35 @@
 - liberation
   - 发音
-    - 英 `/lɪbə'reɪʃ(ə)n/`
-    - 美 `/,lɪbə'reʃən/`
+    - 英
+      - `/lɪbə'reɪʃ(ə)n/`
+    - 美
+      - `/,lɪbə'reʃən/`
   - 词义
-    - n. 释放,解放
+    - n.
+      - 释放,解放
   - 同根词
     - adj.
-      - `liberated` 无拘束的；放纵的（尤指在社交和性关系方面）
+      - `liberated`
+        - 无拘束的；放纵的（尤指在社交和性关系方面）
     - n.
-      - `liberator` 解放者；释放者
+      - `liberator`
+        - 解放者；释放者
     - v.
-      - `liberated` 解放；使摆脱束缚（liberate的过去式）
+      - `liberated`
+        - 解放；使摆脱束缚（liberate的过去式）
     - vt.
-      - `liberate` 解放；放出；释放
+      - `liberate`
+        - 解放；放出；释放
   - 近义词
-    - n. 释放，解放
-      - `release`
-      - `emancipation`
+    - n.
+      - 释放，解放
+        - `release`
+        - `emancipation`
   - 短语
-    - `war of liberation` 解放战争 
-    - `women's liberation` 妇女解放运动，女权运动 
+    - `war of liberation`
+      - 解放战争 
+    - `women's liberation`
+      - 妇女解放运动，女权运动 
   - 例句
     - `They pant after liberation.`
       - 他们渴望解放。

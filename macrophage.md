@@ -1,18 +1,24 @@
 - macrophage
   - 发音
-    - 英 `/'mækrəufeidʒ/`
-    - 美 `/'mækrə'fedʒ/`
+    - 英
+      - `/'mækrəufeidʒ/`
+    - 美
+      - `/'mækrə'fedʒ/`
   - 词义
-    - n. 巨噬细胞
-    - `any large phagocytic cell occurring in the blood, lymph, and connective tissue of vertebrates `
+    - n.
+      - 巨噬细胞
+        - `any large phagocytic cell occurring in the blood, lymph, and connective tissue of vertebrates `
   - 同根词
     - n.
-      - `macrocytosis` [医] 大红细胞症
+      - `macrocytosis`
+        - [医] 大红细胞症
   - 近义词
-    - n. [组织]巨噬细胞
-      - `scavenger cell`
+    - n.
+      - [组织]巨噬细胞
+        - `scavenger cell`
   - 短语
-    - `alveolar macrophage` [医]肺泡巨噬细胞 
+    - `alveolar macrophage`
+      - [医]肺泡巨噬细胞 
   - 例句
     - `There are dilatation of blood sinus, hemolysis, macrophage reactions erc.`
       - 脾血窦扩张、溶血及巨噬细胞反应等现象；

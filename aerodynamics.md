@@ -1,19 +1,26 @@
 - aerodynamics
   - 发音
-    - 英 `/,eərə(ʊ)daɪ'næmɪks/`
-    - 美 `/'ɛrodaɪ'næmɪks/`
+    - 英
+      - `/,eərə(ʊ)daɪ'næmɪks/`
+    - 美
+      - `/'ɛrodaɪ'næmɪks/`
   - 词义
-    - n. [流]气体力学；[航]航空动力学
-    - `the scientific study of how objects move through the air`
+    - n.
+      - [流]气体力学；[航]航空动力学
+        - `the scientific study of how objects move through the air`
   - 同根词
     - adj.
-      - `aerodynamic` 空气动力学的，[航] 航空动力学的
+      - `aerodynamic`
+        - 空气动力学的，[航] 航空动力学的
     - n.
-      - `aerodrome` 飞机场；航空站
-      - `aerodontalgia` 高空牙痛症；[特医] 航空性牙痛
+      - `aerodrome`
+        - 飞机场；航空站
+      - `aerodontalgia`
+        - 高空牙痛症；[特医] 航空性牙痛
   - 近义词
-    - n. [流][航]气体力学；航空动力学
-      - `pneumatology`
+    - n.
+      - [流][航]气体力学；航空动力学
+        - `pneumatology`
   - 例句
     - `Its supersonic speeds and aerodynamics do the job, compressing the air into the engine.`
       - 飞机的超音速和空气动力学完成将空气压缩入引擎的任务。

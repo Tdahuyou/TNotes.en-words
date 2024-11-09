@@ -1,33 +1,51 @@
 - lengthwise
   - 发音
-    - 英 `/'leŋθwaɪz; -ŋkθ-/`
-    - 美 `/'lɛŋθ,waɪz/`
+    - 英
+      - `/'leŋθwaɪz; -ŋkθ-/`
+    - 美
+      - `/'lɛŋθ,waɪz/`
   - 词义
-    - adj. 纵长的
-    - adv. 纵长地
-    - `in the direction or position of the longest side`
+    - adj.
+      - 纵长的
+    - adv.
+      - 纵长地
+        - `in the direction or position of the longest side`
   - 同根词
     - adj.
-      - `long` 长的；过长的；做多头的
-      - `lengthy` 漫长的，冗长的；啰唆的
-      - `longish` 稍长的；略长的
+      - `long`
+        - 长的；过长的；做多头的
+      - `lengthy`
+        - 漫长的，冗长的；啰唆的
+      - `longish`
+        - 稍长的；略长的
     - adv.
-      - `long` 长期地；始终
-      - `lengthily` 冗长地；长地
-      - `longwise` 纵长地
-    - n.
-      - `length` 长度，长；时间的长短；（语）音长
-      - `long` 长时间；[语] 长音节
-      - `lengthiness` 冗长
-      - `longness` 长度
-    - vi.
-      - `long` 渴望；热望
-      - `lengthen` 延长；变长
-    - vt.
-      - `lengthen` 使延长；加长
-  - 近义词
-    - adv. 纵长地
+      - `long`
+        - 长期地；始终
+      - `lengthily`
+        - 冗长地；长地
       - `longwise`
+        - 纵长地
+    - n.
+      - `length`
+        - 长度，长；时间的长短；（语）音长
+      - `long`
+        - 长时间；[语] 长音节
+      - `lengthiness`
+        - 冗长
+      - `longness`
+        - 长度
+    - vi.
+      - `long`
+        - 渴望；热望
+      - `lengthen`
+        - 延长；变长
+    - vt.
+      - `lengthen`
+        - 使延长；加长
+  - 近义词
+    - adv.
+      - 纵长地
+        - `longwise`
   - 例句
     - `His nose also bore a long cut lengthwise.`
       - 他的鼻腔也有一道纵向的长伤痕。

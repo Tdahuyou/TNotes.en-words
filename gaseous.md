@@ -1,30 +1,43 @@
 - gaseous
   - 发音
-    - 英 `/'gæʃiəs/`
-    - 美 `/'ɡæsɪəs/`
+    - 英
+      - `/'gæʃiəs/`
+    - 美
+      - `/'ɡæsɪəs/`
   - 词义
-    - adj. 气体的，气态的
-    - `like gas or in the form of gas`
+    - adj.
+      - 气体的，气态的
+        - `like gas or in the form of gas`
   - 记忆
     - 来自gas(n. 气体)
   - 同根词
     - n.
-      - `gas` 气体；[矿业] 瓦斯；汽油；毒气
+      - `gas`
+        - 气体；[矿业] 瓦斯；汽油；毒气
     - vi.
-      - `gas` 加油；放出气体；空谈
-      - `gasify` 气化，成为气体
+      - `gas`
+        - 加油；放出气体；空谈
+      - `gasify`
+        - 气化，成为气体
     - vt.
-      - `gas` 加油；毒（死）
-      - `gasify` 使气化，使成为气体
+      - `gas`
+        - 加油；毒（死）
+      - `gasify`
+        - 使气化，使成为气体
   - 近义词
-    - adj. [物]气态的，气体的；无实质的
-      - `gasiform`
-      - `gassy`
+    - adj.
+      - [物]气态的，气体的；无实质的
+        - `gasiform`
+        - `gassy`
   - 短语
-    - `gaseous phase` [化]气相 
-    - `gaseous state` 气态 
-    - `gaseous diffusion` 气体扩散 
-    - `gaseous fuel` [化]气体燃料 
+    - `gaseous phase`
+      - [化]气相 
+    - `gaseous state`
+      - 气态 
+    - `gaseous diffusion`
+      - 气体扩散 
+    - `gaseous fuel`
+      - [化]气体燃料 
   - 例句
     - `Freon exists both in liquid and gaseous states.`
       - 氟利昂既有液态也有气态。

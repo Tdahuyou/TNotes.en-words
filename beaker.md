@@ -1,10 +1,13 @@
 - beaker
   - 发音
-    - 英 `/'biːkə/`
-    - 美 `/'bikɚ/`
+    - 英
+      - `/'biːkə/`
+    - 美
+      - `/'bikɚ/`
   - 词义
-    - n. 烧杯
-    - `a drinking cup with straight sides and no handle, usually made of plastic`
+    - n.
+      - 烧杯
+        - `a drinking cup with straight sides and no handle, usually made of plastic`
   - 例句
     - `They plopped this rod into a beaker of water and hit it with a laser beam from below.`
       - 他们让这个翼状杆落入盛有水的烧杯中，并用激光束从底部击中它。

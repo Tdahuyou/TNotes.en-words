@@ -1,26 +1,34 @@
 - skimpy
   - 发音
-    - 英 `/'skɪmpɪ/`
-    - 美 `/'skimpi/`
+    - 英
+      - `/'skɪmpɪ/`
+    - 美
+      - `/'skimpi/`
   - 词义
-    - adj. 不足的,吝啬的
-    - `not enough of something`
+    - adj.
+      - 不足的,吝啬的
+        - `not enough of something`
   - 同根词
     - adj.
-      - `skimp` 少的；不足的
+      - `skimp`
+        - 少的；不足的
     - adv.
-      - `skimpily` 吝啬地
+      - `skimpily`
+        - 吝啬地
     - vi.
-      - `skimp` 节省；不够用心
+      - `skimp`
+        - 节省；不够用心
     - vt.
-      - `skimp` 克扣；对…不够用心；舍不得给；少给
+      - `skimp`
+        - 克扣；对…不够用心；舍不得给；少给
   - 近义词
-    - adj. 不足的；吝啬的
-      - `insufficient`
-      - `short`
-      - `deficient`
-      - `tight`
-      - `lacking`
+    - adj.
+      - 不足的；吝啬的
+        - `insufficient`
+        - `short`
+        - `deficient`
+        - `tight`
+        - `lacking`
   - 例句
     - `a skimpy meal`
       - 不够吃的一 顿饭

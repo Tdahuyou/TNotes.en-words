@@ -1,10 +1,14 @@
 - upscale
   - 发音
-    - 英 `/ˌʌp'skeɪl/`
-    - 美 `/'ʌpskeil/`
+    - 英
+      - `/ˌʌp'skeɪl/`
+    - 美
+      - `/'ʌpskeil/`
   - 词义
-    - v. 升高级，升档
-    - `Upscale is also an adverb`
+    - v.
+      - 升高级，升档
+        - `Upscale is also an adverb`
   - 近义词
-    - adj. 迎合高层次消费者的；质优价高的
-      - `upmarket`
+    - adj.
+      - 迎合高层次消费者的；质优价高的
+        - `upmarket`

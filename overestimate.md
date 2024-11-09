@@ -1,13 +1,17 @@
 - overestimate
   - 发音
-    - 英 `/əʊvər'estɪmeɪt/`
-    - 美 `/,ovər'ɛstɪmət/`
+    - 英
+      - `/əʊvər'estɪmeɪt/`
+    - 美
+      - `/,ovər'ɛstɪmət/`
   - 词义
-    - vt&n. 评价过高
-    - `to think something is better, more important etc than it really is`
+    - vt&n.
+      - 评价过高
+        - `to think something is better, more important etc than it really is`
   - 同根词
     - n.
-      - `overestimation` 过高的估计
+      - `overestimation`
+        - 过高的估计
   - 例句
     - `He tends to overestimate his own abilities.`
       - 他往往高估自己的能力。

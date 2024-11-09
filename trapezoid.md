@@ -1,14 +1,18 @@
 - trapezoid
   - 发音
-    - 英 `/'træpizɔid/`
-    - 美 `/'træpə'zɔɪd/`
+    - 英
+      - `/'træpizɔid/`
+    - 美
+      - `/'træpə'zɔɪd/`
   - 词义
-    - n. 梯形
-    - `a shape with four sides, none of which are parallel`
+    - n.
+      - 梯形
+        - `a shape with four sides, none of which are parallel`
   - 近义词
-    - n. 梯形；[数]不规则四边形
-      - `ladder type`
-      - `en echelon`
+    - n.
+      - 梯形；[数]不规则四边形
+        - `ladder type`
+        - `en echelon`
   - 例句
     - `Fairy lights dance around the trapezoid opening at the top of the Shanghai World Financial Center (SWFC).`
       - 彩灯在这座建筑顶部梯形的开口中舞动，它被命名为“上海环球金融中心”（SWFC）。

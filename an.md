@@ -1,10 +1,13 @@
 - an
   - 发音
-    - 英 `/æn; ən/`
-    - 美 `/ən,æn/`
+    - 英
+      - `/æn; ən/`
+    - 美
+      - `/ən,æn/`
   - 词义
-    - art. 一（个，件⋯⋯）
-    - `used when the following word begins with a vowel sound`
+    - art.
+      - 一（个，件⋯⋯）
+        - `used when the following word begins with a vowel sound`
   - 例句
     - `an orange`
       - 一个橘子

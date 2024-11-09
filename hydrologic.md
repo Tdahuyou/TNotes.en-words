@@ -1,12 +1,17 @@
 - hydrologic
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - adj. 水文的
+    - adj.
+      - 水文的
   - 短语
-    - `hydrologic cycle` 水文循环，水循环 
-    - `hydrologic data` 水文资料（数据） 
+    - `hydrologic cycle`
+      - 水文循环，水循环 
+    - `hydrologic data`
+      - 水文资料（数据） 
   - 例句
     - `While evaporation from the oceans is the primary vehicle for driving the surface-to-atmosphere portion of the hydrologic cycle, transpiration is also significant.`
       - 海洋的蒸发作用是水文循环中的主要方式，它使得水从地球表面进入大气层中，蒸腾作用也具有举足轻重的地位。

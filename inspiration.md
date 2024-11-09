@@ -1,27 +1,39 @@
 - inspiration
   - 发音
-    - 英 `/ˌɪnspəˈreɪʃn/`
-    - 美 `/ˌɪnspəˈreʃən/`
+    - 英
+      - `/ˌɪnspəˈreɪʃn/`
+    - 美
+      - `/ˌɪnspəˈreʃən/`
   - 词义
-    - n. 灵感
-    - `a good idea about what you should do, write, say etc, especially one which you get suddenly`
+    - n.
+      - 灵感
+        - `a good idea about what you should do, write, say etc, especially one which you get suddenly`
   - 同根词
     - adj.
-      - `inspired` 有灵感的；官方授意的
-      - `inspiring` 鼓舞人心的；灌输的；启发灵感的
-      - `inspiratory` 吸入的；吸气的
+      - `inspired`
+        - 有灵感的；官方授意的
+      - `inspiring`
+        - 鼓舞人心的；灌输的；启发灵感的
+      - `inspiratory`
+        - 吸入的；吸气的
     - n.
-      - `inspirer` 鼓舞人心；启发灵感
+      - `inspirer`
+        - 鼓舞人心；启发灵感
     - v.
-      - `inspired` 激发（inspire的过去分词）；鼓舞
-      - `inspiring` 鼓舞；激发；使感悟（inspire的ing形式）
+      - `inspired`
+        - 激发（inspire的过去分词）；鼓舞
+      - `inspiring`
+        - 鼓舞；激发；使感悟（inspire的ing形式）
     - vt.
-      - `inspire` 激发；鼓舞；启示；产生；使生灵感
-      - `inspirit` 激励，鼓舞；使振奋
+      - `inspire`
+        - 激发；鼓舞；启示；产生；使生灵感
+      - `inspirit`
+        - 激励，鼓舞；使振奋
   - 近义词
-    - n. 灵感；鼓舞；[生理]吸气；妙计
-      - `stimulation`
-      - `afflatus`
+    - n.
+      - 灵感；鼓舞；[生理]吸气；妙计
+        - `stimulation`
+        - `afflatus`
   - 例句
     - `The Malvern Hills have provided inspiration for many artists and musicians over the decades.`
       - 几十年来，莫尔文丘陵为很多艺术家和音乐家提供了灵感。

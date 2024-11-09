@@ -1,21 +1,27 @@
 - postman
   - 发音
-    - 英 `/'pəʊs(t)mən/`
-    - 美 `/'postmən/`
+    - 英
+      - `/'pəʊs(t)mən/`
+    - 美
+      - `/'postmən/`
   - 词义
-    - n. 邮递员
-    - `someone whose job is to collect and deliver letters`
+    - n.
+      - 邮递员
+        - `someone whose job is to collect and deliver letters`
   - 记忆
     - post(邮递)+man(人)→做邮递工作的人→邮递员
   - 同根词
     - n.
-      - `posting` 记录；[会计] 过帐；委派
+      - `posting`
+        - 记录；[会计] 过帐；委派
     - v.
-      - `posting` 公布；邮递；布置（post的ing形式）
+      - `posting`
+        - 公布；邮递；布置（post的ing形式）
   - 近义词
-    - n. 邮递员；邮差
-      - `letter carrier`
-      - `mailman`
+    - n.
+      - 邮递员；邮差
+        - `letter carrier`
+        - `mailman`
   - 例句
     - `That postman is in charge of this route.`
       - 那个邮递员负责这条投递线路。

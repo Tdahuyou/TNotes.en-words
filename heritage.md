@@ -1,28 +1,38 @@
 - heritage
   - 发音
-    - 英 `/'herɪtɪdʒ/`
-    - 美 `/'hɛrɪtɪdʒ/`
+    - 英
+      - `/'herɪtɪdʒ/`
+    - 美
+      - `/'hɛrɪtɪdʒ/`
   - 词义
-    - n. 遗产；传统
-    - `the traditional beliefs, values, customs etc of a family, country, or society`
+    - n.
+      - 遗产；传统
+        - `the traditional beliefs, values, customs etc of a family, country, or society`
   - 记忆
     - her(遗传) + it + age(集体名词后缀) → 遗传下来的东西 → 遗产； 传统
   - 同根词
     - adj.
-      - `heritable` 可继承的；可传让的
+      - `heritable`
+        - 可继承的；可传让的
     - n.
-      - `heritor` 继承人；嗣子
+      - `heritor`
+        - 继承人；嗣子
   - 近义词
-    - n. 遗产；传统；继承物；继承权
-      - `tradition`
-      - `succession`
-      - `inheritance`
-      - `legacy`
+    - n.
+      - 遗产；传统；继承物；继承权
+        - `tradition`
+        - `succession`
+        - `inheritance`
+        - `legacy`
   - 短语
-    - `cultural heritage` 文化遗产 
-    - `natural heritage` 自然遗产 
-    - `heritage preservation` 遗产维护 
-    - `heritage foundation` 传统基金会；遗产基金会 
+    - `cultural heritage`
+      - 文化遗产 
+    - `natural heritage`
+      - 自然遗产 
+    - `heritage preservation`
+      - 遗产维护 
+    - `heritage foundation`
+      - 传统基金会；遗产基金会 
   - 例句
     - `the importance of preserving the national heritage`
       - 保护民族遗产的重要性

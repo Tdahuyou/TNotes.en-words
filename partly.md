@@ -1,43 +1,69 @@
 - partly
   - 发音
-    - 英 `/'pɑːtlɪ/`
-    - 美 `/'pɑrtli/`
+    - 英
+      - `/'pɑːtlɪ/`
+    - 美
+      - `/'pɑrtli/`
   - 词义
-    - adv. 在一定程度上，部分地
-    - `to some degree, but not completely`
+    - adv.
+      - 在一定程度上，部分地
+        - `to some degree, but not completely`
   - 同根词
     - adj.
-      - `partial` 局部的；偏爱的；不公平的
-      - `part` 部分的
-      - `parting` 离别的；分开的；逝去的
-      - `partitioned` 分割的；分区的；分段的
-      - `parted` 分开的
-      - `partible` 可分的
-      - `partitive` 区分的；表示部分的
+      - `partial`
+        - 局部的；偏爱的；不公平的
+      - `part`
+        - 部分的
+      - `parting`
+        - 离别的；分开的；逝去的
+      - `partitioned`
+        - 分割的；分区的；分段的
+      - `parted`
+        - 分开的
+      - `partible`
+        - 可分的
+      - `partitive`
+        - 区分的；表示部分的
     - adv.
-      - `part` 部分地
-      - `partially` 部分地；偏袒地
+      - `part`
+        - 部分地
+      - `partially`
+        - 部分地；偏袒地
     - n.
-      - `part` 部分；角色；零件
-      - `partition` 划分，分开；[数] 分割；隔墙；隔离物
-      - `parting` 分手；分离；分界点
-      - `partialness` 偏爱的，不公平的；部分
-      - `partitionist` （政治）分裂主义者
-      - `partitive` 表示部分的词
+      - `part`
+        - 部分；角色；零件
+      - `partition`
+        - 划分，分开；[数] 分割；隔墙；隔离物
+      - `parting`
+        - 分手；分离；分界点
+      - `partialness`
+        - 偏爱的，不公平的；部分
+      - `partitionist`
+        - （政治）分裂主义者
+      - `partitive`
+        - 表示部分的词
     - v.
-      - `parting` 分开；断裂；离去（part的ing形式）
-      - `parted` 分开（part的过去式及过去分词）
+      - `parting`
+        - 分开；断裂；离去（part的ing形式）
+      - `parted`
+        - 分开（part的过去式及过去分词）
     - vi.
-      - `part` 断裂；分手
+      - `part`
+        - 断裂；分手
     - vt.
-      - `part` 分离；分配；分开
-      - `partition` [数] 分割；分隔；区分
-      - `partitioned` 划分（partition的过去分词）；分割；把…分成部分
+      - `part`
+        - 分离；分配；分开
+      - `partition`
+        - [数] 分割；分隔；区分
+      - `partitioned`
+        - 划分（partition的过去分词）；分割；把…分成部分
   - 近义词
-    - adv. 部分地；在一定程度上
-      - `half`
+    - adv.
+      - 部分地；在一定程度上
+        - `half`
   - 短语
-    - `partly cloudy` 局部多云；少云 
+    - `partly cloudy`
+      - 局部多云；少云 
   - 例句
     - `The poor weather was partly responsible for the crash.`
       - 天气不好是造成坠机事故的部分原因。

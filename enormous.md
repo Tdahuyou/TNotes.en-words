@@ -1,24 +1,30 @@
 - enormous
   - 发音
-    - 英 `/ɪ'nɔːrməs/`
-    - 美 `/ɪ'nɔrməs/`
+    - 英
+      - `/ɪ'nɔːrməs/`
+    - 美
+      - `/ɪ'nɔrməs/`
   - 词义
-    - adj. 巨大的，极大的
-    - `very big in size or in amount`
+    - adj.
+      - 巨大的，极大的
+        - `very big in size or in amount`
   - 记忆
     - e(出) + norm(规范) + ous(形容词后缀) → 超出常规的 → 巨大的
   - 同根词
     - adv.
-      - `enormously` 巨大地，庞大地；非常地，在极大程度上
+      - `enormously`
+        - 巨大地，庞大地；非常地，在极大程度上
     - n.
-      - `enormity` 巨大；暴行；极恶
+      - `enormity`
+        - 巨大；暴行；极恶
   - 近义词
-    - adj. 庞大的，巨大的；凶暴的，极恶的
-      - `huge`
-      - `tremendous`
-      - `massive`
-      - `macro`
-      - `vast`
+    - adj.
+      - 庞大的，巨大的；凶暴的，极恶的
+        - `huge`
+        - `tremendous`
+        - `massive`
+        - `macro`
+        - `vast`
   - 例句
     - `an enormous bunch of flowers`
       - 巨大的花束

@@ -1,14 +1,18 @@
 - sherry
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 雪利酒（西班牙产的一种烈性白葡萄酒）；葡萄酒
-    - `a pale or dark brown strong wine, originally from Spain`
+    - n.
+      - 雪利酒（西班牙产的一种烈性白葡萄酒）；葡萄酒
+        - `a pale or dark brown strong wine, originally from Spain`
   - 近义词
-    - n. [食品]雪利酒（西班牙产的一种烈性白葡萄酒）；葡萄酒
-      - `grape wine`
-      - `Wein`
+    - n.
+      - [食品]雪利酒（西班牙产的一种烈性白葡萄酒）；葡萄酒
+        - `grape wine`
+        - `Wein`
   - 例句
     - `She swore by her inferior sherry to me.`
       - 她极力向我推荐她的劣质雪利酒。

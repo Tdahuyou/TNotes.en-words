@@ -1,24 +1,30 @@
 - opulent
   - 发音
-    - 英 `/'ɔpjulənt/`
-    - 美 `/'ɑpjələnt/`
+    - 英
+      - `/'ɔpjulənt/`
+    - 美
+      - `/'ɑpjələnt/`
   - 词义
-    - adj. 富裕的，丰富的
-    - `very rich and spending a lot of money`
+    - adj.
+      - 富裕的，丰富的
+        - `very rich and spending a lot of money`
   - 记忆
     - opul (财富) + ent (…的) → 有财富的 → 富裕的
   - 同根词
     - adv.
-      - `opulently` 富裕地，丰裕地
+      - `opulently`
+        - 富裕地，丰裕地
     - n.
-      - `opulence` 富裕；丰富
+      - `opulence`
+        - 富裕；丰富
   - 近义词
-    - adj. 丰富的；富裕的；大量的
-      - `abundant`
-      - `massive`
-      - `extensive`
-      - `substantial`
-      - `macro`
+    - adj.
+      - 丰富的；富裕的；大量的
+        - `abundant`
+        - `massive`
+        - `extensive`
+        - `substantial`
+        - `macro`
   - 例句
     - `Europe’s opulent elite`
       - 欧洲富裕的精英阶层

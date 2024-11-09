@@ -1,18 +1,24 @@
 - prophylactic
   - 发音
-    - 英 `/,prɒfɪ'læktɪk/`
-    - 美 `/,profə'læktɪk/`
+    - 英
+      - `/,prɒfɪ'læktɪk/`
+    - 美
+      - `/,profə'læktɪk/`
   - 词义
-    - adj. 预防疾病的
-    - `intended to prevent disease`
+    - adj.
+      - 预防疾病的
+        - `intended to prevent disease`
   - 同根词
     - n.
-      - `prophylaxis` [医] 预防；预防法
+      - `prophylaxis`
+        - [医] 预防；预防法
   - 近义词
-    - n. [药]预防药；预防法；避孕用具
-      - `preventive`
+    - n.
+      - [药]预防药；预防法；避孕用具
+        - `preventive`
   - 短语
-    - `prophylactic measures` 防病措施；预防措施（prophylactic measure的复数） 
+    - `prophylactic measures`
+      - 防病措施；预防措施（prophylactic measure的复数） 
   - 例句
     - `prophylactic antibiotics`
       - 预防性抗生素

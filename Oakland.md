@@ -1,9 +1,12 @@
 - Oakland
   - 发音
-    - 英 `/'əuklənd/`
-    - 美 `/'əuklənd/`
+    - 英
+      - `/'əuklənd/`
+    - 美
+      - `/'əuklənd/`
   - 词义
-    - n. 奥克兰(美国加利福尼亚州西部城市)
+    - n.
+      - 奥克兰(美国加利福尼亚州西部城市)
   - 例句
     - `I thought this building should be physically and symbolically connected with the city as a powerful social and cultural resource for Oakland.`
       - 我认为，这座建筑应该作为奥克兰一个强大的社会与文化资源，在外形和寓意上都与这座城市彼此相联。

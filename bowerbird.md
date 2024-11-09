@@ -1,9 +1,12 @@
 - bowerbird
   - 发音
-    - 英 `/'baʊəbɜːd/`
-    - 美 `/'baʊɚ,bɚd/`
+    - 英
+      - `/'baʊəbɜːd/`
+    - 美
+      - `/'baʊɚ,bɚd/`
   - 词义
-    - n. [鸟]园丁鸟；澳洲产的一种鸟
+    - n.
+      - [鸟]园丁鸟；澳洲产的一种鸟
   - 例句
     - `Constructing a brightly colored nest works wonders for the bowerbird.`
       - 造一个色彩明亮的巢会在园丁鸟中产生奇妙的作用。

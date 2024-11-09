@@ -1,9 +1,12 @@
 - paralegal
   - 发音
-    - 英 `/ˌpærəˈli:gl/`
-    - 美 `/,pærə'liɡl/`
+    - 英
+      - `/ˌpærəˈli:gl/`
+    - 美
+      - `/,pærə'liɡl/`
   - 词义
-    - adj. 辅助律师业务的
+    - adj.
+      - 辅助律师业务的
   - 例句
     - `Unable to find a job as a teacher's aide, she decided to enroll in paralegal classes at night.`
       - 但是由于不能找到一份助理教师的工作，她决定报名参加一个夜校的律师助理课程。

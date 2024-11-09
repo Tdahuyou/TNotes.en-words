@@ -1,20 +1,27 @@
 - precipitous
   - 发音
-    - 英 `/prɪ'sɪpɪtəs/`
-    - 美 `/prɪ'sɪpɪtəs/`
+    - 英
+      - `/prɪ'sɪpɪtəs/`
+    - 美
+      - `/prɪ'sɪpɪtəs/`
   - 词义
-    - adj. 险峻的；急躁的，鲁莽的
-    - `dangerously high or steep`
+    - adj.
+      - 险峻的；急躁的，鲁莽的
+        - `dangerously high or steep`
   - 同根词
     - adv.
-      - `precipitously` 陡峭地；出乎意料地；陡然地
+      - `precipitously`
+        - 陡峭地；出乎意料地；陡然地
     - n.
-      - `precipitation` [化学] 沉淀，[化学] 沉淀物；冰雹；坠落；鲁莽
-      - `precipitancy` 急躁；轻率；鲁莽
+      - `precipitation`
+        - [化学] 沉淀，[化学] 沉淀物；冰雹；坠落；鲁莽
+      - `precipitancy`
+        - 急躁；轻率；鲁莽
   - 近义词
-    - adj. 险峻的；急躁的，鲁莽的
-      - `rapid`
-      - `bold`
+    - adj.
+      - 险峻的；急躁的，鲁莽的
+        - `rapid`
+        - `bold`
   - 例句
     - `a precipitous path`
       - 陡峭的小路

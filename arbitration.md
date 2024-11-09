@@ -1,43 +1,71 @@
 - arbitration
   - 发音
-    - 英 `/ˌɑːbi'treiʃən/`
-    - 美 `/,ɑrbɪ'treʃən/`
+    - 英
+      - `/ˌɑːbi'treiʃən/`
+    - 美
+      - `/,ɑrbɪ'treʃən/`
   - 词义
-    - n. 仲裁
-    - `the process of judging officially how an argument should be settled`
+    - n.
+      - 仲裁
+        - `the process of judging officially how an argument should be settled`
   - 同根词
     - adj.
-      - `arbitral` 仲裁的；仲裁人的
-      - `arbitrable` 可仲裁的，可裁决的
-      - `arbitrational` 关于仲裁的
-      - `arbitrative` 有权仲裁的
+      - `arbitral`
+        - 仲裁的；仲裁人的
+      - `arbitrable`
+        - 可仲裁的，可裁决的
+      - `arbitrational`
+        - 关于仲裁的
+      - `arbitrative`
+        - 有权仲裁的
     - n.
-      - `arbitrage` 套汇，套利；仲裁
-      - `arbitrator` 公断人，仲裁人
-      - `arbitrament` 仲裁；仲裁结论；裁决权
+      - `arbitrage`
+        - 套汇，套利；仲裁
+      - `arbitrator`
+        - 公断人，仲裁人
+      - `arbitrament`
+        - 仲裁；仲裁结论；裁决权
     - vt.
-      - `arbitrate` 仲裁；公断
+      - `arbitrate`
+        - 仲裁；公断
   - 近义词
-    - n. [法]公断，仲裁
-      - `mediation`
-      - `umpirage`
+    - n.
+      - [法]公断，仲裁
+        - `mediation`
+        - `umpirage`
   - 短语
-    - `arbitration commission` [经]仲裁委员会 
-    - `arbitration rules` 仲裁规则 
-    - `arbitration clause` 仲裁条款；公断条款 
-    - `arbitration agreement` 仲裁协定 
-    - `arbitration award` 仲裁裁决；公断书 
-    - `arbitration committee` 仲裁委员会 
-    - `arbitration tribunal` 仲裁法庭 
-    - `arbitration law` 仲裁法 
-    - `foreign trade arbitration commission` 对外贸易仲裁委员会 
-    - `go to arbitration` 提请仲裁 
-    - `maritime arbitration commission` 海事仲裁委员会 
-    - `arbitration court` [法]仲裁法庭，公断法庭 
-    - `arbitration fee` 仲裁费 
-    - `arbitration proceedings` 仲裁程序 
-    - `american arbitration association` 美国商务仲裁协会 
-    - `arbitration act` 仲裁法 
+    - `arbitration commission`
+      - [经]仲裁委员会 
+    - `arbitration rules`
+      - 仲裁规则 
+    - `arbitration clause`
+      - 仲裁条款；公断条款 
+    - `arbitration agreement`
+      - 仲裁协定 
+    - `arbitration award`
+      - 仲裁裁决；公断书 
+    - `arbitration committee`
+      - 仲裁委员会 
+    - `arbitration tribunal`
+      - 仲裁法庭 
+    - `arbitration law`
+      - 仲裁法 
+    - `foreign trade arbitration commission`
+      - 对外贸易仲裁委员会 
+    - `go to arbitration`
+      - 提请仲裁 
+    - `maritime arbitration commission`
+      - 海事仲裁委员会 
+    - `arbitration court`
+      - [法]仲裁法庭，公断法庭 
+    - `arbitration fee`
+      - 仲裁费 
+    - `arbitration proceedings`
+      - 仲裁程序 
+    - `american arbitration association`
+      - 美国商务仲裁协会 
+    - `arbitration act`
+      - 仲裁法 
   - 例句
     - `The dispute is going to arbitration (=  someone is being asked to arbitrate  ) .`
       - 这场争议将提请仲裁。

@@ -1,35 +1,51 @@
 - educated
   - 发音
-    - 英 `/'edʒukeɪtɪd/`
-    - 美 `/'ɛdʒə'ketɪd/`
+    - 英
+      - `/'edʒukeɪtɪd/`
+    - 美
+      - `/'ɛdʒə'ketɪd/`
   - 词义
-    - adj. 受过教育的，有教养的
-    - `having been well taught and learned a lot`
+    - adj.
+      - 受过教育的，有教养的
+        - `having been well taught and learned a lot`
   - 同根词
     - adj.
-      - `educational` 教育的；有教育意义的
-      - `educative` 教育的，教育上的
+      - `educational`
+        - 教育的；有教育意义的
+      - `educative`
+        - 教育的，教育上的
     - adv.
-      - `educationally` 教育上地
+      - `educationally`
+        - 教育上地
     - n.
-      - `education` 教育；培养；教育学
-      - `educator` 教育家；教育工作者；教师
-      - `educatee` 受教育者
-      - `educationalist` 教育家；教育工作者
-      - `educationist` 教育家；教育理论家
+      - `education`
+        - 教育；培养；教育学
+      - `educator`
+        - 教育家；教育工作者；教师
+      - `educatee`
+        - 受教育者
+      - `educationalist`
+        - 教育家；教育工作者
+      - `educationist`
+        - 教育家；教育理论家
     - vi.
-      - `educate` 教育；训练
+      - `educate`
+        - 教育；训练
     - vt.
-      - `educate` 教育；培养；训练
+      - `educate`
+        - 教育；培养；训练
   - 近义词
-    - adj. 受过教育的；有教养的
-      - `refined`
-      - `cultivated`
-    - v. 训练；教导；培育（educate的过去分词形式）
-      - `trained`
-      - `coached`
+    - adj.
+      - 受过教育的；有教养的
+        - `refined`
+        - `cultivated`
+    - v.
+      - 训练；教导；培育（educate的过去分词形式）
+        - `trained`
+        - `coached`
   - 短语
-    - `educated guess` n. 有根据的推测 
+    - `educated guess`
+      - n. 有根据的推测 
   - 例句
     - `a highly educated woman`
       - 很有修养的女子

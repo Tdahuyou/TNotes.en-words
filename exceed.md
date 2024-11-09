@@ -1,28 +1,36 @@
 - exceed
   - 发音
-    - 英 `/ɪk'siːd/`
-    - 美 `/ɪk'sid/`
+    - 英
+      - `/ɪk'siːd/`
+    - 美
+      - `/ɪk'sid/`
   - 词义
-    - v. 超过，超出
-    - `to be more than a particular number or amount`
+    - v.
+      - 超过，超出
+        - `to be more than a particular number or amount`
   - 记忆
     - ex(出) + ceed(走) → 走出去 → 超过
   - 同根词
     - adj.
-      - `exceeding` 超越的；非常的；过度的
+      - `exceeding`
+        - 超越的；非常的；过度的
     - adv.
-      - `exceedingly` 非常；极其；极度地；极端
+      - `exceedingly`
+        - 非常；极其；极度地；极端
     - v.
-      - `exceeding` 超过；占优势（exceed的ing形式）
+      - `exceeding`
+        - 超过；占优势（exceed的ing形式）
   - 近义词
-    - vt. 超过；胜过
-      - `better than`
-      - `overcome`
-      - `top`
-      - `cap`
-      - `outdo`
+    - vt.
+      - 超过；胜过
+        - `better than`
+        - `overcome`
+        - `top`
+        - `cap`
+        - `outdo`
   - 短语
-    - `exceed in` 在…方面超过 
+    - `exceed in`
+      - 在…方面超过 
   - 例句
     - `Working hours must not exceed 42 hours a week.`
       - 工作时间每周不得超过42小时。

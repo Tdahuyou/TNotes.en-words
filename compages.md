@@ -1,14 +1,18 @@
 - compages
   - 发音
-    - 英 `/kəm'peɪdʒiːz/`
-    - 美 `/kəm'peidʒi:z/`
+    - 英
+      - `/kəm'peɪdʒiːz/`
+    - 美
+      - `/kəm'peidʒi:z/`
   - 词义
-    - n. 组合,构造
-    - `a structure or framework `
+    - n.
+      - 组合,构造
+        - `a structure or framework `
   - 近义词
-    - n. 骨架；综合结构
-      - `framework`
-      - `skeleton`
+    - n.
+      - 骨架；综合结构
+        - `framework`
+        - `skeleton`
   - 例句
     - `This method can avoid the disfigurement of singleobjective optimization, thereby valuing the best compages of the aircraft configuration parameter more reasonably.`
       - 该方法可避免单目标优化的片面缺陷，从而更加合理地评价飞机总体参数的最佳组合。

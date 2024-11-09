@@ -1,20 +1,28 @@
 - azure
   - 发音
-    - 英 `/'æʒər/`
-    - 美 `/'æʒɚ/`
+    - 英
+      - `/'æʒər/`
+    - 美
+      - `/'æʒɚ/`
   - 词义
-    - adj. 蔚蓝的
-    - `having a bright blue colour like the sky`
-    - n. 天蓝色
+    - adj.
+      - 蔚蓝的
+        - `having a bright blue colour like the sky`
+    - n.
+      - 天蓝色
   - 近义词
-    - adj. 蔚蓝的
-      - `cerulean`
-    - n. 天蓝色；碧空
-      - `ciel`
-      - `ethereal blue`
+    - adj.
+      - 蔚蓝的
+        - `cerulean`
+    - n.
+      - 天蓝色；碧空
+        - `ciel`
+        - `ethereal blue`
   - 短语
-    - `azure blue` 天青蓝 
-    - `azure stone` 琉璃；青金石；蓝铜矿 
+    - `azure blue`
+      - 天青蓝 
+    - `azure stone`
+      - 琉璃；青金石；蓝铜矿 
   - 例句
     - `The apartment flag is gold lion rampant on a field of azure.`
       - 公寓旗帜是一头在天蓝色背景下两腿站立的狮子。

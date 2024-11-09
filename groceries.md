@@ -1,17 +1,23 @@
 - groceries
   - 发音
-    - 英 `/'grəʊs(ə)rɪz/`
-    - 美 `/'ɡrosərɪz/`
+    - 英
+      - `/'grəʊs(ə)rɪz/`
+    - 美
+      - `/'ɡrosərɪz/`
   - 词义
-    - n. 食品杂货
-    - `merchandise, esp foodstuffs, sold by a grocer `
+    - n.
+      - 食品杂货
+        - `merchandise, esp foodstuffs, sold by a grocer `
   - 近义词
-    - n. 杂货；食品；生活用品
-      - `foods`
-      - `sundry goods`
+    - n.
+      - 杂货；食品；生活用品
+        - `foods`
+        - `sundry goods`
   - 短语
-    - `grocery store` 杂货店 
-    - `grocery bag` 食品杂货袋 
+    - `grocery store`
+      - 杂货店 
+    - `grocery bag`
+      - 食品杂货袋 
   - 例句
     - `I have brought him some groceries.`
       - 我给他带回一些食品。

@@ -1,15 +1,18 @@
 - hen
   - 发音
-    - 英 `/hen/`
-    - 美 `/hɛn/`
+    - 英
+      - `/hen/`
+    - 美
+      - `/hɛn/`
   - 词义
-    - `an adult female chicken`
+        - `an adult female chicken`
   - 记忆
     - 拿钢笔(pen)， 画母鸡(hen)
   - 近义词
-    - n. 母鸡；女人；[禽]雌禽
-      - `female`
-      - `she`
+    - n.
+      - 母鸡；女人；[禽]雌禽
+        - `female`
+        - `she`
   - 例句
     - `The chickens gathered under the hen.`
       - 小鸡聚集在母鸡翅膀下面。

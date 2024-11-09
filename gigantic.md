@@ -1,22 +1,27 @@
 - gigantic
   - 发音
-    - 英 `/dʒaɪ'gæntɪk/`
-    - 美 `/dʒaɪ'ɡæntɪk/`
+    - 英
+      - `/dʒaɪ'gæntɪk/`
+    - 美
+      - `/dʒaɪ'ɡæntɪk/`
   - 词义
-    - adj. 巨大的，庞大的
-    - `extremely big`
+    - adj.
+      - 巨大的，庞大的
+        - `extremely big`
   - 记忆
     - gigant(=giant巨人) + ic → 巨大的
   - 同根词
     - n.
-      - `gigantism` 巨大；[内科] 巨人症；巨大畸形
+      - `gigantism`
+        - 巨大；[内科] 巨人症；巨大畸形
   - 近义词
-    - adj. 巨大的，庞大的
-      - `huge`
-      - `enormous`
-      - `tremendous`
-      - `massive`
-      - `macro`
+    - adj.
+      - 巨大的，庞大的
+        - `huge`
+        - `enormous`
+        - `tremendous`
+        - `massive`
+        - `macro`
   - 例句
     - `a gigantic skyscraper`
       - 摩天大楼

@@ -1,12 +1,17 @@
 - Zealand
   - 发音
-    - 英 `/'zi:lənd/`
-    - 美 `/'zilənd/`
+    - 英
+      - `/'zi:lənd/`
+    - 美
+      - `/'zilənd/`
   - 词义
-    - n. 西兰岛(丹麦最大的岛)
+    - n.
+      - 西兰岛(丹麦最大的岛)
   - 短语
-    - `new zealand` n. 新西兰 
-    - `new zealand dollar` 新西兰元 
+    - `new zealand`
+      - n. 新西兰 
+    - `new zealand dollar`
+      - 新西兰元 
   - 例句
     - `Unfortunately, we know that one effect of climate change in New Zealand will be more extreme weather like this.`
       - 遗憾的是，我们知道，气候变化在新西兰的影响之一是会有更多像这样的极端天气。

@@ -1,37 +1,55 @@
 - really
   - 发音
-    - 英 `/'rɪəlɪ/`
-    - 美 `/ˈriəˌli, ˈrili/`
+    - 英
+      - `/'rɪəlɪ/`
+    - 美
+      - `/ˈriəˌli, ˈrili/`
   - 词义
-    - adv. 真正地；非常，很
-    - `very`
+    - adv.
+      - 真正地；非常，很
+        - `very`
   - 同根词
     - adj.
-      - `real` 实际的；真实的；实在的
-      - `realized` 实现的；已实现
-      - `realizable` [数] 可实现的；可实行的；可感觉到的
+      - `real`
+        - 实际的；真实的；实在的
+      - `realized`
+        - 实现的；已实现
+      - `realizable`
+        - [数] 可实现的；可实行的；可感觉到的
     - adv.
-      - `real` 真正地；确实地
+      - `real`
+        - 真正地；确实地
     - n.
-      - `reality` 现实；实际；真实
-      - `real` 现实；实数
-      - `realization` 实现；领悟
-      - `realism` 现实主义；实在论；现实主义的态度和行为
-      - `realist` 现实主义者；实在论者
-      - `realness` 真诚；真实性
+      - `reality`
+        - 现实；实际；真实
+      - `real`
+        - 现实；实数
+      - `realization`
+        - 实现；领悟
+      - `realism`
+        - 现实主义；实在论；现实主义的态度和行为
+      - `realist`
+        - 现实主义者；实在论者
+      - `realness`
+        - 真诚；真实性
     - vt.
-      - `realize` 实现；认识到；了解；将某物卖得
-      - `realized` 实现（realize的过去式及过去分词）
+      - `realize`
+        - 实现；认识到；了解；将某物卖得
+      - `realized`
+        - 实现（realize的过去式及过去分词）
   - 近义词
-    - adv. 实际上，事实上；真正地，真实地；真的吗？（表语气）
-      - `actually`
-      - `truly`
-      - `effectively`
-      - `indeed`
-      - `virtually`
+    - adv.
+      - 实际上，事实上；真正地，真实地；真的吗？（表语气）
+        - `actually`
+        - `truly`
+        - `effectively`
+        - `indeed`
+        - `virtually`
   - 短语
-    - `really something` 真了不起 
-    - `really and truly` 真正地，千真万确地 
+    - `really something`
+      - 真了不起 
+    - `really and truly`
+      - 真正地，千真万确地 
   - 例句
     - `a really good film`
       - 非常好的电影

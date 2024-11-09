@@ -1,26 +1,38 @@
 - deduction
   - 发音
-    - 英 `/dɪ'dʌkʃ(ə)n/`
-    - 美 `/dɪ'dʌkʃən/`
+    - 英
+      - `/dɪ'dʌkʃ(ə)n/`
+    - 美
+      - `/dɪ'dʌkʃən/`
   - 词义
-    - n. 扣除，减除；推论；减除额
-    - `the process of using the knowledge or information you have in order to understand something or form an opinion, or the opinion that you form`
+    - n.
+      - 扣除，减除；推论；减除额
+        - `the process of using the knowledge or information you have in order to understand something or form an opinion, or the opinion that you form`
   - 同根词
     - adj.
-      - `deductive` 演绎的；推论的；推断的
-      - `deductible` 可扣除的；可减免的
-      - `deducible` 可推论的
+      - `deductive`
+        - 演绎的；推论的；推断的
+      - `deductible`
+        - 可扣除的；可减免的
+      - `deducible`
+        - 可推论的
     - vt.
-      - `deduct` 扣除，减去；演绎
-      - `deduce` 推论，推断；演绎出
+      - `deduct`
+        - 扣除，减去；演绎
+      - `deduce`
+        - 推论，推断；演绎出
   - 近义词
-    - n. [会计]扣除，减除；[数]推论；减除额
-      - `conclusion`
-      - `consequence`
+    - n.
+      - [会计]扣除，减除；[数]推论；减除额
+        - `conclusion`
+        - `consequence`
   - 短语
-    - `tax deduction` 减免税款 
-    - `logical deduction` 逻辑推理，逻辑演绎 
-    - `deduction method` 演绎法；扣除法 
+    - `tax deduction`
+      - 减免税款 
+    - `logical deduction`
+      - 逻辑推理，逻辑演绎 
+    - `deduction method`
+      - 演绎法；扣除法 
   - 例句
     - `Children will soon make deductions about the meaning of a word.`
       - 儿童不久就能推断词义了。

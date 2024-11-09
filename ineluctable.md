@@ -1,19 +1,25 @@
 - ineluctable
   - 发音
-    - 英 `/,ɪnɪ'lʌktəb(ə)l/`
-    - 美 `/,ɪnɪ'lʌktəbl/`
+    - 英
+      - `/,ɪnɪ'lʌktəb(ə)l/`
+    - 美
+      - `/,ɪnɪ'lʌktəbl/`
   - 词义
-    - adj. 不可避免的；无法逃避的
-    - `impossible to avoid`
+    - adj.
+      - 不可避免的；无法逃避的
+        - `impossible to avoid`
   - 同根词
     - adv.
-      - `ineluctably` 不可避免地；必然地
+      - `ineluctably`
+        - 不可避免地；必然地
     - n.
-      - `ineluctability` 不可避免，无法逃避
+      - `ineluctability`
+        - 不可避免，无法逃避
   - 近义词
-    - adj. 不可避免的；无法逃避的
-      - `inevitable`
-      - `unavoidable`
+    - adj.
+      - 不可避免的；无法逃避的
+        - `inevitable`
+        - `unavoidable`
   - 例句
     - `...the ineluctable tendency of populations to exceed resources.`
       - ...人口超出资源承载限度的不可避免的趋势。

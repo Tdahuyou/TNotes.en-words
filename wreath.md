@@ -1,30 +1,39 @@
 - wreath
   - 发音
-    - 英 `/riːθ/`
-    - 美 `/riθ/`
+    - 英
+      - `/riːθ/`
+    - 美
+      - `/riθ/`
   - 词义
-    - n. 花圈；花冠；圈状物
-    - `a circle made from leaves or flowers that you put on the place where a person is buried`
+    - n.
+      - 花圈；花冠；圈状物
+        - `a circle made from leaves or flowers that you put on the place where a person is buried`
   - 记忆
     - wr+eath(看作earth， 土地)→入土为安， 奉献花圈→花圈
   - 同根词
     - vi.
-      - `wreathe` 缭绕；成圈状；扭曲；环绕盘旋
+      - `wreathe`
+        - 缭绕；成圈状；扭曲；环绕盘旋
     - vt.
-      - `wreathe` 用花环装饰；将…做成花环；包围；覆盖
+      - `wreathe`
+        - 用花环装饰；将…做成花环；包围；覆盖
   - 近义词
-    - n. [轻]花冠；圈状物
-      - `crown`
-      - `lei`
-      - `corolla`
-    - vt. 环绕（等于wreathe）
-      - `zone`
-      - `environ`
-    - vi. 盘旋（等于wreathe）
-      - `orbit`
-      - `serpentuate`
+    - n.
+      - [轻]花冠；圈状物
+        - `crown`
+        - `lei`
+        - `corolla`
+    - vt.
+      - 环绕（等于wreathe）
+        - `zone`
+        - `environ`
+    - vi.
+      - 盘旋（等于wreathe）
+        - `orbit`
+        - `serpentuate`
   - 短语
-    - `laurel wreath` 桂冠 
+    - `laurel wreath`
+      - 桂冠 
   - 例句
     - `The prime minister laid a wreath at the war memorial.`
       - 首相向战争纪念碑献了花圈。

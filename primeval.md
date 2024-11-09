@@ -1,31 +1,45 @@
 - primeval
   - 发音
-    - 英 `/praɪ'miːv(ə)l/`
-    - 美 `/prai'mi:vəl/`
+    - 英
+      - `/praɪ'miːv(ə)l/`
+    - 美
+      - `/prai'mi:vəl/`
   - 词义
-    - adj. 原始的,早期的
-    - `very ancient`
+    - adj.
+      - 原始的,早期的
+        - `very ancient`
   - 同根词
     - adj.
-      - `prime` 主要的；最好的；基本的
-      - `primitive` 原始的，远古的；简单的，粗糙的
+      - `prime`
+        - 主要的；最好的；基本的
+      - `primitive`
+        - 原始的，远古的；简单的，粗糙的
     - adv.
-      - `prime` 极好地
+      - `prime`
+        - 极好地
     - n.
-      - `prime` 初期；青年；精华；全盛时期
-      - `primitive` 原始人
-      - `primer` 初级读本；识字课本；原始物
-      - `primality` 原始；首要；根本；素性
-      - `primitivism` 原始主义；尚古主义；原始的风格
+      - `prime`
+        - 初期；青年；精华；全盛时期
+      - `primitive`
+        - 原始人
+      - `primer`
+        - 初级读本；识字课本；原始物
+      - `primality`
+        - 原始；首要；根本；素性
+      - `primitivism`
+        - 原始主义；尚古主义；原始的风格
     - vi.
-      - `prime` 作准备
+      - `prime`
+        - 作准备
     - vt.
-      - `prime` 使准备好；填装
+      - `prime`
+        - 使准备好；填装
   - 近义词
-    - adj. 原始的；初期的（等于primaeval）
-      - `original`
-      - `earlier`
-      - `young`
+    - adj.
+      - 原始的；初期的（等于primaeval）
+        - `original`
+        - `earlier`
+        - `young`
   - 例句
     - `primeval forests`
       - 原始森林

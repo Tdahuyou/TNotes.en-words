@@ -1,13 +1,17 @@
 - mantel
   - 发音
-    - 英 `/'mænt(ə)l/`
-    - 美 `/mæntl/`
+    - 英
+      - `/'mænt(ə)l/`
+    - 美
+      - `/mæntl/`
   - 词义
-    - n. 壁炉架
-    - `A mantel is a mantelpiece`
+    - n.
+      - 壁炉架
+        - `A mantel is a mantelpiece`
   - 近义词
-    - n. 壁炉架
-      - `chimney piece`
+    - n.
+      - 壁炉架
+        - `chimney piece`
   - 例句
     - `As I did, two beautiful cups gleamed from the mantel.`
       - 当我这么做的时候，壁炉架上有两座漂亮的奖杯微光一闪。

@@ -1,29 +1,39 @@
 - badly
   - 发音
-    - 英 `/'bædlɪ/`
-    - 美 `/'bædli/`
+    - 英
+      - `/'bædlɪ/`
+    - 美
+      - `/'bædli/`
   - 词义
-    - adv. 严重地,恶劣地
-    - `in an unsatisfactory or unsuccessful way`
+    - adv.
+      - 严重地,恶劣地
+        - `in an unsatisfactory or unsuccessful way`
   - 同根词
     - adj.
-      - `bad` 坏的；严重的；劣质的
+      - `bad`
+        - 坏的；严重的；劣质的
     - adv.
-      - `bad` 很，非常；坏地；邪恶地
+      - `bad`
+        - 很，非常；坏地；邪恶地
     - n.
-      - `bad` 坏事；坏人
-      - `badness` 坏，恶；不良；恶劣状态
+      - `bad`
+        - 坏事；坏人
+      - `badness`
+        - 坏，恶；不良；恶劣状态
   - 近义词
-    - adv. 非常，很；严重地，厉害地；恶劣地
-      - `extremely`
-      - `greatly`
-      - `highly`
-      - `quite`
-      - `too`
-      - `seriously`
+    - adv.
+      - 非常，很；严重地，厉害地；恶劣地
+        - `extremely`
+        - `greatly`
+        - `highly`
+        - `quite`
+        - `too`
+        - `seriously`
   - 短语
-    - `badly off` 穷困的，没钱的；境况不佳的 
-    - `hurt badly` 头痛的厉害，严重受伤 
+    - `badly off`
+      - 穷困的，没钱的；境况不佳的 
+    - `hurt badly`
+      - 头痛的厉害，严重受伤 
   - 例句
     - `The company has been very badly managed.`
       - 这家公司的管理非常差。

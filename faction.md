@@ -1,19 +1,25 @@
 - faction
   - 发音
-    - 英 `/'fækʃn/`
-    - 美 `/'fækʃən/`
+    - 英
+      - `/'fækʃn/`
+    - 美
+      - `/'fækʃən/`
   - 词义
-    - n. 派别，派系，小集团；派系斗争
-    - `a small group of people within a larger group, who have different ideas from the other members, and who try to get their own ideas accepted`
+    - n.
+      - 派别，派系，小集团；派系斗争
+        - `a small group of people within a larger group, who have different ideas from the other members, and who try to get their own ideas accepted`
   - 同根词
     - adj.
-      - `factious` 好捣乱的；好搞派系的；源于派别的
+      - `factious`
+        - 好捣乱的；好搞派系的；源于派别的
     - n.
-      - `fact` 事实；实际；真相
+      - `fact`
+        - 事实；实际；真相
   - 近义词
-    - n. 派别；内讧；小集团；纪实小说
-      - `wing`
-      - `junta`
+    - n.
+      - 派别；内讧；小集团；纪实小说
+        - `wing`
+        - `junta`
   - 例句
     - `struggles between the different factions within the party`
       - 党内的派系斗争

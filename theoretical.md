@@ -1,48 +1,79 @@
 - theoretical
   - 发音
-    - 英 `/ˌθiːə'retɪkl/`
-    - 美 `/,θiə'rɛtɪkəl/`
+    - 英
+      - `/ˌθiːə'retɪkl/`
+    - 美
+      - `/,θiə'rɛtɪkəl/`
   - 词义
-    - adj. 不切实际的；理论的
-    - `relating to the study of ideas, especially scientific ideas, rather than with practical uses of the ideas or practical experience`
+    - adj.
+      - 不切实际的；理论的
+        - `relating to the study of ideas, especially scientific ideas, rather than with practical uses of the ideas or practical experience`
   - 同根词
     - adj.
-      - `theoretic` 理论上的；空谈的
+      - `theoretic`
+        - 理论上的；空谈的
     - adv.
-      - `theoretically` 理论地；理论上
+      - `theoretically`
+        - 理论地；理论上
     - n.
-      - `theory` 理论；原理；学说；推测
-      - `theorist` 理论家
-      - `theoretician` 理论家，精通于理论的人
-      - `theorization` 理论；理论化
-      - `theorizer` 理论家
+      - `theory`
+        - 理论；原理；学说；推测
+      - `theorist`
+        - 理论家
+      - `theoretician`
+        - 理论家，精通于理论的人
+      - `theorization`
+        - 理论；理论化
+      - `theorizer`
+        - 理论家
     - vi.
-      - `theorize` 建立理论或学说；推理
-      - `theorise` 建立理论
+      - `theorize`
+        - 建立理论或学说；推理
+      - `theorise`
+        - 建立理论
     - vt.
-      - `theorize` 建立理论
-      - `theorise` 使理论化
+      - `theorize`
+        - 建立理论
+      - `theorise`
+        - 使理论化
   - 近义词
-    - adj. 理论的；理论上的；假设的；推理的
-      - `academic`
-      - `reasoning`
+    - adj.
+      - 理论的；理论上的；假设的；推理的
+        - `academic`
+        - `reasoning`
   - 短语
-    - `theoretical basis` 理论基础 
-    - `theoretical foundation` 理论基础 
-    - `theoretical model` 理论模型 
-    - `theoretical value` 理论值 
-    - `theoretical level` 理论水平 
-    - `theoretical physics` 理论物理 
-    - `theoretical derivation` 理论推导 
-    - `theoretical equation` 理论公式 
-    - `theoretical mode` 理论模型；理论众数 
-    - `theoretical mechanics` 理论力学 
-    - `theoretical curve` 理论曲线 
-    - `theoretical principle` 理论基础；理论原则 
-    - `theoretical plate` 理论塔板 
-    - `theoretical distribution` 理论分布 
-    - `theoretical arithmetic` 理论计算 
-    - `theoretical density` 理论密度 
+    - `theoretical basis`
+      - 理论基础 
+    - `theoretical foundation`
+      - 理论基础 
+    - `theoretical model`
+      - 理论模型 
+    - `theoretical value`
+      - 理论值 
+    - `theoretical level`
+      - 理论水平 
+    - `theoretical physics`
+      - 理论物理 
+    - `theoretical derivation`
+      - 理论推导 
+    - `theoretical equation`
+      - 理论公式 
+    - `theoretical mode`
+      - 理论模型；理论众数 
+    - `theoretical mechanics`
+      - 理论力学 
+    - `theoretical curve`
+      - 理论曲线 
+    - `theoretical principle`
+      - 理论基础；理论原则 
+    - `theoretical plate`
+      - 理论塔板 
+    - `theoretical distribution`
+      - 理论分布 
+    - `theoretical arithmetic`
+      - 理论计算 
+    - `theoretical density`
+      - 理论密度 
   - 例句
     - `theoretical physics`
       - 理论物理

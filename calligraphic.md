@@ -1,17 +1,24 @@
 - calligraphic
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - adj. 书法的；缮写的
+    - adj.
+      - 书法的；缮写的
   - 记忆
     - 来自calligraphy(n. 书法)
   - 同根词
     - n.
-      - `calligraphy` 书法；笔迹
-      - `calligrapher` 书法家
-      - `calligraph` 漂亮的书写，书法
-      - `calligraphist` 书法家（等于calligrapher）
+      - `calligraphy`
+        - 书法；笔迹
+      - `calligrapher`
+        - 书法家
+      - `calligraph`
+        - 漂亮的书写，书法
+      - `calligraphist`
+        - 书法家（等于calligrapher）
   - 例句
     - `The characters in the top line are constructed with a pointed pen (calligraphic tool).`
       - 上面一行的字体的书法原型是一种尖头的书法钢笔。

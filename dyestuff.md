@@ -1,14 +1,18 @@
 - dyestuff
   - 发音
-    - 英 `/'daɪstʌf/`
-    - 美 `/'daɪ,stʌf/`
+    - 英
+      - `/'daɪstʌf/`
+    - 美
+      - `/'daɪ,stʌf/`
   - 词义
-    - n. 染料
-    - `a substance that can be used as a dye or from which a dye can be obtained `
+    - n.
+      - 染料
+        - `a substance that can be used as a dye or from which a dye can be obtained `
   - 近义词
-    - n. [染料]染料，[助剂]着色剂
-      - `dye`
-      - `coloring agent`
+    - n.
+      - [染料]染料，[助剂]着色剂
+        - `dye`
+        - `coloring agent`
   - 例句
     - `Usage: Mainly used in chemical, glass, dyestuff, ceramic and mechanic.`
       - 用途：主要用于化学、 玻璃、染料、冶金、机械、搪瓷等工业。

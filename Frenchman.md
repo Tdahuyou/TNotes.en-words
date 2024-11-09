@@ -1,10 +1,13 @@
 - Frenchman
   - 发音
-    - 英 `/'frentʃmən/`
-    - 美 `/'frentʃmən/`
+    - 英
+      - `/'frentʃmən/`
+    - 美
+      - `/'frentʃmən/`
   - 词义
-    - n. 法国人
-    - `a man from France`
+    - n.
+      - 法国人
+        - `a man from France`
   - 例句
     - `I knew him for a Frenchman.`
       - 我认出他是一名法国人。

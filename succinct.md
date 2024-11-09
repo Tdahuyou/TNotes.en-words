@@ -1,20 +1,26 @@
 - succinct
   - 发音
-    - 英 `/sək'sɪŋ(k)t/`
-    - 美 `/sək'sɪŋkt/`
+    - 英
+      - `/sək'sɪŋ(k)t/`
+    - 美
+      - `/sək'sɪŋkt/`
   - 词义
-    - adj. 简洁的,紧身的
-    - `clearly expressed in a few words – use this to show approval`
+    - adj.
+      - 简洁的,紧身的
+        - `clearly expressed in a few words – use this to show approval`
   - 同根词
     - adv.
-      - `succinctly` 简洁地；简便地
+      - `succinctly`
+        - 简洁地；简便地
     - n.
-      - `succinctness` 简明，简洁
+      - `succinctness`
+        - 简明，简洁
   - 近义词
-    - adj. 简洁的；简明的；紧身的
-      - `brief`
-      - `concise`
-      - `compact`
+    - adj.
+      - 简洁的；简明的；紧身的
+        - `brief`
+        - `concise`
+        - `compact`
   - 例句
     - `a succinct explanation`
       - 简明扼要的解释

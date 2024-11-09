@@ -1,25 +1,33 @@
 - arbitrary
   - 发音
-    - 英 `/'ɑːrbətreri/`
-    - 美 `/ˈɑːrbətreri/`
+    - 英
+      - `/'ɑːrbətreri/`
+    - 美
+      - `/ˈɑːrbətreri/`
   - 词义
-    - adj. 任意的；专制的，专断的
-    - `decided or arranged without any reason or plan, often unfairly`
+    - adj.
+      - 任意的；专制的，专断的
+        - `decided or arranged without any reason or plan, often unfairly`
   - 记忆
     - ar(向着) + bitr(进发) + ary(形容词后缀) → 向着某物进发的 → 专断的
   - 同根词
     - adv.
-      - `arbitrarily` 武断地；反复无常地；专横地
+      - `arbitrarily`
+        - 武断地；反复无常地；专横地
     - n.
-      - `arbitrariness` 任意，恣意；专断；霸道
+      - `arbitrariness`
+        - 任意，恣意；专断；霸道
   - 近义词
-    - adj. [数]任意的；武断的；专制的
-      - `artificial`
-      - `random`
-      - `absolute`
+    - adj.
+      - [数]任意的；武断的；专制的
+        - `artificial`
+        - `random`
+        - `absolute`
   - 短语
-    - `arbitrary function` 随意函数；任意函数 
-    - `arbitrary value` 任意值 
+    - `arbitrary function`
+      - 随意函数；任意函数 
+    - `arbitrary value`
+      - 任意值 
   - 例句
     - `an arbitrary decision`
       - 武断的决定

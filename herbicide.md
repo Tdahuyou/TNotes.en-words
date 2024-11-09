@@ -1,13 +1,17 @@
 - herbicide
   - 发音
-    - 英 `/'hɜːbɪsaɪd/`
-    - 美 `/'ɝbɪsaɪd/`
+    - 英
+      - `/'hɜːbɪsaɪd/`
+    - 美
+      - `/'ɝbɪsaɪd/`
   - 词义
-    - n. 除草剂
-    - `a substance used to kill unwanted plants`
+    - n.
+      - 除草剂
+        - `a substance used to kill unwanted plants`
   - 近义词
-    - n. [农药]除草剂
-      - `weedicide`
+    - n.
+      - [农药]除草剂
+        - `weedicide`
   - 例句
     - `But water containing the herbicide cannot be released back into the river and it is known that low water levels can harm river ecosystems accustomed to higher levels.`
       - 但含有除草剂的水不能再排向河流，而且我们知道低水位将会对习惯于高水位的河流生态系统造成危害。

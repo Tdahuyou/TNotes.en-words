@@ -1,26 +1,36 @@
 - boarder
   - 发音
-    - 英 `/ˈbɔ:də(r)/`
-    - 美 `/'bɔrdɚ/`
+    - 英
+      - `/ˈbɔ:də(r)/`
+    - 美
+      - `/'bɔrdɚ/`
   - 词义
-    - n. 寄宿者
-    - `a student who stays at a school during the night, as well as during the day`
+    - n.
+      - 寄宿者
+        - `a student who stays at a school during the night, as well as during the day`
   - 同根词
     - adj.
-      - `boarding` 供膳的
+      - `boarding`
+        - 供膳的
     - n.
-      - `board` 董事会；木板；甲板；膳食
-      - `boarding` 木板；寄膳宿；上船
+      - `board`
+        - 董事会；木板；甲板；膳食
+      - `boarding`
+        - 木板；寄膳宿；上船
     - v.
-      - `boarding` 用木板遮住；收费为…供膳（board的ing形式）
+      - `boarding`
+        - 用木板遮住；收费为…供膳（board的ing形式）
     - vi.
-      - `board` 寄宿
+      - `board`
+        - 寄宿
     - vt.
-      - `board` 上（飞机、车、船等）；用板盖上；给提供膳宿
+      - `board`
+        - 上（飞机、车、船等）；用板盖上；给提供膳宿
   - 近义词
-    - n. 寄膳者；寄膳宿者；寄宿生
-      - `paying guest`
-      - `resident student`
+    - n.
+      - 寄膳者；寄膳宿者；寄宿生
+        - `paying guest`
+        - `resident student`
   - 例句
     - `Standing on the floor, a young boarder named Carl was admiring the view.`
       - 一位名叫卡尔的寄宿生站在地上，为该情景钦佩不已。

@@ -1,11 +1,15 @@
 - Julie
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 朱莉（女名）
+    - n.
+      - 朱莉（女名）
   - 短语
-    - `julie andrews` 朱莉·安德鲁斯（美国女演员） 
+    - `julie andrews`
+      - 朱莉·安德鲁斯（美国女演员） 
   - 例句
     - `Julie, do you know why we celebrate Easter?`
       - 朱莉，你知道我们为什么庆祝复活节吗？

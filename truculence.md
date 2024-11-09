@@ -1,13 +1,18 @@
 - truculence
   - 发音
-    - 英 `/'trʌkjələns/`
-    - 美 `/undefined/`
+    - 英
+      - `/'trʌkjələns/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 野蛮，残酷
+    - n.
+      - 野蛮，残酷
   - 同根词
     - adj.
-      - `truculent` 好斗的；野蛮的；言词刻毒的
+      - `truculent`
+        - 好斗的；野蛮的；言词刻毒的
   - 近义词
-    - n. 野蛮；好战；刻薄；致命性（等于truculency）
-      - `wildness`
-      - `barbarism`
+    - n.
+      - 野蛮；好战；刻薄；致命性（等于truculency）
+        - `wildness`
+        - `barbarism`

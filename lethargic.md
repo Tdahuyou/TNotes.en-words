@@ -1,18 +1,24 @@
 - lethargic
   - 发音
-    - 英 `/lɪ'θɑːdʒɪk/`
-    - 美 `/undefined/`
+    - 英
+      - `/lɪ'θɑːdʒɪk/`
+    - 美
+      - `/undefined/`
   - 词义
-    - adj. 昏睡的
+    - adj.
+      - 昏睡的
   - 同根词
     - adv.
-      - `lethargically` 昏睡地；迟钝地
+      - `lethargically`
+        - 昏睡地；迟钝地
     - n.
-      - `lethargy` 昏睡；死气沉沉；嗜眠（症）
+      - `lethargy`
+        - 昏睡；死气沉沉；嗜眠（症）
   - 近义词
-    - adj. [动]昏睡的；无生气的；泠漠的
-      - `soporose`
-      - `pulseless`
+    - adj.
+      - [动]昏睡的；无生气的；泠漠的
+        - `soporose`
+        - `pulseless`
   - 例句
     - `The cat became lethargic and had trouble breathing.`
       - 这只猫整天昏睡而且呼吸困难。

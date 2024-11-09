@@ -1,25 +1,35 @@
 - whistle
   - 发音
-    - 英 `/'wɪs(ə)l/`
-    - 美 `/'wɪsl/`
+    - 英
+      - `/'wɪs(ə)l/`
+    - 美
+      - `/'wɪsl/`
   - 词义
-    - v. 吹口哨，鸣笛n哨子
-    - `to make a high or musical sound by blowing air out through your lips`
+    - v.
+      - 吹口哨，鸣笛n哨子
+        - `to make a high or musical sound by blowing air out through your lips`
   - 同根词
     - adj.
-      - `whistling` 发出哨声的；听起来像哨声的
+      - `whistling`
+        - 发出哨声的；听起来像哨声的
     - n.
-      - `whistling` 吹哨，吹笛；鸣汽笛
-      - `whistler` 吹哨的人
+      - `whistling`
+        - 吹哨，吹笛；鸣汽笛
+      - `whistler`
+        - 吹哨的人
     - v.
-      - `whistling` 鸣汽笛（whistle的ing形式）
+      - `whistling`
+        - 鸣汽笛（whistle的ing形式）
   - 近义词
-    - n. 口哨；[铁路][船]汽笛；啸啸声
-      - `hooter`
-      - `tyfon`
+    - n.
+      - 口哨；[铁路][船]汽笛；啸啸声
+        - `hooter`
+        - `tyfon`
   - 短语
-    - `blow the whistle` 告发；揭发 
-    - `clean as a whistle` 擦得净亮 
+    - `blow the whistle`
+      - 告发；揭发 
+    - `clean as a whistle`
+      - 擦得净亮 
   - 例句
     - `Adam whistled happily on his way to work.`
       - 亚当在上班路上愉快地吹着口哨。

@@ -1,14 +1,18 @@
 - nyctalopia
   - 发音
-    - 英 `/,nɪktə'ləʊpɪə/`
-    - 美 `/,nɪktə'lopɪə/`
+    - 英
+      - `/,nɪktə'ləʊpɪə/`
+    - 美
+      - `/,nɪktə'lopɪə/`
   - 词义
-    - n. 夜盲症
-    - `inability to see normally in dim light `
+    - n.
+      - 夜盲症
+        - `inability to see normally in dim light `
   - 近义词
-    - n. [眼科]夜盲；夜盲症
-      - `night blindness`
-      - `hemeralopia`
+    - n.
+      - [眼科]夜盲；夜盲症
+        - `night blindness`
+        - `hemeralopia`
   - 例句
     - `Is nyctalopia which kinds of vitamin airframe lacks ?`
       - 夜盲症是机体缺少哪种维生素？

@@ -1,12 +1,16 @@
 - landownership
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 土地所有
+    - n.
+      - 土地所有
   - 近义词
-    - n. 土地所有权
-      - `property in land`
+    - n.
+      - 土地所有权
+        - `property in land`
   - 例句
     - `This may be partly for fear of making a near-reality of private landownership, which would undermine one of the last vestiges of the party’s communist heritage.`
       - 这要部分归结于中共害怕在实际上造成土地私有制之嫌，因为这样会摧毁其共产主义的最后一道防线。

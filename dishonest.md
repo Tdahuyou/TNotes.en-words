@@ -1,19 +1,25 @@
 - dishonest
   - 发音
-    - 英 `/dɪs'ɒnɪst/`
-    - 美 `/dɪs'ɑnɪst/`
+    - 英
+      - `/dɪs'ɒnɪst/`
+    - 美
+      - `/dɪs'ɑnɪst/`
   - 词义
-    - adj. 不诚实的
-    - `not honest, and so deceiving or cheating people`
+    - adj.
+      - 不诚实的
+        - `not honest, and so deceiving or cheating people`
   - 同根词
     - adv.
-      - `dishonestly` 不诚实地；不正直地
+      - `dishonestly`
+        - 不诚实地；不正直地
     - n.
-      - `dishonesty` 不诚实；欺诈；不正直
+      - `dishonesty`
+        - 不诚实；欺诈；不正直
   - 近义词
-    - adj. 不诚实的；欺诈的
-      - `insincere`
-      - `deceptive`
+    - adj.
+      - 不诚实的；欺诈的
+        - `insincere`
+        - `deceptive`
   - 例句
     - `dishonest traders`
       - 奸商

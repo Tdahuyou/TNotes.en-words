@@ -1,26 +1,37 @@
 - moldy
   - 发音
-    - 英 `/'mouldi/`
-    - 美 `/'moldi/`
+    - 英
+      - `/'mouldi/`
+    - 美
+      - `/'moldi/`
   - 词义
-    - adj. 发霉的
+    - adj.
+      - 发霉的
   - 记忆
     - 来自mold(n. 真菌)
   - 同根词
     - n.
-      - `mold` 霉菌；模子
-      - `molder` 铸工；造模者；砂模技工
-      - `moldiness` 霉臭
+      - `mold`
+        - 霉菌；模子
+      - `molder`
+        - 铸工；造模者；砂模技工
+      - `moldiness`
+        - 霉臭
     - vi.
-      - `mold` 发霉
-      - `molder` 腐朽；崩塌
+      - `mold`
+        - 发霉
+      - `molder`
+        - 腐朽；崩塌
     - vt.
-      - `mold` 塑造；使发霉；用模子制作
-      - `molder` 使…崩塌；使…腐朽
+      - `mold`
+        - 塑造；使发霉；用模子制作
+      - `molder`
+        - 使…崩塌；使…腐朽
   - 近义词
-    - adj. 发霉的；乏味的；陈腐的
-      - `stupid`
-      - `musty`
+    - adj.
+      - 发霉的；乏味的；陈腐的
+        - `stupid`
+        - `musty`
   - 例句
     - `Also, use moldy disk to drive also cause damage.`
       - 同时，使用发霉磁盘对驱动器也会造成损坏。

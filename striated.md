@@ -1,18 +1,23 @@
 - striated
   - 发音
-    - 英 `/'straɪ3ɪtɪd/`
-    - 美 `/undefined/`
+    - 英
+      - `/'straɪ3ɪtɪd/`
+    - 美
+      - `/undefined/`
   - 词义
-    - adj. 有条纹的
-    - `having narrow lines or bands of colour`
+    - adj.
+      - 有条纹的
+        - `having narrow lines or bands of colour`
   - 记忆
     - 来自striate(v. 加条纹)
   - 近义词
-    - adj. 有条纹的；有线纹的
-      - `streaky`
-      - `lineate`
+    - adj.
+      - 有条纹的；有线纹的
+        - `streaky`
+        - `lineate`
   - 短语
-    - `striated muscle` 横纹肌 
+    - `striated muscle`
+      - 横纹肌 
   - 例句
     - `There are striated engravings on this wall.`
       - 这面墙上有着条纹状的雕饰。

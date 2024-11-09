@@ -1,19 +1,25 @@
 - inaccessible
   - 发音
-    - 英 `/ˌɪnæk'sesəbl/`
-    - 美 `/,ɪnæk'sɛsəbl/`
+    - 英
+      - `/ˌɪnæk'sesəbl/`
+    - 美
+      - `/,ɪnæk'sɛsəbl/`
   - 词义
-    - adj. 难达到的，不可及的；不能得到的
-    - `difficult or impossible to reach`
+    - adj.
+      - 难达到的，不可及的；不能得到的
+        - `difficult or impossible to reach`
   - 记忆
     - in(不) + accessible(易达到的) → 难达到的， 不可及的
   - 同根词
     - adv.
-      - `inaccessibly` 难接近地；难得到地；难达成地
+      - `inaccessibly`
+        - 难接近地；难得到地；难达成地
     - n.
-      - `inaccessibility` 难达到；难接近；无法理解
+      - `inaccessibility`
+        - 难达到；难接近；无法理解
   - 短语
-    - `inaccessible pore` 不可进入的孔隙 
+    - `inaccessible pore`
+      - 不可进入的孔隙 
   - 例句
     - `In winter, the villages are inaccessible by road.`
       - 冬天时，进入这些村子的路很难走。

@@ -1,38 +1,58 @@
 - miner
   - 发音
-    - 英 `/'maɪnə/`
-    - 美 `/'maɪnɚ/`
+    - 英
+      - `/'maɪnə/`
+    - 美
+      - `/'maɪnɚ/`
   - 词义
-    - n. 矿工
-    - `someone who works under the ground in a mine to remove coal, gold etc`
+    - n.
+      - 矿工
+        - `someone who works under the ground in a mine to remove coal, gold etc`
   - 同根词
     - adj.
-      - `mineral` 矿物的；矿质的
-      - `mineralized` 矿藏丰富的
-      - `miny` 如矿坑的
+      - `mineral`
+        - 矿物的；矿质的
+      - `mineralized`
+        - 矿藏丰富的
+      - `miny`
+        - 如矿坑的
     - n.
-      - `mine` 矿，矿藏；矿山，矿井；地雷，水雷
-      - `mineral` 矿物；（英）矿泉水；无机物；苏打水（常用复数表示）
-      - `mining` 矿业；采矿
-      - `mineworker` 矿工
+      - `mine`
+        - 矿，矿藏；矿山，矿井；地雷，水雷
+      - `mineral`
+        - 矿物；（英）矿泉水；无机物；苏打水（常用复数表示）
+      - `mining`
+        - 矿业；采矿
+      - `mineworker`
+        - 矿工
     - pron.
-      - `mine` 我的
+      - `mine`
+        - 我的
     - v.
-      - `mineralized` 使成矿（mineralize的过去式和过去分词）
+      - `mineralized`
+        - 使成矿（mineralize的过去式和过去分词）
     - vi.
-      - `mine` 开矿，采矿；埋设地雷
-      - `mineralize` 采集矿物
+      - `mine`
+        - 开矿，采矿；埋设地雷
+      - `mineralize`
+        - 采集矿物
     - vt.
-      - `mine` 开采，采掘；在…布雷
-      - `mineralize` 使含无机化合物；使矿物化
+      - `mine`
+        - 开采，采掘；在…布雷
+      - `mineralize`
+        - 使含无机化合物；使矿物化
   - 近义词
-    - n. [矿业]矿工；开矿机
-      - `collier`
-      - `pitman`
+    - n.
+      - [矿业]矿工；开矿机
+        - `collier`
+        - `pitman`
   - 短语
-    - `continuous miner` 连续采煤机；采煤联合机 
-    - `coal miner` 煤矿工人 
-    - `gold miner` 采金人；淘金者 
+    - `continuous miner`
+      - 连续采煤机；采煤联合机 
+    - `coal miner`
+      - 煤矿工人 
+    - `gold miner`
+      - 采金人；淘金者 
   - 例句
     - `Therefore, we should be more like a miner to stand in reality, excavate off wastes, and get gold mines.`
       - 所以我们更应该像一个矿工一样为执著于现实，挖开渣滓，淘出金矿。

@@ -1,30 +1,41 @@
 - adequate
   - 发音
-    - 英 `/'ædɪkwət/`
-    - 美 `/ˈædɪkwət/`
+    - 英
+      - `/'ædɪkwət/`
+    - 美
+      - `/ˈædɪkwət/`
   - 词义
-    - adj. 适当的；足够的；适当的，胜任的
-    - `If something is adequate, there is enough of it or it is good enough to be used or accepted`
+    - adj.
+      - 适当的；足够的；适当的，胜任的
+        - `If something is adequate, there is enough of it or it is good enough to be used or accepted`
   - 记忆
     - ad(表加强) + equ(平等) + ate(形容词后缀) → 比平等多的 → 足够的
   - 同根词
     - adv.
-      - `adequately` 充分地；足够地；适当地
+      - `adequately`
+        - 充分地；足够地；适当地
     - n.
-      - `adequacy` 足够；适当；妥善性
+      - `adequacy`
+        - 足够；适当；妥善性
   - 近义词
-    - adj. 充足的；适当的；胜任的
-      - `suitable`
-      - `competent`
-      - `appropriate`
-      - `proper`
-      - `becoming`
+    - adj.
+      - 充足的；适当的；胜任的
+        - `suitable`
+        - `competent`
+        - `appropriate`
+        - `proper`
+        - `becoming`
   - 短语
-    - `adequate for` 胜任……的；对……是足够的；适合……的 
-    - `adequate consideration` 充分考虑；适当约因 
-    - `adequate preparation` 充分准备 
-    - `adequate housing` 适当居所 
-    - `adequate and systematic service` 配套服务 
+    - `adequate for`
+      - 胜任……的；对……是足够的；适合……的 
+    - `adequate consideration`
+      - 充分考虑；适当约因 
+    - `adequate preparation`
+      - 充分准备 
+    - `adequate housing`
+      - 适当居所 
+    - `adequate and systematic service`
+      - 配套服务 
   - 例句
     - `One in four people worldwide are without adequate homes.`
       - 世界上1/4的人没有足够的住房。

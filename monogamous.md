@@ -1,19 +1,26 @@
 - monogamous
   - 发音
-    - 英 `/mə'nɑːgəməs/`
-    - 美 `/mə'nɑɡəməs/`
+    - 英
+      - `/mə'nɑːgəməs/`
+    - 美
+      - `/mə'nɑɡəməs/`
   - 词义
-    - adj. 一夫一妻制的；单配的
-    - `Someone who is monogamous or who has a monogamous relationship has a sexual relationship with only one partner`
+    - adj.
+      - 一夫一妻制的；单配的
+        - `Someone who is monogamous or who has a monogamous relationship has a sexual relationship with only one partner`
   - 记忆
     - mono(单个) + gam(婚姻) + ous → 单一婚姻的 → 一夫一妻制的
   - 同根词
     - adj.
-      - `monogynous` 一妻制的
+      - `monogynous`
+        - 一妻制的
     - n.
-      - `monogamy` 一夫一妻制；[动] 单配偶，[动] 单配性
-      - `monogamist` 一夫一妻论者
-      - `monogyny` 一妻制
+      - `monogamy`
+        - 一夫一妻制；[动] 单配偶，[动] 单配性
+      - `monogamist`
+        - 一夫一妻论者
+      - `monogyny`
+        - 一妻制
   - 例句
     - `Do you believe that men are not naturally monogamous?`
       - 你相信男人天生就不是单一性伴侣的吗？

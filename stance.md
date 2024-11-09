@@ -1,23 +1,30 @@
 - stance
   - 发音
-    - 英 `/stɑːns; stæns/`
-    - 美 `/stæns/`
+    - 英
+      - `/stɑːns; stæns/`
+    - 美
+      - `/stæns/`
   - 词义
-    - n. 站姿，立场
-    - `an opinion that is stated publicly`
+    - n.
+      - 站姿，立场
+        - `an opinion that is stated publicly`
   - 同根词
     - n.
-      - `stand` 站立；立场；看台；停止
+      - `stand`
+        - 站立；立场；看台；停止
     - vi.
-      - `stand` 站立；位于；停滞
+      - `stand`
+        - 站立；位于；停滞
     - vt.
-      - `stand` 使站立；忍受；抵抗
+      - `stand`
+        - 使站立；忍受；抵抗
   - 近义词
-    - n. 立场；姿态；位置；准备击球姿势
-      - `location`
-      - `situation`
-      - `site`
-      - `lie`
+    - n.
+      - 立场；姿态；位置；准备击球姿势
+        - `location`
+        - `situation`
+        - `site`
+        - `lie`
   - 例句
     - `a fighting stance`
       - 搏击姿势

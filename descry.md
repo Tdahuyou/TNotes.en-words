@@ -1,12 +1,16 @@
 - descry
   - 发音
-    - 英 `/di'skrai/`
-    - 美 `/dɪ'skraɪ/`
+    - 英
+      - `/di'skrai/`
+    - 美
+      - `/dɪ'skraɪ/`
   - 词义
-    - v. 察看，发现；远远看到
+    - v.
+      - 察看，发现；远远看到
   - 记忆
     - 哭 (cry) 得很大声， 很容易被发现 (descry)
   - 近义词
-    - vt. 看见；发现；察看
-      - `detect`
-      - `come in sight`
+    - vt.
+      - 看见；发现；察看
+        - `detect`
+        - `come in sight`

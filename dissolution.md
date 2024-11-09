@@ -1,37 +1,54 @@
 - dissolution
   - 发音
-    - 英 `/dɪsə'luːʃ(ə)n/`
-    - 美 `/,dɪsə'luʃən/`
+    - 英
+      - `/dɪsə'luːʃ(ə)n/`
+    - 美
+      - `/,dɪsə'luʃən/`
   - 词义
-    - n. 分解,解散
-    - `the act of formally ending a parliament, business, or marriage`
+    - n.
+      - 分解,解散
+        - `the act of formally ending a parliament, business, or marriage`
   - 同根词
     - adj.
-      - `dissolved` 溶解的；溶化的
-      - `dissolving` 消溶的；毁灭性的
-      - `dissoluble` 可分解的；可溶解的；可解除的
-      - `dissolvable` 可溶解的；可分解的；可解散的
-      - `dissolvent` 有溶解力的
+      - `dissolved`
+        - 溶解的；溶化的
+      - `dissolving`
+        - 消溶的；毁灭性的
+      - `dissoluble`
+        - 可分解的；可溶解的；可解除的
+      - `dissolvable`
+        - 可溶解的；可分解的；可解散的
+      - `dissolvent`
+        - 有溶解力的
     - n.
-      - `dissolve` 叠化画面；画面的溶暗
-      - `dissolvent` 溶剂
-      - `dissolver` 溶解装置；溶解器
+      - `dissolve`
+        - 叠化画面；画面的溶暗
+      - `dissolvent`
+        - 溶剂
+      - `dissolver`
+        - 溶解装置；溶解器
     - v.
-      - `dissolved` 使溶解；使溶化（dissolve的过去分词）
-      - `dissolving` 使溶解（dissolve的现在分词）
+      - `dissolved`
+        - 使溶解；使溶化（dissolve的过去分词）
+      - `dissolving`
+        - 使溶解（dissolve的现在分词）
     - vi.
-      - `dissolve` 溶解；解散；消失
+      - `dissolve`
+        - 溶解；解散；消失
     - vt.
-      - `dissolve` 使溶解；使分解；使液化
+      - `dissolve`
+        - 使溶解；使分解；使液化
   - 近义词
-    - n. 分解，[化学]溶解；（议会等的）解散；（契约等的）解除；死亡
-      - `analysis`
-      - `solution`
-      - `death`
-      - `decomposition`
-      - `end`
+    - n.
+      - 分解，[化学]溶解；（议会等的）解散；（契约等的）解除；死亡
+        - `analysis`
+        - `solution`
+        - `death`
+        - `decomposition`
+        - `end`
   - 短语
-    - `anodic dissolution` 阳极溶解 
+    - `anodic dissolution`
+      - 阳极溶解 
   - 例句
     - `The president announced the dissolution of the National Assembly.`
       - 总统宣布解散国民议会。

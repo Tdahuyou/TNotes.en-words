@@ -1,17 +1,23 @@
 - discomfort
   - 发音
-    - 英 `/dɪs'kʌmfərt/`
-    - 美 `/dɪs'kʌmfɚt/`
+    - 英
+      - `/dɪs'kʌmfərt/`
+    - 美
+      - `/dɪs'kʌmfɚt/`
   - 词义
-    - v. 使不适
-    - n. 不适
-    - `a feeling of slight pain or of being physically uncomfortable`
+    - v.
+      - 使不适
+    - n.
+      - 不适
+        - `a feeling of slight pain or of being physically uncomfortable`
   - 近义词
-    - n. [医]不适，不安；不便之处
-      - `tension`
-      - `unrest`
-    - vt. 使……不舒服；使……不安
-      - `bother`
+    - n.
+      - [医]不适，不安；不便之处
+        - `tension`
+        - `unrest`
+    - vt.
+      - 使……不舒服；使……不安
+        - `bother`
   - 例句
     - `Some people use marijuana to fight pain or discomfort caused by disease.`
       - 有些人使用大麻来对抗疾病引起的疼痛或不适。

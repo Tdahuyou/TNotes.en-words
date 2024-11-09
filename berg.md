@@ -1,9 +1,12 @@
 - berg
   - 发音
-    - 英 `/bɜːg/`
-    - 美 `/bɝg/`
+    - 英
+      - `/bɜːg/`
+    - 美
+      - `/bɝg/`
   - 词义
-    - n. 冰山
+    - n.
+      - 冰山
   - 例句
     - `At a time when sprawling shelves of ice are disintegrating, this berg seemed to signify more.`
       - 当伸展的冰架正在瓦解的时侯，这座冰山的出现更显得意味深长。

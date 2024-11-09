@@ -1,17 +1,22 @@
 - emend
   - 发音
-    - 英 `/ɪ'mend/`
-    - 美 `/ɪ'mɛnd/`
+    - 英
+      - `/ɪ'mend/`
+    - 美
+      - `/ɪ'mɛnd/`
   - 词义
-    - v. 修订；改进
-    - `to remove the mistakes from something that has been written`
+    - v.
+      - 修订；改进
+        - `to remove the mistakes from something that has been written`
   - 同根词
     - n.
-      - `emendation` 校正；修订；修正
+      - `emendation`
+        - 校正；修订；修正
   - 近义词
-    - vt. 修订；改进
-      - `reedit`
-      - `to amend`
+    - vt.
+      - 修订；改进
+        - `reedit`
+        - `to amend`
   - 例句
     - `When they do, rule aficionados will say, “Well, we can emend it and make it more supple by adding to the circumstances it covers.`
       - 当发生这种情况的时候，爱好制定规则的人们就会说，“好吧，我们可以修订一下规则，让它能适应更多的环境。

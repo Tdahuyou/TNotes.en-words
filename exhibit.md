@@ -1,33 +1,45 @@
 - exhibit
   - 发音
-    - 英 `/ɪg'zɪbɪt/`
-    - 美 `/ɪɡ'zɪbɪt/`
+    - 英
+      - `/ɪg'zɪbɪt/`
+    - 美
+      - `/ɪɡ'zɪbɪt/`
   - 词义
-    - v. 陈列，展览；显示，表现
-    - `to show something in a public place so that people can go to see it`
-    - n. 展览，陈列
-    - `an exhibition`
+    - v.
+      - 陈列，展览；显示，表现
+        - `to show something in a public place so that people can go to see it`
+    - n.
+      - 展览，陈列
+        - `an exhibition`
   - 记忆
     - ex(出) + hib(拿住； 拥有) + it → 把有的拿出来 → 陈列， 展览
   - 同根词
     - n.
-      - `exhibition` 展览，显示；展览会；展览品
-      - `exhibitor` 展出者；显示者
-      - `exhibitionist` 裸露症患者；倾向自我宣传的人；喜欢出风头的人
-      - `exhibitioner` 展出者；获得奖学金的学生
-      - `exhibitionism` 裸露癖；自我宣传癖；喜出风头癖
+      - `exhibition`
+        - 展览，显示；展览会；展览品
+      - `exhibitor`
+        - 展出者；显示者
+      - `exhibitionist`
+        - 裸露症患者；倾向自我宣传的人；喜欢出风头的人
+      - `exhibitioner`
+        - 展出者；获得奖学金的学生
+      - `exhibitionism`
+        - 裸露癖；自我宣传癖；喜出风头癖
   - 近义词
-    - vt. 展览；显示；提出（证据等）
-      - `introduce`
-      - `reveal`
-      - `prove`
-      - `make clear`
-      - `prefer`
-    - n. [贸易]展览品；证据；展示会
-      - `proof`
-      - `witness`
+    - vt.
+      - 展览；显示；提出（证据等）
+        - `introduce`
+        - `reveal`
+        - `prove`
+        - `make clear`
+        - `prefer`
+    - n.
+      - [贸易]展览品；证据；展示会
+        - `proof`
+        - `witness`
   - 短语
-    - `on exhibit` 展出 
+    - `on exhibit`
+      - 展出 
   - 例句
     - `Her paintings have been exhibited all over the world.`
       - 她的绘画作品在世界各地展出。

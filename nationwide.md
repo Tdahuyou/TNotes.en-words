@@ -1,16 +1,21 @@
 - nationwide
   - 发音
-    - 英 `/'neɪʃ(ə)nwaɪd; -'waɪd/`
-    - 美 `/,neʃn'waɪd/`
+    - 英
+      - `/'neɪʃ(ə)nwaɪd; -'waɪd/`
+    - 美
+      - `/,neʃn'waɪd/`
   - 词义
-    - adj. 全国性的
-    - `happening or existing in every part of the country`
+    - adj.
+      - 全国性的
+        - `happening or existing in every part of the country`
   - 同根词
     - adv.
-      - `nationally` 全国性地；以国民立场地；举国一致地
+      - `nationally`
+        - 全国性地；以国民立场地；举国一致地
   - 近义词
-    - adj. 全国范围的；全国性的
-      - `countrywide`
+    - adj.
+      - 全国范围的；全国性的
+        - `countrywide`
   - 例句
     - `a nationwide search for a missing British tourist`
       - 在全国范围内对一名失踪英国游客的搜寻

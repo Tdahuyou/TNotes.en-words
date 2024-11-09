@@ -1,16 +1,21 @@
 - mailbox
   - 发音
-    - 英 `/'meɪlbɒks/`
-    - 美 `/'mel'bɑks/`
+    - 英
+      - `/'meɪlbɒks/`
+    - 美
+      - `/'mel'bɑks/`
   - 词义
-    - n. （美）邮筒；信箱
-    - `a container where you post letters`
+    - n.
+      - （美）邮筒；信箱
+        - `a container where you post letters`
   - 近义词
-    - n. 邮箱；[邮]邮筒
-      - `postbox`
-      - `self-mailer`
+    - n.
+      - 邮箱；[邮]邮筒
+        - `postbox`
+        - `self-mailer`
   - 短语
-    - `electronic mailbox` 电子信箱 
+    - `electronic mailbox`
+      - 电子信箱 
   - 例句
     - `The prank crammed his mailbox with computer-delivered electronic junk mail.`
       - 该恶作剧病毒把他的邮箱塞满计算机发送的电子垃圾邮件。

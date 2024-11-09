@@ -1,15 +1,21 @@
 - geologically
   - 发音
-    - 英 `/undefined/`
-    - 美 `/,dʒiə'lɔdʒikəli/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/,dʒiə'lɔdʒikəli/`
   - 词义
-    - adv. 地质学上
+    - adv.
+      - 地质学上
   - 同根词
     - adj.
-      - `geologic` 地质的；地质学上的
+      - `geologic`
+        - 地质的；地质学上的
     - n.
-      - `geology` 地质学；地质情况
-      - `geologist` 地质学家，地质学者
+      - `geology`
+        - 地质学；地质情况
+      - `geologist`
+        - 地质学家，地质学者
   - 例句
     - `Apollo astronauts used seismometers during their visits to the Moon and discovered that the gray orb isn't a totally dead place, geologically speaking.`
       - 阿波罗航天飞船的宇航员们登月时使用地震检波器发现：这个灰色的星球，从地质学角度上讲，并不完全是一个死气沉沉的地方。

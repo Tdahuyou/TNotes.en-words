@@ -1,19 +1,26 @@
 - godmother
   - 发音
-    - 英 `/'gɒdmʌθə/`
-    - 美 `/'ɡɑdmʌðɚ/`
+    - 英
+      - `/'gɒdmʌθə/`
+    - 美
+      - `/'ɡɑdmʌðɚ/`
   - 词义
-    - n. 教母
-    - `a female  godparent `
-    - vt. 当…的教母；作…的女监护人
+    - n.
+      - 教母
+        - `a female  godparent `
+    - vt.
+      - 当…的教母；作…的女监护人
   - 同根词
     - n.
-      - `godparent` 教父或教母
+      - `godparent`
+        - 教父或教母
   - 近义词
-    - n. 教母
-      - `cummer`
+    - n.
+      - 教母
+        - `cummer`
   - 短语
-    - `fairy godmother` n. 充当临死孩童教母的仙女 
+    - `fairy godmother`
+      - n. 充当临死孩童教母的仙女 
   - 例句
     - `As Cinderella sits crying in the garden, her fairy godmother appears, and promised to provide Cinderella with everything she needs to go to the ball, but only on two conditions.`
       - 灰姑娘在花园里伤心的哭泣，这时她的精灵教母出现了，答应给她提供她参加舞会所需的一切，但有两个条件。

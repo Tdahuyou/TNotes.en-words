@@ -1,15 +1,20 @@
 - glistening
   - 发音
-    - 英 `/'glɪstnɪŋ/`
-    - 美 `/'gli:sniŋ/`
+    - 英
+      - `/'glɪstnɪŋ/`
+    - 美
+      - `/'gli:sniŋ/`
   - 词义
-    - adj. 闪耀的，反光的
+    - adj.
+      - 闪耀的，反光的
   - 近义词
-    - adj. 闪亮的；闪耀的；白花花的
-      - `brilliant`
-      - `shiny`
-    - v. 反光，闪耀（glisten的现在分词形式）
-      - `sparkling`
+    - adj.
+      - 闪亮的；闪耀的；白花花的
+        - `brilliant`
+        - `shiny`
+    - v.
+      - 反光，闪耀（glisten的现在分词形式）
+        - `sparkling`
   - 例句
     - `It shall not be a glistening film that covers a wound, but an eyelid that guards the eye.`
       - 它不应是遮掩伤口的闪亮的薄膜，而应是保护眼睛的眼睑。

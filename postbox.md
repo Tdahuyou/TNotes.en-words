@@ -1,13 +1,17 @@
 - postbox
   - 发音
-    - 英 `/'pəʊs(t)bɒks/`
-    - 美 `/'postbɑks/`
+    - 英
+      - `/'pəʊs(t)bɒks/`
+    - 美
+      - `/'postbɑks/`
   - 词义
-    - n. 邮箱
-    - `a box in a public place, into which you put letters that you want to send`
+    - n.
+      - 邮箱
+        - `a box in a public place, into which you put letters that you want to send`
   - 近义词
-    - n. 邮箱
-      - `mailbox`
+    - n.
+      - 邮箱
+        - `mailbox`
   - 例句
     - `I was so certain that it had happened, that I wrote a letter to my parents that same night and put it in the postbox at the corner of the street.`
       - 我如此地肯定这件事的发生，当晚我写信给我的父母，把信投进了街角的邮箱。

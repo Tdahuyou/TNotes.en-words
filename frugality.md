@@ -1,18 +1,24 @@
 - frugality
   - 发音
-    - 英 `/fruː'gælɪtɪ/`
-    - 美 `/frʊ'gæləti/`
+    - 英
+      - `/fruː'gælɪtɪ/`
+    - 美
+      - `/frʊ'gæləti/`
   - 词义
-    - n. 节俭
+    - n.
+      - 节俭
   - 同根词
     - adj.
-      - `frugal` 节俭的；朴素的；花钱少的
+      - `frugal`
+        - 节俭的；朴素的；花钱少的
     - adv.
-      - `frugally` 节约地；节省地
+      - `frugally`
+        - 节约地；节省地
   - 近义词
-    - n. 俭省，节俭
-      - `thrift`
-      - `economical of`
+    - n.
+      - 俭省，节俭
+        - `thrift`
+        - `economical of`
   - 例句
     - `If your goal is frugality, then consider what things are not necessary, the long-term impact of the choice you make and whether you can afford it.`
       - 如果你的目标是俭省，那么就考虑什么东西是没必要的，你做出选择后的长期影响以及你是否可以担负得起。

@@ -1,27 +1,41 @@
 - prison
   - 发音
-    - 英 `/'prɪz(ə)n/`
-    - 美 `/'prɪzn/`
+    - 英
+      - `/'prɪz(ə)n/`
+    - 美
+      - `/'prɪzn/`
   - 词义
-    - n. 监狱
-    - `a building where people are kept as a punishment for a crime, or while they are waiting to go to court for their  trial `
+    - n.
+      - 监狱
+        - `a building where people are kept as a punishment for a crime, or while they are waiting to go to court for their  trial `
   - 近义词
-    - n. [法]监狱；监禁；拘留所
-      - `jail`
-      - `big house`
-    - vt. 监禁，关押
-      - `imprison`
-      - `jail`
+    - n.
+      - [法]监狱；监禁；拘留所
+        - `jail`
+        - `big house`
+    - vt.
+      - 监禁，关押
+        - `imprison`
+        - `jail`
   - 短语
-    - `in prison` 坐牢 
-    - `escape from prison` 越狱 
-    - `prison sentence` n. 徒刑 
-    - `prison camp` 战俘集中营 
-    - `go to prison` 入狱；被监禁 
-    - `prison guard` 监狱看守 
-    - `state prison` [法]州监狱 
-    - `prison term` 刑期 
-    - `be put in prison` 被送去坐牢 
+    - `in prison`
+      - 坐牢 
+    - `escape from prison`
+      - 越狱 
+    - `prison sentence`
+      - n. 徒刑 
+    - `prison camp`
+      - 战俘集中营 
+    - `go to prison`
+      - 入狱；被监禁 
+    - `prison guard`
+      - 监狱看守 
+    - `state prison`
+      - [法]州监狱 
+    - `prison term`
+      - 刑期 
+    - `be put in prison`
+      - 被送去坐牢 
   - 例句
     - `He visits his dad in prison every week.`
       - 他每周都去探望狱中的父亲。

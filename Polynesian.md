@@ -1,10 +1,13 @@
 - Polynesian
   - 发音
-    - 英 `/,pɔli'ni:ziən; -ʒiən/`
-    - 美 `/,pɔli'ni:ziən; -ʒiən/`
+    - 英
+      - `/,pɔli'ni:ziən; -ʒiən/`
+    - 美
+      - `/,pɔli'ni:ziən; -ʒiən/`
   - 词义
-    - n. 波利尼西亚人,波利尼西亚语
-    - `a member of the people that inhabit Polynesia, generally of Caucasoid features with light skin and wavy hair `
+    - n.
+      - 波利尼西亚人,波利尼西亚语
+        - `a member of the people that inhabit Polynesia, generally of Caucasoid features with light skin and wavy hair `
   - 例句
     - `Allegiance to chiefs was a fundamental of Polynesian culture.`
       - 效忠首领是波利尼西亚人最基本的文化。

@@ -1,10 +1,13 @@
 - hypotenuse
   - 发音
-    - 英 `/hai'pɔtinjuːs/`
-    - 美 `/haɪ'pɑtənus/`
+    - 英
+      - `/hai'pɔtinjuːs/`
+    - 美
+      - `/haɪ'pɑtənus/`
   - 词义
-    - n. 直角三角形的斜边
-    - `the longest side of a  triangle  that has a  right angle `
+    - n.
+      - 直角三角形的斜边
+        - `the longest side of a  triangle  that has a  right angle `
   - 例句
     - `Either side of a right triangle that is not the hypotenuse .`
       - 直角三角形的斜边与一个角的对边之比。

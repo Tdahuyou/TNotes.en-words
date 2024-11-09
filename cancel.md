@@ -1,29 +1,39 @@
 - cancel
   - 发音
-    - 英 `/'kænsl/`
-    - 美 `/'kænsl/`
+    - 英
+      - `/'kænsl/`
+    - 美
+      - `/'kænsl/`
   - 词义
-    - v. 取消，废除；删去，删除；抵消
-    - `to decide that something that was officially planned will not happen`
+    - v.
+      - 取消，废除；删去，删除；抵消
+        - `to decide that something that was officially planned will not happen`
   - 记忆
     - 源自拉丁文cancelli(斜条格钩)， 据说古罗马书写员在抄写错误时会用斜条格钩状来表明注销， 后引入英语， 作“取消”讲
   - 同根词
     - n.
-      - `cancellation` 取消；删除
+      - `cancellation`
+        - 取消；删除
   - 近义词
-    - vt. [计]取消；删去
-      - `recall`
-      - `call it off`
-    - vi. [计]取消；相互抵销
-      - `call it off`
-      - `declare off`
-    - n. [计]取消，撤销
-      - `withdrawal`
-      - `revocation`
+    - vt.
+      - [计]取消；删去
+        - `recall`
+        - `call it off`
+    - vi.
+      - [计]取消；相互抵销
+        - `call it off`
+        - `declare off`
+    - n.
+      - [计]取消，撤销
+        - `withdrawal`
+        - `revocation`
   - 短语
-    - `cancel button` 取消按钮 
-    - `cancel out` 取消；抵销 
-    - `cancel after verification` 核销 
+    - `cancel button`
+      - 取消按钮 
+    - `cancel out`
+      - 取消；抵销 
+    - `cancel after verification`
+      - 核销 
   - 例句
     - `Our flight was cancelled.`
       - 我们的航班取消了。

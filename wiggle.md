@@ -1,23 +1,31 @@
 - wiggle
   - 发音
-    - 英 `/'wɪg(ə)l/`
-    - 美 `/'wɪɡl/`
+    - 英
+      - `/'wɪg(ə)l/`
+    - 美
+      - `/'wɪɡl/`
   - 词义
-    - v. 使……摆动，使……扭动
-    - `to move with small movements from side to side or up and down, or to make something move like this`
-    - n. 扭动
-    - `Wiggle is also a noun`
+    - v.
+      - 使……摆动，使……扭动
+        - `to move with small movements from side to side or up and down, or to make something move like this`
+    - n.
+      - 扭动
+        - `Wiggle is also a noun`
   - 同根词
     - adj.
-      - `wiggly` 扭动的；左右摇摆的；起波的；蠕动的
+      - `wiggly`
+        - 扭动的；左右摇摆的；起波的；蠕动的
     - n.
-      - `wiggler` 摇摆的人；孑孓；蠕动的东西
+      - `wiggler`
+        - 摇摆的人；孑孓；蠕动的东西
   - 近义词
-    - vt. 摆动
-      - `to oscillate`
-      - `to swing`
-    - n. 扭动
-      - `wriggle`
+    - vt.
+      - 摆动
+        - `to oscillate`
+        - `to swing`
+    - n.
+      - 扭动
+        - `wriggle`
   - 例句
     - `Henry wiggled his toes.`
       - 亨利扭动他的脚趾。

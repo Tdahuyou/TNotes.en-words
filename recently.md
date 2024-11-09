@@ -1,24 +1,32 @@
 - recently
   - 发音
-    - 英 `/'riːsntlɪ/`
-    - 美 `/'risntli/`
+    - 英
+      - `/'riːsntlɪ/`
+    - 美
+      - `/'risntli/`
   - 词义
-    - adv. 最近；近来
-    - `not long ago`
+    - adv.
+      - 最近；近来
+        - `not long ago`
   - 同根词
     - adj.
-      - `recent` 最近的；近代的
+      - `recent`
+        - 最近的；近代的
     - n.
-      - `recency` 新近；崭新
-      - `recentness` 最近
+      - `recency`
+        - 新近；崭新
+      - `recentness`
+        - 最近
   - 近义词
-    - adv. 最近；新近
-      - `newly`
-      - `new`
-      - `of late`
-      - `last`
+    - adv.
+      - 最近；新近
+        - `newly`
+        - `new`
+        - `of late`
+        - `last`
   - 短语
-    - `until recently` adj. 直到最近 
+    - `until recently`
+      - adj. 直到最近 
   - 例句
     - `He has recently been promoted to Assistant Manager.`
       - 他最近晋升为经理助理。

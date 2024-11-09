@@ -1,14 +1,18 @@
 - partridge
   - 发音
-    - 英 `/'pɑːtrɪdʒ/`
-    - 美 `/'pɑrtrɪdʒ/`
+    - 英
+      - `/'pɑːtrɪdʒ/`
+    - 美
+      - `/'pɑrtrɪdʒ/`
   - 词义
-    - n. [鸟]鹧鸪；松鸡
-    - `a fat brown bird with a short tail which is shot for sport and food`
+    - n.
+      - [鸟]鹧鸪；松鸡
+        - `a fat brown bird with a short tail which is shot for sport and food`
   - 近义词
-    - n. [鸟]鹧鸪；松鸡
-      - `francolin`
-      - `jay`
+    - n.
+      - [鸟]鹧鸪；松鸡
+        - `francolin`
+        - `jay`
   - 例句
     - `The king of Israel has come out to look for a flea--as one hunts a partridge in the mountains.`
       - 以色列王出来是寻找一个虼蚤，如同人在山上猎取一个鹧鸪一般。

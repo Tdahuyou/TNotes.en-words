@@ -1,13 +1,17 @@
 - pathologic
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - adj. 病理学的；病态的
+    - adj.
+      - 病理学的；病态的
   - 近义词
-    - adj. [病理]病理学的；病态的
-      - `sick`
-      - `wan`
+    - adj.
+      - [病理]病理学的；病态的
+        - `sick`
+        - `wan`
   - 例句
     - `Objective The analysis research acute shuts the pathologic physiology mechanism between Cape glaucoma and cataract and clinical results.`
       - 目的分析研究急性闭角型青光眼及白内障的病理生理机制及临床效果。

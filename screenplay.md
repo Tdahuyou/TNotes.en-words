@@ -1,25 +1,35 @@
 - screenplay
   - 发音
-    - 英 `/'skriːnpleɪ/`
-    - 美 `/'skrin'ple/`
+    - 英
+      - `/'skriːnpleɪ/`
+    - 美
+      - `/'skrin'ple/`
   - 词义
-    - n. 编剧，剧本；电影剧本
-    - `the words that are written down for actors to say in a film, and the instructions that tell them what they should do`
+    - n.
+      - 编剧，剧本；电影剧本
+        - `the words that are written down for actors to say in a film, and the instructions that tell them what they should do`
   - 同根词
     - n.
-      - `screen` 屏，幕；屏风
-      - `screenwriter` 编剧家；电影剧本作家
-      - `screenland` 电影界
+      - `screen`
+        - 屏，幕；屏风
+      - `screenwriter`
+        - 编剧家；电影剧本作家
+      - `screenland`
+        - 电影界
     - vi.
-      - `screen` 拍电影
+      - `screen`
+        - 拍电影
     - vt.
-      - `screen` 筛；拍摄；放映；掩蔽
+      - `screen`
+        - 筛；拍摄；放映；掩蔽
   - 近义词
-    - n. 编剧，剧本；电影剧本
-      - `drama`
-      - `scenario`
+    - n.
+      - 编剧，剧本；电影剧本
+        - `drama`
+        - `scenario`
   - 短语
-    - `best screenplay` 最佳编剧；最佳剧本 
+    - `best screenplay`
+      - 最佳编剧；最佳剧本 
   - 例句
     - `You would think screenplay dialogue should be easy to write.`
       - 你可能认为电影剧本的对话应该易于编写。

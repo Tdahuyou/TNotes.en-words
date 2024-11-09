@@ -1,35 +1,55 @@
 - capillary
   - 发音
-    - 英 `/'kæpəleri/`
-    - 美 `/'kæpəlɛri/`
+    - 英
+      - `/'kæpəleri/`
+    - 美
+      - `/'kæpəlɛri/`
   - 词义
-    - adj. 毛状的；毛细血管的
-    - n. 毛细血管
-    - `the smallest type of  blood vessel (= tube carrying blood )  in the body`
+    - adj.
+      - 毛状的；毛细血管的
+    - n.
+      - 毛细血管
+        - `the smallest type of  blood vessel (= tube carrying blood )  in the body`
   - 记忆
     - capill(毛发) + ary → 毛状的
   - 同根词
     - n.
-      - `capillarity` 毛细管作用，毛细管现象
+      - `capillarity`
+        - 毛细管作用，毛细管现象
   - 近义词
-    - adj. [解剖][物]毛细管的；毛状的
-      - `hairy`
-      - `ciliary`
+    - adj.
+      - [解剖][物]毛细管的；毛状的
+        - `hairy`
+        - `ciliary`
   - 短语
-    - `capillary electrophoresis` 毛细管电泳；管电泳 
-    - `capillary column` [化]毛细管柱 
-    - `capillary pressure` [生]毛细管（血）压 
-    - `capillary tube` 毛细管 
-    - `capillary effect` 毛细管效应 
-    - `capillary force` 毛细力；毛细作用力 
-    - `capillary vessel` 毛细血管 
-    - `capillary action` n. 毛细管作用 
-    - `glass capillary` 玻璃毛细管 
-    - `capillary water` 毛细水；毛细管水 
-    - `capillary rise` [建]毛细上升 
-    - `capillary viscometer` 毛细管粘度计 
-    - `capillary condensation` 毛细凝聚 
-    - `capillary network` 毛细管网 
+    - `capillary electrophoresis`
+      - 毛细管电泳；管电泳 
+    - `capillary column`
+      - [化]毛细管柱 
+    - `capillary pressure`
+      - [生]毛细管（血）压 
+    - `capillary tube`
+      - 毛细管 
+    - `capillary effect`
+      - 毛细管效应 
+    - `capillary force`
+      - 毛细力；毛细作用力 
+    - `capillary vessel`
+      - 毛细血管 
+    - `capillary action`
+      - n. 毛细管作用 
+    - `glass capillary`
+      - 玻璃毛细管 
+    - `capillary water`
+      - 毛细水；毛细管水 
+    - `capillary rise`
+      - [建]毛细上升 
+    - `capillary viscometer`
+      - 毛细管粘度计 
+    - `capillary condensation`
+      - 毛细凝聚 
+    - `capillary network`
+      - 毛细管网 
   - 例句
     - `This consists of a capillary connected to a mercury reservoir.`
       - 这由一根与汞池相连的毛细管所构成。

@@ -1,14 +1,18 @@
 - inchworm
   - 发音
-    - 英 `/'ɪn(t)ʃwɜːm/`
-    - 美 `/'ɪntʃwɝm/`
+    - 英
+      - `/'ɪn(t)ʃwɜːm/`
+    - 美
+      - `/'ɪntʃwɝm/`
   - 词义
-    - n. [昆]尺蠖
+    - n.
+      - [昆]尺蠖
   - 近义词
-    - n. [植保]尺蠖
-      - `cankerworm`
-      - `spanworm`
-      - `loopworm`
+    - n.
+      - [植保]尺蠖
+        - `cankerworm`
+        - `spanworm`
+        - `loopworm`
   - 例句
     - `The adorable inchworm is really the caterpillar of the geometer moth.`
       - 可爱的尺蠖就是尺蠖毛虫。

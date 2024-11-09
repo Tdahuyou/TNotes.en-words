@@ -1,14 +1,18 @@
 - waistcoat
   - 发音
-    - 英 `/'weɪs(t)kəʊt; 'weskɪt/`
-    - 美 `/ˈweskət/`
+    - 英
+      - `/'weɪs(t)kəʊt; 'weskɪt/`
+    - 美
+      - `/ˈweskət/`
   - 词义
-    - n. 背心；[服装]马甲
-    - `a piece of clothing without sleeves that has buttons down the front and is worn over a shirt, often under a jacket as part of a man’s suit`
+    - n.
+      - 背心；[服装]马甲
+        - `a piece of clothing without sleeves that has buttons down the front and is worn over a shirt, often under a jacket as part of a man’s suit`
   - 近义词
-    - n. 背心；[服装]马甲
-      - `gilet`
-      - `vest`
+    - n.
+      - 背心；[服装]马甲
+        - `gilet`
+        - `vest`
   - 例句
     - `You will then have only a pair of trousers, a waistcoat, a hat and a coat.`
       - 您只剩下一条长裤，一件背心，一顶帽子和一件短上衣了。

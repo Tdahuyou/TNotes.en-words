@@ -1,9 +1,12 @@
 - Uganda
   - 发音
-    - 英 `/ju:'ɡændə/`
-    - 美 `/ju:'ɡændə/`
+    - 英
+      - `/ju:'ɡændə/`
+    - 美
+      - `/ju:'ɡændə/`
   - 词义
-    - n. 乌干达（东非国家）
+    - n.
+      - 乌干达（东非国家）
   - 例句
     - `You can spend one hour tracking here, whereas in Uganda it can take all day.`
       - 这里你只要花一小时既可以找到他们，但是在乌干达需要一整天。

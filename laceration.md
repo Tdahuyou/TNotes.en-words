@@ -1,21 +1,29 @@
 - laceration
   - 发音
-    - 英 `/læsə'reɪʃ(ə)n/`
-    - 美 `/,læsə'reʃən/`
+    - 英
+      - `/læsə'reɪʃ(ə)n/`
+    - 美
+      - `/,læsə'reʃən/`
   - 词义
-    - n. 破口
+    - n.
+      - 破口
   - 同根词
     - adj.
-      - `lacerate` 受折磨的；撕碎的
-      - `lacerated` 撕裂的；受伤的
+      - `lacerate`
+        - 受折磨的；撕碎的
+      - `lacerated`
+        - 撕裂的；受伤的
     - v.
-      - `lacerated` 撕裂（lacerate的过去式和过去分词）；划破
+      - `lacerated`
+        - 撕裂（lacerate的过去式和过去分词）；划破
     - vt.
-      - `lacerate` 伤害，使…痛心；割裂；撕碎
+      - `lacerate`
+        - 伤害，使…痛心；割裂；撕碎
   - 近义词
-    - n. 裂伤；[外科]撕裂；割破
-      - `lacerated wound`
-      - `divulsion`
+    - n.
+      - 裂伤；[外科]撕裂；割破
+        - `lacerated wound`
+        - `divulsion`
   - 例句
     - `He had a laceration on his head.`
       - 他头上也有一道口子。

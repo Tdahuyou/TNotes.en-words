@@ -1,20 +1,28 @@
 - screwdriver
   - 发音
-    - 英 `/'skruːdraɪvə/`
-    - 美 `/'skrʊ'draɪvɚ/`
+    - 英
+      - `/'skruːdraɪvə/`
+    - 美
+      - `/'skrʊ'draɪvɚ/`
   - 词义
-    - n. 螺丝刀
-    - `a tool with a narrow blade at one end that you use for turning screws`
+    - n.
+      - 螺丝刀
+        - `a tool with a narrow blade at one end that you use for turning screws`
   - 同根词
     - n.
-      - `screw` 螺旋；螺丝钉；吝啬鬼
-      - `screwing` 螺丝接合；车削螺纹
+      - `screw`
+        - 螺旋；螺丝钉；吝啬鬼
+      - `screwing`
+        - 螺丝接合；车削螺纹
     - v.
-      - `screwing` 拧紧（screw的ing形式）；用螺钉固定
+      - `screwing`
+        - 拧紧（screw的ing形式）；用螺钉固定
     - vi.
-      - `screw` 转动，拧
+      - `screw`
+        - 转动，拧
     - vt.
-      - `screw` 旋，拧；压榨；强迫
+      - `screw`
+        - 旋，拧；压榨；强迫
   - 例句
     - `Don't go your entire life as a “hammer” doing the job of a “screwdriver.`
       - 不要如此度过你的一生：明明是“锤子”却做着“螺丝刀”的工作。

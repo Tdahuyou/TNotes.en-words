@@ -1,20 +1,26 @@
 - miraculous
   - 发音
-    - 英 `/mɪ'rækjʊləs/`
-    - 美 `/mɪ'rækjələs/`
+    - 英
+      - `/mɪ'rækjʊləs/`
+    - 美
+      - `/mɪ'rækjələs/`
   - 词义
-    - adj. 奇迹的,不可思议的
-    - `very good, completely unexpected, and often very lucky`
+    - adj.
+      - 奇迹的,不可思议的
+        - `very good, completely unexpected, and often very lucky`
   - 同根词
     - adv.
-      - `miraculously` 奇迹般地；神奇地；非凡地；出乎意料地
+      - `miraculously`
+        - 奇迹般地；神奇地；非凡地；出乎意料地
     - n.
-      - `miracle` 奇迹，奇迹般的人或物；惊人的事例
+      - `miracle`
+        - 奇迹，奇迹般的人或物；惊人的事例
   - 近义词
-    - adj. 不可思议的，奇迹的
-      - `magic`
-      - `mysterious`
-      - `fantastic`
+    - adj.
+      - 不可思议的，奇迹的
+        - `magic`
+        - `mysterious`
+        - `fantastic`
   - 例句
     - `She made a miraculous recovery from her injuries.`
       - 她受伤后奇迹般地康复了。

@@ -1,24 +1,34 @@
 - violent
   - 发音
-    - 英 `/'vaɪələnt/`
-    - 美 `/'vaɪələnt/`
+    - 英
+      - `/'vaɪələnt/`
+    - 美
+      - `/'vaɪələnt/`
   - 词义
-    - adj. 暴力的；感情强烈的，激情的；强烈的，激烈的
-    - `involving actions that are intended to injure or kill people, by hitting them, shooting them etc`
+    - adj.
+      - 暴力的；感情强烈的，激情的；强烈的，激烈的
+        - `involving actions that are intended to injure or kill people, by hitting them, shooting them etc`
   - 同根词
     - adv.
-      - `violently` 猛烈地，激烈地；极端地
+      - `violently`
+        - 猛烈地，激烈地；极端地
     - n.
-      - `violence` 暴力；侵犯；激烈；歪曲
+      - `violence`
+        - 暴力；侵犯；激烈；歪曲
   - 近义词
-    - adj. 暴力的；猛烈的
-      - `fierce`
-      - `hard`
+    - adj.
+      - 暴力的；猛烈的
+        - `fierce`
+        - `hard`
   - 短语
-    - `violent crime` 暴力犯罪，暴力罪行 
-    - `violent death` 暴力死亡；横死 
-    - `violent storm` 暴风；十一级风 
-    - `violent earthquake` 大地震；强烈地震 
+    - `violent crime`
+      - 暴力犯罪，暴力罪行 
+    - `violent death`
+      - 暴力死亡；横死 
+    - `violent storm`
+      - 暴风；十一级风 
+    - `violent earthquake`
+      - 大地震；强烈地震 
   - 例句
     - `the increase in violent crime`
       - 暴力犯罪的增多

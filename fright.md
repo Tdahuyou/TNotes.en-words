@@ -1,32 +1,45 @@
 - fright
   - 发音
-    - 英 `/fraɪt/`
-    - 美 `/fraɪt/`
+    - 英
+      - `/fraɪt/`
+    - 美
+      - `/fraɪt/`
   - 词义
-    - n. 惊骇,吃惊
-    - `Fright is a sudden feeling of fear, especially the fear that you feel when something unpleasant surprises you`
+    - n.
+      - 惊骇,吃惊
+        - `Fright is a sudden feeling of fear, especially the fear that you feel when something unpleasant surprises you`
   - 同根词
     - adj.
-      - `frightening` 令人恐惧的；引起突然惊恐的
-      - `frightened` 害怕的；受惊的；受恐吓的
-      - `frightful` 可怕的；惊人的；非常的
+      - `frightening`
+        - 令人恐惧的；引起突然惊恐的
+      - `frightened`
+        - 害怕的；受惊的；受恐吓的
+      - `frightful`
+        - 可怕的；惊人的；非常的
     - adv.
-      - `frighteningly` 令人恐惧地
+      - `frighteningly`
+        - 令人恐惧地
     - v.
-      - `frightened` 害怕；使吃惊；吓走（frighten的过去分词）
+      - `frightened`
+        - 害怕；使吃惊；吓走（frighten的过去分词）
     - vi.
-      - `frighten` 害怕，惊恐
+      - `frighten`
+        - 害怕，惊恐
     - vt.
-      - `frighten` 使惊吓；吓唬…
+      - `frighten`
+        - 使惊吓；吓唬…
   - 近义词
-    - n. 惊吓；惊骇
-      - `horror`
-      - `pavor`
-    - vt. 使惊恐
-      - `alarm`
-      - `exercise`
+    - n.
+      - 惊吓；惊骇
+        - `horror`
+        - `pavor`
+    - vt.
+      - 使惊恐
+        - `alarm`
+        - `exercise`
   - 短语
-    - `stage fright` 怯场 
+    - `stage fright`
+      - 怯场 
   - 例句
     - `The steam pipes rattled suddenly, and Franklin jumped with fright.`
       - 蒸汽管突然发出咯咯的声音，弗兰克林吓得跳了起来。

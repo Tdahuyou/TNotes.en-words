@@ -1,22 +1,30 @@
 - alertness
   - 发音
-    - 英 `/ə'lɜːtnəs/`
-    - 美 `/ə'lɝtnɪs/`
+    - 英
+      - `/ə'lɜːtnəs/`
+    - 美
+      - `/ə'lɝtnɪs/`
   - 词义
-    - n. 警戒,机敏
+    - n.
+      - 警戒,机敏
   - 同根词
     - adj.
-      - `alert` 警惕的，警觉的；留心的
+      - `alert`
+        - 警惕的，警觉的；留心的
     - adv.
-      - `alertly` 留意地；提高警觉地
+      - `alertly`
+        - 留意地；提高警觉地
     - n.
-      - `alert` 警戒，警惕；警报
+      - `alert`
+        - 警戒，警惕；警报
     - vt.
-      - `alert` 警告；使警觉，使意识到
+      - `alert`
+        - 警告；使警觉，使意识到
   - 近义词
-    - n. 警戒；机敏
-      - `guard`
-      - `vigilance`
+    - n.
+      - 警戒；机敏
+        - `guard`
+        - `vigilance`
   - 例句
     - `Environmental issues such as noise and level of alertness may interfere with learning new behaviors.`
       - 环境问题诸如噪音和警戒的水平也许会妨碍新行为的学习。

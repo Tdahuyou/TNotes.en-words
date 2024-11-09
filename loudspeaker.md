@@ -1,16 +1,20 @@
 - loudspeaker
   - 发音
-    - 英 `/laʊd'spiːkə/`
-    - 美 `/,laʊd'spikɚ/`
+    - 英
+      - `/laʊd'spiːkə/`
+    - 美
+      - `/,laʊd'spikɚ/`
   - 词义
-    - n. 扩音器,喇叭
-    - `a piece of equipment used to make sounds louder`
+    - n.
+      - 扩音器,喇叭
+        - `a piece of equipment used to make sounds louder`
   - 近义词
-    - n. [电子]喇叭，扬声器；扩音器
-      - `speaker`
-      - `mike`
-      - `horn`
-      - `amplifier`
+    - n.
+      - [电子]喇叭，扬声器；扩音器
+        - `speaker`
+        - `mike`
+        - `horn`
+        - `amplifier`
   - 例句
     - `The loudspeaker's stopped working.`
       - 扩音器不响了。

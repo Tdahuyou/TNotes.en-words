@@ -1,17 +1,22 @@
 - archaeology
   - 发音
-    - 英 `/ˌɑːrki'ɑːlədʒi/`
-    - 美 `/,ɑrkɪ'ɑlədʒi/`
+    - 英
+      - `/ˌɑːrki'ɑːlədʒi/`
+    - 美
+      - `/,ɑrkɪ'ɑlədʒi/`
   - 词义
-    - n. 考古学
-    - `the study of ancient societies by examining what remains of their buildings,  grave s  , tools etc`
+    - n.
+      - 考古学
+        - `the study of ancient societies by examining what remains of their buildings,  grave s  , tools etc`
   - 记忆
     - arch(古老的) + ae + ology(…学) → 考古学
   - 同根词
     - adj.
-      - `archaeological` [古] 考古学的；[古] 考古学上的
+      - `archaeological`
+        - [古] 考古学的；[古] 考古学上的
     - n.
-      - `archaeologist` 考古学家
+      - `archaeologist`
+        - 考古学家
   - 例句
     - `I have a passion for archaeology .`
       - 我对考古学有热情。

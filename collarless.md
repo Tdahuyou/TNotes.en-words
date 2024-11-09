@@ -1,15 +1,20 @@
 - collarless
   - 发音
-    - 英 `/undefined/`
-    - 美 `/'kɔləlis/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/'kɔləlis/`
   - 词义
-    - adj. 无领的,无马轭(或颈圈)的
-    - `a collarless jacket, shirt etc is one that does not have a collar`
+    - adj.
+      - 无领的,无马轭(或颈圈)的
+        - `a collarless jacket, shirt etc is one that does not have a collar`
   - 同根词
     - n.
-      - `collar` 衣领；颈圈
+      - `collar`
+        - 衣领；颈圈
     - vt.
-      - `collar` 抓住；给…上领子；给…套上颈圈
+      - `collar`
+        - 抓住；给…上领子；给…套上颈圈
   - 例句
     - `Originally the collarless shirt and trousers were nondescript, of flannel or wool.`
       - 起初无领的衬衫和长裤是没用固定特征的，或者是法兰绒的或者是羊毛的。

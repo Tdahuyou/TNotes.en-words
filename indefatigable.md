@@ -1,23 +1,29 @@
 - indefatigable
   - 发音
-    - 英 `/ˌɪndɪ'fætɪgəbl/`
-    - 美 `/,ɪndɪ'fætɪɡəbl/`
+    - 英
+      - `/ˌɪndɪ'fætɪgəbl/`
+    - 美
+      - `/,ɪndɪ'fætɪɡəbl/`
   - 词义
-    - adj. 不知疲倦的
-    - `You use indefatigable to describe someone who never gets tired of doing something`
+    - adj.
+      - 不知疲倦的
+        - `You use indefatigable to describe someone who never gets tired of doing something`
   - 记忆
     - in(不) + de(表强调) + fatigable(易疲倦的) → 不知疲倦的
   - 同根词
     - adv.
-      - `indefatigably` 不厌倦地；不屈不挠地
+      - `indefatigably`
+        - 不厌倦地；不屈不挠地
     - n.
-      - `indefatigability` 不疲倦；不屈不挠
+      - `indefatigability`
+        - 不疲倦；不屈不挠
   - 近义词
-    - adj. 不知疲倦的；不屈不挠的；有耐性的
-      - `patient`
-      - `tough`
-      - `tireless`
-      - `untiring`
+    - adj.
+      - 不知疲倦的；不屈不挠的；有耐性的
+        - `patient`
+        - `tough`
+        - `tireless`
+        - `untiring`
   - 例句
     - `His indefatigable spirit helped him to cope with his illness.`
       - 他不屈不挠的精神帮助他对抗病魔。

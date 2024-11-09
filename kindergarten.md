@@ -1,19 +1,26 @@
 - kindergarten
   - 发音
-    - 英 `/'kɪndə,gɑːt(ə)n/`
-    - 美 `/'kɪndɚɡɑrtn/`
+    - 英
+      - `/'kɪndə,gɑːt(ə)n/`
+    - 美
+      - `/'kɪndɚɡɑrtn/`
   - 词义
-    - n. 幼儿园
-    - `a school for children aged two to five`
-    - adj. 幼儿园的,启蒙阶段的
+    - n.
+      - 幼儿园
+        - `a school for children aged two to five`
+    - adj.
+      - 幼儿园的,启蒙阶段的
   - 同根词
     - n.
-      - `kindergartener` 幼儿园教师
-      - `kindergartner` 幼儿园教师；幼儿园里的小孩
+      - `kindergartener`
+        - 幼儿园教师
+      - `kindergartner`
+        - 幼儿园教师；幼儿园里的小孩
   - 近义词
-    - n. 幼儿园；幼稚园
-      - `play school`
-      - `nursery school`
+    - n.
+      - 幼儿园；幼稚园
+        - `play school`
+        - `nursery school`
   - 例句
     - `To my kindergarten.`
       - 去我的幼儿园。

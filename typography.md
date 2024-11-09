@@ -1,20 +1,27 @@
 - typography
   - 发音
-    - 英 `/tai'pɔgrəfi/`
-    - 美 `/taɪ'pɑgrəfi/`
+    - 英
+      - `/tai'pɔgrəfi/`
+    - 美
+      - `/taɪ'pɑgrəfi/`
   - 词义
-    - n. 排版，排印
-    - `the work of preparing written material for printing`
+    - n.
+      - 排版，排印
+        - `the work of preparing written material for printing`
   - 记忆
     - typo (印刷工) + graph (写； 图) + y → 排版， 排印
   - 同根词
     - adj.
-      - `typographic` 排字上的；印刷上的
+      - `typographic`
+        - 排字上的；印刷上的
     - adv.
-      - `typographically` 印刷地
+      - `typographically`
+        - 印刷地
     - n.
-      - `typo` 排印错误；排字工；印刷工
-      - `typographer` 印刷商；印刷工人
+      - `typo`
+        - 排印错误；排字工；印刷工
+      - `typographer`
+        - 印刷商；印刷工人
   - 例句
     - `Jobs developed an appreciation for typography, the style and arrangement of printed characters.`
       - 乔布斯渐渐喜欢上排印术——打印字符的版面设计与安排。

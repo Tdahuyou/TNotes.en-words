@@ -1,29 +1,42 @@
 - surfing
   - 发音
-    - 英 `/'sɜːfɪŋ/`
-    - 美 `/'sɝfɪŋ/`
+    - 英
+      - `/'sɜːfɪŋ/`
+    - 美
+      - `/'sɝfɪŋ/`
   - 词义
-    - n. 冲浪
-    - `the activity or sport of riding over the waves on a special board`
+    - n.
+      - 冲浪
+        - `the activity or sport of riding over the waves on a special board`
   - 记忆
     - “舒服” → 冲浪很舒服 → 冲浪
   - 同根词
     - n.
-      - `surf` 海浪，拍岸浪
-      - `surfer` 冲浪运动员，乘冲浪板冲浪的人
-      - `surfboard` 冲浪板
+      - `surf`
+        - 海浪，拍岸浪
+      - `surfer`
+        - 冲浪运动员，乘冲浪板冲浪的人
+      - `surfboard`
+        - 冲浪板
     - vi.
-      - `surf` 作冲浪运动
-      - `surfboard` 以冲浪板滑水
+      - `surf`
+        - 作冲浪运动
+      - `surfboard`
+        - 以冲浪板滑水
     - vt.
-      - `surf` 在…冲浪
+      - `surf`
+        - 在…冲浪
   - 近义词
-    - v. 冲浪（surf的ing形式）
-      - `sailboarding`
+    - v.
+      - 冲浪（surf的ing形式）
+        - `sailboarding`
   - 短语
-    - `surfing the internet` 上网；网上冲浪 
-    - `surfing the net` 上网；网上冲浪 
-    - `net surfing` 网上冲浪 
+    - `surfing the internet`
+      - 上网；网上冲浪 
+    - `surfing the net`
+      - 上网；网上冲浪 
+    - `net surfing`
+      - 网上冲浪 
   - 例句
     - `When we were in Hawaii, we went surfing every day.`
       - 我们在夏威夷时每天都去冲浪。

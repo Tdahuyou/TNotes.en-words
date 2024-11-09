@@ -1,20 +1,26 @@
 - puddle
   - 发音
-    - 英 `/'pʌdl/`
-    - 美 `/'pʌdl/`
+    - 英
+      - `/'pʌdl/`
+    - 美
+      - `/'pʌdl/`
   - 词义
-    - n. 水坑，水洼
-    - `a small pool of liquid, especially rainwater`
+    - n.
+      - 水坑，水洼
+        - `a small pool of liquid, especially rainwater`
   - 记忆
     - 注意不要和peddle(v. 沿街叫卖)相混
   - 同根词
     - n.
-      - `puddler` 搅拌器；搅炼工人；捣泥者
+      - `puddler`
+        - 搅拌器；搅炼工人；捣泥者
   - 近义词
-    - n. 水坑，泥潭；[建]胶土（由粘土与水和成，不透水）
-      - `sump`
-    - vt. 使泥泞，搅浑；把…捣制成胶土；搅炼；用胶土填塞
-      - `rile`
+    - n.
+      - 水坑，泥潭；[建]胶土（由粘土与水和成，不透水）
+        - `sump`
+    - vt.
+      - 使泥泞，搅浑；把…捣制成胶土；搅炼；用胶土填塞
+        - `rile`
   - 例句
     - `Children splashed through the puddles.`
       - 孩子们噼噼啪啪地踩过一个个小水坑。

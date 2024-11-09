@@ -1,20 +1,26 @@
 - uproarious
   - 发音
-    - 英 `/ʌp'rɔːriəs/`
-    - 美 `/ʌp'rɔrɪəs/`
+    - 英
+      - `/ʌp'rɔːriəs/`
+    - 美
+      - `/ʌp'rɔrɪəs/`
   - 词义
-    - adj. 骚动的
+    - adj.
+      - 骚动的
   - 记忆
     - up (上) + roar (吼叫) + ious → 楼上半夜有人吼叫， 引起人们骚动 → 骚动的
   - 同根词
     - adv.
-      - `uproariously` 吵闹地；喧嚣地
+      - `uproariously`
+        - 吵闹地；喧嚣地
     - n.
-      - `uproar` 骚动；喧嚣
+      - `uproar`
+        - 骚动；喧嚣
   - 近义词
-    - adj. 骚动的；喧嚣的
-      - `tumultuary`
-      - `blatant`
+    - adj.
+      - 骚动的；喧嚣的
+        - `tumultuary`
+        - `blatant`
   - 例句
     - `We often use it to describe some uproarious festivities.`
       - 我们通常用它来形容一些骚动的庆典。

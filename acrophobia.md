@@ -1,13 +1,17 @@
 - acrophobia
   - 发音
-    - 英 `/,ækrə'fəʊbɪə/`
-    - 美 `/,ækrə'fobɪə/`
+    - 英
+      - `/,ækrə'fəʊbɪə/`
+    - 美
+      - `/,ækrə'fobɪə/`
   - 词义
-    - n. [医]恐高症
-    - `abnormal fear or dread of being at a great height `
+    - n.
+      - [医]恐高症
+        - `abnormal fear or dread of being at a great height `
   - 近义词
-    - n. 恐高症，[医]高处恐怖症
-      - `altophobia`
+    - n.
+      - 恐高症，[医]高处恐怖症
+        - `altophobia`
   - 例句
     - `Many people suffer from very serious acrophobia.`
       - 许多人患有严重的恐高症。

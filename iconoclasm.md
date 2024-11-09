@@ -1,9 +1,13 @@
 - iconoclasm
   - 发音
-    - 英 `/aɪ'kɑːnəklæzəm/`
-    - 美 `/undefined/`
+    - 英
+      - `/aɪ'kɑːnəklæzəm/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 破坏偶像的理论，打破旧习
+    - n.
+      - 破坏偶像的理论，打破旧习
   - 同根词
     - adj.
-      - `iconoclastic` 打破旧习的；偶像破坏的
+      - `iconoclastic`
+        - 打破旧习的；偶像破坏的

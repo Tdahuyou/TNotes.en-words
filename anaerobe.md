@@ -1,16 +1,21 @@
 - anaerobe
   - 发音
-    - 英 `/'ænərəʊb; ə'neərəʊb/`
-    - 美 `/æn'eə,rob/`
+    - 英
+      - `/'ænərəʊb; ə'neərəʊb/`
+    - 美
+      - `/æn'eə,rob/`
   - 词义
-    - n. [生物][微]厌氧性生物，[微]厌氧菌
-    - `an organism that does not require oxygen for respiration `
+    - n.
+      - [生物][微]厌氧性生物，[微]厌氧菌
+        - `an organism that does not require oxygen for respiration `
   - 同根词
     - adj.
-      - `anaerobic` [微] 厌氧的，[微] 厌气的；没有气而能生活的
+      - `anaerobic`
+        - [微] 厌氧的，[微] 厌气的；没有气而能生活的
   - 近义词
-    - n. [生物]厌氧性生物，[微]厌氧菌
-      - `anaerobic bacteria`
+    - n.
+      - [生物]厌氧性生物，[微]厌氧菌
+        - `anaerobic bacteria`
   - 例句
     - `The anaerobe resistance fungus medicine has the stable sensitivity.`
       - 厌氧菌对抗菌药物有较稳定的敏感性。

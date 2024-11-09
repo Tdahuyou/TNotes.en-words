@@ -1,48 +1,78 @@
 - peace
   - 发音
-    - 英 `/piːs/`
-    - 美 `/pis/`
+    - 英
+      - `/piːs/`
+    - 美
+      - `/pis/`
   - 词义
-    - n. 和平；太平
-    - `a situation in which there is no war or fighting`
+    - n.
+      - 和平；太平
+        - `a situation in which there is no war or fighting`
   - 记忆
     - 托尔斯泰的巨著War and Peace 《战争与和平》
   - 同根词
     - adj.
-      - `peaceful` 和平的，爱好和平的；平静的
-      - `peaceable` 和平的；平静的；温顺的
-      - `peacekeeping` 维护和平的；执行停火协定的
+      - `peaceful`
+        - 和平的，爱好和平的；平静的
+      - `peaceable`
+        - 和平的；平静的；温顺的
+      - `peacekeeping`
+        - 维护和平的；执行停火协定的
     - adv.
-      - `peacefully` 平静地
-      - `peaceably` 和平地；温和地
+      - `peacefully`
+        - 平静地
+      - `peaceably`
+        - 和平地；温和地
     - n.
-      - `peacefulness` 平静；温和
+      - `peacefulness`
+        - 平静；温和
   - 近义词
-    - n. 和平；平静；和睦；秩序
-      - `harmony`
-      - `equilibrium`
-      - `quiet`
+    - n.
+      - 和平；平静；和睦；秩序
+        - `harmony`
+        - `equilibrium`
+        - `quiet`
   - 短语
-    - `in peace` 和平地；安静，宁静；安祥地 
-    - `peace of mind` 内心的宁静；明镜止水 
-    - `world peace` 世界和平 
-    - `at peace` 处于和平状态 
-    - `nobel peace prize` 诺贝尔和平奖 
-    - `peace process` 和平进程 
-    - `peace talks` 和谈 
-    - `live in peace` 和平相处 
-    - `keep the peace` vi. 不扰乱治安；阻止别人扰乱治安；守法 
-    - `make peace` 讲和；调解；言和和解 
-    - `peace and quiet` 安静；宁静 
-    - `peace treaty` 和平条约 
-    - `inner peace` 内心的平静；内在和平；安心 
-    - `love peace` 热爱和平 
-    - `war and peace` 战争与和平 
-    - `rest in peace` 安息 
-    - `at peace with` 与…和睦相处 
-    - `disturb the peace` 扰乱治安 
-    - `make peace with` 与…言归于好；与…讲和；休战 
-    - `make peace with someone` 和解；言归于好 
+    - `in peace`
+      - 和平地；安静，宁静；安祥地 
+    - `peace of mind`
+      - 内心的宁静；明镜止水 
+    - `world peace`
+      - 世界和平 
+    - `at peace`
+      - 处于和平状态 
+    - `nobel peace prize`
+      - 诺贝尔和平奖 
+    - `peace process`
+      - 和平进程 
+    - `peace talks`
+      - 和谈 
+    - `live in peace`
+      - 和平相处 
+    - `keep the peace`
+      - vi. 不扰乱治安；阻止别人扰乱治安；守法 
+    - `make peace`
+      - 讲和；调解；言和和解 
+    - `peace and quiet`
+      - 安静；宁静 
+    - `peace treaty`
+      - 和平条约 
+    - `inner peace`
+      - 内心的平静；内在和平；安心 
+    - `love peace`
+      - 热爱和平 
+    - `war and peace`
+      - 战争与和平 
+    - `rest in peace`
+      - 安息 
+    - `at peace with`
+      - 与…和睦相处 
+    - `disturb the peace`
+      - 扰乱治安 
+    - `make peace with`
+      - 与…言归于好；与…讲和；休战 
+    - `make peace with someone`
+      - 和解；言归于好 
   - 例句
     - `The country is at peace with its neighbours for the first time in years.`
       - 这是多年来该国与其邻国第一次和平共处。

@@ -1,17 +1,22 @@
 - leucocyte
   - 发音
-    - 英 `/'luːkə(ʊ)saɪt/`
-    - 美 `/'lukəsaɪt/`
+    - 英
+      - `/'luːkə(ʊ)saɪt/`
+    - 美
+      - `/'lukəsaɪt/`
   - 词义
-    - n. [解]白细胞,白血球
-    - `any of the various large unpigmented cells in the blood of vertebrates `
+    - n.
+      - [解]白细胞,白血球
+        - `any of the various large unpigmented cells in the blood of vertebrates `
   - 同根词
     - n.
-      - `leucocytosis` [内科] 白细胞增多，白血球增多
+      - `leucocytosis`
+        - [内科] 白细胞增多，白血球增多
   - 近义词
-    - n. [解剖][细胞]白细胞；白血球
-      - `leukocyte`
-      - `white blood cells`
+    - n.
+      - [解剖][细胞]白细胞；白血球
+        - `leukocyte`
+        - `white blood cells`
   - 例句
     - `Lymphocyte is a kind of leucocyte of small volume.`
       - 淋巴细胞是一种体积较小的白细胞。

@@ -1,10 +1,13 @@
 - postmaster
   - 发音
-    - 英 `/'pəʊs(t)mɑːstə/`
-    - 美 `/'postmæstɚ/`
+    - 英
+      - `/'pəʊs(t)mɑːstə/`
+    - 美
+      - `/'postmæstɚ/`
   - 词义
-    - n. 邮局局长
-    - `someone who is in charge of a post office`
+    - n.
+      - 邮局局长
+        - `someone who is in charge of a post office`
   - 例句
     - `As if from far away, he hears her call to the postmaster to send for the police.`
       - 好像是从很远的地方传来的声音，他听见她在让邮政局长打电话叫警察来。

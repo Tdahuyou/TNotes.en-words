@@ -1,19 +1,26 @@
 - geologist
   - 发音
-    - 英 `/dʒɪ'ɒlədʒɪst/`
-    - 美 `/dʒɪ'ɑlədʒɪst/`
+    - 英
+      - `/dʒɪ'ɒlədʒɪst/`
+    - 美
+      - `/dʒɪ'ɑlədʒɪst/`
   - 词义
-    - n. 地质学者
+    - n.
+      - 地质学者
   - 同根词
     - adj.
-      - `geologic` 地质的；地质学上的
+      - `geologic`
+        - 地质的；地质学上的
     - adv.
-      - `geologically` 从地质学角度
+      - `geologically`
+        - 从地质学角度
     - n.
-      - `geology` 地质学；地质情况
+      - `geology`
+        - 地质学；地质情况
   - 近义词
-    - n. [地质]地质学家，地质学者
-      - `rocksy`
+    - n.
+      - [地质]地质学家，地质学者
+        - `rocksy`
   - 例句
     - `He is also a geologist.`
       - 他也是一位地质学家。

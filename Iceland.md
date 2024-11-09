@@ -1,11 +1,15 @@
 - Iceland
   - 发音
-    - 英 `/'aislənd/`
-    - 美 `/'aislənd/`
+    - 英
+      - `/'aislənd/`
+    - 美
+      - `/'aislənd/`
   - 词义
-    - n. 冰岛(欧洲岛名,在大西洋北部,近北极圈)
+    - n.
+      - 冰岛(欧洲岛名,在大西洋北部,近北极圈)
   - 短语
-    - `iceland spar` [矿]冰洲石（方解石的一种） 
+    - `iceland spar`
+      - [矿]冰洲石（方解石的一种） 
   - 例句
     - `WHICH country will be the next Iceland?`
       - 哪个国家会成为下一个冰岛？

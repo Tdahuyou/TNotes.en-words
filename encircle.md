@@ -1,18 +1,23 @@
 - encircle
   - 发音
-    - 英 `/ɪn'sɜːk(ə)l; en-/`
-    - 美 `/ɪn'sɝkl/`
+    - 英
+      - `/ɪn'sɜːk(ə)l; en-/`
+    - 美
+      - `/ɪn'sɝkl/`
   - 词义
-    - v. 环绕,围绕
-    - `to surround someone or something completely`
+    - v.
+      - 环绕,围绕
+        - `to surround someone or something completely`
   - 同根词
     - n.
-      - `encirclement` 包围；环绕
+      - `encirclement`
+        - 包围；环绕
   - 近义词
-    - vt. 包围；围绕；环绕
-      - `case`
-      - `invest`
-      - `zone`
+    - vt.
+      - 包围；围绕；环绕
+        - `case`
+        - `invest`
+        - `zone`
   - 例句
     - `The island was encircled by a dusty road.`
       - 那座岛屿为一条尘土飞扬的公路所环绕。

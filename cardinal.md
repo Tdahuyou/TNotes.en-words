@@ -1,33 +1,45 @@
 - cardinal
   - 发音
-    - 英 `/'kɑːrdɪnl/`
-    - 美 `/'kɑrdɪnl/`
+    - 英
+      - `/'kɑːrdɪnl/`
+    - 美
+      - `/'kɑrdɪnl/`
   - 词义
-    - adj. 主要的，最重要的
-    - `very important or basic`
-    - n. 红衣凤头鸟
-    - `a North American bird. The male is a bright red colour.`
+    - adj.
+      - 主要的，最重要的
+        - `very important or basic`
+    - n.
+      - 红衣凤头鸟
+        - `a North American bird. The male is a bright red colour.`
   - 记忆
     - card(心) + inal → 心一样的 → 主要的， 最重要的
   - 同根词
     - n.
-      - `cardinality` 基数；集的势
-      - `cardinalate` 枢机主教之职
-      - `cardinalship` 红衣主教职位或任期
+      - `cardinality`
+        - 基数；集的势
+      - `cardinalate`
+        - 枢机主教之职
+      - `cardinalship`
+        - 红衣主教职位或任期
   - 近义词
-    - adj. 主要的，基本的；深红色的
-      - `primary`
-      - `elementary`
-      - `major`
-      - `fundamental`
-      - `basic`
-    - n. 红衣主教；枢机主教；鲜红色
-      - `conclavist`
-      - `red hat`
+    - adj.
+      - 主要的，基本的；深红色的
+        - `primary`
+        - `elementary`
+        - `major`
+        - `fundamental`
+        - `basic`
+    - n.
+      - 红衣主教；枢机主教；鲜红色
+        - `conclavist`
+        - `red hat`
   - 短语
-    - `cardinal number` [数]基数 
-    - `cardinal point` 基点；方位基点 
-    - `cardinal virtues` 基本道德 
+    - `cardinal number`
+      - [数]基数 
+    - `cardinal point`
+      - 基点；方位基点 
+    - `cardinal virtues`
+      - 基本道德 
   - 例句
     - `Having clean hands is one of the cardinal rules when preparing food.`
       - 双手洁净是准备食物时的一项最基本要求。

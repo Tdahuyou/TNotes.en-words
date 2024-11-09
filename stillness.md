@@ -1,28 +1,40 @@
 - stillness
   - 发音
-    - 英 `/'stɪlnɪs/`
-    - 美 `/'stɪlnəs/`
+    - 英
+      - `/'stɪlnɪs/`
+    - 美
+      - `/'stɪlnəs/`
   - 词义
-    - n. 静止,沉静
+    - n.
+      - 静止,沉静
   - 同根词
     - adj.
-      - `still` 静止的，不动的；寂静的，平静的；不起泡的
-      - `stilly` 平静的；不动的
+      - `still`
+        - 静止的，不动的；寂静的，平静的；不起泡的
+      - `stilly`
+        - 平静的；不动的
     - adv.
-      - `still` 仍然；更；静止地
-      - `stilly` 静静地；默默地
+      - `still`
+        - 仍然；更；静止地
+      - `stilly`
+        - 静静地；默默地
     - conj.
-      - `still` 仍然；但是；尽管如此
+      - `still`
+        - 仍然；但是；尽管如此
     - n.
-      - `still` 寂静；剧照；蒸馏室
+      - `still`
+        - 寂静；剧照；蒸馏室
     - vi.
-      - `still` 静止；平静；蒸馏
+      - `still`
+        - 静止；平静；蒸馏
     - vt.
-      - `still` 蒸馏；使…静止；使…平静下来
+      - `still`
+        - 蒸馏；使…静止；使…平静下来
   - 近义词
-    - n. 静止；沉静
-      - `rest`
-      - `quiescency`
+    - n.
+      - 静止；沉静
+        - `rest`
+        - `quiescency`
   - 例句
     - `This is your true nature, one of effortless peace and stillness.`
       - 这就是你的本质，一个完全不需费力的平静和静止。

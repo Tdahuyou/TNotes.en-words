@@ -1,16 +1,21 @@
 - rearrange
   - 发音
-    - 英 `/riːə'reɪn(d)ʒ/`
-    - 美 `/,riə'rendʒ/`
+    - 英
+      - `/riːə'reɪn(d)ʒ/`
+    - 美
+      - `/,riə'rendʒ/`
   - 词义
-    - v. 再排列,重新整理
-    - `to change the position or order of things`
+    - v.
+      - 再排列,重新整理
+        - `to change the position or order of things`
   - 同根词
     - n.
-      - `rearrangement` 重新整理；重新排列；重新布置
+      - `rearrangement`
+        - 重新整理；重新排列；重新布置
   - 近义词
-    - vt. 重新排列；重新整理
-      - `replume`
+    - vt.
+      - 重新排列；重新整理
+        - `replume`
   - 例句
     - `She set about rearranging the furniture in the living room.`
       - 她开始重新摆放起居室的家具。

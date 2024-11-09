@@ -1,28 +1,40 @@
 - therapeutic
   - 发音
-    - 英 `/,θerə'pjuːtɪk/`
-    - 美 `/,θɛrə'pjutɪk/`
+    - 英
+      - `/,θerə'pjuːtɪk/`
+    - 美
+      - `/,θɛrə'pjutɪk/`
   - 词义
-    - adj. 治疗的,治疗学的n治疗剂,治疗学家
-    - `relating to the treatment or cure of an illness`
+    - adj.
+      - 治疗的,治疗学的n治疗剂,治疗学家
+        - `relating to the treatment or cure of an illness`
   - 同根词
     - adj.
-      - `therapeutical` 治疗的；治疗学的（等于therapeutic）
+      - `therapeutical`
+        - 治疗的；治疗学的（等于therapeutic）
     - n.
-      - `therapy` 治疗，疗法
-      - `therapist` 临床医学家；治疗学家
-      - `therapeutics` 疗法，治疗学
+      - `therapy`
+        - 治疗，疗法
+      - `therapist`
+        - 临床医学家；治疗学家
+      - `therapeutics`
+        - 疗法，治疗学
   - 近义词
-    - adj. 治疗的；治疗学的；有益于健康的
-      - `healthy`
-      - `treated`
-      - `medicinal`
-      - `remedial`
+    - adj.
+      - 治疗的；治疗学的；有益于健康的
+        - `healthy`
+        - `treated`
+        - `medicinal`
+        - `remedial`
   - 短语
-    - `therapeutic action` 治疗作用 
-    - `therapeutic massage` 保健按摩 
-    - `therapeutic index` 治疗指数，治疗指标 
-    - `therapeutic outcome` 治疗结果 
+    - `therapeutic action`
+      - 治疗作用 
+    - `therapeutic massage`
+      - 保健按摩 
+    - `therapeutic index`
+      - 治疗指数，治疗指标 
+    - `therapeutic outcome`
+      - 治疗结果 
   - 例句
     - `Some claim that the herb has therapeutic value for treating pain.`
       - 有些人称这种草药具有止痛的疗效。

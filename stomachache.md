@@ -1,16 +1,21 @@
 - stomachache
   - 发音
-    - 英 `/'stʌməkeɪk/`
-    - 美 `/'stʌmək,ek/`
+    - 英
+      - `/'stʌməkeɪk/`
+    - 美
+      - `/'stʌmək,ek/`
   - 词义
-    - n. 胃痛，腹痛
-    - `pain in your stomach or near your stomach`
+    - n.
+      - 胃痛，腹痛
+        - `pain in your stomach or near your stomach`
   - 近义词
-    - n. [内科]腹痛，肚子痛；胃痛
-      - `abdominal pain`
-      - `celialgia`
+    - n.
+      - [内科]腹痛，肚子痛；胃痛
+        - `abdominal pain`
+        - `celialgia`
   - 短语
-    - `have a stomachache` 胃痛；肚子疼 
+    - `have a stomachache`
+      - 胃痛；肚子疼 
   - 例句
     - `Father doctored me for ordinary stomachache.`
       - 父亲为我治疗一般的胃痛。

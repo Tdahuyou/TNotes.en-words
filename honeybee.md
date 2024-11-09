@@ -1,13 +1,17 @@
 - honeybee
   - 发音
-    - 英 `/'hʌnɪbiː/`
-    - 美 `/'hʌnɪbi/`
+    - 英
+      - `/'hʌnɪbiː/`
+    - 美
+      - `/'hʌnɪbi/`
   - 词义
-    - n. 蜜蜂
-    - `a  bee  that makes honey`
+    - n.
+      - 蜜蜂
+        - `a  bee  that makes honey`
   - 近义词
-    - n. [蜂]蜜蜂
-      - `bee`
+    - n.
+      - [蜂]蜜蜂
+        - `bee`
   - 例句
     - `When a honeybee takes its first flight, it immediately releases its strong smelling meconium.`
       - 蜕变后的蜜蜂第一次起飞时，它会立刻将难闻的“蛹便”丢弃。

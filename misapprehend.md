@@ -1,17 +1,22 @@
 - misapprehend
   - 发音
-    - 英 `/,mɪsæprɪ'hend/`
-    - 美 `/'mis,æpri'hend/`
+    - 英
+      - `/,mɪsæprɪ'hend/`
+    - 美
+      - `/'mis,æpri'hend/`
   - 词义
-    - v. 误会，误解
-    - `to misunderstand `
+    - v.
+      - 误会，误解
+        - `to misunderstand `
   - 同根词
     - n.
-      - `misapprehension` 误解；误会
+      - `misapprehension`
+        - 误解；误会
   - 近义词
-    - vt. 误会，误解
-      - `to misunderstand`
-      - `to mistake`
+    - vt.
+      - 误会，误解
+        - `to misunderstand`
+        - `to mistake`
   - 例句
     - `You misapprehend me, father;`
       - 那你是误解我了，父亲；

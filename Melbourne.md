@@ -1,10 +1,13 @@
 - Melbourne
   - 发音
-    - 英 `/'melbən/`
-    - 美 `/'mɛlbən/`
+    - 英
+      - `/'melbən/`
+    - 美
+      - `/'mɛlbən/`
   - 词义
   - 短语
-    - `university of melbourne` 墨尔本大学 
+    - `university of melbourne`
+      - 墨尔本大学 
   - 例句
     - `All works are handmade in Melbourne, with sterling silver, human hair and human teeth.`
       - 所有的作品都以纯银、人的头发和牙齿在墨尔本手工制作而成。

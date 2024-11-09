@@ -1,20 +1,27 @@
 - avowal
   - 发音
-    - 英 `/ə'vaʊəl/`
-    - 美 `/əˈvaʊəl/`
+    - 英
+      - `/ə'vaʊəl/`
+    - 美
+      - `/əˈvaʊəl/`
   - 词义
-    - n. 声明
+    - n.
+      - 声明
   - 同根词
     - adj.
-      - `avowed` 公开宣布的；公开承认的；公然的
+      - `avowed`
+        - 公开宣布的；公开承认的；公然的
     - v.
-      - `avowed` 声明（avow的过去式和过去分词）
+      - `avowed`
+        - 声明（avow的过去式和过去分词）
     - vt.
-      - `avow` 承认；公开宣称；坦率承认
+      - `avow`
+        - 承认；公开宣称；坦率承认
   - 近义词
-    - n. 声明，公开表示；公开宣布
-      - `statement`
-      - `profession`
+    - n.
+      - 声明，公开表示；公开宣布
+        - `statement`
+        - `profession`
   - 例句
     - `Set in small-town Iowa in 1956, Gilead is a quiet, slow-moving but ultimately majestic avowal of the redemptive power of love. LA`
       - 《吉利德》以1956年爱荷华州的小镇为背景，故事恬静而舒缓，但最终成为爱的救赎力的宏大声明。

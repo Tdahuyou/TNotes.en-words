@@ -1,9 +1,12 @@
 - Holland
   - 发音
-    - 英 `/'hɒlənd/`
-    - 美 `/'hɑlənd/`
+    - 英
+      - `/'hɒlənd/`
+    - 美
+      - `/'hɑlənd/`
   - 词义
-    - n. 荷兰
+    - n.
+      - 荷兰
   - 例句
     - `Have you ever been to Holland?`
       - 你曾经去过荷兰吗？

@@ -1,9 +1,12 @@
 - gar
   - 发音
-    - 英 `/gɑː/`
-    - 美 `/undefined/`
+    - 英
+      - `/gɑː/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 雀鳝属鱼,雀鳝
+    - n.
+      - 雀鳝属鱼,雀鳝
   - 例句
     - `Officials with the Mississippi Department of Wildlife, Fisheries and Parks (MDWFP) said it could be the largest alligator gar caught.`
       - 野生动物、鱼类和公园(MDWFP)的密西西比河部门的官员说它是被逮住的最大的鳄雀鳝。

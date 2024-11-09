@@ -1,43 +1,71 @@
 - generation
   - 发音
-    - 英 `/dʒenə'reɪʃ(ə)n/`
-    - 美 `/'dʒɛnə'reʃən/`
+    - 英
+      - `/dʒenə'reɪʃ(ə)n/`
+    - 美
+      - `/'dʒɛnə'reʃən/`
   - 词义
-    - n. 一代人(或产品),产生,发生
-    - `all people of about the same age`
+    - n.
+      - 一代人(或产品),产生,发生
+        - `all people of about the same age`
   - 同根词
     - adj.
-      - `generative` 生殖的；生产的；有生殖力的；有生产力的
-      - `generational` 一代的；生育的
+      - `generative`
+        - 生殖的；生产的；有生殖力的；有生产力的
+      - `generational`
+        - 一代的；生育的
     - n.
-      - `generator` 发电机；发生器；生产者
+      - `generator`
+        - 发电机；发生器；生产者
     - vt.
-      - `generate` 使形成；发生；生殖
+      - `generate`
+        - 使形成；发生；生殖
   - 近义词
-    - n. 一代；产生；一代人；[生物]生殖
-      - `get`
-      - `reproduction`
+    - n.
+      - 一代；产生；一代人；[生物]生殖
+        - `get`
+        - `reproduction`
   - 短语
-    - `new generation` 新世代，新一代；新生代 
-    - `power generation` 发电，发电量；发电机设备 
-    - `from generation to generation` 代代相传 
-    - `third generation` 第三代 
-    - `second generation` 第二代；改进型 
-    - `first generation` 第一代 
-    - `younger generation` 年轻一代；青年一代 
-    - `electricity generation` 发电 
-    - `wind power generation` 风力发电 
-    - `young generation` 年轻一代 
-    - `generation mechanism` 产生机制 
-    - `generation gap` n. 代沟（两代人之间的隔阂） 
-    - `generation method` 范成法 
-    - `gas generation` 煤气化；气体的产生；气体发生 
-    - `heat generation` 热发生；生热性 
-    - `code generation` 代码生成 
-    - `electric power generation` 发电 
-    - `current generation` 当代；当前阶段 
-    - `energy generation` 能源产生；能量成生 
-    - `second harmonic generation` 倍频效应；二次谐波发生 
+    - `new generation`
+      - 新世代，新一代；新生代 
+    - `power generation`
+      - 发电，发电量；发电机设备 
+    - `from generation to generation`
+      - 代代相传 
+    - `third generation`
+      - 第三代 
+    - `second generation`
+      - 第二代；改进型 
+    - `first generation`
+      - 第一代 
+    - `younger generation`
+      - 年轻一代；青年一代 
+    - `electricity generation`
+      - 发电 
+    - `wind power generation`
+      - 风力发电 
+    - `young generation`
+      - 年轻一代 
+    - `generation mechanism`
+      - 产生机制 
+    - `generation gap`
+      - n. 代沟（两代人之间的隔阂） 
+    - `generation method`
+      - 范成法 
+    - `gas generation`
+      - 煤气化；气体的产生；气体发生 
+    - `heat generation`
+      - 热发生；生热性 
+    - `code generation`
+      - 代码生成 
+    - `electric power generation`
+      - 发电 
+    - `current generation`
+      - 当代；当前阶段 
+    - `energy generation`
+      - 能源产生；能量成生 
+    - `second harmonic generation`
+      - 倍频效应；二次谐波发生 
   - 例句
     - `Like most of my generation, I had never known a war.`
       - 和我们这一代的大多数人一样，我并没有经历过战争。

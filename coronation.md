@@ -1,13 +1,17 @@
 - coronation
   - 发音
-    - 英 `/kɒrə'neɪʃ(ə)n/`
-    - 美 `/'kɔrə'neʃən/`
+    - 英
+      - `/kɒrə'neɪʃ(ə)n/`
+    - 美
+      - `/'kɔrə'neʃən/`
   - 词义
-    - n. 加冕礼
-    - `the ceremony at which someone is officially made king or queen`
+    - n.
+      - 加冕礼
+        - `the ceremony at which someone is officially made king or queen`
   - 同根词
     - vt.
-      - `coronate` 加冕
+      - `coronate`
+        - 加冕
   - 例句
     - `When they first saw each other in royal clothing, the fine robes and shining crowns for their coronation, that was when they fell in love.`
       - 当他们第一次看到对方穿着王室的衣服——为他们的加冕礼而穿戴的精美的袍子和华丽的王冠——时，那就是他们坠入爱河的时候。

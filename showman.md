@@ -1,20 +1,28 @@
 - showman
   - 发音
-    - 英 `/'ʃəʊmən/`
-    - 美 `/'ʃomən/`
+    - 英
+      - `/'ʃəʊmən/`
+    - 美
+      - `/'ʃomən/`
   - 词义
-    - n. 戏剧制作人,玩杂耍的
+    - n.
+      - 戏剧制作人,玩杂耍的
   - 同根词
     - n.
-      - `showing` 放映；表演；陈列
-      - `showmanship` 表演技巧；吸引观众的窍门
-      - `showstopper` 因特别精彩而被掌声打断的表演
+      - `showing`
+        - 放映；表演；陈列
+      - `showmanship`
+        - 表演技巧；吸引观众的窍门
+      - `showstopper`
+        - 因特别精彩而被掌声打断的表演
     - v.
-      - `showing` 展示（show的ing形式）
+      - `showing`
+        - 展示（show的ing形式）
   - 近义词
-    - n. 玩杂耍的人；马戏团的老板；表演者
-      - `player`
-      - `entertainer`
+    - n.
+      - 玩杂耍的人；马戏团的老板；表演者
+        - `player`
+        - `entertainer`
   - 例句
     - `He is the band’s best showman.`
       - 他是这支乐队中风头最盛的人。

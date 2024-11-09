@@ -1,18 +1,24 @@
 - endocrinology
   - 发音
-    - 英 `/,endəʊkrɪ'nɒlədʒɪ/`
-    - 美 `/,ɛndokrə'nɑlədʒi/`
+    - 英
+      - `/,endəʊkrɪ'nɒlədʒɪ/`
+    - 美
+      - `/,ɛndokrə'nɑlədʒi/`
   - 词义
-    - n. 内分泌学
-    - `the branch of medical science concerned with the endocrine glands and their secretions `
+    - n.
+      - 内分泌学
+        - `the branch of medical science concerned with the endocrine glands and their secretions `
   - 同根词
     - adj.
-      - `endocrine` 内分泌的；激素的
+      - `endocrine`
+        - 内分泌的；激素的
     - n.
-      - `endocrine` 内分泌；激素；内分泌物
+      - `endocrine`
+        - 内分泌；激素；内分泌物
   - 近义词
-    - n. [生理]内分泌学；内分泌科
-      - `hormonology`
+    - n.
+      - [生理]内分泌学；内分泌科
+        - `hormonology`
   - 例句
     - `These findings shocked the endocrinology community and set off a new wave of research.`
       - 这些研究结果轰动内分泌学界，引起新一波研究热潮。

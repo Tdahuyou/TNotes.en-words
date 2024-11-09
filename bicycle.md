@@ -1,30 +1,45 @@
 - bicycle
   - 发音
-    - 英 `/'baɪsɪkl/`
-    - 美 `/'baɪsɪkl/`
+    - 英
+      - `/'baɪsɪkl/`
+    - 美
+      - `/'baɪsɪkl/`
   - 词义
-    - n. 脚踏车,自行车
-    - `a vehicle with two wheels that you ride by pushing its  pedal s  with your feet`
+    - n.
+      - 脚踏车,自行车
+        - `a vehicle with two wheels that you ride by pushing its  pedal s  with your feet`
   - 同根词
     - n.
-      - `bicycling` 骑车
-      - `bicyclist` 骑脚踏车者
-      - `bicycler` 骑单车的人
+      - `bicycling`
+        - 骑车
+      - `bicyclist`
+        - 骑脚踏车者
+      - `bicycler`
+        - 骑单车的人
     - v.
-      - `bicycling` 骑自行车（bicycling的现在分词）
+      - `bicycling`
+        - 骑自行车（bicycling的现在分词）
   - 近义词
-    - n. [车辆]自行车
-      - `bike`
-      - `cycle`
-      - `pushbike`
+    - n.
+      - [车辆]自行车
+        - `bike`
+        - `cycle`
+        - `pushbike`
   - 短语
-    - `electric bicycle` 电动自行车 
-    - `by bicycle` 骑脚踏车 
-    - `bicycle frame` 车架，自行车架 
-    - `bicycle pump` n. 气汞；自行车打气筒 
-    - `racing bicycle` 赛车；竞赛用自行车 
-    - `bicycle race` 自行车竞赛 
-    - `bicycle tire` 自行车轮胎 
+    - `electric bicycle`
+      - 电动自行车 
+    - `by bicycle`
+      - 骑脚踏车 
+    - `bicycle frame`
+      - 车架，自行车架 
+    - `bicycle pump`
+      - n. 气汞；自行车打气筒 
+    - `racing bicycle`
+      - 赛车；竞赛用自行车 
+    - `bicycle race`
+      - 自行车竞赛 
+    - `bicycle tire`
+      - 自行车轮胎 
   - 例句
     - `Can James ride a bicycle yet?`
       - 詹姆斯会骑自行车了吗？

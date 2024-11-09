@@ -1,25 +1,39 @@
 - neurotransmitter
   - 发音
-    - 英 `/,njʊərəʊtrænz'mɪtə/`
-    - 美 `/'nʊrotrænzmɪtɚ/`
+    - 英
+      - `/,njʊərəʊtrænz'mɪtə/`
+    - 美
+      - `/'nʊrotrænzmɪtɚ/`
   - 词义
-    - n. [生化]神经传递素
-    - `a chemical by which a nerve cell communicates with another nerve cell or with a muscle `
+    - n.
+      - [生化]神经传递素
+        - `a chemical by which a nerve cell communicates with another nerve cell or with a muscle `
   - 同根词
     - adj.
-      - `neurotic` 神经过敏的；神经病的
-      - `neurotoxic` 毒害神经的
-      - `neurotropic` [生物] 亲神经的；[生物] 嗜神经组织的
+      - `neurotic`
+        - 神经过敏的；神经病的
+      - `neurotoxic`
+        - 毒害神经的
+      - `neurotropic`
+        - [生物] 亲神经的；[生物] 嗜神经组织的
     - adv.
-      - `neurotically` 神经质地；神经过敏地
+      - `neurotically`
+        - 神经质地；神经过敏地
     - n.
-      - `neurotic` 神经病患者；神经过敏者
-      - `neurosis` [心理] 神经症；神经衰弱症
-      - `neuroticism` 神经质，[心理] 神经过敏症
-      - `neurosurgeon` 神经外科医生
-      - `neurosurgery` [外科] 神经外科
-      - `neurosyphilis` [性病] 神经梅毒
-      - `neurotoxin` [生化] 神经毒素
+      - `neurotic`
+        - 神经病患者；神经过敏者
+      - `neurosis`
+        - [心理] 神经症；神经衰弱症
+      - `neuroticism`
+        - 神经质，[心理] 神经过敏症
+      - `neurosurgeon`
+        - 神经外科医生
+      - `neurosurgery`
+        - [外科] 神经外科
+      - `neurosyphilis`
+        - [性病] 神经梅毒
+      - `neurotoxin`
+        - [生化] 神经毒素
   - 例句
     - `All drugs of abuse stimulate the release of the neurotransmitter dopamine.`
       - 所有的药物滥用都刺激了神经递质多巴胺的释放。

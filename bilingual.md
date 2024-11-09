@@ -1,18 +1,26 @@
 - bilingual
   - 发音
-    - 英 `/baɪ'lɪŋgw(ə)l/`
-    - 美 `/'baɪ'lɪŋgwəl/`
+    - 英
+      - `/baɪ'lɪŋgw(ə)l/`
+    - 美
+      - `/'baɪ'lɪŋgwəl/`
   - 词义
-    - adj. 能说两种语言的
-    - `written or spoken in two languages`
+    - adj.
+      - 能说两种语言的
+        - `written or spoken in two languages`
   - 同根词
     - n.
-      - `bilingualism` 能用两种语言
+      - `bilingualism`
+        - 能用两种语言
   - 短语
-    - `bilingual teaching` 双语教学 
-    - `bilingual education` n. 双语教育 
-    - `bilingual dictionary` 双语词典；双语对照词典 
-    - `bilingual edition` 双语版 
+    - `bilingual teaching`
+      - 双语教学 
+    - `bilingual education`
+      - n. 双语教育 
+    - `bilingual dictionary`
+      - 双语词典；双语对照词典 
+    - `bilingual edition`
+      - 双语版 
   - 例句
     - `a bilingual dictionary`
       - 双语词典

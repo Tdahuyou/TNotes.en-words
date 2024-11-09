@@ -1,54 +1,88 @@
 - synchronous
   - 发音
-    - 英 `/'siŋkrənəs/`
-    - 美 `/'sɪŋkrənəs/`
+    - 英
+      - `/'siŋkrənəs/`
+    - 美
+      - `/'sɪŋkrənəs/`
   - 词义
-    - adj. 同时的
-    - `if two or more things are synchronous, they happen at the same time or work at the same speed`
+    - adj.
+      - 同时的
+        - `if two or more things are synchronous, they happen at the same time or work at the same speed`
   - 记忆
     - syn (相同的) + chron (时间) + ous (…的) → 相同时间的 → 同时的
   - 同根词
     - adj.
-      - `synchronized` 同步的；同步化的
-      - `synchronised` 同步的
-      - `synchronizing` 同步的
+      - `synchronized`
+        - 同步的；同步化的
+      - `synchronised`
+        - 同步的
+      - `synchronizing`
+        - 同步的
     - adv.
-      - `synchronously` 同步地；同时地
+      - `synchronously`
+        - 同步地；同时地
     - n.
-      - `synchronization` [物] 同步；同时性
-      - `synchrony` 同步
-      - `synchrotron` [核] 同步加速器；同步回旋加速器
-      - `synchronism` 同时发生，同步性；对照性历史年谱
-      - `synchroniser` 同合器；同步器
-      - `synchronizer` [电] 同步装置；同步闪光装置
-      - `synchronoscope` 同步指示器；同步示波器；同期表；同步表
-      - `synchroscope` 同步检定器；[电子] 同步示波器
+      - `synchronization`
+        - [物] 同步；同时性
+      - `synchrony`
+        - 同步
+      - `synchrotron`
+        - [核] 同步加速器；同步回旋加速器
+      - `synchronism`
+        - 同时发生，同步性；对照性历史年谱
+      - `synchroniser`
+        - 同合器；同步器
+      - `synchronizer`
+        - [电] 同步装置；同步闪光装置
+      - `synchronoscope`
+        - 同步指示器；同步示波器；同期表；同步表
+      - `synchroscope`
+        - 同步检定器；[电子] 同步示波器
     - v.
-      - `synchronized` 使协调（synchronize的过去分词）；同时发生；校准
-      - `synchronised` 使同时（synchronise的过去式和过去分词）
-      - `synchronizing` 同步，整步（synchronize的ing形式）
+      - `synchronized`
+        - 使协调（synchronize的过去分词）；同时发生；校准
+      - `synchronised`
+        - 使同时（synchronise的过去式和过去分词）
+      - `synchronizing`
+        - 同步，整步（synchronize的ing形式）
     - vi.
-      - `synchronize` 同步；同时发生
-      - `synchronise` 同步；同时发生
+      - `synchronize`
+        - 同步；同时发生
+      - `synchronise`
+        - 同步；同时发生
     - vt.
-      - `synchronize` 使……合拍；使……同步
-      - `synchronise` 使同步；使同时发生（等于synchronize）
+      - `synchronize`
+        - 使……合拍；使……同步
+      - `synchronise`
+        - 使同步；使同时发生（等于synchronize）
   - 近义词
-    - adj. [物]同步的；同时的
-      - `simultaneous`
-      - `coinstantaneous`
+    - adj.
+      - [物]同步的；同时的
+        - `simultaneous`
+        - `coinstantaneous`
   - 短语
-    - `synchronous motor` [化]同步电动机 
-    - `synchronous generator` 同步发电机 
-    - `synchronous machine` 同步机 
-    - `synchronous belt` 同步带；同步驱动皮带 
-    - `synchronous operation` 同步运行；同步操作；同步作业 
-    - `synchronous communication` 同步通信；同步传输 
-    - `synchronous speed` 同步转速；同步速度 
-    - `synchronous transmission` 同步传输 
-    - `synchronous rectifier` 同步整流器 
-    - `synchronous code` 同步码 
-    - `synchronous reactance` 同步电抗 
+    - `synchronous motor`
+      - [化]同步电动机 
+    - `synchronous generator`
+      - 同步发电机 
+    - `synchronous machine`
+      - 同步机 
+    - `synchronous belt`
+      - 同步带；同步驱动皮带 
+    - `synchronous operation`
+      - 同步运行；同步操作；同步作业 
+    - `synchronous communication`
+      - 同步通信；同步传输 
+    - `synchronous speed`
+      - 同步转速；同步速度 
+    - `synchronous transmission`
+      - 同步传输 
+    - `synchronous rectifier`
+      - 同步整流器 
+    - `synchronous code`
+      - 同步码 
+    - `synchronous reactance`
+      - 同步电抗 
   - 例句
     - `Transitions within states should normally be synchronous, since there is no change of owner.`
       - 状态间的转换通常应该是同步的，因为所有者没有改变。

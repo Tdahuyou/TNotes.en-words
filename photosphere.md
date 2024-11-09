@@ -1,10 +1,13 @@
 - photosphere
   - 发音
-    - 英 `/'fəʊtəsfɪə/`
-    - 美 `/'fotə,sfɪr/`
+    - 英
+      - `/'fəʊtəsfɪə/`
+    - 美
+      - `/'fotə,sfɪr/`
   - 词义
-    - n. 光球
-    - `the visible surface of the sun, several hundred kilometres thick `
+    - n.
+      - 光球
+        - `the visible surface of the sun, several hundred kilometres thick `
   - 例句
     - `The photosphere is the lowest layer of the sun's atmosphere, and emits the light we see.`
       - 光球是太阳大气的最底层，我们看到的光线就是从它发出的。

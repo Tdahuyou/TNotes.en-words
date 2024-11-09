@@ -1,33 +1,44 @@
 - bait
   - 发音
-    - 英 `/beɪt/`
-    - 美 `/bet/`
+    - 英
+      - `/beɪt/`
+    - 美
+      - `/bet/`
   - 词义
-    - n. 鱼饵，诱饵
-    - `food used to attract fish, animals, or birds so that you can catch them`
-    - vt. 下诱饵；激怒
-    - `If you bait a hook or trap, you put bait on it or in it`
+    - n.
+      - 鱼饵，诱饵
+        - `food used to attract fish, animals, or birds so that you can catch them`
+    - vt.
+      - 下诱饵；激怒
+        - `If you bait a hook or trap, you put bait on it or in it`
   - 记忆
     - 等(wait)鱼吃饵(bait)
   - 同根词
     - n.
-      - `baiting` 诱饵
+      - `baiting`
+        - 诱饵
     - v.
-      - `baiting` 诱惑（bait的ing形式）
+      - `baiting`
+        - 诱惑（bait的ing形式）
   - 近义词
-    - vt. 引诱；在…中放诱饵；折磨
-      - `harry`
-      - `worry`
-      - `trouble`
-      - `tear`
-      - `induce`
-    - n. 饵；诱饵
-      - `gentle`
-      - `lure`
+    - vt.
+      - 引诱；在…中放诱饵；折磨
+        - `harry`
+        - `worry`
+        - `trouble`
+        - `tear`
+        - `induce`
+    - n.
+      - 饵；诱饵
+        - `gentle`
+        - `lure`
   - 短语
-    - `cut bait` [美国俚语]中止；停止 
-    - `live bait` 活诱饵 
-    - `rise to the bait` 入圈套；上当受骗 
+    - `cut bait`
+      - [美国俚语]中止；停止 
+    - `live bait`
+      - 活诱饵 
+    - `rise to the bait`
+      - 入圈套；上当受骗 
   - 例句
     - `We used worms as bait.`
       - 我们用小虫子作诱饵。

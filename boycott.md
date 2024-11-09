@@ -1,10 +1,13 @@
 - boycott
   - 发音
-    - 英 `/'bɔɪkɑːt/`
-    - 美 `/'bɔɪkɑt/`
+    - 英
+      - `/'bɔɪkɑːt/`
+    - 美
+      - `/'bɔɪkɑt/`
   - 词义
-    - vt. 联合抵制，拒绝购买
-    - `to refuse to buy something, use something, or take part in something as a way of protesting`
+    - vt.
+      - 联合抵制，拒绝购买
+        - `to refuse to buy something, use something, or take part in something as a way of protesting`
   - 记忆
     - boy(男孩) + cott(看做cut， 剃) → 男孩们剃头以示抗议 → 联合抵制
   - 例句

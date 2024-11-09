@@ -1,10 +1,13 @@
 - overqualified
   - 发音
-    - 英 `/ˌəuvə'kwɔlifaid/`
-    - 美 `/,ovɚ'kwɔlɪfaɪd/`
+    - 英
+      - `/ˌəuvə'kwɔlifaid/`
+    - 美
+      - `/,ovɚ'kwɔlɪfaɪd/`
   - 词义
-    - adj. 资历过高的
-    - `if you are overqualified for a particular job, you have more experience or training than is needed`
+    - adj.
+      - 资历过高的
+        - `if you are overqualified for a particular job, you have more experience or training than is needed`
   - 记忆
     - over(过度) + qualified(有资格的) → 资历过高的
   - 例句

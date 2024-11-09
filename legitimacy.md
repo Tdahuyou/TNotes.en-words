@@ -1,26 +1,38 @@
 - legitimacy
   - 发音
-    - 英 `/lɪ'dʒɪtɪməsi/`
-    - 美 `/lɪ'dʒɪtəməsi/`
+    - 英
+      - `/lɪ'dʒɪtɪməsi/`
+    - 美
+      - `/lɪ'dʒɪtəməsi/`
   - 词义
-    - n. 合法性；正统性
+    - n.
+      - 合法性；正统性
   - 同根词
     - adj.
-      - `legitimate` 合法的；正当的；合理的；正统的
-      - `legitimatize` 合法的；正当的
+      - `legitimate`
+        - 合法的；正当的；合理的；正统的
+      - `legitimatize`
+        - 合法的；正当的
     - adv.
-      - `legitimately` 合理地；正当地
+      - `legitimately`
+        - 合理地；正当地
     - n.
-      - `legitimation` 合法化；承认为嫡出
+      - `legitimation`
+        - 合法化；承认为嫡出
     - vt.
-      - `legitimate` 使合法；认为正当（等于legitimize）
-      - `legitimize` 使…合法；立为嫡嗣
-      - `legitimise` 使合法化（等于legitimize）
-      - `legitimatize` 使合法化（等于legitimize）
+      - `legitimate`
+        - 使合法；认为正当（等于legitimize）
+      - `legitimize`
+        - 使…合法；立为嫡嗣
+      - `legitimise`
+        - 使合法化（等于legitimize）
+      - `legitimatize`
+        - 使合法化（等于legitimize）
   - 近义词
-    - n. 合法；合理；正统
-      - `legality`
-      - `reasonableness`
+    - n.
+      - 合法；合理；正统
+        - `legality`
+        - `reasonableness`
   - 例句
     - `He continues to cite the article as evidence of his legitimacy.`
       - 他不断引用该文章作为自己研究合法性的证据。

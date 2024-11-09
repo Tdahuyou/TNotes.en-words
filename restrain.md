@@ -1,28 +1,38 @@
 - restrain
   - 发音
-    - 英 `/rɪ'streɪn/`
-    - 美 `/rɪ'stren/`
+    - 英
+      - `/rɪ'streɪn/`
+    - 美
+      - `/rɪ'stren/`
   - 词义
-    - v. 抑制,制止
-    - `to stop someone from doing something, often by using physical force`
+    - v.
+      - 抑制,制止
+        - `to stop someone from doing something, often by using physical force`
   - 同根词
     - adj.
-      - `restrained` 克制的，受限制的；拘谨的
+      - `restrained`
+        - 克制的，受限制的；拘谨的
     - n.
-      - `restraint` 抑制，克制；约束
-      - `restrainer` [摄] 抑制剂（尤指摄影中用的溴化钾等）；限制器；控制者
+      - `restraint`
+        - 抑制，克制；约束
+      - `restrainer`
+        - [摄] 抑制剂（尤指摄影中用的溴化钾等）；限制器；控制者
     - v.
-      - `restrained` 抑制；约束（restrain的过去分词）
+      - `restrained`
+        - 抑制；约束（restrain的过去分词）
   - 近义词
-    - vt. 抑制，控制；约束；制止
-      - `possess`
-      - `regulate`
-      - `contain`
-      - `manage`
-      - `bottle`
+    - vt.
+      - 抑制，控制；约束；制止
+        - `possess`
+        - `regulate`
+        - `contain`
+        - `manage`
+        - `bottle`
   - 短语
-    - `restrain oneself` 自制，约束自己 
-    - `restrain from` v. 抑制；制止；阻止…去… 
+    - `restrain oneself`
+      - 自制，约束自己 
+    - `restrain from`
+      - v. 抑制；制止；阻止…去… 
   - 例句
     - `Renwick restrained a feeling of annoyance.`
       - 伦威克忍住了不悦的情绪。

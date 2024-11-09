@@ -1,15 +1,20 @@
 - someone
   - 发音
-    - 英 `/'sʌmwʌn/`
-    - 美 `/'sʌmwʌn/`
+    - 英
+      - `/'sʌmwʌn/`
+    - 美
+      - `/'sʌmwʌn/`
   - 词义
-    - pron. 某人；有人
-    - `used to mean a person, when you do not know or do not say who the person is`
+    - pron.
+      - 某人；有人
+        - `used to mean a person, when you do not know or do not say who the person is`
   - 同根词
     - n.
-      - `somebody` 大人物；重要人物
+      - `somebody`
+        - 大人物；重要人物
     - pron.
-      - `somebody` 有人；某人
+      - `somebody`
+        - 有人；某人
   - 例句
     - `What would you do if someone tried to rob you in the street?`
       - 要是有人在街上抢劫你，你会怎么办？

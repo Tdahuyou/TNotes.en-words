@@ -1,33 +1,49 @@
 - correctly
   - 发音
-    - 英 `/kə'rek(t)lɪ/`
-    - 美 `/kə'rɛktli/`
+    - 英
+      - `/kə'rek(t)lɪ/`
+    - 美
+      - `/kə'rɛktli/`
   - 词义
-    - adv. 正确地，恰当地
-    - `having no mistakes`
+    - adv.
+      - 正确地，恰当地
+        - `having no mistakes`
   - 同根词
     - adj.
-      - `correct` 正确的；恰当的；端正的
-      - `corrective` 矫正的；惩治的
-      - `corrected` 修正的；校正的；折算的
-      - `correctional` 矫正的；修正的
-      - `correctable` 可校正的
+      - `correct`
+        - 正确的；恰当的；端正的
+      - `corrective`
+        - 矫正的；惩治的
+      - `corrected`
+        - 修正的；校正的；折算的
+      - `correctional`
+        - 矫正的；修正的
+      - `correctable`
+        - 可校正的
     - n.
-      - `correction` 改正，修正
-      - `corrective` 矫正物；改善法
-      - `correctness` 正确性
-      - `correctitude` 端正；得体
+      - `correction`
+        - 改正，修正
+      - `corrective`
+        - 矫正物；改善法
+      - `correctness`
+        - 正确性
+      - `correctitude`
+        - 端正；得体
     - v.
-      - `corrected` 纠正；改正（correct的过去分词）；制止
+      - `corrected`
+        - 纠正；改正（correct的过去分词）；制止
     - vi.
-      - `correct` 调整；纠正错误
+      - `correct`
+        - 调整；纠正错误
     - vt.
-      - `correct` 改正；告诫
+      - `correct`
+        - 改正；告诫
   - 近义词
-    - adv. 正确地；得体地
-      - `properly`
-      - `exactly`
-      - `right`
+    - adv.
+      - 正确地；得体地
+        - `properly`
+        - `exactly`
+        - `right`
   - 例句
     - `The writer expresses himself correctly in English.`
       - 作家用英语正确地表达自己的意思。

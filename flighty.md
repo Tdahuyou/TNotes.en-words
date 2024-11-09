@@ -1,14 +1,19 @@
 - flighty
   - 发音
-    - 英 `/'flaɪtɪ/`
-    - 美 `/'flaiti/`
+    - 英
+      - `/'flaɪtɪ/`
+    - 美
+      - `/'flaiti/`
   - 词义
-    - adj. 轻浮的；轻狂的；心情浮动的
-    - `a woman who is flighty changes her ideas and opinions often, and only remains interested in people or things for a short time`
+    - adj.
+      - 轻浮的；轻狂的；心情浮动的
+        - `a woman who is flighty changes her ideas and opinions often, and only remains interested in people or things for a short time`
   - 同根词
     - n.
-      - `flightiness` 疯狂；轻浮
+      - `flightiness`
+        - 疯狂；轻浮
   - 近义词
-    - adj. 轻浮的；轻狂的；心情浮动的
-      - `flirty`
-      - `light-minded`
+    - adj.
+      - 轻浮的；轻狂的；心情浮动的
+        - `flirty`
+        - `light-minded`

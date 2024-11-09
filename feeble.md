@@ -1,24 +1,31 @@
 - feeble
   - 发音
-    - 英 `/'fiːbl/`
-    - 美 `/'fibl/`
+    - 英
+      - `/'fiːbl/`
+    - 美
+      - `/'fibl/`
   - 词义
-    - adj. 虚弱的，衰弱的，无力的
-    - `extremely weak`
+    - adj.
+      - 虚弱的，衰弱的，无力的
+        - `extremely weak`
   - 记忆
     - fee(费用) + ble → 需要花钱看病 → 虚弱的
   - 同根词
     - adj.
-      - `feebleminded` 低能的；意志薄弱的；精神薄弱的
+      - `feebleminded`
+        - 低能的；意志薄弱的；精神薄弱的
     - adv.
-      - `feebly` 无力地；微弱地；柔弱地
+      - `feebly`
+        - 无力地；微弱地；柔弱地
     - n.
-      - `feebleness` 微弱；虚弱
+      - `feebleness`
+        - 微弱；虚弱
   - 近义词
-    - adj. 微弱的，无力的；虚弱的；薄弱的
-      - `weak`
-      - `small`
-      - `thin`
+    - adj.
+      - 微弱的，无力的；虚弱的；薄弱的
+        - `weak`
+        - `small`
+        - `thin`
   - 例句
     - `His voice sounded feeble and far away.`
       - 他的声音听上去既无力又遥远。

@@ -1,15 +1,19 @@
 - verboten
   - 发音
-    - 英 `/vəːr'bəutn/`
-    - 美 `/və:'bəutən/`
+    - 英
+      - `/vəːr'bəutn/`
+    - 美
+      - `/və:'bəutən/`
   - 词义
-    - adj. 禁止的，严禁的
-    - `forbidden; prohibited `
+    - adj.
+      - 禁止的，严禁的
+        - `forbidden; prohibited `
   - 近义词
-    - adj. 禁止的
-      - `inhibitory`
-      - `interdit`
-      - `off-limit`
+    - adj.
+      - 禁止的
+        - `inhibitory`
+        - `interdit`
+        - `off-limit`
   - 例句
     - `In sharp contrast to Waikiki's kitsch, tourism is quite verboten, and the island is only accessible via pricey, private helicopter tours.`
       - 与威基基的媚俗形成鲜明对比的是，在这儿，旅游业是被禁止的，想到岛上游览，只有通过昂贵的私人直升机才行。

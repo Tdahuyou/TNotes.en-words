@@ -1,25 +1,33 @@
 - overwhelming
   - 发音
-    - 英 `/ˌəuvə'welmiŋ/`
-    - 美 `/,ovɚ'wɛlmɪŋ/`
+    - 英
+      - `/ˌəuvə'welmiŋ/`
+    - 美
+      - `/,ovɚ'wɛlmɪŋ/`
   - 词义
-    - adj. 势不可挡的，压倒的
-    - `very large or greater, more important etc than any other`
+    - adj.
+      - 势不可挡的，压倒的
+        - `very large or greater, more important etc than any other`
   - 记忆
     - 来自overwhelm (v. 压倒)
   - 同根词
     - adv.
-      - `overwhelmingly` 压倒性地；不可抵抗地
+      - `overwhelmingly`
+        - 压倒性地；不可抵抗地
     - vt.
-      - `overwhelm` 压倒；淹没；受打击
+      - `overwhelm`
+        - 压倒；淹没；受打击
   - 近义词
-    - adj. 压倒性的；势不可挡的
-      - `inundatory`
-      - `preponderant`
-    - v. 压倒；淹没（overwhelm的ing形式）；制服
-      - `drowning`
+    - adj.
+      - 压倒性的；势不可挡的
+        - `inundatory`
+        - `preponderant`
+    - v.
+      - 压倒；淹没（overwhelm的ing形式）；制服
+        - `drowning`
   - 短语
-    - `overwhelming superiority` 绝对优势 
+    - `overwhelming superiority`
+      - 绝对优势 
   - 例句
     - `There is overwhelming evidence that smoking damages your health.`
       - 有难以辩驳的证据表明吸烟有损健康。

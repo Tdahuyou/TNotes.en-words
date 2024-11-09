@@ -1,19 +1,25 @@
 - caffeine
   - 发音
-    - 英 `/'kæfiːn/`
-    - 美 `/'kæfin/`
+    - 英
+      - `/'kæfiːn/`
+    - 美
+      - `/'kæfin/`
   - 词义
-    - n. [有化][药]咖啡因；茶精（兴奋剂）
-    - `a substance in tea, coffee, and some other drinks that makes you feel more active`
+    - n.
+      - [有化][药]咖啡因；茶精（兴奋剂）
+        - `a substance in tea, coffee, and some other drinks that makes you feel more active`
   - 同根词
     - adj.
-      - `caffeinic` 咖啡酸的
+      - `caffeinic`
+        - 咖啡酸的
     - n.
-      - `caffeinism` 慢性咖啡中毒，[内科] 咖啡碱中毒
+      - `caffeinism`
+        - 慢性咖啡中毒，[内科] 咖啡碱中毒
   - 近义词
-    - n. [药][有化]咖啡因；茶精（兴奋剂）
-      - `coffeine`
-      - `thein`
+    - n.
+      - [药][有化]咖啡因；茶精（兴奋剂）
+        - `coffeine`
+        - `thein`
   - 例句
     - `Avoid caffeine (= drinks with caffeine ) before bedtime.`
       - 睡觉前不要喝含有咖啡因的饮料。

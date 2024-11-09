@@ -1,15 +1,20 @@
 - hackle
   - 发音
-    - 英 `/'hæk(ə)l/`
-    - 美 `/undefined/`
+    - 英
+      - `/'hæk(ə)l/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 针排；颈羽；手工梳麻台
-    - `any of the long slender feathers on the necks of poultry and other birds `
-    - v. 梳理；乱砍
-    - `to comb (flax) using a hackle `
+    - n.
+      - 针排；颈羽；手工梳麻台
+        - `any of the long slender feathers on the necks of poultry and other birds `
+    - v.
+      - 梳理；乱砍
+        - `to comb (flax) using a hackle `
   - 近义词
-    - vt. 梳理；乱砍
-      - `cut and carve`
+    - vt.
+      - 梳理；乱砍
+        - `cut and carve`
   - 例句
     - `So this article wants to hand out with ambiguities in this poem, hackle emotional skeleton and idealistic patriotism, show the special value of it.`
       - 所以本文试图从梳理诗中歧义入手，理清诗人的情感脉络及爱国思想特质，展示此诗独特的价值。

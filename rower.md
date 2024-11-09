@@ -1,12 +1,16 @@
 - rower
   - 发音
-    - 英 `/undefined/`
-    - 美 `/'roɚ/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/'roɚ/`
   - 词义
-    - n. 桨手
+    - n.
+      - 桨手
   - 近义词
-    - n. 桨手
-      - `oar`
+    - n.
+      - 桨手
+        - `oar`
   - 例句
     - `So the American company fired the rower.`
       - 因此，美国公司解雇了划桨员。

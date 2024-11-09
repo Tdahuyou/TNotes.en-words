@@ -1,25 +1,35 @@
 - recognise
   - 发音
-    - 英 `/'rekəgnaɪz/`
-    - 美 `/undefined/`
+    - 英
+      - `/'rekəgnaɪz/`
+    - 美
+      - `/undefined/`
   - 词义
-    - vt. 认出，识别；承认
+    - vt.
+      - 认出，识别；承认
   - 同根词
     - adj.
-      - `recognised` 认可的
-      - `recognizable` 可辨认的；可认识的；可承认的
+      - `recognised`
+        - 认可的
+      - `recognizable`
+        - 可辨认的；可认识的；可承认的
     - n.
-      - `recognition` 识别；承认，认出；重视；赞誉；公认
+      - `recognition`
+        - 识别；承认，认出；重视；赞誉；公认
     - v.
-      - `recognised` 承认；认出；辨别（recognise的过去分词）
+      - `recognised`
+        - 承认；认出；辨别（recognise的过去分词）
     - vi.
-      - `recognize` 确认，承认；具结
+      - `recognize`
+        - 确认，承认；具结
     - vt.
-      - `recognize` 认出，识别；承认
+      - `recognize`
+        - 认出，识别；承认
   - 近义词
-    - vt. 承认，认可；识别
-      - `accept`
-      - `agree`
-      - `allow`
-      - `identify`
-      - `acknowledge`
+    - vt.
+      - 承认，认可；识别
+        - `accept`
+        - `agree`
+        - `allow`
+        - `identify`
+        - `acknowledge`

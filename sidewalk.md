@@ -1,21 +1,28 @@
 - sidewalk
   - 发音
-    - 英 `/'saɪdwɔːk/`
-    - 美 `/'saɪdwɔk/`
+    - 英
+      - `/'saɪdwɔːk/`
+    - 美
+      - `/'saɪdwɔk/`
   - 词义
-    - n. 人行道
-    - `a hard surface or path at the side of a street for people to walk on`
+    - n.
+      - 人行道
+        - `a hard surface or path at the side of a street for people to walk on`
   - 同根词
     - adj.
-      - `sideway` 旁边的；向侧面的（等于sideways）
+      - `sideway`
+        - 旁边的；向侧面的（等于sideways）
     - adv.
-      - `sideway` 斜地里
+      - `sideway`
+        - 斜地里
     - n.
-      - `sideway` 人行道；小巷
+      - `sideway`
+        - 人行道；小巷
   - 近义词
-    - n. [交]人行道
-      - `pavement`
-      - `footpath`
+    - n.
+      - [交]人行道
+        - `pavement`
+        - `footpath`
   - 例句
     - `She walked along the sidewalk.`
       - 她沿着人行道走着。

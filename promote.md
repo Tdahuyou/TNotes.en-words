@@ -1,31 +1,43 @@
 - promote
   - 发音
-    - 英 `/prə'mout/`
-    - 美 `/prə'mot/`
+    - 英
+      - `/prə'mout/`
+    - 美
+      - `/prə'mot/`
   - 词义
-    - vt. 促进；提升；宣传，推销
-    - `If people promote something, they help or encourage it to happen, increase, or spread`
+    - vt.
+      - 促进；提升；宣传，推销
+        - `If people promote something, they help or encourage it to happen, increase, or spread`
   - 记忆
     - pro(向前) + mot(动) + e → 向前动 → 促进
   - 同根词
     - adj.
-      - `promotional` 促销的；增进的；奖励的
-      - `promotive` 奖励的；增进的；助长的
+      - `promotional`
+        - 促销的；增进的；奖励的
+      - `promotive`
+        - 奖励的；增进的；助长的
     - n.
-      - `promotion` 提升，[劳经] 晋升；推销，促销；促进；发扬，振兴
-      - `promoter` 发起人；促进者；助长者
+      - `promotion`
+        - 提升，[劳经] 晋升；推销，促销；促进；发扬，振兴
+      - `promoter`
+        - 发起人；促进者；助长者
   - 近义词
-    - vt. 促进；提升；推销；发扬
-      - `facilitate`
-      - `boost`
-      - `prefer`
-      - `upgrade`
-      - `further`
+    - vt.
+      - 促进；提升；推销；发扬
+        - `facilitate`
+        - `boost`
+        - `prefer`
+        - `upgrade`
+        - `further`
   - 短语
-    - `promote sales` 促销；推销商品 
-    - `promote reform` 促进改革 
-    - `promote cooperation` 促进合作 
-    - `promote the sale` 促销推销 
+    - `promote sales`
+      - 促销；推销商品 
+    - `promote reform`
+      - 促进改革 
+    - `promote cooperation`
+      - 促进合作 
+    - `promote the sale`
+      - 促销推销 
   - 例句
     - `You don't have to sacrifice environmental protection to promote economic growth.`
       - 你们没有必要牺牲环保来促进经济增长。

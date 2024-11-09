@@ -1,14 +1,18 @@
 - skylight
   - 发音
-    - 英 `/'skaɪlaɪt/`
-    - 美 `/'skaɪ'laɪt/`
+    - 英
+      - `/'skaɪlaɪt/`
+    - 美
+      - `/'skaɪ'laɪt/`
   - 词义
-    - n. 天窗
-    - `a window in the roof of a building`
+    - n.
+      - 天窗
+        - `a window in the roof of a building`
   - 近义词
-    - n. [建]天窗
-      - `clerestory`
-      - `louver`
+    - n.
+      - [建]天窗
+        - `clerestory`
+        - `louver`
   - 例句
     - `The very tall ceilings in the Master Bedroom allow for beautiful art display with perfect lighting with the skylight above.`
       - 主卧室非常挑高的天花板让上方的天窗为美丽的艺术展示提供了完美的照明。

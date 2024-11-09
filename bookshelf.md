@@ -1,10 +1,13 @@
 - bookshelf
   - 发音
-    - 英 `/'bʊkʃelf/`
-    - 美 `/ˈbʊkʃɛlf/`
+    - 英
+      - `/'bʊkʃelf/`
+    - 美
+      - `/ˈbʊkʃɛlf/`
   - 词义
-    - n. 书架
-    - `a shelf that you keep books on, or a piece of furniture used for holding books`
+    - n.
+      - 书架
+        - `a shelf that you keep books on, or a piece of furniture used for holding books`
   - 例句
     - `She dusted all the books on the bookshelf.`
       - 她把书架上所有书上的灰尘都掸干净。

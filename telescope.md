@@ -1,36 +1,52 @@
 - telescope
   - 发音
-    - 英 `/'telɪskoup/`
-    - 美 `/'tɛləˌskop/`
+    - 英
+      - `/'telɪskoup/`
+    - 美
+      - `/'tɛləˌskop/`
   - 词义
-    - n. 望远镜
-    - `a piece of equipment shaped like a tube, used for making distant objects look larger and closer`
+    - n.
+      - 望远镜
+        - `a piece of equipment shaped like a tube, used for making distant objects look larger and closer`
   - 记忆
     - tele(远) + scop(看) + e → 往远处看所借助的工具 → 望远镜
   - 同根词
     - adj.
-      - `telescopic` 望远镜的；[眼科] 远视的；套管式伸缩的；眼力好的；有先见之明的
-      - `telescoped` 窜边的，错开的
+      - `telescopic`
+        - 望远镜的；[眼科] 远视的；套管式伸缩的；眼力好的；有先见之明的
+      - `telescoped`
+        - 窜边的，错开的
     - adv.
-      - `telescopically` 伸缩地；望远镜地
+      - `telescopically`
+        - 伸缩地；望远镜地
     - n.
-      - `telescopy` 望远镜使用法；[光] 望远镜制造学
+      - `telescopy`
+        - 望远镜使用法；[光] 望远镜制造学
     - v.
-      - `telescoped` 缩短，压缩（telescope的过去分词形式）
+      - `telescoped`
+        - 缩短，压缩（telescope的过去分词形式）
   - 近义词
-    - vt. 压缩；使套叠
-      - `to compress`
-      - `constrict`
-    - vi. 套叠；变短
-      - `shorten`
-    - n. [光]望远镜；缩叠式旅行袋
-      - `spotting scope`
+    - vt.
+      - 压缩；使套叠
+        - `to compress`
+        - `constrict`
+    - vi.
+      - 套叠；变短
+        - `shorten`
+    - n.
+      - [光]望远镜；缩叠式旅行袋
+        - `spotting scope`
   - 短语
-    - `space telescope` 太空望远镜 
-    - `hubble space telescope` 哈勃太空望远镜 
-    - `radio telescope` 电波望远镜；无线电天文望远镜 
-    - `astronomical telescope` n. 天文望远镜（等于Kepler telescope） 
-    - `reflecting telescope` n. 反射式望远镜 
+    - `space telescope`
+      - 太空望远镜 
+    - `hubble space telescope`
+      - 哈勃太空望远镜 
+    - `radio telescope`
+      - 电波望远镜；无线电天文望远镜 
+    - `astronomical telescope`
+      - n. 天文望远镜（等于Kepler telescope） 
+    - `reflecting telescope`
+      - n. 反射式望远镜 
   - 例句
     - `What is the range of this telescope?`
       - 这架望远镜的有效距离多大?。

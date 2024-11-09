@@ -1,25 +1,32 @@
 - wealthy
   - 发音
-    - 英 `/'welθɪ/`
-    - 美 `/'wɛlθi/`
+    - 英
+      - `/'welθɪ/`
+    - 美
+      - `/'wɛlθi/`
   - 词义
-    - adj. 富有的；富裕的
-    - `having a lot of money, possessions etc`
+    - adj.
+      - 富有的；富裕的
+        - `having a lot of money, possessions etc`
   - 记忆
     - 光富有(wealthy)是不够的， 还要健康(healthy)
   - 同根词
     - adv.
-      - `wealthily` 丰富地；富有地
+      - `wealthily`
+        - 丰富地；富有地
     - n.
-      - `wealth` 财富；大量；富有
+      - `wealth`
+        - 财富；大量；富有
   - 近义词
-    - adj. 富有的；充分的；丰裕的
-      - `rich`
-      - `sufficient`
-      - `plenary`
-    - n. 富人
-      - `the rich`
-      - `haves`
+    - adj.
+      - 富有的；充分的；丰裕的
+        - `rich`
+        - `sufficient`
+        - `plenary`
+    - n.
+      - 富人
+        - `the rich`
+        - `haves`
   - 例句
     - `the wealthy nations of the world`
       - 世界上的富国

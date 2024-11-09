@@ -1,27 +1,37 @@
 - plentiful
   - 发音
-    - 英 `/'plentɪfʊl; -f(ə)l/`
-    - 美 `/'plɛntɪfəl/`
+    - 英
+      - `/'plentɪfʊl; -f(ə)l/`
+    - 美
+      - `/'plɛntɪfəl/`
   - 词义
-    - adj. 丰富的,充裕的
-    - `more than enough in quantity`
+    - adj.
+      - 丰富的,充裕的
+        - `more than enough in quantity`
   - 同根词
     - adj.
-      - `plenty` 足够的，很多的
-      - `plenteous` 丰富的；丰饶的
+      - `plenty`
+        - 足够的，很多的
+      - `plenteous`
+        - 丰富的；丰饶的
     - adv.
-      - `plenty` 足够
-      - `plentifully` 丰富地，富裕地
+      - `plenty`
+        - 足够
+      - `plentifully`
+        - 丰富地，富裕地
     - n.
-      - `plenty` 丰富，大量；充足
-      - `plenitude` 充分；丰富；大量
+      - `plenty`
+        - 丰富，大量；充足
+      - `plenitude`
+        - 充分；丰富；大量
   - 近义词
-    - adj. 丰富的；许多的；丰饶的
-      - `abundant`
-      - `numerous`
-      - `multiple`
-      - `many`
-      - `full`
+    - adj.
+      - 丰富的；许多的；丰饶的
+        - `abundant`
+        - `numerous`
+        - `multiple`
+        - `many`
+        - `full`
   - 例句
     - `a plentiful supply of food`
       - 食物的大量供应

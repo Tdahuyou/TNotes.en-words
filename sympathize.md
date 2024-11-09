@@ -1,27 +1,38 @@
 - sympathize
   - 发音
-    - 英 `/'simpəθaiz/`
-    - 美 `/'sɪmpə'θaɪz/`
+    - 英
+      - `/'simpəθaiz/`
+    - 美
+      - `/'sɪmpə'θaɪz/`
   - 词义
-    - v. 同情，怜悯；支持
-    - `to feel sorry for someone because you understand their problems`
+    - v.
+      - 同情，怜悯；支持
+        - `to feel sorry for someone because you understand their problems`
   - 同根词
     - adj.
-      - `sympathetic` 同情的；交感神经的；共鸣的；赞同的；和谐的；合意的
+      - `sympathetic`
+        - 同情的；交感神经的；共鸣的；赞同的；和谐的；合意的
     - adv.
-      - `sympathetically` 悲怜地，怜悯地；富有同情心地
+      - `sympathetically`
+        - 悲怜地，怜悯地；富有同情心地
     - n.
-      - `sympathy` 同情；慰问；赞同
-      - `sympathetic` 交感神经；容易感受的人
-      - `sympathizer` 同情者；支持者；交感患病的眼睛（等于sympathiser）
+      - `sympathy`
+        - 同情；慰问；赞同
+      - `sympathetic`
+        - 交感神经；容易感受的人
+      - `sympathizer`
+        - 同情者；支持者；交感患病的眼睛（等于sympathiser）
     - vi.
-      - `sympathise` 同情；吊唁；共鸣（等于sympathize）
+      - `sympathise`
+        - 同情；吊唁；共鸣（等于sympathize）
   - 近义词
-    - vi. 同情，怜悯；支持
-      - `support of`
-      - `feel for`
+    - vi.
+      - 同情，怜悯；支持
+        - `support of`
+        - `feel for`
   - 短语
-    - `sympathize with` 同情…；与…产生共鸣 
+    - `sympathize with`
+      - 同情…；与…产生共鸣 
   - 例句
     - `I sympathize, but I don’t know how to help.`
       - 我很同情，但不知道如何帮忙。

@@ -1,13 +1,17 @@
 - radian
   - 发音
-    - 英 `/'reɪdɪən/`
-    - 美 `/'redɪən/`
+    - 英
+      - `/'reɪdɪən/`
+    - 美
+      - `/'redɪən/`
   - 词义
-    - n. [数]弧度
-    - `an SI unit of plane angle; the angle between two radii of a circle that cut off on the circumference an arc equal in length to the radius`
+    - n.
+      - [数]弧度
+        - `an SI unit of plane angle; the angle between two radii of a circle that cut off on the circumference an arc equal in length to the radius`
   - 近义词
-    - n. [数]弧度
-      - `circular measure`
+    - n.
+      - [数]弧度
+        - `circular measure`
   - 例句
     - `CPhase(0.01, x) rotates the phase of the |1> component by one one-hundredth of a radian in the complex plane.`
       - CPhase(0.01, x) 在复平面内使 |1> 分量的相位转过了百分之一弧度。

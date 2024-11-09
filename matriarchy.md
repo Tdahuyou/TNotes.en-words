@@ -1,21 +1,30 @@
 - matriarchy
   - 发音
-    - 英 `/'meitriɑːki/`
-    - 美 `/'metrɪɑrki/`
+    - 英
+      - `/'meitriɑːki/`
+    - 美
+      - `/'metrɪɑrki/`
   - 词义
-    - n. 母权制；母系社会
-    - `a social system in which the oldest woman controls a family and its possessions`
+    - n.
+      - 母权制；母系社会
+        - `a social system in which the oldest woman controls a family and its possessions`
   - 记忆
     - matri (母亲) + archy (统治) → 母权制
   - 同根词
     - adj.
-      - `matriarchal` 母系氏族的；女家长的
-      - `matrilineal` 母系的
-      - `matrilinear` 母系的
+      - `matriarchal`
+        - 母系氏族的；女家长的
+      - `matrilineal`
+        - 母系的
+      - `matrilinear`
+        - 母系的
     - n.
-      - `matriarch` 女家长；女统治者；女负责人；受人尊敬的妇女
-      - `matriarchate` 女家长制社会；母权制时代；母系社会
-      - `matrilineage` 母系族谱，母系家族
+      - `matriarch`
+        - 女家长；女统治者；女负责人；受人尊敬的妇女
+      - `matriarchate`
+        - 女家长制社会；母权制时代；母系社会
+      - `matrilineage`
+        - 母系族谱，母系家族
   - 例句
     - `That is due to the matriarchy of its society.`
       - 那是因为他们仍然是母系社会。

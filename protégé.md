@@ -1,10 +1,13 @@
 - protégé
   - 发音
-    - 英 `/'proutəʒeɪ/`
-    - 美 `/ˈprəʊtəʒeɪ/`
+    - 英
+      - `/'proutəʒeɪ/`
+    - 美
+      - `/ˈprəʊtəʒeɪ/`
   - 词义
-    - n. 被保护人；门徒
-    - `The protégé of an older and more experienced person is a young person who is helped and guided by them over a period of time`
+    - n.
+      - 被保护人；门徒
+        - `The protégé of an older and more experienced person is a young person who is helped and guided by them over a period of time`
   - 记忆
     - 法语词， 一般两个e上都有点
   - 例句

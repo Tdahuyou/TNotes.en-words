@@ -1,9 +1,12 @@
 - Denmark
   - 发音
-    - 英 `/'denma:k/`
-    - 美 `/'denma:k/`
+    - 英
+      - `/'denma:k/`
+    - 美
+      - `/'denma:k/`
   - 词义
-    - n. 丹麦
+    - n.
+      - 丹麦
   - 例句
     - `They tried to chart the sea area between Norway and Denmark.`
       - 他们企图绘制挪威与丹麦之间的海域图。

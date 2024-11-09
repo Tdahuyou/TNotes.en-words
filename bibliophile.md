@@ -1,10 +1,13 @@
 - bibliophile
   - 发音
-    - 英 `/'bibliəufail/`
-    - 美 `/'bɪblɪəfaɪl/`
+    - 英
+      - `/'bibliəufail/`
+    - 美
+      - `/'bɪblɪəfaɪl/`
   - 词义
-    - n. 爱书者，藏书家
-    - `someone who likes books`
+    - n.
+      - 爱书者，藏书家
+        - `someone who likes books`
   - 记忆
     - biblio (书) + phil (爱) + e → 爱书者， 藏书家
   - 例句

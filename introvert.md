@@ -1,22 +1,31 @@
 - introvert
   - 发音
-    - 英 `/'intrəuvəːt/`
-    - 美 `/'ɪntrəvɝt/`
+    - 英
+      - `/'intrəuvəːt/`
+    - 美
+      - `/'ɪntrəvɝt/`
   - 词义
-    - n. 性格内向的人
-    - `someone who is quiet and shy, and does not enjoy being with other people`
-    - vt. 向内弯曲
+    - n.
+      - 性格内向的人
+        - `someone who is quiet and shy, and does not enjoy being with other people`
+    - vt.
+      - 向内弯曲
   - 记忆
     - intro (向内) + vert (转) → 向内弯曲
   - 同根词
     - adj.
-      - `introverted` 内向的
-      - `introversive` 内向的；内省的；内翻的
-      - `introvertive` 内向的，内倾的
+      - `introverted`
+        - 内向的
+      - `introversive`
+        - 内向的；内省的；内翻的
+      - `introvertive`
+        - 内向的，内倾的
     - n.
-      - `introversion` 内省性，内向性
+      - `introversion`
+        - 内省性，内向性
     - v.
-      - `introverted` 使...内向（introvert的过去分词形式）；使内翻
+      - `introverted`
+        - 使...内向（introvert的过去分词形式）；使内翻
   - 例句
     - `I sympathize with the introvert as I would with the sickly, but both are missing a lot of life.`
       - 我会像体谅体弱病残的人那样，体谅性格内向的人，但两者都失去许多人生体验。

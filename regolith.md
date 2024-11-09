@@ -1,14 +1,18 @@
 - regolith
   - 发音
-    - 英 `/'regəlɪθ/`
-    - 美 `/'rɛgə,lɪθ/`
+    - 英
+      - `/'regəlɪθ/`
+    - 美
+      - `/'rɛgə,lɪθ/`
   - 词义
-    - n. [地质]风化层,土被
-    - `the layer of loose material covering the bedrock of the earth and moon, etc, comprising soil, sand, rock fragments, volcanic ash, glacial drift, etc `
+    - n.
+      - [地质]风化层,土被
+        - `the layer of loose material covering the bedrock of the earth and moon, etc, comprising soil, sand, rock fragments, volcanic ash, glacial drift, etc `
   - 近义词
-    - n. [地质]风化层；表皮土；土被
-      - `weathered layer`
-      - `mantlerock`
+    - n.
+      - [地质]风化层；表皮土；土被
+        - `weathered layer`
+        - `mantlerock`
   - 例句
     - `Millions of megawatts (terawatts) of electric power will be generated on the Moon by solar arrays that have been constructed from lunar regolith materials.`
       - 用月球表面风化层材料制造的太阳能电池阵列的建设得到极大的普及，兆瓦级的太阳能电站星罗棋布。

@@ -1,41 +1,63 @@
 - opposition
   - 发音
-    - 英 `/ɒpə'zɪʃ(ə)n/`
-    - 美 `/'ɑpə'zɪʃən/`
+    - 英
+      - `/ɒpə'zɪʃ(ə)n/`
+    - 美
+      - `/'ɑpə'zɪʃən/`
   - 词义
-    - n. 反对,相反
-    - `strong disagreement with, or protest against, something such as a plan, law, or system`
+    - n.
+      - 反对,相反
+        - `strong disagreement with, or protest against, something such as a plan, law, or system`
   - 同根词
     - adj.
-      - `opposite` 相反的；对面的；对立的
-      - `opposed` 相反的；敌对的
-      - `opposing` 反对的；相对的；对面的
-      - `opposable` 可反对的；可相对的
-      - `oppositive` 反对的；相反的
+      - `opposite`
+        - 相反的；对面的；对立的
+      - `opposed`
+        - 相反的；敌对的
+      - `opposing`
+        - 反对的；相对的；对面的
+      - `opposable`
+        - 可反对的；可相对的
+      - `oppositive`
+        - 反对的；相反的
     - adv.
-      - `opposite` 在对面
-      - `oppositely` 反向地；在相反的位置；面对面
+      - `opposite`
+        - 在对面
+      - `oppositely`
+        - 反向地；在相反的位置；面对面
     - n.
-      - `opposite` 对立面；反义词
-      - `opposer` 反对者
+      - `opposite`
+        - 对立面；反义词
+      - `opposer`
+        - 反对者
     - prep.
-      - `opposite` 在…的对面
+      - `opposite`
+        - 在…的对面
     - v.
-      - `opposed` 反对（oppose的过去分词）；使对立
-      - `opposing` 反对（oppose的ing形式）
+      - `opposed`
+        - 反对（oppose的过去分词）；使对立
+      - `opposing`
+        - 反对（oppose的ing形式）
     - vi.
-      - `oppose` 反对
+      - `oppose`
+        - 反对
     - vt.
-      - `oppose` 反对；对抗，抗争
+      - `oppose`
+        - 反对；对抗，抗争
   - 近义词
-    - n. 反对；反对派；在野党；敌对
-      - `recusation`
-      - `objection to sth`
+    - n.
+      - 反对；反对派；在野党；敌对
+        - `recusation`
+        - `objection to sth`
   - 短语
-    - `in opposition to` 反对；与…相反 
-    - `opposition party` 反对党；在野党 
-    - `binary opposition` 二元对立；二项对立；相对关系 
-    - `leader of the opposition` 反对派领袖；反对党领导 
+    - `in opposition to`
+      - 反对；与…相反 
+    - `opposition party`
+      - 反对党；在野党 
+    - `binary opposition`
+      - 二元对立；二项对立；相对关系 
+    - `leader of the opposition`
+      - 反对派领袖；反对党领导 
   - 例句
     - `He is confident in his ability to overcome all opposition with his personal charm.`
       - 他自信有能力以个人魅力来化解一切反对力量。

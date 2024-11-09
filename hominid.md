@@ -1,23 +1,31 @@
 - hominid
   - 发音
-    - 英 `/'hɑːmɪnɪd/`
-    - 美 `/'hɑmɪnɪd/`
+    - 英
+      - `/'hɑːmɪnɪd/`
+    - 美
+      - `/'hɑmɪnɪd/`
   - 词义
-    - adj. 灵长目的
-    - n. 原始人类；人科动物
-    - `a member of a group of animals which includes human beings and also the animals from whom humans developed`
+    - adj.
+      - 灵长目的
+    - n.
+      - 原始人类；人科动物
+        - `a member of a group of animals which includes human beings and also the animals from whom humans developed`
   - 记忆
     - homi(=hom人) + nid → 原始人类； 人科动物
   - 同根词
     - adj.
-      - `homing` 回家的；自动导引的；有返回性的
+      - `homing`
+        - 回家的；自动导引的；有返回性的
     - n.
-      - `homing` 归航；动物的返回性
+      - `homing`
+        - 归航；动物的返回性
     - v.
-      - `homing` 回家（home的ing形式）
+      - `homing`
+        - 回家（home的ing形式）
   - 近义词
-    - n. 原始人类；人科动物
-      - `homonid`
+    - n.
+      - 原始人类；人科动物
+        - `homonid`
   - 例句
     - `Extinct genus of african hominid .`
       - 以灭绝的非洲原始人类。

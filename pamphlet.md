@@ -1,21 +1,27 @@
 - pamphlet
   - 发音
-    - 英 `/'pæmflət/`
-    - 美 `/ˈpæmflɪt/`
+    - 英
+      - `/'pæmflət/`
+    - 美
+      - `/ˈpæmflɪt/`
   - 词义
-    - n. 小册子
-    - `a very thin book with paper covers, that gives information about something`
+    - n.
+      - 小册子
+        - `a very thin book with paper covers, that gives information about something`
   - 记忆
     - 来自拉丁文pamphilus， 是一首爱情名诗； pam(=pan全部) + phil(爱) + us → 表达爱情
   - 同根词
     - n.
-      - `pamphleteer` 小册子作者；檄文执笔者
+      - `pamphleteer`
+        - 小册子作者；檄文执笔者
     - vi.
-      - `pamphleteer` 写小册子；评论时事
+      - `pamphleteer`
+        - 写小册子；评论时事
   - 近义词
-    - n. 小册子
-      - `booklet`
-      - `tract`
+    - n.
+      - 小册子
+        - `booklet`
+        - `tract`
   - 例句
     - `a political pamphlet`
       - 政治宣传册

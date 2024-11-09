@@ -1,26 +1,37 @@
 - spasm
   - 发音
-    - 英 `/'spæz(ə)m/`
-    - 美 `/'spæzəm/`
+    - 英
+      - `/'spæz(ə)m/`
+    - 美
+      - `/'spæzəm/`
   - 词义
-    - n. [临床]痉挛；抽搐；一阵发作
-    - `an occasion when your muscles suddenly become tight, causing you pain`
+    - n.
+      - [临床]痉挛；抽搐；一阵发作
+        - `an occasion when your muscles suddenly become tight, causing you pain`
   - 同根词
     - adj.
-      - `spasmodic` 痉挛的，痉挛性的；间歇性的
-      - `spastic` 痉挛的
+      - `spasmodic`
+        - 痉挛的，痉挛性的；间歇性的
+      - `spastic`
+        - 痉挛的
     - adv.
-      - `spasmodically` 断续性地；发作性地；痉挛性地
+      - `spasmodically`
+        - 断续性地；发作性地；痉挛性地
     - n.
-      - `spastic` 麻痹患者
-      - `spasticity` 强直状态，[临床] 痉挛状态
+      - `spastic`
+        - 麻痹患者
+      - `spasticity`
+        - 强直状态，[临床] 痉挛状态
   - 近义词
-    - n. [临床]痉挛；抽搐；一阵发作
-      - `fit`
-      - `tic`
+    - n.
+      - [临床]痉挛；抽搐；一阵发作
+        - `fit`
+        - `tic`
   - 短语
-    - `muscle spasm` 肌肉痉挛 
-    - `facial spasm` [医]面痉挛 
+    - `muscle spasm`
+      - 肌肉痉挛 
+    - `facial spasm`
+      - [医]面痉挛 
   - 例句
     - `Maggie felt a muscle spasm in her back.`
       - 玛吉觉得背部肌肉一阵抽搐。

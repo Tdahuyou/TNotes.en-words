@@ -1,32 +1,42 @@
 - contain
   - 发音
-    - 英 `/kən'teɪn/`
-    - 美 `/kən'ten/`
+    - 英
+      - `/kən'teɪn/`
+    - 美
+      - `/kən'ten/`
   - 词义
-    - vt. 包含，容纳；控制；防止…蔓延
-    - `if something such as a bag, box, or place contains something, that thing is inside it`
+    - vt.
+      - 包含，容纳；控制；防止…蔓延
+        - `if something such as a bag, box, or place contains something, that thing is inside it`
   - 记忆
     - con(共同) + tain(拿住) → 全部拿住 → 包含， 容纳
   - 同根词
     - adj.
-      - `contained` 泰然自若的，从容的；被控制的
+      - `contained`
+        - 泰然自若的，从容的；被控制的
     - n.
-      - `container` 集装箱；容器
-      - `containment` 包含；牵制；容量；密闭度
+      - `container`
+        - 集装箱；容器
+      - `containment`
+        - 包含；牵制；容量；密闭度
     - v.
-      - `contained` 包含；遏制（contain的过去分词）；容纳
+      - `contained`
+        - 包含；遏制（contain的过去分词）；容纳
   - 近义词
-    - vt. 包含；控制；容纳；牵制（敌军）
-      - `involve`
-      - `possess`
-      - `regulate`
-      - `manage`
-      - `accept`
-    - vi. 含有；自制
-      - `restrain oneself`
-      - `abstain`
+    - vt.
+      - 包含；控制；容纳；牵制（敌军）
+        - `involve`
+        - `possess`
+        - `regulate`
+        - `manage`
+        - `accept`
+    - vi.
+      - 含有；自制
+        - `restrain oneself`
+        - `abstain`
   - 短语
-    - `said to contain` 据称内装 
+    - `said to contain`
+      - 据称内装 
   - 例句
     - `The thieves stole a purse containing bank-notes.`
       - 小偷们偷到了一个里面有钞票的钱包。

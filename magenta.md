@@ -1,16 +1,21 @@
 - magenta
   - 发音
-    - 英 `/mə'dʒentə/`
-    - 美 `/mə'dʒɛntə/`
+    - 英
+      - `/mə'dʒentə/`
+    - 美
+      - `/mə'dʒɛntə/`
   - 词义
-    - n&a. 红紫色(的)
-    - `a dark reddish purple colour`
+    - n&a.
+      - 红紫色(的)
+        - `a dark reddish purple colour`
   - 近义词
-    - n. [染料]品红；洋红；红色苯胺染料
-      - `rubin`
-      - `solferino`
-    - adj. 洋红色的；[染料]品红色的
-      - `carmine`
+    - n.
+      - [染料]品红；洋红；红色苯胺染料
+        - `rubin`
+        - `solferino`
+    - adj.
+      - 洋红色的；[染料]品红色的
+        - `carmine`
   - 例句
     - `Its colors are green, magenta, orange and blue.`
       - 它的颜色是绿色，品红色，橙色以及蓝色。

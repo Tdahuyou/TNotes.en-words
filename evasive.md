@@ -1,26 +1,36 @@
 - evasive
   - 发音
-    - 英 `/ɪ'veɪsɪv/`
-    - 美 `/ɪ'vesɪv/`
+    - 英
+      - `/ɪ'veɪsɪv/`
+    - 美
+      - `/ɪ'vesɪv/`
   - 词义
-    - adj. 逃避的；托辞的；推托的
-    - `not willing to answer questions directly`
+    - adj.
+      - 逃避的；托辞的；推托的
+        - `not willing to answer questions directly`
   - 同根词
     - adv.
-      - `evasively` 逃避地；推诿地
+      - `evasively`
+        - 逃避地；推诿地
     - n.
-      - `evasion` 逃避；回避；借口
-      - `evasiveness` 逃避，推诿；模棱两可
+      - `evasion`
+        - 逃避；回避；借口
+      - `evasiveness`
+        - 逃避，推诿；模棱两可
     - vi.
-      - `evade` 逃避；规避；逃脱
+      - `evade`
+        - 逃避；规避；逃脱
     - vt.
-      - `evade` 逃避；规避；逃脱
+      - `evade`
+        - 逃避；规避；逃脱
   - 近义词
-    - adj. 逃避的；托辞的；推托的
-      - `dodgy`
-      - `elusive`
+    - adj.
+      - 逃避的；托辞的；推托的
+        - `dodgy`
+        - `elusive`
   - 短语
-    - `evasive action` 躲避动作；闪避动作 
+    - `evasive action`
+      - 躲避动作；闪避动作 
   - 例句
     - `an evasive reply`
       - 模棱两可的答复

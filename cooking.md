@@ -1,43 +1,67 @@
 - cooking
   - 发音
-    - 英 `/'kʊkɪŋ/`
-    - 美 `/'kʊkɪŋ/`
+    - 英
+      - `/'kʊkɪŋ/`
+    - 美
+      - `/'kʊkɪŋ/`
   - 词义
-    - `Cooking is the activity of preparing food`
+        - `Cooking is the activity of preparing food`
   - 记忆
     - 读烹饪书(book)百遍， 厨(cook)艺自现
   - 同根词
     - adj.
-      - `cookout` 野外烹饮聚会的
+      - `cookout`
+        - 野外烹饮聚会的
     - n.
-      - `cook` 厨师，厨子
-      - `cooker` 炊具；烹饪用水果；窜改者
-      - `cookery` 烹调术；烹调业
-      - `cookout` （美）野外郊游时烹调的野餐；野烹食物
-      - `cookstove` 烹调用炉
+      - `cook`
+        - 厨师，厨子
+      - `cooker`
+        - 炊具；烹饪用水果；窜改者
+      - `cookery`
+        - 烹调术；烹调业
+      - `cookout`
+        - （美）野外郊游时烹调的野餐；野烹食物
+      - `cookstove`
+        - 烹调用炉
     - vi.
-      - `cook` 烹调，做菜
+      - `cook`
+        - 烹调，做菜
     - vt.
-      - `cook` 烹调，煮
+      - `cook`
+        - 烹调，煮
   - 近义词
-    - n. 烹饪
-      - `cuisine`
-    - adj. 烹调用的
-      - `culinary`
-    - v. 烹调；筹划（cook的ing形式）
-      - `mapping`
+    - n.
+      - 烹饪
+        - `cuisine`
+    - adj.
+      - 烹调用的
+        - `culinary`
+    - v.
+      - 烹调；筹划（cook的ing形式）
+        - `mapping`
   - 短语
-    - `cooking oil` 食用油 
-    - `cooking process` 蒸煮过程，蒸煮法 
-    - `chinese cooking` 中国式烹饪 
-    - `cooking time` 蒸煮时间 
-    - `cooking dinner` 做饭 
-    - `cooking wine` 料酒；米酒 
-    - `cooking pot` n. 烹饪器；蒸煮罐 
-    - `cooking stove` 厨灶 
-    - `cooking range` 灶头 
-    - `cooking utensil` 烹调用具；厨具 
-    - `do some cooking` 做饭 
+    - `cooking oil`
+      - 食用油 
+    - `cooking process`
+      - 蒸煮过程，蒸煮法 
+    - `chinese cooking`
+      - 中国式烹饪 
+    - `cooking time`
+      - 蒸煮时间 
+    - `cooking dinner`
+      - 做饭 
+    - `cooking wine`
+      - 料酒；米酒 
+    - `cooking pot`
+      - n. 烹饪器；蒸煮罐 
+    - `cooking stove`
+      - 厨灶 
+    - `cooking range`
+      - 灶头 
+    - `cooking utensil`
+      - 烹调用具；厨具 
+    - `do some cooking`
+      - 做饭 
   - 例句
     - `He did the cooking, cleaning, laundry, and home repairs.`
       - 他做饭、打扫卫生、洗衣服，还在家修修补补。

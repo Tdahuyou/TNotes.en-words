@@ -1,10 +1,13 @@
 - gavel
   - 发音
-    - 英 `/'gævl/`
-    - 美 `/'gævl/`
+    - 英
+      - `/'gævl/`
+    - 美
+      - `/'gævl/`
   - 词义
-    - n. 槌，小木槌
-    - `a small hammer that the person in charge of a meeting, court of law, auction etc hits on a table in order to get people’s attention`
+    - n.
+      - 槌，小木槌
+        - `a small hammer that the person in charge of a meeting, court of law, auction etc hits on a table in order to get people’s attention`
   - 记忆
     - gave(给) + l → 敲小木槌， 给以注意 → 槌， 小木槌
   - 例句

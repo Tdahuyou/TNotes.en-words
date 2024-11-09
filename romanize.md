@@ -1,9 +1,13 @@
 - romanize
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - v. 古罗马化,用罗马字书写
+    - v.
+      - 古罗马化,用罗马字书写
   - 同根词
     - n.
-      - `roma` 罗马，罗马帝国
+      - `roma`
+        - 罗马，罗马帝国

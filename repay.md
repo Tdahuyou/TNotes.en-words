@@ -1,22 +1,29 @@
 - repay
   - 发音
-    - 英 `/riː'peɪ; rɪ-/`
-    - 美 `/ri'pɛi/`
+    - 英
+      - `/riː'peɪ; rɪ-/`
+    - 美
+      - `/ri'pɛi/`
   - 词义
-    - v. 偿还,报答
-    - `to pay back money that you have borrowed`
+    - v.
+      - 偿还,报答
+        - `to pay back money that you have borrowed`
   - 同根词
     - adj.
-      - `repayable` 可偿还的；可报复的
+      - `repayable`
+        - 可偿还的；可报复的
     - n.
-      - `repayment` 偿还；[金融] 付还
+      - `repayment`
+        - 偿还；[金融] 付还
   - 近义词
-    - vi. 偿还；报答；报复
-      - `return`
-      - `make the payments`
-    - vt. 回报；报复；付还
-      - `get back on`
-      - `get even with`
+    - vi.
+      - 偿还；报答；报复
+        - `return`
+        - `make the payments`
+    - vt.
+      - 回报；报复；付还
+        - `get back on`
+        - `get even with`
   - 例句
     - `I’d like to buy them something to repay all their kindness.`
       - 我想给他们买点东西来报答他们的好意。

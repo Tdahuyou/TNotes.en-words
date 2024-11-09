@@ -1,16 +1,22 @@
 - edentulous
   - 发音
-    - 英 `/ɪ'dentjʊləs/`
-    - 美 `/undefined/`
+    - 英
+      - `/ɪ'dentjʊləs/`
+    - 美
+      - `/undefined/`
   - 词义
-    - adj. 缺齿的
-    - `having no teeth `
+    - adj.
+      - 缺齿的
+        - `having no teeth `
   - 同根词
     - adj.
-      - `edental` 无齿的
-      - `edentate` 无齿的；贫齿目的，贫齿类的
+      - `edental`
+        - 无齿的
+      - `edentate`
+        - 无齿的；贫齿目的，贫齿类的
     - n.
-      - `edentate` [脊椎] 贫齿类动物
+      - `edentate`
+        - [脊椎] 贫齿类动物
   - 例句
     - `Conclusion: The collapsible complete denture can restore the edentulous of the patient with microstomia.`
       - 结论：折叠式上颌全口义齿可用于修复小口畸形患者的牙列缺失。

@@ -1,22 +1,32 @@
 - gynaecology
   - 发音
-    - 英 `/,gaɪnɪ'kɒlədʒɪ; dʒ-/`
-    - 美 `/,ɡaini'kɔlədʒi/`
+    - 英
+      - `/,gaɪnɪ'kɒlədʒɪ; dʒ-/`
+    - 美
+      - `/,ɡaini'kɔlədʒi/`
   - 词义
-    - n. 妇科医学
-    - `the study and treatment of medical conditions and illnesses that affect only women, and usually relating to a woman’s ability to have babies`
+    - n.
+      - 妇科医学
+        - `the study and treatment of medical conditions and illnesses that affect only women, and usually relating to a woman’s ability to have babies`
   - 同根词
     - adj.
-      - `gynecological` 妇科的；妇产科医学的
-      - `gynaecological` 妇科的；妇科学的
-      - `gynecologic` 妇产科医学的
+      - `gynecological`
+        - 妇科的；妇产科医学的
+      - `gynaecological`
+        - 妇科的；妇科学的
+      - `gynecologic`
+        - 妇产科医学的
     - n.
-      - `gynecologist` 妇科医生
-      - `gynecology` 妇科学，妇科医学
-      - `gynaecologist` 妇科学家
-  - 近义词
-    - n. 妇科医学
+      - `gynecologist`
+        - 妇科医生
       - `gynecology`
+        - 妇科学，妇科医学
+      - `gynaecologist`
+        - 妇科学家
+  - 近义词
+    - n.
+      - 妇科医学
+        - `gynecology`
   - 例句
     - `There are lots of clinical books out there about gynaecology but I wanted this to be frank and funny too.`
       - 市面上有很多关于妇科的临床书籍，但是我想把这本书写得明白有趣。

@@ -1,14 +1,19 @@
 - hammock
   - 发音
-    - 英 `/'hæmək/`
-    - 美 `/'hæmək/`
+    - 英
+      - `/'hæmək/`
+    - 美
+      - `/'hæmək/`
   - 词义
-    - n. 吊床；吊铺；吊带
-    - `a large piece of cloth that is hung between two trees or posts so that you can sleep in it`
-    - vt. 睡吊床
+    - n.
+      - 吊床；吊铺；吊带
+        - `a large piece of cloth that is hung between two trees or posts so that you can sleep in it`
+    - vt.
+      - 睡吊床
   - 近义词
-    - n. 吊床；吊铺；吊带
-      - `charpoy`
+    - n.
+      - 吊床；吊铺；吊带
+        - `charpoy`
   - 例句
     - `Hang a hammock; lie in it.`
       - 挂上一个吊床，然后躺在里面。

@@ -1,12 +1,16 @@
 - persiflage
   - 发音
-    - 英 `/'pɜːrsɪflɑːʒ/`
-    - 美 `/'pɝsɪflɑʒ/`
+    - 英
+      - `/'pɜːrsɪflɑːʒ/`
+    - 美
+      - `/'pɝsɪflɑʒ/`
   - 词义
-    - n. 挖苦，嘲弄
+    - n.
+      - 挖苦，嘲弄
   - 记忆
     - per(始终) ＋ sifl(吹哨) ＋ age → 一直吹哨 → 嘲弄
   - 近义词
-    - n. 挖苦；嘲弄；戏谑
-      - `quizzing`
-      - `mockery`
+    - n.
+      - 挖苦；嘲弄；戏谑
+        - `quizzing`
+        - `mockery`

@@ -1,10 +1,13 @@
 - coacervate
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. [化]凝聚层
-    - `either of two liquid phases that may separate from a hydrophilic sol, each containing a different concentration of a dispersed solid `
+    - n.
+      - [化]凝聚层
+        - `either of two liquid phases that may separate from a hydrophilic sol, each containing a different concentration of a dispersed solid `
   - 例句
     - `The result showed that solubilization of phenol in coacervate phase was related to the structure of surfactant micelle.`
       - 实验表明：溶质在凝聚层相的增溶与表面活性剂形成胶束的结构有关。

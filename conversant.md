@@ -1,20 +1,26 @@
 - conversant
   - 发音
-    - 英 `/kən'vɜːs(ə)nt/`
-    - 美 `/kən'vɝsnt/`
+    - 英
+      - `/kən'vɜːs(ə)nt/`
+    - 美
+      - `/kən'vɝsnt/`
   - 词义
-    - adj. 熟悉的；精通的；亲近的
-    - `having knowledge or experience of something`
+    - adj.
+      - 熟悉的；精通的；亲近的
+        - `having knowledge or experience of something`
   - 同根词
     - n.
-      - `conversance` 精通；熟悉
-      - `conversancy` 精通；熟练；亲近
+      - `conversance`
+        - 精通；熟悉
+      - `conversancy`
+        - 精通；熟练；亲近
   - 近义词
-    - adj. 熟悉的；精通的；亲近的
-      - `familiar`
-      - `perfect`
-      - `near`
-      - `close`
+    - adj.
+      - 熟悉的；精通的；亲近的
+        - `familiar`
+        - `perfect`
+        - `near`
+        - `close`
   - 例句
     - `Those in business are not, on the whole, conversant with basic scientific principles.`
       - 总体来说，经商的人不熟悉基本的科学原理。

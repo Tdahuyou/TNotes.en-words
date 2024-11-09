@@ -1,61 +1,96 @@
 - waste
   - 发音
-    - 英 `/weɪst/`
-    - 美 `/west/`
+    - 英
+      - `/weɪst/`
+    - 美
+      - `/west/`
   - 词义
-    - n. 废料；废弃物
-    - `unwanted materials or substances that are left after you have used something`
+    - n.
+      - 废料；废弃物
+        - `unwanted materials or substances that are left after you have used something`
   - 同根词
     - adj.
-      - `wasted` 浪费的
-      - `wasteful` 浪费的，不经济的；奢侈的
-      - `wasting` 浪费的；造成浪费的
+      - `wasted`
+        - 浪费的
+      - `wasteful`
+        - 浪费的，不经济的；奢侈的
+      - `wasting`
+        - 浪费的；造成浪费的
     - adv.
-      - `wastefully` 浪费地；挥霍地
+      - `wastefully`
+        - 浪费地；挥霍地
     - n.
-      - `wasting` 浪费
-      - `waster` [环境] 废品；挥霍者，浪费者
-      - `wastefulness` 浪费；挥霍无度
+      - `wasting`
+        - 浪费
+      - `waster`
+        - [环境] 废品；挥霍者，浪费者
+      - `wastefulness`
+        - 浪费；挥霍无度
     - v.
-      - `wasted` 浪费（waste的过去式）
+      - `wasted`
+        - 浪费（waste的过去式）
   - 近义词
-    - n. 浪费；废物；荒地；损耗；地面风化物
-      - `refuse`
-      - `garbage`
-      - `dissipation`
-      - `wear`
-    - vt. 浪费；消耗；使荒芜
-      - `lose`
-      - `spend`
-      - `consume`
-    - vi. 浪费；变消瘦；挥霍钱财
-      - `trifle away`
-      - `fiddle away`
-    - adj. 废弃的；多余的；荒芜的
-      - `spare`
-      - `unnecessary`
-      - `redundant`
+    - n.
+      - 浪费；废物；荒地；损耗；地面风化物
+        - `refuse`
+        - `garbage`
+        - `dissipation`
+        - `wear`
+    - vt.
+      - 浪费；消耗；使荒芜
+        - `lose`
+        - `spend`
+        - `consume`
+    - vi.
+      - 浪费；变消瘦；挥霍钱财
+        - `trifle away`
+        - `fiddle away`
+    - adj.
+      - 废弃的；多余的；荒芜的
+        - `spare`
+        - `unnecessary`
+        - `redundant`
   - 短语
-    - `waste water` 污水，废水 
-    - `solid waste` 固体废物，固态废物；固体废料，固体垃圾 
-    - `waste gas` 废气 
-    - `a waste of` 浪费… 
-    - `waste water treatment` 废水处理，污水处理 
-    - `waste heat` 余热；废热 
-    - `industrial waste` 工业废料 
-    - `waste of time` 浪费时间 
-    - `waste time` 浪费时间 
-    - `waste paper` 废纸 
-    - `waste disposal` 废物处理；废物处理装置 
-    - `waste treatment` 废物处理 
-    - `waste management` 废物管理；废物处理 
-    - `hazardous waste` 危险废物；有害垃圾 
-    - `waste materials` 废料 
-    - `waste liquid` 液体废料 
-    - `organic waste` 有机废物；生化废物 
-    - `radioactive waste` 放射性废弃物 
-    - `waste heat boiler` 废热锅炉 
-    - `waste land` 荒地；荒原 
+    - `waste water`
+      - 污水，废水 
+    - `solid waste`
+      - 固体废物，固态废物；固体废料，固体垃圾 
+    - `waste gas`
+      - 废气 
+    - `a waste of`
+      - 浪费… 
+    - `waste water treatment`
+      - 废水处理，污水处理 
+    - `waste heat`
+      - 余热；废热 
+    - `industrial waste`
+      - 工业废料 
+    - `waste of time`
+      - 浪费时间 
+    - `waste time`
+      - 浪费时间 
+    - `waste paper`
+      - 废纸 
+    - `waste disposal`
+      - 废物处理；废物处理装置 
+    - `waste treatment`
+      - 废物处理 
+    - `waste management`
+      - 废物管理；废物处理 
+    - `hazardous waste`
+      - 危险废物；有害垃圾 
+    - `waste materials`
+      - 废料 
+    - `waste liquid`
+      - 液体废料 
+    - `organic waste`
+      - 有机废物；生化废物 
+    - `radioactive waste`
+      - 放射性废弃物 
+    - `waste heat boiler`
+      - 废热锅炉 
+    - `waste land`
+      - 荒地；荒原 
   - 例句
     - `The emphasis now is on recycling waste.`
       - 目前的重点是废弃物的再利用。

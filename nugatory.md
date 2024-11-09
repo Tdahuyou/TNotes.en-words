@@ -1,11 +1,15 @@
 - nugatory
   - 发音
-    - 英 `/'njuːgətəri/`
-    - 美 `/'nju:ɡətəri/`
+    - 英
+      - `/'njuːgətəri/`
+    - 美
+      - `/'nju:ɡətəri/`
   - 词义
-    - adj. 无价值的；无效的
-    - `having no value`
+    - adj.
+      - 无价值的；无效的
+        - `having no value`
   - 近义词
-    - adj. 无价值的；琐碎的；无效的；无法律效力的
-      - `useless`
-      - `worthless`
+    - adj.
+      - 无价值的；琐碎的；无效的；无法律效力的
+        - `useless`
+        - `worthless`

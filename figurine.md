@@ -1,15 +1,20 @@
 - figurine
   - 发音
-    - 英 `/'fɪgəriːn; -gjʊ-/`
-    - 美 `/,fɪɡjə'rin/`
+    - 英
+      - `/'fɪgəriːn; -gjʊ-/`
+    - 美
+      - `/,fɪɡjə'rin/`
   - 词义
-    - n. 小雕像
-    - `a small model of a person or animal used as a decoration`
+    - n.
+      - 小雕像
+        - `a small model of a person or animal used as a decoration`
   - 近义词
-    - n. 小雕像，小塑像
-      - `statuette`
+    - n.
+      - 小雕像，小塑像
+        - `statuette`
   - 短语
-    - `clay figurine` n. 泥人；泥塑，泥雕 
+    - `clay figurine`
+      - n. 泥人；泥塑，泥雕 
   - 例句
     - `Michelle and her mother once gave me a figurine of a beautiful black child sitting in a wheelchair.`
       - 米歇尔和她的母亲曾经送给我一座小雕像，是一个坐在轮椅上的漂亮黑人小孩。

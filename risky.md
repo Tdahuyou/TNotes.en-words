@@ -1,27 +1,36 @@
 - risky
   - 发音
-    - 英 `/'rɪskɪ/`
-    - 美 `/'rɪski/`
+    - 英
+      - `/'rɪskɪ/`
+    - 美
+      - `/'rɪski/`
   - 词义
-    - adj. 危险的
-    - `involving a risk that something bad will happen`
+    - adj.
+      - 危险的
+        - `involving a risk that something bad will happen`
   - 同根词
     - adj.
-      - `riskless` 无危险的；安全的
+      - `riskless`
+        - 无危险的；安全的
     - adv.
-      - `riskily` 冒险地；近乎淫秽地
+      - `riskily`
+        - 冒险地；近乎淫秽地
     - n.
-      - `risk` 风险；危险；冒险
-      - `riskiness` 冒险的事；危险
+      - `risk`
+        - 风险；危险；冒险
+      - `riskiness`
+        - 冒险的事；危险
     - vt.
-      - `risk` 冒…的危险
+      - `risk`
+        - 冒…的危险
   - 近义词
-    - adj. 危险的；冒险的；（作品等）有伤风化的
-      - `dangerous`
-      - `critical`
-      - `threatening`
-      - `perilous`
-      - `hazardous`
+    - adj.
+      - 危险的；冒险的；（作品等）有伤风化的
+        - `dangerous`
+        - `critical`
+        - `threatening`
+        - `perilous`
+        - `hazardous`
   - 例句
     - `Doctors say it’s too risky to try and operate.`
       - 医生说动手术风险太大。

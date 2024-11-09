@@ -1,33 +1,44 @@
 - pronounced
   - 发音
-    - 英 `/prə'naunst/`
-    - 美 `/prə'naʊnst/`
+    - 英
+      - `/prə'naunst/`
+    - 美
+      - `/prə'naʊnst/`
   - 词义
-    - adj. 显著的；明确的
-    - `very great or noticeable`
+    - adj.
+      - 显著的；明确的
+        - `very great or noticeable`
   - 记忆
     - 来自pronounce(v. 宣称； 发音)
   - 同根词
     - adj.
-      - `pronounceable` 读得出的；可发音的；可断言的
+      - `pronounceable`
+        - 读得出的；可发音的；可断言的
     - n.
-      - `pronunciation` 发音；读法
-      - `pronouncement` 声明；宣告；公告；判决
+      - `pronunciation`
+        - 发音；读法
+      - `pronouncement`
+        - 声明；宣告；公告；判决
     - vi.
-      - `pronounce` 发音；作出判断
+      - `pronounce`
+        - 发音；作出判断
     - vt.
-      - `pronounce` 发音；宣判；断言
+      - `pronounce`
+        - 发音；宣判；断言
   - 近义词
-    - adj. 显著的；断然的；讲出来的
-      - `obvious`
-      - `prominent`
-      - `marked`
-      - `noted`
-      - `outstanding`
-    - v. 发音；宣告；断言（pronounce的过去分词）
-      - `professed`
+    - adj.
+      - 显著的；断然的；讲出来的
+        - `obvious`
+        - `prominent`
+        - `marked`
+        - `noted`
+        - `outstanding`
+    - v.
+      - 发音；宣告；断言（pronounce的过去分词）
+        - `professed`
   - 短语
-    - `pronounce on` 对…发表意见 
+    - `pronounce on`
+      - 对…发表意见 
   - 例句
     - `a pronounced Polish accent`
       - 明显的波兰口音

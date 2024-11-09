@@ -1,23 +1,31 @@
 - sod
   - 发音
-    - 英 `/sɒd/`
-    - 美 `/sɑd/`
+    - 英
+      - `/sɒd/`
+    - 美
+      - `/sɑd/`
   - 词义
-    - n. 草地
-    - `a piece of earth or the layer of earth with grass and roots growing in it`
+    - n.
+      - 草地
+        - `a piece of earth or the layer of earth with grass and roots growing in it`
   - 同根词
     - adj.
-      - `sodding` （用以加强语气）见鬼的；他妈的
-      - `soddy` 草皮的；被草皮遮覆著的
+      - `sodding`
+        - （用以加强语气）见鬼的；他妈的
+      - `soddy`
+        - 草皮的；被草皮遮覆著的
     - n.
-      - `soddy` 以草泥堆砌筑成的房屋
+      - `soddy`
+        - 以草泥堆砌筑成的房屋
     - v.
-      - `sodding` 诅咒；给…铺草皮（sod的ing形式）
+      - `sodding`
+        - 诅咒；给…铺草皮（sod的ing形式）
   - 近义词
-    - n. 草地；草皮
-      - `grass`
-      - `lawn`
-      - `meadow`
+    - n.
+      - 草地；草皮
+        - `grass`
+        - `lawn`
+        - `meadow`
   - 例句
     - `But why cover your car in sod?`
       - 不过为什么要盖上一层草皮呢？

@@ -1,10 +1,13 @@
 - telesales
   - 发音
-    - 英 `/'teliseilz/`
-    - 美 `/undefined/`
+    - 英
+      - `/'teliseilz/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 电话销售
-    - `a way of selling products to people by telephone`
+    - n.
+      - 电话销售
+        - `a way of selling products to people by telephone`
   - 记忆
     - tele(看作telephone， 电话) + sales(销售) → 电话销售
   - 例句

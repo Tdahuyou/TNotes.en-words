@@ -1,10 +1,13 @@
 - masthead
   - 发音
-    - 英 `/'mɑːsthed/`
-    - 美 `/'mæsthɛd/`
+    - 英
+      - `/'mɑːsthed/`
+    - 美
+      - `/'mæsthɛd/`
   - 词义
-    - n. 桅顶,报头
-    - `the name of a newspaper, magazine etc printed in a special design at the top of the first page`
+    - n.
+      - 桅顶,报头
+        - `the name of a newspaper, magazine etc printed in a special design at the top of the first page`
   - 例句
     - `The bark was dressed with masthead flags only.`
       - 那条三桅帆船只用桅顶旗装饰。

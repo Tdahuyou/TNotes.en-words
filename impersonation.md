@@ -1,18 +1,24 @@
 - impersonation
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 扮演
+    - n.
+      - 扮演
   - 同根词
     - n.
-      - `impersonator` 演员；模拟艺人
+      - `impersonator`
+        - 演员；模拟艺人
     - vt.
-      - `impersonate` 扮演；模仿；拟人，人格化
+      - `impersonate`
+        - 扮演；模仿；拟人，人格化
   - 近义词
-    - n. 扮演；模仿；装扮
-      - `simulation`
-      - `imitation`
+    - n.
+      - 扮演；模仿；装扮
+        - `simulation`
+        - `imitation`
   - 例句
     - `Convinced of his own righteousness, he was the perfect impersonation of a man of rectitude.`
       - 他确信自己很正直，可以完美地扮演刚正不阿的人。

@@ -1,13 +1,18 @@
 - litmus
   - 发音
-    - 英 `/'litməs/`
-    - 美 `/undefined/`
+    - 英
+      - `/'litməs/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 石蕊
-    - `a chemical that turns red when it touches acid, and blue when it touches an alkali`
+    - n.
+      - 石蕊
+        - `a chemical that turns red when it touches acid, and blue when it touches an alkali`
   - 短语
-    - `litmus paper` 石蕊试纸 
-    - `litmus test` [化]石蕊试验；立见分晓的检验办法 
+    - `litmus paper`
+      - 石蕊试纸 
+    - `litmus test`
+      - [化]石蕊试验；立见分晓的检验办法 
   - 例句
     - `What's a quick litmus test to determine if you're on the path to happiness or regret?`
       - 就如一张检验你是在通往幸福还是悔恨的道路上的石蕊试纸一般。

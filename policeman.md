@@ -1,18 +1,23 @@
 - policeman
   - 发音
-    - 英 `/pə'liːsmən/`
-    - 美 `/pə'lismən/`
+    - 英
+      - `/pə'liːsmən/`
+    - 美
+      - `/pə'lismən/`
   - 词义
-    - n. 男警察(pl.policemen)
-    - `A policeman is a man who is a member of the police force`
+    - n.
+      - 男警察(pl.policemen)
+        - `A policeman is a man who is a member of the police force`
   - 近义词
-    - n. 警察，警员；[分化]淀帚（橡皮头玻璃搅棒）
-      - `pig`
-      - `copper`
-      - `bobby`
-      - `finest`
+    - n.
+      - 警察，警员；[分化]淀帚（橡皮头玻璃搅棒）
+        - `pig`
+        - `copper`
+        - `bobby`
+        - `finest`
   - 短语
-    - `traffic policeman` n. 交通警察 
+    - `traffic policeman`
+      - n. 交通警察 
   - 例句
     - `He tried to corrupt the policeman with money.`
       - 他设法用金钱向警察行贿。

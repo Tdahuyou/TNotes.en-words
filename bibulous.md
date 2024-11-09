@@ -1,13 +1,17 @@
 - bibulous
   - 发音
-    - 英 `/'bibjuləs/`
-    - 美 `/'bɪbjʊləs/`
+    - 英
+      - `/'bibjuləs/`
+    - 美
+      - `/'bɪbjʊləs/`
   - 词义
-    - adj. 饮酒的；嗜酒的；吸水的
-    - `liking to drink too much alcohol – sometimes used humorously`
+    - adj.
+      - 饮酒的；嗜酒的；吸水的
+        - `liking to drink too much alcohol – sometimes used humorously`
   - 记忆
     - bibul (喝) + ous → 好喝酒的 → 嗜酒的
   - 近义词
-    - adj. 吸水的；嗜酒的
-      - `hydrophil`
-      - `boozy`
+    - adj.
+      - 吸水的；嗜酒的
+        - `hydrophil`
+        - `boozy`

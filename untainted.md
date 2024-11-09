@@ -1,14 +1,18 @@
 - untainted
   - 发音
-    - 英 `/ʌn'teɪntɪd/`
-    - 美 `/ʌn'tentɪd/`
+    - 英
+      - `/ʌn'teɪntɪd/`
+    - 美
+      - `/ʌn'tentɪd/`
   - 词义
-    - adj. 无污点的
-    - `not affected or influenced by something bad`
+    - adj.
+      - 无污点的
+        - `not affected or influenced by something bad`
   - 近义词
-    - adj. 无污点的；未染污的
-      - `inviolate`
-      - `soilless`
+    - adj.
+      - 无污点的；未染污的
+        - `inviolate`
+        - `soilless`
   - 例句
     - `Organic food refers to food that is by - and - large untainted by pollution.`
       - 总体来说，有机食品是一种未被污染的食品。

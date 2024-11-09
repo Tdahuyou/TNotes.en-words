@@ -1,29 +1,40 @@
 - provincial
   - 发音
-    - 英 `/prə'vinʃəl/`
-    - 美 `/prə'vɪnʃl/`
+    - 英
+      - `/prə'vinʃəl/`
+    - 美
+      - `/prə'vɪnʃl/`
   - 词义
-    - adj. 省的，州的；狭隘的
-    - `relating to or coming from a province`
+    - adj.
+      - 省的，州的；狭隘的
+        - `relating to or coming from a province`
   - 记忆
     - 来自provinc (e) (省) + ial → 省的
   - 同根词
     - adv.
-      - `provincially` 以地方；偏狭地
+      - `provincially`
+        - 以地方；偏狭地
     - n.
-      - `provincialism` 方言；地方风格；乡下习气
+      - `provincialism`
+        - 方言；地方风格；乡下习气
   - 近义词
-    - adj. 省的；地方性的；偏狭的
-      - `local`
-      - `endemic`
-    - n. 粗野的人；乡下人；外地人
-      - `peasant`
-      - `stranger`
+    - adj.
+      - 省的；地方性的；偏狭的
+        - `local`
+        - `endemic`
+    - n.
+      - 粗野的人；乡下人；外地人
+        - `peasant`
+        - `stranger`
   - 短语
-    - `provincial government` 省政府，省级人民政府 
-    - `provincial capital` 省会 
-    - `provincial standard` 地方标准 
-    - `provincial park` 省立公园 
+    - `provincial government`
+      - 省政府，省级人民政府 
+    - `provincial capital`
+      - 省会 
+    - `provincial standard`
+      - 地方标准 
+    - `provincial park`
+      - 省立公园 
   - 例句
     - `a provincial election`
       - 省级选举

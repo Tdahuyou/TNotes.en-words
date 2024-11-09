@@ -1,12 +1,16 @@
 - antifungal
   - 发音
-    - 英 `/,æntɪ'fʌŋɡəl/`
-    - 美 `/,ænti'fʌŋɡəl; ,æntaɪfʌŋɡəl/`
+    - 英
+      - `/,æntɪ'fʌŋɡəl/`
+    - 美
+      - `/,ænti'fʌŋɡəl; ,æntaɪfʌŋɡəl/`
   - 词义
-    - adj. 抗真菌的,杀真菌的
-    - `inhibiting the growth of fungi `
+    - adj.
+      - 抗真菌的,杀真菌的
+        - `inhibiting the growth of fungi `
   - 短语
-    - `antifungal agent` 杀真菌剂；抗真菌剂 
+    - `antifungal agent`
+      - 杀真菌剂；抗真菌剂 
   - 例句
     - `It’s treated with nonprescription antifungal creams.`
       - 可通过涂抹非处方的抗真菌乳膏进行治疗。

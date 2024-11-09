@@ -1,10 +1,13 @@
 - endorphin
   - 发音
-    - 英 `/en'dɔːfɪn/`
-    - 美 `/ɛn'dɔrfɪn/`
+    - 英
+      - `/en'dɔːfɪn/`
+    - 美
+      - `/ɛn'dɔrfɪn/`
   - 词义
-    - n. 脑内啡
-    - `a chemical produced by your body that reduces pain and can make you feel happier`
+    - n.
+      - 脑内啡
+        - `a chemical produced by your body that reduces pain and can make you feel happier`
   - 例句
     - `When this happens, stress and pain occur, causing endorphin levels to rise in the brain.`
       - 在该情况下，紧张和疼痛向大脑反馈，从而增加的内啡肽的释放。

@@ -1,10 +1,13 @@
 - unprocessed
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - adj. 未被加工的
-    - `(of food, oil, etc) not having undergone a process to preserve or purify `
+    - adj.
+      - 未被加工的
+        - `(of food, oil, etc) not having undergone a process to preserve or purify `
   - 例句
     - `Reduce packaging by eating more whole, unprocessed foods and using the bulk bins for items that have a long shelf-life.`
       - 减少包装，通过吃全食品、未经加工的食品以及对物品使用有很长的保质期的散装箱。

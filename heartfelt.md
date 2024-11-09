@@ -1,19 +1,25 @@
 - heartfelt
   - 发音
-    - 英 `/'hɑːtfelt/`
-    - 美 `/'hɑrtfɛlt/`
+    - 英
+      - `/'hɑːtfelt/`
+    - 美
+      - `/'hɑrtfɛlt/`
   - 词义
-    - adj. 衷心的；真诚的；真心真意的
-    - `very strongly felt and sincere`
+    - adj.
+      - 衷心的；真诚的；真心真意的
+        - `very strongly felt and sincere`
   - 同根词
     - adv.
-      - `heartily` 衷心地；热忱地；痛快地
+      - `heartily`
+        - 衷心地；热忱地；痛快地
   - 近义词
-    - adj. 衷心的；真诚的；真心真意的
-      - `sincere`
-      - `devout`
+    - adj.
+      - 衷心的；真诚的；真心真意的
+        - `sincere`
+        - `devout`
   - 短语
-    - `heartfelt thanks` 由衷地感谢 
+    - `heartfelt thanks`
+      - 由衷地感谢 
   - 例句
     - `a heartfelt apology`
       - 真诚的道歉

@@ -1,11 +1,16 @@
 - lampooner
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 讽刺文作家,冷嘲热讽者
+    - n.
+      - 讽刺文作家,冷嘲热讽者
   - 同根词
     - n.
-      - `lampoon` 讽刺文章
+      - `lampoon`
+        - 讽刺文章
     - vt.
-      - `lampoon` 讽刺
+      - `lampoon`
+        - 讽刺

@@ -1,20 +1,28 @@
 - choreographer
   - 发音
-    - 英 `/,kɒrɪ'ɒɡrəfə/`
-    - 美 `/,kɔri'ɔɡrəfə/`
+    - 英
+      - `/,kɒrɪ'ɒɡrəfə/`
+    - 美
+      - `/,kɔri'ɔɡrəfə/`
   - 词义
-    - n. 舞蹈指导
-    - `A choreographer is someone who invents the movements for a ballet or other dance and tells the dancers how to perform them`
+    - n.
+      - 舞蹈指导
+        - `A choreographer is someone who invents the movements for a ballet or other dance and tells the dancers how to perform them`
   - 同根词
     - adj.
-      - `choreographic` 舞台舞蹈的；舞蹈术的
+      - `choreographic`
+        - 舞台舞蹈的；舞蹈术的
     - n.
-      - `choreography` 编舞；舞蹈艺术；舞艺
-      - `chorea` [内科] 舞蹈病
+      - `choreography`
+        - 编舞；舞蹈艺术；舞艺
+      - `chorea`
+        - [内科] 舞蹈病
     - vi.
-      - `choreograph` 设计舞蹈动作
+      - `choreograph`
+        - 设计舞蹈动作
     - vt.
-      - `choreograph` 设计舞蹈动作；为…编舞
+      - `choreograph`
+        - 设计舞蹈动作；为…编舞
   - 例句
     - `My choreographer keeps chiseling away at me, hoping to shape me into perfection.`
       - 我的舞蹈编导总是不断雕琢我，一心将我塑造成完美的舞蹈家。

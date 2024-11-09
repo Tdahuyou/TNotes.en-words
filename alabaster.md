@@ -1,13 +1,17 @@
 - alabaster
   - 发音
-    - 英 `/'æləbɑːstə; -bæstə; ,ælə'bɑːstə; -'bæstə/`
-    - 美 `/'æləbæstɚ/`
+    - 英
+      - `/'æləbɑːstə; -bæstə; ,ælə'bɑːstə; -'bæstə/`
+    - 美
+      - `/'æləbæstɚ/`
   - 词义
-    - n. 雪花石膏
-    - `a white stone, used for making  statue s  or other objects for decoration`
+    - n.
+      - 雪花石膏
+        - `a white stone, used for making  statue s  or other objects for decoration`
   - 同根词
     - adj.
-      - `alabastrine` 雪花石膏制的；光滑的
+      - `alabastrine`
+        - 雪花石膏制的；光滑的
   - 例句
     - `The walls were of white alabaster, set here and there with blue and green tiles.`
       - 白色雪花石膏的墙壁，到处贴着蓝色绿色的瓷砖。

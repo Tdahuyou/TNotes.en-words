@@ -1,29 +1,44 @@
 - analyser
   - 发音
-    - 英 `/undefined/`
-    - 美 `/'ænəlaɪzɚ/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/'ænəlaɪzɚ/`
   - 词义
-    - n. 分析者，分析计
-    - `An analyser is a piece of equipment used to analyse the substances that are present in something such as a gas`
+    - n.
+      - 分析者，分析计
+        - `An analyser is a piece of equipment used to analyse the substances that are present in something such as a gas`
   - 同根词
     - adj.
-      - `analytical` 分析的；解析的；善于分析的
-      - `analytic` 分析的；解析的；善于分析的
-      - `analyzable` 可分析的
+      - `analytical`
+        - 分析的；解析的；善于分析的
+      - `analytic`
+        - 分析的；解析的；善于分析的
+      - `analyzable`
+        - 可分析的
     - adv.
-      - `analytically` 分析地；解析地
+      - `analytically`
+        - 分析地；解析地
     - n.
-      - `analysis` 分析；分解；验定
-      - `analyst` 分析者；精神分析医师；分解者
-      - `analyzer` [计] 分析器；分析者；检偏镜
-      - `analysand` 接受精神分析的人
-      - `analyticity` 分析性，[数] 解析性
+      - `analysis`
+        - 分析；分解；验定
+      - `analyst`
+        - 分析者；精神分析医师；分解者
+      - `analyzer`
+        - [计] 分析器；分析者；检偏镜
+      - `analysand`
+        - 接受精神分析的人
+      - `analyticity`
+        - 分析性，[数] 解析性
     - vt.
-      - `analyse` 分析；分解；细察
-      - `analyze` 对…进行分析，分解（等于analyse）
+      - `analyse`
+        - 分析；分解；细察
+      - `analyze`
+        - 对…进行分析，分解（等于analyse）
   - 近义词
-    - n. [分化][计]分析器，分析仪；分析者
-      - `profiler`
+    - n.
+      - [分化][计]分析器，分析仪；分析者
+        - `profiler`
   - 例句
     - `...an oxygen analyser.`
       - ...氧气分析仪。

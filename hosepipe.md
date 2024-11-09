@@ -1,14 +1,18 @@
 - hosepipe
   - 发音
-    - 英 `/undefined/`
-    - 美 `/'hozpaɪp/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/'hozpaɪp/`
   - 词义
-    - n. 橡胶软管
-    - `a long hose`
+    - n.
+      - 橡胶软管
+        - `a long hose`
   - 近义词
-    - n. 软管；水龙软管
-      - `flexible pipe`
-      - `flexible conduit`
+    - n.
+      - 软管；水龙软管
+        - `flexible pipe`
+        - `flexible conduit`
   - 例句
     - `Some prisoners have also been beaten with lengths of rubber hosepipe. Some have been burnt with cigarette ends and some have been put to what Americans call the "water torture".`
       - 有些犯人被守卫用橡胶软管抽打，有些被烟头烫烧，而有一些则被执行美国人称之为“水刑”的酷刑。

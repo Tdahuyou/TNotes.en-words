@@ -1,30 +1,40 @@
 - administer
   - 发音
-    - 英 `/əd'mɪnɪstər/`
-    - 美 `/əd'mɪnɪstɚ/`
+    - 英
+      - `/əd'mɪnɪstər/`
+    - 美
+      - `/əd'mɪnɪstɚ/`
   - 词义
-    - vt. 管理；执行；给予，提供
-    - `to manage the work or money of a company or organization`
+    - vt.
+      - 管理；执行；给予，提供
+        - `to manage the work or money of a company or organization`
   - 记忆
     - ad + minister(大臣) → 大臣要精于管理 → 管理
   - 同根词
     - adj.
-      - `administrative` 管理的，行政的
-      - `administrable` 可管理的；可处理的
+      - `administrative`
+        - 管理的，行政的
+      - `administrable`
+        - 可管理的；可处理的
     - n.
-      - `administration` 管理；行政；实施；行政机构
-      - `administrator` 管理人；行政官
+      - `administration`
+        - 管理；行政；实施；行政机构
+      - `administrator`
+        - 管理人；行政官
     - vt.
-      - `administrate` 管理；经营，实施
+      - `administrate`
+        - 管理；经营，实施
   - 近义词
-    - vt. 管理；执行；给予
-      - `manage`
-      - `afford`
-      - `perform`
-      - `conduct`
-      - `implement`
+    - vt.
+      - 管理；执行；给予
+        - `manage`
+        - `afford`
+        - `perform`
+        - `conduct`
+        - `implement`
   - 短语
-    - `administer justice` 执法，执行审判 
+    - `administer justice`
+      - 执法，执行审判 
   - 例句
     - `The money will be administered by local charities.`
       - 这笔资金将由当地慈善机构管理。

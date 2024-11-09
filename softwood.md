@@ -1,10 +1,13 @@
 - softwood
   - 发音
-    - 英 `/'sɒf(t)wʊd/`
-    - 美 `/'sɔftwʊd/`
+    - 英
+      - `/'sɒf(t)wʊd/`
+    - 美
+      - `/'sɔftwʊd/`
   - 词义
-    - n. 软木材
-    - `wood from trees such as  pine  and  fir  that is cheap and easy to cut, or a tree with this type of wood`
+    - n.
+      - 软木材
+        - `wood from trees such as  pine  and  fir  that is cheap and easy to cut, or a tree with this type of wood`
   - 例句
     - `It would be better to use softwood, which grows in cooler climes in sustainably managed forests.`
       - 因此，更好的办法是使用软木，软木生长在更凉爽的气候区，并且容易再生。

@@ -1,26 +1,37 @@
 - noticeably
   - 发音
-    - 英 `/'nəutisəbli/`
-    - 美 `/'notɪsəbli/`
+    - 英
+      - `/'nəutisəbli/`
+    - 美
+      - `/'notɪsəbli/`
   - 词义
-    - adv. 显著地，显然
+    - adv.
+      - 显著地，显然
   - 同根词
     - adj.
-      - `noted` 著名的；显著的；附有乐谱的
-      - `noticeable` 显而易见的，显著的；值得注意的
-      - `noteworthy` 值得注意的；显著的
+      - `noted`
+        - 著名的；显著的；附有乐谱的
+      - `noticeable`
+        - 显而易见的，显著的；值得注意的
+      - `noteworthy`
+        - 值得注意的；显著的
     - n.
-      - `notice` 通知，布告；注意；公告
+      - `notice`
+        - 通知，布告；注意；公告
     - v.
-      - `noted` 注意；记下（note的过去式和过去分词）
+      - `noted`
+        - 注意；记下（note的过去式和过去分词）
     - vi.
-      - `notice` 引起注意
+      - `notice`
+        - 引起注意
     - vt.
-      - `notice` 通知；注意到；留心
+      - `notice`
+        - 通知；注意到；留心
   - 近义词
-    - adv. 显著地，明显地；引人注目地
-      - `obviously`
-      - `clearly`
-      - `remarkably`
-      - `notably`
-      - `markedly`
+    - adv.
+      - 显著地，明显地；引人注目地
+        - `obviously`
+        - `clearly`
+        - `remarkably`
+        - `notably`
+        - `markedly`

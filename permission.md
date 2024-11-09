@@ -1,40 +1,60 @@
 - permission
   - 发音
-    - 英 `/pər'mɪʃn/`
-    - 美 `/pɚ'mɪʃən/`
+    - 英
+      - `/pər'mɪʃn/`
+    - 美
+      - `/pɚ'mɪʃən/`
   - 词义
-    - n. 允许，同意；许可证，书面许可
-    - `If someone who has authority over you gives you permission to do something, they say that they will allow you to do it`
+    - n.
+      - 允许，同意；许可证，书面许可
+        - `If someone who has authority over you gives you permission to do something, they say that they will allow you to do it`
   - 记忆
     - per(贯穿， 自始至终) + miss(送) + ion → 自始至终都发送 → 允许， 同意
   - 同根词
     - adj.
-      - `permissible` 可允许的；获得准许的
-      - `permissive` 许可的；自由的；宽容的；（两性关系）放纵的
+      - `permissible`
+        - 可允许的；获得准许的
+      - `permissive`
+        - 许可的；自由的；宽容的；（两性关系）放纵的
     - adv.
-      - `permissibly` 获准地；得到许可地
-      - `permissively` 许可地；自由地；娇宠地
+      - `permissibly`
+        - 获准地；得到许可地
+      - `permissively`
+        - 许可地；自由地；娇宠地
     - n.
-      - `permit` 许可证，执照
-      - `permissiveness` 放任；许可
-      - `permissibility` 允许；可容许性
+      - `permit`
+        - 许可证，执照
+      - `permissiveness`
+        - 放任；许可
+      - `permissibility`
+        - 允许；可容许性
     - vi.
-      - `permit` 许可；允许
+      - `permit`
+        - 许可；允许
     - vt.
-      - `permit` 许可；允许
+      - `permit`
+        - 许可；允许
   - 近义词
-    - n. 允许，许可
-      - `allows`
-      - `liberty`
-      - `leave`
+    - n.
+      - 允许，许可
+        - `allows`
+        - `liberty`
+        - `leave`
   - 短语
-    - `without permission` 未经许可 
-    - `with one's permission` 如果…允许的话 
-    - `written permission` 书面许可证；签单 
-    - `ask for permission` 征求许可；请求允许 
-    - `planning permission` （英）建筑许可证（建造或改建房屋前必须获得的） 
-    - `give permission` 准许 
-    - `grant permission` 准许 
+    - `without permission`
+      - 未经许可 
+    - `with one's permission`
+      - 如果…允许的话 
+    - `written permission`
+      - 书面许可证；签单 
+    - `ask for permission`
+      - 征求许可；请求允许 
+    - `planning permission`
+      - （英）建筑许可证（建造或改建房屋前必须获得的） 
+    - `give permission`
+      - 准许 
+    - `grant permission`
+      - 准许 
   - 例句
     - `He asked permission to leave the room.`
       - 他请求离开房间的许可。

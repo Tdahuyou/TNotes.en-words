@@ -1,33 +1,49 @@
 - often
   - 发音
-    - 英 `/'ɒf(tə)n/`
-    - 美 `/ˈɔ:fn; ɔfən/`
+    - 英
+      - `/'ɒf(tə)n/`
+    - 美
+      - `/ˈɔ:fn; ɔfən/`
   - 词义
-    - adv. 经常
-    - `if something happens often, it happens regularly or many times`
+    - adv.
+      - 经常
+        - `if something happens often, it happens regularly or many times`
   - 记忆
     - of+ten(十)→十有八九→经常
   - 同根词
     - adv.
-      - `oft` 常常；再三
-      - `oftentimes` 时常地
-  - 近义词
-    - adv. 常常，时常
-      - `forever`
-      - `frequently`
-      - `always`
       - `oft`
+        - 常常；再三
+      - `oftentimes`
+        - 时常地
+  - 近义词
+    - adv.
+      - 常常，时常
+        - `forever`
+        - `frequently`
+        - `always`
+        - `oft`
   - 短语
-    - `often as` 尽管…常常 
-    - `as often as` 每当 
-    - `more often` 经常（更多频率） 
-    - `more often than not` 通常；多半 
-    - `how often` 多长时间一次 
-    - `so often` 偶然 
-    - `most often` 最经常；很多时候；通常来说 
-    - `every so often` adv. 偶尔；常常；时常 
-    - `all too often` 时常，经常是 
-    - `once too often` 又一次；次数太多 
+    - `often as`
+      - 尽管…常常 
+    - `as often as`
+      - 每当 
+    - `more often`
+      - 经常（更多频率） 
+    - `more often than not`
+      - 通常；多半 
+    - `how often`
+      - 多长时间一次 
+    - `so often`
+      - 偶然 
+    - `most often`
+      - 最经常；很多时候；通常来说 
+    - `every so often`
+      - adv. 偶尔；常常；时常 
+    - `all too often`
+      - 时常，经常是 
+    - `once too often`
+      - 又一次；次数太多 
   - 例句
     - `She often works at the weekend.`
       - 她周末经常要上班。

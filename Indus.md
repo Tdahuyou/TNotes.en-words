@@ -1,9 +1,12 @@
 - Indus
   - 发音
-    - 英 `/'indəs/`
-    - 美 `/undefined/`
+    - 英
+      - `/'indəs/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 印度河（印度西北部的河流）
+    - n.
+      - 印度河（印度西北部的河流）
   - 例句
     - `One arrangement now under strain is the 1960 Indus Waters Treaty between India and Pakistan.`
       - 目前处境紧张的一项协议是1960年印度和巴基斯坦签订的印度河水域条约。

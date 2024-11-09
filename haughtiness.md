@@ -1,18 +1,24 @@
 - haughtiness
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 傲慢,不逊
+    - n.
+      - 傲慢,不逊
   - 同根词
     - adj.
-      - `haughty` 傲慢的；自大的
+      - `haughty`
+        - 傲慢的；自大的
     - adv.
-      - `haughtily` 傲慢地；骄傲地
+      - `haughtily`
+        - 傲慢地；骄傲地
   - 近义词
-    - n. 傲慢；不逊
-      - `importance`
-      - `superciliousness`
+    - n.
+      - 傲慢；不逊
+        - `importance`
+        - `superciliousness`
   - 例句
     - `She called him on his haughtiness.`
       - 她责备他傲慢无礼。

@@ -1,26 +1,33 @@
 - evaluate
   - 发音
-    - 英 `/ɪ'væljueɪt/`
-    - 美 `/ɪ'væljʊ'et/`
+    - 英
+      - `/ɪ'væljueɪt/`
+    - 美
+      - `/ɪ'væljʊ'et/`
   - 词义
-    - vt. 评价，估计
-    - `to judge how good, useful, or successful something is`
+    - vt.
+      - 评价，估计
+        - `to judge how good, useful, or successful something is`
   - 记忆
     - e(出) + val(价值) + uate → 给出价值 → 评价， 估计
   - 同根词
     - adj.
-      - `evaluative` 可估价的
+      - `evaluative`
+        - 可估价的
     - n.
-      - `evaluation` 评价；[审计] 评估；估价；求值
+      - `evaluation`
+        - 评价；[审计] 评估；估价；求值
   - 近义词
-    - vt. 评价；估价；求…的值
-      - `value`
-      - `score`
-      - `rate`
-      - `prize`
-    - vi. 评价；估价
-      - `to assess`
-      - `to appraise`
+    - vt.
+      - 评价；估价；求…的值
+        - `value`
+        - `score`
+        - `rate`
+        - `prize`
+    - vi.
+      - 评价；估价
+        - `to assess`
+        - `to appraise`
   - 例句
     - `You should be able to evaluate your own work.`
       - 你应该能够评估自己的工作。

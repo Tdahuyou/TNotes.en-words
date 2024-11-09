@@ -1,21 +1,27 @@
 - waspish
   - 发音
-    - 英 `/'wɑːspɪʃ/`
-    - 美 `/'wɑspɪʃ/`
+    - 英
+      - `/'wɑːspɪʃ/`
+    - 美
+      - `/'wɑspɪʃ/`
   - 词义
-    - adj. 易怒的；尖刻的
-    - `bad-tempered and cruel in the things that you say`
+    - adj.
+      - 易怒的；尖刻的
+        - `bad-tempered and cruel in the things that you say`
   - 记忆
     - 来自wasp(n. 黄蜂)
   - 同根词
     - n.
-      - `wasp` 黄蜂；[昆] 胡蜂；易怒的人
+      - `wasp`
+        - 黄蜂；[昆] 胡蜂；易怒的人
     - vi.
-      - `wasp` 黄蜂似的直扑
+      - `wasp`
+        - 黄蜂似的直扑
   - 近义词
-    - adj. 尖刻的；易怒的；如黄蜂的；腰细的
-      - `bitter`
-      - `passionate`
+    - adj.
+      - 尖刻的；易怒的；如黄蜂的；腰细的
+        - `bitter`
+        - `passionate`
   - 例句
     - `waspish remarks`
       - 恶毒的话语

@@ -1,13 +1,17 @@
 - cilia
   - 发音
-    - 英 `/'siliə/`
-    - 美 `/'sɪlɪə/`
+    - 英
+      - `/'siliə/`
+    - 美
+      - `/'sɪlɪə/`
   - 词义
-    - n. 纤毛
+    - n.
+      - 纤毛
   - 近义词
-    - n. 纤毛；[解剖]睫毛
-      - `eyelash`
-      - `pilus`
+    - n.
+      - 纤毛；[解剖]睫毛
+        - `eyelash`
+        - `pilus`
   - 例句
     - `Each comb plate is a simple rectangular paddle composed of cilia.`
       - 每个栉板都是纤毛组成的矩形的桨。

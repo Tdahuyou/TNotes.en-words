@@ -1,10 +1,14 @@
 - gaucherie
   - 发音
-    - 英 `/'gəuʃəriː/`
-    - 美 `/undefined/`
+    - 英
+      - `/'gəuʃəriː/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 笨拙
+    - n.
+      - 笨拙
   - 近义词
-    - n. 笨拙；无礼
-      - `bearishness`
-      - `unwieldiness`
+    - n.
+      - 笨拙；无礼
+        - `bearishness`
+        - `unwieldiness`

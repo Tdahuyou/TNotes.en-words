@@ -1,32 +1,46 @@
 - fade
   - 发音
-    - 英 `/feɪd/`
-    - 美 `/fed/`
+    - 英
+      - `/feɪd/`
+    - 美
+      - `/fed/`
   - 词义
-    - v. 褪色；凋谢；逐渐消失
-    - `to gradually disappear`
+    - v.
+      - 褪色；凋谢；逐渐消失
+        - `to gradually disappear`
   - 同根词
     - adj.
-      - `faded` 已褪色的；已凋谢的
+      - `faded`
+        - 已褪色的；已凋谢的
     - n.
-      - `fading` 褪色；衰退；凋谢
+      - `fading`
+        - 褪色；衰退；凋谢
     - v.
-      - `fading` 使衰落（fade的ing形式）；褪色
+      - `fading`
+        - 使衰落（fade的ing形式）；褪色
   - 近义词
-    - vi. 褪色；凋谢；逐渐消失
-      - `peter`
-      - `color fading`
-    - vt. 使褪色
-      - `discolor`
-    - adj. 平淡的；乏味的
-      - `stupid`
-      - `literal-minded`
+    - vi.
+      - 褪色；凋谢；逐渐消失
+        - `peter`
+        - `color fading`
+    - vt.
+      - 使褪色
+        - `discolor`
+    - adj.
+      - 平淡的；乏味的
+        - `stupid`
+        - `literal-minded`
   - 短语
-    - `fade away` 逐渐消失 
-    - `fade out` v. 淡出；渐弱 
-    - `fade in` 淡入；渐显 
-    - `fade from` 从…中消逝 
-    - `fade into` 渐渐融入于 
+    - `fade away`
+      - 逐渐消失 
+    - `fade out`
+      - v. 淡出；渐弱 
+    - `fade in`
+      - 淡入；渐显 
+    - `fade from`
+      - 从…中消逝 
+    - `fade into`
+      - 渐渐融入于 
   - 例句
     - `Hopes of a peace settlement are beginning to fade.`
       - 达成和平协议的希望日渐渺茫。

@@ -1,13 +1,17 @@
 - updraft
   - 发音
-    - 英 `/'ʌpdrɑːft/`
-    - 美 `/'ʌpdræft/`
+    - 英
+      - `/'ʌpdrɑːft/`
+    - 美
+      - `/'ʌpdræft/`
   - 词义
-    - n. 上升气流
+    - n.
+      - 上升气流
   - 近义词
-    - n. 上升气流；[建]向上之排气
-      - `upcurrent`
-      - `ascending air current`
+    - n.
+      - 上升气流；[建]向上之排气
+        - `upcurrent`
+        - `ascending air current`
   - 例句
     - `Peak updraft strength is slightly enhanced with hodograph curvature, 29.0 m/s in B versus 26.1 in C.`
       - 山顶上升气流强度随速矢端迹曲率加大而稍有加强，在（图上）B点是每秒29米，C点是每秒26.1米。

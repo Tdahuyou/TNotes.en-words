@@ -1,19 +1,25 @@
 - hygrometer
   - 发音
-    - 英 `/haɪ'grɒmɪtə/`
-    - 美 `/haɪ'grɑmətɚ/`
+    - 英
+      - `/haɪ'grɒmɪtə/`
+    - 美
+      - `/haɪ'grɑmətɚ/`
   - 词义
-    - n. 湿度计
-    - `any of various instruments for measuring humidity `
+    - n.
+      - 湿度计
+        - `any of various instruments for measuring humidity `
   - 同根词
     - adj.
-      - `hygroscopic` 吸湿的；湿度计的；易潮湿的
+      - `hygroscopic`
+        - 吸湿的；湿度计的；易潮湿的
     - n.
-      - `hygroscope` [气象] 湿度计；验湿器
+      - `hygroscope`
+        - [气象] 湿度计；验湿器
   - 近义词
-    - n. [气象]湿度计
-      - `humidiometer`
-      - `moisture tester`
+    - n.
+      - [气象]湿度计
+        - `humidiometer`
+        - `moisture tester`
   - 例句
     - `1 hygrometer (belonged to FitzRoy)`
       - 1个湿度计（属于菲茨罗伊）

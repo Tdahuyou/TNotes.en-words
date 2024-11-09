@@ -1,26 +1,33 @@
 - subsist
   - 发音
-    - 英 `/səb'sɪst/`
-    - 美 `/səb'sɪst/`
+    - 英
+      - `/səb'sɪst/`
+    - 美
+      - `/səb'sɪst/`
   - 词义
-    - vi. 存活，生存
-    - `to stay alive when you only have small amounts of food or money`
+    - vi.
+      - 存活，生存
+        - `to stay alive when you only have small amounts of food or money`
   - 记忆
     - sub(在…下面) + sist(站立) → 站在下面 → 生存
   - 同根词
     - n.
-      - `subsistence` 生活；生存；存在
+      - `subsistence`
+        - 生活；生存；存在
   - 近义词
-    - vi. 存在；维持生活
-      - `exist`
-      - `occur`
-    - vt. 供养
-      - `maintain`
-      - `support`
-      - `sustain`
-      - `provide for`
+    - vi.
+      - 存在；维持生活
+        - `exist`
+        - `occur`
+    - vt.
+      - 供养
+        - `maintain`
+        - `support`
+        - `sustain`
+        - `provide for`
   - 短语
-    - `subsist on` 靠…生存 
+    - `subsist on`
+      - 靠…生存 
   - 例句
     - `The prisoners subsisted on one mug of the worst quality porridge three times a day.`
       - 犯人一天三次靠一杯最差的粥维持生活。

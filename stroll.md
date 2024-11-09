@@ -1,21 +1,29 @@
 - stroll
   - 发音
-    - 英 `/strəʊl/`
-    - 美 `/strol/`
+    - 英
+      - `/strəʊl/`
+    - 美
+      - `/strol/`
   - 词义
-    - n. 漫步；闲逛；巡回演出
-    - v. 散步；闲逛；巡回演出
-    - `to walk somewhere in a slow relaxed way`
+    - n.
+      - 漫步；闲逛；巡回演出
+    - v.
+      - 散步；闲逛；巡回演出
+        - `to walk somewhere in a slow relaxed way`
   - 同根词
     - n.
-      - `stroller` 散步者；流浪者；（美）折叠式婴儿车；巡回演出的演员
+      - `stroller`
+        - 散步者；流浪者；（美）折叠式婴儿车；巡回演出的演员
   - 近义词
-    - n. 漫步；闲逛；巡回演出
-      - `tour`
-      - `bummel`
-    - vi. 散步；闲逛；巡回演出
-      - `roam around`
-      - `have a walk`
-    - vt. 散步；闲逛
-      - `roam around`
-      - `have a walk`
+    - n.
+      - 漫步；闲逛；巡回演出
+        - `tour`
+        - `bummel`
+    - vi.
+      - 散步；闲逛；巡回演出
+        - `roam around`
+        - `have a walk`
+    - vt.
+      - 散步；闲逛
+        - `roam around`
+        - `have a walk`

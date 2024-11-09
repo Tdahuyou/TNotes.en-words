@@ -1,13 +1,17 @@
 - hippopotamus
   - 发音
-    - 英 `/ˌhɪpəˈpɒtəməs/`
-    - 美 `/ˌhɪpəˈpɑtəməs/`
+    - 英
+      - `/ˌhɪpəˈpɒtəməs/`
+    - 美
+      - `/ˌhɪpəˈpɑtəməs/`
   - 词义
-    - n. 河马
-    - `a large grey African animal with a big head and mouth that lives near water`
+    - n.
+      - 河马
+        - `a large grey African animal with a big head and mouth that lives near water`
   - 近义词
-    - n. [脊椎]河马
-      - `river horse`
+    - n.
+      - [脊椎]河马
+        - `river horse`
   - 例句
     - `Still, now we knew for sure where whales came from and that the hippopotamus theory wasn't complete science fiction.`
       - 虽然，我们现在已肯定知道鲸来自何处，但是我们也清楚了，河马之说还不够完整。

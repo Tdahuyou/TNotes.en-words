@@ -1,17 +1,22 @@
 - zealotry
   - 发音
-    - 英 `/'zelətri/`
-    - 美 `/undefined/`
+    - 英
+      - `/'zelətri/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 狂热
-    - `extreme or excessive zeal or devotion `
+    - n.
+      - 狂热
+        - `extreme or excessive zeal or devotion `
   - 同根词
     - n.
-      - `zealot` 狂热者；犹太教狂热信徒
+      - `zealot`
+        - 狂热者；犹太教狂热信徒
   - 近义词
-    - n. 狂热的行为；狂言；狂热
-      - `abandon`
-      - `mania`
+    - n.
+      - 狂热的行为；狂言；狂热
+        - `abandon`
+        - `mania`
   - 例句
     - `Even so, there is some fear of zealotry.`
       - 即便如此，还是担心狂热分子。

@@ -1,16 +1,20 @@
 - folkway
   - 发音
-    - 英 `/'foukˌweɪ/`
-    - 美 `/'fəukwei/`
+    - 英
+      - `/'foukˌweɪ/`
+    - 美
+      - `/'fəukwei/`
   - 词义
-    - n. 社会风俗
+    - n.
+      - 社会风俗
   - 记忆
     - folk(民间) + way(方式) → 民间的行事方式 → 社会习俗
   - 近义词
-    - n. 民风；社会习俗；习惯
-      - `manner`
-      - `habit`
-      - `way`
+    - n.
+      - 民风；社会习俗；习惯
+        - `manner`
+        - `habit`
+        - `way`
   - 例句
     - `The folkway and custom of Shijiazhuang Village, Anqiu City, are profound and famous.`
       - 安丘市石家庄村的民俗风情是很浓厚且著名的。

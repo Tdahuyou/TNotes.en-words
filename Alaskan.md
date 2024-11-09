@@ -1,9 +1,12 @@
 - Alaskan
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 阿拉斯加人a阿拉斯加的
+    - n.
+      - 阿拉斯加人a阿拉斯加的
   - 例句
     - `But his obeying the ordinary driving commands of the Alaskan trail is no demonstration that he is yours. Any dog in Alaska would obey you as he obeyed.`
       - 他遵守阿拉斯加的驱赶命令并不意味着他就是你的狗，任何阿拉斯加的狗都会像他一样对你俯首贴耳。

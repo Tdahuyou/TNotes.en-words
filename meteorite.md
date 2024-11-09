@@ -1,21 +1,29 @@
 - meteorite
   - 发音
-    - 英 `/'miːtiəraɪt/`
-    - 美 `/'mitɪəraɪt/`
+    - 英
+      - `/'miːtiəraɪt/`
+    - 美
+      - `/'mitɪəraɪt/`
   - 词义
-    - n. 陨石
-    - `a piece of rock or metal from space that has landed on Earth`
+    - n.
+      - 陨石
+        - `a piece of rock or metal from space that has landed on Earth`
   - 同根词
     - adj.
-      - `meteoric` 大气的；流星的；疾速的
-      - `meteoritic` 陨星的；陨石的
+      - `meteoric`
+        - 大气的；流星的；疾速的
+      - `meteoritic`
+        - 陨星的；陨石的
     - n.
-      - `meteor` 流星；[气象] 大气现象
-      - `meteoritic` 陨星学
+      - `meteor`
+        - 流星；[气象] 大气现象
+      - `meteoritic`
+        - 陨星学
   - 近义词
-    - n. [天]陨星；流星
-      - `Shooting stars`
-      - `falling star`
+    - n.
+      - [天]陨星；流星
+        - `Shooting stars`
+        - `falling star`
   - 例句
     - `While flying over the Channel, the pilot saw what he thought to be a meteorite.`
       - 飞过英吉利海峡时，驾驶员认为他看见了一颗陨星。

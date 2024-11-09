@@ -1,17 +1,22 @@
 - tricycle
   - 发音
-    - 英 `/'traɪsɪk(ə)l/`
-    - 美 `/'traɪsɪkl/`
+    - 英
+      - `/'traɪsɪk(ə)l/`
+    - 美
+      - `/'traɪsɪkl/`
   - 词义
-    - n. 三轮车
-    - `a bicycle with three wheels, especially for young children`
+    - n.
+      - 三轮车
+        - `a bicycle with three wheels, especially for young children`
   - 近义词
-    - n. [车辆]三轮车
-      - `trike`
-      - `pedicab`
-      - `trishaw`
+    - n.
+      - [车辆]三轮车
+        - `trike`
+        - `pedicab`
+        - `trishaw`
   - 短语
-    - `motor tricycle` 机动三轮车；三轮摩托车 
+    - `motor tricycle`
+      - 机动三轮车；三轮摩托车 
   - 例句
     - `He cannibalized his old bicycle to repair his tricycle.`
       - 他把旧自行车的零件拆下来修配他的三轮车。

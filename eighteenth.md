@@ -1,19 +1,28 @@
 - eighteenth
   - 发音
-    - 英 `/'eɪ'tiːnθ/`
-    - 美 `/'e'tinθ/`
+    - 英
+      - `/'eɪ'tiːnθ/`
+    - 美
+      - `/'e'tinθ/`
   - 词义
-    - num. 第十八,十八分之一
+    - num.
+      - 第十八,十八分之一
   - 同根词
     - adj.
-      - `eight` 八的
-      - `eighteen` 十八个的，十八的
+      - `eight`
+        - 八的
+      - `eighteen`
+        - 十八个的，十八的
     - n.
-      - `eight` 八字形
-      - `eighteen` 十八，十八个
+      - `eight`
+        - 八字形
+      - `eighteen`
+        - 十八，十八个
     - num.
-      - `eight` 八；八个；第八
-      - `eighteen` 十八
+      - `eight`
+        - 八；八个；第八
+      - `eighteen`
+        - 十八
   - 例句
     - `The first accurate census, I think, is in Copenhagen at the end of the eighteenth century.`
       - 我认为,第一次精确的人口普查,是在十八世纪末的哥本哈根

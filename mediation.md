@@ -1,28 +1,41 @@
 - mediation
   - 发音
-    - 英 `/ˌmiːdi'eiʃən/`
-    - 美 `/midɪ'eʃən/`
+    - 英
+      - `/ˌmiːdi'eiʃən/`
+    - 美
+      - `/midɪ'eʃən/`
   - 词义
-    - n. 调解；仲裁
+    - n.
+      - 调解；仲裁
   - 同根词
     - adj.
-      - `mediate` 间接的；居间的
-      - `mediatorial` 调解的；仲裁的
-      - `mediatory` 调解的；斡旋的
+      - `mediate`
+        - 间接的；居间的
+      - `mediatorial`
+        - 调解的；仲裁的
+      - `mediatory`
+        - 调解的；斡旋的
     - n.
-      - `mediator` 调停者；传递者；中介物
-      - `mediacy` 调解；中间状态；媒介
-      - `mediatrix` 女仲裁者
+      - `mediator`
+        - 调停者；传递者；中介物
+      - `mediacy`
+        - 调解；中间状态；媒介
+      - `mediatrix`
+        - 女仲裁者
     - vi.
-      - `mediate` 调解；斡旋；居中
+      - `mediate`
+        - 调解；斡旋；居中
     - vt.
-      - `mediate` 调停；传达
+      - `mediate`
+        - 调停；传达
   - 近义词
-    - n. 调解；仲裁；调停
-      - `intervention`
-      - `arbitration`
+    - n.
+      - 调解；仲裁；调停
+        - `intervention`
+        - `arbitration`
   - 短语
-    - `mediation process` 调解过程；中介过程 
+    - `mediation process`
+      - 调解过程；中介过程 
   - 例句
     - `Even if a marriage is doomed, the trend in family law is to resolve the dispute out of court, typically through mediation.`
       - 即使是一桩婚姻注定要遭受失败，在家庭法中也将是趋向于在法庭外解决争执，典型的是通过调解。

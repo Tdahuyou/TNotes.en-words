@@ -1,10 +1,14 @@
 - maisonette
   - 发音
-    - 英 `/,meɪzə'net/`
-    - 美 `/'mezə'nɛt/`
+    - 英
+      - `/,meɪzə'net/`
+    - 美
+      - `/'mezə'nɛt/`
   - 词义
-    - n. 小房屋,出租房间
+    - n.
+      - 小房屋,出租房间
   - 近义词
-    - n. 公寓；小房屋
-      - `apartment`
-      - `flat`
+    - n.
+      - 公寓；小房屋
+        - `apartment`
+        - `flat`

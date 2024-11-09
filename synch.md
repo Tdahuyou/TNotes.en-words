@@ -1,13 +1,17 @@
 - synch
   - 发音
-    - 英 `/sɪŋk/`
-    - 美 `/siŋk/`
+    - 英
+      - `/sɪŋk/`
+    - 美
+      - `/siŋk/`
   - 词义
-    - v. 同时发生，同步
+    - v.
+      - 同时发生，同步
   - 近义词
-    - n. 同时，同步
-      - `same time`
-      - `real time`
+    - n.
+      - 同时，同步
+        - `same time`
+        - `real time`
   - 例句
     - `By using a Recovery Protocol, we can stay in synch with our overall vision, values, and goals during the rough times.`
       - 通过利用恢复协议，在艰难时期，我们可以与我们整个的视界、价值和目标保持同步。

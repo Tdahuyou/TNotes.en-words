@@ -1,20 +1,26 @@
 - salubrious
   - 发音
-    - 英 `/sə'luːbriəs/`
-    - 美 `/sə'lubrɪəs/`
+    - 英
+      - `/sə'luːbriəs/`
+    - 美
+      - `/sə'lubrɪəs/`
   - 词义
-    - adj. 有益健康的
+    - adj.
+      - 有益健康的
   - 记忆
     - “是溜百岁” → 是经常遛弯儿让老人活到了百岁 → 有益健康的
   - 同根词
     - adj.
-      - `salutary` 有益的，有用的；有益健康的
+      - `salutary`
+        - 有益的，有用的；有益健康的
     - n.
-      - `salubrity` 有益健康
+      - `salubrity`
+        - 有益健康
   - 近义词
-    - adj. 清爽的；气候有益健康的
-      - `debonaire`
-      - `netto`
+    - adj.
+      - 清爽的；气候有益健康的
+        - `debonaire`
+        - `netto`
   - 例句
     - `The lines between salubrious and unwholesome government information are not easy to draw.`
       - 有益和有害的政府信息之间的界线并不那么容易划分。

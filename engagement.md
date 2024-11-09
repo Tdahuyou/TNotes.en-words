@@ -1,24 +1,32 @@
 - engagement
   - 发音
-    - 英 `/ɪn'geɪdʒm(ə)nt; en-/`
-    - 美 `/ɪn'ɡedʒmənt/`
+    - 英
+      - `/ɪn'geɪdʒm(ə)nt; en-/`
+    - 美
+      - `/ɪn'ɡedʒmənt/`
   - 词义
-    - n. 约会,婚约
-    - `an agreement between two people to marry, or the period of time they are engaged`
+    - n.
+      - 约会,婚约
+        - `an agreement between two people to marry, or the period of time they are engaged`
   - 同根词
     - adj.
-      - `engaged` 使用中的，忙碌的
+      - `engaged`
+        - 使用中的，忙碌的
     - v.
-      - `engaged` 保证；约定；同…订婚（engage的过去分词）
+      - `engaged`
+        - 保证；约定；同…订婚（engage的过去分词）
     - vi.
-      - `engage` 从事；答应，保证；交战；啮合
+      - `engage`
+        - 从事；答应，保证；交战；啮合
     - vt.
-      - `engage` 吸引，占用；使参加；雇佣；使订婚；预定
+      - `engage`
+        - 吸引，占用；使参加；雇佣；使订婚；预定
   - 近义词
-    - n. 婚约；约会；交战；诺言
-      - `date`
-      - `word`
-      - `contract`
+    - n.
+      - 婚约；约会；交战；诺言
+        - `date`
+        - `word`
+        - `contract`
   - 例句
     - `Their engagement was announced in the paper.`
       - 他们订婚的消息在报上公布了。

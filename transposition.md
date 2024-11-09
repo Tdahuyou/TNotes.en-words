@@ -1,24 +1,34 @@
 - transposition
   - 发音
-    - 英 `/ˌtrænspə'ziʃən/`
-    - 美 `/,trænzpə'zɪʃən/`
+    - 英
+      - `/ˌtrænspə'ziʃən/`
+    - 美
+      - `/,trænzpə'zɪʃən/`
   - 词义
-    - n. 调换，变换
+    - n.
+      - 调换，变换
   - 记忆
     - trans (改变) + position (位置) → 改变位置 → 调换
   - 同根词
     - adj.
-      - `transposed` 移调的；变调的
-      - `transposable` 转座的；可换位的；有换位可能的
+      - `transposed`
+        - 移调的；变调的
+      - `transposable`
+        - 转座的；可换位的；有换位可能的
     - n.
-      - `transpose` 转置阵
+      - `transpose`
+        - 转置阵
     - v.
-      - `transposed` 调换；颠倒顺序；移项（transpore的过去分词）
+      - `transposed`
+        - 调换；颠倒顺序；移项（transpore的过去分词）
     - vi.
-      - `transpose` 进行变换
+      - `transpose`
+        - 进行变换
     - vt.
-      - `transpose` 调换；移项；颠倒顺序
+      - `transpose`
+        - 调换；移项；颠倒顺序
   - 近义词
-    - n. [数]移项；调换；换置；变调
-      - `redeployment`
-      - `hypallage`
+    - n.
+      - [数]移项；调换；换置；变调
+        - `redeployment`
+        - `hypallage`

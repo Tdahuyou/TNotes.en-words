@@ -1,21 +1,28 @@
 - decorum
   - 发音
-    - 英 `/dɪ'kɔːrəm/`
-    - 美 `/dɪ'kɔrəm/`
+    - 英
+      - `/dɪ'kɔːrəm/`
+    - 美
+      - `/dɪ'kɔrəm/`
   - 词义
-    - n. 礼仪；礼貌；端正；恪守礼仪
-    - `Decorum is behaviour that people consider to be correct, polite, and respectable`
+    - n.
+      - 礼仪；礼貌；端正；恪守礼仪
+        - `Decorum is behaviour that people consider to be correct, polite, and respectable`
   - 同根词
     - adj.
-      - `decorous` 有礼貌的，高雅的；端正的
+      - `decorous`
+        - 有礼貌的，高雅的；端正的
     - adv.
-      - `decorously` 有礼貌地；高雅地
+      - `decorously`
+        - 有礼貌地；高雅地
     - n.
-      - `decorousness` 端正；有礼
+      - `decorousness`
+        - 端正；有礼
   - 近义词
-    - n. 礼仪；礼貌；端正；恪守礼仪
-      - `ceremony`
-      - `protocol`
+    - n.
+      - 礼仪；礼貌；端正；恪守礼仪
+        - `ceremony`
+        - `protocol`
   - 例句
     - `I was treated with decorum and respect throughout the investigation.`
       - 整个调查当中我受到了礼遇和尊重。

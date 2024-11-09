@@ -1,10 +1,13 @@
 - nucleons
   - 发音
-    - 英 `/'njuːklɪɒn/`
-    - 美 `/'nʊklɪɑn/`
+    - 英
+      - `/'njuːklɪɒn/`
+    - 美
+      - `/'nʊklɪɑn/`
   - 词义
-    - n. [高能]核子
-    - `a proton or neutron, esp one present in an atomic nucleus `
+    - n.
+      - [高能]核子
+        - `a proton or neutron, esp one present in an atomic nucleus `
   - 记忆
     - nucle(核的) + on(物) → 核子
   - 例句

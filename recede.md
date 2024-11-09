@@ -1,23 +1,29 @@
 - recede
   - 发音
-    - 英 `/rɪ'siːd/`
-    - 美 `/rɪ'sid/`
+    - 英
+      - `/rɪ'siːd/`
+    - 美
+      - `/rɪ'sid/`
   - 词义
-    - vi. 退，后退；渐渐远去；逐渐减弱
-    - `if something you can see or hear recedes, it gets further and further away until it disappears`
+    - vi.
+      - 退，后退；渐渐远去；逐渐减弱
+        - `if something you can see or hear recedes, it gets further and further away until it disappears`
   - 记忆
     - re(向后) + ced(走) + e → 向后走 → 后退
   - 近义词
-    - vi. 后退；减弱
-      - `lower`
-      - `rein back`
-    - vt. 归还
-      - `replace`
-      - `return`
-      - `restore`
-      - `give again`
+    - vi.
+      - 后退；减弱
+        - `lower`
+        - `rein back`
+    - vt.
+      - 归还
+        - `replace`
+        - `return`
+        - `restore`
+        - `give again`
   - 短语
-    - `recede from` v. 收回；撤回 
+    - `recede from`
+      - v. 收回；撤回 
   - 例句
     - `The pain in his head gradually receded.`
       - 他的头痛逐渐缓解。

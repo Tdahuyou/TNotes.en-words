@@ -1,18 +1,25 @@
 - helix
   - 发音
-    - 英 `/'hiːliks/`
-    - 美 `/'hilɪks/`
+    - 英
+      - `/'hiːliks/`
+    - 美
+      - `/'hilɪks/`
   - 词义
-    - n. 螺旋
-    - `a line that curves and rises around a central line`
+    - n.
+      - 螺旋
+        - `a line that curves and rises around a central line`
   - 近义词
-    - n. [数][建]螺旋，螺旋状物；[解剖]耳轮
-      - `screw`
-      - `spiral`
+    - n.
+      - [数][建]螺旋，螺旋状物；[解剖]耳轮
+        - `screw`
+        - `spiral`
   - 短语
-    - `double helix` [生化]双螺旋 
-    - `helix angle` 螺旋角；螺旋线角；螺旋升角；节面角（伞齿轮的） 
-    - `helix structure` 螺旋结构 
+    - `double helix`
+      - [生化]双螺旋 
+    - `helix angle`
+      - 螺旋角；螺旋线角；螺旋升角；节面角（伞齿轮的） 
+    - `helix structure`
+      - 螺旋结构 
   - 例句
     - `Stamen is most, helix is arranged, centrifugal direction development, sometimes little at 10, often have degrade staminal .`
       - 雄蕊多数，螺旋排列，离心方向发育，有时少于10个，常有退化雄蕊。

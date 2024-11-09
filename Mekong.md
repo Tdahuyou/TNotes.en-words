@@ -1,12 +1,17 @@
 - Mekong
   - 发音
-    - 英 `/'meɪ'kɔŋ/`
-    - 美 `/'me'kɔŋ/`
+    - 英
+      - `/'meɪ'kɔŋ/`
+    - 美
+      - `/'me'kɔŋ/`
   - 词义
-    - n. 湄公河
+    - n.
+      - 湄公河
   - 短语
-    - `mekong river` 湄公河（东南亚最大河流发源于中国唐古拉山的东北） 
-    - `mekong delta` n. 湄公河三角洲；湄公河口（东南亚） 
+    - `mekong river`
+      - 湄公河（东南亚最大河流发源于中国唐古拉山的东北） 
+    - `mekong delta`
+      - n. 湄公河三角洲；湄公河口（东南亚） 
   - 例句
     - `I would not, for example, let her swim in the Mekong.`
       - 我不会让她在比如湄公河这样的河里游泳。

@@ -1,32 +1,48 @@
 - multiplicative
   - 发音
-    - 英 `/ˌmʌltɪplɪ'keɪtɪv/`
-    - 美 `/'mʌltɪplɪketɪv/`
+    - 英
+      - `/ˌmʌltɪplɪ'keɪtɪv/`
+    - 美
+      - `/'mʌltɪplɪketɪv/`
   - 词义
-    - adj. 倍增的；乘法的
+    - adj.
+      - 倍增的；乘法的
   - 同根词
     - adj.
-      - `multiple` 多重的；多样的；许多的
-      - `multiply` 多层的；多样的
-      - `multiplicate` 多种的；多重的
+      - `multiple`
+        - 多重的；多样的；许多的
+      - `multiply`
+        - 多层的；多样的
+      - `multiplicate`
+        - 多种的；多重的
     - adv.
-      - `multiply` 多样地；复合地
-      - `multiplicatively` 用乘法
+      - `multiply`
+        - 多样地；复合地
+      - `multiplicatively`
+        - 用乘法
     - n.
-      - `multiple` 倍数；[电] 并联
-      - `multiplication` [数] 乘法；增加
-      - `multiplier` [数] 乘数；[电子] 倍增器；增加者；繁殖者
-      - `multiplicator` [数] 乘数；倍率器；放大器
+      - `multiple`
+        - 倍数；[电] 并联
+      - `multiplication`
+        - [数] 乘法；增加
+      - `multiplier`
+        - [数] 乘数；[电子] 倍增器；增加者；繁殖者
+      - `multiplicator`
+        - [数] 乘数；倍率器；放大器
     - vi.
-      - `multiply` 乘；繁殖；增加
+      - `multiply`
+        - 乘；繁殖；增加
     - vt.
-      - `multiply` 乘；使增加；使繁殖；使相乘
+      - `multiply`
+        - 乘；使增加；使繁殖；使相乘
   - 近义词
-    - adj. [数]乘法的；增加的
-      - `incremental`
-      - `accessorial`
-    - n. [数]乘法；倍数词
-      - `multiplication sign`
+    - adj.
+      - [数]乘法的；增加的
+        - `incremental`
+        - `accessorial`
+    - n.
+      - [数]乘法；倍数词
+        - `multiplication sign`
   - 例句
     - `Like many similar programs, it can handle multiplicative scale changes.`
       - 像许多类似的方案，它可以处理乘法规模的变化。

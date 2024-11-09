@@ -1,24 +1,34 @@
 - satirise
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - v. 讥刺；讽刺
+    - v.
+      - 讥刺；讽刺
   - 同根词
     - adj.
-      - `satirical` 讽刺性的；讥讽的；爱挖苦人的
+      - `satirical`
+        - 讽刺性的；讥讽的；爱挖苦人的
     - adv.
-      - `satirically` 讽刺地
+      - `satirically`
+        - 讽刺地
     - n.
-      - `satire` 讽刺；讽刺文学，讽刺作品
-      - `satirist` 讽刺作家；爱挖苦的人
+      - `satire`
+        - 讽刺；讽刺文学，讽刺作品
+      - `satirist`
+        - 讽刺作家；爱挖苦的人
     - vi.
-      - `satirize` 写讽刺作品
+      - `satirize`
+        - 写讽刺作品
     - vt.
-      - `satirize` 讽刺；挖苦
+      - `satirize`
+        - 讽刺；挖苦
   - 近义词
-    - vt. 讥刺；讽刺
-      - `dig at`
+    - vt.
+      - 讥刺；讽刺
+        - `dig at`
   - 例句
     - `Artists have been allowed to gleefully satirise the monarchy for centuries.`
       - 几个世纪以来，艺术家都被允许欢快地讽刺君主制。

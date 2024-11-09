@@ -1,25 +1,32 @@
 - swindle
   - 发音
-    - 英 `/'swɪndl/`
-    - 美 `/swɪndl/`
+    - 英
+      - `/'swɪndl/`
+    - 美
+      - `/swɪndl/`
   - 词义
-    - vt&n. 诈骗，骗取
-    - `to get money from someone by deceiving them`
+    - vt&n.
+      - 诈骗，骗取
+        - `to get money from someone by deceiving them`
   - 记忆
     - s + wind(风) + le → 四处吹风， 搞诈骗 → 诈骗， 骗取
   - 同根词
     - n.
-      - `swindler` 骗子
+      - `swindler`
+        - 骗子
   - 近义词
-    - n. 欺诈；骗局
-      - `fraudulence`
-      - `confidence trick`
-    - vt. 诈骗；骗取
-      - `nobble`
-      - `linken`
-    - vi. 诈骗
-      - `shark`
-      - `con game`
+    - n.
+      - 欺诈；骗局
+        - `fraudulence`
+        - `confidence trick`
+    - vt.
+      - 诈骗；骗取
+        - `nobble`
+        - `linken`
+    - vi.
+      - 诈骗
+        - `shark`
+        - `con game`
   - 例句
     - `a big tax swindle`
       - 巨额税款诈骗

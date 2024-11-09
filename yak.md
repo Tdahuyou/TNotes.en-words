@@ -1,12 +1,16 @@
 - yak
   - 发音
-    - 英 `/jæk/`
-    - 美 `/jæk/`
+    - 英
+      - `/jæk/`
+    - 美
+      - `/jæk/`
   - 词义
-    - n. 牦牛
-    - `an animal of central Asia that looks like a cow with long hair`
+    - n.
+      - 牦牛
+        - `an animal of central Asia that looks like a cow with long hair`
   - 短语
-    - `yak hair` 牦牛毛 
+    - `yak hair`
+      - 牦牛毛 
   - 例句
     - `We can sell the yak skins and the meat and hair.`
       - 我们把牦牛皮、牦牛肉和牦牛的毛卖出去。

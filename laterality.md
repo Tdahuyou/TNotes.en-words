@@ -1,15 +1,23 @@
 - laterality
   - 发音
-    - 英 `/ˌlætə'rælɪti/`
-    - 美 `/,lætə'rælɪti/`
+    - 英
+      - `/ˌlætə'rælɪti/`
+    - 美
+      - `/,lætə'rælɪti/`
   - 词义
-    - n. 对一侧面的偏重，偏向一侧状态
+    - n.
+      - 对一侧面的偏重，偏向一侧状态
   - 同根词
     - adj.
-      - `lateral` 侧面的，横向的
+      - `lateral`
+        - 侧面的，横向的
     - n.
-      - `lateral` 侧部；[语] 边音
-      - `lateralization` （尤指脑部的）偏侧优势；偏侧性
+      - `lateral`
+        - 侧部；[语] 边音
+      - `lateralization`
+        - （尤指脑部的）偏侧优势；偏侧性
     - vt.
-      - `lateral` 横向传球
-      - `lateralize` 使向侧面
+      - `lateral`
+        - 横向传球
+      - `lateralize`
+        - 使向侧面

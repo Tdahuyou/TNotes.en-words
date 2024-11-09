@@ -1,14 +1,18 @@
 - apothecary
   - 发音
-    - 英 `/ə'pɔθəˌk3ri/`
-    - 美 `/ə'pɑθə'kɛri/`
+    - 英
+      - `/ə'pɔθəˌk3ri/`
+    - 美
+      - `/ə'pɑθə'kɛri/`
   - 词义
-    - n. 药剂师；药材商
-    - `someone who mixed and sold medicines in the past`
+    - n.
+      - 药剂师；药材商
+        - `someone who mixed and sold medicines in the past`
   - 近义词
-    - n. [药]药剂师；药师；药材商
-      - `pharmacist`
-      - `dispenser`
+    - n.
+      - [药]药剂师；药师；药材商
+        - `pharmacist`
+        - `dispenser`
   - 例句
     - `Peter is a famous apothecary of this town.`
       - 彼得是这个镇上有名的药剂师。

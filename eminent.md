@@ -1,26 +1,33 @@
 - eminent
   - 发音
-    - 英 `/'emɪnənt/`
-    - 美 `/'ɛmɪnənt/`
+    - 英
+      - `/'emɪnənt/`
+    - 美
+      - `/'ɛmɪnənt/`
   - 词义
-    - adj. 显著的，杰出的
-    - `an eminent person is famous, important, and respected`
+    - adj.
+      - 显著的，杰出的
+        - `an eminent person is famous, important, and respected`
   - 记忆
     - e(出) + min(突出) + ent → 显著的， 杰出的
   - 同根词
     - adv.
-      - `eminently` 突出地；显著地
+      - `eminently`
+        - 突出地；显著地
     - n.
-      - `eminence` 显赫；卓越；高处
+      - `eminence`
+        - 显赫；卓越；高处
   - 近义词
-    - adj. 杰出的；有名的；明显的
-      - `outstanding`
-      - `excellent`
-      - `obvious`
-      - `prominent`
-      - `brilliant`
+    - adj.
+      - 杰出的；有名的；明显的
+        - `outstanding`
+        - `excellent`
+        - `obvious`
+        - `prominent`
+        - `brilliant`
   - 短语
-    - `eminent domain` [律]土地征用权；国家最高支配权 
+    - `eminent domain`
+      - [律]土地征用权；国家最高支配权 
   - 例句
     - `an eminent lawyer`
       - 杰出的律师

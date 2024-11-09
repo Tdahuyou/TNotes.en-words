@@ -1,10 +1,13 @@
 - hedgehog
   - 发音
-    - 英 `/'hedʒ(h)ɒg/`
-    - 美 `/'hɛdʒhɔɡ/`
+    - 英
+      - `/'hedʒ(h)ɒg/`
+    - 美
+      - `/'hɛdʒhɔɡ/`
   - 词义
-    - n. 刺猬
-    - `a small brown European animal whose body is round and covered with sharp needle-like  spines `
+    - n.
+      - 刺猬
+        - `a small brown European animal whose body is round and covered with sharp needle-like  spines `
   - 例句
     - `So she went in search of her hedgehog.`
       - 因此她就走了，找她的刺猬去了。

@@ -1,11 +1,15 @@
 - Bering
   - 发音
-    - 英 `/'bɛriŋ/`
-    - 美 `/'bɛriŋ/`
+    - 英
+      - `/'bɛriŋ/`
+    - 美
+      - `/'bɛriŋ/`
   - 词义
   - 短语
-    - `bering sea` 白令海 
-    - `bering strait` 白令海峡 
+    - `bering sea`
+      - 白令海 
+    - `bering strait`
+      - 白令海峡 
   - 例句
     - `I first came to North American in prehistoric times when I crossed the Bering Strait land bridge from Eurasia.`
       - 在史前时期，我从欧亚大陆穿越白令海峡、走过陆地、桥第一次来到了北美。

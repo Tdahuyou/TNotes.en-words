@@ -1,10 +1,13 @@
 - horsehair
   - 发音
-    - 英 `/'hɔːsheə/`
-    - 美 `/'hɔrshɛr/`
+    - 英
+      - `/'hɔːsheə/`
+    - 美
+      - `/'hɔrshɛr/`
   - 词义
-    - n. 马毛；马鬃
-    - `the hair from a horse’s  mane  and tail, sometimes used to fill the inside of furniture`
+    - n.
+      - 马毛；马鬃
+        - `the hair from a horse’s  mane  and tail, sometimes used to fill the inside of furniture`
   - 例句
     - `The differences, say the scientists, come from the way light bounces off horsehair.`
       - 科学家们认为，区别在于光经马毛反射的方式。

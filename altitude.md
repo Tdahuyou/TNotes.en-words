@@ -1,28 +1,39 @@
 - altitude
   - 发音
-    - 英 `/'æltɪtjuːd/`
-    - 美 `/'æltɪtud/`
+    - 英
+      - `/'æltɪtjuːd/`
+    - 美
+      - `/'æltɪtud/`
   - 词义
-    - n. 海拔，高度；
-    - `the height of an object or place above the sea`
+    - n.
+      - 海拔，高度；
+        - `the height of an object or place above the sea`
   - 记忆
     - alt(高的) + it + ude(表状态， 名词后缀) → 海拔， 高度
   - 同根词
     - adj.
-      - `altitudinal` 高度的
+      - `altitudinal`
+        - 高度的
   - 近义词
-    - n. 高地；高度；[数]顶垂线；（等级和地位等的）高级
-      - `height`
-      - `raise`
-      - `elevation`
-      - `rise`
+    - n.
+      - 高地；高度；[数]顶垂线；（等级和地位等的）高级
+        - `height`
+        - `raise`
+        - `elevation`
+        - `rise`
   - 短语
-    - `high altitude` 高海拔 
-    - `in one's altitude` ◎飘飘然；自高自大 
-    - `altitude control` 高度控制 
-    - `altitude sickness` 高空病 
-    - `altitude difference` 高度差，高差 
-    - `absolute altitude` [航空]绝对高度 
+    - `high altitude`
+      - 高海拔 
+    - `in one's altitude`
+      - ◎飘飘然；自高自大 
+    - `altitude control`
+      - 高度控制 
+    - `altitude sickness`
+      - 高空病 
+    - `altitude difference`
+      - 高度差，高差 
+    - `absolute altitude`
+      - [航空]绝对高度 
   - 例句
     - `The aircraft had reached its cruising altitude of about 39,000 feet.`
       - 那架飞机已经达到了大约三万九千英尺的巡航高度。

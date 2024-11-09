@@ -1,22 +1,30 @@
 - merciful
   - 发音
-    - 英 `/'mɜːsɪfʊl; -f(ə)l/`
-    - 美 `/'mɝsɪfl/`
+    - 英
+      - `/'mɜːsɪfʊl; -f(ə)l/`
+    - 美
+      - `/'mɝsɪfl/`
   - 词义
-    - adj. 宽大的；仁慈的；慈悲的
-    - `being kind to people and forgiving them rather than punishing them or being cruel`
+    - adj.
+      - 宽大的；仁慈的；慈悲的
+        - `being kind to people and forgiving them rather than punishing them or being cruel`
   - 同根词
     - adj.
-      - `merciless` 残忍的；无慈悲心的
+      - `merciless`
+        - 残忍的；无慈悲心的
     - adv.
-      - `mercilessly` 残忍地；毫无慈悲地
-      - `mercifully` 仁慈地
+      - `mercilessly`
+        - 残忍地；毫无慈悲地
+      - `mercifully`
+        - 仁慈地
     - n.
-      - `mercy` 仁慈，宽容；怜悯；幸运；善行
+      - `mercy`
+        - 仁慈，宽容；怜悯；幸运；善行
   - 近义词
-    - adj. 仁慈的；慈悲的；宽容的
-      - `kind`
-      - `humane`
+    - adj.
+      - 仁慈的；慈悲的；宽容的
+        - `kind`
+        - `humane`
   - 例句
     - `Merciful God, save us.`
       - 仁慈的上帝，救救我们吧。

@@ -1,10 +1,13 @@
 - rucksack
   - 发音
-    - 英 `/'rʌksæk; 'rʊk-/`
-    - 美 `/'rʊksæk/`
+    - 英
+      - `/'rʌksæk; 'rʊk-/`
+    - 美
+      - `/'rʊksæk/`
   - 词义
-    - n. 帆布背包
-    - `a bag used for carrying things on your back, especially by people on long walks`
+    - n.
+      - 帆布背包
+        - `a bag used for carrying things on your back, especially by people on long walks`
   - 例句
     - `You have to run five kilometers every morning, carrying a heavy rucksack and rifle.`
       - 每天早晨，你必须背着重重的帆布背包和步枪跑完5公里。

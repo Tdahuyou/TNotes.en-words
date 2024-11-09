@@ -1,14 +1,18 @@
 - keepsake
   - 发音
-    - 英 `/'kiːpseik/`
-    - 美 `/'kipsek/`
+    - 英
+      - `/'kiːpseik/`
+    - 美
+      - `/'kipsek/`
   - 词义
-    - n. 纪念品
-    - `a small object that you keep to remind you of someone`
+    - n.
+      - 纪念品
+        - `a small object that you keep to remind you of someone`
   - 近义词
-    - n. 纪念品
-      - `momento`
-      - `memento`
+    - n.
+      - 纪念品
+        - `momento`
+        - `memento`
   - 例句
     - `My friend gave me his picture as a keepsake before going away .`
       - 我的朋友在离别前给我一张照片留作纪念。

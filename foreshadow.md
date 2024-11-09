@@ -1,22 +1,28 @@
 - foreshadow
   - 发音
-    - 英 `/fɔː'ʃædəʊ/`
-    - 美 `/fɔr'ʃædo/`
+    - 英
+      - `/fɔː'ʃædəʊ/`
+    - 美
+      - `/fɔr'ʃædo/`
   - 词义
-    - v. 预示
-    - `to show or say that something will happen in the future`
+    - v.
+      - 预示
+        - `to show or say that something will happen in the future`
   - 同根词
     - n.
-      - `forerunner` 先驱；先驱者；预兆
+      - `forerunner`
+        - 先驱；先驱者；预兆
   - 近义词
-    - vt. 预示；成为…的前兆
-      - `indicate`
-      - `shadow`
-      - `announce`
-    - n. 预兆
-      - `warning`
-      - `predictive signs`
-      - `bodement`
+    - vt.
+      - 预示；成为…的前兆
+        - `indicate`
+        - `shadow`
+        - `announce`
+    - n.
+      - 预兆
+        - `warning`
+        - `predictive signs`
+        - `bodement`
   - 例句
     - `The revolution foreshadowed an entirely new social order.`
       - 这场革命预示着一种全新的社会秩序将要出现。

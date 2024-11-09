@@ -1,12 +1,17 @@
 - Russia
   - 发音
-    - 英 `/'rʌʃə/`
-    - 美 `/'rʌʃə/`
+    - 英
+      - `/'rʌʃə/`
+    - 美
+      - `/'rʌʃə/`
   - 词义
-    - n. 俄罗斯
+    - n.
+      - 俄罗斯
   - 短语
-    - `soviet russia` n. 苏联 
-    - `white russia` 白俄罗斯 
+    - `soviet russia`
+      - n. 苏联 
+    - `white russia`
+      - 白俄罗斯 
   - 例句
     - `This program is beamed at Russia.`
       - 这套节目是对俄罗斯广播的。

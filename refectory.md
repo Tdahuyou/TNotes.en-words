@@ -1,14 +1,18 @@
 - refectory
   - 发音
-    - 英 `/rɪ'fektri/`
-    - 美 `/rɪ'fɛktri/`
+    - 英
+      - `/rɪ'fektri/`
+    - 美
+      - `/rɪ'fɛktri/`
   - 词义
-    - n. 餐厅，食堂
-    - `a large room in a school, college etc where meals are served and eaten`
+    - n.
+      - 餐厅，食堂
+        - `a large room in a school, college etc where meals are served and eaten`
   - 近义词
-    - n. 食堂；（修道院，学院等处的）餐厅
-      - `canteen`
-      - `soupery`
+    - n.
+      - 食堂；（修道院，学院等处的）餐厅
+        - `canteen`
+        - `soupery`
   - 例句
     - `Conclusions Using HACCP method in refectory obtained good effect.`
       - 结论：在学校食堂应用HACCP管理是有效的。

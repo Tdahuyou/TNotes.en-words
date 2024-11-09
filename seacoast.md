@@ -1,14 +1,18 @@
 - seacoast
   - 发音
-    - 英 `/'si:,kəust/`
-    - 美 `/'si,kost/`
+    - 英
+      - `/'si:,kəust/`
+    - 美
+      - `/'si,kost/`
   - 词义
-    - n. 海滨
-    - `land bordering on the sea; a coast `
+    - n.
+      - 海滨
+        - `land bordering on the sea; a coast `
   - 近义词
-    - n. [海洋]海岸，沿岸；海滨
-      - `coast`
-      - `rivage`
+    - n.
+      - [海洋]海岸，沿岸；海滨
+        - `coast`
+        - `rivage`
   - 例句
     - `Armenia lacks a seacoast or a port.`
       - 亚美尼亚没有海岸和港口。

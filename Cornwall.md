@@ -1,7 +1,9 @@
 - Cornwall
   - 发音
-    - 英 `/'kɔ:nwɔ:l/`
-    - 美 `/'kɔ:nwɔ:l/`
+    - 英
+      - `/'kɔ:nwɔ:l/`
+    - 美
+      - `/'kɔ:nwɔ:l/`
   - 词义
   - 例句
     - `Prince Charles leads an expensive life and the Duchy of Cornwall is there to fund it.`

@@ -1,10 +1,13 @@
 - storyline
   - 发音
-    - 英 `/'stɔːrilaɪn/`
-    - 美 `/'stɔ:ri,lain/`
+    - 英
+      - `/'stɔːrilaɪn/`
+    - 美
+      - `/'stɔ:ri,lain/`
   - 词义
-    - n. 故事情节
-    - `The storyline of a book, movie, or play is its story and the way in which it develops`
+    - n.
+      - 故事情节
+        - `The storyline of a book, movie, or play is its story and the way in which it develops`
   - 记忆
     - story(故事) + line(线条) → 故事情节
   - 例句

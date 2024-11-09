@@ -1,20 +1,27 @@
 - whisky
   - 发音
-    - 英 `/'wɪski/`
-    - 美 `/'wɪski/`
+    - 英
+      - `/'wɪski/`
+    - 美
+      - `/'wɪski/`
   - 词义
-    - n. 威士忌酒
-    - `a strong alcoholic drink made from grain, or a glass of this`
+    - n.
+      - 威士忌酒
+        - `a strong alcoholic drink made from grain, or a glass of this`
   - 同根词
     - adj.
-      - `whiskey` 威士忌酒的
+      - `whiskey`
+        - 威士忌酒的
     - n.
-      - `whiskey` 威士忌酒
+      - `whiskey`
+        - 威士忌酒
   - 近义词
-    - n. 威士忌酒
-      - `wiskey`
+    - n.
+      - 威士忌酒
+        - `wiskey`
   - 短语
-    - `scotch whisky` 苏格兰威士忌酒 
+    - `scotch whisky`
+      - 苏格兰威士忌酒 
   - 例句
     - `How do you like your whisky?`
       - 你的威士忌要怎么喝？

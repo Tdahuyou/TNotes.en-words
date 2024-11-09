@@ -1,21 +1,29 @@
 - alley
   - 发音
-    - 英 `/'æli/`
-    - 美 `/'æli/`
+    - 英
+      - `/'æli/`
+    - 美
+      - `/'æli/`
   - 词义
-    - n. 小路，巷，小径
-    - `a narrow street between or behind buildings, not usually used by cars`
+    - n.
+      - 小路，巷，小径
+        - `a narrow street between or behind buildings, not usually used by cars`
   - 同根词
     - n.
-      - `alleyway` 胡同；小巷；窄街；走廊
+      - `alleyway`
+        - 胡同；小巷；窄街；走廊
   - 近义词
-    - n. 小巷；小路；[建]小径
-      - `path`
-      - `lane`
+    - n.
+      - 小巷；小路；[建]小径
+        - `path`
+        - `lane`
   - 短语
-    - `blind alley` 死胡同；没有前途的职业 
-    - `bowling alley` 保龄球馆；球戏场；滚球槽 
-    - `back alley` 单打端线和双打端线之间的细长地带 
+    - `blind alley`
+      - 死胡同；没有前途的职业 
+    - `bowling alley`
+      - 保龄球馆；球戏场；滚球槽 
+    - `back alley`
+      - 单打端线和双打端线之间的细长地带 
   - 例句
     - `The alley led to the railway bridge.`
       - 这条小巷通往铁路桥。

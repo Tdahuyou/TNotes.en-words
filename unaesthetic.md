@@ -1,9 +1,12 @@
 - unaesthetic
   - 发音
-    - 英 `/ˌʌnəs'θetɪk/`
-    - 美 `/undefined/`
+    - 英
+      - `/ˌʌnəs'θetɪk/`
+    - 美
+      - `/undefined/`
   - 词义
-    - adj. 无美感的
+    - adj.
+      - 无美感的
   - 记忆
     - 和inaesthetic(adj. 不美的)一起记
   - 例句

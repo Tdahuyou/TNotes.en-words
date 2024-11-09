@@ -1,17 +1,25 @@
 - assessable
   - 发音
-    - 英 `/ə'sesəbl/`
-    - 美 `/undefined/`
+    - 英
+      - `/ə'sesəbl/`
+    - 美
+      - `/undefined/`
   - 词义
-    - adj. 可评估的，可估价的；可征税的
+    - adj.
+      - 可评估的，可估价的；可征税的
   - 同根词
     - n.
-      - `assessment` 评定；估价
-      - `assessor` 评审员；确定税款的人；顾问
-      - `assessee` 财产价值已被估定之人
+      - `assessment`
+        - 评定；估价
+      - `assessor`
+        - 评审员；确定税款的人；顾问
+      - `assessee`
+        - 财产价值已被估定之人
     - vt.
-      - `assess` 评定；估价；对…征税
+      - `assess`
+        - 评定；估价；对…征税
   - 近义词
-    - adj. 可估价的；可评价的；可征收的；可征税的
-      - `valuable`
-      - `evaluative`
+    - adj.
+      - 可估价的；可评价的；可征收的；可征税的
+        - `valuable`
+        - `evaluative`

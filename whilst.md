@@ -1,9 +1,12 @@
 - whilst
   - 发音
-    - 英 `/waɪlst/`
-    - 美 `/hwailst/`
+    - 英
+      - `/waɪlst/`
+    - 美
+      - `/hwailst/`
   - 词义
-    - conj. 同时
+    - conj.
+      - 同时
   - 例句
     - `As you lower your pen whilst continuing the motion, you should notice the resulting shape is more regular than it otherwise would have been.`
       - 随着你降低你的笔，同时保持圆周运动，你应该会注意到画出的形状比起不这样做画出的形状要规范的多。

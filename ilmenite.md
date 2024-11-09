@@ -1,14 +1,18 @@
 - ilmenite
   - 发音
-    - 英 `/'ɪlmənaɪt/`
-    - 美 `/'ɪlmənaɪt/`
+    - 英
+      - `/'ɪlmənaɪt/`
+    - 美
+      - `/'ɪlmənaɪt/`
   - 词义
-    - n. [矿物]钛铁矿
-    - `a black mineral found in igneous rocks as layered deposits and in veins. It is the chief source of titanium. Composition: iron titanium oxide. Formula: FeTiO3. Crystal structure: hexagonal (rhombohedral) `
+    - n.
+      - [矿物]钛铁矿
+        - `a black mineral found in igneous rocks as layered deposits and in veins. It is the chief source of titanium. Composition: iron titanium oxide. Formula: FeTiO3. Crystal structure: hexagonal (rhombohedral) `
   - 近义词
-    - n. [矿物]钛铁矿
-      - `titanic iron ore`
-      - `menaccanite`
+    - n.
+      - [矿物]钛铁矿
+        - `titanic iron ore`
+        - `menaccanite`
   - 例句
     - `Future miners living and working on the Moon could break down ilmenite to liberate these elements.`
       - 未来在月球上生活和工作的矿工们可能会分解钛铁矿从而释放出其所含的这些元素。

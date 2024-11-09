@@ -1,30 +1,45 @@
 - coloration
   - 发音
-    - 英 `/kʌlə'reɪʃ(ə)n/`
-    - 美 `/,kʌlə'reʃən/`
+    - 英
+      - `/kʌlə'reɪʃ(ə)n/`
+    - 美
+      - `/,kʌlə'reʃən/`
   - 词义
-    - n. 染色,着色
+    - n.
+      - 染色,着色
   - 同根词
     - adj.
-      - `colorful` 华美的；有趣的；富有色彩的
-      - `colored` 有色的；着色的；有色人种的
-      - `colorless` 无色的；苍白的；无趣味的
+      - `colorful`
+        - 华美的；有趣的；富有色彩的
+      - `colored`
+        - 有色的；着色的；有色人种的
+      - `colorless`
+        - 无色的；苍白的；无趣味的
     - n.
-      - `color` 颜色；肤色；颜料；脸色
-      - `coloring` 着色；着色剂；配色；天然色；外貌
-      - `colorist` 善用色彩者；五彩画家
+      - `color`
+        - 颜色；肤色；颜料；脸色
+      - `coloring`
+        - 着色；着色剂；配色；天然色；外貌
+      - `colorist`
+        - 善用色彩者；五彩画家
     - v.
-      - `colored` 把...染色，粉饰，脸红（color的过去时和过去分词形式）
-      - `coloring` 着色（color的ing形式）；出现颜色
+      - `colored`
+        - 把...染色，粉饰，脸红（color的过去时和过去分词形式）
+      - `coloring`
+        - 着色（color的ing形式）；出现颜色
     - vi.
-      - `color` 变色；获得颜色
+      - `color`
+        - 变色；获得颜色
     - vt.
-      - `color` 粉饰；给...涂颜色；歪曲
-      - `colorize` 给…着色；使…变成彩色
+      - `color`
+        - 粉饰；给...涂颜色；歪曲
+      - `colorize`
+        - 给…着色；使…变成彩色
   - 近义词
-    - n. 着色；染色
-      - `painting`
-      - `dyeing`
+    - n.
+      - 着色；染色
+        - `painting`
+        - `dyeing`
   - 例句
     - `That's the major reason, why I go great lengths with preparation, scanning, coloration and printing techniques.`
       - 这是重要的原因，因此，我花很长时间做准备，扫描、着色和印刷技术。

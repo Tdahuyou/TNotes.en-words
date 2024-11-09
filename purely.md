@@ -1,37 +1,53 @@
 - purely
   - 发音
-    - 英 `/'pjʊəlɪ/`
-    - 美 `/'pjʊrli/`
+    - 英
+      - `/'pjʊəlɪ/`
+    - 美
+      - `/'pjʊrli/`
   - 词义
-    - adv. 仅仅；简单地
-    - `completely and only`
+    - adv.
+      - 仅仅；简单地
+        - `completely and only`
   - 同根词
     - adj.
-      - `pure` 纯的；纯粹的；纯洁的；清白的；纯理论的
-      - `purified` 净化的；精制的
+      - `pure`
+        - 纯的；纯粹的；纯洁的；清白的；纯理论的
+      - `purified`
+        - 净化的；精制的
     - n.
-      - `purity` [化学] 纯度；纯洁；纯净；纯粹
-      - `purifier` [食品] 净化器；清洁者；精炼器；精炼者
-      - `purist` 纯化论者，力求纯化的人
-      - `purifying` 净化；精制
-      - `pureness` 纯粹；清洁；清净
-      - `purism` 纯粹派（一个与立体派相抗衡的艺术流派）；纯粹主义；语言纯正主义
+      - `purity`
+        - [化学] 纯度；纯洁；纯净；纯粹
+      - `purifier`
+        - [食品] 净化器；清洁者；精炼器；精炼者
+      - `purist`
+        - 纯化论者，力求纯化的人
+      - `purifying`
+        - 净化；精制
+      - `pureness`
+        - 纯粹；清洁；清净
+      - `purism`
+        - 纯粹派（一个与立体派相抗衡的艺术流派）；纯粹主义；语言纯正主义
     - v.
-      - `purified` 使纯净；去除（purify的过去分词）；精炼
-      - `purifying` 使纯净；精炼（purify的ing形式）
+      - `purified`
+        - 使纯净；去除（purify的过去分词）；精炼
+      - `purifying`
+        - 使纯净；精炼（purify的ing形式）
     - vi.
-      - `purify` 净化；变纯净
+      - `purify`
+        - 净化；变纯净
     - vt.
-      - `purify` 净化；使纯净
+      - `purify`
+        - 净化；使纯净
   - 近义词
-    - adv. 纯粹地；仅仅，只不过；完全地；贞淑地；清洁地
-      - `merely`
-      - `simply`
-      - `totally`
-      - `entirely`
-      - `completely`
-      - `absolutely`
-      - `thoroughly`
+    - adv.
+      - 纯粹地；仅仅，只不过；完全地；贞淑地；清洁地
+        - `merely`
+        - `simply`
+        - `totally`
+        - `entirely`
+        - `completely`
+        - `absolutely`
+        - `thoroughly`
   - 例句
     - `a decision made for purely political reasons`
       - 纯粹出于政治原因而作出的决定

@@ -1,48 +1,79 @@
 - public
   - 发音
-    - 英 `/'pʌblɪk/`
-    - 美 `/'pʌblɪk/`
+    - 英
+      - `/'pʌblɪk/`
+    - 美
+      - `/'pʌblɪk/`
   - 词义
-    - adj. 公共的；公众的
-    - `relating to all the ordinary people in a country, who are not members of the government or do not have important jobs`
+    - adj.
+      - 公共的；公众的
+        - `relating to all the ordinary people in a country, who are not members of the government or do not have important jobs`
   - 同根词
     - adv.
-      - `publicly` 公然地；以公众名义
+      - `publicly`
+        - 公然地；以公众名义
     - n.
-      - `publicity` 宣传，宣扬；公开；广告；注意
-      - `publication` 出版；出版物；发表
-      - `publicist` 国际法学家；宣传人员；公法学家
+      - `publicity`
+        - 宣传，宣扬；公开；广告；注意
+      - `publication`
+        - 出版；出版物；发表
+      - `publicist`
+        - 国际法学家；宣传人员；公法学家
     - vt.
-      - `publicize` 宣传；公布
-      - `publicise` 宣传，宣扬；公布，颂
+      - `publicize`
+        - 宣传；公布
+      - `publicise`
+        - 宣传，宣扬；公布，颂
   - 近义词
-    - adj. 公众的；政府的；公用的；公立的
-      - `governmental`
-      - `commonable`
-    - n. 公众；社会；公共场所
-      - `society`
-      - `ambiente`
+    - adj.
+      - 公众的；政府的；公用的；公立的
+        - `governmental`
+        - `commonable`
+    - n.
+      - 公众；社会；公共场所
+        - `society`
+        - `ambiente`
   - 短语
-    - `in public` adv. 公开地，当众 
-    - `public health` n. 公共卫生；公共卫生设施 
-    - `public security` 公共安全 
-    - `public opinion` 民意；公众舆论 
-    - `public service` 公共服务，公益服务；公用设施 
-    - `public interest` 公共利益 
-    - `general public` 公众 
-    - `public policy` 国家政策 
-    - `public transportation` 公共交通，公共运输；公共交通工具 
-    - `public transport` 公交车 
-    - `public administration` 公共行政；公共管理；行政管理 
-    - `public bidding` 公开投标 
-    - `public library` 公共图书馆；公立图书馆 
-    - `public finance` 财政学 
-    - `public welfare` 公共福利，公用福利设施；社会福利 
-    - `invite public bidding` （公开）招标 
-    - `public space` 公共空间；银行营业厅 
-    - `public order` 公共秩序；社会治安 
-    - `public housing` 公共住房，政府为低收入者所建的住房 
-    - `public sector` 国营部门经济；政府资助的企事业；社会经济的公有部份 
+    - `in public`
+      - adv. 公开地，当众 
+    - `public health`
+      - n. 公共卫生；公共卫生设施 
+    - `public security`
+      - 公共安全 
+    - `public opinion`
+      - 民意；公众舆论 
+    - `public service`
+      - 公共服务，公益服务；公用设施 
+    - `public interest`
+      - 公共利益 
+    - `general public`
+      - 公众 
+    - `public policy`
+      - 国家政策 
+    - `public transportation`
+      - 公共交通，公共运输；公共交通工具 
+    - `public transport`
+      - 公交车 
+    - `public administration`
+      - 公共行政；公共管理；行政管理 
+    - `public bidding`
+      - 公开投标 
+    - `public library`
+      - 公共图书馆；公立图书馆 
+    - `public finance`
+      - 财政学 
+    - `public welfare`
+      - 公共福利，公用福利设施；社会福利 
+    - `invite public bidding`
+      - （公开）招标 
+    - `public space`
+      - 公共空间；银行营业厅 
+    - `public order`
+      - 公共秩序；社会治安 
+    - `public housing`
+      - 公共住房，政府为低收入者所建的住房 
+    - `public sector`
+      - 国营部门经济；政府资助的企事业；社会经济的公有部份 
   - 例句
     - `We have to show that publishing this story is in the public interest (= helpful or useful to ordinary people ) .`
       - 我们必须证明刊登这篇报道有利于公众。

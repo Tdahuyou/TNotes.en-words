@@ -1,36 +1,54 @@
 - malicious
   - 发音
-    - 英 `/mə'lɪʃəs/`
-    - 美 `/mə'lɪʃəs/`
+    - 英
+      - `/mə'lɪʃəs/`
+    - 美
+      - `/mə'lɪʃəs/`
   - 词义
-    - adj. 怀有恶意的，恶毒的
-    - `very unkind and cruel, and deliberately behaving in a way that is likely to upset or hurt someone`
+    - adj.
+      - 怀有恶意的，恶毒的
+        - `very unkind and cruel, and deliberately behaving in a way that is likely to upset or hurt someone`
   - 记忆
     - 来自malice(n. 恶意)
   - 同根词
     - adj.
-      - `malignant` [医] 恶性的；有害的；有恶意的
-      - `malevolent` 恶毒的；有恶意的；坏心肠的
-      - `malign` 恶意的，恶性的；有害的
+      - `malignant`
+        - [医] 恶性的；有害的；有恶意的
+      - `malevolent`
+        - 恶毒的；有恶意的；坏心肠的
+      - `malign`
+        - 恶意的，恶性的；有害的
     - adv.
-      - `maliciously` 有敌意地，恶意地
-      - `malevolently` 恶意地；伤害地
-      - `malignantly` 怀恶意
+      - `maliciously`
+        - 有敌意地，恶意地
+      - `malevolently`
+        - 恶意地；伤害地
+      - `malignantly`
+        - 怀恶意
     - n.
-      - `malignant` 保王党员；怀恶意的人
-      - `malice` 恶意；怨恨；预谋
-      - `malignancy` 恶性（肿瘤等）；恶意
-      - `malevolence` 恶意，怨恨；狠毒
-      - `maliciousness` 恶意
-      - `malignity` 恶意；怨恨；狠毒
+      - `malignant`
+        - 保王党员；怀恶意的人
+      - `malice`
+        - 恶意；怨恨；预谋
+      - `malignancy`
+        - 恶性（肿瘤等）；恶意
+      - `malevolence`
+        - 恶意，怨恨；狠毒
+      - `maliciousness`
+        - 恶意
+      - `malignity`
+        - 恶意；怨恨；狠毒
     - vt.
-      - `malign` 诽谤，污蔑；中伤，说坏话
+      - `malign`
+        - 诽谤，污蔑；中伤，说坏话
   - 近义词
-    - adj. 恶意的；恶毒的；蓄意的；怀恨的
-      - `vicious`
-      - `poisonous`
+    - adj.
+      - 恶意的；恶毒的；蓄意的；怀恨的
+        - `vicious`
+        - `poisonous`
   - 短语
-    - `malicious damage` 蓄意损害所造成的损失 
+    - `malicious damage`
+      - 蓄意损害所造成的损失 
   - 例句
     - `a malicious girl`
       - 恶毒的女孩

@@ -1,14 +1,19 @@
 - archaeologist
   - 发音
-    - 英 `/,ɑːkɪ'ɒlədʒɪst/`
-    - 美 `/,ɑrkɪ'ɑlədʒɪst/`
+    - 英
+      - `/,ɑːkɪ'ɒlədʒɪst/`
+    - 美
+      - `/,ɑrkɪ'ɑlədʒɪst/`
   - 词义
-    - n. 考古学家
+    - n.
+      - 考古学家
   - 同根词
     - adj.
-      - `archaeological` [古] 考古学的；[古] 考古学上的
+      - `archaeological`
+        - [古] 考古学的；[古] 考古学上的
     - n.
-      - `archaeology` 考古学
+      - `archaeology`
+        - 考古学
   - 例句
     - `In fact, she was an archaeologist.`
       - 其实她是一个考古学家。

@@ -1,14 +1,18 @@
 - homemaker
   - 发音
-    - 英 `/'həʊmmeɪkə(r)/`
-    - 美 `/'hommekɚ/`
+    - 英
+      - `/'həʊmmeɪkə(r)/`
+    - 美
+      - `/'hommekɚ/`
   - 词义
-    - n. 主妇
-    - `a woman who works at home cleaning and cooking etc and does not have another job`
+    - n.
+      - 主妇
+        - `a woman who works at home cleaning and cooking etc and does not have another job`
   - 近义词
-    - n. 主妇
-      - `hausfrau`
-      - `matron`
+    - n.
+      - 主妇
+        - `hausfrau`
+        - `matron`
   - 例句
     - `Whether you are a carpenter or a therapist, a homemaker or a professor, it makes no difference.`
       - 不论你是一个木匠或是一个治疗师，一个家庭主妇还是教授，这都没有区别。

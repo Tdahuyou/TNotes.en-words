@@ -1,27 +1,40 @@
 - weakly
   - 发音
-    - 英 `/'wiːklɪ/`
-    - 美 `/'wikli/`
+    - 英
+      - `/'wiːklɪ/`
+    - 美
+      - `/'wikli/`
   - 词义
-    - a&ad. 虚弱地,软弱地
+    - a&ad.
+      - 虚弱地,软弱地
   - 同根词
     - adj.
-      - `weak` [经] 疲软的；虚弱的；无力的；不牢固的
-      - `weakling` 虚弱的；懦弱的
+      - `weak`
+        - [经] 疲软的；虚弱的；无力的；不牢固的
+      - `weakling`
+        - 虚弱的；懦弱的
     - n.
-      - `weakness` 弱点；软弱；嗜好
-      - `weakling` 虚弱的人；懦怯者
-      - `weakener` 减光板；削弱器
+      - `weakness`
+        - 弱点；软弱；嗜好
+      - `weakling`
+        - 虚弱的人；懦怯者
+      - `weakener`
+        - 减光板；削弱器
     - vi.
-      - `weaken` 变弱；畏缩；变软弱
+      - `weaken`
+        - 变弱；畏缩；变软弱
     - vt.
-      - `weaken` 减少；使变弱；使变淡
+      - `weaken`
+        - 减少；使变弱；使变淡
   - 近义词
-    - adv. 虚弱地；无力地；软弱地；有病地
-      - `infirmly`
-      - `impotently`
-    - adj. 虚弱的；软弱的
-      - `soft`
-      - `marantic`
+    - adv.
+      - 虚弱地；无力地；软弱地；有病地
+        - `infirmly`
+        - `impotently`
+    - adj.
+      - 虚弱的；软弱的
+        - `soft`
+        - `marantic`
   - 短语
-    - `weakly acidic` 弱酸性的 
+    - `weakly acidic`
+      - 弱酸性的 

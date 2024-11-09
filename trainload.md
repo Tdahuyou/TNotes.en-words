@@ -1,13 +1,17 @@
 - trainload
   - 发音
-    - 英 `/'treɪnləʊd/`
-    - 美 `/'treinləud/`
+    - 英
+      - `/'treɪnləʊd/`
+    - 美
+      - `/'treinləud/`
   - 词义
-    - n. 装载量,列车载重
+    - n.
+      - 装载量,列车载重
   - 近义词
-    - n. 列车载重；装载量
-      - `load`
-      - `deep draft`
+    - n.
+      - 列车载重；装载量
+        - `load`
+        - `deep draft`
   - 例句
     - `A trainload more may soon be on the way.`
       - 承载更多运输量的列车即将出现。

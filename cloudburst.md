@@ -1,10 +1,13 @@
 - cloudburst
   - 发音
-    - 英 `/'klaudbɜːrst/`
-    - 美 `/'klaʊdbɝst/`
+    - 英
+      - `/'klaudbɜːrst/`
+    - 美
+      - `/'klaʊdbɝst/`
   - 词义
-    - n. 大暴雨
-    - `a sudden short rainstorm`
+    - n.
+      - 大暴雨
+        - `a sudden short rainstorm`
   - 记忆
     - cloud(云) + burst(爆裂) → 乌云爆裂， 要下暴雨 → 大暴雨
   - 例句

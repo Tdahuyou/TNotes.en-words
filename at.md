@@ -1,20 +1,27 @@
 - at
   - 发音
-    - 英 `/æt; ət/`
-    - 美 `/æt; ət/`
+    - 英
+      - `/æt; ət/`
+    - 美
+      - `/æt; ət/`
   - 词义
-    - prep. 在⋯⋯点钟
-    - `used to say what event or activity someone is taking part in`
+    - prep.
+      - 在⋯⋯点钟
+        - `used to say what event or activity someone is taking part in`
   - 近义词
-    - prep. 在（表示存在或出现的地点、场所、位置、空间）；以（某种价格、速度等）；向；因为；朝；忙于
-      - `be`
-      - `towards`
-      - `unto`
-      - `out`
+    - prep.
+      - 在（表示存在或出现的地点、场所、位置、空间）；以（某种价格、速度等）；向；因为；朝；忙于
+        - `be`
+        - `towards`
+        - `unto`
+        - `out`
   - 短语
-    - `at all` （否定句）根本；究竟 
-    - `be in at` 在场，参与 
-    - `at it again` [口语]争吵；重复负面消极的行为(此语亦可含有与性行为有关的意思) 
+    - `at all`
+      - （否定句）根本；究竟 
+    - `be in at`
+      - 在场，参与 
+    - `at it again`
+      - [口语]争吵；重复负面消极的行为(此语亦可含有与性行为有关的意思) 
   - 例句
     - `I met my wife at a disco.`
       - 我在迪斯科舞会上认识了我的妻子。

@@ -1,16 +1,21 @@
 - nonpareil
   - 发音
-    - 英 `/,nɒnpə'reɪl/`
-    - 美 `/,nɑnpə'rɛl/`
+    - 英
+      - `/,nɒnpə'reɪl/`
+    - 美
+      - `/,nɑnpə'rɛl/`
   - 词义
-    - adj. 无比的
-    - `having no match or equal; peerless `
+    - adj.
+      - 无比的
+        - `having no match or equal; peerless `
   - 近义词
-    - n. 无可匹敌的人；极品
-      - `nonsuch`
-    - adj. 无比的
-      - `unparalleled`
-      - `matchless`
+    - n.
+      - 无可匹敌的人；极品
+        - `nonsuch`
+    - adj.
+      - 无比的
+        - `unparalleled`
+        - `matchless`
   - 例句
     - `This paper remains a nonpareil platform for writing a column — not just for its readership, but also for its journalistic freedom.`
       - 它仍然拥有无可匹敌的专栏写作平台——不只为其读者，也为新闻自由。

@@ -1,11 +1,15 @@
 - Hindi
   - 发音
-    - 英 `/'hindi:/`
-    - 美 `/'hindi:/`
+    - 英
+      - `/'hindi:/`
+    - 美
+      - `/'hindi:/`
   - 词义
-    - n. 北印度语
-    - `an official language in India`
-    - adj. 北印度的
+    - n.
+      - 北印度语
+        - `an official language in India`
+    - adj.
+      - 北印度的
   - 例句
     - `As well as working on more Hindi films, Hollywood beckons, if only for a new experience.`
       - 同样 会为更多的北印度电影配乐，好莱坞也在向他招手——哪怕只是为了有一种新体验。

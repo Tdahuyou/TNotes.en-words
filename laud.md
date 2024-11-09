@@ -1,27 +1,38 @@
 - laud
   - 发音
-    - 英 `/lɔːd/`
-    - 美 `/lɔd/`
+    - 英
+      - `/lɔːd/`
+    - 美
+      - `/lɔd/`
   - 词义
-    - n. 称赞，赞美；颂歌
+    - n.
+      - 称赞，赞美；颂歌
   - 记忆
     - 大声 (loud) 赞美 (laud)
   - 同根词
     - adj.
-      - `laudable` 值得赞赏的
-      - `laudatory` 赞美的；赞赏的；称赞的
+      - `laudable`
+        - 值得赞赏的
+      - `laudatory`
+        - 赞美的；赞赏的；称赞的
     - adv.
-      - `laudably` 值得赞赏地；可嘉地；可佩地
+      - `laudably`
+        - 值得赞赏地；可嘉地；可佩地
     - n.
-      - `laudability` 值得称赞；值得佩服
-      - `laudableness` 值得赞赏；值得佩服
-      - `laudator` 赞美者
+      - `laudability`
+        - 值得称赞；值得佩服
+      - `laudableness`
+        - 值得赞赏；值得佩服
+      - `laudator`
+        - 赞美者
   - 近义词
-    - vt. 赞美；称赞
-      - `praise`
-      - `celebrate`
-      - `bless`
-      - `admire`
-    - n. 赞美；称赞；颂歌
-      - `praise`
-      - `encomium`
+    - vt.
+      - 赞美；称赞
+        - `praise`
+        - `celebrate`
+        - `bless`
+        - `admire`
+    - n.
+      - 赞美；称赞；颂歌
+        - `praise`
+        - `encomium`

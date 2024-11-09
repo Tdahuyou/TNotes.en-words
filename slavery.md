@@ -1,30 +1,44 @@
 - slavery
   - 发音
-    - 英 `/'sleɪv(ə)rɪ/`
-    - 美 `/'slevəri/`
+    - 英
+      - `/'sleɪv(ə)rɪ/`
+    - 美
+      - `/'slevəri/`
   - 词义
-    - n. 奴隶身分,奴隶制度
-    - `the system of having slaves`
+    - n.
+      - 奴隶身分,奴隶制度
+        - `the system of having slaves`
   - 同根词
     - adj.
-      - `slavish` 奴隶的；奴性的；卑屈的；盲从的
-      - `slaveholding` 蓄奴的；拥有奴隶的
+      - `slavish`
+        - 奴隶的；奴性的；卑屈的；盲从的
+      - `slaveholding`
+        - 蓄奴的；拥有奴隶的
     - adv.
-      - `slavishly` 奴隶般地
+      - `slavishly`
+        - 奴隶般地
     - n.
-      - `slave` 奴隶；从动装置
-      - `slaver` 口水；奴隶贩卖船；奴隶商人；谄媚；诱骗女子为娼者
-      - `slaveholder` 奴隶所有者
-      - `slaveholding` 拥有奴隶
+      - `slave`
+        - 奴隶；从动装置
+      - `slaver`
+        - 口水；奴隶贩卖船；奴隶商人；谄媚；诱骗女子为娼者
+      - `slaveholder`
+        - 奴隶所有者
+      - `slaveholding`
+        - 拥有奴隶
     - vi.
-      - `slave` 苦干；拼命工作
-      - `slaver` 淌口水
+      - `slave`
+        - 苦干；拼命工作
+      - `slaver`
+        - 淌口水
     - vt.
-      - `slaver` 淌口水弄湿；淌口水弄脏
+      - `slaver`
+        - 淌口水弄湿；淌口水弄脏
   - 近义词
-    - n. 奴役；奴隶制度；奴隶身分
-      - `Enslaved`
-      - `bondage`
+    - n.
+      - 奴役；奴隶制度；奴隶身分
+        - `Enslaved`
+        - `bondage`
   - 例句
     - `attempts to abolish slavery`
       - 废除奴隶制的努力

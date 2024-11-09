@@ -1,9 +1,12 @@
 - fairytale
   - 发音
-    - 英 `/ˈfeəriteil/`
-    - 美 `/'fɛrɪ,tel/`
+    - 英
+      - `/ˈfeəriteil/`
+    - 美
+      - `/'fɛrɪ,tel/`
   - 词义
-    - n. 童话
+    - n.
+      - 童话
   - 例句
     - `Oh I forgot... .this is just a fairytale!`
       - 哦，我忘了... 这仅仅是一个童话故事！

@@ -1,22 +1,28 @@
 - dejected
   - 发音
-    - 英 `/di'dʒektid/`
-    - 美 `/dɪ'dʒɛktɪd/`
+    - 英
+      - `/di'dʒektid/`
+    - 美
+      - `/dɪ'dʒɛktɪd/`
   - 词义
-    - adj. 沮丧的，灰心的
-    - `unhappy, disappointed, or sad`
+    - adj.
+      - 沮丧的，灰心的
+        - `unhappy, disappointed, or sad`
   - 记忆
     - 来自deject (v. 使沮丧， 使灰心)
   - 同根词
     - adj.
-      - `deject` 沮丧的；气馁的
+      - `deject`
+        - 沮丧的；气馁的
     - vt.
-      - `deject` 使…沮丧；使…灰心
+      - `deject`
+        - 使…沮丧；使…灰心
   - 近义词
-    - adj. 沮丧的，灰心的
-      - `blue`
-      - `disappointed`
-      - `depressed`
+    - adj.
+      - 沮丧的，灰心的
+        - `blue`
+        - `disappointed`
+        - `depressed`
   - 例句
     - `The unemployed stood at street corners, dejected.`
       - 失业者沮丧地站在街角。

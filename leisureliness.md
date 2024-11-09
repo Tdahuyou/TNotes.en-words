@@ -1,21 +1,29 @@
 - leisureliness
   - 发音
-    - 英 `/'liːʒərlinəs/`
-    - 美 `/undefined/`
+    - 英
+      - `/'liːʒərlinəs/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 悠然，从容
+    - n.
+      - 悠然，从容
   - 记忆
     - 来自leisurely(adj. 悠然的)
   - 同根词
     - adj.
-      - `leisurely` 悠闲的；从容的
-      - `leisured` 从容的；有闲的
-      - `leisureful` 从容不迫的（等于leisurely）
+      - `leisurely`
+        - 悠闲的；从容的
+      - `leisured`
+        - 从容的；有闲的
+      - `leisureful`
+        - 从容不迫的（等于leisurely）
     - adv.
-      - `leisurely` 悠闲地；从容不迫地
+      - `leisurely`
+        - 悠闲地；从容不迫地
   - 近义词
-    - n. 悠然；从容
-      - `deliberation`
+    - n.
+      - 悠然；从容
+        - `deliberation`
   - 例句
     - `We need more leisureliness and confidence.`
       - 我们需要的是多一份从容，多一点自信。

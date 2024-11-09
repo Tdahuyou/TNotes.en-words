@@ -1,34 +1,48 @@
 - punish
   - 发音
-    - 英 `/'pʌnɪʃ/`
-    - 美 `/'pʌnɪʃ/`
+    - 英
+      - `/'pʌnɪʃ/`
+    - 美
+      - `/'pʌnɪʃ/`
   - 词义
-    - v. 惩罚；惩处
-    - `to make someone suffer because they have done something wrong or broken the law`
+    - v.
+      - 惩罚；惩处
+        - `to make someone suffer because they have done something wrong or broken the law`
   - 记忆
     - 因为没有完成(finish)任务受到惩罚(punish)
   - 同根词
     - adj.
-      - `punitive` 惩罚性的；刑罚的
-      - `punishing` 严厉的；打击沉重的；精疲力尽的
-      - `punishable` 可罚的；该罚的
-      - `punitory` 惩罚的；刑罚的
+      - `punitive`
+        - 惩罚性的；刑罚的
+      - `punishing`
+        - 严厉的；打击沉重的；精疲力尽的
+      - `punishable`
+        - 可罚的；该罚的
+      - `punitory`
+        - 惩罚的；刑罚的
     - adv.
-      - `punitively` 惩罚地；刑罚的
+      - `punitively`
+        - 惩罚地；刑罚的
     - n.
-      - `punishment` 惩罚；严厉对待，虐待
+      - `punishment`
+        - 惩罚；严厉对待，虐待
     - v.
-      - `punishing` 惩罚；折磨（punish的ing形式）
+      - `punishing`
+        - 惩罚；折磨（punish的ing形式）
   - 近义词
-    - vt. 惩罚；严厉对待；贪婪地吃喝
-      - `penalise`
-      - `chastise`
-    - vi. 惩罚
-      - `drop across`
-      - `come down on`
+    - vt.
+      - 惩罚；严厉对待；贪婪地吃喝
+        - `penalise`
+        - `chastise`
+    - vi.
+      - 惩罚
+        - `drop across`
+        - `come down on`
   - 短语
-    - `punish for` v. 处罚，惩罚 
-    - `punish with` 用...惩罚 
+    - `punish for`
+      - v. 处罚，惩罚 
+    - `punish with`
+      - 用...惩罚 
   - 例句
     - `Smacking is not an acceptable way of punishing a child.`
       - 要惩罚孩子，不应该用打的方式。

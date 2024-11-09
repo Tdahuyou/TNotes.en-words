@@ -1,30 +1,41 @@
 - confide
   - 发音
-    - 英 `/kən'faɪd/`
-    - 美 `/kən'faɪd/`
+    - 英
+      - `/kən'faɪd/`
+    - 美
+      - `/kən'faɪd/`
   - 词义
-    - v. 吐露；委托
-    - `to tell someone you trust about personal things that you do not want other people to know`
+    - v.
+      - 吐露；委托
+        - `to tell someone you trust about personal things that you do not want other people to know`
   - 同根词
     - adj.
-      - `confidence` （美）诈骗的；骗得信任的
-      - `confiding` 深信不疑的；易于相信别人的
+      - `confidence`
+        - （美）诈骗的；骗得信任的
+      - `confiding`
+        - 深信不疑的；易于相信别人的
     - adv.
-      - `confidentially` 秘密地；作为心腹话地
-      - `confidingly` 信任地
+      - `confidentially`
+        - 秘密地；作为心腹话地
+      - `confidingly`
+        - 信任地
     - n.
-      - `confidence` 信心；信任；秘密
+      - `confidence`
+        - 信心；信任；秘密
   - 近义词
-    - vt. 吐露；委托
-      - `voice`
-      - `refer`
-    - vi. 信赖；吐露秘密
-      - `rely`
-      - `depend`
-      - `trust`
-      - `hope`
+    - vt.
+      - 吐露；委托
+        - `voice`
+        - `refer`
+    - vi.
+      - 信赖；吐露秘密
+        - `rely`
+        - `depend`
+        - `trust`
+        - `hope`
   - 短语
-    - `confide in` 信任，信赖；向…吐露秘密 
+    - `confide in`
+      - 信任，信赖；向…吐露秘密 
   - 例句
     - `I knew she had some fundamental problems in her marriage because she had confided in me a year earlier.`
       - 我知道她的婚姻存在一些根本问题，因为她一年前曾向我吐露过。

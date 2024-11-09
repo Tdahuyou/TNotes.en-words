@@ -1,17 +1,25 @@
 - supremely
   - 发音
-    - 英 `/su:'pri:mli/`
-    - 美 `/su'primli/`
+    - 英
+      - `/su:'pri:mli/`
+    - 美
+      - `/su'primli/`
   - 词义
-    - adv. 无上地,崇高地
+    - adv.
+      - 无上地,崇高地
   - 同根词
     - adj.
-      - `supreme` 最高的；至高的；最重要的
-      - `supremacist` 至上主义者的
+      - `supreme`
+        - 最高的；至高的；最重要的
+      - `supremacist`
+        - 至上主义者的
     - n.
-      - `supreme` 至高；霸权
-      - `supremacist` 至上主义者
+      - `supreme`
+        - 至高；霸权
+      - `supremacist`
+        - 至上主义者
   - 近义词
-    - adv. 至上地；崇高地
-      - `consummately`
-      - `nobly`
+    - adv.
+      - 至上地；崇高地
+        - `consummately`
+        - `nobly`

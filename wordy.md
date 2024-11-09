@@ -1,21 +1,28 @@
 - wordy
   - 发音
-    - 英 `/'wɜːrdi/`
-    - 美 `/'wɝdi/`
+    - 英
+      - `/'wɜːrdi/`
+    - 美
+      - `/'wɝdi/`
   - 词义
-    - adj. 冗长的，多言的
-    - `using too many words`
+    - adj.
+      - 冗长的，多言的
+        - `using too many words`
   - 同根词
     - adv.
-      - `wordily` 唠叨地；罗唆地
+      - `wordily`
+        - 唠叨地；罗唆地
     - n.
-      - `wordiness` 多嘴；冗长
-      - `wordsmith` 擅长文字的人，舞文弄墨者；作家
+      - `wordiness`
+        - 多嘴；冗长
+      - `wordsmith`
+        - 擅长文字的人，舞文弄墨者；作家
   - 近义词
-    - adj. 冗长的；口头的；唠叨的；文字的
-      - `oral`
-      - `spoken`
-      - `written`
+    - adj.
+      - 冗长的；口头的；唠叨的；文字的
+        - `oral`
+        - `spoken`
+        - `written`
   - 例句
     - `a wordy explanation`
       - 冗长的解释

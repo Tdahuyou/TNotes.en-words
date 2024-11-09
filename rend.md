@@ -1,16 +1,22 @@
 - rend
   - 发音
-    - 英 `/rend/`
-    - 美 `/rɛnd/`
+    - 英
+      - `/rend/`
+    - 美
+      - `/rɛnd/`
   - 词义
-    - v. 撕裂，猛拉
-    - `to tear or break something violently into pieces`
+    - v.
+      - 撕裂，猛拉
+        - `to tear or break something violently into pieces`
   - 同根词
     - n.
-      - `rending` 渲染
+      - `rending`
+        - 渲染
     - v.
-      - `rending` 分裂；劈开（rend的ing形式）
+      - `rending`
+        - 分裂；劈开（rend的ing形式）
   - 近义词
-    - vt. 撕碎；分裂；强夺
-      - `rip up`
-      - `tear to pieces`
+    - vt.
+      - 撕碎；分裂；强夺
+        - `rip up`
+        - `tear to pieces`

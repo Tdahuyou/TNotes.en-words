@@ -1,17 +1,22 @@
 - hankie
   - 发音
-    - 英 `/'hæŋkɪ/`
-    - 美 `/undefined/`
+    - 英
+      - `/'hæŋkɪ/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 手帕（等于handkerchief）
-    - `a handkerchief`
+    - n.
+      - 手帕（等于handkerchief）
+        - `a handkerchief`
   - 同根词
     - n.
-      - `hanky` 手帕
+      - `hanky`
+        - 手帕
   - 近义词
-    - n. 手帕（等于handkerchief）
-      - `handkerchief`
-      - `noserag`
+    - n.
+      - 手帕（等于handkerchief）
+        - `handkerchief`
+        - `noserag`
   - 例句
     - `The Operatic Bow Same as above, only with a giant hankie in your right hand to wipe the sweat off your forehead after the exertion of returning to the vertical.`
       - 同上，只不过右手拿一个大手帕，努力站直的时候好擦前额的汗。 （译注：演完歌剧后要长时间谢幕。）

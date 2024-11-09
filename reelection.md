@@ -1,12 +1,16 @@
 - reelection
   - 发音
-    - 英 `/undefined/`
-    - 美 `/,riə'lɛkʃən/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/,riə'lɛkʃən/`
   - 词义
-    - n. 再选,改选
+    - n.
+      - 再选,改选
   - 近义词
-    - n. 改选；再选
-      - `recleaning`
+    - n.
+      - 改选；再选
+        - `recleaning`
   - 例句
     - `After they finished their commission business, Chernomyrdin came to see me to brief me on events in Russia and Yeltsin’s prospects for reelection.`
       - 在他们完成了使命后，他来拜访我，向我简单介绍了俄罗斯的近况和叶利钦再次当选的前景。

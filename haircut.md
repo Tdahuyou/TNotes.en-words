@@ -1,20 +1,27 @@
 - haircut
   - 发音
-    - 英 `/'herkʌt/`
-    - 美 `/'hɛrkʌt/`
+    - 英
+      - `/'herkʌt/`
+    - 美
+      - `/'hɛrkʌt/`
   - 词义
-    - n. 理发
-    - `when you have a haircut, someone cuts your hair for you`
+    - n.
+      - 理发
+        - `when you have a haircut, someone cuts your hair for you`
   - 同根词
     - n.
-      - `hairdressing` 美容；美发；理发
+      - `hairdressing`
+        - 美容；美发；理发
   - 近义词
-    - n. 理发；发型
-      - `frisure`
-      - `hair style`
+    - n.
+      - 理发；发型
+        - `frisure`
+        - `hair style`
   - 短语
-    - `get a haircut` 剪头发 
-    - `have a haircut` 理发 
+    - `get a haircut`
+      - 剪头发 
+    - `have a haircut`
+      - 理发 
   - 例句
     - `Do you like my new haircut?`
       - 你喜欢我的新发型吗？

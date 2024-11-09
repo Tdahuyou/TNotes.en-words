@@ -1,14 +1,19 @@
 - horoscope
   - 发音
-    - 英 `/'hɒrəskəʊp/`
-    - 美 `/'hɔrəskop/`
+    - 英
+      - `/'hɒrəskəʊp/`
+    - 美
+      - `/'hɔrəskop/`
   - 词义
-    - n. 占星术；星象；十二宫图
-    - `a description of your character and the things that will happen to you, based on the position of the stars and  planets  at the time of your birth`
+    - n.
+      - 占星术；星象；十二宫图
+        - `a description of your character and the things that will happen to you, based on the position of the stars and  planets  at the time of your birth`
   - 同根词
     - n.
-      - `horoscopy` 星占；诞生时的星位
+      - `horoscopy`
+        - 星占；诞生时的星位
   - 近义词
-    - n. 占星术；星象；十二宫图
-      - `astrology`
-      - `zodiac`
+    - n.
+      - 占星术；星象；十二宫图
+        - `astrology`
+        - `zodiac`

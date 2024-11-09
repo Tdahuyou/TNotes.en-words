@@ -1,10 +1,13 @@
 - selenium
   - 发音
-    - 英 `/sɪ'liːnɪəm/`
-    - 美 `/sə'linɪəm/`
+    - 英
+      - `/sɪ'liːnɪəm/`
+    - 美
+      - `/sə'linɪəm/`
   - 词义
-    - n. [化]硒
-    - `a poisonous chemical substance, used in electrical instruments to make them sensitive to light. It is a chemical  element  : symbol Se`
+    - n.
+      - [化]硒
+        - `a poisonous chemical substance, used in electrical instruments to make them sensitive to light. It is a chemical  element  : symbol Se`
   - 例句
     - `We’d normally get minerals such as selenium and copper from plants.`
       - 我们通常从植物中获取矿物质比如硒和铜。

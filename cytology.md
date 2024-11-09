@@ -1,32 +1,54 @@
 - cytology
   - 发音
-    - 英 `/saɪ'tɒlədʒɪ/`
-    - 美 `/saɪ'tɑlədʒi/`
+    - 英
+      - `/saɪ'tɒlədʒɪ/`
+    - 美
+      - `/saɪ'tɑlədʒi/`
   - 词义
-    - n. [生]细胞学
-    - `the scientific study of cells from living things`
+    - n.
+      - [生]细胞学
+        - `the scientific study of cells from living things`
   - 同根词
     - adj.
-      - `cytoplasmic` 细胞质的
-      - `cytogenetic` 细胞生成的；细胞发生的
-      - `cytogenetical` 细胞遗传学的
-      - `cytologic` 细胞学的
-      - `cytological` 细胞学的
-      - `cytolytic` 溶细胞的，细胞溶解的
-      - `cytopathogenic` 致细胞病变的
-      - `cytoplastic` 胞体质的；细胞质的（等于cytoplasm）
+      - `cytoplasmic`
+        - 细胞质的
+      - `cytogenetic`
+        - 细胞生成的；细胞发生的
+      - `cytogenetical`
+        - 细胞遗传学的
+      - `cytologic`
+        - 细胞学的
+      - `cytological`
+        - 细胞学的
+      - `cytolytic`
+        - 溶细胞的，细胞溶解的
+      - `cytopathogenic`
+        - 致细胞病变的
+      - `cytoplastic`
+        - 胞体质的；细胞质的（等于cytoplasm）
     - n.
-      - `cytoplasm` [细胞] 细胞质
-      - `cytochrome` [生化] 细胞色素
-      - `cytokinesis` [细胞] 胞质分裂；细胞浆移动
-      - `cytomegalovirus` [病毒] 巨细胞病毒
-      - `cytogenesis` 细胞发生；细胞生成
-      - `cytogenetics` 细胞遗传学
-      - `cytokinin` [生化] 细胞分裂素；[生化] 细胞激动素
-      - `cytologist` 细胞学者
-      - `cytolysis` [病理] 细胞溶解
-      - `cytomembrane` [细胞] 细胞膜
-      - `cytoplast` 细胞质（等于cytoplasm）
+      - `cytoplasm`
+        - [细胞] 细胞质
+      - `cytochrome`
+        - [生化] 细胞色素
+      - `cytokinesis`
+        - [细胞] 胞质分裂；细胞浆移动
+      - `cytomegalovirus`
+        - [病毒] 巨细胞病毒
+      - `cytogenesis`
+        - 细胞发生；细胞生成
+      - `cytogenetics`
+        - 细胞遗传学
+      - `cytokinin`
+        - [生化] 细胞分裂素；[生化] 细胞激动素
+      - `cytologist`
+        - 细胞学者
+      - `cytolysis`
+        - [病理] 细胞溶解
+      - `cytomembrane`
+        - [细胞] 细胞膜
+      - `cytoplast`
+        - 细胞质（等于cytoplasm）
   - 例句
     - `Thus, the construction of the brain and the cytology, biophysics, and biochemistry of its component neurons reflect its fundamental function—to mediate behavior.`
       - 神经元的在大脑中的构建，以及它的细胞学、生物物理学和生物化学都表现着它作为大脑基础构件的基本功能，也正是这些功能在调节着行为。

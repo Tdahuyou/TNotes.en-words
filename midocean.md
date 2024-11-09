@@ -1,9 +1,12 @@
 - midocean
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 海洋中央
+    - n.
+      - 海洋中央
   - 例句
     - `In fact, he wrote his dissertation on the midocean ridge.`
       - 实际上，他的博士论文就是关于中央山脊的研究。

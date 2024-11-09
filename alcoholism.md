@@ -1,24 +1,33 @@
 - alcoholism
   - 发音
-    - 英 `/'ælkəhɒlɪz(ə)m/`
-    - 美 `/'ælkəhɔlɪzəm/`
+    - 英
+      - `/'ælkəhɒlɪz(ə)m/`
+    - 美
+      - `/'ælkəhɔlɪzəm/`
   - 词义
-    - n. 酗酒；[内科]酒精中毒
-    - `the medical condition of being an alcoholic`
+    - n.
+      - 酗酒；[内科]酒精中毒
+        - `the medical condition of being an alcoholic`
   - 同根词
     - adj.
-      - `alcoholic` 酒精的，含酒精的
+      - `alcoholic`
+        - 酒精的，含酒精的
     - n.
-      - `alcohol` 酒精，乙醇
-      - `alcoholic` 酒鬼，酗酒者
+      - `alcohol`
+        - 酒精，乙醇
+      - `alcoholic`
+        - 酒鬼，酗酒者
     - vt.
-      - `alcoholize` 醇化；变成酒精；浸渍酒精中
+      - `alcoholize`
+        - 醇化；变成酒精；浸渍酒精中
   - 近义词
-    - n. 酗酒；[内科]酒精中毒
-      - `bibulosity`
-      - `alcohol intoxication`
+    - n.
+      - 酗酒；[内科]酒精中毒
+        - `bibulosity`
+        - `alcohol intoxication`
   - 短语
-    - `chronic alcoholism` [医]慢性醇中毒 
+    - `chronic alcoholism`
+      - [医]慢性醇中毒 
   - 例句
     - `...a physician who specialized in the problems of alcoholism.`
       - …一位专攻酗酒问题的医生。

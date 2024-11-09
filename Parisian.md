@@ -1,10 +1,13 @@
 - Parisian
   - 发音
-    - 英 `/pə'rizjən/`
-    - 美 `/pə'rizjən/`
+    - 英
+      - `/pə'rizjən/`
+    - 美
+      - `/pə'rizjən/`
   - 词义
-    - n&a. 巴黎(人)(的)
-    - `someone from the city of Paris in France`
+    - n&a.
+      - 巴黎(人)(的)
+        - `someone from the city of Paris in France`
   - 例句
     - `His images often depict local residents, including this piece, which was part of a 2004 Parisian project called "Portrait of a Generation".`
       - 他的图像通常描写当地居民，其中包括这一幅，是2004年巴黎“一代人肖像”项目的组成部分。

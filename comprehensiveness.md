@@ -1,15 +1,21 @@
 - comprehensiveness
   - 发音
-    - 英 `/ˌkɔmpri'hensivnis/`
-    - 美 `/undefined/`
+    - 英
+      - `/ˌkɔmpri'hensivnis/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 综合；内涵；包罗万象
+    - n.
+      - 综合；内涵；包罗万象
   - 同根词
     - adj.
-      - `comprehensive` 综合的；广泛的；有理解力的
+      - `comprehensive`
+        - 综合的；广泛的；有理解力的
     - n.
-      - `comprehensive` 综合学校；专业综合测验
+      - `comprehensive`
+        - 综合学校；专业综合测验
   - 近义词
-    - n. 综合；详尽
-      - `synthesis`
-      - `integration`
+    - n.
+      - 综合；详尽
+        - `synthesis`
+        - `integration`

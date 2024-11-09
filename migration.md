@@ -1,37 +1,55 @@
 - migration
   - 发音
-    - 英 `/maɪ'greɪʃ(ə)n/`
-    - 美 `/maɪ'ɡreʃən/`
+    - 英
+      - `/maɪ'greɪʃ(ə)n/`
+    - 美
+      - `/maɪ'ɡreʃən/`
   - 词义
-    - n. 移居,迁移
-    - `when large numbers of people go to live in another area or country, especially in order to find work`
+    - n.
+      - 移居,迁移
+        - `when large numbers of people go to live in another area or country, especially in order to find work`
   - 同根词
     - adj.
-      - `migrant` 移居的；流浪的
-      - `migratory` 迁移的；流浪的
+      - `migrant`
+        - 移居的；流浪的
+      - `migratory`
+        - 迁移的；流浪的
     - n.
-      - `migrant` 候鸟；移居者；随季节迁移的民工
-      - `migrator` 移居者；候鸟
+      - `migrant`
+        - 候鸟；移居者；随季节迁移的民工
+      - `migrator`
+        - 移居者；候鸟
     - vi.
-      - `migrate` 移动；随季节而移居；移往
+      - `migrate`
+        - 移动；随季节而移居；移往
     - vt.
-      - `migrate` 使移居；使移植
+      - `migrate`
+        - 使移居；使移植
   - 近义词
-    - n. [动][地质]迁移；移民；移动
-      - `removal`
-      - `move`
-      - `shift`
-      - `motion`
-      - `transplantation`
+    - n.
+      - [动][地质]迁移；移民；移动
+        - `removal`
+        - `move`
+        - `shift`
+        - `motion`
+        - `transplantation`
   - 短语
-    - `cell migration` 细胞移行 
-    - `migration velocity` 渗移速度；迁动速度 
-    - `bird migration` 鸟类迁徙 
-    - `moisture migration` 水分移动 
-    - `data migration` 数据迁移；资料移转 
-    - `migration rate` 迁移率；迁徙率；迁移速度 
-    - `migration algorithm` 偏移算法 
-    - `internal migration` 内移行 
+    - `cell migration`
+      - 细胞移行 
+    - `migration velocity`
+      - 渗移速度；迁动速度 
+    - `bird migration`
+      - 鸟类迁徙 
+    - `moisture migration`
+      - 水分移动 
+    - `data migration`
+      - 数据迁移；资料移转 
+    - `migration rate`
+      - 迁移率；迁徙率；迁移速度 
+    - `migration algorithm`
+      - 偏移算法 
+    - `internal migration`
+      - 内移行 
   - 例句
     - `What does this migration not do?`
       - 这种迁移不能做什么？

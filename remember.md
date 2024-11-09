@@ -1,29 +1,41 @@
 - remember
   - 发音
-    - 英 `/rɪ'membə/`
-    - 美 `/rɪ'mɛmbɚ/`
+    - 英
+      - `/rɪ'membə/`
+    - 美
+      - `/rɪ'mɛmbɚ/`
   - 词义
-    - v. 记住；想起
-    - `to have a picture or idea in your mind of people, events, places etc from the past`
+    - v.
+      - 记住；想起
+        - `to have a picture or idea in your mind of people, events, places etc from the past`
   - 记忆
     - re(又， 再)+member(成员)→再次想起这个成员→记得
   - 同根词
     - n.
-      - `remembrance` 回想，回忆；纪念品；记忆力
+      - `remembrance`
+        - 回想，回忆；纪念品；记忆力
   - 近义词
-    - vt. 记得；牢记；纪念；代…问好
-      - `to learn by heart`
-      - `honour the memory of`
-    - vi. 记得，记起
-      - `think of`
-      - `come back`
+    - vt.
+      - 记得；牢记；纪念；代…问好
+        - `to learn by heart`
+        - `honour the memory of`
+    - vi.
+      - 记得，记起
+        - `think of`
+        - `come back`
   - 短语
-    - `remember oneself` 约束自己；检点；(犯过失后)反省；仔细想一想；恢复镇定 
-    - `remember someone to someone` 代某人向某人致意(或问好) 
-    - `remember to do` 记得要做某事；记得去做某事 
-    - `remember doing` 记着已经做过的事 
-    - `remember of` 记得……，想起…… 
-    - `when you remember` 当你想起…的时候 
+    - `remember oneself`
+      - 约束自己；检点；(犯过失后)反省；仔细想一想；恢复镇定 
+    - `remember someone to someone`
+      - 代某人向某人致意(或问好) 
+    - `remember to do`
+      - 记得要做某事；记得去做某事 
+    - `remember doing`
+      - 记着已经做过的事 
+    - `remember of`
+      - 记得……，想起…… 
+    - `when you remember`
+      - 当你想起…的时候 
   - 例句
     - `Do you remember Rosa Davies?`
       - 你记得罗莎·戴维斯吗？

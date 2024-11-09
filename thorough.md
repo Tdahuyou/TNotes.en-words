@@ -1,21 +1,28 @@
 - thorough
   - 发音
-    - 英 `/'θɜːrou/`
-    - 美 `/ˈθʌrəʊ; θʌro/`
+    - 英
+      - `/'θɜːrou/`
+    - 美
+      - `/ˈθʌrəʊ; θʌro/`
   - 词义
-    - adj. 彻底的；详尽的；一丝不苟的
-    - `including every possible detail`
+    - adj.
+      - 彻底的；详尽的；一丝不苟的
+        - `including every possible detail`
   - 同根词
     - adj.
-      - `thoroughgoing` 完全的，彻底的
+      - `thoroughgoing`
+        - 完全的，彻底的
     - adv.
-      - `thoroughly` 彻底地，完全地
+      - `thoroughly`
+        - 彻底地，完全地
     - n.
-      - `thoroughness` 十分，完全；彻底
+      - `thoroughness`
+        - 十分，完全；彻底
   - 近义词
-    - adj. 彻底的；十分的；周密的
-      - `complete`
-      - `radical`
+    - adj.
+      - 彻底的；十分的；周密的
+        - `complete`
+        - `radical`
   - 例句
     - `The doctor gave him a thorough check-up.`
       - 医生给他做了一次全面的体检。

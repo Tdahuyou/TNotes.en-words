@@ -1,14 +1,18 @@
 - epochal
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - adj. 划时代的；新纪元的
+    - adj.
+      - 划时代的；新纪元的
   - 记忆
     - epoch(时代) + al → 划时代的
   - 同根词
     - n.
-      - `epoch` [地质] 世；新纪元；新时代；时间上的一点
+      - `epoch`
+        - [地质] 世；新纪元；新时代；时间上的一点
   - 例句
     - `This led to the next epochal shift.`
       - 这导致了下一个划时代的转变。

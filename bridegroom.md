@@ -1,15 +1,19 @@
 - bridegroom
   - 发音
-    - 英 `/'braɪdgruːm/`
-    - 美 `/'braɪdɡrum/`
+    - 英
+      - `/'braɪdgruːm/`
+    - 美
+      - `/'braɪdɡrum/`
   - 词义
-    - n. 新郎
-    - `a man at the time he gets married, or just after he is married`
+    - n.
+      - 新郎
+        - `a man at the time he gets married, or just after he is married`
   - 记忆
     - 美丽的新娘(bride)和帅气的新郎(bridegroom)
   - 近义词
-    - n. 新郎
-      - `groom`
+    - n.
+      - 新郎
+        - `groom`
   - 例句
     - `Take me for thy bridegroom, for I love thee.`
       - 让我作你的新郎吧。 因为我爱你。

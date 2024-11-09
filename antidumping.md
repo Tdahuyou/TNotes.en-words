@@ -1,11 +1,15 @@
 - antidumping
   - 发音
-    - 英 `/ˌænti'dʌmpiŋ/`
-    - 美 `/'æntɪ'dʌmpɪŋ/`
+    - 英
+      - `/ˌænti'dʌmpiŋ/`
+    - 美
+      - `/'æntɪ'dʌmpɪŋ/`
   - 词义
-    - adj. 反倾销的
+    - adj.
+      - 反倾销的
   - 短语
-    - `antidumping duty` 反倾销税 
+    - `antidumping duty`
+      - 反倾销税 
   - 例句
     - `At present, the fundamental problems of Chinas antidumping legislation lie in the conservative legislative concept and the backward legislative technology.`
       - 目前，我国反倾销立法存在的根本问题是立法观念的保守和立法技术的滞后。

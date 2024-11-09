@@ -1,13 +1,17 @@
 - flowerpot
   - 发音
-    - 英 `/'flaʊəpɒt/`
-    - 美 `/undefined/`
+    - 英
+      - `/'flaʊəpɒt/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 花盆,花钵
-    - `a plastic or clay pot in which you grow plants`
+    - n.
+      - 花盆,花钵
+        - `a plastic or clay pot in which you grow plants`
   - 近义词
-    - n. 花盆；花钵
-      - `garden pot`
+    - n.
+      - 花盆；花钵
+        - `garden pot`
   - 例句
     - `Do you want me to eat dirt from a flowerpot?`
       - 你想让我把花盆里的土都吃了还是咋地？

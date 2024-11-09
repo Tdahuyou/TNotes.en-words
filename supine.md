@@ -1,28 +1,38 @@
 - supine
   - 发音
-    - 英 `/sjuː'pain/`
-    - 美 `/'supaɪn/`
+    - 英
+      - `/sjuː'pain/`
+    - 美
+      - `/'supaɪn/`
   - 词义
-    - adj. 仰卧的
-    - `lying on your back`
+    - adj.
+      - 仰卧的
+        - `lying on your back`
   - 记忆
     - 睡觉时脊梁骨 (spine) 贴床的 → 仰卧的
   - 同根词
     - adv.
-      - `supinely` 掌心向上地；仰卧地
+      - `supinely`
+        - 掌心向上地；仰卧地
     - n.
-      - `supination` 旋后；反掌姿势
-      - `supinator` [解剖] 旋后肌
+      - `supination`
+        - 旋后；反掌姿势
+      - `supinator`
+        - [解剖] 旋后肌
     - vi.
-      - `supinate` 仰转；脚底向上或朝前
+      - `supinate`
+        - 仰转；脚底向上或朝前
     - vt.
-      - `supinate` 使掌心向上
+      - `supinate`
+        - 使掌心向上
   - 近义词
-    - adj. 仰卧的；懒散的；掌心向上的；向后靠的
-      - `resupine`
-      - `slouchy`
+    - adj.
+      - 仰卧的；懒散的；掌心向上的；向后靠的
+        - `resupine`
+        - `slouchy`
   - 短语
-    - `supine position` 仰卧位；背卧位 
+    - `supine position`
+      - 仰卧位；背卧位 
   - 例句
     - `in a supine position`
       - 以仰卧的姿势

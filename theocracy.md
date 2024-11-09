@@ -1,10 +1,14 @@
 - theocracy
   - 发音
-    - 英 `/θɪ'ɒkrəsɪ/`
-    - 美 `/θɪ'ɑkrəsi/`
+    - 英
+      - `/θɪ'ɒkrəsɪ/`
+    - 美
+      - `/θɪ'ɑkrəsi/`
   - 词义
-    - n. 神权政治,神政,神治国
-    - `a social system or state controlled by religious leaders`
+    - n.
+      - 神权政治,神政,神治国
+        - `a social system or state controlled by religious leaders`
   - 近义词
-    - n. 神政；神权政体；神治国（复数theocracies）
-      - `thearchy`
+    - n.
+      - 神政；神权政体；神治国（复数theocracies）
+        - `thearchy`

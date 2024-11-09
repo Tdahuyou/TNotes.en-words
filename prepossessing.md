@@ -1,21 +1,27 @@
 - prepossessing
   - 发音
-    - 英 `/ˌpriːpə'zesiŋ/`
-    - 美 `/,pripə'zɛsɪŋ/`
+    - 英
+      - `/ˌpriːpə'zesiŋ/`
+    - 美
+      - `/,pripə'zɛsɪŋ/`
   - 词义
-    - adj. 讨人喜欢的；给人好感的
-    - `looking attractive or pleasant`
+    - adj.
+      - 讨人喜欢的；给人好感的
+        - `looking attractive or pleasant`
   - 记忆
     - 来自prepossess (使先拥有) + ing → 最先拥有车， 格外引人注意
   - 同根词
     - n.
-      - `prepossession` 偏爱；先入观念；全神贯注
+      - `prepossession`
+        - 偏爱；先入观念；全神贯注
     - vt.
-      - `prepossess` 使先具有；预先灌输情感（或思想等）；使…先怀偏见；先有好感
+      - `prepossess`
+        - 使先具有；预先灌输情感（或思想等）；使…先怀偏见；先有好感
   - 近义词
-    - adj. 给人好感的；有魅力的；引人注意的
-      - `attractive`
-      - `catching`
+    - adj.
+      - 给人好感的；有魅力的；引人注意的
+        - `attractive`
+        - `catching`
   - 例句
     - `a prepossessing smile`
       - 迷人的微笑

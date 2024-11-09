@@ -1,10 +1,13 @@
 - millipede
   - 发音
-    - 英 `/'mɪlɪpiːd/`
-    - 美 `/'mɪlɪpid/`
+    - 英
+      - `/'mɪlɪpiːd/`
+    - 美
+      - `/'mɪlɪpid/`
   - 词义
-    - n. (等同于millepede)千足虫
-    - `a long thin creature with a very large number of legs`
+    - n.
+      - (等同于millepede)千足虫
+        - `a long thin creature with a very large number of legs`
   - 记忆
     - milli(千) + ped(脚) + e → 千足虫
   - 例句

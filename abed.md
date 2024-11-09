@@ -1,10 +1,13 @@
 - abed
   - 发音
-    - 英 `/ə'bed/`
-    - 美 `/ə'bɛd/`
+    - 英
+      - `/ə'bed/`
+    - 美
+      - `/ə'bɛd/`
   - 词义
-    - adv. 在床上
-    - `in bed `
+    - adv.
+      - 在床上
+        - `in bed `
   - 例句
     - `I always think of many things abed .`
       - 我总是想很多事情躺在床上。

@@ -1,28 +1,38 @@
 - vivid
   - 发音
-    - 英 `/'vɪvɪd/`
-    - 美 `/'vɪvɪd/`
+    - 英
+      - `/'vɪvɪd/`
+    - 美
+      - `/'vɪvɪd/`
   - 词义
-    - adj. 清晰的；鲜明的；生动的；活泼的
-    - `vivid memories, dreams, descriptions etc are so clear that they seem real`
+    - adj.
+      - 清晰的；鲜明的；生动的；活泼的
+        - `vivid memories, dreams, descriptions etc are so clear that they seem real`
   - 记忆
     - viv(生命) + id → 有生命力的 → 鲜明的； 生动的
   - 同根词
     - adv.
-      - `vividly` 生动地；强烈地
+      - `vividly`
+        - 生动地；强烈地
     - n.
-      - `vividness` 生动；活泼；明亮
+      - `vividness`
+        - 生动；活泼；明亮
     - vt.
-      - `vivify` 使生动；使活跃；给与生气
+      - `vivify`
+        - 使生动；使活跃；给与生气
   - 近义词
-    - adj. 生动的；鲜明的；鲜艳的
-      - `telling`
-      - `live`
-      - `bright`
+    - adj.
+      - 生动的；鲜明的；鲜艳的
+        - `telling`
+        - `live`
+        - `bright`
   - 短语
-    - `vivid description` 生动的描述；生动的报导 
-    - `vivid picture` 逼真模式；栩栩如生的描写 
-    - `vivid green` 翡翠绿 
+    - `vivid description`
+      - 生动的描述；生动的报导 
+    - `vivid picture`
+      - 逼真模式；栩栩如生的描写 
+    - `vivid green`
+      - 翡翠绿 
   - 例句
     - `I’ve got vivid memories of that summer.`
       - 我对那年夏天记忆犹新。

@@ -1,23 +1,31 @@
 - tint
   - 发音
-    - 英 `/tɪnt/`
-    - 美 `/tɪnt/`
+    - 英
+      - `/tɪnt/`
+    - 美
+      - `/tɪnt/`
   - 词义
-    - n. 色彩
-    - `a small amount of a particular colour`
+    - n.
+      - 色彩
+        - `a small amount of a particular colour`
   - 同根词
     - n.
-      - `tinting` 着色；浮脏
-      - `tinter` 染色者；着色者
+      - `tinting`
+        - 着色；浮脏
+      - `tinter`
+        - 染色者；着色者
     - v.
-      - `tinting` 给…着淡色（tint的ing形式）
+      - `tinting`
+        - 给…着淡色（tint的ing形式）
   - 近义词
-    - n. [光]色彩；浅色
-      - `hue`
-      - `tache`
-    - vt. 染（发）；给…着色
-      - `dye`
-      - `pigment`
+    - n.
+      - [光]色彩；浅色
+        - `hue`
+        - `tache`
+    - vt.
+      - 染（发）；给…着色
+        - `dye`
+        - `pigment`
   - 例句
     - `paper with a yellowish tint`
       - 泛黄的纸张

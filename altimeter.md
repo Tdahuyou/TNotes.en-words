@@ -1,16 +1,22 @@
 - altimeter
   - 发音
-    - 英 `/'æltimiːtə/`
-    - 美 `/æl'tɪmətɚ/`
+    - 英
+      - `/'æltimiːtə/`
+    - 美
+      - `/æl'tɪmətɚ/`
   - 词义
-    - n. 测高仪
+    - n.
+      - 测高仪
   - 近义词
-    - n. [测]测高仪，[航]高度计
-      - `holometer`
-      - `altometer`
+    - n.
+      - [测]测高仪，[航]高度计
+        - `holometer`
+        - `altometer`
   - 短语
-    - `radar altimeter` 雷达高度计 
-    - `radio altimeter` 无线电测高度计 
+    - `radar altimeter`
+      - 雷达高度计 
+    - `radio altimeter`
+      - 无线电测高度计 
   - 例句
     - `The laser altimeter will bounce beams of light off of the surface to measure the heights of mountains and depths of valleys.`
       - 激光测高仪通过物体表面反射的光束测量山脉的高度和峡谷的深度。

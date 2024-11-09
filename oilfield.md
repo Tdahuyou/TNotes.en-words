@@ -1,10 +1,13 @@
 - oilfield
   - 发音
-    - 英 `/undefined/`
-    - 美 `/'ɔɪlfild/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/'ɔɪlfild/`
   - 词义
-    - n. 油田
-    - `an area of land or sea under which there is oil`
+    - n.
+      - 油田
+        - `an area of land or sea under which there is oil`
   - 记忆
     - oil(油)+field(田地)→油田
   - 例句

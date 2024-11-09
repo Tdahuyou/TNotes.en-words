@@ -1,10 +1,13 @@
 - offstage
   - 发音
-    - 英 `/ɔːf'steɪdʒ/`
-    - 美 `/,ɔf'stedʒ/`
+    - 英
+      - `/ɔːf'steɪdʒ/`
+    - 美
+      - `/,ɔf'stedʒ/`
   - 词义
-    - adj. 台后的，幕后的
-    - `Offstage is used to describe the behaviour of actors or entertainers in real life, when they are not performing`
+    - adj.
+      - 台后的，幕后的
+        - `Offstage is used to describe the behaviour of actors or entertainers in real life, when they are not performing`
   - 记忆
     - off(离开…) + stage(舞台) → 离开舞台 → 台后的
   - 例句

@@ -1,19 +1,24 @@
 - desecrate
   - 发音
-    - 英 `/'desɪkreɪt/`
-    - 美 `/'dɛsɪ'kret/`
+    - 英
+      - `/'desɪkreɪt/`
+    - 美
+      - `/'dɛsɪ'kret/`
   - 词义
-    - v. 玷辱，亵渎
-    - `to spoil or damage something holy or respected`
+    - v.
+      - 玷辱，亵渎
+        - `to spoil or damage something holy or respected`
   - 记忆
     - de(向下) + secr(神圣) + ate → 玷辱
   - 同根词
     - n.
-      - `desecration` 亵渎神圣；污辱神物
+      - `desecration`
+        - 亵渎神圣；污辱神物
   - 近义词
-    - vt. 亵渎；污辱；把（神物）供俗用
-      - `soil`
-      - `dishallow`
+    - vt.
+      - 亵渎；污辱；把（神物）供俗用
+        - `soil`
+        - `dishallow`
   - 例句
     - `She shouldn't have desecrated the picture of a religious leader.`
       - 她不该亵渎宗教领袖的肖像。

@@ -1,13 +1,17 @@
 - freshmen
   - 发音
-    - 英 `/'freʃmən/`
-    - 美 `/'freʃmən/`
+    - 英
+      - `/'freʃmən/`
+    - 美
+      - `/'freʃmən/`
   - 词义
-    - n. 大一新生
-    - `In the United States, a freshman is a student who is in his or her first year at a high school or college`
+    - n.
+      - 大一新生
+        - `In the United States, a freshman is a student who is in his or her first year at a high school or college`
   - 近义词
-    - n. 大学一年级新生；新手（freshman的复数）
-      - `novices`
+    - n.
+      - 大学一年级新生；新手（freshman的复数）
+        - `novices`
   - 例句
     - `The president was lecturing the freshmen.`
       - 校长正给新生做演讲。

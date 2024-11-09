@@ -1,12 +1,17 @@
 - Monroe
   - 发音
-    - 英 `/mən'rəu/`
-    - 美 `/mən'rəu/`
+    - 英
+      - `/mən'rəu/`
+    - 美
+      - `/mən'rəu/`
   - 词义
-    - n. 门罗(m)
+    - n.
+      - 门罗(m)
   - 短语
-    - `marilyn monroe` 玛丽莲·梦露 
-    - `monroe doctrine` 门罗主义；类似门罗主义的策略 
+    - `marilyn monroe`
+      - 玛丽莲·梦露 
+    - `monroe doctrine`
+      - 门罗主义；类似门罗主义的策略 
   - 例句
     - `Monroe followed Madison as president.`
       - 门罗接替麦迪逊当上总统。

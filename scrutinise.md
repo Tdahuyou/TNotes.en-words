@@ -1,19 +1,28 @@
 - scrutinise
   - 发音
-    - 英 `/'skruːtɪnaɪz/`
-    - 美 `/'skru:tinaiz/`
+    - 英
+      - `/'skruːtɪnaɪz/`
+    - 美
+      - `/'skru:tinaiz/`
   - 词义
-    - v. 作仔细检查；细致观察
+    - v.
+      - 作仔细检查；细致观察
   - 同根词
     - n.
-      - `scrutiny` 详细审查；监视；细看；选票复查
-      - `scrutinize` 仔细或彻底检查
-      - `scrutineer` 检查者；监票人
+      - `scrutiny`
+        - 详细审查；监视；细看；选票复查
+      - `scrutinize`
+        - 仔细或彻底检查
+      - `scrutineer`
+        - 检查者；监票人
     - vi.
-      - `scrutinize` 细阅；作详细检查
+      - `scrutinize`
+        - 细阅；作详细检查
     - vt.
-      - `scrutinize` 详细检查；细看
+      - `scrutinize`
+        - 详细检查；细看
   - 近义词
-    - vt. 细看；仔细观察或检查；核对（等于scrutinize）
-      - `scan`
-      - `collate`
+    - vt.
+      - 细看；仔细观察或检查；核对（等于scrutinize）
+        - `scan`
+        - `collate`

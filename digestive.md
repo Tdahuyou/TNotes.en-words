@@ -1,31 +1,46 @@
 - digestive
   - 发音
-    - 英 `/daɪ'dʒestɪv; dɪ-/`
-    - 美 `/daɪ'dʒɛstɪv/`
+    - 英
+      - `/daɪ'dʒestɪv; dɪ-/`
+    - 美
+      - `/daɪ'dʒɛstɪv/`
   - 词义
-    - adj. 消化的
-    - `connected with the process of digestion`
+    - adj.
+      - 消化的
+        - `connected with the process of digestion`
   - 同根词
     - adj.
-      - `digestible` 易消化的；可摘要的
+      - `digestible`
+        - 易消化的；可摘要的
     - n.
-      - `digest` 文摘；摘要
-      - `digestion` 消化；领悟
-      - `digester` 做摘要者；助消化食品；汇编者；蒸炼器
-      - `digestibility` 消化性；可消化性
+      - `digest`
+        - 文摘；摘要
+      - `digestion`
+        - 消化；领悟
+      - `digester`
+        - 做摘要者；助消化食品；汇编者；蒸炼器
+      - `digestibility`
+        - 消化性；可消化性
     - vi.
-      - `digest` 消化
+      - `digest`
+        - 消化
     - vt.
-      - `digest` 消化；吸收；融会贯通
+      - `digest`
+        - 消化；吸收；融会贯通
   - 近义词
-    - n. 助消化药
-      - `pepsine`
-      - `bromo`
+    - n.
+      - 助消化药
+        - `pepsine`
+        - `bromo`
   - 短语
-    - `digestive system` 消化系统 
-    - `digestive tract` 消化道 
-    - `digestive enzyme` 消化酶 
-    - `digestive juice` 消化液 
+    - `digestive system`
+      - 消化系统 
+    - `digestive tract`
+      - 消化道 
+    - `digestive enzyme`
+      - 消化酶 
+    - `digestive juice`
+      - 消化液 
   - 例句
     - `...digestive juices that normally work on breaking down our food.`
       - …通常用于分解食物的消化液。

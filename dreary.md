@@ -1,21 +1,28 @@
 - dreary
   - 发音
-    - 英 `/'drɪərɪ/`
-    - 美 `/'drɪri/`
+    - 英
+      - `/'drɪərɪ/`
+    - 美
+      - `/'drɪri/`
   - 词义
-    - adj. 沉闷的，枯燥的
-    - `dull and making you feel sad or bored`
+    - adj.
+      - 沉闷的，枯燥的
+        - `dull and making you feel sad or bored`
   - 同根词
     - adj.
-      - `drear` 阴郁的；悲伤的（dreary）
+      - `drear`
+        - 阴郁的；悲伤的（dreary）
     - adv.
-      - `drearily` 沉寂地；可怕地；令人厌倦地
+      - `drearily`
+        - 沉寂地；可怕地；令人厌倦地
     - n.
-      - `dreariness` 凄凉；沉寂；可怕
+      - `dreariness`
+        - 凄凉；沉寂；可怕
   - 近义词
-    - adj. 沉闷的，枯燥的
-      - `tedious`
-      - `dreich`
+    - adj.
+      - 沉闷的，枯燥的
+        - `tedious`
+        - `dreich`
   - 例句
     - `the same dreary routine`
       - 一成不变的、乏味的日常事务

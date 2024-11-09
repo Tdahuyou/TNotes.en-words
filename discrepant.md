@@ -1,16 +1,21 @@
 - discrepant
   - 发音
-    - 英 `/dis'krepənt/`
-    - 美 `/dɪ'skrɛpənt/`
+    - 英
+      - `/dis'krepənt/`
+    - 美
+      - `/dɪ'skrɛpənt/`
   - 词义
-    - adj. 差异的
+    - adj.
+      - 差异的
   - 同根词
     - n.
-      - `discrepancy` 不符；矛盾；相差
+      - `discrepancy`
+        - 不符；矛盾；相差
   - 近义词
-    - adj. 有差异的；相差的；矛盾的
-      - `contradictory`
-      - `paradoxical`
+    - adj.
+      - 有差异的；相差的；矛盾的
+        - `contradictory`
+        - `paradoxical`
   - 例句
     - `A usd45.00fee plus telex charges should be deducted from the reimbursement claim for each presentation of discrepant documents under this documentary credit.`
       - 费用加上电报指控从偿还要求为相差的档每发表在这部记录片信用之下应该被扣除。

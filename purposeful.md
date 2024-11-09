@@ -1,26 +1,37 @@
 - purposeful
   - 发音
-    - 英 `/'pəːpəsfl/`
-    - 美 `/'pɝpəsfl/`
+    - 英
+      - `/'pəːpəsfl/`
+    - 美
+      - `/'pɝpəsfl/`
   - 词义
-    - adj. 有目的的；有意义的
-    - `having a clear aim or purpose`
+    - adj.
+      - 有目的的；有意义的
+        - `having a clear aim or purpose`
   - 同根词
     - adj.
-      - `purposive` 有目的的；故意的
-      - `purposeless` 无目的的；无益的；缺乏决心的
+      - `purposive`
+        - 有目的的；故意的
+      - `purposeless`
+        - 无目的的；无益的；缺乏决心的
     - adv.
-      - `purposefully` 有目的地；自觉地
+      - `purposefully`
+        - 有目的地；自觉地
     - n.
-      - `purpose` 目的；用途；意志
-      - `purposefulness` 目的性；意志坚强
-      - `purposelessness` 无目的
+      - `purpose`
+        - 目的；用途；意志
+      - `purposefulness`
+        - 目的性；意志坚强
+      - `purposelessness`
+        - 无目的
     - vt.
-      - `purpose` 决心；企图；打算
+      - `purpose`
+        - 决心；企图；打算
   - 近义词
-    - adj. 有目的的；有决心的
-      - `telic`
-      - `goal-directed`
+    - adj.
+      - 有目的的；有决心的
+        - `telic`
+        - `goal-directed`
   - 例句
     - `a purposeful and consistent foreign policy`
       - 明确而一贯的外交政策

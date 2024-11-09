@@ -1,15 +1,21 @@
 - pontifical
   - 发音
-    - 英 `/pɑːn'tɪfɪkl/`
-    - 美 `/pɑn'tɪfɪkl/`
+    - 英
+      - `/pɑːn'tɪfɪkl/`
+    - 美
+      - `/pɑn'tɪfɪkl/`
   - 词义
-    - adj. 教皇的；自负的；武断的
-    - `relating to the Pope`
+    - adj.
+      - 教皇的；自负的；武断的
+        - `relating to the Pope`
   - 同根词
     - adj.
-      - `pontific` 自以为是的；武断的（等于pontifical）
+      - `pontific`
+        - 自以为是的；武断的（等于pontifical）
     - n.
-      - `pontiff` 主教，教皇；罗马教宗
+      - `pontiff`
+        - 主教，教皇；罗马教宗
   - 近义词
-    - adj. 罗马教宗的；主教的
-      - `episcopal`
+    - adj.
+      - 罗马教宗的；主教的
+        - `episcopal`

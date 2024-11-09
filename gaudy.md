@@ -1,21 +1,29 @@
 - gaudy
   - 发音
-    - 英 `/ˈgɔ:di/`
-    - 美 `/'gɔdi/`
+    - 英
+      - `/ˈgɔ:di/`
+    - 美
+      - `/'gɔdi/`
   - 词义
-    - adj. 花哨的
-    - `clothes, colours etc that are gaudy are too bright and look cheap – used to show disapproval`
+    - adj.
+      - 花哨的
+        - `clothes, colours etc that are gaudy are too bright and look cheap – used to show disapproval`
   - 同根词
     - adv.
-      - `gaudily` 俗丽地
+      - `gaudily`
+        - 俗丽地
     - n.
-      - `gaud` 华丽而俗气的东西
-      - `gaudery` 夸示；俗丽的服饰
-      - `gaudiness` 华美，俗丽的美
+      - `gaud`
+        - 华丽而俗气的东西
+      - `gaudery`
+        - 夸示；俗丽的服饰
+      - `gaudiness`
+        - 华美，俗丽的美
   - 近义词
-    - adj. 华而不实的；俗丽的
-      - `purple`
-      - `gingerbready`
+    - adj.
+      - 华而不实的；俗丽的
+        - `purple`
+        - `gingerbready`
   - 例句
     - `gaudy jewelry`
       - 俗丽的珠宝

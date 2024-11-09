@@ -1,19 +1,25 @@
 - prospector
   - 发音
-    - 英 `/'prɑːspektər/`
-    - 美 `/'prɑspɛktɚ/`
+    - 英
+      - `/'prɑːspektər/`
+    - 美
+      - `/'prɑspɛktɚ/`
   - 词义
-    - n. 勘探者，采矿者
-    - `someone who looks for gold, minerals, oil etc`
+    - n.
+      - 勘探者，采矿者
+        - `someone who looks for gold, minerals, oil etc`
   - 记忆
     - pro(向前) + spect(看) + or(表人， 名词后缀) → 向前看的人 → 负责向地下探测的人 → 勘探者
   - 同根词
     - n.
-      - `prospect` 前途；预期；景色
+      - `prospect`
+        - 前途；预期；景色
     - vi.
-      - `prospect` 勘探，找矿
+      - `prospect`
+        - 勘探，找矿
     - vt.
-      - `prospect` 勘探，勘察
+      - `prospect`
+        - 勘探，勘察
   - 例句
     - `As for the gold, this modern-day prospector pans it like it's 1848.`
       - 至于黄金，这位现代探矿者淘金的法子还和1848年时相差无几。

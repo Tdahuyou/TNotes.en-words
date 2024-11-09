@@ -1,27 +1,38 @@
 - desirable
   - 发音
-    - 英 `/dɪ'zaɪərəb(ə)l/`
-    - 美 `/dɪ'zaɪərəbl/`
+    - 英
+      - `/dɪ'zaɪərəb(ə)l/`
+    - 美
+      - `/dɪ'zaɪərəbl/`
   - 词义
-    - adj. 值得拥有的,可取的
-    - `something that is desirable is worth having or doing`
+    - adj.
+      - 值得拥有的,可取的
+        - `something that is desirable is worth having or doing`
   - 同根词
     - adj.
-      - `desired` 渴望的；想得到的
+      - `desired`
+        - 渴望的；想得到的
     - n.
-      - `desire` 欲望；要求，心愿；性欲
-      - `desirability` 愿望；有利条件；值得向往的事物；合意
-      - `desirableness` 满意；愿望
+      - `desire`
+        - 欲望；要求，心愿；性欲
+      - `desirability`
+        - 愿望；有利条件；值得向往的事物；合意
+      - `desirableness`
+        - 满意；愿望
     - v.
-      - `desired` 渴望，要求（desire的过去分词形式）
+      - `desired`
+        - 渴望，要求（desire的过去分词形式）
     - vi.
-      - `desire` 渴望
+      - `desire`
+        - 渴望
     - vt.
-      - `desire` 想要；要求；希望得到…
+      - `desire`
+        - 想要；要求；希望得到…
   - 近义词
-    - adj. 令人满意的；值得要的
-      - `satisfying`
-      - `fulfilling`
+    - adj.
+      - 令人满意的；值得要的
+        - `satisfying`
+        - `fulfilling`
   - 例句
     - `The ability to speak a foreign language is highly desirable .`
       - 能说一门外语是非常理想的。

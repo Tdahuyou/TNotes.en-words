@@ -1,10 +1,13 @@
 - sportsperson
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 运动员
-    - `someone who takes part in sports or a sport`
+    - n.
+      - 运动员
+        - `someone who takes part in sports or a sport`
   - 例句
     - `An Australian researcher has found your chances of becoming a professional sportsperson could depend on your birthday.`
       - 澳大利亚一名研究人员发现，出生月份可能决定了你当职业运动员的机率。

@@ -1,23 +1,30 @@
 - peerless
   - 发音
-    - 英 `/'piəlis/`
-    - 美 `/'pɪrləs/`
+    - 英
+      - `/'piəlis/`
+    - 美
+      - `/'pɪrləs/`
   - 词义
-    - adj. 无匹敌的，无比的，无双的，绝世的
-    - `better than any other`
+    - adj.
+      - 无匹敌的，无比的，无双的，绝世的
+        - `better than any other`
   - 记忆
     - peer (同等的人) + less (无…的) → 无匹敌的
   - 同根词
     - n.
-      - `peer` 贵族；同等的人
+      - `peer`
+        - 贵族；同等的人
     - vi.
-      - `peer` 凝视，盯着看；窥视
+      - `peer`
+        - 凝视，盯着看；窥视
     - vt.
-      - `peer` 封为贵族；与…同等
+      - `peer`
+        - 封为贵族；与…同等
   - 近义词
-    - adj. 无与伦比的；出类拔萃的；无比的
-      - `unmatched`
-      - `uneaqualed`
+    - adj.
+      - 无与伦比的；出类拔萃的；无比的
+        - `unmatched`
+        - `uneaqualed`
   - 例句
     - `the peerless blues musician B.B. King`
       - 举世无双的蓝调音乐家比比金

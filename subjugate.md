@@ -1,25 +1,34 @@
 - subjugate
   - 发音
-    - 英 `/'sʌbdʒugeɪt/`
-    - 美 `/'sʌbdʒuɡet/`
+    - 英
+      - `/'sʌbdʒugeɪt/`
+    - 美
+      - `/'sʌbdʒuɡet/`
   - 词义
-    - vt. 征服，制伏，使服从
-    - `to defeat a person or group and make them obey you`
+    - vt.
+      - 征服，制伏，使服从
+        - `to defeat a person or group and make them obey you`
   - 记忆
     - sub(在…下面) + jug(捆绑) + ate → 在下面捆绑 → 征服
   - 同根词
     - adj.
-      - `subject` 服从的；易患…的；受制于…的
+      - `subject`
+        - 服从的；易患…的；受制于…的
     - n.
-      - `subject` 主题；科目；[语] 主语；国民
-      - `subjugation` 征服；镇压；克制
-      - `subjection` 隶属；服从；征服
+      - `subject`
+        - 主题；科目；[语] 主语；国民
+      - `subjugation`
+        - 征服；镇压；克制
+      - `subjection`
+        - 隶属；服从；征服
     - vt.
-      - `subject` 使…隶属；使屈从于…
+      - `subject`
+        - 使…隶属；使屈从于…
   - 近义词
-    - vt. 征服；使服从；克制
-      - `submit`
-      - `master`
+    - vt.
+      - 征服；使服从；克制
+        - `submit`
+        - `master`
   - 例句
     - `The native population was subjugated and exploited.`
       - 土著人被征服，并遭受剥削。

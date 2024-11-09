@@ -1,25 +1,35 @@
 - rafter
   - 发音
-    - 英 `/'rɑːftə/`
-    - 美 `/'ræftɚ/`
+    - 英
+      - `/'rɑːftə/`
+    - 美
+      - `/'ræftɚ/`
   - 词义
-    - n. 椽,筏夫
-    - `one of the large sloping pieces of wood that form the structure of a roof`
+    - n.
+      - 椽,筏夫
+        - `one of the large sloping pieces of wood that form the structure of a roof`
   - 同根词
     - adj.
-      - `raftered` 用椽建筑的，椽在天花板上暴露的
+      - `raftered`
+        - 用椽建筑的，椽在天花板上暴露的
     - n.
-      - `raft` 筏；救生艇；（美）大量
-      - `raftsman` 撑筏者
+      - `raft`
+        - 筏；救生艇；（美）大量
+      - `raftsman`
+        - 撑筏者
     - v.
-      - `raftered` 装椽于（rafter的过去分词）
+      - `raftered`
+        - 装椽于（rafter的过去分词）
     - vi.
-      - `raft` 乘筏
+      - `raft`
+        - 乘筏
     - vt.
-      - `raft` 筏运；制成筏
+      - `raft`
+        - 筏运；制成筏
   - 近义词
-    - n. [建]椽；筏夫（等于raftsman）
-      - `viga`
+    - n.
+      - [建]椽；筏夫（等于raftsman）
+        - `viga`
   - 例句
     - `The club was packed to the rafters (= very full ) .`
       - 俱乐部里挤满了人。

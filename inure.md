@@ -1,19 +1,25 @@
 - inure
   - 发音
-    - 英 `/i'njuə/`
-    - 美 `/i'njuə/`
+    - 英
+      - `/i'njuə/`
+    - 美
+      - `/i'njuə/`
   - 词义
-    - v. 使习惯于；使坚强，使加固
-    - `to cause to accept or become hardened to; habituate `
+    - v.
+      - 使习惯于；使坚强，使加固
+        - `to cause to accept or become hardened to; habituate `
   - 记忆
     - in (不) + ure (看作cure， 治愈) → 疾病久治不愈， 已经习以为常 → 使习惯于
   - 同根词
     - adj.
-      - `inured` 习惯的
+      - `inured`
+        - 习惯的
     - v.
-      - `inured` 使习惯；有助于；生效（inure的过去分词）
+      - `inured`
+        - 使习惯；有助于；生效（inure的过去分词）
   - 近义词
-    - vi. 适用；起作用；有助于
-      - `operate`
-      - `apply`
-      - `act`
+    - vi.
+      - 适用；起作用；有助于
+        - `operate`
+        - `apply`
+        - `act`

@@ -1,21 +1,27 @@
 - accordion
   - 发音
-    - 英 `/ə'kɔːrdiən/`
-    - 美 `/ə'kɔrdɪən/`
+    - 英
+      - `/ə'kɔːrdiən/`
+    - 美
+      - `/ə'kɔrdɪən/`
   - 词义
-    - n. 手风琴
-    - `a musical instrument like a large box that you hold in both hands. You play it by pressing the sides together and pulling them out again, while you push buttons and  key s  .`
+    - n.
+      - 手风琴
+        - `a musical instrument like a large box that you hold in both hands. You play it by pressing the sides together and pulling them out again, while you push buttons and  key s  .`
   - 记忆
     - 来自accord(n./vi. 一致， 调和)
   - 同根词
     - n.
-      - `accordionist` 手风琴师
+      - `accordionist`
+        - 手风琴师
   - 近义词
-    - adj. 可折叠的
-      - `folding`
-      - `collapsable`
-    - n. 手风琴
-      - `squeezebox`
+    - adj.
+      - 可折叠的
+        - `folding`
+        - `collapsable`
+    - n.
+      - 手风琴
+        - `squeezebox`
   - 例句
     - `Can I have your accordion?`
       - 我能要你的手风琴吗？

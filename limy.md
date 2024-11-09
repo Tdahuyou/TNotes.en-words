@@ -1,12 +1,16 @@
 - limy
   - 发音
-    - 英 `/'laimi/`
-    - 美 `/'laɪmi/`
+    - 英
+      - `/'laimi/`
+    - 美
+      - `/'laɪmi/`
   - 词义
-    - adj. 含石灰的,石灰似的
+    - adj.
+      - 含石灰的,石灰似的
   - 近义词
-    - adj. 石灰质的；涂粘鸟胶的；含石灰的
-      - `calcific`
+    - adj.
+      - 石灰质的；涂粘鸟胶的；含石灰的
+        - `calcific`
   - 例句
     - `Ultimately, the concretion mechanism of limy composite concretion earth is made certain by way of performance contrast among different specimens.`
       - 通过不同试件的性能对比，确定石灰类复合团结土的团结机理。

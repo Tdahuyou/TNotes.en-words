@@ -1,10 +1,13 @@
 - ramjet
   - 发音
-    - 英 `/'ræmdʒet/`
-    - 美 `/'ræmdʒɛt/`
+    - 英
+      - `/'ræmdʒet/`
+    - 美
+      - `/'ræmdʒɛt/`
   - 词义
-    - n. [航]冲压式喷气发动机
-    - `a type of jet engine in which fuel is burned in a duct using air compressed by the forward speed of the aircraft `
+    - n.
+      - [航]冲压式喷气发动机
+        - `a type of jet engine in which fuel is burned in a duct using air compressed by the forward speed of the aircraft `
   - 例句
     - `The objective of these studies is to gather data that enable them to adapt the test chamber for ramjet tests.`
       - 的目的，这些研究是收集数据，使他们能够适应的试验室的冲压发动机试验。

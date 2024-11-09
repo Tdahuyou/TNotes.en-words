@@ -1,9 +1,12 @@
 - flagella
   - 发音
-    - 英 `/flə'dʒelə/`
-    - 美 `/undefined/`
+    - 英
+      - `/flə'dʒelə/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 鞭毛
+    - n.
+      - 鞭毛
   - 例句
     - `The rotation of flagella pushes the bacteria through the water.`
       - 鞭毛的旋转可以推动细菌在水中行进。

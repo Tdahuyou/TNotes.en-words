@@ -1,13 +1,17 @@
 - nonproductive
   - 发音
-    - 英 `/,nɒnprə'dʌktɪv/`
-    - 美 `/,nɑnprə'dʌktɪv/`
+    - 英
+      - `/,nɒnprə'dʌktɪv/`
+    - 美
+      - `/,nɑnprə'dʌktɪv/`
   - 词义
-    - adj. 非生产性的
-    - `(of workers) not directly responsible for producing goods `
+    - adj.
+      - 非生产性的
+        - `(of workers) not directly responsible for producing goods `
   - 近义词
-    - adj. [经]非生产性的；对生产无直接关系的
-      - `unproductive`
+    - adj.
+      - [经]非生产性的；对生产无直接关系的
+        - `unproductive`
   - 例句
     - `It’s a batch process, which means that there’s a fair amount of nonproductive capacity,” he said.`
       - 这是一个间歇过程，这意味着有一个相当数量的非生产性的产能，“他说。

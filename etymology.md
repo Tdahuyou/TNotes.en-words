@@ -1,21 +1,28 @@
 - etymology
   - 发音
-    - 英 `/ˌetɪ'mɑːlədʒi/`
-    - 美 `/,ɛtɪ'mɑlədʒi/`
+    - 英
+      - `/ˌetɪ'mɑːlədʒi/`
+    - 美
+      - `/,ɛtɪ'mɑlədʒi/`
   - 词义
-    - n. 语源学
-    - `the study of the origins, history and changing meanings of words`
+    - n.
+      - 语源学
+        - `the study of the origins, history and changing meanings of words`
   - 记忆
     - 来自etymon(n. 词源， 字根)
   - 同根词
     - adj.
-      - `etymological` 词源的；词源学的
+      - `etymological`
+        - 词源的；词源学的
     - n.
-      - `etymologist` 词源（语源）学家
+      - `etymologist`
+        - 词源（语源）学家
     - vi.
-      - `etymologize` 研究语源
+      - `etymologize`
+        - 研究语源
     - vt.
-      - `etymologize` 探溯语源；追溯语源
+      - `etymologize`
+        - 探溯语源；追溯语源
   - 例句
     - `From the etymology speaking, anthropology is the study of science.`
       - 从语源学上讲，人类学是研究人的科学。

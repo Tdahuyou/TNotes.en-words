@@ -1,13 +1,17 @@
 - condor
   - 发音
-    - 英 `/'kɒndɔː/`
-    - 美 `/'kɑndɔr/`
+    - 英
+      - `/'kɒndɔː/`
+    - 美
+      - `/'kɑndɔr/`
   - 词义
-    - n. [动]秃鹰,秃鹫
-    - `a very large South American  vulture (= a bird that eats dead animals ) `
+    - n.
+      - [动]秃鹰,秃鹫
+        - `a very large South American  vulture (= a bird that eats dead animals ) `
   - 近义词
-    - n. 秃鹫，秃鹰
-      - `vulture`
+    - n.
+      - 秃鹫，秃鹰
+        - `vulture`
   - 例句
     - `Just like this California condor, which—though teetering on the edge of extinction—still soars near the Grand Canyon in Arizona and in the state it was named after.`
       - 就像加利福利亚秃鹫，虽然依旧翱翔于亚利桑那和加利福利亚的大峡谷附近，但已在灭绝的悬崖边摇摇欲坠。

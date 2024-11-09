@@ -1,17 +1,22 @@
 - cuticle
   - 发音
-    - 英 `/'kjuːtɪk(ə)l/`
-    - 美 `/'kjʊtɪkl/`
+    - 英
+      - `/'kjuːtɪk(ə)l/`
+    - 美
+      - `/'kjʊtɪkl/`
   - 词义
-    - n. 表皮,角质层
-    - `Your cuticles are the skin at the base of each of your nails`
+    - n.
+      - 表皮,角质层
+        - `Your cuticles are the skin at the base of each of your nails`
   - 同根词
     - vt.
-      - `cutinize` 使充满蜡状质，使角质化
+      - `cutinize`
+        - 使充满蜡状质，使角质化
   - 近义词
-    - n. [生物]角质层；[解剖]表皮；护膜
-      - `periostracum`
-      - `stratum corneum`
+    - n.
+      - [生物]角质层；[解剖]表皮；护膜
+        - `periostracum`
+        - `stratum corneum`
   - 例句
     - `What about the other parts of the cuticle?`
       - 有关的角质层的其他部分呢？

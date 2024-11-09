@@ -1,27 +1,37 @@
 - rapacious
   - 发音
-    - 英 `/rə'peiʃəs/`
-    - 美 `/rə'peʃəs/`
+    - 英
+      - `/rə'peiʃəs/`
+    - 美
+      - `/rə'peʃəs/`
   - 词义
-    - adj. 掠夺的；贪婪的
-    - `always wanting more money, goods etc than you need or have a right to`
+    - adj.
+      - 掠夺的；贪婪的
+        - `always wanting more money, goods etc than you need or have a right to`
   - 记忆
     - rap (掠夺) + acious (多的) → 不断抢的 → 掠夺的； 贪婪的
   - 同根词
     - adv.
-      - `rapaciously` 贪婪地；强取地
+      - `rapaciously`
+        - 贪婪地；强取地
     - n.
-      - `rape` 强奸，掠夺；[园艺] 油菜；葡萄渣
-      - `rapacity` 贪婪；掠夺
-      - `rapaciousness` 强取；贪婪
+      - `rape`
+        - 强奸，掠夺；[园艺] 油菜；葡萄渣
+      - `rapacity`
+        - 贪婪；掠夺
+      - `rapaciousness`
+        - 强取；贪婪
     - vi.
-      - `rape` 犯强奸罪
+      - `rape`
+        - 犯强奸罪
     - vt.
-      - `rape` 强奸；掠夺，抢夺
+      - `rape`
+        - 强奸；掠夺，抢夺
   - 近义词
-    - adj. 贪婪的；掠夺的
-      - `greedy`
-      - `grasping`
+    - adj.
+      - 贪婪的；掠夺的
+        - `greedy`
+        - `grasping`
   - 例句
     - `rapacious landlords`
       - 贪婪的房东

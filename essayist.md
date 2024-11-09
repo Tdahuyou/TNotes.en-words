@@ -1,19 +1,25 @@
 - essayist
   - 发音
-    - 英 `/'eseɪɪst/`
-    - 美 `/'ɛseɪst/`
+    - 英
+      - `/'eseɪɪst/`
+    - 美
+      - `/'ɛseɪst/`
   - 词义
-    - n. 随笔作家，散文家；评论家
-    - `someone who writes essays giving their ideas about politics, society etc`
+    - n.
+      - 随笔作家，散文家；评论家
+        - `someone who writes essays giving their ideas about politics, society etc`
   - 同根词
     - n.
-      - `essay` 散文；试图；随笔
+      - `essay`
+        - 散文；试图；随笔
     - vt.
-      - `essay` 尝试；对…做试验
+      - `essay`
+        - 尝试；对…做试验
   - 近义词
-    - n. 随笔作家，散文家；评论家
-      - `critic`
-      - `proser`
+    - n.
+      - 随笔作家，散文家；评论家
+        - `critic`
+        - `proser`
   - 例句
     - `Ralph Waldo Emerson was an American philosopher, poet, lecturer, and essayist.`
       - 爱默生是一位美国的哲学家、诗人、演讲家及散文家。

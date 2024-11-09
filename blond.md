@@ -1,16 +1,22 @@
 - blond
   - 发音
-    - 英 `/blɒnd/`
-    - 美 `/blɑnd/`
+    - 英
+      - `/blɒnd/`
+    - 美
+      - `/blɑnd/`
   - 词义
-    - adj. 金发的
-    - `a man who is blond has pale or yellow hair`
-    - n. 白肤碧眼金发的人
+    - adj.
+      - 金发的
+        - `a man who is blond has pale or yellow hair`
+    - n.
+      - 白肤碧眼金发的人
   - 近义词
-    - adj. 金发的
-      - `fair-haired`
+    - adj.
+      - 金发的
+        - `fair-haired`
   - 短语
-    - `blond hair` 金发 
+    - `blond hair`
+      - 金发 
   - 例句
     - `I think someone at this table with blond curly hair should enter.`
       - 我认为坐在餐桌边的金发卷毛的人应该参加。

@@ -1,16 +1,21 @@
 - trousers
   - 发音
-    - 英 `/'traʊzəz/`
-    - 美 `/'traʊzɚz/`
+    - 英
+      - `/'traʊzəz/`
+    - 美
+      - `/'traʊzɚz/`
   - 词义
-    - n. [用复数]裤子
-    - `a piece of clothing that covers the lower half of your body, with a separate part fitting over each leg`
+    - n.
+      - [用复数]裤子
+        - `a piece of clothing that covers the lower half of your body, with a separate part fitting over each leg`
   - 近义词
-    - n. [服装]裤子，长裤
-      - `pants`
-      - `britches`
+    - n.
+      - [服装]裤子，长裤
+        - `pants`
+        - `britches`
   - 短语
-    - `a pair of trousers` 一条裤子 
+    - `a pair of trousers`
+      - 一条裤子 
   - 例句
     - `His trousers were slightly too short.`
       - 他的裤子有点短。

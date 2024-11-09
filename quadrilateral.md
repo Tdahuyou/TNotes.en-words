@@ -1,18 +1,24 @@
 - quadrilateral
   - 发音
-    - 英 `/ˌkwɔdri'lætərəl/`
-    - 美 `/,kwɑdrɪ'lætərəl/`
+    - 英
+      - `/ˌkwɔdri'lætərəl/`
+    - 美
+      - `/,kwɑdrɪ'lætərəl/`
   - 词义
-    - n. 四边形
-    - `a flat shape with four straight sides`
+    - n.
+      - 四边形
+        - `a flat shape with four straight sides`
   - 同根词
     - adj.
-      - `quadrangular` 四边形的；四角形的
+      - `quadrangular`
+        - 四边形的；四角形的
   - 近义词
-    - adj. [数]四边形的
-      - `dimetric`
+    - adj.
+      - [数]四边形的
+        - `dimetric`
   - 短语
-    - `quadrilateral element` 四边形元 
+    - `quadrilateral element`
+      - 四边形元 
   - 例句
     - `A kite is a quadrilateral with one line of symmetry.`
       - 风筝是个有一条对称线的四边形。

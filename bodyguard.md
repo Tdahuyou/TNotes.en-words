@@ -1,14 +1,18 @@
 - bodyguard
   - 发音
-    - 英 `/'bɒdɪgɑːd/`
-    - 美 `/'bɑdɪɡɑrd/`
+    - 英
+      - `/'bɒdɪgɑːd/`
+    - 美
+      - `/'bɑdɪɡɑrd/`
   - 词义
-    - n. 保镖
-    - `someone whose job is to protect an important person`
+    - n.
+      - 保镖
+        - `someone whose job is to protect an important person`
   - 近义词
-    - n. 保镖
-      - `triggerman`
-      - `bouncer`
+    - n.
+      - 保镖
+        - `triggerman`
+        - `bouncer`
   - 例句
     - `The senator arrived, surrounded by personal bodyguards.`
       - 这位参议员在私人保镖的簇拥下抵达。

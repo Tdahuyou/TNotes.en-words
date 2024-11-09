@@ -1,26 +1,37 @@
 - summation
   - 发音
-    - 英 `/sʌ'meɪʃn/`
-    - 美 `/sʌ'meʃən/`
+    - 英
+      - `/sʌ'meɪʃn/`
+    - 美
+      - `/sʌ'meʃən/`
   - 词义
-    - n. 总结，概要；总数，合计
-    - `a  summary  or  summing-up `
+    - n.
+      - 总结，概要；总数，合计
+        - `a  summary  or  summing-up `
   - 同根词
     - adj.
-      - `summative` 总结性；总结的
-      - `summational` 总合的
+      - `summative`
+        - 总结性；总结的
+      - `summational`
+        - 总合的
     - n.
-      - `sum` 金额；总数
+      - `sum`
+        - 金额；总数
     - vi.
-      - `sum` 概括
-      - `summate` 求和
+      - `sum`
+        - 概括
+      - `summate`
+        - 求和
     - vt.
-      - `sum` 总结；合计
-      - `summate` 求…的和
+      - `sum`
+        - 总结；合计
+      - `summate`
+        - 求…的和
   - 近义词
-    - n. 和；[生理]总和；合计
-      - `together with`
-      - `grand total`
+    - n.
+      - 和；[生理]总和；合计
+        - `together with`
+        - `grand total`
   - 例句
     - `Her introduction is a model of fairness, a lively summation of Irish history.`
       - 她的导论是公正的典范，是对爱尔兰历史的总结。

@@ -1,30 +1,44 @@
 - indented
   - 发音
-    - 英 `/ɪn'dentɪd/`
-    - 美 `/ɪn'dɛntɪd/`
+    - 英
+      - `/ɪn'dentɪd/`
+    - 美
+      - `/ɪn'dɛntɪd/`
   - 词义
-    - adj. 锯齿状的；高低不平的
-    - `an indented edge or surface has cuts or marks in it`
+    - adj.
+      - 锯齿状的；高低不平的
+        - `an indented edge or surface has cuts or marks in it`
   - 同根词
     - adj.
-      - `indentured` 受契约束缚的
+      - `indentured`
+        - 受契约束缚的
     - n.
-      - `indent` 缩进；订货单；凹痕；契约
-      - `indentation` 压痕，[物] 刻痕；凹陷；缩排；呈锯齿状
-      - `indenture` 契约；合同
-      - `indention` 缩排；凹痕；锯齿状；定货
+      - `indent`
+        - 缩进；订货单；凹痕；契约
+      - `indentation`
+        - 压痕，[物] 刻痕；凹陷；缩排；呈锯齿状
+      - `indenture`
+        - 契约；合同
+      - `indention`
+        - 缩排；凹痕；锯齿状；定货
     - v.
-      - `indentured` 以契约约束；签订契约（indenture的过去分词）
+      - `indentured`
+        - 以契约约束；签订契约（indenture的过去分词）
     - vi.
-      - `indent` 切割成锯齿状
+      - `indent`
+        - 切割成锯齿状
     - vt.
-      - `indent` 定货；缩排；印凹痕
-      - `indenture` 以契约约束
+      - `indent`
+        - 定货；缩排；印凹痕
+      - `indenture`
+        - 以契约约束
   - 近义词
-    - adj. 犬牙交错的；受契约约束的；缩进排印的
-      - `articled`
+    - adj.
+      - 犬牙交错的；受契约约束的；缩进排印的
+        - `articled`
   - 短语
-    - `indent for` （英）订货；（英）申请供应 
+    - `indent for`
+      - （英）订货；（英）申请供应 
   - 例句
     - `our deeply indented coastline`
       - 我们蜿蜒曲折的海岸线

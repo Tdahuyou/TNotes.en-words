@@ -1,6 +1,9 @@
 - flamdoodle
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 吹牛
+    - n.
+      - 吹牛

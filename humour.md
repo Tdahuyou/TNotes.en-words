@@ -1,37 +1,54 @@
 - humour
   - 发音
-    - 英 `/'hjuːmə/`
-    - 美 `/'hju:mə/`
+    - 英
+      - `/'hjuːmə/`
+    - 美
+      - `/'hju:mə/`
   - 词义
-    - n. 幽默；滑稽
-    - `the ability or tendency to think that things are funny, or funny things you say that show you have this ability`
+    - n.
+      - 幽默；滑稽
+        - `the ability or tendency to think that things are funny, or funny things you say that show you have this ability`
   - 记忆
     - “幽默”
   - 同根词
     - adj.
-      - `humorous` 诙谐的，幽默的；滑稽的，可笑的
-      - `humourous` 幽默的，诙谐的；滑稽的
-      - `humorless` 非常严肃的；缺少幽默感的
-      - `humourless` 缺乏幽默感的；一本正经的
+      - `humorous`
+        - 诙谐的，幽默的；滑稽的，可笑的
+      - `humourous`
+        - 幽默的，诙谐的；滑稽的
+      - `humorless`
+        - 非常严肃的；缺少幽默感的
+      - `humourless`
+        - 缺乏幽默感的；一本正经的
     - adv.
-      - `humorlessly` 缺乏幽默感地；一本正经地
-      - `humorously` 幽默地；滑稽地
+      - `humorlessly`
+        - 缺乏幽默感地；一本正经地
+      - `humorously`
+        - 幽默地；滑稽地
     - n.
-      - `humor` 幽默，诙谐；心情
-      - `humorousness` 幽默；滑稽
-      - `humourist` 幽默家；滑稽者
+      - `humor`
+        - 幽默，诙谐；心情
+      - `humorousness`
+        - 幽默；滑稽
+      - `humourist`
+        - 幽默家；滑稽者
     - vt.
-      - `humor` 迎合，迁就；顺应
+      - `humor`
+        - 迎合，迁就；顺应
   - 近义词
-    - n. 幽默（等于humor）；诙谐
-      - `drollness`
-      - `pleasantry`
-    - vt. 迁就；使满足
-      - `content`
-      - `gratify`
+    - n.
+      - 幽默（等于humor）；诙谐
+        - `drollness`
+        - `pleasantry`
+    - vt.
+      - 迁就；使满足
+        - `content`
+        - `gratify`
   - 短语
-    - `sense of humour` 幽默感 
-    - `good humour` 愉快的心情；好脾气 
+    - `sense of humour`
+      - 幽默感 
+    - `good humour`
+      - 愉快的心情；好脾气 
   - 例句
     - `his humour and charm`
       - 他的幽默感和魅力

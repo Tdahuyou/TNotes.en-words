@@ -1,18 +1,22 @@
 - although
   - 发音
-    - 英 `/ɔːl'ðəʊ; ɒl-/`
-    - 美 `/ɔl'ðo/`
+    - 英
+      - `/ɔːl'ðəʊ; ɒl-/`
+    - 美
+      - `/ɔl'ðo/`
   - 词义
-    - conj. 然而；尽管
-    - `used to introduce a statement that makes your main statement seem surprising or unlikely`
+    - conj.
+      - 然而；尽管
+        - `used to introduce a statement that makes your main statement seem surprising or unlikely`
   - 记忆
     - 和though(conj. 尽管)一起记
   - 近义词
-    - conj. 虽然，尽管
-      - `while`
-      - `though`
-      - `as`
-      - `albeit`
+    - conj.
+      - 虽然，尽管
+        - `while`
+        - `though`
+        - `as`
+        - `albeit`
   - 例句
     - `Although in poor health, she continued to carry out her duties.`
       - 尽管身体不好，她仍继续执行任务。

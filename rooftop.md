@@ -1,24 +1,35 @@
 - rooftop
   - 发音
-    - 英 `/undefined/`
-    - 美 `/'rʊf'tɑp/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/'rʊf'tɑp/`
   - 词义
-    - n. 屋顶
-    - `the upper surface of a roof`
-    - adj. 屋顶上的
+    - n.
+      - 屋顶
+        - `the upper surface of a roof`
+    - adj.
+      - 屋顶上的
   - 同根词
     - adj.
-      - `roofing` 屋顶用的
-      - `roofed` 有屋顶的
+      - `roofing`
+        - 屋顶用的
+      - `roofed`
+        - 有屋顶的
     - n.
-      - `roofing` 屋顶；盖屋顶；屋顶盖法
-      - `roofer` 客人对主人道谢的函；盖屋顶的人
+      - `roofing`
+        - 屋顶；盖屋顶；屋顶盖法
+      - `roofer`
+        - 客人对主人道谢的函；盖屋顶的人
     - v.
-      - `roofing` 给…盖上顶；遮蔽（roof的ing形式）
-      - `roofed` 给…覆以屋顶（roof的过去式及过去分词形式）
+      - `roofing`
+        - 给…盖上顶；遮蔽（roof的ing形式）
+      - `roofed`
+        - 给…覆以屋顶（roof的过去式及过去分词形式）
   - 近义词
-    - n. 屋顶
-      - `housetop`
+    - n.
+      - 屋顶
+        - `housetop`
   - 例句
     - `Spectators stood on rooftops to watch the parade.`
       - 观众站在屋顶上观看庆祝游行。

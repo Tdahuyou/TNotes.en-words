@@ -1,12 +1,16 @@
 - mitigant
   - 发音
-    - 英 `/'mɪtəgənt/`
-    - 美 `/undefined/`
+    - 英
+      - `/'mɪtəgənt/`
+    - 美
+      - `/undefined/`
   - 词义
-    - adj. 缓和的，
+    - adj.
+      - 缓和的，
   - 记忆
     - 来自mitigate(v. 使缓和， 使减轻)
   - 近义词
-    - adj. 缓和的；减轻的
-      - `relaxative`
-      - `anetic`
+    - adj.
+      - 缓和的；减轻的
+        - `relaxative`
+        - `anetic`

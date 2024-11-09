@@ -1,10 +1,13 @@
 - laryngitis
   - 发音
-    - 英 `/,lærɪn'dʒaɪtɪs/`
-    - 美 `/'lærɪn'dʒaɪtɪs/`
+    - 英
+      - `/,lærɪn'dʒaɪtɪs/`
+    - 美
+      - `/'lærɪn'dʒaɪtɪs/`
   - 词义
-    - n. [耳鼻喉]喉炎
-    - `an illness which makes talking difficult because your larynx and throat are swollen`
+    - n.
+      - [耳鼻喉]喉炎
+        - `an illness which makes talking difficult because your larynx and throat are swollen`
   - 例句
     - `At the moment, there is no reliable means to confirm reflux of gastric juice in patients with suspected reflux laryngitis .`
       - 现在还没有可靠的方法来证实可疑的返流性喉炎患者中存在胃液返流现象。

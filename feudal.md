@@ -1,31 +1,44 @@
 - feudal
   - 发音
-    - 英 `/'fjuːdl/`
-    - 美 `/'fjudl/`
+    - 英
+      - `/'fjuːdl/`
+    - 美
+      - `/'fjudl/`
   - 词义
-    - adj. 封建的
-    - `relating to feudalism`
+    - adj.
+      - 封建的
+        - `relating to feudalism`
   - 记忆
     - 来自feud(n. 世仇)
   - 同根词
     - adj.
-      - `feudalistic` 封建性的；封建制度的
+      - `feudalistic`
+        - 封建性的；封建制度的
     - adv.
-      - `feudally` 如封建地
+      - `feudally`
+        - 如封建地
     - n.
-      - `feud` 不和；争执；封地
-      - `feudalism` 封建主义；封建制度
+      - `feud`
+        - 不和；争执；封地
+      - `feudalism`
+        - 封建主义；封建制度
     - vi.
-      - `feud` 长期不和；长期争斗
+      - `feud`
+        - 长期不和；长期争斗
     - vt.
-      - `feudalize` 使……形成封建制度；使……封建化
+      - `feudalize`
+        - 使……形成封建制度；使……封建化
   - 近义词
-    - adj. 封建制度的；领地的；世仇的
-      - `feodal`
+    - adj.
+      - 封建制度的；领地的；世仇的
+        - `feodal`
   - 短语
-    - `feudal society` 封建社会 
-    - `feudal system` 封建制度 
-    - `feudal hierarchy` 封建等级制度 
+    - `feudal society`
+      - 封建社会 
+    - `feudal system`
+      - 封建制度 
+    - `feudal hierarchy`
+      - 封建等级制度 
   - 例句
     - `the feudal system`
       - 封建制度

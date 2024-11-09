@@ -1,18 +1,24 @@
 - acrobatics
   - 发音
-    - 英 `/ækrə'bætɪks/`
-    - 美 `/,ækrə'bætɪks/`
+    - 英
+      - `/ækrə'bætɪks/`
+    - 美
+      - `/,ækrə'bætɪks/`
   - 词义
-    - n. 杂技
-    - `skilful movements of your body, for example jumping through the air or balancing on a rope`
+    - n.
+      - 杂技
+        - `skilful movements of your body, for example jumping through the air or balancing on a rope`
   - 同根词
     - adj.
-      - `acrobatic` 杂技的；特技的
+      - `acrobatic`
+        - 杂技的；特技的
     - n.
-      - `acrobat` 杂技演员，特技演员；随机应变者；翻云覆雨者，善变者
+      - `acrobat`
+        - 杂技演员，特技演员；随机应变者；翻云覆雨者，善变者
   - 近义词
-    - n. 杂技；巧妙手法
-      - `knack`
+    - n.
+      - 杂技；巧妙手法
+        - `knack`
   - 例句
     - `Husband: Are they performing acrobatics?`
       - 他们在表演杂技吗？

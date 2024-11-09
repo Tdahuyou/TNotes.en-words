@@ -1,15 +1,20 @@
 - chronically
   - 发音
-    - 英 `/'krɑnɪkli/`
-    - 美 `/'krɑnɪkli/`
+    - 英
+      - `/'krɑnɪkli/`
+    - 美
+      - `/'krɑnɪkli/`
   - 词义
-    - adv. 慢性地；持久地
+    - adv.
+      - 慢性地；持久地
   - 同根词
     - adj.
-      - `chronic` 慢性的；长期的；习惯性的
+      - `chronic`
+        - 慢性的；长期的；习惯性的
   - 近义词
-    - adv. 长期地；慢性地；习惯性地
-      - `long`
+    - adv.
+      - 长期地；慢性地；习惯性地
+        - `long`
   - 例句
     - `a hospital for the chronically ill`
       - 慢性病医院

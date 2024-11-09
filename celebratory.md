@@ -1,16 +1,21 @@
 - celebratory
   - 发音
-    - 英 `/undefined/`
-    - 美 `/'sɛləbrətɔri/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/'sɛləbrətɔri/`
   - 词义
-    - adj. 快乐的
+    - adj.
+      - 快乐的
   - 同根词
     - n.
-      - `celebrator` 庆祝者；祝贺的人
+      - `celebrator`
+        - 庆祝者；祝贺的人
   - 近义词
-    - adj. 快乐的
-      - `festival`
-      - `cheerful`
-      - `enjoyable`
-      - `gay`
-      - `happiest`
+    - adj.
+      - 快乐的
+        - `festival`
+        - `cheerful`
+        - `enjoyable`
+        - `gay`
+        - `happiest`

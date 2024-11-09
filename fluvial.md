@@ -1,12 +1,16 @@
 - fluvial
   - 发音
-    - 英 `/'fluːviəl/`
-    - 美 `/'flʊvɪəl/`
+    - 英
+      - `/'fluːviəl/`
+    - 美
+      - `/'flʊvɪəl/`
   - 词义
-    - adj. 河流的，生长在河中的
-    - `relating to rivers or caused by rivers`
+    - adj.
+      - 河流的，生长在河中的
+        - `relating to rivers or caused by rivers`
   - 记忆
     - fluv(=flu流) + ial → 河流的
   - 近义词
-    - adj. 河流的；生在河中的；河流冲刷形成的
-      - `potamic`
+    - adj.
+      - 河流的；生在河中的；河流冲刷形成的
+        - `potamic`

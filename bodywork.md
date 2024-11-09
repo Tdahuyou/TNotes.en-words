@@ -1,10 +1,13 @@
 - bodywork
   - 发音
-    - 英 `/'bɔdiwəːk/`
-    - 美 `/'bɑdɪwɝk/`
+    - 英
+      - `/'bɔdiwəːk/`
+    - 美
+      - `/'bɑdɪwɝk/`
   - 词义
-    - n. 车身
-    - `the metal frame of a vehicle, not including the engine, wheels etc`
+    - n.
+      - 车身
+        - `the metal frame of a vehicle, not including the engine, wheels etc`
   - 记忆
     - body(车身) + work(操作机件) → 车身
   - 例句

@@ -1,11 +1,15 @@
 - Yale
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 耶鲁
+    - n.
+      - 耶鲁
   - 短语
-    - `yale university` （美）耶鲁大学 
+    - `yale university`
+      - （美）耶鲁大学 
   - 例句
     - `What is the endowment of Yale?`
       - 耶鲁的捐赠基金是什么？

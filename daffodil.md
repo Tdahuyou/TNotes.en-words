@@ -1,11 +1,15 @@
 - daffodil
   - 发音
-    - 英 `/'dæfədɪl/`
-    - 美 `/'dæfədɪl/`
+    - 英
+      - `/'dæfədɪl/`
+    - 美
+      - `/'dæfədɪl/`
   - 词义
-    - n. 水仙花
-    - `a tall yellow spring flower with a tube-shaped part in the middle`
-    - adj. 水仙花色的
+    - n.
+      - 水仙花
+        - `a tall yellow spring flower with a tube-shaped part in the middle`
+    - adj.
+      - 水仙花色的
   - 例句
     - `The lace design incorporated rose, thistle, daffodil and shamrock — the emblems of England, Scotland, Wales and Northern Ireland.`
       - 蕾丝图案上有玫瑰、蓟、水仙花和三叶草（英格兰、苏格兰、威尔士和北爱尔兰的象征）。

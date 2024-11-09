@@ -1,13 +1,17 @@
 - ptarmigan
   - 发音
-    - 英 `/'tɑːmɪg(ə)n/`
-    - 美 `/'tɑrmɪɡən/`
+    - 英
+      - `/'tɑːmɪg(ə)n/`
+    - 美
+      - `/'tɑrmɪɡən/`
   - 词义
-    - n. 松鸡类
-    - `any of several arctic and subarctic grouse of the genus Lagopus, esp L`
+    - n.
+      - 松鸡类
+        - `any of several arctic and subarctic grouse of the genus Lagopus, esp L`
   - 近义词
-    - n. [鸟]雷鸟；松鸡类
-      - `thunderbird`
+    - n.
+      - [鸟]雷鸟；松鸡类
+        - `thunderbird`
   - 例句
     - `It was a fearful cry, but the fox, leaping away in fright, did not drop the ptarmigan.`
       - 这是一种可怕的喊声，那只狐狸吓跑了，可是没有丢下松鸡。

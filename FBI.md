@@ -1,9 +1,11 @@
 - FBI
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - `The FBI is a government agency in the United States that investigates crimes in which a national law is broken or in which the country's security is threatened`
+        - `The FBI is a government agency in the United States that investigates crimes in which a national law is broken or in which the country's security is threatened`
   - 例句
     - `I hate being stood over by the FBI.`
       - 我可讨厌受到联邦调查局的监视。

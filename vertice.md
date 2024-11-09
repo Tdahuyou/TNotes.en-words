@@ -1,13 +1,17 @@
 - vertice
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 顶点
+    - n.
+      - 顶点
   - 近义词
-    - n. 顶点
-      - `summit`
-      - `height`
-      - `sky`
-      - `peak`
-      - `apex`
+    - n.
+      - 顶点
+        - `summit`
+        - `height`
+        - `sky`
+        - `peak`
+        - `apex`

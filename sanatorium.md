@@ -1,14 +1,18 @@
 - sanatorium
   - 发音
-    - 英 `/undefined/`
-    - 美 `/,sænə'tɔrɪəm/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/,sænə'tɔrɪəm/`
   - 词义
-    - n. 疗养院；休养地
-    - `a type of hospital for sick people who are getting better after a long illness but still need rest and a lot of care`
+    - n.
+      - 疗养院；休养地
+        - `a type of hospital for sick people who are getting better after a long illness but still need rest and a lot of care`
   - 近义词
-    - n. 疗养院；休养地
-      - `sanitarium`
-      - `rest home`
+    - n.
+      - 疗养院；休养地
+        - `sanitarium`
+        - `rest home`
   - 例句
     - `The sanatorium stood on a large plot of land by the coast.`
       - 疗养院坐落在海岸的一片宽阔的土地上。

@@ -1,25 +1,35 @@
 - reciprocal
   - 发音
-    - 英 `/rɪ'sɪprəkl/`
-    - 美 `/rɪ'sɪprəkl/`
+    - 英
+      - `/rɪ'sɪprəkl/`
+    - 美
+      - `/rɪ'sɪprəkl/`
   - 词义
-    - adj. 相互的；互惠的；相应的；
-    - `a reciprocal arrangement or relationship is one in which two people or groups do or give the same things to each other`
+    - adj.
+      - 相互的；互惠的；相应的；
+        - `a reciprocal arrangement or relationship is one in which two people or groups do or give the same things to each other`
   - 记忆
     - re(向后) + ci + pro(向前) + cal → 一前一后的 → 相互的； 互惠的
   - 同根词
     - adv.
-      - `reciprocally` 相互地；相反地；互惠地
+      - `reciprocally`
+        - 相互地；相反地；互惠地
   - 近义词
-    - adj. [贸易]互惠的；相互的；[数]倒数的，彼此相反的
-      - `mutual`
-      - `au pair`
+    - adj.
+      - [贸易]互惠的；相互的；[数]倒数的，彼此相反的
+        - `mutual`
+        - `au pair`
   - 短语
-    - `reciprocal relation` 互反关系 
-    - `reciprocal transformation` 相互转化；反向变换；倒数转换 
-    - `reciprocal relationship` 互反关系 
-    - `reciprocal cross` 正反交；互交 
-    - `reciprocal action` 互相酌；相互酌；交互作用 
+    - `reciprocal relation`
+      - 互反关系 
+    - `reciprocal transformation`
+      - 相互转化；反向变换；倒数转换 
+    - `reciprocal relationship`
+      - 互反关系 
+    - `reciprocal cross`
+      - 正反交；互交 
+    - `reciprocal action`
+      - 互相酌；相互酌；交互作用 
   - 例句
     - `He spoke of the necessity for a reciprocal relationship that would be useful for all sides.`
       - 他谈及需要建立对各方都有益的互惠关系。

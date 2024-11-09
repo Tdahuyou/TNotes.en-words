@@ -1,17 +1,21 @@
 - whereas
   - 发音
-    - 英 `/weər'æz/`
-    - 美 `/'wɛr'æz/`
+    - 英
+      - `/weər'æz/`
+    - 美
+      - `/'wɛr'æz/`
   - 词义
-    - conj. 然而,反之,尽管
-    - `used to say that although something is true of one thing, it is not true of another`
+    - conj.
+      - 然而,反之,尽管
+        - `used to say that although something is true of one thing, it is not true of another`
   - 近义词
-    - conj. 然而；鉴于；反之
-      - `however`
-      - `while`
-      - `nevertheless`
-      - `but`
-      - `yet`
+    - conj.
+      - 然而；鉴于；反之
+        - `however`
+        - `while`
+        - `nevertheless`
+        - `but`
+        - `yet`
   - 例句
     - `The old system was fairly complicated whereas the new system is really very simple.`
       - 旧系统相当复杂，而新系统却很简单。

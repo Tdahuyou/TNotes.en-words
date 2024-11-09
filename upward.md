@@ -1,40 +1,59 @@
 - upward
   - 发音
-    - 英 `/'ʌpwəd/`
-    - 美 `/'ʌpwɚd/`
+    - 英
+      - `/'ʌpwəd/`
+    - 美
+      - `/'ʌpwɚd/`
   - 词义
-    - adj. 向上的
-    - `increasing to a higher level`
-    - adv. 以上
-    - `If someone moves or looks upward, they move or look up towards a higher place`
+    - adj.
+      - 向上的
+        - `increasing to a higher level`
+    - adv.
+      - 以上
+        - `If someone moves or looks upward, they move or look up towards a higher place`
   - 同根词
     - adj.
-      - `up` 涨的；起床的；向上的
+      - `up`
+        - 涨的；起床的；向上的
     - adv.
-      - `up` 起来；上涨；向上
-      - `upwards` 向上；在上部；向上游
-      - `upwardly` 向上地；在上面地
+      - `up`
+        - 起来；上涨；向上
+      - `upwards`
+        - 向上；在上部；向上游
+      - `upwardly`
+        - 向上地；在上面地
     - n.
-      - `up` 上升；繁荣
+      - `up`
+        - 上升；繁荣
     - prep.
-      - `up` 在…之上；向…的较高处
+      - `up`
+        - 在…之上；向…的较高处
   - 近义词
-    - adj. 向上的；上升的
-      - `upgrade`
-      - `rising`
-      - `up`
-      - `climbing`
-    - adv. 向上
-      - `up`
-      - `zenithward`
+    - adj.
+      - 向上的；上升的
+        - `upgrade`
+        - `rising`
+        - `up`
+        - `climbing`
+    - adv.
+      - 向上
+        - `up`
+        - `zenithward`
   - 短语
-    - `upward pressure` 上压力；向上压力；反向压力 
-    - `upward tendency` 上涨的趋势；看涨 
-    - `upward mobility` 上进心；向上倾向 
-    - `upward flow` 上向流 
-    - `move upward` 上升；上进 
-    - `upward movement` 上升运动，向上运动 
-    - `upward thrust` 向上打腿 
+    - `upward pressure`
+      - 上压力；向上压力；反向压力 
+    - `upward tendency`
+      - 上涨的趋势；看涨 
+    - `upward mobility`
+      - 上进心；向上倾向 
+    - `upward flow`
+      - 上向流 
+    - `move upward`
+      - 上升；上进 
+    - `upward movement`
+      - 上升运动，向上运动 
+    - `upward thrust`
+      - 向上打腿 
   - 例句
     - `upward pressure on bank interest rates`
       - 针对银行利率的越来越大的压力

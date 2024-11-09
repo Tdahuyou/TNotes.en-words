@@ -1,25 +1,36 @@
 - scenic
   - 发音
-    - 英 `/'siːnɪk/`
-    - 美 `/ˈsinɪk/`
+    - 英
+      - `/'siːnɪk/`
+    - 美
+      - `/ˈsinɪk/`
   - 词义
-    - adj. 舞台的,景色优美的
-    - `surrounded by views of beautiful countryside`
-    - n. 风景照片
+    - adj.
+      - 舞台的,景色优美的
+        - `surrounded by views of beautiful countryside`
+    - n.
+      - 风景照片
   - 同根词
     - adv.
-      - `scenically` 布景地；风景优美地
+      - `scenically`
+        - 布景地；风景优美地
     - n.
-      - `scenery` 风景；景色；舞台布景
+      - `scenery`
+        - 风景；景色；舞台布景
   - 近义词
-    - adj. 风景优美的；舞台的；戏剧的
-      - `dramatic`
-      - `theatrical`
+    - adj.
+      - 风景优美的；舞台的；戏剧的
+        - `dramatic`
+        - `theatrical`
   - 短语
-    - `scenic spot` 风景区；景点 
-    - `famous scenic spot` 胜地 
-    - `scenic beauty` 美丽的风景 
-    - `scenic resort` 风景区；旅游胜地 
+    - `scenic spot`
+      - 风景区；景点 
+    - `famous scenic spot`
+      - 胜地 
+    - `scenic beauty`
+      - 美丽的风景 
+    - `scenic resort`
+      - 风景区；旅游胜地 
   - 例句
     - `a region of scenic beauty`
       - 景色优美的地区

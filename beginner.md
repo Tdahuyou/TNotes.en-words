@@ -1,24 +1,32 @@
 - beginner
   - 发音
-    - 英 `/bɪ'gɪnə/`
-    - 美 `/bɪ'gɪnɚ/`
+    - 英
+      - `/bɪ'gɪnə/`
+    - 美
+      - `/bɪ'gɪnɚ/`
   - 词义
-    - n. 初学者；新手；创始人
-    - `someone who has just started to do or learn something`
+    - n.
+      - 初学者；新手；创始人
+        - `someone who has just started to do or learn something`
   - 同根词
     - n.
-      - `beginning` 开始；起点
+      - `beginning`
+        - 开始；起点
     - v.
-      - `beginning` 开始；创建（begin的ing形式）
+      - `beginning`
+        - 开始；创建（begin的ing形式）
     - vi.
-      - `begin` 开始；首先
+      - `begin`
+        - 开始；首先
     - vt.
-      - `begin` 开始
+      - `begin`
+        - 开始
   - 近义词
-    - n. 初学者；新手；创始人
-      - `author`
-      - `learner`
-      - `novice`
+    - n.
+      - 初学者；新手；创始人
+        - `author`
+        - `learner`
+        - `novice`
   - 例句
     - `an absolute beginner`
       - 不折不扣的初学者

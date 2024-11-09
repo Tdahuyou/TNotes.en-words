@@ -1,15 +1,20 @@
 - zoologist
   - 发音
-    - 英 `/zəʊ'ɒlədʒɪst/`
-    - 美 `/zo'ɑlədʒɪst/`
+    - 英
+      - `/zəʊ'ɒlədʒɪst/`
+    - 美
+      - `/zo'ɑlədʒɪst/`
   - 词义
-    - n. 动物学家
-    - `a scientist who studies animals and their behaviour`
+    - n.
+      - 动物学家
+        - `a scientist who studies animals and their behaviour`
   - 同根词
     - adj.
-      - `zoological` 动物学的；关于动物的
+      - `zoological`
+        - 动物学的；关于动物的
     - n.
-      - `zoology` 动物学；动物区系
+      - `zoology`
+        - 动物学；动物区系
   - 例句
     - `“This is a classic example of freak events coinciding,” noted Peter Boeckmann, a leading Norwegian zoologist. “In the United States, the reaction is: 'Oh no, doomsday is coming!`
       - “这是一个典型的同时发生的反常事件，”挪威重要动物学家彼德.伯格曼解释说，“在美国，这原因是'哦，不，末日来了！'

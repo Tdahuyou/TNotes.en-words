@@ -1,47 +1,78 @@
 - metallic
   - 发音
-    - 英 `/mə'tælɪk/`
-    - 美 `/mə'tælɪk/`
+    - 英
+      - `/mə'tælɪk/`
+    - 美
+      - `/mə'tælɪk/`
   - 词义
-    - adj. 金属般的；金属制的；含金属的
-    - `a metallic noise sounds like pieces of metal hitting each other`
+    - adj.
+      - 金属般的；金属制的；含金属的
+        - `a metallic noise sounds like pieces of metal hitting each other`
   - 记忆
     - 来自metal(n. 金属)
   - 同根词
     - adj.
-      - `metal` 金属制的
-      - `metalloid` 非金属的；类似金属性的；准金属的
-      - `metalworking` 金属制造的
+      - `metal`
+        - 金属制的
+      - `metalloid`
+        - 非金属的；类似金属性的；准金属的
+      - `metalworking`
+        - 金属制造的
     - n.
-      - `metal` 金属；合金
-      - `metalloid` 非金属；[材] 类金属；准金属
-      - `metalwork` 金属制品；金属加工
-      - `metalware` 金属器皿
-      - `metalworker` 金属工人；制金属品工人
-      - `metalworking` 金属加工术；金属制造
+      - `metal`
+        - 金属；合金
+      - `metalloid`
+        - 非金属；[材] 类金属；准金属
+      - `metalwork`
+        - 金属制品；金属加工
+      - `metalware`
+        - 金属器皿
+      - `metalworker`
+        - 金属工人；制金属品工人
+      - `metalworking`
+        - 金属加工术；金属制造
     - vt.
-      - `metal` 以金属覆盖
-      - `metalwork` 金属加工
-      - `metallize` 用金属处理；使金属化
+      - `metal`
+        - 以金属覆盖
+      - `metalwork`
+        - 金属加工
+      - `metallize`
+        - 用金属处理；使金属化
   - 近义词
-    - adj. 金属的，含金属的
-      - `metal bearing`
+    - adj.
+      - 金属的，含金属的
+        - `metal bearing`
   - 短语
-    - `metallic element` [化]金属元素 
-    - `metallic material` [化]金属材料 
-    - `metallic luster` 金属光泽；金属闪光料 
-    - `metallic glass` 金属玻璃，玻璃合金 
-    - `metallic coating` [化]金属喷涂 
-    - `metallic paint` 金属漆，金属油漆；金属涂料 
-    - `metallic ion` 金属离子 
-    - `metallic oxide` 金属氧化物 
-    - `metallic yarn` 金银线；金属纱；金银丝 
-    - `metallic phase` 金相；金属相 
-    - `metallic iron` n. 金属铁；精炼铁 
-    - `metallic bonding` 金属键；金属结合剂 
-    - `metallic matrix` 金属基体 
-    - `metallic soap` 金属皂 
-    - `metallic copper` 金属铜 
+    - `metallic element`
+      - [化]金属元素 
+    - `metallic material`
+      - [化]金属材料 
+    - `metallic luster`
+      - 金属光泽；金属闪光料 
+    - `metallic glass`
+      - 金属玻璃，玻璃合金 
+    - `metallic coating`
+      - [化]金属喷涂 
+    - `metallic paint`
+      - 金属漆，金属油漆；金属涂料 
+    - `metallic ion`
+      - 金属离子 
+    - `metallic oxide`
+      - 金属氧化物 
+    - `metallic yarn`
+      - 金银线；金属纱；金银丝 
+    - `metallic phase`
+      - 金相；金属相 
+    - `metallic iron`
+      - n. 金属铁；精炼铁 
+    - `metallic bonding`
+      - 金属键；金属结合剂 
+    - `metallic matrix`
+      - 金属基体 
+    - `metallic soap`
+      - 金属皂 
+    - `metallic copper`
+      - 金属铜 
   - 例句
     - `The key turned in the lock with a loud metallic click.`
       - 钥匙在锁里转动发出金属撞击的咔嗒声。

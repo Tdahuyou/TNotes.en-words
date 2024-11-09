@@ -1,39 +1,63 @@
 - idea
   - 发音
-    - 英 `/aɪ'dɪə/`
-    - 美 `/aɪ'diə/`
+    - 英
+      - `/aɪ'dɪə/`
+    - 美
+      - `/aɪ'diə/`
   - 词义
-    - n. 想法，主意
-    - `a plan or suggestion for a possible course of action, especially one that you think of suddenly`
+    - n.
+      - 想法，主意
+        - `a plan or suggestion for a possible course of action, especially one that you think of suddenly`
   - 记忆
     - 理想化的(ideal)想法(idea)
   - 近义词
-    - n. 想法；主意；概念
-      - `concept`
-      - `notion`
-      - `construct`
-      - `think`
+    - n.
+      - 想法；主意；概念
+        - `concept`
+        - `notion`
+        - `construct`
+        - `think`
   - 短语
-    - `good idea` 好主意，好想法；妙计 
-    - `new idea` 新思想；新想法 
-    - `have no idea` 不知道；不清楚 
-    - `no idea` 不知道 
-    - `design idea` 设计理念 
-    - `main idea` 主要意思，主旨 
-    - `general idea` 大意，梗概 
-    - `any idea` 任何想法 
-    - `original idea` 最初构想，本意 
-    - `have no idea of` 完全不知道 
-    - `central idea` 中心思想 
-    - `big idea` [口]好主意 
-    - `major idea` 主旨 
-    - `bright idea` 好点子，聪明的主意 
-    - `abstract idea` 抽象观念 
-    - `give an idea of` 表现，反映；使（某人）明白 
-    - `fixed idea` 固执的想法，固定的观念 
-    - `idea generation` 构思产生 
-    - `collective idea` 集体观念 
-    - `capital idea` 好主意；主要想法 
+    - `good idea`
+      - 好主意，好想法；妙计 
+    - `new idea`
+      - 新思想；新想法 
+    - `have no idea`
+      - 不知道；不清楚 
+    - `no idea`
+      - 不知道 
+    - `design idea`
+      - 设计理念 
+    - `main idea`
+      - 主要意思，主旨 
+    - `general idea`
+      - 大意，梗概 
+    - `any idea`
+      - 任何想法 
+    - `original idea`
+      - 最初构想，本意 
+    - `have no idea of`
+      - 完全不知道 
+    - `central idea`
+      - 中心思想 
+    - `big idea`
+      - [口]好主意 
+    - `major idea`
+      - 主旨 
+    - `bright idea`
+      - 好点子，聪明的主意 
+    - `abstract idea`
+      - 抽象观念 
+    - `give an idea of`
+      - 表现，反映；使（某人）明白 
+    - `fixed idea`
+      - 固执的想法，固定的观念 
+    - `idea generation`
+      - 构思产生 
+    - `collective idea`
+      - 集体观念 
+    - `capital idea`
+      - 好主意；主要想法 
   - 例句
     - `You should talk to Ken – he's always full of good ideas.`
       - 你应该和肯谈谈，他总是满脑子好主意。

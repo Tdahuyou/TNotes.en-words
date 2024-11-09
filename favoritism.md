@@ -1,19 +1,26 @@
 - favoritism
   - 发音
-    - 英 `/'feivəritizəm/`
-    - 美 `/'fevərɪt,ɪzəm/`
+    - 英
+      - `/'feivəritizəm/`
+    - 美
+      - `/'fevərɪt,ɪzəm/`
   - 词义
-    - n. 偏袒；得宠
+    - n.
+      - 偏袒；得宠
   - 同根词
     - adj.
-      - `favorite` 最喜爱的；中意的；宠爱的
+      - `favorite`
+        - 最喜爱的；中意的；宠爱的
     - n.
-      - `favorite` 幸运儿；喜欢的事物；特别喜欢的人
-      - `favouritism` 徇私；偏爱；得宠
+      - `favorite`
+        - 幸运儿；喜欢的事物；特别喜欢的人
+      - `favouritism`
+        - 徇私；偏爱；得宠
   - 近义词
-    - n. 偏袒；得宠
-      - `partial to`
-      - `partiality`
+    - n.
+      - 偏袒；得宠
+        - `partial to`
+        - `partiality`
   - 例句
     - `Every office has its share of favoritism, inefficiency and dumb decisions.`
       - 每个公司都有他的偏袒、无效率和愚蠢的决定。

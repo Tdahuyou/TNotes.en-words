@@ -1,26 +1,34 @@
 - dub
   - 发音
-    - 英 `/dʌb/`
-    - 美 `/dʌb/`
+    - 英
+      - `/dʌb/`
+    - 美
+      - `/dʌb/`
   - 词义
-    - v. 配音；轻点；打击；授予称号
-    - `to change the original spoken language of a film or television programme into another language`
-    - n. 笨蛋；鼓声
+    - v.
+      - 配音；轻点；打击；授予称号
+        - `to change the original spoken language of a film or television programme into another language`
+    - n.
+      - 笨蛋；鼓声
   - 同根词
     - n.
-      - `dubbing` 配音；译制；皮革保护油；爵士的授予
+      - `dubbing`
+        - 配音；译制；皮革保护油；爵士的授予
     - v.
-      - `dubbing` 配音；译制；给皮革加脂或上油；双人乘骑；授予爵士封号（dub的ing形式）
+      - `dubbing`
+        - 配音；译制；给皮革加脂或上油；双人乘骑；授予爵士封号（dub的ing形式）
   - 近义词
-    - vt. [电影]配音；轻点；打击；授予称号
-      - `dong`
-      - `have at`
-    - n. 笨蛋；鼓声
-      - `simple`
-      - `turkey`
-      - `put`
-      - `idiot`
-      - `stupid`
+    - vt.
+      - [电影]配音；轻点；打击；授予称号
+        - `dong`
+        - `have at`
+    - n.
+      - 笨蛋；鼓声
+        - `simple`
+        - `turkey`
+        - `put`
+        - `idiot`
+        - `stupid`
   - 例句
     - `It was dubbed into Spanish for Mexican audiences.`
       - 它已为墨西哥观众配成西班牙语了。

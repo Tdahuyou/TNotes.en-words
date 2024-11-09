@@ -1,9 +1,12 @@
 - Rome
   - 发音
-    - 英 `/rəum/`
-    - 美 `/rəum/`
+    - 英
+      - `/rəum/`
+    - 美
+      - `/rəum/`
   - 词义
-    - n. 罗马
+    - n.
+      - 罗马
   - 例句
     - `He passed one night in Rome.`
       - 他在罗马过了一夜。

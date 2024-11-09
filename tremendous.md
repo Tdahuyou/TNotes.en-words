@@ -1,22 +1,27 @@
 - tremendous
   - 发音
-    - 英 `/trə'mendəs/`
-    - 美 `/trə'mɛndəs/`
+    - 英
+      - `/trə'mendəs/`
+    - 美
+      - `/trə'mɛndəs/`
   - 词义
-    - adj. 惊人的；巨大的
-    - `very big, fast, powerful etc`
+    - adj.
+      - 惊人的；巨大的
+        - `very big, fast, powerful etc`
   - 记忆
     - trem(发抖) + end + ous(多…的) → 多得让人发抖的 → 惊人的
   - 同根词
     - adv.
-      - `tremendously` 非常地；可怕地；惊人地
+      - `tremendously`
+        - 非常地；可怕地；惊人地
   - 近义词
-    - adj. 极大的，巨大的；惊人的
-      - `huge`
-      - `enormous`
-      - `massive`
-      - `macro`
-      - `vast`
+    - adj.
+      - 极大的，巨大的；惊人的
+        - `huge`
+        - `enormous`
+        - `massive`
+        - `macro`
+        - `vast`
   - 例句
     - `Suddenly, there was a tremendous bang, and the whole station shook.`
       - 突然一声巨响，整个车站都晃动了。

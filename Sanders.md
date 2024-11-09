@@ -1,13 +1,17 @@
 - Sanders
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 桑德斯（姓）
+    - n.
+      - 桑德斯（姓）
   - 近义词
-    - n. 檀香；砂纸
-      - `santal`
-      - `abrasive paper`
+    - n.
+      - 檀香；砂纸
+        - `santal`
+        - `abrasive paper`
   - 例句
     - `Judge Sanders: Get out of the chair!`
       - 法官桑德斯：离开这把椅子！

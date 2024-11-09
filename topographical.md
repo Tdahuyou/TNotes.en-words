@@ -1,24 +1,34 @@
 - topographical
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - adj. 地志的,地形学的
-    - `A topographical survey or map relates to or shows the physical features of an area of land, for example, its hills, valleys, and rivers`
+    - adj.
+      - 地志的,地形学的
+        - `A topographical survey or map relates to or shows the physical features of an area of land, for example, its hills, valleys, and rivers`
   - 同根词
     - adj.
-      - `topographic` 地形测量的；地志的；地形学上的
+      - `topographic`
+        - 地形测量的；地志的；地形学上的
     - adv.
-      - `topographically` 从地形上；在地形构造方面
+      - `topographically`
+        - 从地形上；在地形构造方面
     - n.
-      - `topology` 拓扑学；地志学；局部解剖学
-      - `topography` 地势；地形学；地志
+      - `topology`
+        - 拓扑学；地志学；局部解剖学
+      - `topography`
+        - 地势；地形学；地志
   - 近义词
-    - adj. 地志的；地形学的（等于topographic）
-      - `physiographic`
+    - adj.
+      - 地志的；地形学的（等于topographic）
+        - `physiographic`
   - 短语
-    - `topographical features` 地貌 
-    - `topographical map` 地形图 
+    - `topographical features`
+      - 地貌 
+    - `topographical map`
+      - 地形图 
   - 例句
     - `This is a suburb with very narrow streets, because it was not mapped out by the municipal topographical office.`
       - 这个郊区地区的街道非常狭窄，因为没有经过市政地形办公室的规划。

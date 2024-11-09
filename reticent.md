@@ -1,22 +1,28 @@
 - reticent
   - 发音
-    - 英 `/'retisənt/`
-    - 美 `/'rɛtɪsnt/`
+    - 英
+      - `/'retisənt/`
+    - 美
+      - `/'rɛtɪsnt/`
   - 词义
-    - adj. 沉默寡言的
-    - `unwilling to talk about what you feel or what you know`
+    - adj.
+      - 沉默寡言的
+        - `unwilling to talk about what you feel or what you know`
   - 记忆
     - re (重新) + tic ( = silent， 安静) + ent → 重新安静 → 沉默寡言的
   - 同根词
     - adv.
-      - `reticently` 沉默地，沉默寡言地
+      - `reticently`
+        - 沉默地，沉默寡言地
     - n.
-      - `reticence` 沉默寡言
+      - `reticence`
+        - 沉默寡言
   - 近义词
-    - adj. 沉默的；有保留的；谨慎的
-      - `silent`
-      - `cautious`
-      - `mum`
+    - adj.
+      - 沉默的；有保留的；谨慎的
+        - `silent`
+        - `cautious`
+        - `mum`
   - 例句
     - `She is so reticent about her achievements.`
       - 她对于自己的成就如此缄默。

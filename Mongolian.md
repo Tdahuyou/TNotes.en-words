@@ -1,15 +1,20 @@
 - Mongolian
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 蒙古人；蒙古语
-    - `A Mongolian is a Mongolian citizen, or a person of Mongolian origin`
-    - adj. 蒙古人的；蒙古语的
-    - `Mongolian means belonging or relating to Mongolia, or to its people, language, or culture`
+    - n.
+      - 蒙古人；蒙古语
+        - `A Mongolian is a Mongolian citizen, or a person of Mongolian origin`
+    - adj.
+      - 蒙古人的；蒙古语的
+        - `Mongolian means belonging or relating to Mongolia, or to its people, language, or culture`
   - 同根词
     - n.
-      - `mongol` 先天愚型病患者
+      - `mongol`
+        - 先天愚型病患者
   - 例句
     - `Of the 19 mummies examined, only three are Mongolian.`
       - 检验的19个干尸中，只有三个是蒙古人。

@@ -1,27 +1,38 @@
 - kernel
   - 发音
-    - 英 `/'kɜːrnl/`
-    - 美 `/'kɝnl/`
+    - 英
+      - `/'kɜːrnl/`
+    - 美
+      - `/'kɝnl/`
   - 词义
-    - n. 仁；粒；核心，要点
-    - `the part of a nut or seed inside the shell, or the part inside the stone of some fruits`
+    - n.
+      - 仁；粒；核心，要点
+        - `the part of a nut or seed inside the shell, or the part inside the stone of some fruits`
   - 记忆
     - kern(=corn谷粒) + el → 仁； 粒
   - 近义词
-    - n. 核心，要点；[计]内核；[植]仁；[粮食]麦粒，谷粒；精髓
-      - `quick`
-      - `main`
-      - `heart`
-      - `essential`
-      - `nucleus`
+    - n.
+      - 核心，要点；[计]内核；[植]仁；[粮食]麦粒，谷粒；精髓
+        - `quick`
+        - `main`
+        - `heart`
+        - `essential`
+        - `nucleus`
   - 短语
-    - `kernel function` [数]核函数 
-    - `walnut kernel` 核桃仁 
-    - `kernel mode` [计]核心态 
-    - `apricot kernel` 杏仁；杏核油 
-    - `palm kernel` 棕榈仁；棕仁 
-    - `palm kernel oil` 棕榈仁油；棕榈坚果油 
-    - `apricot kernel oil` 杏仁油 
+    - `kernel function`
+      - [数]核函数 
+    - `walnut kernel`
+      - 核桃仁 
+    - `kernel mode`
+      - [计]核心态 
+    - `apricot kernel`
+      - 杏仁；杏核油 
+    - `palm kernel`
+      - 棕榈仁；棕仁 
+    - `palm kernel oil`
+      - 棕榈仁油；棕榈坚果油 
+    - `apricot kernel oil`
+      - 杏仁油 
   - 例句
     - `The kernel of that message was that peace must not be a source of advantage or disadvantage for anyone.`
       - 那一信息的核心是和平绝不应该成为对任何人有利或不利的根源。

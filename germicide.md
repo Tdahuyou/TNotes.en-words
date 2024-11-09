@@ -1,19 +1,24 @@
 - germicide
   - 发音
-    - 英 `/'dʒɜːrmɪsaɪd/`
-    - 美 `/undefined/`
+    - 英
+      - `/'dʒɜːrmɪsaɪd/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 杀菌剂
-    - `any substance that kills germs or other microorganisms `
+    - n.
+      - 杀菌剂
+        - `any substance that kills germs or other microorganisms `
   - 记忆
     - germ(细菌) + i + cid(切) + e → 杀菌剂
   - 同根词
     - adj.
-      - `germicidal` 杀菌的；有杀菌力的
+      - `germicidal`
+        - 杀菌的；有杀菌力的
   - 近义词
-    - n. [药]杀菌剂，杀菌物
-      - `bactericide`
-      - `sterilant`
+    - n.
+      - [药]杀菌剂，杀菌物
+        - `bactericide`
+        - `sterilant`
   - 例句
     - `Then, the whole spectacle gets even worse when you have to knead germicide into the contents.`
       - 然后更糟糕的事是你必须自己动手把杀菌剂均匀的揉进那些东西中。

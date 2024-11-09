@@ -1,26 +1,35 @@
 - categorize
   - 发音
-    - 英 `/'kætəgəraɪz/`
-    - 美 `/'kætəgə'raɪz/`
+    - 英
+      - `/'kætəgəraɪz/`
+    - 美
+      - `/'kætəgə'raɪz/`
   - 词义
-    - vt. 将…分类，把…加以分类
-    - `to put people or things into groups according to the type of person or thing they are`
+    - vt.
+      - 将…分类，把…加以分类
+        - `to put people or things into groups according to the type of person or thing they are`
   - 记忆
     - 来自category(n. 种类)
   - 同根词
     - adj.
-      - `categorized` 分类的
+      - `categorized`
+        - 分类的
     - n.
-      - `category` 种类，分类；[数] 范畴
-      - `categorization` 分类；分门别类；编目方法
+      - `category`
+        - 种类，分类；[数] 范畴
+      - `categorization`
+        - 分类；分门别类；编目方法
     - v.
-      - `categorized` 分类（categorize的过去式）
+      - `categorized`
+        - 分类（categorize的过去式）
     - vt.
-      - `categorise` 分类；加以类别
+      - `categorise`
+        - 分类；加以类别
   - 近义词
-    - vt. 分类
-      - `class`
-      - `sort through`
+    - vt.
+      - 分类
+        - `class`
+        - `sort through`
   - 例句
     - `The population is categorized according to age, sex, and social group.`
       - 人口根据年龄、性别和社会群体进行了分类。

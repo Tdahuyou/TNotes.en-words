@@ -1,38 +1,60 @@
 - useable
   - 发音
-    - 英 `/'juːzəbl/`
-    - 美 `/'ju:zəbl/`
+    - 英
+      - `/'juːzəbl/`
+    - 美
+      - `/'ju:zəbl/`
   - 词义
-    - adj. 可用的,有效的
+    - adj.
+      - 可用的,有效的
   - 同根词
     - adj.
-      - `usable` 可用的；合用的（等于useable）
-      - `useful` 有用的，有益的；有帮助的
-      - `used` 习惯的；二手的，使用过的
-      - `useless` 无用的；无效的
-    - adv.
-      - `usefully` 有效地，有用地
-      - `uselessly` 无用地；无益地
-    - n.
-      - `usage` 使用；用法；惯例
-      - `use` 使用；用途；发挥
-      - `using` 使用；利用
-      - `user` 用户；使用者
-      - `usefulness` 有用；有效性；有益
-      - `usability` 合用，可用；可用性
-      - `usableness` 可用；使用方便
-      - `uselessness` 无用，无效
-    - v.
-      - `used` 用；习惯（use的过去式）
-      - `using` 使用（use的ing形式）
-    - vi.
-      - `use` 使用，运用
-    - vt.
-      - `use` 利用；耗费
-  - 近义词
-    - adj. 可用的；便于使用的（等于usable）
-      - `practicable`
       - `usable`
+        - 可用的；合用的（等于useable）
+      - `useful`
+        - 有用的，有益的；有帮助的
+      - `used`
+        - 习惯的；二手的，使用过的
+      - `useless`
+        - 无用的；无效的
+    - adv.
+      - `usefully`
+        - 有效地，有用地
+      - `uselessly`
+        - 无用地；无益地
+    - n.
+      - `usage`
+        - 使用；用法；惯例
+      - `use`
+        - 使用；用途；发挥
+      - `using`
+        - 使用；利用
+      - `user`
+        - 用户；使用者
+      - `usefulness`
+        - 有用；有效性；有益
+      - `usability`
+        - 合用，可用；可用性
+      - `usableness`
+        - 可用；使用方便
+      - `uselessness`
+        - 无用，无效
+    - v.
+      - `used`
+        - 用；习惯（use的过去式）
+      - `using`
+        - 使用（use的ing形式）
+    - vi.
+      - `use`
+        - 使用，运用
+    - vt.
+      - `use`
+        - 利用；耗费
+  - 近义词
+    - adj.
+      - 可用的；便于使用的（等于usable）
+        - `practicable`
+        - `usable`
   - 例句
     - `But they can produce useable optical and infrared data.`
       - 但是它们可以提供可用的光学和红外数据。

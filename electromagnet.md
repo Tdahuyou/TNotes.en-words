@@ -1,19 +1,26 @@
 - electromagnet
   - 发音
-    - 英 `/iˌlektrəu'mægnit/`
-    - 美 `/ɪ'lɛktromæɡnət/`
+    - 英
+      - `/iˌlektrəu'mægnit/`
+    - 美
+      - `/ɪ'lɛktromæɡnət/`
   - 词义
-    - n. 电磁体
-    - `a piece of metal that becomes magnetic(= able to attract metal objects ) when an electric current is turned on`
+    - n.
+      - 电磁体
+        - `a piece of metal that becomes magnetic(= able to attract metal objects ) when an electric current is turned on`
   - 同根词
     - adj.
-      - `electromagnetic` 电磁的
+      - `electromagnetic`
+        - 电磁的
     - n.
-      - `electromagnetism` 电磁；电磁学
-      - `electromagnetics` [电磁] 电磁学
+      - `electromagnetism`
+        - 电磁；电磁学
+      - `electromagnetics`
+        - [电磁] 电磁学
   - 近义词
-    - n. [电]电磁体，电磁铁；电磁石
-      - `magnetic plug`
+    - n.
+      - [电]电磁体，电磁铁；电磁石
+        - `magnetic plug`
   - 例句
     - `Lifting electromagnet is a kind of lifting gear.`
       - 起重电磁铁是起重工具的一种。

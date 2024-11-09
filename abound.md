@@ -1,24 +1,32 @@
 - abound
   - 发音
-    - 英 `/ə'baund/`
-    - 美 `/ə'baʊnd/`
+    - 英
+      - `/ə'baund/`
+    - 美
+      - `/ə'baʊnd/`
   - 词义
-    - vi. 富于；大量存在；充满
-    - `to exist in very large numbers`
+    - vi.
+      - 富于；大量存在；充满
+        - `to exist in very large numbers`
   - 记忆
     - a + bound(边界) → 没有边界 → 大量存在； 充满
   - 同根词
     - adj.
-      - `abounding` 丰富的；大量的
+      - `abounding`
+        - 丰富的；大量的
     - v.
-      - `abounding` 大量存在；盛产（abound的ing形式）
+      - `abounding`
+        - 大量存在；盛产（abound的ing形式）
   - 近义词
-    - vi. 富于；充满
-      - `teem with`
-      - `be imbued with`
+    - vi.
+      - 富于；充满
+        - `teem with`
+        - `be imbued with`
   - 短语
-    - `abound in` vt. 富于 
-    - `abound with` 充满 
+    - `abound in`
+      - vt. 富于 
+    - `abound with`
+      - 充满 
   - 例句
     - `Rumours abound as to the reasons for his resignation.`
       - 有关他辞职的原因有各种各样的谣传。

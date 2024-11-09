@@ -1,22 +1,30 @@
 - reverberant
   - 发音
-    - 英 `/rɪ'vɜːbərənt/`
-    - 美 `/ri'və:bərənt/`
+    - 英
+      - `/rɪ'vɜːbərənt/`
+    - 美
+      - `/ri'və:bərənt/`
   - 词义
-    - adj. 回响的
+    - adj.
+      - 回响的
   - 同根词
     - adj.
-      - `reverberate` 回响的；反射的
+      - `reverberate`
+        - 回响的；反射的
     - n.
-      - `reverberation` [声] 混响；反射；反响；回响
+      - `reverberation`
+        - [声] 混响；反射；反响；回响
     - vi.
-      - `reverberate` 回响；反响；弹回；不断发生后效
+      - `reverberate`
+        - 回响；反响；弹回；不断发生后效
     - vt.
-      - `reverberate` 使回响；使反射；使弹回
+      - `reverberate`
+        - 使回响；使反射；使弹回
   - 近义词
-    - adj. 回响的；反射的；起回声的
-      - `reflected`
-      - `catoptric`
+    - adj.
+      - 回响的；反射的；起回声的
+        - `reflected`
+        - `catoptric`
   - 例句
     - `Some of the most reverberant recent studies were performed at Northwestern University’s Feinberg School of Medicine in Chicago.`
       - 最近的研究中最具反响的一些是在芝加哥西北大学范伯格医学院进行的。

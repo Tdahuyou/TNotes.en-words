@@ -1,14 +1,20 @@
 - who
   - 发音
-    - 英 `/huː; hʊ/`
-    - 美 `/hu/`
+    - 英
+      - `/huː; hʊ/`
+    - 美
+      - `/hu/`
   - 词义
-    - pron. 谁
-    - `used to ask or talk about which person is involved, or what the name of a person is`
+    - pron.
+      - 谁
+        - `used to ask or talk about which person is involved, or what the name of a person is`
   - 短语
-    - `as who` [古语]像是…的人 
-    - `who's who` 名人（总称）；名人录 
-    - `who is who` 谁是谁；名人录 
+    - `as who`
+      - [古语]像是…的人 
+    - `who's who`
+      - 名人（总称）；名人录 
+    - `who is who`
+      - 谁是谁；名人录 
   - 例句
     - `Who locked the door?`
       - 谁锁的门？

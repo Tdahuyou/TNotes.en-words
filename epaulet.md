@@ -1,14 +1,18 @@
 - epaulet
   - 发音
-    - 英 `/'epəlet/`
-    - 美 `/undefined/`
+    - 英
+      - `/'epəlet/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. [军]肩章,肩饰
-    - `Epaulets are decorations worn on the shoulders of certain uniforms, especially military ones`
+    - n.
+      - [军]肩章,肩饰
+        - `Epaulets are decorations worn on the shoulders of certain uniforms, especially military ones`
   - 近义词
-    - n. 肩章；肩饰
-      - `shoulder mark`
-      - `shoulder-flash`
+    - n.
+      - 肩章；肩饰
+        - `shoulder mark`
+        - `shoulder-flash`
   - 例句
     - `Functional epaulet at each shoulder.`
       - 在每个肩部的功能肩章。

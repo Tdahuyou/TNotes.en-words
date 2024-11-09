@@ -1,22 +1,32 @@
 - extinguisher
   - 发音
-    - 英 `/ɪk'stɪŋgwɪʃə; ek-/`
-    - 美 `/ɪk'stɪŋɡwɪʃɚ/`
+    - 英
+      - `/ɪk'stɪŋgwɪʃə; ek-/`
+    - 美
+      - `/ɪk'stɪŋɡwɪʃɚ/`
   - 词义
-    - n. 灭火器；消灭者；熄灭者
-    - `a fire extinguisher`
+    - n.
+      - 灭火器；消灭者；熄灭者
+        - `a fire extinguisher`
   - 同根词
     - adj.
-      - `extinct` 灭绝的，绝种的；熄灭的
-      - `extinguishable` 可熄灭的；可灭绝的
+      - `extinct`
+        - 灭绝的，绝种的；熄灭的
+      - `extinguishable`
+        - 可熄灭的；可灭绝的
     - n.
-      - `extinction` 消失；消灭；废止
+      - `extinction`
+        - 消失；消灭；废止
     - vt.
-      - `extinct` 使熄灭
-      - `extinguish` 熄灭；压制；偿清
+      - `extinct`
+        - 使熄灭
+      - `extinguish`
+        - 熄灭；压制；偿清
   - 近义词
-    - n. [安全]灭火器；消灭者；熄灭者
-      - `fire-extinguisher`
-      - `annihilator`
+    - n.
+      - [安全]灭火器；消灭者；熄灭者
+        - `fire-extinguisher`
+        - `annihilator`
   - 短语
-    - `fire extinguisher` 灭火器 
+    - `fire extinguisher`
+      - 灭火器 

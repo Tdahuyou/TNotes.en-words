@@ -1,23 +1,33 @@
 - selflessly
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - adv. 无私地；忘我地
+    - adv.
+      - 无私地；忘我地
   - 同根词
     - adj.
-      - `selfish` 自私的；利己主义的
-      - `selfless` 无私的；不考虑自己的
+      - `selfish`
+        - 自私的；利己主义的
+      - `selfless`
+        - 无私的；不考虑自己的
     - adv.
-      - `selfishly` 自私地
+      - `selfishly`
+        - 自私地
     - n.
-      - `self` 自己，自我；本质；私心
-      - `selfishness` 自私自利；自我中心；任性
-      - `selflessness` 无私；忘我
+      - `self`
+        - 自己，自我；本质；私心
+      - `selfishness`
+        - 自私自利；自我中心；任性
+      - `selflessness`
+        - 无私；忘我
   - 近义词
-    - adv. 无私地；忘我地
-      - `unselfishly`
-      - `impartially`
+    - adv.
+      - 无私地；忘我地
+        - `unselfishly`
+        - `impartially`
   - 例句
     - `She often does everything for me selflessly.`
       - 她也是这样无私地对我的。

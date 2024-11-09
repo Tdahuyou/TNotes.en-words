@@ -1,34 +1,49 @@
 - harmonize
   - 发音
-    - 英 `/'hɑːmənaɪz/`
-    - 美 `/'hɑrmənaɪz/`
+    - 英
+      - `/'hɑːmənaɪz/`
+    - 美
+      - `/'hɑrmənaɪz/`
   - 词义
-    - v. 协调
-    - `if two or more things harmonize, they work well together or look good together`
+    - v.
+      - 协调
+        - `if two or more things harmonize, they work well together or look good together`
   - 同根词
     - adj.
-      - `harmonious` 和谐的，和睦的；协调的；悦耳的
+      - `harmonious`
+        - 和谐的，和睦的；协调的；悦耳的
     - adv.
-      - `harmoniously` 和谐地；调和地
-      - `harmonically` 和声地；调和地
+      - `harmoniously`
+        - 和谐地；调和地
+      - `harmonically`
+        - 和声地；调和地
     - n.
-      - `harmony` 协调；和睦；融洽；调和
-      - `harmonics` 和声学；泛音；数律分析法
-      - `harmonization` 和谐；融洽；悦耳
-      - `harmoniser` 使和谐协调者（等于harmonizer）
-      - `harmonizer` 使和谐协调者
+      - `harmony`
+        - 协调；和睦；融洽；调和
+      - `harmonics`
+        - 和声学；泛音；数律分析法
+      - `harmonization`
+        - 和谐；融洽；悦耳
+      - `harmoniser`
+        - 使和谐协调者（等于harmonizer）
+      - `harmonizer`
+        - 使和谐协调者
     - vi.
-      - `harmonise` 和谐（等于harmonize）
+      - `harmonise`
+        - 和谐（等于harmonize）
     - vt.
-      - `harmonise` 使和谐
+      - `harmonise`
+        - 使和谐
   - 近义词
-    - vt. 使和谐；使一致；以和声唱
-      - `accord`
-      - `unify`
-    - vi. 协调；和谐；以和声唱
-      - `sort`
-      - `cotton`
-      - `concert`
+    - vt.
+      - 使和谐；使一致；以和声唱
+        - `accord`
+        - `unify`
+    - vi.
+      - 协调；和谐；以和声唱
+        - `sort`
+        - `cotton`
+        - `concert`
   - 例句
     - `How well all her garments harmonized with each other.`
       - 她所有的衣服彼此配起来是多么地协调。

@@ -1,22 +1,30 @@
 - minibus
   - 发音
-    - 英 `/'mɪnɪbʌs/`
-    - 美 `/'mɪnɪbʌs/`
+    - 英
+      - `/'mɪnɪbʌs/`
+    - 美
+      - `/'mɪnɪbʌs/`
   - 词义
-    - n. 小型公共汽车
-    - `a small bus with seats for six to twelve people`
+    - n.
+      - 小型公共汽车
+        - `a small bus with seats for six to twelve people`
   - 记忆
     - mini(微型的) ＋ bus(公共汽车) → 小型公共汽车
   - 同根词
     - n.
-      - `miniaturization` 小型化，微型化
-      - `minicomputer` [计] 小型计算机；微型电脑
+      - `miniaturization`
+        - 小型化，微型化
+      - `minicomputer`
+        - [计] 小型计算机；微型电脑
     - vt.
-      - `miniaturize` 使小型化；使微型化（等于miniaturise）
-      - `miniaturise` 使小型化（等于miniaturize）
+      - `miniaturize`
+        - 使小型化；使微型化（等于miniaturise）
+      - `miniaturise`
+        - 使小型化（等于miniaturize）
   - 近义词
-    - n. 面包车（等于microbus）；小型公共汽车；中客车
-      - `microbus`
+    - n.
+      - 面包车（等于microbus）；小型公共汽车；中客车
+        - `microbus`
   - 例句
     - `He was then taken by minibus to the military base.`
       - 接着他被小型公共汽车带到了军事基地。

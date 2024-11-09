@@ -1,10 +1,13 @@
 - underutilized
   - 发音
-    - 英 `/ˌʌndər'juːtəlaɪzd/`
-    - 美 `/undefined/`
+    - 英
+      - `/ˌʌndər'juːtəlaɪzd/`
+    - 美
+      - `/undefined/`
   - 词义
-    - adj. 未充分利用的
-    - `Underutilized is a more formal word for `
+    - adj.
+      - 未充分利用的
+        - `Underutilized is a more formal word for `
   - 记忆
     - under(不足， 少于) + utilize(利用) + d → 未充分利用的
   - 例句

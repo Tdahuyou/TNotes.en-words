@@ -1,17 +1,22 @@
 - notepad
   - 发音
-    - 英 `/'nəutˌpæd/`
-    - 美 `/'not'pæd/`
+    - 英
+      - `/'nəutˌpæd/`
+    - 美
+      - `/'not'pæd/`
   - 词义
-    - n. 笔记本
-    - `a group of sheets of paper fastened together, used for writing notes`
+    - n.
+      - 笔记本
+        - `a group of sheets of paper fastened together, used for writing notes`
   - 同根词
     - n.
-      - `notepaper` 信纸；便条纸；笔记用纸
+      - `notepaper`
+        - 信纸；便条纸；笔记用纸
   - 近义词
-    - n. 笔记本；记事手册
-      - `jotter`
-      - `pocketbook`
+    - n.
+      - 笔记本；记事手册
+        - `jotter`
+        - `pocketbook`
   - 例句
     - `Have a pencil and notepad ready.`
       - 准备好铅笔和笔记本。

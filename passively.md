@@ -1,23 +1,32 @@
 - passively
   - 发音
-    - 英 `/'pæsɪvli/`
-    - 美 `/undefined/`
+    - 英
+      - `/'pæsɪvli/`
+    - 美
+      - `/undefined/`
   - 词义
-    - adv. 被动地，顺从地
+    - adv.
+      - 被动地，顺从地
   - 记忆
     - 来自passive(adj. 被动的)
   - 同根词
     - adj.
-      - `passive` 被动的，消极的；被动语态的
+      - `passive`
+        - 被动的，消极的；被动语态的
     - n.
-      - `passive` 被动语态
-      - `passivity` 被动性；被动结构；无抵抗
-      - `passiveness` 被动；顺从
-      - `passivism` 消极主义；被动性
+      - `passive`
+        - 被动语态
+      - `passivity`
+        - 被动性；被动结构；无抵抗
+      - `passiveness`
+        - 被动；顺从
+      - `passivism`
+        - 消极主义；被动性
   - 近义词
-    - adv. 被动地；顺从地
-      - `obediently`
-      - `submissively`
+    - adv.
+      - 被动地；顺从地
+        - `obediently`
+        - `submissively`
   - 例句
     - `No matter what caused the problems, we have no reason to passively accept them.`
       - 不管它产生的原因是什么样的，我们都没有理由去被动地接受。

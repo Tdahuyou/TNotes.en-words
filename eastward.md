@@ -1,28 +1,42 @@
 - eastward
   - 发音
-    - 英 `/'iːstwəd/`
-    - 美 `/'istwɚdz/`
+    - 英
+      - `/'iːstwəd/`
+    - 美
+      - `/'istwɚdz/`
   - 词义
-    - adj. 向东的
-    - `Eastward is also an adjective`
-    - adv. 向东
-    - `Eastward or eastwards means toward the east`
+    - adj.
+      - 向东的
+        - `Eastward is also an adjective`
+    - adv.
+      - 向东
+        - `Eastward or eastwards means toward the east`
   - 同根词
     - adj.
-      - `east` 东方的；向东的；从东方来的
-      - `eastern` 东方的；朝东的；东洋的
-      - `easternmost` （英）极东的；最东部的（等于eastmost）
-      - `eastwards` 向东方的
+      - `east`
+        - 东方的；向东的；从东方来的
+      - `eastern`
+        - 东方的；朝东的；东洋的
+      - `easternmost`
+        - （英）极东的；最东部的（等于eastmost）
+      - `eastwards`
+        - 向东方的
     - adv.
-      - `east` 向东方，在东方
-      - `eastwards` 向东方地
+      - `east`
+        - 向东方，在东方
+      - `eastwards`
+        - 向东方地
     - n.
-      - `east` 东方；东风；东方国家
-      - `eastern` 东方人；（美国）东部地区的人
-      - `easterner` 东方人；居住在东部或东方的人
+      - `east`
+        - 东方；东风；东方国家
+      - `eastern`
+        - 东方人；（美国）东部地区的人
+      - `easterner`
+        - 东方人；居住在东部或东方的人
   - 近义词
-    - n. 东部；东方
-      - `orient`
+    - n.
+      - 东部；东方
+        - `orient`
   - 例句
     - `...the eastward expansion of the city.`
       - …该市的东扩。

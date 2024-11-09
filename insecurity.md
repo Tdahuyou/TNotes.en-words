@@ -1,18 +1,24 @@
 - insecurity
   - 发音
-    - 英 `/ˌɪnsɪ'kjʊərətɪ/`
-    - 美 `/ˌɪnsɪˈkjʊrətɪ/`
+    - 英
+      - `/ˌɪnsɪ'kjʊərətɪ/`
+    - 美
+      - `/ˌɪnsɪˈkjʊrətɪ/`
   - 词义
-    - n. 不安全
+    - n.
+      - 不安全
   - 同根词
     - adj.
-      - `insecure` 不安全的；不稳定的；不牢靠的
+      - `insecure`
+        - 不安全的；不稳定的；不牢靠的
     - adv.
-      - `insecurely` 不安全地；不可靠地
+      - `insecurely`
+        - 不安全地；不可靠地
   - 近义词
-    - n. 不安全；不牢靠；无把握；心神不定
-      - `unsafety`
-      - `precariousness`
+    - n.
+      - 不安全；不牢靠；无把握；心神不定
+        - `unsafety`
+        - `precariousness`
   - 例句
     - `The insecurity of the venture kept investors away.`
       - 这种冒险事业的不安全性使投资者望而却步。

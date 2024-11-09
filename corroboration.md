@@ -1,23 +1,31 @@
 - corroboration
   - 发音
-    - 英 `/kəˌrɑːbə'reɪʃn/`
-    - 美 `/undefined/`
+    - 英
+      - `/kəˌrɑːbə'reɪʃn/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 证实，支持
+    - n.
+      - 证实，支持
   - 记忆
     - 来自corroborate (v. 支持； 强化)
   - 同根词
     - adj.
-      - `corroborative` 确证的，确定的
-      - `corroborant` 确证的；使强固的
+      - `corroborative`
+        - 确证的，确定的
+      - `corroborant`
+        - 确证的；使强固的
     - n.
-      - `corroborant` 强壮剂；确证的资料
+      - `corroborant`
+        - 强壮剂；确证的资料
     - vt.
-      - `corroborate` 证实；使坚固
+      - `corroborate`
+        - 证实；使坚固
   - 近义词
-    - n. 确证，证实；确证的事实
-      - `authentication`
-      - `confirmation`
+    - n.
+      - 确证，证实；确证的事实
+        - `authentication`
+        - `confirmation`
   - 例句
     - `Definitely more independent corroboration is necessary .`
       - 有必要更明确地进一步证实。

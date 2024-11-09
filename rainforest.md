@@ -1,9 +1,12 @@
 - rainforest
   - 发音
-    - 英 `/undefined/`
-    - 美 `/'ren'fɔrɪst/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/'ren'fɔrɪst/`
   - 词义
-    - n. 雨林
+    - n.
+      - 雨林
   - 例句
     - `The rainforest is essential in other areas also.`
       - 雨林在其他地区也是必不可少的。

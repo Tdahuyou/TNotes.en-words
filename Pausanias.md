@@ -1,7 +1,9 @@
 - Pausanias
   - 发音
-    - 英 `/pɔ:'seiniæs/`
-    - 美 `/pɔ:'seiniæs/`
+    - 英
+      - `/pɔ:'seiniæs/`
+    - 美
+      - `/pɔ:'seiniæs/`
   - 词义
   - 例句
     - `What is in question is properly speaking the same theme which is proposed to us by the discourse of Pausanias.`

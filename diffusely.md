@@ -1,26 +1,40 @@
 - diffusely
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - adv. 广泛地,扩散地
+    - adv.
+      - 广泛地,扩散地
   - 同根词
     - adj.
-      - `diffuse` 弥漫的；散开的
-      - `diffused` 散布的，扩散的；普及的
-      - `diffusive` 普及的；散布性的；冗长的
+      - `diffuse`
+        - 弥漫的；散开的
+      - `diffused`
+        - 散布的，扩散的；普及的
+      - `diffusive`
+        - 普及的；散布性的；冗长的
     - n.
-      - `diffusion` 扩散，传播；[光] 漫射
-      - `diffuser` [机] 扩散器；散布者
-      - `diffuseness` 扩散；漫无边际
-      - `diffusor` 扩散器；散布者；扩散体
+      - `diffusion`
+        - 扩散，传播；[光] 漫射
+      - `diffuser`
+        - [机] 扩散器；散布者
+      - `diffuseness`
+        - 扩散；漫无边际
+      - `diffusor`
+        - 扩散器；散布者；扩散体
     - v.
-      - `diffused` 散布，传播（diffuse的过去分词）；使分散
+      - `diffused`
+        - 散布，传播（diffuse的过去分词）；使分散
     - vi.
-      - `diffuse` 传播；四散
+      - `diffuse`
+        - 传播；四散
     - vt.
-      - `diffuse` 扩散；传播；漫射
+      - `diffuse`
+        - 扩散；传播；漫射
   - 近义词
-    - adv. 广泛地；扩散地
-      - `widely`
-      - `far and wide`
+    - adv.
+      - 广泛地；扩散地
+        - `widely`
+        - `far and wide`

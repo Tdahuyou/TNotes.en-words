@@ -1,16 +1,23 @@
 - lateness
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 迟,晚
+    - n.
+      - 迟,晚
   - 同根词
     - adj.
-      - `late` 晚的；迟的；已故的；最近的
-      - `latish` 稍迟的；稍后的
+      - `late`
+        - 晚的；迟的；已故的；最近的
+      - `latish`
+        - 稍迟的；稍后的
     - adv.
-      - `late` 晚；迟；最近；在晚期
-      - `latish` 稍迟地；稍晚
+      - `late`
+        - 晚；迟；最近；在晚期
+      - `latish`
+        - 稍迟地；稍晚
   - 例句
     - `I must report your lateness to the teacher.`
       - 我必须报告老师你迟到了。

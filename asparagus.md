@@ -1,17 +1,23 @@
 - asparagus
   - 发音
-    - 英 `/ə'spærəgəs/`
-    - 美 `/ə'spærəgəs/`
+    - 英
+      - `/ə'spærəgəs/`
+    - 美
+      - `/ə'spærəgəs/`
   - 词义
-    - n. [植]芦笋
-    - `a long thin green vegetable with a point at one end`
+    - n.
+      - [植]芦笋
+        - `a long thin green vegetable with a point at one end`
   - 近义词
-    - n. [园艺]芦笋；[植]龙须菜；天冬
-      - `sparrowgrass`
-      - `asperge`
+    - n.
+      - [园艺]芦笋；[植]龙须菜；天冬
+        - `sparrowgrass`
+        - `asperge`
   - 短语
-    - `asparagus lettuce` 莴苣，莴笋 
-    - `asparagus juice` 芦笋汁 
+    - `asparagus lettuce`
+      - 莴苣，莴笋 
+    - `asparagus juice`
+      - 芦笋汁 
   - 例句
     - `But then again, so does asparagus.`
       - 但话又说回来，芦笋也是如此。

@@ -1,16 +1,21 @@
 - yank
   - 发音
-    - 英 `/jæŋk/`
-    - 美 `/jæŋk/`
+    - 英
+      - `/jæŋk/`
+    - 美
+      - `/jæŋk/`
   - 词义
-    - v. 猛地一拉
-    - `to suddenly pull something quickly and with force`
-    - n. 突然的猛拉
-    - `Yank is also a noun`
+    - v.
+      - 猛地一拉
+        - `to suddenly pull something quickly and with force`
+    - n.
+      - 突然的猛拉
+        - `Yank is also a noun`
   - 近义词
-    - vt. 猛拉
-      - `sweep`
-      - `hoick`
+    - vt.
+      - 猛拉
+        - `sweep`
+        - `hoick`
   - 例句
     - `She yanked open the drawer.`
       - 她猛地拉开了抽屉。

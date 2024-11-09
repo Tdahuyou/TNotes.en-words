@@ -1,16 +1,21 @@
 - buccal
   - 发音
-    - 英 `/'bʌk(ə)l/`
-    - 美 `/'bʌkl/`
+    - 英
+      - `/'bʌk(ə)l/`
+    - 美
+      - `/'bʌkl/`
   - 词义
-    - adj. (面)颊的,口的,口腔的
-    - `of or relating to the cheek `
+    - adj.
+      - (面)颊的,口的,口腔的
+        - `of or relating to the cheek `
   - 近义词
-    - adj. [解剖]颊的；[昆]口的，口腔的
-      - `genal`
-      - `stomal`
+    - adj.
+      - [解剖]颊的；[昆]口的，口腔的
+        - `genal`
+        - `stomal`
   - 短语
-    - `buccal tablet` 口腔片，颊含片 
+    - `buccal tablet`
+      - 口腔片，颊含片 
   - 例句
     - `ObjectiveTo search for a new method for urethra reconstruction using autologous buccal mucosal graft while lacking of local skin.`
       - 目的探讨采用口腔粘膜游离移植，对局部缺乏组织的尿道下裂行尿道再造的方法。

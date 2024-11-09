@@ -1,36 +1,59 @@
 - motivated
   - 发音
-    - 英 `/'məutiveitid/`
-    - 美 `/undefined/`
+    - 英
+      - `/'məutiveitid/`
+    - 美
+      - `/undefined/`
   - 词义
-    - adj. 有动机的；有积极性的
-    - `very keen to do something or achieve something, especially because you find it interesting or exciting`
+    - adj.
+      - 有动机的；有积极性的
+        - `very keen to do something or achieve something, especially because you find it interesting or exciting`
   - 同根词
     - adj.
-      - `motor` 汽车的；机动的
-      - `motive` 发动的；成为动机的
-      - `motionless` 静止的；不运动的
-      - `motivational` 动机的；激发性的；有关动机的；动机说明
-      - `motional` 运动的；起动的
-      - `motiveless` 无动机的
+      - `motor`
+        - 汽车的；机动的
+      - `motive`
+        - 发动的；成为动机的
+      - `motionless`
+        - 静止的；不运动的
+      - `motivational`
+        - 动机的；激发性的；有关动机的；动机说明
+      - `motional`
+        - 运动的；起动的
+      - `motiveless`
+        - 无动机的
     - n.
-      - `motion` 动作；移动；手势；请求；意向
-      - `motivation` 动机；积极性；推动
-      - `motor` 发动机，马达；汽车
-      - `motive` 动机，目的；主题
-      - `motif` 主题；动机；主旨；图形；意念
-      - `motivator` 动力；激励因素
-      - `motivity` 动力；原动力
+      - `motion`
+        - 动作；移动；手势；请求；意向
+      - `motivation`
+        - 动机；积极性；推动
+      - `motor`
+        - 发动机，马达；汽车
+      - `motive`
+        - 动机，目的；主题
+      - `motif`
+        - 主题；动机；主旨；图形；意念
+      - `motivator`
+        - 动力；激励因素
+      - `motivity`
+        - 动力；原动力
     - vi.
-      - `motion` 运动；打手势
-      - `motor` 乘汽车
+      - `motion`
+        - 运动；打手势
+      - `motor`
+        - 乘汽车
     - vt.
-      - `motion` 运动；向…打手势
-      - `motivate` 刺激；使有动机；激发…的积极性
-      - `motor` 以汽车载运
-      - `motive` 使产生动机，激起
+      - `motion`
+        - 运动；向…打手势
+      - `motivate`
+        - 刺激；使有动机；激发…的积极性
+      - `motor`
+        - 以汽车载运
+      - `motive`
+        - 使产生动机，激起
   - 短语
-    - `highly motivated` 积极性高 
+    - `highly motivated`
+      - 积极性高 
   - 例句
     - `The students are all highly motivated .`
       - 学生们都有很高的积极性。

@@ -1,18 +1,24 @@
 - homeopathy
   - 发音
-    - 英 `/,həʊmɪ'ɒpəθɪ; hɒm-/`
-    - 美 `/,homɪ'ɑpəθi/`
+    - 英
+      - `/,həʊmɪ'ɒpəθɪ; hɒm-/`
+    - 美
+      - `/,homɪ'ɑpəθi/`
   - 词义
-    - n. 同种疗法
-    - `a system of medicine in which a disease is treated by giving extremely small amounts of a substance that causes the disease`
+    - n.
+      - 同种疗法
+        - `a system of medicine in which a disease is treated by giving extremely small amounts of a substance that causes the disease`
   - 同根词
     - adj.
-      - `homeopathic` 顺势疗法的；同种疗法的
+      - `homeopathic`
+        - 顺势疗法的；同种疗法的
     - n.
-      - `homeopath` 同种疗法医师；顺势医疗论者
+      - `homeopath`
+        - 同种疗法医师；顺势医疗论者
   - 近义词
-    - n. [临床]顺势疗法；同种疗法
-      - `homoeopathy`
+    - n.
+      - [临床]顺势疗法；同种疗法
+        - `homoeopathy`
   - 例句
     - `Do you think there's something to homeopathy as well?`
       - 你认为你的工作也有些顺势疗法的意思？

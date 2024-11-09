@@ -1,25 +1,33 @@
 - infringe
   - 发音
-    - 英 `/in'frindʒ/`
-    - 美 `/ɪn'frɪndʒ/`
+    - 英
+      - `/in'frindʒ/`
+    - 美
+      - `/ɪn'frɪndʒ/`
   - 词义
-    - v. 破坏，侵犯，违反
-    - `to do something that is against a law or someone’s legal rights`
+    - v.
+      - 破坏，侵犯，违反
+        - `to do something that is against a law or someone’s legal rights`
   - 记忆
     - in (进入) + fringe (界限， 边缘) → 越境 → 侵犯
   - 同根词
     - n.
-      - `infringement` 侵犯；违反
+      - `infringement`
+        - 侵犯；违反
   - 近义词
-    - vt. 侵犯；违反；破坏
-      - `destroy`
-      - `encroach on`
-    - vi. 侵犯；侵害
-      - `encroach on`
-      - `to violate`
+    - vt.
+      - 侵犯；违反；破坏
+        - `destroy`
+        - `encroach on`
+    - vi.
+      - 侵犯；侵害
+        - `encroach on`
+        - `to violate`
   - 短语
-    - `infringe upon` 侵犯；侵害 
-    - `infringe on` 侵犯；侵害；破坏 
+    - `infringe upon`
+      - 侵犯；侵害 
+    - `infringe on`
+      - 侵犯；侵害；破坏 
   - 例句
     - `A backup copy of a computer program does not infringe copyright.`
       - 计算机程序的备份不侵犯版权。

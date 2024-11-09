@@ -1,19 +1,25 @@
 - enable
   - 发音
-    - 英 `/ɪn'eɪb(ə)l; en-/`
-    - 美 `/ɪ'nebl/`
+    - 英
+      - `/ɪn'eɪb(ə)l; en-/`
+    - 美
+      - `/ɪ'nebl/`
   - 词义
-    - v. 使能够,使可能
-    - `to make it possible for someone to do something, or for something to happen`
+    - v.
+      - 使能够,使可能
+        - `to make it possible for someone to do something, or for something to happen`
   - 同根词
     - adj.
-      - `enabling` 授权的
+      - `enabling`
+        - 授权的
     - v.
-      - `enabling` 使能够；授权给（enable的现在分词）
+      - `enabling`
+        - 使能够；授权给（enable的现在分词）
   - 近义词
-    - vt. 使能够，使成为可能；授予权利或方法
-      - `capacitate`
-      - `empower`
+    - vt.
+      - 使能够，使成为可能；授予权利或方法
+        - `capacitate`
+        - `empower`
   - 例句
     - `The new test should enable doctors to detect the disease early.`
       - 新的检验使医生能在早期发现该种疾病。

@@ -1,44 +1,70 @@
 - formalized
   - 发音
-    - 英 `/'fɔːrməlaɪzd/`
-    - 美 `/undefined/`
+    - 英
+      - `/'fɔːrməlaɪzd/`
+    - 美
+      - `/undefined/`
   - 词义
-    - adj. 形式化的，正式的
+    - adj.
+      - 形式化的，正式的
   - 记忆
     - 来自formalize(v. 使形式化， 使正式)
   - 同根词
     - adj.
-      - `former` 从前的，前者的；前任的
-      - `formal` 正式的；拘谨的；有条理的
-      - `formative` 形成的；造型的；格式化的
-      - `formless` 没有形状的；无定形的；形体不明的
-      - `formalistic` 形式主义的，呆板的
+      - `former`
+        - 从前的，前者的；前任的
+      - `formal`
+        - 正式的；拘谨的；有条理的
+      - `formative`
+        - 形成的；造型的；格式化的
+      - `formless`
+        - 没有形状的；无定形的；形体不明的
+      - `formalistic`
+        - 形式主义的，呆板的
     - adv.
-      - `formally` 正式地；形式上
+      - `formally`
+        - 正式地；形式上
     - n.
-      - `form` 形式，形状；形态，外形；方式；表格
-      - `format` 格式；版式；开本
-      - `former` 模型，样板；起形成作用的人
-      - `formal` 正式的社交活动；夜礼服
-      - `formality` 礼节；拘谨；仪式；正式手续
-      - `formative` 构词要素
-      - `formalism` 形式主义；形式体系
-      - `formatting` 格式化
-      - `formalization` 形式化；礼仪化
+      - `form`
+        - 形式，形状；形态，外形；方式；表格
+      - `format`
+        - 格式；版式；开本
+      - `former`
+        - 模型，样板；起形成作用的人
+      - `formal`
+        - 正式的社交活动；夜礼服
+      - `formality`
+        - 礼节；拘谨；仪式；正式手续
+      - `formative`
+        - 构词要素
+      - `formalism`
+        - 形式主义；形式体系
+      - `formatting`
+        - 格式化
+      - `formalization`
+        - 形式化；礼仪化
     - v.
-      - `formatting` 规定…的格式（format的ing形式）
+      - `formatting`
+        - 规定…的格式（format的ing形式）
     - vi.
-      - `form` 形成，构成；排列
-      - `format` 设计版式
-      - `formalize` 拘泥于形式
+      - `form`
+        - 形成，构成；排列
+      - `format`
+        - 设计版式
+      - `formalize`
+        - 拘泥于形式
     - vt.
-      - `form` 构成，组成；排列，组织；产生，塑造
-      - `format` 使格式化；规定…的格式
-      - `formalize` 使形式化；使正式；拘泥礼仪
+      - `form`
+        - 构成，组成；排列，组织；产生，塑造
+      - `format`
+        - 使格式化；规定…的格式
+      - `formalize`
+        - 使形式化；使正式；拘泥礼仪
   - 近义词
-    - adj. 形式化的；正式的
-      - `official`
-      - `state`
+    - adj.
+      - 形式化的；正式的
+        - `official`
+        - `state`
   - 例句
     - `In the West, job interviews are highly formalized and systematic.`
       - 在西方，工作面试是非常正式和系统化的。

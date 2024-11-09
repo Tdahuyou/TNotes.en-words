@@ -1,23 +1,32 @@
 - wintertime
   - 发音
-    - 英 `/'wɪntətaɪm/`
-    - 美 `/'wintətaim/`
+    - 英
+      - `/'wɪntətaɪm/`
+    - 美
+      - `/'wintətaim/`
   - 词义
-    - n. 冬,冬季
-    - `the time when it is winter`
+    - n.
+      - 冬,冬季
+        - `the time when it is winter`
   - 同根词
     - adj.
-      - `winter` 冬天的；越冬的
+      - `winter`
+        - 冬天的；越冬的
     - n.
-      - `winter` 冬季；年岁；萧条期
-      - `winterize` 作过冬准备；在…装御寒设备
+      - `winter`
+        - 冬季；年岁；萧条期
+      - `winterize`
+        - 作过冬准备；在…装御寒设备
     - vi.
-      - `winter` 过冬
+      - `winter`
+        - 过冬
     - vt.
-      - `winterize` 为…作过冬准备；使适应冬季使用；使防冻
+      - `winterize`
+        - 为…作过冬准备；使适应冬季使用；使防冻
   - 近义词
-    - n. 冬季
-      - `peret`
+    - n.
+      - 冬季
+        - `peret`
   - 例句
     - `This photo of the towers was taken during wintertime.`
       - 这些钙华塔的照片是在冬季拍摄的。

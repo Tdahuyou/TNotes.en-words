@@ -1,18 +1,23 @@
 - cherish
   - 发音
-    - 英 `/'tʃerɪʃ/`
-    - 美 `/'tʃɛrɪʃ/`
+    - 英
+      - `/'tʃerɪʃ/`
+    - 美
+      - `/'tʃɛrɪʃ/`
   - 词义
-    - vt. 爱护，珍爱；怀有，抱有
-    - `to love someone or something very much and take care of them well`
+    - vt.
+      - 爱护，珍爱；怀有，抱有
+        - `to love someone or something very much and take care of them well`
   - 记忆
     - 要珍爱(cherish)， 不要毁坏(perish)
   - 近义词
-    - vt. 珍爱；怀抱
-      - `treasure`
-      - `imbosom`
+    - vt.
+      - 珍爱；怀抱
+        - `treasure`
+        - `imbosom`
   - 短语
-    - `cherish time` 珍惜时间 
+    - `cherish time`
+      - 珍惜时间 
   - 例句
     - `In marriage, a man promises to cherish his wife.`
       - 在婚姻中，男人承诺要爱护妻子。

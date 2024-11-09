@@ -1,17 +1,23 @@
 - fulfillment
   - 发音
-    - 英 `/ful'fɪlmənt/`
-    - 美 `/fʊl'fɪlmənt/`
+    - 英
+      - `/ful'fɪlmənt/`
+    - 美
+      - `/fʊl'fɪlmənt/`
   - 词义
-    - n. 履行；实现
+    - n.
+      - 履行；实现
   - 同根词
     - vt.
-      - `fulfill` 履行；实现；满足；使结束（等于fulfil）
-      - `fulfil` 履行；完成；实践；满足
+      - `fulfill`
+        - 履行；实现；满足；使结束（等于fulfil）
+      - `fulfil`
+        - 履行；完成；实践；满足
   - 近义词
-    - n. 履行；实行
-      - `implementation`
-      - `execution`
+    - n.
+      - 履行；实行
+        - `implementation`
+        - `execution`
   - 例句
     - `So fulfillment of desires is a prerequisite to unity.`
       - 所以实现愿望是到达统一的先决条件。 。

@@ -1,6 +1,9 @@
 - tepefy
   - 发音
-    - 英 `/'tepəfaɪ/`
-    - 美 `/undefined/`
+    - 英
+      - `/'tepəfaɪ/`
+    - 美
+      - `/undefined/`
   - 词义
-    - vt. 使微热
+    - vt.
+      - 使微热

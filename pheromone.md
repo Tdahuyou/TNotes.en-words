@@ -1,10 +1,13 @@
 - pheromone
   - 发音
-    - 英 `/'ferəmoun/`
-    - 美 `/'fɛrəmon/`
+    - 英
+      - `/'ferəmoun/`
+    - 美
+      - `/'fɛrəmon/`
   - 词义
-    - n. 信息素
-    - `a chemical that is produced by people’s and animals’ bodies and is thought to influence the behaviour of other people or animals`
+    - n.
+      - 信息素
+        - `a chemical that is produced by people’s and animals’ bodies and is thought to influence the behaviour of other people or animals`
   - 例句
     - `Effect on the controlling oriental tobacco budworm , Helicoverpa assulta by using sex pheromone.`
       - 与用性信息素诱剂防治烟青虫的效果>>相似的文献。

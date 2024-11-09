@@ -1,12 +1,16 @@
 - stewpot
   - 发音
-    - 英 `/'stjuːpɒt/`
-    - 美 `/'stjʊ,pɑt/`
+    - 英
+      - `/'stjuːpɒt/`
+    - 美
+      - `/'stjʊ,pɑt/`
   - 词义
-    - n. 双把炖锅
+    - n.
+      - 双把炖锅
   - 近义词
-    - n. 炖锅
-      - `saucepan`
+    - n.
+      - 炖锅
+        - `saucepan`
   - 例句
     - `A hungry wolf's attempts to fatten a chicken for his stewpot have unexpected results.`
       - 一条饥饿的狼想把鸡养肥来做炖鸡，却产生了意想不到的结果。

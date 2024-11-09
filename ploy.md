@@ -1,17 +1,21 @@
 - ploy
   - 发音
-    - 英 `/plɒɪ/`
-    - 美 `/plɔɪ/`
+    - 英
+      - `/plɒɪ/`
+    - 美
+      - `/plɔɪ/`
   - 词义
-    - n. 花招，手段
-    - `a clever and dishonest way of tricking someone so that you can get an advantage`
+    - n.
+      - 花招，手段
+        - `a clever and dishonest way of tricking someone so that you can get an advantage`
   - 近义词
-    - n. 策略；活动；工作
-      - `strategy`
-      - `device`
-      - `activity`
-      - `movement`
-      - `pursuit`
+    - n.
+      - 策略；活动；工作
+        - `strategy`
+        - `device`
+        - `activity`
+        - `movement`
+        - `pursuit`
   - 例句
     - `His usual ploy is to pretend he’s ill.`
       - 他惯用的花招是装病。

@@ -1,35 +1,49 @@
 - explode
   - 发音
-    - 英 `/ɪk'sploud/`
-    - 美 `/ɪk'splod/`
+    - 英
+      - `/ɪk'sploud/`
+    - 美
+      - `/ɪk'splod/`
   - 词义
-    - v. 爆炸；激增；冲动，发怒
-    - `to burst, or to make something burst, into small pieces, usually with a loud noise and in a way that causes damage`
+    - v.
+      - 爆炸；激增；冲动，发怒
+        - `to burst, or to make something burst, into small pieces, usually with a loud noise and in a way that causes damage`
   - 记忆
     - 探险(explore)时遭遇爆炸(explode)
   - 同根词
     - adj.
-      - `explosive` 爆炸的；爆炸性的；爆发性的
-      - `exploded` 爆炸了的；分解的；被破除的
+      - `explosive`
+        - 爆炸的；爆炸性的；爆发性的
+      - `exploded`
+        - 爆炸了的；分解的；被破除的
     - adv.
-      - `explosively` 爆发地，引起爆炸地
+      - `explosively`
+        - 爆发地，引起爆炸地
     - n.
-      - `explosion` 爆炸；爆发；激增
-      - `explosive` 炸药；爆炸物
-      - `exploding` 爆炸，爆发；水热炸裂
+      - `explosion`
+        - 爆炸；爆发；激增
+      - `explosive`
+        - 炸药；爆炸物
+      - `exploding`
+        - 爆炸，爆发；水热炸裂
     - v.
-      - `exploded` 爆炸（explode的过去分词）
-      - `exploding` 爆炸（explode的ing形式）
+      - `exploded`
+        - 爆炸（explode的过去分词）
+      - `exploding`
+        - 爆炸（explode的ing形式）
   - 近义词
-    - vi. 爆炸，爆发；激增
-      - `blow apart`
-      - `burst up`
-    - vt. 使爆炸；爆炸；推翻
-      - `shoot`
-      - `spring`
-      - `blast`
+    - vi.
+      - 爆炸，爆发；激增
+        - `blow apart`
+        - `burst up`
+    - vt.
+      - 使爆炸；爆炸；推翻
+        - `shoot`
+        - `spring`
+        - `blast`
   - 短语
-    - `explode into` 爆发出… 
+    - `explode into`
+      - 爆发出… 
   - 例句
     - `The device was thrown at an army patrol but failed to explode.`
       - 炸弹投向了陆军巡逻队，但没有爆炸。

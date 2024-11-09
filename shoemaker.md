@@ -1,14 +1,18 @@
 - shoemaker
   - 发音
-    - 英 `/'ʃuːmeɪkə/`
-    - 美 `/'ʃʊ'mekɚ/`
+    - 英
+      - `/'ʃuːmeɪkə/`
+    - 美
+      - `/'ʃʊ'mekɚ/`
   - 词义
-    - n. 鞋匠
-    - `someone who makes shoes and boots`
+    - n.
+      - 鞋匠
+        - `someone who makes shoes and boots`
   - 近义词
-    - n. 鞋匠；补鞋工人
-      - `souter`
-      - `crispin`
+    - n.
+      - 鞋匠；补鞋工人
+        - `souter`
+        - `crispin`
   - 例句
     - `Mr Zhu, a shoemaker from Foshan, near Hong Kong, is on his second trip to Africa.`
       - 朱先生是一个来自离香港不远的佛山的鞋匠，这是他第二次来非洲。

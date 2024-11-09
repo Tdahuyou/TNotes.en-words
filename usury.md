@@ -1,26 +1,33 @@
 - usury
   - 发音
-    - 英 `/'juːʒuri/`
-    - 美 `/'juʒəri/`
+    - 英
+      - `/'juːʒuri/`
+    - 美
+      - `/'juʒəri/`
   - 词义
-    - n. 高利贷；高利
-    - `the practice of lending money to people and making them pay interest14`
+    - n.
+      - 高利贷；高利
+        - `the practice of lending money to people and making them pay interest14`
   - 记忆
     - us (我们) + ury (看作wry， 歪的) → 向我们放高利贷的人心长歪了 → 高利贷
   - 同根词
     - adj.
-      - `usurious` 高利贷的
+      - `usurious`
+        - 高利贷的
     - adv.
-      - `usuriously` 高利贷地；取高利地
+      - `usuriously`
+        - 高利贷地；取高利地
     - n.
-      - `usurer` 高利贷者；贷款人
+      - `usurer`
+        - 高利贷者；贷款人
   - 近义词
-    - n. [金融]高利；高利贷；利益
-      - `behalf`
-      - `sake`
-      - `benefit`
-      - `profit`
-      - `advantage`
+    - n.
+      - [金融]高利；高利贷；利益
+        - `behalf`
+        - `sake`
+        - `benefit`
+        - `profit`
+        - `advantage`
   - 例句
     - `In medieval times, it was illegal for Chris­tians to practise usury.`
       - 在中世纪，基督徒放高利贷是犯法的。

@@ -1,9 +1,12 @@
 - overfish
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - vt. 对…进行过度捕捞
+    - vt.
+      - 对…进行过度捕捞
   - 记忆
     - over(过度的) + fish(捕鱼) → 过度捕捞
   - 例句

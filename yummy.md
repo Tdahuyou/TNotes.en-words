@@ -1,14 +1,18 @@
 - yummy
   - 发音
-    - 英 `/'jʌmi/`
-    - 美 `/'jʌmi/`
+    - 英
+      - `/'jʌmi/`
+    - 美
+      - `/'jʌmi/`
   - 词义
-    - adj. 美味的；赏心悦目的
+    - adj.
+      - 美味的；赏心悦目的
   - 近义词
-    - adj. 好吃的；美味的；愉快的
-      - `delicious`
-      - `good`
-      - `bright`
+    - adj.
+      - 好吃的；美味的；愉快的
+        - `delicious`
+        - `good`
+        - `bright`
   - 例句
     - `Yes, thanks. It's yummy!`
       - 是的，谢谢。它是美味的！

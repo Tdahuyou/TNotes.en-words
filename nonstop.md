@@ -1,18 +1,24 @@
 - nonstop
   - 发音
-    - 英 `/'nɔn'stɔp/`
-    - 美 `/nɑn'stɑp/`
+    - 英
+      - `/'nɔn'stɔp/`
+    - 美
+      - `/nɑn'stɑp/`
   - 词义
-    - adj. 不断的,直达的
-    - `without any stops or pauses`
-    - adv. 不休息地
-    - `Nonstop is also an adverb`
+    - adj.
+      - 不断的,直达的
+        - `without any stops or pauses`
+    - adv.
+      - 不休息地
+        - `Nonstop is also an adverb`
   - 近义词
-    - adj. 直达的；不休息的；不着陆的
-      - `through`
-      - `sleepless`
+    - adj.
+      - 直达的；不休息的；不着陆的
+        - `through`
+        - `sleepless`
   - 短语
-    - `nonstop flight` 不着陆飞行 
+    - `nonstop flight`
+      - 不着陆飞行 
   - 例句
     - `a nonstop flight to Los Angeles`
       - 直飞洛杉矶的航班

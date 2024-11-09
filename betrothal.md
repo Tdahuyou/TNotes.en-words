@@ -1,25 +1,33 @@
 - betrothal
   - 发音
-    - 英 `/bi'trəuðl/`
-    - 美 `/bi'trəuðəl/`
+    - 英
+      - `/bi'trəuðl/`
+    - 美
+      - `/bi'trəuðəl/`
   - 词义
-    - n. 婚约
-    - `an agreement that two people will be married`
+    - n.
+      - 婚约
+        - `an agreement that two people will be married`
   - 记忆
     - 来自betroth (vt. 许配)
   - 同根词
     - adj.
-      - `betrothed` 订婚了的
+      - `betrothed`
+        - 订婚了的
     - n.
-      - `betrothed` 已订婚者
+      - `betrothed`
+        - 已订婚者
     - v.
-      - `betrothed` 订婚（betroth的过去分词）
+      - `betrothed`
+        - 订婚（betroth的过去分词）
     - vt.
-      - `betroth` 同…订婚；许配
+      - `betroth`
+        - 同…订婚；许配
   - 近义词
-    - n. 订婚；婚约
-      - `contract`
-      - `engagement`
+    - n.
+      - 订婚；婚约
+        - `contract`
+        - `engagement`
   - 例句
     - `There is no mention of betrothal or marriage rings in this or any other edition of the bible .`
       - 在这本圣经以及其他版本的圣经中都没有提及订婚戒指或是结婚戒指。

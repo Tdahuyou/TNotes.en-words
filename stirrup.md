@@ -1,10 +1,14 @@
 - stirrup
   - 发音
-    - 英 `/'stɪrəp/`
-    - 美 `/'stɪrəp/`
+    - 英
+      - `/'stɪrəp/`
+    - 美
+      - `/'stɪrəp/`
   - 词义
-    - n. [建]箍筋；马镫；镫形物
-    - `one of the rings of metal in which someone riding a horse rests their feet`
+    - n.
+      - [建]箍筋；马镫；镫形物
+        - `one of the rings of metal in which someone riding a horse rests their feet`
   - 近义词
-    - n. [建]箍筋；马镫；镫形物
-      - `hooping`
+    - n.
+      - [建]箍筋；马镫；镫形物
+        - `hooping`

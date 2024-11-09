@@ -1,28 +1,41 @@
 - adventurous
   - 发音
-    - 英 `/əd'ventʃ(ə)rəs/`
-    - 美 `/əd'vɛntʃərəs/`
+    - 英
+      - `/əd'ventʃ(ə)rəs/`
+    - 美
+      - `/əd'vɛntʃərəs/`
   - 词义
-    - adj. 冒险的；惊险的
-    - `eager to go to new places and do exciting or dangerous things`
+    - adj.
+      - 冒险的；惊险的
+        - `eager to go to new places and do exciting or dangerous things`
   - 同根词
     - adj.
-      - `adventuresome` 冒险性的；爱冒险的
-      - `adventuristic` 冒险主义的；冒险主义者的
+      - `adventuresome`
+        - 冒险性的；爱冒险的
+      - `adventuristic`
+        - 冒险主义的；冒险主义者的
     - n.
-      - `adventure` 冒险；冒险精神；投机活动
-      - `adventurer` 冒险家；投机商人
-      - `adventurism` 冒险主义
-      - `adventuress` 女冒险家；女投机者
-      - `adventurousness` 喜欢冒险；敢作敢为
+      - `adventure`
+        - 冒险；冒险精神；投机活动
+      - `adventurer`
+        - 冒险家；投机商人
+      - `adventurism`
+        - 冒险主义
+      - `adventuress`
+        - 女冒险家；女投机者
+      - `adventurousness`
+        - 喜欢冒险；敢作敢为
     - vi.
-      - `adventure` 冒险
+      - `adventure`
+        - 冒险
     - vt.
-      - `adventure` 冒险；大胆说出
+      - `adventure`
+        - 冒险；大胆说出
   - 近义词
-    - adj. 爱冒险的；大胆的；充满危险的
-      - `bold`
-      - `stouthearted`
+    - adj.
+      - 爱冒险的；大胆的；充满危险的
+        - `bold`
+        - `stouthearted`
   - 例句
     - `He had always wanted an adventurous life in the tropics.`
       - 他一直都想要一种在热带丛林里的冒险生活。

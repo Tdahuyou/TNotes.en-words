@@ -1,18 +1,27 @@
 - biologically
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - adv. 生物学地
+    - adv.
+      - 生物学地
   - 同根词
     - adj.
-      - `biological` 生物的；生物学的
-      - `biologic` 生物的；生物学的
-      - `bioluminescent` 生物性发光的
+      - `biological`
+        - 生物的；生物学的
+      - `biologic`
+        - 生物的；生物学的
+      - `bioluminescent`
+        - 生物性发光的
     - n.
-      - `biology` （一个地区全部的）生物；生物学
-      - `biologist` 生物学家
-      - `bioluminescence` 生物体之发光
+      - `biology`
+        - （一个地区全部的）生物；生物学
+      - `biologist`
+        - 生物学家
+      - `bioluminescence`
+        - 生物体之发光
   - 例句
     - `We also, biologically, don't compensate for these calories when we eat.`
       - 而且，生物学上，我们在吃时不赔偿这些卡路里。

@@ -1,12 +1,17 @@
 - salamander
   - 发音
-    - 英 `/'sæləmændər/`
-    - 美 `/'sæləmændɚ/`
+    - 英
+      - `/'sæləmændər/`
+    - 美
+      - `/'sæləmændɚ/`
   - 词义
-    - n. 火蜥蜴；火蛇
+    - n.
+      - 火蜥蜴；火蛇
   - 近义词
-    - n. 火蜥蜴；蝾螈目动物；耐火的人；烤箱
-      - `toaster oven`
-      - `cabinet oven`
+    - n.
+      - 火蜥蜴；蝾螈目动物；耐火的人；烤箱
+        - `toaster oven`
+        - `cabinet oven`
   - 短语
-    - `giant salamander` 鲵；娃娃鱼 
+    - `giant salamander`
+      - 鲵；娃娃鱼 

@@ -1,19 +1,26 @@
 - chlorine
   - 发音
-    - 英 `/'klɔːriːn/`
-    - 美 `/'klɔrin/`
+    - 英
+      - `/'klɔːriːn/`
+    - 美
+      - `/'klɔrin/`
   - 词义
-    - n. 氯
-    - `a greenish-yellow gas with a strong smell that is used to keep the water in swimming pools clean. It is a chemical element: symbol Cl`
+    - n.
+      - 氯
+        - `a greenish-yellow gas with a strong smell that is used to keep the water in swimming pools clean. It is a chemical element: symbol Cl`
   - 同根词
     - n.
-      - `chlorination` 氯化作用，加氯消毒
-      - `chlorinity` [海洋] 氯度，含氯量
+      - `chlorination`
+        - 氯化作用，加氯消毒
+      - `chlorinity`
+        - [海洋] 氯度，含氯量
     - vt.
-      - `chlorinate` 用氯消毒；使氯化；使氯发生作用
+      - `chlorinate`
+        - 用氯消毒；使氯化；使氯发生作用
   - 近义词
-    - n. [化学]氯（17号化学元素）
-      - `Cl`
+    - n.
+      - [化学]氯（17号化学元素）
+        - `Cl`
   - 例句
     - `One of the products of this breakdown is the element chlorine.`
       - 这种分解过程的产物之一是元素氯。

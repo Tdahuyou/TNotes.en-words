@@ -1,32 +1,48 @@
 - nutritive
   - 发音
-    - 英 `/'njuːtrɪtɪv/`
-    - 美 `/'njʊtrətɪv/`
+    - 英
+      - `/'njuːtrɪtɪv/`
+    - 美
+      - `/'njʊtrətɪv/`
   - 词义
-    - adj. 营养的
-    - `relating to nutrition`
-    - n. 营养物
+    - adj.
+      - 营养的
+        - `relating to nutrition`
+    - n.
+      - 营养物
   - 同根词
     - adj.
-      - `nutrient` 营养的；滋养的
-      - `nutritious` 有营养的，滋养的
-      - `nutritional` 营养的；滋养的
+      - `nutrient`
+        - 营养的；滋养的
+      - `nutritious`
+        - 有营养的，滋养的
+      - `nutritional`
+        - 营养的；滋养的
     - adv.
-      - `nutritionally` 滋养地
+      - `nutritionally`
+        - 滋养地
     - n.
-      - `nutrient` 营养物；滋养物
-      - `nutrition` 营养，营养学；营养品
-      - `nutritionist` 营养学家
-      - `nutriment` 营养物；促进生长的东西
-      - `nutritiousness` 有营养成份
+      - `nutrient`
+        - 营养物；滋养物
+      - `nutrition`
+        - 营养，营养学；营养品
+      - `nutritionist`
+        - 营养学家
+      - `nutriment`
+        - 营养物；促进生长的东西
+      - `nutritiousness`
+        - 有营养成份
   - 近义词
-    - adj. 有营养的；滋养的；有营养成份的；与营养有关的
-      - `alible`
-      - `nourishing`
-    - n. 营养物
-      - `nurture`
+    - adj.
+      - 有营养的；滋养的；有营养成份的；与营养有关的
+        - `alible`
+        - `nourishing`
+    - n.
+      - 营养物
+        - `nurture`
   - 短语
-    - `nutritive value` 营养价值；营养值 
+    - `nutritive value`
+      - 营养价值；营养值 
   - 例句
     - `Coconut milk has little nutritive value.`
       - 椰子汁没什么营养价值。

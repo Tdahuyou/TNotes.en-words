@@ -1,16 +1,21 @@
 - prestigious
   - 发音
-    - 英 `/pre'stɪdʒəs/`
-    - 美 `/prɛ'stɪdʒəs/`
+    - 英
+      - `/pre'stɪdʒəs/`
+    - 美
+      - `/prɛ'stɪdʒəs/`
   - 词义
-    - adj. 享有声望的
-    - `admired as one of the best and most important`
+    - adj.
+      - 享有声望的
+        - `admired as one of the best and most important`
   - 同根词
     - n.
-      - `prestige` 威望，声望；声誉
+      - `prestige`
+        - 威望，声望；声誉
   - 近义词
-    - adj. 有名望的；享有声望的
-      - `celebrated`
+    - adj.
+      - 有名望的；享有声望的
+        - `celebrated`
   - 例句
     - `a prestigious literary award`
       - 享有盛名的文学奖

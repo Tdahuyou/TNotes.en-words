@@ -1,18 +1,24 @@
 - parabola
   - 发音
-    - 英 `/pə'ræb(ə)lə/`
-    - 美 `/pə'ræbələ/`
+    - 英
+      - `/pə'ræb(ə)lə/`
+    - 美
+      - `/pə'ræbələ/`
   - 词义
-    - n. [数]抛物线
-    - `a curve in the shape of the imaginary line an object makes when it is thrown high in the air and comes down a little distance away`
+    - n.
+      - [数]抛物线
+        - `a curve in the shape of the imaginary line an object makes when it is thrown high in the air and comes down a little distance away`
   - 同根词
     - adj.
-      - `parabolic` 抛物线的；比喻的；寓言的
+      - `parabolic`
+        - 抛物线的；比喻的；寓言的
     - n.
-      - `paraboloidal` 抛物面的；抛物线体
+      - `paraboloidal`
+        - 抛物面的；抛物线体
   - 近义词
-    - n. [数]抛物线
-      - `parabolic curve`
+    - n.
+      - [数]抛物线
+        - `parabolic curve`
   - 例句
     - `So, we should draw maybe this downward parabola.`
       - 我们可以画出这样的开口向下的抛物线。

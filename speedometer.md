@@ -1,22 +1,30 @@
 - speedometer
   - 发音
-    - 英 `/spiː'dɒmɪtə/`
-    - 美 `/'spi'dɑmɪtɚ/`
+    - 英
+      - `/spiː'dɒmɪtə/`
+    - 美
+      - `/'spi'dɑmɪtɚ/`
   - 词义
-    - n. 速度计；里程计
-    - `an instrument in a vehicle that shows how fast it is going`
+    - n.
+      - 速度计；里程计
+        - `an instrument in a vehicle that shows how fast it is going`
   - 同根词
     - n.
-      - `speed` 速度，速率；迅速，快速；昌盛，繁荣
-      - `speeder` 快速行动的人或物；调节速度装置
+      - `speed`
+        - 速度，速率；迅速，快速；昌盛，繁荣
+      - `speeder`
+        - 快速行动的人或物；调节速度装置
     - vi.
-      - `speed` 超速，加速；加速，迅速前行；兴隆
+      - `speed`
+        - 超速，加速；加速，迅速前行；兴隆
     - vt.
-      - `speed` 加快…的速度；使成功，使繁荣
+      - `speed`
+        - 加快…的速度；使成功，使繁荣
   - 近义词
-    - n. [仪]速度计；[车辆]里程计
-      - `velocimeter`
-      - `milemeter`
+    - n.
+      - [仪]速度计；[车辆]里程计
+        - `velocimeter`
+        - `milemeter`
   - 例句
     - `Sometimes the instruments are read-only, like your speedometer. `
       - 有些仪器是只读的，就像速度计一样；

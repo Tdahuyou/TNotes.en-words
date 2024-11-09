@@ -1,15 +1,23 @@
 - Yorkshire
   - 发音
-    - 英 `/'jɔrkʃə/`
-    - 美 `/'jɔrkʃɚ/`
+    - 英
+      - `/'jɔrkʃə/`
+    - 美
+      - `/'jɔrkʃɚ/`
   - 词义
-    - n. 约克郡,约克夏(英国英格兰原郡名)
+    - n.
+      - 约克郡,约克夏(英国英格兰原郡名)
   - 短语
-    - `yorkshire terrier` 约克郡犬 
-    - `yorkshire pudding` 约克郡布丁 
-    - `west yorkshire` 西约克郡（位于英国英格兰北部） 
-    - `south yorkshire` 南约克郡（英国苏格兰北部一个郡） 
-    - `north yorkshire` 北约克郡（英国一个地区） 
+    - `yorkshire terrier`
+      - 约克郡犬 
+    - `yorkshire pudding`
+      - 约克郡布丁 
+    - `west yorkshire`
+      - 西约克郡（位于英国英格兰北部） 
+    - `south yorkshire`
+      - 南约克郡（英国苏格兰北部一个郡） 
+    - `north yorkshire`
+      - 北约克郡（英国一个地区） 
   - 例句
     - `WL: I think, Yorkshire and the New Forest.`
       - 我想，是约克郡和新森林地区。

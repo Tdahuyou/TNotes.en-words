@@ -1,15 +1,21 @@
 - glutamate
   - 发音
-    - 英 `/'gluːtəmeɪt/`
-    - 美 `/'ɡlʊtə,met/`
+    - 英
+      - `/'gluːtəmeɪt/`
+    - 美
+      - `/'ɡlʊtə,met/`
   - 词义
-    - n. 谷氨酸；谷酸盐
+    - n.
+      - 谷氨酸；谷酸盐
   - 同根词
     - n.
-      - `glutamine` 谷氨酸盐
+      - `glutamine`
+        - 谷氨酸盐
   - 短语
-    - `monosodium glutamate` 味精（主要成分是谷氨酸一钠） 
-    - `sodium glutamate` 谷氨酸钠 
+    - `monosodium glutamate`
+      - 味精（主要成分是谷氨酸一钠） 
+    - `sodium glutamate`
+      - 谷氨酸钠 
   - 例句
     - `Another interesting feature is the low chloride content, for glutamate is the chief anion.`
       - 另一有趣的特点是氯化物含量低，而谷氨酸是主要的阴离子。

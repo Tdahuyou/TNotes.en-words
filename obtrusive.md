@@ -1,20 +1,25 @@
 - obtrusive
   - 发音
-    - 英 `/əb'truːsiv/`
-    - 美 `/əb'trusɪv/`
+    - 英
+      - `/əb'truːsiv/`
+    - 美
+      - `/əb'trusɪv/`
   - 词义
-    - adj. 突出的；强迫的；引人注意的
+    - adj.
+      - 突出的；强迫的；引人注意的
   - 记忆
     - 来自obtru (de) (挤出) + sive → 从门缝里挤出来 → 引人注意的
   - 同根词
     - adv.
-      - `obtrusively` 冒失地；莽撞地
+      - `obtrusively`
+        - 冒失地；莽撞地
   - 近义词
-    - adj. 突出的；强迫人的；冒失的
-      - `prominent`
-      - `pointed`
-      - `highlighted`
-      - `striking`
+    - adj.
+      - 突出的；强迫人的；冒失的
+        - `prominent`
+        - `pointed`
+        - `highlighted`
+        - `striking`
   - 例句
     - `obtrusive TV antennas`
       - 碍眼的电视天线

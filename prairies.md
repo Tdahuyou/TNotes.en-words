@@ -1,19 +1,25 @@
 - prairies
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 大草原
-    - `A prairie is a large area of flat, grassy land in North America. Prairies have very few trees. `
+    - n.
+      - 大草原
+        - `A prairie is a large area of flat, grassy land in North America. Prairies have very few trees. `
   - 记忆
     - pr + air(空气) + ie → 大草原上空气好 → 大草原
   - 近义词
-    - n. （美）大草原（prairie的复数）
-      - `llanos`
-      - `grasslands`
+    - n.
+      - （美）大草原（prairie的复数）
+        - `llanos`
+        - `grasslands`
   - 短语
-    - `prairie fire` 草原火灾；星火燎原 
-    - `prairie dog` [动]北美的草原土拨鼠 
+    - `prairie fire`
+      - 草原火灾；星火燎原 
+    - `prairie dog`
+      - [动]北美的草原土拨鼠 
   - 例句
     - `He  has  transformed woodlands and prairies into farms and made lakes and reserviors out of rivers for irrigation purposes or hydroelectric power.`
       - 他将林地和草原改造成为农田，使江河变成湖泊和水库，用于灌溉或用于水力发电。

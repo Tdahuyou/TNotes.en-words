@@ -1,57 +1,85 @@
 - outward
   - 发音
-    - 英 `/'aʊtwəd/`
-    - 美 `/'aʊtwɚd/`
+    - 英
+      - `/'aʊtwəd/`
+    - 美
+      - `/'aʊtwɚd/`
   - 词义
-    - adj. 外表(面)的
-    - `relating to how a person or situation seems to be, rather than how it really is`
-    - adv. 向外
-    - `If something moves or faces outward, it moves or faces away from the place you are in or the place you are talking about`
+    - adj.
+      - 外表(面)的
+        - `relating to how a person or situation seems to be, rather than how it really is`
+    - adv.
+      - 向外
+        - `If something moves or faces outward, it moves or faces away from the place you are in or the place you are talking about`
   - 同根词
     - adj.
-      - `out` 外面的；出局的；下台的
-      - `outer` 外面的，外部的；远离中心的
-      - `outing` 远足适用的
-      - `outermost` 最外面的；最远的
-      - `outmost` 最远的；最外面的；最高头的
-    - adv.
-      - `out` 出现；在外；出局；出声地；不流行地
-      - `outwardly` 表面上；向外；外观上地
-      - `outwards` 向外地
-    - n.
-      - `out` 出局
-      - `outer` 环外命中
-      - `outing` 远足；短途旅游；体育比赛
-      - `outness` 外在性，客观存在性
-      - `outwardness` 客观性；客观的存在
-    - prep.
-      - `out` 向；离去
-    - v.
-      - `outing` 出来；暴露（out的ing形式）
-    - vi.
-      - `out` 出来；暴露
-    - vt.
-      - `out` 使熄灭；驱逐
-  - 近义词
-    - adj. 向外的；外面的；公开的；外服的；肉体的
-      - `outer`
-      - `outside`
-      - `external`
-      - `material`
-      - `open`
-    - adv. 向外（等于outwards）；在外；显而易见地
-      - `forth`
       - `out`
-    - n. 外表；外面；物质世界
-      - `person`
-      - `external`
-      - `garment`
-      - `without`
+        - 外面的；出局的；下台的
+      - `outer`
+        - 外面的，外部的；远离中心的
+      - `outing`
+        - 远足适用的
+      - `outermost`
+        - 最外面的；最远的
+      - `outmost`
+        - 最远的；最外面的；最高头的
+    - adv.
+      - `out`
+        - 出现；在外；出局；出声地；不流行地
+      - `outwardly`
+        - 表面上；向外；外观上地
+      - `outwards`
+        - 向外地
+    - n.
+      - `out`
+        - 出局
+      - `outer`
+        - 环外命中
+      - `outing`
+        - 远足；短途旅游；体育比赛
+      - `outness`
+        - 外在性，客观存在性
+      - `outwardness`
+        - 客观性；客观的存在
+    - prep.
+      - `out`
+        - 向；离去
+    - v.
+      - `outing`
+        - 出来；暴露（out的ing形式）
+    - vi.
+      - `out`
+        - 出来；暴露
+    - vt.
+      - `out`
+        - 使熄灭；驱逐
+  - 近义词
+    - adj.
+      - 向外的；外面的；公开的；外服的；肉体的
+        - `outer`
+        - `outside`
+        - `external`
+        - `material`
+        - `open`
+    - adv.
+      - 向外（等于outwards）；在外；显而易见地
+        - `forth`
+        - `out`
+    - n.
+      - 外表；外面；物质世界
+        - `person`
+        - `external`
+        - `garment`
+        - `without`
   - 短语
-    - `outward appearance` 外观；外表 
-    - `outward processing` 外发加工 
-    - `outward remittance` [经]汇出汇款 
-    - `outward journey` 单程旅行；国外旅行；出航 
+    - `outward appearance`
+      - 外观；外表 
+    - `outward processing`
+      - 外发加工 
+    - `outward remittance`
+      - [经]汇出汇款 
+    - `outward journey`
+      - 单程旅行；国外旅行；出航 
   - 例句
     - `The economy and outward appearance of the area have changed considerably.`
       - 该地区的经济和面貌发生了很大的变化。

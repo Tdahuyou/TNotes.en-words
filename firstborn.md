@@ -1,18 +1,24 @@
 - firstborn
   - 发音
-    - 英 `/'fɜːstbɔːn/`
-    - 美 `/'fɝstbɔrn/`
+    - 英
+      - `/'fɜːstbɔːn/`
+    - 美
+      - `/'fɝstbɔrn/`
   - 词义
-    - n. 长子；初生儿；长女
-    - `Someone's firstborn is their first child`
-    - adj. 头生的；第一胎生的
+    - n.
+      - 长子；初生儿；长女
+        - `Someone's firstborn is their first child`
+    - adj.
+      - 头生的；第一胎生的
   - 同根词
     - adv.
-      - `firstly` 首先（主要用于列举条目、论点时）；第一
+      - `firstly`
+        - 首先（主要用于列举条目、论点时）；第一
   - 近义词
-    - n. 长子；初生儿；长女
-      - `eldest son`
-      - `eldest daughter`
+    - n.
+      - 长子；初生儿；长女
+        - `eldest son`
+        - `eldest daughter`
   - 例句
     - `She was my firstborn.`
       - 她是我的长女。

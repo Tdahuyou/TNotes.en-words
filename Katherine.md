@@ -1,9 +1,12 @@
 - Katherine
   - 发音
-    - 英 `/'kæθərin/`
-    - 美 `/undefined/`
+    - 英
+      - `/'kæθərin/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 凯瑟琳（女子名）
+    - n.
+      - 凯瑟琳（女子名）
   - 例句
     - `She chummed around with Katherine.`
       - 她与凯瑟琳结为密友。

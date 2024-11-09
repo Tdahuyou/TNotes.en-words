@@ -1,16 +1,21 @@
 - legume
   - 发音
-    - 英 `/'legjuːm/`
-    - 美 `/'lɛgjʊm/`
+    - 英
+      - `/'legjuːm/`
+    - 美
+      - `/'lɛgjʊm/`
   - 词义
-    - n. 豆类,豆荚
+    - n.
+      - 豆类,豆荚
   - 同根词
     - adj.
-      - `leguminous` 豆科的
+      - `leguminous`
+        - 豆科的
   - 近义词
-    - n. 豆类；[作物]豆科植物；豆荚
-      - `leguminous plant`
-      - `peapod`
+    - n.
+      - 豆类；[作物]豆科植物；豆荚
+        - `leguminous plant`
+        - `peapod`
   - 例句
     - `We never think of this legume unless it's in our soup.`
       - 我们从想不到这种豆类，除非它们放在汤里。

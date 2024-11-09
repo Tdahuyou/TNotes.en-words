@@ -1,14 +1,18 @@
 - scabbard
   - 发音
-    - 英 `/'skæbəd/`
-    - 美 `/'skæbɚd/`
+    - 英
+      - `/'skæbəd/`
+    - 美
+      - `/'skæbɚd/`
   - 词义
-    - n. 鞘
-    - `a metal or leather cover for the blade of a sword`
+    - n.
+      - 鞘
+        - `a metal or leather cover for the blade of a sword`
   - 近义词
-    - n. 鞘；[军]枪套
-      - `sheath`
-      - `vaginae`
+    - n.
+      - 鞘；[军]枪套
+        - `sheath`
+        - `vaginae`
   - 例句
     - `David ran and stood over him. He took hold of the Philistine's sword and drew it from the scabbard.`
       - 大卫跑去，站在非利士人身旁，将他的刀从鞘中拔出来，杀死他，割了他的头。

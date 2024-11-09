@@ -1,13 +1,18 @@
 - facilitator
   - 发音
-    - 英 `/fə'sɪlɪteɪtə/`
-    - 美 `/fə'siliteitə/`
+    - 英
+      - `/fə'sɪlɪteɪtə/`
+    - 美
+      - `/fə'siliteitə/`
   - 词义
-    - n. 促进者，推动者
+    - n.
+      - 促进者，推动者
   - 同根词
     - vt.
-      - `facilitate` 促进；帮助；使容易
+      - `facilitate`
+        - 促进；帮助；使容易
   - 近义词
-    - n. 服务商；促进者
-      - `promoter`
-      - `forwarder`
+    - n.
+      - 服务商；促进者
+        - `promoter`
+        - `forwarder`

@@ -1,10 +1,13 @@
 - electroscope
   - 发音
-    - 英 `/i'lektrəskəup/`
-    - 美 `/ɪ'lɛktrə,skop/`
+    - 英
+      - `/i'lektrəskəup/`
+    - 美
+      - `/ɪ'lɛktrə,skop/`
   - 词义
-    - n. 验电器
-    - `an apparatus for detecting an electric charge, typically consisting of a rod holding two gold foils that separate when a charge is applied `
+    - n.
+      - 验电器
+        - `an apparatus for detecting an electric charge, typically consisting of a rod holding two gold foils that separate when a charge is applied `
   - 例句
     - `Her electroscope was a metal case with two holes in its side.`
       - 她的验电器是一个金属盒子，旁边有两个小孔。

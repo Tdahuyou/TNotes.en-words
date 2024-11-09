@@ -1,21 +1,28 @@
 - adulation
   - 发音
-    - 英 `/ˌædʒə'leɪʃn/`
-    - 美 `/,ædʒə'leʃən/`
+    - 英
+      - `/ˌædʒə'leɪʃn/`
+    - 美
+      - `/,ædʒə'leʃən/`
   - 词义
-    - n. 奉承，谄媚
-    - `praise and admiration for someone that is more than they really deserve`
+    - n.
+      - 奉承，谄媚
+        - `praise and admiration for someone that is more than they really deserve`
   - 同根词
     - adj.
-      - `adulatory` 阿谀的，奉承的；谄媚的
+      - `adulatory`
+        - 阿谀的，奉承的；谄媚的
     - n.
-      - `adulator` 好奉迎者
+      - `adulator`
+        - 好奉迎者
     - vt.
-      - `adulate` 过分称赞；谄媚；奉承
+      - `adulate`
+        - 过分称赞；谄媚；奉承
   - 近义词
-    - n. 奉承；谄媚
-      - `court`
-      - `flattery`
+    - n.
+      - 奉承；谄媚
+        - `court`
+        - `flattery`
   - 例句
     - `He basks in other people's adulation.`
       - 他陶醉在别人的奉承中。

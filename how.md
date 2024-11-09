@@ -1,27 +1,38 @@
 - how
   - 发音
-    - 英 `/haʊ/`
-    - 美 `/haʊ/`
+    - 英
+      - `/haʊ/`
+    - 美
+      - `/haʊ/`
   - 词义
-    - adv. 怎样，如何
-    - `used to ask or talk about the way in which something happens or is done`
+    - adv.
+      - 怎样，如何
+        - `used to ask or talk about the way in which something happens or is done`
   - 近义词
-    - adv. 如何；多少；多么
-      - `somewhat`
-    - n. 方法；方式
-      - `way of`
-      - `manner`
-      - `method`
-      - `mode`
-      - `approach`
-      - `system`
+    - adv.
+      - 如何；多少；多么
+        - `somewhat`
+    - n.
+      - 方法；方式
+        - `way of`
+        - `manner`
+        - `method`
+        - `mode`
+        - `approach`
+        - `system`
   - 短语
-    - `and how` 正确；（美）非常 
-    - `how do` 如何做 
-    - `how to do` 如何做；怎样做 
-    - `how do i` 如何；怎么办；如何做 
-    - `how do you do` 你好 
-    - `how so` 为何如此？ 
+    - `and how`
+      - 正确；（美）非常 
+    - `how do`
+      - 如何做 
+    - `how to do`
+      - 如何做；怎样做 
+    - `how do i`
+      - 如何；怎么办；如何做 
+    - `how do you do`
+      - 你好 
+    - `how so`
+      - 为何如此？ 
   - 例句
     - `How do you spell your name?`
       - 你的名字怎么拼写？

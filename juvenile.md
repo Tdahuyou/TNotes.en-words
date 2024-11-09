@@ -1,30 +1,42 @@
 - juvenile
   - 发音
-    - 英 `/'dʒuːvənl/`
-    - 美 `/'dʒʊvənaɪl/`
+    - 英
+      - `/'dʒuːvənl/`
+    - 美
+      - `/'dʒʊvənaɪl/`
   - 词义
-    - adj. 幼稚的，不成熟的；少年的，未成年的
-    - `law relating to young people who are not yet adults`
-    - n. 幼体；未成年人，少年
-    - `A juvenile is a child or young person who is not yet old enough to be regarded as an adult`
+    - adj.
+      - 幼稚的，不成熟的；少年的，未成年的
+        - `law relating to young people who are not yet adults`
+    - n.
+      - 幼体；未成年人，少年
+        - `A juvenile is a child or young person who is not yet old enough to be regarded as an adult`
   - 记忆
     - juven(年轻的) + ile → 幼稚的
   - 同根词
     - n.
-      - `juvenescence` 返老还童；少年时期
+      - `juvenescence`
+        - 返老还童；少年时期
   - 近义词
-    - adj. 青少年的；幼稚的
-      - `tender`
-      - `teen-age`
-    - n. 青少年；少年读物
-      - `youths`
-      - `teener`
+    - adj.
+      - 青少年的；幼稚的
+        - `tender`
+        - `teen-age`
+    - n.
+      - 青少年；少年读物
+        - `youths`
+        - `teener`
   - 短语
-    - `juvenile delinquency` 少年违法犯罪 
-    - `juvenile court` n. 少年法庭 
-    - `juvenile diabetes` 青少年糖尿病；幼年型糖尿病 
-    - `juvenile hormone` 保幼激素 
-    - `juvenile delinquent` 少年犯 
+    - `juvenile delinquency`
+      - 少年违法犯罪 
+    - `juvenile court`
+      - n. 少年法庭 
+    - `juvenile diabetes`
+      - 青少年糖尿病；幼年型糖尿病 
+    - `juvenile hormone`
+      - 保幼激素 
+    - `juvenile delinquent`
+      - 少年犯 
   - 例句
     - `juvenile crime`
       - 少年犯罪

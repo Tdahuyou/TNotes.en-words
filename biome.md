@@ -1,16 +1,22 @@
 - biome
   - 发音
-    - 英 `/'baɪəʊm/`
-    - 美 `/'baɪom/`
+    - 英
+      - `/'baɪəʊm/`
+    - 美
+      - `/'baɪom/`
   - 词义
-    - n. (生态)生物群系
-    - `a type of environment that is described according to the typical weather conditions and plants that exist there`
+    - n.
+      - (生态)生物群系
+        - `a type of environment that is described according to the typical weather conditions and plants that exist there`
   - 同根词
     - adj.
-      - `biomedical` 生物医学的
+      - `biomedical`
+        - 生物医学的
     - n.
-      - `biometrics` [生物] 生物统计学；[生物] 生物测定学；寿命统计
-      - `biometry` 寿命测定（等于biometrics）；生物统计学
+      - `biometrics`
+        - [生物] 生物统计学；[生物] 生物测定学；寿命统计
+      - `biometry`
+        - 寿命测定（等于biometrics）；生物统计学
   - 例句
     - `Covering parts of Bolivia, Paraguay and Argentina, it is a mix of forest, palm woodland, shrubby steppe, and swamp. It is the second largest biome in South America after Amazonia.`
       - 该地区横跨玻利维亚、巴拉圭和阿根廷等三个国家，森林、棕榈林地、灌木草原和沼泽相互交错，生物群落规模在南美仅次于亚马逊。

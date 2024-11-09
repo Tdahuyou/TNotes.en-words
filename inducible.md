@@ -1,12 +1,16 @@
 - inducible
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - adj. 可诱导的,可导致的
+    - adj.
+      - 可诱导的,可导致的
   - 近义词
-    - adj. 可诱导的；可导致的
-      - `derivable`
+    - adj.
+      - 可诱导的；可导致的
+        - `derivable`
   - 例句
     - `In addition, plants have also evolved an adaptive inducible resistance mechanism in response to pathogen invasion.`
       - 同时，植物还形成了一套适应性更广的可诱导的抗病机制。

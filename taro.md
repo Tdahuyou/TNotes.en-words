@@ -1,16 +1,21 @@
 - taro
   - 发音
-    - 英 `/'tɑːrəʊ; 'tærəʊ/`
-    - 美 `/'tærəʊ/`
+    - 英
+      - `/'tɑːrəʊ; 'tærəʊ/`
+    - 美
+      - `/'tærəʊ/`
   - 词义
-    - n. 芋头
-    - `a tropical plant grown for its thick root, which is boiled and eaten`
+    - n.
+      - 芋头
+        - `a tropical plant grown for its thick root, which is boiled and eaten`
   - 近义词
-    - n. 芋头，[园艺]芋艿
-      - `Chinese eddo`
-      - `dasheen`
+    - n.
+      - 芋头，[园艺]芋艿
+        - `Chinese eddo`
+        - `dasheen`
   - 短语
-    - `taro aso` 麻生太郎（日本第92任内阁总理大臣） 
+    - `taro aso`
+      - 麻生太郎（日本第92任内阁总理大臣） 
   - 例句
     - `According to Deng, Japan imports taro from Chenzhou because of its high quality.`
       - 通过海港，日本也因为芋头的质量高，于是从郴州中进口。

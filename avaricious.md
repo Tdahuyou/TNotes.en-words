@@ -1,21 +1,27 @@
 - avaricious
   - 发音
-    - 英 `/ˌævə'rɪʃəs/`
-    - 美 `/,ævə'rɪʃəs/`
+    - 英
+      - `/ˌævə'rɪʃəs/`
+    - 美
+      - `/,ævə'rɪʃəs/`
   - 词义
-    - adj. 贪婪的，贪心的
-    - `An avaricious person is very greedy for money or possessions`
+    - adj.
+      - 贪婪的，贪心的
+        - `An avaricious person is very greedy for money or possessions`
   - 记忆
     - 来自avarice(n. 贪婪， 贪心)
   - 同根词
     - adv.
-      - `avariciously` 贪婪地
+      - `avariciously`
+        - 贪婪地
     - n.
-      - `avarice` 贪婪，贪财
+      - `avarice`
+        - 贪婪，贪财
   - 近义词
-    - adj. 贪婪的；贪得无厌的
-      - `greedy`
-      - `grasping`
+    - adj.
+      - 贪婪的；贪得无厌的
+        - `greedy`
+        - `grasping`
   - 例句
     - `He sacrificed his own career so that his avaricious brother could succeed.`
       - 他牺牲了自己的事业，其目的是让他贪婪的弟弟成功。

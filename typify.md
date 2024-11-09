@@ -1,23 +1,32 @@
 - typify
   - 发音
-    - 英 `/'tɪpɪfaɪ/`
-    - 美 `/'tɪpɪfaɪ/`
+    - 英
+      - `/'tɪpɪfaɪ/`
+    - 美
+      - `/'tɪpɪfaɪ/`
   - 词义
-    - vt. 是…的典范；成为…的特征
-    - `to be a typical example of something`
+    - vt.
+      - 是…的典范；成为…的特征
+        - `to be a typical example of something`
   - 同根词
     - adj.
-      - `typical` 典型的；特有的；象征性的
-      - `typic` 典型的；正规的；象征性的
+      - `typical`
+        - 典型的；特有的；象征性的
+      - `typic`
+        - 典型的；正规的；象征性的
     - adv.
-      - `typically` 代表性地；作为特色地
+      - `typically`
+        - 代表性地；作为特色地
     - n.
-      - `typicality` 典型性
-      - `typification` 典型化；代表；象征
+      - `typicality`
+        - 典型性
+      - `typification`
+        - 典型化；代表；象征
   - 近义词
-    - vt. 代表；作为…的典型；具有…的特点
-      - `to stand for`
-      - `represent for`
+    - vt.
+      - 代表；作为…的典型；具有…的特点
+        - `to stand for`
+        - `represent for`
   - 例句
     - `the features which typify a Scottish Highland landscape`
       - 苏格兰高地典型的地貌特征

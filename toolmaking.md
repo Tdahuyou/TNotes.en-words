@@ -1,9 +1,12 @@
 - toolmaking
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 工具(或刀具)制造,机床维修
+    - n.
+      - 工具(或刀具)制造,机床维修
   - 例句
     - `If a physical change like that led to better toolmaking, then its owner would have survived better.`
       - 如果这样的身体变化导致更好的工具制造，那么变化的拥有者能够更好地存活下来。

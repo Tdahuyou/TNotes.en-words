@@ -1,19 +1,24 @@
 - prestige
   - 发音
-    - 英 `/pre'stiːʒ/`
-    - 美 `/prɛ'stidʒ/`
+    - 英
+      - `/pre'stiːʒ/`
+    - 美
+      - `/prɛ'stidʒ/`
   - 词义
-    - n. 威望；声望
-    - `the respect and admiration that someone or something gets because of their success or important position in society`
+    - n.
+      - 威望；声望
+        - `the respect and admiration that someone or something gets because of their success or important position in society`
   - 记忆
     - pres(看做president， 总统) + tige(看做tiger， 老虎) → 总统和老虎两者都是有威望的 → 威望
   - 同根词
     - adj.
-      - `prestigious` 有名望的；享有声望的
+      - `prestigious`
+        - 有名望的；享有声望的
   - 近义词
-    - n. 威望，声望；声誉
-      - `reputation`
-      - `credit`
+    - n.
+      - 威望，声望；声誉
+        - `reputation`
+        - `credit`
   - 例句
     - `The king wanted to enhance his prestige through war.`
       - 国王想通过战争来提高自己的威信。

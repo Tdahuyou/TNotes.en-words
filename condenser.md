@@ -1,35 +1,53 @@
 - condenser
   - 发音
-    - 英 `/kən'densə/`
-    - 美 `/kən'dɛnsɚ/`
+    - 英
+      - `/kən'densə/`
+    - 美
+      - `/kən'dɛnsɚ/`
   - 词义
-    - n. 冷凝器,电容器
-    - `a piece of equipment that changes a gas into a liquid`
+    - n.
+      - 冷凝器,电容器
+        - `a piece of equipment that changes a gas into a liquid`
   - 同根词
     - adj.
-      - `condensate` 浓缩的
+      - `condensate`
+        - 浓缩的
     - n.
-      - `condensation` 冷凝；凝结；压缩
-      - `condensate` 冷凝物；浓缩物
-      - `condensing` 冷凝
+      - `condensation`
+        - 冷凝；凝结；压缩
+      - `condensate`
+        - 冷凝物；浓缩物
+      - `condensing`
+        - 冷凝
     - v.
-      - `condensing` 冷凝；压缩（condense的ing形式）
+      - `condensing`
+        - 冷凝；压缩（condense的ing形式）
     - vi.
-      - `condense` 浓缩；凝结
+      - `condense`
+        - 浓缩；凝结
     - vt.
-      - `condense` 使浓缩；使压缩
+      - `condense`
+        - 使浓缩；使压缩
   - 近义词
-    - n. 冷凝器；[电]电容器；[光]聚光器
-      - `capacitor`
-      - `condensing apparatus`
+    - n.
+      - 冷凝器；[电]电容器；[光]聚光器
+        - `capacitor`
+        - `condensing apparatus`
   - 短语
-    - `evaporative condenser` 蒸发冷凝器 
-    - `condenser tube` 冷凝器管；凝结管 
-    - `condenser microphone` 电容式传声器 
-    - `steam condenser` 蒸汽冷凝器 
-    - `ammonia condenser` 氨气冷凝器 
-    - `condenser pipe` 冷凝管 
-    - `reflux condenser` 回流冷凝器；回龄凝器 
+    - `evaporative condenser`
+      - 蒸发冷凝器 
+    - `condenser tube`
+      - 冷凝器管；凝结管 
+    - `condenser microphone`
+      - 电容式传声器 
+    - `steam condenser`
+      - 蒸汽冷凝器 
+    - `ammonia condenser`
+      - 氨气冷凝器 
+    - `condenser pipe`
+      - 冷凝管 
+    - `reflux condenser`
+      - 回流冷凝器；回龄凝器 
   - 例句
     - `You take that gas phase mixture, and you condense it in your condenser.`
       - 然后用这新得到的气相混合物，在冷凝器中冷凝。

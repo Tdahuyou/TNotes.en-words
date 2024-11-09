@@ -1,25 +1,36 @@
 - simultaneously
   - 发音
-    - 英 `/,sɪml'teɪnɪəslɪ/`
-    - 美 `/saɪməl'tenɪəsli/`
+    - 英
+      - `/,sɪml'teɪnɪəslɪ/`
+    - 美
+      - `/saɪməl'tenɪəsli/`
   - 词义
-    - adv. 同时地
+    - adv.
+      - 同时地
   - 同根词
     - adj.
-      - `simultaneous` 同时的；联立的；同时发生的
+      - `simultaneous`
+        - 同时的；联立的；同时发生的
     - n.
-      - `simultaneous` 同时译员
-      - `simultaneity` 同时；[计][力] 同时性；同时发生
-      - `simulcast` 同时联播
-      - `simultaneousness` 同时性
+      - `simultaneous`
+        - 同时译员
+      - `simultaneity`
+        - 同时；[计][力] 同时性；同时发生
+      - `simulcast`
+        - 同时联播
+      - `simultaneousness`
+        - 同时性
     - v.
-      - `simulcast` 同时联播
+      - `simulcast`
+        - 同时联播
   - 近义词
-    - adv. 同时地
-      - `contemporaneously`
-      - `synchronously`
+    - adv.
+      - 同时地
+        - `contemporaneously`
+        - `synchronously`
   - 短语
-    - `develop simultaneously` 并举 
+    - `develop simultaneously`
+      - 并举 
   - 例句
     - `The image below is an example of showing an image and some text simultaneously.`
       - 下面的图像是同时显示图像和一些文本的示例。

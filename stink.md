@@ -1,32 +1,47 @@
 - stink
   - 发音
-    - 英 `/stɪŋk/`
-    - 美 `/stɪŋk/`
+    - 英
+      - `/stɪŋk/`
+    - 美
+      - `/stɪŋk/`
   - 词义
-    - n. 臭味；讨厌的人
-    - `a very bad smell`
-    - v. 发出臭味；招人讨厌
-    - `To stink means to smell very bad`
+    - n.
+      - 臭味；讨厌的人
+        - `a very bad smell`
+    - v.
+      - 发出臭味；招人讨厌
+        - `To stink means to smell very bad`
   - 同根词
     - adj.
-      - `stinky` 发恶臭的
-      - `stinking` 发恶臭的；非常讨厌的；烂醉如泥的
+      - `stinky`
+        - 发恶臭的
+      - `stinking`
+        - 发恶臭的；非常讨厌的；烂醉如泥的
     - n.
-      - `stinky` 全景雷达；环视雷达站
-      - `stinker` 发恶臭之人，臭鬼
-      - `stinkweed` 发出臭味的植物
+      - `stinky`
+        - 全景雷达；环视雷达站
+      - `stinker`
+        - 发恶臭之人，臭鬼
+      - `stinkweed`
+        - 发出臭味的植物
     - v.
-      - `stinking` 散发出恶臭；名声臭（stink的现在分词）
+      - `stinking`
+        - 散发出恶臭；名声臭（stink的现在分词）
   - 近义词
-    - n. [环境]臭味；讨厌的人
-      - `smell`
-      - `nuisance`
-    - vi. 发出臭味；招人讨厌
-      - `funk`
+    - n.
+      - [环境]臭味；讨厌的人
+        - `smell`
+        - `nuisance`
+    - vi.
+      - 发出臭味；招人讨厌
+        - `funk`
   - 短语
-    - `stink of something` ◎散发某种气味 
-    - `stink of` 发恶臭；散发出…的气味；[口]含有…的迹象（尤指不良的） 
-    - `like stink` [俚语]飞快地；拼命地 
+    - `stink of something`
+      - ◎散发某种气味 
+    - `stink of`
+      - 发恶臭；散发出…的气味；[口]含有…的迹象（尤指不良的） 
+    - `like stink`
+      - [俚语]飞快地；拼命地 
   - 例句
     - `He was aware of the stink of stale beer on his breath.`
       - 他注意到自己有变味啤酒般的口臭。

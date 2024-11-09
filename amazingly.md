@@ -1,24 +1,34 @@
 - amazingly
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - adv. 惊奇地,惊人地
+    - adv.
+      - 惊奇地,惊人地
   - 同根词
     - adj.
-      - `amazing` 令人惊异的
-      - `amazed` 惊奇的，吃惊的
+      - `amazing`
+        - 令人惊异的
+      - `amazed`
+        - 惊奇的，吃惊的
     - n.
-      - `amazement` 惊异；惊愕
+      - `amazement`
+        - 惊异；惊愕
     - v.
-      - `amazing` 使吃惊（amaze的ing形式）
-      - `amazed` 使…吃惊；把…弄糊涂（amaze的过去分词）
+      - `amazing`
+        - 使吃惊（amaze的ing形式）
+      - `amazed`
+        - 使…吃惊；把…弄糊涂（amaze的过去分词）
     - vt.
-      - `amaze` 使吃惊
+      - `amaze`
+        - 使吃惊
   - 近义词
-    - adv. 令人惊讶地；惊奇地
-      - `astonishingly`
-      - `marvelously`
+    - adv.
+      - 令人惊讶地；惊奇地
+        - `astonishingly`
+        - `marvelously`
   - 例句
     - `Even those passengers who were most distrustful of themselves pluck up amazingly.`
       - 甚至那些对自己最缺乏信心的乘客也令人惊奇地鼓起了勇气。

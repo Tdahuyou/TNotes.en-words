@@ -1,19 +1,28 @@
 - chronologically
   - 发音
-    - 英 `/krɔnə'lɔdʒikli/`
-    - 美 `/krɔnə'lɔdʒikli/`
+    - 英
+      - `/krɔnə'lɔdʒikli/`
+    - 美
+      - `/krɔnə'lɔdʒikli/`
   - 词义
-    - adj. 按年代的
+    - adj.
+      - 按年代的
   - 同根词
     - adj.
-      - `chronological` 按年代顺序排列的；依时间前后排列而记载的
+      - `chronological`
+        - 按年代顺序排列的；依时间前后排列而记载的
     - n.
-      - `chronicle` 编年史，年代记；记录
-      - `chronology` 年表；年代学
-      - `chronicler` 记录者；年代史编者
+      - `chronicle`
+        - 编年史，年代记；记录
+      - `chronology`
+        - 年表；年代学
+      - `chronicler`
+        - 记录者；年代史编者
     - vt.
-      - `chronicle` 记录；把…载入编年史
-      - `chronologize` [统计] 按年代排列；作年表
+      - `chronicle`
+        - 记录；把…载入编年史
+      - `chronologize`
+        - [统计] 按年代排列；作年表
   - 例句
     - `Arranged chronologically, it begins with the novel’s primordial period — everything up to 1800 — and then marches century by century into the present.`
       - 按年代排列，它开始于小说的产生时期--一切回溯到1800年--然后一个世纪一个世界的进行到现在。

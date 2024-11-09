@@ -1,15 +1,20 @@
 - funicular
   - 发音
-    - 英 `/fjʊ'nɪkjʊlə; fə'nɪk-/`
-    - 美 `/fjʊ'nɪkjəlɚ/`
+    - 英
+      - `/fjʊ'nɪkjʊlə; fə'nɪk-/`
+    - 美
+      - `/fjʊ'nɪkjəlɚ/`
   - 词义
-    - n. 索道缆车
-    - `a small railway that carries people up and down a steep hill or mountain, pulled by a thick metal rope`
-    - adj. 索状的；纤维的
+    - n.
+      - 索道缆车
+        - `a small railway that carries people up and down a steep hill or mountain, pulled by a thick metal rope`
+    - adj.
+      - 索状的；纤维的
   - 近义词
-    - adj. [解剖]索状的；纤维的
-      - `fibrous`
-      - `stringy`
+    - adj.
+      - [解剖]索状的；纤维的
+        - `fibrous`
+        - `stringy`
   - 例句
     - `Later I take the funicular train, with its outstanding panoramic views.`
       - 后来我乘缆车观赏了全景式的景观。

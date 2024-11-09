@@ -1,20 +1,25 @@
 - thrall
   - 发音
-    - 英 `/θrɔːl/`
-    - 美 `/θrɔl/`
+    - 英
+      - `/θrɔːl/`
+    - 美
+      - `/θrɔl/`
   - 词义
-    - n. 奴隶；束缚；奴役
-    - `If you say that someone is in thrall to a person or thing, you mean that they are completely in their power or are greatly influenced by them`
+    - n.
+      - 奴隶；束缚；奴役
+        - `If you say that someone is in thrall to a person or thing, you mean that they are completely in their power or are greatly influenced by them`
   - 记忆
     - thr (看作throw， 扔) + all (一切) → 抛弃一切束缚
   - 同根词
     - n.
-      - `thralldom` 束缚；奴役；奴隶的身分
+      - `thralldom`
+        - 束缚；奴役；奴隶的身分
   - 近义词
-    - n. 奴隶；束缚
-      - `chain`
-      - `restriction`
-      - `slave`
+    - n.
+      - 奴隶；束缚
+        - `chain`
+        - `restriction`
+        - `slave`
   - 例句
     - `He is not in thrall to the media.`
       - 他不受制于媒体。

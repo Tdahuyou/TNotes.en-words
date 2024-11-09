@@ -1,29 +1,38 @@
 - tramp
   - 发音
-    - 英 `/træmp/`
-    - 美 `/træmp/`
+    - 英
+      - `/træmp/`
+    - 美
+      - `/træmp/`
   - 词义
-    - n. 流浪汉；行乞者
-    - `someone who has no home or job and moves from place to place, often asking for food or money`
+    - n.
+      - 流浪汉；行乞者
+        - `someone who has no home or job and moves from place to place, often asking for food or money`
   - 记忆
     - 流浪者(tramp)随处扎营(camp)
   - 同根词
     - n.
-      - `trampling` 践踏；踩踏
+      - `trampling`
+        - 践踏；踩踏
     - v.
-      - `trampling` 蹂躏（trample的ing形式）
+      - `trampling`
+        - 蹂躏（trample的ing形式）
   - 近义词
-    - vi. 流浪；践踏，踩；脚步沉重地行走
-      - `step`
-      - `vagabondize`
-    - n. 流浪者；沉重的脚步声；徒步旅行
-      - `Vagabonds`
-      - `Nads`
-    - vt. 践踏，踩；走过
-      - `ride down`
-      - `tread on sth`
+    - vi.
+      - 流浪；践踏，踩；脚步沉重地行走
+        - `step`
+        - `vagabondize`
+    - n.
+      - 流浪者；沉重的脚步声；徒步旅行
+        - `Vagabonds`
+        - `Nads`
+    - vt.
+      - 践踏，踩；走过
+        - `ride down`
+        - `tread on sth`
   - 短语
-    - `on the tramp` 走江湖，跑码头；漂泊着 
+    - `on the tramp`
+      - 走江湖，跑码头；漂泊着 
   - 例句
     - `I met a tramp and gave him some money on my way home.`
       - 我回家的路上碰到了一个流浪汉并给了他一些钱。

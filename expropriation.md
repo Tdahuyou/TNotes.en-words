@@ -1,20 +1,26 @@
 - expropriation
   - 发音
-    - 英 `/eksˌprəupri'eiʃən/`
-    - 美 `/ɛks,proprɪ'eʃən/`
+    - 英
+      - `/eksˌprəupri'eiʃən/`
+    - 美
+      - `/ɛks,proprɪ'eʃən/`
   - 词义
-    - n. 没收；征用
+    - n.
+      - 没收；征用
   - 记忆
     - ex(出) + propr(本身所有的) + iation → 拿出本身所有的东西 → 没收
   - 同根词
     - vt.
-      - `expropriate` 没收，征用；剥夺
+      - `expropriate`
+        - 没收，征用；剥夺
   - 近义词
-    - n. 征收，征用；没收
-      - `collection`
-      - `imposition`
+    - n.
+      - 征收，征用；没收
+        - `collection`
+        - `imposition`
   - 短语
-    - `land expropriation` 土地征收，土地征用 
+    - `land expropriation`
+      - 土地征收，土地征用 
   - 例句
     - `Discussing how to improve the protection of the right to land contractual management in land expropriation.`
       - 探讨了如何完善土地征收中对土地承包经营权的保护。

@@ -1,19 +1,25 @@
 - untrue
   - 发音
-    - 英 `/ʌn'truː/`
-    - 美 `/ʌn'tru/`
+    - 英
+      - `/ʌn'truː/`
+    - 美
+      - `/ʌn'tru/`
   - 词义
-    - adj. 不真实的,不正确的
-    - `not based on facts that are correct`
+    - adj.
+      - 不真实的,不正确的
+        - `not based on facts that are correct`
   - 同根词
     - adj.
-      - `untruthful` 不真实的；爱说谎的
+      - `untruthful`
+        - 不真实的；爱说谎的
     - n.
-      - `untruth` 虚假，不真实；谎言
+      - `untruth`
+        - 虚假，不真实；谎言
   - 近义词
-    - adj. 不真实的；不合标准的；不忠实的；不正当的
-      - `impossible`
-      - `unreal`
+    - adj.
+      - 不真实的；不合标准的；不忠实的；不正当的
+        - `impossible`
+        - `unreal`
   - 例句
     - `allegations that are totally untrue`
       - 完全不能成立的指控

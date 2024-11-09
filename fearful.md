@@ -1,31 +1,42 @@
 - fearful
   - 发音
-    - 英 `/'fɪəfʊl; -f(ə)l/`
-    - 美 `/'fɪrfəl/`
+    - 英
+      - `/'fɪəfʊl; -f(ə)l/`
+    - 美
+      - `/'fɪrfəl/`
   - 词义
-    - adj. 可怕的；担心的；严重的
-    - `frightened that something bad might happen`
+    - adj.
+      - 可怕的；担心的；严重的
+        - `frightened that something bad might happen`
   - 同根词
     - adj.
-      - `fearsome` 可怕的；害怕的；极大的
+      - `fearsome`
+        - 可怕的；害怕的；极大的
     - adv.
-      - `fearfully` 可怕地；非常地；颇
+      - `fearfully`
+        - 可怕地；非常地；颇
     - n.
-      - `fear` 害怕；恐惧；敬畏；担心
-      - `fearfulness` 可怕；厉害
+      - `fear`
+        - 害怕；恐惧；敬畏；担心
+      - `fearfulness`
+        - 可怕；厉害
     - vi.
-      - `fear` 害怕；敬畏；为…担心
+      - `fear`
+        - 害怕；敬畏；为…担心
     - vt.
-      - `fear` 害怕；敬畏；为…担心
+      - `fear`
+        - 害怕；敬畏；为…担心
   - 近义词
-    - adj. 可怕的；担心的；严重的
-      - `worried`
-      - `acute`
-      - `terrible`
-      - `afraid`
-      - `serious`
+    - adj.
+      - 可怕的；担心的；严重的
+        - `worried`
+        - `acute`
+        - `terrible`
+        - `afraid`
+        - `serious`
   - 短语
-    - `fearful of` 惧怕 
+    - `fearful of`
+      - 惧怕 
   - 例句
     - `a shy and fearful child`
       - 一个羞涩、胆怯的小孩

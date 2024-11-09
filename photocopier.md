@@ -1,21 +1,28 @@
 - photocopier
   - 发音
-    - 英 `/'fəʊtəʊkɒpɪə/`
-    - 美 `/'fotokɑpɪɚ/`
+    - 英
+      - `/'fəʊtəʊkɒpɪə/`
+    - 美
+      - `/'fotokɑpɪɚ/`
   - 词义
-    - n. 影印机；复印机
-    - `a machine that makes photographic copies of documents`
+    - n.
+      - 影印机；复印机
+        - `a machine that makes photographic copies of documents`
   - 同根词
     - n.
-      - `photocopy` 复印件；影印
+      - `photocopy`
+        - 复印件；影印
     - vi.
-      - `photocopy` 影印，复印
+      - `photocopy`
+        - 影印，复印
     - vt.
-      - `photocopy` 影印
+      - `photocopy`
+        - 影印
   - 近义词
-    - n. 影印机；复印机
-      - `copier`
-      - `manifdder`
+    - n.
+      - 影印机；复印机
+        - `copier`
+        - `manifdder`
   - 例句
     - `The photocopier isn't printing well.`
       - 这台影印机影印效果不好。

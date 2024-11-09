@@ -1,19 +1,24 @@
 - opinionated
   - 发音
-    - 英 `/ə'pɪnjəneɪtɪd/`
-    - 美 `/ə'pɪnjənetɪd/`
+    - 英
+      - `/ə'pɪnjəneɪtɪd/`
+    - 美
+      - `/ə'pɪnjənetɪd/`
   - 词义
-    - adj. 固执己见的
-    - `expressing very strong opinions about things`
+    - adj.
+      - 固执己见的
+        - `expressing very strong opinions about things`
   - 记忆
     - 来自opinion(n. 观点)
   - 同根词
     - adj.
-      - `opinionative` 武断的；固执己见的
+      - `opinionative`
+        - 武断的；固执己见的
   - 近义词
-    - adj. 固执己见的；武断的
-      - `artificial`
-      - `arbitrary`
+    - adj.
+      - 固执己见的；武断的
+        - `artificial`
+        - `arbitrary`
   - 例句
     - `I found him very arrogant and opinionated.`
       - 我觉得他非常傲慢和固执。

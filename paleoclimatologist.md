@@ -1,9 +1,12 @@
 - paleoclimatologist
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. （英）古气候学家(paleoclimatology的变形)
+    - n.
+      - （英）古气候学家(paleoclimatology的变形)
   - 例句
     - `The new study is the first to provide a window into the way the Pliocene climate varied from year to year, says paleoclimatologist David Lea of the University of California, Santa Barbara.`
       - 来自圣巴巴拉市加州大学的古气象学家David Lea表示，该项研究为探寻上新世气候逐年变化的情况提供了一个突破口，在世界上实属首创。

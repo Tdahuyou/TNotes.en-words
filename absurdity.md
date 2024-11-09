@@ -1,23 +1,32 @@
 - absurdity
   - 发音
-    - 英 `/əb'sɜːdɪtɪ/`
-    - 美 `/əb'sɝdəti/`
+    - 英
+      - `/əb'sɜːdɪtɪ/`
+    - 美
+      - `/əb'sɝdəti/`
   - 词义
-    - n. 荒谬,谬论
+    - n.
+      - 荒谬,谬论
   - 同根词
     - adj.
-      - `absurd` 荒谬的；可笑的
+      - `absurd`
+        - 荒谬的；可笑的
     - adv.
-      - `absurdly` 荒谬地；愚蠢地；悖理地
+      - `absurdly`
+        - 荒谬地；愚蠢地；悖理地
     - n.
-      - `absurd` 荒诞；荒诞作品
-      - `absurdness` 荒谬；愚蠢；不合理
+      - `absurd`
+        - 荒诞；荒诞作品
+      - `absurdness`
+        - 荒谬；愚蠢；不合理
   - 近义词
-    - n. 荒谬；谬论；荒谬的言行
-      - `ridiculousness`
-      - `boloney`
+    - n.
+      - 荒谬；谬论；荒谬的言行
+        - `ridiculousness`
+        - `boloney`
   - 短语
-    - `reduction to absurdity` n. 归谬法，反证法 
+    - `reduction to absurdity`
+      - n. 归谬法，反证法 
   - 例句
     - `What are we when confronted with the interior vortex which swallows us into absurdity?`
       - 当面对内心的漩涡，把我们卷入荒谬的漩涡时，我们是什么呢？

@@ -1,13 +1,17 @@
 - aldosterone
   - 发音
-    - 英 `/æl'dɒstərəʊn/`
-    - 美 `/æl'dɑstə,ron/`
+    - 英
+      - `/æl'dɒstərəʊn/`
+    - 美
+      - `/æl'dɑstə,ron/`
   - 词义
-    - n. [生化]醛甾酮,醛固酮
-    - `the principal mineralocorticoid secreted by the adrenal cortex. A synthesized form is used in the treatment of Addison's disease. Formula: C21H27O5 `
+    - n.
+      - [生化]醛甾酮,醛固酮
+        - `the principal mineralocorticoid secreted by the adrenal cortex. A synthesized form is used in the treatment of Addison's disease. Formula: C21H27O5 `
   - 同根词
     - n.
-      - `aldosteronism` [内科] 醛甾酮增多症
+      - `aldosteronism`
+        - [内科] 醛甾酮增多症
   - 例句
     - `As well as binding cortisol, it could respond to other hormones such as aldosterone and deoxycorticosterone.`
       - 在结合应激激素的同时，它还能够对其他激素产生响应，例如醛固酮和去氧皮质酮。

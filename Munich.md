@@ -1,10 +1,13 @@
 - Munich
   - 发音
-    - 英 `/'mju:nik/`
-    - 美 `/'mju:nik/`
+    - 英
+      - `/'mju:nik/`
+    - 美
+      - `/'mju:nik/`
   - 词义
   - 短语
-    - `bayern munich` 拜仁慕尼黑（德国足球队） 
+    - `bayern munich`
+      - 拜仁慕尼黑（德国足球队） 
   - 例句
     - `And then we went to Munich.`
       - 然后我们去了慕尼黑。

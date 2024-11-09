@@ -1,32 +1,45 @@
 - irony
   - 发音
-    - 英 `/'aɪrəni/`
-    - 美 `/'aɪrəni/`
+    - 英
+      - `/'aɪrəni/`
+    - 美
+      - `/'aɪrəni/`
   - 词义
-    - n. 反话，讽刺，嘲弄；具有讽刺意味的事
-    - `a situation that is unusual or amusing because something strange happens, or the opposite of what is expected happens or is true`
+    - n.
+      - 反话，讽刺，嘲弄；具有讽刺意味的事
+        - `a situation that is unusual or amusing because something strange happens, or the opposite of what is expected happens or is true`
   - 记忆
     - iron(铁) + y → 像铁一样冷冰冰的话 → 反话， 讽刺
   - 同根词
     - adj.
-      - `iron` 铁的；残酷的；刚强的
-      - `ironic` 讽刺的；反话的
-      - `ironical` 讽刺的（等于ironic）；用反语的
+      - `iron`
+        - 铁的；残酷的；刚强的
+      - `ironic`
+        - 讽刺的；反话的
+      - `ironical`
+        - 讽刺的（等于ironic）；用反语的
     - adv.
-      - `ironically` 讽刺地；说反话地
+      - `ironically`
+        - 讽刺地；说反话地
     - n.
-      - `iron` 熨斗；烙铁；坚强
-      - `ironist` 讽刺家；讽刺作家
+      - `iron`
+        - 熨斗；烙铁；坚强
+      - `ironist`
+        - 讽刺家；讽刺作家
     - vi.
-      - `iron` 熨衣；烫平
+      - `iron`
+        - 熨衣；烫平
     - vt.
-      - `iron` 熨；用铁铸成
+      - `iron`
+        - 熨；用铁铸成
   - 近义词
-    - n. 讽刺；反语；具有讽刺意味的事
-      - `hit`
-      - `satire`
-    - adj. 铁的；似铁的
-      - `ferrous`
+    - n.
+      - 讽刺；反语；具有讽刺意味的事
+        - `hit`
+        - `satire`
+    - adj.
+      - 铁的；似铁的
+        - `ferrous`
   - 例句
     - `Life is full of little ironies.`
       - 生活中充满了小小的讽刺。

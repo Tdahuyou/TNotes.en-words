@@ -1,17 +1,22 @@
 - fitful
   - 发音
-    - 英 `/'fɪtfʊl; -f(ə)l/`
-    - 美 `/'fɪtfəl/`
+    - 英
+      - `/'fɪtfʊl; -f(ə)l/`
+    - 美
+      - `/'fɪtfəl/`
   - 词义
-    - adj. 一阵阵的；断断续续的；不规则的；间歇的
-    - `not regular, and starting and stopping often`
+    - adj.
+      - 一阵阵的；断断续续的；不规则的；间歇的
+        - `not regular, and starting and stopping often`
   - 同根词
     - adv.
-      - `fitfully` 断断续续地；发作地
+      - `fitfully`
+        - 断断续续地；发作地
   - 近义词
-    - adj. 一阵阵的；断断续续的；不规则的；间歇的
-      - `abnormal`
-      - `intermittent`
+    - adj.
+      - 一阵阵的；断断续续的；不规则的；间歇的
+        - `abnormal`
+        - `intermittent`
   - 例句
     - `John awoke from a fitful sleep .`
       - 约翰从断断续续的睡眠中醒来。

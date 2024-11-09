@@ -1,13 +1,18 @@
 - melodramatic
   - 发音
-    - 英 `/,melədrə'mætik/`
-    - 美 `/,mɛlədrə'mætɪk/`
+    - 英
+      - `/,melədrə'mætik/`
+    - 美
+      - `/,mɛlədrə'mætɪk/`
   - 词义
-    - n. 情节剧的
+    - n.
+      - 情节剧的
   - 同根词
     - n.
-      - `melodrama` 情节剧；音乐剧；耸人听闻的事件，闹剧
+      - `melodrama`
+        - 情节剧；音乐剧；耸人听闻的事件，闹剧
   - 近义词
-    - adj. 夸张的；情节剧的；戏剧似的
-      - `exaggerative`
-      - `turgescent`
+    - adj.
+      - 夸张的；情节剧的；戏剧似的
+        - `exaggerative`
+        - `turgescent`

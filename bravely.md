@@ -1,24 +1,35 @@
 - bravely
   - 发音
-    - 英 `/'breivli/`
-    - 美 `/'brevli/`
+    - 英
+      - `/'breivli/`
+    - 美
+      - `/'brevli/`
   - 词义
-    - adv. 勇敢地
+    - adv.
+      - 勇敢地
   - 同根词
     - adj.
-      - `brave` 勇敢的；华丽的
-      - `bravura` 难演唱或演奏的；雄壮华丽的
+      - `brave`
+        - 勇敢的；华丽的
+      - `bravura`
+        - 难演唱或演奏的；雄壮华丽的
     - n.
-      - `brave` 勇士
-      - `bravery` 勇敢；勇气
-      - `bravura` 大胆的尝试；令人赞赏的演唱或演奏技巧
-      - `braveness` 勇敢；华饰
+      - `brave`
+        - 勇士
+      - `bravery`
+        - 勇敢；勇气
+      - `bravura`
+        - 大胆的尝试；令人赞赏的演唱或演奏技巧
+      - `braveness`
+        - 勇敢；华饰
     - vt.
-      - `brave` 勇敢地面对
+      - `brave`
+        - 勇敢地面对
   - 近义词
-    - adv. 勇敢地；华丽地
-      - `courageously`
-      - `fearlessly`
+    - adv.
+      - 勇敢地；华丽地
+        - `courageously`
+        - `fearlessly`
   - 例句
     - `They bravely buffeted misfortune's billows.`
       - 他们勇敢地与灾祸的恶浪搏斗。

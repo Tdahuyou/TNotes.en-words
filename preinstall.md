@@ -1,9 +1,12 @@
 - preinstall
   - 发音
-    - 英 `/'pri:ɪn'stɔ:l/`
-    - 美 `/undefined/`
+    - 英
+      - `/'pri:ɪn'stɔ:l/`
+    - 美
+      - `/undefined/`
   - 词义
-    - vt. 预装
+    - vt.
+      - 预装
   - 例句
     - `The teaching in fact is the preinstall and the production harmonious entity.`
       - 教学实际上就是预设和生成的和谐统一体。

@@ -1,10 +1,13 @@
 - sitcom
   - 发音
-    - 英 `/'sɪtkɒm/`
-    - 美 `/'sɪtkɑm/`
+    - 英
+      - `/'sɪtkɒm/`
+    - 美
+      - `/'sɪtkɑm/`
   - 词义
-    - n. 情景喜剧（situationcomedy的缩写）
-    - `a funny television programme in which the same characters appear in different situations each week`
+    - n.
+      - 情景喜剧（situationcomedy的缩写）
+        - `a funny television programme in which the same characters appear in different situations each week`
   - 例句
     - `Carol was very excited that I was interested in our family's history, even if it was just because a former sitcom actress told me to be.`
       - 卡萝尔见到我开始对我们家的历史感兴趣，当然非常兴奋。 即使这只是因为我被前情景喜剧里的女演员逼着做的。

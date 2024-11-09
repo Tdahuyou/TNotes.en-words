@@ -1,24 +1,32 @@
 - inferential
   - 发音
-    - 英 `/,ɪnfə'renʃəl/`
-    - 美 `/,ɪnfə'rɛnʃəl/`
+    - 英
+      - `/,ɪnfə'renʃəl/`
+    - 美
+      - `/,ɪnfə'rɛnʃəl/`
   - 词义
-    - adj. 推理的,推论的
-    - `of, relating to, or derived from inference `
+    - adj.
+      - 推理的,推论的
+        - `of, relating to, or derived from inference `
   - 同根词
     - n.
-      - `inference` 推理；推论；推断
+      - `inference`
+        - 推理；推论；推断
     - vi.
-      - `infer` 推断；作出推论
+      - `infer`
+        - 推断；作出推论
     - vt.
-      - `infer` 推断；推论
+      - `infer`
+        - 推断；推论
   - 近义词
-    - adj. 推理的；推论的；根据推理的
-      - `theoretical`
-      - `concluded`
-      - `reasoning`
+    - adj.
+      - 推理的；推论的；根据推理的
+        - `theoretical`
+        - `concluded`
+        - `reasoning`
   - 短语
-    - `inferential statistics` 推论统计；推论统计学 
+    - `inferential statistics`
+      - 推论统计；推论统计学 
   - 例句
     - `In this article I will focus on data collected using a nominal scale of measurement and the inferential techniques appropriate for nominal data.`
       - 在本文中，我将主要讨论通过使用测量的定类尺度收集的数据，以及适用于定类数据的推论技术。

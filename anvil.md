@@ -1,14 +1,18 @@
 - anvil
   - 发音
-    - 英 `/'ænvɪl/`
-    - 美 `/'ænvɪl/`
+    - 英
+      - `/'ænvɪl/`
+    - 美
+      - `/'ænvɪl/`
   - 词义
-    - n. [解]砧骨
-    - `a heavy iron block on which pieces of hot metal are shaped using a hammer`
+    - n.
+      - [解]砧骨
+        - `a heavy iron block on which pieces of hot metal are shaped using a hammer`
   - 近义词
-    - n. [物]铁砧；[解剖]砧骨
-      - `incus`
-      - `stithy`
+    - n.
+      - [物]铁砧；[解剖]砧骨
+        - `incus`
+        - `stithy`
   - 例句
     - `Scientists recently used a diamond anvil like this one to squeeze tiny samples of metallic glass.`
       - 最近，科学家用一种像图中所示的菱形铁砧来压制金属玻璃的小样品。

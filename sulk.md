@@ -1,24 +1,32 @@
 - sulk
   - 发音
-    - 英 `/sʌlk/`
-    - 美 `/sʌlk/`
+    - 英
+      - `/sʌlk/`
+    - 美
+      - `/sʌlk/`
   - 词义
-    - v. 生气；愠怒
-    - `to be silently angry and refuse to be friendly or discuss what is annoying or upsetting you – used to show disapproval`
-    - n. 生气；愠怒；生气的人
-    - `a time when someone is sulking`
+    - v.
+      - 生气；愠怒
+        - `to be silently angry and refuse to be friendly or discuss what is annoying or upsetting you – used to show disapproval`
+    - n.
+      - 生气；愠怒；生气的人
+        - `a time when someone is sulking`
   - 同根词
     - adj.
-      - `sullen` 愠怒的，不高兴的；（天气）阴沉的；沉闷的
-      - `sulky` 生气的；阴沉的
+      - `sullen`
+        - 愠怒的，不高兴的；（天气）阴沉的；沉闷的
+      - `sulky`
+        - 生气的；阴沉的
   - 近义词
-    - vi. 生气；愠怒
-      - `pet`
-      - `take offense`
-    - n. 生气；愠怒；生气的人
-      - `vitality`
-      - `animation`
-      - `pet`
+    - vi.
+      - 生气；愠怒
+        - `pet`
+        - `take offense`
+    - n.
+      - 生气；愠怒；生气的人
+        - `vitality`
+        - `animation`
+        - `pet`
   - 例句
     - `Nicola sulked all morning.`
       - 尼古拉一早上都在生闷气。

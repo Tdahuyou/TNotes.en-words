@@ -1,19 +1,24 @@
 - dolorous
   - 发音
-    - 英 `/'doulərəs/`
-    - 美 `/'dolərəs/`
+    - 英
+      - `/'doulərəs/`
+    - 美
+      - `/'dolərəs/`
   - 词义
-    - adj. 悲哀的，忧伤的
-    - `causing or involving pain or sorrow `
+    - adj.
+      - 悲哀的，忧伤的
+        - `causing or involving pain or sorrow `
   - 记忆
     - dol(悲哀) + orous → 悲哀的
   - 同根词
     - n.
-      - `dolor` 伤心，悲哀（等于dolour）
+      - `dolor`
+        - 伤心，悲哀（等于dolour）
   - 近义词
-    - adj. 忧伤的；悲痛的
-      - `tragic`
-      - `heartsick`
+    - adj.
+      - 忧伤的；悲痛的
+        - `tragic`
+        - `heartsick`
   - 例句
     - `With a broken-hearted smile, he lifted a pair of dolorous eyes.`
       - 带著伤心的微笑，他抬起了一双痛苦的眼睛。

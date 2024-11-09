@@ -1,19 +1,25 @@
 - autograph
   - 发音
-    - 英 `/'ɔːtəgrɑːf/`
-    - 美 `/'ɔtəɡræf/`
+    - 英
+      - `/'ɔːtəgrɑːf/`
+    - 美
+      - `/'ɔtəɡræf/`
   - 词义
-    - n. 亲笔，手稿；亲笔签名
-    - `a famous person’s signature that they give to someone who admires them`
-    - v. 亲笔签名于…；亲笔书写
-    - `if a famous person autographs a book, photograph etc, they sign it`
+    - n.
+      - 亲笔，手稿；亲笔签名
+        - `a famous person’s signature that they give to someone who admires them`
+    - v.
+      - 亲笔签名于…；亲笔书写
+        - `if a famous person autographs a book, photograph etc, they sign it`
   - 同根词
     - adj.
-      - `autographic` 亲笔的，亲笔写成的
+      - `autographic`
+        - 亲笔的，亲笔写成的
   - 近义词
-    - n. 亲笔，[图情]手稿；[法]亲笔签名
-      - `scripture`
-      - `manuscript`
+    - n.
+      - 亲笔，[图情]手稿；[法]亲笔签名
+        - `scripture`
+        - `manuscript`
   - 例句
     - `Can I have your autograph?`
       - 我能请你签个名吗？

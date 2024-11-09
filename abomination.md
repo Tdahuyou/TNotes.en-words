@@ -1,21 +1,27 @@
 - abomination
   - 发音
-    - 英 `/əˌbɔmi'neiʃən/`
-    - 美 `/ə,bɑmɪ'neʃən/`
+    - 英
+      - `/əˌbɔmi'neiʃən/`
+    - 美
+      - `/ə,bɑmɪ'neʃən/`
   - 词义
-    - n. 憎恨，厌恶；可憎的事物
-    - `If you say that something is an abomination, you think that it is completely unacceptable`
+    - n.
+      - 憎恨，厌恶；可憎的事物
+        - `If you say that something is an abomination, you think that it is completely unacceptable`
   - 同根词
     - n.
-      - `abominator` 嫌恶者；憎恶者
+      - `abominator`
+        - 嫌恶者；憎恶者
     - vt.
-      - `abominate` 痛恨；憎恶
+      - `abominate`
+        - 痛恨；憎恶
   - 近义词
-    - n. 厌恶；憎恨；令人厌恶的事物
-      - `despite`
-      - `hate`
-      - `hatred`
-      - `aversion`
+    - n.
+      - 厌恶；憎恨；令人厌恶的事物
+        - `despite`
+        - `hate`
+        - `hatred`
+        - `aversion`
   - 例句
     - `Slavery was an abomination.`
       - 奴隶制令人深恶痛绝。

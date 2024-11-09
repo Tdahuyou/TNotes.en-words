@@ -1,10 +1,13 @@
 - preliterate
   - 发音
-    - 英 `/ˌpriː'lɪtərət/`
-    - 美 `/pri'lɪtərɪt/`
+    - 英
+      - `/ˌpriː'lɪtərət/`
+    - 美
+      - `/pri'lɪtərɪt/`
   - 词义
-    - adj. 文字出现以前的，没有文字的
-    - `a society that is preliterate has not developed a written language`
+    - adj.
+      - 文字出现以前的，没有文字的
+        - `a society that is preliterate has not developed a written language`
   - 记忆
     - pre(在…前面) + liter(文字) + ate → 文字出现以前的
   - 例句

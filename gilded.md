@@ -1,27 +1,39 @@
 - gilded
   - 发音
-    - 英 `/ˈgɪldɪd/`
-    - 美 `/'ɡɪldɪd/`
+    - 英
+      - `/ˈgɪldɪd/`
+    - 美
+      - `/'ɡɪldɪd/`
   - 词义
-    - adj. 镀金的
+    - adj.
+      - 镀金的
   - 同根词
     - adj.
-      - `gilt` 镀金的
+      - `gilt`
+        - 镀金的
     - n.
-      - `gilt` 镀金；小母猪；眩目的外表
-      - `gilding` 镀金；虚饰的外观
-      - `gilder` 镀金工人
+      - `gilt`
+        - 镀金；小母猪；眩目的外表
+      - `gilding`
+        - 镀金；虚饰的外观
+      - `gilder`
+        - 镀金工人
     - v.
-      - `gilt` 镀金（gild的过去式和过去分词）
-      - `gilding` 镀金；虚饰（gild的现在分词）
+      - `gilt`
+        - 镀金（gild的过去式和过去分词）
+      - `gilding`
+        - 镀金；虚饰（gild的现在分词）
     - vt.
-      - `gild` 镀金；虚饰；供给钱
+      - `gild`
+        - 镀金；虚饰；供给钱
   - 近义词
-    - adj. 镀金的，装饰的；富有的
-      - `rich`
-      - `wealthy`
+    - adj.
+      - 镀金的，装饰的；富有的
+        - `rich`
+        - `wealthy`
   - 短语
-    - `gilded age` 镀金时代 
+    - `gilded age`
+      - 镀金时代 
   - 例句
     - `I am bringing it from the frownery - the one over there with the gilded steeple.`
       - 我刚把它从烦恼工厂带过来，就是那边那个塔尖镀金的地方。

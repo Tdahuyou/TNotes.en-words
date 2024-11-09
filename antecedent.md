@@ -1,26 +1,35 @@
 - antecedent
   - 发音
-    - 英 `/ˌæntɪ'siːdnt/`
-    - 美 `/'æntə'sidnt/`
+    - 英
+      - `/ˌæntɪ'siːdnt/`
+    - 美
+      - `/'æntə'sidnt/`
   - 词义
-    - adj. 先行的
-    - n. 祖先，先辈
-    - `an event, organization, or thing that is similar to the one you have mentioned but existed earlier`
+    - adj.
+      - 先行的
+    - n.
+      - 祖先，先辈
+        - `an event, organization, or thing that is similar to the one you have mentioned but existed earlier`
   - 记忆
     - ante(在…前面) + ced(走) + ent → 走在前面的 → 先行的
   - 同根词
     - adv.
-      - `antecedently` 在前，在先
+      - `antecedently`
+        - 在前，在先
     - n.
-      - `antecedence` 先行；居先；在先
-      - `antecedency` 先行，在前；逆行
+      - `antecedence`
+        - 先行；居先；在先
+      - `antecedency`
+        - 先行，在前；逆行
   - 近义词
-    - n. 前情；先行词；祖先
-      - `father`
-      - `root`
-    - adj. 先行的；前驱的；先前的
-      - `advance`
-      - `prodromal`
+    - n.
+      - 前情；先行词；祖先
+        - `father`
+        - `root`
+    - adj.
+      - 先行的；前驱的；先前的
+        - `advance`
+        - `prodromal`
   - 例句
     - `Some patients state that lesions develop at the site of antecedent trauma.`
       - 一些患者指出，病灶出现在先前的创伤部位。

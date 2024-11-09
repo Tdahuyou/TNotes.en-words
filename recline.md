@@ -1,26 +1,35 @@
 - recline
   - 发音
-    - 英 `/rɪ'klaɪn/`
-    - 美 `/rɪ'klaɪn/`
+    - 英
+      - `/rɪ'klaɪn/`
+    - 美
+      - `/rɪ'klaɪn/`
   - 词义
-    - v. 向后倚靠，斜倚
-    - `to lie or lean back in a relaxed way`
+    - v.
+      - 向后倚靠，斜倚
+        - `to lie or lean back in a relaxed way`
   - 记忆
     - re(向后) + clin(倾斜) + e → 向后斜 → 斜倚
   - 同根词
     - adj.
-      - `reclining` 倾斜的
+      - `reclining`
+        - 倾斜的
     - n.
-      - `recliner` 斜靠著的人；躺著的人；活动躺椅（等于reclining chair）
-      - `reclining` 倾斜
+      - `recliner`
+        - 斜靠著的人；躺著的人；活动躺椅（等于reclining chair）
+      - `reclining`
+        - 倾斜
     - v.
-      - `reclining` 斜倚；依赖（recline的ing形式）
+      - `reclining`
+        - 斜倚；依赖（recline的ing形式）
   - 近义词
-    - vi. 靠；依赖；斜倚
-      - `build on`
-      - `depend upon`
-    - vt. 使躺下；使斜倚
-      - `couch`
+    - vi.
+      - 靠；依赖；斜倚
+        - `build on`
+        - `depend upon`
+    - vt.
+      - 使躺下；使斜倚
+        - `couch`
   - 例句
     - `She proceeded to recline on a chaise longue.`
       - 她开始斜靠在一个躺椅上。

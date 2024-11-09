@@ -1,13 +1,17 @@
 - gally
   - 发音
-    - 英 `/'ɡælɪ/`
-    - 美 `/'gæli/`
+    - 英
+      - `/'ɡælɪ/`
+    - 美
+      - `/'gæli/`
   - 词义
-    - vt. 吓唬
+    - vt.
+      - 吓唬
   - 近义词
-    - vt. 恐吓；吓唬
-      - `terrorise`
-      - `intimidate`
+    - vt.
+      - 恐吓；吓唬
+        - `terrorise`
+        - `intimidate`
   - 例句
     - `Does the lion return gally you?`
       - 狮子还吓唬你吗?。

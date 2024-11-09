@@ -1,17 +1,22 @@
 - inexpensive
   - 发音
-    - 英 `/ɪnɪk'spensɪv; ɪnek-/`
-    - 美 `/,ɪnɪk'spɛnsɪv/`
+    - 英
+      - `/ɪnɪk'spensɪv; ɪnek-/`
+    - 美
+      - `/,ɪnɪk'spɛnsɪv/`
   - 词义
-    - adj. 廉价的,便宜的
-    - `cheap – use this to show approval`
+    - adj.
+      - 廉价的,便宜的
+        - `cheap – use this to show approval`
   - 同根词
     - adv.
-      - `inexpensively` 廉价地，不践地；花费不多地
+      - `inexpensively`
+        - 廉价地，不践地；花费不多地
   - 近义词
-    - adj. 便宜的
-      - `cheap`
-      - `ten-cent`
+    - adj.
+      - 便宜的
+        - `cheap`
+        - `ten-cent`
   - 例句
     - `a good selection of inexpensive wines`
       - 可供选择的各种价格公道的葡萄酒

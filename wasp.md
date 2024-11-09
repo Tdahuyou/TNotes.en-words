@@ -1,16 +1,21 @@
 - wasp
   - 发音
-    - 英 `/wɑːsp/`
-    - 美 `/wɑsp/`
+    - 英
+      - `/wɑːsp/`
+    - 美
+      - `/wɑsp/`
   - 词义
-    - n. 黄蜂
-    - `a thin black and yellow flying insect that can sting you`
+    - n.
+      - 黄蜂
+        - `a thin black and yellow flying insect that can sting you`
   - 同根词
     - adj.
-      - `waspish` 尖刻的；易怒的；如黄蜂的；腰细的
+      - `waspish`
+        - 尖刻的；易怒的；如黄蜂的；腰细的
   - 近义词
-    - n. 黄蜂；[昆]胡蜂；易怒的人
-      - `vespid`
+    - n.
+      - 黄蜂；[昆]胡蜂；易怒的人
+        - `vespid`
   - 例句
     - `We can see the wasp to penetrate glass.`
       - 透过玻璃我们可以看到黄蜂。

@@ -1,21 +1,27 @@
 - taint
   - 发音
-    - 英 `/teɪnt/`
-    - 美 `/tent/`
+    - 英
+      - `/teɪnt/`
+    - 美
+      - `/tent/`
   - 词义
-    - v. 感染n污点
-    - `to damage something by adding an unwanted substance to it`
+    - v.
+      - 感染n污点
+        - `to damage something by adding an unwanted substance to it`
   - 同根词
     - adj.
-      - `tainted` 污染的；感染的
+      - `tainted`
+        - 污染的；感染的
   - 近义词
-    - vt. 污染；腐蚀；使感染
-      - `eat`
-      - `poison`
-      - `pollute`
-    - n. 污点；感染
-      - `infection`
-      - `affection`
+    - vt.
+      - 污染；腐蚀；使感染
+        - `eat`
+        - `poison`
+        - `pollute`
+    - n.
+      - 污点；感染
+        - `infection`
+        - `affection`
   - 例句
     - `Baker argues that his trial was tainted by negative publicity.`
       - 贝克抗辩说他的审判受到了负面宣传的影响。

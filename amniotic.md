@@ -1,17 +1,24 @@
 - amniotic
   - 发音
-    - 英 `/æmnɪ'ɒtɪk/`
-    - 美 `/,æmnɪ'otɪk/`
+    - 英
+      - `/æmnɪ'ɒtɪk/`
+    - 美
+      - `/,æmnɪ'otɪk/`
   - 词义
-    - adj. [昆]羊膜的
-    - `of or relating to the amnion `
+    - adj.
+      - [昆]羊膜的
+        - `of or relating to the amnion `
   - 同根词
     - n.
-      - `amniota` 羊膜类；羊膜动物
-      - `amniote` [脊椎] 羊膜动物；脊椎动物
+      - `amniota`
+        - 羊膜类；羊膜动物
+      - `amniote`
+        - [脊椎] 羊膜动物；脊椎动物
   - 短语
-    - `amniotic fluid` [动]羊水；羊膜水 
-    - `amniotic fluid embolism` 羊水栓塞 
+    - `amniotic fluid`
+      - [动]羊水；羊膜水 
+    - `amniotic fluid embolism`
+      - 羊水栓塞 
   - 例句
     - `The amniotic fluid cushioning the baby in your uterus has reached its highest level this week.`
       - 这周，子宫里起缓冲作用的羊水达到了它最高的水平。

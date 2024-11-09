@@ -1,19 +1,24 @@
 - depose
   - 发音
-    - 英 `/dɪ'pouz/`
-    - 美 `/dɪ'poz/`
+    - 英
+      - `/dɪ'pouz/`
+    - 美
+      - `/dɪ'poz/`
   - 词义
-    - vt. 革除，罢免，废黜
-    - `to remove a leader or ruler from a position of power`
+    - vt.
+      - 革除，罢免，废黜
+        - `to remove a leader or ruler from a position of power`
   - 记忆
     - de(向下) + pos(放) + e → (将人)向下放 → 革除， 罢免
   - 同根词
     - n.
-      - `deposition` 沉积物；矿床；革职
+      - `deposition`
+        - 沉积物；矿床；革职
   - 近义词
-    - vt. 免职；作证；废黜
-      - `give evidence`
-      - `bear witness`
+    - vt.
+      - 免职；作证；废黜
+        - `give evidence`
+        - `bear witness`
   - 例句
     - `Mr. Ben Bella was deposed in a coup in 1965.`
       - 本·贝拉先生在1965年的一次政变中被罢免了。

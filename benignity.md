@@ -1,26 +1,37 @@
 - benignity
   - 发音
-    - 英 `/bi'nignəti/`
-    - 美 `/bɪ'nɪgnəti/`
+    - 英
+      - `/bi'nignəti/`
+    - 美
+      - `/bɪ'nɪgnəti/`
   - 词义
-    - n. 仁慈；善行
+    - n.
+      - 仁慈；善行
   - 同根词
     - adj.
-      - `benevolent` 仁慈的；慈善的；亲切的
-      - `benignant` 良性的；仁慈的；有益的；和蔼的
+      - `benevolent`
+        - 仁慈的；慈善的；亲切的
+      - `benignant`
+        - 良性的；仁慈的；有益的；和蔼的
     - adv.
-      - `benevolently` 仁慈地；慷慨地
-      - `benignantly` 有益地；亲切地；仁慈地
-      - `benignly` 亲切地；仁慈地
+      - `benevolently`
+        - 仁慈地；慷慨地
+      - `benignantly`
+        - 有益地；亲切地；仁慈地
+      - `benignly`
+        - 亲切地；仁慈地
     - n.
-      - `benevolence` 仁慈；善行
-      - `benignancy` 仁慈；良性；亲切
-  - 近义词
-    - n. 仁慈；善举
-      - `humanity`
-      - `mercy`
-      - `kindness`
       - `benevolence`
+        - 仁慈；善行
+      - `benignancy`
+        - 仁慈；良性；亲切
+  - 近义词
+    - n.
+      - 仁慈；善举
+        - `humanity`
+        - `mercy`
+        - `kindness`
+        - `benevolence`
   - 例句
     - `Marked by utter benignity ; resembling or befitting an angel or saint.`
       - 以非常仁慈为特点；类似于或者适合于天使或者圣人。

@@ -1,19 +1,25 @@
 - tern
   - 发音
-    - 英 `/tɜːn/`
-    - 美 `/tɝn/`
+    - 英
+      - `/tɜːn/`
+    - 美
+      - `/tɝn/`
   - 词义
-    - n. 三个一组,[鸟]燕鸥
-    - `a black and white sea bird that has long wings and a tail with two points`
+    - n.
+      - 三个一组,[鸟]燕鸥
+        - `a black and white sea bird that has long wings and a tail with two points`
   - 同根词
     - adj.
-      - `ternate` 三出的；三个一套的；三个的
+      - `ternate`
+        - 三出的；三个一套的；三个的
     - n.
-      - `ternion` 三个一组；三合一
+      - `ternion`
+        - 三个一组；三合一
   - 近义词
-    - n. 燕鸥；三个一组
-      - `scray`
-      - `triplet`
+    - n.
+      - 燕鸥；三个一组
+        - `scray`
+        - `triplet`
   - 例句
     - `The tiny arctic tern makes the longest migration of any animal in the world, flying about two times farther than previously thought, a new study says.`
       - 一项新的研究表明，小小的北极燕鸥竟创下了动物世界的飞行记录，“旅途”长度是此前相关数据的二倍。

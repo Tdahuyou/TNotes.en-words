@@ -1,31 +1,46 @@
 - woven
   - 发音
-    - 英 `/'wəʊvn/`
-    - 美 `/'wovn/`
+    - 英
+      - `/'wəʊvn/`
+    - 美
+      - `/'wovn/`
   - 词义
-    - v. 编织；交织（weave的过去分词）；编造
-    - adj. 织物的
-    - n. 机织织物
+    - v.
+      - 编织；交织（weave的过去分词）；编造
+    - adj.
+      - 织物的
+    - n.
+      - 机织织物
   - 记忆
     - 来自weave(v. 编织)
   - 同根词
     - n.
-      - `weave` 织物；织法；编织式样
+      - `weave`
+        - 织物；织法；编织式样
     - vi.
-      - `weave` 纺织；编成；迂回行进
+      - `weave`
+        - 纺织；编成；迂回行进
     - vt.
-      - `weave` 编织；编排；使迂回前进
+      - `weave`
+        - 编织；编排；使迂回前进
   - 近义词
-    - v. 编织；交织（weave的过去分词）；编造
-      - `knitted`
-      - `redacted`
+    - v.
+      - 编织；交织（weave的过去分词）；编造
+        - `knitted`
+        - `redacted`
   - 短语
-    - `woven fabric` 织物 
-    - `woven bag` 编织袋；布袋；聚丙烯编织带 
-    - `woven wire` 钢丝网，铁丝网 
-    - `woven roving` 方格布；无捻粗纱布；粗格布 
-    - `woven label` 织唛；梭织商标 
-    - `woven belt` 帆布皮带 
+    - `woven fabric`
+      - 织物 
+    - `woven bag`
+      - 编织袋；布袋；聚丙烯编织带 
+    - `woven wire`
+      - 钢丝网，铁丝网 
+    - `woven roving`
+      - 方格布；无捻粗纱布；粗格布 
+    - `woven label`
+      - 织唛；梭织商标 
+    - `woven belt`
+      - 帆布皮带 
   - 例句
     - `It is woven of silk.`
       - 这是用丝织成的。

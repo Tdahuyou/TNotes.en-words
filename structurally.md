@@ -1,20 +1,29 @@
 - structurally
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - adv. 在结构上
+    - adv.
+      - 在结构上
   - 同根词
     - adj.
-      - `structural` 结构的；建筑的
-      - `structured` 有结构的；有组织的
+      - `structural`
+        - 结构的；建筑的
+      - `structured`
+        - 有结构的；有组织的
     - n.
-      - `structure` 结构；构造；建筑物
-      - `structuralism` 结构主义；构造主义
+      - `structure`
+        - 结构；构造；建筑物
+      - `structuralism`
+        - 结构主义；构造主义
     - v.
-      - `structured` 组织；构成（structure的过去分词）；建造
+      - `structured`
+        - 组织；构成（structure的过去分词）；建造
     - vt.
-      - `structure` 组织；构成；建造
+      - `structure`
+        - 组织；构成；建造
   - 例句
     - `In this case, the FBML may be structurally correct, but the data is wrong.`
       - 在这种情况下，FBML在结构上是正确的，但是数据是错误的。

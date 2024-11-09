@@ -1,25 +1,34 @@
 - abusive
   - 发音
-    - 英 `/ə'bjuːsiv/`
-    - 美 `/ə'bjʊsɪv/`
+    - 英
+      - `/ə'bjuːsiv/`
+    - 美
+      - `/ə'bjʊsɪv/`
   - 词义
-    - adj. 辱骂的，滥用的
-    - `using cruel words or physical violence`
+    - adj.
+      - 辱骂的，滥用的
+        - `using cruel words or physical violence`
   - 记忆
     - 来自abuse (v. 滥用； 虐待， 辱骂)
   - 同根词
     - adv.
-      - `abusively` 滥用地；辱骂地
+      - `abusively`
+        - 滥用地；辱骂地
     - n.
-      - `abuse` 滥用；虐待；辱骂；弊端；恶习，陋习
-      - `abused` 滥用，恶习；受虐
+      - `abuse`
+        - 滥用；虐待；辱骂；弊端；恶习，陋习
+      - `abused`
+        - 滥用，恶习；受虐
     - v.
-      - `abused` 滥用；虐待；辱骂（abuse的过去分词）
+      - `abused`
+        - 滥用；虐待；辱骂（abuse的过去分词）
     - vt.
-      - `abuse` 滥用；虐待；辱骂
+      - `abuse`
+        - 滥用；虐待；辱骂
   - 近义词
-    - adj. 辱骂的；滥用的；虐待的
-      - `misapplied`
+    - adj.
+      - 辱骂的；滥用的；虐待的
+        - `misapplied`
   - 例句
     - `Smith denies using abusive language to the referee.`
       - 史密斯否认辱骂裁判。

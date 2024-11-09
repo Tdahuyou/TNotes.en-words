@@ -1,13 +1,17 @@
 - barrister
   - 发音
-    - 英 `/'bæristə/`
-    - 美 `/'bærɪstɚ/`
+    - 英
+      - `/'bæristə/`
+    - 美
+      - `/'bærɪstɚ/`
   - 词义
-    - n. 律师；法律顾问
-    - `a lawyer in Britain who can argue cases in the higher law courts`
+    - n.
+      - 律师；法律顾问
+        - `a lawyer in Britain who can argue cases in the higher law courts`
   - 记忆
     - 爸爸禁止 (bar) 姐姐 (sister) 当律师 (barrister)
   - 近义词
-    - n. 律师；（加拿大）出庭律师（等于arrister-at-law）；（英）（有资格出席高等法庭并辩护的）专门律师
-      - `advocate`
-      - `lawer`
+    - n.
+      - 律师；（加拿大）出庭律师（等于arrister-at-law）；（英）（有资格出席高等法庭并辩护的）专门律师
+        - `advocate`
+        - `lawer`

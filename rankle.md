@@ -1,19 +1,24 @@
 - rankle
   - 发音
-    - 英 `/'ræŋkl/`
-    - 美 `/'ræŋkl/`
+    - 英
+      - `/'ræŋkl/`
+    - 美
+      - `/'ræŋkl/`
   - 词义
-    - v. 激怒
-    - `If an event or situation rankles, it makes you feel angry or bitter afterwards, because you think it was unfair or wrong`
+    - v.
+      - 激怒
+        - `If an event or situation rankles, it makes you feel angry or bitter afterwards, because you think it was unfair or wrong`
   - 记忆
     - 阶级 (rank) 矛盾引起人民的怨恨 (rankle)
   - 近义词
-    - vi. 化脓；怨恨；发炎
-      - `gather head`
-      - `be down on`
-    - vt. 使怨恨；使疼痛；使痛苦
-      - `hurt`
-      - `embitter`
+    - vi.
+      - 化脓；怨恨；发炎
+        - `gather head`
+        - `be down on`
+    - vt.
+      - 使怨恨；使疼痛；使痛苦
+        - `hurt`
+        - `embitter`
   - 例句
     - `They paid him only $10 for it and it really rankled.`
       - 他们为此仅支付给他10美元，真让人气愤。

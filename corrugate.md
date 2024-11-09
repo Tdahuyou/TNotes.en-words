@@ -1,25 +1,34 @@
 - corrugate
   - 发音
-    - 英 `/'kɔːrəgeɪt/`
-    - 美 `/'kɔrə,get/`
+    - 英
+      - `/'kɔːrəgeɪt/`
+    - 美
+      - `/'kɔrə,get/`
   - 词义
-    - v. 起波纹，起皱纹
-    - `to fold or be folded into alternate furrows and ridges `
+    - v.
+      - 起波纹，起皱纹
+        - `to fold or be folded into alternate furrows and ridges `
   - 记忆
     - cor + rug(=wrinkle皱) + ate → 起波纹， 起皱纹
   - 同根词
     - adj.
-      - `corrugated` 波纹的；缩成皱纹的；有瓦楞的
+      - `corrugated`
+        - 波纹的；缩成皱纹的；有瓦楞的
     - n.
-      - `corrugation` 起皱；皱状；灌水沟；波纹成形
+      - `corrugation`
+        - 起皱；皱状；灌水沟；波纹成形
     - v.
-      - `corrugated` （使）起皱纹（corrugate的过去式）
+      - `corrugated`
+        - （使）起皱纹（corrugate的过去式）
   - 近义词
-    - vt. 使起皱；成波状
-      - `pucker`
-    - adj. 起皱的；波状的
-      - `crinkly`
-      - `ruffly`
-    - vi. 起皱；缩成皱状
-      - `wrinkle`
-      - `crease`
+    - vt.
+      - 使起皱；成波状
+        - `pucker`
+    - adj.
+      - 起皱的；波状的
+        - `crinkly`
+        - `ruffly`
+    - vi.
+      - 起皱；缩成皱状
+        - `wrinkle`
+        - `crease`

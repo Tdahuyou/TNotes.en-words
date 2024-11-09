@@ -1,23 +1,32 @@
 - alchemist
   - 发音
-    - 英 `/'ælkəmɪst/`
-    - 美 `/'ælkəmɪst/`
+    - 英
+      - `/'ælkəmɪst/`
+    - 美
+      - `/'ælkəmɪst/`
   - 词义
-    - n. 炼金术士
-    - `An alchemist was a scientist in the Middle Ages who tried to discover how to change ordinary metals into gold`
+    - n.
+      - 炼金术士
+        - `An alchemist was a scientist in the Middle Ages who tried to discover how to change ordinary metals into gold`
   - 记忆
     - al + chemist(化学家) → 炼金术士
   - 同根词
     - adj.
-      - `alchemic` 炼金术的
-      - `alchemical` 炼金术的
-      - `alchemistic` 炼金术的
-      - `alchemistical` 炼金术的；炼金术士的
+      - `alchemic`
+        - 炼金术的
+      - `alchemical`
+        - 炼金术的
+      - `alchemistic`
+        - 炼金术的
+      - `alchemistical`
+        - 炼金术的；炼金术士的
     - n.
-      - `alchemy` 点金术；魔力
+      - `alchemy`
+        - 点金术；魔力
   - 近义词
-    - n. 炼金术士
-      - `hermetic`
+    - n.
+      - 炼金术士
+        - `hermetic`
   - 例句
     - `Would you rather be an alchemist or a chemist?`
       - 那么，你想做一个炼金术士，还是一个化学家呢？

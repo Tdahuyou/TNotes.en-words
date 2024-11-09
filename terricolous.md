@@ -1,10 +1,13 @@
 - terricolous
   - 发音
-    - 英 `/te'rɪkələs/`
-    - 美 `/undefined/`
+    - 英
+      - `/te'rɪkələs/`
+    - 美
+      - `/undefined/`
   - 词义
-    - adj. [生]陆生的
-    - `living on or in the soil `
+    - adj.
+      - [生]陆生的
+        - `living on or in the soil `
   - 例句
     - `An earthworm is a terricolous organism.`
       - 蚯蚓是陆生的生物。

@@ -1,27 +1,36 @@
 - forbearance
   - 发音
-    - 英 `/fɔː'beər(ə)ns/`
-    - 美 `/fɔr'bɛrəns/`
+    - 英
+      - `/fɔː'beər(ə)ns/`
+    - 美
+      - `/fɔr'bɛrəns/`
   - 词义
-    - n. 自制，忍耐
-    - `the quality of being patient, able to control your emotions, and willing to forgive someone who has upset you`
+    - n.
+      - 自制，忍耐
+        - `the quality of being patient, able to control your emotions, and willing to forgive someone who has upset you`
   - 同根词
     - adj.
-      - `forbearing` 宽容的；忍耐的
+      - `forbearing`
+        - 宽容的；忍耐的
     - n.
-      - `forbear` 祖先
+      - `forbear`
+        - 祖先
     - v.
-      - `forbearing` 克制（forbear的现在分词）
+      - `forbearing`
+        - 克制（forbear的现在分词）
     - vi.
-      - `forbear` 忍耐；克制
+      - `forbear`
+        - 忍耐；克制
     - vt.
-      - `forbear` 忍耐；克制
+      - `forbear`
+        - 忍耐；克制
   - 近义词
-    - n. 自制，忍耐；宽容
-      - `tolerance`
-      - `possession`
-      - `charity`
-      - `mercy`
+    - n.
+      - 自制，忍耐；宽容
+        - `tolerance`
+        - `possession`
+        - `charity`
+        - `mercy`
   - 例句
     - `There is too much torment, renunciation, and anxiety in this love for it to be anything but infinite forbearance.`
       - 这爱中有太多的折磨、太多的自制、与太多的焦虑，除了无穷无尽的忍耐，这些就成了它的一切。

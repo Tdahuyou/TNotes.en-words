@@ -1,24 +1,32 @@
 - prognosticate
   - 发音
-    - 英 `/prəg'nɔstɪk3ɪt/`
-    - 美 `/prəɡ'nɔstikeit/`
+    - 英
+      - `/prəg'nɔstɪk3ɪt/`
+    - 美
+      - `/prəɡ'nɔstikeit/`
   - 词义
-    - v. 预言，预示
-    - `to foretell (future events) according to present signs or indications; prophesy `
+    - v.
+      - 预言，预示
+        - `to foretell (future events) according to present signs or indications; prophesy `
   - 记忆
     - pro(提前) + gno(知道) + stic + ate → 预示
   - 同根词
     - adj.
-      - `prognostic` 预后的；预兆的
+      - `prognostic`
+        - 预后的；预兆的
     - n.
-      - `prognostic` 预兆；预言；预后症状
-      - `prognostication` 预测；预言；预兆
-      - `prognosticator` 预言者
+      - `prognostic`
+        - 预兆；预言；预后症状
+      - `prognostication`
+        - 预测；预言；预兆
+      - `prognosticator`
+        - 预言者
   - 近义词
-    - vt. 预言，预测
-      - `predict`
-      - `forecast`
-      - `calculate`
+    - vt.
+      - 预言，预测
+        - `predict`
+        - `forecast`
+        - `calculate`
   - 例句
     - `The coma duration prognostication model can prognosticate the duration of coma.`
       - 结论：昏迷时间预测模型可为临床提供昏迷时间预测。

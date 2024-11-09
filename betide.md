@@ -1,22 +1,28 @@
 - betide
   - 发音
-    - 英 `/bi'taid/`
-    - 美 `/bɪ'taɪd/`
+    - 英
+      - `/bi'taid/`
+    - 美
+      - `/bɪ'taɪd/`
   - 词义
-    - v. 发生；预示
+    - v.
+      - 发生；预示
   - 同根词
     - vt.
-      - `betoken` 预示；表示
+      - `betoken`
+        - 预示；表示
   - 近义词
-    - vt. 预示；降临于，发生于
-      - `indicate`
-      - `forecast`
-      - `shadow`
-      - `announce`
-    - vi. 发生
-      - `occur`
-      - `happen`
-      - `proceed`
+    - vt.
+      - 预示；降临于，发生于
+        - `indicate`
+        - `forecast`
+        - `shadow`
+        - `announce`
+    - vi.
+      - 发生
+        - `occur`
+        - `happen`
+        - `proceed`
   - 例句
     - `The omens betide better results.`
       - 这预兆表明会产生较好的效果。

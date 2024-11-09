@@ -1,26 +1,36 @@
 - fearless
   - 发音
-    - 英 `/'fɪəlɪs/`
-    - 美 `/'fɪrləs/`
+    - 英
+      - `/'fɪəlɪs/`
+    - 美
+      - `/'fɪrləs/`
   - 词义
-    - adj. 不怕的，无畏的
-    - `not afraid of anything`
+    - adj.
+      - 不怕的，无畏的
+        - `not afraid of anything`
   - 同根词
     - adj.
-      - `fearsome` 可怕的；害怕的；极大的
+      - `fearsome`
+        - 可怕的；害怕的；极大的
     - adv.
-      - `fearlessly` 勇敢地；大胆地
+      - `fearlessly`
+        - 勇敢地；大胆地
     - n.
-      - `fear` 害怕；恐惧；敬畏；担心
-      - `fearlessness` 无畏；勇敢
+      - `fear`
+        - 害怕；恐惧；敬畏；担心
+      - `fearlessness`
+        - 无畏；勇敢
     - vi.
-      - `fear` 害怕；敬畏；为…担心
+      - `fear`
+        - 害怕；敬畏；为…担心
     - vt.
-      - `fear` 害怕；敬畏；为…担心
+      - `fear`
+        - 害怕；敬畏；为…担心
   - 近义词
-    - adj. 无畏的；大胆的
-      - `bold`
-      - `audacious`
+    - adj.
+      - 无畏的；大胆的
+        - `bold`
+        - `audacious`
   - 例句
     - `These dogs are absolutely fearless.`
       - 这些狗什么都不怕。

@@ -1,23 +1,30 @@
 - grimy
   - 发音
-    - 英 `/'graimi/`
-    - 美 `/'ɡraɪmi/`
+    - 英
+      - `/'graimi/`
+    - 美
+      - `/'ɡraɪmi/`
   - 词义
-    - adj. 污秽的
-    - `covered with dirt`
+    - adj.
+      - 污秽的
+        - `covered with dirt`
   - 记忆
     - 来自grime (n. 污垢)
   - 同根词
     - n.
-      - `grime` 尘垢；污点；煤尘
-      - `griminess` 污秽
+      - `grime`
+        - 尘垢；污点；煤尘
+      - `griminess`
+        - 污秽
     - vt.
-      - `grime` 使污秽；使…弄脏
+      - `grime`
+        - 使污秽；使…弄脏
   - 近义词
-    - adj. 肮脏的，污秽的
-      - `dirty`
-      - `filthy`
-      - `squalid`
+    - adj.
+      - 肮脏的，污秽的
+        - `dirty`
+        - `filthy`
+        - `squalid`
   - 例句
     - `grimy windows`
       - 落满灰尘的窗子

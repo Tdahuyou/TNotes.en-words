@@ -1,23 +1,33 @@
 - acidity
   - 发音
-    - 英 `/ə'sɪdəti/`
-    - 美 `/ə'sɪdəti/`
+    - 英
+      - `/ə'sɪdəti/`
+    - 美
+      - `/ə'sɪdəti/`
   - 词义
-    - n. 酸度；酸性
+    - n.
+      - 酸度；酸性
   - 记忆
     - acid(酸； 酸的) + ity(名词后缀) → 酸度； 酸性
   - 同根词
     - adj.
-      - `acid` 酸的；讽刺的；刻薄的
-      - `acidic` 酸的，酸性的；产生酸的
+      - `acid`
+        - 酸的；讽刺的；刻薄的
+      - `acidic`
+        - 酸的，酸性的；产生酸的
     - n.
-      - `acid` 酸；<俚>迷幻药
-      - `acidification` [化学] 酸化；成酸性；使……发酸
-      - `acidosis` [内科] 酸中毒，酸毒症；酸液过多症
+      - `acid`
+        - 酸；<俚>迷幻药
+      - `acidification`
+        - [化学] 酸化；成酸性；使……发酸
+      - `acidosis`
+        - [内科] 酸中毒，酸毒症；酸液过多症
     - vi.
-      - `acidify` [化学] 酸化；变酸
+      - `acidify`
+        - [化学] 酸化；变酸
     - vt.
-      - `acidify` 使……成酸；使……酸化
+      - `acidify`
+        - 使……成酸；使……酸化
   - 例句
     - `Blue cheese can be wrapped in foil, but remember to change the foil every few days as acidity will attack the foil.`
       - 蓝纹奶酪可以包在箔纸中，但是切记每隔几天就要换一次箔纸，因为奶酪的酸性会腐蚀箔纸。 。

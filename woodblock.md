@@ -1,11 +1,15 @@
 - woodblock
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 木板〈印〉木版
-    - `a piece of wood with a shape cut on it, used for printing`
+    - n.
+      - 木板〈印〉木版
+        - `a piece of wood with a shape cut on it, used for printing`
   - 近义词
-    - n. 木版；木板
-      - `board`
-      - `timber plank`
+    - n.
+      - 木版；木板
+        - `board`
+        - `timber plank`

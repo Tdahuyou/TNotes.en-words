@@ -1,25 +1,35 @@
 - ruminate
   - 发音
-    - 英 `/'ruːmɪneɪt/`
-    - 美 `/'rumɪnet/`
+    - 英
+      - `/'ruːmɪneɪt/`
+    - 美
+      - `/'rumɪnet/`
   - 词义
-    - v. 反刍,沉思
-    - `to think carefully and deeply about something`
+    - v.
+      - 反刍,沉思
+        - `to think carefully and deeply about something`
   - 同根词
     - adj.
-      - `ruminant` 反刍的；沉思的
-      - `ruminative` 默想的，沉思的；爱反复思考的
+      - `ruminant`
+        - 反刍的；沉思的
+      - `ruminative`
+        - 默想的，沉思的；爱反复思考的
     - n.
-      - `ruminant` 反刍动物
-      - `rumination` 沉思；反刍
-      - `ruminator` 沉思默想的人；好思考的人
+      - `ruminant`
+        - 反刍动物
+      - `rumination`
+        - 沉思；反刍
+      - `ruminator`
+        - 沉思默想的人；好思考的人
   - 近义词
-    - vt. 反刍；沉思；反复思考
-      - `chew the cud`
-      - `remasticate`
-    - vi. 沉思，反刍
-      - `meditate on`
-      - `be deep in thought`
+    - vt.
+      - 反刍；沉思；反复思考
+        - `chew the cud`
+        - `remasticate`
+    - vi.
+      - 沉思，反刍
+        - `meditate on`
+        - `be deep in thought`
   - 例句
     - `One is to see whether you have any worry triggers and to distract yourself when you begin to ruminate.`
       - 首先看看你自己是否有担忧的动机，如果当你自己出现“沉思”时，尽量分散自己的注意力。

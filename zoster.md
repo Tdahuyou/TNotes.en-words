@@ -1,12 +1,16 @@
 - zoster
   - 发音
-    - 英 `/'zɒstə/`
-    - 美 `/'zɑstɚ/`
+    - 英
+      - `/'zɒstə/`
+    - 美
+      - `/'zɑstɚ/`
   - 词义
-    - n. 带,带状疹子
+    - n.
+      - 带,带状疹子
   - 近义词
-    - n. 带状疱疹；（古希腊男子用的）束带
-      - `ceinture`
+    - n.
+      - 带状疱疹；（古希腊男子用的）束带
+        - `ceinture`
   - 例句
     - `Shingles is caused by varicella-zoster virus, which also causes chicken pox.`
       - 带状疱疹由水痘一带状疱疹病毒引起，该病毒还能引起水痘。

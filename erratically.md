@@ -1,11 +1,15 @@
 - erratically
   - 发音
-    - 英 `/ɪ'rætɪkli/`
-    - 美 `/undefined/`
+    - 英
+      - `/ɪ'rætɪkli/`
+    - 美
+      - `/undefined/`
   - 词义
-    - adv. 不规律地，不定地
+    - adv.
+      - 不规律地，不定地
   - 记忆
     - 来自erratic(adj. 无规律的)
   - 近义词
-    - adv. 不定地；不规律地
-      - `variably`
+    - adv.
+      - 不定地；不规律地
+        - `variably`

@@ -1,16 +1,21 @@
 - why
   - 发音
-    - 英 `/waɪ/`
-    - 美 `/hwaɪ/`
+    - 英
+      - `/waɪ/`
+    - 美
+      - `/hwaɪ/`
   - 词义
-    - adv. 为什么
-    - `used to ask or talk about the reason for something`
+    - adv.
+      - 为什么
+        - `used to ask or talk about the reason for something`
   - 近义词
-    - adv. 为什么
-      - `whereto`
-      - `forwhy`
+    - adv.
+      - 为什么
+        - `whereto`
+        - `forwhy`
   - 短语
-    - `no why` 不为什么 
+    - `no why`
+      - 不为什么 
   - 例句
     - `Why are you crying?`
       - 你为什么哭？

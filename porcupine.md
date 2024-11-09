@@ -1,13 +1,17 @@
 - porcupine
   - 发音
-    - 英 `/'pɔːkjʊpaɪn/`
-    - 美 `/'pɔrkjə'paɪn/`
+    - 英
+      - `/'pɔːkjʊpaɪn/`
+    - 美
+      - `/'pɔrkjə'paɪn/`
   - 词义
-    - n. [动]豪猪
-    - `an animal with long sharp parts growing all over its back and sides`
+    - n.
+      - [动]豪猪
+        - `an animal with long sharp parts growing all over its back and sides`
   - 近义词
-    - n. 箭猪，[脊椎]豪猪
-      - `hedgepig`
+    - n.
+      - 箭猪，[脊椎]豪猪
+        - `hedgepig`
   - 例句
     - `In Maine, the most commonly counted roadkill species is the North American porcupine.`
       - 在缅因州，公路交通事故中杀死的动物种类是北美箭猪。

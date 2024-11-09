@@ -1,20 +1,27 @@
 - pupil
   - 发音
-    - 英 `/'pjuːpɪl; -p(ə)l/`
-    - 美 `/pjupl/`
+    - 英
+      - `/'pjuːpɪl; -p(ə)l/`
+    - 美
+      - `/pjupl/`
   - 词义
-    - n. 学生；（尤指）小学生
-    - `someone who is being taught, especially a child`
+    - n.
+      - 学生；（尤指）小学生
+        - `someone who is being taught, especially a child`
   - 同根词
     - adj.
-      - `pupillary` 瞳孔的；学生的；被监护人的
+      - `pupillary`
+        - 瞳孔的；学生的；被监护人的
   - 近义词
-    - n. 学生；[解剖]瞳孔；未成年人
-      - `student`
-      - `minor`
+    - n.
+      - 学生；[解剖]瞳孔；未成年人
+        - `student`
+        - `minor`
   - 短语
-    - `exit pupil` 出射光瞳；后透光孔 
-    - `pupil dilation` 瞳孔扩张；瞳孔放大 
+    - `exit pupil`
+      - 出射光瞳；后透光孔 
+    - `pupil dilation`
+      - 瞳孔扩张；瞳孔放大 
   - 例句
     - `About 20 pupils study music here.`
       - 大约20名小学生在这里学习音乐。

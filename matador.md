@@ -1,14 +1,18 @@
 - matador
   - 发音
-    - 英 `/'mætədɔː/`
-    - 美 `/'mætədɔr/`
+    - 英
+      - `/'mætədɔː/`
+    - 美
+      - `/'mætədɔr/`
   - 词义
-    - n. 斗牛士
-    - `a man who fights and kills  bull s  during a  bullfight `
+    - n.
+      - 斗牛士
+        - `a man who fights and kills  bull s  during a  bullfight `
   - 近义词
-    - n. 斗牛士；王牌
-      - `bullfighter`
-      - `toreador`
+    - n.
+      - 斗牛士；王牌
+        - `bullfighter`
+        - `toreador`
   - 例句
     - `Apparently sensitive to criticism，the bull forgot all about the matador and charged at the drunk.`
       - 那公牛显然对批评话是敏感的，所以它把斗牛士全忘记了，向那醉汉冲了过去。

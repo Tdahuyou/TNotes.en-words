@@ -1,10 +1,13 @@
 - Finnish
   - 发音
-    - 英 `/'finiʃ/`
-    - 美 `/'finiʃ/`
+    - 英
+      - `/'finiʃ/`
+    - 美
+      - `/'finiʃ/`
   - 词义
-    - adj. 芬兰的
-    - `Finnish means belonging or relating to Finland or to its people, language, or culture`
+    - adj.
+      - 芬兰的
+        - `Finnish means belonging or relating to Finland or to its people, language, or culture`
   - 例句
     - `He plans to play with a Finnish team, the Loimaa Bisons, for a week in September.`
       - 他计划在九月份为芬兰的落马亚野牛队打一个星期的比赛。

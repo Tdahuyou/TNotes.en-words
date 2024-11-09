@@ -1,14 +1,18 @@
 - sandbar
   - 发音
-    - 英 `/undefined/`
-    - 美 `/'sændbɑr/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/'sændbɑr/`
   - 词义
-    - n. 沙洲
-    - `A sandbar is a sandbank which is found especially at the mouth of a river or harbour`
+    - n.
+      - 沙洲
+        - `A sandbar is a sandbank which is found especially at the mouth of a river or harbour`
   - 近义词
-    - n. 沙洲；沙堤
-      - `hurst`
-      - `alluvion`
+    - n.
+      - 沙洲；沙堤
+        - `hurst`
+        - `alluvion`
   - 例句
     - `The ship was hung up on a sandbar.`
       - 那艘船在沙洲搁浅了。

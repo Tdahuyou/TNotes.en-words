@@ -1,16 +1,21 @@
 - coppersmith
   - 发音
-    - 英 `/'kɒpəsmɪθ/`
-    - 美 `/'kɔpəsmiθ/`
+    - 英
+      - `/'kɒpəsmɪθ/`
+    - 美
+      - `/'kɔpəsmiθ/`
   - 词义
-    - n. 铜匠
-    - `a person who works copper or copper alloys `
+    - n.
+      - 铜匠
+        - `a person who works copper or copper alloys `
   - 同根词
     - n.
-      - `copperware` 铜器的总称；铜制品
+      - `copperware`
+        - 铜器的总称；铜制品
   - 近义词
-    - n. 铜匠；铜器制造人
-      - `brazier`
+    - n.
+      - 铜匠；铜器制造人
+        - `brazier`
   - 例句
     - `The pawnshop had sold the plates of his Flora after the expiration of thirteen months. Some coppersmith had made stewpans of them.`
       - 那当铺，过了十三个月，便把他那套《植物图说》的铜版全卖了，几个铜匠拿去做了些平底锅。

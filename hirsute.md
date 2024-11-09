@@ -1,16 +1,21 @@
 - hirsute
   - 发音
-    - 英 `/'həːsjuːt/`
-    - 美 `/'hə:sju:t/`
+    - 英
+      - `/'həːsjuːt/`
+    - 美
+      - `/'hə:sju:t/`
   - 词义
-    - adj. 多毛的；有鬃毛的
-    - `having a lot of hair on your body and face`
+    - adj.
+      - 多毛的；有鬃毛的
+        - `having a lot of hair on your body and face`
   - 记忆
     - hirs ( = hair， 毛) + ute → 多毛的
   - 同根词
     - n.
-      - `hirsutism` 多毛症（尤指妇女多毛症）
+      - `hirsutism`
+        - 多毛症（尤指妇女多毛症）
   - 近义词
-    - adj. [生物]多毛的；[昆]有粗毛的
-      - `hairy`
-      - `pileous`
+    - adj.
+      - [生物]多毛的；[昆]有粗毛的
+        - `hairy`
+        - `pileous`

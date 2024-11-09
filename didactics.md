@@ -1,16 +1,21 @@
 - didactics
   - 发音
-    - 英 `/dɪ'dæktɪks/`
-    - 美 `/daɪ'dktɪks/`
+    - 英
+      - `/dɪ'dæktɪks/`
+    - 美
+      - `/daɪ'dktɪks/`
   - 词义
-    - n. 教授法
-    - `the art or science of teaching `
+    - n.
+      - 教授法
+        - `the art or science of teaching `
   - 同根词
     - adj.
-      - `didactical` 教学的；教训的
+      - `didactical`
+        - 教学的；教训的
   - 近义词
-    - n. 教授法，教学法
-      - `pedagogy`
+    - n.
+      - 教授法，教学法
+        - `pedagogy`
   - 例句
     - `This article reviews the applications of heuristic didactics to pharmacology teaching.`
       - 对启发式教学法在药理学教学中的应用进行了论述。

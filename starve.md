@@ -1,30 +1,42 @@
 - starve
   - 发音
-    - 英 `/stɑːv/`
-    - 美 `/stɑrv/`
+    - 英
+      - `/stɑːv/`
+    - 美
+      - `/stɑrv/`
   - 词义
-    - v. 挨饿；饿死
-    - `to suffer or die because you do not have enough to eat`
+    - v.
+      - 挨饿；饿死
+        - `to suffer or die because you do not have enough to eat`
   - 记忆
     - star(明星) ＋ ve → 和明星的生活正相反 → 挨饿， 饿死
   - 同根词
     - adj.
-      - `starving` 饥饿的；挨饿的
-      - `starveling` 挨饿的，饥饿的；饿瘦了的；贫穷的
+      - `starving`
+        - 饥饿的；挨饿的
+      - `starveling`
+        - 挨饿的，饥饿的；饿瘦了的；贫穷的
     - n.
-      - `starvation` 饿死；挨饿；绝食
-      - `starveling` 挨饿者；饿瘦了的人
+      - `starvation`
+        - 饿死；挨饿；绝食
+      - `starveling`
+        - 挨饿者；饿瘦了的人
     - v.
-      - `starving` 挨饿（starve的ing形式）；使饿死
+      - `starving`
+        - 挨饿（starve的ing形式）；使饿死
   - 近义词
-    - vi. 饿死；挨饿；渴望
-      - `rare`
-      - `die form hunger`
-    - vt. 使饿死；使挨饿
-      - `famish`
+    - vi.
+      - 饿死；挨饿；渴望
+        - `rare`
+        - `die form hunger`
+    - vt.
+      - 使饿死；使挨饿
+        - `famish`
   - 短语
-    - `starve to death` 饿死 
-    - `starve for` 渴望；急需 
+    - `starve to death`
+      - 饿死 
+    - `starve for`
+      - 渴望；急需 
   - 例句
     - `Thousands of people will starve if food doesn’t reach the city.`
       - 如果食品不能运到那座城市，成千上万的人就要饿死。

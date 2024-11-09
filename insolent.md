@@ -1,24 +1,30 @@
 - insolent
   - 发音
-    - 英 `/'insələnt/`
-    - 美 `/'ɪnsələnt/`
+    - 英
+      - `/'insələnt/`
+    - 美
+      - `/'ɪnsələnt/`
   - 词义
-    - adj. 傲慢的；无礼的
-    - `rude and not showing any respect`
+    - adj.
+      - 傲慢的；无礼的
+        - `rude and not showing any respect`
   - 记忆
     - in + sol (膨胀) + ent → 他因为一点名气就膨胀了， 变得很傲慢 → 傲慢的
   - 同根词
     - adv.
-      - `insolently` 粗鲁地；无礼地；自傲地
+      - `insolently`
+        - 粗鲁地；无礼地；自傲地
     - n.
-      - `insolence` 傲慢；傲慢无礼的行为
+      - `insolence`
+        - 傲慢；傲慢无礼的行为
   - 近义词
-    - adj. 无礼的；傲慢的；粗野的；无耻的
-      - `robust`
-      - `gross`
-      - `rough`
-      - `country`
-      - `bush`
+    - adj.
+      - 无礼的；傲慢的；粗野的；无耻的
+        - `robust`
+        - `gross`
+        - `rough`
+        - `country`
+        - `bush`
   - 例句
     - `an insolent tone of voice`
       - 傲慢的语气

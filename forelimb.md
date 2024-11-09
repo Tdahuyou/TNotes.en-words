@@ -1,14 +1,18 @@
 - forelimb
   - 发音
-    - 英 `/'fɔːlɪm/`
-    - 美 `/'fɔ:lim/`
+    - 英
+      - `/'fɔːlɪm/`
+    - 美
+      - `/'fɔ:lim/`
   - 词义
-    - n. 前肢
-    - `either of the front or anterior limbs of a four-limbed vertebrate: a foreleg, flipper, or wing `
+    - n.
+      - 前肢
+        - `either of the front or anterior limbs of a four-limbed vertebrate: a foreleg, flipper, or wing `
   - 近义词
-    - n. [脊椎]前肢；前翼
-      - `fore leg`
-      - `manus`
+    - n.
+      - [脊椎]前肢；前翼
+        - `fore leg`
+        - `manus`
   - 例句
     - `The doctor said the problem lied in its forelimb and it would not die.`
       - 医生说问题在于它的前肢上，不过它不会死的。

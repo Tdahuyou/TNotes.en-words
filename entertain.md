@@ -1,29 +1,38 @@
 - entertain
   - 发音
-    - 英 `/ˌentər'teɪn/`
-    - 美 `/,ɛntɚ'ten/`
+    - 英
+      - `/ˌentər'teɪn/`
+    - 美
+      - `/,ɛntɚ'ten/`
   - 词义
-    - v. 招待，款待；使快乐，娱乐
-    - `to invite people to your home for a meal, party etc, or to take your company’s customers somewhere to have a meal, drinks etc`
+    - v.
+      - 招待，款待；使快乐，娱乐
+        - `to invite people to your home for a meal, party etc, or to take your company’s customers somewhere to have a meal, drinks etc`
   - 记忆
     - enter(进入) + tain(拿住) → 拿着东西进入 → 招待， 款待
   - 同根词
     - adj.
-      - `entertaining` 令人愉快的
+      - `entertaining`
+        - 令人愉快的
     - n.
-      - `entertainment` 娱乐；消遣；款待
-      - `entertainer` 演艺人员，表演者
+      - `entertainment`
+        - 娱乐；消遣；款待
+      - `entertainer`
+        - 演艺人员，表演者
     - v.
-      - `entertaining` 款待（entertain的ing形式）
+      - `entertaining`
+        - 款待（entertain的ing形式）
   - 近义词
-    - vt. 娱乐；招待；怀抱；容纳
-      - `serve`
-      - `invite`
-      - `attend`
-      - `contain`
-      - `accept`
-    - vi. 款待
-      - `welcome in`
+    - vt.
+      - 娱乐；招待；怀抱；容纳
+        - `serve`
+        - `invite`
+        - `attend`
+        - `contain`
+        - `accept`
+    - vi.
+      - 款待
+        - `welcome in`
   - 例句
     - `Mark usually does the cooking when we entertain.`
       - 我们招待客人时通常都是马克下厨。

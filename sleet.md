@@ -1,17 +1,23 @@
 - sleet
   - 发音
-    - 英 `/sliːt/`
-    - 美 `/slit/`
+    - 英
+      - `/sliːt/`
+    - 美
+      - `/slit/`
   - 词义
-    - v. 下雨夹雪；下冰雹
-    - n. 雨夹雪；雨淞
-    - `half-frozen rain that falls when it is very cold`
+    - v.
+      - 下雨夹雪；下冰雹
+    - n.
+      - 雨夹雪；雨淞
+        - `half-frozen rain that falls when it is very cold`
   - 同根词
     - adj.
-      - `sleety` 雨夹雪的
+      - `sleety`
+        - 雨夹雪的
   - 近义词
-    - n. [气象]雨夹雪；雨淞
-      - `verglas`
+    - n.
+      - [气象]雨夹雪；雨淞
+        - `verglas`
   - 例句
     - `Photo Tip: When shooting in cold weather, or extreme conditions such as snow and sleet, it's important not to change your lenses outdoors.`
       - 拍照小技巧：在寒冷的天气里，或者遇到极端天气的时候，如下雪或者雨夹雪，想要拍照，最重要的是注意不要在户外更换镜头。

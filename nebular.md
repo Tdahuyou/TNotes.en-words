@@ -1,12 +1,16 @@
 - nebular
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - adj. [天]星云的
+    - adj.
+      - [天]星云的
   - 同根词
     - adj.
-      - `nebulous` 朦胧的；星云的，星云状的
+      - `nebulous`
+        - 朦胧的；星云的，星云状的
   - 例句
     - `Ultraviolet radiation from the hot star powers the nebular glow.`
       - 热恒星的紫外辐射使星云发光。

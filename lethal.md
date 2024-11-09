@@ -1,25 +1,34 @@
 - lethal
   - 发音
-    - 英 `/'liːθl/`
-    - 美 `/'liθl/`
+    - 英
+      - `/'liːθl/`
+    - 美
+      - `/'liθl/`
   - 词义
-    - adj. 致命的；破坏性极大的，极其有害的
-    - `likely to be powerful or dangerous – often used humorously`
+    - adj.
+      - 致命的；破坏性极大的，极其有害的
+        - `likely to be powerful or dangerous – often used humorously`
   - 记忆
     - leth(死， 僵) + al → 致命的
   - 同根词
     - n.
-      - `lethality` 杀伤力；致命性；毁坏性
+      - `lethality`
+        - 杀伤力；致命性；毁坏性
   - 近义词
-    - adj. [生物][医]致命的，致死的
-      - `kill`
-      - `fatal`
-      - `deadly`
+    - adj.
+      - [生物][医]致命的，致死的
+        - `kill`
+        - `fatal`
+        - `deadly`
   - 短语
-    - `lethal weapon` 致命凶器 
-    - `lethal injection` n. 致命性注射剂；注射处死 
-    - `lethal dose` [医]致死剂量 
-    - `lethal concentration` 致死浓度 
+    - `lethal weapon`
+      - 致命凶器 
+    - `lethal injection`
+      - n. 致命性注射剂；注射处死 
+    - `lethal dose`
+      - [医]致死剂量 
+    - `lethal concentration`
+      - 致死浓度 
   - 例句
     - `They were all drinking lethal amounts of tequila!`
       - 他们都在不要命地喝特奎拉酒！

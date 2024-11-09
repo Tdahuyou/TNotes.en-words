@@ -1,23 +1,31 @@
 - sulky
   - 发音
-    - 英 `/'sʌlkɪ/`
-    - 美 `/'sʌlki/`
+    - 英
+      - `/'sʌlkɪ/`
+    - 美
+      - `/'sʌlki/`
   - 词义
-    - adj. 生气的；阴沉的
-    - `sulking, or tending to sulk`
+    - adj.
+      - 生气的；阴沉的
+        - `sulking, or tending to sulk`
   - 同根词
     - adj.
-      - `sullen` 愠怒的，不高兴的；（天气）阴沉的；沉闷的
+      - `sullen`
+        - 愠怒的，不高兴的；（天气）阴沉的；沉闷的
     - adv.
-      - `sullenly` 阴沉地，不高兴地
+      - `sullenly`
+        - 阴沉地，不高兴地
     - n.
-      - `sulk` 生气；愠怒；生气的人
+      - `sulk`
+        - 生气；愠怒；生气的人
     - vi.
-      - `sulk` 生气；愠怒
+      - `sulk`
+        - 生气；愠怒
   - 近义词
-    - adj. 生气的；阴沉的
-      - `angry`
-      - `heavy`
+    - adj.
+      - 生气的；阴沉的
+        - `angry`
+        - `heavy`
   - 例句
     - `a sulky child`
       - 生闷气的孩子

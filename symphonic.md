@@ -1,21 +1,28 @@
 - symphonic
   - 发音
-    - 英 `/sɪm'fɒnɪk/`
-    - 美 `/sɪm'fɑnɪk/`
+    - 英
+      - `/sɪm'fɒnɪk/`
+    - 美
+      - `/sɪm'fɑnɪk/`
   - 词义
-    - adj. 交响乐的,和声的
-    - `Symphonic means relating to or like a symphony`
+    - adj.
+      - 交响乐的,和声的
+        - `Symphonic means relating to or like a symphony`
   - 同根词
     - adj.
-      - `symphonious` 和谐的；调和的
+      - `symphonious`
+        - 和谐的；调和的
     - n.
-      - `symphony` 交响乐；谐声，和声
+      - `symphony`
+        - 交响乐；谐声，和声
   - 近义词
-    - adj. 交响乐的；交响性的；和声的
-      - `harmonic`
-      - `concordant`
+    - adj.
+      - 交响乐的；交响性的；和声的
+        - `harmonic`
+        - `concordant`
   - 短语
-    - `symphonic poem` 交响诗 
+    - `symphonic poem`
+      - 交响诗 
   - 例句
     - `Of course, anyone knows that it is impossible to play a symphonic work with just three strings.`
       - 当然，每个人都知道，只用三根弦来演奏交响乐是不可能的。

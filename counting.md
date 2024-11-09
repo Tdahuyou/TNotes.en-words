@@ -1,37 +1,56 @@
 - counting
   - 发音
-    - 英 `/'kauntiŋ/`
-    - 美 `/'kaʊntɪŋ/`
+    - 英
+      - `/'kauntiŋ/`
+    - 美
+      - `/'kaʊntɪŋ/`
   - 词义
-    - n. 计数，计算
+    - n.
+      - 计数，计算
   - 同根词
     - adj.
-      - `counter` 相反的
-      - `countless` 无数的；数不尽的
-      - `countable` 可计算的；能算的
+      - `counter`
+        - 相反的
+      - `countless`
+        - 无数的；数不尽的
+      - `countable`
+        - 可计算的；能算的
     - adv.
-      - `counter` 相反地
+      - `counter`
+        - 相反地
     - n.
-      - `count` 计数；计算；伯爵
-      - `counter` 计数器，计算器；柜台；计算者
-      - `countable` 可数名词；可数的东西
+      - `count`
+        - 计数；计算；伯爵
+      - `counter`
+        - 计数器，计算器；柜台；计算者
+      - `countable`
+        - 可数名词；可数的东西
     - v.
-      - `counter` 反击；反对
+      - `counter`
+        - 反击；反对
     - vi.
-      - `count` 计数；有价值
+      - `count`
+        - 计数；有价值
     - vt.
-      - `count` 计算；认为
+      - `count`
+        - 计算；认为
   - 近义词
-    - n. 计算，[数]计数
-      - `calculation`
-      - `computation`
-      - `valuation`
+    - n.
+      - 计算，[数]计数
+        - `calculation`
+        - `computation`
+        - `valuation`
   - 短语
-    - `counting down` 倒计时，脉冲分频 
-    - `double counting` 重复计算 
-    - `counting circuit` 计数电路 
-    - `head counting` 清点人数；民意测验 
-    - `cycle counting` 周期盘点，循环盘点 
+    - `counting down`
+      - 倒计时，脉冲分频 
+    - `double counting`
+      - 重复计算 
+    - `counting circuit`
+      - 计数电路 
+    - `head counting`
+      - 清点人数；民意测验 
+    - `cycle counting`
+      - 周期盘点，循环盘点 
   - 例句
     - `You must be accurate in counting.`
       - 你在计算时必须准确。

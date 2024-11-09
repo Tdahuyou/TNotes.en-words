@@ -1,16 +1,25 @@
 - Asia
   - 发音
-    - 英 `/ˈeɪʃə/`
-    - 美 `/ˈeɪʒə/`
+    - 英
+      - `/ˈeɪʃə/`
+    - 美
+      - `/ˈeɪʒə/`
   - 词义
   - 短语
-    - `southeast asia` 东南亚 
-    - `east asia` 东亚 
-    - `asia pacific` 亚太地区；亚太区 
-    - `south asia` n. 南亚 
-    - `central asia` 中亚；亚洲中部 
-    - `asia minor` n. 小亚细亚 
-    - `financial crisis in asia` 亚洲金融危机 
+    - `southeast asia`
+      - 东南亚 
+    - `east asia`
+      - 东亚 
+    - `asia pacific`
+      - 亚太地区；亚太区 
+    - `south asia`
+      - n. 南亚 
+    - `central asia`
+      - 中亚；亚洲中部 
+    - `asia minor`
+      - n. 小亚细亚 
+    - `financial crisis in asia`
+      - 亚洲金融危机 
   - 例句
     - `The European powers extended their authority in Asia.`
       - 欧洲列强在亚洲扩大他们的管辖权。

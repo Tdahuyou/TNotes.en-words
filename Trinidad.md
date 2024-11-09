@@ -1,11 +1,15 @@
 - Trinidad
   - 发音
-    - 英 `/'trɪnɪ,dæd/`
-    - 美 `/'trinidæd; ,tri:ni'ðɑ:ð/`
+    - 英
+      - `/'trɪnɪ,dæd/`
+    - 美
+      - `/'trinidæd; ,tri:ni'ðɑ:ð/`
   - 词义
-    - n. 特立尼达岛
+    - n.
+      - 特立尼达岛
   - 短语
-    - `trinidad and tobago` 特立尼达和多巴哥（拉丁美洲岛国） 
+    - `trinidad and tobago`
+      - 特立尼达和多巴哥（拉丁美洲岛国） 
   - 例句
     - `In Trinidad, I proposed an Energy and Climate Partnership for the Americas.`
       - 在特立尼达，我提出了美洲国家能源和气候合作计划。

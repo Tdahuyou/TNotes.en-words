@@ -1,16 +1,21 @@
 - epistle
   - 发音
-    - 英 `/ɪ'pɪs(ə)l/`
-    - 美 `/ɪ'pɪsl/`
+    - 英
+      - `/ɪ'pɪs(ə)l/`
+    - 美
+      - `/ɪ'pɪsl/`
   - 词义
-    - n. 书信
-    - `a long or important letter`
+    - n.
+      - 书信
+        - `a long or important letter`
   - 同根词
     - adj.
-      - `epistolary` 书信的；书信体的；用书信的
+      - `epistolary`
+        - 书信的；书信体的；用书信的
   - 近义词
-    - n. 书信；使徒书；书信体诗文
-      - `carta`
+    - n.
+      - 书信；使徒书；书信体诗文
+        - `carta`
   - 例句
     - `Now immediately we can see that this is an epistle which has a great deal to teach us as we live in the last times of the Gentiles.`
       - 现在我们能看见当我们住在非犹太人的最后时期，这是一封常常有教我们的书信。

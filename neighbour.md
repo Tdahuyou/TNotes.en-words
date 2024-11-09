@@ -1,38 +1,55 @@
 - neighbour
   - 发音
-    - 英 `/'neɪbə/`
-    - 美 `/'neɪbə(r); 'neɪbɚ/`
+    - 英
+      - `/'neɪbə/`
+    - 美
+      - `/'neɪbə(r); 'neɪbɚ/`
   - 词义
-    - n. 邻居
-    - `someone who lives next to you or near you`
+    - n.
+      - 邻居
+        - `someone who lives next to you or near you`
   - 同根词
     - adj.
-      - `neighbor` 邻近的
-      - `neighboring` 邻近的；附近的（等于neighbouring）
-      - `neighbouring` 邻近的；附近的；接壤的
-      - `neighborly` 睦邻的；友好的；邻居似的
-      - `neighbourly` 像邻居的；亲切的；睦邻的
+      - `neighbor`
+        - 邻近的
+      - `neighboring`
+        - 邻近的；附近的（等于neighbouring）
+      - `neighbouring`
+        - 邻近的；附近的；接壤的
+      - `neighborly`
+        - 睦邻的；友好的；邻居似的
+      - `neighbourly`
+        - 像邻居的；亲切的；睦邻的
     - n.
-      - `neighbor` 邻居
-      - `neighbourhood` 邻近；周围；邻居关系；附近一带
+      - `neighbor`
+        - 邻居
+      - `neighbourhood`
+        - 邻近；周围；邻居关系；附近一带
     - v.
-      - `neighboring` 与…为邻；位于附近（neighbor的ing形式）
+      - `neighboring`
+        - 与…为邻；位于附近（neighbor的ing形式）
     - vi.
-      - `neighbor` 友好；毗邻而居
+      - `neighbor`
+        - 友好；毗邻而居
     - vt.
-      - `neighbor` 邻接
+      - `neighbor`
+        - 邻接
   - 近义词
-    - n. 邻居；仁慈的人
-      - `joneses`
-      - `vicinage`
-    - vt. 邻接
-      - `abut upon`
-      - `abut against`
-    - vi. 住在邻近；毗邻；友善
-      - `abut`
-    - adj. 邻居的；邻近的
-      - `adjacent`
-      - `nearby`
+    - n.
+      - 邻居；仁慈的人
+        - `joneses`
+        - `vicinage`
+    - vt.
+      - 邻接
+        - `abut upon`
+        - `abut against`
+    - vi.
+      - 住在邻近；毗邻；友善
+        - `abut`
+    - adj.
+      - 邻居的；邻近的
+        - `adjacent`
+        - `nearby`
   - 例句
     - `One of the neighbors complained about the noise from the party.`
       - 有位邻居抱怨聚会太吵。

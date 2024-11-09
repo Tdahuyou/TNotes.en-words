@@ -1,11 +1,15 @@
 - unnoteworthy
   - 发音
-    - 英 `/ˌʌn'noutwɜːrði/`
-    - 美 `/undefined/`
+    - 英
+      - `/ˌʌn'noutwɜːrði/`
+    - 美
+      - `/undefined/`
   - 词义
-    - adj. 不显著的，不值得注意的
+    - adj.
+      - 不显著的，不值得注意的
   - 近义词
-    - adj. 不显著的；普通的；不值得注意的
-      - `ordinary`
-      - `general`
-      - `average`
+    - adj.
+      - 不显著的；普通的；不值得注意的
+        - `ordinary`
+        - `general`
+        - `average`

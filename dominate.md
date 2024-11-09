@@ -1,37 +1,52 @@
 - dominate
   - 发音
-    - 英 `/'dɑːmɪneɪt/`
-    - 美 `/'dɑmɪnet/`
+    - 英
+      - `/'dɑːmɪneɪt/`
+    - 美
+      - `/'dɑmɪnet/`
   - 词义
-    - v. 支配，统治；控制；盛行
-    - `to control someone or something or to have more importance than other people or things`
+    - v.
+      - 支配，统治；控制；盛行
+        - `to control someone or something or to have more importance than other people or things`
   - 记忆
     - domin(统治) + ate(动词后缀) → 统治； 控制
   - 同根词
     - adj.
-      - `dominant` 显性的；占优势的；支配的，统治的
-      - `dominated` 占主导地位的；强势的；占统治地位的；[数] 受控的
-      - `dominating` 主要的；独裁的；专横的
+      - `dominant`
+        - 显性的；占优势的；支配的，统治的
+      - `dominated`
+        - 占主导地位的；强势的；占统治地位的；[数] 受控的
+      - `dominating`
+        - 主要的；独裁的；专横的
     - n.
-      - `dominant` 显性
-      - `dominance` 优势；统治；支配
-      - `domination` 控制；支配
-      - `dominion` 主权，统治权；支配；领土
+      - `dominant`
+        - 显性
+      - `dominance`
+        - 优势；统治；支配
+      - `domination`
+        - 控制；支配
+      - `dominion`
+        - 主权，统治权；支配；领土
     - v.
-      - `dominated` 控制，支配；处于支配地位（dominate的过去式）
-      - `dominating` 支配；统治（dominate的ing形式）
+      - `dominated`
+        - 控制，支配；处于支配地位（dominate的过去式）
+      - `dominating`
+        - 支配；统治（dominate的ing形式）
   - 近义词
-    - vt. 控制；支配；占优势；在…中占主要地位
-      - `possess`
-      - `contain`
-      - `regulate`
-      - `bit`
-      - `bottle`
-    - vi. 占优势；处于支配地位
-      - `advantage over`
-      - `prevail over`
+    - vt.
+      - 控制；支配；占优势；在…中占主要地位
+        - `possess`
+        - `contain`
+        - `regulate`
+        - `bit`
+        - `bottle`
+    - vi.
+      - 占优势；处于支配地位
+        - `advantage over`
+        - `prevail over`
   - 短语
-    - `dominate the market` 欺行霸市 
+    - `dominate the market`
+      - 欺行霸市 
   - 例句
     - `The industry is dominated by five multinational companies.`
       - 这个行业受五家跨国公司控制。

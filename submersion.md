@@ -1,28 +1,41 @@
 - submersion
   - 发音
-    - 英 `/səb'məːʃən/`
-    - 美 `/undefined/`
+    - 英
+      - `/səb'məːʃən/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 淹没
-    - `the action of going under water, or the state of being completely covered in liquid`
+    - n.
+      - 淹没
+        - `the action of going under water, or the state of being completely covered in liquid`
   - 同根词
     - adj.
-      - `submersible` 能潜水的；能沉入水中的
-      - `submerse` 在水下的
-      - `submersed` 生长水中的；淹没的
+      - `submersible`
+        - 能潜水的；能沉入水中的
+      - `submerse`
+        - 在水下的
+      - `submersed`
+        - 生长水中的；淹没的
     - n.
-      - `submergence` 下潜，下沉；淹没
+      - `submergence`
+        - 下潜，下沉；淹没
     - v.
-      - `submersed` 浸没（submerse的过去式和过去分词）
+      - `submersed`
+        - 浸没（submerse的过去式和过去分词）
     - vi.
-      - `submerge` 淹没；潜入水中；湮没
-      - `submerse` 淹没；潜水
+      - `submerge`
+        - 淹没；潜入水中；湮没
+      - `submerse`
+        - 淹没；潜水
     - vt.
-      - `submerge` 淹没；把…浸入；沉浸
-      - `submerse` 使沉入水中；使淹没
+      - `submerge`
+        - 淹没；把…浸入；沉浸
+      - `submerse`
+        - 使沉入水中；使淹没
   - 近义词
-    - n. 淹没，浸没
-      - `giving up`
+    - n.
+      - 淹没，浸没
+        - `giving up`
   - 例句
     - `Background Drowning is defined as death due to submersion in liquid.`
       - 溺死是指淹没于液体之中发生的死亡。

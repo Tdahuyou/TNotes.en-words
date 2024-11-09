@@ -1,26 +1,35 @@
 - apprehension
   - 发音
-    - 英 `/æprɪ'henʃ(ə)n/`
-    - 美 `/,æprɪ'hɛnʃən/`
+    - 英
+      - `/æprɪ'henʃ(ə)n/`
+    - 美
+      - `/,æprɪ'hɛnʃən/`
   - 词义
-    - n. 理解；恐惧；逮捕；忧惧
-    - `the act of apprehending a criminal`
+    - n.
+      - 理解；恐惧；逮捕；忧惧
+        - `the act of apprehending a criminal`
   - 同根词
     - adj.
-      - `apprehensive` 忧虑的；不安的；敏悟的；知晓的
-      - `apprehensible` 可理解的，可了解的
+      - `apprehensive`
+        - 忧虑的；不安的；敏悟的；知晓的
+      - `apprehensible`
+        - 可理解的，可了解的
     - n.
-      - `apprehensiveness` 领悟力；忧虑感
+      - `apprehensiveness`
+        - 领悟力；忧虑感
     - vi.
-      - `apprehend` 理解；担心
+      - `apprehend`
+        - 理解；担心
     - vt.
-      - `apprehend` 理解；逮捕；忧虑
+      - `apprehend`
+        - 理解；逮捕；忧虑
   - 近义词
-    - n. 理解；恐惧；[法]逮捕；忧惧
-      - `grasp`
-      - `understanding`
-      - `fear`
-      - `comprehension`
+    - n.
+      - 理解；恐惧；[法]逮捕；忧惧
+        - `grasp`
+        - `understanding`
+        - `fear`
+        - `comprehension`
   - 例句
     - `It reflects real anger and apprehension about the future.`
       - 这反映出对未来真正的愤怒和忧虑。

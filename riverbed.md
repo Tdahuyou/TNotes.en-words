@@ -1,14 +1,18 @@
 - riverbed
   - 发音
-    - 英 `/'rɪvəbed/`
-    - 美 `/'rɪvɚ,bɛd/`
+    - 英
+      - `/'rɪvəbed/`
+    - 美
+      - `/'rɪvɚ,bɛd/`
   - 词义
-    - n. 河床
-    - `A riverbed is the ground which a river flows over`
+    - n.
+      - 河床
+        - `A riverbed is the ground which a river flows over`
   - 近义词
-    - n. 河床
-      - `streambed`
-      - `cauce`
+    - n.
+      - 河床
+        - `streambed`
+        - `cauce`
   - 例句
     - `Samburu man leads his cattle out of the village and across a swath of arid land toward a water well dug into a desiccated Kenyan riverbed.`
       - 一位桑布鲁男子赶着牛群走出村落，穿过一片干燥的土地，朝着在干燥河床上挖掘的一口水井进发。

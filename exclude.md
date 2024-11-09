@@ -1,25 +1,34 @@
 - exclude
   - 发音
-    - 英 `/ɪk'skluːd/`
-    - 美 `/ɪk'sklʊd/`
+    - 英
+      - `/ɪk'skluːd/`
+    - 美
+      - `/ɪk'sklʊd/`
   - 词义
-    - vt. 把…排除在外
-    - `to deliberately not include something`
+    - vt.
+      - 把…排除在外
+        - `to deliberately not include something`
   - 记忆
     - ex(出， 外) + clud(关闭) + e → 关出去 → 把…排除在外
   - 同根词
     - adj.
-      - `exclusive` 独有的；排外的；专一的
+      - `exclusive`
+        - 独有的；排外的；专一的
     - adv.
-      - `exclusively` 唯一地；专有地；排外地
+      - `exclusively`
+        - 唯一地；专有地；排外地
     - n.
-      - `exclusive` 独家新闻；独家经营的项目；排外者
-      - `exclusion` 排除；排斥；驱逐；被排除在外的事物
-      - `exclusiveness` 排他性；排外性；独占
+      - `exclusive`
+        - 独家新闻；独家经营的项目；排外者
+      - `exclusion`
+        - 排除；排斥；驱逐；被排除在外的事物
+      - `exclusiveness`
+        - 排他性；排外性；独占
   - 近义词
-    - vt. 排除；排斥；拒绝接纳；逐出
-      - `preclude`
-      - `rule out`
+    - vt.
+      - 排除；排斥；拒绝接纳；逐出
+        - `preclude`
+        - `rule out`
   - 例句
     - `a special diet that excludes dairy products`
       - 不包含奶制品的特别食谱

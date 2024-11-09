@@ -1,20 +1,30 @@
 - urea
   - 发音
-    - 英 `/'juəriə/`
-    - 美 `/jʊ'riə/`
+    - 英
+      - `/'juəriə/`
+    - 美
+      - `/jʊ'riə/`
   - 词义
-    - n. 尿素
+    - n.
+      - 尿素
   - 近义词
-    - n. [肥料]尿素
-      - `ureophil`
-      - `carbamide`
+    - n.
+      - [肥料]尿素
+        - `ureophil`
+        - `carbamide`
   - 短语
-    - `urea nitrogen` 尿素氮；脲氮 
-    - `urea formaldehyde` 脲醛；尿素甲醛 
-    - `urea formaldehyde resin` 脲醛树脂；尿素树脂；脲醛尸 
-    - `urea resin` 尿素甲醛树脂；脲醛树脂；尿素树脂 
-    - `urea peroxide` 过氧化脲 
-    - `urea fertilizer` 尿素；尿素肥料 
+    - `urea nitrogen`
+      - 尿素氮；脲氮 
+    - `urea formaldehyde`
+      - 脲醛；尿素甲醛 
+    - `urea formaldehyde resin`
+      - 脲醛树脂；尿素树脂；脲醛尸 
+    - `urea resin`
+      - 尿素甲醛树脂；脲醛树脂；尿素树脂 
+    - `urea peroxide`
+      - 过氧化脲 
+    - `urea fertilizer`
+      - 尿素；尿素肥料 
   - 例句
     - `Plastics industry - All kinds of plastic molding particles made from phenol, urea, melamine, and epoxy.`
       - 塑料工业中的苯酚、尿素、密胺、环氧树脂等各种塑料成型的颗粒。

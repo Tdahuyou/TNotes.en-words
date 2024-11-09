@@ -1,20 +1,26 @@
 - recklessness
   - 发音
-    - 英 `/'rekləsnəs/`
-    - 美 `/'reklisnis/`
+    - 英
+      - `/'rekləsnəs/`
+    - 美
+      - `/'reklisnis/`
   - 词义
-    - n. 鲁莽，轻率
+    - n.
+      - 鲁莽，轻率
   - 记忆
     - 来自reckless(adj. 鲁莽的； 不计后果的)
   - 同根词
     - adj.
-      - `reckless` 鲁莽的，不顾后果的；粗心大意的
+      - `reckless`
+        - 鲁莽的，不顾后果的；粗心大意的
     - adv.
-      - `recklessly` 鲁莽地；不顾一切地
+      - `recklessly`
+        - 鲁莽地；不顾一切地
   - 近义词
-    - n. 鲁莽；轻率；不顾一切，不顾后果
-      - `precipitation`
-      - `sauciness`
+    - n.
+      - 鲁莽；轻率；不顾一切，不顾后果
+        - `precipitation`
+        - `sauciness`
   - 例句
     - `He soon regretted his recklessness.`
       - 他不久便后悔他的鲁莽。

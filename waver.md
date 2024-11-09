@@ -1,34 +1,48 @@
 - waver
   - 发音
-    - 英 `/'weivə/`
-    - 美 `/'wevɚ/`
+    - 英
+      - `/'weivə/`
+    - 美
+      - `/'wevɚ/`
   - 词义
-    - v. 减弱；动摇
-    - `to become weaker or less certain`
+    - v.
+      - 减弱；动摇
+        - `to become weaker or less certain`
   - 记忆
     - 和wave (v. 波动， 飘动) 一起记
   - 同根词
     - adj.
-      - `wavy` 多浪的；波动起伏的
-      - `waving` 波浪状的
-      - `wavering` 摇摆的；摇幌的
+      - `wavy`
+        - 多浪的；波动起伏的
+      - `waving`
+        - 波浪状的
+      - `wavering`
+        - 摇摆的；摇幌的
     - n.
-      - `wave` 波动；波浪；高潮；挥手示意；卷曲
-      - `waving` 电流舞；波浪舞
+      - `wave`
+        - 波动；波浪；高潮；挥手示意；卷曲
+      - `waving`
+        - 电流舞；波浪舞
     - v.
-      - `waving` 波动；飘扬（wave的ing形式）
-      - `wavering` 犹豫不决（waver的ing形式）；摇动
+      - `waving`
+        - 波动；飘扬（wave的ing形式）
+      - `wavering`
+        - 犹豫不决（waver的ing形式）；摇动
     - vi.
-      - `wave` 波动；起伏；挥手示意；摇动；呈波形
+      - `wave`
+        - 波动；起伏；挥手示意；摇动；呈波形
     - vt.
-      - `wave` 卷（烫）发；向…挥手示意；使成波浪形
+      - `wave`
+        - 卷（烫）发；向…挥手示意；使成波浪形
   - 近义词
-    - vi. 摇曳；踌躇；摆动
-      - `hesitate`
-      - `crane`
-    - n. 动摇；踌躇；挥动者
-      - `rolling`
-      - `labefaction`
+    - vi.
+      - 摇曳；踌躇；摆动
+        - `hesitate`
+        - `crane`
+    - n.
+      - 动摇；踌躇；挥动者
+        - `rolling`
+        - `labefaction`
   - 例句
     - `Her voice wavered uncertainly.`
       - 她吞吞吐吐的。

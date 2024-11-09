@@ -1,17 +1,23 @@
 - forebode
   - 发音
-    - 英 `/fɔː'bəud/`
-    - 美 `/fɔ:'bəud/`
+    - 英
+      - `/fɔː'bəud/`
+    - 美
+      - `/fɔ:'bəud/`
   - 词义
-    - v. 预示，预言，预兆
-    - `to warn of or indicate (an event, result, etc) in advance `
+    - v.
+      - 预示，预言，预兆
+        - `to warn of or indicate (an event, result, etc) in advance `
   - 记忆
     - fore (在…之前) + bode → 事情发生之前的猜测 → 预言
   - 同根词
     - adj.
-      - `foreboding` 预感的；不祥之兆的
+      - `foreboding`
+        - 预感的；不祥之兆的
     - n.
-      - `foreboding` 预感；先兆；预兆
+      - `foreboding`
+        - 预感；先兆；预兆
   - 近义词
-    - v. 预示；预感；预兆
-      - `forbode`
+    - v.
+      - 预示；预感；预兆
+        - `forbode`

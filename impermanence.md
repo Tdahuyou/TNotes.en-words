@@ -1,18 +1,24 @@
 - impermanence
   - 发音
-    - 英 `/undefined/`
-    - 美 `/undefined/`
+    - 英
+      - `/undefined/`
+    - 美
+      - `/undefined/`
   - 词义
-    - n. 暂时,无常
+    - n.
+      - 暂时,无常
   - 同根词
     - adj.
-      - `impermanent` 暂时的；非永久的
+      - `impermanent`
+        - 暂时的；非永久的
     - n.
-      - `impermanency` 非永久性
+      - `impermanency`
+        - 非永久性
   - 近义词
-    - n. 无常；暂时性
-      - `anicca`
-      - `transiency`
+    - n.
+      - 无常；暂时性
+        - `anicca`
+        - `transiency`
   - 例句
     - `So why then do we reject the impermanence of the ever-changing universe when it comes to our own lives?`
       - 所以，为什么我们要拒绝这千变万化的宇宙中的无常，当它来到我们身边时？

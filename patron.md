@@ -1,25 +1,34 @@
 - patron
   - 发音
-    - 英 `/'peɪtrən/`
-    - 美 `/'petrən/`
+    - 英
+      - `/'peɪtrən/`
+    - 美
+      - `/'petrən/`
   - 词义
-    - n. 资助人，赞助人；老主顾，顾客
-    - `someone who supports the activities of an organization, for example by giving money`
+    - n.
+      - 资助人，赞助人；老主顾，顾客
+        - `someone who supports the activities of an organization, for example by giving money`
   - 记忆
     - patr(父亲) + on → 像父亲一样进行帮助 → 赞助人
   - 同根词
     - n.
-      - `patronage` 赞助；光顾；任免权
-      - `patroness` 女主顾；女资助人；女保护人
+      - `patronage`
+        - 赞助；光顾；任免权
+      - `patroness`
+        - 女主顾；女资助人；女保护人
     - vt.
-      - `patronize` 惠顾；资助；保护
-      - `patronise` （英）保护（等于patronize）
+      - `patronize`
+        - 惠顾；资助；保护
+      - `patronise`
+        - （英）保护（等于patronize）
   - 近义词
-    - n. 赞助人；保护人；主顾
-      - `guardian`
-      - `backer`
+    - n.
+      - 赞助人；保护人；主顾
+        - `guardian`
+        - `backer`
   - 短语
-    - `patron saint` n. 守护神；保护圣徒 
+    - `patron saint`
+      - n. 守护神；保护圣徒 
   - 例句
     - `a wealthy patron`
       - 富有的赞助人

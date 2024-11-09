@@ -1,13 +1,17 @@
 - endpoint
   - 发音
-    - 英 `/'end,pɒɪnt/`
-    - 美 `/'ɛnd,pɔɪnt/`
+    - 英
+      - `/'end,pɒɪnt/`
+    - 美
+      - `/'ɛnd,pɔɪnt/`
   - 词义
-    - n. 端点
+    - n.
+      - 端点
   - 近义词
-    - n. 端点；末端，终结点
-      - `bottom`
-      - `termination point`
+    - n.
+      - 端点；末端，终结点
+        - `bottom`
+        - `termination point`
   - 例句
     - `But is there an endpoint?`
       - 但是这是否有一个终点？

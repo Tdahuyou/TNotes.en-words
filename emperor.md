@@ -1,16 +1,21 @@
 - emperor
   - 发音
-    - 英 `/'emp(ə)rə/`
-    - 美 `/'ɛmpərɚ/`
+    - 英
+      - `/'emp(ə)rə/`
+    - 美
+      - `/'ɛmpərɚ/`
   - 词义
-    - n. 皇帝,君主
-    - `the man who is the ruler of an empire`
+    - n.
+      - 皇帝,君主
+        - `the man who is the ruler of an empire`
   - 近义词
-    - n. 皇帝，君主
-      - `sovereignty`
-      - `Kaiser`
+    - n.
+      - 皇帝，君主
+        - `sovereignty`
+        - `Kaiser`
   - 短语
-    - `emperor penguin` n. 皇企鹅 
+    - `emperor penguin`
+      - n. 皇企鹅 
   - 例句
     - `They  bowed before the emperor as he entered the court.`
       - 皇帝进入朝廷时他们都向他鞠躬致敬。

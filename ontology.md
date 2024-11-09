@@ -1,12 +1,16 @@
 - ontology
   - 发音
-    - 英 `/ɒn'tɒlədʒɪ/`
-    - 美 `/ɑn'tɑlədʒi/`
+    - 英
+      - `/ɒn'tɒlədʒɪ/`
+    - 美
+      - `/ɑn'tɑlədʒi/`
   - 词义
-    - n. [哲]存在论
+    - n.
+      - [哲]存在论
   - 近义词
-    - n. 本体论；存在论；实体论
-      - `substantialism`
+    - n.
+      - 本体论；存在论；实体论
+        - `substantialism`
   - 例句
     - `Forget taxonomy, ontology, and psychology. Who knows why people do what they do?`
       - 忘记分类，存在论和哲学吧，谁又能知道为什么人们要做他们做的事情？

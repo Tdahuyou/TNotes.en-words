@@ -1,19 +1,26 @@
 - duckling
   - 发音
-    - 英 `/'dʌklɪŋ/`
-    - 美 `/'dʌklɪŋ/`
+    - 英
+      - `/'dʌklɪŋ/`
+    - 美
+      - `/'dʌklɪŋ/`
   - 词义
-    - n. 小鸭子
-    - `a young duck`
+    - n.
+      - 小鸭子
+        - `a young duck`
   - 同根词
     - n.
-      - `duck` 鸭子；鸭肉；（英）宝贝儿；零分
+      - `duck`
+        - 鸭子；鸭肉；（英）宝贝儿；零分
     - vi.
-      - `duck` 闪避；没入水中
+      - `duck`
+        - 闪避；没入水中
     - vt.
-      - `duck` 躲避；猛按…入水
+      - `duck`
+        - 躲避；猛按…入水
   - 短语
-    - `ugly duckling` 丑小鸭；小时难看长大后变得才貌出众的人 
+    - `ugly duckling`
+      - 丑小鸭；小时难看长大后变得才貌出众的人 
   - 例句
     - `So away went the duckling.`
       - 就这样这只小鸭离开了。

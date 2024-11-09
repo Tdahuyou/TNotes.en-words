@@ -1,12 +1,17 @@
 - Missouri
   - 发音
-    - 英 `/mi'zuəri/`
-    - 美 `/mɪ'zʊri/`
+    - 英
+      - `/mi'zuəri/`
+    - 美
+      - `/mɪ'zʊri/`
   - 词义
-    - n. 密苏里州(美国州名)
+    - n.
+      - 密苏里州(美国州名)
   - 短语
-    - `missouri river` n. 密苏里河 
-    - `missouri compromise` 密苏里妥协案 
+    - `missouri river`
+      - n. 密苏里河 
+    - `missouri compromise`
+      - 密苏里妥协案 
   - 例句
     - `We live in Missouri.`
       - 我们住在密苏里州。
