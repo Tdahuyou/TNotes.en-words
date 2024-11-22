@@ -8,6 +8,8 @@
     - v.
       - 安排，布置；使倾向于
         - `to deal with or settle `
+      - 删除，移除
+        - `to remove or get rid of something`
   - 同根词
     - adj.
       - `disposable`
@@ -45,4 +47,8 @@
   - 例句
     - `Chinese vases are disposed around the gallery.`
       - 中国花瓶摆放在展馆四周。
+    - `Before installing the new software, you should dispose of any old versions to free up disk space.`
+      - 在安装新软件之前，你应该删除任何旧版本以释放磁盘空间。
+    - `If you no longer need your account, you can dispose of it by contacting customer support.`
+      - 如果你不再需要你的账户，可以通过联系客户支持来删除它。
 
