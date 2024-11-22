@@ -8,6 +8,7 @@
     - n.
       - 短笺；便条
         - `a short informal letter`
+      - 单音
   - 同根词
     - adj.
       - `notable`
