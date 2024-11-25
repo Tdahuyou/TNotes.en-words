@@ -1,34 +1,23 @@
 - endearing
   - 发音
-    - 英
-      - `/ɪn'dɪrɪŋ/`
-    - 美
-      - `/ɪn'dɪrɪŋ/`
+    - 英 /ɪn'dɪrɪŋ/
+    - 美 /ɪn'dɪrɪŋ/
   - 词义
-    - adj.
-      - 讨人喜欢的
-        - `making someone love or like you`
+    - adj. 讨人喜欢的
+      - making someone love or like you
   - 记忆
     - en(进入) + dear(喜爱) + ing → 进入被喜爱的状态 → 讨人喜欢的
   - 同根词
-    - adv.
-      - `endearingly`
-        - 讨人喜欢地
-    - n.
-      - `endearment`
-        - 钟爱；亲爱；亲爱的表示
-    - vt.
-      - `endear`
-        - 使…受钟爱；使…亲密
+    - adv. endearingly 讨人喜欢地
+    - n. endearment 钟爱；亲爱；亲爱的表示
+    - vt. endear 使…受钟爱；使…亲密
   - 近义词
-    - adj.
-      - 可爱的；讨人喜欢的；引起爱情的
-        - `lovely`
-        - `favorable`
-        - `pleasant`
-        - `pretty`
-        - `taking`
+    - adj. 可爱的；讨人喜欢的；引起爱情的
+      - lovely
+      - favorable
+      - pleasant
+      - pretty
+      - taking
   - 例句
-    - `an endearing smile`
-      - 迷人的微笑
-
+    - an endearing smile 迷人的微笑
+  - 补充

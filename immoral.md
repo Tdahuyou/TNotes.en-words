@@ -1,33 +1,23 @@
 - immoral
   - 发音
-    - 英
-      - `/i'mɔrəl/`
-    - 美
-      - `/ɪ'mɔrəl/`
+    - 英 /i'mɔrəl/
+    - 美 /ɪ'mɔrəl/
   - 词义
-    - adj.
-      - 不道德的，邪恶的
-        - `morally wrong`
+    - adj. 不道德的，邪恶的
+      - morally wrong
   - 记忆
     - im (不) + moral (道德的) → 不道德的
   - 同根词
-    - adv.
-      - `immorally`
-        - 不道德地；品行不良地
-    - n.
-      - `immorality`
-        - 不道德；无道义；伤风败俗的行为
+    - adv. immorally 不道德地；品行不良地
+    - n. immorality 不道德；无道义；伤风败俗的行为
   - 近义词
-    - adj.
-      - 不道德的；邪恶的；淫荡的
-        - `evil`
-        - `ill`
-        - `black`
-        - `ugly`
-        - `wicked`
+    - adj. 不道德的；邪恶的；淫荡的
+      - evil
+      - ill
+      - black
+      - ugly
+      - wicked
   - 例句
-    - `Deliberately making people suffer is immoral.`
-      - 故意使人吃苦头是不道德的。
-    - `It’s immoral to be rich while people are starving and homeless.`
-      - 不管别人忍饥挨饿、居无定所而自己发家致富是不道德的。
-
+    - Deliberately making people suffer is immoral. 故意使人吃苦头是不道德的。
+    - It’s immoral to be rich while people are starving and homeless. 不管别人忍饥挨饿、居无定所而自己发家致富是不道德的。
+  - 补充

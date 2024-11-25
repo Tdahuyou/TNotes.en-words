@@ -1,17 +1,12 @@
 - October
   - 发音
-    - 英
-      - `/ɒk'təʊbə/`
-    - 美
-      - `/ɑk'tobɚ/`
+    - 英 /ɒk'təʊbə/
+    - 美 /ɑk'tobɚ/
   - 词义
-    - n.
-      - 10月
-        - `the tenth month of the year, between September and November`
+    - n. 10月
+      - the tenth month of the year, between September and November
   - 短语
-    - `october revolution`
-      - 俄国十月革命 
+    - october revolution 俄国十月革命
   - 例句
-    - `Most seasonal hiring is done in early October.`
-      - 多数季节性招聘是在10月初进行。
-
+    - Most seasonal hiring is done in early October. 多数季节性招聘是在10月初进行。
+  - 补充

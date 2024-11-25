@@ -1,13 +1,10 @@
 - naivety
   - 发音
-    - 英
-      - `/naɪ'iːvtɪ; nɑː'iːvtɪ/`
-    - 美
-      - `/undefined/`
+    - 英 /naɪ'iːvtɪ; nɑː'iːvtɪ/
+    - 美 /undefined/
   - 词义
-    - n.
-      - 天真烂漫,无邪的行为
+    - n. 天真烂漫,无邪的行为
   - 近义词
-    - n.
-      - 无邪的行为；天真烂漫（等于naivete）
-        - `artlessness`
+    - n. 无邪的行为；天真烂漫（等于naivete）
+      - artlessness
+  - 补充

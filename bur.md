@@ -1,18 +1,13 @@
 - bur
   - 发音
-    - 英
-      - `/bə:/`
-    - 美
-      - `/bɚ/`
+    - 英 /bə:/
+    - 美 /bɚ/
   - 词义
-    - n.
-      - 刺果
+    - n. 刺果
   - 同根词
-    - adj.
-      - `burry`
-        - 芒刺多的，多节的
+    - adj. burry 芒刺多的，多节的
   - 近义词
-    - n.
-      - [植]刺果；芒刺；钻头
-        - `cutting bit`
-        - `drilling head`
+    - n. [植]刺果；芒刺；钻头
+      - cutting bit
+      - drilling head
+  - 补充

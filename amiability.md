@@ -1,29 +1,18 @@
 - amiability
   - 发音
-    - 英
-      - `/ˌeɪmɪr'bɪlətɪ/`
-    - 美
-      - `/,emɪə'bɪləti/`
+    - 英 /ˌeɪmɪr'bɪlətɪ/
+    - 美 /,emɪə'bɪləti/
   - 词义
-    - n.
-      - 可爱；和蔼可亲
-        - `Amiability is the quality of being friendly and pleasant`
+    - n. 可爱；和蔼可亲
+      - Amiability is the quality of being friendly and pleasant
   - 同根词
-    - adj.
-      - `amiable`
-        - 和蔼可亲的，亲切的
-    - adv.
-      - `amiably`
-        - 亲切地；和蔼可亲地
-    - n.
-      - `amiableness`
-        - 和蔼可亲
+    - adj. amiable 和蔼可亲的，亲切的
+    - adv. amiably 亲切地；和蔼可亲地
+    - n. amiableness 和蔼可亲
   - 近义词
-    - n.
-      - 可爱；和蔼可亲；友善
-        - `friendship`
-        - `likability`
+    - n. 可爱；和蔼可亲；友善
+      - friendship
+      - likability
   - 例句
-    - `I found his amiability charming.`
-      - 我发现他和蔼可亲温柔迷人。
-
+    - I found his amiability charming. 我发现他和蔼可亲温柔迷人。
+  - 补充

@@ -1,14 +1,11 @@
 - hegemony
   - 发音
-    - 英
-      - `/hɪ'dʒemənɪ; -'ge-/`
-    - 美
-      - `/hɪ'dʒɛmoni/`
+    - 英 /hɪ'dʒemənɪ; -'ge-/
+    - 美 /hɪ'dʒɛmoni/
   - 词义
-    - n.
-      - 霸权；领导权；盟主权
-        - `a situation in which one state or country controls others`
+    - n. 霸权；领导权；盟主权
+      - a situation in which one state or country controls others
   - 近义词
-    - n.
-      - 霸权；领导权；盟主权
-        - `supreme`
+    - n. 霸权；领导权；盟主权
+      - supreme
+  - 补充

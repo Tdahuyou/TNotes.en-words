@@ -1,44 +1,29 @@
 - clog
   - 发音
-    - 英
-      - `/klɑːg/`
-    - 美
-      - `/klɑg/`
+    - 英 /klɑːg/
+    - 美 /klɑg/
   - 词义
-    - v.
-      - 堵塞，阻塞
-        - `to block something or become blocked`
-    - n.
-      - 障碍
+    - v. 堵塞，阻塞
+      - to block something or become blocked
+    - n. 障碍
   - 记忆
     - 一段圆木(log)搁在路中间， 使交通堵塞(clog)
   - 同根词
-    - adj.
-      - `clogged`
-        - 阻塞的；堵住的
-      - `cloggy`
-        - 妨碍的；易粘住的
-    - n.
-      - `clogging`
-        - 堵塞
-    - v.
-      - `clogged`
-        - 阻塞；妨碍（clog的过去分词）
-      - `clogging`
-        - 阻塞（clog的现在分词）
+    - adj. clogged 阻塞的；堵住的
+    - adj. cloggy 妨碍的；易粘住的
+    - n. clogging 堵塞
+    - v. clogged 阻塞；妨碍（clog的过去分词）
+    - v. clogging 阻塞（clog的现在分词）
   - 近义词
-    - v.
-      - 阻塞；障碍
-        - `choke with`
-        - `plug up`
-    - n.
-      - 障碍；木底鞋
-        - `obstacle`
-        - `let`
-        - `bar`
-        - `dam`
-        - `stop`
+    - v. 阻塞；障碍
+      - choke with
+      - plug up
+    - n. 障碍；木底鞋
+      - obstacle
+      - let
+      - bar
+      - dam
+      - stop
   - 例句
-    - `tourists whose cars clog the roads each summer`
-      - 每年夏天开着汽车堵塞道路的游客
-
+    - tourists whose cars clog the roads each summer 每年夏天开着汽车堵塞道路的游客
+  - 补充

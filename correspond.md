@@ -1,42 +1,27 @@
 - correspond
   - 发音
-    - 英
-      - `/ˌkɔːrə'spɑːnd/`
-    - 美
-      - `/,kɔrə'spɑnd/`
+    - 英 /ˌkɔːrə'spɑːnd/
+    - 美 /,kɔrə'spɑnd/
   - 词义
-    - vi.
-      - 相一致，符合；相当于；通信
-        - `if two things or ideas correspond, the parts or information in one relate to the parts or information in the other`
+    - vi. 相一致，符合；相当于；通信
+      - if two things or ideas correspond, the parts or information in one relate to the parts or information in the other
   - 记忆
     - cor(共同) + re(再， 又) + spond(回答， 约定) → 又给出相同的回答 → 相一致
   - 同根词
-    - adj.
-      - `corresponding`
-        - 相当的，相应的；一致的；通信的
-    - adv.
-      - `correspondingly`
-        - 相应地，相对地
-    - n.
-      - `correspondence`
-        - 通信；一致；相当
-      - `correspondent`
-        - 通讯记者；客户；通信者；代理商行
-    - v.
-      - `corresponding`
-        - 类似（correspond的ing形式）；相配
+    - adj. corresponding 相当的，相应的；一致的；通信的
+    - adv. correspondingly 相应地，相对地
+    - n. correspondence 通信；一致；相当
+    - n. correspondent 通讯记者；客户；通信者；代理商行
+    - v. corresponding 类似（correspond的ing形式）；相配
   - 近义词
-    - vi.
-      - 符合，一致；相应；通信
-        - `cotton`
-        - `identify`
-        - `square`
-        - `accord`
-        - `meet with`
+    - vi. 符合，一致；相应；通信
+      - cotton
+      - identify
+      - square
+      - accord
+      - meet with
   - 短语
-    - `correspond with`
-      - 符合，一致；与……通信 
+    - correspond with 符合，一致；与……通信
   - 例句
-    - `The two halves of the document did not correspond.`
-      - 这份文件的前后两部分不相符。
-
+    - The two halves of the document did not correspond. 这份文件的前后两部分不相符。
+  - 补充

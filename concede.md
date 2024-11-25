@@ -1,28 +1,22 @@
 - concede
   - 发音
-    - 英
-      - `/kən'siːd/`
-    - 美
-      - `/kən'sid/`
+    - 英 /kən'siːd/
+    - 美 /kən'sid/
   - 词义
-    - v.
-      - 承认；让步；允许
-        - `to admit that something is true or correct, although you wish it were not true`
+    - v. 承认；让步；允许
+      - to admit that something is true or correct, although you wish it were not true
   - 记忆
     - con(带着) + ced(走) + e → 带着某物走 → 承认； 让步
   - 近义词
-    - vt.
-      - 承认；退让；给予，容许
-        - `afford`
-        - `accept`
-        - `agree`
-        - `recognize`
-        - `extend`
-    - vi.
-      - 让步
-        - `meet halfway`
-        - `give ground`
+    - vt. 承认；退让；给予，容许
+      - afford
+      - accept
+      - agree
+      - recognize
+      - extend
+    - vi. 让步
+      - meet halfway
+      - give ground
   - 例句
-    - `‘That’s the only possible solution.’ ‘Yes, I suppose so,’ Charles conceded.`
-      - “那是唯一可行的解决办法。”“对，我想是。”查尔斯承认道。
-
+    - ‘That’s the only possible solution.’ ‘Yes, I suppose so,’ Charles conceded. “那是唯一可行的解决办法。”“对，我想是。”查尔斯承认道。
+  - 补充

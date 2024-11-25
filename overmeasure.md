@@ -1,9 +1,7 @@
 - overmeasure
   - 发音
-    - 英
-      - `/undefined/`
-    - 美
-      - `/undefined/`
+    - 英 /undefined/
+    - 美 /undefined/
   - 词义
-    - n.
-      - 强行剩余
+    - n. 强行剩余
+  - 补充

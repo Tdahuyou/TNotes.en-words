@@ -1,24 +1,17 @@
 - jay
   - 发音
-    - 英
-      - `/dʒeɪ/`
-    - 美
-      - `/dʒe/`
+    - 英 /dʒeɪ/
+    - 美 /dʒe/
   - 词义
-    - n.
-      - 松鸡；鸟
-        - `a bird of the crow family that is noisy and brightly coloured`
+    - n. 松鸡；鸟
+      - a bird of the crow family that is noisy and brightly coloured
   - 同根词
-    - n.
-      - `jaybird`
-        - 松鸡；傻瓜（等于jay）
+    - n. jaybird 松鸡；傻瓜（等于jay）
   - 近义词
-    - n.
-      - 鸟；松鸡；喋喋不休的人
-        - `bird`
-        - `niao`
+    - n. 鸟；松鸡；喋喋不休的人
+      - bird
+      - niao
   - 短语
-    - `jay chou`
-      - 周杰伦（中国台湾艺人） 
-    - `blue jay`
-      - [鸟]冠蓝鸦 
+    - jay chou 周杰伦（中国台湾艺人）
+    - blue jay [鸟]冠蓝鸦
+  - 补充

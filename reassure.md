@@ -1,33 +1,19 @@
 - reassure
   - 发音
-    - 英
-      - `/ˌriːə'ʃuə/`
-    - 美
-      - `/,riə'ʃʊr/`
+    - 英 /ˌriːə'ʃuə/
+    - 美 /,riə'ʃʊr/
   - 词义
-    - vt.
-      - 使放心，使安心，安慰
-        - `to make someone feel calmer and less worried or frightened about a problem or situation`
+    - vt. 使放心，使安心，安慰
+      - to make someone feel calmer and less worried or frightened about a problem or situation
   - 记忆
     - re (一再) + as + sure (保证) → 一再保证 →使安心
   - 同根词
-    - adj.
-      - `reassuring`
-        - 安心的；可靠的；鼓气的
-      - `reassured`
-        - 使消除疑虑的；使放心的
-    - adv.
-      - `reassuringly`
-        - 安慰地；鼓励地
-    - n.
-      - `reassurance`
-        - 使安心，再保证
-    - v.
-      - `reassuring`
-        - 使放心（reassure的ing形式）
-      - `reassured`
-        - 使安心；再次保证（reassure的过去式）
+    - adj. reassuring 安心的；可靠的；鼓气的
+    - adj. reassured 使消除疑虑的；使放心的
+    - adv. reassuringly 安慰地；鼓励地
+    - n. reassurance 使安心，再保证
+    - v. reassuring 使放心（reassure的ing形式）
+    - v. reassured 使安心；再次保证（reassure的过去式）
   - 例句
-    - `Teachers reassured anxious parents.`
-      - 老师们安慰焦急的父母。
-
+    - Teachers reassured anxious parents. 老师们安慰焦急的父母。
+  - 补充

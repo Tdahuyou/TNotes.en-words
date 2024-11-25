@@ -1,29 +1,20 @@
 - incarnation
   - 发音
-    - 英
-      - `/ɪnkɑː'neɪʃ(ə)n/`
-    - 美
-      - `/,ɪnkɑr'neʃən/`
+    - 英 /ɪnkɑː'neɪʃ(ə)n/
+    - 美 /,ɪnkɑr'neʃən/
   - 词义
-    - n.
-      - 化身；道成肉身；典型
-        - `someone who has a lot of a particular quality, or represents it`
+    - n. 化身；道成肉身；典型
+      - someone who has a lot of a particular quality, or represents it
   - 同根词
-    - adj.
-      - `incarnate`
-        - 化身的；人体化的；肉色的
-    - vt.
-      - `incarnate`
-        - 体现；使…具体化；使实体化
+    - adj. incarnate 化身的；人体化的；肉色的
+    - vt. incarnate 体现；使…具体化；使实体化
   - 近义词
-    - n.
-      - 化身；道成肉身；典型
-        - `picture`
-        - `model`
-        - `representative`
-        - `pink`
-        - `embodiment`
+    - n. 化身；道成肉身；典型
+      - picture
+      - model
+      - representative
+      - pink
+      - embodiment
   - 例句
-    - `She was the incarnation of wisdom.`
-      - 她是智慧的化身。
-
+    - She was the incarnation of wisdom. 她是智慧的化身。
+  - 补充

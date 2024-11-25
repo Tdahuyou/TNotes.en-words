@@ -1,22 +1,17 @@
 - mien
   - 发音
-    - 英
-      - `/miːn/`
-    - 美
-      - `/miːn/`
+    - 英 /miːn/
+    - 美 /miːn/
   - 词义
-    - n.
-      - 风采，态度
-        - `a person’s typical expression or appearance`
+    - n. 风采，态度
+      - a person’s typical expression or appearance
   - 记忆
     - “迷你” → 迷人的风采 → 风采
   - 近义词
-    - n.
-      - 态度；风采；样子
-        - `behavior`
-        - `air`
-        - `look`
+    - n. 态度；风采；样子
+      - behavior
+      - air
+      - look
   - 例句
-    - `her sorrowful mien`
-      - 她悲伤的神情
-
+    - her sorrowful mien 她悲伤的神情
+  - 补充

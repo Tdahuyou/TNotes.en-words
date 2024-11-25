@@ -1,38 +1,23 @@
 - corrode
   - 发音
-    - 英
-      - `/kə'rəʊd/`
-    - 美
-      - `/kə'rod/`
+    - 英 /kə'rəʊd/
+    - 美 /kə'rod/
   - 词义
-    - v.
-      - 侵蚀；损害
-        - `if metal corrodes, or if something corrodes it, it is slowly destroyed by the effect of water, chemicals etc`
+    - v. 侵蚀；损害
+      - if metal corrodes, or if something corrodes it, it is slowly destroyed by the effect of water, chemicals etc
   - 同根词
-    - adj.
-      - `corrosive`
-        - 腐蚀的；侵蚀性的
-      - `corroded`
-        - 侵蚀的，已被腐蚀的
-      - `corroding`
-        - 腐蚀的
-    - n.
-      - `corrosion`
-        - 腐蚀；腐蚀产生的物质；衰败
-      - `corrosive`
-        - 腐蚀物
-    - v.
-      - `corroding`
-        - 腐蚀（corrode的ing形式）；侵蚀
+    - adj. corrosive 腐蚀的；侵蚀性的
+    - adj. corroded 侵蚀的，已被腐蚀的
+    - adj. corroding 腐蚀的
+    - n. corrosion 腐蚀；腐蚀产生的物质；衰败
+    - n. corrosive 腐蚀物
+    - v. corroding 腐蚀（corrode的ing形式）；侵蚀
   - 近义词
-    - vt.
-      - 侵蚀；损害
-        - `hurt`
-        - `weather`
-    - vi.
-      - 受腐蚀；起腐蚀作用
-        - `erode`
+    - vt. 侵蚀；损害
+      - hurt
+      - weather
+    - vi. 受腐蚀；起腐蚀作用
+      - erode
   - 例句
-    - `Acidic water will corrode the pipes.`
-      - 酸性水会腐蚀管子。
-
+    - Acidic water will corrode the pipes. 酸性水会腐蚀管子。
+  - 补充

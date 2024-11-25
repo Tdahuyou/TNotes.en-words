@@ -1,15 +1,12 @@
 - reflet
   - 发音
-    - 英
-      - `/undefined/`
-    - 美
-      - `/undefined/`
+    - 英 /undefined/
+    - 美 /undefined/
   - 词义
-    - n.
-      - <法>(陶瓷器等表面的)光彩,光泽
-        - `an iridescent glow or lustre, as on ceramic ware `
+    - n. <法>(陶瓷器等表面的)光彩,光泽
+      - an iridescent glow or lustre, as on ceramic ware 
   - 近义词
-    - n.
-      - 光泽，光彩；光的反射
-        - `shine`
-        - `luster`
+    - n. 光泽，光彩；光的反射
+      - shine
+      - luster
+  - 补充

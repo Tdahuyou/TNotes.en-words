@@ -1,24 +1,16 @@
 - approximately
   - 发音
-    - 英
-      - `/ə'prɔksimitli/`
-    - 美
-      - `/ə'prɑksɪmətli/`
+    - 英 /ə'prɔksimitli/
+    - 美 /ə'prɑksɪmətli/
   - 词义
-    - adv.
-      - 近似地，大约地
+    - adv. 近似地，大约地
   - 同根词
-    - adj.
-      - `approximative`
-        - 近似的
-    - n.
-      - `approximation`
-        - [数] 近似法；接近；[数] 近似值
+    - adj. approximative 近似的
+    - n. approximation [数] 近似法；接近；[数] 近似值
   - 近义词
-    - adv.
-      - 大约，近似地；近于
-        - `around`
-        - `something`
+    - adv. 大约，近似地；近于
+      - around
+      - something
   - 短语
-    - `approximately equal`
-      - 约等于，近似等于 
+    - approximately equal 约等于，近似等于
+  - 补充

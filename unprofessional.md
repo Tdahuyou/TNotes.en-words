@@ -1,18 +1,13 @@
 - unprofessional
   - 发音
-    - 英
-      - `/ʌnprə'feʃ(ə)n(ə)l/`
-    - 美
-      - `/,ʌnprə'fɛʃənl/`
+    - 英 /ʌnprə'feʃ(ə)n(ə)l/
+    - 美 /,ʌnprə'fɛʃənl/
   - 词义
-    - adj.
-      - 非职业性的，非专业的；外行的
+    - adj. 非职业性的，非专业的；外行的
   - 近义词
-    - adj.
-      - 非职业性的，非专业的；外行的
-        - `strange`
-        - `lay`
+    - adj. 非职业性的，非专业的；外行的
+      - strange
+      - lay
   - 例句
-    - `Johnson was fired for unprofessional conduct.`
-      - 约翰逊因为有违反职业道德的行为而被开除了。
-
+    - Johnson was fired for unprofessional conduct. 约翰逊因为有违反职业道德的行为而被开除了。
+  - 补充

@@ -1,30 +1,19 @@
 - ventral
   - 发音
-    - 英
-      - `/'ventr(ə)l/`
-    - 美
-      - `/'vɛntrəl/`
+    - 英 /'ventr(ə)l/
+    - 美 /'vɛntrəl/
   - 词义
-    - adj.
-      - 腹侧的；[解剖]腹部的
-        - `relating to the stomach area of an animal or fish`
-    - n.
-      - 腹鳍
+    - adj. 腹侧的；[解剖]腹部的
+      - relating to the stomach area of an animal or fish
+    - n. 腹鳍
   - 同根词
-    - adj.
-      - `ventricular`
-        - 心室的；脑室的；膨胀的；腹部的
-    - n.
-      - `venter`
-        - 腹部；腹面；母
+    - adj. ventricular 心室的；脑室的；膨胀的；腹部的
+    - n. venter 腹部；腹面；母
   - 近义词
-    - adj.
-      - [昆][植][解剖]腹侧的；腹部的
-        - `abdominal`
-    - n.
-      - 腹鳍
-        - `pelvic fin`
+    - adj. [昆][植][解剖]腹侧的；腹部的
+      - abdominal
+    - n. 腹鳍
+      - pelvic fin
   - 例句
-    - `Its ventral fins are orange.`
-      - 它的腹鳍为橙色。
-
+    - Its ventral fins are orange. 它的腹鳍为橙色。
+  - 补充

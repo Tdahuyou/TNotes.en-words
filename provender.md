@@ -1,15 +1,12 @@
 - provender
   - 发音
-    - 英
-      - `/'prɒvɪndə/`
-    - 美
-      - `/'prɑvɪndɚ/`
+    - 英 /'prɒvɪndə/
+    - 美 /'prɑvɪndɚ/
   - 词义
-    - n.
-      - 粮草,秣,[口]食物
+    - n. 粮草,秣,[口]食物
   - 近义词
-    - n.
-      - 粮草；秣；食物
-        - `food`
-        - `diet`
-        - `eating`
+    - n. 粮草；秣；食物
+      - food
+      - diet
+      - eating
+  - 补充

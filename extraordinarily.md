@@ -1,24 +1,17 @@
 - extraordinarily
   - 发音
-    - 英
-      - `/ɪk'strɔːd(ə)n(ə)rəlɪ/`
-    - 美
-      - `/ɪk'strɔdɪn(ə)rəlɪ/`
+    - 英 /ɪk'strɔːd(ə)n(ə)rəlɪ/
+    - 美 /ɪk'strɔdɪn(ə)rəlɪ/
   - 词义
-    - adv.
-      - 非常,格外地
+    - adv. 非常,格外地
   - 同根词
-    - adj.
-      - `extraordinary`
-        - 非凡的；特别的；离奇的；临时的；特派的
-    - n.
-      - `extraordinariness`
-        - 格外
+    - adj. extraordinary 非凡的；特别的；离奇的；临时的；特派的
+    - n. extraordinariness 格外
   - 近义词
-    - adv.
-      - 非常；格外地；非凡地
-        - `badly`
-        - `highly`
-        - `greatly`
-        - `too`
-        - `most`
+    - adv. 非常；格外地；非凡地
+      - badly
+      - highly
+      - greatly
+      - too
+      - most
+  - 补充

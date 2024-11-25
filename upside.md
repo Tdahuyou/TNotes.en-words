@@ -1,17 +1,13 @@
 - upside
   - 发音
-    - 英
-      - `/'ʌpsaɪd/`
-    - 美
-      - `/'ʌpsaɪd/`
+    - 英 /'ʌpsaɪd/
+    - 美 /'ʌpsaɪd/
   - 词义
-    - n.
-      - 上边,上部
+    - n. 上边,上部
   - 近义词
-    - n.
-      - 上部；上面；上边
-        - `top`
-        - `upper part`
+    - n. 上部；上面；上边
+      - top
+      - upper part
   - 短语
-    - `upside down`
-      - 颠倒；混乱 
+    - upside down 颠倒；混乱
+  - 补充

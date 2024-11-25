@@ -1,42 +1,29 @@
 - stern
   - 发音
-    - 英
-      - `/stɜːn/`
-    - 美
-      - `/stɝn/`
+    - 英 /stɜːn/
+    - 美 /stɝn/
   - 词义
-    - adj.
-      - 严厉的
-        - `serious and strict, and showing strong disapproval of someone’s behaviour`
-    - n.
-      - 船尾
-        - `the back of a ship`
+    - adj. 严厉的
+      - serious and strict, and showing strong disapproval of someone’s behaviour
+    - n. 船尾
+      - the back of a ship
   - 同根词
-    - adv.
-      - `sternly`
-        - 严厉地；坚决地
-    - n.
-      - `sternness`
-        - 严厉；严格
+    - adv. sternly 严厉地；坚决地
+    - n. sternness 严厉；严格
   - 近义词
-    - n.
-      - [船]船尾；末端
-        - `terminal`
-        - `bottom`
-        - `extreme`
-    - adj.
-      - 严厉的；坚定的
-        - `severe`
-        - `committed`
-        - `firm`
-        - `confirmed`
-        - `tight`
+    - n. [船]船尾；末端
+      - terminal
+      - bottom
+      - extreme
+    - adj. 严厉的；坚定的
+      - severe
+      - committed
+      - firm
+      - confirmed
+      - tight
   - 短语
-    - `stern tube`
-      - 轴管 
-    - `from stem to stern`
-      - 完全；从头到尾 
+    - stern tube 轴管
+    - from stem to stern 完全；从头到尾
   - 例句
-    - `sterner penalties for drug offences`
-      - 对毒品犯罪的更为严厉的惩罚
-
+    - sterner penalties for drug offences 对毒品犯罪的更为严厉的惩罚
+  - 补充

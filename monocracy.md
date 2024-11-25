@@ -1,15 +1,12 @@
 - monocracy
   - 发音
-    - 英
-      - `/mɔ'nɔkrəsi/`
-    - 美
-      - `/mɔ'nɔkrəsi, məu-/`
+    - 英 /mɔ'nɔkrəsi/
+    - 美 /mɔ'nɔkrəsi, məu-/
   - 词义
-    - n.
-      - 独裁政治
-        - `government by one person `
+    - n. 独裁政治
+      - government by one person 
   - 近义词
-    - n.
-      - 独裁政治
-        - `autocracy`
-        - `czarism`
+    - n. 独裁政治
+      - autocracy
+      - czarism
+  - 补充

@@ -1,23 +1,15 @@
 - provisionally
   - 发音
-    - 英
-      - `/prə'viʒənəli/`
-    - 美
-      - `/undefined/`
+    - 英 /prə'viʒənəli/
+    - 美 /undefined/
   - 词义
-    - adv.
-      - 临时地
+    - adv. 临时地
   - 同根词
-    - adj.
-      - `provisional`
-        - 临时的，暂时的；暂定的
-      - `provisory`
-        - [法] 有附带条件的，有附文的；临时的
-    - n.
-      - `provisional`
-        - 临时邮票
+    - adj. provisional 临时的，暂时的；暂定的
+    - adj. provisory [法] 有附带条件的，有附文的；临时的
+    - n. provisional 临时邮票
   - 近义词
-    - adv.
-      - 临时地，暂时地
-        - `briefly`
-        - `temporarily`
+    - adv. 临时地，暂时地
+      - briefly
+      - temporarily
+  - 补充

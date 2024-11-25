@@ -1,17 +1,14 @@
 - knowhow
   - 发音
-    - 英
-      - `/undefined/`
-    - 美
-      - `/undefined/`
+    - 英 /undefined/
+    - 美 /undefined/
   - 词义
-    - n.
-      - 诀窍，技巧；情报；实际的能力；专门技术
+    - n. 诀窍，技巧；情报；实际的能力；专门技术
   - 近义词
-    - n.
-      - 诀窍，技巧；情报；实际的能力；专门技术
-        - `technique`
-        - `information`
-        - `mechanism`
-        - `expertise`
-        - `tips`
+    - n. 诀窍，技巧；情报；实际的能力；专门技术
+      - technique
+      - information
+      - mechanism
+      - expertise
+      - tips
+  - 补充

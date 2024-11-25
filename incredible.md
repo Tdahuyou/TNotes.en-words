@@ -1,34 +1,23 @@
 - incredible
   - 发音
-    - 英
-      - `/ɪn'kredəbl/`
-    - 美
-      - `/ɪn'krɛdəbl/`
+    - 英 /ɪn'kredəbl/
+    - 美 /ɪn'krɛdəbl/
   - 词义
-    - adj.
-      - 惊人的，难以置信的
-        - `too strange to be believed, or very difficult to believe`
+    - adj. 惊人的，难以置信的
+      - too strange to be believed, or very difficult to believe
   - 记忆
     - in(不) + cred(相信) + ible(能…的) → 难以置信的
   - 同根词
-    - adv.
-      - `incredibly`
-        - 难以置信地；非常地
-    - n.
-      - `incredibility`
-        - 不能相信；不可信的事物
+    - adv. incredibly 难以置信地；非常地
+    - n. incredibility 不能相信；不可信的事物
   - 近义词
-    - adj.
-      - 难以置信的，惊人的
-        - `tremendous`
-        - `unbelievable`
-        - `spectacular`
-        - `fabulous`
+    - adj. 难以置信的，惊人的
+      - tremendous
+      - unbelievable
+      - spectacular
+      - fabulous
   - 例句
-    - `It’s incredible that he survived the fall.`
-      - 他跌下去竟然能够生还，真不可思议。
-    - `It’s incredible how much Tom has changed since he met Sally.`
-      - 自从遇见萨莉后，汤姆的变化之大简直令人难以置信。
-    - `I find it almost incredible that no one noticed these errors.`
-      - 没人发现这些错误，真让我无法相信。
-
+    - It’s incredible that he survived the fall. 他跌下去竟然能够生还，真不可思议。
+    - It’s incredible how much Tom has changed since he met Sally. 自从遇见萨莉后，汤姆的变化之大简直令人难以置信。
+    - I find it almost incredible that no one noticed these errors. 没人发现这些错误，真让我无法相信。
+  - 补充

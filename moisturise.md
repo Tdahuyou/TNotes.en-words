@@ -1,9 +1,7 @@
 - moisturise
   - 发音
-    - 英
-      - `/undefined/`
-    - 美
-      - `/undefined/`
+    - 英 /undefined/
+    - 美 /undefined/
   - 词义
-    - v.
-      - 给…增加水分
+    - v. 给…增加水分
+  - 补充

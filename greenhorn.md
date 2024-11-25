@@ -1,17 +1,14 @@
 - greenhorn
   - 发音
-    - 英
-      - `/'griːnhɔːrn/`
-    - 美
-      - `/'grin,hɔrn/`
+    - 英 /'griːnhɔːrn/
+    - 美 /'grin,hɔrn/
   - 词义
-    - n.
-      - 初学者；容易受骗的人
-        - `an inexperienced person, esp one who is extremely gullible `
+    - n. 初学者；容易受骗的人
+      - an inexperienced person, esp one who is extremely gullible 
   - 记忆
     - green(绿色) + horn(角) → 原指初生牛犊等动物 → 初学者
   - 近义词
-    - n.
-      - 生手；不懂世故的人；易受骗的人
-        - `fresh hand`
-        - `green hand`
+    - n. 生手；不懂世故的人；易受骗的人
+      - fresh hand
+      - green hand
+  - 补充

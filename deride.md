@@ -1,31 +1,20 @@
 - deride
   - 发音
-    - 英
-      - `/di'raid/`
-    - 美
-      - `/dɪ'raɪd/`
+    - 英 /di'raid/
+    - 美 /dɪ'raɪd/
   - 词义
-    - v.
-      - 嘲弄，嘲笑
-        - `to make remarks or jokes that show you think someone or something is silly or useless`
+    - v. 嘲弄，嘲笑
+      - to make remarks or jokes that show you think someone or something is silly or useless
   - 记忆
     - 嘲笑 (deride) 别人不会骑 (ride) 车
   - 同根词
-    - adj.
-      - `derisive`
-        - 嘲笑的，嘲弄的；可付之一笑的
-    - adv.
-      - `derisively`
-        - 嘲弄地；嘲笑地
-    - n.
-      - `derision`
-        - 嘲笑；嘲笑的对象
+    - adj. derisive 嘲笑的，嘲弄的；可付之一笑的
+    - adv. derisively 嘲弄地；嘲笑地
+    - n. derision 嘲笑；嘲笑的对象
   - 近义词
-    - vt.
-      - 嘲笑；嘲弄
-        - `guy`
-        - `jeer at`
+    - vt. 嘲笑；嘲弄
+      - guy
+      - jeer at
   - 例句
-    - `You shouldn’t deride their efforts.`
-      - 你不应该嘲笑他们的努力。
-
+    - You shouldn’t deride their efforts. 你不应该嘲笑他们的努力。
+  - 补充

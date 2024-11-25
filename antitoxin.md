@@ -1,24 +1,16 @@
 - antitoxin
   - 发音
-    - 英
-      - `/ˌænti'tɔksin/`
-    - 美
-      - `/,æntɪ'tɑksɪn/`
+    - 英 /ˌænti'tɔksin/
+    - 美 /,æntɪ'tɑksɪn/
   - 词义
-    - n.
-      - 抗毒素
-        - `a medicine or substance produced by your body which stops the effects of a poison`
+    - n. 抗毒素
+      - a medicine or substance produced by your body which stops the effects of a poison
   - 同根词
-    - adj.
-      - `antitoxic`
-        - [免疫] 抗毒素的
+    - adj. antitoxic [免疫] 抗毒素的
   - 近义词
-    - n.
-      - 抗毒素；抗毒素血清
-        - `immunotoxin`
+    - n. 抗毒素；抗毒素血清
+      - immunotoxin
   - 例句
-    - `Diphtheria antitoxin is a foreign protein .`
-      - 白喉抗毒素是异性蛋白。
-    - `We need an antitoxin to counteract the bite of the tarantula.`
-      - 我们需要抗毒素来解被狼蛛咬后产生的毒。
-
+    - Diphtheria antitoxin is a foreign protein . 白喉抗毒素是异性蛋白。
+    - We need an antitoxin to counteract the bite of the tarantula. 我们需要抗毒素来解被狼蛛咬后产生的毒。
+  - 补充

@@ -1,25 +1,16 @@
 - kinky
   - 发音
-    - 英
-      - `/'kɪŋkɪ/`
-    - 美
-      - `/'kɪŋki/`
+    - 英 /'kɪŋkɪ/
+    - 美 /'kɪŋki/
   - 词义
-    - adj.
-      - 卷曲的,古怪的
-        - `kinky hair has a lot of small curves`
+    - adj. 卷曲的,古怪的
+      - kinky hair has a lot of small curves
   - 同根词
-    - n.
-      - `kink`
-        - 扭结；奇想；蜷缩
-    - vi.
-      - `kink`
-        - 扭结
-    - vt.
-      - `kink`
-        - 使扭结
+    - n. kink 扭结；奇想；蜷缩
+    - vi. kink 扭结
+    - vt. kink 使扭结
   - 近义词
-    - adj.
-      - 奇形怪状的，怪癖的；稍微变态的；扭结的，古怪的
-        - `odd`
-        - `curious`
+    - adj. 奇形怪状的，怪癖的；稍微变态的；扭结的，古怪的
+      - odd
+      - curious
+  - 补充

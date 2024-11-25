@@ -1,9 +1,7 @@
 - proximately
   - 发音
-    - 英
-      - `/'prɔksimitli/`
-    - 美
-      - `/undefined/`
+    - 英 /'prɔksimitli/
+    - 美 /undefined/
   - 词义
-    - adv.
-      - 近似，接近
+    - adv. 近似，接近
+  - 补充

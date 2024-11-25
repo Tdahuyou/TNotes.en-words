@@ -1,30 +1,22 @@
 - drastic
   - 发音
-    - 英
-      - `/'dræstɪk/`
-    - 美
-      - `/'dræstɪk/`
+    - 英 /'dræstɪk/
+    - 美 /'dræstɪk/
   - 词义
-    - adj.
-      - 剧烈的，猛烈的，激烈的
-        - `extreme and sudden`
+    - adj. 剧烈的，猛烈的，激烈的
+      - extreme and sudden
   - 记忆
     - dra(驱动) + stic → 剧烈的
   - 同根词
-    - adv.
-      - `drastically`
-        - 彻底地；激烈地
+    - adv. drastically 彻底地；激烈地
   - 近义词
-    - adj.
-      - 激烈的；猛烈的
-        - `fierce`
-        - `acute`
-        - `violent`
-        - `hard`
-        - `furious`
+    - adj. 激烈的；猛烈的
+      - fierce
+      - acute
+      - violent
+      - hard
+      - furious
   - 例句
-    - `drastic cuts in government spending`
-      - 政府开支的急剧削减
-    - `Drastic changesare needed if environmental catastrophe is to be avoided.`
-      - 要想避免环境灾难就需要重大的变革。
-
+    - drastic cuts in government spending 政府开支的急剧削减
+    - Drastic changesare needed if environmental catastrophe is to be avoided. 要想避免环境灾难就需要重大的变革。
+  - 补充

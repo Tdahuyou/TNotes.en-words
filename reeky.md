@@ -1,14 +1,11 @@
 - reeky
   - 发音
-    - 英
-      - `/undefined/`
-    - 美
-      - `/undefined/`
+    - 英 /undefined/
+    - 美 /undefined/
   - 词义
-    - adj.
-      - 烟雾弥漫的
+    - adj. 烟雾弥漫的
   - 近义词
-    - adj.
-      - 热气腾腾的；冒烟的，烟雾弥漫的；散发臭气的
-        - `smoky`
-        - `fumy`
+    - adj. 热气腾腾的；冒烟的，烟雾弥漫的；散发臭气的
+      - smoky
+      - fumy
+  - 补充

@@ -1,19 +1,14 @@
 - crockery
   - 发音
-    - 英
-      - `/'krɒk(ə)rɪ/`
-    - 美
-      - `/'krɑkəri/`
+    - 英 /'krɒk(ə)rɪ/
+    - 美 /'krɑkəri/
   - 词义
-    - n.
-      - 陶器；瓦器；土器
-        - `cups, dishes, plates etc`
+    - n. 陶器；瓦器；土器
+      - cups, dishes, plates etc
   - 近义词
-    - n.
-      - 陶器；瓦器；土器
-        - `earthenware`
-        - `pottery ware`
+    - n. 陶器；瓦器；土器
+      - earthenware
+      - pottery ware
   - 例句
-    - `a stack of dirty crockery`
-      - 一大堆脏碗碟
-
+    - a stack of dirty crockery 一大堆脏碗碟
+  - 补充

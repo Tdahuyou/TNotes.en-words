@@ -1,23 +1,16 @@
 - incongruous
   - 发音
-    - 英
-      - `/ɪn'kɒŋgrʊəs/`
-    - 美
-      - `/ɪn'kɑŋɡruəs/`
+    - 英 /ɪn'kɒŋgrʊəs/
+    - 美 /ɪn'kɑŋɡruəs/
   - 词义
-    - adj.
-      - 不协调的,不一致的
-        - `strange, unexpected, or unsuitable in a particular situation`
+    - adj. 不协调的,不一致的
+      - strange, unexpected, or unsuitable in a particular situation
   - 同根词
-    - adv.
-      - `incongruously`
-        - 不调和地
+    - adv. incongruously 不调和地
   - 近义词
-    - adj.
-      - 不协调的；不一致的；不和谐的
-        - `absonant`
-        - `uncoordinated`
+    - adj. 不协调的；不一致的；不和谐的
+      - absonant
+      - uncoordinated
   - 例句
-    - `The new theatre looks utterly incongruous in its setting.`
-      - 这座新剧院和周围的环境格格不入。
-
+    - The new theatre looks utterly incongruous in its setting. 这座新剧院和周围的环境格格不入。
+  - 补充

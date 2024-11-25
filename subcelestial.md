@@ -1,17 +1,14 @@
 - subcelestial
   - 发音
-    - 英
-      - `/ˌsʌbsɪ'l3stɪəl/`
-    - 美
-      - `/,sʌbsɪ'lɛstjəl/`
+    - 英 /ˌsʌbsɪ'l3stɪəl/
+    - 美 /,sʌbsɪ'lɛstjəl/
   - 词义
-    - adj.
-      - 世俗的，尘世的
-        - `beneath the heavens; terrestrial `
+    - adj. 世俗的，尘世的
+      - beneath the heavens; terrestrial 
   - 记忆
     - 参考celestial(adj. 天上的， 神圣的)
   - 近义词
-    - adj.
-      - 尘世的；在天下面的
-        - `earthly`
-        - `worldly`
+    - adj. 尘世的；在天下面的
+      - earthly
+      - worldly
+  - 补充

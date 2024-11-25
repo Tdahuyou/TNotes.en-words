@@ -1,21 +1,16 @@
 - landmark
   - 发音
-    - 英
-      - `/'lændmɑːrk/`
-    - 美
-      - `/'lændmɑrk/`
+    - 英 /'lændmɑːrk/
+    - 美 /'lændmɑrk/
   - 词义
-    - n.
-      - 路标，地标；〈喻〉里程碑
-        - `something that is easy to recognize, such as a tall tree or building, and that helps you know where you are`
+    - n. 路标，地标；〈喻〉里程碑
+      - something that is easy to recognize, such as a tall tree or building, and that helps you know where you are
   - 记忆
     - land(土地) + mark(标志) → 地上的标志 → 路标
   - 近义词
-    - n.
-      - [航]陆标，地标；[建]里程碑；[地理][测]地界标；划时代的事
-        - `Placemark`
-        - `checkpost`
+    - n. [航]陆标，地标；[建]里程碑；[地理][测]地界标；划时代的事
+      - Placemark
+      - checkpost
   - 例句
-    - `One of Belfast’s most famous landmarks, the Grosvenor Hall, has been demolished.`
-      - 贝尔法斯特最著名的地标之一格罗夫纳大厦已被拆毁了。
-
+    - One of Belfast’s most famous landmarks, the Grosvenor Hall, has been demolished. 贝尔法斯特最著名的地标之一格罗夫纳大厦已被拆毁了。
+  - 补充

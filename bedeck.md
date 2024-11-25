@@ -1,26 +1,19 @@
 - bedeck
   - 发音
-    - 英
-      - `/bi'dek/`
-    - 美
-      - `/bɪ'dɛk/`
+    - 英 /bi'dek/
+    - 美 /bɪ'dɛk/
   - 词义
-    - v.
-      - 装饰，修饰
-        - `to decorate something such as a building or street by hanging things all over it`
+    - v. 装饰，修饰
+      - to decorate something such as a building or street by hanging things all over it
   - 记忆
     - be (加强) + deck (装饰) → 装饰
   - 同根词
-    - vt.
-      - `bedizen`
-        - 俗丽地穿着或装饰；过分地打扮
+    - vt. bedizen 俗丽地穿着或装饰；过分地打扮
   - 近义词
-    - vt.
-      - 装饰；修饰
-        - `paint`
-        - `hang`
-        - `modify`
+    - vt. 装饰；修饰
+      - paint
+      - hang
+      - modify
   - 例句
-    - `...flags bedecking the balcony.`
-      - ... 装饰阳台的旗子。
-
+    - ...flags bedecking the balcony. ... 装饰阳台的旗子。
+  - 补充

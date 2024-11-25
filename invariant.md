@@ -1,50 +1,27 @@
 - invariant
   - 发音
-    - 英
-      - `/ɪn'veərɪənt/`
-    - 美
-      - `/ɪn'vɛrɪənt/`
+    - 英 /ɪn'veriənt/
+    - 美 /ɪn'vɛrɪənt/
   - 词义
-    - adj.
-      - 不变的
-    - n.
-      - [数]不变量；[计]不变式
-        - `an entity, quantity, etc, that is unaltered by a particular transformation of coordinates `
+    - adj. 不变的
   - 同根词
-    - adj.
-      - `invariable`
-        - 不变的；常数的
-    - adv.
-      - `invariably`
-        - 总是；不变地；一定地
-    - n.
-      - `invariable`
-        - 常数；不变的东西
-      - `invariance`
-        - 不变性；不变式
-      - `invariability`
-        - 不变；不变性；安定性
-      - `invariableness`
-        - 不变
+    - adj. invariable 不变的；常数的
+    - adv. invariably 总是；不变地；一定地
+    - n. invariable 常数；不变的东西
+    - n. invariance 不变性；不变式
+    - n. invariability 不变；不变性；安定性
+    - n. invariableness 不变
   - 近义词
-    - adj.
-      - [计][数]不变的
-        - `constant`
-        - `permanent`
-        - `steady`
-        - `unchanging`
+    - adj. [计][数]不变的
+      - constant
+      - permanent
+      - steady
+      - unchanging
   - 短语
-    - `time invariant`
-      - 时不变的；时不变 
-    - `invariant system`
-      - 不变系统；不变量系统；无变系 
+    - time invariant 时不变的；时不变
+    - invariant system 不变系统；不变量系统；无变系
   - 例句
-    - `The invariant space has to be as well a deformation of a classical space, a deformation that makes it noncommutative.`
-      - 这些不变的空间同样也是经典空间的变形，它们通过这种变形成为非对易空间。
-    - `Crucially, this was true at all frequencies, which means the phenomenon is scale invariant - the other key criterion for self-organised criticality.`
-      - 最重要的是，所有的频率都是这样，意味着这种现象是规模不变的-自我组织临界的另一个重要标准。
-    - `For example, in an accounting application, consistency would include the invariant that the sum of all asset accounts equal the sum of all liability accounts.`
-      - 例如，在记账应用程序中，一致性可能包括所有资产账户的总和始终等于所有负债账户的总和这个不变式。
-    - `a point in space, rather than its coordinates, is an invariant`
-      - 
-
+    - One could consider invariant properties of figures under each of the above types of transformation. 可以在上述的每一类型变换下考虑图形的不变性质。
+    - By the analysis and comparison of target characteristics, invariant moments are chosen as recognition characteristics. 通过对目标特征的分析比较，选取不变矩作为识别特征。
+    - To solve the problem of target scaling and rotation during television homing seeking for ground targets, scale-invariant features are applied in the guiding algorithm. 为解决自寻的电视导引过程中目标的尺度和旋转变化问题，将尺度不变特征应用到电视制导算法中。
+  - 补充

@@ -1,35 +1,21 @@
 - sanctimonious
   - 发音
-    - 英
-      - `/,sæŋ(k)tɪ'məʊnɪəs/`
-    - 美
-      - `/,sæŋktɪ'monɪəs/`
+    - 英 /,sæŋ(k)tɪ'məʊnɪəs/
+    - 美 /,sæŋktɪ'monɪəs/
   - 词义
-    - adj.
-      - 伪装虔诚的,道貌岸然的
-        - `behaving as if you are morally better than other people, in a way that is annoying – used to show disapproval`
+    - adj. 伪装虔诚的,道貌岸然的
+      - behaving as if you are morally better than other people, in a way that is annoying – used to show disapproval
   - 同根词
-    - adv.
-      - `sanctimoniously`
-        - 伪善地；伪装虔诚地
-    - n.
-      - `sanctity`
-        - 圣洁；尊严；神圣不可侵犯性
-      - `sanctimoniousness`
-        - 伪善；假装虔诚；道貌岸然
-      - `sanctimony`
-        - 假装的圣人气派；假装的虔诚，假装的神圣
-      - `sanctitude`
-        - 圣洁；神圣
-    - vt.
-      - `sanctify`
-        - 使圣洁；使神圣化；把…奉献给神；认可
+    - adv. sanctimoniously 伪善地；伪装虔诚地
+    - n. sanctity 圣洁；尊严；神圣不可侵犯性
+    - n. sanctimoniousness 伪善；假装虔诚；道貌岸然
+    - n. sanctimony 假装的圣人气派；假装的虔诚，假装的神圣
+    - n. sanctitude 圣洁；神圣
+    - vt. sanctify 使圣洁；使神圣化；把…奉献给神；认可
   - 近义词
-    - adj.
-      - 假装虔诚的；假装圣洁的；假装诚实的
-        - `pietistic`
-        - `Pharisaic`
+    - adj. 假装虔诚的；假装圣洁的；假装诚实的
+      - pietistic
+      - Pharisaic
   - 例句
-    - `sanctimonious politicians preaching about family values`
-      - 大谈家庭价值观的虚伪政客
-
+    - sanctimonious politicians preaching about family values 大谈家庭价值观的虚伪政客
+  - 补充

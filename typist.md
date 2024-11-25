@@ -1,27 +1,18 @@
 - typist
   - 发音
-    - 英
-      - `/'taɪpɪst/`
-    - 美
-      - `/'taɪpɪst/`
+    - 英 /'taɪpɪst/
+    - 美 /'taɪpɪst/
   - 词义
-    - n.
-      - 打字员
-        - `a secretary whose main job is to  type  letters`
+    - n. 打字员
+      - a secretary whose main job is to  type  letters
   - 记忆
     - typ(看作type， 打字) + ist → 打字员
   - 同根词
-    - n.
-      - `typing`
-        - 打字；键入
-    - v.
-      - `typing`
-        - 打字；按类型把…归类（type的现在分词）
+    - n. typing 打字；键入
+    - v. typing 打字；按类型把…归类（type的现在分词）
   - 近义词
-    - n.
-      - [印刷]打字员，打字者
-        - `typer`
+    - n. [印刷]打字员，打字者
+      - typer
   - 例句
-    - `I’m a slow typist.`
-      - 我打字很慢。
-
+    - I’m a slow typist. 我打字很慢。
+  - 补充

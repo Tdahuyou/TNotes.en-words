@@ -1,33 +1,21 @@
 - rebuttal
   - 发音
-    - 英
-      - `/rɪ'bʌtl/`
-    - 美
-      - `/rɪ'bʌtl/`
+    - 英 /rɪ'bʌtl/
+    - 美 /rɪ'bʌtl/
   - 词义
-    - n.
-      - 反驳，反证
-        - `If you make a rebuttal of a charge or accusation that has been made against you, you make a statement that gives reasons why the accusation is untrue`
+    - n. 反驳，反证
+      - If you make a rebuttal of a charge or accusation that has been made against you, you make a statement that gives reasons why the accusation is untrue
   - 记忆
     - re(反) ＋ butt(顶撞) + al → 反过来顶撞 → 反驳
   - 同根词
-    - n.
-      - `rebut`
-        - 驳回；提出反证
-      - `rebutter`
-        - 反驳者；第三次答辩
-    - vi.
-      - `rebut`
-        - 反驳；揭露
-    - vt.
-      - `rebut`
-        - 反驳；揭露；拒绝
+    - n. rebut 驳回；提出反证
+    - n. rebutter 反驳者；第三次答辩
+    - vi. rebut 反驳；揭露
+    - vt. rebut 反驳；揭露；拒绝
   - 近义词
-    - n.
-      - [法]反驳；辩驳；反证
-        - `contradiction`
-        - `refutation`
+    - n. [法]反驳；辩驳；反证
+      - contradiction
+      - refutation
   - 例句
-    - `He is conducting a point-by-point rebuttal of charges from former colleagues.`
-      - 他正在对前同事的指责逐条加以驳斥。
-
+    - He is conducting a point-by-point rebuttal of charges from former colleagues. 他正在对前同事的指责逐条加以驳斥。
+  - 补充

@@ -1,26 +1,17 @@
 - incredibly
   - 发音
-    - 英
-      - `/ɪn'kredɪblɪ/`
-    - 美
-      - `/ɪn'krɛdəbli/`
+    - 英 /ɪn'kredɪblɪ/
+    - 美 /ɪn'krɛdəbli/
   - 词义
-    - adv.
-      - 难以置信地；非常地
-        - `extremely`
+    - adv. 难以置信地；非常地
+      - extremely
   - 同根词
-    - adj.
-      - `incredible`
-        - 难以置信的，惊人的
-    - n.
-      - `incredibility`
-        - 不能相信；不可信的事物
+    - adj. incredible 难以置信的，惊人的
+    - n. incredibility 不能相信；不可信的事物
   - 近义词
-    - adv.
-      - 难以置信地；非常地
-        - `considerably`
-        - `remarkably`
+    - adv. 难以置信地；非常地
+      - considerably
+      - remarkably
   - 例句
-    - `Nicotine is incredibly addictive.`
-      - 尼古丁很容易让人上瘾。
-
+    - Nicotine is incredibly addictive. 尼古丁很容易让人上瘾。
+  - 补充

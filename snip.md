@@ -1,36 +1,24 @@
 - snip
   - 发音
-    - 英
-      - `/snɪp/`
-    - 美
-      - `/snɪp/`
+    - 英 /snɪp/
+    - 美 /snɪp/
   - 词义
-    - v.
-      - 剪断
-        - `to cut something by making quick cuts with scissors`
-    - n.
-      - 剪；碎片
-        - `a quick small cut with scissors`
+    - v. 剪断
+      - to cut something by making quick cuts with scissors
+    - n. 剪；碎片
+      - a quick small cut with scissors
   - 同根词
-    - n.
-      - `snipping`
-        - 碎片
-    - v.
-      - `snipping`
-        - 剪去；删节；削减（snip的ing形式）
+    - n. snipping 碎片
+    - v. snipping 剪去；删节；削减（snip的ing形式）
   - 近义词
-    - n.
-      - 剪；便宜货
-        - `be a steal`
-        - `cheapie`
-    - vt.
-      - 剪断
-        - `shear off`
-        - `disbranch`
-    - vi.
-      - 剪
-        - `shear`
+    - n. 剪；便宜货
+      - be a steal
+      - cheapie
+    - vt. 剪断
+      - shear off
+      - disbranch
+    - vi. 剪
+      - shear
   - 例句
-    - `I snipped the string and untied the parcel.`
-      - 我剪断绳子，解开包裹。
-
+    - I snipped the string and untied the parcel. 我剪断绳子，解开包裹。
+  - 补充

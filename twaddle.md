@@ -1,22 +1,16 @@
 - twaddle
   - 发音
-    - 英
-      - `/'twɒd(ə)l/`
-    - 美
-      - `/'twɑdl/`
+    - 英 /'twɒd(ə)l/
+    - 美 /'twɑdl/
   - 词义
-    - n.
-      - 废话,闲聊
-        - `something that someone has said or written that you think is stupid`
+    - n. 废话,闲聊
+      - something that someone has said or written that you think is stupid
   - 近义词
-    - n.
-      - 废话，闲聊
-        - `bushwa`
-        - `poppycock`
-    - vi.
-      - 讲废话
-        - `piffle`
+    - n. 废话，闲聊
+      - bushwa
+      - poppycock
+    - vi. 讲废话
+      - piffle
   - 例句
-    - `I don’t believe in all that twaddle about fate.`
-      - 我不相信那些关于命运的鬼话。
-
+    - I don’t believe in all that twaddle about fate. 我不相信那些关于命运的鬼话。
+  - 补充

@@ -1,27 +1,18 @@
 - embalm
   - 发音
-    - 英
-      - `/ɪm'bɑːm; em-/`
-    - 美
-      - `/ɪm'bɑm/`
+    - 英 /ɪm'bɑːm/
+    - 美 /ɪm'bɑm/
   - 词义
-    - v.
-      - 铭记于心；使不朽；防腐；使充满香气
-        - `to treat a dead body with chemicals, oils etc to prevent it from decaying`
+    - v. 保存；铭记；以香油涂尸防腐
   - 记忆
     - em + balm(香油， 香膏) → 把香油涂在…上 → 以香油涂尸防腐
   - 同根词
-    - n.
-      - `embalmer`
-        - （用于防止尸体腐化的）香料或化学物质
-      - `embalmment`
-        - 薰香；尸体的防腐处理
+    - n. embalmer （用于防止尸体腐化的）香料或化学物质
+    - n. embalmment 薰香；尸体的防腐处理
   - 近义词
-    - vt.
-      - 铭记于心；使不朽；防腐；使充满香气
-        - `immortalise`
-        - `eternalize`
+    - vt. 铭记于心；使不朽；防腐；使充满香气
+      - immortalise
+      - eternalize
   - 例句
-    - `His body was embalmed.`
-      - 他的尸体进行了防腐处理。
-
+    - His body was embalmed. 他的尸体进行了防腐处理。
+  - 补充

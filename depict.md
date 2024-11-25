@@ -1,28 +1,19 @@
 - depict
   - 发音
-    - 英
-      - `/dɪ'pɪkt/`
-    - 美
-      - `/dɪ'pɪkt/`
+    - 英 /dɪ'pɪkt/
+    - 美 /dɪ'pɪkt/
   - 词义
-    - vt.
-      - 描写，描述，描绘
-        - `to describe something or someone in writing or speech, or to show them in a painting, picture etc`
+    - vt. 描写，描述，描绘
+      - to describe something or someone in writing or speech, or to show them in a painting, picture etc
   - 记忆
     - de(表加强) + pict(描写， 画) → 描写， 描绘
   - 同根词
-    - adj.
-      - `depictive`
-        - 描写的；描述的
-    - n.
-      - `depiction`
-        - 描写，叙述
+    - adj. depictive 描写的；描述的
+    - n. depiction 描写，叙述
   - 近义词
-    - vt.
-      - 描述；描画
-        - `bewrite`
-        - `describe  v. say what is like`
+    - vt. 描述；描画
+      - bewrite
+      - describe  v. say what is like
   - 例句
-    - `a book depicting life in pre-revolutionary Russia`
-      - 描写革命前俄国人生活的一本书
-
+    - a book depicting life in pre-revolutionary Russia 描写革命前俄国人生活的一本书
+  - 补充

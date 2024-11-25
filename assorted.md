@@ -1,36 +1,22 @@
 - assorted
   - 发音
-    - 英
-      - `/ə'sɔːtɪd/`
-    - 美
-      - `/ə'sɔrtəd/`
+    - 英 /ə'sɔːtɪd/
+    - 美 /ə'sɔrtəd/
   - 词义
-    - adj.
-      - 组合的；各种各样的；混杂的
-        - `of various different types`
-    - v.
-      - 把…分等级；把…归为一类（assort的过去分词）
+    - adj. 组合的；各种各样的；混杂的
+      - of various different types
+    - v. 把…分等级；把…归为一类（assort的过去分词）
   - 同根词
-    - n.
-      - `assortment`
-        - 分类；混合物
-    - vi.
-      - `assort`
-        - 协调；交往
-    - vt.
-      - `assort`
-        - 把…分级；把…归为一类
+    - n. assortment 分类；混合物
+    - vi. assort 协调；交往
+    - vt. assort 把…分级；把…归为一类
   - 近义词
-    - adj.
-      - 组合的；各种各样的；混杂的
-        - `various`
-        - `combined`
+    - adj. 组合的；各种各样的；混杂的
+      - various
+      - combined
   - 短语
-    - `assort with`
-      - v. 相称；与…协调 
+    - assort with v. 相称；与…协调
   - 例句
-    - `paintbrushes in assorted sizes`
-      - 各种大小的画笔
-    - `assorted vegetables`
-      - 各种各样的蔬菜
-
+    - paintbrushes in assorted sizes 各种大小的画笔
+    - assorted vegetables 各种各样的蔬菜
+  - 补充

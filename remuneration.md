@@ -1,40 +1,25 @@
 - remuneration
   - 发音
-    - 英
-      - `/rɪ,mjuːnə'reɪʃ(ə)n/`
-    - 美
-      - `/rɪ,mjunə'reʃən/`
+    - 英 /rɪ,mjuːnə'reɪʃ(ə)n/
+    - 美 /rɪ,mjunə'reʃən/
   - 词义
-    - n.
-      - 报酬
-        - `the pay you give someone for something they have done for you`
+    - n. 报酬
+      - the pay you give someone for something they have done for you
   - 同根词
-    - adj.
-      - `remunerative`
-        - 有利可图的；有报酬的；合算的
-      - `remunerated`
-        - 获得酬金的
-    - n.
-      - `remunerator`
-        - 酬劳者
-    - v.
-      - `remunerated`
-        - 付给…报酬（remunerate的过去式）
-    - vt.
-      - `remunerate`
-        - 酬劳；给与报酬；赔偿
+    - adj. remunerative 有利可图的；有报酬的；合算的
+    - adj. remunerated 获得酬金的
+    - n. remunerator 酬劳者
+    - v. remunerated 付给…报酬（remunerate的过去式）
+    - vt. remunerate 酬劳；给与报酬；赔偿
   - 近义词
-    - n.
-      - [劳经]报酬；酬劳，赔偿
-        - `compensation`
-        - `payment`
-        - `consideration`
-        - `satisfaction`
-        - `reward`
+    - n. [劳经]报酬；酬劳，赔偿
+      - compensation
+      - payment
+      - consideration
+      - satisfaction
+      - reward
   - 短语
-    - `remuneration package`
-      - 薪酬福利条件；薪酬利益；酬金方案 
+    - remuneration package 薪酬福利条件；薪酬利益；酬金方案
   - 例句
-    - `high rates of remuneration`
-      - 很高的报酬
-
+    - high rates of remuneration 很高的报酬
+  - 补充

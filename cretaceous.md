@@ -1,16 +1,12 @@
 - cretaceous
   - 发音
-    - 英
-      - `/krɪ'teɪʃəs/`
-    - 美
-      - `/krɪ'teʃəs/`
+    - 英 /krɪ'teɪʃəs/
+    - 美 /krɪ'teʃəs/
   - 词义
-    - n&a.
-      - 白垩纪(的)
+    - n&a. 白垩纪(的)
   - 近义词
-    - adj.
-      - [岩]白垩纪的；似白垩的
-        - `chalklike`
+    - adj. [岩]白垩纪的；似白垩的
+      - chalklike
   - 短语
-    - `cretaceous period`
-      - 白垩纪 
+    - cretaceous period 白垩纪
+  - 补充

@@ -1,27 +1,19 @@
 - homo
   - 发音
-    - 英
-      - `/'həʊməʊ/`
-    - 美
-      - `/'homo/`
+    - 英 /'həʊməʊ/
+    - 美 /'homo/
   - 词义
-    - n.
-      - 人,同性恋者
-        - `a very offensive word for a  homosexual `
+    - n. 人,同性恋者
+      - a very offensive word for a  homosexual 
   - 同根词
-    - adj.
-      - `homoerotic`
-        - 同性恋的
-    - n.
-      - `homoeroticism`
-        - 同性恋
+    - adj. homoerotic 同性恋的
+    - n. homoeroticism 同性恋
   - 近义词
-    - n.
-      - 人，人类；同性恋者
-        - `person`
-        - `mankind`
-        - `humanity`
-        - `creature`
+    - n. 人，人类；同性恋者
+      - person
+      - mankind
+      - humanity
+      - creature
   - 短语
-    - `homo erectus`
-      - 直立人 
+    - homo erectus 直立人
+  - 补充

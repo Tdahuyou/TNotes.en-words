@@ -1,19 +1,14 @@
 - brutality
   - 发音
-    - 英
-      - `/bruː'tæləti/`
-    - 美
-      - `/brʊ'tæləti/`
+    - 英 /bruː'tæləti/
+    - 美 /brʊ'tæləti/
   - 词义
-    - n.
-      - 野蛮；暴行
-        - `cruel and violent behaviour, or an event involving cruel and violent treatment`
+    - n. 野蛮；暴行
+      - cruel and violent behaviour, or an event involving cruel and violent treatment
   - 近义词
-    - n.
-      - 无情；残忍；暴行（需用复数形式）
-        - `ruthlessness`
-        - `affectionlessness`
+    - n. 无情；残忍；暴行（需用复数形式）
+      - ruthlessness
+      - affectionlessness
   - 例句
-    - `allegations of police brutality`
-      - 对警方暴行的指控
-
+    - allegations of police brutality 对警方暴行的指控
+  - 补充

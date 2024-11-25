@@ -1,34 +1,24 @@
 - doctrine
   - 发音
-    - 英
-      - `/'dɑːktrɪn/`
-    - 美
-      - `/'dɑktrɪn/`
+    - 英 /'dɑːktrɪn/
+    - 美 /'dɑktrɪn/
   - 词义
-    - n.
-      - 教条，教义；学说
-        - `a set of beliefs that form an important part of a religion or system of ideas`
+    - n. 教条，教义；学说
+      - a set of beliefs that form an important part of a religion or system of ideas
   - 记忆
     - doc(教授) + tr + ine → 用于教导的 → 教条
   - 同根词
-    - adj.
-      - `doctrinal`
-        - 学说的，教义的；教诲的
+    - adj. doctrinal 学说的，教义的；教诲的
   - 近义词
-    - n.
-      - 主义；学说；教义；信条
-        - `principle`
-        - `theory`
-        - `belief`
-        - `teaching`
+    - n. 主义；学说；教义；信条
+      - principle
+      - theory
+      - belief
+      - teaching
   - 短语
-    - `monroe doctrine`
-      - 门罗主义；类似门罗主义的策略 
-    - `truman doctrine`
-      - n. 杜鲁门主义 
+    - monroe doctrine 门罗主义；类似门罗主义的策略
+    - truman doctrine n. 杜鲁门主义
   - 例句
-    - `traditional doctrines of divine power`
-      - 神力的传统教义
-    - `Marxist doctrine`
-      - 马克思主义学说
-
+    - traditional doctrines of divine power 神力的传统教义
+    - Marxist doctrine 马克思主义学说
+  - 补充

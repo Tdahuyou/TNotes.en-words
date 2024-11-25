@@ -1,28 +1,19 @@
 - fatuous
   - 发音
-    - 英
-      - `/'fætjuəs/`
-    - 美
-      - `/'fætʃuəs/`
+    - 英 /'fætjuəs/
+    - 美 /'fætʃuəs/
   - 词义
-    - adj.
-      - 愚昧的；昏庸的
-        - `very silly or stupid`
+    - adj. 愚昧的；昏庸的
+      - very silly or stupid
   - 记忆
     - fat (胖的) + uous → 四肢发达 (引申为fat) ， 头脑简单 → 愚昧的
   - 同根词
-    - adv.
-      - `fatuously`
-        - 愚蠢地；自满地（fatuous的副词形式）
-    - n.
-      - `fatuity`
-        - 昏庸；愚昧；愚蠢的言行
+    - adv. fatuously 愚蠢地；自满地（fatuous的副词形式）
+    - n. fatuity 昏庸；愚昧；愚蠢的言行
   - 近义词
-    - adj.
-      - 愚笨的；昏庸的；发呆的；自满的
-        - `imbecilic`
-        - `mullet-headed`
+    - adj. 愚笨的；昏庸的；发呆的；自满的
+      - imbecilic
+      - mullet-headed
   - 例句
-    - `fatuous questions`
-      - 愚昧的问题
-
+    - fatuous questions 愚昧的问题
+  - 补充

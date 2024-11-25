@@ -1,25 +1,18 @@
 - irascible
   - 发音
-    - 英
-      - `/i'ræsəbl/`
-    - 美
-      - `/ɪ'ræsəbl/`
+    - 英 /i'ræsəbl/
+    - 美 /ɪ'ræsəbl/
   - 词义
-    - adj.
-      - 易怒的，暴躁的
-        - `easily becoming angry`
+    - adj. 易怒的，暴躁的
+      - easily becoming angry
   - 记忆
     - i (坏) + rasc (摩擦) + ible → 一摩擦 (脾气) 就坏 → 易怒的
   - 同根词
-    - n.
-      - `irascibility`
-        - 易怒；脾气暴躁
+    - n. irascibility 易怒；脾气暴躁
   - 近义词
-    - adj.
-      - 易怒的
-        - `passionate`
-        - `fractious`
+    - adj. 易怒的
+      - passionate
+      - fractious
   - 例句
-    - `an irascible old man`
-      - 一位脾气暴躁的老人
-
+    - an irascible old man 一位脾气暴躁的老人
+  - 补充

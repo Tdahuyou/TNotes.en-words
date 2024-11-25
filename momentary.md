@@ -1,31 +1,21 @@
 - momentary
   - 发音
-    - 英
-      - `/'moumənteri/`
-    - 美
-      - `/'moməntɛri/`
+    - 英 /'moumənteri/
+    - 美 /'moməntɛri/
   - 词义
-    - adj.
-      - 片刻的，瞬间的，暂时的
-        - `continuing for a very short time`
+    - adj. 片刻的，瞬间的，暂时的
+      - continuing for a very short time
   - 同根词
-    - adv.
-      - `momentarily`
-        - 随时地；暂时地；立刻
-      - `momently`
-        - 时时刻刻地；短暂地；片刻地
-    - n.
-      - `moment`
-        - 重要，契机；瞬间；重要时刻；指定时刻
+    - adv. momentarily 随时地；暂时地；立刻
+    - adv. momently 时时刻刻地；短暂地；片刻地
+    - n. moment 重要，契机；瞬间；重要时刻；指定时刻
   - 近义词
-    - adj.
-      - 瞬间的；短暂的；随时会发生的
-        - `brief`
-        - `little`
-        - `passing`
-        - `transient`
-        - `instantaneous`
+    - adj. 瞬间的；短暂的；随时会发生的
+      - brief
+      - little
+      - passing
+      - transient
+      - instantaneous
   - 例句
-    - `There was a momentary pause.`
-      - 停顿了片刻。
-
+    - There was a momentary pause. 停顿了片刻。
+  - 补充

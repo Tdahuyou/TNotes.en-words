@@ -1,23 +1,16 @@
 - unscrupulousness
   - 发音
-    - 英
-      - `/ʌn'skruːpjələsnəs/`
-    - 美
-      - `/undefined/`
+    - 英 /ʌn'skruːpjələsnəs/
+    - 美 /undefined/
   - 词义
-    - n.
-      - 狂妄，不择手段
+    - n. 狂妄，不择手段
   - 记忆
     - 来自unscrupulous(adj. 肆无忌惮的， 不讲道德的)
   - 同根词
-    - adj.
-      - `unscrupulous`
-        - 肆无忌惮的；寡廉鲜耻的；不讲道德的
-    - adv.
-      - `unscrupulously`
-        - 无道德原则地；不客气地
+    - adj. unscrupulous 肆无忌惮的；寡廉鲜耻的；不讲道德的
+    - adv. unscrupulously 无道德原则地；不客气地
   - 近义词
-    - n.
-      - 狂妄；不择手段
-        - `pretentiousness`
-        - `wheeling and dealing`
+    - n. 狂妄；不择手段
+      - pretentiousness
+      - wheeling and dealing
+  - 补充

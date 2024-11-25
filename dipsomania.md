@@ -1,10 +1,8 @@
 - dipsomania
   - 发音
-    - 英
-      - `/,dɪpsə(ʊ)'meɪnɪə/`
-    - 美
-      - `/undefined/`
+    - 英 /,dɪpsə(ʊ)'meɪnɪə/
+    - 美 /undefined/
   - 词义
-    - n.
-      - 耽酒症,饮酒狂
-        - `a compulsive desire to drink alcoholic beverages `
+    - n. 耽酒症,饮酒狂
+      - a compulsive desire to drink alcoholic beverages 
+  - 补充

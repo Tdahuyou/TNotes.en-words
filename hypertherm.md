@@ -1,9 +1,7 @@
 - hypertherm
   - 发音
-    - 英
-      - `/undefined/`
-    - 美
-      - `/undefined/`
+    - 英 /undefined/
+    - 美 /undefined/
   - 词义
-    - n.
-      - 人工发热机
+    - n. 人工发热机
+  - 补充

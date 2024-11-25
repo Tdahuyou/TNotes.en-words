@@ -1,23 +1,16 @@
 - bogus
   - 发音
-    - 英
-      - `/'bəʊgəs/`
-    - 美
-      - `/'bogəs/`
+    - 英 /'bəʊgəs/
+    - 美 /'bogəs/
   - 词义
-    - adj.
-      - 假的；伪造的
-        - `not true or real, although someone is trying to make you think it is`
-    - n.
-      - 伪币
+    - adj. 假的；伪造的
+      - not true or real, although someone is trying to make you think it is
+    - n. 伪币
   - 近义词
-    - adj.
-      - 假的；伪造的
-        - `false`
-        - `spurious`
+    - adj. 假的；伪造的
+      - false
+      - spurious
   - 例句
-    - `bogus insurance claims`
-      - 虚报的保险索赔
-    - `bogus applications for asylum`
-      - 虚假的避难申请
-
+    - bogus insurance claims 虚报的保险索赔
+    - bogus applications for asylum 虚假的避难申请
+  - 补充

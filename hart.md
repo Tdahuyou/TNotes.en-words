@@ -1,10 +1,8 @@
 - hart
   - 发音
-    - 英
-      - `/hɑːt/`
-    - 美
-      - `/hɑrt/`
+    - 英 /hɑːt/
+    - 美 /hɑrt/
   - 词义
-    - n.
-      - 雄赤鹿
-        - `a male deer`
+    - n. 雄赤鹿
+      - a male deer
+  - 补充

@@ -1,23 +1,16 @@
 - fortunately
   - 发音
-    - 英
-      - `/ˈfɔːtʃənətli/`
-    - 美
-      - `/'fɔrtʃənətli/`
+    - 英 /ˈfɔːtʃənətli/
+    - 美 /'fɔrtʃənətli/
   - 词义
-    - adv.
-      - 幸运地，幸亏
-        - `happening because of good luck`
+    - adv. 幸运地，幸亏
+      - happening because of good luck
   - 同根词
-    - adj.
-      - `fortunate`
-        - 幸运的；侥幸的；吉祥的；带来幸运的
+    - adj. fortunate 幸运的；侥幸的；吉祥的；带来幸运的
   - 近义词
-    - adv.
-      - 幸运地
-        - `happily`
-        - `luckily`
+    - adv. 幸运地
+      - happily
+      - luckily
   - 例句
-    - `Fortunately, everything worked out all right in the end.`
-      - 幸运的是，最后一切顺利。
-
+    - Fortunately, everything worked out all right in the end. 幸运的是，最后一切顺利。
+  - 补充

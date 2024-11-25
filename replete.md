@@ -1,26 +1,19 @@
 - replete
   - 发音
-    - 英
-      - `/ri'pliːt/`
-    - 美
-      - `/rɪ'plit/`
+    - 英 /ri'pliːt/
+    - 美 /rɪ'plit/
   - 词义
-    - adj.
-      - 充分供应的，饱足的；充满的
-        - `full of something`
+    - adj. 充分供应的，饱足的；充满的
+      - full of something
   - 记忆
     - re + plete (满) → 饱满的
   - 同根词
-    - n.
-      - `repletion`
-        - 充满，饱满；饱食
+    - n. repletion 充满，饱满；饱食
   - 近义词
-    - adj.
-      - 充满的；装满的
-        - `filled`
-        - `full`
-        - `consumed`
+    - adj. 充满的；装满的
+      - filled
+      - full
+      - consumed
   - 例句
-    - `The harbour was replete with boats.`
-      - 港口里满是船只。
-
+    - The harbour was replete with boats. 港口里满是船只。
+  - 补充

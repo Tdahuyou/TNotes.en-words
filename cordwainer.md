@@ -1,15 +1,12 @@
 - cordwainer
   - 发音
-    - 英
-      - `/'kɔːdweɪnə/`
-    - 美
-      - `/'kɔrdwenɚ/`
+    - 英 /'kɔːdweɪnə/
+    - 美 /'kɔrdwenɚ/
   - 词义
-    - n.
-      - 鞋匠
-        - `a shoemaker or worker in cordovan leather `
+    - n. 鞋匠
+      - a shoemaker or worker in cordovan leather 
   - 近义词
-    - n.
-      - 皮匠；鞋匠（尤指科尔多瓦皮鞋工人）
-        - `souter`
-        - `crispin`
+    - n. 皮匠；鞋匠（尤指科尔多瓦皮鞋工人）
+      - souter
+      - crispin
+  - 补充

@@ -1,15 +1,12 @@
 - townsman
   - 发音
-    - 英
-      - `/'taʊnzmən/`
-    - 美
-      - `/'taʊnzmən/`
+    - 英 /'taʊnzmən/
+    - 美 /'taʊnzmən/
   - 词义
-    - n.
-      - 市民，镇民；同乡人
-        - `an inhabitant of a town `
+    - n. 市民，镇民；同乡人
+      - an inhabitant of a town 
   - 近义词
-    - n.
-      - 市民，镇民；同乡人
-        - `citizen`
-        - `municipality`
+    - n. 市民，镇民；同乡人
+      - citizen
+      - municipality
+  - 补充

@@ -1,17 +1,14 @@
 - buildup
   - 发音
-    - 英
-      - `/'bɪldʌp/`
-    - 美
-      - `/undefined/`
+    - 英 /'bɪldʌp/
+    - 美 /undefined/
   - 词义
-    - n.
-      - 集结,增长
+    - n. 集结,增长
   - 近义词
-    - n.
-      - 增强；发展；形成；组合；树立名誉
-        - `development`
-        - `formation`
-        - `growth`
-        - `making`
-        - `enhancing`
+    - n. 增强；发展；形成；组合；树立名誉
+      - development
+      - formation
+      - growth
+      - making
+      - enhancing
+  - 补充

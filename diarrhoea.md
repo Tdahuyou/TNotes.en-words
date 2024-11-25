@@ -1,26 +1,17 @@
 - diarrhoea
   - 发音
-    - 英
-      - `/,daɪə'rɪə/`
-    - 美
-      - `/,daiə'riə/`
+    - 英 /,daɪə'rɪə/
+    - 美 /,daiə'riə/
   - 词义
-    - n.
-      - 腹泻
-        - `an illness in which waste from the  bowel s  is watery and comes out often`
+    - n. 腹泻
+      - an illness in which waste from the  bowel s  is watery and comes out often
   - 同根词
-    - adj.
-      - `diarrheal`
-        - 腹泻的
-      - `diarrheic`
-        - 腹泻的（等于diarrheal）
-      - `diarrhoeal`
-        - 腹泻的
+    - adj. diarrheal 腹泻的
+    - adj. diarrheic 腹泻的（等于diarrheal）
+    - adj. diarrhoeal 腹泻的
   - 近义词
-    - n.
-      - 腹泻
-        - `trot`
+    - n. 腹泻
+      - trot
   - 例句
-    - `But the food itself was barely digestible, and many team members suffered from diarrhoea or constipation.`
-      - 但食物本身难以消化,许多队员患了腹泻或便秘。
-
+    - But the food itself was barely digestible, and many team members suffered from diarrhoea or constipation. 但食物本身难以消化,许多队员患了腹泻或便秘。
+  - 补充

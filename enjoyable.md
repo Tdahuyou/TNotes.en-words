@@ -1,34 +1,22 @@
 - enjoyable
   - 发音
-    - 英
-      - `/ɪn'dʒɒɪəb(ə)l; en-/`
-    - 美
-      - `/ɪn'dʒɔɪəbl/`
+    - 英 /ɪn'dʒɒɪəb(ə)l; en-/
+    - 美 /ɪn'dʒɔɪəbl/
   - 词义
-    - adj.
-      - 令人愉快的；有乐趣的
-        - `something enjoyable gives you pleasure`
+    - adj. 令人愉快的；有乐趣的
+      - something enjoyable gives you pleasure
   - 同根词
-    - adv.
-      - `enjoyably`
-        - 愉快地；有趣地；可享乐地
-    - n.
-      - `enjoyment`
-        - 享受；乐趣；享有
-    - vt.
-      - `enjoy`
-        - 欣赏，享受；喜爱；使过得快活
+    - adv. enjoyably 愉快地；有趣地；可享乐地
+    - n. enjoyment 享受；乐趣；享有
+    - vt. enjoy 欣赏，享受；喜爱；使过得快活
   - 近义词
-    - adj.
-      - 快乐的；令人愉快的
-        - `pleasant`
-        - `lovely`
-        - `grateful`
-        - `festival`
-        - `cheerful`
+    - adj. 快乐的；令人愉快的
+      - pleasant
+      - lovely
+      - grateful
+      - festival
+      - cheerful
   - 例句
-    - `Games can make learning more enjoyable.`
-      - 游戏可以寓教于乐。
-    - `an enjoyable experience`
-      - 令人愉快的经历
-
+    - Games can make learning more enjoyable. 游戏可以寓教于乐。
+    - an enjoyable experience 令人愉快的经历
+  - 补充

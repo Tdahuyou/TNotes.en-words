@@ -1,9 +1,7 @@
 - factorable
   - 发音
-    - 英
-      - `/'fæktərəbl/`
-    - 美
-      - `/undefined/`
+    - 英 /'fæktərəbl/
+    - 美 /undefined/
   - 词义
-    - adj.
-      - 可分解因子的
+    - adj. 可分解因子的
+  - 补充

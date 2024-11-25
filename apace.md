@@ -1,22 +1,17 @@
 - apace
   - 发音
-    - 英
-      - `/ə'peɪs/`
-    - 美
-      - `/ə'pes/`
+    - 英 /ə'peɪs/
+    - 美 /ə'pes/
   - 词义
-    - adv.
-      - 快速地,急速地
-        - `happening quickly`
+    - adv. 快速地,急速地
+      - happening quickly
   - 近义词
-    - adv.
-      - 飞快地，迅速地；急速地
-        - `quickly`
-        - `rapidly`
-        - `fast`
-        - `promptly`
-        - `ready`
+    - adv. 飞快地，迅速地；急速地
+      - quickly
+      - rapidly
+      - fast
+      - promptly
+      - ready
   - 例句
-    - `Expansion of the company has continued apace .`
-      - 该公司继续迅速扩张。
-
+    - Expansion of the company has continued apace . 该公司继续迅速扩张。
+  - 补充

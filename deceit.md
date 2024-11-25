@@ -1,30 +1,19 @@
 - deceit
   - 发音
-    - 英
-      - `/dɪ'siːt/`
-    - 美
-      - `/dɪ'sit/`
+    - 英 /dɪ'siːt/
+    - 美 /dɪ'sit/
   - 词义
-    - n.
-      - 欺骗；谎言；欺诈手段
-        - `behaviour that is intended to make someone believe something that is not true`
+    - n. 欺骗；谎言；欺诈手段
+      - behaviour that is intended to make someone believe something that is not true
   - 同根词
-    - adj.
-      - `deceitful`
-        - 欺骗的；欺诈的；谎言的；虚伪的
-    - adv.
-      - `deceitfully`
-        - 欺骗地；虚伪地
-    - n.
-      - `deceitfulness`
-        - 不诚实；欺诈
+    - adj. deceitful 欺骗的；欺诈的；谎言的；虚伪的
+    - adv. deceitfully 欺骗地；虚伪地
+    - n. deceitfulness 不诚实；欺诈
   - 近义词
-    - n.
-      - 欺骗；谎言；欺诈手段
-        - `fraud`
-        - `lie`
-        - `fiction`
+    - n. 欺骗；谎言；欺诈手段
+      - fraud
+      - lie
+      - fiction
   - 例句
-    - `an atmosphere of hypocrisy and deceit`
-      - 充满虚伪和欺骗的氛围
-
+    - an atmosphere of hypocrisy and deceit 充满虚伪和欺骗的氛围
+  - 补充

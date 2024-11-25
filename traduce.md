@@ -1,27 +1,19 @@
 - traduce
   - 发音
-    - 英
-      - `/trə'duːs/`
-    - 美
-      - `/trə'dus/`
+    - 英 /trə'duːs/
+    - 美 /trə'dus/
   - 词义
-    - v.
-      - 中伤，诽谤
-        - `to deliberately say things that are untrue or unpleasant`
+    - v. 中伤，诽谤
+      - to deliberately say things that are untrue or unpleasant
   - 记忆
     - tra(=trans横)+duc(引导)+e → 引到歪里去 → 诽谤
   - 同根词
-    - n.
-      - `traducement`
-        - 诽谤；中伤；诋毁
-      - `traducer`
-        - 诽谤者
+    - n. traducement 诽谤；中伤；诋毁
+    - n. traducer 诽谤者
   - 近义词
-    - vt.
-      - 中伤；诽谤；背叛
-        - `wrong`
-        - `asperse`
+    - vt. 中伤；诽谤；背叛
+      - wrong
+      - asperse
   - 例句
-    - `We have been traduced in the press as xenophobic bigots.`
-      - 我们已经被媒体诽谤为排外的顽固分子。
-
+    - We have been traduced in the press as xenophobic bigots. 我们已经被媒体诽谤为排外的顽固分子。
+  - 补充

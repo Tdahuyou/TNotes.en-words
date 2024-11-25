@@ -1,45 +1,25 @@
 - frighten
   - 发音
-    - 英
-      - `/'fraɪt(ə)n/`
-    - 美
-      - `/'fraɪtn/`
+    - 英 /'fraɪt(ə)n/
+    - 美 /'fraɪtn/
   - 词义
-    - v.
-      - 使惊吓,惊恐
-        - `to make someone feel afraid`
+    - v. 使惊吓,惊恐
+      - to make someone feel afraid
   - 同根词
-    - adj.
-      - `frightening`
-        - 令人恐惧的；引起突然惊恐的
-      - `frightened`
-        - 害怕的；受惊的；受恐吓的
-      - `frightful`
-        - 可怕的；惊人的；非常的
-    - adv.
-      - `frighteningly`
-        - 令人恐惧地
-    - n.
-      - `fright`
-        - 惊吓；惊骇
-      - `frightfulness`
-        - 可怕；丑恶；讨厌；令人毛骨悚然
-    - v.
-      - `frightened`
-        - 害怕；使吃惊；吓走（frighten的过去分词）
-    - vt.
-      - `fright`
-        - 使惊恐
+    - adj. frightening 令人恐惧的；引起突然惊恐的
+    - adj. frightened 害怕的；受惊的；受恐吓的
+    - adj. frightful 可怕的；惊人的；非常的
+    - adv. frighteningly 令人恐惧地
+    - n. fright 惊吓；惊骇
+    - n. frightfulness 可怕；丑恶；讨厌；令人毛骨悚然
+    - v. frightened 害怕；使吃惊；吓走（frighten的过去分词）
+    - vt. fright 使惊恐
   - 近义词
-    - vi.
-      - 害怕，惊恐
-        - `be nervous of`
-        - `be fearful of`
+    - vi. 害怕，惊恐
+      - be nervous of
+      - be fearful of
   - 例句
-    - `Don’t stand so near the edge! You’re frightening me.`
-      - 别站得那么靠边！你要把我吓坏了。
-    - `She was frightened by the anger in his eyes.`
-      - 她被他眼中的怒火吓住了。
-    - `Computers used to frighten me, but not now.`
-      - 电脑过去让我感到害怕，但现在不了。
-
+    - Don’t stand so near the edge! You’re frightening me. 别站得那么靠边！你要把我吓坏了。
+    - She was frightened by the anger in his eyes. 她被他眼中的怒火吓住了。
+    - Computers used to frighten me, but not now. 电脑过去让我感到害怕，但现在不了。
+  - 补充

@@ -1,17 +1,12 @@
 - reenact
   - 发音
-    - 英
-      - `/rɪɪ'nækt/`
-    - 美
-      - `/undefined/`
+    - 英 /rɪɪ'nækt/
+    - 美 /undefined/
   - 词义
-    - v.
-      - 再制定again)
+    - v. 再制定again)
   - 同根词
-    - n.
-      - `reenactment`
-        - 再制定；再扮演
+    - n. reenactment 再制定；再扮演
   - 近义词
-    - vt.
-      - 重新制定；再扮演；再制定
-        - `reorganize`
+    - vt. 重新制定；再扮演；再制定
+      - reorganize
+  - 补充

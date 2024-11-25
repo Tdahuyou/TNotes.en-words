@@ -1,32 +1,21 @@
 - turgid
   - 发音
-    - 英
-      - `/'təːdʒid/`
-    - 美
-      - `/'tɝdʒɪd/`
+    - 英 /'təːdʒid/
+    - 美 /'tɝdʒɪd/
   - 词义
-    - adj.
-      - 肿的；浮夸的
-        - `full and swollen with liquid or air`
+    - adj. 肿的；浮夸的
+      - full and swollen with liquid or air
   - 记忆
     - “特肿的” → 肿的
   - 同根词
-    - adv.
-      - `turgidly`
-        - 夸张地；肿胀地
-    - n.
-      - `turgor`
-        - （细胞组织的）肿胀，膨胀；浮夸，夸张
-      - `turgidity`
-        - 肿胀；浮肿；虚夸
-      - `turgidness`
-        - 肿胀；炫耀
+    - adv. turgidly 夸张地；肿胀地
+    - n. turgor （细胞组织的）肿胀，膨胀；浮夸，夸张
+    - n. turgidity 肿胀；浮肿；虚夸
+    - n. turgidness 肿胀；炫耀
   - 近义词
-    - adj.
-      - [临床]肿胀的；浮夸的；浮肿的
-        - `swollen`
-        - `tumid`
+    - adj. [临床]肿胀的；浮夸的；浮肿的
+      - swollen
+      - tumid
   - 例句
-    - `a turgid Social Science textbook`
-      - 一本枯燥乏味的社会科学教科书
-
+    - a turgid Social Science textbook 一本枯燥乏味的社会科学教科书
+  - 补充

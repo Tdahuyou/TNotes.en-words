@@ -1,36 +1,23 @@
 - sift
   - 发音
-    - 英
-      - `/sɪft/`
-    - 美
-      - `/sɪft/`
+    - 英 /sɪft/
+    - 美 /sɪft/
   - 词义
-    - v.
-      - 详审
-        - `to examine information, documents etc carefully in order to find something out or decide what is important and what is not`
+    - v. 详审
+      - to examine information, documents etc carefully in order to find something out or decide what is important and what is not
   - 同根词
-    - n.
-      - `sifter`
-        - 筛子；负责筛选的人
-      - `sifting`
-        - 过筛，过滤；筛选
-    - v.
-      - `sifting`
-        - 筛撒，纷落，详察（sift的现在分词形式）
+    - n. sifter 筛子；负责筛选的人
+    - n. sifting 过筛，过滤；筛选
+    - v. sifting 筛撒，纷落，详察（sift的现在分词形式）
   - 近义词
-    - vt.
-      - 筛选；撒；过滤；详查
-        - `dust`
-        - `filter`
-    - vi.
-      - 筛；详查；撒下；细究
-        - `detail survey`
+    - vt. 筛选；撒；过滤；详查
+      - dust
+      - filter
+    - vi. 筛；详查；撒下；细究
+      - detail survey
   - 短语
-    - `sift through`
-      - 通过；被筛下 
-    - `sift out`
-      - 过筛 
+    - sift through 通过；被筛下
+    - sift out 过筛
   - 例句
-    - `Police are sifting through the evidence.`
-      - 警方在筛查证据。
-
+    - Police are sifting through the evidence. 警方在筛查证据。
+  - 补充

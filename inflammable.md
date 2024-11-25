@@ -1,40 +1,26 @@
 - inflammable
   - 发音
-    - 英
-      - `/in'flæməbl/`
-    - 美
-      - `/ɪn'flæməbl/`
+    - 英 /in'flæməbl/
+    - 美 /ɪn'flæməbl/
   - 词义
-    - adj.
-      - 易燃的
-        - `inflammable materials or substances will start to burn very easily`
+    - adj. 易燃的
+      - inflammable materials or substances will start to burn very easily
   - 记忆
     - in (进入) + flamm (火) + able → 进入火 → 易燃的
   - 同根词
-    - adj.
-      - `inflammatory`
-        - 炎症性的；煽动性的；激动的
-    - vi.
-      - `inflame`
-        - 燃烧；发炎；激动
-    - vt.
-      - `inflame`
-        - 激怒；使燃烧；使发炎
+    - adj. inflammatory 炎症性的；煽动性的；激动的
+    - vi. inflame 燃烧；发炎；激动
+    - vt. inflame 激怒；使燃烧；使发炎
   - 近义词
-    - adj.
-      - [安全][物]易燃的；易怒的；易激动的
-        - `emotional`
-        - `passionate`
-    - n.
-      - [安全][物]易燃物
-        - `tinderbox`
-        - `flammable`
+    - adj. [安全][物]易燃的；易怒的；易激动的
+      - emotional
+      - passionate
+    - n. [安全][物]易燃物
+      - tinderbox
+      - flammable
   - 短语
-    - `inflammable liquid`
-      - 易燃液体 
-    - `inflammable gas`
-      - 易燃气体 
+    - inflammable liquid 易燃液体
+    - inflammable gas 易燃气体
   - 例句
-    - `Petrol is highly inflammable.`
-      - 汽油高度易燃。
-
+    - Petrol is highly inflammable. 汽油高度易燃。
+  - 补充

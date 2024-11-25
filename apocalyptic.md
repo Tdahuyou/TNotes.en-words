@@ -1,25 +1,16 @@
 - apocalyptic
   - 发音
-    - 英
-      - `/undefined/`
-    - 美
-      - `/ə'pɑkə'lɪptɪk/`
+    - 英 /undefined/
+    - 美 /ə'pɑkə'lɪptɪk/
   - 词义
-    - adj.
-      - 启示录的,天启的
-        - `Apocalyptic means relating to or involving predictions about future disasters and the destruction of the world`
+    - adj. 启示录的,天启的
+      - Apocalyptic means relating to or involving predictions about future disasters and the destruction of the world
   - 同根词
-    - adj.
-      - `apocalyptical`
-        - 天启的，启示论的
-    - n.
-      - `apocalypse`
-        - 启示；天启
+    - adj. apocalyptical 天启的，启示论的
+    - n. apocalypse 启示；天启
   - 近义词
-    - adj.
-      - 启示录的；天启的
-        - `revelational`
+    - adj. 启示录的；天启的
+      - revelational
   - 例句
-    - `...a gloomy and apocalyptic vision of a world hastening toward ruin.`
-      - ...一种世界正加速走向毁灭的阴郁和末日启示的想法。
-
+    - ...a gloomy and apocalyptic vision of a world hastening toward ruin. ...一种世界正加速走向毁灭的阴郁和末日启示的想法。
+  - 补充

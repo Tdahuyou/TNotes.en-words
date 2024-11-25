@@ -1,13 +1,10 @@
 - pernoctation
   - 发音
-    - 英
-      - `/undefined/`
-    - 美
-      - `/undefined/`
+    - 英 /undefined/
+    - 美 /undefined/
   - 词义
-    - n.
-      - 彻夜不眠
+    - n. 彻夜不眠
   - 近义词
-    - n.
-      - 彻夜不眠；失眠症
-        - `insomnia`
+    - n. 彻夜不眠；失眠症
+      - insomnia
+  - 补充

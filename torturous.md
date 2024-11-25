@@ -1,29 +1,20 @@
 - torturous
   - 发音
-    - 英
-      - `/'tɔːtʃərəs/`
-    - 美
-      - `/undefined/`
+    - 英 /'tɔːtʃərəs/
+    - 美 /undefined/
   - 词义
-    - adj.
-      - 折磨的，痛苦的
-        - `very painful or unpleasant to experience`
+    - adj. 折磨的，痛苦的
+      - very painful or unpleasant to experience
   - 记忆
     - 来自torture (n. 拷问， 痛苦)
   - 同根词
-    - n.
-      - `torture`
-        - 折磨；拷问；歪曲
-    - vt.
-      - `torture`
-        - 折磨；拷问；歪曲
+    - n. torture 折磨；拷问；歪曲
+    - vt. torture 折磨；拷问；歪曲
   - 近义词
-    - adj.
-      - 折磨人的，痛苦的
-        - `painful`
-        - `bitter`
-        - `hurt`
+    - adj. 折磨人的，痛苦的
+      - painful
+      - bitter
+      - hurt
   - 例句
-    - `a torturous five days of fitness testing`
-      - 五天痛苦的体能测试
-
+    - a torturous five days of fitness testing 五天痛苦的体能测试
+  - 补充

@@ -1,26 +1,18 @@
 - chubby
   - 发音
-    - 英
-      - `/'tʃʌbi/`
-    - 美
-      - `/'tʃʌbi/`
+    - 英 /'tʃʌbi/
+    - 美 /'tʃʌbi/
   - 词义
-    - adj.
-      - 丰满的，圆胖的
-        - `slightly fat in a way that looks healthy and attractive`
+    - adj. 丰满的，圆胖的
+      - slightly fat in a way that looks healthy and attractive
   - 同根词
-    - n.
-      - `chubbiness`
-        - 丰腴
+    - n. chubbiness 丰腴
   - 近义词
-    - adj.
-      - 圆胖的，丰满的
-        - `fat`
-        - `full`
-        - `pudsy`
+    - adj. 圆胖的，丰满的
+      - fat
+      - full
+      - pudsy
   - 例句
-    - `a chubby six-year-old`
-      - 一个胖乎乎的六岁孩子
-    - `a baby with round chubby cheeks`
-      - 脸蛋圆嘟嘟的婴儿
-
+    - a chubby six-year-old 一个胖乎乎的六岁孩子
+    - a baby with round chubby cheeks 脸蛋圆嘟嘟的婴儿
+  - 补充

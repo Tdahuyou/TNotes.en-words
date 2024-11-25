@@ -1,14 +1,11 @@
 - pacifier
   - 发音
-    - 英
-      - `/'pæsɪfaɪə/`
-    - 美
-      - `/'pæsɪfaɪɚ/`
+    - 英 /'pæsɪfaɪə/
+    - 美 /'pæsɪfaɪɚ/
   - 词义
-    - n.
-      - 调停者，和解人
+    - n. 调停者，和解人
   - 近义词
-    - n.
-      - 调解人；抚慰者；橡皮奶头
-        - `intercessor`
-        - `conciliator`
+    - n. 调解人；抚慰者；橡皮奶头
+      - intercessor
+      - conciliator
+  - 补充

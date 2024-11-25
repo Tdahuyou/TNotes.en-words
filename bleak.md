@@ -1,31 +1,22 @@
 - bleak
   - 发音
-    - 英
-      - `/bliːk/`
-    - 美
-      - `/blik/`
+    - 英 /bliːk/
+    - 美 /blik/
   - 词义
-    - adj.
-      - 阴冷的；无望的，令人沮丧的；乏味的；荒凉的
-        - `without anything to make you feel happy or hopeful`
+    - adj. 阴冷的；无望的，令人沮丧的；乏味的；荒凉的
+      - without anything to make you feel happy or hopeful
   - 记忆
     - 核泄露(leak)令人沮丧(bleak)
   - 同根词
-    - adv.
-      - `bleakly`
-        - 风吹雨打地；荒凉地；阴郁地
-    - n.
-      - `bleakness`
-        - 严寒；阴郁；萧瑟凄凉；惨淡无望
+    - adv. bleakly 风吹雨打地；荒凉地；阴郁地
+    - n. bleakness 严寒；阴郁；萧瑟凄凉；惨淡无望
   - 近义词
-    - adj.
-      - 阴冷的；荒凉的，无遮蔽的；黯淡的，无希望的；冷酷的；单调的
-        - `raw`
-        - `wild`
-        - `flat`
-        - `frozen`
-        - `blank`
+    - adj. 阴冷的；荒凉的，无遮蔽的；黯淡的，无希望的；冷酷的；单调的
+      - raw
+      - wild
+      - flat
+      - frozen
+      - blank
   - 例句
-    - `a bleak January afternoon`
-      - 一月里一个阴冷的下午
-
+    - a bleak January afternoon 一月里一个阴冷的下午
+  - 补充

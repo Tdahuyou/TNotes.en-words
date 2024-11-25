@@ -1,9 +1,7 @@
 - ungeared
   - 发音
-    - 英
-      - `/'ʌn'giəd/`
-    - 美
-      - `/undefined/`
+    - 英 /'ʌn'giəd/
+    - 美 /undefined/
   - 词义
-    - adj.
-      - 无借贷的
+    - adj. 无借贷的
+  - 补充

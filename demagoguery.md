@@ -1,28 +1,18 @@
 - demagoguery
   - 发音
-    - 英
-      - `/'deməˌgɔgəri/`
-    - 美
-      - `/undefined/`
+    - 英 /'deməˌgɔgəri/
+    - 美 /undefined/
   - 词义
-    - n.
-      - 煽动群众者
+    - n. 煽动群众者
   - 记忆
     - de (加强) + magogu (音似： “瞒过的”) + ery → 煽动群众， 瞒天过海
   - 同根词
-    - adj.
-      - `demagogic`
-        - 蛊惑人心的；煽动性的
-      - `demagogical`
-        - 煽动的
-    - n.
-      - `demagogue`
-        - 煽动者；煽动家；煽动政治家
-      - `demagog`
-        - 群众领导者；煽动家
-      - `demagogy`
-        - 煽动家的方法与行为
+    - adj. demagogic 蛊惑人心的；煽动性的
+    - adj. demagogical 煽动的
+    - n. demagogue 煽动者；煽动家；煽动政治家
+    - n. demagog 群众领导者；煽动家
+    - n. demagogy 煽动家的方法与行为
   - 近义词
-    - n.
-      - 散布谣言；煽动行为；群众煽动
-        - `talebearing`
+    - n. 散布谣言；煽动行为；群众煽动
+      - talebearing
+  - 补充

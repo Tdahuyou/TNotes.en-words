@@ -1,25 +1,17 @@
 - skulk
   - 发音
-    - 英
-      - `/skʌlk/`
-    - 美
-      - `/skʌlk/`
+    - 英 /skʌlk/
+    - 美 /skʌlk/
   - 词义
-    - v.
-      - 偷偷隐躲,偷懒
+    - v. 偷偷隐躲,偷懒
   - 同根词
-    - n.
-      - `skulker`
-        - 偷懒的人；偷偷隐躲起来的人
+    - n. skulker 偷懒的人；偷偷隐躲起来的人
   - 近义词
-    - vi.
-      - 潜伏；偷偷隐躲；逃避责任；偷偷摸摸地行走
-        - `to conceal`
-        - `lie low`
-    - n.
-      - 躲藏者；逃避责任者；潜行的人或动物
-        - `shirker`
+    - vi. 潜伏；偷偷隐躲；逃避责任；偷偷摸摸地行走
+      - to conceal
+      - lie low
+    - n. 躲藏者；逃避责任者；潜行的人或动物
+      - shirker
   - 例句
-    - `You, meanwhile, will be skulking in the safety of the car.`
-      - 与此同时，你会安全地藏在汽车里。
-
+    - You, meanwhile, will be skulking in the safety of the car. 与此同时，你会安全地藏在汽车里。
+  - 补充

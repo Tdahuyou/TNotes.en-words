@@ -1,90 +1,50 @@
 - psychology
   - 发音
-    - 英
-      - `/saɪ'kɑːlədʒi/`
-    - 美
-      - `/saɪ'kɑlədʒi/`
+    - 英 /saɪ'kɑːlədʒi/
+    - 美 /saɪ'kɑlədʒi/
   - 词义
-    - n.
-      - 心理学；心理，心理特征
-        - `the study of the mind and how it influences people’s behaviour`
+    - n. 心理学；心理，心理特征
+      - the study of the mind and how it influences people’s behaviour
   - 记忆
     - psycho(灵魂， 精神) + logy(…学) → 心理学
   - 同根词
-    - adj.
-      - `psychological`
-        - 心理的；心理学的；精神上的
-      - `psychometric`
-        - 心理测量的
-      - `psychogenic`
-        - 精神性的，心理性的
-      - `psychopathological`
-        - 精神病理学的
-    - adv.
-      - `psychologically`
-        - 心理上地；心理学地
-    - n.
-      - `psychologist`
-        - 心理学家，心理学者
-      - `psychopathology`
-        - 精神病理学
-      - `psycholinguistic`
-        - 心理语言学
-      - `psychobabble`
-        - 心理呓语
-      - `psychogenesis`
-        - [心理] 心理发生；精神发生
-      - `psychometrics`
-        - [心理] 心理测验学
-      - `psychometry`
-        - 心理测验；心理测定学；心灵占卜术
+    - adj. psychological 心理的；心理学的；精神上的
+    - adj. psychometric 心理测量的
+    - adj. psychogenic 精神性的，心理性的
+    - adj. psychopathological 精神病理学的
+    - adv. psychologically 心理上地；心理学地
+    - n. psychologist 心理学家，心理学者
+    - n. psychopathology 精神病理学
+    - n. psycholinguistic 心理语言学
+    - n. psychobabble 心理呓语
+    - n. psychogenesis [心理] 心理发生；精神发生
+    - n. psychometrics [心理] 心理测验学
+    - n. psychometry 心理测验；心理测定学；心灵占卜术
   - 近义词
-    - n.
-      - [心理]心理学；心理状态
-        - `mentation`
-        - `psychological science`
+    - n. [心理]心理学；心理状态
+      - mentation
+      - psychological science
   - 短语
-    - `social psychology`
-      - 社会心理学 
-    - `cognitive psychology`
-      - 认知心理学 
-    - `educational psychology`
-      - 教育心理学 
-    - `consumer psychology`
-      - 消费者心理学；顾客心理学 
-    - `environmental psychology`
-      - 环境心理学 
-    - `abnormal psychology`
-      - 变态心理学 
-    - `child psychology`
-      - 儿童心理学 
-    - `applied psychology`
-      - 应用心理学 
-    - `developmental psychology`
-      - 发展心理学 
-    - `gestalt psychology`
-      - 格式塔心理学；完形心理学 
-    - `individual psychology`
-      - n. 个体心理学 
-    - `health psychology`
-      - 健康心理学 
-    - `criminal psychology`
-      - 犯罪心理学 
-    - `evolutionary psychology`
-      - 进化心理学；演化心理學 
-    - `management psychology`
-      - 管理心理学；经营心理学 
-    - `moral psychology`
-      - 品德心理学 
-    - `sport psychology`
-      - 运动心理学 
-    - `personality psychology`
-      - 人格心理学；个性心理学 
-    - `clinical psychology`
-      - 临床心理学 
-    - `group psychology`
-      - 从众心理；群体心理学 
+    - social psychology 社会心理学
+    - cognitive psychology 认知心理学
+    - educational psychology 教育心理学
+    - consumer psychology 消费者心理学；顾客心理学
+    - environmental psychology 环境心理学
+    - abnormal psychology 变态心理学
+    - child psychology 儿童心理学
+    - applied psychology 应用心理学
+    - developmental psychology 发展心理学
+    - gestalt psychology 格式塔心理学；完形心理学
+    - individual psychology n. 个体心理学
+    - health psychology 健康心理学
+    - criminal psychology 犯罪心理学
+    - evolutionary psychology 进化心理学；演化心理學
+    - management psychology 管理心理学；经营心理学
+    - moral psychology 品德心理学
+    - sport psychology 运动心理学
+    - personality psychology 人格心理学；个性心理学
+    - clinical psychology 临床心理学
+    - group psychology 从众心理；群体心理学
   - 例句
-    - `the psychology of three-year-olds`
-      - 三岁孩子的思想
-
+    - the psychology of three-year-olds 三岁孩子的思想
+  - 补充

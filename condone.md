@@ -1,27 +1,19 @@
 - condone
   - 发音
-    - 英
-      - `/kən'dəun/`
-    - 美
-      - `/kən'don/`
+    - 英 /kən'dəun/
+    - 美 /kən'don/
   - 词义
-    - v.
-      - 宽恕，赦免
-        - `to accept or forgive behaviour that most people think is morally wrong`
+    - v. 宽恕，赦免
+      - to accept or forgive behaviour that most people think is morally wrong
   - 记忆
     - con (共同) + done (给予) → 全部给予 → 大度， 宽容 → 宽恕
   - 同根词
-    - n.
-      - `condonation`
-        - （夫妻间对对方通奸的）宽恕；赦免；赎罪
-      - `condonement`
-        - 默许；不咎
+    - n. condonation （夫妻间对对方通奸的）宽恕；赦免；赎罪
+    - n. condonement 默许；不咎
   - 近义词
-    - vt.
-      - 宽恕；赦免
-        - `depurge`
-        - `tolerate`
+    - vt. 宽恕；赦免
+      - depurge
+      - tolerate
   - 例句
-    - `I cannot condone the use of violence under any circumstances.`
-      - 我不能原谅在任何情况下使用暴力。
-
+    - I cannot condone the use of violence under any circumstances. 我不能原谅在任何情况下使用暴力。
+  - 补充

@@ -1,34 +1,22 @@
 - inconsequential
   - 发音
-    - 英
-      - `/inˌkɔnsi'kwenʃəl/`
-    - 美
-      - `/ɪn'kɑnsə'kwɛnʃəl/`
+    - 英 /inˌkɔnsi'kwenʃəl/
+    - 美 /ɪn'kɑnsə'kwɛnʃəl/
   - 词义
-    - adj.
-      - 不合逻辑的；不合理的
+    - adj. 不合逻辑的；不合理的
   - 记忆
     - in (不) + con (一起) + sequ (跟随) + ent + ial (…的) → 不跟随逻辑一起的 → 不合逻辑的
   - 同根词
-    - adj.
-      - `inconsequent`
-        - 不合理的，矛盾的
-    - adv.
-      - `inconsequentially`
-        - 不重要地
-      - `inconsequently`
-        - 矛盾地，不合理地；不切题地
-    - n.
-      - `inconsequence`
-        - 不合理；矛盾；不切题
+    - adj. inconsequent 不合理的，矛盾的
+    - adv. inconsequentially 不重要地
+    - adv. inconsequently 矛盾地，不合理地；不切题地
+    - n. inconsequence 不合理；矛盾；不切题
   - 近义词
-    - adj.
-      - 不重要的；不合理的；不合逻辑的
-        - `unreasonable`
-        - `small`
-        - `trivial`
-        - `unimportant`
+    - adj. 不重要的；不合理的；不合逻辑的
+      - unreasonable
+      - small
+      - trivial
+      - unimportant
   - 例句
-    - `inconsequential but amusing chatter`
-      - 无谓但有趣的闲扯
-
+    - inconsequential but amusing chatter 无谓但有趣的闲扯
+  - 补充

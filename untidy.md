@@ -1,32 +1,20 @@
 - untidy
   - 发音
-    - 英
-      - `/ʌn'taɪdɪ/`
-    - 美
-      - `/ʌn'taɪdi/`
+    - 英 /ʌn'taɪdɪ/
+    - 美 /ʌn'taɪdi/
   - 词义
-    - adj.
-      - 不整洁的，凌乱的；懒散的；不干净利落的，不简练的；不适宜的
-        - `not neat`
-    - v.
-      - 使不整洁；使杂乱无章
+    - adj. 不整洁的，凌乱的；懒散的；不干净利落的，不简练的；不适宜的
+      - not neat
+    - v. 使不整洁；使杂乱无章
   - 同根词
-    - adv.
-      - `untidily`
-        - 不整洁地；凌乱地
-    - n.
-      - `untidiness`
-        - 不整洁，不修边幅；凌乱，无条理性
+    - adv. untidily 不整洁地；凌乱地
+    - n. untidiness 不整洁，不修边幅；凌乱，无条理性
   - 近义词
-    - adj.
-      - 不整洁的；凌乱的；不整齐的；懒散的；不简练的
-        - `draggly`
-        - `tatty`
+    - adj. 不整洁的；凌乱的；不整齐的；懒散的；不简练的
+      - draggly
+      - tatty
   - 例句
-    - `an untidy desk`
-      - 乱七八糟的书桌
-    - `untidy hair`
-      - 凌乱的头发
-    - `Her clothes were in an untidy heap on the floor.`
-      - 她的衣服胡乱堆在地板上。
-
+    - an untidy desk 乱七八糟的书桌
+    - untidy hair 凌乱的头发
+    - Her clothes were in an untidy heap on the floor. 她的衣服胡乱堆在地板上。
+  - 补充

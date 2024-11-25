@@ -1,9 +1,7 @@
 - assonate
   - 发音
-    - 英
-      - `/'æsəneit/`
-    - 美
-      - `/undefined/`
+    - 英 /'æsəneit/
+    - 美 /undefined/
   - 词义
-    - v.
-      - 音相谐，成为准押韵
+    - v. 音相谐，成为准押韵
+  - 补充

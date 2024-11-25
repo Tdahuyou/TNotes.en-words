@@ -1,14 +1,11 @@
 - naivete
   - 发音
-    - 英
-      - `/naɪ'iːvəti/`
-    - 美
-      - `/na:'i:vtei/`
+    - 英 /naɪ'iːvəti/
+    - 美 /na:'i:vtei/
   - 词义
-    - n.
-      - 天真的言行举止；天真无邪
+    - n. 天真的言行举止；天真无邪
   - 近义词
-    - n.
-      - 天真；质朴；纯真无邪；天真烂漫
-        - `simplicity`
-        - `unsophistication`
+    - n. 天真；质朴；纯真无邪；天真烂漫
+      - simplicity
+      - unsophistication
+  - 补充

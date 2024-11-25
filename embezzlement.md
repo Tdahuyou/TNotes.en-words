@@ -1,23 +1,16 @@
 - embezzlement
   - 发音
-    - 英
-      - `/ɪm'bezlmənt/`
-    - 美
-      - `/ɪm'bɛzlmənt/`
+    - 英 /ɪm'bezlmənt/
+    - 美 /ɪm'bɛzlmənt/
   - 词义
-    - n.
-      - 贪污，盗用
+    - n. 贪污，盗用
   - 记忆
     - em + bezzle(看作bezzant， 金银币) + ment → 将金银币据为己有 → 贪污， 盗用
   - 同根词
-    - n.
-      - `embezzler`
-        - 侵占公款犯，盗用公款者
-    - vt.
-      - `embezzle`
-        - 盗用；挪用；贪污
+    - n. embezzler 侵占公款犯，盗用公款者
+    - vt. embezzle 盗用；挪用；贪污
   - 近义词
-    - n.
-      - 侵占；挪用；[法]盗用
-        - `appropriation`
-        - `malversation`
+    - n. 侵占；挪用；[法]盗用
+      - appropriation
+      - malversation
+  - 补充

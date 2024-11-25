@@ -1,21 +1,14 @@
 - cholera
   - 发音
-    - 英
-      - `/'kɔlərə/`
-    - 美
-      - `/'kɑlərə/`
+    - 英 /'kɔlərə/
+    - 美 /'kɑlərə/
   - 词义
-    - n.
-      - 【医】霍乱
-        - `a serious disease that causes sickness and sometimes death. It is caused by eating infected food or drinking infected water.`
+    - n. 【医】霍乱
+      - a serious disease that causes sickness and sometimes death. It is caused by eating infected food or drinking infected water.
   - 同根词
-    - adj.
-      - `choleraic`
-        - 霍乱的；霍乱性的；类似霍乱的
+    - adj. choleraic 霍乱的；霍乱性的；类似霍乱的
   - 短语
-    - `cholera epidemic`
-      - 霍乱蔓延 
+    - cholera epidemic 霍乱蔓延
   - 例句
-    - `...a cholera epidemic.`
-      - …一场霍乱疫情。
-
+    - ...a cholera epidemic. …一场霍乱疫情。
+  - 补充

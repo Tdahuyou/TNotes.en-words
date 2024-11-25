@@ -1,33 +1,20 @@
 - bobsleigh
   - 发音
-    - 英
-      - `/'bɒbsleɪ/`
-    - 美
-      - `/'bɑbsle/`
+    - 英 /'bɒbsleɪ/
+    - 美 /'bɑbsle/
   - 词义
-    - n.
-      - 长橇，雪橇
-        - `a small vehicle with two long thin metal blades instead of wheels, that is used for racing down a special ice track`
-    - vi.
-      - 乘大雪橇；滑大雪橇比赛
+    - n. 长橇，雪橇
+      - a small vehicle with two long thin metal blades instead of wheels, that is used for racing down a special ice track
+    - vi. 乘大雪橇；滑大雪橇比赛
   - 同根词
-    - n.
-      - `bobsled`
-        - 大雪橇；连橇
-      - `bobsledding`
-        - 滑大雪橇运动；乘大雪橇
-    - v.
-      - `bobsledding`
-        - 乘大雪橇（bobsled的ing形式）
-    - vi.
-      - `bobsled`
-        - 滑大雪橇；乘大雪橇（等于bobsleigh）
+    - n. bobsled 大雪橇；连橇
+    - n. bobsledding 滑大雪橇运动；乘大雪橇
+    - v. bobsledding 乘大雪橇（bobsled的ing形式）
+    - vi. bobsled 滑大雪橇；乘大雪橇（等于bobsleigh）
   - 近义词
-    - n.
-      - 长橇，雪橇
-        - `cariole`
-        - `coaster`
+    - n. 长橇，雪橇
+      - cariole
+      - coaster
   - 例句
-    - `Sixteen teams took part in the 400 m bobsleigh.`
-      - 有16支队伍参加了400米雪橇比赛。
-
+    - Sixteen teams took part in the 400 m bobsleigh. 有16支队伍参加了400米雪橇比赛。
+  - 补充

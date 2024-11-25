@@ -1,66 +1,37 @@
 - northern
   - 发音
-    - 英
-      - `/'nɔːð(ə)n/`
-    - 美
-      - `/'nɔrðɚn/`
+    - 英 /'nɔːð(ə)n/
+    - 美 /'nɔrðɚn/
   - 词义
-    - adj.
-      - 北方的,北部的
-        - `in or from the north of a country or area`
+    - adj. 北方的,北部的
+      - in or from the north of a country or area
   - 同根词
-    - adj.
-      - `north`
-        - 北方的；朝北的
-      - `northward`
-        - 向北的
-      - `northerly`
-        - 北方的，向北的；来自北方的
-      - `northernmost`
-        - 最北的
-      - `northmost`
-        - 极北的（等于northernmost）
-    - adv.
-      - `north`
-        - 在北方，向北方
-      - `northward`
-        - 向北
-      - `northerly`
-        - 向北；来自北方
-    - n.
-      - `north`
-        - 北，北方
-      - `northward`
-        - 北方
-      - `norther`
-        - 酷寒北风；强烈北风
-      - `northerly`
-        - 北风
-      - `northerner`
-        - 北方人
+    - adj. north 北方的；朝北的
+    - adj. northward 向北的
+    - adj. northerly 北方的，向北的；来自北方的
+    - adj. northernmost 最北的
+    - adj. northmost 极北的（等于northernmost）
+    - adv. north 在北方，向北方
+    - adv. northward 向北
+    - adv. northerly 向北；来自北方
+    - n. north 北，北方
+    - n. northward 北方
+    - n. norther 酷寒北风；强烈北风
+    - n. northerly 北风
+    - n. northerner 北方人
   - 近义词
-    - adj.
-      - [地理]北部的；北方的
-        - `boreal`
-        - `upstate`
+    - adj. [地理]北部的；北方的
+      - boreal
+      - upstate
   - 短语
-    - `northern ireland`
-      - 北爱尔兰自治区（在爱尔兰东北部） 
-    - `northern hemisphere`
-      - 北半球 
-    - `northern slope`
-      - 北坡（美国阿拉斯加州北冰洋之间） 
-    - `northern territory`
-      - 北领地，北部领地；北部地方 
-    - `northern light`
-      - 北极光 
-    - `northern latitude`
-      - n. 北纬 
-    - `northern island`
-      - 北爱尔兰 
+    - northern ireland 北爱尔兰自治区（在爱尔兰东北部）
+    - northern hemisphere 北半球
+    - northern slope 北坡（美国阿拉斯加州北冰洋之间）
+    - northern territory 北领地，北部领地；北部地方
+    - northern light 北极光
+    - northern latitude n. 北纬
+    - northern island 北爱尔兰
   - 例句
-    - `a man with a northern accent`
-      - 带有北方口音的男子
-    - `Northern Europe`
-      - 北欧
-
+    - a man with a northern accent 带有北方口音的男子
+    - Northern Europe 北欧
+  - 补充

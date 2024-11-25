@@ -1,43 +1,26 @@
 - demonstrate
   - 发音
-    - 英
-      - `/'demənstreɪt/`
-    - 美
-      - `/'dɛmən'stret/`
+    - 英 /'demənstreɪt/
+    - 美 /'dɛmən'stret/
   - 词义
-    - v.
-      - 论证，证明；表现，显露；示范，演示；游行示威
-        - `to show or prove something clearly`
+    - v. 论证，证明；表现，显露；示范，演示；游行示威
+      - to show or prove something clearly
   - 记忆
     - de(完全) + monstr(展示) + ate → 完全展示 → 论证； 表现
   - 同根词
-    - adj.
-      - `demonstrative`
-        - 说明的；证明的；公开表露感情的
-      - `demonstrable`
-        - 可论证的；显而易见的
-    - adv.
-      - `demonstrably`
-        - 可论证地；明确地
-      - `demonstratively`
-        - 论证地
-    - n.
-      - `demonstration`
-        - 示范；证明；示威游行
-      - `demonstrator`
-        - 示威者；论证者；指示者；证明者
-      - `demonstrative`
-        - 指示词
-      - `demonstrability`
-        - 论证可能性
+    - adj. demonstrative 说明的；证明的；公开表露感情的
+    - adj. demonstrable 可论证的；显而易见的
+    - adv. demonstrably 可论证地；明确地
+    - adv. demonstratively 论证地
+    - n. demonstration 示范；证明；示威游行
+    - n. demonstrator 示威者；论证者；指示者；证明者
+    - n. demonstrative 指示词
+    - n. demonstrability 论证可能性
   - 近义词
-    - vt.
-      - 证明；展示；论证
-        - `prove`
-        - `give evidence of`
+    - vt. 证明；展示；论证
+      - prove
+      - give evidence of
   - 例句
-    - `The study demonstrates the link between poverty and malnutrition.`
-      - 这项研究证明了贫困与营养不良之间的联系。
-    - `The government now has an opportunity to demonstrate its commitment to reform.`
-      - 政府现在有机会表明改革的决心了。
-
+    - The study demonstrates the link between poverty and malnutrition. 这项研究证明了贫困与营养不良之间的联系。
+    - The government now has an opportunity to demonstrate its commitment to reform. 政府现在有机会表明改革的决心了。
+  - 补充

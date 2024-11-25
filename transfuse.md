@@ -1,18 +1,13 @@
 - transfuse
   - 发音
-    - 英
-      - `/træns'fjuːz; trɑːns-; -nz-/`
-    - 美
-      - `/trænz'fjʊz/`
+    - 英 /træns'fjuːz; trɑːns-; -nz-/
+    - 美 /trænz'fjʊz/
   - 词义
-    - v.
-      - 输血；灌输；注入
+    - v. 输血；灌输；注入
   - 同根词
-    - n.
-      - `transfusion`
-        - [临床] 输血；[临床] 输液；倾注；灌输
+    - n. transfusion [临床] 输血；[临床] 输液；倾注；灌输
   - 近义词
-    - vt.
-      - 输血；灌输；注入
-        - `blood transfusions`
-        - `imbue`
+    - vt. 输血；灌输；注入
+      - blood transfusions
+      - imbue
+  - 补充

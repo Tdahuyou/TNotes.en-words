@@ -1,14 +1,11 @@
 - forager
   - 发音
-    - 英
-      - `/undefined/`
-    - 美
-      - `/undefined/`
+    - 英 /undefined/
+    - 美 /undefined/
   - 词义
-    - n.
-      - 强征(粮食)者
+    - n. 强征(粮食)者
   - 近义词
-    - n.
-      - 抢劫者；强征队员
-        - `looter`
-        - `pillager`
+    - n. 抢劫者；强征队员
+      - looter
+      - pillager
+  - 补充

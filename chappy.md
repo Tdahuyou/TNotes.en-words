@@ -1,18 +1,15 @@
 - chappy
   - 发音
-    - 英
-      - `/'tʃæpi/`
-    - 美
-      - `/undefined/`
+    - 英 /'tʃæpi/
+    - 美 /undefined/
   - 词义
-    - n.
-      - 家伙
-        - `a  chap `
+    - n. 家伙
+      - a  chap 
   - 近义词
-    - n.
-      - 家伙；花花公子
-        - `apple`
-        - `customer`
-        - `fellow`
-        - `guy`
-        - `bird`
+    - n. 家伙；花花公子
+      - apple
+      - customer
+      - fellow
+      - guy
+      - bird
+  - 补充

@@ -1,28 +1,19 @@
 - anthology
   - 发音
-    - 英
-      - `/æn'θɔlədʒi/`
-    - 美
-      - `/æn'θɑlədʒi/`
+    - 英 /æn'θɔlədʒi/
+    - 美 /æn'θɑlədʒi/
   - 词义
-    - n.
-      - 选集；文选
-        - `a set of stories, poems, songs etc by different people collected together in one book`
+    - n. 选集；文选
+      - a set of stories, poems, songs etc by different people collected together in one book
   - 记忆
     - anth (花) + ology → 像花一样的文章 → 选集， 文选
   - 同根词
-    - n.
-      - `anthologist`
-        - 选集的编者；文选编者
-    - vt.
-      - `anthologize`
-        - 把…收入选集；编纂…的选集
+    - n. anthologist 选集的编者；文选编者
+    - vt. anthologize 把…收入选集；编纂…的选集
   - 近义词
-    - n.
-      - （诗、文、曲、画等的）[图情]选集
-        - `selection`
-        - `selected works`
+    - n. （诗、文、曲、画等的）[图情]选集
+      - selection
+      - selected works
   - 例句
-    - `an anthology of American literature`
-      - 美国文学选集
-
+    - an anthology of American literature 美国文学选集
+  - 补充

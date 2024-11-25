@@ -1,32 +1,20 @@
 - serrated
   - 发音
-    - 英
-      - `/undefined/`
-    - 美
-      - `/sə'retɪd/`
+    - 英 /undefined/
+    - 美 /sə'retɪd/
   - 词义
-    - adj.
-      - [生物]锯齿状的，有锯齿的
-        - `having a sharp edge made of a row of connected points like teeth`
-    - v.
-      - 使有锯齿（serrate的过去分词）
+    - adj. [生物]锯齿状的，有锯齿的
+      - having a sharp edge made of a row of connected points like teeth
+    - v. 使有锯齿（serrate的过去分词）
   - 同根词
-    - adj.
-      - `serrate`
-        - [生物] 锯齿状的
-      - `serrulate`
-        - 有细锯齿的；细锯齿状的，细锯齿边的
-    - n.
-      - `serration`
-        - （行扫描起点不一致引起屏幕上的）锯齿状；锯齿状突起（等于serrature）
-      - `serra`
-        - [生物] 锯齿状器官
+    - adj. serrate [生物] 锯齿状的
+    - adj. serrulate 有细锯齿的；细锯齿状的，细锯齿边的
+    - n. serration （行扫描起点不一致引起屏幕上的）锯齿状；锯齿状突起（等于serrature）
+    - n. serra [生物] 锯齿状器官
   - 近义词
-    - adj.
-      - 锯齿状的，有锯齿的
-        - `jagged`
-        - `saw-toothed`
+    - adj. 锯齿状的，有锯齿的
+      - jagged
+      - saw-toothed
   - 例句
-    - `Use a knife with a serrated edge .`
-      - 使用带锯齿刃的刀。
-
+    - Use a knife with a serrated edge . 使用带锯齿刃的刀。
+  - 补充

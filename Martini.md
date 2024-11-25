@@ -1,14 +1,10 @@
 - Martini
   - 发音
-    - 英
-      - `/mɑː'tiːnɪ/`
-    - 美
-      - `/mɑ:'ti:ni/`
+    - 英 /mɑː'tiːnɪ/
+    - 美 /mɑ:'ti:ni/
   - 词义
-    - n.
-      - 马提尼酒（一种鸡尾酒）
-        - `a popular  brand  of  vermouth `
+    - n. 马提尼酒（一种鸡尾酒）
+      - a popular  brand  of  vermouth 
   - 例句
-    - `a dry`
-      - 干马丁尼酒
-
+    - a dry 干马丁尼酒
+  - 补充

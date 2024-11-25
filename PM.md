@@ -1,9 +1,7 @@
 - PM
   - 发音
-    - 英
-      - `/undefined/`
-    - 美
-      - `/undefined/`
+    - 英 /undefined/
+    - 美 /undefined/
   - 词义
-    - abbr.
-      - （拉）下午（PostMeridiem，等于afternoon）；调相（PhaseModulation）
+    - abbr. （拉）下午（PostMeridiem，等于afternoon）；调相（PhaseModulation）
+  - 补充

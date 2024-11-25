@@ -1,22 +1,16 @@
 - turbid
   - 发音
-    - 英
-      - `/'tɜːbɪd/`
-    - 美
-      - `/'tɝbɪd/`
+    - 英 /'tɜːbɪd/
+    - 美 /'tɝbɪd/
   - 词义
-    - adj.
-      - 浑浊的；混乱的；雾重的
-        - `turbid water or liquid is dirty and muddy`
+    - adj. 浑浊的；混乱的；雾重的
+      - turbid water or liquid is dirty and muddy
   - 同根词
-    - n.
-      - `turbidity`
-        - [分化] 浊度；浑浊；混浊度；混乱
-      - `turbidness`
-        - 浓密；混浊；混乱
+    - n. turbidity [分化] 浊度；浑浊；混浊度；混乱
+    - n. turbidness 浓密；混浊；混乱
   - 近义词
-    - adj.
-      - 浑浊的；混乱的；雾重的
-        - `chaotic`
-        - `troubled`
-        - `confused`
+    - adj. 浑浊的；混乱的；雾重的
+      - chaotic
+      - troubled
+      - confused
+  - 补充

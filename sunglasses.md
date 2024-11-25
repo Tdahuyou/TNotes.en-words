@@ -1,14 +1,10 @@
 - sunglasses
   - 发音
-    - 英
-      - `/'sʌnglɑːsɪz/`
-    - 美
-      - `/'sʌnɡlæsɪz/`
+    - 英 /'sʌnglɑːsɪz/
+    - 美 /'sʌnɡlæsɪz/
   - 词义
-    - n.
-      - [用复数]太阳镜；墨镜
-        - `dark glasses that you wear to protect your eyes when the sun is very bright`
+    - n. [用复数]太阳镜；墨镜
+      - dark glasses that you wear to protect your eyes when the sun is very bright
   - 例句
-    - `She slipped on a pair of sunglasses.`
-      - 她轻快地戴上了一副太阳镜。
-
+    - She slipped on a pair of sunglasses. 她轻快地戴上了一副太阳镜。
+  - 补充

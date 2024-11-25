@@ -1,26 +1,17 @@
 - checkpoint
   - 发音
-    - 英
-      - `/'tʃekpɒɪnt/`
-    - 美
-      - `/'tʃɛkpɔɪnt/`
+    - 英 /'tʃekpɒɪnt/
+    - 美 /'tʃɛkpɔɪnt/
   - 词义
-    - n.
-      - 检查站，关卡
-        - `a place, especially on a border, where an official person examines vehicles or people`
+    - n. 检查站，关卡
+      - a place, especially on a border, where an official person examines vehicles or people
   - 同根词
-    - adj.
-      - `checked`
-        - 选中的；格子花纹的
-    - v.
-      - `checked`
-        - 检查（check的过去式和过去分词）
+    - adj. checked 选中的；格子花纹的
+    - v. checked 检查（check的过去式和过去分词）
   - 近义词
-    - n.
-      - [计]检查站，关卡
-        - `inspection station`
-        - `toll-gate`
+    - n. [计]检查站，关卡
+      - inspection station
+      - toll-gate
   - 例句
-    - `They had to cross five military checkpoints.`
-      - 他们得通过五个军事检查站。
-
+    - They had to cross five military checkpoints. 他们得通过五个军事检查站。
+  - 补充

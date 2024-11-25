@@ -1,43 +1,29 @@
 - rustic
   - 发音
-    - 英
-      - `/'rʌstɪk/`
-    - 美
-      - `/'rʌstɪk/`
+    - 英 /'rʌstɪk/
+    - 美 /'rʌstɪk/
   - 词义
-    - adj.
-      - 乡村的；淳朴的；用粗糙木材制作的
-        - `simple, old-fashioned, and not spoiled by modern developments, in a way that is typical of the countryside`
+    - adj. 乡村的；淳朴的；用粗糙木材制作的
+      - simple, old-fashioned, and not spoiled by modern developments, in a way that is typical of the countryside
   - 记忆
     - rus(乡村) + tic → 乡村的； 用粗糙木材制作的
   - 同根词
-    - n.
-      - `rustication`
-        - 乡村生活；停学
-      - `rusticism`
-        - 乡土用语；乡土行为
-      - `rusticity`
-        - 质朴；乡村式；田园生活；乡气
-    - vi.
-      - `rusticate`
-        - 去乡下；变得乡气
-    - vt.
-      - `rusticate`
-        - 使定居乡村；使乡气
+    - n. rustication 乡村生活；停学
+    - n. rusticism 乡土用语；乡土行为
+    - n. rusticity 质朴；乡村式；田园生活；乡气
+    - vi. rusticate 去乡下；变得乡气
+    - vt. rusticate 使定居乡村；使乡气
   - 近义词
-    - adj.
-      - 乡村的；纯朴的；粗野的；手工粗糙的
-        - `robust`
-        - `gross`
-        - `rough`
-        - `country`
-        - `bush`
-    - n.
-      - 乡下人；乡巴佬
-        - `peasant`
-        - `provincial`
-        - `countryman`
+    - adj. 乡村的；纯朴的；粗野的；手工粗糙的
+      - robust
+      - gross
+      - rough
+      - country
+      - bush
+    - n. 乡下人；乡巴佬
+      - peasant
+      - provincial
+      - countryman
   - 例句
-    - `The village had a certain rustic charm .`
-      - 这个村庄有一种迷人的田园风情。
-
+    - The village had a certain rustic charm . 这个村庄有一种迷人的田园风情。
+  - 补充

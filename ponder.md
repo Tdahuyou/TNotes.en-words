@@ -1,37 +1,25 @@
 - ponder
   - 发音
-    - 英
-      - `/'pɑːndər/`
-    - 美
-      - `/'pɑndɚ/`
+    - 英 /'pɑːndər/
+    - 美 /'pɑndɚ/
   - 词义
-    - v.
-      - 思索，沉思
+    - v. 思索，沉思
   - 记忆
     - pond(权衡， 考虑) + er → 反复权衡， 仔细考虑 → 思索， 沉思
   - 同根词
-    - adj.
-      - `ponderous`
-        - 笨重的；沉闷的；呆板的
-      - `ponderable`
-        - 有重量的；可称量的；有价值的
-    - n.
-      - `ponderable`
-        - 值得考虑的事物
+    - adj. ponderous 笨重的；沉闷的；呆板的
+    - adj. ponderable 有重量的；可称量的；有价值的
+    - n. ponderable 值得考虑的事物
   - 近义词
-    - vt.
-      - 仔细考虑；衡量
-        - `mull over`
-        - `reflect on`
-    - vi.
-      - 考虑；沉思
-        - `allow`
-        - `think about`
-        - `think of`
+    - vt. 仔细考虑；衡量
+      - mull over
+      - reflect on
+    - vi. 考虑；沉思
+      - allow
+      - think about
+      - think of
   - 短语
-    - `ponder over`
-      - 深思，沉思；考虑 
+    - ponder over 深思，沉思；考虑
   - 例句
-    - `He continued to ponder the problem as he walked home.`
-      - 他一边往家走一边继续思考那个问题。
-
+    - He continued to ponder the problem as he walked home. 他一边往家走一边继续思考那个问题。
+  - 补充

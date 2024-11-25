@@ -1,21 +1,16 @@
 - dissolute
   - 发音
-    - 英
-      - `/'dɪsəluːt/`
-    - 美
-      - `/'dɪsəlut/`
+    - 英 /'dɪsəluːt/
+    - 美 /'dɪsəlut/
   - 词义
-    - adj.
-      - 放荡的，放纵的，道德沦丧的
-        - `having an immoral way of life, for example drinking too much alcohol or having sex with many people`
+    - adj. 放荡的，放纵的，道德沦丧的
+      - having an immoral way of life, for example drinking too much alcohol or having sex with many people
   - 记忆
     - dis(分离) + solu(解开) + te → 完全解开 → 放荡的
   - 同根词
-    - adv.
-      - `dissolutely`
-        - 放荡地；荒淫地；毫无约束地
+    - adv. dissolutely 放荡地；荒淫地；毫无约束地
   - 近义词
-    - adj.
-      - 放荡的；风流的
-        - `gay`
-        - `ramshackle`
+    - adj. 放荡的；风流的
+      - gay
+      - ramshackle
+  - 补充

@@ -1,22 +1,15 @@
 - pollinate
   - 发音
-    - 英
-      - `/'pɑːləneɪt/`
-    - 美
-      - `/'pɑlənet/`
+    - 英 /'pɑːləneɪt/
+    - 美 /'pɑlənet/
   - 词义
-    - vt.
-      - 给…授粉
-        - `to give a flower or plant pollen so that it can produce seeds`
+    - vt. 给…授粉
+      - to give a flower or plant pollen so that it can produce seeds
   - 记忆
     - pollin(=pollen花粉) + ate → 给…授粉
   - 同根词
-    - n.
-      - `pollination`
-        - [农学] 授粉（作用）
-      - `pollinator`
-        - 授花粉器
+    - n. pollination [农学] 授粉（作用）
+    - n. pollinator 授花粉器
   - 例句
-    - `flowers pollinated by bees`
-      - 由蜜蜂授粉的花
-
+    - flowers pollinated by bees 由蜜蜂授粉的花
+  - 补充

@@ -1,33 +1,21 @@
 - proletarian
   - 发音
-    - 英
-      - `/,prəʊlɪ'teərɪən/`
-    - 美
-      - `/,prolə'tɛrɪən/`
+    - 英 /,prəʊlɪ'teərɪən/
+    - 美 /,prolə'tɛrɪən/
   - 词义
-    - n.
-      - 普罗，无产者；工人
-    - adj.
-      - 普罗阶级的，无产阶级的
-        - `Proletarian means relating to the proletariat`
+    - n. 普罗，无产者；工人
+    - adj. 普罗阶级的，无产阶级的
+      - Proletarian means relating to the proletariat
   - 同根词
-    - adj.
-      - `prole`
-        - 无产阶级的
-    - n.
-      - `proletariat`
-        - 无产阶级，工人阶级；最下层阶级
-      - `prole`
-        - 无产者，普罗阶级
+    - adj. prole 无产阶级的
+    - n. proletariat 无产阶级，工人阶级；最下层阶级
+    - n. prole 无产者，普罗阶级
   - 近义词
-    - n.
-      - 普罗，无产者；工人
-        - `worker`
-        - `laborer`
+    - n. 普罗，无产者；工人
+      - worker
+      - laborer
   - 短语
-    - `great proletarian cultural revolution`
-      - 文化大革命 
+    - great proletarian cultural revolution 文化大革命
   - 例句
-    - `...a proletarian revolution.`
-      - ...一场无产阶级革命。
-
+    - ...a proletarian revolution. ...一场无产阶级革命。
+  - 补充

@@ -1,27 +1,20 @@
 - miscreant
   - 发音
-    - 英
-      - `/'miskriənt/`
-    - 美
-      - `/'mɪskrɪənt/`
+    - 英 /'miskriənt/
+    - 美 /'mɪskrɪənt/
   - 词义
-    - adj.
-      - 堕落的，卑劣的；异端的
-    - n.
-      - 恶棍；异端
-        - `a bad person who causes trouble, hurts people etc`
+    - adj. 堕落的，卑劣的；异端的
+    - n. 恶棍；异端
+      - a bad person who causes trouble, hurts people etc
   - 记忆
     - mis (坏) + crea (做) + nt → 做坏事者 → 恶棍
   - 近义词
-    - adj.
-      - 异端的；邪道的；极恶的
-        - `enormous`
-        - `heretical`
-    - n.
-      - 异端；恶棍；罪大恶极之人
-        - `tough`
-        - `deviationism`
+    - adj. 异端的；邪道的；极恶的
+      - enormous
+      - heretical
+    - n. 异端；恶棍；罪大恶极之人
+      - tough
+      - deviationism
   - 例句
-    - `Local people demanded that the police apprehend the miscreants.`
-      - 当地人要求警方逮捕那些恶棍。
-
+    - Local people demanded that the police apprehend the miscreants. 当地人要求警方逮捕那些恶棍。
+  - 补充

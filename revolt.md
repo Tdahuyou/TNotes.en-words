@@ -1,49 +1,32 @@
 - revolt
   - 发音
-    - 英
-      - `/rɪ'voult/`
-    - 美
-      - `/rɪ'volt/`
+    - 英 /rɪ'voult/
+    - 美 /rɪ'volt/
   - 词义
-    - v.
-      - 反叛，反抗；违抗；厌恶，反感
-        - `if people revolt, they take strong and often violent action against the government, usually with the aim of taking power away from them`
-    - n.
-      - 起义，叛乱，反抗
-        - `a refusal to accept someone’s authority or obey rules or laws`
+    - v. 反叛，反抗；违抗；厌恶，反感
+      - if people revolt, they take strong and often violent action against the government, usually with the aim of taking power away from them
+    - n. 起义，叛乱，反抗
+      - a refusal to accept someone’s authority or obey rules or laws
   - 记忆
     - re(反) + volt(转) → 反转 → 反叛， 反抗
   - 同根词
-    - adj.
-      - `revolting`
-        - 叛乱的；背叛的；讨厌的
-    - adv.
-      - `revoltingly`
-        - 背叛地；讨厌地；令人恶心地
-    - v.
-      - `revolting`
-        - 反叛，造反；起反感（revolt的现在分词形式）
+    - adj. revolting 叛乱的；背叛的；讨厌的
+    - adv. revoltingly 背叛地；讨厌地；令人恶心地
+    - v. revolting 反叛，造反；起反感（revolt的现在分词形式）
   - 近义词
-    - vi.
-      - 反抗；反叛；反感，厌恶
-        - `strive against`
-        - `come out against`
-    - vt.
-      - 使反感；使恶心
-        - `sicken`
-    - n.
-      - 反抗；叛乱；反感
-        - `resistance`
-        - `hate`
-        - `rebellion`
+    - vi. 反抗；反叛；反感，厌恶
+      - strive against
+      - come out against
+    - vt. 使反感；使恶心
+      - sicken
+    - n. 反抗；叛乱；反感
+      - resistance
+      - hate
+      - rebellion
   - 短语
-    - `in revolt`
-      - 反抗；造反 
-    - `revolt against`
-      - 反感；厌恶 
-    - `revolt at`
-      - 厌恶；憎恶 
+    - in revolt 反抗；造反
+    - revolt against 反感；厌恶
+    - revolt at 厌恶；憎恶
   - 例句
-    - `He was revolted by the smell.`
-      - 那气味让他恶心。
-
+    - He was revolted by the smell. 那气味让他恶心。
+  - 补充

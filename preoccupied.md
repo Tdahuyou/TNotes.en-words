@@ -1,33 +1,21 @@
 - preoccupied
   - 发音
-    - 英
-      - `/priː'ɒkjʊpaɪd/`
-    - 美
-      - `/pri'ɑkjə'paɪd/`
+    - 英 /priː'ɒkjʊpaɪd/
+    - 美 /pri'ɑkjə'paɪd/
   - 词义
-    - adj.
-      - 全神贯注的；心事重重的；被先占的
-        - `thinking about something a lot, with the result that you do not pay attention to other things`
-    - v.
-      - 抢先占有；使…全神贯注（preoccupy的过去式）
+    - adj. 全神贯注的；心事重重的；被先占的
+      - thinking about something a lot, with the result that you do not pay attention to other things
+    - v. 抢先占有；使…全神贯注（preoccupy的过去式）
   - 同根词
-    - n.
-      - `preoccupation`
-        - 全神贯注，入神；当务之急；关注的事物；抢先占据；成见
-      - `preoccupancy`
-        - 先入为主；全神贯注；极为忙碌（等于preoccupation）
-    - vt.
-      - `preoccupy`
-        - 迷住；使全神贯注
+    - n. preoccupation 全神贯注，入神；当务之急；关注的事物；抢先占据；成见
+    - n. preoccupancy 先入为主；全神贯注；极为忙碌（等于preoccupation）
+    - vt. preoccupy 迷住；使全神贯注
   - 近义词
-    - adj.
-      - 全神贯注的；心事重重的；被先占的
-        - `concentrated`
-        - `rapt`
+    - adj. 全神贯注的；心事重重的；被先占的
+      - concentrated
+      - rapt
   - 短语
-    - `preoccupied with`
-      - 全神贯注于；沉浸在 
+    - preoccupied with 全神贯注于；沉浸在
   - 例句
-    - `What’s wrong with Cindy? She seems a little preoccupied.`
-      - 辛迪怎么了？她好像有点心事重重。
-
+    - What’s wrong with Cindy? She seems a little preoccupied. 辛迪怎么了？她好像有点心事重重。
+  - 补充

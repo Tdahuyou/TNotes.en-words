@@ -1,41 +1,21 @@
 - modernise
   - 发音
-    - 英
-      - `/'mɒdənaɪz/`
-    - 美
-      - `/'mɔdənaiz/`
+    - 英 /'mɒdənaɪz/
+    - 美 /'mɔdənaiz/
   - 词义
-    - v.
-      - 现代化（等于modernize）
+    - v. 现代化（等于modernize）
   - 同根词
-    - adj.
-      - `modern`
-        - 现代的，近代的；时髦的
-      - `modernist`
-        - 现代主义的
-      - `modernized`
-        - 现代化的
-      - `modernistic`
-        - 现代的，现代化的；现代派的，现代主义的
-    - n.
-      - `modern`
-        - 现代人；有思想的人
-      - `modernization`
-        - 现代化
-      - `modernity`
-        - 现代性；现代的东西；新式
-      - `modernism`
-        - 现代主义；现代思想；现代作风
-      - `modernisation`
-        - 现代化（等于modernization）
-      - `modernist`
-        - 现代主义者；现代主义艺术家
-    - v.
-      - `modernized`
-        - 使现代化（modernize的过去分词）
-    - vi.
-      - `modernize`
-        - 现代化
-    - vt.
-      - `modernize`
-        - 使…现代化
+    - adj. modern 现代的，近代的；时髦的
+    - adj. modernist 现代主义的
+    - adj. modernized 现代化的
+    - adj. modernistic 现代的，现代化的；现代派的，现代主义的
+    - n. modern 现代人；有思想的人
+    - n. modernization 现代化
+    - n. modernity 现代性；现代的东西；新式
+    - n. modernism 现代主义；现代思想；现代作风
+    - n. modernisation 现代化（等于modernization）
+    - n. modernist 现代主义者；现代主义艺术家
+    - v. modernized 使现代化（modernize的过去分词）
+    - vi. modernize 现代化
+    - vt. modernize 使…现代化
+  - 补充

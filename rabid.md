@@ -1,27 +1,19 @@
 - rabid
   - 发音
-    - 英
-      - `/'ræbid/`
-    - 美
-      - `/'ræbid/`
+    - 英 /'ræbid/
+    - 美 /'ræbid/
   - 词义
-    - adj.
-      - 狂暴的，激烈的；患有狂犬病的
-        - `having very extreme and unreasonable opinions`
+    - adj. 狂暴的，激烈的；患有狂犬病的
+      - having very extreme and unreasonable opinions
   - 同根词
-    - n.
-      - `rabidity`
-        - 急进；猛烈；狂怒
-      - `rabidness`
-        - 患狂犬病；猛烈顽固
+    - n. rabidity 急进；猛烈；狂怒
+    - n. rabidness 患狂犬病；猛烈顽固
   - 近义词
-    - adj.
-      - 激烈的；狂暴的；偏激的；患狂犬病的
-        - `angry`
-        - `acute`
-        - `extreme`
-        - `furious`
+    - adj. 激烈的；狂暴的；偏激的；患狂犬病的
+      - angry
+      - acute
+      - extreme
+      - furious
   - 例句
-    - `a group of rabid right-wing fanatics`
-      - 一群极端的右翼狂热分子
-
+    - a group of rabid right-wing fanatics 一群极端的右翼狂热分子
+  - 补充

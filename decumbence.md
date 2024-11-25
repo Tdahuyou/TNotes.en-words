@@ -1,13 +1,10 @@
 - decumbence
   - 发音
-    - 英
-      - `/undefined/`
-    - 美
-      - `/undefined/`
+    - 英 /undefined/
+    - 美 /undefined/
   - 词义
-    - n.
-      - 横卧
+    - n. 横卧
   - 近义词
-    - n.
-      - 横卧；匍匐
-        - `creeping motion`
+    - n. 横卧；匍匐
+      - creeping motion
+  - 补充

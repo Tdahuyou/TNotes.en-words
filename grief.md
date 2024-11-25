@@ -1,33 +1,22 @@
 - grief
   - 发音
-    - 英
-      - `/griːf/`
-    - 美
-      - `/ɡrif/`
+    - 英 /griːf/
+    - 美 /ɡrif/
   - 词义
-    - n.
-      - 悲伤，悲痛；悲伤的事，悲痛的缘由
-        - `extreme sadness, especially because someone you love has died`
+    - n. 悲伤，悲痛；悲伤的事，悲痛的缘由
+      - extreme sadness, especially because someone you love has died
   - 记忆
     - gr (看作grav， 重的) + ief → 心情沉重的 → 悲痛
   - 同根词
-    - vi.
-      - `grieve`
-        - 悲痛，哀悼
-    - vt.
-      - `grieve`
-        - 使悲伤，使苦恼
+    - vi. grieve 悲痛，哀悼
+    - vt. grieve 使悲伤，使苦恼
   - 近义词
-    - n.
-      - 悲痛；忧伤；不幸
-        - `disaster`
-        - `evil`
+    - n. 悲痛；忧伤；不幸
+      - disaster
+      - evil
   - 短语
-    - `come to grief`
-      - 遭难，失败 
-    - `good grief`
-      - 哎呀！天哪！（表示诧异， 吃惊， 恐惧的感叹语） 
+    - come to grief 遭难，失败
+    - good grief 哎呀！天哪！（表示诧异， 吃惊， 恐惧的感叹语）
   - 例句
-    - `Every change in our lives brings with it griefs.`
-      - 我们生活当中的每一个变化都有让人伤心的一面。
-
+    - Every change in our lives brings with it griefs. 我们生活当中的每一个变化都有让人伤心的一面。
+  - 补充

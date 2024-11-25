@@ -1,28 +1,20 @@
 - considerably
   - 发音
-    - 英
-      - `/kən'sɪd(ə)rəblɪ/`
-    - 美
-      - `/kən'sɪdərəbli/`
+    - 英 /kən'sɪd(ə)rəblɪ/
+    - 美 /kən'sɪdərəbli/
   - 词义
-    - adv.
-      - 相当地，非常地
-        - `much or a lot`
+    - adv. 相当地，非常地
+      - much or a lot
   - 同根词
-    - adj.
-      - `considerable`
-        - 相当大的；重要的，值得考虑的
+    - adj. considerable 相当大的；重要的，值得考虑的
   - 近义词
-    - adv.
-      - 相当地；非常地
-        - `relatively`
-        - `fairly`
-        - `comparatively`
-        - `reasonably`
-        - `pretty`
+    - adv. 相当地；非常地
+      - relatively
+      - fairly
+      - comparatively
+      - reasonably
+      - pretty
   - 例句
-    - `It’s considerably colder today.`
-      - 今天冷多了。
-    - `Conditions have improved considerably over the past few years.`
-      - 过去几年里条件已经得到了很大的改善。
-
+    - It’s considerably colder today. 今天冷多了。
+    - Conditions have improved considerably over the past few years. 过去几年里条件已经得到了很大的改善。
+  - 补充

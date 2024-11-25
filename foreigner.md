@@ -1,26 +1,17 @@
 - foreigner
   - 发音
-    - 英
-      - `/'fɒrɪnə/`
-    - 美
-      - `/'fɔrənɚ/`
+    - 英 /'fɒrɪnə/
+    - 美 /'fɔrənɚ/
   - 词义
-    - n.
-      - 外地人，外国人
-        - `someone who comes from a different country`
+    - n. 外地人，外国人
+      - someone who comes from a different country
   - 同根词
-    - adj.
-      - `foreign`
-        - 外国的；外交的；异质的；不相关的
-    - n.
-      - `foreignness`
-        - 外国（人）的特性
+    - adj. foreign 外国的；外交的；异质的；不相关的
+    - n. foreignness 外国（人）的特性
   - 近义词
-    - n.
-      - 外地人，外国人
-        - `provincial`
-        - `stranger`
+    - n. 外地人，外国人
+      - provincial
+      - stranger
   - 例句
-    - `Some of the local people are suspicious of foreigners.`
-      - 有些当地人不信任外国人。
-
+    - Some of the local people are suspicious of foreigners. 有些当地人不信任外国人。
+  - 补充

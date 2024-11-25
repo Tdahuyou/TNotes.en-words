@@ -1,55 +1,35 @@
 - crush
   - 发音
-    - 英
-      - `/krʌʃ/`
-    - 美
-      - `/krʌʃ/`
+    - 英 /krʌʃ/
+    - 美 /krʌʃ/
   - 词义
-    - vt.
-      - 碾碎；使变形；镇压
-        - `To crush something means to press it very hard so that its shape is destroyed or so that it breaks into pieces`
+    - vt. 碾碎；使变形；镇压
+      - To crush something means to press it very hard so that its shape is destroyed or so that it breaks into pieces
   - 记忆
     - 碰撞(crash)后被碾碎(crush)
   - 同根词
-    - adj.
-      - `crushing`
-        - 压倒的；决定性的；不能站起来；支离破碎的
-    - n.
-      - `crusher`
-        - 打击；[食品] 压碎机；压碎的东西；镇服人的事实
-    - v.
-      - `crushing`
-        - 压破，征服，冲入（crush的过去式和过去分词形式）
+    - adj. crushing 压倒的；决定性的；不能站起来；支离破碎的
+    - n. crusher 打击；[食品] 压碎机；压碎的东西；镇服人的事实
+    - v. crushing 压破，征服，冲入（crush的过去式和过去分词形式）
   - 近义词
-    - vt.
-      - 压碎；弄皱，变形；使…挤入
-        - `crunch`
-        - `become deformed`
-    - vi.
-      - 挤；被压碎
-        - `pile`
-        - `crowd`
-        - `pack`
-    - n.
-      - 粉碎；迷恋；压榨；拥挤的人群
-        - `compression`
-        - `comminution`
+    - vt. 压碎；弄皱，变形；使…挤入
+      - crunch
+      - become deformed
+    - vi. 挤；被压碎
+      - pile
+      - crowd
+      - pack
+    - n. 粉碎；迷恋；压榨；拥挤的人群
+      - compression
+      - comminution
   - 短语
-    - `get a crush on`
-      - 迷恋 
-    - `have a crush on`
-      - 迷恋… 
-    - `crush syndrome`
-      - n. 【医】压挤综合症 
-    - `do not crush`
-      - 切勿压挤；请勿挤压 
-    - `crush in`
-      - 压成，碾成；挤进，把…塞进 
-    - `crush resistance`
-      - 抗压，抗压溃性能；粉碎抵抗；抗破碎性 
+    - get a crush on 迷恋
+    - have a crush on 迷恋…
+    - crush syndrome n. 【医】压挤综合症
+    - do not crush 切勿压挤；请勿挤压
+    - crush in 压成，碾成；挤进，把…塞进
+    - crush resistance 抗压，抗压溃性能；粉碎抵抗；抗破碎性
   - 例句
-    - `Andrew crushed his empty can.`
-      - 安德鲁压扁了他的空罐子。
-    - `...crushed ice.`
-      - …碎冰。
-
+    - Andrew crushed his empty can. 安德鲁压扁了他的空罐子。
+    - ...crushed ice. …碎冰。
+  - 补充

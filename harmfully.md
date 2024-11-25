@@ -1,31 +1,18 @@
 - harmfully
   - 发音
-    - 英
-      - `/undefined/`
-    - 美
-      - `/undefined/`
+    - 英 /undefined/
+    - 美 /undefined/
   - 词义
-    - adv.
-      - 伤害地,有害地
+    - adv. 伤害地,有害地
   - 同根词
-    - adj.
-      - `harmful`
-        - 有害的；能造成损害的
-      - `harmless`
-        - 无害的；无恶意的
-    - adv.
-      - `harmlessly`
-        - 无害地；无恶意地
-    - n.
-      - `harm`
-        - 伤害；损害
-      - `harmfulness`
-        - 伤害；有害
-    - vt.
-      - `harm`
-        - 伤害；危害；损害
+    - adj. harmful 有害的；能造成损害的
+    - adj. harmless 无害的；无恶意的
+    - adv. harmlessly 无害地；无恶意地
+    - n. harm 伤害；损害
+    - n. harmfulness 伤害；有害
+    - vt. harm 伤害；危害；损害
   - 近义词
-    - adv.
-      - 有害地；伤害地
-        - `injuriously`
-        - `hurtfully`
+    - adv. 有害地；伤害地
+      - injuriously
+      - hurtfully
+  - 补充

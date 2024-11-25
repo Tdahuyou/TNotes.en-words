@@ -1,28 +1,17 @@
 - realise
   - 发音
-    - 英
-      - `/'rɪəlaɪz/`
-    - 美
-      - `/'riəlaiz, 'ri:-/`
+    - 英 /'rɪəlaɪz/
+    - 美 /'riəlaiz, 'ri:-/
   - 词义
-    - v.
-      - 了解；意识到
+    - v. 了解；意识到
   - 同根词
-    - adj.
-      - `realised`
-        - 实现的
-    - n.
-      - `realisation`
-        - 实现，完成（等于realization）
-    - v.
-      - `realised`
-        - 实现（realise的过去分词）
+    - adj. realised 实现的
+    - n. realisation 实现，完成（等于realization）
+    - v. realised 实现（realise的过去分词）
   - 近义词
-    - vt.
-      - 认识到，明白
-        - `learn`
-        - `come to realize`
+    - vt. 认识到，明白
+      - learn
+      - come to realize
   - 例句
-    - `In the first half they realise their boss is exploiting them and begin to understand the theory of surplus value.`
-      - 在前半部，工人们认识到他们的老板是在剥削他们，开始了解剩余价值理论。
-
+    - In the first half they realise their boss is exploiting them and begin to understand the theory of surplus value. 在前半部，工人们认识到他们的老板是在剥削他们，开始了解剩余价值理论。
+  - 补充

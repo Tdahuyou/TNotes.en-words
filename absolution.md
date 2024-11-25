@@ -1,25 +1,18 @@
 - absolution
   - 发音
-    - 英
-      - `/ˌæbsə'ljuːʃən/`
-    - 美
-      - `/,æbsə'luʃən/`
+    - 英 /ˌæbsə'ljuːʃən/
+    - 美 /,æbsə'luʃən/
   - 词义
-    - n.
-      - 免罪，赦免
-        - `when someone is formally forgiven by the Christian Church or a priest for the things they have done wrong`
+    - n. 免罪，赦免
+      - when someone is formally forgiven by the Christian Church or a priest for the things they have done wrong
   - 记忆
     - ab (离开) + solut (松) + ion → 松绑允许离开 → 免罪， 赦免
   - 同根词
-    - vt.
-      - `absolve`
-        - 免除；赦免；宣告…无罪
+    - vt. absolve 免除；赦免；宣告…无罪
   - 近义词
-    - n.
-      - [法]赦免；免罪
-        - `acquittal`
-        - `indulgency`
+    - n. [法]赦免；免罪
+      - acquittal
+      - indulgency
   - 例句
-    - `Pope Leo gave him absolution.`
-      - 教皇列奥赦免了他的罪孽。
-
+    - Pope Leo gave him absolution. 教皇列奥赦免了他的罪孽。
+  - 补充

@@ -1,30 +1,20 @@
 - heretical
   - 发音
-    - 英
-      - `/hə'retikəl/`
-    - 美
-      - `/həˈrɛtɪkəl/`
+    - 英 /hə'retikəl/
+    - 美 /həˈrɛtɪkəl/
   - 词义
-    - adj.
-      - 异教的；异端的
-        - `A belief or action that is heretical is one that most people think is wrong because it disagrees with beliefs that are generally accepted`
+    - adj. 异教的；异端的
+      - A belief or action that is heretical is one that most people think is wrong because it disagrees with beliefs that are generally accepted
   - 记忆
     - here (异) + tical → 异端的
   - 同根词
-    - adj.
-      - `heretic`
-        - 异端的；异教的
-    - n.
-      - `heresy`
-        - 异端；异端邪说；异教
-      - `heretic`
-        - 异教徒，异端者
+    - adj. heretic 异端的；异教的
+    - n. heresy 异端；异端邪说；异教
+    - n. heretic 异教徒，异端者
   - 近义词
-    - adj.
-      - 异端的；异教的
-        - `heterodox`
-        - `unorthodox`
+    - adj. 异端的；异教的
+      - heterodox
+      - unorthodox
   - 例句
-    - `I made the then heretical suggestion that it might be cheaper to design new machines.`
-      - 我提出了当时被当做旁门左道的建议，说设计新机器或许更省钱。
-
+    - I made the then heretical suggestion that it might be cheaper to design new machines. 我提出了当时被当做旁门左道的建议，说设计新机器或许更省钱。
+  - 补充

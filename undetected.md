@@ -1,21 +1,16 @@
 - undetected
   - 发音
-    - 英
-      - `/ˌʌndɪ'tektɪd/`
-    - 美
-      - `/'ʌndɪ'tɛktɪd/`
+    - 英 /ˌʌndɪ'tektɪd/
+    - 美 /'ʌndɪ'tɛktɪd/
   - 词义
-    - adj.
-      - 未被发现的
-        - `if something, especially something bad, goes undetected, no one notices it`
+    - adj. 未被发现的
+      - if something, especially something bad, goes undetected, no one notices it
   - 记忆
     - un(不) + detect(发现) + ed → 未被发现的
   - 近义词
-    - adj.
-      - 未被发现的；未检测到的
-        - `undiscovered`
-        - `unfound`
+    - adj. 未被发现的；未检测到的
+      - undiscovered
+      - unfound
   - 例句
-    - `The thieves escaped undetected through a basement window.`
-      - 那些盗贼从地下室的窗户神不知鬼不觉地逃走了。
-
+    - The thieves escaped undetected through a basement window. 那些盗贼从地下室的窗户神不知鬼不觉地逃走了。
+  - 补充

@@ -1,33 +1,21 @@
 - alleged
   - 发音
-    - 英
-      - `/ə'ledʒd/`
-    - 美
-      - `/əˈlɛdʒd/`
+    - 英 /ə'ledʒd/
+    - 美 /əˈlɛdʒd/
   - 词义
-    - adj.
-      - 无根据的，声称的；所谓的
-        - `An alleged fact has been stated but has not been proved to be true`
+    - adj. 无根据的，声称的；所谓的
+      - An alleged fact has been stated but has not been proved to be true
   - 记忆
     - 来自allege (宣称) + d → 声称的
   - 同根词
-    - adv.
-      - `allegedly`
-        - 依其申述
-    - n.
-      - `allegation`
-        - 主张，断言；辩解
-    - vt.
-      - `allege`
-        - 宣称，断言；提出…作为理由
+    - adv. allegedly 依其申述
+    - n. allegation 主张，断言；辩解
+    - vt. allege 宣称，断言；提出…作为理由
   - 近义词
-    - adj.
-      - 所谓的；声称的；被断言的
-        - `so-called`
-    - v.
-      - 宣称（allege的过去式和过去分词）；断言
-        - `claimed`
+    - adj. 所谓的；声称的；被断言的
+      - so-called
+    - v. 宣称（allege的过去式和过去分词）；断言
+      - claimed
   - 例句
-    - `They have begun a hunger strike in protest at the alleged beating.`
-      - 他们已经开始了绝食以抗议所指称的打人事件。
-
+    - They have begun a hunger strike in protest at the alleged beating. 他们已经开始了绝食以抗议所指称的打人事件。
+  - 补充

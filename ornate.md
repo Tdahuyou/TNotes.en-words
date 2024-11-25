@@ -1,28 +1,21 @@
 - ornate
   - 发音
-    - 英
-      - `/ɔːr'neɪt/`
-    - 美
-      - `/ɔr'net/`
+    - 英 /ɔːr'neɪt/
+    - 美 /ɔr'net/
   - 词义
-    - adj.
-      - 华丽的，豪华的
-        - `covered with a lot of decoration`
+    - adj. 华丽的，豪华的
+      - covered with a lot of decoration
   - 记忆
     - orn(装饰) + ate → 用于装饰的 → 华丽的， 豪华的
   - 同根词
-    - adv.
-      - `ornately`
-        - 装饰过分地；词藻华丽地
+    - adv. ornately 装饰过分地；词藻华丽地
   - 近义词
-    - adj.
-      - 华丽的；装饰的；（文体）绚丽的
-        - `magnificent`
-        - `brave`
-        - `gorgeous`
-        - `shining`
-        - `superb`
+    - adj. 华丽的；装饰的；（文体）绚丽的
+      - magnificent
+      - brave
+      - gorgeous
+      - shining
+      - superb
   - 例句
-    - `an ornate gold mirror`
-      - 华丽的金镜子
-
+    - an ornate gold mirror 华丽的金镜子
+  - 补充

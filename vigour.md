@@ -1,27 +1,19 @@
 - vigour
   - 发音
-    - 英
-      - `/'vɪgə/`
-    - 美
-      - `/'viɡə/`
+    - 英 /'vɪgə/
+    - 美 /'viɡə/
   - 词义
-    - n.
-      - 活力；气势
-        - `physical or mental energy and determination`
+    - n. 活力；气势
+      - physical or mental energy and determination
   - 同根词
-    - n.
-      - `vigor`
-        - [生物] 活力，精力
+    - n. vigor [生物] 活力，精力
   - 近义词
-    - n.
-      - 活力；气势
-        - `vitality`
-        - `energy`
-        - `spring`
+    - n. 活力；气势
+      - vitality
+      - energy
+      - spring
   - 短语
-    - `hybrid vigour`
-      - 杂种优势 
+    - hybrid vigour 杂种优势
   - 例句
-    - `He has approached his job with renewed vigour.`
-      - 他已带着重新焕发的活力投入了工作。
-
+    - He has approached his job with renewed vigour. 他已带着重新焕发的活力投入了工作。
+  - 补充

@@ -1,38 +1,24 @@
 - converge
   - 发音
-    - 英
-      - `/kən'vɜːrdʒ/`
-    - 美
-      - `/kən'vɝdʒ/`
+    - 英 /kən'vɜːrdʒ/
+    - 美 /kən'vɝdʒ/
   - 词义
-    - vi.
-      - 汇聚，聚集，聚合；相交，会合；趋于一致
-        - `to come from different directions and meet at the same point to become one thing`
+    - vi. 汇聚，聚集，聚合；相交，会合；趋于一致
+      - to come from different directions and meet at the same point to become one thing
   - 记忆
     - con(共同) + verg(转) + e → 转到一起 → 汇聚， 聚集， 聚合
   - 同根词
-    - adj.
-      - `convergent`
-        - [数] 收敛的；会聚性的；趋集于一点的
-      - `converging`
-        - 会聚的，收敛
-    - n.
-      - `convergence`
-        - [数] 收敛；会聚，集合
-      - `converging`
-        - 合并，会聚
-    - v.
-      - `converging`
-        - 聚合，集中于一点（converge的ing形式）
+    - adj. convergent [数] 收敛的；会聚性的；趋集于一点的
+    - adj. converging 会聚的，收敛
+    - n. convergence [数] 收敛；会聚，集合
+    - n. converging 合并，会聚
+    - v. converging 聚合，集中于一点（converge的ing形式）
   - 近义词
-    - vi.
-      - 聚合；集中于一点
-        - `group`
-        - `gather together`
-    - vt.
-      - 会聚；使聚集；使向一点会合
-        - `cluster`
+    - vi. 聚合；集中于一点
+      - group
+      - gather together
+    - vt. 会聚；使聚集；使向一点会合
+      - cluster
   - 例句
-    - `The two rivers converge into one near Pittsburgh.`
-      - 这两条河在匹兹堡附近汇合。
-
+    - The two rivers converge into one near Pittsburgh. 这两条河在匹兹堡附近汇合。
+  - 补充

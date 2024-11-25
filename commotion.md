@@ -1,24 +1,18 @@
 - commotion
   - 发音
-    - 英
-      - `/kə'məuʃən/`
-    - 美
-      - `/kə'moʃən/`
+    - 英 /kə'məuʃən/
+    - 美 /kə'moʃən/
   - 词义
-    - n.
-      - 骚动；暴乱
-        - `A commotion is a lot of noise, confusion, and excitement`
+    - n. 骚动；暴乱
+      - A commotion is a lot of noise, confusion, and excitement
   - 记忆
     - com (共同) + mot (动) + ion → 一起暴动 → 骚动； 暴乱
   - 近义词
-    - n.
-      - 骚动；暴乱
-        - `combustion`
-        - `turmoil`
+    - n. 骚动；暴乱
+      - combustion
+      - turmoil
   - 短语
-    - `civil commotion`
-      - 民众骚乱 
+    - civil commotion 民众骚乱
   - 例句
-    - `He heard a commotion outside.`
-      - 他听到外面一阵骚动。
-
+    - He heard a commotion outside. 他听到外面一阵骚动。
+  - 补充

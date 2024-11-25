@@ -1,30 +1,20 @@
 - servant
   - 发音
-    - 英
-      - `/'sɜːv(ə)nt/`
-    - 美
-      - `/'sɝvənt/`
+    - 英 /'sɜːv(ə)nt/
+    - 美 /'sɝvənt/
   - 词义
-    - n.
-      - 仆人
-        - `someone, especially in the past, who was paid to clean someone’s house, cook for them, answer the door etc, and who often lived in the house`
+    - n. 仆人
+      - someone, especially in the past, who was paid to clean someone’s house, cook for them, answer the door etc, and who often lived in the house
   - 近义词
-    - n.
-      - 仆人，佣人；公务员；雇工
-        - `man`
-        - `flunky`
+    - n. 仆人，佣人；公务员；雇工
+      - man
+      - flunky
   - 短语
-    - `civil servant`
-      - 公务员；文职人员 
-    - `public servant`
-      - 公务员；公仆；公用事业公司或其员工 
-    - `servant girl`
-      - n. 女仆 
-    - `national public servant`
-      - n. 国家公务员 
-    - `fellow servant`
-      - n. 同主雇员 
+    - civil servant 公务员；文职人员
+    - public servant 公务员；公仆；公用事业公司或其员工
+    - servant girl n. 女仆
+    - national public servant n. 国家公务员
+    - fellow servant n. 同主雇员
   - 例句
-    - `Many young girls became domestic servants .`
-      - 许多年轻姑娘成了家仆。
-
+    - Many young girls became domestic servants . 许多年轻姑娘成了家仆。
+  - 补充

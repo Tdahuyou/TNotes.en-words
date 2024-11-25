@@ -1,28 +1,20 @@
 - shove
   - 发音
-    - 英
-      - `/ʃʌv/`
-    - 美
-      - `/ʃʌv/`
+    - 英 /ʃʌv/
+    - 美 /ʃʌv/
   - 词义
-    - v.
-      - 挤；强使；撞；猛推
-        - `to push someone or something in a rough or careless way, using your hands or shoulders`
-    - n.
-      - 推；挤
-        - `a strong push`
+    - v. 挤；强使；撞；猛推
+      - to push someone or something in a rough or careless way, using your hands or shoulders
+    - n. 推；挤
+      - a strong push
   - 近义词
-    - vt.
-      - 挤；强使；撞；猛推
-        - `squeeze`
-        - `force one's way`
-    - n.
-      - 推；挤
-        - `push`
-        - `jundy`
+    - vt. 挤；强使；撞；猛推
+      - squeeze
+      - force one's way
+    - n. 推；挤
+      - push
+      - jundy
   - 例句
-    - `He shoved her towards the car.`
-      - 他推着她走向汽车。
-    - `Everyone was pushing and shoving to see the prince.`
-      - 大家都推着挤着要看王子。
-
+    - He shoved her towards the car. 他推着她走向汽车。
+    - Everyone was pushing and shoving to see the prince. 大家都推着挤着要看王子。
+  - 补充

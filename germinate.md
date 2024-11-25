@@ -1,29 +1,21 @@
 - germinate
   - 发音
-    - 英
-      - `/'dʒɜːrmɪneɪt/`
-    - 美
-      - `/'dʒɝmɪnet/`
+    - 英 /'dʒɜːrmɪneɪt/
+    - 美 /'dʒɝmɪnet/
   - 词义
-    - v.
-      - 发芽，萌芽；发展
-        - `if a seed germinates, or if it is germinated, it begins to grow`
+    - v. 发芽，萌芽；发展
+      - if a seed germinates, or if it is germinated, it begins to grow
   - 记忆
     - germ(芽) + in + ate → (使)发芽
   - 同根词
-    - n.
-      - `germination`
-        - 发芽；发生；伟晶作用
+    - n. germination 发芽；发生；伟晶作用
   - 近义词
-    - vt.
-      - 使发芽；使生长
-        - `grow`
-        - `bud`
-    - vi.
-      - 发芽；生长
-        - `develop`
-        - `put`
+    - vt. 使发芽；使生长
+      - grow
+      - bud
+    - vi. 发芽；生长
+      - develop
+      - put
   - 例句
-    - `The idea of setting up his own company began to germinate in his mind.`
-      - 他萌生了自己开公司的想法。
-
+    - The idea of setting up his own company began to germinate in his mind. 他萌生了自己开公司的想法。
+  - 补充

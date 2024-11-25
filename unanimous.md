@@ -1,33 +1,22 @@
 - unanimous
   - 发音
-    - 英
-      - `/ju'nænɪməs/`
-    - 美
-      - `/jʊ'nænəməs/`
+    - 英 /ju'nænɪməs/
+    - 美 /jʊ'nænəməs/
   - 词义
-    - adj.
-      - 全体一致的，一致同意的
-        - `agreeing completely about something`
+    - adj. 全体一致的，一致同意的
+      - agreeing completely about something
   - 记忆
     - un(一个) + anim(精神) + ous → 大家都秉持同一种精神的 → 全体一致的， 一致同意的
   - 同根词
-    - adv.
-      - `unanimously`
-        - 全体一致地
-    - n.
-      - `unanimity`
-        - 同意，全体一致
+    - adv. unanimously 全体一致地
+    - n. unanimity 同意，全体一致
   - 近义词
-    - adj.
-      - 全体一致的；意见一致的；无异议的
-        - `unobjectionable`
-        - `undisputed`
+    - adj. 全体一致的；意见一致的；无异议的
+      - unobjectionable
+      - undisputed
   - 短语
-    - `unanimous approval`
-      - 一致通过 
-    - `unanimous vote`
-      - 全票通过或拥护 
+    - unanimous approval 一致通过
+    - unanimous vote 全票通过或拥护
   - 例句
-    - `It was decided by a unanimous vote that the school should close.`
-      - 关闭学校是大家一致通过的决定。
-
+    - It was decided by a unanimous vote that the school should close. 关闭学校是大家一致通过的决定。
+  - 补充

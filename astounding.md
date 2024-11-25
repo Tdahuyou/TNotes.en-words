@@ -1,25 +1,18 @@
 - astounding
   - 发音
-    - 英
-      - `/ə'staundiŋ/`
-    - 美
-      - `/ə'staʊndɪŋ/`
+    - 英 /ə'staundiŋ/
+    - 美 /ə'staʊndɪŋ/
   - 词义
-    - adj.
-      - 令人惊讶的
-        - `so surprising that it is almost impossible to believe`
+    - adj. 令人惊讶的
+      - so surprising that it is almost impossible to believe
   - 记忆
     - 来自astound (vt. 使惊骇)
   - 同根词
-    - vt.
-      - `astound`
-        - 使惊骇；使震惊
+    - vt. astound 使惊骇；使震惊
   - 近义词
-    - adj.
-      - 令人震惊的；令人惊骇的
-        - `electric`
-        - `shocking`
+    - adj. 令人震惊的；令人惊骇的
+      - electric
+      - shocking
   - 例句
-    - `The concert was an astounding success.`
-      - 音乐会出奇地成功。
-
+    - The concert was an astounding success. 音乐会出奇地成功。
+  - 补充

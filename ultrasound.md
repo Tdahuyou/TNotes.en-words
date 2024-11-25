@@ -1,32 +1,20 @@
 - ultrasound
   - 发音
-    - 英
-      - `/'ʌltrəsaʊnd/`
-    - 美
-      - `/'ʌltrəsaʊnd/`
+    - 英 /'ʌltrəsaʊnd/
+    - 美 /'ʌltrəsaʊnd/
   - 词义
-    - n.
-      - 超声；超音波
-        - `sound that is too high for humans to hear`
+    - n. 超声；超音波
+      - sound that is too high for humans to hear
   - 同根词
-    - adj.
-      - `ultrasonic`
-        - [声] 超声的；超音速的
-    - n.
-      - `ultrasonic`
-        - 超声波
-      - `ultrasonography`
-        - 超声波检查法；超声波扫描术
+    - adj. ultrasonic [声] 超声的；超音速的
+    - n. ultrasonic 超声波
+    - n. ultrasonography 超声波检查法；超声波扫描术
   - 近义词
-    - n.
-      - [声]超声；超音波
-        - `ultra audible sound`
+    - n. [声]超声；超音波
+      - ultra audible sound
   - 短语
-    - `ultrasound wave`
-      - 超声波 
-    - `interventional ultrasound`
-      - [医]介入性超声 
+    - ultrasound wave 超声波
+    - interventional ultrasound [医]介入性超声
   - 例句
-    - `investigation of the liver by ultrasound`
-      - 对肝脏作的超声波检查
-
+    - investigation of the liver by ultrasound 对肝脏作的超声波检查
+  - 补充

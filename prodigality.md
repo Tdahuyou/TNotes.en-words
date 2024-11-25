@@ -1,27 +1,18 @@
 - prodigality
   - 发音
-    - 英
-      - `/,prɒdɪ'ɡælətɪ/`
-    - 美
-      - `/undefined/`
+    - 英 /,prɒdɪ'ɡælətɪ/
+    - 美 /undefined/
   - 词义
-    - n.
-      - 浪费；慷慨；丰富
+    - n. 浪费；慷慨；丰富
   - 同根词
-    - adj.
-      - `prodigal`
-        - 挥霍的；十分慷慨的
-    - adv.
-      - `prodigally`
-        - 浪费地；丰饶地
-    - n.
-      - `prodigal`
-        - 浪子；挥霍者
+    - adj. prodigal 挥霍的；十分慷慨的
+    - adv. prodigally 浪费地；丰饶地
+    - n. prodigal 浪子；挥霍者
   - 近义词
-    - n.
-      - 浪费；慷慨；丰富
-        - `abundance`
-        - `waste`
-        - `plenty`
-        - `pregnancy`
-        - `amplitude`
+    - n. 浪费；慷慨；丰富
+      - abundance
+      - waste
+      - plenty
+      - pregnancy
+      - amplitude
+  - 补充

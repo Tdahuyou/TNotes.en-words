@@ -1,31 +1,21 @@
 - inconsistency
   - 发音
-    - 英
-      - `/ɪnkən'sɪst(ə)nsɪ/`
-    - 美
-      - `/,ɪnkən'sɪstənsi/`
+    - 英 /ɪnkən'sɪst(ə)nsɪ/
+    - 美 /,ɪnkən'sɪstənsi/
   - 词义
-    - n.
-      - 矛盾
-        - `a situation in which two statements are different and cannot both be true`
+    - n. 矛盾
+      - a situation in which two statements are different and cannot both be true
   - 同根词
-    - adj.
-      - `inconsistent`
-        - 不一致的；前后矛盾的
-    - adv.
-      - `inconsistently`
-        - 不一致地
+    - adj. inconsistent 不一致的；前后矛盾的
+    - adv. inconsistently 不一致地
   - 近义词
-    - n.
-      - 不一致；易变
-        - `variance`
-        - `disagreement`
-        - `disparity`
-        - `volatility`
+    - n. 不一致；易变
+      - variance
+      - disagreement
+      - disparity
+      - volatility
   - 短语
-    - `time inconsistency`
-      - 时间不一致性，时间矛盾 
+    - time inconsistency 时间不一致性，时间矛盾
   - 例句
-    - `There were several glaring inconsistencies (= very noticeable differences ) in his report.`
-      - 他的报告中有几个明显的前后矛盾之处。
-
+    - There were several glaring inconsistencies (= very noticeable differences ) in his report. 他的报告中有几个明显的前后矛盾之处。
+  - 补充

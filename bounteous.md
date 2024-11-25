@@ -1,42 +1,26 @@
 - bounteous
   - 发音
-    - 英
-      - `/'bauntiəs/`
-    - 美
-      - `/'baʊntɪəs/`
+    - 英 /'bauntiəs/
+    - 美 /'baʊntɪəs/
   - 词义
-    - adj.
-      - 慷慨的；丰富的
-        - `very generous`
+    - adj. 慷慨的；丰富的
+      - very generous
   - 记忆
     - bount(=bon好) + eous → 好的 → 慷慨的
   - 同根词
-    - adj.
-      - `bountiful`
-        - 丰富的；慷慨的；宽大的
-    - adv.
-      - `bounteously`
-        - 丰富地；慷慨地
-      - `bountifully`
-        - 慷慨地；丰富地
-    - n.
-      - `bounty`
-        - 慷慨；丰富；奖励金；赠款
-    - vi.
-      - `bounty`
-        - 以赏金等形式发放
-    - vt.
-      - `bounty`
-        - 发给…奖金等；为…而发给赏金
+    - adj. bountiful 丰富的；慷慨的；宽大的
+    - adv. bounteously 丰富地；慷慨地
+    - adv. bountifully 慷慨地；丰富地
+    - n. bounty 慷慨；丰富；奖励金；赠款
+    - vi. bounty 以赏金等形式发放
+    - vt. bounty 发给…奖金等；为…而发给赏金
   - 近义词
-    - adj.
-      - 慷慨的；丰富的；充裕的
-        - `abundant`
-        - `generous`
-        - `full`
-        - `handsome`
-        - `liberal`
+    - adj. 慷慨的；丰富的；充裕的
+      - abundant
+      - generous
+      - full
+      - handsome
+      - liberal
   - 例句
-    - `He has a bounteous imagination.`
-      - 他有丰富的想象力。
-
+    - He has a bounteous imagination. 他有丰富的想象力。
+  - 补充

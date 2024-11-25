@@ -1,24 +1,19 @@
 - tiff
   - 发音
-    - 英
-      - `/tɪf/`
-    - 美
-      - `/tɪf/`
+    - 英 /tɪf/
+    - 美 /tɪf/
   - 词义
-    - n.
-      - 口角，小争吵
-        - `a slight argument between friends or people who are in love`
+    - n. 口角，小争吵
+      - a slight argument between friends or people who are in love
   - 近义词
-    - n.
-      - 淡酒；一口；口角；生气
-        - `vitality`
-        - `animation`
-        - `pet`
-    - vi.
-      - 生气；小争吵
-        - `pet`
-        - `take offense`
-    - vt.
-      - 啜；饮
-        - `drink`
-        - `inhaust`
+    - n. 淡酒；一口；口角；生气
+      - vitality
+      - animation
+      - pet
+    - vi. 生气；小争吵
+      - pet
+      - take offense
+    - vt. 啜；饮
+      - drink
+      - inhaust
+  - 补充

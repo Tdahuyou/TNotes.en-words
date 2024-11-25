@@ -1,33 +1,23 @@
 - retaliate
   - 发音
-    - 英
-      - `/ri'tæliˌeit/`
-    - 美
-      - `/rɪ'tælɪ'et/`
+    - 英 /ri'tæliˌeit/
+    - 美 /rɪ'tælɪ'et/
   - 词义
-    - v.
-      - 报复
-        - `to do something bad to someone because they have done something bad to you`
+    - v. 报复
+      - to do something bad to someone because they have done something bad to you
   - 记忆
     - re (回) + tali (邪恶) + ate → 以恶制恶， 以牙还牙 → 报复
   - 同根词
-    - adj.
-      - `retaliatory`
-        - 报复的
-    - n.
-      - `retaliation`
-        - 报复；反击；回敬
+    - adj. retaliatory 报复的
+    - n. retaliation 报复；反击；回敬
   - 近义词
-    - vi.
-      - 报复；回敬
-        - `get back on`
-        - `get even with`
-    - vt.
-      - 报复
-        - `get back on`
-        - `get even with`
-        - `get back at`
+    - vi. 报复；回敬
+      - get back on
+      - get even with
+    - vt. 报复
+      - get back on
+      - get even with
+      - get back at
   - 例句
-    - `I was sorely tempted to retaliate.`
-      - 我非常想报复。
-
+    - I was sorely tempted to retaliate. 我非常想报复。
+  - 补充

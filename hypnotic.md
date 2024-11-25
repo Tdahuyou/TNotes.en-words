@@ -1,59 +1,33 @@
 - hypnotic
   - 发音
-    - 英
-      - `/hip'nɔtik/`
-    - 美
-      - `/hɪp'nɑtɪk/`
+    - 英 /hip'nɔtik/
+    - 美 /hɪp'nɑtɪk/
   - 词义
-    - adj.
-      - 催眠的，易被催眠的
-        - `making you feel tired or unable to pay attention to anything else, especially because of a regularly repeated sound or movement`
+    - adj. 催眠的，易被催眠的
+      - making you feel tired or unable to pay attention to anything else, especially because of a regularly repeated sound or movement
   - 同根词
-    - adj.
-      - `hypnagogic`
-        - 使瞌睡的，催眠的；入睡前发生的
-    - adv.
-      - `hypnotically`
-        - 催眠地；用催眠术
-    - n.
-      - `hypnosis`
-        - 催眠；催眠状态
-      - `hypnotism`
-        - 催眠术；催眠状态
-      - `hypnotist`
-        - 施催眠术的人
-      - `hypnagogue`
-        - 安眠药；催眠剂
-      - `hypnoanalysis`
-        - [心理] 催眠分析；催眠精神分析
-      - `hypnogenesis`
-        - 催眠
-      - `hypnotherapy`
-        - [心理][临床] 催眠疗法
-      - `hypnotizer`
-        - 催眠术者
-    - vi.
-      - `hypnotize`
-        - 施催眠术；使进入睡觉状态
-      - `hypnotise`
-        - （英）对…施行催眠（等于hypnotize）
-    - vt.
-      - `hypnotize`
-        - 使着迷；对…施催眠术；使恍惚
-      - `hypnotise`
-        - （英）使进入催眠状态（等于hypnotize）
+    - adj. hypnagogic 使瞌睡的，催眠的；入睡前发生的
+    - adv. hypnotically 催眠地；用催眠术
+    - n. hypnosis 催眠；催眠状态
+    - n. hypnotism 催眠术；催眠状态
+    - n. hypnotist 施催眠术的人
+    - n. hypnagogue 安眠药；催眠剂
+    - n. hypnoanalysis [心理] 催眠分析；催眠精神分析
+    - n. hypnogenesis 催眠
+    - n. hypnotherapy [心理][临床] 催眠疗法
+    - n. hypnotizer 催眠术者
+    - vi. hypnotize 施催眠术；使进入睡觉状态
+    - vi. hypnotise （英）对…施行催眠（等于hypnotize）
+    - vt. hypnotize 使着迷；对…施催眠术；使恍惚
+    - vt. hypnotise （英）使进入催眠状态（等于hypnotize）
   - 近义词
-    - adj.
-      - [药]催眠的，催眠术的；易于催眠的
-        - `somnolent`
-        - `soporiferous`
-    - n.
-      - [药]安眠药；催眠状态的人
-        - `sleeping pill`
-        - `lude`
+    - adj. [药]催眠的，催眠术的；易于催眠的
+      - somnolent
+      - soporiferous
+    - n. [药]安眠药；催眠状态的人
+      - sleeping pill
+      - lude
   - 例句
-    - `His voice had a smooth hypnotic effect .`
-      - 他的声音有一种温柔的催眠效果。
-    - `the hypnotic beat of the drum`
-      - 让人昏昏欲睡的击鼓节奏
-
+    - His voice had a smooth hypnotic effect . 他的声音有一种温柔的催眠效果。
+    - the hypnotic beat of the drum 让人昏昏欲睡的击鼓节奏
+  - 补充

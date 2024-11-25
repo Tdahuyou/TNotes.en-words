@@ -1,29 +1,21 @@
 - canine
   - 发音
-    - 英
-      - `/'keinain/`
-    - 美
-      - `/'kenaɪn/`
+    - 英 /'keinain/
+    - 美 /'kenaɪn/
   - 词义
-    - adj.
-      - 犬的；似犬的；犬齿的；犬科的
-        - `relating to dogs`
-    - n.
-      - 犬齿
-        - `one of the four sharp pointed teeth in the front of your mouth`
+    - adj. 犬的；似犬的；犬齿的；犬科的
+      - relating to dogs
+    - n. 犬齿
+      - one of the four sharp pointed teeth in the front of your mouth
   - 记忆
     - can (犬) + ine → 犬的
   - 近义词
-    - n.
-      - 犬；[解剖]犬齿
-        - `dogtooth`
-        - `cuspid`
+    - n. 犬；[解剖]犬齿
+      - dogtooth
+      - cuspid
   - 短语
-    - `canine distemper`
-      - 犬瘟热；犬温病 
+    - canine distemper 犬瘟热；犬温病
   - 例句
-    - `canine diseases`
-      - 犬类疾病
-    - `her loyal canine friend`
-      - 她那忠实的狗朋友
-
+    - canine diseases 犬类疾病
+    - her loyal canine friend 她那忠实的狗朋友
+  - 补充

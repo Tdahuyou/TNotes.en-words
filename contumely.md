@@ -1,20 +1,15 @@
 - contumely
   - 发音
-    - 英
-      - `/'kɑːntumili/`
-    - 美
-      - `/'kɔntjumili/`
+    - 英 /'kɑːntumili/
+    - 美 /'kɔntjumili/
   - 词义
-    - n.
-      - 无礼，傲慢'
+    - n. 无礼，傲慢'
   - 记忆
     - con ＋ tume(骄傲) ＋ ly → 傲慢
   - 同根词
-    - adj.
-      - `contumelious`
-        - 傲慢的；侮辱性的
+    - adj. contumelious 傲慢的；侮辱性的
   - 近义词
-    - n.
-      - 侮辱；无礼；傲慢
-        - `importance`
-        - `despite`
+    - n. 侮辱；无礼；傲慢
+      - importance
+      - despite
+  - 补充

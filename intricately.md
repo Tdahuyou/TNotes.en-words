@@ -1,22 +1,15 @@
 - intricately
   - 发音
-    - 英
-      - `/'ɪntrɪkətlɪ/`
-    - 美
-      - `/ˈɪntrəkɪtlɪ/`
+    - 英 /'ɪntrɪkətlɪ/
+    - 美 /ˈɪntrəkɪtlɪ/
   - 词义
-    - adv.
-      - 杂乱地,复杂地
+    - adv. 杂乱地,复杂地
   - 同根词
-    - adj.
-      - `intricate`
-        - 复杂的；错综的，缠结的
+    - adj. intricate 复杂的；错综的，缠结的
   - 近义词
-    - adv.
-      - 杂乱地
-        - `mussily`
-        - `promiscuously`
+    - adv. 杂乱地
+      - mussily
+      - promiscuously
   - 例句
-    - `In areas where river deltas inject organic material and dissolved trace elements into the sea, for instance, it’s not clear how all of the intricately related processes will affect water chemistry.`
-      - 例如，在有些地区，河流三角洲将有机物质和溶解的微量元素注入海洋，目前还不清楚所有这些错综复杂的相关进程将如何影响水的化学性能。
-
+    - In areas where river deltas inject organic material and dissolved trace elements into the sea, for instance, it’s not clear how all of the intricately related processes will affect water chemistry. 例如，在有些地区，河流三角洲将有机物质和溶解的微量元素注入海洋，目前还不清楚所有这些错综复杂的相关进程将如何影响水的化学性能。
+  - 补充

@@ -1,24 +1,16 @@
 - alga
   - 发音
-    - 英
-      - `/'ælgə/`
-    - 美
-      - `/'ælgɚ/`
+    - 英 /'ælgə/
+    - 美 /'ælgɚ/
   - 词义
-    - n.
-      - 水藻
+    - n. 水藻
   - 同根词
-    - adj.
-      - `algal`
-        - 海藻的
+    - adj. algal 海藻的
   - 近义词
-    - n.
-      - 藻类；海藻
-        - `seaweed`
-        - `varech`
+    - n. 藻类；海藻
+      - seaweed
+      - varech
   - 例句
-    - `The shampoo composition features that it contains both blue - green alga extract and scurf eliminating agent.`
-      - 本发明香波组合物的特征在于同时包含蓝藻提取物和去屑剂。
-    - `The town is the centre of a black-market trade in facai, a species of alga whose name is spelt and pronounced similarly to 'get rich'.`
-      - 这座城镇是一个发菜黑市交易的中心。 发菜是一种藻类，在汉语里它的写法和发音类似于“发财”。
-
+    - The shampoo composition features that it contains both blue - green alga extract and scurf eliminating agent. 本发明香波组合物的特征在于同时包含蓝藻提取物和去屑剂。
+    - The town is the centre of a black-market trade in facai, a species of alga whose name is spelt and pronounced similarly to 'get rich'. 这座城镇是一个发菜黑市交易的中心。 发菜是一种藻类，在汉语里它的写法和发音类似于“发财”。
+  - 补充

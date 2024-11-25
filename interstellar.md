@@ -1,29 +1,20 @@
 - interstellar
   - 发音
-    - 英
-      - `/ˌɪntər'stelər/`
-    - 美
-      - `/,ɪntɚ'stɛlɚ/`
+    - 英 /ˌɪntər'stelər/
+    - 美 /,ɪntɚ'stɛlɚ/
   - 词义
-    - adj.
-      - 星际的
-        - `happening or existing between the stars`
+    - adj. 星际的
+      - happening or existing between the stars
   - 记忆
     - inter(在…之间) + stell(星星) + ar(形容词后缀) → 星际的
   - 近义词
-    - adj.
-      - [航][天]星际的
-        - `astral`
+    - adj. [航][天]星际的
+      - astral
   - 短语
-    - `interstellar dust`
-      - [天]星际尘埃 
-    - `interstellar gas`
-      - 星际气体 
-    - `interstellar space`
-      - 星际空间；宇宙空间 
-    - `interstellar medium`
-      - 星际介质；星际物质 
+    - interstellar dust [天]星际尘埃
+    - interstellar gas 星际气体
+    - interstellar space 星际空间；宇宙空间
+    - interstellar medium 星际介质；星际物质
   - 例句
-    - `...interstellar space.`
-      - ...星际空间。
-
+    - ...interstellar space. ...星际空间。
+  - 补充

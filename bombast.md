@@ -1,28 +1,19 @@
 - bombast
   - 发音
-    - 英
-      - `/'bɔmbæst/`
-    - 美
-      - `/'bɑmbæst/`
+    - 英 /'bɔmbæst/
+    - 美 /'bɑmbæst/
   - 词义
-    - n.
-      - 夸大的言辞
-        - `Bombast is trying to impress people by saying things that sound impressive but have little meaning`
+    - n. 夸大的言辞
+      - Bombast is trying to impress people by saying things that sound impressive but have little meaning
   - 记忆
     - bomb (爆炸) + ast (看作ask， 要求) → 爆炸式的要求 → 夸大的言辞
   - 同根词
-    - adj.
-      - `bombastic`
-        - 夸大的；言过其实的
-    - adv.
-      - `bombastically`
-        - 夸大地；浮华地；言过其实地；矫揉造作地
+    - adj. bombastic 夸大的；言过其实的
+    - adv. bombastically 夸大地；浮华地；言过其实地；矫揉造作地
   - 近义词
-    - adj.
-      - 夸大的
-        - `tall`
-        - `exaggeratory`
+    - adj. 夸大的
+      - tall
+      - exaggeratory
   - 例句
-    - `There was no bombast or conceit in his speech.`
-      - 他的发言里没有浮夸或自负。
-
+    - There was no bombast or conceit in his speech. 他的发言里没有浮夸或自负。
+  - 补充

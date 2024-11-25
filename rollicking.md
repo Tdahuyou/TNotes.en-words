@@ -1,32 +1,22 @@
 - rollicking
   - 发音
-    - 英
-      - `/'rɑːlɪkɪŋ/`
-    - 美
-      - `/'rɑlɪkɪŋ/`
+    - 英 /'rɑːlɪkɪŋ/
+    - 美 /'rɑlɪkɪŋ/
   - 词义
-    - adj.
-      - 欢乐的，喧闹的
-        - `noisy and cheerful`
+    - adj. 欢乐的，喧闹的
+      - noisy and cheerful
   - 记忆
     - rol(卷) + lick(舔) + ing → 把好吃的东西卷起来舔， 气氛很欢乐 → 欢乐的
   - 同根词
-    - n.
-      - `rollick`
-        - 欢闹
-    - vi.
-      - `rollick`
-        - 欢闹
+    - n. rollick 欢闹
+    - vi. rollick 欢闹
   - 近义词
-    - adj.
-      - 欢乐的；喧闹的
-        - `convivial`
-        - `noisy`
-    - n.
-      - 申斥；责骂
-        - `talking-to`
-        - `opprobrium`
+    - adj. 欢乐的；喧闹的
+      - convivial
+      - noisy
+    - n. 申斥；责骂
+      - talking-to
+      - opprobrium
   - 例句
-    - `a rollicking song`
-      - 欢乐喧闹的歌
-
+    - a rollicking song 欢乐喧闹的歌
+  - 补充

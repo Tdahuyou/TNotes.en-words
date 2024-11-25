@@ -1,24 +1,17 @@
 - gin
   - 发音
-    - 英
-      - `/dʒɪn/`
-    - 美
-      - `/dʒɪn/`
+    - 英 /dʒɪn/
+    - 美 /dʒɪn/
   - 词义
-    - n.
-      - 杜松子酒；弹棉机，
-        - `a strong alcoholic drink made mainly from grain, or a glass of this drink`
+    - n. 杜松子酒；弹棉机，
+      - a strong alcoholic drink made mainly from grain, or a glass of this drink
   - 近义词
-    - n.
-      - [食品]杜松子酒；[农机]轧棉机；陷阱
-        - `trap`
-        - `pit`
+    - n. [食品]杜松子酒；[农机]轧棉机；陷阱
+      - trap
+      - pit
   - 短语
-    - `gin and tonic`
-      - 琴酒补剂；杜松子酒补剂 
-    - `cotton gin`
-      - 轧花机；轧棉机 
+    - gin and tonic 琴酒补剂；杜松子酒补剂
+    - cotton gin 轧花机；轧棉机
   - 例句
-    - `...another gin and tonic.`
-      - …又一杯加奎宁水的杜松子酒。
-
+    - ...another gin and tonic. …又一杯加奎宁水的杜松子酒。
+  - 补充

@@ -1,35 +1,25 @@
 - overcome
   - 发音
-    - 英
-      - `/ˌouvər'kʌm/`
-    - 美
-      - `/,ovɚ'kʌm/`
+    - 英 /ˌouvər'kʌm/
+    - 美 /,ovɚ'kʌm/
   - 词义
-    - vt.
-      - 战胜，克服
-        - `to successfully control a feeling or problem that prevents you from achieving something`
+    - vt. 战胜，克服
+      - to successfully control a feeling or problem that prevents you from achieving something
   - 记忆
     - 来自词组come over(战胜， 克服)
   - 同根词
-    - n.
-      - `overcomer`
-        - 得胜者
+    - n. overcomer 得胜者
   - 近义词
-    - vt.
-      - 克服；胜过
-        - `exceed`
-        - `cap`
-        - `surmount`
-    - vi.
-      - 克服；得胜
-        - `rise above`
-        - `get over sth`
+    - vt. 克服；胜过
+      - exceed
+      - cap
+      - surmount
+    - vi. 克服；得胜
+      - rise above
+      - get over sth
   - 短语
-    - `overcome difficulties`
-      - 克服困难；战胜困难 
+    - overcome difficulties 克服困难；战胜困难
   - 例句
-    - `He struggled to overcome his shyness.`
-      - 他努力克服自己的羞怯。
-    - `Her financial problems could no longer be overcome.`
-      - 她的经济困难再也无法解决。
-
+    - He struggled to overcome his shyness. 他努力克服自己的羞怯。
+    - Her financial problems could no longer be overcome. 她的经济困难再也无法解决。
+  - 补充

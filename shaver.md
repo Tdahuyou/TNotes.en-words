@@ -1,42 +1,24 @@
 - shaver
   - 发音
-    - 英
-      - `/'ʃeɪvə/`
-    - 美
-      - `/'ʃevɚ/`
+    - 英 /'ʃeɪvə/
+    - 美 /'ʃevɚ/
   - 词义
-    - n.
-      - 剃须刀，电动剃须刀
-        - `a small piece of electrical equipment used for shaving`
+    - n. 剃须刀，电动剃须刀
+      - a small piece of electrical equipment used for shaving
   - 同根词
-    - adj.
-      - `shaven`
-        - 刮过脸的，修过脸的；削发的
-    - n.
-      - `shave`
-        - 刮胡子；修面；幸免
-      - `shaving`
-        - 刮胡子，修面；削；刨花
-    - v.
-      - `shaving`
-        - 修面，剃（shave的现在分词）
-      - `shaven`
-        - 剃；刮（shave的过去分词）
-    - vi.
-      - `shave`
-        - 剃；刮脸；勉强通过
-    - vt.
-      - `shave`
-        - 剃；修面；掠过
+    - adj. shaven 刮过脸的，修过脸的；削发的
+    - n. shave 刮胡子；修面；幸免
+    - n. shaving 刮胡子，修面；削；刨花
+    - v. shaving 修面，剃（shave的现在分词）
+    - v. shaven 剃；刮（shave的过去分词）
+    - vi. shave 剃；刮脸；勉强通过
+    - vt. shave 剃；修面；掠过
   - 近义词
-    - n.
-      - 理发师；电动剃刀
-        - `coiffeur`
-        - `electric razor`
+    - n. 理发师；电动剃刀
+      - coiffeur
+      - electric razor
   - 短语
-    - `electric shaver`
-      - 电动刮胡刀；电动剃须刀 
+    - electric shaver 电动刮胡刀；电动剃须刀
   - 例句
-    - `He uses an electric shaver.`
-      - 他使用电动剃须刀。
-
+    - He uses an electric shaver. 他使用电动剃须刀。
+  - 补充

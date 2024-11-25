@@ -1,36 +1,22 @@
 - blockage
   - 发音
-    - 英
-      - `/'blɒkɪdʒ/`
-    - 美
-      - `/'blɑkɪdʒ/`
+    - 英 /'blɒkɪdʒ/
+    - 美 /'blɑkɪdʒ/
   - 词义
-    - n.
-      - 封锁,妨碍
+    - n. 封锁,妨碍
   - 同根词
-    - adj.
-      - `block`
-        - 成批的，大块的；交通堵塞的
-      - `blocked`
-        - 堵塞的；被封锁的
-    - n.
-      - `block`
-        - 块；街区；大厦；障碍物
-      - `blocking`
-        - 阻塞；封闭；大块
-    - v.
-      - `blocked`
-        - 阻塞（block的过去分词）
-      - `blocking`
-        - 阻塞（block的ing形式）
-    - vt.
-      - `block`
-        - 阻止；阻塞；限制
+    - adj. block 成批的，大块的；交通堵塞的
+    - adj. blocked 堵塞的；被封锁的
+    - n. block 块；街区；大厦；障碍物
+    - n. blocking 阻塞；封闭；大块
+    - v. blocked 阻塞（block的过去分词）
+    - v. blocking 阻塞（block的ing形式）
+    - vt. block 阻止；阻塞；限制
   - 近义词
-    - n.
-      - 堵塞，堵塞；封锁；妨碍
-        - `investment`
-        - `intervention`
-        - `prevention`
-        - `violation`
-        - `plugging`
+    - n. 堵塞，堵塞；封锁；妨碍
+      - investment
+      - intervention
+      - prevention
+      - violation
+      - plugging
+  - 补充

@@ -1,29 +1,20 @@
 - verity
   - 发音
-    - 英
-      - `/ˌverəti/`
-    - 美
-      - `/'vɛrəti/`
+    - 英 /ˌverəti/
+    - 美 /'vɛrəti/
   - 词义
-    - n.
-      - 真实；事实；真理
-        - `The verities of something are all the things that are believed to be true about it`
+    - n. 真实；事实；真理
+      - The verities of something are all the things that are believed to be true about it
   - 同根词
-    - adv.
-      - `verily`
-        - 真正地；真实地
-    - n.
-      - `verisimilitude`
-        - 逼真，貌似真实；逼真的事物
+    - adv. verily 真正地；真实地
+    - n. verisimilitude 逼真，貌似真实；逼真的事物
   - 近义词
-    - n.
-      - 真实；真理；事实；真实性
-        - `truth`
-        - `reality`
-        - `sincerity`
-        - `true`
-        - `actuality`
+    - n. 真实；真理；事实；真实性
+      - truth
+      - reality
+      - sincerity
+      - true
+      - actuality
   - 例句
-    - `...some verities of human nature.`
-      - ...关于人性的一些事实。
-
+    - ...some verities of human nature. ...关于人性的一些事实。
+  - 补充

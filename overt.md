@@ -1,30 +1,22 @@
 - overt
   - 发音
-    - 英
-      - `/ou'vɜːrt/`
-    - 美
-      - `/o'vɝt/`
+    - 英 /ou'vɜːrt/
+    - 美 /o'vɝt/
   - 词义
-    - adj.
-      - 公开的，非秘密的
-        - `overt actions are done publicly, without trying to hide anything`
+    - adj. 公开的，非秘密的
+      - overt actions are done publicly, without trying to hide anything
   - 记忆
     - covert(隐蔽的)去掉了帽子(c)就变成overt(公开的)
   - 同根词
-    - adv.
-      - `overtly`
-        - 明显地；公开地，公然地
+    - adv. overtly 明显地；公开地，公然地
   - 近义词
-    - adj.
-      - 明显的；公然的；蓄意的
-        - `obvious`
-        - `distinct`
-        - `visible`
-        - `declared`
-        - `evident`
+    - adj. 明显的；公然的；蓄意的
+      - obvious
+      - distinct
+      - visible
+      - declared
+      - evident
   - 例句
-    - `an overt attempt to silence their political opponents`
-      - 他们想压制政敌言论的明显企图
-    - `Overt race discrimination is illegal.`
-      - 公然的种族歧视是非法的。
-
+    - an overt attempt to silence their political opponents 他们想压制政敌言论的明显企图
+    - Overt race discrimination is illegal. 公然的种族歧视是非法的。
+  - 补充

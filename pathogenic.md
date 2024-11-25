@@ -1,38 +1,27 @@
 - pathogenic
   - 发音
-    - 英
-      - `/,pæθə'dʒenɪk/`
-    - 美
-      - `/,pæθə'dʒɛnɪk/`
+    - 英 /'pæθə'dʒenɪk/
+    - 美 /,pæθə'dʒɛnɪk/
   - 词义
-    - adj.
-      - 致病的；病原的；发病的（等于pathogenetic）
-        - `A pathogenic organism can cause disease in a person, animal, or plant`
+    - adj. 【医】病原的，致病的
+      - A pathogenic organism can cause disease in a person, animal, or plant
   - 记忆
     - path(病) + gen(产生) + ic → 能致病的 → 病原的
   - 同根词
-    - n.
-      - `pathogen`
-        - 病原体；病菌
-      - `pathogenesis`
-        - 发病机理；发病原
+    - n. pathogen 病原体；病菌
+    - n. pathogenesis 发病机理；发病原
   - 近义词
-    - adj.
-      - [病理][医][基医]致病的；病原的；发病的（等于pathogenetic）
-        - `morbific`
-        - `disease-producing`
+    - adj. [病理][医][基医]致病的；病原的；发病的（等于pathogenetic）
+      - morbific
+      - disease-producing
   - 短语
-    - `pathogenic bacteria`
-      - 致病菌；病原菌 
-    - `pathogenic mechanism`
-      - 发病机理 
-    - `pathogenic factor`
-      - 致病因素 
-    - `pathogenic microorganism`
-      - 病原微生物；致病微生物 
-    - `pathogenic organism`
-      - 致病（病原）生物 
+    - pathogenic bacteria 致病菌；病原菌
+    - pathogenic mechanism 发病机理
+    - pathogenic factor 致病因素
+    - pathogenic microorganism 病原微生物；致病微生物
+    - pathogenic organism 致病（病原）生物
   - 例句
-    - `Highly pathogenic avian influenza often is fatal in poultry and the H5N1 strain of the disease is spreading rapidly in some parts of the world.`
-      - 高致病性禽流感对家禽来说常常是一种致命的疾病，这种疾病的H5N1病毒正在世界上某些国家迅速传播。
-
+    - Genus of pathogenic yeastlike fungi. 致病的似酵母的真菌的属。
+    - Objective To study the pathogenic factors and epidemiologic features of chronic gastritis and peptic ulcer in children. 目的探讨儿童慢性胃炎、消化性溃疡的致病因素及流行病学特点。
+    - Despite the prevalence of H. capsulatum and its threat to human health, we have a limited understanding of the transcriptional regulatory network that governs pathogenic yeast-phase growth. 尽管荚膜的患病率及其对人体健康的威胁，我们有一个有限的转录调控网络的认识，管理致病酵母相生长。
+  - 补充

@@ -1,14 +1,11 @@
 - deadweight
   - 发音
-    - 英
-      - `/undefined/`
-    - 美
-      - `/undefined/`
+    - 英 /undefined/
+    - 美 /undefined/
   - 词义
-    - n.
-      - 自重；载重量；重负
+    - n. 自重；载重量；重负
   - 近义词
-    - n.
-      - 自重；载重量；重负
-        - `tax`
-        - `self-respect`
+    - n. 自重；载重量；重负
+      - tax
+      - self-respect
+  - 补充

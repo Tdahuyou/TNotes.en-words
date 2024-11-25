@@ -1,20 +1,15 @@
 - snooty
   - 发音
-    - 英
-      - `/'snuːtɪ/`
-    - 美
-      - `/'snuti/`
+    - 英 /'snuːtɪ/
+    - 美 /'snuti/
   - 词义
-    - adj.
-      - 傲慢的，自大的；目中无人的
-        - `rude and unfriendly, because you think you are better than other people`
+    - adj. 傲慢的，自大的；目中无人的
+      - rude and unfriendly, because you think you are better than other people
   - 近义词
-    - adj.
-      - 傲慢的，自大的；目中无人的
-        - `arrogant`
-        - `assuming`
-        - `haughty`
+    - adj. 傲慢的，自大的；目中无人的
+      - arrogant
+      - assuming
+      - haughty
   - 例句
-    - `snooty neighbours`
-      - 目中无人的邻居
-
+    - snooty neighbours 目中无人的邻居
+  - 补充

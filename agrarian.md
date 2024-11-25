@@ -1,28 +1,19 @@
 - agrarian
   - 发音
-    - 英
-      - `/ə'greərɪən/`
-    - 美
-      - `/ə'ɡrɛrɪən/`
+    - 英 /ə'greərɪən/
+    - 美 /ə'ɡrɛrɪən/
   - 词义
-    - adj.
-      - 有关土地的,耕地的
-        - `Agrarian means relating to the ownership and use of land, especially farmland, or relating to the part of a society or economy that is concerned with agriculture`
+    - adj. 有关土地的,耕地的
+      - Agrarian means relating to the ownership and use of land, especially farmland, or relating to the part of a society or economy that is concerned with agriculture
   - 同根词
-    - n.
-      - `agrarianism`
-        - 田地均分法；平均地权论
+    - n. agrarianism 田地均分法；平均地权论
   - 近义词
-    - adj.
-      - 土地的；耕地的；有关土地的
-        - `ground`
-        - `earth's`
+    - adj. 土地的；耕地的；有关土地的
+      - ground
+      - earth's
   - 短语
-    - `agrarian revolution`
-      - 农业革命 
-    - `agrarian reform`
-      - 土地改革 
+    - agrarian revolution 农业革命
+    - agrarian reform 土地改革
   - 例句
-    - `an agrarian economy (=  based on farming  )`
-      - 农业经济
-
+    - an agrarian economy (=  based on farming  ) 农业经济
+  - 补充

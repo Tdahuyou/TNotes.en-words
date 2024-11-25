@@ -1,27 +1,19 @@
 - paradigm
   - 发音
-    - 英
-      - `/'pærədaɪm/`
-    - 美
-      - `/'pærə'daɪm/`
+    - 英 /'pærədaɪm/
+    - 美 /'pærə'daɪm/
   - 词义
-    - n.
-      - 范例，典范
-        - `a very clear or typical example of something`
+    - n. 范例，典范
+      - a very clear or typical example of something
   - 记忆
     - para(在旁边) + digm(显示) → 在旁边显示给人看 → 范例， 典范
   - 同根词
-    - adj.
-      - `paradigmatic`
-        - 词形变化的；范例的
+    - adj. paradigmatic 词形变化的；范例的
   - 近义词
-    - n.
-      - 范例；词形变化表
-        - `exemplification`
+    - n. 范例；词形变化表
+      - exemplification
   - 短语
-    - `paradigm shift`
-      - 典范转移；思考模式的转移 
+    - paradigm shift 典范转移；思考模式的转移
   - 例句
-    - `...a new paradigm of production.`
-      - …一种新的生产范例。
-
+    - ...a new paradigm of production. …一种新的生产范例。
+  - 补充

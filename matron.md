@@ -1,19 +1,14 @@
 - matron
   - 发音
-    - 英
-      - `/'meɪtr(ə)n/`
-    - 美
-      - `/'metrən/`
+    - 英 /'meɪtr(ə)n/
+    - 美 /'metrən/
   - 词义
-    - n.
-      - 主妇；护士长
-        - `an older married woman`
+    - n. 主妇；护士长
+      - an older married woman
   - 同根词
-    - adj.
-      - `matronly`
-        - 主妇似的；稳重的；庄重的；威严的
+    - adj. matronly 主妇似的；稳重的；庄重的；威严的
   - 近义词
-    - n.
-      - 主妇；保姆；妇女；女舍监
-        - `woman`
-        - `homemaker`
+    - n. 主妇；保姆；妇女；女舍监
+      - woman
+      - homemaker
+  - 补充

@@ -1,10 +1,8 @@
 - seclusive
   - 发音
-    - 英
-      - `/sɪ'kluːsɪv/`
-    - 美
-      - `/sɪ'klʊsɪv/`
+    - 英 /sɪ'kluːsɪv/
+    - 美 /sɪ'klʊsɪv/
   - 词义
-    - adj.
-      - 喜隐居的,爱孤独的,隐退性的
-        - `tending to seclude `
+    - adj. 喜隐居的,爱孤独的,隐退性的
+      - tending to seclude 
+  - 补充

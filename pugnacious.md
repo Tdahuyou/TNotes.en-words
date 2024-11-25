@@ -1,23 +1,16 @@
 - pugnacious
   - 发音
-    - 英
-      - `/pʌg'neiʃəs/`
-    - 美
-      - `/pʌg'neʃəs/`
+    - 英 /pʌg'neiʃəs/
+    - 美 /pʌg'neʃəs/
   - 词义
-    - adj.
-      - 好斗的，爱吵闹的
-        - `very eager to argue or fight with people`
+    - adj. 好斗的，爱吵闹的
+      - very eager to argue or fight with people
   - 同根词
-    - n.
-      - `pugnacity`
-        - 好斗，好战
+    - n. pugnacity 好斗，好战
   - 近义词
-    - adj.
-      - 好斗的，好战的
-        - `fighting`
-        - `aggressive`
+    - adj. 好斗的，好战的
+      - fighting
+      - aggressive
   - 例句
-    - `The professor had been pugnacious and irritable.`
-      - 那位教授好斗而易怒。
-
+    - The professor had been pugnacious and irritable. 那位教授好斗而易怒。
+  - 补充

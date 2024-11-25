@@ -1,21 +1,14 @@
 - counterfeits
   - 发音
-    - 英
-      - `/'kauntəfits/`
-    - 美
-      - `/undefined/`
+    - 英 /'kauntəfits/
+    - 美 /undefined/
   - 词义
-    - n.
-      - 冒牌货；伪造品
-        - `Counterfeit is also a noun`
+    - n. 冒牌货；伪造品
+      - Counterfeit is also a noun
   - 短语
-    - `counterfeit money`
-      - 假币；伪钞 
-    - `counterfeit products`
-      - 假货；仿造产品 
-    - `counterfeit software`
-      - 盗版软件 
+    - counterfeit money 假币；伪钞
+    - counterfeit products 假货；仿造产品
+    - counterfeit software 盗版软件
   - 例句
-    - `Levi Strauss says counterfeits of the company's jeans are flooding Europe.`
-      - 利瓦伊·斯特劳斯说该公司牛仔裤的仿冒品充斥着欧洲市场。
-
+    - Levi Strauss says counterfeits of the company's jeans are flooding Europe. 利瓦伊·斯特劳斯说该公司牛仔裤的仿冒品充斥着欧洲市场。
+  - 补充

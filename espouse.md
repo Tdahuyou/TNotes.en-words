@@ -1,28 +1,21 @@
 - espouse
   - 发音
-    - 英
-      - `/ɪ'spauz/`
-    - 美
-      - `/ɪ'spaʊz/`
+    - 英 /ɪ'spauz/
+    - 美 /ɪ'spaʊz/
   - 词义
-    - vt.
-      - 支持，拥护，赞成
-        - `to support an idea, belief etc, especially a political one`
+    - vt. 支持，拥护，赞成
+      - to support an idea, belief etc, especially a political one
   - 记忆
     - e(出) + spous(约定) + e → 给出约定 → 支持， 拥护， 赞成
   - 同根词
-    - n.
-      - `espousal`
-        - 拥护；信奉；订婚
+    - n. espousal 拥护；信奉；订婚
   - 近义词
-    - vt.
-      - 支持；嫁娶；赞成；信奉
-        - `encourage`
-        - `second`
-        - `back`
-        - `agree`
-        - `carry`
+    - vt. 支持；嫁娶；赞成；信奉
+      - encourage
+      - second
+      - back
+      - agree
+      - carry
   - 例句
-    - `She ran away with him to Mexico and espoused the revolutionary cause.`
-      - 她与他一起逃到了墨西哥，支持革命事业。
-
+    - She ran away with him to Mexico and espoused the revolutionary cause. 她与他一起逃到了墨西哥，支持革命事业。
+  - 补充

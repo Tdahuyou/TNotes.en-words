@@ -1,45 +1,30 @@
 - digest
   - 发音
-    - 英
-      - `/daɪ'dʒest; dɪ-/`
-    - 美
-      - `/daɪ'dʒɛst/`
+    - 英 /daɪ'dʒest; dɪ-/
+    - 美 /daɪ'dʒɛst/
   - 词义
-    - v.
-      - 消化，吸收；领悟
-        - `to change food that you have just eaten into substances that your body can use`
-    - n.
-      - 摘要，概要
-        - `a short piece of writing that gives the most important facts from a book, report etc`
+    - v. 消化，吸收；领悟
+      - to change food that you have just eaten into substances that your body can use
+    - n. 摘要，概要
+      - a short piece of writing that gives the most important facts from a book, report etc
   - 记忆
     - di(向下) + gest(搬运) → 运下去 → 消化
   - 同根词
-    - adj.
-      - `digestive`
-        - 消化的；助消化的
-      - `digestible`
-        - 易消化的；可摘要的
-    - n.
-      - `digestion`
-        - 消化；领悟
-      - `digestive`
-        - 助消化药
-      - `digester`
-        - 做摘要者；助消化食品；汇编者；蒸炼器
-      - `digestibility`
-        - 消化性；可消化性
+    - adj. digestive 消化的；助消化的
+    - adj. digestible 易消化的；可摘要的
+    - n. digestion 消化；领悟
+    - n. digestive 助消化药
+    - n. digester 做摘要者；助消化食品；汇编者；蒸炼器
+    - n. digestibility 消化性；可消化性
   - 近义词
-    - vt.
-      - 消化；吸收；融会贯通
-        - `absorb`
-        - `drink in`
-    - n.
-      - 文摘；摘要
-        - `abstract`
-        - `brief`
-        - `summary`
-        - `resume`
+    - vt. 消化；吸收；融会贯通
+      - absorb
+      - drink in
+    - n. 文摘；摘要
+      - abstract
+      - brief
+      - summary
+      - resume
   - 例句
-    - `Most babies can digest a wide range of food easily.`
-      - 大多数婴儿能轻易地消化很多种食物。
-
+    - Most babies can digest a wide range of food easily. 大多数婴儿能轻易地消化很多种食物。
+  - 补充

@@ -1,32 +1,19 @@
 - nullity
   - 发音
-    - 英
-      - `/'nʌlɪtɪ/`
-    - 美
-      - `/'nʌləti/`
+    - 英 /'nʌlɪtɪ/
+    - 美 /'nʌləti/
   - 词义
-    - n.
-      - (尤指法律上的)无效,无效的行为,无效的证书
+    - n. (尤指法律上的)无效,无效的行为,无效的证书
   - 同根词
-    - adj.
-      - `null`
-        - 无效的，无价值的；等于零的
-    - n.
-      - `null`
-        - 零，[数] 空
-      - `nullification`
-        - 无效；废弃；取消；（美）州对联邦法令的拒绝执行或承认
-      - `nullifier`
-        - 废弃者；使无效者；取消者
-    - vt.
-      - `nullify`
-        - 使无效，作废；取消
+    - adj. null 无效的，无价值的；等于零的
+    - n. null 零，[数] 空
+    - n. nullification 无效；废弃；取消；（美）州对联邦法令的拒绝执行或承认
+    - n. nullifier 废弃者；使无效者；取消者
+    - vt. nullify 使无效，作废；取消
   - 近义词
-    - n.
-      - 无效；无价值的事物或人；[数]零度；退化阶数
-        - `invalidity`
-        - `ineffectiveness`
+    - n. 无效；无价值的事物或人；[数]零度；退化阶数
+      - invalidity
+      - ineffectiveness
   - 例句
-    - `a decree of nullity`
-      - 无效判决
-
+    - a decree of nullity 无效判决
+  - 补充

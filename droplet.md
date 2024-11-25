@@ -1,21 +1,15 @@
 - droplet
   - 发音
-    - 英
-      - `/'drɒplɪt/`
-    - 美
-      - `/'drɑplət/`
+    - 英 /'drɒplɪt/
+    - 美 /'drɑplət/
   - 词义
-    - n.
-      - 小滴
-        - `a very small drop of liquid`
+    - n. 小滴
+      - a very small drop of liquid
   - 近义词
-    - n.
-      - 小滴，[气象]微滴
-        - `microsphere`
+    - n. 小滴，[气象]微滴
+      - microsphere
   - 短语
-    - `water droplet`
-      - 水滴；微水滴，小水滴 
+    - water droplet 水滴；微水滴，小水滴
   - 例句
-    - `Droplets of sweat were welling up on his forehead.`
-      - 一颗颗小汗珠从他额头上不断冒出来。
-
+    - Droplets of sweat were welling up on his forehead. 一颗颗小汗珠从他额头上不断冒出来。
+  - 补充

@@ -1,12 +1,10 @@
 - encipher
   - 发音
-    - 英
-      - `/ɪn'saɪfər/`
-    - 美
-      - `/ɪn'saɪfɚ/`
+    - 英 /ɪn'saɪfər/
+    - 美 /ɪn'saɪfɚ/
   - 词义
-    - v.
-      - 译成密码
-        - `to convert (a message, document, etc) from plain text into code or cipher; encode `
+    - v. 译成密码
+      - to convert (a message, document, etc) from plain text into code or cipher; encode 
   - 记忆
     - en(进入) + cipher(密码) → 译成密码
+  - 补充

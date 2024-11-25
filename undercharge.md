@@ -1,12 +1,10 @@
 - undercharge
   - 发音
-    - 英
-      - `/ˌʌndə'tʃɑːdʒ/`
-    - 美
-      - `/,ʌndɚ'tʃɑrdʒ/`
+    - 英 /ˌʌndə'tʃɑːdʒ/
+    - 美 /,ʌndɚ'tʃɑrdʒ/
   - 词义
-    - v.
-      - 索价低于常价
-        - `to charge too little (for) `
+    - v. 索价低于常价
+      - to charge too little (for) 
   - 记忆
     - under (低于) + charge (费用) → 索价低于常价
+  - 补充

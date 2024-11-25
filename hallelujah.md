@@ -1,19 +1,14 @@
 - hallelujah
   - 发音
-    - 英
-      - `/,hælɪ'luːjə/`
-    - 美
-      - `/,hælɪ'lujə/`
+    - 英 /,hælɪ'luːjə/
+    - 美 /,hælɪ'lujə/
   - 词义
-    - n.
-      - 赞美上帝的颂歌
-    - int.
-      - 哈利路亚
-        - `used to express thanks, joy, or praise to God`
+    - n. 赞美上帝的颂歌
+    - int. 哈利路亚
+      - used to express thanks, joy, or praise to God
   - 近义词
-    - n.
-      - 赞美上帝的颂歌
-        - `alleluia`
-    - int.
-      - 哈利路亚
-        - `alleluia`
+    - n. 赞美上帝的颂歌
+      - alleluia
+    - int. 哈利路亚
+      - alleluia
+  - 补充

@@ -1,50 +1,33 @@
 - mutate
   - 发音
-    - 英
-      - `/'mjuːteɪt/`
-    - 美
-      - `/'mjutet/`
+    - 英 /'mjuːteɪt/
+    - 美 /'mjutet/
   - 词义
-    - v.
-      - 变异
-        - `if an animal or plant mutates, it becomes different from others of the same kind, because of a change in its  genetic  structure`
+    - v. 变异
+      - if an animal or plant mutates, it becomes different from others of the same kind, because of a change in its  genetic  structure
   - 记忆
     - mut(变化) + ate → 变异
   - 同根词
-    - adj.
-      - `mutant`
-        - 突变的
-      - `mutagenic`
-        - 诱变的；致突变的
-      - `mutational`
-        - 突变的
-      - `mutative`
-        - 变化的；生物突变的
-    - n.
-      - `mutation`
-        - [遗] 突变；变化；元音变化
-      - `mutant`
-        - 突变体；突变异种
-      - `mutability`
-        - 易变性；性情不定；突变性
-      - `mutagen`
-        - 诱导有机体突变的物质
-      - `mutagenesis`
-        - 突变形成；变异发生
+    - adj. mutant 突变的
+    - adj. mutagenic 诱变的；致突变的
+    - adj. mutational 突变的
+    - adj. mutative 变化的；生物突变的
+    - n. mutation [遗] 突变；变化；元音变化
+    - n. mutant 突变体；突变异种
+    - n. mutability 易变性；性情不定；突变性
+    - n. mutagen 诱导有机体突变的物质
+    - n. mutagenesis 突变形成；变异发生
   - 近义词
-    - vi.
-      - 变化，产生突变
-        - `vary`
-        - `pass`
-        - `change from`
-    - vt.
-      - 改变，使突变
-        - `influence`
-        - `fashion`
-        - `shift`
-        - `vary`
-        - `innovate`
+    - vi. 变化，产生突变
+      - vary
+      - pass
+      - change from
+    - vt. 改变，使突变
+      - influence
+      - fashion
+      - shift
+      - vary
+      - innovate
   - 例句
-    - `Simple organisms like bacteria mutate rapidly.`
-      - 像细菌那样的简单有机体突变的速度很快。
-
+    - Simple organisms like bacteria mutate rapidly. 像细菌那样的简单有机体突变的速度很快。
+  - 补充

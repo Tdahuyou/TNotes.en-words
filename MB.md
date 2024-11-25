@@ -1,9 +1,7 @@
 - MB
   - 发音
-    - 英
-      - `/undefined/`
-    - 美
-      - `/undefined/`
+    - 英 /undefined/
+    - 美 /undefined/
   - 词义
-    - abbr.
-      - 兆位，兆字节（megabyte）
+    - abbr. 兆位，兆字节（megabyte）
+  - 补充

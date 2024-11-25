@@ -1,36 +1,24 @@
 - garnish
   - 发音
-    - 英
-      - `/'gɑːniʃ/`
-    - 美
-      - `/'gɑrnɪʃ/`
+    - 英 /'gɑːniʃ/
+    - 美 /'gɑrnɪʃ/
   - 词义
-    - v.
-      - 装饰
-        - `to add something to food in order to decorate it`
+    - v. 装饰
+      - to add something to food in order to decorate it
   - 记忆
     - 利用废物 (rubbish) 装饰 (garnish) 房间 → 装饰
   - 同根词
-    - adj.
-      - `garish`
-        - 炫耀的；过分装饰的；过分鲜艳的
-    - adv.
-      - `garishly`
-        - 华丽地；过分装饰地
-    - n.
-      - `garnishment`
-        - 出庭传票；扣押令；装饰
+    - adj. garish 炫耀的；过分装饰的；过分鲜艳的
+    - adv. garishly 华丽地；过分装饰地
+    - n. garnishment 出庭传票；扣押令；装饰
   - 近义词
-    - vt.
-      - [建]装饰
-        - `paint`
-        - `hang`
-        - `set sth out`
-    - n.
-      - 为增加色香味而添加的配菜；[建]装饰品
-        - `decoration`
-        - `trimming`
+    - vt. [建]装饰
+      - paint
+      - hang
+      - set sth out
+    - n. 为增加色香味而添加的配菜；[建]装饰品
+      - decoration
+      - trimming
   - 例句
-    - `She had finished the vegetables and was garnishing the roast.`
-      - 她已经做好了蔬菜，正给烤肉配饰菜。
-
+    - She had finished the vegetables and was garnishing the roast. 她已经做好了蔬菜，正给烤肉配饰菜。
+  - 补充

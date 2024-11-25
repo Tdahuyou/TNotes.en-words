@@ -1,21 +1,16 @@
 - preceptor
   - 发音
-    - 英
-      - `/prɪ'septə/`
-    - 美
-      - `/'prisɛptɚ/`
+    - 英 /prɪ'septə/
+    - 美 /'prisɛptɚ/
   - 词义
-    - n.
-      - 校长
+    - n. 校长
   - 同根词
-    - n.
-      - `precept`
-        - 规则；格言；训诫；命令
+    - n. precept 规则；格言；训诫；命令
   - 近义词
-    - n.
-      - 校长；教师；指导医师
-        - `teacher`
-        - `principal`
-        - `professor`
-        - `president`
-        - `master`
+    - n. 校长；教师；指导医师
+      - teacher
+      - principal
+      - professor
+      - president
+      - master
+  - 补充

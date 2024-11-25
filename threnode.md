@@ -1,15 +1,12 @@
 - threnode
   - 发音
-    - 英
-      - `/'θriːnəʊd/`
-    - 美
-      - `/undefined/`
+    - 英 /'θriːnəʊd/
+    - 美 /undefined/
   - 词义
-    - n.
-      - 哀歌,葬歌,挽歌
-        - `an ode, song, or speech of lamentation, esp for the dead `
+    - n. 哀歌,葬歌,挽歌
+      - an ode, song, or speech of lamentation, esp for the dead 
   - 近义词
-    - n.
-      - 挽歌；哀歌（等于threnody）
-        - `keen`
-        - `elegy`
+    - n. 挽歌；哀歌（等于threnody）
+      - keen
+      - elegy
+  - 补充

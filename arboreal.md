@@ -1,35 +1,21 @@
 - arboreal
   - 发音
-    - 英
-      - `/ɑːr'bɔːriəl/`
-    - 美
-      - `/ɑr'bɔrɪəl/`
+    - 英 /ɑːr'bɔːriəl/
+    - 美 /ɑr'bɔrɪəl/
   - 词义
-    - adj.
-      - 树栖的；树木的
-        - `relating to trees, or living in trees`
+    - adj. 树栖的；树木的
+      - relating to trees, or living in trees
   - 记忆
     - arbor(树) + eal → 树木的
   - 同根词
-    - adj.
-      - `arboraceous`
-        - 长满树木的；树木状的
-      - `arboreous`
-        - 树木的；树木繁茂的；树木状的
-      - `arborescent`
-        - 树木状的
-      - `arborous`
-        - 树木茂盛的；树木的（等于arboreous）
-    - n.
-      - `arboretum`
-        - 植物园；（供科研等的）树木园
-      - `arboriculture`
-        - 树木的培植/栽培
-      - `arboriculturist`
-        - 树木培植家
-      - `arborist`
-        - 树木栽培家；树木研究者；树艺家
+    - adj. arboraceous 长满树木的；树木状的
+    - adj. arboreous 树木的；树木繁茂的；树木状的
+    - adj. arborescent 树木状的
+    - adj. arborous 树木茂盛的；树木的（等于arboreous）
+    - n. arboretum 植物园；（供科研等的）树木园
+    - n. arboriculture 树木的培植/栽培
+    - n. arboriculturist 树木培植家
+    - n. arborist 树木栽培家；树木研究者；树艺家
   - 例句
-    - `...arboreal marsupials which resemble monkeys.`
-      - ...类猴树栖有袋动物。
-
+    - ...arboreal marsupials which resemble monkeys. ...类猴树栖有袋动物。
+  - 补充

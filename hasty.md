@@ -1,38 +1,23 @@
 - hasty
   - 发音
-    - 英
-      - `/'heɪstɪ/`
-    - 美
-      - `/'hesti/`
+    - 英 /'heɪstɪ/
+    - 美 /'hesti/
   - 词义
-    - adj.
-      - 匆忙的，慌忙的
-        - `done in a hurry, especially with bad results`
+    - adj. 匆忙的，慌忙的
+      - done in a hurry, especially with bad results
   - 记忆
     - hast(看作fast， 快的) ＋ y(…的) → 快速完成的 → 匆忙的
   - 同根词
-    - adv.
-      - `hastily`
-        - 匆忙地；急速地；慌忙地
-    - n.
-      - `haste`
-        - 匆忙；急忙；轻率
-      - `hastiness`
-        - 轻率；性急；仓促
-    - vi.
-      - `haste`
-        - 匆忙；赶紧
-    - vt.
-      - `haste`
-        - 赶快
+    - adv. hastily 匆忙地；急速地；慌忙地
+    - n. haste 匆忙；急忙；轻率
+    - n. hastiness 轻率；性急；仓促
+    - vi. haste 匆忙；赶紧
+    - vt. haste 赶快
   - 近义词
-    - adj.
-      - 轻率的；匆忙的；草率的；性怠的
-        - `brief`
-        - `rushed`
+    - adj. 轻率的；匆忙的；草率的；性怠的
+      - brief
+      - rushed
   - 例句
-    - `He soon regretted his hasty decision.`
-      - 他很快就对自己仓促作出的决定感到后悔了。
-    - `a hasty breakfast`
-      - 匆忙吃下的一顿早餐
-
+    - He soon regretted his hasty decision. 他很快就对自己仓促作出的决定感到后悔了。
+    - a hasty breakfast 匆忙吃下的一顿早餐
+  - 补充

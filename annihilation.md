@@ -1,30 +1,18 @@
 - annihilation
   - 发音
-    - 英
-      - `/əˌnaiə'leiʃən/`
-    - 美
-      - `/ə,naɪə'leʃən/`
+    - 英 /əˌnaiə'leiʃən/
+    - 美 /ə,naɪə'leʃən/
   - 词义
-    - n.
-      - 湮没
+    - n. 湮没
   - 同根词
-    - adj.
-      - `annihilative`
-        - 有消灭能力的
-    - n.
-      - `annihilator`
-        - 歼灭者；消灭者；[数] 零化子
-    - vi.
-      - `annihilate`
-        - 湮灭；湮没
-    - vt.
-      - `annihilate`
-        - 歼灭；战胜；废止
+    - adj. annihilative 有消灭能力的
+    - n. annihilator 歼灭者；消灭者；[数] 零化子
+    - vi. annihilate 湮灭；湮没
+    - vt. annihilate 歼灭；战胜；废止
   - 近义词
-    - n.
-      - 灭绝；消灭
-        - `extinction`
-        - `eradication`
+    - n. 灭绝；消灭
+      - extinction
+      - eradication
   - 短语
-    - `positron annihilation`
-      - 正电子湮没；阳电子湮没 
+    - positron annihilation 正电子湮没；阳电子湮没
+  - 补充

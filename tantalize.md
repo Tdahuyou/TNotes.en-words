@@ -1,36 +1,21 @@
 - tantalize
   - 发音
-    - 英
-      - `/'tæntɔlaiz/`
-    - 美
-      - `/'tæntəlaɪz/`
+    - 英 /'tæntɔlaiz/
+    - 美 /'tæntəlaɪz/
   - 词义
-    - v.
-      - 挑逗，惹弄
-        - `If someone or something tantalizes you, they make you feel hopeful and excited about getting what you want, usually before disappointing you by not letting you have what they appeared to offer`
+    - v. 挑逗，惹弄
+      - If someone or something tantalizes you, they make you feel hopeful and excited about getting what you want, usually before disappointing you by not letting you have what they appeared to offer
   - 记忆
     - tan (晒黑) + tal (看作tall， 高) + ize → 海滩上晒成棕黑色的高挑美女很撩人
   - 同根词
-    - adj.
-      - `tantalizing`
-        - 撩人的；逗引性的；干着急的
-    - adv.
-      - `tantalizingly`
-        - 逗人地；…得令人着急
-    - n.
-      - `tantalization`
-        - 逗弄；使干着急；难熬
-    - v.
-      - `tantalizing`
-        - 惹弄；逗弄人（tantalize的ing形式）
-    - vt.
-      - `tantalise`
-        - 使…干着急；逗弄（等于tantalize）
+    - adj. tantalizing 撩人的；逗引性的；干着急的
+    - adv. tantalizingly 逗人地；…得令人着急
+    - n. tantalization 逗弄；使干着急；难熬
+    - v. tantalizing 惹弄；逗弄人（tantalize的ing形式）
+    - vt. tantalise 使…干着急；逗弄（等于tantalize）
   - 近义词
-    - vt.
-      - 逗弄；使干着急
-        - `banter`
+    - vt. 逗弄；使干着急
+      - banter
   - 例句
-    - `...the dreams of democracy that have so tantalized them.`
-      - …让他们可望而不可及的民主梦想。
-
+    - ...the dreams of democracy that have so tantalized them. …让他们可望而不可及的民主梦想。
+  - 补充

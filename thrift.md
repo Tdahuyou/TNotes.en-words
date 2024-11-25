@@ -1,33 +1,20 @@
 - thrift
   - 发音
-    - 英
-      - `/θrɪft/`
-    - 美
-      - `/θrɪft/`
+    - 英 /θrɪft/
+    - 美 /θrɪft/
   - 词义
-    - n.
-      - 节俭
-        - `wise and careful use of money, so that none is wasted`
+    - n. 节俭
+      - wise and careful use of money, so that none is wasted
   - 同根词
-    - adj.
-      - `thrifty`
-        - 节约的；茂盛的；成功的
-      - `thriftless`
-        - 浪费的，不节约的；无价值的
-    - adv.
-      - `thriftily`
-        - 节俭地；繁茂地；兴旺的
-      - `thriftlessly`
-        - 不节俭地；挥霍地
-    - n.
-      - `thriftiness`
-        - 茂盛，节俭
+    - adj. thrifty 节约的；茂盛的；成功的
+    - adj. thriftless 浪费的，不节约的；无价值的
+    - adv. thriftily 节俭地；繁茂地；兴旺的
+    - adv. thriftlessly 不节俭地；挥霍地
+    - n. thriftiness 茂盛，节俭
   - 近义词
-    - n.
-      - 节俭；节约；[植]海石竹
-        - `economy`
-        - `saving`
+    - n. 节俭；节约；[植]海石竹
+      - economy
+      - saving
   - 例句
-    - `They were rightly praised for their thrift and enterprise.`
-      - 他们因勤俭节约和开创精神而受到了应得的表扬。
-
+    - They were rightly praised for their thrift and enterprise. 他们因勤俭节约和开创精神而受到了应得的表扬。
+  - 补充

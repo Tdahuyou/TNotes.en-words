@@ -1,22 +1,14 @@
 - downside
   - 发音
-    - 英
-      - `/'daunsaɪd/`
-    - 美
-      - `/'daʊnsaɪd/`
+    - 英 /'daunsaɪd/
+    - 美 /'daʊnsaɪd/
   - 词义
-    - n.
-      - 缺点，负面；底侧；下降趋势
+    - n. 缺点，负面；底侧；下降趋势
   - 同根词
-    - n.
-      - `downswing`
-        - 下降趋势；向下摆动；衰落
+    - n. downswing 下降趋势；向下摆动；衰落
   - 短语
-    - `downside risk`
-      - 跌价风险；下跌风险 
-    - `on the downside`
-      - 下降中，衰落中，衰减中 
+    - downside risk 跌价风险；下跌风险
+    - on the downside 下降中，衰落中，衰减中
   - 例句
-    - `Digital cell phones offer more security, but the downside is that they have less power.`
-      - 数字手机安全性更好，但其劣势在于电力不足。
-
+    - Digital cell phones offer more security, but the downside is that they have less power. 数字手机安全性更好，但其劣势在于电力不足。
+  - 补充

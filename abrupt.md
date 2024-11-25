@@ -1,34 +1,23 @@
 - abrupt
   - 发音
-    - 英
-      - `/ə'brʌpt/`
-    - 美
-      - `/ə'brʌpt/`
+    - 英 /ə'brʌpt/
+    - 美 /ə'brʌpt/
   - 词义
-    - adj.
-      - 突然的，意外的；唐突的，鲁莽的
-        - `sudden and unexpected`
+    - adj. 突然的，意外的；唐突的，鲁莽的
+      - sudden and unexpected
   - 记忆
     - ab(离去) + rupt(断裂) → 突然的， 意外的
   - 同根词
-    - adv.
-      - `abruptly`
-        - 突然地；唐突地
-    - n.
-      - `abruptness`
-        - 突然；唐突；粗鲁无理；急缓度
+    - adv. abruptly 突然地；唐突地
+    - n. abruptness 突然；唐突；粗鲁无理；急缓度
   - 近义词
-    - adj.
-      - 生硬的；突然的；唐突的；陡峭的
-        - `sudden`
-        - `short`
-        - `angular`
+    - adj. 生硬的；突然的；唐突的；陡峭的
+      - sudden
+      - short
+      - angular
   - 短语
-    - `abrupt change`
-      - 突变；陡变 
-    - `abrupt slope`
-      - 陡坡 
+    - abrupt change 突变；陡变
+    - abrupt slope 陡坡
   - 例句
-    - `an abrupt change of plan`
-      - 计划的突然改变
-
+    - an abrupt change of plan 计划的突然改变
+  - 补充

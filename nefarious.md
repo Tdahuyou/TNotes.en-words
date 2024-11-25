@@ -1,28 +1,21 @@
 - nefarious
   - 发音
-    - 英
-      - `/ni'feəriəs/`
-    - 美
-      - `/ni'fεəriəs/`
+    - 英 /ni'feəriəs/
+    - 美 /ni'fεəriəs/
   - 词义
-    - adj.
-      - 邪恶的，穷凶极恶的
-        - `evil or criminal`
+    - adj. 邪恶的，穷凶极恶的
+      - evil or criminal
   - 记忆
     - ne ( = not) + far (公正) + ious → 不公正的 → 邪恶的
   - 同根词
-    - adv.
-      - `nefariously`
-        - 穷凶极恶地；邪恶地
+    - adv. nefariously 穷凶极恶地；邪恶地
   - 近义词
-    - adj.
-      - 邪恶的；穷凶极恶的；不法的
-        - `evil`
-        - `ill`
-        - `black`
-        - `ugly`
-        - `wicked`
+    - adj. 邪恶的；穷凶极恶的；不法的
+      - evil
+      - ill
+      - black
+      - ugly
+      - wicked
   - 例句
-    - `nefarious activities such as drug trafficking and fraud`
-      - 贩毒和诈骗之类的犯罪活动
-
+    - nefarious activities such as drug trafficking and fraud 贩毒和诈骗之类的犯罪活动
+  - 补充

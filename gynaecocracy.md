@@ -1,14 +1,11 @@
 - gynaecocracy
   - 发音
-    - 英
-      - `/undefined/`
-    - 美
-      - `/undefined/`
+    - 英 /undefined/
+    - 美 /undefined/
   - 词义
-    - n.
-      - 妇女当政,女权政治
-        - `government by women or by a single woman `
+    - n. 妇女当政,女权政治
+      - government by women or by a single woman 
   - 近义词
-    - n.
-      - 妇女当政；女权政治
-        - `gynecocracy`
+    - n. 妇女当政；女权政治
+      - gynecocracy
+  - 补充

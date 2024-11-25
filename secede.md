@@ -1,30 +1,21 @@
 - secede
   - 发音
-    - 英
-      - `/sɪ'siːd/`
-    - 美
-      - `/sɪ'sid/`
+    - 英 /sɪ'siːd/
+    - 美 /sɪ'sid/
   - 词义
-    - vi.
-      - 正式脱离，退出
-        - `if a country or state secedes from another country, it officially stops being part of it and becomes independent`
+    - vi. 正式脱离，退出
+      - if a country or state secedes from another country, it officially stops being part of it and becomes independent
   - 记忆
     - se(分开) + ced(走) + e → 走开， 脱离 → 正式脱离
   - 同根词
-    - n.
-      - `secession`
-        - 脱离；分离
-      - `secessionism`
-        - 脱离论；分离主义
+    - n. secession 脱离；分离
+    - n. secessionism 脱离论；分离主义
   - 近义词
-    - vi.
-      - 脱离；退出
-        - `out of contact`
-        - `break away`
-    - vt.
-      - 从…中脱离；割让
-        - `cede`
+    - vi. 脱离；退出
+      - out of contact
+      - break away
+    - vt. 从…中脱离；割让
+      - cede
   - 例句
-    - `Singapore seceded from the Federation of Malaysia and became an independent sovereign state.`
-      - 新加坡脱离马来西亚联邦成为一个独立的主权国家。
-
+    - Singapore seceded from the Federation of Malaysia and became an independent sovereign state. 新加坡脱离马来西亚联邦成为一个独立的主权国家。
+  - 补充

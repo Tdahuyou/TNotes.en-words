@@ -1,22 +1,15 @@
 - enthusiast
   - 发音
-    - 英
-      - `/ɪn'θjuːzɪæst; en-/`
-    - 美
-      - `/ɪn'θuzɪæst/`
+    - 英 /ɪn'θjuːzɪæst; en-/
+    - 美 /ɪn'θuzɪæst/
   - 词义
-    - n.
-      - 热心家,狂热者
-        - `someone who is very interested in a particular activity or subject`
+    - n. 热心家,狂热者
+      - someone who is very interested in a particular activity or subject
   - 同根词
-    - adj.
-      - `enthusiastic`
-        - 热情的；热心的；狂热的
-    - adv.
-      - `enthusiastically`
-        - 热心地；满腔热情地
+    - adj. enthusiastic 热情的；热心的；狂热的
+    - adv. enthusiastically 热心地；满腔热情地
   - 近义词
-    - n.
-      - 狂热者，热心家
-        - `Wild Ginger`
-        - `zealot`
+    - n. 狂热者，热心家
+      - Wild Ginger
+      - zealot
+  - 补充

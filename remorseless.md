@@ -1,29 +1,20 @@
 - remorseless
   - 发音
-    - 英
-      - `/ri'mɔːslis/`
-    - 美
-      - `/rɪ'mɔrsləs/`
+    - 英 /ri'mɔːslis/
+    - 美 /rɪ'mɔrsləs/
   - 词义
-    - adj.
-      - 无恻隐心的
-        - `something bad or threatening that is remorseless continues to happen and seems impossible to stop`
+    - adj. 无恻隐心的
+      - something bad or threatening that is remorseless continues to happen and seems impossible to stop
   - 记忆
     - re + morse (看作mercy， 仁慈) + less → 毫无仁慈的 → 无恻隐心的
   - 同根词
-    - adv.
-      - `remorselessly`
-        - 无悔意地；冷酷地
-    - n.
-      - `remorse`
-        - 懊悔；同情
+    - adv. remorselessly 无悔意地；冷酷地
+    - n. remorse 懊悔；同情
   - 近义词
-    - adj.
-      - 冷酷的；不知过错的；坚持不懈的；不屈不挠的
-        - `tough`
-        - `frozen`
-        - `grim`
+    - adj. 冷酷的；不知过错的；坚持不懈的；不屈不挠的
+      - tough
+      - frozen
+      - grim
   - 例句
-    - `the remorseless winter winds`
-      - 持续不断的冬风
-
+    - the remorseless winter winds 持续不断的冬风
+  - 补充

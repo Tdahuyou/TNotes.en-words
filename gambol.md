@@ -1,20 +1,16 @@
 - gambol
   - 发音
-    - 英
-      - `/'gæmbəl/`
-    - 美
-      - `/'ɡæmbl/`
+    - 英 /'gæmbəl/
+    - 美 /'ɡæmbl/
   - 词义
-    - n.
-      - 欢跳，雀跃，嬉戏
+    - n. 欢跳，雀跃，嬉戏
   - 记忆
     - 来自gamb (腿) + ol → 腿跳跃 → 欢跳
   - 近义词
-    - vi.
-      - 雀跃；耍闹
-        - `caper`
-        - `bound with`
-    - n.
-      - 雀跃；嬉戏
-        - `larkishness`
-        - `dalliance`
+    - vi. 雀跃；耍闹
+      - caper
+      - bound with
+    - n. 雀跃；嬉戏
+      - larkishness
+      - dalliance
+  - 补充

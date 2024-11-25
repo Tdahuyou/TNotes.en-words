@@ -1,28 +1,20 @@
 - ire
   - 发音
-    - 英
-      - `/'aiə/`
-    - 美
-      - `/'aɪɚ/`
+    - 英 /'aiə/
+    - 美 /'aɪɚ/
   - 词义
-    - n.
-      - 愤怒
-        - `anger`
+    - n. 愤怒
+      - anger
   - 记忆
     - 愤怒 (ire) 之火 (fire)
   - 同根词
-    - adj.
-      - `ireful`
-        - 忿怒的
+    - adj. ireful 忿怒的
   - 近义词
-    - n.
-      - 忿怒
-        - `anger`
-    - vt.
-      - 使发怒
-        - `anger`
-        - `acerbate`
+    - n. 忿怒
+      - anger
+    - vt. 使发怒
+      - anger
+      - acerbate
   - 例句
-    - `Their ire was directed mainly at the government.`
-      - 他们的愤怒主要针对该政府。
-
+    - Their ire was directed mainly at the government. 他们的愤怒主要针对该政府。
+  - 补充

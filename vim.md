@@ -1,22 +1,17 @@
 - vim
   - 发音
-    - 英
-      - `/vɪm/`
-    - 美
-      - `/vɪm/`
+    - 英 /vɪm/
+    - 美 /vɪm/
   - 词义
-    - n.
-      - 活力,精力
-        - `energy`
+    - n. 活力,精力
+      - energy
   - 近义词
-    - n.
-      - 精力，活力；精神，生气
-        - `energy`
-        - `vitality`
-        - `spirit`
-        - `soul`
-        - `mind`
+    - n. 精力，活力；精神，生气
+      - energy
+      - vitality
+      - spirit
+      - soul
+      - mind
   - 例句
-    - `She was full of vim and vigour.`
-      - 她精力旺盛。
-
+    - She was full of vim and vigour. 她精力旺盛。
+  - 补充

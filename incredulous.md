@@ -1,28 +1,19 @@
 - incredulous
   - 发音
-    - 英
-      - `/ɪn'kredʒələs/`
-    - 美
-      - `/ɪn'krɛdʒələs/`
+    - 英 /ɪn'kredʒələs/
+    - 美 /ɪn'krɛdʒələs/
   - 词义
-    - adj.
-      - 怀疑的，不轻信的
-        - `unable or unwilling to believe something`
+    - adj. 怀疑的，不轻信的
+      - unable or unwilling to believe something
   - 记忆
     - in(不) + cred(相信) + ul + ous(形容词后缀) → 怀疑的
   - 同根词
-    - adv.
-      - `incredulously`
-        - 不相信地，怀疑地
-    - n.
-      - `incredulity`
-        - 怀疑；不轻信，不易相信
+    - adv. incredulously 不相信地，怀疑地
+    - n. incredulity 怀疑；不轻信，不易相信
   - 近义词
-    - adj.
-      - 怀疑的；不轻信的
-        - `skeptical`
-        - `suspicious`
+    - adj. 怀疑的；不轻信的
+      - skeptical
+      - suspicious
   - 例句
-    - `‘You sold the car?’ she asked, incredulous.`
-      - “你把车卖了？”她难以置信地问道。
-
+    - ‘You sold the car?’ she asked, incredulous. “你把车卖了？”她难以置信地问道。
+  - 补充

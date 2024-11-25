@@ -1,32 +1,24 @@
 - staunch
   - 发音
-    - 英
-      - `/stɔːntʃ/`
-    - 美
-      - `/stɔntʃ/`
+    - 英 /stɔːntʃ/
+    - 美 /stɔntʃ/
   - 词义
-    - adj.
-      - 坚定的，忠诚的
-        - `giving strong loyal support to another person, organization, belief etc`
+    - adj. 坚定的，忠诚的
+      - giving strong loyal support to another person, organization, belief etc
   - 记忆
     - st(站) + aunch → 始终站在某人的身后 → 坚定的， 忠诚的
   - 同根词
-    - adv.
-      - `staunchly`
-        - 坚定地；忠实地
+    - adv. staunchly 坚定地；忠实地
   - 近义词
-    - adj.
-      - 坚定的；忠诚的；坚固的
-        - `committed`
-        - `loving`
-        - `firm`
-        - `confirmed`
-        - `devoted`
-    - vt.
-      - 止住；止血
-        - `rein in`
-        - `rein up`
+    - adj. 坚定的；忠诚的；坚固的
+      - committed
+      - loving
+      - firm
+      - confirmed
+      - devoted
+    - vt. 止住；止血
+      - rein in
+      - rein up
   - 例句
-    - `a staunch conservative`
-      - 忠实的保守党党员
-
+    - a staunch conservative 忠实的保守党党员
+  - 补充

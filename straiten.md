@@ -1,24 +1,16 @@
 - straiten
   - 发音
-    - 英
-      - `/'str3ɪtən/`
-    - 美
-      - `/'streitən/`
+    - 英 /'str3ɪtən/
+    - 美 /'streitən/
   - 词义
-    - v.
-      - 使为难；使变窄
+    - v. 使为难；使变窄
   - 同根词
-    - adj.
-      - `strait`
-        - 狭窄的；苦恼的
-    - n.
-      - `strait`
-        - 海峡；困境
+    - adj. strait 狭窄的；苦恼的
+    - n. strait 海峡；困境
   - 近义词
-    - vt.
-      - 限制；使…穷困；使…为难
-        - `block`
-        - `set a limit to`
-    - vi.
-      - 变窄；变紧
-        - `narrow down`
+    - vt. 限制；使…穷困；使…为难
+      - block
+      - set a limit to
+    - vi. 变窄；变紧
+      - narrow down
+  - 补充

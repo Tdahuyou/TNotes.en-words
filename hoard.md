@@ -1,33 +1,22 @@
 - hoard
   - 发音
-    - 英
-      - `/hɔːrd/`
-    - 美
-      - `/hɔrd/`
+    - 英 /hɔːrd/
+    - 美 /hɔrd/
   - 词义
-    - v.
-      - 贮藏，囤积
-        - `to collect and save large amounts of food, money etc, especially when it is not necessary to do so`
-    - n.
-      - 储藏，贮存
-        - `a collection of things that someone hides somewhere, especially so they can use them later`
+    - v. 贮藏，囤积
+      - to collect and save large amounts of food, money etc, especially when it is not necessary to do so
+    - n. 储藏，贮存
+      - a collection of things that someone hides somewhere, especially so they can use them later
   - 记忆
     - 把东西藏(hoard)在木板(board)后
   - 同根词
-    - n.
-      - `hoarding`
-        - [贸易] 囤积；贮藏；临时围墙
-      - `hoarder`
-        - 贮藏者；囤积者
-    - v.
-      - `hoarding`
-        - 贮藏（hoard的ing形式）
+    - n. hoarding [贸易] 囤积；贮藏；临时围墙
+    - n. hoarder 贮藏者；囤积者
+    - v. hoarding 贮藏（hoard的ing形式）
   - 近义词
-    - vt.
-      - 贮藏
-        - `store`
-        - `reposit`
+    - vt. 贮藏
+      - store
+      - reposit
   - 例句
-    - `families who hoarded food during the strike`
-      - 罢工期间囤积食品的家庭
-
+    - families who hoarded food during the strike 罢工期间囤积食品的家庭
+  - 补充

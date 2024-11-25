@@ -1,25 +1,18 @@
 - malnutrition
   - 发音
-    - 英
-      - `/ˌmælnuː'trɪʃn/`
-    - 美
-      - `/'mælnʊ'trɪʃən/`
+    - 英 /ˌmælnuː'trɪʃn/
+    - 美 /'mælnʊ'trɪʃən/
   - 词义
-    - n.
-      - 营养不良
-        - `when someone becomes ill or weak because they have not eaten enough good food`
+    - n. 营养不良
+      - when someone becomes ill or weak because they have not eaten enough good food
   - 记忆
     - mal(坏) + nutrition(营养) → 营养不好 → 营养不良
   - 同根词
-    - adj.
-      - `malnourished`
-        - 营养不良的；营养失调的
+    - adj. malnourished 营养不良的；营养失调的
   - 近义词
-    - n.
-      - 营养失调，[医]营养不良
-        - `dystrophy`
-        - `nutritional deficiency`
+    - n. 营养失调，[医]营养不良
+      - dystrophy
+      - nutritional deficiency
   - 例句
-    - `refugees suffering from malnutrition`
-      - 营养不良的难民
-
+    - refugees suffering from malnutrition 营养不良的难民
+  - 补充

@@ -1,53 +1,32 @@
 - whale
   - 发音
-    - 英
-      - `/weɪl/`
-    - 美
-      - `/wel/`
+    - 英 /weɪl/
+    - 美 /wel/
   - 词义
-    - n.
-      - 鲸
-        - `a very large animal that lives in the sea and looks like a fish, but is actually a mammal`
-    - v.
-      - 捕鲸
+    - n. 鲸
+      - a very large animal that lives in the sea and looks like a fish, but is actually a mammal
+    - v. 捕鲸
   - 同根词
-    - n.
-      - `whaler`
-        - 捕鲸船；捕鲸者
+    - n. whaler 捕鲸船；捕鲸者
   - 近义词
-    - vt.
-      - 猛揍；使惨败
-        - `slaughter`
-    - n.
-      - [脊椎]鲸；巨大的东西
-        - `bouncer`
-        - `colossus`
+    - vt. 猛揍；使惨败
+      - slaughter
+    - n. [脊椎]鲸；巨大的东西
+      - bouncer
+      - colossus
   - 短语
-    - `a whale of a`
-      - [美国口语]了不起的，非常大的，极大的；极好的，精彩的 
-    - `blue whale`
-      - [动]蓝鲸 
-    - `sperm whale`
-      - 巨头鲸；抹香鲸（等于Physeter catodon） 
-    - `killer whale`
-      - [动]逆戟鲸 
-    - `white whale`
-      - 白鲸 
-    - `whale meat`
-      - 鲸鱼肉 
-    - `right whale`
-      - 露脊鲸 
-    - `humpback whale`
-      - 座头鲸；驼背鲸 
-    - `whale shark`
-      - 鲸鲨 
-    - `beaked whale`
-      - 突吻鲸；[动]剑吻鲸；喙鲸 
+    - a whale of a [美国口语]了不起的，非常大的，极大的；极好的，精彩的
+    - blue whale [动]蓝鲸
+    - sperm whale 巨头鲸；抹香鲸（等于Physeter catodon）
+    - killer whale [动]逆戟鲸
+    - white whale 白鲸
+    - whale meat 鲸鱼肉
+    - right whale 露脊鲸
+    - humpback whale 座头鲸；驼背鲸
+    - whale shark 鲸鲨
+    - beaked whale 突吻鲸；[动]剑吻鲸；喙鲸
   - 例句
-    - `The receding tide stranded the whale.`
-      - 退潮把鲸鱼搁浅在海滩上。
-    - `So whale come out fish, because they are fish obviously.`
-      - 所以鲸鱼就是鱼，因为他们显然是鱼。
-    - `This sense of revelation is in part due to our changing attitude towards the whale.`
-      - 与鲸鱼感到关联部分是由于和我们对鲸鱼态度发生了变化。
-
+    - The receding tide stranded the whale. 退潮把鲸鱼搁浅在海滩上。
+    - So whale come out fish, because they are fish obviously. 所以鲸鱼就是鱼，因为他们显然是鱼。
+    - This sense of revelation is in part due to our changing attitude towards the whale. 与鲸鱼感到关联部分是由于和我们对鲸鱼态度发生了变化。
+  - 补充

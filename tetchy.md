@@ -1,19 +1,14 @@
 - tetchy
   - 发音
-    - 英
-      - `/'tetʃɪ/`
-    - 美
-      - `/'tɛtʃi/`
+    - 英 /'tetʃɪ/
+    - 美 /'tɛtʃi/
   - 词义
-    - adj.
-      - 易暴怒的,脾气怪的
-        - `likely to get angry or upset easily`
+    - adj. 易暴怒的,脾气怪的
+      - likely to get angry or upset easily
   - 近义词
-    - adj.
-      - 易怒的，不和悦的；暴躁的
-        - `fierce`
-        - `passionate`
+    - adj. 易怒的，不和悦的；暴躁的
+      - fierce
+      - passionate
   - 例句
-    - `Jane’s a bit tetchy this morning.`
-      - 简今天上午有点犯急。
-
+    - Jane’s a bit tetchy this morning. 简今天上午有点犯急。
+  - 补充

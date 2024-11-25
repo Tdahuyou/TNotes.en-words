@@ -1,39 +1,26 @@
 - corporal
   - 发音
-    - 英
-      - `/'kɔːpərəl/`
-    - 美
-      - `/'kɔrpərəl/`
+    - 英 /'kɔːpərəl/
+    - 美 /'kɔrpərəl/
   - 词义
-    - adj.
-      - 肉体的；身体的
-        - `of or relating to the body; bodily `
+    - adj. 肉体的；身体的
+      - of or relating to the body; bodily 
   - 记忆
     - corp (身体) + or + al (…的) → 身体的
   - 同根词
-    - adj.
-      - `corporeal`
-        - 物质的，有形的；肉体的
-      - `corporeality`
-        - 有形的
-    - n.
-      - `corporality`
-        - 形体性；肉体性
-      - `corporeality`
-        - 肉体的存在；物质性
+    - adj. corporeal 物质的，有形的；肉体的
+    - adj. corporeality 有形的
+    - n. corporality 形体性；肉体性
+    - n. corporeality 肉体的存在；物质性
   - 近义词
-    - adj.
-      - 肉体的，身体的
-        - `physical`
-        - `personal`
-        - `material`
-    - n.
-      - 下士
-        - `Petty Officer Second Class`
+    - adj. 肉体的，身体的
+      - physical
+      - personal
+      - material
+    - n. 下士
+      - Petty Officer Second Class
   - 短语
-    - `corporal punishment`
-      - 体罚；肉刑 
+    - corporal punishment 体罚；肉刑
   - 例句
-    - `Beyond the prelature's adherence to the arcane ritual of corporal mortification, their views on women were medieval at best.`
-      - 且不说这个教派固守着肉体惩罚的秘密仪式，他们对女人的看法充其量也只是中世纪的。
-
+    - Beyond the prelature's adherence to the arcane ritual of corporal mortification, their views on women were medieval at best. 且不说这个教派固守着肉体惩罚的秘密仪式，他们对女人的看法充其量也只是中世纪的。
+  - 补充

@@ -1,15 +1,12 @@
 - hobbyhorse
   - 发音
-    - 英
-      - `/'hɒbɪhɔːs/`
-    - 美
-      - `/'hɔbihɔ:s/`
+    - 英 /'hɒbɪhɔːs/
+    - 美 /'hɔbihɔ:s/
   - 词义
-    - n.
-      - 木马；竹马；摇动木马
-        - `an old-fashioned toy made of a horse’s head on a stick`
+    - n. 木马；竹马；摇动木马
+      - an old-fashioned toy made of a horse’s head on a stick
   - 近义词
-    - n.
-      - 木马；竹马；摇动木马
-        - `wooden horse`
-        - `buck house`
+    - n. 木马；竹马；摇动木马
+      - wooden horse
+      - buck house
+  - 补充

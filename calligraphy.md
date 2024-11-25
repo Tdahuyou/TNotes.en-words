@@ -1,32 +1,20 @@
 - calligraphy
   - 发音
-    - 英
-      - `/kə'lɪgrəfɪ/`
-    - 美
-      - `/kə'lɪɡrəfi/`
+    - 英 /kə'lɪgrəfɪ/
+    - 美 /kə'lɪɡrəfi/
   - 词义
-    - n.
-      - 书法；笔迹
-        - `the art of producing beautiful writing using special pens or brushes, or the writing produced this way`
+    - n. 书法；笔迹
+      - the art of producing beautiful writing using special pens or brushes, or the writing produced this way
   - 同根词
-    - adj.
-      - `calligraphic`
-        - 书法的；缮写的
-    - n.
-      - `calligrapher`
-        - 书法家
-      - `calligraph`
-        - 漂亮的书写，书法
-      - `calligraphist`
-        - 书法家（等于calligrapher）
+    - adj. calligraphic 书法的；缮写的
+    - n. calligrapher 书法家
+    - n. calligraph 漂亮的书写，书法
+    - n. calligraphist 书法家（等于calligrapher）
   - 近义词
-    - n.
-      - [语]书法；笔迹
-        - `writing`
-        - `penmanship`
+    - n. [语]书法；笔迹
+      - writing
+      - penmanship
   - 例句
-    - `His calligraphy is vigorous and forceful.`
-      - 他的书法苍劲有力。
-    - `His effortless calligraphy has an unconventional grace of its own.`
-      - 他的书法， 信笔写来， 十分超脱。
-
+    - His calligraphy is vigorous and forceful. 他的书法苍劲有力。
+    - His effortless calligraphy has an unconventional grace of its own. 他的书法， 信笔写来， 十分超脱。
+  - 补充

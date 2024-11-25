@@ -1,32 +1,21 @@
 - falsity
   - 发音
-    - 英
-      - `/'fɔːlsɪtɪ; 'fɒlsɪtɪ/`
-    - 美
-      - `/'fɔlsəti/`
+    - 英 /'fɔːlsɪtɪ; 'fɒlsɪtɪ/
+    - 美 /'fɔlsəti/
   - 词义
-    - n.
-      - 虚伪；错误；谎言；不真实
-        - `the quality of being false or not true`
+    - n. 虚伪；错误；谎言；不真实
+      - the quality of being false or not true
   - 同根词
-    - adj.
-      - `false`
-        - 错误的；虚伪的；伪造的
-    - adv.
-      - `false`
-        - 欺诈地
-      - `falsely`
-        - 错误地；虚伪地；不实地
-    - n.
-      - `falsehood`
-        - 说谎；假话；不真实；错误的信仰
-      - `falseness`
-        - 不忠实；虚伪；不正确
+    - adj. false 错误的；虚伪的；伪造的
+    - adv. false 欺诈地
+    - adv. falsely 错误地；虚伪地；不实地
+    - n. falsehood 说谎；假话；不真实；错误的信仰
+    - n. falseness 不忠实；虚伪；不正确
   - 近义词
-    - n.
-      - 虚伪；错误；谎言；不真实
-        - `error`
-        - `mistake`
-        - `fault`
-        - `lie`
-        - `fiction`
+    - n. 虚伪；错误；谎言；不真实
+      - error
+      - mistake
+      - fault
+      - lie
+      - fiction
+  - 补充

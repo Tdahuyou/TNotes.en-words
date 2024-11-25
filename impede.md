@@ -1,29 +1,21 @@
 - impede
   - 发音
-    - 英
-      - `/ɪm'piːd/`
-    - 美
-      - `/ɪm'pid/`
+    - 英 /ɪm'piːd/
+    - 美 /ɪm'pid/
   - 词义
-    - vt.
-      - 妨碍，阻碍，阻止
-        - `to make it difficult for someone or something to move forward or make progress`
+    - vt. 妨碍，阻碍，阻止
+      - to make it difficult for someone or something to move forward or make progress
   - 记忆
     - im(在…中) + ped(脚) + e → 在…中插一脚 → 妨碍， 阻碍
   - 同根词
-    - n.
-      - `impediment`
-        - 口吃；妨碍；阻止
-      - `impedance`
-        - [电] 阻抗
+    - n. impediment 口吃；妨碍；阻止
+    - n. impedance [电] 阻抗
   - 近义词
-    - vt.
-      - 阻碍；妨碍；阻止
-        - `dispute`
-        - `let`
-        - `stem`
-        - `slow`
+    - vt. 阻碍；妨碍；阻止
+      - dispute
+      - let
+      - stem
+      - slow
   - 例句
-    - `Storms at sea impeded our progress.`
-      - 海上风暴阻碍了我们的航程。
-
+    - Storms at sea impeded our progress. 海上风暴阻碍了我们的航程。
+  - 补充

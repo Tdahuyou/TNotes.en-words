@@ -1,27 +1,19 @@
 - expound
   - 发音
-    - 英
-      - `/ɪk'spaʊnd; ek-/`
-    - 美
-      - `/ɪk'spaʊnd/`
+    - 英 /ɪk'spaʊnd; ek-/
+    - 美 /ɪk'spaʊnd/
   - 词义
-    - v.
-      - 解释；详细说明
-        - `to explain or talk about something in detail`
+    - v. 解释；详细说明
+      - to explain or talk about something in detail
   - 同根词
-    - n.
-      - `expounder`
-        - 解释者
+    - n. expounder 解释者
   - 近义词
-    - vt.
-      - 解释；详细说明
-        - `specify`
-        - `translate`
-    - vi.
-      - 解释；详细说明
-        - `account`
-        - `to interpret`
+    - vt. 解释；详细说明
+      - specify
+      - translate
+    - vi. 解释；详细说明
+      - account
+      - to interpret
   - 例句
-    - `Schmidt continued to expound his views on economics and politics.`
-      - 施密特继续阐释他关于经济与政治的观点。
-
+    - Schmidt continued to expound his views on economics and politics. 施密特继续阐释他关于经济与政治的观点。
+  - 补充

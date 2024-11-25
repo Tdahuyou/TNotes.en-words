@@ -1,24 +1,17 @@
 - pervious
   - 发音
-    - 英
-      - `/'pəːviəs/`
-    - 美
-      - `/'pɝvɪəs/`
+    - 英 /'pəːviəs/
+    - 美 /'pɝvɪəs/
   - 词义
-    - adj.
-      - 能被通过的
-        - `able to be penetrated; permeable `
+    - adj. 能被通过的
+      - able to be penetrated; permeable 
   - 记忆
     - per (通过) + vious → 能被通过的
   - 同根词
-    - adj.
-      - `pervasive`
-        - 普遍的；到处渗透的
-    - n.
-      - `perviousness`
-        - 渗透性；[地质][流] 透水性
+    - adj. pervasive 普遍的；到处渗透的
+    - n. perviousness 渗透性；[地质][流] 透水性
   - 近义词
-    - adj.
-      - 能被通过的；能接受的；可渗透的
-        - `receptible`
-        - `penetrable`
+    - adj. 能被通过的；能接受的；可渗透的
+      - receptible
+      - penetrable
+  - 补充

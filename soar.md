@@ -1,33 +1,22 @@
 - soar
   - 发音
-    - 英
-      - `/sɔː/`
-    - 美
-      - `/sɔr/`
+    - 英 /sɔː/
+    - 美 /sɔr/
   - 词义
-    - v.
-      - 高飞,昂扬
-        - `if your  spirits (= the way you are feeling, for example happy, sad etc )  or hopes soar, you begin to feel very happy or hopeful`
-    - n.
-      - 高涨程度
+    - v. 高飞,昂扬
+      - if your  spirits (= the way you are feeling, for example happy, sad etc )  or hopes soar, you begin to feel very happy or hopeful
+    - n. 高涨程度
   - 同根词
-    - adj.
-      - `soaring`
-        - 翱翔的；高耸的；猛增的
-    - v.
-      - `soaring`
-        - 高耸（soar的现在分词形式）；高飞；猛增
+    - adj. soaring 翱翔的；高耸的；猛增的
+    - v. soaring 高耸（soar的现在分词形式）；高飞；猛增
   - 近义词
-    - vi.
-      - 高飞；高耸；往上飞舞
-        - `rise`
-        - `tower`
-        - `rear`
-    - n.
-      - 高飞；高涨
-        - `flying high`
-        - `upsurge`
+    - vi. 高飞；高耸；往上飞舞
+      - rise
+      - tower
+      - rear
+    - n. 高飞；高涨
+      - flying high
+      - upsurge
   - 例句
-    - `Adam’s smile sent her spirits soaring .`
-      - 亚当的微笑让她飘飘然了。
-
+    - Adam’s smile sent her spirits soaring . 亚当的微笑让她飘飘然了。
+  - 补充

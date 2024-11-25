@@ -1,28 +1,19 @@
 - admonish
   - 发音
-    - 英
-      - `/əd'mɔniʃ/`
-    - 美
-      - `/əd'mɑnɪʃ/`
+    - 英 /əd'mɔniʃ/
+    - 美 /əd'mɑnɪʃ/
   - 词义
-    - vt.
-      - 劝告，训诫，警告
-        - `to tell someone severely that they have done something wrong`
+    - vt. 劝告，训诫，警告
+      - to tell someone severely that they have done something wrong
   - 记忆
     - ad (加强) + mon (警告) + ish (使) → 警告， 训诫
   - 同根词
-    - adj.
-      - `admonitory`
-        - 劝告的，警告的
-    - n.
-      - `admonishment`
-        - 训戒；警告（等于admonition）
+    - adj. admonitory 劝告的，警告的
+    - n. admonishment 训戒；警告（等于admonition）
   - 近义词
-    - vt.
-      - 告诫；劝告
-        - `correct`
-        - `recommend`
+    - vt. 告诫；劝告
+      - correct
+      - recommend
   - 例句
-    - `They admonished me for taking risks with my health.`
-      - 他们告诫我不要拿自己的健康来冒险。
-
+    - They admonished me for taking risks with my health. 他们告诫我不要拿自己的健康来冒险。
+  - 补充

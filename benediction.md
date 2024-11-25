@@ -1,25 +1,17 @@
 - benediction
   - 发音
-    - 英
-      - `/ˌbeni'dikʃən/`
-    - 美
-      - `/'bɛnə'dɪkʃən/`
+    - 英 /ˌbeni'dikʃən/
+    - 美 /'bɛnə'dɪkʃən/
   - 词义
-    - n.
-      - 祝福
-        - `a Christian prayer that asks God to protect and help someone`
+    - n. 祝福
+      - a Christian prayer that asks God to protect and help someone
   - 同根词
-    - adj.
-      - `benedictive`
-        - 赐福的；祈求式的
-      - `benedictory`
-        - 祝福的；感谢的
+    - adj. benedictive 赐福的；祈求式的
+    - adj. benedictory 祝福的；感谢的
   - 近义词
-    - n.
-      - 祝福；赐福；恩赐；祈求上帝赐福的仪式
-        - `wish`
-        - `blessing`
+    - n. 祝福；赐福；恩赐；祈求上帝赐福的仪式
+      - wish
+      - blessing
   - 例句
-    - `The minister pronounced the benediction.`
-      - 牧师做了赐福祈祷。
-
+    - The minister pronounced the benediction. 牧师做了赐福祈祷。
+  - 补充

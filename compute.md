@@ -1,66 +1,41 @@
 - compute
   - 发音
-    - 英
-      - `/kəm'pjuːt/`
-    - 美
-      - `/kəm'pjʊt/`
+    - 英 /kəm'pjuːt/
+    - 美 /kəm'pjʊt/
   - 词义
-    - v.
-      - 计算，估算
-        - `to calculate a result, answer, sum etc`
+    - v. 计算，估算
+      - to calculate a result, answer, sum etc
   - 记忆
     - com(表加强) + put(思考) + e → 一再思考 → 计算
   - 同根词
-    - adj.
-      - `computational`
-        - 计算的
-      - `computerized`
-        - 电脑的；电脑化的；用电脑处理的
-      - `computerised`
-        - 电脑化的；计算化的
-      - `computable`
-        - 可计算的
-    - n.
-      - `computer`
-        - 计算机；电脑；电子计算机
-      - `computation`
-        - 估计，计算
-      - `computing`
-        - 计算；处理；从事电脑工作
-      - `computerization`
-        - 电脑化；电子计算机化工作
-    - v.
-      - `computing`
-        - 计算（compute的现在分词形式）
-      - `computerized`
-        - 用电子计算机控制（computerize的过去分词）
-      - `computerised`
-        - 使电脑化（computerise的过去分词形式）；用电脑处理
-    - vt.
-      - `computerize`
-        - 使电脑化；使计算机化；用电脑处理
-      - `computerise`
-        - （英）用计算机处理；给…装备计算机（等于computerize）
+    - adj. computational 计算的
+    - adj. computerized 电脑的；电脑化的；用电脑处理的
+    - adj. computerised 电脑化的；计算化的
+    - adj. computable 可计算的
+    - n. computer 计算机；电脑；电子计算机
+    - n. computation 估计，计算
+    - n. computing 计算；处理；从事电脑工作
+    - n. computerization 电脑化；电子计算机化工作
+    - v. computing 计算（compute的现在分词形式）
+    - v. computerized 用电子计算机控制（computerize的过去分词）
+    - v. computerised 使电脑化（computerise的过去分词形式）；用电脑处理
+    - vt. computerize 使电脑化；使计算机化；用电脑处理
+    - vt. computerise （英）用计算机处理；给…装备计算机（等于computerize）
   - 近义词
-    - vt.
-      - [数]计算；估算；用计算机计算
-        - `cast`
-        - `figure`
-    - vi.
-      - [数]计算；估算；推断
-        - `figure`
-        - `cast`
-    - n.
-      - [数]计算；估计；推断
-        - `calculation`
-        - `estimation`
-        - `appraisal`
-        - `valuation`
-        - `count`
+    - vt. [数]计算；估算；用计算机计算
+      - cast
+      - figure
+    - vi. [数]计算；估算；推断
+      - figure
+      - cast
+    - n. [数]计算；估计；推断
+      - calculation
+      - estimation
+      - appraisal
+      - valuation
+      - count
   - 短语
-    - `beyond compute`
-      - 不可计量，无法计算；难以估计 
+    - beyond compute 不可计量，无法计算；难以估计
   - 例句
-    - `Final results had not yet been computed.`
-      - 最终的结果还未计算出来。
-
+    - Final results had not yet been computed. 最终的结果还未计算出来。
+  - 补充

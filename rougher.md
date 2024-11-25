@@ -1,9 +1,7 @@
 - rougher
   - 发音
-    - 英
-      - `/undefined/`
-    - 美
-      - `/undefined/`
+    - 英 /undefined/
+    - 美 /undefined/
   - 词义
-    - n.
-      - 粗切机,粗选槽
+    - n. 粗切机,粗选槽
+  - 补充

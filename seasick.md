@@ -1,18 +1,12 @@
 - seasick
   - 发音
-    - 英
-      - `/'siːsɪk/`
-    - 美
-      - `/'sisɪk/`
+    - 英 /'siːsɪk/
+    - 美 /'sisɪk/
   - 词义
-    - adj.
-      - 晕船的
-        - `feeling ill when you travel in a boat, because of the movement of the boat in the water`
+    - adj. 晕船的
+      - feeling ill when you travel in a boat, because of the movement of the boat in the water
   - 同根词
-    - n.
-      - `seasickness`
-        - 晕船
+    - n. seasickness 晕船
   - 例句
-    - `It was quite rough at times, and she was seasick.`
-      - 海上有时波涛汹涌，她就晕船。
-
+    - It was quite rough at times, and she was seasick. 海上有时波涛汹涌，她就晕船。
+  - 补充

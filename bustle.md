@@ -1,50 +1,32 @@
 - bustle
   - 发音
-    - 英
-      - `/'bʌsl/`
-    - 美
-      - `/'bʌsl/`
+    - 英 /'bʌsl/
+    - 美 /'bʌsl/
   - 词义
-    - vi.
-      - 奔忙，匆匆忙忙
-        - `to move around quickly, looking very busy`
-    - n.
-      - 忙乱嘈杂，喧嚣
-        - `Bustle is busy, noisy activity`
+    - vi. 奔忙，匆匆忙忙
+      - to move around quickly, looking very busy
+    - n. 忙乱嘈杂，喧嚣
+      - Bustle is busy, noisy activity
   - 同根词
-    - adj.
-      - `busy`
-        - 忙碌的；热闹的；正被占用的
-      - `bustling`
-        - 熙熙攘攘的；忙乱的
-    - n.
-      - `busyness`
-        - 忙碌，繁忙
-    - vt.
-      - `busy`
-        - 使忙于
+    - adj. busy 忙碌的；热闹的；正被占用的
+    - adj. bustling 熙熙攘攘的；忙乱的
+    - n. busyness 忙碌，繁忙
+    - vt. busy 使忙于
   - 近义词
-    - vi.
-      - 喧闹；忙乱；充满
-        - `whoop up`
-        - `abound with`
-    - vt.
-      - 使忙碌；催促
-        - `crowd`
-        - `occupy`
-        - `exercise`
-    - n.
-      - 喧闹；活跃；裙撑；热闹的活动
-        - `activity`
-        - `rumpus`
+    - vi. 喧闹；忙乱；充满
+      - whoop up
+      - abound with
+    - vt. 使忙碌；催促
+      - crowd
+      - occupy
+      - exercise
+    - n. 喧闹；活跃；裙撑；热闹的活动
+      - activity
+      - rumpus
   - 短语
-    - `hustle and bustle`
-      - 熙熙攘攘，忙碌 
-    - `bustle about`
-      - 忙碌；东奔西跑 
+    - hustle and bustle 熙熙攘攘，忙碌
+    - bustle about 忙碌；东奔西跑
   - 例句
-    - `My mother bustled around the kitchen.`
-      - 我母亲在厨房里忙得团团转。
-    - `...the hustle and bustle of modern life.`
-      - …现代生活的忙碌喧嚣。
-
+    - My mother bustled around the kitchen. 我母亲在厨房里忙得团团转。
+    - ...the hustle and bustle of modern life. …现代生活的忙碌喧嚣。
+  - 补充

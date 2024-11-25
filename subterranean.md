@@ -1,29 +1,21 @@
 - subterranean
   - 发音
-    - 英
-      - `/,sʌbtə'reɪnɪən/`
-    - 美
-      - `/,sʌbtə'renɪən/`
+    - 英 /,sʌbtə'reɪnɪən/
+    - 美 /,sʌbtə'renɪən/
   - 词义
-    - adj.
-      - 地下的
-        - `beneath the surface of the earth`
+    - adj. 地下的
+      - beneath the surface of the earth
   - 同根词
-    - adj.
-      - `subterraneous`
-        - 地下的；隐匿的（等于 subterranean）
+    - adj. subterraneous 地下的；隐匿的（等于 subterranean）
   - 近义词
-    - adj.
-      - 地下的；秘密的；隐蔽的
-        - `underground`
-        - `secret`
-        - `chamber`
-        - `inside`
-        - `cabinet`
+    - adj. 地下的；秘密的；隐蔽的
+      - underground
+      - secret
+      - chamber
+      - inside
+      - cabinet
   - 短语
-    - `subterranean water`
-      - 地下水 
+    - subterranean water 地下水
   - 例句
-    - `subterranean passage`
-      - 地下通道
-
+    - subterranean passage 地下通道
+  - 补充

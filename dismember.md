@@ -1,23 +1,16 @@
 - dismember
   - 发音
-    - 英
-      - `/dɪs'membə/`
-    - 美
-      - `/dɪs'mɛmbɚ/`
+    - 英 /dɪs'membə/
+    - 美 /dɪs'mɛmbɚ/
   - 词义
-    - v.
-      - 肢解,割断手足
-        - `to cut a body into pieces or tear it apart`
+    - v. 肢解,割断手足
+      - to cut a body into pieces or tear it apart
   - 同根词
-    - n.
-      - `dismemberment`
-        - 肢解；分割
+    - n. dismemberment 肢解；分割
   - 近义词
-    - vt.
-      - 肢解，割断手足；分割，瓜分
-        - `segment`
-        - `chainsaw`
+    - vt. 肢解，割断手足；分割，瓜分
+      - segment
+      - chainsaw
   - 例句
-    - `She then dismembered him, hiding parts of his body in the cellar.`
-      - 她接着将他的尸体肢解，把几块碎尸藏进了地窖。
-
+    - She then dismembered him, hiding parts of his body in the cellar. 她接着将他的尸体肢解，把几块碎尸藏进了地窖。
+  - 补充

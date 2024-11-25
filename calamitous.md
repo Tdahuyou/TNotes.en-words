@@ -1,26 +1,19 @@
 - calamitous
   - 发音
-    - 英
-      - `/kə'læmɪtəs/`
-    - 美
-      - `/kə'læmɪtəs/`
+    - 英 /kə'læmɪtəs/
+    - 美 /kə'læmɪtəs/
   - 词义
-    - adj.
-      - 灾难性的
-        - `If you describe an event or situation as calamitous, you mean it is very unfortunate or serious`
+    - adj. 灾难性的
+      - If you describe an event or situation as calamitous, you mean it is very unfortunate or serious
   - 记忆
     - 来自calamity(n. 灾难)
   - 同根词
-    - n.
-      - `calamity`
-        - 灾难；不幸事件
+    - n. calamity 灾难；不幸事件
   - 近义词
-    - adj.
-      - 灾难的，悲惨的；不幸的
-        - `evil`
-        - `catastrophic`
-        - `miserable`
+    - adj. 灾难的，悲惨的；不幸的
+      - evil
+      - catastrophic
+      - miserable
   - 例句
-    - `...the calamitous state of the country.`
-      - ...该国家的悲惨境况。
-
+    - ...the calamitous state of the country. ...该国家的悲惨境况。
+  - 补充

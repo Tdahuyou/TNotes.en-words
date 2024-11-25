@@ -1,20 +1,15 @@
 - chicanery
   - 发音
-    - 英
-      - `/ʃi'keinəri/`
-    - 美
-      - `/ʃi'keinəri/`
+    - 英 /ʃi'keinəri/
+    - 美 /ʃi'keinəri/
   - 词义
-    - n.
-      - 强辩，强词夺理；狡辩，欺骗
+    - n. 强辩，强词夺理；狡辩，欺骗
   - 记忆
     - chic (聪明) + anery → 耍小聪明 → 狡辩， 欺骗
   - 近义词
-    - n.
-      - 狡辩；欺骗；强词夺理
-        - `fraud`
-        - `deception`
+    - n. 狡辩；欺骗；强词夺理
+      - fraud
+      - deception
   - 例句
-    - `Clearly there is some chicanery going on.`
-      - 这里面显然有诈。
-
+    - Clearly there is some chicanery going on. 这里面显然有诈。
+  - 补充

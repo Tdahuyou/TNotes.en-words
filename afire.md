@@ -1,21 +1,16 @@
 - afire
   - 发音
-    - 英
-      - `/ə'faiə/`
-    - 美
-      - `/ə'faɪr/`
+    - 英 /ə'faiə/
+    - 美 /ə'faɪr/
   - 词义
-    - adj.
-      - 燃烧着的
-        - `burning`
+    - adj. 燃烧着的
+      - burning
   - 记忆
     - a (加强语气) + fire (点燃； 火) → 燃烧着的
   - 近义词
-    - adj.
-      - 燃烧的；着火的
-        - `burning`
-        - `conflagrant`
+    - adj. 燃烧的；着火的
+      - burning
+      - conflagrant
   - 例句
-    - `One of the boats had been set afire .`
-      - 其中有一艘船遭人纵火。
-
+    - One of the boats had been set afire . 其中有一艘船遭人纵火。
+  - 补充

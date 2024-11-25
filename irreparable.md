@@ -1,27 +1,17 @@
 - irreparable
   - 发音
-    - 英
-      - `/ɪ'rep(ə)rəb(ə)l/`
-    - 美
-      - `/ɪ'rɛpərəbl/`
+    - 英 /ɪ'rep(ə)rəb(ə)l/
+    - 美 /ɪ'rɛpərəbl/
   - 词义
-    - adj.
-      - 无法修复的，不能挽回的
-        - `irreparable damage, harm etc is so bad that it can never be repaired or made better`
+    - adj. 无法修复的，不能挽回的
+      - irreparable damage, harm etc is so bad that it can never be repaired or made better
   - 同根词
-    - adj.
-      - `irreplaceable`
-        - 不能替代的，不能调换的
-      - `irreproducible`
-        - 不能繁殖的；不能再现的；不能复制的
-    - adv.
-      - `irreparably`
-        - 不能恢复地；不能挽回地
+    - adj. irreplaceable 不能替代的，不能调换的
+    - adj. irreproducible 不能繁殖的；不能再现的；不能复制的
+    - adv. irreparably 不能恢复地；不能挽回地
   - 近义词
-    - adj.
-      - 不能挽回的；不能修补的
-        - `remediless`
+    - adj. 不能挽回的；不能修补的
+      - remediless
   - 例句
-    - `Extensive mining will cause irreparable damage to the area.`
-      - 大量采矿会对该地区造成无法弥补的损害。
-
+    - Extensive mining will cause irreparable damage to the area. 大量采矿会对该地区造成无法弥补的损害。
+  - 补充

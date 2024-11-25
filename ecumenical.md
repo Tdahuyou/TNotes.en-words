@@ -1,26 +1,19 @@
 - ecumenical
   - 发音
-    - 英
-      - `/ˌiːkjuː'menɪkl/`
-    - 美
-      - `/,ikju'mɛnɪkl/`
+    - 英 /ˌiːkjuː'menɪkl/
+    - 美 /,ikju'mɛnɪkl/
   - 词义
-    - adj.
-      - 世界范围的，普遍的
+    - adj. 世界范围的，普遍的
   - 记忆
     - “一口闷” → 把世界一口闷下 → 世界范围的
   - 同根词
-    - adj.
-      - `ecumenic`
-        - 普通的，一般的
-    - n.
-      - `ecumenism`
-        - 泛基督教主义；普世教会主义
+    - adj. ecumenic 普通的，一般的
+    - n. ecumenism 泛基督教主义；普世教会主义
   - 近义词
-    - adj.
-      - 普遍的；世界范围的；全基督教的
-        - `widespread`
-        - `universal`
-        - `ruling`
-        - `generalized`
-        - `pervasive`
+    - adj. 普遍的；世界范围的；全基督教的
+      - widespread
+      - universal
+      - ruling
+      - generalized
+      - pervasive
+  - 补充

@@ -1,22 +1,16 @@
 - ketchup
   - 发音
-    - 英
-      - `/'ketʃəp; -ʌp/`
-    - 美
-      - `/'kɛtʃəp/`
+    - 英 /'ketʃəp; -ʌp/
+    - 美 /'kɛtʃəp/
   - 词义
-    - n.
-      - 番茄酱
-        - `a thick cold red sauce made from tomatoes that you put on food`
+    - n. 番茄酱
+      - a thick cold red sauce made from tomatoes that you put on food
   - 近义词
-    - n.
-      - 蕃茄酱
-        - `tomato catchup`
-        - `tomato paste`
+    - n. 蕃茄酱
+      - tomato catchup
+      - tomato paste
   - 短语
-    - `tomato ketchup`
-      - n. 蕃茄酱 
+    - tomato ketchup n. 蕃茄酱
   - 例句
-    - `a bottle of tomato ketchup`
-      - 一瓶番茄酱
-
+    - a bottle of tomato ketchup 一瓶番茄酱
+  - 补充

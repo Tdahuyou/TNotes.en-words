@@ -1,42 +1,24 @@
 - sailor
   - 发音
-    - 英
-      - `/'seɪlə/`
-    - 美
-      - `/'selɚ/`
+    - 英 /'seɪlə/
+    - 美 /'selɚ/
   - 词义
-    - n.
-      - 海员,水手
-        - `someone who works on a ship`
+    - n. 海员,水手
+      - someone who works on a ship
   - 同根词
-    - adj.
-      - `sailing`
-        - 航行的
-    - n.
-      - `sailing`
-        - 航行，航海；启航；航海术
-      - `sail`
-        - 帆，篷；航行
-    - v.
-      - `sailing`
-        - 航行，起航（sail的现在分词形式）
-    - vi.
-      - `sail`
-        - 航行；启航，开船
-    - vt.
-      - `sail`
-        - 航行
+    - adj. sailing 航行的
+    - n. sailing 航行，航海；启航；航海术
+    - n. sail 帆，篷；航行
+    - v. sailing 航行，起航（sail的现在分词形式）
+    - vi. sail 航行；启航，开船
+    - vt. sail 航行
   - 近义词
-    - n.
-      - 水手，海员；乘船者
-        - `matlo`
-        - `matelot`
+    - n. 水手，海员；乘船者
+      - matlo
+      - matelot
   - 短语
-    - `good sailor`
-      - 不晕船的人 
+    - good sailor 不晕船的人
   - 例句
-    - `Six British sailors drowned.`
-      - 六名英国海员溺水身亡。
-    - `We were both experienced sailors.`
-      - 我们两个都是经验丰富的水手。
-
+    - Six British sailors drowned. 六名英国海员溺水身亡。
+    - We were both experienced sailors. 我们两个都是经验丰富的水手。
+  - 补充

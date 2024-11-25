@@ -1,14 +1,11 @@
 - panache
   - 发音
-    - 英
-      - `/pə'næʃ/`
-    - 美
-      - `/pə'næʃ/`
+    - 英 /pə'næʃ/
+    - 美 /pə'næʃ/
   - 词义
-    - n.
-      - 羽饰,华丽
+    - n. 羽饰,华丽
   - 近义词
-    - n.
-      - 羽饰；灿烂；耍派头
-        - `effulgence`
-        - `flashiness`
+    - n. 羽饰；灿烂；耍派头
+      - effulgence
+      - flashiness
+  - 补充

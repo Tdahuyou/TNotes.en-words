@@ -1,21 +1,14 @@
 - feculence
   - 发音
-    - 英
-      - `/'fekjʊləns/`
-    - 美
-      - `/'fɛkjʊləns/`
+    - 英 /'fekjʊləns/
+    - 美 /'fɛkjʊləns/
   - 词义
-    - n.
-      - 变浊,渣滓,污物
+    - n. 变浊,渣滓,污物
   - 同根词
-    - adj.
-      - `feculent`
-        - 肮脏的，不洁的；浑浊的；臭的
-    - n.
-      - `feces`
-        - 排泄物；渣滓
+    - adj. feculent 肮脏的，不洁的；浑浊的；臭的
+    - n. feces 排泄物；渣滓
   - 近义词
-    - n.
-      - 变浊；污物；渣滓
-        - `sewage`
-        - `leaving`
+    - n. 变浊；污物；渣滓
+      - sewage
+      - leaving
+  - 补充

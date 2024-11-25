@@ -1,26 +1,18 @@
 - pneumonic
   - 发音
-    - 英
-      - `/undefined/`
-    - 美
-      - `/undefined/`
+    - 英 /njuː'mounik/
+    - 美 /undefined/
   - 词义
-    - adj.
-      - 肺的；肺炎的
-        - `of, relating to, or affecting the lungs; pulmonary `
+    - adj. 肺的；肺炎的
+      - of, relating to, or affecting the lungs; pulmonary 
   - 同根词
-    - n.
-      - `pneumonia`
-        - 肺炎
-      - `pneumococcus`
-        - [微][基医] 肺炎球菌
-      - `pneumonitis`
-        - [内科] 肺炎；局限性肺炎
+    - n. pneumonia 肺炎
+    - n. pneumococcus [微][基医] 肺炎球菌
+    - n. pneumonitis [内科] 肺炎；局限性肺炎
   - 近义词
-    - adj.
-      - 肺的；肺炎的
-        - `pulmonary`
+    - adj. 肺的；肺炎的
+      - pulmonary
   - 例句
-    - `The World Health Organization said pneumonic plague is the most virulent but least common form of plague. The mortality rate can be high if left untreated.`
-      - 根据世界卫生组织介绍，肺鼠疫是鼠疫中最致命也是极少见的类型，未经治疗的肺鼠疫死亡率极高。
-
+    - Why is some pneumonic is dozen of penicillin effective? 为什么有的肺炎打青霉素有效?。
+    - Complication has pneumonic, thorax to accumulate arthralgia of sex of lymph node enlargement of door of fluid, lung, encephalitis, defer, cardiac muscle phlogistic, glossitis . 并发症有肺炎、胸腔积液、肺门淋巴结肿大、脑炎、 迁延性关节痛、心肌炎、舌炎等。
+  - 补充

@@ -1,16 +1,12 @@
 - brunch
   - 发音
-    - 英
-      - `/brʌn(t)ʃ/`
-    - 美
-      - `/brʌntʃ/`
+    - 英 /brʌn(t)ʃ/
+    - 美 /brʌntʃ/
   - 词义
-    - n.
-      - 早午餐
-        - `a meal eaten in the late morning, as a combination of breakfast and  lunch`
+    - n. 早午餐
+      - a meal eaten in the late morning, as a combination of breakfast and  lunch
   - 记忆
     - 由breakfast (早餐) 的首部和 lunch (午餐) 的尾部组合而成
   - 例句
-    - `This morning I went to a restaurant famous for its brunch buffet.`
-      - 今天早上我去了一个以自助早午餐而闻名的餐厅。
-
+    - This morning I went to a restaurant famous for its brunch buffet. 今天早上我去了一个以自助早午餐而闻名的餐厅。
+  - 补充

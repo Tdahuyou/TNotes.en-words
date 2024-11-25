@@ -1,28 +1,19 @@
 - cobble
   - 发音
-    - 英
-      - `/'kɒb(ə)l/`
-    - 美
-      - `/'kɑbl/`
+    - 英 /'kɒb(ə)l/
+    - 美 /'kɑbl/
   - 词义
-    - n.
-      - 圆石,鹅卵石
-        - `a cobblestone`
-    - v.
-      - 修补
-        - `to repair or make shoes`
+    - n. 圆石,鹅卵石
+      - a cobblestone
+    - v. 修补
+      - to repair or make shoes
   - 同根词
-    - n.
-      - `cobbler`
-        - 补鞋匠；工匠；冷饮料；脆皮水果馅饼
+    - n. cobbler 补鞋匠；工匠；冷饮料；脆皮水果馅饼
   - 近义词
-    - n.
-      - 鹅卵石，圆石
-        - `roundstone`
+    - n. 鹅卵石，圆石
+      - roundstone
   - 短语
-    - `cobble stone`
-      - 中砾，中砾石 
+    - cobble stone 中砾，中砾石
   - 例句
-    - `And such urban architecture - from the simplicity of small, cobble-and-whitewash towns to the 17th-century glories of Cartagena and Popayán.`
-      - 如此的城市建筑，有简朴的铺着鹅卵石道路和白色房屋的小镇，也有遗留着17世纪荣光的喀他赫纳和博帕雍。
-
+    - And such urban architecture - from the simplicity of small, cobble-and-whitewash towns to the 17th-century glories of Cartagena and Popayán. 如此的城市建筑，有简朴的铺着鹅卵石道路和白色房屋的小镇，也有遗留着17世纪荣光的喀他赫纳和博帕雍。
+  - 补充

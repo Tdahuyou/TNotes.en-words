@@ -1,36 +1,23 @@
 - fabricate
   - 发音
-    - 英
-      - `/'fæbrɪkeɪt/`
-    - 美
-      - `/'fæbrɪket/`
+    - 英 /'fæbrɪkeɪt/
+    - 美 /'fæbrɪket/
   - 词义
-    - vt.
-      - 编造；制造
-        - `to invent a story, piece of information etc in order to deceive someone`
+    - vt. 编造；制造
+      - to invent a story, piece of information etc in order to deceive someone
   - 记忆
     - fabric(构造) + ate → 构造出来 → 编造； 制造
   - 同根词
-    - adj.
-      - `fabricated`
-        - 焊接的；组合的，装配式的
-    - n.
-      - `fabric`
-        - 织物；布；组织；构造；建筑物
-      - `fabrication`
-        - 制造，建造；装配；伪造物
-      - `fabricator`
-        - 制作者；杜撰者
-    - v.
-      - `fabricated`
-        - 制造，组装；伪造，捏造（fabricate的过去分词）
+    - adj. fabricated 焊接的；组合的，装配式的
+    - n. fabric 织物；布；组织；构造；建筑物
+    - n. fabrication 制造，建造；装配；伪造物
+    - n. fabricator 制作者；杜撰者
+    - v. fabricated 制造，组装；伪造，捏造（fabricate的过去分词）
   - 近义词
-    - vt.
-      - 制造；伪造；装配
-        - `manufacture`
-        - `make`
-        - `doctor`
+    - vt. 制造；伪造；装配
+      - manufacture
+      - make
+      - doctor
   - 例句
-    - `The police were accused of fabricating evidence.`
-      - 警方被控捏造证据。
-
+    - The police were accused of fabricating evidence. 警方被控捏造证据。
+  - 补充

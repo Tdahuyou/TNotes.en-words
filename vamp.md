@@ -1,23 +1,17 @@
 - vamp
   - 发音
-    - 英
-      - `/væmp/`
-    - 美
-      - `/væmp/`
+    - 英 /væmp/
+    - 美 /væmp/
   - 词义
-    - n.
-      - 鞋面,荡妇
-        - `a woman who uses her sexual attractiveness to make men do what she wants`
+    - n. 鞋面,荡妇
+      - a woman who uses her sexual attractiveness to make men do what she wants
   - 同根词
-    - n.
-      - `vamper`
-        - 即席伴奏者；补靴者
+    - n. vamper 即席伴奏者；补靴者
   - 近义词
-    - vt.
-      - 修补；拼凑
-        - `patch up`
-        - `piece up`
-    - n.
-      - [服装]鞋面；荡妇
-        - `slut`
-        - `chippie`
+    - vt. 修补；拼凑
+      - patch up
+      - piece up
+    - n. [服装]鞋面；荡妇
+      - slut
+      - chippie
+  - 补充

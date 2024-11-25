@@ -1,25 +1,18 @@
 - tutelary
   - 发音
-    - 英
-      - `/'tjuːtɪlərɪ/`
-    - 美
-      - `/'tju:tiləri/`
+    - 英 /'tjuːtɪlərɪ/
+    - 美 /'tju:tiləri/
   - 词义
-    - n.
-      - 守护神,守护圣徒
-        - `a tutelary person, deity, or saint `
+    - n. 守护神,守护圣徒
+      - a tutelary person, deity, or saint 
   - 同根词
-    - n.
-      - `tutelage`
-        - 监护；指导
-      - `tutee`
-        - 受指导者；受监护者
+    - n. tutelage 监护；指导
+    - n. tutee 受指导者；受监护者
   - 近义词
-    - adj.
-      - 监护的；保护的
-        - `protecting`
-        - `lee`
-    - n.
-      - 守护神；守护圣徒
-        - `angel`
-        - `nat`
+    - adj. 监护的；保护的
+      - protecting
+      - lee
+    - n. 守护神；守护圣徒
+      - angel
+      - nat
+  - 补充

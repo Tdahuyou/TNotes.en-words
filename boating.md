@@ -1,28 +1,18 @@
 - boating
   - 发音
-    - 英
-      - `/'bəʊtɪŋ/`
-    - 美
-      - `/'bəutiŋ/`
+    - 英 /'bəʊtɪŋ/
+    - 美 /'bəutiŋ/
   - 词义
-        - `the activity of travelling in a small boat for pleasure`
+      - the activity of travelling in a small boat for pleasure
   - 同根词
-    - n.
-      - `boat`
-        - 小船；轮船
-      - `boater`
-        - 硬草帽；乘船的人
-    - vi.
-      - `boat`
-        - 划船
+    - n. boat 小船；轮船
+    - n. boater 硬草帽；乘船的人
+    - vi. boat 划船
   - 近义词
-    - n.
-      - 划船
-        - `row`
+    - n. 划船
+      - row
   - 短语
-    - `go boating`
-      - 去划船 
+    - go boating 去划船
   - 例句
-    - `Let’s go boating on the lake.`
-      - 我们到湖上划船去吧。
-
+    - Let’s go boating on the lake. 我们到湖上划船去吧。
+  - 补充

@@ -1,38 +1,24 @@
 - emerge
   - 发音
-    - 英
-      - `/i'mɜːrdʒ/`
-    - 美
-      - `/ɪ'mɝdʒ/`
+    - 英 /i'mɜːrdʒ/
+    - 美 /ɪ'mɝdʒ/
   - 词义
-    - vi.
-      - 显露，暴露；出来，现出
-        - `to appear or come out from somewhere`
+    - vi. 显露，暴露；出来，现出
+      - to appear or come out from somewhere
   - 记忆
     - e(出) + merg(浸没) + e → 从浸没之中出来 → 显露， 暴露
   - 同根词
-    - adj.
-      - `emerging`
-        - 新兴的；出现的；形成的
-      - `emergent`
-        - 紧急的；浮现的；意外的；自然发生的
-    - n.
-      - `emergence`
-        - 出现，浮现；发生；露头
-    - v.
-      - `emerging`
-        - 形成；浮现；显露（emerge的ing形式）；由…中脱出
+    - adj. emerging 新兴的；出现的；形成的
+    - adj. emergent 紧急的；浮现的；意外的；自然发生的
+    - n. emergence 出现，浮现；发生；露头
+    - v. emerging 形成；浮现；显露（emerge的ing形式）；由…中脱出
   - 近义词
-    - vi.
-      - 浮现；摆脱；暴露
-        - `ray`
-        - `cast off`
+    - vi. 浮现；摆脱；暴露
+      - ray
+      - cast off
   - 短语
-    - `emerge from`
-      - 自…出现；从…显露出来 
-    - `emerge in endlessly`
-      - 层出不穷 
+    - emerge from 自…出现；从…显露出来
+    - emerge in endlessly 层出不穷
   - 例句
-    - `The flowers emerge in the spring.`
-      - 花儿在春天开放。
-
+    - The flowers emerge in the spring. 花儿在春天开放。
+  - 补充

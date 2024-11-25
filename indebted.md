@@ -1,23 +1,16 @@
 - indebted
   - 发音
-    - 英
-      - `/ɪn'detɪd/`
-    - 美
-      - `/ɪn'dɛtɪd/`
+    - 英 /ɪn'detɪd/
+    - 美 /ɪn'dɛtɪd/
   - 词义
-    - adj.
-      - 受惠的,负债的
-        - `owing money to someone`
+    - adj. 受惠的,负债的
+      - owing money to someone
   - 同根词
-    - n.
-      - `indebtedness`
-        - 债务；受恩惠
+    - n. indebtedness 债务；受恩惠
   - 近义词
-    - adj.
-      - 负债的；感激的；受惠的
-        - `appreciative`
-        - `obliged`
+    - adj. 负债的；感激的；受惠的
+      - appreciative
+      - obliged
   - 例句
-    - `the 17 most heavily indebted nations`
-      - 17个负债最重的国家
-
+    - the 17 most heavily indebted nations 17个负债最重的国家
+  - 补充

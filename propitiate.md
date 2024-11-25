@@ -1,24 +1,17 @@
 - propitiate
   - 发音
-    - 英
-      - `/prə'pɪʃieɪt/`
-    - 美
-      - `/prə'pɪʃɪet/`
+    - 英 /prə'pɪʃieɪt/
+    - 美 /prə'pɪʃɪet/
   - 词义
-    - v.
-      - 讨好；抚慰
-        - `to make someone who has been unfriendly or angry with you feel more friendly by doing something to please them`
+    - v. 讨好；抚慰
+      - to make someone who has been unfriendly or angry with you feel more friendly by doing something to please them
   - 记忆
     - pro(向前) + piti(=pet寻求) + ate → 主动寻求和解 → 讨好
   - 同根词
-    - adj.
-      - `propitiatory`
-        - 安抚的；劝解的；讨好的
-    - n.
-      - `propitiation`
-        - 劝解；抚慰
+    - adj. propitiatory 安抚的；劝解的；讨好的
+    - n. propitiation 劝解；抚慰
   - 近义词
-    - vt.
-      - 抚慰，安抚；与…和解
-        - `placate`
-        - `conciliate`
+    - vt. 抚慰，安抚；与…和解
+      - placate
+      - conciliate
+  - 补充

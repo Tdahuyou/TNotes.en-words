@@ -1,21 +1,16 @@
 - igneous
   - 发音
-    - 英
-      - `/'ɪgniəs/`
-    - 美
-      - `/'ɪgnɪəs/`
+    - 英 /'ɪgniəs/
+    - 美 /'ɪgnɪəs/
   - 词义
-    - adj.
-      - 火的，似火的；火成的，火成岩的
-        - `igneous rocks are formed from lava(= hot liquid rock )`
+    - adj. 火的，似火的；火成的，火成岩的
+      - igneous rocks are formed from lava(= hot liquid rock )
   - 记忆
     - ign(火) + eous → 火的
   - 近义词
-    - adj.
-      - [岩]火的；火成的；似火的
-        - `pyrogenic`
+    - adj. [岩]火的；火成的；似火的
+      - pyrogenic
   - 短语
-    - `igneous rock`
-      - 火成岩 
-    - `igneous petrology`
-      - 火成岩岩石学 
+    - igneous rock 火成岩
+    - igneous petrology 火成岩岩石学
+  - 补充

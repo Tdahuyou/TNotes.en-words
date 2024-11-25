@@ -1,29 +1,19 @@
 - botanize
   - 发音
-    - 英
-      - `/'bɔtəˌnaiz/`
-    - 美
-      - `/'bɑtə,naɪz/`
+    - 英 /'bɔtəˌnaiz/
+    - 美 /'bɑtə,naɪz/
   - 词义
-    - v.
-      - 研究植物；采集植物
-        - `to collect or study plants `
+    - v. 研究植物；采集植物
+      - to collect or study plants 
   - 记忆
     - 来自botany (n. 植物学)
   - 同根词
-    - adj.
-      - `botanical`
-        - 植物学的
-      - `botanic`
-        - 植物的；植物学的
-    - n.
-      - `botanical`
-        - 植物性药材
-      - `botany`
-        - 植物学；地区植物总称
-      - `botanist`
-        - 植物学家
+    - adj. botanical 植物学的
+    - adj. botanic 植物的；植物学的
+    - n. botanical 植物性药材
+    - n. botany 植物学；地区植物总称
+    - n. botanist 植物学家
   - 近义词
-    - vi.
-      - 研究植物；采集植物
-        - `herborize`
+    - vi. 研究植物；采集植物
+      - herborize
+  - 补充

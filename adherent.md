@@ -1,38 +1,25 @@
 - adherent
   - 发音
-    - 英
-      - `/əd'hiərənt/`
-    - 美
-      - `/əd'hɪrənt/`
+    - 英 /əd'hiərənt/
+    - 美 /əd'hɪrənt/
   - 词义
-    - n.
-      - 信徒，追随者，拥护者
-        - `someone who supports a particular belief, plan, political party etc`
+    - n. 信徒，追随者，拥护者
+      - someone who supports a particular belief, plan, political party etc
   - 记忆
     - ad + her (黏) + ent (人) → 黏着某人 → 追随者
   - 同根词
-    - n.
-      - `adherence`
-        - 坚持；依附；忠诚
-      - `adherend`
-        - 被粘物；黏剂
-    - vi.
-      - `adhere`
-        - 坚持；依附；粘着；追随
-    - vt.
-      - `adhere`
-        - 使粘附
+    - n. adherence 坚持；依附；忠诚
+    - n. adherend 被粘物；黏剂
+    - vi. adhere 坚持；依附；粘着；追随
+    - vt. adhere 使粘附
   - 近义词
-    - n.
-      - 信徒；追随者
-        - `Christian`
-        - `believer`
-        - `follower`
-    - adj.
-      - [物][生物]附着的；粘着的
-        - `inserted`
-        - `appendiculate`
+    - n. 信徒；追随者
+      - Christian
+      - believer
+      - follower
+    - adj. [物][生物]附着的；粘着的
+      - inserted
+      - appendiculate
   - 例句
-    - `This idea is gaining adherents.`
-      - 这个想法正得到拥护者的支持。
-
+    - This idea is gaining adherents. 这个想法正得到拥护者的支持。
+  - 补充

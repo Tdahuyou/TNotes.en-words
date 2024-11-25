@@ -1,43 +1,26 @@
 - diversification
   - 发音
-    - 英
-      - `/daɪ,vɜːsɪfɪ'keɪʃən/`
-    - 美
-      - `/dɪ,vɝsɪfɪ'keʃən/`
+    - 英 /daɪ,vɜːsɪfɪ'keɪʃən/
+    - 美 /dɪ,vɝsɪfɪ'keʃən/
   - 词义
-    - n.
-      - 变化,多样化
+    - n. 变化,多样化
   - 同根词
-    - adj.
-      - `diverse`
-        - 不同的；多种多样的；变化多的
-      - `diversified`
-        - 多样化的；各种的
-    - n.
-      - `diversity`
-        - 多样性；差异
-      - `diverseness`
-        - 多样性；不同
-    - v.
-      - `diversified`
-        - 使…多样化（diversify的过去分词）
-    - vt.
-      - `diversify`
-        - 使多样化，使变化；增加产品种类以扩大
+    - adj. diverse 不同的；多种多样的；变化多的
+    - adj. diversified 多样化的；各种的
+    - n. diversity 多样性；差异
+    - n. diverseness 多样性；不同
+    - v. diversified 使…多样化（diversify的过去分词）
+    - vt. diversify 使多样化，使变化；增加产品种类以扩大
   - 近义词
-    - n.
-      - [贸易]多样化；变化
-        - `variation`
-        - `shift`
-        - `change`
-        - `turn`
-        - `mutation`
+    - n. [贸易]多样化；变化
+      - variation
+      - shift
+      - change
+      - turn
+      - mutation
   - 短语
-    - `business diversification`
-      - 多元化经营；经营多角化 
-    - `investment diversification`
-      - 分散投资 
+    - business diversification 多元化经营；经营多角化
+    - investment diversification 分散投资
   - 例句
-    - `The idea behind diversification is to invest in a large number of assets so that a loss in any particular investment is minimized by gains in others.`
-      - 多元化背后的想法是投资一个数额巨大的资产，这样任何特定投资的损失都被其他投资获得的收益最小化了。
-
+    - The idea behind diversification is to invest in a large number of assets so that a loss in any particular investment is minimized by gains in others. 多元化背后的想法是投资一个数额巨大的资产，这样任何特定投资的损失都被其他投资获得的收益最小化了。
+  - 补充

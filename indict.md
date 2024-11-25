@@ -1,30 +1,20 @@
 - indict
   - 发音
-    - 英
-      - `/ɪn'daɪt/`
-    - 美
-      - `/ɪn'daɪt/`
+    - 英 /ɪn'daɪt/
+    - 美 /ɪn'daɪt/
   - 词义
-    - vt.
-      - 控诉，起诉，控告
-        - `to officially charge someone with a criminal offence`
+    - vt. 控诉，起诉，控告
+      - to officially charge someone with a criminal offence
   - 记忆
     - in(逆， 反) + dict(说) → 逆着某人说 → 控诉， 起诉， 控告
   - 同根词
-    - adj.
-      - `indictable`
-        - 可起诉的；可被控告的
-    - n.
-      - `indictment`
-        - 起诉书；控告
-      - `indiction`
-        - 诏示；古罗马每隔15年一次的财产评价公告
+    - adj. indictable 可起诉的；可被控告的
+    - n. indictment 起诉书；控告
+    - n. indiction 诏示；古罗马每隔15年一次的财产评价公告
   - 近义词
-    - vt.
-      - 控告，起诉；[法]揭发
-        - `law`
-        - `sue for`
+    - vt. 控告，起诉；[法]揭发
+      - law
+      - sue for
   - 例句
-    - `He was later indicted on corruption charges.`
-      - 他后来被控贪污。
-
+    - He was later indicted on corruption charges. 他后来被控贪污。
+  - 补充

@@ -1,27 +1,19 @@
 - ebullient
   - 发音
-    - 英
-      - `/i'bʌljənt/`
-    - 美
-      - `/ɪ'bʌlɪənt/`
+    - 英 /i'bʌljənt/
+    - 美 /ɪ'bʌlɪənt/
   - 词义
-    - adj.
-      - 沸腾的；热情洋溢的
-        - `If you describe someone as ebullient, you mean that they are lively and full of enthusiasm or excitement about something`
+    - adj. 沸腾的；热情洋溢的
+      - If you describe someone as ebullient, you mean that they are lively and full of enthusiasm or excitement about something
   - 记忆
     - e + bull (公牛) + ient → 像公牛一样的 → 热情洋溢的
   - 同根词
-    - n.
-      - `ebullience`
-        - 奔放；兴高采烈；沸腾；冒泡
-      - `ebullition`
-        - [物] 沸腾；感情迸发；冒泡
+    - n. ebullience 奔放；兴高采烈；沸腾；冒泡
+    - n. ebullition [物] 沸腾；感情迸发；冒泡
   - 近义词
-    - adj.
-      - 热情洋溢的；沸腾的
-        - `boiling`
-        - `young-eyed`
+    - adj. 热情洋溢的；沸腾的
+      - boiling
+      - young-eyed
   - 例句
-    - `...the ebullient Russian president.`
-      - …精力充沛的俄罗斯总统。
-
+    - ...the ebullient Russian president. …精力充沛的俄罗斯总统。
+  - 补充

@@ -1,43 +1,26 @@
 - conclusive
   - 发音
-    - 英
-      - `/kən'kluːsɪv/`
-    - 美
-      - `/kən'klusɪv/`
+    - 英 /kən'kluːsɪv/
+    - 美 /kən'klusɪv/
   - 词义
-    - adj.
-      - 确定的，确凿的，不容置疑的；结论性的
-        - `showing that something is definitely true`
+    - adj. 确定的，确凿的，不容置疑的；结论性的
+      - showing that something is definitely true
   - 同根词
-    - adj.
-      - `concluding`
-        - 结束的；最后的
-    - adv.
-      - `conclusively`
-        - 最后地；决定性地
-    - n.
-      - `conclusion`
-        - 结论；结局；推论
-      - `conclusiveness`
-        - 结论性；决定性
-    - vi.
-      - `conclude`
-        - 推断；断定；决定
-    - vt.
-      - `conclude`
-        - 推断；决定，作结论；结束
+    - adj. concluding 结束的；最后的
+    - adv. conclusively 最后地；决定性地
+    - n. conclusion 结论；结局；推论
+    - n. conclusiveness 结论性；决定性
+    - vi. conclude 推断；断定；决定
+    - vt. conclude 推断；决定，作结论；结束
   - 近义词
-    - adj.
-      - 决定性的；最后的；确实的；确定性的
-        - `crucial`
-        - `critical`
-        - `final`
-        - `finishing`
-        - `decisive`
+    - adj. 决定性的；最后的；确实的；确定性的
+      - crucial
+      - critical
+      - final
+      - finishing
+      - decisive
   - 短语
-    - `conclusive evidence`
-      - 决定性证据 
+    - conclusive evidence 决定性证据
   - 例句
-    - `Her attorneys claim there is no conclusive evidence that any murders took place.`
-      - 她的律师们声称没有任何发生过谋杀的确凿证据。
-
+    - Her attorneys claim there is no conclusive evidence that any murders took place. 她的律师们声称没有任何发生过谋杀的确凿证据。
+  - 补充

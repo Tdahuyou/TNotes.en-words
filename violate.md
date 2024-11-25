@@ -1,36 +1,23 @@
 - violate
   - 发音
-    - 英
-      - `/'vaɪəleɪt/`
-    - 美
-      - `/'vaɪəlet/`
+    - 英 /'vaɪəleɪt/
+    - 美 /'vaɪəlet/
   - 词义
-    - vt.
-      - 违反，违背；亵渎；侵犯，干扰
-        - `to disobey or do something against an official agreement, law, principle etc`
+    - vt. 违反，违背；亵渎；侵犯，干扰
+      - to disobey or do something against an official agreement, law, principle etc
   - 记忆
     - “why late” → 违反制度迟到了 → 违反， 违背
   - 同根词
-    - adj.
-      - `violable`
-        - 易受侵犯的；可亵渎的；可违反的
-      - `violative`
-        - 违犯的；违背的；违反的
-    - n.
-      - `violation`
-        - 违反；妨碍，侵害；违背；强奸
-      - `violence`
-        - 暴力；侵犯；激烈；歪曲
-      - `violator`
-        - 违背者；违反者；妨碍者
+    - adj. violable 易受侵犯的；可亵渎的；可违反的
+    - adj. violative 违犯的；违背的；违反的
+    - n. violation 违反；妨碍，侵害；违背；强奸
+    - n. violence 暴力；侵犯；激烈；歪曲
+    - n. violator 违背者；违反者；妨碍者
   - 近义词
-    - vt.
-      - 违反；侵犯，妨碍；亵渎
-        - `let`
-        - `act against`
+    - vt. 违反；侵犯，妨碍；亵渎
+      - let
+      - act against
   - 例句
-    - `34 protesters were arrested for violating criminal law.`
-      - 34名抗议者因违反刑法而被逮捕。
-    - `regimes that violate human rights`
-      - 侵犯人权的政权
-
+    - 34 protesters were arrested for violating criminal law. 34名抗议者因违反刑法而被逮捕。
+    - regimes that violate human rights 侵犯人权的政权
+  - 补充

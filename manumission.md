@@ -1,23 +1,16 @@
 - manumission
   - 发音
-    - 英
-      - `/,mænjʊ'mɪʃən/`
-    - 美
-      - `/,mænjə'mɪʃən/`
+    - 英 /ˌmænjə'mɪʃən/
+    - 美 /,mænjə'mɪʃən/
   - 词义
-    - n.
-      - （农奴，奴隶的）解放
-        - `the act of freeing or the state of being freed from slavery, servitude, etc `
+    - n. 解放
+      - the act of freeing or the state of being freed from slavery, servitude, etc 
   - 同根词
-    - vt.
-      - `manumit`
-        - 解放；释放
+    - vt. manumit 解放；释放
   - 近义词
-    - n.
-      - （农奴，奴隶的）解放
-        - `liberation`
-        - `emancipation`
+    - n. （农奴，奴隶的）解放
+      - liberation
+      - emancipation
   - 例句
-    - `To a soundtrack created by the whales themselves—via Roger Payne's groundbreaking and album-charting recording of the plaintive song of the humpback whale—we moved slowly towards cetacean manumission.`
-      - 透过鲸鱼们自己演唱，由Roger Payne's 灌录的座头鲸忧伤的歌，我们慢慢倾向了解放鲸鱼。
-
+    - He believed in the manumission of the slaves. 他相信奴隶解放事业的价值。
+  - 补充

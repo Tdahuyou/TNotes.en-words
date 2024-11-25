@@ -1,29 +1,19 @@
 - illiberal
   - 发音
-    - 英
-      - `/ɪ'lɪbərəl/`
-    - 美
-      - `/ɪ'lɪbərəl/`
+    - 英 /ɪ'lɪbərəl/
+    - 美 /ɪ'lɪbərəl/
   - 词义
-    - adj.
-      - 偏执的，思想狭隘的
+    - adj. 偏执的，思想狭隘的
   - 记忆
     - il(不) + liberal(开明的) → 不开明的 → 偏执的
   - 同根词
-    - adv.
-      - `illiberally`
-        - 吝啬地；小气地
-    - n.
-      - `illiberalism`
-        - 反自由主义；非自由主义
-      - `illiberality`
-        - 吝啬；狭隘；不自由；严格
+    - adv. illiberally 吝啬地；小气地
+    - n. illiberalism 反自由主义；非自由主义
+    - n. illiberality 吝啬；狭隘；不自由；严格
   - 近义词
-    - adj.
-      - 偏执的；吝啬的；粗鄙的；狭碍的；缺乏文化素养的
-        - `tight`
-        - `stingy`
+    - adj. 偏执的；吝啬的；粗鄙的；狭碍的；缺乏文化素养的
+      - tight
+      - stingy
   - 例句
-    - `illiberal and undemocratic policies`
-      - 专制、不民主的政策
-
+    - illiberal and undemocratic policies 专制、不民主的政策
+  - 补充

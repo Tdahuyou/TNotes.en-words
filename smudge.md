@@ -1,35 +1,25 @@
 - smudge
   - 发音
-    - 英
-      - `/smʌdʒ/`
-    - 美
-      - `/smʌdʒ/`
+    - 英 /smʌdʒ/
+    - 美 /smʌdʒ/
   - 词义
-    - v.
-      - 弄脏，涂污；用浓烟熏
-        - `if ink, writing etc smudges, or if you smudge it, it becomes dirty and unclear because it has been touched or rubbed`
-    - n.
-      - 污点，污迹；烟熏火堆
-        - `a dirty mark`
+    - v. 弄脏，涂污；用浓烟熏
+      - if ink, writing etc smudges, or if you smudge it, it becomes dirty and unclear because it has been touched or rubbed
+    - n. 污点，污迹；烟熏火堆
+      - a dirty mark
   - 同根词
-    - adj.
-      - `smudgy`
-        - 脏污的；满是污垢的
+    - adj. smudgy 脏污的；满是污垢的
   - 近义词
-    - vt.
-      - 弄脏，涂污；用浓烟熏
-        - `soil`
-        - `mud`
-        - `spot`
-        - `dirty`
-    - vi.
-      - 被弄脏；形成污迹
-        - `smear`
-    - n.
-      - 污点，污迹；烟熏火堆
-        - `jaup`
-        - `tainture`
+    - vt. 弄脏，涂污；用浓烟熏
+      - soil
+      - mud
+      - spot
+      - dirty
+    - vi. 被弄脏；形成污迹
+      - smear
+    - n. 污点，污迹；烟熏火堆
+      - jaup
+      - tainture
   - 例句
-    - `Don’t touch it! You’ll smudge the ink.`
-      - 别碰它！你会把墨水抹花的。
-
+    - Don’t touch it! You’ll smudge the ink. 别碰它！你会把墨水抹花的。
+  - 补充

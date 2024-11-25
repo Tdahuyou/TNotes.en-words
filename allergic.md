@@ -1,42 +1,25 @@
 - allergic
   - 发音
-    - 英
-      - `/ə'lɜːrdʒɪk/`
-    - 美
-      - `/ə'lɝdʒɪk/`
+    - 英 /ə'lɜːrdʒɪk/
+    - 美 /ə'lɝdʒɪk/
   - 词义
-    - adj.
-      - 过敏的，变态反应的；对…讨厌的
-        - `having an allergy`
+    - adj. 过敏的，变态反应的；对…讨厌的
+      - having an allergy
   - 记忆
     - aller(看做alert， 警报) + gic → 皮肤发出警报 → 过敏的
   - 同根词
-    - adj.
-      - `allergenic`
-        - 引起过敏症的
-    - n.
-      - `allergy`
-        - 过敏症；反感；厌恶
-      - `allergen`
-        - [医] 过敏原
-      - `allergist`
-        - 过敏症专科医师
+    - adj. allergenic 引起过敏症的
+    - n. allergy 过敏症；反感；厌恶
+    - n. allergen [医] 过敏原
+    - n. allergist 过敏症专科医师
   - 短语
-    - `allergic rhinitis`
-      - 过敏性鼻炎 
-    - `allergic reaction`
-      - 过敏反应；变态反应 
-    - `allergic asthma`
-      - [医]变应性气喘；敏性气喘 
-    - `allergic purpura`
-      - 过敏性紫癜 
-    - `allergic disease`
-      - 变应性疾病，变态反应病 
-    - `allergic contact dermatitis`
-      - 变应性接触性皮炎；过敏性接触性皮炎 
-    - `allergic dermatitis`
-      - 变应性皮炎 
+    - allergic rhinitis 过敏性鼻炎
+    - allergic reaction 过敏反应；变态反应
+    - allergic asthma [医]变应性气喘；敏性气喘
+    - allergic purpura 过敏性紫癜
+    - allergic disease 变应性疾病，变态反应病
+    - allergic contact dermatitis 变应性接触性皮炎；过敏性接触性皮炎
+    - allergic dermatitis 变应性皮炎
   - 例句
-    - `an allergic reaction to nuts`
-      - 对坚果的过敏性反应
-
+    - an allergic reaction to nuts 对坚果的过敏性反应
+  - 补充

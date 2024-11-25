@@ -1,24 +1,17 @@
 - antithetical
   - 发音
-    - 英
-      - `/ˌæntɪ'θetɪkl/`
-    - 美
-      - `/,æntɪ'θɛtɪkl/`
+    - 英 /ˌæntɪ'θetɪkl/
+    - 美 /,æntɪ'θɛtɪkl/
   - 词义
-    - adj.
-      - 相反的；对立的
-        - `exactly opposite to something`
+    - adj. 相反的；对立的
+      - exactly opposite to something
   - 同根词
-    - adj.
-      - `antithetic`
-        - 对立的；对偶的
+    - adj. antithetic 对立的；对偶的
   - 近义词
-    - adj.
-      - 对立的，正相反的
-        - `contrary`
-        - `opposite`
-        - `against`
+    - adj. 对立的，正相反的
+      - contrary
+      - opposite
+      - against
   - 例句
-    - `Their priorities are antithetical to those of environmentalists.`
-      - 他们的重点与环保主义者的重点是对立的。
-
+    - Their priorities are antithetical to those of environmentalists. 他们的重点与环保主义者的重点是对立的。
+  - 补充

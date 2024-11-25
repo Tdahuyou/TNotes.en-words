@@ -1,24 +1,20 @@
 - slue
   - 发音
-    - 英
-      - `/sluː/`
-    - 美
-      - `/slʊ/`
+    - 英 /sluː/
+    - 美 /slʊ/
   - 词义
-    - v.
-      - 旋转
+    - v. 旋转
   - 记忆
     - slew(v. 旋转)的变体
   - 近义词
-    - n.
-      - 旋转，转向；沼泽地
-        - `revolution`
-        - `rotation`
-        - `rolling`
-        - `turning`
-        - `wetland`
-    - vi.
-      - 旋转；转向
-        - `wheel`
-        - `circle`
-        - `spin`
+    - n. 旋转，转向；沼泽地
+      - revolution
+      - rotation
+      - rolling
+      - turning
+      - wetland
+    - vi. 旋转；转向
+      - wheel
+      - circle
+      - spin
+  - 补充

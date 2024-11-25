@@ -1,31 +1,22 @@
 - diurnal
   - 发音
-    - 英
-      - `/dai'əːnəl/`
-    - 美
-      - `/daɪ'ɝnl/`
+    - 英 /dai'əːnəl/
+    - 美 /daɪ'ɝnl/
   - 词义
-    - adj.
-      - 日间的
-        - `happening every day`
+    - adj. 日间的
+      - happening every day
   - 记忆
     - di + urnal (看作journ， 一日) → 日间的
   - 近义词
-    - adj.
-      - [动]白天的；[天]每日的，一日间的
-        - `daily`
-    - n.
-      - 日记账；日报，日刊
-        - `daily paper`
-        - `daily journal`
+    - adj. [动]白天的；[天]每日的，一日间的
+      - daily
+    - n. 日记账；日报，日刊
+      - daily paper
+      - daily journal
   - 短语
-    - `diurnal variation`
-      - 日变化；日变程；日际变化；昼夜变化 
-    - `diurnal change`
-      - 日变 
-    - `diurnal rhythm`
-      - 昼间节率；昼夜节律 
+    - diurnal variation 日变化；日变程；日际变化；昼夜变化
+    - diurnal change 日变
+    - diurnal rhythm 昼间节率；昼夜节律
   - 例句
-    - `Kangaroos are diurnal animals.`
-      - 袋鼠是昼出动物。
-
+    - Kangaroos are diurnal animals. 袋鼠是昼出动物。
+  - 补充

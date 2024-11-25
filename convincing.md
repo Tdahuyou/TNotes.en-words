@@ -1,42 +1,26 @@
 - convincing
   - 发音
-    - 英
-      - `/kən'vɪnsɪŋ/`
-    - 美
-      - `/kən'vɪnsɪŋ/`
+    - 英 /kən'vɪnsɪŋ/
+    - 美 /kən'vɪnsɪŋ/
   - 词义
-    - adj.
-      - 令人信服的
-        - `making you believe that something is true or right`
+    - adj. 令人信服的
+      - making you believe that something is true or right
   - 记忆
     - con ＋ vinc(征服) ＋ e → 征服 → 说服， 使信服
   - 同根词
-    - adj.
-      - `convinced`
-        - 确信的；深信的
-      - `convincible`
-        - 可使信服的；可说服的
-    - adv.
-      - `convincingly`
-        - 令人信服地；有说服力地
-    - v.
-      - `convinced`
-        - 使确信（convince的过去分词）；说服
-    - vt.
-      - `convince`
-        - 说服；使确信，使信服
+    - adj. convinced 确信的；深信的
+    - adj. convincible 可使信服的；可说服的
+    - adv. convincingly 令人信服地；有说服力地
+    - v. convinced 使确信（convince的过去分词）；说服
+    - vt. convince 说服；使确信，使信服
   - 近义词
-    - adj.
-      - 令人信服的；有说服力的
-        - `persuasive`
-        - `potent`
-    - v.
-      - 使相信；使明白（convince的现在分词）
-        - `defogging`
+    - adj. 令人信服的；有说服力的
+      - persuasive
+      - potent
+    - v. 使相信；使明白（convince的现在分词）
+      - defogging
   - 短语
-    - `convincing evidence`
-      - 令人信服的证据 
+    - convincing evidence 令人信服的证据
   - 例句
-    - `convincing evidence of his guilt`
-      - 证明他有罪的有力证据
-
+    - convincing evidence of his guilt 证明他有罪的有力证据
+  - 补充

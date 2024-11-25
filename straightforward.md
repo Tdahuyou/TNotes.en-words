@@ -1,35 +1,24 @@
 - straightforward
   - 发音
-    - 英
-      - `/streɪt'fɔːwəd/`
-    - 美
-      - `/,stret'fɔrwɚd/`
+    - 英 /streɪt'fɔːwəd/
+    - 美 /,stret'fɔrwɚd/
   - 词义
-    - adj.
-      - 正直的,简单的
-        - `simple and easy to understand`
-    - adv.
-      - 坦率地
+    - adj. 正直的,简单的
+      - simple and easy to understand
+    - adv. 坦率地
   - 同根词
-    - adv.
-      - `straightforwardly`
-        - 直截了当地；正直地
-    - n.
-      - `straightforwardness`
-        - 坦率
+    - adv. straightforwardly 直截了当地；正直地
+    - n. straightforwardness 坦率
   - 近义词
-    - adj.
-      - 简单的；坦率的；明确的；径直的
-        - `simple`
-        - `precise`
-        - `honest`
-        - `transparent`
-        - `plain`
-    - adv.
-      - 直截了当地；坦率地
-        - `directly`
-        - `openly`
+    - adj. 简单的；坦率的；明确的；径直的
+      - simple
+      - precise
+      - honest
+      - transparent
+      - plain
+    - adv. 直截了当地；坦率地
+      - directly
+      - openly
   - 例句
-    - `This area of law is far from straightforward (= complicated ) .`
-      - 法律的这个领域很复杂。
-
+    - This area of law is far from straightforward (= complicated ) . 法律的这个领域很复杂。
+  - 补充

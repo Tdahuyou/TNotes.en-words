@@ -1,36 +1,22 @@
 - incapacitate
   - 发音
-    - 英
-      - `/ˌɪnkə'pæsɪteɪt/`
-    - 美
-      - `/,ɪnkə'pæsɪtet/`
+    - 英 /ˌɪnkə'pæsɪteɪt/
+    - 美 /,ɪnkə'pæsɪtet/
   - 词义
-    - vt.
-      - 使无资格；使失去能力；使不胜任
-        - `to make you too ill or weak to live and work normally`
+    - vt. 使无资格；使失去能力；使不胜任
+      - to make you too ill or weak to live and work normally
   - 记忆
     - in(无) + capac(=cap握住) + it + ate(使…) → 使无力握住 → 使无资格； 使失去能力
   - 同根词
-    - adj.
-      - `incapable`
-        - 不能的；无能力的；不能胜任的
-      - `incapacitated`
-        - 不能行动的
-    - n.
-      - `incapacity`
-        - 无能力，无能
-      - `incapability`
-        - 无能力；无资格；不能胜任
-    - v.
-      - `incapacitated`
-        - 丧失能力，欠缺行为能力（incapacitate的过去分词）
+    - adj. incapable 不能的；无能力的；不能胜任的
+    - adj. incapacitated 不能行动的
+    - n. incapacity 无能力，无能
+    - n. incapability 无能力；无资格；不能胜任
+    - v. incapacitated 丧失能力，欠缺行为能力（incapacitate的过去分词）
   - 近义词
-    - vt.
-      - 使无能力；使不能；使不适于
-        - `disenable`
+    - vt. 使无能力；使不能；使不适于
+      - disenable
   - 例句
-    - `Her mother has been incapacitated by a fall.`
-      - 她母亲摔了一跤后，失去了正常生活能力。
-    - `an incapacitating injury`
-      - 使人失去活动能力的伤
-
+    - Her mother has been incapacitated by a fall. 她母亲摔了一跤后，失去了正常生活能力。
+    - an incapacitating injury 使人失去活动能力的伤
+  - 补充

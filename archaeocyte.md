@@ -1,13 +1,9 @@
 - archaeocyte
   - 发音
-    - 英
-      - `/undefined/`
-    - 美
-      - `/undefined/`
+    - 英 /undefined/
+    - 美 /undefined/
   - 词义
-    - n.
-      - 原始(生殖)细胞
+    - n. 原始(生殖)细胞
   - 例句
-    - `Many incomplete skeletons were found but they included, for the first time in an archaeocyte, a complete hind leg that features a foot with three tiny toes.`
-      - 尽管发现的这些骨骼并不完整，但这是专家们第一次在原始动物身上发现完整的后肢，它有三个小脚趾作为的足部特征。
-
+    - Many incomplete skeletons were found but they included, for the first time in an archaeocyte, a complete hind leg that features a foot with three tiny toes. 尽管发现的这些骨骼并不完整，但这是专家们第一次在原始动物身上发现完整的后肢，它有三个小脚趾作为的足部特征。
+  - 补充

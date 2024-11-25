@@ -1,35 +1,22 @@
 - peddle
   - 发音
-    - 英
-      - `/'pedl/`
-    - 美
-      - `/'pɛdl/`
+    - 英 /'pedl/
+    - 美 /'pɛdl/
   - 词义
-    - v.
-      - 挑卖，沿街叫卖
-        - `to sell goods to people, especially goods that people disapprove of because they are illegal, harmful, or of not very high quality`
+    - v. 挑卖，沿街叫卖
+      - to sell goods to people, especially goods that people disapprove of because they are illegal, harmful, or of not very high quality
   - 记忆
     - ped (脚) + dle → 行走在大街上叫卖 → 沿街叫卖
   - 同根词
-    - adj.
-      - `peddling`
-        - 叫卖的；无关紧要的；琐碎的
-    - n.
-      - `peddler`
-        - 小贩；传播者
-      - `peddling`
-        - 行商
-    - v.
-      - `peddling`
-        - 沿街叫卖（peddle的现在分词）
+    - adj. peddling 叫卖的；无关紧要的；琐碎的
+    - n. peddler 小贩；传播者
+    - n. peddling 行商
+    - v. peddling 沿街叫卖（peddle的现在分词）
   - 近义词
-    - vt.
-      - 叫卖；兜售；散播
-        - `strow`
-        - `strew`
+    - vt. 叫卖；兜售；散播
+      - strow
+      - strew
   - 例句
-    - `They were accused of peddling drugs .`
-      - 他们被控贩卖毒品。
-    - `people who peddle cigarettes to young children`
-      - 卖香烟给小孩子的人
-
+    - They were accused of peddling drugs . 他们被控贩卖毒品。
+    - people who peddle cigarettes to young children 卖香烟给小孩子的人
+  - 补充

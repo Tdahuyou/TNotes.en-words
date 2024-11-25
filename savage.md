@@ -1,43 +1,29 @@
 - savage
   - 发音
-    - 英
-      - `/'sævɪdʒ/`
-    - 美
-      - `/'sævɪdʒ/`
+    - 英 /'sævɪdʒ/
+    - 美 /'sævɪdʒ/
   - 词义
-    - adj.
-      - 凶残的；野蛮的，未开化的
-        - `very violent or cruel`
-    - n.
-      - 野蛮人，未开化的人
-        - `a very offensive word for someone who has a simple, traditional way of life`
-    - vt.
-      - 残害；激烈抨击
+    - adj. 凶残的；野蛮的，未开化的
+      - very violent or cruel
+    - n. 野蛮人，未开化的人
+      - a very offensive word for someone who has a simple, traditional way of life
+    - vt. 残害；激烈抨击
   - 记忆
     - sav(森林) + age → 生活于丛林的(相对于城市而言， 更不开化) → 未开化的
   - 同根词
-    - adv.
-      - `savagely`
-        - 野蛮地；残忍地
-    - n.
-      - `savagery`
-        - 野性；野蛮人；原始状态
-      - `savageness`
-        - 天然；野蛮；残忍
+    - adv. savagely 野蛮地；残忍地
+    - n. savagery 野性；野蛮人；原始状态
+    - n. savageness 天然；野蛮；残忍
   - 近义词
-    - adj.
-      - 野蛮的；残酷的；狂怒的；荒凉的
-        - `wild`
-        - `cruel`
-        - `iron`
-        - `desert`
-    - n.
-      - 未开化的；粗鲁的人；残暴成性的人
-        - `yahoo`
-        - `woodenness`
+    - adj. 野蛮的；残酷的；狂怒的；荒凉的
+      - wild
+      - cruel
+      - iron
+      - desert
+    - n. 未开化的；粗鲁的人；残暴成性的人
+      - yahoo
+      - woodenness
   - 例句
-    - `a savage dog`
-      - 一条凶猛的狗
-    - `a savage murder`
-      - 凶残的谋杀
-
+    - a savage dog 一条凶猛的狗
+    - a savage murder 凶残的谋杀
+  - 补充

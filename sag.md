@@ -1,42 +1,27 @@
 - sag
   - 发音
-    - 英
-      - `/sæg/`
-    - 美
-      - `/sɑɡ/`
+    - 英 /sæg/
+    - 美 /sɑɡ/
   - 词义
-    - n.
-      - 松弛；下跌；漂流；萧条
-    - v.
-      - 下垂；下降；萎靡
-        - `to hang down or bend in the middle, especially because of the weight of something`
+    - n. 松弛；下跌；漂流；萧条
+    - v. 下垂；下降；萎靡
+      - to hang down or bend in the middle, especially because of the weight of something
   - 同根词
-    - n.
-      - `sagging`
-        - 下垂
-    - vi.
-      - `sagging`
-        - 下沉；松垂（sag的ing形式）
+    - n. sagging 下垂
+    - vi. sagging 下沉；松垂（sag的ing形式）
   - 近义词
-    - n.
-      - 松弛；下跌；漂流；萧条
-        - `slip`
-        - `flab`
-    - vi.
-      - 下垂；下降；萎靡
-        - `decline`
-        - `go down`
-    - vt.
-      - 使下垂
-        - `slouch`
+    - n. 松弛；下跌；漂流；萧条
+      - slip
+      - flab
+    - vi. 下垂；下降；萎靡
+      - decline
+      - go down
+    - vt. 使下垂
+      - slouch
   - 短语
-    - `cable sag`
-      - 绳擞度 
+    - cable sag 绳擞度
   - 例句
-    - `The branch sagged under the weight of the apples.`
-      - 树枝被苹果压弯了。
-    - `The skin around my eyes is starting to sag.`
-      - 我眼睛周围的皮肤开始下垂了。
-    - `a sagging roof`
-      - 凹陷的房顶
-
+    - The branch sagged under the weight of the apples. 树枝被苹果压弯了。
+    - The skin around my eyes is starting to sag. 我眼睛周围的皮肤开始下垂了。
+    - a sagging roof 凹陷的房顶
+  - 补充

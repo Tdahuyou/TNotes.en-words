@@ -1,22 +1,15 @@
 - inarticulate
   - 发音
-    - 英
-      - `/,ɪnɑː'tɪkjʊlət/`
-    - 美
-      - `/,ɪnɑr'tɪkjələt/`
+    - 英 /,ɪnɑː'tɪkjʊlət/
+    - 美 /,ɪnɑr'tɪkjələt/
   - 词义
-    - adj.
-      - 口齿不清的；说不出话的；[无脊椎]无关节的
+    - adj. 口齿不清的；说不出话的；[无脊椎]无关节的
   - 同根词
-    - adv.
-      - `inarticulately`
-        - 口齿不清地；难以表达地
+    - adv. inarticulately 口齿不清地；难以表达地
   - 近义词
-    - adj.
-      - 口齿不清的；说不出话的；[动][无脊椎]无关节的
-        - `speechless`
-        - `jointless`
+    - adj. 口齿不清的；说不出话的；[动][无脊椎]无关节的
+      - speechless
+      - jointless
   - 例句
-    - `He left me inarticulate with rage.`
-      - 他把我气得说不出话来。
-
+    - He left me inarticulate with rage. 他把我气得说不出话来。
+  - 补充

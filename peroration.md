@@ -1,19 +1,14 @@
 - peroration
   - 发音
-    - 英
-      - `/perə'reɪʃ(ə)n/`
-    - 美
-      - `/,pɛrə'reʃən/`
+    - 英 /perə'reɪʃ(ə)n/
+    - 美 /,pɛrə'reʃən/
   - 词义
-    - n.
-      - （演讲的）结束语,演讲高谈阔论
-        - `the last part of a speech, in which the main points are repeated`
+    - n. （演讲的）结束语,演讲高谈阔论
+      - the last part of a speech, in which the main points are repeated
   - 同根词
-    - vi.
-      - `perorate`
-        - 下结论；冗长地谈论；作结语
+    - vi. perorate 下结论；冗长地谈论；作结语
   - 近义词
-    - n.
-      - 结束语；结论；夸夸其谈
-        - `conclusion`
-        - `verdict`
+    - n. 结束语；结论；夸夸其谈
+      - conclusion
+      - verdict
+  - 补充

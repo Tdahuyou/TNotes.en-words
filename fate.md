@@ -1,49 +1,31 @@
 - fate
   - 发音
-    - 英
-      - `/feɪt/`
-    - 美
-      - `/fet/`
+    - 英 /feɪt/
+    - 美 /fet/
   - 词义
-    - n.
-      - 天数,命运
-        - `the things that happen to someone or something, especially unpleasant things that end their existence or end a particular period`
+    - n. 天数,命运
+      - the things that happen to someone or something, especially unpleasant things that end their existence or end a particular period
   - 同根词
-    - adj.
-      - `fatal`
-        - 致命的；重大的；毁灭性的；命中注定的
-      - `fateful`
-        - 重大的；决定性的；宿命的
-      - `fated`
-        - 命中注定的，宿命的；受命运支配的
-    - adv.
-      - `fatally`
-        - 致命地；命中注定地；不可避免地
-      - `fatefully`
-        - 宿命地；决定性地
-    - n.
-      - `fatality`
-        - 死亡；宿命；致命性；不幸；灾祸
-      - `fatalism`
-        - 宿命论
-      - `fatalist`
-        - 宿命论者
+    - adj. fatal 致命的；重大的；毁灭性的；命中注定的
+    - adj. fateful 重大的；决定性的；宿命的
+    - adj. fated 命中注定的，宿命的；受命运支配的
+    - adv. fatally 致命地；命中注定地；不可避免地
+    - adv. fatefully 宿命地；决定性地
+    - n. fatality 死亡；宿命；致命性；不幸；灾祸
+    - n. fatalism 宿命论
+    - n. fatalist 宿命论者
   - 近义词
-    - n.
-      - 命运
-        - `lot`
-        - `destiny`
-        - `fortune`
-        - `portion`
-        - `cup of tea`
-    - vt.
-      - 注定
-        - `predestine`
-        - `foreordain`
+    - n. 命运
+      - lot
+      - destiny
+      - fortune
+      - portion
+      - cup of tea
+    - vt. 注定
+      - predestine
+      - foreordain
   - 短语
-    - `as sure as fate`
-      - 千真万确 
+    - as sure as fate 千真万确
   - 例句
-    - `I wouldn’t wish such a fate on my worst enemy.`
-      - 就算是我不共戴天的仇敌，我也不希望他遭遇这样的命运。
-
+    - I wouldn’t wish such a fate on my worst enemy. 就算是我不共戴天的仇敌，我也不希望他遭遇这样的命运。
+  - 补充

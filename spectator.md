@@ -1,28 +1,20 @@
 - spectator
   - 发音
-    - 英
-      - `/'spekteɪtər/`
-    - 美
-      - `/'spɛktetɚ/`
+    - 英 /'spekteɪtər/
+    - 美 /'spɛktetɚ/
   - 词义
-    - n.
-      - 观众；旁观者
-        - `someone who is watching an event or game`
+    - n. 观众；旁观者
+      - someone who is watching an event or game
   - 记忆
     - spect(看) + at + or(表人) → 观众； 旁观者
   - 同根词
-    - vi.
-      - `spectate`
-        - 出席观看
+    - vi. spectate 出席观看
   - 近义词
-    - n.
-      - 观众；旁观者
-        - `audience`
-        - `onlooker`
+    - n. 观众；旁观者
+      - audience
+      - onlooker
   - 短语
-    - `spectator sport`
-      - 吸引大量观众的体育运动 
+    - spectator sport 吸引大量观众的体育运动
   - 例句
-    - `The match attracted over 40,000 spectators.`
-      - 这场比赛吸引了四万多名观众。
-
+    - The match attracted over 40,000 spectators. 这场比赛吸引了四万多名观众。
+  - 补充

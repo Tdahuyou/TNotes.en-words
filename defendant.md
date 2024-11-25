@@ -1,38 +1,24 @@
 - defendant
   - 发音
-    - 英
-      - `/di'fendənt/`
-    - 美
-      - `/dɪ'fɛndənt/`
+    - 英 /di'fendənt/
+    - 美 /dɪ'fɛndənt/
   - 词义
-    - n.
-      - 被告
-        - `the person in a court of law who has been  accused  of doing something illegal`
+    - n. 被告
+      - the person in a court of law who has been  accused  of doing something illegal
   - 记忆
     - defend (保护， 防护) + ant → 保护自己， 为自己辩护 → 被告
   - 同根词
-    - adj.
-      - `defensible`
-        - 可防御的；可辩护的；可拥护的
-    - n.
-      - `defender`
-        - 防卫者，守卫者；辩护者；拥护者；卫冕者
-    - vi.
-      - `defend`
-        - 保卫；防守
-    - vt.
-      - `defend`
-        - 辩护；防护
+    - adj. defensible 可防御的；可辩护的；可拥护的
+    - n. defender 防卫者，守卫者；辩护者；拥护者；卫冕者
+    - vi. defend 保卫；防守
+    - vt. defend 辩护；防护
   - 近义词
-    - adj.
-      - 辩护的；为自己辩护的
-        - `justificatory`
-        - `vindicative`
-    - n.
-      - [法]被告
-        - `accused person`
-        - `indictee`
+    - adj. 辩护的；为自己辩护的
+      - justificatory
+      - vindicative
+    - n. [法]被告
+      - accused person
+      - indictee
   - 例句
-    - `We find the defendant not guilty.`
-      - 我们裁定被告无罪。
-
+    - We find the defendant not guilty. 我们裁定被告无罪。
+  - 补充

@@ -1,9 +1,7 @@
 - solicitousness
   - 发音
-    - 英
-      - `/sə'lisitəsnis/`
-    - 美
-      - `/undefined/`
+    - 英 /sə'lisitəsnis/
+    - 美 /undefined/
   - 词义
-    - n.
-      - 渴望，殷勤
+    - n. 渴望，殷勤
+  - 补充

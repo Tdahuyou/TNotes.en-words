@@ -1,23 +1,16 @@
 - illicit
   - 发音
-    - 英
-      - `/ɪ'lɪsɪt/`
-    - 美
-      - `/ɪ'lɪsɪt/`
+    - 英 /ɪ'lɪsɪt/
+    - 美 /ɪ'lɪsɪt/
   - 词义
-    - adj.
-      - 违法的；不正当的
-        - `not allowed by laws or rules, or strongly disapproved of by society`
+    - adj. 违法的；不正当的
+      - not allowed by laws or rules, or strongly disapproved of by society
   - 同根词
-    - adv.
-      - `illicitly`
-        - 违法地；不正当地；禁止地
+    - adv. illicitly 违法地；不正当地；禁止地
   - 近义词
-    - adj.
-      - 违法的；不正当的
-        - `illegal`
-        - `transgressive`
+    - adj. 违法的；不正当的
+      - illegal
+      - transgressive
   - 例句
-    - `the illicit trade in stolen cattle`
-      - 非法买卖偷来的牛
-
+    - the illicit trade in stolen cattle 非法买卖偷来的牛
+  - 补充

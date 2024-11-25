@@ -1,27 +1,18 @@
 - thereafter
   - 发音
-    - 英
-      - `/ðeər'ɑːftə/`
-    - 美
-      - `/,ðɛr'æftɚ/`
+    - 英 /ðeər'ɑːftə/
+    - 美 /,ðɛr'æftɚ/
   - 词义
-    - adv.
-      - 其后；从那时以后
-        - `after a particular event or time`
+    - adv. 其后；从那时以后
+      - after a particular event or time
   - 同根词
-    - adv.
-      - `therefrom`
-        - 从那里；从此；从那一点
-      - `theretofore`
-        - 在那以前；到那时为止
+    - adv. therefrom 从那里；从此；从那一点
+    - adv. theretofore 在那以前；到那时为止
   - 近义词
-    - adv.
-      - 其后；从那时以后
-        - `subsequently`
-        - `thenceforth`
+    - adv. 其后；从那时以后
+      - subsequently
+      - thenceforth
   - 例句
-    - `10,000 men had volunteered by the end of September; thereafter, approximately 1,000 men enlisted each month.`
-      - 到9月底时已有10,000人志愿参军，此后，每个月差不多有1,000人应征入伍。
-    - `Sophie was born in France, but shortly thereafter her family moved to the United States.`
-      - 索菲出生在法国，但不久以后她全家就移居到了美国。
-
+    - 10,000 men had volunteered by the end of September; thereafter, approximately 1,000 men enlisted each month. 到9月底时已有10,000人志愿参军，此后，每个月差不多有1,000人应征入伍。
+    - Sophie was born in France, but shortly thereafter her family moved to the United States. 索菲出生在法国，但不久以后她全家就移居到了美国。
+  - 补充

@@ -1,43 +1,25 @@
 - maths
   - 发音
-    - 英
-      - `/mæθs/`
-    - 美
-      - `/mæθs/`
+    - 英 /mæθs/
+    - 美 /mæθs/
   - 词义
-    - n.
-      - 数学（等于mathematics）
-        - `mathematics`
+    - n. 数学（等于mathematics）
+      - mathematics
   - 同根词
-    - adj.
-      - `mathematical`
-        - 数学的，数学上的；精确的
-    - adv.
-      - `mathematically`
-        - 算术地，数学上地
-    - n.
-      - `math`
-        - 数学（等于mathematics）
-      - `mathematics`
-        - 数学；数学运算
-      - `mathematician`
-        - 数学家
+    - adj. mathematical 数学的，数学上的；精确的
+    - adv. mathematically 算术地，数学上地
+    - n. math 数学（等于mathematics）
+    - n. mathematics 数学；数学运算
+    - n. mathematician 数学家
   - 近义词
-    - n.
-      - 数学（等于mathematics）
-        - `arith`
+    - n. 数学（等于mathematics）
+      - arith
   - 短语
-    - `math problem`
-      - 数学题 
-    - `math test`
-      - 数学考试 
-    - `math book`
-      - 数学书 
+    - math problem 数学题
+    - math test 数学考试
+    - math book 数学书
   - 例句
-    - `the new maths teacher`
-      - 新来的数学老师
-    - `maths lessons`
-      - 数学课
-    - `She got top marks in maths and chemistry.`
-      - 她数学和化学得了最高分。
-
+    - the new maths teacher 新来的数学老师
+    - maths lessons 数学课
+    - She got top marks in maths and chemistry. 她数学和化学得了最高分。
+  - 补充

@@ -1,22 +1,18 @@
 - ruck
   - 发音
-    - 英
-      - `/rʌk/`
-    - 美
-      - `/rʌk/`
+    - 英 /rʌk/
+    - 美 /rʌk/
   - 词义
-    - v.
-      - 弄皱
-        - `to become or make wrinkled, creased, or puckered `
+    - v. 弄皱
+      - to become or make wrinkled, creased, or puckered 
   - 近义词
-    - n.
-      - 皱；普通人；大量
-        - `lots of`
-        - `wealth`
-        - `ocean`
-        - `sea`
-        - `body`
-    - vt.
-      - 弄皱
-        - `crush`
-        - `crumple`
+    - n. 皱；普通人；大量
+      - lots of
+      - wealth
+      - ocean
+      - sea
+      - body
+    - vt. 弄皱
+      - crush
+      - crumple
+  - 补充

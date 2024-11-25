@@ -1,22 +1,16 @@
 - axe
   - 发音
-    - 英
-      - `/æks/`
-    - 美
-      - `/æks/`
+    - 英 /æks/
+    - 美 /æks/
   - 词义
-    - n.
-      - 斧,(经费的)大削减
-        - `a tool with a heavy metal blade on the end of a long handle, used to cut down trees or split pieces of wood`
+    - n. 斧,(经费的)大削减
+      - a tool with a heavy metal blade on the end of a long handle, used to cut down trees or split pieces of wood
   - 近义词
-    - vt.
-      - 削减；用斧砍
-        - `cut to the bone`
-        - `cut down to`
+    - vt. 削减；用斧砍
+      - cut to the bone
+      - cut down to
   - 短语
-    - `get the axe`
-      - 被开除 
-    - `an axe to grind`
-      - 另有所图；有不同意见；别有用心 
-    - `ice axe`
-      - 冰镐 
+    - get the axe 被开除
+    - an axe to grind 另有所图；有不同意见；别有用心
+    - ice axe 冰镐
+  - 补充

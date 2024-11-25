@@ -1,15 +1,12 @@
 - enflame
   - 发音
-    - 英
-      - `/ɪn'fleɪm/`
-    - 美
-      - `/undefined/`
+    - 英 /ɪn'fleɪm/
+    - 美 /undefined/
   - 词义
-    - v.
-      - 燃烧
+    - v. 燃烧
   - 记忆
     - en(进入) + flame(燃烧) → 进入燃烧 → 燃烧
   - 近义词
-    - v.
-      - 燃烧
-        - `conflagate`
+    - v. 燃烧
+      - conflagate
+  - 补充

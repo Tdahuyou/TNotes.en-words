@@ -1,23 +1,16 @@
 - undeniable
   - 发音
-    - 英
-      - `/ʌndɪ'naɪəb(ə)l/`
-    - 美
-      - `/'ʌndɪ'naɪəbl/`
+    - 英 /ʌndɪ'naɪəb(ə)l/
+    - 美 /'ʌndɪ'naɪəbl/
   - 词义
-    - adj.
-      - 不可否认的,无可辩驳的
-        - `definitely true or certain`
+    - adj. 不可否认的,无可辩驳的
+      - definitely true or certain
   - 同根词
-    - adv.
-      - `undeniably`
-        - 不可否认地；确凿无疑地
+    - adv. undeniably 不可否认地；确凿无疑地
   - 近义词
-    - adj.
-      - 不可否认的；公认优秀的；无可争辩的
-        - `incontestable`
-        - `undisputed`
+    - adj. 不可否认的；公认优秀的；无可争辩的
+      - incontestable
+      - undisputed
   - 例句
-    - `undeniable proof`
-      - 确证
-
+    - undeniable proof 确证
+  - 补充

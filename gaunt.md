@@ -1,25 +1,17 @@
 - gaunt
   - 发音
-    - 英
-      - `/gɔːnt/`
-    - 美
-      - `/ɡɔ:nt/`
+    - 英 /gɔːnt/
+    - 美 /ɡɔ:nt/
   - 词义
-    - adj.
-      - 憔悴的；荒凉的；枯瘦的
-        - `very thin and pale, especially because of illness or continued worry`
-    - n.
-      - (Gaunt)人名；(英)冈特
+    - adj. 憔悴的；荒凉的；枯瘦的
+      - very thin and pale, especially because of illness or continued worry
+    - n. (Gaunt)人名；(英)冈特
   - 同根词
-    - n.
-      - `gauntness`
-        - 瘦削；荒凉
+    - n. gauntness 瘦削；荒凉
   - 近义词
-    - adj.
-      - 憔悴的；荒凉的；枯瘦的
-        - `wild`
-        - `desert`
+    - adj. 憔悴的；荒凉的；枯瘦的
+      - wild
+      - desert
   - 例句
-    - `the old man’s gaunt face`
-      - 老人那瘦削的脸庞
-
+    - the old man’s gaunt face 老人那瘦削的脸庞
+  - 补充

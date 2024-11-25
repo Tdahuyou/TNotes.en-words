@@ -1,23 +1,16 @@
 - salesclerk
   - 发音
-    - 英
-      - `/'seɪlzklɑːk/`
-    - 美
-      - `/'seilzklɑ:k, -klə:k/`
+    - 英 /'seɪlzklɑːk/
+    - 美 /'seilzklɑ:k, -klə:k/
   - 词义
-    - n.
-      - 售货员；商店里的店员
-        - `someone who sells things in a shop`
+    - n. 售货员；商店里的店员
+      - someone who sells things in a shop
   - 同根词
-    - n.
-      - `saleslady`
-        - 女售货员
+    - n. saleslady 女售货员
   - 近义词
-    - n.
-      - [贸易]售货员；商店里的店员
-        - `seller`
-        - `counterjumper`
+    - n. [贸易]售货员；商店里的店员
+      - seller
+      - counterjumper
   - 例句
-    - `What I dislike most is the word‘No Problem’replies from salesclerk.`
-      - 我讨厌售货员突然靠上来。 但我最讨厌的，是售货员说‘没问题’。
-
+    - What I dislike most is the word‘No Problem’replies from salesclerk. 我讨厌售货员突然靠上来。 但我最讨厌的，是售货员说‘没问题’。
+  - 补充

@@ -1,11 +1,9 @@
 - unregulated
   - 发音
-    - 英
-      - `/ˌʌn'regjuleɪtɪd/`
-    - 美
-      - `/,ʌn'rɛɡjuletɪd/`
+    - 英 /ˌʌn'regjuleɪtɪd/
+    - 美 /,ʌn'rɛɡjuletɪd/
   - 词义
-    - adj.
-      - 未受控制的，未受约束的
+    - adj. 未受控制的，未受约束的
   - 记忆
     - un(不) + regulat(e)(管制) + ed → 未受控制的， 未受约束的
+  - 补充

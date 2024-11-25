@@ -1,33 +1,21 @@
 - excel
   - 发音
-    - 英
-      - `/ɪk'sel; ek-/`
-    - 美
-      - `/ɪk'sɛl/`
+    - 英 /ɪk'sel; ek-/
+    - 美 /ɪk'sɛl/
   - 词义
-    - v.
-      - 优秀,胜过他人
-        - `to do something very well, or much better than most people`
+    - v. 优秀,胜过他人
+      - to do something very well, or much better than most people
   - 同根词
-    - adv.
-      - `excellently`
-        - 极好地；优异地
-    - n.
-      - `excellence`
-        - 优秀；美德；长处
-      - `excellency`
-        - 阁下；优点，美德
+    - adv. excellently 极好地；优异地
+    - n. excellence 优秀；美德；长处
+    - n. excellency 阁下；优点，美德
   - 近义词
-    - vt.
-      - 优于，胜过；擅长
-        - `overcome`
-        - `cap`
+    - vt. 优于，胜过；擅长
+      - overcome
+      - cap
   - 短语
-    - `excel in`
-      - v. 在……方面胜过；在……方面很擅长 
-    - `excel at`
-      - 突出；擅长于 
+    - excel in v. 在……方面胜过；在……方面很擅长
+    - excel at 突出；擅长于
   - 例句
-    - `You have excelled yourself with the new exhibition.`
-      - 你新办的这次展览特别成功。
-
+    - You have excelled yourself with the new exhibition. 你新办的这次展览特别成功。
+  - 补充

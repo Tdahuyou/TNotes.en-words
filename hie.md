@@ -1,19 +1,15 @@
 - hie
   - 发音
-    - 英
-      - `/haɪ/`
-    - 美
-      - `/haɪ/`
+    - 英 /haɪ/
+    - 美 /haɪ/
   - 词义
-    - v.
-      - 疾走，快速
-        - `to hurry; hasten; speed `
+    - v. 疾走，快速
+      - to hurry; hasten; speed 
   - 近义词
-    - vt.
-      - 催促；快走；使赶紧
-        - `crowd`
-        - `urge`
-    - vi.
-      - 赶快；催促
-        - `hurry up`
-        - `get a move on`
+    - vt. 催促；快走；使赶紧
+      - crowd
+      - urge
+    - vi. 赶快；催促
+      - hurry up
+      - get a move on
+  - 补充

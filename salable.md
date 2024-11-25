@@ -1,23 +1,15 @@
 - salable
   - 发音
-    - 英
-      - `/'seɪləbl/`
-    - 美
-      - `/'seiləbl/`
+    - 英 /'seɪləbl/
+    - 美 /'seiləbl/
   - 词义
-    - adj.
-      - 畅销的；适于销售的；价格适当的
+    - adj. 可出售的，卖得出的
   - 同根词
-    - adj.
-      - `saleable`
-        - 畅销的；可供出售的
-    - n.
-      - `sale`
-        - 销售；出售；拍卖；销售额；廉价出售
-      - `salability`
-        - 畅销；出售
+    - adj. saleable 畅销的；可供出售的
+    - n. sale 销售；出售；拍卖；销售额；廉价出售
+    - n. salability 畅销；出售
   - 近义词
-    - adj.
-      - 畅销的；适于销售的；价格适当的
-        - `bestselling`
-        - `saleable`
+    - adj. 畅销的；适于销售的；价格适当的
+      - bestselling
+      - saleable
+  - 补充

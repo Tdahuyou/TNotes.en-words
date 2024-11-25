@@ -1,30 +1,20 @@
 - complacent
   - 发音
-    - 英
-      - `/kəm'pleisnt/`
-    - 美
-      - `/kəm'plesnt/`
+    - 英 /kəm'pleisnt/
+    - 美 /kəm'plesnt/
   - 词义
-    - adj.
-      - 自满的
-        - `pleased with a situation, especially something you have achieved, so that you stop trying to improve or change things – used to show disapproval`
+    - adj. 自满的
+      - pleased with a situation, especially something you have achieved, so that you stop trying to improve or change things – used to show disapproval
   - 记忆
     - 和complaisant (a. 随和的) 区分记忆
   - 同根词
-    - adv.
-      - `complacently`
-        - 满足地；自满地；沾沾自喜地
-    - n.
-      - `complacency`
-        - 自满；满足；自鸣得意
+    - adv. complacently 满足地；自满地；沾沾自喜地
+    - n. complacency 自满；满足；自鸣得意
   - 近义词
-    - adj.
-      - 自满的；得意的；满足的
-        - `proud`
-        - `fulfilled`
+    - adj. 自满的；得意的；满足的
+      - proud
+      - fulfilled
   - 例句
-    - `There’s a danger of becoming complacent if you win a few games.`
-      - 赢了几场比赛可能就会变得沾沾自喜。
-    - `a complacent attitude towards the problem`
-      - 对问题满不在乎的态度
-
+    - There’s a danger of becoming complacent if you win a few games. 赢了几场比赛可能就会变得沾沾自喜。
+    - a complacent attitude towards the problem 对问题满不在乎的态度
+  - 补充

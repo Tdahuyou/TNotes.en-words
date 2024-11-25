@@ -1,18 +1,13 @@
 - liken
   - 发音
-    - 英
-      - `/'laɪk(ə)n/`
-    - 美
-      - `/'laɪkən/`
+    - 英 /'laɪk(ə)n/
+    - 美 /'laɪkən/
   - 词义
-    - v.
-      - 比拟；把…比作
-        - `If you liken one thing or person to another thing or person, you say that they are similar`
+    - v. 比拟；把…比作
+      - If you liken one thing or person to another thing or person, you say that they are similar
   - 近义词
-    - vt.
-      - 比拟；把…比作
-        - `assimilate`
+    - vt. 比拟；把…比作
+      - assimilate
   - 例句
-    - `She likens marriage to slavery.`
-      - 她把婚姻比作奴役。
-
+    - She likens marriage to slavery. 她把婚姻比作奴役。
+  - 补充

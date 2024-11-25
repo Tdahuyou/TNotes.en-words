@@ -1,32 +1,21 @@
 - surely
   - 发音
-    - 英
-      - `/'ʃʊəlɪ; 'ʃɔːlɪ/`
-    - 美
-      - `/'ʃʊrli/`
+    - 英 /'ʃʊəlɪ; 'ʃɔːlɪ/
+    - 美 /'ʃʊrli/
   - 词义
-    - adv.
-      - 当然；无疑；坚定地；稳当地
-        - `certainly`
+    - adv. 当然；无疑；坚定地；稳当地
+      - certainly
   - 同根词
-    - adj.
-      - `sure`
-        - 确信的；可靠的；必定的
-      - `surefooted`
-        - 脚踏实地的，稳当的；无差错的
-    - adv.
-      - `sure`
-        - 当然；的确
+    - adj. sure 确信的；可靠的；必定的
+    - adj. surefooted 脚踏实地的，稳当的；无差错的
+    - adv. sure 当然；的确
   - 近义词
-    - adv.
-      - 当然；无疑；坚定地；稳当地
-        - `certainly`
-        - `definitely`
-        - `firmly`
+    - adv. 当然；无疑；坚定地；稳当地
+      - certainly
+      - definitely
+      - firmly
   - 短语
-    - `slowly but surely`
-      - 稳扎稳打，踏实的 
+    - slowly but surely 稳扎稳打，踏实的
   - 例句
-    - `Such sinners will surely be punished.`
-      - 这样的罪人必定会受到惩罚。
-
+    - Such sinners will surely be punished. 这样的罪人必定会受到惩罚。
+  - 补充

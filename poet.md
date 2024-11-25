@@ -1,37 +1,22 @@
 - poet
   - 发音
-    - 英
-      - `/'pəʊɪt/`
-    - 美
-      - `/'poət/`
+    - 英 /'pəʊɪt/
+    - 美 /'poət/
   - 词义
-    - n.
-      - 诗人
-        - `someone who writes poems`
+    - n. 诗人
+      - someone who writes poems
   - 同根词
-    - adj.
-      - `poetic`
-        - 诗的，诗歌的；诗意的；诗人的
-    - n.
-      - `poetic`
-        - 诗学，诗论
-      - `poetess`
-        - 女诗人
-    - vi.
-      - `poetize`
-        - 作诗
-    - vt.
-      - `poetize`
-        - 作诗；有诗意地描写
+    - adj. poetic 诗的，诗歌的；诗意的；诗人的
+    - n. poetic 诗学，诗论
+    - n. poetess 女诗人
+    - vi. poetize 作诗
+    - vt. poetize 作诗；有诗意地描写
   - 近义词
-    - n.
-      - 诗人
-        - `fili`
-        - `metrist`
+    - n. 诗人
+      - fili
+      - metrist
   - 短语
-    - `poet laureate`
-      - 桂冠诗人；优秀的诗人 
+    - poet laureate 桂冠诗人；优秀的诗人
   - 例句
-    - `He was a painter and poet.`
-      - 他是一位画家兼诗人。
-
+    - He was a painter and poet. 他是一位画家兼诗人。
+  - 补充

@@ -1,40 +1,26 @@
 - mint
   - 发音
-    - 英
-      - `/mɪnt/`
-    - 美
-      - `/mɪnt/`
+    - 英 /mɪnt/
+    - 美 /mɪnt/
   - 词义
-    - v.
-      - 铸造
-        - `to make a coin`
-    - n.
-      - 薄荷；造币厂；大量的钱
-        - `a small plant with green leaves that have a fresh smell and taste and are used in cooking`
+    - v. 铸造
+      - to make a coin
+    - n. 薄荷；造币厂；大量的钱
+      - a small plant with green leaves that have a fresh smell and taste and are used in cooking
   - 同根词
-    - n.
-      - `mintage`
-        - 铸币材料；造币；刻印
-      - `minter`
-        - 铸币工人
+    - n. mintage 铸币材料；造币；刻印
+    - n. minter 铸币工人
   - 近义词
-    - n.
-      - [植]薄荷；[金融]造币厂，巨款
-        - `menta`
-        - `peppermint`
-    - vt.
-      - 铸造，铸币
-        - `coin`
+    - n. [植]薄荷；[金融]造币厂，巨款
+      - menta
+      - peppermint
+    - vt. 铸造，铸币
+      - coin
   - 短语
-    - `mint condition`
-      - 崭新的 
-    - `mint julep`
-      - （美）薄荷朱利酒 
-    - `in mint condition`
-      - adj. 崭新的；完全的 
-    - `mint tea`
-      - 薄荷茶；薄荷锡兰茶 
+    - mint condition 崭新的
+    - mint julep （美）薄荷朱利酒
+    - in mint condition adj. 崭新的；完全的
+    - mint tea 薄荷茶；薄荷锡兰茶
   - 例句
-    - `Only 2,000 of the special commemorative coins are being minted.`
-      - 这种特别纪念币只有2,000枚在铸造中。
-
+    - Only 2,000 of the special commemorative coins are being minted. 这种特别纪念币只有2,000枚在铸造中。
+  - 补充

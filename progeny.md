@@ -1,24 +1,19 @@
 - progeny
   - 发音
-    - 英
-      - `/'prɔdʒəni/`
-    - 美
-      - `/'prɑdʒəni/`
+    - 英 /'prɔdʒəni/
+    - 美 /'prɑdʒəni/
   - 词义
-    - n.
-      - 后裔
-        - `the babies of animals or plants`
+    - n. 后裔
+      - the babies of animals or plants
   - 记忆
     - pro (前) + gen (产生) + y → 前人所生下的 → 后裔
   - 近义词
-    - n.
-      - 子孙；后裔；成果
-        - `production`
-        - `child`
-        - `feedback`
-        - `outcome`
-        - `seed`
+    - n. 子孙；后裔；成果
+      - production
+      - child
+      - feedback
+      - outcome
+      - seed
   - 例句
-    - `...the freed slaves and their progeny.`
-      - ...被释放的奴隶和他们的后代。
-
+    - ...the freed slaves and their progeny. ...被释放的奴隶和他们的后代。
+  - 补充

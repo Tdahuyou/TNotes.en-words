@@ -1,33 +1,11 @@
 - constructivist
   - 发音
-    - 英
-      - `/undefined/`
-    - 美
-      - `/kən'strʌktɪvɪst/`
+    - 英 /kən'strʌktɪvɪst/
+    - 美 /undefined/
   - 词义
-    - n.
-      - 构成主义者
+    - n. 构成主义者
   - 记忆
     - 来自construct(v. 构造， 建造)
-  - 同根词
-    - adj.
-      - `constructive`
-        - 建设性的；推定的；构造上的；有助益的
-      - `constructible`
-        - [数] 可构成的
-    - n.
-      - `construct`
-        - 构想，概念
-      - `constructor`
-        - 构造函数；构造器；建造者
-      - `constructivism`
-        - 构成主义；构成派
-    - vt.
-      - `construct`
-        - 建造，构造；创立
   - 例句
-    - `Consider the classic constructivist activity of 'making meaning', for example.`
-      - 比方说，谈到经典构成主义者（constructivist）的“赋予意义”行动时。
-    - `It suggests that the teaching of teacher education itself must be constructivist, and so on.`
-      - 提出了教师教育的教学本身应是建构主义的等等教育教学主张。
-
+    - This study used constructivist as the research philosophy and a deductive approach, it adopted qualitative research methods, a semi-structured interview and a desk research tool. 本研究采用建构主义作为研究哲学和演绎的方法，它通过定性研究方法，半结构化面试和案头研究工具。
+  - 补充

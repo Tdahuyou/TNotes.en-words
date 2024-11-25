@@ -1,96 +1,54 @@
 - fan
   - 发音
-    - 英
-      - `/fæn/`
-    - 美
-      - `/fæn/`
+    - 英 /fæn/
+    - 美 /fæn/
   - 词义
-    - n.
-      - 扇子
-        - `a machine with turning blades that is used to cool the air in a room by moving it around`
+    - n. 扇子
+      - a machine with turning blades that is used to cool the air in a room by moving it around
   - 记忆
     - “粉丝”就是音译自fans
   - 同根词
-    - adj.
-      - `fancy`
-        - 想象的；奇特的；昂贵的；精选的
-      - `fancied`
-        - 空想的；虚构的；受喜爱的；被特别爱好的
-      - `fanlike`
-        - 扇状的；折叠的
-    - n.
-      - `fancy`
-        - 幻想；想像力；爱好
-      - `fancier`
-        - 爱好者；空想家；育种者
-      - `fanning`
-        - 铺开，展开；形成气流
-      - `fandom`
-        - 运动迷；影迷
-    - v.
-      - `fanning`
-        - 吹风
-    - vi.
-      - `fancy`
-        - 幻想；想象
-    - vt.
-      - `fancy`
-        - 想象；喜爱；设想；自负
+    - adj. fancy 想象的；奇特的；昂贵的；精选的
+    - adj. fancied 空想的；虚构的；受喜爱的；被特别爱好的
+    - adj. fanlike 扇状的；折叠的
+    - n. fancy 幻想；想像力；爱好
+    - n. fancier 爱好者；空想家；育种者
+    - n. fanning 铺开，展开；形成气流
+    - n. fandom 运动迷；影迷
+    - v. fanning 吹风
+    - vi. fancy 幻想；想象
+    - vt. fancy 想象；喜爱；设想；自负
   - 近义词
-    - vt.
-      - 煽动；刺激；吹拂
-        - `stimulate`
-        - `egg`
-    - vi.
-      - 成扇形散开；飘动
-        - `float`
-        - `flutter`
-    - n.
-      - 迷；[电]风扇；爱好者
-        - `lover`
-        - `aficionado`
+    - vt. 煽动；刺激；吹拂
+      - stimulate
+      - egg
+    - vi. 成扇形散开；飘动
+      - float
+      - flutter
+    - n. 迷；[电]风扇；爱好者
+      - lover
+      - aficionado
   - 短语
-    - `fan in`
-      - n. 扇入端数 
-    - `cooling fan`
-      - 冷却风扇 
-    - `alluvial fan`
-      - 冲积扇；扇形地；扇状地 
-    - `centrifugal fan`
-      - 离心式风扇；离心式鼓风机 
-    - `axial fan`
-      - 轴流式通风机；轴流式风扇；轴两扇风机 
-    - `electric fan`
-      - n. 电扇 
-    - `exhaust fan`
-      - n. 排气扇；抽风机；排风机 
-    - `fan club`
-      - 追星族俱乐部；名流崇拜者俱乐部 
-    - `flow fan`
-      - 风扇 
-    - `fan coil`
-      - 风机盘管 
-    - `hit the fan`
-      - [美国俚语]酿成大乱，产生严重后果；有极大的(往往是不良的)影响 
-    - `axial flow fan`
-      - 轴流风机；轴流式风扇 
-    - `fan motor`
-      - 风扇电动机，风扇马达；风力动力机 
-    - `fan blade`
-      - 风扇叶片；风机叶片 
-    - `draft fan`
-      - 抽风机；通风机；通气风扇 
-    - `blower fan`
-      - 鼓风机；增压风机 
-    - `ceiling fan`
-      - 吊（式）风扇；天花风扇 
-    - `axial-flow fan`
-      - 轴流式通风机 
-    - `suction fan`
-      - 抽风机；排气通风机 
-    - `induced draft fan`
-      - 引风机；抽风式风扇 
+    - fan in n. 扇入端数
+    - cooling fan 冷却风扇
+    - alluvial fan 冲积扇；扇形地；扇状地
+    - centrifugal fan 离心式风扇；离心式鼓风机
+    - axial fan 轴流式通风机；轴流式风扇；轴两扇风机
+    - electric fan n. 电扇
+    - exhaust fan n. 排气扇；抽风机；排风机
+    - fan club 追星族俱乐部；名流崇拜者俱乐部
+    - flow fan 风扇
+    - fan coil 风机盘管
+    - hit the fan [美国俚语]酿成大乱，产生严重后果；有极大的(往往是不良的)影响
+    - axial flow fan 轴流风机；轴流式风扇
+    - fan motor 风扇电动机，风扇马达；风力动力机
+    - fan blade 风扇叶片；风机叶片
+    - draft fan 抽风机；通风机；通气风扇
+    - blower fan 鼓风机；增压风机
+    - ceiling fan 吊（式）风扇；天花风扇
+    - axial-flow fan 轴流式通风机
+    - suction fan 抽风机；排气通风机
+    - induced draft fan 引风机；抽风式风扇
   - 例句
-    - `a ceiling fan`
-      - 吊扇
-
+    - a ceiling fan 吊扇
+  - 补充

@@ -1,65 +1,37 @@
 - lymphatic
   - 发音
-    - 英
-      - `/lɪm'fætɪk/`
-    - 美
-      - `/lɪm'fætɪk/`
+    - 英 /lɪm'fætɪk/
+    - 美 /lɪm'fætɪk/
   - 词义
-    - adj.
-      - 无力的；迟缓的；淋巴的
-        - `of, relating to, or containing lymph  `
+    - adj. 无力的；迟缓的；淋巴的
+      - of, relating to, or containing lymph  
   - 记忆
     - 来自lymph(n. 淋巴)
   - 同根词
-    - [内科].
-      - `lymphocytopenia`
-        - [内科] 淋巴细胞减少症
-    - adj.
-      - `lymphoid`
-        - 淋巴的；淋巴样的
-      - `lymphocytic`
-        - 淋巴细胞的；淋巴球的
-    - n.
-      - `lymph`
-        - [解剖] 淋巴，淋巴液；血清
-      - `lymphocyte`
-        - [免疫] 淋巴细胞；淋巴球
-      - `lymphoma`
-        - [肿瘤] 淋巴瘤
-      - `lymphadenopathy`
-        - [内科] 淋巴结病
-      - `lymphadenitis`
-        - 淋巴腺炎
-      - `lymphadenoma`
-        - 淋巴腺瘤
-      - `lymphangiogram`
-        - 淋巴管X射线照片
-      - `lymphangiography`
-        - 淋巴管造影术
-      - `lymphangioma`
-        - [肿瘤] 淋巴管瘤
-      - `lymphangitis`
-        - [内科] 淋巴管炎（等于lymphangiitis）
-      - `lymphoblast`
-        - [组织][免疫] 成淋巴细胞；[组织][免疫] 淋巴母细胞
-      - `lymphocytosis`
-        - 淋巴球增多；淋巴球过多症
-      - `lymphogranuloma`
-        - 淋巴肉芽肿
-      - `lymphokine`
-        - 淋巴因子，淋巴激活素
-      - `lymphopenia`
-        - 淋巴球减少症
+    - [内科]. lymphocytopenia [内科] 淋巴细胞减少症
+    - adj. lymphoid 淋巴的；淋巴样的
+    - adj. lymphocytic 淋巴细胞的；淋巴球的
+    - n. lymph [解剖] 淋巴，淋巴液；血清
+    - n. lymphocyte [免疫] 淋巴细胞；淋巴球
+    - n. lymphoma [肿瘤] 淋巴瘤
+    - n. lymphadenopathy [内科] 淋巴结病
+    - n. lymphadenitis 淋巴腺炎
+    - n. lymphadenoma 淋巴腺瘤
+    - n. lymphangiogram 淋巴管X射线照片
+    - n. lymphangiography 淋巴管造影术
+    - n. lymphangioma [肿瘤] 淋巴管瘤
+    - n. lymphangitis [内科] 淋巴管炎（等于lymphangiitis）
+    - n. lymphoblast [组织][免疫] 成淋巴细胞；[组织][免疫] 淋巴母细胞
+    - n. lymphocytosis 淋巴球增多；淋巴球过多症
+    - n. lymphogranuloma 淋巴肉芽肿
+    - n. lymphokine 淋巴因子，淋巴激活素
+    - n. lymphopenia 淋巴球减少症
   - 近义词
-    - n.
-      - [解剖]淋巴管；淋巴腺
-        - `lymph gland`
+    - n. [解剖]淋巴管；淋巴腺
+      - lymph gland
   - 短语
-    - `lymphatic system`
-      - [医]淋巴系统 
-    - `lymphatic vessel`
-      - 淋巴管 
+    - lymphatic system [医]淋巴系统
+    - lymphatic vessel 淋巴管
   - 例句
-    - `the lymphatic vessels`
-      - 
-
+    - the lymphatic vessels 
+  - 补充

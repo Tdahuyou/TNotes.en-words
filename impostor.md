@@ -1,22 +1,15 @@
 - impostor
   - 发音
-    - 英
-      - `/ɪm'pɒstə/`
-    - 美
-      - `/ɪm'pɑstɚ/`
+    - 英 /ɪm'pɒstə/
+    - 美 /ɪm'pɑstɚ/
   - 词义
-    - n.
-      - 骗子；冒充者
+    - n. 骗子；冒充者
   - 同根词
-    - n.
-      - `imposter`
-        - 骗子；冒名顶替者
+    - n. imposter 骗子；冒名顶替者
   - 近义词
-    - n.
-      - 骗子；冒充者
-        - `fraud`
-        - `sharp`
+    - n. 骗子；冒充者
+      - fraud
+      - sharp
   - 例句
-    - `The nurse was soon discovered to be an impostor.`
-      - 那个护士很快被发现是个冒牌货。
-
+    - The nurse was soon discovered to be an impostor. 那个护士很快被发现是个冒牌货。
+  - 补充

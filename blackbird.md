@@ -1,14 +1,11 @@
 - blackbird
   - 发音
-    - 英
-      - `/'blækbɜːd/`
-    - 美
-      - `/'blækbɝd/`
+    - 英 /'blækbɜːd/
+    - 美 /'blækbɝd/
   - 词义
-    - n.
-      - 山鸟类
+    - n. 山鸟类
   - 近义词
-    - n.
-      - 画眉；燕八哥；山鸟类
-        - `thrush`
-        - `cowbird`
+    - n. 画眉；燕八哥；山鸟类
+      - thrush
+      - cowbird
+  - 补充

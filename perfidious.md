@@ -1,28 +1,19 @@
 - perfidious
   - 发音
-    - 英
-      - `/pə'fidiəs/`
-    - 美
-      - `/pɚ'fɪdɪəs/`
+    - 英 /pə'fidiəs/
+    - 美 /pɚ'fɪdɪəs/
   - 词义
-    - adj.
-      - 背信弃义的
-        - `someone who is perfidious is not loyal and cannot be trusted`
+    - adj. 背信弃义的
+      - someone who is perfidious is not loyal and cannot be trusted
   - 记忆
     - per (假， 坏) + fid (相信) + ious → 假诚信的 → 背信弃义的
   - 同根词
-    - adv.
-      - `perfidiously`
-        - 不忠实地；背信地
-    - n.
-      - `perfidy`
-        - 不诚实；背信弃义
+    - adv. perfidiously 不忠实地；背信地
+    - n. perfidy 不诚实；背信弃义
   - 近义词
-    - adj.
-      - 背信弃义的；不忠的
-        - `disloyal`
-        - `treasonable`
+    - adj. 背信弃义的；不忠的
+      - disloyal
+      - treasonable
   - 例句
-    - `Their feet will trample on the dead bodies of their perfidious aggressors.`
-      - 他们将从背信弃义的侵略者的尸体上踏过。
-
+    - Their feet will trample on the dead bodies of their perfidious aggressors. 他们将从背信弃义的侵略者的尸体上踏过。
+  - 补充

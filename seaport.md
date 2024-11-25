@@ -1,22 +1,16 @@
 - seaport
   - 发音
-    - 英
-      - `/'siːpɔːt/`
-    - 美
-      - `/'sipɔrt/`
+    - 英 /'siːpɔːt/
+    - 美 /'sipɔrt/
   - 词义
-    - n.
-      - 海港,港口都市
-        - `a large town on or near a coast, with a  harbour  that big ships can use`
+    - n. 海港,港口都市
+      - a large town on or near a coast, with a  harbour  that big ships can use
   - 近义词
-    - n.
-      - 海港；港口都市
-        - `harbor`
-        - `ocean port`
+    - n. 海港；港口都市
+      - harbor
+      - ocean port
   - 短语
-    - `south street seaport`
-      - n. 南街海港（美国纽约） 
+    - south street seaport n. 南街海港（美国纽约）
   - 例句
-    - `...the Baltic seaport of Rostock.`
-      - ...波罗的海沿岸的海港城市罗斯托克。
-
+    - ...the Baltic seaport of Rostock. ...波罗的海沿岸的海港城市罗斯托克。
+  - 补充

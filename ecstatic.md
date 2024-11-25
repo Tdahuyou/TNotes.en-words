@@ -1,25 +1,18 @@
 - ecstatic
   - 发音
-    - 英
-      - `/ik'stætik/`
-    - 美
-      - `/ɪk'stætɪk/`
+    - 英 /ik'stætik/
+    - 美 /ɪk'stætɪk/
   - 词义
-    - adj.
-      - 欣喜若狂的，入迷的，出神的
-        - `feeling extremely happy and excited`
+    - adj. 欣喜若狂的，入迷的，出神的
+      - feeling extremely happy and excited
   - 记忆
     - ecsta (sy) (入迷) + tic (…的) → 入迷的
   - 同根词
-    - adv.
-      - `ecstatically`
-        - 心醉神迷地；狂喜地
+    - adv. ecstatically 心醉神迷地；狂喜地
   - 近义词
-    - adj.
-      - 狂喜的；入迷的
-        - `rapturous`
-        - `enrapt`
+    - adj. 狂喜的；入迷的
+      - rapturous
+      - enrapt
   - 例句
-    - `an ecstatic welcome from the thousands who lined the streets`
-      - 数千人狂热的夹道欢迎
-
+    - an ecstatic welcome from the thousands who lined the streets 数千人狂热的夹道欢迎
+  - 补充

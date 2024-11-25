@@ -1,24 +1,17 @@
 - transude
   - 发音
-    - 英
-      - `/træn'sjuːd; trɑːn-/`
-    - 美
-      - `/træn'zjʊd/`
+    - 英 /træn'sjuːd; trɑːn-/
+    - 美 /træn'zjʊd/
   - 词义
-    - v.
-      - [医](使)渗出
-        - `(of a fluid) to ooze or pass through interstices, pores, or small holes `
+    - v. [医](使)渗出
+      - (of a fluid) to ooze or pass through interstices, pores, or small holes 
   - 同根词
-    - n.
-      - `transudate`
-        - [组织] 渗出液；漏出物（等于transudation）
-      - `transudation`
-        - 渗出物；渗透，漏出
+    - n. transudate [组织] 渗出液；漏出物（等于transudation）
+    - n. transudation 渗出物；渗透，漏出
   - 近义词
-    - vt.
-      - 使渗透；使排出
-        - `instil`
-        - `diosmose`
-    - vi.
-      - 渗漏，渗出
-        - `seep`
+    - vt. 使渗透；使排出
+      - instil
+      - diosmose
+    - vi. 渗漏，渗出
+      - seep
+  - 补充

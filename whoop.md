@@ -1,33 +1,22 @@
 - whoop
   - 发音
-    - 英
-      - `/wuːp/`
-    - 美
-      - `/wup/`
+    - 英 /wuːp/
+    - 美 /wup/
   - 词义
-    - n.
-      - 大叫；哮喘声；呐喊；一点点
-    - v.
-      - 高声说；唤起
+    - n. 大叫；哮喘声；呐喊；一点点
+    - v. 高声说；唤起
   - 同根词
-    - int.
-      - `whoopee`
-        - 哇！
-    - n.
-      - `whoopee`
-        - 喧闹；狂欢；欢呼声
-      - `whooper`
-        - 高喊者；狂欢的人；咳嗽者
+    - int. whoopee 哇！
+    - n. whoopee 喧闹；狂欢；欢呼声
+    - n. whooper 高喊者；狂欢的人；咳嗽者
   - 近义词
-    - n.
-      - 大叫；哮喘声；呐喊；一点点
-        - `little bit`
-        - `just a little`
-    - vt.
-      - 高声说；唤起
-        - `call out`
-        - `call forth`
-    - vi.
-      - 叫喊；喘息
-        - `catch one's breath`
-        - `bawl out`
+    - n. 大叫；哮喘声；呐喊；一点点
+      - little bit
+      - just a little
+    - vt. 高声说；唤起
+      - call out
+      - call forth
+    - vi. 叫喊；喘息
+      - catch one's breath
+      - bawl out
+  - 补充

@@ -1,26 +1,18 @@
 - grandmother
   - 发音
-    - 英
-      - `/'græn(d)mʌðə/`
-    - 美
-      - `/'ɡrænmʌðɚ/`
+    - 英 /'græn(d)mʌðə/
+    - 美 /'ɡrænmʌðɚ/
   - 词义
-    - n.
-      - （外）祖母
-        - `the mother of your mother or father`
+    - n. （外）祖母
+      - the mother of your mother or father
   - 同根词
-    - n.
-      - `grandparent`
-        - 祖父母；祖父或祖母；外祖父母；外祖父或外祖母
+    - n. grandparent 祖父母；祖父或祖母；外祖父母；外祖父或外祖母
   - 近义词
-    - n.
-      - 祖母；女祖先
-        - `nin`
-        - `grammy`
+    - n. 祖母；女祖先
+      - nin
+      - grammy
   - 短语
-    - `maternal grandmother`
-      - 外祖母；外婆；姥姥 
+    - maternal grandmother 外祖母；外婆；姥姥
   - 例句
-    - `My grandmothers are both widows.`
-      - 我的祖母和外祖母都是寡妇。
-
+    - My grandmothers are both widows. 我的祖母和外祖母都是寡妇。
+  - 补充

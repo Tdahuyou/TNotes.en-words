@@ -1,29 +1,20 @@
 - indulgent
   - 发音
-    - 英
-      - `/in'dʌldʒənt/`
-    - 美
-      - `/ɪn'dʌldʒənt/`
+    - 英 /in'dʌldʒənt/
+    - 美 /ɪn'dʌldʒənt/
   - 词义
-    - adj.
-      - 纵容的
-        - `willing to allow someone, especially a child, to do or have whatever they want, even if this is not good for them`
+    - adj. 纵容的
+      - willing to allow someone, especially a child, to do or have whatever they want, even if this is not good for them
   - 记忆
     - 来自indulg (e) (纵容) + ent → 纵容的
   - 同根词
-    - adv.
-      - `indulgently`
-        - 溺爱地；放任地
-    - n.
-      - `indulgence`
-        - 嗜好；放纵；纵容；沉溺
+    - adv. indulgently 溺爱地；放任地
+    - n. indulgence 嗜好；放纵；纵容；沉溺
   - 近义词
-    - adj.
-      - 放纵的；宽容的；任性的
-        - `kind`
-        - `tolerant`
-        - `luxurious`
+    - adj. 放纵的；宽容的；任性的
+      - kind
+      - tolerant
+      - luxurious
   - 例句
-    - `toys bought by their indulgent grandparents`
-      - 溺爱孩子的(外)祖父母买的玩具
-
+    - toys bought by their indulgent grandparents 溺爱孩子的(外)祖父母买的玩具
+  - 补充

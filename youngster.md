@@ -1,34 +1,21 @@
 - youngster
   - 发音
-    - 英
-      - `/'jʌŋstə/`
-    - 美
-      - `/'jʌŋstɚ/`
+    - 英 /'jʌŋstə/
+    - 美 /'jʌŋstɚ/
   - 词义
-    - n.
-      - 年青人,少年
-        - `Young people, especially children, are sometimes referred to as youngsters`
+    - n. 年青人,少年
+      - Young people, especially children, are sometimes referred to as youngsters
   - 同根词
-    - adj.
-      - `young`
-        - 年轻的；初期的；没有经验的
-      - `younger`
-        - 较年轻的
-      - `youngish`
-        - 还年轻的，颇年轻的
-    - n.
-      - `young`
-        - 年轻人；（动物的）崽，仔
-      - `younger`
-        - 年纪较小者；幼辈
-      - `younker`
-        - 青年；少年
+    - adj. young 年轻的；初期的；没有经验的
+    - adj. younger 较年轻的
+    - adj. youngish 还年轻的，颇年轻的
+    - n. young 年轻人；（动物的）崽，仔
+    - n. younger 年纪较小者；幼辈
+    - n. younker 青年；少年
   - 近义词
-    - n.
-      - 年轻人；少年
-        - `young adult`
-        - `stripling`
+    - n. 年轻人；少年
+      - young adult
+      - stripling
   - 例句
-    - `Other youngsters are not so lucky.`
-      - 其他的年轻人没有这么幸运。
-
+    - Other youngsters are not so lucky. 其他的年轻人没有这么幸运。
+  - 补充

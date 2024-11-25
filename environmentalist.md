@@ -1,25 +1,14 @@
 - environmentalist
   - 发音
-    - 英
-      - `/ɪn,vaɪrən'ment(ə)lɪst; en-/`
-    - 美
-      - `/ɪn,vaɪrən'mɛntəlɪst/`
+    - 英 /ɪn,vaɪrən'ment(ə)lɪst; en-/
+    - 美 /ɪn,vaɪrən'mɛntəlɪst/
   - 词义
-    - n.
-      - 环境保护论者,环境论者,环境论信奉者
-        - `someone who is concerned about protecting the environment`
+    - n. 环境保护论者,环境论者,环境论信奉者
+      - someone who is concerned about protecting the environment
   - 同根词
-    - adj.
-      - `environmental`
-        - 环境的，周围的；有关环境的
-    - adv.
-      - `environmentally`
-        - 有关环境方面
-    - n.
-      - `environment`
-        - 环境，外界
-      - `environmentalism`
-        - 环境保护论
-    - vt.
-      - `environ`
-        - 环绕；包围；（敌意地或保护性的）围住
+    - adj. environmental 环境的，周围的；有关环境的
+    - adv. environmentally 有关环境方面
+    - n. environment 环境，外界
+    - n. environmentalism 环境保护论
+    - vt. environ 环绕；包围；（敌意地或保护性的）围住
+  - 补充

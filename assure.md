@@ -1,47 +1,28 @@
 - assure
   - 发音
-    - 英
-      - `/ə'ʃur/`
-    - 美
-      - `/ə'ʃʊr/`
+    - 英 /ə'ʃur/
+    - 美 /ə'ʃʊr/
   - 词义
-    - vt.
-      - 确保；使确信
-        - `to tell someone that something will definitely happen or is definitely true so that they are less worried`
+    - vt. 确保；使确信
+      - to tell someone that something will definitely happen or is definitely true so that they are less worried
   - 记忆
     - as + sure(确定的) → 确保； 使确信
   - 同根词
-    - adj.
-      - `assured`
-        - 确定的；自信的
-      - `assuring`
-        - 保证的；确信的；使人有信心的
-    - adv.
-      - `assuredly`
-        - 确实地；确信地
-    - n.
-      - `assurance`
-        - 保证；保险；确信；断言
-      - `assured`
-        - 被保险人
-      - `assuredness`
-        - 确实；自信；确信；厚颜
-    - v.
-      - `assured`
-        - 保证；确实（assure的过去分词）
-      - `assuring`
-        - 确信（assure的ing形式）
+    - adj. assured 确定的；自信的
+    - adj. assuring 保证的；确信的；使人有信心的
+    - adv. assuredly 确实地；确信地
+    - n. assurance 保证；保险；确信；断言
+    - n. assured 被保险人
+    - n. assuredness 确实；自信；确信；厚颜
+    - v. assured 保证；确实（assure的过去分词）
+    - v. assuring 确信（assure的ing形式）
   - 近义词
-    - vt.
-      - 保证；担保；使确信；弄清楚
-        - `undertake`
-        - `swear for`
+    - vt. 保证；担保；使确信；弄清楚
+      - undertake
+      - swear for
   - 短语
-    - `assure oneself`
-      - 弄清楚，查明 
-    - `assure of`
-      - vt. 向...保证）；查明（使相信 
+    - assure oneself 弄清楚，查明
+    - assure of vt. 向...保证）；查明（使相信
   - 例句
-    - `The document is genuine, I can assure you .`
-      - 我能向你保证，这文件是真的。
-
+    - The document is genuine, I can assure you . 我能向你保证，这文件是真的。
+  - 补充

@@ -1,28 +1,19 @@
 - treachery
   - 发音
-    - 英
-      - `/'tretʃəri/`
-    - 美
-      - `/'trɛtʃəri/`
+    - 英 /'tretʃəri/
+    - 美 /'trɛtʃəri/
   - 词义
-    - n.
-      - 背叛，反叛
-        - `behaviour in which someone is not loyal to a person who trusts them, especially when this behaviour helps that person’s enemies`
+    - n. 背叛，反叛
+      - behaviour in which someone is not loyal to a person who trusts them, especially when this behaviour helps that person’s enemies
   - 记忆
     - treach ( = trick， 诡计) + ery → 背叛， 阴险
   - 同根词
-    - adj.
-      - `treacherous`
-        - 奸诈的，叛逆的，背叛的；危险的；不牢靠的
-    - adv.
-      - `treacherously`
-        - 背叛地；危险地；靠不住地
+    - adj. treacherous 奸诈的，叛逆的，背叛的；危险的；不牢靠的
+    - adv. treacherously 背叛地；危险地；靠不住地
   - 近义词
-    - n.
-      - 背叛；变节；背叛行为
-        - `betrayal`
-        - `tergiversation`
+    - n. 背叛；变节；背叛行为
+      - betrayal
+      - tergiversation
   - 例句
-    - `the treachery of those who plotted against the king`
-      - 密谋反对国王者的不忠行为
-
+    - the treachery of those who plotted against the king 密谋反对国王者的不忠行为
+  - 补充

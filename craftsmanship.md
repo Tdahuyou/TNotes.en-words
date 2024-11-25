@@ -1,29 +1,21 @@
 - craftsmanship
   - 发音
-    - 英
-      - `/'krɑːf(t)smənʃɪp/`
-    - 美
-      - `/'kræftsmənʃɪp/`
+    - 英 /'krɑːf(t)smənʃɪp/
+    - 美 /'kræftsmənʃɪp/
   - 词义
-    - n.
-      - 技术
-        - `the special skill that someone uses to make something beautiful with their hands`
+    - n. 技术
+      - the special skill that someone uses to make something beautiful with their hands
   - 同根词
-    - n.
-      - `craftsman`
-        - 工匠；手艺人；技工
+    - n. craftsman 工匠；手艺人；技工
   - 近义词
-    - n.
-      - 技术；技艺
-        - `technology`
-        - `science`
-        - `mechanics`
-        - `skill`
-        - `accomplishment`
+    - n. 技术；技艺
+      - technology
+      - science
+      - mechanics
+      - skill
+      - accomplishment
   - 短语
-    - `exquisite craftsmanship`
-      - 技艺精湛 
+    - exquisite craftsmanship 技艺精湛
   - 例句
-    - `high standards of craftsmanship`
-      - 很高的工艺水准
-
+    - high standards of craftsmanship 很高的工艺水准
+  - 补充

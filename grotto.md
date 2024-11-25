@@ -1,19 +1,14 @@
 - grotto
   - 发音
-    - 英
-      - `/'grɒtəʊ/`
-    - 美
-      - `/'ɡrɑto/`
+    - 英 /'grɒtəʊ/
+    - 美 /'ɡrɑto/
   - 词义
-    - n.
-      - 洞穴,人工洞室
-        - `a small attractive  cave `
+    - n. 洞穴,人工洞室
+      - a small attractive  cave 
   - 近义词
-    - n.
-      - 岩穴，洞穴；人工洞室
-        - `hole`
-        - `cave`
+    - n. 岩穴，洞穴；人工洞室
+      - hole
+      - cave
   - 例句
-    - `Water trickles through an underground grotto.`
-      - 水流经一个地下岩洞。
-
+    - Water trickles through an underground grotto. 水流经一个地下岩洞。
+  - 补充

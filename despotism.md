@@ -1,23 +1,16 @@
 - despotism
   - 发音
-    - 英
-      - `/'despətɪz(ə)m/`
-    - 美
-      - `/'dɛspətɪzəm/`
+    - 英 /'despətɪz(ə)m/
+    - 美 /'dɛspətɪzəm/
   - 词义
-    - n.
-      - 专制，独裁；专制政治
-        - `rule by a despot`
+    - n. 专制，独裁；专制政治
+      - rule by a despot
   - 同根词
-    - n.
-      - `despot`
-        - 专制君主，暴君；独裁者
+    - n. despot 专制君主，暴君；独裁者
   - 近义词
-    - n.
-      - 专制，独裁；专制政治
-        - `autarchy`
-        - `dictature`
+    - n. 专制，独裁；专制政治
+      - autarchy
+      - dictature
   - 例句
-    - `He can recognise a despot, and the occasions when despotism has to be checked, by force if necessary.`
-      - 他能够一眼识破专制的表象，以及这种专制应该何时有必要使用武力加以控制。
-
+    - He can recognise a despot, and the occasions when despotism has to be checked, by force if necessary. 他能够一眼识破专制的表象，以及这种专制应该何时有必要使用武力加以控制。
+  - 补充

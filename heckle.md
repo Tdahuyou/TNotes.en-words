@@ -1,22 +1,15 @@
 - heckle
   - 发音
-    - 英
-      - `/'hek(ə)l/`
-    - 美
-      - `/'hɛkl/`
+    - 英 /'hek(ə)l/
+    - 美 /'hɛkl/
   - 词义
-    - v.
-      - 诘问；激烈质问；以麻梳梳理
-    - n.
-      - 麻梳
+    - v. 诘问；激烈质问；以麻梳梳理
+    - n. 麻梳
   - 同根词
-    - n.
-      - `heckler`
-        - 激烈质问者
+    - n. heckler 激烈质问者
   - 近义词
-    - vt.
-      - 诘问；激烈质问；以麻梳梳理
-        - `cross examination`
-    - n.
-      - 麻梳
-        - `hatchel`
+    - vt. 诘问；激烈质问；以麻梳梳理
+      - cross examination
+    - n. 麻梳
+      - hatchel
+  - 补充

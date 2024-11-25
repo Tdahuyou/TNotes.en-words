@@ -1,24 +1,17 @@
 - spotless
   - 发音
-    - 英
-      - `/'spɒtlɪs/`
-    - 美
-      - `/'spɑtləs/`
+    - 英 /'spɒtlɪs/
+    - 美 /'spɑtləs/
   - 词义
-    - adj.
-      - 无可挑剔的；无瑕疵的；纯洁的
-        - `if someone has a spotless  reputation  or record, people know or think they have never done anything bad`
+    - adj. 无可挑剔的；无瑕疵的；纯洁的
+      - if someone has a spotless  reputation  or record, people know or think they have never done anything bad
   - 同根词
-    - adv.
-      - `spotlessly`
-        - 纯洁地；一尘不染地
+    - adv. spotlessly 纯洁地；一尘不染地
   - 近义词
-    - adj.
-      - 无可挑剔的；无瑕疵的；纯洁的
-        - `stainless`
-        - `pure`
-        - `white`
+    - adj. 无可挑剔的；无瑕疵的；纯洁的
+      - stainless
+      - pure
+      - white
   - 例句
-    - `a company whose reputation was spotless until this scandal broke`
-      - 该丑闻传出之前名誉毫无瑕疵的一家公司
-
+    - a company whose reputation was spotless until this scandal broke 该丑闻传出之前名誉毫无瑕疵的一家公司
+  - 补充

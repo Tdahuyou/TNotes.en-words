@@ -1,41 +1,30 @@
 - ruddy
   - 发音
-    - 英
-      - `/'rʌdi/`
-    - 美
-      - `/'rʌdi/`
+    - 英 /'rʌdi/
+    - 美 /'rʌdi/
   - 词义
-    - adj.
-      - 红色的；红润的
-        - `a ruddy face looks pink and healthy`
+    - adj. 红色的；红润的
+      - a ruddy face looks pink and healthy
   - 记忆
     - 整天同泥土 (muddy) 打交道的孩子， 身体健康， 脸色红润 (ruddy)
   - 同根词
-    - n.
-      - `ruddiness`
-        - 带红色；红色
+    - n. ruddiness 带红色；红色
   - 近义词
-    - adj.
-      - 红的；红润的
-        - `beet-faced`
-        - `ruber`
-    - adv.
-      - 极度；非常
-        - `extremely`
-        - `badly`
-        - `highly`
-        - `greatly`
-        - `too`
-    - vt.
-      - 使变红
-        - `redden`
-    - vi.
-      - 变红
-        - `go red`
-        - `redden`
+    - adj. 红的；红润的
+      - beet-faced
+      - ruber
+    - adv. 极度；非常
+      - extremely
+      - badly
+      - highly
+      - greatly
+      - too
+    - vt. 使变红
+      - redden
+    - vi. 变红
+      - go red
+      - redden
   - 例句
-    - `a ruddy complexion`
-      - 红润的脸色
-    - `ruddy cheeks`
-      - 红润的面颊
-
+    - a ruddy complexion 红润的脸色
+    - ruddy cheeks 红润的面颊
+  - 补充

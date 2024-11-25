@@ -1,23 +1,16 @@
 - clique
   - 发音
-    - 英
-      - `/kliːk/`
-    - 美
-      - `/klik/`
+    - 英 /kliːk/
+    - 美 /klik/
   - 词义
-    - n.
-      - 私党,小圈子,派系,阀
-        - `a small group of people who think they are special and do not want other people to join them – used to show disapproval`
+    - n. 私党,小圈子,派系,阀
+      - a small group of people who think they are special and do not want other people to join them – used to show disapproval
   - 同根词
-    - adj.
-      - `cliquish`
-        - 小集团的
+    - adj. cliquish 小集团的
   - 近义词
-    - n.
-      - 派系；阀；私党；小圈子
-        - `valve`
-        - `ingroup`
+    - n. 派系；阀；私党；小圈子
+      - valve
+      - ingroup
   - 例句
-    - `the cliques formed by high school students`
-      - 由中学生组成的小圈子
-
+    - the cliques formed by high school students 由中学生组成的小圈子
+  - 补充

@@ -1,44 +1,28 @@
 - condense
   - 发音
-    - 英
-      - `/kən'dens/`
-    - 美
-      - `/kən'dɛns/`
+    - 英 /kən'dens/
+    - 美 /kən'dɛns/
   - 词义
-    - v.
-      - 压缩；凝结
-        - `if a gas condenses, or is condensed, it becomes a liquid`
+    - v. 压缩；凝结
+      - if a gas condenses, or is condensed, it becomes a liquid
   - 记忆
     - con + dense(密集的) → 变得密集 → (使)压缩
   - 同根词
-    - adj.
-      - `condensate`
-        - 浓缩的
-    - n.
-      - `condensation`
-        - 冷凝；凝结；压缩
-      - `condenser`
-        - 冷凝器；[电] 电容器；[光] 聚光器
-      - `condensate`
-        - 冷凝物；浓缩物
-      - `condensing`
-        - 冷凝
-    - v.
-      - `condensing`
-        - 冷凝；压缩（condense的ing形式）
+    - adj. condensate 浓缩的
+    - n. condensation 冷凝；凝结；压缩
+    - n. condenser 冷凝器；[电] 电容器；[光] 聚光器
+    - n. condensate 冷凝物；浓缩物
+    - n. condensing 冷凝
+    - v. condensing 冷凝；压缩（condense的ing形式）
   - 近义词
-    - vi.
-      - 浓缩；凝结
-        - `concentrate`
-        - `to freeze`
-    - vt.
-      - 使浓缩；使压缩
-        - `dewater`
-        - `inspissate`
+    - vi. 浓缩；凝结
+      - concentrate
+      - to freeze
+    - vt. 使浓缩；使压缩
+      - dewater
+      - inspissate
   - 短语
-    - `condense into`
-      - 把…缩短；把…压缩 
+    - condense into 把…缩短；把…压缩
   - 例句
-    - `the mist which condensed on every cold surface`
-      - 每个冰冷的表面上凝结的水汽
-
+    - the mist which condensed on every cold surface 每个冰冷的表面上凝结的水汽
+  - 补充

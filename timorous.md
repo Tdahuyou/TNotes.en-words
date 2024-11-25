@@ -1,37 +1,23 @@
 - timorous
   - 发音
-    - 英
-      - `/'timərəs/`
-    - 美
-      - `/'tɪmərəs/`
+    - 英 /'timərəs/
+    - 美 /'tɪmərəs/
   - 词义
-    - adj.
-      - 胆小的
-        - `lacking confidence and easily frightened`
+    - adj. 胆小的
+      - lacking confidence and easily frightened
   - 记忆
     - tim (胆怯) + orous → 胆怯的 → 胆小的
   - 同根词
-    - adj.
-      - `timid`
-        - 胆小的；羞怯的
-    - adv.
-      - `timidly`
-        - 羞怯地；胆小地
-      - `timorously`
-        - 羞怯地；容易受惊地
-    - n.
-      - `timidity`
-        - 胆怯，胆小；羞怯
-      - `timidness`
-        - 羞怯；胆小
-      - `timorousness`
-        - 胆怯；容易受惊
+    - adj. timid 胆小的；羞怯的
+    - adv. timidly 羞怯地；胆小地
+    - adv. timorously 羞怯地；容易受惊地
+    - n. timidity 胆怯，胆小；羞怯
+    - n. timidness 羞怯；胆小
+    - n. timorousness 胆怯；容易受惊
   - 近义词
-    - adj.
-      - 胆怯的；胆小的；羞怯的
-        - `chicken`
-        - `modest`
+    - adj. 胆怯的；胆小的；羞怯的
+      - chicken
+      - modest
   - 例句
-    - `She was no helpless, timorous female.`
-      - 她决不是柔弱胆怯的女性。
-
+    - She was no helpless, timorous female. 她决不是柔弱胆怯的女性。
+  - 补充

@@ -1,56 +1,37 @@
 - construct
   - 发音
-    - 英
-      - `/kən'strʌkt/`
-    - 美
-      - `/kən'strʌkt/`
+    - 英 /kən'strʌkt/
+    - 美 /kən'strʌkt/
   - 词义
-    - vt.
-      - 建造；创立
-        - `to build something such as a house, bridge, road etc`
-    - n.
-      - 构想，观念
-        - `an idea formed by combining several pieces of information or knowledge`
+    - vt. 建造；创立
+      - to build something such as a house, bridge, road etc
+    - n. 构想，观念
+      - an idea formed by combining several pieces of information or knowledge
   - 记忆
     - con(表加强) + struct(建筑) → 建造； 创立
   - 同根词
-    - adj.
-      - `constructive`
-        - 建设性的；推定的；构造上的；有助益的
-      - `constructible`
-        - [数] 可构成的
-    - adv.
-      - `constructively`
-        - 建设性地
-    - n.
-      - `construction`
-        - 建设；建筑物；解释；造句
-      - `constructor`
-        - 构造函数；构造器；建造者
-      - `constructivism`
-        - 构成主义；构成派
-      - `constructivist`
-        - 构成主义者
-      - `constructiveness`
-        - 建造性
+    - adj. constructive 建设性的；推定的；构造上的；有助益的
+    - adj. constructible [数] 可构成的
+    - adv. constructively 建设性地
+    - n. construction 建设；建筑物；解释；造句
+    - n. constructor 构造函数；构造器；建造者
+    - n. constructivism 构成主义；构成派
+    - n. constructivist 构成主义者
+    - n. constructiveness 建造性
   - 近义词
-    - vt.
-      - 建造，构造；创立
-        - `found`
-        - `institute`
-        - `frame`
-        - `structure`
-        - `father`
-    - n.
-      - 构想，概念
-        - `concept`
-        - `formulation`
-        - `idea`
-        - `notion`
+    - vt. 建造，构造；创立
+      - found
+      - institute
+      - frame
+      - structure
+      - father
+    - n. 构想，概念
+      - concept
+      - formulation
+      - idea
+      - notion
   - 短语
-    - `construct validity`
-      - 结构效度；建构效度 
+    - construct validity 结构效度；建构效度
   - 例句
-    - `There are plans to construct a new road bridge across the river.`
-      - 有计划要建造一条新的跨河公路桥。
-
+    - There are plans to construct a new road bridge across the river. 有计划要建造一条新的跨河公路桥。
+  - 补充

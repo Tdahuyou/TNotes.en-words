@@ -1,15 +1,12 @@
 - tache
   - 发音
-    - 英
-      - `/undefined/`
-    - 美
-      - `/undefined/`
+    - 英 /undefined/
+    - 美 /undefined/
   - 词义
-    - n.
-      - [画]色彩,斑点,搭扣,钩扣,纽带,环节
-        - `a buckle, clasp, or hook `
+    - n. [画]色彩,斑点,搭扣,钩扣,纽带,环节
+      - a buckle, clasp, or hook 
   - 近义词
-    - n.
-      - 纽带；色彩；钩扣
-        - `ligament`
-        - `hue`
+    - n. 纽带；色彩；钩扣
+      - ligament
+      - hue
+  - 补充

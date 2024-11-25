@@ -1,31 +1,19 @@
 - imitative
   - 发音
-    - 英
-      - `/'ɪmɪtətɪv/`
-    - 美
-      - `/'ɪmɪtetɪv/`
+    - 英 /'ɪmɪtətɪv/
+    - 美 /'ɪmɪtetɪv/
   - 词义
-    - adj.
-      - 仿制的,模仿的
-        - `copying someone or something, especially in a way that shows you do not have any ideas of your own`
+    - adj. 仿制的,模仿的
+      - copying someone or something, especially in a way that shows you do not have any ideas of your own
   - 同根词
-    - adj.
-      - `imitation`
-        - 人造的，仿制的
-    - n.
-      - `imitation`
-        - 模仿，仿造；仿制品
-      - `imitator`
-        - 模仿者；[自] 模拟器
-    - vt.
-      - `imitate`
-        - 模仿，仿效；仿造，仿制
+    - adj. imitation 人造的，仿制的
+    - n. imitation 模仿，仿造；仿制品
+    - n. imitator 模仿者；[自] 模拟器
+    - vt. imitate 模仿，仿效；仿造，仿制
   - 近义词
-    - adj.
-      - 模仿的；仿制的
-        - `simulate`
-        - `mimetic`
+    - adj. 模仿的；仿制的
+      - simulate
+      - mimetic
   - 例句
-    - `Young people might be provoked into imitative crime by the exploits they see on TV.`
-      - 年轻人可能会从电视上看到的“英勇行为”中受到启发而仿效电视主人公实施犯罪。
-
+    - Young people might be provoked into imitative crime by the exploits they see on TV. 年轻人可能会从电视上看到的“英勇行为”中受到启发而仿效电视主人公实施犯罪。
+  - 补充

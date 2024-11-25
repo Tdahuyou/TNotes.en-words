@@ -1,31 +1,21 @@
 - summarily
   - 发音
-    - 英
-      - `/undefined/`
-    - 美
-      - `/undefined/`
+    - 英 /undefined/
+    - 美 /undefined/
   - 词义
-    - adv.
-      - 概要地,概略地,立刻,草率地
-        - `immediately, and without following the normal process`
+    - adv. 概要地,概略地,立刻,草率地
+      - immediately, and without following the normal process
   - 同根词
-    - adj.
-      - `summary`
-        - 简易的；扼要的
-    - n.
-      - `summary`
-        - 概要，摘要
-      - `summarization`
-        - [图情] 摘要；概要
+    - adj. summary 简易的；扼要的
+    - n. summary 概要，摘要
+    - n. summarization [图情] 摘要；概要
   - 近义词
-    - adv.
-      - 概要地；立刻；概略地
-        - `soon`
-        - `immediately`
-        - `now`
-        - `shortly`
-        - `roughly`
+    - adv. 概要地；立刻；概略地
+      - soon
+      - immediately
+      - now
+      - shortly
+      - roughly
   - 例句
-    - `He was summarily dismissed.`
-      - 他被立即开除。
-
+    - He was summarily dismissed. 他被立即开除。
+  - 补充

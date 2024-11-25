@@ -1,26 +1,19 @@
 - corps
   - 发音
-    - 英
-      - `/kɔːr/`
-    - 美
-      - `/kɔrz/`
+    - 英 /kɔːr/
+    - 美 /kɔrz/
   - 词义
-    - n.
-      - 军团，兵团；特种部队；一群人，一组人
-        - `a group in an army with special duties and responsibilities`
+    - n. 军团，兵团；特种部队；一群人，一组人
+      - a group in an army with special duties and responsibilities
   - 记忆
     - corp(身体) + s → 团队 → 军团， 兵团
   - 近义词
-    - n.
-      - 军团；兵种；兵队；（德国大学的）学生联合会
-        - `cohorts`
-        - `legion`
+    - n. 军团；兵种；兵队；（德国大学的）学生联合会
+      - cohorts
+      - legion
   - 短语
-    - `corps of engineers`
-      - 陆军工兵部队 
+    - corps of engineers 陆军工兵部队
   - 例句
-    - `the medical corps`
-      - 医疗部队
-    - `the U.S. Army Corps of Engineers`
-      - 美国陆军工程兵部队
-
+    - the medical corps 医疗部队
+    - the U.S. Army Corps of Engineers 美国陆军工程兵部队
+  - 补充

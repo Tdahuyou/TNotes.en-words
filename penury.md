@@ -1,25 +1,18 @@
 - penury
   - 发音
-    - 英
-      - `/'penjuri/`
-    - 美
-      - `/'pɛnjəri/`
+    - 英 /'penjuri/
+    - 美 /'pɛnjəri/
   - 词义
-    - n.
-      - 贫困，贫穷
-        - `the state of being very poor`
+    - n. 贫困，贫穷
+      - the state of being very poor
   - 记忆
     - pen (笔) + ury → 靠笔生活的人一般很贫困 → 贫困
   - 同根词
-    - adj.
-      - `penurious`
-        - 吝啬的；缺乏的；贫困的
+    - adj. penurious 吝啬的；缺乏的；贫困的
   - 近义词
-    - n.
-      - 贫困；贫穷
-        - `poverty`
-        - `want`
+    - n. 贫困；贫穷
+      - poverty
+      - want
   - 例句
-    - `He died in penury in 1644.`
-      - 1644年他穷困潦倒而死。
-
+    - He died in penury in 1644. 1644年他穷困潦倒而死。
+  - 补充

@@ -1,42 +1,26 @@
 - threaten
   - 发音
-    - 英
-      - `/'θret(ə)n/`
-    - 美
-      - `/'θrɛtn/`
+    - 英 /'θret(ə)n/
+    - 美 /'θrɛtn/
   - 词义
-    - v.
-      - 恐吓,威胁
-        - `to say that you will cause someone harm or trouble if they do not do what you want`
+    - v. 恐吓,威胁
+      - to say that you will cause someone harm or trouble if they do not do what you want
   - 同根词
-    - adj.
-      - `threatened`
-        - 受到威胁的
-      - `threatening`
-        - 危险的；胁迫的；凶兆的
-    - adv.
-      - `threateningly`
-        - 威胁地；危险地；险恶地
-    - n.
-      - `threat`
-        - 威胁，恐吓；凶兆
-    - v.
-      - `threatened`
-        - 威胁（threaten的过去分词）
-      - `threatening`
-        - 威胁；恐吓；迫近（threaten的ing形式）
+    - adj. threatened 受到威胁的
+    - adj. threatening 危险的；胁迫的；凶兆的
+    - adv. threateningly 威胁地；危险地；险恶地
+    - n. threat 威胁，恐吓；凶兆
+    - v. threatened 威胁（threaten的过去分词）
+    - v. threatening 威胁；恐吓；迫近（threaten的ing形式）
   - 近义词
-    - vt.
-      - 威胁；恐吓；预示
-        - `indicate`
-        - `forecast`
-        - `shadow`
-        - `cow`
-    - vi.
-      - 威胁；可能来临
-        - `to menace`
-        - `hang over`
+    - vt. 威胁；恐吓；预示
+      - indicate
+      - forecast
+      - shadow
+      - cow
+    - vi. 威胁；可能来临
+      - to menace
+      - hang over
   - 例句
-    - `Postal workers are threatening a strike if they don’t receive a pay increase.`
-      - 邮政工人威胁如果不加薪，他们就要罢工。
-
+    - Postal workers are threatening a strike if they don’t receive a pay increase. 邮政工人威胁如果不加薪，他们就要罢工。
+  - 补充

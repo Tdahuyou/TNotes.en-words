@@ -1,21 +1,16 @@
 - venial
   - 发音
-    - 英
-      - `/'viːniəl/`
-    - 美
-      - `/'vinɪəl/`
+    - 英 /'viːniəl/
+    - 美 /'vinɪəl/
   - 词义
-    - adj.
-      - 可宽恕的
-        - `a venial fault, mistake etc is not very serious and can be forgiven`
+    - adj. 可宽恕的
+      - a venial fault, mistake etc is not very serious and can be forgiven
   - 记忆
     - 出于宽恕 (venial) 之心， 不要拒绝 (denial)
   - 近义词
-    - adj.
-      - 可原谅的；（罪过）轻微的；可宽恕的
-        - `slight`
-        - `mild`
+    - adj. 可原谅的；（罪过）轻微的；可宽恕的
+      - slight
+      - mild
   - 例句
-    - `a venial sin `
-      - 可赦之罪
-
+    - a venial sin  可赦之罪
+  - 补充

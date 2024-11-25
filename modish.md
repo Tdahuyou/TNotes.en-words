@@ -1,28 +1,21 @@
 - modish
   - 发音
-    - 英
-      - `/'məudɪʃ/`
-    - 美
-      - `/'modɪʃ/`
+    - 英 /'məudɪʃ/
+    - 美 /'modɪʃ/
   - 词义
-    - adj.
-      - 流行的，时髦的
-        - `modish ideas, designs etc are modern and fashionable`
+    - adj. 流行的，时髦的
+      - modish ideas, designs etc are modern and fashionable
   - 记忆
     - mod(样式) + ish → 最新样式的 → 流行的， 时髦的
   - 同根词
-    - n.
-      - `mode`
-        - 模式；方式；风格；时尚
+    - n. mode 模式；方式；风格；时尚
   - 近义词
-    - adj.
-      - 流行的；时髦的
-        - `popular`
-        - `fashionable`
-        - `going`
-        - `modern`
-        - `ruling`
+    - adj. 流行的；时髦的
+      - popular
+      - fashionable
+      - going
+      - modern
+      - ruling
   - 例句
-    - `...a short checklist of much that is modish at the moment.`
-      - ...一张时下潮品的简表。
-
+    - ...a short checklist of much that is modish at the moment. ...一张时下潮品的简表。
+  - 补充

@@ -1,24 +1,15 @@
 - grandiloquence
   - 发音
-    - 英
-      - `/græn'dɪləkwəns/`
-    - 美
-      - `/undefined/`
+    - 英 /græn'dɪləkwəns/
+    - 美 /undefined/
   - 词义
-    - n.
-      - 豪言壮语，夸张之言
+    - n. 豪言壮语，夸张之言
   - 同根词
-    - adj.
-      - `grandiloquent`
-        - 夸张的；夸大的；大言不惭的
-    - n.
-      - `grandiosity`
-        - 宏伟；夸张
+    - adj. grandiloquent 夸张的；夸大的；大言不惭的
+    - n. grandiosity 宏伟；夸张
   - 近义词
-    - n.
-      - 豪言壮语，豪语；夸张之言
-        - `magniloquence`
+    - n. 豪言壮语，豪语；夸张之言
+      - magniloquence
   - 例句
-    - `A hero is more than one hundred times grandiloquence! ! ! ! !`
-      - 一次见义勇为胜过百次豪言壮语！
-
+    - A hero is more than one hundred times grandiloquence! ! ! ! ! 一次见义勇为胜过百次豪言壮语！
+  - 补充

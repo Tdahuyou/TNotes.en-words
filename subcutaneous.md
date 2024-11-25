@@ -1,32 +1,21 @@
 - subcutaneous
   - 发音
-    - 英
-      - `/,sʌbkjuː'teɪnɪəs/`
-    - 美
-      - `/,sʌbkjʊ'tenjəs/`
+    - 英 /,sʌbkjuː'teɪnɪəs/
+    - 美 /,sʌbkjʊ'tenjəs/
   - 词义
-    - adj.
-      - [解]皮下的,皮下用的
-        - `beneath your skin`
+    - adj. [解]皮下的,皮下用的
+      - beneath your skin
   - 同根词
-    - adv.
-      - `subcutaneously`
-        - 皮下地
+    - adv. subcutaneously 皮下地
   - 近义词
-    - adj.
-      - [解剖]皮下的；皮下用的
-        - `subdermal`
-        - `hypodermal`
+    - adj. [解剖]皮下的；皮下用的
+      - subdermal
+      - hypodermal
   - 短语
-    - `subcutaneous tissue`
-      - 皮下组织 
-    - `subcutaneous injection`
-      - [医]皮下注射 
-    - `subcutaneous fat`
-      - 皮下脂肪 
-    - `subcutaneous emphysema`
-      - 皮下气肿 
+    - subcutaneous tissue 皮下组织
+    - subcutaneous injection [医]皮下注射
+    - subcutaneous fat 皮下脂肪
+    - subcutaneous emphysema 皮下气肿
   - 例句
-    - `subcutaneous fat`
-      - 皮下脂肪
-
+    - subcutaneous fat 皮下脂肪
+  - 补充

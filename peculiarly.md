@@ -1,28 +1,18 @@
 - peculiarly
   - 发音
-    - 英
-      - `/pɪ'kjuːlɪəlɪ/`
-    - 美
-      - `/pɪ'kjʊljɚli/`
+    - 英 /pɪ'kjuːlɪəlɪ/
+    - 美 /pɪ'kjʊljɚli/
   - 词义
-    - adv.
-      - 古怪地,特有地
-        - `in a strange or unusual way`
+    - adv. 古怪地,特有地
+      - in a strange or unusual way
   - 同根词
-    - adj.
-      - `peculiar`
-        - 特殊的；独特的；奇怪的；罕见的
-    - n.
-      - `peculiar`
-        - 特权；特有财产
-      - `peculiarity`
-        - 特性；特质；怪癖；奇特
+    - adj. peculiar 特殊的；独特的；奇怪的；罕见的
+    - n. peculiar 特权；特有财产
+    - n. peculiarity 特性；特质；怪癖；奇特
   - 近义词
-    - adv.
-      - 特别；尤其；古怪地；奇怪地
-        - `especially`
-        - `strange`
+    - adv. 特别；尤其；古怪地；奇怪地
+      - especially
+      - strange
   - 例句
-    - `Theo had been behaving peculiarly.`
-      - 西奥的举止一直很古怪。
-
+    - Theo had been behaving peculiarly. 西奥的举止一直很古怪。
+  - 补充

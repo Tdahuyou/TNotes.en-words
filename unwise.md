@@ -1,23 +1,16 @@
 - unwise
   - 发音
-    - 英
-      - `/ʌn'waɪz/`
-    - 美
-      - `/,ʌn'waɪz/`
+    - 英 /ʌn'waɪz/
+    - 美 /,ʌn'waɪz/
   - 词义
-    - adj.
-      - 不明智的；愚蠢的；轻率的
-        - `not based on good judgment`
+    - adj. 不明智的；愚蠢的；轻率的
+      - not based on good judgment
   - 同根词
-    - adv.
-      - `unwisely`
-        - 不明智地；愚笨地
+    - adv. unwisely 不明智地；愚笨地
   - 近义词
-    - adj.
-      - 不明智的；愚蠢的；轻率的
-        - `foolish`
-        - `stupid`
+    - adj. 不明智的；愚蠢的；轻率的
+      - foolish
+      - stupid
   - 例句
-    - `It would be unwise to expect too much.`
-      - 期望太多是不明智的。
-
+    - It would be unwise to expect too much. 期望太多是不明智的。
+  - 补充

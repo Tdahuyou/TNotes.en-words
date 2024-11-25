@@ -1,34 +1,22 @@
 - perplexity
   - 发音
-    - 英
-      - `/pə'pleksɪtɪ/`
-    - 美
-      - `/pɚ'plɛksəti/`
+    - 英 /pə'pleksɪtɪ/
+    - 美 /pɚ'plɛksəti/
   - 词义
-    - n.
-      - (正式用语)困惑，窘困，令人困惑的事或物
-        - `the feeling of being confused or worried by something you cannot understand`
+    - n. (正式用语)困惑，窘困，令人困惑的事或物
+      - the feeling of being confused or worried by something you cannot understand
   - 同根词
-    - adj.
-      - `perplexing`
-        - 复杂的，令人费解的；令人困惑的
-      - `perplexed`
-        - 困惑的；不知所措的
-    - adv.
-      - `perplexedly`
-        - 为难地；困窘地
-    - vt.
-      - `perplex`
-        - 使困惑，使为难；使复杂化
+    - adj. perplexing 复杂的，令人费解的；令人困惑的
+    - adj. perplexed 困惑的；不知所措的
+    - adv. perplexedly 为难地；困窘地
+    - vt. perplex 使困惑，使为难；使复杂化
   - 近义词
-    - n.
-      - 困惑；混乱
-        - `chaos`
-        - `confusion`
-        - `disorder`
-        - `involvement`
-        - `mix`
+    - n. 困惑；混乱
+      - chaos
+      - confusion
+      - disorder
+      - involvement
+      - mix
   - 例句
-    - `moral perplexities`
-      - 道德难题
-
+    - moral perplexities 道德难题
+  - 补充

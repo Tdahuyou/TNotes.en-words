@@ -1,46 +1,29 @@
 - implication
   - 发音
-    - 英
-      - `/ˌɪmplɪ'keɪʃn/`
-    - 美
-      - `/'ɪmplɪ'keʃən/`
+    - 英 /ˌɪmplɪ'keɪʃn/
+    - 美 /'ɪmplɪ'keʃən/
   - 词义
-    - n.
-      - 含义；暗示，暗指；卷入，牵连
-        - `a situation in which it is shown or suggested that someone or something is involved in a crime or a dishonest act`
+    - n. 含义；暗示，暗指；卷入，牵连
+      - a situation in which it is shown or suggested that someone or something is involved in a crime or a dishonest act
   - 记忆
     - im(里面) + plic(重叠) + ation → 有多重含义 → 含义； 暗示
   - 同根词
-    - adj.
-      - `implicit`
-        - 含蓄的；暗示的；盲从的
-      - `implicated`
-        - 有牵连的
-      - `implicational`
-        - 启发的，启示的
-      - `implicative`
-        - 含蓄的；连带的
-    - n.
-      - `implicate`
-        - 包含的东西
-    - v.
-      - `implicated`
-        - 纠缠（implicate的过去式和过去分词）
-    - vt.
-      - `implicate`
-        - 暗示；使牵连其中；含有…的意思
+    - adj. implicit 含蓄的；暗示的；盲从的
+    - adj. implicated 有牵连的
+    - adj. implicational 启发的，启示的
+    - adj. implicative 含蓄的；连带的
+    - n. implicate 包含的东西
+    - v. implicated 纠缠（implicate的过去式和过去分词）
+    - vt. implicate 暗示；使牵连其中；含有…的意思
   - 近义词
-    - n.
-      - 含义；暗示；[法]牵连，卷入
-        - `connotation`
-        - `meaning`
-        - `import`
-        - `involvement`
-        - `reminder`
+    - n. 含义；暗示；[法]牵连，卷入
+      - connotation
+      - meaning
+      - import
+      - involvement
+      - reminder
   - 短语
-    - `by implication`
-      - 含蓄地；暗示地 
+    - by implication 含蓄地；暗示地
   - 例句
-    - `They are called ‘Supertrams’, the implication being that (= which is meant to suggest that ) they are more advanced than earlier models.`
-      - 它们被称作“超级电车”，这是暗指它们比先前的型号更先进。
-
+    - They are called ‘Supertrams’, the implication being that (= which is meant to suggest that ) they are more advanced than earlier models. 它们被称作“超级电车”，这是暗指它们比先前的型号更先进。
+  - 补充

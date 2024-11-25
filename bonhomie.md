@@ -1,21 +1,16 @@
 - bonhomie
   - 发音
-    - 英
-      - `/ˌbɑːnə'miː/`
-    - 美
-      - `/ˌbɑːnəˈmiː/`
+    - 英 /ˌbɑːnə'miː/
+    - 美 /ˌbɑːnəˈmiː/
   - 词义
-    - n.
-      - 好性情，和蔼
-        - `Bonhomie is happy, good-natured friendliness`
+    - n. 好性情，和蔼
+      - Bonhomie is happy, good-natured friendliness
   - 记忆
     - bon(好)＋homie(看作home， 家) → 好好待在家里 → 好性情， 和蔼
   - 近义词
-    - n.
-      - 温和，和蔼；敦厚
-        - `mildness`
-        - `moderation`
+    - n. 温和，和蔼；敦厚
+      - mildness
+      - moderation
   - 例句
-    - `He was full of bonhomie.`
-      - 他很友好。
-
+    - He was full of bonhomie. 他很友好。
+  - 补充

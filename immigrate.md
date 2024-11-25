@@ -1,29 +1,19 @@
 - immigrate
   - 发音
-    - 英
-      - `/'ɪmɪgreɪt/`
-    - 美
-      - `/'ɪmɪɡret/`
+    - 英 /'ɪmɪgreɪt/
+    - 美 /'ɪmɪɡret/
   - 词义
-    - vi.
-      - 移居入境
-        - `to come into a country in order to live there permanently`
+    - vi. 移居入境
+      - to come into a country in order to live there permanently
   - 记忆
     - im(向内) + migr(移动) + ate → 移居入境
   - 同根词
-    - adj.
-      - `immigrant`
-        - 移民的；迁入的
-    - n.
-      - `immigrant`
-        - 移民，侨民
-      - `immigration`
-        - 外来移民；移居
+    - adj. immigrant 移民的；迁入的
+    - n. immigrant 移民，侨民
+    - n. immigration 外来移民；移居
   - 近义词
-    - vi.
-      - 移入
-        - `move into`
+    - vi. 移入
+      - move into
   - 例句
-    - `His father and mother immigrated when he was two.`
-      - 他的父母在他两岁时移民到这里。
-
+    - His father and mother immigrated when he was two. 他的父母在他两岁时移民到这里。
+  - 补充

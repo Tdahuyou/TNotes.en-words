@@ -1,19 +1,14 @@
 - virtu
   - 发音
-    - 英
-      - `/vəː'tuː/`
-    - 美
-      - `/və:'tu:/`
+    - 英 /vəː'tuː/
+    - 美 /və:'tu:/
   - 词义
-    - n.
-      - 古董类
-        - `a taste or love for curios or works of fine art; connoisseurship `
+    - n. 古董类
+      - a taste or love for curios or works of fine art; connoisseurship 
   - 同根词
-    - n.
-      - `virtuosity`
-        - 精湛技巧；对艺术品的爱好；艺术爱好者
+    - n. virtuosity 精湛技巧；对艺术品的爱好；艺术爱好者
   - 近义词
-    - n.
-      - 古董；艺术品爱好
-        - `curiosity`
-        - `antique`
+    - n. 古董；艺术品爱好
+      - curiosity
+      - antique
+  - 补充

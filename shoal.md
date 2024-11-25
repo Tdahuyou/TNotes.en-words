@@ -1,41 +1,29 @@
 - shoal
   - 发音
-    - 英
-      - `/ʃəʊl/`
-    - 美
-      - `/ʃol/`
+    - 英 /ʃəʊl/
+    - 美 /ʃol/
   - 词义
-    - n.
-      - 浅滩，沙洲；鱼群；潜在危险
-        - `a large group of fish swimming together`
-    - v.
-      - 变浅
-    - adj.
-      - 浅的
+    - n. 浅滩，沙洲；鱼群；潜在危险
+      - a large group of fish swimming together
+    - v. 变浅
+    - adj. 浅的
   - 同根词
-    - adj.
-      - `shoaly`
-        - 多浅滩的；多险阻的
+    - adj. shoaly 多浅滩的；多险阻的
   - 近义词
-    - n.
-      - [地理]浅滩；鱼群；潜在危险
-        - `school`
-        - `bank`
-        - `shallow`
-        - `ford`
-    - vi.
-      - 变浅
-        - `shallow`
-    - vt.
-      - 使变浅；驶入
-        - `shallow`
-        - `to put in`
-    - adj.
-      - 浅的
-        - `low`
-        - `shallow`
-        - `flat`
+    - n. [地理]浅滩；鱼群；潜在危险
+      - school
+      - bank
+      - shallow
+      - ford
+    - vi. 变浅
+      - shallow
+    - vt. 使变浅；驶入
+      - shallow
+      - to put in
+    - adj. 浅的
+      - low
+      - shallow
+      - flat
   - 例句
-    - `Among them swam shoals of fish.`
-      - 在他们之中游动着一群群鱼儿。
-
+    - Among them swam shoals of fish. 在他们之中游动着一群群鱼儿。
+  - 补充

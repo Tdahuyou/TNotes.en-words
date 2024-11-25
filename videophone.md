@@ -1,20 +1,15 @@
 - videophone
   - 发音
-    - 英
-      - `/'vɪdɪə(ʊ)fəʊn/`
-    - 美
-      - `/'vɪdɪofon/`
+    - 英 /'vɪdɪə(ʊ)fəʊn/
+    - 美 /'vɪdɪofon/
   - 词义
-    - n.
-      - 可视电话
-        - `a type of telephone that allows you to see the person you are talking to on a screen`
+    - n. 可视电话
+      - a type of telephone that allows you to see the person you are talking to on a screen
   - 记忆
     - video (视频) +phone (电话) →可视电话
   - 近义词
-    - n.
-      - 电视电话
-        - `picturephone`
+    - n. 电视电话
+      - picturephone
   - 例句
-    - `Your wristwatch videophone suddenly rings.`
-      - 突然，你手表上的可视电话响了。
-
+    - Your wristwatch videophone suddenly rings. 突然，你手表上的可视电话响了。
+  - 补充

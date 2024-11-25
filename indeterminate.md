@@ -1,36 +1,23 @@
 - indeterminate
   - 发音
-    - 英
-      - `/,ɪndɪ'tɜːmɪnət/`
-    - 美
-      - `/'ɪndɪ'tɝmənət/`
+    - 英 /,ɪndɪ'tɜːmɪnət/
+    - 美 /'ɪndɪ'tɝmənət/
   - 词义
-    - adj.
-      - 不确定的,含混的
-        - `impossible to know about definitely or exactly`
+    - adj. 不确定的,含混的
+      - impossible to know about definitely or exactly
   - 同根词
-    - adj.
-      - `indeterminable`
-        - 不能解决的；不能确定的
-    - n.
-      - `indeterminateness`
-        - 不定性
-      - `indetermination`
-        - 不确定；无法断定
-    - 不确定；[数].
-      - `indeterminacy`
-        - 不确定；[数] 不确定性
+    - adj. indeterminable 不能解决的；不能确定的
+    - n. indeterminateness 不定性
+    - n. indetermination 不确定；无法断定
+    - 不确定；[数]. indeterminacy 不确定；[数] 不确定性
   - 近义词
-    - adj.
-      - [数]不确定的；模糊的；含混的
-        - `fuzzy`
-        - `dark`
-        - `vague`
-        - `unsure`
+    - adj. [数]不确定的；模糊的；含混的
+      - fuzzy
+      - dark
+      - vague
+      - unsure
   - 短语
-    - `statically indeterminate structure`
-      - [化]超静定结构；静不定结构 
+    - statically indeterminate structure [化]超静定结构；静不定结构
   - 例句
-    - `a girl of indeterminate age`
-      - 年龄难以确定的女孩
-
+    - a girl of indeterminate age 年龄难以确定的女孩
+  - 补充

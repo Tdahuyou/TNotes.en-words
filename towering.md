@@ -1,71 +1,42 @@
 - towering
   - 发音
-    - 英
-      - `/'tauərɪŋ/`
-    - 美
-      - `/'taʊərɪŋ/`
+    - 英 /'tauərɪŋ/
+    - 美 /'taʊərɪŋ/
   - 词义
-    - adj.
-      - 高耸的；杰出的
-        - `very tall`
+    - adj. 高耸的；杰出的
+      - very tall
   - 记忆
     - tower(塔) + ing → 像塔一样的 → 高耸的
   - 同根词
-    - n.
-      - `tower`
-        - 塔；高楼；堡垒
-    - vi.
-      - `tower`
-        - 高耸；超越
+    - n. tower 塔；高楼；堡垒
+    - vi. tower 高耸；超越
   - 近义词
-    - adj.
-      - 高耸的；卓越的；激烈的
-        - `remarkable`
-        - `excellent`
-        - `prominent`
-        - `acute`
+    - adj. 高耸的；卓越的；激烈的
+      - remarkable
+      - excellent
+      - prominent
+      - acute
   - 短语
-    - `cooling tower`
-      - 冷却塔 
-    - `eiffel tower`
-      - 艾菲尔铁塔（位于巴黎塞纳河南岸） 
-    - `tower crane`
-      - [机]塔式起重机 
-    - `water tower`
-      - 水塔 
-    - `distillation tower`
-      - 蒸馏塔 
-    - `absorption tower`
-      - 吸收塔 
-    - `tower above`
-      - vt. 远远胜过；大大高出 
-    - `bell tower`
-      - n. 钟塔，钟楼 
-    - `clock tower`
-      - 钟楼；钟塔 
-    - `ivory tower`
-      - n. 象牙塔（指脱离现实生活的小天地） 
-    - `drum tower`
-      - 鼓楼 
-    - `television tower`
-      - 电视塔 
-    - `steel tower`
-      - 钢塔，铁架 
-    - `packed tower`
-      - 填料塔；[生化]填充塔 
-    - `transmission tower`
-      - 输电杆塔 
-    - `bridge tower`
-      - 桥头堡；桥塔；索塔 
-    - `tower structure`
-      - 塔式结构；框架式结构 
-    - `leaning tower`
-      - 斜塔 
-    - `control tower`
-      - （机场）指挥塔台，控制塔 
-    - `tower bridge`
-      - n. 塔桥（在英国伦敦泰晤士河上的两端各有一塔） 
+    - cooling tower 冷却塔
+    - eiffel tower 艾菲尔铁塔（位于巴黎塞纳河南岸）
+    - tower crane [机]塔式起重机
+    - water tower 水塔
+    - distillation tower 蒸馏塔
+    - absorption tower 吸收塔
+    - tower above vt. 远远胜过；大大高出
+    - bell tower n. 钟塔，钟楼
+    - clock tower 钟楼；钟塔
+    - ivory tower n. 象牙塔（指脱离现实生活的小天地）
+    - drum tower 鼓楼
+    - television tower 电视塔
+    - steel tower 钢塔，铁架
+    - packed tower 填料塔；[生化]填充塔
+    - transmission tower 输电杆塔
+    - bridge tower 桥头堡；桥塔；索塔
+    - tower structure 塔式结构；框架式结构
+    - leaning tower 斜塔
+    - control tower （机场）指挥塔台，控制塔
+    - tower bridge n. 塔桥（在英国伦敦泰晤士河上的两端各有一塔）
   - 例句
-    - `great towering cliffs`
-      - 雄伟高耸的峭壁
-
+    - great towering cliffs 雄伟高耸的峭壁
+  - 补充

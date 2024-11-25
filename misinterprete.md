@@ -1,9 +1,7 @@
 - misinterprete
   - 发音
-    - 英
-      - `/undefined/`
-    - 美
-      - `/undefined/`
+    - 英 /undefined/
+    - 美 /undefined/
   - 词义
-    - v.
-      - 误解
+    - v. 误解
+  - 补充

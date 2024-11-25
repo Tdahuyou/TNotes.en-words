@@ -1,38 +1,25 @@
 - ferocious
   - 发音
-    - 英
-      - `/fə'rəuʃəs/`
-    - 美
-      - `/fə'roʃəs/`
+    - 英 /fə'rəuʃəs/
+    - 美 /fə'roʃəs/
   - 词义
-    - adj.
-      - 凶恶的，残忍的，凶猛的；十分强烈的，极度的
-        - `violent, dangerous, and frightening`
+    - adj. 凶恶的，残忍的，凶猛的；十分强烈的，极度的
+      - violent, dangerous, and frightening
   - 记忆
     - feroc (凶猛) + ious → 凶猛的
   - 同根词
-    - [n.
-      - `ferociousness`
-        - 凶恶；厉害；残忍
-    - adv.
-      - `ferociously`
-        - 残忍地；野蛮地；凶猛地
-    - n.
-      - `ferocity`
-        - 凶猛；残忍；暴行
+    - [n. ferociousness 凶恶；厉害；残忍
+    - adv. ferociously 残忍地；野蛮地；凶猛地
+    - n. ferocity 凶猛；残忍；暴行
   - 近义词
-    - adj.
-      - 残忍的；惊人的
-        - `tremendous`
-        - `cruel`
-        - `brutal`
-        - `incredible`
-        - `spectacular`
+    - adj. 残忍的；惊人的
+      - tremendous
+      - cruel
+      - brutal
+      - incredible
+      - spectacular
   - 例句
-    - `a ferocious, hungry lion`
-      - 一头凶猛的饿狮
-    - `a ferocious battle`
-      - 残酷的战役
-    - `The storm grew more and more ferocious with each second.`
-      - 风暴每一秒钟都在加剧。
-
+    - a ferocious, hungry lion 一头凶猛的饿狮
+    - a ferocious battle 残酷的战役
+    - The storm grew more and more ferocious with each second. 风暴每一秒钟都在加剧。
+  - 补充

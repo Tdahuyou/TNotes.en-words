@@ -1,29 +1,20 @@
 - gruff
   - 发音
-    - 英
-      - `/grʌf/`
-    - 美
-      - `/ɡrʌf/`
+    - 英 /grʌf/
+    - 美 /ɡrʌf/
   - 词义
-    - adj.
-      - 粗暴的，生硬的
-        - `speaking in a rough unfriendly voice`
+    - adj. 粗暴的，生硬的
+      - speaking in a rough unfriendly voice
   - 近义词
-    - adj.
-      - 粗暴的；粗哑的；脾气坏的
-        - `outrageous`
-        - `bearish`
-    - vt.
-      - 粗鲁地说；生硬地说
-        - `mouth off`
-    - vi.
-      - 粗鲁地说；生硬地说话
-        - `mouth off`
+    - adj. 粗暴的；粗哑的；脾气坏的
+      - outrageous
+      - bearish
+    - vt. 粗鲁地说；生硬地说
+      - mouth off
+    - vi. 粗鲁地说；生硬地说话
+      - mouth off
   - 例句
-    - `His manner can be rather gruff.`
-      - 他的态度有时候很生硬。
-    - `a gruff reply`
-      - 生硬的回答
-    - `His voice became gruff.`
-      - 他的声音变得生硬了。
-
+    - His manner can be rather gruff. 他的态度有时候很生硬。
+    - a gruff reply 生硬的回答
+    - His voice became gruff. 他的声音变得生硬了。
+  - 补充

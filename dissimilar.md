@@ -1,34 +1,23 @@
 - dissimilar
   - 发音
-    - 英
-      - `/di'similə/`
-    - 美
-      - `/dɪ'sɪmɪlɚ/`
+    - 英 /di'similə/
+    - 美 /dɪ'sɪmɪlɚ/
   - 词义
-    - adj.
-      - 不同的
-        - `not the same`
+    - adj. 不同的
+      - not the same
   - 记忆
     - dis (不) + similar (类似的) → 不类似的 → 不同的
   - 同根词
-    - n.
-      - `dissimilarity`
-        - 不同，相异；相异点
-    - vi.
-      - `dissimilate`
-        - 变得不同
-    - vt.
-      - `dissimilate`
-        - 变得不同
+    - n. dissimilarity 不同，相异；相异点
+    - vi. dissimilate 变得不同
+    - vt. dissimilate 变得不同
   - 近义词
-    - adj.
-      - 不同的
-        - `different`
-        - `diverse`
-        - `unlike`
-        - `varying`
-        - `another`
+    - adj. 不同的
+      - different
+      - diverse
+      - unlike
+      - varying
+      - another
   - 例句
-    - `His methods were not dissimilar to those used by Freud.`
-      - 他用的方法和弗洛伊德用的没有什么不同。
-
+    - His methods were not dissimilar to those used by Freud. 他用的方法和弗洛伊德用的没有什么不同。
+  - 补充

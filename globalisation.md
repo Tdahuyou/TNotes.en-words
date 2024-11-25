@@ -1,13 +1,10 @@
 - globalisation
   - 发音
-    - 英
-      - `/,gləubəlai'zeiʃən/`
-    - 美
-      - `/,gləubəlai'zeiʃən/`
+    - 英 /,gləubəlai'zeiʃən/
+    - 美 /,gləubəlai'zeiʃən/
   - 词义
-    - n.
-      - 全球化，全球性
+    - n. 全球化，全球性
   - 近义词
-    - n.
-      - 全球化
-        - `economic globalization`
+    - n. 全球化
+      - economic globalization
+  - 补充

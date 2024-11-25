@@ -1,20 +1,15 @@
 - raffish
   - 发音
-    - 英
-      - `/'ræfɪʃ/`
-    - 美
-      - `/'ræfɪʃ/`
+    - 英 /'ræfɪʃ/
+    - 美 /'ræfɪʃ/
   - 词义
-    - adj.
-      - 名誉不好的,卑鄙的,艳俗的
+    - adj. 名誉不好的,卑鄙的,艳俗的
   - 近义词
-    - adj.
-      - 名誉不好的；卑鄙的；无赖的
-        - `poor`
-        - `mean`
-        - `base`
-        - `dirty`
+    - adj. 名誉不好的；卑鄙的；无赖的
+      - poor
+      - mean
+      - base
+      - dirty
   - 例句
-    - `an interesting character with a raffish air`
-      - 一个大胆脱俗的有趣人物
-
+    - an interesting character with a raffish air 一个大胆脱俗的有趣人物
+  - 补充

@@ -1,21 +1,14 @@
 - lancinate
   - 发音
-    - 英
-      - `/undefined/`
-    - 美
-      - `/undefined/`
+    - 英 /undefined/
+    - 美 /undefined/
   - 词义
-    - vt.
-      - （除医学外现罕用的）刺,刺痛,撕裂
+    - vt. （除医学外现罕用的）刺,刺痛,撕裂
   - 同根词
-    - adj.
-      - `lancinating`
-        - 刺痛的；撕裂的；象枪刺般的
-    - v.
-      - `lancinating`
-        - 刺（lancinate的ing形式）
+    - adj. lancinating 刺痛的；撕裂的；象枪刺般的
+    - v. lancinating 刺（lancinate的ing形式）
   - 近义词
-    - vt.
-      - 撕裂；刺
-        - `stick`
-        - `tear`
+    - vt. 撕裂；刺
+      - stick
+      - tear
+  - 补充

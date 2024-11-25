@@ -1,21 +1,15 @@
 - biscuit
   - 发音
-    - 英
-      - `/'bɪskɪt/`
-    - 美
-      - `/'bɪskɪt/`
+    - 英 /'bɪskɪt/
+    - 美 /'bɪskɪt/
   - 词义
-    - n.
-      - 饼干
-        - `a small thin dry cake that is usually sweet and made for one person to eat`
+    - n. 饼干
+      - a small thin dry cake that is usually sweet and made for one person to eat
   - 近义词
-    - n.
-      - 小点心，饼干
-        - `munchies`
-        - `cookie`
+    - n. 小点心，饼干
+      - munchies
+      - cookie
   - 例句
-    - `a packet of chocolate biscuits`
-      - 一包巧克力饼干
-    - `cheese and biscuits`
-      - 奶酪和饼干
-
+    - a packet of chocolate biscuits 一包巧克力饼干
+    - cheese and biscuits 奶酪和饼干
+  - 补充

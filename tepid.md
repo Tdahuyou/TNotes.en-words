@@ -1,25 +1,18 @@
 - tepid
   - 发音
-    - 英
-      - `/'tepid/`
-    - 美
-      - `/'tɛpɪd/`
+    - 英 /'tepid/
+    - 美 /'tɛpɪd/
   - 词义
-    - adj.
-      - 微温的，温热的；不太热烈的；不热情的
-        - `a feeling, reaction etc that is tepid shows a lack of excitement or interest`
+    - adj. 微温的，温热的；不太热烈的；不热情的
+      - a feeling, reaction etc that is tepid shows a lack of excitement or interest
   - 记忆
     - 水微热 (tepid) ， 不要掀盖子 (lid)
   - 同根词
-    - n.
-      - `tepidity`
-        - 微温；微热
+    - n. tepidity 微温；微热
   - 近义词
-    - adj.
-      - 微温的，温热的；不太热烈的；不热情的
-        - `cold`
-        - `lukewarm`
+    - adj. 微温的，温热的；不太热烈的；不热情的
+      - cold
+      - lukewarm
   - 例句
-    - `a tepid response from the audience`
-      - 观众冷淡的反应
-
+    - a tepid response from the audience 观众冷淡的反应
+  - 补充

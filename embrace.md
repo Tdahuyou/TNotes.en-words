@@ -1,45 +1,30 @@
 - embrace
   - 发音
-    - 英
-      - `/ɪm'breɪs/`
-    - 美
-      - `/ɪm'bres/`
+    - 英 /ɪm'breɪs/
+    - 美 /ɪm'bres/
   - 词义
-    - v.
-      - 拥抱；包含；欣然接受
-        - `to put your arms around someone and hold them in a friendly or loving way`
-    - n.
-      - 拥抱
-        - `the act of holding someone close to you, especially as a sign of love`
+    - v. 拥抱；包含；欣然接受
+      - to put your arms around someone and hold them in a friendly or loving way
+    - n. 拥抱
+      - the act of holding someone close to you, especially as a sign of love
   - 记忆
     - em(使…) + brac(胳膊) + e → 使在胳膊里 → 拥抱
   - 同根词
-    - n.
-      - `embracing`
-        - 拥抱
-      - `embracement`
-        - 拥抱；环绕；领会
-    - v.
-      - `embracing`
-        - 拥抱，包含（embrace的现在分词形式）
+    - n. embracing 拥抱
+    - n. embracement 拥抱；环绕；领会
+    - v. embracing 拥抱，包含（embrace的现在分词形式）
   - 近义词
-    - vt.
-      - 拥抱；信奉，皈依；包含
-        - `involve`
-        - `contain`
-    - vi.
-      - 拥抱
-        - `hug`
-        - `cuddle`
-    - n.
-      - 拥抱
-        - `hug`
+    - vt. 拥抱；信奉，皈依；包含
+      - involve
+      - contain
+    - vi. 拥抱
+      - hug
+      - cuddle
+    - n. 拥抱
+      - hug
   - 短语
-    - `warm embrace`
-      - 温暖的拥抱 
+    - warm embrace 温暖的拥抱
   - 例句
-    - `Jack warmly embraced his son.`
-      - 杰克热情拥抱他的儿子。
-    - `Maggie and Laura embraced.`
-      - 玛吉和劳拉拥抱在一起。
-
+    - Jack warmly embraced his son. 杰克热情拥抱他的儿子。
+    - Maggie and Laura embraced. 玛吉和劳拉拥抱在一起。
+  - 补充

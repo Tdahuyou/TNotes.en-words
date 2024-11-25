@@ -1,28 +1,19 @@
 - circumspect
   - 发音
-    - 英
-      - `/'səːkəmspekt/`
-    - 美
-      - `/'sɝkəm'spɛkt/`
+    - 英 /'səːkəmspekt/
+    - 美 /'sɝkəm'spɛkt/
   - 词义
-    - adj.
-      - 慎重的；周到的
-        - `thinking carefully about something before doing it, in order to avoid risk`
+    - adj. 慎重的；周到的
+      - thinking carefully about something before doing it, in order to avoid risk
   - 记忆
     - circum (周围) + spect (看) → 向周围看 → 慎重的
   - 同根词
-    - adv.
-      - `circumspectly`
-        - 慎重地；留心地
-    - n.
-      - `circumspection`
-        - 慎重；细心
+    - adv. circumspectly 慎重地；留心地
+    - n. circumspection 慎重；细心
   - 近义词
-    - adj.
-      - 细心的，周到的；慎重的
-        - `measured`
-        - `scrupulous`
+    - adj. 细心的，周到的；慎重的
+      - measured
+      - scrupulous
   - 例句
-    - `The governor was usually circumspect when dealing with the media.`
-      - 这位州长和媒体打交道时通常都很谨慎小心。
-
+    - The governor was usually circumspect when dealing with the media. 这位州长和媒体打交道时通常都很谨慎小心。
+  - 补充

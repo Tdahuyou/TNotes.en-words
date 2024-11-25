@@ -1,25 +1,18 @@
 - zealot
   - 发音
-    - 英
-      - `/'zelət/`
-    - 美
-      - `/'zɛlət/`
+    - 英 /'zelət/
+    - 美 /'zɛlət/
   - 词义
-    - n.
-      - 狂热者
-        - `someone who has extremely strong beliefs, especially religious or political beliefs, and is too eager to make other people share them`
+    - n. 狂热者
+      - someone who has extremely strong beliefs, especially religious or political beliefs, and is too eager to make other people share them
   - 记忆
     - 来自zeal (n. 热心)
   - 同根词
-    - n.
-      - `zealotry`
-        - 狂热的行为；狂言；狂热
+    - n. zealotry 狂热的行为；狂言；狂热
   - 近义词
-    - n.
-      - 狂热者；犹太教狂热信徒
-        - `Wild Ginger`
-        - `enthusiast`
+    - n. 狂热者；犹太教狂热信徒
+      - Wild Ginger
+      - enthusiast
   - 例句
-    - `religious zealots`
-      - 宗教狂热分子
-
+    - religious zealots 宗教狂热分子
+  - 补充

@@ -1,25 +1,17 @@
 - persecute
   - 发音
-    - 英
-      - `/'pɜːsɪkjuːt/`
-    - 美
-      - `/'pɝsɪkjut/`
+    - 英 /'pɜːsɪkjuːt/
+    - 美 /'pɝsɪkjut/
   - 词义
-    - v.
-      - 迫害；困扰；同…捣乱
-        - `to treat someone cruelly or unfairly over a period of time, especially because of their religious or political beliefs`
+    - v. 迫害；困扰；同…捣乱
+      - to treat someone cruelly or unfairly over a period of time, especially because of their religious or political beliefs
   - 同根词
-    - n.
-      - `persecution`
-        - 迫害；烦扰
-      - `persecutor`
-        - 虐待者；迫害者
+    - n. persecution 迫害；烦扰
+    - n. persecutor 虐待者；迫害者
   - 近义词
-    - vt.
-      - 迫害；困扰；同…捣乱
-        - `beset`
-        - `eat at`
+    - vt. 迫害；困扰；同…捣乱
+      - beset
+      - eat at
   - 例句
-    - `The Puritans left England to escape being persecuted.`
-      - 清教徒离开了英国以躲避迫害。
-
+    - The Puritans left England to escape being persecuted. 清教徒离开了英国以躲避迫害。
+  - 补充

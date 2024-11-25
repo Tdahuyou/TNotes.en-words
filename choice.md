@@ -1,74 +1,45 @@
 - choice
   - 发音
-    - 英
-      - `/tʃɒɪs/`
-    - 美
-      - `/tʃɔɪs/`
+    - 英 /tʃɒɪs/
+    - 美 /tʃɔɪs/
   - 词义
-    - n.
-      - 选择
-        - `if you have a choice, you can choose between several things`
+    - n. 选择
+      - if you have a choice, you can choose between several things
   - 同根词
-    - n.
-      - `choiceness`
-        - 优良；精选；上等
+    - n. choiceness 优良；精选；上等
   - 近义词
-    - n.
-      - 选择；选择权；精选品
-        - `chose`
-        - `selection`
-        - `option`
-        - `election`
-        - `pick`
-    - adj.
-      - 精选的；仔细推敲的
-        - `picked`
-        - `select`
-        - `chosen`
+    - n. 选择；选择权；精选品
+      - chose
+      - selection
+      - option
+      - election
+      - pick
+    - adj. 精选的；仔细推敲的
+      - picked
+      - select
+      - chosen
   - 短语
-    - `of choice`
-      - 特别的，精选的 
-    - `have no choice`
-      - v. 没有选择的余地；不特别偏爱哪一个 
-    - `make a choice`
-      - vi. 做出选择 
-    - `for choice`
-      - 根据选择；凭个人喜爱 
-    - `first choice`
-      - 第一选择 
-    - `your choice`
-      - 你的选择 
-    - `make choice of`
-      - 选定 
-    - `good choice`
-      - 好选择；明智的选择 
-    - `by choice`
-      - adv. 出于选择 
-    - `have a choice`
-      - 可以选择 
-    - `have no choice but`
-      - 别无选择；非…不可 
-    - `rational choice`
-      - 理性选择；理性抉择 
-    - `wise choice`
-      - 明智的选择 
-    - `have one's choice`
-      - 可以挑选，有选择的自由，有选择权 
-    - `make choice`
-      - 做出选择 
-    - `optimal choice`
-      - 最佳选择 
-    - `free choice`
-      - 自由选择；自由采食 
-    - `multiple choice`
-      - 多项选择，复式选择 
-    - `from choice`
-      - 自愿地 
-    - `a poor choice`
-      - 可供选择的品种不多，没什么可供选择的 
+    - of choice 特别的，精选的
+    - have no choice v. 没有选择的余地；不特别偏爱哪一个
+    - make a choice vi. 做出选择
+    - for choice 根据选择；凭个人喜爱
+    - first choice 第一选择
+    - your choice 你的选择
+    - make choice of 选定
+    - good choice 好选择；明智的选择
+    - by choice adv. 出于选择
+    - have a choice 可以选择
+    - have no choice but 别无选择；非…不可
+    - rational choice 理性选择；理性抉择
+    - wise choice 明智的选择
+    - have one's choice 可以挑选，有选择的自由，有选择权
+    - make choice 做出选择
+    - optimal choice 最佳选择
+    - free choice 自由选择；自由采食
+    - multiple choice 多项选择，复式选择
+    - from choice 自愿地
+    - a poor choice 可供选择的品种不多，没什么可供选择的
   - 例句
-    - `He has to make some important choices.`
-      - 他得作出一些重要的抉择。
-    - `They gave us no choice in the matter.`
-      - 在这件事情上他们没给我们选择的余地。
-
+    - He has to make some important choices. 他得作出一些重要的抉择。
+    - They gave us no choice in the matter. 在这件事情上他们没给我们选择的余地。
+  - 补充

@@ -1,31 +1,20 @@
 - spontaneity
   - 发音
-    - 英
-      - `/ˌspɑːntə'neɪəti/`
-    - 美
-      - `/,spɑntə'neəti/`
+    - 英 /ˌspɑːntə'neɪəti/
+    - 美 /,spɑntə'neəti/
   - 词义
-    - n.
-      - 自发性；自发行为
-        - `Spontaneity is spontaneous, natural behaviour`
+    - n. 自发性；自发行为
+      - Spontaneity is spontaneous, natural behaviour
   - 记忆
     - 来自spontaneous(a. 自发的)
   - 同根词
-    - adj.
-      - `spontaneous`
-        - 自发的；自然的；无意识的
-    - adv.
-      - `spontaneously`
-        - 自发地；自然地；不由自主地
-    - n.
-      - `spontaneousness`
-        - 自然；任意
+    - adj. spontaneous 自发的；自然的；无意识的
+    - adv. spontaneously 自发地；自然地；不由自主地
+    - n. spontaneousness 自然；任意
   - 近义词
-    - n.
-      - 自发性；自然发生
-        - `spontaneous generation`
-        - `abiogenesis`
+    - n. 自发性；自然发生
+      - spontaneous generation
+      - abiogenesis
   - 例句
-    - `He had the spontaneity of a child.`
-      - 他有孩子般的自然举动。
-
+    - He had the spontaneity of a child. 他有孩子般的自然举动。
+  - 补充

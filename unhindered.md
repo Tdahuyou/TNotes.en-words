@@ -1,19 +1,14 @@
 - unhindered
   - 发音
-    - 英
-      - `/ʌn'hɪndəd/`
-    - 美
-      - `/ʌn'hɪndɚd/`
+    - 英 /ʌn'hɪndəd/
+    - 美 /ʌn'hɪndɚd/
   - 词义
-    - adj.
-      - 无阻的,不受阻碍的
-        - `without hindrance `
+    - adj. 无阻的,不受阻碍的
+      - without hindrance 
   - 近义词
-    - adj.
-      - 不受妨碍的，不受阻碍的
-        - `unencumbered`
-        - `uncrossed`
+    - adj. 不受妨碍的，不受阻碍的
+      - unencumbered
+      - uncrossed
   - 例句
-    - `he could proceed unhindered`
-      - 
-
+    - he could proceed unhindered 
+  - 补充

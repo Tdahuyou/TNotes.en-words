@@ -1,27 +1,19 @@
 - gratis
   - 发音
-    - 英
-      - `/'grætɪs; 'grɑː-; 'greɪ-/`
-    - 美
-      - `/undefined/`
+    - 英 /'grætɪs; 'grɑː-; 'greɪ-/
+    - 美 /undefined/
   - 词义
-    - adv.
-      - 免费,白送
-        - `If something is done or provided gratis, it does not have to be paid for`
+    - adv. 免费,白送
+      - If something is done or provided gratis, it does not have to be paid for
   - 同根词
-    - adj.
-      - `gratuitous`
-        - 无理由的，无端的；免费的
+    - adj. gratuitous 无理由的，无端的；免费的
   - 近义词
-    - adv.
-      - 免费地
-        - `freely`
-        - `cost-free`
-    - adj.
-      - 免费的
-        - `free`
-        - `franco`
+    - adv. 免费地
+      - freely
+      - cost-free
+    - adj. 免费的
+      - free
+      - franco
   - 例句
-    - `David gives the first consultation gratis.`
-      - 戴维免费提供第一次咨询。
-
+    - David gives the first consultation gratis. 戴维免费提供第一次咨询。
+  - 补充

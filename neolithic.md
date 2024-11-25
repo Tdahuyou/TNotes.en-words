@@ -1,29 +1,20 @@
 - Neolithic
   - 发音
-    - 英
-      - `/ˌniːə'lɪθɪk/`
-    - 美
-      - `/ˌniəˈlɪθɪk/`
+    - 英 /ˌniːə'lɪθɪk/
+    - 美 /ˌniəˈlɪθɪk/
   - 词义
-    - adj.
-      - 新石器时代的
-        - `relating to the last period of the stone age, about 10,000 years ago, when people began to live together in small groups and make stone tools and weapons`
+    - adj. 新石器时代的
+      - relating to the last period of the stone age, about 10,000 years ago, when people began to live together in small groups and make stone tools and weapons
   - 记忆
     - neo(新的) + lith(石头) + ic → 新石器的 → 新石器时代的
   - 同根词
-    - n.
-      - `neolith`
-        - 新石器时代的石器
+    - n. neolith 新石器时代的石器
   - 近义词
-    - adj.
-      - [古]新石器时代的；早先的
-        - `previous`
+    - adj. [古]新石器时代的；早先的
+      - previous
   - 短语
-    - `neolithic age`
-      - 新石器时代 
-    - `neolithic period`
-      - 新石器时代 
+    - neolithic age 新石器时代
+    - neolithic period 新石器时代
   - 例句
-    - `a Neolithic burial ground`
-      - 一块新石器时代的墓地
-
+    - a Neolithic burial ground 一块新石器时代的墓地
+  - 补充

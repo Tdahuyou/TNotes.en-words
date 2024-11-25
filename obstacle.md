@@ -1,35 +1,25 @@
 - obstacle
   - 发音
-    - 英
-      - `/'ɑːbstəkl/`
-    - 美
-      - `/'ɑbstəkl/`
+    - 英 /'ɑːbstəkl/
+    - 美 /'ɑbstəkl/
   - 词义
-    - n.
-      - 障碍，妨害物
-        - `something that makes it difficult to achieve some­thing`
+    - n. 障碍，妨害物
+      - something that makes it difficult to achieve some­thing
   - 记忆
     - ob(反) + st(=stand站立) + acle(表小东西) → 反着站的物体 → 障碍， 妨害物
   - 近义词
-    - n.
-      - 障碍，干扰；妨害物
-        - `interference`
-        - `let`
-        - `bar`
-        - `disturbance`
-        - `dam`
+    - n. 障碍，干扰；妨害物
+      - interference
+      - let
+      - bar
+      - disturbance
+      - dam
   - 短语
-    - `obstacle course`
-      - n. 超越障碍训练场 
+    - obstacle course n. 超越障碍训练场
   - 例句
-    - `The tax puts obstacles in the way of companies trying to develop trade overseas.`
-      - 这项税收为想在海外发展贸易的公司设置了障碍。
-    - `Women still have to overcome many obstacles to gain equality.`
-      - 妇女要获得平等仍需克服重重障碍。
-    - `We want to remove all obstacles to travel between the two countries.`
-      - 我们想要消除在这两个国家之间旅行的所有障碍。
-    - `the single biggest obstacle to a Conservative victory in the next election`
-      - 保守党在下一届大选中获胜的最大障碍
-    - `There are formidable obstacles on the road to peace.`
-      - 通往和平的道路上存在难以逾越的障碍。
-
+    - The tax puts obstacles in the way of companies trying to develop trade overseas. 这项税收为想在海外发展贸易的公司设置了障碍。
+    - Women still have to overcome many obstacles to gain equality. 妇女要获得平等仍需克服重重障碍。
+    - We want to remove all obstacles to travel between the two countries. 我们想要消除在这两个国家之间旅行的所有障碍。
+    - the single biggest obstacle to a Conservative victory in the next election 保守党在下一届大选中获胜的最大障碍
+    - There are formidable obstacles on the road to peace. 通往和平的道路上存在难以逾越的障碍。
+  - 补充

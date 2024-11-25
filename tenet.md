@@ -1,27 +1,21 @@
 - tenet
   - 发音
-    - 英
-      - `/'tenɪt/`
-    - 美
-      - `/'tɛnɪt/`
+    - 英 /'tenɪt/
+    - 美 /'tɛnɪt/
   - 词义
-    - n.
-      - 原则；信条；教义
-        - `a principle or belief, especially one that is part of a larger system of beliefs`
+    - n. 原则；信条；教义
+      - a principle or belief, especially one that is part of a larger system of beliefs
   - 记忆
     - ten(握住) + et → 牢牢握住的东西 → 原则； 信条； 教义
   - 近义词
-    - n.
-      - 原则；信条；教义
-        - `principle`
-        - `belief`
-        - `teaching`
-        - `doctrine`
-        - `creed`
+    - n. 原则；信条；教义
+      - principle
+      - belief
+      - teaching
+      - doctrine
+      - creed
   - 短语
-    - `company tenet`
-      - 公司宗旨；企业宗旨 
+    - company tenet 公司宗旨；企业宗旨
   - 例句
-    - `Non-violence and patience are the central tenets of their faith.`
-      - 非暴力和忍耐是他们信仰的基本原则。
-
+    - Non-violence and patience are the central tenets of their faith. 非暴力和忍耐是他们信仰的基本原则。
+  - 补充

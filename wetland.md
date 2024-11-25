@@ -1,15 +1,12 @@
 - wetland
   - 发音
-    - 英
-      - `/'wetlənd/`
-    - 美
-      - `/'wɛtlənd/`
+    - 英 /'wetlənd/
+    - 美 /'wɛtlənd/
   - 词义
-    - n.
-      - 潮湿的土壤,沼泽地
-        - `an area of land that is partly covered with water, or is wet most of the time`
+    - n. 潮湿的土壤,沼泽地
+      - an area of land that is partly covered with water, or is wet most of the time
   - 近义词
-    - n.
-      - 湿地；沼泽地
-        - `moist soil`
-        - `everglade`
+    - n. 湿地；沼泽地
+      - moist soil
+      - everglade
+  - 补充

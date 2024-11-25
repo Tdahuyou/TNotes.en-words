@@ -1,27 +1,19 @@
 - decadent
   - 发音
-    - 英
-      - `/'dekədənt/`
-    - 美
-      - `/'dɛkədənt/`
+    - 英 /'dekədənt/
+    - 美 /'dɛkədənt/
   - 词义
-    - adj.
-      - 堕落的，颓废的
-        - `having low moral standards and being more concerned with pleasure than serious matters`
+    - adj. 堕落的，颓废的
+      - having low moral standards and being more concerned with pleasure than serious matters
   - 记忆
     - de(向下) + cad(掉， 落) + ent → 向下落的 → 堕落的
   - 同根词
-    - n.
-      - `decadence`
-        - 堕落，颓废；衰落
-      - `decadency`
-        - 衰微，堕落；颓废，衰落
+    - n. decadence 堕落，颓废；衰落
+    - n. decadency 衰微，堕落；颓废，衰落
   - 近义词
-    - adj.
-      - 颓废的；衰微的
-        - `deteriorative`
-        - `overripe`
+    - adj. 颓废的；衰微的
+      - deteriorative
+      - overripe
   - 例句
-    - `Pop music was condemned as decadent and crude.`
-      - 流行音乐被指责为堕落而又粗俗。
-
+    - Pop music was condemned as decadent and crude. 流行音乐被指责为堕落而又粗俗。
+  - 补充

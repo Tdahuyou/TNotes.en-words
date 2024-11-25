@@ -1,26 +1,17 @@
 - hanker
   - 发音
-    - 英
-      - `/'hæŋkə/`
-    - 美
-      - `/'hæŋkɚ/`
+    - 英 /'hæŋkə/
+    - 美 /'hæŋkɚ/
   - 词义
-    - v.
-      - 渴望,追求
-        - `If you hanker after something, you want it very much`
+    - v. 渴望,追求
+      - If you hanker after something, you want it very much
   - 同根词
-    - n.
-      - `hankering`
-        - 渴望；向往
-    - v.
-      - `hankering`
-        - 渴望（hanker的ing形式）
+    - n. hankering 渴望；向往
+    - v. hankering 渴望（hanker的ing形式）
   - 近义词
-    - vi.
-      - 向往，追求；渴望，期望
-        - `rare`
-        - `aspire`
+    - vi. 向往，追求；渴望，期望
+      - rare
+      - aspire
   - 例句
-    - `I hankered after a floor-length brown suede coat.`
-      - 我渴望一件垂地长度的棕色麂皮大衣。
-
+    - I hankered after a floor-length brown suede coat. 我渴望一件垂地长度的棕色麂皮大衣。
+  - 补充

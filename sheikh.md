@@ -1,15 +1,12 @@
 - sheikh
   - 发音
-    - 英
-      - `/undefined/`
-    - 美
-      - `/ʃeik/`
+    - 英 /undefined/
+    - 美 /ʃeik/
   - 词义
-    - n.
-      - 族长；阿拉伯酋长（等于sheik）
-        - `an Arab ruler or prince`
+    - n. 族长；阿拉伯酋长（等于sheik）
+      - an Arab ruler or prince
   - 近义词
-    - n.
-      - 族长；阿拉伯酋长（等于sheik）
-        - `genearch`
-        - `patriarch`
+    - n. 族长；阿拉伯酋长（等于sheik）
+      - genearch
+      - patriarch
+  - 补充

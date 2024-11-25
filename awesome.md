@@ -1,48 +1,29 @@
 - awesome
   - 发音
-    - 英
-      - `/'ɔːsəm/`
-    - 美
-      - `/'ɔsəm/`
+    - 英 /'ɔːsəm/
+    - 美 /'ɔsəm/
   - 词义
-    - adj.
-      - 使人敬畏的；使人恐惧的
-        - `extremely impressive, serious, or difficult so that you feel great respect, worry, or fear`
+    - adj. 使人敬畏的；使人恐惧的
+      - extremely impressive, serious, or difficult so that you feel great respect, worry, or fear
   - 记忆
     - awe(敬畏) + some(充满…的) → 使人敬畏的
   - 同根词
-    - adj.
-      - `awed`
-        - 充满敬畏的，畏怯的
-      - `aweless`
-        - 不知畏惧的；大胆的；不威严的
-      - `awing`
-        - 飞翔的
-    - adv.
-      - `awing`
-        - 飞翔地
-    - n.
-      - `awe`
-        - 敬畏
-    - v.
-      - `awed`
-        - 使…敬畏；使…惊叹（awe的过去分词）
-      - `awing`
-        - 使敬畏；使惊叹（awe的现在分词）
-    - vt.
-      - `awe`
-        - 使敬畏；使畏怯
+    - adj. awed 充满敬畏的，畏怯的
+    - adj. aweless 不知畏惧的；大胆的；不威严的
+    - adj. awing 飞翔的
+    - adv. awing 飞翔地
+    - n. awe 敬畏
+    - v. awed 使…敬畏；使…惊叹（awe的过去分词）
+    - v. awing 使敬畏；使惊叹（awe的现在分词）
+    - vt. awe 使敬畏；使畏怯
   - 近义词
-    - adj.
-      - 可怕的，引起敬畏的
-        - `terrible`
-        - `horrible`
-        - `fearful`
-        - `dire`
-        - `dreadful`
+    - adj. 可怕的，引起敬畏的
+      - terrible
+      - horrible
+      - fearful
+      - dire
+      - dreadful
   - 例句
-    - `an awesome responsibility`
-      - 一项令人惊惧的责任
-    - `the awesome sweep of the scenery`
-      - 连绵的壮丽景色
-
+    - an awesome responsibility 一项令人惊惧的责任
+    - the awesome sweep of the scenery 连绵的壮丽景色
+  - 补充

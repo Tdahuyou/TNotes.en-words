@@ -1,32 +1,21 @@
 - unload
   - 发音
-    - 英
-      - `/ʌn'ləʊd/`
-    - 美
-      - `/'ʌn'lod/`
+    - 英 /ʌn'ləʊd/
+    - 美 /'ʌn'lod/
   - 词义
-    - v.
-      - 卸货
-        - `to remove a load from a vehicle, ship etc`
-    - v.
-      - 摆脱之负担
-        - `to get rid of work or responsibility by giving it to someone else`
+    - v. 卸货
+      - to remove a load from a vehicle, ship etc
+    - v. 摆脱之负担
+      - to get rid of work or responsibility by giving it to someone else
   - 同根词
-    - n.
-      - `unloading`
-        - 卸载；卸货
-    - v.
-      - `unloading`
-        - 卸货（unload的ing形式）
+    - n. unloading 卸载；卸货
+    - v. unloading 卸货（unload的ing形式）
   - 近义词
-    - vt.
-      - 卸；摆脱…之负担；倾销
-        - `debark`
-    - vi.
-      - 卸货；退子弹
-        - `discharge of goods`
-        - `load off`
+    - vt. 卸；摆脱…之负担；倾销
+      - debark
+    - vi. 卸货；退子弹
+      - discharge of goods
+      - load off
   - 例句
-    - `Unload everything from the boat and clean it thoroughly.`
-      - 从小船上卸下所有的货物并彻底地清洗。
-
+    - Unload everything from the boat and clean it thoroughly. 从小船上卸下所有的货物并彻底地清洗。
+  - 补充

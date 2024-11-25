@@ -1,36 +1,24 @@
 - acquainted
   - 发音
-    - 英
-      - `/ə'kweintid/`
-    - 美
-      - `/ə'kwentɪd/`
+    - 英 /ə'kweintid/
+    - 美 /ə'kwentɪd/
   - 词义
-    - adj.
-      - 认识的；通晓的
-        - `if you are acquainted with someone, you have met them a few times but do not know them very well`
+    - adj. 认识的；通晓的
+      - if you are acquainted with someone, you have met them a few times but do not know them very well
   - 记忆
     - 来自acquaint (v. 使熟知； 使了解)
   - 同根词
-    - n.
-      - `acquaintance`
-        - 熟人；相识；了解；知道
-      - `acquaintanceship`
-        - 认识；相识；交往关系
-    - vt.
-      - `acquaint`
-        - 使熟悉；使认识
+    - n. acquaintance 熟人；相识；了解；知道
+    - n. acquaintanceship 认识；相识；交往关系
+    - vt. acquaint 使熟悉；使认识
   - 近义词
-    - adj.
-      - 熟识的；知晓的；有知识的
-        - `knowledgeable`
-        - `scient`
-    - v.
-      - 使了解（acquaint的过去分词）
-        - `informed`
+    - adj. 熟识的；知晓的；有知识的
+      - knowledgeable
+      - scient
+    - v. 使了解（acquaint的过去分词）
+      - informed
   - 短语
-    - `acquainted with`
-      - 熟悉；了解；与…相识 
+    - acquainted with 熟悉；了解；与…相识
   - 例句
-    - `We would like to get better acquainted.`
-      - 我们希望加深对彼此的了解。
-
+    - We would like to get better acquainted. 我们希望加深对彼此的了解。
+  - 补充

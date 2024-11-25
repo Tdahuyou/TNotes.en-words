@@ -1,80 +1,48 @@
 - discharge
   - 发音
-    - 英
-      - `/dɪs'tʃɑːdʒ/`
-    - 美
-      - `/dɪs'tʃɑrdʒ/`
+    - 英 /dɪs'tʃɑːdʒ/
+    - 美 /dɪs'tʃɑrdʒ/
   - 词义
-    - v.
-      - 释放；放；解雇；清偿；履行
-        - `If someone discharges their duties or responsibilities, they do everything that needs to be done in order to complete them`
-    - n.
-      - 流出物；放电
-        - `when a substance slowly comes out of a wound or part of your body, or the substance that comes out`
+    - v. 释放；放；解雇；清偿；履行
+      - If someone discharges their duties or responsibilities, they do everything that needs to be done in order to complete them
+    - n. 流出物；放电
+      - when a substance slowly comes out of a wound or part of your body, or the substance that comes out
   - 记忆
     - dis(分离) + charge(电荷) → 放电
   - 同根词
-    - adj.
-      - `discharged`
-        - 放电的；泻出的
-    - v.
-      - `discharged`
-        - 排出（discharge的过去分词）；卸货
+    - adj. discharged 放电的；泻出的
+    - v. discharged 排出（discharge的过去分词）；卸货
   - 近义词
-    - vt.
-      - [劳经]解雇；卸下；放出；免除
-        - `issue`
-        - `forgive`
-    - vi.
-      - [环境]排放；卸货；[流]流出
-        - `issue`
-        - `shed`
-    - n.
-      - [环境]排放；卸货；[劳经]解雇
-        - `firing`
-        - `dismissal`
+    - vt. [劳经]解雇；卸下；放出；免除
+      - issue
+      - forgive
+    - vi. [环境]排放；卸货；[流]流出
+      - issue
+      - shed
+    - n. [环境]排放；卸货；[劳经]解雇
+      - firing
+      - dismissal
   - 短语
-    - `discharge of`
-      - v. 卸下 
-    - `discharge standard`
-      - 排放标准 
-    - `partial discharge`
-      - 局部放电；部分放电；部份履行 
-    - `electrical discharge machining`
-      - 电火花加工；[电]放电机械制作 
-    - `pollutant discharge`
-      - 污染物排放 
-    - `water discharge`
-      - 排水；排水量 
-    - `gas discharge`
-      - 气体放电 
-    - `glow discharge`
-      - 辉光放电 
-    - `discharge from`
-      - 解雇；释放 
-    - `discharge capacity`
-      - 放电容量；排流能力 
-    - `corona discharge`
-      - 电晕放电 
-    - `electric discharge`
-      - 放电 
-    - `zero discharge`
-      - 零排放；无出料；空转 
-    - `flood discharge`
-      - 泄洪；洪水流量 
-    - `pollution discharge`
-      - 排污 
-    - `electrostatic discharge`
-      - 静电放电 
-    - `arc discharge`
-      - 弧放电 
-    - `discharge process`
-      - 放电过程；放电作用；排出过程 
-    - `discharge valve`
-      - 卸料阀；排出阀 
-    - `after discharge`
-      - 后放；后续放电 
+    - discharge of v. 卸下
+    - discharge standard 排放标准
+    - partial discharge 局部放电；部分放电；部份履行
+    - electrical discharge machining 电火花加工；[电]放电机械制作
+    - pollutant discharge 污染物排放
+    - water discharge 排水；排水量
+    - gas discharge 气体放电
+    - glow discharge 辉光放电
+    - discharge from 解雇；释放
+    - discharge capacity 放电容量；排流能力
+    - corona discharge 电晕放电
+    - electric discharge 放电
+    - zero discharge 零排放；无出料；空转
+    - flood discharge 泄洪；洪水流量
+    - pollution discharge 排污
+    - electrostatic discharge 静电放电
+    - arc discharge 弧放电
+    - discharge process 放电过程；放电作用；排出过程
+    - discharge valve 卸料阀；排出阀
+    - after discharge 后放；后续放电
   - 例句
-    - `...the quiet competence with which he discharged his many duties.`
-      - …他履行他的诸多职责所用的平静的办事能力。
-
+    - ...the quiet competence with which he discharged his many duties. …他履行他的诸多职责所用的平静的办事能力。
+  - 补充

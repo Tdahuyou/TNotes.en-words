@@ -1,53 +1,35 @@
 - conform
   - 发音
-    - 英
-      - `/kən'fɔːrm/`
-    - 美
-      - `/kən'fɔrm/`
+    - 英 /kən'fɔːrm/
+    - 美 /kən'fɔrm/
   - 词义
-    - vi.
-      - 遵守，服从；符合；适应
-        - `to obey a law, rule etc`
+    - vi. 遵守，服从；符合；适应
+      - to obey a law, rule etc
   - 记忆
     - con(共同) + form(形状) → 形状相同 → 符合
   - 同根词
-    - adj.
-      - `conformable`
-        - 一致的；顺从的；适合的
-    - adv.
-      - `conformably`
-        - 顺从地；一致地
-    - n.
-      - `conformity`
-        - 一致，适合；符合；相似
-      - `conformance`
-        - 一致性；顺应
-      - `conformation`
-        - 构造；一致，符合
-      - `conformist`
-        - 英国国教徒；遵奉者
-      - `conformism`
-        - 因循守旧；盲从因袭的态度
+    - adj. conformable 一致的；顺从的；适合的
+    - adv. conformably 顺从地；一致地
+    - n. conformity 一致，适合；符合；相似
+    - n. conformance 一致性；顺应
+    - n. conformation 构造；一致，符合
+    - n. conformist 英国国教徒；遵奉者
+    - n. conformism 因循守旧；盲从因袭的态度
   - 近义词
-    - vi.
-      - 符合；遵照；适应环境
-        - `accord`
-        - `meet with`
-    - vt.
-      - 使遵守；使一致；使顺从
-        - `accord`
-        - `reconcile`
-    - adj.
-      - 一致的；顺从的
-        - `united`
-        - `consistent`
-        - `matching`
-        - `uniform`
-        - `corresponding`
+    - vi. 符合；遵照；适应环境
+      - accord
+      - meet with
+    - vt. 使遵守；使一致；使顺从
+      - accord
+      - reconcile
+    - adj. 一致的；顺从的
+      - united
+      - consistent
+      - matching
+      - uniform
+      - corresponding
   - 短语
-    - `conform with`
-      - 符合；与…一致 
+    - conform with 符合；与…一致
   - 例句
-    - `the pressure on schoolchildren to conform`
-      - 小学生要顺应社会的压力
-
+    - the pressure on schoolchildren to conform 小学生要顺应社会的压力
+  - 补充

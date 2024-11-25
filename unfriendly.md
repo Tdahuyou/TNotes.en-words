@@ -1,27 +1,19 @@
 - unfriendly
   - 发音
-    - 英
-      - `/ʌn'frendli/`
-    - 美
-      - `/ʌn'frɛndli/`
+    - 英 /ʌn'frendli/
+    - 美 /ʌn'frɛndli/
   - 词义
-    - adj.
-      - 不友好的，冷漠的
-        - `not kind or friendly`
+    - adj. 不友好的，冷漠的
+      - not kind or friendly
   - 记忆
     - un(不)+friendly(友好的)→不友好的
   - 同根词
-    - n.
-      - `unfriendliness`
-        - 不友好
+    - n. unfriendliness 不友好
   - 近义词
-    - adj.
-      - 不友好的；不利的
-        - `adverse`
-        - `against`
+    - adj. 不友好的；不利的
+      - adverse
+      - against
   - 例句
-    - `The old man looked cross and unfriendly.`
-      - 老人看上去生气了，很不友好。
-    - `a lonely unfriendly place`
-      - 偏僻冷漠的地方
-
+    - The old man looked cross and unfriendly. 老人看上去生气了，很不友好。
+    - a lonely unfriendly place 偏僻冷漠的地方
+  - 补充

@@ -1,27 +1,17 @@
 - grandiose
   - 发音
-    - 英
-      - `/'grændɪəʊs/`
-    - 美
-      - `/'ɡrændɪos/`
+    - 英 /'grændɪəʊs/
+    - 美 /'ɡrændɪos/
   - 词义
-    - adj.
-      - 宏伟的,堂皇的
+    - adj. 宏伟的,堂皇的
   - 同根词
-    - adv.
-      - `grandly`
-        - 盛大地；宏伟地；堂皇地
-    - n.
-      - `grandiosity`
-        - 宏伟；夸张
-      - `grandness`
-        - 壮大；伟大；宏伟
+    - adv. grandly 盛大地；宏伟地；堂皇地
+    - n. grandiosity 宏伟；夸张
+    - n. grandness 壮大；伟大；宏伟
   - 近义词
-    - adj.
-      - 宏伟的；堂皇的；浮夸的；宏大的
-        - `magnificent`
-        - `noble`
+    - adj. 宏伟的；堂皇的；浮夸的；宏大的
+      - magnificent
+      - noble
   - 例句
-    - `These proposals have nothing to do with grandiose schemes for reinventing market capitalism.`
-      - 这些提议与改造市场资本主义的宏伟计划毫不相干。
-
+    - These proposals have nothing to do with grandiose schemes for reinventing market capitalism. 这些提议与改造市场资本主义的宏伟计划毫不相干。
+  - 补充

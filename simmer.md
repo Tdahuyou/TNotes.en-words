@@ -1,33 +1,24 @@
 - simmer
   - 发音
-    - 英
-      - `/'sɪmər/`
-    - 美
-      - `/'sɪmɚ/`
+    - 英 /'sɪmər/
+    - 美 /'sɪmɚ/
   - 词义
-    - vi.
-      - 充满；煨，炖
-        - `to boil gently, or to cook something slowly by boiling it gently`
-    - n.
-      - 煨，炖
-        - `when something is boiling gently`
+    - vi. 充满；煨，炖
+      - to boil gently, or to cook something slowly by boiling it gently
+    - n. 煨，炖
+      - when something is boiling gently
   - 记忆
     - 在夏天(summer)， 人比较容易充满难以控制的怒火(simmer)
   - 近义词
-    - vi.
-      - 炖；内心充满；即将爆发
-        - `stew`
-    - vt.
-      - 炖
-        - `pot-roast`
-        - `stew`
-    - n.
-      - 炖；即将沸腾的状态；即将发作
-        - `braising`
+    - vi. 炖；内心充满；即将爆发
+      - stew
+    - vt. 炖
+      - pot-roast
+      - stew
+    - n. 炖；即将沸腾的状态；即将发作
+      - braising
   - 短语
-    - `simmer down`
-      - 被煮浓；冷静下来；被总括起来 
+    - simmer down 被煮浓；冷静下来；被总括起来
   - 例句
-    - `Bring the soup to the boil and allow it to simmer gently for about half an hour.`
-      - 把汤煮开，然后用文火炖半小时左右。
-
+    - Bring the soup to the boil and allow it to simmer gently for about half an hour. 把汤煮开，然后用文火炖半小时左右。
+  - 补充

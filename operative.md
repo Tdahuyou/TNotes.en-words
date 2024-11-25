@@ -1,53 +1,32 @@
 - operative
   - 发音
-    - 英
-      - `/'ɒp(ə)rətɪv/`
-    - 美
-      - `/'ɑpərətɪv/`
+    - 英 /'ɒp(ə)rətɪv/
+    - 美 /'ɑpərətɪv/
   - 词义
-    - adj.
-      - 有效的；运转着的；从事生产劳动的
-    - n.
-      - 侦探；技工
-        - `a worker, especially a factory worker – used in business`
+    - adj. 有效的；运转着的；从事生产劳动的
+    - n. 侦探；技工
+      - a worker, especially a factory worker – used in business
   - 同根词
-    - adj.
-      - `operating`
-        - 操作的；[外科] 外科手术的
-      - `operational`
-        - 操作的；运作的
-      - `operant`
-        - 操作的；有效的
-    - n.
-      - `operation`
-        - 操作；经营；[外科] 手术；[数][计] 运算
-      - `operant`
-        - 自发反应；操作性制约；发生作用之人或物
-    - v.
-      - `operating`
-        - 操作（operate的ing形式）；动手术
-    - vi.
-      - `operate`
-        - 运转；动手术；起作用
-    - vt.
-      - `operate`
-        - 操作；经营；引起；对…开刀
+    - adj. operating 操作的；[外科] 外科手术的
+    - adj. operational 操作的；运作的
+    - adj. operant 操作的；有效的
+    - n. operation 操作；经营；[外科] 手术；[数][计] 运算
+    - n. operant 自发反应；操作性制约；发生作用之人或物
+    - v. operating 操作（operate的ing形式）；动手术
+    - vi. operate 运转；动手术；起作用
+    - vt. operate 操作；经营；引起；对…开刀
   - 近义词
-    - adj.
-      - 有效的；运转着的；从事生产劳动的
-        - `valid`
-        - `available`
-        - `effective`
-        - `virtual`
-        - `telling`
-    - n.
-      - 侦探；技工
-        - `hawkshaw`
-        - `intelligencer`
+    - adj. 有效的；运转着的；从事生产劳动的
+      - valid
+      - available
+      - effective
+      - virtual
+      - telling
+    - n. 侦探；技工
+      - hawkshaw
+      - intelligencer
   - 短语
-    - `operative treatment`
-      - 手术治疗 
+    - operative treatment 手术治疗
   - 例句
-    - `Only one runway is operative.`
-      - 只有一条跑道可以使用。
-
+    - Only one runway is operative. 只有一条跑道可以使用。
+  - 补充

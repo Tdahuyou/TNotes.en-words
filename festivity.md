@@ -1,30 +1,19 @@
 - festivity
   - 发音
-    - 英
-      - `/fe'stɪvɪtɪ/`
-    - 美
-      - `/fɛ'stɪvəti/`
+    - 英 /fe'stɪvɪtɪ/
+    - 美 /fɛ'stɪvəti/
   - 词义
-    - n.
-      - 欢庆，欢宴；庆典；欢乐
-        - `things such as drinking, eating, or dancing that are done to celebrate a special occasion`
+    - n. 欢庆，欢宴；庆典；欢乐
+      - things such as drinking, eating, or dancing that are done to celebrate a special occasion
   - 同根词
-    - adj.
-      - `festival`
-        - 节日的，喜庆的；快乐的
-      - `festive`
-        - 节日的；喜庆的；欢乐的
-      - `festal`
-        - 节日的；喜庆的，欢乐的
-    - n.
-      - `festival`
-        - 节日；庆祝，纪念活动；欢乐
+    - adj. festival 节日的，喜庆的；快乐的
+    - adj. festive 节日的；喜庆的；欢乐的
+    - adj. festal 节日的；喜庆的，欢乐的
+    - n. festival 节日；庆祝，纪念活动；欢乐
   - 近义词
-    - n.
-      - 欢庆，欢宴；庆典；欢乐
-        - `joy`
-        - `celebration`
+    - n. 欢庆，欢宴；庆典；欢乐
+      - joy
+      - celebration
   - 例句
-    - `The festivities started with a procession through the town.`
-      - 庆祝活动以全城巡游开场。
-
+    - The festivities started with a procession through the town. 庆祝活动以全城巡游开场。
+  - 补充

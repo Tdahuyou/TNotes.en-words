@@ -1,29 +1,18 @@
 - bemuse
   - 发音
-    - 英
-      - `/bi'mju:z/`
-    - 美
-      - `/bɪ'mjuz/`
+    - 英 /bi'mju:z/
+    - 美 /bɪ'mjuz/
   - 词义
-    - v.
-      - 使困惑，使不知所措
-        - `If something bemuses you, it puzzles or confuses you`
+    - v. 使困惑，使不知所措
+      - If something bemuses you, it puzzles or confuses you
   - 同根词
-    - adj.
-      - `bemused`
-        - 困惑的；发呆的
-    - n.
-      - `bemusement`
-        - 困惑
-    - v.
-      - `bemused`
-        - 使发呆（bemuse的过去式和过去分词）
+    - adj. bemused 困惑的；发呆的
+    - n. bemusement 困惑
+    - v. bemused 使发呆（bemuse的过去式和过去分词）
   - 近义词
-    - vt.
-      - 使发呆；使茫然；使困惑
-        - `confuse`
-        - `bedaze`
+    - vt. 使发呆；使茫然；使困惑
+      - confuse
+      - bedaze
   - 例句
-    - `The sheer quantity of detail would bemuse even the most clear-headed author.`
-      - 大量的细节会让即使是头脑最清醒的作者都感到困惑。
-
+    - The sheer quantity of detail would bemuse even the most clear-headed author. 大量的细节会让即使是头脑最清醒的作者都感到困惑。
+  - 补充

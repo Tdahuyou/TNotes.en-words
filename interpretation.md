@@ -1,57 +1,33 @@
 - interpretation
   - 发音
-    - 英
-      - `/ɪntɜːprɪ'teɪʃ(ə)n/`
-    - 美
-      - `/ɪn'tɝprɪ'teʃən/`
+    - 英 /ɪntɜːprɪ'teɪʃ(ə)n/
+    - 美 /ɪn'tɝprɪ'teʃən/
   - 词义
-    - n.
-      - 解释,阐明
-        - `the way in which someone explains or understands an event, information, someone’s actions etc`
+    - n. 解释,阐明
+      - the way in which someone explains or understands an event, information, someone’s actions etc
   - 同根词
-    - adj.
-      - `interpretive`
-        - 解释的；作为说明的
-      - `interpretative`
-        - 解释的；作为说明的
-      - `interpretable`
-        - 可说明的；可判断的；可翻译的
-    - n.
-      - `interpreter`
-        - 解释者；口译者；注释器
-    - vi.
-      - `interpret`
-        - 解释；翻译
-    - vt.
-      - `interpret`
-        - 说明；口译
+    - adj. interpretive 解释的；作为说明的
+    - adj. interpretative 解释的；作为说明的
+    - adj. interpretable 可说明的；可判断的；可翻译的
+    - n. interpreter 解释者；口译者；注释器
+    - vi. interpret 解释；翻译
+    - vt. interpret 说明；口译
   - 近义词
-    - n.
-      - [计]解释；[语]翻译；演出
-        - `explanation`
-        - `translation`
-        - `construction`
-        - `account`
+    - n. [计]解释；[语]翻译；演出
+      - explanation
+      - translation
+      - construction
+      - account
   - 短语
-    - `simultaneous interpretation`
-      - 同声传译 
-    - `judicial interpretation`
-      - 司法解释 
-    - `image interpretation`
-      - 图像判读，影像判读 
-    - `geological interpretation`
-      - 地质判读；地质学解释 
-    - `oral interpretation`
-      - 口译 
-    - `visual interpretation`
-      - 目视判读；目视判释 
-    - `physical interpretation`
-      - 物理解释 
+    - simultaneous interpretation 同声传译
+    - judicial interpretation 司法解释
+    - image interpretation 图像判读，影像判读
+    - geological interpretation 地质判读；地质学解释
+    - oral interpretation 口译
+    - visual interpretation 目视判读；目视判释
+    - physical interpretation 物理解释
   - 例句
-    - `One possible interpretation is that they want you to resign.`
-      - 一种可能的解释是，他们想要你辞职。
-    - `It’s difficult to put an accurate interpretation on (= explain ) the survey results.`
-      - 对调查结果难以作出确切的解释。
-    - `What exactly the author meant by that statement is open to interpretation (= able to be understood or explained in different ways ).`
-      - 作者这句话的确切含义可有各种理解。
-
+    - One possible interpretation is that they want you to resign. 一种可能的解释是，他们想要你辞职。
+    - It’s difficult to put an accurate interpretation on (= explain ) the survey results. 对调查结果难以作出确切的解释。
+    - What exactly the author meant by that statement is open to interpretation (= able to be understood or explained in different ways ). 作者这句话的确切含义可有各种理解。
+  - 补充

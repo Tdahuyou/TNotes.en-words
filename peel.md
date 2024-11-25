@@ -1,53 +1,33 @@
 - peel
   - 发音
-    - 英
-      - `/piːl/`
-    - 美
-      - `/pil/`
+    - 英 /piːl/
+    - 美 /pil/
   - 词义
-    - v.
-      - 削皮；剥落
-        - `to remove the skin from fruit or vegetables`
+    - v. 削皮；剥落
+      - to remove the skin from fruit or vegetables
   - 记忆
     - “皮儿” → 脱皮
   - 同根词
-    - n.
-      - `peeling`
-        - [木] 剥皮，去皮；剥下的皮
-      - `peeler`
-        - 警察；[木] 剥皮机；胶合板材（等于peeler log）；脱衣舞女
-    - v.
-      - `peeling`
-        - 脱皮；剥落（peel的ing形式）
+    - n. peeling [木] 剥皮，去皮；剥下的皮
+    - n. peeler 警察；[木] 剥皮机；胶合板材（等于peeler log）；脱衣舞女
+    - v. peeling 脱皮；剥落（peel的ing形式）
   - 近义词
-    - v.
-      - 剥，剥落；削
-        - `flake off`
-        - `shell off`
-    - n.
-      - [植]皮
-        - `fur`
-        - `tegument`
+    - v. 剥，剥落；削
+      - flake off
+      - shell off
+    - n. [植]皮
+      - fur
+      - tegument
   - 短语
-    - `orange peel`
-      - 橙皮；橘皮皱 
-    - `peel off`
-      - v. 剥去；脱掉 
-    - `peel strength`
-      - 剥离强度 
-    - `tangerine peel`
-      - 陈皮；桔皮 
-    - `lemon peel`
-      - 柠檬皮 
-    - `fruit peel`
-      - 果皮 
-    - `peel back`
-      - 剥落卷页 
-    - `peel out`
-      - 迅速离开；汽车突然加速 
+    - orange peel 橙皮；橘皮皱
+    - peel off v. 剥去；脱掉
+    - peel strength 剥离强度
+    - tangerine peel 陈皮；桔皮
+    - lemon peel 柠檬皮
+    - fruit peel 果皮
+    - peel back 剥落卷页
+    - peel out 迅速离开；汽车突然加速
   - 例句
-    - `Peel and dice the potatoes.`
-      - 把马铃薯去皮并切成丁。
-    - `New skin grows, and the damaged skin peels off.`
-      - 新皮肤长出，受损的皮肤脱落。
-
+    - Peel and dice the potatoes. 把马铃薯去皮并切成丁。
+    - New skin grows, and the damaged skin peels off. 新皮肤长出，受损的皮肤脱落。
+  - 补充

@@ -1,9 +1,7 @@
 - ambagious
   - 发音
-    - 英
-      - `/undefined/`
-    - 美
-      - `/undefined/`
+    - 英 /undefined/
+    - 美 /undefined/
   - 词义
-    - adj.
-      - 迂远的,迂曲的
+    - adj. 迂远的,迂曲的
+  - 补充

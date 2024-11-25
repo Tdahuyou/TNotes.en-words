@@ -1,35 +1,23 @@
 - greeting
   - 发音
-    - 英
-      - `/'griːtɪŋ/`
-    - 美
-      - `/'ɡritɪŋ/`
+    - 英 /'griːtɪŋ/
+    - 美 /'ɡritɪŋ/
   - 词义
-    - n.
-      - 问候，招呼；祝贺
-        - `something you say or do when you meet someone`
-    - v.
-      - 致敬，欢迎（greet的现在分词）
+    - n. 问候，招呼；祝贺
+      - something you say or do when you meet someone
+    - v. 致敬，欢迎（greet的现在分词）
   - 同根词
-    - vt.
-      - `greet`
-        - 欢迎，迎接；致敬，致意；映入眼帘
+    - vt. greet 欢迎，迎接；致敬，致意；映入眼帘
   - 近义词
-    - n.
-      - 问候，招呼；祝贺
-        - `regard`
-        - `salutation`
-    - v.
-      - 致敬，欢迎（greet的现在分词）
-        - `welcoming`
+    - n. 问候，招呼；祝贺
+      - regard
+      - salutation
+    - v. 致敬，欢迎（greet的现在分词）
+      - welcoming
   - 短语
-    - `greeting card`
-      - 贺卡 
-    - `season's greeting`
-      - 新年祝福；节日问候 
+    - greeting card 贺卡
+    - season's greeting 新年祝福；节日问候
   - 例句
-    - `I smiled a polite greeting, but the woman hardly acknowledged me.`
-      - 我客气地笑着打了个招呼，可是那女人没有答理我。
-    - `The two cousins exchanged greetings (= greeted each other ) .`
-      - 表兄妹俩互相问候。
-
+    - I smiled a polite greeting, but the woman hardly acknowledged me. 我客气地笑着打了个招呼，可是那女人没有答理我。
+    - The two cousins exchanged greetings (= greeted each other ) . 表兄妹俩互相问候。
+  - 补充

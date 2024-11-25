@@ -1,25 +1,17 @@
 - unskilled
   - 发音
-    - 英
-      - `/ʌn'skɪld/`
-    - 美
-      - `/,ʌn'skɪld/`
+    - 英 /ʌn'skɪld/
+    - 美 /,ʌn'skɪld/
   - 词义
-    - adj.
-      - 不熟练的,拙劣的
+    - adj. 不熟练的,拙劣的
   - 同根词
-    - adj.
-      - `unskillful`
-        - 不熟练的；不灵巧的，笨拙的；无技巧的
+    - adj. unskillful 不熟练的；不灵巧的，笨拙的；无技巧的
   - 近义词
-    - adj.
-      - [劳经]不熟练的；拙劣的；无需技能的
-        - `nonproficient`
-        - `unpracticed`
+    - adj. [劳经]不熟练的；拙劣的；无需技能的
+      - nonproficient
+      - unpracticed
   - 短语
-    - `unskilled labor`
-      - n. 非技术性工种；做粗活的工人；不熟练工人 
+    - unskilled labor n. 非技术性工种；做粗活的工人；不熟练工人
   - 例句
-    - `companies employing unskilled labour`
-      - 雇用非熟练工的公司
-
+    - companies employing unskilled labour 雇用非熟练工的公司
+  - 补充

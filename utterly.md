@@ -1,31 +1,22 @@
 - utterly
   - 发音
-    - 英
-      - `/'ʌtəlɪ /`
-    - 美
-      - `/'ʌtɚli/`
+    - 英 /'ʌtəlɪ /
+    - 美 /'ʌtɚli/
   - 词义
-    - adv.
-      - 完全地,绝对地
-        - `completely – used especially to emphasize that something is very bad, or that a feeling is very strong`
+    - adv. 完全地,绝对地
+      - completely – used especially to emphasize that something is very bad, or that a feeling is very strong
   - 同根词
-    - adj.
-      - `utter`
-        - 完全的；彻底的；无条件的
-    - vt.
-      - `utter`
-        - 发出，表达；发射
+    - adj. utter 完全的；彻底的；无条件的
+    - vt. utter 发出，表达；发射
   - 近义词
-    - adv.
-      - 完全地；绝对地；全然地；彻底地，十足地
-        - `totally`
-        - `entirely`
-        - `completely`
-        - `absolutely`
-        - `thoroughly`
-        - `fully`
-        - `strictly`
+    - adv. 完全地；绝对地；全然地；彻底地，十足地
+      - totally
+      - entirely
+      - completely
+      - absolutely
+      - thoroughly
+      - fully
+      - strictly
   - 例句
-    - `You look utterly miserable.`
-      - 你看起来很痛苦。
-
+    - You look utterly miserable. 你看起来很痛苦。
+  - 补充

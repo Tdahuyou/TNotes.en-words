@@ -1,27 +1,19 @@
 - suffuse
   - 发音
-    - 英
-      - `/sə'fjuːz/`
-    - 美
-      - `/sə'fjuz/`
+    - 英 /sə'fjuːz/
+    - 美 /sə'fjuz/
   - 词义
-    - v.
-      - 充满
-        - `if warmth, colour, liquid etc suffuses something or someone, it covers or spreads through them`
+    - v. 充满
+      - if warmth, colour, liquid etc suffuses something or someone, it covers or spreads through them
   - 记忆
     - suf (下) + fus (流动) + e → 满得向下流 → 充满
   - 同根词
-    - n.
-      - `suffusion`
-        - 充满；弥漫；遍布
+    - n. suffusion 充满；弥漫；遍布
   - 近义词
-    - vt.
-      - 充满；弥漫
-        - `abound with`
-        - `be imbued with`
+    - vt. 充满；弥漫
+      - abound with
+      - be imbued with
   - 例句
-    - `The light of the setting sun suffused the clouds.`
-      - 落日的霞光映红了云层。
-    - `Hot colour suffused her cheeks.`
-      - 她的脸涨得又红又烫。
-
+    - The light of the setting sun suffused the clouds. 落日的霞光映红了云层。
+    - Hot colour suffused her cheeks. 她的脸涨得又红又烫。
+  - 补充

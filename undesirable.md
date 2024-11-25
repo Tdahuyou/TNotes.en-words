@@ -1,29 +1,19 @@
 - undesirable
   - 发音
-    - 英
-      - `/ʌndɪ'zaɪərəb(ə)l/`
-    - 美
-      - `/,ʌndɪ'zaɪərəbl/`
+    - 英 /ʌndɪ'zaɪərəb(ə)l/
+    - 美 /,ʌndɪ'zaɪərəbl/
   - 词义
-    - adj.
-      - 令人不悦的，讨厌的
-        - `something or someone that is undesirable is not welcome or wanted because they may affect a situation or person in a bad way`
+    - adj. 令人不悦的，讨厌的
+      - something or someone that is undesirable is not welcome or wanted because they may affect a situation or person in a bad way
   - 同根词
-    - adv.
-      - `undesirably`
-        - 令人不快地；不受欢迎地
-    - n.
-      - `undesirability`
-        - 不合需要；不受欢迎；不良；不愉快
+    - adv. undesirably 令人不快地；不受欢迎地
+    - n. undesirability 不合需要；不受欢迎；不良；不愉快
   - 近义词
-    - adj.
-      - 不良的；不受欢迎的；不合需要的
-        - `unhealth`
-        - `cacoethic`
-    - n.
-      - 不良分子；不受欢迎的人
-        - `persona non grata`
+    - adj. 不良的；不受欢迎的；不合需要的
+      - unhealth
+      - cacoethic
+    - n. 不良分子；不受欢迎的人
+      - persona non grata
   - 例句
-    - `punishment of undesirable behaviour`
-      - 对不良行为的惩罚
-
+    - punishment of undesirable behaviour 对不良行为的惩罚
+  - 补充

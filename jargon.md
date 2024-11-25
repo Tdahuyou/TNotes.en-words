@@ -1,19 +1,14 @@
 - jargon
   - 发音
-    - 英
-      - `/'dʒɑːgən/`
-    - 美
-      - `/'dʒɑrɡən/`
+    - 英 /'dʒɑːgən/
+    - 美 /'dʒɑrɡən/
   - 词义
-    - n.
-      - 行话，术语
-        - `words and expressions used in a particular profession or by a particular group of people, which are difficult for other people to understand – often used to show disapproval`
+    - n. 行话，术语
+      - words and expressions used in a particular profession or by a particular group of people, which are difficult for other people to understand – often used to show disapproval
   - 近义词
-    - n.
-      - [语]行话，术语；黄锆石
-        - `technology`
-        - `industry lingo`
+    - n. [语]行话，术语；黄锆石
+      - technology
+      - industry lingo
   - 例句
-    - `Keep it simple and avoid the use of jargon.`
-      - 简单点，避免使用术语。
-
+    - Keep it simple and avoid the use of jargon. 简单点，避免使用术语。
+  - 补充

@@ -1,20 +1,13 @@
 - horticultural
   - 发音
-    - 英
-      - `/,hɔːtɪ'kʌltʃərəl/`
-    - 美
-      - `/,hɔrtɪ'kʌltʃərəl/`
+    - 英 /,hɔːtɪ'kʌltʃərəl/
+    - 美 /,hɔrtɪ'kʌltʃərəl/
   - 词义
-    - adj.
-      - 园艺的
-        - `Horticultural means concerned with horticulture`
+    - adj. 园艺的
+      - Horticultural means concerned with horticulture
   - 同根词
-    - n.
-      - `horticulture`
-        - 园艺，园艺学
-      - `horticulturist`
-        - 园艺家
+    - n. horticulture 园艺，园艺学
+    - n. horticulturist 园艺家
   - 例句
-    - `...the John A. Sibley Horticultural Centre.`
-      - …约翰A.西布莉园艺中心。
-
+    - ...the John A. Sibley Horticultural Centre. …约翰A.西布莉园艺中心。
+  - 补充

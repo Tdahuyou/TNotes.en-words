@@ -1,20 +1,14 @@
 - thermos
   - 发音
-    - 英
-      - `/'θɜːmɒs/`
-    - 美
-      - `/'θɝməs/`
+    - 英 / 'θɜːməs /
+    - 美 /'θɝməs/
   - 词义
-    - n.
-      - 热水瓶
+    - n. 热水瓶
   - 短语
-    - `thermos bottle`
-      - n. 热水瓶 
-    - `thermos flask`
-      - 热水瓶；保温瓶 
+    - thermos bottle n. 热水瓶
+    - thermos flask 热水瓶；保温瓶
   - 例句
-    - `I am the system. I could be a system It could be a hot coffee in a thermos.`
-      - 我就是系统，我可以是个系统,它可以是热水瓶里的热咖啡。
-    - `Choose to take a thermos or travel mug with you when you get your morning coffee instead of using a disposable cup.`
-      - 准备早餐咖啡时使用热水瓶或汽车杯取代一次性杯子。
-
+    - How about a thermos to keep the tea warm? 热水瓶怎么样？可以给茶保温。
+    - The thermos is made of glass and mercury. 热水瓶是由玻璃和水银制成。
+    - I am the system. I could be a system It could be a hot coffee in a thermos. 我就是系统，我可以是个系统，它可以是热水瓶里的热咖啡。
+  - 补充

@@ -1,9 +1,7 @@
 - cosycozy
   - 发音
-    - 英
-      - `/'kouzi/`
-    - 美
-      - `/undefined/`
+    - 英 /'kouzi/
+    - 美 /undefined/
   - 词义
-    - adj.
-      - 温暖而舒适的
+    - adj. 温暖而舒适的
+  - 补充

@@ -1,30 +1,19 @@
 - obscurity
   - 发音
-    - 英
-      - `/əb'skjuərəti/`
-    - 美
-      - `/əb'skjʊrəti/`
+    - 英 /əb'skjuərəti/
+    - 美 /əb'skjʊrəti/
   - 词义
-    - n.
-      - 阴暗，朦胧；隐匿，晦涩
+    - n. 阴暗，朦胧；隐匿，晦涩
   - 记忆
     - 来自obscure (a. 朦胧的； 晦涩的)
   - 同根词
-    - adj.
-      - `obscure`
-        - 模糊的；晦涩的；昏暗的
-    - adv.
-      - `obscurely`
-        - 费解地，晦涩地；隐匿地
-    - vt.
-      - `obscure`
-        - 遮掩；使变暗；使难理解
+    - adj. obscure 模糊的；晦涩的；昏暗的
+    - adv. obscurely 费解地，晦涩地；隐匿地
+    - vt. obscure 遮掩；使变暗；使难理解
   - 近义词
-    - n.
-      - 朦胧；阴暗；晦涩；身份低微；不分明
-        - `nebulosity`
-        - `shadowiness`
+    - n. 朦胧；阴暗；晦涩；身份低微；不分明
+      - nebulosity
+      - shadowiness
   - 例句
-    - `obscurities in the text`
-      - 文中的难解之处
-
+    - obscurities in the text 文中的难解之处
+  - 补充

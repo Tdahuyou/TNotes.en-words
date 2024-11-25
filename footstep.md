@@ -1,19 +1,14 @@
 - footstep
   - 发音
-    - 英
-      - `/'fʊtstep/`
-    - 美
-      - `/'fʊtstɛp/`
+    - 英 /'fʊtstep/
+    - 美 /'fʊtstɛp/
   - 词义
-    - n.
-      - 脚步；脚步声；足迹
-        - `the sound each step makes when someone is walking`
+    - n. 脚步；脚步声；足迹
+      - the sound each step makes when someone is walking
   - 近义词
-    - n.
-      - 脚步；脚步声；足迹
-        - `step`
-        - `track`
+    - n. 脚步；脚步声；足迹
+      - step
+      - track
   - 例句
-    - `He heard someone’s footsteps in the hall.`
-      - 他听见门厅里有脚步声。
-
+    - He heard someone’s footsteps in the hall. 他听见门厅里有脚步声。
+  - 补充

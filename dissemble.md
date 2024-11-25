@@ -1,25 +1,19 @@
 - dissemble
   - 发音
-    - 英
-      - `/di'sembl/`
-    - 美
-      - `/di'sembl/`
+    - 英 /di'sembl/
+    - 美 /di'sembl/
   - 词义
-    - v.
-      - 掩饰
-        - `to hide your true feelings, thoughts etc`
+    - v. 掩饰
+      - to hide your true feelings, thoughts etc
   - 记忆
     - dis (否定) + semble (相同) → 不和 (本来面目) 相同 → 掩饰
   - 近义词
-    - vt.
-      - 掩饰，掩盖；假装
-        - `simulate`
-        - `come`
-    - vi.
-      - 隐藏，掩饰（思想、感情等）
-        - `to hide`
-        - `mask`
+    - vt. 掩饰，掩盖；假装
+      - simulate
+      - come
+    - vi. 隐藏，掩饰（思想、感情等）
+      - to hide
+      - mask
   - 例句
-    - `Henry was not slow to dissemble when it served his purposes.`
-      - 形势一对他有利，亨利就马上开始隐瞒。
-
+    - Henry was not slow to dissemble when it served his purposes. 形势一对他有利，亨利就马上开始隐瞒。
+  - 补充

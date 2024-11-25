@@ -1,44 +1,26 @@
 - practically
   - 发音
-    - 英
-      - `/'præktɪk(ə)lɪ/`
-    - 美
-      - `/'præktɪkli/`
+    - 英 /'præktɪk(ə)lɪ/
+    - 美 /'præktɪkli/
   - 词义
-    - adv.
-      - 实际上,几乎，简直
-        - `Practically means almost, but not completely or exactly`
+    - adv. 实际上,几乎，简直
+      - Practically means almost, but not completely or exactly
   - 同根词
-    - adj.
-      - `practical`
-        - 实际的；实用性的
-      - `practicable`
-        - 可用的；行得通的；可实行的
-    - adv.
-      - `practicably`
-        - 实用地；能用地
-    - n.
-      - `practice`
-        - 实践；练习；惯例
-      - `practicality`
-        - 实用性，实际性；实际，实例
-      - `practicability`
-        - 实用性，可行性
-    - vi.
-      - `practice`
-        - 练习；实习；实行
-    - vt.
-      - `practice`
-        - 练习；实习；实行
+    - adj. practical 实际的；实用性的
+    - adj. practicable 可用的；行得通的；可实行的
+    - adv. practicably 实用地；能用地
+    - n. practice 实践；练习；惯例
+    - n. practicality 实用性，实际性；实际，实例
+    - n. practicability 实用性，可行性
+    - vi. practice 练习；实习；实行
+    - vt. practice 练习；实习；实行
   - 近义词
-    - adv.
-      - 实际地；几乎；事实上
-        - `almost`
-        - `nearly`
-        - `actually`
-        - `really`
-        - `most`
+    - adv. 实际地；几乎；事实上
+      - almost
+      - nearly
+      - actually
+      - really
+      - most
   - 例句
-    - `He'd known the old man practically all his life.`
-      - 他几乎从小就认识那位老人。
-
+    - He'd known the old man practically all his life. 他几乎从小就认识那位老人。
+  - 补充

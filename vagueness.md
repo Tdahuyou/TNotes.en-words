@@ -1,21 +1,14 @@
 - vagueness
   - 发音
-    - 英
-      - `/veɪɡnəs/`
-    - 美
-      - `/veɪɡnəs/`
+    - 英 /veɪɡnəs/
+    - 美 /veɪɡnəs/
   - 词义
-    - n.
-      - 暧昧,含糊
+    - n. 暧昧,含糊
   - 同根词
-    - adj.
-      - `vague`
-        - 模糊的；含糊的；不明确的；暧昧的
-    - adv.
-      - `vaguely`
-        - 含糊地；暧昧地；茫然地
+    - adj. vague 模糊的；含糊的；不明确的；暧昧的
+    - adv. vaguely 含糊地；暧昧地；茫然地
   - 近义词
-    - n.
-      - 模糊；含糊；暧昧；茫然
-        - `darkness`
-        - `ambiguity`
+    - n. 模糊；含糊；暧昧；茫然
+      - darkness
+      - ambiguity
+  - 补充

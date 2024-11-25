@@ -1,25 +1,17 @@
 - indigestible
   - 发音
-    - 英
-      - `/ɪndɪ'dʒestɪb(ə)l; -daɪ-/`
-    - 美
-      - `/,ɪndɪ'dʒɛstəbl/`
+    - 英 /ɪndɪ'dʒestɪb(ə)l; -daɪ-/
+    - 美 /,ɪndɪ'dʒɛstəbl/
   - 词义
-    - adj.
-      - 不吸收的,难理解的
-        - `food that is indigestible cannot easily be broken down in the stomach into substances that the body can use`
+    - adj. 不吸收的,难理解的
+      - food that is indigestible cannot easily be broken down in the stomach into substances that the body can use
   - 同根词
-    - n.
-      - `indigestion`
-        - 消化不良；不消化
-      - `indigestibility`
-        - 难理解，难消化
+    - n. indigestion 消化不良；不消化
+    - n. indigestibility 难理解，难消化
   - 近义词
-    - adj.
-      - 难消化的；难理解的
-        - `impalpable`
-        - `unfathomed`
+    - adj. 难消化的；难理解的
+      - impalpable
+      - unfathomed
   - 例句
-    - `indigestible statistics`
-      - 看不懂的统计数字
-
+    - indigestible statistics 看不懂的统计数字
+  - 补充

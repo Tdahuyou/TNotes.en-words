@@ -1,30 +1,20 @@
 - palliate
   - 发音
-    - 英
-      - `/'pælieit/`
-    - 美
-      - `/'pælɪet/`
+    - 英 /'pælieit/
+    - 美 /'pælɪet/
   - 词义
-    - v.
-      - 减轻
-        - `to reduce the effects of illness, pain etc without curing them`
+    - v. 减轻
+      - to reduce the effects of illness, pain etc without curing them
   - 记忆
     - pall (罩子) + iate → 戴上氧气罩， 减轻呼吸困难 → 减轻
   - 同根词
-    - adj.
-      - `palliative`
-        - 缓和的；掩饰的；可斟酌的
-    - n.
-      - `palliative`
-        - 辩解；缓和剂；暂时姑息的手段
-      - `palliation`
-        - （痛苦的）减轻；缓和；辩解
+    - adj. palliative 缓和的；掩饰的；可斟酌的
+    - n. palliative 辩解；缓和剂；暂时姑息的手段
+    - n. palliation （痛苦的）减轻；缓和；辩解
   - 近义词
-    - vt.
-      - 减轻；掩饰；辩解
-        - `moderate`
-        - `allay`
+    - vt. 减轻；掩饰；辩解
+      - moderate
+      - allay
   - 例句
-    - `Chosen carefully, the oils may not only palliate but also cure the condition.`
-      - 如果仔细挑选，挑到的精油不仅可以缓和症状，还可以治愈疾病。
-
+    - Chosen carefully, the oils may not only palliate but also cure the condition. 如果仔细挑选，挑到的精油不仅可以缓和症状，还可以治愈疾病。
+  - 补充

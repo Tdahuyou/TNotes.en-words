@@ -1,33 +1,21 @@
 - ambition
   - 发音
-    - 英
-      - `/æm'bɪʃ(ə)n/`
-    - 美
-      - `/æm'bɪʃən/`
+    - 英 /æm'bɪʃ(ə)n/
+    - 美 /æm'bɪʃən/
   - 词义
-    - n.
-      - 野心,雄心
-        - `determination to be successful, rich, powerful etc`
+    - n. 野心,雄心
+      - determination to be successful, rich, powerful etc
   - 同根词
-    - adj.
-      - `ambitious`
-        - 野心勃勃的；有雄心的；热望的；炫耀的
-    - adv.
-      - `ambitiously`
-        - 雄心勃勃地；劲头十足地；热切地
-    - n.
-      - `ambitiousness`
-        - 不凡的抱负
+    - adj. ambitious 野心勃勃的；有雄心的；热望的；炫耀的
+    - adv. ambitiously 雄心勃勃地；劲头十足地；热切地
+    - n. ambitiousness 不凡的抱负
   - 近义词
-    - n.
-      - 野心，雄心；抱负，志向
-        - `careerism`
-        - `aspiration`
-    - vt.
-      - 追求；有…野心
-        - `pursue / pursuit`
-        - `go after`
+    - n. 野心，雄心；抱负，志向
+      - careerism
+      - aspiration
+    - vt. 追求；有…野心
+      - pursue / pursuit
+      - go after
   - 例句
-    - `He was young and full of ambition.`
-      - 他年轻，而且雄心勃勃。
-
+    - He was young and full of ambition. 他年轻，而且雄心勃勃。
+  - 补充

@@ -1,28 +1,19 @@
 - extricate
   - 发音
-    - 英
-      - `/'ekstrikeit/`
-    - 美
-      - `/'ɛkstrɪket/`
+    - 英 /'ekstrikeit/
+    - 美 /'ɛkstrɪket/
   - 词义
-    - v.
-      - 救出；使脱离
-        - `to escape from a difficult or embarrassing situation, or to help someone escape`
+    - v. 救出；使脱离
+      - to escape from a difficult or embarrassing situation, or to help someone escape
   - 记忆
     - ex (出) + tric (复杂， 迷惑) + ate (使) → 走出困惑， 脱离苦海 → 使脱离
   - 同根词
-    - adj.
-      - `extricable`
-        - 可解救的；可救出的
-    - n.
-      - `extrication`
-        - 解脱；救出；游离
+    - adj. extricable 可解救的；可救出的
+    - n. extrication 解脱；救出；游离
   - 近义词
-    - vt.
-      - 使解脱；解救；使游离
-        - `save`
-        - `ease of`
+    - vt. 使解脱；解救；使游离
+      - save
+      - ease of
   - 例句
-    - `It represents a last-ditch attempt by the country to extricate itself from its economic crisis.`
-      - 这是该国摆脱经济危机的最后一搏。
-
+    - It represents a last-ditch attempt by the country to extricate itself from its economic crisis. 这是该国摆脱经济危机的最后一搏。
+  - 补充

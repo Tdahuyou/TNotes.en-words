@@ -1,31 +1,22 @@
 - scathing
   - 发音
-    - 英
-      - `/'skeɪðɪŋ/`
-    - 美
-      - `/'skeðɪŋ/`
+    - 英 /'skeɪðɪŋ/
+    - 美 /'skeðɪŋ/
   - 词义
-    - adj.
-      - 严厉的；损伤的
-        - `a scathing remark criticizes someone or something very severely`
-    - v.
-      - 损伤；伤害（scathe的ing形式）
+    - adj. 严厉的；损伤的
+      - a scathing remark criticizes someone or something very severely
+    - v. 损伤；伤害（scathe的ing形式）
   - 同根词
-    - adv.
-      - `scathingly`
-        - 尖刻地；严厉地；伤害地
+    - adv. scathingly 尖刻地；严厉地；伤害地
   - 近义词
-    - adj.
-      - 严厉的；损伤的
-        - `severe`
-        - `tight`
-        - `hard`
-        - `harsh`
-        - `rigorous`
-    - v.
-      - 损伤；伤害（scathe的ing形式）
-        - `hurting`
+    - adj. 严厉的；损伤的
+      - severe
+      - tight
+      - hard
+      - harsh
+      - rigorous
+    - v. 损伤；伤害（scathe的ing形式）
+      - hurting
   - 例句
-    - `Republican senators were scathing in their criticism of today's hearing.`
-      - 共和党参议员们对今天听证会的批评很尖锐。
-
+    - Republican senators were scathing in their criticism of today's hearing. 共和党参议员们对今天听证会的批评很尖锐。
+  - 补充

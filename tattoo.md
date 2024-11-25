@@ -1,17 +1,12 @@
 - tattoo
   - 发音
-    - 英
-      - `/tæ'tuː/`
-    - 美
-      - `/tæ'tu/`
+    - 英 /tæ'tuː/
+    - 美 /tæ'tu/
   - 词义
-    - n.
-      - 文身
-        - `a picture or writing that is permanently marked on your skin using a needle and ink`
-    - v.
-      - 刺花纹于
-        - `to mark a permanent picture or writing on someone’s skin with a needle and ink`
+    - n. 文身
+      - a picture or writing that is permanently marked on your skin using a needle and ink
+    - v. 刺花纹于
+      - to mark a permanent picture or writing on someone’s skin with a needle and ink
   - 例句
-    - `He has a tattoo of a snake on his left arm.`
-      - 他的左臂上刺了一条蛇。
-
+    - He has a tattoo of a snake on his left arm. 他的左臂上刺了一条蛇。
+  - 补充

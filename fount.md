@@ -1,19 +1,14 @@
 - fount
   - 发音
-    - 英
-      - `/faʊnt/`
-    - 美
-      - `/faʊnt/`
+    - 英 /faʊnt/
+    - 美 /faʊnt/
   - 词义
-    - n.
-      - 泉；源泉；墨水缸
-        - `the place, person, idea etc that all knowledge,  wisdom  etc comes from`
+    - n. 泉；源泉；墨水缸
+      - the place, person, idea etc that all knowledge,  wisdom  etc comes from
   - 近义词
-    - n.
-      - 泉；源泉；墨水缸
-        - `principle`
-        - `well`
+    - n. 泉；源泉；墨水缸
+      - principle
+      - well
   - 例句
-    - `To the young boy his father was the fount of all knowledge.`
-      - 旧书本
-
+    - To the young boy his father was the fount of all knowledge. 旧书本
+  - 补充

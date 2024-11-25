@@ -1,31 +1,19 @@
 - gluttonous
   - 发音
-    - 英
-      - `/'glʌtnəs/`
-    - 美
-      - `/'glʌtnəs/`
+    - 英 /'glʌtnəs/
+    - 美 /'glʌtnəs/
   - 词义
-    - adj.
-      - 暴食的，饕餮的，贪吃的
-        - `If you think that someone eats too much or is greedy, you can say they are gluttonous`
+    - adj. 暴食的，饕餮的，贪吃的
+      - If you think that someone eats too much or is greedy, you can say they are gluttonous
   - 同根词
-    - n.
-      - `gluttony`
-        - 暴食，暴饮暴食；贪食，贪吃
-      - `glutton`
-        - 酷爱…的人；贪吃的人
-    - vi.
-      - `gluttonize`
-        - 狼吞虎咽
-    - vt.
-      - `gluttonize`
-        - 暴食；贪心地吃
+    - n. gluttony 暴食，暴饮暴食；贪食，贪吃
+    - n. glutton 酷爱…的人；贪吃的人
+    - vi. gluttonize 狼吞虎咽
+    - vt. gluttonize 暴食；贪心地吃
   - 近义词
-    - adj.
-      - 贪吃的，暴食的；饕餮的
-        - `greedy`
-        - `edacious`
+    - adj. 贪吃的，暴食的；饕餮的
+      - greedy
+      - edacious
   - 例句
-    - `...a selfish, gluttonous and lazy person.`
-      - ...一个自私、贪食而又懒惰的家伙。
-
+    - ...a selfish, gluttonous and lazy person. ...一个自私、贪食而又懒惰的家伙。
+  - 补充

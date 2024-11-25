@@ -1,37 +1,24 @@
 - literate
   - 发音
-    - 英
-      - `/'lɪt(ə)rət/`
-    - 美
-      - `/'lɪtərət/`
+    - 英 /'lɪt(ə)rət/
+    - 美 /'lɪtərət/
   - 词义
-    - adj.
-      - 有读写能力的；有文化修养的
-        - `able to read and write`
+    - adj. 有读写能力的；有文化修养的
+      - able to read and write
   - 同根词
-    - adj.
-      - `literary`
-        - 文学的；书面的；精通文学的
-    - n.
-      - `literature`
-        - 文学；文献；文艺；著作
-      - `literacy`
-        - 读写能力；精通文学
-      - `literation`
-        - 缩略字；用字母代表声音或词
+    - adj. literary 文学的；书面的；精通文学的
+    - n. literature 文学；文献；文艺；著作
+    - n. literacy 读写能力；精通文学
+    - n. literation 缩略字；用字母代表声音或词
   - 近义词
-    - adj.
-      - 受过教育的；精通文学的
-        - `educated`
-    - n.
-      - 学者
-        - `student`
-        - `scholar`
-        - `academic`
+    - adj. 受过教育的；精通文学的
+      - educated
+    - n. 学者
+      - student
+      - scholar
+      - academic
   - 短语
-    - `computer literate`
-      - 懂电脑 
+    - computer literate 懂电脑
   - 例句
-    - `Over one-quarter of the adult population are not fully literate.`
-      - 四分之一以上的成年人是半文盲。
-
+    - Over one-quarter of the adult population are not fully literate. 四分之一以上的成年人是半文盲。
+  - 补充

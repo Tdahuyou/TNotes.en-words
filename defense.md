@@ -1,89 +1,46 @@
 - defense
   - 发音
-    - 英
-      - `/dɪ'fens/`
-    - 美
-      - `/dɪ'fɛns/`
+    - 英 /dɪ'fens/
+    - 美 /dɪ'fɛns/
   - 词义
-    - n.
-      - 防御，防卫
+    - n. 防御，防卫
   - 记忆
     - 来自defend(v. 防御， 防护)
   - 同根词
-    - adj.
-      - `defensive`
-        - 自卫的；防御用的
-      - `defending`
-        - 卫冕的；防御中的；防守型的
-      - `defensible`
-        - 可防御的；可辩护的；可拥护的
-      - `defenseless`
-        - 无防备的
-      - `defenceless`
-        - （英）无防御的；无保护的
-      - `defendable`
-        - 可防御的
-    - adv.
-      - `defensively`
-        - 防御地；守势地
-    - n.
-      - `defence`
-        - 防御；防卫；答辩；防卫设备
-      - `defensive`
-        - 防御；守势
-      - `defender`
-        - 防卫者，守卫者；辩护者；拥护者；卫冕者
-      - `defensiveness`
-        - 防御；防御性
-      - `defenselessness`
-        - 无防御
-      - `defensibility`
-        - 防卫的可能性；可防御性
-    - v.
-      - `defending`
-        - 防护；防卫（defend的ing形式）
-    - vi.
-      - `defend`
-        - 保卫；防守
-    - vt.
-      - `defend`
-        - 辩护；防护
+    - adj. defensive 自卫的；防御用的
+    - adj. defending 卫冕的；防御中的；防守型的
+    - adj. defensible 可防御的；可辩护的；可拥护的
+    - adj. defenseless 无防备的
+    - adj. defenceless （英）无防御的；无保护的
+    - adj. defendable 可防御的
+    - adv. defensively 防御地；守势地
+    - n. defence 防御；防卫；答辩；防卫设备
+    - n. defensive 防御；守势
+    - n. defender 防卫者，守卫者；辩护者；拥护者；卫冕者
+    - n. defensiveness 防御；防御性
+    - n. defenselessness 无防御
+    - n. defensibility 防卫的可能性；可防御性
+    - v. defending 防护；防卫（defend的ing形式）
+    - vi. defend 保卫；防守
+    - vt. defend 辩护；防护
   - 短语
-    - `national defense`
-      - 国防 
-    - `air defense`
-      - n. 防空 
-    - `defense system`
-      - 防御体系 
-    - `defense against`
-      - 防御；保卫 
-    - `defense secretary`
-      - 国防部长 
-    - `department of defense`
-      - 国防部 
-    - `defense minister`
-      - 国防部长 
-    - `defense department`
-      - 国防部 
-    - `defense mechanism`
-      - [心理]防卫机制；防御机理 
-    - `in defense of`
-      - 为…辩护；为保证… 
-    - `defense budget`
-      - 国防预算 
-    - `civil defense`
-      - 民防，民防组织 
-    - `oral defense`
-      - 论文答辩；口头答辩 
-    - `(thesis) oral defense`
-      - 论文答辩 
-    - `offense and defense`
-      - 攻与守 
-    - `zone defense`
-      - 区域防守 
-    - `thesis defense`
-      - 论文答辩 
+    - national defense 国防
+    - air defense n. 防空
+    - defense system 防御体系
+    - defense against 防御；保卫
+    - defense secretary 国防部长
+    - department of defense 国防部
+    - defense minister 国防部长
+    - defense department 国防部
+    - defense mechanism [心理]防卫机制；防御机理
+    - in defense of 为…辩护；为保证…
+    - defense budget 国防预算
+    - civil defense 民防，民防组织
+    - oral defense 论文答辩；口头答辩
+    - (thesis) oral defense 论文答辩
+    - offense and defense 攻与守
+    - zone defense 区域防守
+    - thesis defense 论文答辩
   - 例句
-    - `Of course, we'll consult closely with our allies every step of the way, because the security and defense of our allies, both in Europe and Asia, is not negotiable.`
-      - 当然，我们将在前行道路上就每一步骤与我们的盟国密切磋商，因为我们欧洲和亚洲盟国的安全与防卫是不容讨价还价的。
-
+    - Of course, we'll consult closely with our allies every step of the way, because the security and defense of our allies, both in Europe and Asia, is not negotiable. 当然，我们将在前行道路上就每一步骤与我们的盟国密切磋商，因为我们欧洲和亚洲盟国的安全与防卫是不容讨价还价的。
+  - 补充

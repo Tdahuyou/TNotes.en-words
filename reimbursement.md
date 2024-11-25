@@ -1,32 +1,21 @@
 - reimbursement
   - 发音
-    - 英
-      - `/,ri:ɪm'bɜ:smənt/`
-    - 美
-      - `/,riɪm'bɝsmənt/`
+    - 英 /,ri:ɪm'bɜ:smənt/
+    - 美 /,riɪm'bɝsmənt/
   - 词义
-    - n.
-      - 付还,退还
+    - n. 付还,退还
   - 同根词
-    - vt.
-      - `reimburse`
-        - 偿还；赔偿
+    - vt. reimburse 偿还；赔偿
   - 近义词
-    - n.
-      - 退还，偿还；赔偿
-        - `satisfaction`
-        - `payment`
-        - `repayment`
+    - n. 退还，偿还；赔偿
+      - satisfaction
+      - payment
+      - repayment
   - 短语
-    - `tax reimbursement`
-      - 退税 
-    - `apply for reimbursement`
-      - 报销 
-    - `claim reimbursement`
-      - 索赔，要求付款 
-    - `tax reimbursement for export`
-      - 出口退税 
+    - tax reimbursement 退税
+    - apply for reimbursement 报销
+    - claim reimbursement 索赔，要求付款
+    - tax reimbursement for export 出口退税
   - 例句
-    - `She is demanding reimbursement for medical and other expenses.`
-      - 她在要求医疗和其他费用的报销。
-
+    - She is demanding reimbursement for medical and other expenses. 她在要求医疗和其他费用的报销。
+  - 补充

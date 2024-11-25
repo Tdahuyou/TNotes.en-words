@@ -1,27 +1,19 @@
 - malodorous
   - 发音
-    - 英
-      - `/mæl'əudərəs/`
-    - 美
-      - `/,mæl'odərəs/`
+    - 英 /mæl'əudərəs/
+    - 美 /,mæl'odərəs/
   - 词义
-    - adj.
-      - 有恶臭的
-        - `smelling unpleasant`
+    - adj. 有恶臭的
+      - smelling unpleasant
   - 记忆
     - 来自malodor (恶臭) + ous → 有恶臭的
   - 同根词
-    - n.
-      - `malodor`
-        - 恶臭；臭气
-      - `malodour`
-        - 恶臭
+    - n. malodor 恶臭；臭气
+    - n. malodour 恶臭
   - 近义词
-    - adj.
-      - 有恶臭的；令人极为反感的；不合法的
-        - `foetid`
-        - `cacodorous`
+    - adj. 有恶臭的；令人极为反感的；不合法的
+      - foetid
+      - cacodorous
   - 例句
-    - `...tons of malodorous rubbish bags.`
-      - …散发恶臭的数吨垃圾袋。
-
+    - ...tons of malodorous rubbish bags. …散发恶臭的数吨垃圾袋。
+  - 补充

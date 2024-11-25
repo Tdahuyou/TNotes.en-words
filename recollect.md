@@ -1,25 +1,18 @@
 - recollect
   - 发音
-    - 英
-      - `/ˌrekə'lekt/`
-    - 美
-      - `/'rɛkə'lɛkt/`
+    - 英 /ˌrekə'lekt/
+    - 美 /'rɛkə'lɛkt/
   - 词义
-    - v.
-      - 回忆，想起，记起
-        - `to be able to remember something`
+    - v. 回忆，想起，记起
+      - to be able to remember something
   - 记忆
     - 和recall (v. 回想) 一起记
   - 同根词
-    - n.
-      - `recollection`
-        - 回忆；回忆起的事物
+    - n. recollection 回忆；回忆起的事物
   - 近义词
-    - v.
-      - 回忆，想起
-        - `think of`
-        - `live over`
+    - v. 回忆，想起
+      - think of
+      - live over
   - 例句
-    - `All I recollect is a grey sky.`
-      - 我只记得一片灰色的天空。
-
+    - All I recollect is a grey sky. 我只记得一片灰色的天空。
+  - 补充

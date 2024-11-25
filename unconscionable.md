@@ -1,21 +1,16 @@
 - unconscionable
   - 发音
-    - 英
-      - `/ʌn'kɔnʃənəbl/`
-    - 美
-      - `/ʌn'kɑnʃənəbl/`
+    - 英 /ʌn'kɔnʃənəbl/
+    - 美 /ʌn'kɑnʃənəbl/
   - 词义
-    - adj.
-      - 不合理的；过度的
-        - `much more than is reasonable or acceptable`
+    - adj. 不合理的；过度的
+      - much more than is reasonable or acceptable
   - 记忆
     - un (无) + conscionable (有节制的) → 无节制的 → 过度的
   - 近义词
-    - adj.
-      - 不合理的；昧着良心的；肆无忌惮的；过度的
-        - `unreasonable`
-        - `irrational`
+    - adj. 不合理的；昧着良心的；肆无忌惮的；过度的
+      - unreasonable
+      - irrational
   - 例句
-    - `The war caused an unconscionable amount of suffering.`
-      - 战争造成了太多的苦难。
-
+    - The war caused an unconscionable amount of suffering. 战争造成了太多的苦难。
+  - 补充

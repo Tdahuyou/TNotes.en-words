@@ -1,51 +1,30 @@
 - commit
   - 发音
-    - 英
-      - `/kə'mɪt/`
-    - 美
-      - `/kə'mɪt/`
+    - 英 /kə'mɪt/
+    - 美 /kə'mɪt/
   - 词义
-    - vt.
-      - 承诺；犯错；犯罪；忠于
-        - `to do something wrong or illegal`
+    - vt. 承诺；犯错；犯罪；忠于
+      - to do something wrong or illegal
   - 记忆
     - com(共同) + mit(送) → 共同送出 → 承诺
   - 同根词
-    - adj.
-      - `committed`
-        - 坚定的；效忠的；承担义务的
-    - n.
-      - `commitment`
-        - 承诺，保证；委托；承担义务；献身
-      - `commission`
-        - 委员会；佣金；犯；委任；委任状
-      - `commissioner`
-        - 理事；委员；行政长官；总裁
-      - `committal`
-        - 委托；承担义务；赞助；收监；献身（等于commitment）
-    - v.
-      - `committed`
-        - 承诺；委托；干坏事；付诸（commit的过去分词）
-    - vt.
-      - `commission`
-        - 委任；使服役；委托制作
+    - adj. committed 坚定的；效忠的；承担义务的
+    - n. commitment 承诺，保证；委托；承担义务；献身
+    - n. commission 委员会；佣金；犯；委任；委任状
+    - n. commissioner 理事；委员；行政长官；总裁
+    - n. committal 委托；承担义务；赞助；收监；献身（等于commitment）
+    - v. committed 承诺；委托；干坏事；付诸（commit的过去分词）
+    - vt. commission 委任；使服役；委托制作
   - 近义词
-    - vt.
-      - 犯罪，做错事；把...交托给；指派…作战；使…承担义务
-        - `sin`
-        - `do sth. wrong`
+    - vt. 犯罪，做错事；把...交托给；指派…作战；使…承担义务
+      - sin
+      - do sth. wrong
   - 短语
-    - `commit oneself`
-      - 承诺，答应负责 
-    - `commit suicide`
-      - 自杀 
-    - `commit a crime`
-      - 犯罪；犯下罪行 
-    - `commit crime`
-      - 犯罪；干坏事 
-    - `commit murder`
-      - 谋杀 
+    - commit oneself 承诺，答应负责
+    - commit suicide 自杀
+    - commit a crime 犯罪；犯下罪行
+    - commit crime 犯罪；干坏事
+    - commit murder 谋杀
   - 例句
-    - `Women commit fewer crimes than men.`
-      - 女性犯罪比男性少。
-
+    - Women commit fewer crimes than men. 女性犯罪比男性少。
+  - 补充

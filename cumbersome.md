@@ -1,33 +1,21 @@
 - cumbersome
   - 发音
-    - 英
-      - `/'kʌmbərsəm/`
-    - 美
-      - `/'kʌmbəsəm/`
+    - 英 /'kʌmbərsəm/
+    - 美 /'kʌmbəsəm/
   - 词义
-    - adj.
-      - 笨重的；麻烦的；累赘的，冗长的
-        - `a process or system that is cumbersome is slow and difficult`
+    - adj. 笨重的；麻烦的；累赘的，冗长的
+      - a process or system that is cumbersome is slow and difficult
   - 记忆
     - cumber(阻碍) + some → 受到阻碍的 → 笨重的
   - 同根词
-    - adj.
-      - `cumbrous`
-        - 累赘的，成负担的；讨厌的
-    - n.
-      - `cumber`
-        - 拖累，累赘；妨害
-    - vt.
-      - `cumber`
-        - 阻碍，妨害；使受苦
+    - adj. cumbrous 累赘的，成负担的；讨厌的
+    - n. cumber 拖累，累赘；妨害
+    - vt. cumber 阻碍，妨害；使受苦
   - 近义词
-    - adj.
-      - 笨重的；累赘的；难处理的
-        - `problem`
-        - `hulking`
+    - adj. 笨重的；累赘的；难处理的
+      - problem
+      - hulking
   - 例句
-    - `Doctors are complaining that the system is cumbersome and bureaucratic.`
-      - 医生抱怨说该体制复杂繁琐，很官僚。
-    - `cumbersome procedures`
-      - 繁琐的程序
-
+    - Doctors are complaining that the system is cumbersome and bureaucratic. 医生抱怨说该体制复杂繁琐，很官僚。
+    - cumbersome procedures 繁琐的程序
+  - 补充

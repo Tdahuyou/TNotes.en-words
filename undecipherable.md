@@ -1,14 +1,11 @@
 - undecipherable
   - 发音
-    - 英
-      - `/ˌʌndɪ'saɪfrəbl/`
-    - 美
-      - `/undefined/`
+    - 英 /ˌʌndɪ'saɪfrəbl/
+    - 美 /undefined/
   - 词义
-    - adj.
-      - 难破译的
+    - adj. 难破译的
   - 近义词
-    - adj.
-      - 难辨认的；破译不出的
-        - `illegible`
-        - `indecipherable`
+    - adj. 难辨认的；破译不出的
+      - illegible
+      - indecipherable
+  - 补充

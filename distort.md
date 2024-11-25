@@ -1,35 +1,23 @@
 - distort
   - 发音
-    - 英
-      - `/dɪ'stɔːrt/`
-    - 美
-      - `/dɪ'stɔrt/`
+    - 英 /dɪ'stɔːrt/
+    - 美 /dɪ'stɔrt/
   - 词义
-    - vt.
-      - 弄歪；扭曲，歪曲
-        - `to report something in a way that is not completely true or correct`
+    - vt. 弄歪；扭曲，歪曲
+      - to report something in a way that is not completely true or correct
   - 记忆
     - dis(分开) + tort(卷缠) → 把原本缠在一起的分开 → 歪曲
   - 同根词
-    - adj.
-      - `distorted`
-        - 歪曲的；受到曲解的
-    - n.
-      - `distortion`
-        - 变形；[物] 失真；扭曲；曲解
-    - v.
-      - `distorted`
-        - 扭曲（distortasd的过去式和过去分词）
+    - adj. distorted 歪曲的；受到曲解的
+    - n. distortion 变形；[物] 失真；扭曲；曲解
+    - v. distorted 扭曲（distortasd的过去式和过去分词）
   - 近义词
-    - vt.
-      - 扭曲；使失真；曲解
-        - `contort`
-        - `misinterpret`
-    - vi.
-      - 扭曲；变形
-        - `become deformed`
-        - `to morph`
+    - vt. 扭曲；使失真；曲解
+      - contort
+      - misinterpret
+    - vi. 扭曲；变形
+      - become deformed
+      - to morph
   - 例句
-    - `His account was badly distorted by the press.`
-      - 他的话被报界严重歪曲。
-
+    - His account was badly distorted by the press. 他的话被报界严重歪曲。
+  - 补充

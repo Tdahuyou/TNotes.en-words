@@ -1,17 +1,14 @@
 - renunciate
   - 发音
-    - 英
-      - `/rɪ'nʌnsɪ3ɪt/`
-    - 美
-      - `/ri'nʌnsieit/`
+    - 英 /rɪ'nʌnsɪ3ɪt/
+    - 美 /ri'nʌnsieit/
   - 词义
-    - v.
-      - 放弃
+    - v. 放弃
   - 记忆
     - re(相反) ＋ nunci(讲话， 说出) ＋ ate → 表达相反的意见 → 放弃
   - 近义词
-    - vt.
-      - 放弃；宣布中止
-        - `desert`
-        - `yield`
-        - `quit`
+    - vt. 放弃；宣布中止
+      - desert
+      - yield
+      - quit
+  - 补充

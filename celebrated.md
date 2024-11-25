@@ -1,43 +1,28 @@
 - celebrated
   - 发音
-    - 英
-      - `/'selibreitid/`
-    - 美
-      - `/'sɛlə'bretɪd/`
+    - 英 /'selibreitid/
+    - 美 /'sɛlə'bretɪd/
   - 词义
-    - adj.
-      - 著名的
-        - `famous`
+    - adj. 著名的
+      - famous
   - 记忆
     - 来自celebrate (v. 庆祝； 赞扬)
   - 同根词
-    - n.
-      - `celebration`
-        - 庆典，庆祝会；庆祝；颂扬
-      - `celebrator`
-        - 庆祝者；祝贺的人
-    - vi.
-      - `celebrate`
-        - 庆祝；过节；举行宗教仪式
-    - vt.
-      - `celebrate`
-        - 庆祝；举行；赞美；祝贺
+    - n. celebration 庆典，庆祝会；庆祝；颂扬
+    - n. celebrator 庆祝者；祝贺的人
+    - vi. celebrate 庆祝；过节；举行宗教仪式
+    - vt. celebrate 庆祝；举行；赞美；祝贺
   - 近义词
-    - adj.
-      - 著名的；有名望的
-        - `famous`
-        - `noted`
-        - `renowned`
-        - `distinguished`
-        - `famed`
+    - adj. 著名的；有名望的
+      - famous
+      - noted
+      - renowned
+      - distinguished
+      - famed
   - 短语
-    - `celebrate with`
-      - 庆祝 
-    - `celebrate christmas`
-      - 庆祝圣诞 
+    - celebrate with 庆祝
+    - celebrate christmas 庆祝圣诞
   - 例句
-    - `a celebrated actress`
-      - 著名女演员
-    - `a celebrated legal case`
-      - 一宗备受关注的官司
-
+    - a celebrated actress 著名女演员
+    - a celebrated legal case 一宗备受关注的官司
+  - 补充

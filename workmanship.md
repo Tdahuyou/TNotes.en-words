@@ -1,32 +1,22 @@
 - workmanship
   - 发音
-    - 英
-      - `/'wɜːkmənʃɪp/`
-    - 美
-      - `/'wɝkmənʃɪp/`
+    - 英 /'wɜːkmənʃɪp/
+    - 美 /'wɝkmənʃɪp/
   - 词义
-    - n.
-      - 手艺,技艺
-        - `skill in making things, especially in a way that makes them look good`
+    - n. 手艺,技艺
+      - skill in making things, especially in a way that makes them look good
   - 同根词
-    - adj.
-      - `workmanlike`
-        - 技术熟练的；精工细作的
-    - n.
-      - `workman`
-        - 工匠；技工；男工
+    - adj. workmanlike 技术熟练的；精工细作的
+    - n. workman 工匠；技工；男工
   - 近义词
-    - n.
-      - 手艺，工艺；技巧
-        - `technology`
-        - `skill`
-        - `mechanism`
-        - `hand`
-        - `tips`
+    - n. 手艺，工艺；技巧
+      - technology
+      - skill
+      - mechanism
+      - hand
+      - tips
   - 短语
-    - `fine workmanship`
-      - 精工 
+    - fine workmanship 精工
   - 例句
-    - `The problem may be due to poor workmanship.`
-      - 问题可能是出在拙劣的工艺上。
-
+    - The problem may be due to poor workmanship. 问题可能是出在拙劣的工艺上。
+  - 补充

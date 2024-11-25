@@ -1,22 +1,17 @@
 - temblor
   - 发音
-    - 英
-      - `/tem'blɔː/`
-    - 美
-      - `/'tɛmblɚ/`
+    - 英 /'temblər/
+    - 美 /'tɛmblɚ/
   - 词义
-    - n.
-      - （美）地震
-        - `an  earthquake `
+    - n. <美>地震
+      - an  earthquake 
   - 记忆
     - 和tremble(v. 震动)一起记
   - 近义词
-    - n.
-      - （美）地震
-        - `earthquake`
-        - `seismic event`
-        - `seismos`
+    - n. （美）地震
+      - earthquake
+      - seismic event
+      - seismos
   - 例句
-    - `...the 1906 temblor that struck San Francisco.`
-      - ...1906年旧金山发生的大地震。
-
+    - ...the 1906 temblor that struck San Francisco. ...1906年旧金山发生的大地震。
+  - 补充

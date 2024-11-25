@@ -1,62 +1,36 @@
 - motif
   - 发音
-    - 英
-      - `/mou'tiːf/`
-    - 美
-      - `/mo'tif/`
+    - 英 /mou'tiːf/
+    - 美 /mo'tif/
   - 词义
-    - n.
-      - 主题，主旨；图形
-        - `an idea, subject, or image that is regularly repeated and developed in a book, film, work of art etc`
+    - n. 主题，主旨；图形
+      - an idea, subject, or image that is regularly repeated and developed in a book, film, work of art etc
   - 记忆
     - mot(移动) + if → 移动的动力 → 主旨
   - 同根词
-    - adj.
-      - `motive`
-        - 发动的；成为动机的
-      - `motivated`
-        - 有动机的；有积极性的
-      - `motionless`
-        - 静止的；不运动的
-      - `motivational`
-        - 动机的；激发性的；有关动机的；动机说明
-      - `motional`
-        - 运动的；起动的
-      - `motiveless`
-        - 无动机的
-    - n.
-      - `motion`
-        - 动作；移动；手势；请求；意向
-      - `motivation`
-        - 动机；积极性；推动
-      - `motive`
-        - 动机，目的；主题
-      - `motivator`
-        - 动力；激励因素
-      - `motivity`
-        - 动力；原动力
-    - v.
-      - `motivated`
-        - 使产生动机；激发…的积极性（motivate的过去式和过去分词）
-    - vi.
-      - `motion`
-        - 运动；打手势
-    - vt.
-      - `motion`
-        - 运动；向…打手势
-      - `motivate`
-        - 刺激；使有动机；激发…的积极性
-      - `motive`
-        - 使产生动机，激起
+    - adj. motive 发动的；成为动机的
+    - adj. motivated 有动机的；有积极性的
+    - adj. motionless 静止的；不运动的
+    - adj. motivational 动机的；激发性的；有关动机的；动机说明
+    - adj. motional 运动的；起动的
+    - adj. motiveless 无动机的
+    - n. motion 动作；移动；手势；请求；意向
+    - n. motivation 动机；积极性；推动
+    - n. motive 动机，目的；主题
+    - n. motivator 动力；激励因素
+    - n. motivity 动力；原动力
+    - v. motivated 使产生动机；激发…的积极性（motivate的过去式和过去分词）
+    - vi. motion 运动；打手势
+    - vt. motion 运动；向…打手势
+    - vt. motivate 刺激；使有动机；激发…的积极性
+    - vt. motive 使产生动机，激起
   - 近义词
-    - n.
-      - 主题；动机；主旨；图形；意念
-        - `topic`
-        - `theme`
-        - `subject`
-        - `substance`
-        - `incentive`
+    - n. 主题；动机；主旨；图形；意念
+      - topic
+      - theme
+      - subject
+      - substance
+      - incentive
   - 例句
-    - `The theme of creation is a recurrent motif in Celtic mythology.`
-      - 天地万物的创造是凯尔特神话中反复出现的主题。
-
+    - The theme of creation is a recurrent motif in Celtic mythology. 天地万物的创造是凯尔特神话中反复出现的主题。
+  - 补充

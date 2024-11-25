@@ -1,38 +1,24 @@
 - pervert
   - 发音
-    - 英
-      - `/pə'vəːt/`
-    - 美
-      - `/pɚ'vɝt/`
+    - 英 /pə'vəːt/
+    - 美 /pɚ'vɝt/
   - 词义
-    - vt.
-      - 使堕落，诱惑；使反常
-        - `to influence someone so that they begin to think or behave in an immoral way`
+    - vt. 使堕落，诱惑；使反常
+      - to influence someone so that they begin to think or behave in an immoral way
   - 记忆
     - per (全部) + vert (转) → 全部转到 (邪路上) → 使堕落
   - 同根词
-    - adj.
-      - `perverted`
-        - 歪曲的；不正当的；性变态的
-      - `pervertible`
-        - 能曲解的；易误解的
-    - n.
-      - `perversion`
-        - 反常；颠倒；曲解；误用；堕落
-      - `perverseness`
-        - 倔强；堕落
-    - v.
-      - `perverted`
-        - 使入歧途（pervert的过去分词）
+    - adj. perverted 歪曲的；不正当的；性变态的
+    - adj. pervertible 能曲解的；易误解的
+    - n. perversion 反常；颠倒；曲解；误用；堕落
+    - n. perverseness 倔强；堕落
+    - v. perverted 使入歧途（pervert的过去分词）
   - 近义词
-    - vt.
-      - 使堕落；滥用；使反常
-        - `abuse`
-        - `strain`
-    - n.
-      - 堕落者；行为反常者；性欲反常者
-        - `deteriorator`
+    - vt. 使堕落；滥用；使反常
+      - abuse
+      - strain
+    - n. 堕落者；行为反常者；性欲反常者
+      - deteriorator
   - 例句
-    - `TV violence perverts the minds of young children.`
-      - 电视暴力腐蚀了孩子们的心灵。
-
+    - TV violence perverts the minds of young children. 电视暴力腐蚀了孩子们的心灵。
+  - 补充

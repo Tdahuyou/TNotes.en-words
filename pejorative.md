@@ -1,25 +1,18 @@
 - pejorative
   - 发音
-    - 英
-      - `/pi'dʒɔrətiv/`
-    - 美
-      - `/pɪ'dʒɔrətɪv/`
+    - 英 /pi'dʒɔrətiv/
+    - 美 /pɪ'dʒɔrətɪv/
   - 词义
-    - adj.
-      - 轻蔑的；贬抑的
-        - `a word or expression that is pejorative is used to show disapproval or to insult someone`
+    - adj. 轻蔑的；贬抑的
+      - a word or expression that is pejorative is used to show disapproval or to insult someone
   - 记忆
     - pejor (坏) + ative → 变坏的 → 贬抑的
   - 同根词
-    - adv.
-      - `pejoratively`
-        - 贬损地；轻蔑地
+    - adv. pejoratively 贬损地；轻蔑地
   - 近义词
-    - adj.
-      - 轻蔑的；[临床]恶化的，变坏的
-        - `scornful`
-        - `sniffish`
+    - adj. 轻蔑的；[临床]恶化的，变坏的
+      - scornful
+      - sniffish
   - 例句
-    - `For hard-line Republicans, the word ‘liberal’ had become a pejorative term.`
-      - 对强硬派共和党来说，“自由”一词已成了贬义词。
-
+    - For hard-line Republicans, the word ‘liberal’ had become a pejorative term. 对强硬派共和党来说，“自由”一词已成了贬义词。
+  - 补充

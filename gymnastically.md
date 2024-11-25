@@ -1,9 +1,7 @@
 - gymnastically
   - 发音
-    - 英
-      - `/undefined/`
-    - 美
-      - `/undefined/`
+    - 英 /undefined/
+    - 美 /undefined/
   - 词义
-    - adv.
-      - 体能训练方面
+    - adv. 体能训练方面
+  - 补充

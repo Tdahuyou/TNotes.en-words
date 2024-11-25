@@ -1,23 +1,16 @@
 - saleswoman
   - 发音
-    - 英
-      - `/'seɪlz,wʊmən/`
-    - 美
-      - `/'seilz,wumən/`
+    - 英 /'seɪlz,wʊmən/
+    - 美 /'seilz,wumən/
   - 词义
-    - n.
-      - [贸易]女售货员；[贸易]女店员
-        - `a woman whose job is selling things`
+    - n. [贸易]女售货员；[贸易]女店员
+      - a woman whose job is selling things
   - 同根词
-    - n.
-      - `saleslady`
-        - 女售货员
+    - n. saleslady 女售货员
   - 近义词
-    - n.
-      - 女售货员；[贸易]女店员
-        - `shopgirl`
-        - `midinette`
+    - n. 女售货员；[贸易]女店员
+      - shopgirl
+      - midinette
   - 例句
-    - `...an insurance saleswoman.`
-      - …一位女保险推销员。
-
+    - ...an insurance saleswoman. …一位女保险推销员。
+  - 补充

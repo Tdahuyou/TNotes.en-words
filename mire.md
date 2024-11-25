@@ -1,31 +1,21 @@
 - mire
   - 发音
-    - 英
-      - `/maɪə/`
-    - 美
-      - `/'maɪɚ/`
+    - 英 /maɪə/
+    - 美 /'maɪɚ/
   - 词义
-    - n.
-      - 泥潭；[地理]泥沼
-        - `deep mud`
-    - v.
-      - 陷于泥坑；陷入困境
+    - n. 泥潭；[地理]泥沼
+      - deep mud
+    - v. 陷于泥坑；陷入困境
   - 同根词
-    - adj.
-      - `miry`
-        - 泥泞的；脏的
+    - adj. miry 泥泞的；脏的
   - 近义词
-    - n.
-      - 泥潭；[地理]泥沼
-        - `moss`
-    - vi.
-      - 陷于泥坑；陷入困境
-        - `get into hot water`
-        - `get into a jam`
-    - vt.
-      - 使陷于泥坑；使陷入困境
-        - `embog`
+    - n. 泥潭；[地理]泥沼
+      - moss
+    - vi. 陷于泥坑；陷入困境
+      - get into hot water
+      - get into a jam
+    - vt. 使陷于泥坑；使陷入困境
+      - embog
   - 例句
-    - `The wheels got stuck in the mire.`
-      - 轮子陷入泥潭里了。
-
+    - The wheels got stuck in the mire. 轮子陷入泥潭里了。
+  - 补充

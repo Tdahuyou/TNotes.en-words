@@ -1,32 +1,23 @@
 - gall
   - 发音
-    - 英
-      - `/gɔːl/`
-    - 美
-      - `/ɡɔl/`
+    - 英 /gɔːl/
+    - 美 /ɡɔl/
   - 词义
-    - n.
-      - 胆汁；恶毒；怨恨；愚勇
-        - `anger and hate that will not go away`
+    - n. 胆汁；恶毒；怨恨；愚勇
+      - anger and hate that will not go away
   - 记忆
     - 把怨恨 (gall) 都发泄在篮球 (ball) 上
   - 同根词
-    - adj.
-      - `galling`
-        - 难堪的；使烦恼的；擦伤人的
-      - `gallic`
-        - 五倍子的；镓的，瘿的；法国人的
+    - adj. galling 难堪的；使烦恼的；擦伤人的
+    - adj. gallic 五倍子的；镓的，瘿的；法国人的
   - 近义词
-    - n.
-      - [生理]胆汁；五倍子；怨恨；苦味
-        - `bile`
-        - `spite`
-    - vt.
-      - 烦恼；屈辱；磨伤
-        - `bother about`
-        - `kiss the ground`
+    - n. [生理]胆汁；五倍子；怨恨；苦味
+      - bile
+      - spite
+    - vt. 烦恼；屈辱；磨伤
+      - bother about
+      - kiss the ground
   - 短语
-    - `gall bladder`
-      - n. 胆囊；[解]苦胆 
-    - `crown gall`
-      - [植病]冠瘿病 
+    - gall bladder n. 胆囊；[解]苦胆
+    - crown gall [植病]冠瘿病
+  - 补充

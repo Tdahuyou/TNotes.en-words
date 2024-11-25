@@ -1,45 +1,27 @@
 - scared
   - 发音
-    - 英
-      - `/skeəd/`
-    - 美
-      - `/skɛrd/`
+    - 英 /skeəd/
+    - 美 /skɛrd/
   - 词义
-    - adj.
-      - 惊慌的
-        - `frightened of something, or nervous about something`
+    - adj. 惊慌的
+      - frightened of something, or nervous about something
   - 记忆
     - s+care(照顾)→照顾不好， 受到惊吓→惊吓
   - 同根词
-    - adj.
-      - `scare`
-        - （美）骇人的
-    - n.
-      - `scare`
-        - 恐慌；惊吓；惊恐
-      - `scar`
-        - 创伤；伤痕
-    - vi.
-      - `scare`
-        - 受惊
-      - `scar`
-        - 结疤；痊愈
-    - vt.
-      - `scare`
-        - 惊吓；把…吓跑
-      - `scar`
-        - 伤害；给留下伤痕
+    - adj. scare （美）骇人的
+    - n. scare 恐慌；惊吓；惊恐
+    - n. scar 创伤；伤痕
+    - vi. scare 受惊
+    - vi. scar 结疤；痊愈
+    - vt. scare 惊吓；把…吓跑
+    - vt. scar 伤害；给留下伤痕
   - 近义词
-    - adj.
-      - 害怕的
-        - `afraid`
-        - `frightened`
+    - adj. 害怕的
+      - afraid
+      - frightened
   - 短语
-    - `scared to death`
-      - 吓得要死；被吓死；害怕得要命 
-    - `be scared of`
-      - 害怕…；对…感到恐惧 
+    - scared to death 吓得要死；被吓死；害怕得要命
+    - be scared of 害怕…；对…感到恐惧
   - 例句
-    - `At first, he was really scared.`
-      - 刚开始时他非常害怕。
-
+    - At first, he was really scared. 刚开始时他非常害怕。
+  - 补充

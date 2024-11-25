@@ -1,40 +1,26 @@
 - transcend
   - 发音
-    - 英
-      - `/træn'send/`
-    - 美
-      - `/træn'sɛnd/`
+    - 英 /træn'send/
+    - 美 /træn'sɛnd/
   - 词义
-    - vt.
-      - 超越
-        - `to go beyond the usual limits of something`
+    - vt. 超越
+      - to go beyond the usual limits of something
   - 记忆
     - trans(越过) + (s)cend(爬) → 超越
   - 同根词
-    - adj.
-      - `transcendental`
-        - 先验的；卓越的，[数] 超越的；超自然的
-      - `transcendent`
-        - 卓越的；超常的；出类拔萃的
-    - adv.
-      - `transcendentally`
-        - 直觉的；先验的，超越地
-    - n.
-      - `transcendentalism`
-        - 超越论；先验论
-      - `transcendence`
-        - 超越；卓越；超然存在
-      - `transcendent`
-        - 卓越的人；超绝物
+    - adj. transcendental 先验的；卓越的，[数] 超越的；超自然的
+    - adj. transcendent 卓越的；超常的；出类拔萃的
+    - adv. transcendentally 直觉的；先验的，超越地
+    - n. transcendentalism 超越论；先验论
+    - n. transcendence 超越；卓越；超然存在
+    - n. transcendent 卓越的人；超绝物
   - 近义词
-    - vt.
-      - 胜过，超越
-        - `overcome`
-        - `exceed`
-        - `top`
-        - `cap`
-        - `surpass`
+    - vt. 胜过，超越
+      - overcome
+      - exceed
+      - top
+      - cap
+      - surpass
   - 例句
-    - `The desire for peace transcended political differences.`
-      - 对和平的渴望超越了政治分歧。
-
+    - The desire for peace transcended political differences. 对和平的渴望超越了政治分歧。
+  - 补充

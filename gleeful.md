@@ -1,24 +1,17 @@
 - gleeful
   - 发音
-    - 英
-      - `/'gliːfʊl; -f(ə)l/`
-    - 美
-      - `/'ɡli:ful/`
+    - 英 /'gliːfʊl; -f(ə)l/
+    - 美 /'ɡli:ful/
   - 词义
-    - adj.
-      - 愉快的
+    - adj. 愉快的
   - 同根词
-    - adv.
-      - `gleefully`
-        - 欢欣地；极快乐地
-    - n.
-      - `glee`
-        - 快乐；欢欣；重唱歌曲
+    - adv. gleefully 欢欣地；极快乐地
+    - n. glee 快乐；欢欣；重唱歌曲
   - 近义词
-    - adj.
-      - 愉快的
-        - `good`
-        - `bright`
-        - `fragrant`
-        - `cheerful`
-        - `blithesome`
+    - adj. 愉快的
+      - good
+      - bright
+      - fragrant
+      - cheerful
+      - blithesome
+  - 补充

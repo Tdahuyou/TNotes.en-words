@@ -1,30 +1,19 @@
 - whiskey
   - 发音
-    - 英
-      - `/'hwiski/`
-    - 美
-      - `/'hwɪski/`
+    - 英 /'hwiski/
+    - 美 /'hwɪski/
   - 词义
-    - n.
-      - 威士忌酒
-        - `Whiskey is a strong alcoholic drink made, especially in the United States and Ireland, from grain such as barley or rye`
-    - adj.
-      - 威士忌酒的
+    - n. 威士忌酒
+      - Whiskey is a strong alcoholic drink made, especially in the United States and Ireland, from grain such as barley or rye
+    - adj. 威士忌酒的
   - 同根词
-    - adj.
-      - `whisky`
-        - 威士忌酒的
-    - n.
-      - `whisky`
-        - 威士忌酒
+    - adj. whisky 威士忌酒的
+    - n. whisky 威士忌酒
   - 近义词
-    - n.
-      - [食品]威士忌酒
-        - `wiskey`
+    - n. [食品]威士忌酒
+      - wiskey
   - 短语
-    - `irish whiskey`
-      - 爱尔兰威士忌 
+    - irish whiskey 爱尔兰威士忌
   - 例句
-    - `...a tumbler with about an inch of whiskey in it.`
-      - …一个装了大约一英寸高的威士忌酒的大玻璃杯。
-
+    - ...a tumbler with about an inch of whiskey in it. …一个装了大约一英寸高的威士忌酒的大玻璃杯。
+  - 补充

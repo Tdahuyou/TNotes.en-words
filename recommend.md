@@ -1,36 +1,25 @@
 - recommend
   - 发音
-    - 英
-      - `/ˌrekə'mend/`
-    - 美
-      - `/'rɛkə'mɛnd/`
+    - 英 /ˌrekə'mend/
+    - 美 /'rɛkə'mɛnd/
   - 词义
-    - vt.
-      - 推荐；建议
-        - `to advise someone to do something, especially because you have special knowledge of a situation or subject`
+    - vt. 推荐；建议
+      - to advise someone to do something, especially because you have special knowledge of a situation or subject
   - 记忆
     - re(一再) + com(共同) + mend(修改) → 这本书是大家一再修改的成果， 强力推荐 → 推荐
   - 同根词
-    - n.
-      - `recommendation`
-        - 推荐；建议；推荐信
+    - n. recommendation 推荐；建议；推荐信
   - 近义词
-    - vt.
-      - 推荐，介绍；劝告；使受欢迎；托付
-        - `present`
-        - `put in a good word`
-    - vi.
-      - 推荐；建议
-        - `put in a good word`
-        - `advise`
+    - vt. 推荐，介绍；劝告；使受欢迎；托付
+      - present
+      - put in a good word
+    - vi. 推荐；建议
+      - put in a good word
+      - advise
   - 短语
-    - `recommend for`
-      - 推荐；由于…而称赞 
+    - recommend for 推荐；由于…而称赞
   - 例句
-    - `Doctors strongly recommend that fathers should be present at their baby’s birth.`
-      - 医生极力建议孩子出生时父亲应该在场。
-    - `Sleeping tablets are not recommended in this case.`
-      - 这种情况下不建议使用安眠药。
-    - `It is dangerous to exceed the recommended dose .`
-      - 超过建议剂量很危险。
-
+    - Doctors strongly recommend that fathers should be present at their baby’s birth. 医生极力建议孩子出生时父亲应该在场。
+    - Sleeping tablets are not recommended in this case. 这种情况下不建议使用安眠药。
+    - It is dangerous to exceed the recommended dose . 超过建议剂量很危险。
+  - 补充

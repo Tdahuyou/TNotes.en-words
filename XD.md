@@ -1,9 +1,7 @@
 - XD
   - 发音
-    - 英
-      - `/eks'dividend/`
-    - 美
-      - `/undefined/`
+    - 英 /eks'dividend/
+    - 美 /undefined/
   - 词义
-    - n.
-      - 无息股
+    - n. 无息股
+  - 补充

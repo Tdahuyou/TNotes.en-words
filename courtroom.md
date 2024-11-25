@@ -1,15 +1,12 @@
 - courtroom
   - 发音
-    - 英
-      - `/'kɔːtruːm; -rʊm/`
-    - 美
-      - `/'kɔrt'rʊm; 'kɔrt'rʊm/`
+    - 英 /'kɔːtruːm; -rʊm/
+    - 美 /'kɔrt'rʊm; 'kɔrt'rʊm/
   - 词义
-    - n.
-      - 法庭；审判室
-        - `a room in a law court where cases are judged`
+    - n. 法庭；审判室
+      - a room in a law court where cases are judged
   - 近义词
-    - n.
-      - 法庭；审判室
-        - `forum`
-        - `tribunal`
+    - n. 法庭；审判室
+      - forum
+      - tribunal
+  - 补充

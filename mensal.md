@@ -1,18 +1,13 @@
 - mensal
   - 发音
-    - 英
-      - `/'mensəl/`
-    - 美
-      - `/undefined/`
+    - 英 /'mensəl/
+    - 美 /undefined/
   - 词义
-    - adj.
-      - <罕>每月一次的,每月的,餐桌的
-        - `monthly `
+    - adj. <罕>每月一次的,每月的,餐桌的
+      - monthly 
   - 同根词
-    - adj.
-      - `menstrual`
-        - 月经的；每月的；一月一次的
+    - adj. menstrual 月经的；每月的；一月一次的
   - 近义词
-    - adj.
-      - 餐桌的；每月一次的；每月的
-        - `monthly`
+    - adj. 餐桌的；每月一次的；每月的
+      - monthly
+  - 补充

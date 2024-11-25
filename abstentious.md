@@ -1,18 +1,13 @@
 - abstentious
   - 发音
-    - 英
-      - `/əb'stenʃəs/`
-    - 美
-      - `/undefined/`
+    - 英 /əb'stenʃəs/
+    - 美 /undefined/
   - 词义
-    - adj.
-      - 有节制的
+    - adj. 有节制的
   - 同根词
-    - n.
-      - `abstention`
-        - 弃权；节制；戒绝
+    - n. abstention 弃权；节制；戒绝
   - 近义词
-    - adj.
-      - 有节制的
-        - `moderate`
-        - `temperate`
+    - adj. 有节制的
+      - moderate
+      - temperate
+  - 补充

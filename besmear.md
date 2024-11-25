@@ -1,18 +1,15 @@
 - besmear
   - 发音
-    - 英
-      - `/bi'smiə/`
-    - 美
-      - `/bi'smiə/`
+    - 英 /bi'smiə/
+    - 美 /bi'smiə/
   - 词义
-    - v.
-      - 涂抹；弄脏
-        - `to smear over; daub `
+    - v. 涂抹；弄脏
+      - to smear over; daub 
   - 近义词
-    - vt.
-      - 弄脏，涂抹；玷污
-        - `soil`
-        - `mud`
-        - `spot`
-        - `dirty`
-        - `cloud`
+    - vt. 弄脏，涂抹；玷污
+      - soil
+      - mud
+      - spot
+      - dirty
+      - cloud
+  - 补充

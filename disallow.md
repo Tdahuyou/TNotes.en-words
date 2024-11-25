@@ -1,23 +1,16 @@
 - disallow
   - 发音
-    - 英
-      - `/dɪsə'laʊ/`
-    - 美
-      - `/,dɪsə'laʊ/`
+    - 英 /dɪsə'laʊ/
+    - 美 /,dɪsə'laʊ/
   - 词义
-    - vt.
-      - 不承认，不准许
-        - `to officially refuse to accept something, because a rule has been broken`
+    - vt. 不承认，不准许
+      - to officially refuse to accept something, because a rule has been broken
   - 同根词
-    - adj.
-      - `disallowable`
-        - 可拒绝的，可否决的
+    - adj. disallowable 可拒绝的，可否决的
   - 近义词
-    - vt.
-      - 驳回，不接受；不准许
-        - `wave sth. away`
-        - `set aside`
+    - vt. 驳回，不接受；不准许
+      - wave sth. away
+      - set aside
   - 例句
-    - `Manchester United had a goal disallowed.`
-      - 曼联队的一个入球被判无效。
-
+    - Manchester United had a goal disallowed. 曼联队的一个入球被判无效。
+  - 补充

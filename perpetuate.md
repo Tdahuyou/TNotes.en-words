@@ -1,25 +1,18 @@
 - perpetuate
   - 发音
-    - 英
-      - `/pər'petʃueɪt/`
-    - 美
-      - `/pɚ'pɛtʃuet/`
+    - 英 /pər'petʃueɪt/
+    - 美 /pɚ'pɛtʃuet/
   - 词义
-    - vt.
-      - 使永存，使持续
-        - `to make a situation, attitude etc, especially a bad one, continue to exist for a long time`
+    - vt. 使永存，使持续
+      - to make a situation, attitude etc, especially a bad one, continue to exist for a long time
   - 记忆
     - per(贯穿) + pet(追求) + uate → 永远追求 → 使永存， 使持续
   - 同根词
-    - n.
-      - `perpetuation`
-        - 不朽，永存
+    - n. perpetuation 不朽，永存
   - 近义词
-    - vt.
-      - 使不朽；保持
-        - `retain`
-        - `keep up`
+    - vt. 使不朽；保持
+      - retain
+      - keep up
   - 例句
-    - `an education system that perpetuates the divisions in our society`
-      - 使我们的社会持续分化的一种教育制度
-
+    - an education system that perpetuates the divisions in our society 使我们的社会持续分化的一种教育制度
+  - 补充

@@ -1,23 +1,16 @@
 - inexcusable
   - 发音
-    - 英
-      - `/ˌinik'skjuːzəbl/`
-    - 美
-      - `/,ɪnɪk'skjuzəbl/`
+    - 英 /ˌinik'skjuːzəbl/
+    - 美 /,ɪnɪk'skjuzəbl/
   - 词义
-    - adj.
-      - 无法辩解的，不可宽赦的
-        - `inexcusable behaviour is too bad to be excused`
+    - adj. 无法辩解的，不可宽赦的
+      - inexcusable behaviour is too bad to be excused
   - 同根词
-    - adv.
-      - `inexcusably`
-        - 无法原谅地；无法辩解地
+    - adv. inexcusably 无法原谅地；无法辩解地
   - 近义词
-    - adj.
-      - 不可原谅的；没法辩解的；不可宽恕的
-        - `unforgivable`
-        - `unpardonable`
+    - adj. 不可原谅的；没法辩解的；不可宽恕的
+      - unforgivable
+      - unpardonable
   - 例句
-    - `an inexcusable act of aggression`
-      - 不可饶恕的侵略行为
-
+    - an inexcusable act of aggression 不可饶恕的侵略行为
+  - 补充

@@ -1,44 +1,26 @@
 - creature
   - 发音
-    - 英
-      - `/'kriːtʃə/`
-    - 美
-      - `/'kritʃɚ/`
+    - 英 /'kriːtʃə/
+    - 美 /'kritʃɚ/
   - 词义
-    - n.
-      - 创造物
-        - `something, especially something bad, that was made or invented by a particular person or organization`
+    - n. 创造物
+      - something, especially something bad, that was made or invented by a particular person or organization
   - 同根词
-    - adj.
-      - `creative`
-        - 创造性的
-    - adv.
-      - `creatively`
-        - 创造性地；有创造力地
-    - n.
-      - `creation`
-        - 创造，创作；创作物，产物
-      - `creativity`
-        - 创造力；创造性
-      - `creator`
-        - 创造者；创建者
-      - `creationism`
-        - 特别创造说；创造宇宙说
-      - `creativeness`
-        - 创造性；才思
-    - vt.
-      - `create`
-        - 创造，创作；造成
+    - adj. creative 创造性的
+    - adv. creatively 创造性地；有创造力地
+    - n. creation 创造，创作；创作物，产物
+    - n. creativity 创造力；创造性
+    - n. creator 创造者；创建者
+    - n. creationism 特别创造说；创造宇宙说
+    - n. creativeness 创造性；才思
+    - vt. create 创造，创作；造成
   - 近义词
-    - n.
-      - 动物，生物；人；创造物
-        - `animal`
-        - `biology`
-        - `person`
+    - n. 动物，生物；人；创造物
+      - animal
+      - biology
+      - person
   - 短语
-    - `living creature`
-      - 生物；生命单位 
-    - `fellow creature`
-      - 同类动物；人类 
-    - `creature comfort`
-      - n. 物质享受（尤指食物） 
+    - living creature 生物；生命单位
+    - fellow creature 同类动物；人类
+    - creature comfort n. 物质享受（尤指食物）
+  - 补充

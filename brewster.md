@@ -1,12 +1,9 @@
 - brewster
   - 发音
-    - 英
-      - `/undefined/`
-    - 美
-      - `/undefined/`
+    - 英 /undefined/
+    - 美 /undefined/
   - 词义
-    - n.
-      - 酿造者
+    - n. 酿造者
   - 短语
-    - `brewster angle`
-      - 布儒斯特角 
+    - brewster angle 布儒斯特角
+  - 补充

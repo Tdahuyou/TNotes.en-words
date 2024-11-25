@@ -1,28 +1,19 @@
 - insensate
   - 发音
-    - 英
-      - `/in'senseit/`
-    - 美
-      - `/ɪn'sɛnsɪt/`
+    - 英 /in'senseit/
+    - 美 /ɪn'sɛnsɪt/
   - 词义
-    - adj.
-      - 没有感觉的
-        - `not able to feel things`
+    - adj. 没有感觉的
+      - not able to feel things
   - 记忆
     - in (不) + sens (感觉) + ate (…的) → 无感觉的
   - 同根词
-    - adj.
-      - `insensitive`
-        - 感觉迟钝的，对…没有感觉的
-      - `insentient`
-        - 无知觉的；无生命的；无感情的
-    - n.
-      - `insensitivity`
-        - 感觉迟钝；不灵敏性；昏迷
-      - `insensibility`
-        - 不关心，不在乎；无感觉
+    - adj. insensitive 感觉迟钝的，对…没有感觉的
+    - adj. insentient 无知觉的；无生命的；无感情的
+    - n. insensitivity 感觉迟钝；不灵敏性；昏迷
+    - n. insensibility 不关心，不在乎；无感觉
   - 近义词
-    - adj.
-      - 无感觉的；无情的；无生命的
-        - `dead`
-        - `imperceptive`
+    - adj. 无感觉的；无情的；无生命的
+      - dead
+      - imperceptive
+  - 补充

@@ -1,23 +1,16 @@
 - unobtrusive
   - 发音
-    - 英
-      - `/ʌnəb'truːsɪv/`
-    - 美
-      - `/'ʌnəb'trʊsɪv/`
+    - 英 /ʌnəb'truːsɪv/
+    - 美 /'ʌnəb'trʊsɪv/
   - 词义
-    - adj.
-      - 不唐突的；谦虚的；不引人注目的
-        - `not easily noticed`
+    - adj. 不唐突的；谦虚的；不引人注目的
+      - not easily noticed
   - 同根词
-    - adv.
-      - `unobtrusively`
-        - 不显眼地；不容易看到地；客气地
+    - adv. unobtrusively 不显眼地；不容易看到地；客气地
   - 近义词
-    - adj.
-      - 不唐突的；谦虚的；不引人注目的
-        - `modest`
-        - `odest`
+    - adj. 不唐突的；谦虚的；不引人注目的
+      - modest
+      - odest
   - 例句
-    - `The staff are trained to be unobtrusive.`
-      - 员工们受过训练要保持低调。
-
+    - The staff are trained to be unobtrusive. 员工们受过训练要保持低调。
+  - 补充

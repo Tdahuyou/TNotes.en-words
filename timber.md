@@ -1,38 +1,25 @@
 - timber
   - 发音
-    - 英
-      - `/'tɪmbər/`
-    - 美
-      - `/'tɪmbɚ/`
+    - 英 /'tɪmbər/
+    - 美 /'tɪmbɚ/
   - 词义
-    - n.
-      - 木材，木料
-        - `wood used for building or making things`
+    - n. 木材，木料
+      - wood used for building or making things
   - 记忆
     - timb(看做time， 时间) + er → 小树苗变成木材需要时间 → 木材
   - 同根词
-    - adj.
-      - `timbered`
-        - 树木茂盛的；木制的
+    - adj. timbered 树木茂盛的；木制的
   - 近义词
-    - n.
-      - [木]木材；木料
-        - `wood`
-        - `tree`
+    - n. [木]木材；木料
+      - wood
+      - tree
   - 短语
-    - `timber tree`
-      - 成材木 
-    - `timber structure`
-      - 木结构；木构造 
-    - `sawn timber`
-      - 锯材，锯木；成型木材 
-    - `seasoned timber`
-      - 经干木材；风干木材 
-    - `standing timber`
-      - 建筑用材 
-    - `timber frame`
-      - 框形支架；木构架；木架 
+    - timber tree 成材木
+    - timber structure 木结构；木构造
+    - sawn timber 锯材，锯木；成型木材
+    - seasoned timber 经干木材；风干木材
+    - standing timber 建筑用材
+    - timber frame 框形支架；木构架；木架
   - 例句
-    - `a bench made of timber`
-      - 木制长椅
-
+    - a bench made of timber 木制长椅
+  - 补充

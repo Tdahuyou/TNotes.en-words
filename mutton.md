@@ -1,24 +1,18 @@
 - mutton
   - 发音
-    - 英
-      - `/'mʌt(ə)n/`
-    - 美
-      - `/'mʌtn/`
+    - 英 /'mʌt(ə)n/
+    - 美 /'mʌtn/
   - 词义
-    - n.
-      - 羊肉
-        - `the meat from a sheep`
+    - n. 羊肉
+      - the meat from a sheep
   - 记忆
     - 按钮(button)弹起，羊肉(mutton)出锅
   - 近义词
-    - n.
-      - [食品]羊肉；绵羊
-        - `sheep`
-        - `hotpot`
+    - n. [食品]羊肉；绵羊
+      - sheep
+      - hotpot
   - 短语
-    - `stewed mutton`
-      - 红烧羊肉；糊羊肉；烩羊肉 
+    - stewed mutton 红烧羊肉；糊羊肉；烩羊肉
   - 例句
-    - `...a leg of mutton.`
-      - …一条羊腿。
-
+    - ...a leg of mutton. …一条羊腿。
+  - 补充

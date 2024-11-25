@@ -1,38 +1,26 @@
 - domicile
   - 发音
-    - 英
-      - `/'dɑːmɪsaɪl/`
-    - 美
-      - `/'dɑmɪsaɪl/`
+    - 英 /'dɑːmɪsaɪl/
+    - 美 /'dɑmɪsaɪl/
   - 词义
-    - n.
-      - 住处，住所
-        - `the place where someone lives`
+    - n. 住处，住所
+      - the place where someone lives
   - 记忆
     - dom(家) + icile → 住处， 住所
   - 同根词
-    - n.
-      - `domiciliate`
-        - 住处；期票支付场所
-    - vi.
-      - `domiciliate`
-        - 定居；决定住处
-    - vt.
-      - `domiciliate`
-        - 使定居；使通俗化
+    - n. domiciliate 住处；期票支付场所
+    - vi. domiciliate 定居；决定住处
+    - vt. domiciliate 使定居；使通俗化
   - 近义词
-    - n.
-      - 住宅；永久居住地；[金融]期票支付场所
-        - `residence`
-        - `home`
-    - vi.
-      - 居住
-        - `belong`
-        - `room`
-        - `harbor`
-        - `live`
-        - `dwell`
+    - n. 住宅；永久居住地；[金融]期票支付场所
+      - residence
+      - home
+    - vi. 居住
+      - belong
+      - room
+      - harbor
+      - live
+      - dwell
   - 例句
-    - `Military service entails frequent changes of domicile.`
-      - 服兵役需要频繁更换住所。
-
+    - Military service entails frequent changes of domicile. 服兵役需要频繁更换住所。
+  - 补充

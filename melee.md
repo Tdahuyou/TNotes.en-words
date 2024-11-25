@@ -1,21 +1,16 @@
 - melee
   - 发音
-    - 英
-      - `/mei'lei/`
-    - 美
-      - `/'mele/`
+    - 英 /mei'lei/
+    - 美 /'mele/
   - 词义
-    - n.
-      - 混战，搏斗，格斗
-        - `A melee is a noisy, confusing fight between the people in a crowd`
+    - n. 混战，搏斗，格斗
+      - A melee is a noisy, confusing fight between the people in a crowd
   - 记忆
     - “慢来” → 来迟一步， 一片混乱 → 混战
   - 近义词
-    - n.
-      - 混战，格斗；互殴
-        - `mix-up`
-        - `in-fighting`
+    - n. 混战，格斗；互殴
+      - mix-up
+      - in-fighting
   - 例句
-    - `A policeman was killed and scores of people were injured in the melee.`
-      - 混战中一名警察被打死，许多人受伤。
-
+    - A policeman was killed and scores of people were injured in the melee. 混战中一名警察被打死，许多人受伤。
+  - 补充

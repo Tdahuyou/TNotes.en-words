@@ -1,34 +1,21 @@
 - scalding
   - 发音
-    - 英
-      - `/'skɔːldɪŋ/`
-    - 美
-      - `/'skɔldɪŋ/`
+    - 英 /'skɔːldɪŋ/
+    - 美 /'skɔldɪŋ/
   - 词义
-    - adj&adv.
-      - 滚烫的
-        - `extremely hot`
+    - adj&adv. 滚烫的
+      - extremely hot
   - 同根词
-    - n.
-      - `scald`
-        - 烫伤；烫洗
-    - vi.
-      - `scald`
-        - 烫伤；烫洗；煮沸
-    - vt.
-      - `scald`
-        - 烫伤；烫洗；加热；晒焦
+    - n. scald 烫伤；烫洗
+    - vi. scald 烫伤；烫洗；煮沸
+    - vt. scald 烫伤；烫洗；加热；晒焦
   - 近义词
-    - adj.
-      - 滚烫的；尖刻的
-        - `bitter`
-        - `trenchant`
-    - n.
-      - [外科]烫伤
-        - `empyrosis`
+    - adj. 滚烫的；尖刻的
+      - bitter
+      - trenchant
+    - n. [外科]烫伤
+      - empyrosis
   - 例句
-    - `a bowl of scalding water`
-      - 一碗滚烫的水
-    - `a cup of scalding hot tea`
-      - 一杯滚烫的茶
-
+    - a bowl of scalding water 一碗滚烫的水
+    - a cup of scalding hot tea 一杯滚烫的茶
+  - 补充

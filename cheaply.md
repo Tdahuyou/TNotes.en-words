@@ -1,27 +1,16 @@
 - cheaply
   - 发音
-    - 英
-      - `/undefined/`
-    - 美
-      - `/undefined/`
+    - 英 /undefined/
+    - 美 /undefined/
   - 词义
-    - adv.
-      - 廉价地；粗俗地
+    - adv. 廉价地；粗俗地
   - 同根词
-    - adj.
-      - `cheap`
-        - 便宜的；小气的；不值钱的
-    - adv.
-      - `cheap`
-        - 便宜地
-    - n.
-      - `cheapness`
-        - 廉价
+    - adj. cheap 便宜的；小气的；不值钱的
+    - adv. cheap 便宜地
+    - n. cheapness 廉价
   - 近义词
-    - adv.
-      - 便宜地；廉价地
-        - `inexpensively`
+    - adv. 便宜地；廉价地
+      - inexpensively
   - 例句
-    - `When you have your simplified core concept ready, then build that core concept very quickly and cheaply.`
-      - 如果你已经将核心概念简化，那么非常快速并且廉价地构建这一概念。
-
+    - When you have your simplified core concept ready, then build that core concept very quickly and cheaply. 如果你已经将核心概念简化，那么非常快速并且廉价地构建这一概念。
+  - 补充

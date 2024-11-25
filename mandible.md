@@ -1,19 +1,14 @@
 - mandible
   - 发音
-    - 英
-      - `/'mændɪb(ə)l/`
-    - 美
-      - `/'mændɪbl/`
+    - 英 /'mændɪb(ə)l/
+    - 美 /'mændɪbl/
   - 词义
-    - n.
-      - 下颚,下颚骨
-        - `the part of an insect’s mouth that it uses for eating`
+    - n. 下颚,下颚骨
+      - the part of an insect’s mouth that it uses for eating
   - 同根词
-    - adj.
-      - `mandibular`
-        - 下颌的；颚的
+    - adj. mandibular 下颌的；颚的
   - 近义词
-    - n.
-      - [解剖]下颌骨；[昆]上颚，嘴的上部
-        - `mandibular bone`
-        - `submaxilla`
+    - n. [解剖]下颌骨；[昆]上颚，嘴的上部
+      - mandibular bone
+      - submaxilla
+  - 补充

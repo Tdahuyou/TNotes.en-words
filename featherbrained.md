@@ -1,15 +1,12 @@
 - featherbrained
   - 发音
-    - 英
-      - `/undefined/`
-    - 美
-      - `/undefined/`
+    - 英 /undefined/
+    - 美 /undefined/
   - 词义
-    - adj.
-      - 轻浮的；愚蠢的
-        - `extremely silly`
+    - adj. 轻浮的；愚蠢的
+      - extremely silly
   - 近义词
-    - adj.
-      - 轻浮的；愚蠢的
-        - `foolish`
-        - `stupid`
+    - adj. 轻浮的；愚蠢的
+      - foolish
+      - stupid
+  - 补充

@@ -1,52 +1,28 @@
 - modernity
   - 发音
-    - 英
-      - `/mə'dɜːrnəti/`
-    - 美
-      - `/mə'dɝnəti/`
+    - 英 /mə'dɜːrnəti/
+    - 美 /mə'dɝnəti/
   - 词义
-    - n.
-      - 现代性
-        - `the quality of being modern`
+    - n. 现代性
+      - the quality of being modern
   - 同根词
-    - adj.
-      - `modern`
-        - 现代的，近代的；时髦的
-      - `modernist`
-        - 现代主义的
-      - `modernized`
-        - 现代化的
-      - `modernistic`
-        - 现代的，现代化的；现代派的，现代主义的
-    - n.
-      - `modern`
-        - 现代人；有思想的人
-      - `modernization`
-        - 现代化
-      - `modernism`
-        - 现代主义；现代思想；现代作风
-      - `modernisation`
-        - 现代化（等于modernization）
-      - `modernist`
-        - 现代主义者；现代主义艺术家
-    - v.
-      - `modernized`
-        - 使现代化（modernize的过去分词）
-    - vi.
-      - `modernize`
-        - 现代化
-      - `modernise`
-        - 现代化（等于modernize）
-    - vt.
-      - `modernize`
-        - 使…现代化
-      - `modernise`
-        - 使…现代化（等于modernize）
+    - adj. modern 现代的，近代的；时髦的
+    - adj. modernist 现代主义的
+    - adj. modernized 现代化的
+    - adj. modernistic 现代的，现代化的；现代派的，现代主义的
+    - n. modern 现代人；有思想的人
+    - n. modernization 现代化
+    - n. modernism 现代主义；现代思想；现代作风
+    - n. modernisation 现代化（等于modernization）
+    - n. modernist 现代主义者；现代主义艺术家
+    - v. modernized 使现代化（modernize的过去分词）
+    - vi. modernize 现代化
+    - vi. modernise 现代化（等于modernize）
+    - vt. modernize 使…现代化
+    - vt. modernise 使…现代化（等于modernize）
   - 近义词
-    - n.
-      - 现代性；现代的东西；新式
-        - `stylishness`
+    - n. 现代性；现代的东西；新式
+      - stylishness
   - 例句
-    - `a conflict between tradition and modernity`
-      - 传统与现代的冲突
-
+    - a conflict between tradition and modernity 传统与现代的冲突
+  - 补充

@@ -1,40 +1,25 @@
 - tangled
   - 发音
-    - 英
-      - `/'tæŋɡld/`
-    - 美
-      - `/'tæŋgld/`
+    - 英 /'tæŋɡld/
+    - 美 /'tæŋgld/
   - 词义
-    - adj.
-      - 纠缠的；复杂的
-        - `twisted together in an untidy mass`
+    - adj. 复杂的，纠缠的
+      - twisted together in an untidy mass
   - 记忆
     - 俩人纠缠(tangle)在一起跳探戈(tango)
   - 同根词
-    - n.
-      - `tangle`
-        - 纠纷；混乱状态
-    - vi.
-      - `tangle`
-        - 缠结；乱作一团
-    - vt.
-      - `tangle`
-        - 使纠缠；处于混乱状态
+    - n. tangle 纠纷；混乱状态
+    - vi. tangle 缠结；乱作一团
+    - vt. tangle 使纠缠；处于混乱状态
   - 近义词
-    - adj.
-      - 紊乱的；纠缠的；缠结的；复杂的
-        - `complicated`
-        - `involved`
-        - `detailed`
-        - `sophisticated`
+    - adj. 紊乱的；纠缠的；缠结的；复杂的
+      - complicated
+      - involved
+      - detailed
+      - sophisticated
   - 短语
-    - `tangle with`
-      - 与…吵架，争吵；与…争论；与…有纠葛 
+    - tangle with 与…吵架，争吵；与…争论；与…有纠葛
   - 例句
-    - `Your bedclothes are all tangled up.`
-      - 你的床褥乱糟糟的。
-    - `He had hair like tangled string.`
-      - 他的头发就像一团乱麻。
-    - `the tangled web of local politics`
-      - 地方政坛错综复杂的关系网
-
+    - Your bedclothes are all tangled up. 你的床褥乱糟糟的。
+    - He had hair like tangled string. 他的头发就像一团乱麻。
+  - 补充

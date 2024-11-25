@@ -1,19 +1,14 @@
 - moustache
   - 发音
-    - 英
-      - `/mə'stɑːʃ/`
-    - 美
-      - `/mə'stɑʃ/`
+    - 英 /mə'stɑːʃ/
+    - 美 /mə'stɑʃ/
   - 词义
-    - n.
-      - 小胡子
-        - `hair that grows on a man’s upper lip`
+    - n. 小胡子
+      - hair that grows on a man’s upper lip
   - 近义词
-    - n.
-      - 小胡子；髭；触须
-        - `antenna`
-        - `taz`
+    - n. 小胡子；髭；触须
+      - antenna
+      - taz
   - 例句
-    - `He’s shaved off his moustache.`
-      - 他剃去了小胡子。
-
+    - He’s shaved off his moustache. 他剃去了小胡子。
+  - 补充

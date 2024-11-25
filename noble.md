@@ -1,48 +1,31 @@
 - noble
   - 发音
-    - 英
-      - `/'nəʊb(ə)l/`
-    - 美
-      - `/'nobl/`
+    - 英 /'nəʊb(ə)l/
+    - 美 /'nobl/
   - 词义
-    - adj.
-      - 高尚的,贵族的
-        - `morally good or generous in a way that is admired`
+    - adj. 高尚的,贵族的
+      - morally good or generous in a way that is admired
   - 同根词
-    - adv.
-      - `nobly`
-        - 崇高地；高贵地；华丽地；豪爽地
-    - n.
-      - `nobility`
-        - 贵族；高贵；高尚
-      - `nobleness`
-        - 高贵；高尚；高洁
+    - adv. nobly 崇高地；高贵地；华丽地；豪爽地
+    - n. nobility 贵族；高贵；高尚
+    - n. nobleness 高贵；高尚；高洁
   - 近义词
-    - adj.
-      - 高尚的；贵族的；惰性的；宏伟的
-        - `magnificent`
-        - `grand`
-    - n.
-      - 贵族
-        - `prince`
-        - `nobility`
-        - `aristocrat`
-    - vt.
-      - 抓住；逮捕
-        - `grasp`
-        - `collar`
+    - adj. 高尚的；贵族的；惰性的；宏伟的
+      - magnificent
+      - grand
+    - n. 贵族
+      - prince
+      - nobility
+      - aristocrat
+    - vt. 抓住；逮捕
+      - grasp
+      - collar
   - 短语
-    - `noble metal`
-      - 贵金属 
-    - `noble gas`
-      - 惰性气体（等于inert gas） 
-    - `of noble birth`
-      - 贵族出身 
-    - `noble group`
-      - 来宝集团；诺布尔集团 
+    - noble metal 贵金属
+    - noble gas 惰性气体（等于inert gas）
+    - of noble birth 贵族出身
+    - noble group 来宝集团；诺布尔集团
   - 例句
-    - `It’s very noble of you to spend all your weekends helping the old folk.`
-      - 你心地真好，周末的时间全都用来帮助老人。
-    - `noble ideals`
-      - 崇高的理想
-
+    - It’s very noble of you to spend all your weekends helping the old folk. 你心地真好，周末的时间全都用来帮助老人。
+    - noble ideals 崇高的理想
+  - 补充

@@ -1,40 +1,24 @@
 - litigious
   - 发音
-    - 英
-      - `/li'tidʒəs/`
-    - 美
-      - `/lɪ'tɪdʒəs/`
+    - 英 /li'tidʒəs/
+    - 美 /lɪ'tɪdʒəs/
   - 词义
-    - adj.
-      - 好诉讼的；好争论的
-        - `very willing to take disagreements to a court of law – often used to show disapproval`
+    - adj. 好诉讼的；好争论的
+      - very willing to take disagreements to a court of law – often used to show disapproval
   - 记忆
     - litig (打官司) + ous → 好诉讼的
   - 同根词
-    - adj.
-      - `litigant`
-        - 诉讼的
-    - n.
-      - `litigation`
-        - 诉讼；起诉
-      - `litigant`
-        - 诉讼当事人
-      - `litigator`
-        - 诉讼律师；诉讼人
-      - `litigiousness`
-        - 好讼
-    - vi.
-      - `litigate`
-        - 对簿法庭
-    - vt.
-      - `litigate`
-        - 在法庭相争；提出诉讼
+    - adj. litigant 诉讼的
+    - n. litigation 诉讼；起诉
+    - n. litigant 诉讼当事人
+    - n. litigator 诉讼律师；诉讼人
+    - n. litigiousness 好讼
+    - vi. litigate 对簿法庭
+    - vt. litigate 在法庭相争；提出诉讼
   - 近义词
-    - adj.
-      - 好诉讼的；好争论的
-        - `disputative`
-        - `quarrelsome`
+    - adj. 好诉讼的；好争论的
+      - disputative
+      - quarrelsome
   - 例句
-    - `a litigious society`
-      - 一个动辄打官司的社会
-
+    - a litigious society 一个动辄打官司的社会
+  - 补充

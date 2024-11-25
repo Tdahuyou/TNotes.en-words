@@ -1,31 +1,22 @@
 - cumber
   - 发音
-    - 英
-      - `/'kʌmbər/`
-    - 美
-      - `/'kʌmbɚ/`
+    - 英 /'kʌmbər/
+    - 美 /'kʌmbɚ/
   - 词义
-    - v.
-      - 拖累，妨碍
-        - `to obstruct or hinder `
+    - v. 拖累，妨碍
+      - to obstruct or hinder 
   - 记忆
     - cumb(睡) + er → 睡在(路上) → 拖累， 妨碍
   - 同根词
-    - adj.
-      - `cumbersome`
-        - 笨重的；累赘的；难处理的
-      - `cumbrous`
-        - 累赘的，成负担的；讨厌的
+    - adj. cumbersome 笨重的；累赘的；难处理的
+    - adj. cumbrous 累赘的，成负担的；讨厌的
   - 近义词
-    - vt.
-      - 阻碍，妨害；使受苦
-        - `slow`
-        - `incumber`
-    - n.
-      - 拖累，累赘；妨害
-        - `drag`
-        - `encumbrance`
+    - vt. 阻碍，妨害；使受苦
+      - slow
+      - incumber
+    - n. 拖累，累赘；妨害
+      - drag
+      - encumbrance
   - 例句
-    - `High requirement for developer's technique and long time for training extremely cumber the popularization and evolution of HLA-based simulation development.`
-      - 这极大的妨碍了基于HLA的分布交互式仿真开发的普及和发展。
-
+    - High requirement for developer's technique and long time for training extremely cumber the popularization and evolution of HLA-based simulation development. 这极大的妨碍了基于HLA的分布交互式仿真开发的普及和发展。
+  - 补充

@@ -1,56 +1,30 @@
 - offense
   - 发音
-    - 英
-      - `/ə'fens/`
-    - 美
-      - `/ə'fɛns/`
+    - 英 /ə'fens/
+    - 美 /ə'fɛns/
   - 词义
-    - n.
-      - 进攻
+    - n. 进攻
   - 同根词
-    - adj.
-      - `offensive`
-        - 攻击的；冒犯的；无礼的；讨厌的
-      - `offending`
-        - 不愉快的；厌恶的
-      - `offenseless`
-        - 无攻击力的；不惹人的
-    - adv.
-      - `offensively`
-        - 冒犯地；讨厌地
-    - n.
-      - `offensive`
-        - 攻势；攻击
-      - `offence`
-        - 犯罪；违反；过错；攻击
-      - `offender`
-        - 罪犯；冒犯者；违法者
-      - `offensiveness`
-        - 冒犯；令人讨厌；进攻
-    - v.
-      - `offending`
-        - 冒犯（offend的ing形式）
-    - vi.
-      - `offend`
-        - 违反；进攻；引起不舒服
-    - vt.
-      - `offend`
-        - 冒犯；使…不愉快
+    - adj. offensive 攻击的；冒犯的；无礼的；讨厌的
+    - adj. offending 不愉快的；厌恶的
+    - adj. offenseless 无攻击力的；不惹人的
+    - adv. offensively 冒犯地；讨厌地
+    - n. offensive 攻势；攻击
+    - n. offence 犯罪；违反；过错；攻击
+    - n. offender 罪犯；冒犯者；违法者
+    - n. offensiveness 冒犯；令人讨厌；进攻
+    - v. offending 冒犯（offend的ing形式）
+    - vi. offend 违反；进攻；引起不舒服
+    - vt. offend 冒犯；使…不愉快
   - 近义词
-    - n.
-      - 犯罪，过错；进攻；触怒；引起反感的事物
-        - `crime`
-        - `guilt`
+    - n. 犯罪，过错；进攻；触怒；引起反感的事物
+      - crime
+      - guilt
   - 短语
-    - `no offense`
-      - 无意冒犯；请勿见怪 
-    - `criminal offense`
-      - 犯罪行为，犯罪；刑事犯罪 
-    - `take offense`
-      - 生气 
-    - `offense and defense`
-      - 攻与守 
+    - no offense 无意冒犯；请勿见怪
+    - criminal offense 犯罪行为，犯罪；刑事犯罪
+    - take offense 生气
+    - offense and defense 攻与守
   - 例句
-    - `The Bears are going to have to work on their offense this season.`
-      - 本赛季熊队必须要加强进攻了。
-
+    - The Bears are going to have to work on their offense this season. 本赛季熊队必须要加强进攻了。
+  - 补充

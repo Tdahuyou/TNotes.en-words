@@ -1,36 +1,22 @@
 - tumid
   - 发音
-    - 英
-      - `/'tjuːmɪd/`
-    - 美
-      - `/'tju:mid/`
+    - 英 /'tjuːmɪd/
+    - 美 /'tju:mid/
   - 词义
-    - adj.
-      - 肿起的，肿胀的
-        - `(of an organ or part) enlarged or swollen `
+    - adj. 肿起的，肿胀的
+      - (of an organ or part) enlarged or swollen 
   - 记忆
     - tum(肿)+id → 肿起的， 肿胀的
   - 同根词
-    - adj.
-      - `tumescent`
-        - 肿起的；稍许肿胀的
-    - n.
-      - `tumefaction`
-        - 肿胀，肿大
-      - `tumescence`
-        - 肿大，肿胀；[临床] 肿大部分
-      - `tumidity`
-        - 肿胀；肿大
-      - `tumidness`
-        - 肿胀；突出
-    - vi.
-      - `tumefy`
-        - 肿胀
-    - vt.
-      - `tumefy`
-        - 使肿胀
+    - adj. tumescent 肿起的；稍许肿胀的
+    - n. tumefaction 肿胀，肿大
+    - n. tumescence 肿大，肿胀；[临床] 肿大部分
+    - n. tumidity 肿胀；肿大
+    - n. tumidness 肿胀；突出
+    - vi. tumefy 肿胀
+    - vt. tumefy 使肿胀
   - 近义词
-    - adj.
-      - [临床]肿胀的；浮夸的
-        - `swollen`
-        - `turgid`
+    - adj. [临床]肿胀的；浮夸的
+      - swollen
+      - turgid
+  - 补充

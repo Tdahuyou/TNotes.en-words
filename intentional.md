@@ -1,27 +1,19 @@
 - intentional
   - 发音
-    - 英
-      - `/ɪn'tenʃ(ə)n(ə)l/`
-    - 美
-      - `/ɪn'tɛnʃənl/`
+    - 英 /ɪn'tenʃ(ə)n(ə)l/
+    - 美 /ɪn'tɛnʃənl/
   - 词义
-    - adj.
-      - 故意的,策划的
-        - `done deliberately and usually intended to cause harm`
+    - adj. 故意的,策划的
+      - done deliberately and usually intended to cause harm
   - 近义词
-    - adj.
-      - 故意的；蓄意的；策划的
-        - `studied`
-        - `designed`
-        - `conscious`
+    - adj. 故意的；蓄意的；策划的
+      - studied
+      - designed
+      - conscious
   - 短语
-    - `intentional crime`
-      - 故意犯罪 
-    - `intentional injury`
-      - 故意伤害 
-    - `intentional act`
-      - 故意行为 
+    - intentional crime 故意犯罪
+    - intentional injury 故意伤害
+    - intentional act 故意行为
   - 例句
-    - `I did trip him, but it wasn’t intentional.`
-      - 我的确把他绊倒了，但不是故意的。
-
+    - I did trip him, but it wasn’t intentional. 我的确把他绊倒了，但不是故意的。
+  - 补充

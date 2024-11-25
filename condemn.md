@@ -1,33 +1,20 @@
 - condemn
   - 发音
-    - 英
-      - `/kən'dem/`
-    - 美
-      - `/kən'dɛm/`
+    - 英 /kən'dem/
+    - 美 /kən'dɛm/
   - 词义
-    - v.
-      - 判刑,谴责
-        - `to say very strongly that you do not approve of something or someone, especially because you think it is morally wrong`
+    - v. 判刑,谴责
+      - to say very strongly that you do not approve of something or someone, especially because you think it is morally wrong
   - 同根词
-    - adj.
-      - `condemnatory`
-        - 处罚的；非难的；定罪的
-      - `condemnable`
-        - 该受责备的，应受谴责的；该罚的；应定罪的，该定罪的
-    - n.
-      - `condemnation`
-        - 谴责；定罪；非难的理由；征用
-      - `condemning`
-        - 谴责；处刑
-    - v.
-      - `condemning`
-        - 谴责（condemn的现在分词）
+    - adj. condemnatory 处罚的；非难的；定罪的
+    - adj. condemnable 该受责备的，应受谴责的；该罚的；应定罪的，该定罪的
+    - n. condemnation 谴责；定罪；非难的理由；征用
+    - n. condemning 谴责；处刑
+    - v. condemning 谴责（condemn的现在分词）
   - 近义词
-    - vt.
-      - 谴责；判刑，定罪；声讨
-        - `denounce`
-        - `deplore`
+    - vt. 谴责；判刑，定罪；声讨
+      - denounce
+      - deplore
   - 例句
-    - `Politicians were quick to condemn the bombing.`
-      - 政治家们立即对爆炸事件进行了谴责。
-
+    - Politicians were quick to condemn the bombing. 政治家们立即对爆炸事件进行了谴责。
+  - 补充

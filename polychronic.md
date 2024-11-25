@@ -1,9 +1,7 @@
 - polychronic
   - 发音
-    - 英
-      - `/undefined/`
-    - 美
-      - `/undefined/`
+    - 英 /undefined/
+    - 美 /undefined/
   - 词义
-    - adj.
-      - 多次的=multiple
+    - adj. 多次的=multiple
+  - 补充

@@ -1,31 +1,24 @@
 - recipient
   - 发音
-    - 英
-      - `/rɪ'sɪpiənt/`
-    - 美
-      - `/rɪ'sɪpɪənt/`
+    - 英 /rɪ'sɪpiənt/
+    - 美 /rɪ'sɪpɪənt/
   - 词义
-    - n.
-      - 接受者，收受者
-        - `someone who receives something`
+    - n. 接受者，收受者
+      - someone who receives something
   - 记忆
     - re(反) + cip(拿， 取) + ient → 不主动拿的人 → 接受者
   - 近义词
-    - n.
-      - [包装]容器，[通信]接受者；容纳者
-        - `container`
-        - `vessel`
-        - `receiver`
-        - `pocket`
-        - `bin`
-    - adj.
-      - 容易接受的，感受性强的
-        - `acceptant`
-        - `susceptive`
+    - n. [包装]容器，[通信]接受者；容纳者
+      - container
+      - vessel
+      - receiver
+      - pocket
+      - bin
+    - adj. 容易接受的，感受性强的
+      - acceptant
+      - susceptive
   - 短语
-    - `intended recipient`
-      - 接收者 
+    - intended recipient 接收者
   - 例句
-    - `...the largest recipient of U.S. foreign aid.`
-      - …最大的美国对外援助接受方。
-
+    - ...the largest recipient of U.S. foreign aid. …最大的美国对外援助接受方。
+  - 补充

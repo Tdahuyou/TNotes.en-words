@@ -1,33 +1,21 @@
 - slouch
   - 发音
-    - 英
-      - `/slaʊtʃ/`
-    - 美
-      - `/slaʊtʃ/`
+    - 英 /slaʊtʃ/
+    - 美 /slaʊtʃ/
   - 词义
-    - n.
-      - 下垂；笨拙的人，懒散的人；懒散的样子
-    - v.
-      - 没精打采地站；耷拉
-        - `to stand, sit, or walk with a slouch`
+    - n. 下垂；笨拙的人，懒散的人；懒散的样子
+    - v. 没精打采地站；耷拉
+      - to stand, sit, or walk with a slouch
   - 同根词
-    - adj.
-      - `slouching`
-        - 懒散的；没精打采的
-      - `slouchy`
-        - 懒散的；没精打采的
-    - v.
-      - `slouching`
-        - 没精打采地坐着；使低垂（slouch的ing形式）
+    - adj. slouching 懒散的；没精打采的
+    - adj. slouchy 懒散的；没精打采的
+    - v. slouching 没精打采地坐着；使低垂（slouch的ing形式）
   - 近义词
-    - n.
-      - 下垂；笨拙的人，懒散的人；懒散的样子
-        - `ptosis`
-        - `sagging`
-    - vt.
-      - 使下垂
-        - `sag`
+    - n. 下垂；笨拙的人，懒散的人；懒散的样子
+      - ptosis
+      - sagging
+    - vt. 使下垂
+      - sag
   - 例句
-    - `Try not to slouch when you are sitting down.`
-      - 你坐下时尽量不要无精打采。
-
+    - Try not to slouch when you are sitting down. 你坐下时尽量不要无精打采。
+  - 补充

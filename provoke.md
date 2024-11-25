@@ -1,36 +1,23 @@
 - provoke
   - 发音
-    - 英
-      - `/prə'vouk/`
-    - 美
-      - `/prə'vok/`
+    - 英 /prə'vouk/
+    - 美 /prə'vok/
   - 词义
-    - vt.
-      - 挑动，激怒，挑衅；引发，引起
-        - `to cause a reaction or feeling, especially a sudden one`
+    - vt. 挑动，激怒，挑衅；引发，引起
+      - to cause a reaction or feeling, especially a sudden one
   - 记忆
     - pro(向前) + vok(叫喊) + e → 向前叫喊 → 挑动， 激怒
   - 同根词
-    - adj.
-      - `provoking`
-        - 刺激的；令人生气的，激怒人的
-      - `provoked`
-        - 被激怒的；受到挑衅的
-    - n.
-      - `provocation`
-        - 挑衅；激怒；挑拨
-    - v.
-      - `provoking`
-        - 激怒；挑拨；诱发（provoke的ing形式）
-      - `provoked`
-        - 激起；挑衅（provoke的过去分词）
+    - adj. provoking 刺激的；令人生气的，激怒人的
+    - adj. provoked 被激怒的；受到挑衅的
+    - n. provocation 挑衅；激怒；挑拨
+    - v. provoking 激怒；挑拨；诱发（provoke的ing形式）
+    - v. provoked 激起；挑衅（provoke的过去分词）
   - 近义词
-    - vt.
-      - 驱使；激怒；煽动；惹起
-        - `fan`
-        - `egg`
-        - `anger`
+    - vt. 驱使；激怒；煽动；惹起
+      - fan
+      - egg
+      - anger
   - 例句
-    - `The novel has provoked fierce debate in the US.`
-      - 那部小说在美国引发了激烈的争论。
-
+    - The novel has provoked fierce debate in the US. 那部小说在美国引发了激烈的争论。
+  - 补充

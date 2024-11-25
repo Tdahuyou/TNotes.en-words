@@ -1,22 +1,16 @@
 - cleavage
   - 发音
-    - 英
-      - `/'kliːvɪdʒ/`
-    - 美
-      - `/'klivɪdʒ/`
+    - 英 /'kliːvɪdʒ/
+    - 美 /'klivɪdʒ/
   - 词义
-    - n.
-      - 劈开，分裂；[晶体]解理；[胚]卵裂
-        - `a difference between two people or things that often causes problems or arguments`
+    - n. 劈开，分裂；[晶体]解理；[胚]卵裂
+      - a difference between two people or things that often causes problems or arguments
   - 同根词
-    - adj.
-      - `cleavable`
-        - 劈得开的，可分裂的
+    - adj. cleavable 劈得开的，可分裂的
   - 近义词
-    - n.
-      - 劈开，[口腔]分裂；[晶体]解理；[胚]卵裂
-        - `fragmentation`
-        - `disruption`
+    - n. 劈开，[口腔]分裂；[晶体]解理；[胚]卵裂
+      - fragmentation
+      - disruption
   - 短语
-    - `cleavage fracture`
-      - [物]解理断裂；可裂性破坏 
+    - cleavage fracture [物]解理断裂；可裂性破坏
+  - 补充

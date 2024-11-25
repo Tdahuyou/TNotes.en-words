@@ -1,39 +1,23 @@
 - demobilization
   - 发音
-    - 英
-      - `/undefined/`
-    - 美
-      - `/undefined/`
+    - 英 /dɪˌmoubələ'zeɪʃn/
+    - 美 /undefined/
   - 词义
-    - n.
-      - 复员；遣散（demobilize的名词）
+    - n. 遣散；复员
   - 记忆
     - 来自demobilize(v. 复员)， de + mobilize(动员) → 动员回家 → 复员
   - 同根词
-    - n.
-      - `demob`
-        - 复员；遣散
-      - `demobilisation`
-        - 出场，遣散
-    - vi.
-      - `demobilise`
-        - 遣散军队；实行复员（等于demobilize）
-    - vt.
-      - `demobilize`
-        - 遣散；使复员；使退伍（demobilise）
-      - `demob`
-        - 遣散；使复员
-      - `demobilise`
-        - 使…复员；遣散
+    - n. demob 复员；遣散
+    - n. demobilisation 出场，遣散
+    - vi. demobilise 遣散军队；实行复员（等于demobilize）
+    - vt. demobilize 遣散；使复员；使退伍（demobilise）
+    - vt. demob 遣散；使复员
+    - vt. demobilise 使…复员；遣散
   - 近义词
-    - n.
-      - 复员；遣散（demobilize的名词）
-        - `disbandment`
+    - n. 复员；遣散（demobilize的名词）
+      - disbandment
   - 例句
-    - `The government established a Commission in 2004 to oversee the demobilization and reintegration of child soldiers into civil society.`
-      - 布隆迪政府在2004年成立了一个委员会，负责监督少年兵遣散和帮助他们重新融入社会的问题。
-    - `Experience with demobilization and rehabilitation programs shows that young combatants can reconstruct their lives with job training and also medical and psychological support.`
-      - 复员和自新计划的经验表明，少年兵可以通过职业培训以及医疗和心理支持，重新构建他们的生活。
-    - `Other sources of extra-budgetary income include funds from the central government and local governments for defense mobilization preparations, conscription, and demobilization.`
-      - 其他预算外进项来源包括来自中央和地方用于防卫动员的准备工作、征兵以及复员安排的资金。
-
+    - Home visits when the meet again tears demobilization yes, yes right mother's thoughts. 探家复员时重逢的泪水是，是对母亲的思念。
+    - Experience with demobilization and rehabilitation programs shows that young combatants can reconstruct their lives with job training and also medical and psychological support. 复员和自新计划的经验表明，少年兵可以通过职业培训以及医疗和心理支持，重新构建他们的生活。
+    - Other sources of extra-budgetary income include funds from the central government and local governments for defense mobilization preparations, conscription, and demobilization. 其他预算外进项来源包括来自中央和地方用于防卫动员的准备工作、征兵以及复员安排的资金。
+  - 补充

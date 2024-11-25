@@ -1,35 +1,24 @@
 - legend
   - 发音
-    - 英
-      - `/'ledʒənd/`
-    - 美
-      - `/'lɛdʒənd/`
+    - 英 /'ledʒənd/
+    - 美 /'lɛdʒənd/
   - 词义
-    - n.
-      - 传奇故事，传说；传奇文学
-        - `an old, well-known story, often about brave people, adventures, or magical events`
+    - n. 传奇故事，传说；传奇文学
+      - an old, well-known story, often about brave people, adventures, or magical events
   - 记忆
     - leg(读) + end → 一直传读下来的 → 传奇故事， 传说
   - 同根词
-    - adj.
-      - `legendary`
-        - 传说的，传奇的
-    - n.
-      - `legendary`
-        - 传说集；圣徒传
+    - adj. legendary 传说的，传奇的
+    - n. legendary 传说集；圣徒传
   - 近义词
-    - n.
-      - 传奇；说明；[测]图例；刻印文字
-        - `explanation`
-        - `notes`
-        - `romance`
-        - `illustration`
+    - n. 传奇；说明；[测]图例；刻印文字
+      - explanation
+      - notes
+      - romance
+      - illustration
   - 短语
-    - `urban legend`
-      - n. 都市传奇，传闻 
-    - `legend group`
-      - n. 联想集团（现名为lenovo） 
+    - urban legend n. 都市传奇，传闻
+    - legend group n. 联想集团（现名为lenovo）
   - 例句
-    - `Local legend has it that (= says that ) the island was the original Garden of Eden.`
-      - 当地传说这个岛就是伊甸园的原型。
-
+    - Local legend has it that (= says that ) the island was the original Garden of Eden. 当地传说这个岛就是伊甸园的原型。
+  - 补充

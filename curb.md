@@ -1,41 +1,30 @@
 - curb
   - 发音
-    - 英
-      - `/kɜːb/`
-    - 美
-      - `/kɝb/`
+    - 英 /kɜːb/
+    - 美 /kɝb/
   - 词义
-    - n.
-      - 抑制；路边；勒马绳
-        - `an influence which helps to control or limit something`
-    - v.
-      - 控制；勒住
-        - `to control or limit something in order to prevent it from having a harmful effect`
+    - n. 抑制；路边；勒马绳
+      - an influence which helps to control or limit something
+    - v. 控制；勒住
+      - to control or limit something in order to prevent it from having a harmful effect
   - 同根词
-    - n.
-      - `curbing`
-        - 边石的材料；边石
+    - n. curbing 边石的材料；边石
   - 近义词
-    - n.
-      - 抑制；路边；勒马绳
-        - `checking`
-        - `control`
-        - `restraint`
-        - `suppression`
-        - `inhibition`
-    - vt.
-      - 控制；勒住
-        - `possess`
-        - `contain`
-        - `regulate`
-        - `bit`
-        - `bottle`
+    - n. 抑制；路边；勒马绳
+      - checking
+      - control
+      - restraint
+      - suppression
+      - inhibition
+    - vt. 控制；勒住
+      - possess
+      - contain
+      - regulate
+      - bit
+      - bottle
   - 短语
-    - `curb inflation`
-      - 抑制通货膨胀 
-    - `curb market`
-      - n. 场外交易市场；股票证券场外交易市场 
+    - curb inflation 抑制通货膨胀
+    - curb market n. 场外交易市场；股票证券场外交易市场
   - 例句
-    - `measures to curb the spread of the virus`
-      - 控制病毒扩散的措施
-
+    - measures to curb the spread of the virus 控制病毒扩散的措施
+  - 补充

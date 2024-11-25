@@ -1,32 +1,22 @@
 - conceal
   - 发音
-    - 英
-      - `/kən'siːl/`
-    - 美
-      - `/kən'sil/`
+    - 英 /kən'siːl/
+    - 美 /kən'sil/
   - 词义
-    - vt.
-      - 隐蔽；隐瞒；覆盖
-        - `to hide something carefully`
+    - vt. 隐蔽；隐瞒；覆盖
+      - to hide something carefully
   - 记忆
     - con + ceal(看做seal， 密封) → 密封起来 → 隐蔽； 隐瞒
   - 同根词
-    - n.
-      - `concealment`
-        - 隐藏，隐蔽；隐匿处
-      - `concealer`
-        - 遮瑕膏/遮瑕霜
+    - n. concealment 隐藏，隐蔽；隐匿处
+    - n. concealer 遮瑕膏/遮瑕霜
   - 近义词
-    - vt.
-      - 隐藏；隐瞒
-        - `lock`
-        - `pocket`
-        - `to hide`
+    - vt. 隐藏；隐瞒
+      - lock
+      - pocket
+      - to hide
   - 例句
-    - `The shadows concealed her as she crept up to the house.`
-      - 她借着阴影蹑手蹑脚地走向房子。
-    - `The path was concealed by long grass.`
-      - 小路隐藏在长长的草里。
-    - `a concealed weapon`
-      - 藏匿的武器
-
+    - The shadows concealed her as she crept up to the house. 她借着阴影蹑手蹑脚地走向房子。
+    - The path was concealed by long grass. 小路隐藏在长长的草里。
+    - a concealed weapon 藏匿的武器
+  - 补充

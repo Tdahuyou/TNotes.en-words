@@ -1,21 +1,16 @@
 - watercourse
   - 发音
-    - 英
-      - `/'wɔːtərkɔːrs/`
-    - 美
-      - `/'wɔtɚkɔrs/`
+    - 英 /'wɔːtərkɔːrs/
+    - 美 /'wɔtɚkɔrs/
   - 词义
-    - n.
-      - 水道，河道
-        - `a place where water flows, for example a river or canal`
+    - n. 水道，河道
+      - a place where water flows, for example a river or canal
   - 记忆
     - water(水) + course(路线) → 水道
   - 近义词
-    - n.
-      - 河道；水道
-        - `canal`
-        - `riverway`
+    - n. 河道；水道
+      - canal
+      - riverway
   - 例句
-    - `chemicals that pollute the local watercourse`
-      - 污染当地河道的化学品
-
+    - chemicals that pollute the local watercourse 污染当地河道的化学品
+  - 补充

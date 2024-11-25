@@ -1,33 +1,23 @@
 - ingenuous
   - 发音
-    - 英
-      - `/in'dʒenjuəs/`
-    - 美
-      - `/ɪn'dʒɛnjuəs/`
+    - 英 /in'dʒenjuəs/
+    - 美 /ɪn'dʒɛnjuəs/
   - 词义
-    - adj.
-      - 天真的，坦白的
-        - `an ingenuous person is simple, trusting, and honest, especially because they have not had much experience of life`
+    - adj. 天真的，坦白的
+      - an ingenuous person is simple, trusting, and honest, especially because they have not had much experience of life
   - 记忆
     - 来自拉丁语ingenuus， 意为“天真， 诚实”
   - 同根词
-    - adv.
-      - `ingenuously`
-        - 率直地；正直地
-    - n.
-      - `ingenue`
-        - 天真无邪的少女；扮演天真姑娘的女演员
-      - `ingenuousness`
-        - 率直；正直；老实
+    - adv. ingenuously 率直地；正直地
+    - n. ingenue 天真无邪的少女；扮演天真姑娘的女演员
+    - n. ingenuousness 率直；正直；老实
   - 近义词
-    - adj.
-      - 天真的；坦白的；正直的；朴实的
-        - `simple`
-        - `straight`
-        - `square`
-        - `just`
-        - `frank`
+    - adj. 天真的；坦白的；正直的；朴实的
+      - simple
+      - straight
+      - square
+      - just
+      - frank
   - 例句
-    - `He seemed too ingenuous for a reporter.`
-      - 他好像太天真诚实，不适合做记者。
-
+    - He seemed too ingenuous for a reporter. 他好像太天真诚实，不适合做记者。
+  - 补充

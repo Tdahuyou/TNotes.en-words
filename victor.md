@@ -1,25 +1,16 @@
 - Victor
   - 发音
-    - 英
-      - `/'vɪktə/`
-    - 美
-      - `/'vɪktɚ/`
+    - 英 /'vɪktə/
+    - 美 /'vɪktɚ/
   - 词义
   - 同根词
-    - adj.
-      - `victorious`
-        - 胜利的；凯旋的
-    - adv.
-      - `victoriously`
-        - 获胜地；凯旋归来地
-    - n.
-      - `victory`
-        - 胜利；成功；克服
+    - adj. victorious 胜利的；凯旋的
+    - adv. victoriously 获胜地；凯旋归来地
+    - n. victory 胜利；成功；克服
   - 近义词
-    - n.
-      - 胜利者
-        - `winner`
-        - `conqueror`
+    - n. 胜利者
+      - winner
+      - conqueror
   - 短语
-    - `victor hugo`
-      - 维克多雨果（法国小说家） 
+    - victor hugo 维克多雨果（法国小说家）
+  - 补充

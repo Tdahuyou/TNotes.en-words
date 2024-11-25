@@ -1,30 +1,22 @@
 - outlandish
   - 发音
-    - 英
-      - `/aut'lændiʃ/`
-    - 美
-      - `/aʊt'lændɪʃ/`
+    - 英 /aut'lændiʃ/
+    - 美 /aʊt'lændɪʃ/
   - 词义
-    - adj.
-      - 外国气派的；古怪的，奇异的
-        - `strange and unusual`
+    - adj. 外国气派的；古怪的，奇异的
+      - strange and unusual
   - 记忆
     - out (出) + land (国家) + ish → 走出国门观外国 → 外国气派的
   - 同根词
-    - adv.
-      - `outlandishly`
-        - 怪异地
+    - adv. outlandishly 怪异地
   - 近义词
-    - adj.
-      - 古怪的；奇异的；异国风格的；偏僻的
-        - `remote`
-        - `lonely`
-        - `funny`
-        - `odd`
-        - `fantastic`
+    - adj. 古怪的；奇异的；异国风格的；偏僻的
+      - remote
+      - lonely
+      - funny
+      - odd
+      - fantastic
   - 例句
-    - `outlandish clothes`
-      - 奇装异服
-    - `Her story seemed so outlandish.`
-      - 她的故事太不寻常了。
-
+    - outlandish clothes 奇装异服
+    - Her story seemed so outlandish. 她的故事太不寻常了。
+  - 补充

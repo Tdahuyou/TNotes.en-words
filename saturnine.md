@@ -1,26 +1,19 @@
 - saturnine
   - 发音
-    - 英
-      - `/'sætərnaɪn/`
-    - 美
-      - `/'sætə(:)nain/`
+    - 英 /'sætərnaɪn/
+    - 美 /'sætə(:)nain/
   - 词义
-    - adj.
-      - 忧郁的，阴沉的
-        - `looking sad and serious, especially in a threatening way`
+    - adj. 忧郁的，阴沉的
+      - looking sad and serious, especially in a threatening way
   - 记忆
     - 来自Saturn(n. 土星)
   - 同根词
-    - n.
-      - `saturnism`
-        - [内科] 铅中毒，铅毒
+    - n. saturnism [内科] 铅中毒，铅毒
   - 近义词
-    - adj.
-      - 忧郁的；阴沉的；铅中毒的；沉默寡言的
-        - `blue`
-        - `dark`
-        - `heavy`
+    - adj. 忧郁的；阴沉的；铅中毒的；沉默寡言的
+      - blue
+      - dark
+      - heavy
   - 例句
-    - `his lean saturnine face`
-      - 他那消瘦又忧郁的脸
-
+    - his lean saturnine face 他那消瘦又忧郁的脸
+  - 补充

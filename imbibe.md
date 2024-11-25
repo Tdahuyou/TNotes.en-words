@@ -1,30 +1,20 @@
 - imbibe
   - 发音
-    - 英
-      - `/ɪm'baɪb/`
-    - 美
-      - `/ɪm'baɪb/`
+    - 英 /ɪm'baɪb/
+    - 美 /ɪm'baɪb/
   - 词义
-    - v.
-      - 喝；吸收，接受
-        - `to drink something, especially alcohol – sometimes used humorously`
+    - v. 喝；吸收，接受
+      - to drink something, especially alcohol – sometimes used humorously
   - 记忆
     - im(里， 内) + bib(喝) + e → 喝进去 → 喝； 接受(信息等)
   - 同根词
-    - n.
-      - `imbibing`
-        - 吸液
-      - `imbibition`
-        - 吸入；吸取
-    - v.
-      - `imbibing`
-        - 吸入；吸取（imbibe的ing形式）
+    - n. imbibing 吸液
+    - n. imbibition 吸入；吸取
+    - v. imbibing 吸入；吸取（imbibe的ing形式）
   - 近义词
-    - vt.
-      - 吸收，接受；喝；吸入
-        - `absorb`
-        - `adopt`
+    - vt. 吸收，接受；喝；吸入
+      - absorb
+      - adopt
   - 例句
-    - `Both men imbibed considerable quantities of gin.`
-      - 这两个男人都喝了大量的杜松子酒。
-
+    - Both men imbibed considerable quantities of gin. 这两个男人都喝了大量的杜松子酒。
+  - 补充

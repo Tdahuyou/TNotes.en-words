@@ -1,15 +1,12 @@
 - gazelle
   - 发音
-    - 英
-      - `/gə'zel/`
-    - 美
-      - `/gə'zɛl/`
+    - 英 /gə'zel/
+    - 美 /gə'zɛl/
   - 词义
-    - n.
-      - 瞪羚,小羚羊
-        - `a type of small deer, which jumps very gracefully and has large beautiful eyes`
+    - n. 瞪羚,小羚羊
+      - a type of small deer, which jumps very gracefully and has large beautiful eyes
   - 近义词
-    - n.
-      - [脊椎]瞪羚；小羚羊
-        - `ariel`
-        - `duiker`
+    - n. [脊椎]瞪羚；小羚羊
+      - ariel
+      - duiker
+  - 补充

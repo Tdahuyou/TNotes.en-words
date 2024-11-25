@@ -1,16 +1,13 @@
 - grindstone
   - 发音
-    - 英
-      - `/'graɪn(d)stəʊn/`
-    - 美
-      - `/'ɡraɪndston/`
+    - 英 /'graɪn(d)stəʊn/
+    - 美 /'ɡraɪndston/
   - 词义
-    - n.
-      - 旋转磨石,旋转研磨机
+    - n. 旋转磨石,旋转研磨机
   - 近义词
-    - n.
-      - 磨石
-        - `whetstone`
-        - `burstone`
-        - `quernstone`
-        - `rubbingstone`
+    - n. 磨石
+      - whetstone
+      - burstone
+      - quernstone
+      - rubbingstone
+  - 补充

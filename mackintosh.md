@@ -1,10 +1,8 @@
 - mackintosh
   - 发音
-    - 英
-      - `/'mækɪntɒʃ/`
-    - 美
-      - `/undefined/`
+    - 英 /'mækɪntɒʃ/
+    - 美 /undefined/
   - 词义
-    - n.
-      - 橡皮布防水衣；橡皮布
-        - `a coat which you wear to keep out the rain`
+    - n. 橡皮布防水衣；橡皮布
+      - a coat which you wear to keep out the rain
+  - 补充

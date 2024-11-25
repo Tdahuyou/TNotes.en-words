@@ -1,20 +1,13 @@
 - synapsis
   - 发音
-    - 英
-      - `/sɪ'næpsɪs/`
-    - 美
-      - `/si'næpsis/`
+    - 英 /sɪ'næpsɪs/
+    - 美 /si'næpsis/
   - 词义
-    - n.
-      - [生]染色体结合,突触
+    - n. [生]染色体结合,突触
   - 同根词
-    - adj.
-      - `synaptic`
-        - 突触的；（染色体）联合的
-    - n.
-      - `synapse`
-        - 突触
+    - adj. synaptic 突触的；（染色体）联合的
+    - n. synapse 突触
   - 近义词
-    - n.
-      - 染色体结合，染色体联会；[解剖]突触
-        - `syndesis`
+    - n. 染色体结合，染色体联会；[解剖]突触
+      - syndesis
+  - 补充

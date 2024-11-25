@@ -1,38 +1,23 @@
 - boat
   - 发音
-    - 英
-      - `/bəʊt/`
-    - 美
-      - `/bot/`
+    - 英 /bəʊt/
+    - 美 /bot/
   - 词义
-    - n.
-      - 船
-        - `a vehicle that travels across water`
+    - n. 船
+      - a vehicle that travels across water
   - 同根词
-    - adj.
-      - `boating`
-        - 划船的
-    - n.
-      - `boating`
-        - 划船
-      - `boater`
-        - 硬草帽；乘船的人
-    - v.
-      - `boating`
-        - 划船（boat的ing形式）
+    - adj. boating 划船的
+    - n. boating 划船
+    - n. boater 硬草帽；乘船的人
+    - v. boating 划船（boat的ing形式）
   - 近义词
-    - n.
-      - 小船；轮船
-        - `tender`
-        - `barca`
-    - vi.
-      - 划船
-        - `to row`
+    - n. 小船；轮船
+      - tender
+      - barca
+    - vi. 划船
+      - to row
   - 例句
-    - `a fishing boat`
-      - 渔船
-    - `The boat capsized (=  turned over  ) in heavy seas.`
-      - 船在波涛汹涌的大海上倾覆了。
-    - `a boat trip around the islands`
-      - 乘船环岛旅行
-
+    - a fishing boat 渔船
+    - The boat capsized (=  turned over  ) in heavy seas. 船在波涛汹涌的大海上倾覆了。
+    - a boat trip around the islands 乘船环岛旅行
+  - 补充

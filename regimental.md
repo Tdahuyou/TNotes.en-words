@@ -1,30 +1,20 @@
 - regimental
   - 发音
-    - 英
-      - `/ˌredʒɪ'mentl/`
-    - 美
-      - `/,rɛdʒɪ'mɛntl/`
+    - 英 /ˌredʒɪ'mentl/
+    - 美 /,rɛdʒɪ'mɛntl/
   - 词义
-    - adj.
-      - 团的，团队的
-        - `Regimental means belonging to a particular regiment`
+    - adj. 团的，团队的
+      - Regimental means belonging to a particular regiment
   - 记忆
     - 来自regiment(n. 团； 大量)
   - 同根词
-    - n.
-      - `regiment`
-        - 团；大量
-      - `regimentation`
-        - 纪律；系统化；严格控制；团的编制
-    - vt.
-      - `regiment`
-        - 把…编成团；严格地管制
+    - n. regiment 团；大量
+    - n. regimentation 纪律；系统化；严格控制；团的编制
+    - vt. regiment 把…编成团；严格地管制
   - 近义词
-    - n.
-      - 团；军服
-        - `mass`
-        - `platoon`
+    - n. 团；军服
+      - mass
+      - platoon
   - 例句
-    - `Mills was regimental colonel.`
-      - 米尔斯曾是上校团长。
-
+    - Mills was regimental colonel. 米尔斯曾是上校团长。
+  - 补充

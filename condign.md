@@ -1,20 +1,17 @@
 - condign
   - 发音
-    - 英
-      - `/kən'daɪn/`
-    - 美
-      - `/kən'daɪn/`
+    - 英 /kən'daɪn/
+    - 美 /kən'daɪn/
   - 词义
-    - adj.
-      - 罪有应得的severeandwelldeserved)；适宜的
-        - `(esp of a punishment) fitting; deserved `
+    - adj. 罪有应得的severeandwelldeserved)；适宜的
+      - (esp of a punishment) fitting; deserved 
   - 记忆
     - con ＋ dign(高贵) → 惩罚罪行， 弘扬高贵 → 罪有应得的
   - 近义词
-    - adj.
-      - 相当的；应得的（尤指惩罚）；适宜的
-        - `corresponding`
-        - `comparative`
-        - `due`
-        - `just`
-        - `well`
+    - adj. 相当的；应得的（尤指惩罚）；适宜的
+      - corresponding
+      - comparative
+      - due
+      - just
+      - well
+  - 补充

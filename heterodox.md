@@ -1,21 +1,16 @@
 - heterodox
   - 发音
-    - 英
-      - `/'hetərədɔks/`
-    - 美
-      - `/'hɛtərə'dɑks/`
+    - 英 /'hetərədɔks/
+    - 美 /'hɛtərə'dɑks/
   - 词义
-    - adj.
-      - 异端的；非正统的
-        - `heterodox beliefs, practices etc are not approved of by a particular group, especially a religious one`
+    - adj. 异端的；非正统的
+      - heterodox beliefs, practices etc are not approved of by a particular group, especially a religious one
   - 记忆
     - hetero (异种) + dox (思想) → 异端 (思想) 的 → 异端的
   - 同根词
-    - n.
-      - `heterodoxy`
-        - 异端，异端邪说
+    - n. heterodoxy 异端，异端邪说
   - 近义词
-    - adj.
-      - 异端的；非正统的
-        - `unorthodox`
-        - `heretical`
+    - adj. 异端的；非正统的
+      - unorthodox
+      - heretical
+  - 补充

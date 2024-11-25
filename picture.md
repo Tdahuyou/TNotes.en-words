@@ -1,73 +1,45 @@
 - picture
   - 发音
-    - 英
-      - `/'pɪktʃə/`
-    - 美
-      - `/'pɪktʃɚ/`
+    - 英 /'pɪktʃə/
+    - 美 /'pɪktʃɚ/
   - 词义
-    - n.
-      - 图片；照片
-        - `a photograph`
+    - n. 图片；照片
+      - a photograph
   - 同根词
-    - adj.
-      - `picturesque`
-        - 独特的；生动的；别致的；图画般的
+    - adj. picturesque 独特的；生动的；别致的；图画般的
   - 近义词
-    - n.
-      - 照片，图画；影片；景色；化身
-        - `photo`
-        - `scenery`
-        - `drawing`
-        - `landscape`
-        - `prospect`
-    - vt.
-      - 画；想像；描写
-        - `draw`
-        - `imagine`
-        - `brush`
-        - `think of`
+    - n. 照片，图画；影片；景色；化身
+      - photo
+      - scenery
+      - drawing
+      - landscape
+      - prospect
+    - vt. 画；想像；描写
+      - draw
+      - imagine
+      - brush
+      - think of
   - 短语
-    - `in the picture`
-      - 在图中；在画中 
-    - `the picture of`
-      - 是…的化身；与…非常相像；十足…的样子 
-    - `picture something to oneself`
-      - 设想(或想像)某事 
-    - `take a picture`
-      - 照相；落井钻具顶部打模 
-    - `take pictures`
-      - 拍照；照相 
-    - `big picture`
-      - 大图像；重点；（事情的）主要部分；特种宽银幕电影 
-    - `get the picture`
-      - 了解情况 
-    - `motion picture`
-      - n. 电影 
-    - `picture frame`
-      - 相框；画框 
-    - `best picture`
-      - 最佳影片 
-    - `draw a picture`
-      - 画一张图；画幅画 
-    - `picture book`
-      - 图画书 
-    - `picture tube`
-      - （电视）显像管 
-    - `vivid picture`
-      - 逼真模式；栩栩如生的描写 
-    - `out of the picture`
-      - 不相干的；不合适；不在画面里的 
-    - `picture processing`
-      - 图像处理 
-    - `word picture`
-      - 文字图片；精彩生动的口头描述 
-    - `composition of a picture`
-      - 画面结构 
-    - `moving picture`
-      - 电影 
-    - `new year picture`
-      - 年画 
+    - in the picture 在图中；在画中
+    - the picture of 是…的化身；与…非常相像；十足…的样子
+    - picture something to oneself 设想(或想像)某事
+    - take a picture 照相；落井钻具顶部打模
+    - take pictures 拍照；照相
+    - big picture 大图像；重点；（事情的）主要部分；特种宽银幕电影
+    - get the picture 了解情况
+    - motion picture n. 电影
+    - picture frame 相框；画框
+    - best picture 最佳影片
+    - draw a picture 画一张图；画幅画
+    - picture book 图画书
+    - picture tube （电视）显像管
+    - vivid picture 逼真模式；栩栩如生的描写
+    - out of the picture 不相干的；不合适；不在画面里的
+    - picture processing 图像处理
+    - word picture 文字图片；精彩生动的口头描述
+    - composition of a picture 画面结构
+    - moving picture 电影
+    - new year picture 年画
   - 例句
-    - `...drawing a small picture with coloured chalk.`
-      - …用彩色粉笔画一幅小画。
-
+    - ...drawing a small picture with coloured chalk. …用彩色粉笔画一幅小画。
+  - 补充

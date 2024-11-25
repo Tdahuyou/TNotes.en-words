@@ -1,28 +1,19 @@
 - grandfather
   - 发音
-    - 英
-      - `/'græn(d)fɑːðə/`
-    - 美
-      - `/'græn'fɑðɚ/`
+    - 英 /'græn(d)fɑːðə/
+    - 美 /'græn'fɑðɚ/
   - 词义
-    - n.
-      - （外）祖父
-        - `the father of your father or mother`
+    - n. （外）祖父
+      - the father of your father or mother
   - 同根词
-    - n.
-      - `granddaddy`
-        - 祖父；外公；爷爷
+    - n. granddaddy 祖父；外公；爷爷
   - 近义词
-    - n.
-      - 祖父；始祖
-        - `ancestor`
-        - `primogenitor`
+    - n. 祖父；始祖
+      - ancestor
+      - primogenitor
   - 短语
-    - `grandfather clock`
-      - 落地式大摆钟 
-    - `maternal grandfather`
-      - 外公，外祖父 
+    - grandfather clock 落地式大摆钟
+    - maternal grandfather 外公，外祖父
   - 例句
-    - `His grandfather was a professor.`
-      - 他爷爷曾是位教授。
-
+    - His grandfather was a professor. 他爷爷曾是位教授。
+  - 补充

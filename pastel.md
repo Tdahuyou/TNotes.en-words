@@ -1,26 +1,19 @@
 - pastel
   - 发音
-    - 英
-      - `/pæ'stel/`
-    - 美
-      - `/pæ'stɛl/`
+    - 英 /pæ'stel/
+    - 美 /pæ'stɛl/
   - 词义
-    - adj.
-      - 彩色蜡笔的；柔和的
-        - `pastel colours are light and pale`
-    - n.
-      - 彩色蜡笔
-        - `a light colour such as pale blue or pink`
+    - adj. 彩色蜡笔的；柔和的
+      - pastel colours are light and pale
+    - n. 彩色蜡笔
+      - a light colour such as pale blue or pink
   - 记忆
     - past(生面团) + el → 用糊状物制作的粉笔 → 彩色蜡笔的
   - 近义词
-    - adj.
-      - 柔和的；彩色蜡笔的，粉蜡笔的
-        - `female`
-        - `delicate`
+    - adj. 柔和的；彩色蜡笔的，粉蜡笔的
+      - female
+      - delicate
   - 例句
-    - `pastel blue`
-      - 淡蓝色
-    - `The walls were painted in pastel shades.`
-      - 墙壁被粉刷成了柔和的色彩。
-
+    - pastel blue 淡蓝色
+    - The walls were painted in pastel shades. 墙壁被粉刷成了柔和的色彩。
+  - 补充

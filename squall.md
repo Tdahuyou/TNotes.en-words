@@ -1,33 +1,23 @@
 - squall
   - 发音
-    - 英
-      - `/skwɔːl/`
-    - 美
-      - `/skwɔl/`
+    - 英 /skwɔːl/
+    - 美 /skwɔl/
   - 词义
-    - v.
-      - 嚎啕；尖叫
-        - `If a person or animal squalls, they make a loud unpleasant noise like the noise made by a crying baby`
-    - n.
-      - 暴风；麻烦；高声哭喊；尖叫
-        - `a shrill or noisy yell or howl `
+    - v. 嚎啕；尖叫
+      - If a person or animal squalls, they make a loud unpleasant noise like the noise made by a crying baby
+    - n. 暴风；麻烦；高声哭喊；尖叫
+      - a shrill or noisy yell or howl 
   - 同根词
-    - adj.
-      - `squally`
-        - 多风波的；多狂风的；天气愈变愈坏的；可怕的
+    - adj. squally 多风波的；多狂风的；天气愈变愈坏的；可怕的
   - 近义词
-    - vi.
-      - 嚎啕；尖叫
-        - `pipe`
-        - `scream`
-    - n.
-      - 暴风；麻烦；高声哭喊；尖叫
-        - `trouble`
-        - `headache`
-        - `hurricane`
+    - vi. 嚎啕；尖叫
+      - pipe
+      - scream
+    - n. 暴风；麻烦；高声哭喊；尖叫
+      - trouble
+      - headache
+      - hurricane
   - 例句
-    - `There was an infant squalling in the back of the church.`
-      - 教堂的后面有个婴儿大声啼哭的声音。
-    - `...squalling guitars.`
-      - ...刺耳的吉他声。
-
+    - There was an infant squalling in the back of the church. 教堂的后面有个婴儿大声啼哭的声音。
+    - ...squalling guitars. ...刺耳的吉他声。
+  - 补充

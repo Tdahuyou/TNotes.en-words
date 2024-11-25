@@ -1,42 +1,26 @@
 - ripen
   - 发音
-    - 英
-      - `/'raɪpən/`
-    - 美
-      - `/'raɪpən/`
+    - 英 /'raɪpən/
+    - 美 /'raɪpən/
   - 词义
-    - v.
-      - 成熟
-        - `to become ripe or to make something ripe`
+    - v. 成熟
+      - to become ripe or to make something ripe
   - 记忆
     - 来自ripe(a. 熟的； 成熟的)
   - 同根词
-    - adj.
-      - `ripe`
-        - 熟的，成熟的；时机成熟的
-    - adv.
-      - `ripely`
-        - 圆通地；成熟地
-    - n.
-      - `ripeness`
-        - 成熟；老练；完成；圆通
-    - vi.
-      - `ripe`
-        - 进行搜查
-    - vt.
-      - `ripe`
-        - 搜查；调查
+    - adj. ripe 熟的，成熟的；时机成熟的
+    - adv. ripely 圆通地；成熟地
+    - n. ripeness 成熟；老练；完成；圆通
+    - vi. ripe 进行搜查
+    - vt. ripe 搜查；调查
   - 近义词
-    - vt.
-      - 使成熟
-        - `age`
-        - `mellow`
-    - vi.
-      - 成熟
-        - `age`
-        - `mature`
-        - `flower`
+    - vt. 使成熟
+      - age
+      - mellow
+    - vi. 成熟
+      - age
+      - mature
+      - flower
   - 例句
-    - `The apples were ripening on the trees.`
-      - 树上的苹果都熟了。
-
+    - The apples were ripening on the trees. 树上的苹果都熟了。
+  - 补充

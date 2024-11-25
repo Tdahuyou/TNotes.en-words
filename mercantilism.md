@@ -1,30 +1,19 @@
 - mercantilism
   - 发音
-    - 英
-      - `/'məːkəntiˌlizəm/`
-    - 美
-      - `/mɝ'kæntɪlɪzəm/`
+    - 英 /'məːkəntiˌlizəm/
+    - 美 /mɝ'kæntɪlɪzəm/
   - 词义
-    - n.
-      - 重商主义；营利主义；商人本性
-        - `a theory prevalent in Europe during the 17th and 18th centuries asserting that the wealth of a nation depends on its possession of precious metals and therefore that the government of a nation must maximize the foreign trade surplus, and foster national commercial interests, a merchant marine, the establishment of colonies, etc `
+    - n. 重商主义；营利主义；商人本性
+      - a theory prevalent in Europe during the 17th and 18th centuries asserting that the wealth of a nation depends on its possession of precious metals and therefore that the government of a nation must maximize the foreign trade surplus, and foster national commercial interests, a merchant marine, the establishment of colonies, etc 
   - 同根词
-    - adj.
-      - `merchant`
-        - 商业的，商人的
-      - `mercantile`
-        - 商业的；商人的；重商主义的
-    - n.
-      - `merchant`
-        - 商人，批发商；店主
-      - `merchandiser`
-        - 商人
-      - `mercantile`
-        - 商品
-      - `mercer`
-        - 绸缎商人；布商；呢绒布商
+    - adj. merchant 商业的，商人的
+    - adj. mercantile 商业的；商人的；重商主义的
+    - n. merchant 商人，批发商；店主
+    - n. merchandiser 商人
+    - n. mercantile 商品
+    - n. mercer 绸缎商人；布商；呢绒布商
   - 近义词
-    - n.
-      - 重商主义；商人本性；商业主义
-        - `mercantile system`
-        - `commercialism`
+    - n. 重商主义；商人本性；商业主义
+      - mercantile system
+      - commercialism
+  - 补充

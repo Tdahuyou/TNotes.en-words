@@ -1,25 +1,16 @@
 - enfranchisement
   - 发音
-    - 英
-      - `/undefined/`
-    - 美
-      - `/in'fræntʃizmənt/`
+    - 英 /ɪn'fræntʃaɪzmənt/
+    - 美 /in'fræntʃizmənt/
   - 词义
-    - n.
-      - 解放，释放
+    - n. 解放，释放
   - 记忆
     - 来自franchise(v. 解放； 给予权利)
   - 同根词
-    - vt.
-      - `enfranchise`
-        - 给予选举权；给予自治权；解放，释放
+    - vt. enfranchise 给予选举权；给予自治权；解放，释放
   - 近义词
-    - n.
-      - 解放，释放
-        - `liberation`
-        - `release`
-        - `emancipation`
-  - 例句
-    - `But, paradoxically, as democracy gets stronger and the middle class grows richer, it can realize it has more to lose than gain from a real enfranchisement of society.`
-      - 但矛盾的是，民主发展了，资产阶级也富裕了，他们却意识到从一个真正解放的社会里能失去的越来越多，能获取的越来越少。
-
+    - n. 解放，释放
+      - liberation
+      - release
+      - emancipation
+  - 补充

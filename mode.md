@@ -1,74 +1,43 @@
 - mode
   - 发音
-    - 英
-      - `/moud/`
-    - 美
-      - `/mod/`
+    - 英 /moud/
+    - 美 /mod/
   - 词义
-    - n.
-      - 方式，形式；风格；时尚
-        - `one of various systems of arranging notes in music, such as  major  and  minor  in Western music`
+    - n. 方式，形式；风格；时尚
+      - one of various systems of arranging notes in music, such as  major  and  minor  in Western music
   - 同根词
-    - adj.
-      - `modal`
-        - 模式的；情态的；形式的
-      - `modish`
-        - 流行的；时髦的
-    - n.
-      - `modal`
-        - 莫代尔（一种新型纤维素纤维）
-      - `modality`
-        - 形式，形态；程序；物理疗法；主要的感觉
+    - adj. modal 模式的；情态的；形式的
+    - adj. modish 流行的；时髦的
+    - n. modal 莫代尔（一种新型纤维素纤维）
+    - n. modality 形式，形态；程序；物理疗法；主要的感觉
   - 近义词
-    - n.
-      - 模式；方式；风格；时尚
-        - `way of`
-        - `manner`
-        - `pattern`
-        - `fashion`
-        - `style`
+    - n. 模式；方式；风格；时尚
+      - way of
+      - manner
+      - pattern
+      - fashion
+      - style
   - 短语
-    - `operation mode`
-      - 操作方式 
-    - `control mode`
-      - 控制方式；调节状态 
-    - `mode of operation`
-      - 操作方式；运行方式 
-    - `operating mode`
-      - 操作模式；工作模式 
-    - `mode of thinking`
-      - 思维方式；思考模式 
-    - `failure mode`
-      - 失效模式；故障模型 
-    - `service mode`
-      - 服务方式；预检方式 
-    - `mode control`
-      - [计]模式控制，模态控制 
-    - `mode of production`
-      - 生产方式 
-    - `single mode`
-      - 单模 
-    - `run mode`
-      - 运行方式；运行模式；执行方式 
-    - `vibration mode`
-      - 振型；振动模；振动方式 
-    - `safe mode`
-      - 安全模式 
-    - `empirical mode`
-      - 经验模式；经验众数 
-    - `operational mode`
-      - 运作模式 
-    - `mode selection`
-      - 方式选择；[电]模态选择 
-    - `basic mode`
-      - 基本方式；基模 
-    - `communication mode`
-      - 通信方式；通讯模式 
-    - `system mode`
-      - 系统模式，系统方式；系统状态 
-    - `normal mode`
-      - 正常模式；标准振荡方式；自然振荡；固有状态 
+    - operation mode 操作方式
+    - control mode 控制方式；调节状态
+    - mode of operation 操作方式；运行方式
+    - operating mode 操作模式；工作模式
+    - mode of thinking 思维方式；思考模式
+    - failure mode 失效模式；故障模型
+    - service mode 服务方式；预检方式
+    - mode control [计]模式控制，模态控制
+    - mode of production 生产方式
+    - single mode 单模
+    - run mode 运行方式；运行模式；执行方式
+    - vibration mode 振型；振动模；振动方式
+    - safe mode 安全模式
+    - empirical mode 经验模式；经验众数
+    - operational mode 运作模式
+    - mode selection 方式选择；[电]模态选择
+    - basic mode 基本方式；基模
+    - communication mode 通信方式；通讯模式
+    - system mode 系统模式，系统方式；系统状态
+    - normal mode 正常模式；标准振荡方式；自然振荡；固有状态
   - 例句
-    - `Set the monitor to 256 colour mode.`
-      - 把显示器调成256色彩模式。
-
+    - Set the monitor to 256 colour mode. 把显示器调成256色彩模式。
+  - 补充

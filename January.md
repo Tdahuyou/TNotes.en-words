@@ -1,17 +1,12 @@
 - January
   - 发音
-    - 英
-      - `/'dʒænjʊ(ə)rɪ/`
-    - 美
-      - `/'dʒænjʊ'ɛri/`
+    - 英 /'dʒænjʊ(ə)rɪ/
+    - 美 /'dʒænjʊ'ɛri/
   - 词义
-    - n.
-      - 一月
-        - `the first month of the year, between December and February`
+    - n. 一月
+      - the first month of the year, between December and February
   - 短语
-    - `in january`
-      - 在一月 
+    - in january 在一月
   - 例句
-    - `We always have snow in January.`
-      - 我们这里1月份总会下雪。
-
+    - We always have snow in January. 我们这里1月份总会下雪。
+  - 补充

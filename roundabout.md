@@ -1,26 +1,19 @@
 - roundabout
   - 发音
-    - 英
-      - `/'raʊndəbaʊt/`
-    - 美
-      - `/'raʊndəbaʊt/`
+    - 英 /'raʊndəbaʊt/
+    - 美 /'raʊndəbaʊt/
   - 词义
-    - adj.
-      - 迂回的；委婉的
-        - `a roundabout way of getting somewhere is longer and more complicated than necessary`
+    - adj. 迂回的；委婉的
+      - a roundabout way of getting somewhere is longer and more complicated than necessary
   - 记忆
     - round(迂回地)+about→迂回的
   - 近义词
-    - adj.
-      - 迂回的，绕道的；圆滚滚的
-        - `indirect`
-        - `derious`
+    - adj. 迂回的，绕道的；圆滚滚的
+      - indirect
+      - derious
   - 短语
-    - `in a roundabout way`
-      - 以一种转弯抹角的方式 
+    - in a roundabout way 以一种转弯抹角的方式
   - 例句
-    - `The bus took a very long and roundabout route.`
-      - 公共汽车路线很长，绕着圈子走。
-    - `It was a roundabout way of telling us to leave.`
-      - 这是转弯抹角地要我们走。
-
+    - The bus took a very long and roundabout route. 公共汽车路线很长，绕着圈子走。
+    - It was a roundabout way of telling us to leave. 这是转弯抹角地要我们走。
+  - 补充

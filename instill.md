@@ -1,19 +1,13 @@
 - instill
   - 发音
-    - 英
-      - `/ɪn'stɪl/`
-    - 美
-      - `/ɪn'stɪl/`
+    - 英 /ɪn'stɪl/
+    - 美 /ɪn'stɪl/
   - 词义
-    - vt.
-      - 慢慢灌输；逐渐培养
+    - vt. 慢慢灌输；逐渐培养
   - 记忆
     - in(进入) + still(掉) → 掉进去 → 慢慢灌输
   - 同根词
-    - n.
-      - `instillation`
-        - 慢慢灌输；滴注法；滴剂
-      - `instillment`
-        - 慢慢灌输；滴入
-      - `instilment`
-        - 滴注；慢慢灌输
+    - n. instillation 慢慢灌输；滴注法；滴剂
+    - n. instillment 慢慢灌输；滴入
+    - n. instilment 滴注；慢慢灌输
+  - 补充

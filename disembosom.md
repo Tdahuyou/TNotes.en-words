@@ -1,14 +1,11 @@
 - disembosom
   - 发音
-    - 英
-      - `/dɪsɪm'bʊzəm/`
-    - 美
-      - `/,dɪsəm'bʊzəm/`
+    - 英 /dɪsɪm'bʊzəm/
+    - 美 /,dɪsəm'bʊzəm/
   - 词义
-    - vt.
-      - 吐露,泄露
+    - vt. 吐露,泄露
   - 近义词
-    - vt.
-      - 吐露；泄露
-        - `reveal`
-        - `voice`
+    - vt. 吐露；泄露
+      - reveal
+      - voice
+  - 补充

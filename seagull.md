@@ -1,15 +1,12 @@
 - seagull
   - 发音
-    - 英
-      - `/'siːgʌl/`
-    - 美
-      - `/'siɡʌl/`
+    - 英 /'siːgʌl/
+    - 美 /'siɡʌl/
   - 词义
-    - n.
-      - 海鸥
-        - `a large common grey or white bird that lives near the sea`
+    - n. 海鸥
+      - a large common grey or white bird that lives near the sea
   - 近义词
-    - n.
-      - 海鸥
-        - `sea mew`
-        - `shearwater`
+    - n. 海鸥
+      - sea mew
+      - shearwater
+  - 补充

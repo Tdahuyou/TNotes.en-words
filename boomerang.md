@@ -1,10 +1,8 @@
 - boomerang
   - 发音
-    - 英
-      - `/'buːməræŋ/`
-    - 美
-      - `/'buməræŋ/`
+    - 英 /'buːməræŋ/
+    - 美 /'buməræŋ/
   - 词义
-    - n.
-      - 飞去来器；自食其果的行为；回飞棒
-        - `a curved stick that flies in a circle and comes back to you when you throw it, first used in Australia`
+    - n. 回飞棒；自食其果的言行
+      - A boomerang is a curved piece of wood that comes back to you if you throw it in the correct way. Boomerangs were first used by the people who were living in Australia when Europeans arrived there. 
+  - 补充

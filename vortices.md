@@ -1,22 +1,15 @@
 - vortices
   - 发音
-    - 英
-      - `/undefined/`
-    - 美
-      - `/undefined/`
+    - 英 /'vɔːrtɪsiːz/
+    - 美 /undefined/
   - 词义
-    - n.
-      - 旋涡；（指水或风形成的）涡流(vortex的名词复数)
+    - n. 漩涡
   - 近义词
-    - n.
-      - [流]旋涡（vortice的复数形式）
-        - `swirls`
-        - `eddies`
+    - n. [流]旋涡（vortice的复数形式）
+      - swirls
+      - eddies
   - 例句
-    - `These swirls of light, called optical vortices, could have implications for future laser devices, the physicists said.`
-      - 这些光线的漩涡，称为光学旋涡，可能对未来的激光装置产生影响，物理学家说。
-    - `So it follows that everything that happens in the physical world , all the motion that happens must be a series of vortices, whirlpools one within another within another and so on .`
-      - 接下来便引出所有事物都发生在物质世界中，所有运动都会产生一系列的涡流，旋窝一个接着一个的出现。
-    - `The dynamic nature of this vortex is similar to behaviour observed in other vortices on Earth, including those observed at the centre of hurricanes.`
-      - 这个漩涡的动态原理和在地球上观察到的其他漩涡包括在飓风中心观察到的情况相近。
-
+    - One does this by redistributing the aerodynamic load along the wingspan or by incorporating the vortices coming off the horizontal stabilizer. 为了造成这种结果，一个办法是沿著翼展重新分配空气动力负载，或是设法利用机尾水平稳定翼所产生的涡流。
+    - The frequency sense element is a hardcore in the eddy street flowmeter. The lift force of vortices influences the sensitivity of the frequency sense element. 在涡街流量计中，频率感测元件是其核心部件，旋涡上举力的大小直接影响到感测元件的灵敏度。
+    - Dustdevils are a well-known atmospheric phenomena on Mars, and as these new observations show, the devilish vortices can carve beautiful patterns in the Martian dust. 尘暴是一种著名的火星大气现象，并且依照这些新的观测显示，这种恶魔般的旋涡形成可以在火星的尘埃上雕刻美丽的图案。
+  - 补充

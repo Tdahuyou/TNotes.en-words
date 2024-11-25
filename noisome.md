@@ -1,22 +1,17 @@
 - noisome
   - 发音
-    - 英
-      - `/'nɔisəm/`
-    - 美
-      - `/'nɔɪsəm/`
+    - 英 /'nɔisəm/
+    - 美 /'nɔɪsəm/
   - 词义
-    - adj.
-      - 有害的，有毒的；令人讨厌的
-        - `very unpleasant`
+    - adj. 有害的，有毒的；令人讨厌的
+      - very unpleasant
   - 记忆
     - noi ( = annoy， 讨厌) + some → 令人讨厌的
   - 近义词
-    - adj.
-      - 恶臭的；有害的
-        - `harmful`
-        - `evil`
-        - `rank`
+    - adj. 恶臭的；有害的
+      - harmful
+      - evil
+      - rank
   - 例句
-    - `noisome smells`
-      - 令人生厌的气味
-
+    - noisome smells 令人生厌的气味
+  - 补充

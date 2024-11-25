@@ -1,16 +1,13 @@
 - misperceive
   - 发音
-    - 英
-      - `/ˌmɪspər'siːv/`
-    - 美
-      - `/,mispə'si:v/`
+    - 英 /ˌmɪspər'siːv/
+    - 美 /,mispə'si:v/
   - 词义
-    - v.
-      - 误解
+    - v. 误解
   - 记忆
     - mis(错的) + perceive(理解， 领会) → 误解
   - 近义词
-    - vt.
-      - 误解；看错
-        - `mistake`
-        - `misread`
+    - vt. 误解；看错
+      - mistake
+      - misread
+  - 补充

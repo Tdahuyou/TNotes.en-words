@@ -1,48 +1,30 @@
 - daring
   - 发音
-    - 英
-      - `/'deərɪŋ/`
-    - 美
-      - `/'dɛrɪŋ/`
+    - 英 /'deərɪŋ/
+    - 美 /'dɛrɪŋ/
   - 词义
-    - adj.
-      - 大胆的，勇敢的
-        - `involving a lot of risk or danger, or brave enough to do risky things`
-    - n.
-      - 胆量，勇气
-        - `courage that makes you willing to take risks`
-    - v.
-      - 敢（dare的现在分词）
+    - adj. 大胆的，勇敢的
+      - involving a lot of risk or danger, or brave enough to do risky things
+    - n. 胆量，勇气
+      - courage that makes you willing to take risks
+    - v. 敢（dare的现在分词）
   - 同根词
-    - adv.
-      - `daringly`
-        - 大胆地；毅然地
-    - n.
-      - `dare`
-        - 挑战；挑动
-    - vi.
-      - `dare`
-        - 敢；胆敢
-    - vt.
-      - `dare`
-        - 敢冒；不惧
+    - adv. daringly 大胆地；毅然地
+    - n. dare 挑战；挑动
+    - vi. dare 敢；胆敢
+    - vt. dare 敢冒；不惧
   - 近义词
-    - adj.
-      - 大胆的，勇敢的
-        - `bold`
-        - `game`
-        - `brave`
-    - n.
-      - 胆量，勇气
-        - `courage`
-        - `nerve`
-        - `heart`
+    - adj. 大胆的，勇敢的
+      - bold
+      - game
+      - brave
+    - n. 胆量，勇气
+      - courage
+      - nerve
+      - heart
   - 短语
-    - `how dare you`
-      - 你敢；胆子真大啊 
-    - `dare to be`
-      - 敢于做 
+    - how dare you 你敢；胆子真大啊
+    - dare to be 敢于做
   - 例句
-    - `a daring rescue attempt`
-      - 大胆的营救行动
-
+    - a daring rescue attempt 大胆的营救行动
+  - 补充

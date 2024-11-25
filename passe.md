@@ -1,14 +1,11 @@
 - passe
   - 发音
-    - 英
-      - `/pæ'seɪ/`
-    - 美
-      - `/undefined/`
+    - 英 /pæ'seɪ/
+    - 美 /undefined/
   - 词义
-    - adj.
-      - 已过盛年的；过时的
+    - adj. 已过盛年的；过时的
   - 近义词
-    - adj.
-      - 已过盛年的；过时的；凋谢的
-        - `ancient`
-        - `demoded`
+    - adj. 已过盛年的；过时的；凋谢的
+      - ancient
+      - demoded
+  - 补充

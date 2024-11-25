@@ -1,33 +1,21 @@
 - illustrative
   - 发音
-    - 英
-      - `/ɪ'ləstrətɪv/`
-    - 美
-      - `/ɪ'lʌstrətɪv/`
+    - 英 /ɪ'ləstrətɪv/
+    - 美 /ɪ'lʌstrətɪv/
   - 词义
-    - adj.
-      - 作为例证的；用做说明的；解释性的
-        - `helping to explain the meaning of something`
+    - adj. 作为例证的；用做说明的；解释性的
+      - helping to explain the meaning of something
   - 记忆
     - il(向内) + lus(光) + trative → 向心灵投入光的 → 解释性的
   - 同根词
-    - n.
-      - `illustration`
-        - 说明；插图；例证；图解
-      - `illustrator`
-        - 插图画家；说明者；图解者
-    - vi.
-      - `illustrate`
-        - 举例
-    - vt.
-      - `illustrate`
-        - 阐明，举例说明；图解
+    - n. illustration 说明；插图；例证；图解
+    - n. illustrator 插图画家；说明者；图解者
+    - vi. illustrate 举例
+    - vt. illustrate 阐明，举例说明；图解
   - 近义词
-    - adj.
-      - 说明的；作例证的；解说的
-        - `expository`
-        - `explanative`
+    - adj. 说明的；作例证的；解说的
+      - expository
+      - explanative
   - 例句
-    - `graphics and other illustrative material`
-      - 图表和其他图解材料
-
+    - graphics and other illustrative material 图表和其他图解材料
+  - 补充

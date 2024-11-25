@@ -1,23 +1,16 @@
 - partridge
   - 发音
-    - 英
-      - `/'pɑːtrɪdʒ/`
-    - 美
-      - `/'pɑrtrɪdʒ/`
+    - 英 /'pɑːrtrɪdʒ/
+    - 美 /'pɑrtrɪdʒ/
   - 词义
-    - n.
-      - [鸟]鹧鸪；松鸡
-        - `a fat brown bird with a short tail which is shot for sport and food`
+    - n. 鹧鸪；松鸡
+      - a fat brown bird with a short tail which is shot for sport and food
   - 近义词
-    - n.
-      - [鸟]鹧鸪；松鸡
-        - `francolin`
-        - `jay`
+    - n. [鸟]鹧鸪；松鸡
+      - francolin
+      - jay
   - 例句
-    - `The king of Israel has come out to look for a flea--as one hunts a partridge in the mountains.`
-      - 以色列王出来是寻找一个虼蚤，如同人在山上猎取一个鹧鸪一般。
-    - `As a boy, I hunted there for partridge, walking among a line of beaters, the tall grasses so dense that I was invisible to the next man only 10 feet away.`
-      - 作为一个小男孩，我捕猎松鸡，在一列狙击手里穿梭。 那儿的高颈草如此浓密以至我看不见10英里外的人。
-    - `He was too busy with cricket, partridge shooting and setting up Pakistan's only specialist cancer hospital.`
-      - 彼时他正忙于打板球、射鹧鸪和筹建巴基斯坦唯一的癌症专科医院，无暇顾及其他。
-
+    - There is a dish of partridge at supper. 晚饭时有一盘鹧鸪做的菜。
+    - The wolf might have strayed away after a squirrel or partridge . 狼可能因为追逐松鼠或鹧鸪而迷了路。
+    - A partridge, indeed, with a brood of ten behind her, ran forward threatingly, but soon repented of her fierceness, and clucked to her young ones not to be afraid. 一只身后随着十只雏鸟的雌鹧鸪，确曾冲上前来威吓她，但很快就后悔那么凶，还咯咯叫着她的孩子不必害怕。
+  - 补充

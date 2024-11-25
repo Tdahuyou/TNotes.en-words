@@ -1,61 +1,35 @@
 - wonderful
   - 发音
-    - 英
-      - `/ˈwʌndə(r)fl/`
-    - 美
-      - `/ˈwʌndɚfəl/`
+    - 英 /ˈwʌndə(r)fl/
+    - 美 /ˈwʌndɚfəl/
   - 词义
-    - adj.
-      - 绝妙的；了不起的
+    - adj. 绝妙的；了不起的
   - 记忆
     - wonder(惊奇)+ful(形容词后缀)→惊人的
   - 同根词
-    - adj.
-      - `wonder`
-        - 奇妙的；非凡的
-      - `wondering`
-        - 疑惑的；觉得奇怪的
-      - `wondrous`
-        - 奇妙的；令人惊奇的；非常的
-    - adv.
-      - `wonderfully`
-        - 精彩地；惊人地；极好地
-      - `wonderingly`
-        - 惊讶地；觉得奇怪地
-    - n.
-      - `wonder`
-        - 惊奇；奇迹；惊愕
-      - `wonderland`
-        - 奇境，仙境；非常奇妙的地方
-      - `wonderfulness`
-        - 极好；精彩
-      - `wonderment`
-        - 惊奇；惊叹
-    - v.
-      - `wondering`
-        - 想知道（wonder的ing形式）；惊奇
-    - vi.
-      - `wonder`
-        - 怀疑；想知道；惊讶
-    - vt.
-      - `wonder`
-        - 怀疑；惊奇；对…感到惊讶
+    - adj. wonder 奇妙的；非凡的
+    - adj. wondering 疑惑的；觉得奇怪的
+    - adj. wondrous 奇妙的；令人惊奇的；非常的
+    - adv. wonderfully 精彩地；惊人地；极好地
+    - adv. wonderingly 惊讶地；觉得奇怪地
+    - n. wonder 惊奇；奇迹；惊愕
+    - n. wonderland 奇境，仙境；非常奇妙的地方
+    - n. wonderfulness 极好；精彩
+    - n. wonderment 惊奇；惊叹
+    - v. wondering 想知道（wonder的ing形式）；惊奇
+    - vi. wonder 怀疑；想知道；惊讶
+    - vt. wonder 怀疑；惊奇；对…感到惊讶
   - 近义词
-    - adj.
-      - 奇妙的；极好的
-        - `excellent`
-        - `famous`
-        - `super`
-        - `great`
-        - `class`
+    - adj. 奇妙的；极好的
+      - excellent
+      - famous
+      - super
+      - great
+      - class
   - 短语
-    - `wonderful life`
-      - 美妙人生（电视剧） 
-    - `have a wonderful time`
-      - 玩得快活极了 
-    - `wonderful memories`
-      - 许多美好的记忆 
+    - wonderful life 美妙人生（电视剧）
+    - have a wonderful time 玩得快活极了
+    - wonderful memories 许多美好的记忆
   - 例句
-    - `We had a wonderful time in Spain.`
-      - 我们在西班牙玩得非常开心。
-
+    - We had a wonderful time in Spain. 我们在西班牙玩得非常开心。
+  - 补充

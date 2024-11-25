@@ -1,26 +1,17 @@
 - durability
   - 发音
-    - 英
-      - `/undefined/`
-    - 美
-      - `/undefined/`
+    - 英 /undefined/
+    - 美 /undefined/
   - 词义
-    - n.
-      - 经久,耐久力
+    - n. 经久,耐久力
   - 同根词
-    - adj.
-      - `durable`
-        - 耐用的，持久的
-    - n.
-      - `durable`
-        - 耐用品
+    - adj. durable 耐用的，持久的
+    - n. durable 耐用品
   - 近义词
-    - n.
-      - 耐久性；坚固；耐用年限
-        - `steel`
-        - `wear`
+    - n. 耐久性；坚固；耐用年限
+      - steel
+      - wear
   - 短语
-    - `durability test`
-      - 耐久性试验；施工测量；寿命试验；疲劳试验 
-    - `chemical durability`
-      - 化学稳定性；化学耐久性 
+    - durability test 耐久性试验；施工测量；寿命试验；疲劳试验
+    - chemical durability 化学稳定性；化学耐久性
+  - 补充

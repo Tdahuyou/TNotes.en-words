@@ -1,24 +1,18 @@
 - colleague
   - 发音
-    - 英
-      - `/'kɑːliːg/`
-    - 美
-      - `/'kɑliɡ/`
+    - 英 /'kɑːliːg/
+    - 美 /'kɑliɡ/
   - 词义
-    - n.
-      - 同事，同僚
-        - `someone you work with – used especially by professional people`
+    - n. 同事，同僚
+      - someone you work with – used especially by professional people
   - 记忆
     - col(一起， 共同) + leag(=leg聚集) + ue → 聚集在一起 → 同事
   - 近义词
-    - n.
-      - 同事，同僚
-        - `brother`
-        - `fellow`
-        - `associate`
+    - n. 同事，同僚
+      - brother
+      - fellow
+      - associate
   - 例句
-    - `a colleague of mine from the bank`
-      - 我在银行的一位同事
-    - `She discussed the idea with some of her colleagues.`
-      - 她和几位同事讨论了这个想法。
-
+    - a colleague of mine from the bank 我在银行的一位同事
+    - She discussed the idea with some of her colleagues. 她和几位同事讨论了这个想法。
+  - 补充

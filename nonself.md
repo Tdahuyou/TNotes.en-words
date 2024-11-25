@@ -1,14 +1,11 @@
 - nonself
   - 发音
-    - 英
-      - `/undefined/`
-    - 美
-      - `/undefined/`
+    - 英 /undefined/
+    - 美 /undefined/
   - 词义
-    - n.
-      - (有机体的)异物
+    - n. (有机体的)异物
   - 近义词
-    - n.
-      - 异物
-        - `foreign material`
-        - `extraneous matter`
+    - n. 异物
+      - foreign material
+      - extraneous matter
+  - 补充

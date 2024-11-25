@@ -1,28 +1,19 @@
 - arbor
   - 发音
-    - 英
-      - `/'ɑːbə/`
-    - 美
-      - `/'ɑrbɚ/`
+    - 英 /'ɑːbə/
+    - 美 /'ɑrbɚ/
   - 词义
-    - n.
-      - 树阴处，藤架，凉亭
+    - n. 树阴处，藤架，凉亭
   - 记忆
     - 树
   - 同根词
-    - adj.
-      - `arborous`
-        - 树木茂盛的；树木的（等于arboreous）
-    - n.
-      - `arborist`
-        - 树木栽培家；树木研究者；树艺家
+    - adj. arborous 树木茂盛的；树木的（等于arboreous）
+    - n. arborist 树木栽培家；树木研究者；树艺家
   - 近义词
-    - n.
-      - [植]乔木；凉亭；藤架
-        - `tall tree`
-        - `arber`
+    - n. [植]乔木；凉亭；藤架
+      - tall tree
+      - arber
   - 短语
-    - `ann arbor`
-      - 安阿伯市（美国密歇根州） 
-    - `arbor day`
-      - n. 美国植树节 
+    - ann arbor 安阿伯市（美国密歇根州）
+    - arbor day n. 美国植树节
+  - 补充

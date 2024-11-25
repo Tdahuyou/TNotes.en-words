@@ -1,14 +1,11 @@
 - liman
   - 发音
-    - 英
-      - `/undefined/`
-    - 美
-      - `/undefined/`
+    - 英 /undefined/
+    - 美 /undefined/
   - 词义
-    - n.
-      - [地]漓漫,大河口湾,泻湖
+    - n. [地]漓漫,大河口湾,泻湖
   - 近义词
-    - n.
-      - 泻湖；河口；溺谷
-        - `lagoon`
-        - `barachois`
+    - n. 泻湖；河口；溺谷
+      - lagoon
+      - barachois
+  - 补充

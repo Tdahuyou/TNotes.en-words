@@ -1,43 +1,25 @@
 - consultancy
   - 发音
-    - 英
-      - `/kən'sʌltənsɪ/`
-    - 美
-      - `/kən'sʌltənsi/`
+    - 英 /kən'sʌltənsi/
+    - 美 /kən'sʌltənsi/
   - 词义
-    - n.
-      - 咨询公司
-        - `a company that gives advice on a particular subject`
+    - n. 顾问；顾问服务公司
+      - a company that gives advice on a particular subject
   - 同根词
-    - adj.
-      - `consultative`
-        - 咨询的
-      - `consultive`
-        - 咨询的
-    - n.
-      - `consultant`
-        - 顾问；咨询者；会诊医生
-      - `consultation`
-        - 咨询；磋商；[临床] 会诊；讨论会
-    - vi.
-      - `consult`
-        - 请教；商议；当顾问
-    - vt.
-      - `consult`
-        - 查阅；商量；向…请教
+    - adj. consultative 咨询的
+    - adj. consultive 咨询的
+    - n. consultant 顾问；咨询者；会诊医生
+    - n. consultation 咨询；磋商；[临床] 会诊；讨论会
+    - vi. consult 请教；商议；当顾问
+    - vt. consult 查阅；商量；向…请教
   - 近义词
-    - n.
-      - 咨询公司；顾问工作
-        - `consulting firm`
-        - `consultation company`
+    - n. 咨询公司；顾问工作
+      - consulting firm
+      - consultation company
   - 短语
-    - `consultancy service`
-      - 咨询服务；顾问服务 
-    - `consultancy company`
-      - 点子公司 
+    - consultancy service 咨询服务；顾问服务
+    - consultancy company 点子公司
   - 例句
-    - `a management consultancy`
-      - 管理咨询公司
-    - `a consultancy firm`
-      - 咨询公司
-
+    - a management consultancy 管理咨询公司
+    - a consultancy firm 咨询公司
+  - 补充

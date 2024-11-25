@@ -1,30 +1,20 @@
 - accountancy
   - 发音
-    - 英
-      - `/ə'kaʊnt(ə)nsɪ/`
-    - 美
-      - `/ə'kaʊntənsi/`
+    - 英 /ə'kaʊnt(ə)nsɪ/
+    - 美 /ə'kaʊntənsi/
   - 词义
-    - n.
-      - 会计工作，会计职务
-        - `the profession or work of keeping or checking financial accounts, calculating taxes etc`
+    - n. 会计工作，会计职务
+      - the profession or work of keeping or checking financial accounts, calculating taxes etc
   - 记忆
     - 来自account(n. 计算； 账目)
   - 同根词
-    - n.
-      - `accountant`
-        - 会计师；会计人员
-      - `accounting`
-        - 会计，会计学；帐单
-      - `accountantship`
-        - 会计职务
-    - v.
-      - `accounting`
-        - 解释（account的ing形式）；叙述
+    - n. accountant 会计师；会计人员
+    - n. accounting 会计，会计学；帐单
+    - n. accountantship 会计职务
+    - v. accounting 解释（account的ing形式）；叙述
   - 近义词
-    - n.
-      - [会计]会计工作；会计学；会计师之职
-        - `accounting principles`
+    - n. [会计]会计工作；会计学；会计师之职
+      - accounting principles
   - 短语
-    - `accountancy profession`
-      - 会计专业；会计员 
+    - accountancy profession 会计专业；会计员
+  - 补充

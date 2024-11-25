@@ -1,22 +1,17 @@
 - lissom
   - 发音
-    - 英
-      - `/undefined/`
-    - 美
-      - `/undefined/`
+    - 英 /undefined/
+    - 美 /undefined/
   - 词义
-    - adj.
-      - 柔软的（人体）
-        - `supple in the limbs or body; lithe; flexible `
+    - adj. 柔软的（人体）
+      - supple in the limbs or body; lithe; flexible 
   - 同根词
-    - adj.
-      - `lissome`
-        - 柔软的；敏捷的
+    - adj. lissome 柔软的；敏捷的
   - 近义词
-    - adj.
-      - 柔软的；敏捷的；轻快的（等于lissome）
-        - `soft`
-        - `tender`
-        - `sharp`
-        - `fly`
-        - `quick`
+    - adj. 柔软的；敏捷的；轻快的（等于lissome）
+      - soft
+      - tender
+      - sharp
+      - fly
+      - quick
+  - 补充

@@ -1,27 +1,19 @@
 - peccadillo
   - 发音
-    - 英
-      - `/ˌpekə'diləu/`
-    - 美
-      - `/,pekə'diləu/`
+    - 英 /ˌpekə'diləu/
+    - 美 /,pekə'diləu/
   - 词义
-    - n.
-      - 轻罪，小过失
-        - `something bad which someone does, especially involving sex, which is not regarded as very serious or important`
+    - n. 轻罪，小过失
+      - something bad which someone does, especially involving sex, which is not regarded as very serious or important
   - 记忆
     - pecca (过失， 罪行) + dillo (小) → 小过失
   - 同根词
-    - adj.
-      - `peccable`
-        - 易犯过失的；易犯罪的
-      - `peccant`
-        - 犯罪的；有过失的
+    - adj. peccable 易犯过失的；易犯罪的
+    - adj. peccant 犯罪的；有过失的
   - 近义词
-    - n.
-      - 轻罪；小过失；小瑕疵
-        - `misdemeanor`
-        - `venial sin`
+    - n. 轻罪；小过失；小瑕疵
+      - misdemeanor
+      - venial sin
   - 例句
-    - `The public is willing to forgive him for his peccadillos.`
-      - 公众愿意原谅他的小过失。
-
+    - The public is willing to forgive him for his peccadillos. 公众愿意原谅他的小过失。
+  - 补充

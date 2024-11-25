@@ -1,17 +1,14 @@
 - votary
   - 发音
-    - 英
-      - `/'vəutəri/`
-    - 美
-      - `/'votəri/`
+    - 英 /'vəutəri/
+    - 美 /'votəri/
   - 词义
-    - n.
-      - 信徒；崇拜者
-        - `someone who regularly practises a particular religion`
+    - n. 信徒；崇拜者
+      - someone who regularly practises a particular religion
   - 记忆
     - vot (宣誓) + ary → 宣誓忠诚信仰的人 → 信徒
   - 近义词
-    - n.
-      - 崇拜者；出家人
-        - `worshiper`
-        - `adorer`
+    - n. 崇拜者；出家人
+      - worshiper
+      - adorer
+  - 补充

@@ -1,18 +1,13 @@
 - decrepitude
   - 发音
-    - 英
-      - `/dɪ'krepɪtʃuːd; dɪ'krepɪtjuːd/`
-    - 美
-      - `/dɪ'krɛpɪtud/`
+    - 英 /dɪ'krepɪtʃuːd; dɪ'krepɪtjuːd/
+    - 美 /dɪ'krɛpɪtud/
   - 词义
-    - n.
-      - 衰老,老朽,老耄
+    - n. 衰老,老朽,老耄
   - 同根词
-    - adj.
-      - `decrepit`
-        - 衰老的；破旧的
+    - adj. decrepit 衰老的；破旧的
   - 近义词
-    - n.
-      - 衰老，老朽
-        - `senescence`
-        - `consenescence`
+    - n. 衰老，老朽
+      - senescence
+      - consenescence
+  - 补充

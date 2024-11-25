@@ -1,13 +1,9 @@
 - internalise
   - 发音
-    - 英
-      - `/undefined/`
-    - 美
-      - `/undefined/`
+    - 英 /undefined/
+    - 美 /undefined/
   - 词义
-    - vt.
-      - 使……内在化
+    - vt. 使……内在化
   - 同根词
-    - n.
-      - `internalization`
-        - 内在化；成为主观
+    - n. internalization 内在化；成为主观
+  - 补充

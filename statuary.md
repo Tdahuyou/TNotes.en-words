@@ -1,30 +1,18 @@
 - statuary
   - 发音
-    - 英
-      - `/'stætjʊərɪ; -tʃʊə-/`
-    - 美
-      - `/'stætʃuɛri/`
+    - 英 /'stætjʊərɪ; -tʃʊə-/
+    - 美 /'stætʃuɛri/
   - 词义
-    - n.
-      - 雕象
-        - `statues`
+    - n. 雕象
+      - statues
   - 同根词
-    - adj.
-      - `statuesque`
-        - 雕像般的；轮廓清晰的；均衡的
-    - n.
-      - `statue`
-        - 雕像，塑像
-      - `statuette`
-        - 小雕像
-    - vt.
-      - `statue`
-        - 以雕像装饰
+    - adj. statuesque 雕像般的；轮廓清晰的；均衡的
+    - n. statue 雕像，塑像
+    - n. statuette 小雕像
+    - vt. statue 以雕像装饰
   - 近义词
-    - n.
-      - 雕像；雕像艺术
-        - `effigy`
+    - n. 雕像；雕像艺术
+      - effigy
   - 例句
-    - `a fine collection of Greek statuary`
-      - 一批精美的希腊雕塑藏品
-
+    - a fine collection of Greek statuary 一批精美的希腊雕塑藏品
+  - 补充

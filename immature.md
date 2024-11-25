@@ -1,30 +1,22 @@
 - immature
   - 发音
-    - 英
-      - `/ˌɪmə'tʃur/`
-    - 美
-      - `/,ɪmə'tʃʊr/`
+    - 英 /ˌɪmə'tʃur/
+    - 美 /,ɪmə'tʃʊr/
   - 词义
-    - adj.
-      - 未成熟的，未充分发展的
-        - `not fully formed or developed`
+    - adj. 未成熟的，未充分发展的
+      - not fully formed or developed
   - 记忆
     - im(不) + mature(成熟的) → 未成熟的
   - 同根词
-    - n.
-      - `immaturity`
-        - 未成熟；粗糙；未臻完美；不完全
-      - `immatureness`
-        - 未成熟
+    - n. immaturity 未成熟；粗糙；未臻完美；不完全
+    - n. immatureness 未成熟
   - 近义词
-    - adj.
-      - 不成熟的；未成熟的；粗糙的
-        - `crude`
-        - `rough`
-        - `raw`
-        - `coarse`
-        - `harsh`
+    - adj. 不成熟的；未成熟的；粗糙的
+      - crude
+      - rough
+      - raw
+      - coarse
+      - harsh
   - 例句
-    - `measures to protect immature whales`
-      - 保护幼鲸的措施
-
+    - measures to protect immature whales 保护幼鲸的措施
+  - 补充

@@ -1,14 +1,11 @@
 - autotype
   - 发音
-    - 英
-      - `/'ɔːtə(ʊ)taɪp/`
-    - 美
-      - `/'ɔtə,taɪp/`
+    - 英 /'ɔːtə(ʊ)taɪp/
+    - 美 /'ɔtə,taɪp/
   - 词义
-    - n.
-      - [摄](相片的)碳印法,用碳印法印成的相片,复写
-        - `a photographic process for producing prints in black and white, using a carbon pigment `
+    - n. [摄](相片的)碳印法,用碳印法印成的相片,复写
+      - a photographic process for producing prints in black and white, using a carbon pigment 
   - 近义词
-    - n.
-      - 复写；碳印法；单色版
-        - `manifolding`
+    - n. 复写；碳印法；单色版
+      - manifolding
+  - 补充

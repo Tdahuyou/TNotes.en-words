@@ -1,33 +1,22 @@
 - asexual
   - 发音
-    - 英
-      - `/ei'seksjuəl/`
-    - 美
-      - `/,e'sɛkʃuəl/`
+    - 英 /ei'seksjuəl/
+    - 美 /,e'sɛkʃuəl/
   - 词义
-    - adj.
-      - 无性的；无性生殖的
-        - `not having sexual organs or not involving sex`
+    - adj. 无性的；无性生殖的
+      - not having sexual organs or not involving sex
   - 记忆
     - a (看作ab ， 不) + sex (性) + ual (…的) → 不存在性的 → 无性的
   - 同根词
-    - adv.
-      - `asexually`
-        - 无性地；无性生殖地
-    - n.
-      - `asexuality`
-        - 无性；无性别
+    - adv. asexually 无性地；无性生殖地
+    - n. asexuality 无性；无性别
   - 近义词
-    - adj.
-      - [生物]无性的；无性生殖的
-        - `genderless`
-        - `agamous`
+    - adj. [生物]无性的；无性生殖的
+      - genderless
+      - agamous
   - 短语
-    - `asexual reproduction`
-      - 无性繁殖；无性生殖 
-    - `asexual propagation`
-      - 无性繁殖 
+    - asexual reproduction 无性繁殖；无性生殖
+    - asexual propagation 无性繁殖
   - 例句
-    - `asexual reproduction`
-      - 无性繁殖
-
+    - asexual reproduction 无性繁殖
+  - 补充

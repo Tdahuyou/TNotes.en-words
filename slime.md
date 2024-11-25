@@ -1,30 +1,19 @@
 - slime
   - 发音
-    - 英
-      - `/slaɪm/`
-    - 美
-      - `/slaɪm/`
+    - 英 /slaɪm/
+    - 美 /slaɪm/
   - 词义
-    - n.
-      - 粘土,粘液
+    - n. 粘土,粘液
   - 同根词
-    - adj.
-      - `slimy`
-        - 黏滑的；泥泞的；谄媚的，虚伪的
-    - n.
-      - `sliminess`
-        - 粘性；滑溜
+    - adj. slimy 黏滑的；泥泞的；谄媚的，虚伪的
+    - n. sliminess 粘性；滑溜
   - 近义词
-    - n.
-      - 黏液；烂泥
-        - `sludge`
-        - `mucus`
+    - n. 黏液；烂泥
+      - sludge
+      - mucus
   - 短语
-    - `anode slime`
-      - 阳极泥；阳极残渣；阳极沉积层 
-    - `slime water`
-      - 泥浆水 
+    - anode slime 阳极泥；阳极残渣；阳极沉积层
+    - slime water 泥浆水
   - 例句
-    - `He swam down and retrieved his glasses from the muck and slime at the bottom of the pond.`
-      - 他潜下水去，从池塘底部的烂泥污物中找回了眼镜。
-
+    - He swam down and retrieved his glasses from the muck and slime at the bottom of the pond. 他潜下水去，从池塘底部的烂泥污物中找回了眼镜。
+  - 补充

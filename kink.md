@@ -1,19 +1,14 @@
 - kink
   - 发音
-    - 英
-      - `/kɪŋk/`
-    - 美
-      - `/kɪŋk/`
+    - 英 /kɪŋk/
+    - 美 /kɪŋk/
   - 词义
-    - n.
-      - 结v纠结,纽绞
-        - `a twist in something that is normally straight`
+    - n. 结v纠结,纽绞
+      - a twist in something that is normally straight
   - 同根词
-    - adj.
-      - `kinky`
-        - 奇形怪状的，怪癖的；稍微变态的；扭结的，古怪的
+    - adj. kinky 奇形怪状的，怪癖的；稍微变态的；扭结的，古怪的
   - 近义词
-    - n.
-      - 扭结；奇想；蜷缩
-        - `whim`
-        - `vagary`
+    - n. 扭结；奇想；蜷缩
+      - whim
+      - vagary
+  - 补充

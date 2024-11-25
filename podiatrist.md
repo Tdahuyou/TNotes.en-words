@@ -1,16 +1,12 @@
 - podiatrist
   - 发音
-    - 英
-      - `/pə'daɪətrɪst/`
-    - 美
-      - `/pə'daɪətrɪst/`
+    - 英 /pə'daɪətrɪst/
+    - 美 /pə'daɪətrɪst/
   - 词义
-    - n.
-      - 足病医生
-        - `a doctor who takes care of people’s feet and treats foot diseases`
+    - n. 足病医生
+      - a doctor who takes care of people’s feet and treats foot diseases
   - 记忆
     - pod(足， 脚) + iatr(治疗) + ist → 足病医生
   - 同根词
-    - n.
-      - `podiatry`
-        - 足部医疗；[外科] 脚病学
+    - n. podiatry 足部医疗；[外科] 脚病学
+  - 补充

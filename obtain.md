@@ -1,42 +1,29 @@
 - obtain
   - 发音
-    - 英
-      - `/əb'teɪn/`
-    - 美
-      - `/əb'ten/`
+    - 英 /əb'teɪn/
+    - 美 /əb'ten/
   - 词义
-    - v.
-      - 获得；通用，流行
-        - `to get something that you want, especially through your own effort, skill, or work`
+    - v. 获得；通用，流行
+      - to get something that you want, especially through your own effort, skill, or work
   - 记忆
     - ob(表加强) + tain(拿住) → 用力拿住 → 获得
   - 同根词
-    - adj.
-      - `obtainable`
-        - 能得到的
-    - n.
-      - `obtainment`
-        - 获得
+    - adj. obtainable 能得到的
+    - n. obtainment 获得
   - 近义词
-    - vi.
-      - 获得；流行
-        - `pick up`
-        - `get access to`
-    - vt.
-      - 获得
-        - `acquire`
-        - `earn`
-        - `score`
-        - `buy`
-        - `find`
+    - vi. 获得；流行
+      - pick up
+      - get access to
+    - vt. 获得
+      - acquire
+      - earn
+      - score
+      - buy
+      - find
   - 短语
-    - `obtain employment`
-      - 就业，找到工作 
-    - `obtain information`
-      - 获得信息；索取资料或合同 
-    - `obtain evidence`
-      - 取证 
+    - obtain employment 就业，找到工作
+    - obtain information 获得信息；索取资料或合同
+    - obtain evidence 取证
   - 例句
-    - `These conditions no longer obtain.`
-      - 这些状况已不复存在。
-
+    - These conditions no longer obtain. 这些状况已不复存在。
+  - 补充

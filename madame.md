@@ -1,20 +1,16 @@
 - madame
   - 发音
-    - 英
-      - `/mɑː'dɑːm/`
-    - 美
-      - `/'mædəm/`
+    - 英 /mɑː'dɑːm/
+    - 美 /'mædəm/
   - 词义
-    - n.
-      - （法语）夫人；太太
+    - n. （法语）夫人；太太
   - 近义词
-    - n.
-      - （法语）夫人；太太
-        - `Mrs`
-        - `lady`
-        - `wife`
-        - `senora`
-        - `Mrs.`
+    - n. （法语）夫人；太太
+      - Mrs
+      - lady
+      - wife
+      - senora
+      - Mrs.
   - 短语
-    - `madame curie`
-      - 居里夫人（波兰科学家） 
+    - madame curie 居里夫人（波兰科学家）
+  - 补充

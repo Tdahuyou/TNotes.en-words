@@ -1,19 +1,14 @@
 - chesty
   - 发音
-    - 英
-      - `/'tʃestɪ/`
-    - 美
-      - `/'tʃɛsti/`
+    - 英 /'tʃestɪ/
+    - 美 /'tʃɛsti/
   - 词义
-    - adj.
-      - 胸丰满的,骄傲的
-        - `used to describe a woman with large breasts, when you want to avoid saying this directly`
+    - adj. 胸丰满的,骄傲的
+      - used to describe a woman with large breasts, when you want to avoid saying this directly
   - 同根词
-    - n.
-      - `chest`
-        - 胸，胸部；衣柜；箱子；金库
+    - n. chest 胸，胸部；衣柜；箱子；金库
   - 近义词
-    - adj.
-      - 胸部丰满的；胸部大的；骄傲的
-        - `bosomy`
-        - `busty`
+    - adj. 胸部丰满的；胸部大的；骄傲的
+      - bosomy
+      - busty
+  - 补充

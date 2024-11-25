@@ -1,35 +1,22 @@
 - derive
   - 发音
-    - 英
-      - `/dɪ'raɪv/`
-    - 美
-      - `/dɪ'raɪv/`
+    - 英 /dɪ'raɪv/
+    - 美 /dɪ'raɪv/
   - 词义
-    - v.
-      - 取得；起源
-        - `to get a chemical substance from another substance`
+    - v. 取得；起源
+      - to get a chemical substance from another substance
   - 记忆
     - de + rive(r) → 黄河是中华文明的发源地 → 起源
   - 同根词
-    - adj.
-      - `derived`
-        - 导出的；衍生的，派生的
-      - `derivational`
-        - 得来的；诱导的
-    - n.
-      - `derivation`
-        - 引出；来历；词源
-    - v.
-      - `derived`
-        - 得到；推断（derive的过去分词）；由…而来
+    - adj. derived 导出的；衍生的，派生的
+    - adj. derivational 得来的；诱导的
+    - n. derivation 引出；来历；词源
+    - v. derived 得到；推断（derive的过去分词）；由…而来
   - 近义词
-    - vi.
-      - 起源
-        - `to originate`
+    - vi. 起源
+      - to originate
   - 短语
-    - `derive from`
-      - 源出，来自，得自；衍生于 
+    - derive from 源出，来自，得自；衍生于
   - 例句
-    - `Mr. Ying is one of those happy people who derive pleasure from helping others.`
-      - 英先生是那种助人为乐的快活人。
-
+    - Mr. Ying is one of those happy people who derive pleasure from helping others. 英先生是那种助人为乐的快活人。
+  - 补充

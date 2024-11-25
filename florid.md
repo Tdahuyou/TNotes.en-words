@@ -1,30 +1,20 @@
 - florid
   - 发音
-    - 英
-      - `/'flɔrid/`
-    - 美
-      - `/'flɔrɪd/`
+    - 英 /'flɔrid/
+    - 美 /'flɔrɪd/
   - 词义
-    - adj.
-      - 华丽的；红润的
-        - `a florid face is red in colour`
+    - adj. 华丽的；红润的
+      - a florid face is red in colour
   - 记忆
     - flor (花) + id → 像花一样的 → 华丽的
   - 同根词
-    - adv.
-      - `floridly`
-        - 华丽地；浮华俗气地
-    - n.
-      - `floridity`
-        - 鲜丽；脸色好
-      - `floridness`
-        - 鲜丽；脸色好
+    - adv. floridly 华丽地；浮华俗气地
+    - n. floridity 鲜丽；脸色好
+    - n. floridness 鲜丽；脸色好
   - 近义词
-    - adj.
-      - [建]绚丽的；气色好的
-        - `flowery`
-        - `ornate`
+    - adj. [建]绚丽的；气色好的
+      - flowery
+      - ornate
   - 例句
-    - `a middle-aged man with a florid complexion`
-      - 一名脸色红润的中年男子
-
+    - a middle-aged man with a florid complexion 一名脸色红润的中年男子
+  - 补充

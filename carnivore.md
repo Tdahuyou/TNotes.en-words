@@ -1,29 +1,19 @@
 - carnivore
   - 发音
-    - 英
-      - `/'kɑːrnɪvɔːr/`
-    - 美
-      - `/'kɑrnɪvɔr/`
+    - 英 /'kɑːrnɪvɔːr/
+    - 美 /'kɑrnɪvɔr/
   - 词义
-    - n.
-      - 食肉动物
-        - `an animal that eats flesh`
+    - n. 食肉动物
+      - an animal that eats flesh
   - 记忆
     - carn(肉) + i + vor(吃) + e → 食肉动物
   - 同根词
-    - adj.
-      - `carnivorous`
-        - 食肉的；肉食性的
-      - `carnassial`
-        - 食肉的
-    - n.
-      - `carnassial`
-        - 裂齿
+    - adj. carnivorous 食肉的；肉食性的
+    - adj. carnassial 食肉的
+    - n. carnassial 裂齿
   - 近义词
-    - n.
-      - [动]食肉动物；食虫植物
-        - `predator`
+    - n. [动]食肉动物；食虫植物
+      - predator
   - 例句
-    - `This is a delicious vegetarian dish that even carnivores love.`
-      - 这是一道肉食者们都喜欢的美味素食。
-
+    - This is a delicious vegetarian dish that even carnivores love. 这是一道肉食者们都喜欢的美味素食。
+  - 补充

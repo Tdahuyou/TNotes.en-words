@@ -1,26 +1,18 @@
 - waiver
   - 发音
-    - 英
-      - `/'weivə/`
-    - 美
-      - `/'wevɚ/`
+    - 英 /'weivə/
+    - 美 /'wevɚ/
   - 词义
-    - n.
-      - 放弃
-        - `an official written statement saying that a right, legal process etc can be waived`
+    - n. 放弃
+      - an official written statement saying that a right, legal process etc can be waived
   - 同根词
-    - vt.
-      - `waive`
-        - 放弃；搁置
+    - vt. waive 放弃；搁置
   - 近义词
-    - n.
-      - 弃权，[法]放弃；弃权证书
-        - `abstention`
-        - `nonuser`
+    - n. 弃权，[法]放弃；弃权证书
+      - abstention
+      - nonuser
   - 短语
-    - `tuition waiver`
-      - 学费减免 
+    - tuition waiver 学费减免
   - 例句
-    - `...a waiver of constitutional rights.`
-      - …一位放弃宪法权利者。
-
+    - ...a waiver of constitutional rights. …一位放弃宪法权利者。
+  - 补充

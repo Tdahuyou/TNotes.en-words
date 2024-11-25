@@ -1,13 +1,10 @@
 - holograph
   - 发音
-    - 英
-      - `/'hɒləgrɑːf/`
-    - 美
-      - `/'hɑləɡræf/`
+    - 英 /'hɒləgrɑːf/
+    - 美 /'hɑləɡræf/
   - 词义
-    - n.
-      - 亲笔文件,[律]亲笔信,[物]全息图
+    - n. 亲笔文件,[律]亲笔信,[物]全息图
   - 近义词
-    - adj.
-      - 亲笔的
-        - `autographical`
+    - adj. 亲笔的
+      - autographical
+  - 补充

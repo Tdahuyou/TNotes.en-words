@@ -1,19 +1,14 @@
 - upcoming
   - 发音
-    - 英
-      - `/ʌp'kʌmɪŋ/`
-    - 美
-      - `/'ʌpkʌmɪŋ/`
+    - 英 /ʌp'kʌmɪŋ/
+    - 美 /'ʌpkʌmɪŋ/
   - 词义
-    - adj.
-      - 即将来临的
-        - `happening soon`
+    - adj. 即将来临的
+      - happening soon
   - 近义词
-    - adj.
-      - 即将来临的
-        - `imminent`
-        - `forthcoming`
+    - adj. 即将来临的
+      - imminent
+      - forthcoming
   - 例句
-    - `the upcoming elections`
-      - 即将举行的选举
-
+    - the upcoming elections 即将举行的选举
+  - 补充

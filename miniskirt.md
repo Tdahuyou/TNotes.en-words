@@ -1,10 +1,8 @@
 - miniskirt
   - 发音
-    - 英
-      - `/'mɪnɪskɜːt/`
-    - 美
-      - `/'mɪnɪ'skɝt/`
+    - 英 /'mɪnɪskɜːt/
+    - 美 /'mɪnɪ'skɝt/
   - 词义
-    - n.
-      - 超短裙；迷你短裙
-        - `a very short skirt`
+    - n. 超短裙；迷你短裙
+      - a very short skirt
+  - 补充

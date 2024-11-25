@@ -1,28 +1,17 @@
 - patriotic
   - 发音
-    - 英
-      - `/ˌpætrɪˈɒtɪk/`
-    - 美
-      - `/ˈpeɪtriˈɑtɪk/`
+    - 英 /ˌpætrɪˈɒtɪk/
+    - 美 /ˈpeɪtriˈɑtɪk/
   - 词义
-    - adj.
-      - 爱国的
-        - `having or expressing a great love of your country`
+    - adj. 爱国的
+      - having or expressing a great love of your country
   - 同根词
-    - adv.
-      - `patriotically`
-        - 爱国地；忧国地
-    - n.
-      - `patriot`
-        - 爱国者
-      - `patriotism`
-        - 爱国主义；爱国心，爱国精神
+    - adv. patriotically 爱国地；忧国地
+    - n. patriot 爱国者
+    - n. patriotism 爱国主义；爱国心，爱国精神
   - 短语
-    - `patriotic united front`
-      - 爱国统一战线 
+    - patriotic united front 爱国统一战线
   - 例句
-    - `patriotic songs`
-      - 爱国歌曲
-    - `I’m not very patriotic.`
-      - 我不是很爱国。
-
+    - patriotic songs 爱国歌曲
+    - I’m not very patriotic. 我不是很爱国。
+  - 补充

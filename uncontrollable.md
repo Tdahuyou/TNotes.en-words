@@ -1,24 +1,16 @@
 - uncontrollable
   - 发音
-    - 英
-      - `/ʌnkən'trəʊləb(ə)l/`
-    - 美
-      - `/,ʌnkən'troləbl/`
+    - 英 /ʌnkən'trəʊləb(ə)l/
+    - 美 /,ʌnkən'troləbl/
   - 词义
-    - adj.
-      - 无法控制的；无法管束的；难以驾驭的
-        - `if an emotion, desire, or physical action is uncontrollable, you cannot control it or stop yourself from feeling it or doing it`
+    - adj. 无法控制的；无法管束的；难以驾驭的
+      - if an emotion, desire, or physical action is uncontrollable, you cannot control it or stop yourself from feeling it or doing it
   - 同根词
-    - adv.
-      - `uncontrollably`
-        - 控制不住地
+    - adv. uncontrollably 控制不住地
   - 近义词
-    - adj.
-      - 无法控制的；无法管束的；难以驾驭的
-        - `indisciplinable`
+    - adj. 无法控制的；无法管束的；难以驾驭的
+      - indisciplinable
   - 例句
-    - `I felt an uncontrollable urge to scream.`
-      - 我感到一种控制不住想要尖叫的冲动。
-    - `Mother burst into uncontrollable sobs.`
-      - 母亲突然情不自禁地抽噎起来。
-
+    - I felt an uncontrollable urge to scream. 我感到一种控制不住想要尖叫的冲动。
+    - Mother burst into uncontrollable sobs. 母亲突然情不自禁地抽噎起来。
+  - 补充

@@ -1,26 +1,19 @@
 - cupboard
   - 发音
-    - 英
-      - `/'kʌbəd/`
-    - 美
-      - `/'kʌbɚd/`
+    - 英 /'kʌbəd/
+    - 美 /'kʌbɚd/
   - 词义
-    - n.
-      - 橱柜；衣柜
-        - `a piece of furniture with doors, and sometimes shelves, used for storing clothes, plates, food etc`
+    - n. 橱柜；衣柜
+      - a piece of furniture with doors, and sometimes shelves, used for storing clothes, plates, food etc
   - 记忆
     - cup(杯子) ＋ board(木板) → 放杯子的木板 → 柜橱
   - 近义词
-    - n.
-      - [家具]碗柜；食橱
-        - `dresser`
-        - `spense`
+    - n. [家具]碗柜；食橱
+      - dresser
+      - spense
   - 短语
-    - `cupboard love`
-      - （尤指小孩的）有所企图而假装的热情 
+    - cupboard love （尤指小孩的）有所企图而假装的热情
   - 例句
-    - `It’s in the kitchen cupboard.`
-      - 它在厨房的碗柜里。
-    - `The cupboard doors were open.`
-      - 柜门开着。
-
+    - It’s in the kitchen cupboard. 它在厨房的碗柜里。
+    - The cupboard doors were open. 柜门开着。
+  - 补充

@@ -1,10 +1,8 @@
 - branchia
   - 发音
-    - 英
-      - `/undefined/`
-    - 美
-      - `/undefined/`
+    - 英 /undefined/
+    - 美 /undefined/
   - 词义
-    - n.
-      - 鳃
-        - `a gill in aquatic animals `
+    - n. 鳃
+      - a gill in aquatic animals 
+  - 补充

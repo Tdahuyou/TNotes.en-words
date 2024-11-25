@@ -1,53 +1,31 @@
 - diverge
   - 发音
-    - 英
-      - `/daɪ'vɜːrdʒ/`
-    - 美
-      - `/daɪ'vɝdʒ/`
+    - 英 /daɪ'vɜːrdʒ/
+    - 美 /daɪ'vɝdʒ/
   - 词义
-    - vi.
-      - 分开，叉开；分歧；偏离
-        - `if opinions, interests etc diverge, they are different from each other`
+    - vi. 分开，叉开；分歧；偏离
+      - if opinions, interests etc diverge, they are different from each other
   - 记忆
     - di(分开) + verg(转) + e → 分别转换方向 → 分歧
   - 同根词
-    - adj.
-      - `divergent`
-        - 相异的，分歧的；散开的
-      - `diverging`
-        - 发散的；分歧的；岔开的（等于divergent）
-      - `divaricate`
-        - 分叉的
-    - n.
-      - `divergence`
-        - 分歧
-      - `divarication`
-        - 分歧；分叉；意见不同；分支
-      - `divergency`
-        - 分离；分歧
-    - v.
-      - `diverging`
-        - 分叉；背离（diverge的现在分词）
-    - vi.
-      - `divagate`
-        - 离题；流浪；漫游
-      - `divaricate`
-        - 叉开；分歧
-    - vt.
-      - `divaricate`
-        - 使分成两叉
+    - adj. divergent 相异的，分歧的；散开的
+    - adj. diverging 发散的；分歧的；岔开的（等于divergent）
+    - adj. divaricate 分叉的
+    - n. divergence 分歧
+    - n. divarication 分歧；分叉；意见不同；分支
+    - n. divergency 分离；分歧
+    - v. diverging 分叉；背离（diverge的现在分词）
+    - vi. divagate 离题；流浪；漫游
+    - vi. divaricate 叉开；分歧
+    - vt. divaricate 使分成两叉
   - 近义词
-    - vi.
-      - 分歧；偏离；分叉；离题
-        - `stray from`
-        - `deviate from`
-    - vt.
-      - 使偏离；使分叉
-        - `deviate`
+    - vi. 分歧；偏离；分叉；离题
+      - stray from
+      - deviate from
+    - vt. 使偏离；使分叉
+      - deviate
   - 短语
-    - `diverge from`
-      - 背道而驰；背离 
+    - diverge from 背道而驰；背离
   - 例句
-    - `The two species diverged millions of years ago.`
-      - 这两个物种从数百万年前开始朝不同方向演变。
-
+    - The two species diverged millions of years ago. 这两个物种从数百万年前开始朝不同方向演变。
+  - 补充

@@ -1,38 +1,24 @@
 - unemployment
   - 发音
-    - 英
-      - `/ʌnɪm'plɒɪm(ə)nt; -em-/`
-    - 美
-      - `/,ʌnɪm'plɔɪmənt/`
+    - 英 /ʌnɪm'plɒɪm(ə)nt; -em-/
+    - 美 /,ʌnɪm'plɔɪmənt/
   - 词义
-    - n.
-      - 失业,失业人数
-        - `the number of people in a particular country or area who cannot get a job`
+    - n. 失业,失业人数
+      - the number of people in a particular country or area who cannot get a job
   - 同根词
-    - adj.
-      - `unemployed`
-        - 失业的；未被利用的
+    - adj. unemployed 失业的；未被利用的
   - 近义词
-    - n.
-      - [劳经]失业；失业率；失业人数
-        - `joblessness`
-        - `jobless rate`
+    - n. [劳经]失业；失业率；失业人数
+      - joblessness
+      - jobless rate
   - 短语
-    - `unemployment rate`
-      - 失业率 
-    - `unemployment insurance`
-      - 失业保险 
-    - `unemployment benefit`
-      - 失业救济金；失业津贴 
-    - `structural unemployment`
-      - 结构性失业 
-    - `recessive unemployment`
-      - 隐性失业 
-    - `unemployment insurance benefits`
-      - 失业保险救济金 
-    - `unemployment compensation`
-      - 失业补偿金 
+    - unemployment rate 失业率
+    - unemployment insurance 失业保险
+    - unemployment benefit 失业救济金；失业津贴
+    - structural unemployment 结构性失业
+    - recessive unemployment 隐性失业
+    - unemployment insurance benefits 失业保险救济金
+    - unemployment compensation 失业补偿金
   - 例句
-    - `a town where there is high unemployment`
-      - 高失业率城镇
-
+    - a town where there is high unemployment 高失业率城镇
+  - 补充

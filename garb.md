@@ -1,30 +1,23 @@
 - garb
   - 发音
-    - 英
-      - `/gɑːrb/`
-    - 美
-      - `/ɡɑrb/`
+    - 英 /gɑːrb/
+    - 美 /ɡɑrb/
   - 词义
-    - n.
-      - 服装，装束
-        - `a particular style of clothing, especially clothes that show your type of work or look unusual`
-    - vt.
-      - 穿着，装扮
+    - n. 服装，装束
+      - a particular style of clothing, especially clothes that show your type of work or look unusual
+    - vt. 穿着，装扮
   - 记忆
     - 演出时间快到了， 那个演员抓起(grab)演出服装(garb)匆匆赶到后台
   - 近义词
-    - n.
-      - 服装；装束；打扮
-        - `clothing`
-        - `wear`
-        - `garment`
-        - `apparel`
-        - `costume`
-    - vt.
-      - 装扮；穿衣
-        - `rig out`
-        - `to dress`
+    - n. 服装；装束；打扮
+      - clothing
+      - wear
+      - garment
+      - apparel
+      - costume
+    - vt. 装扮；穿衣
+      - rig out
+      - to dress
   - 例句
-    - `priestly garb`
-      - 牧师装束
-
+    - priestly garb 牧师装束
+  - 补充

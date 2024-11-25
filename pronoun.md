@@ -1,27 +1,17 @@
 - pronoun
   - 发音
-    - 英
-      - `/'prəʊnaʊn/`
-    - 美
-      - `/'pronaʊn/`
+    - 英 /'prəʊnaʊn/
+    - 美 /'pronaʊn/
   - 词义
-    - n.
-      - 代名词
-        - `a word that is used instead of a noun or noun phrase, such as ‘he’ instead of ‘Peter’ or ‘the man’`
+    - n. 代名词
+      - a word that is used instead of a noun or noun phrase, such as ‘he’ instead of ‘Peter’ or ‘the man’
   - 同根词
-    - adj.
-      - `pronominal`
-        - 代词的；代词性质的
+    - adj. pronominal 代词的；代词性质的
   - 短语
-    - `personal pronoun`
-      - n. 人称代名词 
-    - `demonstrative pronoun`
-      - n. 指示代词 
-    - `interrogative pronoun`
-      - 疑问代词 
-    - `relative pronoun`
-      - [语]关系代词 
+    - personal pronoun n. 人称代名词
+    - demonstrative pronoun n. 指示代词
+    - interrogative pronoun 疑问代词
+    - relative pronoun [语]关系代词
   - 例句
-    - `Now if we could only figure out the pronoun problem.`
-      - 现在我们可以解决这个代词问题了。
-
+    - Now if we could only figure out the pronoun problem. 现在我们可以解决这个代词问题了。
+  - 补充

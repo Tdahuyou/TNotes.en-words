@@ -1,21 +1,13 @@
 - rifleman
   - 发音
-    - 英
-      - `/'raɪf(ə)lmən/`
-    - 美
-      - `/'raɪflmən/`
+    - 英 /'raɪf(ə)lmən/
+    - 美 /'raɪflmən/
   - 词义
-    - n.
-      - 步枪兵
-        - `a man who uses a rifle`
+    - n. 步枪兵
+      - a man who uses a rifle
   - 同根词
-    - n.
-      - `rifling`
-        - 膛线；来复线
-    - v.
-      - `rifling`
-        - 抢劫；搜索；用步枪射击（rifle的ing形式）
+    - n. rifling 膛线；来复线
+    - v. rifling 抢劫；搜索；用步枪射击（rifle的ing形式）
   - 例句
-    - `A rifleman was racing out of the open door.`
-      - 一名步兵正从打开的门中冲出来。
-
+    - A rifleman was racing out of the open door. 一名步兵正从打开的门中冲出来。
+  - 补充

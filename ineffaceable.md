@@ -1,9 +1,7 @@
 - ineffaceable
   - 发音
-    - 英
-      - `/ɪnɪ'feɪsəb(ə)l/`
-    - 美
-      - `/,ini'feisəbl/`
+    - 英 /ɪnɪ'feɪsəb(ə)l/
+    - 美 /,ini'feisəbl/
   - 词义
-    - adj.
-      - 不能除去的,不能取消的
+    - adj. 不能除去的,不能取消的
+  - 补充

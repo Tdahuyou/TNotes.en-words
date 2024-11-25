@@ -1,32 +1,21 @@
 - imitate
   - 发音
-    - 英
-      - `/'ɪmɪteɪt/`
-    - 美
-      - `/'ɪmɪtet/`
+    - 英 /'ɪmɪteɪt/
+    - 美 /'ɪmɪtet/
   - 词义
-    - vt.
-      - 模仿，效仿；仿制，仿造
-        - `to copy the way someone behaves, speaks, moves etc, especially in order to make people laugh`
+    - vt. 模仿，效仿；仿制，仿造
+      - to copy the way someone behaves, speaks, moves etc, especially in order to make people laugh
   - 记忆
     - imit(模仿) + ate(动词后缀) → 模仿， 效仿
   - 同根词
-    - adj.
-      - `imitation`
-        - 人造的，仿制的
-      - `imitative`
-        - 模仿的；仿制的
-    - n.
-      - `imitation`
-        - 模仿，仿造；仿制品
-      - `imitator`
-        - 模仿者；[自] 模拟器
+    - adj. imitation 人造的，仿制的
+    - adj. imitative 模仿的；仿制的
+    - n. imitation 模仿，仿造；仿制品
+    - n. imitator 模仿者；[自] 模拟器
   - 近义词
-    - vt.
-      - 模仿，仿效；仿造，仿制
-        - `simulate`
-        - `model after`
+    - vt. 模仿，仿效；仿造，仿制
+      - simulate
+      - model after
   - 例句
-    - `She was a splendid mimic and loved to imitate Winston Churchill.`
-      - 她是个出色的模仿者，喜欢模仿温斯顿·丘吉尔。
-
+    - She was a splendid mimic and loved to imitate Winston Churchill. 她是个出色的模仿者，喜欢模仿温斯顿·丘吉尔。
+  - 补充

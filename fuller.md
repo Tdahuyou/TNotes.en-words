@@ -1,10 +1,8 @@
 - fuller
   - 发音
-    - 英
-      - `/'fʊlə/`
-    - 美
-      - `/fʊlɚ/`
+    - 英 /'fʊlə/
+    - 美 /fʊlɚ/
   - 词义
-    - n.
-      - 漂洗工
-        - `a person who fulls cloth for his living `
+    - n. 漂洗工
+      - a person who fulls cloth for his living 
+  - 补充

@@ -1,41 +1,27 @@
 - fable
   - 发音
-    - 英
-      - `/'feɪbl/`
-    - 美
-      - `/'febl/`
+    - 英 /'feɪbl/
+    - 美 /'febl/
   - 词义
-    - n.
-      - 寓言；谎言
-        - `a traditional short story that teaches a moral lesson, especially a story about animals`
+    - n. 寓言；谎言
+      - a traditional short story that teaches a moral lesson, especially a story about animals
   - 记忆
     - fa(说) + (a)ble(能…的) → 能说的 → 传说的 → 寓言
   - 同根词
-    - adj.
-      - `fabulous`
-        - 难以置信的；传说的，寓言中的；极好的
-      - `fabled`
-        - 寓言中的，虚构的
-    - n.
-      - `fabulist`
-        - 寓言家；说谎者
-    - v.
-      - `fabled`
-        - 虚构（fable的过去分词）
+    - adj. fabulous 难以置信的；传说的，寓言中的；极好的
+    - adj. fabled 寓言中的，虚构的
+    - n. fabulist 寓言家；说谎者
+    - v. fabled 虚构（fable的过去分词）
   - 近义词
-    - n.
-      - 寓言；无稽之谈
-        - `allegory`
-        - `parable`
-    - vi.
-      - 编寓言；虚构
-        - `romance`
-        - `cook up`
-    - vt.
-      - 煞有介事地讲述；虚构
-        - `invent`
-        - `cook up`
+    - n. 寓言；无稽之谈
+      - allegory
+      - parable
+    - vi. 编寓言；虚构
+      - romance
+      - cook up
+    - vt. 煞有介事地讲述；虚构
+      - invent
+      - cook up
   - 例句
-    - `the fable of the fox and the crow`
-      - 狐狸和乌鸦的寓言故事
-
+    - the fable of the fox and the crow 狐狸和乌鸦的寓言故事
+  - 补充

@@ -1,30 +1,20 @@
 - tined
   - 发音
-    - 英
-      - `/taɪnd/`
-    - 美
-      - `/undefined/`
+    - 英 /taɪnd/
+    - 美 /undefined/
   - 词义
-    - adj.
-      - 尖端的
+    - adj. 尖端的
   - 记忆
     - 来自tine(n. 叉尖， 尖端)
   - 同根词
-    - n.
-      - `tine`
-        - 齿；尖头
-    - vi.
-      - `tine`
-        - 被丢失；遭难
-    - vt.
-      - `tine`
-        - （英）丢失；浪费
+    - n. tine 齿；尖头
+    - vi. tine 被丢失；遭难
+    - vt. tine （英）丢失；浪费
   - 近义词
-    - adj.
-      - 尖端的；有齿的
-        - `leading-edge`
-        - `dentigerous`
-    - v.
-      - 失去；浪费（tine的过去分词）
-        - `spent`
-        - `misspent`
+    - adj. 尖端的；有齿的
+      - leading-edge
+      - dentigerous
+    - v. 失去；浪费（tine的过去分词）
+      - spent
+      - misspent
+  - 补充

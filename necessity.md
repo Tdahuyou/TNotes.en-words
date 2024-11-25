@@ -1,51 +1,31 @@
 - necessity
   - 发音
-    - 英
-      - `/nə'sesəti/`
-    - 美
-      - `/nə'sɛsəti/`
+    - 英 /nə'sesəti/
+    - 美 /nə'sɛsəti/
   - 词义
-    - n.
-      - 必需品；必要，需要；必然性
-        - `something that you need to have in order to live`
+    - n. 必需品；必要，需要；必然性
+      - something that you need to have in order to live
   - 记忆
     - ne(不) + cess(走) + ity → 不能让它走的东西 → 必备之物 → 必需品
   - 同根词
-    - adj.
-      - `necessary`
-        - 必要的；必需的；必然的
-      - `necessitarian`
-        - 必然论的；宿命论的
-    - adv.
-      - `necessarily`
-        - 必要地；必定地，必然地
-    - n.
-      - `necessary`
-        - 必需品
-      - `necessitarian`
-        - 必然论者；宿命论者
-    - vt.
-      - `necessitate`
-        - 使成为必需，需要；迫使
+    - adj. necessary 必要的；必需的；必然的
+    - adj. necessitarian 必然论的；宿命论的
+    - adv. necessarily 必要地；必定地，必然地
+    - n. necessary 必需品
+    - n. necessitarian 必然论者；宿命论者
+    - vt. necessitate 使成为必需，需要；迫使
   - 近义词
-    - n.
-      - 需要；[数]必然性；[经]必需品
-        - `need`
-        - `want`
-        - `demand`
-        - `requirement for`
+    - n. 需要；[数]必然性；[经]必需品
+      - need
+      - want
+      - demand
+      - requirement for
   - 短语
-    - `of necessity`
-      - 必然地；不可避免地 
-    - `out of necessity`
-      - 出于需要，必定 
-    - `by necessity`
-      - 不得已；必然地，不可避免地 
-    - `logical necessity`
-      - 必然性，逻辑的必然性 
+    - of necessity 必然地；不可避免地
+    - out of necessity 出于需要，必定
+    - by necessity 不得已；必然地，不可避免地
+    - logical necessity 必然性，逻辑的必然性
   - 例句
-    - `She saw books as a necessity, not a luxury.`
-      - 她视书籍为必需品而非奢侈品。
-    - `A car is an absolute necessity if you live in the country.`
-      - 你要是住在乡下，绝对需要有辆汽车。
-
+    - She saw books as a necessity, not a luxury. 她视书籍为必需品而非奢侈品。
+    - A car is an absolute necessity if you live in the country. 你要是住在乡下，绝对需要有辆汽车。
+  - 补充

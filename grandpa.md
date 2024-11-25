@@ -1,13 +1,10 @@
 - grandpa
   - 发音
-    - 英
-      - `/ˈgrænpɑ:/`
-    - 美
-      - `/ˈɡrænˌpɑ/`
+    - 英 /ˈgrænpɑ:/
+    - 美 /ˈɡrænˌpɑ/
   - 词义
-    - n.
-      - （外）祖父
+    - n. （外）祖父
   - 近义词
-    - n.
-      - 爷爷；外公
-        - `maternal grandfather`
+    - n. 爷爷；外公
+      - maternal grandfather
+  - 补充

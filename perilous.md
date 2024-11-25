@@ -1,34 +1,23 @@
 - perilous
   - 发音
-    - 英
-      - `/'periləs/`
-    - 美
-      - `/'pɛrələs/`
+    - 英 /'periləs/
+    - 美 /'pɛrələs/
   - 词义
-    - adj.
-      - 危险的
-        - `very dangerous`
+    - adj. 危险的
+      - very dangerous
   - 记忆
     - 来自peril (n. 危险)
   - 同根词
-    - adv.
-      - `perilously`
-        - 危机四伏地；充满危险地
-    - n.
-      - `peril`
-        - 危险；冒险
-    - vt.
-      - `peril`
-        - 危及；置…于险境
+    - adv. perilously 危机四伏地；充满危险地
+    - n. peril 危险；冒险
+    - vt. peril 危及；置…于险境
   - 近义词
-    - adj.
-      - 危险的，冒险的
-        - `dangerous`
-        - `critical`
-        - `risky`
-        - `threatening`
-        - `hazardous`
+    - adj. 危险的，冒险的
+      - dangerous
+      - critical
+      - risky
+      - threatening
+      - hazardous
   - 例句
-    - `a perilous journey across the mountains`
-      - 穿越群山的危险旅程
-
+    - a perilous journey across the mountains 穿越群山的危险旅程
+  - 补充

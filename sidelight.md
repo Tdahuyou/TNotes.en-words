@@ -1,18 +1,13 @@
 - sidelight
   - 发音
-    - 英
-      - `/'saɪdlaɪt/`
-    - 美
-      - `/'saɪdlaɪt/`
+    - 英 /'saɪdlaɪt/
+    - 美 /'saɪdlaɪt/
   - 词义
-    - n.
-      - 侧灯，舷灯；趣闻；侧面射进来的光线
-        - `one of the two small lights next to the main front lights on a car`
+    - n. 侧灯，舷灯；趣闻；侧面射进来的光线
+      - one of the two small lights next to the main front lights on a car
   - 近义词
-    - n.
-      - 侧灯，舷灯；趣闻；侧面射进来的光线
-        - `running light`
+    - n. 侧灯，舷灯；趣闻；侧面射进来的光线
+      - running light
   - 例句
-    - `The book is full of amusing sidelights on his family background.`
-      - 这本书中有许多关于他家庭背景的趣闻。
-
+    - The book is full of amusing sidelights on his family background. 这本书中有许多关于他家庭背景的趣闻。
+  - 补充

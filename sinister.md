@@ -1,29 +1,20 @@
 - sinister
   - 发音
-    - 英
-      - `/'sinistə/`
-    - 美
-      - `/'sɪnɪstɚ/`
+    - 英 /'sinistə/
+    - 美 /'sɪnɪstɚ/
   - 词义
-    - adj.
-      - 左边的；险恶的
-        - `making you feel that something evil, dangerous, or illegal is happening or will happen`
+    - adj. 左边的；险恶的
+      - making you feel that something evil, dangerous, or illegal is happening or will happen
   - 记忆
     - sinist (左边的) + er → 险恶的
   - 同根词
-    - adv.
-      - `sinisterly`
-        - 不吉祥地；邪恶地
+    - adv. sinisterly 不吉祥地；邪恶地
   - 近义词
-    - adj.
-      - 阴险的；凶兆的；灾难性的；左边的
-        - `insidious`
-        - `snaky`
+    - adj. 阴险的；凶兆的；灾难性的；左边的
+      - insidious
+      - snaky
   - 例句
-    - `There is a sinister side to these events.`
-      - 这些事件有邪恶的一面。
-    - `He was a handsome man, in a sinister sort of way.`
-      - 他英俊的外貌中带着一点阴险。
-    - `a sinister atmosphere`
-      - 不祥的气氛
-
+    - There is a sinister side to these events. 这些事件有邪恶的一面。
+    - He was a handsome man, in a sinister sort of way. 他英俊的外貌中带着一点阴险。
+    - a sinister atmosphere 不祥的气氛
+  - 补充

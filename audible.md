@@ -1,32 +1,21 @@
 - audible
   - 发音
-    - 英
-      - `/'ɔːdəbl/`
-    - 美
-      - `/'ɔdəbl/`
+    - 英 /'ɔːdəbl/
+    - 美 /'ɔdəbl/
   - 词义
-    - adj.
-      - 听得见的
-        - `a sound that is audible is loud enough for you to hear it`
+    - adj. 听得见的
+      - a sound that is audible is loud enough for you to hear it
   - 记忆
     - aud(听) + ible(能…的) → 听得见的
   - 同根词
-    - adv.
-      - `audibly`
-        - 可听见地
-    - n.
-      - `audibility`
-        - 可闻度；可听到
+    - adv. audibly 可听见地
+    - n. audibility 可闻度；可听到
   - 近义词
-    - adj.
-      - 听得见的
-        - `hearable`
+    - adj. 听得见的
+      - hearable
   - 短语
-    - `audible alarm`
-      - 声音报警，音响报警 
-    - `audible sound`
-      - n. 可听见的声音 
+    - audible alarm 声音报警，音响报警
+    - audible sound n. 可听见的声音
   - 例句
-    - `His voice was barely audible (=  could only just be heard  ) above the roar of the crowd.`
-      - 人声嘈杂，几乎听不见他的说话声。
-
+    - His voice was barely audible (=  could only just be heard  ) above the roar of the crowd. 人声嘈杂，几乎听不见他的说话声。
+  - 补充

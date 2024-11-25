@@ -1,24 +1,17 @@
 - browbeat
   - 发音
-    - 英
-      - `/'braubiːt/`
-    - 美
-      - `/'braʊ'bit/`
+    - 英 /'braubiːt/
+    - 美 /'braʊ'bit/
   - 词义
-    - vt.
-      - 恫吓，吓唬
-        - `to try to make someone do something, especially in a threatening way`
+    - vt. 恫吓，吓唬
+      - to try to make someone do something, especially in a threatening way
   - 记忆
     - brow (眉毛) + beat (打) → 用眉毛来打人 → 吓唬
   - 同根词
-    - adj.
-      - `browbeaten`
-        - 战战兢兢的
-    - v.
-      - `browbeaten`
-        - 吓唬（browbeat的过去分词）
+    - adj. browbeaten 战战兢兢的
+    - v. browbeaten 吓唬（browbeat的过去分词）
   - 近义词
-    - vt.
-      - 恫吓，吓唬；欺侮
-        - `bulldoze`
-        - `gally`
+    - vt. 恫吓，吓唬；欺侮
+      - bulldoze
+      - gally
+  - 补充

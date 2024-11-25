@@ -1,25 +1,17 @@
 - utilitarian
   - 发音
-    - 英
-      - `/ˌjuːtɪlɪ'teriən/`
-    - 美
-      - `/,jutɪlɪ'tɛrɪən/`
+    - 英 /ˌjuːtɪlɪ'teriən/
+    - 美 /,jutɪlɪ'tɛrɪən/
   - 词义
-    - adj.
-      - 实用的；功利主义的
-        - `intended to be useful and practical rather than attractive or comfortable`
-    - n.
-      - 功利主义者
-        - `A utilitarian is someone with utilitarian views`
+    - adj. 实用的；功利主义的
+      - intended to be useful and practical rather than attractive or comfortable
+    - n. 功利主义者
+      - A utilitarian is someone with utilitarian views
   - 记忆
     - ut(用) + ilitar + ian → 实用的； 功利主义的
   - 同根词
-    - n.
-      - `utilitarianism`
-        - 功利主义；实用主义
+    - n. utilitarianism 功利主义；实用主义
   - 例句
-    - `ugly utilitarian buildings`
-      - 丑陋但实用的建筑物
-    - `One of the greatest utilitarians was Claude Helvetius.`
-      - 最伟大的功利主义者之一是克劳德·爱尔维修。
-
+    - ugly utilitarian buildings 丑陋但实用的建筑物
+    - One of the greatest utilitarians was Claude Helvetius. 最伟大的功利主义者之一是克劳德·爱尔维修。
+  - 补充

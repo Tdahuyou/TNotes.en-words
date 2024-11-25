@@ -1,24 +1,17 @@
 - flatulent
   - 发音
-    - 英
-      - `/'flætʃələnt/`
-    - 美
-      - `/'flætʃələnt/`
+    - 英 /'flætʃələnt/
+    - 美 /'flætʃələnt/
   - 词义
-    - adj.
-      - 自负的，浮夸的
+    - adj. 自负的，浮夸的
   - 记忆
     - fla(吹) + tul + ent → 吹嘘的 → 自负的
   - 同根词
-    - n.
-      - `flatulence`
-        - [内科] 肠胃气胀；浮夸；自负
-      - `flatus`
-        - 一阵风；肠胃胀气；屁；气息
-      - `flatulency`
-        - 腹胀；空虚
+    - n. flatulence [内科] 肠胃气胀；浮夸；自负
+    - n. flatus 一阵风；肠胃胀气；屁；气息
+    - n. flatulency 腹胀；空虚
   - 近义词
-    - adj.
-      - 浮夸的；自负的；肠胃气胀的；空虚的
-        - `proud`
-        - `blank`
+    - adj. 浮夸的；自负的；肠胃气胀的；空虚的
+      - proud
+      - blank
+  - 补充

@@ -1,15 +1,12 @@
 - mote
   - 发音
-    - 英
-      - `/məʊt/`
-    - 美
-      - `/undefined/`
+    - 英 /məʊt/
+    - 美 /undefined/
   - 词义
-    - n.
-      - 尘埃,微粒
-        - `a very small piece of dust`
+    - n. 尘埃,微粒
+      - a very small piece of dust
   - 近义词
-    - n.
-      - 尘埃；微粒；小错
-        - `dust`
-        - `molecule`
+    - n. 尘埃；微粒；小错
+      - dust
+      - molecule
+  - 补充

@@ -1,10 +1,8 @@
 - scandinavian
   - 发音
-    - 英
-      - `/,skændi'neiviən; -vjən/`
-    - 美
-      - `/,skændi'neiviən; -vjən/`
+    - 英 /,skændi'neiviən; -vjən/
+    - 美 /,skændi'neiviən; -vjən/
   - 词义
-    - n.
-      - 斯堪的纳维亚人[语]
-        - `Scandinavians are people from Scandinavian countries`
+    - n. 斯堪的纳维亚人[语]
+      - Scandinavians are people from Scandinavian countries
+  - 补充

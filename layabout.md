@@ -1,14 +1,11 @@
 - layabout
   - 发音
-    - 英
-      - `/'leɪəbaʊt/`
-    - 美
-      - `/'leəbaʊt/`
+    - 英 /'leɪəbaʊt/
+    - 美 /'leəbaʊt/
   - 词义
-    - n.
-      - 懒惰者
+    - n. 懒惰者
   - 近义词
-    - n.
-      - 懒汉；游荡的人
-        - `soldier`
-        - `idler`
+    - n. 懒汉；游荡的人
+      - soldier
+      - idler
+  - 补充

@@ -1,40 +1,25 @@
 - gratify
   - 发音
-    - 英
-      - `/'grætɪfaɪ/`
-    - 美
-      - `/'grætə'fai/`
+    - 英 /'grætɪfaɪ/
+    - 美 /'grætə'fai/
   - 词义
-    - vt.
-      - 使满意，使高兴；满足
-        - `to make someone feel pleased and satisfied`
+    - vt. 使满意，使高兴；满足
+      - to make someone feel pleased and satisfied
   - 记忆
     - grat(高兴的) + ify → 使高兴
   - 同根词
-    - adj.
-      - `gratified`
-        - 称心的
-      - `gratifying`
-        - 悦人的；令人满足的
-    - adv.
-      - `gratifyingly`
-        - 令人满意地；使人满足地
-    - n.
-      - `gratification`
-        - 满意；喜悦；使人满意之事
-    - v.
-      - `gratified`
-        - 使满足；使高兴（gratify的过去式及过去分词形式）
-      - `gratifying`
-        - 使满意（gratify的现在分词）；使高兴
+    - adj. gratified 称心的
+    - adj. gratifying 悦人的；令人满足的
+    - adv. gratifyingly 令人满意地；使人满足地
+    - n. gratification 满意；喜悦；使人满意之事
+    - v. gratified 使满足；使高兴（gratify的过去式及过去分词形式）
+    - v. gratifying 使满意（gratify的现在分词）；使高兴
   - 近义词
-    - vt.
-      - 使满足；使满意，使高兴
-        - `content`
-        - `please`
-        - `glad`
-        - `satisfy`
+    - vt. 使满足；使满意，使高兴
+      - content
+      - please
+      - glad
+      - satisfy
   - 例句
-    - `He was gratified by Lucy’s response.`
-      - 他对露西的回答很满意。
-
+    - He was gratified by Lucy’s response. 他对露西的回答很满意。
+  - 补充

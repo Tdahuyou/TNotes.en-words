@@ -1,22 +1,17 @@
 - brattish
   - 发音
-    - 英
-      - `/'brætɪʃ/`
-    - 美
-      - `/'brætɪʃ/`
+    - 英 /'brætɪʃ/
+    - 美 /'brætɪʃ/
   - 词义
-    - adj.
-      - 讨厌的，被宠坏的，无礼的ill-mannered;annoying)
+    - adj. 讨厌的，被宠坏的，无礼的ill-mannered;annoying)
   - 记忆
     - brat(小孩)＋tish → 小孩有时候有点讨厌 → 讨厌的
   - 同根词
-    - adj.
-      - `bratty`
-        - 讨厌的
+    - adj. bratty 讨厌的
   - 近义词
-    - adj.
-      - 被惯坏的；讨厌的；无礼的，幼稚的
-        - `evil`
-        - `tender`
-        - `rank`
-        - `unpleasant`
+    - adj. 被惯坏的；讨厌的；无礼的，幼稚的
+      - evil
+      - tender
+      - rank
+      - unpleasant
+  - 补充

@@ -1,17 +1,14 @@
 - forerun
   - 发音
-    - 英
-      - `/fɔː'rʌn/`
-    - 美
-      - `/fɔ:'rʌn/`
+    - 英 /fɔː'rʌn/
+    - 美 /fɔ:'rʌn/
   - 词义
-    - v.
-      - 预示；跑在…之前
+    - v. 预示；跑在…之前
   - 记忆
     - fore (前面， 预先) + run (跑) → 跑在前面 → 预示
   - 近义词
-    - vt.
-      - 预示；预告；走在…之前
-        - `indicate`
-        - `shadow`
-        - `announce`
+    - vt. 预示；预告；走在…之前
+      - indicate
+      - shadow
+      - announce
+  - 补充

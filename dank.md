@@ -1,25 +1,17 @@
 - dank
   - 发音
-    - 英
-      - `/dæŋk/`
-    - 美
-      - `/dæŋk/`
+    - 英 /dæŋk/
+    - 美 /dæŋk/
   - 词义
-    - adj.
-      - 潮湿的；阴湿的；透水的
-        - `unpleasantly wet and cold`
-    - n.
-      - (Dank)人名；(英)丹克；(匈)东克
+    - adj. 潮湿的；阴湿的；透水的
+      - unpleasantly wet and cold
+    - n. (Dank)人名；(英)丹克；(匈)东克
   - 同根词
-    - n.
-      - `dankness`
-        - 阴湿，潮湿
+    - n. dankness 阴湿，潮湿
   - 近义词
-    - adj.
-      - 潮湿的；阴湿的；透水的
-        - `wet`
-        - `humid`
+    - adj. 潮湿的；阴湿的；透水的
+      - wet
+      - humid
   - 例句
-    - `a dank prison cell`
-      - 阴冷的牢房
-
+    - a dank prison cell 阴冷的牢房
+  - 补充

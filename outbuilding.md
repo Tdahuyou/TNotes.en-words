@@ -1,19 +1,14 @@
 - outbuilding
   - 发音
-    - 英
-      - `/'aʊtbɪldɪŋ/`
-    - 美
-      - `/'aʊt'bɪldɪŋ/`
+    - 英 /'aʊtbɪldɪŋ/
+    - 美 /'aʊt'bɪldɪŋ/
   - 词义
-    - n.
-      - [建]外屋,(指车库,谷仓等)
-        - `a building near a main building, for example a barn or shed`
+    - n. [建]外屋,(指车库,谷仓等)
+      - a building near a main building, for example a barn or shed
   - 近义词
-    - n.
-      - [建]附属建筑物；外屋
-        - `outhouse`
-        - `adjacent accommodation`
+    - n. [建]附属建筑物；外屋
+      - outhouse
+      - adjacent accommodation
   - 例句
-    - `a farmhouse with a few outbuildings`
-      - 带几间外屋的农舍
-
+    - a farmhouse with a few outbuildings 带几间外屋的农舍
+  - 补充

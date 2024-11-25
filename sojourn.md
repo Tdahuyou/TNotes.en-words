@@ -1,26 +1,19 @@
 - sojourn
   - 发音
-    - 英
-      - `/'sɒdʒɜːn/`
-    - 美
-      - `/'sʌdʒɝn/`
+    - 英 /'sɒdʒɜːn/
+    - 美 /'sʌdʒɝn/
   - 词义
-    - v.
-      - 逗留
+    - v. 逗留
   - 同根词
-    - n.
-      - `sojourner`
-        - 寄居者；旅居者
+    - n. sojourner 寄居者；旅居者
   - 近义词
-    - n.
-      - 逗留；旅居
-        - `visit`
-        - `stay`
-        - `stop`
-    - vi.
-      - 逗留；旅居
-        - `remain`
-        - `stop`
+    - n. 逗留；旅居
+      - visit
+      - stay
+      - stop
+    - vi. 逗留；旅居
+      - remain
+      - stop
   - 短语
-    - `sojourn time`
-      - 逗留时间，滞留时间 
+    - sojourn time 逗留时间，滞留时间
+  - 补充

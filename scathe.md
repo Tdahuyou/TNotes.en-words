@@ -1,20 +1,16 @@
 - scathe
   - 发音
-    - 英
-      - `/skeið/`
-    - 美
-      - `/skeið/`
+    - 英 /skeið/
+    - 美 /skeið/
   - 词义
-    - v.
-      - 损伤，损害，伤害
+    - v. 损伤，损害，伤害
   - 近义词
-    - vt.
-      - 损伤；损害
-        - `hurt`
-        - `to injure`
-    - n.
-      - 损伤；危害；损害
-        - `harm`
-        - `damage`
-        - `impairment`
-        - `hurt`
+    - vt. 损伤；损害
+      - hurt
+      - to injure
+    - n. 损伤；危害；损害
+      - harm
+      - damage
+      - impairment
+      - hurt
+  - 补充

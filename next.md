@@ -1,39 +1,27 @@
 - next
   - 发音
-    - 英
-      - `/nekst/`
-    - 美
-      - `/nɛkst/`
+    - 英 /nekst/
+    - 美 /nɛkst/
   - 词义
-    - adj.
-      - 紧挨着，紧靠着
-    - adv.
-      - 紧接下来地，下一步
-        - `immediately afterwards`
+    - adj. 紧挨着，紧靠着
+    - adv. 紧接下来地，下一步
+      - immediately afterwards
   - 近义词
-    - adv.
-      - 然后；下次；其次
-        - `secondly`
-        - `then`
-        - `afterwards`
-    - adj.
-      - 下一个的；其次的；贴近的
-        - `following`
-        - `posterior`
-    - prep.
-      - 靠近；居于…之后
-        - `near`
-        - `anigh`
+    - adv. 然后；下次；其次
+      - secondly
+      - then
+      - afterwards
+    - adj. 下一个的；其次的；贴近的
+      - following
+      - posterior
+    - prep. 靠近；居于…之后
+      - near
+      - anigh
   - 短语
-    - `come next`
-      - 紧随其后；再下来 
-    - `the next world`
-      - 阴间；来世，来生；天堂 
-    - `get next to someone`
-      - [美国俚语]博得某人欢心；(尤指在性关系上)与某人相契，熟识某人 
+    - come next 紧随其后；再下来
+    - the next world 阴间；来世，来生；天堂
+    - get next to someone [美国俚语]博得某人欢心；(尤指在性关系上)与某人相契，熟识某人
   - 例句
-    - `With John here, you never know what will happen next.`
-      - 有约翰在这里，你永远都不会知道接下来会发生什么事。
-    - `Next, put it in the oven for 20 minutes.`
-      - 然后把它放到烤箱里烤20分钟。
-
+    - With John here, you never know what will happen next. 有约翰在这里，你永远都不会知道接下来会发生什么事。
+    - Next, put it in the oven for 20 minutes. 然后把它放到烤箱里烤20分钟。
+  - 补充

@@ -1,29 +1,18 @@
 - disagreeable
   - 发音
-    - 英
-      - `/ˌdisə'griəbl/`
-    - 美
-      - `/,dɪsə'ɡriəbl/`
+    - 英 /ˌdisə'griəbl/
+    - 美 /,dɪsə'ɡriəbl/
   - 词义
-    - adj.
-      - 不愉快的；脾气坏的
-        - `not at all enjoyable or pleasant`
+    - adj. 不愉快的；脾气坏的
+      - not at all enjoyable or pleasant
   - 同根词
-    - adv.
-      - `disagreeably`
-        - 不合口味地；不愉快地
-    - n.
-      - `disagreement`
-        - 不一致；争论；意见不同
-    - vi.
-      - `disagree`
-        - 不同意；不一致；争执；不适宜
+    - adv. disagreeably 不合口味地；不愉快地
+    - n. disagreement 不一致；争论；意见不同
+    - vi. disagree 不同意；不一致；争执；不适宜
   - 近义词
-    - adj.
-      - 不愉快的；厌恶的；不为人喜的；难相处的；脾气坏的
-        - `sick`
-        - `vinegarish`
+    - adj. 不愉快的；厌恶的；不为人喜的；难相处的；脾气坏的
+      - sick
+      - vinegarish
   - 例句
-    - `a disagreeable job`
-      - 不称心的工作
-
+    - a disagreeable job 不称心的工作
+  - 补充

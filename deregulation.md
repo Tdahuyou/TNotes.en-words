@@ -1,28 +1,19 @@
 - deregulation
   - 发音
-    - 英
-      - `/diː,regjʊ'leɪʃən/`
-    - 美
-      - `/dɪ'rɛgjʊ,leʃən/`
+    - 英 /ˌdiːˌregju'leɪʃn/
+    - 美 /dɪ'rɛgjʊ,leʃən/
   - 词义
-    - n.
-      - 违反规定，反常；撤消管制规定
-        - `Deregulation is the removal of controls and restrictions in a particular area of business or trade`
+    - n. 违反规定，撤销管制规定
+      - Deregulation is the removal of controls and restrictions in a particular area of business or trade
   - 记忆
     - 来自deregulate(v. 解除对…的管制)
   - 同根词
-    - vi.
-      - `deregulate`
-        - 解除控制
-    - vt.
-      - `deregulate`
-        - 解除对……的管制
+    - vi. deregulate 解除控制
+    - vt. deregulate 解除对……的管制
   - 近义词
-    - n.
-      - 违反规定，反常；撤消管制规定
-        - `perversion`
-        - `abnormalcy`
+    - n. 违反规定，反常；撤消管制规定
+      - perversion
+      - abnormalcy
   - 例句
-    - `Since deregulation, banks are permitted to set their own interest rates.`
-      - 解除管制后，银行获准自定利率。
-
+    - Since deregulation, banks are permitted to set their own interest rates. 解除管制后，银行获准自定利率。
+  - 补充

@@ -1,15 +1,11 @@
 - bestride
   - 发音
-    - 英
-      - `/bi'straid/`
-    - 美
-      - `/bi'straid/`
+    - 英 /bi'straid/
+    - 美 /bi'straid/
   - 词义
-    - v.
-      - 骑
+    - v. 骑
   - 记忆
     - be + stride (跨) → 跨 → 骑
   - 例句
-    - `They even bestride the carriage lamps.`
-      - 他们甚至骑在马车的灯笼上。
-
+    - They even bestride the carriage lamps. 他们甚至骑在马车的灯笼上。
+  - 补充

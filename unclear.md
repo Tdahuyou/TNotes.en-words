@@ -1,19 +1,14 @@
 - unclear
   - 发音
-    - 英
-      - `/ʌn'klɪə/`
-    - 美
-      - `/,ʌn'klɪr/`
+    - 英 /ʌn'klɪə/
+    - 美 /,ʌn'klɪr/
   - 词义
-    - adj.
-      - 不清楚的
-        - `difficult to understand or be sure about, so that there is doubt or confusion`
+    - adj. 不清楚的
+      - difficult to understand or be sure about, so that there is doubt or confusion
   - 近义词
-    - adj.
-      - 不清楚的；不易了解的
-        - `ill-defined`
-        - `indistinct`
+    - adj. 不清楚的；不易了解的
+      - ill-defined
+      - indistinct
   - 例句
-    - `The terms of the contract are very unclear.`
-      - 合同的条款非常含糊。
-
+    - The terms of the contract are very unclear. 合同的条款非常含糊。
+  - 补充

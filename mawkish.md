@@ -1,24 +1,17 @@
 - mawkish
   - 发音
-    - 英
-      - `/'mɔːkiʃ/`
-    - 美
-      - `/'mɔ:kiʃ/`
+    - 英 /'mɔːkiʃ/
+    - 美 /'mɔ:kiʃ/
   - 词义
-    - adj.
-      - 令人作恶的；无味的
+    - adj. 令人作恶的；无味的
   - 记忆
     - maw (看作raw， 生的， 不成熟的) + kish → 吃生肉很令人作恶 → 令人作恶的
   - 同根词
-    - n.
-      - `mawkishness`
-        - 伤感；心情不佳
+    - n. mawkishness 伤感；心情不佳
   - 近义词
-    - adj.
-      - 令人作呕的，令人厌恶的；自作多情的；淡而无味的
-        - `ugly`
-        - `nauseous`
+    - adj. 令人作呕的，令人厌恶的；自作多情的；淡而无味的
+      - ugly
+      - nauseous
   - 例句
-    - `a mawkish love story`
-      - 无病呻吟的爱情故事
-
+    - a mawkish love story 无病呻吟的爱情故事
+  - 补充

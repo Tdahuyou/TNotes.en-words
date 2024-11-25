@@ -1,27 +1,20 @@
 - clemency
   - 发音
-    - 英
-      - `/'klemənsi/`
-    - 美
-      - `/'klɛmənsi/`
+    - 英 /'klemənsi/
+    - 美 /'klɛmənsi/
   - 词义
-    - n.
-      - 温和；仁慈，和蔼
-        - `forgiveness and less severe punishment for a crime`
+    - n. 温和；仁慈，和蔼
+      - forgiveness and less severe punishment for a crime
   - 记忆
     - 和cement (n. 水泥) 一起记
   - 同根词
-    - adj.
-      - `clement`
-        - 温和的；仁慈的
+    - adj. clement 温和的；仁慈的
   - 近义词
-    - n.
-      - 仁慈；温和；宽厚
-        - `humanity`
-        - `mercy`
-        - `kindness`
-        - `benevolence`
+    - n. 仁慈；温和；宽厚
+      - humanity
+      - mercy
+      - kindness
+      - benevolence
   - 例句
-    - `The republican party has vociferously opposed any clemency for convicted terrorists.`
-      - 共和党已经高声反对给被判有罪的恐怖分子以任何仁慈。
-
+    - The republican party has vociferously opposed any clemency for convicted terrorists. 共和党已经高声反对给被判有罪的恐怖分子以任何仁慈。
+  - 补充

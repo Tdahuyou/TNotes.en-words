@@ -1,28 +1,19 @@
 - ignominious
   - 发音
-    - 英
-      - `/ˌignə'miniəs/`
-    - 美
-      - `/,ɪɡnə'mɪnɪəs/`
+    - 英 /ˌignə'miniəs/
+    - 美 /,ɪɡnə'mɪnɪəs/
   - 词义
-    - adj.
-      - 可耻的；不光彩的
-        - `making you feel ashamed or embarrassed`
+    - adj. 可耻的；不光彩的
+      - making you feel ashamed or embarrassed
   - 记忆
     - 来自ignomin (y) (耻辱) + ious → 可耻的
   - 同根词
-    - adv.
-      - `ignominiously`
-        - 可耻地
-    - n.
-      - `ignominy`
-        - 耻辱；不体面；丑行
+    - adv. ignominiously 可耻地
+    - n. ignominy 耻辱；不体面；丑行
   - 近义词
-    - adj.
-      - 可耻的；下流的
-        - `blue`
-        - `dirty`
+    - adj. 可耻的；下流的
+      - blue
+      - dirty
   - 例句
-    - `an ignominious end to his career`
-      - 他职业生涯不光彩的终结
-
+    - an ignominious end to his career 他职业生涯不光彩的终结
+  - 补充

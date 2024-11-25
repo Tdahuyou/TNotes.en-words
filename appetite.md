@@ -1,47 +1,30 @@
 - appetite
   - 发音
-    - 英
-      - `/'æpɪtaɪt/`
-    - 美
-      - `/'æpəˌtaɪt/`
+    - 英 /'æpɪtaɪt/
+    - 美 /'æpəˌtaɪt/
   - 词义
-    - n.
-      - 胃口，食欲；欲望
-        - `a desire for food`
+    - n. 胃口，食欲；欲望
+      - a desire for food
   - 记忆
     - ap(向， 往) + pet(寻找) + ite → 到处寻找 → 食欲
   - 同根词
-    - adj.
-      - `appetizing`
-        - 开胃的；促进食欲的
-      - `appetising`
-        - 促进食欲的；美味可口的；开胃的，诱人的
-      - `appetitive`
-        - 食欲的；有食欲的；开胃的
+    - adj. appetizing 开胃的；促进食欲的
+    - adj. appetising 促进食欲的；美味可口的；开胃的，诱人的
+    - adj. appetitive 食欲的；有食欲的；开胃的
   - 近义词
-    - n.
-      - [生理]食欲；嗜好
-        - `weakness`
-        - `habit`
-        - `hobby`
+    - n. [生理]食欲；嗜好
+      - weakness
+      - habit
+      - hobby
   - 短语
-    - `appetite for`
-      - 对…的欲望 
-    - `loss of appetite`
-      - 食欲不振 
-    - `good appetite`
-      - 很好的胃口 
-    - `risk appetite`
-      - 风险胃纳 
-    - `poor appetite`
-      - 食欲不振 
-    - `appetite for risk`
-      - 风险偏好；风险容量 
-    - `have a good appetite`
-      - v. 胃口好 
+    - appetite for 对…的欲望
+    - loss of appetite 食欲不振
+    - good appetite 很好的胃口
+    - risk appetite 风险胃纳
+    - poor appetite 食欲不振
+    - appetite for risk 风险偏好；风险容量
+    - have a good appetite v. 胃口好
   - 例句
-    - `Her husband always had a huge appetite.`
-      - 她丈夫向来胃口极大。
-    - `Symptoms include tiredness and loss of appetite.`
-      - 症状包括疲倦和食欲不振。
-
+    - Her husband always had a huge appetite. 她丈夫向来胃口极大。
+    - Symptoms include tiredness and loss of appetite. 症状包括疲倦和食欲不振。
+  - 补充

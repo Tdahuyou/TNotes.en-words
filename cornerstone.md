@@ -1,24 +1,19 @@
 - cornerstone
   - 发音
-    - 英
-      - `/'kɔːrnərstoun/`
-    - 美
-      - `/'kɔrnɚston/`
+    - 英 /'kɔːrnərstoun/
+    - 美 /'kɔrnɚston/
   - 词义
-    - n.
-      - 墙角石，奠基石；基础
-        - `something that is extremely important because everything else depends on it`
+    - n. 墙角石，奠基石；基础
+      - something that is extremely important because everything else depends on it
   - 记忆
     - corner(墙角) + stone(石) → 墙角石
   - 近义词
-    - n.
-      - 基础；柱石；地基
-        - `elements`
-        - `basis`
-        - `bed`
-        - `radical`
-        - `sole`
+    - n. 基础；柱石；地基
+      - elements
+      - basis
+      - bed
+      - radical
+      - sole
   - 例句
-    - `Research is the cornerstone of the profession.`
-      - 研究是该职业的基石。
-
+    - Research is the cornerstone of the profession. 研究是该职业的基石。
+  - 补充

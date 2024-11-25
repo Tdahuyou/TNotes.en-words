@@ -1,27 +1,19 @@
 - relentless
   - 发音
-    - 英
-      - `/rɪ'lentlɪs/`
-    - 美
-      - `/rɪ'lɛntləs/`
+    - 英 /rɪ'lentlɪs/
+    - 美 /rɪ'lɛntləs/
   - 词义
-    - adj.
-      - 无情的；残酷的；不间断的
-        - `strict, cruel, or determined, without ever stopping`
+    - adj. 无情的；残酷的；不间断的
+      - strict, cruel, or determined, without ever stopping
   - 同根词
-    - adv.
-      - `relentlessly`
-        - 残酷地，无情地
+    - adv. relentlessly 残酷地，无情地
   - 近义词
-    - adj.
-      - 无情的；残酷的；不间断的
-        - `cruel`
-        - `iron`
-        - `ongoing`
-        - `ruthless`
+    - adj. 无情的；残酷的；不间断的
+      - cruel
+      - iron
+      - ongoing
+      - ruthless
   - 例句
-    - `her relentless determination to succeed`
-      - 她要成功的坚定决心
-    - `a regime that was relentless in its persecution of dissidents`
-      - 无情迫害持不同政见者的政权
-
+    - her relentless determination to succeed 她要成功的坚定决心
+    - a regime that was relentless in its persecution of dissidents 无情迫害持不同政见者的政权
+  - 补充

@@ -1,22 +1,16 @@
 - amends
   - 发音
-    - 英
-      - `/ə'men(d)z/`
-    - 美
-      - `/ə'mɛndz/`
+    - 英 /ə'men(d)z/
+    - 美 /ə'mɛndz/
   - 词义
-    - n.
-      - (pl)赔偿，道歉
-        - `recompense or compensation given or gained for some injury, insult, etc `
+    - n. (pl)赔偿，道歉
+      - recompense or compensation given or gained for some injury, insult, etc 
   - 近义词
-    - n.
-      - 赔偿；赔罪
-        - `satisfaction`
-        - `reparation`
+    - n. 赔偿；赔罪
+      - satisfaction
+      - reparation
   - 短语
-    - `make amends`
-      - 赔偿（损失等）；道歉；赎罪 
+    - make amends 赔偿（损失等）；道歉；赎罪
   - 例句
-    - `to make amends`
-      - 
-
+    - to make amends 
+  - 补充

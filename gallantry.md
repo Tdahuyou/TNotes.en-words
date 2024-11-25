@@ -1,26 +1,17 @@
 - gallantry
   - 发音
-    - 英
-      - `/'gæləntrɪ/`
-    - 美
-      - `/'ɡæləntri/`
+    - 英 /'gæləntrɪ/
+    - 美 /'ɡæləntri/
   - 词义
-    - n.
-      - 勇敢
-        - `courage, especially in a battle`
+    - n. 勇敢
+      - courage, especially in a battle
   - 同根词
-    - adj.
-      - `gallant`
-        - 英勇的，勇敢的；华丽的；雄伟的
-    - adv.
-      - `gallantly`
-        - 勇敢地；漂亮地；献殷勤地
+    - adj. gallant 英勇的，勇敢的；华丽的；雄伟的
+    - adv. gallantly 勇敢地；漂亮地；献殷勤地
   - 近义词
-    - n.
-      - 勇敢；殷勤；风流；勇敢的行为
-        - `bravery`
-        - `hospitality`
+    - n. 勇敢；殷勤；风流；勇敢的行为
+      - bravery
+      - hospitality
   - 例句
-    - `a medal for gallantry`
-      - 英勇勋章
-
+    - a medal for gallantry 英勇勋章
+  - 补充

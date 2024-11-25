@@ -1,35 +1,23 @@
 - specifically
   - 发音
-    - 英
-      - `/spɪ'sɪfɪkəlɪ/`
-    - 美
-      - `/spə'sɪfɪkli/`
+    - 英 /spɪ'sɪfɪkəlɪ/
+    - 美 /spə'sɪfɪkli/
   - 词义
-    - adv.
-      - 特别地；明确地，具体地
-        - `relating to or intended for one particular type of person or thing only`
+    - adv. 特别地；明确地，具体地
+      - relating to or intended for one particular type of person or thing only
   - 同根词
-    - adj.
-      - `specific`
-        - 特殊的，特定的；明确的；详细的；[药] 具有特效的
-    - adv.
-      - `specially`
-        - 特别地；专门地
-    - n.
-      - `specific`
-        - 特性；细节；特效药
+    - adj. specific 特殊的，特定的；明确的；详细的；[药] 具有特效的
+    - adv. specially 特别地；专门地
+    - n. specific 特性；细节；特效药
   - 近义词
-    - adv.
-      - 特别地；明确地
-        - `particularly`
-        - `extra`
-        - `definitely`
-        - `positively`
-        - `explicitly`
+    - adv. 特别地；明确地
+      - particularly
+      - extra
+      - definitely
+      - positively
+      - explicitly
   - 短语
-    - `more specifically`
-      - 更具体地说 
+    - more specifically 更具体地说
   - 例句
-    - `advertising that specifically targets children`
-      - 专门针对儿童的广告
-
+    - advertising that specifically targets children 专门针对儿童的广告
+  - 补充

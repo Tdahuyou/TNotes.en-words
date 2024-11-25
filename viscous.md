@@ -1,46 +1,28 @@
 - viscous
   - 发音
-    - 英
-      - `/'vɪskəs/`
-    - 美
-      - `/'vɪskəs/`
+    - 英 /'vɪskəs/
+    - 美 /'vɪskəs/
   - 词义
-    - adj.
-      - 黏滞的，黏性的
-        - `a viscous liquid is thick and sticky and does not flow easily`
+    - adj. 黏滞的，黏性的
+      - a viscous liquid is thick and sticky and does not flow easily
   - 同根词
-    - n.
-      - `viscosity`
-        - [物] 粘性，[物] 粘度
-      - `viscousness`
-        - 黏质；有黏性
+    - n. viscosity [物] 粘性，[物] 粘度
+    - n. viscousness 黏质；有黏性
   - 近义词
-    - adj.
-      - [物]粘性的；黏的
-        - `sticky`
-        - `gummy`
+    - adj. [物]粘性的；黏的
+      - sticky
+      - gummy
   - 短语
-    - `viscous oil`
-      - 粘性油；稠油区 
-    - `viscous flow`
-      - 粘性流；滞流 
-    - `viscous fluid`
-      - 粘性流体 
-    - `viscous liquid`
-      - 粘性液体，粘滞流体；黏滞液体，黏性液 
-    - `viscous damping`
-      - 粘滞阻尼 
-    - `viscous damper`
-      - 黏性减振器，黏性阻尼器；粘性阻尼器 
-    - `viscous force`
-      - 粘性力；粘力 
-    - `viscous friction`
-      - 粘性摩擦；粘滞摩擦 
-    - `viscous dissipation`
-      - 粘性耗散；粘滞耗散；粘滞扩散 
-    - `viscous resistance`
-      - 粘性阻力；粘滞阻力 
+    - viscous oil 粘性油；稠油区
+    - viscous flow 粘性流；滞流
+    - viscous fluid 粘性流体
+    - viscous liquid 粘性液体，粘滞流体；黏滞液体，黏性液
+    - viscous damping 粘滞阻尼
+    - viscous damper 黏性减振器，黏性阻尼器；粘性阻尼器
+    - viscous force 粘性力；粘力
+    - viscous friction 粘性摩擦；粘滞摩擦
+    - viscous dissipation 粘性耗散；粘滞耗散；粘滞扩散
+    - viscous resistance 粘性阻力；粘滞阻力
   - 例句
-    - `As the liquid cools, it becomes viscous.`
-      - 这液体冷却后会变黏稠。
-
+    - As the liquid cools, it becomes viscous. 这液体冷却后会变黏稠。
+  - 补充

@@ -1,16 +1,10 @@
 - gazetteer
   - 发音
-    - 英
-      - `/undefined/`
-    - 美
-      - `/,ɡæzə'tɪr/`
+    - 英 /undefined/
+    - 美 /,ɡæzə'tɪr/
   - 词义
-    - n.
-      - 地名辞典,记者,公报记者
+    - n. 地名辞典,记者,公报记者
   - 同根词
-    - n.
-      - `gazette`
-        - （英）公报；报纸
-    - vt.
-      - `gazette`
-        - 在报上刊载
+    - n. gazette （英）公报；报纸
+    - vt. gazette 在报上刊载
+  - 补充

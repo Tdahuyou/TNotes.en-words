@@ -1,21 +1,16 @@
 - tenement
   - 发音
-    - 英
-      - `/'tenəmənt/`
-    - 美
-      - `/'tɛnəmənt/`
+    - 英 /'tenəmənt/
+    - 美 /'tɛnəmənt/
   - 词义
-    - n.
-      - 廉租公寓
-        - `a large building divided into apartments, especially in the poorer areas of a city`
+    - n. 廉租公寓
+      - a large building divided into apartments, especially in the poorer areas of a city
   - 记忆
     - ten(十) + e + men(人) + t → 十个人住一间屋子 → 廉租公寓
   - 近义词
-    - n.
-      - 房屋；住户，租户；租房子
-        - `housing`
-        - `whare`
+    - n. 房屋；住户，租户；租房子
+      - housing
+      - whare
   - 例句
-    - `...streets of low-cost tenements.`
-      - …低成本旧式公寓街。
-
+    - ...streets of low-cost tenements. …低成本旧式公寓街。
+  - 补充

@@ -1,28 +1,19 @@
 - magnanimous
   - 发音
-    - 英
-      - `/mæg'næniməs/`
-    - 美
-      - `/mæɡ'nænɪməs/`
+    - 英 /mæg'næniməs/
+    - 美 /mæɡ'nænɪməs/
   - 词义
-    - adj.
-      - 宽宏大量的；高尚的
-        - `kind and generous, especially to someone that you have defeated`
+    - adj. 宽宏大量的；高尚的
+      - kind and generous, especially to someone that you have defeated
   - 记忆
     - magn (大) + anim (心胸； 生命) + ous → 心胸大的 → 宽宏大量的
   - 同根词
-    - adv.
-      - `magnanimously`
-        - 大度宽宏地，度量大地；高尚地
-    - n.
-      - `magnanimity`
-        - 宽宏大量；慷慨
+    - adv. magnanimously 大度宽宏地，度量大地；高尚地
+    - n. magnanimity 宽宏大量；慷慨
   - 近义词
-    - adj.
-      - 宽宏大量的；有雅量的；宽大的
-        - `generous`
-        - `liberal`
+    - adj. 宽宏大量的；有雅量的；宽大的
+      - generous
+      - liberal
   - 例句
-    - `a magnanimous gesture`
-      - 宽宏大量的姿态
-
+    - a magnanimous gesture 宽宏大量的姿态
+  - 补充

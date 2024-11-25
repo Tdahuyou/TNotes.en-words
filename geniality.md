@@ -1,26 +1,17 @@
 - geniality
   - 发音
-    - 英
-      - `/undefined/`
-    - 美
-      - `/undefined/`
+    - 英 /undefined/
+    - 美 /undefined/
   - 词义
-    - n.
-      - 亲切
+    - n. 亲切
   - 同根词
-    - adj.
-      - `genial`
-        - 亲切的，友好的；和蔼的；适宜的
-    - adv.
-      - `genially`
-        - 和蔼地；快活地；亲切地
+    - adj. genial 亲切的，友好的；和蔼的；适宜的
+    - adv. genially 和蔼地；快活地；亲切地
   - 近义词
-    - n.
-      - 亲切；温暖；舒适
-        - `warmth`
-        - `ease`
-        - `tenderness`
+    - n. 亲切；温暖；舒适
+      - warmth
+      - ease
+      - tenderness
   - 例句
-    - `These songs are full of cordiality and geniality towards children and juveniles evidencing the interests and imaginations of naïve children.`
-      - 在歌曲中充满真挚与亲切，突出了孩子童稚般的情趣和意境。
-
+    - These songs are full of cordiality and geniality towards children and juveniles evidencing the interests and imaginations of naïve children. 在歌曲中充满真挚与亲切，突出了孩子童稚般的情趣和意境。
+  - 补充

@@ -1,21 +1,16 @@
 - prevision
   - 发音
-    - 英
-      - `/pri'viʒən/`
-    - 美
-      - `/,privɪʒən/`
+    - 英 /pri'viʒən/
+    - 美 /,privɪʒən/
   - 词义
-    - n.
-      - 预知，先见
-        - `the act or power of foreseeing; prescience `
+    - n. 预知，先见
+      - the act or power of foreseeing; prescience 
   - 记忆
     - pre(预先) + vis(看) + ion → 预先看到的 → 先见
   - 同根词
-    - vt.
-      - `previse`
-        - 预知；预先警告
+    - vt. previse 预知；预先警告
   - 近义词
-    - n.
-      - 预知；先见
-        - `prognosis`
-        - `foreknowledge`
+    - n. 预知；先见
+      - prognosis
+      - foreknowledge
+  - 补充

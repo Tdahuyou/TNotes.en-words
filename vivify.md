@@ -1,31 +1,20 @@
 - vivify
   - 发音
-    - 英
-      - `/'vɪvɪfaɪ/`
-    - 美
-      - `/'vɪvə,fai/`
+    - 英 /'vɪvɪfaɪ/
+    - 美 /'vɪvə,fai/
   - 词义
-    - vt.
-      - 赋予生气；使生动，使活跃
-        - `to bring to life; animate `
+    - vt. 赋予生气；使生动，使活跃
+      - to bring to life; animate 
   - 记忆
     - viv(生命) + ify(使…) → 赋予生气
   - 同根词
-    - adj.
-      - `vivid`
-        - 生动的；鲜明的；鲜艳的
-      - `vivacious`
-        - 活泼的；快活的；有生气的
-    - adv.
-      - `vividly`
-        - 生动地；强烈地
-    - n.
-      - `vividness`
-        - 生动；活泼；明亮
-      - `vivification`
-        - 给与生气；赋予生命；苏醒
+    - adj. vivid 生动的；鲜明的；鲜艳的
+    - adj. vivacious 活泼的；快活的；有生气的
+    - adv. vividly 生动地；强烈地
+    - n. vividness 生动；活泼；明亮
+    - n. vivification 给与生气；赋予生命；苏醒
   - 近义词
-    - vt.
-      - 使生动；使活跃；给与生气
-        - `enliven`
-        - `inform with`
+    - vt. 使生动；使活跃；给与生气
+      - enliven
+      - inform with
+  - 补充

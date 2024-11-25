@@ -1,51 +1,31 @@
 - residue
   - 发音
-    - 英
-      - `/'rezɪduː/`
-    - 美
-      - `/'rɛzɪdu/`
+    - 英 /'rezɪduː/
+    - 美 /'rɛzɪdu/
   - 词义
-    - n.
-      - 剩余物，残余物
-        - `a substance that remains on a surface, in a container etc and cannot be removed easily, or that remains after a chemical process`
+    - n. 剩余物，残余物
+      - a substance that remains on a surface, in a container etc and cannot be removed easily, or that remains after a chemical process
   - 记忆
     - re(再， 又) + sid(坐) + ue → 一直坐在那里 → 剩余物， 残余物
   - 同根词
-    - adj.
-      - `residual`
-        - 剩余的；残留的
-      - `residuary`
-        - 剩余的，残余的
-    - n.
-      - `residual`
-        - 剩余；残渣
-      - `residuary`
-        - 残余；偏差
+    - adj. residual 剩余的；残留的
+    - adj. residuary 剩余的，残余的
+    - n. residual 剩余；残渣
+    - n. residuary 残余；偏差
   - 近义词
-    - n.
-      - 残渣；[冶][数]剩余；滤渣
-        - `surplus`
-        - `spare`
+    - n. 残渣；[冶][数]剩余；滤渣
+      - surplus
+      - spare
   - 短语
-    - `pesticide residue`
-      - [药]农药残留（量） 
-    - `oil residue`
-      - 油渣，油残留物；残油 
-    - `carbon residue`
-      - 焦炭残渣；炭渣 
-    - `filter residue`
-      - [化]滤渣 
-    - `amount of residue`
-      - 残留量 
-    - `amino acid residue`
-      - 氨基酸残基 
-    - `quadratic residue`
-      - 二次剩余 
-    - `solid residue`
-      - 固体残渣 
+    - pesticide residue [药]农药残留（量）
+    - oil residue 油渣，油残留物；残油
+    - carbon residue 焦炭残渣；炭渣
+    - filter residue [化]滤渣
+    - amount of residue 残留量
+    - amino acid residue 氨基酸残基
+    - quadratic residue 二次剩余
+    - solid residue 固体残渣
   - 例句
-    - `The flies leave a sticky residue on crops.`
-      - 苍蝇在庄稼上留下黏糊糊的分泌物。
-    - `Rinse off any soap residue.`
-      - 冲净残留的肥皂。
-
+    - The flies leave a sticky residue on crops. 苍蝇在庄稼上留下黏糊糊的分泌物。
+    - Rinse off any soap residue. 冲净残留的肥皂。
+  - 补充

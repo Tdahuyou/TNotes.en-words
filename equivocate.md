@@ -1,29 +1,19 @@
 - equivocate
   - 发音
-    - 英
-      - `/i'kwivəˌkeit/`
-    - 美
-      - `/undefined/`
+    - 英 /i'kwivəˌkeit/
+    - 美 /undefined/
   - 词义
-    - v.
-      - 说模棱两可的话；支吾
-        - `to avoid giving a clear or direct answer to a question`
+    - v. 说模棱两可的话；支吾
+      - to avoid giving a clear or direct answer to a question
   - 记忆
     - equivoc (看作equivocal， 模棱两可的) + ate (做…) → 说模棱两可的话
   - 同根词
-    - adj.
-      - `equivocal`
-        - 模棱两可的；可疑的
-    - n.
-      - `equivocation`
-        - 含糊话；模棱两可的话
-      - `equivocator`
-        - 说模棱话的人；说话支吾者
+    - adj. equivocal 模棱两可的；可疑的
+    - n. equivocation 含糊话；模棱两可的话
+    - n. equivocator 说模棱话的人；说话支吾者
   - 近义词
-    - vi.
-      - 说模棱两可的话
-        - `quibble`
+    - vi. 说模棱两可的话
+      - quibble
   - 例句
-    - `He is equivocating a lot about what is going to happen if and when there are elections.`
-      - 他含含糊糊地说着很多如果进行选举会发生的状况。
-
+    - He is equivocating a lot about what is going to happen if and when there are elections. 他含含糊糊地说着很多如果进行选举会发生的状况。
+  - 补充

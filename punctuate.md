@@ -1,26 +1,19 @@
 - punctuate
   - 发音
-    - 英
-      - `/'pʌŋktjueit/`
-    - 美
-      - `/ˈpʌŋktʃuet/`
+    - 英 /'pʌŋktjueit/
+    - 美 /ˈpʌŋktʃuet/
   - 词义
-    - v.
-      - 加标点于；不时打断；强调
-        - `to divide written work into sentences, phrases etc using  comma s  ,  full stop s  etc`
+    - v. 加标点于；不时打断；强调
+      - to divide written work into sentences, phrases etc using  comma s  ,  full stop s  etc
   - 记忆
     - punct (刺) + uate → 锥刺股来提醒自己学习的重要性 → 强调
   - 同根词
-    - n.
-      - `punctuation`
-        - 标点；标点符号
+    - n. punctuation 标点；标点符号
   - 近义词
-    - vt.
-      - 不时打断；强调；加标点于
-        - `emphasize`
-        - `stress`
-        - `highlight`
+    - vt. 不时打断；强调；加标点于
+      - emphasize
+      - stress
+      - highlight
   - 例句
-    - `The silence was occasionally punctuated by laughter.`
-      - 寂静间或被笑声打破。
-
+    - The silence was occasionally punctuated by laughter. 寂静间或被笑声打破。
+  - 补充

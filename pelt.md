@@ -1,36 +1,24 @@
 - pelt
   - 发音
-    - 英
-      - `/pelt/`
-    - 美
-      - `/pɛlt/`
+    - 英 /pelt/
+    - 美 /pɛlt/
   - 词义
-    - n.
-      - 投掷,毛皮v剥的皮,投掷
-        - `the skin of a dead animal, especially with the fur or hair still on it`
+    - n. 投掷,毛皮v剥的皮,投掷
+      - the skin of a dead animal, especially with the fur or hair still on it
   - 同根词
-    - adj.
-      - `pelting`
-        - 盛怒的；微不足道的；没价值的
-    - n.
-      - `pelter`
-        - 雨大降；投掷者或器具；大怒
-    - v.
-      - `pelting`
-        - 投掷；攻击（pelt的ing形式）
+    - adj. pelting 盛怒的；微不足道的；没价值的
+    - n. pelter 雨大降；投掷者或器具；大怒
+    - v. pelting 投掷；攻击（pelt的ing形式）
   - 近义词
-    - vt.
-      - 攻击或投掷；剥皮
-        - `skin`
-        - `shell`
-    - n.
-      - [皮革]毛皮；打击
-        - `blow`
-        - `stroke`
-        - `shock`
-        - `strike`
-        - `hit`
+    - vt. 攻击或投掷；剥皮
+      - skin
+      - shell
+    - n. [皮革]毛皮；打击
+      - blow
+      - stroke
+      - shock
+      - strike
+      - hit
   - 例句
-    - `...a bed covered with beaver pelts.`
-      - …一张铺着海狸皮的床。
-
+    - ...a bed covered with beaver pelts. …一张铺着海狸皮的床。
+  - 补充

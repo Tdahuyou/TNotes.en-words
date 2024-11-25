@@ -1,19 +1,15 @@
 - tome
   - 发音
-    - 英
-      - `/təum/`
-    - 美
-      - `/toʊm/`
+    - 英 /təum/
+    - 美 /toʊm/
   - 词义
-    - n.
-      - 册，大部头书；巨著
-        - `a large heavy book`
+    - n. 册，大部头书；巨著
+      - a large heavy book
   - 记忆
     - 大部头书(tome)都放在家里(home)
   - 近义词
-    - n.
-      - 册；大本书
-        - `volume`
+    - n. 册；大本书
+      - volume
   - 短语
-    - `sao tome and principe`
-      - 圣多美与普林希比共和国（位于非洲） 
+    - sao tome and principe 圣多美与普林希比共和国（位于非洲）
+  - 补充

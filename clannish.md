@@ -1,30 +1,20 @@
 - clannish
   - 发音
-    - 英
-      - `/'klænɪʃ/`
-    - 美
-      - `/'klænɪʃ/`
+    - 英 /'klænɪʃ/
+    - 美 /'klænɪʃ/
   - 词义
-    - adj.
-      - 排他的，门户之见的
-        - `a group of people who are clannish are very close to each other, and seem unfriendly towards strangers`
+    - adj. 排他的，门户之见的
+      - a group of people who are clannish are very close to each other, and seem unfriendly towards strangers
   - 记忆
     - clan(宗派， 家族) + nish → 门户之见的
   - 同根词
-    - adv.
-      - `clannishly`
-        - 派系地，党派地；团结地
-    - n.
-      - `clannishness`
-        - 氏族心
-      - `clanswoman`
-        - 同氏族的女人
+    - adv. clannishly 派系地，党派地；团结地
+    - n. clannishness 氏族心
+    - n. clanswoman 同氏族的女人
   - 近义词
-    - adj.
-      - 氏族的；党派的；排他的
-        - `political`
-        - `septal`
+    - adj. 氏族的；党派的；排他的
+      - political
+      - septal
   - 例句
-    - `a clannish community`
-      - 一个排他的团体
-
+    - a clannish community 一个排他的团体
+  - 补充

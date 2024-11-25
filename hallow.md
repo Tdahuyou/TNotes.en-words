@@ -1,21 +1,16 @@
 - hallow
   - 发音
-    - 英
-      - `/'hæləu/`
-    - 美
-      - `/ˈhæləʊ/`
+    - 英 /'hæləu/
+    - 美 /ˈhæləʊ/
   - 词义
-    - v.
-      - 把…视为神圣；尊敬，敬畏
-        - `to consecrate or set apart as being holy `
+    - v. 把…视为神圣；尊敬，敬畏
+      - to consecrate or set apart as being holy 
   - 记忆
     - 注意不要和hollow(adj. 空洞的)相混
   - 同根词
-    - adj.
-      - `hallowed`
-        - 神圣的，神圣化的
+    - adj. hallowed 神圣的，神圣化的
   - 近义词
-    - n.
-      - 圣徒
-        - `blessed guru`
-        - `sainthood`
+    - n. 圣徒
+      - blessed guru
+      - sainthood
+  - 补充

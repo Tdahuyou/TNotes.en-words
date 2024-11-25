@@ -1,17 +1,13 @@
 - hutch
   - 发音
-    - 英
-      - `/hʌtʃ/`
-    - 美
-      - `/hʌtʃ/`
+    - 英 /hʌtʃ/
+    - 美 /hʌtʃ/
   - 词义
-    - n.
-      - 笼；小屋；贮藏箱；矿车
-        - `a small wooden  cage  that small animals are kept in, especially rabbits`
-    - vt.
-      - 把…装箱
+    - n. 笼；小屋；贮藏箱；矿车
+      - a small wooden  cage  that small animals are kept in, especially rabbits
+    - vt. 把…装箱
   - 近义词
-    - n.
-      - 笼；小屋；贮藏箱；矿车
-        - `cage`
-        - `shed`
+    - n. 笼；小屋；贮藏箱；矿车
+      - cage
+      - shed
+  - 补充

@@ -1,17 +1,13 @@
 - semaphore
   - 发音
-    - 英
-      - `/'seməfɔː/`
-    - 美
-      - `/'sɛməfɔr/`
+    - 英 /'seməfɔː/
+    - 美 /'sɛməfɔr/
   - 词义
-    - n.
-      - 旗语
-        - `a system of sending messages using two flags, which you hold in different positions to represent letters and numbers`
+    - n. 旗语
+      - a system of sending messages using two flags, which you hold in different positions to represent letters and numbers
   - 近义词
-    - vi.
-      - 打旗语；[计]发信号
-        - `signal`
-    - n.
-      - [计]信号；旗语；臂板信号机
-        - `signal`
+    - vi. 打旗语；[计]发信号
+      - signal
+    - n. [计]信号；旗语；臂板信号机
+      - signal
+  - 补充

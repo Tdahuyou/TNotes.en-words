@@ -1,21 +1,15 @@
 - banish
   - 发音
-    - 英
-      - `/'bænɪʃ/`
-    - 美
-      - `/'bænɪʃ/`
+    - 英 /'bænɪʃ/
+    - 美 /'bænɪʃ/
   - 词义
-    - v.
-      - 放逐；驱逐
-        - `to not allow someone or something to stay in a particular place`
-    - n.
-      - (Banish)人名；(英)巴尼什
+    - v. 放逐；驱逐
+      - to not allow someone or something to stay in a particular place
+    - n. (Banish)人名；(英)巴尼什
   - 近义词
-    - vt.
-      - 放逐；驱逐
-        - `ostracize`
-        - `expel`
+    - vt. 放逐；驱逐
+      - ostracize
+      - expel
   - 例句
-    - `John was banished from England.`
-      - 约翰被逐出英国。
-
+    - John was banished from England. 约翰被逐出英国。
+  - 补充

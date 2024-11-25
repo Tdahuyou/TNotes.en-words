@@ -1,27 +1,19 @@
 - filial
   - 发音
-    - 英
-      - `/'fɪliəl/`
-    - 美
-      - `/'fɪlɪəl/`
+    - 英 /'fɪliəl/
+    - 美 /'fɪlɪəl/
   - 词义
-    - adj.
-      - 子女的；子孙后代的
-        - `relating to the relationship of a son or daughter to their parents`
+    - adj. 子女的；子孙后代的
+      - relating to the relationship of a son or daughter to their parents
   - 记忆
     - fil(儿子) + ial → 儿子的 → 子女的
   - 同根词
-    - n.
-      - `filicide`
-        - 杀子女者
+    - n. filicide 杀子女者
   - 近义词
-    - adj.
-      - 孝顺的；子女的，当做子女的
-        - `obedient`
+    - adj. 孝顺的；子女的，当做子女的
+      - obedient
   - 短语
-    - `filial generation`
-      - 杂交后代 
+    - filial generation 杂交后代
   - 例句
-    - `her filial duty`
-      - 她的孝道
-
+    - her filial duty 她的孝道
+  - 补充

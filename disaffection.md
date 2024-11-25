@@ -1,29 +1,18 @@
 - disaffection
   - 发音
-    - 英
-      - `/undefined/`
-    - 美
-      - `/,dɪsə'fɛkʃən/`
+    - 英 /undefined/
+    - 美 /,dɪsə'fɛkʃən/
   - 词义
-    - n.
-      - 不满
-        - `Disaffection is the attitude that people have when they stop supporting something such as an organization or political ideal`
+    - n. 不满
+      - Disaffection is the attitude that people have when they stop supporting something such as an organization or political ideal
   - 同根词
-    - adj.
-      - `disaffected`
-        - 不满的；有叛意的；愤愤不平的
-    - v.
-      - `disaffected`
-        - 使疏远；使不友爱（disaffect的过去分词）
-    - vt.
-      - `disaffect`
-        - 使疏远；使不满意；使成为敌人
+    - adj. disaffected 不满的；有叛意的；愤愤不平的
+    - v. disaffected 使疏远；使不友爱（disaffect的过去分词）
+    - vt. disaffect 使疏远；使不满意；使成为敌人
   - 近义词
-    - n.
-      - 不满；背叛
-        - `dissatisfaction`
-        - `grievance`
+    - n. 不满；背叛
+      - dissatisfaction
+      - grievance
   - 例句
-    - `...people's disaffection with their country and its leaders.`
-      - ...人民对自己国家和领导人的不满。
-
+    - ...people's disaffection with their country and its leaders. ...人民对自己国家和领导人的不满。
+  - 补充

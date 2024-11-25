@@ -1,68 +1,38 @@
 - defend
   - 发音
-    - 英
-      - `/dɪ'fend/`
-    - 美
-      - `/dɪ'fɛnd/`
+    - 英 /dɪ'fend/
+    - 美 /dɪ'fɛnd/
   - 词义
-    - v.
-      - 防护,辩护
-        - `to use arguments to protect something or someone from criticism, or to prove that something is right`
+    - v. 防护,辩护
+      - to use arguments to protect something or someone from criticism, or to prove that something is right
   - 同根词
-    - adj.
-      - `defendant`
-        - 辩护的；为自己辩护的
-      - `defensive`
-        - 自卫的；防御用的
-      - `defending`
-        - 卫冕的；防御中的；防守型的
-      - `defensible`
-        - 可防御的；可辩护的；可拥护的
-      - `defenseless`
-        - 无防备的
-      - `defenceless`
-        - （英）无防御的；无保护的
-      - `defendable`
-        - 可防御的
-    - adv.
-      - `defensively`
-        - 防御地；守势地
-    - n.
-      - `defense`
-        - 防卫，防护；防御措施；防守；vt. 谋划抵御
-      - `defence`
-        - 防御；防卫；答辩；防卫设备
-      - `defendant`
-        - 被告
-      - `defensive`
-        - 防御；守势
-      - `defender`
-        - 防卫者，守卫者；辩护者；拥护者；卫冕者
-      - `defensiveness`
-        - 防御；防御性
-      - `defenselessness`
-        - 无防御
-    - v.
-      - `defending`
-        - 防护；防卫（defend的ing形式）
+    - adj. defendant 辩护的；为自己辩护的
+    - adj. defensive 自卫的；防御用的
+    - adj. defending 卫冕的；防御中的；防守型的
+    - adj. defensible 可防御的；可辩护的；可拥护的
+    - adj. defenseless 无防备的
+    - adj. defenceless （英）无防御的；无保护的
+    - adj. defendable 可防御的
+    - adv. defensively 防御地；守势地
+    - n. defense 防卫，防护；防御措施；防守；vt. 谋划抵御
+    - n. defence 防御；防卫；答辩；防卫设备
+    - n. defendant 被告
+    - n. defensive 防御；守势
+    - n. defender 防卫者，守卫者；辩护者；拥护者；卫冕者
+    - n. defensiveness 防御；防御性
+    - n. defenselessness 无防御
+    - v. defending 防护；防卫（defend的ing形式）
   - 近义词
-    - vt.
-      - [法]辩护；防护
-        - `to claim`
-        - `forefend`
-    - vi.
-      - 保卫；防守
-        - `hold position`
+    - vt. [法]辩护；防护
+      - to claim
+      - forefend
+    - vi. 保卫；防守
+      - hold position
   - 短语
-    - `defend oneself`
-      - 自卫；申辩；自行辩护 
-    - `defend against`
-      - 防卫，保卫；抵抗 
-    - `defend with`
-      - 用…防卫 
+    - defend oneself 自卫；申辩；自行辩护
+    - defend against 防卫，保卫；抵抗
+    - defend with 用…防卫
   - 例句
-    - `She was always defending her husband in front of their daughter.`
-      - 她在女儿面前总是为丈夫辩解。
-    - `Students should be ready to explain and defend their views.`
-      - 学生应该勇于为自己的观点进行解释和辩护。
-
+    - She was always defending her husband in front of their daughter. 她在女儿面前总是为丈夫辩解。
+    - Students should be ready to explain and defend their views. 学生应该勇于为自己的观点进行解释和辩护。
+  - 补充

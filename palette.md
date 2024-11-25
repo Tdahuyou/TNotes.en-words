@@ -1,26 +1,19 @@
 - palette
   - 发音
-    - 英
-      - `/'pælit/`
-    - 美
-      - `/'pælət/`
+    - 英 /'pælit/
+    - 美 /'pælət/
   - 词义
-    - n.
-      - 调色板
-        - `a thin curved board that an artist uses to mix paints, holding it by putting his or her thumb through a hole at the edge`
+    - n. 调色板
+      - a thin curved board that an artist uses to mix paints, holding it by putting his or her thumb through a hole at the edge
   - 记忆
     - pale (灰白色) + tte → 用调色板调出灰白色 → 调色板
   - 近义词
-    - n.
-      - [计]调色板；颜料
-        - `color`
-        - `paint`
+    - n. [计]调色板；颜料
+      - color
+      - paint
   - 短语
-    - `color palette`
-      - 调色板 
-    - `palette knife`
-      - 调色刀 
+    - color palette 调色板
+    - palette knife 调色刀
   - 例句
-    - `The painter's right hand holds the brush, the left the palette.`
-      - 那位画家的右手握着画笔，左手拿着调色盘。
-
+    - The painter's right hand holds the brush, the left the palette. 那位画家的右手握着画笔，左手拿着调色盘。
+  - 补充

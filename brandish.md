@@ -1,24 +1,18 @@
 - brandish
   - 发音
-    - 英
-      - `/'brændiʃ/`
-    - 美
-      - `/'brændɪʃ/`
+    - 英 /'brændiʃ/
+    - 美 /'brændɪʃ/
   - 词义
-    - v.
-      - 挥舞；炫耀
-        - `to wave something around in a dangerous or threatening way, especially a weapon`
+    - v. 挥舞；炫耀
+      - to wave something around in a dangerous or threatening way, especially a weapon
   - 记忆
     - brand (名牌) + ish → 有了名牌就“得意地挥动”
   - 近义词
-    - vt.
-      - 挥舞；炫耀
-        - `swing`
-        - `show off`
-    - n.
-      - 挥舞
-        - `flourish`
+    - vt. 挥舞；炫耀
+      - swing
+      - show off
+    - n. 挥舞
+      - flourish
   - 例句
-    - `A man leapt out, brandishing a kitchen knife.`
-      - 一个男人挥着一把菜刀跳了出来。
-
+    - A man leapt out, brandishing a kitchen knife. 一个男人挥着一把菜刀跳了出来。
+  - 补充

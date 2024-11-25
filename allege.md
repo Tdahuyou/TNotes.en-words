@@ -1,31 +1,20 @@
 - allege
   - 发音
-    - 英
-      - `/ə'ledʒ/`
-    - 美
-      - `/ə'lɛdʒ/`
+    - 英 /ə'ledʒ/
+    - 美 /ə'lɛdʒ/
   - 词义
-    - vt.
-      - 断言，宣称
-        - `to say that something is true or that someone has done something wrong, although it has not been proved`
+    - vt. 断言，宣称
+      - to say that something is true or that someone has done something wrong, although it has not been proved
   - 记忆
     - al(向) + leg(送) + e → (把话)向某人送去 → 断言， 宣称
   - 同根词
-    - adj.
-      - `alleged`
-        - 所谓的；声称的；被断言的
-    - n.
-      - `allegation`
-        - 主张，断言；辩解
-    - v.
-      - `alleged`
-        - 宣称（allege的过去式和过去分词）；断言
+    - adj. alleged 所谓的；声称的；被断言的
+    - n. allegation 主张，断言；辩解
+    - v. alleged 宣称（allege的过去式和过去分词）；断言
   - 近义词
-    - vt.
-      - 宣称，断言；提出…作为理由
-        - `declare`
-        - `asseverate`
+    - vt. 宣称，断言；提出…作为理由
+      - declare
+      - asseverate
   - 例句
-    - `She alleged that there was rampant drug use among the male members of the group.`
-      - 她指称该组织中有大量的男性成员吸毒。
-
+    - She alleged that there was rampant drug use among the male members of the group. 她指称该组织中有大量的男性成员吸毒。
+  - 补充

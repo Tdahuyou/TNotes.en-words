@@ -1,21 +1,16 @@
 - irate
   - 发音
-    - 英
-      - `/ai'reit/`
-    - 美
-      - `/aɪ'ret/`
+    - 英 /ai'reit/
+    - 美 /aɪ'ret/
   - 词义
-    - adj.
-      - 生气的，发怒的
-        - `If someone is irate, they are very angry about something`
+    - adj. 生气的，发怒的
+      - If someone is irate, they are very angry about something
   - 记忆
     - i (我) + rate (责骂) → 我无端被责骂了 → 生气的， 发怒的
   - 近义词
-    - adj.
-      - 生气的；发怒的
-        - `angry`
-        - `riley`
+    - adj. 生气的；发怒的
+      - angry
+      - riley
   - 例句
-    - `The owner was so irate he almost threw me out of the place.`
-      - 主人那么生气，他差点儿把我从那个地方赶出去。
-
+    - The owner was so irate he almost threw me out of the place. 主人那么生气，他差点儿把我从那个地方赶出去。
+  - 补充

@@ -1,9 +1,7 @@
 - revealingly
   - 发音
-    - 英
-      - `/undefined/`
-    - 美
-      - `/undefined/`
+    - 英 /undefined/
+    - 美 /undefined/
   - 词义
-    - adv.
-      - 启发人地,袒胸露肩地
+    - adv. 启发人地,袒胸露肩地
+  - 补充

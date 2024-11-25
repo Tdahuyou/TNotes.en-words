@@ -1,28 +1,20 @@
 - febrile
   - 发音
-    - 英
-      - `/'fiːbraɪl/`
-    - 美
-      - `/'fibraɪl/`
+    - 英 /'fiːbraɪl/
+    - 美 /'fibraɪl/
   - 词义
-    - adj.
-      - 发烧的，热病的
-        - `full of nervous excitement or activity`
+    - adj. 发烧的，热病的
+      - full of nervous excitement or activity
   - 记忆
     - febr(热) + ile → 发热的 → 发烧的
   - 同根词
-    - n.
-      - `febricity`
-        - 发烧；发热
+    - n. febricity 发烧；发热
   - 近义词
-    - adj.
-      - [医]发热的；热病的；发烧的
-        - `burning`
-        - `calorific`
+    - adj. [医]发热的；热病的；发烧的
+      - burning
+      - calorific
   - 短语
-    - `febrile convulsion`
-      - [医]高热惊厥；发热性痉挛 
+    - febrile convulsion [医]高热惊厥；发热性痉挛
   - 例句
-    - `a febrile imagination`
-      - 狂想
-
+    - a febrile imagination 狂想
+  - 补充

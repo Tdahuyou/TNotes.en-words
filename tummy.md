@@ -1,19 +1,14 @@
 - tummy
   - 发音
-    - 英
-      - `/'tʌmɪ/`
-    - 美
-      - `/'tʌmɪ/`
+    - 英 /'tʌmɪ/
+    - 美 /'tʌmɪ/
   - 词义
-    - n.
-      - 肚子；胃
-        - ` stomach  – used especially by or to children`
+    - n. 肚子；胃
+      -  stomach  – used especially by or to children
   - 近义词
-    - n.
-      - 肚子；胃
-        - `stomach`
-        - `kyte`
+    - n. 肚子；胃
+      - stomach
+      - kyte
   - 例句
-    - `He was up all night with tummy ache .`
-      - 他肚子疼，整晚都睡不着觉。
-
+    - He was up all night with tummy ache . 他肚子疼，整晚都睡不着觉。
+  - 补充

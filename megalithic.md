@@ -1,21 +1,15 @@
 - megalithic
   - 发音
-    - 英
-      - `/undefined/`
-    - 美
-      - `/undefined/`
+    - 英 /ˌmegə'lɪθɪk/
+    - 美 /undefined/
   - 词义
-    - adj.
-      - 使用巨石的，巨石造成的
+    - adj. 巨石制的
   - 记忆
     - 来自megalith(n. 巨石)
   - 同根词
-    - n.
-      - `megalith`
-        - 巨石
+    - n. megalith 巨石
   - 例句
-    - `Life’s primal forces are close at hand in Bena, on the island of Flores, where homes shaped like volcanic cones stand beside megalithic gravestones.`
-      - 弗洛勒斯岛毕纳村的房屋形状类似火山锥，立在巨石垒成的墓碑旁，生活的原始力量近在咫尺。
-    - `These type of structures began showing up near the end of the stone age all across Europe in what is called the megalithic age when people were energetically building structures such as Stonehenge.`
-      - 在欧洲，此类建筑出现于石器时代晚期，故该时期也被称为巨石时代。 当时，人们大力建造类似建筑，如巨石阵等。
-
+    - The largest group of religious monuments and megalithic sculptures in South America stands in a wild, spectacular landscape. 在南美洲一片原始壮观的风景区内竖立着一些巨大的宗教性的纪念像和雕塑。
+    - The most ancient form of megalithic construction may be the dolmen, a type of burial chamber consisting of several upright supports and a flat roofing slab. 最古老形式的史前巨石建筑可能是石室冢墓，这是一种由数个直立的支撑物和一个平坦的屋顶构成的石室墓葬。
+    - It was characterized by the continuous development of farming and husbandry, the birth of bronze industry, the change of funeral rites, and the emergence of megalithic buildings. 青铜时代早期的不列颠农耕畜牧经济持续不断的发展、青铜工业诞生、葬俗发生变化和巨石建筑的构筑，展示了史前不列颠社会不断进步的历史内涵和向前发展的历史进程。
+  - 补充

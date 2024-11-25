@@ -1,32 +1,19 @@
 - excusable
   - 发音
-    - 英
-      - `/ɪk'sjuːzəb(ə)l; ek-/`
-    - 美
-      - `/ɪk'skjuzəbl/`
+    - 英 /ɪk'sjuːzəb(ə)l; ek-/
+    - 美 /ɪk'skjuzəbl/
   - 词义
-    - adj.
-      - 可原谅的；可辩解的；可免除的
-        - `behaviour that is excusable can be forgiven`
+    - adj. 可原谅的；可辩解的；可免除的
+      - behaviour that is excusable can be forgiven
   - 同根词
-    - adv.
-      - `excusably`
-        - 可辩解地；可原谅地
-    - n.
-      - `excuse`
-        - 借口；理由
-    - vi.
-      - `excuse`
-        - 作为借口；请求宽恕；表示宽恕
-    - vt.
-      - `excuse`
-        - 原谅；为…申辩；给…免去
+    - adv. excusably 可辩解地；可原谅地
+    - n. excuse 借口；理由
+    - vi. excuse 作为借口；请求宽恕；表示宽恕
+    - vt. excuse 原谅；为…申辩；给…免去
   - 近义词
-    - adj.
-      - 可原谅的；可辩解的；可免除的
-        - `venial`
-        - `justifiable`
+    - adj. 可原谅的；可辩解的；可免除的
+      - venial
+      - justifiable
   - 例句
-    - `an excusable reaction of anger`
-      - 情有可原的恼怒反应
-
+    - an excusable reaction of anger 情有可原的恼怒反应
+  - 补充

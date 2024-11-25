@@ -1,28 +1,18 @@
 - revelry
   - 发音
-    - 英
-      - `/'revlrɪ/`
-    - 美
-      - `/'rɛvlri/`
+    - 英 /'revlrɪ/
+    - 美 /'rɛvlri/
   - 词义
-    - n.
-      - 狂欢
-        - `wild noisy dancing, eating, drinking etc, usually to celebrate something`
+    - n. 狂欢
+      - wild noisy dancing, eating, drinking etc, usually to celebrate something
   - 同根词
-    - n.
-      - `revel`
-        - 狂欢；闹饮；喜庆狂欢活动
-      - `reveler`
-        - 欢宴者，狂欢者；饮酒狂欢者；摆设酒宴者
-    - vi.
-      - `revel`
-        - 狂欢；陶醉
+    - n. revel 狂欢；闹饮；喜庆狂欢活动
+    - n. reveler 欢宴者，狂欢者；饮酒狂欢者；摆设酒宴者
+    - vi. revel 狂欢；陶醉
   - 近义词
-    - n.
-      - 狂欢；欢宴
-        - `orgy`
-        - `whoop-de-do`
+    - n. 狂欢；欢宴
+      - orgy
+      - whoop-de-do
   - 例句
-    - `...New Year revelries.`
-      - ...新年狂欢。
-
+    - ...New Year revelries. ...新年狂欢。
+  - 补充

@@ -1,22 +1,17 @@
 - facet
   - 发音
-    - 英
-      - `/'fæsɪt/`
-    - 美
-      - `/'fæsɪt/`
+    - 英 /'fæsɪt/
+    - 美 /'fæsɪt/
   - 词义
-    - n.
-      - 小平面；方面
-        - `one of several parts of someone’s character, a situation etc`
+    - n. 小平面；方面
+      - one of several parts of someone’s character, a situation etc
   - 记忆
     - fac(脸， 面) + et → 方面
   - 近义词
-    - n.
-      - 面；方面；小平面
-        - `aspect`
-        - `side`
-        - `respect`
+    - n. 面；方面；小平面
+      - aspect
+      - side
+      - respect
   - 例句
-    - `The issues are complex and multi-faceted.`
-      - 这些问题很复杂，涉及诸多方面。
-
+    - The issues are complex and multi-faceted. 这些问题很复杂，涉及诸多方面。
+  - 补充

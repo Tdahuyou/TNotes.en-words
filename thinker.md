@@ -1,51 +1,27 @@
 - thinker
   - 发音
-    - 英
-      - `/undefined/`
-    - 美
-      - `/undefined/`
+    - 英 /undefined/
+    - 美 /undefined/
   - 词义
-    - n.
-      - 思想家
-        - `someone who thinks carefully about important subjects such as science or  philosophy  , especially someone who is famous for thinking of new ideas`
+    - n. 思想家
+      - someone who thinks carefully about important subjects such as science or  philosophy  , especially someone who is famous for thinking of new ideas
   - 同根词
-    - adj.
-      - `think`
-        - 思想的
-      - `thoughtful`
-        - 深思的；体贴的；关切的
-      - `thinking`
-        - 思考的；思想的；有理性的；好思考的
-      - `thinkable`
-        - 能想到的；可相信的；可考虑的；可能的
-    - adv.
-      - `thoughtfully`
-        - 沉思地；体贴地，亲切地
-    - n.
-      - `thought`
-        - 思想；思考；想法；关心
-      - `think`
-        - 想；想法
-      - `thinking`
-        - 思考；思想；想法；意见；见解
-      - `thoughtfulness`
-        - 体贴；思虑
-    - v.
-      - `thought`
-        - 想，思考；认为（think的过去式和过去分词）
-      - `thinking`
-        - 思考（think的现在分词）
-    - vi.
-      - `think`
-        - 想；认为
-    - vt.
-      - `think`
-        - 想；认为；想起；想像；打算
+    - adj. think 思想的
+    - adj. thoughtful 深思的；体贴的；关切的
+    - adj. thinking 思考的；思想的；有理性的；好思考的
+    - adj. thinkable 能想到的；可相信的；可考虑的；可能的
+    - adv. thoughtfully 沉思地；体贴地，亲切地
+    - n. thought 思想；思考；想法；关心
+    - n. think 想；想法
+    - n. thinking 思考；思想；想法；意见；见解
+    - n. thoughtfulness 体贴；思虑
+    - v. thought 想，思考；认为（think的过去式和过去分词）
+    - v. thinking 思考（think的现在分词）
+    - vi. think 想；认为
+    - vt. think 想；认为；想起；想像；打算
   - 近义词
-    - n.
-      - 思想家；思想者
-        - `ideologist`
+    - n. 思想家；思想者
+      - ideologist
   - 例句
-    - `great thinkers such as Kant and Schopenhauer`
-      - 康德、叔本华等伟大的思想家
-
+    - great thinkers such as Kant and Schopenhauer 康德、叔本华等伟大的思想家
+  - 补充

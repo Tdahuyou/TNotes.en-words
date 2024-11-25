@@ -1,14 +1,11 @@
 - highhanded
   - 发音
-    - 英
-      - `/'haɪ'hændɪd/`
-    - 美
-      - `/'hai'hændid/`
+    - 英 /'haɪ'hændɪd/
+    - 美 /'hai'hændid/
   - 词义
-    - adj.
-      - 专横的；高压的
+    - adj. 专横的；高压的
   - 近义词
-    - adj.
-      - 专横的；高压的
-        - `imperious`
-        - `presumptuous`
+    - adj. 专横的；高压的
+      - imperious
+      - presumptuous
+  - 补充

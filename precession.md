@@ -1,21 +1,14 @@
 - precession
   - 发音
-    - 英
-      - `/pri'seʃən/`
-    - 美
-      - `/prɪ'sɛʃən/`
+    - 英 /pri'seʃən/
+    - 美 /prɪ'sɛʃən/
   - 词义
-    - n.
-      - 先行；领先
+    - n. 先行；领先
   - 同根词
-    - vi.
-      - `precess`
-        - 按岁差前进
-    - vt.
-      - `precess`
-        - 使产生进动
+    - vi. precess 按岁差前进
+    - vt. precess 使产生进动
   - 近义词
-    - n.
-      - [天]岁差（等于precession of the equinoxes）；先行；优先
-        - `priority`
-        - `antecedence`
+    - n. [天]岁差（等于precession of the equinoxes）；先行；优先
+      - priority
+      - antecedence
+  - 补充

@@ -1,20 +1,15 @@
 - vendetta
   - 发音
-    - 英
-      - `/ven'detə/`
-    - 美
-      - `/vɛn'dɛtə/`
+    - 英 /ven'detə/
+    - 美 /vɛn'dɛtə/
   - 词义
-    - n.
-      - 血仇，世仇；宿怨，深仇
-        - `a long violent argument between two groups or people, especially one that is about something that happened in the past`
+    - n. 血仇，世仇；宿怨，深仇
+      - a long violent argument between two groups or people, especially one that is about something that happened in the past
   - 记忆
     - vend(=vindic复仇)+etta → 血仇， 世仇
   - 近义词
-    - n.
-      - （尤指族间或血亲间的）仇杀；深仇
-        - `rancour`
+    - n. （尤指族间或血亲间的）仇杀；深仇
+      - rancour
   - 例句
-    - `The two sides have been engaged in a bitter private vendetta.`
-      - 双方有着很深的私仇。
-
+    - The two sides have been engaged in a bitter private vendetta. 双方有着很深的私仇。
+  - 补充

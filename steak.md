@@ -1,33 +1,22 @@
 - steak
   - 发音
-    - 英
-      - `/steɪk/`
-    - 美
-      - `/stek/`
+    - 英 /steɪk/
+    - 美 /stek/
   - 词义
-    - n.
-      - (供煎、烤的)肉块；鱼排；牛排
-        - `good quality  beef  , or a large thick piece of any good quality red meat`
+    - n. (供煎、烤的)肉块；鱼排；牛排
+      - good quality  beef  , or a large thick piece of any good quality red meat
   - 记忆
     - 谁偷(steal)了厨房的牛排(steak)
   - 近义词
-    - n.
-      - 牛排；肉排；鱼排
-        - `beefsteak`
+    - n. 牛排；肉排；鱼排
+      - beefsteak
   - 短语
-    - `sirloin steak`
-      - 沙朗牛排，菲力牛排 
-    - `beef steak`
-      - 牛排 
-    - `steak knife`
-      - 切肉排的刀 
-    - `fillet steak`
-      - 菲力牛排；里脊扒；里脊肉牛排 
-    - `t-bone steak`
-      - 带T形骨的腰部嫩牛排 
-    - `fish steak`
-      - 鱼排；软煎鱼排 
+    - sirloin steak 沙朗牛排，菲力牛排
+    - beef steak 牛排
+    - steak knife 切肉排的刀
+    - fillet steak 菲力牛排；里脊扒；里脊肉牛排
+    - t-bone steak 带T形骨的腰部嫩牛排
+    - fish steak 鱼排；软煎鱼排
   - 例句
-    - `...fresh salmon steaks.`
-      - …新鲜的三文鱼排。
-
+    - ...fresh salmon steaks. …新鲜的三文鱼排。
+  - 补充

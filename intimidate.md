@@ -1,31 +1,19 @@
 - intimidate
   - 发音
-    - 英
-      - `/ɪn'tɪmɪdeɪt/`
-    - 美
-      - `/ɪn'tɪmɪdet/`
+    - 英 /ɪn'tɪmɪdeɪt/
+    - 美 /ɪn'tɪmɪdet/
   - 词义
-    - v.
-      - 胁迫
-        - `to frighten or threaten someone into making them do what you want`
+    - v. 胁迫
+      - to frighten or threaten someone into making them do what you want
   - 同根词
-    - adj.
-      - `intimidating`
-        - 吓人的
-      - `intimidated`
-        - 害怕的；受到恐吓的
-    - n.
-      - `intimidation`
-        - 恐吓，威胁
-    - v.
-      - `intimidated`
-        - 威胁，恐吓（intimidate的过去式）
+    - adj. intimidating 吓人的
+    - adj. intimidated 害怕的；受到恐吓的
+    - n. intimidation 恐吓，威胁
+    - v. intimidated 威胁，恐吓（intimidate的过去式）
   - 近义词
-    - vt.
-      - 恐吓，威胁；胁迫
-        - `cow`
-        - `to menace`
+    - vt. 恐吓，威胁；胁迫
+      - cow
+      - to menace
   - 例句
-    - `Attempts to intimidate her failed.`
-      - 恐吓她的企图失败了。
-
+    - Attempts to intimidate her failed. 恐吓她的企图失败了。
+  - 补充

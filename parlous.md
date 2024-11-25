@@ -1,30 +1,24 @@
 - parlous
   - 发音
-    - 英
-      - `/'pɑːrləs/`
-    - 美
-      - `/'pɑ:ləs/`
+    - 英 /'pɑːrləs/
+    - 美 /'pɑ:ləs/
   - 词义
-    - adj.
-      - 靠不住的，危险的
-        - `in a very bad or dangerous condition`
+    - adj. 靠不住的，危险的
+      - in a very bad or dangerous condition
   - 记忆
     - 和perilous(adj. 危险的)一起记
   - 近义词
-    - adj.
-      - 危险的；狡猾的；不易对付的
-        - `dangerous`
-        - `critical`
-        - `designing`
-        - `knowing`
-        - `risky`
-    - adv.
-      - 非常地；极度地
-        - `considerably`
-        - `remarkably`
-        - `finely`
-        - `tremendously`
+    - adj. 危险的；狡猾的；不易对付的
+      - dangerous
+      - critical
+      - designing
+      - knowing
+      - risky
+    - adv. 非常地；极度地
+      - considerably
+      - remarkably
+      - finely
+      - tremendously
   - 例句
-    - `The country’s police force was in a parlous state in 1990.`
-      - 1990 年该国的警察部队危机重重。
-
+    - The country’s police force was in a parlous state in 1990. 1990 年该国的警察部队危机重重。
+  - 补充

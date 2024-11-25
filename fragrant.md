@@ -1,32 +1,23 @@
 - fragrant
   - 发音
-    - 英
-      - `/'freɪgrənt/`
-    - 美
-      - `/'fregrənt/`
+    - 英 /'freɪgrənt/
+    - 美 /'fregrənt/
   - 词义
-    - adj.
-      - 芬芳的，香的
-        - `having a pleasant smell`
+    - adj. 芬芳的，香的
+      - having a pleasant smell
   - 记忆
     - 和flagrant(a. 恶名昭著的)一起记， fragrant中的两个r像两朵花， 所以是“芳香的”
   - 同根词
-    - n.
-      - `fragrance`
-        - 香味，芬芳
-      - `fragrancy`
-        - 芬芳
+    - n. fragrance 香味，芬芳
+    - n. fragrancy 芬芳
   - 近义词
-    - adj.
-      - 芳香的；愉快的
-        - `sweet`
-        - `good`
-        - `bright`
-        - `aromatic`
+    - adj. 芳香的；愉快的
+      - sweet
+      - good
+      - bright
+      - aromatic
   - 短语
-    - `fragrant plant`
-      - 香料植物 
+    - fragrant plant 香料植物
   - 例句
-    - `fragrant flowers`
-      - 芳香的花朵
-
+    - fragrant flowers 芳香的花朵
+  - 补充

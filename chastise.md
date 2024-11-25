@@ -1,28 +1,19 @@
 - chastise
   - 发音
-    - 英
-      - `/tʃæ'staiz/`
-    - 美
-      - `/tʃæ'staɪz/`
+    - 英 /tʃæ'staiz/
+    - 美 /tʃæ'staɪz/
   - 词义
-    - v.
-      - 严惩，惩罚
-        - `to physically punish someone`
+    - v. 严惩，惩罚
+      - to physically punish someone
   - 记忆
     - “掐死打死” → 严惩， 惩罚
   - 同根词
-    - n.
-      - `chastisement`
-        - 惩罚
-    - vt.
-      - `chasten`
-        - 惩罚；磨炼；抑制
+    - n. chastisement 惩罚
+    - vt. chasten 惩罚；磨炼；抑制
   - 近义词
-    - vt.
-      - 惩罚；严惩；责骂
-        - `rate`
-        - `penalise`
+    - vt. 惩罚；严惩；责骂
+      - rate
+      - penalise
   - 例句
-    - `‘You’re a fool,’ she chastised herself.`
-      - “你真傻。”她自责道。
-
+    - ‘You’re a fool,’ she chastised herself. “你真傻。”她自责道。
+  - 补充

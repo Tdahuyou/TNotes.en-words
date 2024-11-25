@@ -1,23 +1,16 @@
 - fallacy
   - 发音
-    - 英
-      - `/'fæləsɪ/`
-    - 美
-      - `/'fæləsi/`
+    - 英 /'fæləsɪ/
+    - 美 /'fæləsi/
   - 词义
-    - n.
-      - 谬误,谬论
-        - `a false idea or belief, especially one that a lot of people believe is true`
+    - n. 谬误,谬论
+      - a false idea or belief, especially one that a lot of people believe is true
   - 同根词
-    - adj.
-      - `fallacious`
-        - 谬误的；骗人的；靠不住的；不合理的
+    - adj. fallacious 谬误的；骗人的；靠不住的；不合理的
   - 近义词
-    - n.
-      - 谬论，谬误
-        - `idola`
-        - `paralogism`
+    - n. 谬论，谬误
+      - idola
+      - paralogism
   - 例句
-    - `It’s a common fallacy that a neutered dog will become fat and lazy.`
-      - 说阉割过的狗会变得又胖又懒，这是普遍的谬见。
-
+    - It’s a common fallacy that a neutered dog will become fat and lazy. 说阉割过的狗会变得又胖又懒，这是普遍的谬见。
+  - 补充

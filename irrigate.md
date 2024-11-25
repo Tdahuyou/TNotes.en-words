@@ -1,27 +1,19 @@
 - irrigate
   - 发音
-    - 英
-      - `/'ɪrɪgeɪt/`
-    - 美
-      - `/'ɪrəget/`
+    - 英 /'ɪrɪgeɪt/
+    - 美 /'ɪrəget/
   - 词义
-    - vt.
-      - 灌溉；冲洗
-        - `to supply land or crops with water`
+    - vt. 灌溉；冲洗
+      - to supply land or crops with water
   - 记忆
     - ir(进入) + rig(水) + ate → 把水引入 → 灌溉
   - 同根词
-    - n.
-      - `irrigation`
-        - 灌溉；[临床] 冲洗；冲洗法
+    - n. irrigation 灌溉；[临床] 冲洗；冲洗法
   - 近义词
-    - vt.
-      - 灌溉；冲洗；使清新
-        - `syringe`
-    - vi.
-      - 灌溉；冲洗
-        - `douche`
+    - vt. 灌溉；冲洗；使清新
+      - syringe
+    - vi. 灌溉；冲洗
+      - douche
   - 例句
-    - `The water in Lake Powell is used to irrigate the area.`
-      - 包尔湖的水被用来灌溉该地区。
-
+    - The water in Lake Powell is used to irrigate the area. 包尔湖的水被用来灌溉该地区。
+  - 补充

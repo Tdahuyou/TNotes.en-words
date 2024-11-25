@@ -1,33 +1,23 @@
 - stilted
   - 发音
-    - 英
-      - `/'stɪltɪd/`
-    - 美
-      - `/'stɪltɪd/`
+    - 英 /'stɪltɪd/
+    - 美 /'stɪltɪd/
   - 词义
-    - adj.
-      - 不自然的；夸张的
-        - `a stilted style of writing or speaking is formal and unnatural`
+    - adj. 不自然的；夸张的
+      - a stilted style of writing or speaking is formal and unnatural
   - 记忆
     - 来自stilt(n. 高跷)
   - 同根词
-    - n.
-      - `stilt`
-        - 高跷；支柱，支撑物
-    - vt.
-      - `stilt`
-        - 使踏上高跷
+    - n. stilt 高跷；支柱，支撑物
+    - vt. stilt 使踏上高跷
   - 近义词
-    - adj.
-      - 不自然的；呆板的；僵硬的
-        - `wooden`
-        - `mechanical`
-        - `rigid`
-        - `dead`
+    - adj. 不自然的；呆板的；僵硬的
+      - wooden
+      - mechanical
+      - rigid
+      - dead
   - 短语
-    - `on stilts`
-      - 踩着高跷；夸张做作 
+    - on stilts 踩着高跷；夸张做作
   - 例句
-    - `a stilted conversation`
-      - 生硬的对话
-
+    - a stilted conversation 生硬的对话
+  - 补充

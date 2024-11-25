@@ -1,23 +1,17 @@
 - sully
   - 发音
-    - 英
-      - `/'sʌlɪ/`
-    - 美
-      - `/'sʌli/`
+    - 英 /'sʌlɪ/
+    - 美 /'sʌli/
   - 词义
-    - v.
-      - 玷污
-        - `to spoil or reduce the value of something that was perfect`
+    - v. 玷污
+      - to spoil or reduce the value of something that was perfect
   - 近义词
-    - vt.
-      - 玷污；使丢脸
-        - `cloud`
-        - `shame`
-    - n.
-      - 污点，损伤
-        - `impairment`
-        - `jaup`
+    - vt. 玷污；使丢脸
+      - cloud
+      - shame
+    - n. 污点，损伤
+      - impairment
+      - jaup
   - 例句
-    - `a scandal that sullied his reputation`
-      - 玷污了他名誉的丑闻
-
+    - a scandal that sullied his reputation 玷污了他名誉的丑闻
+  - 补充

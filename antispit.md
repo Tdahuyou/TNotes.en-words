@@ -1,9 +1,7 @@
 - antispit
   - 发音
-    - 英
-      - `/undefined/`
-    - 美
-      - `/undefined/`
+    - 英 /undefined/
+    - 美 /undefined/
   - 词义
-    - vi.
-      - 反吐痰
+    - vi. 反吐痰
+  - 补充

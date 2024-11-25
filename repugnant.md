@@ -1,34 +1,23 @@
 - repugnant
   - 发音
-    - 英
-      - `/ri'pʌgnənt/`
-    - 美
-      - `/rɪ'pʌɡnənt/`
+    - 英 /ri'pʌgnənt/
+    - 美 /rɪ'pʌɡnənt/
   - 词义
-    - adj.
-      - 令人讨厌的；冲突的；不一致的
-        - `very unpleasant and offensive`
+    - adj. 令人讨厌的；冲突的；不一致的
+      - very unpleasant and offensive
   - 记忆
     - 他居然跟怀孕的 (pregnant) 妻子起冲突 (repugnant)
   - 同根词
-    - n.
-      - `repugnance`
-        - 反感；厌恶；不一致，抵触
-    - vi.
-      - `repugn`
-        - 反抗，反对
-    - vt.
-      - `repugn`
-        - 反抗；反对
+    - n. repugnance 反感；厌恶；不一致，抵触
+    - vi. repugn 反抗，反对
+    - vt. repugn 反抗；反对
   - 近义词
-    - adj.
-      - 讨厌的；矛盾的；敌对的
-        - `evil`
-        - `adverse`
-        - `rank`
-        - `unpleasant`
-        - `opposed`
+    - adj. 讨厌的；矛盾的；敌对的
+      - evil
+      - adverse
+      - rank
+      - unpleasant
+      - opposed
   - 例句
-    - `Everything about the affair was repugnant to her.`
-      - 有关那件事的一切令她反感。
-
+    - Everything about the affair was repugnant to her. 有关那件事的一切令她反感。
+  - 补充

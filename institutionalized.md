@@ -1,29 +1,18 @@
 - institutionalized
   - 发音
-    - 英
-      - `/,ɪnstɪ'tjuːʃənəlaɪzd/`
-    - 美
-      - `/,ɪnstɪ'tuʃənəlaɪzd/`
+    - 英 /,ɪnstɪ'tjuːʃənəlaɪzd/
+    - 美 /,ɪnstɪ'tuʃənəlaɪzd/
   - 词义
-    - adj.
-      - 制度化的
-        - `forming part of a society or system`
+    - adj. 制度化的
+      - forming part of a society or system
   - 同根词
-    - adj.
-      - `institutive`
-        - 成例的；有关创设的
-    - n.
-      - `institution`
-        - 制度；建立；（社会或宗教等）公共机构；习俗
-    - vt.
-      - `institutionalize`
-        - 使…制度化
+    - adj. institutive 成例的；有关创设的
+    - n. institution 制度；建立；（社会或宗教等）公共机构；习俗
+    - vt. institutionalize 使…制度化
   - 近义词
-    - adj.
-      - 使成惯例的；有组织的；遭受收容机构所产生的不良影响的
-        - `organized`
-        - `structured`
+    - adj. 使成惯例的；有组织的；遭受收容机构所产生的不良影响的
+      - organized
+      - structured
   - 例句
-    - `institutionalised democracy`
-      - 制度化的民主
-
+    - institutionalised democracy 制度化的民主
+  - 补充

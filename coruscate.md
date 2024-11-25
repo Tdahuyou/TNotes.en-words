@@ -1,24 +1,17 @@
 - coruscate
   - 发音
-    - 英
-      - `/'kɔːrəskeɪt/`
-    - 美
-      - `/'kɔrəsket/`
+    - 英 /'kɔːrəskeɪt/
+    - 美 /'kɔrəsket/
   - 词义
-    - v.
-      - 闪亮
-        - `to emit flashes of light; sparkle `
+    - v. 闪亮
+      - to emit flashes of light; sparkle 
   - 记忆
     - 来自拉丁文coruscate(v. 闪亮)
   - 同根词
-    - adj.
-      - `coruscant`
-        - 闪光的；闪烁的
-    - n.
-      - `coruscation`
-        - 闪光；焕发
+    - adj. coruscant 闪光的；闪烁的
+    - n. coruscation 闪光；焕发
   - 近义词
-    - vi.
-      - 焕发；闪烁
-        - `scintillate`
-        - `spark`
+    - vi. 焕发；闪烁
+      - scintillate
+      - spark
+  - 补充

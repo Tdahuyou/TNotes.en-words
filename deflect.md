@@ -1,34 +1,23 @@
 - deflect
   - 发音
-    - 英
-      - `/dɪ'flekt/`
-    - 美
-      - `/dɪ'flɛkt/`
+    - 英 /dɪ'flekt/
+    - 美 /dɪ'flɛkt/
   - 词义
-    - v.
-      - 偏斜，转向
-        - `if someone or something deflects something that is moving, or if it deflects, it turns in a different direction`
+    - v. 偏斜，转向
+      - if someone or something deflects something that is moving, or if it deflects, it turns in a different direction
   - 记忆
     - de(离开) + flect(弯曲) → 弯到一边 → (使)偏斜
   - 同根词
-    - adj.
-      - `deflective`
-        - 偏斜的；偏倚的
-    - n.
-      - `deflection`
-        - 偏向；挠曲；偏差
-      - `deflector`
-        - 导向装置；偏针仪，导流板
+    - adj. deflective 偏斜的；偏倚的
+    - n. deflection 偏向；挠曲；偏差
+    - n. deflector 导向装置；偏针仪，导流板
   - 近义词
-    - vt.
-      - 使转向；使偏斜；使弯曲
-        - `wind`
-        - `curve`
-    - vi.
-      - 转向；偏斜
-        - `swing`
-        - `turn towards`
+    - vt. 使转向；使偏斜；使弯曲
+      - wind
+      - curve
+    - vi. 转向；偏斜
+      - swing
+      - turn towards
   - 例句
-    - `He deflected the blow with his forearm.`
-      - 他用前臂挡开了打来的一拳。
-
+    - He deflected the blow with his forearm. 他用前臂挡开了打来的一拳。
+  - 补充

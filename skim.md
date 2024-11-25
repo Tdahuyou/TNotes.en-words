@@ -1,52 +1,33 @@
 - skim
   - 发音
-    - 英
-      - `/skɪm/`
-    - 美
-      - `/skɪm/`
+    - 英 /skɪm/
+    - 美 /skɪm/
   - 词义
-    - v.
-      - 撇去；掠过，擦过；浏览，略读
-        - `to remove something from the surface of a liquid, especially floating fat, solids, or oil`
+    - v. 撇去；掠过，擦过；浏览，略读
+      - to remove something from the surface of a liquid, especially floating fat, solids, or oil
   - 记忆
     - 一眼掠过(skim)， 只见皮(skin)毛
   - 同根词
-    - adj.
-      - `skimmed`
-        - 脱脂的
-    - n.
-      - `skimming`
-        - 撇取浮沫；浮渣
-      - `skimmer`
-        - 漏杓；燕鸥类；大略阅读的人；撇去浮沫的器具
-    - v.
-      - `skimming`
-        - 撇去…的浮物（skim的ing形式）
-      - `skimmed`
-        - 浏览，掠过；去除（skim的过去分词）
+    - adj. skimmed 脱脂的
+    - n. skimming 撇取浮沫；浮渣
+    - n. skimmer 漏杓；燕鸥类；大略阅读的人；撇去浮沫的器具
+    - v. skimming 撇去…的浮物（skim的ing形式）
+    - v. skimmed 浏览，掠过；去除（skim的过去分词）
   - 近义词
-    - vt.
-      - 略读；撇去…的浮物；从…表面飞掠而过；去除；（为逃税而）隐瞒（部分收入）
-        - `conceal`
-        - `hold back`
-    - vi.
-      - 浏览；掠过
-        - `page`
-        - `brush`
-    - adj.
-      - 脱脂的；撇去浮沫的；表层的
-        - `nonfat`
-        - `defatted`
+    - vt. 略读；撇去…的浮物；从…表面飞掠而过；去除；（为逃税而）隐瞒（部分收入）
+      - conceal
+      - hold back
+    - vi. 浏览；掠过
+      - page
+      - brush
+    - adj. 脱脂的；撇去浮沫的；表层的
+      - nonfat
+      - defatted
   - 短语
-    - `skim milk`
-      - 脱脂牛奶 
-    - `skim through`
-      - v. 浏览；掠过；滑过 
-    - `skim over`
-      - v. 掠过，滑过；浏览 
-    - `skim milk powder`
-      - 脱脂奶粉 
+    - skim milk 脱脂牛奶
+    - skim through v. 浏览；掠过；滑过
+    - skim over v. 掠过，滑过；浏览
+    - skim milk powder 脱脂奶粉
   - 例句
-    - `Julie skimmed the sports page.`
-      - 朱莉浏览了体育版。
-
+    - Julie skimmed the sports page. 朱莉浏览了体育版。
+  - 补充

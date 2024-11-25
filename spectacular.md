@@ -1,30 +1,21 @@
 - spectacular
   - 发音
-    - 英
-      - `/spek'tækjələr/`
-    - 美
-      - `/spɛk'tækjəlɚ/`
+    - 英 /spek'tækjələr/
+    - 美 /spɛk'tækjəlɚ/
   - 词义
-    - adj.
-      - 壮观的，引人注目的
-        - `very impressive`
-    - n.
-      - 壮观的场面；壮观的演出
-        - `an event or performance that is very large and impressive`
+    - adj. 壮观的，引人注目的
+      - very impressive
+    - n. 壮观的场面；壮观的演出
+      - an event or performance that is very large and impressive
   - 记忆
     - spectac(le)(景象； 奇观) + ular → 壮观的， 引人注目的
   - 同根词
-    - adv.
-      - `spectacularly`
-        - 壮观地；引人注目地
+    - adv. spectacularly 壮观地；引人注目地
   - 近义词
-    - adj.
-      - 壮观的，惊人的；公开展示的
-        - `tremendous`
-        - `incredible`
+    - adj. 壮观的，惊人的；公开展示的
+      - tremendous
+      - incredible
   - 例句
-    - `a mountainous area with spectacular scenery`
-      - 景色壮丽的山区
-    - `a spectacular success`
-      - 辉煌的成就
-
+    - a mountainous area with spectacular scenery 景色壮丽的山区
+    - a spectacular success 辉煌的成就
+  - 补充

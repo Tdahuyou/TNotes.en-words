@@ -1,27 +1,20 @@
 - preternatural
   - 发音
-    - 英
-      - `/ˌpriːtər'nætʃrəl/`
-    - 美
-      - `/,pri:tə'nætʃərəl/`
+    - 英 /ˌpriːtər'nætʃrəl/
+    - 美 /,pri:tə'nætʃərəl/
   - 词义
-    - adj.
-      - 异常的；超自然的
-        - `beyond what is usual or normal`
+    - adj. 异常的；超自然的
+      - beyond what is usual or normal
   - 记忆
     - preter(超越) + natural(自然的) → 超自然的
   - 同根词
-    - adv.
-      - `preternaturally`
-        - 异常地；超自然地；不可思议地
+    - adv. preternaturally 异常地；超自然地；不可思议地
   - 近义词
-    - adj.
-      - 超自然的；异常的，不可思议的
-        - `novel`
-        - `magic`
-        - `mysterious`
-        - `exquisite`
+    - adj. 超自然的；异常的，不可思议的
+      - novel
+      - magic
+      - mysterious
+      - exquisite
   - 例句
-    - `He felt possessed of a preternatural strength and fearlessness.`
-      - 他感到自己拥有异乎寻常的力量和勇气。
-
+    - He felt possessed of a preternatural strength and fearlessness. 他感到自己拥有异乎寻常的力量和勇气。
+  - 补充

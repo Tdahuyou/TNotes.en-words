@@ -1,31 +1,20 @@
 - disagreement
   - 发音
-    - 英
-      - `/dɪsə'ɡriːmənt/`
-    - 美
-      - `/,dɪsə'ɡrimənt/`
+    - 英 /dɪsə'ɡriːmənt/
+    - 美 /,dɪsə'ɡrimənt/
   - 词义
-    - n.
-      - 不一致；争论
-        - `a situation in which people express different opinions about something and sometimes argue`
+    - n. 不一致；争论
+      - a situation in which people express different opinions about something and sometimes argue
   - 同根词
-    - adj.
-      - `disagreeable`
-        - 不愉快的；厌恶的；不为人喜的；难相处的；脾气坏的
-    - adv.
-      - `disagreeably`
-        - 不合口味地；不愉快地
-    - vi.
-      - `disagree`
-        - 不同意；不一致；争执；不适宜
+    - adj. disagreeable 不愉快的；厌恶的；不为人喜的；难相处的；脾气坏的
+    - adv. disagreeably 不合口味地；不愉快地
+    - vi. disagree 不同意；不一致；争执；不适宜
   - 近义词
-    - n.
-      - 不一致；争论；意见不同
-        - `controversy`
-        - `combat`
-        - `variance`
-        - `disparity`
+    - n. 不一致；争论；意见不同
+      - controversy
+      - combat
+      - variance
+      - disparity
   - 例句
-    - `We’ve had a few disagreements , but we’re still good friends.`
-      - 虽然有过一些分歧，但我们仍是好朋友。
-
+    - We’ve had a few disagreements , but we’re still good friends. 虽然有过一些分歧，但我们仍是好朋友。
+  - 补充

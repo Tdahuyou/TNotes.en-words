@@ -1,21 +1,16 @@
 - diatribe
   - 发音
-    - 英
-      - `/'daɪətraɪb/`
-    - 美
-      - `/'daɪətraɪb/`
+    - 英 /'daɪətraɪb/
+    - 美 /'daɪətraɪb/
   - 词义
-    - n.
-      - 抨击
-        - `a long speech or piece of writing that criticizes someone or something very severely`
+    - n. 抨击
+      - a long speech or piece of writing that criticizes someone or something very severely
   - 记忆
     - dia(两者之间) + tribe(摩擦) → 两方摩擦 → 抨击
   - 近义词
-    - n.
-      - 诽谤；恶骂
-        - `scandal`
-        - `personalities`
+    - n. 诽谤；恶骂
+      - scandal
+      - personalities
   - 例句
-    - `The book is a diatribe against the academic left.`
-      - 该书是对学术左派的抨击。
-
+    - The book is a diatribe against the academic left. 该书是对学术左派的抨击。
+  - 补充

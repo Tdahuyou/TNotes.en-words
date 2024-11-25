@@ -1,28 +1,18 @@
 - garrulous
   - 发音
-    - 英
-      - `/'gæruləs/`
-    - 美
-      - `/'ɡærələs/`
+    - 英 /'gæruləs/
+    - 美 /'ɡærələs/
   - 词义
-    - adj.
-      - 饶舌的，多嘴的
-        - `always talking a lot`
+    - adj. 饶舌的，多嘴的
+      - always talking a lot
   - 同根词
-    - adv.
-      - `garrulously`
-        - 啰嗦地；饶舌地
-    - n.
-      - `garrulity`
-        - 饶舌；多言；多嘴
-      - `garrulousness`
-        - 多嘴多舌；喋喋不休；多话；唠叨（原形是garrulous）
+    - adv. garrulously 啰嗦地；饶舌地
+    - n. garrulity 饶舌；多言；多嘴
+    - n. garrulousness 多嘴多舌；喋喋不休；多话；唠叨（原形是garrulous）
   - 近义词
-    - adj.
-      - 唠叨的；喋喋不休的；多嘴的
-        - `talking`
-        - `longwinded`
+    - adj. 唠叨的；喋喋不休的；多嘴的
+      - talking
+      - longwinded
   - 例句
-    - `Ian isn’t normally this garrulous!`
-      - 伊恩一般不这么唠叨！
-
+    - Ian isn’t normally this garrulous! 伊恩一般不这么唠叨！
+  - 补充

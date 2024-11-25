@@ -1,22 +1,17 @@
 - tomfool
   - 发音
-    - 英
-      - `/tɒm'fuːl/`
-    - 美
-      - `/'tɔm'fu:l/`
+    - 英 /tɒm'fuːl/
+    - 美 /'tɔm'fu:l/
   - 词义
-    - n.
-      - 笨伯,傻瓜
-        - `a fool `
+    - n. 笨伯,傻瓜
+      - a fool 
   - 同根词
-    - n.
-      - `tomfoolery`
-        - 愚蠢的举动；无聊
+    - n. tomfoolery 愚蠢的举动；无聊
   - 近义词
-    - n.
-      - 傻瓜；笨蛋
-        - `simple`
-        - `turkey`
-        - `stupid`
-        - `put`
-        - `fool`
+    - n. 傻瓜；笨蛋
+      - simple
+      - turkey
+      - stupid
+      - put
+      - fool
+  - 补充

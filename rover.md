@@ -1,37 +1,22 @@
 - rover
   - 发音
-    - 英
-      - `/'rəʊvə/`
-    - 美
-      - `/'rovɚ/`
+    - 英 /'rəʊvə/
+    - 美 /'rovɚ/
   - 词义
-    - n.
-      - 漫游者；流浪者；漂泊者
-        - `a person who roves; wanderer `
+    - n. 漫游者；流浪者；漂泊者
+      - a person who roves; wanderer 
   - 同根词
-    - adj.
-      - `roving`
-        - 流动的；徘徊的
-    - n.
-      - `rove`
-        - 流浪；徘徊；粗纺线
-      - `roving`
-        - 粗纱
-    - vi.
-      - `rove`
-        - 流浪；飘忽不定
-    - vt.
-      - `rove`
-        - 漫游于；漂泊于
+    - adj. roving 流动的；徘徊的
+    - n. rove 流浪；徘徊；粗纺线
+    - n. roving 粗纱
+    - vi. rove 流浪；飘忽不定
+    - vt. rove 漫游于；漂泊于
   - 近义词
-    - n.
-      - 漫游者；流浪者；漂泊者
-        - `roamer`
-        - `wanderer`
+    - n. 漫游者；流浪者；漂泊者
+      - roamer
+      - wanderer
   - 短语
-    - `lunar rover`
-      - 月球车（用于探测月球表面，等于 moon car） 
-    - `land rover`
-      - n. 兰德·路华（汽车品牌） 
-    - `range rover`
-      - 路虎揽胜（车型名称） 
+    - lunar rover 月球车（用于探测月球表面，等于 moon car）
+    - land rover n. 兰德·路华（汽车品牌）
+    - range rover 路虎揽胜（车型名称）
+  - 补充

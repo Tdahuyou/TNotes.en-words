@@ -1,20 +1,15 @@
 - misnomer
   - 发音
-    - 英
-      - `/ˌmis'nəumə/`
-    - 美
-      - `/,mɪs'nomɚ/`
+    - 英 /ˌmis'nəumə/
+    - 美 /,mɪs'nomɚ/
   - 词义
-    - n.
-      - 误称
-        - `a wrong or unsuitable name`
+    - n. 误称
+      - a wrong or unsuitable name
   - 记忆
     - mis (错误) + nom (名字) + er → 名字用错了 → 误称
   - 近义词
-    - n.
-      - 用词不当；误称；写错姓名
-        - `catachresis`
+    - n. 用词不当；误称；写错姓名
+      - catachresis
   - 例句
-    - `‘Silent movie’ is a misnomer since the movies usually had a musical accompaniment.`
-      - “无声电影”这一名称不恰当，因为这类电影一般都有配乐。
-
+    - ‘Silent movie’ is a misnomer since the movies usually had a musical accompaniment. “无声电影”这一名称不恰当，因为这类电影一般都有配乐。
+  - 补充

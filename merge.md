@@ -1,50 +1,30 @@
 - merge
   - 发音
-    - 英
-      - `/mɜːdʒ/`
-    - 美
-      - `/mɝdʒ/`
+    - 英 /mɜːdʒ/
+    - 美 /mɝdʒ/
   - 词义
-    - v.
-      - 结合,合并
-        - `to combine, or to join things together to form one thing`
+    - v. 结合,合并
+      - to combine, or to join things together to form one thing
   - 同根词
-    - adj.
-      - `merged`
-        - 合并的；结了婚的
-    - n.
-      - `merger`
-        - （企业等的）合并；并购；吸收（如刑法中重罪吸收轻罪）
-      - `merging`
-        - 合并；[计][数] 归并
-    - v.
-      - `merged`
-        - 合并；融合（merge的过去分词）
-      - `merging`
-        - 合并；融合（merge的ing形式）
+    - adj. merged 合并的；结了婚的
+    - n. merger （企业等的）合并；并购；吸收（如刑法中重罪吸收轻罪）
+    - n. merging 合并；[计][数] 归并
+    - v. merged 合并；融合（merge的过去分词）
+    - v. merging 合并；融合（merge的ing形式）
   - 近义词
-    - vt.
-      - 合并；使合并；吞没
-        - `conflate`
-        - `incorporate with`
-    - vi.
-      - 合并；融合
-        - `incorporate with`
-        - `coalesce`
+    - vt. 合并；使合并；吞没
+      - conflate
+      - incorporate with
+    - vi. 合并；融合
+      - incorporate with
+      - coalesce
   - 短语
-    - `merge into`
-      - 并入；结合 
-    - `merge with`
-      - 融入（车流中）；与…结合；于…联合 
-    - `merge together`
-      - 混合起来 
-    - `merge all`
-      - 合并全部 
-    - `mail merge`
-      - 邮件合并 
-    - `merge sort`
-      - 合并分类；归并排序 
+    - merge into 并入；结合
+    - merge with 融入（车流中）；与…结合；于…联合
+    - merge together 混合起来
+    - merge all 合并全部
+    - mail merge 邮件合并
+    - merge sort 合并分类；归并排序
   - 例句
-    - `The company plans to merge its subsidiaries in the US.`
-      - 该公司计划合并其在美国的几家子公司。
-
+    - The company plans to merge its subsidiaries in the US. 该公司计划合并其在美国的几家子公司。
+  - 补充

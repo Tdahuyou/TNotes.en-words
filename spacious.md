@@ -1,31 +1,20 @@
 - spacious
   - 发音
-    - 英
-      - `/'speɪʃəs/`
-    - 美
-      - `/'speʃəs/`
+    - 英 /'speɪʃəs/
+    - 美 /'speʃəs/
   - 词义
-    - adj.
-      - 广大的,大规模的
-        - `a spacious house, room etc is large and has plenty of space to move around in`
+    - adj. 广大的,大规模的
+      - a spacious house, room etc is large and has plenty of space to move around in
   - 同根词
-    - adj.
-      - `spacy`
-        - 广大的；宽大的
-    - adv.
-      - `spaciously`
-        - 广大地；宽敞地
-    - n.
-      - `spaciousness`
-        - 宽敞；宽广
+    - adj. spacy 广大的；宽大的
+    - adv. spaciously 广大地；宽敞地
+    - n. spaciousness 宽敞；宽广
   - 近义词
-    - adj.
-      - 宽敞的，广阔的；无边无际的
-        - `extensive`
-        - `vast`
-        - `wider`
-        - `capacious`
+    - adj. 宽敞的，广阔的；无边无际的
+      - extensive
+      - vast
+      - wider
+      - capacious
   - 例句
-    - `a spacious living area`
-      - 宽敞的居住空间
-
+    - a spacious living area 宽敞的居住空间
+  - 补充

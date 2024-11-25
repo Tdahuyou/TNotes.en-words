@@ -1,19 +1,15 @@
 - wreak
   - 发音
-    - 英
-      - `/riːk/`
-    - 美
-      - `/rik/`
+    - 英 /riːk/
+    - 美 /rik/
   - 词义
-    - v.
-      - 发泄；报仇
+    - v. 发泄；报仇
   - 记忆
     - 身体虚弱 (weak)， 无力发泄 (wreak)怒火 → 发泄
   - 近义词
-    - vt.
-      - 发泄；报仇
-        - `give vent to`
-        - `take revenge`
+    - vt. 发泄；报仇
+      - give vent to
+      - take revenge
   - 短语
-    - `wreak havoc`
-      - 肆虐；造成严重破坏 
+    - wreak havoc 肆虐；造成严重破坏
+  - 补充

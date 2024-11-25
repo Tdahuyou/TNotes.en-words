@@ -1,33 +1,23 @@
 - beggar
   - 发音
-    - 英
-      - `/'begə/`
-    - 美
-      - `/'bɛɡɚ/`
+    - 英 /'begə/
+    - 美 /'bɛɡɚ/
   - 词义
-    - n.
-      - 乞丐
-        - `someone who lives by asking people for food and money`
+    - n. 乞丐
+      - someone who lives by asking people for food and money
   - 同根词
-    - adj.
-      - `beggarly`
-        - 赤贫的；像乞丐的
-    - n.
-      - `beggary`
-        - 赤贫；卑劣；行乞
+    - adj. beggarly 赤贫的；像乞丐的
+    - n. beggary 赤贫；卑劣；行乞
   - 近义词
-    - n.
-      - 乞丐；穷人；家伙
-        - `apple`
-        - `customer`
-        - `egg`
-        - `fellow`
-        - `guy`
-    - vt.
-      - 使贫穷；使沦为乞丐
-        - `impoverish`
-        - `pauperize`
+    - n. 乞丐；穷人；家伙
+      - apple
+      - customer
+      - egg
+      - fellow
+      - guy
+    - vt. 使贫穷；使沦为乞丐
+      - impoverish
+      - pauperize
   - 例句
-    - `the beggars on the streets`
-      - 街头乞丐
-
+    - the beggars on the streets 街头乞丐
+  - 补充

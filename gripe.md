@@ -1,38 +1,26 @@
 - gripe
   - 发音
-    - 英
-      - `/graɪp/`
-    - 美
-      - `/ɡraɪp/`
+    - 英 /graɪp/
+    - 美 /ɡraɪp/
   - 词义
-    - n.
-      - 紧握,柄
-    - v.
-      - 握紧
+    - n. 紧握,柄
+    - v. 握紧
   - 同根词
-    - adj.
-      - `gripping`
-        - 扣人心弦的；引人注意的；令人全神贯注的
-      - `griping`
-        - 绞肠的
-    - v.
-      - `gripping`
-        - 扣人心弦（grip的ing形式）；握紧
-      - `griping`
-        - 抓住（gripe的现在分词）
+    - adj. gripping 扣人心弦的；引人注意的；令人全神贯注的
+    - adj. griping 绞肠的
+    - v. gripping 扣人心弦（grip的ing形式）；握紧
+    - v. griping 抓住（gripe的现在分词）
   - 近义词
-    - n.
-      - 控制；发牢骚；肠绞痛
-        - `control`
-        - `grasp`
-        - `hold`
-        - `guiding`
-        - `command`
-    - vt.
-      - 绞痛；握紧；惹恼
-        - `keep hold of`
-        - `enclasp`
-    - vi.
-      - 抱怨，发牢骚；肠绞痛
-        - `beef about`
-        - `repine`
+    - n. 控制；发牢骚；肠绞痛
+      - control
+      - grasp
+      - hold
+      - guiding
+      - command
+    - vt. 绞痛；握紧；惹恼
+      - keep hold of
+      - enclasp
+    - vi. 抱怨，发牢骚；肠绞痛
+      - beef about
+      - repine
+  - 补充

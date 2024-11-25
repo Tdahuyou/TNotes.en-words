@@ -1,14 +1,10 @@
 - conchology
   - 发音
-    - 英
-      - `/kɒŋ'kɒlədʒɪ/`
-    - 美
-      - `/kɑŋ'kɑlədʒi/`
+    - 英 /kɒŋ'kɒlədʒɪ/
+    - 美 /kɑŋ'kɑlədʒi/
   - 词义
-    - n.
-      - 贝壳学,贝类学
-        - `the study and collection of mollusc shells `
+    - n. 贝壳学,贝类学
+      - the study and collection of mollusc shells 
   - 同根词
-    - n.
-      - `conch`
-        - 贝壳；海螺壳
+    - n. conch 贝壳；海螺壳
+  - 补充

@@ -1,19 +1,14 @@
 - hoodwink
   - 发音
-    - 英
-      - `/'hʊdwɪŋk/`
-    - 美
-      - `/'hʊdwɪŋk/`
+    - 英 /'hʊdwɪŋk/
+    - 美 /'hʊdwɪŋk/
   - 词义
-    - v.
-      - 蒙蔽；欺骗；遮眼
-        - `to trick someone in a clever way so that you can get an advantage for yourself`
+    - v. 蒙蔽；欺骗；遮眼
+      - to trick someone in a clever way so that you can get an advantage for yourself
   - 近义词
-    - vt.
-      - 蒙蔽；欺骗；遮眼
-        - `sell`
-        - `fox`
+    - vt. 蒙蔽；欺骗；遮眼
+      - sell
+      - fox
   - 例句
-    - `People expect others to be honest, which is why conmen find it so easy to hoodwink people.`
-      - 人们期待他人是诚实的，所以骗子很容易行骗得逞。
-
+    - People expect others to be honest, which is why conmen find it so easy to hoodwink people. 人们期待他人是诚实的，所以骗子很容易行骗得逞。
+  - 补充

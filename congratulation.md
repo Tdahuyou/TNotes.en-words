@@ -1,26 +1,17 @@
 - congratulation
   - 发音
-    - 英
-      - `/kənˌgrætʃu'leɪʃn/`
-    - 美
-      - `/kən,ɡrætʃu'leʃən/`
+    - 英 /kənˌgrætʃu'leɪʃn/
+    - 美 /kən,ɡrætʃu'leʃən/
   - 词义
-    - n.
-      - 祝贺，道喜
-        - `when you tell someone that you are happy because they have achieved something or because something nice has happened to them`
+    - n. 祝贺，道喜
+      - when you tell someone that you are happy because they have achieved something or because something nice has happened to them
   - 同根词
-    - adj.
-      - `congratulatory`
-        - 祝贺的；庆祝的
-    - vt.
-      - `congratulate`
-        - 祝贺；恭喜；庆贺
+    - adj. congratulatory 祝贺的；庆祝的
+    - vt. congratulate 祝贺；恭喜；庆贺
   - 近义词
-    - n.
-      - 祝贺；贺辞
-        - `felicitation`
-        - `gala`
+    - n. 祝贺；贺辞
+      - felicitation
+      - gala
   - 例句
-    - `letters of congratulation`
-      - 祝贺信
-
+    - letters of congratulation 祝贺信
+  - 补充

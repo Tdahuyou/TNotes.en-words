@@ -1,23 +1,16 @@
 - odourless
   - 发音
-    - 英
-      - `/undefined/`
-    - 美
-      - `/ˈodɚlɪs/`
+    - 英 /undefined/
+    - 美 /ˈodɚlɪs/
   - 词义
-    - adj.
-      - 没有气味的，无嗅的
-        - `having no smell`
+    - adj. 没有气味的，无嗅的
+      - having no smell
   - 同根词
-    - n.
-      - `odour`
-        - 气味；声誉
+    - n. odour 气味；声誉
   - 近义词
-    - adj.
-      - 无气味的；无臭的
-        - `scentless`
-        - `unscented`
+    - adj. 无气味的；无臭的
+      - scentless
+      - unscented
   - 例句
-    - `a colorless, odorless liquid`
-      - 一种无色无味的液体
-
+    - a colorless, odorless liquid 一种无色无味的液体
+  - 补充

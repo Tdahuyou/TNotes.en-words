@@ -1,29 +1,18 @@
 - entanglement
   - 发音
-    - 英
-      - `/ɪn'tæŋg(ə)lm(ə)nt; en-/`
-    - 美
-      - `/ɪn'tæŋɡlmənt/`
+    - 英 /ɪn'tæŋg(ə)lm(ə)nt; en-/
+    - 美 /ɪn'tæŋɡlmənt/
   - 词义
-    - n.
-      - 纠缠
-        - `when something becomes entangled in something`
+    - n. 纠缠
+      - when something becomes entangled in something
   - 同根词
-    - adj.
-      - `entangled`
-        - 卷入的；被缠住的
-    - v.
-      - `entangled`
-        - 卷入；使…混乱；使…纠缠
-    - vt.
-      - `entangle`
-        - 使纠缠；卷入；使混乱
+    - adj. entangled 卷入的；被缠住的
+    - v. entangled 卷入；使…混乱；使…纠缠
+    - vt. entangle 使纠缠；卷入；使混乱
   - 近义词
-    - n.
-      - 纠缠；铁丝网；缠绕物；牵连
-        - `involvement`
-        - `implication`
+    - n. 纠缠；铁丝网；缠绕物；牵连
+      - involvement
+      - implication
   - 例句
-    - `...a military and political entanglement the president probably doesn't want.`
-      - …一个总统很可能不想要的军事政治纠葛。
-
+    - ...a military and political entanglement the president probably doesn't want. …一个总统很可能不想要的军事政治纠葛。
+  - 补充

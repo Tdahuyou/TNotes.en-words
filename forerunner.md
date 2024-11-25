@@ -1,28 +1,19 @@
 - forerunner
   - 发音
-    - 英
-      - `/'fɔːrʌnər/`
-    - 美
-      - `/'fɔr'rʌnɚ/`
+    - 英 /'fɔːrʌnər/
+    - 美 /'fɔr'rʌnɚ/
   - 词义
-    - n.
-      - 先驱者，开路人；先兆，预兆
-        - `someone or something that existed before something similar that developed or came later`
+    - n. 先驱者，开路人；先兆，预兆
+      - someone or something that existed before something similar that developed or came later
   - 记忆
     - fore(在前面) + runner(跑步者) → 跑在前面的人 → 先驱者
   - 同根词
-    - n.
-      - `foreshadow`
-        - 预兆
-    - vt.
-      - `foreshadow`
-        - 预示；成为…的前兆
+    - n. foreshadow 预兆
+    - vt. foreshadow 预示；成为…的前兆
   - 近义词
-    - n.
-      - 先驱；先驱者；预兆
-        - `warning`
-        - `precursor`
+    - n. 先驱；先驱者；预兆
+      - warning
+      - precursor
   - 例句
-    - `...a machine which, in some respects, was the forerunner of the modern helicopter.`
-      - …一台在某些方面是现代直升飞机的前身的机器。
-
+    - ...a machine which, in some respects, was the forerunner of the modern helicopter. …一台在某些方面是现代直升飞机的前身的机器。
+  - 补充

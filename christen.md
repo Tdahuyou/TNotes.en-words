@@ -1,29 +1,19 @@
 - christen
   - 发音
-    - 英
-      - `/'krisən/`
-    - 美
-      - `/'krɪsn/`
+    - 英 /'krisən/
+    - 美 /'krɪsn/
   - 词义
-    - v.
-      - 命名为
-        - `to officially give a child its name at a Christian religious ceremony`
+    - v. 命名为
+      - to officially give a child its name at a Christian religious ceremony
   - 记忆
     - 来自christ (基督教) + en → 施洗礼 → 命名为
   - 同根词
-    - n.
-      - `christening`
-        - （基督教）洗礼；（基督教）洗礼仪式；命名典礼
-      - `chrisom`
-        - 初生婴孩的白色洗礼巾/洗礼服；婴儿
-    - v.
-      - `christening`
-        - 为…施洗礼（christen的ing形式）
+    - n. christening （基督教）洗礼；（基督教）洗礼仪式；命名典礼
+    - n. chrisom 初生婴孩的白色洗礼巾/洗礼服；婴儿
+    - v. christening 为…施洗礼（christen的ing形式）
   - 近义词
-    - vt.
-      - 为…命名；为…施洗礼
-        - `denominate`
+    - vt. 为…命名；为…施洗礼
+      - denominate
   - 例句
-    - `She was christened Sarah.`
-      - 她在受洗时取名萨拉。
-
+    - She was christened Sarah. 她在受洗时取名萨拉。
+  - 补充

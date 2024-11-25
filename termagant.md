@@ -1,19 +1,15 @@
 - termagant
   - 发音
-    - 英
-      - `/undefined/`
-    - 美
-      - `/undefined/`
+    - 英 /undefined/
+    - 美 /undefined/
   - 词义
-    - n.
-      - 泼妇,好吵架的女人
-        - `a shrewish woman; scold `
+    - n. 泼妇,好吵架的女人
+      - a shrewish woman; scold 
   - 近义词
-    - adj.
-      - 暴躁的；凶悍的；好争吵的
-        - `fierce`
-        - `cranky`
-    - n.
-      - 泼妇；悍妇
-        - `shrew`
-        - `virago`
+    - adj. 暴躁的；凶悍的；好争吵的
+      - fierce
+      - cranky
+    - n. 泼妇；悍妇
+      - shrew
+      - virago
+  - 补充

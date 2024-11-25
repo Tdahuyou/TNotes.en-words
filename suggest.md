@@ -1,38 +1,24 @@
 - suggest
   - 发音
-    - 英
-      - `/sə'dʒest/`
-    - 美
-      - `/sə'dʒɛst/`
+    - 英 /sə'dʒest/
+    - 美 /sə'dʒɛst/
   - 词义
-    - v.
-      - 建议；提议
-        - `to tell someone your ideas about what they should do, where they should go etc`
+    - v. 建议；提议
+      - to tell someone your ideas about what they should do, where they should go etc
   - 记忆
     - sug + gest(运， 载) → 将自己的想法运出来 → 建议， 提议
   - 同根词
-    - adj.
-      - `suggestive`
-        - 暗示的；提示的；影射的
-      - `suggestible`
-        - 可建议的；耳根软的；易受影响的
-    - adv.
-      - `suggestively`
-        - 提示地；引起联想地；暗示地
-    - n.
-      - `suggestion`
-        - 建议；示意；微量，细微的迹象
+    - adj. suggestive 暗示的；提示的；影射的
+    - adj. suggestible 可建议的；耳根软的；易受影响的
+    - adv. suggestively 提示地；引起联想地；暗示地
+    - n. suggestion 建议；示意；微量，细微的迹象
   - 近义词
-    - vt.
-      - 提议，建议；启发；使人想起
-        - `vote`
-        - `advise`
+    - vt. 提议，建议；启发；使人想起
+      - vote
+      - advise
   - 短语
-    - `suggest doing`
-      - 建议做… 
+    - suggest doing 建议做…
   - 例句
-    - `The zoo asked its visitors to suggest a name for the new baby panda.`
-      - 动物园请游客提建议，给刚出生的大熊猫起一个名字。
-    - `It has been suggested that the manager will resign if any more players are sold.`
-      - 有人提议，如果再有球员被出售，球队主教练就辞职。
-
+    - The zoo asked its visitors to suggest a name for the new baby panda. 动物园请游客提建议，给刚出生的大熊猫起一个名字。
+    - It has been suggested that the manager will resign if any more players are sold. 有人提议，如果再有球员被出售，球队主教练就辞职。
+  - 补充

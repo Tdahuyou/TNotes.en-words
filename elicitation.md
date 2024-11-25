@@ -1,20 +1,15 @@
 - elicitation
   - 发音
-    - 英
-      - `/ɪˌlɪsɪ'teɪʃn/`
-    - 美
-      - `/ɪ,lɪsə'teʃən/`
+    - 英 /ɪˌlɪsɪ'teɪʃn/
+    - 美 /ɪ,lɪsə'teʃən/
   - 词义
-    - n.
-      - 引出，诱出
+    - n. 引出，诱出
   - 记忆
     - e(出) + lic(诱骗) + itation → 诱骗到外边来 → 引出， 诱出
   - 同根词
-    - vt.
-      - `elicit`
-        - 抽出，引出；引起
+    - vt. elicit 抽出，引出；引起
   - 近义词
-    - n.
-      - 引出；诱出；抽出
-        - `extraction`
-        - `derivation`
+    - n. 引出；诱出；抽出
+      - extraction
+      - derivation
+  - 补充

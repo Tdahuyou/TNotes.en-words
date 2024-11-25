@@ -1,34 +1,23 @@
 - immortal
   - 发音
-    - 英
-      - `/i'mɔːtəl/`
-    - 美
-      - `/ɪ'mɔrtl/`
+    - 英 /i'mɔːtəl/
+    - 美 /ɪ'mɔrtl/
   - 词义
-    - adj.
-      - 不死的；不会消亡的
-        - `living or continuing for ever`
+    - adj. 不死的；不会消亡的
+      - living or continuing for ever
   - 记忆
     - im (不) + mort (死) + al (…的) → 不死的
   - 同根词
-    - n.
-      - `immortality`
-        - 不朽；不朽的声名；不灭
-    - vt.
-      - `immortalize`
-        - 使不灭；使名垂千古，使不朽
-      - `immortalise`
-        - 使不灭；使不朽
+    - n. immortality 不朽；不朽的声名；不灭
+    - vt. immortalize 使不灭；使名垂千古，使不朽
+    - vt. immortalise 使不灭；使不朽
   - 近义词
-    - adj.
-      - 不朽的；神仙的；长生的
-        - `eternal`
-        - `monumental`
-    - n.
-      - 神仙；不朽人物
-        - `jinnee`
-        - `djinni`
+    - adj. 不朽的；神仙的；长生的
+      - eternal
+      - monumental
+    - n. 神仙；不朽人物
+      - jinnee
+      - djinni
   - 例句
-    - `Plato believed that the soul is immortal.`
-      - 柏拉图认为灵魂不灭。
-
+    - Plato believed that the soul is immortal. 柏拉图认为灵魂不灭。
+  - 补充

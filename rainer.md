@@ -1,9 +1,7 @@
 - rainer
   - 发音
-    - 英
-      - `/undefined/`
-    - 美
-      - `/undefined/`
+    - 英 /undefined/
+    - 美 /undefined/
   - 词义
-    - n.
-      - 人工降雨装置,喷灌装置
+    - n. 人工降雨装置,喷灌装置
+  - 补充

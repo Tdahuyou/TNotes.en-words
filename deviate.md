@@ -1,25 +1,18 @@
 - deviate
   - 发音
-    - 英
-      - `/'diːvɪeɪt/`
-    - 美
-      - `/'divɪet/`
+    - 英 /'diːvɪeɪt/
+    - 美 /'divɪet/
   - 词义
-    - v.
-      - 偏离,偏轨
-        - `to change what you are doing so that you are not following an expected plan, idea, or type of behaviour`
+    - v. 偏离,偏轨
+      - to change what you are doing so that you are not following an expected plan, idea, or type of behaviour
   - 近义词
-    - vi.
-      - 脱离；越轨
-        - `out of contact`
-        - `break away`
-    - vt.
-      - 使偏离
-        - `diverge`
+    - vi. 脱离；越轨
+      - out of contact
+      - break away
+    - vt. 使偏离
+      - diverge
   - 短语
-    - `deviate from`
-      - 偏离；脱离 
+    - deviate from 偏离；脱离
   - 例句
-    - `They stopped you as soon as you deviated from the script.`
-      - 你一偏离剧本，他们就会叫停。
-
+    - They stopped you as soon as you deviated from the script. 你一偏离剧本，他们就会叫停。
+  - 补充

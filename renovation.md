@@ -1,28 +1,19 @@
 - renovation
   - 发音
-    - 英
-      - `/,renə'veɪʃn/`
-    - 美
-      - `/,rɛnə'veʃən/`
+    - 英 /,renə'veɪʃn/
+    - 美 /,rɛnə'veʃən/
   - 词义
-    - n.
-      - 革新；修理；恢复活力
+    - n. 革新；修理；恢复活力
   - 同根词
-    - n.
-      - `renovator`
-        - 革新者；刷新者，更新者；修理者
-    - vt.
-      - `renovate`
-        - 更新；修复；革新；刷新
+    - n. renovator 革新者；刷新者，更新者；修理者
+    - vt. renovate 更新；修复；革新；刷新
   - 近义词
-    - n.
-      - 革新；修理；恢复活力
-        - `innovation`
-        - `reformation`
-        - `repair`
-        - `renewal`
+    - n. 革新；修理；恢复活力
+      - innovation
+      - reformation
+      - repair
+      - renewal
   - 短语
-    - `technical renovation`
-      - 技术革新 
-    - `renovation project`
-      - 改造项目 
+    - technical renovation 技术革新
+    - renovation project 改造项目
+  - 补充

@@ -1,27 +1,19 @@
 - earl
   - 发音
-    - 英
-      - `/ɜːl/`
-    - 美
-      - `/ɜːl/`
+    - 英 /ɜːl/
+    - 美 /ɜːl/
   - 词义
-    - n.
-      - （英）伯爵
-        - `a man with a high social rank`
+    - n. （英）伯爵
+      - a man with a high social rank
   - 同根词
-    - n.
-      - `earldom`
-        - 伯爵爵位
+    - n. earldom 伯爵爵位
   - 近义词
-    - n.
-      - （英）伯爵
-        - `count`
-        - `Graf`
-        - `Comte`
+    - n. （英）伯爵
+      - count
+      - Graf
+      - Comte
   - 短语
-    - `earl grey`
-      - 伯爵茶（一种红茶）；格雷伯爵（英国贵族头衔） 
+    - earl grey 伯爵茶（一种红茶）；格雷伯爵（英国贵族头衔）
   - 例句
-    - `the Earl of Warwick`
-      - 沃里克伯爵
-
+    - the Earl of Warwick 沃里克伯爵
+  - 补充

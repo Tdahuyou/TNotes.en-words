@@ -1,29 +1,20 @@
 - honesty
   - 发音
-    - 英
-      - `/'ɒnɪstɪ/`
-    - 美
-      - `/'ɑnəsti/`
+    - 英 /'ɒnɪstɪ/
+    - 美 /'ɑnəsti/
   - 词义
-    - n.
-      - 诚实，正直
-        - `the quality of being honest`
+    - n. 诚实，正直
+      - the quality of being honest
   - 同根词
-    - adj.
-      - `honest`
-        - 诚实的，实在的；可靠的；坦率的
-    - adv.
-      - `honestly`
-        - 真诚地；公正地
+    - adj. honest 诚实的，实在的；可靠的；坦率的
+    - adv. honestly 真诚地；公正地
   - 近义词
-    - n.
-      - 诚实，正直
-        - `integrity`
-        - `truth`
-        - `good faith`
-        - `righteousness`
-        - `veracity`
+    - n. 诚实，正直
+      - integrity
+      - truth
+      - good faith
+      - righteousness
+      - veracity
   - 例句
-    - `a politician of rare honesty and courage`
-      - 具备少见的诚实及勇气的政治家
-
+    - a politician of rare honesty and courage 具备少见的诚实及勇气的政治家
+  - 补充

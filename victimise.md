@@ -1,11 +1,9 @@
 - victimise
   - 发音
-    - 英
-      - `/'vɪktɪmaɪz/`
-    - 美
-      - `/undefined/`
+    - 英 /'vɪktɪmaɪz/
+    - 美 /undefined/
   - 词义
-    - v.
-      - 受害，迫害
+    - v. 受害，迫害
   - 记忆
     - victim(受害者) + ise(使…) → (使)成为受害者 → (使)受害
+  - 补充

@@ -1,15 +1,12 @@
 - gravamen
   - 发音
-    - 英
-      - `/grə'veɪmen/`
-    - 美
-      - `/undefined/`
+    - 英 /grə'veɪmen/
+    - 美 /undefined/
   - 词义
-    - n.
-      - 不平,苦诉,[律]控诉要旨
-        - `that part of an accusation weighing most heavily against an accused `
+    - n. 不平,苦诉,[律]控诉要旨
+      - that part of an accusation weighing most heavily against an accused 
   - 近义词
-    - n.
-      - 不平；苦诉；[法]控诉要旨
-        - `discontentment`
-        - `grievance`
+    - n. 不平；苦诉；[法]控诉要旨
+      - discontentment
+      - grievance
+  - 补充

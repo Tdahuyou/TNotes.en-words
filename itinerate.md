@@ -1,27 +1,17 @@
 - itinerate
   - 发音
-    - 英
-      - `/ai'tinəreit/`
-    - 美
-      - `/aɪ'tɪnəret/`
+    - 英 /ai'tinəreit/
+    - 美 /aɪ'tɪnəret/
   - 词义
-    - v.
-      - 巡回
+    - v. 巡回
   - 同根词
-    - adj.
-      - `itinerary`
-        - 旅程的；巡回的
-      - `itinerant`
-        - 巡回的；流动的
-    - n.
-      - `itinerary`
-        - 路线，旅程；旅行指南
-      - `itinerant`
-        - 巡回者；行商
-      - `itineration`
-        - 巡回；巡回传教
+    - adj. itinerary 旅程的；巡回的
+    - adj. itinerant 巡回的；流动的
+    - n. itinerary 路线，旅程；旅行指南
+    - n. itinerant 巡回者；行商
+    - n. itineration 巡回；巡回传教
   - 近义词
-    - vi.
-      - 巡回；巡回传教
-        - `go the rounds`
-        - `go on a tour`
+    - vi. 巡回；巡回传教
+      - go the rounds
+      - go on a tour
+  - 补充

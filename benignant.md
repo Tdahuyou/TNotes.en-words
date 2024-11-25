@@ -1,46 +1,27 @@
 - benignant
   - 发音
-    - 英
-      - `/bi'nignənt/`
-    - 美
-      - `/bi'niɡnənt/`
+    - 英 /bi'nignənt/
+    - 美 /bi'niɡnənt/
   - 词义
-    - adj.
-      - 仁慈的，和蔼的；有益的
-        - `kind; gracious, as a king to his subjects `
+    - adj. 仁慈的，和蔼的；有益的
+      - kind; gracious, as a king to his subjects 
   - 同根词
-    - adj.
-      - `benign`
-        - 良性的；和蔼的，亲切的；吉利的
-      - `benevolent`
-        - 仁慈的；慈善的；亲切的
-    - adv.
-      - `benevolently`
-        - 仁慈地；慷慨地
-      - `benignantly`
-        - 有益地；亲切地；仁慈地
-      - `benignly`
-        - 亲切地；仁慈地
-    - n.
-      - `benefit`
-        - 利益，好处；救济金
-      - `benevolence`
-        - 仁慈；善行
-      - `benignancy`
-        - 仁慈；良性；亲切
-      - `benignity`
-        - 仁慈；善举
-    - vi.
-      - `benefit`
-        - 受益，得益
-    - vt.
-      - `benefit`
-        - 有益于，对…有益
+    - adj. benign 良性的；和蔼的，亲切的；吉利的
+    - adj. benevolent 仁慈的；慈善的；亲切的
+    - adv. benevolently 仁慈地；慷慨地
+    - adv. benignantly 有益地；亲切地；仁慈地
+    - adv. benignly 亲切地；仁慈地
+    - n. benefit 利益，好处；救济金
+    - n. benevolence 仁慈；善行
+    - n. benignancy 仁慈；良性；亲切
+    - n. benignity 仁慈；善举
+    - vi. benefit 受益，得益
+    - vt. benefit 有益于，对…有益
   - 近义词
-    - adj.
-      - 良性的；仁慈的；有益的；和蔼的
-        - `beneficial`
-        - `helpful`
-        - `useful`
-        - `nice`
-        - `advantageous`
+    - adj. 良性的；仁慈的；有益的；和蔼的
+      - beneficial
+      - helpful
+      - useful
+      - nice
+      - advantageous
+  - 补充

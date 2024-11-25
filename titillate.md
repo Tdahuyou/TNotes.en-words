@@ -1,22 +1,16 @@
 - titillate
   - 发音
-    - 英
-      - `/'tɪtɪleɪt/`
-    - 美
-      - `/'tɪtə'let/`
+    - 英 /'tɪtɪleɪt/
+    - 美 /'tɪtə'let/
   - 词义
-    - v.
-      - 搔痒,使愉快
+    - v. 搔痒,使愉快
   - 同根词
-    - n.
-      - `titillation`
-        - 搔痒；愉快
+    - n. titillation 搔痒；愉快
   - 近义词
-    - vt.
-      - 使觉得痒；使高兴
-        - `please`
-        - `glad`
-        - `satisfy`
-    - vi.
-      - 感到兴奋；被激发
-        - `get off on`
+    - vt. 使觉得痒；使高兴
+      - please
+      - glad
+      - satisfy
+    - vi. 感到兴奋；被激发
+      - get off on
+  - 补充

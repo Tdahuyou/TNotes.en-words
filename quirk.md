@@ -1,23 +1,16 @@
 - quirk
   - 发音
-    - 英
-      - `/kwɜːk/`
-    - 美
-      - `/kwɝk/`
+    - 英 /kwɜːk/
+    - 美 /kwɝk/
   - 词义
-    - n.
-      - 怪癖；急转；借口
-        - `a strange habit or feature of someone’s character, or a strange feature of something`
+    - n. 怪癖；急转；借口
+      - a strange habit or feature of someone’s character, or a strange feature of something
   - 同根词
-    - adj.
-      - `quirky`
-        - 古怪的；离奇的；诡诈的
+    - adj. quirky 古怪的；离奇的；诡诈的
   - 近义词
-    - n.
-      - 怪癖；急转；借口
-        - `excuse`
-        - `blind`
+    - n. 怪癖；急转；借口
+      - excuse
+      - blind
   - 例句
-    - `Like every computer, this one has its little quirks.`
-      - 就像所有电脑一样，这台也有它的小毛病。
-
+    - Like every computer, this one has its little quirks. 就像所有电脑一样，这台也有它的小毛病。
+  - 补充

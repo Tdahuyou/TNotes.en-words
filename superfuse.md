@@ -1,14 +1,11 @@
 - superfuse
   - 发音
-    - 英
-      - `/,sjuːpə'fjuːz/`
-    - 美
-      - `/,sju:pə'fju:z/`
+    - 英 /,sjuːpə'fjuːz/
+    - 美 /,sju:pə'fju:z/
   - 词义
   - 近义词
-    - vi.
-      - 过冷；泼液于其上
-        - `undercool`
-    - vt.
-      - 用液体浇注；使过冷（等于supercool）
-        - `subcool`
+    - vi. 过冷；泼液于其上
+      - undercool
+    - vt. 用液体浇注；使过冷（等于supercool）
+      - subcool
+  - 补充

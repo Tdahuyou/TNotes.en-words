@@ -1,25 +1,18 @@
 - prologue
   - 发音
-    - 英
-      - `/'prəulɔg/`
-    - 美
-      - `/'prolɔɡ/`
+    - 英 /'prəulɔg/
+    - 美 /'prolɔɡ/
   - 词义
-    - n.
-      - 序言
-        - `the introduction to a play, a long poem etc`
+    - n. 序言
+      - the introduction to a play, a long poem etc
   - 记忆
     - pro (在前) + logue (话语) → 在前面说的话 → 序言
   - 同根词
-    - n.
-      - `prolusion`
-        - 预演，序幕；序言
+    - n. prolusion 预演，序幕；序言
   - 近义词
-    - n.
-      - 开场白；序言
-        - `opening remarks`
-        - `introductory remarks`
+    - n. 开场白；序言
+      - opening remarks
+      - introductory remarks
   - 例句
-    - `The prologue to the novel is written in the form of a newspaper account.`
-      - 该小说的前言是以新闻报道的形式写的。
-
+    - The prologue to the novel is written in the form of a newspaper account. 该小说的前言是以新闻报道的形式写的。
+  - 补充

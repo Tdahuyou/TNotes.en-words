@@ -1,29 +1,19 @@
 - sallow
   - 发音
-    - 英
-      - `/'sæləʊ/`
-    - 美
-      - `/'sælo/`
+    - 英 /'sæləʊ/
+    - 美 /'sælo/
   - 词义
-    - adj.
-      - 气色不好的；灰黄色的
-        - `sallow skin looks slightly yellow and unhealthy`
-    - n.
-      - 黄华柳；黄华柳细枝
-    - v.
-      - 成土色
+    - adj. 气色不好的；灰黄色的
+      - sallow skin looks slightly yellow and unhealthy
+    - n. 黄华柳；黄华柳细枝
+    - v. 成土色
   - 同根词
-    - n.
-      - `sallowness`
-        - 灰黄（形容肤色）；病态
+    - n. sallowness 灰黄（形容肤色）；病态
   - 近义词
-    - adj.
-      - 气色不好的；灰黄色的
-        - `sauch`
+    - adj. 气色不好的；灰黄色的
+      - sauch
   - 短语
-    - `sallow complexion`
-      - 面色萎黄 
+    - sallow complexion 面色萎黄
   - 例句
-    - `She had lank hair and sallow skin.`
-      - 她头发稀疏，脸色蜡黄。
-
+    - She had lank hair and sallow skin. 她头发稀疏，脸色蜡黄。
+  - 补充

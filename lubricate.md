@@ -1,34 +1,19 @@
 - lubricate
   - 发音
-    - 英
-      - `/'luːbrɪkeɪt/`
-    - 美
-      - `/'lubrɪket/`
+    - 英 /'luːbrɪkeɪt/
+    - 美 /'lubrɪket/
   - 词义
-    - v.
-      - 润滑v加润滑油
-        - `to put a lubricant on something in order to make it move more smoothly`
+    - v. 润滑v加润滑油
+      - to put a lubricant on something in order to make it move more smoothly
   - 同根词
-    - adj.
-      - `lubricant`
-        - 润滑的
-      - `lubricated`
-        - 润滑的；喝醉了的
-    - n.
-      - `lubricant`
-        - 润滑剂；润滑油
-      - `lubrication`
-        - 润滑；润滑作用
-      - `lube`
-        - 润滑油（等于lubrication）
-      - `lubricator`
-        - 润滑器；润滑物；油壶；加油工
-      - `lubricity`
-        - 润滑能力；不稳定（性）；狡猾；难以捉摸
-    - v.
-      - `lubricated`
-        - 给…注润滑油；使…平滑；对…有帮助（lubricate的过去分词）
+    - adj. lubricant 润滑的
+    - adj. lubricated 润滑的；喝醉了的
+    - n. lubricant 润滑剂；润滑油
+    - n. lubrication 润滑；润滑作用
+    - n. lube 润滑油（等于lubrication）
+    - n. lubricator 润滑器；润滑物；油壶；加油工
+    - n. lubricity 润滑能力；不稳定（性）；狡猾；难以捉摸
+    - v. lubricated 给…注润滑油；使…平滑；对…有帮助（lubricate的过去分词）
   - 例句
-    - `Lubricate all moving parts with grease.`
-      - 给所有活动部件加润滑油。
-
+    - Lubricate all moving parts with grease. 给所有活动部件加润滑油。
+  - 补充

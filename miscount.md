@@ -1,23 +1,16 @@
 - miscount
   - 发音
-    - 英
-      - `/ˌmis'kaunt/`
-    - 美
-      - `/,mɪs'kaʊnt/`
+    - 英 /ˌmis'kaunt/
+    - 美 /,mɪs'kaʊnt/
   - 词义
-    - v.
-      - 数错
-        - `to count wrongly`
+    - v. 数错
+      - to count wrongly
   - 近义词
-    - vt.
-      - 数错；算错
-        - `get it wrong`
-    - vi.
-      - 数错；算错
-        - `get it wrong`
+    - vt. 数错；算错
+      - get it wrong
+    - vi. 数错；算错
+      - get it wrong
   - 例句
-    - `Sorry, I miscounted – we need ten copies, not nine.`
-      - 对不起，我数错了——我们需要十份复印件，不是九份。
-    - `The votes were deliberately miscounted.`
-      - 选票被故意数错了。
-
+    - Sorry, I miscounted – we need ten copies, not nine. 对不起，我数错了——我们需要十份复印件，不是九份。
+    - The votes were deliberately miscounted. 选票被故意数错了。
+  - 补充

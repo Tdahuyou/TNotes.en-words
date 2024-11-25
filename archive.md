@@ -1,31 +1,20 @@
 - archive
   - 发音
-    - 英
-      - `/'ɑːrkaɪv/`
-    - 美
-      - `/'ɑrkaɪv/`
+    - 英 /'ɑːrkaɪv/
+    - 美 /'ɑrkaɪv/
   - 词义
-    - n.
-      - 档案室
-        - `a place where a large number of historical records are stored, or the records that are stored`
-    - vt.
-      - 存档
-        - `to put documents, books, information etc in an archive`
+    - n. 档案室
+      - a place where a large number of historical records are stored, or the records that are stored
+    - vt. 存档
+      - to put documents, books, information etc in an archive
   - 同根词
-    - adj.
-      - `archival`
-        - 档案的
-    - n.
-      - `archivist`
-        - 案卷保管人；档案保管员
+    - adj. archival 档案的
+    - n. archivist 案卷保管人；档案保管员
   - 近义词
-    - n.
-      - 档案馆；档案文件
-        - `chancery`
+    - n. 档案馆；档案文件
+      - chancery
   - 短语
-    - `archive file`
-      - n. [计]档案文件 
+    - archive file n. [计]档案文件
   - 例句
-    - `an archive of the writer’s unpublished work`
-      - 那位作家未发表作品的档案
-
+    - an archive of the writer’s unpublished work 那位作家未发表作品的档案
+  - 补充

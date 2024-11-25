@@ -1,32 +1,22 @@
 - nascent
   - 发音
-    - 英
-      - `/'næsənt/`
-    - 美
-      - `/'næsnt/`
+    - 英 /'næsənt/
+    - 美 /'næsnt/
   - 词义
-    - adj.
-      - 初生的
-        - `coming into existence or starting to develop`
+    - adj. 初生的
+      - coming into existence or starting to develop
   - 记忆
     - nasc (出生) + ent → 出生的
   - 同根词
-    - n.
-      - `nascence`
-        - 起源；发生
-      - `nascency`
-        - 起源；发生
+    - n. nascence 起源；发生
+    - n. nascency 起源；发生
   - 近义词
-    - adj.
-      - [生物]初期的；开始存在的，发生中的
-        - `earlier`
-        - `young`
+    - adj. [生物]初期的；开始存在的，发生中的
+      - earlier
+      - young
   - 短语
-    - `nascent state`
-      - 初生态；新生态 
+    - nascent state 初生态；新生态
   - 例句
-    - `the country’s nascent democracy`
-      - 该国新生的民主
-    - `their nascent industries`
-      - 他们的新兴行业
-
+    - the country’s nascent democracy 该国新生的民主
+    - their nascent industries 他们的新兴行业
+  - 补充

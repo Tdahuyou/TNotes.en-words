@@ -1,31 +1,20 @@
 - handsome
   - 发音
-    - 英
-      - `/'hæns(ə)m/`
-    - 美
-      - `/'hænsəm/`
+    - 英 /'hæns(ə)m/
+    - 美 /'hænsəm/
   - 词义
-    - adj.
-      - 漂亮的；英俊的
-        - `an animal, object, or building that is handsome looks attractive in an impressive way`
+    - adj. 漂亮的；英俊的
+      - an animal, object, or building that is handsome looks attractive in an impressive way
   - 同根词
-    - adv.
-      - `handsomely`
-        - 漂亮地；慷慨地；相当大地
-    - n.
-      - `handsomeness`
-        - 英俊；漂亮
+    - adv. handsomely 漂亮地；慷慨地；相当大地
+    - n. handsomeness 英俊；漂亮
   - 近义词
-    - adj.
-      - （男子）英俊的；可观的；大方的，慷慨的；健美而端庄的
-        - `generous`
-        - `liberal`
+    - adj. （男子）英俊的；可观的；大方的，慷慨的；健美而端庄的
+      - generous
+      - liberal
   - 短语
-    - `handsome boy`
-      - 帅小伙 
-    - `handsome salary`
-      - 可观的薪水 
+    - handsome boy 帅小伙
+    - handsome salary 可观的薪水
   - 例句
-    - `a row of handsome Georgian houses`
-      - 一排宏伟的乔治王朝时期的房子
-
+    - a row of handsome Georgian houses 一排宏伟的乔治王朝时期的房子
+  - 补充

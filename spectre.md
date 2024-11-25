@@ -1,22 +1,15 @@
 - spectre
   - 发音
-    - 英
-      - `/'spektə/`
-    - 美
-      - `/'spektə/`
+    - 英 /'spektə/
+    - 美 /'spektə/
   - 词义
-    - n.
-      - 幽灵；妖怪；鬼性（等于specter）
-        - `a  ghost `
+    - n. 幽灵；妖怪；鬼性（等于specter）
+      - a  ghost 
   - 同根词
-    - adj.
-      - `spectral`
-        - [光] 光谱的；幽灵的；鬼怪的
-    - n.
-      - `specter`
-        - 幽灵；妖怪；恐怖之物
+    - adj. spectral [光] 光谱的；幽灵的；鬼怪的
+    - n. specter 幽灵；妖怪；恐怖之物
   - 近义词
-    - n.
-      - 幽灵；妖怪；鬼性（等于specter）
-        - `shadow`
-        - `ghost`
+    - n. 幽灵；妖怪；鬼性（等于specter）
+      - shadow
+      - ghost
+  - 补充

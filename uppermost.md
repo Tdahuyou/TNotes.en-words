@@ -1,34 +1,25 @@
 - uppermost
   - 发音
-    - 英
-      - `/'ʌpərmoust/`
-    - 美
-      - `/'ʌpɚmost/`
+    - 英 /'ʌpərmoust/
+    - 美 /'ʌpɚmost/
   - 词义
-    - adv.
-      - 在最上面，在最重要的位置
-    - adj.
-      - 最高的，最上面的；最重要的
-        - `more important than anything else`
+    - adv. 在最上面，在最重要的位置
+    - adj. 最高的，最上面的；最重要的
+      - more important than anything else
   - 记忆
     - upper(较高的) + most(最) → 最高的
   - 同根词
-    - adj.
-      - `upper`
-        - 上面的，上部的；较高的
+    - adj. upper 上面的，上部的；较高的
   - 近义词
-    - adj.
-      - 至上的；最高的；最主要的
-        - `highest`
-        - `supreme`
-        - `maximum`
-        - `peak`
-        - `top`
-    - adv.
-      - 最高地；最重要地；最突出地
-        - `superlatively`
-        - `maximally`
+    - adj. 至上的；最高的；最主要的
+      - highest
+      - supreme
+      - maximum
+      - peak
+      - top
+    - adv. 最高地；最重要地；最突出地
+      - superlatively
+      - maximally
   - 例句
-    - `Lastly comes the question which is uppermost in most minds, the most treacherous question of all—that of retaliation.`
-      - 最后一个问题是在所有被关心问题中最重要的，也是最危险的——关于报复的问题。
-
+    - Lastly comes the question which is uppermost in most minds, the most treacherous question of all—that of retaliation. 最后一个问题是在所有被关心问题中最重要的，也是最危险的——关于报复的问题。
+  - 补充

@@ -1,54 +1,34 @@
 - strap
   - 发音
-    - 英
-      - `/stræp/`
-    - 美
-      - `/stræp/`
+    - 英 /stræp/
+    - 美 /stræp/
   - 词义
-    - n.
-      - 带
-        - `a narrow band of strong material that is used to fasten, hang, or hold onto something`
-    - vt.
-      - 用带捆扎，束牢；用绷带包扎
-        - `to fasten something or someone in place with one or more straps`
+    - n. 带
+      - a narrow band of strong material that is used to fasten, hang, or hold onto something
+    - vt. 用带捆扎，束牢；用绷带包扎
+      - to fasten something or someone in place with one or more straps
   - 记忆
     - 用皮带(strap)拍打(rap)
   - 同根词
-    - adj.
-      - `strapping`
-        - 魁梧的；高大健壮的
-      - `strapless`
-        - 无带的；无背带的；无肩带的
-    - n.
-      - `strapping`
-        - 鞭打；皮带材料；裹伤胶带
-      - `strapper`
-        - 用皮绳捆的人；马夫；用磨刀皮带磨的人；体格结实而健壮的人
-    - v.
-      - `strapping`
-        - 用带捆扎；约束，束缚（strap的现在分词）
+    - adj. strapping 魁梧的；高大健壮的
+    - adj. strapless 无带的；无背带的；无肩带的
+    - n. strapping 鞭打；皮带材料；裹伤胶带
+    - n. strapper 用皮绳捆的人；马夫；用磨刀皮带磨的人；体格结实而健壮的人
+    - v. strapping 用带捆扎；约束，束缚（strap的现在分词）
   - 近义词
-    - vt.
-      - 用带捆绑；用皮条抽打；约束
-        - `restrict`
-        - `hold in`
-    - n.
-      - 带；[机]皮带；磨刀皮带；鞭打
-        - `belt`
-        - `band`
-        - `strip`
+    - vt. 用带捆绑；用皮条抽打；约束
+      - restrict
+      - hold in
+    - n. 带；[机]皮带；磨刀皮带；鞭打
+      - belt
+      - band
+      - strip
   - 短语
-    - `leather strap`
-      - 皮带，皮表带 
-    - `shoulder strap`
-      - 肩章；保护肩部的衬垫 
-    - `wrist strap`
-      - 防静电手环，腕带 
-    - `steel strap`
-      - 护顶钢板；钢板 
+    - leather strap 皮带，皮表带
+    - shoulder strap 肩章；保护肩部的衬垫
+    - wrist strap 防静电手环，腕带
+    - steel strap 护顶钢板；钢板
   - 例句
-    - `a bra strap`
-      - 胸罩肩带
-    - `The strap of my bag is broken.`
-      - 我包上的带子断了。
-
+    - a bra strap 胸罩肩带
+    - The strap of my bag is broken. 我包上的带子断了。
+  - 补充

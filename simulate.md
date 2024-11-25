@@ -1,40 +1,26 @@
 - simulate
   - 发音
-    - 英
-      - `/'sɪmjuleɪt/`
-    - 美
-      - `/'sɪmjulet/`
+    - 英 /'sɪmjuleɪt/
+    - 美 /'sɪmjulet/
   - 词义
-    - vt.
-      - 模仿，模拟；假装，伪装
-        - `to make or produce something that is not real but has the appearance or feeling of being real`
+    - vt. 模仿，模拟；假装，伪装
+      - to make or produce something that is not real but has the appearance or feeling of being real
   - 记忆
     - simul(相同) + ate(使…) → 使相同 → 模仿
   - 同根词
-    - adj.
-      - `simulated`
-        - 模拟的；模仿的；仿造的
-    - n.
-      - `simulation`
-        - 仿真；模拟；模仿；假装
-      - `simulator`
-        - 模拟器；假装者，模拟者
-    - v.
-      - `simulated`
-        - 模仿（simulate的变形）；假装
+    - adj. simulated 模拟的；模仿的；仿造的
+    - n. simulation 仿真；模拟；模仿；假装
+    - n. simulator 模拟器；假装者，模拟者
+    - v. simulated 模仿（simulate的变形）；假装
   - 近义词
-    - vt.
-      - 模仿；假装；冒充
-        - `pattern`
-        - `come`
-        - `imitate`
-    - adj.
-      - 模仿的；假装的
-        - `affected`
-        - `assumed`
+    - vt. 模仿；假装；冒充
+      - pattern
+      - come
+      - imitate
+    - adj. 模仿的；假装的
+      - affected
+      - assumed
   - 例句
-    - `a machine that simulates conditions in space`
-      - 一台模拟太空环境的机器
-    - `Interviews can be simulated in the classroom.`
-      - 可以在教室里模拟面试。
-
+    - a machine that simulates conditions in space 一台模拟太空环境的机器
+    - Interviews can be simulated in the classroom. 可以在教室里模拟面试。
+  - 补充

@@ -1,14 +1,11 @@
 - soupcon
   - 发音
-    - 英
-      - `/undefined/`
-    - 美
-      - `/undefined/`
+    - 英 /undefined/
+    - 美 /undefined/
   - 词义
-    - n.
-      - 少许,些微
+    - n. 少许,些微
   - 近义词
-    - n.
-      - 少许；细微的痕迹
-        - `little`
-        - `touch`
+    - n. 少许；细微的痕迹
+      - little
+      - touch
+  - 补充

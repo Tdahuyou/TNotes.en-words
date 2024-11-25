@@ -1,52 +1,35 @@
 - plague
   - 发音
-    - 英
-      - `/pleɪg/`
-    - 美
-      - `/pleɡ/`
+    - 英 /pleɪg/
+    - 美 /pleɡ/
   - 词义
-    - vt.
-      - 困扰，使苦恼；纠缠
-        - `to cause pain, suffering, or trouble to someone, especially for a long period of time`
-    - n.
-      - 鼠疫；传染病；祸患，灾害
-        - `a disease that causes death and spreads quickly to a large number of people`
+    - vt. 困扰，使苦恼；纠缠
+      - to cause pain, suffering, or trouble to someone, especially for a long period of time
+    - n. 鼠疫；传染病；祸患，灾害
+      - a disease that causes death and spreads quickly to a large number of people
   - 记忆
     - pla(看做PLA， 人民解放军) + gue(音似： go) → 解放军一走灾祸就来了 → 祸患， 灾害
   - 同根词
-    - adj.
-      - `plaguy`
-        - 讨厌的；麻烦的
-    - adv.
-      - `plaguily`
-        - 讨厌地；烦恼地；极其
-      - `plaguy`
-        - 非常地；达到可厌程度
+    - adj. plaguy 讨厌的；麻烦的
+    - adv. plaguily 讨厌地；烦恼地；极其
+    - adv. plaguy 非常地；达到可厌程度
   - 近义词
-    - n.
-      - [医]瘟疫；灾祸；麻烦；讨厌的人
-        - `disaster`
-        - `trouble`
-        - `headache`
-    - vt.
-      - 折磨；使苦恼；使得灾祸
-        - `harry`
-        - `worry`
-        - `trouble`
-        - `tear`
-        - `devil`
+    - n. [医]瘟疫；灾祸；麻烦；讨厌的人
+      - disaster
+      - trouble
+      - headache
+    - vt. 折磨；使苦恼；使得灾祸
+      - harry
+      - worry
+      - trouble
+      - tear
+      - devil
   - 短语
-    - `bubonic plague`
-      - n. [医]黑死病 
-    - `lung plague`
-      - 牛肺疫，牛传染性胸膜肺炎 
-    - `black plague`
-      - 鼠疫；黑死病 
-    - `great plague`
-      - n. 大瘟疫（指1665年流行于伦敦的鼠疫） 
-    - `devouring plague`
-      - 吞噬瘟疫（游戏中用语） 
+    - bubonic plague n. [医]黑死病
+    - lung plague 牛肺疫，牛传染性胸膜肺炎
+    - black plague 鼠疫；黑死病
+    - great plague n. 大瘟疫（指1665年流行于伦敦的鼠疫）
+    - devouring plague 吞噬瘟疫（游戏中用语）
   - 例句
-    - `Financial problems continued to plague the company.`
-      - 资金问题持续困扰着该公司。
-
+    - Financial problems continued to plague the company. 资金问题持续困扰着该公司。
+  - 补充

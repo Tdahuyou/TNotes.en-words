@@ -1,14 +1,11 @@
 - paperweight
   - 发音
-    - 英
-      - `/'peɪpəweɪt/`
-    - 美
-      - `/'pepɚwet/`
+    - 英 /'peɪpəweɪt/
+    - 美 /'pepɚwet/
   - 词义
-    - n.
-      - 书镇；压纸器；镇纸
-        - `a small heavy object used to hold pieces of paper in place`
+    - n. 书镇；压纸器；镇纸
+      - a small heavy object used to hold pieces of paper in place
   - 近义词
-    - n.
-      - 书镇；压纸器；镇纸
-        - `letterweight`
+    - n. 书镇；压纸器；镇纸
+      - letterweight
+  - 补充

@@ -1,18 +1,13 @@
 - unused
   - 发音
-    - 英
-      - `/,ʌn'juːzd/`
-    - 美
-      - `/'ʌn'jʊzd/`
+    - 英 /,ʌn'juːzd/
+    - 美 /'ʌn'jʊzd/
   - 词义
-    - adj.
-      - 不用的；未消耗的
-        - `not being used, or never used`
+    - adj. 不用的；未消耗的
+      - not being used, or never used
   - 近义词
-    - adj.
-      - 不用的；从未用过的
-        - `left-off`
+    - adj. 不用的；从未用过的
+      - left-off
   - 例句
-    - `unused land`
-      - 闲置的土地
-
+    - unused land 闲置的土地
+  - 补充

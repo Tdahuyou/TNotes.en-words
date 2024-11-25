@@ -1,18 +1,12 @@
 - arson
   - 发音
-    - 英
-      - `/'ɑːs(ə)n/`
-    - 美
-      - `/'ɑrsn/`
+    - 英 /'ɑːs(ə)n/
+    - 美 /'ɑrsn/
   - 词义
-    - n.
-      - 纵火；纵火罪
-        - `the crime of deliberately making something burn, especially a building`
+    - n. 纵火；纵火罪
+      - the crime of deliberately making something burn, especially a building
   - 同根词
-    - n.
-      - `arsonist`
-        - 纵火犯人
+    - n. arsonist 纵火犯人
   - 例句
-    - `The school was destroyed in an arson attack.`
-      - 那所学校毁于一次纵火袭击。
-
+    - The school was destroyed in an arson attack. 那所学校毁于一次纵火袭击。
+  - 补充

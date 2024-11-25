@@ -1,25 +1,18 @@
 - unsound
   - 发音
-    - 英
-      - `/ˌʌn'saund/`
-    - 美
-      - `/,ʌn'saʊnd/`
+    - 英 /ˌʌn'saund/
+    - 美 /,ʌn'saʊnd/
   - 词义
-    - adj.
-      - 不健康的，不健全的；不结实的，不坚固的；无根据的
-        - `not based on facts or good reasons`
+    - adj. 不健康的，不健全的；不结实的，不坚固的；无根据的
+      - not based on facts or good reasons
   - 记忆
     - un(不) + sound(健康的) → 不健康的
   - 同根词
-    - n.
-      - `unsoundness`
-        - 不健全；不牢靠，不安全
+    - n. unsoundness 不健全；不牢靠，不安全
   - 近义词
-    - adj.
-      - 不健全的；不健康的；谬误的；腐烂的；不牢靠的
-        - `unhealthy`
-        - `undound`
+    - adj. 不健全的；不健康的；谬误的；腐烂的；不牢靠的
+      - unhealthy
+      - undound
   - 例句
-    - `The houses are structurally unsound.`
-      - 这些房子结构不稳固。
-
+    - The houses are structurally unsound. 这些房子结构不稳固。
+  - 补充

@@ -1,28 +1,21 @@
 - prevalent
   - 发音
-    - 英
-      - `/'prevələnt/`
-    - 美
-      - `/'prɛvələnt/`
+    - 英 /'prevələnt/
+    - 美 /'prɛvələnt/
   - 词义
-    - adj.
-      - 流行的，普遍的
-        - `common at a particular time, in a particular place, or among a particular group of people`
+    - adj. 流行的，普遍的
+      - common at a particular time, in a particular place, or among a particular group of people
   - 记忆
     - pre(在…前面) + val(力量) + ent → 有走在前面的力量的 → 流行的
   - 同根词
-    - n.
-      - `prevalence`
-        - 流行；普遍；广泛
+    - n. prevalence 流行；普遍；广泛
   - 近义词
-    - adj.
-      - 流行的；普遍的，广传的
-        - `popular`
-        - `widespread`
-        - `universal`
-        - `fashionable`
-        - `going`
+    - adj. 流行的；普遍的，广传的
+      - popular
+      - widespread
+      - universal
+      - fashionable
+      - going
   - 例句
-    - `the prevalent belief in astrology`
-      - 对占星术的普遍相信
-
+    - the prevalent belief in astrology 对占星术的普遍相信
+  - 补充

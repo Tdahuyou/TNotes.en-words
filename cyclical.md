@@ -1,38 +1,23 @@
 - cyclical
   - 发音
-    - 英
-      - `/'saiklikl/`
-    - 美
-      - `/ˈsɪklɪkəl/`
+    - 英 /'saiklikl/
+    - 美 /ˈsɪklɪkəl/
   - 词义
-    - adj.
-      - 轮转的
+    - adj. 轮转的
   - 记忆
     - cycl (圆圈) + i + cal (…的) → 绕圆圈的 → 轮转的
   - 同根词
-    - adj.
-      - `cyclic`
-        - 环的；循环的；周期的
-      - `cycloid`
-        - 圆形的；循环性格的
-    - n.
-      - `cycle`
-        - 循环；周期；自行车；整套；一段时间
-      - `cyclicity`
-        - 周期性；循环性
-      - `cycloid`
-        - [测][数] 摆线；轮转线
-    - vi.
-      - `cycle`
-        - 循环；骑自行车；轮转
-    - vt.
-      - `cycle`
-        - 使循环；使轮转
+    - adj. cyclic 环的；循环的；周期的
+    - adj. cycloid 圆形的；循环性格的
+    - n. cycle 循环；周期；自行车；整套；一段时间
+    - n. cyclicity 周期性；循环性
+    - n. cycloid [测][数] 摆线；轮转线
+    - vi. cycle 循环；骑自行车；轮转
+    - vt. cycle 使循环；使轮转
   - 近义词
-    - adj.
-      - 周期的，循环的
-        - `circular`
-        - `periodic`
+    - adj. 周期的，循环的
+      - circular
+      - periodic
   - 短语
-    - `cyclical fluctuation`
-      - n. 循环变动，周期性波动 
+    - cyclical fluctuation n. 循环变动，周期性波动
+  - 补充

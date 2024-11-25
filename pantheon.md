@@ -1,14 +1,10 @@
 - pantheon
   - 发音
-    - 英
-      - `/'pænθɪən/`
-    - 美
-      - `/'pænθɪən/`
+    - 英 /'pænθɪən/
+    - 美 /'pænθɪən/
   - 词义
-    - n.
-      - 万神殿,罗马万神殿,伟人祠
-        - `all the gods of a particular people or nation`
+    - n. 万神殿,罗马万神殿,伟人祠
+      - all the gods of a particular people or nation
   - 例句
-    - `the Roman pantheon`
-      - 罗马众神
-
+    - the Roman pantheon 罗马众神
+  - 补充

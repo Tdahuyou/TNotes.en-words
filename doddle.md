@@ -1,19 +1,14 @@
 - doddle
   - 发音
-    - 英
-      - `/undefined/`
-    - 美
-      - `/'dɑdl/`
+    - 英 /undefined/
+    - 美 /'dɑdl/
   - 词义
-    - n.
-      - 轻而易举的事；不费吹灰之力的事
-        - `to be very easy`
+    - n. 轻而易举的事；不费吹灰之力的事
+      - to be very easy
   - 近义词
-    - n.
-      - 轻而易举的事，不费吹灰之力的事
-        - `breeze`
-        - `pianola`
+    - n. 轻而易举的事，不费吹灰之力的事
+      - breeze
+      - pianola
   - 例句
-    - `The exam was a doddle!`
-      - 这次考试太简单了！
-
+    - The exam was a doddle! 这次考试太简单了！
+  - 补充

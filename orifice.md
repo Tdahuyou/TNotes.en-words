@@ -1,29 +1,20 @@
 - orifice
   - 发音
-    - 英
-      - `/'ɔːrəfis/`
-    - 美
-      - `/'ɔrɪfɪs/`
+    - 英 /'ɔːrəfis/
+    - 美 /'ɔrɪfɪs/
   - 词义
-    - n.
-      - 孔，口
-        - `one of the holes in your body, such as your mouth, nose etc`
+    - n. 孔，口
+      - one of the holes in your body, such as your mouth, nose etc
   - 记忆
     - or ( = ora， 嘴) + ifice → 口
   - 近义词
-    - n.
-      - [植][机]孔口
-        - `ostiole`
+    - n. [植][机]孔口
+      - ostiole
   - 短语
-    - `orifice plate`
-      - 孔板；挡板；节磷板；量孔板 
-    - `orifice discharge`
-      - 锐孔流量；锐孔流出 
-    - `orifice meter`
-      - 孔板流量计；孔板量计 
-    - `orifice size`
-      - 喷嘴直径；节流面积 
+    - orifice plate 孔板；挡板；节磷板；量孔板
+    - orifice discharge 锐孔流量；锐孔流出
+    - orifice meter 孔板流量计；孔板量计
+    - orifice size 喷嘴直径；节流面积
   - 例句
-    - `various bodily orifices`
-      - 人体上的各种孔洞
-
+    - various bodily orifices 人体上的各种孔洞
+  - 补充

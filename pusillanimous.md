@@ -1,26 +1,17 @@
 - pusillanimous
   - 发音
-    - 英
-      - `/ˌpjuːsi'læniməs/`
-    - 美
-      - `/,pjusɪ'lænɪməs/`
+    - 英 /ˌpjuːsi'læniməs/
+    - 美 /,pjusɪ'lænɪməs/
   - 词义
-    - adj.
-      - 懦弱的，胆小的，优柔寡断的
-        - `frightened of taking even small risks`
+    - adj. 懦弱的，胆小的，优柔寡断的
+      - frightened of taking even small risks
   - 同根词
-    - adv.
-      - `pusillanimously`
-        - 胆怯地，怯懦地；优柔寡断地
-    - n.
-      - `pusillanimity`
-        - 胆怯；无气力；优柔寡断
+    - adv. pusillanimously 胆怯地，怯懦地；优柔寡断地
+    - n. pusillanimity 胆怯；无气力；优柔寡断
   - 近义词
-    - adj.
-      - 胆怯的；懦弱的；优柔寡断的
-        - `chicken`
-        - `lily-livered`
+    - adj. 胆怯的；懦弱的；优柔寡断的
+      - chicken
+      - lily-livered
   - 例句
-    - `The authorities have been too pusillanimous in merely condemning the violence.`
-      - 当局过于懦弱，仅仅谴责了这场暴力行为。
-
+    - The authorities have been too pusillanimous in merely condemning the violence. 当局过于懦弱，仅仅谴责了这场暴力行为。
+  - 补充

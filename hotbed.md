@@ -1,26 +1,17 @@
 - hotbed
   - 发音
-    - 英
-      - `/'hɒtbed/`
-    - 美
-      - `/'hɑtbɛd/`
+    - 英 /'hɒtbed/
+    - 美 /'hɑtbɛd/
   - 词义
-    - n.
-      - 滋长地，温床
-        - `a place where a lot of a particular type of activity, especially bad or violent activity, happens`
+    - n. 滋长地，温床
+      - a place where a lot of a particular type of activity, especially bad or violent activity, happens
   - 同根词
-    - adj.
-      - `hothouse`
-        - 温室的；过分保护的；娇弱的
-    - n.
-      - `hothouse`
-        - 温室；温床
+    - adj. hothouse 温室的；过分保护的；娇弱的
+    - n. hothouse 温室；温床
   - 近义词
-    - n.
-      - 滋长地，温床
-        - `soil`
-        - `nest`
+    - n. 滋长地，温床
+      - soil
+      - nest
   - 例句
-    - `The university was a hotbed of radical protest.`
-      - 那所大学是激进抗议活动的温床。
-
+    - The university was a hotbed of radical protest. 那所大学是激进抗议活动的温床。
+  - 补充

@@ -1,17 +1,14 @@
 - inalterable
   - 发音
-    - 英
-      - `/in'ɔːltərəbl/`
-    - 美
-      - `/ɪn'ɔltərəbl/`
+    - 英 /in'ɔːltərəbl/
+    - 美 /ɪn'ɔltərəbl/
   - 词义
-    - adj.
-      - 不能变更的，不变的
-        - `not alterable; unalterable `
+    - adj. 不能变更的，不变的
+      - not alterable; unalterable 
   - 近义词
-    - adj.
-      - 不变的；不能变更的
-        - `constant`
-        - `permanent`
-        - `steady`
-        - `unchanging`
+    - adj. 不变的；不能变更的
+      - constant
+      - permanent
+      - steady
+      - unchanging
+  - 补充

@@ -1,22 +1,16 @@
 - scamp
   - 发音
-    - 英
-      - `/skæmp/`
-    - 美
-      - `/skæmp/`
+    - 英 /skæmp/
+    - 美 /skæmp/
   - 词义
-    - v.
-      - 草率地做
-    - n.
-      - 流氓；顽皮的家伙
+    - v. 草率地做
+    - n. 流氓；顽皮的家伙
   - 近义词
-    - n.
-      - 流氓；（昵称）顽皮的家伙
-        - `swashbuckler`
-        - `rapscallion`
-    - vt.
-      - 草率地做，对…草率行事
-        - `slubber`
-    - vi.
-      - 为人吝啬；节俭
-        - `scrimp and save`
+    - n. 流氓；（昵称）顽皮的家伙
+      - swashbuckler
+      - rapscallion
+    - vt. 草率地做，对…草率行事
+      - slubber
+    - vi. 为人吝啬；节俭
+      - scrimp and save
+  - 补充

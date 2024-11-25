@@ -1,27 +1,19 @@
 - intersperse
   - 发音
-    - 英
-      - `/ɪntə'spɜːs/`
-    - 美
-      - `/,ɪntɚ'spɝs/`
+    - 英 /ɪntə'spɜːs/
+    - 美 /,ɪntɚ'spɝs/
   - 词义
-    - v.
-      - 点缀；散布
-        - `if something is interspersed with a particular kind of thing, it has a lot of them in it`
+    - v. 点缀；散布
+      - if something is interspersed with a particular kind of thing, it has a lot of them in it
   - 同根词
-    - n.
-      - `interspersion`
-        - 散布；点缀；布置
+    - n. interspersion 散布；点缀；布置
   - 近义词
-    - vt.
-      - 点缀；散布
-        - `distribute`
-        - `spread`
-    - vi.
-      - 点缀；散布
-        - `shed`
-        - `lie around`
+    - vt. 点缀；散布
+      - distribute
+      - spread
+    - vi. 点缀；散布
+      - shed
+      - lie around
   - 例句
-    - `sunny periods interspersed with showers`
-      - 晴天，间或有阵雨
-
+    - sunny periods interspersed with showers 晴天，间或有阵雨
+  - 补充

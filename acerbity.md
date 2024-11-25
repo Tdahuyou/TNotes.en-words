@@ -1,25 +1,18 @@
 - acerbity
   - 发音
-    - 英
-      - `/ə'səːbəti/`
-    - 美
-      - `/ə'sɝbəti/`
+    - 英 /ə'səːbəti/
+    - 美 /ə'sɝbəti/
   - 词义
-    - n.
-      - 涩，酸；刻薄
-        - `Acerbity is a kind of bitter, critical humour`
+    - n. 涩，酸；刻薄
+      - Acerbity is a kind of bitter, critical humour
   - 记忆
     - 来自acerb (a. 酸涩的)
   - 同根词
-    - adj.
-      - `acerb`
-        - 尖锐的；酸涩的；尖酸刻薄的
+    - adj. acerb 尖锐的；酸涩的；尖酸刻薄的
   - 近义词
-    - n.
-      - 酸，涩；刻薄
-        - `acid`
-        - `acridness`
+    - n. 酸，涩；刻薄
+      - acid
+      - acridness
   - 例句
-    - `It has dark color and sweet smell, medium sourness, well controlled aftertaste, no acerbity.`
-      - 色较深，香味充分，酸度适中，回味涩度控制的好，无涩味。
-
+    - It has dark color and sweet smell, medium sourness, well controlled aftertaste, no acerbity. 色较深，香味充分，酸度适中，回味涩度控制的好，无涩味。
+  - 补充

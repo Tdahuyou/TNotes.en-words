@@ -1,67 +1,40 @@
 - stain
   - 发音
-    - 英
-      - `/steɪn/`
-    - 美
-      - `/sten/`
+    - 英 /steɪn/
+    - 美 /sten/
   - 词义
-    - v.
-      - 沾污；留下污渍
-        - `to accidentally make a mark on something, especially one that cannot be removed, or to be marked in this way`
-    - n.
-      - 污点，污渍
-        - `a mark that is difficult to remove, especially one made by a liquid such as blood, coffee, or ink`
+    - v. 沾污；留下污渍
+      - to accidentally make a mark on something, especially one that cannot be removed, or to be marked in this way
+    - n. 污点，污渍
+      - a mark that is difficult to remove, especially one made by a liquid such as blood, coffee, or ink
   - 记忆
     - 一下雨(rain)， 到处都是污点(stain)
   - 同根词
-    - adj.
-      - `stainless`
-        - 不锈的；纯洁的，未被玷污的；无瑕疵的
-      - `stained`
-        - 玷污的；著色的
-      - `stainable`
-        - 可染色的
-    - n.
-      - `staining`
-        - 着色
-      - `stainability`
-        - （细胞的）可染性
-      - `stainer`
-        - 色料；染色工；染色器
-    - v.
-      - `stained`
-        - 玷污；败坏；给…染色（stain的过去式和过去分词）
-      - `staining`
-        - 沾染（stain的ing形式）
+    - adj. stainless 不锈的；纯洁的，未被玷污的；无瑕疵的
+    - adj. stained 玷污的；著色的
+    - adj. stainable 可染色的
+    - n. staining 着色
+    - n. stainability （细胞的）可染性
+    - n. stainer 色料；染色工；染色器
+    - v. stained 玷污；败坏；给…染色（stain的过去式和过去分词）
+    - v. staining 沾染（stain的ing形式）
   - 近义词
-    - vt.
-      - 沾污；败坏；给…着色
-        - `poison`
-        - `pollute`
-    - n.
-      - 污点；瑕疵；[试剂][生物]着色剂
-        - `tainture`
-        - `jaup`
+    - vt. 沾污；败坏；给…着色
+      - poison
+      - pollute
+    - n. 污点；瑕疵；[试剂][生物]着色剂
+      - tainture
+      - jaup
   - 短语
-    - `stain resistance`
-      - 抗着色污染；防沾污性 
-    - `oil stain`
-      - 油渍；油斑；油性着色剂 
-    - `gram stain`
-      - 革兰氏染色剂 
-    - `blue stain`
-      - [生物学]蓝着色；蓝变 
-    - `wood stain`
-      - 木材着色剂 
-    - `blood stain`
-      - 血痕 
-    - `black stain`
-      - 黑色颜料 
+    - stain resistance 抗着色污染；防沾污性
+    - oil stain 油渍；油斑；油性着色剂
+    - gram stain 革兰氏染色剂
+    - blue stain [生物学]蓝着色；蓝变
+    - wood stain 木材着色剂
+    - blood stain 血痕
+    - black stain 黑色颜料
   - 例句
-    - `Be careful you don’t stain the carpet.`
-      - 当心别把地毯弄脏了。
-    - `This tablecloth stains very easily.`
-      - 这块桌布很容易脏。
-    - `Her fingers were stained yellow from years of smoking.`
-      - 她的手指因长年吸烟被熏黄了。
-
+    - Be careful you don’t stain the carpet. 当心别把地毯弄脏了。
+    - This tablecloth stains very easily. 这块桌布很容易脏。
+    - Her fingers were stained yellow from years of smoking. 她的手指因长年吸烟被熏黄了。
+  - 补充

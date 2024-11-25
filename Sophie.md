@@ -1,11 +1,8 @@
 - Sophie
   - 发音
-    - 英
-      - `/undefined/`
-    - 美
-      - `/undefined/`
+    - 英 /undefined/
+    - 美 /undefined/
   - 词义
   - 例句
-    - `Sophie: Look! Who is that guy on the stage?`
-      - 索菲：看那边，舞台上的那个人是谁啊？
-
+    - Sophie: Look! Who is that guy on the stage? 索菲：看那边，舞台上的那个人是谁啊？
+  - 补充

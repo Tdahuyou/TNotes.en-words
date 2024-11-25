@@ -1,27 +1,17 @@
 - remorseful
   - 发音
-    - 英
-      - `/rɪ'mɔːsf(ʊ)l/`
-    - 美
-      - `/rɪ'mɔrsfəl/`
+    - 英 /rɪ'mɔːsf(ʊ)l/
+    - 美 /rɪ'mɔrsfəl/
   - 词义
-    - adj.
-      - 懊悔的；悔恨的
-        - `If you are remorseful, you feel very guilty and sorry about something wrong that you have done`
+    - adj. 懊悔的；悔恨的
+      - If you are remorseful, you feel very guilty and sorry about something wrong that you have done
   - 同根词
-    - adv.
-      - `remorselessly`
-        - 无悔意地；冷酷地
-      - `remorsefully`
-        - 极为懊悔地
-    - n.
-      - `remorse`
-        - 懊悔；同情
+    - adv. remorselessly 无悔意地；冷酷地
+    - adv. remorsefully 极为懊悔地
+    - n. remorse 懊悔；同情
   - 近义词
-    - adj.
-      - 懊悔的；悔恨的
-        - `rueful`
+    - adj. 懊悔的；悔恨的
+      - rueful
   - 例句
-    - `He was genuinely remorseful.`
-      - 他发自内心地感到懊悔。
-
+    - He was genuinely remorseful. 他发自内心地感到懊悔。
+  - 补充

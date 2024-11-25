@@ -1,25 +1,17 @@
 - valour
   - 发音
-    - 英
-      - `/undefined/`
-    - 美
-      - `/undefined/`
+    - 英 /undefined/
+    - 美 /undefined/
   - 词义
-    - n.
-      - 勇猛
-        - `great courage, especially in war`
+    - n. 勇猛
+      - great courage, especially in war
   - 同根词
-    - n.
-      - `valor`
-        - 英勇；勇猛（等于valour）
+    - n. valor 英勇；勇猛（等于valour）
   - 近义词
-    - n.
-      - 勇猛
-        - `valiancy`
-        - `prowess`
+    - n. 勇猛
+      - valiancy
+      - prowess
   - 例句
-    - `medals awarded for valor`
-      - 表彰英勇的勋章
-    - `deeds of valour`
-      - 英勇事迹
-
+    - medals awarded for valor 表彰英勇的勋章
+    - deeds of valour 英勇事迹
+  - 补充

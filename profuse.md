@@ -1,37 +1,25 @@
 - profuse
   - 发音
-    - 英
-      - `/prə'fjuːs/`
-    - 美
-      - `/prə'fjus/`
+    - 英 /prə'fjuːs/
+    - 美 /prə'fjus/
   - 词义
-    - adj.
-      - 极其丰富的；奢侈的
-        - `produced or existing in large quantities`
+    - adj. 极其丰富的；奢侈的
+      - produced or existing in large quantities
   - 记忆
     - pro (许多) + fuse (流) → 多得向外流 → 极其丰富的
   - 同根词
-    - adv.
-      - `profusely`
-        - 丰富地
-    - n.
-      - `profusion`
-        - 丰富，充沛；慷慨
-      - `profligacy`
-        - 肆意挥霍；放荡；浪费
-      - `profuseness`
-        - 挥霍；丰富
+    - adv. profusely 丰富地
+    - n. profusion 丰富，充沛；慷慨
+    - n. profligacy 肆意挥霍；放荡；浪费
+    - n. profuseness 挥霍；丰富
   - 近义词
-    - adj.
-      - 丰富的；很多的；慷慨的；浪费的
-        - `abundant`
-        - `numerous`
-        - `full`
-        - `generous`
-        - `plenty`
+    - adj. 丰富的；很多的；慷慨的；浪费的
+      - abundant
+      - numerous
+      - full
+      - generous
+      - plenty
   - 例句
-    - `He made profuse apologies .`
-      - 他不住地道歉。
-    - `Profuse sweating is one of the symptoms of heat exhaustion.`
-      - 大量出汗是中暑虚脱的症状之一。
-
+    - He made profuse apologies . 他不住地道歉。
+    - Profuse sweating is one of the symptoms of heat exhaustion. 大量出汗是中暑虚脱的症状之一。
+  - 补充

@@ -1,26 +1,17 @@
 - uncomfortable
   - 发音
-    - 英
-      - `/ʌn'kʌmf(ə)təb(ə)l/`
-    - 美
-      - `/ʌn'kʌmftəbl/`
+    - 英 /ʌn'kʌmf(ə)təb(ə)l/
+    - 美 /ʌn'kʌmftəbl/
   - 词义
-    - adj.
-      - 不舒服的，不自在的
-        - `not feeling physically comfortable, or not making you feel comfortable`
+    - adj. 不舒服的，不自在的
+      - not feeling physically comfortable, or not making you feel comfortable
   - 同根词
-    - adv.
-      - `uncomfortably`
-        - 不舒适地；不自在地；令人不快地
-    - n.
-      - `uncomfortableness`
-        - 不安；不舒适
+    - adv. uncomfortably 不舒适地；不自在地；令人不快地
+    - n. uncomfortableness 不安；不舒适
   - 近义词
-    - adj.
-      - 不舒服的；不安的
-        - `troubled`
-        - `uneasy`
+    - adj. 不舒服的；不安的
+      - troubled
+      - uneasy
   - 例句
-    - `This sofa is so uncomfortable.`
-      - 这张沙发太不舒服了。
-
+    - This sofa is so uncomfortable. 这张沙发太不舒服了。
+  - 补充

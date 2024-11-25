@@ -1,24 +1,17 @@
 - perspicuous
   - 发音
-    - 英
-      - `/ˌpɜːr'spɪkjuəs/`
-    - 美
-      - `/pə'spikjuəs/`
+    - 英 /ˌpɜːr'spɪkjuəs/
+    - 美 /pə'spikjuəs/
   - 词义
-    - adj.
-      - 明白易懂的；明了的
-        - `(of speech or writing) easily understood; lucid `
+    - adj. 明白易懂的；明了的
+      - (of speech or writing) easily understood; lucid 
   - 记忆
     - per(完全) + spic(看， 看到) + uous → 完全看到的 → 明了的
   - 同根词
-    - adv.
-      - `perspicuously`
-        - 显明地
-    - n.
-      - `perspicuousness`
-        - 清楚；明白
+    - adv. perspicuously 显明地
+    - n. perspicuousness 清楚；明白
   - 近义词
-    - adj.
-      - 明了的；清晰明白的；易懂的
-        - `transparent`
-        - `coherent`
+    - adj. 明了的；清晰明白的；易懂的
+      - transparent
+      - coherent
+  - 补充

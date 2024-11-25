@@ -1,64 +1,38 @@
 - so
   - 发音
-    - 英
-      - `/səʊ/`
-    - 美
-      - `/so/`
+    - 英 /səʊ/
+    - 美 /so/
   - 词义
-    - adv.
-      - 那么（尤指用于引出新话题）；这么；那么（用于强调质量、感觉或数量）
-        - `used to get someone’s attention, especially in order to ask them a question`
+    - adv. 那么（尤指用于引出新话题）；这么；那么（用于强调质量、感觉或数量）
+      - used to get someone’s attention, especially in order to ask them a question
   - 近义词
-    - adv.
-      - 如此，这么；确是如此
-        - `thus`
-        - `this`
-    - conj.
-      - 所以；因此
-        - `thus`
-        - `therfore`
+    - adv. 如此，这么；确是如此
+      - thus
+      - this
+    - conj. 所以；因此
+      - thus
+      - therfore
   - 短语
-    - `so on`
-      - 等等 
-    - `so as`
-      - 只要 
-    - `so much`
-      - 这么；非常；达到这种程度 
-    - `so many`
-      - 那么多的 
-    - `so far`
-      - 到目前为止，迄今为止 
-    - `if so`
-      - 如果是这样的话；要是这样 
-    - `or so`
-      - 大约，左右 
-    - `so long as`
-      - adv. 只要 
-    - `even so`
-      - 虽然如此，即使如此 
-    - `so far as`
-      - 只要；就…而言；在…范围内 
-    - `just so`
-      - 正是如此 
-    - `more so`
-      - 更是这样， 尤其如此 
-    - `so so`
-      - 马马虎虎；勉强过得去 
-    - `like so`
-      - [口语] 像这样，照这样 
-    - `ever so`
-      - 及其，非常 
-    - `so do i`
-      - 我也一样 
-    - `so then`
-      - 原来如此，那么 
-    - `in so far as`
-      - 至于 
-    - `so far from`
-      - 非但不…反而… 
-    - `so be it`
-      - 诚心所愿；顺其自然 
+    - so on 等等
+    - so as 只要
+    - so much 这么；非常；达到这种程度
+    - so many 那么多的
+    - so far 到目前为止，迄今为止
+    - if so 如果是这样的话；要是这样
+    - or so 大约，左右
+    - so long as adv. 只要
+    - even so 虽然如此，即使如此
+    - so far as 只要；就…而言；在…范围内
+    - just so 正是如此
+    - more so 更是这样， 尤其如此
+    - so so 马马虎虎；勉强过得去
+    - like so [口语] 像这样，照这样
+    - ever so 及其，非常
+    - so do i 我也一样
+    - so then 原来如此，那么
+    - in so far as 至于
+    - so far from 非但不…反而…
+    - so be it 诚心所愿；顺其自然
   - 例句
-    - `So, how was school today?`
-      - 噢，今天上学怎么样？
-
+    - So, how was school today? 噢，今天上学怎么样？
+  - 补充

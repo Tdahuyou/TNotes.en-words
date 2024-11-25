@@ -1,21 +1,16 @@
 - brigand
   - 发音
-    - 英
-      - `/'brigənd/`
-    - 美
-      - `/'brɪɡənd/`
+    - 英 /'brigənd/
+    - 美 /'brɪɡənd/
   - 词义
-    - n.
-      - 土匪，强盗，歹徒
-        - `a thief, especially one of a group that attacks people in mountains or forests`
+    - n. 土匪，强盗，歹徒
+      - a thief, especially one of a group that attacks people in mountains or forests
   - 记忆
     - bri (看作bright， 明亮的) + gand (看作gang， 一帮) → 一帮人光天化日之下抢劫 → 土匪， 强盗
   - 近义词
-    - n.
-      - 强盗；土匪；盗贼
-        - `robber`
-        - `bandit`
+    - n. 强盗；土匪；盗贼
+      - robber
+      - bandit
   - 例句
-    - `...a notorious brigand who hijacked trains.`
-      - ...一名臭名昭著的火车劫匪。
-
+    - ...a notorious brigand who hijacked trains. ...一名臭名昭著的火车劫匪。
+  - 补充

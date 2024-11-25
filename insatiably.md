@@ -1,18 +1,13 @@
 - insatiably
   - 发音
-    - 英
-      - `/ɪn'seɪʃəbli/`
-    - 美
-      - `/undefined/`
+    - 英 /ɪn'seɪʃəbli/
+    - 美 /undefined/
   - 词义
-    - adv.
-      - 不知足地，贪得无厌地
+    - adv. 不知足地，贪得无厌地
   - 同根词
-    - adj.
-      - `insatiable`
-        - 贪得无厌的；不知足的
+    - adj. insatiable 贪得无厌的；不知足的
   - 近义词
-    - adv.
-      - 贪得无厌地；无法满足地
-        - `voraciously`
-        - `acquisitively`
+    - adv. 贪得无厌地；无法满足地
+      - voraciously
+      - acquisitively
+  - 补充

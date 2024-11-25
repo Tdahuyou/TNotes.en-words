@@ -1,36 +1,21 @@
 - bewitch
   - 发音
-    - 英
-      - `/bɪ'wɪtʃ/`
-    - 美
-      - `/bɪ'wɪtʃ/`
+    - 英 /bɪ'wɪtʃ/
+    - 美 /bɪ'wɪtʃ/
   - 词义
-    - v.
-      - 施魔法于，蛊惑；使着迷
-        - `to make someone feel so interested or attracted that they cannot think clearly`
+    - v. 施魔法于，蛊惑；使着迷
+      - to make someone feel so interested or attracted that they cannot think clearly
   - 同根词
-    - adj.
-      - `bewitching`
-        - 迷人的；使人着迷的；使销魂的
-      - `bewitched`
-        - 着魔的；被迷住的
-    - adv.
-      - `bewitchingly`
-        - 迷人地
-    - n.
-      - `bewitchment`
-        - 魔力，妖术；蛊惑
-    - v.
-      - `bewitching`
-        - 施魔法于…；使…陶醉；使…着迷（bewitch的ing形式）
-      - `bewitched`
-        - 蛊惑；使着迷（bewitch的过去式和过去分词）
+    - adj. bewitching 迷人的；使人着迷的；使销魂的
+    - adj. bewitched 着魔的；被迷住的
+    - adv. bewitchingly 迷人地
+    - n. bewitchment 魔力，妖术；蛊惑
+    - v. bewitching 施魔法于…；使…陶醉；使…着迷（bewitch的ing形式）
+    - v. bewitched 蛊惑；使着迷（bewitch的过去式和过去分词）
   - 近义词
-    - vt.
-      - 施魔法于，蛊惑；使着迷
-        - `beguile`
-        - `enthrall`
+    - vt. 施魔法于，蛊惑；使着迷
+      - beguile
+      - enthrall
   - 例句
-    - `Tim’s utterly bewitched by her.`
-      - 蒂姆完全被她迷住了。
-
+    - Tim’s utterly bewitched by her. 蒂姆完全被她迷住了。
+  - 补充

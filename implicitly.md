@@ -1,20 +1,14 @@
 - implicitly
   - 发音
-    - 英
-      - `/ɪm'plɪsɪtlɪ/`
-    - 美
-      - `/im'plisitli/`
+    - 英 /ɪm'plɪsɪtlɪ/
+    - 美 /im'plisitli/
   - 词义
-    - adv.
-      - 含蓄地,暗中地
+    - adv. 含蓄地,暗中地
   - 同根词
-    - adj.
-      - `implicit`
-        - 含蓄的；暗示的；盲从的
-      - `implicative`
-        - 含蓄的；连带的
+    - adj. implicit 含蓄的；暗示的；盲从的
+    - adj. implicative 含蓄的；连带的
   - 近义词
-    - adv.
-      - 含蓄地；暗中地
-        - `furtively`
-        - `clandestinely`
+    - adv. 含蓄地；暗中地
+      - furtively
+      - clandestinely
+  - 补充

@@ -1,28 +1,19 @@
 - devolution
   - 发音
-    - 英
-      - `/,di:və'lju:ʃən/`
-    - 美
-      - `/'dɛvə'lʊʃən/`
+    - 英 /,di:və'lju:ʃən/
+    - 美 /'dɛvə'lʊʃən/
   - 词义
-    - n.
-      - （权利）移交，下放；退化、倒退
-        - `when a national government gives power to a group or organization at a lower or more local level`
+    - n. （权利）移交，下放；退化、倒退
+      - when a national government gives power to a group or organization at a lower or more local level
   - 同根词
-    - vi.
-      - `devolve`
-        - 被移交；转让
-    - vt.
-      - `devolve`
-        - 转移；移交；使滚下；衰落
+    - vi. devolve 被移交；转让
+    - vt. devolve 转移；移交；使滚下；衰落
   - 近义词
-    - n.
-      - 相传，转移；委付；依次；落下
-        - `transfer`
-        - `falling`
-        - `drop`
-        - `diversion`
+    - n. 相传，转移；委付；依次；落下
+      - transfer
+      - falling
+      - drop
+      - diversion
   - 例句
-    - `...the devolution of power to the regions.`
-      - …权力下放到地方。
-
+    - ...the devolution of power to the regions. …权力下放到地方。
+  - 补充

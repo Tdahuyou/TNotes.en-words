@@ -1,15 +1,12 @@
 - prier
   - 发音
-    - 英
-      - `/'praɪə/`
-    - 美
-      - `/'praiə/`
+    - 英 /'praɪə/
+    - 美 /'praiə/
   - 词义
-    - n.
-      - 刺探者,窥探者
-        - `a person who pries `
+    - n. 刺探者,窥探者
+      - a person who pries 
   - 近义词
-    - n.
-      - 刺探者；窥探者
-        - `snooper`
-        - `pryer`
+    - n. 刺探者；窥探者
+      - snooper
+      - pryer
+  - 补充

@@ -1,26 +1,17 @@
 - perpetrator
   - 发音
-    - 英
-      - `/'pɜːpətreɪtə(r)/`
-    - 美
-      - `/'pɜːrpətreɪtər/`
+    - 英 /'pɜːpətreɪtə(r)/
+    - 美 /'pɜːrpətreɪtər/
   - 词义
-    - n.
-      - 犯罪者；作恶者；行凶者
-        - `someone who does something morally wrong or illegal`
+    - n. 犯罪者；作恶者；行凶者
+      - someone who does something morally wrong or illegal
   - 同根词
-    - n.
-      - `perpetration`
-        - 犯罪；做坏事
-    - vt.
-      - `perpetrate`
-        - 犯（罪）；做（恶）
+    - n. perpetration 犯罪；做坏事
+    - vt. perpetrate 犯（罪）；做（恶）
   - 近义词
-    - n.
-      - 犯罪者；作恶者；行凶者
-        - `criminal offender`
-        - `malefactor`
+    - n. 犯罪者；作恶者；行凶者
+      - criminal offender
+      - malefactor
   - 例句
-    - `The perpetrators were never caught.`
-      - 作案者始终逍遥法外。
-
+    - The perpetrators were never caught. 作案者始终逍遥法外。
+  - 补充

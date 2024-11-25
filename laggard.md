@@ -1,31 +1,21 @@
 - laggard
   - 发音
-    - 英
-      - `/'lægəd/`
-    - 美
-      - `/'læɡəd/`
+    - 英 /'lægəd/
+    - 美 /'læɡəd/
   - 词义
-    - adj.
-      - 落后的
-        - `Laggard is also an adjective`
-    - n.
-      - 落后者
-        - `someone or something that is very slow or late`
+    - adj. 落后的
+      - Laggard is also an adjective
+    - n. 落后者
+      - someone or something that is very slow or late
   - 记忆
     - lag (落后) + g + ard (不好的人) → 落后者
   - 同根词
-    - adj.
-      - `lagging`
-        - 落后的
-    - n.
-      - `lagging`
-        - 绝缘层材料
+    - adj. lagging 落后的
+    - n. lagging 绝缘层材料
   - 近义词
-    - adj.
-      - 落后的；迟钝的；迟缓的
-        - `slow`
-        - `unenlightened`
+    - adj. 落后的；迟钝的；迟缓的
+      - slow
+      - unenlightened
   - 例句
-    - `...laggard product lines such as Jif peanut butter.`
-      - ...如吉夫花生酱的落后生产线。
-
+    - ...laggard product lines such as Jif peanut butter. ...如吉夫花生酱的落后生产线。
+  - 补充

@@ -1,88 +1,53 @@
 - deposit
   - 发音
-    - 英
-      - `/dɪ'pɑːzɪt/`
-    - 美
-      - `/dɪ'pɑzɪt/`
+    - 英 /dɪ'pɑːzɪt/
+    - 美 /dɪ'pɑzɪt/
   - 词义
-    - v.
-      - 沉淀；堆积；储蓄；
-        - `to leave a layer of a substance on the surface of something, especially gradually`
+    - v. 沉淀；堆积；储蓄；
+      - to leave a layer of a substance on the surface of something, especially gradually
   - 记忆
     - de(向下) + pos(放) + it → 向下放 → 沉淀； 堆积
   - 同根词
-    - adj.
-      - `depository`
-        - 保管的；存储的
-      - `depositary`
-        - 存款的；用作储藏所的
-    - n.
-      - `deposition`
-        - 沉积物；矿床；革职
-      - `depositor`
-        - 存款人，存放者；寄托者
-      - `depository`
-        - 贮藏所；受托者；存储处
-      - `depositary`
-        - 受托人；受托公司；储藏所
+    - adj. depository 保管的；存储的
+    - adj. depositary 存款的；用作储藏所的
+    - n. deposition 沉积物；矿床；革职
+    - n. depositor 存款人，存放者；寄托者
+    - n. depository 贮藏所；受托者；存储处
+    - n. depositary 受托人；受托公司；储藏所
   - 近义词
-    - n.
-      - 存款；[金融]保证金；[地质][电]沉淀物
-        - `fund`
-        - `saving`
-        - `covers`
-        - `sludge`
-        - `precipitation`
-    - vt.
-      - [地质]使沉积；存放
-        - `trust in`
-        - `trust with`
-    - vi.
-      - [电]沉淀
-        - `settle`
-        - `to precipitate`
+    - n. 存款；[金融]保证金；[地质][电]沉淀物
+      - fund
+      - saving
+      - covers
+      - sludge
+      - precipitation
+    - vt. [地质]使沉积；存放
+      - trust in
+      - trust with
+    - vi. [电]沉淀
+      - settle
+      - to precipitate
   - 短语
-    - `ore deposit`
-      - 矿床；矿层 
-    - `deposit insurance`
-      - 存款保险 
-    - `deposit account`
-      - 存款帐户；储蓄存款 
-    - `bank deposit`
-      - 银行存款 
-    - `time deposit`
-      - 定期存款 
-    - `mineral deposit`
-      - [地]矿床 
-    - `savings deposit`
-      - 储蓄存款 
-    - `iron deposit`
-      - 铁矿床 
-    - `deposit money`
-      - 银行活期存款 
-    - `oil deposit`
-      - 油田；石油矿床 
-    - `deposit certificate`
-      - 银行存款单 
-    - `certificates of deposit`
-      - 存款证 
-    - `deposit rate`
-      - 存款利率 
-    - `safe deposit`
-      - 保险箱 
-    - `salt deposit`
-      - 盐垢；盐类沉积 
-    - `security deposit`
-      - 押金，保证金 
-    - `on deposit`
-      - ◎存放着，寄存，保藏着 
-    - `deposit slip`
-      - n. 存款单 
-    - `federal deposit insurance corporation`
-      - 美国联邦存款保险公司 
-    - `scale deposit`
-      - 水垢；积垢 
+    - ore deposit 矿床；矿层
+    - deposit insurance 存款保险
+    - deposit account 存款帐户；储蓄存款
+    - bank deposit 银行存款
+    - time deposit 定期存款
+    - mineral deposit [地]矿床
+    - savings deposit 储蓄存款
+    - iron deposit 铁矿床
+    - deposit money 银行活期存款
+    - oil deposit 油田；石油矿床
+    - deposit certificate 银行存款单
+    - certificates of deposit 存款证
+    - deposit rate 存款利率
+    - safe deposit 保险箱
+    - salt deposit 盐垢；盐类沉积
+    - security deposit 押金，保证金
+    - on deposit ◎存放着，寄存，保藏着
+    - deposit slip n. 存款单
+    - federal deposit insurance corporation 美国联邦存款保险公司
+    - scale deposit 水垢；积垢
   - 例句
-    - `As the river slows down, it deposits a layer of soil.`
-      - 河水流速变慢时，一层泥土便沉积下来。
-
+    - As the river slows down, it deposits a layer of soil. 河水流速变慢时，一层泥土便沉积下来。
+  - 补充

@@ -1,30 +1,21 @@
 - latch
   - 发音
-    - 英
-      - `/lætʃ/`
-    - 美
-      - `/lætʃ/`
+    - 英 /lætʃ/
+    - 美 /lætʃ/
   - 词义
-    - v.
-      - 占有，抓住；闭锁
-    - n.
-      - 门闩
-        - `a small metal or plastic object used to keep a door, gate, or window closed`
+    - v. 占有，抓住；闭锁
+    - n. 门闩
+      - a small metal or plastic object used to keep a door, gate, or window closed
   - 近义词
-    - vi.
-      - 占有，抓住；闭锁
-        - `take possession of`
-        - `seize on`
-    - n.
-      - 门闩
-        - `door release`
-        - `bolt`
+    - vi. 占有，抓住；闭锁
+      - take possession of
+      - seize on
+    - n. 门闩
+      - door release
+      - bolt
   - 短语
-    - `latch on`
-      - 占有；抓住；理解 
-    - `on the latch`
-      - 关着但不上锁 
+    - latch on 占有；抓住；理解
+    - on the latch 关着但不上锁
   - 例句
-    - `Gwen lifted the latch and opened the gate.`
-      - 格温拉起门闩，把门打开。
-
+    - Gwen lifted the latch and opened the gate. 格温拉起门闩，把门打开。
+  - 补充

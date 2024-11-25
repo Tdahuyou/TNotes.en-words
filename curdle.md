@@ -1,30 +1,20 @@
 - curdle
   - 发音
-    - 英
-      - `/'kɜːrdl/`
-    - 美
-      - `/'kɝdl/`
+    - 英 /'kɜːrdl/
+    - 美 /'kɝdl/
   - 词义
-    - v.
-      - 使凝结，变稠
-        - `to become thicker or form curd, or to make a liquid do this`
+    - v. 使凝结，变稠
+      - to become thicker or form curd, or to make a liquid do this
   - 记忆
     - 来自curd(n. 凝乳)
   - 同根词
-    - n.
-      - `curdling`
-        - 乳凝；凝化
-    - v.
-      - `curdling`
-        - （使）成凝乳；（使）凝结；（使）变质（curdle的ing形式）
+    - n. curdling 乳凝；凝化
+    - v. curdling （使）成凝乳；（使）凝结；（使）变质（curdle的ing形式）
   - 近义词
-    - vi.
-      - 凝固
-        - `set`
-    - vt.
-      - 使凝结
-        - `set`
+    - vi. 凝固
+      - set
+    - vt. 使凝结
+      - set
   - 例句
-    - `Milk may curdle in warm weather.`
-      - 天暖时牛奶会凝结。
-
+    - Milk may curdle in warm weather. 天暖时牛奶会凝结。
+  - 补充

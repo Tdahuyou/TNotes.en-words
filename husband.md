@@ -1,26 +1,18 @@
 - husband
   - 发音
-    - 英
-      - `/'hʌzbənd/`
-    - 美
-      - `/'hʌzbənd/`
+    - 英 /'hʌzbənd/
+    - 美 /'hʌzbənd/
   - 词义
-    - n.
-      - 丈夫
-        - `the man that a woman is married to`
+    - n. 丈夫
+      - the man that a woman is married to
   - 同根词
-    - adj.
-      - `husbandly`
-        - 丈夫的；节俭的；善于管理农活的
+    - adj. husbandly 丈夫的；节俭的；善于管理农活的
   - 近义词
-    - n.
-      - 丈夫
-        - `hubby`
-        - `worse half`
+    - n. 丈夫
+      - hubby
+      - worse half
   - 短语
-    - `husband and wife`
-      - 夫妻 
+    - husband and wife 夫妻
   - 例句
-    - `Have you met my husband Roy?`
-      - 你见过我的丈夫罗伊吗？
-
+    - Have you met my husband Roy? 你见过我的丈夫罗伊吗？
+  - 补充

@@ -1,21 +1,16 @@
 - shudder
   - 发音
-    - 英
-      - `/'ʃʌdə/`
-    - 美
-      - `/'ʃʌdɚ/`
+    - 英 /'ʃʌdə/
+    - 美 /'ʃʌdɚ/
   - 词义
-    - n.
-      - 震动vi战栗,发抖
+    - n. 震动vi战栗,发抖
   - 近义词
-    - n.
-      - 发抖；战栗；震动
-        - `shock`
-        - `shaking`
-    - vi.
-      - 发抖；战栗
-        - `shake`
-        - `tremble`
+    - n. 发抖；战栗；震动
+      - shock
+      - shaking
+    - vi. 发抖；战栗
+      - shake
+      - tremble
   - 短语
-    - `shudder at`
-      - 不寒而栗；由于恐惧而发抖 
+    - shudder at 不寒而栗；由于恐惧而发抖
+  - 补充

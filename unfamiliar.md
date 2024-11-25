@@ -1,23 +1,16 @@
 - unfamiliar
   - 发音
-    - 英
-      - `/ʌnfə'mɪlɪə/`
-    - 美
-      - `/,ʌnfə'mɪlɪɚ/`
+    - 英 /ʌnfə'mɪlɪə/
+    - 美 /,ʌnfə'mɪlɪɚ/
   - 词义
-    - adj.
-      - 不熟悉的
-        - `not known to you`
+    - adj. 不熟悉的
+      - not known to you
   - 同根词
-    - n.
-      - `unfamiliarity`
-        - 陌生
+    - n. unfamiliarity 陌生
   - 近义词
-    - adj.
-      - 不熟悉的；不常见的；没有经验的
-        - `young`
-        - `unconversant`
+    - adj. 不熟悉的；不常见的；没有经验的
+      - young
+      - unconversant
   - 例句
-    - `a crowd of unfamiliar faces`
-      - 一群陌生的面孔
-
+    - a crowd of unfamiliar faces 一群陌生的面孔
+  - 补充

@@ -1,28 +1,21 @@
 - recondite
   - 发音
-    - 英
-      - `/'rekəndait/`
-    - 美
-      - `/'rɛkəndaɪt/`
+    - 英 /'rekəndait/
+    - 美 /'rɛkəndaɪt/
   - 词义
-    - adj.
-      - 深奥的；隐藏的
-        - `recondite facts or subjects are not known about or understood by many people`
+    - adj. 深奥的；隐藏的
+      - recondite facts or subjects are not known about or understood by many people
   - 记忆
     - re (反) + con (共同) + dite (说) → 不是对所有人都能说 → 隐藏的
   - 同根词
-    - n.
-      - `reconditeness`
-        - 无名；深奥难懂
+    - n. reconditeness 无名；深奥难懂
   - 近义词
-    - adj.
-      - 深奥的；隐藏的；默默无闻的
-        - `hidden`
-        - `unknown`
-        - `abstract`
-        - `deep`
-        - `latent`
+    - adj. 深奥的；隐藏的；默默无闻的
+      - hidden
+      - unknown
+      - abstract
+      - deep
+      - latent
   - 例句
-    - `Her poems are modishly experimental in style and recondite in subject matter.`
-      - 她的诗在风格上时尚朦胧，在主题上深奥难懂。
-
+    - Her poems are modishly experimental in style and recondite in subject matter. 她的诗在风格上时尚朦胧，在主题上深奥难懂。
+  - 补充

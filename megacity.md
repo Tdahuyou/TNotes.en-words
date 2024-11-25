@@ -1,19 +1,14 @@
 - megacity
   - 发音
-    - 英
-      - `/'megəsɪtɪ/`
-    - 美
-      - `/undefined/`
+    - 英 /'megəsɪtɪ/
+    - 美 /undefined/
   - 词义
-    - n.
-      - 大城市（人口超过1000万）
-        - `a city with over 10 million inhabitants ( `
+    - n. 大城市（人口超过1000万）
+      - a city with over 10 million inhabitants ( 
   - 近义词
-    - n.
-      - 大城市（人口超过100万的）
-        - `great city`
-        - `large city`
+    - n. 大城市（人口超过100万的）
+      - great city
+      - large city
   - 例句
-    - `In the competition between the megacity and the holy city, Upadhyay says, "Delhi is winning, of course.`
-      - 大城市和圣城的的较量中，阿帕德海耶说：“当然是德里赢了。”
-
+    - In the competition between the megacity and the holy city, Upadhyay says, "Delhi is winning, of course. 大城市和圣城的的较量中，阿帕德海耶说：“当然是德里赢了。”
+  - 补充

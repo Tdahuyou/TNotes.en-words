@@ -1,31 +1,21 @@
 - trademark
   - 发音
-    - 英
-      - `/'treɪdmɑːk/`
-    - 美
-      - `/'tred'mɑrk/`
+    - 英 /'treɪdmɑːk/
+    - 美 /'tred'mɑrk/
   - 词义
-    - n.
-      - 商标
-        - `a special name, sign, or word that is marked on a product to show that it is made by a particular company, that cannot be used by any other company`
+    - n. 商标
+      - a special name, sign, or word that is marked on a product to show that it is made by a particular company, that cannot be used by any other company
   - 近义词
-    - n.
-      - [贸易]商标
-        - `brand`
-        - `logo`
-        - `label`
+    - n. [贸易]商标
+      - brand
+      - logo
+      - label
   - 短语
-    - `registered trademark`
-      - 注册商标 
-    - `trademark law`
-      - 商标法 
-    - `famous trademark`
-      - 著名商标；驰名商标 
-    - `trademark infringement`
-      - 商标侵权；侵犯商标专用权 
-    - `patent and trademark office`
-      - 专利与商标局 
+    - registered trademark 注册商标
+    - trademark law 商标法
+    - famous trademark 著名商标；驰名商标
+    - trademark infringement 商标侵权；侵犯商标专用权
+    - patent and trademark office 专利与商标局
   - 例句
-    - `The striped T-shirt became the comedian’s trademark.`
-      - 条纹T恤衫成了这位喜剧演员的标记。
-
+    - The striped T-shirt became the comedian’s trademark. 条纹T恤衫成了这位喜剧演员的标记。
+  - 补充

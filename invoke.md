@@ -1,22 +1,17 @@
 - invoke
   - 发音
-    - 英
-      - `/ɪn'vəʊk/`
-    - 美
-      - `/ɪn'vok/`
+    - 英 /ɪn'vəʊk/
+    - 美 /ɪn'vok/
   - 词义
-    - v.
-      - 恳求
-        - `to ask for help from someone more powerful than you, especially a god`
+    - v. 恳求
+      - to ask for help from someone more powerful than you, especially a god
   - 近义词
-    - vt.
-      - 调用；祈求；引起；恳求
-        - `attract`
-        - `produce`
-        - `cause`
-        - `operate`
-        - `occasion`
+    - vt. 调用；祈求；引起；恳求
+      - attract
+      - produce
+      - cause
+      - operate
+      - occasion
   - 例句
-    - `St. Genevieve is often invoked against plagues.`
-      - 人们经常祈求圣女日南斐法来消除瘟疫。
-
+    - St. Genevieve is often invoked against plagues. 人们经常祈求圣女日南斐法来消除瘟疫。
+  - 补充

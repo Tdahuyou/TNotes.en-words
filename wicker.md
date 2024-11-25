@@ -1,23 +1,16 @@
 - wicker
   - 发音
-    - 英
-      - `/'wɪkə/`
-    - 美
-      - `/'wɪkɚ/`
+    - 英 /'wɪkə/
+    - 美 /'wɪkɚ/
   - 词义
-    - n.
-      - 柳条a柳条制的
-        - `Wicker is long thin sticks, stems, or reeds that have been woven together to make things such as baskets and furniture`
+    - n. 柳条a柳条制的
+      - Wicker is long thin sticks, stems, or reeds that have been woven together to make things such as baskets and furniture
   - 同根词
-    - n.
-      - `wickerwork`
-        - 柳条制品；枝编工艺
+    - n. wickerwork 柳条制品；枝编工艺
   - 近义词
-    - n.
-      - [林]柳条；枝条；柳条制品
-        - `rod`
-        - `vergo`
+    - n. [林]柳条；枝条；柳条制品
+      - rod
+      - vergo
   - 例句
-    - `...a wicker basket.`
-      - ...一个柳条编的篮子。
-
+    - ...a wicker basket. ...一个柳条编的篮子。
+  - 补充

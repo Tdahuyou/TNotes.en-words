@@ -1,24 +1,17 @@
 - indemnify
   - 发音
-    - 英
-      - `/ɪn'demnɪfaɪ/`
-    - 美
-      - `/ɪn'dɛmnɪfaɪ/`
+    - 英 /ɪn'demnɪfaɪ/
+    - 美 /ɪn'dɛmnɪfaɪ/
   - 词义
-    - v.
-      - 赔偿；保护；使免于受罚
-        - `to promise to pay someone if something they own is damaged or lost`
+    - v. 赔偿；保护；使免于受罚
+      - to promise to pay someone if something they own is damaged or lost
   - 同根词
-    - n.
-      - `indemnification`
-        - 赔偿；保护；赦免；补偿金
+    - n. indemnification 赔偿；保护；赦免；补偿金
   - 近义词
-    - vt.
-      - 赔偿；保护；使免于受罚
-        - `secure`
-        - `preserve`
-        - `make good`
+    - vt. 赔偿；保护；使免于受罚
+      - secure
+      - preserve
+      - make good
   - 例句
-    - `They agreed to indemnify the taxpayers against any loss.`
-      - 他们同意赔偿纳税人的任何损失。
-
+    - They agreed to indemnify the taxpayers against any loss. 他们同意赔偿纳税人的任何损失。
+  - 补充

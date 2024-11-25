@@ -1,31 +1,20 @@
 - inoculate
   - 发音
-    - 英
-      - `/ɪ'nɒkjʊleɪt/`
-    - 美
-      - `/ɪ'nɑkjə'let/`
+    - 英 /ɪ'nɒkjʊleɪt/
+    - 美 /ɪ'nɑkjə'let/
   - 词义
-    - v.
-      - [医]接种；嫁接；灌输
+    - v. [医]接种；嫁接；灌输
   - 同根词
-    - n.
-      - `inoculation`
-        - [医] 接种；接木；接插芽
-      - `inoculum`
-        - 接种体；培养液
-      - `inoculant`
-        - [机] 变质剂；接种体，接种菌
-      - `inoculator`
-        - 接种者，接种器；注射器
+    - n. inoculation [医] 接种；接木；接插芽
+    - n. inoculum 接种体；培养液
+    - n. inoculant [机] 变质剂；接种体，接种菌
+    - n. inoculator 接种者，接种器；注射器
   - 近义词
-    - vt.
-      - [医]接种；嫁接；灌输
-        - `to get vaccinated`
-        - `engraft`
+    - vt. [医]接种；嫁接；灌输
+      - to get vaccinated
+      - engraft
   - 短语
-    - `inoculate with`
-      - v. 灌输 
+    - inoculate with v. 灌输
   - 例句
-    - `...a programme to inoculate every child in the country.`
-      - ...一个给全国每个孩子接种疫苗的计划。
-
+    - ...a programme to inoculate every child in the country. ...一个给全国每个孩子接种疫苗的计划。
+  - 补充

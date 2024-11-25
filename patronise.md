@@ -1,25 +1,17 @@
 - patronise
   - 发音
-    - 英
-      - `/'peɪtrənaɪz/`
-    - 美
-      - `/'peitrənaiz/`
+    - 英 /'peɪtrənaɪz/
+    - 美 /'peitrənaiz/
   - 词义
-    - v.
-      - （英）保护（等于patronize）
+    - v. （英）保护（等于patronize）
   - 同根词
-    - n.
-      - `patron`
-        - 赞助人；保护人；主顾
-      - `patroness`
-        - 女主顾；女资助人；女保护人
-    - vt.
-      - `patronize`
-        - 惠顾；资助；保护
+    - n. patron 赞助人；保护人；主顾
+    - n. patroness 女主顾；女资助人；女保护人
+    - vt. patronize 惠顾；资助；保护
   - 近义词
-    - vt.
-      - （英）保护（等于patronize）
-        - `secure`
-        - `preserve`
-        - `shelter`
-        - `indemnify from`
+    - vt. （英）保护（等于patronize）
+      - secure
+      - preserve
+      - shelter
+      - indemnify from
+  - 补充

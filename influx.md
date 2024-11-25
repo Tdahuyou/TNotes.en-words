@@ -1,24 +1,18 @@
 - influx
   - 发音
-    - 英
-      - `/'ɪnflʌks/`
-    - 美
-      - `/'ɪnflʌks/`
+    - 英 /'ɪnflʌks/
+    - 美 /'ɪnflʌks/
   - 词义
-    - n.
-      - 注入，涌入
-        - `the arrival of large numbers of people or large amounts of money, goods etc, especially suddenly`
+    - n. 注入，涌入
+      - the arrival of large numbers of people or large amounts of money, goods etc, especially suddenly
   - 记忆
     - in(内) + flu(流) + x → 涌入
   - 近义词
-    - n.
-      - [流]流入；汇集；河流的汇集处
-        - `afflux`
-        - `inrush`
+    - n. [流]流入；汇集；河流的汇集处
+      - afflux
+      - inrush
   - 短语
-    - `water influx`
-      - 水侵；水侵量 
+    - water influx 水侵；水侵量
   - 例句
-    - `...problems caused by the influx of refugees.`
-      - …难民大量涌入所造成的问题。
-
+    - ...problems caused by the influx of refugees. …难民大量涌入所造成的问题。
+  - 补充

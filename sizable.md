@@ -1,39 +1,22 @@
 - sizable
   - 发音
-    - 英
-      - `/'saɪzəbl/`
-    - 美
-      - `/'saɪzəbl/`
+    - 英 /'saɪzəbl/
+    - 美 /'saɪzəbl/
   - 词义
-    - adj.
-      - 相当大的
-        - `Sizable means fairly large`
+    - adj. 相当大的
+      - Sizable means fairly large
   - 同根词
-    - adj.
-      - `size`
-        - 一定尺寸的
-      - `sizeable`
-        - 大的，相当大的
-      - `sized`
-        - 有…大小的
-    - n.
-      - `size`
-        - 大小；尺寸
-    - v.
-      - `sized`
-        - 相比（size的过去分词）；按大小分类
-    - vi.
-      - `size`
-        - 可比拟
-    - vt.
-      - `size`
-        - 依大小排列
+    - adj. size 一定尺寸的
+    - adj. sizeable 大的，相当大的
+    - adj. sized 有…大小的
+    - n. size 大小；尺寸
+    - v. sized 相比（size的过去分词）；按大小分类
+    - vi. size 可比拟
+    - vt. size 依大小排列
   - 近义词
-    - adj.
-      - 相当大的；大小相当的
-        - `considerable`
-        - `good-sized`
+    - adj. 相当大的；大小相当的
+      - considerable
+      - good-sized
   - 例句
-    - `Harry inherited the house and a sizable piece of land that surrounds it.`
-      - 哈里继承了那座房子和房子周围一块相当大的土地。
-
+    - Harry inherited the house and a sizable piece of land that surrounds it. 哈里继承了那座房子和房子周围一块相当大的土地。
+  - 补充

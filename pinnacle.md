@@ -1,21 +1,16 @@
 - pinnacle
   - 发音
-    - 英
-      - `/'pɪnəkl/`
-    - 美
-      - `/'pɪnəkl/`
+    - 英 /'pɪnəkl/
+    - 美 /'pɪnəkl/
   - 词义
-    - n.
-      - 山顶，顶峰；鼎盛时期；小尖塔
-        - `the most successful, powerful, exciting etc part of something`
+    - n. 山顶，顶峰；鼎盛时期；小尖塔
+      - the most successful, powerful, exciting etc part of something
   - 记忆
     - pinna(顶点) + cle → 山顶， 顶峰
   - 近义词
-    - n.
-      - 高峰；小尖塔；尖峰；极点
-        - `pole`
-        - `climax`
+    - n. 高峰；小尖塔；尖峰；极点
+      - pole
+      - climax
   - 例句
-    - `the pinnacle of academic achievement`
-      - 学术成就的顶峰
-
+    - the pinnacle of academic achievement 学术成就的顶峰
+  - 补充

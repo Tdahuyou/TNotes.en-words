@@ -1,28 +1,20 @@
 - incarcerate
   - 发音
-    - 英
-      - `/ɪn'kɑːrsəreɪt/`
-    - 美
-      - `/ɪn'kɑrsəret/`
+    - 英 /ɪn'kɑːrsəreɪt/
+    - 美 /ɪn'kɑrsəret/
   - 词义
-    - v.
-      - 把…关进监狱，监禁，禁闭
-        - `to put or keep someone in prison`
+    - v. 把…关进监狱，监禁，禁闭
+      - to put or keep someone in prison
   - 记忆
     - in(进入) + carcer(监狱) + ate → 把…关进监狱， 监禁， 禁闭
   - 同根词
-    - n.
-      - `incarceration`
-        - 监禁；下狱；禁闭
+    - n. incarceration 监禁；下狱；禁闭
   - 近义词
-    - vt.
-      - 监禁；下狱；禁闭
-        - `prison`
-        - `imprison`
-    - adj.
-      - 监禁的；禁闭的
-        - `jailed`
+    - vt. 监禁；下狱；禁闭
+      - prison
+      - imprison
+    - adj. 监禁的；禁闭的
+      - jailed
   - 例句
-    - `He spent 10 years incarcerated in prison.`
-      - 他在监狱里关了十年。
-
+    - He spent 10 years incarcerated in prison. 他在监狱里关了十年。
+  - 补充

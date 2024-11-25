@@ -1,38 +1,23 @@
 - roadway
   - 发音
-    - 英
-      - `/'rəʊdweɪ/`
-    - 美
-      - `/'rodwe/`
+    - 英 /'rəʊdweɪ/
+    - 美 /'rodwe/
   - 词义
-    - n.
-      - 车行道,路面
-        - `the part of the road used by vehicles`
+    - n. 车行道,路面
+      - the part of the road used by vehicles
   - 同根词
-    - adj.
-      - `road`
-        - （美）巡回的
-      - `roadworthy`
-        - 适于行驶的；适合道路上使用的
-    - n.
-      - `road`
-        - 公路，马路；道路；手段
-      - `roadbed`
-        - 路基；车行道
-    - vt.
-      - `road`
-        - （狗）沿臭迹追逐（猎物）
+    - adj. road （美）巡回的
+    - adj. roadworthy 适于行驶的；适合道路上使用的
+    - n. road 公路，马路；道路；手段
+    - n. roadbed 路基；车行道
+    - vt. road （狗）沿臭迹追逐（猎物）
   - 近义词
-    - n.
-      - 道路；路面；[公路]车行道；铁路的路基
-        - `path`
-        - `course`
+    - n. 道路；路面；[公路]车行道；铁路的路基
+      - path
+      - course
   - 短语
-    - `roadway support`
-      - 巷道支架；平巷支护 
-    - `haulage roadway`
-      - 运输巷道 
+    - roadway support 巷道支架；平巷支护
+    - haulage roadway 运输巷道
   - 例句
-    - `Marks in the roadway seem to indicate that he skidded taking a sharp turn.`
-      - 从车道上的痕迹看，他似乎在急转弯时打滑了。
-
+    - Marks in the roadway seem to indicate that he skidded taking a sharp turn. 从车道上的痕迹看，他似乎在急转弯时打滑了。
+  - 补充

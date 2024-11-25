@@ -1,32 +1,19 @@
 - exclusively
   - 发音
-    - 英
-      - `/ɪk'skluːsɪvlɪ/`
-    - 美
-      - `/ɪk'sklʊsɪvli/`
+    - 英 /ɪk'skluːsɪvlɪ/
+    - 美 /ɪk'sklʊsɪvli/
   - 词义
-    - adv.
-      - 专门地，排除其他地
-        - `Exclusively is used to refer to situations or activities that involve only the thing or things mentioned, and nothing else`
+    - adv. 专门地，排除其他地
+      - Exclusively is used to refer to situations or activities that involve only the thing or things mentioned, and nothing else
   - 同根词
-    - adj.
-      - `exclusive`
-        - 独有的；排外的；专一的
-    - n.
-      - `exclusive`
-        - 独家新闻；独家经营的项目；排外者
-      - `exclusion`
-        - 排除；排斥；驱逐；被排除在外的事物
-      - `exclusiveness`
-        - 排他性；排外性；独占
-    - vt.
-      - `exclude`
-        - 排除；排斥；拒绝接纳；逐出
+    - adj. exclusive 独有的；排外的；专一的
+    - n. exclusive 独家新闻；独家经营的项目；排外者
+    - n. exclusion 排除；排斥；驱逐；被排除在外的事物
+    - n. exclusiveness 排他性；排外性；独占
+    - vt. exclude 排除；排斥；拒绝接纳；逐出
   - 近义词
-    - adv.
-      - 唯一地；专有地；排外地
-        - `solely`
+    - adv. 唯一地；专有地；排外地
+      - solely
   - 例句
-    - `...an exclusively male domain.`
-      - …一个由男性独占的领域。
-
+    - ...an exclusively male domain. …一个由男性独占的领域。
+  - 补充

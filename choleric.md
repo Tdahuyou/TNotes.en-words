@@ -1,26 +1,18 @@
 - choleric
   - 发音
-    - 英
-      - `/'kɔlərik/`
-    - 美
-      - `/'kɑlərɪk/`
+    - 英 /'kɔlərik/
+    - 美 /'kɑlərɪk/
   - 词义
-    - adj.
-      - 易怒的
+    - adj. 易怒的
   - 记忆
     - choler (胆汁) + ic → 胆汁质的 → 易怒的； choler本身是一个单词， 意为“暴怒”
   - 同根词
-    - n.
-      - `choler`
-        - 胆汁；愤怒
-      - `cholestasis`
-        - 胆汁阻塞，胆汁郁积
+    - n. choler 胆汁；愤怒
+    - n. cholestasis 胆汁阻塞，胆汁郁积
   - 近义词
-    - adj.
-      - 易怒的；暴躁的；胆汁质的
-        - `fierce`
-        - `testy`
+    - adj. 易怒的；暴躁的；胆汁质的
+      - fierce
+      - testy
   - 例句
-    - `There was NO vulgar bullying, NO bravado of any sort, NO choleric hectoring…`
-      - 没有低级庸俗的恃强欺弱，没有任何形式的虚张声势，没有怒气冲冲的威胁恐吓…
-
+    - There was NO vulgar bullying, NO bravado of any sort, NO choleric hectoring… 没有低级庸俗的恃强欺弱，没有任何形式的虚张声势，没有怒气冲冲的威胁恐吓…
+  - 补充

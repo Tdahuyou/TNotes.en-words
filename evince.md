@@ -1,22 +1,17 @@
 - evince
   - 发音
-    - 英
-      - `/ɪ'vɪns/`
-    - 美
-      - `/ɪ'vɪns/`
+    - 英 /ɪ'vɪns/
+    - 美 /ɪ'vɪns/
   - 词义
-    - v.
-      - 表明，表示；引起
-        - `to show a feeling or have a quality in a way that people can easily notice`
+    - v. 表明，表示；引起
+      - to show a feeling or have a quality in a way that people can easily notice
   - 近义词
-    - vt.
-      - 表明，表示；引起
-        - `indicate`
-        - `attract`
-        - `produce`
-        - `bid`
-        - `cause`
+    - vt. 表明，表示；引起
+      - indicate
+      - attract
+      - produce
+      - bid
+      - cause
   - 例句
-    - `She evinced no surprise at seeing them together.`
-      - 看到他们在一起，她没有表露出惊讶。
-
+    - She evinced no surprise at seeing them together. 看到他们在一起，她没有表露出惊讶。
+  - 补充

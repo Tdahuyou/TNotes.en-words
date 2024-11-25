@@ -1,44 +1,30 @@
 - triumph
   - 发音
-    - 英
-      - `/'traɪʌmf/`
-    - 美
-      - `/ˈtraɪəmf/`
+    - 英 /'traɪʌmf/
+    - 美 /ˈtraɪəmf/
   - 词义
-    - v.
-      - 获胜，成功
-        - `to gain a victory or success after a difficult struggle`
-    - n.
-      - 狂喜；胜利，成功
-        - `an important victory or success after a difficult struggle`
+    - v. 获胜，成功
+      - to gain a victory or success after a difficult struggle
+    - n. 狂喜；胜利，成功
+      - an important victory or success after a difficult struggle
   - 记忆
     - 胜利(triumph)之后吹喇叭(trump)
   - 同根词
-    - adj.
-      - `triumphant`
-        - 成功的；得意洋洋的；狂欢的
-      - `triumphal`
-        - 凯旋的，胜利的
-    - adv.
-      - `triumphantly`
-        - 成功地；耀武扬威地
+    - adj. triumphant 成功的；得意洋洋的；狂欢的
+    - adj. triumphal 凯旋的，胜利的
+    - adv. triumphantly 成功地；耀武扬威地
   - 近义词
-    - n.
-      - 胜利，凯旋；欢欣
-        - `victory`
-        - `success`
-        - `win`
-    - vi.
-      - 获得胜利，成功
-        - `arrive`
-        - `win`
-        - `make good`
+    - n. 胜利，凯旋；欢欣
+      - victory
+      - success
+      - win
+    - vi. 获得胜利，成功
+      - arrive
+      - win
+      - make good
   - 短语
-    - `in triumph`
-      - 胜利地；洋洋得意地；耀武扬威地 
-    - `triumph over`
-      - 击败；得胜；成功 
+    - in triumph 胜利地；洋洋得意地；耀武扬威地
+    - triumph over 击败；得胜；成功
   - 例句
-    - `All her life, Kelly had stuck with difficult tasks and challenges, and triumphed.`
-      - 凯利在一生中遭遇了种种艰巨任务与挑战，但成功了。
-
+    - All her life, Kelly had stuck with difficult tasks and challenges, and triumphed. 凯利在一生中遭遇了种种艰巨任务与挑战，但成功了。
+  - 补充

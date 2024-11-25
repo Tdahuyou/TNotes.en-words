@@ -1,33 +1,24 @@
 - disparate
   - 发音
-    - 英
-      - `/'dɪspərət/`
-    - 美
-      - `/'dɪspərət/`
+    - 英 /'dɪspərət/
+    - 美 /'dɪspərət/
   - 词义
-    - adj.
-      - 迥然不同的
-        - `consisting of things or people that are very different and not related to each other`
+    - adj. 迥然不同的
+      - consisting of things or people that are very different and not related to each other
   - 记忆
     - dis(不) + par(相等) + ate → 不相等的 → 迥然不同的
   - 同根词
-    - n.
-      - `disparity`
-        - 不同；不一致；不等
+    - n. disparity 不同；不一致；不等
   - 近义词
-    - adj.
-      - 不同的；不相干的；全异的
-        - `different`
-        - `diverse`
-        - `unlike`
-        - `varying`
-        - `another`
+    - adj. 不同的；不相干的；全异的
+      - different
+      - diverse
+      - unlike
+      - varying
+      - another
   - 短语
-    - `disparate treatment`
-      - 差别性对待 
+    - disparate treatment 差别性对待
   - 例句
-    - `a meeting covering many disparate subjects`
-      - 涉及许多不同议题的会议
-    - `the difficulties of dealing with disparate groups of people`
-      - 和不同的人群打交道的难处
-
+    - a meeting covering many disparate subjects 涉及许多不同议题的会议
+    - the difficulties of dealing with disparate groups of people 和不同的人群打交道的难处
+  - 补充

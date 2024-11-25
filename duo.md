@@ -1,18 +1,13 @@
 - duo
   - 发音
-    - 英
-      - `/'djuːəʊ/`
-    - 美
-      - `/'duo/`
+    - 英 /'djuːəʊ/
+    - 美 /'duo/
   - 词义
-    - n.
-      - 二重奏；二重唱；二人组
-        - `a piece of music for two performers`
+    - n. 二重奏；二重唱；二人组
+      - a piece of music for two performers
   - 近义词
-    - n.
-      - 二重奏；二重唱；二人组
-        - `duet`
+    - n. 二重奏；二重唱；二人组
+      - duet
   - 例句
-    - `the comedy duo Reeves and Mortimer`
-      - 喜剧搭档里夫斯和莫蒂默
-
+    - the comedy duo Reeves and Mortimer 喜剧搭档里夫斯和莫蒂默
+  - 补充

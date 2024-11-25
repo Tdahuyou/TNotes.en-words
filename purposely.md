@@ -1,31 +1,19 @@
 - purposely
   - 发音
-    - 英
-      - `/'pɜːpəslɪ/`
-    - 美
-      - `/'pɝpəsli/`
+    - 英 /'pɜːpəslɪ/
+    - 美 /'pɝpəsli/
   - 词义
-    - adv.
-      - 故意地,蓄意地
-        - `deliberately`
+    - adv. 故意地,蓄意地
+      - deliberately
   - 同根词
-    - adj.
-      - `purposive`
-        - 有目的的；故意的
-    - n.
-      - `purpose`
-        - 目的；用途；意志
-      - `purposefulness`
-        - 目的性；意志坚强
-    - vt.
-      - `purpose`
-        - 决心；企图；打算
+    - adj. purposive 有目的的；故意的
+    - n. purpose 目的；用途；意志
+    - n. purposefulness 目的性；意志坚强
+    - vt. purpose 决心；企图；打算
   - 近义词
-    - adv.
-      - 故意地；蓄意地
-        - `deliberately`
-        - `intentionally`
+    - adv. 故意地；蓄意地
+      - deliberately
+      - intentionally
   - 例句
-    - `A clause in the contract had been left purposely vague.`
-      - 合同中有一个条款被故意定得模棱两可。
-
+    - A clause in the contract had been left purposely vague. 合同中有一个条款被故意定得模棱两可。
+  - 补充

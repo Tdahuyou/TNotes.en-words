@@ -1,22 +1,17 @@
 - iceberg
   - 发音
-    - 英
-      - `/'aɪsbɜːrg/`
-    - 美
-      - `/'aɪs'bɝg/`
+    - 英 /'aɪsbɜːrg/
+    - 美 /'aɪs'bɝg/
   - 词义
-    - n.
-      - 冰山；冷冰冰的人
-        - `a very large mass of ice floating in the sea, most of which is under the surface of the water`
+    - n. 冰山；冷冰冰的人
+      - a very large mass of ice floating in the sea, most of which is under the surface of the water
   - 记忆
     - ice(冰) + berg(大冰块) → 冰山
   - 近义词
-    - n.
-      - [地理]冰山；显露部分
-        - `Berg`
-        - `floeberg`
+    - n. [地理]冰山；显露部分
+      - Berg
+      - floeberg
   - 短语
-    - `tip of the iceberg`
-      - 冰山一角；事物的表面部分 
-    - `iceberg lettuce`
-      - 卷心莴苣；球叶莴苣 
+    - tip of the iceberg 冰山一角；事物的表面部分
+    - iceberg lettuce 卷心莴苣；球叶莴苣
+  - 补充

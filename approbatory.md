@@ -1,25 +1,16 @@
 - approbatory
   - 发音
-    - 英
-      - `/undefined/`
-    - 美
-      - `/undefined/`
+    - 英 /undefined/
+    - 美 /undefined/
   - 词义
-    - adj.
-      - 承认的,认可的,赞赏的
+    - adj. 承认的,认可的,赞赏的
   - 同根词
-    - n.
-      - `approbation`
-        - 认可；赞许；批准
-    - vt.
-      - `approbate`
-        - 认可；承认；批准
+    - n. approbation 认可；赞许；批准
+    - vt. approbate 认可；承认；批准
   - 近义词
-    - adj.
-      - 认可的；赞赏的
-        - `sanctified`
-        - `admissive`
+    - adj. 认可的；赞赏的
+      - sanctified
+      - admissive
   - 例句
-    - `The result revealed the approbatory degree of teachers and students in English modular teaching to be quite high in vocational college, but the degree of value for each teaching module is different.`
-      - 调查结果显示，高职学校的教师和学生对英语模块教学的认可程度较高，但对各模块教学的重视程度不一样。
-
+    - The result revealed the approbatory degree of teachers and students in English modular teaching to be quite high in vocational college, but the degree of value for each teaching module is different. 调查结果显示，高职学校的教师和学生对英语模块教学的认可程度较高，但对各模块教学的重视程度不一样。
+  - 补充

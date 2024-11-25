@@ -1,21 +1,16 @@
 - impasse
   - 发音
-    - 英
-      - `/'impæs/`
-    - 美
-      - `/'ɪmpæs/`
+    - 英 /'impæs/
+    - 美 /'ɪmpæs/
   - 词义
-    - n.
-      - 僵局
-        - `a situation in which it is impossible to continue with a discussion or plan because the people involved cannot agree`
+    - n. 僵局
+      - a situation in which it is impossible to continue with a discussion or plan because the people involved cannot agree
   - 记忆
     - im (不) + pass (通过) + e → 此路不通 → 死路 → 僵局
   - 近义词
-    - n.
-      - 僵局；死路
-        - `logjam`
-        - `deadlock`
+    - n. 僵局；死路
+      - logjam
+      - deadlock
   - 例句
-    - `Negotiations seemed to have reached an impasse.`
-      - 谈判似乎陷入了僵局。
-
+    - Negotiations seemed to have reached an impasse. 谈判似乎陷入了僵局。
+  - 补充

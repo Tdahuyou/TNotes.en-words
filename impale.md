@@ -1,25 +1,18 @@
 - impale
   - 发音
-    - 英
-      - `/im'peil/`
-    - 美
-      - `/im'peil/`
+    - 英 /im'peil/
+    - 美 /im'peil/
   - 词义
-    - v.
-      - 刺穿
-        - `if someone or something is impaled, a sharp pointed object goes through them`
+    - v. 刺穿
+      - if someone or something is impaled, a sharp pointed object goes through them
   - 记忆
     - im (进入) + pale (苍白的) → 心脏被刺穿， 脸色煞白 → 刺穿
   - 同根词
-    - n.
-      - `impalement`
-        - 刺穿；围住
+    - n. impalement 刺穿；围住
   - 近义词
-    - vt.
-      - 刺穿；钉住；使绝望
-        - `cut through`
-        - `transpierce`
+    - vt. 刺穿；钉住；使绝望
+      - cut through
+      - transpierce
   - 例句
-    - `Researchers observed one bird impale a rodent on a cactus.`
-      - 研究人员观察到，一只鸟把一个啮齿动物钉到了一棵仙人掌上。
-
+    - Researchers observed one bird impale a rodent on a cactus. 研究人员观察到，一只鸟把一个啮齿动物钉到了一棵仙人掌上。
+  - 补充

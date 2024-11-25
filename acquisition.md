@@ -1,59 +1,36 @@
 - acquisition
   - 发音
-    - 英
-      - `/ˌækwɪ'zɪʃn/`
-    - 美
-      - `/,ækwɪ'zɪʃən/`
+    - 英 /ˌækwɪ'zɪʃn/
+    - 美 /,ækwɪ'zɪʃən/
   - 词义
-    - n.
-      - 习得，获得；收购，购置
-        - `the process by which you gain knowledge or learn a skill`
+    - n. 习得，获得；收购，购置
+      - the process by which you gain knowledge or learn a skill
   - 记忆
     - ac(表加强) + quis(追求) + ition → 为了获得而不断追求 → 习得(物)， 获得(物)
   - 同根词
-    - adj.
-      - `acquisitive`
-        - 贪得的；想获得的；可学到的；有获得可能性的
+    - adj. acquisitive 贪得的；想获得的；可学到的；有获得可能性的
   - 近义词
-    - n.
-      - 获得物，获得
-        - `getting`
-        - `procurement`
-        - `winning`
+    - n. 获得物，获得
+      - getting
+      - procurement
+      - winning
   - 短语
-    - `data acquisition`
-      - 数据采集 
-    - `data acquisition system`
-      - 数据采集系统；资料获取系统 
-    - `language acquisition`
-      - 语言习得 
-    - `land acquisition`
-      - 土地征用 
-    - `merger and acquisition`
-      - 收购兼并；兼并与收购 
-    - `knowledge acquisition`
-      - 知识获取；知识习得；知识获得；知识采集 
-    - `information acquisition`
-      - 信息获取；信息采集 
-    - `acquisition time`
-      - 收集时间 
-    - `target acquisition`
-      - 自标探测，目标获取 
-    - `acquisition cost`
-      - 取得成本；购置成本 
-    - `acquisition and merger`
-      - 兼并 
-    - `acquisition of land`
-      - 收购土地 
-    - `acquisition of assets`
-      - 购置资产；资产的取得 
-    - `data acquisition unit`
-      - 数据采集器 
-    - `acquisition agreement`
-      - 收购协议 
-    - `acquisition price`
-      - 购置价格 
+    - data acquisition 数据采集
+    - data acquisition system 数据采集系统；资料获取系统
+    - language acquisition 语言习得
+    - land acquisition 土地征用
+    - merger and acquisition 收购兼并；兼并与收购
+    - knowledge acquisition 知识获取；知识习得；知识获得；知识采集
+    - information acquisition 信息获取；信息采集
+    - acquisition time 收集时间
+    - target acquisition 自标探测，目标获取
+    - acquisition cost 取得成本；购置成本
+    - acquisition and merger 兼并
+    - acquisition of land 收购土地
+    - acquisition of assets 购置资产；资产的取得
+    - data acquisition unit 数据采集器
+    - acquisition agreement 收购协议
+    - acquisition price 购置价格
   - 例句
-    - `the acquisition of language`
-      - 语言的习得
-
+    - the acquisition of language 语言的习得
+  - 补充

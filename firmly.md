@@ -1,15 +1,12 @@
 - firmly
   - 发音
-    - 英
-      - `/fɜːmli/`
-    - 美
-      - `/'fɝmli/`
+    - 英 /fɜːmli/
+    - 美 /'fɝmli/
   - 词义
-    - adv.
-      - 坚固地，稳定地
+    - adv. 坚固地，稳定地
   - 近义词
-    - adv.
-      - 坚定地，坚决地；坚固地，稳固地
-        - `surely`
-        - `steadily`
-        - `tightly`
+    - adv. 坚定地，坚决地；坚固地，稳固地
+      - surely
+      - steadily
+      - tightly
+  - 补充

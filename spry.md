@@ -1,22 +1,17 @@
 - spry
   - 发音
-    - 英
-      - `/spraɪ/`
-    - 美
-      - `/spraɪ/`
+    - 英 /spraɪ/
+    - 美 /spraɪ/
   - 词义
-    - adj.
-      - 充满生气的,活泼的,敏捷的美国Spry在线服务公司
-        - `a spry old person has energy and is active`
+    - adj. 充满生气的,活泼的,敏捷的美国Spry在线服务公司
+      - a spry old person has energy and is active
   - 近义词
-    - adj.
-      - 活泼的；敏捷的；精神好的
-        - `alive`
-        - `lively`
-        - `sharp`
-        - `activated`
-        - `fly`
+    - adj. 活泼的；敏捷的；精神好的
+      - alive
+      - lively
+      - sharp
+      - activated
+      - fly
   - 例句
-    - `He’s still remarkably spry.`
-      - 他依然充满了活力。
-
+    - He’s still remarkably spry. 他依然充满了活力。
+  - 补充

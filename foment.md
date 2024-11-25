@@ -1,27 +1,19 @@
 - foment
   - 发音
-    - 英
-      - `/fou'ment/`
-    - 美
-      - `/undefined/`
+    - 英 /fou'ment/
+    - 美 /undefined/
   - 词义
-    - vt.
-      - 煽动，挑起，激起
-        - `to cause trouble and make people start fighting each other or opposing the government`
+    - vt. 煽动，挑起，激起
+      - to cause trouble and make people start fighting each other or opposing the government
   - 记忆
     - fom(看做form， 形成) + ent → 帮助形成 → 煽动
   - 同根词
-    - n.
-      - `fomentation`
-        - 热敷；煽动
-      - `fomenter`
-        - 煽动者；挑唆者
+    - n. fomentation 热敷；煽动
+    - n. fomenter 煽动者；挑唆者
   - 近义词
-    - vt.
-      - 煽动；挑起；热敷
-        - `fan`
-        - `egg`
+    - vt. 煽动；挑起；热敷
+      - fan
+      - egg
   - 例句
-    - `They were accused of fomenting rebellion.`
-      - 他们被指控煽动叛乱。
-
+    - They were accused of fomenting rebellion. 他们被指控煽动叛乱。
+  - 补充

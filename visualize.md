@@ -1,44 +1,26 @@
 - visualize
   - 发音
-    - 英
-      - `/'vɪʒuəlaɪz/`
-    - 美
-      - `/'vɪʒuəlaɪz/`
+    - 英 /'vɪʒuəlaɪz/
+    - 美 /'vɪʒuəlaɪz/
   - 词义
-    - v.
-      - 想象，使形象化；构思
-        - `to form a picture of someone or something in your mind`
+    - v. 想象，使形象化；构思
+      - to form a picture of someone or something in your mind
   - 记忆
     - vis(看) + ual + ize → 使…看见 → 想象， 使形象化
   - 同根词
-    - adj.
-      - `visualized`
-        - 直观的；直视的
-    - adv.
-      - `visually`
-        - 形象化地；外表上；看得见地
-    - n.
-      - `vision`
-        - 视力；美景；眼力；幻象；想象力
-      - `visualization`
-        - 形象化；清楚地呈现在心
-      - `visualizing`
-        - 肉眼观察
-      - `visualizer`
-        - 视觉型的人；观察仪；想像者
-    - v.
-      - `visualized`
-        - 使形象化；想像（visualize的过去分词）
-    - vt.
-      - `vision`
-        - 想象；显现；梦见
+    - adj. visualized 直观的；直视的
+    - adv. visually 形象化地；外表上；看得见地
+    - n. vision 视力；美景；眼力；幻象；想象力
+    - n. visualization 形象化；清楚地呈现在心
+    - n. visualizing 肉眼观察
+    - n. visualizer 视觉型的人；观察仪；想像者
+    - v. visualized 使形象化；想像（visualize的过去分词）
+    - vt. vision 想象；显现；梦见
   - 近义词
-    - vt.
-      - 形象，形象化；想像，设想
-        - `imagine`
-        - `picture`
-        - `think of`
+    - vt. 形象，形象化；想像，设想
+      - imagine
+      - picture
+      - think of
   - 例句
-    - `I tried to visualize the house while he was describing it.`
-      - 我一边听他描述，一边想象那房子的样子。
-
+    - I tried to visualize the house while he was describing it. 我一边听他描述，一边想象那房子的样子。
+  - 补充

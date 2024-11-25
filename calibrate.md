@@ -1,34 +1,21 @@
 - calibrate
   - 发音
-    - 英
-      - `/'kælɪbreɪt/`
-    - 美
-      - `/'kælɪbret/`
+    - 英 /'kælɪbreɪt/
+    - 美 /'kælɪbret/
   - 词义
-    - vt.
-      - 标定，划分；校准刻度
-        - `to check or slightly change an instrument or tool, so that it does something correctly`
+    - vt. 标定，划分；校准刻度
+      - to check or slightly change an instrument or tool, so that it does something correctly
   - 同根词
-    - adj.
-      - `calibrated`
-        - 标刻度的
-    - n.
-      - `calibration`
-        - 校准；刻度；标度
-      - `caliber`
-        - [军] 口径；才干；水准（等于calibre）；器量
-      - `calibre`
-        - [军] 口径；才干；水准
-    - v.
-      - `calibrated`
-        - 校准（calibrate的过去分词）；校准使...标准化
+    - adj. calibrated 标刻度的
+    - n. calibration 校准；刻度；标度
+    - n. caliber [军] 口径；才干；水准（等于calibre）；器量
+    - n. calibre [军] 口径；才干；水准
+    - v. calibrated 校准（calibrate的过去分词）；校准使...标准化
   - 近义词
-    - vt.
-      - 校正；调整；测定口径
-        - `adjust`
-        - `update`
-        - `coordinate`
+    - vt. 校正；调整；测定口径
+      - adjust
+      - update
+      - coordinate
   - 例句
-    - `...instructions on how to calibrate a thermometer.`
-      - …校准温度计的说明。
-
+    - ...instructions on how to calibrate a thermometer. …校准温度计的说明。
+  - 补充

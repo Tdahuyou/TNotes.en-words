@@ -1,29 +1,21 @@
 - ungainly
   - 发音
-    - 英
-      - `/ʌn'geinli/`
-    - 美
-      - `/ʌn'ɡenli/`
+    - 英 /ʌn'geinli/
+    - 美 /ʌn'ɡenli/
   - 词义
-    - adj.
-      - 难看的；不雅的；笨拙的
-        - `moving in a way that does not look graceful`
+    - adj. 难看的；不雅的；笨拙的
+      - moving in a way that does not look graceful
   - 记忆
     - un(不， 否定前缀) + gainly (优雅的) → 不优雅的 → 难看的
   - 同根词
-    - n.
-      - `ungainliness`
-        - 丑陋
+    - n. ungainliness 丑陋
   - 近义词
-    - adj.
-      - 笨拙的；不雅的
-        - `clumsy`
-        - `awkward`
-    - adv.
-      - 笨拙地；不雅地
-        - `ungracefully`
-        - `lumpingly`
+    - adj. 笨拙的；不雅的
+      - clumsy
+      - awkward
+    - adv. 笨拙地；不雅地
+      - ungracefully
+      - lumpingly
   - 例句
-    - `a tall ungainly teenager`
-      - 一个动作笨拙的高个子少年
-
+    - a tall ungainly teenager 一个动作笨拙的高个子少年
+  - 补充

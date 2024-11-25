@@ -1,57 +1,33 @@
 - oppose
   - 发音
-    - 英
-      - `/ə'pouz/`
-    - 美
-      - `/ə'poz/`
+    - 英 /ə'pouz/
+    - 美 /ə'poz/
   - 词义
-    - v.
-      - 反对，对抗
-        - `to disagree with something such as a plan or idea and try to prevent it from happening or succeeding`
+    - v. 反对，对抗
+      - to disagree with something such as a plan or idea and try to prevent it from happening or succeeding
   - 记忆
     - op(反) + pos(放) + e → 反着放 → 反对， 对抗
   - 同根词
-    - adj.
-      - `opposite`
-        - 相反的；对面的；对立的
-      - `opposed`
-        - 相反的；敌对的
-      - `opposing`
-        - 反对的；相对的；对面的
-      - `opposable`
-        - 可反对的；可相对的
-      - `oppositive`
-        - 反对的；相反的
-    - adv.
-      - `opposite`
-        - 在对面
-      - `oppositely`
-        - 反向地；在相反的位置；面对面
-    - n.
-      - `opposite`
-        - 对立面；反义词
-      - `opposition`
-        - 反对；反对派；在野党；敌对
-      - `opposer`
-        - 反对者
-    - prep.
-      - `opposite`
-        - 在…的对面
-    - v.
-      - `opposed`
-        - 反对（oppose的过去分词）；使对立
-      - `opposing`
-        - 反对（oppose的ing形式）
+    - adj. opposite 相反的；对面的；对立的
+    - adj. opposed 相反的；敌对的
+    - adj. opposing 反对的；相对的；对面的
+    - adj. opposable 可反对的；可相对的
+    - adj. oppositive 反对的；相反的
+    - adv. opposite 在对面
+    - adv. oppositely 反向地；在相反的位置；面对面
+    - n. opposite 对立面；反义词
+    - n. opposition 反对；反对派；在野党；敌对
+    - n. opposer 反对者
+    - prep. opposite 在…的对面
+    - v. opposed 反对（oppose的过去分词）；使对立
+    - v. opposing 反对（oppose的ing形式）
   - 近义词
-    - vt.
-      - 反对；对抗，抗争
-        - `combat`
-        - `sit down on`
-    - vi.
-      - 反对
-        - `object`
-        - `sit down on`
+    - vt. 反对；对抗，抗争
+      - combat
+      - sit down on
+    - vi. 反对
+      - object
+      - sit down on
   - 例句
-    - `Congress is continuing to oppose the President’s health care budget.`
-      - 国会继续反对总统的医疗保健预算。
-
+    - Congress is continuing to oppose the President’s health care budget. 国会继续反对总统的医疗保健预算。
+  - 补充

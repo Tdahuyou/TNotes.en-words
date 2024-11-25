@@ -1,33 +1,22 @@
 - labyrinth
   - 发音
-    - 英
-      - `/'læbərɪnθ/`
-    - 美
-      - `/'læbərɪnθ/`
+    - 英 /'læbərɪnθ/
+    - 美 /'læbərɪnθ/
   - 词义
-    - n.
-      - 迷宫；错综复杂的事件
-        - `a large network of paths or passages which cross each other, making it very difficult to find your way`
+    - n. 迷宫；错综复杂的事件
+      - a large network of paths or passages which cross each other, making it very difficult to find your way
   - 记忆
     - labyr(迷宫) + inth → 迷宫
   - 同根词
-    - adj.
-      - `labyrinthine`
-        - 迷宫的；复杂的
-      - `labyrinthian`
-        - 迷宫的；错综复杂的（等于labyrinthine）
-    - n.
-      - `labyrinthitis`
-        - 内耳炎；[耳鼻喉] 迷路炎
+    - adj. labyrinthine 迷宫的；复杂的
+    - adj. labyrinthian 迷宫的；错综复杂的（等于labyrinthine）
+    - n. labyrinthitis 内耳炎；[耳鼻喉] 迷路炎
   - 近义词
-    - n.
-      - 迷宫；[解剖]迷路；难解的事物
-        - `maze`
-        - `mavericks`
+    - n. 迷宫；[解剖]迷路；难解的事物
+      - maze
+      - mavericks
   - 短语
-    - `labyrinth seal`
-      - 迷宫式密封；曲径密封垫片 
+    - labyrinth seal 迷宫式密封；曲径密封垫片
   - 例句
-    - `...the labyrinth of corridors.`
-      - …迷宫般的走廊。
-
+    - ...the labyrinth of corridors. …迷宫般的走廊。
+  - 补充

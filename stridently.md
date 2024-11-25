@@ -1,27 +1,17 @@
 - stridently
   - 发音
-    - 英
-      - `/'straidentli/`
-    - 美
-      - `/undefined/`
+    - 英 /'straidentli/
+    - 美 /undefined/
   - 词义
-    - adv.
-      - 刺耳地
+    - adv. 刺耳地
   - 同根词
-    - adj.
-      - `strident`
-        - 刺耳的；尖锐的；吱吱尖叫的；轧轧作响的
-    - n.
-      - `stridor`
-        - [内科] 喘鸣；尖锐刺耳声
-      - `stridence`
-        - 刺耳，刺目
+    - adj. strident 刺耳的；尖锐的；吱吱尖叫的；轧轧作响的
+    - n. stridor [内科] 喘鸣；尖锐刺耳声
+    - n. stridence 刺耳，刺目
   - 近义词
-    - adv.
-      - 刺耳地；尖声地
-        - `raspingly`
-        - `harshly`
+    - adv. 刺耳地；尖声地
+      - raspingly
+      - harshly
   - 例句
-    - `Listen to all the voices -- not just here but even more stridently in Europe -- calling for a need to restore fiscal discipline.`
-      - 听听这众多的声音——不但在这里，在欧洲更加刺耳——要求回归财政纪律。
-
+    - Listen to all the voices -- not just here but even more stridently in Europe -- calling for a need to restore fiscal discipline. 听听这众多的声音——不但在这里，在欧洲更加刺耳——要求回归财政纪律。
+  - 补充

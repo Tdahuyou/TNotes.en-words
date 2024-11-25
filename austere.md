@@ -1,26 +1,17 @@
 - austere
   - 发音
-    - 英
-      - `/ɒ'stɪə; ɔː-/`
-    - 美
-      - `/ɔ'stɪr/`
+    - 英 /ɒ'stɪə; ɔː-/
+    - 美 /ɔ'stɪr/
   - 词义
-    - adj.
-      - 简朴的,严厉的
-        - `plain and simple and without any decoration`
+    - adj. 简朴的,严厉的
+      - plain and simple and without any decoration
   - 同根词
-    - adv.
-      - `austerely`
-        - 严格地；简朴地
-    - n.
-      - `austerity`
-        - 紧缩；朴素；苦行；严厉
+    - adv. austerely 严格地；简朴地
+    - n. austerity 紧缩；朴素；苦行；严厉
   - 近义词
-    - adj.
-      - 严峻的；简朴的；苦行的；无装饰的
-        - `severe`
-        - `naked`
+    - adj. 严峻的；简朴的；苦行的；无装饰的
+      - severe
+      - naked
   - 例句
-    - `the church’s austere simplicity`
-      - 那座教堂的朴实无华
-
+    - the church’s austere simplicity 那座教堂的朴实无华
+  - 补充

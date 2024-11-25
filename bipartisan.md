@@ -1,16 +1,12 @@
 - bipartisan
   - 发音
-    - 英
-      - `/ˌbaipɑːti'zæn/`
-    - 美
-      - `/,baɪ'pɑrtɪzn/`
+    - 英 /ˌbaipɑːti'zæn/
+    - 美 /,baɪ'pɑrtɪzn/
   - 词义
-    - adj.
-      - 两党的，两党成员的
-        - `involving two political parties, especially parties with opposing views`
+    - adj. 两党的，两党成员的
+      - involving two political parties, especially parties with opposing views
   - 记忆
     - bi (两) + parti (看作party， 政党) + san → 两党的
   - 例句
-    - `a bipartisan committee`
-      - 一个由两党代表组成的委员会
-
+    - a bipartisan committee 一个由两党代表组成的委员会
+  - 补充

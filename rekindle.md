@@ -1,20 +1,15 @@
 - rekindle
   - 发音
-    - 英
-      - `/ˌriː'kɪndl/`
-    - 美
-      - `/,ri'kɪndl/`
+    - 英 /ˌriː'kɪndl/
+    - 美 /,ri'kɪndl/
   - 词义
-    - vt.
-      - 重新点燃；使振作
-        - `If something rekindles an unpleasant situation, it makes the unpleasant situation happen again`
+    - vt. 重新点燃；使振作
+      - If something rekindles an unpleasant situation, it makes the unpleasant situation happen again
   - 记忆
     - re(再， 又) + kindle(点燃) → 重新点燃
   - 近义词
-    - vt.
-      - 重新点燃；再点火
-        - `reignite`
+    - vt. 重新点燃；再点火
+      - reignite
   - 例句
-    - `There are fears that the series could rekindle animosity between the two countries.`
-      - 有人担心这一系列的事情可能会重新引发两国之间的敌意。
-
+    - There are fears that the series could rekindle animosity between the two countries. 有人担心这一系列的事情可能会重新引发两国之间的敌意。
+  - 补充

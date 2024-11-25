@@ -1,17 +1,11 @@
 - disproportionately
   - 发音
-    - 英
-      - `/ˌdɪsprə'pɔ:ʃənətlɪ/`
-    - 美
-      - `/,disprə'pɔ:ʃənitli/`
+    - 英 /ˌdɪsprə'pɔ:ʃənətlɪ/
+    - 美 /,disprə'pɔ:ʃənitli/
   - 词义
-    - adv.
-      - 比例不均地，不成比例地
+    - adv. 比例不均地，不成比例地
   - 同根词
-    - adj.
-      - `disproportionate`
-        - 不成比例的
+    - adj. disproportionate 不成比例的
   - 例句
-    - `The lower-paid spend a disproportionately large amount of their earnings on food.`
-      - 低工资者将收入花在食物上的比例很大。
-
+    - Johnson’s aversion to this tax was part of his reluctance to ask for any sacrifices for the Vietnam War -- except from the disproportionately blue-collar army that was fighting it. 约翰逊对这项税的反感，部分是因为除了浴血奋战的不成比例的蓝领军人外，他犹豫要不要要求其他人为越战做出一点点牺牲。
+  - 补充

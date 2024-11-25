@@ -1,27 +1,19 @@
 - disastrous
   - 发音
-    - 英
-      - `/dɪ'zæstrəs/`
-    - 美
-      - `/dɪ'zæstrəs/`
+    - 英 /dɪ'zæstrəs/
+    - 美 /dɪ'zæstrəs/
   - 词义
-    - adj.
-      - 灾难性的
-        - `very bad, or ending in failure`
+    - adj. 灾难性的
+      - very bad, or ending in failure
   - 记忆
     - 来自disaster(n. 灾难)
   - 同根词
-    - adv.
-      - `disastrously`
-        - 悲惨地
+    - adv. disastrously 悲惨地
   - 近义词
-    - adj.
-      - 灾难性的；损失惨重的；悲伤的
-        - `sinister`
-        - `sorrowful`
+    - adj. 灾难性的；损失惨重的；悲伤的
+      - sinister
+      - sorrowful
   - 例句
-    - `a disastrous first marriage`
-      - 以失败告终的第一次婚姻
-    - `The move proved disastrous (= was disastrous ) for the company.`
-      - 这一行动对公司来说是一场灾难。
-
+    - a disastrous first marriage 以失败告终的第一次婚姻
+    - The move proved disastrous (= was disastrous ) for the company. 这一行动对公司来说是一场灾难。
+  - 补充

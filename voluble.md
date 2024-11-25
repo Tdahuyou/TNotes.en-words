@@ -1,25 +1,18 @@
 - voluble
   - 发音
-    - 英
-      - `/'vɔljubl/`
-    - 美
-      - `/'vɑljəbl/`
+    - 英 /'vɔljubl/
+    - 美 /'vɑljəbl/
   - 词义
-    - adj.
-      - 易旋转的；流利的，健谈的
-        - `talking a lot or talking quickly`
+    - adj. 易旋转的；流利的，健谈的
+      - talking a lot or talking quickly
   - 记忆
     - volu (看作volume， 音量) + ble → 谈话中音量一直没变 → 健谈的
   - 同根词
-    - n.
-      - `volubility`
-        - 流利；健谈
+    - n. volubility 流利；健谈
   - 近义词
-    - adj.
-      - 健谈的；缠绕的；易旋转的
-        - `talkable`
-        - `communicative`
+    - adj. 健谈的；缠绕的；易旋转的
+      - talkable
+      - communicative
   - 例句
-    - `Clarissa was extremely voluble on the subject of good manners.`
-      - 克拉丽莎谈起礼仪这个话题便口若悬河。
-
+    - Clarissa was extremely voluble on the subject of good manners. 克拉丽莎谈起礼仪这个话题便口若悬河。
+  - 补充

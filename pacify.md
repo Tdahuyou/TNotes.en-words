@@ -1,38 +1,25 @@
 - pacify
   - 发音
-    - 英
-      - `/'pæsifai/`
-    - 美
-      - `/'pæsə'fai/`
+    - 英 /'pæsifai/
+    - 美 /'pæsə'fai/
   - 词义
-    - v.
-      - 使平静，安慰，抚慰
-        - `to make someone calm, quiet, and satisfied after they have been angry or upset`
+    - v. 使平静，安慰，抚慰
+      - to make someone calm, quiet, and satisfied after they have been angry or upset
   - 记忆
     - pac (和平， 平静) + ify (使) → 使平静
   - 同根词
-    - adj.
-      - `pacific`
-        - 和平的；温和的；平静的
-      - `pacifist`
-        - 非战主义的
-    - n.
-      - `pacifist`
-        - 和平主义者
-      - `pacification`
-        - 和解；平定；讲和；绥靖
-      - `pacificism`
-        - 和平主义（等于pacifism）
-      - `pacificist`
-        - 和平主义者；反战主义者
+    - adj. pacific 和平的；温和的；平静的
+    - adj. pacifist 非战主义的
+    - n. pacifist 和平主义者
+    - n. pacification 和解；平定；讲和；绥靖
+    - n. pacificism 和平主义（等于pacifism）
+    - n. pacificist 和平主义者；反战主义者
   - 近义词
-    - vt.
-      - 使平静；安慰；平定
-        - `calm`
-        - `comfort`
-        - `quiet`
-        - `compose`
+    - vt. 使平静；安慰；平定
+      - calm
+      - comfort
+      - quiet
+      - compose
   - 例句
-    - `‘You’re right,’ Rita said, in order to pacify him.`
-      - “你是对的。”丽塔安抚他道。
-
+    - ‘You’re right,’ Rita said, in order to pacify him. “你是对的。”丽塔安抚他道。
+  - 补充

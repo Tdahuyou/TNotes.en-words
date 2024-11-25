@@ -1,49 +1,28 @@
 - naturally
   - 发音
-    - 英
-      - `/'nætʃrəli/`
-    - 美
-      - `/'nætʃrəli/`
+    - 英 /'nætʃrəli/
+    - 美 /'nætʃrəli/
   - 词义
-    - adv.
-      - 当然，自然；天生地
-        - `use this to say that something is normal and not surprising`
+    - adv. 当然，自然；天生地
+      - use this to say that something is normal and not surprising
   - 同根词
-    - adj.
-      - `natural`
-        - 自然的；物质的；天生的；不做作的
-      - `naturalist`
-        - 自然的（等于naturalistic）；自然主义的；博物学的
-      - `naturalistic`
-        - 自然的；自然主义的；博物学的
-      - `naturalized`
-        - 归化的；入籍的；[动] 自然化的；驯化的
-    - n.
-      - `nature`
-        - 自然；性质；本性；种类
-      - `natural`
-        - 自然的事情；白痴；本位音
-      - `naturalist`
-        - 自然主义者；博物学者；（英）动物标本剥制者；买卖玩赏动物的商人
-      - `naturalism`
-        - 自然主义；本能行动；自然论
-      - `naturalness`
-        - 当然，自然
-      - `naturism`
-        - 对自然现象的崇拜；裸体主义
-      - `naturopath`
-        - 理疗家；自然疗者
-    - v.
-      - `naturalized`
-        - 使自然化；接受…入国籍；采纳（naturalize的过去式和过去分词）
+    - adj. natural 自然的；物质的；天生的；不做作的
+    - adj. naturalist 自然的（等于naturalistic）；自然主义的；博物学的
+    - adj. naturalistic 自然的；自然主义的；博物学的
+    - adj. naturalized 归化的；入籍的；[动] 自然化的；驯化的
+    - n. nature 自然；性质；本性；种类
+    - n. natural 自然的事情；白痴；本位音
+    - n. naturalist 自然主义者；博物学者；（英）动物标本剥制者；买卖玩赏动物的商人
+    - n. naturalism 自然主义；本能行动；自然论
+    - n. naturalness 当然，自然
+    - n. naturism 对自然现象的崇拜；裸体主义
+    - n. naturopath 理疗家；自然疗者
+    - v. naturalized 使自然化；接受…入国籍；采纳（naturalize的过去式和过去分词）
   - 近义词
-    - adv.
-      - 自然地
-        - `spontaneously`
-        - `unaffectedly`
+    - adv. 自然地
+      - spontaneously
+      - unaffectedly
   - 例句
-    - `Naturally, you’ll want to discuss this with your wife.`
-      - 当然，你一定想和你妻子商量一下这件事。
-    - `Naturally enough, she wanted her child to grow up fit and strong.`
-      - 很自然，她希望自己的孩子健康茁壮地成长。
-
+    - Naturally, you’ll want to discuss this with your wife. 当然，你一定想和你妻子商量一下这件事。
+    - Naturally enough, she wanted her child to grow up fit and strong. 很自然，她希望自己的孩子健康茁壮地成长。
+  - 补充

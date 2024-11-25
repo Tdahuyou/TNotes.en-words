@@ -1,40 +1,27 @@
 - allocate
   - 发音
-    - 英
-      - `/'æləkeɪt/`
-    - 美
-      - `/'æləket/`
+    - 英 /'æləkeɪt/
+    - 美 /'æləket/
   - 词义
-    - vt.
-      - 分配，分派，把…拨给
-        - `to use something for a particular purpose, give something to a particular person etc, especially after an official decision has been made`
+    - vt. 分配，分派，把…拨给
+      - to use something for a particular purpose, give something to a particular person etc, especially after an official decision has been made
   - 记忆
     - al(=ad向) + loc(地方) + ate → 给予不同的地方 → 分配
   - 同根词
-    - adj.
-      - `allocable`
-        - 可拨出的；可分配的
-    - n.
-      - `allocation`
-        - 分配，配置；安置
-      - `allocator`
-        - 分配算符
+    - adj. allocable 可拨出的；可分配的
+    - n. allocation 分配，配置；安置
+    - n. allocator 分配算符
   - 近义词
-    - vt.
-      - 分配；拨出；使坐落于
-        - `portion`
-        - `part`
-        - `appropriate`
-    - vi.
-      - 分配；指定
-        - `parcel out`
-        - `to assign`
+    - vt. 分配；拨出；使坐落于
+      - portion
+      - part
+      - appropriate
+    - vi. 分配；指定
+      - parcel out
+      - to assign
   - 短语
-    - `allocate funds`
-      - 拨款；分配资金 
-    - `allocate for`
-      - 为…而分配；把…拨给 
+    - allocate funds 拨款；分配资金
+    - allocate for 为…而分配；把…拨给
   - 例句
-    - `Tickets are limited and will be allocated to those who apply first.`
-      - 票数有限，将分配给那些先申请的人。
-
+    - Tickets are limited and will be allocated to those who apply first. 票数有限，将分配给那些先申请的人。
+  - 补充

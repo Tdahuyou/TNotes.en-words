@@ -1,21 +1,16 @@
 - unintended
   - 发音
-    - 英
-      - `/ˌʌnɪnˈtendɪd/`
-    - 美
-      - `/,ʌnɪn'tɛndɪd/`
+    - 英 /ˌʌnɪnˈtendɪd/
+    - 美 /,ʌnɪn'tɛndɪd/
   - 词义
-    - adj.
-      - 意想不到的
-        - `Unintended results were not planned to happen, although they happened`
+    - adj. 意想不到的
+      - Unintended results were not planned to happen, although they happened
   - 近义词
-    - adj.
-      - 无意识的；非计划中的
-        - `mechanical`
-        - `automatic`
-        - `unconscious`
-        - `spontaneous`
+    - adj. 无意识的；非计划中的
+      - mechanical
+      - automatic
+      - unconscious
+      - spontaneous
   - 例句
-    - `...the unintended consequences of human action.`
-      - ...人类行为无心的结果。
-
+    - ...the unintended consequences of human action. ...人类行为无心的结果。
+  - 补充

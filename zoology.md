@@ -1,27 +1,17 @@
 - zoology
   - 发音
-    - 英
-      - `/zuː'ɒlədʒɪ; zəʊ-/`
-    - 美
-      - `/zəu'ɔlədʒi, zu:-/`
+    - 英 /zuː'ɒlədʒɪ; zəʊ-/
+    - 美 /zəu'ɔlədʒi, zu:-/
   - 词义
-    - n.
-      - 动物学,生态
-        - `the scientific study of animals and their behaviour`
+    - n. 动物学,生态
+      - the scientific study of animals and their behaviour
   - 同根词
-    - adj.
-      - `zoological`
-        - 动物学的；关于动物的
-    - n.
-      - `zoo`
-        - 动物园
-      - `zoologist`
-        - 动物学家
+    - adj. zoological 动物学的；关于动物的
+    - n. zoo 动物园
+    - n. zoologist 动物学家
   - 近义词
-    - n.
-      - [动]动物学；动物区系
-        - `fauna`
+    - n. [动]动物学；动物区系
+      - fauna
   - 例句
-    - `The scholarship money she won helped her attend Cornell University, where she majored in zoology.`
-      - 她赢得的奖学金帮助她上康奈尔大学，在那里他主修动物学。
-
+    - The scholarship money she won helped her attend Cornell University, where she majored in zoology. 她赢得的奖学金帮助她上康奈尔大学，在那里他主修动物学。
+  - 补充

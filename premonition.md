@@ -1,21 +1,16 @@
 - premonition
   - 发音
-    - 英
-      - `/ˌpremə'niʃən/`
-    - 美
-      - `/,prɛmə'nɪʃən/`
+    - 英 /ˌpremə'niʃən/
+    - 美 /,prɛmə'nɪʃən/
   - 词义
-    - n.
-      - 预先的警告；预感，前兆
-        - `a strange feeling that something, especially something bad, is going to happen`
+    - n. 预先的警告；预感，前兆
+      - a strange feeling that something, especially something bad, is going to happen
   - 记忆
     - pre (预先) + monit (警告) + ion → 预先的警告
   - 近义词
-    - n.
-      - 预告；征兆
-        - `symptom`
-        - `preliminary notice`
+    - n. 预告；征兆
+      - symptom
+      - preliminary notice
   - 例句
-    - `He had an unshakable premonition that he would die.`
-      - 他有一种强烈的预感：他就要死了。
-
+    - He had an unshakable premonition that he would die. 他有一种强烈的预感：他就要死了。
+  - 补充

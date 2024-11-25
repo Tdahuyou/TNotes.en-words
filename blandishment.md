@@ -1,24 +1,17 @@
 - blandishment
   - 发音
-    - 英
-      - `/'blændiʃmənt/`
-    - 美
-      - `/'blændiʃmənt/`
+    - 英 /'blændiʃmənt/
+    - 美 /'blændiʃmənt/
   - 词义
-    - n.
-      - 奉承，哄诱
+    - n. 奉承，哄诱
   - 记忆
     - 来自blandish (v. 讨好)
   - 同根词
-    - vi.
-      - `blandish`
-        - 谄媚；讨好；奉承
-    - vt.
-      - `blandish`
-        - 奉承；谄媚；讨好
+    - vi. blandish 谄媚；讨好；奉承
+    - vt. blandish 奉承；谄媚；讨好
   - 近义词
-    - n.
-      - 奉承；谄媚；哄诱
-        - `court`
-        - `flattery`
-        - `adulation`
+    - n. 奉承；谄媚；哄诱
+      - court
+      - flattery
+      - adulation
+  - 补充

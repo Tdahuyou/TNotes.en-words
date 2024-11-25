@@ -1,26 +1,18 @@
 - cemetery
   - 发音
-    - 英
-      - `/'semɪtrɪ/`
-    - 美
-      - `/'sɛmə'tɛri/`
+    - 英 /'semɪtrɪ/
+    - 美 /'sɛmə'tɛri/
   - 词义
-    - n.
-      - 墓地；公墓
-        - `a piece of land, usually not belonging to a church, in which dead people are buried`
+    - n. 墓地；公墓
+      - a piece of land, usually not belonging to a church, in which dead people are buried
   - 近义词
-    - n.
-      - 墓地；公墓
-        - `graveyard`
-        - `boneyard`
+    - n. 墓地；公墓
+      - graveyard
+      - boneyard
   - 短语
-    - `arlington national cemetery`
-      - 美国阿灵顿国家公墓 
+    - arlington national cemetery 美国阿灵顿国家公墓
   - 例句
-    - `Her father was laid in a cemetery.`
-      - 她父亲安葬在一处公墓。
-    - `The body was interred at that cemetery.`
-      - 尸体下葬在那个公墓。
-    - `He rests in a cemetery in the western suburbs of Beijing.`
-      - 他长眠于北京西郊的一个公墓中。
-
+    - Her father was laid in a cemetery. 她父亲安葬在一处公墓。
+    - The body was interred at that cemetery. 尸体下葬在那个公墓。
+    - He rests in a cemetery in the western suburbs of Beijing. 他长眠于北京西郊的一个公墓中。
+  - 补充

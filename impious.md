@@ -1,23 +1,16 @@
 - impious
   - 发音
-    - 英
-      - `/'ɪmpɪəs; ɪm'paɪəs/`
-    - 美
-      - `/'ɪmpɪəs/`
+    - 英 /'ɪmpɪəs; ɪm'paɪəs/
+    - 美 /'ɪmpɪəs/
   - 词义
-    - adj.
-      - 不虔诚的；不孝的；不敬的
-        - `lacking respect for religion or God`
+    - adj. 不虔诚的；不孝的；不敬的
+      - lacking respect for religion or God
   - 同根词
-    - adv.
-      - `impiously`
-        - 不信神地；不虔诚地
+    - adv. impiously 不信神地；不虔诚地
   - 近义词
-    - adj.
-      - 不虔诚的；不孝的；不敬的
-        - `indevout`
-        - `unfilial`
+    - adj. 不虔诚的；不孝的；不敬的
+      - indevout
+      - unfilial
   - 例句
-    - `an impious crime`
-      - 大不敬之罪
-
+    - an impious crime 大不敬之罪
+  - 补充

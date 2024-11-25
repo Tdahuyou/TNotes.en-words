@@ -1,18 +1,13 @@
 - freebie
   - 发音
-    - 英
-      - `/'friːbɪ/`
-    - 美
-      - `/undefined/`
+    - 英 /'friːbɪ/
+    - 美 /undefined/
   - 词义
-    - n.
-      - 免费的东西；免费赠品（尤指戏院赠券）
-        - `something that you are given free, usually by a company`
+    - n. 免费的东西；免费赠品（尤指戏院赠券）
+      - something that you are given free, usually by a company
   - 近义词
-    - n.
-      - 免费的东西；免费赠品（尤指戏院赠券）
-        - `lagniappe`
+    - n. 免费的东西；免费赠品（尤指戏院赠券）
+      - lagniappe
   - 例句
-    - `It's a freebie I got at the carnival.`
-      - 这是我在嘉年华得的免费赠品。
-
+    - It's a freebie I got at the carnival. 这是我在嘉年华得的免费赠品。
+  - 补充

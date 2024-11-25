@@ -1,22 +1,15 @@
 - columnist
   - 发音
-    - 英
-      - `/'kɒləm(n)ɪst/`
-    - 美
-      - `/'kɑləmnɪst/`
+    - 英 /'kɒləm(n)ɪst/
+    - 美 /'kɑləmnɪst/
   - 词义
-    - n.
-      - 专栏作家
-        - `someone who writes articles, especially about a particular subject, that appear regularly in a newspaper or magazine`
+    - n. 专栏作家
+      - someone who writes articles, especially about a particular subject, that appear regularly in a newspaper or magazine
   - 同根词
-    - n.
-      - `column`
-        - 纵队，列；专栏；圆柱，柱形物
+    - n. column 纵队，列；专栏；圆柱，柱形物
   - 近义词
-    - n.
-      - 专栏作家
-        - `big foot`
+    - n. 专栏作家
+      - big foot
   - 例句
-    - `Clarence Page is a columnist for the Chicago Tribune.`
-      - 克拉伦斯·佩奇是《芝加哥论坛报》的专栏记者。
-
+    - Clarence Page is a columnist for the Chicago Tribune. 克拉伦斯·佩奇是《芝加哥论坛报》的专栏记者。
+  - 补充

@@ -1,28 +1,20 @@
 - tout
   - 发音
-    - 英
-      - `/taut/`
-    - 美
-      - `/taʊt/`
+    - 英 /taut/
+    - 美 /taʊt/
   - 词义
-    - v.
-      - 吹捧；兜售
-        - `to praise something or someone in order to persuade people that they are important or worth a lot`
+    - v. 吹捧；兜售
+      - to praise something or someone in order to persuade people that they are important or worth a lot
   - 记忆
     - t + out(在外面) → 去外面兜售商品 → 兜售
   - 同根词
-    - n.
-      - `touter`
-        - 招徕顾客者（等于tout）；探查并供给赛马之情报者
+    - n. touter 招徕顾客者（等于tout）；探查并供给赛马之情报者
   - 近义词
-    - vt.
-      - 兜售；招徕；刺探赛马情报
-        - `drum up`
-        - `hawk`
-    - vi.
-      - 兜售；[贸易]招徕顾客；拉选票
-        - `seek a vote`
+    - vt. 兜售；招徕；刺探赛马情报
+      - drum up
+      - hawk
+    - vi. 兜售；[贸易]招徕顾客；拉选票
+      - seek a vote
   - 例句
-    - `his much touted musical`
-      - 他那出备受推崇的音乐剧
-
+    - his much touted musical 他那出备受推崇的音乐剧
+  - 补充

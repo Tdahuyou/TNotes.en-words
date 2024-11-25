@@ -1,18 +1,13 @@
 - volubility
   - 发音
-    - 英
-      - `/undefined/`
-    - 美
-      - `/undefined/`
+    - 英 /undefined/
+    - 美 /undefined/
   - 词义
-    - n.
-      - 流利
+    - n. 流利
   - 同根词
-    - adj.
-      - `voluble`
-        - 健谈的；缠绕的；易旋转的
+    - adj. voluble 健谈的；缠绕的；易旋转的
   - 近义词
-    - n.
-      - 流利；健谈
-        - `fluency`
-        - `communicativeness`
+    - n. 流利；健谈
+      - fluency
+      - communicativeness
+  - 补充

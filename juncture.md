@@ -1,25 +1,19 @@
 - juncture
   - 发音
-    - 英
-      - `/'dʒʌŋktʃə/`
-    - 美
-      - `/'dʒʌŋktʃɚ/`
+    - 英 /'dʒʌŋktʃə/
+    - 美 /'dʒʌŋktʃɚ/
   - 词义
-    - n.
-      - 交界处，接合点
+    - n. 交界处，接合点
   - 记忆
     - junct (连接) + ure (表行为的结果) → 接合点
   - 同根词
-    - n.
-      - `junction`
-        - 连接，接合；交叉点；接合点
+    - n. junction 连接，接合；交叉点；接合点
   - 近义词
-    - n.
-      - [机]接缝；[计]连接；接合
-        - `connection`
-        - `join`
-        - `linking`
-        - `seam`
+    - n. [机]接缝；[计]连接；接合
+      - connection
+      - join
+      - linking
+      - seam
   - 短语
-    - `at this juncture`
-      - 在此时，值此之际 
+    - at this juncture 在此时，值此之际
+  - 补充

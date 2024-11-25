@@ -1,15 +1,12 @@
 - rudiments
   - 发音
-    - 英
-      - `/undefined/`
-    - 美
-      - `/'ru:dimənts/`
+    - 英 /undefined/
+    - 美 /'ru:dimənts/
   - 词义
-    - n.
-      - n初步；入门
-        - `the most basic parts of a subject, which you learn first`
+    - n. n初步；入门
+      - the most basic parts of a subject, which you learn first
   - 近义词
-    - n.
-      - 入门；初步；基础知识
-        - `alphabet`
-        - `ABC`
+    - n. 入门；初步；基础知识
+      - alphabet
+      - ABC
+  - 补充

@@ -1,14 +1,11 @@
 - farrago
   - 发音
-    - 英
-      - `/fə'rɑːgəʊ/`
-    - 美
-      - `/fə'rɑɡo/`
+    - 英 /fə'rɑːgəʊ/
+    - 美 /fə'rɑɡo/
   - 词义
-    - n.
-      - 混杂,混杂物
+    - n. 混杂,混杂物
   - 近义词
-    - n.
-      - 混杂物；混杂
-        - `macedoine`
-        - `mishmash`
+    - n. 混杂物；混杂
+      - macedoine
+      - mishmash
+  - 补充

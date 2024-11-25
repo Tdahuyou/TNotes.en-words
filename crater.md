@@ -1,29 +1,21 @@
 - crater
   - 发音
-    - 英
-      - `/'kreɪtər/`
-    - 美
-      - `/'kretɚ/`
+    - 英 /'kreɪtər/
+    - 美 /'kretɚ/
   - 词义
-    - n.
-      - 火山口；坑
-        - `a round hole in the ground made by something that has fallen on it or by an explosion`
+    - n. 火山口；坑
+      - a round hole in the ground made by something that has fallen on it or by an explosion
   - 近义词
-    - n.
-      - [地质]火山口；弹坑
-        - `volcanic vent`
-        - `dead hole`
-    - vt.
-      - 在…上形成坑；取消；毁坏
-        - `destroy`
-        - `damage`
-        - `recall`
+    - n. [地质]火山口；弹坑
+      - volcanic vent
+      - dead hole
+    - vt. 在…上形成坑；取消；毁坏
+      - destroy
+      - damage
+      - recall
   - 短语
-    - `crater lake`
-      - n. 火山口形成的深湖 
-    - `explosion crater`
-      - 爆裂火口；爆破漏斗 
+    - crater lake n. 火山口形成的深湖
+    - explosion crater 爆裂火口；爆破漏斗
   - 例句
-    - `craters on the moon’s surface`
-      - 月球表面的坑
-
+    - craters on the moon’s surface 月球表面的坑
+  - 补充

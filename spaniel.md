@@ -1,30 +1,19 @@
 - spaniel
   - 发音
-    - 英
-      - `/'spænj(ə)l/`
-    - 美
-      - `/'spænjəl/`
+    - 英 /'spænj(ə)l/
+    - 美 /'spænjəl/
   - 词义
-    - n.
-      - 西班牙猎犬；恭顺的人
-        - `a type of dog with long ears that hang down`
-    - vi.
-      - 嬉戏
-    - vt.
-      - 向…摇尾乞怜
+    - n. 西班牙猎犬；恭顺的人
+      - a type of dog with long ears that hang down
+    - vi. 嬉戏
+    - vt. 向…摇尾乞怜
   - 同根词
-    - adj.
-      - `spanish`
-        - 西班牙的；西班牙语的；西班牙人的
-    - n.
-      - `spanish`
-        - 西班牙语；西班牙人
+    - adj. spanish 西班牙的；西班牙语的；西班牙人的
+    - n. spanish 西班牙语；西班牙人
   - 近义词
-    - vi.
-      - 嬉戏
-        - `frolic`
+    - vi. 嬉戏
+      - frolic
   - 短语
-    - `cocker spaniel`
-      - n. 一种英国的小猎犬 
-    - `springer spaniel`
-      - 史宾格犬 
+    - cocker spaniel n. 一种英国的小猎犬
+    - springer spaniel 史宾格犬
+  - 补充

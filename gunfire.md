@@ -1,21 +1,15 @@
 - gunfire
   - 发音
-    - 英
-      - `/'gʌnfaɪə/`
-    - 美
-      - `/'ɡʌnfaɪɚ/`
+    - 英 /'gʌnfaɪə/
+    - 美 /'ɡʌnfaɪɚ/
   - 词义
-    - n.
-      - 炮火
-        - `the repeated shooting of guns, or the noise made by this`
+    - n. 炮火
+      - the repeated shooting of guns, or the noise made by this
   - 近义词
-    - n.
-      - [军]炮火；炮火声
-        - `fire`
-        - `shellfire`
+    - n. [军]炮火；炮火声
+      - fire
+      - shellfire
   - 例句
-    - `I heard a burst of distant gunfire .`
-      - 我听到远处一阵炮响。
-    - `Two men were shot in an exchange of gunfire with the police.`
-      - 两名男子在与警方的交火中被击中。
-
+    - I heard a burst of distant gunfire . 我听到远处一阵炮响。
+    - Two men were shot in an exchange of gunfire with the police. 两名男子在与警方的交火中被击中。
+  - 补充

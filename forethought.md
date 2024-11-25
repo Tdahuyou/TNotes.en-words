@@ -1,24 +1,16 @@
 - forethought
   - 发音
-    - 英
-      - `/'fɔːθɔːt/`
-    - 美
-      - `/'fɔr'θɔt/`
+    - 英 /'fɔːθɔːt/
+    - 美 /'fɔr'θɔt/
   - 词义
-    - n.
-      - 深谋远虑；先见；考虑将来
-    - adj.
-      - 预先计划好的
+    - n. 深谋远虑；先见；考虑将来
+    - adj. 预先计划好的
   - 同根词
-    - adj.
-      - `forethoughtful`
-        - 深谋远虑的；有先见之明的
+    - adj. forethoughtful 深谋远虑的；有先见之明的
   - 近义词
-    - n.
-      - 深谋远虑；先见；考虑将来
-        - `providence`
-        - `prescience`
+    - n. 深谋远虑；先见；考虑将来
+      - providence
+      - prescience
   - 例句
-    - `The moral of this article is that a little forethought can pay off tremendously.`
-      - 本文给我们的启示是：一点点深谋远虑可以带来极大的回报。
-
+    - The moral of this article is that a little forethought can pay off tremendously. 本文给我们的启示是：一点点深谋远虑可以带来极大的回报。
+  - 补充

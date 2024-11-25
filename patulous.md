@@ -1,19 +1,14 @@
 - patulous
   - 发音
-    - 英
-      - `/'pætjʊləs/`
-    - 美
-      - `/'pætjʊləs/`
+    - 英 /'pætjʊləs/
+    - 美 /'pætjʊləs/
   - 词义
-    - adj.
-      - 扩展的,张开的
-        - `spreading widely or expanded `
+    - adj. 扩展的,张开的
+      - spreading widely or expanded 
   - 近义词
-    - adj.
-      - 扩展的；张开的；伸展的（等于patulent）
-        - `expanding`
-        - `spread`
+    - adj. 扩展的；张开的；伸展的（等于patulent）
+      - expanding
+      - spread
   - 例句
-    - `patulous branches`
-      - 
-
+    - patulous branches 
+  - 补充

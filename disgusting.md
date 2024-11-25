@@ -1,46 +1,27 @@
 - disgusting
   - 发音
-    - 英
-      - `/dɪs'gʌstɪŋ/`
-    - 美
-      - `/dɪs'ɡʌstɪŋ/`
+    - 英 /dɪs'gʌstɪŋ/
+    - 美 /dɪs'ɡʌstɪŋ/
   - 词义
-    - adj.
-      - 使人反感的；令人厌恶的
-        - `extremely unpleasant and making you feel sick`
+    - adj. 使人反感的；令人厌恶的
+      - extremely unpleasant and making you feel sick
   - 记忆
     - dis(不) ＋ gust(风味) → 不喜欢这个味道 → 厌恶
   - 同根词
-    - adj.
-      - `disgusted`
-        - 厌恶的；厌烦的
-      - `disgustful`
-        - 厌腻的；充满厌恶的
-    - adv.
-      - `disgustedly`
-        - 厌烦地
-      - `disgustingly`
-        - 讨厌地
-    - n.
-      - `disgust`
-        - 厌恶，嫌恶
-    - v.
-      - `disgusted`
-        - 使恶心；使讨厌（disgust的过去分词）
-    - vt.
-      - `disgust`
-        - 使厌恶；使作呕
+    - adj. disgusted 厌恶的；厌烦的
+    - adj. disgustful 厌腻的；充满厌恶的
+    - adv. disgustedly 厌烦地
+    - adv. disgustingly 讨厌地
+    - n. disgust 厌恶，嫌恶
+    - v. disgusted 使恶心；使讨厌（disgust的过去分词）
+    - vt. disgust 使厌恶；使作呕
   - 近义词
-    - adj.
-      - 令人厌恶的
-        - `ugly`
-        - `sickening`
+    - adj. 令人厌恶的
+      - ugly
+      - sickening
   - 短语
-    - `in disgust`
-      - 厌恶的；讨厌 
+    - in disgust 厌恶的；讨厌
   - 例句
-    - `Rubbish was piled everywhere – it was disgusting.`
-      - 垃圾堆得到处都是，很恶心。
-    - `Smoking is a really disgusting habit.`
-      - 吸烟是一种十分令人讨厌的习惯。
-
+    - Rubbish was piled everywhere – it was disgusting. 垃圾堆得到处都是，很恶心。
+    - Smoking is a really disgusting habit. 吸烟是一种十分令人讨厌的习惯。
+  - 补充

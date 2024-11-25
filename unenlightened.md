@@ -1,22 +1,17 @@
 - unenlightened
   - 发音
-    - 英
-      - `/ˌʌnɪn'laɪtnd/`
-    - 美
-      - `/,ʌnɪn'laɪtnd/`
+    - 英 /ˌʌnɪn'laɪtnd/
+    - 美 /,ʌnɪn'laɪtnd/
   - 词义
-    - adj.
-      - 愚昧无知的；不文明的
-        - `not well-informed, tolerant, or rational `
+    - adj. 愚昧无知的；不文明的
+      - not well-informed, tolerant, or rational 
   - 记忆
     - un(不) + enlightened(有知识的， 开明的) → 愚昧无知的
   - 近义词
-    - adj.
-      - 落后的；无知的；未受启迪的
-        - `dark`
-        - `empty`
-        - `innocent`
+    - adj. 落后的；无知的；未受启迪的
+      - dark
+      - empty
+      - innocent
   - 例句
-    - `a most backward, unenlightened nation`
-      - 
-
+    - a most backward, unenlightened nation 
+  - 补充

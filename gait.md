@@ -1,21 +1,16 @@
 - gait
   - 发音
-    - 英
-      - `/geɪt/`
-    - 美
-      - `/ɡet/`
+    - 英 /geɪt/
+    - 美 /ɡet/
   - 词义
-    - n.
-      - 步法，步态
-        - `the way someone walks`
+    - n. 步法，步态
+      - the way someone walks
   - 记忆
     - 等(wait)没人注意到自己的步法(gait)时才敢走
   - 近义词
-    - n.
-      - 步法，步态
-        - `pace`
-        - `footwork`
+    - n. 步法，步态
+      - pace
+      - footwork
   - 例句
-    - `a slow shuffling gait`
-      - 迟缓拖沓的步子
-
+    - a slow shuffling gait 迟缓拖沓的步子
+  - 补充

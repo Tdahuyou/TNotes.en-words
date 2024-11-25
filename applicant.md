@@ -1,28 +1,20 @@
 - applicant
   - 发音
-    - 英
-      - `/'æplɪkənt/`
-    - 美
-      - `/'æplɪkənt/`
+    - 英 /'æplɪkənt/
+    - 美 /'æplɪkənt/
   - 词义
-    - n.
-      - 申请者
-        - `someone who has formally asked, usually in writing, for a job, university place etc`
+    - n. 申请者
+      - someone who has formally asked, usually in writing, for a job, university place etc
   - 记忆
     - 来自apply(v. 申请)
   - 同根词
-    - n.
-      - `application`
-        - 应用；申请；应用程序；敷用
+    - n. application 应用；申请；应用程序；敷用
   - 近义词
-    - n.
-      - [专利]申请人，申请者；请求者
-        - `postulant`
-        - `proposer`
+    - n. [专利]申请人，申请者；请求者
+      - postulant
+      - proposer
   - 短语
-    - `job applicant`
-      - 求职人员 
+    - job applicant 求职人员
   - 例句
-    - `We have had lots of applicants for these positions.`
-      - 对这些职位我们已有了很多申请人。
-
+    - We have had lots of applicants for these positions. 对这些职位我们已有了很多申请人。
+  - 补充

@@ -1,36 +1,19 @@
 - tantalise
   - 发音
-    - 英
-      - `/undefined/`
-    - 美
-      - `/undefined/`
+    - 英 /undefined/
+    - 美 /undefined/
   - 词义
-    - v.
-      - 使…干着急；逗弄（等于tantalize）
+    - v. 使…干着急；逗弄（等于tantalize）
   - 同根词
-    - adj.
-      - `tantalizing`
-        - 撩人的；逗引性的；干着急的
-      - `tantalising`
-        - 诱人的（等于tantalizing）；挑逗的
-    - adv.
-      - `tantalizingly`
-        - 逗人地；…得令人着急
-    - n.
-      - `tantalization`
-        - 逗弄；使干着急；难熬
-    - v.
-      - `tantalizing`
-        - 惹弄；逗弄人（tantalize的ing形式）
-      - `tantalising`
-        - 惹弄（tantalise的ing形式）
-    - vi.
-      - `tantalize`
-        - 逗弄人；令人干着急
-    - vt.
-      - `tantalize`
-        - 逗弄；使干着急
+    - adj. tantalizing 撩人的；逗引性的；干着急的
+    - adj. tantalising 诱人的（等于tantalizing）；挑逗的
+    - adv. tantalizingly 逗人地；…得令人着急
+    - n. tantalization 逗弄；使干着急；难熬
+    - v. tantalizing 惹弄；逗弄人（tantalize的ing形式）
+    - v. tantalising 惹弄（tantalise的ing形式）
+    - vi. tantalize 逗弄人；令人干着急
+    - vt. tantalize 逗弄；使干着急
   - 近义词
-    - vt.
-      - 使…干着急；逗弄（等于tantalize）
-        - `banter`
+    - vt. 使…干着急；逗弄（等于tantalize）
+      - banter
+  - 补充

@@ -1,31 +1,20 @@
 - dignity
   - 发音
-    - 英
-      - `/'dɪgnəti/`
-    - 美
-      - `/'dɪɡnəti/`
+    - 英 /'dɪgnəti/
+    - 美 /'dɪɡnəti/
   - 词义
-    - n.
-      - 尊严，庄严；高贵，尊贵；自尊，自重
-        - `the ability to behave in a calm controlled way even in a difficult situation`
+    - n. 尊严，庄严；高贵，尊贵；自尊，自重
+      - the ability to behave in a calm controlled way even in a difficult situation
   - 记忆
     - dign(有价值的) + ity → 高贵
   - 同根词
-    - adj.
-      - `dignified`
-        - 庄严的；有尊严的；高贵的
-    - v.
-      - `dignified`
-        - 使高贵（dignify的过去式）
-    - vt.
-      - `dignify`
-        - 使高贵；增威严；授以荣誉
+    - adj. dignified 庄严的；有尊严的；高贵的
+    - v. dignified 使高贵（dignify的过去式）
+    - vt. dignify 使高贵；增威严；授以荣誉
   - 近义词
-    - n.
-      - 尊严；高贵
-        - `sanctity`
-        - `nobility`
+    - n. 尊严；高贵
+      - sanctity
+      - nobility
   - 例句
-    - `an appearance of quiet dignity`
-      - 肃穆的神态
-
+    - an appearance of quiet dignity 肃穆的神态
+  - 补充

@@ -1,39 +1,24 @@
 - subjection
   - 发音
-    - 英
-      - `/səb'dʒekʃən/`
-    - 美
-      - `/undefined/`
+    - 英 /səb'dʒekʃən/
+    - 美 /undefined/
   - 词义
-    - n.
-      - 征服
-        - `when a person or a group of people are controlled by a government or by another person`
+    - n. 征服
+      - when a person or a group of people are controlled by a government or by another person
   - 记忆
     - 来自subject (使服从， 使隶属) + ion → 征服； 臣服
   - 同根词
-    - adj.
-      - `subject`
-        - 服从的；易患…的；受制于…的
-    - n.
-      - `subject`
-        - 主题；科目；[语] 主语；国民
-      - `subgroup`
-        - 小群；隶属的小组织
-      - `subjugation`
-        - 征服；镇压；克制
-    - vt.
-      - `subject`
-        - 使…隶属；使屈从于…
-      - `subjugate`
-        - 征服；使服从；克制
-      - `subgroup`
-        - 给…加副标题
+    - adj. subject 服从的；易患…的；受制于…的
+    - n. subject 主题；科目；[语] 主语；国民
+    - n. subgroup 小群；隶属的小组织
+    - n. subjugation 征服；镇压；克制
+    - vt. subject 使…隶属；使屈从于…
+    - vt. subjugate 征服；使服从；克制
+    - vt. subgroup 给…加副标题
   - 近义词
-    - n.
-      - 隶属；服从；征服
-        - `compliance`
-        - `obedience`
+    - n. 隶属；服从；征服
+      - compliance
+      - obedience
   - 例句
-    - `the subjection of women`
-      - 妇女的从属地位
-
+    - the subjection of women 妇女的从属地位
+  - 补充

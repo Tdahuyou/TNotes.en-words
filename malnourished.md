@@ -1,23 +1,16 @@
 - malnourished
   - 发音
-    - 英
-      - `/ˌmælˈnʌrɪʃt/`
-    - 美
-      - `/,mæl'nɝɪʃt/`
+    - 英 /ˌmælˈnʌrɪʃt/
+    - 美 /,mæl'nɝɪʃt/
   - 词义
-    - adj.
-      - 营养不良的
-        - `someone who is malnourished is ill or weak because they have not had enough good food to eat`
+    - adj. 营养不良的
+      - someone who is malnourished is ill or weak because they have not had enough good food to eat
   - 同根词
-    - n.
-      - `malnutrition`
-        - 营养失调，营养不良
+    - n. malnutrition 营养失调，营养不良
   - 近义词
-    - adj.
-      - 营养不良的；营养失调的
-        - `ill-fed`
-        - `dystrophic`
+    - adj. 营养不良的；营养失调的
+      - ill-fed
+      - dystrophic
   - 例句
-    - `malnourished children`
-      - 营养不良的儿童
-
+    - malnourished children 营养不良的儿童
+  - 补充

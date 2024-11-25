@@ -1,21 +1,16 @@
 - underling
   - 发音
-    - 英
-      - `/'ʌndəliŋ/`
-    - 美
-      - `/'ʌndɚlɪŋ/`
+    - 英 /'ʌndəliŋ/
+    - 美 /'ʌndɚlɪŋ/
   - 词义
-    - n.
-      - 部下，下属；走卒
-        - `an insulting word for someone who has a low rank – often used humorously`
+    - n. 部下，下属；走卒
+      - an insulting word for someone who has a low rank – often used humorously
   - 记忆
     - under (副手) + ling (小) → 小副手 → 部下， 下属
   - 近义词
-    - n.
-      - 下属，部下；走卒
-        - `subordinate`
-        - `inferiority`
+    - n. 下属，部下；走卒
+      - subordinate
+      - inferiority
   - 例句
-    - `...underlings who do the dirty work.`
-      - ...干肮脏勾当的走卒们。
-
+    - ...underlings who do the dirty work. ...干肮脏勾当的走卒们。
+  - 补充

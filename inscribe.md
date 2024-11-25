@@ -1,28 +1,19 @@
 - inscribe
   - 发音
-    - 英
-      - `/ɪn'skraɪb/`
-    - 美
-      - `/ɪn'skraɪb/`
+    - 英 /ɪn'skraɪb/
+    - 美 /ɪn'skraɪb/
   - 词义
-    - v.
-      - 写、题、铭刻；铭记
-        - `to carefully cut, print, or write words on something, especially on the surface of a stone or coin`
+    - v. 写、题、铭刻；铭记
+      - to carefully cut, print, or write words on something, especially on the surface of a stone or coin
   - 记忆
     - in(进入) + scrib(写) + e → 写进去 → 铭刻
   - 同根词
-    - adj.
-      - `inscribed`
-        - 内切的；记名的；有铭刻的
-    - v.
-      - `inscribed`
-        - 题写；雕刻；内切（inscribe的过去分词）
+    - adj. inscribed 内切的；记名的；有铭刻的
+    - v. inscribed 题写；雕刻；内切（inscribe的过去分词）
   - 近义词
-    - vt.
-      - 题写；题献；铭记；雕
-        - `brand`
-        - `heart`
+    - vt. 题写；题献；铭记；雕
+      - brand
+      - heart
   - 例句
-    - `Inside the cover someone had inscribed the words ‘To Thomas, with love’.`
-      - 在书的内封上，有人题写了“托马斯惠存”几个字。
-
+    - Inside the cover someone had inscribed the words ‘To Thomas, with love’. 在书的内封上，有人题写了“托马斯惠存”几个字。
+  - 补充

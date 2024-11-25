@@ -1,57 +1,33 @@
 - classic
   - 发音
-    - 英
-      - `/'klæsɪk/`
-    - 美
-      - `/'klæsɪk/`
+    - 英 /'klæsɪk/
+    - 美 /'klæsɪk/
   - 词义
-    - adj.
-      - 经典的；典型的
-        - `having all the features that are typical or expected of a particular thing or situation`
-    - n.
-      - 经典作品；
-        - `a book, play, or film that is important and has been admired for a long time`
+    - adj. 经典的；典型的
+      - having all the features that are typical or expected of a particular thing or situation
+    - n. 经典作品；
+      - a book, play, or film that is important and has been admired for a long time
   - 同根词
-    - adj.
-      - `classical`
-        - 古典的；经典的；传统的；第一流的
-      - `classy`
-        - 优等的；上等的；漂亮的
-    - adv.
-      - `classically`
-        - 拟古地；古典主义地
-    - n.
-      - `classical`
-        - 古典音乐
-      - `classicism`
-        - 古典主义；古典风格
-      - `classicalism`
-        - 古典主义；模拟古典
-      - `classicist`
-        - 古典主义者；古典学者
-    - vi.
-      - `classicize`
-        - 仿古典风格；崇尚古典风格
-    - vt.
-      - `classicize`
-        - 模仿古典；作成古典式
+    - adj. classical 古典的；经典的；传统的；第一流的
+    - adj. classy 优等的；上等的；漂亮的
+    - adv. classically 拟古地；古典主义地
+    - n. classical 古典音乐
+    - n. classicism 古典主义；古典风格
+    - n. classicalism 古典主义；模拟古典
+    - n. classicist 古典主义者；古典学者
+    - vi. classicize 仿古典风格；崇尚古典风格
+    - vt. classicize 模仿古典；作成古典式
   - 近义词
-    - adj.
-      - 经典的；古典的，传统的；最优秀的
-        - `traditional`
-        - `conventional`
-    - n.
-      - 名著；经典著作；大艺术家
-        - `chefdoeuvre`
-        - `scriptures`
+    - adj. 经典的；古典的，传统的；最优秀的
+      - traditional
+      - conventional
+    - n. 名著；经典著作；大艺术家
+      - chefdoeuvre
+      - scriptures
   - 短语
-    - `classic style`
-      - 古典风格 
-    - `classic music`
-      - 古典音乐 
-    - `classic look`
-      - 经典款式 
+    - classic style 古典风格
+    - classic music 古典音乐
+    - classic look 经典款式
   - 例句
-    - `The Coca-Cola bottle is one of the classic designs of the last century.`
-      - 可口可乐瓶是上个世纪的经典设计之一。
-
+    - The Coca-Cola bottle is one of the classic designs of the last century. 可口可乐瓶是上个世纪的经典设计之一。
+  - 补充

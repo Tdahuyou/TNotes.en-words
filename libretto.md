@@ -1,19 +1,14 @@
 - libretto
   - 发音
-    - 英
-      - `/lɪ'bretəʊ/`
-    - 美
-      - `/lɪ'brɛto/`
+    - 英 /lɪ'bretəʊ/
+    - 美 /lɪ'brɛto/
   - 词义
-    - n.
-      - (歌剧、音乐剧等的)歌词（或剧本）
-        - `the words of an opera or musical play`
+    - n. (歌剧、音乐剧等的)歌词（或剧本）
+      - the words of an opera or musical play
   - 近义词
-    - n.
-      - 剧本；歌词集
-        - `drama`
-        - `scenario`
+    - n. 剧本；歌词集
+      - drama
+      - scenario
   - 例句
-    - `...the author of one or two opera librettos.`
-      - ...一两个歌剧的词作者。
-
+    - ...the author of one or two opera librettos. ...一两个歌剧的词作者。
+  - 补充

@@ -1,25 +1,16 @@
 - gaoler
   - 发音
-    - 英
-      - `/'dʒeɪlə/`
-    - 美
-      - `/'dʒelɚ/`
+    - 英 /'dʒeɪlə/
+    - 美 /'dʒelɚ/
   - 词义
-    - n.
-      - 监狱看守；监狱长
+    - n. 监狱看守；监狱长
   - 同根词
-    - n.
-      - `gaol`
-        - 监狱
-    - vt.
-      - `gaol`
-        - 监禁
+    - n. gaol 监狱
+    - vt. gaol 监禁
   - 近义词
-    - n.
-      - 监狱看守；监狱长
-        - `herder`
-        - `provost`
+    - n. 监狱看守；监狱长
+      - herder
+      - provost
   - 例句
-    - `In the year 1800 the chief constable was a publican, and the head gaoler sold rum and brandy opposite the prison gates.`
-      - 举1800年的例子来说吧：警察局长的第二职业是酒馆老板，总监狱长则在监狱大门的正对面开了个朗姆酒和白兰地的专卖店。
-
+    - In the year 1800 the chief constable was a publican, and the head gaoler sold rum and brandy opposite the prison gates. 举1800年的例子来说吧：警察局长的第二职业是酒馆老板，总监狱长则在监狱大门的正对面开了个朗姆酒和白兰地的专卖店。
+  - 补充

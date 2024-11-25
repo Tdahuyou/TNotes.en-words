@@ -1,18 +1,12 @@
 - Clara
   - 发音
-    - 英
-      - `/'klara/`
-    - 美
-      - `/'klærə/`
+    - 英 /'klara/
+    - 美 /'klærə/
   - 词义
   - 短语
-    - `santa clara`
-      - 圣克拉拉（美国加利福尼亚州西部城市）；圣克拉拉（古巴中部城市） 
+    - santa clara 圣克拉拉（美国加利福尼亚州西部城市）；圣克拉拉（古巴中部城市）
   - 例句
-    - `Clara, I heard nothing of what you said but that du.`
-      - 克拉拉，你说的其他话我都没听见，只听见了那个“你”。
-    - `Everyone’s worried about me, Clara said one afternoon.`
-      - 大家担心的是我，一天下午克拉拉说。
-    - `All the years since I had met Clara suddenly came tumbling down on top of me, everything my life had been, most of it nothing to do with her.`
-      - 自从我遇见克拉拉以来，那些年的一景一幕一股脑涌上了我的心头，我所过的生活，我的一切大多都与她没有任何关联。
-
+    - Clara, I heard nothing of what you said but that du. 克拉拉，你说的其他话我都没听见，只听见了那个“你”。
+    - Everyone’s worried about me, Clara said one afternoon. 大家担心的是我，一天下午克拉拉说。
+    - All the years since I had met Clara suddenly came tumbling down on top of me, everything my life had been, most of it nothing to do with her. 自从我遇见克拉拉以来，那些年的一景一幕一股脑涌上了我的心头，我所过的生活，我的一切大多都与她没有任何关联。
+  - 补充

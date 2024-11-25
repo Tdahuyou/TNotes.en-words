@@ -1,30 +1,20 @@
 - pessimistic
   - 发音
-    - 英
-      - `/,pesɪ'mɪstɪk/`
-    - 美
-      - `/,pɛsɪ'mɪstɪk/`
+    - 英 /,pesɪ'mɪstɪk/
+    - 美 /,pɛsɪ'mɪstɪk/
   - 词义
-    - adj.
-      - 悲观（主义）的
-        - `expecting that bad things will happen in the future or that something will have a bad result`
+    - adj. 悲观（主义）的
+      - expecting that bad things will happen in the future or that something will have a bad result
   - 记忆
     - pessi(看作Pepsi， 百事) ＋ mis(错误， 坏) ＋ tic(…的) → 并非百事可乐的 → 悲观(主义)的
   - 同根词
-    - adv.
-      - `pessimistically`
-        - 悲观地
-    - n.
-      - `pessimism`
-        - 悲观，悲观情绪；厌世主义
-      - `pessimist`
-        - 悲观主义者
+    - adv. pessimistically 悲观地
+    - n. pessimism 悲观，悲观情绪；厌世主义
+    - n. pessimist 悲观主义者
   - 近义词
-    - adj.
-      - 悲观的，厌世的；悲观主义的
-        - `world-weary`
-        - `futilitarian`
+    - adj. 悲观的，厌世的；悲观主义的
+      - world-weary
+      - futilitarian
   - 例句
-    - `a pessimistic view of life`
-      - 对人生的悲观看法
-
+    - a pessimistic view of life 对人生的悲观看法
+  - 补充

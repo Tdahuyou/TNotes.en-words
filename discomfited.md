@@ -1,9 +1,7 @@
 - discomfited
   - 发音
-    - 英
-      - `/dɪs'kʌmfɪtɪd/`
-    - 美
-      - `/dɪs'kʌmfɪt/`
+    - 英 /dɪs'kʌmfɪtɪd/
+    - 美 /dɪs'kʌmfɪt/
   - 词义
-    - adj.
-      - 困惑的，尴尬的
+    - adj. 困惑的，尴尬的
+  - 补充

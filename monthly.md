@@ -1,38 +1,25 @@
 - monthly
   - 发音
-    - 英
-      - `/'mʌnθlɪ/`
-    - 美
-      - `/'mʌnθli/`
+    - 英 /'mʌnθlɪ/
+    - 美 /'mʌnθli/
   - 词义
-    - adj.
-      - 每月的，每月一次的；有效期为一个月的
-        - `happening once a month`
-    - n.
-      - 月刊
-        - `a magazine that appears once a month`
-    - adv.
-      - 每月，每月一次
-        - `Monthly is also an adverb`
+    - adj. 每月的，每月一次的；有效期为一个月的
+      - happening once a month
+    - n. 月刊
+      - a magazine that appears once a month
+    - adv. 每月，每月一次
+      - Monthly is also an adverb
   - 同根词
-    - n.
-      - `month`
-        - 月，一个月的时间
+    - n. month 月，一个月的时间
   - 近义词
-    - adj.
-      - 每月的，每月一次的；有效期为一个月的
-        - `menstrual`
-    - n.
-      - 月刊
-        - `mensual`
-    - adv.
-      - 每月，每月一次
-        - `mensual`
+    - adj. 每月的，每月一次的；有效期为一个月的
+      - menstrual
+    - n. 月刊
+      - mensual
+    - adv. 每月，每月一次
+      - mensual
   - 例句
-    - `The mortgage is payable in monthly instalments.`
-      - 抵押贷款每月分期偿还。
-    - `a monthly publication`
-      - 月刊
-    - `In some areas the property price can rise monthly.`
-      - 有些地区，房价能每月都涨。
-
+    - The mortgage is payable in monthly instalments. 抵押贷款每月分期偿还。
+    - a monthly publication 月刊
+    - In some areas the property price can rise monthly. 有些地区，房价能每月都涨。
+  - 补充

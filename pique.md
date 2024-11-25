@@ -1,39 +1,29 @@
 - pique
   - 发音
-    - 英
-      - `/piːk/`
-    - 美
-      - `/pik/`
+    - 英 /piːk/
+    - 美 /pik/
   - 词义
-    - vt.
-      - 激怒；激起，引起
-        - `to make someone feel annoyed or upset, especially by ignoring them or making them look stupid`
-    - n.
-      - 恼怒，生气；怨恨
-        - `a feeling of being annoyed or upset, especially because someone has ignored you or insulted you`
+    - vt. 激怒；激起，引起
+      - to make someone feel annoyed or upset, especially by ignoring them or making them look stupid
+    - n. 恼怒，生气；怨恨
+      - a feeling of being annoyed or upset, especially because someone has ignored you or insulted you
   - 记忆
     - piqu(刺激) + e → 因受刺激而不悦 → 激怒
   - 同根词
-    - adj.
-      - `piquant`
-        - 辛辣的；活泼的；痛快的；顽皮的；刺激的
+    - adj. piquant 辛辣的；活泼的；痛快的；顽皮的；刺激的
   - 近义词
-    - vt.
-      - 刺激；伤害…自尊心；激怒
-        - `stimulate`
-        - `fan`
-        - `anger`
-        - `motivate`
-        - `needle`
-    - n.
-      - 生气；愠怒；呕气
-        - `vitality`
-        - `animation`
-        - `pet`
+    - vt. 刺激；伤害…自尊心；激怒
+      - stimulate
+      - fan
+      - anger
+      - motivate
+      - needle
+    - n. 生气；愠怒；呕气
+      - vitality
+      - animation
+      - pet
   - 短语
-    - `out of pique`
-      - 由于反感(或忿怒) 
+    - out of pique 由于反感(或忿怒)
   - 例句
-    - `Privately, Zarich was piqued that his offer was rejected.`
-      - 提议遭到拒绝，扎里克私下里很气愤。
-
+    - Privately, Zarich was piqued that his offer was rejected. 提议遭到拒绝，扎里克私下里很气愤。
+  - 补充

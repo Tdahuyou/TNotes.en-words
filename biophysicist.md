@@ -1,19 +1,13 @@
 - biophysicist
   - 发音
-    - 英
-      - `/undefined/`
-    - 美
-      - `/,baɪo'fɪzəsɪst/`
+    - 英 /ˌbaɪou'fɪzɪsɪst/
+    - 美 /,baɪo'fɪzəsɪst/
   - 词义
-    - n.
-      - 生物物理学家
+    - n. 生物物理学家
   - 记忆
     - bio(生物) + physicist(物理学家) → 生物物理学家
   - 同根词
-    - n.
-      - `biophysics`
-        - 生物物理学
+    - n. biophysics 生物物理学
   - 例句
-    - `“That’s forbidden, ” said study co-author and Stony Brook University biophysicist Koon-Kiu Yan.`
-      - “那是不允许的，”研究合著者纽约州立大学石溪分校生物物理学家严贯桥说道。
-
+    - A big part of it is gravity — or the effective lack of it in the ocean, says biophysicist Ole Mouritsen, author of Sushi: Food for the Eye, the Body and the Soul. 生物物理学家奥利·莫里特森（Ole Mouritsen）说，一个很重要的原因就是重力——或者说重力在海里的作用微乎其微。 他写过一本书，叫做《寿司：养眼、果腹又提神的食物》。
+  - 补充

@@ -1,25 +1,18 @@
 - perturb
   - 发音
-    - 英
-      - `/pə'təːb/`
-    - 美
-      - `/pɚ'tɝb/`
+    - 英 /pə'təːb/
+    - 美 /pɚ'tɝb/
   - 词义
-    - v.
-      - 使感到不安
-        - `If something perturbs you, it worries you quite a lot`
+    - v. 使感到不安
+      - If something perturbs you, it worries you quite a lot
   - 记忆
     - per + turb (扰乱) → 打扰
   - 同根词
-    - n.
-      - `perturbation`
-        - [数][天] 摄动；不安；扰乱
+    - n. perturbation [数][天] 摄动；不安；扰乱
   - 近义词
-    - vt.
-      - 扰乱；使…混乱；使…心绪不宁
-        - `disorder`
-        - `upset`
+    - vt. 扰乱；使…混乱；使…心绪不宁
+      - disorder
+      - upset
   - 例句
-    - `What perturbs me is that magazine articles are so much shorter nowadays.`
-      - 让我不安的是现在杂志文章都短多了。
-
+    - What perturbs me is that magazine articles are so much shorter nowadays. 让我不安的是现在杂志文章都短多了。
+  - 补充

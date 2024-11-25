@@ -1,21 +1,16 @@
 - octopus
   - 发音
-    - 英
-      - `/'ɑːktəpəs/`
-    - 美
-      - `/'ɑktəpəs/`
+    - 英 /'ɑːktəpəs/
+    - 美 /'ɑktəpəs/
   - 词义
-    - n.
-      - 章鱼
-        - `a sea creature with eight tentacles (= arms )`
+    - n. 章鱼
+      - a sea creature with eight tentacles (= arms )
   - 记忆
     - octo(八) + pus(脚) → 长八只脚的鱼 → 章鱼
   - 近义词
-    - n.
-      - [无脊椎]章鱼
-        - `poulp`
-        - `devilfish`
+    - n. [无脊椎]章鱼
+      - poulp
+      - devilfish
   - 例句
-    - `...plates of octopus.`
-      - …一盘盘章鱼肉。
-
+    - ...plates of octopus. …一盘盘章鱼肉。
+  - 补充

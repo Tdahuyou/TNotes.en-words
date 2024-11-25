@@ -1,27 +1,20 @@
 - umbrage
   - 发音
-    - 英
-      - `/'ʌmbrɪdʒ/`
-    - 美
-      - `/'ʌmbrɪdʒ/`
+    - 英 /'ʌmbrɪdʒ/
+    - 美 /'ʌmbrɪdʒ/
   - 词义
-    - n.
-      - 不快，愤怒
+    - n. 不快，愤怒
   - 记忆
     - umbra(影子) + ge → 心里的影子 → 不快
   - 同根词
-    - adj.
-      - `umbrageous`
-        - 多荫的，成荫的；阴翳的
+    - adj. umbrageous 多荫的，成荫的；阴翳的
   - 近义词
-    - n.
-      - 不快，生气；树荫；怀疑
-        - `vitality`
-        - `doubt`
-        - `animation`
-        - `challenge`
-        - `pet`
+    - n. 不快，生气；树荫；怀疑
+      - vitality
+      - doubt
+      - animation
+      - challenge
+      - pet
   - 例句
-    - `The answers were kept confidential to prevent any partners taking umbrage.`
-      - 为了防止他们的另一半感到不快，他们的答案都是保密的。
-
+    - The answers were kept confidential to prevent any partners taking umbrage. 为了防止他们的另一半感到不快，他们的答案都是保密的。
+  - 补充

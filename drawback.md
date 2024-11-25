@@ -1,24 +1,19 @@
 - drawback
   - 发音
-    - 英
-      - `/'drɔːbæk/`
-    - 美
-      - `/'drɔbæk/`
+    - 英 /'drɔːbæk/
+    - 美 /'drɔbæk/
   - 词义
-    - n.
-      - 缺点，障碍，不利条件；退款，退税
-        - `a disadvantage of a situation, plan, product etc`
+    - n. 缺点，障碍，不利条件；退款，退税
+      - a disadvantage of a situation, plan, product etc
   - 记忆
     - draw(拉) + back(向后) → 拖后腿 → 缺点， 障碍
   - 近义词
-    - n.
-      - 缺点，不利条件；退税
-        - `defect`
-        - `deficiency`
-        - `disadvantage`
-        - `vice`
-        - `fault`
+    - n. 缺点，不利条件；退税
+      - defect
+      - deficiency
+      - disadvantage
+      - vice
+      - fault
   - 例句
-    - `It’s a great city – the only drawback is the weather.`
-      - 这是座很不错的城市，唯一的不足就是天气。
-
+    - It’s a great city – the only drawback is the weather. 这是座很不错的城市，唯一的不足就是天气。
+  - 补充

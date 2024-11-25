@@ -1,28 +1,18 @@
 - cask
   - 发音
-    - 英
-      - `/kɑːsk/`
-    - 美
-      - `/kæsk/`
+    - 英 /kɑːsk/
+    - 美 /kæsk/
   - 词义
-    - n.
-      - 木桶，桶
-        - `a round wooden container used for storing wine or other liquids, or the amount of liquid that it contains`
-    - vt.
-      - 装入桶内
+    - n. 木桶，桶
+      - a round wooden container used for storing wine or other liquids, or the amount of liquid that it contains
+    - vt. 装入桶内
   - 同根词
-    - n.
-      - `casing`
-        - 套；盒；（香肠的）肠衣；包装
-    - v.
-      - `casing`
-        - 把…装入箱内（case的ing形式）
+    - n. casing 套；盒；（香肠的）肠衣；包装
+    - v. casing 把…装入箱内（case的ing形式）
   - 近义词
-    - n.
-      - 木桶，桶
-        - `barrel`
-        - `bucket`
+    - n. 木桶，桶
+      - barrel
+      - bucket
   - 例句
-    - `a cask of rum`
-      - 一桶朗姆酒
-
+    - a cask of rum 一桶朗姆酒
+  - 补充

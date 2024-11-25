@@ -1,22 +1,15 @@
 - peccant
   - 发音
-    - 英
-      - `/'pekənt/`
-    - 美
-      - `/'pɛkənt/`
+    - 英 /'pekənt/
+    - 美 /'pɛkənt/
   - 词义
-    - adj.
-      - 犯罪的；堕落的
-        - `guilty of an offence; corrupt `
+    - adj. 犯罪的；堕落的
+      - guilty of an offence; corrupt 
   - 同根词
-    - adj.
-      - `peccable`
-        - 易犯过失的；易犯罪的
-    - n.
-      - `peccadillo`
-        - 轻罪；小过失；小瑕疵
+    - adj. peccable 易犯过失的；易犯罪的
+    - n. peccadillo 轻罪；小过失；小瑕疵
   - 近义词
-    - adj.
-      - 犯罪的；有过失的
-        - `criminal`
-        - `blameable`
+    - adj. 犯罪的；有过失的
+      - criminal
+      - blameable
+  - 补充

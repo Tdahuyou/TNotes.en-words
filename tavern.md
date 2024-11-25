@@ -1,19 +1,14 @@
 - tavern
   - 发音
-    - 英
-      - `/'tævərn/`
-    - 美
-      - `/'tævɚn/`
+    - 英 /'tævərn/
+    - 美 /'tævɚn/
   - 词义
-    - n.
-      - 小旅馆，客栈；小酒店
-        - `a  pub  where you can also stay the night`
+    - n. 小旅馆，客栈；小酒店
+      - a  pub  where you can also stay the night
   - 近义词
-    - n.
-      - [建]酒馆；客栈
-        - `hotel`
-        - `pub`
+    - n. [建]酒馆；客栈
+      - hotel
+      - pub
   - 例句
-    - `Murphy’s Tavern`
-      - 墨菲酒馆
-
+    - Murphy’s Tavern 墨菲酒馆
+  - 补充

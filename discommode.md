@@ -1,15 +1,12 @@
 - discommode
   - 发音
-    - 英
-      - `/,dɪskə'məʊd/`
-    - 美
-      - `/undefined/`
+    - 英 /,dɪskə'məʊd/
+    - 美 /undefined/
   - 词义
-    - v.
-      - 使不方便,使为难,使不自由
-        - `to cause inconvenience or annoyance to; disturb `
+    - v. 使不方便,使为难,使不自由
+      - to cause inconvenience or annoyance to; disturb 
   - 近义词
-    - vt.
-      - 使不方便；使为难；使不自由
-        - `put out`
-        - `perplex`
+    - vt. 使不方便；使为难；使不自由
+      - put out
+      - perplex
+  - 补充

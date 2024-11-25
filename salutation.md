@@ -1,31 +1,20 @@
 - salutation
   - 发音
-    - 英
-      - `/ˌsæljuː'teiʃən/`
-    - 美
-      - `/'sæljʊ'teʃən/`
+    - 英 /ˌsæljuː'teiʃən/
+    - 美 /'sæljʊ'teʃən/
   - 词义
-    - n.
-      - 招呼
-        - `a word or phrase used at the beginning of a letter or speech, such as ‘Dear Mr Smith’`
+    - n. 招呼
+      - a word or phrase used at the beginning of a letter or speech, such as ‘Dear Mr Smith’
   - 记忆
     - 来自salute (v. 敬礼)
   - 同根词
-    - n.
-      - `salute`
-        - 致敬，欢迎；敬礼
-    - vi.
-      - `salute`
-        - 致意，打招呼；行礼
-    - vt.
-      - `salute`
-        - 行礼致敬，欢迎
+    - n. salute 致敬，欢迎；敬礼
+    - vi. salute 致意，打招呼；行礼
+    - vt. salute 行礼致敬，欢迎
   - 近义词
-    - n.
-      - 称呼；问候；招呼；寒喧
-        - `regard`
-        - `appellation`
+    - n. 称呼；问候；招呼；寒喧
+      - regard
+      - appellation
   - 例句
-    - `Jackson nodded a salutation.`
-      - 杰克逊点头打了个招呼。
-
+    - Jackson nodded a salutation. 杰克逊点头打了个招呼。
+  - 补充

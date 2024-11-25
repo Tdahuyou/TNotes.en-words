@@ -1,18 +1,14 @@
 - knap
   - 发音
-    - 英
-      - `/næp/`
-    - 美
-      - `/undefined/`
+    - 英 /næp/
+    - 美 /undefined/
   - 词义
-    - v.
-      - 敲击
+    - v. 敲击
   - 近义词
-    - vt.
-      - 打碎，敲击；猛咬
-        - `stroke`
-        - `dong`
-    - n.
-      - 山顶，丘顶
-        - `mountaintop`
-        - `hillcrest`
+    - vt. 打碎，敲击；猛咬
+      - stroke
+      - dong
+    - n. 山顶，丘顶
+      - mountaintop
+      - hillcrest
+  - 补充

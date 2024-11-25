@@ -1,28 +1,19 @@
 - awkward
   - 发音
-    - 英
-      - `/'ɔːkwərd/`
-    - 美
-      - `/'ɔkwɚd/`
+    - 英 /'ɔːkwərd/
+    - 美 /'ɔkwɚd/
   - 词义
-    - adj.
-      - 别扭的；笨拙的；难处理的，棘手的；难操纵的
-        - `An awkward movement or position is uncomfortable or clumsy`
+    - adj. 别扭的；笨拙的；难处理的，棘手的；难操纵的
+      - An awkward movement or position is uncomfortable or clumsy
   - 记忆
     - “拗口的” → 别扭的
   - 同根词
-    - adv.
-      - `awkwardly`
-        - 笨拙地；无技巧地
-    - n.
-      - `awkwardness`
-        - 尴尬；笨拙
+    - adv. awkwardly 笨拙地；无技巧地
+    - n. awkwardness 尴尬；笨拙
   - 近义词
-    - adj.
-      - 尴尬的；笨拙的；棘手的；不合适的
-        - `testing`
-        - `embarrassed`
+    - adj. 尴尬的；笨拙的；棘手的；不合适的
+      - testing
+      - embarrassed
   - 例句
-    - `Amy made an awkward gesture with her hands.`
-      - 艾米用双手做了一个笨拙的手势。
-
+    - Amy made an awkward gesture with her hands. 艾米用双手做了一个笨拙的手势。
+  - 补充

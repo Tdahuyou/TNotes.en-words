@@ -1,19 +1,14 @@
 - furlough
   - 发音
-    - 英
-      - `/'fəːləu/`
-    - 美
-      - `/'fɝlo/`
+    - 英 /'fəːləu/
+    - 美 /'fɝlo/
   - 词义
-    - n.
-      - 休假
-        - `a period of time when a soldier or someone working in another country can return to their own country`
+    - n. 休假
+      - a period of time when a soldier or someone working in another country can return to their own country
   - 近义词
-    - n.
-      - 休假；暂时解雇；放假
-        - `leave`
-        - `vac`
+    - n. 休假；暂时解雇；放假
+      - leave
+      - vac
   - 例句
-    - `a young soldier home on furlough`
-      - 回国休假的年轻士兵
-
+    - a young soldier home on furlough 回国休假的年轻士兵
+  - 补充

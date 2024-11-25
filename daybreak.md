@@ -1,23 +1,16 @@
 - daybreak
   - 发音
-    - 英
-      - `/'deɪbreɪk/`
-    - 美
-      - `/'debrek/`
+    - 英 /'deɪbreɪk/
+    - 美 /'debrek/
   - 词义
-    - n.
-      - 黎明；破晓
-        - `the time of day when light first appears`
+    - n. 黎明；破晓
+      - the time of day when light first appears
   - 同根词
-    - n.
-      - `dayspring`
-        - 拂晓；黎明；开端
+    - n. dayspring 拂晓；黎明；开端
   - 近义词
-    - n.
-      - [天]黎明；破晓
-        - `morning`
-        - `first light`
+    - n. [天]黎明；破晓
+      - morning
+      - first light
   - 例句
-    - `We arrived in Cairo at daybreak.`
-      - 拂晓时分我们抵达开罗。
-
+    - We arrived in Cairo at daybreak. 拂晓时分我们抵达开罗。
+  - 补充

@@ -1,31 +1,20 @@
 - grotesque
   - 发音
-    - 英
-      - `/grə(ʊ)'tesk/`
-    - 美
-      - `/gro'tɛsk/`
+    - 英 /grə(ʊ)'tesk/
+    - 美 /gro'tɛsk/
   - 词义
-    - n.
-      - 奇异风格；怪异的东西
-        - `a grotesque style in art`
-    - adj.
-      - 奇形怪状的；奇怪的；可笑的
-        - `unpleasant, shocking, and offensive`
+    - n. 奇异风格；怪异的东西
+      - a grotesque style in art
+    - adj. 奇形怪状的；奇怪的；可笑的
+      - unpleasant, shocking, and offensive
   - 同根词
-    - adv.
-      - `grotesquely`
-        - 奇异地；荒诞地
-    - n.
-      - `grotesqueness`
-        - 丑怪；可笑；怪诞
-      - `grotesquery`
-        - 怪异；怪物
+    - adv. grotesquely 奇异地；荒诞地
+    - n. grotesqueness 丑怪；可笑；怪诞
+    - n. grotesquery 怪异；怪物
   - 近义词
-    - adj.
-      - 奇形怪状的；奇怪的；可笑的
-        - `strange`
-        - `peculiar-looking`
+    - adj. 奇形怪状的；奇怪的；可笑的
+      - strange
+      - peculiar-looking
   - 例句
-    - `Grass's novels are peopled with outlandish characters: grotesques, clowns, scarecrows, dwarfs.`
-      - 格拉斯的小说充斥着稀奇古怪的人物：丑陋的怪人、小丑、邋遢的人以及侏儒。
-
+    - Grass's novels are peopled with outlandish characters: grotesques, clowns, scarecrows, dwarfs. 格拉斯的小说充斥着稀奇古怪的人物：丑陋的怪人、小丑、邋遢的人以及侏儒。
+  - 补充

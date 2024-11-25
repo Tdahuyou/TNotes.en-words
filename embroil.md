@@ -1,25 +1,18 @@
 - embroil
   - 发音
-    - 英
-      - `/im'brɔil/`
-    - 美
-      - `/ɪm'brɔɪl/`
+    - 英 /im'brɔil/
+    - 美 /ɪm'brɔɪl/
   - 词义
-    - v.
-      - 使卷入，牵连；使纠缠
-        - `to involve someone or something in a difficult situation`
+    - v. 使卷入，牵连；使纠缠
+      - to involve someone or something in a difficult situation
   - 记忆
     - em (进入…之中) + broil (争吵) → 进入争吵之中 → 使卷入
   - 同根词
-    - n.
-      - `embroilment`
-        - 混乱，搅乱；纠纷，争执
+    - n. embroilment 混乱，搅乱；纠纷，争执
   - 近义词
-    - vt.
-      - 使卷入；使混乱
-        - `cloud`
-        - `confuse`
+    - vt. 使卷入；使混乱
+      - cloud
+      - confuse
   - 例句
-    - `Any hostilities could result in retaliation and further embroil U.N. troops in fighting.`
-      - 任何敌对活动都可能会招致报复，进而使联合国部队卷入战斗中。
-
+    - Any hostilities could result in retaliation and further embroil U.N. troops in fighting. 任何敌对活动都可能会招致报复，进而使联合国部队卷入战斗中。
+  - 补充

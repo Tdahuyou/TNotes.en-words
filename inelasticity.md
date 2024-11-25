@@ -1,19 +1,14 @@
 - inelasticity
   - 发音
-    - 英
-      - `/ˌɪnɪlæ'stɪsəti/`
-    - 美
-      - `/undefined/`
+    - 英 /ˌɪnɪlæ'stɪsəti/
+    - 美 /undefined/
   - 词义
-    - n.
-      - 无弹性，无伸缩性
+    - n. 无弹性，无伸缩性
   - 记忆
     - in(无) + elastic(有弹性的) + ity(表性质) → 无弹性， 无伸缩性
   - 同根词
-    - adj.
-      - `inelastic`
-        - 无弹性的；无适应性的；不能适应的
+    - adj. inelastic 无弹性的；无适应性的；不能适应的
   - 近义词
-    - n.
-      - 不适应性；坚硬性；无弹力
-        - `rockiness`
+    - n. 不适应性；坚硬性；无弹力
+      - rockiness
+  - 补充

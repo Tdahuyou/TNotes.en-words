@@ -1,21 +1,16 @@
 - indemnification
   - 发音
-    - 英
-      - `/ɪn,demnɪfɪ'keɪʃən/`
-    - 美
-      - `/in,demnifi'keiʃən/`
+    - 英 /ɪn,demnɪfɪ'keɪʃən/
+    - 美 /in,demnifi'keiʃən/
   - 词义
-    - n.
-      - 保护,保障,补偿,补偿物
+    - n. 保护,保障,补偿,补偿物
   - 同根词
-    - vt.
-      - `indemnify`
-        - 赔偿；保护；使免于受罚
+    - vt. indemnify 赔偿；保护；使免于受罚
   - 近义词
-    - n.
-      - [经][保险]赔偿；保护；赦免；补偿金
-        - `protection`
-        - `satisfaction`
-        - `conservation`
-        - `lee`
-        - `safeguard`
+    - n. [经][保险]赔偿；保护；赦免；补偿金
+      - protection
+      - satisfaction
+      - conservation
+      - lee
+      - safeguard
+  - 补充

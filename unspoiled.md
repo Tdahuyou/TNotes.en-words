@@ -1,18 +1,13 @@
 - unspoiled
   - 发音
-    - 英
-      - `/,ʌn'spɔild/`
-    - 美
-      - `/'ʌn'spɔɪld/`
+    - 英 /,ʌn'spɔild/
+    - 美 /'ʌn'spɔɪld/
   - 词义
-    - adj.
-      - 未损坏的,未宠坏的
-        - `an unspoiled place is beautiful because it has not changed for a long time and does not have a lot of new buildings`
+    - adj. 未损坏的,未宠坏的
+      - an unspoiled place is beautiful because it has not changed for a long time and does not have a lot of new buildings
   - 近义词
-    - adj.
-      - 未损坏的；未宠坏的
-        - `undamaged`
+    - adj. 未损坏的；未宠坏的
+      - undamaged
   - 例句
-    - `unspoiled countryside`
-      - 未遭到破坏的乡村
-
+    - unspoiled countryside 未遭到破坏的乡村
+  - 补充

@@ -1,38 +1,25 @@
 - assimilate
   - 发音
-    - 英
-      - `/ə'sɪməleɪt/`
-    - 美
-      - `/ə'sɪməlet/`
+    - 英 /ə'sɪməleɪt/
+    - 美 /ə'sɪməlet/
   - 词义
-    - v.
-      - 透彻理解，吸收，消化；同化
-        - `to completely understand and begin to use new ideas, information etc`
+    - v. 透彻理解，吸收，消化；同化
+      - to completely understand and begin to use new ideas, information etc
   - 记忆
     - as + simil(相同) + ate(使…) → 使相同 → (使)同化
   - 同根词
-    - adj.
-      - `assimilative`
-        - 同化的；同化力的
-      - `assimilable`
-        - 可同化的；可吸收的
-      - `assimilatory`
-        - 同化的；同化力的；同化作用的
-    - n.
-      - `assimilation`
-        - 同化；吸收；[生化] 同化作用
-      - `assimilator`
-        - 吸收者，同化者
+    - adj. assimilative 同化的；同化力的
+    - adj. assimilable 可同化的；可吸收的
+    - adj. assimilatory 同化的；同化力的；同化作用的
+    - n. assimilation 同化；吸收；[生化] 同化作用
+    - n. assimilator 吸收者，同化者
   - 近义词
-    - vt.
-      - 吸收；使同化；把…比作；使相似
-        - `absorb`
-        - `drink in`
-    - vi.
-      - 吸收；同化
-        - `drink in`
-        - `suck up`
+    - vt. 吸收；使同化；把…比作；使相似
+      - absorb
+      - drink in
+    - vi. 吸收；同化
+      - drink in
+      - suck up
   - 例句
-    - `It will take time to assimilate all these facts.`
-      - 充分掌握所有这些情况需要时间。
-
+    - It will take time to assimilate all these facts. 充分掌握所有这些情况需要时间。
+  - 补充

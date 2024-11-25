@@ -1,30 +1,17 @@
 - shallowness
   - 发音
-    - 英
-      - `/'ʃælounəs/`
-    - 美
-      - `/undefined/`
+    - 英 /'ʃælounəs/
+    - 美 /undefined/
   - 词义
-    - n.
-      - 浅；浅薄
+    - n. 浅；浅薄
   - 同根词
-    - adj.
-      - `shallow`
-        - 浅的；肤浅的
-    - adv.
-      - `shallowly`
-        - 浅浅地；肤浅地
-    - n.
-      - `shallow`
-        - [地理] 浅滩
-    - vi.
-      - `shallow`
-        - 变浅
-    - vt.
-      - `shallow`
-        - 使变浅
+    - adj. shallow 浅的；肤浅的
+    - adv. shallowly 浅浅地；肤浅地
+    - n. shallow [地理] 浅滩
+    - vi. shallow 变浅
+    - vt. shallow 使变浅
   - 近义词
-    - n.
-      - 浅；肤浅
-        - `superficialness`
-        - `sketchiness`
+    - n. 浅；肤浅
+      - superficialness
+      - sketchiness
+  - 补充

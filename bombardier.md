@@ -1,27 +1,15 @@
 - bombardier
   - 发音
-    - 英
-      - `/ˌbɔmbə'diə/`
-    - 美
-      - `/,bɑmbɚ'dɪr/`
+    - 英 /ˌbɔmbə'diə/
+    - 美 /,bɑmbɚ'dɪr/
   - 词义
-    - n.
-      - 投弹手，炮兵下士
-        - `the person on a military aircraft who is responsible for dropping bombs`
+    - n. 投弹手，炮兵下士
+      - the person on a military aircraft who is responsible for dropping bombs
   - 同根词
-    - n.
-      - `bomb`
-        - 炸弹
-      - `bomber`
-        - 轰炸机；投弹手
-      - `bombing`
-        - [军] 轰炸，[军] 投弹
-    - v.
-      - `bombing`
-        - 轰击；引爆炸弹（bomb的ing形式）
-    - vi.
-      - `bomb`
-        - 轰炸，投弹；失败
-    - vt.
-      - `bomb`
-        - 轰炸，投弹于
+    - n. bomb 炸弹
+    - n. bomber 轰炸机；投弹手
+    - n. bombing [军] 轰炸，[军] 投弹
+    - v. bombing 轰击；引爆炸弹（bomb的ing形式）
+    - vi. bomb 轰炸，投弹；失败
+    - vt. bomb 轰炸，投弹于
+  - 补充

@@ -1,31 +1,20 @@
 - subtropical
   - 发音
-    - 英
-      - `/,sʌb'trɒpɪkəl/`
-    - 美
-      - `/,sʌb'trɑpɪkl/`
+    - 英 /,sʌb'trɒpɪkəl/
+    - 美 /,sʌb'trɑpɪkl/
   - 词义
-    - adj.
-      - 亚热带的
-        - `related to or typical of an area that is near a tropical area`
+    - adj. 亚热带的
+      - related to or typical of an area that is near a tropical area
   - 同根词
-    - n.
-      - `subtropics`
-        - [地理] 亚热带
+    - n. subtropics [地理] 亚热带
   - 近义词
-    - adj.
-      - [地理]亚热带的
-        - `semi-tropical`
+    - adj. [地理]亚热带的
+      - semi-tropical
   - 短语
-    - `subtropical high`
-      - 亚热带高压，副热带高压 
-    - `subtropical zone`
-      - 亚热带，副热带 
-    - `subtropical climate`
-      - 亚热带气候 
-    - `subtropical monsoon climate`
-      - 亚热带季风性气候 
+    - subtropical high 亚热带高压，副热带高压
+    - subtropical zone 亚热带，副热带
+    - subtropical climate 亚热带气候
+    - subtropical monsoon climate 亚热带季风性气候
   - 例句
-    - `subtropical vegetation`
-      - 亚热带植被
-
+    - subtropical vegetation 亚热带植被
+  - 补充

@@ -1,31 +1,24 @@
 - droll
   - 发音
-    - 英
-      - `/droul/`
-    - 美
-      - `/drol/`
+    - 英 /droul/
+    - 美 /drol/
   - 词义
-    - adj.
-      - 古怪的，好笑的
-        - `amusing in an unusual way`
+    - adj. 古怪的，好笑的
+      - amusing in an unusual way
   - 记忆
     - “倔老儿” → 倔老头又古怪又好笑 → 古怪的， 好笑的
   - 近义词
-    - adj.
-      - 滑稽的；好笑的；逗趣的
-        - `funny`
-        - `comical`
-    - n.
-      - 小丑，滑稽可笑的人
-        - `clow`
-        - `jester`
-    - vi.
-      - 开玩笑
-        - `fool`
-        - `kid around`
-        - `to play a joke`
-        - `to joke`
+    - adj. 滑稽的；好笑的；逗趣的
+      - funny
+      - comical
+    - n. 小丑，滑稽可笑的人
+      - clow
+      - jester
+    - vi. 开玩笑
+      - fool
+      - kid around
+      - to play a joke
+      - to joke
   - 例句
-    - `Evelyn is entertaining company, with droll and sardonic observations on nearly everything.`
-      - 伊芙琳以其对几乎每件事情都冷嘲式的方式和离奇可笑的见解娱乐伙伴。
-
+    - Evelyn is entertaining company, with droll and sardonic observations on nearly everything. 伊芙琳以其对几乎每件事情都冷嘲式的方式和离奇可笑的见解娱乐伙伴。
+  - 补充

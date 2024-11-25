@@ -1,28 +1,19 @@
 - snivel
   - 发音
-    - 英
-      - `/'snɪv(ə)l/`
-    - 美
-      - `/'snɪvl/`
+    - 英 /'snɪv(ə)l/
+    - 美 /'snɪvl/
   - 词义
-    - n.
-      - 流鼻涕；啜泣
-    - v.
-      - 流鼻涕；哭泣
+    - n. 流鼻涕；啜泣
+    - v. 流鼻涕；哭泣
   - 同根词
-    - n.
-      - `sniveller`
-        - 假哭的人；啜泣的人
+    - n. sniveller 假哭的人；啜泣的人
   - 近义词
-    - n.
-      - 流鼻涕；啜泣
-        - `runny nose`
-        - `running nose`
-    - vi.
-      - 流鼻涕；哭泣
-        - `run at the nose`
-        - `weep`
+    - n. 流鼻涕；啜泣
+      - runny nose
+      - running nose
+    - vi. 流鼻涕；哭泣
+      - run at the nose
+      - weep
   - 例句
-    - `A small boy was sniveling on a chair.`
-      - 一个小男孩在椅子上抽泣。
-
+    - A small boy was sniveling on a chair. 一个小男孩在椅子上抽泣。
+  - 补充

@@ -1,35 +1,21 @@
 - mirth
   - 发音
-    - 英
-      - `/mɜːθ/`
-    - 美
-      - `/mɝθ/`
+    - 英 /mɜːθ/
+    - 美 /mɝθ/
   - 词义
-    - n.
-      - 欢笑；欢乐；高兴
-        - `happiness and laughter`
+    - n. 欢笑；欢乐；高兴
+      - happiness and laughter
   - 同根词
-    - adj.
-      - `merry`
-        - 愉快的；微醉的；嬉戏作乐的
-      - `mirthful`
-        - 愉快的，高兴的；令人欢乐的
-      - `mirthless`
-        - 不快乐的；悲伤的；阴郁的
-    - adv.
-      - `merrily`
-        - 愉快地；高兴地（merry的副词形式）
-    - n.
-      - `merry`
-        - 甜樱桃
-      - `merriment`
-        - 欢喜；嬉戏
+    - adj. merry 愉快的；微醉的；嬉戏作乐的
+    - adj. mirthful 愉快的，高兴的；令人欢乐的
+    - adj. mirthless 不快乐的；悲伤的；阴郁的
+    - adv. merrily 愉快地；高兴地（merry的副词形式）
+    - n. merry 甜樱桃
+    - n. merriment 欢喜；嬉戏
   - 近义词
-    - n.
-      - 欢笑；欢乐；高兴
-        - `joy`
-        - `festival`
+    - n. 欢笑；欢乐；高兴
+      - joy
+      - festival
   - 例句
-    - `Her body began to shake with mirth.`
-      - 她笑得浑身直颤。
-
+    - Her body began to shake with mirth. 她笑得浑身直颤。
+  - 补充

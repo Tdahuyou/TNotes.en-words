@@ -1,29 +1,19 @@
 - superstitious
   - 发音
-    - 英
-      - `/ˌsuːpər'stɪʃəs/`
-    - 美
-      - `/'sʊpɚ'stɪʃəs/`
+    - 英 /ˌsuːpər'stɪʃəs/
+    - 美 /'sʊpɚ'stɪʃəs/
   - 词义
-    - adj.
-      - 迷信的，受迷信思想支配的
-        - `influenced by superstitions`
+    - adj. 迷信的，受迷信思想支配的
+      - influenced by superstitions
   - 记忆
     - super(在…之上) + stit(站立) + ious → 站在他物之上的 → 迷信的
   - 同根词
-    - adv.
-      - `superstitiously`
-        - 迷信地；被邪教所支配
-    - n.
-      - `superstition`
-        - 迷信
-      - `superstitiousness`
-        - 被邪教所支配
+    - adv. superstitiously 迷信地；被邪教所支配
+    - n. superstition 迷信
+    - n. superstitiousness 被邪教所支配
   - 近义词
-    - adj.
-      - 迷信的；由迷信引起的
-        - `fetishistic`
+    - adj. 迷信的；由迷信引起的
+      - fetishistic
   - 例句
-    - `a superstitious woman`
-      - 一个迷信的女人
-
+    - a superstitious woman 一个迷信的女人
+  - 补充

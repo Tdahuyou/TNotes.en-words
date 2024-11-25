@@ -1,45 +1,28 @@
 - suppress
   - 发音
-    - 英
-      - `/sə'pres/`
-    - 美
-      - `/sə'prɛs/`
+    - 英 /sə'pres/
+    - 美 /sə'prɛs/
   - 词义
-    - vt.
-      - 抑制，阻止；镇压，压制；禁止发表，查禁；阻止…的生长
-        - `to stop people from opposing the government, especially by using force`
+    - vt. 抑制，阻止；镇压，压制；禁止发表，查禁；阻止…的生长
+      - to stop people from opposing the government, especially by using force
   - 记忆
     - sup(向下) + press(压) → 向下压 → 抑制， 阻止
   - 同根词
-    - adj.
-      - `suppressed`
-        - 抑制的，发育不全的
-      - `suppressant`
-        - 制止的；抑制性的；遏抑的
-      - `suppressive`
-        - 抑制的；镇压的
-    - n.
-      - `suppression`
-        - 抑制；镇压；[植] 压抑
-      - `suppressant`
-        - 抑制药
-      - `suppressor`
-        - 抑制器；消除器
-      - `suppresser`
-        - 镇压者；抑制器
-    - v.
-      - `suppressed`
-        - 镇压，禁止（suppress的过去时和过去分词）
+    - adj. suppressed 抑制的，发育不全的
+    - adj. suppressant 制止的；抑制性的；遏抑的
+    - adj. suppressive 抑制的；镇压的
+    - n. suppression 抑制；镇压；[植] 压抑
+    - n. suppressant 抑制药
+    - n. suppressor 抑制器；消除器
+    - n. suppresser 镇压者；抑制器
+    - v. suppressed 镇压，禁止（suppress的过去时和过去分词）
   - 近义词
-    - vt.
-      - 抑制；镇压；废止
-        - `control`
-        - `restrain`
-        - `stay`
+    - vt. 抑制；镇压；废止
+      - control
+      - restrain
+      - stay
   - 短语
-    - `suppress inflation`
-      - 遏止通货膨胀 
+    - suppress inflation 遏止通货膨胀
   - 例句
-    - `The uprising was ruthlessly suppressed.`
-      - 起义受到了残酷的镇压。
-
+    - The uprising was ruthlessly suppressed. 起义受到了残酷的镇压。
+  - 补充

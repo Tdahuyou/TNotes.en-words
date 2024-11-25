@@ -1,26 +1,19 @@
 - pensive
   - 发音
-    - 英
-      - `/'pensɪv/`
-    - 美
-      - `/'pɛnsɪv/`
+    - 英 /'pensɪv/
+    - 美 /'pɛnsɪv/
   - 词义
-    - adj.
-      - 沉思的；忧虑的
-        - `thinking a lot about something, especially because you are worried or sad`
+    - adj. 沉思的；忧虑的
+      - thinking a lot about something, especially because you are worried or sad
   - 记忆
     - pens(悬挂) + ive → 悬挂于心的 → 沉思的； 忧虑的
   - 同根词
-    - adv.
-      - `pensively`
-        - 焦虑地；沉思地
+    - adv. pensively 焦虑地；沉思地
   - 近义词
-    - adj.
-      - 沉思的，忧郁的；悲伤的，哀愁的
-        - `dark`
-        - `blue`
-        - `reflecting`
+    - adj. 沉思的，忧郁的；悲伤的，哀愁的
+      - dark
+      - blue
+      - reflecting
   - 例句
-    - `Jan looked pensive.`
-      - 简神情忧伤。
-
+    - Jan looked pensive. 简神情忧伤。
+  - 补充

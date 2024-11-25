@@ -1,15 +1,12 @@
 - patio
   - 发音
-    - 英
-      - `/'pætɪəʊ/`
-    - 美
-      - `/'pætɪo/`
+    - 英 /'pætɪəʊ/
+    - 美 /'pætɪo/
   - 词义
-    - n.
-      - 露台；天井
-        - `a flat hard area near a house, where people sit outside`
+    - n. 露台；天井
+      - a flat hard area near a house, where people sit outside
   - 近义词
-    - n.
-      - 露台；天井
-        - `courtyard`
-        - `gazebo`
+    - n. 露台；天井
+      - courtyard
+      - gazebo
+  - 补充

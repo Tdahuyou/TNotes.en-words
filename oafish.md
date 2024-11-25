@@ -1,22 +1,15 @@
 - oafish
   - 发音
-    - 英
-      - `/undefined/`
-    - 美
-      - `/'ofɪʃ/`
+    - 英 /undefined/
+    - 美 /'ofɪʃ/
   - 词义
-    - adj.
-      - 痴呆的,畸形的
+    - adj. 痴呆的,畸形的
   - 同根词
-    - n.
-      - `oaf`
-        - 呆子；白痴；畸形儿
+    - n. oaf 呆子；白痴；畸形儿
   - 近义词
-    - adj.
-      - 痴呆的；畸形的
-        - `gawkish`
-        - `thrawn`
+    - adj. 痴呆的；畸形的
+      - gawkish
+      - thrawn
   - 例句
-    - `The bodyguards, as usual, were brave but oafish.`
-      - 这些保镖一如既往地勇敢但莽撞无礼。
-
+    - The bodyguards, as usual, were brave but oafish. 这些保镖一如既往地勇敢但莽撞无礼。
+  - 补充

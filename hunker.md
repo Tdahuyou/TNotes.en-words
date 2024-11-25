@@ -1,18 +1,14 @@
 - hunker
   - 发音
-    - 英
-      - `/'hʌŋkər/`
-    - 美
-      - `/'hʌŋkɚ/`
+    - 英 /'hʌŋkər/
+    - 美 /'hʌŋkɚ/
   - 词义
-    - v.
-      - 蹲下；顽固地坚持
+    - v. 蹲下；顽固地坚持
   - 近义词
-    - vi.
-      - 蹲下，盘坐
-        - `bend down`
-        - `squat down`
-    - n.
-      - 守旧者
-        - `conservative`
-        - `frump`
+    - vi. 蹲下，盘坐
+      - bend down
+      - squat down
+    - n. 守旧者
+      - conservative
+      - frump
+  - 补充

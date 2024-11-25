@@ -1,26 +1,19 @@
 - vitiate
   - 发音
-    - 英
-      - `/'viʃieit/`
-    - 美
-      - `/'vɪʃɪet/`
+    - 英 /'viʃieit/
+    - 美 /'vɪʃɪet/
   - 词义
-    - v.
-      - 损害
-        - `to make something less effective or spoil it`
+    - v. 损害
+      - to make something less effective or spoil it
   - 记忆
     - viti (看作vitamin) + ate (使) → 服用过多维生素会损害健康 → 损害
   - 同根词
-    - n.
-      - `vitiation`
-        - 损害，败坏；无效
+    - n. vitiation 损害，败坏；无效
   - 近义词
-    - vt.
-      - 损害，弄坏；使无效；污染
-        - `hurt`
-        - `break`
-        - `blast`
+    - vt. 损害，弄坏；使无效；污染
+      - hurt
+      - break
+      - blast
   - 例句
-    - `Strategic policy during the War was vitiated because of a sharp division between easterners and westerners.`
-      - 由于“东方人”和“西方人”间的巨大分歧，战争期间的战略方针没有得到切实的执行。
-
+    - Strategic policy during the War was vitiated because of a sharp division between easterners and westerners. 由于“东方人”和“西方人”间的巨大分歧，战争期间的战略方针没有得到切实的执行。
+  - 补充

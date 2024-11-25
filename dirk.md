@@ -1,15 +1,12 @@
 - dirk
   - 发音
-    - 英
-      - `/dɜːk/`
-    - 美
-      - `/də:k/`
+    - 英 /dɜːk/
+    - 美 /də:k/
   - 词义
-    - n.
-      - 匕首
-        - `a heavy pointed knife used as a weapon in Scotland in the past`
+    - n. 匕首
+      - a heavy pointed knife used as a weapon in Scotland in the past
   - 近义词
-    - n.
-      - 短剑，匕首
-        - `knife`
-        - `cris`
+    - n. 短剑，匕首
+      - knife
+      - cris
+  - 补充

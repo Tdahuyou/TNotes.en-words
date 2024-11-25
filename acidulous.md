@@ -1,19 +1,14 @@
 - acidulous
   - 发音
-    - 英
-      - `/ə'sɪdjʊləs/`
-    - 美
-      - `/ə'sɪdʒələs/`
+    - 英 /ə'sɪdjʊləs/
+    - 美 /ə'sɪdʒələs/
   - 词义
-    - adj.
-      - 多少带酸味的,不悦的
-        - `rather sour `
+    - adj. 多少带酸味的,不悦的
+      - rather sour 
   - 同根词
-    - vt.
-      - `acidulate`
-        - 使尖刻；使酸化
+    - vt. acidulate 使尖刻；使酸化
   - 近义词
-    - adj.
-      - 带酸味的；尖刻的；带讽刺意味的
-        - `bitter`
-        - `trenchant`
+    - adj. 带酸味的；尖刻的；带讽刺意味的
+      - bitter
+      - trenchant
+  - 补充

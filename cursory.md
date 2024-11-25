@@ -1,33 +1,21 @@
 - cursory
   - 发音
-    - 英
-      - `/'kəːsəri/`
-    - 美
-      - `/'kə:səri/`
+    - 英 /'kəːsəri/
+    - 美 /'kə:səri/
   - 词义
-    - adj.
-      - 仓促的，草率的
-        - `done very quickly without much attention to details`
+    - adj. 仓促的，草率的
+      - done very quickly without much attention to details
   - 记忆
     - curs (跑) + ory → 跑过去 → 草率的
   - 同根词
-    - adj.
-      - `curt`
-        - 简略的；简要的；草率的；简单粗暴的
-    - adv.
-      - `curtly`
-        - 简略地；草率地
-      - `cursorily`
-        - 疏忽地；马虎地；粗糙地
-    - n.
-      - `curtness`
-        - 简略；草率
+    - adj. curt 简略的；简要的；草率的；简单粗暴的
+    - adv. curtly 简略地；草率地
+    - adv. cursorily 疏忽地；马虎地；粗糙地
+    - n. curtness 简略；草率
   - 近义词
-    - adj.
-      - 粗略的；草率的；匆忙的
-        - `rough`
-        - `brief`
+    - adj. 粗略的；草率的；匆忙的
+      - rough
+      - brief
   - 例句
-    - `Because be loved, proud Lin Lan cannot bear the grievance after be being misunderstood, cursory under put forward to part company.`
-      - 因为被爱，骄傲的林岚不能忍受被误解后的委屈，草率之下提出分手。
-
+    - Because be loved, proud Lin Lan cannot bear the grievance after be being misunderstood, cursory under put forward to part company. 因为被爱，骄傲的林岚不能忍受被误解后的委屈，草率之下提出分手。
+  - 补充

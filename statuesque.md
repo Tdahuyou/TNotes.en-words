@@ -1,28 +1,19 @@
 - statuesque
   - 发音
-    - 英
-      - `/ˌstætʃu'esk/`
-    - 美
-      - `/,stʃʊjʊ'ɛsk/`
+    - 英 /ˌstætʃu'esk/
+    - 美 /,stʃʊjʊ'ɛsk/
   - 词义
-    - adj.
-      - 雕像般的；庄严而优雅的
-        - `large and beautiful in an impressive way, like a statue`
+    - adj. 雕像般的；庄严而优雅的
+      - large and beautiful in an impressive way, like a statue
   - 记忆
     - statue (雕像) + esque (如…的) → 雕像般的
   - 同根词
-    - adj.
-      - `statuary`
-        - 雕塑的；雕像用的
-    - n.
-      - `statuary`
-        - 雕像；雕像艺术
+    - adj. statuary 雕塑的；雕像用的
+    - n. statuary 雕像；雕像艺术
   - 近义词
-    - adj.
-      - 雕像般的；轮廓清晰的；均衡的
-        - `uniform`
-        - `proportional`
+    - adj. 雕像般的；轮廓清晰的；均衡的
+      - uniform
+      - proportional
   - 例句
-    - `a statuesque woman`
-      - 一位端庄优雅的高挑女子
-
+    - a statuesque woman 一位端庄优雅的高挑女子
+  - 补充

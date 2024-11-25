@@ -1,16 +1,13 @@
 - gusher
   - 发音
-    - 英
-      - `/'gʌʃər/`
-    - 美
-      - `/'ɡʌʃɚ/`
+    - 英 /'gʌʃər/
+    - 美 /'ɡʌʃɚ/
   - 词义
-    - n.
-      - 滔滔不绝的说话者；喷油井
-        - `a place in the ground where oil or water comes out very forcefully, so that a pump is not needed`
+    - n. 滔滔不绝的说话者；喷油井
+      - a place in the ground where oil or water comes out very forcefully, so that a pump is not needed
   - 记忆
     - 来自gush(v. 喷出， 涌出； 滔滔不绝地说话)
   - 近义词
-    - n.
-      - 喷油井；说话滔滔不绝的人
-        - `spouter`
+    - n. 喷油井；说话滔滔不绝的人
+      - spouter
+  - 补充

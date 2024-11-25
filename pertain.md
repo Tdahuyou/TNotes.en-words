@@ -1,20 +1,15 @@
 - pertain
   - 发音
-    - 英
-      - `/pər 'teɪn/`
-    - 美
-      - `/pɝ'ten/`
+    - 英 /pər 'teɪn/
+    - 美 /pɝ'ten/
   - 词义
-    - vi.
-      - 存在；适用
+    - vi. 存在；适用
   - 记忆
     - per(始终) + tain(拿住) → 始终拿着 → 存在； 适用
   - 近义词
-    - vi.
-      - 属于；关于；适合
-        - `gear`
-        - `serve`
+    - vi. 属于；关于；适合
+      - gear
+      - serve
   - 例句
-    - `...matters pertaining to naval district defence.`
-      - …与海军区域防卫有关的问题。
-
+    - ...matters pertaining to naval district defence. …与海军区域防卫有关的问题。
+  - 补充

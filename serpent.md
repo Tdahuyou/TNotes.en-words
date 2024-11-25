@@ -1,19 +1,14 @@
 - serpent
   - 发音
-    - 英
-      - `/'sɜːp(ə)nt/`
-    - 美
-      - `/'sɝpənt/`
+    - 英 /'sɜːp(ə)nt/
+    - 美 /'sɝpənt/
   - 词义
-    - n.
-      - 蛇（尤指大蛇或毒蛇）；狡猾的人
-        - `a snake, especially a large one`
+    - n. 蛇（尤指大蛇或毒蛇）；狡猾的人
+      - a snake, especially a large one
   - 近义词
-    - n.
-      - [脊椎]蛇（尤指大蛇或毒蛇）；狡猾的人
-        - `snake`
-        - `fox`
+    - n. [脊椎]蛇（尤指大蛇或毒蛇）；狡猾的人
+      - snake
+      - fox
   - 例句
-    - `...the serpent in the Garden of Eden.`
-      - …伊甸园里的那条蛇。
-
+    - ...the serpent in the Garden of Eden. …伊甸园里的那条蛇。
+  - 补充

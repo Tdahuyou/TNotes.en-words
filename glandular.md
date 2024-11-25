@@ -1,21 +1,15 @@
 - glandular
   - 发音
-    - 英
-      - `/'glændjʊlə; 'glæn(d)ʒʊlə/`
-    - 美
-      - `/'glændʒəlɚ/`
+    - 英 /'glændjʊlə; 'glæn(d)ʒʊlə/
+    - 美 /'glændʒəlɚ/
   - 词义
-    - adj.
-      - 腺的,腺状的
-        - `related to the glands, or produced by the glands`
+    - adj. 腺的,腺状的
+      - related to the glands, or produced by the glands
   - 近义词
-    - adj.
-      - [解剖]腺的，腺状的
-        - `adenoid`
+    - adj. [解剖]腺的，腺状的
+      - adenoid
   - 短语
-    - `glandular epithelium`
-      - [医]腺上皮 
+    - glandular epithelium [医]腺上皮
   - 例句
-    - `...the amount of fat and glandular tissue in the breasts.`
-      - ...乳房里的脂肪和腺体组织含量。
-
+    - ...the amount of fat and glandular tissue in the breasts. ...乳房里的脂肪和腺体组织含量。
+  - 补充

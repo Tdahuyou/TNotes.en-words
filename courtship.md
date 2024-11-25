@@ -1,29 +1,18 @@
 - courtship
   - 发音
-    - 英
-      - `/'kɔːtʃɪp/`
-    - 美
-      - `/'kɔ:tʃip/`
+    - 英 /'kɔːtʃɪp/
+    - 美 /'kɔ:tʃip/
   - 词义
-    - n.
-      - 求爱,求爱时期
-        - `the period of time during which a man and woman have a romantic relationship before marrying`
+    - n. 求爱,求爱时期
+      - the period of time during which a man and woman have a romantic relationship before marrying
   - 同根词
-    - n.
-      - `court`
-        - 法院；球场；朝廷；奉承
-    - vi.
-      - `court`
-        - 求爱
-    - vt.
-      - `court`
-        - 招致（失败、危险等）；向…献殷勤；设法获得
+    - n. court 法院；球场；朝廷；奉承
+    - vi. court 求爱
+    - vt. court 招致（失败、危险等）；向…献殷勤；设法获得
   - 近义词
-    - n.
-      - 求爱；求婚；求爱期
-        - `Passionate Proposing`
-        - `marriage proposal`
+    - n. 求爱；求婚；求爱期
+      - Passionate Proposing
+      - marriage proposal
   - 例句
-    - `courtship rituals`
-      - 求偶仪式
-
+    - courtship rituals 求偶仪式
+  - 补充

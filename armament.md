@@ -1,29 +1,18 @@
 - armament
   - 发音
-    - 英
-      - `/'ɑːməm(ə)nt/`
-    - 美
-      - `/'ɑrməmənt/`
+    - 英 /'ɑːməm(ə)nt/
+    - 美 /'ɑrməmənt/
   - 词义
-    - n.
-      - 武器；军备
-        - `the weapons and military equipment used by an army`
+    - n. 武器；军备
+      - the weapons and military equipment used by an army
   - 同根词
-    - n.
-      - `arm`
-        - 手臂；武器；袖子；装备
-    - vi.
-      - `arm`
-        - 武装起来
-    - vt.
-      - `arm`
-        - 武装；备战
+    - n. arm 手臂；武器；袖子；装备
+    - vi. arm 武装起来
+    - vt. arm 武装；备战
   - 近义词
-    - n.
-      - 武器；[军]军备
-        - `weapon`
-        - `arm`
+    - n. 武器；[军]军备
+      - weapon
+      - arm
   - 例句
-    - `nuclear armaments`
-      - 核武器
-
+    - nuclear armaments 核武器
+  - 补充

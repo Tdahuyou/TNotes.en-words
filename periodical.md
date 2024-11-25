@@ -1,48 +1,32 @@
 - periodical
   - 发音
-    - 英
-      - `/ˌpɪri'ɑːdɪkl/`
-    - 美
-      - `/,pɪrɪ'ɑdɪkl/`
+    - 英 /ˌpɪri'ɑːdɪkl/
+    - 美 /,pɪrɪ'ɑdɪkl/
   - 词义
-    - adj.
-      - 周期的，定期的
-        - `Periodical events or situations happen occasionally, at fairly regular intervals`
-    - n.
-      - 期刊，杂志
-        - `a magazine, especially one about a serious or technical subject`
+    - adj. 周期的，定期的
+      - Periodical events or situations happen occasionally, at fairly regular intervals
+    - n. 期刊，杂志
+      - a magazine, especially one about a serious or technical subject
   - 记忆
     - 来自period(n. 时期， 周期)
   - 同根词
-    - adj.
-      - `period`
-        - 某一时代的
-      - `periodic`
-        - 周期的；定期的
-    - adv.
-      - `periodically`
-        - 定期地；周期性地；偶尔；间歇
-    - n.
-      - `period`
-        - 周期，期间；时期；月经；课时
-      - `periodicity`
-        - [数] 周期性；频率；定期性
+    - adj. period 某一时代的
+    - adj. periodic 周期的；定期的
+    - adv. periodically 定期地；周期性地；偶尔；间歇
+    - n. period 周期，期间；时期；月经；课时
+    - n. periodicity [数] 周期性；频率；定期性
   - 近义词
-    - adj.
-      - [数]周期的；定期的
-        - `regular`
-        - `stated`
-        - `time`
-        - `cyclical`
-    - n.
-      - 期刊；杂志
-        - `magazine`
-        - `journal`
-        - `serial`
+    - adj. [数]周期的；定期的
+      - regular
+      - stated
+      - time
+      - cyclical
+    - n. 期刊；杂志
+      - magazine
+      - journal
+      - serial
   - 短语
-    - `periodical inspection`
-      - 定期检查 
+    - periodical inspection 定期检查
   - 例句
-    - `She made periodical visits to her dentist.`
-      - 她定期去看牙医。
-
+    - She made periodical visits to her dentist. 她定期去看牙医。
+  - 补充

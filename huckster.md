@@ -1,24 +1,17 @@
 - huckster
   - 发音
-    - 英
-      - `/'hʌkstə/`
-    - 美
-      - `/'hʌkstɚ/`
+    - 英 /'hʌkstə/
+    - 美 /'hʌkstɚ/
   - 词义
-    - v.
-      - 叫卖；讨价还价
-    - n.
-      - 叫卖的小贩；小商人；吃广告饭的人
+    - v. 叫卖；讨价还价
+    - n. 叫卖的小贩；小商人；吃广告饭的人
   - 同根词
-    - vt.
-      - `hucksterize`
-        - 强制推销
+    - vt. hucksterize 强制推销
   - 近义词
-    - vt.
-      - 叫卖；讨价还价
-        - `price bargain`
-        - `bargain with`
-    - n.
-      - 叫卖的小贩；小商人；吃广告饭的人
-        - `cheap-jack`
-        - `crier`
+    - vt. 叫卖；讨价还价
+      - price bargain
+      - bargain with
+    - n. 叫卖的小贩；小商人；吃广告饭的人
+      - cheap-jack
+      - crier
+  - 补充

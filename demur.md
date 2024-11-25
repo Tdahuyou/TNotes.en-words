@@ -1,26 +1,19 @@
 - demur
   - 发音
-    - 英
-      - `/di'məː/`
-    - 美
-      - `/dɪ'mɝ/`
+    - 英 /di'məː/
+    - 美 /dɪ'mɝ/
   - 词义
-    - v.
-      - 犹豫不决
+    - v. 犹豫不决
   - 记忆
     - 面对谣言 (rumor) 他犹豫不决 (demur)
   - 同根词
-    - n.
-      - `demurral`
-        - 异议；反对；犹豫；顾虑
-      - `demurrer`
-        - 异议；抗辩；妨诉抗辩
+    - n. demurral 异议；反对；犹豫；顾虑
+    - n. demurrer 异议；抗辩；妨诉抗辩
   - 近义词
-    - vi.
-      - 反对；抗辩；提出异议
-        - `represent`
-        - `sit down on`
-    - n.
-      - 异议；反对
-        - `opposition`
-        - `exception`
+    - vi. 反对；抗辩；提出异议
+      - represent
+      - sit down on
+    - n. 异议；反对
+      - opposition
+      - exception
+  - 补充

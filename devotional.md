@@ -1,34 +1,21 @@
 - devotional
   - 发音
-    - 英
-      - `/dɪ'vouʃənl/`
-    - 美
-      - `/dɪ'voʃənl/`
+    - 英 /dɪ'vouʃənl/
+    - 美 /dɪ'voʃənl/
   - 词义
-    - adj.
-      - 献身的，虔诚的
+    - adj. 献身的，虔诚的
   - 记忆
     - 来自devotion(n. 献身)
   - 同根词
-    - adj.
-      - `devoted`
-        - 献身的；忠诚的
-    - n.
-      - `devotion`
-        - 献身，奉献；忠诚；热爱
-    - v.
-      - `devoted`
-        - 献身于…；致力于…（devote的过去分词）
-    - vt.
-      - `devote`
-        - 致力于；奉献
+    - adj. devoted 献身的；忠诚的
+    - n. devotion 献身，奉献；忠诚；热爱
+    - v. devoted 献身于…；致力于…（devote的过去分词）
+    - vt. devote 致力于；奉献
   - 近义词
-    - adj.
-      - 虔诚的，祷告的；信仰的；献身的
-        - `religious`
-        - `dedicated`
-        - `good`
+    - adj. 虔诚的，祷告的；信仰的；献身的
+      - religious
+      - dedicated
+      - good
   - 例句
-    - `devotional music`
-      - 宗教音乐
-
+    - devotional music 宗教音乐
+  - 补充

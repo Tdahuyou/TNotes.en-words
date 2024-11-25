@@ -1,28 +1,19 @@
 - homily
   - 发音
-    - 英
-      - `/'hɔmili/`
-    - 美
-      - `/'hɔmili/`
+    - 英 /'hɔmili/
+    - 美 /'hɔmili/
   - 词义
-    - n.
-      - 布道；说教
-        - `advice about how to behave that is often unwanted`
+    - n. 布道；说教
+      - advice about how to behave that is often unwanted
   - 记忆
     - hom ( = human， 人) + ily → 一群人在一起听说教 → 说教
   - 同根词
-    - adj.
-      - `homiletic`
-        - 说教的；教训的
-    - n.
-      - `homiletics`
-        - 讲道术，说教术
+    - adj. homiletic 说教的；教训的
+    - n. homiletics 讲道术，说教术
   - 近义词
-    - n.
-      - 说教；训诫
-        - `preachment`
-        - `precept`
+    - n. 说教；训诫
+      - preachment
+      - precept
   - 例句
-    - `...a receptive audience for his homily on moral values.`
-      - ...乐于倾听他关于道德价值观说教的观众。
-
+    - ...a receptive audience for his homily on moral values. ...乐于倾听他关于道德价值观说教的观众。
+  - 补充

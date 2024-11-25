@@ -1,15 +1,12 @@
 - impresario
   - 发音
-    - 英
-      - `/,ɪmprɪ'sɑːrɪəʊ/`
-    - 美
-      - `/,ɪmprə'sɑrɪo/`
+    - 英 /,ɪmprɪ'sɑːrɪəʊ/
+    - 美 /,ɪmprə'sɑrɪo/
   - 词义
-    - n.
-      - (剧团)经理,乐队指挥,演出者,舞台监督
-        - `An impresario is a person who arranges for plays, concerts, and other entertainments to be performed`
+    - n. (剧团)经理,乐队指挥,演出者,舞台监督
+      - An impresario is a person who arranges for plays, concerts, and other entertainments to be performed
   - 近义词
-    - n.
-      - （意）（歌剧、乐团等的）演出者；经理人；乐队指挥，导演
-        - `director`
-        - `managing agent`
+    - n. （意）（歌剧、乐团等的）演出者；经理人；乐队指挥，导演
+      - director
+      - managing agent
+  - 补充

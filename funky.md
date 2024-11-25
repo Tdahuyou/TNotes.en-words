@@ -1,32 +1,21 @@
 - funky
   - 发音
-    - 英
-      - `/'fʌŋkɪ/`
-    - 美
-      - `/fʌŋki/`
+    - 英 /'fʌŋkɪ/
+    - 美 /fʌŋki/
   - 词义
-    - adj.
-      - 时髦的；畏缩的；恶臭的
-        - `modern, fashionable, and interesting`
+    - adj. 时髦的；畏缩的；恶臭的
+      - modern, fashionable, and interesting
   - 同根词
-    - n.
-      - `funk`
-        - 恐惧；怯懦；恐怖；臭味
-    - vi.
-      - `funk`
-        - 惊恐；畏缩；发出臭味
-    - vt.
-      - `funk`
-        - 害怕；畏缩；使闻到臭味
+    - n. funk 恐惧；怯懦；恐怖；臭味
+    - vi. funk 惊恐；畏缩；发出臭味
+    - vt. funk 害怕；畏缩；使闻到臭味
   - 近义词
-    - adj.
-      - 时髦的；畏缩的；恶臭的
-        - `modern`
-        - `fashionable`
-        - `tony`
-        - `in`
-        - `stylish`
+    - adj. 时髦的；畏缩的；恶臭的
+      - modern
+      - fashionable
+      - tony
+      - in
+      - stylish
   - 例句
-    - `Add a touch of style with these functional yet funky wall lights.`
-      - 用这些实用而不失时尚的壁灯来增添些许格调。
-
+    - Add a touch of style with these functional yet funky wall lights. 用这些实用而不失时尚的壁灯来增添些许格调。
+  - 补充

@@ -1,21 +1,16 @@
 - unparalleled
   - 发音
-    - 英
-      - `/ʌn'pærəleld/`
-    - 美
-      - `/ʌn'pærəlɛld/`
+    - 英 /ʌn'pærəleld/
+    - 美 /ʌn'pærəlɛld/
   - 词义
-    - adj.
-      - 空前的，无比的
-        - `bigger, better, or worse than anything else`
+    - adj. 空前的，无比的
+      - bigger, better, or worse than anything else
   - 记忆
     - un(无) + parallel(平行) + ed → 没有东西可与之平行的 → 无比的
   - 近义词
-    - adj.
-      - 无比的；无双的；空前未有的
-        - `matchless`
-        - `incomparable`
+    - adj. 无比的；无双的；空前未有的
+      - matchless
+      - incomparable
   - 例句
-    - `an achievement unparalleled in sporting history`
-      - 体育史上空前的成就
-
+    - an achievement unparalleled in sporting history 体育史上空前的成就
+  - 补充

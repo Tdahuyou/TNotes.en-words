@@ -1,36 +1,23 @@
 - resurrect
   - 发音
-    - 英
-      - `/rezə'rekt/`
-    - 美
-      - `/,rezə'rekt/`
+    - 英 /rezə'rekt/
+    - 美 /,rezə'rekt/
   - 词义
-    - v.
-      - 使复活；复兴；挖出
-        - `to bring back an old activity, belief, idea etc that has not existed for a long time`
+    - v. 使复活；复兴；挖出
+      - to bring back an old activity, belief, idea etc that has not existed for a long time
   - 同根词
-    - adj.
-      - `resurgent`
-        - 复活的；复苏的
-    - n.
-      - `resurgence`
-        - 复活；再现；再起
-      - `resurrection`
-        - 复活；恢复；复兴
-      - `resurgent`
-        - 复活者
+    - adj. resurgent 复活的；复苏的
+    - n. resurgence 复活；再现；再起
+    - n. resurrection 复活；恢复；复兴
+    - n. resurgent 复活者
   - 近义词
-    - vt.
-      - 使复活；复兴；挖出
-        - `raise to life`
-        - `renew`
-    - vi.
-      - 复活
-        - `come back to life again`
-        - `reflourish`
+    - vt. 使复活；复兴；挖出
+      - raise to life
+      - renew
+    - vi. 复活
+      - come back to life again
+      - reflourish
   - 例句
-    - `The Home Office have resurrected plans to build a new prison just outside London.`
-      - 内政部重新提出了在伦敦市外建一座监狱的计划。
-    - `another failed attempt to resurrect his career`
-      - 他重振事业的又一次失败尝试
-
+    - The Home Office have resurrected plans to build a new prison just outside London. 内政部重新提出了在伦敦市外建一座监狱的计划。
+    - another failed attempt to resurrect his career 他重振事业的又一次失败尝试
+  - 补充

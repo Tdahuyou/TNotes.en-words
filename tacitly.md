@@ -1,9 +1,7 @@
 - tacitly
   - 发音
-    - 英
-      - `/undefined/`
-    - 美
-      - `/undefined/`
+    - 英 /undefined/
+    - 美 /undefined/
   - 词义
-    - adv.
-      - 肃静地；沉默地；心照不宣地
+    - adv. 肃静地；沉默地；心照不宣地
+  - 补充

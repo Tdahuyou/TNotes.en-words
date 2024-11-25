@@ -1,19 +1,14 @@
 - clampdown
   - 发音
-    - 英
-      - `/'klæmpdaʊn/`
-    - 美
-      - `/'klæmpdaun/`
+    - 英 /'klæmpdaʊn/
+    - 美 /'klæmpdaun/
   - 词义
-    - n.
-      - 压制,取缔
-        - `sudden firm action that is taken to reduce crime`
+    - n. 压制,取缔
+      - sudden firm action that is taken to reduce crime
   - 近义词
-    - n.
-      - 压制；取缔；严禁
-        - `hold-down`
-        - `supression`
+    - n. 压制；取缔；严禁
+      - hold-down
+      - supression
   - 例句
-    - `...a clampdown on the employment of illegal immigrants.`
-      - ...对雇佣非法移民的一种制裁。
-
+    - ...a clampdown on the employment of illegal immigrants. ...对雇佣非法移民的一种制裁。
+  - 补充

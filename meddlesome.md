@@ -1,34 +1,20 @@
 - meddlesome
   - 发音
-    - 英
-      - `/'med(ə)ls(ə)m/`
-    - 美
-      - `/'mɛdlsəm/`
+    - 英 /'med(ə)ls(ə)m/
+    - 美 /'mɛdlsəm/
   - 词义
-    - adj.
-      - 爱管闲事的,好干涉的
-        - `a meddlesome person becomes involved in situations that do not concern them, in a way that annoys people`
+    - adj. 爱管闲事的,好干涉的
+      - a meddlesome person becomes involved in situations that do not concern them, in a way that annoys people
   - 同根词
-    - adj.
-      - `meddling`
-        - 干预的
-    - n.
-      - `meddling`
-        - 干预；瞎管
-      - `meddler`
-        - 干涉者；爱管闲事的人
-    - v.
-      - `meddling`
-        - 干预；瞎弄（meddle的ing形式）
-    - vi.
-      - `meddle`
-        - 管闲事，干预他人之事
+    - adj. meddling 干预的
+    - n. meddling 干预；瞎管
+    - n. meddler 干涉者；爱管闲事的人
+    - v. meddling 干预；瞎弄（meddle的ing形式）
+    - vi. meddle 管闲事，干预他人之事
   - 近义词
-    - adj.
-      - 爱管闲事的；好干涉的
-        - `managing`
-        - `snoopy`
+    - adj. 爱管闲事的；好干涉的
+      - managing
+      - snoopy
   - 例句
-    - `a meddlesome old woman`
-      - 一个爱管闲事的老太太
-
+    - a meddlesome old woman 一个爱管闲事的老太太
+  - 补充

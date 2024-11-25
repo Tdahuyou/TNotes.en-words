@@ -1,17 +1,13 @@
 - discountenance
   - 发音
-    - 英
-      - `/dis'kauntinəns/`
-    - 美
-      - `/undefined/`
+    - 英 /dis'kauntinəns/
+    - 美 /undefined/
   - 词义
-    - v.
-      - 不赞成，不支持
+    - v. 不赞成，不支持
   - 近义词
-    - vt.
-      - 使丢脸；不赞成；使慌张
-        - `shame`
-        - `disapprove of`
-    - n.
-      - 不赞成
-        - `disapproval`
+    - vt. 使丢脸；不赞成；使慌张
+      - shame
+      - disapprove of
+    - n. 不赞成
+      - disapproval
+  - 补充

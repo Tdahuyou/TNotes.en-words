@@ -1,49 +1,32 @@
 - supervise
   - 发音
-    - 英
-      - `/'suːpərvaɪz/`
-    - 美
-      - `/'sʊpɚ'vaɪz/`
+    - 英 /'suːpərvaɪz/
+    - 美 /'sʊpɚ'vaɪz/
   - 词义
-    - vt.
-      - 监督；指导
-        - `to be in charge of an activity or person, and make sure that things are done in the correct way`
+    - vt. 监督；指导
+      - to be in charge of an activity or person, and make sure that things are done in the correct way
   - 记忆
     - super(在…上面) + vis(看) + e → 在上面看 → 监督
   - 同根词
-    - adj.
-      - `supervisory`
-        - 监督的
-      - `supervised`
-        - 有监督的
-    - n.
-      - `supervisor`
-        - 监督人，[管理] 管理人；检查员
-      - `supervision`
-        - 监督，管理
-      - `supervising`
-        - [自] 监控
-    - v.
-      - `supervising`
-        - 监督；管理；指导（supervise的ing形式）
-      - `supervised`
-        - 监督（supervise的过去式和过去分词）；指导
+    - adj. supervisory 监督的
+    - adj. supervised 有监督的
+    - n. supervisor 监督人，[管理] 管理人；检查员
+    - n. supervision 监督，管理
+    - n. supervising [自] 监控
+    - v. supervising 监督；管理；指导（supervise的ing形式）
+    - v. supervised 监督（supervise的过去式和过去分词）；指导
   - 近义词
-    - vt.
-      - 监督，管理；指导
-        - `manage`
-        - `police`
-        - `conduct`
-        - `run`
-        - `direct`
-    - vi.
-      - 监督，管理；指导
-        - `direct`
-        - `charge of`
+    - vt. 监督，管理；指导
+      - manage
+      - police
+      - conduct
+      - run
+      - direct
+    - vi. 监督，管理；指导
+      - direct
+      - charge of
   - 短语
-    - `supervise the manufacture of`
-      - 监制 
+    - supervise the manufacture of 监制
   - 例句
-    - `Griffiths closely supervised the research.`
-      - 格里菲思密切指导该项研究。
-
+    - Griffiths closely supervised the research. 格里菲思密切指导该项研究。
+  - 补充

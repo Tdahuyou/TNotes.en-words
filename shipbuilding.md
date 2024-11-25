@@ -1,24 +1,16 @@
 - shipbuilding
   - 发音
-    - 英
-      - `/undefined/`
-    - 美
-      - `/'ʃɪp,bɪldɪŋ/`
+    - 英 /undefined/
+    - 美 /'ʃɪp,bɪldɪŋ/
   - 词义
-    - n.
-      - 造船
-        - `the industry of making ships`
+    - n. 造船
+      - the industry of making ships
   - 同根词
-    - n.
-      - `shipbuilder`
-        - 造船工程师；造船专家
-      - `shipway`
-        - 下水台；造船台
+    - n. shipbuilder 造船工程师；造船专家
+    - n. shipway 下水台；造船台
   - 近义词
-    - n.
-      - [船]造船；造船业；造船术
-        - `newbuilding`
+    - n. [船]造船；造船业；造船术
+      - newbuilding
   - 例句
-    - `a shipbuilding yard`
-      - 造船厂
-
+    - a shipbuilding yard 造船厂
+  - 补充

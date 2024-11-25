@@ -1,20 +1,15 @@
 - whence
   - 发音
-    - 英
-      - `/wens/`
-    - 美
-      - `/wɛns/`
+    - 英 /wens/
+    - 美 /wɛns/
   - 词义
-    - adv.
-      - 从何处；从那里
-        - `from where`
+    - adv. 从何处；从那里
+      - from where
   - 近义词
-    - n.
-      - 根源
-        - `parent`
-        - `principle`
-        - `root`
+    - n. 根源
+      - parent
+      - principle
+      - root
   - 例句
-    - `I walked to Rainbagh, whence I could complete the journey by car.`
-      - 我步行至雷恩巴夫，从那里我可以开车走完全程。
-
+    - I walked to Rainbagh, whence I could complete the journey by car. 我步行至雷恩巴夫，从那里我可以开车走完全程。
+  - 补充

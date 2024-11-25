@@ -1,18 +1,13 @@
 - kaput
   - 发音
-    - 英
-      - `/kə'pʊt/`
-    - 美
-      - `/kæ'put/`
+    - 英 /kə'pʊt/
+    - 美 /kæ'put/
   - 词义
-    - adj.
-      - 过时的,故障的,失败了的
+    - adj. 过时的,故障的,失败了的
   - 近义词
-    - adj.
-      - 过时的；故障的；失败了的；坏了的
-        - `ancient`
-        - `demoded`
+    - adj. 过时的；故障的；失败了的；坏了的
+      - ancient
+      - demoded
   - 例句
-    - `The TV’s gone kaput.`
-      - 这台电视机坏了。
-
+    - The TV’s gone kaput. 这台电视机坏了。
+  - 补充

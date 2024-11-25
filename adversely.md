@@ -1,18 +1,13 @@
 - adversely
   - 发音
-    - 英
-      - `/æd'və:sli/`
-    - 美
-      - `/æd'vɝsli/`
+    - 英 /æd'və:sli/
+    - 美 /æd'vɝsli/
   - 词义
-    - adv.
-      - 不利地,逆向地
+    - adv. 不利地,逆向地
   - 同根词
-    - adj.
-      - `adverse`
-        - 不利的；相反的；敌对的（名词adverseness，副词adversely）
+    - adj. adverse 不利的；相反的；敌对的（名词adverseness，副词adversely）
   - 近义词
-    - adv.
-      - 不利地；逆地；反对地
-        - `ill`
-        - `disadvantageously`
+    - adv. 不利地；逆地；反对地
+      - ill
+      - disadvantageously
+  - 补充

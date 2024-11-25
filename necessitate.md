@@ -1,32 +1,22 @@
 - necessitate
   - 发音
-    - 英
-      - `/nə'sesɪteɪt/`
-    - 美
-      - `/nə'sɛsɪtet/`
+    - 英 /nə'sesɪteɪt/
+    - 美 /nə'sɛsɪtet/
   - 词义
-    - vt.
-      - 需要，使成为必要
-        - `to make it necessary for you to do something`
+    - vt. 需要，使成为必要
+      - to make it necessary for you to do something
   - 记忆
     - ne(不) + cess(走开) + it + ate(使…) → 使不走开 → 使成为必要
   - 同根词
-    - adj.
-      - `necessary`
-        - 必要的；必需的；必然的
-    - n.
-      - `necessary`
-        - 必需品
-      - `necessity`
-        - 需要；必然性；必需品
+    - adj. necessary 必要的；必需的；必然的
+    - n. necessary 必需品
+    - n. necessity 需要；必然性；必需品
   - 近义词
-    - vt.
-      - 使成为必需，需要；迫使
-        - `ask`
-        - `lack`
-        - `pressure`
-        - `claim`
+    - vt. 使成为必需，需要；迫使
+      - ask
+      - lack
+      - pressure
+      - claim
   - 例句
-    - `Lack of money necessitated a change of plan.`
-      - 由于缺乏资金，只能改变计划。
-
+    - Lack of money necessitated a change of plan. 由于缺乏资金，只能改变计划。
+  - 补充

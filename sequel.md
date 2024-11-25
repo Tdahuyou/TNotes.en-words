@@ -1,28 +1,20 @@
 - sequel
   - 发音
-    - 英
-      - `/'siːkw(ə)l/`
-    - 美
-      - `/'sikwəl/`
+    - 英 /'siːkw(ə)l/
+    - 美 /'sikwəl/
   - 词义
-    - n.
-      - 续集；结局；继续；后果
-        - `a book, film, play etc that continues the story of an earlier one, usually written or made by the same person`
+    - n. 续集；结局；继续；后果
+      - a book, film, play etc that continues the story of an earlier one, usually written or made by the same person
   - 同根词
-    - adv.
-      - `sequentially`
-        - 从而；继续地；循序地
+    - adv. sequentially 从而；继续地；循序地
   - 近义词
-    - n.
-      - 续集；结局；继续；后果
-        - `conclusion`
-        - `outcome`
-        - `ending`
-        - `continuation`
+    - n. 续集；结局；继续；后果
+      - conclusion
+      - outcome
+      - ending
+      - continuation
   - 短语
-    - `in the sequel`
-      - 结果；后来 
+    - in the sequel 结果；后来
   - 例句
-    - `‘Star Wars’ and its sequels`
-      - 《星球大战》及其续集
-
+    - ‘Star Wars’ and its sequels 《星球大战》及其续集
+  - 补充

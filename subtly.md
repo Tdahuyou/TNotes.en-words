@@ -1,27 +1,16 @@
 - subtly
   - 发音
-    - 英
-      - `/'sʌtli/`
-    - 美
-      - `/'sʌtli/`
+    - 英 /'sʌtli/
+    - 美 /'sʌtli/
   - 词义
-    - adv.
-      - 精细地；巧妙地；敏锐地
+    - adv. 精细地；巧妙地；敏锐地
   - 同根词
-    - adj.
-      - `subtle`
-        - 微妙的；精细的；敏感的；狡猾的；稀薄的
-    - n.
-      - `subtlety`
-        - 微妙；敏锐；精明
-    - vi.
-      - `subtilize`
-        - 过分精细；微妙化
-    - vt.
-      - `subtilize`
-        - 使稀薄；使精细
+    - adj. subtle 微妙的；精细的；敏感的；狡猾的；稀薄的
+    - n. subtlety 微妙；敏锐；精明
+    - vi. subtilize 过分精细；微妙化
+    - vt. subtilize 使稀薄；使精细
   - 近义词
-    - adv.
-      - 精细地；巧妙地；敏锐地
-        - `tenuously`
-        - `skillfully`
+    - adv. 精细地；巧妙地；敏锐地
+      - tenuously
+      - skillfully
+  - 补充

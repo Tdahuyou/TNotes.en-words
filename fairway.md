@@ -1,14 +1,11 @@
 - fairway
   - 发音
-    - 英
-      - `/'feəweɪ/`
-    - 美
-      - `/'fɛrwe/`
+    - 英 /'feəweɪ/
+    - 美 /'fɛrwe/
   - 词义
-    - n.
-      - 航路；水上飞机升降用的水面跑道；（高尔夫球场上的）平坦球道
-        - `the part of a  golf course  that you hit the ball along towards the hole`
+    - n. 航路；水上飞机升降用的水面跑道；（高尔夫球场上的）平坦球道
+      - the part of a  golf course  that you hit the ball along towards the hole
   - 近义词
-    - n.
-      - 航路；水上飞机升降用的水面跑道；（高尔夫球场上的）平坦球道
-        - `water-way`
+    - n. 航路；水上飞机升降用的水面跑道；（高尔夫球场上的）平坦球道
+      - water-way
+  - 补充

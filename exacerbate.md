@@ -1,27 +1,19 @@
 - exacerbate
   - 发音
-    - 英
-      - `/ig'zæsəbeit/`
-    - 美
-      - `/ɪɡ'zæsɚbet/`
+    - 英 /ig'zæsəbeit/
+    - 美 /ɪɡ'zæsɚbet/
   - 词义
-    - v.
-      - 使恶化，使加剧；使发怒
-        - `to make a bad situation worse`
+    - v. 使恶化，使加剧；使发怒
+      - to make a bad situation worse
   - 记忆
     - ex + acerb (苦涩) + ate → 形势恶化让他充满苦涩 → 恶化
   - 同根词
-    - n.
-      - `exacerbation`
-        - 恶化；激怒；增剧
+    - n. exacerbation 恶化；激怒；增剧
   - 近义词
-    - vt.
-      - 使加剧；使恶化；激怒
-        - `anger`
-        - `aggravate`
+    - vt. 使加剧；使恶化；激怒
+      - anger
+      - aggravate
   - 例句
-    - `The recession has exacerbated this problem.`
-      - 经济衰退使这个问题更加严重。
-    - `I don’t want to exacerbate the situation.`
-      - 我不想使情况变得更糟。
-
+    - The recession has exacerbated this problem. 经济衰退使这个问题更加严重。
+    - I don’t want to exacerbate the situation. 我不想使情况变得更糟。
+  - 补充

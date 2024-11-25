@@ -1,18 +1,13 @@
 - roister
   - 发音
-    - 英
-      - `/'rɒɪstə/`
-    - 美
-      - `/'rɔistə/`
+    - 英 /'rɒɪstə/
+    - 美 /'rɔistə/
   - 词义
-    - v.
-      - 摆架子,喝酒喧嚣
+    - v. 摆架子,喝酒喧嚣
   - 同根词
-    - n.
-      - `roisterer`
-        - 摆架子的人；喝酒喧哗者
+    - n. roisterer 摆架子的人；喝酒喧哗者
   - 近义词
-    - vi.
-      - 摆架子；喝酒喧闹
-        - `put on the dog`
-        - `put on airs`
+    - vi. 摆架子；喝酒喧闹
+      - put on the dog
+      - put on airs
+  - 补充

@@ -1,44 +1,31 @@
 - monster
   - 发音
-    - 英
-      - `/'mɑːnstər/`
-    - 美
-      - `/'mɑnstɚ/`
+    - 英 /'mɑːnstər/
+    - 美 /'mɑnstɚ/
   - 词义
-    - adj.
-      - 巨大的，庞大的
-        - `unusually large`
-    - n.
-      - 怪物；庞然大物；恶魔
-        - `an imaginary or ancient creature that is large, ugly, and frightening`
+    - adj. 巨大的，庞大的
+      - unusually large
+    - n. 怪物；庞然大物；恶魔
+      - an imaginary or ancient creature that is large, ugly, and frightening
   - 记忆
     - mon(音似： 猛) + ster → 凶猛可怕的 → 怪物
   - 同根词
-    - adj.
-      - `monstrous`
-        - 巨大的；怪异的；荒谬的；畸形的
+    - adj. monstrous 巨大的；怪异的；荒谬的；畸形的
   - 近义词
-    - n.
-      - 怪物；巨人，巨兽；残忍的人
-        - `giant`
-        - `bugbear`
-    - adj.
-      - 巨大的，庞大的
-        - `huge`
-        - `enormous`
-        - `tremendous`
-        - `massive`
-        - `macro`
+    - n. 怪物；巨人，巨兽；残忍的人
+      - giant
+      - bugbear
+    - adj. 巨大的，庞大的
+      - huge
+      - enormous
+      - tremendous
+      - massive
+      - macro
   - 短语
-    - `loch ness monster`
-      - 尼斯湖水怪（相传在尼斯湖出现的一种巨型怪兽） 
-    - `green-eyed monster`
-      - n. 嫉妒 
-    - `sea monster`
-      - n. 海怪 
+    - loch ness monster 尼斯湖水怪（相传在尼斯湖出现的一种巨型怪兽）
+    - green-eyed monster n. 嫉妒
+    - sea monster n. 海怪
   - 例句
-    - `a monster cat`
-      - 巨型猫
-    - `The song was a monster hit.`
-      - 这首歌大受欢迎。
-
+    - a monster cat 巨型猫
+    - The song was a monster hit. 这首歌大受欢迎。
+  - 补充

@@ -1,28 +1,21 @@
 - Scrooge
   - 发音
-    - 英
-      - `/undefined/`
-    - 美
-      - `/undefined/`
+    - 英 /undefined/
+    - 美 /undefined/
   - 词义
-    - n.
-      - （非正式）吝啬鬼
-        - `someone who hates spending money`
+    - n. （非正式）吝啬鬼
+      - someone who hates spending money
   - 近义词
-    - vt.
-      - 推；挤
-        - `push against`
-        - `squeeze`
-    - vi.
-      - 推；挤
-        - `pile`
-        - `crowd`
-        - `pack`
-    - n.
-      - 吝啬鬼
-        - `screw`
-        - `tightwad`
+    - vt. 推；挤
+      - push against
+      - squeeze
+    - vi. 推；挤
+      - pile
+      - crowd
+      - pack
+    - n. 吝啬鬼
+      - screw
+      - tightwad
   - 例句
-    - `What a bunch of Scrooges.`
-      - 真是一群吝啬鬼。
-
+    - What a bunch of Scrooges. 真是一群吝啬鬼。
+  - 补充

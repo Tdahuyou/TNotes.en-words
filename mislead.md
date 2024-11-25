@@ -1,32 +1,19 @@
 - mislead
   - 发音
-    - 英
-      - `/mɪs'liːd/`
-    - 美
-      - `/'mɪs'lid/`
+    - 英 /mɪs'liːd/
+    - 美 /'mɪs'lid/
   - 词义
-    - v.
-      - 误导
-        - `to make someone believe something that is not true by giving them information that is false or not complete`
+    - v. 误导
+      - to make someone believe something that is not true by giving them information that is false or not complete
   - 同根词
-    - adj.
-      - `misleading`
-        - 令人误解的；引入歧途的
-    - adv.
-      - `misleadingly`
-        - 误导地
-    - n.
-      - `misleader`
-        - 错误引导者；错误领导人
-    - v.
-      - `misleading`
-        - 给…带错路；把…引入歧途（mislead的ing形式）
+    - adj. misleading 令人误解的；引入歧途的
+    - adv. misleadingly 误导地
+    - n. misleader 错误引导者；错误领导人
+    - v. misleading 给…带错路；把…引入歧途（mislead的ing形式）
   - 近义词
-    - vt.
-      - 误导；带错
-        - `misdirect`
-        - `misguide`
+    - vt. 误导；带错
+      - misdirect
+      - misguide
   - 例句
-    - `Don’t be misled by appearances, he’s a good worker.`
-      - 不要被表象迷惑，他工作干得挺不错的。
-
+    - Don’t be misled by appearances, he’s a good worker. 不要被表象迷惑，他工作干得挺不错的。
+  - 补充

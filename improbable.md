@@ -1,21 +1,14 @@
 - improbable
   - 发音
-    - 英
-      - `/ɪm'prɒbəb(ə)l/`
-    - 美
-      - `/ɪm'prɑbəbl/`
+    - 英 /ɪm'prɒbəb(ə)l/
+    - 美 /ɪm'prɑbəbl/
   - 词义
-    - adj.
-      - 不大可能的,不像会发生的,似不可信的
+    - adj. 不大可能的,不像会发生的,似不可信的
   - 同根词
-    - adv.
-      - `improbably`
-        - 不象真实地；未必会地
-    - n.
-      - `improbability`
-        - 未必有之事；不大可能的事物
+    - adv. improbably 不象真实地；未必会地
+    - n. improbability 未必有之事；不大可能的事物
   - 近义词
-    - adj.
-      - 不大可能的，未必确实的；不可信的；未必会发生的
-        - `suspect`
-        - `unbelievable`
+    - adj. 不大可能的，未必确实的；不可信的；未必会发生的
+      - suspect
+      - unbelievable
+  - 补充

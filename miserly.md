@@ -1,27 +1,19 @@
 - miserly
   - 发音
-    - 英
-      - `/'maizəli/`
-    - 美
-      - `/'maizəli/`
+    - 英 /'maizəli/
+    - 美 /'maizəli/
   - 词义
-    - adj.
-      - 吝啬的，贪婪的
-        - `a miserly person is not generous and does not like spending money`
+    - adj. 吝啬的，贪婪的
+      - a miserly person is not generous and does not like spending money
   - 记忆
     - 来自miser (n. 吝啬鬼)
   - 同根词
-    - n.
-      - `miser`
-        - 守财奴；吝啬鬼；（石油工程上用的）凿井机
-      - `miserliness`
-        - 贪婪；吝啬
+    - n. miser 守财奴；吝啬鬼；（石油工程上用的）凿井机
+    - n. miserliness 贪婪；吝啬
   - 近义词
-    - adj.
-      - 吝啬的；贪婪的
-        - `tight`
-        - `pinchpenny`
+    - adj. 吝啬的；贪婪的
+      - tight
+      - pinchpenny
   - 例句
-    - `He is miserly with both his time and his money.`
-      - 他对时间和金钱都非常吝啬。
-
+    - He is miserly with both his time and his money. 他对时间和金钱都非常吝啬。
+  - 补充

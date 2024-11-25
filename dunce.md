@@ -1,19 +1,14 @@
 - dunce
   - 发音
-    - 英
-      - `/dʌns/`
-    - 美
-      - `/dʌns/`
+    - 英 /dʌns/
+    - 美 /dʌns/
   - 词义
-    - n.
-      - 傻瓜；劣学生
-        - `If you say that someone is a dunce, you think they are stupid because they find it difficult or impossible to learn what someone is trying to teach them`
+    - n. 傻瓜；劣学生
+      - If you say that someone is a dunce, you think they are stupid because they find it difficult or impossible to learn what someone is trying to teach them
   - 近义词
-    - n.
-      - 傻瓜；劣学生
-        - `stupid`
-        - `fool`
+    - n. 傻瓜；劣学生
+      - stupid
+      - fool
   - 例句
-    - `Michael may have been a dunce at mathematics, but he was gifted at languages.`
-      - 迈克尔在数学方面可能是个笨学生，但他在语言方面是有天赋的。
-
+    - Michael may have been a dunce at mathematics, but he was gifted at languages. 迈克尔在数学方面可能是个笨学生，但他在语言方面是有天赋的。
+  - 补充

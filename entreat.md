@@ -1,32 +1,22 @@
 - entreat
   - 发音
-    - 英
-      - `/ɪn'triːt/`
-    - 美
-      - `/ɪn'trit/`
+    - 英 /ɪn'triːt/
+    - 美 /ɪn'trit/
   - 词义
-    - v.
-      - 乞求，恳求，请求
-        - `to ask someone, in a very emotional way, to do something for you`
+    - v. 乞求，恳求，请求
+      - to ask someone, in a very emotional way, to do something for you
   - 记忆
     - en(在…里面) + treat(拉) → 在里面拉 → 乞求， 恳求
   - 同根词
-    - adv.
-      - `entreatingly`
-        - 乞求地；哀求地
-    - n.
-      - `entreaty`
-        - 恳求；乞求
+    - adv. entreatingly 乞求地；哀求地
+    - n. entreaty 恳求；乞求
   - 近义词
-    - vt.
-      - 恳求；请求
-        - `pray for`
-        - `appeal for`
-    - vi.
-      - 恳求；乞求
-        - `pray for`
-        - `cry on`
+    - vt. 恳求；请求
+      - pray for
+      - appeal for
+    - vi. 恳求；乞求
+      - pray for
+      - cry on
   - 例句
-    - `He entreated them to delay their departure.`
-      - 他恳求他们晚些再走。
-
+    - He entreated them to delay their departure. 他恳求他们晚些再走。
+  - 补充

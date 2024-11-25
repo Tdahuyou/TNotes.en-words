@@ -1,25 +1,16 @@
 - vituperative
   - 发音
-    - 英
-      - `/undefined/`
-    - 美
-      - `/undefined/`
+    - 英 /undefined/
+    - 美 /undefined/
   - 词义
-    - adj.
-      - 责骂的
-        - `full of angry and cruel criticism`
+    - adj. 责骂的
+      - full of angry and cruel criticism
   - 同根词
-    - n.
-      - `vituperation`
-        - 谩骂；辱骂；坏话
-    - vt.
-      - `vituperate`
-        - 谩骂；责骂
+    - n. vituperation 谩骂；辱骂；坏话
+    - vt. vituperate 谩骂；责骂
   - 近义词
-    - adj.
-      - 责骂的
-        - `scolding`
+    - adj. 责骂的
+      - scolding
   - 例句
-    - `vituperative comments`
-      - 谩骂性的评论
-
+    - vituperative comments 谩骂性的评论
+  - 补充

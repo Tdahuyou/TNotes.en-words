@@ -1,23 +1,16 @@
 - sandal
   - 发音
-    - 英
-      - `/'sænd(ə)l/`
-    - 美
-      - `/'sændl/`
+    - 英 /'sænd(ə)l/
+    - 美 /'sændl/
   - 词义
-    - n.
-      - 凉鞋,檀香
-        - `a light shoe that is fastened onto your foot by bands of leather or cloth, and is worn in warm weather`
+    - n. 凉鞋,檀香
+      - a light shoe that is fastened onto your foot by bands of leather or cloth, and is worn in warm weather
   - 同根词
-    - n.
-      - `sandalwood`
-        - 檀香，白檀；檀香木
+    - n. sandalwood 檀香，白檀；檀香木
   - 近义词
-    - n.
-      - [服装]凉鞋；檀香；檀香木；便鞋
-        - `santal`
-        - `almug`
+    - n. [服装]凉鞋；檀香；檀香木；便鞋
+      - santal
+      - almug
   - 例句
-    - `a pair of sandals`
-      - 一双凉鞋
-
+    - a pair of sandals 一双凉鞋
+  - 补充

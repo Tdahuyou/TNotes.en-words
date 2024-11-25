@@ -1,14 +1,11 @@
 - unhappiness
   - 发音
-    - 英
-      - `/undefined/`
-    - 美
-      - `/ʌn'hæpinis/`
+    - 英 /undefined/
+    - 美 /ʌn'hæpinis/
   - 词义
-    - n.
-      - 忧愁，苦恼
+    - n. 忧愁，苦恼
   - 近义词
-    - n.
-      - 苦恼；忧愁
-        - `depression`
-        - `agony`
+    - n. 苦恼；忧愁
+      - depression
+      - agony
+  - 补充

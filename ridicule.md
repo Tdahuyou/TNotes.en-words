@@ -1,28 +1,21 @@
 - ridicule
   - 发音
-    - 英
-      - `/'rɪdɪkjuːl/`
-    - 美
-      - `/'rɪdɪ'kjʊl/`
+    - 英 /'rɪdɪkjuːl/
+    - 美 /'rɪdɪ'kjʊl/
   - 词义
-    - vt.
-      - 嘲笑，奚落
-        - `to laugh at a person, idea etc and say that they are stupid`
-    - n.
-      - 嘲笑，奚落
-        - `unkind laughter or remarks that are intended to make someone or something seem stupid`
+    - vt. 嘲笑，奚落
+      - to laugh at a person, idea etc and say that they are stupid
+    - n. 嘲笑，奚落
+      - unkind laughter or remarks that are intended to make someone or something seem stupid
   - 记忆
     - rid(笑) + icule → 嘲笑， 奚落
   - 近义词
-    - vt.
-      - 嘲笑；嘲弄；愚弄
-        - `guy`
-        - `deride`
-    - n.
-      - 嘲笑；笑柄；愚弄
-        - `joke`
-        - `derision`
+    - vt. 嘲笑；嘲弄；愚弄
+      - guy
+      - deride
+    - n. 嘲笑；笑柄；愚弄
+      - joke
+      - derision
   - 例句
-    - `At the time, his ideas were ridiculed.`
-      - 当时他的观点被人讥笑。
-
+    - At the time, his ideas were ridiculed. 当时他的观点被人讥笑。
+  - 补充

@@ -1,19 +1,14 @@
 - nickname
   - 发音
-    - 英
-      - `/'nɪkneɪm/`
-    - 美
-      - `/'nɪk'nem/`
+    - 英 /'nɪkneɪm/
+    - 美 /'nɪk'nem/
   - 词义
-    - n.
-      - 绰号,昵称
-        - `a name given to someone, especially by their friends or family, that is not their real name and is often connected with what they look like or something they have done`
+    - n. 绰号,昵称
+      - a name given to someone, especially by their friends or family, that is not their real name and is often connected with what they look like or something they have done
   - 近义词
-    - n.
-      - 绰号；昵称
-        - `sobriquet`
-        - `agname`
+    - n. 绰号；昵称
+      - sobriquet
+      - agname
   - 例句
-    - `Stephen earned himself the nickname Hawkeye.`
-      - 斯蒂芬得了个“鹰眼”的绰号。
-
+    - Stephen earned himself the nickname Hawkeye. 斯蒂芬得了个“鹰眼”的绰号。
+  - 补充

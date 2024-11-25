@@ -1,21 +1,16 @@
 - incongruity
   - 发音
-    - 英
-      - `/ˌɪnkɑːn'gruːəti/`
-    - 美
-      - `/,ɪnkɑŋ'grʊəti/`
+    - 英 /ˌɪnkɑːn'gruːəti/
+    - 美 /,ɪnkɑŋ'grʊəti/
   - 词义
-    - n.
-      - 不一致，不和谐
-        - `the fact that something is strange, unusual, or unsuitable in a particular situation`
+    - n. 不一致，不和谐
+      - the fact that something is strange, unusual, or unsuitable in a particular situation
   - 记忆
     - in(不) + congruity(一致， 和谐) → 不一致， 不和谐
   - 近义词
-    - n.
-      - 不协调；不一致；不适宜
-        - `variance`
-        - `disparity`
+    - n. 不协调；不一致；不适宜
+      - variance
+      - disparity
   - 例句
-    - `The incongruity of her situation struck Gina with unpleasant force.`
-      - 吉娜猛然意识到自己处境尴尬，心里很不舒服。
-
+    - The incongruity of her situation struck Gina with unpleasant force. 吉娜猛然意识到自己处境尴尬，心里很不舒服。
+  - 补充

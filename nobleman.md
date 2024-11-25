@@ -1,24 +1,17 @@
 - nobleman
   - 发音
-    - 英
-      - `/'nəʊb(ə)lmən/`
-    - 美
-      - `/'noblmən/`
+    - 英 /'nəʊb(ə)lmən/
+    - 美 /'noblmən/
   - 词义
-    - n.
-      - 贵族
-        - `a man who is a member of the highest social class and has a title such as ‘Duke’`
+    - n. 贵族
+      - a man who is a member of the highest social class and has a title such as ‘Duke’
   - 同根词
-    - n.
-      - `nobility`
-        - 贵族；高贵；高尚
+    - n. nobility 贵族；高贵；高尚
   - 近义词
-    - n.
-      - 贵族
-        - `prince`
-        - `nobility`
-        - `aristocrat`
+    - n. 贵族
+      - prince
+      - nobility
+      - aristocrat
   - 例句
-    - `It had once been the home of a wealthy nobleman.`
-      - 这曾是一个有钱贵族的宅邸。
-
+    - It had once been the home of a wealthy nobleman. 这曾是一个有钱贵族的宅邸。
+  - 补充

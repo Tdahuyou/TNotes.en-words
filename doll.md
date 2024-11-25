@@ -1,36 +1,22 @@
 - doll
   - 发音
-    - 英
-      - `/dɒl/`
-    - 美
-      - `/dɑl/`
+    - 英 /dɒl/
+    - 美 /dɑl/
   - 词义
-    - n.
-      - 洋娃娃,玩偶
-        - `a child’s toy that looks like a small person or baby`
+    - n. 洋娃娃,玩偶
+      - a child’s toy that looks like a small person or baby
   - 同根词
-    - n.
-      - `dolly`
-        - 洋娃娃；手推车；移动式摄影车；洗衣搅棒
-    - vi.
-      - `dolly`
-        - 移动摄影车
-    - vt.
-      - `dolly`
-        - 用移动车移动
+    - n. dolly 洋娃娃；手推车；移动式摄影车；洗衣搅棒
+    - vi. dolly 移动摄影车
+    - vt. dolly 用移动车移动
   - 近义词
-    - n.
-      - 洋娃娃；玩偶；无头脑的美丽女人
-        - `babydoll`
-        - `Living Doll`
+    - n. 洋娃娃；玩偶；无头脑的美丽女人
+      - babydoll
+      - Living Doll
   - 短语
-    - `barbie doll`
-      - 芭比娃娃；没有头脑的人；徒有其表的人 
-    - `rag doll`
-      - 布洋娃娃；碎布制玩偶 
-    - `baby doll`
-      - 婴儿娃娃；小布娃娃 
+    - barbie doll 芭比娃娃；没有头脑的人；徒有其表的人
+    - rag doll 布洋娃娃；碎布制玩偶
+    - baby doll 婴儿娃娃；小布娃娃
   - 例句
-    - `a small wooden doll`
-      - 一个小木玩偶
-
+    - a small wooden doll 一个小木玩偶
+  - 补充

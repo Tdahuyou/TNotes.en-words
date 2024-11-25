@@ -1,28 +1,16 @@
 - barbershop
   - 发音
-    - 英
-      - `/'bɑːbəʃɒp/`
-    - 美
-      - `/'bɑrbɚ'ʃɑp/`
+    - 英 / 'bɑːbəʃɒp /
+    - 美 /'bɑrbɚ'ʃɑp/
   - 词义
-    - n.
-      - 理发店
-        - `a style of singing popular songs with parts for four men, usually without music`
-    - adj.
-      - 有男声合唱之和声的
+    - n. 理发店
+      - a style of singing popular songs with parts for four men, usually without music
   - 记忆
     - barber(理发师)+shop(商店)→理发师的店铺→理发店
   - 同根词
-    - n.
-      - `barber`
-        - 理发师
-    - vi.
-      - `barber`
-        - 当理发师
-    - vt.
-      - `barber`
-        - 为…理发；修整
+    - n. barber 理发师
+    - vi. barber 当理发师
+    - vt. barber 为…理发；修整
   - 例句
-    - `a barbershop quartet`
-      - 男声四重唱
-
+    - a barbershop quartet 男声四重唱
+  - 补充

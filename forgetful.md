@@ -1,35 +1,20 @@
 - forgetful
   - 发音
-    - 英
-      - `/fə'getfʊl; -f(ə)l/`
-    - 美
-      - `/fɚ'gɛtfəl/`
+    - 英 /fə'getfʊl; -f(ə)l/
+    - 美 /fɚ'gɛtfəl/
   - 词义
-    - adj.
-      - 健忘的
-        - `often forgetting things`
+    - adj. 健忘的
+      - often forgetting things
   - 同根词
-    - adj.
-      - `forgettable`
-        - 可忘记的；容易被忘的
-    - adv.
-      - `forgetfully`
-        - 不注意地；健忘地
-    - n.
-      - `forgetfulness`
-        - 健忘，忽略
-    - vi.
-      - `forget`
-        - 忘记
-    - vt.
-      - `forget`
-        - 忘记；忽略
+    - adj. forgettable 可忘记的；容易被忘的
+    - adv. forgetfully 不注意地；健忘地
+    - n. forgetfulness 健忘，忽略
+    - vi. forget 忘记
+    - vt. forget 忘记；忽略
   - 近义词
-    - adj.
-      - 健忘的；不注意的；疏忽的；使遗忘的
-        - `oblivious`
-        - `inadvertent`
+    - adj. 健忘的；不注意的；疏忽的；使遗忘的
+      - oblivious
+      - inadvertent
   - 例句
-    - `My mother has become very forgetful and confused.`
-      - 我母亲已变得很健忘很糊涂了。
-
+    - My mother has become very forgetful and confused. 我母亲已变得很健忘很糊涂了。
+  - 补充

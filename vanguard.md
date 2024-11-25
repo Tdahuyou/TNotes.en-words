@@ -1,19 +1,15 @@
 - vanguard
   - 发音
-    - 英
-      - `/'vængɑːd/`
-    - 美
-      - `/'vænɡɑrd/`
+    - 英 /'vængɑːd/
+    - 美 /'vænɡɑrd/
   - 词义
-    - n.
-      - 先锋；前锋科学卫星
-        - `the leading position at the front of an army or group of ships moving into battle, or the soldiers who are in this position`
+    - n. 先锋；前锋科学卫星
+      - the leading position at the front of an army or group of ships moving into battle, or the soldiers who are in this position
   - 近义词
-    - n.
-      - 先锋；前锋；先驱；领导者
-        - `leader`
-        - `Moses`
-        - `pioneer`
+    - n. 先锋；前锋；先驱；领导者
+      - leader
+      - Moses
+      - pioneer
   - 短语
-    - `vanguard technology`
-      - 先进技术，先进生产工艺；万古科技 
+    - vanguard technology 先进技术，先进生产工艺；万古科技
+  - 补充

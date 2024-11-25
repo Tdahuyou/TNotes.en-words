@@ -1,15 +1,11 @@
 - reconvene
   - 发音
-    - 英
-      - `/undefined/`
-    - 美
-      - `/,ri:kən'vi:n/`
+    - 英 /ˌriːkən'viːn/
+    - 美 /,ri:kən'vi:n/
   - 词义
-    - v.
-      - 再聚会；再集会
+    - v. 再集会
   - 记忆
     - re(重新) + convene(集会) → 再集会
   - 例句
-    - `Large Wall Clock: so all can see when the stand-up will start or when meetings will reconvene.`
-      - 大型挂钟：通过它所有的人都能知道立会何时开始，或何时召集会议。
-
+    - The conference might reconvene after its opening session. 会议可能会在开幕式之后重新召集。
+  - 补充

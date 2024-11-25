@@ -1,25 +1,18 @@
 - overpower
   - 发音
-    - 英
-      - `/ˌəuvə'pauə/`
-    - 美
-      - `/'ovɚ'paʊɚ/`
+    - 英 /ˌəuvə'pauə/
+    - 美 /'ovɚ'paʊɚ/
   - 词义
-    - v.
-      - 制服，压倒；供给…过强的力量
-        - `If you overpower someone, you manage to take hold of and keep hold of them, although they struggle a lot`
+    - v. 制服，压倒；供给…过强的力量
+      - If you overpower someone, you manage to take hold of and keep hold of them, although they struggle a lot
   - 记忆
     - over (在…之上) + power (力量) → 压制力量 → 压倒
   - 同根词
-    - adj.
-      - `overpowering`
-        - 压倒性的；无法抵抗的
+    - adj. overpowering 压倒性的；无法抵抗的
   - 近义词
-    - vt.
-      - 压倒；克服；使无法忍受
-        - `snow under`
-        - `outbrave`
+    - vt. 压倒；克服；使无法忍受
+      - snow under
+      - outbrave
   - 例句
-    - `It took ten guardsmen to overpower him.`
-      - 动用了10个守卫才将他制服。
-
+    - It took ten guardsmen to overpower him. 动用了10个守卫才将他制服。
+  - 补充

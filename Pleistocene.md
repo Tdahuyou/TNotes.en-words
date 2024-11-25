@@ -1,13 +1,10 @@
 - pleistocene
   - 发音
-    - 英
-      - `/'plaistəusi:n/`
-    - 美
-      - `/'plaistəusi:n/`
+    - 英 /'plaistəusi:n/
+    - 美 /'plaistəusi:n/
   - 词义
-    - n&a.
-      - [地]更新世(的)(一段时期)
-        - `the Pleistocene epoch or rock series `
+    - n&a. [地]更新世(的)(一段时期)
+      - the Pleistocene epoch or rock series 
   - 短语
-    - `pleistocene epoch`
-      - 更新世 
+    - pleistocene epoch 更新世
+  - 补充

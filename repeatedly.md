@@ -1,48 +1,26 @@
 - repeatedly
   - 发音
-    - 英
-      - `/rɪ'piːtɪdlɪ/`
-    - 美
-      - `/rɪ'pitɪdli/`
+    - 英 /rɪ'piːtɪdlɪ/
+    - 美 /rɪ'pitɪdli/
   - 词义
-    - adv.
-      - 重复地,再三地
-        - `If you do something repeatedly, you do it many times`
+    - adv. 重复地,再三地
+      - If you do something repeatedly, you do it many times
   - 同根词
-    - adj.
-      - `repetitive`
-        - 重复的
-      - `repeated`
-        - 再三的，反复的
-      - `repeatable`
-        - 可重复的；可复验的
-    - adv.
-      - `repetitively`
-        - 重复地
-    - n.
-      - `repeat`
-        - 重复；副本
-      - `repetition`
-        - 重复；背诵；副本
-      - `repeater`
-        - [通信] 中继器；[通信] 转发器；重复者
-      - `repetitiveness`
-        - 重复
-    - v.
-      - `repeated`
-        - 重复；复述（repeat的过去分词）
-    - vi.
-      - `repeat`
-        - 重做；重复发生
-    - vt.
-      - `repeat`
-        - 重复；复制；背诵
+    - adj. repetitive 重复的
+    - adj. repeated 再三的，反复的
+    - adj. repeatable 可重复的；可复验的
+    - adv. repetitively 重复地
+    - n. repeat 重复；副本
+    - n. repetition 重复；背诵；副本
+    - n. repeater [通信] 中继器；[通信] 转发器；重复者
+    - n. repetitiveness 重复
+    - v. repeated 重复；复述（repeat的过去分词）
+    - vi. repeat 重做；重复发生
+    - vt. repeat 重复；复制；背诵
   - 近义词
-    - adv.
-      - 反复地；再三地；屡次地
-        - `again and again`
-        - `iteratively`
+    - adv. 反复地；再三地；屡次地
+      - again and again
+      - iteratively
   - 例句
-    - `Both men have repeatedly denied the allegations.`
-      - 两个人都再三地否认这些指控。
-
+    - Both men have repeatedly denied the allegations. 两个人都再三地否认这些指控。
+  - 补充

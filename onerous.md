@@ -1,21 +1,16 @@
 - onerous
   - 发音
-    - 英
-      - `/'ɔnərəs/`
-    - 美
-      - `/'ɑnərəs/`
+    - 英 /'ɔnərəs/
+    - 美 /'ɑnərəs/
   - 词义
-    - adj.
-      - 繁重的；麻烦的；负有法律责任的
-        - `work or a responsibility that is onerous is difficult and worrying or makes you tired`
+    - adj. 繁重的；麻烦的；负有法律责任的
+      - work or a responsibility that is onerous is difficult and worrying or makes you tired
   - 记忆
     - oner (劳动) + ous → 繁重的
   - 近义词
-    - adj.
-      - 繁重的；麻烦的；负有义务的；负有法律责任的
-        - `heavy`
-        - `tight`
+    - adj. 繁重的；麻烦的；负有义务的；负有法律责任的
+      - heavy
+      - tight
   - 例句
-    - `an onerous task`
-      - 艰巨的任务
-
+    - an onerous task 艰巨的任务
+  - 补充

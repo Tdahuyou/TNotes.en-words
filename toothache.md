@@ -1,21 +1,15 @@
 - toothache
   - 发音
-    - 英
-      - `/'tuːθeɪk/`
-    - 美
-      - `/'tuθek/`
+    - 英 /'tuːθeɪk/
+    - 美 /'tuθek/
   - 词义
-    - n.
-      - 牙痛
-        - `a pain in a tooth`
+    - n. 牙痛
+      - a pain in a tooth
   - 近义词
-    - n.
-      - [口腔]牙痛
-        - `odontalgia`
-        - `dentagra`
+    - n. [口腔]牙痛
+      - odontalgia
+      - dentagra
   - 例句
-    - `I’ve got toothache .`
-      - 我牙痛。
-    - `I had terrible toothache all last night.`
-      - 昨晚我一整夜牙疼得厉害。
-
+    - I’ve got toothache . 我牙痛。
+    - I had terrible toothache all last night. 昨晚我一整夜牙疼得厉害。
+  - 补充

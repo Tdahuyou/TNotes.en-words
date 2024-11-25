@@ -1,26 +1,19 @@
 - wee
   - 发音
-    - 英
-      - `/wiː/`
-    - 美
-      - `/wi/`
+    - 英 /wiː/
+    - 美 /wi/
   - 词义
-    - adj.
-      - 很少的,微小的
-        - `very small – used especially in Scottish English`
+    - adj. 很少的,微小的
+      - very small – used especially in Scottish English
   - 近义词
-    - adj.
-      - 极小的；很早的
-        - `itty-bitty`
-        - `teeny`
-    - n.
-      - 一点点
-        - `little bit`
-        - `smitch`
+    - adj. 极小的；很早的
+      - itty-bitty
+      - teeny
+    - n. 一点点
+      - little bit
+      - smitch
   - 短语
-    - `wee hours`
-      - 凌晨 
+    - wee hours 凌晨
   - 例句
-    - `My wee boy is three.`
-      - 我的小儿子三岁。
-
+    - My wee boy is three. 我的小儿子三岁。
+  - 补充

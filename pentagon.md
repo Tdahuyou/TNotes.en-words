@@ -1,14 +1,10 @@
 - pentagon
   - 发音
-    - 英
-      - `/'pentəɡ(ə)n/`
-    - 美
-      - `/'pɛntəɡɑn/`
+    - 英 /'pentəɡ(ə)n/
+    - 美 /'pɛntəɡɑn/
   - 词义
-    - n.
-      - 五角形,五边形
-        - `a flat shape with five sides and five angles`
+    - n. 五角形,五边形
+      - a flat shape with five sides and five angles
   - 同根词
-    - adj.
-      - `pentagonal`
-        - 五角的；五边形的
+    - adj. pentagonal 五角的；五边形的
+  - 补充

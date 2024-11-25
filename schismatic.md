@@ -1,22 +1,16 @@
 - schismatic
   - 发音
-    - 英
-      - `/sɪz'mætɪk; skɪz-/`
-    - 美
-      - `/skɪz'mætɪk/`
+    - 英 /sɪz'mætɪk; skɪz-/
+    - 美 /skɪz'mætɪk/
   - 词义
-    - n.
-      - 分裂者,分裂论者
-        - `a person who causes schism or belongs to a schismatic faction `
+    - n. 分裂者,分裂论者
+      - a person who causes schism or belongs to a schismatic faction 
   - 同根词
-    - n.
-      - `schism`
-        - 分裂；分裂教会罪
+    - n. schism 分裂；分裂教会罪
   - 近义词
-    - adj.
-      - 分裂的；派别的
-        - `divided`
-        - `partite`
-    - n.
-      - 分裂者；主张分裂者
-        - `disruptor`
+    - adj. 分裂的；派别的
+      - divided
+      - partite
+    - n. 分裂者；主张分裂者
+      - disruptor
+  - 补充

@@ -1,31 +1,20 @@
 - hedonism
   - 发音
-    - 英
-      - `/'hiːdənizəm/`
-    - 美
-      - `/'hidənɪzəm/`
+    - 英 /'hiːdənizəm/
+    - 美 /'hidənɪzəm/
   - 词义
-    - n.
-      - 享乐主义
-        - `Hedonism is the belief that gaining pleasure is the most important thing in life`
+    - n. 享乐主义
+      - Hedonism is the belief that gaining pleasure is the most important thing in life
   - 记忆
     - 来自希腊语hedon (快乐) + ism (主义) → 享乐主义
   - 同根词
-    - adj.
-      - `hedonic`
-        - 享乐的；快乐的；快乐论的
-      - `hedonist`
-        - 享乐主义者的
-    - n.
-      - `hedonic`
-        - 快乐论
-      - `hedonist`
-        - 快乐主义者；享乐主义者
+    - adj. hedonic 享乐的；快乐的；快乐论的
+    - adj. hedonist 享乐主义者的
+    - n. hedonic 快乐论
+    - n. hedonist 快乐主义者；享乐主义者
   - 近义词
-    - n.
-      - 快乐主义；快乐论
-        - `tragalism`
+    - n. 快乐主义；快乐论
+      - tragalism
   - 例句
-    - `...the life of hedonism that she embraced in her youth.`
-      - …她年轻时所奉行的享乐主义生活。
-
+    - ...the life of hedonism that she embraced in her youth. …她年轻时所奉行的享乐主义生活。
+  - 补充

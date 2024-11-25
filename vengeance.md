@@ -1,35 +1,22 @@
 - vengeance
   - 发音
-    - 英
-      - `/'ven(d)ʒ(ə)ns/`
-    - 美
-      - `/'vɛndʒəns/`
+    - 英 /'ven(d)ʒ(ə)ns/
+    - 美 /'vɛndʒəns/
   - 词义
-    - n.
-      - 复仇；报复；报仇
-        - `a violent or harmful action that someone does to punish someone for harming them or their family`
+    - n. 复仇；报复；报仇
+      - a violent or harmful action that someone does to punish someone for harming them or their family
   - 同根词
-    - adj.
-      - `vengeful`
-        - 复仇的，报复的；复仇心重的
-    - adv.
-      - `vengefully`
-        - 复仇心切地
+    - adj. vengeful 复仇的，报复的；复仇心重的
+    - adv. vengefully 复仇心切地
   - 近义词
-    - n.
-      - 复仇；报复；报仇
-        - `revenge`
-        - `revanche`
+    - n. 复仇；报复；报仇
+      - revenge
+      - revanche
   - 短语
-    - `with a vengeance`
-      - adv. 猛烈地；极度地 
-    - `take vengeance on someone`
-      - 向某人报复 
+    - with a vengeance adv. 猛烈地；极度地
+    - take vengeance on someone 向某人报复
   - 例句
-    - `a desire for vengeance`
-      - 复仇的愿望
-    - `a vow of vengeance`
-      - 复仇的誓言
-    - `an act of vengeance`
-      - 复仇的行为
-
+    - a desire for vengeance 复仇的愿望
+    - a vow of vengeance 复仇的誓言
+    - an act of vengeance 复仇的行为
+  - 补充

@@ -1,19 +1,13 @@
 - housecraft
   - 发音
-    - 英
-      - `/undefined/`
-    - 美
-      - `/undefined/`
+    - 英 /undefined/
+    - 美 /undefined/
   - 词义
-    - n.
-      - 家政学；（英）管家的技能
+    - n. 家政学；（英）管家的技能
   - 同根词
-    - n.
-      - `housekeeping`
-        - 家政；家务管理；家用开支
-      - `housekeeper`
-        - 女管家；主妇
+    - n. housekeeping 家政；家务管理；家用开支
+    - n. housekeeper 女管家；主妇
   - 近义词
-    - n.
-      - 家政学；（英）管家的技能
-        - `domestic science`
+    - n. 家政学；（英）管家的技能
+      - domestic science
+  - 补充

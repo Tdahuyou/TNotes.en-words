@@ -1,15 +1,12 @@
 - scads
   - 发音
-    - 英
-      - `/skædz/`
-    - 美
-      - `/undefined/`
+    - 英 /skædz/
+    - 美 /undefined/
   - 词义
-    - n.
-      - 许多，巨额
+    - n. 许多，巨额
   - 近义词
-    - n.
-      - 很多；巨额
-        - `enough`
-        - `ton`
-        - `plenty of`
+    - n. 很多；巨额
+      - enough
+      - ton
+      - plenty of
+  - 补充

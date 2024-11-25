@@ -1,47 +1,32 @@
 - collapse
   - 发音
-    - 英
-      - `/kə'læps/`
-    - 美
-      - `/kə'læps/`
+    - 英 /kə'læps/
+    - 美 /kə'læps/
   - 词义
-    - v&n.
-      - 崩溃，倒塌；虚脱
-        - `if a building, wall etc collapses, it falls down suddenly, usually because it is weak or damaged`
+    - v&n. 崩溃，倒塌；虚脱
+      - if a building, wall etc collapses, it falls down suddenly, usually because it is weak or damaged
   - 记忆
     - col + lapse(滑倒) → 一出门就滑倒， 真让人崩溃 → 崩溃
   - 同根词
-    - adj.
-      - `collapsible`
-        - 可折叠的；可拆卸的
-    - n.
-      - `collapsibility`
-        - 崩散性；易坍塌性
+    - adj. collapsible 可折叠的；可拆卸的
+    - n. collapsibility 崩散性；易坍塌性
   - 近义词
-    - vi.
-      - 倒塌；瓦解；暴跌
-        - `founder`
-        - `fall in`
-    - vt.
-      - 使倒塌，使崩溃；使萎陷
-        - `crumple up`
-    - n.
-      - 倒塌；失败；衰竭
-        - `failure`
-        - `loss`
-        - `losing`
-        - `defeat`
-        - `reverse`
+    - vi. 倒塌；瓦解；暴跌
+      - founder
+      - fall in
+    - vt. 使倒塌，使崩溃；使萎陷
+      - crumple up
+    - n. 倒塌；失败；衰竭
+      - failure
+      - loss
+      - losing
+      - defeat
+      - reverse
   - 短语
-    - `collapse mechanism`
-      - 破坏机构 
-    - `collapse strength`
-      - 抗挤强度；破裂强度 
-    - `collapse load`
-      - 损毁荷载，极限载荷；破坏负荷；临界纵向荷载 
+    - collapse mechanism 破坏机构
+    - collapse strength 抗挤强度；破裂强度
+    - collapse load 损毁荷载，极限载荷；破坏负荷；临界纵向荷载
   - 例句
-    - `Uncle Ted’s chair collapsed under his weight.`
-      - 椅子承受不了特德叔叔的重量，塌架了。
-    - `The roof had collapsed long ago.`
-      - 屋顶早就塌了。
-
+    - Uncle Ted’s chair collapsed under his weight. 椅子承受不了特德叔叔的重量，塌架了。
+    - The roof had collapsed long ago. 屋顶早就塌了。
+  - 补充

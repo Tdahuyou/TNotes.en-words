@@ -1,19 +1,15 @@
 - debenture
   - 发音
-    - 英
-      - `/di'bentʃə/`
-    - 美
-      - `/dɪ'bɛntʃɚ/`
+    - 英 /di'bentʃə/
+    - 美 /dɪ'bɛntʃɚ/
   - 词义
-    - n.
-      - 借方；计入借方的款项；公司债券
-        - `an official document produced by a company showing how much  interest  it will pay on a  loan `
+    - n. 借方；计入借方的款项；公司债券
+      - an official document produced by a company showing how much  interest  it will pay on a  loan 
   - 记忆
     - debent(看作debt， 债务) + ure(表名词) → 公司债券
   - 近义词
-    - n.
-      - （英）[金融]公司债券；[税收]退税证明书
-        - `corporation bond`
+    - n. （英）[金融]公司债券；[税收]退税证明书
+      - corporation bond
   - 短语
-    - `debenture bond`
-      - 无担保债券；无押债券；信用债券 
+    - debenture bond 无担保债券；无押债券；信用债券
+  - 补充

@@ -1,28 +1,18 @@
 - flabby
   - 发音
-    - 英
-      - `/'flæbɪ/`
-    - 美
-      - `/'flæbi/`
+    - 英 /'flæbɪ/
+    - 美 /'flæbi/
   - 词义
-    - adj.
-      - 松弛的；软弱的；没气力的；优柔寡断的
-        - `having unattractive soft loose flesh rather than strong muscles`
+    - adj. 松弛的；软弱的；没气力的；优柔寡断的
+      - having unattractive soft loose flesh rather than strong muscles
   - 同根词
-    - adv.
-      - `flabbily`
-        - 松弛地；软弱地；无活力地
-    - n.
-      - `flab`
-        - 松弛；松弛的肌肉
-      - `flabbiness`
-        - 软弱；无气力
+    - adv. flabbily 松弛地；软弱地；无活力地
+    - n. flab 松弛；松弛的肌肉
+    - n. flabbiness 软弱；无气力
   - 近义词
-    - adj.
-      - 松弛的；软弱的；没气力的；优柔寡断的
-        - `laid`
-        - `soft`
+    - adj. 松弛的；软弱的；没气力的；优柔寡断的
+      - laid
+      - soft
   - 例句
-    - `a flabby stomach`
-      - 松弛的腹部
-
+    - a flabby stomach 松弛的腹部
+  - 补充

@@ -1,25 +1,18 @@
 - unrelenting
   - 发音
-    - 英
-      - `/ʌnrɪ'lentɪŋ/`
-    - 美
-      - `/,ʌnrɪ'lɛntɪŋ/`
+    - 英 /ʌnrɪ'lentɪŋ/
+    - 美 /,ʌnrɪ'lɛntɪŋ/
   - 词义
-    - adj.
-      - 无情的；不屈不挠的；不松懈的
-        - `an unpleasant situation that is unrelenting continues for a long time without stopping`
+    - adj. 无情的；不屈不挠的；不松懈的
+      - an unpleasant situation that is unrelenting continues for a long time without stopping
   - 同根词
-    - adv.
-      - `unrelentingly`
-        - 无情地
+    - adv. unrelentingly 无情地
   - 近义词
-    - adj.
-      - 无情的；不屈不挠的；不松懈的
-        - `tough`
-        - `relentless`
-        - `inexorable`
-        - `ruthless`
+    - adj. 无情的；不屈不挠的；不松懈的
+      - tough
+      - relentless
+      - inexorable
+      - ruthless
   - 例句
-    - `the unrelenting pressures of the job`
-      - 持续的工作压力
-
+    - the unrelenting pressures of the job 持续的工作压力
+  - 补充

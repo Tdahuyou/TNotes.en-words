@@ -1,41 +1,25 @@
 - canonical
   - 发音
-    - 英
-      - `/kə'nɔnikəl/`
-    - 美
-      - `/kə'nɑnɪkl/`
+    - 英 /kə'nɔnikəl/
+    - 美 /kə'nɑnɪkl/
   - 词义
-    - adj.
-      - 规范的；权威的
-        - `If something has canonical status, it is accepted as having all the qualities that a thing of its kind should have`
+    - adj. 规范的；权威的
+      - If something has canonical status, it is accepted as having all the qualities that a thing of its kind should have
   - 同根词
-    - adj.
-      - `canonic`
-        - 轮唱的；依教规的
-    - adv.
-      - `canonically`
-        - 照教规地；宗教上地
+    - adj. canonic 轮唱的；依教规的
+    - adv. canonically 照教规地；宗教上地
   - 近义词
-    - adj.
-      - 依教规的；权威的；牧师的
-        - `ministerial`
-        - `ecclesiastical`
+    - adj. 依教规的；权威的；牧师的
+      - ministerial
+      - ecclesiastical
   - 短语
-    - `canonical correlation`
-      - 典型相关 
-    - `canonical correlation analysis`
-      - 典型相关分析；典范相关分析 
-    - `canonical form`
-      - 规范形式；[语]语言的语音典型 
-    - `canonical transformation`
-      - 正则变换 
-    - `canonical ensemble`
-      - 正则系综，典范系综 
-    - `canonical analysis`
-      - 典型相关分析；典型分析；双复式分析 
-    - `jordan canonical form`
-      - [数]约当标准型；约当范式 
+    - canonical correlation 典型相关
+    - canonical correlation analysis 典型相关分析；典范相关分析
+    - canonical form 规范形式；[语]语言的语音典型
+    - canonical transformation 正则变换
+    - canonical ensemble 正则系综，典范系综
+    - canonical analysis 典型相关分析；典型分析；双复式分析
+    - jordan canonical form [数]约当标准型；约当范式
   - 例句
-    - `...Ballard's status as a canonical writer.`
-      - ...巴拉德的经典作家地位。
-
+    - ...Ballard's status as a canonical writer. ...巴拉德的经典作家地位。
+  - 补充

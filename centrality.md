@@ -1,77 +1,41 @@
 - centrality
   - 发音
-    - 英
-      - `/sen'trælətɪ/`
-    - 美
-      - `/sɛn'træləti/`
+    - 英 /sen'trælətɪ/
+    - 美 /sɛn'træləti/
   - 词义
-    - n.
-      - 中心,中央
-        - `the state or condition of being central `
+    - n. 中心,中央
+      - the state or condition of being central 
   - 同根词
-    - adj.
-      - `central`
-        - 中心的；主要的；中枢的
-      - `centre`
-        - 中央的
-      - `centralized`
-        - 集中的；中央集权的
-      - `centred`
-        - 固定于中心的；在中心的
-      - `centralist`
-        - 拥护中央集权的
-    - adv.
-      - `centrally`
-        - 在中心
-    - n.
-      - `central`
-        - 电话总机
-      - `centre`
-        - 中心
-      - `centrist`
-        - 中立派议员；中间派议员
-      - `centralization`
-        - 集中化；中央集权管理
-      - `centralisation`
-        - （英）集中化（等于centralization）
-      - `centrepiece`
-        - 中心装饰品
-      - `centralism`
-        - 中央集权制；中央集权主义
-      - `centralist`
-        - 中央集权主义者
-      - `centrex`
-        - 中央交换机；市话交换分局
-      - `centrism`
-        - 温和主义，中间路线；中间派的政策
-    - v.
-      - `centralized`
-        - 集中（centralize的过去分词）
-      - `centred`
-        - 集中（centre的过去分词）；把…置于中央
-    - vi.
-      - `centre`
-        - 以…为中心
-      - `centralize`
-        - 集中；实行中央集权
-    - vt.
-      - `centre`
-        - 集中；将…放在中央
-      - `centralize`
-        - 使集中；使成为…的中心；使集权
-      - `centralise`
-        - 把…集中起来；形成中心
+    - adj. central 中心的；主要的；中枢的
+    - adj. centre 中央的
+    - adj. centralized 集中的；中央集权的
+    - adj. centred 固定于中心的；在中心的
+    - adj. centralist 拥护中央集权的
+    - adv. centrally 在中心
+    - n. central 电话总机
+    - n. centre 中心
+    - n. centrist 中立派议员；中间派议员
+    - n. centralization 集中化；中央集权管理
+    - n. centralisation （英）集中化（等于centralization）
+    - n. centrepiece 中心装饰品
+    - n. centralism 中央集权制；中央集权主义
+    - n. centralist 中央集权主义者
+    - n. centrex 中央交换机；市话交换分局
+    - n. centrism 温和主义，中间路线；中间派的政策
+    - v. centralized 集中（centralize的过去分词）
+    - v. centred 集中（centre的过去分词）；把…置于中央
+    - vi. centre 以…为中心
+    - vi. centralize 集中；实行中央集权
+    - vt. centre 集中；将…放在中央
+    - vt. centralize 使集中；使成为…的中心；使集权
+    - vt. centralise 把…集中起来；形成中心
   - 近义词
-    - n.
-      - 中心；中央；向心性
-        - `focus`
-        - `hub`
-        - `middle`
+    - n. 中心；中央；向心性
+      - focus
+      - hub
+      - middle
   - 例句
-    - `Our bodies have no centrality either.`
-      - 我们的身体也没有中心。
-    - `Our bodies have no centrality either.`
-      - 我们的身体也同样没有中心。
-    - `In his own writings Obama stresses the centrality of his father not only to his beliefs and values but to his very identity.`
-      - 在自己的著作中，奥巴马强调父亲的中心地位不仅在于其信仰和价值观，还在于对他的极大认同。
-
+    - Our bodies have no centrality either. 我们的身体也没有中心。
+    - Our bodies have no centrality either. 我们的身体也同样没有中心。
+    - In his own writings Obama stresses the centrality of his father not only to his beliefs and values but to his very identity. 在自己的著作中，奥巴马强调父亲的中心地位不仅在于其信仰和价值观，还在于对他的极大认同。
+  - 补充

@@ -1,34 +1,22 @@
 - odoriferous
   - 发音
-    - 英
-      - `/ˌəudə'rifərəs/`
-    - 美
-      - `/,odə'rɪfərəs/`
+    - 英 /ˌəudə'rifərəs/
+    - 美 /,odə'rɪfərəs/
   - 词义
-    - adj.
-      - 有香气的
-        - `having or emitting an odour, esp a fragrant one `
+    - adj. 有香气的
+      - having or emitting an odour, esp a fragrant one 
   - 记忆
     - odor (气味) + i + fer (带有) + ous → 带有香味的 → 有香气的
   - 同根词
-    - adj.
-      - `odorless`
-        - 没有气味的
-      - `odorous`
-        - 香的；有气味的；难闻的
-    - n.
-      - `odor`
-        - 气味；名声
+    - adj. odorless 没有气味的
+    - adj. odorous 香的；有气味的；难闻的
+    - n. odor 气味；名声
   - 近义词
-    - adj.
-      - 臭的，散发气味的；芬芳的
-        - `olid`
-        - `fetid`
+    - adj. 臭的，散发气味的；芬芳的
+      - olid
+      - fetid
   - 例句
-    - `The odoriferous spices stimulated her jaded appetite.`
-      - 香料的芬芳刺激她疲惫的胃口。
-    - `You can remove the stench of onions, fish, garlic and other odoriferous foods from your skin by scrubbing briefly with toothpaste.`
-      - 你可以用牙膏简单擦一下皮肤，就可以除掉上面的洋葱、鱼、大蒜以及其他散发气味的食品的臭味。
-    - `Smell is tougher to implant than colour because it not only matters whether a plant can make odoriferous chemicals, it also matters what it does with them.`
-      - 在花中加入香味要比加入颜色难，因为前者涉及植物能否合成有味化学物质以及如何处理这些化学物质。
-
+    - The odoriferous spices stimulated her jaded appetite. 香料的芬芳刺激她疲惫的胃口。
+    - You can remove the stench of onions, fish, garlic and other odoriferous foods from your skin by scrubbing briefly with toothpaste. 你可以用牙膏简单擦一下皮肤，就可以除掉上面的洋葱、鱼、大蒜以及其他散发气味的食品的臭味。
+    - Smell is tougher to implant than colour because it not only matters whether a plant can make odoriferous chemicals, it also matters what it does with them. 在花中加入香味要比加入颜色难，因为前者涉及植物能否合成有味化学物质以及如何处理这些化学物质。
+  - 补充

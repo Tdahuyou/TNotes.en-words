@@ -1,25 +1,18 @@
 - paroxysm
   - 发音
-    - 英
-      - `/'pærəksizəm/`
-    - 美
-      - `/undefined/`
+    - 英 /'pærəksizəm/
+    - 美 /undefined/
   - 词义
-    - n.
-      - 发作；突发
-        - `a sudden expression of strong feeling that you cannot control`
+    - n. 发作；突发
+      - a sudden expression of strong feeling that you cannot control
   - 记忆
     - par (变) + oxy (尖利) + sm → 突发疾病， 浑身刺痛 → 突发
   - 同根词
-    - adj.
-      - `paroxysmal`
-        - 阵发的；突发性的
+    - adj. paroxysmal 阵发的；突发性的
   - 近义词
-    - n.
-      - （疾病周期性）[医]发作；突发
-        - `fit`
-        - `episodes`
+    - n. （疾病周期性）[医]发作；突发
+      - fit
+      - episodes
   - 例句
-    - `He exploded in a paroxysm of rage.`
-      - 他突然勃然大怒。
-
+    - He exploded in a paroxysm of rage. 他突然勃然大怒。
+  - 补充

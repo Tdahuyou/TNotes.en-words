@@ -1,27 +1,18 @@
 - inactivate
   - 发音
-    - 英
-      - `/ɪn'æktɪveɪt/`
-    - 美
-      - `/ɪn'æktə,vet/`
+    - 英 /ɪn'æktɪveɪt/
+    - 美 /ɪn'æktə,vet/
   - 词义
-    - vt.
-      - 使不活动，使不活跃
-        - `to render inactive `
+    - vt. 使不活动，使不活跃
+      - to render inactive 
   - 记忆
     - in(不) + activate(使活动) → 使不活动
   - 同根词
-    - adj.
-      - `inactive`
-        - 不活跃的；不活动的；怠惰的；闲置的
-    - n.
-      - `inactivity`
-        - 静止；不活泼；休止状态；不放射性
-      - `inaction`
-        - 不活动；迟钝
-      - `inactivation`
-        - [生物] 失活；[化学] 钝化（作用）
+    - adj. inactive 不活跃的；不活动的；怠惰的；闲置的
+    - n. inactivity 静止；不活泼；休止状态；不放射性
+    - n. inaction 不活动；迟钝
+    - n. inactivation [生物] 失活；[化学] 钝化（作用）
   - 近义词
-    - vt.
-      - 使不活动；使不活泼；阻止活动
-        - `deactivate`
+    - vt. 使不活动；使不活泼；阻止活动
+      - deactivate
+  - 补充

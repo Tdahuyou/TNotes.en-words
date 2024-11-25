@@ -1,9 +1,7 @@
 - Ecotourism
   - 发音
-    - 英
-      - `/ˈi:kəʊtʊərɪzəm/`
-    - 美
-      - `/undefined/`
+    - 英 /ˈi:kəʊtʊərɪzəm/
+    - 美 /undefined/
   - 词义
-    - n.
-      - 生态旅游
+    - n. 生态旅游
+  - 补充

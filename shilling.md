@@ -1,26 +1,19 @@
 - shilling
   - 发音
-    - 英
-      - `/'ʃɪlɪŋ/`
-    - 美
-      - `/'ʃɪlɪŋ/`
+    - 英 /'ʃɪlɪŋ/
+    - 美 /'ʃɪlɪŋ/
   - 词义
-    - n.
-      - 先令（1971年以前的英国货币单位，旧币的12便士）
-        - `an old British coin or unit of money. There were 20 shillings in one pound.`
+    - n. 先令（1971年以前的英国货币单位，旧币的12便士）
+      - an old British coin or unit of money. There were 20 shillings in one pound.
   - 记忆
     - “先令”
   - 近义词
-    - n.
-      - 先令
-        - `schelling`
-        - `schilling`
-        - `twelvepence`
+    - n. 先令
+      - schelling
+      - schilling
+      - twelvepence
   - 例句
-    - `In former times, 12 pence went to a shilling.`
-      - 过去，十二便士等于一先令。
-    - `We wanted this to be a twenty shilling coin but now in the market it's trading at twenty-one.`
-      - 我们希望它是一个值二十先令的硬币,但现在它在市场上以二十一个先令的价值来交换。
-    - `Walter Scott wanted to give him a six penny piece to reward him for this service; but not finding any in his purse he presented him with a shilling saying, "You will owe me six pence, my good fellow.`
-      - 沃尔特•司各脱想奖赏给他一枚六便士的硬币,但他在钱包里找不到便士,于是他给了他一个先令,说:"你将欠我六便士,我亲爱的朋友.
-
+    - In former times, 12 pence went to a shilling. 过去，十二便士等于一先令。
+    - We wanted this to be a twenty shilling coin but now in the market it's trading at twenty-one. 我们希望它是一个值二十先令的硬币,但现在它在市场上以二十一个先令的价值来交换。
+    - Walter Scott wanted to give him a six penny piece to reward him for this service; but not finding any in his purse he presented him with a shilling saying, "You will owe me six pence, my good fellow. 沃尔特•司各脱想奖赏给他一枚六便士的硬币,但他在钱包里找不到便士,于是他给了他一个先令,说:"你将欠我六便士,我亲爱的朋友.
+  - 补充

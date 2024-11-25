@@ -1,22 +1,18 @@
 - rook
   - 发音
-    - 英
-      - `/rʊk/`
-    - 美
-      - `/rʊk/`
+    - 英 /rʊk/
+    - 美 /rʊk/
   - 词义
-    - n.
-      - 白嘴鸦；赌棍vt骗
-        - `a large black European bird like a  crow `
+    - n. 白嘴鸦；赌棍vt骗
+      - a large black European bird like a  crow 
   - 近义词
-    - vt.
-      - 欺骗
-        - `sell`
-        - `fox`
-        - `kid`
-        - `take in sb`
-        - `give the shaft`
-    - n.
-      - （象棋）车；骗子，赌棍；白嘴鸦
-        - `fraud`
-        - `sharp`
+    - vt. 欺骗
+      - sell
+      - fox
+      - kid
+      - take in sb
+      - give the shaft
+    - n. （象棋）车；骗子，赌棍；白嘴鸦
+      - fraud
+      - sharp
+  - 补充

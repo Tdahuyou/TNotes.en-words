@@ -1,14 +1,11 @@
 - undoubtedly
   - 发音
-    - 英
-      - `/ʌn'daʊtɪdlɪ/`
-    - 美
-      - `/ʌn'daʊtɪdli/`
+    - 英 /ʌn'daʊtɪdlɪ/
+    - 美 /ʌn'daʊtɪdli/
   - 词义
-    - adv.
-      - 无庸置疑地,的确地
+    - adv. 无庸置疑地,的确地
   - 近义词
-    - adv.
-      - 确实地，无庸置疑地
-        - `strictly`
-        - `real`
+    - adv. 确实地，无庸置疑地
+      - strictly
+      - real
+  - 补充

@@ -1,29 +1,20 @@
 - vague
   - 发音
-    - 英
-      - `/veɪg/`
-    - 美
-      - `/veɡ/`
+    - 英 /veɪg/
+    - 美 /veɡ/
   - 词义
-    - adj.
-      - 模糊的；不明确的
-        - `unclear because someone does not give enough detailed information or does not say exactly what they mean`
+    - adj. 模糊的；不明确的
+      - unclear because someone does not give enough detailed information or does not say exactly what they mean
   - 记忆
     - vag(漫游) + ue → 思路四处漫游 → 模糊的； 不明确的
   - 同根词
-    - adv.
-      - `vaguely`
-        - 含糊地；暧昧地；茫然地
-    - n.
-      - `vagueness`
-        - 模糊；含糊；暧昧；茫然
+    - adv. vaguely 含糊地；暧昧地；茫然地
+    - n. vagueness 模糊；含糊；暧昧；茫然
   - 近义词
-    - adj.
-      - 模糊的；含糊的；不明确的；暧昧的
-        - `fuzzy`
-        - `dark`
-        - `uncertain`
+    - adj. 模糊的；含糊的；不明确的；暧昧的
+      - fuzzy
+      - dark
+      - uncertain
   - 例句
-    - `The governor gave only a vague outline of his tax plan.`
-      - 州长只是含糊地大致说了一下他的税务计划。
-
+    - The governor gave only a vague outline of his tax plan. 州长只是含糊地大致说了一下他的税务计划。
+  - 补充

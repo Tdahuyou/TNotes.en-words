@@ -1,39 +1,23 @@
 - inflammation
   - 发音
-    - 英
-      - `/ˌɪnflə'meɪʃn/`
-    - 美
-      - `/'ɪnflə'meʃən/`
+    - 英 /ˌɪnflə'meɪʃn/
+    - 美 /'ɪnflə'meʃən/
   - 词义
-    - n.
-      - 炎症，发炎
-        - `swelling and pain in part of your body, which is often red and feels hot`
+    - n. 炎症，发炎
+      - swelling and pain in part of your body, which is often red and feels hot
   - 同根词
-    - adj.
-      - `inflammatory`
-        - 炎症性的；煽动性的；激动的
-      - `inflamed`
-        - 发炎的；红肿的
-    - v.
-      - `inflamed`
-        - 使发炎（inflame的过去分词）；使燃烧；使火红；激起
-    - vi.
-      - `inflame`
-        - 燃烧；发炎；激动
-    - vt.
-      - `inflame`
-        - 激怒；使燃烧；使发炎
+    - adj. inflammatory 炎症性的；煽动性的；激动的
+    - adj. inflamed 发炎的；红肿的
+    - v. inflamed 使发炎（inflame的过去分词）；使燃烧；使火红；激起
+    - vi. inflame 燃烧；发炎；激动
+    - vt. inflame 激怒；使燃烧；使发炎
   - 近义词
-    - n.
-      - [病理]炎症；[医]发炎；[热]燃烧；发火
-        - `combustion`
-        - `burning`
+    - n. [病理]炎症；[医]发炎；[热]燃烧；发火
+      - combustion
+      - burning
   - 短语
-    - `diminish inflammation`
-      - 消炎 
-    - `pelvic inflammation`
-      - 盆腔炎 
+    - diminish inflammation 消炎
+    - pelvic inflammation 盆腔炎
   - 例句
-    - `The drug can cause inflammation of the liver.`
-      - 这种药会引发肝脏炎症。
-
+    - The drug can cause inflammation of the liver. 这种药会引发肝脏炎症。
+  - 补充

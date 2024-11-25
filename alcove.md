@@ -1,21 +1,16 @@
 - alcove
   - 发音
-    - 英
-      - `/'ælkəuv/`
-    - 美
-      - `/'ælkov/`
+    - 英 /'ælkəuv/
+    - 美 /'ælkov/
   - 词义
-    - n.
-      - 凹室，壁橱
-        - `a place in the wall of a room that is built further back than the rest of the wall`
+    - n. 凹室，壁橱
+      - a place in the wall of a room that is built further back than the rest of the wall
   - 记忆
     - al + cove (山凹) → 凹室
   - 近义词
-    - n.
-      - 凹室；[建]壁龛
-        - `niche`
-        - `habitacle`
+    - n. 凹室；[建]壁龛
+      - niche
+      - habitacle
   - 例句
-    - `In the alcoves on either side of the fire were bookshelves.`
-      - 凹室内炉火的两侧是书架。
-
+    - In the alcoves on either side of the fire were bookshelves. 凹室内炉火的两侧是书架。
+  - 补充

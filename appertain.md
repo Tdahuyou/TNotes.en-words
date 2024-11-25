@@ -1,15 +1,12 @@
 - appertain
   - 发音
-    - 英
-      - `/ˌæpə'tein/`
-    - 美
-      - `/,æpɚ'ten/`
+    - 英 /ˌæpə'tein/
+    - 美 /,æpɚ'ten/
   - 词义
-    - v.
-      - 属于
-        - `to belong (to) as a part, function, right, etc; relate (to) or be connected (with) `
+    - v. 属于
+      - to belong (to) as a part, function, right, etc; relate (to) or be connected (with) 
   - 近义词
-    - vi.
-      - 属于；和……有关，有关系
-        - `matter`
-        - `belong to`
+    - vi. 属于；和……有关，有关系
+      - matter
+      - belong to
+  - 补充

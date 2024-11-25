@@ -1,30 +1,19 @@
 - diligence
   - 发音
-    - 英
-      - `/'dɪlɪdʒ(ə)ns/`
-    - 美
-      - `/'dɪlɪdʒəns/`
+    - 英 /'dɪlɪdʒ(ə)ns/
+    - 美 /'dɪlɪdʒəns/
   - 词义
-    - n.
-      - 勤奋
+    - n. 勤奋
   - 同根词
-    - adj.
-      - `diligent`
-        - 勤勉的；用功的，费尽心血的
-    - adv.
-      - `diligently`
-        - 勤奋地；勤勉地
+    - adj. diligent 勤勉的；用功的，费尽心血的
+    - adv. diligently 勤奋地；勤勉地
   - 近义词
-    - n.
-      - 勤奋，勤勉；注意的程度
-        - `industry`
-        - `hardwork`
+    - n. 勤奋，勤勉；注意的程度
+      - industry
+      - hardwork
   - 短语
-    - `due diligence`
-      - 尽职调查 
+    - due diligence 尽职调查
   - 例句
-    - `Genius is nothing but labor and diligence.`
-      - 天才无非是工作和勤奋。
-    - `We should cultivate the good habits of diligence and frugality.`
-      - 我们要养成勤俭节约的好风气。
-
+    - Genius is nothing but labor and diligence. 天才无非是工作和勤奋。
+    - We should cultivate the good habits of diligence and frugality. 我们要养成勤俭节约的好风气。
+  - 补充

@@ -1,38 +1,26 @@
 - sightseeing
   - 发音
-    - 英
-      - `/'saɪtsiːɪŋ/`
-    - 美
-      - `/'saɪtsiɪŋ/`
+    - 英 /'saɪtsiːɪŋ/
+    - 美 /'saɪtsiɪŋ/
   - 词义
-    - n.
-      - 观光；游览
-        - `when you visit famous or interesting places, especially as tourists`
+    - n. 观光；游览
+      - when you visit famous or interesting places, especially as tourists
   - 记忆
     - sight(景色) + seeing(看) → 看景色 → 观光， 游览
   - 同根词
-    - n.
-      - `sightseer`
-        - 观光者；游客
+    - n. sightseer 观光者；游客
   - 近义词
-    - n.
-      - 观光；游览
-        - `tourism`
-        - `pleasure trip`
-    - adj.
-      - 观光的；游览的
-        - `visiting`
-        - `touring`
+    - n. 观光；游览
+      - tourism
+      - pleasure trip
+    - adj. 观光的；游览的
+      - visiting
+      - touring
   - 短语
-    - `go sightseeing`
-      - 去观光 
-    - `sightseeing tour`
-      - 观光旅游 
-    - `sightseeing bus`
-      - 观光巴士；游览巴士；旅游客车 
-    - `sightseeing car`
-      - 游览客车；观光汽车 
+    - go sightseeing 去观光
+    - sightseeing tour 观光旅游
+    - sightseeing bus 观光巴士；游览巴士；旅游客车
+    - sightseeing car 游览客车；观光汽车
   - 例句
-    - `She swam and sunbathed, went sightseeing and relaxed.`
-      - 她游泳，晒日光浴，观光，放松。
-
+    - She swam and sunbathed, went sightseeing and relaxed. 她游泳，晒日光浴，观光，放松。
+  - 补充

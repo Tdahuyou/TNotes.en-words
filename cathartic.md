@@ -1,29 +1,19 @@
 - cathartic
   - 发音
-    - 英
-      - `/kə'θɑːtik/`
-    - 美
-      - `/kə'θɑrtɪk/`
+    - 英 /kə'θɑːtik/
+    - 美 /kə'θɑrtɪk/
   - 词义
-    - n.
-      - 泻药；
+    - n. 泻药；
   - 同根词
-    - n.
-      - `catharsis`
-        - [医] 泻法，导泻；净化；精神发泄
+    - n. catharsis [医] 泻法，导泻；净化；精神发泄
   - 近义词
-    - adj.
-      - 导泻的；[药]通便的
-        - `aperient`
-    - n.
-      - 泻药；[药]通便药
-        - `jalap`
-        - `purger`
+    - adj. 导泻的；[药]通便的
+      - aperient
+    - n. 泻药；[药]通便药
+      - jalap
+      - purger
   - 例句
-    - `The drug had a cathartic effect.`
-      - 这药有导泻的作用。
-    - `Ask or call your surgeon before taking a cathartic.`
-      - 在使用通便药之前，要向医生询问。
-    - `Antidote for overdose application: emetic , cathartic, alkalescent foods and beverages.`
-      - 服用过量时所需用的解毒剂： 催吐， 泻药， 弱碱性食品、饮料。
-
+    - The drug had a cathartic effect. 这药有导泻的作用。
+    - Ask or call your surgeon before taking a cathartic. 在使用通便药之前，要向医生询问。
+    - Antidote for overdose application: emetic , cathartic, alkalescent foods and beverages. 服用过量时所需用的解毒剂： 催吐， 泻药， 弱碱性食品、饮料。
+  - 补充

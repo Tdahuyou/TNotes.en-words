@@ -1,28 +1,19 @@
 - audacity
   - 发音
-    - 英
-      - `/ɔː'dæsəti/`
-    - 美
-      - `/ɔ'dæsəti/`
+    - 英 /ɔː'dæsəti/
+    - 美 /ɔ'dæsəti/
   - 词义
-    - n.
-      - 大胆，厚颜
-        - `the quality of having enough courage to take risks or say impolite things`
+    - n. 大胆，厚颜
+      - the quality of having enough courage to take risks or say impolite things
   - 记忆
     - aud (看作aug， 增加) + acity → 不断增加胆量 → 大胆
   - 同根词
-    - adv.
-      - `audaciously`
-        - 无畏地；放肆地；大胆创新地；无拘无束地
-    - n.
-      - `audaciousness`
-        - 大胆（厚颜无耻）
+    - adv. audaciously 无畏地；放肆地；大胆创新地；无拘无束地
+    - n. audaciousness 大胆（厚颜无耻）
   - 近义词
-    - n.
-      - 大胆；厚颜无耻
-        - `boldness`
-        - `hardiness`
+    - n. 大胆；厚颜无耻
+      - boldness
+      - hardiness
   - 例句
-    - `I can’t believe he had the audacity to ask me for more money!`
-      - 我真不敢相信，他竟胆敢还向我要钱！
-
+    - I can’t believe he had the audacity to ask me for more money! 我真不敢相信，他竟胆敢还向我要钱！
+  - 补充

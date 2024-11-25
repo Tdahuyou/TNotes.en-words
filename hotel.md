@@ -1,68 +1,39 @@
 - hotel
   - 发音
-    - 英
-      - `/həʊˈtel/`
-    - 美
-      - `/ho'tɛl/`
+    - 英 /həʊˈtel/
+    - 美 /ho'tɛl/
   - 词义
-    - n.
-      - 饭店；宾馆
-        - `a building where people pay to stay and eat meals`
+    - n. 饭店；宾馆
+      - a building where people pay to stay and eat meals
   - 同根词
-    - n.
-      - `hotelier`
-        - 旅馆老板
-      - `hotelkeeper`
-        - 旅馆经营者
+    - n. hotelier 旅馆老板
+    - n. hotelkeeper 旅馆经营者
   - 近义词
-    - n.
-      - 旅馆，[经]饭店；客栈
-        - `restaurant`
-        - `inn`
+    - n. 旅馆，[经]饭店；客栈
+      - restaurant
+      - inn
   - 短语
-    - `hotel industry`
-      - 旅馆业；宾馆业 
-    - `luxury hotel`
-      - 豪华饭店 
-    - `hotel reservation`
-      - 酒店预订；订旅馆 
-    - `garden hotel`
-      - 花园酒店；花园饭店 
-    - `hotel lobby`
-      - 饭店大堂；宾馆大厅 
-    - `resort hotel`
-      - 度假酒店；度假村 
-    - `hilton hotel`
-      - 希尔顿酒店 
-    - `five star hotel`
-      - 五星级宾馆 
-    - `plaza hotel`
-      - 广场饭店 
-    - `hotel manager`
-      - 酒店经理；饭店经理 
-    - `boutique hotel`
-      - 精品酒店，精品饭店；精品旅馆 
-    - `palace hotel`
-      - 皇宫酒店 
-    - `friendship hotel`
-      - 友谊宾馆 
-    - `family hotel`
-      - 家庭旅馆 
-    - `century hotel`
-      - 世纪酒店（电影名称，酒店名称） 
-    - `sunshine hotel`
-      - 阳光酒店 
-    - `peace hotel`
-      - 和平饭店 
-    - `marriott hotel`
-      - 万豪酒店 
-    - `sheraton hotel`
-      - 喜来登酒店 
-    - `swan hotel`
-      - 天鹅大酒店 
+    - hotel industry 旅馆业；宾馆业
+    - luxury hotel 豪华饭店
+    - hotel reservation 酒店预订；订旅馆
+    - garden hotel 花园酒店；花园饭店
+    - hotel lobby 饭店大堂；宾馆大厅
+    - resort hotel 度假酒店；度假村
+    - hilton hotel 希尔顿酒店
+    - five star hotel 五星级宾馆
+    - plaza hotel 广场饭店
+    - hotel manager 酒店经理；饭店经理
+    - boutique hotel 精品酒店，精品饭店；精品旅馆
+    - palace hotel 皇宫酒店
+    - friendship hotel 友谊宾馆
+    - family hotel 家庭旅馆
+    - century hotel 世纪酒店（电影名称，酒店名称）
+    - sunshine hotel 阳光酒店
+    - peace hotel 和平饭店
+    - marriott hotel 万豪酒店
+    - sheraton hotel 喜来登酒店
+    - swan hotel 天鹅大酒店
   - 例句
-    - `I’ve booked the flights and the hotel.`
-      - 我已订好机票和酒店。
-    - `We’ll be staying at the Hotel Ibis.`
-      - 我们将住在宜必思酒店。
-
+    - I’ve booked the flights and the hotel. 我已订好机票和酒店。
+    - We’ll be staying at the Hotel Ibis. 我们将住在宜必思酒店。
+  - 补充

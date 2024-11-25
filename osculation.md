@@ -1,26 +1,17 @@
 - osculation
   - 发音
-    - 英
-      - `/undefined/`
-    - 美
-      - `/undefined/`
+    - 英 /undefined/
+    - 美 /undefined/
   - 词义
-    - n.
-      - 接吻,密切,接触
-        - `a point at which two branches of a curve have a common tangent, each branch extending in both directions of the tangent `
+    - n. 接吻,密切,接触
+      - a point at which two branches of a curve have a common tangent, each branch extending in both directions of the tangent 
   - 同根词
-    - vi.
-      - `osculate`
-        - 有共同点；有共通点
-    - vt.
-      - `osculate`
-        - 接吻；接触；与……有共同特性
+    - vi. osculate 有共同点；有共通点
+    - vt. osculate 接吻；接触；与……有共同特性
   - 近义词
-    - n.
-      - [数]密切；接吻；接触
-        - `contact`
-        - `touch`
+    - n. [数]密切；接吻；接触
+      - contact
+      - touch
   - 例句
-    - `The concept of band osculation is presented by analyzing surface contact types.`
-      - 通过对曲面接触类型分析，提出了带状密切的概念。
-
+    - The concept of band osculation is presented by analyzing surface contact types. 通过对曲面接触类型分析，提出了带状密切的概念。
+  - 补充

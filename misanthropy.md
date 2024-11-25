@@ -1,24 +1,16 @@
 - misanthropy
   - 发音
-    - 英
-      - `/mi'zænθrəpi/`
-    - 美
-      - `/mɪ'sænθrəpi/`
+    - 英 /mi'zænθrəpi/
+    - 美 /mɪ'sænθrəpi/
   - 词义
-    - n.
-      - 厌世；不愿与人来往
-        - `Misanthropy is a general dislike of people`
+    - n. 厌世；不愿与人来往
+      - Misanthropy is a general dislike of people
   - 同根词
-    - adj.
-      - `misanthropic`
-        - 厌恶人类的；不愿与人来往的
-    - n.
-      - `misanthrope`
-        - 不愿与人来往者；厌恶人类的人
-      - `misanthropist`
-        - 厌世者；厌恶人类者
+    - adj. misanthropic 厌恶人类的；不愿与人来往的
+    - n. misanthrope 不愿与人来往者；厌恶人类的人
+    - n. misanthropist 厌世者；厌恶人类者
   - 近义词
-    - n.
-      - 厌恶人类；厌世，愤世嫉俗
-        - `world-weariness`
-        - `Weltschmerz`
+    - n. 厌恶人类；厌世，愤世嫉俗
+      - world-weariness
+      - Weltschmerz
+  - 补充

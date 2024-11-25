@@ -1,36 +1,25 @@
 - devise
   - 发音
-    - 英
-      - `/dɪ'vaɪz/`
-    - 美
-      - `/dɪ'vaɪz/`
+    - 英 /dɪ'vaɪz/
+    - 美 /dɪ'vaɪz/
   - 词义
-    - vt.
-      - 设计；发明；想出；策划，图谋
-        - `to plan or invent a new way of doing something`
+    - vt. 设计；发明；想出；策划，图谋
+      - to plan or invent a new way of doing something
   - 同根词
-    - n.
-      - `devisal`
-        - 设计；发明；策划
-      - `devisee`
-        - 受遗赠者
-      - `deviser`
-        - 设计者
-      - `devisor`
-        - 遗赠者，[法] 遗赠人
+    - n. devisal 设计；发明；策划
+    - n. devisee 受遗赠者
+    - n. deviser 设计者
+    - n. devisor 遗赠者，[法] 遗赠人
   - 近义词
-    - vt.
-      - 设计；想出；发明；图谋；遗赠给
-        - `design`
-        - `engineer`
-        - `style`
-        - `project`
-        - `frame`
-    - n.
-      - 遗赠
-        - `legacy`
-        - `bequest`
+    - vt. 设计；想出；发明；图谋；遗赠给
+      - design
+      - engineer
+      - style
+      - project
+      - frame
+    - n. 遗赠
+      - legacy
+      - bequest
   - 例句
-    - `She devised a method for quicker communications between offices.`
-      - 她想出一种加快办公室之间通信联络的方法。
-
+    - She devised a method for quicker communications between offices. 她想出一种加快办公室之间通信联络的方法。
+  - 补充

@@ -1,34 +1,23 @@
 - invade
   - 发音
-    - 英
-      - `/ɪn'veɪd/`
-    - 美
-      - `/ɪn'ved/`
+    - 英 /ɪn'veɪd/
+    - 美 /ɪn'ved/
   - 词义
-    - v.
-      - 侵入，侵略；侵扰
-        - `to enter a country, town, or area using military force, in order to take control of it`
+    - v. 侵入，侵略；侵扰
+      - to enter a country, town, or area using military force, in order to take control of it
   - 记忆
     - in(进入) + vad(走) + e → 未经允许走进来 → 侵入， 侵略
   - 同根词
-    - adj.
-      - `invasive`
-        - 侵略性的；攻击性的
-    - n.
-      - `invasion`
-        - 入侵，侵略；侵袭；侵犯
-      - `invader`
-        - 侵略者；侵入物
+    - adj. invasive 侵略性的；攻击性的
+    - n. invasion 入侵，侵略；侵袭；侵犯
+    - n. invader 侵略者；侵入物
   - 近义词
-    - vt.
-      - 侵略；侵袭；侵扰；涌入
-        - `strike`
-        - `make inroads into`
-    - vi.
-      - 侵略；侵入；侵袭；侵犯
-        - `make inroads into`
-        - `intrude upon`
+    - vt. 侵略；侵袭；侵扰；涌入
+      - strike
+      - make inroads into
+    - vi. 侵略；侵入；侵袭；侵犯
+      - make inroads into
+      - intrude upon
   - 例句
-    - `The Romans invaded Britain 2,000 years ago.`
-      - 2,000年前古罗马人入侵了英国。
-
+    - The Romans invaded Britain 2,000 years ago. 2,000年前古罗马人入侵了英国。
+  - 补充

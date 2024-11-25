@@ -1,24 +1,17 @@
 - vituperate
   - 发音
-    - 英
-      - `/vɪ'tjuːpəreɪt/`
-    - 美
-      - `/vi'tju:pəreit/`
+    - 英 /vɪ'tjuːpəreɪt/
+    - 美 /vi'tju:pəreit/
   - 词义
-    - v.
-      - 谩骂，辱骂
-        - `to berate or rail (against) abusively; revile `
+    - v. 谩骂，辱骂
+      - to berate or rail (against) abusively; revile 
   - 记忆
     - vitu(过失)+per(准备)+ate → 因过失而遭受 → 谩骂， 辱骂
   - 同根词
-    - adj.
-      - `vituperative`
-        - 责骂的
-    - n.
-      - `vituperation`
-        - 谩骂；辱骂；坏话
+    - adj. vituperative 责骂的
+    - n. vituperation 谩骂；辱骂；坏话
   - 近义词
-    - vt.
-      - 谩骂；责骂
-        - `rate`
-        - `hop on`
+    - vt. 谩骂；责骂
+      - rate
+      - hop on
+  - 补充

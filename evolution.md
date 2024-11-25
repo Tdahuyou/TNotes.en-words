@@ -1,63 +1,36 @@
 - evolution
   - 发音
-    - 英
-      - `/ˌiːvə'luːʃn/`
-    - 美
-      - `/ˌɛvəˈluʃən; (occas.) ˌ ivəˈluʃən/`
+    - 英 /ˌiːvə'luːʃn/
+    - 美 /ˌɛvəˈluʃən; (occas.) ˌ ivəˈluʃən/
   - 词义
-    - n.
-      - 发展；演变，进化，进化论
-        - `the scientific idea that plants and animals develop and change gradually over a long period of time`
+    - n. 发展；演变，进化，进化论
+      - the scientific idea that plants and animals develop and change gradually over a long period of time
   - 记忆
     - 来自evolve〔v. (使)进化〕
   - 同根词
-    - adj.
-      - `evolutionary`
-        - 进化的；发展的；渐进的
-      - `evolutionism`
-        - 进化论的
-      - `evolutionist`
-        - 进化论的
-    - n.
-      - `evolutionism`
-        - [进化] 进化论
-      - `evolutionist`
-        - 进化论者
-    - vi.
-      - `evolve`
-        - 发展，进展；进化；逐步形成
-    - vt.
-      - `evolve`
-        - 发展，进化；进化；使逐步形成；推断出
+    - adj. evolutionary 进化的；发展的；渐进的
+    - adj. evolutionism 进化论的
+    - adj. evolutionist 进化论的
+    - n. evolutionism [进化] 进化论
+    - n. evolutionist 进化论者
+    - vi. evolve 发展，进展；进化；逐步形成
+    - vt. evolve 发展，进化；进化；使逐步形成；推断出
   - 近义词
-    - n.
-      - 演变；[进化]进化论；进展
-        - `unfolding`
-        - `Monkey to Man`
+    - n. 演变；[进化]进化论；进展
+      - unfolding
+      - Monkey to Man
   - 短语
-    - `theory of evolution`
-      - 进化学说，进化论 
-    - `evolution theory`
-      - 进化论 
-    - `peaceful evolution`
-      - 和平演变 
-    - `social evolution`
-      - 社会演化，社会进化 
-    - `gas evolution`
-      - 气体逸出；天然气逸出；气体析出 
-    - `cultural evolution`
-      - 文化进化；文化演进；文化演化 
-    - `organic evolution`
-      - 生物进化 
-    - `industry evolution`
-      - 产业演变 
-    - `parallel evolution`
-      - 平行进化，平行演化 
-    - `evolution of market`
-      - 市场演变 
-    - `convergent evolution`
-      - [生]趋同进化 
+    - theory of evolution 进化学说，进化论
+    - evolution theory 进化论
+    - peaceful evolution 和平演变
+    - social evolution 社会演化，社会进化
+    - gas evolution 气体逸出；天然气逸出；气体析出
+    - cultural evolution 文化进化；文化演进；文化演化
+    - organic evolution 生物进化
+    - industry evolution 产业演变
+    - parallel evolution 平行进化，平行演化
+    - evolution of market 市场演变
+    - convergent evolution [生]趋同进化
   - 例句
-    - `the theory of evolution`
-      - 进化论
-
+    - the theory of evolution 进化论
+  - 补充

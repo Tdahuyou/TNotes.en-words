@@ -1,19 +1,14 @@
 - hugely
   - 发音
-    - 英
-      - `/undefined/`
-    - 美
-      - `/undefined/`
+    - 英 /undefined/
+    - 美 /undefined/
   - 词义
-    - adv.
-      - 巨大地,非常地
+    - adv. 巨大地,非常地
   - 同根词
-    - adj.
-      - `huge`
-        - 巨大的；庞大的；无限的
+    - adj. huge 巨大的；庞大的；无限的
   - 近义词
-    - adv.
-      - 巨大地；非常地
-        - `considerably`
-        - `enormously`
-        - `remarkably`
+    - adv. 巨大地；非常地
+      - considerably
+      - enormously
+      - remarkably
+  - 补充

@@ -1,21 +1,16 @@
 - engulf
   - 发音
-    - 英
-      - `/ɪn'gʌlf/`
-    - 美
-      - `/ɛnˈɡʌlf/`
+    - 英 /ɪn'gʌlf/
+    - 美 /ɛnˈɡʌlf/
   - 词义
-    - vt.
-      - 吞没
-        - `if an unpleasant feeling engulfs you, you feel it very strongly`
+    - vt. 吞没
+      - if an unpleasant feeling engulfs you, you feel it very strongly
   - 记忆
     - en(进入) + gulf(海湾； 深渊) → 进入深渊 → 吞没
   - 近义词
-    - vt.
-      - 吞没；吞食，狼吞虎咽
-        - `gulf`
-        - `devour`
+    - vt. 吞没；吞食，狼吞虎咽
+      - gulf
+      - devour
   - 例句
-    - `despair so great it threatened to engulf him`
-      - 几乎要将他压垮的绝望情绪
-
+    - despair so great it threatened to engulf him 几乎要将他压垮的绝望情绪
+  - 补充

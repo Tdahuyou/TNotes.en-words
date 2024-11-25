@@ -1,9 +1,7 @@
 - waling
   - 发音
-    - 英
-      - `/undefined/`
-    - 美
-      - `/undefined/`
+    - 英 /undefined/
+    - 美 /undefined/
   - 词义
-    - n.
-      - 横撑
+    - n. 横撑
+  - 补充

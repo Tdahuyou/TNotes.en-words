@@ -1,19 +1,14 @@
 - relucent
   - 发音
-    - 英
-      - `/rɪ'ljuːsənt/`
-    - 美
-      - `/rɪ'lʊsənt/`
+    - 英 /rɪ'ljuːsənt/
+    - 美 /rɪ'lʊsənt/
   - 词义
-    - adj.
-      - 光辉的,明亮的
-        - `bright; shining `
+    - adj. 光辉的,明亮的
+      - bright; shining 
   - 近义词
-    - adj.
-      - 明亮的；光辉的
-        - `bright`
-        - `liquid`
+    - adj. 明亮的；光辉的
+      - bright
+      - liquid
   - 例句
-    - `When come to the pure, clear, quiet, relucent and beauteous Lugu Lake, welcome you to A-pu Country House, and while you discover the splendor, share your sprightliness.`
-      - 当你来到清纯、宁静、亮丽的泸沽湖，希望走进 “阿普驿馆”，发现精彩的同时，分享你的快乐。
-
+    - When come to the pure, clear, quiet, relucent and beauteous Lugu Lake, welcome you to A-pu Country House, and while you discover the splendor, share your sprightliness. 当你来到清纯、宁静、亮丽的泸沽湖，希望走进 “阿普驿馆”，发现精彩的同时，分享你的快乐。
+  - 补充

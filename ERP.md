@@ -1,9 +1,7 @@
 - ERP
   - 发音
-    - 英
-      - `/undefined/`
-    - 美
-      - `/undefined/`
+    - 英 /undefined/
+    - 美 /undefined/
   - 词义
-    - abbr.
-      - 企业资源计划（EnterpriseResourcePlanning）；有效辐射功率（effectiveradiatedpower）
+    - abbr. 企业资源计划（EnterpriseResourcePlanning）；有效辐射功率（effectiveradiatedpower）
+  - 补充

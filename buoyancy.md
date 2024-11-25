@@ -1,31 +1,21 @@
 - buoyancy
   - 发音
-    - 英
-      - `/'bɔiənsi/`
-    - 美
-      - `/'bɔɪənsi/`
+    - 英 /'bɔiənsi/
+    - 美 /'bɔɪənsi/
   - 词义
-    - n.
-      - 浮性
-        - `the ability of an object to float`
+    - n. 浮性
+      - the ability of an object to float
   - 记忆
     - buoy (浮标) + ancy (性质) → 浮性
   - 同根词
-    - adj.
-      - `buoyant`
-        - 轻快的；有浮力的；上涨的
-    - adv.
-      - `buoyantly`
-        - 心情愉快地；有浮力地
+    - adj. buoyant 轻快的；有浮力的；上涨的
+    - adv. buoyantly 心情愉快地；有浮力地
   - 近义词
-    - n.
-      - 浮力；轻快；轻松的心情；（股票）保持高价或回升
-        - `buoyant force`
-        - `floating power`
+    - n. 浮力；轻快；轻松的心情；（股票）保持高价或回升
+      - buoyant force
+      - floating power
   - 短语
-    - `buoyancy force`
-      - 浮力 
+    - buoyancy force 浮力
   - 例句
-    - `Salt water has more buoyancy than fresh water.`
-      - 盐水的浮力比淡水大。
-
+    - Salt water has more buoyancy than fresh water. 盐水的浮力比淡水大。
+  - 补充

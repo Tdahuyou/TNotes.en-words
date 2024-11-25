@@ -1,32 +1,22 @@
 - discreet
   - 发音
-    - 英
-      - `/dis'kriːt/`
-    - 美
-      - `/dɪ'skrit/`
+    - 英 /dis'kriːt/
+    - 美 /dɪ'skrit/
   - 词义
-    - adj.
-      - 言行谨慎的，小心的，慎重的，审慎的
-        - `careful about what you say or do, so that you do not offend, upset, or embarrass people or tell secrets`
+    - adj. 言行谨慎的，小心的，慎重的，审慎的
+      - careful about what you say or do, so that you do not offend, upset, or embarrass people or tell secrets
   - 记忆
     - 小心谨慎 (discreet) 地认出 (discern)
   - 同根词
-    - adv.
-      - `discreetly`
-        - 谨慎地；小心地
-    - n.
-      - `discreetness`
-        - 谨慎；用心深远
+    - adv. discreetly 谨慎地；小心地
+    - n. discreetness 谨慎；用心深远
   - 近义词
-    - adj.
-      - 谨慎的；小心的
-        - `careful`
-        - `cautious`
-        - `prudent`
-        - `wary`
+    - adj. 谨慎的；小心的
+      - careful
+      - cautious
+      - prudent
+      - wary
   - 例句
-    - `He assured her that he would be discreet.`
-      - 他向她保证会谨慎行事。
-    - `I stood back at a discreet distance.`
-      - 我谨慎地保持一段距离站在后面。
-
+    - He assured her that he would be discreet. 他向她保证会谨慎行事。
+    - I stood back at a discreet distance. 我谨慎地保持一段距离站在后面。
+  - 补充

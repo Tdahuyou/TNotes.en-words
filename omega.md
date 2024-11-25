@@ -1,18 +1,14 @@
 - omega
   - 发音
-    - 英
-      - `/'əʊmɪgə/`
-    - 美
-      - `/o'mɛɡə/`
+    - 英 /'əʊmɪgə/
+    - 美 /o'mɛɡə/
   - 词义
-    - n.
-      - 最后；终了；希腊字母的最后一个字Ω
-        - `the last letter of the Greek alphabet`
+    - n. 最后；终了；希腊字母的最后一个字Ω
+      - the last letter of the Greek alphabet
   - 近义词
-    - n.
-      - 最后；终了；希腊字母的最后一个字Ω
-        - `last`
-        - `ultimum`
+    - n. 最后；终了；希腊字母的最后一个字Ω
+      - last
+      - ultimum
   - 短语
-    - `alpha and omega`
-      - 始终；全部 
+    - alpha and omega 始终；全部
+  - 补充

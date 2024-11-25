@@ -1,32 +1,20 @@
 - stereotype
   - 发音
-    - 英
-      - `/'steriətaɪp/`
-    - 美
-      - `/'stɛrɪətaɪp/`
+    - 英 /'steriətaɪp/
+    - 美 /'stɛrɪətaɪp/
   - 词义
-    - n.
-      - 陈规；固定形式，老套；刻板印象
-    - vt.
-      - 对…形成固定看法
+    - n. 陈规；固定形式，老套；刻板印象
+    - vt. 对…形成固定看法
   - 记忆
     - stereo(固定的) + typ(形状) + e → 有着固定的形状 → 陈规； 固定形式
   - 同根词
-    - adj.
-      - `stereotyped`
-        - 用铅版印刷的；老一套的
-    - v.
-      - `stereotyped`
-        - 把…浇铸成铅版；使成为陈规（stereotype的过去分词）
-    - vt.
-      - `sterilize`
-        - 消毒，杀菌；使成不毛；使绝育；使不起作用
+    - adj. stereotyped 用铅版印刷的；老一套的
+    - v. stereotyped 把…浇铸成铅版；使成为陈规（stereotype的过去分词）
+    - vt. sterilize 消毒，杀菌；使成不毛；使绝育；使不起作用
   - 近义词
-    - n.
-      - 陈腔滥调，老套；铅版
-        - `truism`
-        - `conventionality`
+    - n. 陈腔滥调，老套；铅版
+      - truism
+      - conventionality
   - 例句
-    - `There's always been a stereotype about successful businessmen.`
-      - 对成功的商人们总有一种成见。
-
+    - There's always been a stereotype about successful businessmen. 对成功的商人们总有一种成见。
+  - 补充

@@ -1,24 +1,17 @@
 - artillery
   - 发音
-    - 英
-      - `/ɑː'tɪlərɪ/`
-    - 美
-      - `/ɑr'tɪləri/`
+    - 英 /ɑː'tɪlərɪ/
+    - 美 /ɑr'tɪləri/
   - 词义
-    - n.
-      - 火炮；大炮；炮队；炮术
-        - `large guns, either on wheels or fixed in one place`
+    - n. 火炮；大炮；炮队；炮术
+      - large guns, either on wheels or fixed in one place
   - 近义词
-    - n.
-      - [军]火炮；大炮；炮队；炮术
-        - `Cannons`
-        - `ordnance`
+    - n. [军]火炮；大炮；炮队；炮术
+      - Cannons
+      - ordnance
   - 短语
-    - `heavy artillery`
-      - 重型火炮，重型炮兵 
-    - `field artillery`
-      - 野战炮兵 
+    - heavy artillery 重型火炮，重型炮兵
+    - field artillery 野战炮兵
   - 例句
-    - `Using tanks and heavy artillery, they seized the town.`
-      - 他们使用坦克和重炮攻下了这座城市。
-
+    - Using tanks and heavy artillery, they seized the town. 他们使用坦克和重炮攻下了这座城市。
+  - 补充

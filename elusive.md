@@ -1,30 +1,20 @@
 - elusive
   - 发音
-    - 英
-      - `/i'luːsɪv/`
-    - 美
-      - `/ɪ'lusɪv/`
+    - 英 /i'luːsɪv/
+    - 美 /ɪ'lusɪv/
   - 词义
-    - adj.
-      - 难以理解的，难懂的；难捕捉的；逃避的
-        - `an elusive result is difficult to achieve`
+    - adj. 难以理解的，难懂的；难捕捉的；逃避的
+      - an elusive result is difficult to achieve
   - 记忆
     - 来自elude(vt. 逃避； 使困惑)
   - 同根词
-    - n.
-      - `elusion`
-        - 逃避；回避
-      - `elusiveness`
-        - 狡诈；易闪避；飘忽不定；巧妙逃避
-    - vt.
-      - `elude`
-        - 逃避，躲避
+    - n. elusion 逃避；回避
+    - n. elusiveness 狡诈；易闪避；飘忽不定；巧妙逃避
+    - vt. elude 逃避，躲避
   - 近义词
-    - adj.
-      - 难懂的；易忘的；逃避的；难捉摸的
-        - `complicated`
-        - `abstruse`
+    - adj. 难懂的；易忘的；逃避的；难捉摸的
+      - complicated
+      - abstruse
   - 例句
-    - `She enjoys a firm reputation in this country but wider international success has been elusive.`
-      - 她在这个国家享有稳固的声誉，但却一直难以在国际上取得更大的成功。
-
+    - She enjoys a firm reputation in this country but wider international success has been elusive. 她在这个国家享有稳固的声誉，但却一直难以在国际上取得更大的成功。
+  - 补充

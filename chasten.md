@@ -1,29 +1,20 @@
 - chasten
   - 发音
-    - 英
-      - `/'tʃeɪsn/`
-    - 美
-      - `/'tʃesn/`
+    - 英 /'tʃeɪsn/
+    - 美 /'tʃesn/
   - 词义
-    - v.
-      - 改正；磨炼
-        - `to make someone realize that their behaviour was wrong or mistaken`
+    - v. 改正；磨炼
+      - to make someone realize that their behaviour was wrong or mistaken
   - 记忆
     - chaste(纯洁的) + n → 变纯洁 → 改正
   - 同根词
-    - n.
-      - `chastisement`
-        - 惩罚
-    - vt.
-      - `chastise`
-        - 惩罚；严惩；责骂
+    - n. chastisement 惩罚
+    - vt. chastise 惩罚；严惩；责骂
   - 近义词
-    - vt.
-      - 惩罚；磨炼；抑制
-        - `control`
-        - `stay`
-        - `restrain`
+    - vt. 惩罚；磨炼；抑制
+      - control
+      - stay
+      - restrain
   - 例句
-    - `Party workers have returned to their home towns, chastened by their overwhelming defeat.`
-      - 党务工作者遭受惨败后打道回府。
-
+    - Party workers have returned to their home towns, chastened by their overwhelming defeat. 党务工作者遭受惨败后打道回府。
+  - 补充

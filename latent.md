@@ -1,43 +1,28 @@
 - latent
   - 发音
-    - 英
-      - `/'leɪtnt/`
-    - 美
-      - `/'letnt/`
+    - 英 /'leɪtnt/
+    - 美 /'letnt/
   - 词义
-    - adj.
-      - 潜在的，隐伏的；潜伏的；休眠的
-        - `something that is latent is present but hidden, and may develop or become more noticeable in the future`
+    - adj. 潜在的，隐伏的；潜伏的；休眠的
+      - something that is latent is present but hidden, and may develop or become more noticeable in the future
   - 记忆
     - late(晚的) + nt → 晚到的 → 潜在的， 隐伏的
   - 同根词
-    - n.
-      - `latency`
-        - 潜伏；潜在因素
+    - n. latency 潜伏；潜在因素
   - 近义词
-    - adj.
-      - 潜在的；[无脊椎]潜伏的；隐藏的
-        - `potential`
-        - `hidden`
-        - `underlying`
+    - adj. 潜在的；[无脊椎]潜伏的；隐藏的
+      - potential
+      - hidden
+      - underlying
   - 短语
-    - `latent heat`
-      - 潜伏热 
-    - `latent energy`
-      - 潜能 
-    - `latent period`
-      - [医]潜伏期；等待周期；反应时间差（介于受刺激与作出反应之间的时间） 
-    - `latent image`
-      - 潜像；潜象；隐像 
-    - `latent variable`
-      - 潜变量 
-    - `latent infection`
-      - 潜伏性感染 
-    - `latent heat of vaporization`
-      - [化]汽化潜热 
-    - `latent demand`
-      - [经]潜在需求 
+    - latent heat 潜伏热
+    - latent energy 潜能
+    - latent period [医]潜伏期；等待周期；反应时间差（介于受刺激与作出反应之间的时间）
+    - latent image 潜像；潜象；隐像
+    - latent variable 潜变量
+    - latent infection 潜伏性感染
+    - latent heat of vaporization [化]汽化潜热
+    - latent demand [经]潜在需求
   - 例句
-    - `latent aggression`
-      - 潜在的侵略
-
+    - latent aggression 潜在的侵略
+  - 补充

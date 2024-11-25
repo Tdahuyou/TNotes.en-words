@@ -1,24 +1,17 @@
 - circumvent
   - 发音
-    - 英
-      - `/sɜːkəm'vent/`
-    - 美
-      - `/,sɝkəm'vɛnt/`
+    - 英 /sɜːkəm'vent/
+    - 美 /,sɝkəm'vɛnt/
   - 词义
-    - v.
-      - 绕行,设法避开
-        - `to avoid something by changing the direction in which you are travelling`
+    - v. 绕行,设法避开
+      - to avoid something by changing the direction in which you are travelling
   - 同根词
-    - n.
-      - `circumvention`
-        - 规避；陷害；绕行
+    - n. circumvention 规避；陷害；绕行
   - 近义词
-    - vt.
-      - 包围；陷害；绕行
-        - `case`
-        - `invest`
-        - `frame`
+    - vt. 包围；陷害；绕行
+      - case
+      - invest
+      - frame
   - 例句
-    - `We went north in order to circumvent the mountains.`
-      - 我们往北走以绕开这些山。
-
+    - We went north in order to circumvent the mountains. 我们往北走以绕开这些山。
+  - 补充

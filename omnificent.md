@@ -1,10 +1,8 @@
 - omnificent
   - 发音
-    - 英
-      - `/ɒm'nɪfɪsənt/`
-    - 美
-      - `/undefined/`
+    - 英 /ɒm'nɪfɪsənt/
+    - 美 /undefined/
   - 词义
-    - adj.
-      - <罕>创造一切的,有无限创造力的
-        - `creating all things `
+    - adj. <罕>创造一切的,有无限创造力的
+      - creating all things 
+  - 补充

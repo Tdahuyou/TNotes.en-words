@@ -1,35 +1,23 @@
 - profusion
   - 发音
-    - 英
-      - `/prə'fjuːʒ(ə)n/`
-    - 美
-      - `/prəˈfjuʒən/`
+    - 英 /prə'fjuːʒ(ə)n/
+    - 美 /prəˈfjuʒən/
   - 词义
-    - n.
-      - 丰富
-        - `a very large amount of something`
+    - n. 丰富
+      - a very large amount of something
   - 同根词
-    - adj.
-      - `profuse`
-        - 丰富的；很多的；慷慨的；浪费的
-    - adv.
-      - `profusely`
-        - 丰富地
-    - n.
-      - `profuseness`
-        - 挥霍；丰富
+    - adj. profuse 丰富的；很多的；慷慨的；浪费的
+    - adv. profusely 丰富地
+    - n. profuseness 挥霍；丰富
   - 近义词
-    - n.
-      - 丰富，充沛；慷慨
-        - `abundance`
-        - `plenty`
-        - `pregnancy`
-        - `amplitude`
-        - `enrichment`
+    - n. 丰富，充沛；慷慨
+      - abundance
+      - plenty
+      - pregnancy
+      - amplitude
+      - enrichment
   - 短语
-    - `in profusion`
-      - 丰富地，大量地 
+    - in profusion 丰富地，大量地
   - 例句
-    - `...a delightful river with a profusion of wild flowers along its banks.`
-      - ...一条令人愉悦的河，岸上开满了野花。
-
+    - ...a delightful river with a profusion of wild flowers along its banks. ...一条令人愉悦的河，岸上开满了野花。
+  - 补充

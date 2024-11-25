@@ -1,46 +1,28 @@
 - accompany
   - 发音
-    - 英
-      - `/ə'kʌmpəni/`
-    - 美
-      - `/ə'kʌmpəni/`
+    - 英 /ə'kʌmpəni/
+    - 美 /ə'kʌmpəni/
   - 词义
-    - vt.
-      - 为…伴奏；陪伴，陪同；伴随，和…一起发生
-        - `to go somewhere with someone`
+    - vt. 为…伴奏；陪伴，陪同；伴随，和…一起发生
+      - to go somewhere with someone
   - 记忆
     - ac(表加强) + company(同伴； 陪伴) → 陪伴， 陪同
   - 同根词
-    - adj.
-      - `accompanied`
-        - 伴随的；相伴的
-      - `accompanying`
-        - 陪伴的；附随的
-    - n.
-      - `accompaniment`
-        - 伴奏；伴随物
-      - `accompanist`
-        - 伴奏者；伴随者
-      - `accompanyist`
-        - 伴奏者；随伴者
-    - v.
-      - `accompanied`
-        - 陪伴，伴随；伴奏（accompany的过去分词）
-      - `accompanying`
-        - 伴随（accompany的ing形式）
+    - adj. accompanied 伴随的；相伴的
+    - adj. accompanying 陪伴的；附随的
+    - n. accompaniment 伴奏；伴随物
+    - n. accompanist 伴奏者；伴随者
+    - n. accompanyist 伴奏者；随伴者
+    - v. accompanied 陪伴，伴随；伴奏（accompany的过去分词）
+    - v. accompanying 伴随（accompany的ing形式）
   - 近义词
-    - vt.
-      - 陪伴，伴随；伴奏
-        - `attend`
-        - `keep company`
+    - vt. 陪伴，伴随；伴奏
+      - attend
+      - keep company
   - 短语
-    - `accompany with`
-      - 伴随着，兼带着；陪…同行 
-    - `accompany by`
-      - 随行，伴奏；在…的陪同下 
+    - accompany with 伴随着，兼带着；陪…同行
+    - accompany by 随行，伴奏；在…的陪同下
   - 例句
-    - `Children under 14 must be accompanied by an adult.`
-      - 14岁以下儿童必须有成人陪同。
-    - `Wherever her husband went, she would accompany him.`
-      - 不论丈夫去哪里，她都陪伴左右。
-
+    - Children under 14 must be accompanied by an adult. 14岁以下儿童必须有成人陪同。
+    - Wherever her husband went, she would accompany him. 不论丈夫去哪里，她都陪伴左右。
+  - 补充

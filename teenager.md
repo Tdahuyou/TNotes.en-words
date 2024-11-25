@@ -1,31 +1,19 @@
 - teenager
   - 发音
-    - 英
-      - `/'tiːneɪdʒə/`
-    - 美
-      - `/'tinedʒɚ/`
+    - 英 /'tiːneɪdʒə/
+    - 美 /'tinedʒɚ/
   - 词义
-    - n.
-      - 十几岁的青少年
-        - `someone who is between 13 and 19 years old`
+    - n. 十几岁的青少年
+      - someone who is between 13 and 19 years old
   - 记忆
     - teen(看作ten) ＋ age(年龄) ＋ r → 十几岁的年龄 → 青少年
   - 同根词
-    - adj.
-      - `teen`
-        - 十几岁的（等于teenaged）
-      - `teenage`
-        - 青少年的；十几岁的
-      - `teenaged`
-        - 十几岁的；青少年的
-    - n.
-      - `teen`
-        - 青少年（等于teenager）；愤怒；悲哀
-      - `teenage`
-        - 青少年时期
-      - `teens`
-        - 十多岁，十几岁；青少年
+    - adj. teen 十几岁的（等于teenaged）
+    - adj. teenage 青少年的；十几岁的
+    - adj. teenaged 十几岁的；青少年的
+    - n. teen 青少年（等于teenager）；愤怒；悲哀
+    - n. teenage 青少年时期
+    - n. teens 十多岁，十几岁；青少年
   - 例句
-    - `a TV sex education series aimed at teenagers`
-      - 一部针对青少年的性教育电视系列片
-
+    - a TV sex education series aimed at teenagers 一部针对青少年的性教育电视系列片
+  - 补充

@@ -1,68 +1,38 @@
 - measured
   - 发音
-    - 英
-      - `/'meʒərd/`
-    - 美
-      - `/'mɛʒɚd/`
+    - 英 /'meʒərd/
+    - 美 /'mɛʒɚd/
   - 词义
-    - adj.
-      - 量过的，精确的；慎重的，恰如其分的
-        - `if you do something in a measured way, you do it in a careful and controlled way, not in an excited or sudden way`
+    - adj. 量过的，精确的；慎重的，恰如其分的
+      - if you do something in a measured way, you do it in a careful and controlled way, not in an excited or sudden way
   - 记忆
     - 来自measure(v. 测量)
   - 同根词
-    - adj.
-      - `measurable`
-        - 可测量的；重要的；重大的
-      - `measuring`
-        - 测量用的
-      - `measureless`
-        - 无限的，不可量的
-    - adv.
-      - `measurably`
-        - 可以测定的程度；可视地
-    - n.
-      - `measure`
-        - 测量；措施；程度；尺寸
-      - `measurement`
-        - 测量；[计量] 度量；尺寸；量度制
-      - `measuring`
-        - 测量；衡量
-      - `measurability`
-        - 可测量性
-      - `measurer`
-        - [测] 测量器；[测] 测量员
-    - v.
-      - `measuring`
-        - 测量（measure的ing形式）
-    - vi.
-      - `measure`
-        - 测量；估量
-    - vt.
-      - `measure`
-        - 测量；估量；权衡
+    - adj. measurable 可测量的；重要的；重大的
+    - adj. measuring 测量用的
+    - adj. measureless 无限的，不可量的
+    - adv. measurably 可以测定的程度；可视地
+    - n. measure 测量；措施；程度；尺寸
+    - n. measurement 测量；[计量] 度量；尺寸；量度制
+    - n. measuring 测量；衡量
+    - n. measurability 可测量性
+    - n. measurer [测] 测量器；[测] 测量员
+    - v. measuring 测量（measure的ing形式）
+    - vi. measure 测量；估量
+    - vt. measure 测量；估量；权衡
   - 近义词
-    - adj.
-      - 量过的；慎重的；基于标准的；有规则的
-        - `circumspective`
-        - `deliberative`
-    - v.
-      - 测量，判断（measure的过去分词）
-        - `gauged`
+    - adj. 量过的；慎重的；基于标准的；有规则的
+      - circumspective
+      - deliberative
+    - v. 测量，判断（measure的过去分词）
+      - gauged
   - 短语
-    - `measured data`
-      - 测量数据 
-    - `measured value`
-      - 测量值；测定值 
-    - `measured signal`
-      - 被测信号 
-    - `measured profile`
-      - 实测断面 
-    - `measured quantity`
-      - 测定量；被测量 
+    - measured data 测量数据
+    - measured value 测量值；测定值
+    - measured signal 被测信号
+    - measured profile 实测断面
+    - measured quantity 测定量；被测量
   - 例句
-    - `a measured response to the problem`
-      - 对问题作出的慎重回应
-    - `She spoke in measured tones .`
-      - 她以不慌不忙的语调说话。
-
+    - a measured response to the problem 对问题作出的慎重回应
+    - She spoke in measured tones . 她以不慌不忙的语调说话。
+  - 补充

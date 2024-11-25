@@ -1,34 +1,20 @@
 - unlikely
   - 发音
-    - 英
-      - `/ʌn'laɪklɪ/`
-    - 美
-      - `/ʌn'laɪkli/`
+    - 英 /ʌn'laɪklɪ/
+    - 美 /ʌn'laɪkli/
   - 词义
-    - adj.
-      - 不太可能的；没希望的
-        - `not likely to happen`
-    - adv.
-      - 未必
+    - adj. 不太可能的；没希望的
+      - not likely to happen
+    - adv. 未必
   - 同根词
-    - adj.
-      - `unlike`
-        - 不同的，不相似的
-    - n.
-      - `unlikelihood`
-        - 不可信；未必有；不大可能的事
-      - `unlikeliness`
-        - 不大可能；不一样
-      - `unlikeness`
-        - 不同；不相等；不像
-    - prep.
-      - `unlike`
-        - 和…不同，不像
+    - adj. unlike 不同的，不相似的
+    - n. unlikelihood 不可信；未必有；不大可能的事
+    - n. unlikeliness 不大可能；不一样
+    - n. unlikeness 不同；不相等；不像
+    - prep. unlike 和…不同，不像
   - 近义词
-    - adv.
-      - 未必
-        - `not necessarily`
+    - adv. 未必
+      - not necessarily
   - 例句
-    - `Donna might be able to come tomorrow, but it’s very unlikely.`
-      - 唐娜明天也许能来，不过这可能性很小。
-
+    - Donna might be able to come tomorrow, but it’s very unlikely. 唐娜明天也许能来，不过这可能性很小。
+  - 补充

@@ -1,39 +1,23 @@
 - solemnity
   - 发音
-    - 英
-      - `/sə'lemnəti/`
-    - 美
-      - `/sə'lɛmnəti/`
+    - 英 /sə'lemnəti/
+    - 美 /sə'lɛmnəti/
   - 词义
-    - n.
-      - 庄严，肃穆
-        - `the quality of being serious in behaviour or manner`
+    - n. 庄严，肃穆
+      - the quality of being serious in behaviour or manner
   - 记忆
     - 来自solemn(adj. 严肃的)
   - 同根词
-    - adj.
-      - `solemn`
-        - 庄严的，严肃的；隆重的，郑重的
-    - adv.
-      - `solemnly`
-        - 庄严地；严肃地
-    - n.
-      - `solemnization`
-        - 举行仪式；庄严化；隆重的庆祝
-    - vi.
-      - `solemnise`
-        - 严肃起来；严肃地说（等于solemnize）
-    - vt.
-      - `solemnize`
-        - 隆重地庆祝；使显庄严
-      - `solemnise`
-        - 使庄严；使严肃；隆重庆祝
+    - adj. solemn 庄严的，严肃的；隆重的，郑重的
+    - adv. solemnly 庄严地；严肃地
+    - n. solemnization 举行仪式；庄严化；隆重的庆祝
+    - vi. solemnise 严肃起来；严肃地说（等于solemnize）
+    - vt. solemnize 隆重地庆祝；使显庄严
+    - vt. solemnise 使庄严；使严肃；隆重庆祝
   - 近义词
-    - n.
-      - 严肃；庄严；一本正经
-        - `gravity`
-        - `serious about`
+    - n. 严肃；庄严；一本正经
+      - gravity
+      - serious about
   - 例句
-    - `the solemnity of a great religious occasion`
-      - 重大宗教场合的庄严肃穆
-
+    - the solemnity of a great religious occasion 重大宗教场合的庄严肃穆
+  - 补充

@@ -1,25 +1,18 @@
 - clientele
   - 发音
-    - 英
-      - `/ˌkliːən'tel/`
-    - 美
-      - `/'klaɪən'tɛl/`
+    - 英 /ˌkliːən'tel/
+    - 美 /'klaɪən'tɛl/
   - 词义
-    - n.
-      - 诉讼委托人，客户
-        - `The clientele of a place or organization are its customers or clients`
+    - n. 诉讼委托人，客户
+      - The clientele of a place or organization are its customers or clients
   - 记忆
     - 来自client (n. 当事人， 顾客)； clientele是集合名词
   - 同根词
-    - n.
-      - `client`
-        - [经] 客户；顾客；委托人
+    - n. client [经] 客户；顾客；委托人
   - 近义词
-    - n.
-      - 客户；诉讼委托人
-        - `correspondent`
-        - `client server software`
+    - n. 客户；诉讼委托人
+      - correspondent
+      - client server software
   - 例句
-    - `This pub had a mixed clientele.`
-      - 这家酒吧有混杂的顾客群。
-
+    - This pub had a mixed clientele. 这家酒吧有混杂的顾客群。
+  - 补充

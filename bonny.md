@@ -1,33 +1,21 @@
 - bonny
   - 发音
-    - 英
-      - `/'bɑːni/`
-    - 美
-      - `/'bɔnɪ/`
+    - 英 /'bɑːni/
+    - 美 /'bɔnɪ/
   - 词义
-    - adj.
-      - 健美的，漂亮的
-        - `pretty and healthy`
+    - adj. 健美的，漂亮的
+      - pretty and healthy
   - 同根词
-    - adj.
-      - `bonnie`
-        - 漂亮的
-    - adv.
-      - `bonnie`
-        - 极妙地
-      - `bonnily`
-        - 快活地；美丽地
-    - n.
-      - `bonnie`
-        - 美女（等于bonny）
+    - adj. bonnie 漂亮的
+    - adv. bonnie 极妙地
+    - adv. bonnily 快活地；美丽地
+    - n. bonnie 美女（等于bonny）
   - 近义词
-    - adj.
-      - 漂亮的；健美的
-        - `pretty`
-        - `smart`
-        - `tony`
-        - `cute`
+    - adj. 漂亮的；健美的
+      - pretty
+      - smart
+      - tony
+      - cute
   - 例句
-    - `a bonny baby`
-      - 健康漂亮的婴儿
-
+    - a bonny baby 健康漂亮的婴儿
+  - 补充

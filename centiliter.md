@@ -1,11 +1,9 @@
 - centiliter
   - 发音
-    - 英
-      - `/'sentiˌliːtə/`
-    - 美
-      - `/'sɛntə,litɚ/`
+    - 英 /'sentiˌliːtə/
+    - 美 /'sɛntə,litɚ/
   - 词义
-    - n.
-      - 毫升
+    - n. 毫升
   - 记忆
     - centi (百) + liter (升) → 毫升
+  - 补充

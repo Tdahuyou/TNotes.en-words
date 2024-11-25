@@ -1,23 +1,16 @@
 - ruckus
   - 发音
-    - 英
-      - `/'rʌkəs/`
-    - 美
-      - `/'rʊkəs/`
+    - 英 /'rʌkəs/
+    - 美 /'rʊkəs/
   - 词义
-    - n.
-      - 骚动；喧闹
-        - `a noisy argument or confused situation`
+    - n. 骚动；喧闹
+      - a noisy argument or confused situation
   - 同根词
-    - n.
-      - `ruction`
-        - 吵闹；骚动
+    - n. ruction 吵闹；骚动
   - 近义词
-    - n.
-      - 骚动；喧闹
-        - `combustion`
-        - `turmoil`
+    - n. 骚动；喧闹
+      - combustion
+      - turmoil
   - 例句
-    - `This caused such a ruckus all over Japan that they had to change their mind.`
-      - 这在日本上下引起了不小的骚动，他们不得不因此改变主意。
-
+    - This caused such a ruckus all over Japan that they had to change their mind. 这在日本上下引起了不小的骚动，他们不得不因此改变主意。
+  - 补充

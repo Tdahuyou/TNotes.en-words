@@ -1,21 +1,16 @@
 - flair
   - 发音
-    - 英
-      - `/fler/`
-    - 美
-      - `/flɛr/`
+    - 英 /fler/
+    - 美 /flɛr/
   - 词义
-    - n.
-      - 才能，本领；天资
-        - `a natural ability to do something very well`
+    - n. 才能，本领；天资
+      - a natural ability to do something very well
   - 记忆
     - 才能(flair)无法在集市(fair)上买到
   - 近义词
-    - n.
-      - 资质；鉴别力
-        - `discernibility`
-        - `discriminating power`
+    - n. 资质；鉴别力
+      - discernibility
+      - discriminating power
   - 例句
-    - `Jo has a flair for languages.`
-      - 乔有语言天赋。
-
+    - Jo has a flair for languages. 乔有语言天赋。
+  - 补充

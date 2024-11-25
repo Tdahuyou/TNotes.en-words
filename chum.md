@@ -1,30 +1,19 @@
 - chum
   - 发音
-    - 英
-      - `/tʃʌm/`
-    - 美
-      - `/tʃʌm/`
+    - 英 /tʃʌm/
+    - 美 /tʃʌm/
   - 词义
-    - n.
-      - 室友；密友
-        - `Your chum is your friend`
-    - vi.
-      - 结为密友
+    - n. 室友；密友
+      - Your chum is your friend
+    - vi. 结为密友
   - 同根词
-    - adj.
-      - `chummy`
-        - 亲密的；合得来的
-    - n.
-      - `chummy`
-        - 密友
-      - `chumminess`
-        - 亲密无间；友好
+    - adj. chummy 亲密的；合得来的
+    - n. chummy 密友
+    - n. chumminess 亲密无间；友好
   - 近义词
-    - n.
-      - 室友；密友
-        - `familiar`
-        - `room-mate`
+    - n. 室友；密友
+      - familiar
+      - room-mate
   - 例句
-    - `...his old chum Anthony.`
-      - ...他的老友安东尼。
-
+    - ...his old chum Anthony. ...他的老友安东尼。
+  - 补充

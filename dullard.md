@@ -1,19 +1,16 @@
 - dullard
   - 发音
-    - 英
-      - `/'dʌləd/`
-    - 美
-      - `/'dʌlɑrd/`
+    - 英 /'dʌləd/
+    - 美 /'dʌlɑrd/
   - 词义
-    - n.
-      - 傻瓜
+    - n. 傻瓜
   - 记忆
     - dull (迟钝的) + ard → 这个傻瓜太迟钝了 → 傻瓜
   - 近义词
-    - n.
-      - 笨蛋；愚人
-        - `simple`
-        - `turkey`
-        - `put`
-        - `idiot`
-        - `stupid`
+    - n. 笨蛋；愚人
+      - simple
+      - turkey
+      - put
+      - idiot
+      - stupid
+  - 补充

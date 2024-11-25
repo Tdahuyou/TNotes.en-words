@@ -1,21 +1,15 @@
 - waitress
   - 发音
-    - 英
-      - `/ˈweɪtrəs/`
-    - 美
-      - `/ˈwetrɪs/`
+    - 英 /ˈweɪtrəs/
+    - 美 /ˈwetrɪs/
   - 词义
-    - n.
-      - 女服务员；女侍者
-        - `a woman who serves food and drink at the tables in a restaurant`
-    - v.
-      - 做女服务生
+    - n. 女服务员；女侍者
+      - a woman who serves food and drink at the tables in a restaurant
+    - v. 做女服务生
   - 同根词
-    - n.
-      - `waiter`
-        - 服务员，侍者
+    - n. waiter 服务员，侍者
   - 近义词
-    - n.
-      - [劳经]女服务员；女侍者
-        - `chambermaid`
-        - `usherette`
+    - n. [劳经]女服务员；女侍者
+      - chambermaid
+      - usherette
+  - 补充

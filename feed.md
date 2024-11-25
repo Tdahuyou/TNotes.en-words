@@ -1,84 +1,50 @@
 - feed
   - 发音
-    - 英
-      - `/fiːd/`
-    - 美
-      - `/fid/`
+    - 英 /fiːd/
+    - 美 /fid/
   - 词义
-    - v.
-      - (fed)喂养；饲养
-        - `to give food to a person or animal`
+    - v. (fed)喂养；饲养
+      - to give food to a person or animal
   - 记忆
     - 播种就是给土地喂 (feed)种子(seed)
   - 同根词
-    - adj.
-      - `feeding`
-        - 供给饲料的；摄取食物的
-    - n.
-      - `feeder`
-        - 支线；喂食器；奶瓶；饲养员；支流
-      - `feeding`
-        - 饲养；吃；输送
-    - v.
-      - `feeding`
-        - 饲养（feed的ing形式）
+    - adj. feeding 供给饲料的；摄取食物的
+    - n. feeder 支线；喂食器；奶瓶；饲养员；支流
+    - n. feeding 饲养；吃；输送
+    - v. feeding 饲养（feed的ing形式）
   - 近义词
-    - vt.
-      - 喂养；供给；放牧；抚养（家庭等）；靠…为生
-        - `grass`
-        - `take care of`
-        - `range`
-    - vi.
-      - 吃东西；流入
-        - `take food`
-        - `flow into`
-    - n.
-      - [畜牧]饲料；饲养；（动物或婴儿的）一餐
-        - `meal`
-        - `breeding`
-        - `husbandry`
+    - vt. 喂养；供给；放牧；抚养（家庭等）；靠…为生
+      - grass
+      - take care of
+      - range
+    - vi. 吃东西；流入
+      - take food
+      - flow into
+    - n. [畜牧]饲料；饲养；（动物或婴儿的）一餐
+      - meal
+      - breeding
+      - husbandry
   - 短语
-    - `feed oneself`
-      - 自己吃 
-    - `feed on`
-      - v. 以...为食；以...为能源 
-    - `feed back`
-      - 反馈；反应；回复 
-    - `feed rate`
-      - 馈送率；加料速度；进给速率 
-    - `animal feed`
-      - 动物饲料 
-    - `feed system`
-      - 浇注系统；供料系统；供给系统 
-    - `feed additive`
-      - [化]饲料添加剂 
-    - `feed water`
-      - 给水 
-    - `feed in`
-      - 进（料）；输入；插入 
-    - `feed forward`
-      - 前馈；正向输送 
-    - `feed speed`
-      - 进给速度 
-    - `feed processing`
-      - 饲料加工 
-    - `feed stock`
-      - 原料 
-    - `feed pump`
-      - 供水泵；输油泵；进料泵 
-    - `feed gas`
-      - 原料气 
-    - `feed with`
-      - 加上（油、煤等）；以…为食；用…喂养；用…供应… 
-    - `feed mechanism`
-      - 进刀机构，供给机构；推进机构 
-    - `automatic feed`
-      - 自动进料 
-    - `feed intake`
-      - 采食量；投料 
-    - `feed conversion`
-      - 饲料转化率；饲料利用 
+    - feed oneself 自己吃
+    - feed on v. 以...为食；以...为能源
+    - feed back 反馈；反应；回复
+    - feed rate 馈送率；加料速度；进给速率
+    - animal feed 动物饲料
+    - feed system 浇注系统；供料系统；供给系统
+    - feed additive [化]饲料添加剂
+    - feed water 给水
+    - feed in 进（料）；输入；插入
+    - feed forward 前馈；正向输送
+    - feed speed 进给速度
+    - feed processing 饲料加工
+    - feed stock 原料
+    - feed pump 供水泵；输油泵；进料泵
+    - feed gas 原料气
+    - feed with 加上（油、煤等）；以…为食；用…喂养；用…供应…
+    - feed mechanism 进刀机构，供给机构；推进机构
+    - automatic feed 自动进料
+    - feed intake 采食量；投料
+    - feed conversion 饲料转化率；饲料利用
   - 例句
-    - `Have you fed the cat?`
-      - 你喂猫了吗？
-
+    - Have you fed the cat? 你喂猫了吗？
+  - 补充

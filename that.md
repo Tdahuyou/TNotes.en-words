@@ -1,25 +1,19 @@
 - that
   - 发音
-    - 英
-      - `/ðæt; ðət/`
-    - 美
-      - `/ðæt/`
+    - 英 /ðæt; ðət/
+    - 美 /ðæt/
   - 词义
-    - pron.
-      - 那；那个（指代已被提及的事物）
+    - pron. 那；那个（指代已被提及的事物）
   - 近义词
-    - adv.
-      - 那么；那样
-        - `so then`
-        - `thuswise`
-    - conj.
-      - 因为；以至于
-        - `because`
-        - `since`
-        - `for`
-        - `seeing`
+    - adv. 那么；那样
+      - so then
+      - thuswise
+    - conj. 因为；以至于
+      - because
+      - since
+      - for
+      - seeing
   - 短语
-    - `that there`
-      - [粗俗语]那…；那个… 
-    - `that far`
-      - 那么远；到那里为止 
+    - that there [粗俗语]那…；那个…
+    - that far 那么远；到那里为止
+  - 补充

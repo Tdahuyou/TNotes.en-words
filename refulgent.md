@@ -1,22 +1,17 @@
 - refulgent
   - 发音
-    - 英
-      - `/ri'fʌldʒənt/`
-    - 美
-      - `/rɪ'fʌldʒənt/`
+    - 英 /ri'fʌldʒənt/
+    - 美 /rɪ'fʌldʒənt/
   - 词义
-    - adj.
-      - 辉煌的；灿烂的
-        - `shining, brilliant, or radiant `
+    - adj. 辉煌的；灿烂的
+      - shining, brilliant, or radiant 
   - 记忆
     - re + fulg (发光) + ent → 辉煌的
   - 同根词
-    - n.
-      - `refulgence`
-        - 辉煌；光辉；灿烂
+    - n. refulgence 辉煌；光辉；灿烂
   - 近义词
-    - adj.
-      - 辉煌的；灿烂的
-        - `brilliant`
-        - `splendid`
-        - `glorious`
+    - adj. 辉煌的；灿烂的
+      - brilliant
+      - splendid
+      - glorious
+  - 补充

@@ -1,30 +1,21 @@
 - balcony
   - 发音
-    - 英
-      - `/'bælkəni/`
-    - 美
-      - `/'bælkənɪ/`
+    - 英 /'bælkəni/
+    - 美 /'bælkənɪ/
   - 词义
-    - n.
-      - 阳台；楼厅，楼座
-        - `a structure that you can stand on, that is attached to the outside wall of a building, above ground level`
+    - n. 阳台；楼厅，楼座
+      - a structure that you can stand on, that is attached to the outside wall of a building, above ground level
   - 记忆
     - “白给你” → 这个价位的戏票， 整个包厢都相当于“白给你” → 包厢
   - 同根词
-    - adj.
-      - `balconied`
-        - 有阳台的
+    - adj. balconied 有阳台的
   - 近义词
-    - n.
-      - [建]阳台；包厢；戏院楼厅
-        - `box`
-        - `sun porch`
+    - n. [建]阳台；包厢；戏院楼厅
+      - box
+      - sun porch
   - 短语
-    - `balcony window`
-      - 阳台窗 
-    - `balcony door`
-      - 阳台门 
+    - balcony window 阳台窗
+    - balcony door 阳台门
   - 例句
-    - `Has your flat got a balcony?`
-      - 你的公寓有阳台吗？
-
+    - Has your flat got a balcony? 你的公寓有阳台吗？
+  - 补充

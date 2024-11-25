@@ -1,9 +1,7 @@
 - Semitic
   - 发音
-    - 英
-      - `/si'mitik; se-/`
-    - 美
-      - `/si'mitik; se-/`
+    - 英 /si'mitik; se-/
+    - 美 /si'mitik; se-/
   - 词义
-    - n.
-      - /a闪族人(语)(的)
+    - n. /a闪族人(语)(的)
+  - 补充

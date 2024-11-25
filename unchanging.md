@@ -1,20 +1,15 @@
 - unchanging
   - 发音
-    - 英
-      - `/ʌn'tʃeɪn(d)ʒɪŋ/`
-    - 美
-      - `/ʌn'tʃendʒɪŋ/`
+    - 英 /ʌn'tʃeɪn(d)ʒɪŋ/
+    - 美 /ʌn'tʃendʒɪŋ/
   - 词义
-    - adj.
-      - 不变的
-        - `always staying the same`
+    - adj. 不变的
+      - always staying the same
   - 近义词
-    - adj.
-      - 不变的
-        - `constant`
-        - `permanent`
-        - `steady`
+    - adj. 不变的
+      - constant
+      - permanent
+      - steady
   - 例句
-    - `...eternal and unchanging truths.`
-      - ...永恒不变的事实。
-
+    - ...eternal and unchanging truths. ...永恒不变的事实。
+  - 补充

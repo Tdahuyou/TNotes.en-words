@@ -1,35 +1,23 @@
 - allergy
   - 发音
-    - 英
-      - `/'ælərdʒi/`
-    - 美
-      - `/'ælɚdʒi/`
+    - 英 /'ælərdʒi/
+    - 美 /'ælɚdʒi/
   - 词义
-    - n.
-      - 过敏性反应
-        - `a medical condition in which you become ill or in which your skin becomes red and painful because you have eaten or touched a particular substance`
+    - n. 过敏性反应
+      - a medical condition in which you become ill or in which your skin becomes red and painful because you have eaten or touched a particular substance
   - 记忆
     - all(异常的) + erg(起作用) + y → 异常的东西起作用 → 过敏性反应
   - 同根词
-    - adj.
-      - `allergic`
-        - 对…过敏的；对…极讨厌的
-      - `allergenic`
-        - 引起过敏症的
-    - n.
-      - `allergen`
-        - [医] 过敏原
-      - `allergist`
-        - 过敏症专科医师
+    - adj. allergic 对…过敏的；对…极讨厌的
+    - adj. allergenic 引起过敏症的
+    - n. allergen [医] 过敏原
+    - n. allergist 过敏症专科医师
   - 近义词
-    - n.
-      - 过敏症；反感；厌恶
-        - `hate`
-        - `hypersensitivity`
+    - n. 过敏症；反感；厌恶
+      - hate
+      - hypersensitivity
   - 短语
-    - `food allergy`
-      - 食物过敏，食品过敏；食物变态反应 
+    - food allergy 食物过敏，食品过敏；食物变态反应
   - 例句
-    - `a food allergy`
-      - 食物过敏
-
+    - a food allergy 食物过敏
+  - 补充

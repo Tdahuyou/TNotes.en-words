@@ -1,28 +1,19 @@
 - obsequious
   - 发音
-    - 英
-      - `/əb'siːkwiəs/`
-    - 美
-      - `/əb'sikwɪəs/`
+    - 英 /əb'siːkwiəs/
+    - 美 /əb'sikwɪəs/
   - 词义
-    - adj.
-      - 谄媚的，奉承的，拍马屁的
-        - `very eager to please or agree with people who are powerful – used in order to show disapproval`
+    - adj. 谄媚的，奉承的，拍马屁的
+      - very eager to please or agree with people who are powerful – used in order to show disapproval
   - 记忆
     - ob (接近) + sequ (跟随) + i + ous (…的) → 紧跟着 → 谄媚的
   - 同根词
-    - adv.
-      - `obsequiously`
-        - 谄媚地；奉承地
-    - n.
-      - `obsequiousness`
-        - 谄媚；奉承
+    - adv. obsequiously 谄媚地；奉承地
+    - n. obsequiousness 谄媚；奉承
   - 近义词
-    - adj.
-      - 谄媚的；奉承的；顺从的
-        - `flattering`
-        - `well-oiled`
+    - adj. 谄媚的；奉承的；顺从的
+      - flattering
+      - well-oiled
   - 例句
-    - `an obsequious smile`
-      - 谄媚的微笑
-
+    - an obsequious smile 谄媚的微笑
+  - 补充

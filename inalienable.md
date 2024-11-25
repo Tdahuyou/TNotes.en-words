@@ -1,25 +1,18 @@
 - inalienable
   - 发音
-    - 英
-      - `/in'eiljənəbl/`
-    - 美
-      - `/ɪn'elɪənəbl/`
+    - 英 /in'eiljənəbl/
+    - 美 /ɪn'elɪənəbl/
   - 词义
-    - adj.
-      - 不能让与的，不可剥夺的
-        - `an inalienable right, power etc cannot be taken from you`
+    - adj. 不能让与的，不可剥夺的
+      - an inalienable right, power etc cannot be taken from you
   - 记忆
     - in (不) + alien (疏远) + able → 不可疏远的 → 不能让与的
   - 同根词
-    - adv.
-      - `inalienably`
-        - 不可分割地
+    - adv. inalienably 不可分割地
   - 近义词
-    - adj.
-      - 不可分割的；不可剥夺的；不能让与的
-        - `indissociable`
-        - `inseparable`
+    - adj. 不可分割的；不可剥夺的；不能让与的
+      - indissociable
+      - inseparable
   - 例句
-    - `inalienable human rights`
-      - 不可剥夺的人权
-
+    - inalienable human rights 不可剥夺的人权
+  - 补充

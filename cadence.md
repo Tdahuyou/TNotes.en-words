@@ -1,33 +1,21 @@
 - cadence
   - 发音
-    - 英
-      - `/'keidns/`
-    - 美
-      - `/ˈkeɪdns/`
+    - 英 /'keidns/
+    - 美 /ˈkeɪdns/
   - 词义
-    - n.
-      - 抑扬顿挫；节奏，韵律，调子
-        - `the way someone’s voice rises and falls, especially when reading out loud`
+    - n. 抑扬顿挫；节奏，韵律，调子
+      - the way someone’s voice rises and falls, especially when reading out loud
   - 记忆
     - cad (落下) + ence → 声音的落下和上升 → 抑扬顿挫
   - 同根词
-    - adj.
-      - `cadenced`
-        - 音调整齐的；有节奏的
-      - `cadent`
-        - 有节奏的；降落的
-    - n.
-      - `cadency`
-        - 终止式；下降调；韵律（等于cadence）；幼子之后裔
-    - v.
-      - `cadenced`
-        - 使有节奏（cadence的过去分词）
+    - adj. cadenced 音调整齐的；有节奏的
+    - adj. cadent 有节奏的；降落的
+    - n. cadency 终止式；下降调；韵律（等于cadence）；幼子之后裔
+    - v. cadenced 使有节奏（cadence的过去分词）
   - 近义词
-    - n.
-      - 节奏；韵律；抑扬顿挫
-        - `rhythm`
-        - `meter`
+    - n. 节奏；韵律；抑扬顿挫
+      - rhythm
+      - meter
   - 例句
-    - `the cadence of my mother’s voice`
-      - 我母亲语调的抑扬顿挫
-
+    - the cadence of my mother’s voice 我母亲语调的抑扬顿挫
+  - 补充

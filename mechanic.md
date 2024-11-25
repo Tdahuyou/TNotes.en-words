@@ -1,37 +1,25 @@
 - mechanic
   - 发音
-    - 英
-      - `/mə'kænɪk/`
-    - 美
-      - `/mə'kænɪk/`
+    - 英 /mə'kænɪk/
+    - 美 /mə'kænɪk/
   - 词义
-    - n.
-      - 技工，机修工
-        - `someone who is skilled at repairing motor vehicles and machinery`
+    - n. 技工，机修工
+      - someone who is skilled at repairing motor vehicles and machinery
   - 记忆
     - mechan(机械) + ic(表人， 名词后缀) → 机修工
   - 同根词
-    - adj.
-      - `mechanical`
-        - 机械的；力学的；呆板的；无意识的；手工操作的
-    - adv.
-      - `mechanically`
-        - 机械地；呆板地；物理上地
+    - adj. mechanical 机械的；力学的；呆板的；无意识的；手工操作的
+    - adv. mechanically 机械地；呆板地；物理上地
   - 近义词
-    - n.
-      - [劳经]技工，机修工
-        - `servicemen`
-        - `technical worker`
-    - adj.
-      - 手工的
-        - `manual`
-        - `handmade`
+    - n. [劳经]技工，机修工
+      - servicemen
+      - technical worker
+    - adj. 手工的
+      - manual
+      - handmade
   - 短语
-    - `mechanic design`
-      - 机械设计 
-    - `car mechanic`
-      - n. 汽车修理师 
+    - mechanic design 机械设计
+    - car mechanic n. 汽车修理师
   - 例句
-    - `a garage mechanic`
-      - 汽车修理厂的技工
-
+    - a garage mechanic 汽车修理厂的技工
+  - 补充

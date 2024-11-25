@@ -1,31 +1,21 @@
 - undertake
   - 发音
-    - 英
-      - `/ˌʌndər'teɪk/`
-    - 美
-      - `/,ʌndɚ'tek/`
+    - 英 /ˌʌndər'teɪk/
+    - 美 /,ʌndɚ'tek/
   - 词义
-    - v.
-      - 承担；进行，从事
-        - `When you undertake a task or job, you start doing it and accept responsibility for it`
+    - v. 承担；进行，从事
+      - When you undertake a task or job, you start doing it and accept responsibility for it
   - 同根词
-    - n.
-      - `undertaking`
-        - 事业；企业；保证；殡仪业
-      - `undertaker`
-        - 承担者；承办人；殡仪业者
-    - v.
-      - `undertaking`
-        - 同意；担任；许诺（undertake的ing形式）
+    - n. undertaking 事业；企业；保证；殡仪业
+    - n. undertaker 承担者；承办人；殡仪业者
+    - v. undertaking 同意；担任；许诺（undertake的ing形式）
   - 近义词
-    - vt.
-      - 承担，保证；从事；同意；试图
-        - `accept`
-        - `pursue`
-        - `address`
-        - `try`
-        - `offer`
+    - vt. 承担，保证；从事；同意；试图
+      - accept
+      - pursue
+      - address
+      - try
+      - offer
   - 例句
-    - `She undertook the task of monitoring the elections.`
-      - 她承担了监督选举的任务。
-
+    - She undertook the task of monitoring the elections. 她承担了监督选举的任务。
+  - 补充

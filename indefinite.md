@@ -1,39 +1,25 @@
 - indefinite
   - 发音
-    - 英
-      - `/ɪn'defɪnɪt/`
-    - 美
-      - `/ɪn'dɛfɪnət/`
+    - 英 /ɪn'defɪnɪt/
+    - 美 /ɪn'dɛfɪnət/
   - 词义
-    - adj.
-      - 不明确的，含糊的
-        - `not clear or exact`
+    - adj. 不明确的，含糊的
+      - not clear or exact
   - 同根词
-    - adj.
-      - `indefinable`
-        - 难下定义的；难确定的；模糊不清的
-    - adv.
-      - `indefinitely`
-        - 不确定地，无限期地；模糊地，不明确地
-    - n.
-      - `indefinable`
-        - 难下定义的事物；难以确切描述的事物
-      - `indefiniteness`
-        - 不确定；无定性
+    - adj. indefinable 难下定义的；难确定的；模糊不清的
+    - adv. indefinitely 不确定地，无限期地；模糊地，不明确地
+    - n. indefinable 难下定义的事物；难以确切描述的事物
+    - n. indefiniteness 不确定；无定性
   - 近义词
-    - adj.
-      - 不确定的；无限的；模糊的
-        - `fuzzy`
-        - `huge`
-        - `dark`
-        - `infinite`
-        - `unsure`
+    - adj. 不确定的；无限的；模糊的
+      - fuzzy
+      - huge
+      - dark
+      - infinite
+      - unsure
   - 短语
-    - `indefinite integral`
-      - 不定积分 
-    - `indefinite equation`
-      - 不定方程式 
+    - indefinite integral 不定积分
+    - indefinite equation 不定方程式
   - 例句
-    - `Teachers find the report’s terminology so indefinite that it is confusing.`
-      - 老师们发现报告的专门用语含义不明确，令人费解。
-
+    - Teachers find the report’s terminology so indefinite that it is confusing. 老师们发现报告的专门用语含义不明确，令人费解。
+  - 补充

@@ -1,27 +1,20 @@
 - pathetic
   - 发音
-    - 英
-      - `/pə'θetɪk/`
-    - 美
-      - `/pə'θɛtɪk/`
+    - 英 /pə'θetɪk/
+    - 美 /pə'θɛtɪk/
   - 词义
-    - adj.
-      - 可怜的，引起怜悯的，令人怜惜的
-        - `making you feel pity or sympathy`
+    - adj. 可怜的，引起怜悯的，令人怜惜的
+      - making you feel pity or sympathy
   - 记忆
     - path(感情) + etic → 让人产生感情的 → 可怜的， 令人怜惜的
   - 同根词
-    - adv.
-      - `pathetically`
-        - 可怜地；感伤地；悲哀地；情绪上地
+    - adv. pathetically 可怜地；感伤地；悲哀地；情绪上地
   - 近义词
-    - adj.
-      - 可怜的，悲哀的；感伤的；乏味的
-        - `poor`
-        - `sad`
-        - `melting`
-        - `stupid`
+    - adj. 可怜的，悲哀的；感伤的；乏味的
+      - poor
+      - sad
+      - melting
+      - stupid
   - 例句
-    - `The child looked a pathetic sight.`
-      - 那个孩子看上去很可怜。
-
+    - The child looked a pathetic sight. 那个孩子看上去很可怜。
+  - 补充

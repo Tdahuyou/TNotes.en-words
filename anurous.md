@@ -1,25 +1,17 @@
 - anurous
   - 发音
-    - 英
-      - `/undefined/`
-    - 美
-      - `/undefined/`
+    - 英 /undefined/
+    - 美 /undefined/
   - 词义
-    - adj.
-      - [动]无尾的
-        - `lacking a tail; tailless; acaudate `
+    - adj. [动]无尾的
+      - lacking a tail; tailless; acaudate 
   - 同根词
-    - adj.
-      - `anuran`
-        - 无尾类的
-    - n.
-      - `anura`
-        - 无尾目动物
-      - `anuran`
-        - 无尾目类动物
+    - adj. anuran 无尾类的
+    - n. anura 无尾目动物
+    - n. anuran 无尾目类动物
   - 近义词
-    - adj.
-      - （蛙等）[动]无尾的
-        - `anourous`
-        - `excaudate`
-        - `acaudal`
+    - adj. （蛙等）[动]无尾的
+      - anourous
+      - excaudate
+      - acaudal
+  - 补充

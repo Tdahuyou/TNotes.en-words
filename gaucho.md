@@ -1,10 +1,8 @@
 - gaucho
   - 发音
-    - 英
-      - `/'gaʊtʃəʊ; 'gɔː-/`
-    - 美
-      - `/'ɡaʊtʃo/`
+    - 英 /'gaʊtʃəʊ; 'gɔː-/
+    - 美 /'ɡaʊtʃo/
   - 词义
-    - n.
-      - 高卓人，牧人
-        - `a South American cowboy`
+    - n. 高卓人，牧人
+      - a South American cowboy
+  - 补充

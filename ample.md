@@ -1,34 +1,24 @@
 - ample
   - 发音
-    - 英
-      - `/'æmpl/`
-    - 美
-      - `/'æmpl/`
+    - 英 /'æmpl/
+    - 美 /'æmpl/
   - 词义
-    - adj.
-      - 富足的，充足的，丰富的；宽敞的
-        - `more than enough`
+    - adj. 富足的，充足的，丰富的；宽敞的
+      - more than enough
   - 记忆
     - 市场上苹果(apple)很充足(ample)
   - 同根词
-    - adv.
-      - `amply`
-        - 充足地；广大地
-    - n.
-      - `ampleness`
-        - 富裕；广大
+    - adv. amply 充足地；广大地
+    - n. ampleness 富裕；广大
   - 近义词
-    - adj.
-      - 丰富的；足够的；宽敞的
-        - `abundant`
-        - `sufficient`
-        - `competent`
-        - `full`
-        - `plenty`
+    - adj. 丰富的；足够的；宽敞的
+      - abundant
+      - sufficient
+      - competent
+      - full
+      - plenty
   - 短语
-    - `ample evidence`
-      - 充分证据 
+    - ample evidence 充分证据
   - 例句
-    - `an ample bosom`
-      - 丰满的胸部
-
+    - an ample bosom 丰满的胸部
+  - 补充

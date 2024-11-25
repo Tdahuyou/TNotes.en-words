@@ -1,58 +1,32 @@
 - lengthy
   - 发音
-    - 英
-      - `/'leŋθɪ; 'leŋkθɪ/`
-    - 美
-      - `/'lɛŋθi/`
+    - 英 /'leŋθɪ; 'leŋkθɪ/
+    - 美 /'lɛŋθi/
   - 词义
-    - adj.
-      - 冗长的
-        - `continuing for a long time, often too long`
+    - adj. 冗长的
+      - continuing for a long time, often too long
   - 同根词
-    - adj.
-      - `long`
-        - 长的；过长的；做多头的
-      - `lengthwise`
-        - 纵长的
-      - `longish`
-        - 稍长的；略长的
-    - adv.
-      - `long`
-        - 长期地；始终
-      - `lengthwise`
-        - 纵长地
-      - `lengthily`
-        - 冗长地；长地
-      - `longwise`
-        - 纵长地
-    - n.
-      - `length`
-        - 长度，长；时间的长短；（语）音长
-      - `long`
-        - 长时间；[语] 长音节
-      - `lengthiness`
-        - 冗长
-      - `longness`
-        - 长度
-    - vi.
-      - `long`
-        - 渴望；热望
-      - `lengthen`
-        - 延长；变长
-    - vt.
-      - `lengthen`
-        - 使延长；加长
+    - adj. long 长的；过长的；做多头的
+    - adj. lengthwise 纵长的
+    - adj. longish 稍长的；略长的
+    - adv. long 长期地；始终
+    - adv. lengthwise 纵长地
+    - adv. lengthily 冗长地；长地
+    - adv. longwise 纵长地
+    - n. length 长度，长；时间的长短；（语）音长
+    - n. long 长时间；[语] 长音节
+    - n. lengthiness 冗长
+    - n. longness 长度
+    - vi. long 渴望；热望
+    - vi. lengthen 延长；变长
+    - vt. lengthen 使延长；加长
   - 近义词
-    - adj.
-      - 漫长的，冗长的；啰唆的
-        - `farflung`
-        - `redundant`
+    - adj. 漫长的，冗长的；啰唆的
+      - farflung
+      - redundant
   - 短语
-    - `lengthy process`
-      - 很长的过程 
+    - lengthy process 很长的过程
   - 例句
-    - `A lengthy period of training is required.`
-      - 需要很长一段时间的培训。
-    - `An accident is causing some lengthy delays.`
-      - 一起事故造成长时间的延误。
-
+    - A lengthy period of training is required. 需要很长一段时间的培训。
+    - An accident is causing some lengthy delays. 一起事故造成长时间的延误。
+  - 补充

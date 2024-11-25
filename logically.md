@@ -1,26 +1,15 @@
 - logically
   - 发音
-    - 英
-      - `/'lɔdʒikli/`
-    - 美
-      - `/'lɑdʒɪkli/`
+    - 英 /'lɔdʒikli/
+    - 美 /'lɑdʒɪkli/
   - 词义
-    - adv.
-      - 符合逻辑地,逻辑上地
+    - adv. 符合逻辑地,逻辑上地
   - 同根词
-    - adj.
-      - `logic`
-        - 逻辑的
-      - `logistic`
-        - 后勤学的；[数] 符号逻辑的
-      - `logical`
-        - 合逻辑的，合理的；逻辑学的
-    - n.
-      - `logic`
-        - 逻辑；逻辑学；逻辑性
-      - `logician`
-        - 逻辑学家；论理学者
-      - `logicality`
-        - 逻辑性；合论理性；论法的正确
-      - `logicism`
-        - 逻辑主义；逻辑皱
+    - adj. logic 逻辑的
+    - adj. logistic 后勤学的；[数] 符号逻辑的
+    - adj. logical 合逻辑的，合理的；逻辑学的
+    - n. logic 逻辑；逻辑学；逻辑性
+    - n. logician 逻辑学家；论理学者
+    - n. logicality 逻辑性；合论理性；论法的正确
+    - n. logicism 逻辑主义；逻辑皱
+  - 补充

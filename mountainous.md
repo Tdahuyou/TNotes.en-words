@@ -1,31 +1,22 @@
 - mountainous
   - 发音
-    - 英
-      - `/'mauntənəs/`
-    - 美
-      - `/'maʊntənəs/`
+    - 英 /'mauntənəs/
+    - 美 /'maʊntənəs/
   - 词义
-    - adj.
-      - 多山的；巨大的
-        - `a mountainous area has a lot of mountains`
+    - adj. 多山的；巨大的
+      - a mountainous area has a lot of mountains
   - 同根词
-    - n.
-      - `mountain`
-        - 山；山脉
+    - n. mountain 山；山脉
   - 近义词
-    - adj.
-      - 多山的；巨大的；山一般的
-        - `huge`
-        - `tremendous`
-        - `enormous`
-        - `massive`
-        - `macro`
+    - adj. 多山的；巨大的；山一般的
+      - huge
+      - tremendous
+      - enormous
+      - massive
+      - macro
   - 短语
-    - `mountainous terrain`
-      - 山岭区 
+    - mountainous terrain 山岭区
   - 例句
-    - `the mountainous coast of Wales`
-      - 威尔士多山的海岸
-    - `a mountainous region`
-      - 多山地区
-
+    - the mountainous coast of Wales 威尔士多山的海岸
+    - a mountainous region 多山地区
+  - 补充

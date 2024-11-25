@@ -1,58 +1,32 @@
 - convergence
   - 发音
-    - 英
-      - `/kən'vɜːdʒəns/`
-    - 美
-      - `/kən'vɝdʒəns/`
+    - 英 /kən'vɜːdʒəns/
+    - 美 /kən'vɝdʒəns/
   - 词义
-    - n.
-      - 集中,收敛
+    - n. 集中,收敛
   - 同根词
-    - adj.
-      - `convergent`
-        - [数] 收敛的；会聚性的；趋集于一点的
-      - `converging`
-        - 会聚的，收敛
-    - n.
-      - `converging`
-        - 合并，会聚
-    - v.
-      - `converging`
-        - 聚合，集中于一点（converge的ing形式）
-    - vi.
-      - `converge`
-        - 聚合；集中于一点
-    - vt.
-      - `converge`
-        - 会聚；使聚集；使向一点会合
+    - adj. convergent [数] 收敛的；会聚性的；趋集于一点的
+    - adj. converging 会聚的，收敛
+    - n. converging 合并，会聚
+    - v. converging 聚合，集中于一点（converge的ing形式）
+    - vi. converge 聚合；集中于一点
+    - vt. converge 会聚；使聚集；使向一点会合
   - 近义词
-    - n.
-      - [数]收敛；[生物][电子][光]会聚，集合
-        - `assembly`
-        - `concentration`
-        - `set`
+    - n. [数]收敛；[生物][电子][光]会聚，集合
+      - assembly
+      - concentration
+      - set
   - 短语
-    - `rate of convergence`
-      - 收敛速度，收敛速率 
-    - `uniform convergence`
-      - 一致收敛；均匀收敛 
-    - `algorithm convergence`
-      - 算法收敛；演算法收敛性 
-    - `digital convergence`
-      - 数字融合 
-    - `quadratic convergence`
-      - [计]二次收敛 
-    - `convergence zone`
-      - [声]会聚区；辐合区；收敛地区 
-    - `convergence criterion`
-      - 收敛性判定准则；收敛性判据 
-    - `convergence criteria`
-      - 收敛性判别准则 
-    - `conditional convergence`
-      - 条件收敛 
-    - `absolute convergence`
-      - 绝对收敛；[数学]绝对收敛性 
+    - rate of convergence 收敛速度，收敛速率
+    - uniform convergence 一致收敛；均匀收敛
+    - algorithm convergence 算法收敛；演算法收敛性
+    - digital convergence 数字融合
+    - quadratic convergence [计]二次收敛
+    - convergence zone [声]会聚区；辐合区；收敛地区
+    - convergence criterion 收敛性判定准则；收敛性判据
+    - convergence criteria 收敛性判别准则
+    - conditional convergence 条件收敛
+    - absolute convergence 绝对收敛；[数学]绝对收敛性
   - 例句
-    - `With convergence to an ideal state, you can expect the system to be in or near that ideal state.`
-      - 通过收敛到一种理想状态，您可以期望系统处于或接近那一理想状态。
-
+    - With convergence to an ideal state, you can expect the system to be in or near that ideal state. 通过收敛到一种理想状态，您可以期望系统处于或接近那一理想状态。
+  - 补充

@@ -1,29 +1,19 @@
 - flora
   - 发音
-    - 英
-      - `/'flɔːrə/`
-    - 美
-      - `/undefined/`
+    - 英 /'flɔːrə/
+    - 美 /undefined/
   - 词义
-    - n.
-      - 植物群
-        - `all the plants that grow in a particular place or country`
+    - n. 植物群
+      - all the plants that grow in a particular place or country
   - 记忆
     - 来自Flora(弗洛拉， 希腊神话中的花神)
   - 同根词
-    - adj.
-      - `floral`
-        - 花的；植物的，植物群的；花似的
+    - adj. floral 花的；植物的，植物群的；花似的
   - 短语
-    - `flora and fauna`
-      - 动植物；动植物群 
-    - `intestinal flora`
-      - 肠菌类 
-    - `microbial flora`
-      - 微生物菌丛 
-    - `normal flora`
-      - 正常菌丛；正常微生物区系 
+    - flora and fauna 动植物；动植物群
+    - intestinal flora 肠菌类
+    - microbial flora 微生物菌丛
+    - normal flora 正常菌丛；正常微生物区系
   - 例句
-    - `Tourism is damaging the flora and fauna (= plants and animals ) of the island.`
-      - 旅游业正在破坏该岛的动植物资源。
-
+    - Tourism is damaging the flora and fauna (= plants and animals ) of the island. 旅游业正在破坏该岛的动植物资源。
+  - 补充

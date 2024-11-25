@@ -1,14 +1,11 @@
 - shyster
   - 发音
-    - 英
-      - `/'ʃaɪstə/`
-    - 美
-      - `/'ʃaistə/`
+    - 英 /'ʃaɪstə/
+    - 美 /'ʃaistə/
   - 词义
-    - n.
-      - 讼棍,奸诈之徒(尤指政客)
+    - n. 讼棍,奸诈之徒(尤指政客)
   - 近义词
-    - n.
-      - 讼棍；奸诈之徒（尤指政客）；不择手段的律师
-        - `pettifogger`
-        - `Philadelphia lawyer`
+    - n. 讼棍；奸诈之徒（尤指政客）；不择手段的律师
+      - pettifogger
+      - Philadelphia lawyer
+  - 补充

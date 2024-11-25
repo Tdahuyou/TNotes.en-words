@@ -1,41 +1,24 @@
 - chronological
   - 发音
-    - 英
-      - `/ˌkrɑːnə'lɑːdʒɪkl/`
-    - 美
-      - `/,krɑnə'lɑdʒɪkl/`
+    - 英 /ˌkrɑːnə'lɑːdʒɪkl/
+    - 美 /,krɑnə'lɑdʒɪkl/
   - 词义
-    - adj.
-      - 按年代顺序排列的，年代学的
-        - `arranged according to when things happened or were made`
+    - adj. 按年代顺序排列的，年代学的
+      - arranged according to when things happened or were made
   - 记忆
     - chron(时间) + olog(y)(…学) + ical → 按年代顺序排列的， 年代学的
   - 同根词
-    - adv.
-      - `chronologically`
-        - 按年代地
-    - n.
-      - `chronicle`
-        - 编年史，年代记；记录
-      - `chronology`
-        - 年表；年代学
-      - `chronicler`
-        - 记录者；年代史编者
-      - `chronoscope`
-        - 极微时间测定器
-    - vt.
-      - `chronicle`
-        - 记录；把…载入编年史
-      - `chronologize`
-        - [统计] 按年代排列；作年表
+    - adv. chronologically 按年代地
+    - n. chronicle 编年史，年代记；记录
+    - n. chronology 年表；年代学
+    - n. chronicler 记录者；年代史编者
+    - n. chronoscope 极微时间测定器
+    - vt. chronicle 记录；把…载入编年史
+    - vt. chronologize [统计] 按年代排列；作年表
   - 短语
-    - `chronological order`
-      - 年月日次序；（事情发生或发展的）时间次序 
-    - `chronological age`
-      - n. [心]实足年龄（用途测定智商的数据）；实龄 
-    - `chronological record`
-      - 序时记录 
+    - chronological order 年月日次序；（事情发生或发展的）时间次序
+    - chronological age n. [心]实足年龄（用途测定智商的数据）；实龄
+    - chronological record 序时记录
   - 例句
-    - `We arranged the documents in chronological order .`
-      - 我们把这些文件按时序排列。
-
+    - We arranged the documents in chronological order . 我们把这些文件按时序排列。
+  - 补充

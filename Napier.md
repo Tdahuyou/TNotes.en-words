@@ -1,7 +1,6 @@
 - Napier
   - 发音
-    - 英
-      - `/'neipiə/`
-    - 美
-      - `/undefined/`
+    - 英 /'neipiə/
+    - 美 /undefined/
   - 词义
+  - 补充

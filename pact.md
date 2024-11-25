@@ -1,27 +1,20 @@
 - pact
   - 发音
-    - 英
-      - `/pækt/`
-    - 美
-      - `/pækt/`
+    - 英 /pækt/
+    - 美 /pækt/
   - 词义
-    - n.
-      - 协议，条约，公约
-        - `a formal agreement between two groups, countries, or people, especially to help each other or to stop fighting`
+    - n. 协议，条约，公约
+      - a formal agreement between two groups, countries, or people, especially to help each other or to stop fighting
   - 记忆
     - p + act(行为) → 签订契约来约束行为 → 契约
   - 近义词
-    - n.
-      - 协定；公约；条约；契约
-        - `convention`
-        - `treaty`
-        - `compact`
+    - n. 协定；公约；条约；契约
+      - convention
+      - treaty
+      - compact
   - 短语
-    - `trade pact`
-      - 贸易协定 
-    - `warsaw pact`
-      - 华沙公约 
+    - trade pact 贸易协定
+    - warsaw pact 华沙公约
   - 例句
-    - `the Warsaw pact`
-      - 华沙条约
-
+    - the Warsaw pact 华沙条约
+  - 补充

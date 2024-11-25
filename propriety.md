@@ -1,19 +1,15 @@
 - propriety
   - 发音
-    - 英
-      - `/prə'praɪətɪ/`
-    - 美
-      - `/prə'praɪəti/`
+    - 英 /prə'praɪətɪ/
+    - 美 /prə'praɪəti/
   - 词义
-    - n.
-      - 适当
-        - `correctness of social or moral behaviour`
+    - n. 适当
+      - correctness of social or moral behaviour
   - 近义词
-    - n.
-      - 适当；礼节；得体
-        - `fitness`
-        - `ceremony`
-        - `relevance`
+    - n. 适当；礼节；得体
+      - fitness
+      - ceremony
+      - relevance
   - 短语
-    - `with propriety`
-      - 按照礼节；正当，适当 
+    - with propriety 按照礼节；正当，适当
+  - 补充

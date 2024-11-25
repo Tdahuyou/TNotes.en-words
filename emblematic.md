@@ -1,31 +1,20 @@
 - emblematic
   - 发音
-    - 英
-      - `/ˌemblə'mætɪk/`
-    - 美
-      - `/,ɛmblə'mætɪk/`
+    - 英 /ˌemblə'mætɪk/
+    - 美 /,ɛmblə'mætɪk/
   - 词义
-    - adj.
-      - 作为象征的
-        - `seeming to represent or be a sign of something`
+    - adj. 作为象征的
+      - seeming to represent or be a sign of something
   - 记忆
     - 来自emblem(n. 象征)
   - 同根词
-    - adj.
-      - `emblematical`
-        - 象征的；典型的
-    - n.
-      - `emblem`
-        - 象征；徽章；符号
-    - vt.
-      - `emblem`
-        - 象征；用符号表示；用纹章装饰
+    - adj. emblematical 象征的；典型的
+    - n. emblem 象征；徽章；符号
+    - vt. emblem 象征；用符号表示；用纹章装饰
   - 近义词
-    - adj.
-      - 象征的；可当标志的
-        - `symbolic`
-        - `indicative`
+    - adj. 象征的；可当标志的
+      - symbolic
+      - indicative
   - 例句
-    - `Dogs are emblematic of faithfulness.`
-      - 狗象征着忠诚。
-
+    - Dogs are emblematic of faithfulness. 狗象征着忠诚。
+  - 补充

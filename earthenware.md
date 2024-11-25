@@ -1,19 +1,14 @@
 - earthenware
   - 发音
-    - 英
-      - `/'ɜːθ(ə)nweə/`
-    - 美
-      - `/'ɝθnwɛr/`
+    - 英 /'ɜːθ(ə)nweə/
+    - 美 /'ɝθnwɛr/
   - 词义
-    - n.
-      - 土器,陶器
-        - `Earthenware objects are referred to as earthenware`
+    - n. 土器,陶器
+      - Earthenware objects are referred to as earthenware
   - 近义词
-    - n.
-      - [陶瓷]陶器；土器
-        - `crockery`
-        - `pottery ware`
+    - n. [陶瓷]陶器；土器
+      - crockery
+      - pottery ware
   - 例句
-    - `...colourful Italian china and earthenware.`
-      - ...五颜六色的意大利瓷器和陶器。
-
+    - ...colourful Italian china and earthenware. ...五颜六色的意大利瓷器和陶器。
+  - 补充

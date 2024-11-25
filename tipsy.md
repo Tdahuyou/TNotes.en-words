@@ -1,23 +1,16 @@
 - tipsy
   - 发音
-    - 英
-      - `/'tipsi/`
-    - 美
-      - `/'tɪpsi/`
+    - 英 /'tipsi/
+    - 美 /'tɪpsi/
   - 词义
-    - adj.
-      - 喝醉的
-        - `slightly drunk`
+    - adj. 喝醉的
+      - slightly drunk
   - 同根词
-    - n.
-      - `tipsiness`
-        - 倾斜；喝酒
+    - n. tipsiness 倾斜；喝酒
   - 近义词
-    - adj.
-      - 喝醉的；歪曲的；不稳的
-        - `preserved`
-        - `drunken`
+    - adj. 喝醉的；歪曲的；不稳的
+      - preserved
+      - drunken
   - 例句
-    - `I'm feeling a little tipsy.`
-      - 我觉得有点微醉了。
-
+    - I'm feeling a little tipsy. 我觉得有点微醉了。
+  - 补充

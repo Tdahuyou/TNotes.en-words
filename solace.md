@@ -1,22 +1,17 @@
 - solace
   - 发音
-    - 英
-      - `/'sɔləs/`
-    - 美
-      - `/'sɔləs, -lis/`
+    - 英 /'sɔləs/
+    - 美 /'sɔləs, -lis/
   - 词义
-    - v.
-      - 安慰；平息；抚慰
+    - v. 安慰；平息；抚慰
   - 记忆
     - sol (独特的) + ace → 用独特的方法才能安慰她 → 安慰
   - 近义词
-    - n.
-      - 安慰；慰藉；安慰之物
-        - `comfort`
-        - `relief`
-        - `consolation`
+    - n. 安慰；慰藉；安慰之物
+      - comfort
+      - relief
+      - consolation
   - 短语
-    - `quantum of solace`
-      - 量子危机（电影名称） 
-    - `solace oneself with something`
-      - 用某物(或某事)安慰自己 
+    - quantum of solace 量子危机（电影名称）
+    - solace oneself with something 用某物(或某事)安慰自己
+  - 补充

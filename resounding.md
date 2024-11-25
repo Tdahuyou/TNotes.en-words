@@ -1,35 +1,22 @@
 - resounding
   - 发音
-    - 英
-      - `/rɪ'zaʊndɪŋ/`
-    - 美
-      - `/rɪ'saʊndɪŋ/`
+    - 英 /rɪ'zaʊndɪŋ/
+    - 美 /rɪ'saʊndɪŋ/
   - 词义
-    - adj.
-      - 响亮的；轰动的；彻底的
-        - `a resounding noise is so loud that it seems to continue for a few seconds`
-    - v.
-      - 回响（resound的ing形式）
+    - adj. 响亮的；轰动的；彻底的
+      - a resounding noise is so loud that it seems to continue for a few seconds
+    - v. 回响（resound的ing形式）
   - 同根词
-    - adv.
-      - `resoundingly`
-        - 成功地；轰动地
-    - vi.
-      - `resound`
-        - 回响；鸣响；被传颂
-    - vt.
-      - `resound`
-        - 回响；传颂；大声讲
+    - adv. resoundingly 成功地；轰动地
+    - vi. resound 回响；鸣响；被传颂
+    - vt. resound 回响；传颂；大声讲
   - 近义词
-    - adj.
-      - 响亮的；轰动的；彻底的
-        - `thorough`
-        - `complete`
-        - `radical`
-    - v.
-      - 回响（resound的ing形式）
-        - `echoing`
+    - adj. 响亮的；轰动的；彻底的
+      - thorough
+      - complete
+      - radical
+    - v. 回响（resound的ing形式）
+      - echoing
   - 例句
-    - `a resounding thud`
-      - 砰的一声巨响
-
+    - a resounding thud 砰的一声巨响
+  - 补充

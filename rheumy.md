@@ -1,23 +1,15 @@
 - rheumy
   - 发音
-    - 英
-      - `/undefined/`
-    - 美
-      - `/undefined/`
+    - 英 /undefined/
+    - 美 /undefined/
   - 词义
-    - adj.
-      - 稀粘液的,潮湿的
+    - adj. 稀粘液的,潮湿的
   - 同根词
-    - adj.
-      - `rheumatic`
-        - 风湿病的；风湿病引起的
-    - n.
-      - `rheumatic`
-        - 风湿病；风湿病患者
-      - `rheum`
-        - 感冒，鼻粘膜炎；发炎性分泌物
+    - adj. rheumatic 风湿病的；风湿病引起的
+    - n. rheumatic 风湿病；风湿病患者
+    - n. rheum 感冒，鼻粘膜炎；发炎性分泌物
   - 近义词
-    - adj.
-      - 阴冷的；稀粘液的；潮湿阴冷的；易引起感冒的
-        - `raw`
-        - `bleak`
+    - adj. 阴冷的；稀粘液的；潮湿阴冷的；易引起感冒的
+      - raw
+      - bleak
+  - 补充

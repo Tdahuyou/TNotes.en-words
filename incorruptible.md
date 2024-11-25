@@ -1,32 +1,21 @@
 - incorruptible
   - 发音
-    - 英
-      - `/ˌɪnkə'rʌptəbl/`
-    - 美
-      - `/,ɪnkə'rʌptəbl/`
+    - 英 /ˌɪnkə'rʌptəbl/
+    - 美 /,ɪnkə'rʌptəbl/
   - 词义
-    - adj.
-      - 廉洁的，不腐败的
-        - `someone who is incorruptible cannot be persuaded to do wrong or illegal things`
+    - adj. 廉洁的，不腐败的
+      - someone who is incorruptible cannot be persuaded to do wrong or illegal things
   - 记忆
     - in(不) + corrupt(变腐败) + ible → 不会腐败的 → 廉洁的
   - 同根词
-    - adj.
-      - `incorrupt`
-        - 纯洁的；不腐败的；无差错的；不被收买的
-    - n.
-      - `incorruptibility`
-        - 清廉；不腐败；不能收买
-      - `incorruption`
-        - 清廉洁白
-      - `incorruptness`
-        - 清廉；廉正
+    - adj. incorrupt 纯洁的；不腐败的；无差错的；不被收买的
+    - n. incorruptibility 清廉；不腐败；不能收买
+    - n. incorruption 清廉洁白
+    - n. incorruptness 清廉；廉正
   - 近义词
-    - adj.
-      - 清廉的；不能收买的；不腐败的
-        - `cleanhanded`
-        - `uncorrupt`
+    - adj. 清廉的；不能收买的；不腐败的
+      - cleanhanded
+      - uncorrupt
   - 例句
-    - `A good judge must be incorruptible.`
-      - 好法官必须廉洁。
-
+    - A good judge must be incorruptible. 好法官必须廉洁。
+  - 补充

@@ -1,22 +1,16 @@
 - handmade
   - 发音
-    - 英
-      - `/hæn(d)'meɪd/`
-    - 美
-      - `/'hænd'med/`
+    - 英 /hæn(d)'meɪd/
+    - 美 /'hænd'med/
   - 词义
-    - adj.
-      - 手工的
-        - `made by people using their hands, not by a machine`
+    - adj. 手工的
+      - made by people using their hands, not by a machine
   - 近义词
-    - adj.
-      - 手工的；手制的
-        - `manual`
-        - `mechanic`
+    - adj. 手工的；手制的
+      - manual
+      - mechanic
   - 短语
-    - `handmade paper`
-      - 手工纸；手抄纸 
+    - handmade paper 手工纸；手抄纸
   - 例句
-    - `a pair of expensive handmade shoes`
-      - 一双昂贵的手工制作的鞋子
-
+    - a pair of expensive handmade shoes 一双昂贵的手工制作的鞋子
+  - 补充

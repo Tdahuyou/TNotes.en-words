@@ -1,25 +1,18 @@
 - assuage
   - 发音
-    - 英
-      - `/ə'sweidʒ/`
-    - 美
-      - `/ə'swedʒ/`
+    - 英 /ə'sweidʒ/
+    - 美 /ə'swedʒ/
   - 词义
-    - vt.
-      - 缓和，减轻；镇定
-        - `to make an unpleasant feeling less painful or severe`
+    - vt. 缓和，减轻；镇定
+      - to make an unpleasant feeling less painful or severe
   - 记忆
     - ass (驴子) + u + age (年龄) → 驴子上了年纪， 应该减轻负担 → 减轻
   - 同根词
-    - n.
-      - `assuagement`
-        - 缓和；镇静
+    - n. assuagement 缓和；镇静
   - 近义词
-    - vt.
-      - 平息；缓和；减轻
-        - `relax`
-        - `moderate`
+    - vt. 平息；缓和；减轻
+      - relax
+      - moderate
   - 例句
-    - `Nothing could assuage his guilt.`
-      - 什么都不能减轻他的内疚。
-
+    - Nothing could assuage his guilt. 什么都不能减轻他的内疚。
+  - 补充

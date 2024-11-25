@@ -1,20 +1,16 @@
 - eke
   - 发音
-    - 英
-      - `/iːk/`
-    - 美
-      - `/ik/`
+    - 英 /iːk/
+    - 美 /ik/
   - 词义
-    - v.
-      - 补充,增加
+    - v. 补充,增加
   - 近义词
-    - vt.
-      - 补充；增加；放长
-        - `enhance`
-        - `boost`
-        - `jack`
-        - `mount`
-        - `gain`
+    - vt. 补充；增加；放长
+      - enhance
+      - boost
+      - jack
+      - mount
+      - gain
   - 短语
-    - `eke out`
-      - v. 竭力维持；弥补…的不足 
+    - eke out v. 竭力维持；弥补…的不足
+  - 补充

@@ -1,24 +1,15 @@
 - facilitation
   - 发音
-    - 英
-      - `/fəsɪlɪ'teɪʃn/`
-    - 美
-      - `/fə,sɪlə'teʃən/`
+    - 英 /fəsɪlɪ'teɪʃn/
+    - 美 /fə,sɪlə'teʃən/
   - 词义
-    - n.
-      - 简易化,助长
+    - n. 简易化,助长
   - 同根词
-    - adj.
-      - `facilitative`
-        - 使便利的
-    - n.
-      - `facility`
-        - 设施；设备；容易；灵巧
-    - vt.
-      - `facilitate`
-        - 促进；帮助；使容易
+    - adj. facilitative 使便利的
+    - n. facility 设施；设备；容易；灵巧
+    - vt. facilitate 促进；帮助；使容易
   - 近义词
-    - n.
-      - [生理]简易化；助长；容易
-        - `easiness`
-        - `liable to`
+    - n. [生理]简易化；助长；容易
+      - easiness
+      - liable to
+  - 补充

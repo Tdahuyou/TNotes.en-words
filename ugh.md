@@ -1,19 +1,14 @@
 - ugh
   - 发音
-    - 英
-      - `/ɜ:/`
-    - 美
-      - `/ɜ/`
+    - 英 /ɜ:/
+    - 美 /ɜ/
   - 词义
-    - int.
-      - 啊，哎呀
-        - `the sound that people make when something is extremely unpleasant`
+    - int. 啊，哎呀
+      - the sound that people make when something is extremely unpleasant
   - 近义词
-    - int.
-      - 啊；呸
-        - `ah`
-        - `eh`
+    - int. 啊；呸
+      - ah
+      - eh
   - 例句
-    - `Ugh! That’s disgusting!`
-      - 呀！那真恶心！
-
+    - Ugh! That’s disgusting! 呀！那真恶心！
+  - 补充

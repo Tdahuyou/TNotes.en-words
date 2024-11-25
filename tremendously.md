@@ -1,19 +1,14 @@
 - tremendously
   - 发音
-    - 英
-      - `/tri'mendəsli/`
-    - 美
-      - `/trɪ'mɛndəsli/`
+    - 英 /tri'mendəsli/
+    - 美 /trɪ'mɛndəsli/
   - 词义
-    - adv.
-      - 非常地,可怕地,惊人地
+    - adv. 非常地,可怕地,惊人地
   - 同根词
-    - adj.
-      - `tremendous`
-        - 极大的，巨大的；惊人的
+    - adj. tremendous 极大的，巨大的；惊人的
   - 近义词
-    - adv.
-      - 非常地；可怕地；惊人地
-        - `considerably`
-        - `remarkably`
-        - `finely`
+    - adv. 非常地；可怕地；惊人地
+      - considerably
+      - remarkably
+      - finely
+  - 补充

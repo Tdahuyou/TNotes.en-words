@@ -1,19 +1,14 @@
 - upwind
   - 发音
-    - 英
-      - `/ʌp'wɪnd/`
-    - 美
-      - `/,ʌp'wɪnd/`
+    - 英 /ʌp'wɪnd/
+    - 美 /,ʌp'wɪnd/
   - 词义
-    - adj.
-      - 逆风的ad逆风地
-        - `Upwind is also an adjective`
+    - adj. 逆风的ad逆风地
+      - Upwind is also an adjective
   - 近义词
-    - n.
-      - 逆风
-        - `contrary wind`
-        - `against the wind`
+    - n. 逆风
+      - contrary wind
+      - against the wind
   - 例句
-    - `...big trees at the forest's upwind edge.`
-      - ...森林顶风一侧的大树。
-
+    - ...big trees at the forest's upwind edge. ...森林顶风一侧的大树。
+  - 补充

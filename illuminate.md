@@ -1,40 +1,27 @@
 - illuminate
   - 发音
-    - 英
-      - `/ɪ'lʊːmɪneɪt/`
-    - 美
-      - `/ɪ'lumɪnet/`
+    - 英 /ɪ'lʊːmɪneɪt/
+    - 美 /ɪ'lumɪnet/
   - 词义
-    - vt.
-      - 照亮；启发，启迪；阐明，说明
-        - `to make a light shine on something, or to fill a place with light`
+    - vt. 照亮；启发，启迪；阐明，说明
+      - to make a light shine on something, or to fill a place with light
   - 记忆
     - il(向内) + lumin(光) + ate → 向内投入光 → 照亮； 启发
   - 同根词
-    - adj.
-      - `illuminated`
-        - 被照明的
-      - `illuminating`
-        - 照亮的，照明的；启蒙的，有启发性的
-    - v.
-      - `illuminated`
-        - 照明；启发；兴奋（illuminate的过去分词）
-      - `illuminating`
-        - 照明，阐释（illuminate的现在分词形式）
+    - adj. illuminated 被照明的
+    - adj. illuminating 照亮的，照明的；启蒙的，有启发性的
+    - v. illuminated 照明；启发；兴奋（illuminate的过去分词）
+    - v. illuminating 照明，阐释（illuminate的现在分词形式）
   - 近义词
-    - vt.
-      - 阐明，说明；照亮；使灿烂；用灯装饰
-        - `say`
-        - `lamp`
-        - `elucidate`
-        - `clarify`
-    - vi.
-      - 照亮
-        - `light up`
-        - `to shine`
+    - vt. 阐明，说明；照亮；使灿烂；用灯装饰
+      - say
+      - lamp
+      - elucidate
+      - clarify
+    - vi. 照亮
+      - light up
+      - to shine
   - 例句
-    - `A single candle illuminated his face.`
-      - 一支蜡烛照亮了他的脸。
-    - `At night the canals are beautifully illuminated.`
-      - 晚上运河灯火辉煌，美景毕现。
-
+    - A single candle illuminated his face. 一支蜡烛照亮了他的脸。
+    - At night the canals are beautifully illuminated. 晚上运河灯火辉煌，美景毕现。
+  - 补充

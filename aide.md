@@ -1,26 +1,19 @@
 - aide
   - 发音
-    - 英
-      - `/eɪd/`
-    - 美
-      - `/ed/`
+    - 英 /eɪd/
+    - 美 /ed/
   - 词义
-    - n.
-      - 助手,副官
-        - `someone whose job is to help someone who has an important job, especially a politician`
+    - n. 助手,副官
+      - someone whose job is to help someone who has an important job, especially a politician
   - 同根词
-    - n.
-      - `aidance`
-        - 协助，帮助
+    - n. aidance 协助，帮助
   - 近义词
-    - n.
-      - 助手；副官；侍从武官
-        - `friend`
-        - `assistant`
-        - `aid`
-        - `mate`
-        - `helper`
+    - n. 助手；副官；侍从武官
+      - friend
+      - assistant
+      - aid
+      - mate
+      - helper
   - 例句
-    - `a presidential aide`
-      - 一位总统助理
-
+    - a presidential aide 一位总统助理
+  - 补充

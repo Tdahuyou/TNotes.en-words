@@ -1,23 +1,16 @@
 - frivolity
   - 发音
-    - 英
-      - `/frɪ'vɑːləti/`
-    - 美
-      - `/fri'vəliti/`
+    - 英 /frɪ'vɑːləti/
+    - 美 /fri'vəliti/
   - 词义
-    - n.
-      - 轻浮；愚蠢的行为
-        - `behaviour or activities that are not serious or sensible, especially when you should be serious or sensible`
+    - n. 轻浮；愚蠢的行为
+      - behaviour or activities that are not serious or sensible, especially when you should be serious or sensible
   - 同根词
-    - adv.
-      - `frivolously`
-        - 轻浮地；愚昧地
+    - adv. frivolously 轻浮地；愚昧地
   - 近义词
-    - n.
-      - 轻浮；轻薄；轻率
-        - `levity`
-        - `triviality`
+    - n. 轻浮；轻薄；轻率
+      - levity
+      - triviality
   - 例句
-    - `I don’t think such frivolity helps the organization’s public image.`
-      - 我认为这种愚蠢的行为无益于这个组织的公众形象。
-
+    - I don’t think such frivolity helps the organization’s public image. 我认为这种愚蠢的行为无益于这个组织的公众形象。
+  - 补充

@@ -1,52 +1,32 @@
 - temperate
   - 发音
-    - 英
-      - `/'tempərət/`
-    - 美
-      - `/'tɛmpərət/`
+    - 英 /'tempərət/
+    - 美 /'tɛmpərət/
   - 词义
-    - adj.
-      - 气候温和的，温带的；温和的，自我克制的
-        - `behaviour that is temperate is calm and sensible`
+    - adj. 气候温和的，温带的；温和的，自我克制的
+      - behaviour that is temperate is calm and sensible
   - 记忆
     - temper(节制) + ate → 有节制的 → 温和的
   - 同根词
-    - adj.
-      - `tempered`
-        - 缓和的，温和的；调节的；有…气质的
-      - `temperance`
-        - 温暖的；有节制的
-    - adv.
-      - `temperately`
-        - 适度地；有节制地
-    - n.
-      - `temperature`
-        - 温度
-      - `temperance`
-        - 戒酒；节欲；（气候等的）温和
-      - `temperateness`
-        - 节制，适度；温和
-    - v.
-      - `tempered`
-        - 调和（temper的过去分词）
+    - adj. tempered 缓和的，温和的；调节的；有…气质的
+    - adj. temperance 温暖的；有节制的
+    - adv. temperately 适度地；有节制地
+    - n. temperature 温度
+    - n. temperance 戒酒；节欲；（气候等的）温和
+    - n. temperateness 节制，适度；温和
+    - v. tempered 调和（temper的过去分词）
   - 近义词
-    - adj.
-      - 温和的；适度的；有节制的
-        - `pacific`
-        - `moderate`
-        - `gentle`
-        - `soft`
-        - `mild`
+    - adj. 温和的；适度的；有节制的
+      - pacific
+      - moderate
+      - gentle
+      - soft
+      - mild
   - 短语
-    - `temperate zone`
-      - [地]温带 
-    - `temperate climate`
-      - 温带气候 
-    - `north temperate zone`
-      - 北温带 
-    - `warm temperate zone`
-      - 暖温带 
+    - temperate zone [地]温带
+    - temperate climate 温带气候
+    - north temperate zone 北温带
+    - warm temperate zone 暖温带
   - 例句
-    - `The Nile Valley keeps a temperate climate throughout the year.`
-      - 尼罗河流域全年气候温和。
-
+    - The Nile Valley keeps a temperate climate throughout the year. 尼罗河流域全年气候温和。
+  - 补充

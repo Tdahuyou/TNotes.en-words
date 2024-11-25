@@ -1,47 +1,29 @@
 - submerge
   - 发音
-    - 英
-      - `/səb'mɜːrdʒ/`
-    - 美
-      - `/səb'mɝdʒ/`
+    - 英 /səb'mɜːrdʒ/
+    - 美 /səb'mɝdʒ/
   - 词义
-    - v.
-      - 浸没，淹没
-        - `to cover something completely with water or another liquid`
+    - v. 浸没，淹没
+      - to cover something completely with water or another liquid
   - 记忆
     - sub(在…下面) + merg(浸没) + e → 被吞没下去 → 浸没， 淹没
   - 同根词
-    - adj.
-      - `submerged`
-        - 水下的，在水中的
-      - `submersible`
-        - 能潜水的；能沉入水中的
-      - `submergible`
-        - 能浸入水中的；可潜入水中的
-      - `submersed`
-        - 生长水中的；淹没的
-    - n.
-      - `submersion`
-        - 淹没，浸没
-      - `submergence`
-        - 下潜，下沉；淹没
-      - `submergible`
-        - 潜水器；潜艇（等于submersible）
-    - v.
-      - `submerged`
-        - 潜入水中（submerge的过去分词）；使陷入
-      - `submersed`
-        - 浸没（submerse的过去式和过去分词）
+    - adj. submerged 水下的，在水中的
+    - adj. submersible 能潜水的；能沉入水中的
+    - adj. submergible 能浸入水中的；可潜入水中的
+    - adj. submersed 生长水中的；淹没的
+    - n. submersion 淹没，浸没
+    - n. submergence 下潜，下沉；淹没
+    - n. submergible 潜水器；潜艇（等于submersible）
+    - v. submerged 潜入水中（submerge的过去分词）；使陷入
+    - v. submersed 浸没（submerse的过去式和过去分词）
   - 近义词
-    - vt.
-      - 淹没；把…浸入；沉浸
-        - `flood`
-        - `flow`
-    - vi.
-      - 淹没；潜入水中；湮没
-        - `drown out`
-        - `swallow up`
+    - vt. 淹没；把…浸入；沉浸
+      - flood
+      - flow
+    - vi. 淹没；潜入水中；湮没
+      - drown out
+      - swallow up
   - 例句
-    - `The tunnel entrance was submerged by rising sea water.`
-      - 隧道入口被涨起的海水淹没。
-
+    - The tunnel entrance was submerged by rising sea water. 隧道入口被涨起的海水淹没。
+  - 补充

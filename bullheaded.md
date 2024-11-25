@@ -1,19 +1,14 @@
 - bullheaded
   - 发音
-    - 英
-      - `/bʊl'hedɪd/`
-    - 美
-      - `/,bʊl'hɛdɪd/`
+    - 英 /bʊl'hedɪd/
+    - 美 /,bʊl'hɛdɪd/
   - 词义
-    - adj.
-      - 顽固的；顽强的；愚笨的；莽撞的
+    - adj. 顽固的；顽强的；愚笨的；莽撞的
   - 同根词
-    - n.
-      - `bullhead`
-        - 顽固的人；大头鱼
+    - n. bullhead 顽固的人；大头鱼
   - 近义词
-    - adj.
-      - 顽固的；顽强的；愚笨的；莽撞的
-        - `resistant`
-        - `pushing`
-        - `stubborn`
+    - adj. 顽固的；顽强的；愚笨的；莽撞的
+      - resistant
+      - pushing
+      - stubborn
+  - 补充

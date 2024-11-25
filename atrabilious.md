@@ -1,14 +1,11 @@
 - atrabilious
   - 发音
-    - 英
-      - `/,ætrə'bɪlɪəs/`
-    - 美
-      - `/'ætrə'biljəs/`
+    - 英 /,ætrə'bɪlɪəs/
+    - 美 /'ætrə'biljəs/
   - 词义
-    - adj.
-      - 沉闷的,疑心的
+    - adj. 沉闷的,疑心的
   - 近义词
-    - adj.
-      - 忧郁的；易怒的（等于atrabiliar）
-        - `blue`
-        - `dark`
+    - adj. 忧郁的；易怒的（等于atrabiliar）
+      - blue
+      - dark
+  - 补充

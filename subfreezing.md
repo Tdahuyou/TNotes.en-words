@@ -1,9 +1,7 @@
 - subfreezing
   - 发音
-    - 英
-      - `/undefined/`
-    - 美
-      - `/undefined/`
+    - 英 /undefined/
+    - 美 /undefined/
   - 词义
-    - adj.
-      - 低于冰点的
+    - adj. 低于冰点的
+  - 补充

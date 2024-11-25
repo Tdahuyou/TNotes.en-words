@@ -1,19 +1,14 @@
 - embassy
   - 发音
-    - 英
-      - `/'embəsɪ/`
-    - 美
-      - `/'ɛmbəsi/`
+    - 英 /'embəsɪ/
+    - 美 /'ɛmbəsi/
   - 词义
-    - n.
-      - 大使馆；大使及其官员
-        - `a group of officials who represent their government in a foreign country, or the building they work in`
+    - n. 大使馆；大使及其官员
+      - a group of officials who represent their government in a foreign country, or the building they work in
   - 近义词
-    - n.
-      - 大使馆；大使馆全体人员
-        - `ambassade`
-        - `chancellery`
+    - n. 大使馆；大使馆全体人员
+      - ambassade
+      - chancellery
   - 例句
-    - `the American Embassy in Paris`
-      - 美国驻巴黎大使馆
-
+    - the American Embassy in Paris 美国驻巴黎大使馆
+  - 补充

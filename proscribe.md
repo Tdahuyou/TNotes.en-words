@@ -1,25 +1,18 @@
 - proscribe
   - 发音
-    - 英
-      - `/prəu'skraib/`
-    - 美
-      - `/pro'skraɪb/`
+    - 英 /prəu'skraib/
+    - 美 /pro'skraɪb/
   - 词义
-    - v.
-      - 禁止
-        - `to officially say that something is not allowed to exist or be done`
+    - v. 禁止
+      - to officially say that something is not allowed to exist or be done
   - 记忆
     - pro (前面) + scribe (写) → 写在前面， 声明禁止 → 禁止
   - 同根词
-    - n.
-      - `proscription`
-        - 禁止；放逐；剥夺人权
+    - n. proscription 禁止；放逐；剥夺人权
   - 近义词
-    - vt.
-      - 剥夺……的公权；禁止
-        - `bar`
-        - `inhibit`
+    - vt. 剥夺……的公权；禁止
+      - bar
+      - inhibit
   - 例句
-    - `The Act proscribes discrimination on the grounds of race.`
-      - 这项法令禁止种族歧视。
-
+    - The Act proscribes discrimination on the grounds of race. 这项法令禁止种族歧视。
+  - 补充

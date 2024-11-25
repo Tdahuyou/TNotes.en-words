@@ -1,26 +1,18 @@
 - tenancy
   - 发音
-    - 英
-      - `/'tenənsɪ/`
-    - 美
-      - `/'tɛnənsi/`
+    - 英 /'tenənsɪ/
+    - 美 /'tɛnənsi/
   - 词义
-    - n.
-      - 租期；租用
-        - `the period of time that someone rents a house, land etc`
+    - n. 租期；租用
+      - the period of time that someone rents a house, land etc
   - 近义词
-    - n.
-      - 租期；租用
-        - `lease`
-        - `hire`
+    - n. 租期；租用
+      - lease
+      - hire
   - 短语
-    - `tenancy agreement`
-      - 租约 
-    - `joint tenancy`
-      - 联权共有；共同租借权 
+    - tenancy agreement 租约
+    - joint tenancy 联权共有；共同租借权
   - 例句
-    - `a six-month tenancy`
-      - 六个月的租赁期
-    - `a tenancy agreement`
-      - 租赁合同
-
+    - a six-month tenancy 六个月的租赁期
+    - a tenancy agreement 租赁合同
+  - 补充

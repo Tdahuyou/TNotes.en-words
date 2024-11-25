@@ -1,28 +1,19 @@
 - racketeer
   - 发音
-    - 英
-      - `/rækɪ'tɪə/`
-    - 美
-      - `/,rækə'tɪr/`
+    - 英 /rækɪ'tɪə/
+    - 美 /,rækə'tɪr/
   - 词义
-    - n.
-      - 骗子；敲诈者
-        - `someone who earns money through crime and illegal activities`
-    - v.
-      - 对…进行勒索
+    - n. 骗子；敲诈者
+      - someone who earns money through crime and illegal activities
+    - v. 对…进行勒索
   - 同根词
-    - n.
-      - `racketeering`
-        - 敲诈勒索；诈骗
-    - v.
-      - `racketeering`
-        - 敲诈（racketeer的ing形式）；对…进行勒索
+    - n. racketeering 敲诈勒索；诈骗
+    - v. racketeering 敲诈（racketeer的ing形式）；对…进行勒索
   - 近义词
-    - n.
-      - 骗子；[法]敲诈者
-        - `fraud`
-        - `sharp`
-    - vi.
-      - 敲诈
-        - `shark up`
-        - `black mail`
+    - n. 骗子；[法]敲诈者
+      - fraud
+      - sharp
+    - vi. 敲诈
+      - shark up
+      - black mail
+  - 补充

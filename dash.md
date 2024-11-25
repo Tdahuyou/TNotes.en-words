@@ -1,54 +1,32 @@
 - dash
   - 发音
-    - 英
-      - `/dæʃ/`
-    - 美
-      - `/dæʃ/`
+    - 英 /dæʃ/
+    - 美 /dæʃ/
   - 词义
-    - n.
-      - 冲撞,破折号v猛掷,冲撞
-        - `an occasion when someone runs somewhere very quickly in order to get away from something or someone, or in order to reach them`
+    - n. 冲撞,破折号v猛掷,冲撞
+      - an occasion when someone runs somewhere very quickly in order to get away from something or someone, or in order to reach them
   - 同根词
-    - adj.
-      - `dashing`
-        - 时髦的，华丽的；雄纠纠的；劲头十足的
-    - n.
-      - `dashed`
-        - 虚线
-    - v.
-      - `dashed`
-        - 猛冲（dash的过去分词）；猛掷
-      - `dashing`
-        - 急奔；猛掷（dash的ing形式）
+    - adj. dashing 时髦的，华丽的；雄纠纠的；劲头十足的
+    - n. dashed 虚线
+    - v. dashed 猛冲（dash的过去分词）；猛掷
+    - v. dashing 急奔；猛掷（dash的ing形式）
   - 近义词
-    - n.
-      - 破折号；冲撞
-        - `jerking motion`
-    - vt.
-      - 使…破灭；猛撞；泼溅
-        - `discomfit`
-    - vi.
-      - 猛冲；撞击
-        - `knock against`
-        - `impinge on`
+    - n. 破折号；冲撞
+      - jerking motion
+    - vt. 使…破灭；猛撞；泼溅
+      - discomfit
+    - vi. 猛冲；撞击
+      - knock against
+      - impinge on
   - 短语
-    - `dash forward`
-      - 插上；向前冲 
-    - `a dash of`
-      - 少许；一点儿 
-    - `dash in`
-      - 急写 
-    - `dash off`
-      - v. 匆忙完成 
-    - `cut a dash`
-      - 大出风头；摆阔 
-    - `dash along`
-      - v. 滔滔不绝 
-    - `dash out`
-      - v. 冲出，跑开；删去，勾掉 
-    - `em dash`
-      - n. 长破折号 
+    - dash forward 插上；向前冲
+    - a dash of 少许；一点儿
+    - dash in 急写
+    - dash off v. 匆忙完成
+    - cut a dash 大出风头；摆阔
+    - dash along v. 滔滔不绝
+    - dash out v. 冲出，跑开；删去，勾掉
+    - em dash n. 长破折号
   - 例句
-    - `...a 160-mile dash to the hospital.`
-      - …飞奔160英里赶向医院。
-
+    - ...a 160-mile dash to the hospital. …飞奔160英里赶向医院。
+  - 补充

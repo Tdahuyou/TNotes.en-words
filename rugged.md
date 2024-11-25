@@ -1,40 +1,25 @@
 - rugged
   - 发音
-    - 英
-      - `/'rʌgɪd/`
-    - 美
-      - `/'rʌɡɪd/`
+    - 英 /'rʌgɪd/
+    - 美 /'rʌɡɪd/
   - 词义
-    - adj.
-      - 崎岖的，凹凸不平的；艰难的；粗犷的；结实的，耐用的；粗野的，不文雅的
-        - `land that is rugged is rough and uneven`
+    - adj. 崎岖的，凹凸不平的；艰难的；粗犷的；结实的，耐用的；粗野的，不文雅的
+      - land that is rugged is rough and uneven
   - 同根词
-    - adv.
-      - `ruggedly`
-        - 粗暴地，险峻地
-    - n.
-      - `ruggedness`
-        - 强度，坚固性；险峻，崎岖；粗野
-      - `ruggedization`
-        - 坚固；耐用；加强
-    - vt.
-      - `ruggedize`
-        - 使耐用；使坚固
+    - adv. ruggedly 粗暴地，险峻地
+    - n. ruggedness 强度，坚固性；险峻，崎岖；粗野
+    - n. ruggedization 坚固；耐用；加强
+    - vt. ruggedize 使耐用；使坚固
   - 近义词
-    - adj.
-      - 崎岖的；坚固的；高低不平的；粗糙的
-        - `crude`
-        - `rough`
-        - `harsh`
-        - `coarse`
+    - adj. 崎岖的；坚固的；高低不平的；粗糙的
+      - crude
+      - rough
+      - harsh
+      - coarse
   - 短语
-    - `rugged terrain`
-      - 不平地形，崎岖地带 
-    - `rugged individualism`
-      - 顽强的个人主义 
+    - rugged terrain 不平地形，崎岖地带
+    - rugged individualism 顽强的个人主义
   - 例句
-    - `a rugged coastline`
-      - 崎岖不平的海岸线
-    - `the rugged beauty of the Highlands`
-      - 苏格兰高地崎岖起伏的美景
-
+    - a rugged coastline 崎岖不平的海岸线
+    - the rugged beauty of the Highlands 苏格兰高地崎岖起伏的美景
+  - 补充

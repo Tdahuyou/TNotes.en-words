@@ -1,39 +1,25 @@
 - hardcover
   - 发音
-    - 英
-      - `/undefined/`
-    - 美
-      - `/'hɑrd'kʌvɚ/`
+    - 英 /'hɑːrdkʌvər/
+    - 美 /'hɑrd'kʌvɚ/
   - 词义
-    - adj.
-      - 精装的；硬书皮的
-    - n.
-      - 精装书；硬封面的书
-        - `a book that has a strong stiff cover`
+    - adj. 精装的
+    - n. 精装版本；
+      - a book that has a strong stiff cover
   - 记忆
     - hard(硬的) + cover(包装) → 硬包装版 → 精装版本
   - 同根词
-    - adj.
-      - `hardback`
-        - 精装的；硬封面的
-      - `hardbound`
-        - 精装的
-    - n.
-      - `hardback`
-        - 精装本；[图情] 硬封面的书
+    - adj. hardback 精装的；硬封面的
+    - adj. hardbound 精装的
+    - n. hardback 精装本；[图情] 硬封面的书
   - 近义词
-    - adj.
-      - 精装的；硬书皮的
-        - `casebound`
-        - `clothbound`
-    - n.
-      - 精装书；[图情]硬封面的书
-        - `hard back`
+    - adj. 精装的；硬书皮的
+      - casebound
+      - clothbound
+    - n. 精装书；[图情]硬封面的书
+      - hard back
   - 例句
-    - `Some of the best deals are on their hardcover books.`
-      - 一些最好的交易是他们卖的精装本书籍。
-    - `“What was the point of putting out a paperback when the hardcover sales were so extensive?” she said.`
-      - 她说，“那么在精装本销售还很火爆的情况下，推出平装本的时间点在哪儿呢？”
-    - `Some publishers have tried to take control of pricing by delaying the publication of certain e-books for several months after the books are made available in hardcover.`
-      - 一些出版商试图通过延迟电子图书的出版时间来控制定价，通常在精装版图书上市后数月才发布相应的电子版本。
-
+    - Yes. We have both the paperback and the hardcover. 是的。我们有平装本和精装本。
+    - Which do you prefer, the paperback or the hardcover? 平装书和精装书你更喜欢哪一个？
+    - Our business scope includes hardcover, catalogues, top-grade magazines and high-tech product manuals etc. 公司业务范围包括：精装书刊、目录、高档杂志及高科技产品说明书等。
+  - 补充

@@ -1,24 +1,17 @@
 - surmount
   - 发音
-    - 英
-      - `/sə'maʊnt/`
-    - 美
-      - `/sɚ'maʊnt/`
+    - 英 /sə'maʊnt/
+    - 美 /sɚ'maʊnt/
   - 词义
-    - v.
-      - 克服；置于…顶上
-        - `to succeed in dealing with a problem or difficulty`
+    - v. 克服；置于…顶上
+      - to succeed in dealing with a problem or difficulty
   - 同根词
-    - adj.
-      - `surmountable`
-        - 可克服的；可超越的，可战胜的
+    - adj. surmountable 可克服的；可超越的，可战胜的
   - 近义词
-    - vt.
-      - 克服，越过；战胜
-        - `overcome`
-        - `defeat`
-        - `negotiate`
+    - vt. 克服，越过；战胜
+      - overcome
+      - defeat
+      - negotiate
   - 例句
-    - `He has had to surmount immense physical disabilities.`
-      - 他不得不克服严重的身体残疾。
-
+    - He has had to surmount immense physical disabilities. 他不得不克服严重的身体残疾。
+  - 补充

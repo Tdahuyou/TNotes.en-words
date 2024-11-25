@@ -1,31 +1,20 @@
 - collegiate
   - 发音
-    - 英
-      - `/kə'liːdʒ(ɪ)ət/`
-    - 美
-      - `/kə'lidʒɪət/`
+    - 英 /kə'liːdʒ(ɪ)ət/
+    - 美 /kə'lidʒɪət/
   - 词义
-    - adj.
-      - 大学的；学院的；大学生的
-        - `relating to college or a college`
+    - adj. 大学的；学院的；大学生的
+      - relating to college or a college
   - 同根词
-    - adj.
-      - `collegial`
-        - 学院的；社团的；大学生的
-    - n.
-      - `college`
-        - 大学；学院；学会
-      - `collegian`
-        - 学院的学生；学院的一员
+    - adj. collegial 学院的；社团的；大学生的
+    - n. college 大学；学院；学会
+    - n. collegian 学院的学生；学院的一员
   - 近义词
-    - adj.
-      - 大学的；学院的；大学生的
-        - `academic`
-        - `undergraduate`
+    - adj. 大学的；学院的；大学生的
+      - academic
+      - undergraduate
   - 短语
-    - `collegiate bench`
-      - [法]合议庭 
+    - collegiate bench [法]合议庭
   - 例句
-    - `collegiate sports`
-      - 大学体育运动
-
+    - collegiate sports 大学体育运动
+  - 补充

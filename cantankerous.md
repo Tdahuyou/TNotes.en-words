@@ -1,25 +1,18 @@
 - cantankerous
   - 发音
-    - 英
-      - `/kæn'tæŋkərəs/`
-    - 美
-      - `/kæn'tæŋkərəs/`
+    - 英 /kæn'tæŋkərəs/
+    - 美 /kæn'tæŋkərəs/
   - 词义
-    - adj.
-      - 脾气坏的；好吵架的
-        - `bad-tempered and complaining a lot`
+    - adj. 脾气坏的；好吵架的
+      - bad-tempered and complaining a lot
   - 记忆
     - can (能) + tanker (坦克) + ous → 脾气像坦克一样 → 脾气坏的
   - 同根词
-    - adv.
-      - `cantankerously`
-        - 不怀好意地；脾气不好地
+    - adv. cantankerously 不怀好意地；脾气不好地
   - 近义词
-    - adj.
-      - 脾气坏的；爱吵架的；难相处的
-        - `spleenful`
-        - `mean-tempered`
+    - adj. 脾气坏的；爱吵架的；难相处的
+      - spleenful
+      - mean-tempered
   - 例句
-    - `a cantankerous old man`
-      - 爱抱怨的倔老头
-
+    - a cantankerous old man 爱抱怨的倔老头
+  - 补充

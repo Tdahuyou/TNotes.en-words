@@ -1,24 +1,16 @@
 - excision
   - 发音
-    - 英
-      - `/ɪk'sɪʒ(ə)n; ek-/`
-    - 美
-      - `/ɪk'sɪʒən/`
+    - 英 /ɪk'sɪʒ(ə)n; ek-/
+    - 美 /ɪk'sɪʒən/
   - 词义
-    - n.
-      - 切除,删除,[医]切除(术),[宗]逐出教会
+    - n. 切除,删除,[医]切除(术),[宗]逐出教会
   - 同根词
-    - n.
-      - `excise`
-        - 消费税；货物税
-    - vt.
-      - `excise`
-        - 切除；收税
+    - n. excise 消费税；货物税
+    - vt. excise 切除；收税
   - 近义词
-    - n.
-      - 删除，[外科][生化]切除；切除之物
-        - `cancellation`
-        - `deletion`
+    - n. 删除，[外科][生化]切除；切除之物
+      - cancellation
+      - deletion
   - 短语
-    - `excision repair`
-      - 切补修复 
+    - excision repair 切补修复
+  - 补充

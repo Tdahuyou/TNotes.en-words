@@ -1,26 +1,17 @@
 - disengagement
   - 发音
-    - 英
-      - `/ˌdɪsɪn'ɡeɪdʒmənt/`
-    - 美
-      - `/,dɪsɪn'gedʒmənt/`
+    - 英 /ˌdɪsɪn'ɡeɪdʒmənt/
+    - 美 /,dɪsɪn'gedʒmənt/
   - 词义
-    - n.
-      - 分离
-        - `Disengagement is a process by which people gradually stop being involved in a conflict, activity, or organization.`
+    - n. 分离，疏离感
+      - Disengagement is a process by which people gradually stop being involved in a conflict, activity, or organization
   - 同根词
-    - vi.
-      - `disengage`
-        - 脱出；松开
-    - vt.
-      - `disengage`
-        - 使脱离；解开；解除
+    - vi. disengage 脱出；松开
+    - vt. disengage 使脱离；解开；解除
   - 近义词
-    - n.
-      - 脱离；分开
-        - `separation`
-        - `secession`
+    - n. 脱离；分开
+      - separation
+      - secession
   - 例句
-    - `This policy of disengagement from the European war had its critics.`
-      - 从欧战中逐渐撤军的政策遭到了批评。
-
+    - This policy of disengagement from the European war had its critics. 从欧战中逐渐撤军的政策遭到了批评。
+  - 补充

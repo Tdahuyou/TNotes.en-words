@@ -1,41 +1,25 @@
 - cultivated
   - 发音
-    - 英
-      - `/'kʌltɪveɪtɪd/`
-    - 美
-      - `/'kʌltɪvetɪd/`
+    - 英 /'kʌltɪveɪtɪd/
+    - 美 /'kʌltɪvetɪd/
   - 词义
-    - adj.
-      - 耕种的；有教养的
-        - `someone who is cultivated is intelligent and knows a lot about music, art, literature etc`
-    - v.
-      - 发展（cultivate的过去分词）；耕作；教化
+    - adj. 耕种的；有教养的
+      - someone who is cultivated is intelligent and knows a lot about music, art, literature etc
+    - v. 发展（cultivate的过去分词）；耕作；教化
   - 同根词
-    - adj.
-      - `cultivable`
-        - 可培养的，可教化的；可耕种的
-    - n.
-      - `cultivation`
-        - 培养；耕作；耕种；教化；文雅
-      - `cultivator`
-        - 耕者；栽培者；耕田机
-    - vt.
-      - `cultivate`
-        - 培养；陶冶；耕作
+    - adj. cultivable 可培养的，可教化的；可耕种的
+    - n. cultivation 培养；耕作；耕种；教化；文雅
+    - n. cultivator 耕者；栽培者；耕田机
+    - vt. cultivate 培养；陶冶；耕作
   - 近义词
-    - adj.
-      - 耕种的；有教养的
-        - `refined`
-        - `educated`
-    - v.
-      - 发展（cultivate的过去分词）；耕作；教化
-        - `civilized`
+    - adj. 耕种的；有教养的
+      - refined
+      - educated
+    - v. 发展（cultivate的过去分词）；耕作；教化
+      - civilized
   - 短语
-    - `cultivated land`
-      - 耕地 
-    - `cultivated soil`
-      - 耕种土壤 
+    - cultivated land 耕地
+    - cultivated soil 耕种土壤
   - 例句
-    - `a highly cultivated man`
-      - 一个很有修养的人
-
+    - a highly cultivated man 一个很有修养的人
+  - 补充

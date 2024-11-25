@@ -1,31 +1,20 @@
 - noon
   - 发音
-    - 英
-      - `/nuːn/`
-    - 美
-      - `/nun/`
+    - 英 /nuːn/
+    - 美 /nun/
   - 词义
-    - n.
-      - 中午；正午
-        - `12 o’clock in the daytime`
+    - n. 中午；正午
+      - 12 o’clock in the daytime
   - 同根词
-    - adj.
-      - `noonday`
-        - 正午的（等于midday）
-    - n.
-      - `noonday`
-        - 中午
+    - adj. noonday 正午的（等于midday）
+    - n. noonday 中午
   - 近义词
-    - n.
-      - 中午；[天]正午；全盛期
-        - `midday`
-        - `midnoon`
+    - n. 中午；[天]正午；全盛期
+      - midday
+      - midnoon
   - 短语
-    - `at noon`
-      - adv. 在中午 
-    - `high noon`
-      - 正午；全盛时期；顶峰；[口]危机 
+    - at noon adv. 在中午
+    - high noon 正午；全盛时期；顶峰；[口]危机
   - 例句
-    - `We met at 12 noon.`
-      - 我们中午12点见了面。
-
+    - We met at 12 noon. 我们中午12点见了面。
+  - 补充

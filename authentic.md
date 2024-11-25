@@ -1,34 +1,22 @@
 - authentic
   - 发音
-    - 英
-      - `/ɔː'θentɪk/`
-    - 美
-      - `/ɔ'θɛntɪk/`
+    - 英 /ɔː'θentɪk/
+    - 美 /ɔ'θɛntɪk/
   - 词义
-    - adj.
-      - 真正的，真实的；逼真的；可靠的
-        - `based on facts`
+    - adj. 真正的，真实的；逼真的；可靠的
+      - based on facts
   - 同根词
-    - adv.
-      - `authentically`
-        - 真正地，确实地；可靠地
-    - n.
-      - `authentication`
-        - 证明；鉴定；证实
-      - `authenticity`
-        - 真实性，确实性；可靠性
-    - vt.
-      - `authenticate`
-        - 鉴定；证明…是真实的
+    - adv. authentically 真正地，确实地；可靠地
+    - n. authentication 证明；鉴定；证实
+    - n. authenticity 真实性，确实性；可靠性
+    - vt. authenticate 鉴定；证明…是真实的
   - 近义词
-    - adj.
-      - 真正的，真实的；可信的
-        - `actual`
-        - `sincere`
-        - `genuine`
-        - `true`
-        - `real`
+    - adj. 真正的，真实的；可信的
+      - actual
+      - sincere
+      - genuine
+      - true
+      - real
   - 例句
-    - `an authentic account`
-      - 真实可信的说法
-
+    - an authentic account 真实可信的说法
+  - 补充

@@ -1,25 +1,15 @@
 - etched
   - 发音
-    - 英
-      - `/undefined/`
-    - 美
-      - `/undefined/`
+    - 英 /'etʃid/
+    - 美 /undefined/
   - 词义
-    - adj.
-      - 被侵蚀的；风化的
-    - v.
-      - [冶][印刷]蚀刻（etch的过去分词）
-        - `If a line or pattern is etched into a surface, it is cut into the surface by means of acid or a sharp tool. You can also say that a surface is etched with a line or pattern. `
+    - adj. 被蚀刻的
   - 近义词
-    - adj.
-      - 被侵蚀的；风化的
-        - `eroded`
-        - `efflorescent`
+    - adj. 被侵蚀的；风化的
+      - eroded
+      - efflorescent
   - 例句
-    - `“We used to work and eat,” Ms. Devi said, her face etched by decades of blistering winters, her fingers thick from summers of tilling the soil.`
-      - 德薇的脸上蚀刻几十年冬天风霜，夏天的劳作使她的手变得又粗有厚，她说：“我们以前就是干活和吃饭。
-    - `Crosses were etched into the walls.`
-      - 十字架被凿刻在了墙上。
-    - `Windows are etched with the vehicle identification number.`
-      - 窗户被凿刻上了车辆识别号码。
-
+    - Some hotel signage etched pattern is needed, it is how to make the principle of it? 一些酒店的标识牌的花纹是需要蚀刻的，那是如何制作的原理呢？
+    - After that, a layer of nickel was electrodeposited on the opal, which was then etched away. The porosity of the nickel layer was then increased using electropolishing. 然后，在猫眼石结构表面用电沉积法镀上一层镍膜，之后把猫眼石蚀刻掉，再经过电解抛光，增加这些镍膜空隙度。
+    - Sign etched on the job officially here. 标牌的作业正式蚀刻在这里开始。
+  - 补充

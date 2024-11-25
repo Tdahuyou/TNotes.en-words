@@ -1,38 +1,22 @@
 - criminology
   - 发音
-    - 英
-      - `/,krɪmɪ'nɒlədʒɪ/`
-    - 美
-      - `/,krɪmɪ'nɑlədʒi/`
+    - 英 /ˌkrɪmɪ'nɑːlədʒi/
+    - 美 /,krɪmɪ'nɑlədʒi/
   - 词义
-    - n.
-      - 犯罪学；刑事学
-        - `the scientific study of crime and criminals`
+    - n. 犯罪学
+      - the scientific study of crime and criminals
   - 记忆
     - crimin(犯罪) + ology(学科) → 犯罪学
   - 同根词
-    - adj.
-      - `criminal`
-        - 刑事的；犯罪的；罪恶的
-      - `criminological`
-        - 犯罪学的
-    - n.
-      - `crime`
-        - 罪行，犯罪；罪恶；犯罪活动
-      - `criminal`
-        - 罪犯
-      - `criminality`
-        - 有罪，犯罪；犯罪行为
-      - `criminologist`
-        - 犯罪学者；刑事学家
-    - vt.
-      - `crime`
-        - 控告……违反纪律
+    - adj. criminal 刑事的；犯罪的；罪恶的
+    - adj. criminological 犯罪学的
+    - n. crime 罪行，犯罪；罪恶；犯罪活动
+    - n. criminal 罪犯
+    - n. criminality 有罪，犯罪；犯罪行为
+    - n. criminologist 犯罪学者；刑事学家
+    - vt. crime 控告……违反纪律
   - 例句
-    - `Are you fascinated by criminology, forensics, and detective work?`
-      - 你是否有迷上犯罪学、法医和侦查工作？
-    - `And experts who study criminology say that some crimes do seem to be contagious.`
-      - 研究犯罪学的专家说，有些罪行似乎会蔓延的。
-    - `Organised crime may do especially well in the downturn because it depends so heavily on the bribery of officials, reckons Michael Levi, a professor of criminology at Cardiff University.`
-      - 有组织犯罪在经济下滑时期可能会非常猖獗，因为它很大程度上依靠对官员的贿赂，卡的夫大学的犯罪学教授迈克尔·李维这样说。
-
+    - The relationship between victimology and criminology is a longstanding issue within the academic realm. 被害人学与犯罪学之间的关系问题是学界的一个宿疑。
+    - While beefed up network security is crucial criminology professor David Maimon, of the University of Maryland, says that's only half the solution. 在加强网络安全至关重要时，马里兰大学的犯罪学教授大卫·麦农表示那只是一半的解决方案。
+    - The idealistic criminology student's rise to police chief in one of Mexico's most violent areas thrust Valles Garcia into the international spotlight. 这位主修犯罪学的理想主义者的学生升任墨西哥最暴力地区的警长后就进入了国际媒体的视野。
+  - 补充

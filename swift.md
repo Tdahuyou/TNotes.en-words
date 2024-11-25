@@ -1,54 +1,37 @@
 - swift
   - 发音
-    - 英
-      - `/swɪft/`
-    - 美
-      - `/swɪft/`
+    - 英 /swɪft/
+    - 美 /swɪft/
   - 词义
-    - adj.
-      - 敏捷的，速度快的
-        - `happening or done quickly and immediately`
-    - n.
-      - 雨燕
-        - `a small brown bird that has pointed wings, flies very fast, and is similar to a  swallow `
+    - adj. 敏捷的，速度快的
+      - happening or done quickly and immediately
+    - n. 雨燕
+      - a small brown bird that has pointed wings, flies very fast, and is similar to a  swallow 
   - 记忆
     - 电梯(lift)速度很快(swift)
   - 同根词
-    - adv.
-      - `swiftly`
-        - 很快地；敏捷地；即刻
-    - n.
-      - `swiftness`
-        - 迅速，敏捷；快
+    - adv. swiftly 很快地；敏捷地；即刻
+    - n. swiftness 迅速，敏捷；快
   - 近义词
-    - adj.
-      - 快的；迅速的；敏捷的；立刻的
-        - `quick`
-        - `rapid`
-        - `fast`
-        - `forward`
-        - `ready`
-    - adv.
-      - 迅速地
-        - `quickly`
-        - `rapidly`
-        - `fast`
-        - `promptly`
-        - `ready`
+    - adj. 快的；迅速的；敏捷的；立刻的
+      - quick
+      - rapid
+      - fast
+      - forward
+      - ready
+    - adv. 迅速地
+      - quickly
+      - rapidly
+      - fast
+      - promptly
+      - ready
   - 短语
-    - `taylor swift`
-      - 泰勒·斯威夫特（乡村女歌手） 
-    - `swift growth`
-      - 快速增长 
-    - `jonathan swift`
-      - n. 乔纳森·斯威夫特（英国政治家及小说家） 
-    - `swift current`
-      - 激流 
-    - `swift horse`
-      - n. 千里马 
+    - taylor swift 泰勒·斯威夫特（乡村女歌手）
+    - swift growth 快速增长
+    - jonathan swift n. 乔纳森·斯威夫特（英国政治家及小说家）
+    - swift current 激流
+    - swift horse n. 千里马
   - 例句
-    - `My letter received a swift reply.`
-      - 我的信很快就得到了回复。
-    - `She shot a swift glance at Paul.`
-      - 她迅速瞥了保罗一眼。
-
+    - My letter received a swift reply. 我的信很快就得到了回复。
+    - She shot a swift glance at Paul. 她迅速瞥了保罗一眼。
+  - 补充

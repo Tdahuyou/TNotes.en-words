@@ -1,38 +1,25 @@
 - drone
   - 发音
-    - 英
-      - `/drəʊn/`
-    - 美
-      - `/dron/`
+    - 英 /drəʊn/
+    - 美 /dron/
   - 词义
-    - n.
-      - 雄蜂；嗡嗡的声音；懒惰者
-        - `a continuous low dull sound`
-    - v.
-      - 嗡嗡作声；混日子
-        - `to make a continuous low dull sound`
+    - n. 雄蜂；嗡嗡的声音；懒惰者
+      - a continuous low dull sound
+    - v. 嗡嗡作声；混日子
+      - to make a continuous low dull sound
   - 同根词
-    - adj.
-      - `droning`
-        - 声音低沉单调的；发嗡嗡声的
-    - v.
-      - `droning`
-        - 发嗡嗡声；单调低沉地说；闲散度日；单调无聊地进行（drone的ing形式）
+    - adj. droning 声音低沉单调的；发嗡嗡声的
+    - v. droning 发嗡嗡声；单调低沉地说；闲散度日；单调无聊地进行（drone的ing形式）
   - 近义词
-    - n.
-      - 雄蜂；嗡嗡的声音；懒惰者
-        - `do-nothing`
-    - vi.
-      - 嗡嗡作声；混日子
-        - `goof off`
-        - `hell around`
-    - vt.
-      - 低沉地说
-        - `rumble`
+    - n. 雄蜂；嗡嗡的声音；懒惰者
+      - do-nothing
+    - vi. 嗡嗡作声；混日子
+      - goof off
+      - hell around
+    - vt. 低沉地说
+      - rumble
   - 短语
-    - `target drone`
-      - 目标靶机 
+    - target drone 目标靶机
   - 例句
-    - `An airplane droned overhead.`
-      - 一架飞机在头顶上轰鸣。
-
+    - An airplane droned overhead. 一架飞机在头顶上轰鸣。
+  - 补充

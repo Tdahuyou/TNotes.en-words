@@ -1,23 +1,16 @@
 - fiendish
   - 发音
-    - 英
-      - `/'fiːndɪʃ/`
-    - 美
-      - `/'findɪʃ/`
+    - 英 /'fiːndɪʃ/
+    - 美 /'findɪʃ/
   - 词义
-    - adj.
-      - 恶魔似的，残忍的；极坏的
-        - `cruel and unpleasant`
+    - adj. 恶魔似的，残忍的；极坏的
+      - cruel and unpleasant
   - 同根词
-    - n.
-      - `fiend`
-        - 魔鬼；能手；成癖者
+    - n. fiend 魔鬼；能手；成癖者
   - 近义词
-    - adj.
-      - 恶魔似的，残忍的；极坏的
-        - `cruel`
-        - `brutal`
+    - adj. 恶魔似的，残忍的；极坏的
+      - cruel
+      - brutal
   - 例句
-    - `a particularly fiendish practical joke`
-      - 残忍的恶作剧
-
+    - a particularly fiendish practical joke 残忍的恶作剧
+  - 补充

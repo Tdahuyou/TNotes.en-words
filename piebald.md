@@ -1,22 +1,16 @@
 - piebald
   - 发音
-    - 英
-      - `/'paɪbɔːld/`
-    - 美
-      - `/'paɪbɔld/`
+    - 英 /'paɪbɔːld/
+    - 美 /'paɪbɔld/
   - 词义
-    - adj.
-      - 花斑的，黑白两色的
-        - `a piebald animal has black and white areas on its body`
+    - adj. 花斑的，黑白两色的
+      - a piebald animal has black and white areas on its body
   - 近义词
-    - adj.
-      - 花斑的；杂色的
-        - `shot`
-        - `varied`
-    - n.
-      - 花斑马；花马
-        - `skewbald`
+    - adj. 花斑的；杂色的
+      - shot
+      - varied
+    - n. 花斑马；花马
+      - skewbald
   - 例句
-    - `a piebald horse`
-      - 一匹有黑白花斑的马
-
+    - a piebald horse 一匹有黑白花斑的马
+  - 补充

@@ -1,66 +1,37 @@
 - harmony
   - 发音
-    - 英
-      - `/'hɑːrməni/`
-    - 美
-      - `/'hɑrməni/`
+    - 英 /'hɑːrməni/
+    - 美 /'hɑrməni/
   - 词义
-    - n.
-      - 和声；和谐，融洽，协调；相符，一致
-        - `notes of music combined together in a pleasant way`
+    - n. 和声；和谐，融洽，协调；相符，一致
+      - notes of music combined together in a pleasant way
   - 记忆
     - harmon(连接) + y → 和声； 和谐
   - 同根词
-    - adj.
-      - `harmonious`
-        - 和谐的，和睦的；协调的；悦耳的
-      - `harmonic`
-        - 和声的；谐和的；音乐般的
-      - `harmonical`
-        - 调和的（等于harmonic）；合谐的；音乐般的
-    - adv.
-      - `harmoniously`
-        - 和谐地；调和地
-      - `harmonically`
-        - 和声地；调和地
-    - n.
-      - `harmonic`
-        - [物] 谐波；和声
-      - `harmonization`
-        - 和谐；融洽；悦耳
-      - `harmoniousness`
-        - 调和
-      - `harmoniser`
-        - 使和谐协调者（等于harmonizer）
-      - `harmonizer`
-        - 使和谐协调者
-    - vi.
-      - `harmonize`
-        - 协调；和谐；以和声唱
-    - vt.
-      - `harmonize`
-        - 使和谐；使一致；以和声唱
+    - adj. harmonious 和谐的，和睦的；协调的；悦耳的
+    - adj. harmonic 和声的；谐和的；音乐般的
+    - adj. harmonical 调和的（等于harmonic）；合谐的；音乐般的
+    - adv. harmoniously 和谐地；调和地
+    - adv. harmonically 和声地；调和地
+    - n. harmonic [物] 谐波；和声
+    - n. harmonization 和谐；融洽；悦耳
+    - n. harmoniousness 调和
+    - n. harmoniser 使和谐协调者（等于harmonizer）
+    - n. harmonizer 使和谐协调者
+    - vi. harmonize 协调；和谐；以和声唱
+    - vt. harmonize 使和谐；使一致；以和声唱
   - 近义词
-    - n.
-      - 协调；和睦；融洽；调和
-        - `peace`
-        - `keeping`
+    - n. 协调；和睦；融洽；调和
+      - peace
+      - keeping
   - 短语
-    - `in harmony`
-      - adj. 和谐无间 
-    - `social harmony`
-      - 社会和谐 
-    - `in harmony with`
-      - 与…协调；与…一致 
-    - `perfect harmony`
-      - 水乳交融；完美无谐波；十分和谐 
-    - `live in harmony`
-      - 和睦相处，和谐共处 
-    - `new harmony`
-      - 新和谐 
+    - in harmony adj. 和谐无间
+    - social harmony 社会和谐
+    - in harmony with 与…协调；与…一致
+    - perfect harmony 水乳交融；完美无谐波；十分和谐
+    - live in harmony 和睦相处，和谐共处
+    - new harmony 新和谐
   - 例句
-    - `the gorgeous vocal harmonies on ‘Mexicali Rose’`
-      - 《墨西哥玫瑰》的精彩和声演唱
-    - `three-part harmonies`
-      - 三部和声
-
+    - the gorgeous vocal harmonies on ‘Mexicali Rose’ 《墨西哥玫瑰》的精彩和声演唱
+    - three-part harmonies 三部和声
+  - 补充

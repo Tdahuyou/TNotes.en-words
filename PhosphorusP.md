@@ -1,9 +1,7 @@
 - PhosphorusP
   - 发音
-    - 英
-      - `/'fɔsfərəs/`
-    - 美
-      - `/undefined/`
+    - 英 /'fɔsfərəs/
+    - 美 /undefined/
   - 词义
-    - n.
-      - 磷
+    - n. 磷
+  - 补充

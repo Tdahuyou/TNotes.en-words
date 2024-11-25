@@ -1,27 +1,18 @@
 - seclude
   - 发音
-    - 英
-      - `/si'kluːd/`
-    - 美
-      - `/sɪ'klud/`
+    - 英 /si'kluːd/
+    - 美 /sɪ'klud/
   - 词义
-    - v.
-      - 隐居，与世隔绝
-        - `to remove from contact with others `
+    - v. 隐居，与世隔绝
+      - to remove from contact with others 
   - 记忆
     - se (分开) + clude (关闭) → 分开关闭 → 隔离
   - 同根词
-    - adj.
-      - `secluded`
-        - 隐蔽的；隐退的，隐居的
-    - n.
-      - `seclusion`
-        - 隔离；隐退；隐蔽的地方
-    - v.
-      - `secluded`
-        - 隔绝（seclude的过去式）
+    - adj. secluded 隐蔽的；隐退的，隐居的
+    - n. seclusion 隔离；隐退；隐蔽的地方
+    - v. secluded 隔绝（seclude的过去式）
   - 近义词
-    - vt.
-      - 使隔离，使隔绝
-        - `segregate`
-        - `quarantine`
+    - vt. 使隔离，使隔绝
+      - segregate
+      - quarantine
+  - 补充

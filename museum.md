@@ -1,51 +1,29 @@
 - museum
   - 发音
-    - 英
-      - `/mjuː'zɪəm/`
-    - 美
-      - `/mjuˈzɪəm/`
+    - 英 /mjuː'zɪəm/
+    - 美 /mjuˈzɪəm/
   - 词义
-    - n.
-      - 博物馆
-        - `a building where important  cultural  , historical, or scientific objects are kept and shown to the public`
+    - n. 博物馆
+      - a building where important  cultural  , historical, or scientific objects are kept and shown to the public
   - 短语
-    - `art museum`
-      - 美术馆，美术博物馆；艺术博物馆 
-    - `palace museum`
-      - 故宫博物院 
-    - `national museum`
-      - 国家博物馆 
-    - `history museum`
-      - 历史博物馆 
-    - `british museum`
-      - 不列颠博物馆 
-    - `science museum`
-      - 科学博物馆；科技馆；科学馆 
-    - `museum of natural history`
-      - 美国自然历史博物馆 
-    - `metropolitan museum`
-      - 大都会博物馆 
-    - `military museum`
-      - 军事博物馆 
-    - `space museum`
-      - 太空馆；太空博物馆 
-    - `louvre museum`
-      - 卢浮宫 
-    - `metropolitan museum of art`
-      - 大都会艺术博物馆 
-    - `wax museum`
-      - 蜡像馆 
-    - `historical museum`
-      - 历史博物馆 
-    - `guggenheim museum`
-      - 古根海姆博物馆（位于美国纽约） 
-    - `geological museum`
-      - 地质博物馆 
-    - `olympic museum`
-      - 奥林匹克博物馆 
+    - art museum 美术馆，美术博物馆；艺术博物馆
+    - palace museum 故宫博物院
+    - national museum 国家博物馆
+    - history museum 历史博物馆
+    - british museum 不列颠博物馆
+    - science museum 科学博物馆；科技馆；科学馆
+    - museum of natural history 美国自然历史博物馆
+    - metropolitan museum 大都会博物馆
+    - military museum 军事博物馆
+    - space museum 太空馆；太空博物馆
+    - louvre museum 卢浮宫
+    - metropolitan museum of art 大都会艺术博物馆
+    - wax museum 蜡像馆
+    - historical museum 历史博物馆
+    - guggenheim museum 古根海姆博物馆（位于美国纽约）
+    - geological museum 地质博物馆
+    - olympic museum 奥林匹克博物馆
   - 例句
-    - `the Museum of Modern Art`
-      - 现代艺术博物馆
-    - `The museum has an extensive collection of early photographs.`
-      - 这座博物馆藏有大量早期的照片。
-
+    - the Museum of Modern Art 现代艺术博物馆
+    - The museum has an extensive collection of early photographs. 这座博物馆藏有大量早期的照片。
+  - 补充

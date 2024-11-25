@@ -1,31 +1,20 @@
 - wretch
   - 发音
-    - 英
-      - `/retʃ/`
-    - 美
-      - `/rɛtʃ/`
+    - 英 /retʃ/
+    - 美 /rɛtʃ/
   - 词义
-    - n.
-      - 不幸的人；恶棍，无赖
-        - `someone that you feel sorry for`
+    - n. 不幸的人；恶棍，无赖
+      - someone that you feel sorry for
   - 记忆
     - 这个可怜的人(wretch)把身上唯一值钱的手表(watch)弄丢了
   - 同根词
-    - adj.
-      - `wretched`
-        - 可怜的；卑鄙的；令人苦恼或难受的
-    - adv.
-      - `wretchedly`
-        - 鄙劣地；可怜地
-    - n.
-      - `wretchedness`
-        - 可怜；悲惨；不幸
+    - adj. wretched 可怜的；卑鄙的；令人苦恼或难受的
+    - adv. wretchedly 鄙劣地；可怜地
+    - n. wretchedness 可怜；悲惨；不幸
   - 近义词
-    - n.
-      - 可怜的人，不幸的人；卑鄙的人
-        - `insect`
-        - `poor soul`
+    - n. 可怜的人，不幸的人；卑鄙的人
+      - insect
+      - poor soul
   - 例句
-    - `He was a lonely, miserable wretch.`
-      - 他是一个孤独的可怜虫。
-
+    - He was a lonely, miserable wretch. 他是一个孤独的可怜虫。
+  - 补充

@@ -1,23 +1,16 @@
 - unsuccessful
   - 发音
-    - 英
-      - `/ʌnsək'sesfʊl; -f(ə)l/`
-    - 美
-      - `/,ʌnsək'sɛsfl/`
+    - 英 /ʌnsək'sesfʊl; -f(ə)l/
+    - 美 /,ʌnsək'sɛsfl/
   - 词义
-    - adj.
-      - 不成功的,失败的
-        - `not having a successful result or not achieving what you wanted to achieve`
+    - adj. 不成功的,失败的
+      - not having a successful result or not achieving what you wanted to achieve
   - 同根词
-    - adv.
-      - `unsuccessfully`
-        - 失败地；无用
+    - adv. unsuccessfully 失败地；无用
   - 近义词
-    - adj.
-      - 不成功的；失败的
-        - `failed`
-        - `losing`
+    - adj. 不成功的；失败的
+      - failed
+      - losing
   - 例句
-    - `an unsuccessful attempt to climb Qomolangma`
-      - 攀登珠穆朗玛峰的失败尝试
-
+    - an unsuccessful attempt to climb Qomolangma 攀登珠穆朗玛峰的失败尝试
+  - 补充

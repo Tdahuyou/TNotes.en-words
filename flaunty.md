@@ -1,12 +1,10 @@
 - flaunty
   - 发音
-    - 英
-      - `/'flɔːnti/`
-    - 美
-      - `/'flɔnti/`
+    - 英 /'flɔːnti/
+    - 美 /'flɔnti/
   - 词义
-    - adj.
-      - 炫耀的，虚华的
-        - `characterized by or inclined to ostentatious display or flaunting `
+    - adj. 炫耀的，虚华的
+      - characterized by or inclined to ostentatious display or flaunting 
   - 记忆
     - 来自flaunt(v. 炫耀， 夸耀)
+  - 补充

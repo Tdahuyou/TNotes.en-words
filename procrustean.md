@@ -1,19 +1,15 @@
 - procrustean
   - 发音
-    - 英
-      - `/ˌprou'krʌstiən/`
-    - 美
-      - `/undefined/`
+    - 英 /ˌprou'krʌstiən/
+    - 美 /undefined/
   - 词义
-    - adj.
-      - 强求一致的
+    - adj. 强求一致的
   - 记忆
     - 源自Procrustes(希腊神话中的巨人)， 抓到人后， 缚之床榻， 体长者截下肢， 体短者拔之使与床齐长
   - 近义词
-    - adj.
-      - 强求一致的；迫使就范的；残暴的
-        - `tyrannical`
-        - `ruffianly`
+    - adj. 强求一致的；迫使就范的；残暴的
+      - tyrannical
+      - ruffianly
   - 短语
-    - `procrustean bed`
-      - [希腊神话]强求一致的政策；普罗克汝斯忒斯之床 
+    - procrustean bed [希腊神话]强求一致的政策；普罗克汝斯忒斯之床
+  - 补充

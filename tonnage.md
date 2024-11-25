@@ -1,26 +1,18 @@
 - tonnage
   - 发音
-    - 英
-      - `/'tʌnɪdʒ/`
-    - 美
-      - `/'tʌnɪdʒ/`
+    - 英 /'tʌnɪdʒ/
+    - 美 /'tʌnɪdʒ/
   - 词义
-    - n.
-      - 登记吨位,排水量
-        - `the size of a ship or the amount of goods it can carry, shown in  tonnes `
+    - n. 登记吨位,排水量
+      - the size of a ship or the amount of goods it can carry, shown in  tonnes 
   - 同根词
-    - n.
-      - `ton`
-        - 吨；很多，大量
+    - n. ton 吨；很多，大量
   - 近义词
-    - n.
-      - [船]吨位，载重量；船舶总吨数，排水量
-        - `displacement`
-        - `dead weight capacity`
+    - n. [船]吨位，载重量；船舶总吨数，排水量
+      - displacement
+      - dead weight capacity
   - 短语
-    - `gross tonnage`
-      - 总吨位 
+    - gross tonnage 总吨位
   - 例句
-    - `A huge tonnage of bombs has already been dropped on the area.`
-      - 巨大吨数的炸弹已被投到该地区。
-
+    - A huge tonnage of bombs has already been dropped on the area. 巨大吨数的炸弹已被投到该地区。
+  - 补充

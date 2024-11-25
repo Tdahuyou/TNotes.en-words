@@ -1,47 +1,29 @@
 - urgent
   - 发音
-    - 英
-      - `/'ɜːrdʒənt/`
-    - 美
-      - `/'ɝdʒənt/`
+    - 英 /'ɜːrdʒənt/
+    - 美 /'ɝdʒənt/
   - 词义
-    - adj.
-      - 急迫的，紧迫的
-        - `very important and needing to be dealt with immediately`
+    - adj. 急迫的，紧迫的
+      - very important and needing to be dealt with immediately
   - 记忆
     - urg(驱使) + ent(形容词后缀) → 不断驱使的 → 急迫的
   - 同根词
-    - adv.
-      - `urgently`
-        - 迫切地；紧急地；急切地
-    - n.
-      - `urgency`
-        - 紧急；催促；紧急的事
+    - adv. urgently 迫切地；紧急地；急切地
+    - n. urgency 紧急；催促；紧急的事
   - 近义词
-    - adj.
-      - 紧急的；急迫的
-        - `emergency`
-        - `instant`
+    - adj. 紧急的；急迫的
+      - emergency
+      - instant
   - 短语
-    - `urgent need`
-      - 迫切需要 
-    - `extremely urgent`
-      - 迫在眉睫 
-    - `urgent message`
-      - 加急电报，紧急通知 
-    - `an urgent message`
-      - 紧急消息（情况） 
-    - `top urgent`
-      - 紧迫的问题 
-    - `urgent call`
-      - 加急电活，紧急呼叫 
-    - `urgent telegram`
-      - 急电 
+    - urgent need 迫切需要
+    - extremely urgent 迫在眉睫
+    - urgent message 加急电报，紧急通知
+    - an urgent message 紧急消息（情况）
+    - top urgent 紧迫的问题
+    - urgent call 加急电活，紧急呼叫
+    - urgent telegram 急电
   - 例句
-    - `He was in urgent need of medical attention.`
-      - 他急需治疗。
-    - `The report called for urgent action to reduce lead in petrol.`
-      - 报告呼吁迅速采取行动，减少汽油中的铅含量。
-    - `an urgent message`
-      - 一封急报
-
+    - He was in urgent need of medical attention. 他急需治疗。
+    - The report called for urgent action to reduce lead in petrol. 报告呼吁迅速采取行动，减少汽油中的铅含量。
+    - an urgent message 一封急报
+  - 补充

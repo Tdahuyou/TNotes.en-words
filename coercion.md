@@ -1,29 +1,20 @@
 - coercion
   - 发音
-    - 英
-      - `/kəu'əːʃn/`
-    - 美
-      - `/ko'ɝʒən/`
+    - 英 /kəu'əːʃn/
+    - 美 /ko'ɝʒən/
   - 词义
-    - n.
-      - 强迫，威压
-        - `the use of threats or orders to make someone do something they do not want to do`
+    - n. 强迫，威压
+      - the use of threats or orders to make someone do something they do not want to do
   - 记忆
     - 来自coerce (v. 强制， 强迫)
   - 同根词
-    - adj.
-      - `coercive`
-        - 强制的；胁迫的；高压的
-    - vt.
-      - `coerce`
-        - 强制，迫使
+    - adj. coercive 强制的；胁迫的；高压的
+    - vt. coerce 强制，迫使
   - 近义词
-    - n.
-      - 强制；强迫；高压政治；威压
-        - `enforcement`
-        - `constraint`
-        - `compulsion`
+    - n. 强制；强迫；高压政治；威压
+      - enforcement
+      - constraint
+      - compulsion
   - 例句
-    - `The defendant explained that he had been acting under coercion.`
-      - 被告辩解说他是受到胁迫才那么做的。
-
+    - The defendant explained that he had been acting under coercion. 被告辩解说他是受到胁迫才那么做的。
+  - 补充

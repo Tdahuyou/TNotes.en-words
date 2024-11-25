@@ -1,19 +1,14 @@
 - woozy
   - 发音
-    - 英
-      - `/'wuːzɪ/`
-    - 美
-      - `/'wuzi/`
+    - 英 /'wuːzɪ/
+    - 美 /'wuzi/
   - 词义
-    - adj.
-      - 糊涂的,虚弱的
-        - `feeling weak and unsteady`
+    - adj. 糊涂的,虚弱的
+      - feeling weak and unsteady
   - 近义词
-    - adj.
-      - 虚弱的，微醉的；头昏眼花的
-        - `weak`
-        - `marantic`
+    - adj. 虚弱的，微醉的；头昏眼花的
+      - weak
+      - marantic
   - 例句
-    - `Giving blood makes me feel really woozy.`
-      - 献血后我会觉得头晕目眩。
-
+    - Giving blood makes me feel really woozy. 献血后我会觉得头晕目眩。
+  - 补充

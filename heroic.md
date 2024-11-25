@@ -1,45 +1,27 @@
 - heroic
   - 发音
-    - 英
-      - `/hɪ'rəʊɪk/`
-    - 美
-      - `/hə'roɪk/`
+    - 英 /hɪ'rəʊɪk/
+    - 美 /hə'roɪk/
   - 词义
-    - adj.
-      - 英雄的,英勇的
-        - `extremely brave or determined, and admired by many people`
+    - adj. 英雄的,英勇的
+      - extremely brave or determined, and admired by many people
   - 同根词
-    - adj.
-      - `heroine`
-        - 英雄式的
-      - `heroical`
-        - 英雄的
-    - adv.
-      - `heroically`
-        - 英雄地；超人地；冒险地
-    - n.
-      - `hero`
-        - 英雄；男主角，男主人公
-      - `heroine`
-        - 女英雄；女杰
-      - `heroism`
-        - 英勇，英雄气概；英雄行为；勇敢的事迹
-      - `heroical`
-        - 英雄故事诗；咬文嚼字
+    - adj. heroine 英雄式的
+    - adj. heroical 英雄的
+    - adv. heroically 英雄地；超人地；冒险地
+    - n. hero 英雄；男主角，男主人公
+    - n. heroine 女英雄；女杰
+    - n. heroism 英勇，英雄气概；英雄行为；勇敢的事迹
+    - n. heroical 英雄故事诗；咬文嚼字
   - 近义词
-    - adj.
-      - 英雄的；英勇的；记叙英雄及其事迹的；夸张的
-        - `bold`
-        - `gallant`
-    - n.
-      - 史诗；英勇行为
-        - `epic poetry`
-        - `epos`
+    - adj. 英雄的；英勇的；记叙英雄及其事迹的；夸张的
+      - bold
+      - gallant
+    - n. 史诗；英勇行为
+      - epic poetry
+      - epos
   - 例句
-    - `her heroic efforts to save her family`
-      - 她拯救家人的英勇行为
-    - `Lawrence’s heroic struggle against his destiny`
-      - 劳伦斯与命运的勇敢抗争
-    - `She portrayed him as a heroic figure .`
-      - 她把他描述为英雄人物。
-
+    - her heroic efforts to save her family 她拯救家人的英勇行为
+    - Lawrence’s heroic struggle against his destiny 劳伦斯与命运的勇敢抗争
+    - She portrayed him as a heroic figure . 她把他描述为英雄人物。
+  - 补充

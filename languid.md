@@ -1,34 +1,21 @@
 - languid
   - 发音
-    - 英
-      - `/'læŋgwid/`
-    - 美
-      - `/'læŋɡwid/`
+    - 英 /'læŋgwid/
+    - 美 /'læŋɡwid/
   - 词义
-    - adj.
-      - 疲倦的；无力的；没精打采的
-        - `moving slowly and involving very little energy`
+    - adj. 疲倦的；无力的；没精打采的
+      - moving slowly and involving very little energy
   - 记忆
     - 学外国语 (language) 学多了会累 (languid)
   - 同根词
-    - adj.
-      - `languorous`
-        - 怠惰的；无力的
-    - adv.
-      - `languidly`
-        - 疲倦地；不感兴趣地；不活泼地；阴沉地
-    - n.
-      - `languor`
-        - 疲倦；无精打采；柔情；呆滞
-    - vi.
-      - `languor`
-        - 变得衰弱无力
+    - adj. languorous 怠惰的；无力的
+    - adv. languidly 疲倦地；不感兴趣地；不活泼地；阴沉地
+    - n. languor 疲倦；无精打采；柔情；呆滞
+    - vi. languor 变得衰弱无力
   - 近义词
-    - adj.
-      - 倦怠的；呆滞的；软弱无力的
-        - `listless`
-        - `dull`
+    - adj. 倦怠的；呆滞的；软弱无力的
+      - listless
+      - dull
   - 例句
-    - `He greeted Charles with a languid wave of his hand.`
-      - 他无精打采地挥挥手，算是和查尔斯打招呼。
-
+    - He greeted Charles with a languid wave of his hand. 他无精打采地挥挥手，算是和查尔斯打招呼。
+  - 补充

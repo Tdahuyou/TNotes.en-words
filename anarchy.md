@@ -1,39 +1,26 @@
 - anarchy
   - 发音
-    - 英
-      - `/'ænəki/`
-    - 美
-      - `/'ænɚki/`
+    - 英 /'ænəki/
+    - 美 /'ænɚki/
   - 词义
-    - n.
-      - 无政府状态；政治混乱
-        - `a situation in which there is no effective government in a country or no order in an organization or situation`
+    - n. 无政府状态；政治混乱
+      - a situation in which there is no effective government in a country or no order in an organization or situation
   - 记忆
     - an (不， 无) + archy (统治) → 没有人统治 → 无政府状态
   - 同根词
-    - adj.
-      - `anarchic`
-        - 无政府的；无政府主义的；无法无天的
-      - `anarchical`
-        - 无政府主义的
-      - `anarchistic`
-        - 无政府主义的
-    - n.
-      - `anarchist`
-        - 无政府主义者
-      - `anarchism`
-        - 无政府主义
+    - adj. anarchic 无政府的；无政府主义的；无法无天的
+    - adj. anarchical 无政府主义的
+    - adj. anarchistic 无政府主义的
+    - n. anarchist 无政府主义者
+    - n. anarchism 无政府主义
   - 近义词
-    - n.
-      - 无政府状态；混乱；无秩序
-        - `chaos`
-        - `disorder`
-        - `confusion`
-        - `involvement`
-        - `mix`
+    - n. 无政府状态；混乱；无秩序
+      - chaos
+      - disorder
+      - confusion
+      - involvement
+      - mix
   - 例句
-    - `The prison is close to anarchy.`
-      - 那所监狱几乎一片混乱。
-    - `The classroom was in a constant state of anarchy .`
-      - 教室里永远是一片混乱。
-
+    - The prison is close to anarchy. 那所监狱几乎一片混乱。
+    - The classroom was in a constant state of anarchy . 教室里永远是一片混乱。
+  - 补充

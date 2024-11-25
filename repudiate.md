@@ -1,24 +1,17 @@
 - repudiate
   - 发音
-    - 英
-      - `/rɪ'pjuːdɪeɪt/`
-    - 美
-      - `/rɪ'pjudɪet/`
+    - 英 /rɪ'pjuːdɪeɪt/
+    - 美 /rɪ'pjudɪet/
   - 词义
-    - v.
-      - 批判
-        - `If you repudiate something or someone, you show that you strongly disagree with them and do not want to be connected with them in any way`
+    - v. 批判
+      - If you repudiate something or someone, you show that you strongly disagree with them and do not want to be connected with them in any way
   - 同根词
-    - n.
-      - `repudiation`
-        - 否认，拒绝；抛弃，断绝关系
+    - n. repudiation 否认，拒绝；抛弃，断绝关系
   - 近义词
-    - vt.
-      - 拒绝；否定；批判；与…断绝关系；拒付
-        - `negative`
-        - `refuse`
-        - `deny`
+    - vt. 拒绝；否定；批判；与…断绝关系；拒付
+      - negative
+      - refuse
+      - deny
   - 例句
-    - `Leaders urged people to turn out in large numbers to repudiate the violence.`
-      - 领导们力劝人们集体出面来声讨该暴力。
-
+    - Leaders urged people to turn out in large numbers to repudiate the violence. 领导们力劝人们集体出面来声讨该暴力。
+  - 补充

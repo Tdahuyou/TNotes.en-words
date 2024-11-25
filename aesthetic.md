@@ -1,57 +1,33 @@
 - aesthetic
   - 发音
-    - 英
-      - `/es'θetɪk/`
-    - 美
-      - `/esˈθetɪk; ɛsˈθɛtɪk/`
+    - 英 /es'θetɪk/
+    - 美 /esˈθetɪk; ɛsˈθɛtɪk/
   - 词义
-    - adj.
-      - 审美的，美学的；美的，艺术的
-        - `connected with beauty and the study of beauty`
+    - adj. 审美的，美学的；美的，艺术的
+      - connected with beauty and the study of beauty
   - 记忆
     - (a)esthet(感觉) + ic(形容词后缀) → 美感的 → 审美的， 美学的
   - 同根词
-    - adj.
-      - `aesthetical`
-        - 审美的；美学的；有审美感的
-    - adv.
-      - `aesthetically`
-        - 审美地；美学观点上地
-    - n.
-      - `aesthetics`
-        - 美学；美的哲学
-      - `aesthete`
-        - 唯美主义者；审美家
-      - `aesthetician`
-        - 审美学家（等于esthetician）
+    - adj. aesthetical 审美的；美学的；有审美感的
+    - adv. aesthetically 审美地；美学观点上地
+    - n. aesthetics 美学；美的哲学
+    - n. aesthete 唯美主义者；审美家
+    - n. aesthetician 审美学家（等于esthetician）
   - 近义词
-    - adj.
-      - 美的；美学的；审美的，具有审美趣味的
-        - `esthetical`
+    - adj. 美的；美学的；审美的，具有审美趣味的
+      - esthetical
   - 短语
-    - `aesthetic education`
-      - 美育；审美教育 
-    - `aesthetic value`
-      - 审美价值，美学价值 
-    - `aesthetic feeling`
-      - 美感 
-    - `aesthetic appreciation`
-      - 审美 
-    - `aesthetic appearance`
-      - 式样美观 
-    - `aesthetic perception`
-      - 美感，审美观念；审美知觉 
-    - `aesthetic quality`
-      - 美感质素；感官质量 
-    - `aesthetic design`
-      - 美学设计；美术设计 
-    - `aesthetic attitude`
-      - 审美态度；美感态度 
-    - `aesthetic pleasure`
-      - 审美享受 
+    - aesthetic education 美育；审美教育
+    - aesthetic value 审美价值，美学价值
+    - aesthetic feeling 美感
+    - aesthetic appreciation 审美
+    - aesthetic appearance 式样美观
+    - aesthetic perception 美感，审美观念；审美知觉
+    - aesthetic quality 美感质素；感官质量
+    - aesthetic design 美学设计；美术设计
+    - aesthetic attitude 审美态度；美感态度
+    - aesthetic pleasure 审美享受
   - 例句
-    - `From an esthetic point of view, it’s a nice design.`
-      - 从美学角度看，这是个不错的设计。
-    - `a work of great aesthetic appeal`
-      - 极富美之神韵的作品
-
+    - From an esthetic point of view, it’s a nice design. 从美学角度看，这是个不错的设计。
+    - a work of great aesthetic appeal 极富美之神韵的作品
+  - 补充

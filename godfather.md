@@ -1,20 +1,13 @@
 - godfather
   - 发音
-    - 英
-      - `/'gɒdfɑːθə/`
-    - 美
-      - `/'ɡɑdfɑðɚ/`
+    - 英 /'gɒdfɑːθə/
+    - 美 /'ɡɑdfɑðɚ/
   - 词义
-    - n.
-      - 教父
-        - `a male  godparent `
-    - vt.
-      - 当…的教父
+    - n. 教父
+      - a male  godparent 
+    - vt. 当…的教父
   - 同根词
-    - n.
-      - `godparent`
-        - 教父或教母
+    - n. godparent 教父或教母
   - 例句
-    - `Afrika Bambaataa, the Godfather of hip hop`
-      - 嘻哈乐教父阿弗里卡·班巴塔
-
+    - Afrika Bambaataa, the Godfather of hip hop 嘻哈乐教父阿弗里卡·班巴塔
+  - 补充

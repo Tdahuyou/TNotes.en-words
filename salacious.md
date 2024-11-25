@@ -1,22 +1,15 @@
 - salacious
   - 发音
-    - 英
-      - `/sə'leiʃəs/`
-    - 美
-      - `/sə'leʃəs/`
+    - 英 /sə'leiʃəs/
+    - 美 /sə'leʃəs/
   - 词义
-    - adj.
-      - 猥亵的，好色的
+    - adj. 猥亵的，好色的
   - 同根词
-    - n.
-      - `salacity`
-        - 猥亵，好色
+    - n. salacity 猥亵，好色
   - 近义词
-    - adj.
-      - 好色的；猥亵的；淫荡的
-        - `salt`
-        - `lascivious`
+    - adj. 好色的；猥亵的；淫荡的
+      - salt
+      - lascivious
   - 例句
-    - `the media’s love of salacious gossip`
-      - 媒体对传播桃色八卦的热衷
-
+    - the media’s love of salacious gossip 媒体对传播桃色八卦的热衷
+  - 补充

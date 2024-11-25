@@ -1,14 +1,10 @@
 - caviar
   - 发音
-    - 英
-      - `/'kævɪɑː; ,kævɪ'ɑː/`
-    - 美
-      - `/'kævɪ'ɑr/`
+    - 英 /'kævɪɑː; ,kævɪ'ɑː/
+    - 美 /'kævɪ'ɑr/
   - 词义
-    - n.
-      - 鱼子酱
-        - `the preserved eggs of various large fish, eaten as a special very expensive food`
+    - n. 鱼子酱
+      - the preserved eggs of various large fish, eaten as a special very expensive food
   - 例句
-    - `caviare and champagne`
-      - 鱼子酱和香槟酒
-
+    - caviare and champagne 鱼子酱和香槟酒
+  - 补充

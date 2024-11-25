@@ -1,9 +1,7 @@
 - formalise
   - 发音
-    - 英
-      - `/undefined/`
-    - 美
-      - `/undefined/`
+    - 英 /undefined/
+    - 美 /undefined/
   - 词义
-    - v.
-      - 使成为正式
+    - v. 使成为正式
+  - 补充

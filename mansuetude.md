@@ -1,15 +1,12 @@
 - mansuetude
   - 发音
-    - 英
-      - `/'mænswɪtjuːd/`
-    - 美
-      - `/'mænswi,tju:d/`
+    - 英 /'mænswɪtjuːd/
+    - 美 /'mænswi,tju:d/
   - 词义
-    - n.
-      - 温顺,柔和
-        - `gentleness or mildness `
+    - n. 温顺,柔和
+      - gentleness or mildness 
   - 近义词
-    - n.
-      - 柔和；温顺
-        - `maidlike`
-        - `meekness`
+    - n. 柔和；温顺
+      - maidlike
+      - meekness
+  - 补充

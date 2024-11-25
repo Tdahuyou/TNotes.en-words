@@ -1,35 +1,26 @@
 - superlative
   - 发音
-    - 英
-      - `/sjuː'pəːlətiv/`
-    - 美
-      - `/suːˈpəːlətɪv/`
+    - 英 /sjuː'pəːlətiv/
+    - 美 /suːˈpəːlətɪv/
   - 词义
-    - adj.
-      - 最高的
-        - `excellent`
+    - adj. 最高的
+      - excellent
   - 记忆
     - super (在…上面) + lat (放) + ive → 放在最上面 → 最高的
   - 同根词
-    - adv.
-      - `superlatively`
-        - 最高地；无上地
+    - adv. superlatively 最高地；无上地
   - 近义词
-    - adj.
-      - 最高的；最高级的；过度的
-        - `highest`
-        - `supreme`
-        - `maximum`
-        - `peak`
-        - `top`
-    - n.
-      - 最高级；最好的人；最高程度；夸大话
-        - `best`
-        - `surfine`
+    - adj. 最高的；最高级的；过度的
+      - highest
+      - supreme
+      - maximum
+      - peak
+      - top
+    - n. 最高级；最好的人；最高程度；夸大话
+      - best
+      - surfine
   - 短语
-    - `superlative degree`
-      - [语]（形容词、副词的）最高级 
+    - superlative degree [语]（形容词、副词的）最高级
   - 例句
-    - `a superlative performance`
-      - 精彩绝伦的表演
-
+    - a superlative performance 精彩绝伦的表演
+  - 补充

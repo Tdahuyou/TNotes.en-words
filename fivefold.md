@@ -1,24 +1,14 @@
 - fivefold
   - 发音
-    - 英
-      - `/'faɪvfəʊld/`
-    - 美
-      - `/'faɪvfold/`
+    - 英 /'faɪvfould/
+    - 美 /'faɪvfold/
   - 词义
-    - adv.
-      - 五倍地；五重地
-        - `by or up to five times as many or as much `
-    - adj.
-      - 五倍的；五重的
-        - `equal to or having five times as many or as much `
+    - a&ad. 五倍的
   - 近义词
-    - adj.
-      - 五倍的；五重的
-        - `pentaploid`
-        - `quintuplicate`
+    - adj. 五倍的；五重的
+      - pentaploid
+      - quintuplicate
   - 例句
-    - `The number of very hot days is forecast to increase fivefold by 2100.`
-      - 据预测，到2100年，极热天气的数量将增加五倍。
-    - `It seems almost gratuitous to be posing such questions in a country where income levels have increased fivefold in half a generation.`
-      - 半代的时间内，对一个收入水平已经增长到五倍的国家提出这样一个问题好像是毫无道理的。
-
+    - The risk of a heart attack jumps nearly fivefold during the first hour after smoking marijuana. 开始抽大麻的一个小时之内，心脏病发的危险几乎会激增五倍。
+    - Men who often used these coping techniques had a two to fivefold higher risk of developing heart disease than those who were more confrontational at work, the study showed. 研究显示，在受到不公正待遇时经常选择这种处理方式的男性职员患心脏病的风险比敢于公开表达不满的人高二至五倍。
+  - 补充

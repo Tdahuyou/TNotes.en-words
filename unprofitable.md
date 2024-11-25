@@ -1,23 +1,16 @@
 - unprofitable
   - 发音
-    - 英
-      - `/ʌn'prɒfɪtəb(ə)l/`
-    - 美
-      - `/ʌn'prɑfɪtəbl/`
+    - 英 /ʌn'prɒfɪtəb(ə)l/
+    - 美 /ʌn'prɑfɪtəbl/
   - 词义
-    - adj.
-      - 没有利润的,无益的
-        - `making no profit`
+    - adj. 没有利润的,无益的
+      - making no profit
   - 同根词
-    - adv.
-      - `unprofitably`
-        - 无利可图地；徒劳无益地；赚不到钱地
+    - adv. unprofitably 无利可图地；徒劳无益地；赚不到钱地
   - 近义词
-    - adj.
-      - 无益的，没有用的；没有利润的
-        - `profitless`
-        - `unhelpful`
+    - adj. 无益的，没有用的；没有利润的
+      - profitless
+      - unhelpful
   - 例句
-    - `unprofitable businesses`
-      - 不赢利的企业
-
+    - unprofitable businesses 不赢利的企业
+  - 补充

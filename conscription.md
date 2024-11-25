@@ -1,29 +1,18 @@
 - conscription
   - 发音
-    - 英
-      - `/kən'skrɪpʃ(ə)n/`
-    - 美
-      - `/kən'skrɪpʃən/`
+    - 英 /kən'skrɪpʃ(ə)n/
+    - 美 /kən'skrɪpʃən/
   - 词义
-    - n.
-      - 征召
-        - `when people are made to join the army, navy etc`
+    - n. 征召
+      - when people are made to join the army, navy etc
   - 同根词
-    - adj.
-      - `conscript`
-        - 被征召的
-    - n.
-      - `conscript`
-        - 应征士兵
-    - vt.
-      - `conscript`
-        - 征召
+    - adj. conscript 被征召的
+    - n. conscript 应征士兵
+    - vt. conscript 征召
   - 近义词
-    - n.
-      - 征兵；征兵制度；征用
-        - `expropriation`
-        - `levy`
+    - n. 征兵；征兵制度；征用
+      - expropriation
+      - levy
   - 例句
-    - `All adult males will be liable for conscription.`
-      - 所有成年男子都将有义务服兵役。
-
+    - All adult males will be liable for conscription. 所有成年男子都将有义务服兵役。
+  - 补充

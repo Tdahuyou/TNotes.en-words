@@ -1,32 +1,18 @@
 - startlingly
   - 发音
-    - 英
-      - `/undefined/`
-    - 美
-      - `/undefined/`
+    - 英 /'stɑːrtlɪŋlɪ/
+    - 美 /undefined/
   - 词义
-    - adv.
-      - 惊人地；使人惊奇地
+    - adv. 令人吃惊地，惊人地
   - 同根词
-    - adj.
-      - `startling`
-        - 令人吃惊的
-      - `startled`
-        - 受惊吓的
-    - n.
-      - `startle`
-        - 惊愕；惊恐
-    - v.
-      - `startled`
-        - 震惊（startle的过去分词）
-    - vi.
-      - `startle`
-        - 惊吓；惊跳；惊奇
-    - vt.
-      - `startle`
-        - 使吓一跳；使惊奇
+    - adj. startling 令人吃惊的
+    - adj. startled 受惊吓的
+    - n. startle 惊愕；惊恐
+    - v. startled 震惊（startle的过去分词）
+    - vi. startle 惊吓；惊跳；惊奇
+    - vt. startle 使吓一跳；使惊奇
   - 近义词
-    - adv.
-      - 惊人地；使人惊奇地
-        - `surprisingly`
-        - `alarmingly`
+    - adv. 惊人地；使人惊奇地
+      - surprisingly
+      - alarmingly
+  - 补充

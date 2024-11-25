@@ -1,21 +1,17 @@
 - underage
   - 发音
-    - 英
-      - `/'ʌndər,eɪdʒ/`
-    - 美
-      - `/'ʌndəredʒ/`
+    - 英 /'ʌndər,eɪdʒ/
+    - 美 /'ʌndəredʒ/
   - 词义
-    - n.
-      - 缺乏,久缺
+    - n. 缺乏,久缺
   - 近义词
-    - adj.
-      - 未成年的
-        - `minor`
-        - `infant`
-    - n.
-      - 缺乏
-        - `shortage`
-        - `short of`
-        - `deficiency`
-        - `need`
-        - `drought`
+    - adj. 未成年的
+      - minor
+      - infant
+    - n. 缺乏
+      - shortage
+      - short of
+      - deficiency
+      - need
+      - drought
+  - 补充

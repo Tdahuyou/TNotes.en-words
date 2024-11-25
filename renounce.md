@@ -1,25 +1,17 @@
 - renounce
   - 发音
-    - 英
-      - `/rɪ'naʊns/`
-    - 美
-      - `/rɪ'naʊns/`
+    - 英 /rɪ'naʊns/
+    - 美 /rɪ'naʊns/
   - 词义
-    - v.
-      - 宣布放弃,断绝关系
-        - `if you renounce an official position, title, right etc, you publicly say that you will not keep it any more`
+    - v. 宣布放弃,断绝关系
+      - if you renounce an official position, title, right etc, you publicly say that you will not keep it any more
   - 同根词
-    - n.
-      - `renouncement`
-        - 否认；拒绝；放弃
+    - n. renouncement 否认；拒绝；放弃
   - 近义词
-    - vt.
-      - 宣布放弃；与…断绝关系；垫牌
-        - `break up with`
-        - `finish with`
+    - vt. 宣布放弃；与…断绝关系；垫牌
+      - break up with
+      - finish with
   - 例句
-    - `Edward renounced his claim to the French throne.`
-      - 爱德华宣布放弃对法国王位的继承权。
-    - `She renounced her citizenship.`
-      - 她宣布放弃国籍。
-
+    - Edward renounced his claim to the French throne. 爱德华宣布放弃对法国王位的继承权。
+    - She renounced her citizenship. 她宣布放弃国籍。
+  - 补充

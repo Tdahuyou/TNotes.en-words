@@ -1,37 +1,25 @@
 - conquer
   - 发音
-    - 英
-      - `/'kɑːŋkər/`
-    - 美
-      - `/'kɑŋkɚ/`
+    - 英 /'kɑːŋkər/
+    - 美 /'kɑŋkɚ/
   - 词义
-    - vt.
-      - 战胜，征服；克服
-        - `to get control of a country by fighting`
+    - vt. 战胜，征服；克服
+      - to get control of a country by fighting
   - 记忆
     - con(全部) + quer(寻求) → 全部寻求到 → 征服
   - 同根词
-    - adj.
-      - `conquerable`
-        - 可征服的；可战胜的
-    - n.
-      - `conqueror`
-        - 征服者；胜利者
+    - adj. conquerable 可征服的；可战胜的
+    - n. conqueror 征服者；胜利者
   - 近义词
-    - vt.
-      - 战胜，征服；攻克，攻取
-        - `defeat`
-        - `master`
-    - vi.
-      - 胜利；得胜
-        - `overcome`
-        - `win the day`
+    - vt. 战胜，征服；攻克，攻取
+      - defeat
+      - master
+    - vi. 胜利；得胜
+      - overcome
+      - win the day
   - 短语
-    - `divide and conquer`
-      - 分而治之；各个击破 
+    - divide and conquer 分而治之；各个击破
   - 例句
-    - `The Normans conquered England in 1066.`
-      - 诺曼人于 1066 年征服英格兰。
-    - `Egypt was conquered by the Persian king Kambyses.`
-      - 埃及被波斯国王冈比西斯征服。
-
+    - The Normans conquered England in 1066. 诺曼人于 1066 年征服英格兰。
+    - Egypt was conquered by the Persian king Kambyses. 埃及被波斯国王冈比西斯征服。
+  - 补充

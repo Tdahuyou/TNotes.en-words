@@ -1,67 +1,39 @@
 - heating
   - 发音
-    - 英
-      - `/'hiːtɪŋ/`
-    - 美
-      - `/'hitɪŋ/`
+    - 英 /'hiːtɪŋ/
+    - 美 /'hitɪŋ/
   - 词义
-    - n.
-      - [热]加热；[建]供暖；暖气设备
-        - `a system for making a room or building warm`
-    - adj.
-      - 加热的；供热的
-    - v.
-      - [热]加热（heat的现在分词）
+    - n. [热]加热；[建]供暖；暖气设备
+      - a system for making a room or building warm
+    - adj. 加热的；供热的
+    - v. [热]加热（heat的现在分词）
   - 近义词
-    - n.
-      - [热]加热；[建]供暖；暖气设备
-        - `calefaction`
-        - `pyrogenation`
-    - v.
-      - [热]加热（heat的现在分词）
-        - `hotting`
+    - n. [热]加热；[建]供暖；暖气设备
+      - calefaction
+      - pyrogenation
+    - v. [热]加热（heat的现在分词）
+      - hotting
   - 短语
-    - `heating system`
-      - 供暖系统，供热系统 
-    - `heating furnace`
-      - 加热炉；热气炉 
-    - `electric heating`
-      - [电]电热；电力供热，电热供暖 
-    - `induction heating`
-      - 感应加热 
-    - `central heating`
-      - 中央暖气系统；集中采暖 
-    - `heating power`
-      - 发热量（能力） 
-    - `heating equipment`
-      - 加热设备；采暖设备；加热装置 
-    - `heating up`
-      - 加热 
-    - `heating method`
-      - 加热法 
-    - `heating rate`
-      - 升温速率；加热速度；热耗率 
-    - `floor heating`
-      - 地板供暖 
-    - `heating element`
-      - [化]加热元件 
-    - `heating surface`
-      - 受热面积；加热面积 
-    - `heating pipe`
-      - [化]加热管，暖气管 
-    - `steam heating`
-      - [化]蒸汽加热 
-    - `district heating`
-      - 集中供热；区域供暖 
-    - `heating oil`
-      - 民用燃料油，加热油 
-    - `heating efficiency`
-      - 热效率，加热效率 
-    - `heating effect`
-      - 热效应 
-    - `gas heating`
-      - 气体加热；燃气供热，煤气供暖 
+    - heating system 供暖系统，供热系统
+    - heating furnace 加热炉；热气炉
+    - electric heating [电]电热；电力供热，电热供暖
+    - induction heating 感应加热
+    - central heating 中央暖气系统；集中采暖
+    - heating power 发热量（能力）
+    - heating equipment 加热设备；采暖设备；加热装置
+    - heating up 加热
+    - heating method 加热法
+    - heating rate 升温速率；加热速度；热耗率
+    - floor heating 地板供暖
+    - heating element [化]加热元件
+    - heating surface 受热面积；加热面积
+    - heating pipe [化]加热管，暖气管
+    - steam heating [化]蒸汽加热
+    - district heating 集中供热；区域供暖
+    - heating oil 民用燃料油，加热油
+    - heating efficiency 热效率，加热效率
+    - heating effect 热效应
+    - gas heating 气体加热；燃气供热，煤气供暖
   - 例句
-    - `We wanted to reduce the cost of heating and air-conditioning.`
-      - 我们想减少供暖与空调的开支。
-
+    - We wanted to reduce the cost of heating and air-conditioning. 我们想减少供暖与空调的开支。
+  - 补充

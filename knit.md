@@ -1,44 +1,30 @@
 - knit
   - 发音
-    - 英
-      - `/nɪt/`
-    - 美
-      - `/nɪt/`
+    - 英 /nɪt/
+    - 美 /nɪt/
   - 词义
-    - v.
-      - 编结，编织；紧密结合，使紧凑；愈合；皱紧，皱
-        - `to make clothing out of wool, using two knitting needles`
+    - v. 编结，编织；紧密结合，使紧凑；愈合；皱紧，皱
+      - to make clothing out of wool, using two knitting needles
   - 记忆
     - 骨头愈合(knit)之后， 居然长出了一个节(knot)
   - 同根词
-    - n.
-      - `knitting`
-        - 针织；编织物；[外科] 骨愈合
-      - `knitter`
-        - 编织者；编织机
-    - v.
-      - `knitting`
-        - 编织；皱眉（knit的ing形式）
+    - n. knitting 针织；编织物；[外科] 骨愈合
+    - n. knitter 编织者；编织机
+    - v. knitting 编织；皱眉（knit的ing形式）
   - 近义词
-    - vi.
-      - [纺]编织；结合；皱眉
-        - `couple`
-        - `bond`
-        - `become one`
-        - `combine`
-    - vt.
-      - [纺]编织；结合
-        - `become one`
-        - `couple`
-        - `link`
+    - vi. [纺]编织；结合；皱眉
+      - couple
+      - bond
+      - become one
+      - combine
+    - vt. [纺]编织；结合
+      - become one
+      - couple
+      - link
   - 短语
-    - `knit fabric`
-      - 织物，针织布 
-    - `knit up`
-      - 结束；织补 
+    - knit fabric 织物，针织布
+    - knit up 结束；织补
   - 例句
-    - `My grandmother taught me how to knit.`
-      - 我祖母教过我编织。
-    - `She’s knitting a sweater.`
-      - 她在织毛衣。
-
+    - My grandmother taught me how to knit. 我祖母教过我编织。
+    - She’s knitting a sweater. 她在织毛衣。
+  - 补充

@@ -1,34 +1,22 @@
 - detect
   - 发音
-    - 英
-      - `/dɪ'tekt/`
-    - 美
-      - `/dɪ'tɛkt/`
+    - 英 /dɪ'tekt/
+    - 美 /dɪ'tɛkt/
   - 词义
-    - vt.
-      - 发现，察觉；探测；查明
-        - `to notice or discover something, especially something that is not easy to see, hear etc`
+    - vt. 发现，察觉；探测；查明
+      - to notice or discover something, especially something that is not easy to see, hear etc
   - 记忆
     - de(去掉) + tect(遮盖) → 去除遮盖 → 发现， 觉察
   - 同根词
-    - adj.
-      - `detective`
-        - 侦探的
-      - `detectable`
-        - 可检测的；可发觉的
-    - n.
-      - `detection`
-        - 侦查，探测；发觉，发现；察觉
-      - `detective`
-        - 侦探
-      - `detector`
-        - 检测器；发现者；侦察器
+    - adj. detective 侦探的
+    - adj. detectable 可检测的；可发觉的
+    - n. detection 侦查，探测；发觉，发现；察觉
+    - n. detective 侦探
+    - n. detector 检测器；发现者；侦察器
   - 近义词
-    - vt.
-      - 察觉；发现；探测
-        - `explore`
-        - `perceive`
+    - vt. 察觉；发现；探测
+      - explore
+      - perceive
   - 例句
-    - `Many forms of cancer can be cured if detected early.`
-      - 如果发现得早，许多种癌症都可以治愈。
-
+    - Many forms of cancer can be cured if detected early. 如果发现得早，许多种癌症都可以治愈。
+  - 补充

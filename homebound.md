@@ -1,18 +1,13 @@
 - homebound
   - 发音
-    - 英
-      - `/'həʊmbaʊnd/`
-    - 美
-      - `/'hom,baʊnd/`
+    - 英 /'həʊmbaʊnd/
+    - 美 /'hom,baʊnd/
   - 词义
-    - adj.
-      - 回家的，回家乡的
+    - adj. 回家的，回家乡的
   - 同根词
-    - n.
-      - `homecoming`
-        - 归国；同学会；省亲回家
+    - n. homecoming 归国；同学会；省亲回家
   - 近义词
-    - adj.
-      - 回家的，回家乡的
-        - `redux`
-        - `homing`
+    - adj. 回家的，回家乡的
+      - redux
+      - homing
+  - 补充

@@ -1,35 +1,22 @@
 - lexicon
   - 发音
-    - 英
-      - `/'leksikən/`
-    - 美
-      - `/'lɛksɪkən/`
+    - 英 /'leksikən/
+    - 美 /'lɛksɪkən/
   - 词义
-    - n.
-      - 词典
-        - `all the words and phrases used in a language or that a particular person knows`
+    - n. 词典
+      - all the words and phrases used in a language or that a particular person knows
   - 同根词
-    - adj.
-      - `lexical`
-        - 词汇的；[语] 词典的；词典编纂的
-      - `lexicographical`
-        - 辞典编纂的
-    - n.
-      - `lexicographer`
-        - 词典编纂者
-      - `lexicology`
-        - 词汇学；词典学
-      - `lexicography`
-        - 词典编纂
+    - adj. lexical 词汇的；[语] 词典的；词典编纂的
+    - adj. lexicographical 辞典编纂的
+    - n. lexicographer 词典编纂者
+    - n. lexicology 词汇学；词典学
+    - n. lexicography 词典编纂
   - 近义词
-    - n.
-      - [语]词典，辞典
-        - `dictionary`
-        - `wordbook`
+    - n. [语]词典，辞典
+      - dictionary
+      - wordbook
   - 短语
-    - `mental lexicon`
-      - 心理词汇库 
+    - mental lexicon 心理词汇库
   - 例句
-    - `a lexicon of geographical terms`
-      - 地理学术语词汇表
-
+    - a lexicon of geographical terms 地理学术语词汇表
+  - 补充

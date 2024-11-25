@@ -1,19 +1,14 @@
 - eh
   - 发音
-    - 英
-      - `/eɪ/`
-    - 美
-      - `/e/`
+    - 英 /eɪ/
+    - 美 /e/
   - 词义
-    - int.
-      - 啊，嗯！（表示惊奇、疑问等）
-        - `used when you want someone to repeat something because you did not hear it`
+    - int. 啊，嗯！（表示惊奇、疑问等）
+      - used when you want someone to repeat something because you did not hear it
   - 近义词
-    - int.
-      - 啊，嗯！（表示惊奇、疑问等）
-        - `ah`
-        - `ugh`
+    - int. 啊，嗯！（表示惊奇、疑问等）
+      - ah
+      - ugh
   - 例句
-    - `Eh? She’s got how many children?`
-      - 嗯？ 她有几个孩子？
-
+    - Eh? She’s got how many children? 嗯？ 她有几个孩子？
+  - 补充

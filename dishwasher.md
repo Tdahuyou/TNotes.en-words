@@ -1,21 +1,13 @@
 - dishwasher
   - 发音
-    - 英
-      - `/'dɪʃwɒʃə/`
-    - 美
-      - `/'dɪʃwɔʃɚ/`
+    - 英 /'dɪʃwɒʃə/
+    - 美 /'dɪʃwɔʃɚ/
   - 词义
-    - n.
-      - 洗碗工；洗碟机
-        - `a machine that washes dishes`
+    - n. 洗碗工；洗碟机
+      - a machine that washes dishes
   - 同根词
-    - n.
-      - `dishwashing`
-        - 洗碗
-    - v.
-      - `dishwashing`
-        - 洗碗（diahwash的现在分词）
+    - n. dishwashing 洗碗
+    - v. dishwashing 洗碗（diahwash的现在分词）
   - 例句
-    - `I was a short-order cook and a dishwasher.`
-      - 我曾是一名快餐厨师兼洗碗工。
-
+    - I was a short-order cook and a dishwasher. 我曾是一名快餐厨师兼洗碗工。
+  - 补充

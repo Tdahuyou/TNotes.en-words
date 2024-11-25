@@ -1,22 +1,15 @@
 - fainthearted
   - 发音
-    - 英
-      - `/'feint'hɑːtid/`
-    - 美
-      - `/'feint'hɑ:tid/`
+    - 英 /'feint'hɑːtid/
+    - 美 /'feint'hɑ:tid/
   - 词义
-    - adj.
-      - 懦弱的，胆小的
+    - adj. 懦弱的，胆小的
   - 同根词
-    - n.
-      - `faintheartedness`
-        - 懦弱
+    - n. faintheartedness 懦弱
   - 近义词
-    - adj.
-      - 懦弱的，胆小的；无精神的
-        - `milk-livered`
-        - `white-livered`
+    - adj. 懦弱的，胆小的；无精神的
+      - milk-livered
+      - white-livered
   - 例句
-    - `He is a fainthearted child.`
-      - 他是个胆小的小孩。
-
+    - He is a fainthearted child. 他是个胆小的小孩。
+  - 补充

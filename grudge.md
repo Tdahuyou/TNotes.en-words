@@ -1,38 +1,26 @@
 - grudge
   - 发音
-    - 英
-      - `/grʌdʒ/`
-    - 美
-      - `/ɡrʌdʒ/`
+    - 英 /grʌdʒ/
+    - 美 /ɡrʌdʒ/
   - 词义
-    - v.
-      - 勉强做；不情愿地给
-        - `to do or give something very unwillingly`
-    - n.
-      - 怨恨，积怨
-        - `a feeling of dislike for someone because you cannot forget that they harmed you in the past`
+    - v. 勉强做；不情愿地给
+      - to do or give something very unwillingly
+    - n. 怨恨，积怨
+      - a feeling of dislike for someone because you cannot forget that they harmed you in the past
   - 记忆
     - 无缘无故让人去做苦工(drudge)， 肯定让人心存怨恨(grudge)
   - 同根词
-    - adj.
-      - `grudging`
-        - 勉强的；吝啬的
+    - adj. grudging 勉强的；吝啬的
   - 近义词
-    - vt.
-      - 怀恨；吝惜；妒忌；不情愿做
-        - `spare`
-        - `begrudge`
-    - n.
-      - 怨恨；恶意；妒忌
-        - `spite`
-        - `hatred`
+    - vt. 怀恨；吝惜；妒忌；不情愿做
+      - spare
+      - begrudge
+    - n. 怨恨；恶意；妒忌
+      - spite
+      - hatred
   - 例句
-    - `Mr Gillis was not normally a man to bear grudges .`
-      - 吉利斯先生通常不是那种会积怨的人。
-    - `I’m not harbouring some secret grudge against you.`
-      - 我没有对你暗地里怀恨在心。
-    - `It could be the work of someone with a grudge against the company.`
-      - 这事可能是某些对公司怀有怨愤的人干的。
-    - `You let nasty little personal grudges creep in.`
-      - 你就由着怨恨的情绪一点一点滋长。
-
+    - Mr Gillis was not normally a man to bear grudges . 吉利斯先生通常不是那种会积怨的人。
+    - I’m not harbouring some secret grudge against you. 我没有对你暗地里怀恨在心。
+    - It could be the work of someone with a grudge against the company. 这事可能是某些对公司怀有怨愤的人干的。
+    - You let nasty little personal grudges creep in. 你就由着怨恨的情绪一点一点滋长。
+  - 补充

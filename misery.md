@@ -1,26 +1,19 @@
 - misery
   - 发音
-    - 英
-      - `/'mɪz(ə)rɪ/`
-    - 美
-      - `/'mɪzəri/`
+    - 英 /'mɪz(ə)rɪ/
+    - 美 /'mɪzəri/
   - 词义
-    - n.
-      - 痛苦,苦恼
-        - `great suffering that is caused for example by being very poor or very sick`
+    - n. 痛苦,苦恼
+      - great suffering that is caused for example by being very poor or very sick
   - 近义词
-    - n.
-      - 痛苦，悲惨；不幸；苦恼；穷困
-        - `smart`
-        - `disaster`
-        - `hurt`
-        - `evil`
-        - `grief`
+    - n. 痛苦，悲惨；不幸；苦恼；穷困
+      - smart
+      - disaster
+      - hurt
+      - evil
+      - grief
   - 例句
-    - `What we are witnessing here is human misery on a vast scale.`
-      - 我们在这里所目睹的情景是许许多多的人都生活困苦。
-    - `the misery of unemployment`
-      - 失业的痛苦
-    - `the miseries of war`
-      - 战争造成的苦难
-
+    - What we are witnessing here is human misery on a vast scale. 我们在这里所目睹的情景是许许多多的人都生活困苦。
+    - the misery of unemployment 失业的痛苦
+    - the miseries of war 战争造成的苦难
+  - 补充

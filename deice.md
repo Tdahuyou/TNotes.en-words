@@ -1,13 +1,9 @@
 - deice
   - 发音
-    - 英
-      - `/undefined/`
-    - 美
-      - `/undefined/`
+    - 英 /undefined/
+    - 美 /undefined/
   - 词义
-    - v.
-      - 防止结冰,装以除冰装置,除冰
+    - v. 防止结冰,装以除冰装置,除冰
   - 同根词
-    - n.
-      - `deicer`
-        - [航] 除冰装置；除冰剂
+    - n. deicer [航] 除冰装置；除冰剂
+  - 补充

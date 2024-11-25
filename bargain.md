@@ -1,75 +1,46 @@
 - bargain
   - 发音
-    - 英
-      - `/'bɑːrgən/`
-    - 美
-      - `/ˈbɑrɡɪn/`
+    - 英 /'bɑːrgən/
+    - 美 /ˈbɑrɡɪn/
   - 词义
-    - vi.
-      - 讨价还价
-        - `to discuss the conditions of a sale, agreement etc, for example to try and get a lower price`
-    - n.
-      - 特价商品，廉价货；协议；交易
-        - `something you buy cheaply or for less than its usual price`
+    - vi. 讨价还价
+      - to discuss the conditions of a sale, agreement etc, for example to try and get a lower price
+    - n. 特价商品，廉价货；协议；交易
+      - something you buy cheaply or for less than its usual price
   - 记忆
     - bar(障碍) + gain(获得) → 高价是得到物品的障碍， 所以要讨价还价 → 讨价还价
   - 同根词
-    - n.
-      - `bargaining`
-        - 讨价还价；交易；交涉
-      - `bargainer`
-        - 交易者；买卖约定者；讨价还价的人
-      - `bargainor`
-        - 卖方；出让人
-    - v.
-      - `bargaining`
-        - 讨价还价；交易（bargain的ing形式）
+    - n. bargaining 讨价还价；交易；交涉
+    - n. bargainer 交易者；买卖约定者；讨价还价的人
+    - n. bargainor 卖方；出让人
+    - v. bargaining 讨价还价；交易（bargain的ing形式）
   - 近义词
-    - n.
-      - 交易；契约；特价商品
-        - `trade`
-        - `special`
-        - `truck`
-        - `compact`
-    - vi.
-      - 讨价还价；成交
-        - `bar tack`
-        - `make a deal`
-    - vt.
-      - 讨价还价；拿…做交易
-        - `bar tack`
+    - n. 交易；契约；特价商品
+      - trade
+      - special
+      - truck
+      - compact
+    - vi. 讨价还价；成交
+      - bar tack
+      - make a deal
+    - vt. 讨价还价；拿…做交易
+      - bar tack
   - 短语
-    - `bargain with`
-      - 讨价还价；与…讨价还价 
-    - `real bargain`
-      - 合算的交易 
-    - `bargain for`
-      - 指望；想以廉价买 
-    - `bargain price`
-      - 廉价 
-    - `good bargain`
-      - 赚钱买卖；便宜货 
-    - `into the bargain`
-      - 再者 
-    - `bargain on`
-      - 成交；商定；指望 
-    - `in the bargain`
-      - 此外；外加 
-    - `no bargain`
-      - [美国口语]不易对付的人 
-    - `bargain hunting`
-      - 逢低买进；趁低吸纳；买便宜货 
-    - `bargain over the price`
-      - 讲价；讨价还价 
-    - `bargain basement`
-      - n. 廉价部 
-    - `bargain away`
-      - 廉价脱手；议价出售 
-    - `bargain hunter`
-      - 四处觅购便宜货的人；杀价购买股票的投机商 
-    - `hard bargain`
-      - 艰苦的谈判；吃亏的买卖 
+    - bargain with 讨价还价；与…讨价还价
+    - real bargain 合算的交易
+    - bargain for 指望；想以廉价买
+    - bargain price 廉价
+    - good bargain 赚钱买卖；便宜货
+    - into the bargain 再者
+    - bargain on 成交；商定；指望
+    - in the bargain 此外；外加
+    - no bargain [美国口语]不易对付的人
+    - bargain hunting 逢低买进；趁低吸纳；买便宜货
+    - bargain over the price 讲价；讨价还价
+    - bargain basement n. 廉价部
+    - bargain away 廉价脱手；议价出售
+    - bargain hunter 四处觅购便宜货的人；杀价购买股票的投机商
+    - hard bargain 艰苦的谈判；吃亏的买卖
   - 例句
-    - `They prefer to bargain with individual clients, for cash.`
-      - 他们更愿意同个人客户洽谈，做现金交易。
-
+    - They prefer to bargain with individual clients, for cash. 他们更愿意同个人客户洽谈，做现金交易。
+  - 补充

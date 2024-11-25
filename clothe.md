@@ -1,41 +1,25 @@
 - clothe
   - 发音
-    - 英
-      - `/kləʊð/`
-    - 美
-      - `/kloð/`
+    - 英 /kləʊð/
+    - 美 /kloð/
   - 词义
-    - v.
-      - 给穿衣,覆盖
-        - `to put clothes on your body`
+    - v. 给穿衣,覆盖
+      - to put clothes on your body
   - 同根词
-    - adj.
-      - `clad`
-        - 穿衣的；覆盖的
-    - n.
-      - `clothing`
-        - （总称）[服装] 服装；帆装
-      - `cladding`
-        - 包层；电镀；喷镀
-    - v.
-      - `clad`
-        - 穿衣（clothe的过去式和过去分词）
-      - `clothing`
-        - 覆盖（clothe的ing形式）；给…穿衣
-      - `cladding`
-        - 穿衣（clad的ing形式）
-    - vt.
-      - `clad`
-        - 在金属外覆以另一种金属
+    - adj. clad 穿衣的；覆盖的
+    - n. clothing （总称）[服装] 服装；帆装
+    - n. cladding 包层；电镀；喷镀
+    - v. clad 穿衣（clothe的过去式和过去分词）
+    - v. clothing 覆盖（clothe的ing形式）；给…穿衣
+    - v. cladding 穿衣（clad的ing形式）
+    - vt. clad 在金属外覆以另一种金属
   - 近义词
-    - vt.
-      - 给…穿衣；覆盖；赋予
-        - `dress`
-        - `invest`
-        - `put`
-        - `house`
-        - `sheet`
+    - vt. 给…穿衣；覆盖；赋予
+      - dress
+      - invest
+      - put
+      - house
+      - sheet
   - 例句
-    - `She was on her own with two kids to feed and clothe.`
-      - 她自己一个人要招呼两个孩子的衣食。
-
+    - She was on her own with two kids to feed and clothe. 她自己一个人要招呼两个孩子的衣食。
+  - 补充

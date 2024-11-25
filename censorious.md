@@ -1,21 +1,16 @@
 - censorious
   - 发音
-    - 英
-      - `/sen'sɔːriəs/`
-    - 美
-      - `/sɛn'sɔrɪəs/`
+    - 英 /sen'sɔːriəs/
+    - 美 /sɛn'sɔrɪəs/
   - 词义
-    - adj.
-      - 爱批判的，挑剔的
-        - `criticizing and expressing disapproval`
+    - adj. 爱批判的，挑剔的
+      - criticizing and expressing disapproval
   - 记忆
     - 来自censor (vt. 检查， 审查)
   - 近义词
-    - adj.
-      - 挑剔的；受批判的（名词censoriousness，副词censoriously）
-        - `particular`
-        - `picky`
+    - adj. 挑剔的；受批判的（名词censoriousness，副词censoriously）
+      - particular
+      - picky
   - 例句
-    - `His tone was censorious.`
-      - 他语气苛刻。
-
+    - His tone was censorious. 他语气苛刻。
+  - 补充

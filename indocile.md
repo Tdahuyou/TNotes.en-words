@@ -1,19 +1,14 @@
 - indocile
   - 发音
-    - 英
-      - `/ɪn'dəʊsaɪl/`
-    - 美
-      - `/in'dəusail/`
+    - 英 /ɪn'dəʊsaɪl/
+    - 美 /in'dəusail/
   - 词义
-    - adj.
-      - 难驯服的
-        - `difficult to discipline or instruct `
+    - adj. 难驯服的
+      - difficult to discipline or instruct 
   - 近义词
-    - adj.
-      - 不顺从的；不听话的；难教的
-        - `insubordinate`
-        - `undutiful`
+    - adj. 不顺从的；不听话的；难教的
+      - insubordinate
+      - undutiful
   - 例句
-    - `The student of average middle school is really indocile !`
-      - 普通中学的学生真难教啊！
-
+    - The student of average middle school is really indocile ! 普通中学的学生真难教啊！
+  - 补充

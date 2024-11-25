@@ -1,28 +1,19 @@
 - diabolical
   - 发音
-    - 英
-      - `/ˌdaiə'bɔlikəl/`
-    - 美
-      - `/'daiə'bɔlik / -kəl/`
+    - 英 /ˌdaiə'bɔlikəl/
+    - 美 /'daiə'bɔlik / -kəl/
   - 词义
-    - adj.
-      - 恶魔的
-        - `evil or cruel`
+    - adj. 恶魔的
+      - evil or cruel
   - 记忆
     - 废止 (abolish) 恶魔似的 (diabolical) 条款
   - 同根词
-    - adj.
-      - `diabolic`
-        - 残忍的；魔鬼似的；恶魔的
-    - adv.
-      - `diabolically`
-        - 恶魔般地；非常恼人地
+    - adj. diabolic 残忍的；魔鬼似的；恶魔的
+    - adv. diabolically 恶魔般地；非常恼人地
   - 近义词
-    - adj.
-      - 恶魔的
-        - `demonic`
-        - `infernal`
+    - adj. 恶魔的
+      - demonic
+      - infernal
   - 例句
-    - `diabolical abuse`
-      - 残酷的虐待
-
+    - diabolical abuse 残酷的虐待
+  - 补充

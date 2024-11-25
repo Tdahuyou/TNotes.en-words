@@ -1,32 +1,19 @@
 - somewhat
   - 发音
-    - 英
-      - `/'sʌmwʌt/`
-    - 美
-      - `/'sʌmwʌt/`
+    - 英 /'sʌmwʌt/
+    - 美 /'sʌmwʌt/
   - 词义
-    - adv.
-      - 稍微，有点
-        - `more than a little but not very`
+    - adv. 稍微，有点
+      - more than a little but not very
   - 同根词
-    - adj.
-      - `something`
-        - 大约；有点象
-    - adv.
-      - `something`
-        - 非常；有点；大约
-    - n.
-      - `something`
-        - 重要的人；值得重视的事
-    - pron.
-      - `something`
-        - 某事；某物
+    - adj. something 大约；有点象
+    - adv. something 非常；有点；大约
+    - n. something 重要的人；值得重视的事
+    - pron. something 某事；某物
   - 近义词
-    - adv.
-      - 有点；多少；几分；稍微
-        - `how`
-        - `any`
+    - adv. 有点；多少；几分；稍微
+      - how
+      - any
   - 例句
-    - `Things have changed somewhat since then.`
-      - 从那时候起，情况就有些不一样了。
-
+    - Things have changed somewhat since then. 从那时候起，情况就有些不一样了。
+  - 补充

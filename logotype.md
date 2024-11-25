@@ -1,20 +1,15 @@
 - logotype
   - 发音
-    - 英
-      - `/'lɒgə(ʊ)taɪp/`
-    - 美
-      - `/'lɔɡotaɪp/`
+    - 英 /'lɔgotaɪp/
+    - 美 /'lɔɡotaɪp/
   - 词义
-    - n.
-      - 连合活字；标识；商标
-        - `a piece of type with several uncombined characters cast on it `
+    - n. 标志
   - 近义词
-    - n.
-      - 连合活字；标识；商标
-        - `brand`
-        - `label`
-        - `identifying`
+    - n. 连合活字；标识；商标
+      - brand
+      - label
+      - identifying
   - 例句
-    - `Some identifiers are hybrid, or combinations of symbol and logotype.`
-      - 有些标识是杂交，或符号和标识的组合。
-
+    - Watercolor countryside house logotype. 水彩农村房子标识。
+    - Neutral and simple logotype was designed based on SNG font system. 基于SNG字体系统而设计的文字标志显得尤为中性简洁。
+  - 补充

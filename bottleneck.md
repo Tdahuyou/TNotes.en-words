@@ -1,22 +1,16 @@
 - bottleneck
   - 发音
-    - 英
-      - `/'bɒt(ə)lnek/`
-    - 美
-      - `/'bɑtlnɛk/`
+    - 英 /'bɒt(ə)lnek/
+    - 美 /'bɑtlnɛk/
   - 词义
-    - n.
-      - 瓶颈；障碍物
-        - `a place in a road where the traffic cannot pass easily, so that there are a lot of delays`
+    - n. 瓶颈；障碍物
+      - a place in a road where the traffic cannot pass easily, so that there are a lot of delays
   - 近义词
-    - n.
-      - [包装]瓶颈；障碍物
-        - `barrier`
-        - `block`
+    - n. [包装]瓶颈；障碍物
+      - barrier
+      - block
   - 短语
-    - `bottleneck problem`
-      - 瓶颈问题 
+    - bottleneck problem 瓶颈问题
   - 例句
-    - `Understaffing has caused a real bottleneck.`
-      - 人手不足严重妨碍了整个进度。
-
+    - Understaffing has caused a real bottleneck. 人手不足严重妨碍了整个进度。
+  - 补充

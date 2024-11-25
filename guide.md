@@ -1,76 +1,43 @@
 - guide
   - 发音
-    - 英
-      - `/gaɪd/`
-    - 美
-      - `/ɡaɪd/`
+    - 英 /gaɪd/
+    - 美 /ɡaɪd/
   - 词义
-    - n.
-      - 导游
-        - `something that provides information and helps you to form an opinion or make a decision`
+    - n. 导游
+      - something that provides information and helps you to form an opinion or make a decision
   - 同根词
-    - adj.
-      - `guided`
-        - 有指导的；有向导的
-    - n.
-      - `guidance`
-        - 指导，引导；领导
-    - v.
-      - `guided`
-        - 指导（guide的过去分词）
+    - adj. guided 有指导的；有向导的
+    - n. guidance 指导，引导；领导
+    - v. guided 指导（guide的过去分词）
   - 近义词
-    - n.
-      - 指南；向导；入门书
-        - `manual`
-        - `enchiridion`
-    - vt.
-      - [计]引导；带领；操纵
-        - `aim`
-        - `man`
+    - n. 指南；向导；入门书
+      - manual
+      - enchiridion
+    - vt. [计]引导；带领；操纵
+      - aim
+      - man
   - 短语
-    - `tour guide`
-      - 导游人员 
-    - `guide line`
-      - 准则；指导路线 
-    - `guide rail`
-      - 导轨；导杆 
-    - `tourist guide`
-      - 导游 
-    - `guide plate`
-      - 导流板 
-    - `guide vane`
-      - 导流叶片；导向叶片 
-    - `practical guide`
-      - 实用向导；实用手册 
-    - `wave guide`
-      - 波导，波导器 
-    - `light guide`
-      - 导光管；光波导；光导纤维 
-    - `guide book`
-      - 指南，参考手册；指导手册 
-    - `user guide`
-      - 用户指南；使用手册 
-    - `guide roller`
-      - 导辊；导轮 
-    - `guide dog`
-      - 导盲犬 
-    - `guide way`
-      - 导轨；导向体；导向槽 
-    - `guide pin`
-      - 导销，定位销 
-    - `guide sleeve`
-      - 导向套，导向轴套；导套 
-    - `guide roll`
-      - 导辊，导向辊；校正辊；导滚 
-    - `as a rough guide`
-      - 略示其意，作为大体上的示意 
-    - `guide wire`
-      - 尺度索，准绳；导纱钩；导丝钩 
-    - `tv guide`
-      - 电视指南（美国知名的电视类刊物） 
+    - tour guide 导游人员
+    - guide line 准则；指导路线
+    - guide rail 导轨；导杆
+    - tourist guide 导游
+    - guide plate 导流板
+    - guide vane 导流叶片；导向叶片
+    - practical guide 实用向导；实用手册
+    - wave guide 波导，波导器
+    - light guide 导光管；光波导；光导纤维
+    - guide book 指南，参考手册；指导手册
+    - user guide 用户指南；使用手册
+    - guide roller 导辊；导轮
+    - guide dog 导盲犬
+    - guide way 导轨；导向体；导向槽
+    - guide pin 导销，定位销
+    - guide sleeve 导向套，导向轴套；导套
+    - guide roll 导辊，导向辊；校正辊；导滚
+    - as a rough guide 略示其意，作为大体上的示意
+    - guide wire 尺度索，准绳；导纱钩；导丝钩
+    - tv guide 电视指南（美国知名的电视类刊物）
   - 例句
-    - `The polls are not a reliable guide of how people will vote.`
-      - 根据这些民意测验来判断人们将如何投票并不可靠。
-    - `The figures are only a rough guide .`
-      - 这些数据只是一个大致的参考。
-
+    - The polls are not a reliable guide of how people will vote. 根据这些民意测验来判断人们将如何投票并不可靠。
+    - The figures are only a rough guide . 这些数据只是一个大致的参考。
+  - 补充

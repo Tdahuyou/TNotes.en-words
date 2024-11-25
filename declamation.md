@@ -1,18 +1,13 @@
 - declamation
   - 发音
-    - 英
-      - `/deklə'meɪʃ(ə)n/`
-    - 美
-      - `/'dɛklə'meʃən/`
+    - 英 /deklə'meɪʃ(ə)n/
+    - 美 /'dɛklə'meʃən/
   - 词义
-    - n.
-      - 雄辨
+    - n. 雄辨
   - 同根词
-    - adj.
-      - `declamatory`
-        - 朗读式的；雄辩家式的；慷慨激昂的
+    - adj. declamatory 朗读式的；雄辩家式的；慷慨激昂的
   - 近义词
-    - n.
-      - 雄辩；朗诵
-        - `oratory`
-        - `eloquence`
+    - n. 雄辩；朗诵
+      - oratory
+      - eloquence
+  - 补充

@@ -1,35 +1,24 @@
 - cogitate
   - 发音
-    - 英
-      - `/'kɔdʒiteit/`
-    - 美
-      - `/'kɔdʒiteit/`
+    - 英 /'kɔdʒiteit/
+    - 美 /'kɔdʒiteit/
   - 词义
-    - v.
-      - 思考，考虑
-        - `to think carefully and seriously about something`
+    - v. 思考，考虑
+      - to think carefully and seriously about something
   - 记忆
     - 和irritate (v. 激怒) 一起记
   - 同根词
-    - adj.
-      - `cogitable`
-        - 可以思考的；可由思考而得的
-      - `cogitative`
-        - 深思熟虑的；有思考力的
-    - n.
-      - `cogitation`
-        - 深思；思考
+    - adj. cogitable 可以思考的；可由思考而得的
+    - adj. cogitative 深思熟虑的；有思考力的
+    - n. cogitation 深思；思考
   - 近义词
-    - vt.
-      - 仔细考虑；谋划
-        - `mull over`
-        - `reflect on`
-    - vi.
-      - 思考；考虑
-        - `allow`
-        - `think of`
-        - `think about`
+    - vt. 仔细考虑；谋划
+      - mull over
+      - reflect on
+    - vi. 思考；考虑
+      - allow
+      - think of
+      - think about
   - 例句
-    - `He sat silently cogitating.`
-      - 他静坐深思。
-
+    - He sat silently cogitating. 他静坐深思。
+  - 补充

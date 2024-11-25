@@ -1,23 +1,16 @@
 - fetus
   - 发音
-    - 英
-      - `/'fiːtəs/`
-    - 美
-      - `/'fitəs/`
+    - 英 /'fiːtəs/
+    - 美 /'fitəs/
   - 词义
-    - n.
-      - 胎儿
-        - `A fetus is an animal or human being in its later stages of development before it is born`
+    - n. 胎儿
+      - A fetus is an animal or human being in its later stages of development before it is born
   - 同根词
-    - n.
-      - `fetology`
-        - 胎儿学
+    - n. fetology 胎儿学
   - 近义词
-    - n.
-      - 胎儿，胎
-        - `foetus`
-        - `homunculi`
+    - n. 胎儿，胎
+      - foetus
+      - homunculi
   - 例句
-    - `Pregnant women who are heavy drinkers risk damaging the unborn fetus.`
-      - 酗酒的孕妇冒有伤害胎儿的危险。
-
+    - Pregnant women who are heavy drinkers risk damaging the unborn fetus. 酗酒的孕妇冒有伤害胎儿的危险。
+  - 补充

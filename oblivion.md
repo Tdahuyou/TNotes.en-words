@@ -1,25 +1,18 @@
 - oblivion
   - 发音
-    - 英
-      - `/ə'bliviən/`
-    - 美
-      - `/ə'bliviən, ɔ-/`
+    - 英 /ə'bliviən/
+    - 美 /ə'bliviən, ɔ-/
   - 词义
-    - n.
-      - 遗忘
-        - `when something is completely forgotten or no longer important`
+    - n. 遗忘
+      - when something is completely forgotten or no longer important
   - 记忆
     - ob (离开) + liv (活) + ion → 不再存活的东西被遗忘了 → 遗忘
   - 同根词
-    - adj.
-      - `oblivious`
-        - 遗忘的；健忘的；不注意的；不知道的
+    - adj. oblivious 遗忘的；健忘的；不注意的；不知道的
   - 近义词
-    - n.
-      - 遗忘；湮没；赦免
-        - `misplacement`
-        - `absolution`
+    - n. 遗忘；湮没；赦免
+      - misplacement
+      - absolution
   - 例句
-    - `The loser’s name has been consigned to oblivion (= completely forgotten ).`
-      - 失败者的姓名已湮没无闻。
-
+    - The loser’s name has been consigned to oblivion (= completely forgotten ). 失败者的姓名已湮没无闻。
+  - 补充

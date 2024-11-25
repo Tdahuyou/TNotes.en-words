@@ -1,16 +1,13 @@
 - inappreciable
   - 发音
-    - 英
-      - `/ˌɪnə'priːʃəbl/`
-    - 美
-      - `/,ɪnə'priʃɪəbl/`
+    - 英 /ˌɪnə'priːʃəbl/
+    - 美 /,ɪnə'priʃɪəbl/
   - 词义
-    - adj.
-      - 微不足道的
+    - adj. 微不足道的
   - 记忆
     - in(不) + ap + preci(价值) + able(能…的) → 没有价值的 → 微不足道的
   - 近义词
-    - adj.
-      - 微不足道的
-        - `bit`
-        - `negligible`
+    - adj. 微不足道的
+      - bit
+      - negligible
+  - 补充

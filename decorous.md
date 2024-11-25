@@ -1,28 +1,20 @@
 - decorous
   - 发音
-    - 英
-      - `/'dekərəs/`
-    - 美
-      - `/'dɛkərəs/`
+    - 英 /'dekərəs/
+    - 美 /'dɛkərəs/
   - 词义
-    - adj.
-      - 有礼貌的
+    - adj. 有礼貌的
   - 记忆
     - 来自decor (装饰) + ous → 经过装饰的 → 有礼貌的
   - 同根词
-    - adv.
-      - `decorously`
-        - 有礼貌地；高雅地
-    - n.
-      - `decorum`
-        - 礼仪；礼貌；端正；恪守礼仪
-      - `decorousness`
-        - 端正；有礼
+    - adv. decorously 有礼貌地；高雅地
+    - n. decorum 礼仪；礼貌；端正；恪守礼仪
+    - n. decorousness 端正；有礼
   - 近义词
-    - adj.
-      - 有礼貌的，高雅的；端正的
-        - `elegant`
-        - `civil`
-        - `polite`
-        - `correct`
-        - `exquisite`
+    - adj. 有礼貌的，高雅的；端正的
+      - elegant
+      - civil
+      - polite
+      - correct
+      - exquisite
+  - 补充

@@ -1,10 +1,8 @@
 - salmonberry
   - 发音
-    - 英
-      - `/'sæmənberɪ/`
-    - 美
-      - `/'sæmənbɛri/`
+    - 英 /'sæmənberɪ/
+    - 美 /'sæmənbɛri/
   - 词义
-    - n.
-      - 美洲大树莓
-        - `a spineless raspberry bush, Rubus spectabilis, of North America, having reddish-purple flowers and large red or yellow edible fruits `
+    - n. 美洲大树莓
+      - a spineless raspberry bush, Rubus spectabilis, of North America, having reddish-purple flowers and large red or yellow edible fruits 
+  - 补充

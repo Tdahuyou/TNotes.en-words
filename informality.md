@@ -1,20 +1,13 @@
 - informality
   - 发音
-    - 英
-      - `/ˌɪnfɔːr'mæləti/`
-    - 美
-      - `/ɪnfɔr'mæləti/`
+    - 英 /ˌɪnfɔːr'mæləti/
+    - 美 /ɪnfɔr'mæləti/
   - 词义
-    - n.
-      - 非正式，不拘礼节
+    - n. 非正式，不拘礼节
   - 同根词
-    - adj.
-      - `informal`
-        - 非正式的；不拘礼节的；通俗的；日常使用的
-    - adv.
-      - `informally`
-        - 非正式地；不拘礼节地
+    - adj. informal 非正式的；不拘礼节的；通俗的；日常使用的
+    - adv. informally 非正式地；不拘礼节地
   - 近义词
-    - n.
-      - 非正式；不拘礼节
-        - `without ceremony`
+    - n. 非正式；不拘礼节
+      - without ceremony
+  - 补充

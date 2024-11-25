@@ -1,19 +1,14 @@
 - tergiversate
   - 发音
-    - 英
-      - `/'tɜːdʒɪvə,seɪt; -'vɜːseɪt/`
-    - 美
-      - `/undefined/`
+    - 英 /'tɜːdʒɪvə,seɪt; -'vɜːseɪt/
+    - 美 /undefined/
   - 词义
-    - v.
-      - 推托,背叛,自相矛盾
-        - `to change sides or loyalties; apostatize `
+    - v. 推托,背叛,自相矛盾
+      - to change sides or loyalties; apostatize 
   - 同根词
-    - n.
-      - `tergiversation`
-        - 背叛；变节；推脱
+    - n. tergiversation 背叛；变节；推脱
   - 近义词
-    - vi.
-      - 背叛；搪塞
-        - `turn one's coat`
-        - `fence with`
+    - vi. 背叛；搪塞
+      - turn one's coat
+      - fence with
+  - 补充

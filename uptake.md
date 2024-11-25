@@ -1,19 +1,14 @@
 - uptake
   - 发音
-    - 英
-      - `/'ʌpteɪk/`
-    - 美
-      - `/'ʌptek/`
+    - 英 /'ʌpteɪk/
+    - 美 /'ʌptek/
   - 词义
-    - n.
-      - 举起
+    - n. 举起
   - 近义词
-    - n.
-      - 摄取；领会；举起
-        - `up with`
-        - `lift`
+    - n. 摄取；领会；举起
+      - up with
+      - lift
   - 短语
-    - `water uptake`
-      - 水吸收 
-    - `oxygen uptake`
-      - 耗氧量，摄氧；摄氧量 
+    - water uptake 水吸收
+    - oxygen uptake 耗氧量，摄氧；摄氧量
+  - 补充

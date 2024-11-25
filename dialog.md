@@ -1,24 +1,16 @@
 - dialog
   - 发音
-    - 英
-      - `/'daɪəlɒɡ/`
-    - 美
-      - `/'daɪə,lɑg/`
+    - 英 /'daɪəlɒɡ/
+    - 美 /'daɪə,lɑg/
   - 词义
-    - n.
-      - (dialogue)对话,对白
-        - `a conversation in a book, play, or film`
+    - n. (ue)对话,对白
   - 近义词
-    - n.
-      - 对话；会话
-        - `conversation`
-        - `sesion`
+    - n. 对话；会话
+      - conversation
+      - sesion
   - 短语
-    - `dialog box`
-      - [计]对话框，对话窗口 
+    - dialog box [计]对话框，对话窗口
   - 例句
-    - `a boring movie full of bad dialog`
-      - 充满差劲对白的乏味电影
-    - `Students were asked to read simple dialogs out loud.`
-      - 学生被要求大声朗读简单的对话。
-
+    - In this dialog, you can only open an artifact in the editor. 在这个对话框中，您只可以在编辑器中打开一个工件。
+    - For other pages/dialogs, it should go back one page or close the dialog. 至于其他页面/对话框，它应该回退一个页面或者关闭对话框。
+  - 补充

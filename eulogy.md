@@ -1,31 +1,19 @@
 - eulogy
   - 发音
-    - 英
-      - `/'juːlədʒɪ/`
-    - 美
-      - `/'jʊlədʒi/`
+    - 英 /'juːlədʒɪ/
+    - 美 /'jʊlədʒi/
   - 词义
-    - n.
-      - 悼词；颂词；颂扬；赞词
-        - `a speech or piece of writing in which you praise someone or something very much, especially at a funeral`
+    - n. 悼词；颂词；颂扬；赞词
+      - a speech or piece of writing in which you praise someone or something very much, especially at a funeral
   - 同根词
-    - adj.
-      - `eulogistic`
-        - 颂扬的；歌功颂德的
-    - n.
-      - `eulogist`
-        - 赞颂者；作颂词者
-    - vt.
-      - `eulogize`
-        - 颂扬；称赞
-      - `eulogise`
-        - （英）颂扬；赞扬（等于eulogize）
+    - adj. eulogistic 颂扬的；歌功颂德的
+    - n. eulogist 赞颂者；作颂词者
+    - vt. eulogize 颂扬；称赞
+    - vt. eulogise （英）颂扬；赞扬（等于eulogize）
   - 近义词
-    - n.
-      - 悼词；颂词；颂扬；赞词
-        - `celebration`
-        - `tribute`
+    - n. 悼词；颂词；颂扬；赞词
+      - celebration
+      - tribute
   - 例句
-    - `The minister delivered a long eulogy.`
-      - 部长致长篇悼词。
-
+    - The minister delivered a long eulogy. 部长致长篇悼词。
+  - 补充

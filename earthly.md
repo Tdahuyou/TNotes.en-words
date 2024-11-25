@@ -1,31 +1,21 @@
 - earthly
   - 发音
-    - 英
-      - `/'ɜːθlɪ/`
-    - 美
-      - `/'ɝθli/`
+    - 英 /'ɜːθlɪ/
+    - 美 /'ɝθli/
   - 词义
-    - adj.
-      - 地球的；尘世的；可能的
-        - `connected with life on Earth rather than in heaven`
+    - adj. 地球的；尘世的；可能的
+      - connected with life on Earth rather than in heaven
   - 同根词
-    - n.
-      - `earth`
-        - 地球；陆地；泥土；尘世；[电] 地线
+    - n. earth 地球；陆地；泥土；尘世；[电] 地线
   - 近义词
-    - adj.
-      - 地球的；尘世的；可能的
-        - `feasible`
-        - `possible`
-        - `potential`
+    - adj. 地球的；尘世的；可能的
+      - feasible
+      - possible
+      - potential
   - 短语
-    - `on earthly`
-      - [口语] 
-    - `earthly paradise`
-      - 地上乐园，人间天堂 
+    - on earthly [口语]
+    - earthly paradise 地上乐园，人间天堂
   - 例句
-    - `our earthly pleasures`
-      - 我们尘世间的欢乐
-    - `an earthly paradise`
-      - 人间乐园
-
+    - our earthly pleasures 我们尘世间的欢乐
+    - an earthly paradise 人间乐园
+  - 补充

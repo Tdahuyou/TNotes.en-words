@@ -1,46 +1,31 @@
 - incorporate
   - 发音
-    - 英
-      - `/ɪn'kɔːrpəreɪt/`
-    - 美
-      - `/undefined/`
+    - 英 /ɪn'kɔːrpəreɪt/
+    - 美 /undefined/
   - 词义
-    - vt.
-      - 纳入，合并；包含；吸收；注册成立
-        - `to include something as part of a group, system, plan etc`
+    - vt. 纳入，合并；包含；吸收；注册成立
+      - to include something as part of a group, system, plan etc
   - 记忆
     - in(进入) + corp(身体) + or + ate → 进入身体成为一部分 → 纳入； 吸收
   - 同根词
-    - adj.
-      - `incorporated`
-        - 合并的；组成法人组织的
-      - `incorporative`
-        - 有结合倾向的；合并的
-    - n.
-      - `incorporation`
-        - 公司；合并，编入；团体组织
-    - v.
-      - `incorporated`
-        - 合并；包含；组成公司（incorporate的过去分词）
+    - adj. incorporated 合并的；组成法人组织的
+    - adj. incorporative 有结合倾向的；合并的
+    - n. incorporation 公司；合并，编入；团体组织
+    - v. incorporated 合并；包含；组成公司（incorporate的过去分词）
   - 近义词
-    - vt.
-      - 包含，吸收；体现；把……合并
-        - `involve`
-        - `contain`
-        - `absorb`
-        - `comprise`
-    - vi.
-      - 合并；混合；组成公司
-        - `merge`
-        - `mix together`
-    - adj.
-      - 合并的；一体化的；组成公司的
-        - `amalgamative`
-        - `pooled`
+    - vt. 包含，吸收；体现；把……合并
+      - involve
+      - contain
+      - absorb
+      - comprise
+    - vi. 合并；混合；组成公司
+      - merge
+      - mix together
+    - adj. 合并的；一体化的；组成公司的
+      - amalgamative
+      - pooled
   - 短语
-    - `incorporate with`
-      - 合并；混合 
+    - incorporate with 合并；混合
   - 例句
-    - `The new cars will incorporate a number of major improvements.`
-      - 这种新型汽车将包含许多重大的改进。
-
+    - The new cars will incorporate a number of major improvements. 这种新型汽车将包含许多重大的改进。
+  - 补充

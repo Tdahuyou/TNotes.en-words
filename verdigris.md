@@ -1,15 +1,12 @@
 - verdigris
   - 发音
-    - 英
-      - `/'vɜːdɪgriː; -griːs/`
-    - 美
-      - `/'vɝdɪɡri/`
+    - 英 /'vɜːdɪgriː; -griːs/
+    - 美 /'vɝdɪɡri/
   - 词义
-    - n.
-      - 铜绿,碱性碳酸铜,碱性醋酸铜
-        - `a greenish-blue substance that sometimes appears on copper or brass`
+    - n. 铜绿,碱性碳酸铜,碱性醋酸铜
+      - a greenish-blue substance that sometimes appears on copper or brass
   - 近义词
-    - n.
-      - [有化]铜锈，[材]铜绿；碱式碳酸铜
-        - `patina`
-        - `aerugo`
+    - n. [有化]铜锈，[材]铜绿；碱式碳酸铜
+      - patina
+      - aerugo
+  - 补充

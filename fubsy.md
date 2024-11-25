@@ -1,16 +1,13 @@
 - fubsy
   - 发音
-    - 英
-      - `/'fʌbzɪ/`
-    - 美
-      - `/'fʌbzi/`
+    - 英 /'fʌbzɪ/
+    - 美 /'fʌbzi/
   - 词义
-    - adj.
-      - 肥胖的,矮胖的
-        - `short and stout; squat `
+    - adj. 肥胖的,矮胖的
+      - short and stout; squat 
   - 近义词
-    - adj.
-      - 肥胖的；矮胖的
-        - `round`
-        - `obese`
-        - `fatty`
+    - adj. 肥胖的；矮胖的
+      - round
+      - obese
+      - fatty
+  - 补充

@@ -1,15 +1,9 @@
 - nonbiodegradable
   - 发音
-    - 英
-      - `/undefined/`
-    - 美
-      - `/undefined/`
+    - 英 /'nɔnˌbaɪəudɪ'greɪdəbl/
+    - 美 /undefined/
   - 词义
-    - adj.
-      - 非生物降解的；不能生物降解的
+    - adj. 不能生物降解的
   - 记忆
     - non(不) + bio(生物) + degradable(可降解) → 不能生物降解的
-  - 例句
-    - `Disposal of nonbiodegradable waste is a primary source of pollution.`
-      - 对非生物降解物的处理是污染的主要来源。
-
+  - 补充

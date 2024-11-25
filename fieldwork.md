@@ -1,17 +1,11 @@
 - fieldwork
   - 发音
-    - 英
-      - `/'fiːldwɜːk/`
-    - 美
-      - `/'fild'wɝk/`
+    - 英 /'fiːldwɜːk/
+    - 美 /'fild'wɝk/
   - 词义
-    - n.
-      - 野外工作；现场工作；野战工事
+    - n. 野外工作；现场工作；野战工事
   - 同根词
-    - n.
-      - `fieldworker`
-        - 实地考察工作者
+    - n. fieldworker 实地考察工作者
   - 例句
-    - `...anthropological fieldwork.`
-      - ...人类学实地考察。
-
+    - ...anthropological fieldwork. ...人类学实地考察。
+  - 补充

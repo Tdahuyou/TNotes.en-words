@@ -1,27 +1,19 @@
 - misdirect
   - 发音
-    - 英
-      - `/ˌmɪsdə'rekt/`
-    - 美
-      - `/,mɪsdə'rɛkt/`
+    - 英 /ˌmɪsdə'rekt/
+    - 美 /,mɪsdə'rɛkt/
   - 词义
-    - v.
-      - 误导
-        - `to use your effort, energy, abilities etc on doing the wrong thing`
+    - v. 误导
+      - to use your effort, energy, abilities etc on doing the wrong thing
   - 记忆
     - mis(坏) + direct(指导) → 坏的指导 → 误导
   - 同根词
-    - n.
-      - `misdirection`
-        - 指示错误，指导错误；写错信封地址
+    - n. misdirection 指示错误，指导错误；写错信封地址
   - 近义词
-    - vt.
-      - 误导；写错地址
-        - `mislead`
-        - `misguide`
+    - vt. 误导；写错地址
+      - mislead
+      - misguide
   - 例句
-    - `Without well-defined goals, it is likely that efforts will be misdirected.`
-      - 没有明确的目标，努力很可能白费。
-    - `Their criticism is misdirected.`
-      - 他们批错了对象。
-
+    - Without well-defined goals, it is likely that efforts will be misdirected. 没有明确的目标，努力很可能白费。
+    - Their criticism is misdirected. 他们批错了对象。
+  - 补充

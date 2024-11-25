@@ -1,21 +1,17 @@
 - careen
   - 发音
-    - 英
-      - `/kə'riːn/`
-    - 美
-      - `/kə'rin/`
+    - 英 /kə'riːn/
+    - 美 /kə'rin/
   - 词义
-    - v.
-      - 倾斜；使倾斜
+    - v. 倾斜；使倾斜
   - 记忆
     - 船倾斜(careen)了， 但船家并不在意(care)
   - 近义词
-    - vi.
-      - 倾侧，倾斜
-        - `pitch`
-        - `slope`
-        - `lean`
-    - vt.
-      - 使倾侧，使倾斜
-        - `slope`
-        - `lean`
+    - vi. 倾侧，倾斜
+      - pitch
+      - slope
+      - lean
+    - vt. 使倾侧，使倾斜
+      - slope
+      - lean
+  - 补充

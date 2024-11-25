@@ -1,27 +1,19 @@
 - adjourn
   - 发音
-    - 英
-      - `/ə'dʒɜːn/`
-    - 美
-      - `/ə'dʒɝn/`
+    - 英 /ə'dʒɜːn/
+    - 美 /ə'dʒɝn/
   - 词义
-    - v.
-      - 休会；延期；换地方
-        - `to finish an activity and go somewhere – often used humorously`
+    - v. 休会；延期；换地方
+      - to finish an activity and go somewhere – often used humorously
   - 同根词
-    - n.
-      - `adjournment`
-        - 休会，延期；休会期间
+    - n. adjournment 休会，延期；休会期间
   - 近义词
-    - vi.
-      - 休会；延期；换地方
-        - `delay`
-        - `hold over`
-    - vt.
-      - 推迟；使…中止；使…延期
-        - `wait`
-        - `phase back`
+    - vi. 休会；延期；换地方
+      - delay
+      - hold over
+    - vt. 推迟；使…中止；使…延期
+      - wait
+      - phase back
   - 例句
-    - `The rest of us adjourned to a nearby pub for some refreshments.`
-      - 我们其他人转移阵地，去了附近酒吧吃点心。
-
+    - The rest of us adjourned to a nearby pub for some refreshments. 我们其他人转移阵地，去了附近酒吧吃点心。
+  - 补充

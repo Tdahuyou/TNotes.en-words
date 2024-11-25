@@ -1,28 +1,17 @@
 - fearlessly
   - 发音
-    - 英
-      - `/'fɪələslɪ/`
-    - 美
-      - `/'fiəlisli/`
+    - 英 /'fɪələslɪ/
+    - 美 /'fiəlisli/
   - 词义
-    - adv.
-      - 无畏地，大胆地
-        - `With a lack of fear.`
+    - adv. 无畏地，大胆地
   - 同根词
-    - adj.
-      - `fearless`
-        - 无畏的；大胆的
-      - `fearsome`
-        - 可怕的；害怕的；极大的
-    - n.
-      - `fearlessness`
-        - 无畏；勇敢
+    - adj. fearless 无畏的；大胆的
+    - adj. fearsome 可怕的；害怕的；极大的
+    - n. fearlessness 无畏；勇敢
   - 近义词
-    - adv.
-      - 勇敢地；大胆地
-        - `bravely`
-        - `courageously`
+    - adv. 勇敢地；大胆地
+      - bravely
+      - courageously
   - 例句
-    - `He gazed fearlessly at the gunman.`
-      - 他毫不畏惧地注视着那枪手。
-
+    - He used color fearlessly--they were part of his stories, and an integral part of models' makeup, which was often key in completing the worlds McQueen envisioned. 他大胆地用着用着色彩——这是他的故事的组成部分，也是模特不可分割的组成部分，而这常是麦昆预想的世界的关键组成部分。
+  - 补充

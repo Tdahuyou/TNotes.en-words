@@ -1,22 +1,15 @@
 - climactic
   - 发音
-    - 英
-      - `/klaɪ'mæktɪk/`
-    - 美
-      - `/klaɪ'mæktɪk/`
+    - 英 /klaɪ'mæktɪk/
+    - 美 /klaɪ'mæktɪk/
   - 词义
-    - adj.
-      - 高潮的；顶点的；渐层法的
-        - `forming a very exciting or important part of an event or story, especially near the end of it`
+    - adj. 高潮的；顶点的；渐层法的
+      - forming a very exciting or important part of an event or story, especially near the end of it
   - 同根词
-    - n.
-      - `climax`
-        - 高潮；顶点；层进法；极点
+    - n. climax 高潮；顶点；层进法；极点
   - 近义词
-    - adj.
-      - 高潮的；顶点的；渐层法的
-        - `vertical`
+    - adj. 高潮的；顶点的；渐层法的
+      - vertical
   - 例句
-    - `a climactic moment`
-      - 高潮时刻
-
+    - a climactic moment 高潮时刻
+  - 补充

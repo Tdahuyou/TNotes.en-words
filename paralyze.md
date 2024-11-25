@@ -1,33 +1,20 @@
 - paralyze
   - 发音
-    - 英
-      - `/'pærəlaɪz/`
-    - 美
-      - `/'pærə,laɪz/`
+    - 英 /'pærəlaɪz/
+    - 美 /'pærə,laɪz/
   - 词义
-    - vt.
-      - 使瘫痪，使麻痹；使无效
+    - vt. 使瘫痪，使麻痹；使无效
   - 记忆
     - para(半) + lyz(分开) + e → 身体的一边像是分开了 → 使瘫痪， 使麻痹
   - 同根词
-    - adj.
-      - `paralyzed`
-        - 瘫痪的；麻痹的
-      - `paralytic`
-        - 麻痹的；瘫痪的；中风的
-    - n.
-      - `paralysis`
-        - 麻痹；无力；停顿
-      - `paralytic`
-        - 中风患者；麻痹患者
-    - v.
-      - `paralyzed`
-        - 使麻痹；使无力；使失去勇气（paralyze的过去分词）
+    - adj. paralyzed 瘫痪的；麻痹的
+    - adj. paralytic 麻痹的；瘫痪的；中风的
+    - n. paralysis 麻痹；无力；停顿
+    - n. paralytic 中风患者；麻痹患者
+    - v. paralyzed 使麻痹；使无力；使失去勇气（paralyze的过去分词）
   - 近义词
-    - vt.
-      - 使麻痹；使瘫痪
-        - `anesthetize`
+    - vt. 使麻痹；使瘫痪
+      - anesthetize
   - 例句
-    - `It might paralyze me, cause me to forget what I am here for, create so much pain I am distracted, or render me incapable in some other way.`
-      - 它大概会使我瘫痪，使我忘记我到这里来的目的，使我感到极度痛苦，无法集中意念，或者以其他方式使我丧失能力。
-
+    - It might paralyze me, cause me to forget what I am here for, create so much pain I am distracted, or render me incapable in some other way. 它大概会使我瘫痪，使我忘记我到这里来的目的，使我感到极度痛苦，无法集中意念，或者以其他方式使我丧失能力。
+  - 补充

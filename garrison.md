@@ -1,27 +1,19 @@
 - garrison
   - 发音
-    - 英
-      - `/'gærɪs(ə)n/`
-    - 美
-      - `/'gærəsn/`
+    - 英 /'gærɪs(ə)n/
+    - 美 /'gærəsn/
   - 词义
-    - n.
-      - 守备队,驻地
-        - `a group of soldiers living in a town or fort and defending it`
+    - n. 守备队,驻地
+      - a group of soldiers living in a town or fort and defending it
   - 近义词
-    - n.
-      - 要塞；卫戍部队
-        - `stronghold`
-        - `presidio`
-    - vt.
-      - 驻防；守卫
-        - `sentinel`
+    - n. 要塞；卫戍部队
+      - stronghold
+      - presidio
+    - vt. 驻防；守卫
+      - sentinel
   - 短语
-    - `in garrison`
-      - 驻防的，执行卫戍任务的 
+    - in garrison 驻防的，执行卫戍任务的
   - 例句
-    - `The garrison was called out when news of the enemy’s advance was received.`
-      - 收到敌人推进的情报后，卫戍部队奉命出动。
-    - `a garrison town`
-      - 有部队驻防的城镇
-
+    - The garrison was called out when news of the enemy’s advance was received. 收到敌人推进的情报后，卫戍部队奉命出动。
+    - a garrison town 有部队驻防的城镇
+  - 补充

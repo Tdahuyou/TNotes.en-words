@@ -1,32 +1,21 @@
 - expressly
   - 发音
-    - 英
-      - `/ɪk'spreslɪ; ek-/`
-    - 美
-      - `/ɪk'sprɛsli/`
+    - 英 /ɪk'spreslɪ; ek-/
+    - 美 /ɪk'sprɛsli/
   - 词义
-    - adv.
-      - 清楚地，明显地；特别地，专门地
-        - `if you say something expressly, you say it very clearly and firmly`
+    - adv. 清楚地，明显地；特别地，专门地
+      - if you say something expressly, you say it very clearly and firmly
   - 同根词
-    - adj.
-      - `express`
-        - 明确的；迅速的；专门的
-    - n.
-      - `express`
-        - 快车，快递，专使；捷运公司
-    - vt.
-      - `express`
-        - 表达；快递
+    - adj. express 明确的；迅速的；专门的
+    - n. express 快车，快递，专使；捷运公司
+    - vt. express 表达；快递
   - 近义词
-    - adv.
-      - 清楚地，明显地；特别地，专门地
-        - `definitely`
-        - `obviously`
-        - `specially`
-        - `clearly`
-        - `particularly`
+    - adv. 清楚地，明显地；特别地，专门地
+      - definitely
+      - obviously
+      - specially
+      - clearly
+      - particularly
   - 例句
-    - `He was expressly forbidden to speak to the girl.`
-      - 他被明确禁止与那个女孩说话。
-
+    - He was expressly forbidden to speak to the girl. 他被明确禁止与那个女孩说话。
+  - 补充

@@ -1,29 +1,20 @@
 - mere
   - 发音
-    - 英
-      - `/mɪr/`
-    - 美
-      - `/mɪr/`
+    - 英 /mɪr/
+    - 美 /mɪr/
   - 词义
-    - adj.
-      - 仅仅的，纯粹的
+    - adj. 仅仅的，纯粹的
   - 记忆
     - 要想抓住爱情， 仅仅(mere)在这儿(here)徘徊是不行的
   - 同根词
-    - adv.
-      - `merely`
-        - 仅仅，只不过；只是
+    - adv. merely 仅仅，只不过；只是
   - 近义词
-    - n.
-      - 小湖；池塘
-        - `tank`
-        - `lakelet`
+    - n. 小湖；池塘
+      - tank
+      - lakelet
   - 短语
-    - `mere trifle`
-      - 小意思 
-    - `a mere nobody`
-      - 微不足道的人 
+    - mere trifle 小意思
+    - a mere nobody 微不足道的人
   - 例句
-    - `She lost the election by a mere 20 votes.`
-      - 她仅仅以20票之差落选。
-
+    - She lost the election by a mere 20 votes. 她仅仅以20票之差落选。
+  - 补充

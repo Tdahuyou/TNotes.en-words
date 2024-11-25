@@ -1,29 +1,21 @@
 - inexpedient
   - 发音
-    - 英
-      - `/ˌɪnɪk'spiːdiənt/`
-    - 美
-      - `/,ɪnɪk'spidɪənt/`
+    - 英 /ˌɪnɪk'spiːdiənt/
+    - 美 /,ɪnɪk'spidɪənt/
   - 词义
-    - adj.
-      - 不适当的，不明智的
-        - `not suitable, advisable, or judicious `
+    - adj. 不适当的，不明智的
+      - not suitable, advisable, or judicious 
   - 记忆
     - in(不) + expedient(有利的) → 不利的 → 不明智的
   - 同根词
-    - adv.
-      - `inexpediently`
-        - 不便地
-    - n.
-      - `inexpedience`
-        - 不适当；失策
-      - `inexpediency`
-        - 不适当；失策
+    - adv. inexpediently 不便地
+    - n. inexpedience 不适当；失策
+    - n. inexpediency 不适当；失策
   - 近义词
-    - adj.
-      - 不明智的；不适当的
-        - `inadequate`
-        - `unhappy`
-        - `wrong`
-        - `inappropriate`
-        - `improper`
+    - adj. 不明智的；不适当的
+      - inadequate
+      - unhappy
+      - wrong
+      - inappropriate
+      - improper
+  - 补充

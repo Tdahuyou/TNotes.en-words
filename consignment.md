@@ -1,33 +1,22 @@
 - consignment
   - 发音
-    - 英
-      - `/kən'saɪnm(ə)nt/`
-    - 美
-      - `/kən'saɪnmənt/`
+    - 英 /kən'saɪnm(ə)nt/
+    - 美 /kən'saɪnmənt/
   - 词义
-    - n.
-      - 委托；运送；托付物
-        - `a quantity of goods that are sent somewhere, especially in order to be sold`
+    - n. 委托；运送；托付物
+      - a quantity of goods that are sent somewhere, especially in order to be sold
   - 同根词
-    - n.
-      - `consignee`
-        - 收件人；受托者；承销人
-      - `consignor`
-        - 发货人；货主；委托者
-    - vt.
-      - `consign`
-        - 交付；托运；寄存；把…委托给
+    - n. consignee 收件人；受托者；承销人
+    - n. consignor 发货人；货主；委托者
+    - vt. consign 交付；托运；寄存；把…委托给
   - 近义词
-    - n.
-      - 委托；运送；托付物
-        - `commitment`
-        - `shipping`
-        - `carrying`
-        - `delegation`
+    - n. 委托；运送；托付物
+      - commitment
+      - shipping
+      - carrying
+      - delegation
   - 短语
-    - `on consignment`
-      - 寄托销售 
-    - `consignment note`
-      - 托运单；托运收据；寄售通知书 
-    - `consignment business`
-      - 寄售业务 
+    - on consignment 寄托销售
+    - consignment note 托运单；托运收据；寄售通知书
+    - consignment business 寄售业务
+  - 补充

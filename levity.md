@@ -1,28 +1,19 @@
 - levity
   - 发音
-    - 英
-      - `/'levəti/`
-    - 美
-      - `/'lɛvəti/`
+    - 英 /'levəti/
+    - 美 /'lɛvəti/
   - 词义
-    - n.
-      - 轻率；轻浮；变化无常
-        - `lack of respect or seriousness when you are dealing with something serious`
+    - n. 轻率；轻浮；变化无常
+      - lack of respect or seriousness when you are dealing with something serious
   - 记忆
     - lev (升起) + ity → 轻浮的人总是易变的， 像是升起的烟一样 → 轻浮
   - 同根词
-    - vi.
-      - `levitate`
-        - 轻轻浮起；飘浮空中
-    - vt.
-      - `levitate`
-        - 使轻轻浮起；使飘浮空中
+    - vi. levitate 轻轻浮起；飘浮空中
+    - vt. levitate 使轻轻浮起；使飘浮空中
   - 近义词
-    - n.
-      - 多变；轻浮；轻率；不稳定
-        - `instability`
-        - `flux`
+    - n. 多变；轻浮；轻率；不稳定
+      - instability
+      - flux
   - 例句
-    - `At the time, Arnold had disapproved of such levity.`
-      - 那时候，阿诺德不赞成如此的轻浮行为。
-
+    - At the time, Arnold had disapproved of such levity. 那时候，阿诺德不赞成如此的轻浮行为。
+  - 补充

@@ -1,19 +1,14 @@
 - boulevard
   - 发音
-    - 英
-      - `/'buːləvɑːd/`
-    - 美
-      - `/ˈbʊləˌvɑrd/`
+    - 英 /'buːləvɑːd/
+    - 美 /ˈbʊləˌvɑrd/
   - 词义
-    - n.
-      - <美>林荫大道
-        - `a wide road in a town or city, often with trees along the sides`
+    - n. <美>林荫大道
+      - a wide road in a town or city, often with trees along the sides
   - 近义词
-    - n.
-      - [建]林荫大道；（美）大马路
-        - `avenue`
-        - `blvd`
+    - n. [建]林荫大道；（美）大马路
+      - avenue
+      - blvd
   - 例句
-    - `Sunset Boulevard`
-      - 日落大道
-
+    - Sunset Boulevard 日落大道
+  - 补充

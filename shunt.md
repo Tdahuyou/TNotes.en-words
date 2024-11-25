@@ -1,36 +1,24 @@
 - shunt
   - 发音
-    - 英
-      - `/ʃʌnt/`
-    - 美
-      - `/ʃʌnt/`
+    - 英 /ʃʌnt/
+    - 美 /ʃʌnt/
   - 词义
-    - v.
-      - 使转轨；使分流；回避讨论；推延
-        - `to move a train or railway carriage onto a different track`
-    - n.
-      - 转轨；[电]分流器
-        - `an act of moving a train or railway carriage to a different track`
+    - v. 使转轨；使分流；回避讨论；推延
+      - to move a train or railway carriage onto a different track
+    - n. 转轨；[电]分流器
+      - an act of moving a train or railway carriage to a different track
   - 同根词
-    - n.
-      - `shunning`
-        - 回避
-      - `shunter`
-        - 扳道员；能干的组织者；转辙员；手腕好的人
+    - n. shunning 回避
+    - n. shunter 扳道员；能干的组织者；转辙员；手腕好的人
   - 近义词
-    - vi.
-      - 转轨；转向一边；往返
-        - `to and from`
-    - n.
-      - 转轨；[电]分流器
-        - `current divider`
-        - `splitter`
+    - vi. 转轨；转向一边；往返
+      - to and from
+    - n. 转轨；[电]分流器
+      - current divider
+      - splitter
   - 短语
-    - `shunt capacitor`
-      - 并联电容器；分路电容器；旁路电容器 
-    - `shunt reactor`
-      - 并联电抗器，分路电抗器；分馏力；分流扼流圈 
-    - `shunt compensation`
-      - 并联补偿 
-    - `arteriovenous shunt`
-      - 动静脉短路 
+    - shunt capacitor 并联电容器；分路电容器；旁路电容器
+    - shunt reactor 并联电抗器，分路电抗器；分馏力；分流扼流圈
+    - shunt compensation 并联补偿
+    - arteriovenous shunt 动静脉短路
+  - 补充
