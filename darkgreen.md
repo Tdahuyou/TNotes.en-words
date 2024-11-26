@@ -1,2 +1,20 @@
 - darkgreen
-  - 暗绿色
+  - 发音
+    - 英 /ˈdɑːkɡriːn/
+    - 美 /ˈdɑːrkɡrin/
+  - 词义
+    - n&a. 深绿色(的)
+      - a deep, dark shade of green
+  - 近义词
+    - n. 深绿色
+      - forest green
+      - olive green
+    - adj. 深绿色的
+      - emerald
+      - jade
+  - 例句
+    - The walls were painted a rich darkgreen. 墙壁被漆成了一种浓郁的深绿色。
+    - She wore a darkgreen dress to the party. 她穿了一件深绿色的裙子参加派对。
+    - The leaves of the tree turned darkgreen in the summer. 夏天时，树的叶子变成了深绿色。
+  - 补充
+    - Darkgreen is often associated with nature and can evoke feelings of calmness and stability. 深绿色通常与自然相关联，能够唤起平静和稳定的感觉。
