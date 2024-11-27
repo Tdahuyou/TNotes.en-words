@@ -1,0 +1,20 @@
+- baud
+  - 发音
+    - 英 /bɔːd/
+    - 美 /bɔːd/
+  - 词义
+    - n. 波特率
+      - a unit of signaling speed, equal to one change per second in the state of a communications channel
+  - 记忆
+    - b + aud(听) → 通信中的“听”速度 → 波特率
+  - 同根词
+    - n. baud rate 波特率
+  - 近义词
+    - n. bit rate 比特率
+    - n. data rate 数据传输速率
+  - 短语
+    - baud rate 波特率
+  - 例句
+    - The modem operates at a baud rate of 9600. 调制解调器以9600波特率运行。
+  - 补充
+    - 波特率（baud rate）是指信号每秒变化的次数，常用于衡量数据传输速度。
