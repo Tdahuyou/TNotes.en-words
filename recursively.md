@@ -1,0 +1,29 @@
+- recursively
+  - 发音
+    - 英 /rɪˈkɜːsɪvli/
+    - 美 /rɪˈkɜːrsɪvli/
+  - 词义
+    - adv. 递归地
+      - in a way that involves repeating a process in a self-similar manner, often in reference to functions or procedures that call themselves
+  - 记忆
+    - re(再次) + curs(跑) + ively → 一次次地回到起点 → 递归地
+  - 同根词
+    - adj. recursive 递归的
+    - n. recursion 递归；重复
+  - 近义词
+    - repeatedly 一再地
+    - iteratively 迭代地
+    - cyclically 循环地
+  - 短语
+    - recursively defined 递归定义的
+    - recursively linked 递归连接的
+    - recursively solve 递归求解
+    - recursively structured 递归结构的
+    - recursively calls 递归调用
+  - 例句
+    - The function calls itself recursively to solve the problem. 该函数通过递归调用自身来解决问题。
+    - The process of data cleaning is often done recursively in programming. 数据清理过程在编程中通常是递归进行的。
+    - In computer science, problems are often broken down recursively into smaller subproblems. 在计算机科学中，问题通常会递归地分解为更小的子问题。
+    - To compute the Fibonacci sequence, we use a recursively defined function. 要计算斐波那契数列，我们使用递归定义的函数。
+    - The algorithm will search recursively through the entire directory. 算法将递归地搜索整个目录。
+  - 补充
