@@ -1,0 +1,36 @@
+- moveto
+  - 发音
+    - 英 /ˈməʊv tuː/
+    - 美 /ˈmoʊv tuː/
+  - 词义
+    - v. 移动到；前往
+      - to move in the direction of a particular place or goal
+  - 记忆
+    - move + to → 移动到某个地方
+  - 同根词
+    - n. movement 移动；动作
+    - adj. movable 可移动的
+    - n. mover 搬运工；移动物体的人
+  - 近义词
+    - v. 前往；走向
+      - go to
+      - head to
+      - proceed to
+      - travel to
+    - v. 转移；改变位置
+      - relocate
+      - shift
+      - transfer
+  - 短语
+    - moveto command 移动到命令
+    - moveto operation 移动到操作
+    - moveto position 移动到位置
+    - moveto location 移动到位置
+    - moveto point 移动到某一点
+  - 例句
+    - The program uses the moveto command to change the cursor’s position on the screen. 程序使用moveto命令来更改屏幕上光标的位置。
+    - The object will moveto the new coordinates after the command is executed. 在命令执行后，物体将移动到新的坐标。
+    - You can use the moveto function to navigate to a specific page in the application. 你可以使用moveto函数导航到应用程序中的特定页面。
+    - After clicking the button, the map will moveto the selected location. 点击按钮后，地图将移动到选定的位置。
+    - The robot will moveto the designated area to complete the task. 机器人将移动到指定区域以完成任务。
+  - 补充
