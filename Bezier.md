@@ -1,0 +1,29 @@
+- Bezier
+  - 发音
+    - 英 /ˈbɛzɪə/
+    - 美 /ˈbɛzɪər/
+  - 词义
+    - n. 贝塞尔（曲线）
+      - A type of smooth curve used in computer graphics, defined by a mathematical function, typically involving control points.
+  - 记忆
+    - Named after the French engineer Pierre Bézier, who popularized the use of these curves in the 1960s for car body design.
+  - 同根词
+    - n. Bézier curve 贝塞尔曲线
+    - adj. Bezier-based 基于贝塞尔的
+  - 近义词
+    - n. spline 曲线（一般指平滑曲线）
+    - n. path 路径（在计算机图形学中使用）
+    - n. interpolation 插值（在数学或计算机图形学中用于描述数据之间的关系）
+  - 短语
+    - Bézier curve 贝塞尔曲线
+    - cubic Bézier curve 三次贝塞尔曲线
+    - quadratic Bézier curve 二次贝塞尔曲线
+    - Bézier spline 贝塞尔样条曲线
+    - Bézier path 贝塞尔路径
+  - 例句
+    - The artist used a cubic Bézier curve to create smooth transitions between the shapes. 艺术家使用三次贝塞尔曲线来在形状之间创建平滑的过渡。
+    - Bézier curves are widely used in computer graphics for modeling smooth curves and shapes. 贝塞尔曲线广泛用于计算机图形学中建模平滑的曲线和形状。
+    - The software allows you to adjust the control points of the Bézier curve to refine the design. 该软件允许你调整贝塞尔曲线的控制点，以完善设计。
+    - In vector graphics, paths are often defined using Bézier curves. 在矢量图形中，路径通常是使用贝塞尔曲线定义的。
+    - To animate the character smoothly, the movement is mapped using a Bézier curve. 为了平滑地动画化角色，运动是使用贝塞尔曲线进行映射的。
+  - 补充
