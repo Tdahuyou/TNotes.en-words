@@ -1,0 +1,34 @@
+- lineto
+  - 发音
+    - 英 /ˈlaɪn tuː/
+    - 美 /ˈlaɪn tuː/
+  - 词义
+    - v. 画线到；连接到
+      - to draw or extend a line to a specific point or location
+  - 记忆
+    - line + to → 画线到某个位置
+  - 同根词
+    - n. line 线条；行
+    - n. linear 线性的；直线的
+    - v. align 对齐；排列
+  - 近义词
+    - v. 连接；延伸
+      - connect to
+      - extend to
+      - draw to
+    - v. 标记；描绘
+      - sketch to
+      - outline to
+  - 短语
+    - lineto command 画线到命令
+    - lineto operation 画线到操作
+    - lineto point 画线到点
+    - lineto function 画线到函数
+    - lineto coordinate 画线到坐标
+  - 例句
+    - The drawing tool uses the lineto command to draw a line to the specified point. 绘图工具使用lineto命令画一条线到指定点。
+    - In graphics programming, lineto is often used to connect shapes on the canvas. 在图形编程中，lineto通常用于连接画布上的形状。
+    - The function will lineto the new coordinates, creating a line from the current position. 该函数将画线到新的坐标，从当前位置绘制一条线。
+    - The artist used the lineto command to create a path from one point to another. 艺术家使用lineto命令从一个点到另一个点创建了一条路径。
+    - After moving to the starting point, the program will lineto the destination. 移动到起点后，程序将画线到目的地。
+  - 补充
