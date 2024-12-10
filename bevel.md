@@ -1,0 +1,31 @@
+- bevel
+  - 发音
+    - 英 /ˈbɛvəl/
+    - 美 /ˈbɛvəl/
+  - 词义
+    - n. 倾斜面；斜边
+      - A surface that is not perpendicular or parallel to the base, often at an angle other than 90 degrees, typically used in woodworking, metalworking, or graphic design.
+    - v. 使成斜角；切斜边
+      - To cut or shape something with a bevel, especially at an angle other than 90 degrees.
+  - 记忆
+    - bevel源自拉丁语"bi"（两个）和"valere"（倾斜），表示两面相交形成的斜面。
+  - 同根词
+    - n. bevel edge 倾斜边
+    - adj. beveled 倾斜的；有斜面的
+  - 近义词
+    - n. slant 倾斜；斜面
+    - n. chamfer 斜角（尤其指角边的切割）
+    - n. angle 角度
+  - 短语
+    - bevel edge 倾斜边
+    - bevel cut 斜切
+    - bevel gauge 斜角规
+    - bevel angle 斜角
+    - beveled edge 倾斜边缘
+  - 例句
+    - The picture frame was finished with a bevel edge for a smooth, polished look. 画框的边缘做了倾斜处理，呈现光滑、精致的外观。
+    - To create a beveled edge on the table, the carpenter used a special bevel tool. 为了在桌子上制作倾斜边缘，木匠使用了一种特殊的斜角工具。
+    - The glass was cut with a bevel to give it a more elegant appearance. 玻璃被斜切，以呈现更加优雅的外观。
+    - A bevel gauge is used to measure and replicate angles for cutting bevels. 斜角规用于测量和复制切割斜角的角度。
+    - The edges of the metal sheet were beveled to reduce the sharpness. 金属片的边缘做了斜角处理，以减少锋利度。
+  - 补充
