@@ -1,0 +1,30 @@
+- deprecated
+  - 发音
+    - 英 /ˈdɛprɪkeɪtɪd/
+    - 美 /ˈdɛprəˌkeɪtɪd/
+  - 词义
+    - adj. 被弃用的；不再推荐使用的
+      - Refers to something (usually a function, feature, or practice) that is no longer recommended and may be removed in the future, typically used in software development or technology.
+  - 记忆
+    - "de-"（表示反）+ "prate"（说） → 意指不再推荐使用的、已经过时的。
+  - 同根词
+    - v. deprecate 反对；不赞成
+    - n. deprecation 辞退；不推荐使用
+  - 近义词
+    - adj. obsolete 过时的；废弃的
+    - adj. outdated 过时的；不再现代的
+    - adj. disused 不再使用的
+    - adj. superseded 被取代的
+  - 短语
+    - deprecated function 被弃用的功能
+    - deprecated feature 被弃用的特性
+    - deprecated API 被弃用的接口
+    - deprecated method 被弃用的方法
+    - deprecated library 被弃用的库
+  - 例句
+    - The method you are using is deprecated and will be removed in future updates. 你正在使用的方法已被弃用，将在未来的更新中移除。
+    - The old version of the software is deprecated and no longer receives updates. 该软件的旧版本已被弃用，不再接收更新。
+    - Many of the functions in this library are deprecated in favor of the newer version. 该库中的许多功能已经被弃用，取而代之的是新版。
+    - The deprecated API will be replaced with a more efficient and secure alternative. 被弃用的API将被一个更高效且更安全的替代方案取代。
+    - In modern programming, using deprecated code is discouraged because it can cause compatibility issues. 在现代编程中，不推荐使用弃用的代码，因为它可能会导致兼容性问题。
+  - 补充
