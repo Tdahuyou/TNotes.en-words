@@ -1,0 +1,26 @@
+- octave
+  - 发音
+    - 英 /ˈɒktɪv/
+    - 美 /ˈɑːktɪv/
+  - 词义
+    - n. 八度音阶
+      - In music, an octave is a series of eight notes that starts and ends on the same note but with double the frequency.
+    - n. （数学）八倍关系
+      - The interval between one musical pitch and another with double its frequency.
+  - 记忆
+    - oct (八) + ave (音节) → 八个音符 → 八度音阶
+  - 同根词
+    - adj. octave 八度的
+    - n. octagon 八边形
+    - n. octal 八进制
+  - 近义词
+    - n. 音程
+      - interval
+    - n. 八度音阶
+      - musical interval
+  - 短语
+    - perfect octave 完美八度
+    - major octave 大八度
+  - 例句
+    - The singer hit a high note in the octave that amazed the audience. 歌手唱出了一声高音，令人惊叹的八度音。
+  - 补充
