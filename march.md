@@ -1,4 +1,4 @@
-- March
+- march
   - 发音
     - 英 /mɑːtʃ/
     - 美 /mɑrtʃ/
