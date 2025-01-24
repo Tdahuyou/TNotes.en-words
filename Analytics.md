@@ -1,0 +1,26 @@
+ - Analytics
+  - 发音
+    - 英 /əˈnælɪtɪks/
+    - 美 /əˈnælɪtɪks/
+  - 词义
+    - n. 分析学；数据分析
+      - The systematic computational analysis of data or statistics.
+  - 同根词
+    - adj. analytical 分析的；解析的
+    - n. analyst 分析师；审查员
+    - n. analysis 分析；解析
+  - 近义词
+    - n. 数据分析
+      - data analysis
+      - business intelligence
+      - statistical analysis
+  - 短语
+    - web analytics 网站分析
+    - business analytics 商业分析
+    - predictive analytics 预测分析
+    - analytics tools 分析工具
+  - 例句
+    - The company uses analytics to improve customer experience. 公司利用数据分析来改善客户体验。
+    - She specializes in web analytics. 她专注于网站分析。
+  - 补充
+    - Analytics广泛应用于各行各业，尤其是在数据科学、市场研究、金融等领域。
