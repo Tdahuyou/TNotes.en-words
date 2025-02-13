@@ -1,0 +1,24 @@
+ 
+- Monaco
+  - 发音
+    - 英 /ˈmɒnəkoʊ/
+    - 美 /ˈmɑːnəkoʊ/
+  - 词义
+    - n. 摩纳哥
+      - A small, wealthy country located on the Mediterranean Sea in Western Europe, known for its casinos, luxury hotels, and the Monte Carlo Formula 1 race.
+  - 同根词
+    - 无直接同根词
+  - 近义词
+    - 无直接近义词，但可与其他国家对比：
+      - France 法国
+      - Italy 意大利
+  - 短语
+    - Monte Carlo 摩纳哥的蒙特卡洛区（以其赌场和F1赛事闻名）
+    - Monaco Grand Prix 摩纳哥大奖赛（著名的F1赛事）
+    - Monaco Yacht Show 摩纳哥游艇展
+  - 例句
+    - Monaco is famous for its luxurious lifestyle. 摩纳哥以其奢华的生活方式而闻名。
+    - The Monaco Grand Prix is one of the most prestigious races in the world. 摩纳哥大奖赛是世界上最负盛名的赛车赛事之一。
+  - 补充
+    - 摩纳哥是世界上第二小的国家，仅次于梵蒂冈。
+    - 摩纳哥没有个人所得税，是全球富裕人士的聚集地之一。
