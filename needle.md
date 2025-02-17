@@ -26,6 +26,7 @@
       - motivate
       - activate
   - 短语
+    - Find needle in haystack 大海捞针
     - pins and needles 如坐针毡；焦躁不安；手脚发麻
     - needle valve 针阀；针状活门
     - on the needle [美国俚语]注射毒品的，有毒瘾的
