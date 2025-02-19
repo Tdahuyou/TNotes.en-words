@@ -1,0 +1,33 @@
+- utils
+  - 发音
+    - 英 /ˈjuːtɪlz/
+    - 美 /ˈjuːtɪlz/
+  - 词义
+    - n. 工具；实用程序（utility 的复数形式）
+      - tools or programs designed to perform specific tasks, often related to system maintenance or optimization
+  - 记忆
+    - util(有用) + s(复数) → 有用的工具集合 → 工具/实用程序
+  - 同根词
+    - adj. utilitarian 实用的；功利的；实利的
+    - adj. utilized 被利用的
+    - adj. utile 有用的；有益的
+    - adj. utilizable 可利用的
+    - n. utility 效用；公用事业；实用性
+    - n. utilization 利用，使用
+    - n. utilizer 应用者（utilize 的名词形式）
+    - v. utilize 利用
+    - v. utilized 利用（utilize 的过去分词）
+  - 近义词
+    - n. 工具；实用程序
+      - tools
+      - utilities
+      - applications
+      - programs
+  - 短语
+    - system utils 系统工具
+    - utils library 工具库
+  - 例句
+    - The developer used several utils to optimize the software's performance. 开发人员使用了多种实用程序来优化软件的性能。
+    - These utils are essential for managing large datasets efficiently. 这些工具对于高效管理大型数据集至关重要。
+    - Many programmers rely on open-source utils to speed up their workflow. 许多程序员依赖开源工具来加快他们的工作流程。
+  - 补充
