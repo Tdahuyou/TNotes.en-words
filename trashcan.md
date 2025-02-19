@@ -1,0 +1,26 @@
+- trashcan
+  - 发音
+    - 英 /ˈtræʃkæn/
+    - 美 /ˈtræʃkæn/
+  - 词义
+    - n. 垃圾桶；废纸篓
+      - a container for holding waste or discarded items
+  - 记忆
+    - trash(垃圾) + can(罐子) → 装垃圾的罐子 → 垃圾桶
+  - 同根词
+    - adj. trashy 劣质的；无价值的；下流的
+    - n. trash 垃圾；废物；渣滓
+    - n. trashing 彻底批评；破坏
+    - v. trash 丢弃；彻底批评；毁坏
+  - 近义词
+    - n. 垃圾桶；废纸篓
+      - garbage can
+      - dustbin
+      - rubbish bin
+      - wastebasket
+  - 短语
+    - throw into the trashcan 扔进垃圾桶
+    - empty the trashcan 清空垃圾桶
+  - 例句
+    - He threw the empty bottle into the trashcan. 他把空瓶子扔进了垃圾桶。
+  - 补充
