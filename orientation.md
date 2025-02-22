@@ -47,4 +47,5 @@
     - orientation effect 定向效应；顺向效应
   - 例句
     - The party has a broadly socialist orientation. 该政党大体上倾向于社会主义。
+    - Size the SVG image to completely fill its container. Call this when the view actually changes sizes (e.g. on a window resize/device orientation change). 调整 SVG 图像以完全填充其容器。当视图的实际尺寸发生变化时（例如窗口大小调整或设备方向变化）调用此方法。
   - 补充
