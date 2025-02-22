@@ -20,4 +20,5 @@
     - accordingly as ＝according as
   - 例句
     - Katherine still considered him a child and treated him accordingly. 凯瑟琳仍旧把他当作小孩子，像对待小孩子一样对他。
+    - Size the workspace when the contents change. This also updates crollbars accordingly. 当内容更改时，调整工作区大小。这也需要相应地更新滚动条。
   - 补充
