@@ -37,4 +37,5 @@
     - size dimension 尺寸大小；定形尺寸
   - 例句
     - You can have a spiritual dimension to your life without being religious. 即使你不信宗教，也可以在生命中拥有精神层面的内容。
+    - Returns the dimensions of the specified SVG image. 返回指定 SVG 图片的尺寸。
   - 补充
