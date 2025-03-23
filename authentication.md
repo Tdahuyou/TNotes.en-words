@@ -1,0 +1,29 @@
+- authentication  
+  - 发音  
+    - 英 /ɔːˌθentɪˈkeɪʃn/  
+    - 美 /əˌθɛntɪˈkeɪʃn/  
+  - 词义  
+    - n. 认证；鉴定；验证  
+      - the process of verifying the identity of a person, device, or system, often through credentials like passwords or biometrics  
+  - 记忆  
+    - authenti(c)(真实的) + cation(名词后缀) → 验证真实性 → 认证  
+  - 同根词  
+    - adj. authentic 真实的；可信的；可靠的  
+    - adj. authenticated 经过验证的；经认证的  
+    - v. authenticate 验证；证明真实  
+    - n. authenticator 验证器；认证者  
+    - n. authenticity 真实性；可靠性  
+  - 近义词  
+    - n. 认证；验证  
+      - verification  
+      - validation  
+      - identification  
+  - 短语  
+    - two-factor authentication 双因素认证  
+    - user authentication 用户认证  
+    - authentication protocol 认证协议  
+  - 例句  
+    - Two-factor authentication adds an extra layer of security to your online accounts. 双因素认证为您的在线账户增加了一层额外的安全保护。  
+    - The system requires authentication before granting access to sensitive data. 系统在授予对敏感数据的访问权限之前需要进行认证。  
+    - Many companies now use biometric authentication to ensure secure access to their facilities. 许多公司现在使用生物特征认证来确保对其设施的安全访问。  
+  - 补充
