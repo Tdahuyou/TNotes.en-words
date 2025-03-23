@@ -1,0 +1,35 @@
+- runoob  
+  - 发音  
+    - 英 /ˈruːnʊb/  
+    - 美 /ˈruːnʊb/  
+  - 词义  
+    - n. 菜鸟教程（Runoob 是一个中文开发者学习网站，提供编程语言和技术教程）  
+      - a popular Chinese online learning platform for developers, offering tutorials on programming languages and technologies  
+    - adj. （非正式）新手的；初学者的（由 "run" 和 "noob" 组合而成，带有幽默意味）  
+      - informal term referring to beginners or novices in programming or technology  
+  - 记忆  
+    - run(运行) + noob(新手) → 运行新手 → 学习编程的起点 → 菜鸟教程  
+  - 同根词  
+    - n. noob 新手；菜鸟（网络用语，指初学者）  
+    - adj. newbie 新手的；初学者的  
+    - n. tutorial 教程；辅导  
+    - n. documentation 文档；资料  
+  - 近义词  
+    - n. 在线学习平台  
+      - W3Schools  
+      - Codecademy  
+      - LeetCode  
+    - adj. 初学者的  
+      - beginner  
+      - novice  
+      - rookie  
+  - 短语  
+    - runoob tutorial 菜鸟教程  
+    - learn from runoob 从菜鸟教程学习  
+    - runoob reference 菜鸟教程参考文档  
+  - 例句  
+    - Many beginners start their programming journey with the help of runoob. 许多初学者在菜鸟教程的帮助下开始了他们的编程之旅。  
+    - If you want to learn Python quickly, runoob is a great resource to get started. 如果你想快速学习 Python，菜鸟教程是一个很好的入门资源。  
+    - The runoob website provides clear examples and explanations for various programming concepts. 菜鸟教程网站为各种编程概念提供了清晰的示例和解释。  
+  - 补充  
+    - Runoob 是一个面向中文用户的免费学习平台，涵盖 HTML、CSS、JavaScript、Python 等多种技术内容，适合初学者和进阶开发者使用。
