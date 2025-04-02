@@ -1,0 +1,29 @@
+- unglow  
+  - 发音  
+    - 英 /ʌnˈɡloʊ/  
+    - 美 /ʌnˈɡloʊ/  
+  - 词义  
+    - v. 使失去光泽；使暗淡（un- 表示否定或相反，glow 表示发光、发亮）  
+      - to cause something to lose its brightness or glow; to make dull or dim  
+  - 记忆  
+    - un(不) + glow(发光) → 不再发光 → 失去光泽  
+  - 同根词  
+    - adj. glowing 光彩照人的；炽热的  
+    - adj. unglazed 无光泽的；未上釉的  
+    - n. glow 光辉；热烈的情感  
+    - v. glow 发光；发热  
+  - 近义词  
+    - v. 使失去光泽  
+      - dim  
+      - dull  
+      - tarnish  
+      - fade  
+  - 短语  
+    - unglow the light 使光线变暗  
+    - unglow the surface 使表面失去光泽  
+  - 例句  
+    - The harsh weather conditions caused the paint to unglow over time. 恶劣的天气条件导致油漆随着时间的推移失去了光泽。  
+    - Her enthusiasm seemed to unglow after receiving the disappointing news. 在收到令人失望的消息后，她的热情似乎逐渐消退了。  
+    - The lamp's bulb began to unglow as the battery ran out of power. 随着电池耗尽，灯泡的光芒开始变得暗淡。  
+  - 补充  
+    - "Unglow" 是一个较为罕见的词汇，通常用于描述某种光泽或亮度的减弱或消失。在文学作品中可能用作比喻表达情感或状态的变化。
