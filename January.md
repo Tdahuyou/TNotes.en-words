@@ -10,3 +10,4 @@
   - 例句
     - We always have snow in January. 我们这里1月份总会下雪。
   - 补充
+    - ![](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-05-08-23-44-37.png)
