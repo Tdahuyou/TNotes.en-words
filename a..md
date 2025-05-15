@@ -1,6 +1,6 @@
 - a.
   - 发音
-    - 英 /也作catholic/
+    - 英 /也作 catholic/
     - 美 /undefined/
   - 词义
     - n. 天主教徒

@@ -28,6 +28,7 @@
     - n. 拨款；[法][专利]授予物
       - appropriation
   - 短语
+    - grant a certificate 颁发证书
     - take for granted 认为…理所当然
     - government grant 政府批地书，政府补助金
     - land grant 政府赠地；政府拨给大学或铁路之土地

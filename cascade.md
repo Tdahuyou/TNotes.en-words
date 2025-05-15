@@ -6,7 +6,7 @@
     - vi. 倾泻，流注
       - to flow, fall, or hang down in large quantities
     - n. 小瀑布；倾泻
-      - a small steep  waterfall  that is one of several together
+      - a small steep waterfall that is one of several together
   - 记忆
     - cas(落下) + cad(落下) + e → 水一再落下 → 倾泻
   - 近义词
