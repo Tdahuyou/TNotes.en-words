@@ -1,0 +1,2 @@
+- COS
+  - 对象存储（Cloud Object Storage，COS）。
