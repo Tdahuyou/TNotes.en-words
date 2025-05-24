@@ -1,0 +1,5 @@
+- OLTP
+  - 全称：
+    - Online Transactional Processing
+    - 联机事务处理
+  - 主要用途：日常业务操作、高并发读写。
