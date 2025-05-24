@@ -1,0 +1,25 @@
+- transactional
+  - 发音
+    - 英 /trænˈsækʃənl/
+    - 美 /trænˈsækʃənl/
+  - 词义
+    - adj. 交易的；业务的
+      - Relating to the activity of buying or selling.
+  - 同根词
+    - n. transaction 交易；事务
+    - v. transact 执行；处理（业务）
+    - adj. transactionalism 交易主义
+  - 近义词
+    - adj. 商业的
+      - commercial
+      - business
+      - mercantile
+  - 短语
+    - transactional memory 事务内存
+    - transactional data 交易数据
+    - transactional analysis 交互作用分析
+  - 例句
+    - The software is designed to handle high volumes of transactional data efficiently. 此软件设计用于高效处理大量交易数据。
+    - Transactional analysis is a form of modern psychology that examines the interactions between individuals. 交互作用分析是现代心理学的一种形式，它研究个人之间的互动。
+  - 补充
+    - Transactional 常用于描述涉及购买、销售或交换商品和服务的活动。在计算机科学中，transactional 也可以指确保一系列操作要么全部完成，要么全不进行，以维护数据一致性。
