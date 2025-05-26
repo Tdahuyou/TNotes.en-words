@@ -1,0 +1,4 @@
+- WHATWG
+  - WHATWG 全称 Web Hypertext Application Technology Working Group。
+  - WHATWG 是一个负责制定 Web 标准的组织，其 URL API 是一个用于解析和操作 URL 的标准化接口。
+  - WHATWG 提供了对 URL 各个组成部分（如协议、主机、路径、查询参数等）的访问和修改功能，广泛应用于现代浏览器和 JavaScript 环境中。
