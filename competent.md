@@ -4,12 +4,14 @@
     - 美 /'kɑmpɪtənt/
   - 词义
     - n. 能胜任的；有能力的；称职的
+      - Having the necessary ability, knowledge, or skill to do something successfully.
   - 记忆
-    - 来自compete(vi. 竞争)
+    - 来自 compete(vi. 竞争)
   - 同根词
     - adv. competently 胜任地；适合地
     - n. competence 能力，胜任；权限；作证能力；足以过舒适生活的收入
-    - n. competency 能力（等于competence）；资格
+    - n. competency 能力（等于 competence）；资格
+    - v. compete 竞争；比赛
   - 近义词
     - adj. 胜任的；有能力的；能干的；足够的
       - able
@@ -17,14 +19,25 @@
       - efficient
       - sufficient
       - adequate
+      - skilled
+      - proficient
   - 短语
     - competent authority [法]主管当局，主管部门
     - competent department 主管部门
     - competent in 胜任的；有能力
-    - be competent for 胜任
+    - be competent for 胜任...的能力
+    - be competent to 胜任...的能力
     - competent jurisdiction 合法的管辖权
+    - judicial competent 司法管辖权（法律术语）
     - competent person 称职人员；安全检察员
     - competent court 管辖法院；主管法庭
   - 例句
     - A competent mechanic should be able to fix the problem. 一名合格的机修工应该能够解决这个问题。
+    - She is very competent in her job and always finishes tasks ahead of schedule. 她在作业上非常专业，总是按时完成工作。
+    - He was deemed competent to take on this challenging project. 他被认为具备承担这个具有挑战性项目的胜任能力。
   - 补充
+    - 在职场和专业环境中，形容一个人为 competent 意味着他们具备了在特定领域或职位上成功完成任务所需的知识、技能和态度。这种评价通常基于个人的实际表现和成就。
+    - ![图 5](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-06-10-05-47-39.png)
+      - 消防员在火灾现场迅速且专业地进行灭火救援
+    - ![图 4](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-06-10-05-36-35.png)
+      - 会计师在办公室对着财务报表精准地核算数据
