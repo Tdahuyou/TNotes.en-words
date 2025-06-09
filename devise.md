@@ -5,10 +5,13 @@
   - 词义
     - vt. 设计；发明；想出；策划，图谋
       - to plan or invent a new way of doing something
+      - Plan or invent a new device, system, or process.
   - 同根词
+    - n. device 装置；策略；图案
+    - adj. devised 设计的；发明的（注意：此形式较少单独使用，通常以“devised”出现在被动语态中）
     - n. devisal 设计；发明；策划
     - n. devisee 受遗赠者
-    - n. deviser 设计者
+    - n. deviser 发明者；设计者（较少见）
     - n. devisor 遗赠者，[法] 遗赠人
   - 近义词
     - vt. 设计；想出；发明；图谋；遗赠给
@@ -17,9 +20,22 @@
       - style
       - project
       - frame
+      - invent
+      - create
     - n. 遗赠
       - legacy
       - bequest
+  - 短语
+    - devise a plan 制定计划
+    - devise a strategy 制定策略
+    - devise a solution 想出解决方案
   - 例句
     - She devised a method for quicker communications between offices. 她想出一种加快办公室之间通信联络的方法。
+    - They devised a new method for teaching languages. 他们设计了一种新的语言教学方法。
+    - She devised a clever solution to the problem. 她为这个问题想出了一个聪明的解决办法。
   - 补充
+    - Devise 在工程、教育、商业等多个领域都有重要应用。无论是开发新产品还是提出解决问题的新方法，"devise"都是创新和进步的关键步骤。它强调了创造性思维的重要性以及将想法转化为实际行动的能力。
+    - ![图 8](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-06-10-05-57-20.png)
+      - 软件开发者在电脑前编写代码，构思新软件的架构
+    - ![图 9](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-06-10-05-58-48.png)
+      - 一位发明家在工作室里，对着自己设计的机械模型不断调整改进
