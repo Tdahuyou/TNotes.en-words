@@ -5,20 +5,27 @@
   - 词义
     - n. 暴露，显露；揭露；曝光；面临，遭受
       - when someone is in a situation where they are not protected from something dangerous or unpleasant
+      - The state of having no protection from something harmful; the disclosure of something secret or private.
   - 记忆
-    - 来自expose(vt. 暴露， 显露； 揭露； 使面临， 使遭受)
+    - 来自 expose(vt. 暴露， 显露； 揭露； 使面临， 使遭受)
   - 同根词
     - adj. exposed 暴露的，无掩蔽的
-    - v. exposed 暴露，揭露（expose的过去分词）
+    - v. exposed 暴露，揭露（expose 的过去分词）
     - vt. expose 揭露，揭发；使曝光；显示
+    - adj. exposing 揭露的（多用于复合词中）
   - 近义词
     - n. 暴露；[摄]曝光；揭露；陈列
       - layout
       - reveal
       - showing
+      - revelation
+      - disclosure
+      - uncovering
   - 短语
+    - exposure to 面临；接触到
+    - sun exposure 日晒；阳光照射
+    - exposure therapy 暴露疗法
     - exposure time 曝光时间
-    - sun exposure 日照
     - occupational exposure 职业照射
     - radiation exposure 辐射照射，射线照射；辐射曝露
     - light exposure n. 曝光，曝光量；小剂量照射；小剂量照射
@@ -39,4 +46,13 @@
     - public exposure 公众暴露
   - 例句
     - We nearly died of exposure on the mountainside. 我们差点冻死在半山腰。
+    - Prolonged exposure to sunlight can damage your skin. 长时间暴露在阳光下会损害你的皮肤。
+    - The company's illegal activities came to light after an employee’s exposure. 在一名员工揭露之后，公司的非法活动被曝光了。
   - 补充
+    - Exposure 不仅仅指物理上的暴露，如日晒或化学物质接触，也包括信息、秘密等方面的揭露。在摄影领域，exposure 指的是感光材料接受光线的过程，是成像的关键步骤。此外，在心理学和治疗学中，exposure therapy 是一种帮助人们克服恐惧和焦虑的有效方法。
+    - ![图 10](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-06-10-06-12-17.png)
+      - 摄影师在暗房里检查底片曝光效果，周围是摄影器材，以突出摄影领域的 “曝光” 概念。
+    - ![图 11](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-06-10-06-12-40.png)
+      - 呈现现实场景风格，一个人在烈日下暴晒，皮肤发红，凸显物理上的 “暴露”。
+    - ![图 12](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-06-10-06-13-07.png)
+      - 新闻报道风格，记者拿着文件揭露公司非法活动，体现信息方面的 “揭露”。
