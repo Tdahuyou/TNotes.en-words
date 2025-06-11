@@ -15,7 +15,9 @@
   - 近义词
     - n. [外科]外科；外科手术；手术室；诊疗室
       - theater
+      - operation
       - surgical department
+      - procedure
   - 短语
     - plastic surgery [医]整形外科
     - heart surgery 心脏手术
@@ -39,4 +41,11 @@
     - trauma surgery 创伤外科
   - 例句
     - Dr. Hanson is in surgery. 汉森医生在手术室。
+    - The patient underwent heart surgery last week. 患者上周接受了心脏手术。
+    - The patient needs emergency surgery to remove the tumor. 病人需要紧急手术来移除肿瘤。
   - 补充
+    - Surgery 作为医学术语，广泛应用于各种复杂的医疗程序中，无论是急诊还是计划中的治疗。随着技术的进步，微创手术（minimally invasive surgery）已经成为许多外科手术的标准做法，它通过减少创伤和加快恢复时间，极大地改善了患者的治疗体验。
+    - ![图 0](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-06-12-07-53-41.png)
+      - 手术室进行心脏手术的场景
+    - ![图 1](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-06-12-07-54-20.png)
+      - 整形外科医生为患者做面部整形手术的场景
