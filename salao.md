@@ -1,0 +1,23 @@
+- salao
+  - 发音
+    - 英 /səˈlaʊ/
+    - 美 /səˈlaʊ/
+  - 词义
+    - n. （在《老人与海》中使用的葡萄牙语或西班牙语词汇，意为）倒霉透顶、极度不幸的状态
+      - In Ernest Hemingway's "The Old Man and the Sea," it refers to the worst form of being unlucky.
+  - 同根词
+    - adj. cursed 被诅咒的；带来厄运的
+    - n. misfortune 不幸；灾祸
+    - n. unluckiness 倒霉；不幸
+  - 近义词
+    - n. 最坏的运气
+      - worst luck
+      - extreme misfortune
+  - 短语
+    - be in salao 处于极其不幸的状态
+    - fall into salao 陷入极度不幸之中
+  - 例句
+    - The old man was considered to be in salao after eighty-four days without catching a fish. 在八十四天没有捕到鱼之后，老人被认为倒霉透顶。
+    - After losing his job and home in the same week, he felt as if he had fallen into salao. 在一周内失去了工作和住所后，他感觉自己陷入了极度不幸之中。
+  - 补充
+    - "Salao" 是一个源自葡萄牙语或西班牙语的词汇，在英语文学作品《老人与海》中被使用，用来描述一种极端的不幸状态。这个词并不是标准英语词汇，但在文学翻译和引用中得到了广泛的应用。
