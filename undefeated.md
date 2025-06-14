@@ -1,0 +1,24 @@
+- undefeated
+  - 发音
+    - 英 /ˌʌnˈdiː.fɪ.tɪd/
+    - 美 /ˌʌnˈdiː.fɪ.tɪd/
+  - 词义
+    - adj. 不败的；未被击败的
+      - Having never been defeated or surpassed.
+  - 同根词
+    - v. defeat 击败；战胜
+    - adj. defeatable 可打败的
+    - n. defeater 击败者
+  - 近义词
+    - adj. invincible 无敌的；不可征服的
+    - adj. unconquerable 不可征服的；难以制胜的
+  - 短语
+    - undefeated record 不败纪录
+    - undefeated champion 不败冠军
+  - 例句
+    - The team has an undefeated record this season. 该队在本季保持不败纪录。
+    - She is known as the undefeated champion of her sport. 她被称为她所在运动项目的不败冠军。
+  - 补充
+    - Undefeated 通常用来形容在比赛、竞争或战斗中从未失败过的人或团队，具有非常积极和强大的含义。
+    - 不败冠军
+      - ![图 0](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-06-15-01-05-28.png)
