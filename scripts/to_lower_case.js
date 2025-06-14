@@ -4,7 +4,8 @@ const path = require('path')
 // 获取当前目录下的所有文件和文件夹
 const dirs = fs.readdirSync(path.join(__dirname, '..'))
 
-console.log(dirs)
+// console.log(dirs)
+
 // 遍历目录中的每一个文件/文件夹
 dirs.forEach((file) => {
   // 如果是 .md 文件

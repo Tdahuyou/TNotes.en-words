@@ -9,7 +9,7 @@
     - adj. manned 有人驾驶的；有人操纵的；配备齐船员的
     - adj. manipulable 可操纵自如的；可以操作的
     - n. manipulability 可操纵性
-    - v. manned 给…配备人员（man的过去分词）
+    - v. manned 给…配备人员（man 的过去分词）
     - vt. manipulate 操纵；操作；巧妙地处理；篡改
   - 近义词
     - n. 操纵；操作；处理；篡改
@@ -29,3 +29,36 @@
   - 例句
     - They make a lot of money by clever manipulation of the Stock Market. 他们巧妙地操纵股票市场而大赚其钱。
   - 补充
+- Manipulation
+  - 发音
+    - 英 /məˌnɪpjuˈleɪʃn/
+    - 美 /məˌnɪpjuˈleɪʃn/
+  - 词义
+    - n. 操纵；操作；处理
+      - The action of manipulating something in any way.
+  - 同根词
+    - v. manipulate 操控；操作
+    - adj. manipulative 操纵的；善于摆布他人的
+    - adj. manipulable 可操纵的
+  - 近义词
+    - n. 控制
+      - control
+      - management
+      - operation
+  - 短语
+    - digital manipulation 数字（图像）处理
+    - market manipulation 市场操纵
+    - psychological manipulation 心理操控
+  - 例句
+    - His methods of manipulation were considered unethical by many in the field. 他的操纵方法被领域内的许多人认为是不道德的。
+    - Advanced software allows for extensive digital manipulation of photographs. 高级软件允许对照片进行广泛的数字处理。
+  - 补充
+    - Manipulation 可以指物理上的操作，如机械装置的操作，也可以指抽象概念的操作，比如市场操纵或心理操控。在计算机科学和数字艺术中，它通常指的是通过软件对数据或图像进行修改和调整。
+    - ![图 0](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-06-08-19-58-34.png)
+      - 一位魔术师用熟练的手法操控扑克牌，观众们都被吸引住了
+    - ![图 1](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-06-08-19-59-04.png)
+      - 黑客在电脑前，手指快速敲击键盘，操纵着屏幕上的数据
+    - ![图 2](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-06-08-19-59-57.png)
+      - 政治家在演讲台上，表情丰富地试图操控听众的情绪
+    - ![图 3](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-06-08-20-00-32.png)
+      - 销售人员拿着产品资料，用巧妙的话术操纵客户的购买意愿
