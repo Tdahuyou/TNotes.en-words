@@ -1,0 +1,32 @@
+- blotch
+  - 发音
+    - 英 /blɒtʃ/
+    - 美 /blɑːtʃ/
+  - 词义
+    - n. 斑点；污渍；瑕疵
+      - An irregular or discolored mark on a surface.
+    - v. 弄脏；使...有斑点
+      - To mark with blotches or become marked with blotches.
+  - 同根词
+    - adj. blotchy 有斑点的；多污渍的
+    - n. blotches 斑点（复数）
+    - n. blotchiness 斑点状态；多斑性
+  - 近义词
+    - n. stain 污点；染色
+      - spot 斑点；地点
+      - mark 标记；记号
+  - 短语
+    - blotch on the wall 墙上的污渍
+    - blotchy skin 皮肤上的斑斑点点
+    - ink blotch 墨水污渍
+  - 例句
+    - The artist created an interesting texture by applying random ink blotches to the canvas. 艺术家通过在画布上随意添加墨水污渍创造了一种有趣的纹理。
+    - His face was covered in red blotches after walking in the cold wind. 在冷风中行走后，他的脸上布满了红斑。
+    - A small blotch of paint fell on the floor, ruining its perfect look. 一小块油漆滴落在地板上，破坏了其完美的外观。
+    - She tried hard to remove the stubborn blotch from her new dress. 她努力尝试去除新裙子上顽固的污渍。
+  - 补充
+    - Blotch 指的是表面不规则或颜色不同的斑点。在日常生活中，blotch 可以出现在皮肤、衣物、家具等多种表面上。对于皮肤上的 blotch，有时可能是由于过敏反应或其他健康问题导致的，因此如果出现不明原因的斑点，应该寻求医生的帮助。此外，在艺术领域，尽管 blotch 通常被视为负面的存在，但也有艺术家利用它来创造出独特的艺术效果。
+    - 斑点
+      - ![图 0](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-06-15-08-58-28.png)
+    - 污渍
+      - ![图 1](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-06-15-08-58-51.png)

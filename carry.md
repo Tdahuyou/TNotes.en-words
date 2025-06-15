@@ -43,3 +43,4 @@
     - Let me carry that for you. 让我帮你拿吧。
     - Jack carried his grandson up the stairs. 杰克把孙子抱上楼去。
   - 补充
+    - "Carry" 是一个非常常用且多义的英语单词，除了字面意思的携带、搬运外，在不同的上下文中还可以表示承担某种责任或义务。此外，“carry”还广泛应用于各种短语动词中，每个都有其特定的意思和用法。例如，“carry out”通常指执行某个任务或计划，“carry on”可以表示继续做某事，而“carry through”则强调从头到尾完成某件事情的决心和能力。
