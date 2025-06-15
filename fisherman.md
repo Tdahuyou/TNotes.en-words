@@ -10,4 +10,5 @@
       - peterman
   - 例句
     - The Algarve is a paradise for fishermen whether river anglers or deep-sea fishermen. 阿尔加维对河边的垂钓者或深海的渔民都是一个天堂。
+    - "Why not?" the old man said, "Between fishermen." 「好啊，」老人说：「打渔的都是一家人嘛。」
   - 补充

@@ -1,0 +1,28 @@
+- papa
+  - 发音
+    - 英 /pəˈpɑː/
+    - 美 /pəˈpɑː/
+  - 词义
+    - n. 爸爸；父亲（儿语或口语）
+      - A child's word for father.
+  - 同根词
+    - n. dad 爸爸；父亲（口语）
+    - n. daddy 爸爸；爹地（亲昵称呼）
+    - n. father 父亲；神父
+    - adj. paternal 父系的；父亲的
+  - 近义词
+    - n. 父亲
+      - dad
+      - daddy
+      - father
+  - 短语
+    - Papa John's 约翰爸爸的披萨（一家著名的披萨连锁店）
+    - Papa Smurf 蓝爸爸（蓝精灵中的角色）
+    - Dear old papa 亲爱的老爸
+  - 例句
+    - My papa taught me how to ride a bike. 我爸爸教我怎么骑自行车。
+    - She always talks about her papa with great affection. 她总是满怀深情地谈论她的爸爸。
+    - I'm going to Papa John's to get some pizza tonight. 今晚我要去约翰爸爸的披萨店买一些披萨。
+    - In the story, Papa Smurf is the leader of all the other Smurfs. 在故事中，蓝爸爸是所有其他蓝精灵的领袖。
+  - 补充
+    - "Papa"是一个在很多语言和文化中用来表示“父亲”的词汇。它通常用于家庭内部或是比较亲密的关系中。此外，“Papa”还可能指代某些特定的人物或品牌名称，比如上面提到的"Papa John's"和"Papa Smurf"。这些例子展示了这个词在不同背景下的使用方式。

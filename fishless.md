@@ -1,0 +1,29 @@
+- fishless
+  - 发音
+    - 英 /ˈfɪʃləs/
+    - 美 /ˈfɪʃləs/
+  - 词义
+    - adj. 无鱼的；没有鱼的
+      - Lacking fish; devoid of fish.
+  - 同根词
+    - n. fish 鱼类
+    - adj. fishy 像鱼的；可疑的
+    - v. fish 捕鱼；钓鱼
+    - adv. fishlessly 无鱼地；没有鱼地
+  - 近义词
+    - adj. empty 空的；空虚的
+      - vacant 未被占用的；空缺的
+      - barren 不生育的；贫瘠的（对于环境而言）
+  - 短语
+    - fishless ocean 无鱼的海洋
+    - fishless aquarium 无鱼水族馆
+    - fishless diet 无鱼饮食
+  - 例句
+    - The once vibrant lake has become fishless due to pollution. 曾经充满活力的湖泊因污染而变成了无鱼的湖。
+    - They decided to create a fishless aquarium with only plants and corals. 他们决定创建一个只有植物和珊瑚的无鱼水族馆。
+    - A fishless diet can be an option for those who are against animal cruelty. 对于那些反对动物虐待的人来说，无鱼饮食是一个选择。
+    - Environmentalists warn that if overfishing continues, we may face fishless seas in the future. 环境保护主义者警告说，如果过度捕捞继续下去，我们未来可能面临无鱼的海洋。
+  - 补充
+    - "Fishless"这个词常用于描述因为环境污染、过度捕捞或特定生态保护措施导致的环境中鱼类缺失的状态。它不仅反映了生态系统的健康状况，也提醒人们关注环境保护的重要性。在一些情况下，“fishless”也可以指代一种不包含鱼类的饮食习惯或生活方式，特别是出于伦理考虑的人们可能会选择这种饮食方式。
+    - fishless desert - 无生机的沙漠
+      - ![图 0](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-06-15-09-06-08.png)
