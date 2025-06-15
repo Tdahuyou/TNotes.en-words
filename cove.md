@@ -1,0 +1,26 @@
+- cove
+  - 发音
+    - 英 /kəʊv/
+    - 美 /koʊv/
+  - 词义
+    - n. 小海湾；小港湾
+      - A small sheltered bay in the sea or a lake, often with a beach.
+  - 同根词
+    - adj. coved 呈凹形的
+    - n. covenanter 立约者（与 cove 无直接关系，但形式相近）
+    - v. cove (dialect) 掩埋；遮盖（方言用法）
+  - 近义词
+    - n. 小海湾
+      - inlet
+      - bay
+  - 短语
+    - cove lighting 洞口照明（一种隐藏式照明设计）
+    - cove beach 小海湾海滩
+    - cove park 峡湾公园
+  - 例句
+    - We found a lovely little cove to have our picnic. 我们找到了一个可爱的小海湾来野餐。
+    - The ship anchored in a sheltered cove for the night. 船在一处有遮蔽的小海湾里抛锚过夜。
+    - She enjoyed swimming in the calm waters of the secluded cove. 她喜欢在那个隐蔽的小海湾平静的水域中游泳。
+  - 补充
+    - Cove 这个词通常用来描述海边或湖边的一个小型、通常被保护的区域。这样的地方非常适合船只停泊或者人们进行水上活动，比如游泳和划船。此外，“cove”也可以指建筑术语中的“拱腹”，即墙与天花板相接处的凹槽部分，在室内设计中用于隐藏灯光或其他装饰元素。
+    - ![图 0](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-06-15-09-37-01.png)

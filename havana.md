@@ -1,0 +1,28 @@
+- Havana
+  - 发音
+    - 英 /həˈvænə/
+    - 美 /həˈvænə/
+  - 词义
+    - n. 哈瓦那（古巴首都）
+      - The capital and largest city of Cuba, located on the northwest coast of the island.
+  - 同根词
+    - adj. Cuban 古巴的；古巴人的
+    - n. Cuban 古巴人
+    - n. Habanero 哈瓦那人
+  - 近义词
+    - n. 古巴首都
+      - Capital of Cuba
+      - Cuban capital
+  - 短语
+    - Old Havana 哈瓦那老城区
+    - Havana Brown 哈瓦那棕（一种猫的颜色品种）
+    - Hotel Nacional de Cuba 哈瓦那国营酒店
+  - 例句
+    - We spent a wonderful evening walking around Old Havana. 我们在哈瓦那老城区度过了一个美好的夜晚。
+    - The classic cars in Havana are a reminder of its rich history. 哈瓦那的经典汽车提醒着人们这座城市丰富的历史。
+    - She was born in Havana and moved to Miami when she was five years old. 她出生于哈瓦那，五岁时搬到了迈阿密。
+    - Havana's music scene is vibrant and full of life. 哈瓦那的音乐界充满活力和生机。
+  - 补充
+    - 哈瓦那是加勒比地区最大的城市之一，以其独特的建筑风格、热情洋溢的文化和音乐而闻名。这里的老城区（Habana Vieja）是联合国教科文组织认定的世界文化遗产，吸引着来自世界各地的游客。此外，哈瓦那还以雪茄制造和经典美国汽车而著名。
+    - ![图 1](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-06-15-09-35-15.png)
+    - ![图 0](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-06-15-09-34-51.png)

@@ -11,8 +11,8 @@
     - adj. netty 网状的
     - n. netting 网；网鱼；结网
     - n. netter 网客；网友；网虫
-    - v. netting 把…织成网；用网捕捉（net的现在分词）
-    - v. netted 赚，得到（net的过去分词）
+    - v. netting 把…织成网；用网捕捉（net 的现在分词）
+    - v. netted 赚，得到（net 的过去分词）
   - 近义词
     - n. 网；网络；净利；实价
       - network
@@ -24,6 +24,7 @@
       - pure
       - whole
   - 短语
+    - throw the net 抛网
     - on the net 在网上
     - net of 扣除
     - net profit 净利润
