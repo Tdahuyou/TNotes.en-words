@@ -18,10 +18,10 @@
     - n. stripping 剥离；剥脱；拆封
     - n. striping 拆开；去膜；加条纹；条纹图案
     - n. stripteaser 表演脱衣舞的女人
-    - v. stripped 剥夺（strip的过去分词形式）；脱衣；把…剪成条状
-    - v. striped 被剥去（strip的过去分词）
-    - v. stripping 剥去；脱掉；拆除（strip的ing形式）
-    - v. striping 给…加条纹（strip的ing形式）
+    - v. stripped 剥夺（strip 的过去分词形式）；脱衣；把…剪成条状
+    - v. striped 被剥去（strip 的过去分词）
+    - v. stripping 剥去；脱掉；拆除（strip 的 ing 形式）
+    - v. striping 给…加条纹（strip 的 ing 形式）
     - vt. stripe 加条纹于…
   - 近义词
     - vt. 剥夺；剥去；脱去衣服

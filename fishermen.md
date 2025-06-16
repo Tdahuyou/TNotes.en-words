@@ -1,0 +1,22 @@
+- fishermen
+  - 发音
+    - 英 /ˈfɪʃəmən/
+    - 美 /ˈfɪʃərmən/
+  - 词义
+    - n. 渔民；捕鱼人（fisherman 的复数形式）
+      - People who catch fish for a living or for sport.
+  - 同根词
+    - n. fishery 渔场；渔业
+    - n. fishing 捕鱼；钓鱼
+    - adj. fishable 可捕捞的
+  - 近义词
+    - n. anglers 钓鱼者
+    - n. trawlers 拖网渔船船员
+  - 短语
+    - local fishermen 当地渔民
+    - fishermen and women 渔民们（包括男女）
+  - 例句
+    - The storm kept the fishermen at home today. 暴风雨使得渔民们今天都待在家里。
+    - Local fishermen know all the best spots to catch fish. 当地渔民知道所有最好的捕鱼点。
+  - 补充
+    - Fishermen around the world often rely on traditional knowledge passed down through generations to find the best fishing spots and times. 全世界的渔民经常依赖代代相传的传统知识来找到最佳的捕鱼地点和时间。

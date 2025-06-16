@@ -1,0 +1,23 @@
+- gone
+  - 发音
+    - 英 /ɡɒn/
+    - 美 /ɡɔːn/
+  - 词义
+    - adj. 离开的；消失的（go 的过去分词）
+      - Having been in a place or situation, but now no longer there.
+  - 同根词
+    - v. go 去；走
+    - n. going 离去；进行
+    - adj. going 存在的；现行的
+  - 近义词
+    - adj. departed 离开的；已故的
+    - adj. vanished 消失的；突然不见的
+  - 短语
+    - all gone 全部用完；全都不见了
+    - gone are the days 那个时代已经一去不复返了
+    - here today, gone tomorrow 朝三暮四；短暂存在的
+  - 例句
+    - All my money is gone. 我所有的钱都花光了。
+    - The time has gone when I could be easily influenced. 容易受影响的我已经一去不复返了。
+  - 补充
+    - "Gone" 是 "go" 的过去分词形式，通常用来表示某事物不再存在或离开的情况。它可以指物理上的消失，也可以用来描述抽象概念如时间、机会等的流逝。例如，“The opportunity is gone.”意味着机会已经失去了。此外，它还用于构成完成时态，如 “He has gone to the store.” 表示他已经去了商店。

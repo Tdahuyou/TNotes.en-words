@@ -1,0 +1,24 @@
+- hides
+  - 发音
+    - 英 /haɪdz/
+    - 美 /haɪdz/
+  - 词义
+    - v. 隐藏；隐瞒（hide 的第三人称单数形式）
+      - To put or keep out of sight.
+    - n. 皮革；兽皮（hide 的复数形式）
+      - The outer covering of an animal, especially when tanned or dressed for use.
+  - 同根词
+    - adj. hidden 隐藏的；神秘的
+    - n. hiding 躲藏；隐蔽处
+    - v. hid (hide 的过去式)
+  - 近义词
+    - v. conceals 隐瞒；隐藏
+    - n. skins 皮肤；外皮
+  - 短语
+    - hide and seek 捉迷藏游戏
+    - on hides 在皮革上或关于皮革
+  - 例句
+    - He hides his feelings very well. 他很会掩饰自己的感情。
+    - The furniture was made from buffalo hides. 这些家具是用水牛皮制成的。
+  - 补充
+    - Hides are used in various industries, including leather goods production and upholstery. 兽皮被用于各种行业中，包括皮革制品生产和装饰。

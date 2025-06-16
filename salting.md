@@ -1,0 +1,24 @@
+- salting
+  - 发音
+    - 英 /ˈsɔːltɪŋ/
+    - 美 /ˈsɔːltɪŋ/
+  - 词义
+    - n. 盐渍；撒盐（salt 的现在分词）
+      - The act of adding salt to something, often food, for the purpose of preservation or flavoring.
+    - v. 在...中加盐（salt 的现在分词形式）
+      - To add salt to something, typically food, to enhance its flavor or to preserve it.
+  - 同根词
+    - adj. salty 咸的；含盐的
+    - n. salt 盐
+    - v. salt 加盐于
+  - 近义词
+    - n. seasoning 调味；调味料
+    - v. flavoring 添加味道
+  - 短语
+    - salting out 盐析（一种分离有机化合物的方法）
+    - road salting 冬季道路撒盐防滑
+  - 例句
+    - Salting the roads is necessary when expecting ice and snow. 预期有冰雪时，道路上撒盐是必要的。
+    - The process of salting the meat helps in preserving it for longer periods. 用盐腌肉的过程有助于长时间保存肉类。
+  - 补充
+    - Salting is not only important in cooking for taste but also plays a critical role in food preservation techniques. 加盐不仅在烹饪中对味道重要，而且在食品保存技术中也起着关键作用。

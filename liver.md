@@ -20,7 +20,7 @@
     - n. livery 制服；侍从
     - n. liveliness 活泼；热烈；鲜明
     - n. liveness 活性，活跃度；现场感
-    - v. living 生活；居住（live的ing形式）；度过
+    - v. living 生活；居住（live 的 ing 形式）；度过
     - vi. live 活；居住；生存
     - vi. liven 快活起来；活跃起来
     - vt. live 经历；度过
@@ -49,3 +49,4 @@
   - 例句
     - Three weeks ago, it was discovered the cancer had spread to his liver. 三周前，发现癌已扩散到了他的肝脏。
   - 补充
+    - ![图 0](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-06-16-20-43-23.png)

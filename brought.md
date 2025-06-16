@@ -1,0 +1,23 @@
+- brought
+  - 发音
+    - 英 /brɔːt/
+    - 美 /brɔːt/
+  - 词义
+    - v. 带来；拿来（bring 的过去式和过去分词）
+      - To carry or convey to a destination; transport.
+  - 同根词
+    - v. bring 带来；引起
+    - adj. brought (非标准用法，通常不单独使用)
+    - n. bringing 带来；运送
+  - 近义词
+    - v. carried 携带；搬运
+    - v. transported 运输；传送
+  - 短语
+    - bring about 引起；导致
+    - bring up 提出；养育
+    - bring out 推出；使显现
+  - 例句
+    - She brought her new boyfriend to the party. 她把新男朋友带到聚会上。
+    - They brought their concerns to the manager's attention. 他们把担忧提请经理注意。
+  - 补充
+    - "Brought" is the past and past participle form of "bring," which is commonly used in daily conversations to indicate the action of carrying something from one place to another or causing something to happen. “brought”是“bring”的过去式和过去分词形式，在日常对话中常用来表示将某物从一个地方携带到另一个地方或将某事发生的动作。

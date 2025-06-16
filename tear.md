@@ -3,11 +3,12 @@
     - 英 /(for v.) ˈtɛː; (for n.) ˈtɪə/
     - 美 /(for v.) ˈter; (for n.) ˈtir/
   - 词义
-    - n. 眼泪v撕(裂)
+    - n. 眼泪
+    - v. 撕(裂)
   - 同根词
     - adj. tearing 撕裂的；痛苦的；猛烈的
     - adj. tearless 不流泪的；无泪的；没有感情的
-    - v. tearing 撕开；裂开（tear的ing形式）
+    - v. tearing 撕开；裂开（tear 的 ing 形式）
   - 近义词
     - vt. 撕破，撕裂；折磨；使分裂；使精神不安
       - harry

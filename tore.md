@@ -1,0 +1,23 @@
+- tore
+  - 发音
+    - 英 /tɔː/
+    - 美 /tɔːr/
+  - 词义
+    - v. 撕开；扯破（tear 的过去式）
+      - To pull apart or into pieces by force.
+  - 同根词
+    - n. tear 眼泪；撕裂
+    - adj. torn 被撕破的；焦虑的
+    - v. tearing 撕裂；疾驰
+  - 近义词
+    - v. ripped 裂开；扯破
+    - v. split 分裂；劈开
+  - 短语
+    - to pieces 成碎片；彻底地
+    - tore apart 撕裂；使痛苦万分
+    - tore down 拆毁；推翻
+  - 例句
+    - He tore the letter open in excitement. 他兴奋地把信撕开。
+    - The hurricane tore the roof off the building. 飓风把建筑物的屋顶掀掉了。
+  - 补充
+    - "Tore" is the past tense of the verb "tear," which describes the action of pulling something apart violently or causing it to come apart due to force. It can also be used figuratively to describe emotional distress, such as when someone says they were 'torn up' about a situation. “tore”是动词“tear”的过去式，描述用力将某物拉开或由于力量使其分开的动作。它也可以用来比喻情感上的痛苦，比如有人说他们对某个情况感到‘非常痛苦’。
