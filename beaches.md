@@ -1,0 +1,38 @@
+- beaches
+  - 发音
+    - 英 /ˈbiːtʃɪz/
+    - 美 /ˈbiːtʃɪz/
+  - 词义
+    - n. 海滩；沙滩（beach 的复数形式）
+      - Sandy or pebbly shores along bodies of water.
+    - v. 使（船）搁浅（beach 的第三人称单数）
+      - Runs aground onto the shore.
+  - 同根词
+    - n. beach 海滩
+    - adj. beachy 海滩风情的
+    - v. beach 使搁浅
+    - n. beachcomber 海滩拾荒者
+    - n. beachhead 滩头阵地
+  - 近义词
+    - n. 海岸
+      - shores
+      - coastlines
+      - strands
+      - sands
+    - v. 搁浅
+      - strands
+      - grounds
+  - 短语
+    - sandy beaches 沙滩
+    - private beaches 私人海滩
+    - beach volleyball 沙滩排球
+    - beach resort 海滨度假村
+    - beach erosion 海滩侵蚀
+  - 例句
+    - Tropical islands boast pristine white-sand beaches. 热带岛屿拥有原始的白沙滩。
+    - The storm beached several fishing boats on the shore. 风暴使几艘渔船在岸边搁浅。
+    - Children built sandcastles on the crowded beaches. 孩子们在拥挤的海滩上堆沙堡。
+    - Coastal communities monitor beach erosion closely. 沿海社区密切监测海滩侵蚀情况。
+    - Sea turtles return to the same beaches to lay eggs. 海龟会回到相同的海滩产卵。
+  - 补充
+    - 根据底质分为沙滩/砾石滩/泥滩，具有重要生态功能（海龟产卵地/鸟类栖息地）。旅游经济核心资源，全球 70%游客选择海滩度假。面临侵蚀、污染和海平面上升威胁，需可持续管理。

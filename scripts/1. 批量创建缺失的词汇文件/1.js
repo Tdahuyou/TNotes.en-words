@@ -63,6 +63,5 @@ fs.readFile(filePath, 'utf-8', (err, data) => {
       })
     })
   })
+  fs.writeFileSync(path.resolve(__dirname, '2.txt'), targetFilePaths.join('\n'))
 })
-
-fs.writeFileSync(path.resolve(__dirname, '2.txt'), targetFilePaths.join('\n'))
