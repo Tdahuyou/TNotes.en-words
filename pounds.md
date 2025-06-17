@@ -1,0 +1,42 @@
+- pounds
+  - 发音
+    - 英 /paʊndz/
+    - 美 /paʊndz/
+  - 词义
+    - n. 英镑；磅（重量单位）（pound 的复数形式）
+      - British currency unit; unit of weight equal to 16 ounces.
+    - v. 猛击；连续敲打（pound 的第三人称单数）
+      - Strikes repeatedly with heavy force.
+  - 同根词
+    - n. pound 磅；英镑；收容所
+    - v. pound 猛击；捣碎
+    - n. pounding 重击；剧烈震动
+    - adj. pounding 剧烈的（如头痛）
+    - n. poundage 按磅收费；重量费
+  - 近义词
+    - n. 重量单位
+      - lbs (abbreviation)
+      - weights
+      - measures
+    - n. 货币
+      - sterling
+      - quid (英式俚语)
+    - v. 猛击
+      - hammers
+      - bashes
+      - thumps
+      - batters
+  - 短语
+    - pounds sterling 英镑（正式名称）
+    - pounds per square inch (psi) 磅/平方英寸（压力单位）
+    - pound the pavement 街头奔走（找工作/推销）
+    - pound cake 磅蛋糕（黄油面粉各一磅）
+    - pound of flesh 合法但无情的要求（源自《威尼斯商人》）
+  - 例句
+    - The parcel weighs fifteen pounds and costs £20 to ship. 包裹重 15 磅，运费 20 英镑。
+    - Waves pounded the shore during the storm. 暴风雨中海浪猛烈拍打海岸。
+    - She pounded the dough vigorously to develop gluten. 她用力捶打面团以形成面筋。
+    - Inflation has reduced the purchasing power of pounds significantly. 通货膨胀显著降低了英镑的购买力。
+    - The boxer's fists pounded his opponent's ribs relentlessly. 拳击手不断猛击对手的肋骨。
+  - 补充
+    - 重量单位（1 磅 ≈0.45 千克）源自罗马"libra"，全球通用计量单位。货币单位（£）是英国及其属地法定货币，外汇市场第四大交易货币（GBP）。动词含义强调重复性强力动作，常见于自然现象描述（浪击）和体力劳动（捣碎食材）。

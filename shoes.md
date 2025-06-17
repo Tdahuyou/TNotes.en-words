@@ -1,0 +1,27 @@
+- shoes
+  - 发音
+    - 英 /ʃuːz/
+    - 美 /ʃuːz/
+  - 词义
+    - n. 鞋子（shoe 的复数形式）
+      - Footwear covering the foot.
+    - v. 给...穿鞋（shoe 的第三人称单数）
+      - Fits shoes onto feet or horses.
+  - 同根词
+    - n. shoe 鞋
+    - n. shoelace 鞋带
+    - n. shoemaker 鞋匠
+    - adj. shoeless 赤脚的
+  - 近义词
+    - footwear
+    - boots
+    - sneakers
+  - 短语
+    - fill someone's shoes 接替职位
+    - comfortable shoes 舒适鞋
+    - shoe polish 鞋油
+  - 例句
+    - Her new shoes perfectly matched the dress. 她的新鞋与裙子完美搭配。
+    - It's hard to fill the manager's shoes after his retirement. 经理退休后很难有人能接替他的职位。
+  - 补充
+    - 基本功能是足部保护，文化中象征身份（如水晶鞋）。习语"in someone's shoes"表示换位思考。

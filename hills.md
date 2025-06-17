@@ -1,0 +1,29 @@
+- hills
+  - 发音
+    - 英 /hɪlz/
+    - 美 /hɪlz/
+  - 词义
+    - n. 丘陵；小山（hill 的复数形式）
+      - Areas of raised land lower than mountains, often with rounded tops.
+  - 同根词
+    - n. hill 小山；斜坡
+    - adj. hilly 多丘陵的；起伏的
+    - adv. uphill 上坡地
+    - n. hillside 山坡
+  - 近义词
+    - n. 丘陵
+      - knolls
+      - mounds
+      - elevations
+      - ridges
+  - 短语
+    - rolling hills 连绵起伏的丘陵
+    - Beverly Hills 比弗利山庄（洛杉矶）
+    - hill station 山间避暑胜地
+    - over the hill 过了巅峰期（俚语）
+  - 例句
+    - The countryside is dotted with green hills and valleys. 乡间点缀着绿色的山丘和山谷。
+    - They built their house on one of the hills overlooking the sea. 他们在俯瞰大海的山丘上建造了房屋。
+    - Cycling uphill in the hills requires good stamina. 在丘陵地带骑车上坡需要良好的耐力。
+  - 补充
+    - 通常指海拔 300-600 米的隆起地形，坡度较缓且顶部圆润。常见于乡村景观描述、地理特征说明和徒步旅行场景，与陡峭的"mountain"形成对比。

@@ -1,0 +1,27 @@
+- heard
+  - 发音
+    - 英 /hɜːd/
+    - 美 /hɜːrd/
+  - 词义
+    - v. 听到；听说（hear 的过去式和过去分词）
+      - Perceived sound through the ears; received information.
+  - 同根词
+    - v. hear 听见
+    - n. hearing 听力；听证会
+    - adj. unheard 被忽视的；前所未闻的
+  - 近义词
+    - v. 听到
+      - perceived
+      - listened
+      - caught
+  - 短语
+    - heard about 听说
+    - heard from 收到...消息
+    - never heard of 从未听说过
+    - hard of hearing 听力不好
+  - 例句
+    - I heard a strange noise coming from the attic. 我听到阁楼传来奇怪的声音。
+    - Have you heard from your sister recently? 你最近有你姐姐的消息吗？
+    - It was the most beautiful song I've ever heard. 这是我听过最美妙的歌曲。
+  - 补充
+    - 作为 hear 的过去式，常用于描述已完成的听觉感知行为。在口语中常与"about/from/of"连用表示获取信息，法律场景则特指"听证"(hearing)。

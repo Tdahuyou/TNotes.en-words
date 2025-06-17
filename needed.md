@@ -1,0 +1,32 @@
+- needed
+  - 发音
+    - 英 /ˈniːdɪd/
+    - 美 /ˈniːdɪd/
+  - 词义
+    - v. 需要（need 的过去式和过去分词）
+      - Required something essential or important.
+  - 同根词
+    - v. need 需要
+    - adj. needed 需要的；必需的
+    - adj. needy 贫困的；需求多的
+    - adj. needless 不必要的
+    - n. need 需求；必需品
+  - 近义词
+    - v. 需要
+      - required
+      - demanded
+      - necessitated
+      - called for
+  - 短语
+    - badly needed 急需的
+    - much needed 非常需要的
+    - needed to 需要去...
+    - if needed 如果需要
+    - needed for 为...所需
+  - 例句
+    - The refugees needed food and clean water urgently. 难民们急需食物和干净的水。
+    - We needed three days to complete the project. 我们用了三天时间完成这个项目。
+    - The doctor said he needed immediate surgery. 医生说他需要立即手术。
+    - She realized she needed to change her lifestyle. 她意识到需要改变生活方式。
+  - 补充
+    - 描述过去存在的客观需求或主观要求，常与"to do/for"连用。在正式文件中表示必要条件（如法律要求），商务场景常指资源需求（manpower needed）。

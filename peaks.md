@@ -1,0 +1,39 @@
+- peaks
+  - 发音
+    - 英 /piːks/
+    - 美 /piːks/
+  - 词义
+    - n. 山峰；巅峰（peak 的复数形式）
+      - Pointed tops of mountains or highest points of achievement.
+    - v. 达到顶峰（peak 的第三人称单数）
+      - Reaches the highest level or point.
+  - 同根词
+    - n. peak 山峰；顶点
+    - adj. peaked 尖的；苍白的
+    - v. peak 达到顶峰
+    - n. peakiness 多峰性
+    - adj. peaky 多峰的；虚弱的
+  - 近义词
+    - n. 山峰
+      - summits
+      - pinnacles
+      - crests
+      - apices
+    - n. 巅峰
+      - zeniths
+      - climaxes
+      - acmes
+  - 短语
+    - Himalayan peaks 喜马拉雅山峰
+    - peak season 旺季
+    - peak performance 最佳表现
+    - twin peaks 双峰
+    - off-peak hours 非高峰时段
+  - 例句
+    - Snow-capped peaks dominated the alpine landscape. 白雪覆盖的山峰主宰着高山景观。
+    - Tourist visits peak during the summer months. 游客访问量在夏季达到顶峰。
+    - Her career peaked when she won the Nobel Prize. 她获得诺贝尔奖时事业达到巅峰。
+    - The stock market reached new peaks last quarter. 股市上一季度创下新高。
+    - Energy consumption peaks between 6pm and 8pm daily. 能源消耗每日在晚 6 点至 8 点达到峰值。
+  - 补充
+    - 地理学指海拔显著高于周边地形的山顶点，登山运动的核心目标。比喻事业/数据的最高点（peak performance/peak hours）。在数据可视化中表示图表中的最大值点（peak value）。

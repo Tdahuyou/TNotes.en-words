@@ -1,0 +1,26 @@
+- stored
+  - 发音
+    - 英 /stɔːd/
+    - 美 /stɔːrd/
+  - 词义
+    - v. 储存；保管（store 的过去式和过去分词）
+      - Kept for future use.
+  - 同根词
+    - v. store 储存
+    - n. storage 存储
+    - n. storehouse 仓库
+    - adj. storable 可储存的
+  - 近义词
+    - saved
+    - archived
+    - stockpiled
+  - 短语
+    - stored energy 储能
+    - stored procedure 存储过程（数据库）
+    - cold stored 冷藏的
+    - cloud stored 云存储的
+  - 例句
+    - Grain was stored in silos for winter. 谷物储存在筒仓中过冬。
+    - Solar energy can be stored in batteries. 太阳能可储存在电池中。
+  - 补充
+    - 涉及物理储存（仓库）和数字储存（数据存储）。食品技术关注储存条件（冷藏/真空），IT 领域指内存管理（stored data）。

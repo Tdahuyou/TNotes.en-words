@@ -1,0 +1,23 @@
+- dreamed
+  - 发音
+    - 英 /driːmd/
+    - 美 /driːmd/
+  - 词义
+    - v. 梦想；梦见（dream 的过去式和过去分词形式）
+      - Experienced dreams during sleep or imagined something pleasant or desirable.
+  - 同根词
+    - n. dream 梦；梦想
+    - adj. dreamy 梦幻般的；迷迷糊糊的
+    - adv. dreamily 如梦般地；恍惚地
+  - 近义词
+    - v. 梦见
+      - fantasized
+      - envisioned
+  - 短语
+    - dreamed of/about 梦见；梦想着
+    - daydreamed 白日梦
+  - 例句
+    - She dreamed of becoming a famous singer one day. 她梦想有一天成为一名著名的歌手。
+    - He dreamed about flying last night. 他昨晚梦见自己在飞行。
+  - 补充
+    - “Dreamed”是“dream”的过去式，也有人使用“dreamt”作为其不规则变化形式。两种形式都是正确的，可以根据个人偏好选择使用。在美国英语中，“dreamed”更为常用，而在英国英语中，则两者都有使用。

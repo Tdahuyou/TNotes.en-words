@@ -1,0 +1,22 @@
+- coiled
+  - 发音
+    - 英 /kɔɪld/
+    - 美 /kɔɪld/
+  - 词义
+    - adj. 盘绕的；卷曲的
+      - Curled or wound into a tight spiral.
+  - 同根词
+    - v. coil 卷；盘绕
+    - n. coil 线圈；卷
+    - adj. uncoiled 未盘绕的；未卷起的
+  - 近义词
+    - adj. curled 卷曲的；弯曲的
+    - adj. spiraled 螺旋形的
+  - 短语
+    - coiled spring 卷簧；螺旋弹簧
+    - coiled cable 盘状电缆
+  - 例句
+    - The snake was coiled up in the corner of the room. 那条蛇在房间角落里盘成一团。
+    - He found a coiled wire behind the TV. 他在电视后面找到了一根盘起来的电线。
+  - 补充
+    - Coiled 结构常见于物理和工程领域，特别是在讨论弹簧、电缆或任何需要减少占用空间的设计时。

@@ -1,0 +1,22 @@
+- came
+  - 发音
+    - 英 /keɪm/
+    - 美 /keɪm/
+  - 词义
+    - v. 来（come 的过去式）
+      - Moved towards the speaker or a particular place or position.
+  - 同根词
+    - v. come 来
+    - n. coming 到来；来临
+    - adj. upcoming 即将到来的
+  - 近义词
+    - v. arrived 到达；抵达
+      - Reached a destination.
+  - 短语
+    - come back 回来
+    - come from 来自
+    - come on 快点；加油
+  - 例句
+    - She came to see me yesterday. 她昨天来看我。
+    - I came because you called me. 因为你打电话给我，所以我来了。
+    - They came here last week. 他们上个星期来到这里。

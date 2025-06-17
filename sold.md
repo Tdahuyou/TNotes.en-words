@@ -1,0 +1,26 @@
+- sold
+  - 发音
+    - 英 /səʊld/
+    - 美 /soʊld/
+  - 词义
+    - v. 出售；推销（sell 的过去式和过去分词）
+      - Transferred ownership for money.
+  - 同根词
+    - v. sell 卖
+    - n. seller 卖家
+    - adj. sold-out 售罄的
+    - n. sale 销售
+  - 近义词
+    - traded
+    - marketed
+    - vended
+  - 短语
+    - sold out 售罄
+    - sold short 卖空（金融）
+    - bill of sale 卖据
+    - sold down the river 被出卖
+  - 例句
+    - The novel sold over a million copies. 这部小说售出超百万册。
+    - Tickets for the concert were sold out in minutes. 音乐会门票几分钟内售罄。
+  - 补充
+    - 商业核心行为，证券交易指卖空（short selling）。习语"sold on"表示被说服（I'm sold on the idea）。

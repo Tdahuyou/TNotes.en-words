@@ -1,0 +1,30 @@
+- sitting
+  - 发音
+    - 英 /ˈsɪtɪŋ/
+    - 美 /ˈsɪtɪŋ/
+  - 词义
+    - n. 就坐；开会期间
+      - Period of being seated; official meeting session.
+    - adj. 坐着的；现任的
+      - Currently occupying a position.
+    - v. 坐（sit 的现在分词）
+      - Present participle of sit.
+  - 同根词
+    - v. sit 坐
+    - n. sitter 坐着的人；保姆
+    - n. sitting room 客厅
+    - adj. seated 就座的
+  - 近义词
+    - seating
+    - session
+    - incumbent
+  - 短语
+    - sitting duck 易受攻击的目标
+    - sitting position 坐姿
+    - sitting member 现任议员
+    - baby-sitting 照看婴儿
+  - 例句
+    - The artist completed the portrait in one sitting. 画家一次坐定就完成了肖像。
+    - Ducks on the pond were sitting ducks for hunters. 池塘里的鸭子成了猎人的活靶子。
+  - 补充
+    - 描述静态姿势（与站立相对），议会指会期（legislative sitting），艺术指模特坐姿（sitting pose）。

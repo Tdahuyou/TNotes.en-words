@@ -1,0 +1,24 @@
+- dressed
+  - 发音
+    - 英 /drest/
+    - 美 /drest/
+  - 词义
+    - adj. 穿好衣服的；打扮好的
+    - v. 穿衣；打扮（dress 的过去式和过去分词形式）
+      - Put on clothes or attire oneself; prepared for an occasion or event.
+  - 同根词
+    - n. dress 连衣裙；服装
+    - n. dresser 衣柜；化妆台
+    - adj. dressy 穿着讲究的；华丽的
+  - 近义词
+    - adj. 穿着整齐的
+      - attired
+      - clad
+  - 短语
+    - well-dressed 穿着讲究的；穿着得体的
+    - dressed up 打扮；盛装
+  - 例句
+    - She was well-dressed for the party. 她为聚会精心打扮了一番。
+    - He dressed up in his best suit for the interview. 面试时，他穿上了自己最好的西装。
+  - 补充
+    - "Dressed"不仅仅指穿上了衣服，还常常意味着根据特定场合或事件进行了适当的打扮。在不同的文化和场合中，“dressed”所代表的标准可能会有所不同。例如，在正式场合中，人们可能会选择穿着礼服或西装以示尊重。

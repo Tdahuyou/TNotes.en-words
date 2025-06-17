@@ -9,7 +9,7 @@
     - adj. clubbable 善交际的；适合俱乐部会员资格的
     - adj. clubby 排外的；俱乐部的；爱交际的；资格要求严的
     - n. clubbing 拖锚
-    - v. clubbing 用棍棒打；募集；联合（club的ing形式）
+    - v. clubbing 用棍棒打；募集；联合（club 的 ing 形式）
   - 近义词
     - n. 俱乐部，社团；夜总会；棍棒；（扑克牌中的）梅花
       - society

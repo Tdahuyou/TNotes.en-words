@@ -1,0 +1,32 @@
+- Indians
+  - 发音
+    - 英 /ˈɪndiənz/
+    - 美 /ˈɪndiənz/
+  - 词义
+    - n. 印度人；美洲原住民（Indian 的复数形式）
+      - People from India or indigenous peoples of the Americas.
+  - 同根词
+    - n. Indian 印度人；美洲原住民
+    - adj. Indian 印度的；印第安人的
+    - n. India 印度
+    - n. Indiana 印第安纳州（美国）
+  - 近义词
+    - n. 美洲原住民
+      - Native Americans
+      - First Nations
+      - Indigenous peoples
+    - n. 印度人
+      - South Asians
+      - Desis
+  - 短语
+    - American Indians 美洲印第安人
+    - East Indians 东印度群岛人
+    - West Indians 西印度群岛人
+    - Indian summer 晚秋晴暖天气
+    - Indian file 单列纵队
+  - 例句
+    - The Indians cultivated maize long before European contact. 在欧洲人到来前很久，美洲原住民就已种植玉米。
+    - Many Indians in the diaspora maintain strong cultural ties to their homeland. 许多海外印度人保持着与祖国的紧密文化联系。
+    - The Indian community in London celebrates Diwali with grand festivities. 伦敦的印度社区通过盛大庆典庆祝排灯节。
+  - 补充
+    - 需根据语境区分指代：在美洲语境指原住民（避免使用"Red Indians"等过时术语），在亚洲语境指印度公民。涉及敏感历史话题（如殖民时期）时需注意表述准确性。

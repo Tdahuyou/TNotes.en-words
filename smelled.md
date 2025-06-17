@@ -1,0 +1,25 @@
+- smelled
+  - 发音
+    - 英 /smeld/
+    - 美 /smeld/
+  - 词义
+    - v. 闻到；散发气味（smell 的过去式和过去分词）
+      - Perceived or emitted odor.
+  - 同根词
+    - v. smell 闻
+    - n. smell 气味
+    - adj. smelly 有臭味的
+    - n. smelling salts 嗅盐
+  - 近义词
+    - sniffed
+    - scented
+    - reeked
+  - 短语
+    - smelled a rat 察觉可疑
+    - smelled of 有...气味
+    - sweet-smelled 气味香甜的
+  - 例句
+    - She smelled the roses in the garden. 她闻了花园里的玫瑰。
+    - I smelled gas leaking and called emergency. 我闻到煤气泄漏就呼叫了紧急服务。
+  - 补充
+    - 人类最原始的感觉之一，常触发强烈记忆（普鲁斯特效应）。在安全检测中用于识别危险物质（如煤气味）。

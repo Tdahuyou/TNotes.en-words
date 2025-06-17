@@ -1,0 +1,26 @@
+- cans
+  - 发音
+    - 英 /kænz/
+    - 美 /kænz/
+  - 词义
+    - n. 罐头；容器（复数形式）
+      - Containers, typically cylindrical and made of metal, used for storing food or other items.
+  - 同根词
+    - n. can 罐头；容器
+    - v. can 将...装罐；储存于密封容器中
+    - adj. canned 装罐的；封装的
+  - 近义词
+    - n. tins (英国英语) 罐头
+      - Metal containers used for preserving food.
+    - n. containers 容器
+      - Objects used to store or hold things.
+  - 短语
+    - recycle bins and cans 回收箱和罐子
+    - cans of paint 油漆罐
+    - food cans 食品罐头
+  - 例句
+    - Please put the empty cans in the recycling bin. 请将空罐放入回收箱。
+    - They collected several cans of food for the charity. 他们为慈善机构收集了几罐食物。
+    - The artist uses old cans to create sculptures. 这位艺术家用旧罐子创作雕塑。
+  - 补充
+    - 通常情况下，“cans”主要指的是多个罐头或容器。

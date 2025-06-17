@@ -1,0 +1,24 @@
+- drives
+  - 发音
+    - 英 /draɪvz/
+    - 美 /draɪvz/
+  - 词义
+    - n. 驱动力；驱动器（drive 的复数形式）；驱动装置
+    - v. 驾驶；驱使；迫使（drive 的第三人称单数形式）
+      - Operate a vehicle; compel or urge forward with force.
+  - 同根词
+    - n. driver 司机；驱动程序
+    - n. driveway 车道
+    - adj. driving 强劲的；推动的
+  - 近义词
+    - v. 推动
+      - pushes
+      - propels
+  - 短语
+    - hard drive 硬盘驱动器
+    - drive through 通过式服务；得来速（快餐店的一种免下车服务）
+  - 例句
+    - He drives to work every day. 他每天开车去上班。
+    - The new computer has two hard drives for additional storage space. 新电脑有两个硬盘驱动器，提供额外的存储空间。
+  - 补充
+    - 在技术和计算机领域，“drives”通常指的是用于存储数据的设备，如硬盘驱动器（hard drive）。在日常生活中，"drives"更多地与驾驶车辆有关，但也可以指任何推动或驱动其他事物前进的力量或动机。例如，在心理学中，“drive”可以指内在的动机或欲望。

@@ -1,0 +1,38 @@
+- pulled
+  - 发音
+    - 英 /pʊld/
+    - 美 /pʊld/
+  - 词义
+    - v. 拉；拖；拔出（pull 的过去式和过去分词）
+      - Exerted force to move something towards oneself or in a specific direction.
+  - 同根词
+    - v. pull 拉；拖
+    - n. pull 拉力；吸引力
+    - n. puller 拉的人；拆卸工具
+    - n. pulley 滑轮
+    - adj. pulled 拉制的（如鸡肉）
+  - 近义词
+    - v. 拉
+      - dragged
+      - tugged
+      - hauled
+      - drew
+      - yanked
+    - v. 拔出
+      - extracted
+      - removed
+      - plucked
+  - 短语
+    - pulled out 拔出；撤离
+    - pulled off 成功完成
+    - pulled through 渡过难关
+    - pulled up 停下；提高
+    - pulled apart 拆开；拉开
+  - 例句
+    - The child pulled his mother's sleeve to get attention. 孩子拉了拉母亲的袖子以引起注意。
+    - The dentist pulled the decayed tooth carefully. 牙医小心地拔掉了蛀牙。
+    - They pulled off an incredible victory against the champions. 他们成功战胜了卫冕冠军。
+    - The car pulled up abruptly at the red light. 汽车在红灯前突然停下。
+    - Rescuers pulled survivors from the collapsed building. 救援人员从倒塌的建筑物中拉出幸存者。
+  - 补充
+    - 核心含义是施加牵引力，既指物理动作（拉门/拖船），也比喻抽象行为（吸引注意/完成挑战）。在烹饪中指手撕肉（pulled pork），机械领域指拉力测试（pull test），医疗场景指拔牙/拔管操作。

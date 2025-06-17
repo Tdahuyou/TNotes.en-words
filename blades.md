@@ -1,0 +1,24 @@
+- blades
+  - 发音
+    - 英 /bleɪdz/
+    - 美 /bleɪdz/
+  - 词义
+    - n. 刀片；叶片（blade 的复数形式）
+      - The flat, sharp part of a tool or weapon such as a knife or sword; a thin leaf-like appendage of a plant.
+  - 同根词
+    - n. blade 刀片；叶片
+    - v. blade （罕用）使成刀片状
+    - adj. bladed 叶片状的；有刃的
+  - 近义词
+    - n. knives (knife 的复数) 刀子（更通用的术语，指各种用途的刀具）
+    - n. swords 剑（特指用于战斗或装饰的长刀片）
+  - 短语
+    - razor blades 剃须刀片
+    - wind turbine blades 风力涡轮机叶片
+    - ice skates blades 冰刀刀片
+  - 例句
+    - He carefully replaced the blades in the knife sharpener. 他小心翼翼地将刀片装回磨刀器中。
+    - Modern wind turbines have very long and strong blades to capture the wind effectively. 现代风力涡轮机拥有非常长且坚固的叶片以有效地捕捉风力。
+    - The ice skater's blades gleamed under the rink lights. 冰刀在溜冰场灯光下闪闪发光。
+  - 补充
+    - Blades 这个词可以指多种具有扁平、锋利特点的物体，从日常使用的剃须刀片到大型风力发电设备上的叶片。它们的设计根据具体应用而异，但共同点是都要求材料强度高且耐磨。此外，在植物学中，blade 也用来描述叶的部分，尤其是叶片的平面部分。因此，blades 的应用范围广泛，涵盖了从技术到日常生活再到自然科学的多个领域。

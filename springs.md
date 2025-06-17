@@ -1,0 +1,28 @@
+- springs
+  - 发音
+    - 英 /sprɪŋz/
+    - 美 /sprɪŋz/
+  - 词义
+    - n. 泉水；弹簧（spring 的复数形式）
+      - Natural water sources; elastic coils.
+    - v. 跳跃；弹起（spring 的第三人称单数）
+      - Moves suddenly upward or forward.
+  - 同根词
+    - n. spring 春天；弹簧
+    - adj. springy 有弹性的
+    - n. springboard 跳板
+    - adj. sprung 装有弹簧的
+  - 近义词
+    - fountains
+    - coils
+    - leaps
+  - 短语
+    - hot springs 温泉
+    - bed springs 床垫弹簧
+    - coil springs 螺旋弹簧
+    - spring into action 立即行动
+  - 例句
+    - Tourists bathe in natural hot springs. 游客在天然温泉中沐浴。
+    - The cat springs at its prey with lightning speed. 猫以闪电般的速度扑向猎物。
+  - 补充
+    - 地质学指地下水涌出点（mineral springs），机械工程指储能元件（suspension springs）。比喻义指突然行动（spring a surprise）。

@@ -1,0 +1,34 @@
+- pebbled
+  - 发音
+    - 英 /ˈpebld/
+    - 美 /ˈpebld/
+  - 词义
+    - adj. 铺满鹅卵石的；有卵石花纹的
+      - Covered with or resembling small rounded stones.
+    - v. 用卵石铺（pebble 的过去式和过去分词）
+      - Past tense of pebble, meaning to pave with pebbles.
+  - 同根词
+    - n. pebble 鹅卵石
+    - adj. pebbly 多卵石的；有卵石花纹的
+    - n. pebbling 铺卵石；卵石花纹
+    - n. pebble dash （墙面）卵石饰面
+  - 近义词
+    - adj. 铺满鹅卵石的
+      - graveled
+      - stoned
+      - shingled
+    - adj. 有纹理的
+      - textured
+      - granulated
+  - 短语
+    - pebbled beach 卵石海滩
+    - pebbled leather 粒面皮革（有卵石花纹的皮革）
+    - pebbled pathway 卵石小径
+    - pebbled surface 卵石表面
+    - pebbled glass 麻面玻璃
+  - 例句
+    - The pebbled shore crunched under their feet as they walked. 他们行走时，脚下的卵石海滩嘎吱作响。
+    - Her handbag was made of fine pebbled leather. 她的手提包由精美的粒面皮革制成。
+    - Ancient Romans pebbled their courtyards for better drainage. 古罗马人用卵石铺砌庭院以获得更好的排水效果。
+  - 补充
+    - 描述表面覆盖鹅卵石或具有类似纹理的物体。常见于海岸地貌描述（pebbled beach）、皮革工艺（pebbled leather）和建筑材料（pebbled concrete）。在文学中常营造宁静自然的氛围。

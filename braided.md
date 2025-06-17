@@ -1,0 +1,23 @@
+- braided
+  - 发音
+    - 英 /ˈbreɪdɪd/
+    - 美 /ˈbreɪdɪd/
+  - 词义
+    - adj. 编织的；编成辫的
+      - Made by interlacing three or more strands of flexible material, such as hair or yarn.
+    - v. 编织；编结（braid 的过去式和过去分词）
+  - 同根词
+    - n. braid 辫子；穗带
+    - v. braid 编织；将...编成辫
+    - adj. braiding 编织的材料或工艺
+  - 近义词
+    - adj. plaited 编织的；编成辫的
+    - adj. woven 编织的（一般指布料等）
+  - 短语
+    - braided hair 编织的头发；辫子
+    - braided bracelet 编织手链
+  - 例句
+    - She wore her hair in a braided style for the party. 她为聚会把头发编成了辫子。
+    - The artisan made a beautiful braided bracelet from colorful threads. 艺术家用彩色线制作了一个美丽的编织手链。
+  - 补充
+    - “Braided”一词广泛应用于不同的文化背景中，尤其是在发型设计、手工艺品制作以及服饰装饰方面。编织不仅是一种实用技能，也是一种艺术形式，它反映了不同文化的美学和技术特点。在某些文化中，特定的编织样式甚至可能具有象征意义，代表了年龄、社会地位或个人成就。

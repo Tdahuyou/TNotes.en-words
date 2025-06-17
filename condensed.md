@@ -1,0 +1,22 @@
+- condensed
+  - 发音
+    - 英 /kənˈdɛst/
+    - 美 /kənˈdɛst/
+  - 词义
+    - adj. 浓缩的；简化的；压缩的
+      - Made denser or more concise; reduced to a shorter form.
+  - 同根词
+    - v. condense 凝结；浓缩
+    - n. condensation 凝结；浓缩过程
+    - n. condenser 冷凝器；浓缩器
+  - 近义词
+    - adj. concentrated 集中的；浓缩的
+    - adj. compacted 压实的；压缩的
+  - 短语
+    - condensed milk 炼乳；浓缩牛奶
+    - condensed version 简化版；浓缩版本
+  - 例句
+    - The report was so long that I only read the condensed version. 报告太长了，所以我只读了简化版。
+    - Condensed milk is often used in coffee and desserts. 炼乳常用于咖啡和甜点中。
+  - 补充
+    - 在化学、物理以及信息处理领域中，“condensed”一词用来描述物质或信息从一种较为分散的状态转变为更为集中或紧凑状态的过程。例如，水蒸气遇冷后凝结成水滴，或者将一本书的内容精简为摘要。

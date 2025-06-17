@@ -1,0 +1,24 @@
+- barefoot
+  - 发音
+    - 英 /ˌbeəˈfʊt/
+    - 美 /ˌberˈfʊt/
+  - 词义
+    - adj. 赤脚的；无鞋的
+      - Wearing no shoes or socks.
+    - adv. 赤脚地
+      - Without shoes or socks on the feet.
+  - 同根词
+    - n. bare 裸露的；空的
+    - v. bare 暴露；揭开
+    - adj. footed 有脚的；具有某种类型脚的（与 bare 构成复合词时使用）
+  - 近义词
+    - adj. shoeless 没穿鞋的
+    - adv. unshod 没穿鞋的
+  - 短语
+    - go barefoot 赤脚行走
+    - barefoot doctor 赤脚医生（特指中国 20 世纪中叶在农村地区提供基本医疗服务但未经正式医学培训的人）
+  - 例句
+    - She likes to walk barefoot on the beach. 她喜欢赤脚在海滩上行走。
+    - The children were playing barefoot in the garden. 孩子们在花园里赤脚玩耍。
+  - 补充
+    - "Barefoot" 不仅描述了一种没有穿鞋的状态，还常用来象征自由、亲近自然的生活方式。此外，“barefoot doctor”在中国历史上指的是那些为农村地区提供基础医疗服务的人员，他们虽然缺乏正式的医疗培训，但在改善公共卫生方面发挥了重要作用。这一概念后来也被其他国家借鉴，用于提升偏远地区的医疗服务水平。

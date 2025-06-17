@@ -1,0 +1,26 @@
+- harbours
+  - 发音
+    - 英 /ˈhɑːbəz/
+    - 美 /ˈhɑːrbərz/
+  - 词义
+    - n. 港口；避难所
+      - A place on the coast where ships may moor in shelter.
+  - 同根词
+    - n. harbour 港口
+    - v. harbour 庇护；怀有
+    - adj. harboured 被庇护的
+  - 近义词
+    - n. 港口
+      - port
+      - haven
+      - dock
+  - 短语
+    - safe harbour 安全港（比喻）
+    - natural harbour 天然港
+    - deep-water harbour 深水港
+  - 例句
+    - The ship entered the harbour at dawn. 船在黎明时分进入了港口。
+    - This bay provides an excellent natural harbour. 这个海湾提供了绝佳的天然港口。
+    - The city has one of the busiest harbours in Europe. 该城市拥有欧洲最繁忙的港口之一。
+  - 补充
+    - 通常指供船只停泊的沿海或内河区域，既指物理港口也比喻安全避难所。在航海、贸易、军事等场景常见使用，天然港尤其指未经人工改造的地理优势港口。

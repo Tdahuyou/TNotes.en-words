@@ -1,0 +1,40 @@
+- pins
+  - 发音
+    - 英 /pɪnz/
+    - 美 /pɪnz/
+  - 词义
+    - n. 别针；图钉；销（pin 的复数形式）
+      - Small pointed pieces of metal used for fastening or attaching.
+    - v. 固定；别住（pin 的第三人称单数）
+      - Secures or attaches something with a pin.
+  - 同根词
+    - n. pin 别针；销
+    - n. pincushion 针垫
+    - n. pinhead 针头；小东西
+    - n. pinpoint 精确位置；针尖
+    - adj. pinned 被固定的
+  - 近义词
+    - n. 固定物
+      - needles
+      - clips
+      - fasteners
+      - pegs
+    - n. 连接件
+      - dowels
+      - rivets
+      - bolts
+  - 短语
+    - safety pins 安全别针
+    - pins and needles 发麻感（如肢体麻木）
+    - on pins and needles 坐立不安
+    - rolling pins 擀面杖
+    - hair pins 发夹
+    - cotter pins 开口销
+  - 例句
+    - She used colorful pins to attach the photos to the bulletin board. 她用彩色图钉把照片固定在公告板上。
+    - My leg has pins and needles after sitting cross-legged for an hour. 盘腿坐一小时后，我的腿发麻了。
+    - The engineer inserted steel pins to reinforce the joint. 工程师插入钢销来加固连接处。
+    - Tailors often hold fabric in place with straight pins before sewing. 裁缝在缝纫前常用直针固定布料。
+    - "I'm on pins and needles waiting for the exam results," he confessed. 他承认："等待考试结果让我坐立不安。"
+  - 补充
+    - 根据功能分为多种类型：固定纸张的图钉、连接机械的定位销、固定衣物的别针。在电子领域指接口针脚（如 CPU pins），日常隐喻指"坐立不安"(on pins and needles)。医疗场景指骨科固定钢针（bone pins）。

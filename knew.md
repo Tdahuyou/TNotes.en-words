@@ -1,0 +1,31 @@
+- knew
+  - 发音
+    - 英 /njuː/
+    - 美 /nuː/
+  - 词义
+    - v. 知道；认识（know 的过去式）
+      - Had information or understanding in the past; was familiar with.
+  - 同根词
+    - v. know 知道；认识
+    - adj. knowing 会意的；心照不宣的
+    - n. knowledge 知识；知晓
+    - adj. known 已知的；公认的
+  - 近义词
+    - v. 知道
+      - recognized
+      - understood
+      - realized
+      - perceived
+  - 短语
+    - knew by heart 熟记于心
+    - knew no bounds 无限度
+    - knew better than 明智地不做...
+    - knew the ropes 熟悉流程
+    - never knew 从未知晓
+  - 例句
+    - I knew immediately that something was wrong. 我立即意识到出了问题。
+    - She knew Paris well after living there for five years. 在巴黎居住五年后，她对这座城市很熟悉。
+    - They knew each other from college days. 他们从大学时代就互相认识。
+    - He knew better than to argue with his boss. 他很明智地没有和老板争论。
+  - 补充
+    - 用于描述过去的知识状态或熟悉程度，常出现在回忆性叙述、历史陈述和虚拟语气中（如"If I knew..."）。在口语中常与"well/perfectly/immediately"等副词连用强调认知程度。

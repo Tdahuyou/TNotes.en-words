@@ -1,0 +1,37 @@
+- looked
+  - 发音
+    - 英 /lʊkt/
+    - 美 /lʊkt/
+  - 词义
+    - v. 看；显得（look 的过去式和过去分词）
+      - Directed one's gaze; appeared in a certain way.
+  - 同根词
+    - v. look 看；显得
+    - n. look 外观；表情
+    - adj. looking 好看的；有...样子的
+    - n. lookout 瞭望员；前景
+    - adj. lookalike 相似的
+  - 近义词
+    - v. 看
+      - glanced
+      - gazed
+      - peered
+      - observed
+    - v. 显得
+      - appeared
+      - seemed
+      - came across
+  - 短语
+    - looked after 照料
+    - looked into 调查
+    - looked up to 尊敬
+    - looked down on 轻视
+    - looked forward to 期待
+  - 例句
+    - She looked out the window and saw the first snowfall. 她望向窗外，看到了初雪。
+    - He looked exhausted after the marathon. 马拉松后他显得精疲力尽。
+    - The detective looked into the mysterious disappearance. 侦探调查了这起神秘失踪案。
+    - Children always looked up to their heroic grandfather. 孩子们总是尊敬他们英雄般的祖父。
+    - We looked forward to the vacation for months. 我们期待这次假期已有数月。
+  - 补充
+    - 既表示物理上的视觉动作（如观察/凝视），也描述主观印象（如显得疲惫/年轻）。在英语中形成大量固定短语（look into/after/up to），是日常交流的高频动词。

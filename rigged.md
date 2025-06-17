@@ -1,0 +1,38 @@
+- rigged
+  - 发音
+    - 英 /rɪɡd/
+    - 美 /rɪɡd/
+  - 词义
+    - adj. 被操纵的；作弊的
+      - Manipulated or controlled unfairly for personal advantage.
+    - v. 装配索具；操纵（rig 的过去式和过去分词）
+      - Fitted with sails and ropes; manipulated dishonestly.
+  - 同根词
+    - v. rig 操纵；装配
+    - n. rigging 索具；操纵
+    - n. rigger 装配工；操纵者
+    - adj. riggable 可装配索具的
+    - n. rig-out 全套装备
+  - 近义词
+    - adj. 作弊的
+      - fixed
+      - manipulated
+      - doctored
+      - fraudulent
+    - v. 装配
+      - outfitted
+      - equipped
+      - fitted
+  - 短语
+    - rigged election 被操纵的选举
+    - rigged game 作弊的游戏
+    - fully rigged ship 全帆装船
+    - jury-rigged 临时拼凑的
+    - oil rig 石油钻井平台
+  - 例句
+    - The investigation proved the competition was rigged in favor of certain participants. 调查证明比赛被操纵以偏袒特定参赛者。
+    - Sailors rigged the ship with new sails before the voyage. 水手们在航行前给船装配了新帆。
+    - Protesters claimed the voting system was rigged against minority groups. 抗议者声称投票系统被操纵以损害少数群体利益。
+    - They jury-rigged a temporary shelter using tarps and branches after the storm. 暴风雨后他们用防水布和树枝临时拼凑了避难所。
+  - 补充
+    - 政治语境指选举/投票被非法操控（rigged election），游戏领域指作弊设置（rigged game）。航海术语指帆船索具装配（fully rigged），工程领域指钻井平台（oil rig）。临时解决方案常用"jury-rigged"表示应急拼凑。

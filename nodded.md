@@ -1,0 +1,32 @@
+- nodded
+  - 发音
+    - 英 /ˈnɒdɪd/
+    - 美 /ˈnɑːdɪd/
+  - 词义
+    - v. 点头（nod 的过去式和过去分词）
+      - Moved the head down and up to indicate agreement or acknowledgment.
+  - 同根词
+    - v. nod 点头
+    - n. nod 点头；打盹
+    - adj. nodding 点头的；垂头的
+    - n. noddle 脑袋（口语）
+    - n. nodder 点头者；点头玩偶
+  - 近义词
+    - v. 点头示意
+      - gestured
+      - signaled
+      - indicated
+      - acknowledged
+  - 短语
+    - nodded off 打瞌睡
+    - nodded approval 点头同意
+    - nodded in agreement 点头表示赞同
+    - nodded curtly 草草点头
+    - nodded toward 朝...方向点头示意
+  - 例句
+    - The professor nodded thoughtfully before answering the question. 教授在回答问题前若有所思地点了点头。
+    - She nodded to the waiter to bring the check. 她向服务员点头示意结账。
+    - During the meeting, he nodded off briefly due to exhaustion. 会议中他因疲惫短暂打起了瞌睡。
+    - The children nodded solemnly when their father gave instructions. 当父亲给出指示时，孩子们严肃地点了头。
+  - 补充
+    - 非语言交流的重要方式：表示同意/问候/示意。在正式场合（会议/课堂）体现尊重，在亲密关系中可替代语言交流。点头幅度和速度常反映情绪强度（如热情点头 vs 敷衍点头）。

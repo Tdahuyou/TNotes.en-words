@@ -1,0 +1,31 @@
+- horses
+  - 发音
+    - 英 /ˈhɔːsɪz/
+    - 美 /ˈhɔːrsɪz/
+  - 词义
+    - n. 马（horse 的复数形式）
+      - Large domesticated mammals used for riding, racing, and carrying loads.
+  - 同根词
+    - n. horse 马
+    - n. horseman 骑手
+    - adj. horsy 爱马的；似马的
+    - n. horseback 马背
+    - n. horsepower 马力（功率单位）
+  - 近义词
+    - n. 马匹
+      - steeds
+      - mounts
+      - equines
+      - chargers
+  - 短语
+    - dark horse 黑马（意外获胜者）
+    - hold your horses 耐心等待（口语）
+    - wild horses couldn't drag me 任何力量都无法强迫我
+    - horses for courses 因材适用（英式习语）
+    - change horses in midstream 中途改变计划
+  - 例句
+    - The rancher breeds horses for show jumping competitions. 牧场主为马术障碍赛培育马匹。
+    - Wild horses still roam freely in some American national parks. 野马仍在美国的一些国家公园自由漫步。
+    - Ancient civilizations used horses extensively in warfare and transportation. 古代文明广泛使用马匹进行战争和运输。
+  - 补充
+    - 作为人类最早驯化的动物之一（约 6000 年前），在农业、运输、军事领域有重要历史地位。现代主要用于体育竞技（赛马/马术）、休闲骑乘和治疗性骑马活动。

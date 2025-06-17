@@ -1,0 +1,6 @@
+- Cleveland
+  - **Cleveland**（克利夫兰）是美国俄亥俄州东北部的一座重要城市，位于伊利湖畔，是该州最大的城市之一。
+  - 它以工业历史著称，特别是在钢铁、制造和运输领域曾发挥重要作用。
+  - 克利夫兰是摇滚乐的发源地之一，设有“摇滚名人堂”（Rock and Roll Hall of Fame）。
+  - 该市拥有优质的医疗资源，克利夫兰诊所（Cleveland Clinic）是全球知名的医疗机构。
+  - Cleveland 也是体育重镇，拥有 NFL（美式橄榄球）球队 Browns 和 NBA（篮球）球队 Cavaliers。

@@ -1,0 +1,26 @@
+- cats
+  - 发音
+    - 英 /kæts/
+    - 美 /kæts/
+  - 词义
+    - n. 猫（cat 的复数形式）
+      - Plural form of cat, referring to small carnivorous mammals with retractable claws.
+  - 同根词
+    - n. cat 猫
+    - adj. feline 猫科动物的
+    - n. kitten 小猫
+  - 近义词
+    - n. felines 猫科动物
+      - Refers to a family of mammals including big and small cats.
+    - n. kitties 小猫（非正式说法）
+      - Informal term for kittens or cats.
+  - 短语
+    - wild cats 野猫
+    - stray cats 流浪猫
+    - cat's meow 极好的；非常棒的事物（俚语）
+  - 例句
+    - She loves playing with her two cats after work. 她喜欢下班后和她的两只猫玩耍。
+    - The stray cats were fed by the kind old lady every day. 那位善良的老妇人每天都会喂那些流浪猫。
+    - He found out that his new pet was afraid of catnip, which is unusual for most cats. 他发现他的新宠物害怕猫薄荷，这在大多数猫中是不常见的。
+  - 补充
+    - Cats 作为人类的伴侣动物已经有数千年的历史了。它们因其独立性、清洁习惯以及捕鼠能力而被广泛喜爱。在全球范围内，不同文化对猫有着不同的看法和传说。

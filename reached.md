@@ -1,0 +1,37 @@
+- reached
+  - 发音
+    - 英 /riːtʃt/
+    - 美 /riːtʃt/
+  - 词义
+    - v. 到达；达到；伸出（reach 的过去式和过去分词）
+      - Arrived at a destination or achieved a goal; stretched out a body part.
+  - 同根词
+    - v. reach 到达；延伸
+    - adj. reachable 可到达的
+    - adj. unreachable 无法达到的
+    - n. reach 范围；可及范围
+    - n. reachability 可达性
+  - 近义词
+    - v. 到达
+      - arrived
+      - attained
+      - gained
+      - accomplished
+    - v. 伸出
+      - extended
+      - stretched
+      - proffered
+  - 短语
+    - reached out 伸出援手；联系
+    - reached an agreement 达成协议
+    - reached the limit 达到极限
+    - reached for 伸手去拿
+    - reached new heights 达到新高度
+  - 例句
+    - The hikers reached the mountain peak at dawn. 徒步者在黎明时分到达了山顶。
+    - Sales reached record levels during the holiday season. 假日季销售额达到创纪录水平。
+    - She reached for her glasses on the bedside table. 她伸手去拿床头柜上的眼镜。
+    - After months of negotiation, both parties finally reached a compromise. 经过数月的谈判，双方终于达成了妥协。
+    - The child reached out to touch the butterfly but it flew away. 孩子伸手去摸蝴蝶，但它飞走了。
+  - 补充
+    - 描述完成空间移动（到达某地）或实现目标（达成协议/创纪录）。在人际交往中特指主动联系（reach out），物理层面指肢体伸展（reach for）。商业报告常用"reached target"表示达成指标。

@@ -1,0 +1,35 @@
+- occurrences
+  - 发音
+    - 英 /əˈkʌrənsɪz/
+    - 美 /əˈkɜːrənsɪz/
+  - 词义
+    - n. 事件；发生（occurrence 的复数形式）
+      - Instances of something happening or existing.
+  - 同根词
+    - n. occurrence 事件；发生
+    - v. occur 发生；出现
+    - adj. occurring 发生的；现存的
+    - adv. occurrently 发生地
+    - adj. occurrent 正在发生的
+  - 近义词
+    - n. 事件
+      - incidents
+      - events
+      - happenings
+      - phenomena
+    - n. 出现
+      - appearances
+      - manifestations
+  - 短语
+    - rare occurrences 罕见事件
+    - daily occurrences 日常事件
+    - unexpected occurrences 意外事件
+    - frequency of occurrences 发生频率
+    - natural occurrences 自然现象
+  - 例句
+    - Police recorded several unusual occurrences in the neighborhood last night. 警方记录了昨晚社区发生的几起异常事件。
+    - Volcanic eruptions are common occurrences in this region. 火山喷发是该地区的常见现象。
+    - The software logs all error occurrences for debugging purposes. 该软件记录所有错误发生以便调试。
+    - Such occurrences are statistically unlikely but not impossible. 此类事件在统计学上概率很低但并非不可能。
+  - 补充
+    - 常用于描述计划外或随机事件（事故/异常现象），在科研中特指可观测实例（如物种出现记录）。与"incidents"相比更中性客观，数据统计中关注发生频率（frequency of occurrence）。

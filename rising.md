@@ -1,0 +1,42 @@
+- rising
+  - 发音
+    - 英 /ˈraɪzɪŋ/
+    - 美 /ˈraɪzɪŋ/
+  - 词义
+    - adj. 上升的；上涨的
+      - Increasing in level, amount, or intensity.
+    - n. 上升；起义
+      - The action of moving upward; an act of rebellion.
+    - v. 升起；起床（rise 的现在分词）
+      - Present participle of rise.
+  - 同根词
+    - v. rise 上升；升起
+    - n. rise 上升；增长
+    - adj. risen 升起的；复活的
+    - n. uprise 上升；起义
+    - n. riser 起床者；起义者
+  - 近义词
+    - adj. 上升的
+      - ascending
+      - mounting
+      - climbing
+      - soaring
+    - n. 起义
+      - rebellion
+      - uprising
+      - revolt
+      - insurrection
+  - 短语
+    - rising sun 朝阳
+    - rising tide 涨潮；上升趋势
+    - rising star 后起之秀
+    - rising action （戏剧）剧情发展
+    - rising cost 上涨的成本
+  - 例句
+    - The rising moon illuminated the path through the forest. 升起的月亮照亮了穿过森林的小径。
+    - Rising sea levels threaten coastal communities worldwide. 海平面上升威胁着全球沿海社区。
+    - She is considered a rising star in contemporary art. 她被视作当代艺术界的后起之秀。
+    - The peasants' rising against unfair taxes lasted three months. 农民反对不公平税收的起义持续了三个月。
+    - Bread prices keep rising due to poor harvests. 由于收成不佳，面包价格持续上涨。
+  - 补充
+    - 既描述物理运动（如太阳/潮水上升），也比喻增长趋势（成本/声望）。在历史语境特指武装反抗（如农民起义），气象学指气压上升（rising barometer）。金融图表常用"rising wedge"表示看跌形态。

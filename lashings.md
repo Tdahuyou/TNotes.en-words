@@ -1,0 +1,25 @@
+- lashings
+  - 发音
+    - 英 /ˈlæʃɪŋz/
+    - 美 /ˈlæʃɪŋz/
+  - 词义
+    - n. 系绳；捆绑索
+      - Ropes used for securing objects on ships or boats.
+  - 同根词
+    - v. lash 捆扎；猛击
+    - n. lash 鞭打；睫毛
+    - adj. lashing 猛烈的；大量的
+  - 近义词
+    - n. 系绳
+      - bindings
+      - fastenings
+      - ties
+  - 补充
+    - 传统木船的关键安全装置，现代航海仍在使用。在文学中常象征人与自然的联结，体现海明威对航海细节的精准描写。
+    - 《老人与海》(The Old Man and the Sea)
+      - 【167】"He fitted the rope lashings of the oars onto the thole pins"
+      - "他将桨绳套在桨栓上"
+    - 航海术语解析
+      - 桨绳 (oar lashings)：固定船桨的绳索
+      - 桨栓 (thole pins)：船沿固定船桨的 U 形栓
+      - 作用：防止划桨时船桨脱落

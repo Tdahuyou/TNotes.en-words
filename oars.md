@@ -1,0 +1,32 @@
+- oars
+  - 发音
+    - 英 /ɔːz/
+    - 美 /ɔːrz/
+  - 词义
+    - n. 桨（oar 的复数形式）
+      - Long poles with flat blades used for rowing boats.
+  - 同根词
+    - n. oar 桨
+    - n. oarsman 桨手
+    - n. oarlock 桨架（固定桨的 U 形栓）
+    - adj. oared 有桨的
+    - n. oarfish 皇带鱼（形似长桨的深海鱼）
+  - 近义词
+    - n. 划船工具
+      - paddles
+      - sculls
+      - sweeps
+      - blades
+  - 短语
+    - pull oars 划桨
+    - rest on oars 暂停划桨（喻暂停努力）
+    - put one's oar in 干涉（多管闲事）
+    - boat oars 收桨（停划指令）
+    - feather oars 平桨（减少阻力技巧）
+  - 例句
+    - The fisherman dipped his oars silently into the moonlit water. 渔夫将桨轻轻划入月光照耀的水中。
+    - Rowers must synchronize their oars for maximum speed. 赛艇运动员必须同步划桨以达到最快速度。
+    - Ancient Viking ships were propelled by dozens of oars during battles. 古代维京船在战斗时由数十支桨推进。
+    - "Put your oars down!" the captain ordered as they approached the dock. "放下桨！"船靠近码头时船长命令道。
+  - 补充
+    - 传统木船的核心推进工具，现代赛艇采用碳纤维材质。在文学中常象征奋斗（如《老人与海》的桨绳细节）。航海术语"oar"单指桨，"oars"特指成对使用的划桨，区别于独木舟的"paddle"。

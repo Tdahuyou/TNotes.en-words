@@ -1,0 +1,31 @@
+- lions
+  - 发音
+    - 英 /ˈlaɪənz/
+    - 美 /ˈlaɪənz/
+  - 词义
+    - n. 狮子（lion 的复数形式）
+      - Large carnivorous felines known as apex predators.
+  - 同根词
+    - n. lion 狮子
+    - n. lioness 母狮
+    - n. lionet 幼狮
+    - adj. leonine 狮子般的
+    - v. lionize 把...奉为名人
+  - 近义词
+    - n. 大型猫科动物
+      - big cats
+      - predators
+      - carnivores
+  - 短语
+    - lions' den 狮穴（喻危险处境）
+    - mountain lions 美洲狮
+    - sea lions 海狮
+    - lions share 最大份额
+    - lion-hearted 勇敢的
+  - 例句
+    - African lions hunt cooperatively in prides. 非洲狮群协同捕猎。
+    - The lions at the sanctuary were rescued from illegal captivity. 保护区里的狮子是从非法圈养中解救的。
+    - Her courageous act earned her the nickname "the lioness". 她的勇敢行为为她赢得了"母狮"的绰号。
+    - He took the lion's share of the profits despite doing less work. 尽管工作较少，他却拿走了利润的最大份额。
+  - 补充
+    - 象征勇气与力量（如英国皇家纹章），在生态系统中作为顶级掠食者维持平衡。文化意象包括：英国三狮纹章、狮子王故事、新加坡鱼尾狮雕像等。野生动物保护重点关注非洲狮数量下降问题。

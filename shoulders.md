@@ -1,0 +1,28 @@
+- shoulders
+  - 发音
+    - 英 /ˈʃəʊldəz/
+    - 美 /ˈʃoʊldərz/
+  - 词义
+    - n. 肩膀（shoulder 的复数形式）
+      - Body parts connecting arms to torso.
+    - v. 承担；用肩推（shoulder 的第三人称单数）
+      - Bears responsibility; pushes with shoulder.
+  - 同根词
+    - n. shoulder 肩膀
+    - adj. shoulderless 无肩带的
+    - n. shoulder blade 肩胛骨
+    - adj. broad-shouldered 宽肩膀的
+  - 近义词
+    - upper arms
+    - joints
+    - burdens
+  - 短语
+    - shoulder responsibility 承担责任
+    - cold shoulder 冷落
+    - shoulder to shoulder 并肩
+    - chip on shoulder 易怒心态
+  - 例句
+    - He shrugged his shoulders in confusion. 他困惑地耸了耸肩。
+    - Soldiers stood shoulder to shoulder at the parade. 士兵们在阅兵式上并肩而立。
+  - 补充
+    - 解剖学上属于球窝关节，习语中象征责任承担（shoulder burden）或冷漠态度（cold shoulder）。

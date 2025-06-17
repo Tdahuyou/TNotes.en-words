@@ -1,0 +1,20 @@
+- bodega
+  - 发音
+    - 英 /bəʊˈdeɪɡə/
+    - 美 /boʊˈdeɪɡə/
+  - 词义
+    - n. 小杂货店；酒窖（在西班牙或拉丁美洲文化中）
+      - A small grocery store, typically one that sells wine and other alcoholic beverages; in Spanish-speaking regions, it can also refer to a cellar where wines are stored.
+  - 同根词
+    - adj. bodeguero 属于或关于小杂货店的
+  - 近义词
+    - n. corner store 街角小店
+    - n. convenience store 便利店
+  - 短语
+    - bodega cat 杂货店猫（指经常出没于这些店铺里的猫）
+    - bodega breakfast 杂货店早餐（简便快捷的食品选择）
+  - 例句
+    - She picked up some snacks at the bodega on her way home. 在回家的路上，她在小杂货店买了些零食。
+    - The bodega cat was curled up near the door, enjoying the sun. 那只杂货店猫蜷缩在门边享受着阳光。
+  - 补充
+    - 在美国的一些地区，尤其是纽约市，“bodega”这个词通常用来指代那些小型的家庭经营的杂货店，它们除了售卖日常用品之外，还可能出售三明治、咖啡等简单的快餐。这类店铺对于社区居民来说是非常重要的，因为它们提供了方便的购物选择。此外，在一些地方，这些店铺里常常会有猫咪存在，以帮助控制害虫数量，因此“bodega cat”也成为了一种特别的文化现象。

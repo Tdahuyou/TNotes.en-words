@@ -1,0 +1,25 @@
+- harsh-spoken
+  - 发音
+    - 英 /ˌhɑːʃ ˈspəʊkən/
+    - 美 /ˌhɑːrʃ ˈspoʊkən/
+  - 词义
+    - adj. 说话刻薄的；出言不逊的
+      - Using rough or unkind words when speaking to others.
+  - 同根词
+    - adj. harsh 严厉的；刺耳的
+    - v. speak 说话
+    - n. speech 演讲；说话方式
+  - 近义词
+    - adj. 说话刻薄的
+      - blunt
+      - abrasive
+      - curt
+  - 短语
+    - harsh-spoken criticism 刻薄的批评
+    - harsh-spoken remarks 尖刻的言论
+  - 例句
+    - His harsh-spoken feedback made everyone uncomfortable. 他刻薄的反馈让所有人感到不适。
+    - Though harsh-spoken, her advice was always accurate. 虽然说话刻薄，但她的建议总是准确的。
+    - The manager is known for being harsh-spoken but fair. 这位经理以说话刻薄但公平著称。
+  - 补充
+    - 通常描述直率但缺乏同理心的说话方式，常见于严厉的批评、直白的反馈或性格耿直的人群中。在职场反馈、教育评价等正式场合需谨慎使用。

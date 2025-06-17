@@ -1,0 +1,40 @@
+- shields
+  - 发音
+    - 英 /ʃiːldz/
+    - 美 /ʃiːldz/
+  - 词义
+    - n. 盾牌；防护物（shield 的复数形式）
+      - Protective barriers against attack or danger.
+    - v. 保护；遮蔽（shield 的第三人称单数）
+      - Protects or defends from harm.
+  - 同根词
+    - n. shield 盾；保护物
+    - v. shield 保护；庇护
+    - adj. shielding 防护的；屏蔽的
+    - n. windshield 挡风玻璃（美式）
+    - n. shieldmaiden 女盾战士（北欧传说）
+  - 近义词
+    - n. 防护物
+      - protectors
+      - barriers
+      - guards
+      - defenses
+    - v. 保护
+      - protects
+      - safeguards
+      - defends
+      - covers
+  - 短语
+    - riot shields 防暴盾牌
+    - heat shields 隔热罩（航天器）
+    - human shields 人盾
+    - shield volcanoes 盾状火山（地质）
+    - behind shields 在盾牌防护下
+  - 例句
+    - Roman soldiers carried rectangular shields made of wood and leather. 罗马士兵携带由木头和皮革制成的矩形盾牌。
+    - The spacecraft's heat shields protected it during re-entry. 航天器的隔热罩在重返大气层时保护了它。
+    - Using civilians as human shields is a war crime. 将平民用作人体盾牌是战争罪。
+    - The police formed a line with their riot shields. 警察用防暴盾牌组成了一道防线。
+    - Trees shield the house from strong winds. 树木为房屋遮挡强风。
+  - 补充
+    - 物理防护装置（如战斗盾牌/防暴盾牌），也比喻法律保护（legal shield）。科技领域指电磁屏蔽（EMI shielding），地质学指盾状火山（shield volcano）。在网络安全中，防火墙被称为"digital shield"。中世纪骑士纹章盾（heraldic shield）承载家族标识。

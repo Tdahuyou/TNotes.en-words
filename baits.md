@@ -1,0 +1,25 @@
+- baits
+  - 发音
+    - 英 /beɪts/
+    - 美 /beɪts/
+  - 词义
+    - n. 饵；诱饵（bait 的复数形式）
+      - Something used to lure or attract fish or other animals so they can be caught.
+    - v. 挑逗；使上钩（bait 的第三人称单数形式）
+      - To put food on a hook or in a trap to attract and catch fish or animals.
+  - 同根词
+    - n. bait 饵，诱饵
+    - v. bait 以饵引诱；折磨
+    - adj. baited 有诱饵的
+  - 近义词
+    - n. lures 引诱物；鱼饵
+    - n. decoys 诱饵；假目标
+  - 短语
+    - fishing baits 钓鱼用的饵
+    - set baits 布置诱饵
+    - bait shop 饵店
+  - 例句
+    - He used worms as fishing baits. 他用虫子作钓鱼的饵。
+    - They set baits to catch the mice. 他们布置了诱饵来捕捉老鼠。
+  - 补充
+    - "Baits" 在日常生活中主要用于指钓鱼或其他捕猎活动中用来吸引猎物的物品。此外，“baits”也可以指通过某些诱惑物或手段来吸引人的注意或兴趣，例如在市场营销中利用特价优惠作为“诱饵”吸引顾客。然而，在使用时应注意道德和法律界限，避免欺诈行为。

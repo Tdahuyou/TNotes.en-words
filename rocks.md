@@ -1,0 +1,40 @@
+- rocks
+  - 发音
+    - 英 /rɒks/
+    - 美 /rɑːks/
+  - 词义
+    - n. 岩石；石头（rock 的复数形式）
+      - Large natural masses of mineral matter.
+    - v. 摇晃；震动（rock 的第三人称单数）
+      - Moves gently back and forth; causes shock or disturbance.
+  - 同根词
+    - n. rock 岩石；摇滚乐
+    - adj. rocky 多岩石的；不稳的
+    - n. rocker 摇椅；摇滚乐手
+    - adj. rocking 摇摆的；极好的
+    - n. rockery 假山花园
+  - 近义词
+    - n. 岩石
+      - stones
+      - boulders
+      - crags
+      - cliffs
+    - v. 摇晃
+      - sways
+      - shakes
+      - jolts
+      - staggers
+  - 短语
+    - between a rock and a hard place 进退两难
+    - rock bottom 最低点
+    - on the rocks （酒）加冰；濒临失败
+    - rock the boat 惹麻烦
+    - sedimentary rocks 沉积岩
+  - 例句
+    - Waves crashed against the coastal rocks during the storm. 暴风雨中海浪猛烈拍打沿岸岩石。
+    - The earthquake rocked the buildings in downtown Tokyo. 地震摇晃了东京市中心的建筑物。
+    - Children collected colorful rocks along the riverbank. 孩子们在河岸边收集彩色石头。
+    - The scandal rocked the political establishment to its core. 丑闻从根本上动摇了政治体制。
+    - Geologists study igneous rocks to understand volcanic activity. 地质学家研究火成岩以了解火山活动。
+  - 补充
+    - 地质学三大岩类：火成岩（igneous）、沉积岩（sedimentary）、变质岩（metamorphic）。在建筑中作建材（如花岗岩），音乐领域指摇滚乐（rock music）。动词含义既描述物理震动（地震/摇椅），也比喻颠覆性事件（rocked the world）。

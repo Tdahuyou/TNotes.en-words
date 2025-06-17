@@ -1,0 +1,26 @@
+- carried
+  - 发音
+    - 英 /ˈkærid/
+    - 美 /ˈkærid/
+  - 词义
+    - v. 搬运；携带；运送（carry 的过去式和过去分词）
+      - To take or support from one place to another; transport.
+  - 同根词
+    - v. carry 携带；搬运；支持
+    - n. carrier 承运人；载体
+    - adj. carrying 搬运的；携带的
+  - 近义词
+    - v. transported 运送；运输
+      - Moved something from one place to another.
+    - v. conveyed 传达；运送
+      - Communicated or transported something.
+  - 短语
+    - carried away 被带走；被冲走；忘乎所以
+    - carried out 实施；执行
+    - carried on 继续进行；维持
+  - 例句
+    - She carried the groceries into the kitchen. 她把杂货运进了厨房。
+    - The wind carried the leaves across the yard. 风把树叶吹过了院子。
+    - He was carried off the field on a stretcher after the injury. 受伤后，他被担架抬离了场地。
+  - 补充
+    - Carried 这个词语广泛用于描述各种情境下的搬运动作，无论是物理上的移动物体，还是抽象概念中的传递信息等。它在日常交流中非常常见。

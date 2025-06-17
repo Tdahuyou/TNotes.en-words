@@ -1,0 +1,41 @@
+- rolls
+  - 发音
+    - 英 /rəʊlz/
+    - 美 /roʊlz/
+  - 词义
+    - n. 卷；卷轴；面包卷（roll 的复数形式）
+      - Cylindrical shapes or objects; small individual bread portions.
+    - v. 滚动；转动（roll 的第三人称单数）
+      - Moves by turning over and over; operates continuously.
+  - 同根词
+    - v. roll 滚动；卷
+    - n. roller 滚筒；滚轮
+    - adj. rolling 起伏的；滚动的
+    - n. rollout 推出；首次展示
+    - n. rollover 翻转；续存
+  - 近义词
+    - n. 卷状物
+      - scrolls
+      - cylinders
+      - spools
+      - reels
+    - v. 滚动
+      - revolves
+      - rotates
+      - turns
+      - tumbles
+  - 短语
+    - spring rolls 春卷
+    - toilet rolls 厕纸卷
+    - rock and roll 摇滚乐
+    - rolls of film 胶卷
+    - sausage rolls 香肠卷
+    - roll call 点名
+  - 例句
+    - The children chased rolls of hay down the hill. 孩子们追着滚下山坡的干草卷。
+    - The bakery sells freshly baked cinnamon rolls every morning. 面包店每天早晨出售新鲜出炉的肉桂卷。
+    - Tears roll down her cheeks as she reads the letter. 她读信时泪水滚落脸颊。
+    - The ship rolls violently in stormy seas. 船在暴风雨的海面上剧烈摇晃。
+    - The factory rolls out 5,000 steel pipes daily. 工厂每天生产 5,000 根钢管。
+  - 补充
+    - 名词指圆柱形物体（胶卷/厕纸卷）或面食（面包卷/春卷）。动词描述圆周运动（滚动/转动），工业指连续生产（roll out steel）。在航海指船只横摇（ship rolls），音乐指摇滚乐（rock and roll）。会计术语指账目结转（rollover）。

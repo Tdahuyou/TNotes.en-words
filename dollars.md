@@ -1,0 +1,23 @@
+- dollars
+  - 发音
+    - 英 /ˈdɒləz/
+    - 美 /ˈdɑːlərz/
+  - 词义
+    - n. 美元（货币单位）
+      - The official currency of the United States, consisting of 100 cents.
+  - 同根词
+    - n. dollar 美元
+    - adj. dollarized 使用美元作为官方货币的
+    - n. doll 玩偶（注意：此同根词与“dollars”在意义上关联不大，仅供学习参考）
+  - 近义词
+    - n. 货币
+      - currency
+      - money
+  - 短语
+    - US dollars 美元
+    - Canadian dollars 加拿大元
+  - 例句
+    - He spent a few dollars on snacks. 他在零食上花了几个美元。
+    - The contract is worth five thousand dollars. 这份合同价值五千美元。
+  - 补充
+    - Dollars 通常指美国货币单位，但在不同国家和地区，“dollar”也指代不同的货币，如加拿大元、澳大利亚元等。

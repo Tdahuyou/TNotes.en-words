@@ -1,0 +1,25 @@
+- shivering
+  - 发音
+    - 英 /ˈʃɪvərɪŋ/
+    - 美 /ˈʃɪvərɪŋ/
+  - 词义
+    - adj. 颤抖的
+      - Shaking slightly due to cold or fear.
+    - v. 颤抖（shiver 的现在分词）
+      - Present participle of shiver.
+  - 同根词
+    - v. shiver 颤抖
+    - adj. shivery 令人颤抖的
+    - n. shiver 颤抖；碎片
+  - 近义词
+    - trembling
+    - quivering
+    - shuddering
+  - 短语
+    - shivering cold 寒冷刺骨
+    - shivering fit 寒颤发作
+  - 例句
+    - The lost child was shivering in the rain. 迷路的孩子在雨中发抖。
+    - Shivering uncontrollably is a symptom of hypothermia. 无法控制的颤抖是体温过低的症状。
+  - 补充
+    - 生理性颤抖是身体产热机制，情绪性颤抖反映恐惧/激动。在医学上区分病理性颤抖（如帕金森震颤）。

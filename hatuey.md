@@ -1,0 +1,20 @@
+- Hatuey
+  - 发音
+    - 英 /hɑːˈtuːeɪ/
+    - 美 /hɑːˈtuːeɪ/
+  - 词义
+    - n. 哈图伊啤酒（古巴啤酒品牌）
+      - A brand of Cuban beer mentioned in literature.
+  - 补充：
+    - 文学作品出处
+      - 《老人与海》(The Old Man and the Sea)
+        - 【105】"I know. But this is in bottles, **Hatuey beer**, and I take back the bottles."
+        - "我知道。但这是瓶装的，哈图伊啤酒，我要把瓶子带回去。"
+      - 在文学作品中常作为古巴风情的象征元素，体现了海明威对古巴生活的熟悉和喜爱。
+    - 背景信息
+      - 古巴历史悠久的啤酒品牌，创立于 1927 年
+      - 名称源自古巴原住民英雄哈图伊（Hatuey）
+      - 现由百威英博集团运营
+    - 文化关联
+      - 海明威在古巴生活时常饮用的啤酒
+      - 代表古巴文化的重要符号

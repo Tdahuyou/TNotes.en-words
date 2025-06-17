@@ -1,0 +1,23 @@
+- asked
+  - 发音
+    - 英 /ɑːskt/
+    - 美 /æskt/
+  - 词义
+    - v. 问，询问；请求（ask 的过去式和过去分词）
+      - To put a question to someone, or to request information from someone.
+  - 同根词
+    - v. ask 问；要求
+    - n. asking 请求；询问
+    - adj. askable 可问的；值得询问的
+  - 近义词
+    - v. questioned 质疑；提问
+    - v. inquired 查询；打听
+  - 短语
+    - asked for 请求；索要
+    - asked about 询问有关...
+    - ask and answer 提问与回答
+  - 例句
+    - She asked me if I was coming to the party. 她问我是否会去参加聚会。
+    - Did you ask about the job vacancy? 你有没有询问那个职位空缺的事？
+  - 补充
+    - "Asked" 是 "ask" 的过去式和过去分词形式，在英语中用来描述已经发生的询问或请求。它广泛应用于日常对话、书面交流以及正式场合中的信息获取或请求帮助的情景。例如，“He asked for your phone number.”意味着他向你请求提供电话号码。此外，"asked" 也常用于间接引语中，表示某人曾经提出的问题或请求。

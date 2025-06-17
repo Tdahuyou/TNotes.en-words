@@ -1,0 +1,22 @@
+- contests
+  - 发音
+    - 英 /ˈkɒntɛsts/
+    - 美 /ˈkɑːntɛsts/
+  - 词义
+    - n. 比赛；竞赛；争论（ contest 的名词复数 ）
+      - A competition or a series of events where people compete to win.
+  - 同根词
+    - v. contest 争斗；竞争
+    - adj. contentious 有争议的；好辩的
+    - n. contestant 竞争者；选手
+  - 近义词
+    - n. competitions 比赛；竞争
+    - n. tournaments 锦标赛；联赛
+  - 短语
+    - beauty contests 选美比赛
+    - writing contests 写作比赛
+  - 例句
+    - She won first prize in the national essay contests. 她在全国性论文竞赛中获得了一等奖。
+    - The local government sponsored several art contests last year. 去年，当地政府赞助了几次艺术比赛。
+  - 补充
+    - Contests 广泛存在于体育、学术、艺术等各个领域，为参与者提供了一个展示才华和技能的平台。通过参与竞赛，人们不仅可以提高个人能力，还有机会赢得奖项和认可。

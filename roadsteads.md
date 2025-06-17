@@ -1,0 +1,31 @@
+- roadsteads
+  - 发音
+    - 英 /ˈrəʊdstedz/
+    - 美 /ˈroʊdstedz/
+  - 词义
+    - n. 锚地；开敞泊地（roadstead 的复数形式）
+      - Sheltered areas near shore where ships can anchor safely.
+  - 同根词
+    - n. roadstead 锚地
+    - n. road 航道；锚地（古义）
+    - v. anchor 抛锚
+    - n. anchorage 锚地；停泊处
+    - adj. roadsteaded 设有锚地的
+  - 近义词
+    - n. 锚泊区
+      - anchorages
+      - roadsteads
+      - moorings
+      - harbors (部分遮蔽)
+  - 短语
+    - exposed roadstead 无遮蔽锚地
+    - sheltered roadstead 避风锚地
+    - naval roadstead 海军锚地
+    - temporary roadstead 临时锚地
+  - 例句
+    - The fleet waited in the roadstead for clearance to enter the port. 舰队在锚地等待进入港口的许可。
+    - Ancient trading ships often used natural roadsteads as overnight shelters. 古代商船常利用天然锚地过夜。
+    - The exposed roadstead provided little protection during the storm. 暴风雨期间，这个无遮蔽锚地几乎无法提供保护。
+    - Charts clearly mark the depth and hazards of major roadsteads. 海图清晰标注了主要锚地的水深和危险物。
+  - 补充
+    - 指海岸附近可供船只停泊的开阔水域，区别于有防波堤的港口。通常缺乏完备设施，但比开放海域安全。历史上是商船队集结地（如拿破仑时期的布洛涅锚地），现代航运中多用作临时等待区。航海需考虑水深、底质和海况。
