@@ -16,6 +16,7 @@
       - hundred
       - plenty
   - 例句
+    - Numerous studies have confirmed this phenomenon. 大量研究证实了这一现象。
     - Numerous attempts have been made to hide the truth. 为掩盖事实作了很多尝试。
     - The two leaders have worked together on numerous occasions. 那两位领导人已经多次合作。
   - 补充

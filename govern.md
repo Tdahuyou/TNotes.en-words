@@ -13,7 +13,7 @@
     - n. governor 主管人员；统治者，管理者；[自] 调节器；地方长官
     - n. governance 管理；统治；支配
     - n. governorship 州长或总督等的职位；州长或总督等的任期
-    - v. governing 统治（govern的ing形式）；支配
+    - v. governing 统治（govern 的 ing 形式）；支配
   - 近义词
     - vt. 管理；支配；统治；控制
       - manage
@@ -21,7 +21,10 @@
       - conduct
       - run
       - regulate
-  - 例句
+  - 短语
     - the leaders who govern the country 治理这个国家的领导人
+  - 例句
+    - Laws govern the use of personal data. 法律规范个人数据的使用。
     - The party had been governing for seven months. 该党执政已经有七个月了。
   - 补充
+    - "Govern" 不仅用于描述政府或领导人对国家的统治和管理，也可泛指规则、法律或因素对行为、现象的约束和影响。

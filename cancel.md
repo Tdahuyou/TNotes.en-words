@@ -6,7 +6,7 @@
     - v. 取消，废除；删去，删除；抵消
       - to decide that something that was officially planned will not happen
   - 记忆
-    - 源自拉丁文cancelli(斜条格钩)， 据说古罗马书写员在抄写错误时会用斜条格钩状来表明注销， 后引入英语， 作“取消”讲
+    - 源自拉丁文 cancelli(斜条格钩)， 据说古罗马书写员在抄写错误时会用斜条格钩状来表明注销， 后引入英语， 作“取消”讲
   - 同根词
     - n. cancellation 取消；删除
   - 近义词
@@ -24,6 +24,7 @@
     - cancel out 取消；抵销
     - cancel after verification 核销
   - 例句
+    - The conference was canceled due to the pandemic. 会议因疫情被取消了。
     - Our flight was cancelled. 我们的航班取消了。
     - I’m afraid I’ll have to cancel our meeting tomorrow. 恐怕我得取消我们明天的会议。
     - You’ll just have to ring John and cancel. 你只能打电话给约翰取消了。

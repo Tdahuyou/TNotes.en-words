@@ -13,6 +13,8 @@
     - vt. 类似，像
       - favor
   - 例句
+    - The twins closely resemble each other. 这对双胞胎长得非常相像。
     - It’s amazing how closely Brian and Steve resemble each other. 布赖恩和史蒂夫真是惊人地相像。
     - He grew up to resemble his father. 他长大了，很像他父亲。
   - 补充
+    - "Resemble" 强调外貌、特征或性质上的相似，常用于描述人与人之间或事物之间的相像关系，不含主动意图，仅陈述事实上的相似性。

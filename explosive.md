@@ -12,8 +12,8 @@
     - adv. explosively 爆发地，引起爆炸地
     - n. explosion 爆炸；爆发；激增
     - n. exploding 爆炸，爆发；水热炸裂
-    - v. exploded 爆炸（explode的过去分词）
-    - v. exploding 爆炸（explode的ing形式）
+    - v. exploded 爆炸（explode 的过去分词）
+    - v. exploding 爆炸（explode 的 ing 形式）
     - vi. explode 爆炸，爆发；激增
     - vt. explode 使爆炸；爆炸；推翻
   - 近义词
@@ -37,6 +37,7 @@
     - explosive powder 爆炸火药
     - explosive ordnance disposal 爆炸性军械处理
   - 例句
+    - The chemical plant stored explosive materials improperly. 化工厂不当存放了爆炸性材料。
     - Because the gas is highly explosive, it needs to be kept in high-pressure containers. 由于这种气体极易爆炸，因此需要保存在高压容器内。
     - A small explosive device (= bomb ) was set off outside the UN headquarters today. 今天有一枚小型炸弹在联合国总部外爆炸。
   - 补充

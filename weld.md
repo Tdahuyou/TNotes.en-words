@@ -10,7 +10,7 @@
     - n. welding 焊接
     - n. welder 焊接工
     - n. weldment 焊件；焊成件；焊接装配
-    - v. welding 焊接；锻接（weld的ing形式）
+    - v. welding 焊接；锻接（weld 的 ing 形式）
   - 近义词
     - vt. [机]焊接；使结合；使成整体
       - combine
@@ -42,3 +42,4 @@
   - 例句
     - The new handle will have to be welded on. 新的把手得焊上去。
   - 补充
+    - ![图 0](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-06-25-21-59-07.png)

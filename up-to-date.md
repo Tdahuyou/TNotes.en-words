@@ -1,0 +1,23 @@
+- up-to-date
+  - 发音
+    - 英 /ˌʌp tʊ ˈdeɪt/
+    - 美 /ˌʌp tu ˈdeɪt/
+  - 词义
+    - adj. 最新的；现代的；与时俱进的
+      - Current or reflecting the latest information or trends.
+  - 同根词
+    - v. update 更新；使现代化
+    - n. update 更新信息；最新消息
+    - adj. updated 已更新的；已修订的
+  - 近义词
+    - adj. current 当前的；现行的
+      - present
+      - latest
+  - 短语
+    - keep up-to-date 保持最新；紧跟时代
+    - up-to-date information 最新信息
+  - 例句
+    - It's important to keep your software up-to-date to ensure security. 保持软件最新对于确保安全性很重要。
+    - The report contains all the up-to-date facts about the project. 报告包含了关于项目的全部最新事实。
+  - 补充
+    - "Up-to-date"是一个非常实用的词汇，广泛应用于各种场合，从技术产品到新闻报道。它强调内容或事物与最新的发展、趋势或时间点保持一致。无论是在专业领域还是日常生活中，维持“up-to-date”状态都非常重要，可以帮助人们获取最新信息，做出更为准确的决策。

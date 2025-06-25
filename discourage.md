@@ -12,8 +12,8 @@
     - adj. discouraging 使人沮丧的；令人气馁的
     - adv. discouragingly 使人气馁地，使人沮丧地；阻止地
     - n. discouragement 气馁；挫折；劝阻
-    - v. discouraged 劝阻（discourage的过去分词）；使失去勇气
-    - v. discouraging 沮丧（discourage的ing形式）；失去勇气
+    - v. discouraged 劝阻（discourage 的过去分词）；使失去勇气
+    - v. discouraging 沮丧（discourage 的 ing 形式）；失去勇气
   - 近义词
     - vt. 阻止；使气馁
       - stem
@@ -21,5 +21,7 @@
       - dispute
       - prohibit
   - 例句
+    - High prices discourage people from buying electric cars. 高昂价格阻碍人们购买电动车。
     - You should not let one failure discourage you. 你不该失败一次就灰心丧气。
   - 补充
+    - "Discourage" 常用于表达通过某种行为或因素使人失去信心或减弱做某事的意愿，既可用于外部环境对人的影响，也可用于主动劝阻他人。

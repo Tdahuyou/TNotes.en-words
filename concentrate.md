@@ -11,7 +11,7 @@
     - adj. concentrated 集中的；浓缩的；全神贯注的
     - n. concentration 浓度；集中；浓缩；专心；集合
     - n. concentricity 同心；集中性
-    - v. concentrated 集中（concentrate的过去分词）
+    - v. concentrated 集中（concentrate 的过去分词）
     - v. concentre 集中于一点
     - vi. concenter 聚集于一点
     - vt. concenter 集合
@@ -43,3 +43,5 @@
     - Now please concentrate. 现在请集中注意力。
     - Adrian was finding it difficult to concentrate. 阿德里安觉得自己很难集中注意力。
   - 补充
+    - "Concentrate" 既可以表示物理上的浓缩，也可以表示精神上的集中，使用时需根据语境区分。
+    - ![图 0](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-06-25-22-19-18.png)

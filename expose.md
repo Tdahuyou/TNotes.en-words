@@ -10,7 +10,7 @@
   - 同根词
     - adj. exposed 暴露的，无掩蔽的
     - n. exposure 暴露；曝光；揭露；陈列
-    - v. exposed 暴露，揭露（expose的过去分词）
+    - v. exposed 暴露，揭露（expose 的过去分词）
   - 近义词
     - vt. 揭露，揭发；使曝光；显示
       - reveal
@@ -18,5 +18,6 @@
       - make clear
       - disclose
   - 例句
-    - He lifted his T-shirt to expose a jagged scar across his chest. 他撩起T恤衫，露出横贯胸部的锯齿状伤疤。
+    - He lifted his T-shirt to expose a jagged scar across his chest. 他撩起 T 恤衫，露出横贯胸部的锯齿状伤疤。
   - 补充
+    - "Expose" 常用于揭示隐藏或被掩盖的事物，也可表示使某人或某物暴露于某种环境或风险中。

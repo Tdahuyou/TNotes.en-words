@@ -21,7 +21,10 @@
       - study
       - break down
   - 例句
+    - Students need to analyse statistical data in this assignment. 学生需要在这项作业中分析统计数据。
     - She still needs to analyse the data. 她仍需要分析这些数据。
     - You need to sit down and analyse why you feel so upset. 你得坐下来想一想自己为什么会那么生气。
     - Joe had never tried to analyze their relationship. 乔从未试图去理清他们的关系。
   - 补充
+    - "Analyse" 强调对复杂问题或现象进行系统性拆解与研究，以找出其中的逻辑关系和本质特征，常用于学术、科学及日常问题解决过程中。
+    - ![图 0](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-06-25-22-26-59.png)
