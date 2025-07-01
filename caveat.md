@@ -1,0 +1,24 @@
+- caveat
+  - 发音
+    - 英 /ˈkævɪæt/
+    - 美 /ˈkæviˌæt/
+  - 词义
+    - n. 警告；告诫；附加条件
+      - A warning or caution given in order to advise or restrict action.
+  - 同根词
+    - v. caveat 提醒；警告
+    - adj. cautionary 警告的；告诫的
+    - n. caution 小心，谨慎；警告
+  - 近义词
+    - n. warning 警告；警示
+      - caution
+      - admonition
+  - 短语
+    - caveat emptor 买家自负（法律术语）
+    - with this caveat 在有此警告的前提下
+  - 例句
+    - The lawyer added a caveat to the contract to protect his client's interests. 律师在合同中添加了一条警告以保护其当事人的利益。
+    - This information comes with a caveat: it might change without notice. 此信息附带一个警告：它可能在没有通知的情况下变更。
+  - 补充
+    - Caveat 是一个拉丁词汇，意为“让那个人注意”或“警告”。在英文中，它通常用于法律和商业上下文中，作为一种预防措施，用来提醒人们注意某些潜在的问题或者限制。Caveat emptor（买家当心）是其中最著名的短语之一，强调购买者有责任检查物品的质量和适用性。在更广泛的应用中，caveat 可以指任何类型的警告或注解，用于提示听众或读者可能存在的情况或限制。
+    - 在技术文档或代码注释中，"caveats" 一词常用来提醒开发者在使用某个功能或实现某些代码时需要注意的地方。
