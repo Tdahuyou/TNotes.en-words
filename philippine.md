@@ -9,7 +9,8 @@
     - philippine sea 菲律宾海
     - philippine islands 菲律宾群岛
   - 例句
-    - CMMI certification, she says, would ensure a higher quality of software development and help Philippine software companies compete more effectively, particularly in the international market. 她说，CMMI认证将确保更高质量的软件开发，帮助菲律宾的软件公司，特别是在国际市场上，更有效地竞争。
+    - CMMI certification, she says, would ensure a higher quality of software development and help Philippine software companies compete more effectively, particularly in the international market. 她说，CMMI 认证将确保更高质量的软件开发，帮助菲律宾的软件公司，特别是在国际市场上，更有效地竞争。
     - Among the outstanding questions is whether victims were killed by Mendoza's or Philippine police bullets during the botched rescue operation and how the negotiation process was carried out. 在蹩脚的救援行动期间，遇难者是死于门多萨还是菲律宾警方的子弹，以及他们到底怎样进行的谈判，这些问题到现在依然是个迷。
     - During the trip, the youth met with staff from the Philippine Rural Reconstruction Movement. 在旅程中，这班年青人跟「菲律宾乡村重建运动」的人员会面。
   - 补充
+    - 在 Redis 中，PFADD 命令中的 PF 是 Philippe Flajolet 的缩写，他是提出 HyperLogLog 算法的计算机科学家之一。Redis 的创始人 Salvatore Sanfilippo（又称 antirez）为了致敬这些研究者，在实现 HyperLogLog 相关命令时使用了他们的名字缩写。PFADD、PFCOUNT 和 PFMERGE 中的 PF 即来源于此。
