@@ -1,0 +1,22 @@
+- mutator
+  - 发音
+    - 英 /ˈmjuːteɪtə/
+    - 美 /ˈmjuːteɪtər/
+  - 词义
+    - n. 变异子；突变体生成器（编程中用于改变对象状态的方法）
+      - In object-oriented programming, a method used to alter the state of an object.
+  - 同根词
+    - v. mutate 改变，变异
+    - adj. mutable 可变的
+    - n. mutation 变异，变化
+  - 近义词
+    - n. modifier 修改器
+    - n. transformer 转换器
+  - 短语
+    - mutator method 变更方法
+    - genetic mutator 基因变异因子
+  - 例句
+    - This class contains several mutator methods for updating its properties. 这个类包含了几个用于更新其属性的变更方法。
+    - The genetic mutator played a key role in the evolution of this species. 基因变异因子在这个物种的进化中发挥了关键作用。
+  - 补充
+    - 在面向对象编程中，mutator 是用于修改对象内部状态的方法。通常与 accessor（访问器）方法一起使用，前者用于修改数据成员，后者用于读取数据成员。正确地使用 mutator 方法有助于保护对象的数据不被非法或意外修改。

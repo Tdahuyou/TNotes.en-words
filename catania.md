@@ -1,0 +1,21 @@
+- Catania
+  - 发音
+    - 英 /kəˈteɪniə/
+    - 美 /kəˈteɪniə/
+  - 词义
+    - n. 卡塔尼亚（意大利西西里岛东海岸的一个城市）
+      - A city on the eastern coast of Sicily, Italy.
+  - 同根词
+    - adj. Catanesi 指相关于卡塔尼亚的
+  - 近义词
+    - n. 城市名
+      - Palermo 巴勒莫
+      - Messina 梅西纳
+  - 短语
+    - Catania Cathedral 卡塔尼亚主教座堂
+    - Catania Fish Market 卡塔尼亚鱼市场
+  - 例句
+    - We visited the ancient Catania Cathedral during our trip to Sicily. 我们在访问西西里时参观了古老的卡塔尼亚主教座堂。
+    - The Catania Fish Market offers a variety of fresh seafood. 卡塔尼亚鱼市场提供了各种新鲜的海鲜。
+  - 补充
+    - Catania 以其独特的地理位置、丰富的历史文化遗产以及美食而闻名，尤其是其壮观的巴洛克风格建筑。

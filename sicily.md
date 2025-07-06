@@ -1,8 +1,21 @@
 - Sicily
   - 发音
-    - 英 /'sisili/
-    - 美 /'sisili/
+    - 英 /ˈsɪlɪsi/
+    - 美 /ˈsɪlɪsi/
   - 词义
+    - n. 西西里岛（意大利的一个岛屿）
+      - The largest island in the Mediterranean Sea and an autonomous region of Italy.
+  - 同根词
+    - adj. Sicilian 西西里岛的；西西里人的
+    - n. Sicilian 西西里人；西西里语
+  - 近义词
+    - n. island 岛屿
+    - n. Mediterranean island 地中海岛屿
+  - 短语
+    - Sicily Island 西西里岛
+    - Sicilian pizza 西西里比萨
   - 例句
-    - A group of wealthy friends are cruising the sea near Sicily on a yacht. 一群有钱人开着游艇在西西里岛附近的海上游弋。
+    - We spent our vacation exploring the beautiful coastlines of Sicily. 我们度假时探索了西西里岛美丽的海岸线。
+    - Sicilian cuisine is famous for its variety and flavor. 西西里菜肴以其多样性和风味而闻名。
   - 补充
+    - 西西里岛不仅因其自然美景和悠久历史而著名，还因为其丰富的文化遗产和美食吸引了世界各地的游客。

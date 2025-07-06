@@ -1,0 +1,21 @@
+- Palermo
+  - 发音
+    - 英 /pəˈlɜːməʊ/
+    - 美 /pəˈlɜrmoʊ/
+  - 词义
+    - n. 巴勒莫（意大利西西里岛的首府）
+      - The capital and largest city of Sicily, located on the island's northwestern coast.
+  - 同根词
+    - adj. Palermitan 属于或关于巴勒莫的
+    - n. Palermitan 巴勒莫居民
+  - 近义词
+    - n. city 城市
+    - n. capital 首都；省会
+  - 短语
+    - Palermo Cathedral 巴勒莫主教座堂
+    - Palermo Market 巴勒莫市场
+  - 例句
+    - They visited the historic Palermo Cathedral during their trip to Italy. 在他们访问意大利期间，参观了历史悠久的巴勒莫主教座堂。
+    - The vibrant street markets in Palermo offer a wide range of local products. 巴勒莫充满活力的街头市场提供了广泛的本地产品。
+  - 补充
+    - 巴勒莫是一座拥有丰富历史和文化的城市，以其建筑、美食和热闹的市场而闻名。这座城市反映了多种文化的影响，包括阿拉伯、诺曼、拜占庭等，这些都在城市的建筑风格中得到了体现。
