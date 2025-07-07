@@ -1,0 +1,24 @@
+- Geospatial
+  - 发音
+    - 英 /ˌdʒiː.əʊˈspeɪ.ʃəl/
+    - 美 /ˌdʒi.oʊˈspæ.ʃəl/
+  - 词义
+    - adj. 地理空间的；地理信息的
+      - Relating to or denoting data that is associated with a particular location.
+  - 同根词
+    - n. geospatialist 地理空间学家
+    - n. geospatialization 地理空间化
+    - v. geospatialize 使地理空间化
+  - 近义词
+    - adj. spatial 空间的
+      - related to space and the position, size, or other characteristics of objects within it.
+    - adj. geographic 地理的
+      - relating to geography or the arrangement of features on the earth's surface.
+  - 短语
+    - geospatial data 地理空间数据
+    - geospatial analysis 地理空间分析
+  - 例句
+    - The company uses advanced geospatial technologies for mapping and urban planning. 该公司使用先进的地理空间技术进行制图和城市规划。
+    - Geospatial data helps in understanding patterns and trends across different regions. 地理空间数据有助于理解不同区域之间的模式和趋势。
+  - 补充
+    - Geospatial 技术和数据在环境管理、自然资源保护、灾害响应、智能城市规划等领域扮演着重要角色。通过结合地图和其他地理信息，它能够提供对复杂问题的深刻见解，并支持更有效的决策制定过程。

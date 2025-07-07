@@ -4,7 +4,7 @@
     - 美 /'lɑndʒətud/
   - 词义
     - n. 经度，经线
-      - the distance east or west of a particular  meridian (= imaginary line along the Earth’s surface from the North Pole to the South Pole )  , measured in degrees
+      - the distance east or west of a particular meridian (= imaginary line along the Earth’s surface from the North Pole to the South Pole ) , measured in degrees
   - 记忆
     - long(长的) + it + ude → 连接南北两极的长线 → 经线
   - 同根词
@@ -19,5 +19,5 @@
     - east longitude 东经
     - west longitude 西经
   - 例句
-    - The town lies at longitude 12˚ east. 这个镇位于东经12度。
+    - The town lies at longitude 12˚ east. 这个镇位于东经 12 度。
   - 补充

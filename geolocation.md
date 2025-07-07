@@ -1,0 +1,23 @@
+- Geolocation
+  - 发音
+    - 英 /dʒiː.əʊˈlɒk.eɪ.ʃən/
+    - 美 /dʒi.oʊˈloʊ.keɪ.ʃən/
+  - 词义
+    - n. 地理定位；地理位置识别
+      - The process or technique of identifying the location of a device or object using digital information processed via the Internet or other electronic means.
+  - 同根词
+    - adj. geolocational 相关于地理定位的
+    - v. geolocate 进行地理定位
+    - n. geolocator 地理定位器
+  - 近义词
+    - n. 定位技术
+      - GPS positioning GPS 定位
+      - location tracking 位置追踪
+  - 短语
+    - geolocation services 地理定位服务
+    - geolocation data 地理定位数据
+  - 例句
+    - Many apps use geolocation to provide personalized content based on where you are. 许多应用程序使用地理定位来根据你的所在位置提供个性化内容。
+    - Geolocation data can help businesses understand their customers' movements and preferences. 地理定位数据可以帮助企业了解客户的移动和偏好。
+  - 补充
+    - Geolocation 技术广泛应用于各种领域，如市场营销、社交媒体、紧急服务等，以提高用户的服务体验或满足特定的需求。然而，它的使用也带来了关于隐私保护的问题。
