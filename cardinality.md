@@ -1,0 +1,24 @@
+- cardinality
+  - 发音
+    - 英 /ˌkɑː.dɪˈnæl.ɪ.ti/
+    - 美 /ˌkɑr.dəˈnæl.ə.ti/
+  - 词义
+    - n. 基数；势（数学中集合大小的度量）
+      - In mathematics, the cardinality of a set is a measure of the "number of elements" of the set.
+  - 同根词
+    - adj. cardinal 主要的；基本的
+    - n. cardinalate 枢机主教之职位或身份
+    - v. cardinalize 使成为主要的
+  - 近义词
+    - n. size 大小；尺寸
+      - The dimensions or magnitude of an object or space.
+    - n. quantity 数量
+      - The amount or number of something.
+  - 短语
+    - cardinality of a set 集合的基数
+    - high cardinality 高基数（在数据库中指唯一值数量非常高的字段）
+  - 例句
+    - The concept of cardinality is important in database design and data analysis. 基数的概念在数据库设计和数据分析中非常重要。
+    - Understanding the cardinality of sets helps mathematicians solve complex problems. 理解集合的基数有助于数学家解决复杂问题。
+  - 补充
+    - 在关系型数据库管理系统的上下文中，cardinality 描述了两个表之间的关系类型。高基数字段指的是那些包含大量不同值的字段，在索引和查询优化时需要特别考虑。此外，基数也是集合论中的一个基础概念，用于比较无限集的大小。
