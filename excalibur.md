@@ -1,0 +1,24 @@
+- Excalibur
+  - 发音
+    - 英 /ɛkˈskælɪbə/
+    - 美 /ɛkˈskælɪbər/
+  - 词义
+    - n. 《亚瑟王传奇》中的圣剑；无与伦比的力量或技能
+      - In Arthurian legend, the sword of King Arthur; also used to refer to unparalleled power or skill.
+  - 同根词
+    - adj. excaliburian 类似 Excalibur 的；如圣剑般的（非标准词汇，用于描述类似特质）
+    - v. excaliburize （虚构词，表示使某物变成或赋予其 Excalibur 的特性）
+  - 近义词
+    - n. Sword of King Arthur 亚瑟王之剑
+      - Another name for Excalibur in English legends.
+    - n. legendary weapon 传奇武器
+      - A weapon renowned in myth and folklore for its magical properties or significance.
+  - 短语
+    - draw Excalibur from the stone 从石头中拔出 Excalibur
+    - the legend of Excalibur Excalibur 传说
+  - 例句
+    - According to legend, only the true king could draw Excalibur from the stone. 根据传说，只有真正的国王才能从石头中拔出 Excalibur。
+    - The artist chose the name Excalibur for his new sculpture, hoping it would symbolize strength and purity. 艺术家选择 Excalibur 作为他的新雕塑的名字，希望它能象征力量和纯洁。
+  - 补充
+    - Excalibur 是西方文学中最著名的宝剑之一，尤其在关于亚瑟王的故事中扮演了重要角色。这把剑不仅代表了权力和正义，还象征着统治的合法性。它的故事激发了许多艺术作品、电影和其他文化的创作灵感。
+    - ![图 0](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-07-10-05-30-57.png)
