@@ -1,0 +1,25 @@
+- sepia
+  - 发音
+    - 英 /ˈsiːpiə/
+    - 美 /ˈsiːpiə/
+  - 词义
+    - n. 褐色，棕褐色；乌贼墨（一种深棕色）
+      - A dark reddish-brown color resembling that of dried blood or the pigment from certain cephalopods used in making ink.
+    - adj. 褐色的，棕褐色的
+      - Having a dark reddish-brown color.
+  - 同根词
+    - adj. sepian 深褐色的；似乌贼墨的
+    - n. sepias 褐色色调的照片或绘画
+  - 近义词
+    - n. brownish-red 棕红色
+      - Another term for reddish-brown colors similar to sepia.
+    - n. burnt sienna 锻焦土黄
+      - A color close to sepia, often used in painting and drawing.
+  - 短语
+    - sepia tone 褐色调
+    - sepia photograph 棕褐色照片
+  - 例句
+    - The old photographs were all done in sepia tones, giving them a nostalgic feel. 这些老照片都采用棕褐色调，赋予它们一种怀旧感。
+    - She chose sepia ink for her drawing to give it an antique look. 她选择使用褐色墨水作画，以赋予作品一种古董般的外观。
+  - 补充
+    - Sepia 常用于描述具有历史感和复古风格的照片或艺术作品的颜色。在 19 世纪末，由于其耐光性和稳定性，这种颜色被广泛应用于摄影中。现在，sepia 色调也被用来表达温暖、记忆或是时间的流逝。
